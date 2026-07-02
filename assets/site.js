@@ -49,10 +49,13 @@ async function init() {
   bindSectionsMenu();
   bindGlossaryNavigation();
   bindGlossaryResize();
+  bindRouteNavigation();
 
   const firstSection = manifest.chapters[0]?.sections[0];
-  if (firstSection) {
-    await openSection(firstSection.sourceUrl);
+  const route = routeFromLocation();
+  const routedSection = sectionForRoute(route) || firstSection;
+  if (routedSection) {
+    await openSection(routedSection.sourceUrl, { replace: true, term: route.term });
   }
 }
 
@@ -166,7 +169,20 @@ function bindGlossaryResize() {
   });
 }
 
-async function openSection(sourceUrl) {
+function bindRouteNavigation() {
+  window.addEventListener('popstate', handleRouteNavigation);
+  window.addEventListener('hashchange', handleRouteNavigation);
+}
+
+async function handleRouteNavigation() {
+  const route = routeFromLocation();
+  const section = sectionForRoute(route);
+  if (section) {
+    await openSection(section.sourceUrl, { updateUrl: false, term: route.term });
+  }
+}
+
+async function openSection(sourceUrl, options = {}) {
   const match = state.sectionIndex.find(({ section }) => section.sourceUrl === sourceUrl);
   if (!match) {
     return;
@@ -182,6 +198,12 @@ async function openSection(sourceUrl) {
   els.reader.scrollTop = 0;
   renderReferences(match.section.references);
   renderGlossary(glossaryEntries);
+  if (options.updateUrl !== false) {
+    updateRoute(match.section, options.term, { replace: options.replace });
+  }
+  if (options.term) {
+    focusGlossaryTerm(options.term, { updateUrl: false });
+  }
 }
 
 function renderReferences(references) {
@@ -388,7 +410,7 @@ function toggleGlossaryUses(button) {
   list.hidden = isExpanded;
 }
 
-function focusGlossaryTerm(term) {
+function focusGlossaryTerm(term, options = {}) {
   const normalizedTerm = normalizeGlossaryTerm(term);
   let entry = state.visibleGlossary.find((candidate) => candidate.normalized === normalizedTerm);
   if (!entry) {
@@ -403,6 +425,9 @@ function focusGlossaryTerm(term) {
   if (target) {
     target.scrollIntoView({ block: 'start', behavior: 'smooth' });
   }
+  if (entry && options.updateUrl !== false) {
+    updateRoute(activeSection(), entry.normalized);
+  }
 }
 
 function focusTermUse(id) {
@@ -412,7 +437,54 @@ function focusTermUse(id) {
   }
   target.scrollIntoView({ block: 'center', behavior: 'smooth' });
   target.classList.add('glossary-term-focus');
+  if (target.dataset.term) {
+    updateRoute(activeSection(), target.dataset.term);
+  }
   window.setTimeout(() => target.classList.remove('glossary-term-focus'), 1200);
+}
+
+function activeSection() {
+  return state.sectionIndex.find(({ section }) => section.sourceUrl === state.activeSection)?.section;
+}
+
+function updateRoute(section, term = '', options = {}) {
+  if (!section) {
+    return;
+  }
+  const params = new URLSearchParams();
+  params.set('section', section.number || section.sourceUrl);
+  if (term) {
+    params.set('term', normalizeGlossaryTerm(term));
+  }
+  const nextUrl = `${location.pathname}${location.search}#${params.toString()}`;
+  const currentUrl = `${location.pathname}${location.search}${location.hash}`;
+  if (nextUrl === currentUrl) {
+    return;
+  }
+  const method = options.replace ? 'replaceState' : 'pushState';
+  history[method](null, '', nextUrl);
+}
+
+function routeFromLocation() {
+  const hash = location.hash.startsWith('#') ? location.hash.slice(1) : location.hash;
+  const params = new URLSearchParams(hash);
+  return {
+    section: params.get('section') || '',
+    term: params.get('term') || '',
+  };
+}
+
+function sectionForRoute(route) {
+  if (!route.section) {
+    return null;
+  }
+  const normalizedSection = normalize(route.section);
+  const match = state.sectionIndex.find(({ section }) => (
+    normalize(section.number) === normalizedSection
+    || normalize(section.sourceUrl) === normalizedSection
+    || normalize(section.title).includes(normalizedSection)
+  ));
+  return match?.section || null;
 }
 
 async function loadGlossary(manifest) {
