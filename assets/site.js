@@ -11,6 +11,7 @@ const state = {
   glossaryByTerm: new Map(),
   visibleGlossary: [],
   termUses: new Map(),
+  manifestCache: new Map(),
 };
 
 const els = {
@@ -43,7 +44,7 @@ async function init() {
   bindTitleSelect();
 
   const route = routeFromLocation();
-  const title = titleForRoute(route) || state.titleIndex.find((candidate) => candidate.scope === defaultTitleScope) || state.titleIndex[0];
+  const title = titleForRoute(route) || defaultTitle();
   if (!title) {
     throw new Error('No ORC titles are available.');
   }
@@ -57,7 +58,7 @@ async function init() {
 }
 
 async function loadTitle(title, options = {}) {
-  const manifest = await fetchJson(title.manifestPath);
+  const manifest = await loadManifest(title);
   state.currentTitle = title;
   state.manifest = manifest;
   state.sectionIndex = manifest.chapters.flatMap((chapter) => chapter.sections.map((section) => ({ chapter, section })));
@@ -82,6 +83,13 @@ async function loadTitle(title, options = {}) {
   if (routedSection) {
     await openSection(routedSection.sourceUrl, { replace: options.replace, term: route.term });
   }
+}
+
+async function loadManifest(title) {
+  if (!state.manifestCache.has(title.manifestPath)) {
+    state.manifestCache.set(title.manifestPath, await fetchJson(title.manifestPath));
+  }
+  return state.manifestCache.get(title.manifestPath);
 }
 
 function renderTitleSelect() {
@@ -218,7 +226,7 @@ function bindRouteNavigation() {
 
 async function handleRouteNavigation() {
   const route = routeFromLocation();
-  const title = titleForRoute(route);
+  const title = titleForRoute(route) || defaultTitle();
   if (title && title.manifestPath !== state.currentTitle?.manifestPath) {
     await loadTitle(title, { route, replace: true });
     return;
@@ -259,17 +267,85 @@ function renderReferences(references) {
     return;
   }
   els.references.innerHTML = references.map((reference) => {
-    const local = state.sectionIndex.find(({ section }) => section.sourceUrl === reference.url);
-    const attrs = local ? `href="#" data-source="${escapeHtml(reference.url)}"` : `href="${escapeHtml(reference.url)}" target="_blank" rel="noreferrer"`;
+    const targetTitle = titleForReference(reference);
+    const attrs = targetTitle
+      ? `href="${escapeHtml(routeForReference(reference, targetTitle))}" data-reference-url="${escapeHtml(reference.url)}" data-reference-section="${escapeHtml(reference.number || reference.label)}" data-reference-title="${escapeHtml(targetTitle.manifestPath)}"`
+      : `href="${escapeHtml(reference.url)}" target="_blank" rel="noreferrer"`;
     return `<a class="reference-pill" ${attrs}>${escapeHtml(reference.label)}</a>`;
   }).join('');
 
-  els.references.querySelectorAll('[data-source]').forEach((link) => {
-    link.addEventListener('click', (event) => {
+  els.references.querySelectorAll('[data-reference-title]').forEach((link) => {
+    link.addEventListener('click', async (event) => {
       event.preventDefault();
-      openSection(link.dataset.source);
+      await openReference(link);
     });
   });
+}
+
+async function openReference(link) {
+  const title = state.titleIndex.find((candidate) => candidate.manifestPath === link.dataset.referenceTitle);
+  if (!title) {
+    location.href = link.dataset.referenceUrl;
+    return;
+  }
+
+  if (title.manifestPath === state.currentTitle?.manifestPath) {
+    await openSection(link.dataset.referenceUrl);
+    return;
+  }
+
+  const manifest = await loadManifest(title);
+  const section = findSectionInManifest(manifest, link.dataset.referenceSection, link.dataset.referenceUrl);
+  if (!section) {
+    location.href = link.dataset.referenceUrl;
+    return;
+  }
+  await loadTitle(title, { route: { section: section.number || section.sourceUrl }, replace: false });
+}
+
+function titleForReference(reference) {
+  const local = state.sectionIndex.find(({ section }) => section.sourceUrl === reference.url || section.number === reference.number);
+  if (local) {
+    return state.currentTitle;
+  }
+  return titleForSectionNumber(reference.number || reference.label || reference.url);
+}
+
+function titleForSectionNumber(value) {
+  const sectionNumber = sectionNumberFromReference(value);
+  if (!sectionNumber) {
+    return null;
+  }
+  return state.titleIndex
+    .map((title) => ({ title, number: titleNumber(title) }))
+    .filter(({ number }) => number && sectionNumber.startsWith(number))
+    .sort((left, right) => right.number.length - left.number.length)[0]?.title || null;
+}
+
+function titleNumber(title) {
+  return title.sourceUrl?.match(/title-(\d+)/)?.[1] || title.scope?.match(/Title\s+(\d+)/)?.[1] || '';
+}
+
+function sectionNumberFromReference(value) {
+  const text = String(value || '');
+  return text.match(/section-([\w.-]+)/)?.[1] || text.match(/\b\d+[\w.-]*\b/)?.[0] || '';
+}
+
+function routeForReference(reference, title) {
+  const params = new URLSearchParams();
+  if (title.scope !== defaultTitleScope) {
+    params.set('title', title.scope);
+  }
+  params.set('section', reference.number || sectionNumberFromReference(reference.url) || reference.url);
+  return `#${params.toString()}`;
+}
+
+function findSectionInManifest(manifest, sectionNumber, sourceUrl) {
+  const normalizedNumber = normalize(sectionNumber || sectionNumberFromReference(sourceUrl));
+  const normalizedUrl = normalize(sourceUrl);
+  return manifest.chapters
+    .flatMap((chapter) => chapter.sections)
+    .find((section) => normalize(section.number) === normalizedNumber || normalize(section.sourceUrl) === normalizedUrl) || null;
 }
 
 function renderGlossary(entries, activeTerm = '') {
@@ -535,6 +611,10 @@ function titleForRoute(route) {
     || normalize(title.manifestPath) === normalizedTitle
     || normalize(title.scope).includes(normalizedTitle)
   )) || null;
+}
+
+function defaultTitle() {
+  return state.titleIndex.find((candidate) => candidate.scope === defaultTitleScope) || state.titleIndex[0];
 }
 
 function sectionForRoute(route) {
