@@ -1,7 +1,10 @@
-const manifestPath = 'reference/ohio-revised-code/data/formatted/Title 35 - Elections/manifest.json';
+const titleIndexPath = 'reference/ohio-revised-code/data/formatted/titles.json';
+const defaultTitleScope = 'Title 35 - Elections';
 
 const state = {
+  titleIndex: [],
   manifest: null,
+  currentTitle: null,
   activeSection: null,
   sectionIndex: [],
   glossaryEntries: [],
@@ -18,6 +21,7 @@ const els = {
   reader: document.querySelector('#reader'),
   references: document.querySelector('#referenceList'),
   glossary: document.querySelector('#glossaryList'),
+  titleSelect: document.querySelector('#titleSelect'),
   glossaryPanel: document.querySelector('.glossary-panel'),
   glossaryResizeHandle: document.querySelector('#glossaryResizeHandle'),
   sectionsToggle: document.querySelector('#sectionsToggle'),
@@ -33,30 +37,68 @@ init().catch((error) => {
 });
 
 async function init() {
-  const manifest = await fetchJson(manifestPath);
-  state.manifest = manifest;
-  state.sectionIndex = manifest.chapters.flatMap((chapter) => chapter.sections.map((section) => ({ chapter, section })));
-  state.glossaryEntries = await loadGlossary(manifest);
-  state.glossaryByTerm = buildGlossaryLookup(state.glossaryEntries);
+  const titleIndex = await fetchJson(titleIndexPath);
+  state.titleIndex = titleIndex.titles || [];
+  renderTitleSelect();
+  bindTitleSelect();
 
-  els.browserTitle.textContent = manifest.scope;
-  els.collectionScope.textContent = manifest.collection;
-  els.summary.textContent = `${manifest.counts.chapters} chapters, ${manifest.counts.sections} sections`;
-  els.download.href = manifest.downloads.zip;
+  const route = routeFromLocation();
+  const title = titleForRoute(route) || state.titleIndex.find((candidate) => candidate.scope === defaultTitleScope) || state.titleIndex[0];
+  if (!title) {
+    throw new Error('No ORC titles are available.');
+  }
+  await loadTitle(title, { route, replace: true });
 
-  renderNavigation(manifest.chapters);
   bindSearch();
   bindSectionsMenu();
   bindGlossaryNavigation();
   bindGlossaryResize();
   bindRouteNavigation();
+}
+
+async function loadTitle(title, options = {}) {
+  const manifest = await fetchJson(title.manifestPath);
+  state.currentTitle = title;
+  state.manifest = manifest;
+  state.sectionIndex = manifest.chapters.flatMap((chapter) => chapter.sections.map((section) => ({ chapter, section })));
+  state.glossaryEntries = await loadGlossary(manifest);
+  state.glossaryByTerm = buildGlossaryLookup(state.glossaryEntries);
+  state.activeSection = null;
+  state.visibleGlossary = [];
+  state.termUses = new Map();
+
+  els.browserTitle.textContent = manifest.scope;
+  els.collectionScope.textContent = manifest.collection;
+  els.summary.textContent = `${manifest.counts.chapters} chapters, ${manifest.counts.sections} sections`;
+  els.download.href = manifest.downloads.zip;
+  els.download.textContent = manifest.scope === defaultTitleScope ? 'Download ORC Title 35 ZIP' : 'Download ORC ZIP';
+  els.titleSelect.value = title.manifestPath;
+
+  renderNavigation(manifest.chapters);
 
   const firstSection = manifest.chapters[0]?.sections[0];
-  const route = routeFromLocation();
+  const route = options.route || {};
   const routedSection = sectionForRoute(route) || firstSection;
   if (routedSection) {
-    await openSection(routedSection.sourceUrl, { replace: true, term: route.term });
+    await openSection(routedSection.sourceUrl, { replace: options.replace, term: route.term });
   }
+}
+
+function renderTitleSelect() {
+  els.titleSelect.innerHTML = state.titleIndex.map((title) => (
+    `<option value="${escapeHtml(title.manifestPath)}">${escapeHtml(title.scope)}</option>`
+  )).join('');
+}
+
+function bindTitleSelect() {
+  els.titleSelect.addEventListener('change', async () => {
+    const title = state.titleIndex.find((candidate) => candidate.manifestPath === els.titleSelect.value);
+    if (!title || title.manifestPath === state.currentTitle?.manifestPath) {
+      return;
+    }
+    els.search.value = '';
+    await loadTitle(title, { replace: false });
+  });
 }
 
 function renderNavigation(chapters, query = '') {
@@ -176,6 +218,11 @@ function bindRouteNavigation() {
 
 async function handleRouteNavigation() {
   const route = routeFromLocation();
+  const title = titleForRoute(route);
+  if (title && title.manifestPath !== state.currentTitle?.manifestPath) {
+    await loadTitle(title, { route, replace: true });
+    return;
+  }
   const section = sectionForRoute(route);
   if (section) {
     await openSection(section.sourceUrl, { updateUrl: false, term: route.term });
@@ -452,6 +499,9 @@ function updateRoute(section, term = '', options = {}) {
     return;
   }
   const params = new URLSearchParams();
+  if (state.currentTitle?.scope && state.currentTitle.scope !== defaultTitleScope) {
+    params.set('title', state.currentTitle.scope);
+  }
   params.set('section', section.number || section.sourceUrl);
   if (term) {
     params.set('term', normalizeGlossaryTerm(term));
@@ -469,9 +519,22 @@ function routeFromLocation() {
   const hash = location.hash.startsWith('#') ? location.hash.slice(1) : location.hash;
   const params = new URLSearchParams(hash);
   return {
+    title: params.get('title') || '',
     section: params.get('section') || '',
     term: params.get('term') || '',
   };
+}
+
+function titleForRoute(route) {
+  if (!route.title) {
+    return null;
+  }
+  const normalizedTitle = normalize(route.title);
+  return state.titleIndex.find((title) => (
+    normalize(title.scope) === normalizedTitle
+    || normalize(title.manifestPath) === normalizedTitle
+    || normalize(title.scope).includes(normalizedTitle)
+  )) || null;
 }
 
 function sectionForRoute(route) {

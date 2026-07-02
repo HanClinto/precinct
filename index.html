@@ -12,16 +12,18 @@
         <p class="eyebrow">Precinct Reference Library</p>
         <h1>Public civic references, organized for use.</h1>
       </div>
-      <a class="download-link" id="downloadLink" href="https://github.com/HanClinto/precinct/releases/download/orc-title-35-latest/ohio-revised-code-title-35.zip">Download ORC Title 35 ZIP</a>
+      <a class="download-link" id="downloadLink" href="https://github.com/HanClinto/precinct/releases/download/orc-latest/ohio-revised-code.zip">Download ORC ZIP</a>
     </header>
 
     <main class="layout">
       <aside class="collection-list" aria-label="Reference collections">
         <h2>Collections</h2>
-        <button class="collection-card active" type="button" data-collection="orc">
+        <label class="collection-card active" data-collection="orc">
           <span>Ohio Revised Code</span>
-          <strong>Title 35 - Elections</strong>
-        </button>
+          <select id="titleSelect" aria-label="Ohio Revised Code title">
+            <option>Loading titles...</option>
+          </select>
+        </label>
         <div class="collection-card muted">
           <span>More references</span>
           <strong>Coming later</strong>

@@ -19,21 +19,21 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Package Ohio Revised Code Title 35
+      - name: Package Ohio Revised Code
         run: |
           cd reference/ohio-revised-code/data/formatted
-          zip -r "$GITHUB_WORKSPACE/ohio-revised-code-title-35.zip" "Title 35 - Elections"
+          zip -r "$GITHUB_WORKSPACE/ohio-revised-code.zip" .
 
       - name: Publish release
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          gh release delete orc-title-35-latest --yes --cleanup-tag || true
-          git tag -f orc-title-35-latest
-          git push origin :refs/tags/orc-title-35-latest || true
-          git push origin orc-title-35-latest
-          gh release create orc-title-35-latest \
-            ohio-revised-code-title-35.zip \
-            --title "Ohio Revised Code Title 35" \
-            --notes "Collected formatted Markdown and metadata for Ohio Revised Code Title 35 - Elections." \
+          gh release delete orc-latest --yes --cleanup-tag || true
+          git tag -f orc-latest
+          git push origin :refs/tags/orc-latest || true
+          git push origin orc-latest
+          gh release create orc-latest \
+            ohio-revised-code.zip \
+            --title "Ohio Revised Code" \
+            --notes "Collected formatted Markdown and metadata for the full Ohio Revised Code mirror." \
             --latest=false

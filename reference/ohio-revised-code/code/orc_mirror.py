@@ -591,7 +591,7 @@ def write_manifest(title_root: Path) -> Path:
             "glossaryTerms": len(glossary_entries),
         },
         "downloads": {
-            "zip": "https://github.com/HanClinto/precinct/releases/download/orc-title-35-latest/ohio-revised-code-title-35.zip",
+            "zip": "https://github.com/HanClinto/precinct/releases/download/orc-latest/ohio-revised-code.zip",
         },
         "markdownPath": repo_relative_path(title_root / "README.md"),
         "metadataPath": repo_relative_path(title_root / "README.json"),
@@ -605,6 +605,28 @@ def write_manifest(title_root: Path) -> Path:
     path.write_text(json.dumps(manifest, indent=2, sort_keys=True) + "\n", encoding="utf-8")
     log(f"wrote  {path.relative_to(ROOT)}")
     return path
+
+
+def write_title_index() -> Path:
+    titles = []
+    for manifest_path in sorted(FORMATTED_DIR.glob("Title * - */manifest.json"), key=title_sort_key):
+        manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
+        titles.append({
+            "collection": manifest["collection"],
+            "scope": manifest["scope"],
+            "sourceUrl": manifest["sourceUrl"],
+            "manifestPath": repo_relative_path(manifest_path),
+            "counts": manifest["counts"],
+        })
+    path = FORMATTED_DIR / "titles.json"
+    path.write_text(json.dumps({"titles": titles}, indent=2, sort_keys=True) + "\n", encoding="utf-8")
+    log(f"wrote  {path.relative_to(ROOT)}")
+    return path
+
+
+def title_sort_key(path: Path) -> tuple[int, str]:
+    match = re.match(r"Title\s+(\d+)\s+-", path.parent.name)
+    return (int(match.group(1)) if match else 9999, path.parent.name)
 
 
 def find_metadata_by_source_url(root: Path, source_url: str) -> Path:
@@ -661,6 +683,7 @@ def download_mirror(*, force: bool, delay_seconds: float, offline: bool, all_tit
                 formatted_count += 1
 
         write_manifest(title_markdown_path.parent)
+    write_title_index()
     return raw_count, formatted_count
 
 

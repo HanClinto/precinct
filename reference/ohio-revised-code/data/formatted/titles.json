@@ -1,0 +1,367 @@
+{
+  "titles": [
+    {
+      "collection": "Ohio Revised Code",
+      "counts": {
+        "chapters": 66,
+        "glossaryTerms": 1968,
+        "sections": 2420
+      },
+      "manifestPath": "reference/ohio-revised-code/data/formatted/Title 1 - State Government/manifest.json",
+      "scope": "Title 1 - State Government",
+      "sourceUrl": "https://codes.ohio.gov/ohio-revised-code/title-1"
+    },
+    {
+      "collection": "Ohio Revised Code",
+      "counts": {
+        "chapters": 32,
+        "glossaryTerms": 472,
+        "sections": 1166
+      },
+      "manifestPath": "reference/ohio-revised-code/data/formatted/Title 3 - Counties/manifest.json",
+      "scope": "Title 3 - Counties",
+      "sourceUrl": "https://codes.ohio.gov/ohio-revised-code/title-3"
+    },
+    {
+      "collection": "Ohio Revised Code",
+      "counts": {
+        "chapters": 13,
+        "glossaryTerms": 97,
+        "sections": 450
+      },
+      "manifestPath": "reference/ohio-revised-code/data/formatted/Title 5 - Townships/manifest.json",
+      "scope": "Title 5 - Townships",
+      "sourceUrl": "https://codes.ohio.gov/ohio-revised-code/title-5"
+    },
+    {
+      "collection": "Ohio Revised Code",
+      "counts": {
+        "chapters": 36,
+        "glossaryTerms": 354,
+        "sections": 1301
+      },
+      "manifestPath": "reference/ohio-revised-code/data/formatted/Title 7 - Municipal Corporations/manifest.json",
+      "scope": "Title 7 - Municipal Corporations",
+      "sourceUrl": "https://codes.ohio.gov/ohio-revised-code/title-7"
+    },
+    {
+      "collection": "Ohio Revised Code",
+      "counts": {
+        "chapters": 42,
+        "glossaryTerms": 785,
+        "sections": 929
+      },
+      "manifestPath": "reference/ohio-revised-code/data/formatted/Title 9 - Agriculture-Animals-Fences/manifest.json",
+      "scope": "Title 9 - Agriculture-Animals-Fences",
+      "sourceUrl": "https://codes.ohio.gov/ohio-revised-code/title-9"
+    },
+    {
+      "collection": "Ohio Revised Code",
+      "counts": {
+        "chapters": 18,
+        "glossaryTerms": 133,
+        "sections": 313
+      },
+      "manifestPath": "reference/ohio-revised-code/data/formatted/Title 11 - Banks-Savings and Loan Associations/manifest.json",
+      "scope": "Title 11 - Banks-Savings and Loan Associations",
+      "sourceUrl": "https://codes.ohio.gov/ohio-revised-code/title-11"
+    },
+    {
+      "collection": "Ohio Revised Code",
+      "counts": {
+        "chapters": 37,
+        "glossaryTerms": 1065,
+        "sections": 1454
+      },
+      "manifestPath": "reference/ohio-revised-code/data/formatted/Title 13 - Commercial Transactions/manifest.json",
+      "scope": "Title 13 - Commercial Transactions",
+      "sourceUrl": "https://codes.ohio.gov/ohio-revised-code/title-13"
+    },
+    {
+      "collection": "Ohio Revised Code",
+      "counts": {
+        "chapters": 31,
+        "glossaryTerms": 529,
+        "sections": 997
+      },
+      "manifestPath": "reference/ohio-revised-code/data/formatted/Title 15 - Conservation of Natural Resources/manifest.json",
+      "scope": "Title 15 - Conservation of Natural Resources",
+      "sourceUrl": "https://codes.ohio.gov/ohio-revised-code/title-15"
+    },
+    {
+      "collection": "Ohio Revised Code",
+      "counts": {
+        "chapters": 41,
+        "glossaryTerms": 574,
+        "sections": 1271
+      },
+      "manifestPath": "reference/ohio-revised-code/data/formatted/Title 17 - Corporations-Partnerships/manifest.json",
+      "scope": "Title 17 - Corporations-Partnerships",
+      "sourceUrl": "https://codes.ohio.gov/ohio-revised-code/title-17"
+    },
+    {
+      "collection": "Ohio Revised Code",
+      "counts": {
+        "chapters": 6,
+        "glossaryTerms": 51,
+        "sections": 215
+      },
+      "manifestPath": "reference/ohio-revised-code/data/formatted/Title 19 - Courts-Municipal-Mayor's-County/manifest.json",
+      "scope": "Title 19 - Courts-Municipal-Mayor's-County",
+      "sourceUrl": "https://codes.ohio.gov/ohio-revised-code/title-19"
+    },
+    {
+      "collection": "Ohio Revised Code",
+      "counts": {
+        "chapters": 25,
+        "glossaryTerms": 419,
+        "sections": 998
+      },
+      "manifestPath": "reference/ohio-revised-code/data/formatted/Title 21 - Courts-Probate-Juvenile/manifest.json",
+      "scope": "Title 21 - Courts-Probate-Juvenile",
+      "sourceUrl": "https://codes.ohio.gov/ohio-revised-code/title-21"
+    },
+    {
+      "collection": "Ohio Revised Code",
+      "counts": {
+        "chapters": 20,
+        "glossaryTerms": 585,
+        "sections": 607
+      },
+      "manifestPath": "reference/ohio-revised-code/data/formatted/Title 23 - Courts-Common Pleas/manifest.json",
+      "scope": "Title 23 - Courts-Common Pleas",
+      "sourceUrl": "https://codes.ohio.gov/ohio-revised-code/title-23"
+    },
+    {
+      "collection": "Ohio Revised Code",
+      "counts": {
+        "chapters": 4,
+        "glossaryTerms": 9,
+        "sections": 97
+      },
+      "manifestPath": "reference/ohio-revised-code/data/formatted/Title 25 - Courts-Appellate/manifest.json",
+      "scope": "Title 25 - Courts-Appellate",
+      "sourceUrl": "https://codes.ohio.gov/ohio-revised-code/title-25"
+    },
+    {
+      "collection": "Ohio Revised Code",
+      "counts": {
+        "chapters": 28,
+        "glossaryTerms": 123,
+        "sections": 552
+      },
+      "manifestPath": "reference/ohio-revised-code/data/formatted/Title 27 - Courts-General Provisions-Special Remedies/manifest.json",
+      "scope": "Title 27 - Courts-General Provisions-Special Remedies",
+      "sourceUrl": "https://codes.ohio.gov/ohio-revised-code/title-27"
+    },
+    {
+      "collection": "Ohio Revised Code",
+      "counts": {
+        "chapters": 36,
+        "glossaryTerms": 1469,
+        "sections": 1153
+      },
+      "manifestPath": "reference/ohio-revised-code/data/formatted/Title 29 - Crimes-Procedure/manifest.json",
+      "scope": "Title 29 - Crimes-Procedure",
+      "sourceUrl": "https://codes.ohio.gov/ohio-revised-code/title-29"
+    },
+    {
+      "collection": "Ohio Revised Code",
+      "counts": {
+        "chapters": 15,
+        "glossaryTerms": 305,
+        "sections": 879
+      },
+      "manifestPath": "reference/ohio-revised-code/data/formatted/Title 31 - Domestic Relations-Children/manifest.json",
+      "scope": "Title 31 - Domestic Relations-Children",
+      "sourceUrl": "https://codes.ohio.gov/ohio-revised-code/title-31"
+    },
+    {
+      "collection": "Ohio Revised Code",
+      "counts": {
+        "chapters": 61,
+        "glossaryTerms": 1504,
+        "sections": 2493
+      },
+      "manifestPath": "reference/ohio-revised-code/data/formatted/Title 33 - Education-Libraries/manifest.json",
+      "scope": "Title 33 - Education-Libraries",
+      "sourceUrl": "https://codes.ohio.gov/ohio-revised-code/title-33"
+    },
+    {
+      "collection": "Ohio Revised Code",
+      "counts": {
+        "chapters": 14,
+        "glossaryTerms": 238,
+        "sections": 414
+      },
+      "manifestPath": "reference/ohio-revised-code/data/formatted/Title 35 - Elections/manifest.json",
+      "scope": "Title 35 - Elections",
+      "sourceUrl": "https://codes.ohio.gov/ohio-revised-code/title-35"
+    },
+    {
+      "collection": "Ohio Revised Code",
+      "counts": {
+        "chapters": 67,
+        "glossaryTerms": 1755,
+        "sections": 2076
+      },
+      "manifestPath": "reference/ohio-revised-code/data/formatted/Title 37 - Health-Safety-Morals/manifest.json",
+      "scope": "Title 37 - Health-Safety-Morals",
+      "sourceUrl": "https://codes.ohio.gov/ohio-revised-code/title-37"
+    },
+    {
+      "collection": "Ohio Revised Code",
+      "counts": {
+        "chapters": 43,
+        "glossaryTerms": 1016,
+        "sections": 1367
+      },
+      "manifestPath": "reference/ohio-revised-code/data/formatted/Title 39 - Insurance/manifest.json",
+      "scope": "Title 39 - Insurance",
+      "sourceUrl": "https://codes.ohio.gov/ohio-revised-code/title-39"
+    },
+    {
+      "collection": "Ohio Revised Code",
+      "counts": {
+        "chapters": 27,
+        "glossaryTerms": 458,
+        "sections": 669
+      },
+      "manifestPath": "reference/ohio-revised-code/data/formatted/Title 41 - Labor and Industry/manifest.json",
+      "scope": "Title 41 - Labor and Industry",
+      "sourceUrl": "https://codes.ohio.gov/ohio-revised-code/title-41"
+    },
+    {
+      "collection": "Ohio Revised Code",
+      "counts": {
+        "chapters": 6,
+        "glossaryTerms": 157,
+        "sections": 264
+      },
+      "manifestPath": "reference/ohio-revised-code/data/formatted/Title 43 - Liquor/manifest.json",
+      "scope": "Title 43 - Liquor",
+      "sourceUrl": "https://codes.ohio.gov/ohio-revised-code/title-43"
+    },
+    {
+      "collection": "Ohio Revised Code",
+      "counts": {
+        "chapters": 23,
+        "glossaryTerms": 796,
+        "sections": 1292
+      },
+      "manifestPath": "reference/ohio-revised-code/data/formatted/Title 45 - Motor Vehicles-Aeronautics-Watercraft/manifest.json",
+      "scope": "Title 45 - Motor Vehicles-Aeronautics-Watercraft",
+      "sourceUrl": "https://codes.ohio.gov/ohio-revised-code/title-45"
+    },
+    {
+      "collection": "Ohio Revised Code",
+      "counts": {
+        "chapters": 66,
+        "glossaryTerms": 1382,
+        "sections": 2168
+      },
+      "manifestPath": "reference/ohio-revised-code/data/formatted/Title 47 - Occupations-Professions/manifest.json",
+      "scope": "Title 47 - Occupations-Professions",
+      "sourceUrl": "https://codes.ohio.gov/ohio-revised-code/title-47"
+    },
+    {
+      "collection": "Ohio Revised Code",
+      "counts": {
+        "chapters": 34,
+        "glossaryTerms": 350,
+        "sections": 1096
+      },
+      "manifestPath": "reference/ohio-revised-code/data/formatted/Title 49 - Public Utilities/manifest.json",
+      "scope": "Title 49 - Public Utilities",
+      "sourceUrl": "https://codes.ohio.gov/ohio-revised-code/title-49"
+    },
+    {
+      "collection": "Ohio Revised Code",
+      "counts": {
+        "chapters": 31,
+        "glossaryTerms": 1398,
+        "sections": 1977
+      },
+      "manifestPath": "reference/ohio-revised-code/data/formatted/Title 51 - Public Welfare/manifest.json",
+      "scope": "Title 51 - Public Welfare",
+      "sourceUrl": "https://codes.ohio.gov/ohio-revised-code/title-51"
+    },
+    {
+      "collection": "Ohio Revised Code",
+      "counts": {
+        "chapters": 14,
+        "glossaryTerms": 174,
+        "sections": 446
+      },
+      "manifestPath": "reference/ohio-revised-code/data/formatted/Title 53 - Real Property/manifest.json",
+      "scope": "Title 53 - Real Property",
+      "sourceUrl": "https://codes.ohio.gov/ohio-revised-code/title-53"
+    },
+    {
+      "collection": "Ohio Revised Code",
+      "counts": {
+        "chapters": 46,
+        "glossaryTerms": 375,
+        "sections": 1471
+      },
+      "manifestPath": "reference/ohio-revised-code/data/formatted/Title 55 - Roads-Highways-Bridges/manifest.json",
+      "scope": "Title 55 - Roads-Highways-Bridges",
+      "sourceUrl": "https://codes.ohio.gov/ohio-revised-code/title-55"
+    },
+    {
+      "collection": "Ohio Revised Code",
+      "counts": {
+        "chapters": 33,
+        "glossaryTerms": 1530,
+        "sections": 1351
+      },
+      "manifestPath": "reference/ohio-revised-code/data/formatted/Title 57 - Taxation/manifest.json",
+      "scope": "Title 57 - Taxation",
+      "sourceUrl": "https://codes.ohio.gov/ohio-revised-code/title-57"
+    },
+    {
+      "collection": "Ohio Revised Code",
+      "counts": {
+        "chapters": 17,
+        "glossaryTerms": 179,
+        "sections": 226
+      },
+      "manifestPath": "reference/ohio-revised-code/data/formatted/Title 58 - Trusts/manifest.json",
+      "scope": "Title 58 - Trusts",
+      "sourceUrl": "https://codes.ohio.gov/ohio-revised-code/title-58"
+    },
+    {
+      "collection": "Ohio Revised Code",
+      "counts": {
+        "chapters": 16,
+        "glossaryTerms": 112,
+        "sections": 378
+      },
+      "manifestPath": "reference/ohio-revised-code/data/formatted/Title 59 - Veterans-Military Affairs/manifest.json",
+      "scope": "Title 59 - Veterans-Military Affairs",
+      "sourceUrl": "https://codes.ohio.gov/ohio-revised-code/title-59"
+    },
+    {
+      "collection": "Ohio Revised Code",
+      "counts": {
+        "chapters": 20,
+        "glossaryTerms": 268,
+        "sections": 674
+      },
+      "manifestPath": "reference/ohio-revised-code/data/formatted/Title 61 - Water Supply-Sanitation-Ditches/manifest.json",
+      "scope": "Title 61 - Water Supply-Sanitation-Ditches",
+      "sourceUrl": "https://codes.ohio.gov/ohio-revised-code/title-61"
+    },
+    {
+      "collection": "Ohio Revised Code",
+      "counts": {
+        "chapters": 1,
+        "glossaryTerms": 14,
+        "sections": 24
+      },
+      "manifestPath": "reference/ohio-revised-code/data/formatted/Title 63 - Workforce Development/manifest.json",
+      "scope": "Title 63 - Workforce Development",
+      "sourceUrl": "https://codes.ohio.gov/ohio-revised-code/title-63"
+    }
+  ]
+}

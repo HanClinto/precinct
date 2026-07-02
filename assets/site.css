@@ -147,6 +147,17 @@ input {
   font-size: 1rem;
 }
 
+.collection-card select {
+  max-width: min(360px, 56vw);
+  color: var(--ink);
+  background: transparent;
+  border: 0;
+  outline-color: var(--accent);
+  font-family: "Avenir Next", "Gill Sans", sans-serif;
+  font-size: 1rem;
+  font-weight: 800;
+}
+
 .collection-card.muted {
   display: none;
 }
