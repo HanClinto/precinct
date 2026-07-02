@@ -1,0 +1,74 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-1702
+Scraped: 2026-07-02T19:39:04+00:00
+
+# Chapter 1702 - Nonprofit Corporation Law
+
+## Sections
+
+- Section 1702.01 - Nonprofit corporation law definitions.
+- Section 1702.02 - Notice requirements.
+- Section 1702.03 - Purposes of corporation.
+- Section 1702.04 - Articles of incorporation.
+- Section 1702.05 - Corporate name - transfer - reservation.
+- Section 1702.06 - Statutory agent - cancellation and reinstatement of articles.
+- Section 1702.07 - Acceptance of articles of incorporation and other certificates - filing not constructive notice of contents.
+- Section 1702.08 - Incorporation of such society or association.
+- Section 1702.09 - Religious society.
+- Section 1702.10 - Adoption of regulations.
+- Section 1702.11 - Contents of regulations.
+- Section 1702.12 - Authority of nonprofit corporation.
+- Section 1702.13 - Membership.
+- Section 1702.14 - Absence of provision for members.
+- Section 1702.15 - Corporation to keep books and records of account and minutes of proceedings.
+- Section 1702.16 - Annual meeting.
+- Section 1702.17 - Meetings of voting members - calling and place of meeting.
+- Section 1702.18 - Notice of meeting.
+- Section 1702.19 - Waiver of notice.
+- Section 1702.20 - Voting.
+- Section 1702.21 - Voting of membership in corporation.
+- Section 1702.22 - Quorum of voting members.
+- Section 1702.23 - Controlling provisions of articles or regulations.
+- Section 1702.24 - Vote of members required for rescission or revocation.
+- Section 1702.25 - Action by members or directors without a meeting.
+- Section 1702.26 - Election of directors.
+- Section 1702.27 - Number and qualifications of directors - ex officio directors - provisional director.
+- Section 1702.28 - Term and classification of directors.
+- Section 1702.29 - Removal of directors and filling vacancies.
+- Section 1702.30 - Authority of directors.
+- Section 1702.301 - Interest of director or officer in contract.
+- Section 1702.31 - Meetings of directors - notice.
+- Section 1702.32 - Quorum for directors' meeting.
+- Section 1702.33 - Executive and other committees of directors.
+- Section 1702.34 - Officers - authority and removal.
+- Section 1702.341 - Officers - fiduciary duties.
+- Section 1702.35 - Corporate property.
+- Section 1702.36 - Corporate mortgages.
+- Section 1702.37 - Usury.
+- Section 1702.38 - Amendments to articles.
+- Section 1702.39 - Mutual benefit corporation - disposition of assets.
+- Section 1702.40 - Judicial sale of property.
+- Section 1702.41 - Merger or consolidation into domestic corporation.
+- Section 1702.411 - Merger or consolidation into entity other than domestic corporation.
+- Section 1702.42 - Agreement of merger or consolidation - vote by members.
+- Section 1702.43 - Certificate of merger or consolidation.
+- Section 1702.44 - Effect of merger or consolidation.
+- Section 1702.46 - Effective date of merger or consolidation.
+- Section 1702.461 - Conversion to domestic or foreign entity other than a for profit corporation or domestic corporation; written declaration of conversion.
+- Section 1702.462 - Form of certificate of conversion.
+- Section 1702.47 - Voluntary dissolution.
+- Section 1702.48 - Public notice of voluntary dissolution.
+- Section 1702.49 - Winding up or obtaining reinstatement - powers and duties of directors.
+- Section 1702.50 - Jurisdiction of court over winding up of affairs of voluntarily dissolved corporation.
+- Section 1702.51 - Receiver for winding up affairs of corporation.
+- Section 1702.52 - Judicial dissolution.
+- Section 1702.521 - Provisional director - appointment, duties, qualifications.
+- Section 1702.53 - Certified copies as evidence.
+- Section 1702.531 - Liabilities of providers of goods and services.
+- Section 1702.54 - False statement or entry.
+- Section 1702.55 - Liability of members, directors and officers of corporation.
+- Section 1702.57 - Exercise of expired powers.
+- Section 1702.58 - Applicability of chapter.
+- Section 1702.59 - Filing of verified statement of continued existence.
+- Section 1702.60 - Restoring rights, privileges, and franchises upon reinstatement.
+- Section 1702.80 - Qualified nonprofit corporation may establish police department.
+- Section 1702.99 - Penalty.

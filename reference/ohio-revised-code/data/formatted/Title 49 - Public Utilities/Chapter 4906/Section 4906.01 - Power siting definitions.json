@@ -1,0 +1,190 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Person\" means an individual, corporation, business trust, association, estate, trust, or partnership or any officer, board, commission, department, division, or bureau of the state or a political subdivision of the state, or any other entity.",
+      "id": "4906.01-person",
+      "normalized": "person",
+      "scope": "As used in Chapter 4906. of the Revised Code:",
+      "section": "4906.01",
+      "source_title": "Section 4906.01 - Power siting definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4906.01",
+      "term": "Person"
+    },
+    {
+      "definition": "(B)(1) \"Major utility facility\" means:\n\n(a) Electric generating plant and associated facilities designed for, or capable of, operation at a capacity of fifty megawatts or more;\n\n(b) An electric transmission line and associated facilities of a design capacity of one hundred kilovolts or more;\n\n(c) A gas pipeline that is greater than five hundred feet in length, and its associated facilities, is more than nine inches in outside diameter and is designed for transporting gas at a maximum allowable operating pressure in excess of one hundred twenty-five pounds per square inch.",
+      "id": "4906.01-major-utility-facility",
+      "normalized": "major utility facility",
+      "scope": "As used in Chapter 4906. of the Revised Code:",
+      "section": "4906.01",
+      "source_title": "Section 4906.01 - Power siting definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4906.01",
+      "term": "Major utility facility"
+    },
+    {
+      "definition": "(2) \"Major utility facility\" does not include any of the following:\n\n(a) Gas transmission lines over which an agency of the United States has exclusive jurisdiction;\n\n(b) Any solid waste facilities as defined in section 6123.01 of the Revised Code;\n\n(c) Electric distributing lines and associated facilities as defined by the power siting board;\n\n(d) Any manufacturing facility that creates byproducts that may be used in the generation of electricity as defined by the power siting board;\n\n(e) Gathering lines, gas gathering pipelines, and processing plant gas stub pipelines as those terms are defined in section 4905.90 of the Revised Code and associated facilities;\n\n(f) Any gas processing plant as defined in section 4905.90 of the Revised Code;\n\n(g) Natural gas liquids finished product pipelines;\n\n(h) Pipelines from a gas processing plant as defined in section 4905.90 of the Revised Code to a natural gas liquids fractionation plant, including a raw natural gas liquids pipeline, or to an interstate or intrastate gas pipeline;\n\n(i) Any natural gas liquids fractionation plant;\n\n(j) A production operation as defined in section 1509.01 of the Revised Code, including all pipelines upstream of any gathering lines;\n\n(k) Any compressor stations used by the following:\n\n(i) A gathering line, a gas gathering pipeline, a processing plant gas stub pipeline, or a gas processing plant as those terms are defined in section 4905.90 of the Revised Code;\n\n(ii) A natural gas liquids finished product pipeline, a natural gas liquids fractionation plant, or any pipeline upstream of a natural gas liquids fractionation plant; or\n\n(iii) A production operation as defined in section 1509.01 of the Revised Code.",
+      "id": "4906.01-major-utility-facility",
+      "normalized": "major utility facility",
+      "scope": "As used in Chapter 4906. of the Revised Code:",
+      "section": "4906.01",
+      "source_title": "Section 4906.01 - Power siting definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4906.01",
+      "term": "Major utility facility"
+    },
+    {
+      "definition": "(C) \"Commence to construct\" means any clearing of land, excavation, or other action that would adversely affect the natural environment of the site or route of a major utility facility, but does not include surveying changes needed for temporary use of sites or routes for nonutility purposes, or uses in securing geological data, including necessary borings to ascertain foundation conditions.",
+      "id": "4906.01-commence-to-construct",
+      "normalized": "commence to construct",
+      "scope": "As used in Chapter 4906. of the Revised Code:",
+      "section": "4906.01",
+      "source_title": "Section 4906.01 - Power siting definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4906.01",
+      "term": "Commence to construct"
+    },
+    {
+      "definition": "(D) \"Certificate\" means a certificate of environmental compatibility and public need issued by the power siting board under section 4906.10 of the Revised Code or a construction certificate issued by the board under rules adopted under divisions (E) to (H) of section 4906.03 of the Revised Code.",
+      "id": "4906.01-certificate",
+      "normalized": "certificate",
+      "scope": "As used in Chapter 4906. of the Revised Code:",
+      "section": "4906.01",
+      "source_title": "Section 4906.01 - Power siting definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4906.01",
+      "term": "Certificate"
+    },
+    {
+      "definition": "(E) \"Gas\" means natural gas, flammable gas, or gas that is toxic or corrosive.",
+      "id": "4906.01-gas",
+      "normalized": "gas",
+      "scope": "As used in Chapter 4906. of the Revised Code:",
+      "section": "4906.01",
+      "source_title": "Section 4906.01 - Power siting definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4906.01",
+      "term": "Gas"
+    },
+    {
+      "definition": "(F) \"Natural gas liquids finished product pipeline\" means a pipeline that carries finished product natural gas liquids to the inlet of an interstate or intrastate finished product natural gas liquid transmission pipeline, rail loading facility, or other petrochemical or refinery facility.",
+      "id": "4906.01-natural-gas-liquids-finished-product-pipeline",
+      "normalized": "natural gas liquids finished product pipeline",
+      "scope": "As used in Chapter 4906. of the Revised Code:",
+      "section": "4906.01",
+      "source_title": "Section 4906.01 - Power siting definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4906.01",
+      "term": "Natural gas liquids finished product pipeline"
+    },
+    {
+      "definition": "(G) \"Large solar facility\" means an electric generating plant that consists of solar panels and associated facilities with a single interconnection to the electrical grid that is a major utility facility.",
+      "id": "4906.01-large-solar-facility",
+      "normalized": "large solar facility",
+      "scope": "As used in Chapter 4906. of the Revised Code:",
+      "section": "4906.01",
+      "source_title": "Section 4906.01 - Power siting definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4906.01",
+      "term": "Large solar facility"
+    },
+    {
+      "definition": "(H) \"Large wind farm\" means an electric generating plant that consists of wind turbines and associated facilities with a single interconnection to the electrical grid that is a major utility facility.",
+      "id": "4906.01-large-wind-farm",
+      "normalized": "large wind farm",
+      "scope": "As used in Chapter 4906. of the Revised Code:",
+      "section": "4906.01",
+      "source_title": "Section 4906.01 - Power siting definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4906.01",
+      "term": "Large wind farm"
+    },
+    {
+      "definition": "(I) \"Natural gas liquids fractionation plant\" means a facility that takes a feed of raw natural gas liquids and produces finished product natural gas liquids.",
+      "id": "4906.01-natural-gas-liquids-fractionation-plant",
+      "normalized": "natural gas liquids fractionation plant",
+      "scope": "As used in Chapter 4906. of the Revised Code:",
+      "section": "4906.01",
+      "source_title": "Section 4906.01 - Power siting definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4906.01",
+      "term": "Natural gas liquids fractionation plant"
+    },
+    {
+      "definition": "(J) \"Raw natural gas\" means hydrocarbons that are produced in a gaseous state from gas wells and that generally include methane, ethane, propane, butanes, pentanes, hexanes, heptanes, octanes, nonanes, and decanes, plus other naturally occurring impurities like water, carbon dioxide, hydrogen sulfide, nitrogen, oxygen, and helium.",
+      "id": "4906.01-raw-natural-gas",
+      "normalized": "raw natural gas",
+      "scope": "As used in Chapter 4906. of the Revised Code:",
+      "section": "4906.01",
+      "source_title": "Section 4906.01 - Power siting definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4906.01",
+      "term": "Raw natural gas"
+    },
+    {
+      "definition": "(K) \"Raw natural gas liquids\" means naturally occurring hydrocarbons contained in raw natural gas that are extracted in a gas processing plant and liquefied and generally include mixtures of ethane, propane, butanes, and natural gasoline.",
+      "id": "4906.01-raw-natural-gas-liquids",
+      "normalized": "raw natural gas liquids",
+      "scope": "As used in Chapter 4906. of the Revised Code:",
+      "section": "4906.01",
+      "source_title": "Section 4906.01 - Power siting definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4906.01",
+      "term": "Raw natural gas liquids"
+    },
+    {
+      "definition": "(L) \"Finished product natural gas liquids\" means an individual finished product produced by a natural gas liquids fractionation plant as a liquid that meets the specifications for commercial products as defined by the gas processors association. Those products include ethane, propane, iso-butane, normal butane, and natural gasoline.",
+      "id": "4906.01-finished-product-natural-gas-liquids",
+      "normalized": "finished product natural gas liquids",
+      "scope": "As used in Chapter 4906. of the Revised Code:",
+      "section": "4906.01",
+      "source_title": "Section 4906.01 - Power siting definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4906.01",
+      "term": "Finished product natural gas liquids"
+    },
+    {
+      "definition": "(M) \"Advanced transmission technologies\" means software or hardware technologies that increase the capacity, efficiency, reliability, or safety of an existing or new electric transmission system, including grid-enhancing technologies such as dynamic line rating, advanced power flow controllers, and topology optimization; advanced conductors; and other technologies designed to reduce transmission congestion, or increase the capacity, efficiency, reliability, or safety of an existing or new electric transmission system.",
+      "id": "4906.01-advanced-transmission-technologies",
+      "normalized": "advanced transmission technologies",
+      "scope": "As used in Chapter 4906. of the Revised Code:",
+      "section": "4906.01",
+      "source_title": "Section 4906.01 - Power siting definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4906.01",
+      "term": "Advanced transmission technologies"
+    },
+    {
+      "definition": "(N) \"Advanced conductor\" means a conductor with a direct current electrical resistance that is at least ten per cent lower than existing conductors of a similar diameter on the electric transmission system while simultaneously increasing the energy carrying capacity by at least seventy-five per cent.\n\nLast updated May 22, 2025 at 12:27 PM",
+      "id": "4906.01-advanced-conductor",
+      "normalized": "advanced conductor",
+      "scope": "As used in Chapter 4906. of the Revised Code:",
+      "section": "4906.01",
+      "source_title": "Section 4906.01 - Power siting definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4906.01",
+      "term": "Advanced conductor"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "6123.01",
+      "number": "6123.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6123.01"
+    },
+    {
+      "kind": "section",
+      "label": "4905.90",
+      "number": "4905.90",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.90"
+    },
+    {
+      "kind": "section",
+      "label": "1509.01",
+      "number": "1509.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1509.01"
+    },
+    {
+      "kind": "section",
+      "label": "4906.10",
+      "number": "4906.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4906.10"
+    },
+    {
+      "kind": "section",
+      "label": "4906.03",
+      "number": "4906.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4906.03"
+    }
+  ],
+  "scraped": "2026-07-02T20:09:03+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4906.01",
+  "title": "Section 4906.01 - Power siting definitions."
+}

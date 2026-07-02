@@ -1,0 +1,210 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Beneficial use\" means a use of water, including the method of diversion, storage, transportation, treatment, and application, that is reasonable and consistent with the public interest in the proper utilization of water resources, including, without limitation, domestic, agricultural, industrial, power, municipal, navigational, fish and wildlife, and recreational uses.",
+      "id": "6121.01-beneficial-use",
+      "normalized": "beneficial use",
+      "scope": "As used in this chapter:",
+      "section": "6121.01",
+      "source_title": "Section 6121.01 - Water development authority definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-6121.01",
+      "term": "Beneficial use"
+    },
+    {
+      "definition": "(B) \"Governmental agencies\" means departments, divisions, or other units of state government, watershed districts, soil and water conservation districts, municipal corporations, counties, townships, and other political subdivisions, special water districts, including county and regional sewer and water districts, conservancy districts, sanitary districts, sewer districts, or any other public corporation or agency having the authority to acquire, construct, or operate waste water or water management facilities, the United States or any agency thereof, and any agency, commission, or authority established pursuant to an interstate compact or agreement.",
+      "id": "6121.01-governmental-agencies",
+      "normalized": "governmental agencies",
+      "scope": "As used in this chapter:",
+      "section": "6121.01",
+      "source_title": "Section 6121.01 - Water development authority definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-6121.01",
+      "term": "Governmental agencies"
+    },
+    {
+      "definition": "(C) \"Person\" means any individual, firm, partnership, association, or corporation, or two or more or any combination thereof.",
+      "id": "6121.01-person",
+      "normalized": "person",
+      "scope": "As used in this chapter:",
+      "section": "6121.01",
+      "source_title": "Section 6121.01 - Water development authority definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-6121.01",
+      "term": "Person"
+    },
+    {
+      "definition": "(D) \"Waters of the state\" means all streams, lakes, ponds, marshes, watercourses, waterways, wells, springs, irrigation systems, drainage systems, and other bodies or accumulations of water, surface and underground, natural or artificial, that are situated wholly or partly within, or border upon, this state or are within its jurisdiction, except those private waters that do not combine or effect a junction with natural surface or underground waters.",
+      "id": "6121.01-waters-of-the-state",
+      "normalized": "waters of the state",
+      "scope": "As used in this chapter:",
+      "section": "6121.01",
+      "source_title": "Section 6121.01 - Water development authority definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-6121.01",
+      "term": "Waters of the state"
+    },
+    {
+      "definition": "(E) \"Water resources\" means all waters of the state occurring on the surface in natural or artificial channels, lakes, reservoirs, or impoundments, and underground in subsurface aquifers, that are available or may be made available to agricultural, industrial, commercial, recreational, public, and domestic users.",
+      "id": "6121.01-water-resources",
+      "normalized": "water resources",
+      "scope": "As used in this chapter:",
+      "section": "6121.01",
+      "source_title": "Section 6121.01 - Water development authority definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-6121.01",
+      "term": "Water resources"
+    },
+    {
+      "definition": "(F) \"Project\" or \"water development project\" means either of the following:\n\n(1) Any waste water facility or water management facility, including undivided or other interests therein, acquired or constructed or to be acquired or constructed by the Ohio water development authority under this chapter, or acquired or constructed or to be acquired or constructed by a governmental agency or person with all or a portion of the cost thereof being paid from a loan or grant from the authority under this chapter, including all buildings and facilities that the authority considers necessary for the operation of the project, together with all property, rights, easements, and interest that may be required for the operation of the project;\n\n(2) Any project or activity qualifying for financial assistance under section 6109.22 , 6111.036 , or 6111.037 of the Revised Code.",
+      "id": "6121.01-project",
+      "normalized": "project",
+      "scope": "As used in this chapter:",
+      "section": "6121.01",
+      "source_title": "Section 6121.01 - Water development authority definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-6121.01",
+      "term": "Project"
+    },
+    {
+      "definition": "(F) \"Project\" or \"water development project\" means either of the following:\n\n(1) Any waste water facility or water management facility, including undivided or other interests therein, acquired or constructed or to be acquired or constructed by the Ohio water development authority under this chapter, or acquired or constructed or to be acquired or constructed by a governmental agency or person with all or a portion of the cost thereof being paid from a loan or grant from the authority under this chapter, including all buildings and facilities that the authority considers necessary for the operation of the project, together with all property, rights, easements, and interest that may be required for the operation of the project;\n\n(2) Any project or activity qualifying for financial assistance under section 6109.22 , 6111.036 , or 6111.037 of the Revised Code.",
+      "id": "6121.01-water-development-project",
+      "normalized": "water development project",
+      "scope": "As used in this chapter:",
+      "section": "6121.01",
+      "source_title": "Section 6121.01 - Water development authority definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-6121.01",
+      "term": "water development project"
+    },
+    {
+      "definition": "(G) \"Pollution\" means the placing of any noxious or deleterious substances in any waters of the state or otherwise affecting the waters or properties of any waters of the state, including the temperature or radioactivity thereof, in a manner that is or renders the waters harmful or inimical to the public health, to animal or aquatic life, or to the use of the waters for domestic water supply, industrial, or agricultural purposes or recreation.",
+      "id": "6121.01-pollution",
+      "normalized": "pollution",
+      "scope": "As used in this chapter:",
+      "section": "6121.01",
+      "source_title": "Section 6121.01 - Water development authority definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-6121.01",
+      "term": "Pollution"
+    },
+    {
+      "definition": "(H) \"Sewage\" means any substance that contains any of the waste products or excrementitious or other discharge from the bodies of human beings or animals and that pollutes the waters of the state or that in the absence of a waste water facility would pollute or cause greater pollution of the waters of the state.",
+      "id": "6121.01-sewage",
+      "normalized": "sewage",
+      "scope": "As used in this chapter:",
+      "section": "6121.01",
+      "source_title": "Section 6121.01 - Water development authority definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-6121.01",
+      "term": "Sewage"
+    },
+    {
+      "definition": "(I) \"Industrial waste\" means any liquid, gaseous, or solid waste substance, heat, radioactivity, or radiation, resulting from any process of industry, manufacture, trade, or business, or from the development, processing, or recovery of any natural resource, together with such sewage as is present, that pollutes the waters of the state or that in the absence of a waste water facility would pollute or cause greater pollution of the waters of the state.",
+      "id": "6121.01-industrial-waste",
+      "normalized": "industrial waste",
+      "scope": "As used in this chapter:",
+      "section": "6121.01",
+      "source_title": "Section 6121.01 - Water development authority definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-6121.01",
+      "term": "Industrial waste"
+    },
+    {
+      "definition": "(J) \"Waste water\" means any water containing sewage or industrial waste or other pollutants or contaminants derived from the prior use of the water.",
+      "id": "6121.01-waste-water",
+      "normalized": "waste water",
+      "scope": "As used in this chapter:",
+      "section": "6121.01",
+      "source_title": "Section 6121.01 - Water development authority definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-6121.01",
+      "term": "Waste water"
+    },
+    {
+      "definition": "(K) \"Waste water facilities\" means facilities, property, or the modification or replacement of property for the purpose of treating, neutralizing, disposing of, stabilizing, dispersing, cooling, segregating, or holding waste water, or for the removal, reduction, containment, alteration, storage, or disposal of sewage or industrial waste or substances containing sewage or industrial waste, or for the prevention or reduction, or reduction of the concentration, of pollution of the waters of the state, including, without limitation, facilities for the withdrawal of waters of the state, facilities for the treatment and disposal of sewage or industrial waste and the residue thereof, facilities for the temporary or permanent impoundment of waste water, both surface and underground, and sanitary sewers and other systems, whether on the surface or underground, designed to transport waste water together with the equipment and furnishings thereof and their appurtenances and systems, whether on the surface or underground, including force mains and pumping facilities therefor when necessary, and facilities or expenditures that qualify as water pollution control facilities under Section 103(C)(4)(F) of the Internal Revenue Code of 1954, as amended, and regulations adopted thereunder, and also includes any property or system to be used in whole or in part for any of the foregoing purposes, whether or not another purpose also is served, and any property or system incidental to or that has to do with or the end purpose of which is any of the foregoing. Waste water facilities as defined in this division for industry, commerce, distribution, or research, including public utility companies, are hereby determined to be those that qualify as facilities for the control of water pollution and thermal pollution related to water under Section 13 of Article VIII, Ohio Constitution.",
+      "id": "6121.01-waste-water-facilities",
+      "normalized": "waste water facilities",
+      "scope": "As used in this chapter:",
+      "section": "6121.01",
+      "source_title": "Section 6121.01 - Water development authority definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-6121.01",
+      "term": "Waste water facilities"
+    },
+    {
+      "definition": "(L) \"Water management facilities\" means facilities for the development, use, and protection of water resources, including, without limitation, facilities for water supply, facilities for stream flow improvement, dams, reservoirs, and other impoundments, water transmission lines, water wells and well fields, pumping stations and works for underground water recharge, facilities for the management and treatment of storm water, stream monitoring systems, facilities for the stabilization of stream and river banks and coastal erosion areas, as defined in section 1506.01 of the Revised Code, and facilities for the treatment of streams and rivers, including, without limitation, facilities for the removal of oil, debris, and other solid waste from the waters of the state and stream and river aeration facilities.\n\n(M) \"Cost\" as applied to a water development project means the cost of acquisition and construction, the cost of acquisition of all land, rights-of-way, property rights, easements, franchise rights, and interests required for that acquisition and construction, the cost of demolishing or removing any buildings or structures on land so acquired, including the cost of acquiring any lands to which the buildings or structures may be moved, the cost of acquiring or constructing and equipping a principal office and sub-offices of the authority, the cost of diverting highways, interchange of highways, or access roads to private property, including the cost of land or easements therefor, the cost of all machinery, furnishings, and equipment, financing charges, interest prior to and during construction and for no more than eighteen months after completion of construction, engineering costs, expenses of research and development with respect to waste water or water management facilities, legal expenses, the cost of plans, specifications, and surveys, estimates of cost and revenues, working capital, other expenses necessary or incident to determining the feasibility or practicability of acquiring or constructing any such project, administrative expense, and other expense that may be necessary or incident to the acquisition or construction of the project, the financing of the acquisition or construction including the amount authorized in the resolution of the authority providing for the issuance of water development revenue bonds to be paid into any special funds from the proceeds of the bonds, and the financing of the placing of any such project in operation. Any obligation, cost, or expense incurred by any governmental agency or person for surveys, borings, preparation of plans and specifications, and other engineering services, or any other costs described above, in connection with the acquisition or construction of a project may be regarded as a part of the cost of the project and may be reimbursed out of the proceeds of water development revenue bonds as authorized by this chapter.",
+      "id": "6121.01-water-management-facilities",
+      "normalized": "water management facilities",
+      "scope": "As used in this chapter:",
+      "section": "6121.01",
+      "source_title": "Section 6121.01 - Water development authority definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-6121.01",
+      "term": "Water management facilities"
+    },
+    {
+      "definition": "(N) \"Owner\" includes all individuals, copartnerships, associations, corporations, or governmental agencies having any title or interest in any property rights, easements, and interests authorized to be acquired by this chapter.",
+      "id": "6121.01-owner",
+      "normalized": "owner",
+      "scope": "As used in this chapter:",
+      "section": "6121.01",
+      "source_title": "Section 6121.01 - Water development authority definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-6121.01",
+      "term": "Owner"
+    },
+    {
+      "definition": "(O) \"Revenues\" means all rentals and other charges for the use or services of any water development project, any gift or grant received with respect thereto, including, without limitation, any moneys received by the authority pursuant to an agreement entered into under section 6109.22 , 6111.036 , or 6111.037 of the Revised Code, any moneys received with respect to the lease, sublease, sale, including installment sale or conditional sale, or other disposition of a project, moneys received in repayment of and for interest on any loan made by the authority to a person or governmental agency, whether from the United States or a department, administration, or agency thereof, or otherwise, proceeds of bonds to the extent that use thereof for payment of principal of, premium if any, or interest on the bonds is authorized by the authority, proceeds from any insurance, condemnation, or guaranty pertaining to a project or property mortgaged to secure bonds or pertaining to the financing of the project, and income and profit from the investment of the proceeds of water development revenue bonds or of any revenues.",
+      "id": "6121.01-revenues",
+      "normalized": "revenues",
+      "scope": "As used in this chapter:",
+      "section": "6121.01",
+      "source_title": "Section 6121.01 - Water development authority definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-6121.01",
+      "term": "Revenues"
+    },
+    {
+      "definition": "(P) \"Public roads\" includes all public highways, roads, and streets in the state whether maintained by the state or a county, municipal corporation, township, or other political subdivision.",
+      "id": "6121.01-public-roads",
+      "normalized": "public roads",
+      "scope": "As used in this chapter:",
+      "section": "6121.01",
+      "source_title": "Section 6121.01 - Water development authority definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-6121.01",
+      "term": "Public roads"
+    },
+    {
+      "definition": "(Q) \"Public utility facilities\" includes tracks, pipes, mains, conduits, cables, wires, towers, poles, and other equipment and appliances of any public utility.\n\n(R) \"Construction,\" unless the context indicates a different meaning or intent, includes reconstruction, enlargement, improvement, or providing furnishings or equipment.\n\n(S) \"Water development revenue bonds,\" unless the context indicates a different meaning or intent, includes water development revenue notes, water development revenue renewal notes, and water development revenue refunding bonds, except that notes issued in anticipation of the issuance of bonds shall have a maximum maturity of five years as provided in section 6121.06 of the Revised Code and notes or renewal notes issued as the definitive obligation may be issued maturing at the time or times that the authority determines with a maximum maturity of forty years from the date of issuance of the original note.",
+      "id": "6121.01-public-utility-facilities",
+      "normalized": "public utility facilities",
+      "scope": "As used in this chapter:",
+      "section": "6121.01",
+      "source_title": "Section 6121.01 - Water development authority definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-6121.01",
+      "term": "Public utility facilities"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "6109.22",
+      "number": "6109.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6109.22"
+    },
+    {
+      "kind": "section",
+      "label": "6111.036",
+      "number": "6111.036",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.036"
+    },
+    {
+      "kind": "section",
+      "label": "6111.037",
+      "number": "6111.037",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.037"
+    },
+    {
+      "kind": "section",
+      "label": "1506.01",
+      "number": "1506.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1506.01"
+    },
+    {
+      "kind": "section",
+      "label": "6121.06",
+      "number": "6121.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6121.06"
+    }
+  ],
+  "scraped": "2026-07-02T20:17:29+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-6121.01",
+  "title": "Section 6121.01 - Water development authority definitions."
+}

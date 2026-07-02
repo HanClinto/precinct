@@ -1,0 +1,20 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3377.03
+Scraped: 2026-07-02T19:50:35+00:00
+
+# Section 3377.03 - Appointment of members of commission - annual report.
+
+**Effective:** July 26, 1991
+
+**Latest Legislation:** House Bill 298 - 119th General Assembly
+
+The Ohio higher educational facility commission shall be comprised of nine members, one of whom shall be the chancellor of the Ohio board of regents or his designee. The remaining members shall be appointed by the governor with the advice and consent of the senate. Of the members first appointed, one shall serve for a term ending on the first Monday in January, 1970; one for a term ending on the first Monday in January, 1971; one for a term ending on the first Monday in January, 1972; one for a term ending on the first Monday in January, 1973; one for a term ending on the first Monday in January, 1974; one for a term ending on the first Monday in January, 1975; one for a term ending on the first Monday in January, 1976; and one for a term ending on the first Monday in January, 1977. Each succeeding term of office shall be for eight years, commencing on the second day of January and ending on the first day of January, except that upon expiration of the term ending January 7, 1974, the new term which succeeds it shall commence on January 8, 1974, and end on January 1, 1982; upon expiration of the term ending January 6, 1975, the new term which succeeds it shall commence on January 7, 1975, and end on January 1, 1983; upon expiration of the term ending January 5, 1976, the new term which succeeds it shall commence on January 6, 1976, and end on January 1, 1984; upon expiration of the term ending January 3, 1977, the new term which succeeds it shall commence on January 4, 1977, and end on January 1, 1985; upon expiration of the term ending January 5, 1978, the new term which succeeds it shall commence on January 6, 1978, and end on January 1, 1986; upon expiration of the term ending January 4, 1979, the new term which succeeds it shall commence on January 5, 1979, and end on January 1, 1987; and upon expiration of the term ending January 3, 1980, the new term which succeeds it shall commence on January 4, 1980, and end on January 1, 1988. Each member shall hold office from the date of his appointment until the end of the term for which he was appointed. Vacancies shall be filled by gubernatorial appointment. Any member appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall hold office for the remainder of such term. Any member shall continue in office subsequent to the expiration date of his term until his successor takes office, or until a period of sixty days has elapsed, whichever occurs first.
+
+The governor shall designate the chairman of the commission. The commission shall elect from its own members each year, a vice-chairman and such other officers as it deems necessary. Members of the commission shall receive no compensation for their services but shall be reimbursed for their necessary and actual expenses actually incurred in the conduct of the commission's business.
+
+The commission shall provide for the holding of regular and special meetings. A majority of the commissioners shall constitute a quorum for the transaction of any business and the approval of a majority of the members is necessary to undertake any act of the commission.
+
+The commission shall adopt rules for the conduct of business, may appoint such officers and employees as necessary, and may fix their compensation and prescribe their duties. All expenses incurred in carrying out Chapter 3377. of the Revised Code are payable solely from funds of the commission available therefor, and no liability or obligation shall be incurred by the commission beyond the extent to which such funds are available.
+
+Within ninety days after the close of each fiscal year, the commission shall make a report of its activities for the preceding fiscal year to the governor. Such report shall be filed with the clerk of each house of the general assembly.
+
+Last updated October 21, 2025 at 2:51 PM

@@ -1,0 +1,73 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-5739
+Scraped: 2026-07-02T20:15:14+00:00
+
+# Chapter 5739 - Sales Tax
+
+## Sections
+
+- Section 5739.01 - Sales tax definitions.
+- Section 5739.011 - Exemptions for manufacturing.
+- Section 5739.012 - Taxation of bundled transactions.
+- Section 5739.02 - Levy of sales tax - purpose - rate - exemptions.
+- Section 5739.021 - Additional sales tax levied by county.
+- Section 5739.022 - Repealing emergency permissive tax.
+- Section 5739.023 - Transit authority tax levy.
+- Section 5739.025 - Computation; audits; sale of a fractional ownership program aircraft.
+- Section 5739.026 - County sales tax for specific purposes.
+- Section 5739.027 - Tax on watercraft or outboard motor purchased by nonresident.
+- Section 5739.028 - Reducing tax for transit purposes - increasing tax for constructing or renovating sports facility.
+- Section 5739.029 - Nonresident consumer motor vehicle sales tax.
+- Section 5739.0210 - Retail sales tax on manufactured or mobile home.
+- Section 5739.03 - Consumer to pay tax - report of tax - exemption certificates.
+- Section 5739.031 - Direct payment permits.
+- Section 5739.032 - Permit holder tax payments by electronic funds transfer.
+- Section 5739.033 - Location of sale.
+- Section 5739.034 - Telecommunications services definitions.
+- Section 5739.04 - Notification of change in county or transit authority boundaries.
+- Section 5739.05 - Powers and duties of tax commissioner - payment by vendor on predetermined basis.
+- Section 5739.051 - Medicaid health insuring corporation; direct payments; returns.
+- Section 5739.06 - Monetary allowance granted under streamlined sales and use tax agreement.
+- Section 5739.061 - Vendor compensation for complying with origin based sourcing requirements.
+- Section 5739.07 - Vendor or consumer refunds.
+- Section 5739.072 - Refund may be applied in satisfaction of debt due state.
+- Section 5739.08 - Municipal or township excise lodging taxes.
+- Section 5739.081 - Tax return information provided to convention and visitors' bureau.
+- Section 5739.09 - Administration and allocation of lodging tax.
+- Section 5739.091 - Expansion of definition of hotel.
+- Section 5739.092 - Use of funds distributed to convention and visitors' bureau.
+- Section 5739.093 - Exemption and diversion of revenue for headquarters hotel.
+- Section 5739.094 - Liens for unpaid lodging taxes.
+- Section 5739.10 - Excise tax on vendor's receipts.
+- Section 5739.101 - Declaration of resort area.
+- Section 5739.102 - Remitting tax - resort area excise tax fund.
+- Section 5739.103 - Registration with tax commissioner.
+- Section 5739.104 - Refunds.
+- Section 5739.11 - Records open to inspection - exemption certificate.
+- Section 5739.12 - Monthly return by vendor - reconciliation return.
+- Section 5739.121 - Bad debt deduction.
+- Section 5739.122 - Vendor tax payments by electronic funds transfer.
+- Section 5739.124 - Returns of taxpayers using electronic funds transfer.
+- Section 5739.13 - Liability of vendor and consumer - assessment - petition for reassessment - penalties - appeal - judgment - execution.
+- Section 5739.131 - Service of process or notice to nonresident.
+- Section 5739.132 - Interest on unpaid tax, fee, or charge; interest on refund.
+- Section 5739.133 - Penalties for failure to remit - preassessment interest.
+- Section 5739.14 - Sale of entire business - successor liable for taxes and penalties due.
+- Section 5739.15 - Jeopardy assessment.
+- Section 5739.16 - Four-year limitation for assessments - exceptions.
+- Section 5739.17 - Vendor's license.
+- Section 5739.18 - System for issuing vendor's licenses.
+- Section 5739.19 - Revocation of license.
+- Section 5739.21 - Crediting of funds.
+- Section 5739.211 - Use and allocation of county sales tax funds.
+- Section 5739.213 - Payments from tourism development district.
+- Section 5739.26 - Tax paid by consumer - prohibition against false certificates.
+- Section 5739.29 - Vendor to collect tax - prohibition against rebate.
+- Section 5739.30 - Return or report must be filed - prohibitions - actions by tax commissioner.
+- Section 5739.31 - Vendor or transient vendor's license - prohibitions upon license suspension.
+- Section 5739.32 - Withholding tax funds to insure compliance by local officials.
+- Section 5739.33 - Personal liability for tax.
+- Section 5739.34 - No preememption.
+- Section 5739.35 - Delegation of investigative powers.
+- Section 5739.36 - Report of tax revenue by industry classification.
+- Section 5739.41 - Sales tax holiday designation.
+- Section 5739.99 - Penalty.

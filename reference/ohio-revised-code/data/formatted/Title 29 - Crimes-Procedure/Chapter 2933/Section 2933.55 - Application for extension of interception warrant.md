@@ -1,0 +1,18 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-2933.55
+Scraped: 2026-07-02T19:46:37+00:00
+
+# Section 2933.55 - Application for extension of interception warrant.
+
+**Effective:** June 13, 1996
+
+**Latest Legislation:** House Bill 181 - 121st General Assembly
+
+(A) At any time prior to the expiration of an interception warrant, the person who made the application for the warrant may apply for an extension of the warrant. The person shall file the application for extension with a judge of the court of common pleas of the county in which the interception under the warrant was to take place. An application for extension shall comply with section 2933.53 of the Revised Code.
+
+(B) A judge of a court of common pleas with whom an application for extension of an interception warrant is filed shall determine whether to order an extension of the interception warrant in accordance with section 2933.54 of the Revised Code and shall order an extension for a period no longer than the judge considers necessary to achieve the purposes of the extension. The extension shall terminate upon the attainment of the authorized objective or thirty days after it is granted, whichever occurs first. All provisions of sections 2933.51 to 2933.66 of the Revised Code that apply to original interception warrants apply to extensions of interception warrants.
+
+(C)(1) When an investigative officer, while intercepting communications pursuant to an interception warrant or pursuant to an oral order for an interception granted under section 2933.57 of the Revised Code, intercepts wire, oral, or electronic communications that pertain to a criminal offense that is other than the designated offense specified in the interception warrant or oral order and that is completely unrelated to the designated offense specified in the interception warrant or oral order, the prosecuting attorney, in order to permit the disclosure or use of the contents, or evidence derived from the contents, of the intercepted communications pursuant to division (G) of section 2933.59 of the Revised Code, may file a motion with the judge who issued the warrant or granted the oral order for an order approving the interception. The judge shall enter an order approving the interception if the judge finds that the communication otherwise was intercepted in accordance with sections 2933.53 to 2933.66 of the Revised Code.
+
+A person may disclose or use the contents, and any evidence derived from the contents, of the intercepted communications dealing with the other, unrelated offense as set forth in division (F) of section 2933.59 of the Revised Code. The person may disclose or use those contents and the evidence derived from those contents as set forth in division (G) of section 2933.59 of the Revised Code only if the issuing judge issues an order approving the interception of the communications concerning the other, unrelated offense.
+
+(2) When an investigative officer, while intercepting communications pursuant to an interception warrant or pursuant to an oral order for an interception granted under section 2933.57 of the Revised Code, intercepts wire, oral, or electronic communications that pertain to a criminal offense that is other than the designated offense specified in the interception warrant or oral order but that is not completely unrelated to the designated offense specified in the interception warrant or oral order, the wire, oral, or electronic communications intercepted shall be treated for all purposes and without the need for further action as if the offense to which they pertain was a designated offense specified in the interception warrant or oral order.

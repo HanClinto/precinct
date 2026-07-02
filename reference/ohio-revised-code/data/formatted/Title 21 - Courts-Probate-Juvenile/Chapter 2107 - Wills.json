@@ -1,0 +1,399 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 2107.01 - Will construed.",
+      "number": "2107.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.011 - Inheritance and bequest defined.",
+      "number": "2107.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.011"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.02 - Who may make will.",
+      "number": "2107.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.03 - Method of making will.",
+      "number": "2107.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.04 - Agreement to make a will.",
+      "number": "2107.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.05 - Incorporation by reference.",
+      "number": "2107.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.06 - Age requirement for witnessing will.",
+      "number": "2107.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.07 - Deposit of will.",
+      "number": "2107.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.08 - Delivery of deposited will.",
+      "number": "2107.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.09 - Who may enforce production of a will.",
+      "number": "2107.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.10 - Effect of withholding will.",
+      "number": "2107.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.11 - Jurisdiction to probate.",
+      "number": "2107.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.12 - Contest of jurisdiction.",
+      "number": "2107.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.15 - Witness a devisee or legatee.",
+      "number": "2107.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.16 - Will proved in certain cases.",
+      "number": "2107.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.17 - Depositions may be taken by commission.",
+      "number": "2107.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.18 - Admission of will to probate.",
+      "number": "2107.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.181 - Interlocutory orders - rehearing.",
+      "number": "2107.181",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.181"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.19 - Notice of admission of will to probate.",
+      "number": "2107.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.20 - Filing and recording of will - certified copy.",
+      "number": "2107.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.21 - Recorded in each county where real property is situated.",
+      "number": "2107.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.22 - Probate of will of later date.",
+      "number": "2107.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.24 - Treatment of document as will notwithstanding noncompliance with statute.",
+      "number": "2107.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.26 - Lost, spoliated, or destroyed wills may be admitted to probate.",
+      "number": "2107.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.27 - Notice of application - testimony - probate.",
+      "number": "2107.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.28 - Will lost, spoliated, or destroyed after admission to probate.",
+      "number": "2107.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.29 - Record of will destroyed.",
+      "number": "2107.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.30 - Original will may again be admitted to probate.",
+      "number": "2107.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.31 - Limitations as to contests.",
+      "number": "2107.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.32 - Notice.",
+      "number": "2107.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.33 - Revocation of will.",
+      "number": "2107.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.34 - Afterborn or pretermitted heirs.",
+      "number": "2107.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.35 - Encumbrances.",
+      "number": "2107.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.36 - Effect of alteration of property.",
+      "number": "2107.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.37 - Subsequent marriage.",
+      "number": "2107.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.38 - Destruction of a subsequent will.",
+      "number": "2107.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.46 - Action by fiduciary.",
+      "number": "2107.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.47 - Protection of purchaser against will or later will.",
+      "number": "2107.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.48 - Foreign will cannot be contested here.",
+      "number": "2107.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.49 - Rule in Shelley's case abolished.",
+      "number": "2107.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.50 - Property acquired subsequent to will.",
+      "number": "2107.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.501 - Ademption - exemptions.",
+      "number": "2107.501",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.501"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.51 - When whole estate to pass.",
+      "number": "2107.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.52 - Deceased devisee; class gifts.",
+      "number": "2107.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.521 - Specific references to powers of appointment.",
+      "number": "2107.521",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.521"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.53 - Undevised real property applied to debts.",
+      "number": "2107.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.54 - Contribution - exception.",
+      "number": "2107.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.55 - Portion of pretermitted heir, or of witness, subject to contribution.",
+      "number": "2107.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.56 - Liability in case of insolvency.",
+      "number": "2107.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.57 - Contribution enforced.",
+      "number": "2107.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.58 - Order of sale to pay debts.",
+      "number": "2107.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.59 - Sale of real property by executor's successor.",
+      "number": "2107.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.60 - Oral will.",
+      "number": "2107.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.61 - Will ineffectual.",
+      "number": "2107.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.62 - Expenses and fees.",
+      "number": "2107.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.63 - Real or personal property devised, bequeathed or appointed to trustee of existing trust.",
+      "number": "2107.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.64 - Trustee named in will as beneficiary.",
+      "number": "2107.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.65 - Conferring power to name executor.",
+      "number": "2107.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.71 - Civil action to contest validity of will.",
+      "number": "2107.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.72 - Rules of procedure - jury trial.",
+      "number": "2107.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.73 - Parties to will contest action.",
+      "number": "2107.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.74 - Order of probate prima-facie evidence of attestation, execution and validity of will.",
+      "number": "2107.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.74"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.75 - Administration costs of purported last will or codicil.",
+      "number": "2107.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.76 - Will contest action - time limits.",
+      "number": "2107.76",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.76"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2107.77 - Later wills.",
+      "number": "2107.77",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.77"
+    }
+  ],
+  "scraped": "2026-07-02T19:41:16+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-2107",
+  "title": "Chapter 2107 - Wills"
+}

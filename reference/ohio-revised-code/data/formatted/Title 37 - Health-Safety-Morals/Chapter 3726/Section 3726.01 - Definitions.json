@@ -1,0 +1,62 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Abortion facility\" means any of the following in which abortions are induced or performed:\n\n(1) Ambulatory surgical facility as defined in section 3702.30 of the Revised Code;\n\n(2) Any other facility in which abortion is legally provided.",
+      "id": "3726.01-abortion-facility",
+      "normalized": "abortion facility",
+      "scope": "As used in this chapter:",
+      "section": "3726.01",
+      "source_title": "Section 3726.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3726.01",
+      "term": "Abortion facility"
+    },
+    {
+      "definition": "(B) \"Cremation\" has the same meaning as in section 4717.01 of the Revised Code.",
+      "id": "3726.01-cremation",
+      "normalized": "cremation",
+      "scope": "As used in this chapter:",
+      "section": "3726.01",
+      "source_title": "Section 3726.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3726.01",
+      "term": "Cremation"
+    },
+    {
+      "definition": "(C) \"Fetal remains\" means the product of human conception that has been aborted. If a woman is carrying more than one zygote, blastocyte, embryo, or fetus, such as in the incidence of twins or triplets, each zygote, blastocyte, embryo, or fetus or any of its parts that is aborted is a separate product of human conception that has been aborted.",
+      "id": "3726.01-fetal-remains",
+      "normalized": "fetal remains",
+      "scope": "As used in this chapter:",
+      "section": "3726.01",
+      "source_title": "Section 3726.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3726.01",
+      "term": "Fetal remains"
+    },
+    {
+      "definition": "(D) \"Interment\" means the burial or entombment of fetal remains.",
+      "id": "3726.01-interment",
+      "normalized": "interment",
+      "scope": "As used in this chapter:",
+      "section": "3726.01",
+      "source_title": "Section 3726.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3726.01",
+      "term": "Interment"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3702.30",
+      "number": "3702.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.30"
+    },
+    {
+      "kind": "section",
+      "label": "4717.01",
+      "number": "4717.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4717.01"
+    }
+  ],
+  "scraped": "2026-07-02T19:51:47+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3726.01",
+  "title": "Section 3726.01 - Definitions."
+}

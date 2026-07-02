@@ -1,0 +1,34 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-1307.105
+Scraped: 2026-07-02T19:37:05+00:00
+
+# Section 1307.105 - Reissuance in alternative medium - UCC 7-105.
+
+**Effective:** June 29, 2011
+
+**Latest Legislation:** House Bill 9 - 129th General Assembly
+
+Reissuance in alternative medium [UCC 7-105]
+
+(A) Upon request of a person entitled under an electronic document of title, the issuer of the electronic document may issue a tangible document of title as a substitute for the electronic document if:
+
+(1) The person entitled under the electronic document surrenders control of the document to the issuer; and
+
+(2) The tangible document when issued contains a statement that it is issued in substitution for the electronic document.
+
+(B) Upon issuance of a tangible document of title in substitution for an electronic document of title in accordance with division (A) of this section:
+
+(1) The electronic document ceases to have any effect or validity; and
+
+(2) The person that procured issuance of the tangible document warrants to all subsequent persons entitled under the tangible document that the warrantor was a person entitled under the electronic document when the warrantor surrendered control of the electronic document to the issuer.
+
+(C) Upon request of a person entitled under a tangible document of title, the issuer of the tangible document may issue an electronic document of title as a substitute for the tangible document if:
+
+(1) The person entitled under the tangible document surrenders possession of the document to the issuer; and
+
+(2) The electronic document when issued contains a statement that it is issued in substitution for the tangible document.
+
+(D) Upon issuance of an electronic document of title in substitution for a tangible document of title in accordance with division (C) of this section:
+
+(1) The tangible document ceases to have any effect or validity; and
+
+(2) The person that procured issuance of the electronic document warrants to all subsequent persons entitled under the electronic document that the warrantor was a person entitled under the tangible document when the warrantor surrendered possession of the tangible document to the issuer.

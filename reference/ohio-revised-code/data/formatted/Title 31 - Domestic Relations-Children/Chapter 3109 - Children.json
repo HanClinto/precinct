@@ -1,0 +1,495 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 3109.01 - Age of majority.",
+      "number": "3109.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.011 - Capacity of person given consent to marry.",
+      "number": "3109.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.011"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.02 - Exception for veterans.",
+      "number": "3109.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.03 - Equality of parental rights and responsibilities.",
+      "number": "3109.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.04 - Allocating parental rights and responsibilities for care of children - shared parenting.",
+      "number": "3109.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.041 - Custody decrees issued prior to shared parenting provisions.",
+      "number": "3109.041",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.041"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.042 - Custody rights of unmarried mother.",
+      "number": "3109.042",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.042"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.043 - Temporary custody order while action pending.",
+      "number": "3109.043",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.043"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.05 - Child support determinations.",
+      "number": "3109.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.051 - Parenting time - companionship or visitation rights.",
+      "number": "3109.051",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.051"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.052 - Mediation of differences as to allocating parental rights and responsibilities.",
+      "number": "3109.052",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.052"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.053 - Parenting classes or counseling.",
+      "number": "3109.053",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.053"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.054 - Parental decisions regarding child's gender identity and gender transition.",
+      "number": "3109.054",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.054"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.055 - Conciliation for custody disputes between unmarried parents.",
+      "number": "3109.055",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.055"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.06 - Certification to juvenile court.",
+      "number": "3109.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.061 - Construction of sections 2151.233 to 2151.236.",
+      "number": "3109.061",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.061"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.07 - Appeals.",
+      "number": "3109.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.09 - Liability of parents for willful damage of property or theft by their children.",
+      "number": "3109.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.10 - Liability of parents for willful and malicious assaults by their children.",
+      "number": "3109.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.11 - Companionship or visitation rights for parents or other relatives of deceased mother or father.",
+      "number": "3109.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.12 - Mother unmarried - parenting time, companionship or visitation rights.",
+      "number": "3109.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.13 - Prevention of child abuse and child neglect definitions.",
+      "number": "3109.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.14 - Fees for vital statistics records.",
+      "number": "3109.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.15 - Children's trust fund board.",
+      "number": "3109.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.16 - Powers of the board.",
+      "number": "3109.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.17 - Biennial state plan for comprehensive child abuse and child neglect prevention.",
+      "number": "3109.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.171 - Child abuse and child neglect prevention regions.",
+      "number": "3109.171",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.171"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.172 - Child abuse and child neglect regional prevention councils.",
+      "number": "3109.172",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.172"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.173 - Regional prevention coordinator.",
+      "number": "3109.173",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.173"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.174 - Submission of regional prevention plan.",
+      "number": "3109.174",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.174"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.175 - Evaluation of plans.",
+      "number": "3109.175",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.175"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.176 - Denial or reduction of funding.",
+      "number": "3109.176",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.176"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.177 - Primary prevention strategies.",
+      "number": "3109.177",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.177"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.178 - Requests for start-up costs.",
+      "number": "3109.178",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.178"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.179 - Rules.",
+      "number": "3109.179",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.179"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.19 - Parentage or support action brought by grandparent who is providing support to child born to unmarried and unemancipated minors.",
+      "number": "3109.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.20 - Child support for a person with a disability regardless of age.",
+      "number": "3109.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.401 - State policy on parent and child relationship.",
+      "number": "3109.401",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.401"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.41 - Parent killing other parent definitions.",
+      "number": "3109.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.42 - Ineligibility for custody of parent killing other parent.",
+      "number": "3109.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.43 - Ineligibility for visitation rights of parent killing other parent.",
+      "number": "3109.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.44 - Notice by court where parent convicted of killing other parent.",
+      "number": "3109.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.45 - Termination of visitation order upon receipt of notice.",
+      "number": "3109.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.46 - Termination of custody order upon receipt of notice.",
+      "number": "3109.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.47 - Custody or visitation granted to surviving parent.",
+      "number": "3109.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.48 - Visit to surviving parent with child present.",
+      "number": "3109.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.50 - Definitions.",
+      "number": "3109.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.501 - Children conceived as result of rape or sexual battery; declaration of paternity.",
+      "number": "3109.501",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.501"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.502 - Continuation of declaration of paternity proceedings during criminal proceedings.",
+      "number": "3109.502",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.502"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.503 - Notice of parental rights.",
+      "number": "3109.503",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.503"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.504 - Granting of parental rights prohibited.",
+      "number": "3109.504",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.504"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.505 - Consolidation of actions.",
+      "number": "3109.505",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.505"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.506 - Rights of relatives.",
+      "number": "3109.506",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.506"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.507 - Revocation or modification of order.",
+      "number": "3109.507",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.507"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.51 - Definitions.",
+      "number": "3109.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.52 - Power of attorney for residential grandparent.",
+      "number": "3109.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.53 - Form of power of attorney for residential grandparent.",
+      "number": "3109.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.54 - Signatures - notarization.",
+      "number": "3109.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.55 - Notice of creation of power of attorney.",
+      "number": "3109.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.56 - Requirements for creating power of attorney.",
+      "number": "3109.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.57 - Further requirements for creating power of attorney.",
+      "number": "3109.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.58 - Pending proceedings may preclude creation of power of attorney.",
+      "number": "3109.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.59 - Termination of power of attorney.",
+      "number": "3109.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.60 - Notice of termination.",
+      "number": "3109.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.61 - Immunity.",
+      "number": "3109.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.62 - Military power of attorney.",
+      "number": "3109.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.65 - Caretaker authorization affidavit.",
+      "number": "3109.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.66 - Form of caretaker authorization affidavit.",
+      "number": "3109.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.67 - Execution of affidavit.",
+      "number": "3109.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.67"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.68 - Pending proceedings may preclude creation of affidavit.",
+      "number": "3109.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.68"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.69 - Limitations on authority granted by affidavit.",
+      "number": "3109.69",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.69"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.70 - Termination of affidavit.",
+      "number": "3109.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.71 - Notice of termination.",
+      "number": "3109.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.72 - Negation of actions taken under caretaker authorization affidavit.",
+      "number": "3109.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.73 - Immunity.",
+      "number": "3109.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.74 - Filing with court.",
+      "number": "3109.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.74"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.75 - Verification of filing.",
+      "number": "3109.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.76 - Determination of custody after notice of revocation of grandparent's power of attorney, termination or removal.",
+      "number": "3109.76",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.76"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.78 - Purpose may void power or affidavit.",
+      "number": "3109.78",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.78"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.79 - Child support order unaffected by power or affidavit.",
+      "number": "3109.79",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.79"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3109.80 - Only one power or affidavit may be in effect at a time.",
+      "number": "3109.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.80"
+    }
+  ],
+  "scraped": "2026-07-02T19:47:41+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-3109",
+  "title": "Chapter 3109 - Children"
+}

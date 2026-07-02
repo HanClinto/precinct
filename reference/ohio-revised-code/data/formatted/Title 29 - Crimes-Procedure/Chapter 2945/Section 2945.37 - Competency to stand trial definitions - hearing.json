@@ -1,0 +1,186 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Prosecutor\" means a prosecuting attorney or a city director of law, village solicitor, or similar chief legal officer of a municipal corporation who has authority to prosecute a criminal case that is before the court or the criminal case in which a defendant in a criminal case has been found incompetent to stand trial or not guilty by reason of insanity.",
+      "id": "2945.37-prosecutor",
+      "normalized": "prosecutor",
+      "scope": "(A) As used in sections 2945.37 to 2945.402 of the Revised Code:",
+      "section": "2945.37",
+      "source_title": "Section 2945.37 - Competency to stand trial definitions - hearing.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2945.37",
+      "term": "Prosecutor"
+    },
+    {
+      "definition": "(2) \"Examiner\" means either of the following:\n\n(a) A psychiatrist or a licensed clinical psychologist who satisfies the criteria of division (I) of section 5122.01 of the Revised Code or is employed by a certified forensic center designated by the department of mental health and addiction services to conduct examinations or evaluations.\n\n(b) For purposes of a separate intellectual disability evaluation that is ordered by a court pursuant to division (I) of section 2945.371 of the Revised Code, a psychologist designated by the director of developmental disabilities pursuant to that section to conduct that separate intellectual disability evaluation.",
+      "id": "2945.37-examiner",
+      "normalized": "examiner",
+      "scope": "(A) As used in sections 2945.37 to 2945.402 of the Revised Code:",
+      "section": "2945.37",
+      "source_title": "Section 2945.37 - Competency to stand trial definitions - hearing.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2945.37",
+      "term": "Examiner"
+    },
+    {
+      "definition": "(3) \"Nonsecured status\" means any unsupervised, off-grounds movement or trial visit from a hospital or institution, or any conditional release, that is granted to a person who is found incompetent to stand trial and is committed pursuant to section 2945.39 of the Revised Code or to a person who is found not guilty by reason of insanity and is committed pursuant to section 2945.40 of the Revised Code.",
+      "id": "2945.37-nonsecured-status",
+      "normalized": "nonsecured status",
+      "scope": "(A) As used in sections 2945.37 to 2945.402 of the Revised Code:",
+      "section": "2945.37",
+      "source_title": "Section 2945.37 - Competency to stand trial definitions - hearing.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2945.37",
+      "term": "Nonsecured status"
+    },
+    {
+      "definition": "(4) \"Unsupervised, off-grounds movement\" includes only off-grounds privileges that are unsupervised and that have an expectation of return to the hospital or institution on a daily basis.",
+      "id": "2945.37-unsupervised-off-grounds-movement",
+      "normalized": "unsupervised, off-grounds movement",
+      "scope": "(A) As used in sections 2945.37 to 2945.402 of the Revised Code:",
+      "section": "2945.37",
+      "source_title": "Section 2945.37 - Competency to stand trial definitions - hearing.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2945.37",
+      "term": "Unsupervised, off-grounds movement"
+    },
+    {
+      "definition": "(5) \"Trial visit\" means a patient privilege of a longer stated duration of unsupervised community contact with an expectation of return to the hospital or institution at designated times.",
+      "id": "2945.37-trial-visit",
+      "normalized": "trial visit",
+      "scope": "(A) As used in sections 2945.37 to 2945.402 of the Revised Code:",
+      "section": "2945.37",
+      "source_title": "Section 2945.37 - Competency to stand trial definitions - hearing.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2945.37",
+      "term": "Trial visit"
+    },
+    {
+      "definition": "(6) \"Conditional release\" means a commitment status under which the trial court at any time may revoke a person's conditional release and order the rehospitalization or reinstitutionalization of the person as described in division (A) of section 2945.402 of the Revised Code and pursuant to which a person who is found incompetent to stand trial or a person who is found not guilty by reason of insanity lives and receives treatment in the community for a period of time that does not exceed the maximum prison term or term of imprisonment that the person could have received for the offense in question had the person been convicted of the offense instead of being found incompetent to stand trial on the charge of the offense or being found not guilty by reason of insanity relative to the offense.\n\n(7) \"Licensed clinical psychologist,\" \"person with a mental illness subject to court order,\" and \"psychiatrist\" have the same meanings as in section 5122.01 of the Revised Code.",
+      "id": "2945.37-conditional-release",
+      "normalized": "conditional release",
+      "scope": "(A) As used in sections 2945.37 to 2945.402 of the Revised Code:",
+      "section": "2945.37",
+      "source_title": "Section 2945.37 - Competency to stand trial definitions - hearing.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2945.37",
+      "term": "Conditional release"
+    },
+    {
+      "definition": "(8) \"Person with an intellectual disability subject to institutionalization by court order\" has the same meaning as in section 5123.01 of the Revised Code.",
+      "id": "2945.37-person-with-an-intellectual-disability-subject-to-institutionalization-by-court-order",
+      "normalized": "person with an intellectual disability subject to institutionalization by court order",
+      "scope": "(A) As used in sections 2945.37 to 2945.402 of the Revised Code:",
+      "section": "2945.37",
+      "source_title": "Section 2945.37 - Competency to stand trial definitions - hearing.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2945.37",
+      "term": "Person with an intellectual disability subject to institutionalization by court order"
+    },
+    {
+      "definition": "(9) \"Jail\" has the same meaning as in section 2929.01 of the Revised Code.\n\n(B) In a criminal action in a court of common pleas, a county court, or a municipal court, the court, prosecutor, or defense may raise the issue of the defendant's competence to stand trial. If the issue is raised before the trial has commenced, the court shall hold a hearing on the issue as provided in this section. If the issue is raised after the trial has commenced, the court shall hold a hearing on the issue only for good cause shown or on the court's own motion.\n\n(C) The court shall conduct the hearing required or authorized under division (B) of this section within thirty days after the issue is raised, unless the defendant has been referred for evaluation in which case the court shall conduct the hearing within ten days after the filing of the report of the evaluation or, in the case of a defendant who is ordered by the court pursuant to division (I) of section 2945.371 of the Revised Code to undergo a separate intellectual disability evaluation conducted by a psychologist designated by the director of developmental disabilities, within ten days after the filing of the report of the separate intellectual disability evaluation under that division. A hearing may be continued for good cause.\n\n(D) The defendant shall be represented by counsel at the hearing conducted under division (C) of this section. If the defendant is unable to obtain counsel, the court shall appoint counsel under Chapter 120. of the Revised Code or under the authority recognized in division (C) of section 120.06 , division (E) of section 120.16 , division (E) of section 120.26 , or section 2941.51 of the Revised Code before proceeding with the hearing.\n\n(E) The prosecutor and defense counsel may submit evidence on the issue of the defendant's competence to stand trial. A written report of the evaluation of the defendant may be admitted into evidence at the hearing by stipulation, but, if either the prosecution or defense objects to its admission, the report may be admitted under sections 2317.36 to 2317.38 of the Revised Code or any other applicable statute or rule.\n\n(F) The court shall not find a defendant incompetent to stand trial solely because the defendant is receiving or has received treatment as a voluntary or involuntary patient with a mental illness under Chapter 5122. or a voluntary or involuntary resident with an intellectual disability under Chapter 5123. of the Revised Code or because the defendant is receiving or has received psychotropic drugs or other medication, even if the defendant might become incompetent to stand trial without the drugs or medication.\n\n(G) A defendant is presumed to be competent to stand trial. If, after a hearing, the court finds by a preponderance of the evidence that, because of the defendant's present mental condition, the defendant is incapable of understanding the nature and objective of the proceedings against the defendant or of assisting in the defendant's defense, the court shall find the defendant incompetent to stand trial and shall enter an order authorized by section 2945.38 of the Revised Code.\n\n(H) Municipal courts shall follow the procedures set forth in sections 2945.37 to 2945.402 of the Revised Code. Except as provided in section 2945.371 of the Revised Code, a municipal court shall not order an evaluation of the defendant's competence to stand trial or the defendant's mental condition at the time of the commission of the offense to be conducted at any hospital operated by the department of mental health and addiction services. Those evaluations shall be performed through community resources including, but not limited to, certified forensic centers, court probation departments, and community mental health services providers. All expenses of the evaluations shall be borne by the legislative authority of the municipal court, as defined in section 1901.03 of the Revised Code, and shall be taxed as costs in the case. If a defendant is found incompetent to stand trial or not guilty by reason of insanity, a municipal court may commit the defendant as provided in sections 2945.38 to 2945.402 of the Revised Code.\n\nLast updated October 20, 2025 at 2:34 PM",
+      "id": "2945.37-jail",
+      "normalized": "jail",
+      "scope": "(A) As used in sections 2945.37 to 2945.402 of the Revised Code:",
+      "section": "2945.37",
+      "source_title": "Section 2945.37 - Competency to stand trial definitions - hearing.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2945.37",
+      "term": "Jail"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2945.37",
+      "number": "2945.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.37"
+    },
+    {
+      "kind": "section",
+      "label": "2945.402",
+      "number": "2945.402",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.402"
+    },
+    {
+      "kind": "section",
+      "label": "5122.01",
+      "number": "5122.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5122.01"
+    },
+    {
+      "kind": "section",
+      "label": "2945.371",
+      "number": "2945.371",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.371"
+    },
+    {
+      "kind": "section",
+      "label": "2945.39",
+      "number": "2945.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.39"
+    },
+    {
+      "kind": "section",
+      "label": "2945.40",
+      "number": "2945.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.40"
+    },
+    {
+      "kind": "section",
+      "label": "5123.01",
+      "number": "5123.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5123.01"
+    },
+    {
+      "kind": "section",
+      "label": "2929.01",
+      "number": "2929.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2929.01"
+    },
+    {
+      "kind": "section",
+      "label": "120.06",
+      "number": "120.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-120.06"
+    },
+    {
+      "kind": "section",
+      "label": "120.16",
+      "number": "120.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-120.16"
+    },
+    {
+      "kind": "section",
+      "label": "120.26",
+      "number": "120.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-120.26"
+    },
+    {
+      "kind": "section",
+      "label": "2941.51",
+      "number": "2941.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.51"
+    },
+    {
+      "kind": "section",
+      "label": "2317.36",
+      "number": "2317.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2317.36"
+    },
+    {
+      "kind": "section",
+      "label": "2317.38",
+      "number": "2317.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2317.38"
+    },
+    {
+      "kind": "section",
+      "label": "2945.38",
+      "number": "2945.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.38"
+    },
+    {
+      "kind": "section",
+      "label": "1901.03",
+      "number": "1901.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.03"
+    }
+  ],
+  "scraped": "2026-07-02T19:46:54+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2945.37",
+  "title": "Section 2945.37 - Competency to stand trial definitions - hearing."
+}

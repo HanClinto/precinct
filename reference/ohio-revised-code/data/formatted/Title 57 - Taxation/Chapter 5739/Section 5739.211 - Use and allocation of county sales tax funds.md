@@ -1,0 +1,14 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5739.211
+Scraped: 2026-07-02T20:15:14+00:00
+
+# Section 5739.211 - Use and allocation of county sales tax funds.
+
+**Effective:** June 30, 2006
+
+**Latest Legislation:** House Bill 530 - 126th General Assembly
+
+(A) The moneys received by a county levying an additional sales tax pursuant to section 5739.021 of the Revised Code shall be deposited in the county general fund to be expended for any purpose for which general fund moneys of the county may be used, including the acquisition or construction of permanent improvements or to make payments in accordance with section 333.06 or 333.07 of the Revised Code, or in the bond retirement fund for the payment of debt service charges on notes or bonds of the county issued for the acquisition or construction of permanent improvements. The amounts to be deposited in each of such funds shall be determined by the board of county commissioners.
+
+(B) The moneys received by a county levying an additional sales tax pursuant to section 5739.026 of the Revised Code shall be deposited in a separate fund, which shall be allocated and distributed in accordance with the resolution adopted under such section. Moneys allocated for the purpose of division (A)(4) of section 5739.026 of the Revised Code shall be transferred to and disbursed from the community improvements fund in the county treasury. Notwithstanding section 135.351 of the Revised Code, if an allocation of moneys to a convention facilities authority or a transit authority is required pursuant to division (C) of section 5739.026 of the Revised Code, the county shall pay and distribute each authority's share of any such moneys to its fiscal officer within five business days of the date of their receipt by the county. If the moneys allocated under such division are not so paid, the county shall pay to such authority any interest that the county has received or will receive on such moneys that accrues from the date the county received the moneys, together with the principal amount of such moneys.
+
+(C) The moneys received by a transit authority levying an additional sales tax pursuant to section 5739.023 of the Revised Code shall be deposited in such fund or funds of the transit authority as determined by the legislative authority of the transit authority to be expended for any purpose for which a county transit board or the board of county commissioners operating a county transit system, in the case of a county, or the board of trustees of a regional transit authority, in the case of a regional transit authority, may expend moneys under their control, including the purchase, acquisition, construction, replacement, improvement, extension, or enlargement of permanent improvements and for the payment of debt service charges on notes or bonds of the transit authority.

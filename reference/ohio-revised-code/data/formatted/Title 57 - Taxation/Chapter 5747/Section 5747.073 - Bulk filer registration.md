@@ -1,0 +1,56 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5747.073
+Scraped: 2026-07-02T20:15:28+00:00
+
+# Section 5747.073 - Bulk filer registration.
+
+**Effective:** September 30, 2025
+
+**Latest Legislation:** House Bill 96 - 136th General Assembly
+
+(A) As used in this section:
+
+(1) "Bulk filer" means a payroll service provider or similar entity that is registered with the tax commissioner to submit employer withholding tax returns in accordance with this section.
+
+(2) "Payroll service provider" means a third party that assists an employer with payroll administration and state employer withholding tax obligations. A payroll service provider may include a professional employer organization or alternate employer organization.
+
+(3) "Client company" means an employer on whose behalf a bulk filer agrees to submit employer withholding returns in accordance with this section.
+
+(B)(1) An employer may elect to use a bulk filer to comply with its state and school district income tax withholding obligations under this chapter.
+
+(2)(a) Within five days after becoming a client company, the employer shall notify the tax commissioner, in a format prescribed by the commissioner, of the name of the approved bulk filer it is electing to use and the taxes the bulk filer will be remitting on its behalf.
+
+(b) When using a bulk filer, the client company shall maintain all registrations required by the tax commissioner related to electronic filing and payment of the amounts described in divisions (A) and (E) of section 5747.06 of the Revised Code.
+
+(C)(1) The tax commissioner shall approve each bulk filer before the bulk filer can file withholding tax returns on behalf of client companies. The commissioner shall prescribe guidelines and conditions of participation in the bulk file program that include standards of conduct, software tests, and file formats.
+
+(2) The commissioner shall maintain a list of approved bulk filers on the department of taxation's official web site. Such information is not prohibited from disclosure under section 5703.21 of the Revised Code.
+
+(3) Each bulk filer shall comply with all requirements of law pertaining to employers maintaining an office or transacting business in this state and paying compensation to an employee who is a taxpayer.
+
+(4) A bulk filer that is not a professional employer organization, professional employer organization reporting entity, or alternate employer organization shall file a report in the same manner and frequency as required of a professional employer organization, professional employer organization reporting entity, or alternate employer organization under division (J) of section 5747.07 of the Revised Code. For purposes of this division, "client company" shall be substituted for "client employer" wherever "client employer" appears in that division.
+
+(D) All returns, reports, and payments filed or remitted by a bulk filer shall be made through an electronic means as prescribed by the tax commissioner, regardless of the bulk filer's number of client companies, or the number of returns, reports, or payments being filed or remitted. The bulk filer shall register for and maintain all accounts needed to electronically make such filings and payments.
+
+(E)(1) A bulk filer's authorization under this section is valid until either of the following events occurs:
+
+(a) The bulk filer dissolves, loses its existence as the result of a merger, or otherwise ceases business;
+
+(b) The authorization is rescinded or suspended by the tax commissioner for failure to meet the guidelines and conditions of participation in the bulk file program, including any guidelines or conditions established or modified after the bulk filer receives its authorization.
+
+(2) A bulk filer shall notify its client companies within five days after the bulk filer's authorization is rescinded, suspended, or is otherwise no longer valid or active. If an entity no longer meets the requirements to be a bulk filer, the client companies of the former bulk filer shall immediately resume their state and school district withholding filing and payment obligations under this chapter.
+
+(F)(1) The tax commissioner may collect past due amounts from a bulk filer, including penalties and interest thereon, by assessment under section 5747.13 of the Revised Code as if the amounts were taxes collected by an employer.
+
+(2) A bulk filer is subject to all applicable penalties under Title LVII of the Revised Code as if the bulk filer were the client company.
+
+(3) Notwithstanding the commissioner's authority under division (F)(1) of this section, a client company remains subject to assessment if its bulk filer fails to timely file all returns or reports, or to timely remit any payment, on the client company's behalf. The use of a bulk filer does not abrogate the ability of the commissioner to hold employees, officers, members, managers, or trustees of the client company personally liable under division (G) of section 5747.07 of the Revised Code.
+
+(4) Any liability assessed against both a bulk filer and a client company shall be joint and several.
+
+(5) A client company is not responsible for filings or amounts that a bulk filer fails to make or remit on behalf of another client company.
+
+(6) A bulk filer is subject to division (H) of section 5747.07 of the Revised Code as if it were an employer subject to that section.
+
+(G) A bulk filer may file a refund application pursuant to section 5747.11 of the Revised Code on behalf of one or more of its client companies.
+
+Last updated August 22, 2025 at 10:24 AM

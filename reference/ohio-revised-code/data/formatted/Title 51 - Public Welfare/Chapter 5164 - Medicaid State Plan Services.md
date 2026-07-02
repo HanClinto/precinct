@@ -1,0 +1,99 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-5164
+Scraped: 2026-07-02T20:11:25+00:00
+
+# Chapter 5164 - Medicaid State Plan Services
+
+## Sections
+
+- Section 5164.01 - Definitions.
+- Section 5164.02 - Rules to implement chapter.
+- Section 5164.03 - Mandatory and optional services.
+- Section 5164.06 - Medicaid coverage of occupational therapy services.
+- Section 5164.061 - Chiropractic services.
+- Section 5164.07 - Coverage of inpatient care and follow-up care for a mother and her newborn.
+- Section 5164.071 - Doula program.
+- Section 5164.072 - Coverage of donor breast milk and fortifiers.
+- Section 5164.08 - Breast cancer and cervical cancer screening.
+- Section 5164.09 - Equivalent coverage for orally and intravenously administered cancer medications.
+- Section 5164.091 - Coverage for opioid analgesics.
+- Section 5164.092 - Coverage of remote ultrasounds and fetal nonstress tests.
+- Section 5164.093 - Coverage of rapid whole genome sequencing.
+- Section 5164.10 - Coverage of tobacco cessation medications and services.
+- Section 5164.14 - Medicaid coverage for health care service provided by pharmacist.
+- Section 5164.15 - Mental health services.
+- Section 5164.16 - Coverage of one or more state plan home and community-based services.
+- Section 5164.17 - Medicaid coverage of tobacco cessation services.
+- Section 5164.20 - Medicaid not to cover drugs for erectile dysfunction.
+- Section 5164.25 - Recipient with developmental disability who is eligible for medicaid case management services.
+- Section 5164.26 - Healthcheck component.
+- Section 5164.29 - Revised Medicaid provider enrollment system.
+- Section 5164.291 - Provider credentialing committee.
+- Section 5164.30 - Provider agreement with department required.
+- Section 5164.301 - Medicaid provider agreements for physician assistants.
+- Section 5164.31 - Funding for implementing the provider screening requirements.
+- Section 5164.32 - Expiration of medicaid provider agreements.
+- Section 5164.33 - Denying, terminating, and suspending provider agreements.
+- Section 5164.34 - Criminal records check of provider personnel, owners and officers.
+- Section 5164.341 - Criminal records check by independent provider.
+- Section 5164.342 - Criminal records checks by waiver agencies.
+- Section 5164.35 - Provider offenses.
+- Section 5164.36 - Credible allegation of fraud or disqualifying indictment; suspension of provider agreement.
+- Section 5164.37 - Suspension of provider agreement without notice.
+- Section 5164.38 - Adjudication orders of department.
+- Section 5164.39 - Hearing not required unless timely requested.
+- Section 5164.44 - Employee status of independent provider.
+- Section 5164.45 - Contracts for examination, processing, and determination of medicaid claims.
+- Section 5164.46 - Electronic claims submission process; electronic fund transfers.
+- Section 5164.47 - Contracting for review and analysis, quality assurance and quality review.
+- Section 5164.471 - Summary data regarding perinatal services.
+- Section 5164.48 - Medicaid payments made to organization on behalf of providers.
+- Section 5164.55 - Final fiscal audits.
+- Section 5164.56 - Lien for amount owed by provider.
+- Section 5164.57 - Recovery of medicaid overpayments.
+- Section 5164.58 - Agency action to recover overpayment to provider.
+- Section 5164.59 - Deduction of incorrect payments.
+- Section 5164.60 - Interest on Medicaid provider excess payments.
+- Section 5164.61 - Scope of available remedies for recovery of excess payments.
+- Section 5164.70 - Limitations on medicaid payments for services.
+- Section 5164.71 - Payments for freestanding medical laboratory charges.
+- Section 5164.72 - Limitations on payments for inpatient hospital care.
+- Section 5164.721 - Claims by freestanding birthing centers.
+- Section 5164.73 - Division of payments between physician or podiatrist and nurse.
+- Section 5164.74 - Reimbursement of graduate medical education costs.
+- Section 5164.741 - Payment for graduate medical education costs to noncontracting hospitals.
+- Section 5164.75 - Medicaid payment for a drug subject to a federal upper reimbursement limit.
+- Section 5164.751 - State maximum allowable cost program.
+- Section 5164.752 - Determining maximum dispensing fee.
+- Section 5164.753 - Dispensing fee.
+- Section 5164.754 - Agreement for multiple-state drug purchasing program.
+- Section 5164.755 - Supplemental drug rebate program.
+- Section 5164.756 - Drug rebate agreement or supplemental drug rebate agreement for medicaid program not subject to public records law.
+- Section 5164.757 - E-prescribing applications.
+- Section 5164.758 - Adoption of rules for implementation of coordinated services program for medicaid users who abuse prescription drugs.
+- Section 5164.759 - Outpatient drug use review program.
+- Section 5164.7510 - Pharmacy and therapeutics committee.
+- Section 5164.7511 - Medication synchronization for medicaid recipients.
+- Section 5164.7512 - Definitions for sections 5164.7512 to 5164.7514.
+- Section 5164.7514 - Step therapy exemption process.
+- Section 5164.7515 - Annual benchmark for prescribed drug spending growth.
+- Section 5164.76 - Manner of payment for community mental health service providers or facilities and alcohol and drug addiction services.
+- Section 5164.761 - Beta testing of updates to billing codes or payment rates.
+- Section 5164.78 - Medicaid payment rates for certain neonatal and newborn services.
+- Section 5164.80 - Public notice for changes to payment rates for medicaid assistance.
+- Section 5164.82 - Payment for provider-preventable condition.
+- Section 5164.85 - Enrolling in group health plan.
+- Section 5164.86 - Qualified state long-term care insurance partnership program.
+- Section 5164.88 - Coordinated care through health homes.
+- Section 5164.881 - Health home services.
+- Section 5164.89 - Case management of nonemergency transportation services.
+- Section 5164.90 - Transition of medicaid recipients to community settings.
+- Section 5164.91 - Integrated care delivery system.
+- Section 5164.911 - Integrated care delivery system evaluation.
+- Section 5164.912 - Integrated care delivery system standardized claim form.
+- Section 5164.913 - Home health aide and personal care aide training.
+- Section 5164.92 - Advanced diagnostic imaging services coverage under medicaid program.
+- Section 5164.93 - Incentive payments for adoption and use of electronic health record technology.
+- Section 5164.94 - Delivery of services in culturally and linguistically appropriate manners.
+- Section 5164.95 - Standards for payments for telehealth services; eligible practitioners.
+- Section 5164.951 - Standards for medicaid payments for services provided through teledentistry.
+- Section 5164.96 - Ground emergency medical transportation supplemental payment program.

@@ -1,0 +1,393 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 5107.01 - Legislative policy.",
+      "number": "5107.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.02 - Ohio works first program definitions.",
+      "number": "5107.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.03 - Administration of program.",
+      "number": "5107.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.04 - Sources of cash assistance payments.",
+      "number": "5107.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.05 - Adoption of rules.",
+      "number": "5107.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.10 - Time-limited cash assistance.",
+      "number": "5107.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.11 - Minor child's assistance group.",
+      "number": "5107.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.12 - Application for participation by assistance group.",
+      "number": "5107.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.121 - Information regarding eligibility redetermination.",
+      "number": "5107.121",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.121"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.14 - Written self-sufficiency contracts.",
+      "number": "5107.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.16 - Sanctioning assistance group for noncompliance with contract.",
+      "number": "5107.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.161 - Written notice prior to sanction.",
+      "number": "5107.161",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.161"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.162 - Request for state hearing on sanction.",
+      "number": "5107.162",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.162"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.17 - Resuming participation following sanction.",
+      "number": "5107.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.18 - Eligibility time limits.",
+      "number": "5107.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.20 - Assignment of rights to support.",
+      "number": "5107.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.22 - Cooperation in establishing paternity and obtaining child support.",
+      "number": "5107.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.24 - Eligibility of pregnant minor or minor parent.",
+      "number": "5107.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.26 - Terminating employment without just cause.",
+      "number": "5107.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.28 - Learnfare program.",
+      "number": "5107.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.281 - Mandatory participation in learnfare program.",
+      "number": "5107.281",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.281"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.282 - Notice of noncompliance with learnfare program's school attendance requirement.",
+      "number": "5107.282",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.282"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.283 - Incentives for meeting learnfare school attendance requirement.",
+      "number": "5107.283",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.283"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.284 - Reducing assistance for refusal to consent to release of records.",
+      "number": "5107.284",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.284"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.285 - Noncompliance with learnfare program's school attendance requirement not to affect other members of group.",
+      "number": "5107.285",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.285"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.286 - Communications concerning participating student's attendance.",
+      "number": "5107.286",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.286"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.287 - Good cause for being absent from school.",
+      "number": "5107.287",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.287"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.30 - Learning, earning, and parenting LEAP program.",
+      "number": "5107.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.301 - Award to LEAP program graduates for post-secondary education.",
+      "number": "5107.301",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.301"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.36 - Fugitive felons and probation or parole violators ineligible for participation.",
+      "number": "5107.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.37 - Ineligibility of residents of public institutions.",
+      "number": "5107.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.40 - Ohio works first program additional definitions.",
+      "number": "5107.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.41 - Appraisal of each member of assistance group who is minor head of household or adult.",
+      "number": "5107.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.42 - Assignment to work activities and developmental activities.",
+      "number": "5107.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.43 - Placement in assigned activity.",
+      "number": "5107.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.44 - Exceeding federal minimum work activity participation rates.",
+      "number": "5107.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.50 - Job search and readiness program.",
+      "number": "5107.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.52 - Subsidized employment program.",
+      "number": "5107.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.54 - Work experience program.",
+      "number": "5107.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.541 - Assignment under work experience program.",
+      "number": "5107.541",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.541"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.58 - Education program.",
+      "number": "5107.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.60 - Administering additional work activities.",
+      "number": "5107.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.61 - Serving as ombudsperson.",
+      "number": "5107.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.62 - Developmental activities for minor heads of households and adults participating in Ohio works first.",
+      "number": "5107.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.64 - Alternative work activities.",
+      "number": "5107.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.65 - Works first participants not to displace employees.",
+      "number": "5107.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.66 - Support services.",
+      "number": "5107.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.67 - Public employee and unemployment compensation laws do not apply.",
+      "number": "5107.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.67"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.68 - County to implement and enforce program.",
+      "number": "5107.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.68"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.69 - No jeopardy to federal funding.",
+      "number": "5107.69",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.69"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.70 - Conducting assessments of assistance groups.",
+      "number": "5107.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.71 - County department duties under program rules.",
+      "number": "5107.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.711 - Domestic violence screening process.",
+      "number": "5107.711",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.711"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.712 - Rejection of counseling or supportive services.",
+      "number": "5107.712",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.712"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.713 - Domestic violence information provided to department.",
+      "number": "5107.713",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.713"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.714 - Waiver issued to domestic violence victim.",
+      "number": "5107.714",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.714"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.715 - Explanation for refusal to issue waiver.",
+      "number": "5107.715",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.715"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.716 - Rejection or termination of waiver.",
+      "number": "5107.716",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.716"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.717 - Department to monitor implementation of program.",
+      "number": "5107.717",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.717"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.72 - Referrals for family planning.",
+      "number": "5107.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.75 - Cash assistance under Ohio works first is inalienable.",
+      "number": "5107.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.76 - Recovering erroneous payments.",
+      "number": "5107.76",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.76"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.78 - Support enforcement tracking system notice.",
+      "number": "5107.78",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.78"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5107.80 - Quarterly report on employment of former participants.",
+      "number": "5107.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.80"
+    }
+  ],
+  "scraped": "2026-07-02T20:10:29+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-5107",
+  "title": "Chapter 5107 - Ohio Works First Program"
+}

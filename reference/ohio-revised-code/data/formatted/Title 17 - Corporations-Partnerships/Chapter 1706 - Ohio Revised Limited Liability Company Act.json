@@ -1,0 +1,561 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 1706.01 - Limited liability company definitions.",
+      "number": "1706.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.02 - The Revised Limited Liability Company Act.",
+      "number": "1706.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.03 - Knowledge and notification of facts.",
+      "number": "1706.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.04 - Separate legal entity.",
+      "number": "1706.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.05 - Scope of authority of limited liability company.",
+      "number": "1706.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.06 - Interpretation and application of Revised Limited Liability Company Act.",
+      "number": "1706.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.061 - Authority of state law over limited liability companies.",
+      "number": "1706.061",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.061"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.07 - Naming of limited liability company.",
+      "number": "1706.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.08 - Limited liability company operating agreements.",
+      "number": "1706.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.081 - Enforcement of operating agreements.",
+      "number": "1706.081",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.081"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.082 - Operating agreement amendment, provision of rights, obligations.",
+      "number": "1706.082",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.082"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.09 - Legal agents of limited liability companies.",
+      "number": "1706.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.16 - Articles of organization.",
+      "number": "1706.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.161 - Amendments to articles of organization.",
+      "number": "1706.161",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.161"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.17 - Filed records of a limited liability company to be signed.",
+      "number": "1706.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.171 - Incomplete or undelivered records.",
+      "number": "1706.171",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.171"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.172 - Records requirements.",
+      "number": "1706.172",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.172"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.173 - Certificates of correction.",
+      "number": "1706.173",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.173"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.174 - Incorrect or inaccurate records - penalty.",
+      "number": "1706.174",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.174"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.175 - Certificate of full force and effect; foreign limited liability company certificate of registration.",
+      "number": "1706.175",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.175"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.18 - Binding of limited liability company.",
+      "number": "1706.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.19 - Statement of authority, amendments and cancellation, certificate of dissolution.",
+      "number": "1706.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.20 - Statement of denial.",
+      "number": "1706.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.26 - Liabilities of limited liability company members.",
+      "number": "1706.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.27 - Admission as a member of a limited liability company.",
+      "number": "1706.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.28 - Contributions of members of a limited liability company.",
+      "number": "1706.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.281 - Obligation to make a contribution.",
+      "number": "1706.281",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.281"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.29 - Distributions of limited liability company.",
+      "number": "1706.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.30 - Direction and oversight of a limited liability company.",
+      "number": "1706.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.31 - Duties of a member to a limited liability company and other members.",
+      "number": "1706.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.311 - Duties of a manager to a limited liability company and its members.",
+      "number": "1706.311",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.311"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.32 - Indemnification, advancement, reimbursement, and insurance.",
+      "number": "1706.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.33 - Right of members and dissociated members to records.",
+      "number": "1706.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.331 - Reliance on reports and information.",
+      "number": "1706.331",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.331"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.332 - Power of personal representative of deceased member.",
+      "number": "1706.332",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.332"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.34 - Member's membership interest is personal property and assignable.",
+      "number": "1706.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.341 - Assignment of limited liability company interest.",
+      "number": "1706.341",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.341"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.342 - Charging order relating to judgments.",
+      "number": "1706.342",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.342"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.41 - Wrongful dissociation.",
+      "number": "1706.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.411 - Circumstances causing dissociation.",
+      "number": "1706.411",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.411"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.412 - Effect of dissociation.",
+      "number": "1706.412",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.412"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.46 - Cancellation and reinstatement.",
+      "number": "1706.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.461 - Appeals.",
+      "number": "1706.461",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.461"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.47 - Dissolution.",
+      "number": "1706.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.471 - Effect of dissolution.",
+      "number": "1706.471",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.471"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.472 - Winding up of limited liability company activities.",
+      "number": "1706.472",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.472"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.473 - Claims against dissolved limited liability company.",
+      "number": "1706.473",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.473"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.474 - Publication of dissolution.",
+      "number": "1706.474",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.474"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.475 - Winding up payment to creditors and distribution of surplus.",
+      "number": "1706.475",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.475"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.51 - Foreign limited liability company governing law.",
+      "number": "1706.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.511 - Foreign limited liability company registration.",
+      "number": "1706.511",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.511"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.512 - Actions not constituting transacting business in Ohio.",
+      "number": "1706.512",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.512"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.513 - Complying name for registration.",
+      "number": "1706.513",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.513"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.514 - Cancellation of registration with Secretary of State.",
+      "number": "1706.514",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.514"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.515 - Collection of debts without registration prohibited.",
+      "number": "1706.515",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.515"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.61 - Right of derivative action.",
+      "number": "1706.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.611 - Member standing for derivative action.",
+      "number": "1706.611",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.611"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.612 - Written demand requirement.",
+      "number": "1706.612",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.612"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.613 - Stay of derivative action.",
+      "number": "1706.613",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.613"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.614 - Dismissal of derivative action.",
+      "number": "1706.614",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.614"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.615 - Discontinuance or settlement.",
+      "number": "1706.615",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.615"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.616 - Payment of expenses.",
+      "number": "1706.616",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.616"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.617 - Jurisdiction of derivative action proceedings.",
+      "number": "1706.617",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.617"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.62 - Member suit against other members.",
+      "number": "1706.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.71 - Merger authority, conditions, and conversion of ownership interests.",
+      "number": "1706.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.711 - Merger approval, amendment, or abandonment.",
+      "number": "1706.711",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.711"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.712 - Merger certificate and effective date.",
+      "number": "1706.712",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.712"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.713 - Merger effect.",
+      "number": "1706.713",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.713"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.72 - Conversion to or from LLC form.",
+      "number": "1706.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.721 - Conversion approval, amendment, or abandonment.",
+      "number": "1706.721",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.721"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.722 - Conversion certificate and effective date.",
+      "number": "1706.722",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.722"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.723 - Conversion effect.",
+      "number": "1706.723",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.723"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.73 - Merger or conversion consent if personal liability will attach.",
+      "number": "1706.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.74 - Merger or conversion under other law.",
+      "number": "1706.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.74"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.76 - Separate asset series-designation by operating agreement.",
+      "number": "1706.76",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.76"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.761 - Separate asset series-limited liability statement.",
+      "number": "1706.761",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.761"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.762 - Separate asset series-how assets held.",
+      "number": "1706.762",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.762"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.763 - Separate asset series-limited liability statement effective.",
+      "number": "1706.763",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.763"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.764 - Separate asset series-wrongful dissociation from series.",
+      "number": "1706.764",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.764"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.765 - Separate asset series-circumstances causing dissociation from series.",
+      "number": "1706.765",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.765"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.766 - Separate asset series-effect of dissociation.",
+      "number": "1706.766",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.766"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.767 - Separate asset series-effect of series dissolution.",
+      "number": "1706.767",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.767"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.768 - Separate asset series-events causing series dissolution.",
+      "number": "1706.768",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.768"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.769 - Separate asset series-activities and proceedings after dissolution.",
+      "number": "1706.769",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.769"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.7610 - Separate asset series-responsibility to wind up activities after dissolution.",
+      "number": "1706.7610",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.7610"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.7611 - Separate asset series-disposition of claims after dissolution.",
+      "number": "1706.7611",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.7611"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.7612 - Separate asset series-notice of dissolution and limitation of claims.",
+      "number": "1706.7612",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.7612"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.7613 - Separate asset series-distribution of funds upon wind up.",
+      "number": "1706.7613",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.7613"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.81 - Effect on federal law.",
+      "number": "1706.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.82 - LLC may act outside the state.",
+      "number": "1706.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.82"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.83 - Chapter applies to all LLCs on and after February 11, 2022.",
+      "number": "1706.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.83"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1706.84 - Application of chapter amendments.",
+      "number": "1706.84",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.84"
+    }
+  ],
+  "scraped": "2026-07-02T19:39:08+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-1706",
+  "title": "Chapter 1706 - Ohio Revised Limited Liability Company Act"
+}

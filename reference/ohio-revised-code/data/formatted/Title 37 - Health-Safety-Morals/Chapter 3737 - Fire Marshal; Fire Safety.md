@@ -1,0 +1,82 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-3737
+Scraped: 2026-07-02T20:00:41+00:00
+
+# Chapter 3737 - Fire Marshal; Fire Safety
+
+## Sections
+
+- Section 3737.01 - Fire marshal - fire safety definitions.
+- Section 3737.02 - Fees - federal funding.
+- Section 3737.03 - Duties of state fire council.
+- Section 3737.07 - Inspection of protective door assemblies.
+- Section 3737.14 - Right of entry.
+- Section 3737.16 - Release of, or request for, information relating to fire loss by insurance company.
+- Section 3737.17 - Small government fire department services revolving loan program.
+- Section 3737.21 - Appointment, qualifications of fire marshal - vacancy.
+- Section 3737.22 - Fire marshal - powers and duties.
+- Section 3737.221 - Negligent operation of motor vehicles by fire marshal employees.
+- Section 3737.23 - Record of all fires.
+- Section 3737.24 - Investigation of fire.
+- Section 3737.25 - Taking of testimony on oath.
+- Section 3737.26 - Arrest of suspect.
+- Section 3737.27 - Power to summon and compel attendance of witnesses.
+- Section 3737.28 - Power to administer oaths - refusal to cooperate.
+- Section 3737.29 - Investigation may be private.
+- Section 3737.31 - Fire marshal to report to superintendent of insurance.
+- Section 3737.32 - Fire marshal to investigate bombing.
+- Section 3737.33 - Ohio fire academy.
+- Section 3737.331 - Arson seminar programs.
+- Section 3737.34 - Fire safety inspector certificate.
+- Section 3737.41 - Citation to remedy dangerous condition.
+- Section 3737.42 - Issuing citation or notice of violation.
+- Section 3737.43 - Notice of penalty and right to appeal.
+- Section 3737.44 - Injunction - temporary restraining order.
+- Section 3737.45 - Failure to comply with order.
+- Section 3737.46 - Actions against violators.
+- Section 3737.51 - Civil penalty for violations.
+- Section 3737.52 - PFAS chemicals in firefighting foam.
+- Section 3737.61 - Posting arson laws.
+- Section 3737.62 - Negligent spread of fires.
+- Section 3737.63 - Discovery of unfriendly fire.
+- Section 3737.64 - Disclosing purpose of non-official inspection.
+- Section 3737.65 - Fire protection equipment - prohibited activities.
+- Section 3737.66 - Qualifications for firefighter or fire official.
+- Section 3737.71 - Additional tax on fire insurance premiums.
+- Section 3737.72 - Fire stations required to have gas masks.
+- Section 3737.73 - Prohibition against failure to instruct pupils in fire drills and tornado safety precautions.
+- Section 3737.80 - Chief of fire department responsible for primary coordination in emergency situation.
+- Section 3737.81 - State fire council.
+- Section 3737.82 - Adopting state fire code rules.
+- Section 3737.83 - Provisions to be included in state fire code.
+- Section 3737.831 - Issuance of permit for temporary structures.
+- Section 3737.832 - Fire and safety standards relating to shale oil processing premises.
+- Section 3737.833 - Temporary fire permit for retail establishments.
+- Section 3737.84 - Provisions not to be included in state fire code.
+- Section 3737.841 - Fire safety and standards definitions.
+- Section 3737.842 - Rules for flammability standards.
+- Section 3737.85 - Rules for giving notice or serving notice.
+- Section 3737.86 - Rule adoption procedure.
+- Section 3737.87 - Underground storage tank definitions.
+- Section 3737.88 - Underground storage tank program and corrective action program for releases.
+- Section 3737.881 - Certifying underground storage tank systems installers.
+- Section 3737.882 - Confirming or disproving suspected petroleum release.
+- Section 3737.884 - Effect of child support default on certificate.
+- Section 3737.89 - Liability for costs of corrective or enforcement action.
+- Section 3737.90 - Petroleum underground storage tank release compensation board.
+- Section 3737.91 - Petroleum underground storage tank financial assurance fund.
+- Section 3737.92 - Purpose of fund.
+- Section 3737.93 - Transferor of title to petroleum to give notice of registration requirements.
+- Section 3737.94 - Public policy governing petroleum underground storage tank release compensation board.
+- Section 3737.941 - Application of other bond laws.
+- Section 3737.942 - Securing revenue bonds.
+- Section 3737.943 - Protection and enforcement of rights of bondholder and trustees.
+- Section 3737.944 - Bonds not a debt of state.
+- Section 3737.945 - Investments.
+- Section 3737.946 - Refunding bonds.
+- Section 3737.947 - Bonds are lawful investments.
+- Section 3737.948 - Purpose of powers of release compensation board.
+- Section 3737.95 - Purpose of linked deposit program.
+- Section 3737.96 - Loan applications.
+- Section 3737.97 - Accepting or rejecting loan package.
+- Section 3737.98 - Lending funds.
+- Section 3737.99 - Penalty.

@@ -1,0 +1,80 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Cost of attendance\" has the same meaning as in 20 U.S.C. 1087ll.",
+      "id": "3333.127-cost-of-attendance",
+      "normalized": "cost of attendance",
+      "scope": "(A) As used in this section:",
+      "section": "3333.127",
+      "source_title": "Section 3333.127 - Second chance grant program.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3333.127",
+      "term": "Cost of attendance"
+    },
+    {
+      "definition": "(2) \"Eligible student\" means a student to whom all of the following apply:\n\n(a) The student is a resident of this state under rules adopted by the chancellor of higher education under section 3333.31 of the Revised Code.\n\n(b) The student has not attained a bachelor's degree from a qualifying institution or an institution of higher education in another state prior to applying for a grant under this section.",
+      "id": "3333.127-eligible-student",
+      "normalized": "eligible student",
+      "scope": "(A) As used in this section:",
+      "section": "3333.127",
+      "source_title": "Section 3333.127 - Second chance grant program.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3333.127",
+      "term": "Eligible student"
+    },
+    {
+      "definition": "(c) The student, while in good standing, disenrolled from a qualifying institution and did not transfer to a qualifying institution or an institution of higher education in another state in the two semesters or eight months immediately following the student's disenrollment. For the purposes of this division, \"good standing\" includes being in good academic standing and not having a record of disciplinary issues, including being suspended or expelled from the qualifying institution.\n\nQualifying institutions that do not use a semester calendar shall use eight months as the metric for determining a student's disenrollment period.\n\n(d) Subject to division (A)(2)(c) of this section, the student enrolls in a qualifying institution within five years of disenrolling from the qualifying institution.\n\n(e) The student is not enrolled in the college credit plus program established under Chapter 3365. of the Revised Code.\n\n(f) The student meets any other eligibility criteria determined necessary by the chancellor.",
+      "id": "3333.127-good-standing",
+      "normalized": "good standing",
+      "scope": "(A) As used in this section:",
+      "section": "3333.127",
+      "source_title": "Section 3333.127 - Second chance grant program.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3333.127",
+      "term": "good standing"
+    },
+    {
+      "definition": "(3) \"Qualifying institution\" means any of the following:\n\n(a) A state institution of higher education, as defined in section 3345.011 of the Revised Code;\n\n(b) A private nonprofit institution of higher education that holds a certificate of authorization pursuant to Chapter 1713. of the Revised Code;\n\n(c) An institution with a certificate of registration from the state board of career colleges and schools under Chapter 3332. of the Revised Code;\n\n(d) A private institution exempt from regulation under Chapter 3332. of the Revised Code as prescribed in section 3333.046 of the Revised Code;\n\n(e) An Ohio technical center, as defined in section 3333.94 of the Revised Code.\n\n(B) The chancellor shall establish the second chance grant program. Under the program, the chancellor shall award a one-time grant of not more than three thousand dollars to each eligible student approved to participate in the program.\n\n(C) Eligible students shall apply to participate in the program in a form and manner prescribed by the chancellor. The chancellor shall approve each applicant who is enrolled in a qualifying institution and who has a cost of attendance remaining for the academic year in which the application is approved after all other financial aid for which that applicant qualifies has been applied to the applicant's account at the institution. The chancellor shall approve applications in the order in which they are received.\n\n(D) The chancellor shall pay grants to the qualifying institution in which a participant is enrolled in the academic year in which the participant's application is approved. The qualifying institution shall apply the grant to a participant's cost of attendance for that academic year. If any amount of the grant remains after it is applied to the participant's cost of attendance for that year, the qualifying institution shall apply that remaining amount to the participant's cost of attendance for any other academic year in which the student is enrolled in the institution. The qualifying institution shall return to the chancellor any grant amount remaining after a participant graduates or disenrolls from the institution.\n\n(E) In each academic year, the chancellor shall submit to the general assembly, in accordance with section 101.68 of the Revised Code, a report that contains all of the following:\n\n(1) The number of eligible students participating in the program who received a grant in that academic year;\n\n(2) The qualifying institutions from which the participants disenrolled, as described in division (A)(2)(c) of this section;\n\n(3) The types of academic programs in which the participants were enrolled prior to disenrolling from qualifying institutions;\n\n(4) The types of academic programs in which participants were enrolled when they received grants under the program;\n\n(5) Information regarding how the grants were used;\n\n(6) If the participant completed a degree program with the grant.\n\n(F) The second chance grant program fund is hereby created in the state treasury, to consist of such amounts designated for the purposes of the fund by the general assembly. The fund shall be administered by the chancellor and shall be used to pay grants under the program established under this section. The fund also may be used by the chancellor to implement and administer the second chance grant program.\n\n(G) The chancellor shall adopt rules to administer the program.\n\nLast updated October 6, 2023 at 11:22 AM",
+      "id": "3333.127-qualifying-institution",
+      "normalized": "qualifying institution",
+      "scope": "(A) As used in this section:",
+      "section": "3333.127",
+      "source_title": "Section 3333.127 - Second chance grant program.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3333.127",
+      "term": "Qualifying institution"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3333.31",
+      "number": "3333.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.31"
+    },
+    {
+      "kind": "section",
+      "label": "3345.011",
+      "number": "3345.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3345.011"
+    },
+    {
+      "kind": "section",
+      "label": "3333.046",
+      "number": "3333.046",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.046"
+    },
+    {
+      "kind": "section",
+      "label": "3333.94",
+      "number": "3333.94",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.94"
+    },
+    {
+      "kind": "section",
+      "label": "101.68",
+      "number": "101.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-101.68"
+    }
+  ],
+  "scraped": "2026-07-02T19:49:28+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3333.127",
+  "title": "Section 3333.127 - Second chance grant program."
+}

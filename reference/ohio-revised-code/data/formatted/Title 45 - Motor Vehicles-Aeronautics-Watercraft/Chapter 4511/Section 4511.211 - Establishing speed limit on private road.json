@@ -1,0 +1,60 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Owner\" includes but is not limited to a person who holds title to the real property in fee simple, a condominium owners' association, a property owner's association, the board of directors or trustees of a private community, and a nonprofit corporation governing a private community.",
+      "id": "4511.211-owner",
+      "normalized": "owner",
+      "scope": "(E) As used in this section:",
+      "section": "4511.211",
+      "source_title": "Section 4511.211 - Establishing speed limit on private road.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4511.211",
+      "term": "Owner"
+    },
+    {
+      "definition": "(2) \"Private residential area containing twenty or more dwelling units\" does not include a Chautauqua assembly as defined in section 4511.90 of the Revised Code.\n\n(F)(1) A violation of division (B) of this section is one of the following:\n\n(a) Except as otherwise provided in divisions (F)(1)(b) and (c) of this section, a minor misdemeanor;\n\n(b) If, within one year of the offense, the offender previously has been convicted of or pleaded guilty to two violations of division (B) of this section or of any municipal ordinance that is substantially similar to division (B) of this section, a misdemeanor of the fourth degree;\n\n(c) If, within one year of the offense, the offender previously has been convicted of or pleaded guilty to three or more violations of division (B) of this section or of any municipal ordinance that is substantially similar to division (B) of this section, a misdemeanor of the third degree.\n\n(2) If the offender commits the offense while distracted and the distracting activity is a contributing factor to the commission of the offense, the offender is subject to the additional fine established under section 4511.991 of the Revised Code.\n\nLast updated May 21, 2025 at 4:25 PM",
+      "id": "4511.211-private-residential-area-containing-twenty-or-more-dwelling-units",
+      "normalized": "private residential area containing twenty or more dwelling units",
+      "scope": "(E) As used in this section:",
+      "section": "4511.211",
+      "source_title": "Section 4511.211 - Establishing speed limit on private road.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4511.211",
+      "term": "Private residential area containing twenty or more dwelling units"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "4511.09",
+      "number": "4511.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.09"
+    },
+    {
+      "kind": "section",
+      "label": "4511.091",
+      "number": "4511.091",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.091"
+    },
+    {
+      "kind": "section",
+      "label": "4510.036",
+      "number": "4510.036",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4510.036"
+    },
+    {
+      "kind": "section",
+      "label": "4511.90",
+      "number": "4511.90",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.90"
+    },
+    {
+      "kind": "section",
+      "label": "4511.991",
+      "number": "4511.991",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.991"
+    }
+  ],
+  "scraped": "2026-07-02T20:05:38+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4511.211",
+  "title": "Section 4511.211 - Establishing speed limit on private road."
+}

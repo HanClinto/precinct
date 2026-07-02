@@ -1,0 +1,182 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Violent offender\" means any of the following:\n\n(1) A person who on or after the effective date of this section is convicted of or pleads guilty to any of the following:\n\n(a) A violation of section 2903.01 , 2903.02 , 2903.03 , 2905.01 of the Revised Code or a violation of section 2905.02 of the Revised Code that is a felony of the second degree;\n\n(b) Any attempt to commit, conspiracy to commit, or complicity in committing any offense listed in division (A)(1)(a) of this section.\n\n(2) A person who on the effective date of this section has been convicted of or pleaded guilty to an offense listed in division (A)(1) of this section and is confined in a jail, workhouse, state correctional institution, or other institution, serving a prison term, term of imprisonment, or other term of confinement for the offense.\n\n(B) \"Community control sanction,\" \"jail,\" and \"prison\" have the same meanings as in section 2929.01 of the Revised Code.",
+      "id": "2903.41-violent-offender",
+      "normalized": "violent offender",
+      "scope": "As used in sections 2903.41 to 2903.44 of the Revised Code:",
+      "section": "2903.41",
+      "source_title": "Section 2903.41 - Definitions related to violent offender database.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2903.41",
+      "term": "Violent offender"
+    },
+    {
+      "definition": "(C) \"Out-of-state violent offender\" means a person who is convicted of, pleads guilty to, has been convicted of, or has pleaded guilty to a violation of any existing or former municipal ordinance or law of another state or the United States, or any existing or former law applicable in a military court or in an Indian tribal court, that is or was substantially equivalent to any offense listed in division (A)(1) of this section.",
+      "id": "2903.41-out-of-state-violent-offender",
+      "normalized": "out-of-state violent offender",
+      "scope": "As used in sections 2903.41 to 2903.44 of the Revised Code:",
+      "section": "2903.41",
+      "source_title": "Section 2903.41 - Definitions related to violent offender database.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2903.41",
+      "term": "Out-of-state violent offender"
+    },
+    {
+      "definition": "(D) \"Qualifying out-of-state violent offender\" means an out-of-state violent offender who is aware of the existence of the violent offender database.\n\n(E) \"Post-release control sanction\" and \"supervised release\" have the same meanings as in section 2950.01 of the Revised Code.",
+      "id": "2903.41-qualifying-out-of-state-violent-offender",
+      "normalized": "qualifying out-of-state violent offender",
+      "scope": "As used in sections 2903.41 to 2903.44 of the Revised Code:",
+      "section": "2903.41",
+      "source_title": "Section 2903.41 - Definitions related to violent offender database.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2903.41",
+      "term": "Qualifying out-of-state violent offender"
+    },
+    {
+      "definition": "(F) \"Change of address\" means a change to a violent offender's or out-of-state violent offender's residence address, employment address, or school or institution of higher education address.",
+      "id": "2903.41-change-of-address",
+      "normalized": "change of address",
+      "scope": "As used in sections 2903.41 to 2903.44 of the Revised Code:",
+      "section": "2903.41",
+      "source_title": "Section 2903.41 - Definitions related to violent offender database.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2903.41",
+      "term": "Change of address"
+    },
+    {
+      "definition": "(G) \"Violent offender database\" means the database of violent offenders and out-of-state violent offenders that is established and maintained by the bureau of criminal identification and investigation under division (F)(2) of section 2903.43 of the Revised Code, that is operated by sheriffs under sections 2903.42 and 2903.43 of the Revised Code, and for which sheriffs obtain information from violent offenders and out-of-state violent offenders pursuant to sections 2903.42 and 2903.43 of the Revised Code.",
+      "id": "2903.41-violent-offender-database",
+      "normalized": "violent offender database",
+      "scope": "As used in sections 2903.41 to 2903.44 of the Revised Code:",
+      "section": "2903.41",
+      "source_title": "Section 2903.41 - Definitions related to violent offender database.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2903.41",
+      "term": "Violent offender database"
+    },
+    {
+      "definition": "(H) \"Violent offender database duties\" and \"VOD duties\" mean the duty to enroll, duty to re-enroll, and duty to provide notice of a change of address imposed on a violent offender or a qualifying out-of-state violent offender under section 2903.42 , 2903.421 , 2903.43 , or 2903.44 of the Revised Code.",
+      "id": "2903.41-violent-offender-database-duties",
+      "normalized": "violent offender database duties",
+      "scope": "As used in sections 2903.41 to 2903.44 of the Revised Code:",
+      "section": "2903.41",
+      "source_title": "Section 2903.41 - Definitions related to violent offender database.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2903.41",
+      "term": "Violent offender database duties"
+    },
+    {
+      "definition": "(H) \"Violent offender database duties\" and \"VOD duties\" mean the duty to enroll, duty to re-enroll, and duty to provide notice of a change of address imposed on a violent offender or a qualifying out-of-state violent offender under section 2903.42 , 2903.421 , 2903.43 , or 2903.44 of the Revised Code.",
+      "id": "2903.41-vod-duties",
+      "normalized": "vod duties",
+      "scope": "As used in sections 2903.41 to 2903.44 of the Revised Code:",
+      "section": "2903.41",
+      "source_title": "Section 2903.41 - Definitions related to violent offender database.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2903.41",
+      "term": "VOD duties"
+    },
+    {
+      "definition": "(I) \"Ten-year enrollment period\" means, for a violent offender who has violent offender database duties pursuant to section 2903.42 of the Revised Code or a qualifying out-of-state violent offender who has violent offender database duties pursuant to section 2903.421 of the Revised Code, ten years from the date on which the offender initially enrolls in the violent offender database.",
+      "id": "2903.41-ten-year-enrollment-period",
+      "normalized": "ten-year enrollment period",
+      "scope": "As used in sections 2903.41 to 2903.44 of the Revised Code:",
+      "section": "2903.41",
+      "source_title": "Section 2903.41 - Definitions related to violent offender database.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2903.41",
+      "term": "Ten-year enrollment period"
+    },
+    {
+      "definition": "(J) \"Extended enrollment period\" means, for a violent offender who has violent offender database duties pursuant to section 2903.42 of the Revised Code or a qualifying out-of-state violent offender who has violent offender database duties pursuant to section 2903.421 of the Revised Code, the offender's enrollment period as extended pursuant to division (D)(2) of section 2903.43 of the Revised Code.",
+      "id": "2903.41-extended-enrollment-period",
+      "normalized": "extended enrollment period",
+      "scope": "As used in sections 2903.41 to 2903.44 of the Revised Code:",
+      "section": "2903.41",
+      "source_title": "Section 2903.41 - Definitions related to violent offender database.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2903.41",
+      "term": "Extended enrollment period"
+    },
+    {
+      "definition": "(K) \"Prosecutor\" means one of the following:\n\n(1) As used in section 2903.42 of the Revised Code, the office of the prosecuting attorney who handled a violent offender's underlying case or the office of that prosecutor's successor.\n\n(2) As used in sections 2903.421 , 2903.43 , and 2903.44 of the Revised Code, the office of the prosecuting attorney of the county in which a violent offender resides or of the county in which an out-of-state violent offender resides or occupies a dwelling.\n\nLast updated May 23, 2025 at 1:24 PM",
+      "id": "2903.41-prosecutor",
+      "normalized": "prosecutor",
+      "scope": "As used in sections 2903.41 to 2903.44 of the Revised Code:",
+      "section": "2903.41",
+      "source_title": "Section 2903.41 - Definitions related to violent offender database.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2903.41",
+      "term": "Prosecutor"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2903.41",
+      "number": "2903.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2903.41"
+    },
+    {
+      "kind": "section",
+      "label": "2903.44",
+      "number": "2903.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2903.44"
+    },
+    {
+      "kind": "section",
+      "label": "2903.01",
+      "number": "2903.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2903.01"
+    },
+    {
+      "kind": "section",
+      "label": "2903.02",
+      "number": "2903.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2903.02"
+    },
+    {
+      "kind": "section",
+      "label": "2903.03",
+      "number": "2903.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2903.03"
+    },
+    {
+      "kind": "section",
+      "label": "2905.01",
+      "number": "2905.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2905.01"
+    },
+    {
+      "kind": "section",
+      "label": "2905.02",
+      "number": "2905.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2905.02"
+    },
+    {
+      "kind": "section",
+      "label": "2929.01",
+      "number": "2929.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2929.01"
+    },
+    {
+      "kind": "section",
+      "label": "2950.01",
+      "number": "2950.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2950.01"
+    },
+    {
+      "kind": "section",
+      "label": "2903.43",
+      "number": "2903.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2903.43"
+    },
+    {
+      "kind": "section",
+      "label": "2903.42",
+      "number": "2903.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2903.42"
+    },
+    {
+      "kind": "section",
+      "label": "2903.421",
+      "number": "2903.421",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2903.421"
+    }
+  ],
+  "scraped": "2026-07-02T19:45:59+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2903.41",
+  "title": "Section 2903.41 - Definitions related to violent offender database."
+}

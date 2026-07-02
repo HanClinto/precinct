@@ -1,0 +1,18 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3746.15
+Scraped: 2026-07-02T20:00:58+00:00
+
+# Section 3746.15 - Consolidated standards permit.
+
+**Effective:** September 28, 1994
+
+**Latest Legislation:** Senate Bill 221 - 120th General Assembly
+
+(A) A person participating in the voluntary action program under this chapter and rules adopted under it who otherwise would be required to obtain any permits, licenses, plan approvals, or other approvals from the environmental protection agency in connection with the voluntary action under Chapter 3704., 3714., 3734., or 6111. of the Revised Code or rules adopted under any of those chapters, or under the "Federal Water Pollution Control Act Amendments of 1972," 86 Stat. 886, 33 U.S.C.A. 1251, as amended, the "Resource Conservation and Recovery Act of 1976," 90 Stat. 2806, 42 U.S.C.A. 6921, as amended, or the "Air Quality Act of 1967," 81 Stat. 485, 42 U.S.C.A. 1857, as amended, or regulations adopted under any of those acts, may obtain a consolidated standards permit for the activities in connection with the voluntary action for which those permits, licenses, plan approvals, or other approvals are required that contains all of the substantive requirements applicable to those activities under any of those chapters, rules, acts, or regulations and that complies with any agreements the director of environmental protection has entered into with the United States environmental protection agency under those acts or regulations.
+
+(B) Prior to issuing a permit under this section, the director shall hold a public meeting on it in the county in which the affected property is located or in an adjacent county. At least thirty days prior to holding the public meeting, the director shall publish notice of the meeting in a newspaper of general circulation in the county in which the property is located and, if the affected property is located in close proximity to the boundary of the county with an adjacent county, as determined by the director, shall publish notice of the meeting in a newspaper of general circulation in the adjacent county. The notice shall contain the date, time, and location of the public meeting and a general description of the activities to be conducted at the property under the permit.
+
+At the public meeting, any person may submit written or oral comments on or objections to the permit. The person, or a representative of the person, who requested the permit shall be present at the public meeting to respond to comments or questions concerning the voluntary action conducted or to be conducted at the property directed to him by the officer or employee of the agency presiding at the meeting. After considering the comments and objections, the director shall approve or deny an application for a consolidated standards permit by issuance of an order as a final action under Chapter 3745. of the Revised Code.
+
+(C) A person who is issued a consolidated standards permit under this section in connection with a particular activity is not required to obtain a permit, license, plan approval, or other approval in connection with the activity under the applicable provisions of Chapter 3704., 3714., 3734., or 6111. of the Revised Code and rules adopted under any of those chapters. A person who obtains a consolidated standards permit for a particular activity is hereby deemed to be in compliance with the requirement to obtain a permit, license, plan approval, or other approval in connection with the activity under the applicable provisions of those chapters and rules.
+
+(D) No person shall violate or fail to comply with a term or condition of a consolidated standards permit issued under this section.

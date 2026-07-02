@@ -1,0 +1,157 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-3901
+Scraped: 2026-07-02T20:02:07+00:00
+
+# Chapter 3901 - Superintendent Of Insurance
+
+## Sections
+
+- Section 3901.01 - Department of insurance.
+- Section 3901.011 - Superintendent of insurance - powers and duties.
+- Section 3901.02 - Appointment or hiring of employees.
+- Section 3901.021 - Department of insurance operating fund.
+- Section 3901.03 - Warden - duties - office of warden.
+- Section 3901.04 - Superintendent - specific powers.
+- Section 3901.041 - Rule-making and adjudicating powers of superintendent.
+- Section 3901.042 - Service and transaction fees.
+- Section 3901.043 - Fees for services or transactions performed by department of insurance.
+- Section 3901.044 - Rules for implementing health insurance portability and accountability act.
+- Section 3901.045 - Receiving confidential or privileged documents and information.
+- Section 3901.046 - Electronic signatures.
+- Section 3901.047 - Assisting patients with end-stage renal disease apply for medicare benefits.
+- Section 3901.05 - Deputy superintendent - duties.
+- Section 3901.051 - Assistant superintendent - duties.
+- Section 3901.052 - Application for innovative waiver.
+- Section 3901.06 - Instruments under seal of the superintendent.
+- Section 3901.07 - Examination of financial affairs of insurer.
+- Section 3901.071 - Superintendent's examination fund.
+- Section 3901.072 - Corporate governance annual disclosure act.
+- Section 3901.073 - Corporate governance annual disclosure.
+- Section 3901.074 - Format of disclosure.
+- Section 3901.075 - Documents deemed proprietary.
+- Section 3901.076 - Retention of third-party consultant.
+- Section 3901.077 - Rules.
+- Section 3901.078 - Penalty.
+- Section 3901.08 - Information from banks.
+- Section 3901.09 - Duty of bank officers.
+- Section 3901.10 - Deficiency of company assets.
+- Section 3901.11 - Acquisition of stock of other insurers.
+- Section 3901.12 - Interlocking directorate.
+- Section 3901.13 - Hearing by superintendent.
+- Section 3901.14 - Record and report of superintendent.
+- Section 3901.15 - Application of law.
+- Section 3901.16 - Forfeiture.
+- Section 3901.17 - Personal jurisdiction over foreign or alien insurer.
+- Section 3901.18 - Requirements for unauthorized foreign or alien insurer to enter an appearance.
+- Section 3901.19 - Unfair and deceptive practices definitions.
+- Section 3901.20 - Prohibition against unfair or deceptive acts.
+- Section 3901.21 - Unfair and deceptive acts or practices in business of insurance defined.
+- Section 3901.211 - Lending of money, extension of credit - prohibited acts.
+- Section 3901.212 - Consumer protection rules.
+- Section 3901.213 - Unfair and deceptive practices - exceptions.
+- Section 3901.214 - Applicability of prohibition on inducements.
+- Section 3901.215 - Intent to promote innovation and maintain strong consumer protection.
+- Section 3901.22 - Hearings on violation - orders - administrative remedies.
+- Section 3901.221 - Cease-and-desist orders.
+- Section 3901.23 - Self-incrimination.
+- Section 3901.24 - Unlawful advertising.
+- Section 3901.241 - List of top twenty per cent of services and expected contributions.
+- Section 3901.25 - Action by superintendent against insurer.
+- Section 3901.26 - Acts by insurer which constitute appointment of superintendent as attorney - service of statement.
+- Section 3901.27 - Adoption of emergency bylaws.
+- Section 3901.28 - Provisions effective if no emergency bylaws.
+- Section 3901.29 - Succession list.
+- Section 3901.30 - Emergency business location.
+- Section 3901.31 - Filing statements indicating ownership.
+- Section 3901.32 - Insurance holding company system definitions.
+- Section 3901.321 - Mergers and acquisitions of domestic insurers.
+- Section 3901.322 - Procedure for violations.
+- Section 3901.323 - Jurisdiction.
+- Section 3901.33 - Registration; enterprise risk report; group capital calculation; liquidity stress test.
+- Section 3901.34 - Transactions to which insurer is a party; dividends and distributions to shareholders.
+- Section 3901.341 - Prior review of proposed transactions.
+- Section 3901.35 - Requiring production of records.
+- Section 3901.351 - Participation in supervisory college.
+- Section 3901.352 - Group-wide supervisor for internationally active insurance group.
+- Section 3901.36 - Confidential and privileged treatment of documents and information - exceptions.
+- Section 3901.37 - Suspension, revocation or refusal to renew license - civil forfeiture.
+- Section 3901.371 - Purpose of sections 3901.371 to 3901.378.
+- Section 3901.372 - Definitions.
+- Section 3901.373 - Risk management framework.
+- Section 3901.374 - Own risk and solvency assessment.
+- Section 3901.375 - Summary report.
+- Section 3901.376 - Exemptions.
+- Section 3901.377 - Form and content of report; review.
+- Section 3901.378 - Confidentiality.
+- Section 3901.38 - Prompt payments to health care providers definitions.
+- Section 3901.381 - Third-party payers processing claims for payment for health care services.
+- Section 3901.382 - Electronic submission of claims.
+- Section 3901.383 - Contractual agreements for payments by third-party payers.
+- Section 3901.384 - Untimely claim process.
+- Section 3901.385 - Third-party payer - prohibited acts.
+- Section 3901.386 - Reimbursement contract - reimbursements to be made directly to hospital - assignment of benefits.
+- Section 3901.387 - Duplicative claims - claim information system.
+- Section 3901.388 - Payments considered final - overpayment.
+- Section 3901.389 - Computation of interest.
+- Section 3901.3810 - Complaints by provider or beneficiary - retaliation by payer.
+- Section 3901.3811 - Failure to comply by third-party payer.
+- Section 3901.3812 - Administrative remedies.
+- Section 3901.3813 - Rules.
+- Section 3901.3814 - Exceptions to provisions.
+- Section 3901.3815 - Health plan issuer payment method and disclosure requirements.
+- Section 3901.40 - Payment or reimbursement to unlicensed or unaccredited hospital prohibited.
+- Section 3901.41 - Applicability of Uniform Electronics Transactions Act; automated transactions.
+- Section 3901.411 - Electronic delivery of insurance documents.
+- Section 3901.42 - Annual filing with national association of insurance commissioners.
+- Section 3901.44 - Records of insurance fraud investigation.
+- Section 3901.45 - Effect of sexual orientation, HIV, or AIDS or related condition.
+- Section 3901.46 - Requiring HIV testing.
+- Section 3901.47 - Administration of claims unpaid due to insolvency of insurer.
+- Section 3901.48 - Disclosing work papers resulting from conduct of audit.
+- Section 3901.491 - Genetic screening or testing.
+- Section 3901.501 - Genetic screening or testing for self-insurance plans.
+- Section 3901.51 - Uncertified securities as deposits definitions.
+- Section 3901.52 - Insurance company may place securities in clearing corporation or federal reserve book-entry system.
+- Section 3901.53 - Placement of securities shall satisfy deposit requirements.
+- Section 3901.54 - Securities may not be used for other purposes.
+- Section 3901.55 - Rules.
+- Section 3901.56 - Rewards or incentives for insurer wellness or health improvement programs.
+- Section 3901.61 - Credit for reinsurance ceded definitions.
+- Section 3901.62 - Credit for reinsurance ceded as asset or reduction of liability; accreditation as reinsurer.
+- Section 3901.621 - Suspension or revocation of reinsurer's accreditation or certification.
+- Section 3901.63 - Credit for reinsurance ceded as reduction of liability.
+- Section 3901.631 - Management of reinsurance recoverables by domestic ceding insurer.
+- Section 3901.64 - Terms of reinsurance or security agreement.
+- Section 3901.65 - Rules.
+- Section 3901.67 - Disclosure of material transactions model act definitions.
+- Section 3901.68 - Provisions application.
+- Section 3901.69 - Insurer to report material transactions.
+- Section 3901.70 - Confidentiality of reports - exceptions.
+- Section 3901.71 - Application of mandated health benefits.
+- Section 3901.72 - Money advanced to insurance company or health insuring corporation.
+- Section 3901.73 - Department to forward copy of late filing notice to board of directors.
+- Section 3901.74 - Notice of life insurance company discontinuing business.
+- Section 3901.75 - Notice of insurance companies other than life discontinuing business.
+- Section 3901.76 - Security valuation expense fund.
+- Section 3901.77 - Forms, instructions, manuals - determination of accounting practices and methods.
+- Section 3901.78 - Certificate of compliance.
+- Section 3901.80 - Discriminating against living organ donors.
+- Section 3901.81 - Definitions.
+- Section 3901.811 - Pharmacy audits.
+- Section 3901.812 - Rights of pharmacy.
+- Section 3901.813 - Proceedings after audit.
+- Section 3901.814 - Appeal process.
+- Section 3901.815 - Applicability of provisions.
+- Section 3901.82 - Restatement of the Law, Liability Insurance.
+- Section 3901.83 - Definitions for sections 3901.83 to 3901.833.
+- Section 3901.831 - Implementation of step therapy protocol.
+- Section 3901.832 - Step therapy exemption.
+- Section 3901.833 - Adoption of rules.
+- Section 3901.86 - Retaliatory provisions - moneys collected paid to state fire marshal's fund.
+- Section 3901.87 - No coverage for nontherapeutic abortion.
+- Section 3901.88 - Actuarial study regarding costs of health care mandates.
+- Section 3901.89 - Health plan issuers release claim information to group plan policyholders..
+- Section 3901.90 - Education on mental health and addiction services insurance parity.
+- Section 3901.91 - Adoption or amendment of rules related to insurance rating agencies.
+- Section 3901.95 - Direct primary care agreement not to be considered insurance.
+- Section 3901.96 - Nonprofit agricultural membership organization not to be considered insurance.
+- Section 3901.99 - Penalty.

@@ -1,0 +1,28 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-311.04
+Scraped: 2026-07-02T19:32:43+00:00
+
+# Section 311.04 - Deputy sheriffs.
+
+**Effective:** January 1, 2004
+
+**Latest Legislation:** House Bill 490 - 124th General Assembly
+
+(A) As used in this section, "felony" has the same meaning as in section 109.511 of the Revised Code.
+
+(B)(1) Subject to division (C) of this section, the sheriff may appoint, in writing, one or more deputies. At the time of the appointment, the sheriff shall file the writing upon which the appointment is made with the clerk of the court of common pleas, and the clerk of the court shall enter it upon the journal of the court. The sheriff shall pay the clerk's fees for the filing and journal entry of the writing. In cases of emergency, the sheriff may request of the sheriff of another county the aid of qualified deputies serving in those other counties of the state, and, if the consent of the sheriff of that other county is received, the deputies while so assigned shall be considered to be the deputies of the sheriff of the county requesting aid. No judge of a county court or mayor shall be appointed a deputy.
+
+(2) Notwithstanding section 2335.33 of the Revised Code, the sheriff shall retain the fee charged pursuant to division (B) of section 311.37 of the Revised Code for the purpose of training deputies appointed pursuant to this section.
+
+(C)(1) The sheriff shall not appoint a person as a deputy sheriff pursuant to division (B)(1) of this section on a permanent basis, on a temporary basis, for a probationary term, or on other than a permanent basis if the person previously has been convicted of or has pleaded guilty to a felony.
+
+(2)(a) The sheriff shall terminate the employment of a deputy sheriff appointed under division (B)(1) of this section if the deputy sheriff does either of the following:
+
+(i) Pleads guilty to a felony;
+
+(ii) Pleads guilty to a misdemeanor pursuant to a negotiated plea agreement as provided in division (D) of section 2929.43 of the Revised Code in which the deputy sheriff agrees to surrender the certificate awarded to the deputy sheriff under section 109.77 of the Revised Code.
+
+(b) The sheriff shall suspend from employment any deputy sheriff appointed under division (B)(1) of this section if the deputy sheriff is convicted, after trial, of a felony. If the deputy sheriff files an appeal from that conviction and the conviction is upheld by the highest court to which the appeal is taken or if the deputy sheriff does not file a timely appeal, the sheriff shall terminate the employment of that deputy sheriff. If the deputy sheriff files an appeal that results in that deputy sheriff's acquittal of the felony or conviction of a misdemeanor, or in the dismissal of the felony charge against the deputy sheriff, the sheriff shall reinstate that deputy sheriff. A deputy sheriff who is reinstated under division (C)(2)(b) of this section shall not receive any back pay unless that deputy sheriff's conviction of the felony was reversed on appeal, or the felony charge was dismissed, because the court found insufficient evidence to convict the deputy sheriff of the felony.
+
+(3) Division (C) of this section does not apply regarding an offense that was committed prior to January 1, 1997.
+
+(4) The suspension from employment, or the termination of the employment, of a deputy sheriff under division (C)(2) of this section shall be in accordance with Chapter 119. of the Revised Code.

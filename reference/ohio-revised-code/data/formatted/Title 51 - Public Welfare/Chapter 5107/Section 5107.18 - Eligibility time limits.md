@@ -1,0 +1,24 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5107.18
+Scraped: 2026-07-02T20:10:29+00:00
+
+# Section 5107.18 - Eligibility time limits.
+
+**Effective:** September 29, 2007
+
+**Latest Legislation:** House Bill 119 - 127th General Assembly
+
+(A) Except as provided in divisions (B), (C), (D), (E), and (F) of this section, an assistance group is ineligible to participate in Ohio works first if the assistance group includes an individual who has participated in the program for thirty-six months as any of the following: an adult head of household, minor head of household, or spouse of an adult head of household or minor head of household. The time limit applies regardless of whether the thirty-six months are consecutive.
+
+(B) An assistance group that has ceased to participate in Ohio works first pursuant to division (A) of this section for at least twenty-four months, whether consecutive or not, may reapply to participate in the program if good cause exists as determined by the county department of job and family services. Good cause may include losing employment, inability to find employment, divorce, domestic violence considerations, and unique personal circumstances. The assistance group must provide a county department of job and family services verification acceptable to the county department of whether any members of the assistance group had employment during the period the assistance group was not participating in Ohio works first and the amount and sources of the assistance group's income during that period. If a county department is satisfied that good cause exists for the assistance group to reapply to participate in Ohio works first, the assistance group may reapply. Except as provided in divisions (C), (D), and (F) of this section, the assistance group may not participate in Ohio works first for more than twenty-four additional months. The time limit applies regardless of whether the twenty-four months are consecutive.
+
+(C) In determining the number of months a parent or pregnant woman has received assistance under Title IV-A, a county department of job and family services shall disregard any month during which the parent or pregnant woman was a minor child but was neither a minor head of household nor married to the head of an assistance group.
+
+(D) In determining the number of months an adult has received assistance under Title IV-A, a county department of job and family services shall disregard any month during which the adult lived on an Indian reservation or in an Alaska native village, as those terms are used in 42 U.S.C.A. 608(a)(7)(D), if, during the month, at least one thousand individuals lived on the reservation or in the village and at least fifty per cent of the adults living on the reservation or in the village were unemployed.
+
+(E) A county department of job and family services may exempt an Ohio works first assistance group from the time limit established by division (A) of this section by issuing a waiver of the time limit in accordance with section 5107.714 of the Revised Code. A county department may not exempt an assistance group until the group has exhausted its thirty-six months of cash assistance. An exemption granted under this division shall not count toward the twenty per cent limitation that applies to the exemptions granted under division (F) of this section.
+
+(F) A county department of job and family services may exempt not more than twenty per cent of the average monthly number of Ohio works first assistance groups from the time limit established by this section on the grounds that the county department determines that the time limit is a hardship. In the case of the time limit established by division (A) of this section, a county department may not exempt an assistance group until the group has exhausted its thirty-six months of cash assistance.
+
+(G) The department of job and family services shall continually monitor the percentage of the average monthly number of Ohio works first assistance groups in each county that is exempted under division (F) of this section from the time limit established by this section. On determining that the percentage in any county equals or exceeds eighteen per cent, the department shall immediately notify the county department of job and family services.
+
+(H) Only participation in Ohio works first on or after October 1, 1997, applies to the time limit established by this section. The time limit applies regardless of the source of funding for the program. Assistance under Title IV-A provided by any state applies to the time limit. The time limit is a lifetime limit. No assistance group shall receive assistance under the program in violation of the time limit for assistance under Title IV-A established by section 408(a)(7) of the "Social Security Act," as amended by the "Personal Responsibility and Work Opportunity Reconciliation Act of 1996," 110 Stat. 2105, 42 U.S.C.A. 608 (a)(7).

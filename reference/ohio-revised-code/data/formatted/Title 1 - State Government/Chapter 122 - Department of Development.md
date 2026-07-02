@@ -1,0 +1,230 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-122
+Scraped: 2026-07-02T19:31:37+00:00
+
+# Chapter 122 - Department of Development
+
+## Sections
+
+- Section 122.01 - Department of development definitions.
+- Section 122.011 - Department of development powers and duties.
+- Section 122.012 - Regional state agency for jobs and employment opportunities.
+- Section 122.013 - Required postings on official internet site.
+- Section 122.014 - Financial assistance for gaming activities.
+- Section 122.02 - Applying for federal and private assistance and contracts.
+- Section 122.03 - Duties of department - research facilities.
+- Section 122.04 - Additional duties.
+- Section 122.041 - Duties of director of development as to encouraging diversity, growth, and equity program.
+- Section 122.042 - Foundation of employment opportunity program.
+- Section 122.05 - Offices in foreign countries.
+- Section 122.051 - International trade cooperative projects fund.
+- Section 122.06 - Planning duties.
+- Section 122.07 - Office of TourismOhio.
+- Section 122.071 - TourismOhio advisory board.
+- Section 122.072 - Tourism fund.
+- Section 122.073 - Promoting state of Ohio.
+- Section 122.075 - Alternative fuel transportation grant program.
+- Section 122.076 - Alternative fuel vehicle conversion program.
+- Section 122.077 - Energy star rebate program.
+- Section 122.08 - Office of small business - powers and duties.
+- Section 122.081 - Small business register.
+- Section 122.082 - Low-interest loans to small businesses.
+- Section 122.083 - Shovel ready sites program - fund.
+- Section 122.085 - Job ready site program - definitions.
+- Section 122.086 - Job ready site program.
+- Section 122.087 - Annual competitive process for grants under program.
+- Section 122.088 - Annual competitive process grant application.
+- Section 122.089 - Grant application contents.
+- Section 122.0810 - Grant application evaluation - prioritization - notice of deficiencies.
+- Section 122.0811 - Completeness of application and eligibility of project.
+- Section 122.0812 - Discretionary grants outside annual competitive process.
+- Section 122.0813 - Evaluation of discretionary grant application.
+- Section 122.0814 - Approval of grant - agreement with applicant.
+- Section 122.0815 - Project requirements for consideration for grant.
+- Section 122.0816 - Project priority under annual competitive process.
+- Section 122.0817 - Annual program report by director.
+- Section 122.0819 - Allowance of recovery of committee costs.
+- Section 122.0820 - Job site ready development fund.
+- Section 122.09 - Transformational mixed use development tax credit.
+- Section 122.10 - Cooperation and coordination with other state departments and agencies.
+- Section 122.11 - Classified and unclassified employees.
+- Section 122.12 - Definitions.
+- Section 122.121 - Site selection for major sporting event.
+- Section 122.122 - Sports event grant fund.
+- Section 122.13 - Definitions.
+- Section 122.131 - Employee ownership assistance program.
+- Section 122.132 - Duties of director of development.
+- Section 122.133 - Boards to assist employee ownership assistance program.
+- Section 122.134 - Feasibility study.
+- Section 122.135 - Assistance in studying feasibility of employee-owned corporation.
+- Section 122.136 - Annual report.
+- Section 122.14 - Roadwork development fund.
+- Section 122.15 - Definitions for sections 122.151 to 122.156.
+- Section 122.151 - Certification as a rural business growth fund.
+- Section 122.152 - Tax credit.
+- Section 122.153 - Tax credit certificates; recapture of tax credits.
+- Section 122.154 - Reports.
+- Section 122.155 - State reimbursement amount.
+- Section 122.156 - Written opinion.
+- Section 122.16 - Economic redevelopment of distressed area.
+- Section 122.161 - Designation of priority investment areas.
+- Section 122.17 - Grants to foster job creation.
+- Section 122.171 - Tax credits to foster job retention.
+- Section 122.172 - Manufacturing equipment grant program.
+- Section 122.173 - Grant against tax for new manufacturing machinery purchase.
+- Section 122.174 - Tax incentives operating fund.
+- Section 122.175 - Tax exemption for sale, storage, use, or other consumption of computer data center equipment.
+- Section 122.176 - Grants for employers that move into a previously vacant facility.
+- Section 122.177 - Career exploration internship program.
+- Section 122.178 - TechCred program.
+- Section 122.179 - Industry sector partnerships.
+- Section 122.1710 - Individual microcredential assistance program.
+- Section 122.1711 - Report to legislature.
+- Section 122.1712 - Platinum provider program.
+- Section 122.1713 - Institutional platinum provider program.
+- Section 122.18 - Annual payments to landlord for projects creating new jobs.
+- Section 122.19 - Urban and rural initiative grant program definitions.
+- Section 122.20 - Urban and rural initiative grant program.
+- Section 122.21 - Urban and rural initiative grant program definitions.
+- Section 122.22 - Grant eligibility.
+- Section 122.23 - Rural industrial park loan program definitions.
+- Section 122.24 - Rural industrial park loan program.
+- Section 122.25 - Administration of program - park use.
+- Section 122.26 - Rural industrial park loan fund.
+- Section 122.27 - Eligibility for financial assistance.
+- Section 122.28 - Industrial technology and enterprise advisory council definitions.
+- Section 122.29 - Ohio river commission.
+- Section 122.291 - Commission duties.
+- Section 122.292 - Ohio river commission fund.
+- Section 122.30 - Powers and duties.
+- Section 122.31 - Payment sources for expenses and obligations.
+- Section 122.32 - Accepting using contributions.
+- Section 122.33 - Director of Development program administration.
+- Section 122.34 - Purposes.
+- Section 122.35 - Depositing receipts.
+- Section 122.36 - Confidential information.
+- Section 122.37 - Steel futures program.
+- Section 122.38 - Small business innovation research grant program.
+- Section 122.39 - Definitions for R.C. 122.41 to 122.62.
+- Section 122.40 - Definitions for R.C. 122.40 to 122.4077 - residential broadband expansion.
+- Section 122.401 - Residential broadband expansion grant program.
+- Section 122.403 - Broadband expansion program authority.
+- Section 122.406 - Authority consideration of program applications.
+- Section 122.407 - Authority duties.
+- Section 122.408 - Authority hearings.
+- Section 122.4010 - Authority annual report of findings and recommendations.
+- Section 122.4013 - Grant applications by broadband providers.
+- Section 122.4015 - Grants only for eligible projects.
+- Section 122.4016 - Ineligible projects.
+- Section 122.4017 - Funds for grants.
+- Section 122.4018 - Grants limited by available funds.
+- Section 122.4019 - Application submission.
+- Section 122.4020 - Application requirements.
+- Section 122.4021 - Conditions for grants.
+- Section 122.4023 - Proprietary or trade secret evaluations.
+- Section 122.4024 - Notification of published applications.
+- Section 122.4025 - Video service provider fees contributed to funding gap.
+- Section 122.4030 - Application challenges.
+- Section 122.4031 - Evidence sufficient to successfully challenge.
+- Section 122.4032 - Limited effect if grant application not challenged.
+- Section 122.4033 - Authority actions regarding a challenge.
+- Section 122.4034 - Revision, resubmission of successfully challenged applications.
+- Section 122.4035 - Review of resubmitted applications.
+- Section 122.4036 - Sanctions for challenging provider's failure to provide service.
+- Section 122.4037 - Disposition of sanction amounts.
+- Section 122.4040 - Weighted scoring system for applications.
+- Section 122.4041 - Weighted scoring system priorities.
+- Section 122.4043 - Grant awards.
+- Section 122.4044 - Grant disbursement.
+- Section 122.4045 - Speed verification tests.
+- Section 122.4046 - Noncompliance with requirements.
+- Section 122.4050 - County request application solicitation.
+- Section 122.4051 - Solicitation on behalf of county.
+- Section 122.4053 - Response application compliance.
+- Section 122.4055 - No responsibility for lack of response.
+- Section 122.4060 - Grant required for eligible project to proceed.
+- Section 122.4061 - Financial responsibility before project completion.
+- Section 122.4063 - Ownership or transfer of broadband infrastructure.
+- Section 122.4070 - Annual and operational reports.
+- Section 122.4071 - Report contents and public availability.
+- Section 122.4073 - Due date and extensions for reports.
+- Section 122.4075 - Reports, documents confidential.
+- Section 122.4076 - Annual program report by Authority.
+- Section 122.4077 - Residential broadband expansion grant rules.
+- Section 122.41 - Director's powers and duties under Chapter 122.
+- Section 122.42 - Director's powers and duties under R.C. 122.41 to 122.62.
+- Section 122.43 - Lending funds.
+- Section 122.44 - Terms of loans.
+- Section 122.45 - Loans to political subdivisions.
+- Section 122.46 - Purchase, sale, improvement of property for industrial, commercial, distribution or research facilities.
+- Section 122.47 - Issuing bonds.
+- Section 122.48 - Issuing revenue bonds.
+- Section 122.49 - Using bond proceeds.
+- Section 122.50 - Bonds not a debt of state.
+- Section 122.51 - Bonds are lawful investments.
+- Section 122.52 - Issuing revenue refunding bonds.
+- Section 122.53 - Bonds secured by trust agreements.
+- Section 122.54 - Direct loan program fund.
+- Section 122.571 - Revenue bond guaranty fund.
+- Section 122.58 - Investing funds.
+- Section 122.59 - Proceedings in default.
+- Section 122.60 - Capital access loan program definitions.
+- Section 122.601 - Capital access loan program fund.
+- Section 122.602 - Capital access loan program.
+- Section 122.603 - Program reserve account.
+- Section 122.604 - Recovering delinquent loan amount from program reserve account.
+- Section 122.605 - Annual report.
+- Section 122.61 - Tax exemptions.
+- Section 122.62 - Keeping funds in depositories selected by director.
+- Section 122.63 - Housing needs.
+- Section 122.631 - Grant for land bank acquisitions of residential property.
+- Section 122.632 - Grant for land bank rehabilitation of residential property.
+- Section 122.633 - Tax credit for constructing or rehabilitating affordable housing.
+- Section 122.636 - Workforce housing project grants.
+- Section 122.64 - Business services division.
+- Section 122.641 - The lakes in economic distress revolving loan program.
+- Section 122.6510 - Brownfields Revolving Loan Fund.
+- Section 122.6511 - Brownfield remediation program.
+- Section 122.6512 - Building demolition and site revitalization program.
+- Section 122.71 - Minority development financing advisory board definitions.
+- Section 122.72 - Minority development financing advisory board.
+- Section 122.73 - Powers and duties.
+- Section 122.74 - Director of development - powers and duties.
+- Section 122.75 - Director of development - duties regarding minority programs.
+- Section 122.751 - Certifying loan applicants.
+- Section 122.76 - Loan criteria.
+- Section 122.77 - Loan guarantees.
+- Section 122.78 - Terms, conditions, and provisions of loans and guarantees.
+- Section 122.79 - Tax exemptions.
+- Section 122.80 - Minority business enterprise loan fund.
+- Section 122.81 - Default on loan, guarantee, or lease.
+- Section 122.82 - Moneys, funds, properties, and assets held in trust.
+- Section 122.83 - Prohibiting misrepresentation.
+- Section 122.84 - Tax credit for investors in multiple qualified opportunity funds.
+- Section 122.85 - Tax credit-eligible productions.
+- Section 122.851 - Certification as Ohio venture capital operating company.
+- Section 122.86 - Small business investment certificate; tax credit.
+- Section 122.861 - Diesel emissions reduction grant and loan programs.
+- Section 122.862 - SellOhio global initiative fund.
+- Section 122.87 - Minority business bonding program definitions.
+- Section 122.88 - Minority business bonding fund - minority business bonding program administrative and loss reserve fund.
+- Section 122.89 - Executing bonds as surety.
+- Section 122.90 - Guarantee of bonds executed by sureties for minority businesses and EDGE business enterprises.
+- Section 122.91 - Commercial driver training certificate; tax credit.
+- Section 122.92 - Minority business development division.
+- Section 122.921 - [Former R.C. 123.151, amended and renumbered by H.B. 110, 134th General Assembly, effective 9/30/2021] Rules for certification as minority business enterprises; state agency, port authority reports.
+- Section 122.922 - [Former R.C. 123.152, amended and renumbered by H.B. 110, 134th General Assembly, effective 9/30/2021] Encouraging diversity, growth, and equity program.
+- Section 122.923 - [Former R.C. 123.153, amended and renumbered by H.B. 110, 134th General Assembly, effective 9/30/2021] Report on programs.
+- Section 122.924 - [Former R.C 123.154, amended and renumbered by H.B. 110, 134th General Assembly, effective 9/30/2021] Women-owned business enterprise program.
+- Section 122.925 - [Former R.C. 9.318, amended and renumbered by H.B. 110, 134th General Assembly, effective 9/30/2021] Veteran-friendly business procurement program.
+- Section 122.93 - Accepting gifts and other aid.
+- Section 122.94 - Rules - annual report.
+- Section 122.941 - Annual report.
+- Section 122.942 - Project information to be made public.
+- Section 122.95 - Definitions - industrial site improvement fund grants.
+- Section 122.951 - Grants from industrial site improvement fund.
+- Section 122.9511 - SiteOhio certification program.
+- Section 122.9512 - SiteOhio administration fund.
+- Section 122.96 - Delegation of authority.
+- Section 122.97 - Private activity bond state ceiling allocation.
+- Section 122.98 - Residential development revolving loan program.
+- Section 122.981 - Residential development revolving loan fund.

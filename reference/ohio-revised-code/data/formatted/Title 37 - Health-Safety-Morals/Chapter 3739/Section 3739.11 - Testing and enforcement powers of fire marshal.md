@@ -1,0 +1,18 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3739.11
+Scraped: 2026-07-02T20:00:44+00:00
+
+# Section 3739.11 - Testing and enforcement powers of fire marshal.
+
+**Effective:** May 1, 2010
+
+**Latest Legislation:** House Bill 500 - 127th General Assembly
+
+The state fire marshal may conduct testing on cigarettes certified by a manufacturer pursuant to section 3739.07 of the Revised Code to determine whether the manufacturer complied with the requirements of this chapter. The state fire marshal shall conduct any such testing in accordance with division (B) of section 3739.03 of the Revised Code.
+
+Whenever the state fire marshal or a designee of the state fire marshal discovers any cigarettes that do not include a mark as required under section 3739.06 of the Revised Code, or for which no certification has been filed in accordance with section 3739.07 of the Revised Code, the state fire marshal or the state fire marshal's designee may seize and take possession of such cigarettes and shall give such cigarettes to the tax commissioner, and such cigarettes thereupon shall be forfeited to the state. The tax commissioner shall order the destruction of any cigarettes forfeited pursuant to this section, but prior to the destruction of any cigarette forfeited pursuant to this section, the true holder of the trademark rights in the cigarette brand shall be permitted to inspect the cigarette.
+
+In addition to any other remedy provided by law, if the state fire marshal or attorney general determines that reasonable evidence exists that a violation of this chapter has occurred, the state fire marshal or attorney general may file an action in the court of common pleas in the county where the alleged violation occurred. The action may include a petition for preliminary or permanent injunctive relief against any manufacturer, importer, wholesale dealer, retail dealer, agent, or any other person or entity to enjoin such entity from selling, offering to sell, or affixing tax stamps to any cigarette that does not comply with the requirements of this chapter, or a claim to recover any costs or damages suffered by the state because a violation of this chapter occurred, including enforcement costs relating to the specific violation and attorney's fees. Each violation of this chapter or the rules adopted pursuant to it constitutes a separate civil violation for which the state fire marshal may obtain relief. Upon obtaining judgment for injunctive relief under this section, the state fire marshal shall provide a copy of the judgment to all wholesale dealers and agents to which the cigarette has been sold.
+
+To enforce the requirements of this chapter, the state fire marshal may examine the books, papers, invoices, and other business records of any person in possession or control of, or occupying any premises where cigarettes are placed, stored, sold, or offered for sale, including the stock of cigarettes on the premises, if the state fire marshal reasonably suspects that a violation of this chapter has occurred. Every person in the possession or control of, or occupying any premises where cigarettes are placed, sold, or offered for sale shall give to the state fire marshal the means, facilities, and opportunity for the examinations authorized under this section.
+
+The tax commissioner, in the regular course of conducting inspections of wholesale dealers, agents, and retail dealers, as authorized under section 5743.14 of the Revised Code, may inspect any cigarette packaging to determine if the package is marked as required under section 3739.06 of the Revised Code. If a package containing cigarettes is not marked, the tax commissioner shall notify the state fire marshal of this fact.

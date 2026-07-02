@@ -1,0 +1,78 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Insurance group\" means those insurers and affiliates included within an insurance holding company system as defined in section 3901.32 of the Revised Code.",
+      "id": "3901.372-insurance-group",
+      "normalized": "insurance group",
+      "scope": "",
+      "section": "3901.372",
+      "source_title": "Section 3901.372 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3901.372",
+      "term": "Insurance group"
+    },
+    {
+      "definition": "(B) \"Insurer\" has the same meaning as set forth in section 3901.32 of the Revised Code.",
+      "id": "3901.372-insurer",
+      "normalized": "insurer",
+      "scope": "",
+      "section": "3901.372",
+      "source_title": "Section 3901.372 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3901.372",
+      "term": "Insurer"
+    },
+    {
+      "definition": "(C) \"Own risk and solvency assessment\" means a confidential internal assessment, appropriate to the nature, scale, and complexity of an insurer or insurance group, conducted by that insurer or insurance group of the material and relevant risks associated with the insurer or insurance group's current business plan, and the sufficiency of capital resources to support those risks.",
+      "id": "3901.372-own-risk-and-solvency-assessment",
+      "normalized": "own risk and solvency assessment",
+      "scope": "",
+      "section": "3901.372",
+      "source_title": "Section 3901.372 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3901.372",
+      "term": "Own risk and solvency assessment"
+    },
+    {
+      "definition": "(D) \"Own risk and solvency assessment guidance manual\" means the current version of the own risk and solvency assessment guidance manual developed and adopted by the national association of insurance commissioners and as amended from time to time. A change in the own risk and solvency assessment guidance manual shall be effective on the first day of January following the calendar year in which the changes have been adopted by the national association of insurance commissioners.",
+      "id": "3901.372-own-risk-and-solvency-assessment-guidance-manual",
+      "normalized": "own risk and solvency assessment guidance manual",
+      "scope": "",
+      "section": "3901.372",
+      "source_title": "Section 3901.372 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3901.372",
+      "term": "Own risk and solvency assessment guidance manual"
+    },
+    {
+      "definition": "(E) \"Own risk and solvency assessment summary report\" means a confidential high-level summary of an insurer or insurance group's own risk and solvency assessment.",
+      "id": "3901.372-own-risk-and-solvency-assessment-summary-report",
+      "normalized": "own risk and solvency assessment summary report",
+      "scope": "",
+      "section": "3901.372",
+      "source_title": "Section 3901.372 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3901.372",
+      "term": "Own risk and solvency assessment summary report"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3901.371",
+      "number": "3901.371",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.371"
+    },
+    {
+      "kind": "section",
+      "label": "3907.378",
+      "number": "3907.378",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3907.378"
+    },
+    {
+      "kind": "section",
+      "label": "3901.32",
+      "number": "3901.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.32"
+    }
+  ],
+  "scraped": "2026-07-02T20:02:07+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3901.372",
+  "title": "Section 3901.372 - Definitions."
+}

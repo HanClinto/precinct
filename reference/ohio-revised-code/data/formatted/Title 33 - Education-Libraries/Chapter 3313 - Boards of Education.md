@@ -1,0 +1,306 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-3313
+Scraped: 2026-07-02T19:48:39+00:00
+
+# Chapter 3313 - Boards of Education
+
+## Sections
+
+- Section 3313.01 - Membership of board of education or governing board of service center.
+- Section 3313.02 - Membership of boards in city school districts.
+- Section 3313.03 - Redistricting into subdistricts.
+- Section 3313.04 - Petition for submission of question of number of members and organization of board.
+- Section 3313.05 - Submission of plans to electors - contents - separate ballot.
+- Section 3313.06 - Election - expense of commission.
+- Section 3313.07 - Adoption by majority vote.
+- Section 3313.08 - Election of members.
+- Section 3313.09 - Term of office of members.
+- Section 3313.10 - Oath of office of member.
+- Section 3313.11 - Vacancy in board.
+- Section 3313.12 - Compensation and mileage.
+- Section 3313.13 - Membership restriction.
+- Section 3313.131 - Member of governing authority of community school prohibited from membership on board of education.
+- Section 3313.14 - Annual organizational meeting.
+- Section 3313.15 - Regular meetings of board.
+- Section 3313.16 - Special meetings of board.
+- Section 3313.17 - Corporate powers of the board.
+- Section 3313.171 - Consultant services.
+- Section 3313.172 - Purchase, lease, or lease-purchase of motor vehicles.
+- Section 3313.173 - Reward for information on person who commits violation of law.
+- Section 3313.18 - Quorum - recording of votes - adoption of annual appropriation resolution.
+- Section 3313.19 - Power of board to compound or release claims due from banks.
+- Section 3313.20 - Rules - locker search policy - professional meetings.
+- Section 3313.201 - Procurement of insurance against liability of officers, employees, and pupils of district.
+- Section 3313.202 - Insurance and fringe benefits.
+- Section 3313.203 - Liability insurance - indemnification.
+- Section 3313.204 - Advertise offering of adult education classes.
+- Section 3313.205 - Notification of student's absence from school.
+- Section 3313.207 - Latchkey program definitions.
+- Section 3313.208 - School district participation in provision of latchkey programs.
+- Section 3313.209 - Options for districts that do not operate a latchkey program.
+- Section 3313.21 - Authority of school board over selection of instructional materials and curriculum.
+- Section 3313.211 - Employee compensation while serving as juror.
+- Section 3313.212 - Parental review of instructional materials, etc.
+- Section 3313.22 - Appointment of treasurer - re-employment - evaluation.
+- Section 3313.222 - Agreement of districts to jointly employ treasurer.
+- Section 3313.23 - Absence or incapacitation of treasurer.
+- Section 3313.24 - Compensation of treasurer.
+- Section 3313.241 - Documents to be executed by superintendent.
+- Section 3313.25 - Bond of treasurer of board.
+- Section 3313.26 - Record of proceedings.
+- Section 3313.261 - Treasurer to notify board of elections of changes in boundaries.
+- Section 3313.27 - Delivery of funds to board at expiration of term of treasurer - certificate.
+- Section 3313.28 - Delivery of records to successor.
+- Section 3313.29 - Treasurer to keep account of school funds - vouchers.
+- Section 3313.291 - Petty cash account.
+- Section 3313.30 - Declaration that school district is unauditable; notice.
+- Section 3313.31 - Treasurer to perform all duties relating to moneys.
+- Section 3313.311 - Policies for use of credit card accounts.
+- Section 3313.32 - Moneys to be placed with treasurer when depository ceases to act.
+- Section 3313.33 - Conveyances and contracts.
+- Section 3313.34 - Process against boards.
+- Section 3313.35 - Legal adviser of boards of education and governing board of an educational service center.
+- Section 3313.351 - Information regarding contracting with online service providers.
+- Section 3313.36 - Acceptance of bequests, gifts, or endowments.
+- Section 3313.37 - Powers regarding school buildings and facilities; educational service centers; acquisition of property and equipment.
+- Section 3313.371 - Governing board of service center may borrow money to purchase computer equipment.
+- Section 3313.372 - Installment payment contract for purchase and installation of energy conservation measures.
+- Section 3313.373 - Shared-savings contract.
+- Section 3313.374 - Installment payment contract for construction and purchase of administrative offices.
+- Section 3313.375 - Lease-purchase agreement for building or improvements to building.
+- Section 3313.376 - Service centers may jointly purchase commodities.
+- Section 3313.377 - Loans from school energy performance contracting loan fund.
+- Section 3313.378 - School energy performance contracting loan fund created.
+- Section 3313.38 - Residence for principal or teacher when school district inaccessible from mainland.
+- Section 3313.39 - Appropriation of land.
+- Section 3313.40 - Exchange of real estate.
+- Section 3313.41 - Disposal of real or personal property - acquisition of real property.
+- Section 3313.411 - Lease or sale of unused school facilities.
+- Section 3313.412 - Direct sale or lease of real property to STEM school.
+- Section 3313.413 - Priority consideration of high-performing community schools in sale or lease of real property or school facilities.
+- Section 3313.42 - School district of this state and another state may maintain a school jointly.
+- Section 3313.43 - Dedication of school lands for street purposes - certificate of dedication.
+- Section 3313.44 - School property exempt from taxation.
+- Section 3313.45 - Board may execute and deliver contracts or leases to mineral lands.
+- Section 3313.451 - Investigation, exploration, production of oil and gas.
+- Section 3313.46 - Contract bidding process; exceptions.
+- Section 3313.47 - Management and control of schools vested in board of education.
+- Section 3313.471 - Presentation of career information.
+- Section 3313.472 - Policy on parental and foster caregiver involvement in schools.
+- Section 3313.473 - Parental involvement policy.
+- Section 3313.474 - [Enacted as R.C. 3313.473 by S.B. 234, 135th General Assembly and recodified as R.C. 3313.474 pursuant to R.C. 101.131] National Suicide Lifeline telephone number.
+- Section 3313.48 - Free education to be provided; hours in a school year.
+- Section 3313.481 - School schedule.
+- Section 3313.482 - Online make-up hours.
+- Section 3313.483 - Delaying opening for financial reasons.
+- Section 3313.484 - Loans after 3-1-98 prohibited - subsidy for interest expense.
+- Section 3313.487 - Report on district's financial condition.
+- Section 3313.488 - School district fiscal statement.
+- Section 3313.489 - Determining whether district may be unable to operate during entire school year.
+- Section 3313.4810 - Receiving loans.
+- Section 3313.49 - Suspension of school - resolution of board - transfer of pupils.
+- Section 3313.50 - Record of tests - statistical data - individual records.
+- Section 3313.51 - Disbursement and deposit of school funds.
+- Section 3313.52 - Evening schools.
+- Section 3313.53 - Special instruction departments and schools - pupil-activity programs.
+- Section 3313.531 - Adult high school continuation program.
+- Section 3313.532 - Excusing disabled adults from assessments.
+- Section 3313.533 - Alternative school - plan.
+- Section 3313.534 - Policy of zero tolerance for violent, disruptive, or inappropriate behavior.
+- Section 3313.535 - Standards for participation in interscholastic extracurricular activities.
+- Section 3313.536 - Participation in ice hockey in another school district.
+- Section 3313.537 - Community school student participation in public school activities.
+- Section 3313.538 - Participation in interscholastic athletics - residency.
+- Section 3313.539 - Concussions and school athletics.
+- Section 3313.5310 - Information and training regarding sudden cardiac arrest.
+- Section 3313.5311 - Access to public school extracurricular activities by nonpublic school students.
+- Section 3313.5312 - Access to public school extracurricular activities by homeschooled students.
+- Section 3313.5313 - Interscholastic athletic participation by nonresident victims of harassment.
+- Section 3313.5314 - Athletics and participation in college credit plus program.
+- Section 3313.5315 - Foreign students participation in interscholastic athletics.
+- Section 3313.5317 - Religious apparel in interscholastic athletics.
+- Section 3313.5318 - Mental health training for coaches.
+- Section 3313.5319 - Cash payments at school-affiliated events.
+- Section 3313.5320 - [Enacted as R.C. 3313.5319 by H.B. 68, 135th General Assembly and recodified as R.C. 3313.5320 pursuant to R.C. 103.131] Interscholastic single-sex teams.
+- Section 3313.54 - Americanization schools.
+- Section 3313.55 - Provision for education of children in hospital or institution.
+- Section 3313.56 - Part-time schools or classes.
+- Section 3313.57 - Summer vacation period activities provided or approved by boards.
+- Section 3313.58 - Supervision of social and recreational work - employment of instructors.
+- Section 3313.59 - Cooperation with public officials to provide other recreational activities.
+- Section 3313.60 - Prescribed curriculum.
+- Section 3313.601 - Moment of silence - free exercise or expression of religious beliefs.
+- Section 3313.602 - Pledge of allegiance - principles of democracy and ethics - Veterans' day observance.
+- Section 3313.603 - Requirements for high school graduation; workforce or college preparatory units.
+- Section 3313.604 - Courses in American sign language.
+- Section 3313.605 - Community service education program.
+- Section 3313.606 - Education television courses and programs.
+- Section 3313.607 - Career plan and individual career passport for students.
+- Section 3313.608 - Third-grade reading guarantee.
+- Section 3313.609 - Grade promotion and retention policy.
+- Section 3313.6010 - Contracting with academic remediation and intervention providers.
+- Section 3313.6011 - Instruction in venereal disease education emphasizing abstinence.
+- Section 3313.6012 - Policy governing conduct of academic prevention/intervention services.
+- Section 3313.6013 - Advanced standing programs for college credit.
+- Section 3313.6014 - Parental notification of core curriculum requirements.
+- Section 3313.6016 - Daily physical activity for students; pilot program.
+- Section 3313.6017 - Alternative methods of delivering content.
+- Section 3313.6018 - Extended programming.
+- Section 3313.6019 - Agricultural education programs.
+- Section 3313.6020 - Policy on career advising.
+- Section 3313.6021 - Instruction in cardiopulmonary resuscitation and the use of an automated external defibrillator in high schools.
+- Section 3313.6022 - Released time courses in religious instruction.
+- Section 3313.6023 - Training in the use of an automated external defibrillator for school district employees.
+- Section 3313.6024 - Reporting on prevention-focused programs.
+- Section 3313.6026 - FAFSA data sharing agreement.
+- Section 3313.6027 - Financial literacy instruction.
+- Section 3313.6028 - Literacy curriculum.
+- Section 3313.6029 - Parental notification of student assessment results.
+- Section 3313.6030 - Criminal records checks for released time religious instruction course providers.
+- Section 3313.6031 - Grade and class standing calculation for certain career-technical courses.
+- Section 3313.6032 - Advanced mathematics learning opportunities.
+- Section 3313.6033 - [Former Section 733.61 of H.B. 166, 133rd General Assembly, as amended by H.B. 33, 135th General Assembly, and amended and codified as R.C. 3313.6033 by H.B. 96, 136th General Assembly] Computer science teachers.
+- Section 3313.61 - Diploma or honors diploma.
+- Section 3313.611 - Standards for awarding high school credit equivalent to credit for completion of high school academic and vocational education courses.
+- Section 3313.612 - Graduation test requirements or alternative conditions for nonpublic schools.
+- Section 3313.613 - Awarding high school credit for course completed outside regular school hours at accredited post-secondary institution.
+- Section 3313.614 - Testing requirements for fulfilling curriculum requirement for diploma.
+- Section 3313.615 - Alternative conditions for eligibility for diploma where person passes all but one graduation test.
+- Section 3313.616 - Diploma may be granted to veteran.
+- Section 3313.617 - Adoption of policy for students at risk of not qualifying for high school diploma.
+- Section 3313.618 - Diploma requirements.
+- Section 3313.619 - Chartered nonpublic school diploma with alternate assessment.
+- Section 3313.6110 - Diploma granted by parent or guardian.
+- Section 3313.6111 - State seal of biliteracy.
+- Section 3313.6112 - OhioMeansJobs-readiness seal.
+- Section 3313.6113 - Committee to develop a list of industry-recognized credentials and licenses.
+- Section 3313.6114 - State diploma seals.
+- Section 3313.62 - School year, week.
+- Section 3313.63 - School holidays specified.
+- Section 3313.64 - Entitlement to attend school; district of attendance.
+- Section 3313.641 - Summer schools, adult classes, postgraduate instruction and other classes.
+- Section 3313.642 - Materials for course of instruction.
+- Section 3313.643 - Eye protective devices.
+- Section 3313.644 - Contracts for training of out-of-school youth or adults.
+- Section 3313.645 - Admission without tuition.
+- Section 3313.646 - Preschool programs.
+- Section 3313.647 - Policy guaranteeing specific level of competency of certain graduates of district.
+- Section 3313.648 - Prohibiting incentives to enroll in district.
+- Section 3313.649 - Enrolling child subject of power of attorney or caretaker authorization affidavit.
+- Section 3313.6410 - Withdrawal of computer-based school student failing to take tests.
+- Section 3313.6411 - Providing report card to parent.
+- Section 3313.6412 - Internet- or computer-based school student automatic withdrawal.
+- Section 3313.6413 - Free feminine hygiene products in schools.
+- Section 3313.6414 - Services and intervention assessments for foster child.
+- Section 3313.65 - Children of institutionalized or incarcerated parents.
+- Section 3313.66 - Suspension, expulsion or permanent exclusion - removal from curricular or extracurricular activities.
+- Section 3313.661 - Policy regarding suspension, expulsion, removal, and permanent exclusion.
+- Section 3313.662 - Adjudication order permanently excluding pupil from public schools.
+- Section 3313.663 - Parental education or training program.
+- Section 3313.664 - Policy prohibiting student from participating in extracurricular activities.
+- Section 3313.665 - Conditions for adopting dress code or school uniform policy.
+- Section 3313.666 - District policy prohibiting harassment, intimidation, or bullying required.
+- Section 3313.667 - District bullying prevention initiatives.
+- Section 3313.668 - Removal based on absences; removal from grades pre-k through three; civil immunity, decisions not to provide mental health services.
+- Section 3313.669 - Threat assessment teams.
+- Section 3313.6610 - Anonymous reporting programs.
+- Section 3313.6611 - Student-led violence prevention clubs.
+- Section 3313.67 - Immunization of pupils - immunization record - annual summary.
+- Section 3313.671 - Proof of required immunizations - exceptions.
+- Section 3313.672 - Presenting school records, custody order if applicable and certification of birth by new pupil.
+- Section 3313.673 - Screening of beginning pupils for special learning needs.
+- Section 3313.674 - Body mass index and weight screening.
+- Section 3313.68 - Employment of physicians, dentists and nurses - delegation of duties and powers to board of health.
+- Section 3313.69 - Hearing and visual tests of school children - exemptions.
+- Section 3313.70 - Member of board cannot be school physician, dentist, or nurse.
+- Section 3313.71 - Examinations and diagnoses by school physician.
+- Section 3313.712 - Emergency medical authorization.
+- Section 3313.713 - District prescription drug distribution policy.
+- Section 3313.714 - Healthcheck program for recipients of medical assistance.
+- Section 3313.715 - District board may request identification numbers of students who are medicaid recipients.
+- Section 3313.716 - Possession and use metered dose inhaler or dry powder inhaler to alleviate asthmatic symptoms.
+- Section 3313.717 - Placement of automated external defibrillator in schools; staff training; qualified immunity.
+- Section 3313.718 - Possession and use of epinephrine autoinjector to treat anaphylaxis.
+- Section 3313.719 - Food allergy protection policy.
+- Section 3313.7110 - Procurement of epinephrine autoinjectors for public schools.
+- Section 3313.7111 - Procurement of epinephrine autoinjectors for nonpublic schools.
+- Section 3313.7112 - Diabetes care.
+- Section 3313.7113 - Procurement of inhalers by board.
+- Section 3313.7114 - Procurement of inhalers by nonpublic school.
+- Section 3313.7115 - Procurement of glucagon, qualified immunity - school districts.
+- Section 3313.7116 - Procurement of glucagon, qualified immunity - nonpublic schools.
+- Section 3313.7117 - Individualized seizure action plans.
+- Section 3313.7118 - Distribution of informational materials on Type 1 diabetes.
+- Section 3313.7119 - Overdose reversal drug policy for school districts.
+- Section 3313.7120 - Overdose reversal drug policy for nonpublic schools.
+- Section 3313.72 - Contract with health district for services of physician, dentist, or nurse.
+- Section 3313.721 - Health care for students.
+- Section 3313.73 - Board of health to make examination - report - recommendations to parents.
+- Section 3313.74 - Certain institutions and establishments not permitted near schools.
+- Section 3313.75 - Use of school premises generally.
+- Section 3313.751 - Prohibition against tobacco possession or use.
+- Section 3313.752 - Posting of warning concerning anabolic steroids to be posted in locker rooms.
+- Section 3313.753 - Prohibition against students carrying electronic communications devices.
+- Section 3313.76 - School premises available for educational and recreational purposes.
+- Section 3313.77 - Use of school premises for public meetings and entertainments.
+- Section 3313.78 - Political meetings on school premises - liability for damage.
+- Section 3313.79 - Responsibility for damage - payment of actual expenses.
+- Section 3313.791 - Liability for damages arising from use of school premises.
+- Section 3313.80 - Display of the national flag.
+- Section 3313.801 - Display of national and Ohio mottoes.
+- Section 3313.81 - Management and control of food service operation - provision of meals to the elderly.
+- Section 3313.811 - Sale of uniform school supplies.
+- Section 3313.812 - Food service to multiple districts or schools within districts.
+- Section 3313.813 - Food programs - outdoor education centers.
+- Section 3313.814 - Standards governing types of foods and beverages sold on school premises.
+- Section 3313.815 - Employee trained in Heimlich maneuver to be present while students served food.
+- Section 3313.816 - Sale of a la carte beverage items.
+- Section 3313.817 - A la carte foods; determination of nutritional value; software.
+- Section 3313.818 - Breakfast programs.
+- Section 3313.819 - Free school meals.
+- Section 3313.8110 - Misbranded meat and cultivated-protein food product purchase prevention policy.
+- Section 3313.82 - Business advisory councils.
+- Section 3313.821 - Standards for the operation of business advisory councils.
+- Section 3313.83 - Regional student education districts.
+- Section 3313.831 - Career-technical cooperative education district.
+- Section 3313.84 - Exchange of teaching services authorized - regulations.
+- Section 3313.841 - Sharing on cooperative basis services of supervisory, special instruction, and special education teachers.
+- Section 3313.842 - Joint educational programs.
+- Section 3313.843 - Agreement for educational service center to provide services to city or exempted village district.
+- Section 3313.844 - Agreement for providing educational service center services to community school.
+- Section 3313.845 - Additional agreement for educational service center to provide services to school district.
+- Section 3313.846 - Provision of services to political subdivisions by educational service center.
+- Section 3313.848 - Disposition of unexpended funds under service agreement.
+- Section 3313.849 - Agreements to share services.
+- Section 3313.85 - Failure of board of education or governing board to fill vacancy.
+- Section 3313.86 - Health and safety review.
+- Section 3313.87 - Board of education may join school boards' association.
+- Section 3313.871 - Payment of annual membership dues and service fees to accrediting associations.
+- Section 3313.89 - Publication of information regarding online education and career planning tool.
+- Section 3313.90 - Career-technical education programs.
+- Section 3313.901 - Courses at Ohio technical centers.
+- Section 3313.902 - Competency-based educational program.
+- Section 3313.903 - Measures of skill attainment.
+- Section 3313.904 - Pre-apprenticeship training programs for career-technical education students.
+- Section 3313.905 - Ohio code-scholar program.
+- Section 3313.906 - [Enacted as R.C. 3313.905 by S.B. 166, 134th General Assembly and recodified as R.C. 3313.906 pursuant to R.C. 103.131] Career-technical remote or digital learning.
+- Section 3313.91 - Contract to purchase vocational education or vocational rehabilitation service.
+- Section 3313.911 - Assigning district to a joint vocational district.
+- Section 3313.92 - Joint school building projects.
+- Section 3313.93 - Occupational work adjustment laboratory - student wages.
+- Section 3313.941 - Racial data collection for students to include multiracial category.
+- Section 3313.95 - Contract for police officer to assist in working with students concerning use of alcohol and drugs of abuse.
+- Section 3313.951 - Qualifications for school resource officers.
+- Section 3313.96 - Informational programs relative to missing children - fingerprinting program.
+- Section 3313.97 - Alternative school open enrollment policy procedures.
+- Section 3313.974 - Pilot project scholarship program definitions.
+- Section 3313.975 - Pilot project scholarship program.
+- Section 3313.976 - Registering school.
+- Section 3313.977 - Priorities for admission of students.
+- Section 3313.978 - Scholarship use and implementation; tutorial assistance grants.
+- Section 3313.979 - Payment of scholarships or grants.
+- Section 3313.98 - Interdistrict enrollment policy.
+- Section 3313.981 - Interdistrict enrollment reporting and transportation.
+- Section 3313.982 - Restricting admission schools on basis of academic, athletic, artistic, or other skills.
+- Section 3313.983 - Joint vocational school district to adopt policy for enrollment of students from adjacent or other district.
+- Section 3313.984 - Intradistrict open enrollment.
+- Section 3313.99 - Penalty.

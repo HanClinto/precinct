@@ -1,0 +1,14 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4509.02
+Scraped: 2026-07-02T20:05:34+00:00
+
+# Section 4509.02 - Judgment, state definitions.
+
+**Effective:** January 1, 2004
+
+**Latest Legislation:** Senate Bill 123 - 124th General Assembly
+
+As used in sections 4509.291 to 4509.67 of the Revised Code:
+
+(A) "Judgment" means any judgment which has become final by expiration without appeal of the time within which an appeal might have been perfected, or by final affirmation on appeal, rendered by a court of competent jurisdiction of any state or of the United States, upon a cause of action arising out of the ownership, maintenance, or use of any motor vehicle for damages, including damages for care and loss of services because of bodily injury to or death of any person, or for damages because of injury to or destruction of property, including the loss of use thereof, or upon a cause of action on an agreement of settlement for such damages.
+
+(B) "State" means any state, territory, or possession of the United States, the District of Columbia, or any province of the Dominion of Canada.

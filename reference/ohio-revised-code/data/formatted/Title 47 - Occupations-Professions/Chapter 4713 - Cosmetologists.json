@@ -1,0 +1,381 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 4713.01 - Cosmetologist definitions.",
+      "number": "4713.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.02 - State cosmetology and barber board.",
+      "number": "4713.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.03 - Meetings of board.",
+      "number": "4713.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.04 - Single member may act for board.",
+      "number": "4713.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.05 - Depositing receipts.",
+      "number": "4713.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.06 - Executive director - staff.",
+      "number": "4713.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.07 - Duties of board.",
+      "number": "4713.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.071 - Annual report.",
+      "number": "4713.071",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.071"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.08 - Administrative rules.",
+      "number": "4713.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.081 - Posting copies of infection control standards.",
+      "number": "4713.081",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.081"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.082 - Posting copies of tanning facility standards.",
+      "number": "4713.082",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.082"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.09 - Continuing education.",
+      "number": "4713.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.10 - Fees.",
+      "number": "4713.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.11 - Fees in excess of statutory amounts.",
+      "number": "4713.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.13 - Injunctions.",
+      "number": "4713.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.14 - Prohibited acts.",
+      "number": "4713.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.141 - Examining product sample.",
+      "number": "4713.141",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.141"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.15 - No treatment of physical or mental disease.",
+      "number": "4713.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.16 - Exemptions.",
+      "number": "4713.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.17 - Exceptions.",
+      "number": "4713.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.20 - License application and examination.",
+      "number": "4713.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.21 - Reapplying for examination.",
+      "number": "4713.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.22 - Temporary pre-examination work permit.",
+      "number": "4713.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.24 - Examinations.",
+      "number": "4713.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.25 - Examination for advanced license.",
+      "number": "4713.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.28 - License qualifications.",
+      "number": "4713.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.29 - Waiving license condition.",
+      "number": "4713.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.30 - Qualifications for advanced license.",
+      "number": "4713.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.31 - Qualifications for instructor license.",
+      "number": "4713.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.32 - Hours of instruction.",
+      "number": "4713.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.33 - Cosmetology licensure compact.",
+      "number": "4713.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.331 - Delegate to the cosmetology licensure compact commission.",
+      "number": "4713.331",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.331"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.34 - Reciprocity.",
+      "number": "4713.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.35 - Permitted practices.",
+      "number": "4713.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.351 - Cosmetology or barber services at limited events.",
+      "number": "4713.351",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.351"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.37 - Temporary special occasion work permit.",
+      "number": "4713.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.39 - License as independent contractor.",
+      "number": "4713.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.41 - Salon requirements.",
+      "number": "4713.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.42 - Cosmetic or massage therapy in salons.",
+      "number": "4713.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.44 - License to operate a school.",
+      "number": "4713.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.45 - School practices.",
+      "number": "4713.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.46 - Actions against school.",
+      "number": "4713.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.48 - Permit to operate tanning facility.",
+      "number": "4713.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.49 - Tanning facility at salon or school.",
+      "number": "4713.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.50 - Age restrictions for tanning services.",
+      "number": "4713.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.51 - Consent form.",
+      "number": "4713.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.55 - License contents.",
+      "number": "4713.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.56 - Posting license or certificate.",
+      "number": "4713.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.57 - Expiration of licenses.",
+      "number": "4713.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.58 - Reissuance of license.",
+      "number": "4713.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.59 - Continuing education.",
+      "number": "4713.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.60 - Renewals.",
+      "number": "4713.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.61 - License classified inactive.",
+      "number": "4713.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.62 - Continuing education approval of program.",
+      "number": "4713.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.63 - Restoring expired license.",
+      "number": "4713.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.64 - Violations.",
+      "number": "4713.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.641 - Complaints.",
+      "number": "4713.641",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.641"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.65 - Effect of child support default on license.",
+      "number": "4713.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.66 - Investigation and inspection of premises.",
+      "number": "4713.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.68 - Compliance with law regarding sanctions for human trafficking.",
+      "number": "4713.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.68"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.69 - Boutique services registration.",
+      "number": "4713.69",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.69"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4713.99 - Penalty.",
+      "number": "4713.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.99"
+    }
+  ],
+  "scraped": "2026-07-02T20:06:35+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-4713",
+  "title": "Chapter 4713 - Cosmetologists"
+}

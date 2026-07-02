@@ -1,0 +1,1532 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Criminal records check\" means any criminal records check conducted by the superintendent of the bureau of criminal identification and investigation in accordance with division (B) of this section.",
+      "id": "109.572-criminal-records-check",
+      "normalized": "criminal records check",
+      "scope": "(G) As used in this section:",
+      "section": "109.572",
+      "source_title": "Section 109.572 - Criminal records check.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-109.572",
+      "term": "Criminal records check"
+    },
+    {
+      "definition": "(2) \"Minor drug possession offense\" has the same meaning as in section 2925.01 of the Revised Code.",
+      "id": "109.572-minor-drug-possession-offense",
+      "normalized": "minor drug possession offense",
+      "scope": "(G) As used in this section:",
+      "section": "109.572",
+      "source_title": "Section 109.572 - Criminal records check.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-109.572",
+      "term": "Minor drug possession offense"
+    },
+    {
+      "definition": "(3) \"OVI or OVUAC violation\" means a violation of section 4511.19 of the Revised Code or a violation of an existing or former law of this state, any other state, or the United States that is substantially equivalent to section 4511.19 of the Revised Code.",
+      "id": "109.572-ovi-or-ovuac-violation",
+      "normalized": "ovi or ovuac violation",
+      "scope": "(G) As used in this section:",
+      "section": "109.572",
+      "source_title": "Section 109.572 - Criminal records check.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-109.572",
+      "term": "OVI or OVUAC violation"
+    },
+    {
+      "definition": "(4) \"Registered private provider\" means a nonpublic school or entity registered with the department of education and workforce under section 3310.41 of the Revised Code to participate in the autism scholarship program or section 3310.58 of the Revised Code to participate in the Jon Peterson special needs scholarship program.\n\nLast updated January 16, 2026 at 2:43 PM",
+      "id": "109.572-registered-private-provider",
+      "normalized": "registered private provider",
+      "scope": "(G) As used in this section:",
+      "section": "109.572",
+      "source_title": "Section 109.572 - Criminal records check.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-109.572",
+      "term": "Registered private provider"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "121.08",
+      "number": "121.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.08"
+    },
+    {
+      "kind": "section",
+      "label": "3301.32",
+      "number": "3301.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3301.32"
+    },
+    {
+      "kind": "section",
+      "label": "3301.541",
+      "number": "3301.541",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3301.541"
+    },
+    {
+      "kind": "section",
+      "label": "3319.39",
+      "number": "3319.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3319.39"
+    },
+    {
+      "kind": "section",
+      "label": "2903.01",
+      "number": "2903.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2903.01"
+    },
+    {
+      "kind": "section",
+      "label": "2903.02",
+      "number": "2903.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2903.02"
+    },
+    {
+      "kind": "section",
+      "label": "2903.03",
+      "number": "2903.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2903.03"
+    },
+    {
+      "kind": "section",
+      "label": "2903.04",
+      "number": "2903.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2903.04"
+    },
+    {
+      "kind": "section",
+      "label": "2903.041",
+      "number": "2903.041",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2903.041"
+    },
+    {
+      "kind": "section",
+      "label": "2903.06",
+      "number": "2903.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2903.06"
+    },
+    {
+      "kind": "section",
+      "label": "2903.08",
+      "number": "2903.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2903.08"
+    },
+    {
+      "kind": "section",
+      "label": "2903.11",
+      "number": "2903.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2903.11"
+    },
+    {
+      "kind": "section",
+      "label": "2903.12",
+      "number": "2903.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2903.12"
+    },
+    {
+      "kind": "section",
+      "label": "2903.13",
+      "number": "2903.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2903.13"
+    },
+    {
+      "kind": "section",
+      "label": "2903.16",
+      "number": "2903.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2903.16"
+    },
+    {
+      "kind": "section",
+      "label": "2903.21",
+      "number": "2903.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2903.21"
+    },
+    {
+      "kind": "section",
+      "label": "2903.34",
+      "number": "2903.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2903.34"
+    },
+    {
+      "kind": "section",
+      "label": "2905.01",
+      "number": "2905.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2905.01"
+    },
+    {
+      "kind": "section",
+      "label": "2905.02",
+      "number": "2905.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2905.02"
+    },
+    {
+      "kind": "section",
+      "label": "2905.05",
+      "number": "2905.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2905.05"
+    },
+    {
+      "kind": "section",
+      "label": "2905.11",
+      "number": "2905.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2905.11"
+    },
+    {
+      "kind": "section",
+      "label": "2905.32",
+      "number": "2905.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2905.32"
+    },
+    {
+      "kind": "section",
+      "label": "2907.02",
+      "number": "2907.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2907.02"
+    },
+    {
+      "kind": "section",
+      "label": "2907.03",
+      "number": "2907.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2907.03"
+    },
+    {
+      "kind": "section",
+      "label": "2907.04",
+      "number": "2907.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2907.04"
+    },
+    {
+      "kind": "section",
+      "label": "2907.05",
+      "number": "2907.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2907.05"
+    },
+    {
+      "kind": "section",
+      "label": "2907.06",
+      "number": "2907.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2907.06"
+    },
+    {
+      "kind": "section",
+      "label": "2907.07",
+      "number": "2907.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2907.07"
+    },
+    {
+      "kind": "section",
+      "label": "2907.08",
+      "number": "2907.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2907.08"
+    },
+    {
+      "kind": "section",
+      "label": "2907.09",
+      "number": "2907.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2907.09"
+    },
+    {
+      "kind": "section",
+      "label": "2907.19",
+      "number": "2907.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2907.19"
+    },
+    {
+      "kind": "section",
+      "label": "2907.21",
+      "number": "2907.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2907.21"
+    },
+    {
+      "kind": "section",
+      "label": "2907.22",
+      "number": "2907.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2907.22"
+    },
+    {
+      "kind": "section",
+      "label": "2907.23",
+      "number": "2907.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2907.23"
+    },
+    {
+      "kind": "section",
+      "label": "2907.25",
+      "number": "2907.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2907.25"
+    },
+    {
+      "kind": "section",
+      "label": "2907.31",
+      "number": "2907.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2907.31"
+    },
+    {
+      "kind": "section",
+      "label": "2907.32",
+      "number": "2907.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2907.32"
+    },
+    {
+      "kind": "section",
+      "label": "2907.321",
+      "number": "2907.321",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2907.321"
+    },
+    {
+      "kind": "section",
+      "label": "2907.322",
+      "number": "2907.322",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2907.322"
+    },
+    {
+      "kind": "section",
+      "label": "2907.323",
+      "number": "2907.323",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2907.323"
+    },
+    {
+      "kind": "section",
+      "label": "2911.01",
+      "number": "2911.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2911.01"
+    },
+    {
+      "kind": "section",
+      "label": "2911.02",
+      "number": "2911.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2911.02"
+    },
+    {
+      "kind": "section",
+      "label": "2911.11",
+      "number": "2911.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2911.11"
+    },
+    {
+      "kind": "section",
+      "label": "2911.12",
+      "number": "2911.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2911.12"
+    },
+    {
+      "kind": "section",
+      "label": "2919.12",
+      "number": "2919.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2919.12"
+    },
+    {
+      "kind": "section",
+      "label": "2919.22",
+      "number": "2919.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2919.22"
+    },
+    {
+      "kind": "section",
+      "label": "2919.24",
+      "number": "2919.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2919.24"
+    },
+    {
+      "kind": "section",
+      "label": "2919.25",
+      "number": "2919.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2919.25"
+    },
+    {
+      "kind": "section",
+      "label": "2923.12",
+      "number": "2923.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2923.12"
+    },
+    {
+      "kind": "section",
+      "label": "2923.13",
+      "number": "2923.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2923.13"
+    },
+    {
+      "kind": "section",
+      "label": "2923.161",
+      "number": "2923.161",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2923.161"
+    },
+    {
+      "kind": "section",
+      "label": "2923.17",
+      "number": "2923.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2923.17"
+    },
+    {
+      "kind": "section",
+      "label": "2923.21",
+      "number": "2923.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2923.21"
+    },
+    {
+      "kind": "section",
+      "label": "2923.42",
+      "number": "2923.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2923.42"
+    },
+    {
+      "kind": "section",
+      "label": "2925.02",
+      "number": "2925.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2925.02"
+    },
+    {
+      "kind": "section",
+      "label": "2925.03",
+      "number": "2925.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2925.03"
+    },
+    {
+      "kind": "section",
+      "label": "2925.04",
+      "number": "2925.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2925.04"
+    },
+    {
+      "kind": "section",
+      "label": "2925.041",
+      "number": "2925.041",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2925.041"
+    },
+    {
+      "kind": "section",
+      "label": "2925.05",
+      "number": "2925.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2925.05"
+    },
+    {
+      "kind": "section",
+      "label": "2925.06",
+      "number": "2925.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2925.06"
+    },
+    {
+      "kind": "section",
+      "label": "2925.13",
+      "number": "2925.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2925.13"
+    },
+    {
+      "kind": "section",
+      "label": "2925.22",
+      "number": "2925.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2925.22"
+    },
+    {
+      "kind": "section",
+      "label": "2925.23",
+      "number": "2925.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2925.23"
+    },
+    {
+      "kind": "section",
+      "label": "2925.24",
+      "number": "2925.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2925.24"
+    },
+    {
+      "kind": "section",
+      "label": "2925.31",
+      "number": "2925.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2925.31"
+    },
+    {
+      "kind": "section",
+      "label": "2925.32",
+      "number": "2925.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2925.32"
+    },
+    {
+      "kind": "section",
+      "label": "2925.36",
+      "number": "2925.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2925.36"
+    },
+    {
+      "kind": "section",
+      "label": "2925.37",
+      "number": "2925.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2925.37"
+    },
+    {
+      "kind": "section",
+      "label": "3716.11",
+      "number": "3716.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3716.11"
+    },
+    {
+      "kind": "section",
+      "label": "2907.12",
+      "number": "2907.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2907.12"
+    },
+    {
+      "kind": "section",
+      "label": "2905.04",
+      "number": "2905.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2905.04"
+    },
+    {
+      "kind": "section",
+      "label": "2919.23",
+      "number": "2919.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2919.23"
+    },
+    {
+      "kind": "section",
+      "label": "2925.11",
+      "number": "2925.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2925.11"
+    },
+    {
+      "kind": "section",
+      "label": "9.79",
+      "number": "9.79",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-9.79"
+    },
+    {
+      "kind": "section",
+      "label": "3319.31",
+      "number": "3319.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3319.31"
+    },
+    {
+      "kind": "section",
+      "label": "3712.09",
+      "number": "3712.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3712.09"
+    },
+    {
+      "kind": "section",
+      "label": "3721.121",
+      "number": "3721.121",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.121"
+    },
+    {
+      "kind": "section",
+      "label": "2905.12",
+      "number": "2905.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2905.12"
+    },
+    {
+      "kind": "section",
+      "label": "2911.13",
+      "number": "2911.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2911.13"
+    },
+    {
+      "kind": "section",
+      "label": "2913.02",
+      "number": "2913.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2913.02"
+    },
+    {
+      "kind": "section",
+      "label": "2913.03",
+      "number": "2913.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2913.03"
+    },
+    {
+      "kind": "section",
+      "label": "2913.04",
+      "number": "2913.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2913.04"
+    },
+    {
+      "kind": "section",
+      "label": "2913.11",
+      "number": "2913.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2913.11"
+    },
+    {
+      "kind": "section",
+      "label": "2913.21",
+      "number": "2913.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2913.21"
+    },
+    {
+      "kind": "section",
+      "label": "2913.31",
+      "number": "2913.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2913.31"
+    },
+    {
+      "kind": "section",
+      "label": "2913.40",
+      "number": "2913.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2913.40"
+    },
+    {
+      "kind": "section",
+      "label": "2913.43",
+      "number": "2913.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2913.43"
+    },
+    {
+      "kind": "section",
+      "label": "2913.47",
+      "number": "2913.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2913.47"
+    },
+    {
+      "kind": "section",
+      "label": "2913.51",
+      "number": "2913.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2913.51"
+    },
+    {
+      "kind": "section",
+      "label": "2921.36",
+      "number": "2921.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2921.36"
+    },
+    {
+      "kind": "section",
+      "label": "173.27",
+      "number": "173.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-173.27"
+    },
+    {
+      "kind": "section",
+      "label": "173.38",
+      "number": "173.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-173.38"
+    },
+    {
+      "kind": "section",
+      "label": "173.381",
+      "number": "173.381",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-173.381"
+    },
+    {
+      "kind": "section",
+      "label": "3740.11",
+      "number": "3740.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3740.11"
+    },
+    {
+      "kind": "section",
+      "label": "5119.34",
+      "number": "5119.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.34"
+    },
+    {
+      "kind": "section",
+      "label": "5164.34",
+      "number": "5164.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.34"
+    },
+    {
+      "kind": "section",
+      "label": "5164.341",
+      "number": "5164.341",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.341"
+    },
+    {
+      "kind": "section",
+      "label": "5164.342",
+      "number": "5164.342",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.342"
+    },
+    {
+      "kind": "section",
+      "label": "5123.081",
+      "number": "5123.081",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5123.081"
+    },
+    {
+      "kind": "section",
+      "label": "5123.169",
+      "number": "5123.169",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5123.169"
+    },
+    {
+      "kind": "section",
+      "label": "959.13",
+      "number": "959.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-959.13"
+    },
+    {
+      "kind": "section",
+      "label": "959.131",
+      "number": "959.131",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-959.131"
+    },
+    {
+      "kind": "section",
+      "label": "2903.15",
+      "number": "2903.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2903.15"
+    },
+    {
+      "kind": "section",
+      "label": "2903.211",
+      "number": "2903.211",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2903.211"
+    },
+    {
+      "kind": "section",
+      "label": "2903.22",
+      "number": "2903.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2903.22"
+    },
+    {
+      "kind": "section",
+      "label": "2903.341",
+      "number": "2903.341",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2903.341"
+    },
+    {
+      "kind": "section",
+      "label": "2905.33",
+      "number": "2905.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2905.33"
+    },
+    {
+      "kind": "section",
+      "label": "2907.24",
+      "number": "2907.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2907.24"
+    },
+    {
+      "kind": "section",
+      "label": "2907.33",
+      "number": "2907.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2907.33"
+    },
+    {
+      "kind": "section",
+      "label": "2909.02",
+      "number": "2909.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2909.02"
+    },
+    {
+      "kind": "section",
+      "label": "2909.03",
+      "number": "2909.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2909.03"
+    },
+    {
+      "kind": "section",
+      "label": "2909.04",
+      "number": "2909.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2909.04"
+    },
+    {
+      "kind": "section",
+      "label": "2909.22",
+      "number": "2909.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2909.22"
+    },
+    {
+      "kind": "section",
+      "label": "2909.23",
+      "number": "2909.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2909.23"
+    },
+    {
+      "kind": "section",
+      "label": "2909.24",
+      "number": "2909.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2909.24"
+    },
+    {
+      "kind": "section",
+      "label": "2913.05",
+      "number": "2913.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2913.05"
+    },
+    {
+      "kind": "section",
+      "label": "2913.32",
+      "number": "2913.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2913.32"
+    },
+    {
+      "kind": "section",
+      "label": "2913.41",
+      "number": "2913.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2913.41"
+    },
+    {
+      "kind": "section",
+      "label": "2913.42",
+      "number": "2913.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2913.42"
+    },
+    {
+      "kind": "section",
+      "label": "2913.44",
+      "number": "2913.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2913.44"
+    },
+    {
+      "kind": "section",
+      "label": "2913.441",
+      "number": "2913.441",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2913.441"
+    },
+    {
+      "kind": "section",
+      "label": "2913.45",
+      "number": "2913.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2913.45"
+    },
+    {
+      "kind": "section",
+      "label": "2913.46",
+      "number": "2913.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2913.46"
+    },
+    {
+      "kind": "section",
+      "label": "2913.48",
+      "number": "2913.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2913.48"
+    },
+    {
+      "kind": "section",
+      "label": "2913.49",
+      "number": "2913.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2913.49"
+    },
+    {
+      "kind": "section",
+      "label": "2917.01",
+      "number": "2917.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2917.01"
+    },
+    {
+      "kind": "section",
+      "label": "2917.02",
+      "number": "2917.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2917.02"
+    },
+    {
+      "kind": "section",
+      "label": "2917.03",
+      "number": "2917.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2917.03"
+    },
+    {
+      "kind": "section",
+      "label": "2917.31",
+      "number": "2917.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2917.31"
+    },
+    {
+      "kind": "section",
+      "label": "2919.121",
+      "number": "2919.121",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2919.121"
+    },
+    {
+      "kind": "section",
+      "label": "2919.123",
+      "number": "2919.123",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2919.123"
+    },
+    {
+      "kind": "section",
+      "label": "2919.124",
+      "number": "2919.124",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2919.124"
+    },
+    {
+      "kind": "section",
+      "label": "2921.03",
+      "number": "2921.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2921.03"
+    },
+    {
+      "kind": "section",
+      "label": "2921.11",
+      "number": "2921.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2921.11"
+    },
+    {
+      "kind": "section",
+      "label": "2921.12",
+      "number": "2921.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2921.12"
+    },
+    {
+      "kind": "section",
+      "label": "2921.13",
+      "number": "2921.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2921.13"
+    },
+    {
+      "kind": "section",
+      "label": "2921.21",
+      "number": "2921.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2921.21"
+    },
+    {
+      "kind": "section",
+      "label": "2921.24",
+      "number": "2921.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2921.24"
+    },
+    {
+      "kind": "section",
+      "label": "2921.32",
+      "number": "2921.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2921.32"
+    },
+    {
+      "kind": "section",
+      "label": "2921.321",
+      "number": "2921.321",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2921.321"
+    },
+    {
+      "kind": "section",
+      "label": "2921.34",
+      "number": "2921.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2921.34"
+    },
+    {
+      "kind": "section",
+      "label": "2921.35",
+      "number": "2921.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2921.35"
+    },
+    {
+      "kind": "section",
+      "label": "2921.51",
+      "number": "2921.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2921.51"
+    },
+    {
+      "kind": "section",
+      "label": "2923.122",
+      "number": "2923.122",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2923.122"
+    },
+    {
+      "kind": "section",
+      "label": "2923.123",
+      "number": "2923.123",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2923.123"
+    },
+    {
+      "kind": "section",
+      "label": "2923.162",
+      "number": "2923.162",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2923.162"
+    },
+    {
+      "kind": "section",
+      "label": "2923.32",
+      "number": "2923.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2923.32"
+    },
+    {
+      "kind": "section",
+      "label": "2925.09",
+      "number": "2925.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2925.09"
+    },
+    {
+      "kind": "section",
+      "label": "2925.14",
+      "number": "2925.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2925.14"
+    },
+    {
+      "kind": "section",
+      "label": "2925.55",
+      "number": "2925.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2925.55"
+    },
+    {
+      "kind": "section",
+      "label": "2925.56",
+      "number": "2925.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2925.56"
+    },
+    {
+      "kind": "section",
+      "label": "2927.12",
+      "number": "2927.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2927.12"
+    },
+    {
+      "kind": "section",
+      "label": "2923.01",
+      "number": "2923.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2923.01"
+    },
+    {
+      "kind": "section",
+      "label": "2923.02",
+      "number": "2923.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2923.02"
+    },
+    {
+      "kind": "section",
+      "label": "2923.03",
+      "number": "2923.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2923.03"
+    },
+    {
+      "kind": "section",
+      "label": "2151.86",
+      "number": "2151.86",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.86"
+    },
+    {
+      "kind": "section",
+      "label": "2151.904",
+      "number": "2151.904",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.904"
+    },
+    {
+      "kind": "section",
+      "label": "5103.053",
+      "number": "5103.053",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.053"
+    },
+    {
+      "kind": "section",
+      "label": "2151.421",
+      "number": "2151.421",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.421"
+    },
+    {
+      "kind": "section",
+      "label": "2903.32",
+      "number": "2903.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2903.32"
+    },
+    {
+      "kind": "section",
+      "label": "5104.013",
+      "number": "5104.013",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.013"
+    },
+    {
+      "kind": "section",
+      "label": "2909.05",
+      "number": "2909.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2909.05"
+    },
+    {
+      "kind": "section",
+      "label": "2913.041",
+      "number": "2913.041",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2913.041"
+    },
+    {
+      "kind": "section",
+      "label": "2913.06",
+      "number": "2913.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2913.06"
+    },
+    {
+      "kind": "section",
+      "label": "2913.33",
+      "number": "2913.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2913.33"
+    },
+    {
+      "kind": "section",
+      "label": "2913.34",
+      "number": "2913.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2913.34"
+    },
+    {
+      "kind": "section",
+      "label": "2919.224",
+      "number": "2919.224",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2919.224"
+    },
+    {
+      "kind": "section",
+      "label": "2919.225",
+      "number": "2919.225",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2919.225"
+    },
+    {
+      "kind": "section",
+      "label": "2921.14",
+      "number": "2921.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2921.14"
+    },
+    {
+      "kind": "section",
+      "label": "4511.19",
+      "number": "4511.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.19"
+    },
+    {
+      "kind": "section",
+      "label": "5153.111",
+      "number": "5153.111",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5153.111"
+    },
+    {
+      "kind": "section",
+      "label": "4749.03",
+      "number": "4749.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4749.03"
+    },
+    {
+      "kind": "section",
+      "label": "4749.06",
+      "number": "4749.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4749.06"
+    },
+    {
+      "kind": "section",
+      "label": "1321.37",
+      "number": "1321.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.37"
+    },
+    {
+      "kind": "section",
+      "label": "1321.53",
+      "number": "1321.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.53"
+    },
+    {
+      "kind": "section",
+      "label": "4763.05",
+      "number": "4763.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4763.05"
+    },
+    {
+      "kind": "section",
+      "label": "113.041",
+      "number": "113.041",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-113.041"
+    },
+    {
+      "kind": "section",
+      "label": "928.03",
+      "number": "928.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-928.03"
+    },
+    {
+      "kind": "section",
+      "label": "4701.08",
+      "number": "4701.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4701.08"
+    },
+    {
+      "kind": "section",
+      "label": "4715.101",
+      "number": "4715.101",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.101"
+    },
+    {
+      "kind": "section",
+      "label": "4717.061",
+      "number": "4717.061",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4717.061"
+    },
+    {
+      "kind": "section",
+      "label": "4725.121",
+      "number": "4725.121",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.121"
+    },
+    {
+      "kind": "section",
+      "label": "4725.501",
+      "number": "4725.501",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.501"
+    },
+    {
+      "kind": "section",
+      "label": "4729.071",
+      "number": "4729.071",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.071"
+    },
+    {
+      "kind": "section",
+      "label": "4729.53",
+      "number": "4729.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.53"
+    },
+    {
+      "kind": "section",
+      "label": "4729.90",
+      "number": "4729.90",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.90"
+    },
+    {
+      "kind": "section",
+      "label": "4729.92",
+      "number": "4729.92",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.92"
+    },
+    {
+      "kind": "section",
+      "label": "4730.101",
+      "number": "4730.101",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4730.101"
+    },
+    {
+      "kind": "section",
+      "label": "4730.14",
+      "number": "4730.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4730.14"
+    },
+    {
+      "kind": "section",
+      "label": "4730.28",
+      "number": "4730.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4730.28"
+    },
+    {
+      "kind": "section",
+      "label": "4731.081",
+      "number": "4731.081",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.081"
+    },
+    {
+      "kind": "section",
+      "label": "4731.15",
+      "number": "4731.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.15"
+    },
+    {
+      "kind": "section",
+      "label": "4731.171",
+      "number": "4731.171",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.171"
+    },
+    {
+      "kind": "section",
+      "label": "4731.222",
+      "number": "4731.222",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.222"
+    },
+    {
+      "kind": "section",
+      "label": "4731.281",
+      "number": "4731.281",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.281"
+    },
+    {
+      "kind": "section",
+      "label": "4731.531",
+      "number": "4731.531",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.531"
+    },
+    {
+      "kind": "section",
+      "label": "4732.091",
+      "number": "4732.091",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4732.091"
+    },
+    {
+      "kind": "section",
+      "label": "4734.202",
+      "number": "4734.202",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4734.202"
+    },
+    {
+      "kind": "section",
+      "label": "4740.061",
+      "number": "4740.061",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4740.061"
+    },
+    {
+      "kind": "section",
+      "label": "4741.10",
+      "number": "4741.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4741.10"
+    },
+    {
+      "kind": "section",
+      "label": "4747.051",
+      "number": "4747.051",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4747.051"
+    },
+    {
+      "kind": "section",
+      "label": "4751.20",
+      "number": "4751.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4751.20"
+    },
+    {
+      "kind": "section",
+      "label": "4751.201",
+      "number": "4751.201",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4751.201"
+    },
+    {
+      "kind": "section",
+      "label": "4751.21",
+      "number": "4751.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4751.21"
+    },
+    {
+      "kind": "section",
+      "label": "4753.061",
+      "number": "4753.061",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4753.061"
+    },
+    {
+      "kind": "section",
+      "label": "4755.70",
+      "number": "4755.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.70"
+    },
+    {
+      "kind": "section",
+      "label": "4757.101",
+      "number": "4757.101",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4757.101"
+    },
+    {
+      "kind": "section",
+      "label": "4759.061",
+      "number": "4759.061",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4759.061"
+    },
+    {
+      "kind": "section",
+      "label": "4760.032",
+      "number": "4760.032",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4760.032"
+    },
+    {
+      "kind": "section",
+      "label": "4760.06",
+      "number": "4760.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4760.06"
+    },
+    {
+      "kind": "section",
+      "label": "4761.051",
+      "number": "4761.051",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4761.051"
+    },
+    {
+      "kind": "section",
+      "label": "4762.031",
+      "number": "4762.031",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4762.031"
+    },
+    {
+      "kind": "section",
+      "label": "4762.06",
+      "number": "4762.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4762.06"
+    },
+    {
+      "kind": "section",
+      "label": "4774.031",
+      "number": "4774.031",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4774.031"
+    },
+    {
+      "kind": "section",
+      "label": "4774.06",
+      "number": "4774.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4774.06"
+    },
+    {
+      "kind": "section",
+      "label": "4776.021",
+      "number": "4776.021",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4776.021"
+    },
+    {
+      "kind": "section",
+      "label": "4778.04",
+      "number": "4778.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4778.04"
+    },
+    {
+      "kind": "section",
+      "label": "4778.07",
+      "number": "4778.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4778.07"
+    },
+    {
+      "kind": "section",
+      "label": "4779.091",
+      "number": "4779.091",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4779.091"
+    },
+    {
+      "kind": "section",
+      "label": "4783.04",
+      "number": "4783.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4783.04"
+    },
+    {
+      "kind": "section",
+      "label": "124.74",
+      "number": "124.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.74"
+    },
+    {
+      "kind": "section",
+      "label": "718.131",
+      "number": "718.131",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.131"
+    },
+    {
+      "kind": "section",
+      "label": "1121.23",
+      "number": "1121.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1121.23"
+    },
+    {
+      "kind": "section",
+      "label": "1315.141",
+      "number": "1315.141",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1315.141"
+    },
+    {
+      "kind": "section",
+      "label": "1733.47",
+      "number": "1733.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.47"
+    },
+    {
+      "kind": "section",
+      "label": "1761.26",
+      "number": "1761.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1761.26"
+    },
+    {
+      "kind": "section",
+      "label": "3772.07",
+      "number": "3772.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3772.07"
+    },
+    {
+      "kind": "section",
+      "label": "2151.33",
+      "number": "2151.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.33"
+    },
+    {
+      "kind": "section",
+      "label": "2151.412",
+      "number": "2151.412",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.412"
+    },
+    {
+      "kind": "section",
+      "label": "3796.12",
+      "number": "3796.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3796.12"
+    },
+    {
+      "kind": "section",
+      "label": "3796.03",
+      "number": "3796.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3796.03"
+    },
+    {
+      "kind": "section",
+      "label": "3796.13",
+      "number": "3796.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3796.13"
+    },
+    {
+      "kind": "section",
+      "label": "4768.06",
+      "number": "4768.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4768.06"
+    },
+    {
+      "kind": "section",
+      "label": "4764.07",
+      "number": "4764.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4764.07"
+    },
+    {
+      "kind": "section",
+      "label": "4735.143",
+      "number": "4735.143",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4735.143"
+    },
+    {
+      "kind": "section",
+      "label": "147.022",
+      "number": "147.022",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-147.022"
+    },
+    {
+      "kind": "section",
+      "label": "2915.081",
+      "number": "2915.081",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2915.081"
+    },
+    {
+      "kind": "section",
+      "label": "2915.082",
+      "number": "2915.082",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2915.082"
+    },
+    {
+      "kind": "section",
+      "label": "3775.03",
+      "number": "3775.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3775.03"
+    },
+    {
+      "kind": "section",
+      "label": "109.57",
+      "number": "109.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.57"
+    },
+    {
+      "kind": "section",
+      "label": "2953.32",
+      "number": "2953.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2953.32"
+    },
+    {
+      "kind": "section",
+      "label": "109.571",
+      "number": "109.571",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.571"
+    },
+    {
+      "kind": "section",
+      "label": "1155.03",
+      "number": "1155.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1155.03"
+    },
+    {
+      "kind": "section",
+      "label": "1163.05",
+      "number": "1163.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1163.05"
+    },
+    {
+      "kind": "section",
+      "label": "2925.01",
+      "number": "2925.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2925.01"
+    },
+    {
+      "kind": "section",
+      "label": "3310.41",
+      "number": "3310.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3310.41"
+    },
+    {
+      "kind": "section",
+      "label": "3310.58",
+      "number": "3310.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3310.58"
+    }
+  ],
+  "scraped": "2026-07-02T19:31:26+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-109.572",
+  "title": "Section 109.572 - Criminal records check."
+}

@@ -1,0 +1,12 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3901.071
+Scraped: 2026-07-02T20:02:07+00:00
+
+# Section 3901.071 - Superintendent's examination fund.
+
+**Effective:** October 3, 2023
+
+**Latest Legislation:** House Bill 33 - 135th General Assembly
+
+All moneys collected by the superintendent of insurance for expenses incurred by the superintendent in conducting examinations pursuant to the Revised Code of the financial affairs of any insurance company doing business in this state, for which the insurance company examined is required to pay the costs, shall be paid to the superintendent. The superintendent shall deposit the money in the state treasury to the credit of the department of insurance operating fund. For purposes of this section, "insurance company" means any domestic or foreign stock company, risk retention group, mutual company, mutual protective association, fraternal benefit society, reciprocal or inter-insurance exchange, and health insuring corporation, regardless of the type of coverage written, benefits provided, or guarantees made by each.
+
+Last updated July 31, 2023 at 5:04 PM

@@ -1,0 +1,238 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Manufactured home taxes\" includes taxes, penalties, and interest charged under division (C) or (G) of this section and any penalties charged under division (G) or (H)(5) of section 4503.061 of the Revised Code.",
+      "id": "4503.06-manufactured-home-taxes",
+      "normalized": "manufactured home taxes",
+      "scope": "(N) As used in this section and section 4503.061 of the Revised Code:",
+      "section": "4503.06",
+      "source_title": "Section 4503.06 - Manufactured or mobile home tax.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4503.06",
+      "term": "Manufactured home taxes"
+    },
+    {
+      "definition": "(2) \"Current taxes\" means all manufactured home taxes charged against a manufactured or mobile home that have not appeared on the manufactured home tax list for any prior year. Current taxes become delinquent taxes if they remain unpaid after the last day prescribed for payment of the second installment of current taxes without penalty, whether or not they have been certified delinquent.",
+      "id": "4503.06-current-taxes",
+      "normalized": "current taxes",
+      "scope": "(N) As used in this section and section 4503.061 of the Revised Code:",
+      "section": "4503.06",
+      "source_title": "Section 4503.06 - Manufactured or mobile home tax.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4503.06",
+      "term": "Current taxes"
+    },
+    {
+      "definition": "(3) \"Delinquent taxes\" means:\n\n(a) Any manufactured home taxes that were charged against a manufactured or mobile home for a prior year, including any penalties or interest charged for a prior year and the costs of publication under division (H)(2) of this section, and that remain unpaid;\n\n(b) Any current manufactured home taxes charged against a manufactured or mobile home that remain unpaid after the last day prescribed for payment of the second installment of current taxes without penalty, whether or not they have been certified delinquent, including any penalties or interest and the costs of publication under division (H)(2) of this section.\n\nLast updated January 14, 2026 at 12:37 PM",
+      "id": "4503.06-delinquent-taxes",
+      "normalized": "delinquent taxes",
+      "scope": "(N) As used in this section and section 4503.061 of the Revised Code:",
+      "section": "4503.06",
+      "source_title": "Section 4503.06 - Manufactured or mobile home tax.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4503.06",
+      "term": "Delinquent taxes"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3781.06",
+      "number": "3781.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.06"
+    },
+    {
+      "kind": "section",
+      "label": "4505.11",
+      "number": "4505.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4505.11"
+    },
+    {
+      "kind": "section",
+      "label": "4503.065",
+      "number": "4503.065",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.065"
+    },
+    {
+      "kind": "section",
+      "label": "323.08",
+      "number": "323.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.08"
+    },
+    {
+      "kind": "section",
+      "label": "319.302",
+      "number": "319.302",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.302"
+    },
+    {
+      "kind": "section",
+      "label": "319.303",
+      "number": "319.303",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.303"
+    },
+    {
+      "kind": "section",
+      "label": "319.304",
+      "number": "319.304",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.304"
+    },
+    {
+      "kind": "section",
+      "label": "323.152",
+      "number": "323.152",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.152"
+    },
+    {
+      "kind": "section",
+      "label": "323.17",
+      "number": "323.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.17"
+    },
+    {
+      "kind": "section",
+      "label": "5715.39",
+      "number": "5715.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5715.39"
+    },
+    {
+      "kind": "section",
+      "label": "323.13",
+      "number": "323.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.13"
+    },
+    {
+      "kind": "section",
+      "label": "4503.061",
+      "number": "4503.061",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.061"
+    },
+    {
+      "kind": "section",
+      "label": "321.45",
+      "number": "321.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-321.45"
+    },
+    {
+      "kind": "section",
+      "label": "5709.01",
+      "number": "5709.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5709.01"
+    },
+    {
+      "kind": "section",
+      "label": "5715.27",
+      "number": "5715.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5715.27"
+    },
+    {
+      "kind": "section",
+      "label": "4501.01",
+      "number": "4501.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4501.01"
+    },
+    {
+      "kind": "section",
+      "label": "3729.01",
+      "number": "3729.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3729.01"
+    },
+    {
+      "kind": "section",
+      "label": "4503.063",
+      "number": "4503.063",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.063"
+    },
+    {
+      "kind": "section",
+      "label": "323.31",
+      "number": "323.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.31"
+    },
+    {
+      "kind": "section",
+      "label": "5703.47",
+      "number": "5703.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.47"
+    },
+    {
+      "kind": "section",
+      "label": "321.24",
+      "number": "321.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-321.24"
+    },
+    {
+      "kind": "section",
+      "label": "319.54",
+      "number": "319.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.54"
+    },
+    {
+      "kind": "section",
+      "label": "323.25",
+      "number": "323.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.25"
+    },
+    {
+      "kind": "section",
+      "label": "323.28",
+      "number": "323.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.28"
+    },
+    {
+      "kind": "section",
+      "label": "4503.04",
+      "number": "4503.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.04"
+    },
+    {
+      "kind": "section",
+      "label": "5741.02",
+      "number": "5741.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5741.02"
+    },
+    {
+      "kind": "section",
+      "label": "5713.01",
+      "number": "5713.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5713.01"
+    },
+    {
+      "kind": "section",
+      "label": "5713.03",
+      "number": "5713.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5713.03"
+    },
+    {
+      "kind": "section",
+      "label": "5715.19",
+      "number": "5715.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5715.19"
+    },
+    {
+      "kind": "section",
+      "label": "5715.11",
+      "number": "5715.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5715.11"
+    },
+    {
+      "kind": "section",
+      "label": "5715.22",
+      "number": "5715.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5715.22"
+    },
+    {
+      "kind": "section",
+      "label": "319.35",
+      "number": "319.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.35"
+    },
+    {
+      "kind": "section",
+      "label": "319.36",
+      "number": "319.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.36"
+    }
+  ],
+  "scraped": "2026-07-02T20:05:19+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4503.06",
+  "title": "Section 4503.06 - Manufactured or mobile home tax."
+}

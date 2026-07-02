@@ -1,0 +1,604 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Wire communication\" means an aural transfer that is made in whole or in part through the use of facilities for the transmission of communications by the aid of wires or similar methods of connecting the point of origin of the communication and the point of reception of the communication, including the use of a method of connecting the point of origin and the point of reception of the communication in a switching station, if the facilities are furnished or operated by a person engaged in providing or operating the facilities for the transmission of communications. \"Wire communication\" includes an electronic storage of a wire communication.",
+      "id": "2933.51-wire-communication",
+      "normalized": "wire communication",
+      "scope": "As used in sections 2933.51 to 2933.66 of the Revised Code:",
+      "section": "2933.51",
+      "source_title": "Section 2933.51 - Wiretapping, electronic surveillance definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2933.51",
+      "term": "Wire communication"
+    },
+    {
+      "definition": "(B) \"Oral communication\" means an oral communication uttered by a person exhibiting an expectation that the communication is not subject to interception under circumstances justifying that expectation. \"Oral communication\" does not include an electronic communication.",
+      "id": "2933.51-oral-communication",
+      "normalized": "oral communication",
+      "scope": "As used in sections 2933.51 to 2933.66 of the Revised Code:",
+      "section": "2933.51",
+      "source_title": "Section 2933.51 - Wiretapping, electronic surveillance definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2933.51",
+      "term": "Oral communication"
+    },
+    {
+      "definition": "(C) \"Intercept\" means the aural or other acquisition of the contents of any wire, oral, or electronic communication through the use of an interception device.",
+      "id": "2933.51-intercept",
+      "normalized": "intercept",
+      "scope": "As used in sections 2933.51 to 2933.66 of the Revised Code:",
+      "section": "2933.51",
+      "source_title": "Section 2933.51 - Wiretapping, electronic surveillance definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2933.51",
+      "term": "Intercept"
+    },
+    {
+      "definition": "(D) \"Interception device\" means an electronic, mechanical, or other device or apparatus that can be used to intercept a wire, oral, or electronic communication. \"Interception device\" does not mean any of the following:\n\n(1) A telephone or telegraph instrument, equipment, or facility, or any of its components, if the instrument, equipment, facility, or component is any of the following:\n\n(a) Furnished to the subscriber or user by a provider of wire or electronic communication service in the ordinary course of its business and being used by the subscriber or user in the ordinary course of its business;\n\n(b) Furnished by a subscriber or user for connection to the facilities of a provider of wire or electronic communication service and used in the ordinary course of that subscriber's or user's business;\n\n(c) Being used by a provider of wire or electronic communication service in the ordinary course of its business or by an investigative or law enforcement officer in the ordinary course of the officer's duties that do not involve the interception of wire, oral, or electronic communications.\n\n(2) A hearing aid or similar device being used to correct subnormal hearing to not better than normal.",
+      "id": "2933.51-interception-device",
+      "normalized": "interception device",
+      "scope": "As used in sections 2933.51 to 2933.66 of the Revised Code:",
+      "section": "2933.51",
+      "source_title": "Section 2933.51 - Wiretapping, electronic surveillance definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2933.51",
+      "term": "Interception device"
+    },
+    {
+      "definition": "(E) \"Investigative officer\" means any of the following:\n\n(1) An officer of this state or a political subdivision of this state, who is empowered by law to conduct investigations or to make arrests for a designated offense;\n\n(2) A person described in divisions (A)(11)(a) and (b) of section 2901.01 of the Revised Code;\n\n(3) An attorney authorized by law to prosecute or participate in the prosecution of a designated offense;\n\n(4) A secret service officer appointed pursuant to section 309.07 of the Revised Code;\n\n(5) An officer of the United States, a state, or a political subdivision of a state who is authorized to conduct investigations pursuant to the \"Electronic Communications Privacy Act of 1986,\" 100 Stat. 1848-1857, 18 U.S.C. 2510-2521 (1986), as amended.",
+      "id": "2933.51-investigative-officer",
+      "normalized": "investigative officer",
+      "scope": "As used in sections 2933.51 to 2933.66 of the Revised Code:",
+      "section": "2933.51",
+      "source_title": "Section 2933.51 - Wiretapping, electronic surveillance definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2933.51",
+      "term": "Investigative officer"
+    },
+    {
+      "definition": "(F) \"Interception warrant\" means a court order that authorizes the interception of wire, oral, or electronic communications and that is issued pursuant to sections 2933.53 to 2933.56 of the Revised Code.\n\n(G) \"Contents,\" when used with respect to a wire, oral, or electronic communication, includes any information concerning the substance, purport, or meaning of the communication.",
+      "id": "2933.51-interception-warrant",
+      "normalized": "interception warrant",
+      "scope": "As used in sections 2933.51 to 2933.66 of the Revised Code:",
+      "section": "2933.51",
+      "source_title": "Section 2933.51 - Wiretapping, electronic surveillance definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2933.51",
+      "term": "Interception warrant"
+    },
+    {
+      "definition": "(H) \"Communications common carrier\" means a person who is engaged as a common carrier for hire in intrastate, interstate, or foreign communications by wire, radio, or radio transmission of energy. \"Communications common carrier\" does not include, to the extent that the person is engaged in radio broadcasting, a person engaged in radio broadcasting.",
+      "id": "2933.51-communications-common-carrier",
+      "normalized": "communications common carrier",
+      "scope": "As used in sections 2933.51 to 2933.66 of the Revised Code:",
+      "section": "2933.51",
+      "source_title": "Section 2933.51 - Wiretapping, electronic surveillance definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2933.51",
+      "term": "Communications common carrier"
+    },
+    {
+      "definition": "(I) \"Designated offense\" means any of the following:\n\n(1) A felony violation of section 1315.53 , 1315.55 , 2903.01 , 2903.02 , 2903.11 , 2905.01 , 2905.02 , 2905.11 , 2905.22 , 2905.32 , 2907.02 , 2907.21 , 2907.22 , 2909.02 , 2909.03 , 2909.04 , 2909.22 , 2909.23 , 2909.24 , 2909.26 , 2909.27 , 2909.28 , 2909.29 , 2911.01 , 2911.02 , 2911.11 , 2911.12 , 2913.02 , 2913.04 , 2913.42 , 2913.51 , 2915.02 , 2915.03 , 2917.01 , 2917.02 , 2921.02 , 2921.03 , 2921.04 , 2921.32 , 2921.34 , 2923.20 , 2923.32 , 2925.03 , 2925.04 , 2925.05 , or 2925.06 or of division (B) of section 2915.05 or of division (E) or (G) of section 3772.99 of the Revised Code;\n\n(2) A violation of section 2919.23 of the Revised Code that, had it occurred prior to July 1, 1996, would have been a violation of section 2905.04 of the Revised Code as it existed prior to that date;\n\n(3) A felony violation of section 2925.11 of the Revised Code that is not a minor drug possession offense, as defined in section 2925.01 of the Revised Code;\n\n(4) Complicity in the commission of a felony violation of a section listed in division (I)(1), (2), or (3) of this section;\n\n(5) An attempt to commit, or conspiracy in the commission of, a felony violation of a section listed in division (I)(1), (2), or (3) of this section, if the attempt or conspiracy is punishable by a term of imprisonment of more than one year.",
+      "id": "2933.51-designated-offense",
+      "normalized": "designated offense",
+      "scope": "As used in sections 2933.51 to 2933.66 of the Revised Code:",
+      "section": "2933.51",
+      "source_title": "Section 2933.51 - Wiretapping, electronic surveillance definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2933.51",
+      "term": "Designated offense"
+    },
+    {
+      "definition": "(J) \"Aggrieved person\" means a person who was a party to an intercepted wire, oral, or electronic communication or a person against whom the interception of the communication was directed.",
+      "id": "2933.51-aggrieved-person",
+      "normalized": "aggrieved person",
+      "scope": "As used in sections 2933.51 to 2933.66 of the Revised Code:",
+      "section": "2933.51",
+      "source_title": "Section 2933.51 - Wiretapping, electronic surveillance definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2933.51",
+      "term": "Aggrieved person"
+    },
+    {
+      "definition": "(K) \"Person\" means a person, as defined in section 1.59 of the Revised Code, or a governmental officer, employee, or entity.",
+      "id": "2933.51-person",
+      "normalized": "person",
+      "scope": "As used in sections 2933.51 to 2933.66 of the Revised Code:",
+      "section": "2933.51",
+      "source_title": "Section 2933.51 - Wiretapping, electronic surveillance definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2933.51",
+      "term": "Person"
+    },
+    {
+      "definition": "(L) \"Special need\" means a showing that a licensed physician, licensed practicing psychologist, attorney, practicing cleric, journalist, or either spouse is personally engaging in continuing criminal activity, was engaged in continuing criminal activity over a period of time, or is committing, has committed, or is about to commit, a designated offense, or a showing that specified public facilities are being regularly used by someone who is personally engaging in continuing criminal activity, was engaged in continuing criminal activity over a period of time, or is committing, has committed, or is about to commit, a designated offense.",
+      "id": "2933.51-special-need",
+      "normalized": "special need",
+      "scope": "As used in sections 2933.51 to 2933.66 of the Revised Code:",
+      "section": "2933.51",
+      "source_title": "Section 2933.51 - Wiretapping, electronic surveillance definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2933.51",
+      "term": "Special need"
+    },
+    {
+      "definition": "(M) \"Journalist\" means a person engaged in, connected with, or employed by, any news media, including a newspaper, magazine, press association, news agency, or wire service, a radio or television station, or a similar media, for the purpose of gathering, processing, transmitting, compiling, editing, or disseminating news for the general public.",
+      "id": "2933.51-journalist",
+      "normalized": "journalist",
+      "scope": "As used in sections 2933.51 to 2933.66 of the Revised Code:",
+      "section": "2933.51",
+      "source_title": "Section 2933.51 - Wiretapping, electronic surveillance definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2933.51",
+      "term": "Journalist"
+    },
+    {
+      "definition": "(N) \"Electronic communication\" means a transfer of a sign, signal, writing, image, sound, datum, or intelligence of any nature that is transmitted in whole or in part by a wire, radio, electromagnetic, photoelectronic, or photo-optical system. \"Electronic communication\" does not mean any of the following:\n\n(1) A wire or oral communication;\n\n(2) A communication made through a tone-only paging device;\n\n(3) A communication from an electronic or mechanical tracking device that permits the tracking of the movement of a person or object.",
+      "id": "2933.51-electronic-communication",
+      "normalized": "electronic communication",
+      "scope": "As used in sections 2933.51 to 2933.66 of the Revised Code:",
+      "section": "2933.51",
+      "source_title": "Section 2933.51 - Wiretapping, electronic surveillance definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2933.51",
+      "term": "Electronic communication"
+    },
+    {
+      "definition": "(O) \"User\" means a person or entity that uses an electronic communication service and is duly authorized by the provider of the service to engage in the use of the electronic communication service.",
+      "id": "2933.51-user",
+      "normalized": "user",
+      "scope": "As used in sections 2933.51 to 2933.66 of the Revised Code:",
+      "section": "2933.51",
+      "source_title": "Section 2933.51 - Wiretapping, electronic surveillance definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2933.51",
+      "term": "User"
+    },
+    {
+      "definition": "(P) \"Electronic communications system\" means a wire, radio, electromagnetic, photoelectronic, or photo-optical facility for the transmission of electronic communications, and a computer facility or related electronic equipment for the electronic storage of electronic communications.",
+      "id": "2933.51-electronic-communications-system",
+      "normalized": "electronic communications system",
+      "scope": "As used in sections 2933.51 to 2933.66 of the Revised Code:",
+      "section": "2933.51",
+      "source_title": "Section 2933.51 - Wiretapping, electronic surveillance definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2933.51",
+      "term": "Electronic communications system"
+    },
+    {
+      "definition": "(Q) \"Electronic communication service\" means a service that provides to users of the service the ability to send or receive wire or electronic communications.",
+      "id": "2933.51-electronic-communication-service",
+      "normalized": "electronic communication service",
+      "scope": "As used in sections 2933.51 to 2933.66 of the Revised Code:",
+      "section": "2933.51",
+      "source_title": "Section 2933.51 - Wiretapping, electronic surveillance definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2933.51",
+      "term": "Electronic communication service"
+    },
+    {
+      "definition": "(R) \"Readily accessible to the general public\" means, with respect to a radio communication, that the communication is none of the following:\n\n(1) Scrambled or encrypted;\n\n(2) Transmitted using a modulation technique, the essential parameters of which have been withheld from the public with the intention of preserving the privacy of the communication;\n\n(3) Carried on a subcarrier or other signal subsidiary to a radio transmission;\n\n(4) Transmitted over a communications system provided by a communications common carrier, unless the communication is a tone-only paging system communication;\n\n(5) Transmitted on a frequency allocated under part 25, subpart D, E, or F of part 74, or part 94 of the Rules of the Federal Communications Commission, as those provisions existed on July 1, 1996, unless, in the case of a communication transmitted on a frequency allocated under part 74 that is not exclusively allocated to broadcast auxiliary services, the communication is a two-way voice communication by radio.",
+      "id": "2933.51-readily-accessible-to-the-general-public",
+      "normalized": "readily accessible to the general public",
+      "scope": "As used in sections 2933.51 to 2933.66 of the Revised Code:",
+      "section": "2933.51",
+      "source_title": "Section 2933.51 - Wiretapping, electronic surveillance definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2933.51",
+      "term": "Readily accessible to the general public"
+    },
+    {
+      "definition": "(S) \"Electronic storage\" means a temporary, intermediate storage of a wire or electronic communication that is incidental to the electronic transmission of the communication, and a storage of a wire or electronic communication by an electronic communication service for the purpose of backup protection of the communication.",
+      "id": "2933.51-electronic-storage",
+      "normalized": "electronic storage",
+      "scope": "As used in sections 2933.51 to 2933.66 of the Revised Code:",
+      "section": "2933.51",
+      "source_title": "Section 2933.51 - Wiretapping, electronic surveillance definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2933.51",
+      "term": "Electronic storage"
+    },
+    {
+      "definition": "(T) \"Aural transfer\" means a transfer containing the human voice at a point between and including the point of origin and the point of reception.",
+      "id": "2933.51-aural-transfer",
+      "normalized": "aural transfer",
+      "scope": "As used in sections 2933.51 to 2933.66 of the Revised Code:",
+      "section": "2933.51",
+      "source_title": "Section 2933.51 - Wiretapping, electronic surveillance definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2933.51",
+      "term": "Aural transfer"
+    },
+    {
+      "definition": "(U) \"Pen register\" means a device that records or decodes electronic impulses that identify the numbers dialed, pulsed, or otherwise transmitted on telephone lines to which the device is attached.",
+      "id": "2933.51-pen-register",
+      "normalized": "pen register",
+      "scope": "As used in sections 2933.51 to 2933.66 of the Revised Code:",
+      "section": "2933.51",
+      "source_title": "Section 2933.51 - Wiretapping, electronic surveillance definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2933.51",
+      "term": "Pen register"
+    },
+    {
+      "definition": "(V) \"Trap and trace device\" means a device that captures the incoming electronic or other impulses that identify the originating number of an instrument or device from which a wire communication or electronic communication was transmitted but that does not intercept the contents of the wire communication or electronic communication.",
+      "id": "2933.51-trap-and-trace-device",
+      "normalized": "trap and trace device",
+      "scope": "As used in sections 2933.51 to 2933.66 of the Revised Code:",
+      "section": "2933.51",
+      "source_title": "Section 2933.51 - Wiretapping, electronic surveillance definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2933.51",
+      "term": "Trap and trace device"
+    },
+    {
+      "definition": "(W) \"Judge of a court of common pleas\" means a judge of that court who is elected or appointed as a judge of general jurisdiction or as a judge who exercises both general jurisdiction and probate, domestic relations, or juvenile jurisdiction. \"Judge of a court of common pleas\" does not mean a judge of that court who is elected or appointed specifically as a probate, domestic relations, or juvenile judge.",
+      "id": "2933.51-judge-of-a-court-of-common-pleas",
+      "normalized": "judge of a court of common pleas",
+      "scope": "As used in sections 2933.51 to 2933.66 of the Revised Code:",
+      "section": "2933.51",
+      "source_title": "Section 2933.51 - Wiretapping, electronic surveillance definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2933.51",
+      "term": "Judge of a court of common pleas"
+    },
+    {
+      "definition": "(X) \"Electronic user data\" means any data or records that are stored, collected, used, or safeguarded by a service or program that stores electronic data. This includes data stored on a computer, computer network, or computer system.",
+      "id": "2933.51-electronic-user-data",
+      "normalized": "electronic user data",
+      "scope": "As used in sections 2933.51 to 2933.66 of the Revised Code:",
+      "section": "2933.51",
+      "source_title": "Section 2933.51 - Wiretapping, electronic surveillance definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2933.51",
+      "term": "Electronic user data"
+    },
+    {
+      "definition": "(Y) \"Remote computing service\" means the provision of computer storage or processing services to the public through an electronic communication service.\n\nLast updated February 4, 2025 at 4:44 PM",
+      "id": "2933.51-remote-computing-service",
+      "normalized": "remote computing service",
+      "scope": "As used in sections 2933.51 to 2933.66 of the Revised Code:",
+      "section": "2933.51",
+      "source_title": "Section 2933.51 - Wiretapping, electronic surveillance definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2933.51",
+      "term": "Remote computing service"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2933.51",
+      "number": "2933.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2933.51"
+    },
+    {
+      "kind": "section",
+      "label": "2933.66",
+      "number": "2933.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2933.66"
+    },
+    {
+      "kind": "section",
+      "label": "2901.01",
+      "number": "2901.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2901.01"
+    },
+    {
+      "kind": "section",
+      "label": "309.07",
+      "number": "309.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-309.07"
+    },
+    {
+      "kind": "section",
+      "label": "2933.53",
+      "number": "2933.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2933.53"
+    },
+    {
+      "kind": "section",
+      "label": "2933.56",
+      "number": "2933.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2933.56"
+    },
+    {
+      "kind": "section",
+      "label": "1315.53",
+      "number": "1315.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1315.53"
+    },
+    {
+      "kind": "section",
+      "label": "1315.55",
+      "number": "1315.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1315.55"
+    },
+    {
+      "kind": "section",
+      "label": "2903.01",
+      "number": "2903.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2903.01"
+    },
+    {
+      "kind": "section",
+      "label": "2903.02",
+      "number": "2903.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2903.02"
+    },
+    {
+      "kind": "section",
+      "label": "2903.11",
+      "number": "2903.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2903.11"
+    },
+    {
+      "kind": "section",
+      "label": "2905.01",
+      "number": "2905.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2905.01"
+    },
+    {
+      "kind": "section",
+      "label": "2905.02",
+      "number": "2905.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2905.02"
+    },
+    {
+      "kind": "section",
+      "label": "2905.11",
+      "number": "2905.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2905.11"
+    },
+    {
+      "kind": "section",
+      "label": "2905.22",
+      "number": "2905.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2905.22"
+    },
+    {
+      "kind": "section",
+      "label": "2905.32",
+      "number": "2905.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2905.32"
+    },
+    {
+      "kind": "section",
+      "label": "2907.02",
+      "number": "2907.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2907.02"
+    },
+    {
+      "kind": "section",
+      "label": "2907.21",
+      "number": "2907.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2907.21"
+    },
+    {
+      "kind": "section",
+      "label": "2907.22",
+      "number": "2907.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2907.22"
+    },
+    {
+      "kind": "section",
+      "label": "2909.02",
+      "number": "2909.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2909.02"
+    },
+    {
+      "kind": "section",
+      "label": "2909.03",
+      "number": "2909.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2909.03"
+    },
+    {
+      "kind": "section",
+      "label": "2909.04",
+      "number": "2909.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2909.04"
+    },
+    {
+      "kind": "section",
+      "label": "2909.22",
+      "number": "2909.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2909.22"
+    },
+    {
+      "kind": "section",
+      "label": "2909.23",
+      "number": "2909.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2909.23"
+    },
+    {
+      "kind": "section",
+      "label": "2909.24",
+      "number": "2909.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2909.24"
+    },
+    {
+      "kind": "section",
+      "label": "2909.26",
+      "number": "2909.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2909.26"
+    },
+    {
+      "kind": "section",
+      "label": "2909.27",
+      "number": "2909.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2909.27"
+    },
+    {
+      "kind": "section",
+      "label": "2909.28",
+      "number": "2909.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2909.28"
+    },
+    {
+      "kind": "section",
+      "label": "2909.29",
+      "number": "2909.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2909.29"
+    },
+    {
+      "kind": "section",
+      "label": "2911.01",
+      "number": "2911.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2911.01"
+    },
+    {
+      "kind": "section",
+      "label": "2911.02",
+      "number": "2911.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2911.02"
+    },
+    {
+      "kind": "section",
+      "label": "2911.11",
+      "number": "2911.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2911.11"
+    },
+    {
+      "kind": "section",
+      "label": "2911.12",
+      "number": "2911.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2911.12"
+    },
+    {
+      "kind": "section",
+      "label": "2913.02",
+      "number": "2913.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2913.02"
+    },
+    {
+      "kind": "section",
+      "label": "2913.04",
+      "number": "2913.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2913.04"
+    },
+    {
+      "kind": "section",
+      "label": "2913.42",
+      "number": "2913.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2913.42"
+    },
+    {
+      "kind": "section",
+      "label": "2913.51",
+      "number": "2913.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2913.51"
+    },
+    {
+      "kind": "section",
+      "label": "2915.02",
+      "number": "2915.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2915.02"
+    },
+    {
+      "kind": "section",
+      "label": "2915.03",
+      "number": "2915.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2915.03"
+    },
+    {
+      "kind": "section",
+      "label": "2917.01",
+      "number": "2917.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2917.01"
+    },
+    {
+      "kind": "section",
+      "label": "2917.02",
+      "number": "2917.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2917.02"
+    },
+    {
+      "kind": "section",
+      "label": "2921.02",
+      "number": "2921.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2921.02"
+    },
+    {
+      "kind": "section",
+      "label": "2921.03",
+      "number": "2921.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2921.03"
+    },
+    {
+      "kind": "section",
+      "label": "2921.04",
+      "number": "2921.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2921.04"
+    },
+    {
+      "kind": "section",
+      "label": "2921.32",
+      "number": "2921.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2921.32"
+    },
+    {
+      "kind": "section",
+      "label": "2921.34",
+      "number": "2921.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2921.34"
+    },
+    {
+      "kind": "section",
+      "label": "2923.20",
+      "number": "2923.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2923.20"
+    },
+    {
+      "kind": "section",
+      "label": "2923.32",
+      "number": "2923.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2923.32"
+    },
+    {
+      "kind": "section",
+      "label": "2925.03",
+      "number": "2925.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2925.03"
+    },
+    {
+      "kind": "section",
+      "label": "2925.04",
+      "number": "2925.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2925.04"
+    },
+    {
+      "kind": "section",
+      "label": "2925.05",
+      "number": "2925.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2925.05"
+    },
+    {
+      "kind": "section",
+      "label": "2925.06",
+      "number": "2925.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2925.06"
+    },
+    {
+      "kind": "section",
+      "label": "2915.05",
+      "number": "2915.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2915.05"
+    },
+    {
+      "kind": "section",
+      "label": "3772.99",
+      "number": "3772.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3772.99"
+    },
+    {
+      "kind": "section",
+      "label": "2919.23",
+      "number": "2919.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2919.23"
+    },
+    {
+      "kind": "section",
+      "label": "2905.04",
+      "number": "2905.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2905.04"
+    },
+    {
+      "kind": "section",
+      "label": "2925.11",
+      "number": "2925.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2925.11"
+    },
+    {
+      "kind": "section",
+      "label": "2925.01",
+      "number": "2925.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2925.01"
+    },
+    {
+      "kind": "section",
+      "label": "1.59",
+      "number": "1.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1.59"
+    }
+  ],
+  "scraped": "2026-07-02T19:46:37+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2933.51",
+  "title": "Section 2933.51 - Wiretapping, electronic surveillance definitions."
+}

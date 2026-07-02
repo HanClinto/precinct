@@ -1,0 +1,74 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Application\" means, as context requires, an application under section 2717.02 , 2717.04 , or 2717.13 of the Revised Code.",
+      "id": "2717.01-application",
+      "normalized": "application",
+      "scope": "As used in this chapter:",
+      "section": "2717.01",
+      "source_title": "Section 2717.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2717.01",
+      "term": "Application"
+    },
+    {
+      "definition": "(B) \"Applicant\" means, as context requires, a person who makes the filing under section 2717.02 or 2717.04 of the Revised Code, or the minor on whose behalf a filing is made under section 2717.13 of the Revised Code.",
+      "id": "2717.01-applicant",
+      "normalized": "applicant",
+      "scope": "As used in this chapter:",
+      "section": "2717.01",
+      "source_title": "Section 2717.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2717.01",
+      "term": "Applicant"
+    },
+    {
+      "definition": "(C) \"Conform\" means to make a person's legal name consistent in all official identity documents by correcting a misspelling, inconsistency, or other error in an official identity document.",
+      "id": "2717.01-conform",
+      "normalized": "conform",
+      "scope": "As used in this chapter:",
+      "section": "2717.01",
+      "source_title": "Section 2717.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2717.01",
+      "term": "Conform"
+    },
+    {
+      "definition": "(D) \"Official identity document\" means a birth record, marriage record, divorce decree, driver's license, state issued identification card, social security card with the social security number redacted, passport, or any other official government-issued document required or commonly used to verify a person's identity.\n\n(E) \"Sexually oriented offense\" and \"child-victim oriented offense\" have the same meanings as in section 2950.01 of the Revised Code.\n\nLast updated August 17, 2021 at 4:00 AM",
+      "id": "2717.01-official-identity-document",
+      "normalized": "official identity document",
+      "scope": "As used in this chapter:",
+      "section": "2717.01",
+      "source_title": "Section 2717.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2717.01",
+      "term": "Official identity document"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2717.02",
+      "number": "2717.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2717.02"
+    },
+    {
+      "kind": "section",
+      "label": "2717.04",
+      "number": "2717.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2717.04"
+    },
+    {
+      "kind": "section",
+      "label": "2717.13",
+      "number": "2717.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2717.13"
+    },
+    {
+      "kind": "section",
+      "label": "2950.01",
+      "number": "2950.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2950.01"
+    }
+  ],
+  "scraped": "2026-07-02T19:45:09+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2717.01",
+  "title": "Section 2717.01 - Definitions."
+}

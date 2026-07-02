@@ -1,0 +1,24 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3769.21
+Scraped: 2026-07-02T20:01:23+00:00
+
+# Section 3769.21 - Thoroughbred horsemen's health and retirement fund.
+
+**Effective:** September 19, 1996
+
+**Latest Legislation:** House Bill 561 - 121st General Assembly
+
+(A) A corporation may be formed pursuant to Chapter 1702. of the Revised Code to establish a thoroughbred horsemen's health and retirement fund and a corporation may be formed pursuant to Chapter 1702. of the Revised Code to establish a harness horsemen's health and retirement fund to be administered for the benefit of horsemen. As used in this section, "horsemen" includes any person involved in the owning, breeding, training, grooming, or racing of horses which race in Ohio, except for the owners or managers of race tracks. For purposes of the thoroughbred horsemen's health and retirement fund, "horsemen" also does not include trainers and grooms who are not members of the thoroughbred horsemen's organization in this state. No more than one corporation to establish a thoroughbred horsemen's health and retirement fund and no more than one corporation to establish a harness horsemen's health and retirement fund may be established in Ohio pursuant to this section. The trustees of the corporation formed to establish a thoroughbred horsemen's health and retirement fund shall have the discretion to determine which horsemen shall benefit from such fund.
+
+(B) The articles of incorporation of both of the corporations described in division (A) of this section shall provide for at least the following:
+
+(1) The corporation shall be governed by, and the health and retirement fund shall be administered by, a board of three trustees appointed pursuant to division (C) of this section for staggered three-year terms.
+
+(2) The board of trustees shall adopt and administer a plan to provide health benefits, retirement benefits, or both to either thoroughbred or harness horsemen.
+
+(3) The sum paid to the corporation pursuant to division (G) or (H) of section 3769.08 of the Revised Code shall be used exclusively to establish and administer the health and retirement fund, and to finance benefits paid to horsemen pursuant to the plan adopted under division (B)(2) of this section.
+
+(4) The articles of incorporation and code of regulations of the corporation may be amended at any time by the board of trustees pursuant to the method set forth in the articles of incorporation and code of regulations, except that no amendment shall be adopted which is inconsistent with this section.
+
+(C) Within sixty days after the formation of each of the corporations described in division (A) of this section, the state racing commission shall appoint the members of the board of trustees of that corporation. Vacancies shall be filled by the state racing commission in the same manner as initial appointments. Each trustee of the thoroughbred horsemen's health and retirement fund appointed by the commission shall be active as a thoroughbred horseman while serving a term as a trustee and shall have been active as a thoroughbred horseman for at least five years immediately prior to the commencement of any such term. Each trustee of the harness horsemen's health and retirement fund appointed by the commission shall be active as a harness horseman while serving a term as a trustee and shall have been active as a harness horseman for at least five years immediately prior to the commencement of any such term. The incorporators of either such corporation may serve as initial trustees until the state racing commission acts pursuant to this section to make these appointments.
+
+(D) The intent of the general assembly in enacting this section pursuant to Amended House Bill No. 639 of the 115th general assembly was to fulfill a legitimate government responsibility in a manner that would be more cost efficient and effective than direct state agency administration by permitting nonprofit corporations to be formed to establish health and retirement funds for the benefit of harness and thoroughbred horsemen, as it was determined that such persons were in need of such benefits.

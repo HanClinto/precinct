@@ -1,0 +1,344 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Registered nurse\" means an individual who holds a current, valid license issued under this chapter that authorizes the practice of nursing as a registered nurse.",
+      "id": "4723.01-registered-nurse",
+      "normalized": "registered nurse",
+      "scope": "As used in this chapter:",
+      "section": "4723.01",
+      "source_title": "Section 4723.01 - Nurse definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4723.01",
+      "term": "Registered nurse"
+    },
+    {
+      "definition": "(B) \"Practice of nursing as a registered nurse\" means providing to individuals and groups nursing care requiring specialized knowledge, judgment, and skill derived from the principles of biological, physical, behavioral, social, and nursing sciences. Such nursing care includes:\n\n(1) Identifying patterns of human responses to actual or potential health problems amenable to a nursing regimen;\n\n(2) Executing a nursing regimen through the selection, performance, management, and evaluation of nursing actions;\n\n(3) Assessing health status for the purpose of providing nursing care;\n\n(4) Providing health counseling and health teaching;\n\n(5) Administering medications, treatments, and executing regimens authorized by an individual who is authorized to practice in this state and is acting within the course of the individual's professional practice;\n\n(6) Teaching, administering, supervising, delegating, and evaluating nursing practice.\n\n(C) \"Nursing regimen\" may include preventative, restorative, and health-promotion activities.",
+      "id": "4723.01-practice-of-nursing-as-a-registered-nurse",
+      "normalized": "practice of nursing as a registered nurse",
+      "scope": "As used in this chapter:",
+      "section": "4723.01",
+      "source_title": "Section 4723.01 - Nurse definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4723.01",
+      "term": "Practice of nursing as a registered nurse"
+    },
+    {
+      "definition": "(D) \"Assessing health status\" means the collection of data through nursing assessment techniques, which may include interviews, observation, and physical evaluations for the purpose of providing nursing care.",
+      "id": "4723.01-assessing-health-status",
+      "normalized": "assessing health status",
+      "scope": "As used in this chapter:",
+      "section": "4723.01",
+      "source_title": "Section 4723.01 - Nurse definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4723.01",
+      "term": "Assessing health status"
+    },
+    {
+      "definition": "(E) \"Licensed practical nurse\" means an individual who holds a current, valid license issued under this chapter that authorizes the practice of nursing as a licensed practical nurse.",
+      "id": "4723.01-licensed-practical-nurse",
+      "normalized": "licensed practical nurse",
+      "scope": "As used in this chapter:",
+      "section": "4723.01",
+      "source_title": "Section 4723.01 - Nurse definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4723.01",
+      "term": "Licensed practical nurse"
+    },
+    {
+      "definition": "(F) \"The practice of nursing as a licensed practical nurse\" means providing to individuals and groups nursing care requiring the application of basic knowledge of the biological, physical, behavioral, social, and nursing sciences at the direction of a registered nurse or any of the following who is authorized to practice in this state: a physician, physician assistant, dentist, podiatrist, optometrist, or chiropractor. Such nursing care includes:\n\n(1) Observation, patient teaching, and care in a diversity of health care settings;\n\n(2) Contributions to the planning, implementation, and evaluation of nursing;\n\n(3) Administration of medications and treatments authorized by an individual who is authorized to practice in this state and is acting within the course of the individual's professional practice;\n\n(4) Administration to an adult of intravenous therapy authorized by an individual who is authorized to practice in this state and is acting within the course of the individual's professional practice, on the condition that the licensed practical nurse is authorized under section 4723.18 or 4723.181 of the Revised Code to perform intravenous therapy and performs intravenous therapy only in accordance with those sections;\n\n(5) Delegation of nursing tasks as directed by a registered nurse;\n\n(6) Teaching nursing tasks to licensed practical nurses and individuals to whom the licensed practical nurse is authorized to delegate nursing tasks as directed by a registered nurse.",
+      "id": "4723.01-the-practice-of-nursing-as-a-licensed-practical-nurse",
+      "normalized": "the practice of nursing as a licensed practical nurse",
+      "scope": "As used in this chapter:",
+      "section": "4723.01",
+      "source_title": "Section 4723.01 - Nurse definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4723.01",
+      "term": "The practice of nursing as a licensed practical nurse"
+    },
+    {
+      "definition": "(G) \"Certified registered nurse anesthetist\" means an advanced practice registered nurse who holds a current, valid license issued under this chapter and is designated as a certified registered nurse anesthetist in accordance with section 4723.42 of the Revised Code and rules adopted by the board of nursing.",
+      "id": "4723.01-certified-registered-nurse-anesthetist",
+      "normalized": "certified registered nurse anesthetist",
+      "scope": "As used in this chapter:",
+      "section": "4723.01",
+      "source_title": "Section 4723.01 - Nurse definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4723.01",
+      "term": "Certified registered nurse anesthetist"
+    },
+    {
+      "definition": "(H) \"Clinical nurse specialist\" means an advanced practice registered nurse who holds a current, valid license issued under this chapter and is designated as a clinical nurse specialist in accordance with section 4723.42 of the Revised Code and rules adopted by the board of nursing.",
+      "id": "4723.01-clinical-nurse-specialist",
+      "normalized": "clinical nurse specialist",
+      "scope": "As used in this chapter:",
+      "section": "4723.01",
+      "source_title": "Section 4723.01 - Nurse definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4723.01",
+      "term": "Clinical nurse specialist"
+    },
+    {
+      "definition": "(I) \"Certified nurse-midwife\" means an advanced practice registered nurse who holds a current, valid license issued under this chapter and is designated as a certified nurse-midwife in accordance with section 4723.42 of the Revised Code and rules adopted by the board of nursing.",
+      "id": "4723.01-certified-nurse-midwife",
+      "normalized": "certified nurse-midwife",
+      "scope": "As used in this chapter:",
+      "section": "4723.01",
+      "source_title": "Section 4723.01 - Nurse definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4723.01",
+      "term": "Certified nurse-midwife"
+    },
+    {
+      "definition": "(J) \"Certified nurse practitioner\" means an advanced practice registered nurse who holds a current, valid license issued under this chapter and is designated as a certified nurse practitioner in accordance with section 4723.42 of the Revised Code and rules adopted by the board of nursing.",
+      "id": "4723.01-certified-nurse-practitioner",
+      "normalized": "certified nurse practitioner",
+      "scope": "As used in this chapter:",
+      "section": "4723.01",
+      "source_title": "Section 4723.01 - Nurse definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4723.01",
+      "term": "Certified nurse practitioner"
+    },
+    {
+      "definition": "(K) \"Physician\" means an individual authorized under Chapter 4731. of the Revised Code to practice medicine and surgery or osteopathic medicine and surgery.",
+      "id": "4723.01-physician",
+      "normalized": "physician",
+      "scope": "As used in this chapter:",
+      "section": "4723.01",
+      "source_title": "Section 4723.01 - Nurse definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4723.01",
+      "term": "Physician"
+    },
+    {
+      "definition": "(L) \"Collaboration\" or \"collaborating\" means the following:\n\n(1) In the case of a clinical nurse specialist or a certified nurse practitioner, that one or more podiatrists acting within the scope of practice of podiatry in accordance with section 4731.51 of the Revised Code and with whom the nurse has entered into a standard care arrangement or one or more physicians with whom the nurse has entered into a standard care arrangement are continuously available to communicate with the clinical nurse specialist or certified nurse practitioner either in person or by electronic communication;\n\n(2) In the case of a certified nurse-midwife, that one or more physicians with whom the certified nurse-midwife has entered into a standard care arrangement are continuously available to communicate with the certified nurse-midwife either in person or by electronic communication;\n\n(3) In the case of a certified registered nurse anesthetist, that a dentist who holds a conscious sedation or general anesthesia permit issued under Chapter 4715. of the Revised Code, physician, or podiatrist requests, either verbally or in writing, the nurse to perform patient care activities authorized by division (D) of section 4723.43 of the Revised Code and the request is made in accordance with policies established by the health care facility where the nurse and the dentist, physician, or podiatrist practice.",
+      "id": "4723.01-collaboration",
+      "normalized": "collaboration",
+      "scope": "As used in this chapter:",
+      "section": "4723.01",
+      "source_title": "Section 4723.01 - Nurse definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4723.01",
+      "term": "Collaboration"
+    },
+    {
+      "definition": "(L) \"Collaboration\" or \"collaborating\" means the following:\n\n(1) In the case of a clinical nurse specialist or a certified nurse practitioner, that one or more podiatrists acting within the scope of practice of podiatry in accordance with section 4731.51 of the Revised Code and with whom the nurse has entered into a standard care arrangement or one or more physicians with whom the nurse has entered into a standard care arrangement are continuously available to communicate with the clinical nurse specialist or certified nurse practitioner either in person or by electronic communication;\n\n(2) In the case of a certified nurse-midwife, that one or more physicians with whom the certified nurse-midwife has entered into a standard care arrangement are continuously available to communicate with the certified nurse-midwife either in person or by electronic communication;\n\n(3) In the case of a certified registered nurse anesthetist, that a dentist who holds a conscious sedation or general anesthesia permit issued under Chapter 4715. of the Revised Code, physician, or podiatrist requests, either verbally or in writing, the nurse to perform patient care activities authorized by division (D) of section 4723.43 of the Revised Code and the request is made in accordance with policies established by the health care facility where the nurse and the dentist, physician, or podiatrist practice.",
+      "id": "4723.01-collaborating",
+      "normalized": "collaborating",
+      "scope": "As used in this chapter:",
+      "section": "4723.01",
+      "source_title": "Section 4723.01 - Nurse definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4723.01",
+      "term": "collaborating"
+    },
+    {
+      "definition": "For purposes of this division, division (D) of section 4723.43 of the Revised Code, and sections 4723.433 and 4723.434 of the Revised Code, \"health care facility\" means an ambulatory surgical facility, cardiovascular or vascular center, freestanding birthing center, hospital, or office of a dentist, physician, or podiatrist.",
+      "id": "4723.01-health-care-facility",
+      "normalized": "health care facility",
+      "scope": "As used in this chapter:",
+      "section": "4723.01",
+      "source_title": "Section 4723.01 - Nurse definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4723.01",
+      "term": "health care facility"
+    },
+    {
+      "definition": "(M) \"Standard care arrangement\" means a written, formal guide for planning and evaluating a patient's health care that is developed by one or more collaborating physicians or podiatrists and a clinical nurse specialist, certified nurse-midwife, or certified nurse practitioner and meets the requirements of section 4723.431 of the Revised Code.",
+      "id": "4723.01-standard-care-arrangement",
+      "normalized": "standard care arrangement",
+      "scope": "As used in this chapter:",
+      "section": "4723.01",
+      "source_title": "Section 4723.01 - Nurse definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4723.01",
+      "term": "Standard care arrangement"
+    },
+    {
+      "definition": "(N) \"Advanced practice registered nurse\" means an individual who holds a current, valid license issued under this chapter that authorizes the practice of nursing as an advanced practice registered nurse and is designated as any of the following:\n\n(1) A certified registered nurse anesthetist;\n\n(2) A clinical nurse specialist;\n\n(3) A certified nurse-midwife;\n\n(4) A certified nurse practitioner.",
+      "id": "4723.01-advanced-practice-registered-nurse",
+      "normalized": "advanced practice registered nurse",
+      "scope": "As used in this chapter:",
+      "section": "4723.01",
+      "source_title": "Section 4723.01 - Nurse definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4723.01",
+      "term": "Advanced practice registered nurse"
+    },
+    {
+      "definition": "(O) \"Practice of nursing as an advanced practice registered nurse\" means providing to individuals and groups nursing care that requires knowledge and skill obtained from advanced formal education, training, and clinical experience. Such nursing care includes the care described in section 4723.43 of the Revised Code.",
+      "id": "4723.01-practice-of-nursing-as-an-advanced-practice-registered-nurse",
+      "normalized": "practice of nursing as an advanced practice registered nurse",
+      "scope": "As used in this chapter:",
+      "section": "4723.01",
+      "source_title": "Section 4723.01 - Nurse definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4723.01",
+      "term": "Practice of nursing as an advanced practice registered nurse"
+    },
+    {
+      "definition": "(P) \"Dialysis care\" means the care and procedures that a dialysis technician or dialysis technician intern is authorized to provide and perform, as specified in section 4723.72 of the Revised Code.",
+      "id": "4723.01-dialysis-care",
+      "normalized": "dialysis care",
+      "scope": "As used in this chapter:",
+      "section": "4723.01",
+      "source_title": "Section 4723.01 - Nurse definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4723.01",
+      "term": "Dialysis care"
+    },
+    {
+      "definition": "(Q) \"Dialysis technician\" means an individual who holds a current, valid certificate to practice as a dialysis technician issued under section 4723.75 of the Revised Code.",
+      "id": "4723.01-dialysis-technician",
+      "normalized": "dialysis technician",
+      "scope": "As used in this chapter:",
+      "section": "4723.01",
+      "source_title": "Section 4723.01 - Nurse definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4723.01",
+      "term": "Dialysis technician"
+    },
+    {
+      "definition": "(R) \"Dialysis technician intern\" means an individual who has not passed the dialysis technician certification examination required by section 4723.751 of the Revised Code, but who has successfully completed a dialysis training program approved by the board of nursing under section 4723.74 of the Revised Code within the previous eighteen months.",
+      "id": "4723.01-dialysis-technician-intern",
+      "normalized": "dialysis technician intern",
+      "scope": "As used in this chapter:",
+      "section": "4723.01",
+      "source_title": "Section 4723.01 - Nurse definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4723.01",
+      "term": "Dialysis technician intern"
+    },
+    {
+      "definition": "(S) \"Certified community health worker\" means an individual who holds a current, valid certificate as a community health worker issued under section 4723.85 of the Revised Code.",
+      "id": "4723.01-certified-community-health-worker",
+      "normalized": "certified community health worker",
+      "scope": "As used in this chapter:",
+      "section": "4723.01",
+      "source_title": "Section 4723.01 - Nurse definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4723.01",
+      "term": "Certified community health worker"
+    },
+    {
+      "definition": "(T) \"Medication aide\" means an individual who holds a current, valid certificate issued under this chapter that authorizes the individual to administer medication in accordance with section 4723.67 of the Revised Code.",
+      "id": "4723.01-medication-aide",
+      "normalized": "medication aide",
+      "scope": "As used in this chapter:",
+      "section": "4723.01",
+      "source_title": "Section 4723.01 - Nurse definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4723.01",
+      "term": "Medication aide"
+    },
+    {
+      "definition": "(U) \"Nursing specialty\" means a specialty in practice as a certified registered nurse anesthetist, clinical nurse specialist, certified nurse-midwife, or certified nurse practitioner.",
+      "id": "4723.01-nursing-specialty",
+      "normalized": "nursing specialty",
+      "scope": "As used in this chapter:",
+      "section": "4723.01",
+      "source_title": "Section 4723.01 - Nurse definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4723.01",
+      "term": "Nursing specialty"
+    },
+    {
+      "definition": "(V) \"Physician assistant\" means an individual who is licensed to practice as a physician assistant under Chapter 4730. of the Revised Code.",
+      "id": "4723.01-physician-assistant",
+      "normalized": "physician assistant",
+      "scope": "As used in this chapter:",
+      "section": "4723.01",
+      "source_title": "Section 4723.01 - Nurse definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4723.01",
+      "term": "Physician assistant"
+    },
+    {
+      "definition": "(W) \"Podiatrist\" means an individual authorized under Chapter 4731. of the Revised Code to practice podiatric medicine and surgery.",
+      "id": "4723.01-podiatrist",
+      "normalized": "podiatrist",
+      "scope": "As used in this chapter:",
+      "section": "4723.01",
+      "source_title": "Section 4723.01 - Nurse definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4723.01",
+      "term": "Podiatrist"
+    },
+    {
+      "definition": "(X) \"Dentist\" means an individual who is licensed to practice dentistry under Chapter 4715. of the Revised Code.\n\nLast updated March 27, 2026 at 1:26 PM",
+      "id": "4723.01-dentist",
+      "normalized": "dentist",
+      "scope": "As used in this chapter:",
+      "section": "4723.01",
+      "source_title": "Section 4723.01 - Nurse definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4723.01",
+      "term": "Dentist"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "4723.18",
+      "number": "4723.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.18"
+    },
+    {
+      "kind": "section",
+      "label": "4723.181",
+      "number": "4723.181",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.181"
+    },
+    {
+      "kind": "section",
+      "label": "4723.42",
+      "number": "4723.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.42"
+    },
+    {
+      "kind": "section",
+      "label": "4731.51",
+      "number": "4731.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.51"
+    },
+    {
+      "kind": "section",
+      "label": "4723.43",
+      "number": "4723.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.43"
+    },
+    {
+      "kind": "section",
+      "label": "4723.433",
+      "number": "4723.433",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.433"
+    },
+    {
+      "kind": "section",
+      "label": "4723.434",
+      "number": "4723.434",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.434"
+    },
+    {
+      "kind": "section",
+      "label": "4723.431",
+      "number": "4723.431",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.431"
+    },
+    {
+      "kind": "section",
+      "label": "4723.72",
+      "number": "4723.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.72"
+    },
+    {
+      "kind": "section",
+      "label": "4723.75",
+      "number": "4723.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.75"
+    },
+    {
+      "kind": "section",
+      "label": "4723.751",
+      "number": "4723.751",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.751"
+    },
+    {
+      "kind": "section",
+      "label": "4723.74",
+      "number": "4723.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.74"
+    },
+    {
+      "kind": "section",
+      "label": "4723.85",
+      "number": "4723.85",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.85"
+    },
+    {
+      "kind": "section",
+      "label": "4723.67",
+      "number": "4723.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.67"
+    }
+  ],
+  "scraped": "2026-07-02T20:06:49+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4723.01",
+  "title": "Section 4723.01 - Nurse definitions."
+}

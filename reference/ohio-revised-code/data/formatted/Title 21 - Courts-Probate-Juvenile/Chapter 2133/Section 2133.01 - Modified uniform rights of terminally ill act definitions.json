@@ -1,0 +1,350 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Adult\" means an individual who is eighteen years of age or older.",
+      "id": "2133.01-adult",
+      "normalized": "adult",
+      "scope": "Unless the context otherwise requires, as used in sections 2133.01 to 2133.15 of the Revised Code:",
+      "section": "2133.01",
+      "source_title": "Section 2133.01 - Modified uniform rights of terminally ill act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2133.01",
+      "term": "Adult"
+    },
+    {
+      "definition": "(B) \"Attending physician\" means the physician to whom a declarant or other patient, or the family of a declarant or other patient, has assigned primary responsibility for the treatment or care of the declarant or other patient, or, if the responsibility has not been assigned, the physician who has accepted that responsibility.",
+      "id": "2133.01-attending-physician",
+      "normalized": "attending physician",
+      "scope": "Unless the context otherwise requires, as used in sections 2133.01 to 2133.15 of the Revised Code:",
+      "section": "2133.01",
+      "source_title": "Section 2133.01 - Modified uniform rights of terminally ill act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2133.01",
+      "term": "Attending physician"
+    },
+    {
+      "definition": "(C) \"Comfort care\" means any of the following:\n\n(1) Nutrition when administered to diminish the pain or discomfort of a declarant or other patient, but not to postpone the declarant's or other patient's death;\n\n(2) Hydration when administered to diminish the pain or discomfort of a declarant or other patient, but not to postpone the declarant's or other patient's death;\n\n(3) Any other medical or nursing procedure, treatment, intervention, or other measure that is taken to diminish the pain or discomfort of a declarant or other patient, but not to postpone the declarant's or other patient's death.",
+      "id": "2133.01-comfort-care",
+      "normalized": "comfort care",
+      "scope": "Unless the context otherwise requires, as used in sections 2133.01 to 2133.15 of the Revised Code:",
+      "section": "2133.01",
+      "source_title": "Section 2133.01 - Modified uniform rights of terminally ill act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2133.01",
+      "term": "Comfort care"
+    },
+    {
+      "definition": "(D) \"Consulting physician\" means a physician who, in conjunction with the attending physician of a declarant or other patient, makes one or more determinations that are required to be made by the attending physician, or to be made by the attending physician and one other physician, by an applicable provision of this chapter, to a reasonable degree of medical certainty and in accordance with reasonable medical standards.",
+      "id": "2133.01-consulting-physician",
+      "normalized": "consulting physician",
+      "scope": "Unless the context otherwise requires, as used in sections 2133.01 to 2133.15 of the Revised Code:",
+      "section": "2133.01",
+      "source_title": "Section 2133.01 - Modified uniform rights of terminally ill act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2133.01",
+      "term": "Consulting physician"
+    },
+    {
+      "definition": "(E) \"Declarant\" means any adult who has executed a declaration in accordance with section 2133.02 of the Revised Code.",
+      "id": "2133.01-declarant",
+      "normalized": "declarant",
+      "scope": "Unless the context otherwise requires, as used in sections 2133.01 to 2133.15 of the Revised Code:",
+      "section": "2133.01",
+      "source_title": "Section 2133.01 - Modified uniform rights of terminally ill act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2133.01",
+      "term": "Declarant"
+    },
+    {
+      "definition": "(F) \"Declaration\" means a written document executed in accordance with section 2133.02 of the Revised Code.",
+      "id": "2133.01-declaration",
+      "normalized": "declaration",
+      "scope": "Unless the context otherwise requires, as used in sections 2133.01 to 2133.15 of the Revised Code:",
+      "section": "2133.01",
+      "source_title": "Section 2133.01 - Modified uniform rights of terminally ill act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2133.01",
+      "term": "Declaration"
+    },
+    {
+      "definition": "(G) \"Durable power of attorney for health care\" means a document created pursuant to sections 1337.11 to 1337.17 of the Revised Code.",
+      "id": "2133.01-durable-power-of-attorney-for-health-care",
+      "normalized": "durable power of attorney for health care",
+      "scope": "Unless the context otherwise requires, as used in sections 2133.01 to 2133.15 of the Revised Code:",
+      "section": "2133.01",
+      "source_title": "Section 2133.01 - Modified uniform rights of terminally ill act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2133.01",
+      "term": "Durable power of attorney for health care"
+    },
+    {
+      "definition": "(H) \"Guardian\" means a person appointed by a probate court pursuant to Chapter 2111. of the Revised Code to have the care and management of the person of an incompetent.",
+      "id": "2133.01-guardian",
+      "normalized": "guardian",
+      "scope": "Unless the context otherwise requires, as used in sections 2133.01 to 2133.15 of the Revised Code:",
+      "section": "2133.01",
+      "source_title": "Section 2133.01 - Modified uniform rights of terminally ill act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2133.01",
+      "term": "Guardian"
+    },
+    {
+      "definition": "(I) \"Health care facility\" means any of the following:\n\n(1) A hospital;\n\n(2) A hospice care program, pediatric respite care program, or other institution that specializes in comfort care of patients in a terminal condition or in a permanently unconscious state;\n\n(3) A nursing home or residential care facility, as defined in section 3721.01 of the Revised Code;\n\n(4) A home health agency and any residential facility where a person is receiving care under the direction of a home health agency;\n\n(5) An intermediate care facility for individuals with intellectual disabilities.",
+      "id": "2133.01-health-care-facility",
+      "normalized": "health care facility",
+      "scope": "Unless the context otherwise requires, as used in sections 2133.01 to 2133.15 of the Revised Code:",
+      "section": "2133.01",
+      "source_title": "Section 2133.01 - Modified uniform rights of terminally ill act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2133.01",
+      "term": "Health care facility"
+    },
+    {
+      "definition": "(J) \"Health care personnel\" means physicians, nurses, physician assistants, emergency medical technicians-basic, emergency medical technicians-intermediate, emergency medical technicians-paramedic, medical technicians, dietitians, other authorized persons acting under the direction of an attending physician, and administrators of health care facilities.",
+      "id": "2133.01-health-care-personnel",
+      "normalized": "health care personnel",
+      "scope": "Unless the context otherwise requires, as used in sections 2133.01 to 2133.15 of the Revised Code:",
+      "section": "2133.01",
+      "source_title": "Section 2133.01 - Modified uniform rights of terminally ill act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2133.01",
+      "term": "Health care personnel"
+    },
+    {
+      "definition": "(K) \"Home health agency\" has the same meaning as in section 3740.01 of the Revised Code.\n\n(L) \"Hospice care program\" and \"pediatric respite care program\" have the same meanings as in section 3712.01 of the Revised Code.\n\n(M) \"Hospital\" has the same meanings as in sections 3701.01 , 3727.01 , and 5122.01 of the Revised Code.",
+      "id": "2133.01-home-health-agency",
+      "normalized": "home health agency",
+      "scope": "Unless the context otherwise requires, as used in sections 2133.01 to 2133.15 of the Revised Code:",
+      "section": "2133.01",
+      "source_title": "Section 2133.01 - Modified uniform rights of terminally ill act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2133.01",
+      "term": "Home health agency"
+    },
+    {
+      "definition": "(N) \"Hydration\" means fluids that are artificially or technologically administered.",
+      "id": "2133.01-hydration",
+      "normalized": "hydration",
+      "scope": "Unless the context otherwise requires, as used in sections 2133.01 to 2133.15 of the Revised Code:",
+      "section": "2133.01",
+      "source_title": "Section 2133.01 - Modified uniform rights of terminally ill act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2133.01",
+      "term": "Hydration"
+    },
+    {
+      "definition": "(O) \"Incompetent\" has the same meaning as in section 2111.01 of the Revised Code.",
+      "id": "2133.01-incompetent",
+      "normalized": "incompetent",
+      "scope": "Unless the context otherwise requires, as used in sections 2133.01 to 2133.15 of the Revised Code:",
+      "section": "2133.01",
+      "source_title": "Section 2133.01 - Modified uniform rights of terminally ill act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2133.01",
+      "term": "Incompetent"
+    },
+    {
+      "definition": "(P) \"Intermediate care facility for the individuals with intellectual disabilities\" has the same meaning as in section 5124.01 of the Revised Code.",
+      "id": "2133.01-intermediate-care-facility-for-the-individuals-with-intellectual-disabilities",
+      "normalized": "intermediate care facility for the individuals with intellectual disabilities",
+      "scope": "Unless the context otherwise requires, as used in sections 2133.01 to 2133.15 of the Revised Code:",
+      "section": "2133.01",
+      "source_title": "Section 2133.01 - Modified uniform rights of terminally ill act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2133.01",
+      "term": "Intermediate care facility for the individuals with intellectual disabilities"
+    },
+    {
+      "definition": "(Q) \"Life-sustaining treatment\" means any medical procedure, treatment, intervention, or other measure that, when administered to a qualified patient or other patient, will serve principally to prolong the process of dying.",
+      "id": "2133.01-life-sustaining-treatment",
+      "normalized": "life-sustaining treatment",
+      "scope": "Unless the context otherwise requires, as used in sections 2133.01 to 2133.15 of the Revised Code:",
+      "section": "2133.01",
+      "source_title": "Section 2133.01 - Modified uniform rights of terminally ill act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2133.01",
+      "term": "Life-sustaining treatment"
+    },
+    {
+      "definition": "(R) \"Nurse\" means a person who is licensed to practice nursing as a registered nurse or to practice practical nursing as a licensed practical nurse pursuant to Chapter 4723. of the Revised Code.",
+      "id": "2133.01-nurse",
+      "normalized": "nurse",
+      "scope": "Unless the context otherwise requires, as used in sections 2133.01 to 2133.15 of the Revised Code:",
+      "section": "2133.01",
+      "source_title": "Section 2133.01 - Modified uniform rights of terminally ill act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2133.01",
+      "term": "Nurse"
+    },
+    {
+      "definition": "(S) \"Nursing home\" has the same meaning as in section 3721.01 of the Revised Code.",
+      "id": "2133.01-nursing-home",
+      "normalized": "nursing home",
+      "scope": "Unless the context otherwise requires, as used in sections 2133.01 to 2133.15 of the Revised Code:",
+      "section": "2133.01",
+      "source_title": "Section 2133.01 - Modified uniform rights of terminally ill act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2133.01",
+      "term": "Nursing home"
+    },
+    {
+      "definition": "(T) \"Nutrition\" means sustenance that is artificially or technologically administered.",
+      "id": "2133.01-nutrition",
+      "normalized": "nutrition",
+      "scope": "Unless the context otherwise requires, as used in sections 2133.01 to 2133.15 of the Revised Code:",
+      "section": "2133.01",
+      "source_title": "Section 2133.01 - Modified uniform rights of terminally ill act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2133.01",
+      "term": "Nutrition"
+    },
+    {
+      "definition": "(U) \"Permanently unconscious state\" means a state of permanent unconsciousness in a declarant or other patient that, to a reasonable degree of medical certainty as determined in accordance with reasonable medical standards by the declarant's or other patient's attending physician and one other physician who has examined the declarant or other patient, is characterized by both of the following:\n\n(1) Irreversible unawareness of one's being and environment.\n\n(2) Total loss of cerebral cortical functioning, resulting in the declarant or other patient having no capacity to experience pain or suffering.",
+      "id": "2133.01-permanently-unconscious-state",
+      "normalized": "permanently unconscious state",
+      "scope": "Unless the context otherwise requires, as used in sections 2133.01 to 2133.15 of the Revised Code:",
+      "section": "2133.01",
+      "source_title": "Section 2133.01 - Modified uniform rights of terminally ill act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2133.01",
+      "term": "Permanently unconscious state"
+    },
+    {
+      "definition": "(V) \"Person\" has the same meaning as in section 1.59 of the Revised Code and additionally includes political subdivisions and governmental agencies, boards, commissions, departments, institutions, offices, and other instrumentalities.",
+      "id": "2133.01-person",
+      "normalized": "person",
+      "scope": "Unless the context otherwise requires, as used in sections 2133.01 to 2133.15 of the Revised Code:",
+      "section": "2133.01",
+      "source_title": "Section 2133.01 - Modified uniform rights of terminally ill act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2133.01",
+      "term": "Person"
+    },
+    {
+      "definition": "(W) \"Physician\" means a person who is authorized under Chapter 4731. of the Revised Code to practice medicine and surgery or osteopathic medicine and surgery.\n\n(X) \"Political subdivision\" and \"state\" have the same meanings as in section 2744.01 of the Revised Code.",
+      "id": "2133.01-physician",
+      "normalized": "physician",
+      "scope": "Unless the context otherwise requires, as used in sections 2133.01 to 2133.15 of the Revised Code:",
+      "section": "2133.01",
+      "source_title": "Section 2133.01 - Modified uniform rights of terminally ill act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2133.01",
+      "term": "Physician"
+    },
+    {
+      "definition": "(Y) \"Professional disciplinary action\" means action taken by the board or other entity that regulates the professional conduct of health care personnel, including the state medical board and the board of nursing.",
+      "id": "2133.01-professional-disciplinary-action",
+      "normalized": "professional disciplinary action",
+      "scope": "Unless the context otherwise requires, as used in sections 2133.01 to 2133.15 of the Revised Code:",
+      "section": "2133.01",
+      "source_title": "Section 2133.01 - Modified uniform rights of terminally ill act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2133.01",
+      "term": "Professional disciplinary action"
+    },
+    {
+      "definition": "(Z) \"Qualified patient\" means an adult who has executed a declaration and has been determined to be in a terminal condition or in a permanently unconscious state.",
+      "id": "2133.01-qualified-patient",
+      "normalized": "qualified patient",
+      "scope": "Unless the context otherwise requires, as used in sections 2133.01 to 2133.15 of the Revised Code:",
+      "section": "2133.01",
+      "source_title": "Section 2133.01 - Modified uniform rights of terminally ill act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2133.01",
+      "term": "Qualified patient"
+    },
+    {
+      "definition": "(AA) \"Terminal condition\" means an irreversible, incurable, and untreatable condition caused by disease, illness, or injury from which, to a reasonable degree of medical certainty as determined in accordance with reasonable medical standards by a declarant's or other patient's attending physician and one other physician who has examined the declarant or other patient, both of the following apply:\n\n(1) There can be no recovery.\n\n(2) Death is likely to occur within a relatively short time if life-sustaining treatment is not administered.",
+      "id": "2133.01-terminal-condition",
+      "normalized": "terminal condition",
+      "scope": "Unless the context otherwise requires, as used in sections 2133.01 to 2133.15 of the Revised Code:",
+      "section": "2133.01",
+      "source_title": "Section 2133.01 - Modified uniform rights of terminally ill act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2133.01",
+      "term": "Terminal condition"
+    },
+    {
+      "definition": "(BB) \"Tort action\" means a civil action for damages for injury, death, or loss to person or property, other than a civil action for damages for breach of a contract or another agreement between persons.\n\nLast updated July 26, 2021 at 9:05 AM",
+      "id": "2133.01-tort-action",
+      "normalized": "tort action",
+      "scope": "Unless the context otherwise requires, as used in sections 2133.01 to 2133.15 of the Revised Code:",
+      "section": "2133.01",
+      "source_title": "Section 2133.01 - Modified uniform rights of terminally ill act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2133.01",
+      "term": "Tort action"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2133.01",
+      "number": "2133.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2133.01"
+    },
+    {
+      "kind": "section",
+      "label": "2133.15",
+      "number": "2133.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2133.15"
+    },
+    {
+      "kind": "section",
+      "label": "2133.02",
+      "number": "2133.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2133.02"
+    },
+    {
+      "kind": "section",
+      "label": "1337.11",
+      "number": "1337.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1337.11"
+    },
+    {
+      "kind": "section",
+      "label": "1337.17",
+      "number": "1337.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1337.17"
+    },
+    {
+      "kind": "section",
+      "label": "3721.01",
+      "number": "3721.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.01"
+    },
+    {
+      "kind": "section",
+      "label": "3740.01",
+      "number": "3740.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3740.01"
+    },
+    {
+      "kind": "section",
+      "label": "3712.01",
+      "number": "3712.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3712.01"
+    },
+    {
+      "kind": "section",
+      "label": "3701.01",
+      "number": "3701.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3701.01"
+    },
+    {
+      "kind": "section",
+      "label": "3727.01",
+      "number": "3727.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3727.01"
+    },
+    {
+      "kind": "section",
+      "label": "5122.01",
+      "number": "5122.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5122.01"
+    },
+    {
+      "kind": "section",
+      "label": "2111.01",
+      "number": "2111.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.01"
+    },
+    {
+      "kind": "section",
+      "label": "5124.01",
+      "number": "5124.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01"
+    },
+    {
+      "kind": "section",
+      "label": "1.59",
+      "number": "1.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1.59"
+    },
+    {
+      "kind": "section",
+      "label": "2744.01",
+      "number": "2744.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2744.01"
+    }
+  ],
+  "scraped": "2026-07-02T19:41:51+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2133.01",
+  "title": "Section 2133.01 - Modified uniform rights of terminally ill act definitions."
+}

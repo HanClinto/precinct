@@ -1,0 +1,14 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5739.11
+Scraped: 2026-07-02T20:15:14+00:00
+
+# Section 5739.11 - Records open to inspection - exemption certificate.
+
+**Effective:** October 21, 2003
+
+**Latest Legislation:** Senate Bill 37 - 125th General Assembly
+
+As used in this section, "food service operator" means a vendor who conducts a food service operation under Chapter 3717. of the Revised Code.
+
+Each vendor shall keep complete and accurate records of sales, together with a record of the tax collected on the sales, which shall be the amount due under sections 5739.01 to 5739.31 of the Revised Code, and shall keep all invoices, bills of lading, and other such pertinent documents. Alternatively, any food service operator who has not been convicted under section 5739.99 of the Revised Code, with respect to the vendor's food service operation, may keep a sample of primary sales records. Such sample shall consist of all sales invoices, guest checks, cash register tapes, and other such documents for each of fourteen days in every calendar quarter. The specific days to be included in the sample shall be determined by the tax commissioner and entered in the commissioner's journal within ten days after the close of every calendar quarter. The tax commissioner shall notify each such operator registered pursuant to section 5739.17 of the Revised Code who requests such notification of the days to be included in each sample by the last day of the month following the close of each calendar quarter. The notice also shall contain a statement that destruction of primary records for time periods other than the specified sample period is optional, and that some operators may wish to keep all such records for four full years so as to be able to clearly demonstrate that they have fully complied with this chapter and Chapter 5741. of the Revised Code. The tax commissioner shall further make such determination known through a general news release.
+
+Each vendor shall keep exemption certificates required to be obtained under section 5739.03 of the Revised Code. If the vendor makes sales not subject to the tax and not required to be evidenced by an exemption certificate, the vendor's records shall show the identity of the purchaser, if the sale was exempted by reason of such identity, or the nature of the transaction, if exempted for any other reason. Vendors are not required to differentiate in record-keeping between sales that are exempt from taxation under division (B)(2) of section 5739.02 of the Revised Code and those that are exempt under division (B)(16) of that section. Such records and other documents required to be kept by this section shall be open during business hours to the inspection of the tax commissioner, and shall be preserved for a period of four years, unless the commissioner, in writing, consents to their destruction within that period, or by order requires that they be kept longer.

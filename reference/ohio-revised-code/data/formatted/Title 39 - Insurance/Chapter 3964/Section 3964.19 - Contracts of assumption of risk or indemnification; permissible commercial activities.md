@@ -1,0 +1,102 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3964.19
+Scraped: 2026-07-02T20:03:38+00:00
+
+# Section 3964.19 - Contracts of assumption of risk or indemnification; permissible commercial activities.
+
+**Effective:** January 1, 2021
+
+**Latest Legislation:** House Bill 339 - 133rd General Assembly
+
+(A) As used in sections 3964.19 to 3964.194 of the Revised Code:
+
+(1) "Counterparty" means a special purpose financial captive insurance company's parent or an affiliated entity that is an insurer domiciled in this state that cedes life insurance risks to the special purpose financial captive insurance company pursuant to a special purpose financial captive insurance company contract.
+
+(2) "Insolvency" or "insolvent" means that the special purpose financial captive insurance company is unable to pay its obligations when they are due, unless those obligations are the subject of a bona fide dispute.
+
+(3) "Insurance securitization" means a package of related risk transfer instruments, capital market offerings, and facilitating administrative agreements, for which a special purpose financial captive insurance company obtains proceeds, either directly or indirectly, through the issuance of securities, where the investment risk to the holders of the securities is contingent upon the obligations of the special purpose financial captive insurance company to the counterparty under the special purpose financial captive insurance company contract, in accordance with the transaction terms, and pursuant to this section. This includes situations where the securitization proceeds are held in trust to secure the obligations of the special purpose financial captive insurance company under one or more special purpose financial captive insurance company contracts.
+
+(4) "Organizational document" means the special purpose financial captive insurance company's articles of incorporation, bylaws, code of regulations, operating agreement, or other foundational documents that establish the special purpose financial captive insurance company as a legal entity.
+
+(5) "Securities" means debt obligations, equity investments, surplus certificates, surplus notes, funding agreements, derivatives, and other legal forms of financial instruments.
+
+(6) "Special purpose financial captive insurance company contract" means a contract between a special purpose financial captive insurance company and a counterparty pursuant to which the special purpose financial captive insurance company agrees to provide insurance or reinsurance protection to the counterparty for risks associated with the counterparty's insurance or reinsurance business, and includes a contract entered into under division (F) of this section.
+
+(7) "Special purpose financial captive insurance company securities" means the securities issued by a special purpose financial captive insurance company.
+
+(B) The requirements of this section shall not apply to a specific special purpose financial captive insurance company if the superintendent finds a specific requirement is inappropriate due to the nature of the risks to be insured by the special purpose financial captive insurance company and if the special purpose financial captive insurance company meets the criteria established by rules and regulations adopted and promulgated by the superintendent.
+
+(C)(1) A special purpose financial captive insurance company may not issue a contract for assumption of risk or indemnification of loss other than a special purpose financial captive insurance company contract. However, the special purpose financial captive insurance company may cede a risk assumed through a special purpose financial captive insurance company contract to a third-party reinsurer through the purchase of reinsurance or retrocession protection if approved by the superintendent.
+
+(2) A special purpose financial captive insurance company may enter into contracts and conduct other commercial activities related or incidental to and necessary to fulfill the purposes of special purpose financial captive insurance company contracts, insurance securitization, and this section. Those activities may include:
+
+(a) Entering into special purpose financial captive insurance company contracts;
+
+(b) Issuing securities of the special purpose financial captive insurance company in accordance with applicable securities law;
+
+(c) Complying with the terms of special purpose financial captive insurance company contracts or securities;
+
+(d) Entering into trust, swap, tax, administration, reimbursement, or fiscal agent transactions;
+
+(e) Complying with trust indenture, reinsurance, retrocession, and other agreements necessary or incidental to effectuate an insurance securitization in compliance with this section and in the plan of operation considered by the superintendent under division (F)(5) of section 3964.03 of the Revised Code.
+
+(D)(1) A special purpose financial captive insurance company may issue securities, subject to and in accordance with applicable law, its plan of operation considered by the superintendent under division (E) of section 3964.03 of the Revised Code, and its organizational documents.
+
+(2) A special purpose financial captive insurance company, in connection with the issuance of securities, may enter into and perform all of its obligations under any required contracts to facilitate the issuance of these securities.
+
+(3) The obligation to repay principal or interest, or both, on the securities issued by the special purpose financial captive insurance company shall reflect the risk associated with the obligations of the special purpose financial captive insurance company to the counterparty under the special purpose financial captive insurance company contract.
+
+(E)(1)(a) A special purpose financial captive insurance company may enter into the following types of transactions for the purposes described in division (E)(1)(b) of this section:
+
+(i) Asset management agreements, including swap agreements;
+
+(ii) Guaranteed investment contracts;
+
+(iii) Other transactions with the objective of reducing timing differences in the funding of upfront, or ongoing, transaction expenses, or managing asset, credit, prepayment, or interest rate risk of the investments of the special purpose financial captive insurance company.
+
+(b) The purpose of the transactions described in division (E)(1)(a) of this section shall be any of the following:
+
+(i) To ensure that the investments are sufficient to assure payment or repayment of the securities, and related interest or principal payments, issued pursuant to a special purpose financial captive insurance company insurance securitization transaction;
+
+(ii) To ensure that the investments are sufficient to assure payment or repayment of the obligations required under a special purpose financial captive insurance company contract;
+
+(iii) Any other purpose approved by the superintendent.
+
+(2) An asset management agreement shall not be entered into under this section by a special purpose financial captive insurance company unless it has been approved by the superintendent.
+
+(F)(1) If a special purpose financial captive insurance company has entered into a special purpose financial captive insurance company contract with a counterparty and the special purpose financial captive insurance company has conducted an insurance securitization that is made up, in part or in whole, of the risks of that contract, then the special purpose financial captive insurance company may enter into a second contract with the counterparty under which the counterparty is held liable for those losses or other obligations that were securitized.
+
+(2) Such obligations may be funded and secured with assets held in trust for the benefit of the counterparty pursuant to agreements contemplated by this section and invested in a manner that meet the criteria in sections 3907.14 and 3907.141 of the Revised Code.
+
+(G)(1) A special purpose financial captive insurance company may enter into agreements with affiliated companies and third parties and conduct business necessary to fulfill its obligations and administrative duties incidental to an insurance securitization and a special purpose financial captive insurance company contract entered into under division (F) of this section.
+
+(2) The agreements may include management and administrative services agreements and other allocation and cost sharing agreements, or swap and asset management agreements, or both, or agreements for other contemplated types of transactions provided in this section.
+
+(H) A special purpose financial captive insurance company contract entered into under division (F) of this section shall contain all of the following:
+
+(1) A requirement that the special purpose financial captive insurance company do either of the following:
+
+(a) Enter into a trust agreement specifying what recoverables or reserves, or both, the agreement is to cover and to establish a trust account for the benefit of the counterparty and the security holders;
+
+(b) Establish such other methods of security acceptable to the superintendent.
+
+(2) A stipulation that assets deposited in the trust account shall be valued in accordance with their current fair-market value and shall consist only of investments permitted by sections 3907.14 and 3907.141 of the Revised Code;
+
+(3) A requirement that, if a trust arrangement is used, the special purpose financial captive insurance company, before depositing assets with the trustee, execute assignments, execute endorsements in blank, or take such actions as are necessary to transfer legal title to the trustee of all assets requiring assignment, in order that the counterparty, or the trustee upon the direction of the counterparty, may negotiate whenever necessary the assets without consent or signature from the special purpose financial captive insurance company or another entity;
+
+(4) A stipulation that, if a trust arrangement is used, the special purpose financial captive insurance company and the counterparty agree that the assets in the trust account established pursuant to the contract:
+
+(a) May be withdrawn by the counterparty, or the trustee on its behalf, at any time, but only in accordance with the terms of the contract;
+
+(b) Shall be utilized and applied by the counterparty, without diminution because of insolvency on the part of the counterparty or the special purpose financial captive insurance company, only for the purposes set forth in the credit for reinsurance laws and rules of this state. As used in this division, "counterparty" includes any successor of the counterparty by operation of law, including, subject to the provisions of this section, but without further limitation, any liquidator, rehabilitator, or receiver of the counterparty.
+
+(I) A special purpose financial captive insurance company contract entered into under division (F) of this section may contain provisions that give the special purpose financial captive insurance company the right to seek approval from the counterparty to withdraw from the trust all or part of the assets, or income from them, contained in the trust and to transfer the assets to the special purpose financial captive insurance company if such provisions comply with the credit for reinsurance laws and rules of this state.
+
+(J)(1) A special purpose financial captive insurance company contract entered into under division (F) of this section, meeting the requirements of this section, shall be granted credit for reinsurance treatment or otherwise qualify as an asset or a reduction from liability for reinsurance ceded by a domestic insurer to a special purpose financial captive insurance company as an assuming insurer for the benefit of the counterparty if both of the following apply:
+
+(a) The assets are held or invested in one or more of the forms allowed in sections 3907.14 and 3907.141 of the Revised Code.
+
+(b) The agreement is in compliance with section 3901.64 of the Revised Code.
+
+(2) The contract shall be granted credit or otherwise qualify as an asset or reduction from liability only to the extent of the value of the assets held in trust for, or letters of credit, that meet the requirements set forth in division (C) of section 3964.05 of the Revised Code, or as approved by the superintendent, for the benefit of the counterparty under the special purpose financial captive insurance company contract.
+
+(K) A special purpose financial captive insurance company may make investments that meet the qualifications set forth in sections 3907.14 and 3907.141 of the Revised Code, however these investments shall not be subject to any limitations contained in such sections as to invested amounts. The superintendent may prohibit or limit any investment that threatens the solvency or liquidity of a special purpose financial captive insurance company or that is not made in accordance with the approved plan of operation.

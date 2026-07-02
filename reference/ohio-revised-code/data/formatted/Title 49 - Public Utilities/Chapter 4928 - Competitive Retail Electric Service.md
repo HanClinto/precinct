@@ -1,0 +1,117 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-4928
+Scraped: 2026-07-02T20:09:26+00:00
+
+# Chapter 4928 - Competitive Retail Electric Service
+
+## Sections
+
+- Section 4928.01 - Competitive retail electric service definitions.
+- Section 4928.02 - State policy.
+- Section 4928.03 - Identification of competitive services and noncompetitive services.
+- Section 4928.04 - Additional competitive services.
+- Section 4928.041 - Competitive retail electric service from electric utility prohibited.
+- Section 4928.05 - Extent of exemptions.
+- Section 4928.06 - Commission to ensure competitive retail electric service.
+- Section 4928.07 - Separate pricing of services on bill.
+- Section 4928.08 - Certification to provide retail electric competitive service.
+- Section 4928.09 - Consent to jurisdiction - appointment of statutory agent.
+- Section 4928.10 - Minimum service requirements for competitive services.
+- Section 4928.101 - Small commercial customer consumer protections.
+- Section 4928.102 - Fixed-to-variable electric supplier rate change notice to customer.
+- Section 4928.103 - Rules for changing electric supplier using valid identification.
+- Section 4928.104 - Alternative billing for mercantile customers.
+- Section 4928.105 - Expedited return of mercantile customer to standard service offer.
+- Section 4928.11 - Minimum service requirements for noncompetitive services.
+- Section 4928.111 - Review of distribution and transmission infrastructure.
+- Section 4928.112 - Priority to hospitals in case of outage.
+- Section 4928.12 - Qualifying transmission entities.
+- Section 4928.13 - Nuclear generation facilities decommissioning.
+- Section 4928.14 - Failure of supplier to provide service.
+- Section 4928.141 - Distribution utility to provide standard service offer.
+- Section 4928.142 - Standard generation service offer price - competitive bidding.
+- Section 4928.144 - Phase-in of electric distribution utility rate or price.
+- Section 4928.145 - Availability of contract or agreement relevant to proceeding.
+- Section 4928.146 - Electric service within territory of another utility.
+- Section 4928.149 - Electric energy storage system use in wholesale market prohibited.
+- Section 4928.1410 - Regulatory assets or liabilities for terminated electric security plan riders.
+- Section 4928.15 - Schedules for provision of noncompetitive service.
+- Section 4928.151 - Uniform policy regarding electric transmission facilities.
+- Section 4928.16 - Commission jurisdiction.
+- Section 4928.17 - Corporate separation plans.
+- Section 4928.18 - Jurisdiction and powers of commission concerning utility or affiliate.
+- Section 4928.19 - Consumer education.
+- Section 4928.20 - Local aggregation of retail electric loads - limitations.
+- Section 4928.21 - Do not aggregate list - registration - removal of current enrollee.
+- Section 4928.23 - Definitions for standards for securitization of costs for electric distribution utilities.
+- Section 4928.231 - Financing order for issuance of bonds to recover phase-in costs and carrying charges.
+- Section 4928.232 - Proceedings; review of application; disposition.
+- Section 4928.233 - Rehearing; when order becomes final.
+- Section 4928.234 - Phase-in-recovery property.
+- Section 4928.235 - Duration of final financing order.
+- Section 4928.236 - Subsequent financing orders.
+- Section 4928.237 - Public utilities commission - prohibited acts.
+- Section 4928.238 - Request for approval of adjustments to charges.
+- Section 4928.239 - Nonbypassable charges; collection.
+- Section 4928.2310 - Default; sequestration and payment of revenues for benefit of bondholders, assignees, and financing parties.
+- Section 4928.2311 - Successors.
+- Section 4928.2312 - Security interest in phase-in-recovery property.
+- Section 4928.2313 - Sale, assignment, or transfer of phase-in-recovery property.
+- Section 4928.2314 - Exemption from taxes and other charges.
+- Section 4928.2315 - Prohibition of state interference.
+- Section 4928.2316 - Governing law.
+- Section 4928.2317 - Repealed laws have no effect on actions taken.
+- Section 4928.2318 - Assignee or financing party not considered an electric distribution utility.
+- Section 4928.24 - Federal energy advocate, duties.
+- Section 4928.31 - Transition plan.
+- Section 4928.32 - Procedures for expedited discovery in proceeding initiated to consider transition plan.
+- Section 4928.33 - Transition plan approval.
+- Section 4928.34 - Determinations for approval or prescribing of plan.
+- Section 4928.35 - Schedules containing unbundled rate components set in approved plan.
+- Section 4928.36 - Complaint concerning transition plan.
+- Section 4928.37 - Receiving transition revenues.
+- Section 4928.38 - Commencing and terminating transition revenues.
+- Section 4928.39 - Determining total allowable transition costs.
+- Section 4928.40 - Establishing transition charge for each customer class.
+- Section 4928.43 - Assisting employees affected by electric industry restructuring.
+- Section 4928.51 - Universal service fund.
+- Section 4928.52 - Universal service rider.
+- Section 4928.53 - Director of job and family services to administer low-income customer assistance programs.
+- Section 4928.54 - Aggregate percentage of income payment plan program customers.
+- Section 4928.541 - Duration of competitive procurement process.
+- Section 4928.542 - Winning bids; requirements.
+- Section 4928.543 - Rules.
+- Section 4928.544 - Design, management, and supervision of competitive procurement process.
+- Section 4928.545 - Percentage of income payment plan rider administration.
+- Section 4928.55 - Energy efficiency and weatherization program.
+- Section 4928.56 - Education program for consumers eligible to participate in low-income customer assistance programs.
+- Section 4928.58 - Public benefits advisory board.
+- Section 4928.61 - Energy efficiency revolving loan fund.
+- Section 4928.62 - Energy efficiency revolving loan program.
+- Section 4928.621 - Creating an advanced energy manufacturing center.
+- Section 4928.63 - Purpose of energy efficiency program.
+- Section 4928.64 - Electric distribution utility to provide electricity from qualifying renewable energy resources.
+- Section 4928.641 - Costs being recovered through bypassable charge.
+- Section 4928.643 - Baselines for compliance with qualified renewable energy resource requirements.
+- Section 4928.644 - Adjustments to baselines.
+- Section 4928.645 - Use of renewable energy credits.
+- Section 4928.65 - Adoption of rules governing disclosure of costs to customers of the renewable energy resource, energy efficiency savings, and peak demand reduction requirements.
+- Section 4928.66 - Implementing energy efficiency programs.
+- Section 4928.661 - Low-income customer portfolio plan re-established.
+- Section 4928.662 - Measurement and determination of compliance with demand reduction requirements.
+- Section 4928.6610 - Definitions for R.C. 4928.6611 to 4928.6615.
+- Section 4928.6611 - Opting out of portfolio plan.
+- Section 4928.6612 - Notice of intent.
+- Section 4928.6613 - Effect of election to opt out.
+- Section 4928.6614 - Opting in.
+- Section 4928.6615 - Notice of intent to opt in.
+- Section 4928.67 - Standard contract or tariff providing for net energy metering.
+- Section 4928.68 - Rules establishing greenhouse gas emission reporting requirements.
+- Section 4928.69 - No surcharge, service termination charge, exit fee, or transition charge.
+- Section 4928.70 - Review of green pricing programs.
+- Section 4928.71 - Study regarding customer choice; report.
+- Section 4928.72 - Multi-state study on the development of compressed natural gas infrastructures for transportation.
+- Section 4928.73 - Mercantile customer self-power system.
+- Section 4928.75 - Waiver request.
+- Section 4928.80 - Rate schedule applicable to county fairs and agricultural societies.
+- Section 4928.83 - Distribution system hosting capacity maps.
+- Section 4928.86 - Heat maps.

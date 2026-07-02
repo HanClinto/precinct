@@ -1,0 +1,139 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-742
+Scraped: 2026-07-02T19:33:36+00:00
+
+# Chapter 742 - Police And Fire Pension Fund
+
+## Sections
+
+- Section 742.01 - Police and fire pension fund definitions.
+- Section 742.012 - Refund of contributions to Ohio police and fire pension fund exceeding salary benchmarks.
+- Section 742.013 - Definitions for "terminal pay" and "salary".
+- Section 742.02 - Creation and purpose of fund.
+- Section 742.03 - Board of trustees to administer and control fund.
+- Section 742.031 - Orientation program required for new members - continuing education.
+- Section 742.032 - Members with excessive travel expenses ineligible for another term.
+- Section 742.04 - Election of employee members, firefighter retirant member, and police retirant member.
+- Section 742.041 - No election if only one candidate nominated.
+- Section 742.042 - Candidate campaign finance statements - donor statement of independent expenditures.
+- Section 742.043 - Filing of statements - prohibited campaign activities.
+- Section 742.044 - Complaint alleging violation of RC 742.043.
+- Section 742.045 - Adoption of election rules - certification of nominating petitions and election results.
+- Section 742.046 - Disqualification of convicted member - misconduct in office - removal procedure.
+- Section 742.05 - Vacancy on board of trustees.
+- Section 742.06 - Oath or affirmation of office.
+- Section 742.07 - Meetings of board of trustees.
+- Section 742.071 - Video conference meetings.
+- Section 742.08 - Expenses - liability insurance.
+- Section 742.09 - Attorney general is legal counsel for board.
+- Section 742.091 - Actions; venue.
+- Section 742.10 - Powers of board.
+- Section 742.101 - Transfer expenses from guarantee fund to expense fund.
+- Section 742.102 - Travel expense policies - bonus policy - budget.
+- Section 742.103 - Ethics policy - commission approval - ethics training.
+- Section 742.104 - Chief investment officer - supervision duties - monitoring of securities transactions.
+- Section 742.105 - Selection of internal auditor.
+- Section 742.11 - Investment powers of board.
+- Section 742.111 - Prohibited business transactions.
+- Section 742.112 - Restrictions on fiduciaries.
+- Section 742.113 - Conflicts of interest.
+- Section 742.114 - Designation of Ohio-qualified agents - selection policy - utilization - annual report.
+- Section 742.115 - Annual disclosures to Ohio Ethics Commission.
+- Section 742.116 - Designation of Ohio-qualified investment managers - utilization - annual report.
+- Section 742.12 - Bonds purchased from taxing districts.
+- Section 742.13 - Record of proceedings between board and taxing district.
+- Section 742.14 - Actuarial valuation of pension assets, liabilities, and funding requirements of Ohio police and fire pension fund.
+- Section 742.15 - Collecting and retaining data.
+- Section 742.16 - Amortizing unfunded actuarial accrued pension liability.
+- Section 742.161 - Adjustment to age and years of service credit.
+- Section 742.17 - Form of application or election.
+- Section 742.21 - Service credit for membership in state or municipal retirement system.
+- Section 742.211 - Transfers of service credit and contributions between system and Cincinnati retirement system.
+- Section 742.212 - Eligibility for credit for service in Cincinnati retirement system.
+- Section 742.213 - Transferring contributions to Cincinnati retirement system.
+- Section 742.214 - Transferring contributions on deposit from non-uniform retirement system.
+- Section 742.22 - Restoration to active duty after receiving disability benefits.
+- Section 742.221 - Conditions for receiving credit for time spent on pregnancy or medical disability leave.
+- Section 742.23 - Municipal police department employee credit for service in fire department.
+- Section 742.24 - Municipal fire department employee credit for service in police department.
+- Section 742.25 - Member credit for service credit in former pension funds.
+- Section 742.251 - Credit for full time out-of-state or federal service.
+- Section 742.26 - Employment of OPFPF or other state retirement system retirant.
+- Section 742.27 - Purchasing service credit for lay off period.
+- Section 742.30 - Paying employer's accrued liability.
+- Section 742.301 - Penalty and interest on late payment of an employer's accrued liability.
+- Section 742.31 - Contribution by employee; adjustments by board.
+- Section 742.311 - Annual review of adequacy of contribution rates.
+- Section 742.32 - Reporting employee deductions.
+- Section 742.33 - Police officer employers' contribution.
+- Section 742.34 - Firefighter employers' contribution.
+- Section 742.35 - Payment of employer's contribution.
+- Section 742.351 - Notice of member's election to retire.
+- Section 742.352 - Failure to transmit certain reports and payments concerning deductions.
+- Section 742.353 - Failure to transmit certain reports and payments concerning retirement election.
+- Section 742.361 - Certification of amount required to be paid.
+- Section 742.362 - Annual payment in lieu of employer contribution.
+- Section 742.37 - Rules for disbursement of benefits and pensions.
+- Section 742.371 - Credit for time previously served in active full-time service of Ohio police or fire department.
+- Section 742.374 - Additional pension payments for retirees on and after 12-31-71.
+- Section 742.375 - Credit for time served in state highway patrol retirement system.
+- Section 742.376 - Credit for service as a full-time police officer or firefighter prior to 1-1-67.
+- Section 742.377 - Increasing survivor benefits.
+- Section 742.378 - Additional monthly payment.
+- Section 742.3710 - Increasing survivor benefits.
+- Section 742.3711 - Optional plans upon retirement.
+- Section 742.3712 - Increase in monthly pension, allowance or benefit effective 7-1-81.
+- Section 742.3713 - Increase in monthly benefit effective 11-15-81.
+- Section 742.3714 - Designating contingent dependent beneficiary.
+- Section 742.3715 - Election of retiree to change to optional plan.
+- Section 742.3716 - Annual increases in pension or benefits.
+- Section 742.3717 - Annual cost of living increase.
+- Section 742.3718 - Minimum pension or benefit.
+- Section 742.3719 - Increase in benefit or allowance when IRC 415 limits increased.
+- Section 742.3721 - Qualified governmental excess benefit arrangement maintained and established.
+- Section 742.38 - Minimum medical testing and diagnostic standards or procedures to be incorporated into physical examinations for prospective members.
+- Section 742.381 - Annual report disability retirement experience of each employer.
+- Section 742.39 - Eligibility for disability benefit.
+- Section 742.40 - Disability benefit recipient to agree to obtain recommended medical treatment.
+- Section 742.41 - Annual statement of funds.
+- Section 742.42 - Maintenance of individual account.
+- Section 742.43 - Deferred retirement option plan established.
+- Section 742.44 - Electing to participate in deferred retirement option plan.
+- Section 742.441 - Effect of electing to participate in deferred retirement option plan.
+- Section 742.442 - Determining pension amount if electing to participate in deferred retirement option plan.
+- Section 742.443 - Accrual of monthly pension amount, cost-of-living increases and member contributions if electing to participate in deferred retirement option plan.
+- Section 742.444 - Termination of participation in deferred retirement option plan.
+- Section 742.445 - Termination of participation in deferred retirement option plan because of acceptance of disability benefit.
+- Section 742.446 - Death benefit if electing to participate in deferred retirement option plan.
+- Section 742.447 - Verifying termination of active service.
+- Section 742.45 - Deduction from benefit payment for group health insurance.
+- Section 742.451 - Additional deposits to fund medical expenses.
+- Section 742.46 - Vested right to pension or benefit.
+- Section 742.461 - Restitution order based on theft in office or certain sex offenses.
+- Section 742.462 - Order for division of marital property.
+- Section 742.463 - Forfeiture of retirement benefits under RC 2929.192.
+- Section 742.464 - Benefits subject to termination.
+- Section 742.47 - Exemption from attachment, garnishment, levy, or seizure under any legal or equitable process.
+- Section 742.48 - Written notice of waiver.
+- Section 742.50 - Death benefit.
+- Section 742.51 - Election to transfer from public employees retirement system to police and fire pension fund.
+- Section 742.511 - Transfer of police officers of newly incorporated municipality prior to 12-1-83.
+- Section 742.512 - Transfer of police officers of newly incorporated municipality on or after 12-1-83.
+- Section 742.513 - Township officer assuming municipal status may transfer to fund.
+- Section 742.514 - Transfer of former Cincinnati park police officers to fund.
+- Section 742.515 - Firefighter's election to transfer from public employees retirement system.
+- Section 742.516 - Firefighter's election to transfer to public employees retirement system.
+- Section 742.52 - Purchasing military service credit.
+- Section 742.521 - Credit for military service.
+- Section 742.53 - Long term care insurance.
+- Section 742.54 - Volunteer firemen's relief and pension fund operation and maintenance.
+- Section 742.55 - Itemization of purchases and expenditures.
+- Section 742.56 - Payroll deduction plan for payments for service credits.
+- Section 742.57 - Payments by vouchers from state treasury.
+- Section 742.58 - Lump sum death benefit payment.
+- Section 742.59 - Creation of funds - trustees.
+- Section 742.60 - Funds to be separate and distinct legal entities.
+- Section 742.61 - Treasurer of state is custodian of police and fire pension fund.
+- Section 742.62 - Ohio public safety officers death benefit fund.
+- Section 742.63 - Adoption of rules for management of fund and disbursement of benefits.
+- Section 742.64 - Recovering erroneous payments.
+- Section 742.99 - Penalty.

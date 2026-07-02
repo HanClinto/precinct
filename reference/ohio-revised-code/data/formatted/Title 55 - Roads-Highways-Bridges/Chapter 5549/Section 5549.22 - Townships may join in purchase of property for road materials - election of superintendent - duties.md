@@ -1,0 +1,10 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5549.22
+Scraped: 2026-07-02T20:13:30+00:00
+
+# Section 5549.22 - Townships may join in purchase of property for road materials - election of superintendent - duties.
+
+**Effective:** October 1, 1953
+
+**Latest Legislation:** House Bill 1 - 100th General Assembly
+
+The board of township trustees may join with the boards of other townships of the same county or an adjoining county for the purpose of purchasing real property containing suitable stone or gravel for road materials, and the necessary machinery for operating such property, as provided in this section and section 5549.24 of the Revised Code. When one or more townships have so joined together the property purchased by them shall be held and owned by the townships in common, for the use and benefit of all. They shall, at a meeting of all the trustees of such townships after such purchase, organize a joint board and elect one of their members president and one secretary of the board, and they shall select a manager or superintendent to manage said property. The trustees shall provide rules and regulations for the conduct and management of such property. Such manager or superintendent shall be selected by a majority vote of all the trustees of the townships interested in the property, and they shall, in such session fix his bond and approve the sureties of such bond, and he may be employed for a period not to exceed two years. The joint board shall meet at such time and place as provided in its rules and regulations. Any township owning or purchasing real property containing suitable stone or gravel may, by a majority vote of the board of township trustees, sell an interest to any other township in the same county or an adjoining county, but the interest sold must be an equal undivided interest between all the townships so interested. No township shall purchase an interest in such property until the question of the purchase has been submitted to a vote of the qualified electors of such township as provided by section 5549.24 of the Revised Code.

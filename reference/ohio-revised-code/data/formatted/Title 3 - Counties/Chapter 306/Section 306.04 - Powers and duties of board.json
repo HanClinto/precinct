@@ -1,0 +1,100 @@
+{
+  "glossary": [
+    {
+      "definition": "(a) \"Applicant\" means any person who responds to a request for proposals and submits an application for a franchise to operate a public transit system or portion of a public transit system;",
+      "id": "306.04-applicant",
+      "normalized": "applicant",
+      "scope": "(D)(1) As used in this division:",
+      "section": "306.04",
+      "source_title": "Section 306.04 - Powers and duties of board.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-306.04",
+      "term": "Applicant"
+    },
+    {
+      "definition": "(b) \"Application for certification\" means the documents that are required to be filed by a franchisee to initiate the proceedings required for certification;",
+      "id": "306.04-application-for-certification",
+      "normalized": "application for certification",
+      "scope": "(D)(1) As used in this division:",
+      "section": "306.04",
+      "source_title": "Section 306.04 - Powers and duties of board.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-306.04",
+      "term": "Application for certification"
+    },
+    {
+      "definition": "(c) \"Application for a franchise\" means the documents that are required to be filed in response to a request for proposals and that initiate the proceedings required for the award of a franchise;",
+      "id": "306.04-application-for-a-franchise",
+      "normalized": "application for a franchise",
+      "scope": "(D)(1) As used in this division:",
+      "section": "306.04",
+      "source_title": "Section 306.04 - Powers and duties of board.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-306.04",
+      "term": "Application for a franchise"
+    },
+    {
+      "definition": "(d) \"Certification\" means the order issued by a board of county commissioners, after submission of an application for certification, that approves the operation of a public transit system, or a portion of a public transit system, by a franchisee, subject to terms and conditions imposed by the board.",
+      "id": "306.04-certification",
+      "normalized": "certification",
+      "scope": "(D)(1) As used in this division:",
+      "section": "306.04",
+      "source_title": "Section 306.04 - Powers and duties of board.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-306.04",
+      "term": "Certification"
+    },
+    {
+      "definition": "(e) \"Franchise\" means the document and all accompanying rights approved by the board of county commissioners that provides the franchisee with the exclusive right to establish a public transit system and, subject to certification, the right to operate a public transit system. A franchise may include the right of a franchisee to provide transportation services for a county department of job and family services.",
+      "id": "306.04-franchise",
+      "normalized": "franchise",
+      "scope": "(D)(1) As used in this division:",
+      "section": "306.04",
+      "source_title": "Section 306.04 - Powers and duties of board.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-306.04",
+      "term": "Franchise"
+    },
+    {
+      "definition": "(f) \"Franchisee\" means the individual, corporation, or other entity awarded a franchise.\n\n(2) A board of county commissioners, on behalf of a county transit board, may award a franchise to an applicant subject to such terms and conditions as the board of county commissioners considers appropriate and consistent with applicable laws. Subsequent to awarding the franchise, the board of county commissioners may issue a certification and, until such issuance, the franchisee has no right to operate a public transit system or part of such a system. The board of county commissioners shall not delete, alter, or amend the terms and conditions of the certification after its issuance. The board shall include in the certification performance targets related to the operation of a public transit system by the franchisee, including cost savings to the county, gains in efficiency, the safety and security of the traveling public and franchise employees, service to the traveling public, return on any investments made by the county, and any other performance targets as determined by the board. All terms and conditions of the order of certification are terms and conditions of the franchise. Unless expressly exempted or granted a waiver in the certification, the franchisee shall comply with all applicable rules, regulations, orders, and ordinances.\n\n(3) The award of a franchise by a board of county commissioners to an applicant is the sole license and authority for the franchisee to establish a public transit system and, subject to certification, operate a public transit system.\n\n(4) A board of county commissioners shall award a franchise for a period of not less than ten years, as provided in the franchise.\n\n(5) A franchise shall not prohibit the franchisee from implementing new or improved services during the term of the franchise.\n\n(6) A franchisee shall coordinate its services, as specified in the franchise, with public transit providers to make effective transportation services available to the public and provide access to and from the public transit system.\n\n(7) A board of county commissioners shall provide terms and conditions in a franchise to ensure that the franchisee will continue operation of the public transit system for the duration of the term of the franchise or, if the franchise is revoked, suspended, or abandoned, that financial and other necessary resources are available to continue the operation of the system until another franchisee is selected or until the board of county commissioners determines to cease the transit operations governed by the franchise. The franchise shall specifically provide that the board shall have the right to terminate the franchise if the board determines that the franchisee has materially breached the franchise in any manner. The franchisee may appeal such a termination to the board, and, if the board upholds the termination, to the proper court of common pleas.",
+      "id": "306.04-franchisee",
+      "normalized": "franchisee",
+      "scope": "(D)(1) As used in this division:",
+      "section": "306.04",
+      "source_title": "Section 306.04 - Powers and duties of board.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-306.04",
+      "term": "Franchisee"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "306.09",
+      "number": "306.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.09"
+    },
+    {
+      "kind": "section",
+      "label": "306.01",
+      "number": "306.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.01"
+    },
+    {
+      "kind": "section",
+      "label": "306.13",
+      "number": "306.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.13"
+    },
+    {
+      "kind": "section",
+      "label": "163.01",
+      "number": "163.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-163.01"
+    },
+    {
+      "kind": "section",
+      "label": "163.22",
+      "number": "163.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-163.22"
+    }
+  ],
+  "scraped": "2026-07-02T19:32:38+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-306.04",
+  "title": "Section 306.04 - Powers and duties of board."
+}

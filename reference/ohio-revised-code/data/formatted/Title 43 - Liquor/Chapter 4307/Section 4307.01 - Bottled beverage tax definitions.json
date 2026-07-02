@@ -1,0 +1,88 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Beer\" and \"beverages\" have the same meaning as given in division (B)(2) of section 4301.01 of the Revised Code.",
+      "id": "4307.01-beer",
+      "normalized": "beer",
+      "scope": "As used in sections 4307.01 to 4307.12 of the Revised Code:",
+      "section": "4307.01",
+      "source_title": "Section 4307.01 - Bottled beverage tax definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4307.01",
+      "term": "Beer"
+    },
+    {
+      "definition": "(A) \"Beer\" and \"beverages\" have the same meaning as given in division (B)(2) of section 4301.01 of the Revised Code.",
+      "id": "4307.01-beverages",
+      "normalized": "beverages",
+      "scope": "As used in sections 4307.01 to 4307.12 of the Revised Code:",
+      "section": "4307.01",
+      "source_title": "Section 4307.01 - Bottled beverage tax definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4307.01",
+      "term": "beverages"
+    },
+    {
+      "definition": "(B) \"Person\" includes firms and corporations.",
+      "id": "4307.01-person",
+      "normalized": "person",
+      "scope": "As used in sections 4307.01 to 4307.12 of the Revised Code:",
+      "section": "4307.01",
+      "source_title": "Section 4307.01 - Bottled beverage tax definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4307.01",
+      "term": "Person"
+    },
+    {
+      "definition": "(C) \"Wholesale dealer\" includes only those persons who sell bottled beverages to retail dealers or for purpose of resale only.",
+      "id": "4307.01-wholesale-dealer",
+      "normalized": "wholesale dealer",
+      "scope": "As used in sections 4307.01 to 4307.12 of the Revised Code:",
+      "section": "4307.01",
+      "source_title": "Section 4307.01 - Bottled beverage tax definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4307.01",
+      "term": "Wholesale dealer"
+    },
+    {
+      "definition": "(D) \"Retail dealer\" includes every person other than a wholesale dealer or a manufacturer engaged in the business of selling bottled beverages in this state, irrespective of quantity or amount or number of sales.",
+      "id": "4307.01-retail-dealer",
+      "normalized": "retail dealer",
+      "scope": "As used in sections 4307.01 to 4307.12 of the Revised Code:",
+      "section": "4307.01",
+      "source_title": "Section 4307.01 - Bottled beverage tax definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4307.01",
+      "term": "Retail dealer"
+    },
+    {
+      "definition": "(E) \"Sales\" includes exchange, barter, gift, offer for sale, and distribution, and excludes transactions in interstate or foreign commerce.",
+      "id": "4307.01-sales",
+      "normalized": "sales",
+      "scope": "As used in sections 4307.01 to 4307.12 of the Revised Code:",
+      "section": "4307.01",
+      "source_title": "Section 4307.01 - Bottled beverage tax definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4307.01",
+      "term": "Sales"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "4307.01",
+      "number": "4307.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4307.01"
+    },
+    {
+      "kind": "section",
+      "label": "4307.12",
+      "number": "4307.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4307.12"
+    },
+    {
+      "kind": "section",
+      "label": "4301.01",
+      "number": "4301.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.01"
+    }
+  ],
+  "scraped": "2026-07-02T20:05:07+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4307.01",
+  "title": "Section 4307.01 - Bottled beverage tax definitions."
+}

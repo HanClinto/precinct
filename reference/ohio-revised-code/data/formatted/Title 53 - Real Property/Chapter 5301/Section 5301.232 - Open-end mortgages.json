@@ -1,0 +1,90 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Mortgage\" includes a mortgage, deed of trust, or other instrument in the nature of a mortgage.",
+      "id": "5301.232-mortgage",
+      "normalized": "mortgage",
+      "scope": "(E) As used in this section:",
+      "section": "5301.232",
+      "source_title": "Section 5301.232 - Open-end mortgages.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5301.232",
+      "term": "Mortgage"
+    },
+    {
+      "definition": "(2) \"Mortgagor\" includes the mortgagor's successors in interest as disclosed by the records of the recorder or recorders of the county or counties in which the mortgaged premises are situated.",
+      "id": "5301.232-mortgagor",
+      "normalized": "mortgagor",
+      "scope": "(E) As used in this section:",
+      "section": "5301.232",
+      "source_title": "Section 5301.232 - Open-end mortgages.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5301.232",
+      "term": "Mortgagor"
+    },
+    {
+      "definition": "(3) \"Holder of the mortgage\" means the holder of the mortgage as disclosed by the records of the recorder or recorders of the county or counties in which the mortgaged premises are situated.\n\n(4) A holder of a mortgage is \"obligated\" to make an advance if such holder or the person to whom the repayment of such advance is owed has a contractual commitment to do so, even though the making of such advance may be conditioned upon the occurrence or existence, or the failure to occur or exist, of any event or fact.",
+      "id": "5301.232-holder-of-the-mortgage",
+      "normalized": "holder of the mortgage",
+      "scope": "(E) As used in this section:",
+      "section": "5301.232",
+      "source_title": "Section 5301.232 - Open-end mortgages.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5301.232",
+      "term": "Holder of the mortgage"
+    },
+    {
+      "definition": "(5) \"Statutory agent\" means the statutory agent of a corporation as disclosed by the records of the secretary of state and provided for in sections 1701.07 , 1702.06 , and 1703.041 of the Revised Code.",
+      "id": "5301.232-statutory-agent",
+      "normalized": "statutory agent",
+      "scope": "(E) As used in this section:",
+      "section": "5301.232",
+      "source_title": "Section 5301.232 - Open-end mortgages.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5301.232",
+      "term": "Statutory agent"
+    },
+    {
+      "definition": "(6) \"Loan indebtedness\" does not include unpaid balances of advances made for the payment of taxes, assessments, insurance premiums, and costs incurred for the protection of the mortgaged premises.\n\n(F) This section is not exclusive, does not apply to any mortgage filed or recorded in conformity with section 1701.66 of the Revised Code, and does not prohibit the use of other types of mortgages permitted by law.",
+      "id": "5301.232-loan-indebtedness",
+      "normalized": "loan indebtedness",
+      "scope": "(E) As used in this section:",
+      "section": "5301.232",
+      "source_title": "Section 5301.232 - Open-end mortgages.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5301.232",
+      "term": "Loan indebtedness"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "5301.01",
+      "number": "5301.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.01"
+    },
+    {
+      "kind": "section",
+      "label": "1701.07",
+      "number": "1701.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.07"
+    },
+    {
+      "kind": "section",
+      "label": "1702.06",
+      "number": "1702.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.06"
+    },
+    {
+      "kind": "section",
+      "label": "1703.041",
+      "number": "1703.041",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1703.041"
+    },
+    {
+      "kind": "section",
+      "label": "1701.66",
+      "number": "1701.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.66"
+    }
+  ],
+  "scraped": "2026-07-02T20:11:45+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5301.232",
+  "title": "Section 5301.232 - Open-end mortgages."
+}

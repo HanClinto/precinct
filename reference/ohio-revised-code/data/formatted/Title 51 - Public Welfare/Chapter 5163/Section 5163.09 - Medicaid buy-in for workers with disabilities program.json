@@ -1,0 +1,72 @@
+{
+  "glossary": [
+    {
+      "definition": "\"Applicant\" means an individual who applies to participate in the medicaid buy-in for workers with disabilities program.\n\n\"Earned income\" has the meaning established by rules authorized by section 5163.098 of the Revised Code.",
+      "id": "5163.09-applicant",
+      "normalized": "applicant",
+      "scope": "(A) As used in sections 5163.09 to 5163.098 of the Revised Code:",
+      "section": "5163.09",
+      "source_title": "Section 5163.09 - Medicaid buy-in for workers with disabilities program.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5163.09",
+      "term": "Applicant"
+    },
+    {
+      "definition": "\"Employed individual with a medically improved disability\" has the same meaning as in the \"Social Security Act,\" section 1905(v), 42 U.S.C. 1396d(v).",
+      "id": "5163.09-employed-individual-with-a-medically-improved-disability",
+      "normalized": "employed individual with a medically improved disability",
+      "scope": "(A) As used in sections 5163.09 to 5163.098 of the Revised Code:",
+      "section": "5163.09",
+      "source_title": "Section 5163.09 - Medicaid buy-in for workers with disabilities program.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5163.09",
+      "term": "Employed individual with a medically improved disability"
+    },
+    {
+      "definition": "\"Family\" means an applicant or participant and the spouse and dependent children of the applicant or participant. If an applicant or participant is under eighteen years of age, \"family\" also means the parents of the applicant or participant.\n\n\"Health insurance\" has the meaning established by rules authorized by section 5163.098 of the Revised Code.",
+      "id": "5163.09-family",
+      "normalized": "family",
+      "scope": "(A) As used in sections 5163.09 to 5163.098 of the Revised Code:",
+      "section": "5163.09",
+      "source_title": "Section 5163.09 - Medicaid buy-in for workers with disabilities program.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5163.09",
+      "term": "Family"
+    },
+    {
+      "definition": "\"Income\" means earned income and unearned income.",
+      "id": "5163.09-income",
+      "normalized": "income",
+      "scope": "(A) As used in sections 5163.09 to 5163.098 of the Revised Code:",
+      "section": "5163.09",
+      "source_title": "Section 5163.09 - Medicaid buy-in for workers with disabilities program.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5163.09",
+      "term": "Income"
+    },
+    {
+      "definition": "\"Participant\" means an individual who has been determined eligible for the medicaid buy-in for workers with disabilities program and is participating in the program.\n\n\"Resources\" has the meaning established by rules authorized by section 5163.098 of the Revised Code.\n\n\"Spouse\" has the meaning established by rules authorized by section 5163.098 of the Revised Code.\n\n\"Unearned income\" has the meaning established by rules authorized by section 5163.098 of the Revised Code.\n\n(B) The medicaid program's coverage of the optional eligibility groups specified in the \"Social Security Act,\" section 1902(a)(10)(A)(ii)(XV) and (XVI), 42 U.S.C. 1396a(a)(10)(A)(ii)(XV) and (XVI) shall be known as the medicaid buy-in for workers with disabilities program.",
+      "id": "5163.09-participant",
+      "normalized": "participant",
+      "scope": "(A) As used in sections 5163.09 to 5163.098 of the Revised Code:",
+      "section": "5163.09",
+      "source_title": "Section 5163.09 - Medicaid buy-in for workers with disabilities program.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5163.09",
+      "term": "Participant"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "5163.09",
+      "number": "5163.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5163.09"
+    },
+    {
+      "kind": "section",
+      "label": "5163.098",
+      "number": "5163.098",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5163.098"
+    }
+  ],
+  "scraped": "2026-07-02T20:11:23+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5163.09",
+  "title": "Section 5163.09 - Medicaid buy-in for workers with disabilities program."
+}

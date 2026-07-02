@@ -1,0 +1,20 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3705.40
+Scraped: 2026-07-02T19:51:02+00:00
+
+# Section 3705.40 - Access to preliminary birth and death data maintained by department.
+
+**Effective:** January 1, 2025
+
+**Latest Legislation:** House Bill 33 - 135th General Assembly
+
+(A) As used in this section:
+
+(1) "Board of health" means a board of health of a city or general health district or the authority having the duties of a board of health under section 3709.05 of the Revised Code.
+
+(2) "Geocoding" means a geographic information system (GIS) operation for converting street addresses into spatial data that can be displayed as features on a map, usually by referencing address information from a street segment data layer.
+
+(B) The state registrar shall ensure that the department of children and youth and each board of health have access to preliminary birth and death data maintained by the department of health, as well as access to any electronic system of vital records the state registrar or department of health maintains, including the Ohio public health information warehouse. To the extent possible, the preliminary data shall be provided in a format that permits geocoding. If the state registrar requires the department of children and youth or a board to enter into a data use agreement before accessing such data or systems, the state registrar shall provide the department and each board with an application for this purpose and, if requested, assist with the application's completion.
+
+(C) The state registrar shall provide the users of the preliminary data and electronic systems described in division (B) of this section with a data analysis tool kit that assists the users with using the data in a manner that promotes consistency and accuracy among users. The tool kit shall include a data dictionary and sample data analyses.
+
+Last updated January 1, 2025 at 7:04 AM

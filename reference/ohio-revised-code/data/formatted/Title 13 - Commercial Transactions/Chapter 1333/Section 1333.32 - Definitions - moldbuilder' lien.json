@@ -1,0 +1,68 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Customer\" means a person that causes a moldbuilder to fabricate, cut, cast, or design molds.",
+      "id": "1333.32-customer",
+      "normalized": "customer",
+      "scope": "",
+      "section": "1333.32",
+      "source_title": "Section 1333.32 - Definitions - moldbuilder' lien.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1333.32",
+      "term": "Customer"
+    },
+    {
+      "definition": "(B) \"Mold\" means molds, dies, forms, tools, and parts, for the plastic industry or for the metal forming industry.",
+      "id": "1333.32-mold",
+      "normalized": "mold",
+      "scope": "",
+      "section": "1333.32",
+      "source_title": "Section 1333.32 - Definitions - moldbuilder' lien.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1333.32",
+      "term": "Mold"
+    },
+    {
+      "definition": "(C) \"Moldbuilder\" means a person, including but not limited to, a model maker, patternmaker, die maker, jig and fixture builder, die sinker, mold designer, mold programmer, and mold engineer, that fabricates, cuts, casts, or designs molds for the plastic industry or for the metal forming industry. \"Moldbuilder\" does not include a person described in division (A)(2) of section 1333.29 of the Revised Code, unless the person also engages in the activities described in this division.\n\n(D) \"Molder\" has the same definition as in division (A) of section 1333.29 of the Revised Code, but does not include a moldbuilder.",
+      "id": "1333.32-moldbuilder",
+      "normalized": "moldbuilder",
+      "scope": "",
+      "section": "1333.32",
+      "source_title": "Section 1333.32 - Definitions - moldbuilder' lien.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1333.32",
+      "term": "Moldbuilder"
+    },
+    {
+      "definition": "(E) \"Person\" means an individual, firm, partnership, association, corporation, limited liability company, or other legal entity.",
+      "id": "1333.32-person",
+      "normalized": "person",
+      "scope": "",
+      "section": "1333.32",
+      "source_title": "Section 1333.32 - Definitions - moldbuilder' lien.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1333.32",
+      "term": "Person"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "1333.32",
+      "number": "1333.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.32"
+    },
+    {
+      "kind": "section",
+      "label": "1333.34",
+      "number": "1333.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.34"
+    },
+    {
+      "kind": "section",
+      "label": "1333.29",
+      "number": "1333.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.29"
+    }
+  ],
+  "scraped": "2026-07-02T19:37:19+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1333.32",
+  "title": "Section 1333.32 - Definitions - moldbuilder' lien."
+}

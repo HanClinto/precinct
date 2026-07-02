@@ -1,0 +1,14 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-2933.58
+Scraped: 2026-07-02T19:46:37+00:00
+
+# Section 2933.58 - Prosecutor's instructions to investigative officers.
+
+**Effective:** June 13, 1996
+
+**Latest Legislation:** House Bill 181 - 121st General Assembly
+
+(A) Upon the issuance of an interception warrant pursuant to section 2933.54 of the Revised Code and prior to the execution of the warrant or upon a grant of an oral order for an interception under section 2933.57 of the Revised Code, the prosecuting attorney or assistant prosecuting attorney who authorized the application for the warrant or the oral approval shall instruct the investigative officers who are authorized to intercept the communications regarding the application and interpretation of divisions (A), (B), and (C) of section 2317.02 of the Revised Code. The prosecuting attorney or assistant prosecuting attorney who authorized the application or the oral order also shall instruct the officers to minimize the interception of communications that are not subject to the warrant or oral order and shall inform the officers of the procedures to be followed if communications concerning another offense are intercepted. If individuals operating under a contract to provide interception services as described in section 2933.59 of the Revised Code are involved in the interception, the prosecuting attorney or assistant prosecuting attorney who authorized the application for the warrant or the oral order also shall give the instructions and information under this division to those individuals.
+
+(B) Investigative officers who are authorized to intercept communications pursuant to an interception warrant or pursuant to an oral order for an interception granted under section 2933.57 of the Revised Code and individuals who are operating under a contract to provide interception services as described in section 2933.59 of the Revised Code shall monitor the receiver of the interception device at all times during the time period for which the interception is authorized. All communications shall be intercepted only in accordance with the warrant or the oral order.
+
+(C) An interception warrant issued pursuant to sections 2933.53 to 2933.55 of the Revised Code or an oral order for an interception granted under section 2933.57 of the Revised Code authorizes the interception of wire, oral, or electronic communications or the installation of an interception device within the jurisdiction of the court of common pleas served by the judge who issued the warrant or granted the oral order. The warrant or oral order is valid at any place if the interception device is installed within the jurisdiction of the judge who issued the warrant or granted the oral order and is then moved to another place by persons other than the investigative officers.

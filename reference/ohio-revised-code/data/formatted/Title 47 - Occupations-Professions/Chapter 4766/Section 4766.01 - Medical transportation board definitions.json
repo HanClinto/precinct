@@ -1,0 +1,316 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Advanced life support\" means treatment that an emergency medical technician-paramedic is authorized to perform under section 4765.39 of the Revised Code.",
+      "id": "4766.01-advanced-life-support",
+      "normalized": "advanced life support",
+      "scope": "As used in this chapter:",
+      "section": "4766.01",
+      "source_title": "Section 4766.01 - Medical transportation board definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4766.01",
+      "term": "Advanced life support"
+    },
+    {
+      "definition": "(B) \"Air medical service organization\" means an organization that furnishes, conducts, maintains, advertises, promotes, or otherwise engages in providing medical services with a rotorcraft air ambulance or fixed wing air ambulance.",
+      "id": "4766.01-air-medical-service-organization",
+      "normalized": "air medical service organization",
+      "scope": "As used in this chapter:",
+      "section": "4766.01",
+      "source_title": "Section 4766.01 - Medical transportation board definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4766.01",
+      "term": "Air medical service organization"
+    },
+    {
+      "definition": "(C) \"Air medical transportation\" means the transporting of a patient by rotorcraft air ambulance or fixed wing air ambulance with appropriately licensed and certified medical personnel.",
+      "id": "4766.01-air-medical-transportation",
+      "normalized": "air medical transportation",
+      "scope": "As used in this chapter:",
+      "section": "4766.01",
+      "source_title": "Section 4766.01 - Medical transportation board definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4766.01",
+      "term": "Air medical transportation"
+    },
+    {
+      "definition": "(D) \"Ambulance\" means any motor vehicle that is specifically designed, constructed, or modified and equipped and is intended to be used to provide basic life support, intermediate life support, advanced life support, or mobile intensive care unit services and transportation upon the streets or highways of this state of persons who are seriously ill, injured, wounded, or otherwise incapacitated or helpless. \"Ambulance\" does not include air medical transportation or a vehicle designed and used solely for the transportation of nonstretcher-bound persons, whether the person is hospitalized or has a disability or whether the person is ambulatory or using a wheelchair.",
+      "id": "4766.01-ambulance",
+      "normalized": "ambulance",
+      "scope": "As used in this chapter:",
+      "section": "4766.01",
+      "source_title": "Section 4766.01 - Medical transportation board definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4766.01",
+      "term": "Ambulance"
+    },
+    {
+      "definition": "(E) \"Ambulette\" means a motor vehicle that is specifically designed, constructed, or modified and equipped and is intended to be used for transportation upon the streets or highways of this state of persons who require use of a wheelchair or other mobility aid.",
+      "id": "4766.01-ambulette",
+      "normalized": "ambulette",
+      "scope": "As used in this chapter:",
+      "section": "4766.01",
+      "source_title": "Section 4766.01 - Medical transportation board definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4766.01",
+      "term": "Ambulette"
+    },
+    {
+      "definition": "(F) \"Basic life support\" means treatment that an emergency medical technician-basic is authorized to perform under section 4765.37 of the Revised Code.",
+      "id": "4766.01-basic-life-support",
+      "normalized": "basic life support",
+      "scope": "As used in this chapter:",
+      "section": "4766.01",
+      "source_title": "Section 4766.01 - Medical transportation board definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4766.01",
+      "term": "Basic life support"
+    },
+    {
+      "definition": "(G) \"Disaster situation\" means any condition or situation described by rule of the state board of emergency medical, fire, and transportation services as a mass casualty, major emergency, natural disaster, or national emergency.",
+      "id": "4766.01-disaster-situation",
+      "normalized": "disaster situation",
+      "scope": "As used in this chapter:",
+      "section": "4766.01",
+      "source_title": "Section 4766.01 - Medical transportation board definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4766.01",
+      "term": "Disaster situation"
+    },
+    {
+      "definition": "(H) \"Emergency medical service organization\" means an organization that uses emergency medical technicians-basic, emergency medical technicians-intermediate, or emergency medical technicians-paramedic, or a combination of EMTs-basic, EMTs-I, and paramedics, to provide medical care to victims of illness or injury. An emergency medical service organization includes, but is not limited to, a commercial ambulance service organization, a hospital, and a funeral home.\n\n(I) \"Emergency medical technician-basic,\" \"EMT-basic,\" \"emergency medical technician-intermediate,\" \"EMT-I,\" \"emergency medical technician-paramedic,\" and \"paramedic\" have the same meanings as in section 4765.01 of the Revised Code. Pursuant to section 4765.011 of the Revised Code, an emergency medical technician-basic or EMT-basic is also known as an emergency medical technician or EMT, respectively, and an emergency medical technician-intermediate or EMT-I is also known as an advanced emergency medical technician or AEMT, respectively.",
+      "id": "4766.01-emergency-medical-service-organization",
+      "normalized": "emergency medical service organization",
+      "scope": "As used in this chapter:",
+      "section": "4766.01",
+      "source_title": "Section 4766.01 - Medical transportation board definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4766.01",
+      "term": "Emergency medical service organization"
+    },
+    {
+      "definition": "(J) \"Fixed wing air ambulance\" means a fixed wing aircraft that is specifically designed, constructed, or modified and equipped and is intended to be used as a means of air medical transportation.",
+      "id": "4766.01-fixed-wing-air-ambulance",
+      "normalized": "fixed wing air ambulance",
+      "scope": "As used in this chapter:",
+      "section": "4766.01",
+      "source_title": "Section 4766.01 - Medical transportation board definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4766.01",
+      "term": "Fixed wing air ambulance"
+    },
+    {
+      "definition": "(K) \"Health care practitioner\" has the same meaning as in section 3701.74 of the Revised Code.",
+      "id": "4766.01-health-care-practitioner",
+      "normalized": "health care practitioner",
+      "scope": "As used in this chapter:",
+      "section": "4766.01",
+      "source_title": "Section 4766.01 - Medical transportation board definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4766.01",
+      "term": "Health care practitioner"
+    },
+    {
+      "definition": "(L) \"Health care services\" has the same meaning as in section 3922.01 of the Revised Code.",
+      "id": "4766.01-health-care-services",
+      "normalized": "health care services",
+      "scope": "As used in this chapter:",
+      "section": "4766.01",
+      "source_title": "Section 4766.01 - Medical transportation board definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4766.01",
+      "term": "Health care services"
+    },
+    {
+      "definition": "(M) \"Intermediate life support\" means treatment that an emergency medical technician-intermediate is authorized to perform under section 4765.38 of the Revised Code.",
+      "id": "4766.01-intermediate-life-support",
+      "normalized": "intermediate life support",
+      "scope": "As used in this chapter:",
+      "section": "4766.01",
+      "source_title": "Section 4766.01 - Medical transportation board definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4766.01",
+      "term": "Intermediate life support"
+    },
+    {
+      "definition": "(N) \"Major emergency\" means any emergency event that cannot be resolved through the use of locally available emergency resources.",
+      "id": "4766.01-major-emergency",
+      "normalized": "major emergency",
+      "scope": "As used in this chapter:",
+      "section": "4766.01",
+      "source_title": "Section 4766.01 - Medical transportation board definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4766.01",
+      "term": "Major emergency"
+    },
+    {
+      "definition": "(O) \"Mass casualty\" means an emergency event that results in ten or more persons being injured, incapacitated, made ill, or killed.",
+      "id": "4766.01-mass-casualty",
+      "normalized": "mass casualty",
+      "scope": "As used in this chapter:",
+      "section": "4766.01",
+      "source_title": "Section 4766.01 - Medical transportation board definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4766.01",
+      "term": "Mass casualty"
+    },
+    {
+      "definition": "(P) \"Medical emergency\" means an unforeseen event affecting an individual in such a manner that a need for immediate care is created.",
+      "id": "4766.01-medical-emergency",
+      "normalized": "medical emergency",
+      "scope": "As used in this chapter:",
+      "section": "4766.01",
+      "source_title": "Section 4766.01 - Medical transportation board definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4766.01",
+      "term": "Medical emergency"
+    },
+    {
+      "definition": "(Q) \"Mobile intensive care unit\" means an ambulance used only for maintaining specialized or intensive care treatment and used primarily for interhospital transports of patients whose conditions require care beyond the services a paramedic is authorized to perform under section 4765.39 of the Revised Code.",
+      "id": "4766.01-mobile-intensive-care-unit",
+      "normalized": "mobile intensive care unit",
+      "scope": "As used in this chapter:",
+      "section": "4766.01",
+      "source_title": "Section 4766.01 - Medical transportation board definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4766.01",
+      "term": "Mobile intensive care unit"
+    },
+    {
+      "definition": "(R)(1) \"Nonemergency medical service organization\" means a person that does both of the following:\n\n(a) Provides services to the public on a regular basis for the purpose of transporting individuals who require the use of a wheelchair or other mobility aid to receive health care services in nonemergency circumstances;\n\n(b) Provides the services for a fee, regardless of whether the fee is paid by the person being transported, a third party payer, as defined in section 3702.51 of the Revised Code, or any other person or government entity.",
+      "id": "4766.01-nonemergency-medical-service-organization",
+      "normalized": "nonemergency medical service organization",
+      "scope": "As used in this chapter:",
+      "section": "4766.01",
+      "source_title": "Section 4766.01 - Medical transportation board definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4766.01",
+      "term": "Nonemergency medical service organization"
+    },
+    {
+      "definition": "(2) \"Nonemergency medical service organization\" does not include a health care facility, as defined in section 1751.01 of the Revised Code, that provides ambulette services only to patients of that facility.",
+      "id": "4766.01-nonemergency-medical-service-organization",
+      "normalized": "nonemergency medical service organization",
+      "scope": "As used in this chapter:",
+      "section": "4766.01",
+      "source_title": "Section 4766.01 - Medical transportation board definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4766.01",
+      "term": "Nonemergency medical service organization"
+    },
+    {
+      "definition": "(S) \"Nontransport vehicle\" means a motor vehicle operated by a licensed emergency medical service organization not as an ambulance, but as a vehicle for providing services in conjunction with the ambulances operated by the organization or other emergency medical service organizations.",
+      "id": "4766.01-nontransport-vehicle",
+      "normalized": "nontransport vehicle",
+      "scope": "As used in this chapter:",
+      "section": "4766.01",
+      "source_title": "Section 4766.01 - Medical transportation board definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4766.01",
+      "term": "Nontransport vehicle"
+    },
+    {
+      "definition": "(T) \"Patient\" means any individual who as a result of illness or injury needs medical attention, whose physical or mental condition is such that there is imminent danger of loss of life or significant health impairment, or who may be otherwise incapacitated or helpless as a result of a physical or mental condition, or any individual whose physical condition requires the use of a wheelchair or other mobility aid.",
+      "id": "4766.01-patient",
+      "normalized": "patient",
+      "scope": "As used in this chapter:",
+      "section": "4766.01",
+      "source_title": "Section 4766.01 - Medical transportation board definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4766.01",
+      "term": "Patient"
+    },
+    {
+      "definition": "(U) \"Rotorcraft air ambulance\" means a helicopter or other aircraft capable of vertical takeoffs, vertical landings, and hovering that is specifically designed, constructed, or modified and equipped and is intended to be used as a means of air medical transportation.",
+      "id": "4766.01-rotorcraft-air-ambulance",
+      "normalized": "rotorcraft air ambulance",
+      "scope": "As used in this chapter:",
+      "section": "4766.01",
+      "source_title": "Section 4766.01 - Medical transportation board definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4766.01",
+      "term": "Rotorcraft air ambulance"
+    },
+    {
+      "definition": "(V) \"Taxicab\" means a taxicab vehicle operated by a taxicab service company, provided the company is not a nonemergency medical service organization.",
+      "id": "4766.01-taxicab",
+      "normalized": "taxicab",
+      "scope": "As used in this chapter:",
+      "section": "4766.01",
+      "source_title": "Section 4766.01 - Medical transportation board definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4766.01",
+      "term": "Taxicab"
+    },
+    {
+      "definition": "(W) \"Transportation network company driver\" has the same meaning as in section 3942.01 of the Revised Code.",
+      "id": "4766.01-transportation-network-company-driver",
+      "normalized": "transportation network company driver",
+      "scope": "As used in this chapter:",
+      "section": "4766.01",
+      "source_title": "Section 4766.01 - Medical transportation board definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4766.01",
+      "term": "Transportation network company driver"
+    },
+    {
+      "definition": "(X) \"Transportation network company services\" has the same meaning as in section 3942.01 of the Revised Code.\n\nThe Legislative Service Commission presents the text of this section as a composite of the section as amended by multiple acts of the General Assembly. This presentation recognizes the principle stated in R.C. 1.52(B) that amendments are to be harmonized if reasonably capable of simultaneous operation.\n\nLast updated March 17, 2023 at 1:21 PM",
+      "id": "4766.01-transportation-network-company-services",
+      "normalized": "transportation network company services",
+      "scope": "As used in this chapter:",
+      "section": "4766.01",
+      "source_title": "Section 4766.01 - Medical transportation board definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4766.01",
+      "term": "Transportation network company services"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "4765.39",
+      "number": "4765.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.39"
+    },
+    {
+      "kind": "section",
+      "label": "4765.37",
+      "number": "4765.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.37"
+    },
+    {
+      "kind": "section",
+      "label": "4765.01",
+      "number": "4765.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.01"
+    },
+    {
+      "kind": "section",
+      "label": "4765.011",
+      "number": "4765.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.011"
+    },
+    {
+      "kind": "section",
+      "label": "3701.74",
+      "number": "3701.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3701.74"
+    },
+    {
+      "kind": "section",
+      "label": "3922.01",
+      "number": "3922.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3922.01"
+    },
+    {
+      "kind": "section",
+      "label": "4765.38",
+      "number": "4765.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.38"
+    },
+    {
+      "kind": "section",
+      "label": "3702.51",
+      "number": "3702.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.51"
+    },
+    {
+      "kind": "section",
+      "label": "1751.01",
+      "number": "1751.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.01"
+    },
+    {
+      "kind": "section",
+      "label": "3942.01",
+      "number": "3942.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3942.01"
+    },
+    {
+      "kind": "section",
+      "label": "R.C. 1.52(B)",
+      "number": "1.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1.52"
+    }
+  ],
+  "scraped": "2026-07-02T20:08:07+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4766.01",
+  "title": "Section 4766.01 - Medical transportation board definitions."
+}

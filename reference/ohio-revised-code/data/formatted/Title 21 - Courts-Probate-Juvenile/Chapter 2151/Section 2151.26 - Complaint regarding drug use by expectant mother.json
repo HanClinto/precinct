@@ -1,0 +1,48 @@
+{
+  "glossary": [
+    {
+      "definition": "(2) \"Controlled substance\" has the same meaning as in section 3719.01 of the Revised Code.",
+      "id": "2151.26-controlled-substance",
+      "normalized": "controlled substance",
+      "scope": "(A) As used in this section:",
+      "section": "2151.26",
+      "source_title": "Section 2151.26 - Complaint regarding drug use by expectant mother.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2151.26",
+      "term": "Controlled substance"
+    },
+    {
+      "definition": "(3) \"Newborn\" means a child who is less than thirty days old.\n\n(B) A public children services agency shall not file a complaint pursuant to section 2151.27 of the Revised Code regarding a newborn solely because the newborn's mother used a controlled substance while pregnant if the mother did all of the following:\n\n(1) Before the end of the twentieth week of pregnancy, enrolled in a drug treatment program provided by a provider of addiction services or alcohol and drug addiction services;\n\n(2) Successfully completed the program or is in the process of completing the program and is in compliance with the program's terms and conditions as determined by the program;\n\n(3) Maintained her regularly scheduled appointments and prenatal care recommended by her health care provider for the remaining duration of her pregnancy.\n\n(C) If a pregnant woman enrolled in a drug treatment program after the end of the twentieth week of pregnancy, the court, in its discretion, may do either of the following in lieu of considering a complaint filed pursuant to section 2151.27 of the Revised Code based solely on the newborn's mother's use of a controlled substance while pregnant:\n\n(1) Hold the complaint in abeyance if the court finds that the woman is in the process of completing the program and maintained her regularly scheduled appointments and prenatal care recommended by her health care provider for the remaining duration of her pregnancy;\n\n(2) Dismiss the complaint if the court finds that the woman successfully completed the program and maintained her regularly scheduled appointments and prenatal care recommended by her health care provider for the remaining duration of her pregnancy.\n\n(D) This section does not prevent a public children services agency from filing a complaint pursuant to section 2151.27 of the Revised Code if the public children services agency determines that the newborn's mother, or any other adult caring for the newborn, is unable to provide adequate parental care.",
+      "id": "2151.26-newborn",
+      "normalized": "newborn",
+      "scope": "(A) As used in this section:",
+      "section": "2151.26",
+      "source_title": "Section 2151.26 - Complaint regarding drug use by expectant mother.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2151.26",
+      "term": "Newborn"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "5119.01",
+      "number": "5119.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.01"
+    },
+    {
+      "kind": "section",
+      "label": "3719.01",
+      "number": "3719.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3719.01"
+    },
+    {
+      "kind": "section",
+      "label": "2151.27",
+      "number": "2151.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.27"
+    }
+  ],
+  "scraped": "2026-07-02T19:41:58+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2151.26",
+  "title": "Section 2151.26 - Complaint regarding drug use by expectant mother."
+}

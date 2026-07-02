@@ -1,0 +1,10 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5559.14
+Scraped: 2026-07-02T20:13:44+00:00
+
+# Section 5559.14 - Payment on contract - estimates.
+
+**Effective:** October 1, 1953
+
+**Latest Legislation:** House Bill 1 - 100th General Assembly
+
+The payment of the cost of the construction of an improvement as provided by section 5559.02 of the Revised Code shall be made as the work progresses, upon estimates made by the county engineer. No payment on account of the contract for any improvement, shall, before the completion of such contract, exceed ninety per cent of the value of the work performed to the date of such payment, and, except as provided in this section and section 5559.15 of the Revised Code, ten per cent of the value of the work performed shall be held until the final completion of the contract in accordance with the plans and specifications. In addition to the above payments on account of work performed, the engineer may also allow the contractor an estimate not to exceed ninety per cent of the value of material delivered on the site of the work, or at a railroad station or siding, or other point in the general vicinity thereof, but not yet incorporated therein, provided such material has been inspected and found to meet the specifications. When an estimate is allowed on account of material delivered on the site of the work or in the vicinity thereof, but not yet incorporated therein, such material shall become the property of the county, but in case it is stolen, destroyed, or damaged by casualty before being used, the contractor will be required to replace it at his own expense. When the retained percentage plus the difference between the contract price and estimates allowed exceeds by more than fifteen per cent the estimated cost of completing the work, as determined by the engineer, such engineer may allow the contractor an estimate equal to all or any part of such excess sum, retaining not less than the estimated cost of completing the work, as determined by him, plus fifteen per cent.

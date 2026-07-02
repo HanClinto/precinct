@@ -1,0 +1,80 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-1907
+Scraped: 2026-07-02T19:40:55+00:00
+
+# Chapter 1907 - County Court - General Provisions
+
+## Sections
+
+- Section 1907.01 - County court.
+- Section 1907.011 - Ohio River jurisdiction.
+- Section 1907.012 - Jurisdiction over violations of township resolutions.
+- Section 1907.02 - Jurisdiction.
+- Section 1907.03 - Jurisdiction in civil actions.
+- Section 1907.031 - Original jurisdiction.
+- Section 1907.032 - Jurisdiction where property not removed at expiration of campsite use agreement.
+- Section 1907.04 - Temporary location of court in event of emergency.
+- Section 1907.05 - Jurisdiction concerning title to real estate.
+- Section 1907.06 - Jurisdiction in cases of replevin - appraisals of property.
+- Section 1907.07 - Balance not exceeding $15,000.
+- Section 1907.08 - Action on bond or undertaking.
+- Section 1907.09 - Judgment confessed for sum not exceeding $15,000.
+- Section 1907.10 - Concurrent criminal jurisdiction of mayor's court.
+- Section 1907.11 - Number of judges.
+- Section 1907.13 - Qualifications of county court judges.
+- Section 1907.131 - Presiding and administrative judge.
+- Section 1907.14 - Oath of office.
+- Section 1907.141 - Assigned and substitute judges.
+- Section 1907.142 - Reimbursement and compensation.
+- Section 1907.143 - Payment of per diem compensation.
+- Section 1907.15 - Division of county court district.
+- Section 1907.16 - Compensation of county court judges.
+- Section 1907.161 - Group health care coverage for county court judges.
+- Section 1907.17 - Commissioners may provide additional compensation.
+- Section 1907.18 - County court judges - jurisdiction and authority.
+- Section 1907.181 - Order for accused to appear for fingerprinting.
+- Section 1907.19 - Office space and materials for court.
+- Section 1907.20 - Powers and duties of county court clerk.
+- Section 1907.201 - Appointment of employees.
+- Section 1907.202 - Electronic filing.
+- Section 1907.21 - Alphabetical index to docket.
+- Section 1907.22 - Depositing official dockets with successor clerk.
+- Section 1907.23 - Receipt for official dockets of county court.
+- Section 1907.231 - Documentation of criminal convictions and guilty pleas to be retained in admissible form.
+- Section 1907.24 - Schedule of fees and costs.
+- Section 1907.25 - Alternative methods for collecting court costs; notice of balance due.
+- Section 1907.251 - Cancellation of uncollectible debts.
+- Section 1907.26 - Transmitting fees and costs.
+- Section 1907.261 - Computerizing court of paying cost of computerized legal research.
+- Section 1907.262 - Rules for procedures for resolution of disputes.
+- Section 1907.27 - Determination of witness fees.
+- Section 1907.28 - Jury selection.
+- Section 1907.29 - Jury trial procedure.
+- Section 1907.30 - Appeals.
+- Section 1907.31 - Application of rules of procedure.
+- Section 1907.32 - Arresting civil defendant.
+- Section 1907.33 - Attachment and garnishment actions.
+- Section 1907.34 - Returns showing only real estate.
+- Section 1907.35 - Nonresidence.
+- Section 1907.36 - Recovery of specific personal property prior to judgment.
+- Section 1907.37 - Warrant for arrest of witness.
+- Section 1907.38 - Punishment of witness.
+- Section 1907.39 - Costs of witness.
+- Section 1907.40 - Liability of witness.
+- Section 1907.41 - Arbitration.
+- Section 1907.42 - Arbitrators and proceedings.
+- Section 1907.43 - Award, judgment, and execution.
+- Section 1907.44 - Conclusiveness of judgment.
+- Section 1907.45 - County court judge may set aside award.
+- Section 1907.46 - Appeal.
+- Section 1907.47 - Execution - proceedings in aid of execution.
+- Section 1907.48 - Judge may issue executions for another judge.
+- Section 1907.49 - Revivor.
+- Section 1907.50 - Service and return.
+- Section 1907.51 - Cumulative remedy.
+- Section 1907.52 - Service by publication.
+- Section 1907.53 - Bailiffs.
+- Section 1907.531 - County court contracts for transportation of persons between jail and court.
+- Section 1907.54 - Appointment of special constables - duties.
+- Section 1907.55 - Appointment of special constable.
+- Section 1907.56 - Prohibition against purchasing of judgment.
+- Section 1907.57 - Prohibition against failure to deliver official dockets and papers.

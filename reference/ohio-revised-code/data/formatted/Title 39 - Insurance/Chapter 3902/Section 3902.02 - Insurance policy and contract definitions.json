@@ -1,0 +1,62 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Policy\" or \"policy form\" means any policy, contract, plan or agreement of life insurance and annuities, credit life insurance and credit disability insurance, and sickness and accident insurance, and subscriber policies, contracts, certificates, and agreements of health insuring corporations, delivered or issued for delivery in this state by any company subject to sections 3902.01 to 3902.08 of the Revised Code; any certificate, contract or policy issued by a fraternal benefit society; any certificate issued pursuant to a group insurance policy delivered or issued for delivery in this state; and any evidence of coverage issued by a health insuring corporation.",
+      "id": "3902.02-policy",
+      "normalized": "policy",
+      "scope": "As used in sections 3902.01 to 3902.08 of the Revised Code:",
+      "section": "3902.02",
+      "source_title": "Section 3902.02 - Insurance policy and contract definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3902.02",
+      "term": "Policy"
+    },
+    {
+      "definition": "(A) \"Policy\" or \"policy form\" means any policy, contract, plan or agreement of life insurance and annuities, credit life insurance and credit disability insurance, and sickness and accident insurance, and subscriber policies, contracts, certificates, and agreements of health insuring corporations, delivered or issued for delivery in this state by any company subject to sections 3902.01 to 3902.08 of the Revised Code; any certificate, contract or policy issued by a fraternal benefit society; any certificate issued pursuant to a group insurance policy delivered or issued for delivery in this state; and any evidence of coverage issued by a health insuring corporation.",
+      "id": "3902.02-policy-form",
+      "normalized": "policy form",
+      "scope": "As used in sections 3902.01 to 3902.08 of the Revised Code:",
+      "section": "3902.02",
+      "source_title": "Section 3902.02 - Insurance policy and contract definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3902.02",
+      "term": "policy form"
+    },
+    {
+      "definition": "(B) \"Company\" or \"insurer\" means any entity authorized to do the business of life insurance and annuities, sickness and accident insurance, credit life insurance, or credit disability insurance; a fraternal benefit society; and a health insuring corporation.",
+      "id": "3902.02-company",
+      "normalized": "company",
+      "scope": "As used in sections 3902.01 to 3902.08 of the Revised Code:",
+      "section": "3902.02",
+      "source_title": "Section 3902.02 - Insurance policy and contract definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3902.02",
+      "term": "Company"
+    },
+    {
+      "definition": "(B) \"Company\" or \"insurer\" means any entity authorized to do the business of life insurance and annuities, sickness and accident insurance, credit life insurance, or credit disability insurance; a fraternal benefit society; and a health insuring corporation.",
+      "id": "3902.02-insurer",
+      "normalized": "insurer",
+      "scope": "As used in sections 3902.01 to 3902.08 of the Revised Code:",
+      "section": "3902.02",
+      "source_title": "Section 3902.02 - Insurance policy and contract definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3902.02",
+      "term": "insurer"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3902.01",
+      "number": "3902.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3902.01"
+    },
+    {
+      "kind": "section",
+      "label": "3902.08",
+      "number": "3902.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3902.08"
+    }
+  ],
+  "scraped": "2026-07-02T20:02:10+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3902.02",
+  "title": "Section 3902.02 - Insurance policy and contract definitions."
+}

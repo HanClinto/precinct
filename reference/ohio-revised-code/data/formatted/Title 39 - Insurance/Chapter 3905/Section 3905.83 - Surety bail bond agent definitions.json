@@ -1,0 +1,52 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Insurer\" means any domestic, foreign, or alien insurance company that has been issued a certificate of authority by the superintendent of insurance to transact surety business in this state.",
+      "id": "3905.83-insurer",
+      "normalized": "insurer",
+      "scope": "As used in sections 3905.83 to 3905.95 of the Revised Code:",
+      "section": "3905.83",
+      "source_title": "Section 3905.83 - Surety bail bond agent definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3905.83",
+      "term": "Insurer"
+    },
+    {
+      "definition": "(B) \"Managing general agent\" means any person that is appointed or employed by an insurer to supervise or otherwise manage the bail bond business written in this state by surety bail bond agents appointed by the insurer.",
+      "id": "3905.83-managing-general-agent",
+      "normalized": "managing general agent",
+      "scope": "As used in sections 3905.83 to 3905.95 of the Revised Code:",
+      "section": "3905.83",
+      "source_title": "Section 3905.83 - Surety bail bond agent definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3905.83",
+      "term": "Managing general agent"
+    },
+    {
+      "definition": "(C) \"Surety\" means an insurer that agrees to be responsible for the fulfillment of the obligation of a principal if the principal fails to fulfill that obligation.",
+      "id": "3905.83-surety",
+      "normalized": "surety",
+      "scope": "As used in sections 3905.83 to 3905.95 of the Revised Code:",
+      "section": "3905.83",
+      "source_title": "Section 3905.83 - Surety bail bond agent definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3905.83",
+      "term": "Surety"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3905.83",
+      "number": "3905.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3905.83"
+    },
+    {
+      "kind": "section",
+      "label": "3905.95",
+      "number": "3905.95",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3905.95"
+    }
+  ],
+  "scraped": "2026-07-02T20:02:17+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3905.83",
+  "title": "Section 3905.83 - Surety bail bond agent definitions."
+}

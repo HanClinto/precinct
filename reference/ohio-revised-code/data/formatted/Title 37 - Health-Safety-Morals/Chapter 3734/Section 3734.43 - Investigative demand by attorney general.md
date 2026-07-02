@@ -1,0 +1,86 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3734.43
+Scraped: 2026-07-02T20:00:34+00:00
+
+# Section 3734.43 - Investigative demand by attorney general.
+
+**Effective:** June 24, 1988
+
+**Latest Legislation:** House Bill 592 - 117th General Assembly
+
+(A) As used in this section, "documentary material" means the original or any copy of any writings, drawings, graphs, charts, photographs, phonorecords, and other data compilation from which intelligence, relevant to any investigation conducted to determine if any person is or has been engaged in a violation of this chapter, may be perceived with or without the use of detection devices.
+
+(B) Whenever the attorney general has reasonable cause to believe that any individual or business concern may be in possession, custody, or control of any documentary material or may have knowledge of any fact relevant to any investigation of an applicant or permittee authorized in sections 3734.41 to 3734.47 of the Revised Code, the attorney general or his designated representative may issue in writing and cause to be served upon any individual or business concern or the representative or agent of the individual or business concern an investigative demand requiring the individual or business concern to produce the documentary material for inspection and copying or reproduction, to answer under oath and in writing written interrogatories, or to appear and testify under oath before the attorney general or his duly authorized representative, or requiring the individual or business concern to do any combination of these three demands.
+
+(C) Each investigative demand shall:
+
+(1) Describe the conduct under investigation and state the provisions of law applicable thereto;
+
+(2) If it is a demand for production of documentary material:
+
+(a) Describe with reasonable particularity the documentary material to be produced;
+
+(b) Prescribe a return date that will provide a reasonable period of time within which the material may be assembled and made available for inspection and copying or reproduction;
+
+(c) Identify the custodian to whom the material shall be made available and the location at which the material is to be produced.
+
+(3) If it is a demand for answers to written interrogatories:
+
+(a) Identify the representative of the attorney general to whom such answers shall be made;
+
+(b) Prescribe a date by which the answers shall be presented.
+
+(4) If it is a demand for the giving of oral testimony:
+
+(a) Prescribe a date, time, and place at which oral testimony will be taken;
+
+(b) Identify the representative of the attorney general who will conduct the oral examination.
+
+(D) No investigative demand shall:
+
+(1) Contain any requirement that would be unreasonable if contained in a subpoena or subpoena duces tecum issued by a court in aid of a grand jury investigation;
+
+(2) Except as provided in division (H) of this section, require any answers to written interrogatories, the giving of any oral testimony, or the production of any documentary material that would be privileged from disclosure if demanded by a subpoena or subpoena duces tecum issued by a court in aid of a grand jury investigation.
+
+(E) Service of any investigative demand may be made and is complete by either of the following:
+
+(1) Mailing a copy of the demand by certified mail addressed to the individual or business concern to be served at his or its principal office, place of business, or residence;
+
+(2) Delivering a copy of the demand to the individual or business concern or the representative or agent of the individual or business concern.
+
+(F) Any individual or business concern served with a demand under this section may be represented by counsel at the taking of that individual's or business concern's testimony.
+
+(G) Except as otherwise provided in this section, the taking of oral testimony, answering of written interrogatories, and production of documentary material under this section shall in all respects follow the procedures established by the discovery provisions of the Rules of Civil Procedure.
+
+(H)(1) Whenever an individual or business concern served with a demand under this section refuses on the basis of the individual's privilege against self-incrimination to provide any oral testimony, to answer any written interrogatories, or to produce any documentary material, the attorney general or his designated representative may file a written request with a court of common pleas, and the court, unless it finds that to do so would not further the administration of justice, shall compel that individual to provide the oral testimony, to answer the written interrogatories, or to produce the documentary material if all of the following apply:
+
+(a) The attorney general or his designated representative makes a written request to the court of common pleas to order the individual to provide oral testimony, to answer written interrogatories, or produce documentary material, notwithstanding his claim of privilege;
+
+(b) The written request is made to a court of common pleas in the county in which the individual resides, transacts business, or is otherwise found, except that if the individual transacts business in more than one county, the request shall be made in the county in which the individual maintains his principal place of business;
+
+(c) The court of common pleas informs the individual that by providing oral testimony, answering written interrogatories, or producing documentary material he will receive immunity under division (H)(2) of this section.
+
+(2) If, but for division (H) of this section, the individual would have been privileged to withhold any oral testimony, answers to written interrogatories, or documentary material given in these proceedings and he complies with an order under division (H)(1) of this section compelling him to provide testimony, answers, or material, that answer, testimony, or evidence or any evidence directly or indirectly derived therefrom may not be used against him in any prosecution for a crime or offense concerning which he gave the answer, testified, or produced evidence if the answer, testimony, or evidence is responsive to the question propounded.
+
+(3) An individual granted immunity under division (H) of this section may be subjected to a criminal penalty for any violation of section 2921.11 , 2921.12 , or 2921.13 of the Revised Code, or for contempt committed in providing oral testimony, answers to written interrogatories, or documentary material in compliance with the order.
+
+(I) Within twenty days after service of an investigative demand upon any individual or business concern under this section or at any time before the compliance date specified in the demand, whichever period is shorter, the individual or business concern may file in the court of common pleas in the county in which he resides, transacts business, or is otherwise found, and serve upon the attorney general, a request for an order of the court modifying or setting aside the demand, except that if the individual or business concern transacts business in more than one county, the request shall be filed in the county in which the individual or business concern maintains his principal place of business or in any other county that may be agreed upon by the individual or business concern and the attorney general or his designated representative. If the court finds that the noncompliance was in bad faith or for the purpose of delay, it may order the individual or business concern to pay to the attorney general the reasonable expenses incurred in defending the investigative demand, including attorneys' fees, and may invoke the sanctions provided by Civil Rule 37.
+
+(J) No individual or business concern shall, with intent to avoid, evade, prevent, or obstruct compliance in whole or in part by any individual or business concern with any investigative demand made under this section, remove from any place, conceal, withhold, destroy, mutilate, alter, or by any other means falsify any documentary material that is the subject of any investigative demand served upon any individual or business concern.
+
+(K) The attorney general is responsible for the custody, use, and necessary preservation of the documentary material made available pursuant to a demand and for its return as provided by this section.
+
+(L) All documentary material, answers to written interrogatories, and transcripts of oral testimony that are provided pursuant to any investigative demand are compiled as if in reasonable anticipation of a civil or criminal action or proceeding and shall be confidential and not subject to disclosure. Unless otherwise ordered by a court of common pleas, no such documentary material, answers to written interrogatories, or transcripts of oral testimony shall be available for examination or copying by, nor shall the contents thereof be disclosed to, any individual other than an authorized representative of the attorney general without the consent of the individual or business concern that provided the material, answers, or testimony, except that the documentary material, answers to written interrogatories, or oral testimony may be used in any grand jury investigation or in the conduct of any case or other official proceeding involving the issuance of a license or permit required under this chapter or involving an alleged violation of this chapter. Materials compiled pursuant to investigative procedures under this section are discoverable only to the extent authorized by the rules of any administrative or judicial tribunal in which any proceeding under this chapter is pending. No employee of the office of the attorney general shall purposely make available for examination or copying documentary material, answers to written interrogatories, or transcripts of oral testimony provided pursuant to an investigative demand, nor disclose the contents thereof, except as provided by this section.
+
+(M) When copies of documentary material made available pursuant to an investigative demand are no longer required for use in a pending proceeding or, absent any pending proceeding, are no longer required in connection with the investigation for which they were demanded, or at the end of twenty-four months after the date when the material was made available, whichever is earlier, all copies of the material shall be returned unless a request to extend the period beyond twenty-four months has been filed in the court of common pleas in which a request for an order compelling compliance pursuant to division (H) of this section could be filed. This division does not require the return of any copies of the documentary material that have passed into the control of any court or grand jury.
+
+(N) Notwithstanding any provision of the Revised Code, public officers and their deputies, assistants, clerks, subordinates, and employees shall render and furnish to the attorney general or his designated representatives when so requested all information and assistance in their possession or within their power. The attorney general or his authorized representatives shall provide the same degree of confidentiality for any information received under this section as the public officer or employee from whom it is obtained is required by law to provide with respect to the information.
+
+(O) When any request is filed in any court of common pleas under this section, the court shall have jurisdiction to hear and determine the matter presented. In any proceeding brought pursuant to this section, upon a showing by the attorney general that the information sought is potentially relevant to an investigation authorized herein, the court shall order the individual or business concern to provide the information requested by the attorney general.
+
+(P) Nothing in this section impairs the authority of the attorney general to file any complaint alleging a violation of this chapter that is not described in the demand, nor prevents the use of any evidence obtained through this section or otherwise in such an action.
+
+(Q) Nothing in this section impairs the authority of the attorney general or his representatives to lay before any grand jury impaneled in this state any evidence obtained through this section or otherwise concerning any alleged violation of this chapter, to invoke the power of the courts to compel the production of any evidence before any such grand jury, to institute any proceeding for the enforcement of any order or process issued in execution of such power, or to punish disobedience of any such order or process by any person.
+
+(R) Any judicial proceeding to challenge or enforce an investigative demand made by the attorney general against an individual or business concern who neither resides in nor transacts business in this state shall be initiated in the court of common pleas of Franklin county.
+
+Last updated October 2, 2025 at 11:42 AM

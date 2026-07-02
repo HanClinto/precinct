@@ -1,0 +1,154 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Agreement\" means the streamlined sales and use tax agreement as amended and adopted on January 27, 2001, by the national conference of state legislatures' special task force on state and local taxation of telecommunications and electronic commerce, and unanimously adopted by the national conference of state legislatures' executive committee, and as subsequently amended and adopted by the member states.",
+      "id": "5740.01-agreement",
+      "normalized": "agreement",
+      "scope": "As used in this chapter:",
+      "section": "5740.01",
+      "source_title": "Section 5740.01 - Simplified sales and use tax administration act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5740.01",
+      "term": "Agreement"
+    },
+    {
+      "definition": "(B) \"Certified automated system\" means software certified jointly by the member states to calculate the sales or use tax imposed by each jurisdiction on a transaction, determine the amount of tax to remit to the appropriate state, and maintain a record of the transaction.",
+      "id": "5740.01-certified-automated-system",
+      "normalized": "certified automated system",
+      "scope": "As used in this chapter:",
+      "section": "5740.01",
+      "source_title": "Section 5740.01 - Simplified sales and use tax administration act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5740.01",
+      "term": "Certified automated system"
+    },
+    {
+      "definition": "(C) \"Certified service provider\" means an agent certified jointly by the member states to perform all of the seller's sales and use tax functions.",
+      "id": "5740.01-certified-service-provider",
+      "normalized": "certified service provider",
+      "scope": "As used in this chapter:",
+      "section": "5740.01",
+      "source_title": "Section 5740.01 - Simplified sales and use tax administration act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5740.01",
+      "term": "Certified service provider"
+    },
+    {
+      "definition": "(D) \"Member state\" means any state that is a signatory to the agreement.",
+      "id": "5740.01-member-state",
+      "normalized": "member state",
+      "scope": "As used in this chapter:",
+      "section": "5740.01",
+      "source_title": "Section 5740.01 - Simplified sales and use tax administration act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5740.01",
+      "term": "Member state"
+    },
+    {
+      "definition": "(E) \"Person\" means an individual, trust, estate, fiduciary, partnership, limited liability company, limited liability partnership, corporation, or any other legal entity.",
+      "id": "5740.01-person",
+      "normalized": "person",
+      "scope": "As used in this chapter:",
+      "section": "5740.01",
+      "source_title": "Section 5740.01 - Simplified sales and use tax administration act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5740.01",
+      "term": "Person"
+    },
+    {
+      "definition": "(F) \"Sales tax\" means the tax levied by section 5739.02 , 5739.021 , 5739.023 , 5739.026 , or 5739.10 of the Revised Code.",
+      "id": "5740.01-sales-tax",
+      "normalized": "sales tax",
+      "scope": "As used in this chapter:",
+      "section": "5740.01",
+      "source_title": "Section 5740.01 - Simplified sales and use tax administration act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5740.01",
+      "term": "Sales tax"
+    },
+    {
+      "definition": "(G) \"Seller\" means any person making sales, leases, or rentals of personal property or services.",
+      "id": "5740.01-seller",
+      "normalized": "seller",
+      "scope": "As used in this chapter:",
+      "section": "5740.01",
+      "source_title": "Section 5740.01 - Simplified sales and use tax administration act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5740.01",
+      "term": "Seller"
+    },
+    {
+      "definition": "(H) \"State\" means any state of the United States and the District of Columbia.",
+      "id": "5740.01-state",
+      "normalized": "state",
+      "scope": "As used in this chapter:",
+      "section": "5740.01",
+      "source_title": "Section 5740.01 - Simplified sales and use tax administration act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5740.01",
+      "term": "State"
+    },
+    {
+      "definition": "(I) \"Use tax\" means the tax levied by section 5741.02 , 5741.021 , 5741.022 , or 5741.023 of the Revised Code.",
+      "id": "5740.01-use-tax",
+      "normalized": "use tax",
+      "scope": "As used in this chapter:",
+      "section": "5740.01",
+      "source_title": "Section 5740.01 - Simplified sales and use tax administration act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5740.01",
+      "term": "Use tax"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "5739.02",
+      "number": "5739.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.02"
+    },
+    {
+      "kind": "section",
+      "label": "5739.021",
+      "number": "5739.021",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.021"
+    },
+    {
+      "kind": "section",
+      "label": "5739.023",
+      "number": "5739.023",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.023"
+    },
+    {
+      "kind": "section",
+      "label": "5739.026",
+      "number": "5739.026",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.026"
+    },
+    {
+      "kind": "section",
+      "label": "5739.10",
+      "number": "5739.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.10"
+    },
+    {
+      "kind": "section",
+      "label": "5741.02",
+      "number": "5741.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5741.02"
+    },
+    {
+      "kind": "section",
+      "label": "5741.021",
+      "number": "5741.021",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5741.021"
+    },
+    {
+      "kind": "section",
+      "label": "5741.022",
+      "number": "5741.022",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5741.022"
+    },
+    {
+      "kind": "section",
+      "label": "5741.023",
+      "number": "5741.023",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5741.023"
+    }
+  ],
+  "scraped": "2026-07-02T20:15:17+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5740.01",
+  "title": "Section 5740.01 - Simplified sales and use tax administration act definitions."
+}

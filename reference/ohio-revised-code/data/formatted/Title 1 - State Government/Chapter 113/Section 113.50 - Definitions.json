@@ -1,0 +1,156 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"ABLE account\" means an individual account opened in accordance with the program or a similar ABLE account program established by another state in accordance with section 529A of the Internal Revenue Code.",
+      "id": "113.50-able-account",
+      "normalized": "able account",
+      "scope": "As used in sections 113.50 to 113.56 of the Revised Code:",
+      "section": "113.50",
+      "source_title": "Section 113.50 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-113.50",
+      "term": "ABLE account"
+    },
+    {
+      "definition": "(B) \"Account owner\" means a designated beneficiary or any other person authorized to be the owner of an ABLE account under federal law.",
+      "id": "113.50-account-owner",
+      "normalized": "account owner",
+      "scope": "As used in sections 113.50 to 113.56 of the Revised Code:",
+      "section": "113.50",
+      "source_title": "Section 113.50 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-113.50",
+      "term": "Account owner"
+    },
+    {
+      "definition": "(C) \"Designated beneficiary\" means an eligible individual whose qualified disability expenses may be paid from an ABLE account.\n\n(D) \"Eligible individual,\" \"member of the family,\" \"qualified disability expenses,\" and \"qualified ABLE program\" have the same meanings as in section 529A of the Internal Revenue Code.",
+      "id": "113.50-designated-beneficiary",
+      "normalized": "designated beneficiary",
+      "scope": "As used in sections 113.50 to 113.56 of the Revised Code:",
+      "section": "113.50",
+      "source_title": "Section 113.50 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-113.50",
+      "term": "Designated beneficiary"
+    },
+    {
+      "definition": "(E) \"Financial organization\" means an insurance company, bank, or other financial institution or a broker-dealer registered with the securities and exchange commission.",
+      "id": "113.50-financial-organization",
+      "normalized": "financial organization",
+      "scope": "As used in sections 113.50 to 113.56 of the Revised Code:",
+      "section": "113.50",
+      "source_title": "Section 113.50 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-113.50",
+      "term": "Financial organization"
+    },
+    {
+      "definition": "(F) \"Management contract\" means a contract between the treasurer of state and a program manager under division (B) of section 113.52 of the Revised Code.",
+      "id": "113.50-management-contract",
+      "normalized": "management contract",
+      "scope": "As used in sections 113.50 to 113.56 of the Revised Code:",
+      "section": "113.50",
+      "source_title": "Section 113.50 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-113.50",
+      "term": "Management contract"
+    },
+    {
+      "definition": "(G) \"Maximum account value\" means the dollar amount calculated by the Ohio tuition trust authority pursuant to sections 3334.01 to 3334.21 of the Revised Code as the maximum amount that may be necessary to pay for the qualified higher education expenses of a beneficiary under those sections, consistent with the maximum contributions permitted under section 529 of the Internal Revenue Code.",
+      "id": "113.50-maximum-account-value",
+      "normalized": "maximum account value",
+      "scope": "As used in sections 113.50 to 113.56 of the Revised Code:",
+      "section": "113.50",
+      "source_title": "Section 113.50 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-113.50",
+      "term": "Maximum account value"
+    },
+    {
+      "definition": "(H) \"Program\" means the ABLE account program established under sections 113.50 to 113.56 of the Revised Code.",
+      "id": "113.50-program",
+      "normalized": "program",
+      "scope": "As used in sections 113.50 to 113.56 of the Revised Code:",
+      "section": "113.50",
+      "source_title": "Section 113.50 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-113.50",
+      "term": "Program"
+    },
+    {
+      "definition": "(I) \"Program account\" means an individual account opened in accordance with the program.",
+      "id": "113.50-program-account",
+      "normalized": "program account",
+      "scope": "As used in sections 113.50 to 113.56 of the Revised Code:",
+      "section": "113.50",
+      "source_title": "Section 113.50 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-113.50",
+      "term": "Program account"
+    },
+    {
+      "definition": "(J) \"Program manager\" means a financial organization selected by the treasurer of state to be a depository and manager of the program under section 113.52 of the Revised Code.",
+      "id": "113.50-program-manager",
+      "normalized": "program manager",
+      "scope": "As used in sections 113.50 to 113.56 of the Revised Code:",
+      "section": "113.50",
+      "source_title": "Section 113.50 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-113.50",
+      "term": "Program manager"
+    },
+    {
+      "definition": "(K) \"Secretary\" means the secretary of the treasury of the United States.",
+      "id": "113.50-secretary",
+      "normalized": "secretary",
+      "scope": "As used in sections 113.50 to 113.56 of the Revised Code:",
+      "section": "113.50",
+      "source_title": "Section 113.50 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-113.50",
+      "term": "Secretary"
+    },
+    {
+      "definition": "(L) \"Internal Revenue Code\" has the same meaning as in section 5747.01 of the Revised Code.",
+      "id": "113.50-internal-revenue-code",
+      "normalized": "internal revenue code",
+      "scope": "As used in sections 113.50 to 113.56 of the Revised Code:",
+      "section": "113.50",
+      "source_title": "Section 113.50 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-113.50",
+      "term": "Internal Revenue Code"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "113.50",
+      "number": "113.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-113.50"
+    },
+    {
+      "kind": "section",
+      "label": "113.56",
+      "number": "113.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-113.56"
+    },
+    {
+      "kind": "section",
+      "label": "113.52",
+      "number": "113.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-113.52"
+    },
+    {
+      "kind": "section",
+      "label": "3334.01",
+      "number": "3334.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3334.01"
+    },
+    {
+      "kind": "section",
+      "label": "3334.21",
+      "number": "3334.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3334.21"
+    },
+    {
+      "kind": "section",
+      "label": "5747.01",
+      "number": "5747.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.01"
+    }
+  ],
+  "scraped": "2026-07-02T19:31:30+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-113.50",
+  "title": "Section 113.50 - Definitions."
+}

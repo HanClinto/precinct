@@ -1,0 +1,16 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-154.17
+Scraped: 2026-07-02T19:32:02+00:00
+
+# Section 154.17 - Cooperation with commission - contract approval.
+
+**Effective:** September 29, 2013
+
+**Latest Legislation:** House Bill 59 - 130th General Assembly
+
+The departments of administrative services, mental health and addiction services, developmental disabilities, rehabilitation and correction, and natural resources, the Ohio board of regents, institutions of higher education, and other state officers and state agencies shall cooperate with the commission in providing services and information requested by the commission for purposes of Chapter 154. of the Revised Code, and the commission may make mutually satisfactory arrangements therefor and may thereunder designate any governmental agency for the management or performance of particular functions of the commission, other than the authorization and issuance of obligations provided for in Chapter 154. of the Revised Code, pursuant to which designation, upon acceptance thereof by that governmental agency, that function may be carried out with the full force and effect as if performed by the commission. Any such designation shall be made only by formal action or written agreement of the commission. In the management of capital facilities or performance of other functions with respect thereto, a governmental agency may exercise all powers which it has under law with respect to other similar facilities under its jurisdiction.
+
+Contracts relating to capital facilities shall be made in accordance with the law pertaining to the governmental agency designated under authority of this section to perform such contracting function, and in any other case shall be made in accordance with Chapter 153. of the Revised Code, for which purpose the commission shall be considered the owner, provided that the commission may assign the function of owner to the department of administrative services or other governmental agency as it determines. The commission may acquire by assignment from any governmental agency contracts which are not completed and which involve acquiring, constructing, reconstructing, rehabilitating, remodeling, renovating, enlarging, improving, equipping, or furnishing capital facilities, provided that such governmental agency has complied with the procedures prescribed by laws for its letting of such contract.
+
+No contract shall be let or assignment thereof accepted under this section involving performance in accordance with plans and specifications until such plans and specifications have been submitted to and approved by the governmental agency to have responsibility for the management of the capital facilities provided for in such plans and specifications, which approval shall be considered to be given if no approval or disapproval is communicated in writing to the commission or its designee for such purpose within sixty days following such submission of plans and specifications. Approval by such governmental agency of changes in plans and specifications is not required if the director of administrative services or the designee of the commission for such purpose shall certify that such changes do not substantially change the location, character, or extent of such capital facilities.
+
+Last updated October 15, 2025 at 11:20 AM

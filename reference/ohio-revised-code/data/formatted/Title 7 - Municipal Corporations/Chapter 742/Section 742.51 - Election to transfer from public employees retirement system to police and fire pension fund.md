@@ -1,0 +1,12 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-742.51
+Scraped: 2026-07-02T19:33:36+00:00
+
+# Section 742.51 - Election to transfer from public employees retirement system to police and fire pension fund.
+
+**Effective:** November 2, 1999
+
+**Latest Legislation:** House Bill 222 - 123rd General Assembly
+
+Any person serving as a full-time regular member of a township fire department, or a municipal fire or police department who was serving in that capacity on December 31, 1966, and was a member of the public employees retirement system on that date and who has continued to serve in the same capacity and has continued as a member of the public employees retirement system until filing an election after November 20, 1973, may elect prior to January 1, 1985, to transfer from the public employees retirement system to the Ohio police and fire pension fund. When such an election is made, the public employees retirement system shall certify to the Ohio police and fire pension fund a copy of the records of the service and contributions of such member and shall transfer to the Ohio police and fire pension fund all contributions to the credit of the member as a member of a police or fire department, and an amount equal to the total employer contribution paid on service as a member of a police or fire department, at the respective rates in effect during the member's employment.
+
+The Ohio police and fire pension fund shall obtain from its actuary a certification of the accrued liability for the member being transferred, less the amounts transferred from the public employees retirement system, and such unfunded accrued liability shall be charged to the municipal corporation or township in which the member is employed and paid in full or paid by the employer at the rate of at least five per cent per annum with interest at four per cent per annum on unpaid balances; payment and interest to be paid semiannually on dates to be fixed by the board of trustees of the Ohio police and fire pension fund. The Ohio police and fire pension fund may require any affected municipal corporation or township to certify the period of full-time service and salary of any member requesting transfer. A member transferred in accordance with this section shall be given service credit by the Ohio police and fire pension fund equal to the period of full-time service on which both member and employer made contributions to the public employees retirement system, which contributions were transferred to the Ohio police and fire pension fund.

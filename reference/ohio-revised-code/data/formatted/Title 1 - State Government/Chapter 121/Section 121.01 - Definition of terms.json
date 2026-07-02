@@ -1,0 +1,70 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Department\" means the several departments of state administration enumerated in section 121.02 of the Revised Code.",
+      "id": "121.01-department",
+      "normalized": "department",
+      "scope": "As used in sections 121.01 to 121.20 of the Revised Code:",
+      "section": "121.01",
+      "source_title": "Section 121.01 - Definition of terms.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-121.01",
+      "term": "Department"
+    },
+    {
+      "definition": "(B) \"Division\" means a part of a department established as provided in section 121.07 of the Revised Code for the convenient performance of one or more of the functions committed to a department.",
+      "id": "121.01-division",
+      "normalized": "division",
+      "scope": "As used in sections 121.01 to 121.20 of the Revised Code:",
+      "section": "121.01",
+      "source_title": "Section 121.01 - Definition of terms.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-121.01",
+      "term": "Division"
+    },
+    {
+      "definition": "(C) \"Departments, offices, and institutions\" include every organized body, office, and agency established by the constitution and laws of the state for the exercise of any function of the state government, and every institution or organization which receives any support from the state. \"Departments, offices, and institutions\" does not include the nonprofit corporation formed under section 187.01 of the Revised Code.",
+      "id": "121.01-departments-offices-and-institutions",
+      "normalized": "departments, offices, and institutions",
+      "scope": "As used in sections 121.01 to 121.20 of the Revised Code:",
+      "section": "121.01",
+      "source_title": "Section 121.01 - Definition of terms.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-121.01",
+      "term": "Departments, offices, and institutions"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "121.01",
+      "number": "121.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.01"
+    },
+    {
+      "kind": "section",
+      "label": "121.20",
+      "number": "121.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.20"
+    },
+    {
+      "kind": "section",
+      "label": "121.02",
+      "number": "121.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.02"
+    },
+    {
+      "kind": "section",
+      "label": "121.07",
+      "number": "121.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.07"
+    },
+    {
+      "kind": "section",
+      "label": "187.01",
+      "number": "187.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-187.01"
+    }
+  ],
+  "scraped": "2026-07-02T19:31:35+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-121.01",
+  "title": "Section 121.01 - Definition of terms."
+}

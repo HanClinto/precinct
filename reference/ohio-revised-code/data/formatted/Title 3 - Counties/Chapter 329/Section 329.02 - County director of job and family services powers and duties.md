@@ -1,0 +1,16 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-329.02
+Scraped: 2026-07-02T19:32:52+00:00
+
+# Section 329.02 - County director of job and family services powers and duties.
+
+**Effective:** July 1, 2007
+
+**Latest Legislation:** House Bill 187 - 126th General Assembly
+
+Under the control and direction of the board of county commissioners, the county director of job and family services shall have full charge of the county department of job and family services. The director shall prepare the annual budget estimate of the department and submit it to the board. Before submitting the budget estimate to the board, the director shall consider the recommendations of the county family services planning committee relative to that estimate. The director, with the approval of the board, shall appoint all necessary assistants and superintendents of institutions under the jurisdiction of the department, and all other employees of the department, except that the superintendent of each such institution shall appoint all employees in it and only the board may appoint administrators under section 329.021 of the Revised Code. Except for administrators appointed under section 329.021 of the Revised Code and up to five other administrative positions, the assistants and other employees of the department shall be in the classified civil service and may not be placed in or removed to the unclassified service. If no eligible list is available, a probationary appointment shall be made until an eligible list is available.
+
+Each director appointed on or after October 5, 1987, shall be in the unclassified civil service and serve at the pleasure of the board. If a person holding a classified position in the department is appointed as director on or after that date and is later removed by the board, except for a reason listed in section 124.34 of the Revised Code, the person so removed has the right to resume the position the person held in the classified service immediately prior to being appointed as director, or if that position no longer exists or has become an unclassified position, the person shall be appointed to a position in the classified service that the board, with the approval of the director of administrative services, determines is equivalent to the position the person held immediately prior to being appointed as director.
+
+The board, except as provided in this chapter, may provide by resolution for the coordination of the operations of the department and those of any county institution whose board or managing officer is appointed by the board of county commissioners.
+
+The board of county commissioners may enter into a written contract with a county director of job and family services specifying terms and conditions of the director's employment. The period of the contract shall not exceed three years. In addition to any review specified in the contract, the contract shall be subject to review and renegotiation for a period of thirty days, from the sixtieth to the ninetieth days after the beginning of the term of any newly elected commissioner. Such a contract shall in no way abridge the right of the board to terminate the employment of the director as an unclassified employee at will, but may specify terms and conditions of any such termination.

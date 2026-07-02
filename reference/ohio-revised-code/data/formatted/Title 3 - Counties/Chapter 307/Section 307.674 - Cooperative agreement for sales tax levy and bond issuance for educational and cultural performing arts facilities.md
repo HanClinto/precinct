@@ -1,0 +1,82 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-307.674
+Scraped: 2026-07-02T19:32:39+00:00
+
+# Section 307.674 - Cooperative agreement for sales tax levy and bond issuance for educational and cultural performing arts facilities.
+
+**Effective:** March 27, 2020
+
+**Latest Legislation:** House Bill 197 - 133rd General Assembly
+
+(A) As used in this section:
+
+(1) "Bonds" means:
+
+(a) Revenue bonds of the port authority described in division (B)(2)(a) of this section;
+
+(b) Securities as defined in division (KK) of section 133.01 of the Revised Code issued by the host municipal corporation, described in division (B)(3)(a) of this section;
+
+(c) Any bonds issued to refund any of those revenue bonds or securities.
+
+(2) "Corporation" means a nonprofit corporation that is organized under the laws of this state and that includes within the purposes for which it is incorporated the authorization to lease and operate facilities such as a port authority educational and cultural performing arts facility.
+
+(3) "Cost," as applied to a port authority educational and cultural performing arts facility, means the cost of acquiring, constructing, renovating, rehabilitating, equipping, or improving the facility, or any combination of those purposes, collectively referred to in this section as "construction," and the cost of acquisition of all land, rights of way, property rights, easements, franchise rights, and interests required for those purposes, the cost of demolishing or removing any buildings or structures on land so acquired, including the cost of acquiring any land to which those buildings or structures may be moved, the cost of public utility and common carrier relocation or duplication, the cost of all machinery, furnishings, and equipment, financing charges, interest prior to and during construction and for not more than three years after completion of construction, costs arising under guaranty agreements, reimbursement agreements, or other credit enhancement agreements relating to bonds, engineering, expenses of research and development with respect to such facility, legal expenses, plans, specifications, surveys, studies, estimates of costs and revenues, other expenses necessary or incident to determining the feasibility or practicability of acquiring or constructing the facility, administrative expense, and other expenses as may be necessary or incident to that acquisition or construction and the financing of such acquisition or construction, including, with respect to the revenue bonds of a port authority, amounts to be paid into any special funds from the proceeds of those bonds, and repayments to the port authority, host county, host municipal corporation, or corporation of any amounts advanced for the foregoing purposes.
+
+(4) "Debt service charges" means, for any period or payable at any time, the principal of and interest and any premium due on bonds for that period or payable at that time whether due at maturity or upon mandatory redemption, together with any required deposits to reserves for the payment of principal of and interest on those bonds, and includes any payments required by the port authority to satisfy any of its obligations under or arising from any guaranty agreements, reimbursement agreements, or other credit enhancement agreements described in division (C) of this section.
+
+(5) "Host county" means the county within the boundaries of which the port authority educational and cultural performing arts facility is or will be located.
+
+(6) "Host municipal corporation" means the municipal corporation within the boundaries of which the port authority educational and cultural performing arts facility is or will be located.
+
+(7) "Port authority" means a port authority created pursuant to section 4582.22 of the Revised Code.
+
+(8) "Port authority educational and cultural performing arts facility" means a facility that consists of a center for music or other performing arts, a theater or other facilities to provide programs of an educational, recreational, or cultural nature, or any combination of those purposes as determined by the parties to the cooperative agreement for which provision is made in division (B) of this section to fulfill the public educational, recreational, and cultural purposes set forth therein, together with all parking facilities, walkways, and other auxiliary facilities, real and personal property, property rights, easements, and interests that may be appropriate for, or used in connection with, the operation of the facility.
+
+(B) A host county, a host municipal corporation, and a port authority may enter into a cooperative agreement with a corporation under which, as further provided for in that agreement:
+
+(1) The host county may agree to do any or all of the following:
+
+(a) Levy and collect a tax under divisions (O) and (P) of section 5739.09 of the Revised Code for the purposes, and in an amount sufficient for those purposes, described in divisions (B)(1)(b) and (c) of this section;
+
+(b) Pay to the port authority all or such portion as provided for in the cooperative agreement of the revenue from the tax, together with any investment earnings on that revenue, to be used to pay a portion of the costs of acquiring, constructing, renovating, rehabilitating, equipping, or improving the port authority educational and cultural performing arts facility;
+
+(c) Pledge and pay to the corporation all or such portion as provided for in the cooperative agreement of the revenue from the tax, together with any investment earnings on that revenue, to be used to pay a portion of the costs to the corporation of leasing the port authority educational and cultural performing arts facility from the port authority.
+
+(2) The port authority may agree to do any or all of the following:
+
+(a) Issue its revenue bonds pursuant to section 4582.48 of the Revised Code for the purpose of paying all or a portion of the costs of the port authority educational and cultural performing arts facility;
+
+(b) Acquire, construct, renovate, rehabilitate, equip, and improve the port authority educational and cultural performing arts facility;
+
+(c) Lease the port authority educational and cultural performing arts facility to the corporation;
+
+(d) To the extent provided for in the cooperative agreement or the lease to the corporation, authorize the corporation to administer on behalf of the port authority the contracts for acquiring, constructing, renovating, rehabilitating, or equipping the port authority educational and cultural performing arts facility;
+
+(e) Use the revenue derived from the lease of the port authority educational and cultural performing arts facility to the corporation solely to pay debt service charges on revenue bonds of the port authority issued pursuant to division (B)(2)(a) of this section and to pay its obligations under or arising from any guaranty agreements, reimbursement agreements, or other credit enhancement agreements provided for in this section.
+
+(3) The host municipal corporation may agree to do either or both of the following:
+
+(a) Issue its bonds for the purpose of paying all or a portion of the costs of the port authority educational and cultural performing arts facility, and pay the proceeds from the issuance to the port authority for that purpose;
+
+(b) Enter into a guaranty agreement, a reimbursement agreement, or other credit enhancement agreement with the port authority to provide a guaranty or other credit enhancement of the port authority revenue bonds referred to in division (B)(2)(a) of this section pledging taxes, other than ad valorem property taxes, or other revenues for the purpose of providing the funds required to satisfy the host municipal corporation's obligations under that agreement.
+
+The cooperative agreement may provide that the proceeds of such securities or of such guaranty agreement, reimbursement agreement, or other credit enhancement agreement be deposited with and administered by the trustee pursuant to the trust agreement authorized in division (C) of this section.
+
+(4) The corporation may agree to do any or all of the following:
+
+(a) Lease the port authority educational and cultural performing arts facility from the port authority;
+
+(b) Operate and maintain the port authority educational and cultural performing arts facility pursuant to the lease;
+
+(c) To the extent provided for in the cooperative agreement or the lease from the port authority, administer on behalf of the port authority the contracts for acquiring, constructing, renovating, rehabilitating, or equipping the port authority educational and cultural performing arts facility.
+
+(C) The pledge and payments referred to in divisions (B)(1)(b) and (c) of this section and provided for in the cooperative agreement shall be for the period stated in the cooperative agreement but shall not extend longer than the period necessary to provide for the final retirement of the port authority revenue bonds referred to in division (B)(2)(a) of this section, and for the satisfaction by the port authority of any of its obligations under or arising from any guaranty agreements, reimbursement agreements, or other credit enhancement agreements relating to those bonds or to the revenues pledged to them. The cooperative agreement shall provide for the termination of the cooperative agreement, including the pledge and payment referred to in division (B)(1)(c) of this section, if the port authority revenue bonds referred to in division (B)(2)(a) of this section have not been issued, sold, and delivered within five years of the effective date of the cooperative agreement.
+
+The cooperative agreement shall provide that any port authority revenue bonds shall be secured by a trust agreement between the port authority and a corporate trustee that is a trust company or bank having the powers of a trust company within or outside the state but authorized to exercise trust powers within the state. The host county may be a party to that trust agreement for the purpose of better securing the pledge by the host county of its payment to the corporation pursuant to division (B)(1)(c) of this section. A tax levied pursuant to section 5739.09 of the Revised Code for the purposes specified in division (B)(1)(b) or (c) of this section is not subject to diminution by initiative or referendum or diminution by statute, unless provision is made for an adequate substitute reasonably satisfactory to the trustee under the trust agreement that secures the port authority revenue bonds.
+
+(D) A pledge of money by a host county under this section shall not be net indebtedness of the host county for purposes of section 133.07 of the Revised Code. A guaranty or other credit enhancement by a host municipal corporation under this section shall not be net indebtedness of the host municipal corporation for purposes of section 133.05 of the Revised Code.
+
+(E) If the terms of the cooperative agreement so provide, any contract for the acquisition, construction, renovation, rehabilitation, equipping, or improving of a port authority educational and cultural performing arts facility shall be made in such manner as is determined by the board of directors of the port authority, and unless the cooperative agreement provides otherwise, such a contract is not subject to division (A)(18)(b) of section 4582.31 of the Revised Code. The port authority may take the assignment of and assume any contracts for the acquisition, construction, renovation, rehabilitation, equipping, or improving of a port authority educational and cultural performing arts facility that had previously been authorized by any of the host county, the host municipality, or the corporation. Such contracts are not subject to division (A)(18)(b) of section 4582.31 of the Revised Code.
+
+Any contract for the acquisition, construction, renovation, rehabilitation, equipping, or improving of a port authority educational and cultural performing arts facility entered into, assigned, or assumed pursuant to this division shall provide that all laborers and mechanics employed for the acquisition, construction, renovation, rehabilitation, equipping, or improving of that facility shall be paid at the prevailing rates of wages of laborers and mechanics for the class of work called for by the port authority educational and cultural performing arts facility, which wages shall be determined in accordance with the requirements of Chapter 4115. of the Revised Code for the determination of prevailing wage rates.
+
+Notwithstanding any provisions to the contrary in section 123.281 of the Revised Code, construction services and general building services for a port authority educational and cultural performing arts facility funded completely or in part with money appropriated by the state to the Ohio facilities construction commission may be provided by a port authority or a corporation that occupies, will occupy, or is responsible for that facility, as determined by the commission. The construction services and general building services to be provided by the port authority or the corporation shall be specified in an agreement between the commission and the port authority or corporation. That agreement, or any actions taken under it, are not subject to Chapters 123. or 153. of the Revised Code, but are subject to Chapter 4115. of the Revised Code.

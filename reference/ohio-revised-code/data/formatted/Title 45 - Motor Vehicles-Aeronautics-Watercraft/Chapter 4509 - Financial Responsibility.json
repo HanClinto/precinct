@@ -1,0 +1,495 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 4509.01 - Financial responsibility definitions.",
+      "number": "4509.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.011 - Financial responsibility of minor drivers.",
+      "number": "4509.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.011"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.02 - Judgment, state definitions.",
+      "number": "4509.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.03 - Registrar of motor vehicles - powers and duties.",
+      "number": "4509.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.04 - Review of registrar's orders.",
+      "number": "4509.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.05 - Information furnished by registrar - fee.",
+      "number": "4509.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.06 - Accident report alleging uninsured driver or owner.",
+      "number": "4509.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.07 - Contents of accident report.",
+      "number": "4509.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.08 - Exception to report requirement.",
+      "number": "4509.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.10 - Use of report.",
+      "number": "4509.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.101 - Operating of motor vehicle without proof of financial responsibility.",
+      "number": "4509.101",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.101"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.102 - Falsification.",
+      "number": "4509.102",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.102"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.103 - Insurer to provide financial responsibility identification cards.",
+      "number": "4509.103",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.103"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.104 - Conspicuous warning that policy does not meet minimum amounts.",
+      "number": "4509.104",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.104"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.11 - Application of security requirements.",
+      "number": "4509.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.12 - Security deposit.",
+      "number": "4509.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.13 - Notice of required security deposit.",
+      "number": "4509.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.14 - Reduction of excessive security - return of excess deposit.",
+      "number": "4509.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.15 - Form and amount of security.",
+      "number": "4509.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.16 - Designation for whom security deposit made.",
+      "number": "4509.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.17 - License suspension upon failure to request hearing or deposit security.",
+      "number": "4509.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.18 - License or registration denied until security deposited.",
+      "number": "4509.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.19 - Exceptions to security deposit and suspension.",
+      "number": "4509.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.20 - Requirements of insurance or bond necessary to excuse deposit of security.",
+      "number": "4509.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.21 - Release or covenant not to sue - minors.",
+      "number": "4509.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.22 - Adjudication of nonliability.",
+      "number": "4509.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.23 - Payment of judgment.",
+      "number": "4509.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.24 - Agreement by parties - effect of breach.",
+      "number": "4509.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.25 - Registrar shall not require security deposit of relieved person or shall return security deposit.",
+      "number": "4509.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.26 - Termination of suspension.",
+      "number": "4509.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.27 - Security deposit fund.",
+      "number": "4509.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.28 - Application of security deposit funds.",
+      "number": "4509.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.29 - Return of deposit.",
+      "number": "4509.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.291 - Cooperation with other states.",
+      "number": "4509.291",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.291"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.30 - Accident report and findings of registrar prohibited at trial.",
+      "number": "4509.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.33 - Suspension of nonresidents' operating privilege and registration.",
+      "number": "4509.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.34 - Suspension of license withdrawn.",
+      "number": "4509.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.35 - Registrar to receive copies of judgments, conviction of nonresident or order forfeiture of bail.",
+      "number": "4509.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.36 - Copies of judgments sent to other states.",
+      "number": "4509.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.37 - Suspension of license and registration, and nonresident's operating privilege - civil penalties.",
+      "number": "4509.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.38 - Waiver by judgment creditor of suspension provision.",
+      "number": "4509.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.39 - No suspension when insurer obligated.",
+      "number": "4509.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.40 - Suspension continues until settlement of judgment.",
+      "number": "4509.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.41 - Satisfaction of judgments.",
+      "number": "4509.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.42 - Payment of judgment in installments.",
+      "number": "4509.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.44 - Proof of financial responsibility required for registration.",
+      "number": "4509.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.45 - Filing of proof of financial responsibility.",
+      "number": "4509.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.46 - Certificate of domestic insurer as proof.",
+      "number": "4509.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.47 - Proof of financial responsibility by nonresident.",
+      "number": "4509.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.48 - Default by insurance carrier.",
+      "number": "4509.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.49 - Requirements for motor-vehicle liability policy.",
+      "number": "4509.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.50 - Requirements may be met by one or more policies.",
+      "number": "4509.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.51 - Requirements for owner's liability insurance.",
+      "number": "4509.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.52 - Requirements for operator's insurance.",
+      "number": "4509.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.53 - Provisions incorporated into policy by law.",
+      "number": "4509.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.54 - Permissible exclusions of liability policies.",
+      "number": "4509.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.55 - Permissible liability provisions in policy.",
+      "number": "4509.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.56 - Binder fulfills requirements.",
+      "number": "4509.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.57 - Notice required to terminate insurance certification.",
+      "number": "4509.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.58 - Policies affected.",
+      "number": "4509.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.59 - Proof of financial responsibility evidenced by bond.",
+      "number": "4509.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.60 - Filing of bond constitutes lien.",
+      "number": "4509.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.61 - Judgment creditor may bring action against bond.",
+      "number": "4509.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.62 - Proof of financial responsibility evidenced by certificate of treasurer of state.",
+      "number": "4509.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.63 - Security to satisfy certain judgments.",
+      "number": "4509.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.64 - Proof of financial responsibility given by another.",
+      "number": "4509.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.65 - Substitution of other adequate proof of financial responsibility.",
+      "number": "4509.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.66 - Suspension for inadequate proof of financial responsibility.",
+      "number": "4509.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.67 - Cancellation of bond or certificate - waiver of requirement of filing proof.",
+      "number": "4509.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.67"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.68 - Transfer of registration not permitted - exception.",
+      "number": "4509.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.68"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.69 - Registration and plates to be returned to registrar.",
+      "number": "4509.69",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.69"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.70 - Plan for apportionment of applicants for insurance.",
+      "number": "4509.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.71 - Exemption of certain owners of motor vehicles.",
+      "number": "4509.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.72 - Requirements for self-insurer.",
+      "number": "4509.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.73 - Other relief not prevented.",
+      "number": "4509.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.74 - Prohibition against failure to report accident.",
+      "number": "4509.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.74"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.77 - Prohibition against failure to return license.",
+      "number": "4509.77",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.77"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.78 - General prohibition.",
+      "number": "4509.78",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.78"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.79 - Liability insurance for motor vehicles used in ridesharing arrangement.",
+      "number": "4509.79",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.79"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.80 - Chauffeured limousines.",
+      "number": "4509.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.80"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4509.81 - Suspension of rights of owner of chauffeured limousine - request for administrative hearing.",
+      "number": "4509.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.81"
+    }
+  ],
+  "scraped": "2026-07-02T20:05:34+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-4509",
+  "title": "Chapter 4509 - Financial Responsibility"
+}

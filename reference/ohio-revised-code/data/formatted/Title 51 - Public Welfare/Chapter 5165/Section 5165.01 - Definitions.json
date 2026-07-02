@@ -1,0 +1,696 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Affiliated operator\" means an operator affiliated with either of the following:\n\n(1) The exiting operator for whom the affiliated operator is to assume liability for the entire amount of the exiting operator's debt under the medicaid program or the portion of the debt that represents the franchise permit fee the exiting operator owes;\n\n(2) The entering operator involved in the change of operator with the exiting operator specified in division (A)(1) of this section.\n\n(B) \"Allowable costs\" are a nursing facility's costs that the department of medicaid determines are reasonable. Fines paid under sections 5165.60 to 5165.89 and section 5165.99 of the Revised Code are not allowable costs.",
+      "id": "5165.01-affiliated-operator",
+      "normalized": "affiliated operator",
+      "scope": "As used in this chapter:",
+      "section": "5165.01",
+      "source_title": "Section 5165.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01",
+      "term": "Affiliated operator"
+    },
+    {
+      "definition": "(C) \"Ancillary and support costs\" means all reasonable costs incurred by a nursing facility other than direct care costs, tax costs, or capital costs. \"Ancillary and support costs\" includes, but is not limited to, costs of activities, social services, pharmacy consultants, habilitation supervisors, qualified intellectual disability professionals, program directors, medical and habilitation records, program supplies, incontinence supplies, food, enterals, dietary supplies and personnel, laundry, housekeeping, security, administration, medical equipment, utilities, liability insurance, bookkeeping, purchasing department, human resources, communications, travel, dues, license fees, subscriptions, home office costs not otherwise allocated, legal services, accounting services, minor equipment, maintenance and repairs, help-wanted advertising, informational advertising, start-up costs, organizational expenses, other interest, property insurance, employee training and staff development, employee benefits, payroll taxes, and workers' compensation premiums or costs for self-insurance claims and related costs as specified in rules adopted under section 5165.02 of the Revised Code, for personnel listed in this division. \"Ancillary and support costs\" also means the cost of equipment, including vehicles, acquired by operating lease executed before December 1, 1992, if the costs are reported as administrative and general costs on the nursing facility's cost report for the cost reporting period ending December 31, 1992.",
+      "id": "5165.01-ancillary-and-support-costs",
+      "normalized": "ancillary and support costs",
+      "scope": "As used in this chapter:",
+      "section": "5165.01",
+      "source_title": "Section 5165.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01",
+      "term": "Ancillary and support costs"
+    },
+    {
+      "definition": "(D) \"Applicable calendar year\" means the calendar year immediately preceding the first of the state fiscal years for which a rebasing is conducted.\n\n(E) For purposes of calculating a critical access nursing facility's occupancy rate and utilization rate under this chapter, \"as of the last day of the calendar year\" refers to the occupancy and utilization rates during the calendar year identified in the cost report filed under section 5165.10 of the Revised Code.",
+      "id": "5165.01-applicable-calendar-year",
+      "normalized": "applicable calendar year",
+      "scope": "As used in this chapter:",
+      "section": "5165.01",
+      "source_title": "Section 5165.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01",
+      "term": "Applicable calendar year"
+    },
+    {
+      "definition": "(F)(1) \"Capital costs\" means the actual expense incurred by a nursing facility for all of the following:\n\n(a) Depreciation and interest on any capital assets that cost five hundred dollars or more per item, including the following:\n\n(i) Buildings;\n\n(ii) Building improvements;\n\n(iii) Except as provided in division (D) of this section, equipment;\n\n(iv) Transportation equipment.\n\n(b) Amortization and interest on land improvements and leasehold improvements;\n\n(c) Amortization of financing costs;\n\n(d) Lease and rent of land, buildings, and equipment.\n\n(2) The costs of capital assets of less than five hundred dollars per item may be considered capital costs in accordance with a provider's practice.\n\n(G) \"Capital lease\" and \"operating lease\" shall be construed in accordance with generally accepted accounting principles.",
+      "id": "5165.01-capital-costs",
+      "normalized": "capital costs",
+      "scope": "As used in this chapter:",
+      "section": "5165.01",
+      "source_title": "Section 5165.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01",
+      "term": "Capital costs"
+    },
+    {
+      "definition": "(H) \"Case-mix score\" means a measure determined under section 5165.192 of the Revised Code of the relative direct-care resources needed to provide care and habilitation to a nursing facility resident.",
+      "id": "5165.01-case-mix-score",
+      "normalized": "case-mix score",
+      "scope": "As used in this chapter:",
+      "section": "5165.01",
+      "source_title": "Section 5165.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01",
+      "term": "Case-mix score"
+    },
+    {
+      "definition": "(I) \"Change of operator\" includes circumstances in which an entering operator becomes the operator of a nursing facility in the place of the exiting operator.\n\n(1) Actions that constitute a change of operator include the following:\n\n(a) A change in an exiting operator's form of legal organization, including the formation of a partnership or corporation from a sole proprietorship;\n\n(b) A change in operational control of the nursing facility, regardless of whether ownership of any or all of the real property or personal property associated with the nursing facility is also transferred;\n\n(c) A lease of the nursing facility to the entering operator or termination of the exiting operator's lease;\n\n(d) If the exiting operator is a partnership, dissolution of the partnership, a merger of the partnership into another person that is the survivor of the merger, or a consolidation of the partnership and at least one other person to form a new person;\n\n(e) If the exiting operator is a limited liability company, dissolution of the limited liability company, a merger of the limited liability company into another person that is the survivor of the merger, or a consolidation of the limited liability company and at least one other person to form a new person.\n\n(f) If the operator is a corporation, dissolution of the corporation, a merger of the corporation into another person that is the survivor of the merger, or a consolidation of the corporation and at least one other person to form a new person;\n\n(g) A contract for a person to assume operational control of a nursing facility;\n\n(h) A change of fifty per cent or more in the ownership of the licensed operator that results in a change of operational control;\n\n(i) Any pledge, assignment, or hypothecation of or lien or other encumbrance on any of the legal or beneficial equity interests in the operator or a person with operational control.\n\n(2) The following do not constitute a change of operator:\n\n(a) Actions necessary to create an employee stock ownership plan under section 401(a) of the \"Internal Revenue Code,\" 26 U.S.C. 401(a);\n\n(b) A change of ownership of real property or personal property associated with a nursing facility;\n\n(c) If the operator is a corporation that has securities publicly traded in a marketplace, a change of one or more members of the corporation's governing body or transfer of ownership of one or more shares of the corporation's stock, if the same corporation continues to be the operator;\n\n(d) An initial public offering for which the securities and exchange commission has declared the registration statement effective, and the newly created public company remains the operator.",
+      "id": "5165.01-change-of-operator",
+      "normalized": "change of operator",
+      "scope": "As used in this chapter:",
+      "section": "5165.01",
+      "source_title": "Section 5165.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01",
+      "term": "Change of operator"
+    },
+    {
+      "definition": "(J) \"Cost center\" means the following:\n\n(1) Ancillary and support costs;\n\n(2) Capital costs;\n\n(3) Direct care costs;\n\n(4) Tax costs.",
+      "id": "5165.01-cost-center",
+      "normalized": "cost center",
+      "scope": "As used in this chapter:",
+      "section": "5165.01",
+      "source_title": "Section 5165.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01",
+      "term": "Cost center"
+    },
+    {
+      "definition": "(K) \"Custom wheelchair\" means a wheelchair to which both of the following apply:\n\n(1) It has been measured, fitted, or adapted in consideration of either of the following:\n\n(a) The body size or disability of the individual who is to use the wheelchair;\n\n(b) The individual's period of need for, or intended use of, the wheelchair.\n\n(2) It has customized features, modifications, or components, such as adaptive seating and positioning systems, that the supplier who assembled the wheelchair, or the manufacturer from which the wheelchair was ordered, added or made in accordance with the instructions of the physician of the individual who is to use the wheelchair.",
+      "id": "5165.01-custom-wheelchair",
+      "normalized": "custom wheelchair",
+      "scope": "As used in this chapter:",
+      "section": "5165.01",
+      "source_title": "Section 5165.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01",
+      "term": "Custom wheelchair"
+    },
+    {
+      "definition": "(L)(1) \"Date of licensure\" means the following:\n\n(a) In the case of a nursing facility that was required by law to be licensed as a nursing home under Chapter 3721. of the Revised Code when it originally began to be operated as a nursing home, the date the nursing facility was originally so licensed;\n\n(b) In the case of a nursing facility that was not required by law to be licensed as a nursing home when it originally began to be operated as a nursing home, the date it first began to be operated as a nursing home, regardless of the date the nursing facility was first licensed as a nursing home.\n\n(2) If, after a nursing facility's original date of licensure, more nursing home beds are added to the nursing facility, the nursing facility has a different date of licensure for the additional beds. This does not apply, however, to additional beds when both of the following apply:\n\n(a) The additional beds are located in a part of the nursing facility that was constructed at the same time as the continuing beds already located in that part of the nursing facility;\n\n(b) The part of the nursing facility in which the additional beds are located was constructed as part of the nursing facility at a time when the nursing facility was not required by law to be licensed as a nursing home.\n\n(3) The definition of \"date of licensure\" in this section applies in determinations of nursing facilities' medicaid payment rates but does not apply in determinations of nursing facilities' franchise permit fees.",
+      "id": "5165.01-date-of-licensure",
+      "normalized": "date of licensure",
+      "scope": "As used in this chapter:",
+      "section": "5165.01",
+      "source_title": "Section 5165.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01",
+      "term": "Date of licensure"
+    },
+    {
+      "definition": "(M) \"Desk-reviewed\" means that a nursing facility's costs as reported on a cost report submitted under section 5165.10 of the Revised Code have been subjected to a desk review under section 5165.108 of the Revised Code and preliminarily determined to be allowable costs.",
+      "id": "5165.01-desk-reviewed",
+      "normalized": "desk-reviewed",
+      "scope": "As used in this chapter:",
+      "section": "5165.01",
+      "source_title": "Section 5165.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01",
+      "term": "Desk-reviewed"
+    },
+    {
+      "definition": "(N) \"Direct care costs\" means all of the following costs incurred by a nursing facility:\n\n(1) Costs for registered nurses, licensed practical nurses, and nurse aides employed by the nursing facility;\n\n(2) Costs for direct care staff, administrative nursing staff, medical directors, respiratory therapists, and except as provided in division (N)(8) of this section, other persons holding degrees qualifying them to provide therapy;\n\n(3) Costs of purchased nursing services;\n\n(4) Costs of quality assurance;\n\n(5) Costs of training and staff development, employee benefits, payroll taxes, and workers' compensation premiums or costs for self-insurance claims and related costs as specified in rules adopted under section 5165.02 of the Revised Code, for personnel listed in divisions (N)(1), (2), (4), and (8) of this section;\n\n(6) Costs of consulting and management fees related to direct care;\n\n(7) Allocated direct care home office costs;\n\n(8) Costs of habilitation staff (other than habilitation supervisors), medical supplies, emergency oxygen, over-the-counter pharmacy products, physical therapists, physical therapy assistants, occupational therapists, occupational therapy assistants, speech therapists, audiologists, habilitation supplies, and universal precautions supplies;\n\n(9) Costs of wheelchairs other than the following:\n\n(a) Custom wheelchairs;\n\n(b) Repairs to and replacements of custom wheelchairs and parts that are made in accordance with the instructions of the physician of the individual who uses the custom wheelchair.\n\n(10) Costs of other direct-care resources that are specified as direct care costs in rules adopted under section 5165.02 of the Revised Code.",
+      "id": "5165.01-direct-care-costs",
+      "normalized": "direct care costs",
+      "scope": "As used in this chapter:",
+      "section": "5165.01",
+      "source_title": "Section 5165.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01",
+      "term": "Direct care costs"
+    },
+    {
+      "definition": "(O) \"Dual eligible individual\" has the same meaning as in section 5160.01 of the Revised Code.",
+      "id": "5165.01-dual-eligible-individual",
+      "normalized": "dual eligible individual",
+      "scope": "As used in this chapter:",
+      "section": "5165.01",
+      "source_title": "Section 5165.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01",
+      "term": "Dual eligible individual"
+    },
+    {
+      "definition": "(P) \"Effective date of a change of operator\" means the day the entering operator becomes the operator of the nursing facility.",
+      "id": "5165.01-effective-date-of-a-change-of-operator",
+      "normalized": "effective date of a change of operator",
+      "scope": "As used in this chapter:",
+      "section": "5165.01",
+      "source_title": "Section 5165.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01",
+      "term": "Effective date of a change of operator"
+    },
+    {
+      "definition": "(Q) \"Effective date of a facility closure\" means the last day that the last of the residents of the nursing facility resides in the nursing facility.",
+      "id": "5165.01-effective-date-of-a-facility-closure",
+      "normalized": "effective date of a facility closure",
+      "scope": "As used in this chapter:",
+      "section": "5165.01",
+      "source_title": "Section 5165.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01",
+      "term": "Effective date of a facility closure"
+    },
+    {
+      "definition": "(R) \"Effective date of an involuntary termination\" means the date the department of medicaid terminates the operator's provider agreement for the nursing facility.",
+      "id": "5165.01-effective-date-of-an-involuntary-termination",
+      "normalized": "effective date of an involuntary termination",
+      "scope": "As used in this chapter:",
+      "section": "5165.01",
+      "source_title": "Section 5165.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01",
+      "term": "Effective date of an involuntary termination"
+    },
+    {
+      "definition": "(S) \"Effective date of a voluntary withdrawal of participation\" means the day the nursing facility ceases to accept new medicaid residents other than the individuals who reside in the nursing facility on the day before the effective date of the voluntary withdrawal of participation.",
+      "id": "5165.01-effective-date-of-a-voluntary-withdrawal-of-participation",
+      "normalized": "effective date of a voluntary withdrawal of participation",
+      "scope": "As used in this chapter:",
+      "section": "5165.01",
+      "source_title": "Section 5165.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01",
+      "term": "Effective date of a voluntary withdrawal of participation"
+    },
+    {
+      "definition": "(T) \"Entering operator\" means the person or government entity that will become the operator of a nursing facility when a change of operator occurs or following an involuntary termination.",
+      "id": "5165.01-entering-operator",
+      "normalized": "entering operator",
+      "scope": "As used in this chapter:",
+      "section": "5165.01",
+      "source_title": "Section 5165.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01",
+      "term": "Entering operator"
+    },
+    {
+      "definition": "(U) \"Exiting operator\" means any of the following:\n\n(1) An operator that will cease to be the operator of a nursing facility on the effective date of a change of operator;\n\n(2) An operator that will cease to be the operator of a nursing facility on the effective date of a facility closure;\n\n(3) An operator of a nursing facility that is undergoing or has undergone a voluntary withdrawal of participation;\n\n(4) An operator of a nursing facility that is undergoing or has undergone an involuntary termination.",
+      "id": "5165.01-exiting-operator",
+      "normalized": "exiting operator",
+      "scope": "As used in this chapter:",
+      "section": "5165.01",
+      "source_title": "Section 5165.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01",
+      "term": "Exiting operator"
+    },
+    {
+      "definition": "(V)(1) Subject to divisions (V)(2) and (3) of this section, \"facility closure\" means either of the following:\n\n(a) Discontinuance of the use of the building, or part of the building, that houses the facility as a nursing facility that results in the relocation of all of the nursing facility's residents;\n\n(b) Conversion of the building, or part of the building, that houses a nursing facility to a different use with any necessary license or other approval needed for that use being obtained and one or more of the nursing facility's residents remaining in the building, or part of the building, to receive services under the new use.\n\n(2) A facility closure occurs regardless of any of the following:\n\n(a) The operator completely or partially replacing the nursing facility by constructing a new nursing facility or transferring the nursing facility's license to another nursing facility;\n\n(b) The nursing facility's residents relocating to another of the operator's nursing facilities;\n\n(c) Any action the department of health takes regarding the nursing facility's medicaid certification that may result in the transfer of part of the nursing facility's survey findings to another of the operator's nursing facilities;\n\n(d) Any action the department of health takes regarding the nursing facility's license under Chapter 3721. of the Revised Code.\n\n(3) A facility closure does not occur if all of the nursing facility's residents are relocated due to an emergency evacuation and one or more of the residents return to a medicaid-certified bed in the nursing facility not later than thirty days after the evacuation occurs.",
+      "id": "5165.01-facility-closure",
+      "normalized": "facility closure",
+      "scope": "As used in this chapter:",
+      "section": "5165.01",
+      "source_title": "Section 5165.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01",
+      "term": "facility closure"
+    },
+    {
+      "definition": "(W) \"Franchise permit fee\" means the fee imposed by sections 5168.40 to 5168.56 of the Revised Code.",
+      "id": "5165.01-franchise-permit-fee",
+      "normalized": "franchise permit fee",
+      "scope": "As used in this chapter:",
+      "section": "5165.01",
+      "source_title": "Section 5165.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01",
+      "term": "Franchise permit fee"
+    },
+    {
+      "definition": "(X) \"Inpatient days\" means both of the following:\n\n(1) All days during which a resident, regardless of payment source, occupies a licensed bed in a nursing facility;\n\n(2) Fifty per cent of the days for which payment is made under section 5165.34 of the Revised Code.",
+      "id": "5165.01-inpatient-days",
+      "normalized": "inpatient days",
+      "scope": "As used in this chapter:",
+      "section": "5165.01",
+      "source_title": "Section 5165.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01",
+      "term": "Inpatient days"
+    },
+    {
+      "definition": "(Y) \"Involuntary termination\" means the department of medicaid's termination of the operator's provider agreement for the nursing facility when the termination is not taken at the operator's request.",
+      "id": "5165.01-involuntary-termination",
+      "normalized": "involuntary termination",
+      "scope": "As used in this chapter:",
+      "section": "5165.01",
+      "source_title": "Section 5165.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01",
+      "term": "Involuntary termination"
+    },
+    {
+      "definition": "(Z) \"Low case-mix resident\" means a medicaid recipient residing in a nursing facility who, for purposes of calculating the nursing facility's medicaid payment rate for direct care costs, is placed in either of the two lowest case-mix groups, excluding any case-mix group that is a default group used for residents with incomplete assessment data.",
+      "id": "5165.01-low-case-mix-resident",
+      "normalized": "low case-mix resident",
+      "scope": "As used in this chapter:",
+      "section": "5165.01",
+      "source_title": "Section 5165.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01",
+      "term": "Low case-mix resident"
+    },
+    {
+      "definition": "(AA) \"Maintenance and repair expenses\" means a nursing facility's expenditures that are necessary and proper to maintain an asset in a normally efficient working condition and that do not extend the useful life of the asset two years or more. \"Maintenance and repair expenses\" includes but is not limited to the costs of ordinary repairs such as painting and wallpapering.",
+      "id": "5165.01-maintenance-and-repair-expenses",
+      "normalized": "maintenance and repair expenses",
+      "scope": "As used in this chapter:",
+      "section": "5165.01",
+      "source_title": "Section 5165.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01",
+      "term": "Maintenance and repair expenses"
+    },
+    {
+      "definition": "(BB) \"Medicaid-certified capacity\" means the number of a nursing facility's beds that are certified for participation in medicaid as nursing facility beds.",
+      "id": "5165.01-medicaid-certified-capacity",
+      "normalized": "medicaid-certified capacity",
+      "scope": "As used in this chapter:",
+      "section": "5165.01",
+      "source_title": "Section 5165.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01",
+      "term": "Medicaid-certified capacity"
+    },
+    {
+      "definition": "(CC) \"Medicaid days\" means both of the following:\n\n(1) All days during which a resident who is a medicaid recipient eligible for nursing facility services occupies a bed in a nursing facility that is included in the nursing facility's medicaid-certified capacity;\n\n(2) Fifty per cent of the days for which payment is made under section 5165.34 of the Revised Code.",
+      "id": "5165.01-medicaid-days",
+      "normalized": "medicaid days",
+      "scope": "As used in this chapter:",
+      "section": "5165.01",
+      "source_title": "Section 5165.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01",
+      "term": "Medicaid days"
+    },
+    {
+      "definition": "(DD)(1) \"New nursing facility\" means a nursing facility for which the provider obtains an initial provider agreement following medicaid certification of the nursing facility by the director of health, including such a nursing facility that replaces one or more nursing facilities for which a provider previously held a provider agreement.\n\n(2) \"New nursing facility\" does not mean a nursing facility for which the entering operator seeks a provider agreement pursuant to section 5165.511 or 5165.512 or (pursuant to section 5165.515 ) section 5165.07 of the Revised Code.",
+      "id": "5165.01-new-nursing-facility",
+      "normalized": "new nursing facility",
+      "scope": "As used in this chapter:",
+      "section": "5165.01",
+      "source_title": "Section 5165.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01",
+      "term": "New nursing facility"
+    },
+    {
+      "definition": "(EE) \"Nursing facility\" has the same meaning as in the \"Social Security Act,\" section 1919(a), 42 U.S.C. 1396r(a).",
+      "id": "5165.01-nursing-facility",
+      "normalized": "nursing facility",
+      "scope": "As used in this chapter:",
+      "section": "5165.01",
+      "source_title": "Section 5165.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01",
+      "term": "Nursing facility"
+    },
+    {
+      "definition": "(FF) \"Nursing facility services\" has the same meaning as in the \"Social Security Act,\" section 1905(f), 42 U.S.C. 1396d(f).",
+      "id": "5165.01-nursing-facility-services",
+      "normalized": "nursing facility services",
+      "scope": "As used in this chapter:",
+      "section": "5165.01",
+      "source_title": "Section 5165.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01",
+      "term": "Nursing facility services"
+    },
+    {
+      "definition": "(GG) \"Nursing home\" has the same meaning as in section 3721.01 of the Revised Code.",
+      "id": "5165.01-nursing-home",
+      "normalized": "nursing home",
+      "scope": "As used in this chapter:",
+      "section": "5165.01",
+      "source_title": "Section 5165.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01",
+      "term": "Nursing home"
+    },
+    {
+      "definition": "(HH) \"Occupancy rate\" means the percentage of licensed beds that, regardless of payer source, are either of the following:\n\n(1) Reserved for use under section 5165.34 of the Revised Code;\n\n(2) Actually being used.",
+      "id": "5165.01-occupancy-rate",
+      "normalized": "occupancy rate",
+      "scope": "As used in this chapter:",
+      "section": "5165.01",
+      "source_title": "Section 5165.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01",
+      "term": "Occupancy rate"
+    },
+    {
+      "definition": "(II) \"Operational control\" means having the ability to direct the overall operations and cash flow of a nursing facility. \"Operational control\" may be exercised by one person or multiple persons acting together or by a government entity, and may exist by means of any of the following:\n\n(1) The person, persons, or government entity directly operating the nursing facility;\n\n(2) The person, persons, or government entity directly or indirectly owning fifty per cent or more of the operator;\n\n(3) An agreement or other arrangement granting the person, persons, or government entity operational control.",
+      "id": "5165.01-operational-control",
+      "normalized": "operational control",
+      "scope": "As used in this chapter:",
+      "section": "5165.01",
+      "source_title": "Section 5165.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01",
+      "term": "Operational control"
+    },
+    {
+      "definition": "(JJ) \"Operator\" means a person or government entity responsible for the operational control of a nursing facility and that holds both of the following:\n\n(1) The license to operate the nursing facility issued under section 3721.02 of the Revised Code, if a license is required by section 3721.05 of the Revised Code;\n\n(2) The medicaid provider agreement issued under section 5165.07 of the Revised Code, if applicable.",
+      "id": "5165.01-operator",
+      "normalized": "operator",
+      "scope": "As used in this chapter:",
+      "section": "5165.01",
+      "source_title": "Section 5165.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01",
+      "term": "Operator"
+    },
+    {
+      "definition": "(KK)(1) \"Owner\" means any person or government entity that has at least five per cent ownership or interest, either directly, indirectly, or in any combination, in any of the following regarding a nursing facility:\n\n(a) The land on which the nursing facility is located;\n\n(b) The structure in which the nursing facility is located;\n\n(c) Any mortgage, contract for deed, or other obligation secured in whole or in part by the land or structure on or in which the nursing facility is located;\n\n(d) Any lease or sublease of the land or structure on or in which the nursing facility is located.\n\n(2) \"Owner\" does not mean a holder of a debenture or bond related to the nursing facility and purchased at public issue or a regulated lender that has made a loan related to the nursing facility unless the holder or lender operates the nursing facility directly or through a subsidiary.",
+      "id": "5165.01-owner",
+      "normalized": "owner",
+      "scope": "As used in this chapter:",
+      "section": "5165.01",
+      "source_title": "Section 5165.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01",
+      "term": "Owner"
+    },
+    {
+      "definition": "(LL) \"Per diem\" means a nursing facility's actual, allowable costs in a given cost center in a cost reporting period, divided by the nursing facility's inpatient days for that cost reporting period.",
+      "id": "5165.01-per-diem",
+      "normalized": "per diem",
+      "scope": "As used in this chapter:",
+      "section": "5165.01",
+      "source_title": "Section 5165.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01",
+      "term": "Per diem"
+    },
+    {
+      "definition": "(MM) \"Person\" has the same meaning as in section 1.59 of the Revised Code.",
+      "id": "5165.01-person",
+      "normalized": "person",
+      "scope": "As used in this chapter:",
+      "section": "5165.01",
+      "source_title": "Section 5165.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01",
+      "term": "Person"
+    },
+    {
+      "definition": "(NN) \"Private room\" means a nursing facility bedroom that meets all of the following criteria:\n\n(1) It has four permanent, floor-to-ceiling walls and a full door.\n\n(2) It contains one licensed or certified bed that is occupied by one individual.\n\n(3) It has access to a hallway without traversing another bedroom.\n\n(4) It has access to a toilet and sink shared by not more than one other resident without traversing another bedroom.\n\n(5) It meets all applicable licensure or other standards pertaining to furniture, fixtures, and temperature control.",
+      "id": "5165.01-private-room",
+      "normalized": "private room",
+      "scope": "As used in this chapter:",
+      "section": "5165.01",
+      "source_title": "Section 5165.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01",
+      "term": "Private room"
+    },
+    {
+      "definition": "(OO) \"Provider\" means an operator with a provider agreement.",
+      "id": "5165.01-provider",
+      "normalized": "provider",
+      "scope": "As used in this chapter:",
+      "section": "5165.01",
+      "source_title": "Section 5165.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01",
+      "term": "Provider"
+    },
+    {
+      "definition": "(PP) \"Provider agreement\" means a provider agreement, as defined in section 5164.01 of the Revised Code, that is between the department of medicaid and the operator of a nursing facility for the provision of nursing facility services under the medicaid program.",
+      "id": "5165.01-provider-agreement",
+      "normalized": "provider agreement",
+      "scope": "As used in this chapter:",
+      "section": "5165.01",
+      "source_title": "Section 5165.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01",
+      "term": "Provider agreement"
+    },
+    {
+      "definition": "(QQ) \"Purchased nursing services\" means services that are provided in a nursing facility by registered nurses, licensed practical nurses, or nurse aides who are not employees of the nursing facility.",
+      "id": "5165.01-purchased-nursing-services",
+      "normalized": "purchased nursing services",
+      "scope": "As used in this chapter:",
+      "section": "5165.01",
+      "source_title": "Section 5165.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01",
+      "term": "Purchased nursing services"
+    },
+    {
+      "definition": "(RR) \"Reasonable\" means that a cost is an actual cost that is appropriate and helpful to develop and maintain the operation of patient care facilities and activities, including normal standby costs, and that does not exceed what a prudent buyer pays for a given item or services. Reasonable costs may vary from provider to provider and from time to time for the same provider.",
+      "id": "5165.01-reasonable",
+      "normalized": "reasonable",
+      "scope": "As used in this chapter:",
+      "section": "5165.01",
+      "source_title": "Section 5165.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01",
+      "term": "Reasonable"
+    },
+    {
+      "definition": "(SS) \"Rebasing\" means a redetermination of each of the following using information from cost reports for an applicable calendar year that is later than the applicable calendar year used for the previous rebasing:\n\n(1) Each peer group's rate for ancillary and support costs as determined pursuant to division (C) of section 5165.16 of the Revised Code;\n\n(2) Each peer group's rate for capital costs as determined pursuant to division (C) of section 5165.17 of the Revised Code;\n\n(3) Each peer group's cost per case-mix unit as determined pursuant to division (C) of section 5165.19 of the Revised Code;\n\n(4) Each nursing facility's rate for tax costs as determined pursuant to section 5165.21 of the Revised Code.",
+      "id": "5165.01-rebasing",
+      "normalized": "rebasing",
+      "scope": "As used in this chapter:",
+      "section": "5165.01",
+      "source_title": "Section 5165.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01",
+      "term": "Rebasing"
+    },
+    {
+      "definition": "(TT) \"Related party\" means an individual or organization that, to a significant extent, has common ownership with, is associated or affiliated with, has control of, or is controlled by, the provider.\n\n(1) An individual who is a relative of an owner is a related party.\n\n(2) Common ownership exists when an individual or individuals possess significant ownership or equity in both the provider and the other organization. Significant ownership or equity exists when an individual or individuals possess five per cent ownership or equity in both the provider and a supplier. Significant ownership or equity is presumed to exist when an individual or individuals possess ten per cent ownership or equity in both the provider and another organization from which the provider purchases or leases real property.\n\n(3) Control exists when an individual or organization has the power, directly or indirectly, to significantly influence or direct the actions or policies of an organization.\n\n(4) An individual or organization that supplies goods or services to a provider shall not be considered a related party if all of the following conditions are met:\n\n(a) The supplier is a separate bona fide organization.\n\n(b) A substantial part of the supplier's business activity of the type carried on with the provider is transacted with others than the provider and there is an open, competitive market for the types of goods or services the supplier furnishes.\n\n(c) The types of goods or services are commonly obtained by other nursing facilities from outside organizations and are not a basic element of patient care ordinarily furnished directly to patients by nursing facilities.\n\n(d) The charge to the provider is in line with the charge for the goods or services in the open market and no more than the charge made under comparable circumstances to others by the supplier.",
+      "id": "5165.01-related-party",
+      "normalized": "related party",
+      "scope": "As used in this chapter:",
+      "section": "5165.01",
+      "source_title": "Section 5165.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01",
+      "term": "Related party"
+    },
+    {
+      "definition": "(UU) \"Relative of owner\" means an individual who is related to an owner of a nursing facility by one of the following relationships:\n\n(1) Spouse;\n\n(2) Natural parent, child, or sibling;\n\n(3) Adopted parent, child, or sibling;\n\n(4) Stepparent, stepchild, stepbrother, or stepsister;\n\n(5) Father-in-law, mother-in-law, son-in-law, daughter-in-law, brother-in-law, or sister-in-law;\n\n(6) Grandparent or grandchild;\n\n(7) Foster caregiver, foster child, foster brother, or foster sister.",
+      "id": "5165.01-relative-of-owner",
+      "normalized": "relative of owner",
+      "scope": "As used in this chapter:",
+      "section": "5165.01",
+      "source_title": "Section 5165.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01",
+      "term": "Relative of owner"
+    },
+    {
+      "definition": "(VV) \"Residents' rights advocate\" has the same meaning as in section 3721.10 of the Revised Code.",
+      "id": "5165.01-residents-rights-advocate",
+      "normalized": "residents' rights advocate",
+      "scope": "As used in this chapter:",
+      "section": "5165.01",
+      "source_title": "Section 5165.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01",
+      "term": "Residents' rights advocate"
+    },
+    {
+      "definition": "(WW) \"Skilled nursing facility\" has the same meaning as in the \"Social Security Act,\" section 1819(a), 42 U.S.C. 1395i-3(a).",
+      "id": "5165.01-skilled-nursing-facility",
+      "normalized": "skilled nursing facility",
+      "scope": "As used in this chapter:",
+      "section": "5165.01",
+      "source_title": "Section 5165.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01",
+      "term": "Skilled nursing facility"
+    },
+    {
+      "definition": "(XX) \"State fiscal year\" means the fiscal year of this state, as specified in section 9.34 of the Revised Code.",
+      "id": "5165.01-state-fiscal-year",
+      "normalized": "state fiscal year",
+      "scope": "As used in this chapter:",
+      "section": "5165.01",
+      "source_title": "Section 5165.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01",
+      "term": "State fiscal year"
+    },
+    {
+      "definition": "(YY) \"Sponsor\" has the same meaning as in section 3721.10 of the Revised Code.",
+      "id": "5165.01-sponsor",
+      "normalized": "sponsor",
+      "scope": "As used in this chapter:",
+      "section": "5165.01",
+      "source_title": "Section 5165.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01",
+      "term": "Sponsor"
+    },
+    {
+      "definition": "(ZZ) \"Surrender\" has the same meaning as in section 5168.40 of the Revised Code.",
+      "id": "5165.01-surrender",
+      "normalized": "surrender",
+      "scope": "As used in this chapter:",
+      "section": "5165.01",
+      "source_title": "Section 5165.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01",
+      "term": "Surrender"
+    },
+    {
+      "definition": "(AAA) \"Tax costs\" means the costs of taxes imposed under Chapter 5751. of the Revised Code, real estate taxes, personal property taxes, and corporate franchise taxes.",
+      "id": "5165.01-tax-costs",
+      "normalized": "tax costs",
+      "scope": "As used in this chapter:",
+      "section": "5165.01",
+      "source_title": "Section 5165.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01",
+      "term": "Tax costs"
+    },
+    {
+      "definition": "(BBB) \"Title XIX\" means Title XIX of the \"Social Security Act,\" 42 U.S.C. 1396 et seq.",
+      "id": "5165.01-title-xix",
+      "normalized": "title xix",
+      "scope": "As used in this chapter:",
+      "section": "5165.01",
+      "source_title": "Section 5165.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01",
+      "term": "Title XIX"
+    },
+    {
+      "definition": "(CCC) \"Title XVIII\" means Title XVIII of the \"Social Security Act,\" 42 U.S.C. 1395 et seq.",
+      "id": "5165.01-title-xviii",
+      "normalized": "title xviii",
+      "scope": "As used in this chapter:",
+      "section": "5165.01",
+      "source_title": "Section 5165.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01",
+      "term": "Title XVIII"
+    },
+    {
+      "definition": "(DDD) \"Voluntary withdrawal of participation\" means an operator's voluntary election to terminate the participation of a nursing facility in the medicaid program but to continue to provide service of the type provided by a nursing facility.\n\nLast updated August 30, 2024 at 2:51 PM",
+      "id": "5165.01-voluntary-withdrawal-of-participation",
+      "normalized": "voluntary withdrawal of participation",
+      "scope": "As used in this chapter:",
+      "section": "5165.01",
+      "source_title": "Section 5165.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01",
+      "term": "Voluntary withdrawal of participation"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "5165.60",
+      "number": "5165.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5165.60"
+    },
+    {
+      "kind": "section",
+      "label": "5165.89",
+      "number": "5165.89",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5165.89"
+    },
+    {
+      "kind": "section",
+      "label": "5165.99",
+      "number": "5165.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5165.99"
+    },
+    {
+      "kind": "section",
+      "label": "5165.02",
+      "number": "5165.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5165.02"
+    },
+    {
+      "kind": "section",
+      "label": "5165.10",
+      "number": "5165.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5165.10"
+    },
+    {
+      "kind": "section",
+      "label": "5165.192",
+      "number": "5165.192",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5165.192"
+    },
+    {
+      "kind": "section",
+      "label": "5165.108",
+      "number": "5165.108",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5165.108"
+    },
+    {
+      "kind": "section",
+      "label": "5160.01",
+      "number": "5160.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5160.01"
+    },
+    {
+      "kind": "section",
+      "label": "5168.40",
+      "number": "5168.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.40"
+    },
+    {
+      "kind": "section",
+      "label": "5168.56",
+      "number": "5168.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.56"
+    },
+    {
+      "kind": "section",
+      "label": "5165.34",
+      "number": "5165.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5165.34"
+    },
+    {
+      "kind": "section",
+      "label": "5165.511",
+      "number": "5165.511",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5165.511"
+    },
+    {
+      "kind": "section",
+      "label": "5165.512",
+      "number": "5165.512",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5165.512"
+    },
+    {
+      "kind": "section",
+      "label": "5165.515",
+      "number": "5165.515",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5165.515"
+    },
+    {
+      "kind": "section",
+      "label": "5165.07",
+      "number": "5165.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5165.07"
+    },
+    {
+      "kind": "section",
+      "label": "3721.01",
+      "number": "3721.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.01"
+    },
+    {
+      "kind": "section",
+      "label": "3721.02",
+      "number": "3721.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.02"
+    },
+    {
+      "kind": "section",
+      "label": "3721.05",
+      "number": "3721.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.05"
+    },
+    {
+      "kind": "section",
+      "label": "1.59",
+      "number": "1.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1.59"
+    },
+    {
+      "kind": "section",
+      "label": "5164.01",
+      "number": "5164.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.01"
+    },
+    {
+      "kind": "section",
+      "label": "5165.16",
+      "number": "5165.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5165.16"
+    },
+    {
+      "kind": "section",
+      "label": "5165.17",
+      "number": "5165.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5165.17"
+    },
+    {
+      "kind": "section",
+      "label": "5165.19",
+      "number": "5165.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5165.19"
+    },
+    {
+      "kind": "section",
+      "label": "5165.21",
+      "number": "5165.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5165.21"
+    },
+    {
+      "kind": "section",
+      "label": "3721.10",
+      "number": "3721.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.10"
+    },
+    {
+      "kind": "section",
+      "label": "9.34",
+      "number": "9.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-9.34"
+    }
+  ],
+  "scraped": "2026-07-02T20:11:28+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01",
+  "title": "Section 5165.01 - Definitions."
+}

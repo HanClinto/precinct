@@ -1,0 +1,32 @@
+{
+  "glossary": [
+    {
+      "definition": "(g) A description of the specific types of information acquired without authorization. \"Specific types of information\" means particular data elements, including types of medical information, types of financial information, or types of information allowing identification of the consumer.\n\n(h) The period during which the information system was compromised by the cybersecurity event;\n\n(i) The number of total consumers in this state affected by the cybersecurity event. The licensee shall provide the best estimate in the initial report to the superintendent and update this estimate with each subsequent report to the superintendent pursuant to this section.\n\n(j) The results of any internal review identifying a lapse in either automated controls or internal procedures, or confirming that all automated controls or internal procedures were followed;\n\n(k) A description of efforts being undertaken to remediate the situation that permitted the cybersecurity event to occur;\n\n(l) A copy of the licensee's privacy policy and a statement outlining the steps the licensee will take to investigate and notify consumers affected by the cybersecurity event;\n\n(m) The name of a contact person who is both familiar with the cybersecurity event and authorized to act for the licensee.\n\n(2) The licensee shall provide the information in electronic form as directed by the superintendent. The licensee shall have a continuing obligation to update and supplement initial and subsequent notifications to the superintendent regarding material developments relating to the cybersecurity event.\n\n(C) A licensee shall comply with section 1349.19 of the Revised Code as applicable and provide a copy of the notice sent to consumers under that section to the superintendent, when the licensee is required to notify the superintendent under division (A) of this section.\n\n(D)(1) If a licensee becomes aware of a cybersecurity event in a system maintained by a third-party service provider, the licensee shall treat the event as it would under division (A) of this section.\n\n(2) The computation of the licensee's deadlines specified in this section shall begin on the day after the third-party service provider notifies the licensee of the cybersecurity event or the licensee otherwise has actual knowledge of the cybersecurity event, whichever is sooner.\n\n(3) Nothing in this chapter shall prevent or abrogate an agreement between a licensee and another licensee, a third-party service provider, or any other party to fulfill any of the investigation requirements imposed under section 3965.03 of the Revised Code or notice requirements imposed under this section.\n\n(E)(1) In the case of a cybersecurity event involving nonpublic information that is used by or in the possession, custody, or control of a licensee that is acting as an assuming insurer, including an assuming insurer that is domiciled in another state or jurisdiction, and that does not have a direct contractual relationship with the affected consumers, both of the following apply:\n\n(a) The assuming insurer shall notify its affected ceding insurers and the insurance commissioner of its state or jurisdiction of domicile within three business days of making the determination that a cybersecurity event has occurred.\n\n(b) The ceding insurers that have a direct contractual relationship with affected consumers shall fulfill the consumer notification requirements imposed under section 1349.19 of the Revised Code and any other notification requirements relating to a cybersecurity event imposed under this section.\n\n(2) In the case of a cybersecurity event involving nonpublic information that is in the possession, custody, or control of a licensee's third-party service provider, when the licensee is acting as an assuming insurer, including an assuming insurer that is domiciled in another state or jurisdiction, both of the following apply:\n\n(a) The assuming insurer shall notify its affected ceding insurers and the insurance commissioner of its state or jurisdiction of domicile within three business days of receiving notice from its third-party service provider that a cybersecurity event has occurred.\n\n(b) The ceding insurers that have a direct contractual relationship with affected consumers shall fulfill the consumer notification requirements imposed under section 1349.19 of the Revised Code and any other notification requirements relating to a cybersecurity event imposed under this section.\n\n(3) Any licensee acting as an assuming insurer shall have no other notice obligations relating to a cybersecurity event or other data breach under division (A) of this section.\n\n(F) In the case of a cybersecurity event involving nonpublic information that is in the possession, custody, or control of a licensee that is an insurer or its third-party service provider, that was obtained by the insurer from a consumer accessing the insurer's services through an independent insurance agent, and for which disclosure or notice is required under section 1349.19 of the Revised Code, the insurer shall notify the independent insurance agents of record of all affected consumers.\n\nThe insurer is excused from this obligation for any independent insurance agents who are not authorized by law or contract to sell, solicit, or negotiate on behalf of the insurer, and for those instances in which the insurer does not have the current independent insurance agent of record information for an individual consumer.",
+      "id": "3965.04-specific-types-of-information",
+      "normalized": "specific types of information",
+      "scope": "",
+      "section": "3965.04",
+      "source_title": "Section 3965.04 - Notification to superintendent.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3965.04",
+      "term": "Specific types of information"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "1349.19",
+      "number": "1349.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.19"
+    },
+    {
+      "kind": "section",
+      "label": "3965.03",
+      "number": "3965.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3965.03"
+    }
+  ],
+  "scraped": "2026-07-02T20:03:41+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3965.04",
+  "title": "Section 3965.04 - Notification to superintendent."
+}

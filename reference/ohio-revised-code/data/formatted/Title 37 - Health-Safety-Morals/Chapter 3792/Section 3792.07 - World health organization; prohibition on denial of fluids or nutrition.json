@@ -1,0 +1,94 @@
+{
+  "glossary": [
+    {
+      "definition": "(2) \"Hospital\" has the same meaning as in section 3722.01 of the Revised Code and includes a hospital owned or operated by the United States department of veterans affairs.",
+      "id": "3792.07-hospital",
+      "normalized": "hospital",
+      "scope": "(A) As used in this section:",
+      "section": "3792.07",
+      "source_title": "Section 3792.07 - World health organization; prohibition on denial of fluids or nutrition.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3792.07",
+      "term": "Hospital"
+    },
+    {
+      "definition": "(3) \"Inpatient facility\" means either or both of the following:\n\n(a) A skilled nursing facility as defined in section 5165.01 of the Revised Code;\n\n(b) A freestanding inpatient rehabilitation facility licensed under section 3702.30 of the Revised Code.",
+      "id": "3792.07-inpatient-facility",
+      "normalized": "inpatient facility",
+      "scope": "(A) As used in this section:",
+      "section": "3792.07",
+      "source_title": "Section 3792.07 - World health organization; prohibition on denial of fluids or nutrition.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3792.07",
+      "term": "Inpatient facility"
+    },
+    {
+      "definition": "(4) \"Patient's personal representative\" has the same meaning as in section 3701.74 of the Revised Code.",
+      "id": "3792.07-patient-s-personal-representative",
+      "normalized": "patient's personal representative",
+      "scope": "(A) As used in this section:",
+      "section": "3792.07",
+      "source_title": "Section 3792.07 - World health organization; prohibition on denial of fluids or nutrition.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3792.07",
+      "term": "Patient's personal representative"
+    },
+    {
+      "definition": "(6) \"Political subdivision\" means a county, township, municipal corporation, school district, or other body corporate and politic responsible for governmental activities in a geographic area smaller than that of the state. \"Political subdivision\" also includes a board of health of a city or general health district.",
+      "id": "3792.07-political-subdivision",
+      "normalized": "political subdivision",
+      "scope": "(A) As used in this section:",
+      "section": "3792.07",
+      "source_title": "Section 3792.07 - World health organization; prohibition on denial of fluids or nutrition.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3792.07",
+      "term": "Political subdivision"
+    },
+    {
+      "definition": "(8) \"Public official\" means any officer, employee, or duly authorized agent or representative of a state agency or political subdivision.",
+      "id": "3792.07-public-official",
+      "normalized": "public official",
+      "scope": "(A) As used in this section:",
+      "section": "3792.07",
+      "source_title": "Section 3792.07 - World health organization; prohibition on denial of fluids or nutrition.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3792.07",
+      "term": "Public official"
+    },
+    {
+      "definition": "(9) \"State agency\" means any organized agency, board, body, commission, department, institution, office, or other entity established by the laws of the state for the exercise of any function of state government. \"State agency\" does not include a court.\n\n(C) The world health organization has no jurisdiction in this state. Therefore, no political subdivision, public official, or state agency shall enforce or use any state funding to implement or incentivize any health policy guideline, mandate, recommendation, or rule issued by the world health organization, including the prohibition of issuing a prescription for or dispensing of a drug, including an off-label drug.\n\n(D) At no time shall a patient in a hospital or inpatient facility be denied sufficient means of fluids or nutrition, unless that wish is clearly stated by the patient or patient's personal representative or documented in the patient's advance directive, or the denial is necessary for a medical procedure, including a diagnostic or surgical procedure, and then only for the shortest amount of time medically possible and with the informed consent of the patient or patient's personal representative.\n\nLast updated April 7, 2025 at 5:24 PM",
+      "id": "3792.07-state-agency",
+      "normalized": "state agency",
+      "scope": "(A) As used in this section:",
+      "section": "3792.07",
+      "source_title": "Section 3792.07 - World health organization; prohibition on denial of fluids or nutrition.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3792.07",
+      "term": "State agency"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3722.01",
+      "number": "3722.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3722.01"
+    },
+    {
+      "kind": "section",
+      "label": "5165.01",
+      "number": "5165.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01"
+    },
+    {
+      "kind": "section",
+      "label": "3702.30",
+      "number": "3702.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.30"
+    },
+    {
+      "kind": "section",
+      "label": "3701.74",
+      "number": "3701.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3701.74"
+    }
+  ],
+  "scraped": "2026-07-02T20:01:47+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3792.07",
+  "title": "Section 3792.07 - World health organization; prohibition on denial of fluids or nutrition."
+}

@@ -1,0 +1,36 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Private entity\" means an entity other than a government entity.",
+      "id": "763.01-private-entity",
+      "normalized": "private entity",
+      "scope": "As used in this chapter:",
+      "section": "763.01",
+      "source_title": "Section 763.01 - Municipal workforce development system definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-763.01",
+      "term": "Private entity"
+    },
+    {
+      "definition": "(B) \"Workforce development activity\" has the same meaning as in section 6301.01 of the Revised Code.",
+      "id": "763.01-workforce-development-activity",
+      "normalized": "workforce development activity",
+      "scope": "As used in this chapter:",
+      "section": "763.01",
+      "source_title": "Section 763.01 - Municipal workforce development system definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-763.01",
+      "term": "Workforce development activity"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "6301.01",
+      "number": "6301.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6301.01"
+    }
+  ],
+  "scraped": "2026-07-02T19:34:10+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-763.01",
+  "title": "Section 763.01 - Municipal workforce development system definitions."
+}

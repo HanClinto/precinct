@@ -1,0 +1,927 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 3333.01 - [Former R.C. 3333.03, renumbered by H.B. 33, 135th General Assembly, effective 10/3/2023] Department of higher education; chancellor of higher education.",
+      "number": "3333.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.012 - References to Ohio board of regents, chancellor.",
+      "number": "3333.012",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.012"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.021 - Filing fiscal analysis with proposed rules.",
+      "number": "3333.021",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.021"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.032 - Chancellor's annual report on condition of higher education.",
+      "number": "3333.032",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.032"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.04 - Chancellor - powers and duties.",
+      "number": "3333.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.041 - Annual reports.",
+      "number": "3333.041",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.041"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.042 - Grants for nonprofit entity that provides aerospace research, education and technology.",
+      "number": "3333.042",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.042"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.043 - Community service programs.",
+      "number": "3333.043",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.043"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.044 - Contracting with consultants - liability insurance.",
+      "number": "3333.044",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.044"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.045 - Board of trustees training.",
+      "number": "3333.045",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.045"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.046 - Exempting certain programs from regulation as proprietary schools.",
+      "number": "3333.046",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.046"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.047 - Student financial aid program audits.",
+      "number": "3333.047",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.047"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.048 - Educator preparation; Metrics and programs.",
+      "number": "3333.048",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.048"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.049 - Reading endorsement programs; instruction in computer science and computational thinking.",
+      "number": "3333.049",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.049"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.0410 - Use the student's data verification code required.",
+      "number": "3333.0410",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.0410"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.0411 - Reports for teacher preparation programs.",
+      "number": "3333.0411",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.0411"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.0412 - Private university exempt from liability for certain breach of confidentiality.",
+      "number": "3333.0412",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.0412"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.0413 - Inventory of education programs focusing on workforce development and training.",
+      "number": "3333.0413",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.0413"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.0414 - Opioid and other substance abuse prevention instruction.",
+      "number": "3333.0414",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.0414"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.0415 - Degree and credential performance targets.",
+      "number": "3333.0415",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.0415"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.0416 - Investigation of fees charged by state institutions.",
+      "number": "3333.0416",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.0416"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.0417 - Statewide educational plan for preventing hazing.",
+      "number": "3333.0417",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.0417"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.0418 - Mental health and wellness report.",
+      "number": "3333.0418",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.0418"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.0419 - Educator preparation program survey.",
+      "number": "3333.0419",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.0419"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.0420 - Online program manager contracts.",
+      "number": "3333.0420",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.0420"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.05 - Chancellor to approve plans and charter of community colleges.",
+      "number": "3333.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.051 - Applied bachelor's and nursing bachelor's degree programs at two-year institutions.",
+      "number": "3333.051",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.051"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.052 - Community college acceleration program.",
+      "number": "3333.052",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.052"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.053 - Eastern gateway community college records.",
+      "number": "3333.053",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.053"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.06 - State plan - federal grants.",
+      "number": "3333.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.07 - Restrictions on state institutions.",
+      "number": "3333.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.071 - Restricting expenditures for land or capital improvements.",
+      "number": "3333.071",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.071"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.073 - Program viability analysis.",
+      "number": "3333.073",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.073"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.074 - Annual reporting requirements.",
+      "number": "3333.074",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.074"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.08 - Appropriating property.",
+      "number": "3333.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.09 - Conveyances - lease-back agreements.",
+      "number": "3333.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.10 - Granting aid to nonprofit medical, osteopathic and dental schools.",
+      "number": "3333.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.11 - Department of family practice.",
+      "number": "3333.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.111 - Department or office of geriatric medicine.",
+      "number": "3333.111",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.111"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.121 - State financial aid reconciliation fund.",
+      "number": "3333.121",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.121"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.122 - Ohio college opportunity grant program.",
+      "number": "3333.122",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.122"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.123 - Ohio college opportunity grant program - funding preferences and priorities.",
+      "number": "3333.123",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.123"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.124 - Ohio college opportunity grant program reserve fund.",
+      "number": "3333.124",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.124"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.125 - Commercial truck driver student aid program.",
+      "number": "3333.125",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.125"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.126 - Supplemental Ohio college opportunity grants.",
+      "number": "3333.126",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.126"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.127 - Second chance grant program.",
+      "number": "3333.127",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.127"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.128 - Grants for students who are adopted.",
+      "number": "3333.128",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.128"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.129 - \"Teach CS\" grant program.",
+      "number": "3333.129",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.129"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.1210 - Governor's merit scholarship residency commitment.",
+      "number": "3333.1210",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.1210"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.13 - Service attorney definition.",
+      "number": "3333.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.131 - Rural practice incentive program.",
+      "number": "3333.131",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.131"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.132 - Underserved community designation.",
+      "number": "3333.132",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.132"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.133 - Eligibility and application.",
+      "number": "3333.133",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.133"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.134 - Program acceptance and placement.",
+      "number": "3333.134",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.134"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.135 - Program contract.",
+      "number": "3333.135",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.135"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.136 - Underserved community fund and rural practice incentive fund.",
+      "number": "3333.136",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.136"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.137 - Program rules.",
+      "number": "3333.137",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.137"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.14 - Public post high school technical education programs.",
+      "number": "3333.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.15 - Establishment of university branch by chancellor.",
+      "number": "3333.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.16 - Universal course equivalency classification system for state institutions of higher education.",
+      "number": "3333.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.161 - Statewide system for articulation agreements among state institutions of higher education for transfer students pursuing teacher education programs.",
+      "number": "3333.161",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.161"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.162 - Criteria, policies, and procedures for transfer of courses.",
+      "number": "3333.162",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.162"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.163 - Standards for college credit based on advanced placement test scores.",
+      "number": "3333.163",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.163"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.164 - College credit for military training, experience, and coursework.",
+      "number": "3333.164",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.164"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.165 - Annual report.",
+      "number": "3333.165",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.165"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.166 - Transfer of credits.",
+      "number": "3333.166",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.166"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.168 - Guaranteed transfer pathways; joint academic programming; dual enrollment.",
+      "number": "3333.168",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.168"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.17 - Reciprocal contracts with institutions in neighboring states for tuition and fees.",
+      "number": "3333.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.171 - Reciprocity agreement with midwestern higher education compact.",
+      "number": "3333.171",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.171"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.172 - Endorsement of midwest student exchange program.",
+      "number": "3333.172",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.172"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.18 - Reciprocal contracts with institutions in neighboring states for financial aid funds.",
+      "number": "3333.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.19 - Foreign exchange students - tuition and fees.",
+      "number": "3333.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.20 - Educational service standards for community colleges, university branches, technical colleges and state community colleges.",
+      "number": "3333.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.21 - Academic scholarship program - basis of award.",
+      "number": "3333.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.22 - Award and renewal of scholarship - leave of absence.",
+      "number": "3333.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.23 - Scholastic record sent to chancellor - suspension or revocation of scholarship.",
+      "number": "3333.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.24 - Ohio work ready grant program.",
+      "number": "3333.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.25 - Academic scholarship payment fund.",
+      "number": "3333.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.26 - Waiving tuition for child or spouse of public service officer killed in line of duty.",
+      "number": "3333.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.28 - Nurse education assistance program - fund.",
+      "number": "3333.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.29 - Facilitation of communication, cooperation, and partnerships among state institutions of higher education with nursing education programs.",
+      "number": "3333.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.30 - Web site access to career information.",
+      "number": "3333.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.301 - FAFSA completion tracking system.",
+      "number": "3333.301",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.301"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.31 - Rules for determining student residency.",
+      "number": "3333.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.311 - Residency of veterans and veterans' spouses.",
+      "number": "3333.311",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.311"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.32 - Conditions for resident status.",
+      "number": "3333.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.33 - Establishment of tuition guarantee program.",
+      "number": "3333.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.34 - College-level certificates transferable to college credit.",
+      "number": "3333.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.342 - Certificates of value.",
+      "number": "3333.342",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.342"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.35 - Cooperative efforts with department of education and workforce, state board of education.",
+      "number": "3333.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.36 - Allocation of funds for certain scholarships.",
+      "number": "3333.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.37 - Outstanding scholarship, priority needs fellowship program definitions.",
+      "number": "3333.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.371 - Purposes of scholarship and fellowship programs.",
+      "number": "3333.371",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.371"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.372 - Outstanding scholarship and priority needs fellowship programs.",
+      "number": "3333.372",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.372"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.374 - Rules establishing scholarship policy guidelines.",
+      "number": "3333.374",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.374"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.375 - Ohio outstanding scholarship and Ohio priority needs fellowship programs payment funds.",
+      "number": "3333.375",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.375"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.38 - Ineligibility for student financial assistance supported by state funds.",
+      "number": "3333.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.39 - Teach Ohio program.",
+      "number": "3333.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.391 - Ohio teaching fellows program.",
+      "number": "3333.391",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.391"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.392 - Scholarships; Termination; Repayment.",
+      "number": "3333.392",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.392"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.393 - Grow your own teacher program.",
+      "number": "3333.393",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.393"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.394 - Grow your own teacher program - scholarship; termination; repayment.",
+      "number": "3333.394",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.394"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.40 - Midwestern Higher Education Compact.",
+      "number": "3333.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.41 - Members of midwestern higher education commission.",
+      "number": "3333.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.42 - Nonresident student military personnel tuition.",
+      "number": "3333.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.421 - Ohio hidden hero scholarship programs.",
+      "number": "3333.421",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.421"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.43 - Statements for three-year baccalaureate degrees.",
+      "number": "3333.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.44 - Postsecondary globalization liaison.",
+      "number": "3333.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.45 - Partnership to provide competency - based education programs.",
+      "number": "3333.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.50 - Critical needs rapid response system.",
+      "number": "3333.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.55 - Health information and imaging technology workforce development pilot project.",
+      "number": "3333.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.59 - Bonds.",
+      "number": "3333.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.60 - Choose Ohio first scholarship definitions.",
+      "number": "3333.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.61 - Choose Ohio first scholarship program.",
+      "number": "3333.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.613 - Choose Ohio first scholarship reserve fund.",
+      "number": "3333.613",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.613"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.615 - Elimination of certain choose Ohio first scholarship components.",
+      "number": "3333.615",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.615"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.62 - Competitive process for program awards.",
+      "number": "3333.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.63 - Meeting prior to making awards - proposal summary review.",
+      "number": "3333.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.64 - Fiscal and distributive goals; work-based learning requirement.",
+      "number": "3333.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.65 - Award recipients to enter use agreement.",
+      "number": "3333.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.66 - Scholarship amounts.",
+      "number": "3333.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.68 - College proposal preference for future awards.",
+      "number": "3333.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.68"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.69 - Monitor of initiatives for which award granted.",
+      "number": "3333.69",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.69"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.70 - Ohio higher education innovation grant program.",
+      "number": "3333.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.71 - Choose Ohio first co-op/internship program definitions.",
+      "number": "3333.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.72 - Choose Ohio first co-op/internship program.",
+      "number": "3333.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.73 - Competitive process for making awards under program.",
+      "number": "3333.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.74 - Private pledge required for program awards.",
+      "number": "3333.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.74"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.75 - Agreement governing use of program award.",
+      "number": "3333.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.76 - Recruiting Ohio residents in out-of-state institutions.",
+      "number": "3333.76",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.76"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.77 - Proposal preference to institution for future years.",
+      "number": "3333.77",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.77"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.78 - Monitor of initiatives for which awards granted.",
+      "number": "3333.78",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.78"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.79 - Ohio co-op/internship program minority outreach.",
+      "number": "3333.79",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.79"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.80 - Campus safety grant program.",
+      "number": "3333.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.80"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.81 - Clearinghouse of computer-based courses definitions.",
+      "number": "3333.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.82 - Chancellor to establish clearinghouse of digital texts and distance learning courses.",
+      "number": "3333.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.82"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.83 - Enrollment in clearinghouse course - participation - withdrawal.",
+      "number": "3333.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.83"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.84 - Fees charged for texts or courses offered through clearinghouse.",
+      "number": "3333.84",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.84"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.85 - Assignment of course grade; credit.",
+      "number": "3333.85",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.85"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.86 - Offering of course as dual enrollment program.",
+      "number": "3333.86",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.86"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.87 - Clearinghouse implementation rules.",
+      "number": "3333.87",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.87"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.88 - Alternative means for offering computer-based courses.",
+      "number": "3333.88",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.88"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.90 - Course and program sharing network (see also Section 1 of S.B. 69, 130th General Assembly).",
+      "number": "3333.90",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.90"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.91 - Plan for the adult basic and literacy education program.",
+      "number": "3333.91",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.91"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.92 - Participation in adult basic and literacy education; creation of account with OhioMeansJobs website.",
+      "number": "3333.92",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.92"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.93 - Workforce-education partnership programs.",
+      "number": "3333.93",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.93"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.94 - Inventory of credit and non-credit certificate programs and industry-recognized credentials; preferential funding.",
+      "number": "3333.94",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.94"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.95 - Efficiency advisory committee.",
+      "number": "3333.95",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.95"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.951 - Higher education textbook study.",
+      "number": "3333.951",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.951"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.952 - Higher education public policy research consortium.",
+      "number": "3333.952",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.952"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.96 - Strategic square footage reduction fund.",
+      "number": "3333.96",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.96"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.97 - Accelerated college and career pathways program Chancellor duties.",
+      "number": "3333.97",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.97"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3333.99 - Governing boards of state colleges and universities retain former powers and duties.",
+      "number": "3333.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.99"
+    }
+  ],
+  "scraped": "2026-07-02T19:49:28+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-3333",
+  "title": "Chapter 3333 - Department of Higher Education"
+}

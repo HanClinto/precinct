@@ -1,0 +1,42 @@
+{
+  "glossary": [
+    {
+      "definition": "As used in this section, \"hotel\" and \"transient guests\" have the same meaning as in section 5739.01 of the Revised Code.",
+      "id": "505.56-hotel",
+      "normalized": "hotel",
+      "scope": "",
+      "section": "505.56",
+      "source_title": "Section 505.56 - Excise tax on transactions by which lodging is furnished to transient guests.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-505.56",
+      "term": "hotel"
+    },
+    {
+      "definition": "As used in this section, \"hotel\" and \"transient guests\" have the same meaning as in section 5739.01 of the Revised Code.",
+      "id": "505.56-transient-guests",
+      "normalized": "transient guests",
+      "scope": "",
+      "section": "505.56",
+      "source_title": "Section 505.56 - Excise tax on transactions by which lodging is furnished to transient guests.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-505.56",
+      "term": "transient guests"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "5739.08",
+      "number": "5739.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.08"
+    },
+    {
+      "kind": "section",
+      "label": "5739.01",
+      "number": "5739.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.01"
+    }
+  ],
+  "scraped": "2026-07-02T19:33:08+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-505.56",
+  "title": "Section 505.56 - Excise tax on transactions by which lodging is furnished to transient guests."
+}

@@ -1,0 +1,12 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4741.26
+Scraped: 2026-07-02T20:07:23+00:00
+
+# Section 4741.26 - Enforcement.
+
+**Effective:** October 12, 2006
+
+**Latest Legislation:** House Bill 458 - 126th General Assembly
+
+(A) The state veterinary medical licensing board shall enforce this chapter and for that purpose shall make investigations relative thereto. Except as provided in this division, in making any inspection pursuant to this chapter, the board may enter and inspect, upon written notice of not less than five days and during normal business hours, any licensee's, permit holder's, or registrant's place of business. If the board has knowledge or notice, pursuant to a written complaint or any other written knowledge or notice by any person as verified by the signature of that person, of a violation of section 4741.18 , 4741.19 , or 4741.23 of the Revised Code, it shall investigate and, upon probable cause appearing, shall direct the executive director to file a complaint and institute the prosecution of the offender. In conducting any investigation for a suspected violation of this chapter, the board or its authorized agent does not have to provide any prior written notice to the licensee, permit holder, or registrant as long as the board provides a written authorization for the investigation and the board or its authorized agent provides the licensee, permit holder, or registrant with a copy of the authorization at the time of the investigation. When requested by the executive director, the prosecuting attorney of a county or the village solicitor or city director of law of a municipal corporation, wherein the violation occurs shall take charge of and conduct the prosecution. The attorney general or the attorney general's designated assistant shall act as legal adviser to the board and shall render such legal assistance as may be necessary.
+
+(B) In addition to any other remedy the board may have pursuant to law, if the board determines that any person is practicing veterinary medicine without a license issued pursuant to this chapter or is otherwise in violation of this chapter, the board may, through its executive director, apply to a court having jurisdiction in the county in which the offense occurred, for an injunction or restraining order to enjoin or restrain the person from further violations of this chapter. The attorney general shall serve as the board's legal agent in the action.

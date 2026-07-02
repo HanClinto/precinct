@@ -1,0 +1,64 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Appointing authority\" means any person or body that has the authority to hire, appoint, or employ permanent, full-time paid firefighters and volunteer firefighters under section 505.38 of the Revised Code.",
+      "id": "505.381-appointing-authority",
+      "normalized": "appointing authority",
+      "scope": "(G) As used in this section:",
+      "section": "505.381",
+      "source_title": "Section 505.381 - Criminal records check.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-505.381",
+      "term": "Appointing authority"
+    },
+    {
+      "definition": "(2) \"Criminal records check\" has the same meaning as in section 109.578 of the Revised Code.",
+      "id": "505.381-criminal-records-check",
+      "normalized": "criminal records check",
+      "scope": "(G) As used in this section:",
+      "section": "505.381",
+      "source_title": "Section 505.381 - Criminal records check.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-505.381",
+      "term": "Criminal records check"
+    },
+    {
+      "definition": "(3) \"Superintendent of BCII\" has the same meaning as in section 2151.86 of the Revised Code.",
+      "id": "505.381-superintendent-of-bcii",
+      "normalized": "superintendent of bcii",
+      "scope": "(G) As used in this section:",
+      "section": "505.381",
+      "source_title": "Section 505.381 - Criminal records check.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-505.381",
+      "term": "Superintendent of BCII"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "109.578",
+      "number": "109.578",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.578"
+    },
+    {
+      "kind": "section",
+      "label": "2909.03",
+      "number": "2909.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2909.03"
+    },
+    {
+      "kind": "section",
+      "label": "505.38",
+      "number": "505.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.38"
+    },
+    {
+      "kind": "section",
+      "label": "2151.86",
+      "number": "2151.86",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.86"
+    }
+  ],
+  "scraped": "2026-07-02T19:33:08+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-505.381",
+  "title": "Section 505.381 - Criminal records check."
+}

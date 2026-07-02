@@ -1,0 +1,24 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3311.82
+Scraped: 2026-07-02T19:48:34+00:00
+
+# Section 3311.82 - Municipal school districts; termination of teacher contracts; disciplinary proceedings.
+
+**Effective:** October 1, 2012
+
+**Latest Legislation:** House Bill 525 - 129th General Assembly
+
+Notwithstanding any provision of the Revised Code to the contrary, a municipal school district shall be subject to this section instead of sections 3319.16 and 3319.161 of the Revised Code with respect to termination of teacher contracts, but those sections shall apply to the district with respect to termination of contracts with other district employees licensed by the state board of education, subject to section 3311.72 and division (F) of section 3311.84 of the Revised Code.
+
+(A) The board of education of a municipal school district may terminate the contract of a teacher employed by the board only for good and just cause. In addition, the board may place a teacher on disciplinary suspension without pay for a definite period of time for good and just cause. For purposes of contract terminations, good and just cause shall include receiving a composite evaluation rating of ineffective under section 3311.80 of the Revised Code for two consecutive years. A violation of division (A)(7) of section 2907.03 of the Revised Code is grounds for termination or disciplinary suspension without pay of a teacher under this section.
+
+(B) If an administrator determines, after a preliminary investigation, that a teacher may have engaged in conduct that could lead to a recommendation for termination or disciplinary suspension without pay, the teacher shall be entitled to a fact-finding hearing to determine if termination or disciplinary suspension without pay is warranted. The hearing shall be held before an administrator designated by the chief executive officer of the district. Prior to the hearing, the administrator designated by the chief executive officer shall provide the teacher with written notice of the allegations and of the right to request representation by the teachers' labor organization, and copies of any written evidence related to the allegations. The hearing shall be held within a reasonable period of time following the teacher's receipt of the written notice of the allegations. The teacher may have a representative of the teachers' labor organization present at the hearing. During the hearing, the teacher shall be given a meaningful opportunity to respond to the allegations, including the opportunity to submit additional evidence. Not later than ten business days after the hearing, the administrator designated by the chief executive officer shall notify the teacher in writing of the administrator's recommendation for discipline and the rationale for the recommendation, and shall provide a copy of the notification to the chief executive officer.
+
+(C) If the administrator designated by the chief executive officer recommends to the chief executive officer that the teacher be terminated or placed on disciplinary suspension without pay, the chief executive officer shall review the evidence and determine whether termination or disciplinary suspension without pay is warranted. The chief executive officer shall make a recommendation regarding discipline at the next scheduled meeting of the board. The board may adopt or modify the chief executive officer's recommendation, except that the board shall not increase the recommended discipline. The board shall notify the teacher of any action taken by the board on the chief executive officer's recommendation. Any termination or disciplinary suspension without pay imposed by the board shall take effect immediately.
+
+(D) A teacher who is terminated or placed on disciplinary suspension without pay under this section may appeal the board's action in accordance with the grievance procedures specified in any applicable collective bargaining agreement. The failure of the board, chief executive officer, or administrator designated by the chief executive officer to strictly comply with any procedures established by this section or applicable collective bargaining agreement shall not be cause for an arbitrator to overturn the termination or disciplinary suspension without pay, unless the arbitrator finds that the failure resulted in substantive harm to the teacher.
+
+(E) Notwithstanding any provision to the contrary in Chapter 4117. of the Revised Code:
+
+(1) The provisions of section 3319.16 of the Revised Code relating to the grounds for termination of the contract of a teacher prevail over any conflicting provisions of a collective bargaining agreement entered into prior to the effective date of this section.
+
+(2) The requirements of this section prevail over any conflicting provisions of a collective bargaining agreement entered into on or after the effective date of this section.

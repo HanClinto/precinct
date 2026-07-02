@@ -1,0 +1,34 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4507.02
+Scraped: 2026-07-02T20:05:29+00:00
+
+# Section 4507.02 - Permitting operation by unlicensed driver - surrender of out-of state license.
+
+**Effective:** June 30, 2021
+
+**Latest Legislation:** House Bill 74 - 134th General Assembly
+
+(A)(1) No person shall permit the operation of a motor vehicle upon any public or private property used by the public for purposes of vehicular travel or parking knowing the operator does not have a valid driver's license issued to the operator by the registrar of motor vehicles or a deputy registrar under this chapter or a valid commercial driver's license issued under Chapter 4506. of the Revised Code. Except as otherwise provided in this division, whoever violates this division is guilty of an unclassified misdemeanor. When the offense is an unclassified misdemeanor, the offender shall be sentenced pursuant to sections 2929.21 to 2929.28 of the Revised Code, except that the offender shall not be sentenced to a jail term; the offender shall not be sentenced to a community residential sanction pursuant to section 2929.26 of the Revised Code; notwithstanding division (A)(2)(a) of section 2929.28 of the Revised Code, the offender may be fined up to one thousand dollars; and, notwithstanding division (A)(3) of section 2929.27 of the Revised Code, the offender may be ordered pursuant to division (C) of that section to serve a term of community service of up to five hundred hours. The failure of an offender to complete a term of community service imposed by the court may be punished as indirect criminal contempt under division (A) of section 2705.02 of the Revised Code that may be filed in the underlying case.
+
+If, within three years of the offense, the offender previously has been convicted of or pleaded guilty to two or more violations of this section or a substantially equivalent municipal ordinance, the offense is a misdemeanor of the first degree.
+
+(2) No person shall receive a driver's license, or a motorcycle operator's endorsement of a driver's or commercial driver's license, temporary instruction permit, or identification card unless and until the person surrenders to the registrar or a deputy registrar all valid licenses, temporary instruction permits, and identification cards issued to the person by another jurisdiction recognized by this state.
+
+(3) The registrar shall report the cancellation of a license, temporary instruction permit, or identification card to the issuing authority, together with information that the license, temporary instruction permit, or identification card is now issued in this state. The registrar or a deputy registrar shall destroy any such license, temporary instruction permit, or identification card that is not returned to the issuing authority.
+
+(4) No person shall possess more than one valid license, temporary instruction permit, or identification card at any time.
+
+(B)(1) If a person is convicted of a violation of section 4510.11 , 4510.14 , or 4510.21 of the Revised Code or if division (E) of section 4507.164 of the Revised Code applies, the trial judge of any court, in addition to or independent of any other penalties provided by law or ordinance, may impound the identification license plates of any motor vehicle registered in the name of the person. The court shall send the impounded license plates to the registrar, who may retain the license plates until the driver's or commercial driver's license of the owner has been reinstated or destroy them pursuant to section 4503.232 of the Revised Code.
+
+If the license plates of a person convicted of a violation of any provision of those sections have been impounded in accordance with the provisions of this division, the court shall notify the registrar of that action. The notice shall contain the name and address of the driver, the serial number of the driver's or commercial driver's license, the serial numbers of the license plates of the motor vehicle, and the length of time for which the license plates have been impounded. The registrar shall record the data in the notice as part of the driver's permanent record.
+
+(2) Any motor vehicle owner who has had the license plates of a motor vehicle impounded pursuant to division (B)(1) of this section may apply to the registrar, or to a deputy registrar, for restricted license plates that shall conform to the requirements of section 4503.231 of the Revised Code. The registrar or deputy registrar forthwith shall notify the court of the application and, upon approval of the court, shall issue restricted license plates to the applicant. Until the driver's or commercial driver's license of the owner is reinstated, any new license plates issued to the owner also shall conform to the requirements of section 4503.231 of the Revised Code.
+
+The registrar or deputy registrar shall charge the owner of a vehicle the fees provided in section 4503.19 of the Revised Code for restricted license plates that are issued in accordance with this division, except upon renewal as specified in section 4503.10 of the Revised Code, when the regular fee as provided in section 4503.04 of the Revised Code shall be charged. The registrar or deputy registrar shall charge the owner of a vehicle the fees provided in section 4503.19 of the Revised Code whenever restricted license plates are exchanged, by reason of the reinstatement of the driver's or commercial driver's license of the owner, for those ordinarily issued.
+
+(3) If an owner wishes to sell a motor vehicle during the time the restricted license plates provided under division (B)(2) of this section are in use, the owner may apply to the court that impounded the license plates of the motor vehicle for permission to transfer title to the motor vehicle. If the court is satisfied that the sale will be made in good faith and not for the purpose of circumventing the provisions of this section, it may certify its consent to the owner and to the registrar of motor vehicles who shall enter notice of the transfer of the title of the motor vehicle in the vehicle registration record.
+
+If, during the time the restricted license plates provided under division (B)(2) of this section are in use, the title to a motor vehicle is transferred by the foreclosure of a chattel mortgage, a sale upon execution, the cancellation of a conditional sales contract, or by order of a court, the court shall notify the registrar of the action and the registrar shall enter notice of the transfer of the title to the motor vehicle in the vehicle registration record.
+
+(C) This section is not intended to change or modify any provision of Chapter 4503. of the Revised Code with respect to the taxation of motor vehicles or the time within which the taxes on motor vehicles shall be paid.
+
+Last updated April 14, 2021 at 7:28 AM

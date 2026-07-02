@@ -1,0 +1,58 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Tort action\" means a civil action for damages for injury, death, or loss to person or property. \"Tort action\" includes a civil action upon a product liability claim and an asbestos claim. \"Tort action\" does not include a civil action upon a medical claim, dental claim, optometric claim, or chiropractic claim or a civil action for damages for a breach of contract or another agreement between persons.\n\n(2) \"Medical claim,\" \"dental claim,\" \"optometric claim,\" and \"chiropractic claim\" have the same meanings as in section 2305.113 of the Revised Code.",
+      "id": "2315.20-tort-action",
+      "normalized": "tort action",
+      "scope": "(D) As used in this section:",
+      "section": "2315.20",
+      "source_title": "Section 2315.20 - Evidence of benefits to plaintiff from collateral sources.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2315.20",
+      "term": "Tort action"
+    },
+    {
+      "definition": "(3) \"Product liability claim\" has the same meaning as in section 2307.71 of the Revised Code.",
+      "id": "2315.20-product-liability-claim",
+      "normalized": "product liability claim",
+      "scope": "(D) As used in this section:",
+      "section": "2315.20",
+      "source_title": "Section 2315.20 - Evidence of benefits to plaintiff from collateral sources.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2315.20",
+      "term": "Product liability claim"
+    },
+    {
+      "definition": "(4) \"Asbestos claim\" has the same meaning as in section 2307.91 of the Revised Code.",
+      "id": "2315.20-asbestos-claim",
+      "normalized": "asbestos claim",
+      "scope": "(D) As used in this section:",
+      "section": "2315.20",
+      "source_title": "Section 2315.20 - Evidence of benefits to plaintiff from collateral sources.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2315.20",
+      "term": "Asbestos claim"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2305.113",
+      "number": "2305.113",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.113"
+    },
+    {
+      "kind": "section",
+      "label": "2307.71",
+      "number": "2307.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.71"
+    },
+    {
+      "kind": "section",
+      "label": "2307.91",
+      "number": "2307.91",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.91"
+    }
+  ],
+  "scraped": "2026-07-02T19:44:03+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2315.20",
+  "title": "Section 2315.20 - Evidence of benefits to plaintiff from collateral sources."
+}

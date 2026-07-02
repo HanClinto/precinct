@@ -1,0 +1,36 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"External audit\" means a quality assurance review of a testing authority that is conducted by a forensic DNA testing agency outside of, and not affiliated with, the testing authority.",
+      "id": "2953.80-external-audit",
+      "normalized": "external audit",
+      "scope": "(B) As used in division (A) of this section:",
+      "section": "2953.80",
+      "source_title": "Section 2953.80 - Criteria for testing authority.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2953.80",
+      "term": "External audit"
+    },
+    {
+      "definition": "(2) \"Internal audit\" means an internal review of a testing authority that is conducted by the testing authority itself.",
+      "id": "2953.80-internal-audit",
+      "normalized": "internal audit",
+      "scope": "(B) As used in division (A) of this section:",
+      "section": "2953.80",
+      "source_title": "Section 2953.80 - Criteria for testing authority.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2953.80",
+      "term": "Internal audit"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2953.78",
+      "number": "2953.78",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2953.78"
+    }
+  ],
+  "scraped": "2026-07-02T19:47:08+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2953.80",
+  "title": "Section 2953.80 - Criteria for testing authority."
+}

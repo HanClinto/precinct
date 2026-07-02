@@ -1,0 +1,92 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"State bank\" includes any subsidiary of a state bank.",
+      "id": "1109.23-state-bank",
+      "normalized": "state bank",
+      "scope": "",
+      "section": "1109.23",
+      "source_title": "Section 1109.23 - Extending credit to executive officers, directors, principal shareholders or to related interests.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1109.23",
+      "term": "State bank"
+    },
+    {
+      "definition": "(2)(a) \"Company\" means any corporation, limited liability company, partnership, business or other trust, association, joint venture, pool syndicate, sole proprietorship, unincorporated organization, or other business entity.",
+      "id": "1109.23-company",
+      "normalized": "company",
+      "scope": "",
+      "section": "1109.23",
+      "source_title": "Section 1109.23 - Extending credit to executive officers, directors, principal shareholders or to related interests.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1109.23",
+      "term": "Company"
+    },
+    {
+      "definition": "(b) \"Company\" does not include either of the following:\n\n(i) A bank, savings bank, or savings association, the deposits of which are insured by the federal deposit insurance corporation;\n\n(ii) A corporation the majority of the shares of which are owned by the United States or by any state of the United States.\n\n(3) \"Control\" of a company or state bank by a person means the person, directly or indirectly, or acting through or in concert with one or more persons, meets any of the following:\n\n(a) The person owns, controls, or has the power to vote twenty-five per cent or more of any class of the company's or, in the case of a stock state bank, the bank's voting securities.\n\n(b) The person controls in any manner the election of a majority of the company's or state bank's directors.\n\n(c) The person has the power to exercise a controlling influence over the company's or state bank's management or policies.",
+      "id": "1109.23-company",
+      "normalized": "company",
+      "scope": "",
+      "section": "1109.23",
+      "source_title": "Section 1109.23 - Extending credit to executive officers, directors, principal shareholders or to related interests.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1109.23",
+      "term": "Company"
+    },
+    {
+      "definition": "(4) \"Executive officer\" means a person who participates or has the authority to participate, other than as a director, in major policymaking functions of a company or state bank.",
+      "id": "1109.23-executive-officer",
+      "normalized": "executive officer",
+      "scope": "",
+      "section": "1109.23",
+      "source_title": "Section 1109.23 - Extending credit to executive officers, directors, principal shareholders or to related interests.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1109.23",
+      "term": "Executive officer"
+    },
+    {
+      "definition": "(5) To \"extend credit\" or to make an \"extension of credit\" means to make or renew any loan, to grant a line of credit, or to enter into any similar transaction as a result of which an executive officer, director, or principal shareholder, or any of that person's related interests, becomes obligated, directly, indirectly, or by any means whatsoever, to pay money or its equivalent to the state bank.",
+      "id": "1109.23-extension-of-credit",
+      "normalized": "extension of credit",
+      "scope": "",
+      "section": "1109.23",
+      "source_title": "Section 1109.23 - Extending credit to executive officers, directors, principal shareholders or to related interests.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1109.23",
+      "term": "extension of credit"
+    },
+    {
+      "definition": "(6) \"Principal shareholder\" means a person who, directly or indirectly, or acting through or in concert with one or more persons, owns, controls, or has the power to vote more than ten per cent of any class of voting securities of a stock state bank or company, other than a company of which the bank is a subsidiary.\n\n(7) \"Related interest\" of a person means either of the following:\n\n(a) Any company controlled by that person;\n\n(b) Any political committee or campaign committee that is controlled by that person or the funds or services of which will benefit that person.",
+      "id": "1109.23-principal-shareholder",
+      "normalized": "principal shareholder",
+      "scope": "",
+      "section": "1109.23",
+      "source_title": "Section 1109.23 - Extending credit to executive officers, directors, principal shareholders or to related interests.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1109.23",
+      "term": "Principal shareholder"
+    },
+    {
+      "definition": "(8) \"Subsidiary\" means any company of which a state bank or company meets any of the following:\n\n(a) The bank or company owns twenty-five per cent or more of the voting shares of the company.\n\n(b) The bank or company controls in any manner the election of a majority of the directors of the company.\n\n(c) The bank or company has the power, directly or indirectly, to exercise a controlling influence with respect to the management or policies of the company.",
+      "id": "1109.23-subsidiary",
+      "normalized": "subsidiary",
+      "scope": "",
+      "section": "1109.23",
+      "source_title": "Section 1109.23 - Extending credit to executive officers, directors, principal shareholders or to related interests.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1109.23",
+      "term": "Subsidiary"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "1109.24",
+      "number": "1109.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1109.24"
+    },
+    {
+      "kind": "section",
+      "label": "1109.22",
+      "number": "1109.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1109.22"
+    }
+  ],
+  "scraped": "2026-07-02T19:36:45+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1109.23",
+  "title": "Section 1109.23 - Extending credit to executive officers, directors, principal shareholders or to related interests."
+}

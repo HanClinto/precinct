@@ -1,0 +1,24 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3345.22
+Scraped: 2026-07-02T19:49:49+00:00
+
+# Section 3345.22 - Hearing for suspension of arrested student, faculty or staff member, or employee - responsibilities of referee.
+
+**Effective:** September 28, 1999
+
+**Latest Legislation:** House Bill 282 - 123rd General Assembly
+
+(A) A student, faculty or staff member, or employee of a college or university that receives any state funds in support thereof, arrested for any offense covered by division (D) of section 3345.23 of the Revised Code shall be afforded a hearing, as provided in this section, to determine whether the person shall be immediately suspended from the college or university. The hearing shall be held within not more than five days after the person's arrest, subject to reasonable continuances for good cause shown, which continuances shall not exceed a total of ten days.
+
+(B) The arresting authority shall immediately notify the president of the college or university of the arrest of a student, faculty or staff member, or employee of the college or university for any offense covered by division (D) of section 3345.23 of the Revised Code. The hearing to determine whether the person shall be immediately suspended shall be held in the county where the college or university is located, before a referee appointed by the president. The referee shall be an attorney admitted to the practice of law in Ohio, but the referee shall not be attorney for, or a faculty or staff member or employee of, any college or university. Immediate notice of the time and place of the hearing shall be given or sent to the person.
+
+(C) The referee may administer oaths, issue subpoenas to compel the attendance of witnesses and the production of evidence, and enforce the subpoenas, as well as preserve the order and decorum of the proceedings over which the referee presides, by means of contempt proceedings in the court of common pleas as provided by law.
+
+(D) The hearing shall be adversary in nature and shall be conducted fairly and impartially, but the formalities of the criminal process are not required. A person whose suspension is being considered has the right to be represented by counsel but counsel need not be furnished for the person. The person also has the right to cross-examine witnesses against the person, to testify, and to present the testimony of witnesses and other evidence in the person's behalf. In the absence of a waiver of the right against compulsory self-incrimination, the testimony of a person whose suspension is being considered, given at the hearing, shall not subsequently be used in any criminal proceeding against the person. The referee may require the separation of witnesses and may bar from the proceedings any person whose presence is not essential to the proceedings, except that members of the news media shall not be barred from the proceedings.
+
+(E) Upon hearing, if the referee finds by a preponderance of the evidence that the person whose suspension is being considered committed any offense covered by division (D) of section 3345.23 of the Revised Code, the referee shall order the person suspended, except that when the good order and discipline of a college or university will not be prejudiced or compromised thereby, the referee may permit the person to return to the college or university on terms of strict disciplinary probation. Subsequent violation of the terms of the probation automatically effects a suspension. A person suspended under this section may be readmitted pursuant to division (A) of section 3345.23 of the Revised Code. A suspension under this section is in effect until the person is acquitted or convicted of the crime for which the person was arrested. If convicted, the person is dismissed pursuant to section 3345.23 of the Revised Code.
+
+(F) Upon acquittal, or upon any final judicial determination not resulting in conviction, of the charges for which a person is suspended pursuant to this section, the suspension automatically terminates, and the person suspended shall be reinstated and the record of the suspension expunged from the person's college or university record.
+
+(G) An order of a referee pursuant to this section may be appealed on questions of law and fact to the court of common pleas of the county in which the college or university is located, within twenty days after the date of the order. If the court to which an appeal is taken determines that the good order and discipline of a college or university will not be prejudiced thereby, it may permit the person suspended to return to the college or university on terms of strict disciplinary probation.
+
+(H) A person afforded a hearing pursuant to this section who does not appear at the hearing shall be declared suspended by the hearing officer.

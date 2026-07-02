@@ -1,0 +1,161 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-505
+Scraped: 2026-07-02T19:33:08+00:00
+
+# Chapter 505 - Trustees
+
+## Sections
+
+- Section 505.01 - Board of township trustees - election and term.
+- Section 505.011 - Trustee may serve as volunteer fireman or policeman.
+- Section 505.012 - Appointment or election of board member to district governing body.
+- Section 505.02 - Bond of township trustees.
+- Section 505.03 - Additional or new bond.
+- Section 505.031 - Appointment of township administrator.
+- Section 505.032 - Powers and duties of township administrator.
+- Section 505.04 - Annual inventory.
+- Section 505.05 - Program recognizing outstanding employee performance.
+- Section 505.06 - Abatement of building nuisances.
+- Section 505.07 - Settlement of court action - zoning issue subject to referendum.
+- Section 505.08 - Emergency contracts.
+- Section 505.09 - Duty of trustees at elections.
+- Section 505.10 - Acceptance and disposition of property.
+- Section 505.101 - Contracts with state or other public agency.
+- Section 505.102 - Real property transactions with senior citizens' organization.
+- Section 505.104 - Exchange or transfer of real property without bidding.
+- Section 505.105 - Property recovered by police department.
+- Section 505.106 - Neglect or refuse to deposit property in possession of a person arrested.
+- Section 505.107 - Restoration of property to claimant or accused person.
+- Section 505.108 - Disposition of unclaimed property.
+- Section 505.109 - Payment of storage and selling expenses.
+- Section 505.1010 - Purchase of property at auction.
+- Section 505.11 - Leases of real property or mining rights in township.
+- Section 505.12 - Solid waste facilities.
+- Section 505.13 - Operation of scow or lighter.
+- Section 505.14 - Residence for physician - tax levy - election - anticipatory notes.
+- Section 505.15 - Airports, landing fields, or other air navigation facilities.
+- Section 505.16 - Harbor masters.
+- Section 505.17 - Regulations for engine noise and vehicle parking.
+- Section 505.171 - Drive-in theater screens.
+- Section 505.172 - Noise control.
+- Section 505.173 - Storage of junk motor vehicles.
+- Section 505.18 - Joint issue of bonds.
+- Section 505.19 - Annual meeting of trustees of divided township.
+- Section 505.20 - Tax for drilling oil or gas well.
+- Section 505.21 - Copy of Revised Code for township officers.
+- Section 505.22 - Volunteer fire department definitions.
+- Section 505.23 - Insurance for members of volunteer department - joint fire department.
+- Section 505.24 - Compensation of trustees.
+- Section 505.241 - Dues for township government association.
+- Section 505.25 - Additional compensation for certain trustees.
+- Section 505.26 - Additional powers of trustees.
+- Section 505.261 - Establishing township park.
+- Section 505.262 - Township buildings finance and construction.
+- Section 505.263 - Water supply improvement contracts.
+- Section 505.264 - Evaluating township buildings for energy conservation measures.
+- Section 505.265 - Issuing securities for payment of accrued liability to police and firemen's disability and pension fund.
+- Section 505.266 - Procedure for establishing or increasing concentrated animal feeding facility.
+- Section 505.267 - Lease-purchase agreements.
+- Section 505.27 - Collection, transfer, and disposal of solid wastes.
+- Section 505.28 - Creation of waste disposal district.
+- Section 505.29 - Tax levy for waste and leaf disposal service - service charge.
+- Section 505.30 - Liability for damages.
+- Section 505.31 - Collection of service charges - waste collection fund - use of fund.
+- Section 505.32 - Compensation of fiscal officer - bond.
+- Section 505.33 - Delinquent list certified to county auditor - collection.
+- Section 505.34 - Compounding or release of claims due from banks.
+- Section 505.35 - Expenditure of funds.
+- Section 505.36 - Bond issue for viaduct construction or improvement.
+- Section 505.37 - Fire protection services.
+- Section 505.371 - Joint fire district creation.
+- Section 505.372 - Bond of clerk of the board of fire district trustees.
+- Section 505.373 - Adoption of fire code.
+- Section 505.374 - Fire code violations.
+- Section 505.375 - Fire and ambulance district creation.
+- Section 505.376 - Bids on fire and ambulance district contracts.
+- Section 505.377 - Classification of volunteer firefighters.
+- Section 505.38 - Appointment of firefighting personnel.
+- Section 505.381 - Criminal records check.
+- Section 505.39 - Tax levy for fire protection and other services.
+- Section 505.391 - Assessment of charge for false alarm from an automatic fire alarm system at a commercial establishment.
+- Section 505.40 - Bond issue for fire protection measures limited.
+- Section 505.401 - Issuing bonds for firefighting purposes.
+- Section 505.41 - Members of volunteer fire companies are township employees.
+- Section 505.42 - Fire equipment fund.
+- Section 505.43 - Police protection.
+- Section 505.431 - Resolution to provide police protection to other public entity.
+- Section 505.432 - Contract with port authority or Chautauqua assembly.
+- Section 505.44 - Contracts for ambulance service.
+- Section 505.441 - Collection and retention of fees for service runs.
+- Section 505.45 - Schooling of officers and firemen of fire department.
+- Section 505.46 - Township trustees may construct and maintain footbridges.
+- Section 505.47 - Payment of costs of footbridges - approval of tax levy required.
+- Section 505.48 - Township police district.
+- Section 505.481 - Unincorporated territory may be added to district - contents of ballot.
+- Section 505.482 - Joint township police district board.
+- Section 505.483 - Resolution to join existing joint police district.
+- Section 505.484 - Performance bond.
+- Section 505.49 - Rules necessary for operation of township police district.
+- Section 505.491 - Police officer guilty in performance of official duty.
+- Section 505.492 - Hearing of charge against police officer.
+- Section 505.493 - Suspension of officer pending hearing.
+- Section 505.494 - Subpoena power.
+- Section 505.495 - Oaths - compelling testimony.
+- Section 505.50 - Equipment and buildings for police protection.
+- Section 505.51 - Police district or joint police district tax levy.
+- Section 505.511 - Fee for false alarms resulting from malfunction of same commercial or residential security alarm system.
+- Section 505.52 - Police equipment fund.
+- Section 505.53 - Police district and joint police district notes.
+- Section 505.54 - Additional training or skills for police personnel.
+- Section 505.541 - Parking enforcement unit.
+- Section 505.55 - Dissolution of township police district.
+- Section 505.551 - Withdrawal from and dissolution of joint police district.
+- Section 505.56 - Excise tax on transactions by which lodging is furnished to transient guests.
+- Section 505.57 - Use of proceeds of lodging tax receipts by local school district.
+- Section 505.58 - Contributions to convention and visitors' bureaus from general fund.
+- Section 505.59 - Withdrawal of unincorporated territory from transit authority; tax levy to provide transportation services.
+- Section 505.60 - Health insurance for township officers and employees.
+- Section 505.601 - Reimbursement of officers and employees for health care premiums.
+- Section 505.602 - Group life insurance for township officers and employees.
+- Section 505.603 - Benefits to officers and employees through a cafeteria plan or health and wellness benefit program.
+- Section 505.61 - Liability insurance for police personnel.
+- Section 505.62 - Appropriations for potential or pending annexation actions.
+- Section 505.63 - Liability insurance for firefighting personnel.
+- Section 505.64 - Authorizing use of township credit card.
+- Section 505.66 - Snow removal on public school property.
+- Section 505.67 - Voluntary motor vehicle decal registration program.
+- Section 505.69 - Acquire, rehabilitate, and develop rail property and rail service.
+- Section 505.70 - Financial assistance to and cooperate with other agencies for senior citizen services.
+- Section 505.701 - Community improvement corporations.
+- Section 505.702 - Neighborhood crime watch programs.
+- Section 505.703 - Funds to county office of economic development.
+- Section 505.704 - Participation and contribution to regional cooperation and improvement organization.
+- Section 505.705 - Appropriations for water or sewerage systems.
+- Section 505.706 - Money for providing and maintaining services and facilities for senior citizens.
+- Section 505.707 - Appropriations for organization serving community purpose.
+- Section 505.71 - Joint ambulance district.
+- Section 505.72 - Joint ambulance district employees.
+- Section 505.721 - Joint ambulance district - reasonable charges for use of services.
+- Section 505.73 - Model or standard building code.
+- Section 505.74 - Model or standard building code violations.
+- Section 505.75 - Township residential building code.
+- Section 505.76 - Availability of township residential building code.
+- Section 505.77 - Building prohibitions.
+- Section 505.78 - Effective date of building regulations.
+- Section 505.79 - Collection and disposal of tree leaves.
+- Section 505.80 - Encouraging economic development of township or area through promotion of tourism.
+- Section 505.82 - Emergency resolutions.
+- Section 505.84 - Reasonable charges for use of ambulance or emergency medical services.
+- Section 505.85 - Disposal, storage or impoundment of motor vehicles.
+- Section 505.86 - Removal, repair or securance of insecure, unsafe buildings or structures.
+- Section 505.87 - Abatement, control, or removal of vegetation, garbage, refuse, and other debris.
+- Section 505.871 - Removal of junk motor vehicle.
+- Section 505.88 - Special assessment upon facilities directly or indirectly benefiting from maintenance and improvement of waterways.
+- Section 505.881 - Township special assessment to fund residential broadband expansion.
+- Section 505.882 - Broadband expansion challenge process.
+- Section 505.89 - Curfew - violations.
+- Section 505.90 - Agreements to provide maintenance, repair, and improvement of township and municipal roads located within the townships and municipal corporations.
+- Section 505.93 - Prohibiting boxing matches or exhibitions.
+- Section 505.94 - Registration and regulation of transient vendors.
+- Section 505.95 - Regulating resale of tickets to public amusements.
+- Section 505.99 - Penalty.
+- Section 505.991 - Penalty - neglect or refuse to deposit property in possession of a person arrested.

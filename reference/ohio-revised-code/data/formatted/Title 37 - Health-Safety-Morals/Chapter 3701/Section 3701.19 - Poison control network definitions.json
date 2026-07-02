@@ -1,0 +1,96 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Poison prevention and treatment center\" means an entity designated as a poison prevention and treatment center by the director of health under section 3701.20 of the Revised Code.",
+      "id": "3701.19-poison-prevention-and-treatment-center",
+      "normalized": "poison prevention and treatment center",
+      "scope": "As used in sections 3701.19 to 3701.201 of the Revised Code:",
+      "section": "3701.19",
+      "source_title": "Section 3701.19 - Poison control network definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3701.19",
+      "term": "Poison prevention and treatment center"
+    },
+    {
+      "definition": "(B) \"Harm\" means injury, death, or loss to person or property.",
+      "id": "3701.19-harm",
+      "normalized": "harm",
+      "scope": "As used in sections 3701.19 to 3701.201 of the Revised Code:",
+      "section": "3701.19",
+      "source_title": "Section 3701.19 - Poison control network definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3701.19",
+      "term": "Harm"
+    },
+    {
+      "definition": "(C) \"Tort action\" means a civil action for damages for injury, death, or loss to person or property. \"Tort action\" includes a product liability claim that is subject to sections 2307.71 to 2307.80 of the Revised Code, but does not include a civil action for a breach of contract or another agreement between persons.",
+      "id": "3701.19-tort-action",
+      "normalized": "tort action",
+      "scope": "As used in sections 3701.19 to 3701.201 of the Revised Code:",
+      "section": "3701.19",
+      "source_title": "Section 3701.19 - Poison control network definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3701.19",
+      "term": "Tort action"
+    },
+    {
+      "definition": "(D)(1) Subject to division (D)(2) of this section, \"volunteer\" means a trustee, officer, or agent of a poison prevention and treatment center, or another person associated with such a center, who satisfies both of the following:\n\n(a) Performs services for or on behalf of, and under the authority or auspices of, the center;\n\n(b) Does not receive compensation, either directly or indirectly, for performing those services.",
+      "id": "3701.19-volunteer",
+      "normalized": "volunteer",
+      "scope": "As used in sections 3701.19 to 3701.201 of the Revised Code:",
+      "section": "3701.19",
+      "source_title": "Section 3701.19 - Poison control network definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3701.19",
+      "term": "volunteer"
+    },
+    {
+      "definition": "(2) For purposes of division (D)(1) of this section, \"compensation\" does not include any of the following:\n\n(a) Actual and necessary expenses that are incurred by a volunteer in connection with the services performed for a center, and that are reimbursed to the volunteer or otherwise paid;\n\n(b) Insurance premiums paid on behalf of a volunteer, and amounts paid or reimbursed, pursuant to division (E) of section 1702.12 of the Revised Code;\n\n(c) Modest perquisites.",
+      "id": "3701.19-compensation",
+      "normalized": "compensation",
+      "scope": "As used in sections 3701.19 to 3701.201 of the Revised Code:",
+      "section": "3701.19",
+      "source_title": "Section 3701.19 - Poison control network definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3701.19",
+      "term": "compensation"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3701.19",
+      "number": "3701.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3701.19"
+    },
+    {
+      "kind": "section",
+      "label": "3701.201",
+      "number": "3701.201",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3701.201"
+    },
+    {
+      "kind": "section",
+      "label": "3701.20",
+      "number": "3701.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3701.20"
+    },
+    {
+      "kind": "section",
+      "label": "2307.71",
+      "number": "2307.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.71"
+    },
+    {
+      "kind": "section",
+      "label": "2307.80",
+      "number": "2307.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.80"
+    },
+    {
+      "kind": "section",
+      "label": "1702.12",
+      "number": "1702.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.12"
+    }
+  ],
+  "scraped": "2026-07-02T19:50:52+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3701.19",
+  "title": "Section 3701.19 - Poison control network definitions."
+}

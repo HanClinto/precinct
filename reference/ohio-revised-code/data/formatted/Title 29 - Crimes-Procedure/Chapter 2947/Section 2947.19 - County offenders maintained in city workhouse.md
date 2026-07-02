@@ -1,0 +1,16 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-2947.19
+Scraped: 2026-07-02T19:46:56+00:00
+
+# Section 2947.19 - County offenders maintained in city workhouse.
+
+**Effective:** January 1, 2004
+
+**Latest Legislation:** House Bill 490 - 124th General Assembly
+
+(A) In a county that has no workhouse but in which is located a city that has a workhouse maintained by the city, the board of county commissioners may agree with the proper authorities of that city upon terms under which persons convicted of misdemeanors shall be maintained in the city workhouse at the expense of the county. In the case of persons committed to the city workhouse for the violation of a law of this state, whether the commitment is from the court of common pleas, magistrate's court, or other court, the cost of maintaining those persons committed shall be paid out of the general fund of the county, on the allowance of the board of county commissioners, provided that all persons committed to the city workhouse for the violation of ordinances of the city shall be maintained in that workhouse at the sole cost of the city.
+
+(B) Pursuant to section 2929.37 of the Revised Code, the board of county commissioners or the legislative authority of the city may require a person who was convicted of an offense and who is confined in the city workhouse as provided in division (A) of this section to reimburse the county or the city, as the case may be, for its expenses incurred by reason of the person's confinement. If a person is convicted of or pleads guilty to a felony and the court imposes a sanction that requires the offender to serve a term in a city workhouse, sections 341.23 , 753.02 , 753.04 , and 753.16 of the Revised Code govern the determination of whether the court may impose a sanction under section 2929.18 of the Revised Code that requires the offender to reimburse the expenses of confinement.
+
+(C) Notwithstanding any contrary provision in this section or section 2929.18 , 2929.28 , or 2929.37 of the Revised Code, the board of county commissioners or the legislative authority of the city may establish a policy that complies with section 2929.38 of the Revised Code and that requires any person who is not indigent and who is confined in the city workhouse to pay a reception fee or a fee for any medical treatment or service requested by and provided to that person.
+
+(D) If a person who has been convicted of or pleaded guilty to an offense is confined in the workhouse as provided in division (A) of this section, at the time of reception and at other times the person in charge of the operation of the workhouse determines to be appropriate, the person in charge of the operation of the workhouse may cause the convicted offender to be examined and tested for tuberculosis, HIV infection, hepatitis, including but not limited to hepatitis A, B, and C, and other contagious diseases. The person in charge of the operation of the workhouse may cause a convicted offender in the workhouse who refuses to be tested or treated for tuberculosis, HIV infection, hepatitis, including but not limited to hepatitis A, B, and C, or another contagious disease to be tested and treated involuntarily.

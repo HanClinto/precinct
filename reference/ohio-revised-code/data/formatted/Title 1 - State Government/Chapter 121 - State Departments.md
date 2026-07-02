@@ -1,0 +1,104 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-121
+Scraped: 2026-07-02T19:31:35+00:00
+
+# Chapter 121 - State Departments
+
+## Sections
+
+- Section 121.01 - Definition of terms.
+- Section 121.02 - Administrative departments and directors created.
+- Section 121.03 - Appointment of administrative department heads.
+- Section 121.031 - Administrative department head's regulation authority.
+- Section 121.04 - Offices created in the several departments.
+- Section 121.05 - Assistant directors.
+- Section 121.06 - Appointment of officers - term.
+- Section 121.07 - Supervision and control of departments - establishing divisions.
+- Section 121.08 - Deputy director of administration in department of commerce.
+- Section 121.081 - Department of insurance - powers and duties.
+- Section 121.082 - Superintendent of insurance - prohibited activities.
+- Section 121.083 - Superintendent of industrial compliance - powers and duties.
+- Section 121.084 - Industrial compliance operating fund.
+- Section 121.085 - Financial literacy education fund.
+- Section 121.086 - High school financial literacy fund.
+- Section 121.09 - Qualifications of director of agriculture and chief of division of animal health.
+- Section 121.10 - Director of health - qualifications.
+- Section 121.11 - Bond and oath of office - blanket bonds - bond may be required of employee.
+- Section 121.12 - Officer to devote entire time to duties and hold no other office - reimbursement for expenses.
+- Section 121.13 - Advisory boards may be provided.
+- Section 121.14 - Employment subject to civil service laws.
+- Section 121.15 - Central office for each department - branch offices - restrictions on relocation.
+- Section 121.16 - State agency notices.
+- Section 121.17 - Co-operation and coordination of work under direction of governor.
+- Section 121.18 - Report by each department.
+- Section 121.181 - Identification of department acquiring interest in real property.
+- Section 121.19 - Power to inspect and examine.
+- Section 121.20 - Seal for each department - specifications - use.
+- Section 121.211 - Retention and disposition of records.
+- Section 121.22 - Public meetings - exceptions.
+- Section 121.221 - Public meetings - virtual meetings.
+- Section 121.23 - No award of contract to person found in contempt for failure to correct an unfair labor practice.
+- Section 121.30 - Spanish-speaking affair definitions.
+- Section 121.31 - Commission on Hispanic-Latino affairs.
+- Section 121.32 - Powers and duties of commission.
+- Section 121.33 - Office of Hispanic-Latino affairs - powers and duties.
+- Section 121.35 - Revision of uniform the eligibility standards.
+- Section 121.36 - Contracts entered into by department for provision of home care services to home care dependent adults.
+- Section 121.37 - Ohio family and children first cabinet council.
+- Section 121.373 - Family and children first administration fund.
+- Section 121.375 - Information provided to Ohio family and children first cabinet council.
+- Section 121.376 - Ohio automated service coordination information system.
+- Section 121.38 - Resolving agency disputes concerning services or funding.
+- Section 121.381 - Family and children first dispute resolution process.
+- Section 121.382 - Services continued pending dispute resolution process.
+- Section 121.39 - Identifying documentation that is basis for legislation dealing with environmental protection.
+- Section 121.40 - Ohio commission on service and volunteerism.
+- Section 121.401 - Adoption of recommended best practices when volunteers have unsupervised access to children.
+- Section 121.402 - Educational program for volunteers having unsupervised access to children.
+- Section 121.403 - Powers of commission - gifts and donations fund - use of moneys.
+- Section 121.41 - Inspector general definitions.
+- Section 121.42 - Inspector general - powers and duties.
+- Section 121.421 - Investigation of casino control commission enforcement personnel.
+- Section 121.43 - Subpoena power - contempt.
+- Section 121.44 - Reports of investigations.
+- Section 121.45 - Cooperating in investigations.
+- Section 121.46 - Filing complaint - form.
+- Section 121.47 - Confidential information.
+- Section 121.48 - Appointment of inspector general.
+- Section 121.481 - Special investigations fund.
+- Section 121.482 - Disposition of money received.
+- Section 121.483 - Status of deputy inspector general as peace officer.
+- Section 121.49 - Qualifications.
+- Section 121.50 - Administrative rules.
+- Section 121.51 - Deputy inspector general for transportation department.
+- Section 121.52 - Deputy inspector general for workers' compensation.
+- Section 121.531 - Signs specifying ARRA funding prohibited.
+- Section 121.60 - Executive agency lobbying definitions.
+- Section 121.61 - Prohibited acts.
+- Section 121.62 - Initial registration statement - updating information.
+- Section 121.621 - Disqualification as executive agency lobbyist for certain offenses.
+- Section 121.63 - Statement of expenditures - records.
+- Section 121.64 - Statement of financial transactions.
+- Section 121.65 - Disputed expenditure or transaction.
+- Section 121.66 - Exceptions.
+- Section 121.67 - Prohibiting contingent fees.
+- Section 121.68 - Statements are public records.
+- Section 121.69 - Investigations.
+- Section 121.71 - Incorporation by reference in rule definitions.
+- Section 121.72 - Incorporating rule by reference.
+- Section 121.73 - Filing material incorporated by reference electronically.
+- Section 121.74 - Access to material incorporated in rule in final form.
+- Section 121.75 - Sufficiency of citations.
+- Section 121.81 - "Agency" and "draft rule" defined; construction of sections.
+- Section 121.811 - Applicability of business review provisions.
+- Section 121.82 - Evaluation of draft rules; business impact analysis.
+- Section 121.91 - Customer service standards.
+- Section 121.93 - Review of agency operations.
+- Section 121.931 - Petition to restate a principle of law or policy in a rule.
+- Section 121.933 - Applicability of R.C. 101.352, 101.353, 121.93, and 121.931.
+- Section 121.95 - Agency review of rules to identify restrictions.
+- Section 121.951 - Required reduction in regulatory restrictions.
+- Section 121.952 - Failure to reduce regulatory restrictions.
+- Section 121.953 - Total permitted regulatory restrictions.
+- Section 121.954 - Exemptions from regulatory restriction reduction.
+- Section 121.99 - Penalty.
+- Section 121.991 - Penalty for disclosing confidential information.

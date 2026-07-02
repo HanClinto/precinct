@@ -1,0 +1,95 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-5505
+Scraped: 2026-07-02T20:12:28+00:00
+
+# Chapter 5505 - Highway Patrol Retirement System
+
+## Sections
+
+- Section 5505.01 - Highway patrol retirement system definitions.
+- Section 5505.02 - State highway patrol pension fund established - membership mandatory.
+- Section 5505.03 - Creation of funds.
+- Section 5505.04 - State highway patrol retirement board organization and rules.
+- Section 5505.041 - Election to board - retirant member eligibility - terms.
+- Section 5505.042 - Filing of vacancies by election.
+- Section 5505.043 - Election not required where candidate unopposed.
+- Section 5505.044 - Candidate campaign finance statements - donor statement of independent expenditures.
+- Section 5505.045 - Filing of statements - prohibited campaign activities.
+- Section 5505.046 - Complaint alleging violation of RC 5505.045 - procedure - fine.
+- Section 5505.047 - Adoption of election rules - certification of nominating petitions and election results.
+- Section 5505.048 - Disqualification of convicted member - misconduct in office - removal procedure.
+- Section 5505.049 - Members with excessive travel expenses ineligible for another term.
+- Section 5505.05 - Oath - expenses - liability insurance.
+- Section 5505.06 - Investment and fiduciary duties of state highway patrol retirement board.
+- Section 5505.061 - Transactions prohibited.
+- Section 5505.062 - Travel expense policies - bonus policy - budget.
+- Section 5505.063 - Ethics policy - commission approval - ethics training.
+- Section 5505.064 - Orientation program required for new members - continuing education.
+- Section 5505.065 - Chief investment officer - supervision duties - monitoring of securities transactions.
+- Section 5505.068 - Designation of Ohio-qualified agents - selection policy - utilization - annual report.
+- Section 5505.069 - Annual disclosures to Ohio Ethics Commission.
+- Section 5505.0610 - Designation of Ohio-qualified investment managers - utilization - annual report.
+- Section 5505.07 - Secretary, actuary, and employees - compensation and expenses.
+- Section 5505.08 - No participation by trustees.
+- Section 5505.09 - Bonds of taxing districts may be offered to board.
+- Section 5505.10 - Deposit and security.
+- Section 5505.11 - Treasurer of state is treasurer of state highway patrol retirement system.
+- Section 5505.111 - Selection of internal auditor.
+- Section 5505.112 - Actions against highway patrol retirement system, the board, its officers, employees, or board members; venue.
+- Section 5505.12 - Actuarial valuation of pension assets, liabilities, and funding requirements of state highway patrol retirement system.
+- Section 5505.121 - Amortizing state highway patrol retirement system's unfunded actuarial accrued pension liabilities.
+- Section 5505.122 - Format for report to retirement study council.
+- Section 5505.14 - Certificate of prior service.
+- Section 5505.15 - Employer contribution.
+- Section 5505.151 - Contributions for time off while on disability leave.
+- Section 5505.152 - Annual review of adequacy of contributions rates.
+- Section 5505.16 - Application for retirement.
+- Section 5505.161 - Retirant re-employed in other state retirement system.
+- Section 5505.162 - Election of type of pension.
+- Section 5505.163 - Election by retirant prior to 9-21-94.
+- Section 5505.17 - Pension and benefits upon retirement.
+- Section 5505.171 - Additional monthly payments and benefits.
+- Section 5505.172 - Additional monthly payments eligibility on or after 7-1-68 and prior to 7-1-71.
+- Section 5505.173 - Increase in monthly pension, allowance or benefit effective 7-1-81.
+- Section 5505.174 - Eligibility for cost-of-living increase.
+- Section 5505.175 - Increase in benefit or allowance when IRC 415 limits increased.
+- Section 5505.176 - Increase in pension for certain retirees prior to 9-16-98.
+- Section 5505.177 - Qualified governmental excess benefit arrangement maintained and established.
+- Section 5505.178 - Pensions paid in equal monthly installments.
+- Section 5505.18 - Disability retirement.
+- Section 5505.181 - Annual report disability retirement experience of each employer.
+- Section 5505.19 - Cessation of membership - disposition of accumulations.
+- Section 5505.20 - Restoration of membership.
+- Section 5505.201 - Full credit for time served as police officer or firefighter.
+- Section 5505.203 - Payroll deduction plan for payments for service credits.
+- Section 5505.21 - Distribution of accumulated contributions when no pension payable.
+- Section 5505.22 - Pension and accumulated contributions exempt from tax.
+- Section 5505.23 - Legal adviser.
+- Section 5505.25 - Purchase service credit for military service.
+- Section 5505.26 - Restitution order based on theft in office or certain sex offenses.
+- Section 5505.261 - Order for division of marital property.
+- Section 5505.262 - Forfeiture of retirement benefits under RC 2929.192.
+- Section 5505.263 - Benefits subject to termination.
+- Section 5505.27 - Payments from state treasury.
+- Section 5505.28 - Health insurance.
+- Section 5505.281 - Additional deposits to fund medical expenses.
+- Section 5505.29 - Refunding cost of restored service credit.
+- Section 5505.30 - Lump sum death benefit payment.
+- Section 5505.33 - Long-term care insurance programs.
+- Section 5505.34 - Recovering erroneous payments.
+- Section 5505.35 - Authorized deductions.
+- Section 5505.40 - Full credit for service credit earned for full-time service as member of non-uniform system.
+- Section 5505.401 - Transfers of service credit and contributions between system and Cincinnati retirement system.
+- Section 5505.402 - Eligibility for credit for service in Cincinnati retirement system.
+- Section 5505.403 - Transferring contributions to Cincinnati retirement system.
+- Section 5505.41 - Transferring contributions on deposit from non-uniform retirement system.
+- Section 5505.50 - Deferred retirement option plan.
+- Section 5505.51 - Participation in deferred retirement plan - election procedure.
+- Section 5505.52 - Plan members ineligible for service credit or health benefits.
+- Section 5505.53 - Determination of plan member's pension amount.
+- Section 5505.54 - Accrual of plan member's pension and contributions.
+- Section 5505.55 - Events terminating member's participation in plan.
+- Section 5505.56 - Notice of termination of active service - distribution of accrued amount.
+- Section 5505.57 - Method and timing of distribution of accrued amount.
+- Section 5505.58 - Plan member qualifying for disability retirement.
+- Section 5505.59 - Plan member dying while participant - distribution of benefits.
+- Section 5505.99 - Penalty.

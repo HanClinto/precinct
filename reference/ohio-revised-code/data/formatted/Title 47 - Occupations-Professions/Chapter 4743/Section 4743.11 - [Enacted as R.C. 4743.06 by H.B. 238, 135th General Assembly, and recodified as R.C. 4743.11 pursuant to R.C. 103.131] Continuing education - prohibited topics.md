@@ -1,0 +1,28 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4743.11
+Scraped: 2026-07-02T20:07:25+00:00
+
+# Section 4743.11 - [Enacted as R.C. 4743.06 by H.B. 238, 135th General Assembly, and recodified as R.C. 4743.11 pursuant to R.C. 103.131] Continuing education - prohibited topics.
+
+**Effective:** April 9, 2025
+
+**Latest Legislation:** House Bill 238 - 135th General Assembly
+
+(A) As used in this section:
+
+(1) "Occupational licensing board" has the same meaning as in section 4798.01 of the Revised Code. "Occupational licensing board" does not include the supreme court with respect to governing the practice of law pursuant to rules prescribed under Ohio Constitution, Article IV, Section 5.
+
+(2) "Protected class" means an individual's race, color, religion, sex, military status, national origin, disability, age, or ancestry, as those terms are used in section 4112.02 of the Revised Code.
+
+(B) Notwithstanding any provision of law to the contrary, no occupational licensing board shall adopt, provide, approve for credit, count for credit, or require completion of continuing education curriculum or coursework, seminars, webinars, or online instruction that promote any of the following concepts:
+
+(1) An individual of a protected class is inherently superior or inferior to another protected class, and members of a protected class should be discriminated against solely or partly because of the individual's membership in a protected class.
+
+(2) An individual, by virtue of the individual's membership in a protected class, is inherently racist, sexist, or oppressive, whether consciously or unconsciously.
+
+(3) An individual's moral standing or worth is necessarily determined by the individual's membership in any protected class.
+
+(4) An individual, by virtue of the individual's membership in any protected class, bears responsibility for the actions committed in the past by other members of the same protected class.
+
+(5) Meritocracy or traits such as hard work ethic are racist or sexist, or were created by individuals of a particular protected class to oppress members of another protected class.
+
+Last updated February 27, 2025 at 5:52 PM

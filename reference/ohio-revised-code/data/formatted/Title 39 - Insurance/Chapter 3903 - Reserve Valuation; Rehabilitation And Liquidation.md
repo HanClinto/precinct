@@ -1,0 +1,99 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-3903
+Scraped: 2026-07-02T20:02:12+00:00
+
+# Chapter 3903 - Reserve Valuation; Rehabilitation And Liquidation
+
+## Sections
+
+- Section 3903.01 - Reserve valuation - rehabilitation and liquidation definitions.
+- Section 3903.02 - Citing of act - purpose of act.
+- Section 3903.03 - Application of sections.
+- Section 3903.04 - Jurisdiction.
+- Section 3903.05 - Temporary restraining orders - injunctions.
+- Section 3903.06 - Duty of persons exercising control to cooperate with superintendent.
+- Section 3903.07 - Responsibilities of superintendent and deputies.
+- Section 3903.08 - Effect on pending proceedings.
+- Section 3903.09 - Correction orders issued by superintendent.
+- Section 3903.10 - Complaint - court may issue ex parte seizure or other order.
+- Section 3903.11 - Confidentiality of information - exceptions.
+- Section 3903.12 - Grounds for rehabilitation order.
+- Section 3903.13 - Rehabilitation orders.
+- Section 3903.14 - Employment of special deputies.
+- Section 3903.15 - Stay of actions - statute of limitations - standing.
+- Section 3903.16 - Motion for order of liquidation - order terminating rehabilitation of insurer.
+- Section 3903.17 - Basis for liquidation order.
+- Section 3903.18 - Liquidation orders.
+- Section 3903.19 - Effect of liquidation order on policies.
+- Section 3903.20 - Dissolution of corporate existence.
+- Section 3903.21 - Liquidator - powers and duties.
+- Section 3903.22 - Notice of liquidation order.
+- Section 3903.24 - Civil action against liquidator or insurer.
+- Section 3903.25 - Duplicate list of insurer's assets.
+- Section 3903.26 - Transfers and obligations incurred one year prior to proceeding.
+- Section 3903.27 - Transfers made after filing of complaint.
+- Section 3903.28 - Preferences.
+- Section 3903.29 - Allowance of claims.
+- Section 3903.30 - Allowance of setoffs and counterclaims.
+- Section 3903.301 - Protection of rights.
+- Section 3903.31 - Report of liquidator to court.
+- Section 3903.32 - Reducing recovery from reinsurer.
+- Section 3903.33 - Payment of unpaid earned premiums.
+- Section 3903.34 - Proposal to disburse assets to guaranty associations - contents - application for approval.
+- Section 3903.35 - Proof of claims to be filed with liquidator.
+- Section 3903.36 - Proof of claim contents.
+- Section 3903.37 - Contingent claims- absolute claims.
+- Section 3903.38 - Third party-party claims.
+- Section 3903.39 - Written notice of denial of claim.
+- Section 3903.40 - Claims secured by undertaking of another person.
+- Section 3903.41 - Methods of determining value of security held by secured creditor.
+- Section 3903.42 - Priority of distribution of claims.
+- Section 3903.421 - Medicaid health insuring corporation bond and securities.
+- Section 3903.43 - Review and investigation of claims.
+- Section 3903.44 - Court payment of distributions.
+- Section 3903.45 - Distribution of unclaimed and withheld funds.
+- Section 3903.46 - Discharge of liquidator.
+- Section 3903.47 - Motion to reopen proceedings.
+- Section 3903.48 - Court to direct retention or destruction of insurer's records.
+- Section 3903.49 - Audit of books of proceeding.
+- Section 3903.50 - Order appointing conservator.
+- Section 3903.51 - Order directing liquidation.
+- Section 3903.52 - Power of domiciliary liquidator.
+- Section 3903.53 - Appointing ancillary receiver.
+- Section 3903.54 - Discretion of superintendent to commence proceedings.
+- Section 3903.55 - Foreign claimants.
+- Section 3903.56 - Ohio residents claiming against foreign insurers.
+- Section 3903.57 - Attachment, garnishment or execution proceedings blocked.
+- Section 3903.58 - Distribution order among claimants from reciprocal states.
+- Section 3903.59 - Failure to transfer assets to Ohio liquidator by ancillary receiver.
+- Section 3903.71 - Unsound company, suspension of authority to do business.
+- Section 3903.72 - Definitions for sections 3903.72 to 3903.7211.
+- Section 3903.721 - Valuation of reserves.
+- Section 3903.722 - Submission of data prior to operative date of valuation manual.
+- Section 3903.723 - Minimum standards for the valuation of policies.
+- Section 3903.724 - Determination of valuation interest rate.
+- Section 3903.725 - Valuation for individual annuity and pure endowment contracts.
+- Section 3903.726 - Submissions prior to operative date of valuation manual.
+- Section 3903.727 - Valuation for accident and health insurance contracts.
+- Section 3903.728 - Policies issued on or after the operative date of the valuation manual.
+- Section 3903.729 - Established reserves; principle-based valuation.
+- Section 3903.7210 - Submission of prescribed data.
+- Section 3903.7211 - Confidential information.
+- Section 3903.73 - Deposit of securities with treasurer of state.
+- Section 3903.74 - Sale and distribution of securities of defaulting companies.
+- Section 3903.75 - Notice to claimants.
+- Section 3903.76 - Court procedure.
+- Section 3903.77 - Property and casualty insurance reporting requirements.
+- Section 3903.81 - Risk-based capital for insurers model act definitions.
+- Section 3903.82 - Annual report.
+- Section 3903.83 - Duty to submit plan.
+- Section 3903.84 - Regulatory action level event duties of superintendent and insurer.
+- Section 3903.85 - Authorized control level event duties of superintendent and insurer.
+- Section 3903.86 - Mandatory control level event duties of superintendent and insurer.
+- Section 3903.87 - Right to request hearing.
+- Section 3903.88 - Confidential information.
+- Section 3903.89 - Effectiveness of notice.
+- Section 3903.90 - Annual report by foreign insurer.
+- Section 3903.91 - Regulatory officials - immunity.
+- Section 3903.92 - Requirements for exempting insurer from sections.
+- Section 3903.93 - Rules.
+- Section 3903.99 - Penalty.

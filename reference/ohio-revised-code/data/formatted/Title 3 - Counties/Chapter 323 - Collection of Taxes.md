@@ -1,0 +1,82 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-323
+Scraped: 2026-07-02T19:32:49+00:00
+
+# Chapter 323 - Collection of Taxes
+
+## Sections
+
+- Section 323.01 - Collection of taxes definitions.
+- Section 323.011 - Taxes defined for certain sections.
+- Section 323.02 - Acceptance of claim by county treasurer - certificates - assignment of certificate.
+- Section 323.03 - Certificates to be dated.
+- Section 323.04 - Payment of taxes with liquidated claims.
+- Section 323.05 - Claims and certificates nonnegotiable - exception.
+- Section 323.06 - Payment of special assessments with assessment bonds.
+- Section 323.07 - County treasurer authorized to accept bonds - no cash refunds - distribution.
+- Section 323.071 - Advance payment of installments of special assessment - cancellation of installments - use of money.
+- Section 323.08 - Publishing schedule of tax rates and effective rates.
+- Section 323.09 - Office of county treasurer open for collection of taxes.
+- Section 323.11 - State's lien for taxes attaches and continues until paid.
+- Section 323.12 - Payment of taxes.
+- Section 323.121 - Penalty and interest for failure to pay real estate taxes and installments when due.
+- Section 323.122 - Extension for payment of real property tax for members of armed forces.
+- Section 323.13 - Tax bill mailed or delivered - failure to receive bill.
+- Section 323.131 - Form and contents of tax bill.
+- Section 323.132 - Paying delinquent taxes.
+- Section 323.133 - Payment of portion of taxes where application for exemption is pending.
+- Section 323.134 - Agreements for information exchanges limited exclusively to purpose of real property tax billing and payment.
+- Section 323.14 - Receipt for payment of taxes - form.
+- Section 323.15 - Payment of less than full amount due - payment by owner of undivided interest.
+- Section 323.151 - Valuation of homestead property definitions.
+- Section 323.152 - Reductions in taxable value.
+- Section 323.153 - Application for reduction in real property taxes.
+- Section 323.154 - Issuing certificate of reduction.
+- Section 323.155 - Tax bill to reflect reductions.
+- Section 323.156 - Payment of homestead exemption to county's undivided income tax fund from state general fund.
+- Section 323.157 - Employees - adoption of rules.
+- Section 323.158 - Partial real property tax exemption.
+- Section 323.159 - Applying homestead exemption to nonprofit corporation that owns and operates housing cooperatives.
+- Section 323.16 - Partial real property tax exemption for child care center.
+- Section 323.17 - Extending time for delivery of tax duplicate.
+- Section 323.25 - Enforcing tax lien.
+- Section 323.251 - Authority of tax commissioner relative to actions of local authorities.
+- Section 323.26 - Allegations in petition - evidence.
+- Section 323.27 - Joinder of causes of action.
+- Section 323.28 - Finding and decree - appraisal and sale of property - proceeds of sale.
+- Section 323.29 - Partial payment of delinquent taxes.
+- Section 323.30 - Receipt for installment payment - contents - entry by county treasurer.
+- Section 323.31 - Delinquent tax contract with treasurer.
+- Section 323.32 - Payments received in settlement of claims arising from delinquent property tax charges and ordered to be paid by railroad company under plan of reorganization.
+- Section 323.33 - Delinquent amounts most likely uncollectible except through foreclosure or through foreclosure and forfeiture.
+- Section 323.41 - Duty of holder of land to pay taxes - agents - liability of guardian.
+- Section 323.42 - Recovering advances or expenses.
+- Section 323.43 - Authorizing or consenting to payment by taxes by another.
+- Section 323.44 - Forfeiture of life estate for failure to pay taxes.
+- Section 323.45 - Lien for taxes paid by lienholder.
+- Section 323.46 - Rights of joint owner who pays his portion of tax - liability of nonpaying joint owner.
+- Section 323.47 - Lien on land to be discharged out of proceeds of sale.
+- Section 323.48 - Lien of part owner who pays tax.
+- Section 323.49 - Power of county treasurer to become receiver of land - procedure - exception.
+- Section 323.50 - Decision of court - rental value of commercial property - ability to collect taxes from income - discharge of receiver.
+- Section 323.51 - Prosecuting attorney shall represent county treasurer.
+- Section 323.61 - Tax receiving offices - location.
+- Section 323.611 - Contracting with financial institution to process payments, checks and fees.
+- Section 323.62 - Notice to taxpayer.
+- Section 323.63 - Depositing money received in payment of taxes.
+- Section 323.65 - Expedited foreclosure on unoccupied land definitions.
+- Section 323.66 - Expedited foreclosure by board of revision on unoccupied land.
+- Section 323.67 - List of parcels of abandoned land.
+- Section 323.68 - Title search to identify persons with interest in land.
+- Section 323.69 - Complaint for foreclosure - dismissal by board.
+- Section 323.691 - Transfer of complaint to court of common pleas or municipal court.
+- Section 323.70 - Final hearing on complaint - dismissal on petition.
+- Section 323.71 - Procedure where impositions exceed fair market value.
+- Section 323.72 - Answer - hearing on or dismissal of complaint.
+- Section 323.73 - Disposal of abandoned land at public auction.
+- Section 323.74 - Disposition of abandoned land not sold at auction.
+- Section 323.75 - Apportionment of costs of sale at auction.
+- Section 323.76 - Termination of right of redemption on sale or transfer.
+- Section 323.77 - Notice by electing subdivision of desire to acquire land.
+- Section 323.78 - Invocation of alternative redemption period.
+- Section 323.79 - Appeal by aggrieved party in court of common pleas.
+- Section 323.99 - Penalty.

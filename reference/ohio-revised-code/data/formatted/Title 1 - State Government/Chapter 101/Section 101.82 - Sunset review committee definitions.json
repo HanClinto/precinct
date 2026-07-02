@@ -1,0 +1,108 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Agency\" means any board, commission, committee, or council, or any other similar state public body required to be established pursuant to state statutes for the exercise of any function of state government and to which members are appointed or elected. \"Agency\" does not include the following:\n\n(1) The general assembly, or any commission, committee, or other body composed entirely of members of the general assembly;\n\n(2) Any court;\n\n(3) Any public body created by or directly pursuant to the constitution of this state;\n\n(4) The board of trustees of any institution of higher education financially supported in whole or in part by the state;\n\n(5) Any public body that has the authority to issue bonds or notes or that has issued bonds or notes that have not been fully repaid;\n\n(6) The public utilities commission of Ohio;\n\n(7) The consumers' counsel governing board;\n\n(8) Any state board or commission that has the authority to issue any final adjudicatory order that may be appealed to the court of common pleas under Chapter 119. of the Revised Code;\n\n(9) Any board of elections;\n\n(10) The board of directors of the Ohio insurance guaranty association and the board of governors of the Ohio fair plan underwriting association;\n\n(11) The Ohio retirement study council;\n\n(12) The board of trustees of the Ohio police and fire pension fund, public employees retirement board, school employees retirement board, state highway patrol retirement board, and state teachers retirement board;\n\n(13) The industrial commission;\n\n(14) The parole board;\n\n(15) The board of tax appeals;\n\n(16) The controlling board;\n\n(17) The release authority of department of youth services;\n\n(18) The environmental review appeals commission;\n\n(19) The Ohio ethics commission;\n\n(20) The Ohio public works commission;\n\n(21) The self-insuring employers evaluation board;\n\n(22) The state board of deposit;\n\n(23) The state employment relations board;\n\n(24) An agency that is exempted from the requirements of sections 101.82 to 101.87 of the Revised Code by the agency's enabling statutes; and\n\n(25) The following agencies, deemed to have a purpose related to federal law:\n\n(a) The children and youth advisory council, under section 5180.04 of the Revised Code;\n\n(b) The emergency response commission under section 3750.02 of the Revised Code;\n\n(c) The public defender commission under section 120.01 of the Revised Code;\n\n(d) The homeland security advisory council under division (E) of section 5502.011 of the Revised Code;\n\n(e) The unemployment compensation review commission under section 4141.06 of the Revised Code.",
+      "id": "101.82-agency",
+      "normalized": "agency",
+      "scope": "As used in sections 101.82 to 101.87 of the Revised Code:",
+      "section": "101.82",
+      "source_title": "Section 101.82 - Sunset review committee definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-101.82",
+      "term": "Agency"
+    },
+    {
+      "definition": "(B) \"Abolish\" means to repeal the statutes creating and empowering an agency, remove its personnel, and transfer its records to the department of administrative services pursuant to division (E) of section 149.331 of the Revised Code.",
+      "id": "101.82-abolish",
+      "normalized": "abolish",
+      "scope": "As used in sections 101.82 to 101.87 of the Revised Code:",
+      "section": "101.82",
+      "source_title": "Section 101.82 - Sunset review committee definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-101.82",
+      "term": "Abolish"
+    },
+    {
+      "definition": "(C) \"Terminate\" means to amend or repeal the statutes creating and empowering an agency, remove its personnel, and reassign its functions and records to another agency or officer designated by the general assembly.",
+      "id": "101.82-terminate",
+      "normalized": "terminate",
+      "scope": "As used in sections 101.82 to 101.87 of the Revised Code:",
+      "section": "101.82",
+      "source_title": "Section 101.82 - Sunset review committee definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-101.82",
+      "term": "Terminate"
+    },
+    {
+      "definition": "(D) \"Transfer\" means to amend the statutes creating and empowering an agency so that its functions, records, and personnel are conveyed to another agency or officer.",
+      "id": "101.82-transfer",
+      "normalized": "transfer",
+      "scope": "As used in sections 101.82 to 101.87 of the Revised Code:",
+      "section": "101.82",
+      "source_title": "Section 101.82 - Sunset review committee definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-101.82",
+      "term": "Transfer"
+    },
+    {
+      "definition": "(E) \"Renew\" means to continue an agency, and may include amendment of the statutes creating and empowering the agency, or recommendations for changes in agency operation or personnel.\n\nLast updated July 16, 2025 at 4:57 PM",
+      "id": "101.82-renew",
+      "normalized": "renew",
+      "scope": "As used in sections 101.82 to 101.87 of the Revised Code:",
+      "section": "101.82",
+      "source_title": "Section 101.82 - Sunset review committee definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-101.82",
+      "term": "Renew"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "101.82",
+      "number": "101.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-101.82"
+    },
+    {
+      "kind": "section",
+      "label": "101.87",
+      "number": "101.87",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-101.87"
+    },
+    {
+      "kind": "section",
+      "label": "5180.04",
+      "number": "5180.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5180.04"
+    },
+    {
+      "kind": "section",
+      "label": "3750.02",
+      "number": "3750.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3750.02"
+    },
+    {
+      "kind": "section",
+      "label": "120.01",
+      "number": "120.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-120.01"
+    },
+    {
+      "kind": "section",
+      "label": "5502.011",
+      "number": "5502.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5502.011"
+    },
+    {
+      "kind": "section",
+      "label": "4141.06",
+      "number": "4141.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.06"
+    },
+    {
+      "kind": "section",
+      "label": "149.331",
+      "number": "149.331",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.331"
+    }
+  ],
+  "scraped": "2026-07-02T19:31:19+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-101.82",
+  "title": "Section 101.82 - Sunset review committee definitions."
+}

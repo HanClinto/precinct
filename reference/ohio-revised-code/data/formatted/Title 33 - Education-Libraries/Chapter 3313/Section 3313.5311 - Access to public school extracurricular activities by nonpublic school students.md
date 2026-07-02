@@ -1,0 +1,30 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3313.5311
+Scraped: 2026-07-02T19:48:39+00:00
+
+# Section 3313.5311 - Access to public school extracurricular activities by nonpublic school students.
+
+**Effective:** March 16, 2017
+
+**Latest Legislation:** Senate Bill 3 - 131st General Assembly
+
+(A) As used in this section and in section 3313.5312 of the Revised Code, "extracurricular activity" has the same meaning as in section 3313.537 of the Revised Code.
+
+(B) If the nonpublic school in which the student is enrolled does not offer the extracurricular activity, a student enrolled in a chartered or nonchartered nonpublic school shall be afforded, by the superintendent of the school district in which the student is entitled to attend school under section 3313.64 or 3313.65 of the Revised Code, the opportunity to participate in that extracurricular activity at the district school to which the student otherwise would be assigned during that school year. If more than one school operated by the school district serves the student's grade level, as determined by the district superintendent based on the student's age and academic performance, the student shall be afforded the opportunity to participate in that extracurricular activity at the school to which the student would be assigned by the superintendent under section 3319.01 of the Revised Code.
+
+(C) The superintendent of any school district may afford any student enrolled in a nonpublic school, and who is not entitled to attend school in the district under section 3313.64 or 3313.65 of the Revised Code, the opportunity to participate in an extracurricular activity offered by a school of the district, if the nonpublic school in which the student is enrolled does not offer the extracurricular activity and either of the following apply:
+
+(1) The extracurricular activity is not interscholastic athletics or interscholastic contests or competition in music, drama, or forensics.
+
+(2) The extracurricular activity is in an interscholastic athletic or interscholastic contest or competition in music, drama, or forensics. In order to participate under division (C)(2) of this section, the student shall seek to participate at either the school district in which the student's nonpublic school is located or the school district in which the student is entitled to attend school under section 3313.64 or 3313.65 of the Revised Code, so long as the chosen district offers the extracurricular activity.
+
+If the student seeks to participate under division (C)(2) of this section at the school district in which the student's nonpublic school is located, both of the following shall apply:
+
+(a) The superintendent of the school district in which the student is entitled to attend school shall certify that the student has not participated in any extracurricular activity that is in an interscholastic athletic or interscholastic contest or competition in music, drama, or forensics at that school district during that school year. If the student has participated in such an extracurricular activity at that school district during the school year, the student shall be ineligible to participate at the school district in which the student's nonpublic school is located for that school year.
+
+(b) The superintendent of the school district in which the student is entitled to attend school and the superintendent of the school district in which the student is seeking to participate shall mutually agree, in writing, to allow the student to participate in the extracurricular activity at the school district in which the student's nonpublic school is located.
+
+(D) In order to participate in an extracurricular activity under this section, the student shall be of the appropriate age and grade level, as determined by the superintendent of the district, for the school that offers the extracurricular activity, and shall fulfill the same academic, nonacademic, and financial requirements as any other participant.
+
+(E) No school district shall impose additional rules on a student to participate under this section that do not apply to other students participating in the same extracurricular activity. No district shall impose additional fees for a student to participate under this section that exceed any fees charged to other students participating in the same extracurricular activity.
+
+(F) No school district, interscholastic conference, or organization that regulates interscholastic conferences or events shall require a student who is eligible to participate in interscholastic extracurricular activities under this section to meet eligibility requirements that conflict with this section.

@@ -1,0 +1,16 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3719.121
+Scraped: 2026-07-02T19:51:34+00:00
+
+# Section 3719.121 - Suspending license, certificate, or registration of person addicted to or improperly distributing controlled substances.
+
+**Effective:** April 9, 2025
+
+**Latest Legislation:** Senate Bill 95 - 135th General Assembly
+
+(A) Except as otherwise provided in section 4723.28 , 4723.35 , 4730.25 , 4731.22 , 4734.39 , 4734.41 , or 4772.20 of the Revised Code, the license, certificate, or registration of any dentist, chiropractor, physician, podiatrist, registered nurse, advanced practice registered nurse, licensed practical nurse, physician assistant, pharmacist, pharmacy intern, pharmacy technician trainee, registered pharmacy technician, certified pharmacy technician, optometrist, veterinarian, or certified mental health assistant who is or becomes addicted to the use of controlled substances shall be suspended by the board that authorized the person's license, certificate, or registration until the person offers satisfactory proof to the board that the person no longer is addicted to the use of controlled substances.
+
+(B) If the board under which a person has been issued a license, certificate, or evidence of registration determines that there is clear and convincing evidence that continuation of the person's professional practice or method of administering, prescribing, preparing, distributing, dispensing, or personally furnishing controlled substances or other dangerous drugs presents a danger of immediate and serious harm to others, the board may suspend the person's license, certificate, or registration without a hearing. Except as otherwise provided in sections 4715.30 , 4723.281 , 4729.16 , 4730.25 , 4731.22 , 4734.36 , and 4772.20 of the Revised Code, the board shall follow the procedure for suspension without a prior hearing in section 119.07 of the Revised Code. The suspension shall remain in effect, unless removed by the board, until the board's final adjudication order becomes effective, except that if the board does not issue its final adjudication order within ninety days after the hearing, the suspension shall be void on the ninety-first day after the hearing.
+
+(C) On receiving notification pursuant to section 2929.42 or 3719.12 of the Revised Code, the board under which a person has been issued a license, certificate, or evidence of registration immediately shall suspend the license, certificate, or registration of that person on a plea of guilty to, a finding by a jury or court of the person's guilt of, or conviction of a felony drug abuse offense; a finding by a court of the person's eligibility for intervention in lieu of conviction; a plea of guilty to, or a finding by a jury or court of the person's guilt of, or the person's conviction of an offense in another jurisdiction that is essentially the same as a felony drug abuse offense; or a finding by a court of the person's eligibility for treatment or intervention in lieu of conviction in another jurisdiction. The board shall notify the holder of the license, certificate, or registration of the suspension, which shall remain in effect until the board holds an adjudicatory hearing under Chapter 119. of the Revised Code.
+
+Last updated January 17, 2025 at 3:16 PM

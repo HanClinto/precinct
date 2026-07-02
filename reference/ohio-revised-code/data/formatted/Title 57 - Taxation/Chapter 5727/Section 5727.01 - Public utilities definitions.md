@@ -1,0 +1,94 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5727.01
+Scraped: 2026-07-02T20:14:53+00:00
+
+# Section 5727.01 - Public utilities definitions.
+
+**Effective:** August 14, 2025
+
+**Latest Legislation:** House Bill 15 - 136th General Assembly
+
+As used in this chapter:
+
+(A) "Public utility" means each person referred to as a telephone company, telegraph company, electric company, natural gas company, pipe-line company, water-works company, water transportation company, heating company, rural electric company, railroad company, combined company, or energy company.
+
+(B) "Gross receipts" means the entire receipts for business done by any person from operations as a public utility, or incidental thereto, or in connection therewith, including any receipts received under Chapter 4928. of the Revised Code. The gross receipts for business done by an incorporated company engaged in operation as a public utility includes the entire receipts for business done by such company under the exercise of its corporate powers, whether from the operation as a public utility or from any other business.
+
+(C) "Rural electric company" means any nonprofit corporation, organization, association, or cooperative engaged in the business of supplying electricity to its members or persons owning an interest therein in an area the major portion of which is rural. "Rural electric company" excludes an energy company.
+
+(D) Any person:
+
+(1) Is a telegraph company when engaged in the business of transmitting telegraphic messages to, from, through, or in this state;
+
+(2) Is a telephone company when primarily engaged in the business of providing local exchange telephone service, excluding cellular radio service, in this state;
+
+(3) Is an electric company when engaged in the business of generating, transmitting, or distributing electricity within this state for use by others, but excludes a rural electric company or an energy company;
+
+(4) Is a natural gas company when engaged in the business of supplying or distributing natural gas for lighting, power, or heating purposes to consumers within this state, excluding a person that is a governmental aggregator or retail natural gas supplier as defined in section 4929.01 of the Revised Code;
+
+(5) Is a pipe-line company when engaged in the business of transporting natural gas, oil, or coal or its derivatives through pipes or tubing, either wholly or partially within this state;
+
+(6) Is a water-works company when engaged in the business of supplying water through pipes or tubing, or in a similar manner, to consumers within this state;
+
+(7) Is a water transportation company when engaged in the transportation of passengers or property, by boat or other watercraft, over any waterway, whether natural or artificial, from one point within this state to another point within this state, or between points within this state and points without this state;
+
+(8) Is a heating company when engaged in the business of supplying water, steam, or air through pipes or tubing to consumers within this state for heating purposes;
+
+(9) Is a railroad company when engaged in the business of owning or operating a railroad either wholly or partially within this state on rights-of-way acquired and held exclusively by such company, or otherwise, and includes a passenger, street, suburban, or interurban railroad company;
+
+(10) Is an energy company when engaged in the business of generating, transmitting, storing and releasing, or distributing electricity within this state for use by others solely from an energy facility with an aggregate nameplate capacity in excess of two hundred fifty kilowatts.
+
+As used in division (D)(2) of this section, "local exchange telephone service" means making available or furnishing access and a dial tone to all persons within a local calling area for use in originating and receiving voice grade communications over a switched network operated by the provider of the service within the area and for gaining access to other telecommunication services.
+
+(E) "Taxable property" means the property required by section 5727.06 of the Revised Code to be assessed by the tax commissioner, but does not include either of the following:
+
+(1) An item of tangible personal property that for the period subsequent to the effective date of an air, water, or noise pollution control certificate and continuing so long as the certificate is in force, has been certified as part of the pollution control facility with respect to which the certificate has been issued;
+
+(2) An item of tangible personal property that during the construction of a plant or facility and until the item is first capable of operation, whether actually used in operation or not, is incorporated in or being held exclusively for incorporation in that plant or facility.
+
+Notwithstanding section 5701.03 of the Revised Code, for tax year 2006 and thereafter, "taxable property" includes patterns, jigs, dies, and drawings of an electric company or a combined company for use in the activity of an electric company.
+
+(F) "Taxing district" means a municipal corporation or township, or part thereof, in which the aggregate rate of taxation is uniform.
+
+(G) "Telecommunications service" has the same meaning as in division (AA) of section 5739.01 of the Revised Code.
+
+(H) "Interexchange telecommunications company" means a person that is engaged in the business of transmitting telephonic messages to, from, through, or in this state, but that is not a telephone company.
+
+(I) "Sale and leaseback transaction" means a transaction in which a public utility or interexchange telecommunications company sells any tangible personal property to a person other than a public utility or interexchange telecommunications company and leases that property back from the buyer.
+
+(J) "Production equipment" means all taxable steam, nuclear, hydraulic, renewable resource, clean coal technology, and other production plant equipment used to generate or store and release electricity. For tax years prior to 2001, "production equipment" includes taxable station equipment that is located at a production plant.
+
+(K) "Tax year" means the year for which property or gross receipts are subject to assessment under this chapter. This division does not limit the tax commissioner's ability to assess and value property or gross receipts outside the tax year.
+
+(L) "Combined company" means any person engaged in the activity of an electric company or rural electric company that is also engaged in the activity of a heating company or a natural gas company, or any combination thereof.
+
+(M) "Public utility property lessor" means any person, other than a public utility or an interexchange telecommunications company, that leases personal property, other than in a sale and leaseback transaction, to a public utility, other than a railroad, water transportation, telephone, or telegraph company if the property would be taxable property if owned by the public utility. A public utility property lessor is subject to this chapter only for the purposes of reporting and paying tax on taxable property it leases to a public utility other than a telephone or telegraph company. A public utility property lessor that leases property to a public utility other than a telephone or telegraph company is not a public utility, but it shall report its property and be assessed in the same manner as the utility to which it leases the property.
+
+(N) "Energy resource" means any of the following:
+
+(1) Renewable energy resource as defined in section 4928.01 of the Revised Code;
+
+(2) Clean coal technology as described in division (A)(34)(c) of section 4928.01 of the Revised Code;
+
+(3) Advanced nuclear technology as described in division (A)(34)(d) of section 4928.01 of the Revised Code;
+
+(4) Cogeneration technology as described in division (A)(34)(b) of section 4928.01 of the Revised Code;
+
+(5) Energy storage system.
+
+(O) "Energy conversion equipment" means tangible personal property connected to a wind turbine tower, connected to and behind solar radiation collector areas and designed to convert the radiant energy of the sun into electricity or heat, or connected to any other property used to generate or store and release electricity from an energy resource, through which electricity is transferred to controls, transformers, or power electronics and to the transmission interconnection point.
+
+"Energy conversion equipment" includes, but is not limited to, inverters, switch gears, wiring, collection lines, substations, ancillary tangible personal property, or any lines and associated tangible personal property located between substations and the transmission interconnection point.
+
+(P) "Energy facility" means one or more interconnected wind turbines, solar panels, energy storage systems, or other tangible personal property used to generate or store and release electricity from an energy resource owned by the same person, including:
+
+(1) All interconnection equipment, devices, and related apparatus connected to such tangible personal property;
+
+(2) All cables, equipment, devices, and related apparatus that connect the generators to an electricity grid or to a building or facility that directly consumes the electricity produced, that facilitate the transmission of electrical energy from the generators to the grid, building, or facility, and, where applicable, that transform voltage before ultimate delivery of electricity to the grid, building, or facility.
+
+"Energy facility" includes buildings, structures, improvements, or fixtures exclusively used to house, support, or stabilize tangible personal property constituting the facility or that are otherwise necessary for the operation of that property; and so much of the land on which such tangible personal property is situated as is required for operation of the facility and is not devoted to some other use, not to exceed, in the case of wind turbines, one-half acre for each wind turbine, and regardless of whether the land is owned by the owner or lessee of the tangible personal property or by another person.
+
+(Q) "Nameplate capacity" means the original interconnected maximum rated alternating current output of a generator or other electric production equipment under specific conditions designated by the manufacturer, expressed in the number of kilowatts or megawatts.
+
+(R) "Energy storage system" means tangible personal property that permits the storage of energy for future use as electricity.
+
+Last updated May 22, 2025 at 12:59 PM

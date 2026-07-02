@@ -1,0 +1,52 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Road\" or \"highway\" does not include physical facilities, garages, district offices, or other buildings funded in whole or in part by or through the department of transportation.",
+      "id": "5525.011-road",
+      "normalized": "road",
+      "scope": "(D) As used in this section:",
+      "section": "5525.011",
+      "source_title": "Section 5525.011 - Complying with federal surface transportation assistance act.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5525.011",
+      "term": "Road"
+    },
+    {
+      "definition": "(1) \"Road\" or \"highway\" does not include physical facilities, garages, district offices, or other buildings funded in whole or in part by or through the department of transportation.",
+      "id": "5525.011-highway",
+      "normalized": "highway",
+      "scope": "(D) As used in this section:",
+      "section": "5525.011",
+      "source_title": "Section 5525.011 - Complying with federal surface transportation assistance act.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5525.011",
+      "term": "highway"
+    },
+    {
+      "definition": "(2) \"Branch of work\" means any of the following:\n\n(a) Plumbing and gas-fitting;\n\n(b) Steam and hot-water heating, ventilating apparatus, and steam-powered plant;\n\n(c) Electrical equipment.",
+      "id": "5525.011-branch-of-work",
+      "normalized": "branch of work",
+      "scope": "(D) As used in this section:",
+      "section": "5525.011",
+      "source_title": "Section 5525.011 - Complying with federal surface transportation assistance act.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5525.011",
+      "term": "Branch of work"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "153.50",
+      "number": "153.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.50"
+    },
+    {
+      "kind": "section",
+      "label": "153.52",
+      "number": "153.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.52"
+    }
+  ],
+  "scraped": "2026-07-02T20:12:53+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5525.011",
+  "title": "Section 5525.011 - Complying with federal surface transportation assistance act."
+}

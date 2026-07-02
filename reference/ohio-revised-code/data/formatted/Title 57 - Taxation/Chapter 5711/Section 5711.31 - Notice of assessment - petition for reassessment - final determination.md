@@ -1,0 +1,22 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5711.31
+Scraped: 2026-07-02T20:14:29+00:00
+
+# Section 5711.31 - Notice of assessment - petition for reassessment - final determination.
+
+**Effective:** September 6, 2002
+
+**Latest Legislation:** Senate Bill 200 - 124th General Assembly
+
+Whenever the assessor assesses any property not listed in or omitted from a return, or whenever the assessor assesses any item or class of taxable property listed in a return by the taxpayer in excess of the value or amount thereof as so listed, or without allowing a claim duly made for deduction from the net book value of accounts receivable, or depreciated book value of personal property used in business, so listed, the assessor shall give notice of such assessment to the taxpayer by mail. The mailing of the notice of assessment shall be prima-facie evidence of the receipt of the same by the person to whom such notice is addressed. With the notice, the assessor shall provide instructions on how to petition for reassessment and request a hearing on the petition.
+
+Within sixty days after the mailing of the notice of assessment prescribed in this section, the party assessed may file with the tax commissioner, in person or by certified mail, a written petition for reassessment signed by the party assessed, or by that party's authorized agent having knowledge of the facts. If the petition is filed by certified mail, the date of the United States postmark placed on the sender's receipt by the postal employee to whom the petition is presented shall be treated as the date of filing. The petition shall have attached thereto and incorporated therein by reference a true copy of the notice of assessment complained of, but the failure to attach a copy of such notice and incorporate it by reference does not invalidate the petition. The petition also shall indicate the objections of the party assessed, but additional objections may be raised in writing if received prior to the date shown on the final determination by the commissioner.
+
+Upon receipt of a properly filed petition, the commissioner shall notify the treasurer of state or the auditor and treasurer of each county having any part of the assessment entered on the tax list or duplicate.
+
+If the petitioner requests a hearing on the petition, the commissioner shall assign a time and place for the hearing and notify the petitioner of such time and place, but the commissioner may continue the hearing from time to time as necessary.
+
+The commissioner may make corrections to the assessment, as the commissioner finds proper. The commissioner shall serve a copy of the commissioner's final determination on the petitioner in the manner provided in section 5703.37 of the Revised Code. The commissioner's decision in the matter is final, subject to appeal under section 5717.02 of the Revised Code. The commissioner also shall transmit a copy of the commissioner's final determination to the treasurer of state or applicable county auditor. In the absence of any further appeal, or when a decision of the board of tax appeals or of any court to which the decision has been appealed becomes final, the commissioner shall notify the treasurer of state or the proper county auditor of such final determination. If the final determination orders correction of the assessment, the notification may be in the form of a corrected assessment certificate. Upon receipt of the notification, the treasurer of state or the proper county auditor shall make any corrections to the treasurer's or auditor's records and tax lists and duplicates required in accordance therewith and proceed as prescribed by section 5711.32 or 5725.22 of the Revised Code.
+
+The decision of the commissioner upon such petition for reassessment shall be final with respect to the assessment of all taxable property listed in the return of the taxpayer and shall constitute to that extent the final determination of the commissioner with respect to such assessment. Neither this section nor a final judgment of the board of tax appeals or any court to which such final determination may be appealed shall preclude the subsequent assessment in the manner authorized by law of any taxable property which such taxpayer failed to list in such return, or which the assessor has not theretofore assessed.
+
+As used in this section, "taxpayer" includes financial institutions, dealers in intangibles, and domestic insurance companies as defined in section 5725.01 of the Revised Code.

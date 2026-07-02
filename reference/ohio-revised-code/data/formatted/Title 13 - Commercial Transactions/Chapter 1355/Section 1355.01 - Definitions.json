@@ -1,0 +1,96 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Applicable agency\" means a department or agency of the state to which both of the following apply:\n\n(1) It is authorized to regulate certain types of business activity in this state and persons engaged in such business, including the issuance of licenses or other types of authorization.\n\n(2) The superintendent of financial institutions determines the department or agency would regulate a sandbox participant if the person were not a sandbox participant.",
+      "id": "1355.01-applicable-agency",
+      "normalized": "applicable agency",
+      "scope": "As used in this chapter:",
+      "section": "1355.01",
+      "source_title": "Section 1355.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1355.01",
+      "term": "Applicable agency"
+    },
+    {
+      "definition": "(B) \"Consumer\" means a person that obtains, from a sandbox participant, a novel financial product or service that is to be used primarily for personal, family, household, or business purposes. \"Consumer\" includes a legal representative of the person.",
+      "id": "1355.01-consumer",
+      "normalized": "consumer",
+      "scope": "As used in this chapter:",
+      "section": "1355.01",
+      "source_title": "Section 1355.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1355.01",
+      "term": "Consumer"
+    },
+    {
+      "definition": "(C) \"Financial product or service\" means a product or service that requires licensure or other authorization under, or that includes a business model, delivery mechanism, or element that requires a license or other authorization to act as a financial institution or other person that is regulated by, Title XI or Chapter 1315., 1321., 1322., 1733., 4712., 4727., or 4728. of the Revised Code. \"Financial product or service\" does not include a product or service that requires licensure under, or that includes a business model, delivery mechanism, or element that requires a license to act as a person regulated by, Chapter 1707. of the Revised Code.",
+      "id": "1355.01-financial-product-or-service",
+      "normalized": "financial product or service",
+      "scope": "As used in this chapter:",
+      "section": "1355.01",
+      "source_title": "Section 1355.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1355.01",
+      "term": "Financial product or service"
+    },
+    {
+      "definition": "(D) \"Novel financial product or service\" means a financial product or service that makes use of or incorporates new or emerging technology, or reimagines uses of existing technologies, to address a problem, provide a benefit, or otherwise offer a product, service, business model, or delivery mechanism that is not known by the superintendent of financial institutions to have a comparable widespread offering in this state.",
+      "id": "1355.01-novel-financial-product-or-service",
+      "normalized": "novel financial product or service",
+      "scope": "As used in this chapter:",
+      "section": "1355.01",
+      "source_title": "Section 1355.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1355.01",
+      "term": "Novel financial product or service"
+    },
+    {
+      "definition": "(E) \"Person\" has the same meaning as in section 1.59 of the Revised Code.",
+      "id": "1355.01-person",
+      "normalized": "person",
+      "scope": "As used in this chapter:",
+      "section": "1355.01",
+      "source_title": "Section 1355.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1355.01",
+      "term": "Person"
+    },
+    {
+      "definition": "(F) \"Regulatory sandbox\" means the program established by this chapter under which a person is licensed to temporarily test a novel financial product or service on a limited basis without otherwise being licensed or authorized to act under the laws of this state.",
+      "id": "1355.01-regulatory-sandbox",
+      "normalized": "regulatory sandbox",
+      "scope": "As used in this chapter:",
+      "section": "1355.01",
+      "source_title": "Section 1355.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1355.01",
+      "term": "Regulatory sandbox"
+    },
+    {
+      "definition": "(G) \"Sandbox participant\" means a person that has been granted a license to test a novel financial product or service in the regulatory sandbox.",
+      "id": "1355.01-sandbox-participant",
+      "normalized": "sandbox participant",
+      "scope": "As used in this chapter:",
+      "section": "1355.01",
+      "source_title": "Section 1355.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1355.01",
+      "term": "Sandbox participant"
+    },
+    {
+      "definition": "(H) \"Test\" means to provide products and services as allowed by this chapter.\n\nLast updated January 17, 2023 at 5:44 PM",
+      "id": "1355.01-test",
+      "normalized": "test",
+      "scope": "As used in this chapter:",
+      "section": "1355.01",
+      "source_title": "Section 1355.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1355.01",
+      "term": "Test"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "1.59",
+      "number": "1.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1.59"
+    }
+  ],
+  "scraped": "2026-07-02T19:37:30+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1355.01",
+  "title": "Section 1355.01 - Definitions."
+}

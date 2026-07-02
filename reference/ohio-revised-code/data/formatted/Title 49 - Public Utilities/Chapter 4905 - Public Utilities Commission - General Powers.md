@@ -1,0 +1,101 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-4905
+Scraped: 2026-07-02T20:09:00+00:00
+
+# Chapter 4905 - Public Utilities Commission - General Powers
+
+## Sections
+
+- Section 4905.01 - Definitions.
+- Section 4905.02 - Public utility defined.
+- Section 4905.03 - Public utility company definitions.
+- Section 4905.04 - Power to regulate public utilities and railroads.
+- Section 4905.041 - Exclusive jurisdiction of commission.
+- Section 4905.042 - Commission jurisdiction over advanced or Internet protocol-enabled services.
+- Section 4905.05 - Scope of jurisdiction.
+- Section 4905.06 - General supervision.
+- Section 4905.07 - Information and records to be public.
+- Section 4905.09 - Substantial compliance.
+- Section 4905.10 - Assessment for expenses.
+- Section 4905.12 - Forfeiture.
+- Section 4905.13 - System of accounts for public utilities.
+- Section 4905.14 - Annual report.
+- Section 4905.15 - Reports and accounts.
+- Section 4905.16 - Copy of contract may be required by commission.
+- Section 4905.17 - Construction accounts.
+- Section 4905.18 - Depreciation account.
+- Section 4905.19 - Depreciation fund.
+- Section 4905.20 - Abandonment of facilities.
+- Section 4905.21 - Application to commission to abandon, withdraw or close.
+- Section 4905.22 - Service and facilities required - unreasonable charge prohibited.
+- Section 4905.23 - Electric generating plant closure prohibited.
+- Section 4905.26 - Complaints as to service.
+- Section 4905.261 - Telephone call center for consumer complaints.
+- Section 4905.27 - Standard units.
+- Section 4905.28 - Standards of measurement.
+- Section 4905.29 - Examinations and tests.
+- Section 4905.30 - Printed schedules of rates must be filed.
+- Section 4905.301 - Application to recover public way regulation costs.
+- Section 4905.302 - Purchased gas adjustment clause.
+- Section 4905.303 - Approving purchases of synthetic natural gas.
+- Section 4905.304 - Examining coal research and development costs incurred by gas or natural gas company.
+- Section 4905.31 - Reasonable arrangements allowed - variable rate.
+- Section 4905.311 - Behind the meter electric generation service regulation.
+- Section 4905.32 - Schedule rate collected.
+- Section 4905.321 - Refund of improper charges.
+- Section 4905.33 - Rebates, special rates, and free service prohibited.
+- Section 4905.331 - Settlement limitations.
+- Section 4905.34 - Free service or reduced rates.
+- Section 4905.35 - Prohibiting discrimination.
+- Section 4905.36 - Separate hearings.
+- Section 4905.37 - Commission may change rules and regulations of public utilities.
+- Section 4905.38 - Repairs and improvements may be ordered by commission.
+- Section 4905.39 - Power to require additions and extensions.
+- Section 4905.40 - Issuance of stocks, bonds, and notes.
+- Section 4905.401 - Issuing notes or other evidences of indebtedness.
+- Section 4905.402 - Acquiring or merging with domestic telephone or electric utility company or holding company.
+- Section 4905.403 - Filing control bid for a natural gas company.
+- Section 4905.41 - Proceedings to obtain authority.
+- Section 4905.42 - Hearings on issuance of stocks, bonds, and notes.
+- Section 4905.43 - Public utility in possession of receiver exempted.
+- Section 4905.45 - Indorsement of public utility or railroad securities.
+- Section 4905.46 - Restrictions on dividend or distribution.
+- Section 4905.47 - Capitalization.
+- Section 4905.48 - Transactions between public utilities.
+- Section 4905.481 - Purchase of municipal water-works or sewage disposal system company.
+- Section 4905.49 - Acquisition of water-works or sewage disposal system; rate division.
+- Section 4905.491 - Contents of order of approval.
+- Section 4905.51 - Use of equipment over street by other public utility.
+- Section 4905.52 - Refusal to answer questions in examination.
+- Section 4905.54 - Compliance with orders.
+- Section 4905.55 - Liability for act of agent.
+- Section 4905.56 - Violation.
+- Section 4905.57 - Actions to recover forfeitures.
+- Section 4905.58 - Indictment.
+- Section 4905.59 - Action for forfeiture by prosecuting attorney.
+- Section 4905.60 - Writ of mandamus - injunction.
+- Section 4905.61 - Treble damages.
+- Section 4905.62 - Limitation.
+- Section 4905.63 - Company formed to acquire property or transact business subject to certain laws.
+- Section 4905.64 - Forfeiture shall be cumulative.
+- Section 4905.65 - Local regulation restricting construction, location, or use of public utility facility.
+- Section 4905.70 - Energy conservation programs.
+- Section 4905.71 - Filing tariffs for charges for attachment to pole or conduit use of equipment.
+- Section 4905.72 - Changes in provider of natural gas service or public telecommunications service to consumer.
+- Section 4905.73 - Jurisdiction.
+- Section 4905.74 - Persistent practice or pattern of violative conduct.
+- Section 4905.75 - Payments to agent not considered past due.
+- Section 4905.79 - Tax credits for costs of service to aid communicatively impaired.
+- Section 4905.80 - State policy regarding motor carriers.
+- Section 4905.81 - Duties of public utilities commission.
+- Section 4905.84 - Annual assessment to pay for TRS service.
+- Section 4905.86 - Sulfur dioxide emission allowances.
+- Section 4905.87 - Biomass energy program fund.
+- Section 4905.90 - Natural gas pipeline safety standards definitions.
+- Section 4905.91 - Intrastate gas pipe-lines.
+- Section 4905.911 - Compliance with federal design requirements.
+- Section 4905.92 - Assessments against operators - pipe-line safety fund.
+- Section 4905.93 - Duties of operator.
+- Section 4905.94 - Operator of master-meter system.
+- Section 4905.95 - Notices, hearings and orders of commission.
+- Section 4905.96 - Civil action against operator.
+- Section 4905.99 - Penalty.

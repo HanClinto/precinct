@@ -1,0 +1,44 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-903.09
+Scraped: 2026-07-02T19:34:14+00:00
+
+# Section 903.09 - Issuance of draft permits.
+
+**Effective:** September 29, 2015
+
+**Latest Legislation:** House Bill 64 - 131st General Assembly
+
+(A) Prior to issuing or modifying a permit to install, permit to operate, or NPDES permit, the director of agriculture shall issue a draft permit. The director or the director's representative shall mail notice of the issuance of a draft permit to the applicant and shall publish the notice once in a newspaper of general circulation in the county in which the concentrated animal feeding facility or discharger is located or proposed to be located. The director shall mail notice of the issuance of a draft permit and a copy of the draft permit to the board of county commissioners of the county and the board of township trustees of the township in which the concentrated animal feeding facility or discharger is located or proposed to be located. The director or the director's representative also shall provide notice of the issuance of a draft NPDES permit to any other persons that are entitled to notice under the Federal Water Pollution Control Act. Notice of the issuance of a draft permit to install, permit to operate, or NPDES permit shall include the address where written comments concerning the draft permit may be submitted and the period of time during which comments will be accepted as established by rule.
+
+If the director receives written comments in an amount that demonstrates significant public interest, as defined by rule, in the draft permit, the director shall schedule one public meeting to provide information to the public and to hear comments pertinent to the draft permit. The notice of the public meeting shall be provided in the same manner as the notice of the issuance of the draft permit.
+
+(B) If a person is required to obtain both a permit to install and a permit to operate, including any permit to operate with NPDES provisions, and public meetings are required for both permits, the public meetings for the permits shall be combined.
+
+(C) The director shall apply the antidegradation policy adopted under section 6111.12 of the Revised Code to permits issued under this chapter to the same degree and under the same circumstances as it applies to permits issued under Chapter 6111. of the Revised Code. The director shall hold one public meeting to consider antidegradation issues when such a meeting is required by the antidegradation policy. When allowed by the antidegradation policy, the director shall hold the public meeting on antidegradation issues concurrently with any public meeting held for the draft permit.
+
+(D) The director or the director's representative shall publish notice of the issuance of a final permit to install, permit to operate, or NPDES permit once in a newspaper of general circulation in the county in which the concentrated animal feeding facility or discharger is located.
+
+(E) Notice or a public meeting is not required for the modification of a permit made with the consent of the permittee for the correction of typographical errors.
+
+(F) The denial, modification, suspension, or revocation of a permit to install, permit to operate, or NPDES permit without the consent of the applicant or permittee shall be preceded by a proposed action stating the director's intention to issue an order with respect to the permit and the reasons for it.
+
+The director shall mail to the applicant or the permittee notice of the director's proposed action to deny, modify, suspend, or revoke a permit to install, permit to operate, or NPDES permit. The director shall publish the notice once in a newspaper of general circulation in the county in which the concentrated animal feeding facility or concentrated animal feeding operation is located or proposed to be located. The director shall mail a copy of the notice of the proposed action to the board of county commissioners of the county and to the board of township trustees of the township in which the concentrated animal feeding facility or concentrated animal feeding operation is located or proposed to be located. The director also shall provide notice of the director's proposed action to deny, modify, suspend, or revoke a permit to install, permit to operate, or NPDES permit to any other person that is entitled to notice under the Federal Water Pollution Control Act. The notice of the director's proposed action to deny, modify, suspend, or revoke a permit to install, permit to operate, or NPDES permit shall include the address where written comments concerning the director's proposed action may be submitted and the period of time during which comments will be accepted as established by rule. If the director receives written comments in an amount that demonstrates significant public interest, as defined by rule, the director shall schedule one public meeting to provide information to the public and to hear comments pertinent to the proposed action. The notice of the public meeting shall be provided in the same manner as the notice of the director's proposed action.
+
+The director shall not issue an order that makes the proposed action final until the applicant or permittee has had an opportunity for an adjudication hearing in accordance with Chapter 119. of the Revised Code, except that section 119.12 of the Revised Code does not apply. An order of the director that finalizes the proposed action or an order issuing a permit without a prior proposed action may be appealed to the environmental review appeals commission under sections 3745.04 to 3745.06 of the Revised Code.
+
+(G)(1) The director shall issue an order issuing or denying an application for a permit to operate that contains NPDES provisions or for a NPDES permit, as well as any application for a permit to install that is submitted simultaneously, not later than one hundred eighty days after receiving the application.
+
+(2) In the case of an application for a permit to install or permit to operate that is not connected with an application for a NPDES permit, the director shall issue or propose to deny the permit not later than ninety days after receiving the application. If the director has proposed to deny the permit to install or permit to operate under division (G)(2) of this section, the director shall issue an order denying the permit or, if the director decides against the proposed denial, issuing the permit not later than one hundred eighty days after receiving the application. If the director denies the permit, the director shall notify the applicant in writing of the reason for the denial.
+
+(H) All rulemaking and the issuance of civil penalties under this chapter shall comply with Chapter 119. of the Revised Code.
+
+(I) Upon the transfer of ownership of an animal feeding facility for which a permit to install, an installation permit, or a permit to operate that contains no NPDES provisions has been issued, the permit shall be transferred to the new owner of the animal feeding facility except as provided in division (C) of section 903.05 of the Revised Code. In the case of the transfer of ownership of a point source for which a NPDES permit or a permit to operate that contains NPDES provisions has been issued, the permit shall be transferred in accordance with rules.
+
+(J) Applications for installation permits for animal feeding facilities pending before the director of environmental protection on the date on which the director of agriculture has finalized the programs required under division (A)(1) of section 903.02 and division (A)(1) of section 903.03 of the Revised Code shall be transferred to the director of agriculture. In the case of an applicant who is required to obtain a permit to install and a permit to operate under sections 903.02 and 903.03 , respectively, of the Revised Code, the director of agriculture shall process the pending application for an installation permit as an application for a permit to install and a permit to operate.
+
+(K) Applications for NPDES permits for either of the following that are pending before the director of environmental protection on the date on which the United States environmental protection agency approves the NPDES program submitted by the director of agriculture under section 903.08 of the Revised Code shall be transferred to the director of agriculture:
+
+(1) The discharge of pollutants from a concentrated animal feeding operation;
+
+(2) The discharge of storm water resulting from an animal feeding facility.
+
+In the case of an applicant who is required to obtain a NPDES permit under section 903.08 of the Revised Code, the director of agriculture shall process the pending application as an application for a NPDES permit under that section.

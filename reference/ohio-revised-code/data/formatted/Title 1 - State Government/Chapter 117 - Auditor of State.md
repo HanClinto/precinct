@@ -1,0 +1,77 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-117
+Scraped: 2026-07-02T19:31:31+00:00
+
+# Chapter 117 - Auditor of State
+
+## Sections
+
+- Section 117.01 - Auditor of state definitions.
+- Section 117.02 - Election - term.
+- Section 117.03 - Bond.
+- Section 117.04 - Chief deputy auditor of state.
+- Section 117.05 - Bond of chief deputy.
+- Section 117.06 - Powers and duties of chief deputy.
+- Section 117.07 - Designee of auditor may serve.
+- Section 117.08 - Records subject to inspection.
+- Section 117.09 - Auditor of State authority.
+- Section 117.091 - Appointing investigators.
+- Section 117.10 - Auditor of state - duties - federal audits.
+- Section 117.101 - Uniform accounting network - fund.
+- Section 117.103 - Auditor of state's system for reporting fraud.
+- Section 117.105 - Notice from auditor.
+- Section 117.11 - Annual, biennial, and early audits.
+- Section 117.111 - County office using electronic records and signatures to include security procedure in audit.
+- Section 117.112 - Audit of buckeye tobacco settlement financing authority.
+- Section 117.115 - Independent certified public accountant to perform required audit in lieu of auditor of state.
+- Section 117.116 - Review of warrant under protest.
+- Section 117.12 - Rules for audit standards, procedures, and guidelines.
+- Section 117.13 - Recovery of costs of audits of state agencies - public audit expense fund-intrastate - public audit expense fund-local government.
+- Section 117.131 - Local government audit support fund.
+- Section 117.14 - Annual audit of office of auditor.
+- Section 117.15 - Annual audit and inventory of state treasury and custodial funds.
+- Section 117.16 - Force account project assessment form.
+- Section 117.161 - Joint force account project limits.
+- Section 117.17 - Letter of representation by retiring head of state agency.
+- Section 117.171 - Certificate of transition.
+- Section 117.18 - Auditor and designated employee - powers.
+- Section 117.19 - Rules for generally accepted or governmental auditing standards,.
+- Section 117.191 - Audits of public children services agency, private child placing agency, or private noncustodial agency.
+- Section 117.20 - Rule making procedure.
+- Section 117.21 - Retention of audit materials.
+- Section 117.22 - Request for assistance.
+- Section 117.23 - Report of public accountant.
+- Section 117.24 - Analyzing report of public accountant.
+- Section 117.25 - Incorporating report of public accountant and results of auditor's analysis.
+- Section 117.26 - Certified copies of completed audit reports.
+- Section 117.27 - Filing certified copy with legal counsel.
+- Section 117.28 - Report of audit and actions thereon.
+- Section 117.29 - Audit report showing malfeasance or gross neglect of duty.
+- Section 117.30 - Attorney general action.
+- Section 117.31 - Illegal expenditures in attorney general's office.
+- Section 117.32 - Surety may be sued in same action.
+- Section 117.33 - Abating or compromising claims.
+- Section 117.34 - Cause of action accrues when report filed.
+- Section 117.35 - Submission of judgment entry to attorney general.
+- Section 117.36 - Jurisdiction of civil actions.
+- Section 117.37 - Advancement of causes.
+- Section 117.38 - Annual reports.
+- Section 117.39 - Financial reports from any public office.
+- Section 117.40 - Refusal to keep accounts.
+- Section 117.41 - Unauditable offices.
+- Section 117.42 - Enforcement powers of attorney general.
+- Section 117.43 - Rules for requirements for accounting and financial reporting for public offices other than state agencies.
+- Section 117.431 - Accounting of public money in possession of private institution.
+- Section 117.44 - Training programs for township fiscal officers, city auditors and village clerks.
+- Section 117.45 - Format for sworn affidavit.
+- Section 117.46 - Performance audits of state agencies.
+- Section 117.461 - Comment period.
+- Section 117.462 - Implementation of recommendations.
+- Section 117.463 - Annual report.
+- Section 117.47 - Auditor's innovation fund.
+- Section 117.473 - Feasibility studies to determine efficiency or cost savings realized by sharing services or facilities.
+- Section 117.48 - Shared equipment service agreement program.
+- Section 117.52 - Adjusting amount recoverable for wrongful imprisonment.
+- Section 117.53 - Audit statement regarding adoption of anti-harassment policy.
+- Section 117.54 - Auditor of state investigation and forfeiture trust fund.
+- Section 117.55 - State awards for economic development.
+- Section 117.56 - Department of transportation audit.

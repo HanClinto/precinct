@@ -1,0 +1,140 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Account\" means either of the two accounts created by division (B) of section 3955.06 of the Revised Code.",
+      "id": "3955.01-account",
+      "normalized": "account",
+      "scope": "As used in sections 3955.01 to 3955.19 of the Revised Code:",
+      "section": "3955.01",
+      "source_title": "Section 3955.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3955.01",
+      "term": "Account"
+    },
+    {
+      "definition": "(B) \"Affiliate\" means a person that, directly or indirectly, through one or more intermediaries, controls, is controlled by, or is under common control with, an insolvent insurer on the thirty-first day of December of the year next preceding the date the insurer becomes an insolvent insurer.",
+      "id": "3955.01-affiliate",
+      "normalized": "affiliate",
+      "scope": "As used in sections 3955.01 to 3955.19 of the Revised Code:",
+      "section": "3955.01",
+      "source_title": "Section 3955.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3955.01",
+      "term": "Affiliate"
+    },
+    {
+      "definition": "(C) \"Control\" means the possession, direct or indirect, of the power to direct or cause the direction of the management and policies of a person, whether through the ownership of voting securities, by contract other than a commercial contract for goods or nonmanagement services, or otherwise, unless the power is the result of an official position with, or corporate office held by, the person.\n\n\"Control\" shall be presumed to exist if any person, directly or indirectly, owns, controls, holds with the power to vote, or holds proxies representing, ten per cent or more of the voting securities of any other person. This presumption may be rebutted by a showing that control does not exist in fact.",
+      "id": "3955.01-control",
+      "normalized": "control",
+      "scope": "As used in sections 3955.01 to 3955.19 of the Revised Code:",
+      "section": "3955.01",
+      "source_title": "Section 3955.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3955.01",
+      "term": "Control"
+    },
+    {
+      "definition": "(D)(1) \"Covered claim\" means an unpaid claim, including one for unearned premiums, which arises out of and is within the coverage of an insurance policy or policies to which sections 3955.01 to 3955.19 of the Revised Code apply, when issued by an insurer which becomes an insolvent insurer on or after September 4, 1970, and either of the following applies:\n\n(a) The claimant or insured is a resident of this state at the time of the insured event, provided that for the purpose of determining the place of residence of a claimant or insured that is an entity other than a natural person, the state in which its principal place of business is located at the time of the insured event shall be considered the residence of such claimant or insured.\n\n(b) The claim is a first-party claim for property damage to an insured's property that is permanently located in this state.",
+      "id": "3955.01-covered-claim",
+      "normalized": "covered claim",
+      "scope": "As used in sections 3955.01 to 3955.19 of the Revised Code:",
+      "section": "3955.01",
+      "source_title": "Section 3955.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3955.01",
+      "term": "Covered claim"
+    },
+    {
+      "definition": "(2) \"Covered claim\" does not include any amount:\n\n(a) In excess of ten thousand dollars on any unearned premium claim;\n\n(b) In excess of three hundred thousand dollars on any claim. For purposes of this division, all claims arising out of bodily injury or death to any one person shall constitute a single claim regardless of the number of insurance policies issued or the number of derivative claims made, including, but not limited to, claims for loss of consortium, for injury to the relationship, for survivorship, or arising out of wrongful death.\n\n(c) Due any reinsurer, insurer, insurance pool, or underwriting association through subrogation or otherwise; provided, that when such reinsurer, insurer, insurance pool, or underwriting association has paid a claim and thereby becomes subrogated to the amount of that claim, such subrogated claim may be asserted only against the receiver of the insolvent insurer and in no event against the insured of the insolvent insurer;\n\n(d) Awarded as punitive or exemplary damages;\n\n(e) Sought as a return of premium under any retrospective rating plan;\n\n(f) Due any person that is an affiliate of the insolvent insurer;\n\n(g) Due on any one claim that does not exceed one hundred dollars;\n\n(h) Due under any policy of insurance issued to an insured whose net worth exceeds fifty million dollars on the last day of the insured's fiscal year next preceding the date the insurer becomes an insolvent insurer. An insured's net worth described in this division shall equal the aggregate of the net worth of the insured and all of the insured's subsidiaries. The exclusion under this division shall not apply in any of the following situations:\n\n(i) The insured has applied for or consented to the appointment of a receiver, trustee, or liquidator for all or a substantial part of the insured's assets.\n\n(ii) The insured has filed a voluntary petition in bankruptcy.\n\n(iii) The insured has filed a petition or answer seeking a reorganization or arrangement with creditors or seeking to take advantage of any insolvency law.\n\n(iv) A court of competent jurisdiction has entered an order, judgment, or decree concerning the insured's bankruptcy, insolvency, or reorganization petition.",
+      "id": "3955.01-covered-claim",
+      "normalized": "covered claim",
+      "scope": "As used in sections 3955.01 to 3955.19 of the Revised Code:",
+      "section": "3955.01",
+      "source_title": "Section 3955.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3955.01",
+      "term": "Covered claim"
+    },
+    {
+      "definition": "(E) \"Insolvent insurer\" means an insurer licensed to transact insurance in this state either at the time the policy was issued or when the insured event occurred, decreed by a court of competent jurisdiction of the state of such insurer's domicile to be insolvent, and ordered by or pursuant to the authority of such court to be liquidated.",
+      "id": "3955.01-insolvent-insurer",
+      "normalized": "insolvent insurer",
+      "scope": "As used in sections 3955.01 to 3955.19 of the Revised Code:",
+      "section": "3955.01",
+      "source_title": "Section 3955.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3955.01",
+      "term": "Insolvent insurer"
+    },
+    {
+      "definition": "(F) \"Member insurer\" means any person that writes any kind of insurance to which this chapter applies, as prescribed in section 3955.05 of the Revised Code, including the exchange of reciprocal or interinsurance contracts, and is licensed to transact any insurance in this state.",
+      "id": "3955.01-member-insurer",
+      "normalized": "member insurer",
+      "scope": "As used in sections 3955.01 to 3955.19 of the Revised Code:",
+      "section": "3955.01",
+      "source_title": "Section 3955.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3955.01",
+      "term": "Member insurer"
+    },
+    {
+      "definition": "(G) \"Net direct written premiums\" means direct gross premiums written in this state on insurance policies to which sections 3955.01 to 3955.19 of the Revised Code apply, less return premiums thereon and dividends paid or credited to policyholders on such direct business, but does not include premiums on contracts between insurers or reinsurers.",
+      "id": "3955.01-net-direct-written-premiums",
+      "normalized": "net direct written premiums",
+      "scope": "As used in sections 3955.01 to 3955.19 of the Revised Code:",
+      "section": "3955.01",
+      "source_title": "Section 3955.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3955.01",
+      "term": "Net direct written premiums"
+    },
+    {
+      "definition": "(H) \"Net worth\" means the amount by which the value of all assets exceeds all liabilities and includes, but is not limited to, such accounting terms as owners equity, partnership equity, shareholders equity, net assets, and fund balances.",
+      "id": "3955.01-net-worth",
+      "normalized": "net worth",
+      "scope": "As used in sections 3955.01 to 3955.19 of the Revised Code:",
+      "section": "3955.01",
+      "source_title": "Section 3955.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3955.01",
+      "term": "Net worth"
+    },
+    {
+      "definition": "(I) \"Person\" has the same meaning as in section 1.59 of the Revised Code.\n\nLast updated March 2, 2023 at 3:24 PM",
+      "id": "3955.01-person",
+      "normalized": "person",
+      "scope": "As used in sections 3955.01 to 3955.19 of the Revised Code:",
+      "section": "3955.01",
+      "source_title": "Section 3955.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3955.01",
+      "term": "Person"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3955.01",
+      "number": "3955.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3955.01"
+    },
+    {
+      "kind": "section",
+      "label": "3955.19",
+      "number": "3955.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3955.19"
+    },
+    {
+      "kind": "section",
+      "label": "3955.06",
+      "number": "3955.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3955.06"
+    },
+    {
+      "kind": "section",
+      "label": "3955.05",
+      "number": "3955.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3955.05"
+    },
+    {
+      "kind": "section",
+      "label": "1.59",
+      "number": "1.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1.59"
+    }
+  ],
+  "scraped": "2026-07-02T20:03:24+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3955.01",
+  "title": "Section 3955.01 - Definitions."
+}

@@ -1,0 +1,549 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 3111.01 - Parent and child relationship defined.",
+      "number": "3111.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.02 - Establishing parent and child relationship.",
+      "number": "3111.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.03 - Presumption of paternity.",
+      "number": "3111.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.04 - Standing to bring paternity action.",
+      "number": "3111.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.041 - Caretaker authorization of genetic testing.",
+      "number": "3111.041",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.041"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.05 - Statute of limitations.",
+      "number": "3111.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.06 - Jurisdiction of courts - personal jurisdiction.",
+      "number": "3111.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.07 - Parties to action - intervention.",
+      "number": "3111.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.08 - Rules of Civil Procedure govern action.",
+      "number": "3111.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.09 - Genetic tests - DNA records.",
+      "number": "3111.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.10 - Evidence of paternity.",
+      "number": "3111.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.11 - Pretrial hearing.",
+      "number": "3111.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.111 - Temporary support order.",
+      "number": "3111.111",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.111"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.12 - Witnesses - admission of evidence - priority of actions.",
+      "number": "3111.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.13 - Judgment or order.",
+      "number": "3111.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.14 - Fees and costs of action.",
+      "number": "3111.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.15 - Enforcing father's obligation.",
+      "number": "3111.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.16 - Continuing jurisdiction.",
+      "number": "3111.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.17 - Determining mother and child relationship.",
+      "number": "3111.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.18 - Preparing new birth record.",
+      "number": "3111.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.19 - Interfering with establishment of paternity.",
+      "number": "3111.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.20 - Birth record defined.",
+      "number": "3111.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.21 - Notarizing acknowledgment.",
+      "number": "3111.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.22 - Acknowledgment to be sent to job and family services department.",
+      "number": "3111.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.23 - Acknowledgment filed with office of child support.",
+      "number": "3111.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.24 - Determining whether acknowledgment is completed correctly.",
+      "number": "3111.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.25 - Acknowledgment of paternity is final and enforceable.",
+      "number": "3111.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.26 - Effects of final and enforceable acknowledgment.",
+      "number": "3111.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.27 - Rescinding acknowledgment.",
+      "number": "3111.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.28 - Action rescinding acknowledgment.",
+      "number": "3111.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.29 - Enforcing support obligation.",
+      "number": "3111.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.30 - Preparing new birth record.",
+      "number": "3111.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.31 - Acknowledgment of paternity affidavit form.",
+      "number": "3111.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.32 - Information pamphlets - toll-free telephone number.",
+      "number": "3111.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.33 - Distributing pamphlets and forms.",
+      "number": "3111.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.34 - Evidence necessary to complete new birth record.",
+      "number": "3111.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.35 - Implementing provisions.",
+      "number": "3111.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.38 - Requesting administrative determination of paternity.",
+      "number": "3111.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.381 - Request to precede court action - jurisdiction.",
+      "number": "3111.381",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.381"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.39 - Requests filed with multiple agencies.",
+      "number": "3111.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.41 - Assigning to administrative officer - order for genetic testing.",
+      "number": "3111.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.42 - Attaching notice to order.",
+      "number": "3111.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.421 - Serving notice and order.",
+      "number": "3111.421",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.421"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.43 - Persons to be notified - genetic testing of persons present.",
+      "number": "3111.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.44 - Information conference.",
+      "number": "3111.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.45 - Test conducted by qualified examiner.",
+      "number": "3111.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.46 - Finding paternity or nonpaternity.",
+      "number": "3111.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.47 - Failure to submit to test results in inconclusive finding.",
+      "number": "3111.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.48 - Information included in order.",
+      "number": "3111.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.49 - Conclusiveness of order.",
+      "number": "3111.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.50 - Bringing action where order is inconclusive.",
+      "number": "3111.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.51 - Including names, addresses and social security numbers of parents and child in order.",
+      "number": "3111.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.52 - Changing surname of child.",
+      "number": "3111.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.53 - Administrative officer.",
+      "number": "3111.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.54 - Contempt.",
+      "number": "3111.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.58 - New birth record.",
+      "number": "3111.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.61 - Samples and performance of genetic testing.",
+      "number": "3111.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.611 - On-site genetic testing.",
+      "number": "3111.611",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.611"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.64 - Birth registry.",
+      "number": "3111.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.65 - Accessing registry.",
+      "number": "3111.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.66 - Filing orders and entering into registry.",
+      "number": "3111.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.67 - Birth registry rules.",
+      "number": "3111.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.67"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.69 - Locating absent parent using putative father registry.",
+      "number": "3111.69",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.69"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.71 - Contracts with hospitals to meet with unmarried women giving birth.",
+      "number": "3111.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.72 - Requirements for contracts with hospitals to meet with unmarried women giving birth.",
+      "number": "3111.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.73 - Annual report.",
+      "number": "3111.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.74 - Acknowledgment conflicting with presumption of paternity.",
+      "number": "3111.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.74"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.77 - Presumed father assuming duty of support.",
+      "number": "3111.77",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.77"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.78 - Enforcing obligations of presumed father.",
+      "number": "3111.78",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.78"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.80 - Hearing to determine child support and provision for health care.",
+      "number": "3111.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.80"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.801 - Requests for information.",
+      "number": "3111.801",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.801"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.81 - Order concerning support and health care.",
+      "number": "3111.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.82 - Raise issue of existence or nonexistence of parent and child relationship.",
+      "number": "3111.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.82"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.821 - Proceedings - finality of acknowledgment.",
+      "number": "3111.821",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.821"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.83 - Registering order concerning support and health care.",
+      "number": "3111.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.83"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.831 - System for organized safekeeping and retrieval of administrative support orders.",
+      "number": "3111.831",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.831"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.832 - Registering order with court.",
+      "number": "3111.832",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.832"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.84 - Bringing action objecting to order - finality of unchallenged order.",
+      "number": "3111.84",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.84"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.85 - Administrative support orders issued prior to 1-1-98.",
+      "number": "3111.85",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.85"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.88 - Non-spousal artificial insemination definitions.",
+      "number": "3111.88",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.88"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.89 - Coverage of provisions.",
+      "number": "3111.89",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.89"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.90 - Physician supervision.",
+      "number": "3111.90",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.90"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.91 - Medical history and physical examination of donor.",
+      "number": "3111.91",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.91"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.92 - Consent by both spouses.",
+      "number": "3111.92",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.92"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.93 - Provisions of consent form.",
+      "number": "3111.93",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.93"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.94 - Confidentiality.",
+      "number": "3111.94",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.94"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.95 - Husband considered natural father - child natural child.",
+      "number": "3111.95",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.95"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.96 - Noncompliance.",
+      "number": "3111.96",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.96"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.97 - Parentage of children resulting from embryo donation.",
+      "number": "3111.97",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.97"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3111.99 - Penalty.",
+      "number": "3111.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3111.99"
+    }
+  ],
+  "scraped": "2026-07-02T19:47:43+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-3111",
+  "title": "Chapter 3111 - Parentage"
+}

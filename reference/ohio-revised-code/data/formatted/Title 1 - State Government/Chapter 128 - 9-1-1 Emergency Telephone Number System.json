@@ -1,0 +1,333 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 128.01 - Definitions.",
+      "number": "128.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 128.02 - Statewide 9-1-1 steering committee.",
+      "number": "128.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 128.021 - Adoption of rules establishing technical and operational standards for public safety answering points.",
+      "number": "128.021",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.021"
+    },
+    {
+      "kind": "section",
+      "label": "Section 128.022 - Guidelines for disbursements.",
+      "number": "128.022",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.022"
+    },
+    {
+      "kind": "section",
+      "label": "Section 128.03 - Countywide 9-1-1 system.",
+      "number": "128.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 128.05 - County 9-1-1 coordinator.",
+      "number": "128.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 128.06 - County 9-1-1 program review committee; final plan for countywide system.",
+      "number": "128.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 128.07 - Final plan contents, filing.",
+      "number": "128.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 128.08 - Resolution to approve or disapprove plan.",
+      "number": "128.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 128.12 - Amendment of plan.",
+      "number": "128.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 128.20 - [Former R.C. 128.40, amended and renumbered by H.B. 33, 135th General Assembly, effective 10/3/2023] 9-1-1 program office, administrator.",
+      "number": "128.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 128.21 - Next generation 9-1-1 core services system requirements and coordination.",
+      "number": "128.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 128.211 - Ohio 9-1-1 plan.",
+      "number": "128.211",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.211"
+    },
+    {
+      "kind": "section",
+      "label": "Section 128.212 - Letter of coordination for state or federal 9-1-1 grant.",
+      "number": "128.212",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.212"
+    },
+    {
+      "kind": "section",
+      "label": "Section 128.22 - 9-1-1 program office powers.",
+      "number": "128.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 128.221 - Use and protection of 9-1-1 data.",
+      "number": "128.221",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.221"
+    },
+    {
+      "kind": "section",
+      "label": "Section 128.23 - Duties of telecommunication service providers regarding 9-1-1 data.",
+      "number": "128.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 128.24 - Multiline telephone system 9-1-1 requirements.",
+      "number": "128.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 128.241 - Business service user 9-1-1 requirements.",
+      "number": "128.241",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.241"
+    },
+    {
+      "kind": "section",
+      "label": "Section 128.242 - Exemption for certain business service users.",
+      "number": "128.242",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.242"
+    },
+    {
+      "kind": "section",
+      "label": "Section 128.243 - Effect of preemption or conflict with federal law.",
+      "number": "128.243",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.243"
+    },
+    {
+      "kind": "section",
+      "label": "Section 128.25 - County contact for 9-1-1 discrepencies, misroutes, and boundary disputes.",
+      "number": "128.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 128.26 - When next generation 9-1-1 service required.",
+      "number": "128.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 128.27 - Service provider duty to deliver 9-1-1 traffic.",
+      "number": "128.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 128.28 - Adherence to 9-1-1 program office standards.",
+      "number": "128.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 128.33 - [Former R.C. 128.18, amended and renumbered by H.B. 33, 135th General Assembly, effective 10/3/2023] Determining rates and charges for wireline telephone network portion of 9-1-1.",
+      "number": "128.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 128.35 - [Former R.C. 128.22, amended and renumbered by H.B. 33, 135th General Assembly, effective 10/3/2023] Imposing charges on improved realty to pay for public safety answering points.",
+      "number": "128.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 128.37 - [Former R.C. 128.25, amended and renumbered by H.B. 33, 135th General Assembly, effective 10/3/2023] Election on adding monthly charge to telephone bills to fund 9-1-1 system.",
+      "number": "128.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 128.38 - [Former R.C. 128.26, amended and renumbered by H.B. 33, 135th General Assembly, effective 10/3/2023] Election on monthly charge on telephone access lines to fund certain systems.",
+      "number": "128.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 128.39 - [Former R.C. 128.27, amended and renumbered by H.B. 33, 135th General Assembly, effective 10/3/2023] Billing and collection of charges.",
+      "number": "128.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 128.40 - [Former R.C. 128.42, amended and renumbered by H.B. 33, 135th General Assembly, effective 10/3/2023] Wireless 9-1-1 charges ending January 1, 2024.",
+      "number": "128.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 128.41 - Next generation 9-1-1 access fee - 60 cents on subscribers as of September 30, 2025.",
+      "number": "128.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 128.413 - Exemption from access fee on subscribers.",
+      "number": "128.413",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.413"
+    },
+    {
+      "kind": "section",
+      "label": "Section 128.414 - Collection of access fee on subscribers.",
+      "number": "128.414",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.414"
+    },
+    {
+      "kind": "section",
+      "label": "Section 128.42 - Next generation 9-1-1 access fee on prepaid wireless service.",
+      "number": "128.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 128.421 - Collection of access fee on prepaid wireless service.",
+      "number": "128.421",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.421"
+    },
+    {
+      "kind": "section",
+      "label": "Section 128.422 - Calculation of access fee on prepaid wireless service; exempt service.",
+      "number": "128.422",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.422"
+    },
+    {
+      "kind": "section",
+      "label": "Section 128.43 - Both next generation 9-1-1 access fees exempt from state and local taxation.",
+      "number": "128.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 128.44 - Notice of changes to wireless 9-1-1 charges.",
+      "number": "128.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 128.45 - Records of wireless 9-1-1 charges or next generation 9-1-1 access fees collected.",
+      "number": "128.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 128.451 - [Former R.C. 128.45, amended and renumbered by H.B. 33, 135th General Assembly, effective 10/3/2023] Preservation and inspection of records.",
+      "number": "128.451",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.451"
+    },
+    {
+      "kind": "section",
+      "label": "Section 128.46 - Filing returns; remitting charges and fees; subscriber liability; audit and assessment.",
+      "number": "128.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 128.461 - Interest on remitted charges.",
+      "number": "128.461",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.461"
+    },
+    {
+      "kind": "section",
+      "label": "Section 128.462 - Limitations on assessments.",
+      "number": "128.462",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.462"
+    },
+    {
+      "kind": "section",
+      "label": "Section 128.47 - Refunds.",
+      "number": "128.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 128.52 - Sales subject to taxes on retail sales.",
+      "number": "128.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 128.54 - Funds established for receipt, distribution, and accounting for amounts received from charges and fees.",
+      "number": "128.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 128.55 - Disbursement of government assistance fund monies.",
+      "number": "128.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 128.57 - County systems receiving disbursements to provide wireless 9-1-1 service.",
+      "number": "128.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 128.60 - Service providers to supply information; confidentiality.",
+      "number": "128.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 128.63 - Adoption of rules.",
+      "number": "128.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 128.96 - [Former R.C. 128.32, amended and renumbered by H.B. 33, 135th General Assembly, effective 10/3/2023] Immunity; prohibited conduct.",
+      "number": "128.96",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.96"
+    },
+    {
+      "kind": "section",
+      "label": "Section 128.98 - [Former R.C. 128.34, amended and renumbered by H.B. 33, 135th General Assembly, effective 10/3/2023] Proceedings to enforce compliance.",
+      "number": "128.98",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.98"
+    },
+    {
+      "kind": "section",
+      "label": "Section 128.99 - Penalties.",
+      "number": "128.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.99"
+    }
+  ],
+  "scraped": "2026-07-02T19:31:46+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-128",
+  "title": "Chapter 128 - 9-1-1 Emergency Telephone Number System"
+}

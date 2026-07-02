@@ -1,0 +1,112 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Mediation\" means any process in which a mediator facilitates communication and negotiation between parties to assist them in reaching a voluntary agreement regarding their dispute.",
+      "id": "2710.01-mediation",
+      "normalized": "mediation",
+      "scope": "As used in sections 2710.01 to 2710.10 of the Revised Code:",
+      "section": "2710.01",
+      "source_title": "Section 2710.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2710.01",
+      "term": "Mediation"
+    },
+    {
+      "definition": "(B) \"Mediation communication\" means a statement, whether oral, in a record, verbal or nonverbal, that occurs during a mediation or is made for purposes of considering, conducting, participating in, initiating, continuing, or reconvening a mediation or retaining a mediator.",
+      "id": "2710.01-mediation-communication",
+      "normalized": "mediation communication",
+      "scope": "As used in sections 2710.01 to 2710.10 of the Revised Code:",
+      "section": "2710.01",
+      "source_title": "Section 2710.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2710.01",
+      "term": "Mediation communication"
+    },
+    {
+      "definition": "(C) \"Mediator\" means an individual who conducts a mediation.",
+      "id": "2710.01-mediator",
+      "normalized": "mediator",
+      "scope": "As used in sections 2710.01 to 2710.10 of the Revised Code:",
+      "section": "2710.01",
+      "source_title": "Section 2710.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2710.01",
+      "term": "Mediator"
+    },
+    {
+      "definition": "(D) \"Nonparty participant\" means a person, other than a party or mediator, that participates in a mediation.",
+      "id": "2710.01-nonparty-participant",
+      "normalized": "nonparty participant",
+      "scope": "As used in sections 2710.01 to 2710.10 of the Revised Code:",
+      "section": "2710.01",
+      "source_title": "Section 2710.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2710.01",
+      "term": "Nonparty participant"
+    },
+    {
+      "definition": "(E) \"Mediation party\" means a person that participates in a mediation and whose agreement is necessary to resolve the dispute.",
+      "id": "2710.01-mediation-party",
+      "normalized": "mediation party",
+      "scope": "As used in sections 2710.01 to 2710.10 of the Revised Code:",
+      "section": "2710.01",
+      "source_title": "Section 2710.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2710.01",
+      "term": "Mediation party"
+    },
+    {
+      "definition": "(F) \"Person\" means an individual, corporation, business trust, estate, trust, partnership, limited liability company, association, joint venture, agency or instrumentality of the state or of any political subdivision of the state, public corporation, or any other legal or commercial entity.",
+      "id": "2710.01-person",
+      "normalized": "person",
+      "scope": "As used in sections 2710.01 to 2710.10 of the Revised Code:",
+      "section": "2710.01",
+      "source_title": "Section 2710.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2710.01",
+      "term": "Person"
+    },
+    {
+      "definition": "(G) \"Proceeding\" means either of the following:\n\n(1) A judicial, administrative, arbitral, or other adjudicative process, including related pre-hearing and post-hearing motions, conferences, and discovery;\n\n(2) A legislative hearing or similar process.",
+      "id": "2710.01-proceeding",
+      "normalized": "proceeding",
+      "scope": "As used in sections 2710.01 to 2710.10 of the Revised Code:",
+      "section": "2710.01",
+      "source_title": "Section 2710.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2710.01",
+      "term": "Proceeding"
+    },
+    {
+      "definition": "(H) \"Record\" means information that is inscribed on a tangible medium or that is stored in an electronic or other medium and is retrievable in perceivable form.",
+      "id": "2710.01-record",
+      "normalized": "record",
+      "scope": "As used in sections 2710.01 to 2710.10 of the Revised Code:",
+      "section": "2710.01",
+      "source_title": "Section 2710.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2710.01",
+      "term": "Record"
+    },
+    {
+      "definition": "(I) \"Sign\" means either of the following:\n\n(1) To execute or adopt a tangible symbol with the present intent to authenticate a record;\n\n(2) To attach or logically associate an electronic symbol, sound, or process to or with a record with the present intent to authenticate a record.",
+      "id": "2710.01-sign",
+      "normalized": "sign",
+      "scope": "As used in sections 2710.01 to 2710.10 of the Revised Code:",
+      "section": "2710.01",
+      "source_title": "Section 2710.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2710.01",
+      "term": "Sign"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2710.01",
+      "number": "2710.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2710.01"
+    },
+    {
+      "kind": "section",
+      "label": "2710.10",
+      "number": "2710.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2710.10"
+    }
+  ],
+  "scraped": "2026-07-02T19:44:54+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2710.01",
+  "title": "Section 2710.01 - Definitions."
+}

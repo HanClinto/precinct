@@ -1,0 +1,16 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-1567.61
+Scraped: 2026-07-02T19:38:58+00:00
+
+# Section 1567.61 - First aid and emergency medical equipment - report of arrangements for emergency medical assistance and transportation.
+
+**Effective:** June 14, 2000
+
+**Latest Legislation:** House Bill 601 - 123rd General Assembly
+
+As used in this section, "emergency medical service organization" has the same meaning as in section 4765.01 of the Revised Code.
+
+The operator at all mines and quarries shall keep first aid and emergency medical equipment in a dry and sanitary condition in accessible places.
+
+Each operator shall report to the chief of the division of mineral resources management, the name, title, and address of each emergency medical service organization with which arrangements have been made or otherwise provided. Each operator shall, within ten days after any change of the arrangements, report such changes to the chief. If such changes involve a substitution of persons, the operator shall report the name, title, and address of the person substituted together with the name and address of the emergency medical service organization with which such person is associated. Each operator shall, immediately after making such an arrangement or any change of such arrangement, post at appropriate places at the mine the names, titles, addresses, and telephone numbers of all persons or organizations currently available under such arrangements to provide medical assistance and transportation at the mine. The operator of an underground mine shall provide a vehicular mode of transportation that is equipped to handle stretchers to transport injured miners underground in a manner that minimizes shock. Such vehicle shall be accessible within the lesser of thirty minutes or the time needed to render first aid and medical attention, secure the injured person to a stretcher or broken-back board or other device, and transport the injured person to the vehicle.
+
+No operator of a mine shall refuse or neglect to comply with this section.

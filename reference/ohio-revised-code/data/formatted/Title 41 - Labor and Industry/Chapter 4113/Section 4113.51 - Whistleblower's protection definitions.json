@@ -1,0 +1,116 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Employee\" means any person who performs a service for wages or other remuneration for an employer.",
+      "id": "4113.51-employee",
+      "normalized": "employee",
+      "scope": "As used in sections 4113.51 to 4113.53 of the Revised Code:",
+      "section": "4113.51",
+      "source_title": "Section 4113.51 - Whistleblower's protection definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4113.51",
+      "term": "Employee"
+    },
+    {
+      "definition": "(B) \"Employer\" means any person who has one or more employees. \"Employer\" includes an agent of an employer, the state or any agency or instrumentality of the state, and any municipal corporation, county, township, school district, or other political subdivision or any agency or instrumentality thereof.",
+      "id": "4113.51-employer",
+      "normalized": "employer",
+      "scope": "As used in sections 4113.51 to 4113.53 of the Revised Code:",
+      "section": "4113.51",
+      "source_title": "Section 4113.51 - Whistleblower's protection definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4113.51",
+      "term": "Employer"
+    },
+    {
+      "definition": "(C) \"Person\" has the same meaning as in section 1.59 of the Revised Code and also includes a public agency or any other legal entity.",
+      "id": "4113.51-person",
+      "normalized": "person",
+      "scope": "As used in sections 4113.51 to 4113.53 of the Revised Code:",
+      "section": "4113.51",
+      "source_title": "Section 4113.51 - Whistleblower's protection definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4113.51",
+      "term": "Person"
+    },
+    {
+      "definition": "(D) \"Peace officer\" has the same meaning as in section 2935.01 of the Revised Code.",
+      "id": "4113.51-peace-officer",
+      "normalized": "peace officer",
+      "scope": "As used in sections 4113.51 to 4113.53 of the Revised Code:",
+      "section": "4113.51",
+      "source_title": "Section 4113.51 - Whistleblower's protection definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4113.51",
+      "term": "Peace officer"
+    },
+    {
+      "definition": "(E) \"Political subdivision\" has the same meaning as in division (F) of section 2744.01 of the Revised Code.",
+      "id": "4113.51-political-subdivision",
+      "normalized": "political subdivision",
+      "scope": "As used in sections 4113.51 to 4113.53 of the Revised Code:",
+      "section": "4113.51",
+      "source_title": "Section 4113.51 - Whistleblower's protection definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4113.51",
+      "term": "Political subdivision"
+    },
+    {
+      "definition": "(F) \"Prosecuting authority\" means the prosecuting attorney of a county or the director of law, village solicitor, or similar chief legal officer of a municipal corporation.",
+      "id": "4113.51-prosecuting-authority",
+      "normalized": "prosecuting authority",
+      "scope": "As used in sections 4113.51 to 4113.53 of the Revised Code:",
+      "section": "4113.51",
+      "source_title": "Section 4113.51 - Whistleblower's protection definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4113.51",
+      "term": "Prosecuting authority"
+    },
+    {
+      "definition": "(G) \"Inspector general\" means the inspector general appointed under section 121.48 of the Revised Code.",
+      "id": "4113.51-inspector-general",
+      "normalized": "inspector general",
+      "scope": "As used in sections 4113.51 to 4113.53 of the Revised Code:",
+      "section": "4113.51",
+      "source_title": "Section 4113.51 - Whistleblower's protection definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4113.51",
+      "term": "Inspector general"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "4113.51",
+      "number": "4113.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4113.51"
+    },
+    {
+      "kind": "section",
+      "label": "4113.53",
+      "number": "4113.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4113.53"
+    },
+    {
+      "kind": "section",
+      "label": "1.59",
+      "number": "1.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1.59"
+    },
+    {
+      "kind": "section",
+      "label": "2935.01",
+      "number": "2935.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2935.01"
+    },
+    {
+      "kind": "section",
+      "label": "2744.01",
+      "number": "2744.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2744.01"
+    },
+    {
+      "kind": "section",
+      "label": "121.48",
+      "number": "121.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.48"
+    }
+  ],
+  "scraped": "2026-07-02T20:04:06+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4113.51",
+  "title": "Section 4113.51 - Whistleblower's protection definitions."
+}

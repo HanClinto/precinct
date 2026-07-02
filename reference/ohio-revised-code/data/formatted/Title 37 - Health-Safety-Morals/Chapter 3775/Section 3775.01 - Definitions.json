@@ -1,0 +1,418 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Applicant\" means a person that applies to the Ohio casino control commission for a license under this chapter.",
+      "id": "3775.01-applicant",
+      "normalized": "applicant",
+      "scope": "As used in this chapter:",
+      "section": "3775.01",
+      "source_title": "Section 3775.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3775.01",
+      "term": "Applicant"
+    },
+    {
+      "definition": "(B) \"Casino operator\" has the same meaning as in section 3772.01 of the Revised Code.",
+      "id": "3775.01-casino-operator",
+      "normalized": "casino operator",
+      "scope": "As used in this chapter:",
+      "section": "3775.01",
+      "source_title": "Section 3775.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3775.01",
+      "term": "Casino operator"
+    },
+    {
+      "definition": "(C) \"Collegiate sport or athletic event\" means a sport or athletic event offered or sponsored by, or played in connection with, a public or private institution that offers educational services beyond the secondary level.",
+      "id": "3775.01-collegiate-sport-or-athletic-event",
+      "normalized": "collegiate sport or athletic event",
+      "scope": "As used in this chapter:",
+      "section": "3775.01",
+      "source_title": "Section 3775.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3775.01",
+      "term": "Collegiate sport or athletic event"
+    },
+    {
+      "definition": "(D) \"Commission\" means the Ohio casino control commission.",
+      "id": "3775.01-commission",
+      "normalized": "commission",
+      "scope": "As used in this chapter:",
+      "section": "3775.01",
+      "source_title": "Section 3775.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3775.01",
+      "term": "Commission"
+    },
+    {
+      "definition": "(E) \"Esports event\" means an organized video game competition that is regulated by a sports governing body and that is held between professional players who play individually or as teams.",
+      "id": "3775.01-esports-event",
+      "normalized": "esports event",
+      "scope": "As used in this chapter:",
+      "section": "3775.01",
+      "source_title": "Section 3775.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3775.01",
+      "term": "Esports event"
+    },
+    {
+      "definition": "(F) \"Lottery sports gaming\" has the same meaning as in section 3770.23 of the Revised Code.",
+      "id": "3775.01-lottery-sports-gaming",
+      "normalized": "lottery sports gaming",
+      "scope": "As used in this chapter:",
+      "section": "3775.01",
+      "source_title": "Section 3775.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3775.01",
+      "term": "Lottery sports gaming"
+    },
+    {
+      "definition": "(G)(1) \"Mobile management services provider\" means a person that contracts with a type A sports gaming proprietor under section 3775.05 of the Revised Code to operate sports gaming on behalf of the sports gaming proprietor and that is licensed by the Ohio casino control commission as a mobile management services provider under that section.",
+      "id": "3775.01-mobile-management-services-provider",
+      "normalized": "mobile management services provider",
+      "scope": "As used in this chapter:",
+      "section": "3775.01",
+      "source_title": "Section 3775.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3775.01",
+      "term": "Mobile management services provider"
+    },
+    {
+      "definition": "(2) \"Management services provider\" means a person that contracts with a type B sports gaming proprietor under section 3775.051 of the Revised Code to operate sports gaming on behalf of the sports gaming proprietor and that is licensed by the Ohio casino control commission as a management services provider under that section.",
+      "id": "3775.01-management-services-provider",
+      "normalized": "management services provider",
+      "scope": "As used in this chapter:",
+      "section": "3775.01",
+      "source_title": "Section 3775.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3775.01",
+      "term": "Management services provider"
+    },
+    {
+      "definition": "(H) \"Official league data\" means statistics, results, outcomes, and other data related to a sporting event provided by the appropriate sports governing body or its designee.",
+      "id": "3775.01-official-league-data",
+      "normalized": "official league data",
+      "scope": "As used in this chapter:",
+      "section": "3775.01",
+      "source_title": "Section 3775.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3775.01",
+      "term": "Official league data"
+    },
+    {
+      "definition": "(I) \"Online sports pool\" means sports gaming in which a wager on a sporting event is made through a computer or mobile device and accepted through an online gaming web site that is operated by a type A sports gaming proprietor or mobile management services provider.",
+      "id": "3775.01-online-sports-pool",
+      "normalized": "online sports pool",
+      "scope": "As used in this chapter:",
+      "section": "3775.01",
+      "source_title": "Section 3775.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3775.01",
+      "term": "Online sports pool"
+    },
+    {
+      "definition": "(J) \"Professional sport or athletic event\" means an event at which two or more persons participate in sports or athletic events and receive compensation, or the potential for compensation based on their performance, in excess of actual expenses for their participation in the event.",
+      "id": "3775.01-professional-sport-or-athletic-event",
+      "normalized": "professional sport or athletic event",
+      "scope": "As used in this chapter:",
+      "section": "3775.01",
+      "source_title": "Section 3775.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3775.01",
+      "term": "Professional sport or athletic event"
+    },
+    {
+      "definition": "(K) \"Professional sports organization\" means any of the following:\n\n(1) The owner of a professional sports team in this state that is a member of the national football league, the national hockey league, major league baseball, major league soccer, or the national basketball association;\n\n(2) The owner of a sports facility in this state that hosts an annual tournament on the professional golf association tour or a wholly owned for-profit subsidiary of the owner, if the owner is a nonprofit corporation or organization;\n\n(3) A promoter of a national association for stock car auto racing national touring race conducted in this state.",
+      "id": "3775.01-professional-sports-organization",
+      "normalized": "professional sports organization",
+      "scope": "As used in this chapter:",
+      "section": "3775.01",
+      "source_title": "Section 3775.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3775.01",
+      "term": "Professional sports organization"
+    },
+    {
+      "definition": "(L) \"Promotional gaming credit\" means a credit, discount, or other similar item issued to a patron to enable the placement of, or increase in, a wager on a sporting event.",
+      "id": "3775.01-promotional-gaming-credit",
+      "normalized": "promotional gaming credit",
+      "scope": "As used in this chapter:",
+      "section": "3775.01",
+      "source_title": "Section 3775.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3775.01",
+      "term": "Promotional gaming credit"
+    },
+    {
+      "definition": "(M) \"Proposition bet\" means a wager on a sporting event that is based on whether an identified instance or statistical achievement will occur, will be achieved, or will be surpassed, other than the score or outcome of the sporting event or parts of the sporting event, such as quarters, halves, periods, or innings.",
+      "id": "3775.01-proposition-bet",
+      "normalized": "proposition bet",
+      "scope": "As used in this chapter:",
+      "section": "3775.01",
+      "source_title": "Section 3775.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3775.01",
+      "term": "Proposition bet"
+    },
+    {
+      "definition": "(N)(1) Except as otherwise provided in divisions (N)(2) and (3) of this section, \"sporting event\" means any professional sport or athletic event, any collegiate sport or athletic event, any Olympic or international sports competition event, any motor race event, any esports event, or any other special event the Ohio casino control commission authorizes for sports gaming, the individual performance statistics of athletes or participants in such an event, or a combination of those.",
+      "id": "3775.01-sporting-event",
+      "normalized": "sporting event",
+      "scope": "As used in this chapter:",
+      "section": "3775.01",
+      "source_title": "Section 3775.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3775.01",
+      "term": "sporting event"
+    },
+    {
+      "definition": "(2) \"Sporting event\" does not include an event for primary or secondary school students, whether conducted or sponsored by a primary or secondary school or by another person, or the individual performance statistics of athletes or participants in such an event.",
+      "id": "3775.01-sporting-event",
+      "normalized": "sporting event",
+      "scope": "As used in this chapter:",
+      "section": "3775.01",
+      "source_title": "Section 3775.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3775.01",
+      "term": "Sporting event"
+    },
+    {
+      "definition": "(3) \"Sporting event\" includes an event that involves athletes or participants who are under eighteen years of age, or the individual performance statistics of athletes or participants in the event, only if the Ohio casino control commission authorizes the event for sports gaming.",
+      "id": "3775.01-sporting-event",
+      "normalized": "sporting event",
+      "scope": "As used in this chapter:",
+      "section": "3775.01",
+      "source_title": "Section 3775.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3775.01",
+      "term": "Sporting event"
+    },
+    {
+      "definition": "(O)(1) \"Sports gaming\" means the business of accepting wagers on sporting events.",
+      "id": "3775.01-sports-gaming",
+      "normalized": "sports gaming",
+      "scope": "As used in this chapter:",
+      "section": "3775.01",
+      "source_title": "Section 3775.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3775.01",
+      "term": "Sports gaming"
+    },
+    {
+      "definition": "(2) Except as otherwise provided in division (O)(3) of this section and in section 3770.25 of the Revised Code, \"sports gaming\" includes any system or method of wagering on sporting events that the Ohio casino control commission approves, including exchange wagering, parlays, spreads, over-under, moneyline, in-game wagering, single game bets, teaser bets, in-play bets, proposition bets, pools, pari-mutuel sports wagering pools, or straight bets.",
+      "id": "3775.01-sports-gaming",
+      "normalized": "sports gaming",
+      "scope": "As used in this chapter:",
+      "section": "3775.01",
+      "source_title": "Section 3775.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3775.01",
+      "term": "sports gaming"
+    },
+    {
+      "definition": "(3) \"Sports gaming\" does not include any of the following:\n\n(a) Wagering on horse racing;\n\n(b) Lottery games authorized under Chapter 3770. of the Revised Code, including video lottery terminals, other than lottery sports gaming authorized under sections 3770.23 to 3770.25 of the Revised Code;\n\n(c) Casino gaming authorized under division (C) of Section 6 of Article XV, Ohio Constitution and Chapter 3772. of the Revised Code;\n\n(d) Fantasy contests authorized under Chapter 3774. of the Revised Code.",
+      "id": "3775.01-sports-gaming",
+      "normalized": "sports gaming",
+      "scope": "As used in this chapter:",
+      "section": "3775.01",
+      "source_title": "Section 3775.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3775.01",
+      "term": "Sports gaming"
+    },
+    {
+      "definition": "(P) \"Sports gaming equipment\" means any of the following that directly relate to or affect, or are used or consumed in, the operation of sports gaming:\n\n(1) Any mechanical, electronic, or other device, mechanism, or equipment, including a self-service sports gaming terminal;\n\n(2) Any software, application, components, or other goods;\n\n(3) Anything to be installed or used on a patron's personal device.",
+      "id": "3775.01-sports-gaming-equipment",
+      "normalized": "sports gaming equipment",
+      "scope": "As used in this chapter:",
+      "section": "3775.01",
+      "source_title": "Section 3775.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3775.01",
+      "term": "Sports gaming equipment"
+    },
+    {
+      "definition": "(Q) \"Sports gaming facility\" means a designated area of a building or structure in which patrons may place wagers on sporting events with a type B sports gaming proprietor either in person or using self-service sports gaming terminals.",
+      "id": "3775.01-sports-gaming-facility",
+      "normalized": "sports gaming facility",
+      "scope": "As used in this chapter:",
+      "section": "3775.01",
+      "source_title": "Section 3775.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3775.01",
+      "term": "Sports gaming facility"
+    },
+    {
+      "definition": "(R) \"Sports gaming license\" means a sports gaming proprietor license, a mobile management services provider license, a management services provider license, a sports gaming occupational license, a type C sports gaming host license, or a sports gaming supplier license issued by the Ohio casino control commission under this chapter.",
+      "id": "3775.01-sports-gaming-license",
+      "normalized": "sports gaming license",
+      "scope": "As used in this chapter:",
+      "section": "3775.01",
+      "source_title": "Section 3775.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3775.01",
+      "term": "Sports gaming license"
+    },
+    {
+      "definition": "(S) \"Sports gaming licensee\" means a person who holds a valid sports gaming license.",
+      "id": "3775.01-sports-gaming-licensee",
+      "normalized": "sports gaming licensee",
+      "scope": "As used in this chapter:",
+      "section": "3775.01",
+      "source_title": "Section 3775.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3775.01",
+      "term": "Sports gaming licensee"
+    },
+    {
+      "definition": "(T) \"Sports gaming proprietor\" means a person licensed by the Ohio casino control commission to offer sports gaming in this state as a type A, type B, or type C sports gaming proprietor.",
+      "id": "3775.01-sports-gaming-proprietor",
+      "normalized": "sports gaming proprietor",
+      "scope": "As used in this chapter:",
+      "section": "3775.01",
+      "source_title": "Section 3775.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3775.01",
+      "term": "Sports gaming proprietor"
+    },
+    {
+      "definition": "(U) \"Sports gaming receipts\" has the same meaning as in section 5753.01 of the Revised Code.",
+      "id": "3775.01-sports-gaming-receipts",
+      "normalized": "sports gaming receipts",
+      "scope": "As used in this chapter:",
+      "section": "3775.01",
+      "source_title": "Section 3775.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3775.01",
+      "term": "Sports gaming receipts"
+    },
+    {
+      "definition": "(V)(1) \"Sports gaming supplier\" means a person or entity that provides sports gaming equipment or related services to a sports gaming proprietor, mobile management services provider, or management services provider, including providing services, directly or indirectly, that are necessary to create a betting market or to determine bet outcomes.\n\n(2) A sports gaming supplier that provides sports gaming equipment or services to be used through a sports gaming proprietor, mobile management services provider, or management services provider is not considered a sports gaming proprietor, mobile management services provider, or management services provider solely on that basis.\n\n(3) A sports governing body that provides official league data concerning its own sporting event to a sports gaming proprietor, mobile management services provider, management services provider, or sports gaming supplier is not considered a sports gaming supplier solely on that basis.",
+      "id": "3775.01-sports-gaming-supplier",
+      "normalized": "sports gaming supplier",
+      "scope": "As used in this chapter:",
+      "section": "3775.01",
+      "source_title": "Section 3775.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3775.01",
+      "term": "Sports gaming supplier"
+    },
+    {
+      "definition": "(W) \"Sports gaming voluntary exclusion program\" means the program described in division (B)(11) of section 3775.02 of the Revised Code.",
+      "id": "3775.01-sports-gaming-voluntary-exclusion-program",
+      "normalized": "sports gaming voluntary exclusion program",
+      "scope": "As used in this chapter:",
+      "section": "3775.01",
+      "source_title": "Section 3775.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3775.01",
+      "term": "Sports gaming voluntary exclusion program"
+    },
+    {
+      "definition": "(X) \"Sports governing body\" means a regional, national, or international organization having ultimate authority over the rules and codes of conduct with respect to a sporting event and the participants in the sporting event.",
+      "id": "3775.01-sports-governing-body",
+      "normalized": "sports governing body",
+      "scope": "As used in this chapter:",
+      "section": "3775.01",
+      "source_title": "Section 3775.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3775.01",
+      "term": "Sports governing body"
+    },
+    {
+      "definition": "(Y) \"Type A sports gaming proprietor\" means a sports gaming proprietor licensed by the Ohio casino control commission to offer sports gaming through an online sports pool.",
+      "id": "3775.01-type-a-sports-gaming-proprietor",
+      "normalized": "type a sports gaming proprietor",
+      "scope": "As used in this chapter:",
+      "section": "3775.01",
+      "source_title": "Section 3775.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3775.01",
+      "term": "Type A sports gaming proprietor"
+    },
+    {
+      "definition": "(Z) \"Type B sports gaming proprietor\" means a sports gaming proprietor licensed by the Ohio casino control commission to offer sports gaming at a sports gaming facility.",
+      "id": "3775.01-type-b-sports-gaming-proprietor",
+      "normalized": "type b sports gaming proprietor",
+      "scope": "As used in this chapter:",
+      "section": "3775.01",
+      "source_title": "Section 3775.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3775.01",
+      "term": "Type B sports gaming proprietor"
+    },
+    {
+      "definition": "(AA) \"Type C sports gaming proprietor\" means a sports gaming proprietor licensed by the Ohio casino control commission to offer sports gaming through self-service or clerk-operated sports gaming terminals located at type C sports gaming hosts' facilities.",
+      "id": "3775.01-type-c-sports-gaming-proprietor",
+      "normalized": "type c sports gaming proprietor",
+      "scope": "As used in this chapter:",
+      "section": "3775.01",
+      "source_title": "Section 3775.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3775.01",
+      "term": "Type C sports gaming proprietor"
+    },
+    {
+      "definition": "(BB) \"Type C sports gaming host\" means the owner of a facility with an A-1-A, A-1c, D-1, D-2, or D-5 liquor permit issued under Chapter 4303. of the Revised Code who is licensed by the Ohio casino control commission to offer sports gaming at the facility through a type C sports gaming proprietor.",
+      "id": "3775.01-type-c-sports-gaming-host",
+      "normalized": "type c sports gaming host",
+      "scope": "As used in this chapter:",
+      "section": "3775.01",
+      "source_title": "Section 3775.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3775.01",
+      "term": "Type C sports gaming host"
+    },
+    {
+      "definition": "(CC) \"Video lottery sales agent\" means an agent of the state lottery authorized to operate video lottery terminals under section 3770.21 of the Revised Code.",
+      "id": "3775.01-video-lottery-sales-agent",
+      "normalized": "video lottery sales agent",
+      "scope": "As used in this chapter:",
+      "section": "3775.01",
+      "source_title": "Section 3775.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3775.01",
+      "term": "Video lottery sales agent"
+    },
+    {
+      "definition": "(DD) \"Wager\" or \"bet\" means to risk a sum of money or thing of value on an uncertain occurrence.\n\nLast updated August 3, 2023 at 12:19 PM",
+      "id": "3775.01-wager",
+      "normalized": "wager",
+      "scope": "As used in this chapter:",
+      "section": "3775.01",
+      "source_title": "Section 3775.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3775.01",
+      "term": "Wager"
+    },
+    {
+      "definition": "(DD) \"Wager\" or \"bet\" means to risk a sum of money or thing of value on an uncertain occurrence.\n\nLast updated August 3, 2023 at 12:19 PM",
+      "id": "3775.01-bet",
+      "normalized": "bet",
+      "scope": "As used in this chapter:",
+      "section": "3775.01",
+      "source_title": "Section 3775.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3775.01",
+      "term": "bet"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3772.01",
+      "number": "3772.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3772.01"
+    },
+    {
+      "kind": "section",
+      "label": "3770.23",
+      "number": "3770.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3770.23"
+    },
+    {
+      "kind": "section",
+      "label": "3775.05",
+      "number": "3775.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3775.05"
+    },
+    {
+      "kind": "section",
+      "label": "3775.051",
+      "number": "3775.051",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3775.051"
+    },
+    {
+      "kind": "section",
+      "label": "3770.25",
+      "number": "3770.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3770.25"
+    },
+    {
+      "kind": "section",
+      "label": "5753.01",
+      "number": "5753.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5753.01"
+    },
+    {
+      "kind": "section",
+      "label": "3775.02",
+      "number": "3775.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3775.02"
+    },
+    {
+      "kind": "section",
+      "label": "3770.21",
+      "number": "3770.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3770.21"
+    }
+  ],
+  "scraped": "2026-07-02T20:01:35+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3775.01",
+  "title": "Section 3775.01 - Definitions."
+}

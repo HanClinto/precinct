@@ -1,0 +1,66 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Political subdivision\" includes municipal corporation, township, and taxing district.",
+      "id": "505.22-political-subdivision",
+      "normalized": "political subdivision",
+      "scope": "As used in section 505.23 of the Revised Code:",
+      "section": "505.22",
+      "source_title": "Section 505.22 - Volunteer fire department definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-505.22",
+      "term": "Political subdivision"
+    },
+    {
+      "definition": "(B) \"Insurance\" means insurance coverage, including group insurance, as provided in standard casualty insurance policies.",
+      "id": "505.22-insurance",
+      "normalized": "insurance",
+      "scope": "As used in section 505.23 of the Revised Code:",
+      "section": "505.22",
+      "source_title": "Section 505.22 - Volunteer fire department definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-505.22",
+      "term": "Insurance"
+    },
+    {
+      "definition": "(C) \"Volunteer firemen\" means all members in good standing of the volunteer fire department of such political subdivision.",
+      "id": "505.22-volunteer-firemen",
+      "normalized": "volunteer firemen",
+      "scope": "As used in section 505.23 of the Revised Code:",
+      "section": "505.22",
+      "source_title": "Section 505.22 - Volunteer fire department definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-505.22",
+      "term": "Volunteer firemen"
+    },
+    {
+      "definition": "(D) \"Accident and death benefits\" means such benefits as are provided in standard casualty insurance policies.",
+      "id": "505.22-accident-and-death-benefits",
+      "normalized": "accident and death benefits",
+      "scope": "As used in section 505.23 of the Revised Code:",
+      "section": "505.22",
+      "source_title": "Section 505.22 - Volunteer fire department definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-505.22",
+      "term": "Accident and death benefits"
+    },
+    {
+      "definition": "(E) \"Line of duty\" includes such duties as are prescribed by the rules and regulations of such volunteer fire department.",
+      "id": "505.22-line-of-duty",
+      "normalized": "line of duty",
+      "scope": "As used in section 505.23 of the Revised Code:",
+      "section": "505.22",
+      "source_title": "Section 505.22 - Volunteer fire department definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-505.22",
+      "term": "Line of duty"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "505.23",
+      "number": "505.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.23"
+    }
+  ],
+  "scraped": "2026-07-02T19:33:08+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-505.22",
+  "title": "Section 505.22 - Volunteer fire department definitions."
+}

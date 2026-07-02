@@ -1,0 +1,909 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 3901.01 - Department of insurance.",
+      "number": "3901.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.011 - Superintendent of insurance - powers and duties.",
+      "number": "3901.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.011"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.02 - Appointment or hiring of employees.",
+      "number": "3901.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.021 - Department of insurance operating fund.",
+      "number": "3901.021",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.021"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.03 - Warden - duties - office of warden.",
+      "number": "3901.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.04 - Superintendent - specific powers.",
+      "number": "3901.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.041 - Rule-making and adjudicating powers of superintendent.",
+      "number": "3901.041",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.041"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.042 - Service and transaction fees.",
+      "number": "3901.042",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.042"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.043 - Fees for services or transactions performed by department of insurance.",
+      "number": "3901.043",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.043"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.044 - Rules for implementing health insurance portability and accountability act.",
+      "number": "3901.044",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.044"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.045 - Receiving confidential or privileged documents and information.",
+      "number": "3901.045",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.045"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.046 - Electronic signatures.",
+      "number": "3901.046",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.046"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.047 - Assisting patients with end-stage renal disease apply for medicare benefits.",
+      "number": "3901.047",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.047"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.05 - Deputy superintendent - duties.",
+      "number": "3901.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.051 - Assistant superintendent - duties.",
+      "number": "3901.051",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.051"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.052 - Application for innovative waiver.",
+      "number": "3901.052",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.052"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.06 - Instruments under seal of the superintendent.",
+      "number": "3901.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.07 - Examination of financial affairs of insurer.",
+      "number": "3901.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.071 - Superintendent's examination fund.",
+      "number": "3901.071",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.071"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.072 - Corporate governance annual disclosure act.",
+      "number": "3901.072",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.072"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.073 - Corporate governance annual disclosure.",
+      "number": "3901.073",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.073"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.074 - Format of disclosure.",
+      "number": "3901.074",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.074"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.075 - Documents deemed proprietary.",
+      "number": "3901.075",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.075"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.076 - Retention of third-party consultant.",
+      "number": "3901.076",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.076"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.077 - Rules.",
+      "number": "3901.077",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.077"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.078 - Penalty.",
+      "number": "3901.078",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.078"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.08 - Information from banks.",
+      "number": "3901.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.09 - Duty of bank officers.",
+      "number": "3901.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.10 - Deficiency of company assets.",
+      "number": "3901.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.11 - Acquisition of stock of other insurers.",
+      "number": "3901.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.12 - Interlocking directorate.",
+      "number": "3901.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.13 - Hearing by superintendent.",
+      "number": "3901.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.14 - Record and report of superintendent.",
+      "number": "3901.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.15 - Application of law.",
+      "number": "3901.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.16 - Forfeiture.",
+      "number": "3901.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.17 - Personal jurisdiction over foreign or alien insurer.",
+      "number": "3901.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.18 - Requirements for unauthorized foreign or alien insurer to enter an appearance.",
+      "number": "3901.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.19 - Unfair and deceptive practices definitions.",
+      "number": "3901.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.20 - Prohibition against unfair or deceptive acts.",
+      "number": "3901.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.21 - Unfair and deceptive acts or practices in business of insurance defined.",
+      "number": "3901.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.211 - Lending of money, extension of credit - prohibited acts.",
+      "number": "3901.211",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.211"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.212 - Consumer protection rules.",
+      "number": "3901.212",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.212"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.213 - Unfair and deceptive practices - exceptions.",
+      "number": "3901.213",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.213"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.214 - Applicability of prohibition on inducements.",
+      "number": "3901.214",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.214"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.215 - Intent to promote innovation and maintain strong consumer protection.",
+      "number": "3901.215",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.215"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.22 - Hearings on violation - orders - administrative remedies.",
+      "number": "3901.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.221 - Cease-and-desist orders.",
+      "number": "3901.221",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.221"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.23 - Self-incrimination.",
+      "number": "3901.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.24 - Unlawful advertising.",
+      "number": "3901.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.241 - List of top twenty per cent of services and expected contributions.",
+      "number": "3901.241",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.241"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.25 - Action by superintendent against insurer.",
+      "number": "3901.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.26 - Acts by insurer which constitute appointment of superintendent as attorney - service of statement.",
+      "number": "3901.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.27 - Adoption of emergency bylaws.",
+      "number": "3901.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.28 - Provisions effective if no emergency bylaws.",
+      "number": "3901.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.29 - Succession list.",
+      "number": "3901.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.30 - Emergency business location.",
+      "number": "3901.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.31 - Filing statements indicating ownership.",
+      "number": "3901.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.32 - Insurance holding company system definitions.",
+      "number": "3901.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.321 - Mergers and acquisitions of domestic insurers.",
+      "number": "3901.321",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.321"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.322 - Procedure for violations.",
+      "number": "3901.322",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.322"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.323 - Jurisdiction.",
+      "number": "3901.323",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.323"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.33 - Registration; enterprise risk report; group capital calculation; liquidity stress test.",
+      "number": "3901.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.34 - Transactions to which insurer is a party; dividends and distributions to shareholders.",
+      "number": "3901.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.341 - Prior review of proposed transactions.",
+      "number": "3901.341",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.341"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.35 - Requiring production of records.",
+      "number": "3901.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.351 - Participation in supervisory college.",
+      "number": "3901.351",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.351"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.352 - Group-wide supervisor for internationally active insurance group.",
+      "number": "3901.352",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.352"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.36 - Confidential and privileged treatment of documents and information - exceptions.",
+      "number": "3901.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.37 - Suspension, revocation or refusal to renew license - civil forfeiture.",
+      "number": "3901.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.371 - Purpose of sections 3901.371 to 3901.378.",
+      "number": "3901.371",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.371"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.372 - Definitions.",
+      "number": "3901.372",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.372"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.373 - Risk management framework.",
+      "number": "3901.373",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.373"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.374 - Own risk and solvency assessment.",
+      "number": "3901.374",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.374"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.375 - Summary report.",
+      "number": "3901.375",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.375"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.376 - Exemptions.",
+      "number": "3901.376",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.376"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.377 - Form and content of report; review.",
+      "number": "3901.377",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.377"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.378 - Confidentiality.",
+      "number": "3901.378",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.378"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.38 - Prompt payments to health care providers definitions.",
+      "number": "3901.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.381 - Third-party payers processing claims for payment for health care services.",
+      "number": "3901.381",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.381"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.382 - Electronic submission of claims.",
+      "number": "3901.382",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.382"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.383 - Contractual agreements for payments by third-party payers.",
+      "number": "3901.383",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.383"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.384 - Untimely claim process.",
+      "number": "3901.384",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.384"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.385 - Third-party payer - prohibited acts.",
+      "number": "3901.385",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.385"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.386 - Reimbursement contract - reimbursements to be made directly to hospital - assignment of benefits.",
+      "number": "3901.386",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.386"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.387 - Duplicative claims - claim information system.",
+      "number": "3901.387",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.387"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.388 - Payments considered final - overpayment.",
+      "number": "3901.388",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.388"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.389 - Computation of interest.",
+      "number": "3901.389",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.389"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.3810 - Complaints by provider or beneficiary - retaliation by payer.",
+      "number": "3901.3810",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.3810"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.3811 - Failure to comply by third-party payer.",
+      "number": "3901.3811",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.3811"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.3812 - Administrative remedies.",
+      "number": "3901.3812",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.3812"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.3813 - Rules.",
+      "number": "3901.3813",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.3813"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.3814 - Exceptions to provisions.",
+      "number": "3901.3814",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.3814"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.3815 - Health plan issuer payment method and disclosure requirements.",
+      "number": "3901.3815",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.3815"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.40 - Payment or reimbursement to unlicensed or unaccredited hospital prohibited.",
+      "number": "3901.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.41 - Applicability of Uniform Electronics Transactions Act; automated transactions.",
+      "number": "3901.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.411 - Electronic delivery of insurance documents.",
+      "number": "3901.411",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.411"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.42 - Annual filing with national association of insurance commissioners.",
+      "number": "3901.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.44 - Records of insurance fraud investigation.",
+      "number": "3901.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.45 - Effect of sexual orientation, HIV, or AIDS or related condition.",
+      "number": "3901.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.46 - Requiring HIV testing.",
+      "number": "3901.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.47 - Administration of claims unpaid due to insolvency of insurer.",
+      "number": "3901.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.48 - Disclosing work papers resulting from conduct of audit.",
+      "number": "3901.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.491 - Genetic screening or testing.",
+      "number": "3901.491",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.491"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.501 - Genetic screening or testing for self-insurance plans.",
+      "number": "3901.501",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.501"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.51 - Uncertified securities as deposits definitions.",
+      "number": "3901.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.52 - Insurance company may place securities in clearing corporation or federal reserve book-entry system.",
+      "number": "3901.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.53 - Placement of securities shall satisfy deposit requirements.",
+      "number": "3901.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.54 - Securities may not be used for other purposes.",
+      "number": "3901.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.55 - Rules.",
+      "number": "3901.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.56 - Rewards or incentives for insurer wellness or health improvement programs.",
+      "number": "3901.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.61 - Credit for reinsurance ceded definitions.",
+      "number": "3901.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.62 - Credit for reinsurance ceded as asset or reduction of liability; accreditation as reinsurer.",
+      "number": "3901.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.621 - Suspension or revocation of reinsurer's accreditation or certification.",
+      "number": "3901.621",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.621"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.63 - Credit for reinsurance ceded as reduction of liability.",
+      "number": "3901.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.631 - Management of reinsurance recoverables by domestic ceding insurer.",
+      "number": "3901.631",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.631"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.64 - Terms of reinsurance or security agreement.",
+      "number": "3901.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.65 - Rules.",
+      "number": "3901.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.67 - Disclosure of material transactions model act definitions.",
+      "number": "3901.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.67"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.68 - Provisions application.",
+      "number": "3901.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.68"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.69 - Insurer to report material transactions.",
+      "number": "3901.69",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.69"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.70 - Confidentiality of reports - exceptions.",
+      "number": "3901.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.71 - Application of mandated health benefits.",
+      "number": "3901.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.72 - Money advanced to insurance company or health insuring corporation.",
+      "number": "3901.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.73 - Department to forward copy of late filing notice to board of directors.",
+      "number": "3901.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.74 - Notice of life insurance company discontinuing business.",
+      "number": "3901.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.74"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.75 - Notice of insurance companies other than life discontinuing business.",
+      "number": "3901.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.76 - Security valuation expense fund.",
+      "number": "3901.76",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.76"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.77 - Forms, instructions, manuals - determination of accounting practices and methods.",
+      "number": "3901.77",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.77"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.78 - Certificate of compliance.",
+      "number": "3901.78",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.78"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.80 - Discriminating against living organ donors.",
+      "number": "3901.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.80"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.81 - Definitions.",
+      "number": "3901.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.811 - Pharmacy audits.",
+      "number": "3901.811",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.811"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.812 - Rights of pharmacy.",
+      "number": "3901.812",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.812"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.813 - Proceedings after audit.",
+      "number": "3901.813",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.813"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.814 - Appeal process.",
+      "number": "3901.814",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.814"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.815 - Applicability of provisions.",
+      "number": "3901.815",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.815"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.82 - Restatement of the Law, Liability Insurance.",
+      "number": "3901.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.82"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.83 - Definitions for sections 3901.83 to 3901.833.",
+      "number": "3901.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.83"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.831 - Implementation of step therapy protocol.",
+      "number": "3901.831",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.831"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.832 - Step therapy exemption.",
+      "number": "3901.832",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.832"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.833 - Adoption of rules.",
+      "number": "3901.833",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.833"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.86 - Retaliatory provisions - moneys collected paid to state fire marshal's fund.",
+      "number": "3901.86",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.86"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.87 - No coverage for nontherapeutic abortion.",
+      "number": "3901.87",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.87"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.88 - Actuarial study regarding costs of health care mandates.",
+      "number": "3901.88",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.88"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.89 - Health plan issuers release claim information to group plan policyholders..",
+      "number": "3901.89",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.89"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.90 - Education on mental health and addiction services insurance parity.",
+      "number": "3901.90",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.90"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.91 - Adoption or amendment of rules related to insurance rating agencies.",
+      "number": "3901.91",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.91"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.95 - Direct primary care agreement not to be considered insurance.",
+      "number": "3901.95",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.95"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.96 - Nonprofit agricultural membership organization not to be considered insurance.",
+      "number": "3901.96",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.96"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3901.99 - Penalty.",
+      "number": "3901.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.99"
+    }
+  ],
+  "scraped": "2026-07-02T20:02:07+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-3901",
+  "title": "Chapter 3901 - Superintendent Of Insurance"
+}

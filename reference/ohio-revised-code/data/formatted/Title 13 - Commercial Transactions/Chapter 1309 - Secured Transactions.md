@@ -1,0 +1,143 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-1309
+Scraped: 2026-07-02T19:37:07+00:00
+
+# Chapter 1309 - Secured Transactions
+
+## Sections
+
+- Section 1309.101 - Short title - section numbering - UCC 9-101.
+- Section 1309.102 - Definitions and index of definitions - UCC 9-102.
+- Section 1309.103 - Purchase-money security interest - application of payments - burden of establishing - UCC 9-103.
+- Section 1309.104 - Control of deposit account - UCC 9-104.
+- Section 1309.105 - Control of electronic chattel paper - UCC 9-105.
+- Section 1309.106 - Control of investment property - UCC 9-106.
+- Section 1309.107 - Control of letter-of-credit right - UCC 9-107.
+- Section 1309.108 - Sufficiency of description - UCC 9-108.
+- Section 1309.109 - Scope of chapter - UCC 9-109.
+- Section 1309.110 - Security interests arising under article 2 or 2A - UCC 9-110.
+- Section 1309.201 - General effectiveness of security agreement - UCC 9-201.
+- Section 1309.202 - Title to collateral immaterial - UCC 9-202.
+- Section 1309.203 - Attachment and enforceability of security interest - proceeds - supporting obligation - formal requisites - UCC 9-203.
+- Section 1309.204 - After-acquired property - future advances - UCC 9-204.
+- Section 1309.205 - Use or disposition of collateral permissible - UCC 9-205.
+- Section 1309.206 - Security interest arising in purchase or delivery of financial asset - UCC 9-206.
+- Section 1309.207 - Rights and duties of secured party having possession or control of collateral - UCC 9-207.
+- Section 1309.208 - Additional duties of secured party having control of collateral - UCC 9-208.
+- Section 1309.209 - Duties of secured party if account debtor has been notified of assignment - UCC 9-209.
+- Section 1309.210 - Request for accounting - request regarding list of collateral or statement of account - UCC 9-210.
+- Section 1309.301 - Law governing perfection and priority of security interests - UCC 9-301.
+- Section 1309.302 - Law governing perfection and priority of agricultural liens - UCC 9-302.
+- Section 1309.303 - Law governing perfection and priority of security interests in goods covered by a certificate of title - UCC 9-303.
+- Section 1309.304 - Law governing perfection and priority of security interests in deposit accounts - UCC 9-304.
+- Section 1309.305 - Law governing perfection and priority of security interests in investment property - UCC 9-305.
+- Section 1309.306 - Law governing perfection and priority of security interests in letter-of-credit rights - UCC 9-306.
+- Section 1309.307 - Location of debtor - UCC 9-307.
+- Section 1309.308 - When security interest or agricultural lien is perfected - continuity of perfection - UCC 9-308.
+- Section 1309.309 - Security interest perfected upon attachment - UCC 9-309.
+- Section 1309.310 - When filing required to perfect security interest or agricultural lien - security interests and agricultural liens to which filing provisions do not apply - UCC 9-310.
+- Section 1309.311 - Perfection of security interests in property subject to certain statutes, regulations, and treaties - UCC 9-311.
+- Section 1309.312 - Perfection of security interests - UCC 9-312.
+- Section 1309.313 - When possession by or delivery to secured party perfects security interest without filing - UCC 9-313.
+- Section 1309.314 - Perfection by control - UCC 9-314.
+- Section 1309.315 - Secured party's rights on disposition of collateral and in proceeds - UCC 9-315.
+- Section 1309.316 - Continued perfection of security interest following change in governing law - UCC 9-316.
+- Section 1309.317 - Interests that take priority over or take free of unperfected security interest or agricultural lien - UCC 9-317.
+- Section 1309.318 - No interest retained in right to payment that is sold - rights and title of seller of account or chattel paper with respect to creditors and purchasers - UCC 9-318.
+- Section 1309.319 - Rights and title of consignee with respect to creditors and purchasers - UCC 9-319.
+- Section 1309.320 - Buyer of goods - UCC 9-320.
+- Section 1309.321 - Licensee of general intangible and lessee of goods in ordinary course of business - UCC 9-321.
+- Section 1309.322 - Priorities among conflicting security interests in and agricultural liens on same collateral - UCC 9-322.
+- Section 1309.323 - Future advances - UCC 9-323.
+- Section 1309.324 - Priority of purchase-money security interests - UCC 9-324.
+- Section 1309.325 - Priority of security interests in transferred collateral - UCC 9-325.
+- Section 1309.326 - Priority of security interests created by new debtor - UCC 9-326.
+- Section 1309.327 - Priority of security interests in deposit account - UCC 9-327.
+- Section 1309.328 - Priority of security interests in investment property - UCC 9-328.
+- Section 1309.329 - Priority of security interests in letter-of-credit right - UCC 9-329.
+- Section 1309.330 - Priority of purchases of chattel paper or instrument - UCC 9-330.
+- Section 1309.331 - Priority of rights of purchasers of instruments, documents, and securities under other chapters - priority of interests in financial assets and security entitlements under Chapter 1308 - UCC 9-331.
+- Section 1309.332 - Transfer of money - transfer of funds from deposit account - UCC 9-332.
+- Section 1309.333 - Priority of certain liens arising by operation of law - UCC 9-333.
+- Section 1309.334 - Priority of security interests in fixtures and crops - UCC 9-334.
+- Section 1309.335 - Accessions - UCC 9-335.
+- Section 1309.336 - Commingled goods - UCC 9-336.
+- Section 1309.337 - Priority of security interests in goods covered by certificate of title - UCC 9-337.
+- Section 1309.338 - Priority of security interest or agricultural lien perfected by filed financing statement providing certain incorrect information - UCC 9-338.
+- Section 1309.339 - Priority subject to subordination - UCC 9-339.
+- Section 1309.340 - Effectiveness of right of recoupment or set-off against deposit account - UCC 9-340.
+- Section 1309.341 - Bank's rights and duties with respect to deposit account - UCC 9-341.
+- Section 1309.342 - Bank's right to refuse to enter into or disclose existence of control agreement - UCC 9-342.
+- Section 1309.401 - Alienability of debtor's rights - UCC 9-401.
+- Section 1309.402 - Secured party not obligated on contract of debtor or in tort - UCC 9-402.
+- Section 1309.403 - Agreement not to assert defenses against assignee - UCC 9-403.
+- Section 1309.404 - Rights acquired by assignee - claims and defenses against assignee - UCC 9-404.
+- Section 1309.405 - Modification of assigned contract - UCC 9-405.
+- Section 1309.406 - Discharge of account debtor - UCC 9-406.
+- Section 1309.407 - Restriction on creation or enforcement of security interest in leasehold interest or in lessor's residual interest - UCC 9-407.
+- Section 1309.408 - Restrictions on assignment of promissory notes, health-care-insurance receivables, and certain general intangibles ineffective - UCC 9-408.
+- Section 1309.409 - Restrictions on assignment of letter-of-credit rights ineffective - UCC 9-409.
+- Section 1309.501 - Filing office - UCC 9-501.
+- Section 1309.502 - Contents of financing statement - record of mortgage as financing statement - time of filing financing statement - UCC 9-502.
+- Section 1309.503 - Name of debtor and secured party - UCC 9-503.
+- Section 1309.504 - Indication of collateral - UCC 9-504.
+- Section 1309.505 - Filing and compliance with other statutes and treaties for consignments, leases, other bailments, and other transactions - UCC 9-505.
+- Section 1309.506 - Effect of errors or omissions - UCC 9-506.
+- Section 1309.507 - Effect of certain events on effectiveness of financing statement - UCC 9-507.
+- Section 1309.508 - Effectiveness of financing statement if new debtor becomes bound by security agreement - UCC 9-508.
+- Section 1309.509 - Persons entitled to file a record - UCC 9-509.
+- Section 1309.510 - Effectiveness of filed record - UCC 9-510.
+- Section 1309.511 - Secured party of record - UCC 9-511.
+- Section 1309.512 - Amendment of financing statement - UCC 9-512.
+- Section 1309.513 - Termination statement - UCC 9-513.
+- Section 1309.514 - Assignment of powers of secured party of record - UCC 9-514.
+- Section 1309.515 - Duration and effectiveness of financing statement - effect of lapsed financing statement - UCC 9-515.
+- Section 1309.516 - What constitutes filing - effectiveness of filing - UCC 9-516.
+- Section 1309.517 - Effect of indexing errors - UCC 9-517.
+- Section 1309.518 - Claim concerning inaccurate or wrongfully filed record - UCC 9-518.
+- Section 1309.519 - Numbering, maintaining, and indexing records - communicating information provided in records - UCC 9-519.
+- Section 1309.520 - Acceptance and refusal to accept record - UCC 9-520.
+- Section 1309.521 - Uniform form of written financing statement and amendment - UCC 9-521.
+- Section 1309.522 - Maintenance and destruction of records - UCC 9-522.
+- Section 1309.523 - Information from filing office - sale or license of records - UCC 9-523.
+- Section 1309.524 - Delay by filing office - UCC 9-524.
+- Section 1309.525 - Fees - UCC 9-525.
+- Section 1309.526 - Filing-office rules - UCC 9-526.
+- Section 1309.527 - Duty to report - UCC 9-527.
+- Section 1309.528 - Corporate and uniform commercial code filing fund - UCC 9-528.
+- Section 1309.529 - Distributions of fees to county recorders - UCC 9-529.
+- Section 1309.601 - Rights after default - judicial enforcement - consignor or buyer of accounts, chattel paper, payment intangibles, or promissory notes - UCC 9-601.
+- Section 1309.602 - Waiver and variance of rights and duties - UCC 9-602.
+- Section 1309.603 - Agreement on standards concerning rights and duties - UCC 9-603.
+- Section 1309.604 - Procedure if security agreement covers real property or fixtures - UCC 9-604.
+- Section 1309.605 - Unknown debtor or secondary obligor - UCC 9-605.
+- Section 1309.606 - Time for default for agricultural lien - UCC 9-606.
+- Section 1309.607 - Collection and enforcement by secured party - UCC 9-607.
+- Section 1309.608 - Application of proceeds of collection or enforcement - liability for deficiency and right to surplus - UCC 9-608.
+- Section 1309.609 - Secured party's right to take possession after default - UCC 9-609.
+- Section 1309.610 - Disposition of collateral after default - UCC 9-610.
+- Section 1309.611 - Notification before disposition of collateral - UCC 9-611.
+- Section 1309.612 - Timeliness of notification before disposition of collateral - UCC 9-612.
+- Section 1309.613 - Contents and form of notification before disposition of collateral - general - UCC 9-613.
+- Section 1309.614 - Contents and form of notification before disposition of collateral - consumer-goods transaction - UCC 9-614.
+- Section 1309.615 - Application of proceeds of disposition - liability for deficiency and right to surplus - UCC 9-615.
+- Section 1309.616 - Explanation of calculation of surplus or deficiency - UCC 9-616.
+- Section 1309.617 - Rights of transferee of collateral - UCC 9-617.
+- Section 1309.618 - Rights and duties of certain secondary obligors - UCC 9-618.
+- Section 1309.619 - Transfer of record or legal title - UCC 9-619.
+- Section 1309.620 - Acceptance of collateral in full or partial satisfaction of obligation - compulsory disposition of collateral - UCC 9-620.
+- Section 1309.621 - Notification of proposal to accept collateral - UCC 9-621.
+- Section 1309.622 - Effect of acceptance of collateral - UCC 9-622.
+- Section 1309.623 - Right to redeem collateral - UCC 9-623.
+- Section 1309.624 - Waiver - UCC 9-624.
+- Section 1309.625 - Remedies for secured party's failure to comply with chapter - UCC 9-625.
+- Section 1309.626 - Action in which deficiency or surplus is in issue - UCC 9-626.
+- Section 1309.627 - Determination of whether conduct was commercially reasonable - UCC 9-627.
+- Section 1309.628 - Nonliability and limitation on liability of secured party - liability of secondary obligor - UCC 9-628.
+- Section 1309.702 - Savings clause - UCC 9-702.
+- Section 1309.703 - Security interest perfected before effective date - UCC 9-703.
+- Section 1309.704 - Security interest unperfected before effective date - UCC 9-704.
+- Section 1309.705 - Effectiveness of action taken before effective date - UCC 9-705.
+- Section 1309.706 - When initial financing statement suffices to continue effectiveness of financing statement - UCC 9-706.
+- Section 1309.707 - Pre-effective-date financing statement - UCC 9-707.
+- Section 1309.708 - Persons entitled to file initial financing statement or continuation statement - UCC 9-708.
+- Section 1309.709 - Priority - UCC 9-709.

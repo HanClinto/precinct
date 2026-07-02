@@ -1,0 +1,136 @@
+{
+  "glossary": [
+    {
+      "definition": "\"Attachment\" means any wire, wireless facility, cable, antennae facility, or apparatus for the transmission of text, signs, signals, pictures, sounds, or other forms of information installed by or on behalf of a provider upon any pole owned or controlled, in whole or in part, by one or more electric cooperatives.",
+      "id": "4926.01-attachment",
+      "normalized": "attachment",
+      "scope": "As used in sections 4926.01 to 4926.60 of the Revised Code:",
+      "section": "4926.01",
+      "source_title": "Section 4926.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4926.01",
+      "term": "Attachment"
+    },
+    {
+      "definition": "\"Broadband provider\" has the same meaning as in section 122.40 of the Revised Code.",
+      "id": "4926.01-broadband-provider",
+      "normalized": "broadband provider",
+      "scope": "As used in sections 4926.01 to 4926.60 of the Revised Code:",
+      "section": "4926.01",
+      "source_title": "Section 4926.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4926.01",
+      "term": "Broadband provider"
+    },
+    {
+      "definition": "\"Electric cooperative\" has the same meaning as in section 4928.01 of the Revised Code.",
+      "id": "4926.01-electric-cooperative",
+      "normalized": "electric cooperative",
+      "scope": "As used in sections 4926.01 to 4926.60 of the Revised Code:",
+      "section": "4926.01",
+      "source_title": "Section 4926.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4926.01",
+      "term": "Electric cooperative"
+    },
+    {
+      "definition": "\"Incremental cost\" means pole attachment costs incurred by an electric cooperative for providing long-run service.",
+      "id": "4926.01-incremental-cost",
+      "normalized": "incremental cost",
+      "scope": "As used in sections 4926.01 to 4926.60 of the Revised Code:",
+      "section": "4926.01",
+      "source_title": "Section 4926.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4926.01",
+      "term": "Incremental cost"
+    },
+    {
+      "definition": "\"Make-ready work\" means, as determined by the nature of the work required, \"make-ready,\" \"complex make-ready,\" or \"simple make-ready\" as those terms are defined in 47 C.F.R. 1.1402.",
+      "id": "4926.01-make-ready-work",
+      "normalized": "make-ready work",
+      "scope": "As used in sections 4926.01 to 4926.60 of the Revised Code:",
+      "section": "4926.01",
+      "source_title": "Section 4926.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4926.01",
+      "term": "Make-ready work"
+    },
+    {
+      "definition": "\"Provider\" means a broadband provider, telecommunications service provider, video service provider, or wireless service provider.",
+      "id": "4926.01-provider",
+      "normalized": "provider",
+      "scope": "As used in sections 4926.01 to 4926.60 of the Revised Code:",
+      "section": "4926.01",
+      "source_title": "Section 4926.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4926.01",
+      "term": "Provider"
+    },
+    {
+      "definition": "\"Telecommunications service provider\" means a provider of \"telecommunications service\" as defined in section 4927.01 of the Revised Code.",
+      "id": "4926.01-telecommunications-service-provider",
+      "normalized": "telecommunications service provider",
+      "scope": "As used in sections 4926.01 to 4926.60 of the Revised Code:",
+      "section": "4926.01",
+      "source_title": "Section 4926.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4926.01",
+      "term": "Telecommunications service provider"
+    },
+    {
+      "definition": "\"Video service provider\" has the same meaning as in section 1332.21 of the Revised Code.",
+      "id": "4926.01-video-service-provider",
+      "normalized": "video service provider",
+      "scope": "As used in sections 4926.01 to 4926.60 of the Revised Code:",
+      "section": "4926.01",
+      "source_title": "Section 4926.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4926.01",
+      "term": "Video service provider"
+    },
+    {
+      "definition": "\"Wireless service provider\" has the same meaning as in section 4927.01 of the Revised Code.\n\nLast updated June 9, 2021 at 2:05 PM",
+      "id": "4926.01-wireless-service-provider",
+      "normalized": "wireless service provider",
+      "scope": "As used in sections 4926.01 to 4926.60 of the Revised Code:",
+      "section": "4926.01",
+      "source_title": "Section 4926.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4926.01",
+      "term": "Wireless service provider"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "4926.01",
+      "number": "4926.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4926.01"
+    },
+    {
+      "kind": "section",
+      "label": "4926.60",
+      "number": "4926.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4926.60"
+    },
+    {
+      "kind": "section",
+      "label": "122.40",
+      "number": "122.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.40"
+    },
+    {
+      "kind": "section",
+      "label": "4928.01",
+      "number": "4928.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.01"
+    },
+    {
+      "kind": "section",
+      "label": "4927.01",
+      "number": "4927.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4927.01"
+    },
+    {
+      "kind": "section",
+      "label": "1332.21",
+      "number": "1332.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1332.21"
+    }
+  ],
+  "scraped": "2026-07-02T20:09:22+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4926.01",
+  "title": "Section 4926.01 - Definitions."
+}

@@ -1,0 +1,130 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-3905
+Scraped: 2026-07-02T20:02:17+00:00
+
+# Chapter 3905 - Insurance Producers Licensing Act
+
+## Sections
+
+- Section 3905.01 - Insurance producers licensing act definitions.
+- Section 3905.02 - License required.
+- Section 3905.03 - Exceptions to licensing requirement.
+- Section 3905.04 - Written examination of applicant for agent license.
+- Section 3905.041 - Exceptions to program of insurance education or examination requirement.
+- Section 3905.05 - Application for resident insurance agent license.
+- Section 3905.051 - Criminal records check; fingerprinting; confidentiality.
+- Section 3905.06 - Issuance and contents of license - lines of authority.
+- Section 3905.061 - Agent to file of change of address.
+- Section 3905.062 - Portable electronics insurance.
+- Section 3905.063 - Self-service storage insurance; license required.
+- Section 3905.064 - Travel insurance definitions.
+- Section 3905.065 - Travel insurance agent license; travel protection plans; policy requirements.
+- Section 3905.066 - Travel retailers.
+- Section 3905.067 - Unfair and deceptive acts or practices.
+- Section 3905.068 - Tax on travel insurance premiums.
+- Section 3905.069 - Travel administrators.
+- Section 3905.0610 - Classification of travel insurance; eligibility and underwriting standards.
+- Section 3905.0611 - Rules.
+- Section 3905.07 - Nonresident insurance agent or surplus lines broker license; renewal.
+- Section 3905.071 - Nonresident to file change of address.
+- Section 3905.072 - Nonresident limited lines insurance agent license.
+- Section 3905.08 - Reciprocity.
+- Section 3905.081 - Waiving licensing requirement for nonresident persons in violation of federal reciprocity requirements.
+- Section 3905.09 - Temporary insurance agent license.
+- Section 3905.11 - Agent's use of assumed name.
+- Section 3905.12 - Rules.
+- Section 3905.14 - Disciplinary actions.
+- Section 3905.15 - Hearing to determine administrative action modification.
+- Section 3905.16 - Surrender of license.
+- Section 3905.18 - Paying unlawful consideration.
+- Section 3905.181 - Accepting consideration without license.
+- Section 3905.182 - Sale of shares of capital stock of life insurance company or agency.
+- Section 3905.20 - Appointment of insurance agent to act as agent of insurer.
+- Section 3905.201 - Limited line credit insurance program of instruction.
+- Section 3905.21 - Notice of terminating relationship with insurance agent.
+- Section 3905.211 - Immunity.
+- Section 3905.212 - Sanctions.
+- Section 3905.22 - Agent to provide notice of administrative action or of prosecution and disposition.
+- Section 3905.24 - Confidentiality of records and information - exceptions.
+- Section 3905.26 - Centralized agent license registry.
+- Section 3905.28 - Rules.
+- Section 3905.29 - Mutual protective associations exempted.
+- Section 3905.30 - Resident and nonresident surplus lines broker's license.
+- Section 3905.31 - Prohibitions.
+- Section 3905.32 - License fees.
+- Section 3905.33 - Unauthorized insurers; applicability and construction of federal provisions; due diligence.
+- Section 3905.331 - Exempt commercial purchasers; qualifications; qualified risk managers.
+- Section 3905.332 - Designation as domestic surplus lines insurer.
+- Section 3905.34 - Separate accounts.
+- Section 3905.35 - Bond.
+- Section 3905.36 - Taxing firms dealing with unauthorized foreign insurers; waiver of penalty and interest charges; surplus lines brokers.
+- Section 3905.37 - Prohibited acts.
+- Section 3905.38 - Exemptions.
+- Section 3905.39 - Continuation of certificates and licenses.
+- Section 3905.40 - Fees paid to superintendent of insurance.
+- Section 3905.401 - Valuation fee not applicable to reinsurance ceded to affiliated companies.
+- Section 3905.41 - Accounts for fees.
+- Section 3905.42 - Insurance business must be authorized.
+- Section 3905.421 - Vehicle protection product warranty.
+- Section 3905.422 - Homes service contract are consumer transactions.
+- Section 3905.423 - Consumer goods contracts to be covered by reimbursement insurance.
+- Section 3905.424 - Waiver of customer obligation not insurance matter.
+- Section 3905.426 - Requirements for ancillary product protection contracts.
+- Section 3905.43 - Advertising limitations.
+- Section 3905.44 - Limitation upon domestic companies.
+- Section 3905.45 - Payment of funeral or burial expenses policy.
+- Section 3905.451 - Funeral or burial goods or services coverage not subject to preneed provisions.
+- Section 3905.46 - Application of law.
+- Section 3905.47 - Agent training programs.
+- Section 3905.471 - Insurance navigator certification.
+- Section 3905.472 - Qualified health benefit plans.
+- Section 3905.473 - Exchange listings.
+- Section 3905.474 - Qualifications for in-person assisters.
+- Section 3905.481 - Continuing education requirements.
+- Section 3905.484 - Establishing criteria for course or program of study for license examination.
+- Section 3905.485 - Establishing schedule of fees for course or program of study for license examination.
+- Section 3905.486 - Adoption of rules.
+- Section 3905.49 - Prohibiting false representation as independent agent.
+- Section 3905.50 - Terminating independent insurance agent contract.
+- Section 3905.53 - Effect of child support default on license.
+- Section 3905.55 - Agent fees.
+- Section 3905.56 - Compensation by public entity for placement of insurance.
+- Section 3905.61 - Controlled insurers definitions.
+- Section 3905.62 - Application of sections.
+- Section 3905.63 - Limits on business placed with controlled insurer by controlling producer.
+- Section 3905.64 - Notice to prospective insured by controlling producer.
+- Section 3905.65 - Remedies for noncompliance.
+- Section 3905.71 - Managing general agent definitions.
+- Section 3905.72 - Managing general agent license requirement.
+- Section 3905.73 - Responsibilities of managing general agent.
+- Section 3905.74 - Independent financial examination of each managing general agent.
+- Section 3905.75 - Acts of agent deemed acts of insurer - examinations.
+- Section 3905.76 - Prohibition.
+- Section 3905.77 - Penalties for violations.
+- Section 3905.78 - Rights not limited or restricted.
+- Section 3905.79 - Rules.
+- Section 3905.81 - Reinsurance intermediary-broker or intermediary-manager license required - rules.
+- Section 3905.83 - Surety bail bond agent definitions.
+- Section 3905.84 - Surety bail bond agent to be qualified, licensed, and appointed.
+- Section 3905.841 - Persons or classes of persons not to act as agents.
+- Section 3905.85 - Surety bail bond agent license.
+- Section 3905.851 - No imposition of local licensing fees.
+- Section 3905.86 - Appointment of agent by insurer.
+- Section 3905.861 - Extending appointments to affiliated agents.
+- Section 3905.862 - Expiration or cancellation of appointment; fee.
+- Section 3905.87 - Registration of agent with court clerks; list of court-registered surety bail bond agents.
+- Section 3905.88 - Continuing education.
+- Section 3905.89 - Notice of change of principal business address or telephone number.
+- Section 3905.90 - Records of surety bonds to be maintained - furnishing of information.
+- Section 3905.901 - Determination of direct written premiums for bail bonds.
+- Section 3905.91 - Build-up funds.
+- Section 3905.92 - Requirements for acceptance of collateral security or other indemnity.
+- Section 3905.921 - Discharge of bond where collateral security or other indemnity accepted.
+- Section 3905.93 - Bail bond - charges and fees.
+- Section 3905.931 - Furnishing of forms and other supplies.
+- Section 3905.932 - Prohibited acts.
+- Section 3905.933 - Signing or countersigning agent's name to a bond.
+- Section 3905.934 - Advertising requirements.
+- Section 3905.94 - License suspension or revocation.
+- Section 3905.941 - Designation of successor agent.
+- Section 3905.95 - Rules.
+- Section 3905.99 - Penalty.

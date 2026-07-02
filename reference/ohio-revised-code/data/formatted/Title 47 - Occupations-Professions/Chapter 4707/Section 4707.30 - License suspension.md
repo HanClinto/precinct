@@ -1,0 +1,26 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4707.30
+Scraped: 2026-07-02T20:06:23+00:00
+
+# Section 4707.30 - License suspension.
+
+**Effective:** July 1, 2003
+
+**Latest Legislation:** Senate Bill 262 - 124th General Assembly
+
+(A) As used in this section:
+
+(1) "Aggrieved party" means a person who has sustained actual and direct losses in an auction transaction involving a person licensed under this chapter due to conduct by the licensee that is described in section 4707.15 of the Revised Code or that otherwise violates this chapter or rules adopted under it and that is associated with an act or transaction that only a licensee lawfully may perform.
+
+(2) "Offending licensee" means a person licensed under this chapter who fits either of the following descriptions:
+
+(a) Against whom an aggrieved party has obtained a final judgment in a court of competent jurisdiction and whose failure to pay all or a portion of the judgment results in a payment to the aggrieved party from the auction recovery fund;
+
+(b) Whose conduct has resulted in a payment from the auction recovery fund to an aggrieved party under section 4707.26 or 4707.31 of the Revised Code.
+
+(B) If the director of agriculture makes a payment from the auction recovery fund to an aggrieved party and the license of the offending licensee has not been suspended or revoked under section 4707.15 of the Revised Code, the license automatically is suspended on the date on which the payment is made. The director shall provide the offending licensee an opportunity for an administrative hearing on the suspension in accordance with Chapter 119. of the Revised Code. The director shall not reactivate the suspended license until the offending licensee has repaid in full, plus interest per annum at the rate specified in division (A) of section 1343.01 of the Revised Code, the amount paid from the fund to the aggrieved party. A discharge in bankruptcy does not relieve an offending licensee from the suspension provisions and requirements for reactivation of a license that are established in this section.
+
+When the director has paid from the fund any sum to an aggrieved party, the director shall be subrogated to all of the rights of the aggrieved party to the extent of the amount of the payment that the aggrieved party received from the fund. If the aggrieved party obtained a final judgment against the offending licensee in a court of competent jurisdiction, the aggrieved party shall assign all of the aggrieved party's right, title, and interest in the judgment to the director to the extent of the amount of the payment that the aggrieved party received from the fund. The director shall deposit into the fund any amount and interest recovered by the director from the offending licensee.
+
+With respect to the amount of a payment that the director has paid to an aggrieved party from the fund and has not recovered, the director shall have a priority lien in front of all other interested creditors against the assets of an offending licensee who files bankruptcy. The lien shall be deemed to have taken effect on the date that the offending licensee entered into a contract in accordance with section 4707.20 of the Revised Code with respect to the auction transaction out of which the payment from the fund arose.
+
+Disciplinary action taken under this section against an offending licensee and the recovery of moneys from an offending licensee for deposit into the fund shall not excuse the offending licensee from any other disciplinary action to which the offending licensee may be subject under this chapter or any other provision of the Revised Code or rules adopted under it.

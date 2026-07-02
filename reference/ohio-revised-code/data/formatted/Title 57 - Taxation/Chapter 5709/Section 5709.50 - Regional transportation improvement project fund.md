@@ -1,0 +1,18 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5709.50
+Scraped: 2026-07-02T20:14:27+00:00
+
+# Section 5709.50 - Regional transportation improvement project fund.
+
+**Effective:** October 3, 2023
+
+**Latest Legislation:** House Bill 33 - 135th General Assembly
+
+(A) The governing board of a regional transportation improvement project that grants a tax exemption under section 5709.48 of the Revised Code or enters into one or more voluntary agreements imposing assessments under section 5709.481 of the Revised Code shall establish a regional transportation improvement project fund into which shall be deposited service payments in lieu of taxes distributed under section 5709.49 of the Revised Code and assessments collected pursuant to such agreements. Money in the regional transportation improvement project fund shall be used by the governing board for the purposes described in division (A) of section 5595.06 of the Revised Code and in accordance with the agreements between the governing board and property owners under division (G) of section 5709.48 of the Revised Code. Money in the regional transportation improvement project fund shall be administered by the governing board in accordance with the requirements of section 5595.08 of the Revised Code and may be invested as provided in section 5595.09 of the Revised Code.
+
+(B) The regional transportation improvement project fund is dissolved by operation of law upon the dissolution of the associated regional transportation improvement project under section 5595.13 of the Revised Code. Any incidental surplus remaining in the fund, to the extent unencumbered, shall be divided and distributed by the county treasurer of the most populous county in which the district is located as follows:
+
+(1) To the general funds of the subdivisions and taxing units in which the district is located, an amount equal to the surplus revenue multiplied by a fraction, the numerator of which is the amount of service payment revenue deposited to the fund after the most recent collection of property taxes and payments in lieu of taxes, and the denominator of which is the total amount deposited to the fund after the most recent collection of property taxes and payments in lieu of taxes. This amount shall be divided proportionally based on the property tax levy revenue foregone by each such subdivision and taxing unit due to the exemption of improvements to property within the district at the most recent collection of service payments in lieu of taxes. The division of revenue shall account for amounts returned to city, local, or exempted village, and joint vocational school districts through compensation arrangements entered into under division (E) of section 5709.48 of the Revised Code. The amount distributed to each subdivision or taxing unit shall be apportioned among its funds as if that amount had been levied and collected as taxes and distributed in the most recent settlement of taxes.
+
+(2) To the owners of parcels subject to a special assessment under section 5709.481 of the Revised Code, all remaining surplus revenue. This amount shall be divided proportionally based on the amount of the assessment levied against each such parcel at the most recent collection of such assessments. Owners of parcels that are delinquent in paying an assessment imposed by an agreement under section 5709.481 of the Revised Code may not receive surplus revenue under this division. The share of surplus revenue that such owner or owners would have otherwise received shall be divided proportionally among the owners of nondelinquent parcels.
+
+Last updated September 12, 2023 at 10:58 AM

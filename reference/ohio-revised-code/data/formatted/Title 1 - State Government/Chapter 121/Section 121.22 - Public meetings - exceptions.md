@@ -1,0 +1,160 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-121.22
+Scraped: 2026-07-02T19:31:35+00:00
+
+# Section 121.22 - Public meetings - exceptions.
+
+**Effective:** September 30, 2025
+
+**Latest Legislation:** House Bill 96 - 136th General Assembly
+
+(A) This section shall be liberally construed to require public officials to take official action and to conduct all deliberations upon official business only in open meetings unless the subject matter is specifically excepted by law.
+
+(B) As used in this section:
+
+(1) "Public body" means any of the following:
+
+(a) Any board, commission, committee, council, or similar decision-making body of a state agency, institution, or authority, and any legislative authority or board, commission, committee, council, agency, authority, or similar decision-making body of any county, township, municipal corporation, school district, or other political subdivision or local public institution;
+
+(b) Any committee or subcommittee of a body described in division (B)(1)(a) of this section;
+
+(c) A court of jurisdiction of a sanitary district organized wholly for the purpose of providing a water supply for domestic, municipal, and public use when meeting for the purpose of the appointment, removal, or reappointment of a member of the board of directors of such a district pursuant to section 6115.10 of the Revised Code, if applicable, or for any other matter related to such a district other than litigation involving the district. As used in division (B)(1)(c) of this section, "court of jurisdiction" has the same meaning as "court" in section 6115.01 of the Revised Code.
+
+(2) "Meeting" means any prearranged discussion of the public business of the public body by a majority of its members.
+
+(3) "Regulated individual" means either of the following:
+
+(a) A student in a state or local public educational institution;
+
+(b) A person who is, voluntarily or involuntarily, an inmate, patient, or resident of a state or local institution because of criminal behavior, mental illness, an intellectual disability, disease, disability, age, or other condition requiring custodial care.
+
+(4) "Public office" has the same meaning as in section 149.011 of the Revised Code.
+
+(C) All meetings of any public body are declared to be public meetings open to the public at all times. A member of a public body shall be present in person at a meeting open to the public to be considered present or to vote at the meeting and for purposes of determining whether a quorum is present at the meeting.
+
+The minutes of a regular or special meeting of any public body shall be promptly prepared, filed, and maintained and shall be open to public inspection. The minutes need only reflect the general subject matter of discussions in executive sessions authorized under division (G) or (J) of this section.
+
+(D) This section does not apply to any of the following:
+
+(1) A grand jury;
+
+(2) An audit conference conducted by the auditor of state or independent certified public accountants with officials of the public office that is the subject of the audit;
+
+(3) The adult parole authority when its hearings are conducted at a correctional institution for the sole purpose of interviewing inmates to determine parole or pardon and the department of rehabilitation and correction when its hearings are conducted at a correctional institution for the sole purpose of making determinations under section 2967.271 of the Revised Code regarding the release or maintained incarceration of an offender to whom that section applies;
+
+(4) The organized crime investigations commission established under section 177.01 of the Revised Code;
+
+(5) Meetings of a child fatality review board established under section 307.621 of the Revised Code, meetings related to a review conducted pursuant to guidelines established by the director of health under section 3701.70 of the Revised Code, and meetings conducted pursuant to sections 5153.171 to 5153.173 of the Revised Code;
+
+(6) The state medical board when determining whether to suspend a license or certificate without a prior hearing pursuant to division (G) of either section 4730.25 or 4731.22 of the Revised Code;
+
+(7) The board of nursing when determining whether to suspend a license or certificate without a prior hearing pursuant to division (B) of section 4723.281 of the Revised Code;
+
+(8) The state board of pharmacy when determining whether to do either of the following:
+
+(a) Suspend a license, certification, or registration without a prior hearing, including during meetings conducted by telephone conference, pursuant to Chapters 3719., 3796., 4729., and 4752. of the Revised Code and rules adopted thereunder; or
+
+(b) Restrict a person from obtaining further information from the drug database established in section 4729.75 of the Revised Code without a prior hearing pursuant to division (C) of section 4729.86 of the Revised Code.
+
+(9) The state chiropractic board when determining whether to suspend a license without a hearing pursuant to section 4734.37 of the Revised Code;
+
+(10) The executive committee of the emergency response commission when determining whether to issue an enforcement order or request that a civil action, civil penalty action, or criminal action be brought to enforce Chapter 3750. of the Revised Code;
+
+(11) The board of directors of the nonprofit corporation formed under section 187.01 of the Revised Code or any committee thereof, and the board of directors of any subsidiary of that corporation or a committee thereof;
+
+(12) An audit conference conducted by the audit staff of the department of job and family services with officials of the public office that is the subject of that audit under section 5101.37 of the Revised Code;
+
+(13) The occupational therapy section of the occupational therapy, physical therapy, and athletic trainers board when determining whether to suspend a license without a hearing pursuant to division (E) of section 4755.11 of the Revised Code;
+
+(14) The physical therapy section of the occupational therapy, physical therapy, and athletic trainers board when determining whether to suspend a license without a hearing pursuant to division (F) of section 4755.47 of the Revised Code;
+
+(15) The athletic trainers section of the occupational therapy, physical therapy, and athletic trainers board when determining whether to suspend a license without a hearing pursuant to division (E) of section 4755.64 of the Revised Code;
+
+(16) Meetings of the pregnancy-associated mortality review board established under section 5180.27 of the Revised Code;
+
+(17) Meetings of a fetal-infant mortality review board established under section 3707.71 of the Revised Code;
+
+(18) Meetings of a drug overdose fatality review committee described in section 307.631 of the Revised Code;
+
+(19) Meetings of a suicide fatality review committee described in section 307.641 of the Revised Code;
+
+(20) Meetings of the officers, members, or directors of an existing qualified nonprofit corporation that creates a special improvement district under Chapter 1710. of the Revised Code, at which the public business of the corporation pertaining to a purpose for which the district is created is not discussed;
+
+(21) Meetings of a domestic violence fatality review board established under section 307.651 of the Revised Code;
+
+(22) Any nonprofit agency that has received an endorsement under section 5101.315 of the Revised Code.
+
+(E) The controlling board, the tax credit authority, or the minority development financing advisory board, when meeting to consider granting assistance pursuant to Chapter 122. or 166. of the Revised Code, in order to protect the interest of the applicant or the possible investment of public funds, by unanimous vote of all board or authority members present, may close the meeting during consideration of the following information confidentially received by the authority or board from the applicant:
+
+(1) Marketing plans;
+
+(2) Specific business strategy;
+
+(3) Production techniques and trade secrets;
+
+(4) Financial projections;
+
+(5) Personal financial statements of the applicant or members of the applicant's immediate family, including, but not limited to, tax records or other similar information not open to public inspection.
+
+The vote by the authority or board to accept or reject the application, as well as all proceedings of the authority or board not subject to this division, shall be open to the public and governed by this section.
+
+(F) Every public body, by rule, shall establish a reasonable method whereby any person may determine the time and place of all regularly scheduled meetings and the time, place, and purpose of all special meetings. A public body shall not hold a special meeting unless it gives at least twenty-four hours' advance notice to the news media that have requested notification, except in the event of an emergency requiring immediate official action. In the event of an emergency, the member or members calling the meeting shall notify the news media that have requested notification immediately of the time, place, and purpose of the meeting.
+
+The rule shall provide that any person, upon request and payment of a reasonable fee, may obtain reasonable advance notification of all meetings at which any specific type of public business is to be discussed. Provisions for advance notification may include, but are not limited to, mailing the agenda of meetings to all subscribers on a mailing list or mailing notices in self-addressed, stamped envelopes provided by the person.
+
+(G) Except as provided in divisions (G)(8) and (J) of this section, the members of a public body may hold an executive session only after a majority of a quorum of the public body determines, by a roll call vote, to hold an executive session and only at a regular or special meeting for the sole purpose of the consideration of any of the following matters:
+
+(1) To consider the appointment, employment, dismissal, discipline, promotion, demotion, or compensation of a public employee or official, or the investigation of charges or complaints against a public employee, official, licensee, or regulated individual, unless the public employee, official, licensee, or regulated individual requests a public hearing. Except as otherwise provided by law, no public body shall hold an executive session for the discipline of an elected official for conduct related to the performance of the elected official's official duties or for the elected official's removal from office. If a public body holds an executive session pursuant to division (G)(1) of this section, the motion and vote to hold that executive session shall state which one or more of the approved purposes listed in division (G)(1) of this section are the purposes for which the executive session is to be held, but need not include the name of any person to be considered at the meeting.
+
+(2) To consider the purchase of property for public purposes, the sale of property at competitive bidding, or the sale or other disposition of unneeded, obsolete, or unfit-for-use property in accordance with section 505.10 of the Revised Code, if premature disclosure of information would give an unfair competitive or bargaining advantage to a person whose personal, private interest is adverse to the general public interest. No member of a public body shall use division (G)(2) of this section as a subterfuge for providing covert information to prospective buyers or sellers. A purchase or sale of public property is void if the seller or buyer of the public property has received covert information from a member of a public body that has not been disclosed to the general public in sufficient time for other prospective buyers and sellers to prepare and submit offers.
+
+If the minutes of the public body show that all meetings and deliberations of the public body have been conducted in compliance with this section, any instrument executed by the public body purporting to convey, lease, or otherwise dispose of any right, title, or interest in any public property shall be conclusively presumed to have been executed in compliance with this section insofar as title or other interest of any bona fide purchasers, lessees, or transferees of the property is concerned.
+
+(3) Conferences with an attorney for the public body concerning disputes involving the public body that are the subject of pending or imminent court action;
+
+(4) Preparing for, conducting, or reviewing negotiations or bargaining sessions with public employees concerning their compensation or other terms and conditions of their employment;
+
+(5) Matters required to be kept confidential by federal law or regulations or state statutes;
+
+(6) Details relative to the security arrangements and emergency response protocols for a public body or a public office, if disclosure of the matters discussed could reasonably be expected to jeopardize the security of the public body or public office;
+
+(7) In the case of a county hospital operated pursuant to Chapter 339. of the Revised Code, a joint township hospital operated pursuant to Chapter 513. of the Revised Code, or a municipal hospital operated pursuant to Chapter 749. of the Revised Code, to consider trade secrets, as defined in section 1333.61 of the Revised Code;
+
+(8) To consider confidential information related to the marketing plans, specific business strategy, production techniques, trade secrets, or personal financial statements of an applicant for economic development assistance, or to negotiations with other political subdivisions respecting requests for economic development assistance, provided that both of the following conditions apply:
+
+(a) The information is directly related to a request for economic development assistance that is to be provided or administered under any provision of Chapter 715., 725., 1724., or 1728. or sections 701.07 , 3735.67 to 3735.70 , 5709.40 to 5709.43 , 5709.61 to 5709.69 , 5709.73 to 5709.75 , or 5709.77 to 5709.81 of the Revised Code, or that involves public infrastructure improvements or the extension of utility services that are directly related to an economic development project.
+
+(b) A unanimous quorum of the public body determines, by a roll call vote, that the executive session is necessary to protect the interests of the applicant or the possible investment or expenditure of public funds to be made in connection with the economic development project.
+
+If a public body holds an executive session to consider any of the matters listed in divisions (G)(2) to (8) of this section, the motion and vote to hold that executive session shall state which one or more of the approved matters listed in those divisions are to be considered at the executive session.
+
+A public body specified in division (B)(1)(c) of this section shall not hold an executive session when meeting for the purposes specified in that division.
+
+(H) A resolution, rule, or formal action of any kind is invalid unless adopted in an open meeting of the public body. A resolution, rule, or formal action adopted in an open meeting that results from deliberations in a meeting not open to the public is invalid unless the deliberations were for a purpose specifically authorized in division (G) or (J) of this section and conducted at an executive session held in compliance with this section. A resolution, rule, or formal action adopted in an open meeting is invalid if the public body that adopted the resolution, rule, or formal action violated division (F) of this section.
+
+(I)(1) Any person may bring an action to enforce this section. An action under division (I)(1) of this section shall be brought within two years after the date of the alleged violation or threatened violation. Upon proof of a violation or threatened violation of this section in an action brought by any person, the court of common pleas shall issue an injunction to compel the members of the public body to comply with its provisions.
+
+(2)(a) If the court of common pleas issues an injunction pursuant to division (I)(1) of this section, the court shall order the public body that it enjoins to pay a civil forfeiture of five hundred dollars to the party that sought the injunction and shall award to that party all court costs and, subject to reduction as described in division (I)(2) of this section, reasonable attorney's fees. The court, in its discretion, may reduce an award of attorney's fees to the party that sought the injunction or not award attorney's fees to that party if the court determines both of the following:
+
+(i) That, based on the ordinary application of statutory law and case law as it existed at the time of violation or threatened violation that was the basis of the injunction, a well-informed public body reasonably would believe that the public body was not violating or threatening to violate this section;
+
+(ii) That a well-informed public body reasonably would believe that the conduct or threatened conduct that was the basis of the injunction would serve the public policy that underlies the authority that is asserted as permitting that conduct or threatened conduct.
+
+(b) If the court of common pleas does not issue an injunction pursuant to division (I)(1) of this section and the court determines at that time that the bringing of the action was frivolous conduct, as defined in division (A) of section 2323.51 of the Revised Code, the court shall award to the public body all court costs and reasonable attorney's fees, as determined by the court.
+
+(3) Irreparable harm and prejudice to the party that sought the injunction shall be conclusively and irrebuttably presumed upon proof of a violation or threatened violation of this section.
+
+(4) A member of a public body who knowingly violates an injunction issued pursuant to division (I)(1) of this section may be removed from office by an action brought in the court of common pleas for that purpose by the prosecuting attorney or the attorney general.
+
+(J)(1) Pursuant to division (C) of section 5901.09 of the Revised Code, a veterans service commission shall hold an executive session for one or more of the following purposes unless an applicant requests a public hearing:
+
+(a) Interviewing an applicant for financial assistance under sections 5901.01 to 5901.15 of the Revised Code;
+
+(b) Discussing applications, statements, and other documents described in division (B) of section 5901.09 of the Revised Code;
+
+(c) Reviewing matters relating to an applicant's request for financial assistance under sections 5901.01 to 5901.15 of the Revised Code.
+
+(2) A veterans service commission shall not exclude an applicant for, recipient of, or former recipient of financial assistance under sections 5901.01 to 5901.15 of the Revised Code, and shall not exclude representatives selected by the applicant, recipient, or former recipient, from a meeting that the commission conducts as an executive session that pertains to the applicant's, recipient's, or former recipient's application for financial assistance.
+
+(3) A veterans service commission shall vote on the grant or denial of financial assistance under sections 5901.01 to 5901.15 of the Revised Code only in an open meeting of the commission. The minutes of the meeting shall indicate the name, address, and occupation of the applicant, whether the assistance was granted or denied, the amount of the assistance if assistance is granted, and the votes for and against the granting of assistance.
+
+Last updated July 23, 2025 at 9:02 AM

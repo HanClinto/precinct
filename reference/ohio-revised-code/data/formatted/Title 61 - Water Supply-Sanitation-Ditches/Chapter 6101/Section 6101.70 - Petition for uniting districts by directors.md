@@ -1,0 +1,22 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-6101.70
+Scraped: 2026-07-02T20:17:05+00:00
+
+# Section 6101.70 - Petition for uniting districts by directors.
+
+**Effective:** September 21, 2000
+
+**Latest Legislation:** House Bill 617 - 123rd General Assembly
+
+(A) If two or more conservancy districts have been organized in a territory which, in the opinion of the board of directors of the conservancy district of any one of the districts, should constitute only one district, the board of any one of the districts may petition the court for an order uniting those districts into a single district. The petition shall be filed in the office of the clerk of the court of common pleas of that county that has the greatest valuation of real property within the districts sought to be included, as shown by the tax duplicates of the respective counties. The petition shall set forth the necessity for the union of the two or more districts and that the union of the districts would be conducive to the public health, convenience, safety, or welfare and to the economical execution of the purposes for which the districts were organized. Upon receipt of the petition, the clerk shall give notice by publication or by personal service to the boards of the districts that it is desired to unite with the district of the petitioners. The notice shall contain the time and place where the hearing on the petition will be had and the purpose of the hearing. The hearing shall be had in accordance with this chapter as for an original hearing. If, after the hearing, the court finds that the averments of the petition are true and that the districts, or any of them, should be united, it shall so order, and thereafter those districts shall be united into one and proceed as one. The court shall designate the corporate name of the united district, and further proceedings shall be taken as provided for in this chapter. In accordance with division (A) or (B) of section 6101.10 of the Revised Code, as applicable, the court shall direct in the order who shall be the members of the board of the united district, who shall thereafter have the powers and be subject to the regulations as are provided for the board in districts created in the first instance.
+
+(B) All legal proceedings already instituted by or against any of the constituent districts united into a single district under division (A) of this section may be revived and continued against the united district by an order of court substituting the name of the united district for the constituent district, and those proceedings shall then proceed as provided in this chapter.
+
+(C) Instead of organizing a new district from the constituent districts, the court may do one of the following:
+
+(1) Direct that one or more of the districts described in the petition be included into another of the districts, which other district shall continue under its original corporate name and organization, unless the resulting district includes all or parts of more than sixteen counties, in which case the court shall appoint two additional members whose appointments and terms of office shall comply with the requirements established in division (C) of section 6101.10 of the Revised Code;
+
+(2) Direct that the districts absorbed as described in division (C)(1) of this section shall be represented on the board of the original district, designating what members of the board of the original district shall be retired from the new board and what members representing the included districts shall take their places, except that, if the resulting district includes all or parts of more than sixteen counties, the court also shall appoint two additional members whose appointments and terms of office shall comply with the requirements established in division (C) of section 6101.10 of the Revised Code;
+
+(3) Direct that the included districts shall become subdistricts of the main district.
+
+(D) If the districts sought to be united were organized in different counties, the court to determine the question involved shall consist of one judge from each of the counties in the court of which one of the districts was organized, and a majority shall be necessary to render a decision. From the decision or from a failure to decide, any interested property owner may appeal. No action under this section shall interrupt or delay any proceeding under this chapter, until the questions involved are finally determined.

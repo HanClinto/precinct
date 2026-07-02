@@ -1,0 +1,84 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-1311
+Scraped: 2026-07-02T19:37:10+00:00
+
+# Chapter 1311 - Liens
+
+## Sections
+
+- Section 1311.01 - Lien definitions.
+- Section 1311.011 - Liens for home construction work.
+- Section 1311.02 - Lien of subcontractor, laborer or materialman.
+- Section 1311.021 - Lien for labor or work or materials upon oil or gas well or facilities.
+- Section 1311.03 - Lien upon street, turnpike, road, sidewalk, way, drain, ditch or sewer.
+- Section 1311.04 - Recording notice of commencement.
+- Section 1311.05 - Subcontractor or materialman to serve notice of furnishing.
+- Section 1311.06 - Affidavit - time period for filing - contents.
+- Section 1311.07 - Copy of affidavit to be served on owner or lessee.
+- Section 1311.08 - Lien when improvement situated on same or contiguous or adjacent lots.
+- Section 1311.09 - Lien when contracting person has no title to land improved.
+- Section 1311.10 - Presumptions.
+- Section 1311.11 - Notifying lienholder to commence suit.
+- Section 1311.12 - When lien for furnishing materials arises.
+- Section 1311.13 - Attaching of liens - continuance and priority.
+- Section 1311.14 - Priority of mortgage lien.
+- Section 1311.15 - Superiority of liens - assignment - direct payment of claim of subcontractor, materialman or laborer.
+- Section 1311.16 - Proceeding by person holding mechanic's lien.
+- Section 1311.17 - Adjustment of claim when owner fails to perform.
+- Section 1311.18 - Sale of part of premises.
+- Section 1311.19 - Service.
+- Section 1311.20 - Damages for neglect or refusal to release lien.
+- Section 1311.21 - Liens are assignable - lien not defeated by taking note or security - notice of claim not yet due - lis pendens.
+- Section 1311.22 - Liberal construction.
+- Section 1311.23 - Lien upon mines for labor.
+- Section 1311.25 - Public improvement definitions.
+- Section 1311.251 - Claim for furnishing materials.
+- Section 1311.252 - Notice of commencement - affidavit.
+- Section 1311.26 - Subcontractor, materialman or laborer may serve affidavit on public authority.
+- Section 1311.261 - Notice of furnishing.
+- Section 1311.28 - Public authority to detain funds upon receipt of affidavit - escrow account.
+- Section 1311.29 - Copy of affidavit to be filed with county recorder to notify other subcontractors, materialmen, and laborers - priority of claims.
+- Section 1311.31 - Action by claimant to enforce payment.
+- Section 1311.311 - Notice to commence suit.
+- Section 1311.32 - Enforcement by civil action.
+- Section 1311.34 - Laborers shall have lien upon real property of employer.
+- Section 1311.35 - Waiver of lien.
+- Section 1311.36 - Enforcement and priority of liens.
+- Section 1311.37 - When general employer assumes payment.
+- Section 1311.38 - Definition of owner.
+- Section 1311.39 - Liens against a railroad company.
+- Section 1311.40 - Priority of payment in contracts for railroad work.
+- Section 1311.41 - Precedence.
+- Section 1311.42 - Perfecting a lien.
+- Section 1311.43 - Proceeding after filing affidavit.
+- Section 1311.44 - Proceeding by petition.
+- Section 1311.45 - Contractor to be notified of time of payment.
+- Section 1311.46 - Adjusting disputed claims.
+- Section 1311.47 - Others who may claim liens.
+- Section 1311.48 - Lien for care of animals.
+- Section 1311.49 - Sale of animal to satisfy claim.
+- Section 1311.50 - Lien upon get for service.
+- Section 1311.51 - Enforcement of lien.
+- Section 1311.55 - Agricultural product lien.
+- Section 1311.56 - Perfection of producer's or handler's lien - affidavit.
+- Section 1311.57 - Priority and duration of lien.
+- Section 1311.59 - Rights of executors, administrators, part owners, and lessees.
+- Section 1311.71 - Aircraft definitions.
+- Section 1311.72 - Lien for storage, labor, or materials for aircraft.
+- Section 1311.721 - Notice to abandoned aircraft owner.
+- Section 1311.73 - Lien perfected by filing affidavit with FAA - form of affidavit - time period for filing.
+- Section 1311.74 - Service of copy of affidavit on owner.
+- Section 1311.75 - Priority of liens.
+- Section 1311.76 - Enforcement and priority of liens - claimant to give notice of release.
+- Section 1311.77 - Owner may obtain release of aircraft by filing surety bond.
+- Section 1311.78 - Notifying lien claimant to commence suit.
+- Section 1311.79 - Maintaining lien after notice to commence suit.
+- Section 1311.80 - Award of attorney's fees.
+- Section 1311.85 - Broker's lien on commercial realty definitions.
+- Section 1311.86 - Broker's lien on commercial real estate.
+- Section 1311.87 - Perfection of lien.
+- Section 1311.88 - Proceedings to enforce lien.
+- Section 1311.89 - Sale of foreclosed property - alternative dispute resolution.
+- Section 1311.90 - Broker to record release or satisfaction.
+- Section 1311.91 - Priority of mechanic's liens.
+- Section 1311.92 - Transfer of lien property - escrow account.
+- Section 1311.93 - Liability of broker.

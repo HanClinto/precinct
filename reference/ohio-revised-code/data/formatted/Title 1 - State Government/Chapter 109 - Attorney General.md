@@ -1,0 +1,156 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-109
+Scraped: 2026-07-02T19:31:26+00:00
+
+# Chapter 109 - Attorney General
+
+## Sections
+
+- Section 109.01 - Election - term.
+- Section 109.02 - Duties as chief law officer.
+- Section 109.03 - Appointment of assistant attorney general and chief counsel - duties.
+- Section 109.04 - Powers and duties of first assistant attorney general.
+- Section 109.05 - Employees.
+- Section 109.06 - Bond.
+- Section 109.07 - Special counsel.
+- Section 109.08 - Special counsel to collect claims.
+- Section 109.081 - Attorney general claims fund.
+- Section 109.082 - Problem resolution officers for tax collection complaints.
+- Section 109.09 - Action on official bonds.
+- Section 109.10 - Proceedings in quo warranto.
+- Section 109.11 - Attorney general reimbursement fund.
+- Section 109.111 - Attorney general court order and settlement fund.
+- Section 109.112 - Notice of receipt of funds; disposition of funds.
+- Section 109.113 - Large settlements and awards fund.
+- Section 109.12 - Legal advice to state officers and boards.
+- Section 109.121 - Real property title review and opinion.
+- Section 109.122 - Review of entertainment or sponsorship contracts of expositions commission.
+- Section 109.13 - General assembly may require written opinions.
+- Section 109.14 - Attorney general shall advise prosecuting attorneys and township law directors.
+- Section 109.15 - Forms of contracts.
+- Section 109.16 - Suits may be brought in Franklin county.
+- Section 109.17 - Writs in other counties.
+- Section 109.18 - Service by publication.
+- Section 109.19 - Security for costs and verification of pleadings.
+- Section 109.20 - Actions to be taken out of their order.
+- Section 109.21 - Moneys paid into general revenue fund.
+- Section 109.22 - Registers shall be kept.
+- Section 109.23 - Charitable trust defined.
+- Section 109.231 - Prohibited administrative acts.
+- Section 109.232 - Amendment of governing instrument of trust.
+- Section 109.24 - Investigating transactions and relationships of trustees of charitable trust.
+- Section 109.25 - Attorney general is necessary party to charitable trust proceedings.
+- Section 109.26 - Registration of charitable trusts.
+- Section 109.27 - Administrative rules.
+- Section 109.28 - Inspection of register of charitable trusts.
+- Section 109.29 - Courts to furnish information relating to charitable trusts.
+- Section 109.30 - Notice of creation of charitable trust to attorney general and specified persons after probate of will.
+- Section 109.31 - Trustee's annual report to attorney general.
+- Section 109.32 - Charitable law fund.
+- Section 109.33 - Employees.
+- Section 109.34 - Notice of transactions by nonprofit health care entity.
+- Section 109.35 - Approval or disapproval of proposed transactions.
+- Section 109.36 - Defense of officers and employees definitions.
+- Section 109.361 - Defense of state officer or employee in civil action.
+- Section 109.362 - Investigation as to whether action was manifestly outside scope of duties or with malicious purpose or in bad faith.
+- Section 109.363 - Employer to provide written report and information.
+- Section 109.364 - Denial of representation.
+- Section 109.365 - Information obtained is privileged.
+- Section 109.366 - Administrative rules.
+- Section 109.37 - Legal representation of correctional employee.
+- Section 109.38 - Solicitor general.
+- Section 109.39 - [Former R.C. 103.73, amended and renumbered as R.C. 109.39 by H.B. 96, 136th General Assembly, effective 9/30/2025] Office of correctional facility inspection services.
+- Section 109.40 - Compilation of statutes relative to obscenity.
+- Section 109.41 - Claiming escheated property.
+- Section 109.42 - Compilation of laws relative to victim's rights.
+- Section 109.43 - Public records training programs - model public records policy.
+- Section 109.46 - Domestic violence program fund.
+- Section 109.51 - Bureau of criminal identification and investigation created.
+- Section 109.511 - Felony conviction precludes or terminates employment.
+- Section 109.52 - Operation and maintenance of bureau.
+- Section 109.521 - Bureau of criminal identification and investigation asset forfeiture and cost reimbursement fund.
+- Section 109.53 - Equipment of bureau.
+- Section 109.54 - Cooperation of other governmental agencies.
+- Section 109.541 - Powers and duties of bureau.
+- Section 109.542 - Investigative personnel are peace officers.
+- Section 109.55 - Coordination of law enforcement work and crime prevention activities.
+- Section 109.56 - Training local law enforcement officers in crime prevention, detection, and solution.
+- Section 109.57 - Duties of superintendent.
+- Section 109.571 - National crime prevention and privacy compact.
+- Section 109.572 - Criminal records check.
+- Section 109.573 - DNA laboratory - databases.
+- Section 109.574 - Volunteers have unsupervised access to children definitions.
+- Section 109.575 - Information provided by volunteers having access to children.
+- Section 109.576 - Notice of volunteer's conviction.
+- Section 109.577 - Immunity from civil liability.
+- Section 109.578 - Criminal records check.
+- Section 109.579 - Criminal records check.
+- Section 109.5721 - Retained applicant fingerprint database.
+- Section 109.58 - Standard fingerprint impression sheet.
+- Section 109.59 - Fingerprint impressions and other descriptive measurements.
+- Section 109.60 - Forwarding fingerprints and descriptions to bureau - annual methamphetamine report.
+- Section 109.61 - Sheriff or chief of police to forward information to bureau.
+- Section 109.62 - Cooperation with interstate, national, and international system of criminal identification and investigation.
+- Section 109.63 - Superintendent may testify.
+- Section 109.64 - Periodic information bulletin concerning missing children who may be present in state.
+- Section 109.65 - Missing children clearinghouse - missing children fund.
+- Section 109.66 - Publication of statistical data on trafficking in persons.
+- Section 109.67 - Public awareness publications on elder fraud and financial exploitation of the elderly.
+- Section 109.68 - Establishment of statewide sexual assault examination kit tracking system.
+- Section 109.69 - Reciprocity agreement.
+- Section 109.70 - Prohibition against arrest and citation quotas.
+- Section 109.71 - Ohio peace officer training commission created - definitions.
+- Section 109.72 - Members - organization.
+- Section 109.73 - Rule recommendations.
+- Section 109.731 - Prescribed forms.
+- Section 109.74 - Attorney general may adopt and promulgate rules and regulations.
+- Section 109.741 - Rules governing training of peace officers in handling of missing children and child abuse and neglect cases.
+- Section 109.742 - Rules governing training of peace officers in crisis intervention.
+- Section 109.743 - Administrative rules.
+- Section 109.744 - Rules governing training of peace officers in handling of offense of domestic violence.
+- Section 109.745 - Training for investigating and handling crime of trafficking in persons.
+- Section 109.746 - Public awareness programs regarding trafficking in persons.
+- Section 109.747 - Rules governing training of peace officers on companion animal encounters and companion animal behavior.
+- Section 109.748 - Rules governing the training of tactical medical professionals to carry firearms.
+- Section 109.749 - Training materials on restraining or confining pregnant children or women.
+- Section 109.7410 - Rules governing training of peace officers interacting with individuals with dementia.
+- Section 109.7411 - Rules governing hospital security personnel access to online training.
+- Section 109.7412 - [Enacted as R.C. 109.7411 by H.B. 315, 135th General Assembly, and recodified as R.C. 109.7412 pursuant to R.C. 103.131] Peace officer training regarding at-risk youth.
+- Section 109.7481 - Rules governing training of fire investigators to carry firearms.
+- Section 109.75 - Powers and duties of peace officer training commission executive director.
+- Section 109.751 - Attendance of undercover drug agents, bailiffs, deputy bailiffs or public defender investigators at basic training programs.
+- Section 109.752 - Sheriff attending peace officer basic training programs.
+- Section 109.76 - Peace officers not exempted from civil service.
+- Section 109.761 - Reports of appointment to peace officer training commission.
+- Section 109.77 - Certificate of completion of basic training program necessary for appointment.
+- Section 109.771 - Authority of tactical medical professionals to carry firearms.
+- Section 109.772 - Authority of county correctional officer to carry firearms.
+- Section 109.773 - Rules governing the attendance of county correctional officers at peace officer training schools.
+- Section 109.774 - Qualifications for fire investigators to carry firearms.
+- Section 109.78 - Certification of special police, security guards, or persons otherwise privately employed in a police capacity.
+- Section 109.79 - Ohio peace officer training academy.
+- Section 109.791 - Peace officer training - sergeants and above.
+- Section 109.80 - Basic training course for sheriffs - continuing education.
+- Section 109.801 - Annual firearms requalification program.
+- Section 109.803 - Continuing professional training for peace officers and troopers.
+- Section 109.804 - Chief of police training course; equivalency; deferral.
+- Section 109.81 - Antitrust cases - appointment of special counsel.
+- Section 109.82 - Antitrust section - fund.
+- Section 109.83 - Investigating organized criminal activity.
+- Section 109.84 - Investigation and prosecution of violation of workers compensation law.
+- Section 109.85 - Investigation and prosecution of violation of medicaid law.
+- Section 109.86 - Investigation and prosecution of patient abuse or neglect.
+- Section 109.87 - Acts or practices in violation of federal telemarketing laws.
+- Section 109.88 - Investigation, prosecution of telecommunications and telemarketing fraud.
+- Section 109.89 - Access and use of national precursor log exchange information.
+- Section 109.90 - Collaboration in establishment and administration of drug take-back program.
+- Section 109.91 - Crime victims assistance office - state victims assistance advisory council.
+- Section 109.92 - State financial assistance to victim assistance programs that operate in state.
+- Section 109.921 - Rape crisis program trust fund.
+- Section 109.93 - Attorney general education fund.
+- Section 109.94 - Attorney general may issue identity fraud passport to victim.
+- Section 109.941 - Technical assistance regarding identity fraud crimes.
+- Section 109.95 - Criminal proceedings for election fraud.
+- Section 109.97 - Capital case status report.
+- Section 109.98 - Civil action against state retirement board member for breach of fiduciary duty.
+- Section 109.981 - Civil action against workers' compensation oversight commission member.
+- Section 109.99 - Penalty.

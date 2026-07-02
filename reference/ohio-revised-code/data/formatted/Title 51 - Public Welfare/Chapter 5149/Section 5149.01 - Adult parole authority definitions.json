@@ -1,0 +1,48 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Authority\" means the adult parole authority created by section 5149.02 of the Revised Code.\n\n(B) \"State correctional institution,\" \"pardon,\" \"commutation,\" \"reprieve,\" \"parole,\" \"head of a state correctional institution,\" \"convict,\" \"prisoner,\" \"parolee,\" \"final release,\" and \"parole violator\" have the same meanings as in section 2967.01 of the Revised Code.",
+      "id": "5149.01-authority",
+      "normalized": "authority",
+      "scope": "As used in Chapter 5149. of the Revised Code:",
+      "section": "5149.01",
+      "source_title": "Section 5149.01 - Adult parole authority definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5149.01",
+      "term": "Authority"
+    },
+    {
+      "definition": "(C) \"Full board hearing\" means a parole board hearing conducted by a majority of parole board members as described in section 5149.101 of the Revised Code.",
+      "id": "5149.01-full-board-hearing",
+      "normalized": "full board hearing",
+      "scope": "As used in Chapter 5149. of the Revised Code:",
+      "section": "5149.01",
+      "source_title": "Section 5149.01 - Adult parole authority definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5149.01",
+      "term": "Full board hearing"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "5149.02",
+      "number": "5149.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5149.02"
+    },
+    {
+      "kind": "section",
+      "label": "2967.01",
+      "number": "2967.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2967.01"
+    },
+    {
+      "kind": "section",
+      "label": "5149.101",
+      "number": "5149.101",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5149.101"
+    }
+  ],
+  "scraped": "2026-07-02T20:11:09+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5149.01",
+  "title": "Section 5149.01 - Adult parole authority definitions."
+}

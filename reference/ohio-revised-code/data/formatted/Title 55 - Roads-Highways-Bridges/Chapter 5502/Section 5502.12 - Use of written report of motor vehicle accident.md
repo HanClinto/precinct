@@ -1,0 +1,14 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5502.12
+Scraped: 2026-07-02T20:12:22+00:00
+
+# Section 5502.12 - Use of written report of motor vehicle accident.
+
+**Effective:** July 17, 2009
+
+**Latest Legislation:** House Bill 1 - 128th General Assembly
+
+(A) The accident reports submitted pursuant to section 5502.11 of the Revised Code shall be for the use of the director of public safety for purposes of statistical, safety, and other studies. The law enforcement agency that submitted a report shall furnish a copy of such report and associated documents to any person claiming an interest arising out of a motor vehicle accident, or to the person's attorney, upon the payment of a nonrefundable fee of four dollars or the amount approved by the board of county commissioners of the county in which the law enforcement agency is located as provided in division (B) of this section. With respect to accidents investigated by the state highway patrol, the director of public safety shall furnish to such person all related reports and statements upon the payment of a nonrefundable fee of four dollars. The cost of photographs or any other electronic format shall be in addition to the nonrefundable four-dollar fee for the accident report, whether the report was submitted by the state highway patrol or another law enforcement agency. A law enforcement agency may charge a fee that is in excess of four dollars for photographs and other electronic formats if such a fee is approved by a board of county commissioners of the county in which the law enforcement agency is located as provided in division (B) of this section.
+
+Such state highway patrol reports, statements, and photographs, in the discretion of the director of public safety, may be withheld until all criminal prosecution has been concluded; the director of public safety may require proof, satisfactory to the director, of the right of any applicant to be furnished such documents.
+
+(B) If, after the effective date of this amendment, the state highway patrol is authorized to charge a nonrefundable fee in excess of four dollars for an accident report relating to an accident investigated by the state highway patrol and all related reports and statements or a fee in excess of four dollars for photographs or other electronic formats related to an accident report, a law enforcement agency described in section 5502.11 of the Revised Code shall be authorized to charge that same fee for an accident report relating to an accident investigated by that law enforcement agency and all related reports and statements or for photographs or other electronic formats related to an accident report investigated by that law enforcement agency upon approval of the board of county commissioners of the county in which that law enforcement agency is located.

@@ -1,0 +1,64 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Lead abatement costs\" means costs incurred by a taxpayer for either of the following:\n\n(a) A lead abatement specialist to conduct a lead risk assessment, a lead abatement project, or a clearance examination, provided the specialist is authorized under this chapter to conduct the respective task;\n\n(b) Relocation costs incurred in the relocation of occupants of an eligible dwelling to achieve occupant protection, as described in 24 C.F.R. 35.1345(a).\n\n\"Lead abatement costs\" do not include such costs for which the taxpayer is reimbursed or such costs the taxpayer deducts or excludes in computing the taxpayer's federal adjusted gross income for federal income tax purposes or Ohio adjusted gross income as determined under section 5747.01 of the Revised Code.",
+      "id": "3742.50-lead-abatement-costs",
+      "normalized": "lead abatement costs",
+      "scope": "(A) As used in this section:",
+      "section": "3742.50",
+      "source_title": "Section 3742.50 - Lead abatement tax credit.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3742.50",
+      "term": "Lead abatement costs"
+    },
+    {
+      "definition": "(2) \"Eligible dwelling\" means a residential unit constructed in this state before 1978.",
+      "id": "3742.50-eligible-dwelling",
+      "normalized": "eligible dwelling",
+      "scope": "(A) As used in this section:",
+      "section": "3742.50",
+      "source_title": "Section 3742.50 - Lead abatement tax credit.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3742.50",
+      "term": "Eligible dwelling"
+    },
+    {
+      "definition": "(3) \"Lead abatement specialist\" means an individual who holds a valid license issued under section 3742.05 of the Revised Code.\n\n(4) \"Taxable year\" and \"taxpayer\" have the same meanings as in section 5747.01 of the Revised Code.\n\n(B) A taxpayer who incurs lead abatement costs on an eligible dwelling during a taxable year may apply to the director of health for a lead abatement tax credit certificate. The applicant shall list on the application the amount of lead abatement costs the applicant incurred for the eligible dwelling during the taxable year. The director, in consultation with the tax commissioner, shall prescribe the form of a lead abatement tax credit certificate, the manner by which an applicant shall apply for the certificate, and requirements for the submission of any record or other information an applicant must furnish with the application to verify the lead abatement costs.\n\n(C)(1) Upon receipt of an application under division (B) of this section, the director of health shall verify all of the following:\n\n(a) The residential unit that is the subject of the application is an eligible dwelling.\n\n(b) The taxpayer incurred lead abatement costs during the taxable year related to the eligible dwelling.\n\n(c) The eligible dwelling has passed a clearance examination in accordance with standards prescribed in rules adopted by the director under section 3742.03 or 3742.45 of the Revised Code.\n\n(2) After verifying the conditions described in division (C)(1) of this section, the director shall issue a lead abatement tax credit certificate to the applicant equal to the lesser of (a) the lead abatement costs incurred by the taxpayer on the eligible dwelling during the taxable year, (b) the amount of lead abatement costs listed on the application, or (c) forty thousand dollars, subject to the limitation in division (C)(3) of this section.\n\n(3) The director may not issue more than three million dollars in lead abatement tax credit certificates in any fiscal year.\n\n(D) The director of health, in consultation with the tax commissioner, may adopt rules in accordance with Chapter 119. of the Revised Code as necessary for the administration of this section.\n\nLast updated July 29, 2025 at 11:51 AM",
+      "id": "3742.50-lead-abatement-specialist",
+      "normalized": "lead abatement specialist",
+      "scope": "(A) As used in this section:",
+      "section": "3742.50",
+      "source_title": "Section 3742.50 - Lead abatement tax credit.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3742.50",
+      "term": "Lead abatement specialist"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "5747.01",
+      "number": "5747.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.01"
+    },
+    {
+      "kind": "section",
+      "label": "3742.05",
+      "number": "3742.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3742.05"
+    },
+    {
+      "kind": "section",
+      "label": "3742.03",
+      "number": "3742.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3742.03"
+    },
+    {
+      "kind": "section",
+      "label": "3742.45",
+      "number": "3742.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3742.45"
+    }
+  ],
+  "scraped": "2026-07-02T20:00:51+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3742.50",
+  "title": "Section 3742.50 - Lead abatement tax credit."
+}

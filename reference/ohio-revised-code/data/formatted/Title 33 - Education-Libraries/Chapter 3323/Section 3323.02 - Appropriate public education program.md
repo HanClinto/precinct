@@ -1,0 +1,24 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3323.02
+Scraped: 2026-07-02T19:49:04+00:00
+
+# Section 3323.02 - Appropriate public education program.
+
+**Effective:** January 1, 2025
+
+**Latest Legislation:** House Bill 101 - 135th General Assembly
+
+As used in this section, "IDEIA" means the "Individuals with Disabilities Education Improvement Act of 2004," Pub. L. No. 108-446.
+
+It is the purpose of this chapter to ensure that all children with disabilities residing in this state who are at least three years of age and less than twenty-two years of age, including children with disabilities who have been suspended or expelled from school, have available to them a free appropriate public education. No school district, county board of developmental disabilities, or other educational agency shall receive state or federal funds for special education and related services unless those services for children with disabilities are provided in accordance with IDEIA and related provisions of the Code of Federal Regulations, the provisions of this chapter, rules and standards adopted by the department of education and workforce, and any procedures or guidelines issued by the director of education and workforce. Any options or discretion provided to the state by IDEIA may be exercised in state law or in rules or standards adopted by the department of education and workforce.
+
+The department of education and workforce shall establish rules or standards for the provision of special education and related services for all children with disabilities who are at least three years of age and less than twenty-two years of age residing in the state, regardless of the severity of their disabilities, including children with disabilities who have been suspended or expelled from school. The department of education and workforce shall consult with the department of children and youth on rules or standards regarding the provision of special education and related services for children with disabilities from three to five years of age. The state law and the rules or standards of the department of education and workforce may impose requirements that are not required by IDEIA or related provisions of the Code of Federal Regulations. The school district of residence is responsible, in all instances, for ensuring that the requirements of Part B of IDEIA are met for every eligible child in its jurisdiction, regardless of whether services are provided by another school district, other educational agency, or other agency, department, or entity, unless IDEIA or related provisions of the Code of Federal Regulations, another section of this chapter, or a rule adopted by the department of education and workforce specifies that another school district, other educational agency, or other agency, department, or entity is responsible for ensuring compliance with Part B of IDEIA.
+
+The department of children and youth shall, as appropriate, incorporate the department of education and workforce's rules or standards for providing special education and related services for children with disabilities into the licensing requirements for preschool programs under sections 3301.52 to 3301.59 of the Revised Code.
+
+Notwithstanding division (A)(4) of section 3301.53 of the Revised Code and any rules adopted pursuant to that section and division (A) of section 3313.646 of the Revised Code, a board of education of a school district may provide special education and related services for preschool children with disabilities in accordance with this chapter and section 3301.52 , divisions (A)(1) to (3) and (A)(5) and (6) of section 3301.53 , and sections 3301.54 to 3301.59 of the Revised Code.
+
+The department of education and workforce may require any state or local agency to provide documentation that special education and related services for children with disabilities provided by the agency are in compliance with the requirements of this chapter.
+
+Not later than the first day of February of each year the department of education and workforce shall furnish the chairpersons of the education committees of the house of representatives and the senate with a report on the status of implementation of special education and related services for children with disabilities required by this chapter. The report shall include but shall not be limited to the following items: the most recent available figures on the number of children identified as children with disabilities and the number of identified children receiving special education and related services. The information contained in these reports shall be public information.
+
+Last updated January 1, 2025 at 5:22 AM

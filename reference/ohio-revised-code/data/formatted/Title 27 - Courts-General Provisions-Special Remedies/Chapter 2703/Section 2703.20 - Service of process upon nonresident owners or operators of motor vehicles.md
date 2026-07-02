@@ -1,0 +1,14 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-2703.20
+Scraped: 2026-07-02T19:44:47+00:00
+
+# Section 2703.20 - Service of process upon nonresident owners or operators of motor vehicles.
+
+**Effective:** October 4, 1955
+
+**Latest Legislation:** Senate Bill 60 - 101st General Assembly
+
+Any nonresident of this state, being the operator or owner of any motor vehicle, who accepts the privilege extended by the laws of this state to nonresident operators and owners, of operating a motor vehicle or of having the same operated, within this state, or any resident of this state, being the licensed operator or owner of any motor vehicle under the laws of this state, who subsequently becomes a nonresident or conceals his whereabouts, by such acceptance or licensure and by the operation of such motor vehicle within this state makes the secretary of state of the state of Ohio his agent for the service of process in any civil suit or proceeding instituted in the courts of this state against such operator or owner of such motor vehicle, arising out of, or by reason of, any accident or collision occurring within this state in which such motor vehicle is involved. Such appointment shall be irrevocable and binding upon the executor or administrator of such nonresident operator or owner.
+
+Such process shall be served, by the officer to whom the same is directed, or by the sheriff of Franklin county, who may be deputized for such purposes by the officer to whom the service is directed, upon the secretary of state by leaving at the office of the secretary of state, at least fifteen days before the return day of such process, a true and attested copy thereof, and by sending to the defendant, by registered mail, postage pre-paid, a like true and attested copy, with an indorsement thereon of the service upon said secretary of state, addressed to such defendant at his last known address. The registered mail return receipt of such defendant shall be attached to and made a part of the return of service of such process.
+
+Where the nonresident operator or owner dies prior to the commencement of an action brought pursuant to this section, service of process may be made on the executor or administrator of such nonresident operator or owner in the same manner and on the same notice as is provided in the case of a nonresident operator or owner. Where an action has been commenced under the provisions of this section by service on a defendant who dies thereafter the court must allow the action to be continued against his executor or administrator upon motion with such notice as the court deems proper. Where the nonresident operator or owner of such motor vehicle is an infant, service in the manner provided in this section shall be made upon the infant only, and service upon the persons named in section 2703.13 of the Revised Code shall not be required.

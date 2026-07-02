@@ -1,0 +1,26 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-2721.21
+Scraped: 2026-07-02T19:45:15+00:00
+
+# Section 2721.21 - Action for registry listing where childhood sexual abuse action barred.
+
+**Effective:** August 3, 2006
+
+**Latest Legislation:** Senate Bill 17 - 126th General Assembly
+
+(A) As used in this section:
+
+(1) "Defendant" means a person against whom an individual believes that, but for the expiration of the limitation period for the cause of action under section 2305.111 of the Revised Code, the individual would have a cause of action for assault or battery based on childhood sexual abuse.
+
+(2) "Prosecuting attorney" means the prosecuting attorney of the county in which the defendant resides or, if the defendant does not reside in this state, the prosecuting attorney of Franklin county.
+
+(3) "Reside" has the same meaning as in section 3797.01 of the Revised Code.
+
+(B) In any case in which an individual is precluded from commencing a civil action for assault or battery based on childhood sexual abuse against a person solely because the limitation period under section 2305.111 of the Revised Code for the action expired on or before the effective date of this section, the attorney general or the prosecuting attorney may bring an action in a court designated in division (C) of this section for a declaratory judgment finding that the person would have been liable for assault or battery based on childhood sexual abuse but for the expiration of the limitation period under section 2305.111 of the Revised Code. The attorney general or prosecuting attorney may bring an action pursuant to this section only for childhood sexual abuse that allegedly occurred in this state.
+
+(C) If an individual believes that, but for the expiration of the limitation period under section 2305.111 of the Revised Code for an action for assault or battery based on childhood sexual abuse on or before the effective date of this section, the individual would have a cause of action against a defendant for assault or battery based on childhood sexual abuse that occurred in this state, the individual may serve written notice of the individual's belief and the basis for the belief simultaneously on the defendant, the attorney general, and the prosecuting attorney. The individual shall serve the notice by certified mail, return receipt requested. The prosecuting attorney within forty-five days after receipt of the notice may commence an action pursuant to division (B) of this section in the court of common pleas of the county in which the prosecuting attorney is elected. If the prosecuting attorney does not commence an action within that forty-five day period, the attorney general within ninety days after receipt of the notice may commence an action pursuant to division (B) of this section in the Franklin county court of common pleas or the court of common pleas of the county in which the defendant resides. If neither the attorney general nor the prosecuting attorney commences an action pursuant to division (B) of this section within the appropriate forty-five-day or ninety-day period after receiving the notice, the individual may commence an action in the court of common pleas of the county in which the individual or the defendant resides or in which the childhood sexual abuse allegedly occurred for a declaratory judgment finding that the defendant would be liable for assault or battery based on childhood sexual abuse but for the expiration of the limitation period under section 2305.111 of the Revised Code.
+
+(D) If the court finds by a preponderance of the evidence in an action brought pursuant to this section that the defendant would be liable for assault or battery based on childhood sexual abuse but for the expiration of the limitation period under section 2305.111 of the Revised Code, the court shall enter a judgment with that finding against the defendant and shall order that the defendant be listed on the civil registry maintained by the attorney general pursuant to section 3797.08 of the Revised Code. The court shall notify the defendant of the defendant's obligations under sections 3797.02 , 3797.03 , and 3797.04 of the Revised Code.
+
+(E) In an action brought by an individual pursuant to division (C) of this section, the court may award reasonable attorney's fees to the prevailing party.
+
+(F) After the expiration of six years from the date on which a court orders pursuant to this section that an individual be listed on the civil registry maintained by the attorney general pursuant to section 3797.08 of the Revised Code, the registrant may apply to the court that issued the order to be removed from the registry. The court may order that the individual's name be removed from the registry if the court finds by clear and convincing evidence that since the individual was first listed on the civil registry the individual has not been found liable in damages in an action for assault or battery based on childhood sexual abuse, has not been required to register pursuant to section 2950.04 or 2950.041 of the Revised Code or a similar statute of any other state, and is not likely to commit an act in the future that would subject the individual to the requirement to register under section 2950.04 , 2950.041 , or 3797.02 of the Revised Code.

@@ -1,0 +1,54 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Motor vehicle\" has the same meaning as in section 4501.01 of the Revised Code.",
+      "id": "4123.932-motor-vehicle",
+      "normalized": "motor vehicle",
+      "scope": "(A) As used in this section:",
+      "section": "4123.932",
+      "source_title": "Section 4123.932 - Claims likely to be subrogated by a third party.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4123.932",
+      "term": "Motor vehicle"
+    },
+    {
+      "definition": "(2) \"Primarily liable\" means more than fifty per cent liable for purposes of section 2315.33 of the Revised Code.\n\n(B) Any compensation and benefits related to a claim that is compensable under this chapter or Chapter 4121., 4127., or 4131. of the Revised Code shall be charged to the surplus fund account created under division (B) of section 4123.34 of the Revised Code and not charged to an individual employer's experience if, upon the administrator's determination, all of the following apply to that claim:\n\n(1) The employer of the employee who is the subject of the claim pays premiums into the state insurance fund.\n\n(2) The claim is based on a motor vehicle accident involving a third party.\n\n(3) Either of the following circumstances apply to the claim:\n\n(a) The third party is issued a citation for violation of any law or ordinance regulating the operation of a motor vehicle arising from the accident on which the claim is based and the claim is covered by any form of insurance maintained by the third party or by uninsured or underinsured motorist coverage as described in section 3937.18 of the Revised Code.\n\n(b) The third party is primarily liable for the motor vehicle accident on which the claim is based and the claim is covered by any form of insurance maintained by the third party or by uninsured or underinsured motorist coverage as described in section 3937.18 of the Revised Code.\n\n(C) If an employer believes division (B) of this section applies to a claim about which an employee of the employer is the subject, the employer may file a request with the administrator for a determination by the administrator as to whether the claim is to be charged to the surplus fund account pursuant to this section.\n\n(D)(1) Within one hundred eighty days after the administrator receives a request made under division (C) of this section, the administrator shall determine whether the claim for which the request is made shall be charged to the surplus fund account pursuant to this section.\n\n(2) If the administrator fails to make a determination under division (D)(1) of this section within the time required, the administrator shall charge the claim for which the request was made to the surplus fund account pursuant to this section.\n\n(E) This section does not apply if the employer of the employee who is the subject of the claim is the state or a state institution of higher education, including its hospitals.",
+      "id": "4123.932-primarily-liable",
+      "normalized": "primarily liable",
+      "scope": "(A) As used in this section:",
+      "section": "4123.932",
+      "source_title": "Section 4123.932 - Claims likely to be subrogated by a third party.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4123.932",
+      "term": "Primarily liable"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "4501.01",
+      "number": "4501.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4501.01"
+    },
+    {
+      "kind": "section",
+      "label": "2315.33",
+      "number": "2315.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2315.33"
+    },
+    {
+      "kind": "section",
+      "label": "4123.34",
+      "number": "4123.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.34"
+    },
+    {
+      "kind": "section",
+      "label": "3937.18",
+      "number": "3937.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3937.18"
+    }
+  ],
+  "scraped": "2026-07-02T20:04:17+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4123.932",
+  "title": "Section 4123.932 - Claims likely to be subrogated by a third party."
+}

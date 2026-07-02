@@ -1,0 +1,20 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3715.021
+Scraped: 2026-07-02T19:51:23+00:00
+
+# Section 3715.021 - Standards and good manufacturing practices for food processing establishments.
+
+**Effective:** September 30, 2025
+
+**Latest Legislation:** House Bill 96 - 136th General Assembly
+
+(A) As used in this section:
+
+(1) "Food processing establishment" means a premises or part of a premises where food is processed, packaged, manufactured, or otherwise held or handled for distribution to another location or for sale at wholesale. "Food processing establishment" includes the activities of a bakery, confectionery, cannery, bottler, warehouse, or distributor, and the activities of an entity that receives or salvages distressed food for sale or use as food. A "food processing establishment" does not include a cottage food production operation; a small egg producer; a processor of tree syrup who boils sap when a minimum of seventy-five per cent of the sap used to produce the syrup is collected directly from trees by that processor; a processor of sorghum who processes sorghum juice when a minimum of seventy-five per cent of the sorghum juice used to produce the sorghum is extracted directly from sorghum plants by that processor; a beekeeper who jars honey when a minimum of seventy-five per cent of the honey is from that beekeeper's own hives; or a processor of apple syrup or apple butter who directly harvests from trees a minimum of seventy-five per cent of the apples used to produce the apple syrup or apple butter.
+
+(2) "Small egg producer" means any person that is engaged in the operation of egg production and annually maintains five hundred or fewer birds.
+
+(B) The director of agriculture shall adopt rules in accordance with Chapter 119. of the Revised Code that establish, when otherwise not established by the Revised Code, standards and good manufacturing practices for food processing establishments, including the facilities of food processing establishments and their sanitation. The rules shall conform with or be equivalent to the standards for foods established by the United States food and drug administration in Title 21 of the Code of Federal Regulations.
+
+A business or that portion of a business that is regulated by the department of agriculture under Chapter 917. or 918. of the Revised Code is not subject to regulation under this section as a food processing establishment.
+
+Last updated August 13, 2025 at 11:26 AM

@@ -1,0 +1,117 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-4723
+Scraped: 2026-07-02T20:06:49+00:00
+
+# Chapter 4723 - Nurses
+
+## Sections
+
+- Section 4723.01 - Nurse definitions.
+- Section 4723.011 - "Registered nurse".
+- Section 4723.02 - Board of nursing.
+- Section 4723.021 - Immunity.
+- Section 4723.03 - Unlicensed practice.
+- Section 4723.05 - Appointment of executive director - duties.
+- Section 4723.06 - Board of nursing - powers and duties.
+- Section 4723.061 - Minor violations.
+- Section 4723.062 - Nursing special issue fund.
+- Section 4723.063 - [Repealed effective 12/31/2033] Nurse education grant program.
+- Section 4723.064 - Access to information from Ohio law enforcement gateway.
+- Section 4723.07 - Administrative rules.
+- Section 4723.071 - Administrative rules for nursing delegation as it applies to DD personnel who administer prescribed medications, perform health-related activities, and perform tube feedings.
+- Section 4723.072 - Prelicensure nursing education program faculty criteria.
+- Section 4723.08 - Fees.
+- Section 4723.081 - Fees in excess of statutory amounts.
+- Section 4723.082 - Depositing receipts.
+- Section 4723.09 - License application.
+- Section 4723.091 - Request for criminal records check.
+- Section 4723.092 - Ineligibility for licensure.
+- Section 4723.10 - National standardized nursing examination.
+- Section 4723.11 - Nurse licensure compact.
+- Section 4723.111 - Administrator to the interstate commission of nurse licensure compact administrators.
+- Section 4723.112 - Multistate license to practice nursing; fee.
+- Section 4723.113 - Comments on proposed rules via teleconference.
+- Section 4723.114 - Employer obligations regarding nurses holding multistate licenses.
+- Section 4723.115 - No limits on collective bargaining, board authority.
+- Section 4723.116 - Grants from national council.
+- Section 4723.15 - Legacy provisions.
+- Section 4723.151 - Unlicensed practice.
+- Section 4723.16 - Offering services through authorized business entity.
+- Section 4723.18 - Administration of adult intravenous therapy.
+- Section 4723.181 - Intravenous therapy procedures.
+- Section 4723.24 - License or certificate renewal; notice of change of address.
+- Section 4723.25 - Continuing education courses in domestic violence and its relationship to child abuse.
+- Section 4723.26 - Volunteer nursing certificate.
+- Section 4723.271 - Replacement copies of certificates.
+- Section 4723.28 - Disciplinary actions.
+- Section 4723.281 - Summary suspension without a hearing - automatic suspensions.
+- Section 4723.282 - Establishing practice intervention and improvement program.
+- Section 4723.29 - Subpoena power.
+- Section 4723.32 - Exemptions.
+- Section 4723.33 - Protection against retaliatory action.
+- Section 4723.34 - Reporting misconduct.
+- Section 4723.341 - Immunity.
+- Section 4723.35 - Impairment monitoring program.
+- Section 4723.351 - Monitoring organization.
+- Section 4723.36 - Determination of death by certified nurse practitioner or clinical nurse specialist.
+- Section 4723.40 - Injunctions.
+- Section 4723.41 - Requirements for practicing nurse-midwifery or other specialty.
+- Section 4723.42 - Issuing designation.
+- Section 4723.43 - Scope of specialized nursing services.
+- Section 4723.431 - Standard care arrangements.
+- Section 4723.432 - Cooperation in investigations.
+- Section 4723.433 - CRNAs - patient best interest and patient records.
+- Section 4723.434 - Patient notice of anesthesia providers in health care facilities.
+- Section 4723.436 - Authority to sign psychiatric inpatient documents.
+- Section 4723.437 - Woman appearing before APRN regarding fetal death.
+- Section 4723.438 - Certified nurse-midwives - authority to sign documents.
+- Section 4723.44 - Unauthorized practice.
+- Section 4723.45 - Supervision of nurse-midwifery.
+- Section 4723.46 - Establishing list of approved national certifying organizations.
+- Section 4723.47 - License suspension or revocation.
+- Section 4723.48 - Delegation of authority to administer certain drugs.
+- Section 4723.481 - Authority of A.P.R.N. designated as clinical nurse specialist, certified nurse-midwife, or certified nurse practitioner to prescribe drugs and therapeutic devices.
+- Section 4723.482 - Items submitted with application.
+- Section 4723.483 - Epinephrine autoinjectors.
+- Section 4723.487 - Adoption of rules regarding review of patient information available through drug database.
+- Section 4723.488 - [Former R.C. 4723.486, renumbered effective 12/16/2020 by H.B. 341, 133rd General Assembly] Access to drug database required for license renewal.
+- Section 4723.489 - Delegated authority to administer drugs.
+- Section 4723.4810 - Authority to prescribe or furnish drugs to sexual partner of a patient diagnosed with chlamydia, gonorrhea, or trichomoniasis.
+- Section 4723.4811 - [Enacted as R.C. 4723.484 by H.B. 231, 133rd General Assembly and recodified as R.C. 4723.4811 pursuant to R.C. 103.131] Furnishing or prescribing glucagon, immunity.
+- Section 4723.4812 - APRNs - authority to establish epinephrine protocol.
+- Section 4723.493 - Advisory committee on advanced practice registered nursing.
+- Section 4723.50 - Administrative rules for prescribing drugs and therapeutic devices.
+- Section 4723.51 - Standards and procedures for medication-assisted treatment; adoption of rules.
+- Section 4723.52 - Failure to comply with applicable laws and regulations.
+- Section 4723.63 - [Former R.C. 4723.61, renumbered by S.B. 28, 135th General Assembly, effective 10/24/2024] Medication aide definitions.
+- Section 4723.64 - Administration of medications by medication aides.
+- Section 4723.65 - Application for certification as medication aide.
+- Section 4723.651 - Eligibility for medication aide certificate - issuance - duration.
+- Section 4723.652 - Sanctions against certificate applicants or holders.
+- Section 4723.653 - Medication aide; certificate required.
+- Section 4723.66 - Application for medication aide training program.
+- Section 4723.67 - Administration of medications by aides - delegation by nurse required.
+- Section 4723.68 - Limitation of liability of delegating nurse or person reporting medication error.
+- Section 4723.69 - Board to adopt program implementation rules.
+- Section 4723.71 - Advisory group on dialysis.
+- Section 4723.72 - Permitted activities.
+- Section 4723.73 - Dialysis technicians - prohibited acts.
+- Section 4723.74 - Approving operation of dialysis training program.
+- Section 4723.75 - Issuing certificate.
+- Section 4723.751 - Examinations.
+- Section 4723.77 - Renewal of dialysis technician certificate.
+- Section 4723.79 - Administrative rules.
+- Section 4723.81 - Certification of community health workers program.
+- Section 4723.82 - Community health worker certificate.
+- Section 4723.83 - Application for certificate.
+- Section 4723.84 - Eligibility for certificate.
+- Section 4723.85 - Review and renewal of application.
+- Section 4723.86 - Denial, revocation or suspension of certificate.
+- Section 4723.87 - Community health worker training programs.
+- Section 4723.88 - Community health worker standards and procedures.
+- Section 4723.89 - Doula certification.
+- Section 4723.90 - Doula advisory group.
+- Section 4723.91 - Effect of child support default on certificate.
+- Section 4723.92 - Compliance with law regarding sanctions for human trafficking.
+- Section 4723.93 - Consent for intimate examination.
+- Section 4723.94 - Telehealth services.
+- Section 4723.99 - Penalty.

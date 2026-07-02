@@ -1,0 +1,92 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-1547
+Scraped: 2026-07-02T19:37:52+00:00
+
+# Chapter 1547 - Watercraft And Waterways
+
+## Sections
+
+- Section 1547.02 - Applicability of chapter to vessels operating on the waters in this state.
+- Section 1547.03 - Flashing light prohibition.
+- Section 1547.04 - Siren prohibition - exception.
+- Section 1547.05 - Completing boating course as prerequisite to licensing; exception.
+- Section 1547.051 - Presenting proof of license.
+- Section 1547.052 - Powercraft rentals.
+- Section 1547.06 - Child operators.
+- Section 1547.07 - Reckless or unsafe operation of vessel, water skis, aquaplane.
+- Section 1547.071 - Authority of law enforcement officer when especially hazardous condition exists.
+- Section 1547.072 - Operator of vessel to maintain control.
+- Section 1547.08 - Prohibiting operation in certain areas - low speed areas.
+- Section 1547.09 - Prohibited acts.
+- Section 1547.10 - Stopping and furnishing information upon accident or collision.
+- Section 1547.11 - Operation, control, or manipulation under influence of alcohol or drug.
+- Section 1547.111 - Implied consent to chemical test.
+- Section 1547.12 - Incapacitated operators prohibited.
+- Section 1547.13 - Failure to comply with order of law enforcement - fleeing and eluding.
+- Section 1547.131 - Duty to stop or give way upon approach of law enforcement vessel.
+- Section 1547.132 - Vessel wake restrictions.
+- Section 1547.14 - Water skiing activity confined to ski zones.
+- Section 1547.15 - Observer required when towing skier.
+- Section 1547.16 - Water skiing after dark prohibited.
+- Section 1547.18 - Personal flotation device required.
+- Section 1547.19 - Ski jumps prohibited.
+- Section 1547.20 - Permission for conducting special water events.
+- Section 1547.21 - Requirements for inflatable vessel.
+- Section 1547.22 - Restrictions on sitting, standing, walking on moving vessel.
+- Section 1547.23 - Warming-up engine.
+- Section 1547.24 - Personal flotation devices required for child under 10.
+- Section 1547.25 - Prohibiting operation without personal flotation devices.
+- Section 1547.251 - Use of approved distress signals or flags.
+- Section 1547.26 - Requiring anchor and line.
+- Section 1547.27 - Required fire extinguishers.
+- Section 1547.28 - Backfire flame control device.
+- Section 1547.29 - Ventilation requirements.
+- Section 1547.30 - Ordering storage of vessel or outboard motor left on private property.
+- Section 1547.301 - Ordering storage of vessel or motor left in sunken, beached, drifting or docked condition.
+- Section 1547.302 - Disposing of unclaimed vessel or motor.
+- Section 1547.303 - Disposing of abandoned vessel or motor.
+- Section 1547.304 - Abandoned junk vessel or outboard motor on private property.
+- Section 1547.305 - Alternative process to take title to abandoned watercraft vessel or outboard motor.
+- Section 1547.31 - Muffler or muffler system required - noise levels.
+- Section 1547.32 - Vessel used as dwelling creating nuisance.
+- Section 1547.33 - Restrictions on sink, toilet or sanitary system.
+- Section 1547.34 - Violations prima facie evidence of negligence.
+- Section 1547.36 - Secretary of state agent for service of process.
+- Section 1547.38 - Prohibiting rental of improperly equipped vessel.
+- Section 1547.39 - Requiring capacity plate.
+- Section 1547.40 - Exceeding capacity plate figures.
+- Section 1547.41 - Personal watercraft operation requirements.
+- Section 1547.49 - Littering prohibited.
+- Section 1547.51 - Educational programs.
+- Section 1547.53 - Numbering of watercraft - exemptions.
+- Section 1547.531 - Registration and documentation - exemptions.
+- Section 1547.532 - Vessels exempt from registration.
+- Section 1547.533 - Fraudulent watercraft identification.
+- Section 1547.54 - Applying for registration certificate.
+- Section 1547.541 - Historic watercraft identification plates.
+- Section 1547.542 - Annual certificate of livery registration.
+- Section 1547.543 - Dealer or manufacturer registration certificate.
+- Section 1547.544 - Effect of child support default on certificate.
+- Section 1547.55 - Moneys collected paid into waterways safety fund.
+- Section 1547.56 - Reimbursing political subdivisions and agencies.
+- Section 1547.57 - Watercraft tags.
+- Section 1547.58 - Disclosure statement regarding alternative process of R.C. 1547.305.
+- Section 1547.59 - Rendering assistance after collision.
+- Section 1547.61 - Applicable state laws.
+- Section 1547.63 - Enforcement.
+- Section 1547.65 - Hull identification number.
+- Section 1547.66 - Altering identifying marks - false information on application for registration.
+- Section 1547.67 - Establishing and maintaining marine patrols to enforce chapter.
+- Section 1547.68 - Boating safety education programs.
+- Section 1547.69 - Firearm prohibitions.
+- Section 1547.71 - Refuge and small boat harbor agency.
+- Section 1547.72 - Construction and operation of refuge harbors.
+- Section 1547.73 - Waterways safety council.
+- Section 1547.74 - Facilities in harbors and connecting waterways.
+- Section 1547.75 - Waterways safety fund.
+- Section 1547.76 - State participation in federal program.
+- Section 1547.77 - Action not in conflict.
+- Section 1547.79 - All fines, forfeitures and penalties paid to director for fund.
+- Section 1547.80 - Rules for security of ports and related facilities.
+- Section 1547.91 - Wrecking.
+- Section 1547.92 - Prohibited acts.
+- Section 1547.99 - Penalty.

@@ -1,0 +1,72 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-1509
+Scraped: 2026-07-02T19:37:39+00:00
+
+# Chapter 1509 - Division Of Oil And Gas Resources Management - Oil And Gas
+
+## Sections
+
+- Section 1509.01 - Division of oil and gas resources management - oil and gas definitions.
+- Section 1509.02 - Division of oil and gas resources management; chief; oil and gas well fund.
+- Section 1509.021 - Surface locations of new wells.
+- Section 1509.022 - Location of wells using directional drilling.
+- Section 1509.03 - Administrative rules.
+- Section 1509.031 - Electronic submission of oil and gas documents.
+- Section 1509.04 - Enforcement - injunction against violation.
+- Section 1509.041 - Database listing final nonappealable orders issued for violations to be accessible to public.
+- Section 1509.05 - Permit required to drill, reopen, convert or plug back well.
+- Section 1509.051 - Stratigraphic wells.
+- Section 1509.06 - Application for permit to drill, reopen, convert, or plug back a well.
+- Section 1509.061 - Request to revise existing tract upon which exists producing or idle well.
+- Section 1509.062 - Temporary inactive well status.
+- Section 1509.07 - Liability insurance coverage.
+- Section 1509.071 - Forfeiting bond.
+- Section 1509.072 - Duty to restore disturbed land surface.
+- Section 1509.073 - Fluid drilling requirements.
+- Section 1509.074 - Analysis and disposition of material resulting from construction, operation, or plugging of a horizontal well.
+- Section 1509.08 - Determinations if well in coal bearing township.
+- Section 1509.09 - Changing location of well after issuance of permit.
+- Section 1509.10 - Well log to be filed with division - contents - form.
+- Section 1509.11 - Statement of production of oil, gas and brine.
+- Section 1509.12 - Defective wells and well plugging.
+- Section 1509.13 - Permit to plug and abandon well - application.
+- Section 1509.14 - Report of abandonment of well.
+- Section 1509.15 - Rules for methods of plugging.
+- Section 1509.151 - Plugging at expense of operator.
+- Section 1509.16 - Disclosure forms for oil country tubular goods.
+- Section 1509.17 - Encasing wells.
+- Section 1509.18 - Well drilled within limits of mining operation.
+- Section 1509.181 - Suspension of drilling or reopening of well in coal bearing townships.
+- Section 1509.19 - Well stimulation.
+- Section 1509.20 - Prevention of waste - gas flaring.
+- Section 1509.21 - Permits for secondary or additional recovery operations.
+- Section 1509.22 - Storage or disposal of brine, crude oil, natural gas, or other fluids.
+- Section 1509.221 - Requiring permit to drill well or inject substance into well for exploration for or extraction of minerals or energy.
+- Section 1509.222 - Registration certificate and identification number for transportation of brine.
+- Section 1509.223 - Agreements for transporting brine - duties of transporters.
+- Section 1509.224 - Suspension or revocation for pattern of negligent or willful violations.
+- Section 1509.225 - Surety bond.
+- Section 1509.226 - Surface applications of brine by local governments.
+- Section 1509.227 - Permits for operations in existence prior to 1/1/2014.
+- Section 1509.23 - Health and safety rules for drilling of wells and production of oil and gas.
+- Section 1509.231 - Database of information for responding to emergencies.
+- Section 1509.24 - Minimum acreage requirements for drilling units and minimum distances for wells.
+- Section 1509.25 - Special order for drilling unit requirements in particular pool.
+- Section 1509.26 - Agreements to pool tracts to form drilling unit.
+- Section 1509.27 - Mandatory pooling orders.
+- Section 1509.28 - Order providing for unit operation of a pool or part thereof.
+- Section 1509.29 - Order establishing tract as exception tract.
+- Section 1509.30 - Reports to holder of royalty interest.
+- Section 1509.31 - Operation of well; notice to holder of royalty interest of assignment or transfer of entire interest in lease.
+- Section 1509.32 - Complaint alleging failure to restore disturbed land surfaces.
+- Section 1509.33 - Civil penalties.
+- Section 1509.34 - Priority liens by division of oil and gas resources management for well owner's failure to pay fees or for costs incurred to correct conditions causing health of safety risks.
+- Section 1509.35 - Oil and gas commission.
+- Section 1509.36 - Appeal to commission.
+- Section 1509.37 - Appeal to court of common pleas.
+- Section 1509.38 - Technical advisory council.
+- Section 1509.40 - Limitation on production.
+- Section 1509.41 - Anti-trust violations.
+- Section 1509.50 - Oil and gas regulatory cost recovery assessment.
+- Section 1509.60 - Notice of filing for permit to drill new well.
+- Section 1509.61 - Public meeting required concerning proposed lease agreements for development of oil and gas resources.
+- Section 1509.99 - Penalty.

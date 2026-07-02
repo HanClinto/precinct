@@ -1,0 +1,165 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-4123
+Scraped: 2026-07-02T20:04:17+00:00
+
+# Chapter 4123 - Workers' Compensation
+
+## Sections
+
+- Section 4123.01 - Workers' compensation definitions.
+- Section 4123.02 - Policemen and firemen excepted.
+- Section 4123.021 - State active duty defined.
+- Section 4123.022 - Employment status while on active duty.
+- Section 4123.023 - Benefits for members of organized militia.
+- Section 4123.024 - Administrative and other costs to be paid from state insurance fund.
+- Section 4123.025 - Benefits for one killed performing request or order of a duly authorized public official.
+- Section 4123.026 - Costs of post-exposure medical diagnostic services after peace officer, firefighter, emergency medical worker, or detention facility employees' exposure to blood or other body fluid.
+- Section 4123.03 - Employees performing special services for the state or a political subdivision.
+- Section 4123.031 - Emergency management worker definitions.
+- Section 4123.032 - Benefits for emergency management workers.
+- Section 4123.033 - Compensation for accidental injury while performing emergency management duties.
+- Section 4123.034 - Unpaid emergency management workers qualify for maximum benefits.
+- Section 4123.035 - Finality of decision as to emergency management claimants.
+- Section 4123.036 - Participation in emergency management benefits.
+- Section 4123.037 - Loyalty oath for emergency management workers.
+- Section 4123.038 - Apprentice definitions.
+- Section 4123.039 - Eligibility for benefits of apprentices.
+- Section 4123.04 - Application to intrastate, interstate and foreign commerce.
+- Section 4123.05 - Rules.
+- Section 4123.06 - Rules regarding fees.
+- Section 4123.07 - Bureau to prepare and furnish application forms.
+- Section 4123.08 - Powers of officers in administrative proceedings.
+- Section 4123.09 - Depositions.
+- Section 4123.10 - Industrial commission not bound by rules of evidence.
+- Section 4123.11 - Stenographer's copy received in evidence.
+- Section 4123.12 - Attachment proceeding to compel obedience.
+- Section 4123.13 - Fees of officers and witnesses.
+- Section 4123.15 - Recognized religious sect employer may apply for exemption.
+- Section 4123.19 - Expenditures to establish rate classes - salaries and compensation paid by warrant.
+- Section 4123.20 - Publication and distribution of classifications, rates, and rules of procedure.
+- Section 4123.21 - Injunction shall not issue suspending or restraining actions.
+- Section 4123.22 - Annual report.
+- Section 4123.23 - Inspection of books, records, and payrolls.
+- Section 4123.24 - Payroll to be kept.
+- Section 4123.25 - Misrepresentation as to amount or classification of payroll or amount of compensation paid.
+- Section 4123.26 - Annual statement by employer - forfeiture.
+- Section 4123.27 - Use of and access to information provided by employers.
+- Section 4123.271 - Administrator may request report of employer payments from tax commissioner.
+- Section 4123.28 - Record of injuries and occupational diseases - report.
+- Section 4123.29 - Duties of administrator.
+- Section 4123.291 - Appeal from adjudicating committee decisions.
+- Section 4123.292 - Election to obtain other-states' coverage.
+- Section 4123.30 - Public fund - private fund - contributions - disbursements.
+- Section 4123.31 - Workers' compensation fund.
+- Section 4123.311 - Direct deposit of funds by electronic transfer - debit card access.
+- Section 4123.32 - Rules for administering state insurance fund.
+- Section 4123.321 - Disposition of insurance fund excess surplus.
+- Section 4123.322 - Rules for system of prospective payment of workers' compensation premiums.
+- Section 4123.323 - Payment due dates.
+- Section 4123.324 - Waiver or reduction of experience transfer.
+- Section 4123.33 - Certificate of protection for period of less than one year.
+- Section 4123.34 - Solvency of funds - premium rates.
+- Section 4123.341 - Contributions toward payment of administrative costs and expenses.
+- Section 4123.342 - Allocating costs.
+- Section 4123.343 - Employing and retaining handicapped employees.
+- Section 4123.344 - Suspension of premium increase pending conclusion of subrogation claims.
+- Section 4123.345 - [Former Section 3 of S.B. 166, 134th General Assembly, amended and codified as R.C. 4123.345 by H.B. 33, 135th General Assembly] Work-based learning program.
+- Section 4123.35 - Payment of premiums by employers; self-insurance.
+- Section 4123.351 - Self-insuring employers' guaranty fund.
+- Section 4123.352 - Self-insuring employers evaluation board.
+- Section 4123.353 - Public employer granted self-insuring employer status.
+- Section 4123.36 - Covering default when account uncollectible.
+- Section 4123.37 - Failure to pay premiums by amenable employer.
+- Section 4123.38 - Contributions to public insurance fund.
+- Section 4123.39 - Contributions by state and subdivisions.
+- Section 4123.391 - Remedies for learn to earn participants.
+- Section 4123.40 - Estimating state's contribution.
+- Section 4123.401 - Estimated number of state employees.
+- Section 4123.402 - Department of administrative services - powers and duties.
+- Section 4123.41 - Annual payments by county, taxing district and institution to public insurance fund.
+- Section 4123.411 - Levying assessments for disabled workers' relief fund.
+- Section 4123.412 - Disabled workers' relief fund.
+- Section 4123.413 - Eligibility for participation in fund.
+- Section 4123.414 - Receiving payments from fund.
+- Section 4123.415 - Payments made to show source of funds.
+- Section 4123.416 - List of names and addresses of person receiving compensation.
+- Section 4123.417 - Investigation and determination of right of persons to participate in disabled workers' relief fund.
+- Section 4123.418 - Bureau employees.
+- Section 4123.419 - Establishing assessment rate.
+- Section 4123.42 - Custodian of state insurance fund.
+- Section 4123.43 - Deposit of funds not required for immediate use.
+- Section 4123.44 - Investment of surplus or reserve of state insurance fund.
+- Section 4123.441 - Chief investment adviser for bureau - duties.
+- Section 4123.442 - Development of investment policy - duties of committee.
+- Section 4123.443 - Rental payments for leased buildings.
+- Section 4123.444 - Duties of administrator regarding investment manager contracts.
+- Section 4123.445 - Contract with investment manager convicted of financial crime prohibited.
+- Section 4123.446 - Report regarding minority and women's business enterprises.
+- Section 4123.45 - Printing or lithographing of bonds - denomination - compliance by taxing authorities.
+- Section 4123.452 - No compensation for injury sustained in ridesharing arrangement.
+- Section 4123.46 - Payments from state insurance fund.
+- Section 4123.47 - Actuarial analysis of fund; audits of effectiveness of administration - retention of actuary.
+- Section 4123.48 - Individual accounts to be kept by bureau - default in payment.
+- Section 4123.50 - Failure to comply with law.
+- Section 4123.51 - Place for filing claims or appeals - required statement.
+- Section 4123.511 - Notice of receipt of claim.
+- Section 4123.512 - Appeal to court.
+- Section 4123.52 - Continuing jurisdiction of commission.
+- Section 4123.521 - Appeal for purpose of delay or other vexatious reason and without reasonable ground.
+- Section 4123.522 - Right to receive written notice of action.
+- Section 4123.53 - Medical examinations - vocational evaluation or questionnaire.
+- Section 4123.54 - Compensation in case of injury or death - agreement if work performed in another state.
+- Section 4123.541 - Reduction of benefits in proportion to benefits received under other act or program.
+- Section 4123.542 - Successful claimant not to file duplicative claim.
+- Section 4123.55 - No compensation for first week after injury.
+- Section 4123.56 - Compensation in case of temporary disability.
+- Section 4123.57 - Partial disability compensation.
+- Section 4123.571 - Prior claims.
+- Section 4123.58 - Compensation for permanent total disability.
+- Section 4123.59 - Benefits in case of death - dependency.
+- Section 4123.591 - Providing list of person receiving spousal death benefit to tax commissioner.
+- Section 4123.60 - Persons eligible for death benefits - limitations.
+- Section 4123.61 - Basis for computation of benefits.
+- Section 4123.62 - Consideration of expected wage increases.
+- Section 4123.63 - Service-connected injury.
+- Section 4123.64 - Commutation to lump sum.
+- Section 4123.65 - Application for approval of final settlement.
+- Section 4123.651 - Employer initiating medical examinations.
+- Section 4123.66 - Making additional payments for medical or funeral expenses.
+- Section 4123.67 - Compensation exempt from attachment or execution.
+- Section 4123.68 - Schedule of compensable occupational diseases.
+- Section 4123.69 - Persons entitled to benefits.
+- Section 4123.70 - Preexisting disease.
+- Section 4123.71 - Time for report of physician.
+- Section 4123.73 - Participation by employers of less than three persons.
+- Section 4123.74 - Immunity of employer.
+- Section 4123.741 - Immunity of fellow employees.
+- Section 4123.75 - Remedy of employee against noncomplying employer.
+- Section 4123.751 - Service on nonresident employer.
+- Section 4123.752 - Manner of service.
+- Section 4123.753 - Service fee.
+- Section 4123.754 - Continuance.
+- Section 4123.755 - Applicability to residents who become nonresidents.
+- Section 4123.756 - Death of employer prior to commencement of civil action.
+- Section 4123.76 - Claim against noncomplying employer a lien.
+- Section 4123.77 - Common law defenses denied to noncomplying employers.
+- Section 4123.78 - Recording of certificate of noncompliance.
+- Section 4123.79 - Party may enjoin operation of noncomplying employer - construction contractor or subcontractor.
+- Section 4123.80 - Agreement to waive rights void - exceptions.
+- Section 4123.81 - Prohibition against deduction for premium.
+- Section 4123.82 - Contracts indemnifying or insuring employer void.
+- Section 4123.83 - Posting of notice by employer.
+- Section 4123.84 - Claims for injury or death barred after one year - exceptions.
+- Section 4123.85 - Claims for compensation or benefits in cases of occupational diseases.
+- Section 4123.86 - Report regarding cancer claims.
+- Section 4123.88 - False representation or solicitation of authority.
+- Section 4123.89 - Minor is sui juris - additional award for violation.
+- Section 4123.90 - Retaliation for filing a claim, discrimination against out-of-country dependents prohibited.
+- Section 4123.91 - Information from consular officials.
+- Section 4123.92 - Attorney general, prosecuting attorney - prosecution and defense of actions.
+- Section 4123.93 - Subrogation definitions.
+- Section 4123.931 - Statutory subrogee subrogated to rights of claimant against third party.
+- Section 4123.932 - Claims likely to be subrogated by a third party.
+- Section 4123.94 - Preference of judgments.
+- Section 4123.95 - Liberal construction of chapter.
+- Section 4123.96 - Solicitation of claims prohibited.
+- Section 4123.99 - Penalty.

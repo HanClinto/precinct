@@ -1,0 +1,30 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5502.29
+Scraped: 2026-07-02T20:12:22+00:00
+
+# Section 5502.29 - Mutual emergency management assistance or aid agreements.
+
+**Effective:** July 3, 2012
+
+**Latest Legislation:** Senate Bill 243 - 129th General Assembly
+
+(A) As used in this section, "political subdivision" has the same meaning as in section 5502.41 of the Revised Code.
+
+(B) Political subdivisions, in collaboration with other public and private agencies within this state, may develop mutual assistance or aid agreements for reciprocal emergency management assistance or aid for purposes of preparing for, responding to, and recovering from an incident, disaster, exercise, training activity, planned event, or emergency, any of which requires additional resources. In time of any incident, disaster, exercise, training activity, planned event, or emergency, any of which requires additional resources, each political subdivision may render assistance in accordance with such mutual assistance or aid agreements. Such mutual assistance or aid agreements shall not in any manner relieve the chief elected official of any political subdivision of the responsibility for providing emergency management.
+
+(C) Political subdivisions, in collaboration with political subdivisions in adjacent states, may develop agreements for mutual assistance or aid for purposes of preparing for, responding to, and recovering from an incident, disaster, exercise, training activity, planned event, or emergency, any of which requires additional resources. Each political subdivision may render assistance in accordance with the mutual assistance or aid agreements. A mutual assistance or aid agreement with political subdivisions in adjacent states shall be approved by the chief elected officials of the agreeing political subdivisions or their designees and shall be prepared in accordance with the laws, regulations, ordinances, and resolutions applicable to the agreeing political subdivisions.
+
+(D) When engaged in preparation for, response to, or recovery from an incident, disaster, exercise, training activity, planned event, or emergency, any of which requires additional resources, and in accordance with the applicable mutual assistance or aid agreement, personnel from political subdivisions outside this state shall be permitted to provide services within this state in accordance with this section and the terms of the mutual assistance or aid agreement.
+
+(E) Personnel of the responding political subdivision shall continue under their local command and control structure, but shall be under the operational control of the appropriate officials within the incident management system of the political subdivision receiving the assistance or aid.
+
+(F) Nothing in this section shall be construed to prohibit a private company or its employees from participating in the provision of mutual assistance or aid, if the responding political subdivision approves the participation and the contract between the political subdivision and the private company permits the participation.
+
+(G) Nothing in this section shall be construed to prohibit personnel of political subdivisions in this state from responding to a request for mutual assistance or aid resulting from an incident, disaster, exercise, training activity, planned event, or emergency, any of which requires additional resources, when the personnel are responding as part of a regional response team that is under the operational control of the incident command structure.
+
+(H) Whenever a person from outside this state who is subject to a mutual assistance or aid agreement authorized by this section holds a license, certificate, or other permit issued by any state evidencing qualification for professional, mechanical, or other skills, such license, certificate, or other permit shall be recognized by this state as authorizing the person to render assistance or aid in this state involving such skill to meet the request for assistance or aid, so long as the person is acting within the scope of the person's license, certificate, or other permit.
+
+(I) Personnel rendering assistance or aid pursuant to a mutual assistance or aid agreement authorized by this section remain employees or agents of their respective political subdivisions, including for purposes of tort liability and immunity from tort liability, and nothing in this section or any mutual assistance or aid agreement entered into pursuant to this section creates an employment relationship between the political subdivision requesting aid and the employees or agents of the political subdivision rendering aid.
+
+(J) Responding political subdivisions and the personnel of that political subdivision, while rendering assistance or aid under this section, or while in route to or from rendering assistance or aid under this section, in a political subdivision in an adjacent state under an agreement authorized by this section, shall be deemed to be exercising governmental functions as defined in section 2744.01 of the Revised Code, shall have the defenses to and immunities from civil liability provided in sections 2744.02 and 2744.03 of the Revised Code, and shall be entitled to all applicable limitations on recoverable damages under section 2744.05 of the Revised Code.
+
+(K) All pension, disability, death benefits, workers' compensation, and other benefits enjoyed by personnel rendering interstate or intrastate mutual assistance or aid shall extend to the services they perform outside their respective political subdivisions to the same extent as while acting within the boundaries of the political subdivisions, and personnel are entitled to the rights and benefits of Chapter 4123. to the same extent as while performing service within the boundaries of the political subdivisions.

@@ -1,0 +1,16 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3311.056
+Scraped: 2026-07-02T19:48:34+00:00
+
+# Section 3311.056 - Plan for adding appointed members to board.
+
+**Effective:** October 3, 2023
+
+**Latest Legislation:** House Bill 33 - 135th General Assembly
+
+The elected members of an educational service center governing board may by resolution adopt a plan for adding appointed members to that governing board. A plan may provide for adding to the board a number of appointed members that is up to one less than the number of elected members on the board except that the total number of elected and appointed board members shall be an odd number. A plan shall provide for the terms of the appointed board members. The appointed board members in each plan shall be appointed by a majority vote of the full number of elected members on the board and vacancies shall be filled as provided in the plan. Each plan shall specify the qualifications for the appointed board members of an educational service center including the experience, knowledge, and skills that advance the mission and vision of the service center. Appointed members may be representative of the client school districts of the service center that are not otherwise represented on the board. As used in this section, "client school district" has the same meaning as in section 3311.0510 of the Revised Code.
+
+A governing board adopting a plan under this section shall submit the plan to the department of education and workforce for approval. The department may approve or disapprove a plan or make recommendations for modifications in a plan. A plan shall take effect thirty days after approval by the department and, when effective, appointments to the board shall be made in accordance with the plan.
+
+The elected members of the governing board of an educational service center with a plan in effect under this section may adopt, by unanimous vote of all the elected members, a resolution to revise or rescind the plan in effect under this section. All revisions shall comply with the requirements in this section for appointed board members. A resolution revising or rescinding a plan shall specify the dates and manner in which the revision or rescission is to take place. The revision or rescission of a plan shall be submitted to the department for approval. The department may approve or disapprove a revision or rescission of a plan or make recommendations for modifications. Upon approval of a revision or rescission by the department, the revised plan or rescission of the plan shall go into effect as provided in the revision or rescission.
+
+Last updated August 21, 2023 at 3:36 PM

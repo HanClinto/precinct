@@ -1,0 +1,26 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-6115.102
+Scraped: 2026-07-02T20:17:22+00:00
+
+# Section 6115.102 - Sanitary district advisory council for sanitary district organized wholly for reduction of populations of biting arthropods.
+
+**Effective:** October 9, 1981
+
+**Latest Legislation:** House Bill 156 - 114th General Assembly
+
+(A) With respect to sanitary districts organized after the effective date of this section wholly for the reduction of populations of biting arthropods, there shall be appointed, within thirty days after the court enters the decree incorporating the district, a sanitary district advisory council. The council shall consist of one member to be appointed from each municipal corporation, county, township, city health district, or general health district located wholly or partly within the sanitary district. A member of the council representing a municipal corporation, county, or township shall be appointed by the governing body thereof and shall be a resident thereof. A council member representing a city or general health district shall be appointed by the board of health thereof and shall be a resident of the health district. Appointments to the council shall be made by resolution of the appointing authority. Within ten days after making an appointment to the council, the appointing authority shall submit an authenticated copy of the appointment resolution to the clerk of the court.
+
+(B) If the court, in its order confirming the report of the board of appraisers of a sanitary district organized after the effective date of this section wholly for the reduction of populations of biting arthropods, directs that additional territory be included within the district and if the inclusion of the additional territory results in the inclusion of all or a portion of the territory of a municipal corporation, county, township, or city or general health district not represented on the advisory council prior to the inclusion, the governing body of the municipal corporation, county, township, or health district shall, within thirty days after the court enters its order confirming the report of the board of appraisers, appoint a representative to the council. If the court, in its order, directs that certain territory be eliminated from the district and if the exclusion results in the exclusion of all of the territory of a municipal corporation, county, township, or city or general health district previously included within a sanitary district, the member of the advisory council representing the municipal corporation, county, township, or health district shall be removed from the board on the date upon which the court enters the order confirming the report of the board of appraisers.
+
+(C) If two or more sanitary districts organized wholly for the reduction of populations of biting arthropods are united under section 6115.68 of the Revised Code, the advisory councils of the original districts shall cease to exist on the effective date of the union and an advisory council of the united district shall be appointed in the manner prescribed in division (A) of this section. If the court, in accordance with section 6115.68 of the Revised Code, directs that one or more sanitary districts organized wholly for the reduction of populations of biting arthropods be included within another such district and the inclusion results in the addition of all or a portion of a municipal corporation, county, township, or city or general health district not represented on the council of the district prior to the inclusion, the governing body of each municipal corporation, county, township, or health district not so represented shall, within thirty days after the court directs the inclusion, appoint a representative to the council of the original district. If the original district was organized prior to the effective date of this section, an advisory council shall be appointed within the original district and all the territory included by the court within the original district, in the manner prescribed in this section for the appointment of advisory councils.
+
+(D) A majority of the council constitutes a quorum, and a concurrence of the majority in any matter within the council's duties is sufficient for its determination. The council shall appoint one of its members as chairman and one member as secretary. The council shall adopt bylaws governing its proceedings. The council shall meet at least once annually and shall meet upon the call of its chairman, the president of the board of directors of the district, or whenever a majority of the members of the council, by petition filed with the chairman of the council, requests a meeting of the council. The chairman shall call a meeting of the council within thirty days after the receipt of the petition.
+
+(E) The council shall:
+
+(1) Make appointments to the board of directors in accordance with section 6115.101 of the Revised Code;
+
+(2) Annually review and evaluate the receipts and disbursements of funds by the board of directors during the preceding calendar year;
+
+(3) Review, evaluate, and make recommendations to the board of directors regarding the operation, policies, programs, and improvements of the district.
+
+Last updated October 21, 2022 at 4:22 PM

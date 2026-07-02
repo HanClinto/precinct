@@ -1,0 +1,151 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-5101
+Scraped: 2026-07-02T20:10:22+00:00
+
+# Chapter 5101 - Department of Job and Family Services- General Provisions
+
+## Sections
+
+- Section 5101.01 - Referring to department or director of public welfare or human services; references to county department of job and family services; references to board of county commissioners.
+- Section 5101.02 - Authority of director of job and family services.
+- Section 5101.03 - Assistant directors - powers and duties.
+- Section 5101.04 - Contract with commercial consumer reporting agency.
+- Section 5101.041 - Data matching agreements.
+- Section 5101.042 - Public assistance benefits systems update.
+- Section 5101.05 - Appointing employees.
+- Section 5101.051 - Filling positions with peculiar and exceptional qualifications.
+- Section 5101.06 - Establishing work units.
+- Section 5101.061 - Office of human services innovation.
+- Section 5101.07 - Support services federal operating fund.
+- Section 5101.071 - Support services state operating fund.
+- Section 5101.072 - Human services projects fund.
+- Section 5101.073 - ODJFS general services administration and operating fund.
+- Section 5101.074 - Disposition of refunds.
+- Section 5101.08 - Fidelity bonds.
+- Section 5101.09 - Adopting rules.
+- Section 5101.10 - Expending funds.
+- Section 5101.101 - Order of priority for distribution of funds for family planning services.
+- Section 5101.11 - Seeking federal financial participation for costs incurred by entity implementing program administered by department.
+- Section 5101.111 - Foundation grant fund.
+- Section 5101.12 - Maximizing receipt of federal revenue.
+- Section 5101.16 - Paying county share of public assistance expenditures.
+- Section 5101.161 - Public assistance fund.
+- Section 5101.162 - Reimbursing county expenditures for county administration of food stamps or medicaid.
+- Section 5101.163 - Increase in county share of public assistance expenditures.
+- Section 5101.17 - Payments made under Economic Opportunity Act not regarded as income or resources.
+- Section 5101.18 - Determining what payments shall be regarded or disregarded as income in determining aid.
+- Section 5101.181 - Matching agency records to determine overpayment of public assistance.
+- Section 5101.182 - Matching income tax returns to determine overpayment of public assistance.
+- Section 5101.183 - Rules regarding recovering cost of social services provided or diverted to ineligible persons.
+- Section 5101.184 - Collecting overpayments of assistance from state and federal income tax refunds.
+- Section 5101.20 - Grant agreements for workforce development activities.
+- Section 5101.201 - Agreements with one-stop operators and partners implementing Workforce Innovation and Opportunity Act.
+- Section 5101.21 - Written grant agreements between director and county.
+- Section 5101.211 - Written agreements with state agency, university or college or private or government entity.
+- Section 5101.212 - Duty of religious organization contracting with department.
+- Section 5101.214 - Agreements to enhance county family services duties and workforce development activities.
+- Section 5101.215 - Agreements with religious organization.
+- Section 5101.216 - Written operational agreements with county for family service duties.
+- Section 5101.22 - Establishing performance and administrative standards for county agencies.
+- Section 5101.221 - County family services agency corrective action plan.
+- Section 5101.222 - Administrative rules.
+- Section 5101.23 - Providing incentive awards to county agencies.
+- Section 5101.24 - Actions for failure to meet performance standards.
+- Section 5101.241 - Actions for noncompliance with workforce development activity standards or requirements.
+- Section 5101.242 - Certification of claim to recover funds.
+- Section 5101.243 - Administrative rules.
+- Section 5101.244 - Adjustment to recover expenditures exceeding allowable amount.
+- Section 5101.25 - Developing annual training goals and model training curriculum.
+- Section 5101.26 - Disclosure of information definitions.
+- Section 5101.27 - Restricting disclosure of information regarding public assistance recipients.
+- Section 5101.272 - Authorization form.
+- Section 5101.273 - Membership in the public assistance reporting information system.
+- Section 5101.28 - Written agreements with law enforcement agencies to exchange, obtain, or share information regarding public assistance recipients.
+- Section 5101.29 - Certain child care records not subject to public records law.
+- Section 5101.30 - Rules for conditions and procedures for the release of information.
+- Section 5101.311 - [Former R.C. 122.66, amended and renumbered as R.C. 5101.311 by H.B. 96, 136th General Assembly, effective 9/30/2025] Definitions.
+- Section 5101.312 - [Former R.C. 122.67, amended and renumbered as R.C. 5101.312 by H.B. 96, 136th General Assembly, effective 9/30/2025] Job and family services authority over community services assistance personnel.
+- Section 5101.313 - [Former R.C. 122.68, amended and renumbered as R.C. 5101.313 by H.B. 96, 136th General Assembly, effective 9/30/2025] Job and family services duties regarding community services assistance.
+- Section 5101.314 - [Former R.C. 122.681, amended and renumbered as R.C. 5101.314 by H.B. 96, 136th General Assembly, effective 9/30/2025] Confidentiality of information.
+- Section 5101.315 - [Former R.C. 122.69, amended and renumbered as R.C. 5101.315 by H.B. 96, 136th General Assembly, effective 9/30/2025] Endorsement of community action agency.
+- Section 5101.316 - [Former R.C. 122.70, amended and renumbered as R.C. 5101.316 by H.B. 96, 136th General Assembly, effective 9/30/2025] Board of directors of community action agencies - powers and duties.
+- Section 5101.317 - [Former R.C. 122.701, amended and renumbered as R.C. 5101.317 by H.B. 96, 136th General Assembly, effective 9/30/2025] Designating new or rescinding former community action agency designation.
+- Section 5101.318 - [Former R.C. 122.702, amended and renumbered as R.C. 5101.318 by H.B. 96, 136th General Assembly, effective 9/30/2025] Hearings on use of community services block grant funds.
+- Section 5101.32 - Procedures and formats for RC 109.5721 notices.
+- Section 5101.33 - Electronic benefit transfers.
+- Section 5101.35 - Appeals.
+- Section 5101.351 - Hearing officers.
+- Section 5101.36 - Right of subrogation to department of job and family services for workers' compensation benefits.
+- Section 5101.37 - Investigations and hearings by department, county or child support enforcement agency.
+- Section 5101.38 - Appointment of agents.
+- Section 5101.44 - Ohio welfare conference.
+- Section 5101.45 - Conference expenses.
+- Section 5101.46 - Administering provision of social services funded through grants made under Title XX.
+- Section 5101.461 - Use of Title IV-A funds for Title XX social services.
+- Section 5101.47 - Administrative activities for certain programs.
+- Section 5101.48 - Distributing food commodities.
+- Section 5101.49 - Establishing refugee assistance program and state legalization impact assistance program.
+- Section 5101.53 - Supplementing payments of recipients of aid under Title XVI of Social Security Act.
+- Section 5101.54 - Administering food stamp program.
+- Section 5101.541 - Food stamp program fund.
+- Section 5101.542 - Electronic benefit transfer card.
+- Section 5101.543 - SNAP high balance account monitoring.
+- Section 5101.544 - Failure of household member to perform required action.
+- Section 5101.545 - Application to participate in elderly simplified application project.
+- Section 5101.546 - SNAP payment error rates methodology and technical system.
+- Section 5101.547 - Employment and training program redesign.
+- Section 5101.548 - SNAP work requirements waivers and exemptions.
+- Section 5101.549 - SNAP waiver to exclude sugar-sweetened beverages.
+- Section 5101.5410 - Exclusion of cultivated-protein food products from SNAP.
+- Section 5101.55 - Abortion.
+- Section 5101.56 - Use of state or local funds for abortion services.
+- Section 5101.57 - Use of public facilities for nontheurapeutic abortions prohibited.
+- Section 5101.60 - Adult protective services definitions.
+- Section 5101.61 - Implementing adult protective services.
+- Section 5101.611 - Reimbursing costs of providing services.
+- Section 5101.612 - Allocation of county adult protective services funds.
+- Section 5101.62 - Training program.
+- Section 5101.621 - Memorandum of understanding related to responsibilities in cases of adult abuse, neglect, and exploitation.
+- Section 5101.63 - Reporting abuse, neglect or exploitation of adult.
+- Section 5101.631 - [Former R.C. 5101.612, amended and renumbered by H.B. 49, 132nd General Assembly, effective 9/29/2018] Uniform statewide automated adult protective services information system.
+- Section 5101.632 - Access to educational materials.
+- Section 5101.64 - Referring cases of abuse.
+- Section 5101.65 - Investigations.
+- Section 5101.651 - Temporary restraining order.
+- Section 5101.652 - Authority to contract with other entities to perform certain duties.
+- Section 5101.66 - Request or consent to receiving protective services.
+- Section 5101.68 - Petitioning for court order to provide protective services.
+- Section 5101.681 - Notice of petition.
+- Section 5101.682 - Hearing.
+- Section 5101.69 - Temporary restraining order to restrain person from interfering with provision of protective services.
+- Section 5101.70 - Emergency order.
+- Section 5101.701 - Ex parte emergency order authorizing provision of protective services.
+- Section 5101.702 - Hearing.
+- Section 5101.71 - Evaluating ability to pay for services.
+- Section 5101.73 - Denial or obstruction of access to adult victim's residence.
+- Section 5101.74 - Elder abuse commission.
+- Section 5101.741 - Duties of commission.
+- Section 5101.80 - Administering Title IV-A of the Social Security Act.
+- Section 5101.801 - Benefits and services that are not defined as assistance.
+- Section 5101.803 - Title IV-A demonstration program.
+- Section 5101.806 - TANF spending plan.
+- Section 5101.81 - Examination of Title IV-A state plan by legislature.
+- Section 5101.82 - Title IV-A reserve fund.
+- Section 5101.821 - TANF federal fund.
+- Section 5101.83 - Repaying fraudulent assistance.
+- Section 5101.84 - Eligibility for aid.
+- Section 5101.86 - Adult emergency assistance program.
+- Section 5101.87 - Victims of human trafficking fund.
+- Section 5101.89 - Youth and family ombudsmen office definitions.
+- Section 5101.891 - Youth and family ombudsmen office.
+- Section 5101.892 - Office duties; annual report.
+- Section 5101.893 - Evaluation of annual report.
+- Section 5101.894 - Reporting suspected violations of state law.
+- Section 5101.895 - Office administration.
+- Section 5101.897 - Employee prohibitions.
+- Section 5101.899 - Record access and confidentiality.
+- Section 5101.90 - Evaluation of county department on helping public assistance recipients obtain employment.
+- Section 5101.93 - Warning, explanation for failure to report violation involving a companion animal.
+- Section 5101.95 - Notice of public assistance waiver or state plan amendment.
+- Section 5101.971 - Annual report.
+- Section 5101.98 - Public assistance programs quarterly report.
+- Section 5101.99 - Penalty.

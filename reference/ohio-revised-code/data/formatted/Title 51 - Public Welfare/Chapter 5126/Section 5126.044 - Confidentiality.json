@@ -1,0 +1,94 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Eligible person\" has the same meaning as in section 5126.03 of the Revised Code.",
+      "id": "5126.044-eligible-person",
+      "normalized": "eligible person",
+      "scope": "(A) As used in this section:",
+      "section": "5126.044",
+      "source_title": "Section 5126.044 - Confidentiality.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5126.044",
+      "term": "Eligible person"
+    },
+    {
+      "definition": "(2) \"Treatment\" means the provision, coordination, or management of services provided to an eligible person.",
+      "id": "5126.044-treatment",
+      "normalized": "treatment",
+      "scope": "(A) As used in this section:",
+      "section": "5126.044",
+      "source_title": "Section 5126.044 - Confidentiality.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5126.044",
+      "term": "Treatment"
+    },
+    {
+      "definition": "(3) \"Payment\" means activities undertaken by a service provider or governmental entity to obtain or provide reimbursement for services to an eligible person.\n\n(B) Except as provided in division (C) of this section, no person shall disclose the identity of an individual who requests programs or services under this chapter or release a record or report regarding an eligible person that is maintained by a county board of developmental disabilities or an entity under contract with a county board unless one of the following circumstances exists:\n\n(1) The individual, eligible person, or the individual's guardian, or, if the individual is a minor, the individual's parent or guardian, makes a written request to the county board or entity for or approves in writing disclosure of the individual's identity or release of the record or report regarding the eligible person.\n\n(2) Disclosure of the identity of an individual is needed for approval of a direct services contract under section 5126.032 or 5126.033 of the Revised Code. The county board shall release only the individual's name and the general nature of the services to be provided.\n\n(3) Disclosure of the identity of the individual is needed to ascertain that the county board's waiting lists for programs or services are being maintained in accordance with section 5126.042 of the Revised Code and the rules adopted under that section. The county board shall release only the individual's name, the general nature of the programs or services to be provided the individual, the individual's rank on each waiting list that includes the individual, and any circumstances under which the individual was given priority when placed on a waiting list.\n\n(4) Disclosure of the identity of an individual who is an eligible person is needed for treatment of or payment for services provided to the individual.\n\n(5) Release of a record or report regarding an individual that is maintained by the county board or an entity under contract with a county board is requested by a probate court pursuant to a proceeding under Chapter 2111. of the Revised Code. Any record or report released under this division may only, in the court's discretion, be released to the parties to the proceeding.\n\n(6) Release of a record or report regarding an individual that is maintained by the county board or an entity under contract with a county board is requested by the department of developmental disabilities for purposes of a proceeding under sections 5123.69 to 5123.79 of the Revised Code or for the department to comply with any court order issued under sections 2945.371 to 2945.402 of the Revised Code.\n\n(C)(1) At the request of an eligible person or the person's guardian or, if the eligible person is a minor, the person's parent or guardian, a county board or entity under contract with a county board shall provide the person who made the request access to records and reports regarding the eligible person. On written request, the county board or entity shall provide copies of the records and reports to the eligible person, guardian, or parent. The county board or entity may charge a reasonable fee to cover the costs of copying. The county board or entity may waive the fee in cases of hardship.\n\n(2) A county board shall provide access to any waiting list or record or report regarding an eligible person maintained by the board to any state agency responsible for monitoring and reviewing programs and services provided or arranged by the county board, any state agency involved in the coordination of services for an eligible person, and any agency under contract with the department of developmental disabilities for the provision of protective service pursuant to section 5123.56 of the Revised Code.\n\n(3) When an eligible person who requests programs or services under this chapter dies, the county board or entity under contract with the county board, shall, on written request, provide to both of the following persons any reports and records in the board or entity's possession concerning the eligible person:\n\n(a) If the report or records are necessary to administer the estate of the person who is the subject of the reports or records, to the executor or administrator of the person's estate;\n\n(b) To the guardian of the person who is the subject of the reports or records or, if the individual had no guardian at the time of death, to a person in the first applicable of the following categories:\n\n(i) The person's spouse;\n\n(ii) The person's children;\n\n(iii) The person's parents;\n\n(iv) The person's brothers or sisters;\n\n(v) The person's uncles or aunts;\n\n(vi) The person's closest relative by blood or adoption;\n\n(vii) The person's closest relative by marriage.\n\nThe county board or entity shall provide the reports and records as required by division (C)(3) of this section not later than thirty days after receipt of the request.\n\n(D) A county board shall notify an eligible person, the person's guardian, or, if the eligible person is a minor, the person's parent or guardian, prior to destroying any record or report regarding the eligible person.\n\nLast updated August 12, 2021 at 2:39 PM",
+      "id": "5126.044-payment",
+      "normalized": "payment",
+      "scope": "(A) As used in this section:",
+      "section": "5126.044",
+      "source_title": "Section 5126.044 - Confidentiality.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5126.044",
+      "term": "Payment"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "5126.03",
+      "number": "5126.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.03"
+    },
+    {
+      "kind": "section",
+      "label": "5126.032",
+      "number": "5126.032",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.032"
+    },
+    {
+      "kind": "section",
+      "label": "5126.033",
+      "number": "5126.033",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.033"
+    },
+    {
+      "kind": "section",
+      "label": "5126.042",
+      "number": "5126.042",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.042"
+    },
+    {
+      "kind": "section",
+      "label": "5123.69",
+      "number": "5123.69",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5123.69"
+    },
+    {
+      "kind": "section",
+      "label": "5123.79",
+      "number": "5123.79",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5123.79"
+    },
+    {
+      "kind": "section",
+      "label": "2945.371",
+      "number": "2945.371",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.371"
+    },
+    {
+      "kind": "section",
+      "label": "2945.402",
+      "number": "2945.402",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.402"
+    },
+    {
+      "kind": "section",
+      "label": "5123.56",
+      "number": "5123.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5123.56"
+    }
+  ],
+  "scraped": "2026-07-02T20:10:58+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5126.044",
+  "title": "Section 5126.044 - Confidentiality."
+}

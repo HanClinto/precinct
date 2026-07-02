@@ -1,0 +1,84 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Broadband service\" means any wholesale or retail service that consists of, or includes the provision of, connectivity to a high-speed, high-capacity transmission medium that can carry signals from or to multiple sources and that either provides access to the internet or provides computer processing, information storage, information content or protocol conversion, including any service applications or information service provided over such high-speed access service. \"Broadband service\" includes video service, voice over internet protocol service, and internet protocol-enabled services.",
+      "id": "188.01-broadband-service",
+      "normalized": "broadband service",
+      "scope": "As used in sections 188.01 to 188.23 of the Revised Code:",
+      "section": "188.01",
+      "source_title": "Section 188.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-188.01",
+      "term": "Broadband service"
+    },
+    {
+      "definition": "(B) \"Electric cooperative\" has the same meaning as in section 4928.01 of the Revised Code.\n\n(C) \"Internet protocol-enabled services\" and \"voice over internet protocol service\" have the same meanings as in section 4927.01 of the Revised Code.",
+      "id": "188.01-electric-cooperative",
+      "normalized": "electric cooperative",
+      "scope": "As used in sections 188.01 to 188.23 of the Revised Code:",
+      "section": "188.01",
+      "source_title": "Section 188.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-188.01",
+      "term": "Electric cooperative"
+    },
+    {
+      "definition": "(D) \"Servient estate\" means the land burdened by an easement.",
+      "id": "188.01-servient-estate",
+      "normalized": "servient estate",
+      "scope": "As used in sections 188.01 to 188.23 of the Revised Code:",
+      "section": "188.01",
+      "source_title": "Section 188.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-188.01",
+      "term": "Servient estate"
+    },
+    {
+      "definition": "(E) \"Video programming\" means any programming generally considered comparable to programming provided by a television broadcast station.",
+      "id": "188.01-video-programming",
+      "normalized": "video programming",
+      "scope": "As used in sections 188.01 to 188.23 of the Revised Code:",
+      "section": "188.01",
+      "source_title": "Section 188.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-188.01",
+      "term": "Video programming"
+    },
+    {
+      "definition": "(F) \"Video service\" means video programming services without regard to delivery technology, including internet protocol technology and video programming provided as a part of a service that enables users to access content, information, electronic mail, or other services offered over the public internet.\n\nLast updated June 9, 2021 at 12:57 PM",
+      "id": "188.01-video-service",
+      "normalized": "video service",
+      "scope": "As used in sections 188.01 to 188.23 of the Revised Code:",
+      "section": "188.01",
+      "source_title": "Section 188.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-188.01",
+      "term": "Video service"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "188.01",
+      "number": "188.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-188.01"
+    },
+    {
+      "kind": "section",
+      "label": "188.23",
+      "number": "188.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-188.23"
+    },
+    {
+      "kind": "section",
+      "label": "4928.01",
+      "number": "4928.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.01"
+    },
+    {
+      "kind": "section",
+      "label": "4927.01",
+      "number": "4927.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4927.01"
+    }
+  ],
+  "scraped": "2026-07-02T19:32:25+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-188.01",
+  "title": "Section 188.01 - Definitions."
+}

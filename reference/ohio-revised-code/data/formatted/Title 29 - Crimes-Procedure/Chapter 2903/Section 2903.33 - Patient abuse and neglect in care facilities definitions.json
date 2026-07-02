@@ -1,0 +1,114 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Care facility\" means any of the following:\n\n(1) Any \"home\" as defined in section 3721.10 of the Revised Code;\n\n(2) Any \"residential facility\" as defined in section 5123.19 of the Revised Code;\n\n(3) Any institution or facility operated or provided by the department of mental health and addiction services or by the department of developmental disabilities pursuant to sections 5119.14 and 5123.03 of the Revised Code;\n\n(4) Any \"residential facility\" as defined in section 5119.34 of the Revised Code;\n\n(5) Any unit of any hospital, as defined in section 3701.01 of the Revised Code, that provides the same services as a nursing home, as defined in section 3721.01 of the Revised Code;\n\n(6) Any institution, residence, or facility that provides, for a period of more than twenty-four hours, whether for a consideration or not, accommodations to one individual or two unrelated individuals who are dependent upon the services of others.",
+      "id": "2903.33-care-facility",
+      "normalized": "care facility",
+      "scope": "As used in sections 2903.33 to 2903.36 of the Revised Code:",
+      "section": "2903.33",
+      "source_title": "Section 2903.33 - Patient abuse and neglect in care facilities definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2903.33",
+      "term": "Care facility"
+    },
+    {
+      "definition": "(B) \"Abuse\" means knowingly causing physical harm or recklessly causing serious physical harm to a person by physical contact with the person or by the inappropriate use of a physical or chemical restraint, medication, or isolation on the person.",
+      "id": "2903.33-abuse",
+      "normalized": "abuse",
+      "scope": "As used in sections 2903.33 to 2903.36 of the Revised Code:",
+      "section": "2903.33",
+      "source_title": "Section 2903.33 - Patient abuse and neglect in care facilities definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2903.33",
+      "term": "Abuse"
+    },
+    {
+      "definition": "(C)(1) \"Gross neglect\" means knowingly failing to provide a person with any treatment, care, goods, or service that is necessary to maintain the health or safety of the person when the failure results in physical harm or serious physical harm to the person.",
+      "id": "2903.33-gross-neglect",
+      "normalized": "gross neglect",
+      "scope": "As used in sections 2903.33 to 2903.36 of the Revised Code:",
+      "section": "2903.33",
+      "source_title": "Section 2903.33 - Patient abuse and neglect in care facilities definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2903.33",
+      "term": "Gross neglect"
+    },
+    {
+      "definition": "(2) \"Neglect\" means recklessly failing to provide a person with any treatment, care, goods, or service that is necessary to maintain the health or safety of the person when the failure results in serious physical harm to the person.",
+      "id": "2903.33-neglect",
+      "normalized": "neglect",
+      "scope": "As used in sections 2903.33 to 2903.36 of the Revised Code:",
+      "section": "2903.33",
+      "source_title": "Section 2903.33 - Patient abuse and neglect in care facilities definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2903.33",
+      "term": "Neglect"
+    },
+    {
+      "definition": "(D) \"Inappropriate use of a physical or chemical restraint, medication, or isolation\" means the use of physical or chemical restraint, medication, or isolation as punishment, for staff convenience, excessively, as a substitute for treatment, or in quantities that preclude habilitation and treatment.\n\nLast updated October 20, 2025 at 2:02 PM",
+      "id": "2903.33-inappropriate-use-of-a-physical-or-chemical-restraint-medication-or-isolation",
+      "normalized": "inappropriate use of a physical or chemical restraint, medication, or isolation",
+      "scope": "As used in sections 2903.33 to 2903.36 of the Revised Code:",
+      "section": "2903.33",
+      "source_title": "Section 2903.33 - Patient abuse and neglect in care facilities definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2903.33",
+      "term": "Inappropriate use of a physical or chemical restraint, medication, or isolation"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2903.33",
+      "number": "2903.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2903.33"
+    },
+    {
+      "kind": "section",
+      "label": "2903.36",
+      "number": "2903.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2903.36"
+    },
+    {
+      "kind": "section",
+      "label": "3721.10",
+      "number": "3721.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.10"
+    },
+    {
+      "kind": "section",
+      "label": "5123.19",
+      "number": "5123.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5123.19"
+    },
+    {
+      "kind": "section",
+      "label": "5119.14",
+      "number": "5119.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.14"
+    },
+    {
+      "kind": "section",
+      "label": "5123.03",
+      "number": "5123.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5123.03"
+    },
+    {
+      "kind": "section",
+      "label": "5119.34",
+      "number": "5119.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.34"
+    },
+    {
+      "kind": "section",
+      "label": "3701.01",
+      "number": "3701.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3701.01"
+    },
+    {
+      "kind": "section",
+      "label": "3721.01",
+      "number": "3721.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.01"
+    }
+  ],
+  "scraped": "2026-07-02T19:45:59+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2903.33",
+  "title": "Section 2903.33 - Patient abuse and neglect in care facilities definitions."
+}

@@ -1,0 +1,339 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 503.01 - Corporate powers and duties of civil township.",
+      "number": "503.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-503.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 503.02 - Township boundaries changed by partition or division.",
+      "number": "503.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-503.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 503.03 - Area of townships.",
+      "number": "503.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-503.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 503.04 - Notice of hearing - record of boundaries.",
+      "number": "503.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-503.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 503.05 - Adjustment of disputed boundaries.",
+      "number": "503.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-503.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 503.06 - Marking township boundary lines.",
+      "number": "503.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-503.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 503.061 - Highway signs indicating boundaries of township.",
+      "number": "503.061",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-503.061"
+    },
+    {
+      "kind": "section",
+      "label": "Section 503.07 - Conformity of boundaries.",
+      "number": "503.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-503.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 503.08 - Disposition of remainder of township - name.",
+      "number": "503.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-503.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 503.09 - Petition to erect new township excluding territory of municipal corporation.",
+      "number": "503.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-503.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 503.10 - Apportionment of indebtedness.",
+      "number": "503.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-503.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 503.11 - Division of funds on hand, credits, and properties.",
+      "number": "503.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-503.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 503.12 - Appointment of township officers.",
+      "number": "503.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-503.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 503.13 - Completion of proceedings.",
+      "number": "503.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-503.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 503.14 - Method of boundary change.",
+      "number": "503.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-503.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 503.15 - Boundary change if corporation located in two or more counties.",
+      "number": "503.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-503.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 503.16 - Change of name of township.",
+      "number": "503.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-503.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 503.161 - Change of township name election.",
+      "number": "503.161",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-503.161"
+    },
+    {
+      "kind": "section",
+      "label": "Section 503.162 - Election on name change procedure.",
+      "number": "503.162",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-503.162"
+    },
+    {
+      "kind": "section",
+      "label": "Section 503.17 - Boundary change effect on contracts.",
+      "number": "503.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-503.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 503.18 - Taxable property.",
+      "number": "503.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-503.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 503.19 - Manner of making assessment.",
+      "number": "503.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-503.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 503.20 - Divided parcels.",
+      "number": "503.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-503.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 503.21 - Payment of money to board of township trustees by county treasurer.",
+      "number": "503.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-503.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 503.22 - Election in new township.",
+      "number": "503.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-503.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 503.24 - Vacancy in township office.",
+      "number": "503.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-503.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 503.241 - When township offices deemed vacant.",
+      "number": "503.241",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-503.241"
+    },
+    {
+      "kind": "section",
+      "label": "Section 503.25 - Notice to officers elected or appointed.",
+      "number": "503.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-503.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 503.26 - Certificate of oath to be returned and recorded.",
+      "number": "503.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-503.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 503.27 - Failure to accept office.",
+      "number": "503.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-503.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 503.28 - Delivery of records and property to successor - forfeiture.",
+      "number": "503.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-503.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 503.30 - Street markers and house numbers in unincorporated areas.",
+      "number": "503.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-503.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 503.31 - Remnant of township within boundaries of municipal corporation.",
+      "number": "503.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-503.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 503.40 - Massage establishment definitions.",
+      "number": "503.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-503.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 503.41 - Regulation and registration of massage establishments and their employees.",
+      "number": "503.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-503.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 503.42 - Permits - licenses - regulations.",
+      "number": "503.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-503.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 503.43 - Application for permit to operate massage establishment.",
+      "number": "503.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-503.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 503.44 - Denial or revocation of permit.",
+      "number": "503.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-503.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 503.45 - Application for license as massager.",
+      "number": "503.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-503.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 503.46 - Denial or revocation of license.",
+      "number": "503.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-503.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 503.47 - Requirements of operation.",
+      "number": "503.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-503.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 503.48 - Proceedings of board.",
+      "number": "503.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-503.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 503.49 - Fees deposit and use.",
+      "number": "503.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-503.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 503.50 - Penalties.",
+      "number": "503.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-503.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 503.51 - Adult entertainment establishment definitions.",
+      "number": "503.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-503.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 503.52 - Adult entertainment establishment regulations.",
+      "number": "503.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-503.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 503.53 - Initiative petition on resolution regulating or restricting adult-oriented businesses.",
+      "number": "503.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-503.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 503.54 - Township admission fee.",
+      "number": "503.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-503.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 503.55 - Acceptance of payments by financial transaction devices for township expenses.",
+      "number": "503.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-503.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 503.56 - Tourism development districts.",
+      "number": "503.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-503.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 503.57 - Taxes related to tourism development.",
+      "number": "503.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-503.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 503.58 - Development charges.",
+      "number": "503.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-503.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 503.59 - Township PACE assessment.",
+      "number": "503.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-503.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 503.60 - Residency regulation of sex or child-victim offenders.",
+      "number": "503.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-503.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 503.70 - Commercial advertising on township website.",
+      "number": "503.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-503.70"
+    }
+  ],
+  "scraped": "2026-07-02T19:33:06+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-503",
+  "title": "Chapter 503 - General Provisions"
+}

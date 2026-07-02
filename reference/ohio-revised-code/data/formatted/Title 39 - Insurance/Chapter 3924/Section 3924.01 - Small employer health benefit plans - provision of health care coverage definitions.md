@@ -1,0 +1,42 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3924.01
+Scraped: 2026-07-02T20:02:50+00:00
+
+# Section 3924.01 - Small employer health benefit plans - provision of health care coverage definitions.
+
+**Effective:** April 9, 2025
+
+**Latest Legislation:** House Bill 238 - 135th General Assembly
+
+As used in sections 3924.01 to 3924.06 of the Revised Code:
+
+(A) "Actuarial certification" means a written statement prepared by a member of the American academy of actuaries, or by any other person acceptable to the superintendent of insurance, that states that, based upon the person's examination, a carrier offering health benefit plans to small employers is in compliance with sections 3924.01 to 3924.06 of the Revised Code. "Actuarial certification" shall include a review of the appropriate records of, and the actuarial assumptions and methods used by, the carrier relative to establishing premium rates for the health benefit plans.
+
+(B) "Base premium rate" means, as to any health benefit plan that is issued by a carrier and that covers at least two but no more than fifty employees of a small employer, the lowest premium rate for a new or existing business prescribed by the carrier for the same or similar coverage under a plan or arrangement covering any small employer with similar case characteristics.
+
+(C) "Carrier" means any sickness and accident insurance company or health insuring corporation authorized to issue health benefit plans in this state or a MEWA. A sickness and accident insurance company that owns or operates a health insuring corporation, either as a separate corporation or as a line of business, shall be considered as a separate carrier from that health insuring corporation for purposes of sections 3924.01 to 3924.06 of the Revised Code.
+
+(D) "Case characteristics" means, with respect to a small employer, the geographic area in which the employees work; the age and sex of the individual employees and their dependents; the appropriate industry classification as determined by the carrier; the number of employees and dependents; and such other objective criteria as may be established by the carrier. "Case characteristics" does not include claims experience, health status, or duration of coverage from the date of issue.
+
+(E) "Dependent" means the spouse or child of an eligible employee, subject to applicable terms of the health benefits plan covering the employee.
+
+(F) "Eligible employee" means an employee who works a normal work week of thirty or more hours. "Eligible employee" does not include a temporary or substitute employee, or a seasonal employee who works only part of the calendar year on the basis of natural or suitable times or circumstances.
+
+(G) "Health benefit plan" means any hospital or medical expense policy or certificate or any health plan provided by a carrier, that is delivered, issued for delivery, renewed, or used in this state on or after the date occurring six months after November 24, 1995. "Health benefit plan" does not include policies covering only accident, credit, dental, disability income, long-term care, hospital indemnity, medicare supplement, specified disease, or vision care; coverage under a one-time-limited-duration policy that is less than twelve months; coverage issued as a supplement to liability insurance; insurance arising out of a workers' compensation or similar law; automobile medical-payment insurance; or insurance under which benefits are payable with or without regard to fault and which is statutorily required to be contained in any liability insurance policy or equivalent self-insurance.
+
+(H) "Late enrollee" means an eligible employee or dependent who enrolls in a small employer's health benefit plan other than during the first period in which the employee or dependent is eligible to enroll under the plan or during a special enrollment period described in section 2701(f) of the "Health Insurance Portability and Accountability Act of 1996," Pub. L. No. 104-191, 110 Stat. 1955, 42 U.S.C.A. 300gg, as amended.
+
+(I) "MEWA" means any "multiple employer welfare arrangement" as defined in section 3 of the "Federal Employee Retirement Income Security Act of 1974," 88 Stat. 832, 29 U.S.C.A. 1001, as amended, except for any arrangement which is fully insured as defined in division (b)(6)(D) of section 514 of that act.
+
+(J) "Midpoint rate" means, for small employers with similar case characteristics and plan designs and as determined by the applicable carrier for a rating period, the arithmetic average of the applicable base premium rate and the corresponding highest premium rate.
+
+(K) "Pre-existing conditions provision" means a policy provision that excludes or limits coverage for charges or expenses incurred during a specified period following the insured's enrollment date as to a condition for which medical advice, diagnosis, care, or treatment was recommended or received during a specified period immediately preceding the enrollment date. Genetic information shall not be treated as such a condition in the absence of a diagnosis of the condition related to such information.
+
+For purposes of this division, "enrollment date" means, with respect to an individual covered under a group health benefit plan, the date of enrollment of the individual in the plan or, if earlier, the first day of the waiting period for such enrollment.
+
+(L) "Service waiting period" means the period of time after employment begins before an employee is eligible to be covered for benefits under the terms of any applicable health benefit plan offered by the small employer.
+
+(M)(1) "Small employer" means, in connection with a group health benefit plan and with respect to a calendar year and a plan year, an employer who employed an average of at least two but no more than fifty eligible employees on business days during the preceding calendar year and who employs at least two employees on the first day of the plan year.
+
+(2) For purposes of division (M)(1) of this section, all persons treated as a single employer under subsection (b), (c), (m), or (o) of section 414 of the "Internal Revenue Code of 1986," 100 Stat. 2085, 26 U.S.C.A. 1, as amended, shall be considered one employer. In the case of an employer that was not in existence throughout the preceding calendar year, the determination of whether the employer is a small or large employer shall be based on the average number of eligible employees that it is reasonably expected the employer will employ on business days in the current calendar year. Any reference in division (M) of this section to an "employer" includes any predecessor of the employer. Except as otherwise specifically provided, provisions of sections 3924.01 to 3924.06 of the Revised Code that apply to a small employer that has a health benefit plan shall continue to apply until the plan anniversary following the date the employer no longer meets the requirements of this division.
+
+Last updated February 14, 2025 at 9:20 AM

@@ -1,0 +1,98 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-2712
+Scraped: 2026-07-02T19:44:58+00:00
+
+# Chapter 2712 - International Commercial Arbitration
+
+## Sections
+
+- Section 2712.01 - International commercial arbitration definitions.
+- Section 2712.02 - Applicability of chapter.
+- Section 2712.03 - Determining when arbitration or conciliation agreement is international.
+- Section 2712.04 - Determining when arbitration or conciliation agreement is commercial.
+- Section 2712.05 - General arbitration statutes superseded.
+- Section 2712.06 - Freedom to determine issues.
+- Section 2712.07 - Inclusion of arbitration or conciliation rules in agreement.
+- Section 2712.08 - Counterclaims or defenses to counterclaims.
+- Section 2712.09 - Written communication deemed to have been received.
+- Section 2712.10 - Waiving right to object to noncompliance.
+- Section 2712.11 - Intervention by court.
+- Section 2712.12 - Arbitration agreement form.
+- Section 2712.13 - Application for stay of proceedings and to compel arbitration.
+- Section 2712.14 - Interim measure of protection.
+- Section 2712.15 - Granting measures of protection.
+- Section 2712.16 - Considerations in granting measures of protection.
+- Section 2712.17 - Composition of arbitration tribunal.
+- Section 2712.18 - Procedure for appointing arbitral tribunal.
+- Section 2712.19 - Measures to secure the appointment of an arbitrator.
+- Section 2712.20 - Appointing arbitrators.
+- Section 2712.21 - Finality of decision appointing arbitrators.
+- Section 2712.22 - Potential arbitrators and conciliators to disclose questionable impartiality.
+- Section 2712.23 - Obligation to disclose information.
+- Section 2712.24 - Continuing duty to disclose questionable impartiality.
+- Section 2712.25 - Challenging an arbitrator.
+- Section 2712.26 - Circumstances causing challenge.
+- Section 2712.27 - Deciding challenges.
+- Section 2712.28 - Court of common pleas to review challenge decisions.
+- Section 2712.29 - Mandate of arbitrator terminates.
+- Section 2712.30 - Replacing arbitrator.
+- Section 2712.31 - Jurisdiction rulings.
+- Section 2712.32 - Plea of lack of jurisdiction.
+- Section 2712.33 - Exceeding scope of authority plea.
+- Section 2712.34 - Admission of later plea.
+- Section 2712.35 - Court review of ruling on jurisdiction.
+- Section 2712.36 - Requests for interim measure of protection order.
+- Section 2712.37 - Equal opportunity to present case.
+- Section 2712.38 - Agreement for procedure.
+- Section 2712.39 - Tribunal to determine procedure.
+- Section 2712.40 - Place of arbitration decision.
+- Section 2712.41 - Place of meeting of arbitral tribunal.
+- Section 2712.42 - Language used in proceedings.
+- Section 2712.43 - Arbitral proceeding commences on date of request.
+- Section 2712.44 - Timely submission of statement of claims.
+- Section 2712.45 - Amending or supplementing statement of claim or defense.
+- Section 2712.46 - Oral hearings and meetings.
+- Section 2712.47 - Notice of hearings or meetings.
+- Section 2712.48 - Information on which the tribunal may rely to be communicated to all parties.
+- Section 2712.49 - Party's failure to appear or produce documents.
+- Section 2712.50 - Experts.
+- Section 2712.51 - Assistance by court of common pleas.
+- Section 2712.52 - Consolidating arbitration.
+- Section 2712.53 - Designation of law or legal system.
+- Section 2712.54 - Authorization for decision ex aequo et bono or amiable compositeur.
+- Section 2712.55 - Accordance with contract - usages of trade.
+- Section 2712.56 - Decision of majority or presider.
+- Section 2712.57 - Encouraging settlement.
+- Section 2712.58 - Record of settlement.
+- Section 2712.59 - Form and delivery of award.
+- Section 2712.60 - Interim arbitral award.
+- Section 2712.61 - Interest and cost allocation.
+- Section 2712.62 - Request for correction of errors or interpretation of award.
+- Section 2712.63 - Request of additional award as to claims presented but not adjudicated.
+- Section 2712.64 - Time extensions.
+- Section 2712.65 - Terminating proceedings.
+- Section 2712.66 - Termination order.
+- Section 2712.67 - Terminating mandate or arbitrators.
+- Section 2712.68 - Arbitrators' immunity.
+- Section 2712.69 - Confirmation or vacation of award.
+- Section 2712.70 - Grounds for confirmation or vacation of award.
+- Section 2712.71 - Relief granted in foreign currency.
+- Section 2712.72 - Entering judgment or decree.
+- Section 2712.73 - Appeal from court of common pleas.
+- Section 2712.74 - Policy of state to encourage arbitration or conciliation.
+- Section 2712.75 - Guiding principles.
+- Section 2712.76 - Proceedings of conciliation.
+- Section 2712.77 - Representation or assistance.
+- Section 2712.78 - Draft conciliation statement.
+- Section 2712.79 - Acceptance of settlement.
+- Section 2712.80 - Evidence and documents admissibility and disclosure.
+- Section 2712.81 - Stay of judicial and arbitral proceedings.
+- Section 2712.82 - Conciliation tolls statute of limitations.
+- Section 2712.83 - Terminating conciliation proceedings.
+- Section 2712.84 - Terminating as to particular parties.
+- Section 2712.85 - Participation of conciliator in other proceedings involving same dispute.
+- Section 2712.86 - Waiving rights and remedies.
+- Section 2712.87 - Written conciliation agreement treated as arbitral award.
+- Section 2712.88 - Conciliation costs.
+- Section 2712.89 - Cost apportionment - immunity of conciliator.
+- Section 2712.90 - State court jurisdiction.
+- Section 2712.91 - Chapter provisions classified as substantive.

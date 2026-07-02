@@ -1,0 +1,100 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Economic harm\" means any of the following:\n\n(a) All direct, incidental, and consequential pecuniary harm suffered by a victim as a result of criminal conduct. \"Economic harm\" as described in this division includes, but is not limited to, all of the following:\n\n(i) All wages, salaries, or other compensation lost as a result of the criminal conduct;\n\n(ii) The cost of all wages, salaries, or other compensation paid to employees for time those employees are prevented from working as a result of the criminal conduct;\n\n(iii) The overhead costs incurred for the time that a business is shut down as a result of the criminal conduct;\n\n(iv) The loss of value to tangible or intangible property that was damaged as a result of the criminal conduct.\n\n(b) All costs incurred by the state or any political subdivision as a result of, or in making any response to, the criminal conduct that constituted the violation of this section or section 2917.32 of the Revised Code, including, but not limited to, all costs so incurred by any law enforcement officers, firefighters, rescue personnel, or emergency medical services personnel of the state or the political subdivision.",
+      "id": "2917.31-economic-harm",
+      "normalized": "economic harm",
+      "scope": "(E) As used in this section:",
+      "section": "2917.31",
+      "source_title": "Section 2917.31 - Inducing panic.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2917.31",
+      "term": "Economic harm"
+    },
+    {
+      "definition": "(2) \"School\" means any school operated by a board of education or any school for which the director of education and workforce prescribes minimum standards under section 3301.07 of the Revised Code, whether or not any instruction, extracurricular activities, or training provided by the school is being conducted at the time a violation of this section is committed.",
+      "id": "2917.31-school",
+      "normalized": "school",
+      "scope": "(E) As used in this section:",
+      "section": "2917.31",
+      "source_title": "Section 2917.31 - Inducing panic.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2917.31",
+      "term": "School"
+    },
+    {
+      "definition": "(3) \"Weapon of mass destruction\" means any of the following:\n\n(a) Any weapon that is designed or intended to cause death or serious physical harm through the release, dissemination, or impact of toxic or poisonous chemicals, or their precursors;\n\n(b) Any weapon involving a disease organism or biological agent;\n\n(c) Any weapon that is designed to release radiation or radioactivity at a level dangerous to human life;\n\n(d) Any of the following, except to the extent that the item or device in question is expressly excepted from the definition of \"destructive device\" pursuant to 18 U.S.C. 921(a)(4) and regulations issued under that section:\n\n(i) Any explosive, incendiary, or poison gas bomb, grenade, rocket having a propellant charge of more than four ounces, missile having an explosive or incendiary charge of more than one-quarter ounce, mine, or similar device;\n\n(ii) Any combination of parts either designed or intended for use in converting any item or device into any item or device described in division (E)(3)(d)(i) of this section and from which an item or device described in that division may be readily assembled.",
+      "id": "2917.31-weapon-of-mass-destruction",
+      "normalized": "weapon of mass destruction",
+      "scope": "(E) As used in this section:",
+      "section": "2917.31",
+      "source_title": "Section 2917.31 - Inducing panic.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2917.31",
+      "term": "Weapon of mass destruction"
+    },
+    {
+      "definition": "(4) \"Biological agent\" has the same meaning as in section 2917.33 of the Revised Code.",
+      "id": "2917.31-biological-agent",
+      "normalized": "biological agent",
+      "scope": "(E) As used in this section:",
+      "section": "2917.31",
+      "source_title": "Section 2917.31 - Inducing panic.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2917.31",
+      "term": "Biological agent"
+    },
+    {
+      "definition": "(5) \"Emergency medical services personnel\" has the same meaning as in section 2133.21 of the Revised Code.",
+      "id": "2917.31-emergency-medical-services-personnel",
+      "normalized": "emergency medical services personnel",
+      "scope": "(E) As used in this section:",
+      "section": "2917.31",
+      "source_title": "Section 2917.31 - Inducing panic.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2917.31",
+      "term": "Emergency medical services personnel"
+    },
+    {
+      "definition": "(6) \"Institution of higher education\" means any of the following:\n\n(a) A state university or college as defined in division (A)(1) of section 3345.12 of the Revised Code, community college, state community college, university branch, or technical college;\n\n(b) A private, nonprofit college, university or other post-secondary institution located in this state that possesses a certificate of authorization issued by the chancellor of higher education pursuant to Chapter 1713. of the Revised Code;\n\n(c) A post-secondary institution with a certificate of registration issued by the state board of career colleges and schools under Chapter 3332. of the Revised Code.\n\nLast updated September 15, 2023 at 1:55 PM",
+      "id": "2917.31-institution-of-higher-education",
+      "normalized": "institution of higher education",
+      "scope": "(E) As used in this section:",
+      "section": "2917.31",
+      "source_title": "Section 2917.31 - Inducing panic.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2917.31",
+      "term": "Institution of higher education"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2917.32",
+      "number": "2917.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2917.32"
+    },
+    {
+      "kind": "section",
+      "label": "3301.07",
+      "number": "3301.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3301.07"
+    },
+    {
+      "kind": "section",
+      "label": "2917.33",
+      "number": "2917.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2917.33"
+    },
+    {
+      "kind": "section",
+      "label": "2133.21",
+      "number": "2133.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2133.21"
+    },
+    {
+      "kind": "section",
+      "label": "3345.12",
+      "number": "3345.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3345.12"
+    }
+  ],
+  "scraped": "2026-07-02T19:46:15+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2917.31",
+  "title": "Section 2917.31 - Inducing panic."
+}

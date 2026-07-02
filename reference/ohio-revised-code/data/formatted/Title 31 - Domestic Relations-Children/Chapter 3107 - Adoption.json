@@ -1,0 +1,495 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 3107.01 - Adoption definitions.",
+      "number": "3107.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.011 - Arranging adoptions.",
+      "number": "3107.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.011"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.012 - Applying for adoption by foster caregiver.",
+      "number": "3107.012",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.012"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.013 - Furnishing information to foster caregiver seeking to adopt child.",
+      "number": "3107.013",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.013"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.014 - Qualifications of assessors.",
+      "number": "3107.014",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.014"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.015 - Education programs for assessors.",
+      "number": "3107.015",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.015"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.016 - Schedule of education programs.",
+      "number": "3107.016",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.016"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.017 - Standardized form for disclosure of information.",
+      "number": "3107.017",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.017"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.02 - Who may be adopted; placement period before adoption.",
+      "number": "3107.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.03 - Who may adopt.",
+      "number": "3107.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.031 - Assessor to conduct home study - false statements.",
+      "number": "3107.031",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.031"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.032 - Multiple children assessment - when required.",
+      "number": "3107.032",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.032"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.033 - Home study and report rules.",
+      "number": "3107.033",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.033"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.034 - Search report to include abuse/neglect information.",
+      "number": "3107.034",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.034"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.035 - Search of national sex offender web site.",
+      "number": "3107.035",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.035"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.04 - Filing petition - caption.",
+      "number": "3107.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.05 - Contents of petition.",
+      "number": "3107.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.051 - Placement of children requirements.",
+      "number": "3107.051",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.051"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.052 - [Former R.C. 3107.051, renumbered by H.B. 5, 135th General Assembly, effective 3/20/2025] Timeline for submitting adoption petition.",
+      "number": "3107.052",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.052"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.055 - Preliminary estimate and final accounting - summary of proceedings.",
+      "number": "3107.055",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.055"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.06 - Consent to adoption.",
+      "number": "3107.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.061 - Putative father on notice that consent unnecessary.",
+      "number": "3107.061",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.061"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.062 - Putative father registry.",
+      "number": "3107.062",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.062"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.063 - Searching putative father registry.",
+      "number": "3107.063",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.063"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.064 - Filing certified results of search.",
+      "number": "3107.064",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.064"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.065 - Rules governing registry - promoting awareness.",
+      "number": "3107.065",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.065"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.066 - References to department of human services replaced.",
+      "number": "3107.066",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.066"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.067 - Notice to putative father of intent to put child up for adoption.",
+      "number": "3107.067",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.067"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.068 - Obligation of mother.",
+      "number": "3107.068",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.068"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.069 - Proof of notice.",
+      "number": "3107.069",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.069"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.0611 - Notice to putative father.",
+      "number": "3107.0611",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.0611"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.0612 - Paternity action by putative father.",
+      "number": "3107.0612",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.0612"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.0613 - Notice of filing of paternity action.",
+      "number": "3107.0613",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.0613"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.0614 - Validity of notice.",
+      "number": "3107.0614",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.0614"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.07 - Consent unnecessary.",
+      "number": "3107.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.08 - Executing consent.",
+      "number": "3107.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.081 - Conditions for accepting parent's consent.",
+      "number": "3107.081",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.081"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.082 - Duties of assessor prior to execution of consent.",
+      "number": "3107.082",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.082"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.083 - Contents of form signed by parent.",
+      "number": "3107.083",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.083"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.084 - Withdrawing consent.",
+      "number": "3107.084",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.084"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.09 - Taking social and medical histories of biological parents.",
+      "number": "3107.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.091 - Completing social and medical history forms subsequent to adoption.",
+      "number": "3107.091",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.091"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.10 - Out-of-county adoption - notice to agency where parent resides.",
+      "number": "3107.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.101 - Post-placement prospective adoptive home visit.",
+      "number": "3107.101",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.101"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.11 - Hearing - notice.",
+      "number": "3107.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.12 - Prefinalization assessment of minor and petitioner; physical examination.",
+      "number": "3107.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.14 - Presence of petitioner and adoptee at hearing - continuance - final decree or interlocutory order.",
+      "number": "3107.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.141 - Redoing or supplementing of report or history.",
+      "number": "3107.141",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.141"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.15 - Effect of final decree or interlocutory order of adoption.",
+      "number": "3107.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.16 - Appeals.",
+      "number": "3107.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.161 - Determining best interest of child in contested adoption - burden of proof.",
+      "number": "3107.161",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.161"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.17 - Closed hearing - confidentiality - records.",
+      "number": "3107.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.171 - Disclosure of court that entered order or decree.",
+      "number": "3107.171",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.171"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.18 - Foreign adoption.",
+      "number": "3107.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.19 - Forwarding records to department of health and birth state's vital statistics office.",
+      "number": "3107.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.20 - Termination of child support order.",
+      "number": "3107.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.38 - Right of adopted persons or lineal descendants.",
+      "number": "3107.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.381 - Transfer of releases.",
+      "number": "3107.381",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.381"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.39 - Contact preference form for biological parents.",
+      "number": "3107.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.391 - Biological parent's name redaction request form.",
+      "number": "3107.391",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.391"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.392 - Information on web site.",
+      "number": "3107.392",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.392"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.393 - Attachment of social and medical history form to other forms.",
+      "number": "3107.393",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.393"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.394 - System for contacting biological parents regarding medical history.",
+      "number": "3107.394",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.394"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.45 - Access to adoption records additional definitions.",
+      "number": "3107.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.46 - Birth parent may file denial of release.",
+      "number": "3107.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.47 - Adult adoptee or adoptive parent may request copy of file.",
+      "number": "3107.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.48 - Adoptee's request for assistance to birth parent or sibling in finding name by adoption.",
+      "number": "3107.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.49 - Birth parent or adult sibling may request assistance.",
+      "number": "3107.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.50 - Forms for denial or authorization of release.",
+      "number": "3107.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.51 - Form for adoptee's request for assistance.",
+      "number": "3107.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.52 - Access to records.",
+      "number": "3107.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.53 - Immunity.",
+      "number": "3107.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.60 - Open adoption definitions.",
+      "number": "3107.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.61 - Birth parent may request profiles of prospective adoptive parents and express preference.",
+      "number": "3107.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.62 - Nonbinding open adoption notice.",
+      "number": "3107.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.63 - Birth parent may request open adoption agreement.",
+      "number": "3107.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.65 - Terms prohibited in open adoption.",
+      "number": "3107.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.66 - Request for nonidentifying information.",
+      "number": "3107.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.67 - Transfer of records to probate court when agency or attorney permanently ceases arranging adoptions.",
+      "number": "3107.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.67"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.68 - Providing of materials, photographs and birth parent's first name to child or adoptive parent.",
+      "number": "3107.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.68"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3107.99 - Penalty.",
+      "number": "3107.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3107.99"
+    }
+  ],
+  "scraped": "2026-07-02T19:47:38+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-3107",
+  "title": "Chapter 3107 - Adoption"
+}

@@ -1,0 +1,531 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 2941.01 - Indictment definitions.",
+      "number": "2941.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.02 - Indictment processes apply to informations.",
+      "number": "2941.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.021 - Offenses prosecuted by information.",
+      "number": "2941.021",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.021"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.03 - Sufficiency of indictment or information.",
+      "number": "2941.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.04 - Two or more offenses in one indictment or information.",
+      "number": "2941.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.05 - Statement that accused has committed some public offense.",
+      "number": "2941.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.06 - Form of indictment.",
+      "number": "2941.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.07 - Bill of particulars.",
+      "number": "2941.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.08 - Defects which do not affect validity of indictment or information.",
+      "number": "2941.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.09 - Identification of group, association, or corporation.",
+      "number": "2941.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.10 - Indictment failing to negative any exception, excuse, or proviso contained in statute.",
+      "number": "2941.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.11 - Allege prior conviction.",
+      "number": "2941.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.12 - Pleading a statute or right derived therefrom.",
+      "number": "2941.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.13 - Pleading a judgment or other determination.",
+      "number": "2941.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.14 - Indictment for aggravated murder, murder, or voluntary or involuntary manslaughter - specifications.",
+      "number": "2941.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.141 - Firearm on or about offender's person or under offender's control specification.",
+      "number": "2941.141",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.141"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.142 - Criminal gang participation specification.",
+      "number": "2941.142",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.142"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.143 - Offense in school safety zone or towards a person in school safety zone specification.",
+      "number": "2941.143",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.143"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.144 - Automatic firearm or firearm muffler or suppressor specification.",
+      "number": "2941.144",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.144"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.145 - Firearm displayed, brandished, indicated that offender possessed the firearm, or used it to facilitate offense specification.",
+      "number": "2941.145",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.145"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.146 - Firearm discharged from motor vehicle specification.",
+      "number": "2941.146",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.146"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.147 - Sexual motivation specification.",
+      "number": "2941.147",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.147"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.148 - Sexually violent predator specification.",
+      "number": "2941.148",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.148"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.149 - Repeat violent offender specification.",
+      "number": "2941.149",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.149"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.1410 - Major drug offender specification.",
+      "number": "2941.1410",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.1410"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.1411 - Offender wore or carried body armor specification.",
+      "number": "2941.1411",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.1411"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.1412 - Discharged firearm at peace officer or corrections officer specification.",
+      "number": "2941.1412",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.1412"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.1413 - Mandatory additional prison term for felony OVI violation precluded unless charging instrument specifies prior convictions.",
+      "number": "2941.1413",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.1413"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.1414 - Peace officer victim of aggravated vehicular homicide specification.",
+      "number": "2941.1414",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.1414"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.1415 - Multiple OVI violations specification.",
+      "number": "2941.1415",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.1415"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.1417 - Property subject to forfeiture - indictment specifications.",
+      "number": "2941.1417",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.1417"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.1418 - Rape - offender age specification.",
+      "number": "2941.1418",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.1418"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.1419 - Rape - victim age specification.",
+      "number": "2941.1419",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.1419"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.1420 - Rape - previous conviction or serious physical harm specification.",
+      "number": "2941.1420",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.1420"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.1421 - School proximity specification for certain sex offenses.",
+      "number": "2941.1421",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.1421"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.1422 - Mandatory prison term - furtherance of human trafficking.",
+      "number": "2941.1422",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.1422"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.1423 - Mandatory prison term - pregnancy known to offender.",
+      "number": "2941.1423",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.1423"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.1424 - Specification of violent career criminal.",
+      "number": "2941.1424",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.1424"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.1425 - Use of accelerant in committing violent felony.",
+      "number": "2941.1425",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.1425"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.1426 - Imposition of mandatory sentence under R.C. 2929.14.",
+      "number": "2941.1426",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.1426"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.15 - Sufficiency of indictment or information for forgery.",
+      "number": "2941.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.16 - Description of forgery materials sufficient.",
+      "number": "2941.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.17 - Description of writing by usual name or purport.",
+      "number": "2941.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.18 - Perjury or falsification allegations.",
+      "number": "2941.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.19 - Allegations involving intent to defraud.",
+      "number": "2941.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.20 - Allegations involving sale, possession, transportation, buying, or giving intoxicating liquor.",
+      "number": "2941.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.21 - Allegations involving property belonging to partners or joint owners.",
+      "number": "2941.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.22 - Allegations involving ownership or value of will, codicil, or other testamentary instrument.",
+      "number": "2941.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.23 - Allegations involving elections.",
+      "number": "2941.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.25 - Allied offenses of similar import - multiple counts.",
+      "number": "2941.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.26 - Variance between indictment and evidence.",
+      "number": "2941.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.27 - Plea in abatement or other dilatory plea.",
+      "number": "2941.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.28 - Misjoinder of parties or offenses not grounds for dismissal.",
+      "number": "2941.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.29 - Objection to defect in indictment or information.",
+      "number": "2941.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.30 - Amending indictment, information, or bill of particulars.",
+      "number": "2941.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.31 - Quashed indictment - nolle prosequi.",
+      "number": "2941.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.32 - Two or more indictments pending.",
+      "number": "2941.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.33 - Nolle prosequi how entered.",
+      "number": "2941.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.34 - Indictment or information mutilated, obliterated, lost, mislaid, or destroyed.",
+      "number": "2941.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.35 - Misdemeanor prosecutions.",
+      "number": "2941.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.36 - Issuing arrest warrants.",
+      "number": "2941.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.37 - Warrant when accused resides out of county.",
+      "number": "2941.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.38 - Warrant when accused escapes.",
+      "number": "2941.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.39 - Indictment of convict in a state correctional institution.",
+      "number": "2941.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.40 - Convicts removed to county for sentence or trial.",
+      "number": "2941.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.401 - Request for a final disposition on pending charges by prisoner.",
+      "number": "2941.401",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.401"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.41 - Request for a final disposition on pending charges by prisoner - warrant.",
+      "number": "2941.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.42 - Request for a final disposition on pending charges by prisoner - confinement.",
+      "number": "2941.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.43 - Request for a final disposition on pending charges by prisoner - disposition following trial.",
+      "number": "2941.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.44 - Arrest of escaped convict - expense of return.",
+      "number": "2941.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.45 - Trial of person serving workhouse sentence.",
+      "number": "2941.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.46 - Arrest for violations of conditional pardon or parole.",
+      "number": "2941.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.47 - Summons on informations and indictments against corporations.",
+      "number": "2941.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.48 - Recognizance of witnesses for appearance at trial.",
+      "number": "2941.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.49 - Service of indictments.",
+      "number": "2941.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.51 - Counsel for indigents.",
+      "number": "2941.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.53 - Methods of excepting an indictment.",
+      "number": "2941.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.54 - Motion to quash indictment.",
+      "number": "2941.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.55 - Plea in abatement to indictment.",
+      "number": "2941.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.56 - Fail to indict in true name.",
+      "number": "2941.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.57 - Demurrer.",
+      "number": "2941.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.58 - Resubmission to grand jury.",
+      "number": "2941.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.59 - Waiver of defects which may be excepted to.",
+      "number": "2941.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.60 - Prosecuting attorney may demur to plea in abatement.",
+      "number": "2941.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.61 - Overruling demurrer to plea in abatement.",
+      "number": "2941.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.62 - Immediate hearing on motions to quash, pleas in abatement, and demurrers.",
+      "number": "2941.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2941.63 - Appointment of counsel to assist prosecutor when public interest requires it.",
+      "number": "2941.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.63"
+    }
+  ],
+  "scraped": "2026-07-02T19:46:49+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-2941",
+  "title": "Chapter 2941 - Indictment"
+}

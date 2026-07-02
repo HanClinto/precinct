@@ -1,0 +1,10 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5743.08
+Scraped: 2026-07-02T20:15:22+00:00
+
+# Section 5743.08 - Seizure and sale of cigarettes on which no tax has been paid.
+
+**Effective:** March 27, 2020
+
+**Latest Legislation:** House Bill 197 - 133rd General Assembly
+
+Whenever the tax commissioner discovers any cigarettes which are being shipped, or which have been shipped, or transported in violation of section 2927.023 of the Revised Code, or discovers cigarettes, subject to the taxes levied under section 5743.02 , 5743.021 , 5743.024 , or 5743.026 of the Revised Code, and upon which the taxes have not been paid or that are held for sale or distribution in violation of any other provision of this chapter, the commissioner may seize and take possession of such cigarettes, which shall thereupon be forfeited to the state, and the commissioner, within a reasonable time thereafter shall sell or destroy the forfeited cigarettes. If the commissioner takes possession of cigarettes seized pursuant to section 3739.11 of the Revised Code, such cigarettes shall be forfeited to the state, and the commissioner shall destroy such cigarettes, except prior to the destruction of any such cigarettes, the true holder of the trademark rights in the cigarette brand shall be permitted to inspect the cigarettes. If the commissioner sells cigarettes under this section, the commissioner shall use proceeds from the sale to pay the costs incurred in the proceedings. Any proceeds remaining after all costs have been paid shall be considered revenue arising from the taxes levied under this chapter. Seizure and sale shall not be deemed to relieve any person from the fine or imprisonment provided for violation of sections 5743.01 to 5743.20 of the Revised Code or from a civil penalty under section 3739.99 of the Revised Code. A sale shall be made where it is most convenient and economical. The tax commissioner may order the destruction of the forfeited cigarettes if the quantity or quality of the cigarettes is not sufficient to warrant their sale.

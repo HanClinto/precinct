@@ -1,0 +1,28 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-124.45
+Scraped: 2026-07-02T19:31:40+00:00
+
+# Section 124.45 - Fire department promotions.
+
+**Effective:** July 1, 2007
+
+**Latest Legislation:** House Bill 187 - 126th General Assembly
+
+Vacancies in positions above the rank of regular fire fighter in a fire department shall be filled by competitive promotional examinations, and promotions shall be by successive ranks as provided in this section and sections 124.46 to 124.49 of the Revised Code. Positions in which those vacancies occur shall be called promoted ranks.
+
+When a vacancy occurs in the promoted rank immediately above the rank of regular fire fighter, no person shall be eligible to take the examination unless the person has served forty-eight months, not including the person's probationary period, in the rank of regular fire fighter, provided that, in those cases when there are less than two persons in the rank of regular fire fighter who have served forty-eight months, not including the person's probationary period, in that rank and who are willing to take the examination, this service requirement does not apply.
+
+When a vacancy occurs in a promoted rank, other than the promoted rank immediately above the rank of regular fire fighter, no person shall be eligible to take the examination unless the person has served twelve months in the rank from which the promotion is to be made, provided that, in those cases when there are less than two persons in that next lower rank who have served twelve months in that rank and who are willing to take the examination, the twelve-month service requirement shall not apply. If the nonapplication of the twelve-month service requirement to persons in the next lower rank does not produce two persons eligible and willing to compete, the same method shall be followed by going to successively lower ranks until two or more persons are eligible and willing to compete in an examination for the vacancy. If this process of searching successively lower ranks reaches the rank of regular fire fighter, the forty-eight-month service requirement applies, provided that, in those cases when that application still fails to produce two persons who are eligible and willing to compete, the forty-eight-month service requirement does not apply. If two persons are unwilling to compete for the examination, the one person who is willing to compete shall be appointed to fill the vacancy after passing a qualifying examination.
+
+Promotional examinations for positions within a fire department shall relate to those matters that test the ability of the person examined to discharge the particular duties of the position sought, shall include a written testing component, and, in examinations for positions requiring the operation of machines or equipment, may include practical demonstration tests of the operation of those machines or equipment as a part of the examination.
+
+Those persons who compete in a promotional examination in accordance with the rules of the civil service commission shall have added to their grade credit for seniority. Credit for seniority shall be given as follows: one point shall be added for each of the first four years of service, and six-tenths of a point shall be added for each year for the next ten years of service. In computing the credit for seniority, half of the credit specified in this paragraph shall be given for a half year of service. Credit for seniority shall be based only on service in the municipal or civil service township fire department and the service provided for in the next succeeding paragraph.
+
+When service in a municipal or civil service township fire department is interrupted by service in the armed forces of the United States, seniority credit shall be granted in promotional examinations for the time so served. No additional credit for military service shall be allowed in promotional examinations.
+
+Credit for efficiency may be given as an added credit, shall be ten per cent of the member's efficiency rating for the last year, and shall be based on the record of efficiency maintained in the fire department in the manner established by the civil service commission, provided the efficiency shall be graded by three ranking officers of the fire department familiar with the work of the member. In those cases when three such officers do not exist, the ranking officers or officer familiar with the work of the member shall grade the efficiency.
+
+No credit for seniority, efficiency, or any other reason shall be added to an applicant's grade unless the applicant achieves at least the minimum passing grade on the examination without counting that extra credit.
+
+After the grading of examination papers, any participant in the examination who considers the participant's examination papers to have been erroneously graded shall have the right to appeal to the commission, and the appeal shall be heard by the commission.
+
+The public notice of a holding of a promotional examination for a position or positions in a fire department shall, unless waived by all persons eligible to participate, be published not less than thirty days prior to the examination and shall contain a description of the source material from which the examination questions are prepared. The source material shall be readily accessible to the examinee. Failure to comply with this requirement shall make void the pursuant examination. This paragraph does not prohibit the use of questions having answers based on experience in the fire service within the fire department in which the promotional examination is being given.

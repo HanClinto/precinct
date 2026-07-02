@@ -1,0 +1,112 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"False\" means wholly or partially untrue or deceptive.",
+      "id": "2913.48-false",
+      "normalized": "false",
+      "scope": "(E) As used in this section:",
+      "section": "2913.48",
+      "source_title": "Section 2913.48 - Workers' compensation fraud.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2913.48",
+      "term": "False"
+    },
+    {
+      "definition": "(2) \"Goods\" includes, but is not limited to, medical supplies, appliances, rehabilitative equipment, and any other apparatus or furnishing provided or used in the care, treatment, or rehabilitation of a claimant for workers' compensation benefits.",
+      "id": "2913.48-goods",
+      "normalized": "goods",
+      "scope": "(E) As used in this section:",
+      "section": "2913.48",
+      "source_title": "Section 2913.48 - Workers' compensation fraud.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2913.48",
+      "term": "Goods"
+    },
+    {
+      "definition": "(3) \"Services\" includes, but is not limited to, any service provided by any health care provider to a claimant for workers' compensation benefits and any and all services provided by the bureau as part of workers' compensation insurance coverage.",
+      "id": "2913.48-services",
+      "normalized": "services",
+      "scope": "(E) As used in this section:",
+      "section": "2913.48",
+      "source_title": "Section 2913.48 - Workers' compensation fraud.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2913.48",
+      "term": "Services"
+    },
+    {
+      "definition": "(4) \"Claim\" means any attempt to cause the bureau, an independent third party with whom the administrator or an employer contracts under section 4121.44 of the Revised Code, or a self-insuring employer to make payment or reimbursement for workers' compensation benefits.",
+      "id": "2913.48-claim",
+      "normalized": "claim",
+      "scope": "(E) As used in this section:",
+      "section": "2913.48",
+      "source_title": "Section 2913.48 - Workers' compensation fraud.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2913.48",
+      "term": "Claim"
+    },
+    {
+      "definition": "(5) \"Employment\" means participating in any trade, occupation, business, service, or profession for substantial gainful remuneration.\n\n(6) \"Employer,\" \"employee,\" and \"self-insuring employer\" have the same meanings as in section 4123.01 of the Revised Code.",
+      "id": "2913.48-employment",
+      "normalized": "employment",
+      "scope": "(E) As used in this section:",
+      "section": "2913.48",
+      "source_title": "Section 2913.48 - Workers' compensation fraud.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2913.48",
+      "term": "Employment"
+    },
+    {
+      "definition": "(7) \"Remuneration\" includes, but is not limited to, wages, commissions, rebates, and any other reward or consideration.",
+      "id": "2913.48-remuneration",
+      "normalized": "remuneration",
+      "scope": "(E) As used in this section:",
+      "section": "2913.48",
+      "source_title": "Section 2913.48 - Workers' compensation fraud.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2913.48",
+      "term": "Remuneration"
+    },
+    {
+      "definition": "(8) \"Statement\" includes, but is not limited to, any oral, written, electronic, electronic impulse, or magnetic communication notice, letter, memorandum, receipt for payment, invoice, account, financial statement, or bill for services; a diagnosis, prognosis, prescription, hospital, medical, or dental chart or other record; and a computer generated document.",
+      "id": "2913.48-statement",
+      "normalized": "statement",
+      "scope": "(E) As used in this section:",
+      "section": "2913.48",
+      "source_title": "Section 2913.48 - Workers' compensation fraud.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2913.48",
+      "term": "Statement"
+    },
+    {
+      "definition": "(9) \"Records\" means any medical, professional, financial, or business record relating to the treatment or care of any person, to goods or services provided to any person, or to rates paid for goods or services provided to any person, or any record that the administrator of workers' compensation requires pursuant to rule.",
+      "id": "2913.48-records",
+      "normalized": "records",
+      "scope": "(E) As used in this section:",
+      "section": "2913.48",
+      "source_title": "Section 2913.48 - Workers' compensation fraud.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2913.48",
+      "term": "Records"
+    },
+    {
+      "definition": "(10) \"Workers' compensation benefits\" means any compensation or benefits payable under Chapter 4121., 4123., 4127., or 4131. of the Revised Code.",
+      "id": "2913.48-workers-compensation-benefits",
+      "normalized": "workers' compensation benefits",
+      "scope": "(E) As used in this section:",
+      "section": "2913.48",
+      "source_title": "Section 2913.48 - Workers' compensation fraud.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2913.48",
+      "term": "Workers' compensation benefits"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "4121.44",
+      "number": "4121.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.44"
+    },
+    {
+      "kind": "section",
+      "label": "4123.01",
+      "number": "4123.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.01"
+    }
+  ],
+  "scraped": "2026-07-02T19:46:11+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2913.48",
+  "title": "Section 2913.48 - Workers' compensation fraud."
+}

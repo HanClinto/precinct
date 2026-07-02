@@ -1,0 +1,44 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5747.85
+Scraped: 2026-07-02T20:15:28+00:00
+
+# Section 5747.85 - Homeownership savings account deduction.
+
+**Effective:** September 30, 2025
+
+**Latest Legislation:** House Bill 96 - 136th General Assembly
+
+(A) As used in this section:
+
+(1) "Homeownership savings account" and "program period" have the same meanings as in section 135.70 of the Revised Code.
+
+(2) "Account owner" means "eligible participant" as defined by section 135.70 of the Revised Code.
+
+(3) "Contributor" means the account owner or a parent, spouse, sibling, stepparent, or grandparent of the account owner who deposits funds into the homeownership savings account.
+
+(4) "Lifetime contribution limit" means twenty-five thousand dollars of contributions per contributor per homeownership savings account. If an account owner opens one or more additional homeownership savings accounts, a contributor's lifetime contribution limit for the additional accounts shall be reduced by any contributions previously made by the contributor to an account owned by that account owner.
+
+(5) "Eligible expenses" means unreimbursed expenses paid by the account owner for home purchase costs for the account owner's primary residence and account fees imposed on the account owner.
+
+(6) "Primary residence" means a homestead located in this state that is or will be the account owner's principal place of residence at the time the eligible expenses are incurred and for which the account owner receives or will receive a reduction in real property taxes or manufactured home taxes under division (B)(2) of section 323.152 of the Revised Code.
+
+(7) "Homestead" means a homestead, as defined in section 323.151 of the Revised Code, or a manufactured or mobile home that is owned and occupied as a home by an individual whose domicile is in this state and upon which the manufactured home tax is assessed pursuant to division (D)(2) of section 4503.06 of the Revised Code.
+
+(8) "Home purchase costs" means "eligible home costs" as defined in section 135.70 of the Revised Code.
+
+(9) "Employer contribution" means the amount an employer contributes to a homeownership savings account.
+
+(B) In computing Ohio adjusted gross income, a deduction from federal adjusted gross income is allowed to a contributor for amounts contributed to a homeownership savings account to the extent that the amounts contributed have not already been deducted in computing the contributor's federal or Ohio adjusted gross income for the taxable year. The deduction shall equal the amount of contributions made by the taxpayer and, if filing a joint return, the taxpayer's spouse, except that the deduction shall not exceed, for any taxable year, ten thousand dollars for spouses filing a joint return or five thousand dollars for all other taxpayers for each homeownership savings account to which contributions are made. If a taxpayer files a joint return, the deduction amount attributable to contributions made by each spouse shall not exceed five thousand dollars for each homeownership savings account to which contributions are made. A contributor is not entitled to a deduction under this section to the extent the deduction causes the contributor to exceed the lifetime contribution limit. No deduction is allowed under this section for the transfer of funds from one homeownership savings account to another homeownership savings account.
+
+(C) In computing Ohio adjusted gross income, a deduction from federal adjusted gross income is allowed to an account owner for the following items:
+
+(1) Interest earned on a homeownership savings account to the extent the interest has not been otherwise deducted or excluded in computing an account owner's federal or Ohio adjusted gross income.
+
+(2) Employer contributions made by an employer to an account owner's homeownership savings account to the extent the employer contributions have not been otherwise deducted or excluded in computing an account owner's federal or Ohio adjusted gross income.
+
+(D) The tax commissioner may request that a taxpayer claiming a deduction calculated under division (B) or (C) of this section furnish information necessary to support the claim for the deduction under this section, and no deduction shall be allowed unless the requested information is provided.
+
+(E) No deduction is permitted under division (B) or (C) of this section for contributions made or interest earned after the conclusion of a homeownership savings account's program period.
+
+(F) The commissioner may adopt rules necessary to administer this section.
+
+Last updated August 1, 2025 at 11:39 AM

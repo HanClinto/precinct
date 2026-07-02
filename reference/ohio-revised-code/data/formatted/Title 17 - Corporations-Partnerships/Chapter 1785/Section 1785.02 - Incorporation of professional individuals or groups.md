@@ -1,0 +1,12 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-1785.02
+Scraped: 2026-07-02T19:40:43+00:00
+
+# Section 1785.02 - Incorporation of professional individuals or groups.
+
+**Effective:** October 3, 2023
+
+**Latest Legislation:** House Bill 33 - 135th General Assembly
+
+An individual or group of individuals each of whom is licensed, certificated, or otherwise legally authorized to render within this state the same kind of professional service, a group of individuals each of whom is licensed, certificated, or otherwise legally authorized to render within this state the professional service authorized under Chapter 4703. or 4733. of the Revised Code, or a group of individuals each of whom is licensed, certificated, or otherwise legally authorized to render within this state the professional service of optometrists authorized under Chapter 4725. of the Revised Code, chiropractors authorized under Chapter 4734. of the Revised Code to practice chiropractic or acupuncture, psychologists authorized under Chapter 4732. of the Revised Code, registered or licensed practical nurses authorized under Chapter 4723. of the Revised Code, pharmacists authorized under Chapter 4729. of the Revised Code, physical therapists authorized under sections 4755.40 to 4755.56 of the Revised Code, occupational therapists authorized under sections 4755.04 to 4755.13 of the Revised Code, mechanotherapists authorized under section 4731.151 of the Revised Code, doctors of medicine and surgery, osteopathic medicine and surgery, or podiatric medicine and surgery authorized under Chapter 4731. of the Revised Code, or licensed professional clinical counselors, licensed professional counselors, independent social workers, social workers, independent marriage and family therapists, marriage and family therapists, art therapists, or music therapists authorized under Chapter 4757. of the Revised Code may organize and become a shareholder or shareholders of a professional association. Any group of individuals described in this section who may be rendering one of the professional services as an organization created otherwise than pursuant to this chapter may incorporate under and pursuant to this chapter by amending the agreement establishing the organization in a manner that the agreement as amended constitutes articles of incorporation prepared and filed in the manner prescribed in section 1785.08 of the Revised Code and by otherwise complying with the applicable requirements of this chapter.
+
+Last updated September 19, 2023 at 3:02 PM

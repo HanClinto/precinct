@@ -1,0 +1,669 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 4928.01 - Competitive retail electric service definitions.",
+      "number": "4928.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.02 - State policy.",
+      "number": "4928.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.03 - Identification of competitive services and noncompetitive services.",
+      "number": "4928.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.04 - Additional competitive services.",
+      "number": "4928.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.041 - Competitive retail electric service from electric utility prohibited.",
+      "number": "4928.041",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.041"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.05 - Extent of exemptions.",
+      "number": "4928.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.06 - Commission to ensure competitive retail electric service.",
+      "number": "4928.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.07 - Separate pricing of services on bill.",
+      "number": "4928.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.08 - Certification to provide retail electric competitive service.",
+      "number": "4928.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.09 - Consent to jurisdiction - appointment of statutory agent.",
+      "number": "4928.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.10 - Minimum service requirements for competitive services.",
+      "number": "4928.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.101 - Small commercial customer consumer protections.",
+      "number": "4928.101",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.101"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.102 - Fixed-to-variable electric supplier rate change notice to customer.",
+      "number": "4928.102",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.102"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.103 - Rules for changing electric supplier using valid identification.",
+      "number": "4928.103",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.103"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.104 - Alternative billing for mercantile customers.",
+      "number": "4928.104",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.104"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.105 - Expedited return of mercantile customer to standard service offer.",
+      "number": "4928.105",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.105"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.11 - Minimum service requirements for noncompetitive services.",
+      "number": "4928.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.111 - Review of distribution and transmission infrastructure.",
+      "number": "4928.111",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.111"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.112 - Priority to hospitals in case of outage.",
+      "number": "4928.112",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.112"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.12 - Qualifying transmission entities.",
+      "number": "4928.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.13 - Nuclear generation facilities decommissioning.",
+      "number": "4928.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.14 - Failure of supplier to provide service.",
+      "number": "4928.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.141 - Distribution utility to provide standard service offer.",
+      "number": "4928.141",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.141"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.142 - Standard generation service offer price - competitive bidding.",
+      "number": "4928.142",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.142"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.144 - Phase-in of electric distribution utility rate or price.",
+      "number": "4928.144",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.144"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.145 - Availability of contract or agreement relevant to proceeding.",
+      "number": "4928.145",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.145"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.146 - Electric service within territory of another utility.",
+      "number": "4928.146",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.146"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.149 - Electric energy storage system use in wholesale market prohibited.",
+      "number": "4928.149",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.149"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.1410 - Regulatory assets or liabilities for terminated electric security plan riders.",
+      "number": "4928.1410",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.1410"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.15 - Schedules for provision of noncompetitive service.",
+      "number": "4928.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.151 - Uniform policy regarding electric transmission facilities.",
+      "number": "4928.151",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.151"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.16 - Commission jurisdiction.",
+      "number": "4928.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.17 - Corporate separation plans.",
+      "number": "4928.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.18 - Jurisdiction and powers of commission concerning utility or affiliate.",
+      "number": "4928.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.19 - Consumer education.",
+      "number": "4928.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.20 - Local aggregation of retail electric loads - limitations.",
+      "number": "4928.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.21 - Do not aggregate list - registration - removal of current enrollee.",
+      "number": "4928.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.23 - Definitions for standards for securitization of costs for electric distribution utilities.",
+      "number": "4928.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.231 - Financing order for issuance of bonds to recover phase-in costs and carrying charges.",
+      "number": "4928.231",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.231"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.232 - Proceedings; review of application; disposition.",
+      "number": "4928.232",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.232"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.233 - Rehearing; when order becomes final.",
+      "number": "4928.233",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.233"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.234 - Phase-in-recovery property.",
+      "number": "4928.234",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.234"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.235 - Duration of final financing order.",
+      "number": "4928.235",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.235"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.236 - Subsequent financing orders.",
+      "number": "4928.236",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.236"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.237 - Public utilities commission - prohibited acts.",
+      "number": "4928.237",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.237"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.238 - Request for approval of adjustments to charges.",
+      "number": "4928.238",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.238"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.239 - Nonbypassable charges; collection.",
+      "number": "4928.239",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.239"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.2310 - Default; sequestration and payment of revenues for benefit of bondholders, assignees, and financing parties.",
+      "number": "4928.2310",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.2310"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.2311 - Successors.",
+      "number": "4928.2311",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.2311"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.2312 - Security interest in phase-in-recovery property.",
+      "number": "4928.2312",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.2312"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.2313 - Sale, assignment, or transfer of phase-in-recovery property.",
+      "number": "4928.2313",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.2313"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.2314 - Exemption from taxes and other charges.",
+      "number": "4928.2314",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.2314"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.2315 - Prohibition of state interference.",
+      "number": "4928.2315",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.2315"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.2316 - Governing law.",
+      "number": "4928.2316",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.2316"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.2317 - Repealed laws have no effect on actions taken.",
+      "number": "4928.2317",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.2317"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.2318 - Assignee or financing party not considered an electric distribution utility.",
+      "number": "4928.2318",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.2318"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.24 - Federal energy advocate, duties.",
+      "number": "4928.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.31 - Transition plan.",
+      "number": "4928.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.32 - Procedures for expedited discovery in proceeding initiated to consider transition plan.",
+      "number": "4928.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.33 - Transition plan approval.",
+      "number": "4928.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.34 - Determinations for approval or prescribing of plan.",
+      "number": "4928.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.35 - Schedules containing unbundled rate components set in approved plan.",
+      "number": "4928.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.36 - Complaint concerning transition plan.",
+      "number": "4928.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.37 - Receiving transition revenues.",
+      "number": "4928.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.38 - Commencing and terminating transition revenues.",
+      "number": "4928.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.39 - Determining total allowable transition costs.",
+      "number": "4928.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.40 - Establishing transition charge for each customer class.",
+      "number": "4928.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.43 - Assisting employees affected by electric industry restructuring.",
+      "number": "4928.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.51 - Universal service fund.",
+      "number": "4928.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.52 - Universal service rider.",
+      "number": "4928.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.53 - Director of job and family services to administer low-income customer assistance programs.",
+      "number": "4928.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.54 - Aggregate percentage of income payment plan program customers.",
+      "number": "4928.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.541 - Duration of competitive procurement process.",
+      "number": "4928.541",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.541"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.542 - Winning bids; requirements.",
+      "number": "4928.542",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.542"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.543 - Rules.",
+      "number": "4928.543",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.543"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.544 - Design, management, and supervision of competitive procurement process.",
+      "number": "4928.544",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.544"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.545 - Percentage of income payment plan rider administration.",
+      "number": "4928.545",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.545"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.55 - Energy efficiency and weatherization program.",
+      "number": "4928.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.56 - Education program for consumers eligible to participate in low-income customer assistance programs.",
+      "number": "4928.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.58 - Public benefits advisory board.",
+      "number": "4928.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.61 - Energy efficiency revolving loan fund.",
+      "number": "4928.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.62 - Energy efficiency revolving loan program.",
+      "number": "4928.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.621 - Creating an advanced energy manufacturing center.",
+      "number": "4928.621",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.621"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.63 - Purpose of energy efficiency program.",
+      "number": "4928.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.64 - Electric distribution utility to provide electricity from qualifying renewable energy resources.",
+      "number": "4928.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.641 - Costs being recovered through bypassable charge.",
+      "number": "4928.641",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.641"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.643 - Baselines for compliance with qualified renewable energy resource requirements.",
+      "number": "4928.643",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.643"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.644 - Adjustments to baselines.",
+      "number": "4928.644",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.644"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.645 - Use of renewable energy credits.",
+      "number": "4928.645",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.645"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.65 - Adoption of rules governing disclosure of costs to customers of the renewable energy resource, energy efficiency savings, and peak demand reduction requirements.",
+      "number": "4928.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.66 - Implementing energy efficiency programs.",
+      "number": "4928.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.661 - Low-income customer portfolio plan re-established.",
+      "number": "4928.661",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.661"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.662 - Measurement and determination of compliance with demand reduction requirements.",
+      "number": "4928.662",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.662"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.6610 - Definitions for R.C. 4928.6611 to 4928.6615.",
+      "number": "4928.6610",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.6610"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.6611 - Opting out of portfolio plan.",
+      "number": "4928.6611",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.6611"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.6612 - Notice of intent.",
+      "number": "4928.6612",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.6612"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.6613 - Effect of election to opt out.",
+      "number": "4928.6613",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.6613"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.6614 - Opting in.",
+      "number": "4928.6614",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.6614"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.6615 - Notice of intent to opt in.",
+      "number": "4928.6615",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.6615"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.67 - Standard contract or tariff providing for net energy metering.",
+      "number": "4928.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.67"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.68 - Rules establishing greenhouse gas emission reporting requirements.",
+      "number": "4928.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.68"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.69 - No surcharge, service termination charge, exit fee, or transition charge.",
+      "number": "4928.69",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.69"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.70 - Review of green pricing programs.",
+      "number": "4928.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.71 - Study regarding customer choice; report.",
+      "number": "4928.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.72 - Multi-state study on the development of compressed natural gas infrastructures for transportation.",
+      "number": "4928.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.73 - Mercantile customer self-power system.",
+      "number": "4928.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.75 - Waiver request.",
+      "number": "4928.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.80 - Rate schedule applicable to county fairs and agricultural societies.",
+      "number": "4928.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.80"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.83 - Distribution system hosting capacity maps.",
+      "number": "4928.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.83"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4928.86 - Heat maps.",
+      "number": "4928.86",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.86"
+    }
+  ],
+  "scraped": "2026-07-02T20:09:26+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-4928",
+  "title": "Chapter 4928 - Competitive Retail Electric Service"
+}

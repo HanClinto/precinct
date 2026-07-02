@@ -1,0 +1,32 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4722.01
+Scraped: 2026-07-02T20:06:47+00:00
+
+# Section 4722.01 - Definitions.
+
+**Effective:** September 20, 2024
+
+**Latest Legislation:** House Bill 50 - 135th General Assembly
+
+As used in this chapter:
+
+(A) "Cost-plus contract" means a contract entered into between an owner and a home construction service supplier under which payment to the supplier is based on the cost of a product plus the supplier's rate for labor to install the product plus an agreed percentage of profit or a stipulated fee.
+
+(B) "Home construction service" means the construction of a residential building, including the creation of a new structure and the repair, improvement, remodel, or renovation of an existing structure. "Home construction service" does not include construction performed on a structure that contains four or more dwelling units, except for work on an individual dwelling unit within that structure, or construction performed on the common area of a condominium property.
+
+(C) "Home construction service contract" means a contract between an owner and a supplier to perform home construction services, including services rendered based on a cost-plus contract, for an amount exceeding twenty-five thousand dollars.
+
+(D) "Home construction service supplier" or "supplier" means a person who contracts with an owner to provide home construction services for compensation and who maintains in force a general liability insurance policy in an amount of not less than two hundred fifty thousand dollars.
+
+(E) "Owner" means the person who contracts with a home construction service supplier. "Owner" may include the owner of the property, a tenant who occupies the dwelling unit on which the home construction service is performed, or a person the owner authorizes to act on the owner's behalf to contract for a home construction service, and any other person who contracts for a home construction service.
+
+(F) "Residential building" means a one-, two-, or three-family dwelling and any accessory construction incidental to the dwelling. "Residential building" does not include any of the following:
+
+(1) An industrialized unit as described in section 3781.06 of the Revised Code;
+
+(2) A manufactured home as described in section 3781.06 of the Revised Code;
+
+(3) A mobile home as described in section 4501.01 of the Revised Code.
+
+(G) "Workmanlike manner" means the home construction service supplier has engaged in construction that meets or exceeds the minimum quantifiable standards promulgated by the Ohio home builders association.
+
+Last updated July 8, 2024 at 12:49 PM

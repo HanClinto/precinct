@@ -1,0 +1,81 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-4735
+Scraped: 2026-07-02T20:07:14+00:00
+
+# Chapter 4735 - Real Estate Brokers
+
+## Sections
+
+- Section 4735.01 - Real estate broker definitions.
+- Section 4735.011 - Certification of courses offered by certificate programs through distance education.
+- Section 4735.02 - Requirement of license.
+- Section 4735.021 - Contracts - fees.
+- Section 4735.022 - Nonresident commercial brokers and salespersons.
+- Section 4735.023 - Oil and gas land professionals.
+- Section 4735.03 - Ohio real estate commission - powers and duties.
+- Section 4735.04 - Subpoena power.
+- Section 4735.05 - Organization of commission - confidentiality.
+- Section 4735.051 - Investigating complaints.
+- Section 4735.052 - Civil penalty.
+- Section 4735.06 - Broker's license application.
+- Section 4735.07 - Broker's examination - license qualifications.
+- Section 4735.08 - Conditions for issuing license.
+- Section 4735.081 - Designation of principal broker.
+- Section 4735.09 - Salesperson's application - license qualifications.
+- Section 4735.091 - Relationship with brokerage.
+- Section 4735.10 - Administrative rules.
+- Section 4735.11 - License form and size.
+- Section 4735.12 - Real estate recovery fund.
+- Section 4735.13 - Definite place of business required; display and care of licenses.
+- Section 4735.14 - License term; notice of change of address; notice of renewal.
+- Section 4735.141 - Continuing education.
+- Section 4735.142 - License on permanently resigned status.
+- Section 4735.143 - Criminal records check.
+- Section 4735.15 - Nonrefundable fees.
+- Section 4735.16 - Sign on business premises; advertising.
+- Section 4735.17 - License for nonresidents.
+- Section 4735.18 - Disciplinary actions.
+- Section 4735.181 - Sanctions for noncompliance with statutory requirements - disposition of fines.
+- Section 4735.182 - Fee instrument returned unpaid - additional fee - sanctions.
+- Section 4735.19 - Records of commission.
+- Section 4735.20 - Commissions, fees, or other compensation.
+- Section 4735.21 - Right of action - limits on salespersons.
+- Section 4735.211 - Division of real estate operating fund.
+- Section 4735.22 - Referral of home inspectors.
+- Section 4735.23 - Review of programs.
+- Section 4735.24 - Earnest money to be maintained in special account.
+- Section 4735.25 - Dealing in foreign real estate.
+- Section 4735.26 - Refusing to qualify foreign real estate.
+- Section 4735.27 - Foreign real estate dealer's license.
+- Section 4735.28 - Foreign real estate salesperson's license.
+- Section 4735.29 - Renewals.
+- Section 4735.30 - False representations of material or relevant facts.
+- Section 4735.32 - Investigations.
+- Section 4735.33 - Effect of child support default on license.
+- Section 4735.51 - Agency relationship - disclosure definitions.
+- Section 4735.52 - Scope of chapter.
+- Section 4735.53 - Agency relationships permitted.
+- Section 4735.54 - Written company policy for types of agency relationships for brokerage.
+- Section 4735.55 - Written agency agreements.
+- Section 4735.56 - Written brokerage policy on agency required - disclosure to client.
+- Section 4735.57 - Agency disclosure statement - dual agency disclosure.
+- Section 4735.58 - When disclosure statements to be provided.
+- Section 4735.59 - Changing the party a licensee represents.
+- Section 4735.60 - Licensee representing purchaser disclosures.
+- Section 4735.61 - Prohibiting false information.
+- Section 4735.62 - Fiduciary duties generally.
+- Section 4735.621 - Waiver of fiduciary duties.
+- Section 4735.63 - Representing seller in agency relationship - duty to promote interests of client.
+- Section 4735.64 - Representing seller in agency relationship - prohibited acts.
+- Section 4735.65 - Representing buyer in agency relationship - duty to promote interests of client.
+- Section 4735.66 - Representing buyer in agency relationship - prohibited acts.
+- Section 4735.67 - Disclosures to purchaser.
+- Section 4735.68 - Liability for false information.
+- Section 4735.69 - Assisting party who is not a client.
+- Section 4735.70 - Dual agency definitions.
+- Section 4735.71 - Dual agency - disclosure statement.
+- Section 4735.72 - Dual agency - brokerage and management level licensees.
+- Section 4735.74 - Duties following closing of transaction.
+- Section 4735.75 - Authorization of other brokers by exclusive agent.
+- Section 4735.76 - Compliance with law regarding sanctions for human trafficking.
+- Section 4735.80 - Anti-discrimination disclosure.
+- Section 4735.99 - Penalty.

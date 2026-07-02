@@ -1,0 +1,20 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3311.61
+Scraped: 2026-07-02T19:48:34+00:00
+
+# Section 3311.61 - Affirmation by electors.
+
+**Effective:** July 15, 2013
+
+**Latest Legislation:** House Bill 167 - 130th General Assembly
+
+(A) The creation of the position of independent auditor for any school district to which section 3311.60 of the Revised Code applies on the effective date of this section shall be subject to an affirmative vote of the electors of the district. The question of whether to create the position of independent auditor for such a school district shall be submitted to the electors of the district at the general election occurring at least ninety days after the effective date of this section. The board of education of the school district shall notify the board of elections of each county containing territory of the school district of the election required by this section by such time that the question may be placed on the ballot at that election.
+
+The following question shall be submitted to the electors residing in the school district:
+
+"Shall the position of independent auditor of . . . . (here insert name of the school district) school district be created in accordance with section 3311.60 of the Revised Code and shall a selection committee consisting of the mayor of the city of . . . . (here insert name of the applicable city), president of the school district board of education, council president of the city of . . . . (here insert name of the applicable city), auditor of the city of . . . . (here insert name of the applicable city), and probate court judge of the county of . . . . (here insert name of the applicable county) select an individual to fill that position for an initial term of five years, subject to reappointment or succession, with the compensation for the independent auditor and the cost of the operations and functions of the independent auditor to be paid by the school district?"
+
+(B) The board of elections of the county in which the majority of the school district's territory is located shall make all necessary arrangements for the submission of the question to the electors, and the election shall be conducted, canvassed, and certified in the same manner as regular elections in the district for the election of county officers, provided that in any such election in which only part of the electors of a precinct are qualified to vote, the board of elections may assign voters in such part to an adjoining precinct. Such an assignment may be made to an adjoining precinct in another county with the consent and approval of the board of elections of such other county. Notice of the election shall be published in a newspaper of general circulation in the school district once a week for two consecutive weeks, or as provided in section 7.16 of the Revised Code, prior to the election. If the board of elections operates and maintains a web site, the board of elections shall post notice of the election on its web site for thirty days prior to the election. The notice shall state the question on which the election is being held. The ballot shall be in the form prescribed by the secretary of state. Costs of submitting the question to the electors shall be charged to the school district in accordance with section 3501.17 of the Revised Code.
+
+(C) If a majority of electors voting on the issue proposed in division (A) of this section approve the question, the selection committee prescribed by division (B) of section 3311.60 of the Revised Code and the district board of education shall forthwith initiate proceedings to select an independent auditor so that the position is filled not later than the thirty-first day of March of the calendar year immediately following the general election at which the question was approved.
+
+(D) If a majority of electors voting on the issue proposed in division (A) of this section disapprove the question, no action shall be taken to create the position of independent auditor.

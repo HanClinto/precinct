@@ -1,0 +1,99 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) Except as provided in divisions (C) and (D) of this section, \"negotiable instrument\" means an unconditional promise or order to pay a fixed amount of money, with or without interest or other charges described in the promise or order, if it meets all of the following requirements:\n\n(1) It is payable to bearer or to order at the time it is issued or first comes into possession of a holder.\n\n(2) It is payable on demand or at a definite time.\n\n(3) It does not state any other undertaking or instruction by the person promising or ordering payment to do any act in addition to the payment of money, but the promise or order may contain any of the following:\n\n(a) An undertaking or power to give, maintain, or protect collateral to secure payment;\n\n(b) An authorization or power to the holder to confess judgment or realize on or dispose of collateral;\n\n(c) A waiver of the benefit of any law intended for the advantage or protection of an obligor.",
+      "id": "1303.03-negotiable-instrument",
+      "normalized": "negotiable instrument",
+      "scope": "",
+      "section": "1303.03",
+      "source_title": "Section 1303.03 - Negotiable instrument - UCC 3-104.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1303.03",
+      "term": "negotiable instrument"
+    },
+    {
+      "definition": "(B) \"Instrument\" means a negotiable instrument.\n\n(C) An order that meets all of the requirements of divisions (A)(2) and (3) of this section and otherwise falls within the definition of \"check\" is a negotiable instrument and a check.\n\n(D) A promise or order other than a check is not an instrument if, at the time it is issued or first comes into possession of a holder, it contains a conspicuous statement, however expressed, to the effect that the promise or order is not negotiable or is not an instrument governed by this chapter.",
+      "id": "1303.03-instrument",
+      "normalized": "instrument",
+      "scope": "",
+      "section": "1303.03",
+      "source_title": "Section 1303.03 - Negotiable instrument - UCC 3-104.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1303.03",
+      "term": "Instrument"
+    },
+    {
+      "definition": "(E)(1) \"Note\" means an instrument that is a promise.",
+      "id": "1303.03-note",
+      "normalized": "note",
+      "scope": "",
+      "section": "1303.03",
+      "source_title": "Section 1303.03 - Negotiable instrument - UCC 3-104.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1303.03",
+      "term": "Note"
+    },
+    {
+      "definition": "(2) \"Draft\" means an instrument that is an order.\n\n(3) If an instrument is both a \"note\" and a \"draft,\" a person entitled to enforce the instrument may treat it as either.",
+      "id": "1303.03-draft",
+      "normalized": "draft",
+      "scope": "",
+      "section": "1303.03",
+      "source_title": "Section 1303.03 - Negotiable instrument - UCC 3-104.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1303.03",
+      "term": "Draft"
+    },
+    {
+      "definition": "(F) \"Check\" means either of the following:\n\n(1) A draft, other than a documentary draft, payable on demand and drawn on a bank;\n\n(2) A cashier's check or teller's check.\n\nAn instrument may be a \"check\" even though it is described on its face as a \"money order\" or by another term.",
+      "id": "1303.03-check",
+      "normalized": "check",
+      "scope": "",
+      "section": "1303.03",
+      "source_title": "Section 1303.03 - Negotiable instrument - UCC 3-104.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1303.03",
+      "term": "Check"
+    },
+    {
+      "definition": "(G) \"Cashier's check\" means a draft with respect to which the drawer and drawee are the same bank or branches of the same bank.",
+      "id": "1303.03-cashier-s-check",
+      "normalized": "cashier's check",
+      "scope": "",
+      "section": "1303.03",
+      "source_title": "Section 1303.03 - Negotiable instrument - UCC 3-104.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1303.03",
+      "term": "Cashier's check"
+    },
+    {
+      "definition": "(H) \"Teller's check\" means a draft drawn by a bank on another bank or payable at or through a bank.",
+      "id": "1303.03-teller-s-check",
+      "normalized": "teller's check",
+      "scope": "",
+      "section": "1303.03",
+      "source_title": "Section 1303.03 - Negotiable instrument - UCC 3-104.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1303.03",
+      "term": "Teller's check"
+    },
+    {
+      "definition": "(I) \"Traveler's check\" means an instrument that meets all of the following conditions:\n\n(1) It is payable on demand.\n\n(2) It is drawn on or payable at or through a bank.\n\n(3) It is designated by the term \"traveler's check\" or by a substantially similar term.\n\n(4) It requires, as a condition to payment, a countersignature by a person whose specimen signature appears on the instrument.",
+      "id": "1303.03-traveler-s-check",
+      "normalized": "traveler's check",
+      "scope": "",
+      "section": "1303.03",
+      "source_title": "Section 1303.03 - Negotiable instrument - UCC 3-104.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1303.03",
+      "term": "Traveler's check"
+    },
+    {
+      "definition": "(J) \"Certificate of deposit\" means an instrument containing an acknowledgment by a bank that a sum of money has been received by the bank and a promise by the bank to repay the sum of money. A \"certificate of deposit\" is a note of the bank.",
+      "id": "1303.03-certificate-of-deposit",
+      "normalized": "certificate of deposit",
+      "scope": "",
+      "section": "1303.03",
+      "source_title": "Section 1303.03 - Negotiable instrument - UCC 3-104.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1303.03",
+      "term": "Certificate of deposit"
+    }
+  ],
+  "kind": "section",
+  "references": [],
+  "scraped": "2026-07-02T19:37:01+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1303.03",
+  "title": "Section 1303.03 - Negotiable instrument - UCC 3-104."
+}

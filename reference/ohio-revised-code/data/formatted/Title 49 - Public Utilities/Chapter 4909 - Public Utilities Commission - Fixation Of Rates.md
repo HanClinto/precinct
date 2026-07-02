@@ -1,0 +1,80 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-4909
+Scraped: 2026-07-02T20:09:07+00:00
+
+# Chapter 4909 - Public Utilities Commission - Fixation Of Rates
+
+## Sections
+
+- Section 4909.01 - Public utilities commission - fixation of rates definitions.
+- Section 4909.02 - Regulations and practices prescribed by commission prima-facie reasonable.
+- Section 4909.03 - Effect of rates fixed by commission.
+- Section 4909.04 - Valuation of property to determine justice of rates.
+- Section 4909.041 - Definitions.
+- Section 4909.042 - Report of valuation of property for forecasted test period.
+- Section 4909.05 - Report of valuation of property.
+- Section 4909.051 - Definitions for sections 4909.052 to 4909.055.
+- Section 4909.052 - Evaluation of petition for purchase of municipal water-works or sewage disposal system; acceptance of cost report.
+- Section 4909.053 - Appraisals.
+- Section 4909.054 - List of utility-valuation experts.
+- Section 4909.055 - Cost of obtaining valuations.
+- Section 4909.057 - Deferral of post-in-service carrying costs.
+- Section 4909.059 - Construction of sections.
+- Section 4909.06 - Additional facts.
+- Section 4909.07 - Revision and correction of valuations.
+- Section 4909.08 - Notice and hearing before valuation becomes final.
+- Section 4909.09 - Ascertainment of valuation.
+- Section 4909.10 - Hearing to ascertain value of property - notice.
+- Section 4909.11 - Filing and review of findings.
+- Section 4909.12 - Admissibility of findings in evidence.
+- Section 4909.13 - Additional hearings.
+- Section 4909.14 - Wrongful valuation.
+- Section 4909.15 - Fixation of reasonable rate.
+- Section 4909.151 - Consideration of costs attributable to service.
+- Section 4909.152 - Consideration of efficiency, sufficiency, adequacy of facilities.
+- Section 4909.153 - Hearing service complaints.
+- Section 4909.154 - Consideration of management policies, practices, and organization of public utility.
+- Section 4909.155 - Filing report on bonds, stock and money.
+- Section 4909.156 - Filing report showing property valuation.
+- Section 4909.157 - Cost recovery mechanisms prohibited.
+- Section 4909.159 - Financial information for forecasted test period from full books.
+- Section 4909.16 - Power to amend, alter, or suspend schedule of rates.
+- Section 4909.161 - Recovering increased excise tax levy and kilowatt-hour tax.
+- Section 4909.17 - Approval required for change in rate.
+- Section 4909.171 - Basing waterworks rate charge on change in water cost imposed by local government.
+- Section 4909.172 - Application for approval to collect infrastructure improvement surcharge.
+- Section 4909.173 - Water-works company replacement of water service line.
+- Section 4909.174 - Water-works company reimburse customer for replacement of water service line.
+- Section 4909.18 - Application to establish or change rate.
+- Section 4909.181 - Rate application for distribution service.
+- Section 4909.182 - Rate case requirement.
+- Section 4909.19 - Publication of notice - investigation.
+- Section 4909.191 - Submission of rate or charge adjustments or recalculations after actual data acquired.
+- Section 4909.192 - Approval of nondiscriminatory programs under rate increase application.
+- Section 4909.193 - Rate case application review deadline.
+- Section 4909.20 - Regulation of freight charges.
+- Section 4909.21 - Rules and regulations relative to carload shipments of livestock.
+- Section 4909.22 - Rates shall be just and reasonable.
+- Section 4909.23 - Special contract rates.
+- Section 4909.24 - Complaints and hearings.
+- Section 4909.25 - Separate hearings.
+- Section 4909.26 - Commission may change unreasonable rate.
+- Section 4909.27 - Investigating rates upon its own motion.
+- Section 4909.28 - Commission may change rate or service.
+- Section 4909.29 - Copies of orders to be supplied railroad.
+- Section 4909.30 - Commission may rescind or amend an order.
+- Section 4909.31 - Supplemental order as to railroads.
+- Section 4909.32 - Commission may fix joint rate.
+- Section 4909.33 - Supplemental order as to public utilities.
+- Section 4909.34 - Power of municipal corporation or group of corporations to fix rate, price, and charge.
+- Section 4909.35 - Failure of municipal corporation to fix rates.
+- Section 4909.36 - Hearing upon accepted rates - procedure.
+- Section 4909.37 - Hearing where cause of action arose.
+- Section 4909.38 - Complaint, appeal, or notification requirements.
+- Section 4909.39 - Findings as to rate - valuation of property.
+- Section 4909.40 - Certain rates, fares, regulations, and prices excepted.
+- Section 4909.41 - Violation.
+- Section 4909.42 - Commission fails to issue timely order.
+- Section 4909.421 - Rate application approval timeline; temporary rate changes.
+- Section 4909.43 - Filing rate increase application.
+- Section 4909.45 - Information furnished by gas or natural gas company to municipal corporation.
+- Section 4909.99 - Penalty.

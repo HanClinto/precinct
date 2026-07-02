@@ -1,0 +1,102 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Cost-plus contract\" means a contract entered into between an owner and a home construction service supplier under which payment to the supplier is based on the cost of a product plus the supplier's rate for labor to install the product plus an agreed percentage of profit or a stipulated fee.",
+      "id": "4722.01-cost-plus-contract",
+      "normalized": "cost-plus contract",
+      "scope": "As used in this chapter:",
+      "section": "4722.01",
+      "source_title": "Section 4722.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4722.01",
+      "term": "Cost-plus contract"
+    },
+    {
+      "definition": "(B) \"Home construction service\" means the construction of a residential building, including the creation of a new structure and the repair, improvement, remodel, or renovation of an existing structure. \"Home construction service\" does not include construction performed on a structure that contains four or more dwelling units, except for work on an individual dwelling unit within that structure, or construction performed on the common area of a condominium property.",
+      "id": "4722.01-home-construction-service",
+      "normalized": "home construction service",
+      "scope": "As used in this chapter:",
+      "section": "4722.01",
+      "source_title": "Section 4722.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4722.01",
+      "term": "Home construction service"
+    },
+    {
+      "definition": "(C) \"Home construction service contract\" means a contract between an owner and a supplier to perform home construction services, including services rendered based on a cost-plus contract, for an amount exceeding twenty-five thousand dollars.",
+      "id": "4722.01-home-construction-service-contract",
+      "normalized": "home construction service contract",
+      "scope": "As used in this chapter:",
+      "section": "4722.01",
+      "source_title": "Section 4722.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4722.01",
+      "term": "Home construction service contract"
+    },
+    {
+      "definition": "(D) \"Home construction service supplier\" or \"supplier\" means a person who contracts with an owner to provide home construction services for compensation and who maintains in force a general liability insurance policy in an amount of not less than two hundred fifty thousand dollars.",
+      "id": "4722.01-home-construction-service-supplier",
+      "normalized": "home construction service supplier",
+      "scope": "As used in this chapter:",
+      "section": "4722.01",
+      "source_title": "Section 4722.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4722.01",
+      "term": "Home construction service supplier"
+    },
+    {
+      "definition": "(D) \"Home construction service supplier\" or \"supplier\" means a person who contracts with an owner to provide home construction services for compensation and who maintains in force a general liability insurance policy in an amount of not less than two hundred fifty thousand dollars.",
+      "id": "4722.01-supplier",
+      "normalized": "supplier",
+      "scope": "As used in this chapter:",
+      "section": "4722.01",
+      "source_title": "Section 4722.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4722.01",
+      "term": "supplier"
+    },
+    {
+      "definition": "(E) \"Owner\" means the person who contracts with a home construction service supplier. \"Owner\" may include the owner of the property, a tenant who occupies the dwelling unit on which the home construction service is performed, or a person the owner authorizes to act on the owner's behalf to contract for a home construction service, and any other person who contracts for a home construction service.",
+      "id": "4722.01-owner",
+      "normalized": "owner",
+      "scope": "As used in this chapter:",
+      "section": "4722.01",
+      "source_title": "Section 4722.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4722.01",
+      "term": "Owner"
+    },
+    {
+      "definition": "(F) \"Residential building\" means a one-, two-, or three-family dwelling and any accessory construction incidental to the dwelling. \"Residential building\" does not include any of the following:\n\n(1) An industrialized unit as described in section 3781.06 of the Revised Code;\n\n(2) A manufactured home as described in section 3781.06 of the Revised Code;\n\n(3) A mobile home as described in section 4501.01 of the Revised Code.",
+      "id": "4722.01-residential-building",
+      "normalized": "residential building",
+      "scope": "As used in this chapter:",
+      "section": "4722.01",
+      "source_title": "Section 4722.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4722.01",
+      "term": "Residential building"
+    },
+    {
+      "definition": "(G) \"Workmanlike manner\" means the home construction service supplier has engaged in construction that meets or exceeds the minimum quantifiable standards promulgated by the Ohio home builders association.\n\nLast updated July 8, 2024 at 12:49 PM",
+      "id": "4722.01-workmanlike-manner",
+      "normalized": "workmanlike manner",
+      "scope": "As used in this chapter:",
+      "section": "4722.01",
+      "source_title": "Section 4722.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4722.01",
+      "term": "Workmanlike manner"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3781.06",
+      "number": "3781.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.06"
+    },
+    {
+      "kind": "section",
+      "label": "4501.01",
+      "number": "4501.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4501.01"
+    }
+  ],
+  "scraped": "2026-07-02T20:06:47+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4722.01",
+  "title": "Section 4722.01 - Definitions."
+}

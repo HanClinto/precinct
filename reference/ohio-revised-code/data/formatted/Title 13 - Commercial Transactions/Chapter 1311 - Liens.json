@@ -1,0 +1,471 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 1311.01 - Lien definitions.",
+      "number": "1311.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.011 - Liens for home construction work.",
+      "number": "1311.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.011"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.02 - Lien of subcontractor, laborer or materialman.",
+      "number": "1311.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.021 - Lien for labor or work or materials upon oil or gas well or facilities.",
+      "number": "1311.021",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.021"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.03 - Lien upon street, turnpike, road, sidewalk, way, drain, ditch or sewer.",
+      "number": "1311.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.04 - Recording notice of commencement.",
+      "number": "1311.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.05 - Subcontractor or materialman to serve notice of furnishing.",
+      "number": "1311.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.06 - Affidavit - time period for filing - contents.",
+      "number": "1311.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.07 - Copy of affidavit to be served on owner or lessee.",
+      "number": "1311.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.08 - Lien when improvement situated on same or contiguous or adjacent lots.",
+      "number": "1311.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.09 - Lien when contracting person has no title to land improved.",
+      "number": "1311.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.10 - Presumptions.",
+      "number": "1311.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.11 - Notifying lienholder to commence suit.",
+      "number": "1311.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.12 - When lien for furnishing materials arises.",
+      "number": "1311.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.13 - Attaching of liens - continuance and priority.",
+      "number": "1311.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.14 - Priority of mortgage lien.",
+      "number": "1311.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.15 - Superiority of liens - assignment - direct payment of claim of subcontractor, materialman or laborer.",
+      "number": "1311.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.16 - Proceeding by person holding mechanic's lien.",
+      "number": "1311.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.17 - Adjustment of claim when owner fails to perform.",
+      "number": "1311.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.18 - Sale of part of premises.",
+      "number": "1311.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.19 - Service.",
+      "number": "1311.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.20 - Damages for neglect or refusal to release lien.",
+      "number": "1311.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.21 - Liens are assignable - lien not defeated by taking note or security - notice of claim not yet due - lis pendens.",
+      "number": "1311.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.22 - Liberal construction.",
+      "number": "1311.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.23 - Lien upon mines for labor.",
+      "number": "1311.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.25 - Public improvement definitions.",
+      "number": "1311.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.251 - Claim for furnishing materials.",
+      "number": "1311.251",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.251"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.252 - Notice of commencement - affidavit.",
+      "number": "1311.252",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.252"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.26 - Subcontractor, materialman or laborer may serve affidavit on public authority.",
+      "number": "1311.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.261 - Notice of furnishing.",
+      "number": "1311.261",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.261"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.28 - Public authority to detain funds upon receipt of affidavit - escrow account.",
+      "number": "1311.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.29 - Copy of affidavit to be filed with county recorder to notify other subcontractors, materialmen, and laborers - priority of claims.",
+      "number": "1311.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.31 - Action by claimant to enforce payment.",
+      "number": "1311.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.311 - Notice to commence suit.",
+      "number": "1311.311",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.311"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.32 - Enforcement by civil action.",
+      "number": "1311.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.34 - Laborers shall have lien upon real property of employer.",
+      "number": "1311.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.35 - Waiver of lien.",
+      "number": "1311.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.36 - Enforcement and priority of liens.",
+      "number": "1311.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.37 - When general employer assumes payment.",
+      "number": "1311.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.38 - Definition of owner.",
+      "number": "1311.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.39 - Liens against a railroad company.",
+      "number": "1311.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.40 - Priority of payment in contracts for railroad work.",
+      "number": "1311.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.41 - Precedence.",
+      "number": "1311.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.42 - Perfecting a lien.",
+      "number": "1311.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.43 - Proceeding after filing affidavit.",
+      "number": "1311.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.44 - Proceeding by petition.",
+      "number": "1311.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.45 - Contractor to be notified of time of payment.",
+      "number": "1311.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.46 - Adjusting disputed claims.",
+      "number": "1311.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.47 - Others who may claim liens.",
+      "number": "1311.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.48 - Lien for care of animals.",
+      "number": "1311.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.49 - Sale of animal to satisfy claim.",
+      "number": "1311.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.50 - Lien upon get for service.",
+      "number": "1311.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.51 - Enforcement of lien.",
+      "number": "1311.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.55 - Agricultural product lien.",
+      "number": "1311.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.56 - Perfection of producer's or handler's lien - affidavit.",
+      "number": "1311.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.57 - Priority and duration of lien.",
+      "number": "1311.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.59 - Rights of executors, administrators, part owners, and lessees.",
+      "number": "1311.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.71 - Aircraft definitions.",
+      "number": "1311.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.72 - Lien for storage, labor, or materials for aircraft.",
+      "number": "1311.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.721 - Notice to abandoned aircraft owner.",
+      "number": "1311.721",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.721"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.73 - Lien perfected by filing affidavit with FAA - form of affidavit - time period for filing.",
+      "number": "1311.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.74 - Service of copy of affidavit on owner.",
+      "number": "1311.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.74"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.75 - Priority of liens.",
+      "number": "1311.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.76 - Enforcement and priority of liens - claimant to give notice of release.",
+      "number": "1311.76",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.76"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.77 - Owner may obtain release of aircraft by filing surety bond.",
+      "number": "1311.77",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.77"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.78 - Notifying lien claimant to commence suit.",
+      "number": "1311.78",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.78"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.79 - Maintaining lien after notice to commence suit.",
+      "number": "1311.79",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.79"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.80 - Award of attorney's fees.",
+      "number": "1311.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.80"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.85 - Broker's lien on commercial realty definitions.",
+      "number": "1311.85",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.85"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.86 - Broker's lien on commercial real estate.",
+      "number": "1311.86",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.86"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.87 - Perfection of lien.",
+      "number": "1311.87",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.87"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.88 - Proceedings to enforce lien.",
+      "number": "1311.88",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.88"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.89 - Sale of foreclosed property - alternative dispute resolution.",
+      "number": "1311.89",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.89"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.90 - Broker to record release or satisfaction.",
+      "number": "1311.90",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.90"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.91 - Priority of mechanic's liens.",
+      "number": "1311.91",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.91"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.92 - Transfer of lien property - escrow account.",
+      "number": "1311.92",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.92"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1311.93 - Liability of broker.",
+      "number": "1311.93",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.93"
+    }
+  ],
+  "scraped": "2026-07-02T19:37:10+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-1311",
+  "title": "Chapter 1311 - Liens"
+}

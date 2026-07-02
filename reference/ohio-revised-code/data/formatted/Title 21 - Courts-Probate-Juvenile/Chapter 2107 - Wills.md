@@ -1,0 +1,72 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-2107
+Scraped: 2026-07-02T19:41:16+00:00
+
+# Chapter 2107 - Wills
+
+## Sections
+
+- Section 2107.01 - Will construed.
+- Section 2107.011 - Inheritance and bequest defined.
+- Section 2107.02 - Who may make will.
+- Section 2107.03 - Method of making will.
+- Section 2107.04 - Agreement to make a will.
+- Section 2107.05 - Incorporation by reference.
+- Section 2107.06 - Age requirement for witnessing will.
+- Section 2107.07 - Deposit of will.
+- Section 2107.08 - Delivery of deposited will.
+- Section 2107.09 - Who may enforce production of a will.
+- Section 2107.10 - Effect of withholding will.
+- Section 2107.11 - Jurisdiction to probate.
+- Section 2107.12 - Contest of jurisdiction.
+- Section 2107.15 - Witness a devisee or legatee.
+- Section 2107.16 - Will proved in certain cases.
+- Section 2107.17 - Depositions may be taken by commission.
+- Section 2107.18 - Admission of will to probate.
+- Section 2107.181 - Interlocutory orders - rehearing.
+- Section 2107.19 - Notice of admission of will to probate.
+- Section 2107.20 - Filing and recording of will - certified copy.
+- Section 2107.21 - Recorded in each county where real property is situated.
+- Section 2107.22 - Probate of will of later date.
+- Section 2107.24 - Treatment of document as will notwithstanding noncompliance with statute.
+- Section 2107.26 - Lost, spoliated, or destroyed wills may be admitted to probate.
+- Section 2107.27 - Notice of application - testimony - probate.
+- Section 2107.28 - Will lost, spoliated, or destroyed after admission to probate.
+- Section 2107.29 - Record of will destroyed.
+- Section 2107.30 - Original will may again be admitted to probate.
+- Section 2107.31 - Limitations as to contests.
+- Section 2107.32 - Notice.
+- Section 2107.33 - Revocation of will.
+- Section 2107.34 - Afterborn or pretermitted heirs.
+- Section 2107.35 - Encumbrances.
+- Section 2107.36 - Effect of alteration of property.
+- Section 2107.37 - Subsequent marriage.
+- Section 2107.38 - Destruction of a subsequent will.
+- Section 2107.46 - Action by fiduciary.
+- Section 2107.47 - Protection of purchaser against will or later will.
+- Section 2107.48 - Foreign will cannot be contested here.
+- Section 2107.49 - Rule in Shelley's case abolished.
+- Section 2107.50 - Property acquired subsequent to will.
+- Section 2107.501 - Ademption - exemptions.
+- Section 2107.51 - When whole estate to pass.
+- Section 2107.52 - Deceased devisee; class gifts.
+- Section 2107.521 - Specific references to powers of appointment.
+- Section 2107.53 - Undevised real property applied to debts.
+- Section 2107.54 - Contribution - exception.
+- Section 2107.55 - Portion of pretermitted heir, or of witness, subject to contribution.
+- Section 2107.56 - Liability in case of insolvency.
+- Section 2107.57 - Contribution enforced.
+- Section 2107.58 - Order of sale to pay debts.
+- Section 2107.59 - Sale of real property by executor's successor.
+- Section 2107.60 - Oral will.
+- Section 2107.61 - Will ineffectual.
+- Section 2107.62 - Expenses and fees.
+- Section 2107.63 - Real or personal property devised, bequeathed or appointed to trustee of existing trust.
+- Section 2107.64 - Trustee named in will as beneficiary.
+- Section 2107.65 - Conferring power to name executor.
+- Section 2107.71 - Civil action to contest validity of will.
+- Section 2107.72 - Rules of procedure - jury trial.
+- Section 2107.73 - Parties to will contest action.
+- Section 2107.74 - Order of probate prima-facie evidence of attestation, execution and validity of will.
+- Section 2107.75 - Administration costs of purported last will or codicil.
+- Section 2107.76 - Will contest action - time limits.
+- Section 2107.77 - Later wills.

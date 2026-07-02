@@ -1,0 +1,18 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3109.12
+Scraped: 2026-07-02T19:47:41+00:00
+
+# Section 3109.12 - Mother unmarried - parenting time, companionship or visitation rights.
+
+**Effective:** March 22, 2001
+
+**Latest Legislation:** Senate Bill 180 - 123rd General Assembly
+
+(A) If a child is born to an unmarried woman, the parents of the woman and any relative of the woman may file a complaint requesting the court of common pleas of the county in which the child resides to grant them reasonable companionship or visitation rights with the child. If a child is born to an unmarried woman and if the father of the child has acknowledged the child and that acknowledgment has become final pursuant to section 2151.232 , 3111.25 , or 3111.821 of the Revised Code or has been determined in an action under Chapter 3111. of the Revised Code to be the father of the child, the father may file a complaint requesting that the court of appropriate jurisdiction of the county in which the child resides grant him reasonable parenting time rights with the child and the parents of the father and any relative of the father may file a complaint requesting that the court grant them reasonable companionship or visitation rights with the child.
+
+(B) The court may grant the parenting time rights or companionship or visitation rights requested under division (A) of this section, if it determines that the granting of the parenting time rights or companionship or visitation rights is in the best interest of the child. In determining whether to grant reasonable parenting time rights or reasonable companionship or visitation rights with respect to any child, the court shall consider all relevant factors, including, but not limited to, the factors set forth in division (D) of section 3109.051 of the Revised Code. Divisions (C), (K), and (L) of section 3109.051 of the Revised Code apply to the determination of reasonable parenting time rights or reasonable companionship or visitation rights under this section and to any order granting any such rights that is issued under this section.
+
+The marriage or remarriage of the mother or father of a child does not affect the authority of the court under this section to grant the natural father reasonable parenting time rights or the parents or relatives of the natural father or the parents or relatives of the mother of the child reasonable companionship or visitation rights with respect to the child.
+
+If the court denies a request for reasonable parenting time rights or reasonable companionship or visitation rights made pursuant to division (A) of this section and the complainant files a written request for findings of fact and conclusions of law, the court shall state in writing its findings of fact and conclusions of law in accordance with Civil Rule 52.
+
+Except as provided in division (E)(6) of section 3113.31 of the Revised Code, if the court, pursuant to this section, grants parenting time rights or companionship or visitation rights with respect to any child, it shall not require the public children services agency to provide supervision of or other services related to that parent's exercise of parenting time rights with the child or that person's exercise of companionship or visitation rights with the child. This section does not limit the power of a juvenile court pursuant to Chapter 2151. of the Revised Code to issue orders with respect to children who are alleged to be abused, neglected, or dependent children or to make dispositions of children who are adjudicated abused, neglected, or dependent children or of a common pleas court to issue orders pursuant to section 3113.31 of the Revised Code.

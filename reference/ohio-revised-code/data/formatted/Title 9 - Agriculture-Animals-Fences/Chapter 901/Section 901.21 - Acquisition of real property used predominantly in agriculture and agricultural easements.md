@@ -1,0 +1,32 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-901.21
+Scraped: 2026-07-02T19:34:13+00:00
+
+# Section 901.21 - Acquisition of real property used predominantly in agriculture and agricultural easements.
+
+**Effective:** January 1, 2016
+
+**Latest Legislation:** House Bill 64 - 131st General Assembly
+
+(A) As used in this section and section 901.22 of the Revised Code:
+
+(1) "Agricultural easement" has the same meaning as in section 5301.67 of the Revised Code.
+
+(2) "Agriculture" means those activities occurring on land devoted exclusively to agricultural use, as defined in section 5713.30 of the Revised Code, or on land that constitutes a homestead.
+
+(3) "Homestead" means the portion of a farm on which is located a dwelling house, yard, or outbuildings such as a barn or garage.
+
+(B) The director of agriculture may acquire real property used predominantly in agriculture and agricultural easements by gift, devise, or bequest if, at the time an easement is granted, such an easement is on land that is valued for purposes of real property taxation at its current value for agricultural use under section 5713.31 of the Revised Code or that constitutes a homestead. Any terms may be included in an agricultural easement so acquired that are necessary or appropriate to preserve on behalf of the grantor of the easement the favorable tax consequences of the gift, devise, or bequest under the "Internal Revenue Act of 1986," 100 Stat. 2085, 26 U.S.C.A. 1, as amended. The director, by any such means or by purchase or lease, may acquire, or acquire the use of, stationary personal property or equipment that is located on land acquired in fee by the director under this section and that is necessary or appropriate for the use of the land predominantly in agriculture.
+
+(C) The director may include, in an agricultural easement acquired under division (B) of this section, a provision to preserve a unique natural or physical feature on the land so long as the use of the land remains predominantly agricultural.
+
+(D) The director may do all things necessary or appropriate to retain the use of real property acquired in fee under division (B) of this section predominantly in agriculture, including, without limitation, performing any of the activities described in division (A)(1) or (2) of section 5713.30 of the Revised Code or entering into contracts to lease or rent the real property so acquired to persons or governmental entities that will use the land predominantly in agriculture.
+
+(E)(1) When the director considers it to be necessary or appropriate, the director may sell real property acquired in fee, and stationary personal property or equipment acquired by gift, devise, bequest, or purchase, under division (B) of this section on such terms as the director considers to be advantageous to this state.
+
+(2) An agricultural easement acquired under division (B) of this section may be extinguished under the circumstances prescribed, and in accordance with the terms and conditions set forth, in the instrument conveying the agricultural easement.
+
+(F) There is hereby created in the state treasury the agricultural easement purchase fund. The fund shall consist of the proceeds received from the sale of real and personal property under division (E) of this section; moneys received due to the extinguishment of agricultural easements acquired by the director under division (B) of this section or section 5301.691 of the Revised Code; moneys received due to the extinguishment of agricultural easements purchased with the assistance of matching grants made under section 901.22 of the Revised Code; gifts, bequests, devises, and contributions received by the director for the purpose of acquiring agricultural easements; and grants received from public or private sources for the purpose of purchasing agricultural easements. The fund shall be administered by the director, and moneys in the fund shall be used by the director exclusively to purchase agricultural easements under division (A) of section 5301.691 of the Revised Code and provide matching grants under section 901.22 of the Revised Code to municipal corporations, counties, townships, soil and water conservation districts established under Chapter 940. of the Revised Code, and charitable organizations described in division (B) of section 5301.69 of the Revised Code for the purchase of agricultural easements. Money in the fund shall be used only to purchase agricultural easements on land that is valued for purposes of real property taxation at its current value for agricultural use under section 5713.31 of the Revised Code or that constitutes a homestead when the easement is purchased.
+
+(G) There is hereby created in the state treasury the clean Ohio agricultural easement fund. Twelve and one-half per cent of net proceeds of obligations issued and sold pursuant to sections 151.01 and 151.09 of the Revised Code shall be deposited into the fund. The fund shall be used by the director for the purposes of this section, section 901.22 of the Revised Code, and the provisions of sections 5301.67 to 5301.70 of the Revised Code governing agricultural easements. Investment earnings of the fund shall be credited to the fund and may be used to pay costs incurred by the director in administering those sections and provisions.
+
+(H) The term of an agricultural easement purchased wholly or in part with money from the clean Ohio agricultural easement fund or the agricultural easement purchase fund shall be perpetual and shall run with the land.

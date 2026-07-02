@@ -1,0 +1,507 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 3318.01 - Bond issues and tax levy definitions.",
+      "number": "3318.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.011 - Ranking districts in order of adjusted valuation per pupil from district.",
+      "number": "3318.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.011"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.02 - Periodic assessment of classroom facility needs - on-site visits.",
+      "number": "3318.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.021 - On-site visits to districts intending to participate in expedited local partnership program.",
+      "number": "3318.021",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.021"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.022 - District not yet eligible for state assistance may request assessment.",
+      "number": "3318.022",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.022"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.024 - Use of unspent and unencumbered funds.",
+      "number": "3318.024",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.024"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.03 - Facilities construction commission to determine need for additional classroom facilities.",
+      "number": "3318.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.031 - Commission to consider student and staff safety and health.",
+      "number": "3318.031",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.031"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.032 - Portion of basic project cost supplied by school district.",
+      "number": "3318.032",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.032"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.033 - Recalculation of district percentile ranking.",
+      "number": "3318.033",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.033"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.034 - Division of district classroom needs into segments.",
+      "number": "3318.034",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.034"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.035 - Change of assessment rates on gas pipelines.",
+      "number": "3318.035",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.035"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.036 - Priority for project funding.",
+      "number": "3318.036",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.036"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.037 - Retention of percentile ranking upon reapplication for expedited local partnership program.",
+      "number": "3318.037",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.037"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.038 - Water bottle filling stations and drinking fountains.",
+      "number": "3318.038",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.038"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.04 - Conditional approval; encumbering funds.",
+      "number": "3318.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.041 - District may adopt and certify proposed project.",
+      "number": "3318.041",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.041"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.042 - Additional assistance.",
+      "number": "3318.042",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.042"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.05 - District board acceptance of conditional approval of commission of project; election on propositions.",
+      "number": "3318.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.051 - Alternative funding for state-assisted classroom projects.",
+      "number": "3318.051",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.051"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.052 - Use of property tax or school district income tax proceeds to pay costs of project or for maintenance of classroom facilities - options of school district board.",
+      "number": "3318.052",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.052"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.053 - Use of tax proceeds on improvements not included in basic project cost.",
+      "number": "3318.053",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.053"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.054 - Lapse of classroom facilities project due to failure of voters to approve ballot measures.",
+      "number": "3318.054",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.054"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.055 - Maintenance tax not be included on ballot proposal.",
+      "number": "3318.055",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.055"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.056 - Combining questions on tax levy ballot.",
+      "number": "3318.056",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.056"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.06 - Submitting resolution relative to tax levy in excess of ten-mill limitation - bond issue.",
+      "number": "3318.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.061 - Resolution proposing extension of existing tax levy.",
+      "number": "3318.061",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.061"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.062 - Form of ballot where bonds are to be issued in multiple series - combination with other questions.",
+      "number": "3318.062",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.062"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.063 - Rescission of alternative funding agreement - tax levy.",
+      "number": "3318.063",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.063"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.07 - Certification of election results to tax commissioner.",
+      "number": "3318.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.08 - Agreement with Ohio facilities construction commission for construction and sale of project.",
+      "number": "3318.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.081 - Supplemental agreement with Ohio facilities construction commission.",
+      "number": "3318.081",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.081"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.082 - Supplemental agreement for distributing certain tax proceeds.",
+      "number": "3318.082",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.082"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.083 - Sharing of approved increase in basic project cost.",
+      "number": "3318.083",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.083"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.084 - Applying local donated contribution toward project.",
+      "number": "3318.084",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.084"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.085 - Agreement by eligible districts for joint issuance of certificates of participation in bond proceeds.",
+      "number": "3318.085",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.085"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.086 - Contingency reserve.",
+      "number": "3318.086",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.086"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.091 - Issuing bonds; preparing of plans and estimates.",
+      "number": "3318.091",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.091"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.10 - Advertising and awarding of construction bids.",
+      "number": "3318.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.11 - Amount of state appropriations encumbered for project - project priority for state funds.",
+      "number": "3318.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.112 - Standards for solar-ready equipment.",
+      "number": "3318.112",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.112"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.12 - Transfer and disbursement of funds.",
+      "number": "3318.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.121 - Transfer of earnings from Big-8 project fund to special fund.",
+      "number": "3318.121",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.121"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.13 - Including balance due in district tax budget.",
+      "number": "3318.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.14 - County treasurer to pay proceeds of tax levy.",
+      "number": "3318.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.15 - Public school building fund.",
+      "number": "3318.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.16 - Commission has interest in real property purchased with school district's project construction fund.",
+      "number": "3318.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.17 - Rate and maximum period of tax levies.",
+      "number": "3318.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.18 - Statewide average valuation per pupil - half-mill equalization fund.",
+      "number": "3318.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.20 - Constitutionality.",
+      "number": "3318.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.21 - Educational revitalization of certain districts definitions.",
+      "number": "3318.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.22 - Authorization to provide assistance and contribute to educational revitalization of certain districts.",
+      "number": "3318.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.25 - School building program assistance fund.",
+      "number": "3318.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.26 - Issuing obligations of state.",
+      "number": "3318.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.28 - Alternative, supplemental provisions.",
+      "number": "3318.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.29 - Maximum maturity and terms of obligations.",
+      "number": "3318.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.311 - Design specifications classroom facilities for joint vocational education programs.",
+      "number": "3318.311",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.311"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.33",
+      "number": "3318.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.351 - School building emergency assistance program.",
+      "number": "3318.351",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.351"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.36 - School building assistance expedited local partnership program.",
+      "number": "3318.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.361 - Proposing tax levy for expedited local partnership program purposes.",
+      "number": "3318.361",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.361"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.362 - Term of bonds.",
+      "number": "3318.362",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.362"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.363 - Tax valuation decrease.",
+      "number": "3318.363",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.363"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.364 - Assistance for schools that have entered into an expedited local partnership agreement.",
+      "number": "3318.364",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.364"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.37 - Exceptional needs school facilities assistance program.",
+      "number": "3318.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.371 - Assistance for relocation or replacement of classroom facilities due to contamination.",
+      "number": "3318.371",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.371"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.38 - Accelerated urban school building assistance program.",
+      "number": "3318.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.39 - 1:1 school facilities option program.",
+      "number": "3318.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.40 - Vocational school facilities assistance program.",
+      "number": "3318.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.41 - Annual assessment of needs.",
+      "number": "3318.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.42 - Selecting districts for assistance.",
+      "number": "3318.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.43 - Moneys dedicated to maintenance of classroom facilities.",
+      "number": "3318.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.44 - Generating district's portion of basic project cost.",
+      "number": "3318.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.45 - Election on issuing securities to generate district's portion of basic project cost.",
+      "number": "3318.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.46 - Expenditure of local resources prior to school district's eligibility for state assistance.",
+      "number": "3318.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.47 - Transfer of amounts to RC 3318.15 fund.",
+      "number": "3318.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.48 - Certificate of completion.",
+      "number": "3318.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.49 - Corrective action program.",
+      "number": "3318.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.60 - College-preparatory boarding school facilities program.",
+      "number": "3318.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.61 - Alternative to participation in college-preparatory boarding school facilities program; Leasing of facilities to person or entity; Agreement.",
+      "number": "3318.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.62 - Agreements to provide facilities assistance; Mandatory stipulations.",
+      "number": "3318.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.70 - Funding to assist STEM schools in the acquisition of classroom facilities.",
+      "number": "3318.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3318.71 - Guidelines for acquisition of classroom facilities to be used for a joint science, technology, engineering, and mathematics education programs..",
+      "number": "3318.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.71"
+    }
+  ],
+  "scraped": "2026-07-02T19:48:52+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-3318",
+  "title": "Chapter 3318 - School Facilities"
+}

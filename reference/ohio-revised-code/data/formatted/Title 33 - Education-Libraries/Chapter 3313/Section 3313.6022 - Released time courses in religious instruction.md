@@ -1,0 +1,54 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3313.6022
+Scraped: 2026-07-02T19:48:39+00:00
+
+# Section 3313.6022 - Released time courses in religious instruction.
+
+**Effective:** January 19, 2026
+
+**Latest Legislation:** House Bill 57 - 136th General Assembly
+
+(A) As used in this section, "released time" means a period of time during which a student is excused from school to attend a course in religious instruction conducted by a private entity off school district property.
+
+(B) A school district board of education shall adopt a policy that authorizes a student to be excused from school to attend a released time course in religious instruction for at least one period per week, provided that each of the following applies:
+
+(1) The student's parent or guardian gives written consent.
+
+(2) The sponsoring entity maintains attendance records and makes them available to the school district the student attends.
+
+(3) Transportation to and from the place of instruction, including transportation for students with disabilities, is the complete responsibility of the sponsoring entity, parent, guardian, or student.
+
+(4) The sponsoring entity makes provisions for and assumes liability for the student.
+
+(5) No public funds are expended and no public school personnel are involved in providing the religious instruction.
+
+(6) The student assumes responsibility for any missed schoolwork.
+
+While in attendance in a released time course in religious instruction, a student shall not be considered absent from school. No student may be released from a core curriculum subject course to attend a religious instruction course.
+
+(C) A school district board of education shall collaborate with a sponsoring entity of a released time course in religious instruction to identify a time to offer the course during the school day.
+
+(D) A policy adopted under division (B) of this section shall not prohibit students from bringing external educational and program materials into school.
+
+(E) Unless otherwise specified in a school district's policy adopted under division (B) of this section, a student shall not be excused from school to attend a released time course in religious instruction for longer than either of the following:
+
+(1) For students in an elementary or middle school, two periods in total per week;
+
+(2) For students in high school, the amount of time that is equivalent to attending two units of high school credit per week.
+
+(F) A policy adopted under division (B) of this section may authorize high school students to earn up to two units of high school credit for the completion of a released time course in religious instruction. In determining whether to award credit for completion of such a course, the board shall evaluate the course based on purely secular criteria that are substantially the same criteria used to evaluate similar nonpublic high school courses for purposes of determining whether to award credit for such courses to a student transferring from a nonpublic high school to a public high school. However, there shall be no criteria requiring that released time courses be completed only at a nonpublic school. The decision to award credit for a released time course of religious instruction shall be neutral to, and shall not involve any test for, religious content or denominational affiliation.
+
+For purposes of this division, secular criteria may include, but are not limited to, the following:
+
+(1) The number of hours of classroom instruction time;
+
+(2) A review of the course syllabus that reflects course requirements and materials used;
+
+(3) The methods of assessment used in the course;
+
+(4) The qualifications of the course instructor, which shall be similar to the qualifications of other teachers within the district.
+
+Notwithstanding division (C)(8) of section 3313.603 of the Revised Code, high school credit awarded to a student for a released time course in religious instruction may substitute for the same amount of credit in subjects listed in that division.
+
+(G) A school district, member of a school district board of education, or school district employee is not liable in damages in a civil action for injury allegedly arising during a student's transportation to or from a place of instruction when private transportation is used under a released time policy adopted under this section. This division does not eliminate, limit, or reduce any other immunity or defense that a school district, member of a school district board of education, or school district employee may be entitled to under Chapter 2744. or any other provision of the Revised Code or under the common law of this state.
+
+Last updated December 4, 2025 at 3:34 PM

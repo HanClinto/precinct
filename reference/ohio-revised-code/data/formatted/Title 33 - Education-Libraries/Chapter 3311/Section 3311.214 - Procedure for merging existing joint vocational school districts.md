@@ -1,0 +1,18 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3311.214
+Scraped: 2026-07-02T19:48:34+00:00
+
+# Section 3311.214 - Procedure for merging existing joint vocational school districts.
+
+**Effective:** October 3, 2023
+
+**Latest Legislation:** House Bill 33 - 135th General Assembly
+
+(A) With the approval of the department of education and workforce, the boards of education of any two or more joint vocational school districts may, by the adoption of identical resolutions by a majority of the members of each such board, propose that one new joint vocational school district be created by adding together all of the territory of each of the districts and dissolving such districts. A copy of each resolution shall be filed with the department for its approval or disapproval. The resolutions shall include a provision that the board of education of the new district shall be composed of the members from the same boards of education that composed the membership of the board of each of the districts to be dissolved, except that, if an even number of districts are to be dissolved, one additional member shall be added, who may be from any school district included in the territory of any of the districts to be dissolved as designated in the resolutions. The members of the new board shall have the same terms of office as they had under the respective plans of the districts adopting the resolutions, except that, if the new board has an additional member, the additional member shall have a term as specified in the resolutions.
+
+If the department approves the resolutions, the board of education of each district to be dissolved shall advertise a copy of the resolution in a newspaper of general circulation in its district once each week for two weeks, or as provided in section 7.16 of the Revised Code, immediately following the date the resolutions are approved by the department. The resolutions shall become effective on the first day of July next succeeding the sixtieth day following approval by the department unless prior to the expiration of such sixty-day period, qualified electors residing in one of the districts to be dissolved equal in number to a majority of the qualified electors of that district voting at the last general election file with the department a petition of remonstrance against creation of the proposed new district.
+
+(B) When a resolution becomes effective under division (A) of this section, each district in which a resolution was adopted and the board of each such district are dissolved. The territory of each dissolved district becomes a part of the new joint vocational school district. The net indebtedness of each dissolved district shall be assumed in full by the new district and the funds and property of each dissolved district shall become in full the funds and property of the new district. All existing contracts of each dissolved board shall be honored by the board of the new district until their expiration dates. The board of the new district shall notify the county auditor of each county in which each dissolved district was located that a resolution has become effective and a new district has been created and shall certify to each auditor any changes that might be required in the tax rate as a result of the creation of the new district.
+
+(C) As used in this section, "net indebtedness" means the difference between the par value of the outstanding and unpaid bonds and notes of the school district and the amount held in the sinking fund and other indebtedness retirement funds for their redemption.
+
+Last updated August 21, 2023 at 3:50 PM

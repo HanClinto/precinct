@@ -1,0 +1,14 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3343.02
+Scraped: 2026-07-02T19:49:44+00:00
+
+# Section 3343.02 - Appointment of trustees - term.
+
+**Effective:** June 27, 2025
+
+**Latest Legislation:** Senate Bill 1 - 136th General Assembly
+
+(A) The government of Central state university shall be vested in a board of trustees to be known as "the board of trustees of the Central state university." Such board shall consist of eleven members who shall be appointed by the governor, with the advice and consent of the senate. Two of the trustees shall be students at Central state university, and their selection and terms shall be in accordance with division (B) of this section. A majority of the board constitutes a quorum. For trustees appointed prior to July 1, 2025, except for the student members, terms of office shall be for nine years, commencing on the first day of July and ending on the thirtieth day of June. For trustees appointed on or after July 1, 2025, except for the student members, terms of office shall be for six years, commencing on the first day of July and ending on the thirtieth day of June. Each member shall hold office from the date of appointment until the end of the term for which the member was appointed. Any member appointed to fill a vacancy occurring prior to the expiration of the term for which the member's predecessor was appointed shall hold office for the remainder of such term. Any member shall continue in office subsequent to the expiration date of the member's term until the member's successor takes office, or until a period of sixty days has elapsed, whichever occurs first.
+
+(B) The student members of the board of trustees of Central state university have no voting power on the board. Student members shall not be considered as members of the board in determining whether a quorum is present. Student members shall not be entitled to attend executive sessions of the board. The student members of the board shall be appointed by the governor, with the advice and consent of the senate, from a group of five candidates selected pursuant to a procedure adopted by the university's student governments and approved by the university's board of trustees. The initial term of office of one of the student members shall commence on July 1, 1988, and shall expire on June 30, 1989, and the initial term of office of the other student member shall commence on July 1, 1988, and expire on June 30, 1990. Thereafter, terms of office of student members shall be for two years, each term ending on the same day of the same month of the year as the term it succeeds. In the event that a student member cannot fulfill a two-year term, a replacement shall be selected to fill the unexpired term in the same manner used to make the original selection.
+
+Last updated April 29, 2025 at 4:24 PM

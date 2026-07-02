@@ -1,0 +1,58 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Employee\" has the same meaning as in section 9.40 of the Revised Code.",
+      "id": "149.434-employee",
+      "normalized": "employee",
+      "scope": "(B) As used in this section:",
+      "section": "149.434",
+      "source_title": "Section 149.434 - Public offices to maintain employee database.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-149.434",
+      "term": "Employee"
+    },
+    {
+      "definition": "(2) \"Public official\" has the same meaning as in section 117.01 of the Revised Code.",
+      "id": "149.434-public-official",
+      "normalized": "public official",
+      "scope": "(B) As used in this section:",
+      "section": "149.434",
+      "source_title": "Section 149.434 - Public offices to maintain employee database.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-149.434",
+      "term": "Public official"
+    },
+    {
+      "definition": "(3) \"Public record\" has the same meaning as in section 149.43 of the Revised Code.\n\nLast updated July 14, 2021 at 12:50 PM",
+      "id": "149.434-public-record",
+      "normalized": "public record",
+      "scope": "(B) As used in this section:",
+      "section": "149.434",
+      "source_title": "Section 149.434 - Public offices to maintain employee database.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-149.434",
+      "term": "Public record"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "149.43",
+      "number": "149.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.43"
+    },
+    {
+      "kind": "section",
+      "label": "9.40",
+      "number": "9.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-9.40"
+    },
+    {
+      "kind": "section",
+      "label": "117.01",
+      "number": "117.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.01"
+    }
+  ],
+  "scraped": "2026-07-02T19:31:59+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-149.434",
+  "title": "Section 149.434 - Public offices to maintain employee database."
+}

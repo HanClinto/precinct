@@ -1,0 +1,12 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-1905.201
+Scraped: 2026-07-02T19:40:52+00:00
+
+# Section 1905.201 - License suspension in OVI cases.
+
+**Effective:** August 17, 2006
+
+**Latest Legislation:** Senate Bill 8 - 126th General Assembly
+
+The mayor of a municipal corporation that has a mayor's court, and a mayor's court magistrate, are entitled to suspend, and shall suspend, in accordance with sections 4510.02 , 4510.07 , and 4511.19 of the Revised Code, the driver's or commercial driver's license or permit or nonresident operating privilege of any person who is convicted of or pleads guilty to a violation of division (A) of section 4511.19 of the Revised Code, of a municipal ordinance relating to operating a vehicle while under the influence of alcohol, a drug of abuse, or a combination of them, or of a municipal ordinance relating to operating a vehicle with a prohibited concentration of alcohol, a controlled substance, or a metabolite of a controlled substance in the whole blood, blood serum or plasma, breath, or urine that is substantially equivalent to division (A) of section 4511.19 of the Revised Code. The mayor of a municipal corporation that has a mayor's court, and a mayor's court magistrate, are entitled to suspend, and shall suspend, in accordance with sections 4510.02 , 4510.07 , and 4511.19 of the Revised Code, the driver's, or commercial driver's license or permit or nonresident operating privilege of any person who is convicted of or pleads guilty to a violation of division (B) of section 4511.19 of the Revised Code or of a municipal ordinance relating to operating a vehicle with a prohibited concentration of alcohol in the whole blood, blood serum or plasma, breath, or urine that is substantially equivalent to division (B) of section 4511.19 of the Revised Code.
+
+Suspension of a commercial driver's license under this section shall be concurrent with any period of disqualification or suspension under section 3123.58 or 4506.16 of the Revised Code. No person who is disqualified for life from holding a commercial driver's license under section 4506.16 of the Revised Code shall be issued a driver's license under Chapter 4507. of the Revised Code during the period for which the commercial driver's license was suspended under this section, and no person whose commercial driver's license is suspended under this section shall be issued a driver's license under Chapter 4507. of the Revised Code during the period of the suspension.

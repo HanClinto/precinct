@@ -1,0 +1,176 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Affiliate\" means any individual or entity controlling, controlled by, or under common control with a family trust company.",
+      "id": "1112.01-affiliate",
+      "normalized": "affiliate",
+      "scope": "As used in this chapter:",
+      "section": "1112.01",
+      "source_title": "Section 1112.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1112.01",
+      "term": "Affiliate"
+    },
+    {
+      "definition": "(B) \"Business entity\" means a partnership, corporation, limited liability company, or other entity.",
+      "id": "1112.01-business-entity",
+      "normalized": "business entity",
+      "scope": "As used in this chapter:",
+      "section": "1112.01",
+      "source_title": "Section 1112.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1112.01",
+      "term": "Business entity"
+    },
+    {
+      "definition": "(C) \"Control\" means the power to direct or cause the direction of the management and policies of a business entity, whether through ownership of voting securities, by contract, or otherwise.",
+      "id": "1112.01-control",
+      "normalized": "control",
+      "scope": "As used in this chapter:",
+      "section": "1112.01",
+      "source_title": "Section 1112.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1112.01",
+      "term": "Control"
+    },
+    {
+      "definition": "(D)(1) With respect to a licensed family trust company or a family trust company applying for a license under this chapter, \"designated relative\" means the common ancestor of the family, whether living or deceased, who is designated in the application for a license.",
+      "id": "1112.01-designated-relative",
+      "normalized": "designated relative",
+      "scope": "As used in this chapter:",
+      "section": "1112.01",
+      "source_title": "Section 1112.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1112.01",
+      "term": "designated relative"
+    },
+    {
+      "definition": "(2)With respect to any other family trust company, \"designated relative\" means the common ancestor of the family, whether living or deceased, who is designated in a written document by the family trust company, which document is maintained with the permanent records of the family trust company.\n\n(3) Once designated, a \"designated relative\" may not be changed.",
+      "id": "1112.01-designated-relative",
+      "normalized": "designated relative",
+      "scope": "As used in this chapter:",
+      "section": "1112.01",
+      "source_title": "Section 1112.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1112.01",
+      "term": "designated relative"
+    },
+    {
+      "definition": "(E) \"Family affiliate\" means a business entity controlled by family members or affiliates.",
+      "id": "1112.01-family-affiliate",
+      "normalized": "family affiliate",
+      "scope": "As used in this chapter:",
+      "section": "1112.01",
+      "source_title": "Section 1112.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1112.01",
+      "term": "Family affiliate"
+    },
+    {
+      "definition": "(F)(1) \"Family client\" means all of the following:\n\n(a) Any family member;\n\n(b) Any former family member;\n\n(c) Any key employee;\n\n(d) Any former key employee provided that, upon the end of the individual's employment by the family trust company, the individual does not receive investment advice from the family trust company, or invest additional assets with a family trust company-advised trust, foundation, or entity, other than with respect to assets advised directly or indirectly by the family trust company immediately prior to the end of the individual's employment. Nothing in division (F)(1)(d) of this section shall be considered to preclude a former key employee from being a family client if the employee received investment advice from the family trust company with respect to additional investments that the individual was contractually obligated to make, and that relate to a family trust company-advised investment existing, prior to the end of the individual's employment by the family trust company.\n\n(e) Any nonprofit organization, charitable foundation, charitable trust, including a charitable lead trust and charitable remainder trust whose only current beneficiaries are other family clients and charitable or nonprofit organizations, or other charitable organization, so long as all of the contributions to the organization, foundation, or trust came exclusively from one or more other family clients;\n\n(f) Any estate of a family member, former family member, key employee, or former key employee;\n\n(g) Any irrevocable trust in which one or more other family clients are the only current beneficiaries;\n\n(h) Any irrevocable trust funded exclusively by one or more other family clients in which other family clients and nonprofit organizations, charitable foundations, charitable trusts, or other charitable organizations are the only current beneficiaries;\n\n(i) Any revocable trust of which one or more other family clients are the sole grantors;\n\n(j) Any trust to which both of the following conditions apply:\n\n(i) Each trustee or other person authorized to make decisions with respect to the trust is a key employee.\n\n(ii) Each settlor or other person who has contributed assets to the trust is a key employee or the key employee's current or former spouse or spousal equivalent who, at the time of the contribution, holds a joint, community property, or other similar shared ownership interest with the key employee.\n\n(k) Any business entity wholly owned, either directly or indirectly, exclusively by and operated for the sole benefit of one or more other family clients.\n\n(2) With respect to licensed family trust companies only, \"family client\" also means a family affiliate and any shareholder, partner, member, director, officer, or employee of a family affiliate who is an individual described in division (F)(1) of this section.",
+      "id": "1112.01-family-client",
+      "normalized": "family client",
+      "scope": "As used in this chapter:",
+      "section": "1112.01",
+      "source_title": "Section 1112.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1112.01",
+      "term": "Family client"
+    },
+    {
+      "definition": "(G)(1) \"Family member\" means all of the following, provided that the designated relative is not more than ten generations removed from the youngest generation of family members:\n\n(a) All lineal descendants, including adopted children, stepchildren, foster children, and individuals who were a minor when another family member became a legal guardian of the individual, of the designated relative;\n\n(b) Such lineal descendants' spouses or spousal equivalents.\n\n(2) With respect to licensed family trust companies only, \"family member\" also means all of the following:\n\n(a) An ancestor or sibling of a spouse or spousal equivalent described in division (G)(1) of this section;\n\n(b) Any individual who is a beneficiary of a will or trust established by an individual described in division (G)(1) of this section, provided that, at any given time, the number of individuals qualifying as family members under division (G)(2)(b) of this section does not exceed twenty-five.",
+      "id": "1112.01-family-member",
+      "normalized": "family member",
+      "scope": "As used in this chapter:",
+      "section": "1112.01",
+      "source_title": "Section 1112.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1112.01",
+      "term": "Family member"
+    },
+    {
+      "definition": "(H) \"Family trust company\" means a corporation or limited liability company organized under the laws of this state that meets all of the following requirements:\n\n(1) It is organized to serve only family clients.",
+      "id": "1112.01-family-trust-company",
+      "normalized": "family trust company",
+      "scope": "As used in this chapter:",
+      "section": "1112.01",
+      "source_title": "Section 1112.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1112.01",
+      "term": "Family trust company"
+    },
+    {
+      "definition": "(2) It is wholly owned by family clients and is exclusively controlled, either directly or indirectly, by one or more family members or family entities. For purposes of division (H)(2) of this section, \"family entity\" means any of the trusts, estates, or other entities described in division (F)(1)(e), (f), (g), (h), (i), or (k) of this section, except for key employees and their trusts.\n\n(3) It acts as a fiduciary.\n\n(4) It does not transact trust business with, propose to act as a fiduciary for, or accept trust business from, a person that is not a family client.",
+      "id": "1112.01-family-entity",
+      "normalized": "family entity",
+      "scope": "As used in this chapter:",
+      "section": "1112.01",
+      "source_title": "Section 1112.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1112.01",
+      "term": "family entity"
+    },
+    {
+      "definition": "(I) \"Former family member\" means a spouse, spousal equivalent, or stepchild who was a family member but is no longer a family member due to a divorce or other similar event.",
+      "id": "1112.01-former-family-member",
+      "normalized": "former family member",
+      "scope": "As used in this chapter:",
+      "section": "1112.01",
+      "source_title": "Section 1112.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1112.01",
+      "term": "Former family member"
+    },
+    {
+      "definition": "(J) \"Key employee\" means all of the following:",
+      "id": "1112.01-key-employee",
+      "normalized": "key employee",
+      "scope": "As used in this chapter:",
+      "section": "1112.01",
+      "source_title": "Section 1112.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1112.01",
+      "term": "Key employee"
+    },
+    {
+      "definition": "(1) Any natural person who is an executive officer, director, trustee, or general partner of, or a person serving in a similar capacity to, the family trust company. For purposes of division (J)(1) of this section, \"executive officer\" means the president, any vice-president in charge of a principal business unit, division, or function such as administration or finance, any other officer who performs a policymaking function, or any other person who performs a similar policymaking function.\n\n(2) The spouse or spousal equivalent of a person described in division (J)(1) of this section, if the spouse or spousal equivalent holds a joint, community property, or other similar shared ownership interest with that person;\n\n(3) Any employee of the family trust company, other than an employee performing solely clerical, secretarial, or administrative functions or duties, who participates in the investment activities of the family trust company, provided that the employee has been participating in those investment activities for or on behalf of the family trust company, or has been performing similar functions or duties for or on behalf of another business entity, for at least one year.",
+      "id": "1112.01-executive-officer",
+      "normalized": "executive officer",
+      "scope": "As used in this chapter:",
+      "section": "1112.01",
+      "source_title": "Section 1112.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1112.01",
+      "term": "executive officer"
+    },
+    {
+      "definition": "(K) \"Licensed family trust company\" means a family trust company licensed under this chapter.",
+      "id": "1112.01-licensed-family-trust-company",
+      "normalized": "licensed family trust company",
+      "scope": "As used in this chapter:",
+      "section": "1112.01",
+      "source_title": "Section 1112.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1112.01",
+      "term": "Licensed family trust company"
+    },
+    {
+      "definition": "(L) \"Spousal equivalent\" means a cohabitant occupying a relationship generally equivalent to that of a spouse.",
+      "id": "1112.01-spousal-equivalent",
+      "normalized": "spousal equivalent",
+      "scope": "As used in this chapter:",
+      "section": "1112.01",
+      "source_title": "Section 1112.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1112.01",
+      "term": "Spousal equivalent"
+    },
+    {
+      "definition": "(M) \"Trust business\" has the same meaning as in section 1111.01 of the Revised Code.\n\nLast updated June 16, 2025 at 2:23 PM",
+      "id": "1112.01-trust-business",
+      "normalized": "trust business",
+      "scope": "As used in this chapter:",
+      "section": "1112.01",
+      "source_title": "Section 1112.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1112.01",
+      "term": "Trust business"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "1111.01",
+      "number": "1111.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1111.01"
+    }
+  ],
+  "scraped": "2026-07-02T19:36:48+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1112.01",
+  "title": "Section 1112.01 - Definitions."
+}

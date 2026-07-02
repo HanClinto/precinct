@@ -1,0 +1,75 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-4121
+Scraped: 2026-07-02T20:04:15+00:00
+
+# Chapter 4121 - Industrial Commission; Bureau Of Workers' Compensation
+
+## Sections
+
+- Section 4121.01 - Industrial commission - bureau of workers' compensation definitions.
+- Section 4121.02 - Industrial commission.
+- Section 4121.021 - Industrial commission operating fund.
+- Section 4121.03 - Chairperson - executive director - powers and duties generally.
+- Section 4121.04 - Industrial commission nominating council - initial appointments - challenges.
+- Section 4121.08 - Expenses.
+- Section 4121.09 - Official seal.
+- Section 4121.10 - Session of industrial commission continuous and open to public - records of proceedings.
+- Section 4121.11 - Bureau rules of procedure.
+- Section 4121.12 - Workers' compensation board of directors.
+- Section 4121.121 - Bureau of workers' compensation - appointment, powers and duties of administrator - chief operating officer.
+- Section 4121.122 - Discipline of commission and bureau employees.
+- Section 4121.123 - Workers' compensation board nominating committee.
+- Section 4121.125 - Monitoring performance of system.
+- Section 4121.126 - Conflicts of interest by board members or bureau employees.
+- Section 4121.127 - Transactions by fiduciary involving conflict of interest.
+- Section 4121.128 - Attorney general legal adviser of board.
+- Section 4121.129 - Audit, actuarial, and investment committees.
+- Section 4121.13 - Administrator of workers' compensation - powers and duties.
+- Section 4121.131 - Special investigation department access to crime databases.
+- Section 4121.14 - Investigating agent.
+- Section 4121.15 - Power to administer oaths, issue subpoenas, and compel attendance of witnesses.
+- Section 4121.16 - Witness attendance - fees and mileage.
+- Section 4121.17 - Examination of place of employment upon petition that same is unsafe.
+- Section 4121.19 - Record of proceedings.
+- Section 4121.20 - Depositions.
+- Section 4121.21 - Effective date of orders - time for compliance.
+- Section 4121.22 - Jurisdiction over places of employment.
+- Section 4121.23 - Petition for hearing by employer.
+- Section 4121.24 - No action to vacate allowed until after hearing.
+- Section 4121.25 - Action to set aside, vacate, or amend order.
+- Section 4121.26 - Statement of issues not adequately considered - stay of proceedings.
+- Section 4121.27 - Exclusive jurisdiction of supreme court.
+- Section 4121.28 - Order of bureau of workers' compensation not stayed by pendency of action.
+- Section 4121.29 - Priority to be given actions.
+- Section 4121.30 - Administrative rules.
+- Section 4121.31 - Joint adoption of administrative rules.
+- Section 4121.32 - Supplementing rules with operating manuals.
+- Section 4121.34 - District hearing officers - jurisdiction.
+- Section 4121.35 - Staff hearing officers - jurisdiction.
+- Section 4121.36 - Industrial commission hearing rules.
+- Section 4121.37 - Creation of division of safety and hygiene.
+- Section 4121.38 - Impairment evaluation.
+- Section 4121.39 - Administrator of workers' compensation - powers and duties.
+- Section 4121.40 - Service directors - investigators and field auditors - duties.
+- Section 4121.41 - Information on rights and responsibilities - optimum level of premium payment - complaints.
+- Section 4121.42 - In-service training programs.
+- Section 4121.43 - Compensation payments.
+- Section 4121.44 - Implementation of qualified health plan system and health partnership program - health care data program.
+- Section 4121.441 - Health care partnership program - adoption of rules.
+- Section 4121.442 - Health care quality advisory council.
+- Section 4121.443 - Summary suspension.
+- Section 4121.444 - Obtaining workers' compensation payments by deception prohibited.
+- Section 4121.446 - Selection of managed care organizations.
+- Section 4121.447 - Data security agreement.
+- Section 4121.45 - Workers' compensation ombudsperson system.
+- Section 4121.47 - Violating specific safety rule or employee welfare legislation.
+- Section 4121.471 - Limitation on action for employer's failure to comply with safety rule.
+- Section 4121.50 - Rules to implement coordinated services program for prescription drug abuse.
+- Section 4121.61 - Aiding rehabilitation of injured workers.
+- Section 4121.62 - Contracts for rendition of rehabilitation services.
+- Section 4121.63 - Living maintenance payments paid to claimants agreeing to rehabilitation.
+- Section 4121.64 - Appeals.
+- Section 4121.65 - Employer may furnish rehabilitation services.
+- Section 4121.66 - Rehabilitation services, counseling, training, and living maintenance payments paid from surplus fund.
+- Section 4121.67 - Administrative rules for payments for employing rehabilitated workers - wage loss compensation.
+- Section 4121.68 - Compensation and benefits to rehabilitation program participants.
+- Section 4121.69 - Compensation of professional, administrative, and managerial employees.

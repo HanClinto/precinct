@@ -1,0 +1,58 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Drug of abuse\" means any controlled substance as defined in section 3719.01 of the Revised Code, any harmful intoxicant as defined in section 2925.01 of the Revised Code, and any dangerous drug as defined in section 4729.01 of the Revised Code.",
+      "id": "3719.011-drug-of-abuse",
+      "normalized": "drug of abuse",
+      "scope": "As used in the Revised Code:",
+      "section": "3719.011",
+      "source_title": "Section 3719.011 - Controlled substances definitions for use in Revised Code.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3719.011",
+      "term": "Drug of abuse"
+    },
+    {
+      "definition": "(B) \"Person with a drug dependency\" means any person who, by reason of the use of any drug of abuse, is physically, psychologically, or physically and psychologically dependent upon the use of such drug, to the detriment of the person's health or welfare.",
+      "id": "3719.011-person-with-a-drug-dependency",
+      "normalized": "person with a drug dependency",
+      "scope": "As used in the Revised Code:",
+      "section": "3719.011",
+      "source_title": "Section 3719.011 - Controlled substances definitions for use in Revised Code.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3719.011",
+      "term": "Person with a drug dependency"
+    },
+    {
+      "definition": "(C) \"Person in danger of becoming a person with a drug dependency\" means any person who, by reason of the person's habitual or incontinent use of any drug of abuse, is in imminent danger of becoming a person with a drug dependency.\n\nLast updated March 10, 2023 at 12:20 PM",
+      "id": "3719.011-person-in-danger-of-becoming-a-person-with-a-drug-dependency",
+      "normalized": "person in danger of becoming a person with a drug dependency",
+      "scope": "As used in the Revised Code:",
+      "section": "3719.011",
+      "source_title": "Section 3719.011 - Controlled substances definitions for use in Revised Code.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3719.011",
+      "term": "Person in danger of becoming a person with a drug dependency"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3719.01",
+      "number": "3719.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3719.01"
+    },
+    {
+      "kind": "section",
+      "label": "2925.01",
+      "number": "2925.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2925.01"
+    },
+    {
+      "kind": "section",
+      "label": "4729.01",
+      "number": "4729.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.01"
+    }
+  ],
+  "scraped": "2026-07-02T19:51:34+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3719.011",
+  "title": "Section 3719.011 - Controlled substances definitions for use in Revised Code."
+}

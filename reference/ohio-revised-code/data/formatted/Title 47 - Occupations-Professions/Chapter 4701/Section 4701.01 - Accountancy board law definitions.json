@@ -1,0 +1,260 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Practice of public accounting\" means performing or offering to perform any engagement that will result in the issuance of an attest report and, with respect to a person who holds a CPA certificate, PA registration, foreign certificate, or firm registration, any other services involving the use of accounting or auditing skills as established by rules adopted by the accountancy board.",
+      "id": "4701.01-practice-of-public-accounting",
+      "normalized": "practice of public accounting",
+      "scope": "As used in this chapter:",
+      "section": "4701.01",
+      "source_title": "Section 4701.01 - Accountancy board law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4701.01",
+      "term": "Practice of public accounting"
+    },
+    {
+      "definition": "(B) \"Public accounting firm\" means a sole proprietorship, a partnership, a limited liability company, a professional association, a corporation-for-profit, or any other business organization that is engaged in the practice of public accounting in this state.",
+      "id": "4701.01-public-accounting-firm",
+      "normalized": "public accounting firm",
+      "scope": "As used in this chapter:",
+      "section": "4701.01",
+      "source_title": "Section 4701.01 - Accountancy board law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4701.01",
+      "term": "Public accounting firm"
+    },
+    {
+      "definition": "(C) \"Opinion report\" means any opinion on a financial statement that is expressed in accordance with generally accepted auditing standards as to the fairness of presentation of information and that is used for guidance in financial transactions, for accounting, or for assessing the status or performance of commercial and noncommercial enterprises, whether public, private, or governmental.",
+      "id": "4701.01-opinion-report",
+      "normalized": "opinion report",
+      "scope": "As used in this chapter:",
+      "section": "4701.01",
+      "source_title": "Section 4701.01 - Accountancy board law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4701.01",
+      "term": "Opinion report"
+    },
+    {
+      "definition": "(D) \"Peer review\" means a study, appraisal, or review of one or more aspects of the professional work of a public accounting firm that meets the standards and requirements set forth by the accountancy board.",
+      "id": "4701.01-peer-review",
+      "normalized": "peer review",
+      "scope": "As used in this chapter:",
+      "section": "4701.01",
+      "source_title": "Section 4701.01 - Accountancy board law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4701.01",
+      "term": "Peer review"
+    },
+    {
+      "definition": "(E) \"Review report\" means either of the following:\n\n(1) Any review report on a financial statement that is issued with respect to any of the following:\n\n(a) Interim financial information in accordance with generally accepted auditing standards;\n\n(b) The financial information of a nonpublic entity in accordance with statements on standards for accounting and review services;\n\n(c) The reliability of another party's written assertion in accordance with statements on standards for attestation engagements.\n\n(2) Any other review report on a financial statement that is not described in division (E)(1) of this section and that is issued in accordance with standards promulgated by the American institute of certified public accountants.",
+      "id": "4701.01-review-report",
+      "normalized": "review report",
+      "scope": "As used in this chapter:",
+      "section": "4701.01",
+      "source_title": "Section 4701.01 - Accountancy board law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4701.01",
+      "term": "Review report"
+    },
+    {
+      "definition": "(F) \"Compilation report\" means any compilation report on a financial statement that is issued with respect to financial information of a nonpublic entity in accordance with statements on standards for accounting and review services as promulgated by the American institute of certified public accountants.",
+      "id": "4701.01-compilation-report",
+      "normalized": "compilation report",
+      "scope": "As used in this chapter:",
+      "section": "4701.01",
+      "source_title": "Section 4701.01 - Accountancy board law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4701.01",
+      "term": "Compilation report"
+    },
+    {
+      "definition": "(G) \"Examination report\" means any examination report on a financial statement that is issued with respect to another party's written assertion in accordance with statements on standards for attestation engagements as promulgated by the American institute of certified public accountants.",
+      "id": "4701.01-examination-report",
+      "normalized": "examination report",
+      "scope": "As used in this chapter:",
+      "section": "4701.01",
+      "source_title": "Section 4701.01 - Accountancy board law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4701.01",
+      "term": "Examination report"
+    },
+    {
+      "definition": "(H) \"Agreed-upon procedures report\" means any report that is on a financial statement and that is based on agreed-upon procedures issued with respect to another party's written assertion in accordance with statements on standards for attestation engagements as promulgated by the American institute of certified public accountants.",
+      "id": "4701.01-agreed-upon-procedures-report",
+      "normalized": "agreed-upon procedures report",
+      "scope": "As used in this chapter:",
+      "section": "4701.01",
+      "source_title": "Section 4701.01 - Accountancy board law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4701.01",
+      "term": "Agreed-upon procedures report"
+    },
+    {
+      "definition": "(I) \"Qualified firm\" means a sole proprietorship, partnership, professional association, corporation-for-profit, limited liability company, or other business organization in which the individuals who own a majority of the business organization interests in the business organization and control the business organization hold an Ohio permit or a foreign certificate.",
+      "id": "4701.01-qualified-firm",
+      "normalized": "qualified firm",
+      "scope": "As used in this chapter:",
+      "section": "4701.01",
+      "source_title": "Section 4701.01 - Accountancy board law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4701.01",
+      "term": "Qualified firm"
+    },
+    {
+      "definition": "(J) \"Own\" means any direct or indirect ownership of an equity interest or shares in a public accounting firm or qualified firm.",
+      "id": "4701.01-own",
+      "normalized": "own",
+      "scope": "As used in this chapter:",
+      "section": "4701.01",
+      "source_title": "Section 4701.01 - Accountancy board law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4701.01",
+      "term": "Own"
+    },
+    {
+      "definition": "(K) \"Control\" or \"controlled\" means the right to exercise the majority of the voting equity interests or shares in a public accounting firm or qualified firm with respect to any matter.",
+      "id": "4701.01-control",
+      "normalized": "control",
+      "scope": "As used in this chapter:",
+      "section": "4701.01",
+      "source_title": "Section 4701.01 - Accountancy board law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4701.01",
+      "term": "Control"
+    },
+    {
+      "definition": "(K) \"Control\" or \"controlled\" means the right to exercise the majority of the voting equity interests or shares in a public accounting firm or qualified firm with respect to any matter.",
+      "id": "4701.01-controlled",
+      "normalized": "controlled",
+      "scope": "As used in this chapter:",
+      "section": "4701.01",
+      "source_title": "Section 4701.01 - Accountancy board law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4701.01",
+      "term": "controlled"
+    },
+    {
+      "definition": "(L) \"Equity interest\" means any capital interest or profit interest in a sole proprietorship, partnership, professional association, corporation-for-profit, limited liability company, or other business organization.",
+      "id": "4701.01-equity-interest",
+      "normalized": "equity interest",
+      "scope": "As used in this chapter:",
+      "section": "4701.01",
+      "source_title": "Section 4701.01 - Accountancy board law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4701.01",
+      "term": "Equity interest"
+    },
+    {
+      "definition": "(M) \"Ohio permit\" means a permit to practice public accounting issued under division (A) of section 4701.10 of the Revised Code that is not revoked or suspended.",
+      "id": "4701.01-ohio-permit",
+      "normalized": "ohio permit",
+      "scope": "As used in this chapter:",
+      "section": "4701.01",
+      "source_title": "Section 4701.01 - Accountancy board law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4701.01",
+      "term": "Ohio permit"
+    },
+    {
+      "definition": "(N) \"Ohio registration\" means the registration under division (B) of section 4701.10 of the Revised Code of a holder of a CPA certificate or PA registration who is not in the practice of public accounting in this state.",
+      "id": "4701.01-ohio-registration",
+      "normalized": "ohio registration",
+      "scope": "As used in this chapter:",
+      "section": "4701.01",
+      "source_title": "Section 4701.01 - Accountancy board law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4701.01",
+      "term": "Ohio registration"
+    },
+    {
+      "definition": "(O) \"Firm registration\" or \"registered firm\" means registration as a public accounting firm under section 4701.04 of the Revised Code.",
+      "id": "4701.01-firm-registration",
+      "normalized": "firm registration",
+      "scope": "As used in this chapter:",
+      "section": "4701.01",
+      "source_title": "Section 4701.01 - Accountancy board law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4701.01",
+      "term": "Firm registration"
+    },
+    {
+      "definition": "(O) \"Firm registration\" or \"registered firm\" means registration as a public accounting firm under section 4701.04 of the Revised Code.",
+      "id": "4701.01-registered-firm",
+      "normalized": "registered firm",
+      "scope": "As used in this chapter:",
+      "section": "4701.01",
+      "source_title": "Section 4701.01 - Accountancy board law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4701.01",
+      "term": "registered firm"
+    },
+    {
+      "definition": "(P) \"PA registration\" means registration as a public accountant under section 4701.07 of the Revised Code that is not revoked or suspended.",
+      "id": "4701.01-pa-registration",
+      "normalized": "pa registration",
+      "scope": "As used in this chapter:",
+      "section": "4701.01",
+      "source_title": "Section 4701.01 - Accountancy board law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4701.01",
+      "term": "PA registration"
+    },
+    {
+      "definition": "(Q) \"CPA certificate\" means a certificate issued under section 4701.06 or 4701.061 of the Revised Code that is not revoked or suspended.",
+      "id": "4701.01-cpa-certificate",
+      "normalized": "cpa certificate",
+      "scope": "As used in this chapter:",
+      "section": "4701.01",
+      "source_title": "Section 4701.01 - Accountancy board law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4701.01",
+      "term": "CPA certificate"
+    },
+    {
+      "definition": "(R) \"Foreign certificate\" means a license, permit, certificate, or registration issued to a certified public accountant under the laws of another state that authorizes the holder to practice public accounting in that state, is valid, is in good standing, and has not expired.",
+      "id": "4701.01-foreign-certificate",
+      "normalized": "foreign certificate",
+      "scope": "As used in this chapter:",
+      "section": "4701.01",
+      "source_title": "Section 4701.01 - Accountancy board law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4701.01",
+      "term": "Foreign certificate"
+    },
+    {
+      "definition": "(S) \"Attest report\" means an opinion report, review report, compilation report, examination report, agreed-upon procedures report, or any similar report prepared in accordance with standards established by the American institute of certified public accountants with respect to a financial statement or other financial information.",
+      "id": "4701.01-attest-report",
+      "normalized": "attest report",
+      "scope": "As used in this chapter:",
+      "section": "4701.01",
+      "source_title": "Section 4701.01 - Accountancy board law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4701.01",
+      "term": "Attest report"
+    },
+    {
+      "definition": "(T) \"Person\" means any individual, corporation-for-profit, business trust, estate, partnership, limited liability company, professional association, or other business organization.\n\n(U) Technical terms that define specific public accounting engagements have the same meanings as in the professional standards promulgated by the American institute of certified public accountants.\n\nLast updated August 7, 2025 at 4:42 PM",
+      "id": "4701.01-person",
+      "normalized": "person",
+      "scope": "As used in this chapter:",
+      "section": "4701.01",
+      "source_title": "Section 4701.01 - Accountancy board law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4701.01",
+      "term": "Person"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "4701.10",
+      "number": "4701.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4701.10"
+    },
+    {
+      "kind": "section",
+      "label": "4701.04",
+      "number": "4701.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4701.04"
+    },
+    {
+      "kind": "section",
+      "label": "4701.07",
+      "number": "4701.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4701.07"
+    },
+    {
+      "kind": "section",
+      "label": "4701.06",
+      "number": "4701.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4701.06"
+    },
+    {
+      "kind": "section",
+      "label": "4701.061",
+      "number": "4701.061",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4701.061"
+    }
+  ],
+  "scraped": "2026-07-02T20:06:16+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4701.01",
+  "title": "Section 4701.01 - Accountancy board law definitions."
+}

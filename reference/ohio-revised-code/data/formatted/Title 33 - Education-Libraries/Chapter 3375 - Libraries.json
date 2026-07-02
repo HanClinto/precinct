@@ -1,0 +1,489 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 3375.01 - State library board.",
+      "number": "3375.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.011 - Free photocopy of driver's license or identification card.",
+      "number": "3375.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.011"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.02 - Appointment of state librarian - duties.",
+      "number": "3375.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.04 - Control and management of state library.",
+      "number": "3375.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.05 - Application for establishment of library stations, branches, or traveling library service.",
+      "number": "3375.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.06 - County free public library - appointment of trustees.",
+      "number": "3375.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.07 - Tax levy for maintenance of county free public library.",
+      "number": "3375.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.08 - Board of county commissioners may transfer, convey, or lease property for library purposes.",
+      "number": "3375.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.09 - Tax levy by board of township trustees for maintenance of library.",
+      "number": "3375.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.10 - Township free public library - appointment of trustees.",
+      "number": "3375.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.11 - Board of township trustees may transfer, convey, or lease property for library purposes.",
+      "number": "3375.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.12 - Municipal free public libraries - appointment of trustees.",
+      "number": "3375.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.121 - Municipal library district created.",
+      "number": "3375.121",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.121"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.13 - Issuance of bonds - control of property vested in board of library trustees of municipal corporation - agreement with library organization.",
+      "number": "3375.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.14 - School libraries.",
+      "number": "3375.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.15 - School district free public library - appointment of trustees.",
+      "number": "3375.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.151 - Acceptance of bequest, gift, or endowment for school district free public library.",
+      "number": "3375.151",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.151"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.16 - Board of education may transfer, convey, or lease property for library purposes.",
+      "number": "3375.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.17 - Tax levy by board of education for operation of library.",
+      "number": "3375.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.18 - Board of education may provide building or property for public library service.",
+      "number": "3375.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.19 - County library district.",
+      "number": "3375.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.20 - Resolution by boards of library trustees requesting formation of county library district.",
+      "number": "3375.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.201 - Election on creating county district library.",
+      "number": "3375.201",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.201"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.21 - Resolution for inclusion of subdivision in county library district.",
+      "number": "3375.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.211 - Submission of resolution to electors.",
+      "number": "3375.211",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.211"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.212 - Consolidation with another subdivision.",
+      "number": "3375.212",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.212"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.213 - Assets, liabilities and levies.",
+      "number": "3375.213",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.213"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.22 - County library district - appointment of trustees.",
+      "number": "3375.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.23 - Tax levy by board of county commissioners for county library district.",
+      "number": "3375.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.24 - Notes and bonds may be issued by board of county commissioners - sale of real property.",
+      "number": "3375.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.28 - Creation of regional library district.",
+      "number": "3375.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.29 - Resolution by taxing authority for inclusion in regional library district - transfer of title.",
+      "number": "3375.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.30 - Appointment, term, and compensation of board of library trustees of a regional library district.",
+      "number": "3375.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.31 - Tax levy by board of county commissioners for regional library district.",
+      "number": "3375.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.32 - Meeting of boards of library trustees - organization - election of clerk - bond.",
+      "number": "3375.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.33 - Boards of library trustees are bodies politic and corporate.",
+      "number": "3375.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.34 - Name of board of library trustees.",
+      "number": "3375.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.35 - Rules of procedure - annual report.",
+      "number": "3375.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.351 - Payment of employees by direct deposit.",
+      "number": "3375.351",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.351"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.36 - Treasurer of library funds - deposits of moneys - monthly statement - financial statement.",
+      "number": "3375.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.361 - Liability for loss of public funds.",
+      "number": "3375.361",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.361"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.37 - Statement filed with county auditor.",
+      "number": "3375.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.38 - Compliance with duties relating to moneys credited to board of library trustees.",
+      "number": "3375.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.39 - Accounting by clerk - count and certificate.",
+      "number": "3375.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.391 - Treasurer to credit earnings on investments.",
+      "number": "3375.391",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.391"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.392 - Policies for use of credit card accounts.",
+      "number": "3375.392",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.392"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.40 - Board of library trustees - powers and duties.",
+      "number": "3375.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.401 - Purchase of liability insurance.",
+      "number": "3375.401",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.401"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.402 - Establishment of museums.",
+      "number": "3375.402",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.402"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.403 - Contract for public library service.",
+      "number": "3375.403",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.403"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.404 - Issuance of notes and anticipation notes.",
+      "number": "3375.404",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.404"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.405 - Evaluating library buildings for energy conservation; energy conservation report; implementation.",
+      "number": "3375.405",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.405"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.41 - Contracts over threshold to require bidding procedure.",
+      "number": "3375.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.411 - Retirement systems for library employees.",
+      "number": "3375.411",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.411"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.42 - Contract for library service - tax levy.",
+      "number": "3375.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.43 - Submission of question - issuance and sale of bonds by subdivision for library purposes.",
+      "number": "3375.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.431 - Board of education may issue bonds for libraries.",
+      "number": "3375.431",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.431"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.44 - Payment of interest - retirement of bonds - annual levy.",
+      "number": "3375.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.45 - Control and management of sinking or bond retirement fund.",
+      "number": "3375.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.46 - Bureau of municipal research and information may be established.",
+      "number": "3375.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.481 - Consortium of county law library resources boards.",
+      "number": "3375.481",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.481"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.61 - Financial aid to Martha Kinney Cooper Ohioana Library Association.",
+      "number": "3375.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.62 - Appointment of trustees.",
+      "number": "3375.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.63 - Eligibility for membership on board of public library trustees.",
+      "number": "3375.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.64 - Public library information network.",
+      "number": "3375.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.65 - Library information network board of trustees.",
+      "number": "3375.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.66 - Duties and powers of board of trustees.",
+      "number": "3375.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.67 - Dissolution of network.",
+      "number": "3375.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.67"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.79 - Bill and Melinda Gates foundation grant fund.",
+      "number": "3375.79",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.79"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.80 - Libraries designated as resource centers.",
+      "number": "3375.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.80"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.81 - Essential library services support program.",
+      "number": "3375.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.82 - Administration of grants.",
+      "number": "3375.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.82"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.83 - Interstate library compact.",
+      "number": "3375.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.83"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.831 - Instrument to identify state agency for whose use and benefit real property is acquired.",
+      "number": "3375.831",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.831"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.84 - Interstate library compact definitions.",
+      "number": "3375.84",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.84"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.85 - Aid to interstate library district partly within state.",
+      "number": "3375.85",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.85"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.90 - Formation of regional library system.",
+      "number": "3375.90",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.90"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.91 - Board of trustees of regional library system - powers and duties.",
+      "number": "3375.91",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.91"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.92 - Clerk and deputy clerk of board - duties.",
+      "number": "3375.92",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.92"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3375.93 - Dissolution of or withdrawal from regional library system.",
+      "number": "3375.93",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3375.93"
+    }
+  ],
+  "scraped": "2026-07-02T19:50:30+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-3375",
+  "title": "Chapter 3375 - Libraries"
+}

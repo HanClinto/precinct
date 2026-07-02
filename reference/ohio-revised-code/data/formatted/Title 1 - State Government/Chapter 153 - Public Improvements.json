@@ -1,0 +1,519 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 153.01 - Architect must submit accurate plans, estimates, bills of materials, and details to scale.",
+      "number": "153.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.011 - Using domestic steel products in state supported projects.",
+      "number": "153.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.011"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.012 - Preference to contractors having principal place of business in Ohio.",
+      "number": "153.012",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.012"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.013 - Capitol square review and advisory board - indefinite delivery indefinite quantity contract.",
+      "number": "153.013",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.013"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.02 - Debarment of contractor from contract awards.",
+      "number": "153.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.03 - Contracts to require drug-free workplace program.",
+      "number": "153.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.031 - RC 153.03 requirements limited to state improvements.",
+      "number": "153.031",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.031"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.04 - Forms for providing bidding information - life-cycle costs.",
+      "number": "153.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.05 - Actions to enforce bond.",
+      "number": "153.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.06 - Form of bids.",
+      "number": "153.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.07 - Publishing notice of bids.",
+      "number": "153.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.08 - Opening bids and awarding contract.",
+      "number": "153.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.09 - New proposals when necessary - change in work or materials.",
+      "number": "153.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.10 - No change in plans without approval of owner.",
+      "number": "153.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.11 - Change of plans becomes part of original contract.",
+      "number": "153.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.12 - Awarding and executing contract.",
+      "number": "153.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.13 - Estimates of labor and materials - funds in escrow account.",
+      "number": "153.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.14 - Estimates to be filed with executive director - payment on materials delivered - payment procedure.",
+      "number": "153.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.15 - Assessment of asbestos hazard.",
+      "number": "153.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.16 - Policy and procedure guidelines for contract documents in conjunction with administration of public works contracts.",
+      "number": "153.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.17 - Requisition upon contractor for additional specific force or materials.",
+      "number": "153.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.18 - Certification of additional force or materials.",
+      "number": "153.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.19 - Contract shall contain provision as to time of completion.",
+      "number": "153.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.20 - Duty of attorney general.",
+      "number": "153.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.21 - Building commission.",
+      "number": "153.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.22 - Compensation of commissioners.",
+      "number": "153.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.23 - Expenses of building commission.",
+      "number": "153.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.24 - Oath and bond.",
+      "number": "153.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.25 - Vacancies.",
+      "number": "153.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.26 - Contracts.",
+      "number": "153.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.27 - Architects - superintendents - employees.",
+      "number": "153.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.28 - Plans, drawings, and cost estimates filed with county auditor.",
+      "number": "153.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.29 - Proceedings of building commission.",
+      "number": "153.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.30 - Record of proceedings.",
+      "number": "153.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.31 - Plans and estimates for construction - construction project manager or consultants.",
+      "number": "153.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.311 - Construction of public building in stages.",
+      "number": "153.311",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.311"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.32 - Contracts for erection and repair of superstructures.",
+      "number": "153.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.33 - Bids on other plans may be considered.",
+      "number": "153.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.34 - Contents of advertisement.",
+      "number": "153.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.35 - Plans shall be kept on file in county auditor's office.",
+      "number": "153.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.36 - Approval of plans for courthouse or jail.",
+      "number": "153.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.37 - Approval of plans for county home.",
+      "number": "153.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.38 - Approval of plans for bridge.",
+      "number": "153.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.39 - Approval of plans for children's home.",
+      "number": "153.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.44 - Contracts submitted to prosecuting attorney.",
+      "number": "153.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.45 - Commissioners may annul old and make new contracts.",
+      "number": "153.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.49 - Duty of county treasurer.",
+      "number": "153.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.50 - Separate bids for work and materials.",
+      "number": "153.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.501 - Subcontracts awarded by construction manager at risk, design-build firm, or general contracting firm; utilization of design-assist firm; self-performed portions of work.",
+      "number": "153.501",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.501"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.502 - Construction management or design-build contracts; prequalification of bidders.",
+      "number": "153.502",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.502"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.503 - Adoption of rules.",
+      "number": "153.503",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.503"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.51 - Separate contracts - single, aggregate contract.",
+      "number": "153.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.52 - Awarding of contracts to separate bidders.",
+      "number": "153.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.53 - Adjusting threshold in section 153.01 for inflation.",
+      "number": "153.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.54 - Bid guaranty to be filed with bid.",
+      "number": "153.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.55 - Dividing project into parts to avoid threshold prohibited; costs included in threshold amount.",
+      "number": "153.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.56 - Creditor shall furnish statement of amount due - service of notice of furnishing.",
+      "number": "153.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.57 - Form of bond.",
+      "number": "153.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.571 - Form of bond.",
+      "number": "153.571",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.571"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.58 - Prohibition.",
+      "number": "153.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.581 - Contracts for construction definitions.",
+      "number": "153.581",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.581"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.59 - Discrimination and intimidation on account of race, religion, sex, disability, national origin or ancestry.",
+      "number": "153.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.591 - Hiring hall contract or agreement.",
+      "number": "153.591",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.591"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.60 - Forfeiture.",
+      "number": "153.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.61 - Agreement for joint construction and management.",
+      "number": "153.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.62 - Issuing change order for additional work.",
+      "number": "153.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.63 - Agreement for escrow account for contractor.",
+      "number": "153.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.64 - Protecting underground utility facilities during construction of public improvement.",
+      "number": "153.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.65 - Professional design services definitions.",
+      "number": "153.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.66 - Submitting statement of qualifications.",
+      "number": "153.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.67 - Announcing contracts available for professional design or design-build services.",
+      "number": "153.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.67"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.68 - Instituting prequalification requirements.",
+      "number": "153.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.68"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.69 - Evaluating and selecting firms.",
+      "number": "153.69",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.69"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.691 - No fee estimate on contract for professional design services.",
+      "number": "153.691",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.691"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.692 - Obtaining services of criteria architect or engineer.",
+      "number": "153.692",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.692"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.693 - Evaluation of design-build firms.",
+      "number": "153.693",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.693"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.694 - Conflicts of interest.",
+      "number": "153.694",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.694"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.70 - Requiring professional liability insurance.",
+      "number": "153.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.71 - Administrative rules.",
+      "number": "153.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.72 - Authority of design-build firm.",
+      "number": "153.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.73 - Construction of statutes.",
+      "number": "153.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.80 - Reducing bond.",
+      "number": "153.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.80"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.81 - Indemnity provisions in public works design contracts.",
+      "number": "153.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.83 - Hearings related to contractor labor agreements.",
+      "number": "153.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.83"
+    },
+    {
+      "kind": "section",
+      "label": "Section 153.99 - Penalty.",
+      "number": "153.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.99"
+    }
+  ],
+  "scraped": "2026-07-02T19:32:02+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-153",
+  "title": "Chapter 153 - Public Improvements"
+}

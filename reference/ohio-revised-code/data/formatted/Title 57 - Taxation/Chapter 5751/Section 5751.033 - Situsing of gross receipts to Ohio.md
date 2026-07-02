@@ -1,0 +1,38 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5751.033
+Scraped: 2026-07-02T20:15:36+00:00
+
+# Section 5751.033 - Situsing of gross receipts to Ohio.
+
+**Effective:** April 3, 2025
+
+**Latest Legislation:** House Bill 315 - 135th General Assembly
+
+For the purposes of this chapter, gross receipts shall be sitused to this state as follows:
+
+(A) Gross rents and royalties from real property located in this state shall be sitused to this state.
+
+(B) Gross rents and royalties from tangible personal property shall be sitused to this state to the extent the tangible personal property is located or used in this state.
+
+(C) Gross receipts from the sale of electricity and electric transmission and distribution services shall be sitused to this state in the manner provided under section 5733.059 of the Revised Code.
+
+(D) Gross receipts from the sale of real property located in this state shall be sitused to this state.
+
+(E) Except as otherwise provided in division (M) of this section, gross receipts from the sale of tangible personal property shall be sitused to this state if the property is received in this state by the purchaser. In the case of delivery of tangible personal property by motor carrier or by other means of transportation, the place at which such property is ultimately received after all transportation has been completed shall be considered the place where the purchaser receives the property. For purposes of this section, the phrase "delivery of tangible personal property by motor carrier or by other means of transportation" includes the situation in which a purchaser accepts the property in this state and then transports the property directly or by other means to a location outside this state. Direct delivery in this state, other than for purposes of transportation, to a person or firm designated by a purchaser constitutes delivery to the purchaser in this state, and direct delivery outside this state to a person or firm designated by a purchaser does not constitute delivery to the purchaser in this state, regardless of where title passes or other conditions of sale.
+
+(F) Gross receipts from the sale, exchange, disposition, or other grant of the right to use trademarks, trade names, patents, copyrights, and similar intellectual property shall be sitused to this state to the extent that the receipts are based on the amount of use of the property in this state. If the receipts are not based on the amount of use of the property, but rather on the right to use the property, and the payor has the right to use the property in this state, then the receipts from the sale, exchange, disposition, or other grant of the right to use such property shall be sitused to this state to the extent the receipts are based on the right to use the property in this state.
+
+(G) Gross receipts from the sale of transportation services by a motor carrier shall be sitused to this state in proportion to the mileage traveled by the carrier during the tax period on roadways, waterways, airways, and railways in this state to the mileage traveled by the carrier during the tax period on roadways, waterways, airways, and railways everywhere. With prior written approval of the tax commissioner, a motor carrier may use an alternative situsing procedure for transportation services.
+
+(H) Gross receipts from dividends, interest, and other sources of income from financial instruments described in divisions (F)(4), (5), (6), (7), (8), (9), (10), (11), and (13) of section 5733.056 of the Revised Code shall be sitused to this state in accordance with the situsing provisions set forth in those divisions. When applying the provisions of divisions (F)(6), (8), and (13) of section 5733.056 of the Revised Code, "gross receipts" shall be substituted for "net gains" wherever "net gains" appears in those divisions. Nothing in this division limits or modifies the exclusions enumerated in divisions (E) and (F)(2) of section 5751.01 of the Revised Code. The tax commissioner may promulgate rules to further specify the manner in which to situs gross receipts subject to this division.
+
+(I) Gross receipts from the sale of all other services, and all other gross receipts not otherwise sitused under this section, shall be sitused to this state in the proportion that the purchaser's benefit in this state with respect to what was purchased bears to the purchaser's benefit everywhere with respect to what was purchased. The physical location where the purchaser ultimately uses or receives the benefit of what was purchased shall be paramount in determining the proportion of the benefit in this state to the benefit everywhere. If a taxpayer's records do not allow the taxpayer to determine that location, the taxpayer may use an alternative method to situs gross receipts under this division if the alternative method is reasonable, is consistently and uniformly applied, and is supported by the taxpayer's records as the records exist when the service is provided or within a reasonable period of time thereafter.
+
+(J) If the situsing provisions of divisions (A) to (H) of this section do not fairly represent the extent of a person's activity in this state, the person may request, or the tax commissioner may require or permit, an alternative method. Such request by a person must be made within the applicable statute of limitations set forth in this chapter.
+
+(K) The tax commissioner may adopt rules to provide additional guidance to the application of this section, and provide alternative methods of situsing gross receipts that apply to all persons, or subset of persons, that are engaged in similar business or trade activities.
+
+(L) As used in this section, "motor carrier" has the same meaning as in section 4923.01 of the Revised Code.
+
+(M) Gross receipts from the sale or lease of a motor vehicle, as defined in section 4517.01 of the Revised Code, by a motor vehicle dealer licensed under Chapter 4517. of the Revised Code or the law of another state, shall only be sitused to this state if the motor vehicle is issued a certificate of title evidencing the owner's or lessee's address in this state.
+
+Last updated February 19, 2025 at 11:47 AM

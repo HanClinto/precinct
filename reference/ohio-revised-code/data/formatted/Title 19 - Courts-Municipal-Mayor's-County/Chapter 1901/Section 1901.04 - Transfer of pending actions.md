@@ -1,0 +1,18 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-1901.04
+Scraped: 2026-07-02T19:40:49+00:00
+
+# Section 1901.04 - Transfer of pending actions.
+
+**Effective:** December 18, 2002
+
+**Latest Legislation:** House Bill 530 - 124th General Assembly
+
+Upon the institution of a municipal court other than the Brown county municipal court or the Morrow county municipal court, the jurisdiction of the mayor in all civil and criminal causes terminates within the municipal corporation in which the municipal court is located. The institution of the Brown county municipal court or the Morrow county municipal court does not terminate or affect the jurisdiction of the mayor of Georgetown or the mayor of Mount Gilead, respectively, in any civil or criminal cause. Upon the institution of either court, the mayor of Georgetown and the mayor of Mount Gilead retain jurisdiction in causes as described in section 1905.01 of the Revised Code. Those mayors shall exercise that jurisdiction concurrently with the municipal court. Upon the institution of a municipal court, all mayors of municipal corporations within the territory other than the municipal corporation in which the court is located may retain any jurisdiction that is now provided in all criminal causes involving violation of ordinances of their respective municipal corporations and in all criminal causes involving moving traffic violations occurring on state highways located within their respective municipal corporations, to be exercised concurrently with the municipal court.
+
+Upon the institution of a municipal court, the jurisdiction of county courts in all civil and criminal causes terminates in any township or municipal corporation that is entirely within the territory.
+
+Upon the institution of a municipal court, all causes, judgments, executions, and proceedings then pending in courts of mayors and county courts within the territory as to which their jurisdiction is terminated by this section shall proceed in the municipal court as if originally instituted in the municipal court. The parties may make any amendments to their pleadings that are required to conform to the rules of the municipal court.
+
+In all cases over which the municipal court is given jurisdiction and for which the jurisdiction of county courts and the courts of mayors is terminated by this section upon the institution of the municipal court, the pleadings, orders, entries, dockets, bonds, papers, records, books, exhibits, files, moneys, property, and persons that belong to, are in the possession of, or are subject to the jurisdiction of the courts of mayors or county courts or any officer of either court and that are in any municipal corporation or township which is entirely within the territory of a municipal court shall be transferred by their custodian to the municipal court. If a part of any township that was within the jurisdiction of a county court is included within the territory of a municipal court, all pleadings, orders, entries, dockets, bonds, papers, records, books, exhibits, files, moneys, property, and persons that belong to, are in the possession of, or are subject to the jurisdiction of the county court or any officer of the county court and that pertain to causes, judgments, executions, and proceedings then pending in the county court and arising from the court's jurisdiction in that part of the township within the territory of the municipal court shall be transferred by their custodian to the municipal court.
+
+The termination of a municipal court reinstates the jurisdiction of the mayor of the municipal corporation in which the terminated municipal court was located, if the jurisdiction of the mayor was terminated by this section.

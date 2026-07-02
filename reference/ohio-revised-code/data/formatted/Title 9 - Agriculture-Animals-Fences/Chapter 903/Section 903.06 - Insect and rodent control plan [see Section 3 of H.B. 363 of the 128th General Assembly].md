@@ -1,0 +1,18 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-903.06
+Scraped: 2026-07-02T19:34:14+00:00
+
+# Section 903.06 - Insect and rodent control plan [see Section 3 of H.B. 363 of the 128th General Assembly].
+
+**Effective:** December 22, 2009
+
+**Latest Legislation:** House Bill 363 - 128th General Assembly
+
+(A) As used in this section, "plan" means an insect and rodent control plan prepared under this section.
+
+(B) An owner or operator of a concentrated animal feeding facility shall prepare and submit to the director of agriculture in accordance with rules an insect and rodent control plan designed to minimize the presence and negative effects of insects and rodents at the concentrated animal feeding facility and in surrounding areas, including land on which manure is stored or applied. The plan shall conform to best management practices established in rules. The director shall approve or deny the plan within the time period established in rules by the director and may require modification of the plan at that time or a later time in accordance with rules.
+
+(C) On and after the date that is established in rules by the director, no person shall own or operate a concentrated animal feeding facility unless an insect and rodent control plan for the facility has been approved by the director. The owner or operator of a concentrated animal feeding facility shall not violate the facility's insect and rodent control plan.
+
+(D) The director shall enforce an insect and rodent control plan in accordance with rules and shall assess a civil penalty in accordance with rules and section 903.16 of the Revised Code against an owner or operator of a concentrated animal feeding facility who owns or operates it without a plan approved by the director or who violates the facility's plan.
+
+Last updated January 19, 2022 at 1:07 PM

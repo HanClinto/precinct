@@ -1,0 +1,14 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5120.162
+Scraped: 2026-07-02T20:10:44+00:00
+
+# Section 5120.162 - Transferring children in custody of youth services department to correctional medical center.
+
+**Effective:** November 13, 1992
+
+**Latest Legislation:** Senate Bill 331 - 119th General Assembly
+
+(A) The department of rehabilitation and correction may enter into an agreement with the department of youth services pursuant to which the department of youth services may transfer to a correctional medical center established by the department of rehabilitation and correction children who are within its custody, who have an illness, physical condition, or other medical problem, and who apparently would benefit from diagnosis or treatment at the center for that illness, condition, or problem. Notwithstanding the fact that portions of the center may be used for the benefit of children in the custody of the department of youth services, the center shall be considered a facility of the department of rehabilitation and correction and shall be controlled and operated in accordance with the agreement and the provisions of this section. A child who is in the custody of the department of youth services and who is transferred to the center shall be considered as remaining in the custody of the department of youth services during the period of his diagnosis, treatment, or housing for diagnosis or treatment in the center.
+
+During the development or renovation of a correctional medical center that is the subject of an agreement under this section, the department of rehabilitation and correction shall confer with the department of youth services to ensure that the center is planned and constructed or renovated to facilitate its use for the diagnosis or treatment of both prisoners in the custody of the department of rehabilitation and correction and children in the custody of the department of youth services who may be transferred to the center.
+
+(B) All children who are in the custody of the department of youth services and who are transferred to a correctional medical center pursuant to an agreement under this section shall be housed in areas of the center that are totally separate and removed by sight and sound from all prisoners who are in the custody of the department of rehabilitation and correction and who are being diagnosed, treated, or housed for diagnosis or treatment in the center or who otherwise are in the center. For purposes of this division, children who are being diagnosed, treated, or housed for diagnosis or treatment in a building or wing of a building in which no prisoners in the custody of the department of rehabilitation and correction are being diagnosed, treated, or housed for diagnosis or treatment or otherwise are present are being housed totally separate from any prisoners who are in the custody of the department of rehabilitation and correction.

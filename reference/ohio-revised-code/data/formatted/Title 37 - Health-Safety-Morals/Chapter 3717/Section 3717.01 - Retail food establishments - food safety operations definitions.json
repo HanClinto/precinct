@@ -1,0 +1,262 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Ohio uniform food safety code\" means the food safety and related standards adopted under section 3717.05 of the Revised Code.",
+      "id": "3717.01-ohio-uniform-food-safety-code",
+      "normalized": "ohio uniform food safety code",
+      "scope": "As used in this chapter:",
+      "section": "3717.01",
+      "source_title": "Section 3717.01 - Retail food establishments - food safety operations definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3717.01",
+      "term": "Ohio uniform food safety code"
+    },
+    {
+      "definition": "(B) \"Food\" means any raw, cooked, or processed edible substance used or intended for use in whole or in part for human consumption. \"Food\" includes ice, water or any other beverage, food ingredients, and chewing gum.",
+      "id": "3717.01-food",
+      "normalized": "food",
+      "scope": "As used in this chapter:",
+      "section": "3717.01",
+      "source_title": "Section 3717.01 - Retail food establishments - food safety operations definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3717.01",
+      "term": "Food"
+    },
+    {
+      "definition": "(C) \"Retail food establishment\" means a premises or part of a premises where food is stored, processed, prepared, manufactured, or otherwise held or handled for retail sale. Except when expressly provided otherwise, \"retail food establishment\" includes a mobile retail food establishment, seasonal retail food establishment, and temporary retail food establishment.\n\nAs used in this division:",
+      "id": "3717.01-retail-food-establishment",
+      "normalized": "retail food establishment",
+      "scope": "As used in this chapter:",
+      "section": "3717.01",
+      "source_title": "Section 3717.01 - Retail food establishments - food safety operations definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3717.01",
+      "term": "Retail food establishment"
+    },
+    {
+      "definition": "(1) \"Retail\" means the sale of food to a person who is the ultimate consumer.",
+      "id": "3717.01-retail",
+      "normalized": "retail",
+      "scope": "As used in this division:",
+      "section": "3717.01",
+      "source_title": "Section 3717.01 - Retail food establishments - food safety operations definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3717.01",
+      "term": "Retail"
+    },
+    {
+      "definition": "(2) \"Prepared\" means any action that affects a food, including receiving and maintaining it at the temperature at which it was received.",
+      "id": "3717.01-prepared",
+      "normalized": "prepared",
+      "scope": "As used in this division:",
+      "section": "3717.01",
+      "source_title": "Section 3717.01 - Retail food establishments - food safety operations definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3717.01",
+      "term": "Prepared"
+    },
+    {
+      "definition": "(D) \"Seasonal retail food establishment\" means a retail food establishment, other than a mobile retail food establishment, that is operated for not more than six months in a licensing period.",
+      "id": "3717.01-seasonal-retail-food-establishment",
+      "normalized": "seasonal retail food establishment",
+      "scope": "As used in this division:",
+      "section": "3717.01",
+      "source_title": "Section 3717.01 - Retail food establishments - food safety operations definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3717.01",
+      "term": "Seasonal retail food establishment"
+    },
+    {
+      "definition": "(E) \"Temporary retail food establishment\" means a retail food establishment that is operated at an event for not more than five consecutive days, except when operated for more than five consecutive days pursuant to division (E)(2) of section 3717.23 of the Revised Code.",
+      "id": "3717.01-temporary-retail-food-establishment",
+      "normalized": "temporary retail food establishment",
+      "scope": "As used in this division:",
+      "section": "3717.01",
+      "source_title": "Section 3717.01 - Retail food establishments - food safety operations definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3717.01",
+      "term": "Temporary retail food establishment"
+    },
+    {
+      "definition": "(F) \"Food service operation\" means a place, location, site, or separate area where food intended to be served in individual portions is prepared or served for a charge or required donation. As used in this division, \"served\" means a response made to an order for one or more individual portions of food in a form that is edible without washing, cooking, or additional preparation and \"prepared\" means any action that affects a food other than receiving or maintaining it at the temperature at which it was received.",
+      "id": "3717.01-food-service-operation",
+      "normalized": "food service operation",
+      "scope": "As used in this division:",
+      "section": "3717.01",
+      "source_title": "Section 3717.01 - Retail food establishments - food safety operations definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3717.01",
+      "term": "Food service operation"
+    },
+    {
+      "definition": "Except when expressly provided otherwise, \"food service operation\" includes a catering food service operation, food delivery sales operation, mobile food service operation, seasonal food service operation, temporary food service operation, and vending machine location.",
+      "id": "3717.01-food-service-operation",
+      "normalized": "food service operation",
+      "scope": "As used in this division:",
+      "section": "3717.01",
+      "source_title": "Section 3717.01 - Retail food establishments - food safety operations definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3717.01",
+      "term": "food service operation"
+    },
+    {
+      "definition": "(G) \"Catering food service operation\" means a food service operation where food is prepared for serving at a function or event held at an off-premises site, for a charge determined on a per-function or per-event basis.",
+      "id": "3717.01-catering-food-service-operation",
+      "normalized": "catering food service operation",
+      "scope": "As used in this division:",
+      "section": "3717.01",
+      "source_title": "Section 3717.01 - Retail food establishments - food safety operations definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3717.01",
+      "term": "Catering food service operation"
+    },
+    {
+      "definition": "(H) \"Food delivery sales operation\" means a food service operation from which individual portions of food are ordered by a customer, prepared at another food service operation or a retail food establishment, and delivered to the customer by a person other than an employee of the food service operation or retail food establishment that prepared the food.",
+      "id": "3717.01-food-delivery-sales-operation",
+      "normalized": "food delivery sales operation",
+      "scope": "As used in this division:",
+      "section": "3717.01",
+      "source_title": "Section 3717.01 - Retail food establishments - food safety operations definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3717.01",
+      "term": "Food delivery sales operation"
+    },
+    {
+      "definition": "(I) \"Mobile food service operation\" means a food service operation that is operated from a movable vehicle, portable structure, or watercraft and that routinely changes location, except that if the operation remains at any one location for more than forty consecutive days, the operation is no longer a mobile food service operation. \"Mobile food service operation\" includes a food service operation that does not remain at any one location for more than forty consecutive days and serves, in a manner consistent with division (F) of this section, only frozen desserts; beverages, nuts, popcorn, candy, or similar confections; bakery products identified in section 911.01 of the Revised Code; or any combination of those items.",
+      "id": "3717.01-mobile-food-service-operation",
+      "normalized": "mobile food service operation",
+      "scope": "As used in this division:",
+      "section": "3717.01",
+      "source_title": "Section 3717.01 - Retail food establishments - food safety operations definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3717.01",
+      "term": "Mobile food service operation"
+    },
+    {
+      "definition": "(J) \"Seasonal food service operation\" means a food service operation, other than a mobile food service operation, that is operated for not more than six months in a licensing period.",
+      "id": "3717.01-seasonal-food-service-operation",
+      "normalized": "seasonal food service operation",
+      "scope": "As used in this division:",
+      "section": "3717.01",
+      "source_title": "Section 3717.01 - Retail food establishments - food safety operations definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3717.01",
+      "term": "Seasonal food service operation"
+    },
+    {
+      "definition": "(K) \"Temporary food service operation\" means a food service operation that is operated at an event for not more than five consecutive days, except when operated for more than five consecutive days pursuant to division (E)(2) of section 3717.43 of the Revised Code.",
+      "id": "3717.01-temporary-food-service-operation",
+      "normalized": "temporary food service operation",
+      "scope": "As used in this division:",
+      "section": "3717.01",
+      "source_title": "Section 3717.01 - Retail food establishments - food safety operations definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3717.01",
+      "term": "Temporary food service operation"
+    },
+    {
+      "definition": "(L) \"Vending machine location\" means an area or room where one or more vending machines are installed and operated, except that if the machines within an area are separated by more than one hundred fifty feet, each area separated by that distance constitutes a separate vending machine location. As used in this division, \"vending machine\" means a self-service device that automatically dispenses on the insertion of currency, tokens, or similar means a predetermined unit serving of food, either in bulk or in package, without having to be replenished after each use.",
+      "id": "3717.01-vending-machine-location",
+      "normalized": "vending machine location",
+      "scope": "As used in this division:",
+      "section": "3717.01",
+      "source_title": "Section 3717.01 - Retail food establishments - food safety operations definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3717.01",
+      "term": "Vending machine location"
+    },
+    {
+      "definition": "(M) \"Board of health\" means a board of health of a city or general health district or the authority having the duties of a board of health under section 3709.05 of the Revised Code.",
+      "id": "3717.01-board-of-health",
+      "normalized": "board of health",
+      "scope": "As used in this division:",
+      "section": "3717.01",
+      "source_title": "Section 3717.01 - Retail food establishments - food safety operations definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3717.01",
+      "term": "Board of health"
+    },
+    {
+      "definition": "(N) \"Government entity\" means this state, a political subdivision of this state, another state, or a political subdivision or other local government body of another state.",
+      "id": "3717.01-government-entity",
+      "normalized": "government entity",
+      "scope": "As used in this division:",
+      "section": "3717.01",
+      "source_title": "Section 3717.01 - Retail food establishments - food safety operations definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3717.01",
+      "term": "Government entity"
+    },
+    {
+      "definition": "(O) \"Licensor\" means one of the following:\n\n(1) A board of health approved under section 3717.11 of the Revised Code;\n\n(2) The director of agriculture acting pursuant to section 3717.11 of the Revised Code with respect to the licensing of retail food establishments;\n\n(3) The director of health acting pursuant to section 3717.11 of the Revised Code with respect to the licensing of food service operations.",
+      "id": "3717.01-licensor",
+      "normalized": "licensor",
+      "scope": "As used in this division:",
+      "section": "3717.01",
+      "source_title": "Section 3717.01 - Retail food establishments - food safety operations definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3717.01",
+      "term": "Licensor"
+    },
+    {
+      "definition": "(P) \"Licensing period\" means the first day of March to the last day of February of the next succeeding year.",
+      "id": "3717.01-licensing-period",
+      "normalized": "licensing period",
+      "scope": "As used in this division:",
+      "section": "3717.01",
+      "source_title": "Section 3717.01 - Retail food establishments - food safety operations definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3717.01",
+      "term": "Licensing period"
+    },
+    {
+      "definition": "(Q) \"Mobile retail food establishment\" means a retail food establishment that is operated from a movable vehicle or other portable structure, and that routinely changes location, except that if the establishment operates from any one location for more than forty consecutive days, the establishment is no longer a mobile retail food establishment.\n\n(R) \"Unprocessed,\" when used with respect to fruits and vegetables, means that the fruits and vegetables are not processed beyond merely rough trimming and rinsing.",
+      "id": "3717.01-mobile-retail-food-establishment",
+      "normalized": "mobile retail food establishment",
+      "scope": "As used in this division:",
+      "section": "3717.01",
+      "source_title": "Section 3717.01 - Retail food establishments - food safety operations definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3717.01",
+      "term": "Mobile retail food establishment"
+    },
+    {
+      "definition": "(S) \"Cottage food production operation\" has the same meaning as in division (A)(19) of section 3715.01 of the Revised Code.",
+      "id": "3717.01-cottage-food-production-operation",
+      "normalized": "cottage food production operation",
+      "scope": "As used in this division:",
+      "section": "3717.01",
+      "source_title": "Section 3717.01 - Retail food establishments - food safety operations definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3717.01",
+      "term": "Cottage food production operation"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3717.05",
+      "number": "3717.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3717.05"
+    },
+    {
+      "kind": "section",
+      "label": "3717.23",
+      "number": "3717.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3717.23"
+    },
+    {
+      "kind": "section",
+      "label": "911.01",
+      "number": "911.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-911.01"
+    },
+    {
+      "kind": "section",
+      "label": "3717.43",
+      "number": "3717.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3717.43"
+    },
+    {
+      "kind": "section",
+      "label": "3709.05",
+      "number": "3709.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3709.05"
+    },
+    {
+      "kind": "section",
+      "label": "3717.11",
+      "number": "3717.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3717.11"
+    },
+    {
+      "kind": "section",
+      "label": "3715.01",
+      "number": "3715.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.01"
+    }
+  ],
+  "scraped": "2026-07-02T19:51:28+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3717.01",
+  "title": "Section 3717.01 - Retail food establishments - food safety operations definitions."
+}

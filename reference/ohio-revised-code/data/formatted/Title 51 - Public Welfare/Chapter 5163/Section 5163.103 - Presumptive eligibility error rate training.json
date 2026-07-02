@@ -1,0 +1,58 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Presumptive eligibility error rate\" means the rate at which a qualified entity or qualified provider deems an individual presumptively eligible for medicaid under sections 5163.10 to 5163.102 of the Revised Code when the individual is ineligible for the medicaid program.",
+      "id": "5163.103-presumptive-eligibility-error-rate",
+      "normalized": "presumptive eligibility error rate",
+      "scope": "(A) As used in this section:",
+      "section": "5163.103",
+      "source_title": "Section 5163.103 - Presumptive eligibility error rate training.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5163.103",
+      "term": "Presumptive eligibility error rate"
+    },
+    {
+      "definition": "(2) \"Qualified entity\" has the same meaning as in section 5163.101 of the Revised Code.",
+      "id": "5163.103-qualified-entity",
+      "normalized": "qualified entity",
+      "scope": "(A) As used in this section:",
+      "section": "5163.103",
+      "source_title": "Section 5163.103 - Presumptive eligibility error rate training.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5163.103",
+      "term": "Qualified entity"
+    },
+    {
+      "definition": "(3) \"Qualified provider\" has the same meaning as in section 5163.10 of the Revised Code.\n\n(B) Notwithstanding sections 5163.10 to 5163.102 of the Revised Code, the department of medicaid shall require each qualified entity or qualified provider that has a presumptive eligibility error rate exceeding seven and one-half per cent in a calendar month to do both of the following:\n\n(1) Submit to the department for approval a corrective action plan specifying the steps the qualified entity or qualified provider will take to reduce its presumptive eligibility error rate, including details about the training required under division (B)(2) of this section;\n\n(2) Provide training for all of its staff who make presumptive eligibility determinations to ensure their thorough knowledge of presumptive eligibility prescreening procedures. The training shall occur for each month the qualified entity or qualified provider's presumptive eligibility error rate exceeds seven and one-half per cent.\n\nLast updated October 12, 2023 at 11:40 AM",
+      "id": "5163.103-qualified-provider",
+      "normalized": "qualified provider",
+      "scope": "(A) As used in this section:",
+      "section": "5163.103",
+      "source_title": "Section 5163.103 - Presumptive eligibility error rate training.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5163.103",
+      "term": "Qualified provider"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "5163.10",
+      "number": "5163.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5163.10"
+    },
+    {
+      "kind": "section",
+      "label": "5163.102",
+      "number": "5163.102",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5163.102"
+    },
+    {
+      "kind": "section",
+      "label": "5163.101",
+      "number": "5163.101",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5163.101"
+    }
+  ],
+  "scraped": "2026-07-02T20:11:23+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5163.103",
+  "title": "Section 5163.103 - Presumptive eligibility error rate training."
+}

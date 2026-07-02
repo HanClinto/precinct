@@ -1,0 +1,10 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-131.22
+Scraped: 2026-07-02T19:31:48+00:00
+
+# Section 131.22 - Transfer of powers from board of trustees of the sinking fund to treasurer.
+
+**Effective:** October 1, 1953
+
+**Latest Legislation:** House Bill 1 - 100th General Assembly
+
+The board of trustees of the sinking fund of any county or municipal corporation or the board of commissioners of the sinking fund of any school district shall continue to exercise the powers provided in sections 327.01 to 327.08 , inclusive, 739.04 to 739.11 , inclusive, and 3315.02 to 3315.05 , inclusive, of the Revised Code, and provided in all other laws relating to its powers, until all outstanding bonds of such county, municipal corporation, or school district issued previous to January 1, 1922, to be retired by means of a sinking fund, are paid. It shall then be abolished and its functions and powers relating to the purchase and sale of securities; receipt, deposit, and investment of taxes, assessments, and other funds raised for the payment of bonds and funded debts; the application of such funds to the payment of bonds and other indebtedness; and all its other powers and functions as set forth in such laws shall be transferred to the treasurer of the county, municipal corporation, or school district, and all moneys, securities, and other assets then in the custody and possession of such board shall be transferred and delivered to such treasurer. Thereafter all said moneys, securities and assets, all moneys received by the county, municipal corporation, or school district for the payment of the interest and principal of its bonds or other funded debts, all inheritance taxes, and all other taxes and revenues which were theretofore payable into its sinking fund shall be paid to its treasurer and placed and held by him in a separate fund to be known as the "bond payment fund." Said fund shall be applied by such treasurer to the purposes for which the sinking fund had theretofore been applicable, subject to the law relating to transfer to other funds.

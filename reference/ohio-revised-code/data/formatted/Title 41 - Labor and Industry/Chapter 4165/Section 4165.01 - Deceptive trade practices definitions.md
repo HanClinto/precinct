@@ -1,0 +1,32 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4165.01
+Scraped: 2026-07-02T20:04:41+00:00
+
+# Section 4165.01 - Deceptive trade practices definitions.
+
+**Effective:** March 30, 1999
+
+**Latest Legislation:** Senate Bill 173 - 122nd General Assembly
+
+As used in this chapter, unless the context otherwise requires:
+
+(A) "Certification mark" means a mark used in connection with the goods or services of a person other than the certifier to indicate geographic origin, material, mode of manufacture, quality, accuracy, or other characteristics of the goods or services or to indicate that the work or labor on the goods or services was performed by members of a union or other organization.
+
+(B) "Collective mark" means a mark used by members of a cooperative, association, or other collective group or organization to identify goods or services and distinguish them from those of others, or to indicate membership in the collective group or organization.
+
+(C) "Mark" means a word, name, symbol, device, or combination of a word, name, symbol, or device in any form or arrangement.
+
+(D) "Person" means an individual, corporation, government, governmental subdivision or agency, business trust, estate, trust, partnership, unincorporated association, limited liability company, two or more of any of the foregoing having a joint or common interest, or any other legal or commercial entity.
+
+(E) "Service mark" means a mark used by a person to identify services and to distinguish them from the services of others.
+
+(F) "Trademark" means a mark used by a person to identify goods and to distinguish them from the goods of others.
+
+(G) "Trade name" means a word, name, symbol, device, or combination of a word, name, symbol, or device in any form or arrangement used by a person to identify the person's business, vocation, or occupation and distinguish it from the business, vocation, or occupation of others.
+
+(H) "Directory assistance" means the disclosure by an operator or an automated service, upon request by an individual and that individual's identification of a telephone service subscriber in some manner, of telephone number information pertaining to the identified telephone service subscriber.
+
+(I) "Local telephone directory" means a telephone classified advertising directory, or the business section of a telephone directory, that is distributed by a telephone company or a directory publisher to subscribers who are located in one or more local exchanges covered by the directory. "Local telephone directory" includes a telephone classified advertising directory, or the business section of a telephone directory, that includes listings of more than one telephone company.
+
+(J) "Local telephone number" means a telephone number that has a three-number prefix that is used by a telephone company in connection with telephones that are physically located within an area covered by a local telephone directory in which the telephone number is listed. "Local telephone number" does not include long distance telephone numbers that are listed as long distance telephone numbers in a local telephone directory, or 800-, 888-, or 900- telephone numbers that are listed in a local telephone directory.
+
+(K) "Telephone company" has the same meaning as in section 4905.402 of the Revised Code.

@@ -1,0 +1,64 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-6101.47
+Scraped: 2026-07-02T20:17:05+00:00
+
+# Section 6101.47 - Conservancy district charitable and social welfare trusts.
+
+**Effective:** April 3, 2025
+
+**Latest Legislation:** House Bill 315 - 135th General Assembly
+
+(A) As used in this section and section 6101.44 of the Revised Code:
+
+(1) "Charitable trust" means any entity that meets all of the following:
+
+(a) It is exempt from federal income taxation under section 501(c)(3) of the Internal Revenue Code.
+
+(b) At least in part, it benefits a conservancy district that includes all or parts of more than sixteen counties.
+
+(c) At least in part, its purposes are consistent with the purposes of a conservancy district that includes all or parts of more than sixteen counties.
+
+(2) "Financial support" means the provision of funds from a conservancy district that includes all or parts of more than sixteen counties to a charitable trust, social welfare trust, or both, for the purposes of preserving, investing, and using such funds for the benefit of the district and the purposes for which the district was created.
+
+(3) "Social welfare trust" means any entity that meets all of the following:
+
+(a) It is exempt from federal income taxation under section 501(c)(4) of the Internal Revenue Code.
+
+(b) At least in part, it benefits a conservancy district that includes all or parts of more than sixteen counties.
+
+(c) At least in part, its purposes are consistent with the purposes of a conservancy district that includes all or parts of more than sixteen counties.
+
+(B)(1) In order to facilitate the future preservation of a conservancy district's lands and improvements and to accomplish the purposes of the district, the board of directors of a conservancy district that includes all or parts of more than sixteen counties may establish a charitable trust, a social welfare trust, or both, to benefit the conservancy district and the purposes for which the district was created, in perpetuity.
+
+(2) A conservancy district that includes all or parts of more than sixteen counties may provide financial support to any charitable trust or social welfare trust in accordance with division (D) of section 6101.44 of the Revised Code. Division (B)(2) of this section does not limit the authority of a conservancy district to appropriate, transfer, and spend funds to carry out the purposes of this chapter.
+
+(C) The instrument creating any charitable trust or social welfare trust under division (B)(1) of this section, or the documents evidencing the payment and receipt of financial support under division (B)(2) of this section, shall do all of the following:
+
+(1) Require, except as otherwise provided in this section, that the trustee:
+
+(a) Act in accordance with any applicable trust documents and grant or donation restrictions imposed by the conservancy district;
+
+(b) Act in accordance with sections 1715.51 to 1715.59 of the Revised Code;
+
+(c) Qualify as an institution as defined in section 1715.51 of the Revised Code.
+
+(2) Prohibit invasion of the principal amount granted to the charitable trust or social welfare trust by the district;
+
+(3) Require that the trustee administer the financial support amounts held in trust, including by holding, investing, and reinvesting principal, collecting income from investments, and, after deducting the costs of administering the trust and any applicable trustee compensation, using the net income solely for the benefit of the district;
+
+(4) Require that the trustee at all times keep and make available to the district accurate books and records of all funds, sub-funds, accounts, and sub-accounts into which any financial support received and any investment earnings on any financial support is held;
+
+(5) Specify the conditions, if any, under which the charitable trust or social welfare trust is revocable and require that upon revocation the principal portion of any financial support received from a conservancy district must revert to the district;
+
+(6) Include any other provision that the board of directors of a conservancy district that includes all or parts of more than sixteen counties determines to be necessary or advisable, if any.
+
+(D) A charitable trust or social welfare trust established under this section or receiving money from a conservancy district that includes all or parts of more than sixteen counties in accordance with this section is not considered any of the following:
+
+(1) A subdivision under sections 135.01 to 135.21 of the Revised Code;
+
+(2) A public office under Chapter 149. of the Revised Code;
+
+(3) A charitable trust under sections 109.23 to 109.33 or Chapter 1719. of the Revised Code.
+
+(E) No money in a charitable trust or social welfare trust established under this section and no money received by a charitable or social welfare trust from a conservancy district that includes all or parts of more than sixteen counties under this section and section 6101.44 of the Revised Code shall be considered public moneys under sections 135.01 to 135.21 of the Revised Code.
+
+Last updated February 21, 2025 at 12:00 PM

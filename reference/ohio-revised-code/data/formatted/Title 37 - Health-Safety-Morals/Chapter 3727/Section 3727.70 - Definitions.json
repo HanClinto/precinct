@@ -1,0 +1,160 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Admission\" means a patient's admission to a hospital on an inpatient basis by a health care professional specified in division (B)(1) of section 3727.06 of the Revised Code.",
+      "id": "3727.70-admission",
+      "normalized": "admission",
+      "scope": "As used in this section and sections 3727.71 to 3727.79 of the Revised Code:",
+      "section": "3727.70",
+      "source_title": "Section 3727.70 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3727.70",
+      "term": "Admission"
+    },
+    {
+      "definition": "(B) \"After-care\" means assistance provided by a lay caregiver to a patient in the patient's residence after the patient's discharge and includes only the caregiving needs of the patient at the time of discharge.",
+      "id": "3727.70-after-care",
+      "normalized": "after-care",
+      "scope": "As used in this section and sections 3727.71 to 3727.79 of the Revised Code:",
+      "section": "3727.70",
+      "source_title": "Section 3727.70 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3727.70",
+      "term": "After-care"
+    },
+    {
+      "definition": "(C) \"Discharge\" means the discharge or release of a patient who has been admitted to a hospital on an inpatient basis from the hospital directly to the patient's residence. \" Discharge\" does not include the transfer of a patient to another facility or setting.",
+      "id": "3727.70-discharge",
+      "normalized": "discharge",
+      "scope": "As used in this section and sections 3727.71 to 3727.79 of the Revised Code:",
+      "section": "3727.70",
+      "source_title": "Section 3727.70 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3727.70",
+      "term": "Discharge"
+    },
+    {
+      "definition": "(D) \"Discharging health care professional\" means a health care professional who is authorized by division (B)(1) of section 3727.06 of the Revised Code to admit a patient to a hospital and who has assumed responsibility for directing the creation of the patient's discharge plan under section 3727.75 of the Revised Code.",
+      "id": "3727.70-discharging-health-care-professional",
+      "normalized": "discharging health care professional",
+      "scope": "As used in this section and sections 3727.71 to 3727.79 of the Revised Code:",
+      "section": "3727.70",
+      "source_title": "Section 3727.70 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3727.70",
+      "term": "Discharging health care professional"
+    },
+    {
+      "definition": "(E) \"Guardian\" has the same meaning as in section 2133.01 of the Revised Code.",
+      "id": "3727.70-guardian",
+      "normalized": "guardian",
+      "scope": "As used in this section and sections 3727.71 to 3727.79 of the Revised Code:",
+      "section": "3727.70",
+      "source_title": "Section 3727.70 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3727.70",
+      "term": "Guardian"
+    },
+    {
+      "definition": "(F) \"Lay caregiver\" means an adult designated under section 3727.71 of the Revised Code to provide after-care to a patient.",
+      "id": "3727.70-lay-caregiver",
+      "normalized": "lay caregiver",
+      "scope": "As used in this section and sections 3727.71 to 3727.79 of the Revised Code:",
+      "section": "3727.70",
+      "source_title": "Section 3727.70 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3727.70",
+      "term": "Lay caregiver"
+    },
+    {
+      "definition": "(G) \"Lay caregiver designation\" means the designation of a lay caregiver for a patient as described in section 3727.71 of the Revised Code.",
+      "id": "3727.70-lay-caregiver-designation",
+      "normalized": "lay caregiver designation",
+      "scope": "As used in this section and sections 3727.71 to 3727.79 of the Revised Code:",
+      "section": "3727.70",
+      "source_title": "Section 3727.70 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3727.70",
+      "term": "Lay caregiver designation"
+    },
+    {
+      "definition": "(H)(1) \"Patient's residence\" means either of the following:\n\n(a) The dwelling that a patient or the patient's guardian considers to be the patient's home;\n\n(b) The dwelling of a relative or other individual who has agreed to temporarily house the patient following discharge and who has communicated this fact to hospital staff.",
+      "id": "3727.70-patient-s-residence",
+      "normalized": "patient's residence",
+      "scope": "As used in this section and sections 3727.71 to 3727.79 of the Revised Code:",
+      "section": "3727.70",
+      "source_title": "Section 3727.70 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3727.70",
+      "term": "Patient's residence"
+    },
+    {
+      "definition": "(2) \"Patient's residence\" does not include any of the following:\n\n(a) A hospital;\n\n(b) A nursing home, residential care facility, county h ome, or district home, as defined in section 3721.01 of the Revised Code;\n\n(c) A veterans' home operated under Chapter 5907. of the Revised Code;\n\n(d) A residential facility, as defined in section 5119.34 of the Revised Code;\n\n(e) A residential facility, as defined in section 5123.19 of the Revised Code;\n\n(f) A hospice care program, as defined in section 3712.01 of the Revised Code;\n\n(g) A freestanding inpatient rehabilitation facility licensed under section 3702.30 of the Revised Code;\n\n(h) Another facility similar to one specified in this division.\n\nLast updated September 21, 2023 at 12:00 PM",
+      "id": "3727.70-patient-s-residence",
+      "normalized": "patient's residence",
+      "scope": "As used in this section and sections 3727.71 to 3727.79 of the Revised Code:",
+      "section": "3727.70",
+      "source_title": "Section 3727.70 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3727.70",
+      "term": "Patient's residence"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3727.71",
+      "number": "3727.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3727.71"
+    },
+    {
+      "kind": "section",
+      "label": "3727.79",
+      "number": "3727.79",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3727.79"
+    },
+    {
+      "kind": "section",
+      "label": "3727.06",
+      "number": "3727.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3727.06"
+    },
+    {
+      "kind": "section",
+      "label": "3727.75",
+      "number": "3727.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3727.75"
+    },
+    {
+      "kind": "section",
+      "label": "2133.01",
+      "number": "2133.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2133.01"
+    },
+    {
+      "kind": "section",
+      "label": "3721.01",
+      "number": "3721.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.01"
+    },
+    {
+      "kind": "section",
+      "label": "5119.34",
+      "number": "5119.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.34"
+    },
+    {
+      "kind": "section",
+      "label": "5123.19",
+      "number": "5123.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5123.19"
+    },
+    {
+      "kind": "section",
+      "label": "3712.01",
+      "number": "3712.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3712.01"
+    },
+    {
+      "kind": "section",
+      "label": "3702.30",
+      "number": "3702.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.30"
+    }
+  ],
+  "scraped": "2026-07-02T19:51:49+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3727.70",
+  "title": "Section 3727.70 - Definitions."
+}

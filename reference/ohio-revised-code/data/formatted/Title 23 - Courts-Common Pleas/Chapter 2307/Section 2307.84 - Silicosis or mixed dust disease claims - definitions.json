@@ -1,0 +1,394 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"AMA guides to the evaluation of permanent impairment\" means the American medical association's guides to the evaluation of permanent impairment (fifth edition 2000) as may be modified by the American medical association.",
+      "id": "2307.84-ama-guides-to-the-evaluation-of-permanent-impairment",
+      "normalized": "ama guides to the evaluation of permanent impairment",
+      "scope": "As used in sections 2307.84 to 2307.90 and 2307.901 of the Revised Code:",
+      "section": "2307.84",
+      "source_title": "Section 2307.84 - Silicosis or mixed dust disease claims - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2307.84",
+      "term": "AMA guides to the evaluation of permanent impairment"
+    },
+    {
+      "definition": "(B) \"Board-certified internist\" means a medical doctor who is currently certified by the American board of internal medicine.",
+      "id": "2307.84-board-certified-internist",
+      "normalized": "board-certified internist",
+      "scope": "As used in sections 2307.84 to 2307.90 and 2307.901 of the Revised Code:",
+      "section": "2307.84",
+      "source_title": "Section 2307.84 - Silicosis or mixed dust disease claims - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2307.84",
+      "term": "Board-certified internist"
+    },
+    {
+      "definition": "(C) \"Board-certified occupational medicine specialist\" means a medical doctor who is currently certified by the American board of preventive medicine in the specialty of occupational medicine.",
+      "id": "2307.84-board-certified-occupational-medicine-specialist",
+      "normalized": "board-certified occupational medicine specialist",
+      "scope": "As used in sections 2307.84 to 2307.90 and 2307.901 of the Revised Code:",
+      "section": "2307.84",
+      "source_title": "Section 2307.84 - Silicosis or mixed dust disease claims - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2307.84",
+      "term": "Board-certified occupational medicine specialist"
+    },
+    {
+      "definition": "(D) \"Board-certified oncologist\" means a medical doctor who is currently certified by the American board of internal medicine in the subspecialty of medical oncology.",
+      "id": "2307.84-board-certified-oncologist",
+      "normalized": "board-certified oncologist",
+      "scope": "As used in sections 2307.84 to 2307.90 and 2307.901 of the Revised Code:",
+      "section": "2307.84",
+      "source_title": "Section 2307.84 - Silicosis or mixed dust disease claims - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2307.84",
+      "term": "Board-certified oncologist"
+    },
+    {
+      "definition": "(E) \"Board-certified pathologist\" means a medical doctor who is currently certified by the American board of pathology.",
+      "id": "2307.84-board-certified-pathologist",
+      "normalized": "board-certified pathologist",
+      "scope": "As used in sections 2307.84 to 2307.90 and 2307.901 of the Revised Code:",
+      "section": "2307.84",
+      "source_title": "Section 2307.84 - Silicosis or mixed dust disease claims - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2307.84",
+      "term": "Board-certified pathologist"
+    },
+    {
+      "definition": "(F) \"Board-certified pulmonary specialist\" means a medical doctor who is currently certified by the American board of internal medicine in the subspecialty of pulmonary medicine.",
+      "id": "2307.84-board-certified-pulmonary-specialist",
+      "normalized": "board-certified pulmonary specialist",
+      "scope": "As used in sections 2307.84 to 2307.90 and 2307.901 of the Revised Code:",
+      "section": "2307.84",
+      "source_title": "Section 2307.84 - Silicosis or mixed dust disease claims - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2307.84",
+      "term": "Board-certified pulmonary specialist"
+    },
+    {
+      "definition": "(G) \"Certified B-reader\" means an individual qualified as a \"final\" or \"B-reader\" as defined in 42 C.F.R. section 37.51 (b), as amended.",
+      "id": "2307.84-certified-b-reader",
+      "normalized": "certified b-reader",
+      "scope": "As used in sections 2307.84 to 2307.90 and 2307.901 of the Revised Code:",
+      "section": "2307.84",
+      "source_title": "Section 2307.84 - Silicosis or mixed dust disease claims - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2307.84",
+      "term": "Certified B-reader"
+    },
+    {
+      "definition": "(H) \"Civil action\" means all suits or claims of a civil nature in a state or federal court, whether cognizable as cases at law or in equity or admiralty. \"Civil action\" does not include any of the following:\n\n(1) A civil action relating to any workers' compensation law;\n\n(2) A civil action alleging any claim or demand made against a trust established pursuant to 11 U.S.C. section 524(g);\n\n(3) A civil action alleging any claim or demand made against a trust established pursuant to a plan of reorganization confirmed under Chapter 11 of the United States Bankruptcy Code, 11 U.S.C. Chapter 11.",
+      "id": "2307.84-civil-action",
+      "normalized": "civil action",
+      "scope": "As used in sections 2307.84 to 2307.90 and 2307.901 of the Revised Code:",
+      "section": "2307.84",
+      "source_title": "Section 2307.84 - Silicosis or mixed dust disease claims - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2307.84",
+      "term": "Civil action"
+    },
+    {
+      "definition": "(I) \"Competent medical authority\" means a medical doctor who is providing a diagnosis for purposes of constituting prima-facie evidence of an exposed person's physical impairment that meets the requirements specified in section 2307.85 or 2307.86 of the Revised Code, whichever is applicable, and who meets the following requirements:\n\n(1) The medical doctor is a board-certified internist, pulmonary specialist, oncologist, pathologist, or occupational medicine specialist.\n\n(2) The medical doctor is actually treating or has treated the exposed person and has or had a doctor-patient relationship with the person.\n\n(3) As the basis for the diagnosis, the medical doctor has not relied, in whole or in part, on any of the following:\n\n(a) The reports or opinions of any doctor, clinic, laboratory, or testing company that performed an examination, test, or screening of the claimant's medical condition in violation of any law, regulation, licensing requirement, or medical code of practice of the state in which that examination, test, or screening was conducted;\n\n(b) The reports or opinions of any doctor, clinic, laboratory, or testing company that performed an examination, test, or screening of the claimant's medical condition that was conducted without clearly establishing a doctor-patient relationship with the claimant or medical personnel involved in the examination, test, or screening process;\n\n(c) The reports or opinions of any doctor, clinic, laboratory, or testing company that performed an examination, test, or screening of the claimant's medical condition that required the claimant to agree to retain the legal services of the law firm sponsoring the examination, test, or screening.\n\n(4) The medical doctor spends not more than twenty-five per cent of the medical doctor's professional practice time in providing consulting or expert services in connection with actual or potential tort actions, and the medical doctor's medical group, professional corporation, clinic, or other affiliated group earns not more than twenty per cent of its revenues from providing those services.",
+      "id": "2307.84-competent-medical-authority",
+      "normalized": "competent medical authority",
+      "scope": "As used in sections 2307.84 to 2307.90 and 2307.901 of the Revised Code:",
+      "section": "2307.84",
+      "source_title": "Section 2307.84 - Silicosis or mixed dust disease claims - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2307.84",
+      "term": "Competent medical authority"
+    },
+    {
+      "definition": "(J) \"Exposed person\" means either of the following, whichever is applicable:\n\n(1) A person whose exposure to silica is the basis for a silicosis claim under section 2307.85 of the Revised Code;\n\n(2) A person whose exposure to mixed dust is the basis for a mixed dust disease claim under section 2307.86 of the Revised Code.",
+      "id": "2307.84-exposed-person",
+      "normalized": "exposed person",
+      "scope": "As used in sections 2307.84 to 2307.90 and 2307.901 of the Revised Code:",
+      "section": "2307.84",
+      "source_title": "Section 2307.84 - Silicosis or mixed dust disease claims - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2307.84",
+      "term": "Exposed person"
+    },
+    {
+      "definition": "(K) \"ILO scale\" means the system for the classification of chest x-rays set forth in the international labour office's guidelines for the use of ILO international classification of radiographs of pneumoconioses (2000), as amended.",
+      "id": "2307.84-ilo-scale",
+      "normalized": "ilo scale",
+      "scope": "As used in sections 2307.84 to 2307.90 and 2307.901 of the Revised Code:",
+      "section": "2307.84",
+      "source_title": "Section 2307.84 - Silicosis or mixed dust disease claims - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2307.84",
+      "term": "ILO scale"
+    },
+    {
+      "definition": "(L) \"Lung cancer\" means a malignant tumor in which the primary site of origin of the cancer is inside the lungs.",
+      "id": "2307.84-lung-cancer",
+      "normalized": "lung cancer",
+      "scope": "As used in sections 2307.84 to 2307.90 and 2307.901 of the Revised Code:",
+      "section": "2307.84",
+      "source_title": "Section 2307.84 - Silicosis or mixed dust disease claims - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2307.84",
+      "term": "Lung cancer"
+    },
+    {
+      "definition": "(M) \"Mixed dust\" means a mixture of dusts composed of silica and one or more other fibrogenic dusts capable of inducing pulmonary fibrosis if inhaled in sufficient quantity.",
+      "id": "2307.84-mixed-dust",
+      "normalized": "mixed dust",
+      "scope": "As used in sections 2307.84 to 2307.90 and 2307.901 of the Revised Code:",
+      "section": "2307.84",
+      "source_title": "Section 2307.84 - Silicosis or mixed dust disease claims - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2307.84",
+      "term": "Mixed dust"
+    },
+    {
+      "definition": "(N) \"Mixed dust disease claim\" means any claim for damages, losses, indemnification, contribution, or other relief arising out of, based on, or in any way related to inhalation of, exposure to, or contact with mixed dust. \"Mixed dust disease claim\" includes a claim made by or on behalf of any person who has been exposed to mixed dust, or any representative, spouse, parent, child, or other relative of that person, for injury, including mental or emotional injury, death, or loss to person, risk of disease or other injury, costs of medical monitoring or surveillance, or any other effects on the person's health that are caused by the person's exposure to mixed dust.",
+      "id": "2307.84-mixed-dust-disease-claim",
+      "normalized": "mixed dust disease claim",
+      "scope": "As used in sections 2307.84 to 2307.90 and 2307.901 of the Revised Code:",
+      "section": "2307.84",
+      "source_title": "Section 2307.84 - Silicosis or mixed dust disease claims - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2307.84",
+      "term": "Mixed dust disease claim"
+    },
+    {
+      "definition": "(O) \"Mixed dust pneumoconiosis\" means the interstitial lung disease caused by the pulmonary response to inhaled mixed dusts.",
+      "id": "2307.84-mixed-dust-pneumoconiosis",
+      "normalized": "mixed dust pneumoconiosis",
+      "scope": "As used in sections 2307.84 to 2307.90 and 2307.901 of the Revised Code:",
+      "section": "2307.84",
+      "source_title": "Section 2307.84 - Silicosis or mixed dust disease claims - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2307.84",
+      "term": "Mixed dust pneumoconiosis"
+    },
+    {
+      "definition": "(P) \"Nonmalignant condition\" means a condition, other than a diagnosed cancer, that is caused or may be caused by either of the following, whichever is applicable:\n\n(1) Silica, as provided in section 2307.85 of the Revised Code;\n\n(2) Mixed dust, as provided in section 2307.86 of the Revised Code.",
+      "id": "2307.84-nonmalignant-condition",
+      "normalized": "nonmalignant condition",
+      "scope": "As used in sections 2307.84 to 2307.90 and 2307.901 of the Revised Code:",
+      "section": "2307.84",
+      "source_title": "Section 2307.84 - Silicosis or mixed dust disease claims - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2307.84",
+      "term": "Nonmalignant condition"
+    },
+    {
+      "definition": "(Q) \"Pathological evidence of mixed dust pneumoconiosis\" means a statement by a board-certified pathologist that more than one representative section of lung tissue uninvolved with any other disease process demonstrates a pattern of peribronchiolar and parenchymal stellate (star-shaped) nodular scarring and that there is no other more likely explanation for the presence of the fibrosis.",
+      "id": "2307.84-pathological-evidence-of-mixed-dust-pneumoconiosis",
+      "normalized": "pathological evidence of mixed dust pneumoconiosis",
+      "scope": "As used in sections 2307.84 to 2307.90 and 2307.901 of the Revised Code:",
+      "section": "2307.84",
+      "source_title": "Section 2307.84 - Silicosis or mixed dust disease claims - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2307.84",
+      "term": "Pathological evidence of mixed dust pneumoconiosis"
+    },
+    {
+      "definition": "(R) \"Pathological evidence of silicosis\" means a statement by a board-certified pathologist that more than one representative section of lung tissue uninvolved with any other disease process demonstrates a pattern of round silica nodules and birefringent crystals or other demonstration of crystal structures consistent with silica (well-organized concentric whorls of collagen surrounded by inflammatory cells) in the lung parenchyma and that there is no other more likely explanation for the presence of the fibrosis.",
+      "id": "2307.84-pathological-evidence-of-silicosis",
+      "normalized": "pathological evidence of silicosis",
+      "scope": "As used in sections 2307.84 to 2307.90 and 2307.901 of the Revised Code:",
+      "section": "2307.84",
+      "source_title": "Section 2307.84 - Silicosis or mixed dust disease claims - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2307.84",
+      "term": "Pathological evidence of silicosis"
+    },
+    {
+      "definition": "(S) \"Physical impairment\" means any of the following, whichever is applicable:\n\n(1) A nonmalignant condition that meets the minimum requirements of division (B) of section 2307.85 of the Revised Code or lung cancer of an exposed person who is a smoker that meets the minimum requirements of division (C) of section 2307.85 of the Revised Code;\n\n(2) A nonmalignant condition that meets the minimum requirements of division (B) of section 2307.86 of the Revised Code or lung cancer of an exposed person who is a smoker that meets the minimum requirements of division (C) of section 2307.86 of the Revised Code.",
+      "id": "2307.84-physical-impairment",
+      "normalized": "physical impairment",
+      "scope": "As used in sections 2307.84 to 2307.90 and 2307.901 of the Revised Code:",
+      "section": "2307.84",
+      "source_title": "Section 2307.84 - Silicosis or mixed dust disease claims - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2307.84",
+      "term": "Physical impairment"
+    },
+    {
+      "definition": "(T) \"Premises owner\" means a person who owns, in whole or in part, leases, rents, maintains, or controls privately owned lands, ways, or waters, or any buildings and structures on those lands, ways, or waters, and all privately owned and state-owned lands, ways, or waters leased to a private person, firm, or organization, including any buildings and structures on those lands, ways, or waters.",
+      "id": "2307.84-premises-owner",
+      "normalized": "premises owner",
+      "scope": "As used in sections 2307.84 to 2307.90 and 2307.901 of the Revised Code:",
+      "section": "2307.84",
+      "source_title": "Section 2307.84 - Silicosis or mixed dust disease claims - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2307.84",
+      "term": "Premises owner"
+    },
+    {
+      "definition": "(U) \"Radiological evidence of mixed dust pneumoconiosis\" means a chest x-ray showing bilateral rounded or irregular opacities in the upper lung fields graded by a certified B-reader as at least 1/1 on the ILO scale.",
+      "id": "2307.84-radiological-evidence-of-mixed-dust-pneumoconiosis",
+      "normalized": "radiological evidence of mixed dust pneumoconiosis",
+      "scope": "As used in sections 2307.84 to 2307.90 and 2307.901 of the Revised Code:",
+      "section": "2307.84",
+      "source_title": "Section 2307.84 - Silicosis or mixed dust disease claims - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2307.84",
+      "term": "Radiological evidence of mixed dust pneumoconiosis"
+    },
+    {
+      "definition": "(V) \"Radiological evidence of silicosis\" means a chest x-ray showing bilateral small rounded opacities (p, q, or r) in the upper lung fields graded by a certified B-reader as at least 1/1 on the ILO scale.",
+      "id": "2307.84-radiological-evidence-of-silicosis",
+      "normalized": "radiological evidence of silicosis",
+      "scope": "As used in sections 2307.84 to 2307.90 and 2307.901 of the Revised Code:",
+      "section": "2307.84",
+      "source_title": "Section 2307.84 - Silicosis or mixed dust disease claims - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2307.84",
+      "term": "Radiological evidence of silicosis"
+    },
+    {
+      "definition": "(W) \"Regular basis\" means on a frequent or recurring basis.",
+      "id": "2307.84-regular-basis",
+      "normalized": "regular basis",
+      "scope": "As used in sections 2307.84 to 2307.90 and 2307.901 of the Revised Code:",
+      "section": "2307.84",
+      "source_title": "Section 2307.84 - Silicosis or mixed dust disease claims - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2307.84",
+      "term": "Regular basis"
+    },
+    {
+      "definition": "(X) \"Silica\" means a respirable crystalline form of silicon dioxide, including, but not limited to, alpha quartz, cristobalite, and trydmite.",
+      "id": "2307.84-silica",
+      "normalized": "silica",
+      "scope": "As used in sections 2307.84 to 2307.90 and 2307.901 of the Revised Code:",
+      "section": "2307.84",
+      "source_title": "Section 2307.84 - Silicosis or mixed dust disease claims - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2307.84",
+      "term": "Silica"
+    },
+    {
+      "definition": "(Y) \"Silicosis claim\" means any claim for damages, losses, indemnification, contribution, or other relief arising out of, based on, or in any way related to inhalation of, exposure to, or contact with silica. \"Silicosis claim\" includes a claim made by or on behalf of any person who has been exposed to silica, or any representative, spouse, parent, child, or other relative of that person, for injury, including mental or emotional injury, death, or loss to person, risk of disease or other injury, costs of medical monitoring or surveillance, or any other effects on the person's health that are caused by the person's exposure to silica.",
+      "id": "2307.84-silicosis-claim",
+      "normalized": "silicosis claim",
+      "scope": "As used in sections 2307.84 to 2307.90 and 2307.901 of the Revised Code:",
+      "section": "2307.84",
+      "source_title": "Section 2307.84 - Silicosis or mixed dust disease claims - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2307.84",
+      "term": "Silicosis claim"
+    },
+    {
+      "definition": "(Z) \"Silicosis\" means an interstitial lung disease caused by the pulmonary response to inhaled silica.",
+      "id": "2307.84-silicosis",
+      "normalized": "silicosis",
+      "scope": "As used in sections 2307.84 to 2307.90 and 2307.901 of the Revised Code:",
+      "section": "2307.84",
+      "source_title": "Section 2307.84 - Silicosis or mixed dust disease claims - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2307.84",
+      "term": "Silicosis"
+    },
+    {
+      "definition": "(AA) \"Smoker\" means a person who has smoked the equivalent of one-pack year, as specified in the written report of a competent medical authority pursuant to section 2307.85 or 2307.86 and section 2307.87 of the Revised Code, during the last fifteen years.",
+      "id": "2307.84-smoker",
+      "normalized": "smoker",
+      "scope": "As used in sections 2307.84 to 2307.90 and 2307.901 of the Revised Code:",
+      "section": "2307.84",
+      "source_title": "Section 2307.84 - Silicosis or mixed dust disease claims - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2307.84",
+      "term": "Smoker"
+    },
+    {
+      "definition": "(BB) \"Substantial contributing factor\" means both of the following:\n\n(1) Exposure to silica or mixed dust is the predominate cause of the physical impairment alleged in the silicosis claim or mixed dust disease claim, whichever is applicable.\n\n(2) A competent medical authority has determined with a reasonable degree of medical certainty that without the silica or mixed dust exposures the physical impairment of the exposed person would not have occurred.",
+      "id": "2307.84-substantial-contributing-factor",
+      "normalized": "substantial contributing factor",
+      "scope": "As used in sections 2307.84 to 2307.90 and 2307.901 of the Revised Code:",
+      "section": "2307.84",
+      "source_title": "Section 2307.84 - Silicosis or mixed dust disease claims - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2307.84",
+      "term": "Substantial contributing factor"
+    },
+    {
+      "definition": "(CC) \"Substantial occupational exposure to silica\" means employment for a cumulative period of at least five years in an industry and an occupation in which, for a substantial portion of a normal work year for that occupation, the exposed person did any of the following:\n\n(1) Handled silica;\n\n(2) Fabricated silica-containing products so that the person was exposed to silica in the fabrication process;\n\n(3) Altered, repaired, or otherwise worked with a silica-containing product in a manner that exposed the person on a regular basis to silica;\n\n(4) Worked in close proximity to other workers engaged in any of the activities described in division (CC)(1), (2), or (3) of this section in a manner that exposed the person on a regular basis to silica.",
+      "id": "2307.84-substantial-occupational-exposure-to-silica",
+      "normalized": "substantial occupational exposure to silica",
+      "scope": "As used in sections 2307.84 to 2307.90 and 2307.901 of the Revised Code:",
+      "section": "2307.84",
+      "source_title": "Section 2307.84 - Silicosis or mixed dust disease claims - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2307.84",
+      "term": "Substantial occupational exposure to silica"
+    },
+    {
+      "definition": "(DD) \"Substantial occupational exposure to mixed dust\" means employment for a cumulative period of at least five years in an industry and an occupation in which, for a substantial portion of a normal work year for that occupation, the exposed person did any of the following:\n\n(1) Handled mixed dust;\n\n(2) Fabricated mixed dust-containing products so that the person was exposed to mixed dust in the fabrication process;\n\n(3) Altered, repaired, or otherwise worked with a mixed dust-containing product in a manner that exposed the person on a regular basis to mixed dust;\n\n(4) Worked in close proximity to other workers engaged in any of the activities described in division (DD)(1), (2), or (3) of this section in a manner that exposed the person on a regular basis to mixed dust.",
+      "id": "2307.84-substantial-occupational-exposure-to-mixed-dust",
+      "normalized": "substantial occupational exposure to mixed dust",
+      "scope": "As used in sections 2307.84 to 2307.90 and 2307.901 of the Revised Code:",
+      "section": "2307.84",
+      "source_title": "Section 2307.84 - Silicosis or mixed dust disease claims - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2307.84",
+      "term": "Substantial occupational exposure to mixed dust"
+    },
+    {
+      "definition": "(EE) \"Tort action\" means a civil action for damages for injury, death, or loss to person. \"Tort action\" includes a product liability claim that is subject to sections 2307.71 to 2307.80 of the Revised Code. \"Tort action\" does not include a civil action for damages for a breach of contract or another agreement between persons.",
+      "id": "2307.84-tort-action",
+      "normalized": "tort action",
+      "scope": "As used in sections 2307.84 to 2307.90 and 2307.901 of the Revised Code:",
+      "section": "2307.84",
+      "source_title": "Section 2307.84 - Silicosis or mixed dust disease claims - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2307.84",
+      "term": "Tort action"
+    },
+    {
+      "definition": "(FF) \"Veterans' benefit program\" means any program for benefits in connection with military service administered by the veterans' administration under title 38 of the United States Code.",
+      "id": "2307.84-veterans-benefit-program",
+      "normalized": "veterans' benefit program",
+      "scope": "As used in sections 2307.84 to 2307.90 and 2307.901 of the Revised Code:",
+      "section": "2307.84",
+      "source_title": "Section 2307.84 - Silicosis or mixed dust disease claims - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2307.84",
+      "term": "Veterans' benefit program"
+    },
+    {
+      "definition": "(GG) \"Workers' compensation law\" means Chapters 4121., 4123., 4127., and 4131. of the Revised Code.",
+      "id": "2307.84-workers-compensation-law",
+      "normalized": "workers' compensation law",
+      "scope": "As used in sections 2307.84 to 2307.90 and 2307.901 of the Revised Code:",
+      "section": "2307.84",
+      "source_title": "Section 2307.84 - Silicosis or mixed dust disease claims - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2307.84",
+      "term": "Workers' compensation law"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2307.84",
+      "number": "2307.84",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.84"
+    },
+    {
+      "kind": "section",
+      "label": "2307.90",
+      "number": "2307.90",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.90"
+    },
+    {
+      "kind": "section",
+      "label": "2307.901",
+      "number": "2307.901",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.901"
+    },
+    {
+      "kind": "section",
+      "label": "37.51",
+      "number": "37.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-37.51"
+    },
+    {
+      "kind": "section",
+      "label": "2307.85",
+      "number": "2307.85",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.85"
+    },
+    {
+      "kind": "section",
+      "label": "2307.86",
+      "number": "2307.86",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.86"
+    },
+    {
+      "kind": "section",
+      "label": "2307.87",
+      "number": "2307.87",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.87"
+    },
+    {
+      "kind": "section",
+      "label": "2307.71",
+      "number": "2307.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.71"
+    },
+    {
+      "kind": "section",
+      "label": "2307.80",
+      "number": "2307.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.80"
+    }
+  ],
+  "scraped": "2026-07-02T19:43:26+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2307.84",
+  "title": "Section 2307.84 - Silicosis or mixed dust disease claims - definitions."
+}

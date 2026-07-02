@@ -1,0 +1,44 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3937.19
+Scraped: 2026-07-02T20:03:08+00:00
+
+# Section 3937.19 - Summary of material coverages and exclusions for personal lines policy.
+
+**Effective:** September 4, 2014
+
+**Latest Legislation:** Senate Bill 140 - 130th General Assembly
+
+(A) As used in this section:
+
+(1) "Personal lines policy of insurance" means a policy of property and casualty insurance issued to a natural person primarily for personal or family protection for personal automobile, homeowner's, tenant's, mobile-homeowner's, non-commercial dwelling fire or personal umbrella coverage.
+
+(2) "Customer" has the same meaning as in section 3901.19 of the Revised Code.
+
+(B)(1) An insurer may, but is not required to, provide or make a policy summary of material coverages and exclusions in a personal lines policy of insurance available to a customer. If an insurer chooses to provide or make any such policy summary available, the summary shall include at a minimum all of the following:
+
+(a) A brief description of the principal benefits provided under the policy for which a premium is charged;
+
+(b) A brief description of the principal exclusions, provided under the policy;
+
+(c) A statement of the loss valuation methods provided under the policy;
+
+(d) The following notice, or a substantially similar notice, prominently displayed in conjunction with the policy summary:
+
+"You should read your insurance policy and get assistance in understanding the coverages and any exclusions directly from your agent or the insurance company issuing your policy. This policy summary is for informational purposes only and is designed to provide a basic description of insurance coverages and exclusions in your policy. This summary does not reflect all the coverages and exclusions contained in your policy and is qualified in its entirety to the policy terms.
+
+State law prohibits this policy summary from replacing, modifying, altering, amending, or changing any of the terms or provisions of the insurance policy that is the subject of this summary."
+
+(2) A policy summary, as described in division (B)(1) of this section, does not include the policy declarations page and any notations contained therein.
+
+(C) Nothing contained in this section shall be construed to prohibit an insurer from providing information related to an insurance policy that does not meet the requirements prescribed in division (B) of this section.
+
+(D) An insurer may display sections of a policy summary individually, in any combination or in any order, as long as the summary meets the requirements prescribed in division (B) of this section and the notice contained in division (B)(1)(d) of this section appears in each section of the policy summary. If the policy summary is paginated, then the notice contained in division (B)(1)(d) of this section shall appear on each page.
+
+(E) An insurer's election to provide or make a policy summary available to a customer does not obligate the insurer to provide a policy summary upon the renewal of the policy or for any other policies issued to the same customer.
+
+(F) If an insurer elects to provide or make a policy summary available for a personal lines policy of insurance, the insurer shall provide a policy summary for the named insured under a policy for that product.
+
+(G) A policy summary provided or made available under this section shall not be considered a replacement for the terms of the policy of insurance, shall not have the effect of altering the coverage afforded by the policy, and shall not confer new or additional rights beyond those expressly provided for in the policy. Nothing in this section shall be construed to create or imply a private cause of action for a violation of this section. A policy summary provided or made available pursuant to this section shall not be admissible in court or in any other legal or administrative proceeding, except to enforce division (H) of this section.
+
+(H) No person doing the business of insurance in this state shall provide or use a policy summary that contains any false, misleading, or deceptive representation or statement.
+
+(I) Any violation of this section is an unfair and deceptive act or practice in the business of insurance under sections 3901.19 to 3901.26 of the Revised Code. If the superintendent, by written order, finds that any person is about to engage, is engaging, or has engaged in a violation of this section, the superintendent may impose any or all of the administrative remedies set forth in divisions (D)(1) to (5) of section 3901.22 of the Revised Code. If the superintendent finds that the violation was due to gross or willful misconduct, the superintendent may order that person to reimburse any customer harmed by the violation or violations, including reimbursement or payment of insurance claims for which a loss occurred as a result of a customer's reliance upon a policy summary containing any false, misleading, or deceptive representation or statement.

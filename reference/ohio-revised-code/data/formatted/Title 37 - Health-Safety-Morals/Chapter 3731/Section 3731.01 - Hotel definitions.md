@@ -1,0 +1,46 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3731.01
+Scraped: 2026-07-02T20:00:29+00:00
+
+# Section 3731.01 - Hotel definitions.
+
+**Effective:** September 12, 2008
+
+**Latest Legislation:** Senate Bill 237 - 127th General Assembly
+
+(A) As used in this chapter:
+
+(1) "Hotel" means a transient hotel, extended stay hotel, or residential hotel.
+
+"Hotel" includes any structure consisting of one or more buildings containing any combination of more than five guestrooms that are each approved by the building code official having jurisdiction and the state fire marshal as meeting the requirements for transient sleeping rooms or extended stay temporary residence dwelling units, or as having features of such sleeping rooms and dwelling units within the same room, and such structure is specifically constructed, kept, used, maintained, advertised, and held out to the public to be a place where transient sleeping accommodations or temporary residence is offered for pay to persons, but such structure does not otherwise meet the definition of a transient hotel or an extended stay hotel as defined in this section. "Hotel" does not include agricultural labor camps, apartment houses, apartments or other similar places of permanent personal residence, lodging houses, rooming houses, or hospital or college dormitories.
+
+(2) "Transient hotel" means any structure consisting of one or more buildings, with more than five sleeping rooms, that is specifically constructed, kept, used, maintained, advertised, or held out to the public to be a place where sleeping accommodations are offered for pay to transient guests for a period of thirty days or less, including, but not limited to, such a structure denoted as a hotel, motel, motor hotel, lodge, motor lodge, bed and breakfast, or inn.
+
+(3) "Extended stay hotel" means any structure consisting of one or more buildings, with more than five dwelling units, and to which all of the following apply:
+
+(a) The dwelling units in the structure are specifically constructed, kept, used, maintained, advertised, and held out to the public to be a place where temporary residence is offered for pay to persons.
+
+(b) The structure is approved pursuant to a valid certificate of occupancy issued by the building official having jurisdiction as having dwelling units that have both of the following types of features:
+
+(i) The required dwelling unit features for non-transient residence purposes in accordance with the residential group R-2 use and occupancy classification adopted by the board of building standards pursuant to section 3781.10 of the Revised Code, or any subsequent classification established by the board that is substantially similar to that classification;
+
+(ii) All of the transient residential occupancy features of a transient hotel in accordance with the residential group R-1 use and occupancy classification adopted by the board pursuant to that section, or any subsequent classification established by the board that is substantially similar to that classification.
+
+(c) The valid certificate of occupancy indicates the specific rooms within the structure that can be used as dwelling units.
+
+(d) The structure is approved by the state fire marshal for extended stay temporary residence purposes.
+
+(4) "Residential hotel" means any structure or structures consisting of one or more buildings, with more than five dwelling units, that are specifically constructed and approved through a valid certificate of occupancy issued by the building official having jurisdiction, as having both dwelling unit features for non-transient residence purposes and all of the transient residential occupancy features of a transient hotel in accordance with the residential group R-1 use and occupancy classification adopted by the board of building standards pursuant to Chapter 3781. of the Revised Code, and that are kept, used, maintained, advertised, operated as, or held out to the public to be a place where non-transient dwelling units are offered for pay to persons for a minimum stay of more than thirty days.
+
+(5) "Temporary residence" means a dwelling unit accommodation room within a hotel that is used by its occupants but is not used as the permanent or principal residence of its occupants.
+
+(6) "Transient" means not more than thirty days.
+
+(7) "Dwelling unit" means an accommodation room within a hotel that contains independent provisions for living, eating, cooking, sleeping, and sanitation.
+
+(8) "SRO facility" means a facility with more than five sleeping rooms that is kept, used, maintained, advertised, or held out to the public as a place where sleeping rooms are offered on a single room occupancy (SRO) basis and that is intended for use as a primary residence for residential guests for a period of more than thirty days.
+
+"SRO facility" does not include agricultural labor camps, apartment houses, lodging houses, rooming houses, or hospital or college dormitories.
+
+(9) "Single room occupancy (SRO) basis" means one occupant per room.
+
+(B) This chapter does not apply to apartment buildings and other structures in which all of the units are residential premises.

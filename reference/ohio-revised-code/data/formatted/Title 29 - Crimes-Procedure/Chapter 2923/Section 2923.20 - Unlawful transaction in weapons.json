@@ -1,0 +1,80 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Ammunition\" has the same meaning as in section 2305.401 of the Revised Code.",
+      "id": "2923.20-ammunition",
+      "normalized": "ammunition",
+      "scope": "(D) As used in this section:",
+      "section": "2923.20",
+      "source_title": "Section 2923.20 - Unlawful transaction in weapons.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2923.20",
+      "term": "Ammunition"
+    },
+    {
+      "definition": "(2) \"Federally licensed firearms dealer\" has the same meaning as in section 5502.63 of the Revised Code.",
+      "id": "2923.20-federally-licensed-firearms-dealer",
+      "normalized": "federally licensed firearms dealer",
+      "scope": "(D) As used in this section:",
+      "section": "2923.20",
+      "source_title": "Section 2923.20 - Unlawful transaction in weapons.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2923.20",
+      "term": "Federally licensed firearms dealer"
+    },
+    {
+      "definition": "(3) \"Materially false information\" means information regarding the transfer of a firearm or ammunition that portrays an illegal transaction as legal or a legal transaction as illegal.",
+      "id": "2923.20-materially-false-information",
+      "normalized": "materially false information",
+      "scope": "(D) As used in this section:",
+      "section": "2923.20",
+      "source_title": "Section 2923.20 - Unlawful transaction in weapons.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2923.20",
+      "term": "Materially false information"
+    },
+    {
+      "definition": "(4) \"Private seller\" means a person who sells, offers for sale, or transfers a firearm or ammunition and who is not a federally licensed firearms dealer.",
+      "id": "2923.20-private-seller",
+      "normalized": "private seller",
+      "scope": "(D) As used in this section:",
+      "section": "2923.20",
+      "source_title": "Section 2923.20 - Unlawful transaction in weapons.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2923.20",
+      "term": "Private seller"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2923.13",
+      "number": "2923.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2923.13"
+    },
+    {
+      "kind": "section",
+      "label": "2923.15",
+      "number": "2923.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2923.15"
+    },
+    {
+      "kind": "section",
+      "label": "2923.17",
+      "number": "2923.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2923.17"
+    },
+    {
+      "kind": "section",
+      "label": "2305.401",
+      "number": "2305.401",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.401"
+    },
+    {
+      "kind": "section",
+      "label": "5502.63",
+      "number": "5502.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5502.63"
+    }
+  ],
+  "scraped": "2026-07-02T19:46:23+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2923.20",
+  "title": "Section 2923.20 - Unlawful transaction in weapons."
+}

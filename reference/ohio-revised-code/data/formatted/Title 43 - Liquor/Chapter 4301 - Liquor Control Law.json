@@ -1,0 +1,837 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 4301.01 - Liquor control definitions.",
+      "number": "4301.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.011 - General Assembly finding - sole and exclusive regulation of alcohol.",
+      "number": "4301.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.011"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.02 - Division of liquor control organization.",
+      "number": "4301.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.021 - Superintendent of liquor control powers.",
+      "number": "4301.021",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.021"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.022 - Liquor control commission.",
+      "number": "4301.022",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.022"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.03 - Liquor control commission rules.",
+      "number": "4301.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.04 - Liquor control commission powers.",
+      "number": "4301.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.041 - Minimum percentage mark-up for sales at retail of beer.",
+      "number": "4301.041",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.041"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.042 - Pricing practices rules for beer sales.",
+      "number": "4301.042",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.042"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.05 - Liquor control commission not to exercise executive or administrative duties or powers.",
+      "number": "4301.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.06 - Division of liquor control publications and hearings.",
+      "number": "4301.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.07 - Liquor control commission members.",
+      "number": "4301.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.08 - Bond of liquor control commission, superintendent, employees.",
+      "number": "4301.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.10 - Division of liquor control powers and duties.",
+      "number": "4301.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.101 - Superintendent of liquor control rules.",
+      "number": "4301.101",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.101"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.102 - Administration, collection, and enforcement of county sports facility liquor tax.",
+      "number": "4301.102",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.102"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.11 - Leases of state liquor stores.",
+      "number": "4301.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.12 - Custody, safekeeping, and deposit of funds.",
+      "number": "4301.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.13 - Rules for dealing in and distributing and selling bottled wine.",
+      "number": "4301.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.14 - Rules for equitable distribution of supplies of spirituous liquor.",
+      "number": "4301.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.15 - Violating rules for equitable distribution.",
+      "number": "4301.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.16 - Accounting for moneys received from the sale of liquor.",
+      "number": "4301.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.17 - State liquor stores or agencies.",
+      "number": "4301.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.171 - Tasting samples of spirituous liquor.",
+      "number": "4301.171",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.171"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.172 - Agency store hours of sale.",
+      "number": "4301.172",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.172"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.18 - Purchase, manufacture, blend, or bottle spirituous liquor division of liquor control.",
+      "number": "4301.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.19 - Sale of spirituous liquor by division of liquor control.",
+      "number": "4301.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.20 - Exemptions from liquor control law.",
+      "number": "4301.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.201 - Homemade beer and wine.",
+      "number": "4301.201",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.201"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.21 - Rules for sale of beer or intoxicating liquor for consumption on the premises.",
+      "number": "4301.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.22 - Rules for sales of beer and intoxicating liquor under all classes of permits and from state liquor stores.",
+      "number": "4301.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.23 - Sales of sacramental wine for religious rites.",
+      "number": "4301.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.24 - Rules for manufacturers and wholesale distributors.",
+      "number": "4301.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.241 - Sales area or territory for B-1 permit holder to be brand distributor.",
+      "number": "4301.241",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.241"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.242 - Manufacturers and wholesale distributors - permitted conduct.",
+      "number": "4301.242",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.242"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.243 - Giving things of value in connection with purchase of alcoholic beverage.",
+      "number": "4301.243",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.243"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.244 - Beer not intoxicating liquor.",
+      "number": "4301.244",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.244"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.245 - Use of social media for advertising.",
+      "number": "4301.245",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.245"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.246 - Gifts of glassware.",
+      "number": "4301.246",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.246"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.25 - Suspension or revocation of liquor permit.",
+      "number": "4301.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.251 - Emergency suspension of retail beer or liquor permits and retail sales of spirituous liquor.",
+      "number": "4301.251",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.251"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.252 - Option of paying forfeiture rather than suspending operations.",
+      "number": "4301.252",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.252"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.253 - Training program.",
+      "number": "4301.253",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.253"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.26 - No-fault cancellation of permits.",
+      "number": "4301.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.27 - Revoking or cancelling permits.",
+      "number": "4301.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.28 - Appeals to liquor control commission.",
+      "number": "4301.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.29 - Seizure of beer, intoxicating liquor or alcohol.",
+      "number": "4301.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.30 - Deposit and distribution of fees.",
+      "number": "4301.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.31 - Jurisdiction - immunity.",
+      "number": "4301.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.32 - Local option privilege.",
+      "number": "4301.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.321 - Local option sale of beer or intoxicating liquor by class C or D permit at particular premises.",
+      "number": "4301.321",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.321"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.322 - Local option where status of portion of precinct or residence district is inconsistent with remainder.",
+      "number": "4301.322",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.322"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.323 - Conditions for exercising privilege of local option at a particular location.",
+      "number": "4301.323",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.323"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.324 - Local option - community facility.",
+      "number": "4301.324",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.324"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.33 - Local option petition.",
+      "number": "4301.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.331 - Local option - premises adjudged a nuisance.",
+      "number": "4301.331",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.331"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.332 - Local option petition where status of portion of precinct or residence district is inconsistent with remainder.",
+      "number": "4301.332",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.332"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.333 - Local option petition contesting a particular location.",
+      "number": "4301.333",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.333"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.334 - Local option petition contesting community facility.",
+      "number": "4301.334",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.334"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.34 - Petition requirements.",
+      "number": "4301.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.35 - Election and form of ballots on four question election.",
+      "number": "4301.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.351 - Election and form of ballots on Sunday sales.",
+      "number": "4301.351",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.351"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.352 - Election and form of ballots concerning particular permit premises.",
+      "number": "4301.352",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.352"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.353 - Election and form of ballots where status of portion of precinct or residence district is inconsistent with remainder - no Sunday issues.",
+      "number": "4301.353",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.353"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.354 - Election and form of ballots where status of portion of precinct or residence district is inconsistent with remainder - Sunday issues.",
+      "number": "4301.354",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.354"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.355 - Election and form of ballots contesting a particular location.",
+      "number": "4301.355",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.355"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.356 - Election and form of ballots contesting community facility.",
+      "number": "4301.356",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.356"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.36 - Effect of four question election.",
+      "number": "4301.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.361 - Effect of Sunday sales election.",
+      "number": "4301.361",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.361"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.362 - Effect of particular permit premises election.",
+      "number": "4301.362",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.362"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.363 - Effect of election where status of portion of precinct or residence district is inconsistent with remainder - no Sunday issues.",
+      "number": "4301.363",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.363"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.364 - Effect of election where status of portion of precinct or residence district is inconsistent with remainder - Sunday issues.",
+      "number": "4301.364",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.364"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.365 - Effect of election concerning particular location.",
+      "number": "4301.365",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.365"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.366 - Effect of election concerning community facility.",
+      "number": "4301.366",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.366"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.37 - Local option elections effective for four years.",
+      "number": "4301.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.39 - Notification and results of local option elections.",
+      "number": "4301.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.391 - Operation inconsistent with results of local option election.",
+      "number": "4301.391",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.391"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.40 - Local option elections not to affect or prohibit certain permits.",
+      "number": "4301.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.401 - Permits issued in premises located in annexed territory valid.",
+      "number": "4301.401",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.401"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.402 - Golf course, hotel, motel, or lodge owned by state, conservancy district, park district or political subdivision not affected.",
+      "number": "4301.402",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.402"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.403 - U.S. Christopher Columbus quincentenary jubilee commission exhibition premises exemptions.",
+      "number": "4301.403",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.403"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.404 - Center for preservation of wild animals exemptions.",
+      "number": "4301.404",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.404"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.41 - Refund of permit fee upon cancellation.",
+      "number": "4301.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.42 - Tax on sale of beer in sealed bottles and cans.",
+      "number": "4301.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.421 - Tax levies to finance sports facilities.",
+      "number": "4301.421",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.421"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.422 - Retail sellers liable for county tax.",
+      "number": "4301.422",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.422"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.423 - Crediting and distribution of tax receipts.",
+      "number": "4301.423",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.423"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.424 - Tax levies to finance construction or renovation of sports facility.",
+      "number": "4301.424",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.424"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.43 - Tax on sale and distribution of wine and mixed beverages.",
+      "number": "4301.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.432 - Tax on sale and distribution of vermouth, sparkling and carbonated wine and champagne, and other wine.",
+      "number": "4301.432",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.432"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.433 - Out-of state wine bottlers to furnish invoices.",
+      "number": "4301.433",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.433"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.44 - Administration of alcoholic beverage taxes.",
+      "number": "4301.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.441 - Disclosure of information provided by department of taxation.",
+      "number": "4301.441",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.441"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.45 - Seizure of beer or intoxicating liquors transported or possessed illegally.",
+      "number": "4301.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.46 - Credit of moneys received.",
+      "number": "4301.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.47 - Record retention.",
+      "number": "4301.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.48 - False entries on invoices or containers prohibited.",
+      "number": "4301.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.49 - Prevention or hindrance of inspection.",
+      "number": "4301.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.50 - Distribution or sale of beverages without tax prohibited.",
+      "number": "4301.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.52 - Seizure of wine, mixed beverage, or beer upon which tax has not been paid.",
+      "number": "4301.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.53 - Search warrants - seizure of property.",
+      "number": "4301.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.54 - Retaliatory tax on liquor products sold in, delivered, or shipped into Ohio.",
+      "number": "4301.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.55 - Retaliatory tax on liquor products transported, manufactured or warehoused in Ohio.",
+      "number": "4301.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.56 - List of permit holders furnished to tax commissioner for administration of liquor taxes.",
+      "number": "4301.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.57 - Fines and forfeited bonds.",
+      "number": "4301.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.58 - Permits required.",
+      "number": "4301.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.59 - False or fraudulent statement in warehouse receipts.",
+      "number": "4301.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.60 - Illegal transportation of beer, intoxicating liquor, or alcohol prohibited.",
+      "number": "4301.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.61 - Transaction scans to check the validity of driver's or commercial driver's license or identification card.",
+      "number": "4301.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.611 - Transaction scan as affirmative defense where age of purchaser is element of crime.",
+      "number": "4301.611",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.611"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.62 - Opened container of beer or intoxicating liquor prohibited at certain premises.",
+      "number": "4301.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.63 - Purchase of beer or intoxicating liquor by persons under twenty-one prohibited.",
+      "number": "4301.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.631 - Purchase or consumption low-alcohol beverage by persons under eighteen prohibited.",
+      "number": "4301.631",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.631"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.633 - Furnishing false information to obtain beer or intoxicating liquor for person under twenty-one.",
+      "number": "4301.633",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.633"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.634 - Furnishing false information to obtain beer or intoxicating liquor by person under twenty-one.",
+      "number": "4301.634",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.634"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.635 - Compliance check.",
+      "number": "4301.635",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.635"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.636 - Manufacture, transfer, sell, or distribute false identification card or driver's license.",
+      "number": "4301.636",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.636"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.637 - Warning cards as to underage persons and person carrying firearms.",
+      "number": "4301.637",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.637"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.638 - Modification on other sections not intended.",
+      "number": "4301.638",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.638"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.639 - False identification accepted in good faith.",
+      "number": "4301.639",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.639"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.64 - Prohibition against consumption of beer or intoxicating liquor in motor vehicle.",
+      "number": "4301.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.65 - Sale, purchase, or use of alcohol vaporizing device prohibited.",
+      "number": "4301.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.66 - Obstructing inspection or search of premises prohibited.",
+      "number": "4301.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.67 - Illegal possession of spirituous or intoxicating liquor or beer prohibited.",
+      "number": "4301.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.67"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.68 - Sale of liquor in diluted, refilled, or partly refilled containers prohibited.",
+      "number": "4301.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.68"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.69 - Underage persons offenses concerning.",
+      "number": "4301.69",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.69"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.691 - Alternate prohibitions if federal mandate relating to a national uniform drinking age of twenty-one is no longer in force.",
+      "number": "4301.691",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.691"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.70 - Violations not otherwise specified.",
+      "number": "4301.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.71 - Sale of powdered or crystalline alcohol.",
+      "number": "4301.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.72 - Liquor taxes are lien on property of permit holder.",
+      "number": "4301.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.74 - Violation of nuisance injunction.",
+      "number": "4301.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.74"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.77 - Providing social security numbers.",
+      "number": "4301.77",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.77"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.80 - Community entertainment district application.",
+      "number": "4301.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.80"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.81 - Application for revitalization district designation.",
+      "number": "4301.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.82 - Designated outdoor refreshment areas.",
+      "number": "4301.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.82"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.83 - Waiver to serve alcohol at major event.",
+      "number": "4301.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.83"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.99 - Penalty.",
+      "number": "4301.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.99"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4301.991 - Notice of conviction or acquittal of liquor control violations.",
+      "number": "4301.991",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.991"
+    }
+  ],
+  "scraped": "2026-07-02T20:04:59+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-4301",
+  "title": "Chapter 4301 - Liquor Control Law"
+}

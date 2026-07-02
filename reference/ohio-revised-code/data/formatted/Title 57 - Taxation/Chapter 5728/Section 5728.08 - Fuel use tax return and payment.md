@@ -1,0 +1,18 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5728.08
+Scraped: 2026-07-02T20:14:56+00:00
+
+# Section 5728.08 - Fuel use tax return and payment.
+
+**Effective:** January 1, 2018
+
+**Latest Legislation:** House Bill 26 - 132nd General Assembly
+
+Except as provided in section 5728.03 of the Revised Code and except as otherwise provided in division (A) of section 5728.06 of the Revised Code, whoever is liable for the payment of the tax levied by section 5728.06 of the Revised Code, on or before the last day of each January, April, July, and October, shall file with the tax commissioner, on forms prescribed by the commissioner, a fuel use tax return and make payment of the full amount of the tax due for the operation of each commercial car and commercial tractor for the preceding three calendar months.
+
+The commissioner shall immediately forward to the treasurer of state all money received from the tax levied by section 5728.06 of the Revised Code.
+
+The treasurer of state shall place to the credit of the tax refund fund created by section 5703.052 of the Revised Code, out of receipts from the taxes levied by section 5728.06 of the Revised Code, amounts equal to the refund certified by the tax commissioner pursuant to section 5728.061 of the Revised Code. Receipts from the tax shall be used by the commissioner to defray expenses incurred by the department of taxation in administering sections 5728.01 to 5728.14 of the Revised Code.
+
+All moneys received in the state treasury from taxes levied by section 5728.06 of the Revised Code and fees assessed under section 5728.03 of the Revised Code that are not required to be placed to the credit of the tax refund fund as provided by this section, during each calendar year, shall be credited to the highway improvement bond retirement fund created by section 5528.12 of the Revised Code until the commissioners of the sinking fund certify to the treasurer of state, as required by section 5528.17 of the Revised Code, that there are sufficient moneys to the credit of the highway improvement bond retirement fund to meet in full all payments of interest, principal, and charges for the retirement of bonds and other obligations issued pursuant to Section 2g of Article VIII, Ohio Constitution, and sections 5528.10 and 5528.11 of the Revised Code due and payable during the current calendar year and during the following calendar year. All moneys received in the state treasury from taxes levied under section 5728.06 of the Revised Code and fees assessed under section 5728.03 of the Revised Code that are not required to be placed to the credit of the tax refund fund as provided by this section shall be credited to the highway operating fund created by section 5735.051 of the Revised Code, except as provided by the following paragraph of this section.
+
+From the date of the receipt by the treasurer of state of certification from the commissioners of the sinking fund, as required by section 5528.18 of the Revised Code, certifying that the moneys to the credit of the highway improvement bond retirement fund are sufficient to meet in full all payments of interest, principal, and charges for the retirement of all bonds and other obligations that may be issued pursuant to Section 2g of Article VIII, Ohio Constitution, and sections 5528.10 and 5528.11 of the Revised Code, all moneys received in the state treasury from the taxes levied under section 5728.06 and fees assessed under section 5728.03 of the Revised Code that are not required to be placed to the credit of the tax refund fund as provided by this section, shall be deposited to the credit of the highway operating fund.

@@ -1,0 +1,228 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Poultry by-product manufacturer\" means any person engaged in the business of manufacturing or processing animal food derived wholly or in part from carcasses, or parts or products of the carcasses of poultry.",
+      "id": "918.21-poultry-by-product-manufacturer",
+      "normalized": "poultry by-product manufacturer",
+      "scope": "As used in sections 918.21 to 918.31 of the Revised Code:",
+      "section": "918.21",
+      "source_title": "Section 918.21 - Licensing of poultry processing definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-918.21",
+      "term": "Poultry by-product manufacturer"
+    },
+    {
+      "definition": "(B) \"Carcass\" means all parts, including viscera, of slaughtered poultry that are capable of being used for human food.\n\n(C) \"Capable of use as human food\" as applied to poultry or poultry products means poultry or a poultry product that is not denatured or otherwise identified as required by state or federal law or regulations to deter its use as human food, or that is naturally edible by humans.",
+      "id": "918.21-carcass",
+      "normalized": "carcass",
+      "scope": "As used in sections 918.21 to 918.31 of the Revised Code:",
+      "section": "918.21",
+      "source_title": "Section 918.21 - Licensing of poultry processing definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-918.21",
+      "term": "Carcass"
+    },
+    {
+      "definition": "(D) \"Container\" or \"package\" means any box, can, tin, cloth, plastic, or any other receptacle, wrapper, or cover.",
+      "id": "918.21-container",
+      "normalized": "container",
+      "scope": "As used in sections 918.21 to 918.31 of the Revised Code:",
+      "section": "918.21",
+      "source_title": "Section 918.21 - Licensing of poultry processing definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-918.21",
+      "term": "Container"
+    },
+    {
+      "definition": "(D) \"Container\" or \"package\" means any box, can, tin, cloth, plastic, or any other receptacle, wrapper, or cover.",
+      "id": "918.21-package",
+      "normalized": "package",
+      "scope": "As used in sections 918.21 to 918.31 of the Revised Code:",
+      "section": "918.21",
+      "source_title": "Section 918.21 - Licensing of poultry processing definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-918.21",
+      "term": "package"
+    },
+    {
+      "definition": "(E) \"Establishment\" means any premises where poultry is slaughtered or otherwise prepared for food purposes.",
+      "id": "918.21-establishment",
+      "normalized": "establishment",
+      "scope": "As used in sections 918.21 to 918.31 of the Revised Code:",
+      "section": "918.21",
+      "source_title": "Section 918.21 - Licensing of poultry processing definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-918.21",
+      "term": "Establishment"
+    },
+    {
+      "definition": "(F) \"Federal inspection\" means inspection pursuant to the \"Poultry Products Inspection Act,\" 71 Stat. 441 (1957), 21 U.S.C.A. 451, as amended by the \"Wholesome Poultry Products Act,\" 82 Stat. 791. (1968).",
+      "id": "918.21-federal-inspection",
+      "normalized": "federal inspection",
+      "scope": "As used in sections 918.21 to 918.31 of the Revised Code:",
+      "section": "918.21",
+      "source_title": "Section 918.21 - Licensing of poultry processing definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-918.21",
+      "term": "Federal inspection"
+    },
+    {
+      "definition": "(G) \"Immediate container\" means any consumer package or any other container in which poultry products not consumer packaged are packed.",
+      "id": "918.21-immediate-container",
+      "normalized": "immediate container",
+      "scope": "As used in sections 918.21 to 918.31 of the Revised Code:",
+      "section": "918.21",
+      "source_title": "Section 918.21 - Licensing of poultry processing definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-918.21",
+      "term": "Immediate container"
+    },
+    {
+      "definition": "(H) \"Inspector\" means an employee or official of the department of agriculture authorized by the director of agriculture to inspect poultry or poultry products under the authority of sections 918.21 to 918.31 of the Revised Code.",
+      "id": "918.21-inspector",
+      "normalized": "inspector",
+      "scope": "As used in sections 918.21 to 918.31 of the Revised Code:",
+      "section": "918.21",
+      "source_title": "Section 918.21 - Licensing of poultry processing definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-918.21",
+      "term": "Inspector"
+    },
+    {
+      "definition": "(I) \"Ohio inspected and approved\" means that the poultry or poultry products so identified have been inspected and passed under sections 918.21 to 918.31 of the Revised Code and the rules pertaining thereto, and at the time of inspection and identification were found to be wholesome.",
+      "id": "918.21-ohio-inspected-and-approved",
+      "normalized": "ohio inspected and approved",
+      "scope": "As used in sections 918.21 to 918.31 of the Revised Code:",
+      "section": "918.21",
+      "source_title": "Section 918.21 - Licensing of poultry processing definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-918.21",
+      "term": "Ohio inspected and approved"
+    },
+    {
+      "definition": "(J) \"Ohio inspected and condemned\" means that the poultry or poultry products so stamped and identified are unwholesome and unfit for human food and shall be disposed of in a manner prescribed by the department.",
+      "id": "918.21-ohio-inspected-and-condemned",
+      "normalized": "ohio inspected and condemned",
+      "scope": "As used in sections 918.21 to 918.31 of the Revised Code:",
+      "section": "918.21",
+      "source_title": "Section 918.21 - Licensing of poultry processing definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-918.21",
+      "term": "Ohio inspected and condemned"
+    },
+    {
+      "definition": "(K) \"Ohio retained\" means that the poultry or poultry product so identified is held for further examination by an inspector to determine its disposal.",
+      "id": "918.21-ohio-retained",
+      "normalized": "ohio retained",
+      "scope": "As used in sections 918.21 to 918.31 of the Revised Code:",
+      "section": "918.21",
+      "source_title": "Section 918.21 - Licensing of poultry processing definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-918.21",
+      "term": "Ohio retained"
+    },
+    {
+      "definition": "(L) \"Poultry\" means any domesticated bird and any poultry specified under division (B) of section 918.12 of the Revised Code, whether live or dead.",
+      "id": "918.21-poultry",
+      "normalized": "poultry",
+      "scope": "As used in sections 918.21 to 918.31 of the Revised Code:",
+      "section": "918.21",
+      "source_title": "Section 918.21 - Licensing of poultry processing definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-918.21",
+      "term": "Poultry"
+    },
+    {
+      "definition": "(M) \"Processed\" means slaughtered, cut up, boned, salted, stuffed, rendered, smoked, or otherwise manufactured or prepared.",
+      "id": "918.21-processed",
+      "normalized": "processed",
+      "scope": "As used in sections 918.21 to 918.31 of the Revised Code:",
+      "section": "918.21",
+      "source_title": "Section 918.21 - Licensing of poultry processing definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-918.21",
+      "term": "Processed"
+    },
+    {
+      "definition": "(N) \"Poultry product\" means any poultry carcass, or part thereof, or any product which is made wholly or in part from any poultry carcass or part thereof, excepting products which are exempted by the director from definition as a poultry product under such conditions as the director may prescribe to ensure that the poultry ingredients in those products are not adulterated and that those products are not represented as poultry products.",
+      "id": "918.21-poultry-product",
+      "normalized": "poultry product",
+      "scope": "As used in sections 918.21 to 918.31 of the Revised Code:",
+      "section": "918.21",
+      "source_title": "Section 918.21 - Licensing of poultry processing definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-918.21",
+      "term": "Poultry product"
+    },
+    {
+      "definition": "(O) \"Poultry products broker\" means any person engaged in the business of buying or selling poultry products on commission or otherwise negotiating purchases or sales or handling of such products other than for his own account or as an employee of another person.",
+      "id": "918.21-poultry-products-broker",
+      "normalized": "poultry products broker",
+      "scope": "As used in sections 918.21 to 918.31 of the Revised Code:",
+      "section": "918.21",
+      "source_title": "Section 918.21 - Licensing of poultry processing definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-918.21",
+      "term": "Poultry products broker"
+    },
+    {
+      "definition": "(P) \"Renderer\" means any person engaged in the business of converting raw rendering materials into fats, oils, feeds, fertilizer, and other products, except rendering conducted under inspection or under exemption of sections 918.21 to 918.31 of the Revised Code.",
+      "id": "918.21-renderer",
+      "normalized": "renderer",
+      "scope": "As used in sections 918.21 to 918.31 of the Revised Code:",
+      "section": "918.21",
+      "source_title": "Section 918.21 - Licensing of poultry processing definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-918.21",
+      "term": "Renderer"
+    },
+    {
+      "definition": "(Q) \"Shipping container\" means any container used or intended for use in packaging the product packed in an immediate container.",
+      "id": "918.21-shipping-container",
+      "normalized": "shipping container",
+      "scope": "As used in sections 918.21 to 918.31 of the Revised Code:",
+      "section": "918.21",
+      "source_title": "Section 918.21 - Licensing of poultry processing definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-918.21",
+      "term": "Shipping container"
+    },
+    {
+      "definition": "(R) \"State inspection\" means the meat inspection service administered by the department of agriculture.",
+      "id": "918.21-state-inspection",
+      "normalized": "state inspection",
+      "scope": "As used in sections 918.21 to 918.31 of the Revised Code:",
+      "section": "918.21",
+      "source_title": "Section 918.21 - Licensing of poultry processing definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-918.21",
+      "term": "State inspection"
+    },
+    {
+      "definition": "(S) \"Wholesome\" means sound, healthful, clean, and otherwise capable of use as human food.",
+      "id": "918.21-wholesome",
+      "normalized": "wholesome",
+      "scope": "As used in sections 918.21 to 918.31 of the Revised Code:",
+      "section": "918.21",
+      "source_title": "Section 918.21 - Licensing of poultry processing definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-918.21",
+      "term": "Wholesome"
+    },
+    {
+      "definition": "(T) \"Unwholesome\" means:\n\n(1) Unsound, diseased, unclean, injurious to health, or otherwise not capable of use as human food;\n\n(2) Consisting in whole or in part of any filthy, putrid, or decomposed substance;\n\n(3) Processed, prepared, packaged, or held under insanitary conditions whereby any poultry carcass or parts thereof or any poultry product has become contaminated, or whereby a poultry product has been rendered injurious to health;\n\n(4) Produced in whole or in part in such manner that the product contains any poisonous or deleterious substance which has rendered it injurious to health;\n\n(5) Produced in whole or in part from poultry that show evidence of disease or from poultry that have died otherwise than by slaughter;\n\n(6) Containing therein any poisonous or deleterious substance, unless such substance is permitted in production or unavoidable under processing practices as may be determined by rules of the department or other provisions of law limiting or tolerating the quantity of such added substance on or in such product;\n\n(7) Substituting any substance wholly or in part thereof;\n\n(8) Concealing in any manner damaged or inferior quality;\n\n(9) Bearing or containing (by reason of administering any substance to the live poultry or otherwise) any added poisonous or deleterious substance which, in the judgment of the director, may make such product unfit for human food;\n\n(10) Containing any substance which has been added thereto or mixed or packed therein so as to increase its bulk or weight, or reduce its quality or strength, or make it appear better or of greater value than it is.",
+      "id": "918.21-unwholesome",
+      "normalized": "unwholesome",
+      "scope": "As used in sections 918.21 to 918.31 of the Revised Code:",
+      "section": "918.21",
+      "source_title": "Section 918.21 - Licensing of poultry processing definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-918.21",
+      "term": "Unwholesome"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "918.21",
+      "number": "918.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-918.21"
+    },
+    {
+      "kind": "section",
+      "label": "918.31",
+      "number": "918.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-918.31"
+    },
+    {
+      "kind": "section",
+      "label": "918.12",
+      "number": "918.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-918.12"
+    }
+  ],
+  "scraped": "2026-07-02T19:34:19+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-918.21",
+  "title": "Section 918.21 - Licensing of poultry processing definitions."
+}

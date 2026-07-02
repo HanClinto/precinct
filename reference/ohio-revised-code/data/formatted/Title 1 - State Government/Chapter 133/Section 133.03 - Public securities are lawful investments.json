@@ -1,0 +1,42 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Principal amount\" means the aggregate of the amount as stated or provided for in the legislation authorizing the public obligations as the amount on which interest or interest equivalent is initially calculated.",
+      "id": "133.03-principal-amount",
+      "normalized": "principal amount",
+      "scope": "(G) As used in this chapter, with respect to public obligations:",
+      "section": "133.03",
+      "source_title": "Section 133.03 - Public securities are lawful investments.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-133.03",
+      "term": "Principal amount"
+    },
+    {
+      "definition": "(2) \"Principal payments\" means the payments of or on account of the principal amount as defined in division (G)(1) of this section.\n\n(H) Interest or interest equivalent on public obligations may be paid or compounded at such time as shall be provided in the legislation authorizing the public obligations.",
+      "id": "133.03-principal-payments",
+      "normalized": "principal payments",
+      "scope": "(G) As used in this chapter, with respect to public obligations:",
+      "section": "133.03",
+      "source_title": "Section 133.03 - Public securities are lawful investments.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-133.03",
+      "term": "Principal payments"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "9.96",
+      "number": "9.96",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-9.96"
+    },
+    {
+      "kind": "section",
+      "label": "133.13",
+      "number": "133.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.13"
+    }
+  ],
+  "scraped": "2026-07-02T19:31:49+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-133.03",
+  "title": "Section 133.03 - Public securities are lawful investments."
+}

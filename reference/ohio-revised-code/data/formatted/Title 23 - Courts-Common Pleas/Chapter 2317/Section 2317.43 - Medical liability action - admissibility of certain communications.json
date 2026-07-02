@@ -1,0 +1,76 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Health care provider\" has the same meaning as in division (B)(5) of section 2317.02 of the Revised Code.",
+      "id": "2317.43-health-care-provider",
+      "normalized": "health care provider",
+      "scope": "",
+      "section": "2317.43",
+      "source_title": "Section 2317.43 - Medical liability action - admissibility of certain communications.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2317.43",
+      "term": "Health care provider"
+    },
+    {
+      "definition": "(2) \"Relative\" means a victim's spouse, parent, grandparent, stepfather, stepmother, child, grandchild, brother, sister, half brother, half sister, or spouse's parents. The term includes said relationships that are created as a result of adoption. In addition, \"relative\" includes any person who has a family-type relationship with a victim.",
+      "id": "2317.43-relative",
+      "normalized": "relative",
+      "scope": "",
+      "section": "2317.43",
+      "source_title": "Section 2317.43 - Medical liability action - admissibility of certain communications.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2317.43",
+      "term": "Relative"
+    },
+    {
+      "definition": "(3) \"Representative of an alleged victim \" means a legal guardian, attorney, person designated to make decisions on behalf of a patient under a medical power of attorney, or any person recognized in law or custom as a patient's agent.",
+      "id": "2317.43-representative-of-an-alleged-victim",
+      "normalized": "representative of an alleged victim",
+      "scope": "",
+      "section": "2317.43",
+      "source_title": "Section 2317.43 - Medical liability action - admissibility of certain communications.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2317.43",
+      "term": "Representative of an alleged victim"
+    },
+    {
+      "definition": "(4) \"Representative of a health care provider\" means an attorney, health care provider, employee of a health care provider, or other person designated by a health care provider or an employee of a health care provider to participate in a review conducted by a health care provider or employee of a health care provider.",
+      "id": "2317.43-representative-of-a-health-care-provider",
+      "normalized": "representative of a health care provider",
+      "scope": "",
+      "section": "2317.43",
+      "source_title": "Section 2317.43 - Medical liability action - admissibility of certain communications.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2317.43",
+      "term": "Representative of a health care provider"
+    },
+    {
+      "definition": "(5) \"Review\" means the policy, procedures, and activities undertaken by or at the direction of a health care provider, employee of a health care provider, or person designated by a health care provider or employee of a health care provider with the purpose of determining the cause of or reasons for an unanticipated outcome, and initiated and completed during the first forty-five days following the occurrence or discovery of an unanticipated outcome. A review shall be initiated by verbal communication to the patient, relative of the patient, or representative of the patient by the health care provider, employee of a health care provider, or person designated by a health care provider or employee of a health care provider. The verbal communication shall be followed by a written document explaining the review process. A review may be extended for a longer period if necessary upon written notice to the patient, relative of the patient, or representative of the patient.",
+      "id": "2317.43-review",
+      "normalized": "review",
+      "scope": "",
+      "section": "2317.43",
+      "source_title": "Section 2317.43 - Medical liability action - admissibility of certain communications.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2317.43",
+      "term": "Review"
+    },
+    {
+      "definition": "(6) \"Unanticipated outcome\" means the outcome of a medical treatment or procedure that differs from an expected result or any outcome that is adverse or not satisfactory to the patient.",
+      "id": "2317.43-unanticipated-outcome",
+      "normalized": "unanticipated outcome",
+      "scope": "",
+      "section": "2317.43",
+      "source_title": "Section 2317.43 - Medical liability action - admissibility of certain communications.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2317.43",
+      "term": "Unanticipated outcome"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2317.02",
+      "number": "2317.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2317.02"
+    }
+  ],
+  "scraped": "2026-07-02T19:44:05+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2317.43",
+  "title": "Section 2317.43 - Medical liability action - admissibility of certain communications."
+}

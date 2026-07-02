@@ -1,0 +1,70 @@
+{
+  "glossary": [
+    {
+      "definition": "(D) \"Alternate valuation date\" means the date for valuation of a gross estate permitted by filing an election under this division. Whether or not an alternate valuation date election is available to an estate for federal estate tax purposes or, if available, is made for the estate, the value of the gross estate may be determined, if the person required to file the estate tax return so elects, by valuing all the property included in the gross estate on the alternate date, if any, provided in section 2032 (a) of the Internal Revenue Code as such section generally applies, for federal estate tax purposes, to the estates of persons dying on the decedent's date of death.\n\nNo deduction under this chapter of any item shall be allowed if allowance is, in effect, given by use of the alternate valuation date. In the determination of any tax liability of any estate in which an election is filed under this division, all provisions in this chapter that refer to value at the time of the decedent's death shall be construed for all purposes to mean the value of such property used in determining the value of the gross estate. For the purposes of the charitable deduction under section 5731.17 of the Revised Code, any bequest, legacy, devise, or transfer enumerated in it shall be valued as of the date of the decedent's death with adjustment for any difference in value, not due to mere lapse of time or the occurrence or nonoccurrence of a contingency, of the property as of the date six months after the decedent's death, or in case of its earlier disposition, on such date of disposition.\n\nAn election under this division shall be exercised on the estate tax return by the person required to file the return. When made, an election under this division is irrevocable. An election cannot be exercised under this division if a return is filed more than one year after the time prescribed, including any extensions of time granted, pursuant to law for filing the return.",
+      "id": "5731.01-alternate-valuation-date",
+      "normalized": "alternate valuation date",
+      "scope": "As used in this chapter:",
+      "section": "5731.01",
+      "source_title": "Section 5731.01 - Estate tax definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5731.01",
+      "term": "Alternate valuation date"
+    },
+    {
+      "definition": "(E) Unless otherwise indicated by the context, \"county\" means one of the following:\n\n(1) The county in which the decedent's estate is administered;\n\n(2) If no administration of the decedent's estate is being had, the county of residence of the decedent at the time of death;\n\n(3) If the decedent dies a resident of another state, any county in which any property subject to tax is located.",
+      "id": "5731.01-county",
+      "normalized": "county",
+      "scope": "As used in this chapter:",
+      "section": "5731.01",
+      "source_title": "Section 5731.01 - Estate tax definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5731.01",
+      "term": "county"
+    },
+    {
+      "definition": "(F) \"Internal Revenue Code\" means the \"Internal Revenue Code of 1986,\" 100 Stat. 2085, 26 U.S.C. 1, as amended.",
+      "id": "5731.01-internal-revenue-code",
+      "normalized": "internal revenue code",
+      "scope": "As used in this chapter:",
+      "section": "5731.01",
+      "source_title": "Section 5731.01 - Estate tax definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5731.01",
+      "term": "Internal Revenue Code"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "5731.03",
+      "number": "5731.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5731.03"
+    },
+    {
+      "kind": "section",
+      "label": "5731.131",
+      "number": "5731.131",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5731.131"
+    },
+    {
+      "kind": "section",
+      "label": "5731.011",
+      "number": "5731.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5731.011"
+    },
+    {
+      "kind": "section",
+      "label": "5731.26",
+      "number": "5731.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5731.26"
+    },
+    {
+      "kind": "section",
+      "label": "5731.17",
+      "number": "5731.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5731.17"
+    }
+  ],
+  "scraped": "2026-07-02T20:15:00+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5731.01",
+  "title": "Section 5731.01 - Estate tax definitions."
+}

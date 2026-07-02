@@ -1,0 +1,54 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Natural gas service\" means the sale of natural gas, exclusive of any distribution or ancillary service.",
+      "id": "4905.72-natural-gas-service",
+      "normalized": "natural gas service",
+      "scope": "(A) As used in this section:",
+      "section": "4905.72",
+      "source_title": "Section 4905.72 - Changes in provider of natural gas service or public telecommunications service to consumer.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4905.72",
+      "term": "Natural gas service"
+    },
+    {
+      "definition": "(2) \"Public telecommunications service\" means the transmission by a telephone company, by electromagnetic or other means, of signs, signals, writings, images, sounds, messages, or data originating in this state regardless of actual call routing, but does not include a system, including its construction, maintenance, or operation, for the provision of telecommunications service, or any portion of such service, by any entity for the sole and exclusive use of that entity, its parent, a subsidiary, or an affiliated entity, and not for resale, directly or indirectly; the provision of terminal equipment used to originate telecommunications service; broadcast transmission by radio, television, or satellite broadcast stations regulated by the federal government; or cable television service.\n\n(B)(1) No public utility shall request or submit, or cause to be requested or submitted, a change in the provider of natural gas service or public telecommunications service to a consumer in this state, without first obtaining, or causing to be obtained, the verified consent of the consumer in accordance with rules adopted by the public utilities commission pursuant to division (D) of this section.\n\n(2) No public utility shall violate or fail to comply with any provision of a rule adopted by the commission pursuant to division (D) of this section or any provision of an order issued by the commission pursuant to division (B) or (C) of section 4905.73 of the Revised Code.\n\n(C)(1) Division (B) of this section does not apply to the transfer of a customer's natural gas service or public telecommunications service that occurs solely due to the operation of default provisions in the schedule of a public utility filed under section 4905.30 of the Revised Code.\n\n(2) Consistent with the exclusion, under 47 C.F.R. 64.1100 (a)(3), of commercial mobile radio service providers from the verification requirements adopted in 47 C.F.R. 64.1100, 64.1150, 64.1160, 64.1170, 64.1180, and 64.1190 by the federal communications commission, division (B) of this section does not apply to a provider of commercial mobile radio service insofar as such provider is engaged in the provision of commercial mobile radio service. However, when that exclusion no longer is in effect, division (B) of this section shall apply to such a provider, and the commission shall adopt rules applicable to such a provider in accordance with division (D) of this section.\n\n(D) The commission shall adopt competitively neutral rules prescribing procedures necessary for verifying the consent of a consumer for purposes of division (B)(1) of this section and any procedures necessary for the filing of a security under division (C)(5) of section 4905.73 of the Revised Code, and may adopt such other competitively neutral rules as the commission considers necessary to carry out this section and section 4905.73 of the Revised Code. With respect to public telecommunications service only, the rules prescribing procedures necessary for verifying consumer consent shall be consistent with the rules of the federal communications commission in 47 C.F.R. 64.1100 and 64.1150 .",
+      "id": "4905.72-public-telecommunications-service",
+      "normalized": "public telecommunications service",
+      "scope": "(A) As used in this section:",
+      "section": "4905.72",
+      "source_title": "Section 4905.72 - Changes in provider of natural gas service or public telecommunications service to consumer.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4905.72",
+      "term": "Public telecommunications service"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "4905.73",
+      "number": "4905.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.73"
+    },
+    {
+      "kind": "section",
+      "label": "4905.30",
+      "number": "4905.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.30"
+    },
+    {
+      "kind": "section",
+      "label": "64.1100",
+      "number": "64.1100",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-64.1100"
+    },
+    {
+      "kind": "section",
+      "label": "64.1150",
+      "number": "64.1150",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-64.1150"
+    }
+  ],
+  "scraped": "2026-07-02T20:09:00+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4905.72",
+  "title": "Section 4905.72 - Changes in provider of natural gas service or public telecommunications service to consumer."
+}

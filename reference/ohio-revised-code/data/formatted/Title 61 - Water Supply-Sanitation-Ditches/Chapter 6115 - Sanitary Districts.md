@@ -1,0 +1,94 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-6115
+Scraped: 2026-07-02T20:17:22+00:00
+
+# Chapter 6115 - Sanitary Districts
+
+## Sections
+
+- Section 6115.01 - Sanitary district definitions.
+- Section 6115.02 - Sanitary district tax books and records.
+- Section 6115.03 - Jurisdiction, evidence, forms establishing sanitary district.
+- Section 6115.04 - Establishment and purpose of sanitary districts.
+- Section 6115.05 - Petition for establishment of sanitary district.
+- Section 6115.06 - Bond for expenses to be filed with petition.
+- Section 6115.07 - Notice of petition and hearing - jurisdiction.
+- Section 6115.08 - Hearing - order establishing district.
+- Section 6115.09 - Filing and recording findings and decree of incorporation of district.
+- Section 6115.10 - Appointment of directors.
+- Section 6115.101 - Directors of sanitary district organized wholly for reduction of populations of biting arthropods.
+- Section 6115.102 - Sanitary district advisory council for sanitary district organized wholly for reduction of populations of biting arthropods.
+- Section 6115.103 - Directors of sanitary district organized wholly for purpose of providing water supply.
+- Section 6115.104 - Sanitary district advisory council for sanitary district organized wholly for purpose of providing water supply.
+- Section 6115.11 - Oath, bond of director.
+- Section 6115.12 - Seal - records - transcripts of meetings.
+- Section 6115.13 - President of board - temporary director - quorum.
+- Section 6115.14 - Secretary - executive director - chief engineer - treasurer - attorney - employees.
+- Section 6115.141 - Certificate of available funds.
+- Section 6115.15 - Plans for sewage or other liquid waste or treatment or disposal works submitted to board.
+- Section 6115.16 - Improvement plan approval and execution.
+- Section 6115.17 - Right of entry for surveys and examinations.
+- Section 6115.18 - Powers and duties of board of directors.
+- Section 6115.19 - Improvement plan for district organized to provide water supply.
+- Section 6115.191 - Assessing interest on unpaid balance of water supply payments.
+- Section 6115.20 - Contract bidding procedures.
+- Section 6115.201 - Sanitary district contract requirements.
+- Section 6115.21 - Dominant right of eminent domain.
+- Section 6115.22 - Condemnation of land or property.
+- Section 6115.221 - Appropriation of property for sewer construction to address public health nuisance.
+- Section 6115.23 - Regulations, approval and enforcement.
+- Section 6115.24 - Regulations for sanitary district organized wholly for reduction of populations of biting arthropods.
+- Section 6115.25 - Removal of physical obstructions in, over, or upon public streets, lanes, alleys, or highways.
+- Section 6115.26 - Surveys and examinations of rainfall, stream flow.
+- Section 6115.27 - Cooperation or assistance by U.S. government or other governmental entity.
+- Section 6115.28 - Taking or damage to cemetery.
+- Section 6115.29 - Board of appraisers of sanitary district.
+- Section 6115.30 - Appraisals of compensation and damages.
+- Section 6115.31 - Appraisals of compensation and damages beyond the boundaries of district.
+- Section 6115.32 - Notice of hearing of land to be included or excluded from district.
+- Section 6115.321 - Exclusion of territory from sanitary district established for the reduction of biting arthropods.
+- Section 6115.33 - Sanitary district appraisal record.
+- Section 6115.34 - Notice of hearing on appraisals.
+- Section 6115.35 - Filing exceptions to reports or appraisals.
+- Section 6115.36 - Court approval, confirmation or return of plan.
+- Section 6115.37 - Appeal of award as to compensation or damages.
+- Section 6115.38 - Possession of property after verdict and award.
+- Section 6115.39 - Certified copy of the decree.
+- Section 6115.40 - Alterations or additions to official plan.
+- Section 6115.41 - Appeal not to delay action or prosecution of work.
+- Section 6115.42 - Appraisal and assessment of lands losing tax exemption.
+- Section 6115.43 - Appraising lands not at first included within the boundaries of district.
+- Section 6115.44 - Immaterial irregularities or defects.
+- Section 6115.45 - Sanitary district funds.
+- Section 6115.46 - Preliminary costs and expenses to be repaid.
+- Section 6115.47 - Borrowing power of board of directors.
+- Section 6115.48 - Sanitary district assessment record.
+- Section 6115.49 - Assessment payments.
+- Section 6115.50 - Bonds in anticipation of the levy and collection of special assessments.
+- Section 6115.51 - Treasurer's duties - bonds - investments.
+- Section 6115.52 - Revenue obligations issued to pay costs arising from execution of official plan.
+- Section 6115.53 - Sanitary district maintenance assessment - sale of water.
+- Section 6115.54 - Readjustment of appraisal of benefits for more equitable basis for levy of maintenance assessment.
+- Section 6115.55 - Annual levy - certificate.
+- Section 6115.56 - Collection of assessments.
+- Section 6115.57 - Bond of county treasurer for probable amount of assessments.
+- Section 6115.58 - Sanitary district assessments and taxes constitute a lien.
+- Section 6115.59 - Suits for the collection of delinquent taxes or assessments.
+- Section 6115.60 - Procedures for levying, collection, and distribution of assessments.
+- Section 6115.61 - Appropriation of fund of water department for payment of assessments or water charges.
+- Section 6115.62 - Retirement of principal and interest on bonds.
+- Section 6115.63 - Failure to pay over assessments.
+- Section 6115.64 - Surplus funds - reports to court and advisory council.
+- Section 6115.65 - Compensation, expenses - salaries of extra clerical force.
+- Section 6115.66 - Land in more than one sanitary district.
+- Section 6115.67 - Conflicts in jurisdiction.
+- Section 6115.68 - Union of districts.
+- Section 6115.69 - Subdistricts established and organized.
+- Section 6115.70 - Remedies for injuries.
+- Section 6115.71 - Protection of district works.
+- Section 6115.72 - Removal of officers or employees.
+- Section 6115.73 - Enforcement by mandamus.
+- Section 6115.74 - Correction of defective notice.
+- Section 6115.75 - Question of the validity of the organization of sanitary districts.
+- Section 6115.77 - Liability for damages to district works.
+- Section 6115.79 - Substantial requirements for forms.
+- Section 6115.99 - Penalty.

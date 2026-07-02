@@ -1,0 +1,74 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Grain\" means wheat, barley, rye, or oats.",
+      "id": "924.20-grain",
+      "normalized": "grain",
+      "scope": "As used in sections 924.20 to 924.30 of the Revised Code:",
+      "section": "924.20",
+      "source_title": "Section 924.20 - Grain marketing program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-924.20",
+      "term": "Grain"
+    },
+    {
+      "definition": "(B) \"Handler\" means a person who is in the business of agricultural commodity handling, as defined in section 926.01 of the Revised Code, of grain.",
+      "id": "924.20-handler",
+      "normalized": "handler",
+      "scope": "As used in sections 924.20 to 924.30 of the Revised Code:",
+      "section": "924.20",
+      "source_title": "Section 924.20 - Grain marketing program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-924.20",
+      "term": "Handler"
+    },
+    {
+      "definition": "(C) \"Producer\" means a person who is in the business of producing, or causing to be produced, grain for commercial sale.",
+      "id": "924.20-producer",
+      "normalized": "producer",
+      "scope": "As used in sections 924.20 to 924.30 of the Revised Code:",
+      "section": "924.20",
+      "source_title": "Section 924.20 - Grain marketing program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-924.20",
+      "term": "Producer"
+    },
+    {
+      "definition": "(D) \"Rule\" means a rule adopted under section 924.25 of the Revised Code.",
+      "id": "924.20-rule",
+      "normalized": "rule",
+      "scope": "As used in sections 924.20 to 924.30 of the Revised Code:",
+      "section": "924.20",
+      "source_title": "Section 924.20 - Grain marketing program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-924.20",
+      "term": "Rule"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "924.20",
+      "number": "924.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-924.20"
+    },
+    {
+      "kind": "section",
+      "label": "924.30",
+      "number": "924.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-924.30"
+    },
+    {
+      "kind": "section",
+      "label": "926.01",
+      "number": "926.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-926.01"
+    },
+    {
+      "kind": "section",
+      "label": "924.25",
+      "number": "924.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-924.25"
+    }
+  ],
+  "scraped": "2026-07-02T19:34:21+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-924.20",
+  "title": "Section 924.20 - Grain marketing program definitions."
+}

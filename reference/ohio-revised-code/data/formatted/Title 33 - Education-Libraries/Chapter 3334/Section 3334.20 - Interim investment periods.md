@@ -1,0 +1,18 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3334.20
+Scraped: 2026-07-02T19:49:31+00:00
+
+# Section 3334.20 - Interim investment periods.
+
+**Effective:** March 30, 2018
+
+**Latest Legislation:** Senate Bill 22 - 132nd General Assembly
+
+(A) As used in this section, "state agency" means every department, bureau, board, commission, office, or other organized body established by the constitution or laws of this state for the exercise of state government.
+
+(B) If a condition arises concerning the investment of funds received under the variable college savings program and requiring an interim period for investment of program funds, which condition is determined pursuant to division (D) of this section, the Ohio tuition trust authority shall choose the treasurer of state, a state agency having investment authority, or an investment agent under contract with the authority to invest program funds pursuant to the investment plan established under division (A) of section 3334.19 of the Revised Code. The treasurer of state, state agency, or investment agent chosen by the authority pursuant to this division shall be subject to the requirements and conditions that apply to investment agents specified in section 3334.19 of the Revised Code.
+
+(C) The authority shall be the trustee of the program. During the interim period, the authority shall receive and hold all payments, deposits, and contributions, as well as gifts, bequests, endowments, and federal, state, or local grants and any funds from any other source, public or private, and all earnings, until disbursed to pay higher education expenses or refunds pursuant to college savings plans contracts. The authority shall keep such funds segregated from all other assets of the authority.
+
+(D) The authority shall adopt rules under section 111.15 of the Revised Code defining the conditions under which an interim investment period is required and this section applies. The rules shall include any condition requiring the termination of the interim period and the authority to contract with alternative investment agents pursuant to section 3334.19 of the Revised Code and any other requirements that apply during the interim investment period.
+
+(E) When the interim period for investment of program funds terminates, the investment agents selected pursuant to section 3334.19 of the Revised Code for the investment of program funds shall have the sole authority to invest program funds pursuant to the investment plan established under division (A) of that section and shall be subject to that section.

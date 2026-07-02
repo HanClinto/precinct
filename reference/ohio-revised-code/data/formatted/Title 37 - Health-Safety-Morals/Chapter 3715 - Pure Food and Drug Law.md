@@ -1,0 +1,92 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-3715
+Scraped: 2026-07-02T19:51:23+00:00
+
+# Chapter 3715 - Pure Food and Drug Law
+
+## Sections
+
+- Section 3715.01 - Pure food and drug law definitions.
+- Section 3715.011 - Effect of changes to federal law.
+- Section 3715.02 - Definitions for food or class of food and standards.
+- Section 3715.021 - Standards and good manufacturing practices for food processing establishments.
+- Section 3715.022 - Standards for food sampling and procedures for administration.
+- Section 3715.023 - Labels for cottage food production operation, processor, or beekeeper.
+- Section 3715.024 - Voluntary inspection of processor's or beekeeper's facilities.
+- Section 3715.025 - Restrictions on cottage food production operation.
+- Section 3715.03 - Right of entry.
+- Section 3715.04 - Certificate of health and freesale - inspection - fee.
+- Section 3715.041 - Registration of food processing establishments.
+- Section 3715.05 - Sale of pseudoephedrine or ephedrine product.
+- Section 3715.051 - Log of all purchases of pseudoephedrine or ephedrine products.
+- Section 3715.052 - Submission of information regarding non-prescription sales of pseudoephedrine or ephedrine products.
+- Section 3715.053 - Exemptions.
+- Section 3715.054 - Liability for damages due to sale of pseudoephedrine or ephedrine products.
+- Section 3715.06 - Discovery of theft or loss of pseudoephedrine product.
+- Section 3715.07 - Standards for flavoring extracts.
+- Section 3715.13 - Sale of diphtheria antitoxin.
+- Section 3715.171 - Date labels for perishable foods.
+- Section 3715.22 - Prohibition against slaughter or sale for human consumption of calf less than four weeks old - confiscation of carcass.
+- Section 3715.23 - Manufacture and sale of adulterated candy - sample for analysis.
+- Section 3715.24 - Maple product standards and grades.
+- Section 3715.25 - Prohibited acts regarding maple products.
+- Section 3715.27 - Cider manufacturing and labeling.
+- Section 3715.28 - Vinegar.
+- Section 3715.29 - Cider or apple vinegar.
+- Section 3715.30 - Wine or grape vinegar.
+- Section 3715.31 - Malt vinegar.
+- Section 3715.32 - Distilled vinegar.
+- Section 3715.33 - Fermented vinegar.
+- Section 3715.34 - [Former R.C. 3715.36, amended and renumbered by H.B. 507, 134th General Assembly, effective 4/7/2023] Prohibition against selling vinegar not made or branded in compliance with law.
+- Section 3715.38 - Prohibitions regarding honey.
+- Section 3715.50 - Overdose reversal drugs definitions.
+- Section 3715.501 - Overdose reversal drugs prescribed or furnished without examination.
+- Section 3715.502 - [Former R.C. 4729.44, amended and renumbered by H.B. 558, 134th General Assembly, effective 4/6/2023] Protocols authorizing pharmacists, pharmacy interns to dispense overdose reversal drugs.
+- Section 3715.503 - Protocols to authorize personally furnishing overdose reversal drugs.
+- Section 3715.504 - Administering overdose reversal drugs.
+- Section 3715.505 - [Former R.C. 4765.44, amended and renumbered by H.B. 558, 134th General Assembly, effective 4/6/2023] Disclosure to law enforcement agency related to administration of overdose reversal drug.
+- Section 3715.52 - Prohibited acts.
+- Section 3715.521 - Prohibition against sale or delivery of expired drug, infant formula or baby food.
+- Section 3715.53 - Injunctions.
+- Section 3715.54 - Exceptions to liability.
+- Section 3715.55 - Notice of adulteration, misbranding, or expiration.
+- Section 3715.551 - Embargo of food.
+- Section 3715.56 - Attorney general, prosecuting attorney or city director of law to institute proceedings and prosecutions.
+- Section 3715.57 - Written notice or warning for minor violations sufficient.
+- Section 3715.59 - When food is adulterated.
+- Section 3715.60 - Misbranded food.
+- Section 3715.601 - Definitions.
+- Section 3715.602 - Misbranding of meat and egg products.
+- Section 3715.603 - Inspection.
+- Section 3715.604 - Notice of adulteration, misbranding, or expiration.
+- Section 3715.605 - Civil penalties.
+- Section 3715.61 - Director of agriculture - powers regarding permits.
+- Section 3715.62 - Unsafe food.
+- Section 3715.63 - When drug or device is adulterated.
+- Section 3715.64 - Misbranded drug or device.
+- Section 3715.65 - Application for new drug required.
+- Section 3715.66 - Adulterated cosmetics.
+- Section 3715.67 - Misbranded cosmetics.
+- Section 3715.68 - False or misleading advertisement.
+- Section 3715.69 - Adoption of rules for enforcement.
+- Section 3715.70 - Right of entry - examination of samples.
+- Section 3715.71 - Publication of reports - dissemination of information.
+- Section 3715.72 - Administrative procedure - exceptions.
+- Section 3715.73 - Fines or forfeited bonds to be paid into state treasury.
+- Section 3715.74 - Governor may declare adulterated consumer product emergency.
+- Section 3715.80 - Dietary supplement defined.
+- Section 3715.81 - Dietary supplement to be treated as a food.
+- Section 3715.82 - Adoption of rules.
+- Section 3715.83 - Dietary supplement considered to be adulterated.
+- Section 3715.84 - Requirements for labeling - misbranding.
+- Section 3715.85 - Publication used in connection with sale to consumers of dietary supplement.
+- Section 3715.86 - Dietary supplement not considered food additive.
+- Section 3715.87 - Drug repository program for donated prescription drugs - definitions.
+- Section 3715.871 - Drugs must be donated at pharmacy, hospital, or nonprofit clinic participating in program.
+- Section 3715.872 - Immunity.
+- Section 3715.873 - Adoption of rules.
+- Section 3715.88 - Dangerous drug donation definitions.
+- Section 3715.89 - Dangerous drug donation requirements.
+- Section 3715.90 - Pharmacy school acceptance of dangerous drug donations.
+- Section 3715.91 - Dangerous drug donation implementing rules.
+- Section 3715.92 - Immunity of pharmacy school accepting dangerous drugs.
+- Section 3715.99 - Penalty.

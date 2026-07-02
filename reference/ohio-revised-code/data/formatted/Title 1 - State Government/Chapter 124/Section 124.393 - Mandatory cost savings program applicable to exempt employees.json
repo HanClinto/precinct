@@ -1,0 +1,64 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Exempt employee\" means a permanent full-time or permanent part-time county, township, or municipal corporation employee who is not subject to a collective bargaining agreement between a public employer and an exclusive representative.",
+      "id": "124.393-exempt-employee",
+      "normalized": "exempt employee",
+      "scope": "(A) As used in this section:",
+      "section": "124.393",
+      "source_title": "Section 124.393 - Mandatory cost savings program applicable to exempt employees.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-124.393",
+      "term": "Exempt employee"
+    },
+    {
+      "definition": "(2) \"Fiscal emergency\" means any of the following:\n\n(a) A fiscal emergency declared by the governor under section 126.05 of the Revised Code.\n\n(b) A fiscal watch or fiscal emergency has been declared or determined under section 118.023 or 118.04 of the Revised Code.\n\n(c) Lack of funds as defined in section 124.321 of the Revised Code.\n\n(d) Reasons of economy as described in section 124.321 of the Revised Code.",
+      "id": "124.393-fiscal-emergency",
+      "normalized": "fiscal emergency",
+      "scope": "(A) As used in this section:",
+      "section": "124.393",
+      "source_title": "Section 124.393 - Mandatory cost savings program applicable to exempt employees.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-124.393",
+      "term": "Fiscal emergency"
+    },
+    {
+      "definition": "(3) \"Lack of work\" has the same meaning as in section 124.321 of the Revised Code.\n\n(B)(1) A county, township, or municipal corporation appointing authority may establish a mandatory cost savings program applicable to its exempt employees. Each exempt employee shall participate in the program of mandatory cost savings for not more than eighty hours, as determined by the appointing authority, in each of state fiscal years 2010 to 2013. The program may include, but is not limited to, a loss of pay or loss of holiday pay. The program may be administered differently among employees based on their classifications, appointment categories, or other relevant distinctions.\n\n(2) After June 30, 2013, a county, township, or municipal corporation appointing authority may implement mandatory cost savings days as described in division (B)(1) of this section that apply to its exempt employees in the event of a fiscal emergency.\n\n(C) A county, township, or municipal corporation appointing authority shall issue guidelines concerning how the appointing authority will implement the cost savings program.\n\n(D)(1) A county, township, or municipal corporation appointing authority may establish a mandatory cost savings program applicable to its exempt employees in the event of a fiscal emergency or lack of work due to COVID-19. Each exempt employee shall participate in the program of mandatory cost savings for not more than one hundred sixty hours, as determined by the appointing authority, in state fiscal year 2021. The program may include, but is not limited to, a loss of pay or loss of holiday pay. The program may be administered differently among employees based on their classifications, appointment categories, or other relevant distinctions.\n\n(2) A county, township, or municipal corporation appointing authority that establishes a mandatory cost savings program under division (D)(1) of this section shall issue guidelines concerning how the appointing authority will implement the cost savings program.",
+      "id": "124.393-lack-of-work",
+      "normalized": "lack of work",
+      "scope": "(A) As used in this section:",
+      "section": "124.393",
+      "source_title": "Section 124.393 - Mandatory cost savings program applicable to exempt employees.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-124.393",
+      "term": "Lack of work"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "126.05",
+      "number": "126.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-126.05"
+    },
+    {
+      "kind": "section",
+      "label": "118.023",
+      "number": "118.023",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-118.023"
+    },
+    {
+      "kind": "section",
+      "label": "118.04",
+      "number": "118.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-118.04"
+    },
+    {
+      "kind": "section",
+      "label": "124.321",
+      "number": "124.321",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.321"
+    }
+  ],
+  "scraped": "2026-07-02T19:31:40+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-124.393",
+  "title": "Section 124.393 - Mandatory cost savings program applicable to exempt employees."
+}

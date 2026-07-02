@@ -1,0 +1,14 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3745.013
+Scraped: 2026-07-02T20:00:55+00:00
+
+# Section 3745.013 - Goods and services fund.
+
+**Effective:** July 1, 1989
+
+**Latest Legislation:** House Bill 111 - 118th General Assembly
+
+Except for those moneys specifically required by law to be credited to another fund, all moneys received by the environmental protection agency from the sale of goods or services shall be credited to the sale of goods and services fund which is hereby created in the state treasury. Moneys credited to the fund shall include:
+
+(A) Moneys received pursuant to service agreements between programs or activities of the environmental protection agency under which one program or activity within the agency provides goods or services to another program or activity within the agency and moneys received pursuant to service agreements between the environmental protection agency and other state agencies under which the environmental protection agency provides goods or services to other state agencies. The goods and services provided pursuant to any such service agreement shall be documented on an invoice prescribed by the director of environmental protection. The invoice shall include, without limitation, the number of hours worked by personnel of the environmental protection agency, and any supplies and necessary equipment used, to perform the work prescribed by the service agreement and the costs thereof. Payment of the amount set forth on the invoice shall be made to the program or activity of the environmental protection agency providing the goods or services under the service agreement within thirty days after delivery of the invoice for payment to the appropriate program or activity within the agency, or the other state agency, receiving the goods or services under the agreement. Moneys credited to the fund under this division shall be expended to defray the costs of the programs and activities of the environmental protection agency.
+
+(B) Moneys received by the environmental protection agency from the salvaging of equipment of the agency through the state's investment recovery program under sections 125.12 to 125.15 of the Revised Code. Notwithstanding section 125.14 of the Revised Code, moneys credited to the investment recovery fund created in that section arising from the sale or other disposition of equipment of the environmental protection agency shall be transferred to the goods and services fund. Moneys credited to the goods and services fund under this division shall be used by the agency to purchase equipment for the agency or to reimburse the United States environmental protection agency for the portion of the salvage amount due it because federal moneys were used to make the original purchase of the equipment.

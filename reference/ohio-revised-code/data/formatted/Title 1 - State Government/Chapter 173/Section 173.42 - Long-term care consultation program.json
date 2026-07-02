@@ -1,0 +1,266 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Area agency on aging\" means a public or private nonprofit entity designated under section 173.011 of the Revised Code to administer programs on behalf of the department of aging.",
+      "id": "173.42-area-agency-on-aging",
+      "normalized": "area agency on aging",
+      "scope": "(A) As used in sections 173.42 to 173.434 of the Revised Code:",
+      "section": "173.42",
+      "source_title": "Section 173.42 - Long-term care consultation program.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-173.42",
+      "term": "Area agency on aging"
+    },
+    {
+      "definition": "(2) \"Department of aging-administered medicaid waiver component\" means each of the following:\n\n(a) The medicaid-funded component of the PASSPORT program created under section 173.52 of the Revised Code;\n\n(b) The medicaid-funded component of the assisted living program created under section 173.54 of the Revised Code;\n\n(c) Any other medicaid waiver component, as defined in section 5166.01 of the Revised Code, that the department of aging administers pursuant to an interagency agreement with the department of medicaid under section 5162.35 of the Revised Code.",
+      "id": "173.42-department-of-aging-administered-medicaid-waiver-component",
+      "normalized": "department of aging-administered medicaid waiver component",
+      "scope": "(A) As used in sections 173.42 to 173.434 of the Revised Code:",
+      "section": "173.42",
+      "source_title": "Section 173.42 - Long-term care consultation program.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-173.42",
+      "term": "Department of aging-administered medicaid waiver component"
+    },
+    {
+      "definition": "(3) \"Home and community-based services covered by medicaid components the department of aging administers\" means all of the following:\n\n(a) Medicaid waiver services available to a participant in a department of aging-administered medicaid waiver component;\n\n(b) The following medicaid state plan services available to a participant in a department of aging-administered medicaid waiver component as specified in rules adopted under section 5164.02 of the Revised Code:\n\n(i) Home health services;\n\n(ii) Private duty nursing services;\n\n(iii) Durable medical equipment;\n\n(iv) Services of a clinical nurse specialist;\n\n(v) Services of a certified nurse practitioner.\n\n(c) Services available to a participant of the PACE program.",
+      "id": "173.42-home-and-community-based-services-covered-by-medicaid-components-the-department-of-aging-administers",
+      "normalized": "home and community-based services covered by medicaid components the department of aging administers",
+      "scope": "(A) As used in sections 173.42 to 173.434 of the Revised Code:",
+      "section": "173.42",
+      "source_title": "Section 173.42 - Long-term care consultation program.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-173.42",
+      "term": "Home and community-based services covered by medicaid components the department of aging administers"
+    },
+    {
+      "definition": "(4) \"Long-term care consultation\" or \"consultation\" means the consultation service made available by the department of aging or a program administrator through the long-term care consultation program established pursuant to this section.",
+      "id": "173.42-long-term-care-consultation",
+      "normalized": "long-term care consultation",
+      "scope": "(A) As used in sections 173.42 to 173.434 of the Revised Code:",
+      "section": "173.42",
+      "source_title": "Section 173.42 - Long-term care consultation program.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-173.42",
+      "term": "Long-term care consultation"
+    },
+    {
+      "definition": "(4) \"Long-term care consultation\" or \"consultation\" means the consultation service made available by the department of aging or a program administrator through the long-term care consultation program established pursuant to this section.",
+      "id": "173.42-consultation",
+      "normalized": "consultation",
+      "scope": "(A) As used in sections 173.42 to 173.434 of the Revised Code:",
+      "section": "173.42",
+      "source_title": "Section 173.42 - Long-term care consultation program.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-173.42",
+      "term": "consultation"
+    },
+    {
+      "definition": "(5) \"Nursing facility\" has the same meaning as in section 5165.01 of the Revised Code.",
+      "id": "173.42-nursing-facility",
+      "normalized": "nursing facility",
+      "scope": "(A) As used in sections 173.42 to 173.434 of the Revised Code:",
+      "section": "173.42",
+      "source_title": "Section 173.42 - Long-term care consultation program.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-173.42",
+      "term": "Nursing facility"
+    },
+    {
+      "definition": "(6) \"PACE program\" means the component of the medicaid program the department of aging administers pursuant to section 173.50 of the Revised Code.",
+      "id": "173.42-pace-program",
+      "normalized": "pace program",
+      "scope": "(A) As used in sections 173.42 to 173.434 of the Revised Code:",
+      "section": "173.42",
+      "source_title": "Section 173.42 - Long-term care consultation program.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-173.42",
+      "term": "PACE program"
+    },
+    {
+      "definition": "(7) \"PASSPORT administrative agency\" means an entity under contract with the department of aging to provide administrative services regarding the PASSPORT program.",
+      "id": "173.42-passport-administrative-agency",
+      "normalized": "passport administrative agency",
+      "scope": "(A) As used in sections 173.42 to 173.434 of the Revised Code:",
+      "section": "173.42",
+      "source_title": "Section 173.42 - Long-term care consultation program.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-173.42",
+      "term": "PASSPORT administrative agency"
+    },
+    {
+      "definition": "(8) \"Program administrator\" means an area agency on aging or other entity under contract with the department of aging to administer the long-term care consultation program in a geographic region specified in the contract.",
+      "id": "173.42-program-administrator",
+      "normalized": "program administrator",
+      "scope": "(A) As used in sections 173.42 to 173.434 of the Revised Code:",
+      "section": "173.42",
+      "source_title": "Section 173.42 - Long-term care consultation program.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-173.42",
+      "term": "Program administrator"
+    },
+    {
+      "definition": "(9) \"Representative\" means a person acting on behalf of an individual who is the subject of a long-term care consultation. A representative may be a family member, attorney, hospital social worker, or any other person chosen to act on behalf of the individual.\n\n(B) The department of aging shall develop a long-term care consultation program whereby individuals or their representatives are provided with long-term care consultations and receive through these professional consultations information about options available to meet long-term care needs and information about factors to consider in making long-term care decisions. The long-term care consultations may be provided at any appropriate time, including either prior to or after the individual who is the subject of a consultation has been admitted to a nursing facility or granted assistance in receiving home and community-based services covered by medicaid components the department of aging administers.\n\n(C) The long-term care consultation program shall be administered by the department of aging, except that the department may have the program administered on a regional basis by one or more program administrators. The department and each program administrator shall administer the program in such a manner that all of the following are included:\n\n(1) Coordination and collaboration with respect to all available funding sources for long-term care services;\n\n(2) Assessments of individuals regarding their long-term care service needs;\n\n(3) Assessments of individuals regarding their on-going eligibility for long-term care services;\n\n(4) Procedures for assisting individuals in obtaining access to, and coordination of, health and supportive services, including department of aging-administered medicaid waiver components;\n\n(5) Priorities for using available resources efficiently and effectively.\n\n(D) The program's long-term care consultations shall be provided by individuals certified by the department under section 173.422 of the Revised Code.\n\n(E) The information provided through a long-term care consultation shall be appropriate to the individual's needs and situation and shall address all of the following:\n\n(1) The availability of any long-term care options open to the individual;\n\n(2) Sources and methods of both public and private payment for long-term care services;\n\n(3) Factors to consider when choosing among the available programs, services, and benefits;\n\n(4) Opportunities and methods for maximizing independence and self-reliance, including support services provided by the individual's family, friends, and community;\n\n(5) If the individual is a veteran, as defined in section 5901.01 of the Revised Code, or the spouse, surviving spouse, or representative of the veteran, both of the following:\n\n(a) The availability of health care or financial benefits through the United States department of veterans affairs;\n\n(b) Information about congressionally chartered veterans service organizations or the county veterans service office that can assist with investigating and applying for benefits through the United States department of veterans affairs.\n\n(F) An individual's long-term care consultation may include an assessment of the individual's functional capabilities. The consultation may incorporate portions of the determinations required under sections 5119.40 , 5123.021 , and 5165.03 of the Revised Code and may be provided concurrently with the assessment required under section 173.546 or 5165.04 of the Revised Code.\n\n(G) Except as provided in division (I) of this section, a long-term care consultation shall be provided to each individual for whom the department or a program administrator determines such a consultation is appropriate.\n\n(H) A long-term care consultation shall be completed within the applicable time frames specified in rules adopted under this section.\n\n(I) An individual is not required to be provided a long-term care consultation if any of the following is the case:\n\n(1) The department or a program administrator has attempted to provide the consultation, but the individual or the individual's representative refuses to cooperate;\n\n(2) The individual is to receive care in a nursing facility under a contract for continuing care, as defined in section 173.13 of the Revised Code;\n\n(3) The individual has a contractual right to admission to a nursing facility operated as part of a system of continuing care in conjunction with one or more facilities that provide a less intensive level of services, including a residential care facility licensed under Chapter 3721. of the Revised Code, a residential facility licensed under section 5119.34 of the Revised Code that provides accommodations, supervision, and personal care services for three to sixteen unrelated adults, or an independent living arrangement;\n\n(4) The individual is to receive continual care in a home for the aged exempt from taxation under section 5701.13 of the Revised Code;\n\n(5) The individual is seeking admission to a facility that is not a nursing facility with a provider agreement under section 5165.07 , 5165.511 , or 5165.512 of the Revised Code;\n\n(6) Pursuant to rules that may be adopted under this section, the department or a program administrator has exempted the individual from receiving the long-term care consultation.\n\n(J) As part of the long-term care consultation program, the department or a program administrator may assist an individual or individual's representative in accessing all sources of care and services that are appropriate for the individual and for which the individual is eligible, including all available home and community-based services covered by medicaid components the department of aging administers. The assistance may include providing for the conduct of assessments or other evaluations and the development of individualized plans of care or services under section 173.424 of the Revised Code.\n\n(K) No nursing facility for which an operator has a provider agreement under section 5165.07 , 5165.511 , or 5165.512 of the Revised Code shall admit as a resident any individual described in division (G) of this section, unless the nursing facility has received evidence that a long-term care consultation has been completed for the individual or division (I) of this section is applicable to the individual.\n\n(L) The director of aging shall adopt rules for the implementation and administration of this section. The rules shall be adopted in accordance with Chapter 119. of the Revised Code. The rules may specify any or all of the following:\n\n(1) Procedures for providing long-term care consultations;\n\n(2) Information to be provided through long-term care consultations regarding long-term care services that are available;\n\n(3) Criteria and procedures to be used to identify and recommend appropriate service options for an individual receiving a long-term care consultation;\n\n(4) Criteria for exempting individuals from receiving a long-term care consultation;\n\n(5) Circumstances under which it may be appropriate to provide an individual's long-term care consultation after the individual's admission to a nursing facility rather than before admission;\n\n(6) Criteria for identifying individuals for whom a long-term care consultation is appropriate, including nursing facility residents who would benefit from the consultation;\n\n(7) A description of the types of information from a nursing facility that is needed under the long-term care consultation program to assist a resident with relocation from the facility;\n\n(8) Standards to prevent conflicts of interest relative to the referrals made by a person who performs a long-term care consultation, including standards that prohibit the person from being employed by a provider of long-term care services;\n\n(9) Procedures for providing notice and an opportunity for a hearing under division (N) of this section;\n\n(10) Time frames for providing or completing a long-term care consultation;\n\n(11) Any other standards or procedures the director considers necessary for the program.\n\n(M) To assist the department and each program administrator with identifying individuals for whom a long-term care consultation is appropriate, the department and program administrator may ask to be given access to nursing facility resident assessment data collected through the use of the resident assessment instrument specified in rules authorized by section 5165.191 of the Revised Code for purposes of the medicaid program. Except when prohibited by state or federal law, the department of health, department of medicaid, or nursing facility holding the data shall grant access to the data on receipt of the request from the department of aging or program administrator.\n\n(N)(1) The director of aging, after providing notice and an opportunity for a hearing, may fine a nursing facility an amount determined by rules the director shall adopt in accordance with Chapter 119. of the Revised Code for any of the following reasons:\n\n(a) The nursing facility violates division (K) of this section;\n\n(b) The nursing facility denies a person attempting to provide a long-term care consultation access to the facility or a resident of the facility;\n\n(c) The nursing facility denies the department of aging or a program administrator access to the facility or a resident of the facility, as the department or administrator considers necessary to administer the program.\n\n(2) In accordance with section 5162.66 of the Revised Code, all fines collected under division (N)(1) of this section shall be deposited into the state treasury to the credit of the residents protection fund.\n\nLast updated July 14, 2022 at 3:18 PM",
+      "id": "173.42-representative",
+      "normalized": "representative",
+      "scope": "(A) As used in sections 173.42 to 173.434 of the Revised Code:",
+      "section": "173.42",
+      "source_title": "Section 173.42 - Long-term care consultation program.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-173.42",
+      "term": "Representative"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "173.42",
+      "number": "173.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-173.42"
+    },
+    {
+      "kind": "section",
+      "label": "173.434",
+      "number": "173.434",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-173.434"
+    },
+    {
+      "kind": "section",
+      "label": "173.011",
+      "number": "173.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-173.011"
+    },
+    {
+      "kind": "section",
+      "label": "173.52",
+      "number": "173.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-173.52"
+    },
+    {
+      "kind": "section",
+      "label": "173.54",
+      "number": "173.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-173.54"
+    },
+    {
+      "kind": "section",
+      "label": "5166.01",
+      "number": "5166.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5166.01"
+    },
+    {
+      "kind": "section",
+      "label": "5162.35",
+      "number": "5162.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.35"
+    },
+    {
+      "kind": "section",
+      "label": "5164.02",
+      "number": "5164.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.02"
+    },
+    {
+      "kind": "section",
+      "label": "5165.01",
+      "number": "5165.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01"
+    },
+    {
+      "kind": "section",
+      "label": "173.50",
+      "number": "173.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-173.50"
+    },
+    {
+      "kind": "section",
+      "label": "173.422",
+      "number": "173.422",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-173.422"
+    },
+    {
+      "kind": "section",
+      "label": "5901.01",
+      "number": "5901.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5901.01"
+    },
+    {
+      "kind": "section",
+      "label": "5119.40",
+      "number": "5119.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.40"
+    },
+    {
+      "kind": "section",
+      "label": "5123.021",
+      "number": "5123.021",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5123.021"
+    },
+    {
+      "kind": "section",
+      "label": "5165.03",
+      "number": "5165.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5165.03"
+    },
+    {
+      "kind": "section",
+      "label": "173.546",
+      "number": "173.546",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-173.546"
+    },
+    {
+      "kind": "section",
+      "label": "5165.04",
+      "number": "5165.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5165.04"
+    },
+    {
+      "kind": "section",
+      "label": "173.13",
+      "number": "173.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-173.13"
+    },
+    {
+      "kind": "section",
+      "label": "5119.34",
+      "number": "5119.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.34"
+    },
+    {
+      "kind": "section",
+      "label": "5701.13",
+      "number": "5701.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5701.13"
+    },
+    {
+      "kind": "section",
+      "label": "5165.07",
+      "number": "5165.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5165.07"
+    },
+    {
+      "kind": "section",
+      "label": "5165.511",
+      "number": "5165.511",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5165.511"
+    },
+    {
+      "kind": "section",
+      "label": "5165.512",
+      "number": "5165.512",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5165.512"
+    },
+    {
+      "kind": "section",
+      "label": "173.424",
+      "number": "173.424",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-173.424"
+    },
+    {
+      "kind": "section",
+      "label": "5165.191",
+      "number": "5165.191",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5165.191"
+    },
+    {
+      "kind": "section",
+      "label": "5162.66",
+      "number": "5162.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.66"
+    }
+  ],
+  "scraped": "2026-07-02T19:32:13+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-173.42",
+  "title": "Section 173.42 - Long-term care consultation program."
+}

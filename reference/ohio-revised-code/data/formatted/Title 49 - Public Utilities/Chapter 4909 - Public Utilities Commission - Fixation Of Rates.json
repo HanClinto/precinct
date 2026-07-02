@@ -1,0 +1,447 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 4909.01 - Public utilities commission - fixation of rates definitions.",
+      "number": "4909.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.02 - Regulations and practices prescribed by commission prima-facie reasonable.",
+      "number": "4909.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.03 - Effect of rates fixed by commission.",
+      "number": "4909.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.04 - Valuation of property to determine justice of rates.",
+      "number": "4909.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.041 - Definitions.",
+      "number": "4909.041",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.041"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.042 - Report of valuation of property for forecasted test period.",
+      "number": "4909.042",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.042"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.05 - Report of valuation of property.",
+      "number": "4909.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.051 - Definitions for sections 4909.052 to 4909.055.",
+      "number": "4909.051",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.051"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.052 - Evaluation of petition for purchase of municipal water-works or sewage disposal system; acceptance of cost report.",
+      "number": "4909.052",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.052"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.053 - Appraisals.",
+      "number": "4909.053",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.053"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.054 - List of utility-valuation experts.",
+      "number": "4909.054",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.054"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.055 - Cost of obtaining valuations.",
+      "number": "4909.055",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.055"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.057 - Deferral of post-in-service carrying costs.",
+      "number": "4909.057",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.057"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.059 - Construction of sections.",
+      "number": "4909.059",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.059"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.06 - Additional facts.",
+      "number": "4909.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.07 - Revision and correction of valuations.",
+      "number": "4909.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.08 - Notice and hearing before valuation becomes final.",
+      "number": "4909.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.09 - Ascertainment of valuation.",
+      "number": "4909.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.10 - Hearing to ascertain value of property - notice.",
+      "number": "4909.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.11 - Filing and review of findings.",
+      "number": "4909.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.12 - Admissibility of findings in evidence.",
+      "number": "4909.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.13 - Additional hearings.",
+      "number": "4909.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.14 - Wrongful valuation.",
+      "number": "4909.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.15 - Fixation of reasonable rate.",
+      "number": "4909.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.151 - Consideration of costs attributable to service.",
+      "number": "4909.151",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.151"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.152 - Consideration of efficiency, sufficiency, adequacy of facilities.",
+      "number": "4909.152",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.152"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.153 - Hearing service complaints.",
+      "number": "4909.153",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.153"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.154 - Consideration of management policies, practices, and organization of public utility.",
+      "number": "4909.154",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.154"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.155 - Filing report on bonds, stock and money.",
+      "number": "4909.155",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.155"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.156 - Filing report showing property valuation.",
+      "number": "4909.156",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.156"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.157 - Cost recovery mechanisms prohibited.",
+      "number": "4909.157",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.157"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.159 - Financial information for forecasted test period from full books.",
+      "number": "4909.159",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.159"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.16 - Power to amend, alter, or suspend schedule of rates.",
+      "number": "4909.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.161 - Recovering increased excise tax levy and kilowatt-hour tax.",
+      "number": "4909.161",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.161"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.17 - Approval required for change in rate.",
+      "number": "4909.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.171 - Basing waterworks rate charge on change in water cost imposed by local government.",
+      "number": "4909.171",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.171"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.172 - Application for approval to collect infrastructure improvement surcharge.",
+      "number": "4909.172",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.172"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.173 - Water-works company replacement of water service line.",
+      "number": "4909.173",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.173"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.174 - Water-works company reimburse customer for replacement of water service line.",
+      "number": "4909.174",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.174"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.18 - Application to establish or change rate.",
+      "number": "4909.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.181 - Rate application for distribution service.",
+      "number": "4909.181",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.181"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.182 - Rate case requirement.",
+      "number": "4909.182",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.182"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.19 - Publication of notice - investigation.",
+      "number": "4909.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.191 - Submission of rate or charge adjustments or recalculations after actual data acquired.",
+      "number": "4909.191",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.191"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.192 - Approval of nondiscriminatory programs under rate increase application.",
+      "number": "4909.192",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.192"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.193 - Rate case application review deadline.",
+      "number": "4909.193",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.193"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.20 - Regulation of freight charges.",
+      "number": "4909.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.21 - Rules and regulations relative to carload shipments of livestock.",
+      "number": "4909.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.22 - Rates shall be just and reasonable.",
+      "number": "4909.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.23 - Special contract rates.",
+      "number": "4909.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.24 - Complaints and hearings.",
+      "number": "4909.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.25 - Separate hearings.",
+      "number": "4909.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.26 - Commission may change unreasonable rate.",
+      "number": "4909.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.27 - Investigating rates upon its own motion.",
+      "number": "4909.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.28 - Commission may change rate or service.",
+      "number": "4909.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.29 - Copies of orders to be supplied railroad.",
+      "number": "4909.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.30 - Commission may rescind or amend an order.",
+      "number": "4909.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.31 - Supplemental order as to railroads.",
+      "number": "4909.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.32 - Commission may fix joint rate.",
+      "number": "4909.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.33 - Supplemental order as to public utilities.",
+      "number": "4909.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.34 - Power of municipal corporation or group of corporations to fix rate, price, and charge.",
+      "number": "4909.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.35 - Failure of municipal corporation to fix rates.",
+      "number": "4909.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.36 - Hearing upon accepted rates - procedure.",
+      "number": "4909.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.37 - Hearing where cause of action arose.",
+      "number": "4909.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.38 - Complaint, appeal, or notification requirements.",
+      "number": "4909.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.39 - Findings as to rate - valuation of property.",
+      "number": "4909.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.40 - Certain rates, fares, regulations, and prices excepted.",
+      "number": "4909.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.41 - Violation.",
+      "number": "4909.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.42 - Commission fails to issue timely order.",
+      "number": "4909.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.421 - Rate application approval timeline; temporary rate changes.",
+      "number": "4909.421",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.421"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.43 - Filing rate increase application.",
+      "number": "4909.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.45 - Information furnished by gas or natural gas company to municipal corporation.",
+      "number": "4909.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4909.99 - Penalty.",
+      "number": "4909.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4909.99"
+    }
+  ],
+  "scraped": "2026-07-02T20:09:07+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-4909",
+  "title": "Chapter 4909 - Public Utilities Commission - Fixation Of Rates"
+}

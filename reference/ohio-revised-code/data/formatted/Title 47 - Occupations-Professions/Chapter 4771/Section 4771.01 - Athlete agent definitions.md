@@ -1,0 +1,50 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4771.01
+Scraped: 2026-07-02T20:08:16+00:00
+
+# Section 4771.01 - Athlete agent definitions.
+
+**Effective:** March 22, 2001
+
+**Latest Legislation:** House Bill 107 - 123rd General Assembly
+
+As used in this chapter:
+
+(A) "Agent contract" means any contract or agreement pursuant to which an athlete authorizes or empowers or agrees to authorize or empower at some later date an athlete agent to do any of the following:
+
+(1) Negotiate or solicit an agreement on behalf of the athlete with one or more professional sports teams for the employment of the athlete by a professional sports team;
+
+(2) Negotiate or solicit an agreement on behalf of the athlete for the employment of the athlete as a professional athlete;
+
+(3) Market, or enter an agreement to market, an athlete or an athlete's reputation.
+
+(B) "Athlete agent" means any person who directly or indirectly recruits or solicits any athlete to enter into an agent contract or professional sports services contract, or who for a fee procures, offers, promises, or attempts to obtain employment for an athlete with a professional sports team, or as a professional athlete, or otherwise attempts to market an athlete or an athlete's reputation. Athlete agent does not include either of the following:
+
+(1) A member of a student athlete's immediate family;
+
+(2) An attorney from whom an athlete seeks legal advice concerning a proposed professional sports services contract if the attorney does not represent the athlete in negotiating or soliciting the contract.
+
+(C) "Immediate family" means an individual's spouse, child, parent, stepparent, grandparent, grandchild, brother, sister, parent-in-law, brother-in-law, sister-in-law, nephew, niece, aunt, uncle, first cousin, or the spouse or guardian of any of the individuals described in this division.
+
+(D) "Athlete" means either of the following:
+
+(1) A student enrolled in any educational institution or institution of higher education in this state, who participates, or is or may become eligible to participate, in any athletic sporting event, contest, exhibition, or program at the educational institution or institution of higher education;
+
+(2) A student who meets one of the following criteria:
+
+(a) Resides in this state, is eligible to participate in an amateur athletic program, and has informed an educational institution or institution of higher education, in writing, of the student's intent to participate in that institution's amateur athletic program;
+
+(b) Does not reside in this state but is eligible to participate in an amateur athletic program and has informed, in writing, an educational institution or institution of higher education in this state of the student's intent to participate in that institution's amateur athletic program.
+
+(E) "Institution of higher education" means a state university or college or a private nonprofit college or university located in this state that possesses a certificate of authorization issued by the Ohio board of regents pursuant to Chapter 1713. of the Revised Code.
+
+(F) "Professional sports services contract" means either of the following:
+
+(1) Any contract or agreement pursuant to which an athlete is employed or agrees to render services as a player on a professional sports team or as a professional athlete;
+
+(2) Any contract or agreement that provides for the present or future marketing of an athlete or athlete's reputation.
+
+(G) "State university or college" includes the state universities listed in section 3345.011 of the Revised Code, community colleges created pursuant to Chapter 3354. of the Revised Code, university branches created pursuant to Chapter 3355. of the Revised Code, technical colleges created pursuant to Chapter 3357. of the Revised Code, and state community colleges created pursuant to Chapter 3358. of the Revised Code.
+
+(H) "Educational institution" means any institution located in this state, public or private, that provides elementary or secondary education to students as its primary function.
+
+Last updated October 21, 2025 at 2:57 PM

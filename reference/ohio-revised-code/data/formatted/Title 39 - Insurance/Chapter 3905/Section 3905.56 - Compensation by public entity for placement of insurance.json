@@ -1,0 +1,100 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Affiliate\" means a person who controls, is controlled by, or is under common control with the agent.",
+      "id": "3905.56-affiliate",
+      "normalized": "affiliate",
+      "scope": "",
+      "section": "3905.56",
+      "source_title": "Section 3905.56 - Compensation by public entity for placement of insurance.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3905.56",
+      "term": "Affiliate"
+    },
+    {
+      "definition": "(2) \"Compensation from an insurer or other third party\" means payments, commissions, fees, awards, overrides, bonuses, contingent commissions, loans, stock options, gifts, prizes, or any other form of valuable consideration, whether or not payable pursuant to a written agreement.\n\n(3) \"Compensation from a public entity\" shall not include either of the following:\n\n(a) Any fee charged to, and paid by, a public entity pursuant to section 3905.55 of the Revised Code if such fee does not exceed fifty dollars; or\n\n(b) Any portion of an insurance premium paid by a public entity to an insurance agent or any affiliate of such agent that an insurer or other third party has authorized the agent or affiliate to retain as commission after the balance of the public entity's premium payment has been remitted to the insurer or other third party.",
+      "id": "3905.56-compensation-from-an-insurer-or-other-third-party",
+      "normalized": "compensation from an insurer or other third party",
+      "scope": "",
+      "section": "3905.56",
+      "source_title": "Section 3905.56 - Compensation by public entity for placement of insurance.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3905.56",
+      "term": "Compensation from an insurer or other third party"
+    },
+    {
+      "definition": "(4) \"Documented acknowledgment\" means the public entity's written acknowledgment obtained prior to the placement of insurance. In the case of a purchase over the telephone or by electronic means for which written acknowledgment cannot reasonably be obtained, acknowledgment documented by the agent shall be acceptable.",
+      "id": "3905.56-documented-acknowledgment",
+      "normalized": "documented acknowledgment",
+      "scope": "",
+      "section": "3905.56",
+      "source_title": "Section 3905.56 - Compensation by public entity for placement of insurance.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3905.56",
+      "term": "Documented acknowledgment"
+    },
+    {
+      "definition": "(5) \"Insurance product\" includes a fully insured product or partially or fully self-insured product.",
+      "id": "3905.56-insurance-product",
+      "normalized": "insurance product",
+      "scope": "",
+      "section": "3905.56",
+      "source_title": "Section 3905.56 - Compensation by public entity for placement of insurance.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3905.56",
+      "term": "Insurance product"
+    },
+    {
+      "definition": "(6) \"Placement of insurance\" means the initial purchase of an insurance product or the renewal of an existing product unless the insurer independently generates and processes the renewal without the agent's participation or involvement. \"Placement of insurance\" does not mean the servicing or modification of an existing contract that does not involve the public entity evaluating options for the purchase or renewal of an insurance product.",
+      "id": "3905.56-placement-of-insurance",
+      "normalized": "placement of insurance",
+      "scope": "",
+      "section": "3905.56",
+      "source_title": "Section 3905.56 - Compensation by public entity for placement of insurance.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3905.56",
+      "term": "Placement of insurance"
+    },
+    {
+      "definition": "(7) \"Public entity\" means the state and any political subdivision as defined in section 2744.01 of the Revised Code; any state institution of higher education as defined in section 3345.12 of the Revised Code; and any instrumentality or retirement system of the state, any political subdivision, or any state institution of higher education.\n\n(8) \"Public servant\" shall have the same definition as in section 2921.01 of the Revised Code.",
+      "id": "3905.56-public-entity",
+      "normalized": "public entity",
+      "scope": "",
+      "section": "3905.56",
+      "source_title": "Section 3905.56 - Compensation by public entity for placement of insurance.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3905.56",
+      "term": "Public entity"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2921.43",
+      "number": "2921.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2921.43"
+    },
+    {
+      "kind": "section",
+      "label": "3905.55",
+      "number": "3905.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3905.55"
+    },
+    {
+      "kind": "section",
+      "label": "2744.01",
+      "number": "2744.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2744.01"
+    },
+    {
+      "kind": "section",
+      "label": "3345.12",
+      "number": "3345.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3345.12"
+    },
+    {
+      "kind": "section",
+      "label": "2921.01",
+      "number": "2921.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2921.01"
+    }
+  ],
+  "scraped": "2026-07-02T20:02:17+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3905.56",
+  "title": "Section 3905.56 - Compensation by public entity for placement of insurance."
+}

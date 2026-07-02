@@ -1,0 +1,507 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 4513.01 - Traffic laws - equipment - load definitions.",
+      "number": "4513.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.02 - Unsafe vehicles.",
+      "number": "4513.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.021 - Bumper height - vehicle modifications.",
+      "number": "4513.021",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.021"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.022 - Proof of financial responsibility produced at time of issuance of citation.",
+      "number": "4513.022",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.022"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.03 - Time for lighted lights on motor vehicles.",
+      "number": "4513.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.04 - Headlights.",
+      "number": "4513.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.05 - Tail lights and illumination of rear license plate.",
+      "number": "4513.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.06 - Red reflectors required.",
+      "number": "4513.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.07 - Regulations for safety lighting of commercial vehicles.",
+      "number": "4513.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.071 - Stop light.",
+      "number": "4513.071",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.071"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.08 - Obscured lights on vehicles.",
+      "number": "4513.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.09 - Red light or flag required.",
+      "number": "4513.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.10 - Lights on parked vehicles.",
+      "number": "4513.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.11 - Definitions.",
+      "number": "4513.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.111 - Light and reflector requirements for older model farm machinery and agricultural tractors.",
+      "number": "4513.111",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.111"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.112 - Speed and emblem requirements for slow moving vehicles.",
+      "number": "4513.112",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.112"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.113 - Emblem and symbol requirements for farm machinery and agricultural tractors.",
+      "number": "4513.113",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.113"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.114 - Light, reflector, and emblem requirements for animal-drawn vehicles.",
+      "number": "4513.114",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.114"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.115 - Strict liability offenses for farm machinery, SMV, and animal-drawn vehicle violations.",
+      "number": "4513.115",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.115"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.12 - Specifications for spotlights and auxiliary driving lights.",
+      "number": "4513.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.13 - Cowl, fender, and back-up lights.",
+      "number": "4513.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.14 - Two lighted lights to be displayed.",
+      "number": "4513.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.15 - Headlight illumination requirements - protection of oncoming drivers - high beam indicator.",
+      "number": "4513.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.16 - Lights of less intensity.",
+      "number": "4513.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.17 - Limit on number of lights.",
+      "number": "4513.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.171 - Lights on coroner's vehicle.",
+      "number": "4513.171",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.171"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.18 - Lights on snow removal equipment and oversize vehicles.",
+      "number": "4513.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.181 - Standards and specifications applicable to rural mail delivery vehicles, state highway survey vehicles, and funeral escort vehicles.",
+      "number": "4513.181",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.181"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.182 - Lights and sign on vehicle transporting preschool children.",
+      "number": "4513.182",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.182"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.19 - Regulations for focus, aim, and color of headlights.",
+      "number": "4513.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.20 - Brake equipment for vehicles.",
+      "number": "4513.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.201 - Brake fluid standards.",
+      "number": "4513.201",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.201"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.202 - Brake lining, brake lining material, or brake lining assemblies standards.",
+      "number": "4513.202",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.202"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.21 - Horns, sirens, and warning devices.",
+      "number": "4513.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.22 - Mufflers.",
+      "number": "4513.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.221 - Local regulation of passenger car and motorcycle noise.",
+      "number": "4513.221",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.221"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.23 - Rear view mirror.",
+      "number": "4513.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.24 - Windshield and windshield wipers.",
+      "number": "4513.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.241 - Using tinted glass and other vision obscuring materials.",
+      "number": "4513.241",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.241"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.242 - Displaying security decal on side window or sidewing.",
+      "number": "4513.242",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.242"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.25 - Solid tire requirements.",
+      "number": "4513.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.26 - Safety glass required for new vehicles.",
+      "number": "4513.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.261 - Vehicles to be equipped with electrical or mechanical directional signals.",
+      "number": "4513.261",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.261"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.262 - Seat safety belt or anchorage units required.",
+      "number": "4513.262",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.262"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.263 - Occupant restraining devices.",
+      "number": "4513.263",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.263"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.27 - Extra signal equipment required for motor truck, trackless trolley, bus, or commercial tractor.",
+      "number": "4513.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.28 - Warning devices displayed on disabled vehicles.",
+      "number": "4513.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.29 - Vehicle transporting explosives upon highway.",
+      "number": "4513.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.30 - Limitation of load extension on left side of vehicle.",
+      "number": "4513.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.31 - Securing loads on vehicles.",
+      "number": "4513.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.32 - Vehicle towing requirements.",
+      "number": "4513.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.33 - Unlawful vehicle weight.",
+      "number": "4513.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.34 - Written permits for oversized vehicles.",
+      "number": "4513.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.35 - Disposition of traffic fines.",
+      "number": "4513.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.36 - Prohibition against resisting or interfering with official.",
+      "number": "4513.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.361 - Furnishing false information to officer issuing traffic ticket.",
+      "number": "4513.361",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.361"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.37 - Record of traffic violations.",
+      "number": "4513.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.38 - Collector's, historical, or replica motor vehicle equipment exemptions.",
+      "number": "4513.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.39 - Making arrests on highways.",
+      "number": "4513.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.40 - Warning sign before safety device at street crossing.",
+      "number": "4513.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.41 - Collector's, historical, or replica motor vehicle test exemptions.",
+      "number": "4513.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.50 - Bus safety definitions.",
+      "number": "4513.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.51 - Bus safety inspection decal.",
+      "number": "4513.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.52 - Bus safety inspections.",
+      "number": "4513.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.53 - Bus safety inspection staff.",
+      "number": "4513.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.60 - [Governor's veto not reflected; see H.B. 434 status report] Vehicle left on private residential or private agricultural property without the permission of person having right to possession of property.",
+      "number": "4513.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.601 - Private tow-away zones.",
+      "number": "4513.601",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.601"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.602 - Dealer or repair facility removal of unclaimed vehicle by towing.",
+      "number": "4513.602",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.602"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.603 - Obtaining certificate of title to unclaimed motor vehicle.",
+      "number": "4513.603",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.603"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.61 - [Governor's veto not reflected; see H.B. 434 status report] Storing vehicles in possession of law enforcement officers or left on public property.",
+      "number": "4513.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.611 - Civil actions against towing service or storage facility.",
+      "number": "4513.611",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.611"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.612 - Monetary compensation in exchange for authorization to tow; violation.",
+      "number": "4513.612",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.612"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.62 - Disposal of unclaimed vehicles ordered into storage.",
+      "number": "4513.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.63 - Photograph and record of information as to abandoned junk vehicles.",
+      "number": "4513.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.64 - Willfully leaving abandoned junk motor vehicle.",
+      "number": "4513.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.65 - Willfully leaving junk motor vehicle.",
+      "number": "4513.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.66 - [Governor's veto not reflected; see H.B. 434 status report] Removal of highway obstruction.",
+      "number": "4513.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.67 - Operation of towing service.",
+      "number": "4513.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.67"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.68 - Estimates of costs before towing.",
+      "number": "4513.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.68"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.69 - Storage facilities; business hours; notice.",
+      "number": "4513.69",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.69"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.70 - Civil action against towing service or storage facility by insurance company.",
+      "number": "4513.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.71 - Civil actions involving commercial motor vehicle owner and towing service or storage facility.",
+      "number": "4513.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4513.99 - Penalty.",
+      "number": "4513.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.99"
+    }
+  ],
+  "scraped": "2026-07-02T20:05:41+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-4513",
+  "title": "Chapter 4513 - Traffic Laws - Equipment; Loads"
+}

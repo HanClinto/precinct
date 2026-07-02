@@ -1,0 +1,90 @@
+{
+  "glossary": [
+    {
+      "definition": "\"Act of terrorism\" has the same meaning as in section 2909.21 of the Revised Code.",
+      "id": "149.433-act-of-terrorism",
+      "normalized": "act of terrorism",
+      "scope": "(A) As used in this section:",
+      "section": "149.433",
+      "source_title": "Section 149.433 - Exempting security and infrastructure records.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-149.433",
+      "term": "Act of terrorism"
+    },
+    {
+      "definition": "\"Express statement\" means a written statement substantially similar to the following: \"This information is voluntarily submitted to a public office in expectation of protection from disclosure as provided by section 149.433 of the Revised Code.\"",
+      "id": "149.433-express-statement",
+      "normalized": "express statement",
+      "scope": "(A) As used in this section:",
+      "section": "149.433",
+      "source_title": "Section 149.433 - Exempting security and infrastructure records.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-149.433",
+      "term": "Express statement"
+    },
+    {
+      "definition": "\"Infrastructure record\" means any record that discloses the configuration of critical systems including, but not limited to, communication, computer, electrical, mechanical, ventilation, water, and plumbing systems, security codes, or the infrastructure or structural configuration of a building.",
+      "id": "149.433-infrastructure-record",
+      "normalized": "infrastructure record",
+      "scope": "(A) As used in this section:",
+      "section": "149.433",
+      "source_title": "Section 149.433 - Exempting security and infrastructure records.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-149.433",
+      "term": "Infrastructure record"
+    },
+    {
+      "definition": "\"Infrastructure record\" includes a risk assessment of infrastructure performed by a state or local law enforcement agency at the request of a property owner or manager.\n\n\"Infrastructure record\" does not mean a simple floor plan that discloses only the spatial relationship of components of the building.",
+      "id": "149.433-infrastructure-record",
+      "normalized": "infrastructure record",
+      "scope": "(A) As used in this section:",
+      "section": "149.433",
+      "source_title": "Section 149.433 - Exempting security and infrastructure records.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-149.433",
+      "term": "Infrastructure record"
+    },
+    {
+      "definition": "\"Security record\" means any of the following:\n\n(1) Any record that contains information directly used for protecting or maintaining the security of a public office against attack, interference, or sabotage;\n\n(2) Any record assembled, prepared, or maintained by a public office or public body to prevent, mitigate, or respond to acts of terrorism, including any of the following:\n\n(a) Those portions of records containing specific and unique vulnerability assessments or specific and unique response plans either of which is intended to prevent or mitigate acts of terrorism, and communication codes or deployment plans of law enforcement or emergency response personnel;\n\n(b) Specific intelligence information and specific investigative records shared by federal and international law enforcement agencies with state and local law enforcement and public safety agencies;\n\n(c) National security records classified under federal executive order and not subject to public disclosure under federal law that are shared by federal agencies, and other records related to national security briefings to assist state and local government with domestic preparedness for acts of terrorism.\n\n(3) An emergency management plan adopted pursuant to section 5502.262 of the Revised Code.\n\n(B)(1) Except as otherwise provided in division (B)(4) of this section, a record kept by a public office that is a security record is not a public record under section 149.43 of the Revised Code and is not subject to mandatory release or disclosure under that section.\n\n(2) Except as otherwise provided in division (B)(4) of this section, a record kept by a public office that is an infrastructure record of a public office, public school, or a chartered nonpublic school is not a public record under section 149.43 of the Revised Code and is not subject to mandatory release or disclosure under that section.\n\n(3) A record kept by a public office that is an infrastructure record of a private entity may be exempted from release or disclosure under division (C) of this section.\n\n(4) Divisions (B)(1) and (2) of this section do not apply to a record that is a public notification required to be provided under division (D)(1)(d) of section 2923.122 of the Revised Code. A record that is such a public notification is a public record to the extent that it is required to be provided under division (D)(1)(d) of section 2923.122 of the Revised Code.\n\n(C) A record prepared by, submitted to, or kept by a public office that is an infrastructure record of a private entity, which is submitted to the public office for use by the public office, when accompanied by an express statement, is exempt from release or disclosure under section 149.43 of the Revised Code for a period of twenty-five years after its creation if it is retained by the public office for that length of time.\n\n(D) Notwithstanding any other section of the Revised Code, disclosure by a public office, public employee, chartered nonpublic school, or chartered nonpublic school employee of a security record or infrastructure record that is necessary for construction, renovation, or remodeling work on any public building or project or chartered nonpublic school does not constitute public disclosure for purposes of waiving division (B) of this section and does not result in that record becoming a public record for purposes of section 149.43 of the Revised Code.\n\nLast updated June 30, 2022 at 9:11 AM",
+      "id": "149.433-security-record",
+      "normalized": "security record",
+      "scope": "(A) As used in this section:",
+      "section": "149.433",
+      "source_title": "Section 149.433 - Exempting security and infrastructure records.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-149.433",
+      "term": "Security record"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2909.21",
+      "number": "2909.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2909.21"
+    },
+    {
+      "kind": "section",
+      "label": "149.433",
+      "number": "149.433",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.433"
+    },
+    {
+      "kind": "section",
+      "label": "5502.262",
+      "number": "5502.262",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5502.262"
+    },
+    {
+      "kind": "section",
+      "label": "149.43",
+      "number": "149.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.43"
+    },
+    {
+      "kind": "section",
+      "label": "2923.122",
+      "number": "2923.122",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2923.122"
+    }
+  ],
+  "scraped": "2026-07-02T19:31:59+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-149.433",
+  "title": "Section 149.433 - Exempting security and infrastructure records."
+}

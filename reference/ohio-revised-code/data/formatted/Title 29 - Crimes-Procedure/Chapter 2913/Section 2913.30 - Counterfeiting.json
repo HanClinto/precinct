@@ -1,0 +1,90 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Access device\" means any debit or credit card representing a monetary security or retail amount by any financial institution, including a bank, savings bank, savings and loan association, credit union, or business entity. \"Access device\" includes a gift card as defined in section 1349.61 of the Revised Code.",
+      "id": "2913.30-access-device",
+      "normalized": "access device",
+      "scope": "(A) As used in this section:",
+      "section": "2913.30",
+      "source_title": "Section 2913.30 - Counterfeiting.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2913.30",
+      "term": "Access device"
+    },
+    {
+      "definition": "(2) \"Obligation or other security\" means an instrument recognized as currency or legal tender or that is issued by the United States treasury, including bills, coins, bonds, or checks.",
+      "id": "2913.30-obligation-or-other-security",
+      "normalized": "obligation or other security",
+      "scope": "(A) As used in this section:",
+      "section": "2913.30",
+      "source_title": "Section 2913.30 - Counterfeiting.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2913.30",
+      "term": "Obligation or other security"
+    },
+    {
+      "definition": "(3) \"Encoding machine\" means an electronic device that is used to encode information onto an access device.",
+      "id": "2913.30-encoding-machine",
+      "normalized": "encoding machine",
+      "scope": "(A) As used in this section:",
+      "section": "2913.30",
+      "source_title": "Section 2913.30 - Counterfeiting.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2913.30",
+      "term": "Encoding machine"
+    },
+    {
+      "definition": "(4) \"Merchant\" means an owner or operator of a retail establishment or an agent, employee, lessee, consignee, officer, director, franchisee, or independent contractor of the owner or operator.",
+      "id": "2913.30-merchant",
+      "normalized": "merchant",
+      "scope": "(A) As used in this section:",
+      "section": "2913.30",
+      "source_title": "Section 2913.30 - Counterfeiting.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2913.30",
+      "term": "Merchant"
+    },
+    {
+      "definition": "(5) \"Scanning device\" means a scanner, reader, wireless access device, radio frequency identification scanner, an electronic device that utilizes near field communication technology, or any other electronic device that is used to access, read, scan, obtain, memorize, or store, temporarily or permanently, information encoded on an access device.\n\n(B) No person, with purpose to defraud or knowing that the person is facilitating a fraud, shall do any of the following:\n\n(1) Falsely make, forge, counterfeit, or alter any obligation or other security of the United States;\n\n(2) Pass, utter, sell, purchase, conceal, or transfer any counterfeit obligation or other security of the United States;\n\n(3) Possess with the purpose to utter any obligation or other security of the United States, knowing that the obligation or other security has been counterfeited;\n\n(4) Without authorization of the issuer, falsely make, forge, counterfeit, alter, or knowingly possess any access device;\n\n(5) Directly or indirectly use a scanning device to access, read, obtain, memorize, or store, temporarily or permanently, information encoded on an access device without the permission of the authorized user of the access device, the financial institution issuing the authorized user's access device, or a merchant;\n\n(6) Directly or indirectly use an encoding machine to place information encoded on an access device onto a different access device without the permission of the authorized user of the access device from which the information was obtained, the financial institution issuing the authorized user's access device, or a merchant.\n\n(C) Whoever violates this section is guilty of counterfeiting. Except as otherwise provided in this division, counterfeiting is a felony of the fourth degree, and in addition, the court shall impose on the offender a fine from the range of fines for a felony of the fourth degree that is not less than five hundred dollars.\n\n(1) If the value of the counterfeited obligations or other securities or access devices is five thousand dollars or more and is less than one hundred thousand dollars, or if the offense involves five or more access devices, counterfeiting is a felony of the third degree.\n\n(2) If the value of the counterfeited obligations or other securities or access devices is one hundred thousand dollars or more and is less than one million dollars, counterfeiting is a felony of the second degree.\n\n(3) If the value of the counterfeited obligations or other securities or access devices is one million dollars or more, counterfeiting is a felony of the first degree.\n\n(D) A prosecution for a violation of this section does not preclude a prosecution for a violation of section 2913.02 , 2913.31 , or 2913.32 of the Revised Code based on the same conduct. However, if an offender is convicted of or pleads guilty to a violation of this section and is also convicted of or pleads guilty to a violation of section 2913.02 , 2913.31 , or 2913.32 of the Revised Code based on the same conduct involving the same victim that was the basis of the violation of this section, the two or more offenses are allied offenses of similar import under section 2941.25 of the Revised Code.\n\nLast updated January 21, 2025 at 3:09 PM",
+      "id": "2913.30-scanning-device",
+      "normalized": "scanning device",
+      "scope": "(A) As used in this section:",
+      "section": "2913.30",
+      "source_title": "Section 2913.30 - Counterfeiting.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2913.30",
+      "term": "Scanning device"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "1349.61",
+      "number": "1349.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.61"
+    },
+    {
+      "kind": "section",
+      "label": "2913.02",
+      "number": "2913.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2913.02"
+    },
+    {
+      "kind": "section",
+      "label": "2913.31",
+      "number": "2913.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2913.31"
+    },
+    {
+      "kind": "section",
+      "label": "2913.32",
+      "number": "2913.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2913.32"
+    },
+    {
+      "kind": "section",
+      "label": "2941.25",
+      "number": "2941.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.25"
+    }
+  ],
+  "scraped": "2026-07-02T19:46:11+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2913.30",
+  "title": "Section 2913.30 - Counterfeiting."
+}

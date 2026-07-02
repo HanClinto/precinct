@@ -1,0 +1,477 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 4141.01 - Unemployment compensation definitions.",
+      "number": "4141.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.011 - Employer subject to the unemployment compensation law.",
+      "number": "4141.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.011"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.02 - Notice to exempt nonprofit employees.",
+      "number": "4141.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.04 - Free employment services.",
+      "number": "4141.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.042 - Promoting employment competencies and upward mobility of women.",
+      "number": "4141.042",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.042"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.046 - Prohibition against accepting compensation for securing employment.",
+      "number": "4141.046",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.046"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.06 - Unemployment compensation review commission.",
+      "number": "4141.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.07 - Non-lawyer representatives - commission or representative fees prohibited.",
+      "number": "4141.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.08 - Unemployment compensation integrity board.",
+      "number": "4141.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.09 - Unemployment compensation fund - clearing account, unemployment trust fund account, benefit account.",
+      "number": "4141.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.10 - Unemployment compensation administration fund.",
+      "number": "4141.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.11 - Unemployment compensation special administrative fund.",
+      "number": "4141.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.13 - Director of job and family services - additional duties.",
+      "number": "4141.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.131 - Sale of real property.",
+      "number": "4141.131",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.131"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.14 - Rules of director subject to approval of unemployment compensation review commission.",
+      "number": "4141.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.162 - Establishing income and eligibility verification system.",
+      "number": "4141.162",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.162"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.163 - Income verification for federal benefit programs.",
+      "number": "4141.163",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.163"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.17 - Oaths, depositions, and subpoenas.",
+      "number": "4141.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.18 - Employer shall keep employment record.",
+      "number": "4141.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.20 - Employers to furnish information to director - quarterly reports - forfeiture.",
+      "number": "4141.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.21 - Information maintained by or furnished director not open to public - publication in statistical form.",
+      "number": "4141.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.211 - Disclosure of information.",
+      "number": "4141.211",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.211"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.22 - Divulging information.",
+      "number": "4141.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.23 - Employer contributions - payments in lieu of contributions.",
+      "number": "4141.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.231 - Satisfying employer's deficiency.",
+      "number": "4141.231",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.231"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.24 - Employer accounts.",
+      "number": "4141.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.241 - Nonprofit organizations as employers.",
+      "number": "4141.241",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.241"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.242 - Public entities as employers.",
+      "number": "4141.242",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.242"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.25 - Contribution rates.",
+      "number": "4141.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.251 - Unemployment compensation interest contingency fund.",
+      "number": "4141.251",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.251"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.26 - Notifying employer of contribution rate.",
+      "number": "4141.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.27 - Proceeding against employer who fails to comply.",
+      "number": "4141.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.28 - Determination of benefit rights and claims for benefits.",
+      "number": "4141.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.281 - Appeal to director.",
+      "number": "4141.281",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.281"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.282 - Appeal to court.",
+      "number": "4141.282",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.282"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.283 - Unemployment due to labor dispute.",
+      "number": "4141.283",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.283"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.284 - Child support obligations.",
+      "number": "4141.284",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.284"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.285 - Unemployment caused by major disaster.",
+      "number": "4141.285",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.285"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.286 - Mandatory checks for determining benefit rights and eligibility.",
+      "number": "4141.286",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.286"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.287 - Data matching - incarcerated individuals.",
+      "number": "4141.287",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.287"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.288 - Data matching - death records.",
+      "number": "4141.288",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.288"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.29 - Eligibility for benefits.",
+      "number": "4141.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.291 - Voluntarily quitting to accept recall.",
+      "number": "4141.291",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.291"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.292 - State disaster unemployment benefit payment.",
+      "number": "4141.292",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.292"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.293 - Participation in learn to earn program.",
+      "number": "4141.293",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.293"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.30 - Paying benefits.",
+      "number": "4141.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.301 - Extended benefit period.",
+      "number": "4141.301",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.301"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.302 - Direct deposit.",
+      "number": "4141.302",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.302"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.31 - Benefits reduced by remuneration.",
+      "number": "4141.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.312 - Benefits reduced by amount of governmental payments based on individual's previous work. - social security.",
+      "number": "4141.312",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.312"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.32 - No waiver or assignment of benefits.",
+      "number": "4141.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.321 - Federal income tax deducted or withheld.",
+      "number": "4141.321",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.321"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.33 - Seasonal employment.",
+      "number": "4141.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.34 - Employer complaint system.",
+      "number": "4141.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.35 - Fraudulent misrepresentations to obtain benefits - other reasons.",
+      "number": "4141.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.36 - Deductions from salaries not permitted except for private benefits.",
+      "number": "4141.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.37 - Compliance by firm or corporation mandatory.",
+      "number": "4141.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.38 - Prohibition against failure to make reports or pay contributions.",
+      "number": "4141.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.39 - Injunction.",
+      "number": "4141.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.40 - Prohibition against violations not otherwise specified.",
+      "number": "4141.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.41 - Secretary of state is agent of employer for service of process - comity between states.",
+      "number": "4141.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.42 - Reciprocal agreements to determining liability for payment of employer contributions.",
+      "number": "4141.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.43 - Cooperation with federal, state, and other agencies.",
+      "number": "4141.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.431 - Domestic service in private home.",
+      "number": "4141.431",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.431"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.432 - Unemployment compensation administrative support other sources fund.",
+      "number": "4141.432",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.432"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.45 - Right to amend or repeal.",
+      "number": "4141.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.46 - Liberal construction of statutes.",
+      "number": "4141.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.47 - Auxiliary services personnel unemployment compensation fund - auxiliary services program administrative fund.",
+      "number": "4141.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.48 - Acquisition of trade or business to lower contribution rate prohibited.",
+      "number": "4141.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.50 - SharedWork Ohio definitions.",
+      "number": "4141.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.51 - Participation in SharedWork Ohio.",
+      "number": "4141.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.52 - Commencement and duration of shared work plan.",
+      "number": "4141.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.53 - Eligibility for shared work compensation.",
+      "number": "4141.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.54 - Employees who satisfy availability requirement.",
+      "number": "4141.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.55 - Reimbursement.",
+      "number": "4141.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.56 - Report.",
+      "number": "4141.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.60 - Annual report.",
+      "number": "4141.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4141.99 - Penalty.",
+      "number": "4141.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.99"
+    }
+  ],
+  "scraped": "2026-07-02T20:04:31+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-4141",
+  "title": "Chapter 4141 - Unemployment Compensation"
+}

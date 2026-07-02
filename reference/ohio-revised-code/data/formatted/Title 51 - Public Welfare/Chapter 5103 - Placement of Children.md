@@ -1,0 +1,120 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-5103
+Scraped: 2026-07-02T20:10:24+00:00
+
+# Chapter 5103 - Placement of Children
+
+## Sections
+
+- Section 5103.02 - Placement of children definitions.
+- Section 5103.021 - Scholars residential centers.
+- Section 5103.03 - Rules for adequate and competent management of institutions or associations.
+- Section 5103.031 - Preplacement training.
+- Section 5103.032 - Continuing training.
+- Section 5103.033 - Training required where child was less than six months of age at time of temporary custody agreement.
+- Section 5103.034 - Making training programs available.
+- Section 5103.035 - Needs assessment and continuing training plan.
+- Section 5103.036 - Accepting training from other programs.
+- Section 5103.037 - Appointment of board president, administrator, or officer.
+- Section 5103.038 - Agencies submitting proposals for programs.
+- Section 5103.039 - Summary suspension of an institution or association.
+- Section 5103.0310 - Background checks.
+- Section 5103.0312 - Reimbursement of caregivers for training courses.
+- Section 5103.0313 - Reimbursement of agencies for training courses.
+- Section 5103.0314 - Recommending agencies ineligible for reimbursement.
+- Section 5103.0315 - Federal financial participation in payment of training costs.
+- Section 5103.0316 - Training program rules.
+- Section 5103.0317 - Limit of children in foster home.
+- Section 5103.0318 - Applicability of zoning laws.
+- Section 5103.0319 - Prohibited offenses for certain minors residing in a foster home.
+- Section 5103.0320 - Denying certificate based on misconduct of resident.
+- Section 5103.0321 - Duties of agency upon notice of conviction of certain offense by foster child.
+- Section 5103.0322 - Notice to applicant or certificate holder of decisions.
+- Section 5103.0323 - Audit prior to renewal of certificate.
+- Section 5103.0324 - Assessor to conduct home study.
+- Section 5103.0325 - Review of rules for agency visits.
+- Section 5103.0326 - Nonrenewals based on refusals to accept children.
+- Section 5103.0327 - Physical examinations.
+- Section 5103.0328 - Notice of arrest or conviction of foster caregiver.
+- Section 5103.0329 - Waiver of non-safety standards for kinship caregivers seeking foster home certification.
+- Section 5103.04 - Articles of incorporation to be filed with department of children and youth.
+- Section 5103.05 - Notice of operation.
+- Section 5103.051 - Community engagement plan.
+- Section 5103.052 - Residential facility - applicability.
+- Section 5103.053 - Residential facility criminal records check.
+- Section 5103.054 - Review of residential facility locations.
+- Section 5103.055 - Communications regarding a residential facility.
+- Section 5103.056 - Evidence of corrective action after violation.
+- Section 5103.057 - Revocation of conditional use permit.
+- Section 5103.058 - Annual compliance visit.
+- Section 5103.0510 - Residential facility 24-hour emergency on-call procedure.
+- Section 5103.0512 - Annual staff survey and review.
+- Section 5103.0513 - Education form.
+- Section 5103.0520 - Requirements for group homes.
+- Section 5103.07 - Department to administer funds received under federal child welfare and abuse programs.
+- Section 5103.08 - Administering funds under state dependent care development grants.
+- Section 5103.09 - Benefits to children in the custody of a Title IV-E agency.
+- Section 5103.11 - Foster care and adoption initiatives fund.
+- Section 5103.12 - Payments to encourage adoptive placement of children in permanent custody of public children services agency.
+- Section 5103.13 - Children's crisis care facilities requirements and limitations.
+- Section 5103.131 - Federal grant application for children's crisis care facilities.
+- Section 5103.14 - Enforcement powers.
+- Section 5103.15 - Agreements for temporary custody.
+- Section 5103.151 - Duties prospective parent of adoptee.
+- Section 5103.152 - Duties of assessor.
+- Section 5103.153 - Review hearing of agreement.
+- Section 5103.155 - Surplus in putative father registry fund used to promote adoption of children with special needs.
+- Section 5103.16 - Certification required before associations and institutions may accept temporary or permanent custody of child.
+- Section 5103.161 - Notification of foster caregiver or relative with custody of permanent custody motion or prospective adoption placement.
+- Section 5103.162 - Qualified immunity of foster caregiver.
+- Section 5103.163 - Resource family bill of rights.
+- Section 5103.17 - Advertising or inducements as to adoption or foster home placement.
+- Section 5103.18 - Pre-placement report of child welfare system information search.
+- Section 5103.181 - Background checks.
+- Section 5103.20 - Interstate compact for placement of children adopted.
+- Section 5103.21 - Department compact implementing rules.
+- Section 5103.22 - State human services administration.
+- Section 5103.23 - Interstate Compact on Placement of Children.
+- Section 5103.231 - Determination of financial responsibility.
+- Section 5103.232 - Appropriate public authority.
+- Section 5103.233 - Appropriate authority in receiving state.
+- Section 5103.234 - Agreements with other party states.
+- Section 5103.235 - Requirements for visitation, inspection, supervision of children.
+- Section 5103.236 - Jurisdiction of court.
+- Section 5103.237 - Executive head defined.
+- Section 5103.30 - Ohio child welfare training program.
+- Section 5103.302 - Private agency enrollment conditioned on space.
+- Section 5103.303 - Payment of department allowance to private agencies.
+- Section 5103.32 - Funding Ohio child welfare training program.
+- Section 5103.37 - Training coordinator for child welfare training program - duties.
+- Section 5103.39 - Training program steering committee.
+- Section 5103.391 - Appointment of members.
+- Section 5103.40 - Ohio child welfare program steering committee.
+- Section 5103.41 - Designating training regions.
+- Section 5103.42 - [Former R.C. 5103.422, amended and renumbered by H.B. 33, 135th General Assembly, effective 10/3/2023] Regional training staff responsibilities.
+- Section 5103.50 - License for private, nonprofit therapeutic wilderness camp.
+- Section 5103.52 - Inspection.
+- Section 5103.53 - Injunctive relief.
+- Section 5103.54 - Rules.
+- Section 5103.55 - Compulsory school attendance.
+- Section 5103.57 - Professional treatment staff definitions.
+- Section 5103.58 - Professional treatment staff requirements and training.
+- Section 5103.59 - Professional treatment staff training program.
+- Section 5103.60 - Residential infant care center definitions.
+- Section 5103.602 - Application for residential infant care center certification.
+- Section 5103.603 - Certification of residential infant care center.
+- Section 5103.608 - Infant eligibility for residential infant care center placement.
+- Section 5103.609 - Placement in residential infant care center for up to 90 days.
+- Section 5103.6010 - Residential infant care center operational requirements.
+- Section 5103.6011 - Residential infant care center compliance exclusions.
+- Section 5103.6012 - Residential infant care center child-to-staff ratios.
+- Section 5103.6015 - Federal grant application for residential infant care centers.
+- Section 5103.6016 - [Former R.C. 5103.132, amended and renumbered by H.B. 265, 134th General Assembly, effective 6/13/2022] Firearms on grounds of residential infant care center.
+- Section 5103.6017 - Suspension or revocation of residential infant care center certification.
+- Section 5103.6018 - Residential infant care facility certification rules.
+- Section 5103.61 - Family preservation center definition.
+- Section 5103.611 - Family preservation center certification application.
+- Section 5103.612 - Certification of family preservation center; waiver prohibited.
+- Section 5103.614 - Family preservation center operational requirements.
+- Section 5103.615 - Suspension or revocation of family preservation center certification.
+- Section 5103.617 - Family preservation center certification rules.
+- Section 5103.99 - Penalty.

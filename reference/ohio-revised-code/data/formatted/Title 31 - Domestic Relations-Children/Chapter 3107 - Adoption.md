@@ -1,0 +1,88 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-3107
+Scraped: 2026-07-02T19:47:38+00:00
+
+# Chapter 3107 - Adoption
+
+## Sections
+
+- Section 3107.01 - Adoption definitions.
+- Section 3107.011 - Arranging adoptions.
+- Section 3107.012 - Applying for adoption by foster caregiver.
+- Section 3107.013 - Furnishing information to foster caregiver seeking to adopt child.
+- Section 3107.014 - Qualifications of assessors.
+- Section 3107.015 - Education programs for assessors.
+- Section 3107.016 - Schedule of education programs.
+- Section 3107.017 - Standardized form for disclosure of information.
+- Section 3107.02 - Who may be adopted; placement period before adoption.
+- Section 3107.03 - Who may adopt.
+- Section 3107.031 - Assessor to conduct home study - false statements.
+- Section 3107.032 - Multiple children assessment - when required.
+- Section 3107.033 - Home study and report rules.
+- Section 3107.034 - Search report to include abuse/neglect information.
+- Section 3107.035 - Search of national sex offender web site.
+- Section 3107.04 - Filing petition - caption.
+- Section 3107.05 - Contents of petition.
+- Section 3107.051 - Placement of children requirements.
+- Section 3107.052 - [Former R.C. 3107.051, renumbered by H.B. 5, 135th General Assembly, effective 3/20/2025] Timeline for submitting adoption petition.
+- Section 3107.055 - Preliminary estimate and final accounting - summary of proceedings.
+- Section 3107.06 - Consent to adoption.
+- Section 3107.061 - Putative father on notice that consent unnecessary.
+- Section 3107.062 - Putative father registry.
+- Section 3107.063 - Searching putative father registry.
+- Section 3107.064 - Filing certified results of search.
+- Section 3107.065 - Rules governing registry - promoting awareness.
+- Section 3107.066 - References to department of human services replaced.
+- Section 3107.067 - Notice to putative father of intent to put child up for adoption.
+- Section 3107.068 - Obligation of mother.
+- Section 3107.069 - Proof of notice.
+- Section 3107.0611 - Notice to putative father.
+- Section 3107.0612 - Paternity action by putative father.
+- Section 3107.0613 - Notice of filing of paternity action.
+- Section 3107.0614 - Validity of notice.
+- Section 3107.07 - Consent unnecessary.
+- Section 3107.08 - Executing consent.
+- Section 3107.081 - Conditions for accepting parent's consent.
+- Section 3107.082 - Duties of assessor prior to execution of consent.
+- Section 3107.083 - Contents of form signed by parent.
+- Section 3107.084 - Withdrawing consent.
+- Section 3107.09 - Taking social and medical histories of biological parents.
+- Section 3107.091 - Completing social and medical history forms subsequent to adoption.
+- Section 3107.10 - Out-of-county adoption - notice to agency where parent resides.
+- Section 3107.101 - Post-placement prospective adoptive home visit.
+- Section 3107.11 - Hearing - notice.
+- Section 3107.12 - Prefinalization assessment of minor and petitioner; physical examination.
+- Section 3107.14 - Presence of petitioner and adoptee at hearing - continuance - final decree or interlocutory order.
+- Section 3107.141 - Redoing or supplementing of report or history.
+- Section 3107.15 - Effect of final decree or interlocutory order of adoption.
+- Section 3107.16 - Appeals.
+- Section 3107.161 - Determining best interest of child in contested adoption - burden of proof.
+- Section 3107.17 - Closed hearing - confidentiality - records.
+- Section 3107.171 - Disclosure of court that entered order or decree.
+- Section 3107.18 - Foreign adoption.
+- Section 3107.19 - Forwarding records to department of health and birth state's vital statistics office.
+- Section 3107.20 - Termination of child support order.
+- Section 3107.38 - Right of adopted persons or lineal descendants.
+- Section 3107.381 - Transfer of releases.
+- Section 3107.39 - Contact preference form for biological parents.
+- Section 3107.391 - Biological parent's name redaction request form.
+- Section 3107.392 - Information on web site.
+- Section 3107.393 - Attachment of social and medical history form to other forms.
+- Section 3107.394 - System for contacting biological parents regarding medical history.
+- Section 3107.45 - Access to adoption records additional definitions.
+- Section 3107.46 - Birth parent may file denial of release.
+- Section 3107.47 - Adult adoptee or adoptive parent may request copy of file.
+- Section 3107.48 - Adoptee's request for assistance to birth parent or sibling in finding name by adoption.
+- Section 3107.49 - Birth parent or adult sibling may request assistance.
+- Section 3107.50 - Forms for denial or authorization of release.
+- Section 3107.51 - Form for adoptee's request for assistance.
+- Section 3107.52 - Access to records.
+- Section 3107.53 - Immunity.
+- Section 3107.60 - Open adoption definitions.
+- Section 3107.61 - Birth parent may request profiles of prospective adoptive parents and express preference.
+- Section 3107.62 - Nonbinding open adoption notice.
+- Section 3107.63 - Birth parent may request open adoption agreement.
+- Section 3107.65 - Terms prohibited in open adoption.
+- Section 3107.66 - Request for nonidentifying information.
+- Section 3107.67 - Transfer of records to probate court when agency or attorney permanently ceases arranging adoptions.
+- Section 3107.68 - Providing of materials, photographs and birth parent's first name to child or adoptive parent.
+- Section 3107.99 - Penalty.

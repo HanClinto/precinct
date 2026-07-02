@@ -1,0 +1,342 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Affiliate\" means a business entity that is owned by, operated by, controlled by, or under common control with another business entity.",
+      "id": "4719.01-affiliate",
+      "normalized": "affiliate",
+      "scope": "(A) As used in sections 4719.01 to 4719.18 of the Revised Code:",
+      "section": "4719.01",
+      "source_title": "Section 4719.01 - Telephone solicitor definitions - exemptions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4719.01",
+      "term": "Affiliate"
+    },
+    {
+      "definition": "(2) \"Communication\" means a written or oral notification or advertisement that meets both of the following criteria, as applicable:\n\n(a) The notification or advertisement is transmitted by or on behalf of the seller of goods or services and by or through any printed, audio, video, cinematic, telephonic, or electronic means.\n\n(b) In the case of a notification or advertisement other than by telephone, either of the following conditions is met:\n\n(i) The notification or advertisement is followed by a telephone call from a telephone solicitor or salesperson.\n\n(ii) The notification or advertisement invites a response by telephone, and, during the course of that response, a telephone solicitor or salesperson attempts to make or makes a sale of goods or services. As used in division (A)(2)(b)(ii) of this section, \"invites a response by telephone\" excludes the mere listing or inclusion of a telephone number in a notification or advertisement.",
+      "id": "4719.01-communication",
+      "normalized": "communication",
+      "scope": "(A) As used in sections 4719.01 to 4719.18 of the Revised Code:",
+      "section": "4719.01",
+      "source_title": "Section 4719.01 - Telephone solicitor definitions - exemptions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4719.01",
+      "term": "Communication"
+    },
+    {
+      "definition": "(3) \"Gift, award, or prize\" means anything of value that is offered or purportedly offered, or given or purportedly given by chance, at no cost to the receiver and with no obligation to purchase goods or services. As used in this division, \"chance\" includes a situation in which a person is guaranteed to receive an item and, at the time of the offer or purported offer, the telephone solicitor does not identify the specific item that the person will receive.",
+      "id": "4719.01-gift-award-or-prize",
+      "normalized": "gift, award, or prize",
+      "scope": "(A) As used in sections 4719.01 to 4719.18 of the Revised Code:",
+      "section": "4719.01",
+      "source_title": "Section 4719.01 - Telephone solicitor definitions - exemptions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4719.01",
+      "term": "Gift, award, or prize"
+    },
+    {
+      "definition": "(4) \"Goods or services\" means any real property or any tangible or intangible personal property, or services of any kind provided or offered to a person. \"Goods or services\" includes, but is not limited to, advertising; labor performed for the benefit of a person; personal property intended to be attached to or installed in any real property, regardless of whether it is so attached or installed; timeshare estates or licenses; and extended service contracts.",
+      "id": "4719.01-goods-or-services",
+      "normalized": "goods or services",
+      "scope": "(A) As used in sections 4719.01 to 4719.18 of the Revised Code:",
+      "section": "4719.01",
+      "source_title": "Section 4719.01 - Telephone solicitor definitions - exemptions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4719.01",
+      "term": "Goods or services"
+    },
+    {
+      "definition": "(5) \"Purchaser\" means a person that is solicited to become or does become financially obligated as a result of a telephone solicitation.",
+      "id": "4719.01-purchaser",
+      "normalized": "purchaser",
+      "scope": "(A) As used in sections 4719.01 to 4719.18 of the Revised Code:",
+      "section": "4719.01",
+      "source_title": "Section 4719.01 - Telephone solicitor definitions - exemptions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4719.01",
+      "term": "Purchaser"
+    },
+    {
+      "definition": "(6) \"Salesperson\" means an individual who is employed, appointed, or authorized by a telephone solicitor to make telephone solicitations but does not mean any of the following:\n\n(a) An individual who comes within one of the exemptions in division (B) of this section;\n\n(b) An individual employed, appointed, or authorized by a person who comes within one of the exemptions in division (B) of this section;\n\n(c) An individual under a written contract with a person who comes within one of the exemptions in division (B) of this section, if liability for all transactions with purchasers is assumed by the person so exempted.",
+      "id": "4719.01-salesperson",
+      "normalized": "salesperson",
+      "scope": "(A) As used in sections 4719.01 to 4719.18 of the Revised Code:",
+      "section": "4719.01",
+      "source_title": "Section 4719.01 - Telephone solicitor definitions - exemptions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4719.01",
+      "term": "Salesperson"
+    },
+    {
+      "definition": "(7) \"Telephone solicitation\" means a communication to a person that meets both of the following criteria:\n\n(a) The communication is initiated by or on behalf of a telephone solicitor or by a salesperson.\n\n(b) The communication either represents a price or the quality or availability of goods or services or is used to induce the person to purchase goods or services, including, but not limited to, inducement through the offering of a gift, award, or prize.",
+      "id": "4719.01-telephone-solicitation",
+      "normalized": "telephone solicitation",
+      "scope": "(A) As used in sections 4719.01 to 4719.18 of the Revised Code:",
+      "section": "4719.01",
+      "source_title": "Section 4719.01 - Telephone solicitor definitions - exemptions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4719.01",
+      "term": "Telephone solicitation"
+    },
+    {
+      "definition": "(8) \"Telephone solicitor\" means a person that engages in telephone solicitation directly or through one or more salespersons either from a location in this state, or from a location outside this state to persons in this state. \"Telephone solicitor\" includes, but is not limited to, any such person that is an owner, operator, officer, or director of, partner in, or other individual engaged in the management activities of, a business.\n\n(B) A telephone solicitor is exempt from the provisions of sections 4719.02 to 4719.18 and section 4719.99 of the Revised Code if the telephone solicitor is any one of the following:\n\n(1) A person engaging in a telephone solicitation that is a one-time or infrequent transaction not done in the course of a pattern of repeated transactions of a like nature;\n\n(2) A person engaged in telephone solicitation solely for religious or political purposes; a charitable organization, fund-raising counsel, or professional solicitor in compliance with the registration and reporting requirements of Chapter 1716. of the Revised Code; or any person or other entity exempt under section 1716.03 of the Revised Code from filing a registration statement under section 1716.02 of the Revised Code;\n\n(3) A person, making a telephone solicitation involving a home solicitation sale as defined in section 1345.21 of the Revised Code, that makes the sales presentation and completes the sale at a later, face-to-face meeting between the seller and the purchaser rather than during the telephone solicitation. However, if the person, following the telephone solicitation, causes another person to collect the payment of any money, this exemption does not apply.",
+      "id": "4719.01-telephone-solicitor",
+      "normalized": "telephone solicitor",
+      "scope": "(A) As used in sections 4719.01 to 4719.18 of the Revised Code:",
+      "section": "4719.01",
+      "source_title": "Section 4719.01 - Telephone solicitor definitions - exemptions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4719.01",
+      "term": "Telephone solicitor"
+    },
+    {
+      "definition": "(4) A licensed securities, commodities, or investment broker, dealer, investment advisor, or associated person when making a telephone solicitation within the scope of the person's license. As used in division (B)(4) of this section, \"licensed securities, commodities, or investment broker, dealer, investment advisor, or associated person\" means a person subject to licensure or registration as such by the securities and exchange commission; the National Association of Securities Dealers or other self-regulatory organization, as defined by 15 U.S.C.A. 78c; by the division of securities under Chapter 1707. of the Revised Code; or by an official or agency of any other state of the United States.\n\n(5)(a) A person primarily engaged in soliciting the sale of a newspaper of general circulation;\n\n(b) As used in division (B)(5)(a) of this section, \"newspaper of general circulation\" includes, but is not limited to, both of the following:\n\n(i) A newspaper that is a daily law journal designated as an official publisher of court calendars pursuant to section 2701.09 of the Revised Code;\n\n(ii) A newspaper or publication that has at least twenty-five per cent editorial, non-advertising content, exclusive of inserts, measured relative to total publication space, and an audited circulation to at least fifty per cent of the households in the newspaper's retail trade zone as defined by the audit.\n\n(6)(a) An issuer, or its subsidiary, that has a class of securities to which all of the following apply:\n\n(i) The class of securities is subject to section 12 of the \"Securities Exchange Act of 1934,\" 15 U.S.C.A. 78l, and is registered or is exempt from registration under 15 U.S.C.A. 78l(g)(2)(A), (B), (C), (E), (F), (G), or (H);\n\n(ii) The class of securities is listed on the New York stock exchange, the American stock exchange, or the NASDAQ national market system;\n\n(iii) The class of securities is a reported security as defined in 17 C.F.R. 240.11Aa3-1(a)(4).",
+      "id": "4719.01-licensed-securities-commodities-or-investment-broker-dealer-investment-advisor-or-associated-person",
+      "normalized": "licensed securities, commodities, or investment broker, dealer, investment advisor, or associated person",
+      "scope": "(A) As used in sections 4719.01 to 4719.18 of the Revised Code:",
+      "section": "4719.01",
+      "source_title": "Section 4719.01 - Telephone solicitor definitions - exemptions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4719.01",
+      "term": "licensed securities, commodities, or investment broker, dealer, investment advisor, or associated person"
+    },
+    {
+      "definition": "(b) An issuer, or its subsidiary, that formerly had a class of securities that met the criteria set forth in division (B)(6)(a) of this section if the issuer, or its subsidiary, has a net worth in excess of one hundred million dollars, files or its parent files with the securities and exchange commission an S.E.C. form 10-K, and has continued in substantially the same business since it had a class of securities that met the criteria in division (B)(6)(a) of this section. As used in division (B)(6)(b) of this section, \"issuer\" and \"subsidiary\" include the successor to an issuer or subsidiary.\n\n(7) A person soliciting a transaction regulated by the commodity futures trading commission, if the person is registered or temporarily registered for that activity with the commission under 7 U.S.C.A. 1 et seq. and the registration or temporary registration has not expired or been suspended or revoked;\n\n(8) A person soliciting the sale of any book, record, audio tape, compact disc, or video, if the person allows the purchaser to review the merchandise for at least seven days and provides a full refund within thirty days to a purchaser who returns the merchandise or if the person solicits the sale on behalf of a membership club operating in compliance with regulations adopted by the federal trade commission in 16 C.F.R. 425;",
+      "id": "4719.01-issuer",
+      "normalized": "issuer",
+      "scope": "(b) As used in division (B)(5)(a) of this section, \"newspaper of general circulation\" includes, but is not limited to, both of the following:",
+      "section": "4719.01",
+      "source_title": "Section 4719.01 - Telephone solicitor definitions - exemptions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4719.01",
+      "term": "issuer"
+    },
+    {
+      "definition": "(b) An issuer, or its subsidiary, that formerly had a class of securities that met the criteria set forth in division (B)(6)(a) of this section if the issuer, or its subsidiary, has a net worth in excess of one hundred million dollars, files or its parent files with the securities and exchange commission an S.E.C. form 10-K, and has continued in substantially the same business since it had a class of securities that met the criteria in division (B)(6)(a) of this section. As used in division (B)(6)(b) of this section, \"issuer\" and \"subsidiary\" include the successor to an issuer or subsidiary.\n\n(7) A person soliciting a transaction regulated by the commodity futures trading commission, if the person is registered or temporarily registered for that activity with the commission under 7 U.S.C.A. 1 et seq. and the registration or temporary registration has not expired or been suspended or revoked;\n\n(8) A person soliciting the sale of any book, record, audio tape, compact disc, or video, if the person allows the purchaser to review the merchandise for at least seven days and provides a full refund within thirty days to a purchaser who returns the merchandise or if the person solicits the sale on behalf of a membership club operating in compliance with regulations adopted by the federal trade commission in 16 C.F.R. 425;",
+      "id": "4719.01-subsidiary",
+      "normalized": "subsidiary",
+      "scope": "(b) As used in division (B)(5)(a) of this section, \"newspaper of general circulation\" includes, but is not limited to, both of the following:",
+      "section": "4719.01",
+      "source_title": "Section 4719.01 - Telephone solicitor definitions - exemptions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4719.01",
+      "term": "subsidiary"
+    },
+    {
+      "definition": "(9) A supervised financial institution or its subsidiary. As used in division (B)(9) of this section, \"supervised financial institution\" means a bank, trust company, savings and loan association, savings bank, credit union, industrial loan company, consumer finance lender, commercial finance lender, or institution described in section 2(c)(2)(F) of the \"Bank Holding Company Act of 1956,\" 12 U.S.C.A. 1841(c)(2)(F), as amended, supervised by an official or agency of the United States, this state, or any other state of the United States; or a licensee or registrant under sections 1321.01 to 1321.19 , 1321.51 to 1321.60 , or 1321.71 to 1321.83 , or Chapter 1322. of the Revised Code.\n\n(10)(a) An insurance company, association, or other organization that is licensed or authorized to conduct business in this state by the superintendent of insurance pursuant to Title XXXIX of the Revised Code or Chapter 1751. of the Revised Code, when soliciting within the scope of its license or authorization.",
+      "id": "4719.01-supervised-financial-institution",
+      "normalized": "supervised financial institution",
+      "scope": "(b) As used in division (B)(5)(a) of this section, \"newspaper of general circulation\" includes, but is not limited to, both of the following:",
+      "section": "4719.01",
+      "source_title": "Section 4719.01 - Telephone solicitor definitions - exemptions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4719.01",
+      "term": "supervised financial institution"
+    },
+    {
+      "definition": "(b) A licensed insurance broker, agent, or solicitor when soliciting within the scope of the person's license. As used in division (B)(10)(b) of this section, \"licensed insurance broker, agent, or solicitor\" means any person licensed as an insurance broker, agent, or solicitor by the superintendent of insurance pursuant to Title XXXIX of the Revised Code.\n\n(11) A person soliciting the sale of services provided by a cable television system operating under authority of a governmental franchise or permit;\n\n(12) A person soliciting a business-to-business sale under which any of the following conditions are met:\n\n(a) The telephone solicitor has been operating continuously for at least three years under the same business name under which it solicits purchasers, and at least fifty-one per cent of its gross dollar volume of sales consists of repeat sales to existing customers to whom it has made sales under the same business name.\n\n(b) The purchaser business intends to resell the goods purchased.\n\n(c) The purchaser business intends to use the goods or services purchased in a recycling, reuse, manufacturing, or remanufacturing process.\n\n(d) The telephone solicitor is a publisher of a periodical or of magazines distributed as controlled circulation publications as defined in division (CC) of section 5739.01 of the Revised Code and is soliciting sales of advertising, subscriptions, reprints, lists, information databases, conference participation or sponsorships, trade shows or media products related to the periodical or magazine, or other publishing services provided by the controlled circulation publication.\n\n(13) A person that, not less often than once each year, publishes and delivers to potential purchasers a catalog that complies with both of the following:\n\n(a) It includes all of the following:\n\n(i) The business address of the seller;\n\n(ii) A written description or illustration of each good or service offered for sale;\n\n(iii) A clear and conspicuous disclosure of the sale price of each good or service; shipping, handling, and other charges; and return policy.\n\n(b) One of the following applies:\n\n(i) The catalog includes at least twenty-four pages of written material and illustrations, is distributed in more than one state, and has an annual postage-paid mail circulation of not less than two hundred fifty thousand households;",
+      "id": "4719.01-licensed-insurance-broker-agent-or-solicitor",
+      "normalized": "licensed insurance broker, agent, or solicitor",
+      "scope": "(b) As used in division (B)(5)(a) of this section, \"newspaper of general circulation\" includes, but is not limited to, both of the following:",
+      "section": "4719.01",
+      "source_title": "Section 4719.01 - Telephone solicitor definitions - exemptions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4719.01",
+      "term": "licensed insurance broker, agent, or solicitor"
+    },
+    {
+      "definition": "(ii) The catalog includes at least ten pages of written material or an equivalent amount of material in electronic form on the internet or an on-line computer service, the person does not solicit customers by telephone but solely receives telephone calls made in response to the catalog, and during the calls the person takes orders but does not engage in further solicitation of the purchaser. As used in division (B)(13)(b)(ii) of this section, \"further solicitation\" does not include providing the purchaser with information about, or attempting to sell, any other item in the catalog that prompted the purchaser's call or in a substantially similar catalog issued by the seller.\n\n(14) A political subdivision or instrumentality of the United States, this state, or any state of the United States;\n\n(15) A college or university or any other public or private institution of higher education in this state;\n\n(16) A public utility as defined in section 4905.02 of the Revised Code or a retail natural gas supplier as defined in section 4929.01 of the Revised Code, if the utility or supplier is subject to regulation by the public utilities commission, or the affiliate of the utility or supplier;\n\n(17) A person that solicits sales through a television program or advertisement that is presented in the same market area no fewer than twenty days per month or offers for sale no fewer than ten distinct items of goods or services; and offers to the purchaser an unconditional right to return any good or service purchased within a period of at least seven days and to receive a full refund within thirty days after the purchaser returns the good or cancels the service;\n\n(18)(a) A person that, for at least one year, has been operating a retail business under the same name as that used in connection with telephone solicitation and both of the following occur on a continuing basis:\n\n(i) The person either displays goods and offers them for retail sale at the person's business premises or offers services for sale and provides them at the person's business premises.\n\n(ii) At least fifty-one per cent of the person's gross dollar volume of retail sales involves purchases of goods or services at the person's business premises.\n\n(b) An affiliate of a person that meets the requirements in division (B)(18)(a) of this section if the affiliate meets all of the following requirements:\n\n(i) The affiliate has operated a retail business for a period of less than one year;\n\n(ii) The affiliate either displays goods and offers them for retail sale at the affiliate's business premises or offers services for sale and provides them at the affiliate's business premises;\n\n(iii) At least fifty-one per cent of the affiliate's gross dollar volume of retail sales involves purchases of goods or services at the affiliate's business premises.\n\n(c) A person that, for a period of less than one year, has been operating a retail business in this state under the same name as that used in connection with telephone solicitation, as long as all of the following requirements are met:\n\n(i) The person either displays goods and offers them for retail sale at the person's business premises or offers services for sale and provides them at the person's business premises;\n\n(ii) The goods or services that are the subject of telephone solicitation are sold at the person's business premises, and at least sixty-five per cent of the person's gross dollar volume of retail sales involves purchases of goods or services at the person's business premises;\n\n(iii) The person conducts all telephone solicitation activities according to sections 310.3 , 310.4 , and 310.5 of the telemarketing sales rule adopted by the federal trade commission in 16 C.F.R. part 310.\n\n(19) A person who performs telephone solicitation sales services on behalf of other persons and to whom one of the following applies:\n\n(a) The person has operated under the same ownership, control, and business name for at least five years, and the person receives at least seventy-five per cent of its gross revenues from written telephone solicitation contracts with persons who come within one of the exemptions in division (B) of this section.\n\n(b) The person is an affiliate of one or more exempt persons and makes telephone solicitations on behalf of only the exempt persons of which it is an affiliate.\n\n(c) The person makes telephone solicitations on behalf of only exempt persons, the person and each exempt person on whose behalf telephone solicitations are made have entered into a written contract that specifies the manner in which the telephone solicitations are to be conducted and that at a minimum requires compliance with the telemarketing sales rule adopted by the federal trade commission in 16 C.F.R. part 310, and the person conducts the telephone solicitations in the manner specified in the written contract.\n\n(d) The person performs telephone solicitation for religious or political purposes, a charitable organization, a fund-raising council, or a professional solicitor in compliance with the registration and reporting requirements of Chapter 1716. of the Revised Code; and meets all of the following requirements:\n\n(i) The person has operated under the same ownership, control, and business name for at least five years, and the person receives at least fifty-one per cent of its gross revenues from written telephone solicitation contracts with persons who come within the exemption in division (B)(2) of this section;\n\n(ii) The person does not conduct a prize promotion or offer the sale of an investment opportunity;\n\n(iii) The person conducts all telephone solicitation activities according to sections 310.3 , 310.4 , and 310.5 of the telemarketing sales rules adopted by the federal trade commission in 16 C.F.R. part 310.\n\n(20) A person that is a licensed real estate salesperson or broker under Chapter 4735. of the Revised Code when soliciting within the scope of the person's license;\n\n(21)(a) Either of the following:\n\n(i) A publisher that solicits the sale of the publisher's periodical or magazine of general, paid circulation, or a person that solicits a sale of that nature on behalf of a publisher under a written agreement directly between the publisher and the person.\n\n(ii) A publisher that solicits the sale of the publisher's periodical or magazine of general, paid circulation, or a person that solicits a sale of that nature as authorized by a publisher under a written agreement directly with a publisher's clearinghouse provided the person is a resident of Ohio for more than three years and initiates all telephone solicitations from Ohio and the person conducts the solicitation and sale in compliance with 16 C.F.R. part 310, as adopted by the federal trade commission.\n\n(b) As used in division (B)(21) of this section, \"periodical or magazine of general, paid circulation\" excludes a periodical or magazine circulated only as part of a membership package or given as a free gift or prize from the publisher or person.\n\n(22) A person that solicits the sale of food, as defined in section 3715.01 of the Revised Code, or the sale of products of horticulture, as defined in section 5739.01 of the Revised Code, if the person does not intend the solicitation to result in, or the solicitation actually does not result in, a sale that costs the purchaser an amount greater than five hundred dollars.\n\n(23) A funeral director licensed pursuant to Chapter 4717. of the Revised Code when soliciting within the scope of that license, if both of the following apply:\n\n(a) The solicitation and sale are conducted in compliance with 16 C.F.R. part 453, as adopted by the federal trade commission, and with sections 1107.33 and 1345.21 to 1345.28 of the Revised Code;\n\n(b) The person provides to the purchaser of any preneed funeral contract a notice that clearly and conspicuously sets forth the cancellation rights specified in division (G) of section 1107.33 of the Revised Code, and retains a copy of the notice signed by the purchaser.\n\n(24) A person, or affiliate thereof, licensed to sell or issue Ohio instruments designated as travelers checks pursuant to sections 1315.01 to 1315.18 of the Revised Code.\n\n(25) A person that solicits sales from its previous purchasers and meets all of the following requirements:\n\n(a) The solicitation is made under the same business name that was previously used to sell goods or services to the purchaser;\n\n(b) The person has, for a period of not less than three years, operated a business under the same business name as that used in connection with telephone solicitation;\n\n(c) The person does not conduct a prize promotion or offer the sale of an investment opportunity;\n\n(d) The person conducts all telephone solicitation activities according to sections 310.3 , 310.4 , and 310.5 of the telemarketing sales rules adopted by the federal trade commission in 16 C.F.R. part 310;\n\n(e) Neither the person nor any of its principals has been convicted of, pleaded guilty to, or has entered a plea of no contest for a felony or a theft offense as defined in sections 2901.02 and 2913.01 of the Revised Code or similar law of another state or of the United States;\n\n(f) Neither the person nor any of its principals has had entered against them an injunction or a final judgment or order, including an agreed judgment or order, an assurance of voluntary compliance, or any similar instrument, in any civil or administrative action involving engaging in a pattern of corrupt practices, fraud, theft, embezzlement, fraudulent conversion, or misappropriation of property; the use of any untrue, deceptive, or misleading representation; or the use of any unfair, unlawful, deceptive, or unconscionable trade act or practice.\n\n(26) An institution defined as a home health agency in section 3740.01 of the Revised Code, that conducts all telephone solicitation activities according to sections 310.3 , 310.4 , and 310.5 of the telemarketing sales rules adopted by the federal trade commission in 16 C.F.R. part 310, and engages in telephone solicitation only within the scope of the institution's certification, accreditation, contract with the department of aging, or status as a home health agency; and that meets one of the following requirements:\n\n(a) The institution is certified as a provider of home health services under Title XVIII of the Social Security Act, 49 Stat. 620, 42 U.S.C. 301, as amended;\n\n(b) The institution is accredited by either the joint commission on accreditation of health care organizations or the community health accreditation program;\n\n(c) The institution is providing PASSPORT services under the direction of the department of aging under sections 173.52 to 173.523 of the Revised Code;\n\n(d) An affiliate of an institution that meets the requirements of division (B)(26)(a), (b), or (c) of this section when offering for sale substantially the same goods and services as those that are offered by the institution that meets the requirements of division (B)(26)(a), (b), or (c) of this section.\n\n(27) A person licensed by the department of health pursuant to section 3712.04 or 3712.041 of the Revised Code to provide a hospice care program or pediatric respite care program when conducting telephone solicitations within the scope of the person's license and according to sections 310.3 , 310.4 , and 310.5 of the telemarketing sales rules adopted by the federal trade commission in 16 C.F.R. part 310.\n\nLast updated August 24, 2021 at 2:20 PM",
+      "id": "4719.01-further-solicitation",
+      "normalized": "further solicitation",
+      "scope": "(b) As used in division (B)(5)(a) of this section, \"newspaper of general circulation\" includes, but is not limited to, both of the following:",
+      "section": "4719.01",
+      "source_title": "Section 4719.01 - Telephone solicitor definitions - exemptions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4719.01",
+      "term": "further solicitation"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "4719.01",
+      "number": "4719.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4719.01"
+    },
+    {
+      "kind": "section",
+      "label": "4719.18",
+      "number": "4719.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4719.18"
+    },
+    {
+      "kind": "section",
+      "label": "4719.02",
+      "number": "4719.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4719.02"
+    },
+    {
+      "kind": "section",
+      "label": "4719.99",
+      "number": "4719.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4719.99"
+    },
+    {
+      "kind": "section",
+      "label": "1716.03",
+      "number": "1716.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1716.03"
+    },
+    {
+      "kind": "section",
+      "label": "1716.02",
+      "number": "1716.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1716.02"
+    },
+    {
+      "kind": "section",
+      "label": "1345.21",
+      "number": "1345.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.21"
+    },
+    {
+      "kind": "section",
+      "label": "2701.09",
+      "number": "2701.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2701.09"
+    },
+    {
+      "kind": "section",
+      "label": "1321.01",
+      "number": "1321.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.01"
+    },
+    {
+      "kind": "section",
+      "label": "1321.19",
+      "number": "1321.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.19"
+    },
+    {
+      "kind": "section",
+      "label": "1321.51",
+      "number": "1321.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.51"
+    },
+    {
+      "kind": "section",
+      "label": "1321.60",
+      "number": "1321.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.60"
+    },
+    {
+      "kind": "section",
+      "label": "1321.71",
+      "number": "1321.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.71"
+    },
+    {
+      "kind": "section",
+      "label": "1321.83",
+      "number": "1321.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.83"
+    },
+    {
+      "kind": "section",
+      "label": "5739.01",
+      "number": "5739.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.01"
+    },
+    {
+      "kind": "section",
+      "label": "4905.02",
+      "number": "4905.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.02"
+    },
+    {
+      "kind": "section",
+      "label": "4929.01",
+      "number": "4929.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4929.01"
+    },
+    {
+      "kind": "section",
+      "label": "310.3",
+      "number": "310.3",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-310.3"
+    },
+    {
+      "kind": "section",
+      "label": "310.4",
+      "number": "310.4",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-310.4"
+    },
+    {
+      "kind": "section",
+      "label": "310.5",
+      "number": "310.5",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-310.5"
+    },
+    {
+      "kind": "section",
+      "label": "3715.01",
+      "number": "3715.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.01"
+    },
+    {
+      "kind": "section",
+      "label": "1107.33",
+      "number": "1107.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1107.33"
+    },
+    {
+      "kind": "section",
+      "label": "1345.28",
+      "number": "1345.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.28"
+    },
+    {
+      "kind": "section",
+      "label": "1315.01",
+      "number": "1315.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1315.01"
+    },
+    {
+      "kind": "section",
+      "label": "1315.18",
+      "number": "1315.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1315.18"
+    },
+    {
+      "kind": "section",
+      "label": "2901.02",
+      "number": "2901.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2901.02"
+    },
+    {
+      "kind": "section",
+      "label": "2913.01",
+      "number": "2913.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2913.01"
+    },
+    {
+      "kind": "section",
+      "label": "3740.01",
+      "number": "3740.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3740.01"
+    },
+    {
+      "kind": "section",
+      "label": "173.52",
+      "number": "173.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-173.52"
+    },
+    {
+      "kind": "section",
+      "label": "173.523",
+      "number": "173.523",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-173.523"
+    },
+    {
+      "kind": "section",
+      "label": "3712.04",
+      "number": "3712.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3712.04"
+    },
+    {
+      "kind": "section",
+      "label": "3712.041",
+      "number": "3712.041",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3712.041"
+    }
+  ],
+  "scraped": "2026-07-02T20:06:43+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4719.01",
+  "title": "Section 4719.01 - Telephone solicitor definitions - exemptions."
+}

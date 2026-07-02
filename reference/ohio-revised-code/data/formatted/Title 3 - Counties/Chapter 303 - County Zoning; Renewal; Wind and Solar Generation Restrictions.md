@@ -1,0 +1,84 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-303
+Scraped: 2026-07-02T19:32:36+00:00
+
+# Chapter 303 - County Zoning; Renewal; Wind and Solar Generation Restrictions
+
+## Sections
+
+- Section 303.01 - County rural zoning - agriculture defined.
+- Section 303.02 - County commissioners may regulate building and land use in unincorporated territory.
+- Section 303.021 - Designating street names and assigning numbers to buildings.
+- Section 303.022 - Establishing or modifying planned-unit developments.
+- Section 303.023 - Prior planned-unit developments continue to be governed by regulations in effect at time of approval or modification.
+- Section 303.03 - Adoption of resolution of intention to proceed with county rural zoning.
+- Section 303.04 - County rural zoning commission.
+- Section 303.05 - Recommendations of county rural zoning commission - powers and duties of commission.
+- Section 303.06 - Public hearing on recommendations - notice.
+- Section 303.07 - Submission of proposed zoning resolution to county or regional planning commission.
+- Section 303.08 - Public hearing on zoning plan.
+- Section 303.09 - Changes in text or maps - second public hearing.
+- Section 303.10 - County commissioners to vote upon adoption of resolution.
+- Section 303.11 - Zoning plan to be submitted to electors.
+- Section 303.12 - Amendments to zoning resolution.
+- Section 303.121 - Ratifying amendments to zoning resolution.
+- Section 303.122 - Limitations on procedural challenges.
+- Section 303.13 - County board of zoning appeals - term - compensation.
+- Section 303.14 - County board of zoning appeals - powers and duties.
+- Section 303.141 - Conditional zoning certificates for surface mining activities.
+- Section 303.15 - Organization and rules of county board of zoning appeals.
+- Section 303.16 - Enforcement of zoning regulations - county zoning inspector.
+- Section 303.161 - Architectural review board authorized - standards and procedures.
+- Section 303.17 - Zoning certificate required.
+- Section 303.18 - County regulations not applicable within municipal corporations except after incorporation or annexation.
+- Section 303.19 - Nonconforming use of buildings and land not affected by zoning.
+- Section 303.20 - Outdoor advertising classified as business use.
+- Section 303.21 - Limitations on powers - agricultural purposes.
+- Section 303.211 - Limitations on powers - public utility or railroads, telecommunications towers, alcoholic beverage sales, oil or gas drilling.
+- Section 303.212 - Limitations on powers - permanently sited manufactured homes.
+- Section 303.213 - Small wind farms zoning regulations.
+- Section 303.214 - Compliance with ORC section 5502.031.
+- Section 303.215 - County zoning regulations for home education learning pods.
+- Section 303.22 - Township zoning regulations to take precedence.
+- Section 303.23 - Violation of resolution and regulations.
+- Section 303.24 - Actions instituted to prevent violation.
+- Section 303.25 - Repeal of county zoning plan by township.
+- Section 303.251 - County special assessment to fund residential broadband expansion.
+- Section 303.26 - Removal of slum or blighted area definitions.
+- Section 303.27 - Rehabilitation or redevelopment of county renewal area by private enterprise.
+- Section 303.28 - Workable program to control spread of slums and blight.
+- Section 303.29 - Adoption of resolution of necessity.
+- Section 303.30 - Prerequisites for approval county renewal project for county renewal area.
+- Section 303.31 - Preparing county renewal plan.
+- Section 303.32 - Public hearing on county renewal project.
+- Section 303.33 - Approving county renewal project for county renewal area.
+- Section 303.34 - Modifying county renewal plan.
+- Section 303.35 - Plan or modification to be in full force and effect upon approval.
+- Section 303.36 - Redeveloping or rehabilitating disaster areas.
+- Section 303.37 - Board of county commissioners - powers and duties.
+- Section 303.38 - Acquiring real property by right of eminent domain.
+- Section 303.39 - Disposing of real property.
+- Section 303.40 - Cost of street maintenance within a county renewal area.
+- Section 303.41 - Special assessments.
+- Section 303.42 - Method of making a special assessment.
+- Section 303.43 - Waiving right to collect assessments.
+- Section 303.44 - Paying assessments on county owned lands.
+- Section 303.45 - Funds for planning or county renewal project functions.
+- Section 303.46 - Bonds for county renewal project.
+- Section 303.47 - Validity of signatures of public officials.
+- Section 303.48 - Validity or enforcement of bond.
+- Section 303.49 - Bond interest and income exempted from taxes.
+- Section 303.50 - Bonds are lawful investments.
+- Section 303.51 - Property exempt from levy and sale by virtue of execution.
+- Section 303.52 - Property exempt from taxation.
+- Section 303.53 - Transfer of property to county.
+- Section 303.54 - Presumption of compliance.
+- Section 303.55 - Establishing and maintaining records and funds.
+- Section 303.56 - Rules and regulations.
+- Section 303.57 - County wind and solar generation restriction definitions.
+- Section 303.58 - Restricted area resolution by county commissioners.
+- Section 303.59 - Restricted area resolution effective date; referendum.
+- Section 303.60 - Power siting board certificate or amendment prohibited in restricted area.
+- Section 303.61 - Public meeting before power siting board application for certificate or amendment.
+- Section 303.62 - County commissioner prohibition or limitation resolution after public meeting.
+- Section 303.65 - Claim preclusion and zoning appeals.
+- Section 303.99 - Penalty.

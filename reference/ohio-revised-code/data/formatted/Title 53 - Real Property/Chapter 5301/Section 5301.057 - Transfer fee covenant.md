@@ -1,0 +1,42 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5301.057
+Scraped: 2026-07-02T20:11:45+00:00
+
+# Section 5301.057 - Transfer fee covenant.
+
+**Effective:** March 22, 2013
+
+**Latest Legislation:** House Bill 274 - 129th General Assembly
+
+(A) As used in this section:
+
+(1) "Environmental covenant" means
+
+(a) A servitude that imposes activity and use limitations on real property and meets the requirements of section 5301.82 of the Revised Code;
+
+(b) A conservation easement or agricultural easement as defined in section 5301.67 of the Revised Code.
+
+(2) "Transfer" means the sale, gift, conveyance, assignment, inheritance, or other transfer of an ownership interest in real property located in this state.
+
+(3) "Transfer fee" means a fee or charge required by a transfer fee covenant and payable upon the transfer of an interest in real property, or payable for the right to make or accept such a transfer, regardless of whether the fee or charge is a fixed amount or is determined as a percentage of the value of the property, the purchase price, or other consideration given for the transfer. The following are not transfer fees for purposes of this section:
+
+(a) Any consideration payable by the grantee to the grantor for the interest in real property being transferred. For the purposes of division (A)(3)(a) of this section, an interest in real property includes a separate mineral estate and its appurtenant surface access rights.
+
+(b) Any commission payable to a licensed real estate broker for the transfer of real property pursuant to an agreement between the broker and the grantor or the grantee, including any subsequent additional commission for that transfer payable by the grantor or the grantee based upon any subsequent appreciation, development, or sale of real property;
+
+(c) Any interest, charges, fees, or other amounts payable by a borrower to a lender pursuant to a loan secured by a mortgage against real property;
+
+(d) Any rent, reimbursement, charge, fee, or other amount payable by a lessee to a lessor under a lease;
+
+(e) Any consideration payable to the holder of an option to purchase an interest in real property or the holder of a right of first refusal or first offer to purchase an interest in real property for waiving, releasing, or not exercising the option or right upon the transfer of the property to another person;
+
+(f) Any tax, fee, charge, assessment, fine, or other amount payable to or imposed by a governmental authority;
+
+(g) Any fee, charge, assessment, fine, or other amount payable to a homeowners, condominium, cooperative, mobile home, or property owners association pursuant to a declaration or covenant or law applicable to the association;
+
+(h) Any payment required pursuant to an environmental covenant.
+
+(4) "Transfer fee covenant" means a declaration or covenant recorded against the title to real property that requires or purports to require the payment of a transfer fee to the declarant or other person specified in the declaration or covenant or to their successors or assigns upon a subsequent transfer of an interest in the real property.
+
+(B) A transfer fee covenant recorded in this state on or after September 13, 2010, does not run with the title to real property and is not binding on or enforceable against any subsequent owner, purchaser, or mortgagee of any interest in real property as an equitable servitude or otherwise.
+
+(C) Any lien purporting to secure the payment of a transfer fee under a transfer fee covenant that is recorded in this state on or after September 13, 2010, is void.

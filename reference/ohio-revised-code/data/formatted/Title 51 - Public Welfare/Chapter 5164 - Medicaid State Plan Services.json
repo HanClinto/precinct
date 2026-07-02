@@ -1,0 +1,561 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 5164.01 - Definitions.",
+      "number": "5164.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.02 - Rules to implement chapter.",
+      "number": "5164.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.03 - Mandatory and optional services.",
+      "number": "5164.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.06 - Medicaid coverage of occupational therapy services.",
+      "number": "5164.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.061 - Chiropractic services.",
+      "number": "5164.061",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.061"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.07 - Coverage of inpatient care and follow-up care for a mother and her newborn.",
+      "number": "5164.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.071 - Doula program.",
+      "number": "5164.071",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.071"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.072 - Coverage of donor breast milk and fortifiers.",
+      "number": "5164.072",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.072"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.08 - Breast cancer and cervical cancer screening.",
+      "number": "5164.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.09 - Equivalent coverage for orally and intravenously administered cancer medications.",
+      "number": "5164.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.091 - Coverage for opioid analgesics.",
+      "number": "5164.091",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.091"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.092 - Coverage of remote ultrasounds and fetal nonstress tests.",
+      "number": "5164.092",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.092"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.093 - Coverage of rapid whole genome sequencing.",
+      "number": "5164.093",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.093"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.10 - Coverage of tobacco cessation medications and services.",
+      "number": "5164.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.14 - Medicaid coverage for health care service provided by pharmacist.",
+      "number": "5164.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.15 - Mental health services.",
+      "number": "5164.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.16 - Coverage of one or more state plan home and community-based services.",
+      "number": "5164.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.17 - Medicaid coverage of tobacco cessation services.",
+      "number": "5164.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.20 - Medicaid not to cover drugs for erectile dysfunction.",
+      "number": "5164.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.25 - Recipient with developmental disability who is eligible for medicaid case management services.",
+      "number": "5164.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.26 - Healthcheck component.",
+      "number": "5164.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.29 - Revised Medicaid provider enrollment system.",
+      "number": "5164.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.291 - Provider credentialing committee.",
+      "number": "5164.291",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.291"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.30 - Provider agreement with department required.",
+      "number": "5164.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.301 - Medicaid provider agreements for physician assistants.",
+      "number": "5164.301",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.301"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.31 - Funding for implementing the provider screening requirements.",
+      "number": "5164.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.32 - Expiration of medicaid provider agreements.",
+      "number": "5164.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.33 - Denying, terminating, and suspending provider agreements.",
+      "number": "5164.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.34 - Criminal records check of provider personnel, owners and officers.",
+      "number": "5164.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.341 - Criminal records check by independent provider.",
+      "number": "5164.341",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.341"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.342 - Criminal records checks by waiver agencies.",
+      "number": "5164.342",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.342"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.35 - Provider offenses.",
+      "number": "5164.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.36 - Credible allegation of fraud or disqualifying indictment; suspension of provider agreement.",
+      "number": "5164.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.37 - Suspension of provider agreement without notice.",
+      "number": "5164.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.38 - Adjudication orders of department.",
+      "number": "5164.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.39 - Hearing not required unless timely requested.",
+      "number": "5164.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.44 - Employee status of independent provider.",
+      "number": "5164.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.45 - Contracts for examination, processing, and determination of medicaid claims.",
+      "number": "5164.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.46 - Electronic claims submission process; electronic fund transfers.",
+      "number": "5164.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.47 - Contracting for review and analysis, quality assurance and quality review.",
+      "number": "5164.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.471 - Summary data regarding perinatal services.",
+      "number": "5164.471",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.471"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.48 - Medicaid payments made to organization on behalf of providers.",
+      "number": "5164.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.55 - Final fiscal audits.",
+      "number": "5164.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.56 - Lien for amount owed by provider.",
+      "number": "5164.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.57 - Recovery of medicaid overpayments.",
+      "number": "5164.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.58 - Agency action to recover overpayment to provider.",
+      "number": "5164.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.59 - Deduction of incorrect payments.",
+      "number": "5164.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.60 - Interest on Medicaid provider excess payments.",
+      "number": "5164.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.61 - Scope of available remedies for recovery of excess payments.",
+      "number": "5164.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.70 - Limitations on medicaid payments for services.",
+      "number": "5164.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.71 - Payments for freestanding medical laboratory charges.",
+      "number": "5164.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.72 - Limitations on payments for inpatient hospital care.",
+      "number": "5164.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.721 - Claims by freestanding birthing centers.",
+      "number": "5164.721",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.721"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.73 - Division of payments between physician or podiatrist and nurse.",
+      "number": "5164.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.74 - Reimbursement of graduate medical education costs.",
+      "number": "5164.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.74"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.741 - Payment for graduate medical education costs to noncontracting hospitals.",
+      "number": "5164.741",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.741"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.75 - Medicaid payment for a drug subject to a federal upper reimbursement limit.",
+      "number": "5164.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.751 - State maximum allowable cost program.",
+      "number": "5164.751",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.751"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.752 - Determining maximum dispensing fee.",
+      "number": "5164.752",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.752"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.753 - Dispensing fee.",
+      "number": "5164.753",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.753"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.754 - Agreement for multiple-state drug purchasing program.",
+      "number": "5164.754",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.754"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.755 - Supplemental drug rebate program.",
+      "number": "5164.755",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.755"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.756 - Drug rebate agreement or supplemental drug rebate agreement for medicaid program not subject to public records law.",
+      "number": "5164.756",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.756"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.757 - E-prescribing applications.",
+      "number": "5164.757",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.757"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.758 - Adoption of rules for implementation of coordinated services program for medicaid users who abuse prescription drugs.",
+      "number": "5164.758",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.758"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.759 - Outpatient drug use review program.",
+      "number": "5164.759",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.759"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.7510 - Pharmacy and therapeutics committee.",
+      "number": "5164.7510",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.7510"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.7511 - Medication synchronization for medicaid recipients.",
+      "number": "5164.7511",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.7511"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.7512 - Definitions for sections 5164.7512 to 5164.7514.",
+      "number": "5164.7512",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.7512"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.7514 - Step therapy exemption process.",
+      "number": "5164.7514",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.7514"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.7515 - Annual benchmark for prescribed drug spending growth.",
+      "number": "5164.7515",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.7515"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.76 - Manner of payment for community mental health service providers or facilities and alcohol and drug addiction services.",
+      "number": "5164.76",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.76"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.761 - Beta testing of updates to billing codes or payment rates.",
+      "number": "5164.761",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.761"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.78 - Medicaid payment rates for certain neonatal and newborn services.",
+      "number": "5164.78",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.78"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.80 - Public notice for changes to payment rates for medicaid assistance.",
+      "number": "5164.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.80"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.82 - Payment for provider-preventable condition.",
+      "number": "5164.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.82"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.85 - Enrolling in group health plan.",
+      "number": "5164.85",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.85"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.86 - Qualified state long-term care insurance partnership program.",
+      "number": "5164.86",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.86"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.88 - Coordinated care through health homes.",
+      "number": "5164.88",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.88"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.881 - Health home services.",
+      "number": "5164.881",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.881"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.89 - Case management of nonemergency transportation services.",
+      "number": "5164.89",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.89"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.90 - Transition of medicaid recipients to community settings.",
+      "number": "5164.90",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.90"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.91 - Integrated care delivery system.",
+      "number": "5164.91",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.91"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.911 - Integrated care delivery system evaluation.",
+      "number": "5164.911",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.911"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.912 - Integrated care delivery system standardized claim form.",
+      "number": "5164.912",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.912"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.913 - Home health aide and personal care aide training.",
+      "number": "5164.913",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.913"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.92 - Advanced diagnostic imaging services coverage under medicaid program.",
+      "number": "5164.92",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.92"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.93 - Incentive payments for adoption and use of electronic health record technology.",
+      "number": "5164.93",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.93"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.94 - Delivery of services in culturally and linguistically appropriate manners.",
+      "number": "5164.94",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.94"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.95 - Standards for payments for telehealth services; eligible practitioners.",
+      "number": "5164.95",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.95"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.951 - Standards for medicaid payments for services provided through teledentistry.",
+      "number": "5164.951",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.951"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5164.96 - Ground emergency medical transportation supplemental payment program.",
+      "number": "5164.96",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.96"
+    }
+  ],
+  "scraped": "2026-07-02T20:11:25+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-5164",
+  "title": "Chapter 5164 - Medicaid State Plan Services"
+}

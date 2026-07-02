@@ -1,0 +1,134 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Credit\" means the credit on utility heating bills granted under division (A) of section 5117.09 of the Revised Code.",
+      "id": "5117.01-credit",
+      "normalized": "credit",
+      "scope": "As used in sections 5117.01 to 5117.12 of the Revised Code:",
+      "section": "5117.01",
+      "source_title": "Section 5117.01 - Energy credit program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5117.01",
+      "term": "Credit"
+    },
+    {
+      "definition": "(B) \"Current monthly bill\" means the amount charged for energy consumed in the most recent monthly billing period and does not include any past due balance.",
+      "id": "5117.01-current-monthly-bill",
+      "normalized": "current monthly bill",
+      "scope": "As used in sections 5117.01 to 5117.12 of the Revised Code:",
+      "section": "5117.01",
+      "source_title": "Section 5117.01 - Energy credit program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5117.01",
+      "term": "Current monthly bill"
+    },
+    {
+      "definition": "(C) \"Current total income\" means the adjusted gross income of the head of household and the person's spouse for the six-month period beginning the first day of January and ending the thirtieth day of June of the year in which an application is made, as determined under the \"Internal Revenue Code of 1954,\" 68A Stat. 3, 26 U.S.C. 1, as amended, adjusted as follows:\n\n(1) Subtract the amount of disability benefits included in adjusted gross income but not to exceed twenty-six hundred dollars;\n\n(2) Add old age and survivors benefits received pursuant to the \"Social Security Act\" that are not included in federal adjusted gross income;\n\n(3) Add retirement, pension, annuity, or other retirement payments or benefits not included in federal adjusted gross income;\n\n(4) Add payments received pursuant to the \"Railroad Retirement Act,\" 50 Stat. 307, 45 U.S.C. 228;\n\n(5) Add interest on federal, state, and local government obligations;\n\n(6) For an applicant who received a credit or payment for the preceding heating season on the basis of being permanently and totally disabled and whose application renewal form for the upcoming heating season is made on the basis of attaining sixty-five years of age or older, subtract the following amount:\n\n(a) If the applicant received disability benefits that were not included in federal adjusted gross income in the year preceding a year in which the applicant applies for the credit or payment on the basis of attaining sixty-five years of age or older, subtract an amount equal to the disability benefits the applicant received in that preceding year, to the extent included in current total income, as defined in this section, and not subtracted under division (C)(1) of this section in the current year;\n\n(b) If the applicant received disability benefits that were included in federal adjusted gross income in the year preceding a year in which the applicant applies for the credit or payment on the basis of attaining sixty-five years of age or older, subtract an amount equal to the amount of disability benefits that were subtracted pursuant to division (C)(1) of this section in that preceding year, to the extent included in current total income, as defined in this section, and not subtracted under division (C)(1) of this section in the current year.\n\nDisability benefits paid by the department of veterans' affairs or a branch of the armed forces of the United States on account of an injury or disability are not included in current total income.",
+      "id": "5117.01-current-total-income",
+      "normalized": "current total income",
+      "scope": "As used in sections 5117.01 to 5117.12 of the Revised Code:",
+      "section": "5117.01",
+      "source_title": "Section 5117.01 - Energy credit program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5117.01",
+      "term": "Current total income"
+    },
+    {
+      "definition": "(D) \"Energy company\" means every retail propane dealer that distributes propane by pipeline, and every electric light, rural electric, gas, or natural gas company.",
+      "id": "5117.01-energy-company",
+      "normalized": "energy company",
+      "scope": "As used in sections 5117.01 to 5117.12 of the Revised Code:",
+      "section": "5117.01",
+      "source_title": "Section 5117.01 - Energy credit program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5117.01",
+      "term": "Energy company"
+    },
+    {
+      "definition": "(E) \"Energy dealer\" means every retail dealer of fuel oil, propane, coal, wood, and kerosene.",
+      "id": "5117.01-energy-dealer",
+      "normalized": "energy dealer",
+      "scope": "As used in sections 5117.01 to 5117.12 of the Revised Code:",
+      "section": "5117.01",
+      "source_title": "Section 5117.01 - Energy credit program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5117.01",
+      "term": "Energy dealer"
+    },
+    {
+      "definition": "(F) \"Head of household\" means a person who occupies a household as the person's homestead and who is financially responsible for its other occupants, if any, or the spouse of such a person if both occupy the same household. No person is a head of household if the person occupies a household for the taxable year prior to the year in which an application is filed and was claimed as a dependent on the federal income tax return of another occupant of the same household and was not the taxpayer's spouse or if the person could have been claimed if such a return had been filed for such year and was not the other occupant's spouse.",
+      "id": "5117.01-head-of-household",
+      "normalized": "head of household",
+      "scope": "As used in sections 5117.01 to 5117.12 of the Revised Code:",
+      "section": "5117.01",
+      "source_title": "Section 5117.01 - Energy credit program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5117.01",
+      "term": "Head of household"
+    },
+    {
+      "definition": "(G) \"Household\" means any dwelling unit, including a unit in a multiple unit dwelling, a manufactured home, or a mobile home, to which utility heating services or energy commodities are provided.",
+      "id": "5117.01-household",
+      "normalized": "household",
+      "scope": "As used in sections 5117.01 to 5117.12 of the Revised Code:",
+      "section": "5117.01",
+      "source_title": "Section 5117.01 - Energy credit program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5117.01",
+      "term": "Household"
+    },
+    {
+      "definition": "(H) \"Payment\" means the one hundred twenty-five-dollar payment provided under division (A) of section 5117.10 of the Revised Code.\n\n(I) \"Permanently and totally disabled\" refers to a person who has, on the first day of July of the year an application is made, some impairment in body or mind that makes the person unable to work at any substantially remunerative employment that the person would otherwise be reasonably able to perform and that will, with reasonable probability, continue for an indefinite period of at least twelve months without any present indication of recovery therefrom, or who has been certified as permanently and totally disabled by a state or federal agency having the function of so classifying persons.\n\n(J) \"Sixty-five years of age or older\" refers to a person who has attained age sixty-four prior to the first day of January of the year an application is made.",
+      "id": "5117.01-payment",
+      "normalized": "payment",
+      "scope": "As used in sections 5117.01 to 5117.12 of the Revised Code:",
+      "section": "5117.01",
+      "source_title": "Section 5117.01 - Energy credit program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5117.01",
+      "term": "Payment"
+    },
+    {
+      "definition": "(K) \"Total income\" means the adjusted gross income of the head of household and the person's spouse for the year preceding the year in which an application is made, as determined under the \"Internal Revenue Code of 1954,\" 68A Stat. 3, 26 U.S.C. 1, as amended, adjusted as follows:\n\n(1) Subtract the amount of disability benefits included in adjusted gross income but not to exceed fifty-two hundred dollars;\n\n(2) Add old age and survivors benefits received pursuant to the \"Social Security Act\" that are not included in federal adjusted gross income;\n\n(3) Add retirement, pension, annuity, or other retirement payments or benefits not included in federal adjusted gross income;\n\n(4) Add payments received pursuant to the \"Railroad Retirement Act,\" 50 Stat. 307, 45 U.S.C. 228;\n\n(5) Add interest on federal, state, and local government obligations;\n\n(6) For an applicant who received a credit or payment for the preceding heating season on the basis of being permanently and totally disabled and whose application renewal form for the upcoming heating season is made on the basis of attaining sixty-five years of age or older, subtract the following amount:\n\n(a) If the applicant received disability benefits that were not included in federal adjusted gross income in the year preceding a year in which the applicant applies for the credit or payment on the basis of attaining sixty-five years of age or older, subtract an amount equal to the disability benefits the applicant received in that preceding year, to the extent included in total income, as defined in this section, and not subtracted under division (K)(1) of this section in the current year;\n\n(b) If the applicant received disability benefits that were included in federal adjusted gross income in the year preceding a year in which the applicant applies for the credit or payment on the basis of attaining sixty-five years of age or older, subtract an amount equal to the amount of disability benefits that were subtracted pursuant to division (K)(1) of this section in that preceding year, to the extent included in total income, as defined in this section, and not subtracted under division (K)(1) of this section in the current year.\n\nDisability benefits paid by the department of veterans' affairs or a branch of the armed forces of the United States on account of an injury or disability shall not be included in total income.",
+      "id": "5117.01-total-income",
+      "normalized": "total income",
+      "scope": "As used in sections 5117.01 to 5117.12 of the Revised Code:",
+      "section": "5117.01",
+      "source_title": "Section 5117.01 - Energy credit program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5117.01",
+      "term": "Total income"
+    },
+    {
+      "definition": "(L) \"Purchased power costs\" means charges for the costs of power purchased by an electric light company under Chapters 4905. and 4909. of the Revised Code and includes charges resulting from the exchange of electric power.",
+      "id": "5117.01-purchased-power-costs",
+      "normalized": "purchased power costs",
+      "scope": "As used in sections 5117.01 to 5117.12 of the Revised Code:",
+      "section": "5117.01",
+      "source_title": "Section 5117.01 - Energy credit program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5117.01",
+      "term": "Purchased power costs"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "5117.01",
+      "number": "5117.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5117.01"
+    },
+    {
+      "kind": "section",
+      "label": "5117.12",
+      "number": "5117.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5117.12"
+    },
+    {
+      "kind": "section",
+      "label": "5117.09",
+      "number": "5117.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5117.09"
+    },
+    {
+      "kind": "section",
+      "label": "5117.10",
+      "number": "5117.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5117.10"
+    }
+  ],
+  "scraped": "2026-07-02T20:10:39+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5117.01",
+  "title": "Section 5117.01 - Energy credit program definitions."
+}

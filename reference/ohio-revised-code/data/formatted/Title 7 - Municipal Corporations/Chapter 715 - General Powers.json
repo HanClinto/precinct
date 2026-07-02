@@ -1,0 +1,513 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 715.01 - General powers of municipal corporations.",
+      "number": "715.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.011 - Leasing power.",
+      "number": "715.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.011"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.012 - Real estate conveyed by state.",
+      "number": "715.012",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.012"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.013 - Prohibiting levy of municipal taxes.",
+      "number": "715.013",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.013"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.014 - Tourism development districts.",
+      "number": "715.014",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.014"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.015 - Development charges.",
+      "number": "715.015",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.015"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.02 - Agreements for joint construction or management of public work, utility, or improvement.",
+      "number": "715.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.03 - Powers by ordinance or resolution.",
+      "number": "715.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.04 - Compounding or release of claims due from banks.",
+      "number": "715.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.05 - Police and fire departments.",
+      "number": "715.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.06 - Light, power, and heat.",
+      "number": "715.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.07 - Purchase of gas without advertisement or competitive bidding.",
+      "number": "715.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.08 - Water supply.",
+      "number": "715.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.09 - Limiting motor vehicle parking tax rate.",
+      "number": "715.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.13 - Public band concerts and libraries.",
+      "number": "715.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.14 - Hospitals.",
+      "number": "715.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.15 - Ship canals.",
+      "number": "715.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.16 - Places of correction - quarters for municipal courts and offices.",
+      "number": "715.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.17 - Census.",
+      "number": "715.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.18 - Department of purchase, construction, and repair.",
+      "number": "715.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.19 - Establish and care for streets.",
+      "number": "715.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.20 - Shade trees.",
+      "number": "715.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.21 - Power to acquire, hold, lease, sell, or donate lands.",
+      "number": "715.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.211 - Assisting park districts.",
+      "number": "715.211",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.211"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.22 - Vehicles and use of streets.",
+      "number": "715.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.23 - Impounding and sale of fowl or animals.",
+      "number": "715.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.24 - Regulation of street vendors.",
+      "number": "715.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.25 - Width of tires and rate of transportation.",
+      "number": "715.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.26 - Regulating erection, inspection, and numbering of buildings.",
+      "number": "715.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.261 - Recovering total cost of correcting hazardous condition of building or abating nuisance.",
+      "number": "715.261",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.261"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.262 - Preference of appeals on municipal building code violations.",
+      "number": "715.262",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.262"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.263 - Tax credit for abating building nuisance on tax foreclosed property.",
+      "number": "715.263",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.263"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.27 - Regulating fences, signs, other structures, electrical equipment, specialty contractors.",
+      "number": "715.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.28 - Market places.",
+      "number": "715.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.29 - Sanitation.",
+      "number": "715.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.30 - Injunction may be granted for failure to comply.",
+      "number": "715.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.31 - Wharves and docks.",
+      "number": "715.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.32 - License and regulation of ferries.",
+      "number": "715.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.33 - Streetcars.",
+      "number": "715.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.34 - Hot water and steam heating.",
+      "number": "715.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.35 - Movable and rolling roads.",
+      "number": "715.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.36 - United States mail subways.",
+      "number": "715.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.37 - Contagious diseases.",
+      "number": "715.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.38 - Maintenance of physician - tax levy - election - anticipatory notes.",
+      "number": "715.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.39 - Assistance by board of county commissioners authorized.",
+      "number": "715.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.40 - Watercourses and sewers.",
+      "number": "715.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.41 - Drainage in municipal corporations.",
+      "number": "715.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.42 - Public conveniences.",
+      "number": "715.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.43 - Refuse disposal.",
+      "number": "715.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.44 - Power to abate nuisance and prevent injury.",
+      "number": "715.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.45 - Weights and measures.",
+      "number": "715.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.46 - Inspection.",
+      "number": "715.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.47 - Power to fill or drain lots and remove obstructions - resolutions.",
+      "number": "715.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.48 - Regulation by license of shows and games - trafficking in tickets - exceptions.",
+      "number": "715.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.49 - Preservation of peace and protection of property - noise ordinance.",
+      "number": "715.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.50 - Police or sanitary regulations for property outside municipal corporation limits.",
+      "number": "715.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.51 - Billiards, pool, and gambling.",
+      "number": "715.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.52 - Houses of ill fame.",
+      "number": "715.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.53 - Taverns.",
+      "number": "715.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.54 - Vicious literature.",
+      "number": "715.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.55 - Liability arising from enforcement of invalid adult entertainment ordinance.",
+      "number": "715.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.59 - Hospitals for diseased prisoners.",
+      "number": "715.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.60 - Regulation of explosives.",
+      "number": "715.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.61 - Regulation and licensing of certain occupations and premises.",
+      "number": "715.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.62 - Evidence.",
+      "number": "715.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.63 - License power - exception.",
+      "number": "715.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.64 - Licensing transient dealers and solicitors.",
+      "number": "715.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.65 - Licensing of advertising mediums and matters.",
+      "number": "715.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.66 - Vehicle license for undertakers - money to be used for street repairs.",
+      "number": "715.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.67 - Violation of ordinances may be made a misdemeanor.",
+      "number": "715.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.67"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.68 - Municipal corporation may not adopt plans for public improvement under certain circumstances.",
+      "number": "715.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.68"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.691 - Alternative procedures and requirements for creating joint economic development zone.",
+      "number": "715.691",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.691"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.692 - Creation of joint economic development review council.",
+      "number": "715.692",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.692"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.693 - Video and teleconference meetings.",
+      "number": "715.693",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.693"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.70 - Contract creating joint economic development district.",
+      "number": "715.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.71 - Election concerning alternative procedures and requirements for creating joint economic development district.",
+      "number": "715.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.72 - Alternative procedures and requirements for creating joint economic development district.",
+      "number": "715.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.79 - Annexation, merger, or consolidation proceedings barred.",
+      "number": "715.79",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.79"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.80 - Binding agreements concerning zoning, other regulatory and proprietary matters.",
+      "number": "715.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.80"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.81 - Authority of municipal corporations and townships.",
+      "number": "715.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.82 - Issuing industrial development bonds.",
+      "number": "715.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.82"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.83 - Unincorporated area or township eligible for certain projects.",
+      "number": "715.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.83"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.84 - Cost sharing agreements.",
+      "number": "715.84",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.84"
+    },
+    {
+      "kind": "section",
+      "label": "Section 715.90 - No regulation of county utility user rates.",
+      "number": "715.90",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-715.90"
+    }
+  ],
+  "scraped": "2026-07-02T19:33:23+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-715",
+  "title": "Chapter 715 - General Powers"
+}

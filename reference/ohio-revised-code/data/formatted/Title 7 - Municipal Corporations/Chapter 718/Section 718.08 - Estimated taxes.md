@@ -1,0 +1,70 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-718.08
+Scraped: 2026-07-02T19:33:25+00:00
+
+# Section 718.08 - Estimated taxes.
+
+**Effective:** March 23, 2022
+
+**Latest Legislation:** House Bill 29 - 134th General Assembly
+
+(A) As used in this section:
+
+(1) "Estimated taxes" means the amount that the taxpayer reasonably estimates to be the taxpayer's tax liability for a municipal corporation's income tax for the current taxable year.
+
+(2) "Tax liability" means the total taxes due to a municipal corporation for the taxable year, after allowing any credit to which the taxpayer is entitled, and after applying any estimated tax payment, withholding payment, or credit from another taxable year.
+
+(B)(1) Except as provided in division (F) of this section, every taxpayer shall make a declaration of estimated taxes for the current taxable year, on the form prescribed by the tax administrator, if the amount payable as estimated taxes is at least two hundred dollars. For the purposes of this section:
+
+(a) Taxes withheld from qualifying wages shall be considered as paid to the municipal corporation for which the taxes were withheld in equal amounts on each payment date unless the taxpayer establishes the dates on which all amounts were actually withheld, in which case the amounts withheld shall be considered as paid on the dates on which the amounts were actually withheld.
+
+(b) An overpayment of tax applied as a credit to a subsequent taxable year is deemed to be paid on the date of the postmark stamped on the cover in which the payment is mailed or, if the payment is made by electronic funds transfer, the date the payment is submitted. As used in this division, "date of the postmark" means, in the event there is more than one date on the cover, the earliest date imprinted on the cover by the postal service.
+
+(c) Taxes withheld by a casino operator, video lottery sales agent, or type B sports gaming proprietor under section 718.031 of the Revised Code are deemed to be paid to the municipal corporation for which the taxes were withheld on the date the taxes are withheld from the taxpayer's winnings.
+
+(2) Except as provided in division (F) of this section, taxpayers filing joint returns shall file joint declarations of estimated taxes. A taxpayer may amend a declaration under rules prescribed by the tax administrator. Except as provided in division (F) of this section, a taxpayer having a taxable year of less than twelve months shall make a declaration under rules prescribed by the tax administrator.
+
+(3) The declaration of estimated taxes shall be filed on or before the date prescribed for the filing of municipal income tax returns under division (G) of section 718.05 of the Revised Code or on or before the fifteenth day of the fourth month after the taxpayer becomes subject to tax for the first time.
+
+(4) Taxpayers reporting on a fiscal year basis shall file a declaration on or before the fifteenth day of the fourth month after the beginning of each fiscal year or period.
+
+(5) The original declaration or any subsequent amendment may be increased or decreased on or before any subsequent quarterly payment day as provided in this section.
+
+(C)(1) The required portion of the tax liability for the taxable year that shall be paid through estimated taxes made payable to the municipal corporation or tax administrator, including the application of tax refunds to estimated taxes and withholding on or before the applicable payment date, shall be as follows:
+
+(a) On or before the fifteenth day of the fourth month after the beginning of the taxable year, twenty-two and one-half per cent of the tax liability for the taxable year;
+
+(b) On or before the fifteenth day of the sixth month after the beginning of the taxable year, forty-five per cent of the tax liability for the taxable year;
+
+(c) On or before the fifteenth day of the ninth month after the beginning of the taxable year, sixty-seven and one-half per cent of the tax liability for the taxable year;
+
+(d) For an individual, on or before the fifteenth day of the first month of the following taxable year, ninety per cent of the tax liability for the taxable year. For a person other than an individual, on or before the fifteenth day of the twelfth month of the taxable year, ninety per cent of the tax liability for the taxable year.
+
+(2) When an amended declaration has been filed, the unpaid balance shown due on the amended declaration shall be paid in equal installments on or before the remaining payment dates.
+
+(3) On or before the fifteenth day of the fourth month of the year following that for which the declaration or amended declaration was filed, an annual return shall be filed and any balance which may be due shall be paid with the return in accordance with section 718.05 of the Revised Code.
+
+(D)(1) In the case of any underpayment of any portion of a tax liability, penalty and interest may be imposed pursuant to section 718.27 of the Revised Code upon the amount of underpayment for the period of underpayment, unless the underpayment is due to reasonable cause as described in division (E) of this section. The amount of the underpayment shall be determined as follows:
+
+(a) For the first payment of estimated taxes each year, twenty-two and one-half per cent of the tax liability, less the amount of taxes paid by the date prescribed for that payment;
+
+(b) For the second payment of estimated taxes each year, forty-five per cent of the tax liability, less the amount of taxes paid by the date prescribed for that payment;
+
+(c) For the third payment of estimated taxes each year, sixty-seven and one-half per cent of the tax liability, less the amount of taxes paid by the date prescribed for that payment;
+
+(d) For the fourth payment of estimated taxes each year, ninety per cent of the tax liability, less the amount of taxes paid by the date prescribed for that payment.
+
+(2) The period of the underpayment shall run from the day the estimated payment was required to be made to the date on which the payment is made. For purposes of this section, a payment of estimated taxes on or before any payment date shall be considered a payment of any previous underpayment only to the extent the payment of estimated taxes exceeds the amount of the payment presently required to be paid to avoid any penalty.
+
+(E) An underpayment of any portion of tax liability determined under division (D) of this section shall be due to reasonable cause and the penalty imposed by this section shall not be added to the taxes for the taxable year if any of the following apply:
+
+(1) The amount of estimated taxes that were paid equals at least ninety per cent of the tax liability for the current taxable year, determined by annualizing the income received during the year up to the end of the month immediately preceding the month in which the payment is due.
+
+(2) The amount of estimated taxes that were paid equals at least one hundred per cent of the tax liability shown on the return of the taxpayer for the preceding taxable year, provided that the immediately preceding taxable year reflected a period of twelve months and the taxpayer filed a return with the municipal corporation under section 718.05 of the Revised Code for that year.
+
+(3) The taxpayer is an individual who resides in the municipal corporation but was not domiciled there on the first day of January of the calendar year that includes the first day of the taxable year.
+
+(F)(1) A tax administrator may waive the requirement for filing a declaration of estimated taxes for any class of taxpayers after finding that the waiver is reasonable and proper in view of administrative costs and other factors.
+
+(2) A municipal corporation may, by ordinance or rule, waive the requirement for filing a declaration of estimated taxes for all taxpayers.
+
+Last updated January 24, 2022 at 10:54 AM

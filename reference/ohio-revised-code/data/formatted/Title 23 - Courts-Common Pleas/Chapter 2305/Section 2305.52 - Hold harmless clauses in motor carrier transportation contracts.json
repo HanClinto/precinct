@@ -1,0 +1,46 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Motor carrier\" has the same meaning as in section 4923.01 of the Revised Code.",
+      "id": "2305.52-motor-carrier",
+      "normalized": "motor carrier",
+      "scope": "",
+      "section": "2305.52",
+      "source_title": "Section 2305.52 - Hold harmless clauses in motor carrier transportation contracts.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2305.52",
+      "term": "Motor carrier"
+    },
+    {
+      "definition": "(2) \"Motor carrier transportation contract\" means a contract, agreement, or understanding covering any of the following:\n\n(a) The transportation of property for compensation or hire by a motor carrier;\n\n(b) Entrance onto property by a motor carrier for the purpose of loading, unloading, or transporting property for compensation or hire;\n\n(c) A service incidental to an activity described in division (C)(2)(a) or (b) of this section.",
+      "id": "2305.52-motor-carrier-transportation-contract",
+      "normalized": "motor carrier transportation contract",
+      "scope": "",
+      "section": "2305.52",
+      "source_title": "Section 2305.52 - Hold harmless clauses in motor carrier transportation contracts.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2305.52",
+      "term": "Motor carrier transportation contract"
+    },
+    {
+      "definition": "(3) \"Promisee\" means the person who enters into a motor carrier transportation contract with a motor carrier. \"Promisee\" includes any agent, employee, servant, or independent contractor who is directly responsible to the promisee. \"Promisee\" does not include a motor carrier who is a party to a motor carrier transportation contract with the promisee, and that motor carrier's agents, employees, servants, or independent contractors directly responsible to that motor carrier.",
+      "id": "2305.52-promisee",
+      "normalized": "promisee",
+      "scope": "",
+      "section": "2305.52",
+      "source_title": "Section 2305.52 - Hold harmless clauses in motor carrier transportation contracts.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2305.52",
+      "term": "Promisee"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "4923.01",
+      "number": "4923.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4923.01"
+    }
+  ],
+  "scraped": "2026-07-02T19:43:12+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2305.52",
+  "title": "Section 2305.52 - Hold harmless clauses in motor carrier transportation contracts."
+}

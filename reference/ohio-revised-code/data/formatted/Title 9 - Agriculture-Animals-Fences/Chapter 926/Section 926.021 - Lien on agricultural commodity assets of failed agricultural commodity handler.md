@@ -1,0 +1,70 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-926.021
+Scraped: 2026-07-02T19:35:23+00:00
+
+# Section 926.021 - Lien on agricultural commodity assets of failed agricultural commodity handler.
+
+**Effective:** October 11, 2013
+
+**Latest Legislation:** Senate Bill 66 - 130th General Assembly
+
+(A) As used in this section:
+
+(1) "Claimant" means a person to whom an agricultural commodity handler owes a financial obligation for agricultural commodities or the actual monetary proceeds from agricultural commodities that have been delivered to the handler.
+
+(2) "Failure" means any of the following involving an agricultural commodity handler:
+
+(a) An inability to satisfy claimants financially;
+
+(b) A public declaration of insolvency;
+
+(c) A revocation, suspension, or conditional suspension of license with outstanding indebtedness to claimants;
+
+(d) Nonpayment in the ordinary course of business where a good faith dispute does not exist;
+
+(e) No application for license renewal;
+
+(f) Denial of license renewal;
+
+(g) Voluntarily surrendering a license.
+
+(3) "Agricultural commodity assets" involving an agricultural commodity handler means any of the following:
+
+(a) All agricultural commodities owned or stored, including agricultural commodities in transit shipped by the handler but not yet paid for;
+
+(b) Redeposited agricultural commodities;
+
+(c) Proceeds from the sale of agricultural commodities due or to become due to the depositor;
+
+(d) The equity less any secured financing directly associated therewith in assets in hedging or speculative margin accounts held by commodity or security exchanges or dealers representing the exchanges, and any moneys due or to become due less any secured financing directly associated therewith from any transactions on the exchanges;
+
+(e) Any other unencumbered funds, property, or equity in funds or property, wherever located, that can be directly traced to the sale of agricultural commodities by the handler, provided both that the funds, property, or equity in funds or property shall not be considered to be encumbered unless the encumbrance results from good and valuable considerations advanced by any secured party on a good faith basis and that the encumbrance is not the result of the taking of funds, property, or equity in funds or property as additional collateral for an antecedent debt;
+
+(f) Any other unencumbered funds, property, or equity in assets.
+
+(B) A lien shall exist on all agricultural commodity assets of an agricultural commodity handler in favor of any of the following:
+
+(1) Claimants, including lenders, who possess receipts covering grain owned or stored by the handler;
+
+(2) Claimants who possess written evidence of ownership other than a receipt disclosing a storage obligation of the handler, including tickets;
+
+(3) Claimants who surrendered receipts as part of an agricultural commodity sales transaction but were not paid fully for the agricultural commodity and the handler failed within twenty-one days after the surrender;
+
+(4) Claimants who possess any other written evidence of the sale of agricultural commodities to the handler for which they were not paid fully, including the sale of agricultural commodities for a nominal sum under a feed agreement.
+
+(C) The lien that shall secure all claims described in division (D) of this section, shall arise, attach to the agricultural commodity assets of an agricultural commodity handler, and become effective at the time of the delivery of the agricultural commodity for sale or for storage under a bailment agreement, commencement of the storage obligation, or when funds are advanced by the lender, and shall terminate when the liability of the agricultural commodity handler to the claimant is discharged, provided that the priority of each lien among the respective claimants shall not relate to the date the claim arises but shall be governed by the priorities established in division (D) of this section. In the event of a failure, the lien claims of all claimants shall be considered to be assigned by operation of this section to the department of agriculture, and in the event of a failure and subsequent liquidation, the lien shall transfer over to assets or proceeds of assets either received or liquidated by the department. The lien established under this section shall have priority over all competing lien claims asserted against the agricultural commodity assets.
+
+(D) Except as provided in division (E) of this section, in the event of a failure, the director of agriculture shall possess exclusive authority to enforce the lien claims and allocate the proceeds as follows:
+
+(1) First priority against all agricultural commodity assets shall be the following:
+
+(a) Claimants, including lenders, who possess receipts covering grain owned or stored by the agricultural commodity handler;
+
+(b) Claimants who possess written evidence of ownership other than receipts disclosing a storage obligation of the handler, including tickets;
+
+(c) Claimants who surrendered receipts as part of an agricultural commodity transaction, but were not paid fully for the agricultural commodity and the handler failed within twenty-one days after the surrender.
+
+(2) Second priority against all agricultural commodity assets shall be to claimants who possess written evidence of the sale of an agricultural commodity, including, but not limited to, tickets, delayed price agreements, or similar agricultural commodity delivery contracts who completed delivery and pricing within thirty days immediately prior to the failure of the handler.
+
+(3) To the extent not necessary to satisfy first and second priority claimants, all other claimants who possess written evidence of the sale of agricultural commodities to the handler shall participate in the pro rata distribution of the remainder of the agricultural commodity assets in an amount not to exceed the value of each claim.
+
+(E) In the event that any adversary proceeding is commenced to recover agricultural commodity assets upon which the lien imposed in this section is imposed and the department declines to enter the proceeding, the director, upon application to the director by any claimant, shall assign to the claimant the applicable lien to permit the claimant to pursue the claimant's lien in the adversary proceeding to the extent the action will not delay the resolution of the proceeding, the prompt liquidation of the assets, or the ultimate distribution of the assets to all claimants.

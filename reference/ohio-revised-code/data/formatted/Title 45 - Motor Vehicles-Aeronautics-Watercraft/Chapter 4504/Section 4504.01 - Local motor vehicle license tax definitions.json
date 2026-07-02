@@ -1,0 +1,94 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Motor vehicle\" means all vehicles included within the definition of motor vehicle in sections 4501.01 and 4505.01 of the Revised Code and also includes motorized bicycles. \"Motor vehicle\" does not include a concrete pump or a concrete conveyor.",
+      "id": "4504.01-motor-vehicle",
+      "normalized": "motor vehicle",
+      "scope": "As used in this chapter:",
+      "section": "4504.01",
+      "source_title": "Section 4504.01 - Local motor vehicle license tax definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4504.01",
+      "term": "Motor vehicle"
+    },
+    {
+      "definition": "(B) \"County motor vehicle license tax\" means a tax imposed by a county pursuant to this chapter.",
+      "id": "4504.01-county-motor-vehicle-license-tax",
+      "normalized": "county motor vehicle license tax",
+      "scope": "As used in this chapter:",
+      "section": "4504.01",
+      "source_title": "Section 4504.01 - Local motor vehicle license tax definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4504.01",
+      "term": "County motor vehicle license tax"
+    },
+    {
+      "definition": "(C) \"Township motor vehicle license tax\" means a tax imposed by a township pursuant to this chapter.",
+      "id": "4504.01-township-motor-vehicle-license-tax",
+      "normalized": "township motor vehicle license tax",
+      "scope": "As used in this chapter:",
+      "section": "4504.01",
+      "source_title": "Section 4504.01 - Local motor vehicle license tax definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4504.01",
+      "term": "Township motor vehicle license tax"
+    },
+    {
+      "definition": "(D) \"Municipal motor vehicle license tax\" means a tax imposed by a municipal corporation pursuant to this chapter.",
+      "id": "4504.01-municipal-motor-vehicle-license-tax",
+      "normalized": "municipal motor vehicle license tax",
+      "scope": "As used in this chapter:",
+      "section": "4504.01",
+      "source_title": "Section 4504.01 - Local motor vehicle license tax definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4504.01",
+      "term": "Municipal motor vehicle license tax"
+    },
+    {
+      "definition": "(E) \"Registrar\" means the registrar of motor vehicles as provided in section 4501.02 of the Revised Code.",
+      "id": "4504.01-registrar",
+      "normalized": "registrar",
+      "scope": "As used in this chapter:",
+      "section": "4504.01",
+      "source_title": "Section 4504.01 - Local motor vehicle license tax definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4504.01",
+      "term": "Registrar"
+    },
+    {
+      "definition": "(F) \"Deputy registrar\" means any deputy appointed by the registrar of motor vehicles pursuant to sections 4501.02 and 4503.03 of the Revised Code.",
+      "id": "4504.01-deputy-registrar",
+      "normalized": "deputy registrar",
+      "scope": "As used in this chapter:",
+      "section": "4504.01",
+      "source_title": "Section 4504.01 - Local motor vehicle license tax definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4504.01",
+      "term": "Deputy registrar"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "4501.01",
+      "number": "4501.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4501.01"
+    },
+    {
+      "kind": "section",
+      "label": "4505.01",
+      "number": "4505.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4505.01"
+    },
+    {
+      "kind": "section",
+      "label": "4501.02",
+      "number": "4501.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4501.02"
+    },
+    {
+      "kind": "section",
+      "label": "4503.03",
+      "number": "4503.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.03"
+    }
+  ],
+  "scraped": "2026-07-02T20:05:22+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4504.01",
+  "title": "Section 4504.01 - Local motor vehicle license tax definitions."
+}

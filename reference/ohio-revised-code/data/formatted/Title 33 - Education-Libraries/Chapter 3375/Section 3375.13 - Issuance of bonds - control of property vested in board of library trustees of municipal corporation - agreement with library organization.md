@@ -1,0 +1,10 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3375.13
+Scraped: 2026-07-02T19:50:30+00:00
+
+# Section 3375.13 - Issuance of bonds - control of property vested in board of library trustees of municipal corporation - agreement with library organization.
+
+**Effective:** October 1, 1953
+
+**Latest Legislation:** House Bill 1 - 100th General Assembly
+
+In any municipal corporation where there is a library organization created by will or otherwise for the purpose of maintaining in perpetuity a public library, and such organization is endowed and owns and maintains a library, the board of library trustees mentioned in section 3375.12 of the Revised Code may request the taxing authority of the municipal corporation to submit to the electors the question of issuing bonds, in accordance with section 3375.43 of the Revised Code for the purpose of purchasing, erecting, constructing, enlarging, extending, or improving a building for library purposes, including a site therefor, and equipping and furnishing the same. The acquisition of such improvement, including the maintenance and control of the building and property acquired, shall be vested in such board. Such board may enter into an agreement in writing with such library organization whereby said library organization may occupy all or a part of such building, and conduct, operate, and maintain therein a free public library, the period of each such agreement to be not less than ten nor more than twenty-five years. Such library organization shall administer, operate, and control such library in accordance with said agreement and in terms of the trust creating such organization, providing such library is free to all the inhabitants of the municipal corporation. Such board may enter into a similar agreement with any historical or other educational association whereby a part of said building may be used by such organization for the housing and displaying of its property and effects, providing the same is free to all the inhabitants of the municipal corporation.

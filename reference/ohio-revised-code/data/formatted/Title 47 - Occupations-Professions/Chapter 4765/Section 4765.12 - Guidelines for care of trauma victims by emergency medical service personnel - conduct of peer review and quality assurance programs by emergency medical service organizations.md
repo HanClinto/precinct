@@ -1,0 +1,16 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4765.12
+Scraped: 2026-07-02T20:08:05+00:00
+
+# Section 4765.12 - Guidelines for care of trauma victims by emergency medical service personnel - conduct of peer review and quality assurance programs by emergency medical service organizations.
+
+**Effective:** July 1, 2013
+
+**Latest Legislation:** House Bill 51 - 130th General Assembly
+
+(A) Not later than two years after November 3, 2000, the state board of emergency medical, fire, and transportation services shall develop and distribute guidelines for the care of trauma victims by emergency medical service personnel and for the conduct of peer review and quality assurance programs by emergency medical service organizations. The guidelines shall be consistent with the state trauma triage protocols adopted in rules under sections 4765.11 and 4765.40 of the Revised Code and shall place emphasis on the special needs of pediatric and geriatric trauma victims. In developing the guidelines, the board shall consult with entities with interests in trauma and emergency medical services and shall consider any relevant guidelines adopted by national organizations, including the American college of surgeons, American college of emergency physicians, and American academy of pediatrics. The board shall distribute the guidelines, and amendments to the guidelines, to each emergency medical service organization, regional director, regional physician advisory board, certified emergency medical service instructor, and person who regularly provides medical direction to emergency medical service personnel in this state.
+
+(B) Not later than three years after November 3, 2000, each emergency medical service organization in this state shall implement ongoing peer review and quality assurance programs designed to improve the availability and quality of the emergency medical services it provides. The form and content of the programs shall be determined by each emergency medical service organization. In implementing the programs, each emergency medical service organization shall consider how to improve its ability to provide effective trauma care, particularly for pediatric and geriatric trauma victims, and shall take into account the trauma care guidelines developed by the state board of emergency medical, fire, and transportation services under this section.
+
+Information generated solely for use in a peer review or quality assurance program conducted on behalf of an emergency medical service organization is not a public record under section 149.43 of the Revised Code. Such information, and any discussion conducted in the course of a peer review or quality assurance program conducted on behalf of an emergency medical service organization, is not subject to discovery in a civil action and shall not be introduced into evidence in a civil action against the emergency medical service organization on whose behalf the information was generated or the discussion occurred.
+
+No emergency medical service organization on whose behalf a peer review or quality assurance program is conducted, and no person who conducts such a program, because of performing such functions, shall be liable in a civil action for betrayal of professional confidence or otherwise in the absence of willful or wanton misconduct.

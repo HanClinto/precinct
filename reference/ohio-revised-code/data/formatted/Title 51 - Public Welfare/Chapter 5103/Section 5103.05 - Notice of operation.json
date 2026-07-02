@@ -1,0 +1,178 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Children's residential center\" means a facility that is operated by a private child placing agency, private noncustodial agency, or public children services agency, that has been certified by the department of children and youth to operate a children's residential center, and in which eleven or more children, including the children of any staff residing at the facility, are given nonsecure care and supervision twenty-four hours a day.",
+      "id": "5103.05-children-s-residential-center",
+      "normalized": "children's residential center",
+      "scope": "(A) As used in sections 5103.05 to 5103.0513 of the Revised Code:",
+      "section": "5103.05",
+      "source_title": "Section 5103.05 - Notice of operation.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5103.05",
+      "term": "Children's residential center"
+    },
+    {
+      "definition": "(2) \"Children's crisis care facility\" has the same meaning as in section 5103.13 of the Revised Code.",
+      "id": "5103.05-children-s-crisis-care-facility",
+      "normalized": "children's crisis care facility",
+      "scope": "(A) As used in sections 5103.05 to 5103.0513 of the Revised Code:",
+      "section": "5103.05",
+      "source_title": "Section 5103.05 - Notice of operation.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5103.05",
+      "term": "Children's crisis care facility"
+    },
+    {
+      "definition": "(3) \"County children's home\" means a facility established under section 5153.21 of the Revised Code.",
+      "id": "5103.05-county-children-s-home",
+      "normalized": "county children's home",
+      "scope": "(A) As used in sections 5103.05 to 5103.0513 of the Revised Code:",
+      "section": "5103.05",
+      "source_title": "Section 5103.05 - Notice of operation.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5103.05",
+      "term": "County children's home"
+    },
+    {
+      "definition": "(4) \"District children's home\" means a facility established under section 5153.42 of the Revised Code.",
+      "id": "5103.05-district-children-s-home",
+      "normalized": "district children's home",
+      "scope": "(A) As used in sections 5103.05 to 5103.0513 of the Revised Code:",
+      "section": "5103.05",
+      "source_title": "Section 5103.05 - Notice of operation.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5103.05",
+      "term": "District children's home"
+    },
+    {
+      "definition": "(5) \"First responder\" means an EMT, EMT-basic, AEMT, EMT-I, paramedic, firefighter, or volunteer firefighter.",
+      "id": "5103.05-first-responder",
+      "normalized": "first responder",
+      "scope": "(A) As used in sections 5103.05 to 5103.0513 of the Revised Code:",
+      "section": "5103.05",
+      "source_title": "Section 5103.05 - Notice of operation.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5103.05",
+      "term": "First responder"
+    },
+    {
+      "definition": "(6) \"Group home for children\" means any public or private facility that is operated by a private child placing agency, private noncustodial agency, or public children services agency, that has been certified by the department to operate a group home for children, and that meets all of the following criteria:\n\n(a) Gives, for compensation, a maximum of ten children, including the children of the operator or any staff who reside in the facility, nonsecure care and supervision twenty-four hours a day by a person or persons who are unrelated to the children by blood or marriage, or who is not the appointed guardian of any of the children;\n\n(b) Is not certified as a foster home;\n\n(c) Receives or cares for children for two or more consecutive weeks.",
+      "id": "5103.05-group-home-for-children",
+      "normalized": "group home for children",
+      "scope": "(A) As used in sections 5103.05 to 5103.0513 of the Revised Code:",
+      "section": "5103.05",
+      "source_title": "Section 5103.05 - Notice of operation.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5103.05",
+      "term": "Group home for children"
+    },
+    {
+      "definition": "\"Group home for children\" does not include any facility that provides care for children from only a single-family group, placed at the facility by the children's parents or other relative having custody.",
+      "id": "5103.05-group-home-for-children",
+      "normalized": "group home for children",
+      "scope": "(A) As used in sections 5103.05 to 5103.0513 of the Revised Code:",
+      "section": "5103.05",
+      "source_title": "Section 5103.05 - Notice of operation.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5103.05",
+      "term": "Group home for children"
+    },
+    {
+      "definition": "(7) \"Law enforcement officer\" means a sheriff, deputy sheriff, constable, police officer of a township or joint police district, marshal, deputy marshal, municipal police officer, or state highway patrol trooper.",
+      "id": "5103.05-law-enforcement-officer",
+      "normalized": "law enforcement officer",
+      "scope": "(A) As used in sections 5103.05 to 5103.0513 of the Revised Code:",
+      "section": "5103.05",
+      "source_title": "Section 5103.05 - Notice of operation.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5103.05",
+      "term": "Law enforcement officer"
+    },
+    {
+      "definition": "(8) \"Residential facility\" means a group home for children, children's crisis care facility, children's residential center, residential parenting facility that provides twenty-four-hour child care, county children's home, or district children's home. A foster home is not a residential facility.",
+      "id": "5103.05-residential-facility",
+      "normalized": "residential facility",
+      "scope": "(A) As used in sections 5103.05 to 5103.0513 of the Revised Code:",
+      "section": "5103.05",
+      "source_title": "Section 5103.05 - Notice of operation.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5103.05",
+      "term": "Residential facility"
+    },
+    {
+      "definition": "(9) \"Residential parenting facility\" means a facility operated by a private child placing agency, private noncustodial agency, or public children services agency, that has been certified by the department to operate a residential parenting facility, in which teenage mothers and their children reside for the purpose of keeping mother and child together, teaching parenting and life skills to the mother, and assisting teenage mothers in obtaining educational or vocational training and skills.",
+      "id": "5103.05-residential-parenting-facility",
+      "normalized": "residential parenting facility",
+      "scope": "(A) As used in sections 5103.05 to 5103.0513 of the Revised Code:",
+      "section": "5103.05",
+      "source_title": "Section 5103.05 - Notice of operation.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5103.05",
+      "term": "Residential parenting facility"
+    },
+    {
+      "definition": "(10) \"Nonsecure care and supervision\" means care and supervision of a child in a residential facility that does not confine or prevent movement of the child within the facility or from the facility.",
+      "id": "5103.05-nonsecure-care-and-supervision",
+      "normalized": "nonsecure care and supervision",
+      "scope": "(A) As used in sections 5103.05 to 5103.0513 of the Revised Code:",
+      "section": "5103.05",
+      "source_title": "Section 5103.05 - Notice of operation.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5103.05",
+      "term": "Nonsecure care and supervision"
+    },
+    {
+      "definition": "(11) \"Volunteer firefighter\" has the same meaning as in section 146.01 of the Revised Code.\n\n(B) In its application for a certificate, the operator of a residential facility shall demonstrate, to the satisfaction of the department of children and youth, that the proposed residential facility meets all applicable local planning and zoning requirements. A residential facility shall maintain compliance with all applicable local planning and zoning requirements in order for the facility's certificate to remain in good standing.\n\n(C) Prior to the commencement of operations of a residential facility, the operator of the facility shall provide to the board of township trustees or the legislative authority of the municipal corporation wherein the facility will be located notification that the facility will be in operation.\n\n(D) Divisions (B) and (C) of this section shall apply only to a residential facility that is operated by a public children services agency, private noncustodial agency, private child placing agency, or superintendent of a county or district children's home for the placement of foster children.\n\n(E) Within ten days after the commencement of operations at a residential facility, the facility shall provide the following to all county, municipal, or township law enforcement agencies, emergency management agencies, and fire departments with jurisdiction over the facility:\n\n(1) Written notice that the facility is located and will be operating in the agency's or department's jurisdiction. The written notice shall provide the address of the facility, identify the facility as a group home for children, children's crisis care facility, children's residential center, residential parenting facility, county children's home, or district children's home, and provide contact information for the facility.\n\n(2) A copy of the facility's procedures for emergencies and disasters established pursuant to rules adopted under section 5103.03 of the Revised Code;\n\n(3) A copy of the facility's medical emergency plan established pursuant to rules adopted under section 5103.03 of the Revised Code;\n\n(4) A copy of the facility's community engagement plan established pursuant to rules adopted under section 5103.051 of the Revised Code.\n\n(F) Within ten days of any change to the facility's information described in divisions (E)(2), (3), and (4) of this section, the facility shall provide to all county, municipal, or township law enforcement agencies, emergency management agencies, and fire departments with jurisdiction over the facility updated copies of the information required to be provided under divisions (E)(2), (3), and (4) of this section.\n\n(G) A residential facility that is operated by a public children services agency, private noncustodial agency, private child placing agency, or superintendent of a county or district children's home for the placement of foster children also shall provide the information described in divisions (E) and (F) of this section to the board of township trustees or the legislative authority of the municipal corporation wherein the facility will be located.\n\n(H) The department may adopt rules in accordance with Chapter 119. of the Revised Code necessary to implement this section.\n\nLast updated February 19, 2025 at 11:21 AM",
+      "id": "5103.05-volunteer-firefighter",
+      "normalized": "volunteer firefighter",
+      "scope": "(A) As used in sections 5103.05 to 5103.0513 of the Revised Code:",
+      "section": "5103.05",
+      "source_title": "Section 5103.05 - Notice of operation.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5103.05",
+      "term": "Volunteer firefighter"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "5103.05",
+      "number": "5103.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.05"
+    },
+    {
+      "kind": "section",
+      "label": "5103.0513",
+      "number": "5103.0513",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.0513"
+    },
+    {
+      "kind": "section",
+      "label": "5103.13",
+      "number": "5103.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.13"
+    },
+    {
+      "kind": "section",
+      "label": "5153.21",
+      "number": "5153.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5153.21"
+    },
+    {
+      "kind": "section",
+      "label": "5153.42",
+      "number": "5153.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5153.42"
+    },
+    {
+      "kind": "section",
+      "label": "146.01",
+      "number": "146.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-146.01"
+    },
+    {
+      "kind": "section",
+      "label": "5103.03",
+      "number": "5103.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.03"
+    },
+    {
+      "kind": "section",
+      "label": "5103.051",
+      "number": "5103.051",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.051"
+    }
+  ],
+  "scraped": "2026-07-02T20:10:24+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5103.05",
+  "title": "Section 5103.05 - Notice of operation."
+}

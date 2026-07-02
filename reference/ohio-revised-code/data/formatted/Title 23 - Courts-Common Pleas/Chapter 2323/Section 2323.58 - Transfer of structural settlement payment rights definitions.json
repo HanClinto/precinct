@@ -1,0 +1,228 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Annuity issuer\" means an insurer that has issued a contract that is used to fund periodic payments under a structured settlement.",
+      "id": "2323.58-annuity-issuer",
+      "normalized": "annuity issuer",
+      "scope": "As used in this section and sections 2323.581 to 2323.587 of the Revised Code:",
+      "section": "2323.58",
+      "source_title": "Section 2323.58 - Transfer of structural settlement payment rights definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2323.58",
+      "term": "Annuity issuer"
+    },
+    {
+      "definition": "(B) \"Assignee\" means a party acquiring or proposing to acquire structured settlement payment rights from a transferee of those rights.",
+      "id": "2323.58-assignee",
+      "normalized": "assignee",
+      "scope": "As used in this section and sections 2323.581 to 2323.587 of the Revised Code:",
+      "section": "2323.58",
+      "source_title": "Section 2323.58 - Transfer of structural settlement payment rights definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2323.58",
+      "term": "Assignee"
+    },
+    {
+      "definition": "(C) \"Dependent\" includes a spouse of a payee, a minor child of a payee, and any other person for whom the payee is legally obligated to provide support, including alimony.",
+      "id": "2323.58-dependent",
+      "normalized": "dependent",
+      "scope": "As used in this section and sections 2323.581 to 2323.587 of the Revised Code:",
+      "section": "2323.58",
+      "source_title": "Section 2323.58 - Transfer of structural settlement payment rights definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2323.58",
+      "term": "Dependent"
+    },
+    {
+      "definition": "(D) \"Discounted present value\" means the present value of future payments determined by discounting those payments to the present, using the most recently published applicable federal rate for determining the present value of an annuity, as issued by the United States internal revenue service.",
+      "id": "2323.58-discounted-present-value",
+      "normalized": "discounted present value",
+      "scope": "As used in this section and sections 2323.581 to 2323.587 of the Revised Code:",
+      "section": "2323.58",
+      "source_title": "Section 2323.58 - Transfer of structural settlement payment rights definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2323.58",
+      "term": "Discounted present value"
+    },
+    {
+      "definition": "(E) \"Gross advance amount\" means the sum payable to the payee or for the payee's account as consideration for a transfer of structured settlement payment rights before any reductions for transfer expenses or other deductions to be made from such consideration.",
+      "id": "2323.58-gross-advance-amount",
+      "normalized": "gross advance amount",
+      "scope": "As used in this section and sections 2323.581 to 2323.587 of the Revised Code:",
+      "section": "2323.58",
+      "source_title": "Section 2323.58 - Transfer of structural settlement payment rights definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2323.58",
+      "term": "Gross advance amount"
+    },
+    {
+      "definition": "(F) \"Independent professional advice\" means the advice of an attorney, a certified public accountant, an actuary, or any other licensed professional adviser.",
+      "id": "2323.58-independent-professional-advice",
+      "normalized": "independent professional advice",
+      "scope": "As used in this section and sections 2323.581 to 2323.587 of the Revised Code:",
+      "section": "2323.58",
+      "source_title": "Section 2323.58 - Transfer of structural settlement payment rights definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2323.58",
+      "term": "Independent professional advice"
+    },
+    {
+      "definition": "(G) \"Interested party\" means, with respect to a structured settlement, the payee, any beneficiary irrevocably designated under the annuity contract to receive payments following the payee's death, the annuity issuer, the structured settlement obligor, and any other party to the structured settlement that has continuing rights or obligations to receive or make payments under the structured settlement.",
+      "id": "2323.58-interested-party",
+      "normalized": "interested party",
+      "scope": "As used in this section and sections 2323.581 to 2323.587 of the Revised Code:",
+      "section": "2323.58",
+      "source_title": "Section 2323.58 - Transfer of structural settlement payment rights definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2323.58",
+      "term": "Interested party"
+    },
+    {
+      "definition": "(H) \"Net advance amount\" means the gross advance amount less the aggregate amount of the actual and estimated transfer expenses required to be disclosed under division (E) of section 2323.582 of the Revised Code.",
+      "id": "2323.58-net-advance-amount",
+      "normalized": "net advance amount",
+      "scope": "As used in this section and sections 2323.581 to 2323.587 of the Revised Code:",
+      "section": "2323.58",
+      "source_title": "Section 2323.58 - Transfer of structural settlement payment rights definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2323.58",
+      "term": "Net advance amount"
+    },
+    {
+      "definition": "(I) \"Payee\" means an individual who is receiving periodic payments under a structured settlement that are excludable from the individual's gross income under federal income taxation laws applicable to that individual and who proposes to make a transfer of the rights to receive those periodic payments.",
+      "id": "2323.58-payee",
+      "normalized": "payee",
+      "scope": "As used in this section and sections 2323.581 to 2323.587 of the Revised Code:",
+      "section": "2323.58",
+      "source_title": "Section 2323.58 - Transfer of structural settlement payment rights definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2323.58",
+      "term": "Payee"
+    },
+    {
+      "definition": "(J) \"Periodic payments\" includes both continuing monthly or other periodic payments and scheduled future lump-sum payments under a structured settlement.",
+      "id": "2323.58-periodic-payments",
+      "normalized": "periodic payments",
+      "scope": "As used in this section and sections 2323.581 to 2323.587 of the Revised Code:",
+      "section": "2323.58",
+      "source_title": "Section 2323.58 - Transfer of structural settlement payment rights definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2323.58",
+      "term": "Periodic payments"
+    },
+    {
+      "definition": "(K) \"Qualified assignment agreement\" means an agreement that provides for a qualified assignment, as defined in section 130 of the \"Internal Revenue Code of 1986,\" 100 Stat. 2085, 26 U.S.C.A. 130(c), as amended.",
+      "id": "2323.58-qualified-assignment-agreement",
+      "normalized": "qualified assignment agreement",
+      "scope": "As used in this section and sections 2323.581 to 2323.587 of the Revised Code:",
+      "section": "2323.58",
+      "source_title": "Section 2323.58 - Transfer of structural settlement payment rights definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2323.58",
+      "term": "Qualified assignment agreement"
+    },
+    {
+      "definition": "(L) \"Structured settlement\" means an arrangement for periodic payments of damages for personal injuries or sickness that is established by a settlement or a court judgment in resolution of a tort claim.",
+      "id": "2323.58-structured-settlement",
+      "normalized": "structured settlement",
+      "scope": "As used in this section and sections 2323.581 to 2323.587 of the Revised Code:",
+      "section": "2323.58",
+      "source_title": "Section 2323.58 - Transfer of structural settlement payment rights definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2323.58",
+      "term": "Structured settlement"
+    },
+    {
+      "definition": "(M) \"Structured settlement agreement\" means an agreement, judgment, stipulation, or release that embodies the terms of a structured settlement, including the rights of a payee to receive periodic payments.",
+      "id": "2323.58-structured-settlement-agreement",
+      "normalized": "structured settlement agreement",
+      "scope": "As used in this section and sections 2323.581 to 2323.587 of the Revised Code:",
+      "section": "2323.58",
+      "source_title": "Section 2323.58 - Transfer of structural settlement payment rights definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2323.58",
+      "term": "Structured settlement agreement"
+    },
+    {
+      "definition": "(N) \"Structured settlement obligor\" means the party that has the obligation to make continuing periodic payments to the payee under a structured settlement agreement or a qualified assignment agreement.",
+      "id": "2323.58-structured-settlement-obligor",
+      "normalized": "structured settlement obligor",
+      "scope": "As used in this section and sections 2323.581 to 2323.587 of the Revised Code:",
+      "section": "2323.58",
+      "source_title": "Section 2323.58 - Transfer of structural settlement payment rights definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2323.58",
+      "term": "Structured settlement obligor"
+    },
+    {
+      "definition": "(O) \"Structured settlement payment rights\" means the rights under a structured settlement agreement to receive periodic payments from a structured settlement obligor or an annuity issuer if either of the following applies:\n\n(1) The payee is a resident of this state.\n\n(2) The structured settlement agreement was approved by a court in this state.",
+      "id": "2323.58-structured-settlement-payment-rights",
+      "normalized": "structured settlement payment rights",
+      "scope": "As used in this section and sections 2323.581 to 2323.587 of the Revised Code:",
+      "section": "2323.58",
+      "source_title": "Section 2323.58 - Transfer of structural settlement payment rights definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2323.58",
+      "term": "Structured settlement payment rights"
+    },
+    {
+      "definition": "(P) \"Terms of a structured settlement\" includes the terms of a structured settlement agreement, the annuity contract, a qualified assignment agreement, and any order or approval by a court or other government authority authorizing or approving the structured settlement.",
+      "id": "2323.58-terms-of-a-structured-settlement",
+      "normalized": "terms of a structured settlement",
+      "scope": "As used in this section and sections 2323.581 to 2323.587 of the Revised Code:",
+      "section": "2323.58",
+      "source_title": "Section 2323.58 - Transfer of structural settlement payment rights definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2323.58",
+      "term": "Terms of a structured settlement"
+    },
+    {
+      "definition": "(Q) \"Transfer\" means a sale, assignment, pledge, hypothecation, or any other form of alienation or encumbrance of structured settlement payment rights made by a payee for consideration. \"Transfer\" does not include the creation or perfection of a security interest in structured settlement payment rights under a blanket security agreement entered into with an insured depository institution, in the absence of any action to redirect the structured settlement payments to that institution, or an agent or successor in interest thereof, or otherwise to enforce the blanket security interest against the structured settlement payment rights.",
+      "id": "2323.58-transfer",
+      "normalized": "transfer",
+      "scope": "As used in this section and sections 2323.581 to 2323.587 of the Revised Code:",
+      "section": "2323.58",
+      "source_title": "Section 2323.58 - Transfer of structural settlement payment rights definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2323.58",
+      "term": "Transfer"
+    },
+    {
+      "definition": "(R) \"Transfer agreement\" means an agreement that provides for the transfer of structured settlement payment rights from a payee to a transferee.",
+      "id": "2323.58-transfer-agreement",
+      "normalized": "transfer agreement",
+      "scope": "As used in this section and sections 2323.581 to 2323.587 of the Revised Code:",
+      "section": "2323.58",
+      "source_title": "Section 2323.58 - Transfer of structural settlement payment rights definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2323.58",
+      "term": "Transfer agreement"
+    },
+    {
+      "definition": "(S) \"Transfer expense\" means any expense of a transfer that is required under the transfer agreement to be paid by the payee or deducted from the gross advance amount, including but not limited to, court filing fees, attorneys' fees, escrow fees, lien recordation fees, judgment and lien search fees, finder's fees, commissions, and other payments to a broker or other intermediary. \"Transfer expense\" does not include pre-existing obligations of the payee payable for the payee's account from the proceeds of a transfer.",
+      "id": "2323.58-transfer-expense",
+      "normalized": "transfer expense",
+      "scope": "As used in this section and sections 2323.581 to 2323.587 of the Revised Code:",
+      "section": "2323.58",
+      "source_title": "Section 2323.58 - Transfer of structural settlement payment rights definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2323.58",
+      "term": "Transfer expense"
+    },
+    {
+      "definition": "(T) \"Transferee\" means a party acquiring or proposing to acquire structured settlement payment rights through a transfer.",
+      "id": "2323.58-transferee",
+      "normalized": "transferee",
+      "scope": "As used in this section and sections 2323.581 to 2323.587 of the Revised Code:",
+      "section": "2323.58",
+      "source_title": "Section 2323.58 - Transfer of structural settlement payment rights definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2323.58",
+      "term": "Transferee"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2323.581",
+      "number": "2323.581",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2323.581"
+    },
+    {
+      "kind": "section",
+      "label": "2323.587",
+      "number": "2323.587",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2323.587"
+    },
+    {
+      "kind": "section",
+      "label": "2323.582",
+      "number": "2323.582",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2323.582"
+    }
+  ],
+  "scraped": "2026-07-02T19:44:12+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2323.58",
+  "title": "Section 2323.58 - Transfer of structural settlement payment rights definitions."
+}

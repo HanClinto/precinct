@@ -1,0 +1,394 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"First responder\" means an individual who holds a current, valid certificate issued under section 4765.30 of the Revised Code to practice as a first responder.",
+      "id": "4765.01-first-responder",
+      "normalized": "first responder",
+      "scope": "As used in this chapter:",
+      "section": "4765.01",
+      "source_title": "Section 4765.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4765.01",
+      "term": "First responder"
+    },
+    {
+      "definition": "(B) \"Emergency medical technician-basic\" or \"EMT-basic\" means an individual who holds a current, valid certificate issued under section 4765.30 of the Revised Code to practice as an emergency medical technician-basic.",
+      "id": "4765.01-emergency-medical-technician-basic",
+      "normalized": "emergency medical technician-basic",
+      "scope": "As used in this chapter:",
+      "section": "4765.01",
+      "source_title": "Section 4765.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4765.01",
+      "term": "Emergency medical technician-basic"
+    },
+    {
+      "definition": "(B) \"Emergency medical technician-basic\" or \"EMT-basic\" means an individual who holds a current, valid certificate issued under section 4765.30 of the Revised Code to practice as an emergency medical technician-basic.",
+      "id": "4765.01-emt-basic",
+      "normalized": "emt-basic",
+      "scope": "As used in this chapter:",
+      "section": "4765.01",
+      "source_title": "Section 4765.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4765.01",
+      "term": "EMT-basic"
+    },
+    {
+      "definition": "(C) \"Emergency medical technician-intermediate\" or \"EMT-I\" means an individual who holds a current, valid certificate issued under section 4765.30 of the Revised Code to practice as an emergency medical technician-intermediate.",
+      "id": "4765.01-emergency-medical-technician-intermediate",
+      "normalized": "emergency medical technician-intermediate",
+      "scope": "As used in this chapter:",
+      "section": "4765.01",
+      "source_title": "Section 4765.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4765.01",
+      "term": "Emergency medical technician-intermediate"
+    },
+    {
+      "definition": "(C) \"Emergency medical technician-intermediate\" or \"EMT-I\" means an individual who holds a current, valid certificate issued under section 4765.30 of the Revised Code to practice as an emergency medical technician-intermediate.",
+      "id": "4765.01-emt-i",
+      "normalized": "emt-i",
+      "scope": "As used in this chapter:",
+      "section": "4765.01",
+      "source_title": "Section 4765.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4765.01",
+      "term": "EMT-I"
+    },
+    {
+      "definition": "(D) \"Emergency medical technician-paramedic\" or \"paramedic\" means an individual who holds a current, valid certificate issued under section 4765.30 of the Revised Code to practice as an emergency medical technician-paramedic.",
+      "id": "4765.01-emergency-medical-technician-paramedic",
+      "normalized": "emergency medical technician-paramedic",
+      "scope": "As used in this chapter:",
+      "section": "4765.01",
+      "source_title": "Section 4765.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4765.01",
+      "term": "Emergency medical technician-paramedic"
+    },
+    {
+      "definition": "(D) \"Emergency medical technician-paramedic\" or \"paramedic\" means an individual who holds a current, valid certificate issued under section 4765.30 of the Revised Code to practice as an emergency medical technician-paramedic.",
+      "id": "4765.01-paramedic",
+      "normalized": "paramedic",
+      "scope": "As used in this chapter:",
+      "section": "4765.01",
+      "source_title": "Section 4765.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4765.01",
+      "term": "paramedic"
+    },
+    {
+      "definition": "(E) \"Ambulance\" means any motor vehicle that is used, or is intended to be used, for the purpose of responding to emergency medical situations, transporting emergency patients, and administering emergency medical service to patients before, during, or after transportation.",
+      "id": "4765.01-ambulance",
+      "normalized": "ambulance",
+      "scope": "As used in this chapter:",
+      "section": "4765.01",
+      "source_title": "Section 4765.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4765.01",
+      "term": "Ambulance"
+    },
+    {
+      "definition": "(F) \"Cardiac monitoring\" means a procedure used for the purpose of observing and documenting the rate and rhythm of a patient's heart by attaching electrical leads from an electrocardiograph monitor to certain points on the patient's body surface.",
+      "id": "4765.01-cardiac-monitoring",
+      "normalized": "cardiac monitoring",
+      "scope": "As used in this chapter:",
+      "section": "4765.01",
+      "source_title": "Section 4765.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4765.01",
+      "term": "Cardiac monitoring"
+    },
+    {
+      "definition": "(G) \"Emergency medical service\" means any of the services that first responders, emergency medical technicians-basic, emergency medical technicians-intermediate, and paramedics are authorized to perform pursuant to rules adopted by the state board of emergency medical, fire, and transportation services under section 4765.11 of the Revised Code. \"Emergency medical service\" includes such services performed before or during any transport of a patient, including transports between hospitals and transports to and from helicopters.",
+      "id": "4765.01-emergency-medical-service",
+      "normalized": "emergency medical service",
+      "scope": "As used in this chapter:",
+      "section": "4765.01",
+      "source_title": "Section 4765.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4765.01",
+      "term": "Emergency medical service"
+    },
+    {
+      "definition": "(H) \"Emergency medical service organization\" means a public or private organization using first responders, EMTs-basic, EMTs-I, or paramedics, or a combination of first responders, EMTs-basic, EMTs-I, and paramedics, to provide emergency medical services.",
+      "id": "4765.01-emergency-medical-service-organization",
+      "normalized": "emergency medical service organization",
+      "scope": "As used in this chapter:",
+      "section": "4765.01",
+      "source_title": "Section 4765.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4765.01",
+      "term": "Emergency medical service organization"
+    },
+    {
+      "definition": "(I) \"Physician\" means an individual who holds a current, valid license issued under Chapter 4731. of the Revised Code authorizing the practice of medicine and surgery or osteopathic medicine and surgery.",
+      "id": "4765.01-physician",
+      "normalized": "physician",
+      "scope": "As used in this chapter:",
+      "section": "4765.01",
+      "source_title": "Section 4765.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4765.01",
+      "term": "Physician"
+    },
+    {
+      "definition": "(J) \"Registered nurse\" means an individual who holds a current, valid license issued under Chapter 4723. of the Revised Code authorizing the practice of nursing as a registered nurse.",
+      "id": "4765.01-registered-nurse",
+      "normalized": "registered nurse",
+      "scope": "As used in this chapter:",
+      "section": "4765.01",
+      "source_title": "Section 4765.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4765.01",
+      "term": "Registered nurse"
+    },
+    {
+      "definition": "(K) \"Volunteer\" means a person who provides services either for no compensation or for compensation that does not exceed the actual expenses incurred in providing the services or in training to provide the services.",
+      "id": "4765.01-volunteer",
+      "normalized": "volunteer",
+      "scope": "As used in this chapter:",
+      "section": "4765.01",
+      "source_title": "Section 4765.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4765.01",
+      "term": "Volunteer"
+    },
+    {
+      "definition": "(L) \"Emergency medical service personnel\" means first responders, emergency medical technicians-basic, emergency medical technicians-intermediate, emergency medical technicians-paramedic, and persons who provide medical direction to such persons.",
+      "id": "4765.01-emergency-medical-service-personnel",
+      "normalized": "emergency medical service personnel",
+      "scope": "As used in this chapter:",
+      "section": "4765.01",
+      "source_title": "Section 4765.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4765.01",
+      "term": "Emergency medical service personnel"
+    },
+    {
+      "definition": "(M) \"Hospital\" has the same meaning as in section 3727.01 of the Revised Code.",
+      "id": "4765.01-hospital",
+      "normalized": "hospital",
+      "scope": "As used in this chapter:",
+      "section": "4765.01",
+      "source_title": "Section 4765.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4765.01",
+      "term": "Hospital"
+    },
+    {
+      "definition": "(N) \"Trauma\" or \"traumatic injury\" means severe damage to or destruction of tissue that satisfies both of the following conditions:\n\n(1) It creates a significant risk of any of the following:\n\n(a) Loss of life;\n\n(b) Loss of a limb;\n\n(c) Significant, permanent disfigurement;\n\n(d) Significant, permanent disability.\n\n(2) It is caused by any of the following:\n\n(a) Blunt or penetrating injury;\n\n(b) Exposure to electromagnetic, chemical, or radioactive energy;\n\n(c) Drowning, suffocation, or strangulation;\n\n(d) A deficit or excess of heat.",
+      "id": "4765.01-trauma",
+      "normalized": "trauma",
+      "scope": "As used in this chapter:",
+      "section": "4765.01",
+      "source_title": "Section 4765.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4765.01",
+      "term": "Trauma"
+    },
+    {
+      "definition": "(N) \"Trauma\" or \"traumatic injury\" means severe damage to or destruction of tissue that satisfies both of the following conditions:\n\n(1) It creates a significant risk of any of the following:\n\n(a) Loss of life;\n\n(b) Loss of a limb;\n\n(c) Significant, permanent disfigurement;\n\n(d) Significant, permanent disability.\n\n(2) It is caused by any of the following:\n\n(a) Blunt or penetrating injury;\n\n(b) Exposure to electromagnetic, chemical, or radioactive energy;\n\n(c) Drowning, suffocation, or strangulation;\n\n(d) A deficit or excess of heat.",
+      "id": "4765.01-traumatic-injury",
+      "normalized": "traumatic injury",
+      "scope": "As used in this chapter:",
+      "section": "4765.01",
+      "source_title": "Section 4765.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4765.01",
+      "term": "traumatic injury"
+    },
+    {
+      "definition": "(O) \"Trauma victim\" or \"trauma patient\" means a person who has sustained a traumatic injury.",
+      "id": "4765.01-trauma-victim",
+      "normalized": "trauma victim",
+      "scope": "As used in this chapter:",
+      "section": "4765.01",
+      "source_title": "Section 4765.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4765.01",
+      "term": "Trauma victim"
+    },
+    {
+      "definition": "(O) \"Trauma victim\" or \"trauma patient\" means a person who has sustained a traumatic injury.",
+      "id": "4765.01-trauma-patient",
+      "normalized": "trauma patient",
+      "scope": "As used in this chapter:",
+      "section": "4765.01",
+      "source_title": "Section 4765.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4765.01",
+      "term": "trauma patient"
+    },
+    {
+      "definition": "(P) \"Trauma care\" means the assessment, diagnosis, transportation, treatment, or rehabilitation of a trauma victim by emergency medical service personnel or by a physician, nurse, physician assistant, respiratory therapist, physical therapist, chiropractor, occupational therapist, speech-language pathologist, audiologist, or psychologist licensed to practice as such in this state or another jurisdiction.",
+      "id": "4765.01-trauma-care",
+      "normalized": "trauma care",
+      "scope": "As used in this chapter:",
+      "section": "4765.01",
+      "source_title": "Section 4765.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4765.01",
+      "term": "Trauma care"
+    },
+    {
+      "definition": "(Q) \"Trauma center\" means all of the following:\n\n(1) Any hospital that is verified by the American college of surgeons as an adult or pediatric trauma center;\n\n(2) Any hospital that is operating as an adult or pediatric trauma center under provisional status pursuant to section 3727.101 of the Revised Code;\n\n(3) Until December 31, 2004, any hospital in this state that is designated by the director of health as a level II pediatric trauma center under section 3727.081 of the Revised Code;\n\n(4) Any hospital in another state that is licensed or designated under the laws of that state as capable of providing specialized trauma care appropriate to the medical needs of the trauma patient.",
+      "id": "4765.01-trauma-center",
+      "normalized": "trauma center",
+      "scope": "As used in this chapter:",
+      "section": "4765.01",
+      "source_title": "Section 4765.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4765.01",
+      "term": "Trauma center"
+    },
+    {
+      "definition": "(R) \"Pediatric\" means involving a patient who is less than sixteen years of age.",
+      "id": "4765.01-pediatric",
+      "normalized": "pediatric",
+      "scope": "As used in this chapter:",
+      "section": "4765.01",
+      "source_title": "Section 4765.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4765.01",
+      "term": "Pediatric"
+    },
+    {
+      "definition": "(S) \"Adult\" means involving a patient who is not a pediatric patient.",
+      "id": "4765.01-adult",
+      "normalized": "adult",
+      "scope": "As used in this chapter:",
+      "section": "4765.01",
+      "source_title": "Section 4765.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4765.01",
+      "term": "Adult"
+    },
+    {
+      "definition": "(T) \"Geriatric\" means involving a patient who is at least seventy years old or exhibits significant anatomical or physiological characteristics associated with advanced aging.",
+      "id": "4765.01-geriatric",
+      "normalized": "geriatric",
+      "scope": "As used in this chapter:",
+      "section": "4765.01",
+      "source_title": "Section 4765.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4765.01",
+      "term": "Geriatric"
+    },
+    {
+      "definition": "(U) \"Air medical organization\" means an organization that provides emergency medical services, or transports emergency victims, by means of fixed or rotary wing aircraft.\n\n(V) \"Emergency care\" and \"emergency facility\" have the same meanings as in section 3727.01 of the Revised Code.",
+      "id": "4765.01-air-medical-organization",
+      "normalized": "air medical organization",
+      "scope": "As used in this chapter:",
+      "section": "4765.01",
+      "source_title": "Section 4765.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4765.01",
+      "term": "Air medical organization"
+    },
+    {
+      "definition": "(W) \"Stabilize\" has the same meaning as in section 1753.28 of the Revised Code.",
+      "id": "4765.01-stabilize",
+      "normalized": "stabilize",
+      "scope": "As used in this chapter:",
+      "section": "4765.01",
+      "source_title": "Section 4765.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4765.01",
+      "term": "Stabilize"
+    },
+    {
+      "definition": "(X) \"Transfer\" has the same meaning as in section 1753.28 of the Revised Code.",
+      "id": "4765.01-transfer",
+      "normalized": "transfer",
+      "scope": "As used in this chapter:",
+      "section": "4765.01",
+      "source_title": "Section 4765.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4765.01",
+      "term": "Transfer"
+    },
+    {
+      "definition": "(Y) \"Firefighter\" means any member of a fire department as defined in section 742.01 of the Revised Code.",
+      "id": "4765.01-firefighter",
+      "normalized": "firefighter",
+      "scope": "As used in this chapter:",
+      "section": "4765.01",
+      "source_title": "Section 4765.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4765.01",
+      "term": "Firefighter"
+    },
+    {
+      "definition": "(Z) \"Volunteer firefighter\" has the same meaning as in section 146.01 of the Revised Code.",
+      "id": "4765.01-volunteer-firefighter",
+      "normalized": "volunteer firefighter",
+      "scope": "As used in this chapter:",
+      "section": "4765.01",
+      "source_title": "Section 4765.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4765.01",
+      "term": "Volunteer firefighter"
+    },
+    {
+      "definition": "(AA) \"Part-time paid firefighter\" means a person who provides firefighting services on less than a full-time basis, is routinely scheduled to be present on site at a fire station or other designated location for purposes of responding to a fire or other emergency, and receives more than nominal compensation for the provision of firefighting services.",
+      "id": "4765.01-part-time-paid-firefighter",
+      "normalized": "part-time paid firefighter",
+      "scope": "As used in this chapter:",
+      "section": "4765.01",
+      "source_title": "Section 4765.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4765.01",
+      "term": "Part-time paid firefighter"
+    },
+    {
+      "definition": "(BB) \"Physician assistant\" means an individual who holds a valid license to practice as a physician assistant issued under Chapter 4730. of the Revised Code.",
+      "id": "4765.01-physician-assistant",
+      "normalized": "physician assistant",
+      "scope": "As used in this chapter:",
+      "section": "4765.01",
+      "source_title": "Section 4765.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4765.01",
+      "term": "Physician assistant"
+    },
+    {
+      "definition": "(CC) \"Advanced practice registered nurse\" has the same meaning as in section 4723.01 of the Revised Code.\n\nLast updated April 13, 2022 at 1:28 PM",
+      "id": "4765.01-advanced-practice-registered-nurse",
+      "normalized": "advanced practice registered nurse",
+      "scope": "As used in this chapter:",
+      "section": "4765.01",
+      "source_title": "Section 4765.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4765.01",
+      "term": "Advanced practice registered nurse"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "4765.30",
+      "number": "4765.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.30"
+    },
+    {
+      "kind": "section",
+      "label": "4765.11",
+      "number": "4765.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.11"
+    },
+    {
+      "kind": "section",
+      "label": "3727.01",
+      "number": "3727.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3727.01"
+    },
+    {
+      "kind": "section",
+      "label": "3727.101",
+      "number": "3727.101",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3727.101"
+    },
+    {
+      "kind": "section",
+      "label": "3727.081",
+      "number": "3727.081",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3727.081"
+    },
+    {
+      "kind": "section",
+      "label": "1753.28",
+      "number": "1753.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1753.28"
+    },
+    {
+      "kind": "section",
+      "label": "742.01",
+      "number": "742.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.01"
+    },
+    {
+      "kind": "section",
+      "label": "146.01",
+      "number": "146.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-146.01"
+    },
+    {
+      "kind": "section",
+      "label": "4723.01",
+      "number": "4723.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.01"
+    }
+  ],
+  "scraped": "2026-07-02T20:08:05+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4765.01",
+  "title": "Section 4765.01 - Definitions."
+}

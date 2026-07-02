@@ -1,0 +1,87 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-5124
+Scraped: 2026-07-02T20:10:56+00:00
+
+# Chapter 5124 - Intermediate Care Facility for Individuals with Intellectual Disabilities Services
+
+## Sections
+
+- Section 5124.01 - Definitions.
+- Section 5124.02 - Assumption of powers and duties regarding medicaid program's coverage of ICF/IID services.
+- Section 5124.03 - Rules.
+- Section 5124.05 - Scope of coverage.
+- Section 5124.06 - Eligibility to enter into provider agreements.
+- Section 5124.07 - Department provider agreements; contents.
+- Section 5124.071 - Agreements with more than one ICF/IID.
+- Section 5124.072 - Revalidation of agreements.
+- Section 5124.08 - Provider agreements with ICF/IID providers.
+- Section 5124.081 - Resident's cause of action for breach.
+- Section 5124.10 - Cost reports.
+- Section 5124.101 - Cost reports for downsized or partially converted provider.
+- Section 5124.102 - Fines paid excluded from reports.
+- Section 5124.103 - Form of cost reports.
+- Section 5124.104 - Duties of department.
+- Section 5124.105 - Addendum for disputed costs.
+- Section 5124.106 - Failure to timely file report; consequences.
+- Section 5124.107 - Amendments to reports.
+- Section 5124.108 - Desk review.
+- Section 5124.109 - Audits.
+- Section 5124.15 - Amount of payments.
+- Section 5124.151 - Initial rates for services provided by a new ICF/IID.
+- Section 5124.152 - Payment rate for service provided by outlier ICF/IID or unit.
+- Section 5124.153 - Payment rate for services provided to resident who meets criteria for admission to outlier ICF/IID or unit.
+- Section 5124.154 - Computing rate for services provided by developmental centers.
+- Section 5124.17 - ICF/IID's per medicaid day capital component rate.
+- Section 5124.19 - ICF/IID's per medicaid day direct care costs component rate.
+- Section 5124.191 - Definition of ICF/IID resident; assessment of residents.
+- Section 5124.192 - Acuity groups for purpose of assigning case-mix scores.
+- Section 5124.193 - Quarterly determination of case-mix scores.
+- Section 5124.194 - Changes to instructions, guidelines, or methodology.
+- Section 5124.21 - Per medicaid day indirect care costs component rate.
+- Section 5124.23 - Per medicaid day other protected costs component rate.
+- Section 5124.24 - Determination of per medicaid day quality incentive payment.
+- Section 5124.25 - Payment of medicaid rate add-on for outlier services provided for ventilator-dependent residents.
+- Section 5124.26 - Payment of medicaid rate add-on for outlier ICF/IID services.
+- Section 5124.29 - Limiting compensation of owners, their relatives, administrators, and resident meals outside facility.
+- Section 5124.30 - Costs of goods furnished by related party.
+- Section 5124.31 - Adjustment of payment rates.
+- Section 5124.32 - Reduction in rate not permitted.
+- Section 5124.33 - No payment for day of discharge.
+- Section 5124.34 - Payment for reserving beds.
+- Section 5124.35 - Timing of payments after involuntary termination.
+- Section 5124.37 - Timing of payments; calculations.
+- Section 5124.38 - Process for reconsideration of rates.
+- Section 5124.40 - Adjustment of rates.
+- Section 5124.41 - Redetermination of rates.
+- Section 5124.42 - Additional penalties.
+- Section 5124.43 - Determination of interest rate.
+- Section 5124.44 - Deductions.
+- Section 5124.45 - Deposits to general revenue fund.
+- Section 5124.46 - Adjudications under the administrative procedure act.
+- Section 5124.50 - Notice of facility closure or voluntary termination.
+- Section 5124.51 - Notice of change of operator.
+- Section 5124.511 - Agreements with entering operators effective on date of change of operator.
+- Section 5124.512 - Agreements with entering operators effective at a later date.
+- Section 5124.513 - Entering operator duties under provider agreement.
+- Section 5124.514 - Exiting operator deemed operator pending change.
+- Section 5124.515 - Provider agreement with operator not complying with prior agreement.
+- Section 5124.516 - Medicaid reimbursement adjustments; change of operator.
+- Section 5124.517 - Determination that a change of operator has or has not occurred; effect.
+- Section 5124.52 - Overpayment amounts determined following notice of closure, etc.
+- Section 5124.521 - Withholding from medicaid payment due exiting operator.
+- Section 5124.522 - Cost report by exiting operator; waiver.
+- Section 5124.523 - Failure to file cost report; payments deemed overpayments.
+- Section 5124.524 - Final payment withheld pending receipt of cost reports.
+- Section 5124.525 - Determination of debt of exiting operator; summary report.
+- Section 5124.526 - Release of amount withheld less amounts owed.
+- Section 5124.527 - Release of amount withheld on postponement of change of operator.
+- Section 5124.528 - Disposition of amounts withheld from payment due an exiting operator.
+- Section 5124.53 - Adoption of rules for implementation of sections 5124.50 to 5124.53.
+- Section 5124.60 - Conversion of beds to home and community-based services.
+- Section 5124.61 - Conversion of beds in acquired ICF/IID.
+- Section 5124.62 - Request for federal approval of conversion of beds.
+- Section 5124.65 - Reconversion of beds to ICF/IID use.
+- Section 5124.68 - Admission as resident in an ICF/IID with medicaid-certified capacity exceeding eight.
+- Section 5124.69 - Informational pamphlet.
+- Section 5124.70 - Maximum number of residents per sleeping room.
+- Section 5124.75 - Conversion of ICF/IID beds to OhioRISE program.
+- Section 5124.99 - Penalty for violation of cost reporting provisions.

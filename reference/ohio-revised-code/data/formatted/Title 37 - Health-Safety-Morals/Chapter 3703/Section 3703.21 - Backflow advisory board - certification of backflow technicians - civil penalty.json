@@ -1,0 +1,42 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Isolation backflow prevention device\" means a device for the prevention of the backflow of liquids, solids, or gases that is regulated by the building code adopted pursuant to section 3781.10 of the Revised Code and rules adopted pursuant to this section.",
+      "id": "3703.21-isolation-backflow-prevention-device",
+      "normalized": "isolation backflow prevention device",
+      "scope": "(G) As used in this section:",
+      "section": "3703.21",
+      "source_title": "Section 3703.21 - Backflow advisory board - certification of backflow technicians - civil penalty.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3703.21",
+      "term": "Isolation backflow prevention device"
+    },
+    {
+      "definition": "(2) \"Containment backflow prevention device\" means a device for the prevention of the backflow of liquids, solids, or gases that is installed by the supplier of, or as a requirement of, any public water system as defined in division (A) of section 6109.01 of the Revised Code.\n\nLast updated February 13, 2025 at 5:47 PM",
+      "id": "3703.21-containment-backflow-prevention-device",
+      "normalized": "containment backflow prevention device",
+      "scope": "(G) As used in this section:",
+      "section": "3703.21",
+      "source_title": "Section 3703.21 - Backflow advisory board - certification of backflow technicians - civil penalty.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3703.21",
+      "term": "Containment backflow prevention device"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3781.10",
+      "number": "3781.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.10"
+    },
+    {
+      "kind": "section",
+      "label": "6109.01",
+      "number": "6109.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6109.01"
+    }
+  ],
+  "scraped": "2026-07-02T19:50:57+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3703.21",
+  "title": "Section 3703.21 - Backflow advisory board - certification of backflow technicians - civil penalty."
+}

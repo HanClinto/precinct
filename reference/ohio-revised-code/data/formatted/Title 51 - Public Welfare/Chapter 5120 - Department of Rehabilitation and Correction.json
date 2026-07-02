@@ -1,0 +1,735 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 5120.01 - Director of rehabilitation and correction - powers and duties.",
+      "number": "5120.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.011 - Sanctions imposed for frivolous actions.",
+      "number": "5120.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.011"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.02 - Assistant director - powers and duties.",
+      "number": "5120.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.021 - Application of chapter.",
+      "number": "5120.021",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.021"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.03 - Designation of use of institutions.",
+      "number": "5120.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.031 - Pilot program of shock incarceration.",
+      "number": "5120.031",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.031"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.032 - Intensive program prisons.",
+      "number": "5120.032",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.032"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.033 - Intensive program prisons for certain OVI offenders.",
+      "number": "5120.033",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.033"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.034 - Reentry services by nonprofit faith-based organizations.",
+      "number": "5120.034",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.034"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.035 - Community-based substance use disorder treatment for qualified prisoners.",
+      "number": "5120.035",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.035"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.036 - Risk reduction programming and treatment.",
+      "number": "5120.036",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.036"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.037 - Substance abuse recovery prison; feasibility study.",
+      "number": "5120.037",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.037"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.038 - GPS monitoring of offenders.",
+      "number": "5120.038",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.038"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.04 - Assigning prisoner labor on public works.",
+      "number": "5120.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.05 - Maintenance and management of institutions.",
+      "number": "5120.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.051 - Mentally ill and persons with intellectual disabilities who are incarcerated.",
+      "number": "5120.051",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.051"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.06 - Divisions of department.",
+      "number": "5120.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.07 - Ex-offender reentry coalition.",
+      "number": "5120.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.08 - Bonds for employees.",
+      "number": "5120.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.09 - Division of business administration - powers and duties.",
+      "number": "5120.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.091 - Education services fund.",
+      "number": "5120.091",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.091"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.092 - Adult and juvenile correctional facilities bond retirement fund.",
+      "number": "5120.092",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.092"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.10 - Jail standards.",
+      "number": "5120.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.102 - Halfway house facility definitions.",
+      "number": "5120.102",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.102"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.103 - Construction of halfway houses.",
+      "number": "5120.103",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.103"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.104 - Acquiring and leasing of capital facilities or sites for use as halfway house.",
+      "number": "5120.104",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.104"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.105 - Providing construction services for halfway houses.",
+      "number": "5120.105",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.105"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.106 - Halfway house verification of identity.",
+      "number": "5120.106",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.106"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.11 - Bureau of examination and classification.",
+      "number": "5120.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.111 - Rules and forms for community-based correctional facilities and programs.",
+      "number": "5120.111",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.111"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.112 - Application for state financial assistance to community-based correctional facilities and programs.",
+      "number": "5120.112",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.112"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.113 - Written reentry plans.",
+      "number": "5120.113",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.113"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.114 - Single validated risk assessment tool.",
+      "number": "5120.114",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.114"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.115 - Authorized users; confidentiality of reports.",
+      "number": "5120.115",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.115"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.13 - Holding funds in trust for inmates.",
+      "number": "5120.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.131 - Industrial and entertainment fund - commissary fund.",
+      "number": "5120.131",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.131"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.132 - Prisoner programs fund.",
+      "number": "5120.132",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.132"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.133 - Prisoner's financial obligations and funds.",
+      "number": "5120.133",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.133"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.134 - Vending commission fund.",
+      "number": "5120.134",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.134"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.14 - Notice of escape and of apprehension of escapee.",
+      "number": "5120.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.15 - Admission and discharge of inmates.",
+      "number": "5120.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.16 - Reception, examination, observation, and classification of inmates.",
+      "number": "5120.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.161 - Local housing of certain state prisoners.",
+      "number": "5120.161",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.161"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.162 - Transferring children in custody of youth services department to correctional medical center.",
+      "number": "5120.162",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.162"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.163 - Examination, testing and treatment for certain diseases.",
+      "number": "5120.163",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.163"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.17 - Transferring inmate to psychiatric hospital.",
+      "number": "5120.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.171 - Care and treatment of seriously mentally ill inmates.",
+      "number": "5120.171",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.171"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.172 - Consent to medical treatment of minor prosecuted as adult.",
+      "number": "5120.172",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.172"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.173 - Report of child abuse or neglect to state highway patrol.",
+      "number": "5120.173",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.173"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.18 - Classifying public buildings - purchase of articles.",
+      "number": "5120.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.19 - Cultivating lands - transactions between institutions.",
+      "number": "5120.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.20 - Cooperative tests by agriculture and health departments.",
+      "number": "5120.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.21 - Records.",
+      "number": "5120.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.211 - Quality assurance records are confidential.",
+      "number": "5120.211",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.211"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.212 - Data matching agreements.",
+      "number": "5120.212",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.212"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.22 - Division of business administration - property management duties.",
+      "number": "5120.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.23 - Estimates of required supplies.",
+      "number": "5120.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.24 - Purchasing supplies.",
+      "number": "5120.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.25 - Books and accounts.",
+      "number": "5120.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.26 - Funds.",
+      "number": "5120.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.27 - Industries carried on by institutions.",
+      "number": "5120.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.28 - Fixing prices for labor and services.",
+      "number": "5120.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.29 - Institutional services fund; Ohio penal industries manufacturing fund.",
+      "number": "5120.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.30 - Investigations.",
+      "number": "5120.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.31 - Appointing special agents and persons.",
+      "number": "5120.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.32 - Annual report.",
+      "number": "5120.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.33 - Listing employees.",
+      "number": "5120.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.331 - Annual report of inmate time served and releases.",
+      "number": "5120.331",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.331"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.34 - Nonpartisan management of institutions.",
+      "number": "5120.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.35 - Annual report suggestions and recommendations.",
+      "number": "5120.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.36 - Executive, administrative, and fiscal supervision of institutions.",
+      "number": "5120.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.37 - Sharing information with department of job and family services.",
+      "number": "5120.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.38 - Duties of managing officer.",
+      "number": "5120.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.381 - Deputy warden.",
+      "number": "5120.381",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.381"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.382 - Appointment of employees.",
+      "number": "5120.382",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.382"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.39 - Superintendent of institution - powers and duties.",
+      "number": "5120.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.40 - Qualification of teachers.",
+      "number": "5120.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.41 - Courses of study.",
+      "number": "5120.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.42 - Rules for proper execution of powers.",
+      "number": "5120.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.421 - Visitor searches.",
+      "number": "5120.421",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.421"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.422 - Rules for site selection.",
+      "number": "5120.422",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.422"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.423 - Rules for designating equipment and programs that improve fighting skills.",
+      "number": "5120.423",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.423"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.424 - Purchasing fixed weight exercise equipment.",
+      "number": "5120.424",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.424"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.425 - Prisoner access to inflammatory and other materials definitions.",
+      "number": "5120.425",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.425"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.426 - Rules governing access to materials.",
+      "number": "5120.426",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.426"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.427 - Right to receive materials.",
+      "number": "5120.427",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.427"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.428 - Request for review.",
+      "number": "5120.428",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.428"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.44 - Liberal construction of chapter.",
+      "number": "5120.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.45 - Burial or cremation of inmate.",
+      "number": "5120.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.46 - Appropriating property.",
+      "number": "5120.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.47 - Leasing capital facilities.",
+      "number": "5120.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.48 - Apprehending escapee or prisoner mistakenly released.",
+      "number": "5120.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.49 - Standards and guidelines for termination of parole board's control over certain sexually violent offenders.",
+      "number": "5120.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.50 - Interstate correction compact.",
+      "number": "5120.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.51 - Population and cost impact statement for legislative bill.",
+      "number": "5120.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.52 - Contract for sewage services.",
+      "number": "5120.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.53 - Transfer or exchange of convicted offender to foreign country pursuant to treaty.",
+      "number": "5120.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.55 - Licensed health professional recruitment program.",
+      "number": "5120.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.56 - Recovering cost of incarceration or supervision from offender.",
+      "number": "5120.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.57 - Reimbursement for health care services rendered to insured offender.",
+      "number": "5120.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.58 - Rules for health care benefits and preventive services.",
+      "number": "5120.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.59 - Verification of prisoner's identity before release.",
+      "number": "5120.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.60 - Office of victim services.",
+      "number": "5120.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.61 - Risk assessment reports for sexually violent offenders.",
+      "number": "5120.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.62 - Internet access for prisoners.",
+      "number": "5120.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.63 - Random drug testing of state prisoners.",
+      "number": "5120.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.631 - State correctional institution feminine hygiene products.",
+      "number": "5120.631",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.631"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.64 - Rules regarding the return of Ohio prisoners from outside of this state into this state by a private person or entity.",
+      "number": "5120.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.65 - Prison nursery program.",
+      "number": "5120.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.651 - Eligibility for program.",
+      "number": "5120.651",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.651"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.652 - Duties of inmate participants.",
+      "number": "5120.652",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.652"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.653 - Termination of participation in program.",
+      "number": "5120.653",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.653"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.654 - Collecting support payments.",
+      "number": "5120.654",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.654"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.655 - Prison nursery program fund - individual nursery accounts.",
+      "number": "5120.655",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.655"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.656 - No regulation by department of job and family services.",
+      "number": "5120.656",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.656"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.657 - Adoption of rules.",
+      "number": "5120.657",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.657"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.66 - Internet database of inmate offense, sentence, and release information; \"Laura's Law\".",
+      "number": "5120.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.68 - Warden's report to parole board.",
+      "number": "5120.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.68"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.70 - Federal equitable sharing fund.",
+      "number": "5120.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.80 - Community programs fund.",
+      "number": "5120.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.80"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5120.99 - Penalty.",
+      "number": "5120.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5120.99"
+    }
+  ],
+  "scraped": "2026-07-02T20:10:44+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-5120",
+  "title": "Chapter 5120 - Department of Rehabilitation and Correction"
+}

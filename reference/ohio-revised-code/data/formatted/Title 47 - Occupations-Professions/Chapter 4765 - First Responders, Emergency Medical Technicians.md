@@ -1,0 +1,71 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-4765
+Scraped: 2026-07-02T20:08:05+00:00
+
+# Chapter 4765 - First Responders, Emergency Medical Technicians
+
+## Sections
+
+- Section 4765.01 - Definitions.
+- Section 4765.011 - Designation as EMR, EMT, or AEMT.
+- Section 4765.02 - State board of emergency medical, fire, and transportation services.
+- Section 4765.03 - Executive director duties.
+- Section 4765.04 - Firefighter and fire safety inspector training committee - trauma committee - other committees and subcommittees.
+- Section 4765.05 - Prehospital emergency medical services regions.
+- Section 4765.06 - Emergency medical services incidence reporting system - state trauma registry.
+- Section 4765.07 - Administrative rules for grant program.
+- Section 4765.08 - Statewide emergency medical services plan - statewide regulation of emergency medical services during periods of disaster.
+- Section 4765.09 - Recommendations for operation of ambulance and emergency medical service organizations.
+- Section 4765.10 - State board - powers and duties.
+- Section 4765.101 - Complaint and investigation of violations.
+- Section 4765.102 - Investigative information confidential.
+- Section 4765.11 - Administrative rules.
+- Section 4765.111 - Disciplinary proceedings.
+- Section 4765.112 - Suspension of certificate without hearing.
+- Section 4765.113 - Reconsideration of suspension based on conviction.
+- Section 4765.114 - Certificate automatically suspended for certain offenses.
+- Section 4765.115 - Suspension orders - administrative hearing - disposition.
+- Section 4765.116 - Procedure where hearing not timely requested.
+- Section 4765.12 - Guidelines for care of trauma victims by emergency medical service personnel - conduct of peer review and quality assurance programs by emergency medical service organizations.
+- Section 4765.15 - Continuing education - approval and accreditation.
+- Section 4765.16 - Continuing education - development.
+- Section 4765.161 - Expedited paramedic certification for veterans.
+- Section 4765.162 - Dementia-related training.
+- Section 4765.163 - Petition to add training and continuing education program topics.
+- Section 4765.17 - Issuing certificate of accreditation or certificate of approval.
+- Section 4765.18 - Grounds for suspension or revocation of certificate.
+- Section 4765.22 - Applying to teach in emergency medical services training or continuing education program.
+- Section 4765.23 - Teaching certificate - issuance - renewal - suspension or revocation.
+- Section 4765.24 - Continuing education - certificate of completion.
+- Section 4765.28 - Applying for certificate to practice.
+- Section 4765.29 - Examination.
+- Section 4765.30 - Qualifications for certificate to practice.
+- Section 4765.301 - Criminal records check.
+- Section 4765.31 - Continuing education - extension or exemption.
+- Section 4765.32 - Certificates issued under prior law.
+- Section 4765.33 - Disciplinary actions.
+- Section 4765.35 - Authorized services by first responders.
+- Section 4765.36 - Authorized services in hospital.
+- Section 4765.361 - Performance of services in nonemergency situations.
+- Section 4765.37 - Authorized services by EMT-basic.
+- Section 4765.38 - Authorized services by EMT-intermediate.
+- Section 4765.39 - Authorized services by EMT-paramedic.
+- Section 4765.391 - Administration of immunizations for influenza to firefighters or EMTs.
+- Section 4765.40 - Written protocols for triage of adult and pediatric trauma victims.
+- Section 4765.401 - Protocols for stroke patients.
+- Section 4765.41 - Local written protocols.
+- Section 4765.42 - Appointment and qualifications of medical director, member of cooperating physician advisory board.
+- Section 4765.43 - Ambulance staffing.
+- Section 4765.431 - Ambulance staffing - nonemergency transport.
+- Section 4765.45 - Reports to department of health.
+- Section 4765.48 - Prosecutions - injunctions.
+- Section 4765.49 - Emergency medical personnel and agencies - immunity.
+- Section 4765.50 - Unauthorized practice.
+- Section 4765.51 - Registered nurses and physician assistants.
+- Section 4765.52 - Emergency medical attention to dog or cat.
+- Section 4765.53 - COVID-19 tests and specimens.
+- Section 4765.55 - Fire service training programs.
+- Section 4765.56 - Effect of child support default on certificate to practice.
+- Section 4765.57 - Disposition of fetal death remains.
+- Section 4765.58 - Compliance with law regarding sanctions for human trafficking.
+- Section 4765.59 - Administration and rule-making authority.
+- Section 4765.99 - Penalty.

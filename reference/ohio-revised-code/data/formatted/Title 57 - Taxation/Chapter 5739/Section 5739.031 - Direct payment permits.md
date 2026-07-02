@@ -1,0 +1,28 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5739.031
+Scraped: 2026-07-02T20:15:14+00:00
+
+# Section 5739.031 - Direct payment permits.
+
+**Effective:** October 3, 2023
+
+**Latest Legislation:** House Bill 33 - 135th General Assembly
+
+(A) Upon application, the tax commissioner may issue a direct payment permit that authorizes a consumer to pay the sales tax levied by or pursuant to section 5739.02 , 5739.021 , 5739.023 , or 5739.026 of the Revised Code or the use tax levied by or pursuant to section 5741.02 , 5741.021 , 5741.022 , or 5741.023 of the Revised Code directly to the state and waives the collection of the tax by the vendor or seller if payment directly to the state would improve compliance and increase the efficiency of the administration of the tax. The commissioner may adopt rules establishing the criteria for the issuance of such permits.
+
+(B) Each permit holder, on or before the twenty-third day of each month, shall make and file with the tax commissioner a return for the preceding month in such form as is prescribed by the commissioner and shall pay the tax shown on the return to be due. The return shall show the sum of the prices of taxable merchandise used and taxable services received, the amount of tax due from the permit holder, and such other information as the commissioner deems necessary. The commissioner, upon written request by the permit holder, may extend the time for making and filing returns and paying the tax. If the commissioner determines that a permit holder's tax liability is not such as to merit monthly filing, the commissioner may authorize the permit holder to file returns and pay the tax at less frequent intervals.
+
+Any permit holder required to file a return and pay the tax under this section whose total payment for any calendar year equals or exceeds the amount shown in section 5739.032 of the Revised Code shall make each payment required by this section in the second ensuing and each succeeding year electronically as prescribed by, and on or before the dates specified in, section 5739.032 of the Revised Code, except as otherwise prescribed by that section.
+
+(C) For purposes of reporting and remitting the tax, the price of tangible personal property or services purchased by, or of tangible personal property produced by, the permit holder shall be determined under division (G) of section 5741.01 of the Revised Code. Except as otherwise provided in division (E) of section 5739.033 of the Revised Code, the situs of any purchase transaction made by the permit holder is the location where the tangible personal property or service is received by the permit holder.
+
+(D) It shall be the duty of every permit holder required to make a return and pay its tax under this section to keep and preserve suitable records of purchases together with invoices of purchases, bills of lading, asset ledgers, depreciation schedules, transfer journals, and such other primary and secondary records and documents in such form as the commissioner requires. All such records and other documents shall be open during business hours to the inspection of the tax commissioner, and shall be preserved for a period of four years, unless the commissioner, in writing, has authorized their destruction or disposal at an earlier date, or by order or by reason of a waiver of the four-year time limitation pursuant to section 5739.16 of the Revised Code requires that they be kept longer.
+
+(E) A permit granted pursuant to this section shall continue to be valid until surrendered by the holder or canceled for cause by the tax commissioner.
+
+(F) Persons who hold a direct payment permit that has not been canceled shall not be required to issue exemption certificates and shall not be required to pay the tax as prescribed in sections 5739.03 , 5739.033 , and 5741.12 of the Revised Code. Such persons shall notify vendors and sellers from whom purchases of tangible personal property or services are made, of their direct payment permit number and that the tax is being paid directly to the state. Upon receipt of such notice, such vendor or seller shall be absolved from all duties and liabilities imposed by section 5739.03 or 5741.04 of the Revised Code with respect to sales of tangible personal property or services to such permit holder.
+
+Vendors and sellers who make sales upon which the tax is not collected by reason of the provisions of this section shall maintain records in such manner that the amount involved and identity of the purchaser may be ascertained. The receipts from such sales shall not be subject to the tax levied in section 5739.10 of the Revised Code.
+
+Upon the cancellation or surrender of a direct payment permit, the provisions of sections 5739.03 , 5741.04 , and 5741.12 of the Revised Code shall immediately apply to all purchases made subsequent to such cancellation or surrender by the person who previously held such permit, and such person shall so notify vendors and sellers from whom purchases of tangible personal property or services are made, in writing, prior to or at the time of the first purchase after such cancellation or surrender. Upon receipt of such notice, the vendor shall be subject to the provisions of sections 5739.03 and 5739.10 of the Revised Code and the seller shall be subject to the provisions of section 5741.04 of the Revised Code, with respect to all sales subsequently made to such person. Failure of any such person to notify vendors or sellers from whom purchases of tangible personal property or services are made of the cancellation or surrender of a direct payment permit shall be considered as a refusal to pay the tax by the person required to issue such notice.
+
+Last updated September 6, 2023 at 3:30 PM

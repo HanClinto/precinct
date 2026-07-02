@@ -1,0 +1,26 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3913.27
+Scraped: 2026-07-02T20:02:28+00:00
+
+# Section 3913.27 - Vote on reorganization plan.
+
+**Effective:** September 16, 1997
+
+**Latest Legislation:** House Bill 370 - 122nd General Assembly
+
+(A) A reorganization plan adopted by a mutual insurance company's board of directors pursuant to section 3913.26 of the Revised Code shall be voted upon by a mutual insurance company's policyholders at a policyholders' meeting. A policyholder is entitled to cast only one vote, in person or by proxy, on the reorganization plan regardless of the number of policies or contracts that the policyholder may own or hold. Only proxies specifically related to the reorganization plan shall be used in determining whether the reorganization plan is approved pursuant to division (C) of this section.
+
+(B) All policyholders shall be given notice of the policyholders' meeting to vote upon the reorganization plan at least thirty days prior to the date fixed for the policyholders' meeting. Notice of the time and place of such meeting shall be sent by mail to each policyholder at the policyholder's post office address as it appears on the books and records of the company. The notice shall include a summary of the reorganization plan adopted by the board of directors, including an analysis of the material financial aspects and potential for dilution of policyholders' interests in the mutual insurance company under the reorganization plan, a uniform ballot for voting on the question of the reorganization plan, and a statement informing the policyholders that the superintendent of insurance may fix a time and place for a public hearing on the reorganization plan, to be held within thirty days after the superintendent's receipt of written notice from the board of directors of the policyholders' approval of the reorganization plan.
+
+(C) A reorganization plan shall be approved upon receiving the affirmative vote of at least a majority of the votes cast by policyholders.
+
+(D)(1) If a reorganization plan is approved at the policyholders' meeting, the board of directors of a mutual insurance company shall provide the superintendent with written notice of that approval within ten days after the policyholders' meeting.
+
+(2) The superintendent may, within ten days after receiving the notice from the board of directors, provide written notice to the mutual insurance company of the superintendent's intent to conduct one or more public hearings on the reorganization plan. At a minimum, the superintendent's notice to the mutual insurance company shall include a time and a place for the first public hearing, which shall be held within thirty days after the superintendent's receipt of the notice from the board of directors.
+
+(3) Within ten days after the mutual insurance company's receipt of a notice from the superintendent of the superintendent's intent to conduct one or more public hearings on the reorganization plan, if such notice is provided, the mutual insurance company shall provide notice of the time and place of such hearing by causing this information to be published once each week for two consecutive weeks in a newspaper published and of the largest circulation in the counties of Cuyahoga, Franklin, Hamilton, and Lucas, in the county in this state in which the mutual insurance company has its principal office, and in the newspaper of the largest circulation in the state capital of each state of the United States in which the company maintains an office or agency for the solicitation of insurance.
+
+(E) The proposed articles of incorporation and code of regulations for the mutual insurance holding company and the reorganized stock company, and, if applicable, for an intermediate holding company, as filed with the superintendent pursuant to division (G)(4) of section 3913.26 of the Revised Code, shall also be voted upon by the mutual insurance company's policyholders at the policyholders' meeting held pursuant to this section. The articles of incorporation and code of regulations shall be adopted upon receiving the affirmative vote of at least a majority of the votes cast by policyholders.
+
+(F) At all public hearings conducted by the superintendent pursuant to the superintendent's authority under division (D)(2) of this section, the superintendent may summon and compel the attendance and testimony of witnesses and the production of books and papers. The superintendent shall hear the testimony of persons claiming to be adversely affected by the reorganization plan, and of others wishing to comment on the reorganization plan. Such persons may present a position and offer comments concerning the reorganization plan, including a position and comments concerning whether the reorganization plan is fair and equitable to the mutual insurance company's policyholders and whether it complies with sections 3913.25 to 3913.38 of the Revised Code.
+
+(G) A mutual insurance company's failure to provide a member or members with the notice required by this section shall not impair the validity of any action taken under sections 3913.25 to 3913.38 of the Revised Code, if the mutual insurance company has complied substantially and in good faith with all notice requirements. The determination as to such compliance shall be made by the superintendent.

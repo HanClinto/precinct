@@ -1,0 +1,110 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Lime mining wastes\" means residual solid or semisolid materials generated from lime calcining, lime processing, or lime manufacturing operations, including, without limitation, lime kiln dust, scrubber sludge from lime kiln operations, lime materials not meeting product specification, lime hydrating materials, and other lime manufacturing, processing, or calcining materials associated with lime processing. \"Lime mining wastes\" does not include materials generated from the manufacture of cement.",
+      "id": "1514.081-lime-mining-wastes",
+      "normalized": "lime mining wastes",
+      "scope": "(A) As used in this section:",
+      "section": "1514.081",
+      "source_title": "Section 1514.081 - Administrative rules establishing standards and requirements for beneficial use of lime mining wastes and monitoring of ground water.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1514.081",
+      "term": "Lime mining wastes"
+    },
+    {
+      "definition": "(2) \"Beneficial use\" means the use of lime mining wastes for land application when it is utilized for agronomic purposes at standard agronomic rates as determined by standard soil testing, for land reclamation in accordance with this chapter and rules adopted under it, including, but not limited to, use as fill material, as defined by rule, in quarries, and for any other purposes designated by the chief of the division of mineral resources management, including demonstration projects approved by the chief.",
+      "id": "1514.081-beneficial-use",
+      "normalized": "beneficial use",
+      "scope": "(A) As used in this section:",
+      "section": "1514.081",
+      "source_title": "Section 1514.081 - Administrative rules establishing standards and requirements for beneficial use of lime mining wastes and monitoring of ground water.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1514.081",
+      "term": "Beneficial use"
+    },
+    {
+      "definition": "(3) \"Solid waste disposal facility\" means a facility for the disposal of solid wastes that is licensed under Chapter 3734. of the Revised Code.",
+      "id": "1514.081-solid-waste-disposal-facility",
+      "normalized": "solid waste disposal facility",
+      "scope": "(A) As used in this section:",
+      "section": "1514.081",
+      "source_title": "Section 1514.081 - Administrative rules establishing standards and requirements for beneficial use of lime mining wastes and monitoring of ground water.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1514.081",
+      "term": "Solid waste disposal facility"
+    },
+    {
+      "definition": "(4) \"Disposal system\" has the same meaning as in section 6111.01 of the Revised Code.\n\n(B) Not later than two hundred seventy days after October 8, 2001, the chief shall adopt and may amend, suspend, or rescind rules in accordance with Chapter 119. of the Revised Code establishing standards and requirements for both of the following:\n\n(1) The beneficial use of lime mining wastes, including the beneficial use of lime mining wastes at lime mining and reclamation operations governed by this chapter;\n\n(2) The monitoring of ground water associated with the beneficial use of lime mining wastes and the taking of corrective action in the event of a subsurface discharge of leachate from the beneficial use of lime mining wastes or of contamination of ground water resulting from the beneficial use of lime mining wastes, in order to protect human health and environment.\n\nThe beneficial use of lime mining wastes is subject to any applicable standards and requirements established under this chapter and rules adopted under it. Until such time as the chief adopts rules under this section, the beneficial use of lime mining wastes shall require the prior written approval of the chief in a surface mining permit issued under this chapter.\n\n(C) The beneficial use of lime mining wastes does not constitute establishing a solid waste disposal facility or a disposal system. A beneficial use of lime mining wastes that is authorized under this section is not subject to any of the following:\n\n(1) Permit and license requirements for solid waste facilities established under sections 3734.02 and 3734.05 of the Revised Code;\n\n(2) The prohibition against open dumping of solid wastes established under section 3734.03 of the Revised Code;\n\n(3) Solid waste disposal and generation fees established under sections 3734.57 to 3734.574 of the Revised Code;\n\n(4) Permit to install and plan approval requirements and prohibitions established under sections 6111.03 , 6111.04 , 6111.44 , and 6111.45 of the Revised Code.\n\nNothing in this section shall be construed to limit any other requirements that are applicable to the beneficial use of lime mining wastes under Chapter 905., 3704., 3714., 3734., or 6111. of the Revised Code or any local or federal laws, including, without limitation, requirements governing air pollution control permits, hazardous waste installation and operation permits, national pollutant discharge elimination system permits, and section 401 water quality certifications.",
+      "id": "1514.081-disposal-system",
+      "normalized": "disposal system",
+      "scope": "(A) As used in this section:",
+      "section": "1514.081",
+      "source_title": "Section 1514.081 - Administrative rules establishing standards and requirements for beneficial use of lime mining wastes and monitoring of ground water.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1514.081",
+      "term": "Disposal system"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "6111.01",
+      "number": "6111.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.01"
+    },
+    {
+      "kind": "section",
+      "label": "3734.02",
+      "number": "3734.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.02"
+    },
+    {
+      "kind": "section",
+      "label": "3734.05",
+      "number": "3734.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.05"
+    },
+    {
+      "kind": "section",
+      "label": "3734.03",
+      "number": "3734.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.03"
+    },
+    {
+      "kind": "section",
+      "label": "3734.57",
+      "number": "3734.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.57"
+    },
+    {
+      "kind": "section",
+      "label": "3734.574",
+      "number": "3734.574",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.574"
+    },
+    {
+      "kind": "section",
+      "label": "6111.03",
+      "number": "6111.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.03"
+    },
+    {
+      "kind": "section",
+      "label": "6111.04",
+      "number": "6111.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.04"
+    },
+    {
+      "kind": "section",
+      "label": "6111.44",
+      "number": "6111.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.44"
+    },
+    {
+      "kind": "section",
+      "label": "6111.45",
+      "number": "6111.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.45"
+    }
+  ],
+  "scraped": "2026-07-02T19:37:42+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1514.081",
+  "title": "Section 1514.081 - Administrative rules establishing standards and requirements for beneficial use of lime mining wastes and monitoring of ground water."
+}

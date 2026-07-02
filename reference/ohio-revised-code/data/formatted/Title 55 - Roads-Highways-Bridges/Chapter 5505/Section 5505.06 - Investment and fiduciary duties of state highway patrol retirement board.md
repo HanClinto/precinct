@@ -1,0 +1,34 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5505.06
+Scraped: 2026-07-02T20:12:28+00:00
+
+# Section 5505.06 - Investment and fiduciary duties of state highway patrol retirement board.
+
+**Effective:** March 20, 2025
+
+**Latest Legislation:** Senate Bill 6 - 135th General Assembly
+
+(A) The members of the state highway patrol retirement board shall be the trustees of the funds created by section 5505.03 of the Revised Code. The board shall have full power to invest the funds. The board and other fiduciaries shall discharge their duties with respect to the funds solely in the interest of the participants and beneficiaries; for the exclusive purpose of providing benefits to participants and their beneficiaries and defraying reasonable expenses of administering the system; with care, skill, prudence, and diligence under the circumstances then prevailing that a prudent person acting in a like capacity and familiar with these matters would use in the conduct of an enterprise of a like character and with like aims; and by diversifying the investments of the system so as to minimize the risk of large losses, unless under the circumstances it is clearly prudent not to do so.
+
+The board, in accordance with its fiduciary duties described under this section, shall make investment decisions with the sole purpose of maximizing the return on its investments. The board shall not make an investment decision with the primary purpose of influencing any social or environmental policy or attempting to influence the governance of any corporation.
+
+To facilitate investment of the funds, the board may establish a partnership, trust, limited liability company, corporation, including a corporation exempt from taxation under the Internal Revenue Code, 100 Stat. 2085, 26 U.S.C. 1, as amended, or any other legal entity authorized to transact business in this state.
+
+(B) In exercising its fiduciary responsibility with respect to the investment of the funds, it shall be the intent of the board to give consideration to investments that enhance the general welfare of the state and its citizens where the investments offer quality, return, and safety comparable to other investments currently available to the board. In fulfilling this intent, equal consideration shall be given to investments otherwise qualifying under this section that involve minority owned and controlled firms and firms owned and controlled by women, either alone or in joint venture with other firms.
+
+The board shall adopt, in regular meeting, policies, objectives, or criteria for the operation of the investment program that include asset allocation targets and ranges, risk factors, asset class benchmarks, time horizons, total return objectives, and performance evaluation guidelines. In adopting policies and criteria for the selection of agents with whom the board may contract for the administration of the funds, the board shall comply with sections 5505.068 and 5505.0610 of the Revised Code and shall also give equal consideration to minority owned and controlled firms, firms owned and controlled by women, and joint ventures involving minority owned and controlled firms and firms owned and controlled by women that otherwise meet the policies and criteria established by the board. Amendments and additions to the policies and criteria shall be adopted in regular meeting. The board shall publish its policies, objectives, and criteria under this provision no less often than annually and shall make copies available to interested parties.
+
+The board shall not adopt a policy, or take any action to promote a policy, under which the board makes investment decisions with the primary purpose of influencing any social or environmental policy or attempting to influence the governance of any corporation.
+
+When reporting on the performance of investments, the board shall comply with the performance presentation standards established by the association for investment management and research.
+
+(C) All evidences of title of the investments purchased by the board shall be delivered to the treasurer of state, who is hereby designated as the custodian thereof, or to the treasurer of state's authorized agent. Evidences of title of the investments may be deposited by the treasurer of state for safekeeping with an authorized agent, selected by the treasurer of state, who is a qualified trustee under section 135.18 of the Revised Code. The treasurer of state shall collect the principal, interest, dividends, and distributions that become due and payable and, when collected, shall credit them to the custodial funds.
+
+The treasurer of state shall pay for the investments purchased by the board on receipt of written or electronic instructions from the board or the board's designated agent authorizing the purchase and pending receipt of the evidence of title of the investment by the treasurer of state or the treasurer of state's authorized agent. The board may sell investments held by the board, and the treasurer of state or the treasurer of state's authorized agent shall accept payment from the purchaser and deliver evidence of title of the investment to the purchaser on receipt of written or electronic instructions from the board or the board's designated agent authorizing the sale, and pending receipt of the moneys for the investments. The amount received shall be placed in the custodial funds. The board and the treasurer of state may enter into agreements to establish procedures for the purchase and sale of investments under this division and the custody of the investments.
+
+(D) All of the board's business shall be transacted, all its funds shall be invested, all warrants for money drawn and payments shall be made, and all of its cash, securities, and other property shall be held, in the name of the board or its nominee, provided that nominees are authorized by board resolution for the purpose of facilitating the ownership and transfer of investments.
+
+(E) No purchase or sale of any investment shall be made under this section except as authorized by the board.
+
+(F) Any statement of financial position distributed by the board shall include the fair value, as of the statement date, of all investments held by the board under this section.
+
+Last updated January 16, 2025 at 2:07 PM

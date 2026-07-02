@@ -1,0 +1,54 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5505.162
+Scraped: 2026-07-02T20:12:28+00:00
+
+# Section 5505.162 - Election of type of pension.
+
+**Effective:** September 29, 2017
+
+**Latest Legislation:** House Bill 362, House Bill 49 - 132nd General Assembly
+
+(A) As used in this division, "member" has the same meaning as in section 5505.01 of the Revised Code, except that it also includes a former member who has earned service credit and has not received a refund of accumulated contributions under section 5505.19 of the Revised Code.
+
+On application for retirement as provided in section 5505.16 of the Revised Code, a member of the state highway patrol retirement system may elect, on a form provided by the state highway patrol retirement board, to receive the pension that the member is eligible to receive on retirement under that section in one of the following forms:
+
+(1) A single lifetime pension;
+
+(2) The actuarial equivalent of the single lifetime pension that the member may elect under division (A)(1) of this section in a lesser annual amount payable for the member's life and continuing after the member's death to a surviving designated beneficiary under one of the following optional plans, provided the annual amount payable to the designated beneficiary shall not exceed the annual amount payable to such retiring member, the amount is certified by the actuary employed by the system to be the actuarial equivalent of the member's pension, and the amount is approved by the board:
+
+(a) Option 1. The member's lesser pension shall be paid for life to the member's sole beneficiary designated at the time of retirement.
+
+(b) Option 2. One-half or some other portion of the member's lesser pension shall be paid for life to the member's sole beneficiary designated at the time of retirement.
+
+(c) Option 3. Upon death before the expiration of a certain period from the member's retirement date as elected by the member and approved by the board, the member's lesser pension shall be continued for the remainder of such period to the beneficiaries, and in such order, as designated by the member in writing and filed with the board. No monthly payments shall be paid to joint beneficiaries, but they may jointly receive the present value of any remaining payments in a lump sum settlement. If all designated beneficiaries die before the expiration of such period, the present value of all the payments yet remaining in the period shall be paid to the estate of the beneficiary last receiving such payments.
+
+(d) Option 4. The member's lesser pension or portion of the lesser pension shall be paid for life to two, three, or four surviving beneficiaries designated at the time of the member's retirement, in such portions as specified at retirement. If the member elects this plan as required by a court order issued under section 3105.171 or 3105.65 of the Revised Code or the laws of another state regarding the division of marital property and compliance with the court order requires the allocation of a portion less than ten per cent to any person, the member shall allocate a portion less than ten per cent to that person in accordance with that order. In all other circumstances, no portion allocated under this plan of payment shall be less than ten per cent. The total of the portions allocated shall not exceed one hundred per cent of the member's lesser pension.
+
+(3) If the member has attained age fifty-two with at least twenty years' total service, a pension consisting of both a partial benefit lump sum in an amount the member designates that constitutes a portion of the single lifetime pension the member may elect under division (A)(1) of this section and the actuarial equivalent of the remainder of the single lifetime pension payable for the member's life, provided an actuary employed by the system certifies the actuarial equivalent and the board approves the partial benefit lump sum payment and the amount to be paid as the actuarial equivalent.
+
+The amount designated by a member shall be not less than six times the monthly amount that would be payable to the member as a single lifetime pension under division (A)(1) of this section and not more than sixty times that amount.
+
+A member who has attained the age of fifty-two with twenty years of service who elects a partial benefit lump sum may designate an amount that does not exceed an amount equal to one month's pension for each month of service beyond twenty years.
+
+(4) If a plan of payment providing for payment in a specified portion of the pension continuing after the member's death to a former spouse is required by a court order issued under section 3105.171 or 3105.65 of the Revised Code or the laws of another state regarding division of marital property prior to the effective date of the member's retirement and the board has received a copy of the order, the board shall accept the member's election of a plan of payment under this section only if the member elects a plan of payment that is in accordance with the order.
+
+(B)(1) The death of a spouse designated as beneficiary or the death of any other designated beneficiary following retirement shall cancel the portion of the optional plan of payment selected under division (A)(2) of this section providing continuing lifetime benefits to the deceased designated beneficiary. The retirant shall receive the actuarial equivalent of the retirant's single lifetime pension, as determined by the board based on the number of remaining beneficiaries, with no change in the amount payable to any remaining beneficiary. The change shall be effective the month following receipt by the board of notice of the death.
+
+(2) On divorce, annulment, or marriage dissolution, a retirant receiving a pension under a plan that provides for continuation of all or part of the pension after death for the lifetime of the retirant's surviving spouse may, with the written consent of the spouse or pursuant to an order of the court with jurisdiction over the termination of the marriage, elect to cancel the portion of the plan providing continuing lifetime benefits to that spouse. The retirant shall receive the actuarial equivalent of the retirant's single lifetime pension as determined by the board based on the number of remaining beneficiaries, with no change in amount payable to any remaining beneficiary. The election shall be made on a form provided by the board and shall be effective the month following its receipt by the board.
+
+(C)(1) Following marriage or remarriage of a retirant, both of the following apply:
+
+(a) A retirant may elect a new optional plan of payment under division (A)(2) of this section based on the actuarial equivalent of the retirant's single lifetime pension as determined by the board.
+
+(b) A retirant who is receiving a pension pursuant to a plan of payment providing for payment to a former spouse pursuant to a court order described in division (A)(4) of this section may elect a new plan of payment under "option 4" based on the actuarial equivalent of the retirant's single lifetime pension as determined by the board if the new plan of payment elected does not reduce the payment to the former spouse.
+
+(2) If the marriage or remarriage occurs on or after June 6, 2005, the election must be made not later than one year after the date of the marriage or remarriage.
+
+The plan elected under this section shall become effective on the date of receipt by the board of an application on a form approved by the board, but any change in the amount of the pension shall commence on the first day of the month following the effective date of the plan.
+
+(D) A retirant who has elected an optional plan under division (A)(2) of this section may, with the written consent of the designated beneficiary, cancel the optional plan and receive the single lifetime pension that the retirant would have received had the retirant elected the single lifetime pension under division (A)(1) of this section, if the retirant makes a request to cancel the optional plan not later than one year after the date on which the retirant first receives a payment under the plan. Cancellation of the optional plan shall be effective the month after acceptance of the request by the board. No payment or adjustment shall be made in the single lifetime pension to compensate for the lesser pension the retirant received under the optional plan.
+
+The request to cancel the optional plan shall be made on a form provided by the board and shall be valid only if the completed form includes a signed statement of the designated beneficiary's understanding of and consent to the cancellation. The designated beneficiary's signature shall be verified by the board prior to its acceptance of the cancellation.
+
+(E) Any option elected and payments made under division (A)(2) of this section shall be in addition to any pension payable to the retirant's surviving spouse, children, or parents under section 5505.17 of the Revised Code.
+
+The Legislative Service Commission presents the text of this section as a composite of the section as amended by multiple acts of the General Assembly. This presentation recognizes the principle stated in R.C. 1.52(B) that amendments are to be harmonized if reasonably capable of simultaneous operation.

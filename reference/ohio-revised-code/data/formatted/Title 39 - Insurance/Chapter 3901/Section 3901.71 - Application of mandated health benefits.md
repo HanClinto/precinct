@@ -1,0 +1,12 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3901.71
+Scraped: 2026-07-02T20:02:07+00:00
+
+# Section 3901.71 - Application of mandated health benefits.
+
+**Effective:** November 24, 1995
+
+**Latest Legislation:** Senate Bill 150 - 121st General Assembly
+
+(A) As used in this section, "mandated health benefits" means any required coverage, or required offering of coverage, for the expenses of specified services, treatments, or diseases under any policy, contract, plan, or other arrangement providing sickness and accident or other health benefits to policyholders, subscribers, or members.
+
+(B) Any provision for mandated health benefits contained in a law enacted by the general assembly after January 14, 1993, shall not be applied to any policy, contract, plan, or other arrangement providing sickness and accident or other health benefits until the superintendent of insurance determines, pursuant to a hearing conducted in accordance with Chapter 119. of the Revised Code, that the provision can be applied fully and equally in all respects to employee benefit plans subject to regulation by the federal "Employee Retirement Income Security Act of 1974," 88 Stat. 832, 29 U.S.C.A. 1001, as amended, and to employee benefit plans established or modified by the state or any political subdivision of the state, or by any agency or instrumentality of the state or any political subdivision of the state.

@@ -1,0 +1,40 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4735.141
+Scraped: 2026-07-02T20:07:14+00:00
+
+# Section 4735.141 - Continuing education.
+
+**Effective:** April 6, 2017
+
+**Latest Legislation:** House Bill 532 - 131st General Assembly
+
+(A) Except as otherwise provided in this division and in section 4735.13 of the Revised Code and except for a licensee who has placed the licensee's license in resigned status pursuant to section 4735.142 of the Revised Code, each person licensed under section 4735.07 or 4735.09 of the Revised Code shall submit proof satisfactory to the superintendent of real estate that the licensee has satisfactorily completed thirty hours of continuing education, as prescribed by the Ohio real estate commission pursuant to section 4735.10 of the Revised Code, on or before the licensee's birthday occurring three years after the licensee's date of initial licensure, and on or before the licensee's birthday every three years thereafter. If the person is licensed as a broker or broker on deposit, or acts as a management level licensee, the continuing education shall include a three-hour course on the duties of a principal broker and other issues involved in operating a real estate brokerage. The continuing education may be completed by either classroom instruction or distance education.
+
+Persons licensed as real estate salespersons who subsequently become licensed real estate brokers shall continue to submit proof of continuing education in accordance with the time period established in this section.
+
+The requirements of this section shall not apply to any disabled licensee as provided in division (E) of this section.
+
+Each licensee who is seventy years of age or older, within a continuing education reporting period, shall submit proof satisfactory to the superintendent of real estate that the licensee has satisfactorily completed both of the following:
+
+(1) A total of nine hours of continuing education, including instruction in Ohio real estate law; recently enacted state and federal laws affecting the real estate industry; municipal, state, and federal civil rights law; and canons of ethics for the real estate industry as adopted by the commission ;
+
+(2) If licensed as a broker, broker on deposit, or acting as a management level licensee, a three-hour continuing education course on the duties of a principal broker and other issues involved in operating a real estate brokerage.
+
+The continuing education may be completed by either classroom instruction or distance education. The required proof of completion shall be submitted on or before the licensee's birthday that falls in the third year of that continuing education reporting period. A licensee who is seventy years of age or older whose license is in an inactive status is exempt from the continuing education requirements specified in this section. The commission shall adopt reasonable rules in accordance with Chapter 119. of the Revised Code to carry out the purposes of this paragraph.
+
+(B) The continuing education requirements of this section shall be completed in schools, seminars, and educational institutions approved by the commission. Such approval shall be given according to rules established by the commission under the procedures of Chapter 119. of the Revised Code, and shall not be limited to institutions providing two-year or four-year degrees. Each school, seminar, or educational institution approved under this division shall be open to all licensees on an equal basis.
+
+(C) If the requirements of this section are not met by a licensee within the period specified, the licensee's license shall be suspended automatically without the taking of any action by the superintendent. The superintendent shall notify the licensee of the license suspension, and such notification shall be sent by regular mail to the personal residence address of the licensee that is on file with the division. Any license so suspended shall remain suspended until it is reactivated by the superintendent. No such license shall be reactivated until it is established, to the satisfaction of the superintendent, that the requirements of this section have been met. If the requirements of this section are not met within twelve months from the date the license was suspended, the license shall be revoked automatically without the taking of any action by the superintendent.
+
+(D) If the license of a real estate broker is suspended pursuant to division (C) of this section, the license of a real estate salesperson associated with that broker correspondingly is suspended pursuant to division (H) of section 4735.20 of the Revised Code. A sole broker shall notify affiliated salespersons of the suspension in writing within three days of receiving the notice required by division (C) of this section.
+
+(1) The suspended license of the associated real estate salesperson shall be reactivated and no fee shall be charged or collected for that reactivation if that broker subsequently submits proof to the superintendent that the broker has complied with the requirements of this section and requests that the broker's license as a real estate broker be reactivated, and the superintendent then reactivates the broker's license as a real estate broker.
+
+(2) If the real estate salesperson submits an application to leave the association of the suspended broker in order to associate with a different broker, the suspended license of the associated real estate salesperson shall be reactivated and no fee shall be charged or collected for that reactivation. The superintendent may process the application regardless of whether the licensee's license is returned to the superintendent.
+
+Any person whose license is reactivated pursuant to this division shall comply with the requirements of this section and otherwise be in compliance with this chapter.
+
+(E) Any licensee who is a disabled licensee at any time during the last three months of the third year of the licensee's continuing education reporting period may receive an extension of time as deemed appropriate by the superintendent to submit proof to the superintendent that the licensee has satisfactorily completed the required thirty hours of continuing education. To receive an extension of time, the licensee shall submit a request to the division of real estate for the extension and proof satisfactory to the commission that the licensee was a disabled licensee at some time during the last three months of the three-year reporting period. The proof shall include, but is not limited to, a signed statement by the licensee's attending physician describing the disability, certifying that the licensee's disability is of such a nature as to prevent the licensee from attending any instruction lasting at least three hours in duration, and stating the expected duration of the disability. The licensee shall request the extension and provide the physician's statement to the division no later than one month prior to the end of the licensee's three-year continuing education reporting period, unless the disability did not arise until the last month of the three-year reporting period, in which event the licensee shall request the extension and provide the physician's statement as soon as practical after the occurrence of the disability. A licensee granted an extension pursuant to this division who is no longer a disabled licensee and who submits proof of completion of the continuing education during the extension period, shall submit, for future continuing education reporting periods, proof of completion of the continuing education requirements according to the schedule established in division (A) of this section.
+
+(F) The superintendent shall not renew a license if the licensee fails to comply with this section, and the licensee shall be required to pay the penalty fee provided in section 4735.14 of the Revised Code.
+
+(G) A licensee shall submit proof of completion of the required continuing education with the licensee's notice of renewal. The proof shall be submitted in the manner provided by the superintendent.

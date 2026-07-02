@@ -1,0 +1,104 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Aircraft\" has the same meaning as in section 4561.01 of the Revised Code and includes any part or equipment of the aircraft. \"Aircraft\" includes an abandoned aircraft, unless otherwise specified.",
+      "id": "1311.71-aircraft",
+      "normalized": "aircraft",
+      "scope": "As used in sections 1311.71 to 1311.80 of the Revised Code:",
+      "section": "1311.71",
+      "source_title": "Section 1311.71 - Aircraft definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1311.71",
+      "term": "Aircraft"
+    },
+    {
+      "definition": "(B) \"Abandoned aircraft\" means an aircraft to which both of the following apply:\n\n(1) It is located on the premises of a public-use airport.\n\n(2) The owner or operator has not paid any tie-down, hangar, rent, or storage costs for use of the premises for at least ninety consecutive days.",
+      "id": "1311.71-abandoned-aircraft",
+      "normalized": "abandoned aircraft",
+      "scope": "As used in sections 1311.71 to 1311.80 of the Revised Code:",
+      "section": "1311.71",
+      "source_title": "Section 1311.71 - Aircraft definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1311.71",
+      "term": "Abandoned aircraft"
+    },
+    {
+      "definition": "(C) \"Director\" means the director or other chief executive officer of a public-use airport. \"Director\" includes the director's or chief's designee.",
+      "id": "1311.71-director",
+      "normalized": "director",
+      "scope": "As used in sections 1311.71 to 1311.80 of the Revised Code:",
+      "section": "1311.71",
+      "source_title": "Section 1311.71 - Aircraft definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1311.71",
+      "term": "Director"
+    },
+    {
+      "definition": "(D) \"Labor\" means to repair, service, or maintain an aircraft.",
+      "id": "1311.71-labor",
+      "normalized": "labor",
+      "scope": "As used in sections 1311.71 to 1311.80 of the Revised Code:",
+      "section": "1311.71",
+      "source_title": "Section 1311.71 - Aircraft definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1311.71",
+      "term": "Labor"
+    },
+    {
+      "definition": "(E) \"Materials\" means all products and substances, including gasoline, oil, lubricants, accessories, parts, and equipment, that are furnished for an aircraft.",
+      "id": "1311.71-materials",
+      "normalized": "materials",
+      "scope": "As used in sections 1311.71 to 1311.80 of the Revised Code:",
+      "section": "1311.71",
+      "source_title": "Section 1311.71 - Aircraft definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1311.71",
+      "term": "Materials"
+    },
+    {
+      "definition": "(F) \"Public-use airport\" has the same meaning as in section 4563.30 of the Revised Code.",
+      "id": "1311.71-public-use-airport",
+      "normalized": "public-use airport",
+      "scope": "As used in sections 1311.71 to 1311.80 of the Revised Code:",
+      "section": "1311.71",
+      "source_title": "Section 1311.71 - Aircraft definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1311.71",
+      "term": "Public-use airport"
+    },
+    {
+      "definition": "(G) \"Stores\" means to keep an aircraft on real property owned by a person that is not the owner of the aircraft. \"Stores\" includes any necessary transportation of the aircraft to an appropriate location for its storage.\n\nLast updated January 17, 2025 at 1:33 PM",
+      "id": "1311.71-stores",
+      "normalized": "stores",
+      "scope": "As used in sections 1311.71 to 1311.80 of the Revised Code:",
+      "section": "1311.71",
+      "source_title": "Section 1311.71 - Aircraft definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1311.71",
+      "term": "Stores"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "1311.71",
+      "number": "1311.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.71"
+    },
+    {
+      "kind": "section",
+      "label": "1311.80",
+      "number": "1311.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.80"
+    },
+    {
+      "kind": "section",
+      "label": "4561.01",
+      "number": "4561.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4561.01"
+    },
+    {
+      "kind": "section",
+      "label": "4563.30",
+      "number": "4563.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4563.30"
+    }
+  ],
+  "scraped": "2026-07-02T19:37:10+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1311.71",
+  "title": "Section 1311.71 - Aircraft definitions."
+}

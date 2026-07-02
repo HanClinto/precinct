@@ -1,0 +1,18 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5705.392
+Scraped: 2026-07-02T20:14:22+00:00
+
+# Section 5705.392 - County spending plan.
+
+**Effective:** September 28, 2012
+
+**Latest Legislation:** House Bill 509 - 129th General Assembly
+
+(A) A board of county commissioners may adopt as a part of its annual appropriation measure a spending plan, or in the case of an amended appropriation measure, an amended spending plan, setting forth a quarterly schedule of expenses and expenditures of all appropriations for the fiscal year from the county general fund. The spending plan shall be classified to set forth separately a quarterly schedule of expenses and expenditures for each office, department, and division, and within each, the amount appropriated for personal services. Each office, department, and division shall be limited in its expenses and expenditures of moneys appropriated from the general fund during any quarter by the schedule established in the spending plan. The schedule established in the spending plan shall serve as a limitation during a quarter on the making of contracts and giving of orders involving the expenditure of money during that quarter for purposes of division (D) of section 5705.41 of the Revised Code.
+
+(B)(1) A board of county commissioners, by resolution, may adopt a spending plan or an amended spending plan setting forth separately a quarterly schedule of expenses and expenditures of appropriations from any county fund, except as provided in division (C) of this section, for the second half of a fiscal year and any subsequent fiscal year, for any county office, department, or division that has spent or encumbered more than six-tenths of the amount appropriated for personal services and payrolls during the first half of any fiscal year.
+
+(2) During any fiscal year, a board of county commissioners, by resolution, may adopt a spending plan or an amended spending plan setting forth separately a quarterly schedule of expenses and expenditures of appropriations from any county fund, except as provided in division (C) of this section, for any county office, department, or division that, during the previous fiscal year, spent one hundred ten per cent or more of the total amount appropriated for personal services and payrolls by the board in its annual appropriation measure required by section 5705.38 of the Revised Code. The spending plan or amended spending plan shall remain in effect for not more than two fiscal years. But if the administrative officer of the office, department, or division for which the plan was adopted is an elected official, the spending plan shall not be in effect during a fiscal year in which that elected official is no longer the administrative officer of that office, department, or division.
+
+(3) At least thirty days before adopting a resolution under division (B)(1) or (2) of this section, the board of county commissioners shall provide written notice to each county office, department, or division for which it intends to adopt a spending plan or an amended spending plan. The notice shall be sent by regular first class mail or provided by personal service, and shall include a copy of the proposed spending plan or proposed amended spending plan. The county office, department, or division may meet with the board at any regular session of the board to comment on the notice, or to express concerns or ask questions about the proposed spending plan or proposed amended spending plan.
+
+(C) Division (B) of this section shall not apply to any fund that is subject to rules adopted by the tax commissioner under division (O) of section 5703.05 of the Revised Code.

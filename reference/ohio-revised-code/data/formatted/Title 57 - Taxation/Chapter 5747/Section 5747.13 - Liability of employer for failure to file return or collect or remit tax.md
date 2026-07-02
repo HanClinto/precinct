@@ -1,0 +1,46 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5747.13
+Scraped: 2026-07-02T20:15:28+00:00
+
+# Section 5747.13 - Liability of employer for failure to file return or collect or remit tax.
+
+**Effective:** June 16, 2026
+
+**Latest Legislation:** Senate Bill 101 - 136th General Assembly
+
+(A) If any employer collects the tax imposed by section 5747.02 or under Chapter 5748. of the Revised Code and fails to remit the tax as required by law, or fails to collect the tax, the employer is personally liable for any amount collected that the employer fails to remit, or any amount that the employer fails to collect. If any taxpayer fails to file a return or fails to pay the tax imposed by section 5747.02 or under Chapter 5748. of the Revised Code, the taxpayer is personally liable for the amount of the tax.
+
+If any employer, taxpayer, qualifying entity, or electing pass-through entity required to file a return under this chapter fails to file the return within the time prescribed, files an incorrect return, fails to remit the full amount of the taxes due for the period covered by the return, or fails to remit any additional tax due as a result of a reduction in the amount of the credit allowed under division (B) of section 5747.05 of the Revised Code together with interest on the additional tax within the time prescribed by that division, the tax commissioner may make an assessment against any person liable for any deficiency for the period for which the return is or taxes are due, based upon any information in the commissioner's possession.
+
+An assessment issued against either the employer or the taxpayer pursuant to this section shall not be considered an election of remedies or a bar to an assessment against the other for failure to report or pay the same tax. No assessment shall be issued against any person if the tax actually has been paid by another.
+
+No assessment shall be made or issued against an employer, a taxpayer, a qualifying entity, or an electing pass-through entity more than four years after the final date the return subject to assessment was required to be filed or the date the return was filed, whichever is later. However, the commissioner may assess any balance due as the result of a reduction in the credit allowed under division (B) of section 5747.05 of the Revised Code, including applicable penalty and interest, within four years of the date on which the taxpayer reports a change in either the portion of the taxpayer's adjusted gross income subjected to an income tax or tax measured by income in another state or the District of Columbia, or the amount of liability for an income tax or tax measured by income to another state or the District of Columbia, as required by division (B)(4) of section 5747.05 of the Revised Code. Such time limits may be extended if both the employer, taxpayer, qualifying entity, or electing pass-through entity and the commissioner consent in writing to the extension or if an agreement waiving or extending the time limits has been entered into pursuant to section 122.171 of the Revised Code. Any such extension shall extend the four-year time limit in division (B) of section 5747.11 of the Revised Code for the same period of time. There shall be no bar or limit to an assessment against an employer for taxes withheld from employees and not remitted to the state, against an employer, a taxpayer, a qualifying entity, or an electing pass-through entity that fails to file a return subject to assessment as required by this chapter, or against an employer, a taxpayer, a qualifying entity, or an electing pass-through entity that files a fraudulent return.
+
+The commissioner shall give the party assessed written notice of the assessment in the manner provided in section 5703.37 of the Revised Code. With the notice, the commissioner shall provide instructions on how to petition for reassessment and request a hearing on the petition.
+
+(B) Unless the party assessed files with the tax commissioner within sixty days after service of the notice of assessment a written petition for reassessment, signed by the party assessed or that party's authorized agent having knowledge of the facts, the assessment becomes final, and the amount of the assessment is due and payable from the party assessed to the commissioner with remittance made payable to the treasurer of state. The petition shall indicate the objections of the party assessed, but additional objections may be raised in writing if received by the commissioner prior to the date shown on the final determination. If the petition has been properly filed, the commissioner shall proceed under section 5703.60 of the Revised Code.
+
+(C) After an assessment becomes final, if any portion of the assessment remains unpaid, including accrued interest, a certified copy of the tax commissioner's entry making the assessment final may be filed in the office of the clerk of the court of common pleas in the county in which the employer's, taxpayer's, qualifying entity's, or electing pass-through entity's place of business is located or the county in which the party assessed resides. Such filing shall include the party's name and last known address. If the party assessed is not a resident of this state, the certified copy of the entry may be filed in the office of the clerk of the court of common pleas of Franklin county.
+
+Immediately upon the filing of the entry, the clerk shall enter a judgment against the party assessed in the amount shown on the entry. The judgment shall be filed by the clerk in one of two loose-leaf books, one entitled "special judgments for state and school district income taxes," and the other entitled "special judgments for qualifying entity and electing pass-through entity taxes." The judgment shall have the same effect as other judgments. Execution shall issue upon the judgment upon the request of the tax commissioner, and all laws applicable to sales on execution shall apply to sales made under the judgment.
+
+If the assessment is not paid in its entirety within sixty days after the assessment was issued, the portion of the assessment consisting of tax due shall bear interest at the rate per annum prescribed by section 5703.47 of the Revised Code from the day the tax commissioner issues the assessment until it is paid or until it is certified to the attorney general for collection under section 131.02 of the Revised Code, whichever comes first. If the unpaid portion of the assessment is certified to the attorney general for collection, the entire unpaid portion of the assessment shall bear interest at the rate per annum prescribed by section 5703.47 of the Revised Code from the date of certification until the date it is paid in its entirety. Interest shall be paid in the same manner as the tax and may be collected by the issuance of an assessment under this section.
+
+(D) All money collected under this section shall be considered as revenue arising from the taxes imposed by this chapter or Chapter 5733. or 5748. of the Revised Code, as appropriate.
+
+(E) If the party assessed files a petition for reassessment under division (B) of this section, the person, on or before the last day the petition may be filed, shall pay the assessed amount, including assessed interest and assessed penalties, if any of the following conditions exists:
+
+(1) The person files a tax return reporting Ohio adjusted gross income, less the exemptions allowed by section 5747.025 of the Revised Code, in an amount less than one cent, and the reported amount is not based on the computations required under division (A) of section 5747.01 or section 5747.025 of the Revised Code.
+
+(2) The person files a tax return that the tax commissioner determines to be incomplete, false, fraudulent, or frivolous.
+
+(3) The person fails to file a tax return, and the basis for this failure is not either of the following:
+
+(a) An assertion that the person has no nexus with this state;
+
+(b) The computations required under division (A) of section 5747.01 of the Revised Code or the application of credits allowed under this chapter has the result that the person's tax liability is less than one dollar and one cent.
+
+(F) Notwithstanding the fact that a petition for reassessment is pending, the petitioner may pay all or a portion of the assessment that is the subject of the petition. The acceptance of a payment by the treasurer of state does not prejudice any claim for refund upon final determination of the petition.
+
+If upon final determination of the petition an error in the assessment is corrected by the tax commissioner, upon petition so filed or pursuant to a decision of the board of tax appeals or any court to which the determination or decision has been appealed, so that the amount due from the party assessed under the corrected assessment is less than the portion paid, there shall be issued to the petitioner or to the petitioner's assigns or legal representative a refund in the amount of the overpayment as provided by section 5747.11 of the Revised Code, with interest on that amount as provided by such section, subject to section 5747.12 of the Revised Code.
+
+Last updated March 30, 2026 at 11:22 AM

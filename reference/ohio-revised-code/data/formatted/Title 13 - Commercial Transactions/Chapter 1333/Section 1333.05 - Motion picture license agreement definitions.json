@@ -1,0 +1,132 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Theater\" means any establishment in which motion pictures are exhibited regularly to the public for a charge.",
+      "id": "1333.05-theater",
+      "normalized": "theater",
+      "scope": "As used in sections 1333.05 to 1333.07 of the Revised Code:",
+      "section": "1333.05",
+      "source_title": "Section 1333.05 - Motion picture license agreement definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1333.05",
+      "term": "Theater"
+    },
+    {
+      "definition": "(B) \"Distributor\" means any person engaged in the business of renting, selling, or licensing motion pictures to exhibitors.",
+      "id": "1333.05-distributor",
+      "normalized": "distributor",
+      "scope": "As used in sections 1333.05 to 1333.07 of the Revised Code:",
+      "section": "1333.05",
+      "source_title": "Section 1333.05 - Motion picture license agreement definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1333.05",
+      "term": "Distributor"
+    },
+    {
+      "definition": "(C) \"Exhibitor\" means any person engaged in the business of operating a theater in this state.",
+      "id": "1333.05-exhibitor",
+      "normalized": "exhibitor",
+      "scope": "As used in sections 1333.05 to 1333.07 of the Revised Code:",
+      "section": "1333.05",
+      "source_title": "Section 1333.05 - Motion picture license agreement definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1333.05",
+      "term": "Exhibitor"
+    },
+    {
+      "definition": "(D) \"Exhibit\" or \"exhibition\" means showing a motion picture to the public for a charge.",
+      "id": "1333.05-exhibit",
+      "normalized": "exhibit",
+      "scope": "As used in sections 1333.05 to 1333.07 of the Revised Code:",
+      "section": "1333.05",
+      "source_title": "Section 1333.05 - Motion picture license agreement definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1333.05",
+      "term": "Exhibit"
+    },
+    {
+      "definition": "(D) \"Exhibit\" or \"exhibition\" means showing a motion picture to the public for a charge.",
+      "id": "1333.05-exhibition",
+      "normalized": "exhibition",
+      "scope": "As used in sections 1333.05 to 1333.07 of the Revised Code:",
+      "section": "1333.05",
+      "source_title": "Section 1333.05 - Motion picture license agreement definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1333.05",
+      "term": "exhibition"
+    },
+    {
+      "definition": "(E) \"Invitation to bid\" means a written or oral solicitation or invitation by a distributor to one or more exhibitors to bid or negotiate for the right to exhibit a motion picture in this state.",
+      "id": "1333.05-invitation-to-bid",
+      "normalized": "invitation to bid",
+      "scope": "As used in sections 1333.05 to 1333.07 of the Revised Code:",
+      "section": "1333.05",
+      "source_title": "Section 1333.05 - Motion picture license agreement definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1333.05",
+      "term": "Invitation to bid"
+    },
+    {
+      "definition": "(F) \"Bid\" means a written or oral proposal by an exhibitor to a distributor, which proposal is in response to an invitation to bid or negotiate and states the terms under which the exhibitor will agree to exhibit a motion picture in this state.",
+      "id": "1333.05-bid",
+      "normalized": "bid",
+      "scope": "As used in sections 1333.05 to 1333.07 of the Revised Code:",
+      "section": "1333.05",
+      "source_title": "Section 1333.05 - Motion picture license agreement definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1333.05",
+      "term": "Bid"
+    },
+    {
+      "definition": "(G) \"License agreement\" means any contract between a distributor and an exhibitor for the exhibition of a motion picture by the exhibitor in this state.",
+      "id": "1333.05-license-agreement",
+      "normalized": "license agreement",
+      "scope": "As used in sections 1333.05 to 1333.07 of the Revised Code:",
+      "section": "1333.05",
+      "source_title": "Section 1333.05 - Motion picture license agreement definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1333.05",
+      "term": "License agreement"
+    },
+    {
+      "definition": "(H) \"Trade screening\" means the showing of a motion picture by a distributor in one of the five municipal corporations within this state having the largest population, which showing is open to any exhibitor interested in exhibiting the motion picture.",
+      "id": "1333.05-trade-screening",
+      "normalized": "trade screening",
+      "scope": "As used in sections 1333.05 to 1333.07 of the Revised Code:",
+      "section": "1333.05",
+      "source_title": "Section 1333.05 - Motion picture license agreement definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1333.05",
+      "term": "Trade screening"
+    },
+    {
+      "definition": "(I) \"Blind bidding\" means bidding, negotiating, offering terms, accepting a bid, or agreeing to terms for the purpose of entering into a license agreement prior to a trade screening of the motion picture that is the subject of the agreement.",
+      "id": "1333.05-blind-bidding",
+      "normalized": "blind bidding",
+      "scope": "As used in sections 1333.05 to 1333.07 of the Revised Code:",
+      "section": "1333.05",
+      "source_title": "Section 1333.05 - Motion picture license agreement definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1333.05",
+      "term": "Blind bidding"
+    },
+    {
+      "definition": "(J) \"Run\" means the continuous exhibition of a motion picture in a defined geographic area for a specified period of time. A \"first run\" means the initial exhibition of a motion picture in a designated geographic area for a specified period of time. A \"subsequent run\" means any continuous exhibition of a motion picture in a designated geographic area for a specified period of time after the first run.",
+      "id": "1333.05-run",
+      "normalized": "run",
+      "scope": "As used in sections 1333.05 to 1333.07 of the Revised Code:",
+      "section": "1333.05",
+      "source_title": "Section 1333.05 - Motion picture license agreement definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1333.05",
+      "term": "Run"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "1333.05",
+      "number": "1333.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.05"
+    },
+    {
+      "kind": "section",
+      "label": "1333.07",
+      "number": "1333.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.07"
+    }
+  ],
+  "scraped": "2026-07-02T19:37:19+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1333.05",
+  "title": "Section 1333.05 - Motion picture license agreement definitions."
+}

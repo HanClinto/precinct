@@ -1,0 +1,18 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-2961.23
+Scraped: 2026-07-02T19:47:11+00:00
+
+# Section 2961.23 - Individualized consideration; civil liability.
+
+**Effective:** September 30, 2011
+
+**Latest Legislation:** House Bill 86 - 129th General Assembly
+
+(A)(1) If a person who has been issued a certificate of achievement and employability under section 2961.22 of the Revised Code applies to a licensing agency for a license or certificate and the person has a conviction or guilty plea that otherwise would bar licensure or certification for the person because of a mandatory civil impact, the agency shall give the person individualized consideration for the license or certification, notwithstanding the mandatory civil impact, the mandatory civil impact shall be considered for all purposes to be a discretionary civil impact, and the certificate constitutes a rebuttable presumption that the person's criminal convictions are insufficient evidence that the person is unfit for the license or certification in question. Notwithstanding the presumption established under this division, the agency may deny the license or certification for the person if it determines that the person is unfit for issuance of the license.
+
+(2) If an employer that has hired a person who has been issued a certificate of achievement and employability under section 2961.22 of the Revised Code applies to a licensing agency for a license or certification and the person has a conviction or guilty plea that otherwise would bar the person's employment with the employer or licensure for the employer because of a mandatory civil impact, the agency shall give the person individualized consideration, notwithstanding the mandatory civil impact, the mandatory civil impact shall be considered for all purposes to be a discretionary civil impact, and the certificate constitutes a rebuttable presumption that the person's criminal convictions are insufficient evidence that the person is unfit for the employment, or that the employer is unfit for the license or certification, in question. Notwithstanding the presumption established under this division, the agency may deny the license or certification for the employer if it determines that the person is unfit for the employment or that the employer is unfit for the license or certification.
+
+(B) If an employer hires a person who has been issued a certificate of achievement and employability under section 2961.22 of the Revised Code and if the person presents the employer with a copy of the certificate, all of the following apply:
+
+(1) If a subsequent civil action against the employer alleges that the employer was negligent in hiring the person and if the civil action includes as an element of the alleged negligence that the employer had actual or constructive knowledge of the incompetence or dangerousness of the person, the person's presentation of the certificate to the employer is an absolute defense for the employer to the element of the employer's actual or constructive knowledge of the incompetence or dangerousness of the person.
+
+(2) If the person, after being hired, subsequently demonstrates dangerousness and if the employer retains the person as an employee after the demonstration of dangerousness, the employer may be held liable in a civil action that is based on or relates to the retention of the person as an employee only if it is proved by a preponderance of the evidence that the person having hiring and firing responsibility for the employer had actual knowledge that the employee was dangerous and was willful in retaining the person as an employee after the demonstration of dangerousness of which the person had actual knowledge.

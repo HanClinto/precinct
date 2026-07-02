@@ -1,0 +1,36 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Goods\" means goods, wares, services, merchandise, periodicals, and other articles or publications.",
+      "id": "505.94-goods",
+      "normalized": "goods",
+      "scope": "(B) As used in this section:",
+      "section": "505.94",
+      "source_title": "Section 505.94 - Registration and regulation of transient vendors.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-505.94",
+      "term": "Goods"
+    },
+    {
+      "definition": "(2) \"Transient vendor\" means any person who opens a temporary place of business for the sale of goods or who, on the streets or while traveling about the township, sells or offers for sale goods, solicits orders for future delivery of goods, or attempts to arrange an appointment for a future estimate or sales call. \"Transient vendor\" does not include any person who represents any entity exempted from taxation under section 5709.04 of the Revised Code, or any person licensed under Chapter 4707. of the Revised Code.",
+      "id": "505.94-transient-vendor",
+      "normalized": "transient vendor",
+      "scope": "(B) As used in this section:",
+      "section": "505.94",
+      "source_title": "Section 505.94 - Registration and regulation of transient vendors.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-505.94",
+      "term": "Transient vendor"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "5709.04",
+      "number": "5709.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5709.04"
+    }
+  ],
+  "scraped": "2026-07-02T19:33:08+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-505.94",
+  "title": "Section 505.94 - Registration and regulation of transient vendors."
+}

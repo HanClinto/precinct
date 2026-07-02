@@ -1,0 +1,52 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Company\" includes corporations and associations.\n\n(B) \"Domestic\" designates companies organized under the laws of this state.\n\n(C) \"Foreign\" designates companies organized under the laws of another state or territory.\n\n(D) \"Alien\" designates companies organized under the laws of any country other than the United States, or some state, province, or territory of such country.",
+      "id": "3941.01-company",
+      "normalized": "company",
+      "scope": "As used in sections 3941.01 to 3941.34 , inclusive, of the Revised Code:",
+      "section": "3941.01",
+      "source_title": "Section 3941.01 - Operation of mutual insurance company definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3941.01",
+      "term": "Company"
+    },
+    {
+      "definition": "(E) \"Surplus\" or \"net assets\" means the funds and assets, invested as required or permitted by the laws of the state, territory, or district where the company is organized, in excess of all liabilities including unearned premium reserve, but excluding from such assets all contingent liabilities of policyholders or members.",
+      "id": "3941.01-surplus",
+      "normalized": "surplus",
+      "scope": "As used in sections 3941.01 to 3941.34 , inclusive, of the Revised Code:",
+      "section": "3941.01",
+      "source_title": "Section 3941.01 - Operation of mutual insurance company definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3941.01",
+      "term": "Surplus"
+    },
+    {
+      "definition": "(E) \"Surplus\" or \"net assets\" means the funds and assets, invested as required or permitted by the laws of the state, territory, or district where the company is organized, in excess of all liabilities including unearned premium reserve, but excluding from such assets all contingent liabilities of policyholders or members.",
+      "id": "3941.01-net-assets",
+      "normalized": "net assets",
+      "scope": "As used in sections 3941.01 to 3941.34 , inclusive, of the Revised Code:",
+      "section": "3941.01",
+      "source_title": "Section 3941.01 - Operation of mutual insurance company definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3941.01",
+      "term": "net assets"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3941.01",
+      "number": "3941.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3941.01"
+    },
+    {
+      "kind": "section",
+      "label": "3941.34",
+      "number": "3941.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3941.34"
+    }
+  ],
+  "scraped": "2026-07-02T20:03:15+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3941.01",
+  "title": "Section 3941.01 - Operation of mutual insurance company definitions."
+}

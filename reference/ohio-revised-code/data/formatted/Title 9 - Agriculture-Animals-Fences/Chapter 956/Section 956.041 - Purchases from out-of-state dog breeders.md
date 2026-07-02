@@ -1,0 +1,18 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-956.041
+Scraped: 2026-07-02T19:35:32+00:00
+
+# Section 956.041 - Purchases from out-of-state dog breeders.
+
+**Effective:** September 28, 2018
+
+**Latest Legislation:** House Bill 506 - 132nd General Assembly
+
+(A) As used in this section, "out-of-state dog breeder" means a dog breeder located outside of this state that, if located in this state, would be a high volume breeder.
+
+(B) A dog broker or the owner or operator of a pet store that seeks to purchase a dog from an in-state high volume breeder or out-of-state dog breeder, prior to completing the transaction, shall request the breeder to sign a document prescribed and provided by the director of agriculture. The document shall state that the in-state high volume breeder or out-of-state dog breeder is in compliance with the standards of care established in rules adopted under section 956.03 and in section 956.031 of the Revised Code. The broker or owner or operator shall keep and maintain the signed document. If the in-state high volume breeder or out-of-state dog breeder does not provide the signed document, the broker or owner or operator shall not purchase the dog.
+
+The broker or owner or operator shall allow the director to inspect the signed document during normal business hours. With respect to a pet store, the requirements established under this section are in addition to the requirements established under section 956.20 of the Revised Code.
+
+(C) No dog broker or owner or operator of a pet store shall knowingly sell a dog unless the broker or owner or operator has obtained a signed document with respect to the dog as required under division (B) of this section. The director shall not assess a civil penalty under section 956.13 of the Revised Code against a dog broker or the owner or operator of a pet store for a violation of this division if the broker or owner or operator has obtained such a document with regard to the dog.
+
+(D) The director shall adopt rules in accordance with Chapter 119. of the Revised Code that establish requirements and procedures governing the administration and enforcement of this section.

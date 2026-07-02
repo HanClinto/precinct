@@ -1,0 +1,62 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Cost\" or \"costs\" includes compensation, damages, and expenses that are incident to an improvement covered by this chapter and all items of cost described in division (B) of section 133.15 of the Revised Code that are incident to an improvement covered by this chapter.",
+      "id": "5555.01-cost",
+      "normalized": "cost",
+      "scope": "As used in this chapter:",
+      "section": "5555.01",
+      "source_title": "Section 5555.01 - County road improvement definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5555.01",
+      "term": "Cost"
+    },
+    {
+      "definition": "(A) \"Cost\" or \"costs\" includes compensation, damages, and expenses that are incident to an improvement covered by this chapter and all items of cost described in division (B) of section 133.15 of the Revised Code that are incident to an improvement covered by this chapter.",
+      "id": "5555.01-costs",
+      "normalized": "costs",
+      "scope": "As used in this chapter:",
+      "section": "5555.01",
+      "source_title": "Section 5555.01 - County road improvement definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5555.01",
+      "term": "costs"
+    },
+    {
+      "definition": "(B) \"Public obligations\" has the same meaning as in section 133.01 of the Revised Code.",
+      "id": "5555.01-public-obligations",
+      "normalized": "public obligations",
+      "scope": "As used in this chapter:",
+      "section": "5555.01",
+      "source_title": "Section 5555.01 - County road improvement definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5555.01",
+      "term": "Public obligations"
+    },
+    {
+      "definition": "(C) \"Road\" includes any state or county road or part of any state or county road, or any state or county road and any municipal corporation street, or part of a road or street of those types, which form a continuous road improvement.",
+      "id": "5555.01-road",
+      "normalized": "road",
+      "scope": "As used in this chapter:",
+      "section": "5555.01",
+      "source_title": "Section 5555.01 - County road improvement definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5555.01",
+      "term": "Road"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "133.15",
+      "number": "133.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.15"
+    },
+    {
+      "kind": "section",
+      "label": "133.01",
+      "number": "133.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.01"
+    }
+  ],
+  "scraped": "2026-07-02T20:13:40+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5555.01",
+  "title": "Section 5555.01 - County road improvement definitions."
+}

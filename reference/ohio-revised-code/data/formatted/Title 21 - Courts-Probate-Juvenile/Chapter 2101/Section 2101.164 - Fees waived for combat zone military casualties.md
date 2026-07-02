@@ -1,0 +1,20 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-2101.164
+Scraped: 2026-07-02T19:41:07+00:00
+
+# Section 2101.164 - Fees waived for combat zone military casualties.
+
+**Effective:** March 24, 2008
+
+**Latest Legislation:** House Bill 372 - 127th General Assembly
+
+(A) As used in this section, "combat zone" means an area that the president of the United States by executive order designates for purposes of 26 U.S.C. 112 as an area in which armed forces of the United States or the national guard are engaging or have engaged in combat.
+
+(B) A probate judge shall not charge, or collect from, the estate of a decedent who died while in active service as a member of the armed forces of the United States or the national guard any of the following fees if the death occurred while the decedent was serving in a combat zone or as a result of wounds, disease, or injury incurred while serving in a combat zone:
+
+(1) Any fee for or associated with the filing of the decedent's will for probate;
+
+(2) Any fee for any service rendered by the probate court that is associated with the administration of the decedent's estate;
+
+(3) Any fee for relieving the decedent's estate from administration under section 2113.03 of the Revised Code or granting an order for a summary release from administration under section 2113.031 of the Revised Code.
+
+(C) In determining whether a decedent died in a place or manner that exempts the estate of the decedent from fees under division (B) of this section, a probate judge may consider a casualty report issued pursuant to Army Regulation 600-8-1 or the regulations of any of the armed services of the United States or the national guard, the list of combat zones set forth in Publication 3, "The Armed Forces' Tax Guide," of the Internal Revenue Service, or any other form of documentation satisfactory to the probate judge.

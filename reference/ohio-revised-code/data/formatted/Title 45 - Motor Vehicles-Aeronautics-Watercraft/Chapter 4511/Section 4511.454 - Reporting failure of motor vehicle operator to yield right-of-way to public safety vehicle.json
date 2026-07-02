@@ -1,0 +1,42 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"License plate\" includes any temporary motor vehicle license registration issued under section 4503.182 of the Revised Code or similar law of another jurisdiction.",
+      "id": "4511.454-license-plate",
+      "normalized": "license plate",
+      "scope": "(D) As used in this section:",
+      "section": "4511.454",
+      "source_title": "Section 4511.454 - Reporting failure of motor vehicle operator to yield right-of-way to public safety vehicle.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4511.454",
+      "term": "License plate"
+    },
+    {
+      "definition": "(2) \"Public safety vehicle\" does not include an unmarked public safety vehicle or a vehicle used by a public law enforcement officer or other person sworn to enforce the criminal and traffic laws of the state or a vehicle used by the motor carrier enforcement unit for the enforcement of orders and rules of the public utilities commission.\n\nLast updated April 14, 2021 at 7:30 AM",
+      "id": "4511.454-public-safety-vehicle",
+      "normalized": "public safety vehicle",
+      "scope": "(D) As used in this section:",
+      "section": "4511.454",
+      "source_title": "Section 4511.454 - Reporting failure of motor vehicle operator to yield right-of-way to public safety vehicle.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4511.454",
+      "term": "Public safety vehicle"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "4511.45",
+      "number": "4511.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.45"
+    },
+    {
+      "kind": "section",
+      "label": "4503.182",
+      "number": "4503.182",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.182"
+    }
+  ],
+  "scraped": "2026-07-02T20:05:38+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4511.454",
+  "title": "Section 4511.454 - Reporting failure of motor vehicle operator to yield right-of-way to public safety vehicle."
+}

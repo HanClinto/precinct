@@ -1,0 +1,390 @@
+{
+  "glossary": [
+    {
+      "definition": "(1)(a) \"Home\" means an institution, residence, or facility that provides, for a period of more than twenty-four hours, whether for a consideration or not, accommodations to three or more unrelated individuals who are dependent upon the services of others, including a nursing home, residential care facility, home for the aging, and a veterans' home operated under Chapter 5907. of the Revised Code.\n\n(b) \"Home\" also means both of the following:\n\n(i) Any facility that a person, as defined in section 3702.51 of the Revised Code, proposes for certification as a skilled nursing facility or nursing facility under Title XVIII or XIX of the \"Social Security Act,\" 49 Stat. 620 (1935), 42 U.S.C.A. 301, as amended, and for which a certificate of need, other than a certificate to recategorize hospital beds as described in section 3702.521 of the Revised Code or division (R)(7)(d) of the version of section 3702.51 of the Revised Code in effect immediately prior to April 20, 1995, has been granted to the person under sections 3702.51 to 3702.62 of the Revised Code after August 5, 1989;\n\n(ii) A county home or district home that is or has been licensed as a residential care facility.\n\n(c) \"Home\" does not mean any of the following:\n\n(i) Except as provided in division (A)(1)(b) of this section, a public hospital or hospital as defined in section 3701.01 or 5122.01 of the Revised Code;\n\n(ii) A residential facility as defined in section 5119.34 of the Revised Code;\n\n(iii) A residential facility as defined in section 5123.19 of the Revised Code;\n\n(iv) A community addiction services provider as defined in section 5119.01 of the Revised Code;\n\n(v) A facility licensed under section 5119.37 of the Revised Code to operate an opioid treatment program;\n\n(vi) A facility providing services under contract with the department of developmental disabilities under section 5123.18 of the Revised Code;\n\n(vii) A facility operated by a hospice care program licensed under section 3712.04 of the Revised Code that is used exclusively for care of hospice patients;\n\n(viii) A facility operated by a pediatric respite care program licensed under section 3712.041 of the Revised Code that is used exclusively for the care of pediatric respite care patients or a location operated by a pediatric transition care program registered under section 3712.042 of the Revised Code that is used exclusively for the care of pediatric transition care patients;\n\n(ix) A facility, infirmary, or other entity that is operated by a religious order, provides care exclusively to members of religious orders who take vows of celibacy and live by virtue of their vows within the orders as if related, and does not participate in the medicare program or the medicaid program if on January 1, 1994, the facility, infirmary, or entity was providing care exclusively to members of the religious order;\n\n(x) A county home or district home that has never been licensed as a residential care facility.",
+      "id": "3721.01-home",
+      "normalized": "home",
+      "scope": "(A) As used in sections 3721.01 to 3721.09 and 3721.99 of the Revised Code:",
+      "section": "3721.01",
+      "source_title": "Section 3721.01 - Nursing home and residential care facility definitions and classifications.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3721.01",
+      "term": "Home"
+    },
+    {
+      "definition": "(2) \"Unrelated individual\" means one who is not related to the owner or operator of a home or to the spouse of the owner or operator as a parent, grandparent, child, grandchild, brother, sister, niece, nephew, aunt, uncle, or as the child of an aunt or uncle.\n\n(3) \"Mental impairment\" does not mean mental illness, as defined in section 5122.01 of the Revised Code, or developmental disability, as defined in section 5123.01 of the Revised Code.",
+      "id": "3721.01-unrelated-individual",
+      "normalized": "unrelated individual",
+      "scope": "(A) As used in sections 3721.01 to 3721.09 and 3721.99 of the Revised Code:",
+      "section": "3721.01",
+      "source_title": "Section 3721.01 - Nursing home and residential care facility definitions and classifications.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3721.01",
+      "term": "Unrelated individual"
+    },
+    {
+      "definition": "(4) \"Skilled nursing care\" means procedures that require technical skills and knowledge beyond those the untrained person possesses and that are commonly employed in providing for the physical, mental, and emotional needs of the ill or otherwise incapacitated. \"Skilled nursing care\" includes, but is not limited to, the following:\n\n(a) Irrigations, catheterizations, application of dressings, and supervision of special diets;\n\n(b) Objective observation of changes in the patient's condition as a means of analyzing and determining the nursing care required and the need for further medical diagnosis and treatment;\n\n(c) Special procedures contributing to rehabilitation;\n\n(d) Administration of medication by any method ordered by a physician, such as hypodermically, rectally, or orally, including observation of the patient after receipt of the medication;\n\n(e) Carrying out other treatments prescribed by the physician that involve a similar level of complexity and skill in administration.",
+      "id": "3721.01-skilled-nursing-care",
+      "normalized": "skilled nursing care",
+      "scope": "(A) As used in sections 3721.01 to 3721.09 and 3721.99 of the Revised Code:",
+      "section": "3721.01",
+      "source_title": "Section 3721.01 - Nursing home and residential care facility definitions and classifications.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3721.01",
+      "term": "Skilled nursing care"
+    },
+    {
+      "definition": "(5)(a) \"Personal care services\" means services including, but not limited to, the following:\n\n(i) Assisting residents with activities of daily living;\n\n(ii) Assisting residents with self-administration of medication, in accordance with rules adopted under section 3721.04 of the Revised Code;\n\n(iii) Preparing special diets, other than complex therapeutic diets, for residents pursuant to the instructions of a physician, certified nurse-midwife if authorized as described in section 4723.438 of the Revised Code, clinical nurse specialist, certified nurse practitioner, or licensed dietitian, in accordance with rules adopted under section 3721.04 of the Revised Code.",
+      "id": "3721.01-personal-care-services",
+      "normalized": "personal care services",
+      "scope": "(A) As used in sections 3721.01 to 3721.09 and 3721.99 of the Revised Code:",
+      "section": "3721.01",
+      "source_title": "Section 3721.01 - Nursing home and residential care facility definitions and classifications.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3721.01",
+      "term": "Personal care services"
+    },
+    {
+      "definition": "(b) \"Personal care services\" does not include \"skilled nursing care\" as defined in division (A)(4) of this section. A facility need not provide more than one of the services listed in division (A)(5)(a) of this section to be considered to be providing personal care services.",
+      "id": "3721.01-personal-care-services",
+      "normalized": "personal care services",
+      "scope": "(A) As used in sections 3721.01 to 3721.09 and 3721.99 of the Revised Code:",
+      "section": "3721.01",
+      "source_title": "Section 3721.01 - Nursing home and residential care facility definitions and classifications.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3721.01",
+      "term": "Personal care services"
+    },
+    {
+      "definition": "(6) \"Nursing home\" means a home used for the reception and care of individuals who by reason of illness or physical or mental impairment require skilled nursing care and of individuals who require personal care services but not skilled nursing care. A nursing home is licensed to provide personal care services and skilled nursing care.",
+      "id": "3721.01-nursing-home",
+      "normalized": "nursing home",
+      "scope": "(A) As used in sections 3721.01 to 3721.09 and 3721.99 of the Revised Code:",
+      "section": "3721.01",
+      "source_title": "Section 3721.01 - Nursing home and residential care facility definitions and classifications.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3721.01",
+      "term": "Nursing home"
+    },
+    {
+      "definition": "(7) \"Residential care facility\" means a home that provides either of the following:\n\n(a) Accommodations for seventeen or more unrelated individuals and supervision and personal care services for three or more of those individuals who are dependent on the services of others by reason of age or physical or mental impairment;\n\n(b) Accommodations for three or more unrelated individuals, supervision and personal care services for at least three of those individuals who are dependent on the services of others by reason of age or physical or mental impairment, and, to at least one of those individuals, any of the skilled nursing care authorized by section 3721.011 of the Revised Code.",
+      "id": "3721.01-residential-care-facility",
+      "normalized": "residential care facility",
+      "scope": "(A) As used in sections 3721.01 to 3721.09 and 3721.99 of the Revised Code:",
+      "section": "3721.01",
+      "source_title": "Section 3721.01 - Nursing home and residential care facility definitions and classifications.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3721.01",
+      "term": "Residential care facility"
+    },
+    {
+      "definition": "(8) \"Home for the aging\" means a home that provides services as a residential care facility and a nursing home, except that the home provides its services only to individuals who are dependent on the services of others by reason of both age and physical or mental impairment.\n\nThe part or unit of a home for the aging that provides services only as a residential care facility is licensed as a residential care facility. The part or unit that may provide skilled nursing care beyond the extent authorized by section 3721.011 of the Revised Code is licensed as a nursing home.",
+      "id": "3721.01-home-for-the-aging",
+      "normalized": "home for the aging",
+      "scope": "(A) As used in sections 3721.01 to 3721.09 and 3721.99 of the Revised Code:",
+      "section": "3721.01",
+      "source_title": "Section 3721.01 - Nursing home and residential care facility definitions and classifications.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3721.01",
+      "term": "Home for the aging"
+    },
+    {
+      "definition": "(9) \"County home\" and \"district home\" mean a county home or district home operated under Chapter 5155. of the Revised Code.",
+      "id": "3721.01-county-home",
+      "normalized": "county home",
+      "scope": "(A) As used in sections 3721.01 to 3721.09 and 3721.99 of the Revised Code:",
+      "section": "3721.01",
+      "source_title": "Section 3721.01 - Nursing home and residential care facility definitions and classifications.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3721.01",
+      "term": "County home"
+    },
+    {
+      "definition": "(9) \"County home\" and \"district home\" mean a county home or district home operated under Chapter 5155. of the Revised Code.",
+      "id": "3721.01-district-home",
+      "normalized": "district home",
+      "scope": "(A) As used in sections 3721.01 to 3721.09 and 3721.99 of the Revised Code:",
+      "section": "3721.01",
+      "source_title": "Section 3721.01 - Nursing home and residential care facility definitions and classifications.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3721.01",
+      "term": "district home"
+    },
+    {
+      "definition": "(10) \"Change of operator\" includes circumstances in which an entering operator becomes the operator of a nursing home in the place of the exiting operator.\n\n(a) Actions that constitute a change of operator include the following:\n\n(i) A change in an exiting operator's form of legal organization, including the formation of a partnership or corporation from a sole proprietorship;\n\n(ii) A change in operational control of the nursing home, regardless of whether ownership of any or all of the real property or personal property associated with the nursing home is also transferred;\n\n(iii) A lease of the nursing home to the entering operator or termination of the exiting operator's lease;\n\n(iv) If the exiting operator is a partnership, dissolution of the partnership, a merger of the partnership into another person that is the survivor of the merger, or a consolidation of the partnership and at least one other person to form a new person;\n\n(v) If the exiting operator is a limited liability company, dissolution of the limited liability company, a merger of the limited liability company into another person that is the survivor of the merger, or a consolidation of the limited liability company and at least one other person to form a new person;\n\n(vi) If the exiting operator is a corporation, dissolution of the corporation, a merger of the corporation into another person that is the survivor of the merger, or a consolidation of the corporation and at least one other person to form a new person;\n\n(vii) A contract for a person to assume operational control of a nursing home;\n\n(viii) A change of fifty per cent or more in the ownership of the licensed operator that results in a change of operational control;\n\n(ix) Any pledge, assignment, or hypothecation of or lien or other encumbrance on any of the legal or beneficial equity interests in the operator or a person with operational control.\n\n(b) The following do not constitute a change of operator:\n\n(i) Actions necessary to create an employee stock ownership plan under section 401(a) of the \"Internal Revenue Code,\" 26 U.S.C. 401(a);\n\n(ii) A change of ownership of real property or personal property associated with a nursing home;\n\n(iii) If the operator is a corporation that has securities publicly traded in a marketplace, a change of one or more members of the corporation's governing body or transfer of ownership of one or more shares of the corporation's stock, if the same corporation continues to be the operator;\n\n(iv) An initial public offering for which the securities and exchange commission has declared the registration statement effective, and the newly created public company remains the operator.",
+      "id": "3721.01-change-of-operator",
+      "normalized": "change of operator",
+      "scope": "(A) As used in sections 3721.01 to 3721.09 and 3721.99 of the Revised Code:",
+      "section": "3721.01",
+      "source_title": "Section 3721.01 - Nursing home and residential care facility definitions and classifications.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3721.01",
+      "term": "Change of operator"
+    },
+    {
+      "definition": "(11) \"Related party\" means an individual or organization that, to a significant extent, has common ownership with, is associated or affiliated with, has control of, or is controlled by, the entering operator.\n\n(a) An individual who is a relative of an entering operator is a related party.\n\n(b) Common ownership exists when an individual or individuals possess significant ownership or equity in both the provider and the other organization. Significant ownership or equity exists when an individual or individuals possess five per cent ownership or equity in both the entering operator and a supplier. Significant ownership or equity is presumed to exist when an individual or individuals possess ten per cent ownership or equity in both the entering operator and another organization from which the entering operator purchases or leases real property.\n\n(c) Control exists when an individual or organization has the power, directly or indirectly, to significantly influence or direct the actions or policies of an organization.\n\n(d) An individual or organization that supplies goods or services to an entering operator shall not be considered a related party if all of the following conditions are met:\n\n(i) The supplier is a separate bona fide organization.\n\n(ii) A substantial part of the supplier's business activity of the type carried on with the entering operator is transacted with others than the entering operator and there is an open, competitive market for the types of goods or services the supplier furnishes.\n\n(iii) The types of goods or services are commonly obtained by other nursing homes from outside organizations and are not a basic element of patient care ordinarily furnished directly to patients by nursing homes.\n\n(iv) The charge to the entering operator is in line with the charge for the goods or services in the open market and not more than the charge made under comparable circumstances to others by the supplier.",
+      "id": "3721.01-related-party",
+      "normalized": "related party",
+      "scope": "(A) As used in sections 3721.01 to 3721.09 and 3721.99 of the Revised Code:",
+      "section": "3721.01",
+      "source_title": "Section 3721.01 - Nursing home and residential care facility definitions and classifications.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3721.01",
+      "term": "Related party"
+    },
+    {
+      "definition": "(12) \"SFF list\" means the list of nursing facilities created by the United States department of health and human services under the special focus facility program.",
+      "id": "3721.01-sff-list",
+      "normalized": "sff list",
+      "scope": "(A) As used in sections 3721.01 to 3721.09 and 3721.99 of the Revised Code:",
+      "section": "3721.01",
+      "source_title": "Section 3721.01 - Nursing home and residential care facility definitions and classifications.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3721.01",
+      "term": "SFF list"
+    },
+    {
+      "definition": "(13) \"Special focus facility program\" means the program conducted by the United States secretary of health and human services pursuant to section 1919(f)(10) of the \"Social Security Act,\" 42 U.S.C. 1396r(f)(10).",
+      "id": "3721.01-special-focus-facility-program",
+      "normalized": "special focus facility program",
+      "scope": "(A) As used in sections 3721.01 to 3721.09 and 3721.99 of the Revised Code:",
+      "section": "3721.01",
+      "source_title": "Section 3721.01 - Nursing home and residential care facility definitions and classifications.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3721.01",
+      "term": "Special focus facility program"
+    },
+    {
+      "definition": "(14) \"Real and present danger\" means immediate danger of serious physical or life-threatening harm to one or more occupants of a home.",
+      "id": "3721.01-real-and-present-danger",
+      "normalized": "real and present danger",
+      "scope": "(A) As used in sections 3721.01 to 3721.09 and 3721.99 of the Revised Code:",
+      "section": "3721.01",
+      "source_title": "Section 3721.01 - Nursing home and residential care facility definitions and classifications.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3721.01",
+      "term": "Real and present danger"
+    },
+    {
+      "definition": "(15) \"Operator\" means a person or government entity responsible for the operational control of a nursing home and that holds both of the following:\n\n(a) A license to operate the nursing home issued under section 3721.02 of the Revised Code, if such a license is required by section 3721.05 of the Revised Code;\n\n(b) A medicaid provider agreement issued under section 5165.07 of the Revised Code, if applicable.",
+      "id": "3721.01-operator",
+      "normalized": "operator",
+      "scope": "(A) As used in sections 3721.01 to 3721.09 and 3721.99 of the Revised Code:",
+      "section": "3721.01",
+      "source_title": "Section 3721.01 - Nursing home and residential care facility definitions and classifications.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3721.01",
+      "term": "Operator"
+    },
+    {
+      "definition": "(16) \"Entering operator\" means the person or government entity that will become the operator of a nursing home when a change of operator occurs or following a license revocation.",
+      "id": "3721.01-entering-operator",
+      "normalized": "entering operator",
+      "scope": "(A) As used in sections 3721.01 to 3721.09 and 3721.99 of the Revised Code:",
+      "section": "3721.01",
+      "source_title": "Section 3721.01 - Nursing home and residential care facility definitions and classifications.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3721.01",
+      "term": "Entering operator"
+    },
+    {
+      "definition": "(17) \"Relative of entering operator\" means an individual who is related to an entering operator of a nursing home by one of the following relationships:\n\n(a) Spouse;\n\n(b) Natural parent, child, or sibling;\n\n(c) Adopted parent, child, or sibling;\n\n(d) Stepparent, stepchild, stepbrother, or stepsister;\n\n(e) Father-in-law, mother-in-law, son-in-law, daughter-in-law, brother-in-law, or sister-in-law;\n\n(f) Grandparent or grandchild;\n\n(g) Foster caregiver, foster child, foster brother, or foster sister.",
+      "id": "3721.01-relative-of-entering-operator",
+      "normalized": "relative of entering operator",
+      "scope": "(A) As used in sections 3721.01 to 3721.09 and 3721.99 of the Revised Code:",
+      "section": "3721.01",
+      "source_title": "Section 3721.01 - Nursing home and residential care facility definitions and classifications.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3721.01",
+      "term": "Relative of entering operator"
+    },
+    {
+      "definition": "(18) \"Exiting operator\" means any of the following:\n\n(a) An operator that will cease to be the operator of a nursing home on the effective date of a change of operator;\n\n(b) An operator that will cease to be the operator of a nursing home on the effective date of a facility closure;\n\n(c) An operator of a nursing home that is undergoing or has undergone a surrender of license;\n\n(d) An operator of a nursing home that is undergoing or has undergone a license revocation.",
+      "id": "3721.01-exiting-operator",
+      "normalized": "exiting operator",
+      "scope": "(A) As used in sections 3721.01 to 3721.09 and 3721.99 of the Revised Code:",
+      "section": "3721.01",
+      "source_title": "Section 3721.01 - Nursing home and residential care facility definitions and classifications.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3721.01",
+      "term": "Exiting operator"
+    },
+    {
+      "definition": "(19) \"Operational control\" means having the ability to direct the overall operations and cash flow of a nursing home. \"Operational control\" may be exercised by one person or by multiple persons acting together or by a government entity, and may exist by means of any of the following:\n\n(a) The person, persons, or government entity directly operating the nursing home;\n\n(b) The person, persons, or government entity directly or indirectly owning fifty per cent or more of the operator of the nursing home;\n\n(c) An agreement or other arrangement granting the person, persons, or government entity operational control of the nursing home.",
+      "id": "3721.01-operational-control",
+      "normalized": "operational control",
+      "scope": "(A) As used in sections 3721.01 to 3721.09 and 3721.99 of the Revised Code:",
+      "section": "3721.01",
+      "source_title": "Section 3721.01 - Nursing home and residential care facility definitions and classifications.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3721.01",
+      "term": "Operational control"
+    },
+    {
+      "definition": "(20) \"Property owner\" means any person or government entity that has at least five per cent ownership or interest, either directly, indirectly, or in any combination, in any of the following regarding a nursing home:\n\n(a) The land on which the nursing home is located;\n\n(b) The structure in which the nursing home is located;\n\n(c) Any mortgage, contract for deed, or other obligation secured in whole or in part by the land or structure on or in which the nursing home is located;\n\n(d) Any lease or sublease of the land or structure on or in which the nursing home is located.",
+      "id": "3721.01-property-owner",
+      "normalized": "property owner",
+      "scope": "(A) As used in sections 3721.01 to 3721.09 and 3721.99 of the Revised Code:",
+      "section": "3721.01",
+      "source_title": "Section 3721.01 - Nursing home and residential care facility definitions and classifications.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3721.01",
+      "term": "Property owner"
+    },
+    {
+      "definition": "\"Property owner\" does not include a holder of a debenture or bond related to the nursing home and purchased at public issue or a regulated lender that has made a loan related to the nursing home, unless the holder or lender operates the nursing home directly or through a subsidiary.",
+      "id": "3721.01-property-owner",
+      "normalized": "property owner",
+      "scope": "(A) As used in sections 3721.01 to 3721.09 and 3721.99 of the Revised Code:",
+      "section": "3721.01",
+      "source_title": "Section 3721.01 - Nursing home and residential care facility definitions and classifications.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3721.01",
+      "term": "Property owner"
+    },
+    {
+      "definition": "(21) \"Person\" has the same meaning as in section 1.59 of the Revised Code.\n\n(B) The director of health may further classify homes. For the purposes of this chapter, any residence, institution, hotel, congregate housing project, or similar facility that meets the definition of a home under this section is such a home regardless of how the facility holds itself out to the public.\n\n(C) For purposes of this chapter, personal care services or skilled nursing care shall be considered to be provided by a facility if they are provided by a person employed by or associated with the facility or by another person pursuant to an agreement to which neither the resident who receives the services nor the resident's sponsor is a party.\n\n(D) Nothing in division (A)(4) of this section shall be construed to permit skilled nursing care to be imposed on an individual who does not require skilled nursing care.\n\nNothing in division (A)(5) of this section shall be construed to permit personal care services to be imposed on an individual who is capable of performing the activity in question without assistance.\n\n(E) Division (A)(1)(c)(ix) of this section does not prohibit a facility, infirmary, or other entity described in that division from seeking licensure under sections 3721.01 to 3721.09 of the Revised Code or certification under Title XVIII or XIX of the \"Social Security Act.\" However, such a facility, infirmary, or entity that applies for licensure or certification must meet the requirements of those sections or titles and the rules adopted under them and obtain a certificate of need from the director of health under section 3702.52 of the Revised Code.\n\n(F) Nothing in this chapter, or rules adopted pursuant to it, shall be construed as authorizing the supervision, regulation, or control of the spiritual care or treatment of residents or patients in any home who rely upon treatment by prayer or spiritual means in accordance with the creed or tenets of any recognized church or religious denomination.\n\nLast updated January 24, 2025 at 10:30 AM",
+      "id": "3721.01-person",
+      "normalized": "person",
+      "scope": "(A) As used in sections 3721.01 to 3721.09 and 3721.99 of the Revised Code:",
+      "section": "3721.01",
+      "source_title": "Section 3721.01 - Nursing home and residential care facility definitions and classifications.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3721.01",
+      "term": "Person"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3721.01",
+      "number": "3721.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.01"
+    },
+    {
+      "kind": "section",
+      "label": "3721.09",
+      "number": "3721.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.09"
+    },
+    {
+      "kind": "section",
+      "label": "3721.99",
+      "number": "3721.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.99"
+    },
+    {
+      "kind": "section",
+      "label": "3702.51",
+      "number": "3702.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.51"
+    },
+    {
+      "kind": "section",
+      "label": "3702.521",
+      "number": "3702.521",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.521"
+    },
+    {
+      "kind": "section",
+      "label": "3702.62",
+      "number": "3702.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.62"
+    },
+    {
+      "kind": "section",
+      "label": "3701.01",
+      "number": "3701.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3701.01"
+    },
+    {
+      "kind": "section",
+      "label": "5122.01",
+      "number": "5122.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5122.01"
+    },
+    {
+      "kind": "section",
+      "label": "5119.34",
+      "number": "5119.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.34"
+    },
+    {
+      "kind": "section",
+      "label": "5123.19",
+      "number": "5123.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5123.19"
+    },
+    {
+      "kind": "section",
+      "label": "5119.01",
+      "number": "5119.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.01"
+    },
+    {
+      "kind": "section",
+      "label": "5119.37",
+      "number": "5119.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.37"
+    },
+    {
+      "kind": "section",
+      "label": "5123.18",
+      "number": "5123.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5123.18"
+    },
+    {
+      "kind": "section",
+      "label": "3712.04",
+      "number": "3712.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3712.04"
+    },
+    {
+      "kind": "section",
+      "label": "3712.041",
+      "number": "3712.041",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3712.041"
+    },
+    {
+      "kind": "section",
+      "label": "3712.042",
+      "number": "3712.042",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3712.042"
+    },
+    {
+      "kind": "section",
+      "label": "5123.01",
+      "number": "5123.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5123.01"
+    },
+    {
+      "kind": "section",
+      "label": "3721.04",
+      "number": "3721.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.04"
+    },
+    {
+      "kind": "section",
+      "label": "4723.438",
+      "number": "4723.438",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.438"
+    },
+    {
+      "kind": "section",
+      "label": "3721.011",
+      "number": "3721.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.011"
+    },
+    {
+      "kind": "section",
+      "label": "3721.02",
+      "number": "3721.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.02"
+    },
+    {
+      "kind": "section",
+      "label": "3721.05",
+      "number": "3721.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.05"
+    },
+    {
+      "kind": "section",
+      "label": "5165.07",
+      "number": "5165.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5165.07"
+    },
+    {
+      "kind": "section",
+      "label": "1.59",
+      "number": "1.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1.59"
+    },
+    {
+      "kind": "section",
+      "label": "3702.52",
+      "number": "3702.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.52"
+    }
+  ],
+  "scraped": "2026-07-02T19:51:36+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3721.01",
+  "title": "Section 3721.01 - Nursing home and residential care facility definitions and classifications."
+}

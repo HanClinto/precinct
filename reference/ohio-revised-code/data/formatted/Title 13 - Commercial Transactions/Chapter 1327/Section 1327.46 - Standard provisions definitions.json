@@ -1,0 +1,208 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Weights and measures\" means all weights and measures of every kind, instruments and devices for weighing and measuring, and any appliances and accessories associated with any such instruments and devices, except that \"weights and measures\" shall not be construed to include meters for the measurement of electricity, gas, whether natural or manufactured, or water when the same are operated in a public utility system. Such electricity, gas, and water meters, and appliances or accessories associated therewith, are specifically excluded from the purview of the weights and measures laws.",
+      "id": "1327.46-weights-and-measures",
+      "normalized": "weights and measures",
+      "scope": "As used in sections 1327.46 to 1327.61 of the Revised Code:",
+      "section": "1327.46",
+      "source_title": "Section 1327.46 - Standard provisions definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1327.46",
+      "term": "Weights and measures"
+    },
+    {
+      "definition": "(B) \"Intrastate commerce\" means all commerce or trade that is begun, carried on, and completed wholly within the limits of this state, and \"introduced into intrastate commerce\" defines the time and place in which the first sale and delivery of a commodity is made within the state, the delivery being made either directly to the purchaser or to a common carrier for shipment to the purchaser.",
+      "id": "1327.46-intrastate-commerce",
+      "normalized": "intrastate commerce",
+      "scope": "As used in sections 1327.46 to 1327.61 of the Revised Code:",
+      "section": "1327.46",
+      "source_title": "Section 1327.46 - Standard provisions definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1327.46",
+      "term": "Intrastate commerce"
+    },
+    {
+      "definition": "(C) \"Package\" means any commodity put up or packaged in any manner in advance of sale in units suitable for either wholesale or retail sale.",
+      "id": "1327.46-package",
+      "normalized": "package",
+      "scope": "As used in sections 1327.46 to 1327.61 of the Revised Code:",
+      "section": "1327.46",
+      "source_title": "Section 1327.46 - Standard provisions definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1327.46",
+      "term": "Package"
+    },
+    {
+      "definition": "(D) \"Consumer package\" means a package that is customarily produced or distributed for sale through a retail sales agency for consumption by an individual or use by an individual.\n\n(E) \"Weight\" as used in connection with any commodity means net weight.\n\n(F) \"Correct\" as used in connection with weights and measures means conformity with all applicable requirements of sections 1327.46 to 1327.61 of the Revised Code and rules adopted pursuant to those sections.",
+      "id": "1327.46-consumer-package",
+      "normalized": "consumer package",
+      "scope": "As used in sections 1327.46 to 1327.61 of the Revised Code:",
+      "section": "1327.46",
+      "source_title": "Section 1327.46 - Standard provisions definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1327.46",
+      "term": "Consumer package"
+    },
+    {
+      "definition": "(G) \"Reference standards\" means the physical standards of the state that serve as the legal reference from which all other standards and weights and measures are derived.",
+      "id": "1327.46-reference-standards",
+      "normalized": "reference standards",
+      "scope": "As used in sections 1327.46 to 1327.61 of the Revised Code:",
+      "section": "1327.46",
+      "source_title": "Section 1327.46 - Standard provisions definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1327.46",
+      "term": "Reference standards"
+    },
+    {
+      "definition": "(H) \"Working standards\" means the physical standards that are traceable to the reference standards through comparisons, using acceptable laboratory procedures, and used in the enforcement of weights and measures laws and rules.",
+      "id": "1327.46-working-standards",
+      "normalized": "working standards",
+      "scope": "As used in sections 1327.46 to 1327.61 of the Revised Code:",
+      "section": "1327.46",
+      "source_title": "Section 1327.46 - Standard provisions definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1327.46",
+      "term": "Working standards"
+    },
+    {
+      "definition": "(I) \"Sale from bulk\" means the sale of commodities when the quantity is determined at the time of sale.",
+      "id": "1327.46-sale-from-bulk",
+      "normalized": "sale from bulk",
+      "scope": "As used in sections 1327.46 to 1327.61 of the Revised Code:",
+      "section": "1327.46",
+      "source_title": "Section 1327.46 - Standard provisions definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1327.46",
+      "term": "Sale from bulk"
+    },
+    {
+      "definition": "(J) \"Net weight\" means the weight of a commodity, excluding any materials, substances, or items not considered to be a part of the commodity. Materials, substances, or items not considered to be part of the commodity include, but are not limited to, containers, conveyances, bags, wrappers, packaging materials, labels, individual piece coverings, decorative accompaniments, and coupons.",
+      "id": "1327.46-net-weight",
+      "normalized": "net weight",
+      "scope": "As used in sections 1327.46 to 1327.61 of the Revised Code:",
+      "section": "1327.46",
+      "source_title": "Section 1327.46 - Standard provisions definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1327.46",
+      "term": "Net weight"
+    },
+    {
+      "definition": "(K) \"Random weight package\" means a package that is one of a lot, shipment, or delivery of packages of the same commodity with no fixed pattern of weights.",
+      "id": "1327.46-random-weight-package",
+      "normalized": "random weight package",
+      "scope": "As used in sections 1327.46 to 1327.61 of the Revised Code:",
+      "section": "1327.46",
+      "source_title": "Section 1327.46 - Standard provisions definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1327.46",
+      "term": "Random weight package"
+    },
+    {
+      "definition": "(L) \"Sold\" includes keeping, offering, or exposing for sale.",
+      "id": "1327.46-sold",
+      "normalized": "sold",
+      "scope": "As used in sections 1327.46 to 1327.61 of the Revised Code:",
+      "section": "1327.46",
+      "source_title": "Section 1327.46 - Standard provisions definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1327.46",
+      "term": "Sold"
+    },
+    {
+      "definition": "(M) \"Commercially used weighing and measuring device\" means a device described in the national institute of standards and technology handbook 44 or its supplements and revisions and any other weighing and measuring device designated by rules adopted under division (C) of section 1327.50 of the Revised Code. \"Commercially used weighing and measuring device\" includes, but is not limited to, a livestock scale, vehicle scale, railway scale, vehicle tank meter, bulk rack meter, and LPG meter.",
+      "id": "1327.46-commercially-used-weighing-and-measuring-device",
+      "normalized": "commercially used weighing and measuring device",
+      "scope": "As used in sections 1327.46 to 1327.61 of the Revised Code:",
+      "section": "1327.46",
+      "source_title": "Section 1327.46 - Standard provisions definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1327.46",
+      "term": "Commercially used weighing and measuring device"
+    },
+    {
+      "definition": "(N) \"Livestock scale\" means a scale equipped with stock racks and gates that is adapted to weighing livestock standing on the scale platform.",
+      "id": "1327.46-livestock-scale",
+      "normalized": "livestock scale",
+      "scope": "As used in sections 1327.46 to 1327.61 of the Revised Code:",
+      "section": "1327.46",
+      "source_title": "Section 1327.46 - Standard provisions definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1327.46",
+      "term": "Livestock scale"
+    },
+    {
+      "definition": "(O) \"Vehicle scale\" means a scale that is adapted to weighing highway, farm, or other large industrial vehicles other than railroad cars.",
+      "id": "1327.46-vehicle-scale",
+      "normalized": "vehicle scale",
+      "scope": "As used in sections 1327.46 to 1327.61 of the Revised Code:",
+      "section": "1327.46",
+      "source_title": "Section 1327.46 - Standard provisions definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1327.46",
+      "term": "Vehicle scale"
+    },
+    {
+      "definition": "(P) \"Railway scale\" means a rail scale that is designed to weigh railroad cars.",
+      "id": "1327.46-railway-scale",
+      "normalized": "railway scale",
+      "scope": "As used in sections 1327.46 to 1327.61 of the Revised Code:",
+      "section": "1327.46",
+      "source_title": "Section 1327.46 - Standard provisions definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1327.46",
+      "term": "Railway scale"
+    },
+    {
+      "definition": "(Q) \"Vehicle tank meter\" means a vehicle mounted device that is designed for the measurement and delivery of liquid products from a tank.",
+      "id": "1327.46-vehicle-tank-meter",
+      "normalized": "vehicle tank meter",
+      "scope": "As used in sections 1327.46 to 1327.61 of the Revised Code:",
+      "section": "1327.46",
+      "source_title": "Section 1327.46 - Standard provisions definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1327.46",
+      "term": "Vehicle tank meter"
+    },
+    {
+      "definition": "(R) \"Bulk rack meter\" means a wholesale device, usually mounted on a rack, that is designed for the measurement and delivery of liquid products.",
+      "id": "1327.46-bulk-rack-meter",
+      "normalized": "bulk rack meter",
+      "scope": "As used in sections 1327.46 to 1327.61 of the Revised Code:",
+      "section": "1327.46",
+      "source_title": "Section 1327.46 - Standard provisions definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1327.46",
+      "term": "Bulk rack meter"
+    },
+    {
+      "definition": "(S) \"LPG meter\" means a system, including a mechanism or machine of the meter type, that is designed to measure and deliver liquefied petroleum gas in the liquid state by a definite quantity whether installed in a permanent location or mounted on a vehicle.",
+      "id": "1327.46-lpg-meter",
+      "normalized": "lpg meter",
+      "scope": "As used in sections 1327.46 to 1327.61 of the Revised Code:",
+      "section": "1327.46",
+      "source_title": "Section 1327.46 - Standard provisions definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1327.46",
+      "term": "LPG meter"
+    },
+    {
+      "definition": "(T) \"Service person\" means an individual who installs, services, repairs, reconditions, or places into service a commercially used weighing and measuring device for any type of compensation.",
+      "id": "1327.46-service-person",
+      "normalized": "service person",
+      "scope": "As used in sections 1327.46 to 1327.61 of the Revised Code:",
+      "section": "1327.46",
+      "source_title": "Section 1327.46 - Standard provisions definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1327.46",
+      "term": "Service person"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "1327.46",
+      "number": "1327.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1327.46"
+    },
+    {
+      "kind": "section",
+      "label": "1327.61",
+      "number": "1327.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1327.61"
+    },
+    {
+      "kind": "section",
+      "label": "1327.50",
+      "number": "1327.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1327.50"
+    }
+  ],
+  "scraped": "2026-07-02T19:37:17+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1327.46",
+  "title": "Section 1327.46 - Standard provisions definitions."
+}

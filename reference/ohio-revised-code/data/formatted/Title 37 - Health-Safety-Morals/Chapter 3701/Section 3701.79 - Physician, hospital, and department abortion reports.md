@@ -1,0 +1,138 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3701.79
+Scraped: 2026-07-02T19:50:52+00:00
+
+# Section 3701.79 - Physician, hospital, and department abortion reports.
+
+**Effective:** September 30, 2025
+
+**Latest Legislation:** House Bill 96 - 136th General Assembly
+
+(A) As used in this section and in sections 3701.791 and 3701.792 of the Revised Code:
+
+(1) "Abortion" has the same meaning as in section 2919.11 of the Revised Code.
+
+(2) "Abortion report" means a form completed pursuant to division (C) of this section.
+
+(3) "Ambulatory surgical facility" has the same meaning as in section 3702.30 of the Revised Code.
+
+(4) "Department" means the department of health.
+
+(5) "Hospital" means any building, structure, institution, or place devoted primarily to the maintenance and operation of facilities for the diagnosis, treatment, and medical or surgical care for three or more unrelated individuals having illness, disease, injury, or deformity, and regularly making available at least clinical laboratory services, diagnostic x-ray services, treatment facilities for surgery or obstetrical care, or other definitive medical treatment. "Hospital" does not include a "home" as defined in section 3721.01 of the Revised Code.
+
+(6) "Physician's office" means an office or portion of an office that is used to provide medical or surgical services to the physician's patients. "Physician's office" does not mean an ambulatory surgical facility, a hospital, or a hospital emergency department.
+
+(7) "Postabortion care" means care given after the uterus has been evacuated by abortion.
+
+(B) The department shall be responsible for collecting and collating abortion data reported to the department as required by this section.
+
+(C) The attending physician shall complete an individual abortion report for the abortion, by surgical procedure or by abortion-inducing drugs, of each zygote, blastocyte, embryo, or fetus the physician performs. The report shall be confidential and shall not contain the woman's name. The report shall include, but is not limited to, all of the following, insofar as the patient makes the data available that is not within the physician's knowledge:
+
+(1) Patient number;
+
+(2) The name and address of the facility in which the abortion was performed, and whether the facility is a hospital, ambulatory surgical facility, physician's office, or other facility;
+
+(3) The date of the abortion;
+
+(4) If a surgical abortion, the method of final disposition of the fetal remains under Chapter 3726. of the Revised Code;
+
+(5) All of the following regarding the woman on whom the abortion was performed:
+
+(a) State and zip code of residence;
+
+(b) Age;
+
+(c) Race;
+
+(d) Marital status;
+
+(e) Number of previous pregnancies;
+
+(f) Years of education;
+
+(g) Number of living children;
+
+(h) Number of zygotes, blastocytes, embryos, or fetuses previously aborted;
+
+(i) Date of last induced abortion;
+
+(j) Date of last live birth;
+
+(k) Method of contraception at the time of conception;
+
+(l) Date of the first day of the last menstrual period;
+
+(m) Medical condition at the time of the abortion;
+
+(n) Rh-type;
+
+(o) The number of weeks of gestation at the time of the abortion.
+
+(6) The type of abortion procedure performed;
+
+(7) Complications by type;
+
+(8) Written acknowledgment by the attending physician that the pregnant woman is not seeking the abortion, in whole or in part, because of any of the following:
+
+(a) A test result indicating Down syndrome in an unborn child;
+
+(b) A prenatal diagnosis of Down syndrome in an unborn child;
+
+(c) Any other reason to believe that an unborn child has Down syndrome.
+
+(9) Type of procedure performed after the abortion;
+
+(10) Type of family planning recommended;
+
+(11) Type of additional counseling given;
+
+(12) Signature of attending physician.
+
+(D) The physician who completed the abortion report under division (C) of this section shall submit the abortion report to the department within fifteen days after the woman is discharged.
+
+(E) The appropriate vital records report or certificate shall be made out after the twentieth week of gestation.
+
+(F) A copy of the abortion report shall be made part of the medical record of the patient of the facility in which the abortion was performed.
+
+(G) Each hospital shall file monthly and annual reports listing the total number of women who have undergone a post-twelve-week-gestation abortion and received postabortion care. The reports also shall include the total number of Ohio residents and the total number of non-Ohio residents who have undergone a post-twelve-week gestation abortion and received postabortion care. The annual report shall be filed following the conclusion of the state's fiscal year. Each report shall be filed within thirty days after the end of the applicable reporting period.
+
+(H) Each case in which a physician treats a post abortion complication shall be reported on a postabortion complication form. The report shall be made upon a form prescribed by the department, shall be signed by the attending physician, and shall be confidential.
+
+(I)(1) Not later than the first day of March of each year, the department shall issue an annual report of the abortion data reported to the department for the previous calendar year as required by this section. The department shall develop a public electronic dashboard to publish on a monthly basis the abortion data reported to the department. The annual report and monthly dashboard update shall include at least the following information:
+
+(a) The total number of zygotes, blastocytes, embryos, or fetuses that were aborted;
+
+(b) The number of abortions performed on Ohio residents and the number performed on out-of-state residents, sorted by the age of the woman on whom the abortion was performed, using the following categories: under sixteen years of age, sixteen to seventeen years of age, eighteen to twenty-four years of age, twenty-five to twenty-nine years of age, thirty to thirty-four years of age, thirty-five to thirty-nine years of age, forty to forty-four years of age, forty-five years of age or older;
+
+(c) The number of abortions performed, sorted by each of the following:
+
+(i) The age of the woman on whom the abortion was performed, using the following categories: under sixteen years of age, sixteen to seventeen years of age, eighteen to twenty-four years of age, twenty-five to twenty-nine years of age, thirty to thirty-four years of age, thirty-five to thirty-nine years of age, forty to forty-four years of age, forty-five years of age or older;
+
+(ii) The race and Hispanic ethnicity of the woman on whom the abortion was performed;
+
+(iii) The education level of the woman on whom the abortion was performed, using the following categories or their equivalents: less than ninth grade, ninth through twelfth grade, one or more years of college;
+
+(iv) The marital status of the woman on whom the abortion was performed;
+
+(v) The number of living children of the woman on whom the abortion was performed, using the following categories: none, one, or two or more;
+
+(vi) The number of weeks of gestation of the woman at the time the abortion was performed, using the following categories: less than nine weeks, nine to twelve weeks, thirteen to nineteen weeks, or twenty weeks or more;
+
+(vii) The county in which the abortion was performed;
+
+(viii) The type of abortion procedure performed;
+
+(ix) The number of zygotes, blastocytes, embryos, or fetuses previously aborted by the woman on whom the abortion was performed, sorted by the age of the woman on whom the abortion was performed, using the following categories: under sixteen years of age, sixteen to seventeen years of age, eighteen to twenty-four years of age, twenty-five to twenty-nine years of age, thirty to thirty-four years of age, thirty-five to thirty-nine years of age, forty to forty-four years of age, forty-five years of age or older;
+
+(x) The type of facility in which the abortion was performed;
+
+(xi) For Ohio residents, the county of residence of the woman on whom the abortion was performed;
+
+(xii) The total number of abortions performed on minors by each facility in the categories of under sixteen years of age and sixteen to seventeen years of age.
+
+(2) The report also shall indicate the number and type of the abortion complications reported to the department either on the abortion report required under division (C) of this section or the postabortion complication report required under division (H) of this section.
+
+(3) In addition to the annual report required under division (I)(1) of this section, the department shall make available, on request, the number of abortions performed by zip code of residence.
+
+(J) The director of health shall implement this section and shall apply to the court of common pleas for temporary or permanent injunctions restraining a violation or threatened violation of its requirements. This action is an additional remedy not dependent on the adequacy of the remedy at law.
+
+Last updated August 27, 2025 at 3:33 PM

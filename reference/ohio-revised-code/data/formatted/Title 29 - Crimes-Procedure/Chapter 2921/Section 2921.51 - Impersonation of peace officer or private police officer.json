@@ -1,0 +1,102 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Peace officer\" means a sheriff, deputy sheriff, marshal, deputy marshal, member of the organized police department of a municipal corporation, or township constable, who is employed by a political subdivision of this state; a member of a police force employed by a metropolitan housing authority under division (D) of section 3735.31 of the Revised Code; a member of a police force employed by a regional transit authority under division (Y) of section 306.35 of the Revised Code; a state university law enforcement officer appointed under section 3345.04 of the Revised Code; a veterans' home police officer appointed under section 5907.02 of the Revised Code; a special police officer employed by a port authority under section 4582.04 or 4582.28 of the Revised Code; an officer, agent, or employee of the state or any of its agencies, instrumentalities, or political subdivisions, upon whom, by statute, a duty to conserve the peace or to enforce all or certain laws is imposed and the authority to arrest violators is conferred, within limits of that statutory duty and authority; or a state highway patrol trooper whose primary duties are to preserve the peace, to protect life and property, and to enforce the laws, ordinances, or rules of the state or any of its political subdivisions.",
+      "id": "2921.51-peace-officer",
+      "normalized": "peace officer",
+      "scope": "(A) As used in this section:",
+      "section": "2921.51",
+      "source_title": "Section 2921.51 - Impersonation of peace officer or private police officer.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2921.51",
+      "term": "Peace officer"
+    },
+    {
+      "definition": "(2) \"Private police officer\" means any security guard, special police officer, private detective, or other person who is privately employed in a police capacity.",
+      "id": "2921.51-private-police-officer",
+      "normalized": "private police officer",
+      "scope": "(A) As used in this section:",
+      "section": "2921.51",
+      "source_title": "Section 2921.51 - Impersonation of peace officer or private police officer.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2921.51",
+      "term": "Private police officer"
+    },
+    {
+      "definition": "(3) \"Federal law enforcement officer\" means an employee of the United States who serves in a position the duties of which are primarily the investigation, apprehension, or detention of individuals suspected or convicted of offenses under the criminal laws of the United States.",
+      "id": "2921.51-federal-law-enforcement-officer",
+      "normalized": "federal law enforcement officer",
+      "scope": "(A) As used in this section:",
+      "section": "2921.51",
+      "source_title": "Section 2921.51 - Impersonation of peace officer or private police officer.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2921.51",
+      "term": "Federal law enforcement officer"
+    },
+    {
+      "definition": "(4) \"Impersonate\" means to act the part of, assume the identity of, wear the uniform or any part of the uniform of, or display the identification of a particular person or of a member of a class of persons with purpose to make another person believe that the actor is that particular person or is a member of that class of persons.",
+      "id": "2921.51-impersonate",
+      "normalized": "impersonate",
+      "scope": "(A) As used in this section:",
+      "section": "2921.51",
+      "source_title": "Section 2921.51 - Impersonation of peace officer or private police officer.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2921.51",
+      "term": "Impersonate"
+    },
+    {
+      "definition": "(5) \"Investigator of the bureau of criminal identification and investigation\" has the same meaning as in section 2903.11 of the Revised Code.\n\n(B) No person shall impersonate a peace officer, private police officer, federal law enforcement officer, or investigator of the bureau of criminal identification and investigation.\n\n(C) No person, by impersonating a peace officer, private police officer, federal law enforcement officer, or investigator of the bureau of criminal identification and investigation, shall arrest or detain any person, search any person, or search the property of any person.\n\n(D) No person, with purpose to commit or facilitate the commission of an offense, shall impersonate a peace officer, private police officer, federal law enforcement officer, officer, agent, or employee of the state, or investigator of the bureau of criminal identification and investigation.\n\n(E) No person shall commit a felony while impersonating a peace officer, private police officer, federal law enforcement officer, officer, agent, or employee of the state, or investigator of the bureau of criminal identification and investigation.\n\n(F) It is an affirmative defense to a charge under division (B) of this section that the impersonation of the peace officer, private police officer, or investigator of the bureau of criminal identification and investigation was for a lawful purpose.\n\n(G) Whoever violates division (B) of this section is guilty of a misdemeanor of the fourth degree. Whoever violates division (C) or (D) of this section is guilty of a misdemeanor of the first degree. If the purpose of a violation of division (D) of this section is to commit or facilitate the commission of a felony, a violation of division (D) is a felony of the fourth degree. Whoever violates division (E) of this section is guilty of a felony of the third degree.",
+      "id": "2921.51-investigator-of-the-bureau-of-criminal-identification-and-investigation",
+      "normalized": "investigator of the bureau of criminal identification and investigation",
+      "scope": "(A) As used in this section:",
+      "section": "2921.51",
+      "source_title": "Section 2921.51 - Impersonation of peace officer or private police officer.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2921.51",
+      "term": "Investigator of the bureau of criminal identification and investigation"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3735.31",
+      "number": "3735.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3735.31"
+    },
+    {
+      "kind": "section",
+      "label": "306.35",
+      "number": "306.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.35"
+    },
+    {
+      "kind": "section",
+      "label": "3345.04",
+      "number": "3345.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3345.04"
+    },
+    {
+      "kind": "section",
+      "label": "5907.02",
+      "number": "5907.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5907.02"
+    },
+    {
+      "kind": "section",
+      "label": "4582.04",
+      "number": "4582.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4582.04"
+    },
+    {
+      "kind": "section",
+      "label": "4582.28",
+      "number": "4582.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4582.28"
+    },
+    {
+      "kind": "section",
+      "label": "2903.11",
+      "number": "2903.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2903.11"
+    }
+  ],
+  "scraped": "2026-07-02T19:46:20+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2921.51",
+  "title": "Section 2921.51 - Impersonation of peace officer or private police officer."
+}

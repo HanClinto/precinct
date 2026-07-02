@@ -1,0 +1,10 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-6101.27
+Scraped: 2026-07-02T20:17:05+00:00
+
+# Section 6101.27 - Board of appraisers of conservancy district.
+
+**Effective:** July 19, 1994
+
+**Latest Legislation:** House Bill 450 - 120th General Assembly
+
+At the time of making its order organizing a conservancy district or at any suitable time thereafter, the court shall appoint three appraisers to constitute the board of appraisers of the conservancy district, who shall in every case where appraisers are appointed under this chapter, be recommended by the board of directors of the conservancy district. The board of appraisers shall appraise the lands or other property within and outside the district to be acquired for rights of way, reservoirs, and other works of the district, and shall appraise all benefits and damages accruing to all lands within or outside the district and all benefits accruing to public corporations as entities by reason of the execution of the official plan. The appraisers shall be residents of this state, who may or may not own lands within the district. Each of the appraisers, before taking up his duties , shall take and subscribe to an oath that he will faithfully and impartially discharge his duties as an appraiser, and that he will make a true report of the work done by him. The appraisers, at their first meeting, shall elect one of their own number chairman, and the secretary of the board of directors or his deputy shall be ex officio secretary of the board of appraisers during its continuance in office. A majority of the board of appraisers constitutes a quorum, and a concurrence of the majority in any matter within the board's duties shall be sufficient for its determination. The appraisers shall continue to hold their offices until excused by the court, and the court shall fill all vacancies in the board of appraisers, or may appoint a new board of appraisers for subsequent appraisals, as occasion requires. A new board of appraisers, if appointed, shall fill all the requirements of the board of appraisers and perform its duties.

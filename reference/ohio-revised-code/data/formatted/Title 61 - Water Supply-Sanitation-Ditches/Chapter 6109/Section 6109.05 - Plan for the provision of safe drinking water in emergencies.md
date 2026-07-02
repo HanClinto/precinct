@@ -1,0 +1,12 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-6109.05
+Scraped: 2026-07-02T20:17:12+00:00
+
+# Section 6109.05 - Plan for the provision of safe drinking water in emergencies.
+
+**Effective:** December 14, 1978
+
+**Latest Legislation:** Senate Bill 445 - 112th General Assembly
+
+(A) The director of environmental protection shall adopt a plan for the provision of safe drinking water in emergencies. For purposes of this section "emergency" means an imminent and substantial danger to human health.
+
+(B) Whenever the director determines that a water supply emergency exists requiring immediate action to protect the public health or welfare and the owner or operator of a public water system has not taken such action, he shall issue an order reciting the existence of the emergency and requiring that such action be taken as is necessary to meet the emergency. Such order shall be issued upon written or oral notice, as may be reasonable under the circumstances, and may be issued without prior hearing. Such order shall take effect immediately. Any person to whom such order is directed shall comply therewith immediately, but on application to the director within ten days after receipt of the order shall be afforded a hearing as soon as possible, and not later than twenty days after such application. On the basis of such hearing, the director shall continue such order in effect, revoke it, or modify it. No such emergency order shall remain in effect for more than ninety days after its effective date, except that the director may extend the effectiveness of the order for additional periods, not to exceed ninety days in any extension, if the emergency condition still exists on the date of extension.

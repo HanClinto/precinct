@@ -1,0 +1,134 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3901.321
+Scraped: 2026-07-02T20:02:07+00:00
+
+# Section 3901.321 - Mergers and acquisitions of domestic insurers.
+
+**Effective:** October 24, 2024
+
+**Latest Legislation:** Senate Bill 175 - 135th General Assembly
+
+(A) For the purposes of this section:
+
+(1) "Acquiring party" means any person by whom or on whose behalf a merger or other acquisition of control is to be effected.
+
+(2) "Domestic insurer" includes any person controlling a domestic insurer unless the person, as determined by the superintendent of insurance, is either directly or through its affiliates primarily engaged in business other than the business of insurance.
+
+(3) "Person" does not include any securities broker holding, in the usual and customary broker's function, less than twenty per cent of the voting securities of an insurance company or of any person that controls an insurance company.
+
+(B)(1) Subject to compliance with division (B)(2) of this section, no person other than the issuer shall do any of the following if, as a result, the person would, directly or indirectly, including by means of conversion or the exercise of any right to acquire, be in control of a domestic insurer:
+
+(a) Make a tender offer for any voting security of a domestic insurer;
+
+(b) Make a request or invitation for tenders of any voting security of a domestic insurer;
+
+(c) Enter into any agreement to exchange securities of a domestic insurer;
+
+(d) Seek to acquire or acquire, in the open market or otherwise, any voting security of a domestic insurer;
+
+(e) Enter into an agreement to merge with, or otherwise to acquire control of, a domestic insurer.
+
+(2)(a) No person shall engage in any transaction described in division (B)(1) of this section, unless all of the following conditions are met:
+
+(i) The person has filed with the superintendent of insurance a statement containing the information required by division (C) of this section;
+
+(ii) The person has sent the statement to the domestic insurer;
+
+(iii) The offer, request, invitation, agreement, or acquisition has been approved by the superintendent in the manner provided in division (F) of this section.
+
+(b) The requirements of division (B)(2)(a) of this section shall be met at the time any offer, request, or invitation is made, or any agreement is entered into, or prior to the acquisition of the securities if no offer or agreement is involved.
+
+(3) Any controlling person of a domestic insurer seeking to divest its controlling interest in the domestic insurer shall file a confidential notice of its proposed divestiture with the superintendent at least thirty days prior to the cessation of control, and provide a copy of the confidential notice to the insurer. The superintendent may require the person seeking to divest the controlling interest to file for and obtain approval of the transaction. The information shall remain confidential until the conclusion of the transaction unless the superintendent, in the superintendent's discretion, determines that the confidential treatment will interfere with enforcement of this section. If the statement required by division (B)(2) of this section is otherwise filed with the superintendent in relation to all parties that acquire a controlling interest as a result of the divestiture, this division shall not apply.
+
+(C) The statement required by division (B)(2) of this section shall be made under oath or affirmation, and shall contain all of the following information:
+
+(1) The name and address of each acquiring party;
+
+(2) If the acquiring party is an individual, the individual's principal occupation and all offices and positions held during the past five years, and any conviction of crimes other than minor traffic violations during the past ten years;
+
+(3) If the acquiring party is not an individual, a report of the nature of its business operations during the past five years or for such lesser period as the acquiring party and any of its predecessors shall have been in existence; an informative description of the business intended to be done by the acquiring party and the acquiring party's subsidiaries; and a list of all individuals who are or who have been selected to become directors or executive officers of the acquiring party, who perform or will perform functions appropriate to such positions. The list shall include for each individual the information required by division (C)(2) of this section.
+
+(4) The source, nature, and amount of the consideration used or to be used in effecting the merger or other acquisition of control, a description of any transaction in which funds were or are to be obtained for any such purpose, including any pledge of the domestic insurer's stock, or the stock of any of its subsidiaries or controlling affiliates, and the identity of persons furnishing such consideration;
+
+(5) Fully audited financial information as to the earnings and financial condition of each acquiring party for its preceding five fiscal years, or for such lesser period as the acquiring party and any of its predecessors shall have been in existence, and similar unaudited information as of a date not earlier than ninety days prior to the filing of the statement;
+
+(6) Any plans or proposals which each acquiring party may have to liquidate such domestic insurer, to sell its assets or merge or consolidate it with any person, or to make any other material change in its business or corporate structure or management;
+
+(7) The number of shares of any security of such issuer or such controlling person that each acquiring party proposes to acquire, and the terms of the offer, request, invitation, agreement, or acquisition, and a statement as to the method by which the fairness of the proposal was determined;
+
+(8) The amount of each class of any security of such issuer or such controlling person which is beneficially owned or concerning which there is a right to acquire beneficial ownership by each acquiring party;
+
+(9) A full description of any contracts, arrangements, or understandings with respect to any security of such issuer or such controlling person in which any acquiring party is involved, including but not limited to transfer of any of the securities, joint ventures, loan or option arrangements, puts or calls, guarantees of loans, guarantees against loss or guarantees of profits, division of losses or profits, or the giving or withholding of proxies. The description shall identify the persons with whom such contracts, arrangements, or understandings have been made.
+
+(10) A description of the purchase of any security of such issuer or such controlling person during the year preceding the filing of the statement, by any acquiring party, including the dates of purchase, names of the purchasers, and consideration paid or agreed to be paid therefor;
+
+(11) A description of any recommendations to purchase any security of such issuer or such controlling person made during the year preceding the filing of the statement, by any acquiring party, or by anyone based upon interviews or at the suggestion of the acquiring party;
+
+(12) Copies of all tender offers for, requests, or invitations for tenders of, exchange offers for, and agreements to acquire or exchange any securities of such issuer or such controlling person, and, if distributed, of additional solicitation material relating thereto;
+
+(13) The terms of any agreement, contract, or understanding made with or proposed to be made with any broker or dealer as to solicitation of securities of such issuer or such controlling person for tender, and the amount of any fees, commissions, or other compensation to be paid to brokers or dealers with regard thereto;
+
+(14) With respect to proposed affiliations between depository institutions or any affiliate thereof, within the meaning of Title I, section 104(c) of the "Gramm-Leach-Bliley Act," Pub. L. No. 106-102, 113 Stat. 1338 (1999), and a domestic insurer, the proposed effective date of the acquisition or change of control;
+
+(15) An agreement by the person required to file the statement required by division (B) of this section that the person will provide the annual registration required by division (K) of section 3901.33 of the Revised Code for so long as the person has control of the domestic insurer;
+
+(16) An acknowledgment by the person required to file the statement required by division (B) of this section that the person and all subsidiaries within the person's control in the insurance holding company system will provide information to the superintendent upon request as necessary to evaluate enterprise risk to the insurer;
+
+(17) Such additional information as the superintendent may by rule prescribe as necessary or appropriate for the protection of policyholders of the domestic insurer or in the public interest.
+
+(D)(1) If the person required to file the statement required by division (B)(2) of this section is a partnership, limited partnership, syndicate, or other group, the superintendent may require that the information required by division (C) of this section be furnished with respect to each partner of such partnership or limited partnership, each member of such syndicate or group, and each person that controls such partner or member. If any such partner, member, or person is a corporation, or the person required to file the statement is a corporation, the superintendent may require that the information required by division (C) of this section be furnished with respect to the corporation, each officer and director of the corporation, and each person that is directly or indirectly the beneficial owner of more than ten per cent of the outstanding voting securities of the corporation.
+
+(2) If any material change occurs in the facts set forth in the statement required by division (B)(2) of this section, an amendment setting forth such change, together with copies of all documents and other material relevant to the change, shall be filed with the superintendent by the person subject to division (B)(2) of this section and sent to the domestic insurer within two business days after such person learns of the occurrence of the material change.
+
+(E) If any offer, request, invitation, agreement, or acquisition described in division (B)(1) of this section is proposed to be made by means of a registration statement under the "Securities Act of 1933," 48 Stat. 74, 15 U.S.C.A. 78a, or in circumstances requiring the disclosure of similar information under the "Securities Exchange Act of 1934," 48 Stat. 881, 15 U.S.C.A. 78a, or under a state law requiring similar registration or disclosure, the person required to file the statement required by division (B)(2) of this section may use such documents in furnishing the information required by that statement.
+
+(F)(1) The superintendent shall approve any merger or other acquisition of control described in division (B)(1) of this section unless, after a public hearing, the superintendent finds that any of the following apply:
+
+(a) After the change of control, the domestic insurer would not be able to satisfy the requirements for the issuance of a license to write the line or lines of insurance for which it is presently licensed;
+
+(b) The effect of the merger or other acquisition of control would be substantially to lessen competition in insurance in this state or tend to create a monopoly;
+
+(c) The financial condition of any acquiring party is such as might jeopardize the financial stability of the domestic insurer, or prejudice the interests of its policyholders;
+
+(d) The plans or proposals that the acquiring party has to liquidate the domestic insurer, sell its assets, or consolidate or merge it with any person, or to make any other material change in its business or corporate structure or management, are unfair and unreasonable to policyholders of the domestic insurer and not in the public interest;
+
+(e) The competence, experience, and integrity of those persons that would control the operation of the domestic insurer are such that it would not be in the interest of policyholders of the domestic insurer and of the public to permit the merger or other acquisition of control;
+
+(f) The acquisition is likely to be hazardous or prejudicial to the insurance-buying public.
+
+(2)(a) Chapter 119. of the Revised Code, except for section 119.09 of the Revised Code, applies to any hearing held under division (F)(1) of this section, including the notice of the hearing, the conduct of the hearing, the orders issued pursuant to it, the review of the orders, and all other matters relating to the holding of the hearing, but only to the extent that Chapter 119. of the Revised Code is not inconsistent or in conflict with this section.
+
+(b) The notice of a hearing required under this division shall be transmitted in accordance with sections 119.05 and 119.07 of the Revised Code to the persons and addresses designated to receive notices and correspondence in the information statement filed under division (B)(2) of this section.
+
+(c) The hearing shall be held at the offices of the superintendent within ten calendar days, but not earlier than seven calendar days, of the date of transmission of the notice of hearing by any means, unless it is postponed or continued; but in no event shall the hearing be held unless notice is received at least three days prior to the hearing. The superintendent may postpone or continue the hearing upon receipt of a written request by an acquiring party, or upon the superintendent's motion, provided, however, a hearing in connection with a proposed change of control involving a depository institution or any affiliate thereof, within the meaning of Title I, section 104(c) of the "Gramm-Leach-Bliley Act," Pub. L. No. 106-102, 113 Stat. 1338 (1999), and a domestic insurer, may be postponed or continued only upon the request of an acquiring party, or upon the superintendent's motion when the acquiring party agrees in writing to extend the sixty-day period provided for in section 104(c) of the "Gramm-Leach-Bliley Act," by a number of days equal to the number of days of such postponement or continuance.
+
+(d) For the purpose of conducting any hearing held under this section, the superintendent may require the attendance of such witnesses and the production of such books, records, and papers as the superintendent desires, and may take the depositions of witnesses residing within or without the state in the same manner as is prescribed by law for the taking of depositions in civil actions in the court of common pleas, and for that purpose the superintendent may, and upon the request of an acquiring party shall, issue a subpoena for any witnesses or a subpoena duces tecum to compel the production of any books, records, or papers, directed to the sheriff of the county where such witness resides or is found, which shall be served and returned in the same manner as a subpoena in a criminal case is served and returned. The fees of the sheriff shall be the same as that allowed in the court of common pleas in criminal cases. Witnesses shall be paid the fees and mileage provided for under section 119.094 of the Revised Code. Fees and mileage shall be paid from the fund in the state treasury for the use of the superintendent in the same manner as other expenses of the superintendent are paid. In any case of disobedience or neglect of any subpoena served on any person or the refusal of any witness to testify in any matter regarding which the witness may lawfully be interrogated, the court of common pleas of any county where such disobedience, neglect, or refusal occurs or any judge thereof, on application by the superintendent, shall compel obedience by attachment proceedings for contempt, as in the case of disobedience of the requirements of a subpoena issued from the court or a refusal to testify therein.
+
+In any hearing held under this section, a record of the testimony, as provided by stenographic means or by use of audio electronic recording devices, as determined by the superintendent, and other evidence submitted shall be taken at the expense of the superintendent. The record shall include all of the testimony and other evidence, and rulings on the admissibility thereof, presented at the hearing.
+
+The superintendent shall pass upon the admissibility of evidence, but a party to the proceedings may at that time object to the rulings of the superintendent, and if the superintendent refuses to admit evidence, the party offering the evidence shall proffer the evidence. The proffer shall be made a part of the record of the hearing.
+
+In any hearing held under this section, the superintendent may call any person to testify under oath as upon cross-examination. The superintendent, or any one delegated by the superintendent to conduct a hearing, may administer oaths or affirmations.
+
+In any hearing under this section, the superintendent may appoint a hearing officer to conduct the hearing; the hearing officer has the same powers and authority in conducting the hearing as is granted to the superintendent. The hearing officer shall have been admitted to the practice of law in the state and be possessed of any additional qualifications as the superintendent requires. The hearing officer shall submit to the superintendent a written report setting forth the hearing officer's finding of fact and conclusions of law and a recommendation of the action to be taken by the superintendent. A copy of the written report and recommendation shall, within seven days of the date of filing thereof, be served upon the acquiring party or the acquiring party's attorney or other representative of record in accordance with section 119.05 of the Revised Code. The acquiring party may, within three days of receipt of the copy of the written report and recommendation, file with the superintendent written objections to the report and recommendation, which objections the superintendent shall consider before approving, modifying, or disapproving the recommendation. The superintendent may grant extensions of time to the acquiring party within which to file such objections. No recommendation of the hearing officer shall be approved, modified, or disapproved by the superintendent until after three days following the service of the report and recommendation as provided in this section. The superintendent may order additional testimony to be taken or permit the introduction of further documentary evidence. The superintendent may approve, modify, or disapprove the recommendation of the hearing officer, and the order of the superintendent based on the report, recommendation, transcript of testimony, and evidence, or the objections of the acquiring party, and additional testimony and evidence shall have the same effect as if the hearing had been conducted by the superintendent. No such recommendation is final until confirmed and approved by the superintendent as indicated by the order entered in the record of proceedings, and if the superintendent modifies or disapproves the recommendations of the hearing officer, the reasons for the modification or disapproval shall be included in the record of proceedings.
+
+After the order is entered, the superintendent shall transmit in the manner and by any of the methods set forth in division (F)(2)(b) of this section a certified copy of the order and a statement of the time and method by which an appeal may be perfected. A copy of the order shall be mailed to the attorneys or other representatives of record representing the acquiring party.
+
+(e) An order of disapproval issued by the superintendent may be appealed to the court of common pleas in accordance with section 119.12 of the Revised Code by filing a notice of appeal with the superintendent and a copy of the notice of appeal with the court, within fifteen calendar days after the transmittal of the copy of the order of disapproval. The notice of appeal shall set forth the order appealed from and the grounds for appeal, in accordance with section 119.12 of the Revised Code.
+
+(3) The superintendent may retain at the acquiring party's expense any attorneys, actuaries, accountants, and other experts not otherwise a part of the superintendent's staff as may be reasonably necessary to assist the superintendent in reviewing the proposed acquisition of control.
+
+(G) This section does not apply to either of the following:
+
+(1) Any transaction that is subject to section 3921.14 , or sections 3925.27 to 3925.31 , 3941.35 to 3941.46 , or section 3953.19 of the Revised Code;
+
+(2) Any offer, request, invitation, agreement, or acquisition that the superintendent by order exempts from this section on either of the following bases:
+
+(a) It has not been made or entered into for the purpose and does not have the effect of changing or influencing the control of a domestic insurer;
+
+(b) It is not otherwise comprehended within the purposes of this section.
+
+(H) Nothing in this section or in any other section of Title XXXIX of the Revised Code shall be construed to impair the authority of the attorney general to investigate or prosecute actions under any state or federal antitrust law with respect to any merger or other acquisition involving domestic insurers.
+
+(I) In connection with a proposed change of control involving a depository institution or any affiliate thereof, within the meaning of Title I, section 104(c) of the "Gramm-Leach-Bliley Act," Pub. L. No. 106-102, 113 Stat. 1338 (1999), and a domestic insurer, not later than sixty days after the date of the notification of the proposed change in control submitted pursuant to division (B)(2) of this section, the superintendent shall make any determination that the person acquiring control of the insurer shall maintain or restore the capital of the insurer to the level required by the laws and regulations of this state.
+
+Last updated August 16, 2024 at 8:26 AM

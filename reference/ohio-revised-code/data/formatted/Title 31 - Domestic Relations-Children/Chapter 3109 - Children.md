@@ -1,0 +1,88 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-3109
+Scraped: 2026-07-02T19:47:41+00:00
+
+# Chapter 3109 - Children
+
+## Sections
+
+- Section 3109.01 - Age of majority.
+- Section 3109.011 - Capacity of person given consent to marry.
+- Section 3109.02 - Exception for veterans.
+- Section 3109.03 - Equality of parental rights and responsibilities.
+- Section 3109.04 - Allocating parental rights and responsibilities for care of children - shared parenting.
+- Section 3109.041 - Custody decrees issued prior to shared parenting provisions.
+- Section 3109.042 - Custody rights of unmarried mother.
+- Section 3109.043 - Temporary custody order while action pending.
+- Section 3109.05 - Child support determinations.
+- Section 3109.051 - Parenting time - companionship or visitation rights.
+- Section 3109.052 - Mediation of differences as to allocating parental rights and responsibilities.
+- Section 3109.053 - Parenting classes or counseling.
+- Section 3109.054 - Parental decisions regarding child's gender identity and gender transition.
+- Section 3109.055 - Conciliation for custody disputes between unmarried parents.
+- Section 3109.06 - Certification to juvenile court.
+- Section 3109.061 - Construction of sections 2151.233 to 2151.236.
+- Section 3109.07 - Appeals.
+- Section 3109.09 - Liability of parents for willful damage of property or theft by their children.
+- Section 3109.10 - Liability of parents for willful and malicious assaults by their children.
+- Section 3109.11 - Companionship or visitation rights for parents or other relatives of deceased mother or father.
+- Section 3109.12 - Mother unmarried - parenting time, companionship or visitation rights.
+- Section 3109.13 - Prevention of child abuse and child neglect definitions.
+- Section 3109.14 - Fees for vital statistics records.
+- Section 3109.15 - Children's trust fund board.
+- Section 3109.16 - Powers of the board.
+- Section 3109.17 - Biennial state plan for comprehensive child abuse and child neglect prevention.
+- Section 3109.171 - Child abuse and child neglect prevention regions.
+- Section 3109.172 - Child abuse and child neglect regional prevention councils.
+- Section 3109.173 - Regional prevention coordinator.
+- Section 3109.174 - Submission of regional prevention plan.
+- Section 3109.175 - Evaluation of plans.
+- Section 3109.176 - Denial or reduction of funding.
+- Section 3109.177 - Primary prevention strategies.
+- Section 3109.178 - Requests for start-up costs.
+- Section 3109.179 - Rules.
+- Section 3109.19 - Parentage or support action brought by grandparent who is providing support to child born to unmarried and unemancipated minors.
+- Section 3109.20 - Child support for a person with a disability regardless of age.
+- Section 3109.401 - State policy on parent and child relationship.
+- Section 3109.41 - Parent killing other parent definitions.
+- Section 3109.42 - Ineligibility for custody of parent killing other parent.
+- Section 3109.43 - Ineligibility for visitation rights of parent killing other parent.
+- Section 3109.44 - Notice by court where parent convicted of killing other parent.
+- Section 3109.45 - Termination of visitation order upon receipt of notice.
+- Section 3109.46 - Termination of custody order upon receipt of notice.
+- Section 3109.47 - Custody or visitation granted to surviving parent.
+- Section 3109.48 - Visit to surviving parent with child present.
+- Section 3109.50 - Definitions.
+- Section 3109.501 - Children conceived as result of rape or sexual battery; declaration of paternity.
+- Section 3109.502 - Continuation of declaration of paternity proceedings during criminal proceedings.
+- Section 3109.503 - Notice of parental rights.
+- Section 3109.504 - Granting of parental rights prohibited.
+- Section 3109.505 - Consolidation of actions.
+- Section 3109.506 - Rights of relatives.
+- Section 3109.507 - Revocation or modification of order.
+- Section 3109.51 - Definitions.
+- Section 3109.52 - Power of attorney for residential grandparent.
+- Section 3109.53 - Form of power of attorney for residential grandparent.
+- Section 3109.54 - Signatures - notarization.
+- Section 3109.55 - Notice of creation of power of attorney.
+- Section 3109.56 - Requirements for creating power of attorney.
+- Section 3109.57 - Further requirements for creating power of attorney.
+- Section 3109.58 - Pending proceedings may preclude creation of power of attorney.
+- Section 3109.59 - Termination of power of attorney.
+- Section 3109.60 - Notice of termination.
+- Section 3109.61 - Immunity.
+- Section 3109.62 - Military power of attorney.
+- Section 3109.65 - Caretaker authorization affidavit.
+- Section 3109.66 - Form of caretaker authorization affidavit.
+- Section 3109.67 - Execution of affidavit.
+- Section 3109.68 - Pending proceedings may preclude creation of affidavit.
+- Section 3109.69 - Limitations on authority granted by affidavit.
+- Section 3109.70 - Termination of affidavit.
+- Section 3109.71 - Notice of termination.
+- Section 3109.72 - Negation of actions taken under caretaker authorization affidavit.
+- Section 3109.73 - Immunity.
+- Section 3109.74 - Filing with court.
+- Section 3109.75 - Verification of filing.
+- Section 3109.76 - Determination of custody after notice of revocation of grandparent's power of attorney, termination or removal.
+- Section 3109.78 - Purpose may void power or affidavit.
+- Section 3109.79 - Child support order unaffected by power or affidavit.
+- Section 3109.80 - Only one power or affidavit may be in effect at a time.

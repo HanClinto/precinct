@@ -1,0 +1,10 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4167.15
+Scraped: 2026-07-02T20:04:43+00:00
+
+# Section 4167.15 - Request for hearing on order, rule or standard.
+
+**Effective:** June 21, 2005
+
+**Latest Legislation:** House Bill 67 - 126th General Assembly
+
+Any public employer, public employee, or public employee representative affected by an order, rule, or Ohio employment risk reduction standard proposed, adopted, or otherwise issued pursuant to this chapter, may request, within fourteen days after the proposal, adoption, or issuance of the order, rule, or standard, a hearing from the administrator of workers' compensation. The administrator, within fourteen days after receipt of a request for a hearing, shall appoint a hearing officer to make a determination as to the request. The hearing officer, within fourteen days after the hearing officer's appointment, shall hold a hearing in accordance with Chapter 119. of the Revised Code and, within fourteen days after the hearing, render a decision. A public employer, public employee, or public employee representative may appeal the decision of the hearing officer to the administrator, provided that the appeal is made within thirty days after the hearing officer issues the decision. The decision of the hearing officer is final unless appealed to the administrator within the time period set in this section or unless the administrator, on the administrator's own motion, modifies or reverses the decision within that time period. If a party fails to appeal the decision of the hearing officer, the decision of the hearing officer is not, for purposes of section 4167.16 of the Revised Code, a final order of the administrator and is not appealable to court as provided in section 4167.16 of the Revised Code, except that if the party fails to appeal the decision of the hearing officer, and the administrator modifies or reverses the decision under this section, the decision of the administrator is appealable to court pursuant to section 4167.16 of the Revised Code.

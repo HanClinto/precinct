@@ -1,0 +1,831 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 5924.01 - Code of military justice definitions.",
+      "number": "5924.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.02 - Persons subject to code.",
+      "number": "5924.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.03 - Jurisdiction to court-martial discharged personnel.",
+      "number": "5924.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.05 - Territorial applicability.",
+      "number": "5924.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.06 - State judge advocate; subordinate judge advocates and legal officers.",
+      "number": "5924.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.07 - Apprehension.",
+      "number": "5924.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.08 - Authority to apprehend deserters.",
+      "number": "5924.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.09 - Arrest or confinement.",
+      "number": "5924.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.10 - Confinement.",
+      "number": "5924.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.103 - Captured or abandoned property.",
+      "number": "5924.103",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.103"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.107 - False official statements.",
+      "number": "5924.107",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.107"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.108 - Military property; loss, damage, destruction, or wrongful disposition.",
+      "number": "5924.108",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.108"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.109 - Waste or destruction of nonmilitary property.",
+      "number": "5924.109",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.109"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.11 - Prisoners.",
+      "number": "5924.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.111 - Impaired or reckless operation of vehicles, aircraft or vessels.",
+      "number": "5924.111",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.111"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.112 - Drunk on duty.",
+      "number": "5924.112",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.112"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.113 - Misbehavior of sentinel.",
+      "number": "5924.113",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.113"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.115 - Malingering.",
+      "number": "5924.115",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.115"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.116 - Riot - breach of peace.",
+      "number": "5924.116",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.116"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.117 - Provoking speeches or gestures.",
+      "number": "5924.117",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.117"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.1121 - Wrongful use, possession, etc., of controlled substances.",
+      "number": "5924.1121",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.1121"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.120 - Rape; sexual assault; sexual contact; indecent acts; affirmative defenses.",
+      "number": "5924.120",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.120"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.121 - Larceny - wrongful appropriation.",
+      "number": "5924.121",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.121"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.123 - Forgery.",
+      "number": "5924.123",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.123"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.127 - Extortion.",
+      "number": "5924.127",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.127"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.128 - Assault.",
+      "number": "5924.128",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.128"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.13 - Arrest and confinement.",
+      "number": "5924.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.131 - Perjury.",
+      "number": "5924.131",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.131"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.132 - Frauds against government.",
+      "number": "5924.132",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.132"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.133 - Conduct unbecoming an officer and a lady or gentleman.",
+      "number": "5924.133",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.133"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.134 - General article.",
+      "number": "5924.134",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.134"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.135 - Courts of inquiry.",
+      "number": "5924.135",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.135"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.136 - Authority to administer oaths and act as notary.",
+      "number": "5924.136",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.136"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.137 - Articles to be explained.",
+      "number": "5924.137",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.137"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.138 - Complaints of wrongs.",
+      "number": "5924.138",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.138"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.139 - Redress of injuries to property.",
+      "number": "5924.139",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.139"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.14 - Delivery to civil authority for trial.",
+      "number": "5924.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.140 - Execution of process and sentence.",
+      "number": "5924.140",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.140"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.141 - Processes and mandates.",
+      "number": "5924.141",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.141"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.142 - Payment and disposition of fines.",
+      "number": "5924.142",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.142"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.143 - Immunity.",
+      "number": "5924.143",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.143"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.144 - Presumption of jurisdiction.",
+      "number": "5924.144",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.144"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.146 - Duty status requisite to trial or punishment.",
+      "number": "5924.146",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.146"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.148 - Short title.",
+      "number": "5924.148",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.148"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.15 - Nonjudicial punishment.",
+      "number": "5924.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.16 - Courts-martial.",
+      "number": "5924.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.17 - Jurisdiction of courts-martial.",
+      "number": "5924.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.18 - Jurisdiction of general courts-martial; punishments.",
+      "number": "5924.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.19 - Jurisdiction of special courts-martial; punishments.",
+      "number": "5924.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.20 - Jurisdiction of summary courts-martial; punishments.",
+      "number": "5924.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.21 - Concurrent jurisdiction.",
+      "number": "5924.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.22 - Convening general courts-martial.",
+      "number": "5924.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.23 - Convening special courts-martial.",
+      "number": "5924.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.24 - Convening summary courts-martial.",
+      "number": "5924.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.25 - Service on courts-martial.",
+      "number": "5924.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.26 - Military judge.",
+      "number": "5924.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.27 - Trial and defense counsel.",
+      "number": "5924.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.28 - Court reporters and interpreters.",
+      "number": "5924.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.29 - Absent and additional members.",
+      "number": "5924.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.30 - Charges and specifications.",
+      "number": "5924.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.31 - Self-incrimination.",
+      "number": "5924.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.32 - Investigation.",
+      "number": "5924.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.33 - Forwarding charges.",
+      "number": "5924.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.34 - Pre-trial referral of general court-martial charge.",
+      "number": "5924.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.35 - Service of charges.",
+      "number": "5924.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.36 - Trial procedure.",
+      "number": "5924.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.37 - Unlawful influence.",
+      "number": "5924.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.38 - Duties of trial and defense counsel.",
+      "number": "5924.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.39 - Convening without members of court present.",
+      "number": "5924.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.40 - Continuances.",
+      "number": "5924.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.41 - Challenges.",
+      "number": "5924.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.42 - Oaths.",
+      "number": "5924.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.43 - Statute of limitations.",
+      "number": "5924.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.44 - Double jeopardy.",
+      "number": "5924.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.45 - Entry of plea by accused; entry by court.",
+      "number": "5924.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.46 - Opportunity to obtain evidence and witnesses.",
+      "number": "5924.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.47 - Refusal to appear or testify.",
+      "number": "5924.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.48 - Penalty for contempt.",
+      "number": "5924.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.49 - Depositions.",
+      "number": "5924.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.50 - Admissibility of records of board of officers.",
+      "number": "5924.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.501 - Competency of accused; hearing.",
+      "number": "5924.501",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.501"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.502 - Evaluation of accused's mental condition.",
+      "number": "5924.502",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.502"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.503 - Findings of competency or incompetency; evaluation and treatment of accused.",
+      "number": "5924.503",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.503"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.504 - Finding accused incompetent to stand trial; civil commitment.",
+      "number": "5924.504",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.504"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.505 - \"Not guilty by reason of insanity\".",
+      "number": "5924.505",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.505"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.506 - Finding of not guilty by reason of insanity; hearing.",
+      "number": "5924.506",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.506"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.51 - Voting and rulings.",
+      "number": "5924.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.52 - Number of votes required.",
+      "number": "5924.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.53 - Announcement of findings.",
+      "number": "5924.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.54 - Record of proceedings.",
+      "number": "5924.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.55 - Cruel and unusual punishments.",
+      "number": "5924.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.56 - Maximum punishments.",
+      "number": "5924.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.57 - Effective date of sentences.",
+      "number": "5924.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.58 - Execution of sentence of confinement.",
+      "number": "5924.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.581 - Reduction in pay for enlisted members.",
+      "number": "5924.581",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.581"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.582 - Forfeiture of pay and allowances.",
+      "number": "5924.582",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.582"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.59 - Review of finding.",
+      "number": "5924.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.60 - Report of findings to convening authority; submission of matters by accused; actions by convening authority; revision or rehearing.",
+      "number": "5924.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.61 - Appeal by accused.",
+      "number": "5924.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.62 - Appeal by state.",
+      "number": "5924.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.63 - Rehearings.",
+      "number": "5924.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.64 - Review of cases in which no appeal taken.",
+      "number": "5924.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.65 - Transmission of record.",
+      "number": "5924.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.66 - Court of military appeals.",
+      "number": "5924.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.67 - Compensation for judges.",
+      "number": "5924.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.67"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.68 - Power of subpoena.",
+      "number": "5924.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.68"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.69 - Appeals to the supreme court.",
+      "number": "5924.69",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.69"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.70 - Appellate counsel.",
+      "number": "5924.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.71 - Sentence of dismissal or discharge.",
+      "number": "5924.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.72 - Vacation of suspension of sentence.",
+      "number": "5924.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.73 - Petition for new trial.",
+      "number": "5924.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.74 - Remission and suspension by adjutant general, state judge advocate, or convening authority.",
+      "number": "5924.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.74"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.75 - Effect of disapproval of sentence; reappointment of officers; leave pending actions.",
+      "number": "5924.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.76 - Finality of proceedings.",
+      "number": "5924.76",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.76"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.761 - Leave pending completion of certain actions.",
+      "number": "5924.761",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.761"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.77 - Principal defined.",
+      "number": "5924.77",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.77"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.78 - Accessory after the fact.",
+      "number": "5924.78",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.78"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.79 - Conviction of lesser included offense.",
+      "number": "5924.79",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.79"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.80 - Attempts.",
+      "number": "5924.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.80"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.81 - Conspiracy.",
+      "number": "5924.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.82 - Solicitation.",
+      "number": "5924.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.82"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.83 - Fraudulent enlistment, appointment or separation.",
+      "number": "5924.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.83"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.84 - Unlawful enlistment, appointment or separation.",
+      "number": "5924.84",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.84"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.85 - Desertion.",
+      "number": "5924.85",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.85"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.86 - Absence without leave.",
+      "number": "5924.86",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.86"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.87 - Missing movement.",
+      "number": "5924.87",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.87"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.88 - Contempt toward officials.",
+      "number": "5924.88",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.88"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.89 - Disrespect toward superior officer.",
+      "number": "5924.89",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.89"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.90 - Assault - willfully disobeying an officer.",
+      "number": "5924.90",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.90"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.91 - Insubordinate conduct toward noncommissioned officer.",
+      "number": "5924.91",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.91"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.92 - Failure to obey order or regulation.",
+      "number": "5924.92",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.92"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.93 - Cruelty - maltreatment.",
+      "number": "5924.93",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.93"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.94 - Mutiny - sedition.",
+      "number": "5924.94",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.94"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.95 - Arrest and confinement.",
+      "number": "5924.95",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.95"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.96 - Releasing prisoner without proper authority.",
+      "number": "5924.96",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.96"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.97 - Unlawful detention.",
+      "number": "5924.97",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.97"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5924.98 - Noncompliance.",
+      "number": "5924.98",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5924.98"
+    }
+  ],
+  "scraped": "2026-07-02T20:17:00+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-5924",
+  "title": "Chapter 5924 - Code Of Military Justice"
+}

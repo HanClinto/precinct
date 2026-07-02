@@ -1,0 +1,14 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-1309.321
+Scraped: 2026-07-02T19:37:07+00:00
+
+# Section 1309.321 - Licensee of general intangible and lessee of goods in ordinary course of business - UCC 9-321.
+
+**Effective:** July 1, 2001
+
+**Latest Legislation:** Senate Bill 74 - 124th General Assembly
+
+(A) As used in this section, "licensee in the ordinary course of business" means a person that becomes a licensee of a general intangible in good faith, without knowledge that the license violates the rights of another person in the general intangible, and in the ordinary course of business from a person in the business of licensing general intangibles of that kind. A person becomes a licensee in the ordinary course of business if the license to the person comports with the usual or customary practices in the kind of business in which the licensor is engaged or with the licensor's own usual or customary practices.
+
+(B) A licensee in the ordinary course of business takes its rights under a nonexclusive license free of a security interest in the general intangible created by the licensor, even if the security interest is perfected and the licensee knows of its existence.
+
+(C) A lessee in ordinary course of business takes its leasehold interest free of a security interest in the goods created by the lessor, even if the security interest is perfected and the lessee knows of its existence.

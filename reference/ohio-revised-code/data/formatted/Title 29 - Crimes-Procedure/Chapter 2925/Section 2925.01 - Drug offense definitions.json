@@ -1,0 +1,622 @@
+{
+  "glossary": [
+    {
+      "definition": "(E) \"Unit dose\" means an amount or unit of a compound, mixture, or preparation containing a controlled substance that is separately identifiable and in a form that indicates that it is the amount or unit by which the controlled substance is separately administered to or taken by an individual.",
+      "id": "2925.01-unit-dose",
+      "normalized": "unit dose",
+      "scope": "As used in this chapter:",
+      "section": "2925.01",
+      "source_title": "Section 2925.01 - Drug offense definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2925.01",
+      "term": "Unit dose"
+    },
+    {
+      "definition": "(F) \"Cultivate\" includes planting, watering, fertilizing, or tilling.",
+      "id": "2925.01-cultivate",
+      "normalized": "cultivate",
+      "scope": "As used in this chapter:",
+      "section": "2925.01",
+      "source_title": "Section 2925.01 - Drug offense definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2925.01",
+      "term": "Cultivate"
+    },
+    {
+      "definition": "(G) \"Drug abuse offense\" means any of the following:\n\n(1) A violation of division (A) of section 2913.02 that constitutes theft of drugs, or a violation of section 2925.02 , 2925.03 , 2925.04 , 2925.041 , 2925.05 , 2925.06 , 2925.11 , 2925.12 , 2925.13 , 2925.22 , 2925.23 , 2925.24 , 2925.31 , 2925.32 , 2925.36 , or 2925.37 of the Revised Code;\n\n(2) A violation of an existing or former law of this or any other state or of the United States that is substantially equivalent to any section listed in division (G)(1) of this section;\n\n(3) An offense under an existing or former law of this or any other state, or of the United States, of which planting, cultivating, harvesting, processing, making, manufacturing, producing, shipping, transporting, delivering, acquiring, possessing, storing, distributing, dispensing, selling, inducing another to use, administering to another, using, or otherwise dealing with a controlled substance is an element;\n\n(4) A conspiracy to commit, attempt to commit, or complicity in committing or attempting to commit any offense under division (G)(1), (2), or (3) of this section.",
+      "id": "2925.01-drug-abuse-offense",
+      "normalized": "drug abuse offense",
+      "scope": "As used in this chapter:",
+      "section": "2925.01",
+      "source_title": "Section 2925.01 - Drug offense definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2925.01",
+      "term": "Drug abuse offense"
+    },
+    {
+      "definition": "(H) \"Felony drug abuse offense\" means any drug abuse offense that would constitute a felony under the laws of this state, any other state, or the United States.",
+      "id": "2925.01-felony-drug-abuse-offense",
+      "normalized": "felony drug abuse offense",
+      "scope": "As used in this chapter:",
+      "section": "2925.01",
+      "source_title": "Section 2925.01 - Drug offense definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2925.01",
+      "term": "Felony drug abuse offense"
+    },
+    {
+      "definition": "(I) \"Harmful intoxicant\" does not include beer or intoxicating liquor but means any of the following:\n\n(1) Any compound, mixture, preparation, or substance the gas, fumes, or vapor of which when inhaled can induce intoxication, excitement, giddiness, irrational behavior, depression, stupefaction, paralysis, unconsciousness, asphyxiation, or other harmful physiological effects, and includes, but is not limited to, any of the following:\n\n(a) Any volatile organic solvent, plastic cement, model cement, fingernail polish remover, lacquer thinner, cleaning fluid, gasoline, or other preparation containing a volatile organic solvent;\n\n(b) Any aerosol propellant;\n\n(c) Any fluorocarbon refrigerant;\n\n(d) Any anesthetic gas.\n\n(2) Gamma Butyrolactone;\n\n(3) 1,4 Butanediol.",
+      "id": "2925.01-harmful-intoxicant",
+      "normalized": "harmful intoxicant",
+      "scope": "As used in this chapter:",
+      "section": "2925.01",
+      "source_title": "Section 2925.01 - Drug offense definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2925.01",
+      "term": "Harmful intoxicant"
+    },
+    {
+      "definition": "(J) \"Manufacture\" means to plant, cultivate, harvest, process, make, prepare, or otherwise engage in any part of the production of a drug, by propagation, extraction, chemical synthesis, or compounding, or any combination of the same, and includes packaging, repackaging, labeling, and other activities incident to production.",
+      "id": "2925.01-manufacture",
+      "normalized": "manufacture",
+      "scope": "As used in this chapter:",
+      "section": "2925.01",
+      "source_title": "Section 2925.01 - Drug offense definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2925.01",
+      "term": "Manufacture"
+    },
+    {
+      "definition": "(K) \"Possess\" or \"possession\" means having control over a thing or substance, but may not be inferred solely from mere access to the thing or substance through ownership or occupation of the premises upon which the thing or substance is found.",
+      "id": "2925.01-possess",
+      "normalized": "possess",
+      "scope": "As used in this chapter:",
+      "section": "2925.01",
+      "source_title": "Section 2925.01 - Drug offense definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2925.01",
+      "term": "Possess"
+    },
+    {
+      "definition": "(K) \"Possess\" or \"possession\" means having control over a thing or substance, but may not be inferred solely from mere access to the thing or substance through ownership or occupation of the premises upon which the thing or substance is found.",
+      "id": "2925.01-possession",
+      "normalized": "possession",
+      "scope": "As used in this chapter:",
+      "section": "2925.01",
+      "source_title": "Section 2925.01 - Drug offense definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2925.01",
+      "term": "possession"
+    },
+    {
+      "definition": "(L) \"Sample drug\" means a drug or pharmaceutical preparation that would be hazardous to health or safety if used without the supervision of a licensed health professional authorized to prescribe drugs, or a drug of abuse, and that, at one time, had been placed in a container plainly marked as a sample by a manufacturer.",
+      "id": "2925.01-sample-drug",
+      "normalized": "sample drug",
+      "scope": "As used in this chapter:",
+      "section": "2925.01",
+      "source_title": "Section 2925.01 - Drug offense definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2925.01",
+      "term": "Sample drug"
+    },
+    {
+      "definition": "(M) \"Standard pharmaceutical reference manual\" means the current edition, with cumulative changes if any, of references that are approved by the state board of pharmacy.",
+      "id": "2925.01-standard-pharmaceutical-reference-manual",
+      "normalized": "standard pharmaceutical reference manual",
+      "scope": "As used in this chapter:",
+      "section": "2925.01",
+      "source_title": "Section 2925.01 - Drug offense definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2925.01",
+      "term": "Standard pharmaceutical reference manual"
+    },
+    {
+      "definition": "(N) \"Juvenile\" means a person under eighteen years of age.",
+      "id": "2925.01-juvenile",
+      "normalized": "juvenile",
+      "scope": "As used in this chapter:",
+      "section": "2925.01",
+      "source_title": "Section 2925.01 - Drug offense definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2925.01",
+      "term": "Juvenile"
+    },
+    {
+      "definition": "(O) \"Counterfeit controlled substance\" means any of the following:\n\n(1) Any drug that bears, or whose container or label bears, a trademark, trade name, or other identifying mark used without authorization of the owner of rights to that trademark, trade name, or identifying mark;\n\n(2) Any unmarked or unlabeled substance that is represented to be a controlled substance manufactured, processed, packed, or distributed by a person other than the person that manufactured, processed, packed, or distributed it;\n\n(3) Any substance that is represented to be a controlled substance but is not a controlled substance or is a different controlled substance;\n\n(4) Any substance other than a controlled substance that a reasonable person would believe to be a controlled substance because of its similarity in shape, size, and color, or its markings, labeling, packaging, distribution, or the price for which it is sold or offered for sale.\n\n(P) An offense is \"committed in the vicinity of a school\" if the offender commits the offense on school premises, in a school building, or within one thousand feet of the boundaries of any school premises, regardless of whether the offender knows the offense is being committed on school premises, in a school building, or within one thousand feet of the boundaries of any school premises.",
+      "id": "2925.01-counterfeit-controlled-substance",
+      "normalized": "counterfeit controlled substance",
+      "scope": "As used in this chapter:",
+      "section": "2925.01",
+      "source_title": "Section 2925.01 - Drug offense definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2925.01",
+      "term": "Counterfeit controlled substance"
+    },
+    {
+      "definition": "(Q) \"School\" means any school operated by a board of education, any community school established under Chapter 3314. of the Revised Code, or any nonpublic school for which the director of education and workforce prescribes minimum standards under section 3301.07 of the Revised Code, whether or not any instruction, extracurricular activities, or training provided by the school is being conducted at the time a criminal offense is committed.",
+      "id": "2925.01-school",
+      "normalized": "school",
+      "scope": "As used in this chapter:",
+      "section": "2925.01",
+      "source_title": "Section 2925.01 - Drug offense definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2925.01",
+      "term": "School"
+    },
+    {
+      "definition": "(R) \"School premises\" means either of the following:\n\n(1) The parcel of real property on which any school is situated, whether or not any instruction, extracurricular activities, or training provided by the school is being conducted on the premises at the time a criminal offense is committed;\n\n(2) Any other parcel of real property that is owned or leased by a board of education of a school, the governing authority of a community school established under Chapter 3314. of the Revised Code, or the governing body of a nonpublic school for which the director of education and workforce prescribes minimum standards under section 3301.07 of the Revised Code and on which some of the instruction, extracurricular activities, or training of the school is conducted, whether or not any instruction, extracurricular activities, or training provided by the school is being conducted on the parcel of real property at the time a criminal offense is committed.",
+      "id": "2925.01-school-premises",
+      "normalized": "school premises",
+      "scope": "As used in this chapter:",
+      "section": "2925.01",
+      "source_title": "Section 2925.01 - Drug offense definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2925.01",
+      "term": "School premises"
+    },
+    {
+      "definition": "(S) \"School building\" means any building in which any of the instruction, extracurricular activities, or training provided by a school is conducted, whether or not any instruction, extracurricular activities, or training provided by the school is being conducted in the school building at the time a criminal offense is committed.",
+      "id": "2925.01-school-building",
+      "normalized": "school building",
+      "scope": "As used in this chapter:",
+      "section": "2925.01",
+      "source_title": "Section 2925.01 - Drug offense definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2925.01",
+      "term": "School building"
+    },
+    {
+      "definition": "(T) \"Disciplinary counsel\" means the disciplinary counsel appointed by the board of commissioners on grievances and discipline of the supreme court under the Rules for the Government of the Bar of Ohio.",
+      "id": "2925.01-disciplinary-counsel",
+      "normalized": "disciplinary counsel",
+      "scope": "As used in this chapter:",
+      "section": "2925.01",
+      "source_title": "Section 2925.01 - Drug offense definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2925.01",
+      "term": "Disciplinary counsel"
+    },
+    {
+      "definition": "(U) \"Certified grievance committee\" means a duly constituted and organized committee of the Ohio state bar association or of one or more local bar associations of the state of Ohio that complies with the criteria set forth in Rule V, section 6 of the Rules for the Government of the Bar of Ohio.",
+      "id": "2925.01-certified-grievance-committee",
+      "normalized": "certified grievance committee",
+      "scope": "As used in this chapter:",
+      "section": "2925.01",
+      "source_title": "Section 2925.01 - Drug offense definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2925.01",
+      "term": "Certified grievance committee"
+    },
+    {
+      "definition": "(V) \"Professional license\" means any license, permit, certificate, registration, qualification, admission, temporary license, temporary permit, temporary certificate, or temporary registration that is described in divisions (W)(1) to (37) of this section and that qualifies a person as a professionally licensed person.",
+      "id": "2925.01-professional-license",
+      "normalized": "professional license",
+      "scope": "As used in this chapter:",
+      "section": "2925.01",
+      "source_title": "Section 2925.01 - Drug offense definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2925.01",
+      "term": "Professional license"
+    },
+    {
+      "definition": "(W) \"Professionally licensed person\" means any of the following:\n\n(1) A person who has received a certificate or temporary certificate as a certified public accountant or who has registered as a public accountant under Chapter 4701. of the Revised Code and who holds an Ohio permit issued under that chapter;\n\n(2) A person who holds a certificate of qualification to practice architecture issued or renewed and registered under Chapter 4703. of the Revised Code;\n\n(3) A person who is registered as a landscape architect under Chapter 4703. of the Revised Code or who holds a permit as a landscape architect issued under that chapter;\n\n(4) A person licensed under Chapter 4707. of the Revised Code;\n\n(5) A person who has been issued a barber's license, barber instructor's license, assistant barber instructor's license, or independent contractor's license under Chapter 4709. of the Revised Code;\n\n(6) A person licensed and regulated to engage in the business of a debt pooling company by a legislative authority, under authority of Chapter 4710. of the Revised Code;\n\n(7) A person who has been issued a cosmetologist's license, hair designer's license, manicurist's license, esthetician's license, natural hair stylist's license, advanced license to practice cosmetology, advanced license to practice hair design, advanced license to practice manicuring, advanced license to practice esthetics, advanced license to practice natural hair styling, cosmetology instructor's license, hair design instructor's license, manicurist instructor's license, esthetics instructor's license, natural hair style instructor's license, independent contractor's license, or tanning facility permit under Chapter 4713. of the Revised Code;\n\n(8) A person who has been issued a license to practice dentistry, a general anesthesia permit, a conscious sedation permit, a limited resident's license, a limited teaching license, a dental hygienist's license, or a dental hygienist's teacher's certificate under Chapter 4715. of the Revised Code;\n\n(9) A person who has been issued an embalmer's license, a funeral director's license, a funeral home license, or a crematory license, or who has been registered for an embalmer's or funeral director's apprenticeship under Chapter 4717. of the Revised Code;\n\n(10) A person who has been licensed as a registered nurse or practical nurse, or who has been issued a certificate for the practice of nurse-midwifery under Chapter 4723. of the Revised Code;\n\n(11) A person who has been licensed to practice optometry or to engage in optical dispensing under Chapter 4725. of the Revised Code;\n\n(12) A person licensed to act as a pawnbroker under Chapter 4727. of the Revised Code;\n\n(13) A person licensed to act as a precious metals dealer under Chapter 4728. of the Revised Code;\n\n(14) A person licensed under Chapter 4729. of the Revised Code as a pharmacist or pharmacy intern or registered under that chapter as a registered pharmacy technician, certified pharmacy technician, or pharmacy technician trainee;\n\n(15) A person licensed under Chapter 4729. of the Revised Code as a manufacturer of dangerous drugs, outsourcing facility, third-party logistics provider, repackager of dangerous drugs, wholesale distributor of dangerous drugs, or terminal distributor of dangerous drugs;\n\n(16) A person who is authorized to practice as a physician assistant under Chapter 4730. of the Revised Code;\n\n(17) A person who has been issued a license to practice medicine and surgery, osteopathic medicine and surgery, or podiatric medicine and surgery under Chapter 4731. of the Revised Code or has been issued a certificate to practice a limited branch of medicine under that chapter;\n\n(18) A person licensed as a psychologist, independent school psychologist, or school psychologist under Chapter 4732. of the Revised Code;\n\n(19) A person registered to practice the profession of engineering or surveying under Chapter 4733. of the Revised Code;\n\n(20) A person who has been issued a license to practice chiropractic under Chapter 4734. of the Revised Code;\n\n(21) A person licensed to act as a real estate broker or real estate salesperson under Chapter 4735. of the Revised Code;\n\n(22) A person registered as a registered environmental health specialist under Chapter 3776. of the Revised Code;\n\n(23) A person licensed to operate or maintain a junkyard under Chapter 4737. of the Revised Code;\n\n(24) A person who has been issued a motor vehicle salvage dealer's license under Chapter 4738. of the Revised Code;\n\n(25) A person who has been licensed to act as a steam engineer under Chapter 4739. of the Revised Code;\n\n(26) A person who has been issued a license or temporary permit to practice veterinary medicine or any of its branches, or who is registered as a graduate animal technician under Chapter 4741. of the Revised Code;\n\n(27) A person who has been issued a hearing aid dealer's or fitter's license or trainee permit under Chapter 4747. of the Revised Code;\n\n(28) A person who has been issued a class A, class B, or class C license or who has been registered as an investigator or security guard employee under Chapter 4749. of the Revised Code;\n\n(29) A person licensed to practice as a nursing home administrator under Chapter 4751. of the Revised Code;\n\n(30) A person licensed to practice as a speech-language pathologist or audiologist under Chapter 4753. of the Revised Code;\n\n(31) A person issued a license as an occupational therapist or physical therapist under Chapter 4755. of the Revised Code;\n\n(32) A person who is licensed as a licensed professional clinical counselor, licensed professional counselor, social worker, independent social worker, independent marriage and family therapist, or marriage and family therapist, or registered as a social work assistant under Chapter 4757. of the Revised Code;\n\n(33) A person issued a license to practice dietetics under Chapter 4759. of the Revised Code;\n\n(34) A person who has been issued a license or limited permit to practice respiratory therapy under Chapter 4761. of the Revised Code;\n\n(35) A person who has been issued a real estate appraiser certificate under Chapter 4763. of the Revised Code;\n\n(36) A person who has been issued a home inspector license under Chapter 4764. of the Revised Code;\n\n(37) A person who has been admitted to the bar by order of the supreme court in compliance with its prescribed and published rules;\n\n(38) A person who has been issued a license to practice as a certified mental health assistant under Chapter 4772. of the Revised Code.",
+      "id": "2925.01-professionally-licensed-person",
+      "normalized": "professionally licensed person",
+      "scope": "As used in this chapter:",
+      "section": "2925.01",
+      "source_title": "Section 2925.01 - Drug offense definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2925.01",
+      "term": "Professionally licensed person"
+    },
+    {
+      "definition": "(X) \"Cocaine\" means any of the following:\n\n(1) A cocaine salt, isomer, or derivative, a salt of a cocaine isomer or derivative, or the base form of cocaine;\n\n(2) Coca leaves or a salt, compound, derivative, or preparation of coca leaves, including ecgonine, a salt, isomer, or derivative of ecgonine, or a salt of an isomer or derivative of ecgonine;\n\n(3) A salt, compound, derivative, or preparation of a substance identified in division (X)(1) or (2) of this section that is chemically equivalent to or identical with any of those substances, except that the substances shall not include decocainized coca leaves or extraction of coca leaves if the extractions do not contain cocaine or ecgonine.",
+      "id": "2925.01-cocaine",
+      "normalized": "cocaine",
+      "scope": "As used in this chapter:",
+      "section": "2925.01",
+      "source_title": "Section 2925.01 - Drug offense definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2925.01",
+      "term": "Cocaine"
+    },
+    {
+      "definition": "(Y) \"L.S.D.\" means lysergic acid diethylamide.",
+      "id": "2925.01-l-s-d",
+      "normalized": "l.s.d.",
+      "scope": "As used in this chapter:",
+      "section": "2925.01",
+      "source_title": "Section 2925.01 - Drug offense definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2925.01",
+      "term": "L.S.D."
+    },
+    {
+      "definition": "(Z) \"Hashish\" means a resin or a preparation of a resin to which both of the following apply:\n\n(1) It is contained in or derived from any part of the plant of the genus cannabis, whether in solid form or in a liquid concentrate, liquid extract, or liquid distillate form.\n\n(2) It has a delta-9 tetrahydrocannabinol concentration of more than three-tenths per cent.",
+      "id": "2925.01-hashish",
+      "normalized": "hashish",
+      "scope": "As used in this chapter:",
+      "section": "2925.01",
+      "source_title": "Section 2925.01 - Drug offense definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2925.01",
+      "term": "Hashish"
+    },
+    {
+      "definition": "\"Hashish\" does not include a hemp byproduct in the possession of a licensed hemp processor under Chapter 928. of the Revised Code, provided that the hemp byproduct is being produced, stored, and disposed of in accordance with rules adopted under section 928.03 of the Revised Code.",
+      "id": "2925.01-hashish",
+      "normalized": "hashish",
+      "scope": "As used in this chapter:",
+      "section": "2925.01",
+      "source_title": "Section 2925.01 - Drug offense definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2925.01",
+      "term": "Hashish"
+    },
+    {
+      "definition": "(AA) \"Marihuana\" has the same meaning as in section 3719.01 of the Revised Code, except that it does not include hashish.\n\n(BB) An offense is \"committed in the vicinity of a juvenile\" if the offender commits the offense within one hundred feet of a juvenile or within the view of a juvenile, regardless of whether the offender knows the age of the juvenile, whether the offender knows the offense is being committed within one hundred feet of or within view of the juvenile, or whether the juvenile actually views the commission of the offense.",
+      "id": "2925.01-marihuana",
+      "normalized": "marihuana",
+      "scope": "As used in this chapter:",
+      "section": "2925.01",
+      "source_title": "Section 2925.01 - Drug offense definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2925.01",
+      "term": "Marihuana"
+    },
+    {
+      "definition": "(CC) \"Presumption for a prison term\" or \"presumption that a prison term shall be imposed\" means a presumption, as described in division (D) of section 2929.13 of the Revised Code, that a prison term is a necessary sanction for a felony in order to comply with the purposes and principles of sentencing under section 2929.11 of the Revised Code.",
+      "id": "2925.01-presumption-for-a-prison-term",
+      "normalized": "presumption for a prison term",
+      "scope": "As used in this chapter:",
+      "section": "2925.01",
+      "source_title": "Section 2925.01 - Drug offense definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2925.01",
+      "term": "Presumption for a prison term"
+    },
+    {
+      "definition": "(CC) \"Presumption for a prison term\" or \"presumption that a prison term shall be imposed\" means a presumption, as described in division (D) of section 2929.13 of the Revised Code, that a prison term is a necessary sanction for a felony in order to comply with the purposes and principles of sentencing under section 2929.11 of the Revised Code.",
+      "id": "2925.01-presumption-that-a-prison-term-shall-be-imposed",
+      "normalized": "presumption that a prison term shall be imposed",
+      "scope": "As used in this chapter:",
+      "section": "2925.01",
+      "source_title": "Section 2925.01 - Drug offense definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2925.01",
+      "term": "presumption that a prison term shall be imposed"
+    },
+    {
+      "definition": "(DD) \"Major drug offender\" has the same meaning as in section 2929.01 of the Revised Code.",
+      "id": "2925.01-major-drug-offender",
+      "normalized": "major drug offender",
+      "scope": "As used in this chapter:",
+      "section": "2925.01",
+      "source_title": "Section 2925.01 - Drug offense definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2925.01",
+      "term": "Major drug offender"
+    },
+    {
+      "definition": "(EE) \"Minor drug possession offense\" means either of the following:\n\n(1) A violation of section 2925.11 of the Revised Code as it existed prior to July 1, 1996;\n\n(2) A violation of section 2925.11 of the Revised Code as it exists on and after July 1, 1996, that is a misdemeanor or a felony of the fifth degree.",
+      "id": "2925.01-minor-drug-possession-offense",
+      "normalized": "minor drug possession offense",
+      "scope": "As used in this chapter:",
+      "section": "2925.01",
+      "source_title": "Section 2925.01 - Drug offense definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2925.01",
+      "term": "Minor drug possession offense"
+    },
+    {
+      "definition": "(FF) \"Mandatory prison term\" has the same meaning as in section 2929.01 of the Revised Code.",
+      "id": "2925.01-mandatory-prison-term",
+      "normalized": "mandatory prison term",
+      "scope": "As used in this chapter:",
+      "section": "2925.01",
+      "source_title": "Section 2925.01 - Drug offense definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2925.01",
+      "term": "Mandatory prison term"
+    },
+    {
+      "definition": "(GG) \"Adulterate\" means to cause a drug to be adulterated as described in section 3715.63 of the Revised Code.",
+      "id": "2925.01-adulterate",
+      "normalized": "adulterate",
+      "scope": "As used in this chapter:",
+      "section": "2925.01",
+      "source_title": "Section 2925.01 - Drug offense definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2925.01",
+      "term": "Adulterate"
+    },
+    {
+      "definition": "(HH) \"Public premises\" means any hotel, restaurant, tavern, store, arena, hall, or other place of public accommodation, business, amusement, or resort.",
+      "id": "2925.01-public-premises",
+      "normalized": "public premises",
+      "scope": "As used in this chapter:",
+      "section": "2925.01",
+      "source_title": "Section 2925.01 - Drug offense definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2925.01",
+      "term": "Public premises"
+    },
+    {
+      "definition": "(II) \"Methamphetamine\" means methamphetamine, any salt, isomer, or salt of an isomer of methamphetamine, or any compound, mixture, preparation, or substance containing methamphetamine or any salt, isomer, or salt of an isomer of methamphetamine.",
+      "id": "2925.01-methamphetamine",
+      "normalized": "methamphetamine",
+      "scope": "As used in this chapter:",
+      "section": "2925.01",
+      "source_title": "Section 2925.01 - Drug offense definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2925.01",
+      "term": "Methamphetamine"
+    },
+    {
+      "definition": "(JJ) \"Deception\" has the same meaning as in section 2913.01 of the Revised Code.",
+      "id": "2925.01-deception",
+      "normalized": "deception",
+      "scope": "As used in this chapter:",
+      "section": "2925.01",
+      "source_title": "Section 2925.01 - Drug offense definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2925.01",
+      "term": "Deception"
+    },
+    {
+      "definition": "(KK) \"Fentanyl-related compound\" means any of the following:\n\n(1) Fentanyl;\n\n(2) Alpha-methylfentanyl (N-[1-(alpha-methyl-beta-phenyl)ethyl-4- piperidyl]propionanilide; 1-(1-methyl-2-phenylethyl)-4-(N-propanilido) piperidine);\n\n(3) Alpha-methylthiofentanyl (N-[1-methyl-2-(2-thienyl)ethyl-4- piperidinyl]-N-phenylpropanamide);\n\n(4) Beta-hydroxyfentanyl (N-[1-(2-hydroxy-2-phenethyl-4-piperidinyl] -N-phenylpropanamide);\n\n(5) Beta-hydroxy-3-methylfentanyl (other name: N-[1-(2-hydroxy-2- phenethyl)-3-methyl-4-piperidinyl]-N- phenylpropanamide);\n\n(6) 3-methylfentanyl (N-[3-methyl-1-(2-phenylethyl)-4-piperidyl]-N- phenylpropanamide);\n\n(7) 3-methylthiofentanyl (N-[3-methyl-1-[2-(thienyl)ethyl]-4- piperidinyl]-N-phenylpropanamide);\n\n(8) Para-fluorofentanyl (N-(4-fluorophenyl)-N-[1-(2-phenethyl)-4- piperidinyl]propanamide;\n\n(9) Thiofentanyl (N-phenyl-N-[1-(2-thienyl)ethyl-4-piperidinyl]- propanamide;\n\n(10) Alfentanil;\n\n(11) Carfentanil;\n\n(12) Remifentanil;\n\n(13) Sufentanil;\n\n(14) Acetyl-alpha-methylfentanyl (N-[1-(1-methyl-2-phenethyl)-4- piperidinyl]-N-phenylacetamide); and\n\n(15) Any compound that meets all of the following fentanyl pharmacophore requirements to bind at the mu receptor, as identified by a report from an established forensic laboratory, including acetylfentanyl, furanylfentanyl, valerylfentanyl, butyrylfentanyl, isobutyrylfentanyl, 4-methoxybutyrylfentanyl, para-fluorobutyrylfentanyl, acrylfentanyl, and ortho-fluorofentanyl:\n\n(a) A chemical scaffold consisting of both of the following:\n\n(i) A five, six, or seven member ring structure containing a nitrogen, whether or not further substituted;\n\n(ii) An attached nitrogen to the ring, whether or not that nitrogen is enclosed in a ring structure, including an attached aromatic ring or other lipophilic group to that nitrogen.\n\n(b) A polar functional group attached to the chemical scaffold, including but not limited to a hydroxyl, ketone, amide, or ester;\n\n(c) An alkyl or aryl substitution off the ring nitrogen of the chemical scaffold; and\n\n(d) The compound has not been approved for medical use by the United States food and drug administration.",
+      "id": "2925.01-fentanyl-related-compound",
+      "normalized": "fentanyl-related compound",
+      "scope": "As used in this chapter:",
+      "section": "2925.01",
+      "source_title": "Section 2925.01 - Drug offense definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2925.01",
+      "term": "Fentanyl-related compound"
+    },
+    {
+      "definition": "(LL) \"First degree felony mandatory prison term\" means one of the definite prison terms prescribed in division (A)(1)(b) of section 2929.14 of the Revised Code for a felony of the first degree, except that if the violation for which sentence is being imposed is committed on or after March 22, 2019, it means one of the minimum prison terms prescribed in division (A)(1)(a) of that section for a felony of the first degree.",
+      "id": "2925.01-first-degree-felony-mandatory-prison-term",
+      "normalized": "first degree felony mandatory prison term",
+      "scope": "As used in this chapter:",
+      "section": "2925.01",
+      "source_title": "Section 2925.01 - Drug offense definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2925.01",
+      "term": "First degree felony mandatory prison term"
+    },
+    {
+      "definition": "(MM) \"Second degree felony mandatory prison term\" means one of the definite prison terms prescribed in division (A)(2)(b) of section 2929.14 of the Revised Code for a felony of the second degree, except that if the violation for which sentence is being imposed is committed on or after March 22, 2019, it means one of the minimum prison terms prescribed in division (A)(2)(a) of that section for a felony of the second degree.",
+      "id": "2925.01-second-degree-felony-mandatory-prison-term",
+      "normalized": "second degree felony mandatory prison term",
+      "scope": "As used in this chapter:",
+      "section": "2925.01",
+      "source_title": "Section 2925.01 - Drug offense definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2925.01",
+      "term": "Second degree felony mandatory prison term"
+    },
+    {
+      "definition": "(NN) \"Maximum first degree felony mandatory prison term\" means the maximum definite prison term prescribed in division (A)(1)(b) of section 2929.14 of the Revised Code for a felony of the first degree, except that if the violation for which sentence is being imposed is committed on or after March 22, 2019, it means the longest minimum prison term prescribed in division (A)(1)(a) of that section for a felony of the first degree.",
+      "id": "2925.01-maximum-first-degree-felony-mandatory-prison-term",
+      "normalized": "maximum first degree felony mandatory prison term",
+      "scope": "As used in this chapter:",
+      "section": "2925.01",
+      "source_title": "Section 2925.01 - Drug offense definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2925.01",
+      "term": "Maximum first degree felony mandatory prison term"
+    },
+    {
+      "definition": "(OO) \"Maximum second degree felony mandatory prison term\" means the maximum definite prison term prescribed in division (A)(2)(b) of section 2929.14 of the Revised Code for a felony of the second degree, except that if the violation for which sentence is being imposed is committed on or after March 22, 2019, it means the longest minimum prison term prescribed in division (A)(2)(a) of that section for a felony of the second degree.",
+      "id": "2925.01-maximum-second-degree-felony-mandatory-prison-term",
+      "normalized": "maximum second degree felony mandatory prison term",
+      "scope": "As used in this chapter:",
+      "section": "2925.01",
+      "source_title": "Section 2925.01 - Drug offense definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2925.01",
+      "term": "Maximum second degree felony mandatory prison term"
+    },
+    {
+      "definition": "(PP) \"Delta-9 tetrahydrocannabinol\" means the sum of the percentage by weight of tetrahydrocannabinolic acid multiplied by 0.877 plus the percentage by weight of delta-9 tetrahydrocannabinol.\n\n(QQ) An offense is \"committed in the vicinity of a substance addiction services provider or a recovering addict\" if either of the following apply:\n\n(1) The offender commits the offense on the premises of a substance addiction services provider's facility, including a facility licensed prior to June 29, 2019, under section 5119.391 of the Revised Code to provide methadone treatment or an opioid treatment program licensed on or after that date under section 5119.37 of the Revised Code, or within five hundred feet of the premises of a substance addiction services provider's facility and the offender knows or should know that the offense is being committed within the vicinity of the substance addiction services provider's facility.\n\n(2) The offender sells, offers to sell, delivers, or distributes the controlled substance or controlled substance analog to a person who is receiving treatment at the time of the commission of the offense, or received treatment within thirty days prior to the commission of the offense, from a substance addiction services provider and the offender knows that the person is receiving or received that treatment.",
+      "id": "2925.01-delta-9-tetrahydrocannabinol",
+      "normalized": "delta-9 tetrahydrocannabinol",
+      "scope": "As used in this chapter:",
+      "section": "2925.01",
+      "source_title": "Section 2925.01 - Drug offense definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2925.01",
+      "term": "Delta-9 tetrahydrocannabinol"
+    },
+    {
+      "definition": "(RR) \"Substance addiction services provider\" means an agency, association, corporation or other legal entity, individual, or program that provides one or more of the following at a facility:\n\n(1) Either alcohol addiction services, or drug addiction services, or both such services that are certified by the director of mental health and addiction services under section 5119.36 of the Revised Code;\n\n(2) Recovery supports that are related to either alcohol addiction services, or drug addiction services, or both such services and paid for with federal, state, or local funds administered by the department of behavioral health or a board of alcohol, drug addiction, and mental health services.",
+      "id": "2925.01-substance-addiction-services-provider",
+      "normalized": "substance addiction services provider",
+      "scope": "As used in this chapter:",
+      "section": "2925.01",
+      "source_title": "Section 2925.01 - Drug offense definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2925.01",
+      "term": "Substance addiction services provider"
+    },
+    {
+      "definition": "(SS) \"Premises of a substance addiction services provider's facility\" means the parcel of real property on which any substance addiction service provider's facility is situated.",
+      "id": "2925.01-premises-of-a-substance-addiction-services-provider-s-facility",
+      "normalized": "premises of a substance addiction services provider's facility",
+      "scope": "As used in this chapter:",
+      "section": "2925.01",
+      "source_title": "Section 2925.01 - Drug offense definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2925.01",
+      "term": "Premises of a substance addiction services provider's facility"
+    },
+    {
+      "definition": "(TT) \"Alcohol and drug addiction services\" has the same meaning as in section 5119.01 of the Revised Code.\n\nLast updated January 16, 2026 at 11:49 AM",
+      "id": "2925.01-alcohol-and-drug-addiction-services",
+      "normalized": "alcohol and drug addiction services",
+      "scope": "As used in this chapter:",
+      "section": "2925.01",
+      "source_title": "Section 2925.01 - Drug offense definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2925.01",
+      "term": "Alcohol and drug addiction services"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3719.01",
+      "number": "3719.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3719.01"
+    },
+    {
+      "kind": "section",
+      "label": "3719.011",
+      "number": "3719.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3719.011"
+    },
+    {
+      "kind": "section",
+      "label": "4729.01",
+      "number": "4729.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.01"
+    },
+    {
+      "kind": "section",
+      "label": "2925.11",
+      "number": "2925.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2925.11"
+    },
+    {
+      "kind": "section",
+      "label": "2913.02",
+      "number": "2913.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2913.02"
+    },
+    {
+      "kind": "section",
+      "label": "2925.02",
+      "number": "2925.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2925.02"
+    },
+    {
+      "kind": "section",
+      "label": "2925.03",
+      "number": "2925.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2925.03"
+    },
+    {
+      "kind": "section",
+      "label": "2925.04",
+      "number": "2925.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2925.04"
+    },
+    {
+      "kind": "section",
+      "label": "2925.041",
+      "number": "2925.041",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2925.041"
+    },
+    {
+      "kind": "section",
+      "label": "2925.05",
+      "number": "2925.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2925.05"
+    },
+    {
+      "kind": "section",
+      "label": "2925.06",
+      "number": "2925.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2925.06"
+    },
+    {
+      "kind": "section",
+      "label": "2925.12",
+      "number": "2925.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2925.12"
+    },
+    {
+      "kind": "section",
+      "label": "2925.13",
+      "number": "2925.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2925.13"
+    },
+    {
+      "kind": "section",
+      "label": "2925.22",
+      "number": "2925.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2925.22"
+    },
+    {
+      "kind": "section",
+      "label": "2925.23",
+      "number": "2925.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2925.23"
+    },
+    {
+      "kind": "section",
+      "label": "2925.24",
+      "number": "2925.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2925.24"
+    },
+    {
+      "kind": "section",
+      "label": "2925.31",
+      "number": "2925.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2925.31"
+    },
+    {
+      "kind": "section",
+      "label": "2925.32",
+      "number": "2925.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2925.32"
+    },
+    {
+      "kind": "section",
+      "label": "2925.36",
+      "number": "2925.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2925.36"
+    },
+    {
+      "kind": "section",
+      "label": "2925.37",
+      "number": "2925.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2925.37"
+    },
+    {
+      "kind": "section",
+      "label": "3301.07",
+      "number": "3301.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3301.07"
+    },
+    {
+      "kind": "section",
+      "label": "928.03",
+      "number": "928.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-928.03"
+    },
+    {
+      "kind": "section",
+      "label": "2929.13",
+      "number": "2929.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2929.13"
+    },
+    {
+      "kind": "section",
+      "label": "2929.11",
+      "number": "2929.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2929.11"
+    },
+    {
+      "kind": "section",
+      "label": "2929.01",
+      "number": "2929.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2929.01"
+    },
+    {
+      "kind": "section",
+      "label": "3715.63",
+      "number": "3715.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.63"
+    },
+    {
+      "kind": "section",
+      "label": "2913.01",
+      "number": "2913.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2913.01"
+    },
+    {
+      "kind": "section",
+      "label": "2929.14",
+      "number": "2929.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2929.14"
+    },
+    {
+      "kind": "section",
+      "label": "5119.391",
+      "number": "5119.391",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.391"
+    },
+    {
+      "kind": "section",
+      "label": "5119.37",
+      "number": "5119.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.37"
+    },
+    {
+      "kind": "section",
+      "label": "5119.36",
+      "number": "5119.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.36"
+    },
+    {
+      "kind": "section",
+      "label": "5119.01",
+      "number": "5119.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.01"
+    }
+  ],
+  "scraped": "2026-07-02T19:46:25+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2925.01",
+  "title": "Section 2925.01 - Drug offense definitions."
+}

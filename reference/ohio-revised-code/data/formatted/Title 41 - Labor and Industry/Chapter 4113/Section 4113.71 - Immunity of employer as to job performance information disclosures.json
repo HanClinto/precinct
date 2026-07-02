@@ -1,0 +1,60 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Employee\" means an individual currently or formerly employed by an employer.",
+      "id": "4113.71-employee",
+      "normalized": "employee",
+      "scope": "(A) As used in this section:",
+      "section": "4113.71",
+      "source_title": "Section 4113.71 - Immunity of employer as to job performance information disclosures.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4113.71",
+      "term": "Employee"
+    },
+    {
+      "definition": "(2) \"Employer\" means the state, any political subdivision of the state, any person employing one or more individuals in this state, and any person directly or indirectly acting in the interest of the state, political subdivision, or such person.\n\n(3) \"Political subdivision\" and \"state\" have the same meanings as in section 2744.01 of the Revised Code.\n\n(B) An employer who is requested by an employee or a prospective employer of an employee to disclose to a prospective employer of that employee information pertaining to the job performance of that employee for the employer and who discloses the requested information to the prospective employer is not liable in damages in a civil action to that employee, the prospective employer, or any other person for any harm sustained as a proximate result of making the disclosure or of any information disclosed, unless the plaintiff in a civil action establishes, either or both of the following:\n\n(1) By a preponderance of the evidence that the employer disclosed particular information with the knowledge that it was false, with the deliberate intent to mislead the prospective employer or another person, in bad faith, or with malicious purpose;\n\n(2) By a preponderance of the evidence that the disclosure of particular information by the employer constitutes an unlawful discriminatory practice described in section 4112.02 , 4112.021 , or 4112.022 of the Revised Code.\n\n(C) If the court finds that the verdict of the jury was in favor of the defendant, the court shall determine whether the lawsuit brought under division (B) of this section constituted frivolous conduct as defined in division (A) of section 2323.51 of the Revised Code, if the court finds by a preponderance of the evidence that the lawsuit constituted frivolous conduct, it may order the plaintiff to pay reasonable attorney's fees and court costs of the defendant.\n\n(D)(1) This section does not create a new cause of action or substantive legal right against an employer.\n\n(2) This section does not affect any immunities from civil liability or defenses established by another section of the Revised Code or available at common law to which an employer may be entitled under circumstances not covered by this section.",
+      "id": "4113.71-employer",
+      "normalized": "employer",
+      "scope": "(A) As used in this section:",
+      "section": "4113.71",
+      "source_title": "Section 4113.71 - Immunity of employer as to job performance information disclosures.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4113.71",
+      "term": "Employer"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2744.01",
+      "number": "2744.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2744.01"
+    },
+    {
+      "kind": "section",
+      "label": "4112.02",
+      "number": "4112.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4112.02"
+    },
+    {
+      "kind": "section",
+      "label": "4112.021",
+      "number": "4112.021",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4112.021"
+    },
+    {
+      "kind": "section",
+      "label": "4112.022",
+      "number": "4112.022",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4112.022"
+    },
+    {
+      "kind": "section",
+      "label": "2323.51",
+      "number": "2323.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2323.51"
+    }
+  ],
+  "scraped": "2026-07-02T20:04:06+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4113.71",
+  "title": "Section 4113.71 - Immunity of employer as to job performance information disclosures."
+}

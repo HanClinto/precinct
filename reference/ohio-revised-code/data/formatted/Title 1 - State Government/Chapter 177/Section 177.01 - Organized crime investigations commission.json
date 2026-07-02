@@ -1,0 +1,112 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Organized criminal activity\" means any combination or conspiracy to engage in activity that constitutes \"engaging in a pattern of corrupt activity;\" any violation, combination of violations, or conspiracy to commit one or more violations of section 2925.03 , 2925.04 , 2925.05 , 2925.06 , or 2925.11 of the Revised Code other than a violation of section 2925.11 of the Revised Code that is a minor drug possession offense; or any criminal activity that relates to the corruption of a public official, as defined in section 2921.01 of the Revised Code, or of a public servant of the type described in division (B)(3) of that section.\n\n(2) A person is engaging in an activity that constitutes \"engaging in a pattern of corrupt activity\" if any of the following apply:\n\n(a) The person is or was employed by, or associated with, an enterprise and the person conducts or participates in, directly or indirectly, the affairs of the enterprise through a pattern of corrupt activity or the collection of an unlawful debt.\n\n(b) The person, through a pattern of corrupt activity or the collection of an unlawful debt, acquires or maintains, directly or indirectly, an interest in, or control of, an enterprise or real property.\n\n(c) The person knowingly has received proceeds derived, directly or indirectly, from a pattern of corrupt activity or the collection of an unlawful debt and the person uses or invests, directly or indirectly, a part of those proceeds, or proceeds derived from the use or investment of any of those proceeds, in the acquisition of title to, or a right, interest, or equity in, real property or the establishment or operation of an enterprise. A purchase of securities on the open market with intent to make an investment, without intent to control or participate in the control of the issuer, and without intent to assist another to do so is not an activity that constitutes \"engaging in a pattern of corrupt activity\" if the securities of the issuer held after the purchase by the purchaser, the members of the purchaser's immediate family, and the purchaser's or members' accomplices in any pattern of corrupt activity or the collection of an unlawful debt, do not aggregate one per cent of the outstanding securities of any one class of the issuer and do not confer, in law or in fact, the power to elect one or more directors of the issuer.",
+      "id": "177.01-organized-criminal-activity",
+      "normalized": "organized criminal activity",
+      "scope": "(E) As used in sections 177.01 to 177.03 of the Revised Code:",
+      "section": "177.01",
+      "source_title": "Section 177.01 - Organized crime investigations commission.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-177.01",
+      "term": "Organized criminal activity"
+    },
+    {
+      "definition": "(3) \"Pattern of corrupt activity\" means two or more incidents of corrupt activity, whether or not there has been a prior conviction, that are related to the affairs of the same enterprise, are not isolated, and are not so closely related to each other and connected in time and place that they constitute a single event. At least one of the incidents forming the pattern shall occur on or after September 3, 1986. Unless any incident was an aggravated murder or murder, the most recent of the incidents forming the pattern shall occur within six years after the commission of any prior incident forming the pattern, excluding any period of imprisonment served by any person engaging in the corrupt activity.\n\n(4) \"Corrupt activity,\" \"unlawful debt,\" \"enterprise,\" \"person,\" \"real property,\" and \"beneficial interest\" have the same meanings as in section 2923.31 of the Revised Code.",
+      "id": "177.01-pattern-of-corrupt-activity",
+      "normalized": "pattern of corrupt activity",
+      "scope": "(E) As used in sections 177.01 to 177.03 of the Revised Code:",
+      "section": "177.01",
+      "source_title": "Section 177.01 - Organized crime investigations commission.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-177.01",
+      "term": "Pattern of corrupt activity"
+    },
+    {
+      "definition": "(5) \"Minor drug possession offense\" has the same meaning as in section 2925.01 of the Revised Code.",
+      "id": "177.01-minor-drug-possession-offense",
+      "normalized": "minor drug possession offense",
+      "scope": "(E) As used in sections 177.01 to 177.03 of the Revised Code:",
+      "section": "177.01",
+      "source_title": "Section 177.01 - Organized crime investigations commission.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-177.01",
+      "term": "Minor drug possession offense"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "177.02",
+      "number": "177.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-177.02"
+    },
+    {
+      "kind": "section",
+      "label": "124.11",
+      "number": "124.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.11"
+    },
+    {
+      "kind": "section",
+      "label": "177.01",
+      "number": "177.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-177.01"
+    },
+    {
+      "kind": "section",
+      "label": "177.03",
+      "number": "177.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-177.03"
+    },
+    {
+      "kind": "section",
+      "label": "2925.03",
+      "number": "2925.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2925.03"
+    },
+    {
+      "kind": "section",
+      "label": "2925.04",
+      "number": "2925.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2925.04"
+    },
+    {
+      "kind": "section",
+      "label": "2925.05",
+      "number": "2925.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2925.05"
+    },
+    {
+      "kind": "section",
+      "label": "2925.06",
+      "number": "2925.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2925.06"
+    },
+    {
+      "kind": "section",
+      "label": "2925.11",
+      "number": "2925.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2925.11"
+    },
+    {
+      "kind": "section",
+      "label": "2921.01",
+      "number": "2921.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2921.01"
+    },
+    {
+      "kind": "section",
+      "label": "2923.31",
+      "number": "2923.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2923.31"
+    },
+    {
+      "kind": "section",
+      "label": "2925.01",
+      "number": "2925.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2925.01"
+    }
+  ],
+  "scraped": "2026-07-02T19:32:17+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-177.01",
+  "title": "Section 177.01 - Organized crime investigations commission."
+}

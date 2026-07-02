@@ -1,0 +1,76 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-3707
+Scraped: 2026-07-02T19:51:07+00:00
+
+# Chapter 3707 - Board of Health
+
+## Sections
+
+- Section 3707.01 - Powers of board - abatement of nuisances.
+- Section 3707.011 - Railroad rights-of-way to be kept free of dangerous refuse.
+- Section 3707.02 - Proceedings when order of board is neglected or disregarded.
+- Section 3707.021 - Injunctive relief.
+- Section 3707.03 - Correction of nuisance or unsanitary conditions on school property.
+- Section 3707.04 - Quarantine regulations.
+- Section 3707.05 - Board must secure approval of department of health in certain cases.
+- Section 3707.06 - Notice to be given of prevalence of infectious diseases.
+- Section 3707.07 - Complaint concerning prevalence of disease - inspection by health commissioner.
+- Section 3707.08 - Isolation of persons exposed to communicable disease - placarding of premises.
+- Section 3707.09 - Board may employ quarantine guards.
+- Section 3707.10 - Disinfection of house in which there has been a contagious disease.
+- Section 3707.11 - Application of quarantine or isolation orders.
+- Section 3707.12 - Destruction of infected property.
+- Section 3707.13 - Compensation for property destroyed.
+- Section 3707.14 - Maintenance of persons confined in quarantined house.
+- Section 3707.15 - Employer of illegal alien with contagious or infectious disease to pay expense caused by disease.
+- Section 3707.16 - Attendance at gatherings by quarantined person prohibited.
+- Section 3707.17 - Quarantine in place other than that of legal settlement.
+- Section 3707.18 - Expense of quarantining county public institution.
+- Section 3707.19 - Disposal of body of person who died of communicable disease.
+- Section 3707.20 - Admission of person suffering from a contagious or infectious disease to certain institutions.
+- Section 3707.21 - Disease in public institution - temporary building.
+- Section 3707.22 - Removal of affected or exposed persons from public institution to hospital.
+- Section 3707.23 - Examination of common carriers by board during quarantine.
+- Section 3707.24 - Prohibition against unfounded statements in examination.
+- Section 3707.25 - Application of quarantine rules to persons and goods on vehicles of transportation.
+- Section 3707.26 - Board shall inspect schools and may close them.
+- Section 3707.27 - Board may offer vaccination free or at reasonable charge - fee payable to state.
+- Section 3707.28 - Expenses of board - levy.
+- Section 3707.29 - Construction of hospital for contagious disease - bond issue.
+- Section 3707.30 - Care and control of hospital - removal of persons to hospital.
+- Section 3707.31 - Establishment of quarantine hospital.
+- Section 3707.32 - Erection of temporary buildings by board - destruction of property.
+- Section 3707.34 - Quarantine and isolation policies.
+- Section 3707.38 - Appointment, authority of inspectors.
+- Section 3707.39 - Employment of scavengers - approval for constructing, enlarging, or modifying solid waste facility.
+- Section 3707.40 - Sanitary plant defined.
+- Section 3707.41 - Municipal corporation may obtain plans and real estate for sanitary plant.
+- Section 3707.42 - Construction of sanitary plant - purposes.
+- Section 3707.43 - Contract for removal of waste substances - expense.
+- Section 3707.44 - Joint construction and use of sanitary plants.
+- Section 3707.45 - Appointment of sanitary board.
+- Section 3707.46 - Powers of sanitary board.
+- Section 3707.47 - Annual reports.
+- Section 3707.48 - Prohibition against violation of orders or regulations of board.
+- Section 3707.49 - Violation by a corporation - forfeiture.
+- Section 3707.50 - Warning concerning anabolic steroids to be conspicuously posted in athletic facility locker rooms.
+- Section 3707.51 - "Youth sports organization" defined.
+- Section 3707.511 - Concussion awareness, training and procedures in youth sports organizations.
+- Section 3707.52 - Concussion and head injury information sheet.
+- Section 3707.521 - Rules regarding assessment of athletes sustaining concussions or head injuries.
+- Section 3707.53 - Deposit for costs not required in prosecutions - fines.
+- Section 3707.54 - Order or regulation may apply only to specific persons.
+- Section 3707.55 - Acquisition or sale of real property.
+- Section 3707.57 - Bloodborne infectious disease prevention programs.
+- Section 3707.58 - Information regarding sudden cardiac arrest.
+- Section 3707.59 - Educational materials regarding sudden cardiac arrest.
+- Section 3707.60 - Protocols for dispensing epinephrine in certain health districts.
+- Section 3707.61 - Type 1 diabetes informational materials.
+- Section 3707.70 - Definitions for sections 3707.71 to 3707.77.
+- Section 3707.71 - Fetal infant mortality review board.
+- Section 3707.72 - Board members.
+- Section 3707.73 - Purpose.
+- Section 3707.74 - Production of documents and information.
+- Section 3707.75 - Confidentiality.
+- Section 3707.76 - Immunity from civil liability.
+- Section 3707.77 - Reporting.
+- Section 3707.99 - Penalty.

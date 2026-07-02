@@ -1,0 +1,64 @@
+{
+  "glossary": [
+    {
+      "definition": "(A)(1) \"Bus\" means any vehicle used for the transportation of passengers that meets at least one of the following:\n\n(a) Was originally designed by the manufacturer to transport more than fifteen passengers, including the driver;\n\n(b) Either the gross vehicle weight rating or the gross vehicle weight exceeds ten thousand pounds.",
+      "id": "4513.50-bus",
+      "normalized": "bus",
+      "scope": "As used in sections 4513.50 to 4513.53 of the Revised Code:",
+      "section": "4513.50",
+      "source_title": "Section 4513.50 - Bus safety definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4513.50",
+      "term": "Bus"
+    },
+    {
+      "definition": "(2) \"Bus\" does not include a church bus as defined in section 4503.07 of the Revised Code or a school bus unless the church bus or school bus is used in the transportation of passengers by a motor carrier.\n\n(3) \"Bus\" also does not include any of the following:\n\n(a) Any vehicle operated exclusively on a rail or rails;\n\n(b) A trolley bus operated by electric power derived from a fixed overhead wire furnishing local passenger transportation similar to street-railway service;\n\n(c) Vehicles owned or leased by government agencies or political subdivisions.",
+      "id": "4513.50-bus",
+      "normalized": "bus",
+      "scope": "As used in sections 4513.50 to 4513.53 of the Revised Code:",
+      "section": "4513.50",
+      "source_title": "Section 4513.50 - Bus safety definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4513.50",
+      "term": "Bus"
+    },
+    {
+      "definition": "(B) \"Motor carrier\" has the same meaning as in section 4923.01 of the Revised Code.",
+      "id": "4513.50-motor-carrier",
+      "normalized": "motor carrier",
+      "scope": "As used in sections 4513.50 to 4513.53 of the Revised Code:",
+      "section": "4513.50",
+      "source_title": "Section 4513.50 - Bus safety definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4513.50",
+      "term": "Motor carrier"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "4513.50",
+      "number": "4513.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.50"
+    },
+    {
+      "kind": "section",
+      "label": "4513.53",
+      "number": "4513.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.53"
+    },
+    {
+      "kind": "section",
+      "label": "4503.07",
+      "number": "4503.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.07"
+    },
+    {
+      "kind": "section",
+      "label": "4923.01",
+      "number": "4923.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4923.01"
+    }
+  ],
+  "scraped": "2026-07-02T20:05:41+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4513.50",
+  "title": "Section 4513.50 - Bus safety definitions."
+}

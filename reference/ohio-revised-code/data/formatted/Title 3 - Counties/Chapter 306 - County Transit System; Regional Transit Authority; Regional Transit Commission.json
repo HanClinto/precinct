@@ -1,0 +1,399 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 306.01 - Establishing county transit system.",
+      "number": "306.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.02 - Members of board, qualifications, terms.",
+      "number": "306.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.03 - Organization of county transit board.",
+      "number": "306.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.04 - Powers and duties of board.",
+      "number": "306.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.05 - Advancement of funds for county transit system.",
+      "number": "306.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.051 - Use of funds expended for social services as local match to obtain funds for transit system.",
+      "number": "306.051",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.051"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.06 - Agreements to provide transportation service.",
+      "number": "306.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.07 - Exempting revenue and income from taxation.",
+      "number": "306.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.08 - Acquiring publicly or privately owned transit system.",
+      "number": "306.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.09 - Issuing bonds.",
+      "number": "306.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.10 - Issuing refunding bonds.",
+      "number": "306.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.11 - Control over county transit system's revenue and funds.",
+      "number": "306.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.12 - Acquiring publicly or privately owned transit system - employee rights.",
+      "number": "306.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.13 - Exempting real and personal property from taxation.",
+      "number": "306.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.14 - Report on franchise agreements.",
+      "number": "306.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.30 - Regional transit authority definitions.",
+      "number": "306.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.301 - Resolution designating part of township member of regional transit authority.",
+      "number": "306.301",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.301"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.31 - Creating regional transit authority.",
+      "number": "306.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.32 - Resolution for creation of regional transit authority.",
+      "number": "306.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.321 - Inclusion of additional counties, municipal corporations, or townships in regional transit authority.",
+      "number": "306.321",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.321"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.322 - Additional provisions for joining additional counties, municipal corporations, or townships to the regional transit authority.",
+      "number": "306.322",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.322"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.33 - Appointment of board of trustees.",
+      "number": "306.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.331 - Board of trustees for joint county and municipal authority.",
+      "number": "306.331",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.331"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.34 - Power and authority of board of trustees.",
+      "number": "306.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.35 - Regional transit authority - powers and duties.",
+      "number": "306.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.351 - Purchase and operation of flexible joint bus.",
+      "number": "306.351",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.351"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.352 - Felony conviction precludes or terminates employment.",
+      "number": "306.352",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.352"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.353 - Authority to levy tax to fund construction or maintenance of roads or bridges related to provision of services by regional transit authority.",
+      "number": "306.353",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.353"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.354 - Scope of activities for certain regional transit authorities.",
+      "number": "306.354",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.354"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.36 - Power of eminent domain.",
+      "number": "306.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.37 - Issuing revenue bonds.",
+      "number": "306.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.38 - Trust agreement may secure revenue bonds.",
+      "number": "306.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.39 - Interest and maturity of revenue bonds.",
+      "number": "306.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.40 - Issuing general obligation bonds.",
+      "number": "306.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.41 - Income and profit from bonds exempt from taxation.",
+      "number": "306.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.42 - Secretary-treasurer of regional transit authority duties.",
+      "number": "306.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.43 - Contracts - competitive bidding.",
+      "number": "306.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.44 - Contracts with other governmental entities.",
+      "number": "306.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.45 - Officers and employees are eligible for public employees retirement system.",
+      "number": "306.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.46 - Counties and municipalities - powers not limited.",
+      "number": "306.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.47 - Appropriation for county funds for expenses.",
+      "number": "306.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.48 - Group insurance for officers and employees.",
+      "number": "306.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.49 - Annual tax levy.",
+      "number": "306.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.50 - Report on local spending on airports.",
+      "number": "306.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.51 - Conveyance, lease, or exchange of personal or real property.",
+      "number": "306.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.52 - Real and personal property exempt from taxation.",
+      "number": "306.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.53 - Cooperation with other governmental agencies.",
+      "number": "306.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.54 - Dissolution or modification in membership.",
+      "number": "306.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.55 - Withdrawal from regional transit authority.",
+      "number": "306.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.551 - Contract for transit services after withdrawal.",
+      "number": "306.551",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.551"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.70 - Resolution levying tax for regional transit purposes.",
+      "number": "306.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.71 - Election on question of decrease in tax rate.",
+      "number": "306.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.73 - Notice of change in transit system's territorial boundaries.",
+      "number": "306.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.80 - Agreement for regional system between governmental instrumentalities of adjacent states.",
+      "number": "306.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.80"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.81 - Adjacent states definitions.",
+      "number": "306.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.82 - Provisions to include in agreement.",
+      "number": "306.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.82"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.83 - Advancement or donation of money.",
+      "number": "306.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.83"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.84 - No property to be included in more than one regional commission.",
+      "number": "306.84",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.84"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.85 - Bonds are lawful investments.",
+      "number": "306.85",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.85"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.86 - Conveyance, lease, or exchange of personal or real property.",
+      "number": "306.86",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.86"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.87 - Real and personal property exempt from taxation.",
+      "number": "306.87",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.87"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.88 - Filing certified copy of agreement with county recorder.",
+      "number": "306.88",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.88"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.89 - Federal and state approval necessary.",
+      "number": "306.89",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.89"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.90 - Severability.",
+      "number": "306.90",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.90"
+    },
+    {
+      "kind": "section",
+      "label": "Section 306.99 - Penalty.",
+      "number": "306.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.99"
+    }
+  ],
+  "scraped": "2026-07-02T19:32:38+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-306",
+  "title": "Chapter 306 - County Transit System; Regional Transit Authority; Regional Transit Commission"
+}

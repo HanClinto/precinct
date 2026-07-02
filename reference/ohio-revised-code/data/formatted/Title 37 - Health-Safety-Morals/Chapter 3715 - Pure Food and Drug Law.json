@@ -1,0 +1,519 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 3715.01 - Pure food and drug law definitions.",
+      "number": "3715.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.011 - Effect of changes to federal law.",
+      "number": "3715.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.011"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.02 - Definitions for food or class of food and standards.",
+      "number": "3715.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.021 - Standards and good manufacturing practices for food processing establishments.",
+      "number": "3715.021",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.021"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.022 - Standards for food sampling and procedures for administration.",
+      "number": "3715.022",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.022"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.023 - Labels for cottage food production operation, processor, or beekeeper.",
+      "number": "3715.023",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.023"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.024 - Voluntary inspection of processor's or beekeeper's facilities.",
+      "number": "3715.024",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.024"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.025 - Restrictions on cottage food production operation.",
+      "number": "3715.025",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.025"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.03 - Right of entry.",
+      "number": "3715.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.04 - Certificate of health and freesale - inspection - fee.",
+      "number": "3715.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.041 - Registration of food processing establishments.",
+      "number": "3715.041",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.041"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.05 - Sale of pseudoephedrine or ephedrine product.",
+      "number": "3715.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.051 - Log of all purchases of pseudoephedrine or ephedrine products.",
+      "number": "3715.051",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.051"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.052 - Submission of information regarding non-prescription sales of pseudoephedrine or ephedrine products.",
+      "number": "3715.052",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.052"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.053 - Exemptions.",
+      "number": "3715.053",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.053"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.054 - Liability for damages due to sale of pseudoephedrine or ephedrine products.",
+      "number": "3715.054",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.054"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.06 - Discovery of theft or loss of pseudoephedrine product.",
+      "number": "3715.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.07 - Standards for flavoring extracts.",
+      "number": "3715.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.13 - Sale of diphtheria antitoxin.",
+      "number": "3715.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.171 - Date labels for perishable foods.",
+      "number": "3715.171",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.171"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.22 - Prohibition against slaughter or sale for human consumption of calf less than four weeks old - confiscation of carcass.",
+      "number": "3715.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.23 - Manufacture and sale of adulterated candy - sample for analysis.",
+      "number": "3715.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.24 - Maple product standards and grades.",
+      "number": "3715.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.25 - Prohibited acts regarding maple products.",
+      "number": "3715.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.27 - Cider manufacturing and labeling.",
+      "number": "3715.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.28 - Vinegar.",
+      "number": "3715.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.29 - Cider or apple vinegar.",
+      "number": "3715.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.30 - Wine or grape vinegar.",
+      "number": "3715.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.31 - Malt vinegar.",
+      "number": "3715.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.32 - Distilled vinegar.",
+      "number": "3715.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.33 - Fermented vinegar.",
+      "number": "3715.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.34 - [Former R.C. 3715.36, amended and renumbered by H.B. 507, 134th General Assembly, effective 4/7/2023] Prohibition against selling vinegar not made or branded in compliance with law.",
+      "number": "3715.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.38 - Prohibitions regarding honey.",
+      "number": "3715.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.50 - Overdose reversal drugs definitions.",
+      "number": "3715.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.501 - Overdose reversal drugs prescribed or furnished without examination.",
+      "number": "3715.501",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.501"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.502 - [Former R.C. 4729.44, amended and renumbered by H.B. 558, 134th General Assembly, effective 4/6/2023] Protocols authorizing pharmacists, pharmacy interns to dispense overdose reversal drugs.",
+      "number": "3715.502",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.502"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.503 - Protocols to authorize personally furnishing overdose reversal drugs.",
+      "number": "3715.503",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.503"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.504 - Administering overdose reversal drugs.",
+      "number": "3715.504",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.504"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.505 - [Former R.C. 4765.44, amended and renumbered by H.B. 558, 134th General Assembly, effective 4/6/2023] Disclosure to law enforcement agency related to administration of overdose reversal drug.",
+      "number": "3715.505",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.505"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.52 - Prohibited acts.",
+      "number": "3715.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.521 - Prohibition against sale or delivery of expired drug, infant formula or baby food.",
+      "number": "3715.521",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.521"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.53 - Injunctions.",
+      "number": "3715.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.54 - Exceptions to liability.",
+      "number": "3715.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.55 - Notice of adulteration, misbranding, or expiration.",
+      "number": "3715.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.551 - Embargo of food.",
+      "number": "3715.551",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.551"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.56 - Attorney general, prosecuting attorney or city director of law to institute proceedings and prosecutions.",
+      "number": "3715.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.57 - Written notice or warning for minor violations sufficient.",
+      "number": "3715.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.59 - When food is adulterated.",
+      "number": "3715.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.60 - Misbranded food.",
+      "number": "3715.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.601 - Definitions.",
+      "number": "3715.601",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.601"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.602 - Misbranding of meat and egg products.",
+      "number": "3715.602",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.602"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.603 - Inspection.",
+      "number": "3715.603",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.603"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.604 - Notice of adulteration, misbranding, or expiration.",
+      "number": "3715.604",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.604"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.605 - Civil penalties.",
+      "number": "3715.605",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.605"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.61 - Director of agriculture - powers regarding permits.",
+      "number": "3715.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.62 - Unsafe food.",
+      "number": "3715.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.63 - When drug or device is adulterated.",
+      "number": "3715.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.64 - Misbranded drug or device.",
+      "number": "3715.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.65 - Application for new drug required.",
+      "number": "3715.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.66 - Adulterated cosmetics.",
+      "number": "3715.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.67 - Misbranded cosmetics.",
+      "number": "3715.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.67"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.68 - False or misleading advertisement.",
+      "number": "3715.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.68"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.69 - Adoption of rules for enforcement.",
+      "number": "3715.69",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.69"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.70 - Right of entry - examination of samples.",
+      "number": "3715.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.71 - Publication of reports - dissemination of information.",
+      "number": "3715.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.72 - Administrative procedure - exceptions.",
+      "number": "3715.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.73 - Fines or forfeited bonds to be paid into state treasury.",
+      "number": "3715.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.74 - Governor may declare adulterated consumer product emergency.",
+      "number": "3715.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.74"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.80 - Dietary supplement defined.",
+      "number": "3715.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.80"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.81 - Dietary supplement to be treated as a food.",
+      "number": "3715.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.82 - Adoption of rules.",
+      "number": "3715.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.82"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.83 - Dietary supplement considered to be adulterated.",
+      "number": "3715.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.83"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.84 - Requirements for labeling - misbranding.",
+      "number": "3715.84",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.84"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.85 - Publication used in connection with sale to consumers of dietary supplement.",
+      "number": "3715.85",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.85"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.86 - Dietary supplement not considered food additive.",
+      "number": "3715.86",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.86"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.87 - Drug repository program for donated prescription drugs - definitions.",
+      "number": "3715.87",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.87"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.871 - Drugs must be donated at pharmacy, hospital, or nonprofit clinic participating in program.",
+      "number": "3715.871",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.871"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.872 - Immunity.",
+      "number": "3715.872",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.872"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.873 - Adoption of rules.",
+      "number": "3715.873",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.873"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.88 - Dangerous drug donation definitions.",
+      "number": "3715.88",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.88"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.89 - Dangerous drug donation requirements.",
+      "number": "3715.89",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.89"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.90 - Pharmacy school acceptance of dangerous drug donations.",
+      "number": "3715.90",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.90"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.91 - Dangerous drug donation implementing rules.",
+      "number": "3715.91",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.91"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.92 - Immunity of pharmacy school accepting dangerous drugs.",
+      "number": "3715.92",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.92"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3715.99 - Penalty.",
+      "number": "3715.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.99"
+    }
+  ],
+  "scraped": "2026-07-02T19:51:23+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-3715",
+  "title": "Chapter 3715 - Pure Food and Drug Law"
+}

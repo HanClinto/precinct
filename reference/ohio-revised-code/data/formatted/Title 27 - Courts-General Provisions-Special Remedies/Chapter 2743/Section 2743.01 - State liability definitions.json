@@ -1,0 +1,108 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"State\" means the state of Ohio, including, but not limited to, the general assembly, the supreme court, the offices of all elected state officers, and all departments, boards, offices, commissions, agencies, institutions, and other instrumentalities of the state. \"State\" does not include political subdivisions.",
+      "id": "2743.01-state",
+      "normalized": "state",
+      "scope": "As used in this chapter:",
+      "section": "2743.01",
+      "source_title": "Section 2743.01 - State liability definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2743.01",
+      "term": "State"
+    },
+    {
+      "definition": "(B) \"Political subdivisions\" means municipal corporations, townships, counties, school districts, and all other bodies corporate and politic responsible for governmental activities only in geographic areas smaller than that of the state to which the sovereign immunity of the state attaches.",
+      "id": "2743.01-political-subdivisions",
+      "normalized": "political subdivisions",
+      "scope": "As used in this chapter:",
+      "section": "2743.01",
+      "source_title": "Section 2743.01 - State liability definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2743.01",
+      "term": "Political subdivisions"
+    },
+    {
+      "definition": "(C) \"Claim for an award of reparations\" or \"claim\" means a claim for an award of reparations made under sections 2743.51 to 2743.72 of the Revised Code.",
+      "id": "2743.01-claim-for-an-award-of-reparations",
+      "normalized": "claim for an award of reparations",
+      "scope": "As used in this chapter:",
+      "section": "2743.01",
+      "source_title": "Section 2743.01 - State liability definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2743.01",
+      "term": "Claim for an award of reparations"
+    },
+    {
+      "definition": "(C) \"Claim for an award of reparations\" or \"claim\" means a claim for an award of reparations made under sections 2743.51 to 2743.72 of the Revised Code.",
+      "id": "2743.01-claim",
+      "normalized": "claim",
+      "scope": "As used in this chapter:",
+      "section": "2743.01",
+      "source_title": "Section 2743.01 - State liability definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2743.01",
+      "term": "claim"
+    },
+    {
+      "definition": "(D) \"Award of reparations\" or \"award\" means an award made under sections 2743.51 to 2743.72 of the Revised Code.",
+      "id": "2743.01-award-of-reparations",
+      "normalized": "award of reparations",
+      "scope": "As used in this chapter:",
+      "section": "2743.01",
+      "source_title": "Section 2743.01 - State liability definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2743.01",
+      "term": "Award of reparations"
+    },
+    {
+      "definition": "(D) \"Award of reparations\" or \"award\" means an award made under sections 2743.51 to 2743.72 of the Revised Code.",
+      "id": "2743.01-award",
+      "normalized": "award",
+      "scope": "As used in this chapter:",
+      "section": "2743.01",
+      "source_title": "Section 2743.01 - State liability definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2743.01",
+      "term": "award"
+    },
+    {
+      "definition": "(E)(1) \"Public duty\" includes, but is not limited to, any statutory, regulatory, or assumed duty concerning any action or omission of the state involving any of the following:\n\n(a) Permitting, certifying, licensing, inspecting, investigating, supervising, regulating, auditing, monitoring, law enforcement, emergency response activity, or compromising claims;\n\n(b) Supervising, rehabilitating, or liquidating corporations or other business entities.",
+      "id": "2743.01-public-duty",
+      "normalized": "public duty",
+      "scope": "As used in this chapter:",
+      "section": "2743.01",
+      "source_title": "Section 2743.01 - State liability definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2743.01",
+      "term": "Public duty"
+    },
+    {
+      "definition": "(2) \"Public duty\" does not include any action of the state under circumstances in which a special relationship can be established between the state and an injured party as provided in division (A)(3) of section 2743.02 of the Revised Code.\n\nLast updated August 9, 2021 at 11:24 AM",
+      "id": "2743.01-public-duty",
+      "normalized": "public duty",
+      "scope": "As used in this chapter:",
+      "section": "2743.01",
+      "source_title": "Section 2743.01 - State liability definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2743.01",
+      "term": "Public duty"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2743.51",
+      "number": "2743.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2743.51"
+    },
+    {
+      "kind": "section",
+      "label": "2743.72",
+      "number": "2743.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2743.72"
+    },
+    {
+      "kind": "section",
+      "label": "2743.02",
+      "number": "2743.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2743.02"
+    }
+  ],
+  "scraped": "2026-07-02T19:45:43+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2743.01",
+  "title": "Section 2743.01 - State liability definitions."
+}

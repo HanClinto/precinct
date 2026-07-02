@@ -1,0 +1,22 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3377.01
+Scraped: 2026-07-02T19:50:35+00:00
+
+# Section 3377.01 - Ohio higher educational facility commission definitions.
+
+**Effective:** September 26, 2003
+
+**Latest Legislation:** House Bill 95 - 125th General Assembly
+
+As used in Chapter 3377. of the Revised Code:
+
+(A) "Educational institution" or "institution" means an educational institution organized not for profit and holding an effective certificate of authorization issued under section 1713.02 of the Revised Code. It does not include any institution created by or in accordance with Title XXXIII of the Revised Code nor any institution whose principal educational activity is preparing students for or granting degrees, diplomas, and other marks of deficiency which have value only in religious and ecclesiastical fields.
+
+(B) "Educational facility" or "facility" means any building, structure, facility, equipment, machinery, utility, or improvement, site, or other interest in real estate therefor or pertinent thereto, and equipment and furnishings to be used therein or in connection therewith, together with any appurtenances necessary or convenient to the uses thereof, to be used for or in connection with the conduct or operation of an educational institution, including but not limited to, classrooms and other instructional facilities, laboratories, research facilities, libraries, study facilities, administrative and office facilities, museums, gymnasiums, campus walks, drives and site improvements, dormitories and other suitable living quarters or accommodations, dining halls and other food service and preparation facilities, student services or activity facilities, physical education, athletic and recreational facilities, theatres, auditoriums, assembly and exhibition halls, greenhouses, agricultural buildings and facilities, parking, storage and maintenance facilities, infirmary, hospital, medical, and health facilities, continuing education facilities, communications, fire prevention, and fire fighting facilities, and any one, or any combination of the foregoing, whether or not comprising part of one building, structure, or facility. It does not include any facility used exclusively as a place for devotional activities.
+
+(C) "Bond proceedings" means the resolution or resolutions, the trust agreement, the indenture of mortgage, or combination thereof authorizing or providing for the terms and conditions applicable to bonds issued under authority of Chapter 3377. of the Revised Code.
+
+(D) "Pledged facilities" means the project or other property that is mortgaged or the rentals, revenues, and other income, charges, and moneys from which are pledged, or both, for the payment of or the security for the payment of the principal of and interest on the bonds issued under the authority of section 3377.05 or 3377.06 of the Revised Code.
+
+(E) "Project" means real or personal property, or both, acquired by gift or purchase, constructed, reconstructed, enlarged, remodeled, renovated, improved, furnished, or equipped, or any combination thereof, by or financed by the Ohio higher educational facility commission, or by funds that are refinanced or reimbursed by the commission for use by an educational institution as an educational facility located within the state.
+
+(F) "Project costs" means the costs of acquiring, constructing, equipping, furnishing, reconstructing, remodeling, renovating, enlarging, and improving educational facilities comprising one or more project, including costs connected with or incidental thereto, provision of capitalized interest prior to and during construction and for a period after the completion of the construction, appropriate reserves, architectural, engineering, financial, and legal services, and all other costs of financing, and the repayment or restoration of moneys borrowed or advanced for such purposes or temporarily used therefor from other sources, and means the costs of refinancing obligations issued or loans incurred by, or reimbursement of money advanced, invested or expended by, educational institutions or others the proceeds of which obligations or loans or the amounts advanced, invested or expended were used at any time for the payment of project costs, if the Ohio higher educational facility commission determines that the refinancing or reimbursement advances the purposes of this chapter, whether or not the refinancing or reimbursement is in conjunction with the acquisition or construction of additional educational facilities.

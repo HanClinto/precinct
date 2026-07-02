@@ -1,0 +1,20 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-2923.24
+Scraped: 2026-07-02T19:46:23+00:00
+
+# Section 2923.24 - Possessing criminal tools.
+
+**Effective:** July 1, 1996
+
+**Latest Legislation:** Senate Bill 2 - 121st General Assembly
+
+(A) No person shall possess or have under the person's control any substance, device, instrument, or article, with purpose to use it criminally.
+
+(B) Each of the following constitutes prima-facie evidence of criminal purpose:
+
+(1) Possession or control of any dangerous ordnance, or the materials or parts for making dangerous ordnance, in the absence of circumstances indicating the dangerous ordnance, materials, or parts are intended for legitimate use;
+
+(2) Possession or control of any substance, device, instrument, or article designed or specially adapted for criminal use;
+
+(3) Possession or control of any substance, device, instrument, or article commonly used for criminal purposes, under circumstances indicating the item is intended for criminal use.
+
+(C) Whoever violates this section is guilty of possessing criminal tools. Except as otherwise provided in this division, possessing criminal tools is a misdemeanor of the first degree. If the circumstances indicate that the substance, device, instrument, or article involved in the offense was intended for use in the commission of a felony, possessing criminal tools is a felony of the fifth degree.

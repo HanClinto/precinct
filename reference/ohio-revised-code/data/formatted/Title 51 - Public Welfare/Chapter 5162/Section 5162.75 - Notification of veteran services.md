@@ -1,0 +1,12 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5162.75
+Scraped: 2026-07-02T20:11:21+00:00
+
+# Section 5162.75 - Notification of veteran services.
+
+**Effective:** September 13, 2022
+
+**Latest Legislation:** Senate Bill 160 - 134th General Assembly
+
+The medicaid director shall provide, to a veteran who has submitted an application for the medicaid program, information about the county veterans service office that can assist with investigating and applying for benefits through the United States department of veterans affairs. As used in this section, "veteran" has the same meaning as in section 5901.01 of the Revised Code.
+
+Last updated October 20, 2022 at 4:52 PM

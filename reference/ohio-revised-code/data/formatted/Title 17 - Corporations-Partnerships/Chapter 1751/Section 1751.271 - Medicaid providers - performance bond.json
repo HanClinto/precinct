@@ -1,0 +1,52 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Contracted provider\" means a provider that has a contract with a medicaid health insuring corporation to provide covered health care services to medicaid recipients.",
+      "id": "1751.271-contracted-provider",
+      "normalized": "contracted provider",
+      "scope": "(D) As used in this section:",
+      "section": "1751.271",
+      "source_title": "Section 1751.271 - Medicaid providers - performance bond.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1751.271",
+      "term": "Contracted provider"
+    },
+    {
+      "definition": "(2) \"Medicaid health insuring corporation\" means a health insuring corporation that provides health insurance coverage or otherwise assumes claims liabilities for medicaid recipients.",
+      "id": "1751.271-medicaid-health-insuring-corporation",
+      "normalized": "medicaid health insuring corporation",
+      "scope": "(D) As used in this section:",
+      "section": "1751.271",
+      "source_title": "Section 1751.271 - Medicaid providers - performance bond.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1751.271",
+      "term": "Medicaid health insuring corporation"
+    },
+    {
+      "definition": "(3) \"Medicaid recipient\" means a person enrolled in the medicaid program.",
+      "id": "1751.271-medicaid-recipient",
+      "normalized": "medicaid recipient",
+      "scope": "(D) As used in this section:",
+      "section": "1751.271",
+      "source_title": "Section 1751.271 - Medicaid providers - performance bond.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1751.271",
+      "term": "Medicaid recipient"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3903.14",
+      "number": "3903.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.14"
+    },
+    {
+      "kind": "section",
+      "label": "3903.421",
+      "number": "3903.421",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.421"
+    }
+  ],
+  "scraped": "2026-07-02T19:39:28+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1751.271",
+  "title": "Section 1751.271 - Medicaid providers - performance bond."
+}

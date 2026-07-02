@@ -1,0 +1,54 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Rural hospital\" means a hospital agency, as defined in section 140.01 of the Revised Code, that meets all of the following criteria:\n\n(a) Is in compliance with Chapter 3722. of the Revised Code;\n\n(b) Is located in a county that has a population of less than one hundred twenty-five thousand.",
+      "id": "4731.31-rural-hospital",
+      "normalized": "rural hospital",
+      "scope": "(A) As used in this section:",
+      "section": "4731.31",
+      "source_title": "Section 4731.31 - Rural hospital may employ a physician.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4731.31",
+      "term": "Rural hospital"
+    },
+    {
+      "definition": "(2) \"Physician\" means an individual authorized under Chapter 4731. of the Revised Code to practice medicine and surgery, osteopathic medicine and surgery, or podiatric medicine and surgery.\n\n(B) Subject to division (C) of this section, a rural hospital or a health care facility that is owned or operated by a rural hospital may employ a physician. A hospital or facility that employs a physician in accordance with this section is not engaged in the practice of medicine and surgery, osteopathic medicine and surgery, or podiatric medicine and surgery in violation of section 4731.41 , 4731.43 , or 4731.60 of the Revised Code.\n\n(C) No rural hospital or health care facility owned or operated by a rural hospital shall do either of the following:\n\n(1) Control the professional clinical judgment exercised within accepted and prevailing standards of practice of a physician employed pursuant to this section in rendering care, treatment, or professional advice to an individual patient;\n\n(2) Require that a physician be employed by the hospital or facility as a condition of granting the physician privileges to practice within the hospital or facility.\n\nLast updated September 30, 2024 at 4:27 AM",
+      "id": "4731.31-physician",
+      "normalized": "physician",
+      "scope": "(A) As used in this section:",
+      "section": "4731.31",
+      "source_title": "Section 4731.31 - Rural hospital may employ a physician.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4731.31",
+      "term": "Physician"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "140.01",
+      "number": "140.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-140.01"
+    },
+    {
+      "kind": "section",
+      "label": "4731.41",
+      "number": "4731.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.41"
+    },
+    {
+      "kind": "section",
+      "label": "4731.43",
+      "number": "4731.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.43"
+    },
+    {
+      "kind": "section",
+      "label": "4731.60",
+      "number": "4731.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.60"
+    }
+  ],
+  "scraped": "2026-07-02T20:07:04+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4731.31",
+  "title": "Section 4731.31 - Rural hospital may employ a physician."
+}

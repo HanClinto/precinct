@@ -1,0 +1,12 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5575.10
+Scraped: 2026-07-02T20:13:56+00:00
+
+# Section 5575.10 - Maintenance and repair fund.
+
+**Effective:** October 29, 1975
+
+**Latest Legislation:** Senate Bill 124 - 111th General Assembly
+
+After the annual estimate for each township has been filed with the board of township trustees by the county engineer, such board may increase or reduce the amount of any items contained in the estimate, and at its first meeting after such estimate is filed the board shall make its levies for the purposes set forth in the estimate and for creating a fund for dragging, maintenance, and repair of roads, upon all the taxable property of the township outside of any municipal corporation or part thereof, not exceeding, in the aggregate, three mills in any one year upon each dollar of the valuation of such property. Such levies shall be in addition to all other levies authorized for township purposes, and subject only to the limitation upon the combined maximum rate for taxes now in force. This section does not prevent the expenditures of any portion of the regular levy of two mills for township purposes, but is in addition thereto. The board shall provide annually by taxation, under this section or under section 5573.13 of the Revised Code, or under both, an adequate fund for the maintenance and repair of township roads.
+
+The maintenance and repair fund so provided shall not be less than one hundred dollars for each mile of improved township road and twenty dollars for each mile of unimproved township road. Such levies for maintenance and repair purposes shall be separately set forth in the annual budget of the board presented to the budget commission, and the maintenance and repair levies made by the board, pursuant to this section, shall be preferred levies as against any others made for township road purposes by the board. Should the budget commission of any county be unable to allow all of the road levies made by the board, such reductions as are necessary shall be first made in levies other than for maintenance and repair purposes made under this section. The fund produced by such levies for maintenance and repair purposes shall be subject to transfer, in the manner provided in sections 5705.15 and 5705.16 of the Revised Code. This section does not prevent the board from using any other available road funds for the maintenance and repair of township roads.

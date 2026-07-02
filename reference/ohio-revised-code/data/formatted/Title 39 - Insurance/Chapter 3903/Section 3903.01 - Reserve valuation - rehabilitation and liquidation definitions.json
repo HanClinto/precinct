@@ -1,0 +1,398 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Admitted assets\" means investment in assets which will be admitted by the superintendent of insurance pursuant to the law of this state.",
+      "id": "3903.01-admitted-assets",
+      "normalized": "admitted assets",
+      "scope": "As used in sections 3903.01 to 3903.59 of the Revised Code:",
+      "section": "3903.01",
+      "source_title": "Section 3903.01 - Reserve valuation - rehabilitation and liquidation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3903.01",
+      "term": "Admitted assets"
+    },
+    {
+      "definition": "(B) \"Affiliate\" has the same meaning as \"affiliate of\" or \"affiliated with,\" as defined in section 3901.32 of the Revised Code.",
+      "id": "3903.01-affiliate",
+      "normalized": "affiliate",
+      "scope": "As used in sections 3903.01 to 3903.59 of the Revised Code:",
+      "section": "3903.01",
+      "source_title": "Section 3903.01 - Reserve valuation - rehabilitation and liquidation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3903.01",
+      "term": "Affiliate"
+    },
+    {
+      "definition": "(C) \"Assets\" means all property, real and personal, of every nature and kind whatsoever or any interest therein.",
+      "id": "3903.01-assets",
+      "normalized": "assets",
+      "scope": "As used in sections 3903.01 to 3903.59 of the Revised Code:",
+      "section": "3903.01",
+      "source_title": "Section 3903.01 - Reserve valuation - rehabilitation and liquidation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3903.01",
+      "term": "Assets"
+    },
+    {
+      "definition": "(D) \"Ancillary state\" means any state other than a domiciliary state.",
+      "id": "3903.01-ancillary-state",
+      "normalized": "ancillary state",
+      "scope": "As used in sections 3903.01 to 3903.59 of the Revised Code:",
+      "section": "3903.01",
+      "source_title": "Section 3903.01 - Reserve valuation - rehabilitation and liquidation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3903.01",
+      "term": "Ancillary state"
+    },
+    {
+      "definition": "(E) \"Commodity contract\" means any of the following:\n\n(1) A contract for the purchase or sale of a commodity for future delivery on, or subject to the rules of, a board of trade designated as a contract market by the commodity futures trading commission under the \"Commodity Exchange Act,\" 7 U.S.C. 1 et seq., as amended, or a board of trade outside the United States;\n\n(2) An agreement that is subject to regulation under section 19 of the \"Commodity Exchange Act,\" 7 U.S.C. 23, as amended, and that is commonly known to the commodities trade as a margin account, margin contract, leverage account, or leverage contract;\n\n(3) An agreement or transaction that is subject to regulation under section 4c(b) of the \"Commodity Exchange Act,\" 7 U.S.C. 6c(b), as amended, and that is commonly known to the commodities trade as a commodity option;\n\n(4) Any combination of agreements or transactions described in division (E) of this section;\n\n(5) Any option to enter into an agreement or transaction described in division (E) of this section.",
+      "id": "3903.01-commodity-contract",
+      "normalized": "commodity contract",
+      "scope": "As used in sections 3903.01 to 3903.59 of the Revised Code:",
+      "section": "3903.01",
+      "source_title": "Section 3903.01 - Reserve valuation - rehabilitation and liquidation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3903.01",
+      "term": "Commodity contract"
+    },
+    {
+      "definition": "(F) \"Creditor\" means a person having any claim, whether matured or unmatured, liquidated or unliquidated, secured or unsecured, absolute, fixed, or contingent.",
+      "id": "3903.01-creditor",
+      "normalized": "creditor",
+      "scope": "As used in sections 3903.01 to 3903.59 of the Revised Code:",
+      "section": "3903.01",
+      "source_title": "Section 3903.01 - Reserve valuation - rehabilitation and liquidation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3903.01",
+      "term": "Creditor"
+    },
+    {
+      "definition": "(G) \"Delinquency proceeding\" means any proceeding commenced against an insurer for the purpose of liquidating, rehabilitating, reorganizing, or conserving the insurer, and any summary proceeding under section 3903.09 or 3903.10 of the Revised Code. \"Formal delinquency proceeding\" means any liquidation or rehabilitation proceeding.",
+      "id": "3903.01-delinquency-proceeding",
+      "normalized": "delinquency proceeding",
+      "scope": "As used in sections 3903.01 to 3903.59 of the Revised Code:",
+      "section": "3903.01",
+      "source_title": "Section 3903.01 - Reserve valuation - rehabilitation and liquidation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3903.01",
+      "term": "Delinquency proceeding"
+    },
+    {
+      "definition": "(H) \"Doing business\" includes any of the following acts, whether effected by mail or otherwise:\n\n(1) The issuance or delivery of contracts of insurance to persons resident in this state;\n\n(2) The solicitation of applications for such contracts, or other negotiations preliminary to the execution of such contracts;\n\n(3) The collection of premiums, membership fees, assessments, or other consideration for such contracts;\n\n(4) The transaction of matters subsequent to execution of such contracts and arising out of them;\n\n(5) Operating under a license or certificate of authority, as an insurer, issued by the department of insurance.",
+      "id": "3903.01-doing-business",
+      "normalized": "doing business",
+      "scope": "As used in sections 3903.01 to 3903.59 of the Revised Code:",
+      "section": "3903.01",
+      "source_title": "Section 3903.01 - Reserve valuation - rehabilitation and liquidation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3903.01",
+      "term": "Doing business"
+    },
+    {
+      "definition": "(I) \"Domiciliary state\" means the state in which an insurer is incorporated or organized, or, in the case of an alien insurer, its state of entry.\n\n(J) \"Fair consideration\" is given for property or obligation when either of the following apply:\n\n(1) When in exchange for such property or obligation, as a fair equivalent therefor, and in good faith, property is conveyed, services are rendered, an obligation is incurred, or an antecedent debt is satisfied;\n\n(2) When such property or obligation is received in good faith to secure a present advance or antecedent debt in an amount not disproportionately small as compared to the value of the property or obligation obtained.",
+      "id": "3903.01-domiciliary-state",
+      "normalized": "domiciliary state",
+      "scope": "As used in sections 3903.01 to 3903.59 of the Revised Code:",
+      "section": "3903.01",
+      "source_title": "Section 3903.01 - Reserve valuation - rehabilitation and liquidation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3903.01",
+      "term": "Domiciliary state"
+    },
+    {
+      "definition": "(K) \"Federal home loan bank\" means an institution chartered under the \"Federal Home Loan Bank Act of 1932,\" 12 U.S.C. 1421, et seq.",
+      "id": "3903.01-federal-home-loan-bank",
+      "normalized": "federal home loan bank",
+      "scope": "As used in sections 3903.01 to 3903.59 of the Revised Code:",
+      "section": "3903.01",
+      "source_title": "Section 3903.01 - Reserve valuation - rehabilitation and liquidation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3903.01",
+      "term": "Federal home loan bank"
+    },
+    {
+      "definition": "(L) \"Foreign country\" means any other jurisdiction not in any state.",
+      "id": "3903.01-foreign-country",
+      "normalized": "foreign country",
+      "scope": "As used in sections 3903.01 to 3903.59 of the Revised Code:",
+      "section": "3903.01",
+      "source_title": "Section 3903.01 - Reserve valuation - rehabilitation and liquidation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3903.01",
+      "term": "Foreign country"
+    },
+    {
+      "definition": "(M) \"Forward contract\" has the same meaning as in the federal \"Deposit Insurance Act,\" 64 Stat. 884, 12 U.S.C. 1821(e)(8)(D), as now and hereafter amended.",
+      "id": "3903.01-forward-contract",
+      "normalized": "forward contract",
+      "scope": "As used in sections 3903.01 to 3903.59 of the Revised Code:",
+      "section": "3903.01",
+      "source_title": "Section 3903.01 - Reserve valuation - rehabilitation and liquidation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3903.01",
+      "term": "Forward contract"
+    },
+    {
+      "definition": "(N) \"Guaranty association\" means the Ohio insurance guaranty association created by section 3955.06 of the Revised Code and any other similar entity hereafter created by the general assembly for the payment of claims of insolvent insurers. \"Foreign guaranty association\" means any similar entities now in existence in or hereafter created by the legislature of any other state.",
+      "id": "3903.01-guaranty-association",
+      "normalized": "guaranty association",
+      "scope": "As used in sections 3903.01 to 3903.59 of the Revised Code:",
+      "section": "3903.01",
+      "source_title": "Section 3903.01 - Reserve valuation - rehabilitation and liquidation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3903.01",
+      "term": "Guaranty association"
+    },
+    {
+      "definition": "(O) \"Insolvency\" or \"insolvent\" means:\n\n(1) For an insurer issuing only assessable fire insurance policies either of the following:\n\n(a) The inability to pay any obligation within thirty days after it becomes payable;\n\n(b) If an assessment is made within thirty days after such date, the inability to pay the obligation thirty days following the date specified in the first assessment notice issued after the date of loss.\n\n(2) For any other insurer, that it is unable to pay its obligations when they are due, or when its admitted assets do not exceed its liabilities plus the greater of either of the following:\n\n(a) Any capital and surplus required by law for its organization;\n\n(b) The total par or stated value of its authorized and issued capital stock.",
+      "id": "3903.01-insolvency",
+      "normalized": "insolvency",
+      "scope": "As used in sections 3903.01 to 3903.59 of the Revised Code:",
+      "section": "3903.01",
+      "source_title": "Section 3903.01 - Reserve valuation - rehabilitation and liquidation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3903.01",
+      "term": "Insolvency"
+    },
+    {
+      "definition": "(O) \"Insolvency\" or \"insolvent\" means:\n\n(1) For an insurer issuing only assessable fire insurance policies either of the following:\n\n(a) The inability to pay any obligation within thirty days after it becomes payable;\n\n(b) If an assessment is made within thirty days after such date, the inability to pay the obligation thirty days following the date specified in the first assessment notice issued after the date of loss.\n\n(2) For any other insurer, that it is unable to pay its obligations when they are due, or when its admitted assets do not exceed its liabilities plus the greater of either of the following:\n\n(a) Any capital and surplus required by law for its organization;\n\n(b) The total par or stated value of its authorized and issued capital stock.",
+      "id": "3903.01-insolvent",
+      "normalized": "insolvent",
+      "scope": "As used in sections 3903.01 to 3903.59 of the Revised Code:",
+      "section": "3903.01",
+      "source_title": "Section 3903.01 - Reserve valuation - rehabilitation and liquidation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3903.01",
+      "term": "insolvent"
+    },
+    {
+      "definition": "(3) As to any insurer licensed to do business in this state as of the effective date of sections 3903.01 to 3903.59 of the Revised Code that does not meet the standard established under division (O)(2) of this section, the term \"insolvency\" or \"insolvent\" means, for a period not to exceed three years from the effective date of sections 3903.01 to 3903.59 of the Revised Code, that it is unable to pay its obligations when they are due or that its admitted assets do not exceed its liabilities plus any required capital contribution ordered by the superintendent under provisions of Title XXXIX of the Revised Code.",
+      "id": "3903.01-insolvency",
+      "normalized": "insolvency",
+      "scope": "As used in sections 3903.01 to 3903.59 of the Revised Code:",
+      "section": "3903.01",
+      "source_title": "Section 3903.01 - Reserve valuation - rehabilitation and liquidation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3903.01",
+      "term": "insolvency"
+    },
+    {
+      "definition": "(3) As to any insurer licensed to do business in this state as of the effective date of sections 3903.01 to 3903.59 of the Revised Code that does not meet the standard established under division (O)(2) of this section, the term \"insolvency\" or \"insolvent\" means, for a period not to exceed three years from the effective date of sections 3903.01 to 3903.59 of the Revised Code, that it is unable to pay its obligations when they are due or that its admitted assets do not exceed its liabilities plus any required capital contribution ordered by the superintendent under provisions of Title XXXIX of the Revised Code.",
+      "id": "3903.01-insolvent",
+      "normalized": "insolvent",
+      "scope": "As used in sections 3903.01 to 3903.59 of the Revised Code:",
+      "section": "3903.01",
+      "source_title": "Section 3903.01 - Reserve valuation - rehabilitation and liquidation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3903.01",
+      "term": "insolvent"
+    },
+    {
+      "definition": "(4) For purposes of divisions (O)(2) to (4) of this section, \"liabilities\" includes, but is not limited to, reserves required by statute or by rules of the superintendent or specific requirements imposed by the superintendent upon a subject company at the time of admission or subsequent thereto.",
+      "id": "3903.01-liabilities",
+      "normalized": "liabilities",
+      "scope": "As used in sections 3903.01 to 3903.59 of the Revised Code:",
+      "section": "3903.01",
+      "source_title": "Section 3903.01 - Reserve valuation - rehabilitation and liquidation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3903.01",
+      "term": "liabilities"
+    },
+    {
+      "definition": "(P) \"Insurer\" means any person who has done, purports to do, is doing, or is licensed to do an insurance business, and is or has been subject to the authority of, or to liquidation, rehabilitation, reorganization, supervision, or conservation by, any insurance commissioner, superintendent, or equivalent official. For purposes of sections 3903.01 to 3903.59 of the Revised Code, any other persons included under section 3903.03 of the Revised Code are deemed to be insurers.",
+      "id": "3903.01-insurer",
+      "normalized": "insurer",
+      "scope": "As used in sections 3903.01 to 3903.59 of the Revised Code:",
+      "section": "3903.01",
+      "source_title": "Section 3903.01 - Reserve valuation - rehabilitation and liquidation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3903.01",
+      "term": "Insurer"
+    },
+    {
+      "definition": "(Q) \"Netting agreement\" means:\n\n(1) A contract or agreement, including a master agreement, and any terms and conditions incorporated by reference in such a contract or agreement, that provides for the netting, liquidation, setoff, termination, acceleration, or close out under or in connection with a qualified financial contract, or any present or future payment or delivery obligations or entitlements under a qualified financial contract, including liquidation or close-out values relating to those obligations or entitlements;\n\n(2) A master agreement, together with all schedules, confirmations, definitions, and addenda to the agreement and transactions under the agreement, which shall be treated as one netting agreement, and any bridge agreement for one or more master agreements;\n\n(3) Any security agreement or arrangement, credit support document, or guarantee or reimbursement obligation related to any contract or agreement described in division (Q) of this section.\n\nAny contract or agreement described in division (Q) of this section relating to agreements or transactions that are not qualified financial contracts shall be deemed to be a netting agreement only with respect to those agreements or transactions that are qualified financial contracts.",
+      "id": "3903.01-netting-agreement",
+      "normalized": "netting agreement",
+      "scope": "As used in sections 3903.01 to 3903.59 of the Revised Code:",
+      "section": "3903.01",
+      "source_title": "Section 3903.01 - Reserve valuation - rehabilitation and liquidation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3903.01",
+      "term": "Netting agreement"
+    },
+    {
+      "definition": "(R) \"Preferred claim\" means any claim with respect to which the terms of sections 3903.01 to 3903.59 of the Revised Code accord priority of payment from the assets of the insurer.",
+      "id": "3903.01-preferred-claim",
+      "normalized": "preferred claim",
+      "scope": "As used in sections 3903.01 to 3903.59 of the Revised Code:",
+      "section": "3903.01",
+      "source_title": "Section 3903.01 - Reserve valuation - rehabilitation and liquidation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3903.01",
+      "term": "Preferred claim"
+    },
+    {
+      "definition": "(S) \"Qualified financial contract\" means any commodity contract, forward contract, repurchase agreement, securities contract, swap agreement, and any similar agreement that the superintendent may determine by rule or order to be a qualified financial contract for purposes of this chapter.",
+      "id": "3903.01-qualified-financial-contract",
+      "normalized": "qualified financial contract",
+      "scope": "As used in sections 3903.01 to 3903.59 of the Revised Code:",
+      "section": "3903.01",
+      "source_title": "Section 3903.01 - Reserve valuation - rehabilitation and liquidation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3903.01",
+      "term": "Qualified financial contract"
+    },
+    {
+      "definition": "(T) \"Reciprocal state\" means any state other than this state in which in substance and effect division (A) of section 3903.18 , and sections 3903.52 , 3903.53 , and 3903.55 to 3903.57 of the Revised Code are in force, in which provisions are in force requiring that the superintendent or equivalent official be the receiver, liquidator, rehabilitator, or conservator of a delinquent insurer, and in which some provision exists for the avoidance of fraudulent conveyances and preferential transfers.",
+      "id": "3903.01-reciprocal-state",
+      "normalized": "reciprocal state",
+      "scope": "As used in sections 3903.01 to 3903.59 of the Revised Code:",
+      "section": "3903.01",
+      "source_title": "Section 3903.01 - Reserve valuation - rehabilitation and liquidation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3903.01",
+      "term": "Reciprocal state"
+    },
+    {
+      "definition": "(U) \"Repurchase agreement\" has the same meaning as in the federal \"Deposit Insurance Act,\" 64 Stat. 884, 12 U.S.C. 1821(e)(8)(D), as now and hereafter amended.",
+      "id": "3903.01-repurchase-agreement",
+      "normalized": "repurchase agreement",
+      "scope": "As used in sections 3903.01 to 3903.59 of the Revised Code:",
+      "section": "3903.01",
+      "source_title": "Section 3903.01 - Reserve valuation - rehabilitation and liquidation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3903.01",
+      "term": "Repurchase agreement"
+    },
+    {
+      "definition": "(V) \"Secured claim\" means any claim secured by mortgage, trust deed, security agreement, pledge, deposit as security, escrow, or otherwise, but not including special deposit claims or claims against assets. The term also includes claims which have become liens upon specific assets by reason of judicial process.",
+      "id": "3903.01-secured-claim",
+      "normalized": "secured claim",
+      "scope": "As used in sections 3903.01 to 3903.59 of the Revised Code:",
+      "section": "3903.01",
+      "source_title": "Section 3903.01 - Reserve valuation - rehabilitation and liquidation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3903.01",
+      "term": "Secured claim"
+    },
+    {
+      "definition": "(W) \"Securities contract\" has the same meaning as in the federal \"Deposit Insurance Act,\" 64 Stat. 884, 12 U.S.C. 1821(e)(8)(D), as now and hereafter amended.",
+      "id": "3903.01-securities-contract",
+      "normalized": "securities contract",
+      "scope": "As used in sections 3903.01 to 3903.59 of the Revised Code:",
+      "section": "3903.01",
+      "source_title": "Section 3903.01 - Reserve valuation - rehabilitation and liquidation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3903.01",
+      "term": "Securities contract"
+    },
+    {
+      "definition": "(X) \"Special deposit claim\" means any claim secured by a deposit made pursuant to statute for the security or benefit of a limited class or classes of persons, but not including any claim secured by assets.\n\n(Y) \"State\" has the meaning set forth in division (G) of section 1.59 of the Revised Code.",
+      "id": "3903.01-special-deposit-claim",
+      "normalized": "special deposit claim",
+      "scope": "As used in sections 3903.01 to 3903.59 of the Revised Code:",
+      "section": "3903.01",
+      "source_title": "Section 3903.01 - Reserve valuation - rehabilitation and liquidation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3903.01",
+      "term": "Special deposit claim"
+    },
+    {
+      "definition": "(Z) \"Superintendent\" or \"superintendent of insurance\" means the superintendent of insurance of this state, or, when the context requires, the superintendent or commissioner of insurance, or equivalent official, of another state.",
+      "id": "3903.01-superintendent",
+      "normalized": "superintendent",
+      "scope": "As used in sections 3903.01 to 3903.59 of the Revised Code:",
+      "section": "3903.01",
+      "source_title": "Section 3903.01 - Reserve valuation - rehabilitation and liquidation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3903.01",
+      "term": "Superintendent"
+    },
+    {
+      "definition": "(Z) \"Superintendent\" or \"superintendent of insurance\" means the superintendent of insurance of this state, or, when the context requires, the superintendent or commissioner of insurance, or equivalent official, of another state.",
+      "id": "3903.01-superintendent-of-insurance",
+      "normalized": "superintendent of insurance",
+      "scope": "As used in sections 3903.01 to 3903.59 of the Revised Code:",
+      "section": "3903.01",
+      "source_title": "Section 3903.01 - Reserve valuation - rehabilitation and liquidation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3903.01",
+      "term": "superintendent of insurance"
+    },
+    {
+      "definition": "(AA) \"Swap agreement\" has the same meaning as in the federal \"Deposit Insurance Act,\" 64 Stat. 884, 12 U.S.C. 1821(e)(8)(D), as now and hereafter amended.",
+      "id": "3903.01-swap-agreement",
+      "normalized": "swap agreement",
+      "scope": "As used in sections 3903.01 to 3903.59 of the Revised Code:",
+      "section": "3903.01",
+      "source_title": "Section 3903.01 - Reserve valuation - rehabilitation and liquidation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3903.01",
+      "term": "Swap agreement"
+    },
+    {
+      "definition": "(BB) \"Transfer\" includes the sale and every other and different mode, direct or indirect, of disposing of or of parting with property or with an interest in property, or with the possession of property or of fixing a lien upon property or upon an interest in property, absolutely or conditionally, voluntarily, or by or without judicial proceedings. The retention of a security title to property delivered to a debtor shall be deemed a transfer suffered by the debtor.",
+      "id": "3903.01-transfer",
+      "normalized": "transfer",
+      "scope": "As used in sections 3903.01 to 3903.59 of the Revised Code:",
+      "section": "3903.01",
+      "source_title": "Section 3903.01 - Reserve valuation - rehabilitation and liquidation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3903.01",
+      "term": "Transfer"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3903.01",
+      "number": "3903.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.01"
+    },
+    {
+      "kind": "section",
+      "label": "3903.59",
+      "number": "3903.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.59"
+    },
+    {
+      "kind": "section",
+      "label": "3901.32",
+      "number": "3901.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.32"
+    },
+    {
+      "kind": "section",
+      "label": "3903.09",
+      "number": "3903.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.09"
+    },
+    {
+      "kind": "section",
+      "label": "3903.10",
+      "number": "3903.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.10"
+    },
+    {
+      "kind": "section",
+      "label": "3955.06",
+      "number": "3955.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3955.06"
+    },
+    {
+      "kind": "section",
+      "label": "3903.03",
+      "number": "3903.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.03"
+    },
+    {
+      "kind": "section",
+      "label": "3903.18",
+      "number": "3903.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.18"
+    },
+    {
+      "kind": "section",
+      "label": "3903.52",
+      "number": "3903.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.52"
+    },
+    {
+      "kind": "section",
+      "label": "3903.53",
+      "number": "3903.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.53"
+    },
+    {
+      "kind": "section",
+      "label": "3903.55",
+      "number": "3903.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.55"
+    },
+    {
+      "kind": "section",
+      "label": "3903.57",
+      "number": "3903.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.57"
+    },
+    {
+      "kind": "section",
+      "label": "1.59",
+      "number": "1.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1.59"
+    }
+  ],
+  "scraped": "2026-07-02T20:02:12+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3903.01",
+  "title": "Section 3903.01 - Reserve valuation - rehabilitation and liquidation definitions."
+}

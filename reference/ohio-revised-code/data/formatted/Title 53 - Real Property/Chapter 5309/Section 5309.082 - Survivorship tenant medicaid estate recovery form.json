@@ -1,0 +1,42 @@
+{
+  "glossary": [
+    {
+      "definition": "\"Estate\" has the same meaning as in section 5162.21 of the Revised Code.",
+      "id": "5309.082-estate",
+      "normalized": "estate",
+      "scope": "(A) As used in this section:",
+      "section": "5309.082",
+      "source_title": "Section 5309.082 - Survivorship tenant medicaid estate recovery form.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5309.082",
+      "term": "Estate"
+    },
+    {
+      "definition": "\"Medicaid estate recovery program\" means the program instituted under section 5162.21 of the Revised Code.\n\n(B) The administrator of the medicaid estate recovery program shall prescribe a form on which a surviving tenant under a survivorship tenancy or such a surviving tenant's representative is to indicate both of the following:\n\n(1) Whether the deceased survivorship tenant was either of the following:\n\n(a) A decedent subject to the medicaid estate recovery program;\n\n(b) The spouse of a decedent subject to the medicaid estate recovery program.\n\n(2) Whether the registered land under a survivorship tenancy was part of the estate of a decedent subject to the medicaid estate recovery program.\n\n(C) A county recorder shall obtain a properly completed form prescribed under division (B) of this section from the surviving tenant under a survivorship tenancy or the surviving tenant's representative and send a copy of the form to the administrator of the medicaid estate recovery program before registering the title in the surviving tenants under section 5309.081 of the Revised Code.",
+      "id": "5309.082-medicaid-estate-recovery-program",
+      "normalized": "medicaid estate recovery program",
+      "scope": "(A) As used in this section:",
+      "section": "5309.082",
+      "source_title": "Section 5309.082 - Survivorship tenant medicaid estate recovery form.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5309.082",
+      "term": "Medicaid estate recovery program"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "5162.21",
+      "number": "5162.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.21"
+    },
+    {
+      "kind": "section",
+      "label": "5309.081",
+      "number": "5309.081",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.081"
+    }
+  ],
+  "scraped": "2026-07-02T20:11:57+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5309.082",
+  "title": "Section 5309.082 - Survivorship tenant medicaid estate recovery form."
+}

@@ -1,0 +1,38 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4973.171
+Scraped: 2026-07-02T20:10:12+00:00
+
+# Section 4973.171 - Felony conviction precludes or terminates employment.
+
+**Effective:** April 14, 2006
+
+**Latest Legislation:** House Bill 81 - 126th General Assembly
+
+(A) As used in this section, "felony" has the same meaning as in section 109.511 of the Revised Code.
+
+(B)(1) The secretary of state shall not appoint or commission a person as a police officer for a bank, savings and loan association, credit union, or association of banks, savings and loan associations, or credit unions under division (A) of section 4973.17 of the Revised Code; for a railroad company under division (B) of section 4973.17 of the Revised Code; or for a hospital under division (D) of section 4973.17 of the Revised Code on a permanent basis, on a temporary basis, for a probationary term, or on other than a permanent basis if the person previously has been convicted of or has pleaded guilty to a felony.
+
+(2)(a) The secretary of state shall revoke the appointment or commission of a person appointed or commissioned as a police officer for a bank, savings and loan association, credit union, or association of banks, savings and loan associations, or credit unions; for a railroad company; or for a hospital under division (A), (B), or (D) of section 4973.17 of the Revised Code if that person does either of the following:
+
+(i) Pleads guilty to a felony;
+
+(ii) Pleads guilty to a misdemeanor pursuant to a negotiated plea agreement as provided in division (D) of section 2929.43 of the Revised Code in which the person agrees to surrender the certificate awarded to that person under section 109.77 of the Revised Code.
+
+(b) The secretary of state shall suspend the appointment or commission of a person appointed or commissioned as a police officer for a bank, savings and loan association, credit union, or association of banks, savings and loan associations, or credit unions; for a railroad company; or for a hospital under division (A), (B), or (D) of section 4973.17 of the Revised Code if that person is convicted, after trial, of a felony. If the person files an appeal from that conviction and the conviction is upheld by the highest court to which the appeal is taken or if the person does not file a timely appeal, the secretary of state shall revoke the appointment or commission of that person as a police officer for a bank, savings and loan association, credit union, or association of banks, savings and loan associations, or credit unions; for a railroad company; or for a hospital. If the person files an appeal that results in that person's acquittal of the felony or conviction of a misdemeanor, or in the dismissal of the felony charge against that person, the secretary of state shall reinstate the appointment or commission of that person as a police officer for a bank, savings and loan association, credit union, or association of banks, savings and loan associations, or credit unions; for a railroad company; or for a hospital. A person whose appointment or commission is reinstated under division (B)(2)(b) of this section shall not receive any back pay unless that person's conviction of the felony was reversed on appeal, or the felony charge was dismissed, because the court found insufficient evidence to convict the person of the felony.
+
+(3) Division (B) of this section does not apply regarding an offense that was committed prior to January 1, 1997.
+
+(4) The suspension or revocation of the appointment or commission of a person as a police officer for a bank, savings and loan association, credit union, or association of banks, savings and loan associations, or credit unions; for a railroad company; or for a hospital under division (B)(2) of this section shall be in accordance with Chapter 119. of the Revised Code.
+
+(C)(1) A judge of a municipal court or county court that has territorial jurisdiction over an amusement park shall not appoint or commission a person as a police officer for the amusement park under division (E) of section 4973.17 of the Revised Code on a permanent basis, on a temporary basis, for a probationary term, or on other than a permanent basis if the person previously has been convicted of or has pleaded guilty to a felony.
+
+(2) The judge shall revoke the appointment or commission of a person appointed or commissioned as a police officer for an amusement park under division (E) of section 4973.17 of the Revised Code if that person does either of the following:
+
+(a) Pleads guilty to a felony;
+
+(b) Pleads guilty to a misdemeanor pursuant to a negotiated plea agreement as provided in division (D) of section 2929.43 of the Revised Code in which the person agrees to surrender the certificate awarded to that person under section 109.77 of the Revised Code.
+
+(3) The judge shall suspend the appointment or commission of a person appointed or commissioned as a police officer for an amusement park under division (E) of section 4973.17 of the Revised Code if that person is convicted, after trial, of a felony. If the person files an appeal from that conviction and that conviction is upheld by the highest court to which the appeal is taken or if the person does not file a timely appeal, the judge shall revoke the appointment or commission of that person as a police officer for an amusement park. If the person files an appeal that results in that person's acquittal of the felony or conviction of a misdemeanor or in the dismissal of the felony charge against that person, the judge shall reinstate the appointment or commission of that person as a police officer for an amusement park. A person whose appointment or commission is reinstated under division (C)(3) of this section shall not receive any back pay unless that person's conviction of the felony was reversed on appeal, or the felony charge was dismissed, because the court found insufficient evidence to convict the person of a felony.
+
+(4) Division (C) of this section does not apply regarding an offense that was committed prior to January 1, 1997.
+
+(5) The suspension or revocation of the appointment or commission of a person as a police officer for an amusement park under division (C)(2) of this section shall be in accordance with Chapter 119. of the Revised Code.

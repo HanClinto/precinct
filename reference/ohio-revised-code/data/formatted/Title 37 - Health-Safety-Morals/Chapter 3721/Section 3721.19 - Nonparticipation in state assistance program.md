@@ -1,0 +1,28 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3721.19
+Scraped: 2026-07-02T19:51:36+00:00
+
+# Section 3721.19 - Nonparticipation in state assistance program.
+
+**Effective:** September 29, 2013
+
+**Latest Legislation:** House Bill 59 - 130th General Assembly
+
+(A) As used in this section:
+
+(1) "Home" and "residential care facility" have the same meanings as in section 3721.01 of the Revised Code;
+
+(2) "Provider agreement" has the same meaning as in section 5165.01 of the Revised Code.
+
+(3) "Sponsor" and "residents' rights advocate" have the same meanings as in section 3721.10 of the Revised Code.
+
+A home licensed under this chapter that is not a party to a provider agreement shall provide each prospective resident, before admission, with the following information, orally and in a separate written notice on which is printed in a conspicuous manner: "This home is not a participant in the medicaid program administered by the Ohio department of medicaid. Consequently, you may be discharged from this home if you are unable to pay for the services provided by this home."
+
+If the prospective resident has a sponsor whose identity is made known to the home, the home shall also inform the sponsor, before admission of the resident, of the home's status relative to the medicaid program. Written acknowledgement of the receipt of the information shall be provided by the resident and, if the prospective resident has a sponsor who has been identified to the home, by the sponsor. The written acknowledgement shall be made part of the resident's record by the home.
+
+No home shall terminate its provider agreement unless it has complied with section 5165.50 of the Revised Code and, at least ninety days prior to such termination, provided written notice to the residents of the home and their sponsors of such action. This requirement shall not apply in cases where the department of medicaid terminates a home's provider agreement or provider status.
+
+(B) A home licensed under this chapter as a residential care facility shall provide notice to each prospective resident or the individual's sponsor of the services offered by the facility and the types of skilled nursing care that the facility may provide. A residential care facility that, pursuant to section 3721.012 of the Revised Code, has a policy of entering into risk agreements with residents or their sponsors shall provide each prospective resident or the individual's sponsor a written explanation of the policy and the provisions that may be contained in a risk agreement. At the time the information is provided, the facility shall obtain a statement signed by the individual receiving the information acknowledging that the individual received the information. The facility shall maintain on file the individual's signed statement.
+
+(C) A resident has a cause of action against a home for breach of any duty imposed by this section. The action may be commenced by the resident, or on the resident's behalf by the resident's sponsor or a residents' rights advocate, by the filing of a civil action in the court of common pleas of the county in which the home is located, or in the court of common pleas of Franklin county.
+
+If the court finds that a breach of any duty imposed by this section has occurred, the court shall enjoin the home from discharging the resident from the home until arrangements satisfactory to the court are made for the orderly transfer of the resident to another mode of health care including, but not limited to, another home, and may award the resident and a person or public agency that brings an action on behalf of a resident reasonable attorney's fees. If a home discharges a resident to whom or to whose sponsor information concerning its status relative to the medicaid program was not provided as required under this section, the court shall grant any appropriate relief including, but not limited to, actual damages, reasonable attorney's fees, and costs.

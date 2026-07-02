@@ -1,0 +1,18 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3313.11
+Scraped: 2026-07-02T19:48:39+00:00
+
+# Section 3313.11 - Vacancy in board.
+
+**Effective:** November 12, 1997
+
+**Latest Legislation:** House Bill 269 - 122nd General Assembly
+
+Notwithstanding division (D) of section 3311.19 and division (D) of section 3311.52 of the Revised Code, this section does not apply to any joint vocational or cooperative education school district.
+
+A vacancy in any board of education may be caused by death, nonresidence, resignation, removal from office, failure of a person elected or appointed to qualify within ten days after the organization of the board or of appointment or election, removal from the district, or absence from meetings of the board for a period of ninety days, if such absence is caused by reasons declared insufficient by a two-thirds vote of the remaining members of the board, which vote must be taken and entered upon the records of the board not less than thirty days after such absence.
+
+If the board members are selected by appointment pursuant to division (B) or (F) of section 3311.71 of the Revised Code, the appointing authority responsible for the appointment shall fill any such vacancy by appointment of an individual to serve the remainder of the unexpired term from a slate of at least three persons proposed by the municipal school district nominating panel established under that section. If the member creating the vacancy resides in a municipal school district but not in the municipal corporation containing the greatest portion of the district's territory, the individuals included on such slate shall also reside in the municipal school district but not in the municipal corporation containing the greatest portion of the district's territory.
+
+If the board members are selected by election, the board shall fill any such vacancy at its next regular or special meeting, not earlier than ten days after such vacancy occurs. A majority vote of all the remaining members of the board may fill any such vacancy. Immediately after such a vote, the treasurer of the board of education shall give written notice to the board of elections responsible for conducting elections for that school district that a vacancy has been filled, and the name of the person appointed to fill the vacancy. Each person selected by the board or probate court to fill a vacancy shall hold office for the shorter of the following periods: until the completion of the unexpired term, or until the first day of January immediately following the next regular board of education election taking place more than ninety days after a person is selected by the board or probate court to fill the vacancy. At that election, a special election to fill the vacancy shall be held in accordance with laws controlling regular elections for board of education members, except that no such special election shall be held if the unexpired term ends on or before the first day of January immediately following that regular board of education election. The term of a person chosen at a special election under this section shall begin on the first day of January immediately following the election, and the person shall serve for the remainder of the unexpired term. Whenever the need for a special election under this section becomes known, the board of education shall immediately give written notice of this fact to the board of elections responsible for conducting the regular board of education election for that school district.
+
+The term of a board of education member shall not be lengthened by the member's resignation and subsequent selection by the board or probate court under this section.

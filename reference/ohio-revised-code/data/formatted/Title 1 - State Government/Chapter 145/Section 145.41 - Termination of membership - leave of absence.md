@@ -1,0 +1,12 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-145.41
+Scraped: 2026-07-02T19:31:54+00:00
+
+# Section 145.41 - Termination of membership - leave of absence.
+
+**Effective:** October 3, 2023
+
+**Latest Legislation:** House Bill 33 - 135th General Assembly
+
+Membership shall cease upon refund of accumulated contributions, death, or retirement except as provided in section 145.362 of the Revised Code. A member who separates from service for any reason other than death or retirement or who otherwise ceases to be a public employee for any reason other than death or retirement may leave the member's accumulated contributions on deposit with the public employees retirement board and, for the purposes of the public employees retirement system, be considered on a membership leave of absence. The member's membership rights shall continue until the member has withdrawn the member's accumulated contributions, retired on a retirement allowance as provided in section 145.33 , 145.331 , 145.332 , or 145.335 of the Revised Code, or died. The account of such a member shall remain in the employees' savings fund, except that the account of a member who has less than five calendar years of contributing service credit or is a member of the state teachers retirement system or the school employees retirement system may be transferred to the income fund if by the end of the fifth calendar year following the calendar year in which the last contribution was received the member has not died, claimed a refund of contributions, or requested the retirement board to continue the member's membership on a leave of absence basis. In case such a member later requests a refund, the member's account shall be restored to the employees' savings account and refunded therefrom. Members on such leaves of absence shall retain all rights, obligations, and privileges of membership in the public employees retirement system. A "contributor," as defined in division (F) of section 145.01 of the Revised Code, who formerly lost membership through termination of membership leave of absence and who has not withdrawn the contributor's account shall be reinstated as a member with all the rights, privileges, and obligations of membership in the system. In no case shall a member on leave of absence as provided in this section add to the member's total number of years of service credit by reason of such leave of absence, unless such member is eligible to and does make a payment as provided in section 145.291 of the Revised Code.
+
+Last updated September 18, 2023 at 10:16 AM

@@ -1,0 +1,489 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 135.01 - Uniform depository act definitions.",
+      "number": "135.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.02 - State board of deposit.",
+      "number": "135.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.03 - Institutions eligible as public depositories.",
+      "number": "135.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.032 - Active prompt correction directive.",
+      "number": "135.032",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.032"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.04 - Eligibility for state deposits - warrant clearance accounts.",
+      "number": "135.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.05 - Estimate of inactive deposits.",
+      "number": "135.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.06 - Application for inactive deposits.",
+      "number": "135.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.07 - Award of inactive deposits.",
+      "number": "135.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.08 - Application for interim deposits.",
+      "number": "135.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.09 - Award of interim deposits.",
+      "number": "135.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.10 - Application for active deposits.",
+      "number": "135.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.11 - Exemption from prohibition against interest in contract.",
+      "number": "135.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.12 - Designating depositories biennially.",
+      "number": "135.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.13 - Evidence of inactive and interim deposits.",
+      "number": "135.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.14 - Investing interim moneys of public subdivisions.",
+      "number": "135.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.141 - Municipal corporation may invest interim moneys in linked deposits.",
+      "number": "135.141",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.141"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.142 - Board of education investment of interim moneys.",
+      "number": "135.142",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.142"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.143 - Investment authority for state interim funds.",
+      "number": "135.143",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.143"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.145 - Redeposit of interim moneys moneys.",
+      "number": "135.145",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.145"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.1411 - Municpal corporation environmental, social, personal, or ideology investment prohibition.",
+      "number": "135.1411",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.1411"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.15 - Transferring funds from one classification to another.",
+      "number": "135.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.16 - Payment of interest.",
+      "number": "135.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.17 - Cash reserve.",
+      "number": "135.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.18 - Security for repayment of public moneys.",
+      "number": "135.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.181 - Optional pledging requirements.",
+      "number": "135.181",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.181"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.182 - Ohio pooled collateral program.",
+      "number": "135.182",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.182"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.19 - Failure of public depository.",
+      "number": "135.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.20 - Proportion of deposits in various banks subject to reasonable variation.",
+      "number": "135.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.21 - Investment earnings apportionment and crediting.",
+      "number": "135.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.22 - Annual continuing education programs for treasurers.",
+      "number": "135.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.31 - County depository definitions.",
+      "number": "135.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.32 - Institutions eligible as county public depositories.",
+      "number": "135.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.33 - Designating county depositories every four years.",
+      "number": "135.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.34 - Review of investment procedures semiannually.",
+      "number": "135.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.341 - County investment advisory committee.",
+      "number": "135.341",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.341"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.35 - County inactive moneys.",
+      "number": "135.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.351 - Crediting interest.",
+      "number": "135.351",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.351"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.352 - County library and local government support fund.",
+      "number": "135.352",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.352"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.353 - County may invest inactive moneys in linked deposits.",
+      "number": "135.353",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.353"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.354 - Redeposit of inactive moneys.",
+      "number": "135.354",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.354"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.36 - Transferring county funds from one classification to another.",
+      "number": "135.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.37 - Security for repayment of county public moneys.",
+      "number": "135.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.38 - Exemption of county officials from prohibition against interest in contract.",
+      "number": "135.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.39 - Exemption of county officials from liability.",
+      "number": "135.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.40 - County cash reserve.",
+      "number": "135.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.45 - State treasurer's investment pool.",
+      "number": "135.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.451 - Investments of history connection and capitol square review and advisory board.",
+      "number": "135.451",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.451"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.46 - Investment pools for temporary investment of bond proceeds.",
+      "number": "135.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.47 - Securities lending program - fund.",
+      "number": "135.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.48 - Adoption of rules.",
+      "number": "135.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.51 - Bank defaulting as public depository; retention and disposition of securities.",
+      "number": "135.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.52 - Bonds may be used in anticipation of collections - maturity - limitation - distribution of proceeds from sale.",
+      "number": "135.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.53 - Surplus assigned and delivered to defaulting bank or building and loan association.",
+      "number": "135.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.54 - Possession and control of securities vested in authorized agent - powers.",
+      "number": "135.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.61 - Linked deposit program investments and rules.",
+      "number": "135.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.62 - Linked deposit program definitions.",
+      "number": "135.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.621 - Submission of linked deposit loan package.",
+      "number": "135.621",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.621"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.622 - Accepting or rejecting a linked deposit loan package.",
+      "number": "135.622",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.622"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.623 - Deposit agreement.",
+      "number": "135.623",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.623"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.624 - Loan rates.",
+      "number": "135.624",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.624"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.625 - State not liable to borrowers or lenders.",
+      "number": "135.625",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.625"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.63 - Adoption linked deposit program.",
+      "number": "135.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.64 - Agricultural linked deposit program.",
+      "number": "135.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.65 - Small business linked deposit program.",
+      "number": "135.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.66 - Home improvement linked deposit program.",
+      "number": "135.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.70 - Homeownership savings linked deposit program definitions.",
+      "number": "135.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.701 - Submission of linked deposit savings package.",
+      "number": "135.701",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.701"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.702 - Accepting or rejecting a linked deposit savings package.",
+      "number": "135.702",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.702"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.703 - Deposit agreement.",
+      "number": "135.703",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.703"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.704 - Premium savings rate.",
+      "number": "135.704",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.704"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.705 - State not liable to participant or savings institution.",
+      "number": "135.705",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.705"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.71 - Purpose of homeownership savings linked deposit program.",
+      "number": "135.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.80 - Municipal, port or lake facilities authority, and county linked deposit program.",
+      "number": "135.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.80"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.801 - Adopting resolution implementing residential facility linked deposit program.",
+      "number": "135.801",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.801"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.802 - Contents of resolution implementing residential facility linked deposit program.",
+      "number": "135.802",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.802"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.803 - Certifying availability of public moneys.",
+      "number": "135.803",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.803"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.804 - Property tax payment linked deposit programs definitions.",
+      "number": "135.804",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.804"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.805 - Property tax payment linked deposit programs.",
+      "number": "135.805",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.805"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.806 - Duties of lending institution on receipt of RC 135.805 certificate.",
+      "number": "135.806",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.806"
+    },
+    {
+      "kind": "section",
+      "label": "Section 135.807 - Delivery of lien certificate to eligible lending institution.",
+      "number": "135.807",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.807"
+    }
+  ],
+  "scraped": "2026-07-02T19:31:50+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-135",
+  "title": "Chapter 135 - Uniform Depository Act"
+}

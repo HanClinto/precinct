@@ -1,0 +1,38 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) As used in this section, \"notification\" means notification required by section 5727.47 of the Revised Code to be sent by the tax commissioner to the county auditor as to the disposition of a petition for reassessment, or of a decision of the board of tax appeals or any court with respect to an assessment of public utility property taxes.\n\n(B) On receipt of the notification, the auditor shall determine whether there has been an underpayment or overpayment of taxes by the public utility. In the case of an underpayment of taxes, the auditor shall notify the county treasurer of the amount, and the treasurer shall proceed to collect the underpayment as required by law.\n\nIn the case of an overpayment of taxes, the auditor shall do any one of the following:\n\n(1) Refund the full amount of the overpayment;\n\n(2) Refund a portion of the overpayment and prorate the remaining balance as a credit against future taxes that may be charged to the public utility;\n\n(3) Prorate the full amount of the overpayment as a credit against future taxes that may be charged to the public utility.\n\n(C)(1) The auditor shall have discretion as to which method to use and shall advise the public utility of the auditor's decision within sixty days after receipt of the notification. The auditor shall make payment of any refund under division (B)(1) or (2) of this section within ninety days after receipt of the notification. Except as otherwise provided in division (C)(2) of this section, any amount to be credited under division (B)(2) or (3) of this section shall be applied to all or a part of the taxes otherwise due from the public utility on real and public utility property tax installment due dates after the date on which the notification was received, but shall not be spread over more than the next ten ensuing installment due dates. If any portion of the overpayment has not been refunded or credited by the tenth such tax installment due date after the date on which the notification was received, the auditor immediately shall refund that portion.\n\n(2) The tax commissioner may certify to a county auditor, in writing, that a public utility is no longer required to file a report under section 5727.08 of the Revised Code. Within ninety days of the date of such certification, the auditor shall refund to the utility, with applicable interest, the portion of any overpayment that has not been refunded or credited to the utility under this section.\n\n(D) The auditor shall add interest to the amount of any overpayment of taxes at the rate per calendar month, rounded to the nearest one-hundredth of one per cent, equal to one-twelfth of the rate per annum prescribed by section 5703.47 of the Revised Code. The interest shall begin to accrue from the first day of the month following the date of the overpayment until the last day of the month preceding the date the overpayment or portion of the overpayment is refunded or credited, and shall be computed separately on each amount actually refunded or credited. In computing interest on credits, when an overpayment is credited against an installment of current taxes due from the utility pursuant to this section, the overpayment shall be considered to have been credited on the last date on which those taxes may be paid without penalty.\n\n(E) The refund and crediting of any overpayment, including interest, shall be paid from or credited against the fund or funds and the taxing districts to which the overpayment originally was paid, in proportion to the amount of the overpayment received. The auditor shall correct the auditor's tax lists in accordance with the refund or credit, and shall certify corrections in the tax duplicates to the county treasurer. At each settlement affected by a refund or credit under this section, the amount of the refund or credit shall be deducted from the amount of any taxes or assessments distributable to the county or any taxing unit in the county that has received the benefit of the taxes or assessment previously overpaid, in proportion to the overpayment previously received.",
+      "id": "5727.471-notification",
+      "normalized": "notification",
+      "scope": "",
+      "section": "5727.471",
+      "source_title": "Section 5727.471 - Assessment for underpayment or overpayment of taxes by public utility.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5727.471",
+      "term": "notification"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "5727.47",
+      "number": "5727.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.47"
+    },
+    {
+      "kind": "section",
+      "label": "5727.08",
+      "number": "5727.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.08"
+    },
+    {
+      "kind": "section",
+      "label": "5703.47",
+      "number": "5703.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.47"
+    }
+  ],
+  "scraped": "2026-07-02T20:14:53+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5727.471",
+  "title": "Section 5727.471 - Assessment for underpayment or overpayment of taxes by public utility."
+}

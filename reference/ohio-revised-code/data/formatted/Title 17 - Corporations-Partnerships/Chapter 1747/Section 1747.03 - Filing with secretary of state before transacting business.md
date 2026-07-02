@@ -1,0 +1,42 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-1747.03
+Scraped: 2026-07-02T19:39:28+00:00
+
+# Section 1747.03 - Filing with secretary of state before transacting business.
+
+**Effective:** October 24, 2024
+
+**Latest Legislation:** Senate Bill 98 - 135th General Assembly
+
+(A) Before transacting real estate business in this state, a real estate investment trust shall file the following report in the office of the secretary of state, on forms prescribed by the secretary of state:
+
+(1) An executed copy of the trust instrument or a true and correct copy of it, certified to be such by a trustee before an official authorized to administer oaths or by a public official in another state in whose office an executed copy is on file;
+
+(2) A list of the names and addresses of its trustees;
+
+(3) The address of its principal office;
+
+(4) In the case of a foreign real estate investment trust, the address of its principal office within this state, if any;
+
+(5) The business name of the trust;
+
+(6)(a) The name and primary residence or usual place of business address within this state of a designated agent upon whom process against the trust may be served;
+
+(b) As used in division (A)(6)(a) of this section, "usual place of business" means a place in this state that is customarily open during normal business hours and where an individual is generally present who is authorized to perform the services of a registered agent, including accepting service of process and other notifications for the person serving as a statutory agent. "Usual place of business" does not include a post office box, regardless of whether that post office box has an associated street address.
+
+(7) The irrevocable consent of the trust to service of process on its designated agent and to service of process upon the secretary of state if, without the registration of another agent with the secretary of state, its designated agent has died, resigned, lost authority, dissolved, become disqualified, or has removed from this state, or if its designated agent cannot, with due diligence, be found;
+
+(8) Not more than ninety days after the occurrence of any event causing any filing made pursuant to divisions (A)(2) to (6) of this section, or any previous filing made pursuant to this division, to be inaccurate or incomplete, all information necessary to maintain the accuracy and completeness of such filing.
+
+(B) For filings under this section, the secretary of state shall charge and collect the fee specified in division (T) of section 111.16 of the Revised Code, except for filings under division (A)(8) of this section pertaining solely to division (A)(6) of this section, for which the secretary of state shall charge and collect the fee specified in division (R) of section 111.16 of the Revised Code.
+
+(C) All persons shall be given the opportunity to acquire knowledge of the contents of the trust instrument and other information filed in the office of the secretary of state, but no person dealing with a real estate investment trust shall be charged with constructive notice of the contents of any such instrument or information by reason of such filing.
+
+(D) A copy of a trust instrument or other information filed in the office of the secretary of state is prima-facie evidence of the existence of the instrument or other information and of its contents, and is conclusive evidence of the existence of such record.
+
+(E) The agent designated pursuant to division (A)(6) of this section shall be one of the following:
+
+(1) A natural person who is a resident of this state;
+
+(2) A domestic or foreign corporation, nonprofit corporation, limited liability company, partnership, limited partnership, limited liability partnership, limited partnership association, professional association, business trust, or unincorporated nonprofit association that has a business address in this state. If the agent is an entity other than a domestic corporation, the agent shall meet the requirements of Title XVII of the Revised Code for an entity of the agent's type to transact business or exercise privileges in this state.
+
+Last updated August 28, 2024 at 4:34 PM

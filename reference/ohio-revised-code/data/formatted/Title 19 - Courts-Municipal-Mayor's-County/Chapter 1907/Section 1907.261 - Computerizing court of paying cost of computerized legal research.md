@@ -1,0 +1,26 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-1907.261
+Scraped: 2026-07-02T19:40:55+00:00
+
+# Section 1907.261 - Computerizing court of paying cost of computerized legal research.
+
+**Effective:** March 20, 2025
+
+**Latest Legislation:** House Bill 338 - 135th General Assembly
+
+(A)(1) A county court may determine that for the efficient operation of the court additional funds are required to computerize the court, to make available computerized legal research services, or to do both. Upon making a determination that additional funds are required for either or both of those purposes, the court shall include in its schedule of fees and costs under section 1907.24 of the Revised Code one additional fee not to exceed three dollars on the filing of each cause of action or appeal equivalent to one described in division (A), (Q), or (U) of section 2303.20 of the Revised Code and shall direct the clerk of the court to charge the fee.
+
+(2) All fees collected under this section shall be paid on or before the twentieth day of the month following the month in which they are collected to the county treasurer. The treasurer shall place the funds from the fees in a separate fund to be disbursed either upon an order of the court, subject to an appropriation by the board of county commissioners, or upon an order of the court, subject to the court making an annual report available to the public listing the use of all such funds, in an amount not greater than the actual cost to the court of computerizing the court, procuring and maintaining computerized legal research services, or both.
+
+(3) If the court determines that the funds in the fund described in division (A)(2) of this section are more than sufficient to satisfy the purpose for which the additional fee described in division (A)(1) of this section was imposed, the court may declare a surplus in the fund and, subject to an appropriation by the board of county commissioners, expend those surplus funds, or upon an order of the court, subject to the court making an annual report available to the public listing the use of all such funds, expend those surplus funds, for other appropriate technological expenses of the court.
+
+(B)(1)(a) Except as provided in division (B)(1)(b) of this section, the clerk of a county court may determine that, for the efficient operation of the office of the clerk of the court, additional funds are required to computerize the office of the clerk of the court and, upon that determination, may authorize and direct that a computerization fee not to exceed twenty dollars be charged on the filing of each cause of action or appeal, on the filing, docketing, and endorsing of each certificate of judgment, or on the docketing and indexing of each aid in execution or petition to vacate, revive, or modify a judgment that is equivalent to one described in division (A), (P), (Q), (T), or (U) of section 2303.20 of the Revised Code.
+
+(b) In a court in which the clerk of the county court is appointed, the court may make the determination described in division (B)(1)(a) of this section and, upon that determination, may include such a computerization fee in its schedule of fees and costs under section 1907.24 of the Revised Code.
+
+(2) Subject to division (B)(3) of this section, all moneys collected under division (B)(1)(a) of this section shall be paid on or before the twentieth day of the month following the month in which they are collected to the county treasurer. The treasurer shall place the funds from the fees in a separate fund to be disbursed, and subject to an appropriation made by the board of county commissioners, in an amount no greater than the actual cost to the court of procuring and maintaining computer systems for the office of the clerk of the county court.
+
+In a court in which the clerk of the county court is elected, the clerk may disburse the funds subject to an appropriation by the commissioners. In a court in which the clerk of the county court is appointed, the court may issue an order to disburse the funds subject to an appropriation by the commissioners.
+
+(3) If a county court or the clerk of a county court makes the determination described in division (B)(1)(a) of this section, the board of county commissioners of that county may issue one or more general obligation bonds for the purpose of procuring and maintaining the computer systems for the office of the clerk of the county court. In addition to the purposes stated in division (B)(1)(a) of this section for which the moneys collected under that division may be expended, the moneys additionally may be expended to pay debt charges and financing costs related to any general obligation bonds issued pursuant to division (B)(3) of this section as they become due. General obligation bonds issued pursuant to division (B)(3) of this section are Chapter 133. securities.
+
+Last updated January 21, 2025 at 2:24 PM

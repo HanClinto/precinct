@@ -1,0 +1,519 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 125.01 - Department of administrative services - office services definitions.",
+      "number": "125.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.02 - Authority to purchase supplies and services - rules.",
+      "number": "125.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.035 - Requisite procurement programs.",
+      "number": "125.035",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.035"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.036 - Ohio-based personal protective equipment manufacturers program.",
+      "number": "125.036",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.036"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.04 - Determining what supplies and services are purchased by or for state agencies.",
+      "number": "125.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.041 - Purchases by state elected officials.",
+      "number": "125.041",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.041"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.05 - Competitive selection.",
+      "number": "125.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.051 - Advertising subject to controlling board approval.",
+      "number": "125.051",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.051"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.052 - Controlling board approval for online subscriptions.",
+      "number": "125.052",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.052"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.061 - Suspension of purchasing and contracting requirements in case of emergency.",
+      "number": "125.061",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.061"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.07 - Notice of bidding.",
+      "number": "125.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.071 - Purchasing by competitive sealed proposal.",
+      "number": "125.071",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.071"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.072 - Purchasing services or supplies via reverse auction on internet.",
+      "number": "125.072",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.072"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.073 - Electronic procurement.",
+      "number": "125.073",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.073"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.08 - Minority business enterprise notification list.",
+      "number": "125.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.081 - Setting aside purchases selected for competition only by minority business enterprises.",
+      "number": "125.081",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.081"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.082 - Purchasing recycled products.",
+      "number": "125.082",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.082"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.09 - Bid conditions or terms - preferences.",
+      "number": "125.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.091 - Definitions for R.C. 125.091 to 125.093.",
+      "number": "125.091",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.091"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.092 - Biobased product preference program.",
+      "number": "125.092",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.092"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.093 - Annual report on purchase of biobased products.",
+      "number": "125.093",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.093"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.10 - Requiring performance or other surety.",
+      "number": "125.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.11 - Contract award.",
+      "number": "125.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.111 - Contracts to contain discrimination provisions - affirmative action program.",
+      "number": "125.111",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.111"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.112 - Web site listing contract awards.",
+      "number": "125.112",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.112"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.12 - Excess and surplus supply definitions.",
+      "number": "125.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.13 - Disposing of excess and surplus supplies.",
+      "number": "125.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.14 - Investment recovery fund - recycled materials fund.",
+      "number": "125.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.15 - Acquisition of equipment, materials, supplies, services, or contracts of insurance.",
+      "number": "125.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.16 - Inventory records of state tangible personal property and real property.",
+      "number": "125.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.18 - Office of information technology - duties of director - contracts.",
+      "number": "125.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.182 - State public notice web site.",
+      "number": "125.182",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.182"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.183 - Applications prohibited on state networks and devices.",
+      "number": "125.183",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.183"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.19 - Energy efficiency and conservation purchasing measures information.",
+      "number": "125.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.20 - Administrative services internet-accessible database.",
+      "number": "125.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.21 - Payroll information.",
+      "number": "125.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.211 - Accrued leave liability fund.",
+      "number": "125.211",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.211"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.212 - Life insurance investment fund.",
+      "number": "125.212",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.212"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.213 - State employee child support fund.",
+      "number": "125.213",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.213"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.23 - Regular deductions for individual retirement arrangement.",
+      "number": "125.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.25 - Debarment of vendor from contract awards.",
+      "number": "125.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.27 - Building improvement fund.",
+      "number": "125.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.28 - Reimbursing general revenue fund for cost of occupying the space.",
+      "number": "125.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.29 - Child care services.",
+      "number": "125.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.30 - Business reply form.",
+      "number": "125.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.31 - Supervising public printing.",
+      "number": "125.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.32 - Enterprise data management and analytics program.",
+      "number": "125.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.39 - Forfeiture of bond.",
+      "number": "125.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.42 - Approval of printing.",
+      "number": "125.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.44 - Record of accounts.",
+      "number": "125.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.45 - Office reproduction services.",
+      "number": "125.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.58 - Failure to execute contract - penalty charge for late orders.",
+      "number": "125.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.60 - Procurement from community rehabilitation programs definitions.",
+      "number": "125.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.601 - Procurement from community rehabilitation programs.",
+      "number": "125.601",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.601"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.602 - Agreement to cooperate in providing program services.",
+      "number": "125.602",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.602"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.603 - Additional duties of office of procurement - contracts - pilot programs.",
+      "number": "125.603",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.603"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.604 - Application by community program for certification.",
+      "number": "125.604",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.604"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.605 - Certification of approved agent - powers of agent.",
+      "number": "125.605",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.605"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.606 - Fair market price for items on procurement list.",
+      "number": "125.606",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.606"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.607 - Ordering offices to purchase items at fair market price.",
+      "number": "125.607",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.607"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.608 - Reimbursement by ordering offices for administrative expenses.",
+      "number": "125.608",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.608"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.609 - Release of ordering office from compliance with rules.",
+      "number": "125.609",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.609"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.6010 - Application of rules - limitation.",
+      "number": "125.6010",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.6010"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.6011 - Non-government ordering offices exemption.",
+      "number": "125.6011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.6011"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.6012 - Ordering offices and agencies to provide necessary information.",
+      "number": "125.6012",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.6012"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.70 - Data matching agreements.",
+      "number": "125.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.71 - Contractors shall promptly execute orders.",
+      "number": "125.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.81 - Department of administrative services - powers and duties.",
+      "number": "125.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.82 - Duties of department to employees of terminated agency.",
+      "number": "125.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.82"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.83 - Motor vehicle fleet.",
+      "number": "125.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.83"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.831 - Fleet management definitions.",
+      "number": "125.831",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.831"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.832 - Exclusive authority for fleet management.",
+      "number": "125.832",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.832"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.834 - State vehicles to be capable of using alternative fuels.",
+      "number": "125.834",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.834"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.836 - Biodiesel revolving fund.",
+      "number": "125.836",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.836"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.84 - Acquiring federal surplus property.",
+      "number": "125.84",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.84"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.85 - Complying with federal requirements.",
+      "number": "125.85",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.85"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.86 - Approving or disapproving, and processing applications.",
+      "number": "125.86",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.86"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.87 - Service charges - fees.",
+      "number": "125.87",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.87"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.88 - Governing bodies - powers.",
+      "number": "125.88",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.88"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.89 - Exchange of property, facilities, personnel, and services.",
+      "number": "125.89",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.89"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.90 - Administrative rules.",
+      "number": "125.90",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.90"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.901 - Geographically referenced information program council.",
+      "number": "125.901",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.901"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.902 - Council real property management plan.",
+      "number": "125.902",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.902"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.903 - [Former R.C. 113.41, amended and renumbered by H.B. 33, 135th General Assembly, effective 10/3/2023] Database of real property under state control.",
+      "number": "125.903",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.903"
+    },
+    {
+      "kind": "section",
+      "label": "Section 125.97 - Required notice on forms.",
+      "number": "125.97",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.97"
+    }
+  ],
+  "scraped": "2026-07-02T19:31:42+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-125",
+  "title": "Chapter 125 - Department of Administrative Services - Office Services"
+}

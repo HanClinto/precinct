@@ -1,0 +1,44 @@
+{
+  "glossary": [
+    {
+      "definition": "\"Exchange area\" means a geographical service area established by an incumbent local exchange carrier and approved by the public utilities commission.\n\n\"Incremental cost\" has the meaning as defined by the commission.\n\n(B) Subject to division (C) of this section and division (A) of section 4927.124 of the Revised Code, and except as provided in sections 4927.121 , 4927.122 , and 4927.123 of the Revised Code:\n\n(1) If an incumbent local exchange carrier, within the twelve months prior to September 13, 2010, increased the carrier's rates for basic local exchange service for an exchange area, the incumbent local exchange carrier, during any subsequent twelve-month period, may alter the carrier's rates for basic local exchange service for the exchange area downward by any amount, but not below the carrier's incremental cost, or upward by not more than two dollars.\n\n(2) If an incumbent local exchange carrier did not, within the twelve months prior to September 13, 2010, increase the carrier's rates for basic local exchange service for an exchange area, and if the commission has made a prior determination that the exchange area qualified for alternative regulation of basic local exchange service under Chapter 4901:1-4 of the Ohio Administrative Code as that chapter existed on September 13, 2010, the incumbent local exchange carrier, during any subsequent twelve-month period, may alter the carrier's rates for basic local exchange service for the exchange area downward by any amount, but not below the carrier's incremental cost, or upward by not more than two dollars.\n\n(3)(a) If the commission has not made a prior determination that an exchange area qualified for alternative regulation of basic local exchange service under Chapter 4901:1-4 of the Ohio Administrative Code as that chapter existed on September 13, 2010, an incumbent local exchange carrier may, at any time, alter the carrier's rates for basic local exchange service for that exchange area downward by any amount, but not below the carrier's incremental cost. But the carrier may not alter its rates for basic local exchange service upward for that exchange area unless the carrier first applies to the commission and the commission determines that the application demonstrates that two or more alternative providers offer, in the exchange area, competing service to the basic local exchange service offered by an incumbent local exchange carrier in the exchange area, regardless of the technology and facilities used by the alternative provider, the alternative provider's location, and the extent of the alternative provider's service area within the exchange area. An alternative provider includes a telephone company, including a wireless service provider, a telecommunications carrier, and a provider of internet protocol-enabled services, including voice over internet protocol.\n\n(b) On the thirty-first day after the filing of an application under division (B)(3)(a) of this section, the commission shall be deemed to have found that the application meets the requirements of that division unless the commission, within thirty days after the filing of the application, does either of the following:\n\n(i) Issues an order finding that the requirements of division (B)(3)(a) of this section have not been met;\n\n(ii) Suspends the automatic approval for good cause shown. The commission shall then act to approve or deny the application not later than ninety days after the date of the suspension.\n\n(c) If an incumbent local exchange carrier applies to the commission under division (B)(3)(a) of this section and the application is approved or deemed approved under division (B)(3)(b) of this section, the incumbent local exchange carrier, (i) during the twelve-month period that (I) begins on the thirty-first day after the company files the application, if the application is deemed approved, or (II) begins on the date that the application is approved, and (ii) during any subsequent twelve-month period, may alter the carrier's rates for basic local exchange service for the exchange area to which the application applies upward by not more than two dollars.\n\n(C) No banking of upward rate alterations made under division (B) of this section is permitted.",
+      "id": "4927.12-exchange-area",
+      "normalized": "exchange area",
+      "scope": "(A) As used in this section:",
+      "section": "4927.12",
+      "source_title": "Section 4927.12 - Alteration of rates for basic local exchange service.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4927.12",
+      "term": "Exchange area"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "4927.124",
+      "number": "4927.124",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4927.124"
+    },
+    {
+      "kind": "section",
+      "label": "4927.121",
+      "number": "4927.121",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4927.121"
+    },
+    {
+      "kind": "section",
+      "label": "4927.122",
+      "number": "4927.122",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4927.122"
+    },
+    {
+      "kind": "section",
+      "label": "4927.123",
+      "number": "4927.123",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4927.123"
+    }
+  ],
+  "scraped": "2026-07-02T20:09:24+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4927.12",
+  "title": "Section 4927.12 - Alteration of rates for basic local exchange service."
+}

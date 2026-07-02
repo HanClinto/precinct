@@ -1,0 +1,84 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-1707
+Scraped: 2026-07-02T19:39:09+00:00
+
+# Chapter 1707 - Securities
+
+## Sections
+
+- Section 1707.01 - Securities definitions.
+- Section 1707.02 - Exempt securities.
+- Section 1707.03 - Exempt transactions.
+- Section 1707.04 - Issuance of securities in reorganizations.
+- Section 1707.041 - Control bids made pursuant to tender offer or request or invitation for tenders.
+- Section 1707.042 - Prohibited acts relating to control bids.
+- Section 1707.043 - Preventing manipulative practices.
+- Section 1707.05 - Definitions.
+- Section 1707.051 - Offerings-securities registration exemption.
+- Section 1707.052 - Offerings-disclosure to purchasers.
+- Section 1707.053 - Offerings-certification from purchasers.
+- Section 1707.054 - Portal operators-license.
+- Section 1707.055 - Portal operators-prohibited conduct for non-dealer operators.
+- Section 1707.056 - Portal operators-oversight, purchase limits, and purchaser privacy.
+- Section 1707.057 - Portal operators-record keeping requirements.
+- Section 1707.058 - Issuers-disqualification from registration exemption.
+- Section 1707.06 - Transactions requiring registration.
+- Section 1707.08 - Registration by description.
+- Section 1707.09 - Registration by qualification.
+- Section 1707.091 - Registration by coordination.
+- Section 1707.092 - Notice filings.
+- Section 1707.093 - Electronic filings.
+- Section 1707.10 - Provisional registration by qualification.
+- Section 1707.11 - Consent to service.
+- Section 1707.12 - Documents open to inspection.
+- Section 1707.13 - Suspension and revocation of registration.
+- Section 1707.131 - Refusing registration.
+- Section 1707.14 - Dealer's license.
+- Section 1707.141 - Investment adviser's license required - exceptions - notice filing requirement.
+- Section 1707.142 - Compliance with federal laws - federal documents to be filed with division.
+- Section 1707.15 - Applying for dealer's license.
+- Section 1707.151 - Application for and issuance of investment adviser's license.
+- Section 1707.16 - Application for and issuance of salesperson's license.
+- Section 1707.161 - Investment adviser representative's license required - exceptions - application for and issuance of investment adviser representative's license.
+- Section 1707.162 - State retirement system investment adviser license required.
+- Section 1707.163 - Application for and issuance of state retirement system investment adviser license.
+- Section 1707.164 - Bureau chief investment officer - securities license required.
+- Section 1707.165 - Application for bureau chief investment officer - investigation - examination.
+- Section 1707.17 - Renewal - license fees.
+- Section 1707.18 - Application for transfer of license.
+- Section 1707.19 - Refusal, suspension, and revocation of license.
+- Section 1707.20 - Adopting, amending, and rescinding rules, forms, and orders.
+- Section 1707.201 - Federal provisions.
+- Section 1707.21 - Registration statement may be filed with securities and exchange commission.
+- Section 1707.22 - Appeals - effect of order.
+- Section 1707.23 - Division of securities - enforcement powers.
+- Section 1707.24 - Contempt proceedings.
+- Section 1707.25 - Injunction against issuance, sale, acting as an investment adviser or acting as an investment adviser representative.
+- Section 1707.26 - Injunction against violations.
+- Section 1707.261 - Director's request for restitution or rescission.
+- Section 1707.27 - Appointment of receiver.
+- Section 1707.28 - Statute of limitations.
+- Section 1707.29 - Presumption of knowledge.
+- Section 1707.30 - Certificate of division as evidence.
+- Section 1707.31 - Certified copies as evidence.
+- Section 1707.32 - Insurance securities.
+- Section 1707.34 - Warehouse receipts for intoxicating liquor.
+- Section 1707.35 - Securities authorized before July 22, 1929.
+- Section 1707.36 - Attorney-inspector - control-bid attorneys.
+- Section 1707.37 - Division of securities fund.
+- Section 1707.38 - Effect of violation on validity of security.
+- Section 1707.39 - Qualification of securities sold without compliance.
+- Section 1707.391 - Late applications.
+- Section 1707.40 - Civil liabilities.
+- Section 1707.41 - Civil liability of seller for fraud.
+- Section 1707.42 - Civil liability of adviser.
+- Section 1707.43 - Remedies of purchaser in unlawful sale.
+- Section 1707.431 - Claiming exemption for publicly advertised meeting.
+- Section 1707.44 - Prohibited acts.
+- Section 1707.45 - Burden of proof.
+- Section 1707.46 - Duties of commissioner of securities.
+- Section 1707.47 - Ohio investor recovery fund.
+- Section 1707.471 - Restitution assistance awards from Ohio investor recovery fund.
+- Section 1707.48 - Division of securities to retain documents and records or copies.
+- Section 1707.49 - Reporting elder financial exploitation.
+- Section 1707.50 - Violations, penalties, and private rights of action.
+- Section 1707.99 - Penalty.

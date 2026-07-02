@@ -1,0 +1,10 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-6111.45
+Scraped: 2026-07-02T20:17:15+00:00
+
+# Section 6111.45 - Plans for the disposal of the waste to be submitted to director of environmental protection.
+
+**Effective:** March 15, 2001
+
+**Latest Legislation:** Senate Bill 141 - 123rd General Assembly
+
+No municipal corporation, county, public institution, corporation, or officer or employee thereof or other person shall establish as proprietor, agent, employee, lessee, or tenant, any garbage disposal plant, shop, factory, mill, industrial establishment, process, trade, or business in the operation of which an industrial waste is produced, or make a change in or enlargement of a garbage disposal plant, shop, factory, mill, industrial establishment, process, trade, or business whereby an industrial waste is produced or materially increased or changed in character, or install works for the treatment or disposal of any such waste until the plans for the disposal of the waste have been submitted to and approved by the director of environmental protection. As used in sections 6111.44 to 6111.46 of the Revised Code, "industrial waste" means sludge or sludge materials or a water-carried or liquid waste resulting from any process of industry, manufacture, trade, or business or development of any natural resource, but does not include storm water from any animal feeding facility, as defined in section 903.01 of the Revised Code, or manure, as defined in that section. In granting an approval, the agency may stipulate modifications, conditions, and rules that the public health and welfare may require. Any action taken by the director shall be a matter of public record and shall be entered in the director's journal. Each period of thirty days that a violation of this section continues, after a conviction of the violation, constitutes a separate offense.

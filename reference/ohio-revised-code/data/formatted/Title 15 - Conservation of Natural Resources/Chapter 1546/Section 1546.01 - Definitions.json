@@ -1,0 +1,458 @@
+{
+  "glossary": [
+    {
+      "definition": "\"Canoe\" means a paddlecraft that is normally an open, narrow vessel of shallow draft, typically pointed at both ends and propelled by its occupants through the use of paddles while kneeling or sitting on a raised seat, including a flat-backed canoe and a racing canoe.",
+      "id": "1546.01-canoe",
+      "normalized": "canoe",
+      "scope": "As used in this chapter and Chapter 1547. of the Revised Code:",
+      "section": "1546.01",
+      "source_title": "Section 1546.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1546.01",
+      "term": "Canoe"
+    },
+    {
+      "definition": "\"Coast guard approved\" means bearing an approval number assigned by the United States coast guard.",
+      "id": "1546.01-coast-guard-approved",
+      "normalized": "coast guard approved",
+      "scope": "As used in this chapter and Chapter 1547. of the Revised Code:",
+      "section": "1546.01",
+      "source_title": "Section 1546.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1546.01",
+      "term": "Coast guard approved"
+    },
+    {
+      "definition": "\"Conditional approval\" means a personal flotation device approval that has one or more conditions with which the user must comply in order for the device to be considered appropriate for meeting the requirements for personal flotation devices for the vessel on which it is being used.",
+      "id": "1546.01-conditional-approval",
+      "normalized": "conditional approval",
+      "scope": "As used in this chapter and Chapter 1547. of the Revised Code:",
+      "section": "1546.01",
+      "source_title": "Section 1546.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1546.01",
+      "term": "Conditional approval"
+    },
+    {
+      "definition": "\"Diver's flag\" means a red flag not less than one foot square having a diagonal white stripe extending from the masthead to the opposite lower corner that when displayed indicates that divers are in the water.",
+      "id": "1546.01-diver-s-flag",
+      "normalized": "diver's flag",
+      "scope": "As used in this chapter and Chapter 1547. of the Revised Code:",
+      "section": "1546.01",
+      "source_title": "Section 1546.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1546.01",
+      "term": "Diver's flag"
+    },
+    {
+      "definition": "\"Drug of abuse\" has the same meaning as in section 4506.01 of the Revised Code.",
+      "id": "1546.01-drug-of-abuse",
+      "normalized": "drug of abuse",
+      "scope": "As used in this chapter and Chapter 1547. of the Revised Code:",
+      "section": "1546.01",
+      "source_title": "Section 1546.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1546.01",
+      "term": "Drug of abuse"
+    },
+    {
+      "definition": "\"Electronic\" includes electrical, digital, magnetic, optical, electromagnetic, or any other form of technology that entails capabilities similar to these technologies.",
+      "id": "1546.01-electronic",
+      "normalized": "electronic",
+      "scope": "As used in this chapter and Chapter 1547. of the Revised Code:",
+      "section": "1546.01",
+      "source_title": "Section 1546.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1546.01",
+      "term": "Electronic"
+    },
+    {
+      "definition": "\"Electronic record\" means a record generated, communicated, received, or stored by electronic means for use in an information system or for transmission from one information system to another.",
+      "id": "1546.01-electronic-record",
+      "normalized": "electronic record",
+      "scope": "As used in this chapter and Chapter 1547. of the Revised Code:",
+      "section": "1546.01",
+      "source_title": "Section 1546.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1546.01",
+      "term": "Electronic record"
+    },
+    {
+      "definition": "\"Electronic signature\" means a signature in electronic form attached to or logically associated with an electronic record.",
+      "id": "1546.01-electronic-signature",
+      "normalized": "electronic signature",
+      "scope": "As used in this chapter and Chapter 1547. of the Revised Code:",
+      "section": "1546.01",
+      "source_title": "Section 1546.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1546.01",
+      "term": "Electronic signature"
+    },
+    {
+      "definition": "\"Idle speed\" means the slowest possible speed needed to maintain steerage or maneuverability.",
+      "id": "1546.01-idle-speed",
+      "normalized": "idle speed",
+      "scope": "As used in this chapter and Chapter 1547. of the Revised Code:",
+      "section": "1546.01",
+      "source_title": "Section 1546.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1546.01",
+      "term": "Idle speed"
+    },
+    {
+      "definition": "\"Impoundment\" means the reservoir created by a dam or other artificial barrier across a watercourse that causes water to be stored deeper than and generally beyond the banks of the natural channel of the watercourse during periods of normal flow, but does not include water stored behind rock piles, rock riffle dams, and low channel dams where the depth of water is less than ten feet above the channel bottom and is essentially confined within the banks of the natural channel during periods of normal stream flow.",
+      "id": "1546.01-impoundment",
+      "normalized": "impoundment",
+      "scope": "As used in this chapter and Chapter 1547. of the Revised Code:",
+      "section": "1546.01",
+      "source_title": "Section 1546.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1546.01",
+      "term": "Impoundment"
+    },
+    {
+      "definition": "\"Inflatable watercraft\" means any vessel constructed of rubber, canvas, or other material that is designed to be inflated with any gaseous substance, constructed with two or more air cells, and operated as a vessel. An inflatable watercraft propelled by a motor is a powercraft. An inflatable watercraft propelled by a sail is a sailboat. An inflatable watercraft propelled by human muscular effort utilizing a paddle or pole is a paddlecraft. An inflatable watercraft propelled by human muscular effort utilizing an oar with the aid of a fulcrum provided by oarlocks, tholepins, crutches, or similar arrangements is a rowboat.\n\n\"In operation\" in reference to a vessel means that the vessel is being navigated or otherwise used on the waters in this state.",
+      "id": "1546.01-inflatable-watercraft",
+      "normalized": "inflatable watercraft",
+      "scope": "As used in this chapter and Chapter 1547. of the Revised Code:",
+      "section": "1546.01",
+      "source_title": "Section 1546.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1546.01",
+      "term": "Inflatable watercraft"
+    },
+    {
+      "definition": "\"Kayak\" means a paddlecraft that is typically pointed at both ends and is propelled by human muscular effort by one or more seated individuals who use a double-bladed paddle, including an open kayak with an open deck for operator seating, an enclosed kayak designed to enclose an occupant within a cockpit, a tandem kayak designed for multiple occupants, and a racing kayak.",
+      "id": "1546.01-kayak",
+      "normalized": "kayak",
+      "scope": "As used in this chapter and Chapter 1547. of the Revised Code:",
+      "section": "1546.01",
+      "source_title": "Section 1546.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1546.01",
+      "term": "Kayak"
+    },
+    {
+      "definition": "\"Law enforcement vessel\" means any vessel used in law enforcement or under the command of a law enforcement officer.",
+      "id": "1546.01-law-enforcement-vessel",
+      "normalized": "law enforcement vessel",
+      "scope": "As used in this chapter and Chapter 1547. of the Revised Code:",
+      "section": "1546.01",
+      "source_title": "Section 1546.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1546.01",
+      "term": "Law enforcement vessel"
+    },
+    {
+      "definition": "\"Muffler\" means an acoustical suppression device or system that is designed and installed to abate the sound of exhaust gases emitted from an internal combustion engine and that prevents excessive or unusual noise.",
+      "id": "1546.01-muffler",
+      "normalized": "muffler",
+      "scope": "As used in this chapter and Chapter 1547. of the Revised Code:",
+      "section": "1546.01",
+      "source_title": "Section 1546.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1546.01",
+      "term": "Muffler"
+    },
+    {
+      "definition": "\"Navigable waters\" means waters that come under the jurisdiction of the department of the army of the United States and any waterways within or adjacent to this state, except inland lakes having neither a navigable inlet nor outlet.",
+      "id": "1546.01-navigable-waters",
+      "normalized": "navigable waters",
+      "scope": "As used in this chapter and Chapter 1547. of the Revised Code:",
+      "section": "1546.01",
+      "source_title": "Section 1546.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1546.01",
+      "term": "Navigable waters"
+    },
+    {
+      "definition": "\"No wake\" has the same meaning as \"idle speed.\"",
+      "id": "1546.01-no-wake",
+      "normalized": "no wake",
+      "scope": "As used in this chapter and Chapter 1547. of the Revised Code:",
+      "section": "1546.01",
+      "source_title": "Section 1546.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1546.01",
+      "term": "No wake"
+    },
+    {
+      "definition": "\"Operator\" includes any person who uses, navigates, employs, or has under the person's control a vessel, or vessel and detachable motor, on the waters in this state.",
+      "id": "1546.01-operator",
+      "normalized": "operator",
+      "scope": "As used in this chapter and Chapter 1547. of the Revised Code:",
+      "section": "1546.01",
+      "source_title": "Section 1546.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1546.01",
+      "term": "Operator"
+    },
+    {
+      "definition": "\"Owner\" includes any person, other than a secured party, who claims lawful possession of a vessel by virtue of legal title or equitable interest therein that entitled the person to use or possess the vessel, including a person entitled to use or possess a vessel subject to a security interest in another person, but does not include a lessee under a lease not intended as a security.",
+      "id": "1546.01-owner",
+      "normalized": "owner",
+      "scope": "As used in this chapter and Chapter 1547. of the Revised Code:",
+      "section": "1546.01",
+      "source_title": "Section 1546.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1546.01",
+      "term": "Owner"
+    },
+    {
+      "definition": "\"Paddlecraft\" means any type of canoe, kayak, paddleboard, or other vessel powered only by its occupants using a single or double-bladed paddle as a lever without the aid of a fulcrum provided by oarlocks, tholepins, crutches, or similar mechanisms.",
+      "id": "1546.01-paddlecraft",
+      "normalized": "paddlecraft",
+      "scope": "As used in this chapter and Chapter 1547. of the Revised Code:",
+      "section": "1546.01",
+      "source_title": "Section 1546.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1546.01",
+      "term": "Paddlecraft"
+    },
+    {
+      "definition": "\"Performance type\" means the in-water performance classification of a personal flotation device as determined by the United States coast guard.",
+      "id": "1546.01-performance-type",
+      "normalized": "performance type",
+      "scope": "As used in this chapter and Chapter 1547. of the Revised Code:",
+      "section": "1546.01",
+      "source_title": "Section 1546.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1546.01",
+      "term": "Performance type"
+    },
+    {
+      "definition": "\"Person\" includes any legal entity defined as a person in section 1.59 of the Revised Code and any body politic, except the United States and this state, and includes any agent, trustee, executor, receiver, assignee, or other representative thereof.",
+      "id": "1546.01-person",
+      "normalized": "person",
+      "scope": "As used in this chapter and Chapter 1547. of the Revised Code:",
+      "section": "1546.01",
+      "source_title": "Section 1546.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1546.01",
+      "term": "Person"
+    },
+    {
+      "definition": "\"Personal flotation device\" means a United States coast guard approved personal safety device designed to provide buoyancy to support a person in the water.",
+      "id": "1546.01-personal-flotation-device",
+      "normalized": "personal flotation device",
+      "scope": "As used in this chapter and Chapter 1547. of the Revised Code:",
+      "section": "1546.01",
+      "source_title": "Section 1546.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1546.01",
+      "term": "Personal flotation device"
+    },
+    {
+      "definition": "\"Personal watercraft\" means a vessel, less than sixteen feet in length, that is propelled by a water-jet pump or other machinery and designed to be operated by an individual sitting, standing, or kneeling on the vessel rather than by an individual sitting or standing inside the vessel.",
+      "id": "1546.01-personal-watercraft",
+      "normalized": "personal watercraft",
+      "scope": "As used in this chapter and Chapter 1547. of the Revised Code:",
+      "section": "1546.01",
+      "source_title": "Section 1546.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1546.01",
+      "term": "Personal watercraft"
+    },
+    {
+      "definition": "\"Powercraft\" means any vessel propelled by machinery, fuel, rockets, or similar device.",
+      "id": "1546.01-powercraft",
+      "normalized": "powercraft",
+      "scope": "As used in this chapter and Chapter 1547. of the Revised Code:",
+      "section": "1546.01",
+      "source_title": "Section 1546.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1546.01",
+      "term": "Powercraft"
+    },
+    {
+      "definition": "\"Rowboat\" means an open vessel, other than a paddlecraft, that is designed to be rowed and that is propelled by human muscular effort by oars and upon which no mechanical propulsion device, electric motor, internal combustion engine, or sail has been affixed or is used for the operation of the vessel. \"Rowboat\" includes a racing shell and a rowing skull regardless of length or construction.",
+      "id": "1546.01-rowboat",
+      "normalized": "rowboat",
+      "scope": "As used in this chapter and Chapter 1547. of the Revised Code:",
+      "section": "1546.01",
+      "source_title": "Section 1546.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1546.01",
+      "term": "Rowboat"
+    },
+    {
+      "definition": "\"Rules\" means rules adopted by the chief of the division of parks and watercraft under this chapter or Chapter 1547. of the Revised Code, unless the context indicates otherwise.",
+      "id": "1546.01-rules",
+      "normalized": "rules",
+      "scope": "As used in this chapter and Chapter 1547. of the Revised Code:",
+      "section": "1546.01",
+      "source_title": "Section 1546.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1546.01",
+      "term": "Rules"
+    },
+    {
+      "definition": "\"Sailboat\" means any vessel, equipped with mast and sails, dependent upon the wind to propel it in the normal course of operation.\n\nA vessel with sail as its primary method of propulsion and mechanical propulsion as its secondary method of propulsion is an auxiliary sail.\n\nAny sailboat being propelled by mechanical power, whether under sail or not, is deemed a powercraft and subject to all laws and rules governing powercraft operation.",
+      "id": "1546.01-sailboat",
+      "normalized": "sailboat",
+      "scope": "As used in this chapter and Chapter 1547. of the Revised Code:",
+      "section": "1546.01",
+      "source_title": "Section 1546.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1546.01",
+      "term": "Sailboat"
+    },
+    {
+      "definition": "\"Sewage\" means human body wastes and the wastes from toilets and other receptacles intended to receive or retain body waste.",
+      "id": "1546.01-sewage",
+      "normalized": "sewage",
+      "scope": "As used in this chapter and Chapter 1547. of the Revised Code:",
+      "section": "1546.01",
+      "source_title": "Section 1546.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1546.01",
+      "term": "Sewage"
+    },
+    {
+      "definition": "\"Throwable personal flotation device\" means a device that is intended to be thrown to a person in the water. \"Throwable personal flotation device\" includes a personal flotation device marked as \"Type IV\" or \"Type V with Type IV performance.\" \"Throwable personal flotation device\" does not include a wearable personal flotation device unless it is specifically marked otherwise.",
+      "id": "1546.01-throwable-personal-flotation-device",
+      "normalized": "throwable personal flotation device",
+      "scope": "As used in this chapter and Chapter 1547. of the Revised Code:",
+      "section": "1546.01",
+      "source_title": "Section 1546.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1546.01",
+      "term": "Throwable personal flotation device"
+    },
+    {
+      "definition": "\"Towed watersport\" means any activity that involves being towed by or riding in the wake of a recreational vessel, including both of the following:\n\n(1) Riding or attempting to ride on one or more water skis, a wakeboard, a surfboard, an inflatable device, or any other device manufactured or used for the purpose of being towed by a recreational vessel;\n\n(2) Engaging or attempting to engage in barefoot skiing or parasailing.",
+      "id": "1546.01-towed-watersport",
+      "normalized": "towed watersport",
+      "scope": "As used in this chapter and Chapter 1547. of the Revised Code:",
+      "section": "1546.01",
+      "source_title": "Section 1546.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1546.01",
+      "term": "Towed watersport"
+    },
+    {
+      "definition": "\"Type one personal flotation device\" means a device that is designed to turn an unconscious person floating in water from a face downward position to a vertical or slightly face upward position and that has at least nine kilograms, approximately twenty pounds, of buoyancy.",
+      "id": "1546.01-type-one-personal-flotation-device",
+      "normalized": "type one personal flotation device",
+      "scope": "As used in this chapter and Chapter 1547. of the Revised Code:",
+      "section": "1546.01",
+      "source_title": "Section 1546.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1546.01",
+      "term": "Type one personal flotation device"
+    },
+    {
+      "definition": "\"Type two personal flotation device\" means a device that is designed to turn an unconscious person in the water from a face downward position to a vertical or slightly face upward position and that has at least seven kilograms, approximately fifteen and four-tenths pounds, of buoyancy.",
+      "id": "1546.01-type-two-personal-flotation-device",
+      "normalized": "type two personal flotation device",
+      "scope": "As used in this chapter and Chapter 1547. of the Revised Code:",
+      "section": "1546.01",
+      "source_title": "Section 1546.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1546.01",
+      "term": "Type two personal flotation device"
+    },
+    {
+      "definition": "\"Type three personal flotation device\" means a device that is designed to keep a conscious person in a vertical or slightly face upward position and that has at least seven kilograms, approximately fifteen and four-tenths pounds, of buoyancy.",
+      "id": "1546.01-type-three-personal-flotation-device",
+      "normalized": "type three personal flotation device",
+      "scope": "As used in this chapter and Chapter 1547. of the Revised Code:",
+      "section": "1546.01",
+      "source_title": "Section 1546.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1546.01",
+      "term": "Type three personal flotation device"
+    },
+    {
+      "definition": "\"Type four personal flotation device\" means a device that is designed to be thrown to a person in the water and not worn and that has at least seven and five-tenths kilograms, approximately sixteen and five-tenths pounds, of buoyancy.",
+      "id": "1546.01-type-four-personal-flotation-device",
+      "normalized": "type four personal flotation device",
+      "scope": "As used in this chapter and Chapter 1547. of the Revised Code:",
+      "section": "1546.01",
+      "source_title": "Section 1546.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1546.01",
+      "term": "Type four personal flotation device"
+    },
+    {
+      "definition": "\"Type five personal flotation device\" means a device that, unlike other personal flotation devices, has limitations on its approval by the United States coast guard, including, without limitation, any of the following:\n\n(1) A designation that states the device is approved only for use while participating in specific activities;\n\n(2) A designation that states the device is approved only for use by an operator or passenger of specific types of vessels;\n\n(3) A designation that states the device is specifically approved as a substitute for the type of personal flotation device required for use while engaged in certain activities or as an operator or passenger of a vessel.",
+      "id": "1546.01-type-five-personal-flotation-device",
+      "normalized": "type five personal flotation device",
+      "scope": "As used in this chapter and Chapter 1547. of the Revised Code:",
+      "section": "1546.01",
+      "source_title": "Section 1546.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1546.01",
+      "term": "Type five personal flotation device"
+    },
+    {
+      "definition": "\"Vessel\" includes every description of craft, including nondisplacement craft, multimodal craft, and submersibles, being used or capable of being used as a means of transportation on water.",
+      "id": "1546.01-vessel",
+      "normalized": "vessel",
+      "scope": "As used in this chapter and Chapter 1547. of the Revised Code:",
+      "section": "1546.01",
+      "source_title": "Section 1546.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1546.01",
+      "term": "Vessel"
+    },
+    {
+      "definition": "\"Visible\" means visible on a dark night with clear atmosphere.",
+      "id": "1546.01-visible",
+      "normalized": "visible",
+      "scope": "As used in this chapter and Chapter 1547. of the Revised Code:",
+      "section": "1546.01",
+      "source_title": "Section 1546.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1546.01",
+      "term": "Visible"
+    },
+    {
+      "definition": "\"Watercourse\" means a substantially natural channel with recognized banks and bottom in which a flow of water occurs, with an average of at least ten feet mean surface water width and at least five miles of length.",
+      "id": "1546.01-watercourse",
+      "normalized": "watercourse",
+      "scope": "As used in this chapter and Chapter 1547. of the Revised Code:",
+      "section": "1546.01",
+      "source_title": "Section 1546.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1546.01",
+      "term": "Watercourse"
+    },
+    {
+      "definition": "\"Watercraft\" means any of the following when used or capable of being used for transportation on the water:\n\n(1) A vessel operated by machinery either permanently or temporarily affixed;\n\n(2) A sailboat other than a sailboard;\n\n(3) An inflatable, manually propelled vessel that is required by federal law to have a hull identification number meeting the requirements of the United States coast guard;\n\n(4) A canoe, kayak, pedalboat, or rowboat;\n\n(5) Any of the following multimodal craft being operated on waters in this state:\n\n(a) An amphibious vehicle;\n\n(b) A submersible;\n\n(c) An airboat or hovercraft.\n\n(6) A vessel that has been issued a certificate of documentation with a recreational endorsement under 46 C.F.R. 67.",
+      "id": "1546.01-watercraft",
+      "normalized": "watercraft",
+      "scope": "As used in this chapter and Chapter 1547. of the Revised Code:",
+      "section": "1546.01",
+      "source_title": "Section 1546.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1546.01",
+      "term": "Watercraft"
+    },
+    {
+      "definition": "\"Watercraft\" does not include ferries as referred to in Chapter 4583. of the Revised Code.\n\nWatercraft subject to section 1547.54 of the Revised Code are divided into five classes as follows:\n\nClass A: Less than sixteen feet in length;\n\nClass 1: At least sixteen feet, but less than twenty-six feet in length;\n\nClass 2: At least twenty-six feet, but less than forty feet in length;\n\nClass 3: At least forty feet, but less than sixty-five feet in length;\n\nClass 4: At least sixty-five feet in length.",
+      "id": "1546.01-watercraft",
+      "normalized": "watercraft",
+      "scope": "As used in this chapter and Chapter 1547. of the Revised Code:",
+      "section": "1546.01",
+      "source_title": "Section 1546.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1546.01",
+      "term": "Watercraft"
+    },
+    {
+      "definition": "\"Watercraft dealer\" means any person who is regularly engaged in the business of manufacturing, selling, displaying, offering for sale, or dealing in vessels at an established place of business that is used primarily for the selling, displaying, offering for sale, or dealing of vessels. \"Watercraft dealer\" does not include a person who is a marine salvage dealer or any other person who dismantles, salvages, or rebuilds vessels using used parts.",
+      "id": "1546.01-watercraft-dealer",
+      "normalized": "watercraft dealer",
+      "scope": "As used in this chapter and Chapter 1547. of the Revised Code:",
+      "section": "1546.01",
+      "source_title": "Section 1546.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1546.01",
+      "term": "Watercraft dealer"
+    },
+    {
+      "definition": "\"Waters in this state\" means all streams, rivers, lakes, ponds, marshes, watercourses, waterways, and other bodies of water, natural or humanmade, that are situated wholly or partially within this state or within its jurisdiction and are used for recreational boating.",
+      "id": "1546.01-waters-in-this-state",
+      "normalized": "waters in this state",
+      "scope": "As used in this chapter and Chapter 1547. of the Revised Code:",
+      "section": "1546.01",
+      "source_title": "Section 1546.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1546.01",
+      "term": "Waters in this state"
+    },
+    {
+      "definition": "\"Wearable personal flotation device\" means a device that is intended to be worn or otherwise attached to a person's body. \"Wearable personal flotation device\" includes a personal flotation device marked as \"Type I,\" \"Type II,\" \"Type III,\" \"Type V with Type II performance,\" or \"Type V with Type III performance.\"\n\nLast updated August 16, 2024 at 9:57 AM",
+      "id": "1546.01-wearable-personal-flotation-device",
+      "normalized": "wearable personal flotation device",
+      "scope": "As used in this chapter and Chapter 1547. of the Revised Code:",
+      "section": "1546.01",
+      "source_title": "Section 1546.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1546.01",
+      "term": "Wearable personal flotation device"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "4506.01",
+      "number": "4506.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4506.01"
+    },
+    {
+      "kind": "section",
+      "label": "1.59",
+      "number": "1.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1.59"
+    },
+    {
+      "kind": "section",
+      "label": "1547.54",
+      "number": "1547.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.54"
+    }
+  ],
+  "scraped": "2026-07-02T19:37:51+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1546.01",
+  "title": "Section 1546.01 - Definitions."
+}

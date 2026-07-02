@@ -1,0 +1,20 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-6115.51
+Scraped: 2026-07-02T20:17:22+00:00
+
+# Section 6115.51 - Treasurer's duties - bonds - investments.
+
+**Effective:** July 8, 1993
+
+**Latest Legislation:** Senate Bill 105 - 120th General Assembly
+
+The treasurer of a sanitary district shall, at the time of taking office, execute and deliver to the president of the board of directors of the sanitary district, a bond with good and sufficient sureties, to be approved by the board, conditioned that the treasurer shall account for and pay over as required by law, and as ordered by the board, all money received by him on the sale of any of such bonds or from any other source, and that he will only sell and deliver such bonds to the purchasers thereof under and according to the terms prescribed in this section and section 6115.50 of the Revised Code. The treasurer of the district shall promptly report all sales of bonds to the board, and the board shall issue warrants at the proper time for the payment of the principal, including mandatory sinking fund payments, and premium, if any, and the interest payments coming due on all bonds sold, and the treasurer shall place sufficient funds at the place of payment to pay the bonds. In case proper warrants are not issued by the board as provided in this section, the treasurer of the district shall of his own accord place funds at the place of payment.
+
+The successor in office of any treasurer of a sanitary district is not entitled to the bonds or the proceeds thereof until he has complied with this section. If it is deemed more expedient by the board, as to moneys derived from the sale of bonds issued or from any other source, the board may by resolution select some suitable bank or banks or other depository, which depository shall be a qualified trustee as provided in section 135.18 of the Revised Code to hold and disburse such moneys on the orders of the board as the work progresses, until such fund is exhausted or transferred to the treasurer of the district by order of the board. The funds derived from the sale of any of such bonds shall be used only for paying the cost of the works and improvements and such costs, expenses, fees, and salaries, including financing costs, as are authorized by law.
+
+The district may secure the payment of loans authorized by this chapter in the same manner as it may secure the payment of bonds, and the board may make any necessary rules to provide for such payment. A party who has not sought a remedy against any proceeding under this chapter, until after bonds have been sold or the work constructed, cannot for any cause have an injunction against the collection of taxes or assessments for the payment of such bonds.
+
+Such bonds are negotiable instruments under Chapter 1303. of the Revised Code, and when executed under such sections, and when sold in the manner prescribed in this section and section 6115.50 of the Revised Code and the consideration therefor is received by the district, shall not be invalidated for any irregularity or defect in the proceedings for the issue and sale thereof, and are incontestable in the hands of bona fide purchasers or holders thereof for value. No proceedings in respect to the issuance of any such bonds shall be necessary except such as are required by this chapter.
+
+Moneys in the funds of the district, in excess of current needs, may be invested in investments authorized under Chapter 135. of the Revised Code for the investment of interim moneys, except as otherwise provided in any resolution authorizing the issuance of its revenue bonds, in any trust agreement securing its revenue bonds, or in any other resolution authorizing the investment of its funds. Income from all such investments of moneys in any fund shall be credited to such funds as the board determines, subject to any such resolution or trust agreement, and such investments may be sold at such times as the treasurer determines.
+
+Last updated October 2, 2025 at 11:50 AM

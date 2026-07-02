@@ -1,0 +1,160 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Action\" means a judicial proceeding or arbitration in which a payment in money may be awarded or enforced with respect to a foreign-money claim.",
+      "id": "2337.01-action",
+      "normalized": "action",
+      "scope": "As used in sections 2337.01 to 2337.14 of the Revised Code:",
+      "section": "2337.01",
+      "source_title": "Section 2337.01 - Uniform foreign-money claims act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2337.01",
+      "term": "Action"
+    },
+    {
+      "definition": "(B) \"Bank-offered spot rate\" means the spot rate of exchange at which a bank will sell foreign money at a spot rate.",
+      "id": "2337.01-bank-offered-spot-rate",
+      "normalized": "bank-offered spot rate",
+      "scope": "As used in sections 2337.01 to 2337.14 of the Revised Code:",
+      "section": "2337.01",
+      "source_title": "Section 2337.01 - Uniform foreign-money claims act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2337.01",
+      "term": "Bank-offered spot rate"
+    },
+    {
+      "definition": "(C) \"Conversion date\" means the banking day next preceding the date on which money, in accordance with sections 2337.01 to 2337.15 of the Revised Code, is:\n\n(1) Paid to a claimant in an action or distribution proceeding;\n\n(2) Paid to the official designated by law to enforce a judgment or award on behalf of a claimant; or\n\n(3) Used to recoup, set-off, or counterclaim in different moneys in an action or distribution proceeding.",
+      "id": "2337.01-conversion-date",
+      "normalized": "conversion date",
+      "scope": "As used in sections 2337.01 to 2337.14 of the Revised Code:",
+      "section": "2337.01",
+      "source_title": "Section 2337.01 - Uniform foreign-money claims act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2337.01",
+      "term": "Conversion date"
+    },
+    {
+      "definition": "(D) \"Distribution proceeding\" means a judicial or nonjudicial proceeding for the distribution of a fund in which one or more foreign-money claims is asserted and includes an accounting, an assignment for the benefit of creditors, a foreclosure, the liquidation or rehabilitation of a corporation or other entity, and the distribution of an estate, trust, or other fund.",
+      "id": "2337.01-distribution-proceeding",
+      "normalized": "distribution proceeding",
+      "scope": "As used in sections 2337.01 to 2337.14 of the Revised Code:",
+      "section": "2337.01",
+      "source_title": "Section 2337.01 - Uniform foreign-money claims act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2337.01",
+      "term": "Distribution proceeding"
+    },
+    {
+      "definition": "(E) \"Foreign money\" means money other than money of the United States.",
+      "id": "2337.01-foreign-money",
+      "normalized": "foreign money",
+      "scope": "As used in sections 2337.01 to 2337.14 of the Revised Code:",
+      "section": "2337.01",
+      "source_title": "Section 2337.01 - Uniform foreign-money claims act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2337.01",
+      "term": "Foreign money"
+    },
+    {
+      "definition": "(F) \"Foreign-money claim\" means a claim upon an obligation to pay, or a claim for recovery of a loss, expressed in or measured by a foreign money.",
+      "id": "2337.01-foreign-money-claim",
+      "normalized": "foreign-money claim",
+      "scope": "As used in sections 2337.01 to 2337.14 of the Revised Code:",
+      "section": "2337.01",
+      "source_title": "Section 2337.01 - Uniform foreign-money claims act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2337.01",
+      "term": "Foreign-money claim"
+    },
+    {
+      "definition": "(G) \"Money\" means a medium of exchange for the payment of obligations or a store of value authorized or adopted by a government or by intergovernmental agreement.",
+      "id": "2337.01-money",
+      "normalized": "money",
+      "scope": "As used in sections 2337.01 to 2337.14 of the Revised Code:",
+      "section": "2337.01",
+      "source_title": "Section 2337.01 - Uniform foreign-money claims act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2337.01",
+      "term": "Money"
+    },
+    {
+      "definition": "(H) \"Money of the claim\" means the money determined as proper pursuant to section 2337.04 of the Revised Code.",
+      "id": "2337.01-money-of-the-claim",
+      "normalized": "money of the claim",
+      "scope": "As used in sections 2337.01 to 2337.14 of the Revised Code:",
+      "section": "2337.01",
+      "source_title": "Section 2337.01 - Uniform foreign-money claims act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2337.01",
+      "term": "Money of the claim"
+    },
+    {
+      "definition": "(I) \"Person\" means an individual, a corporation, government or governmental subdivision or agency, business trust, estate, trust, joint venture, partnership, association, two or more persons having a joint or common interest, or any other legal or commercial entity.",
+      "id": "2337.01-person",
+      "normalized": "person",
+      "scope": "As used in sections 2337.01 to 2337.14 of the Revised Code:",
+      "section": "2337.01",
+      "source_title": "Section 2337.01 - Uniform foreign-money claims act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2337.01",
+      "term": "Person"
+    },
+    {
+      "definition": "(J) \"Rate of exchange\" means the rate at which money of one country may be converted into money of another country in a free financial market convenient to or reasonably usable by a person obligated to pay or to state a rate of conversion. If separate rates of exchange apply to different kinds of transactions, the term means the rate applicable to the particular transaction giving rise to the foreign-money claim.",
+      "id": "2337.01-rate-of-exchange",
+      "normalized": "rate of exchange",
+      "scope": "As used in sections 2337.01 to 2337.14 of the Revised Code:",
+      "section": "2337.01",
+      "source_title": "Section 2337.01 - Uniform foreign-money claims act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2337.01",
+      "term": "Rate of exchange"
+    },
+    {
+      "definition": "(K) \"Spot rate\" means the rate of exchange at which foreign money is sold by a bank or other dealer in foreign exchange for immediate or next day availability or for settlement by immediate payment in cash or equivalent, by charge to an account, or by an agreed delayed settlement not exceeding two days.",
+      "id": "2337.01-spot-rate",
+      "normalized": "spot rate",
+      "scope": "As used in sections 2337.01 to 2337.14 of the Revised Code:",
+      "section": "2337.01",
+      "source_title": "Section 2337.01 - Uniform foreign-money claims act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2337.01",
+      "term": "Spot rate"
+    },
+    {
+      "definition": "(L) \"State\" has the same meaning as in section 1.59 of the Revised Code.",
+      "id": "2337.01-state",
+      "normalized": "state",
+      "scope": "As used in sections 2337.01 to 2337.14 of the Revised Code:",
+      "section": "2337.01",
+      "source_title": "Section 2337.01 - Uniform foreign-money claims act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2337.01",
+      "term": "State"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2337.01",
+      "number": "2337.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2337.01"
+    },
+    {
+      "kind": "section",
+      "label": "2337.14",
+      "number": "2337.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2337.14"
+    },
+    {
+      "kind": "section",
+      "label": "2337.15",
+      "number": "2337.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2337.15"
+    },
+    {
+      "kind": "section",
+      "label": "2337.04",
+      "number": "2337.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2337.04"
+    },
+    {
+      "kind": "section",
+      "label": "1.59",
+      "number": "1.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1.59"
+    }
+  ],
+  "scraped": "2026-07-02T19:44:28+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2337.01",
+  "title": "Section 2337.01 - Uniform foreign-money claims act definitions."
+}

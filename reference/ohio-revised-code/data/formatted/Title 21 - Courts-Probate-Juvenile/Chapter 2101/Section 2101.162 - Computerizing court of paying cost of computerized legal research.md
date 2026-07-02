@@ -1,0 +1,18 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-2101.162
+Scraped: 2026-07-02T19:41:07+00:00
+
+# Section 2101.162 - Computerizing court of paying cost of computerized legal research.
+
+**Effective:** March 20, 2015
+
+**Latest Legislation:** Senate Bill 23 - 130th General Assembly
+
+(A)(1) The probate judge may determine that, for the efficient operation of the probate court, additional funds are required to computerize the court, make available computerized legal research services, or to do both. Upon making a determination that additional funds are required for either or both of those purposes, the probate judge shall charge a fee not to exceed three dollars or authorize and direct a deputy clerk of the probate court to charge a fee not to exceed three dollars, in addition to the fees specified in divisions (A)(1), (3), (4), (6), (14) to (17), (20) to (25), (27), (30) to (32), (34), (35), (37) to (48), (50) to (55), (59) to (61), (63) to (66), (69), and (72) of section 2101.16 of the Revised Code and the fee charged in connection with the docketing and indexing of an appeal.
+
+(2) All moneys collected under division (A)(1) of this section shall be paid to the county treasurer. The treasurer shall place the moneys from the fees in a separate fund to be disbursed, upon an order of the probate judge, in an amount no greater than the actual cost to the court of procuring and maintaining computerization of the court, computerized legal research services, or both.
+
+(3) If the court determines that the funds in the fund described in division (A)(2) of this section are more than sufficient to satisfy the purpose for which the additional fee described in division (A)(1) of this section was imposed, the court may declare a surplus in the fund and expend those surplus funds for other appropriate technological expenses of the court.
+
+(B)(1) The probate judge may determine that, for the efficient operation of the probate court, additional funds are required to computerize the office of the clerk of the court and, upon that determination, may charge a fee, not to exceed ten dollars, or authorize and direct a deputy clerk of the probate court to charge a fee, not to exceed ten dollars, in addition to the fees specified in divisions (A)(1), (3), (4), (6), (14) to (17), (20) to (25), (27), (30) to (32), (34), (35), (37) to (48), (50) to (55), (59) to (61), (63) to (66), (69), and (72) of section 2101.16 of the Revised Code and the fee charged in connection with the docketing and indexing of an appeal. Subject to division (B)(2) of this section, all moneys collected under this division shall be paid to the county treasurer to be disbursed, upon an order of the probate judge and subject to appropriation by the board of county commissioners, in an amount no greater than the actual cost to the probate court of procuring and maintaining computer systems for the office of the clerk of the court.
+
+(2) If the probate judge makes the determination described in division (B)(1) of this section, the board of county commissioners may issue one or more general obligation bonds for the purpose of procuring and maintaining the computer systems for the office of the clerk of the probate court. In addition to the purposes stated in division (B)(1) of this section for which the moneys collected under that division may be expended, the moneys additionally may be expended to pay debt charges on and financing costs related to any general obligation bonds issued pursuant to this division as they become due. General obligation bonds issued pursuant to this division are Chapter 133. securities.

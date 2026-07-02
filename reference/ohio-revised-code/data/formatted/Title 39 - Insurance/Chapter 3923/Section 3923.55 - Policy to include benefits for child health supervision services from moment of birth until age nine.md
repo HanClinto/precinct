@@ -1,0 +1,26 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3923.55
+Scraped: 2026-07-02T20:02:47+00:00
+
+# Section 3923.55 - Policy to include benefits for child health supervision services from moment of birth until age nine.
+
+**Effective:** August 1, 2002
+
+**Latest Legislation:** House Bill 150 - 124th General Assembly
+
+(A) As used in this section and section 3923.56 of the Revised Code:
+
+(1) "Child health supervision services" means periodic review of a child's physical and emotional status performed by a physician, by a health care professional under the supervision of a physician, or, in the case of hearing screening, by an individual acting in accordance with section 3701.505 of the Revised Code.
+
+(2) "Periodic review" means a review performed in accordance with the recommendations of the American academy of pediatrics and includes a history, complete physical examination, developmental assessment, anticipatory guidance, appropriate immunizations, and laboratory tests.
+
+(3) "Physician" means a person authorized under Chapter 4731. of the Revised Code to practice medicine and surgery or osteopathic medicine and surgery.
+
+(B) Notwithstanding section 3901.71 of the Revised Code, each policy of individual or group sickness and accident insurance delivered, issued for delivery, or renewed in this state on or after the effective date of this amendment, that provides coverage for family members of the insured shall provide, with respect to that coverage, that any benefits applicable for children shall include benefits for child health supervision services from the moment of birth until age nine.
+
+(C) A policy that provides the benefits described in division (B) of this section may limit the benefits to cover only the expenses of child health supervision services that are performed by one physician or by a health care professional under the supervision of one physician during the course of any one visit.
+
+(D) Copayments and deductibles shall be reasonable and shall not be a barrier to the necessary utilization of child health supervision services by covered persons.
+
+(E) Benefits for child health supervision services that are provided to a child during the period from birth to age one shall not exceed a maximum limit of five hundred dollars, including benefits for the hearing screening required by the program established under section 3701.504 of the Revised Code. The benefits for the hearing screening shall not exceed a maximum limit of seventy-five dollars. Benefits for child health supervision services that are provided to a child during any year thereafter shall not exceed a maximum limit of one hundred fifty dollars per year.
+
+(F) This section does not apply to any policy that provides coverage for specific diseases or accidents only, or to any hospital indemnity, medicare supplement, or other policy that offers only supplemental benefits.

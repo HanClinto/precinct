@@ -1,0 +1,62 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5815.26
+Scraped: 2026-07-02T20:16:17+00:00
+
+# Section 5815.26 - Holding cash or making temporary investments.
+
+**Effective:** October 3, 2023
+
+**Latest Legislation:** House Bill 33 - 135th General Assembly
+
+(A) As used in this section:
+
+(1) "Fiduciary" means a trustee under any testamentary, inter vivos, or other trust, an executor or administrator, or any other person who is acting in a fiduciary capacity for a person, trust, or estate.
+
+(2) "Short term trust-quality investment fund" means a short term investment fund that meets both of the following conditions:
+
+(a) The fund may be either a collective investment fund established pursuant to section 1111.14 of the Revised Code or a registered investment company, including any affiliated investment company whether or not the fiduciary has invested other funds held by it in an agency or other nonfiduciary capacity in the securities of the same registered investment company or affiliated investment company.
+
+(b) The fund is invested in any one or more of the following manners:
+
+(i) In obligations of the United States or of its agencies;
+
+(ii) In obligations of one or more of the states of the United States or their political subdivisions;
+
+(iii) In variable demand notes, corporate money market instruments including, but not limited to, commercial paper rated at the time of purchase in either of the two highest classifications established by at least one nationally recognized statistical rating organization;
+
+(iv) In deposits in banks or savings and loan associations whose deposits are insured by the federal deposit insurance corporation, if the rate of interest paid on such deposits is at least equal to the rate of interest generally paid by such banks or savings and loan associations on deposits of similar terms or amounts;
+
+(v) In fully collateralized repurchase agreements or other evidences of indebtedness that are of trust quality and are payable on demand or have a maturity date consistent with the purpose of the fund and the duty of fiduciary prudence.
+
+(3) "Registered investment company" means any investment company that is defined in and registered under sections 3 and 8 of the "Investment Company Act of 1940," 54 Stat. 789, 15 U.S.C.A. 80a-3 and 80a-8.
+
+(4) "Affiliated investment company" has the same meaning as in division (E)(1) of section 1111.10 of the Revised Code.
+
+(B) A fiduciary is not required to invest cash that belongs to the trust and may hold that cash for the period prior to distribution if either of the following applies:
+
+(1) The fiduciary reasonably expects to do either of the following:
+
+(a) Distribute the cash to beneficiaries of the trust on a quarterly or more frequent basis;
+
+(b) Use the cash for the payment of debts, taxes, or expenses of administration within the ninety-day period following the receipt of the cash by the fiduciary.
+
+(2) Determined on the basis of the facilities available to the fiduciary and the amount of the income that reasonably could be earned by the investment of the cash, the amount of the cash does not justify the administrative burden or expense associated with its investment.
+
+(C) If a fiduciary wishes to hold funds that belong to the trust in liquid form and division (B) of this section does not apply, the fiduciary may so hold the funds as long as they are temporarily invested as described in division (D) of this section.
+
+(D)(1) A fiduciary may make a temporary investment of cash that may be held uninvested in accordance with division (B) of this section, and shall make a temporary investment of funds held in liquid form pursuant to division (C) of this section, in any of the following investments, unless the governing instrument provides for other investments in which the temporary investment of cash or funds is permitted:
+
+(a) A short term trust-quality investment fund;
+
+(b) Direct obligations of the United States or of its agencies;
+
+(c) A deposit with a bank or savings and loan association, including a deposit with the fiduciary itself or any bank subsidiary corporation owned or controlled by the bank holding company that owns or controls the fiduciary, whose deposits are insured by the federal deposit insurance corporation, if the rate of interest paid on that deposit is at least equal to the rate of interest generally paid by that bank or savings and loan association on deposits of similar terms or amounts.
+
+(2) A fiduciary that makes a temporary investment of cash or funds pursuant to division (D)(1) of this section may charge a reasonable fee for the services associated with that investment. The fee shall be in addition to the compensation to which the fiduciary is entitled for his ordinary fiduciary services.
+
+(3) Fiduciaries that make one or more temporary investments of cash or funds pursuant to division (D)(1) of this section shall provide to the beneficiaries of the trusts involved, that are currently receiving income or have a right to receive income, a written disclosure of their temporary investment practices and, if applicable, the method of computing reasonable fees for their temporary investment services pursuant to division (D)(2) of this section. Fiduciaries may comply with this requirement in any appropriate written document, including, but not limited to, any periodic statement or account.
+
+(4) A fiduciary that makes a temporary investment of cash or funds in an affiliated investment company pursuant to division (D)(1)(a) of this section shall, when providing any periodic account statements of its temporary investment practices, report the net asset value of the shares comprising the investment in the affiliated investment company.
+
+(5) If a fiduciary that makes a temporary investment of cash or funds in an affiliated investment company pursuant to division (D)(1)(a) of this section invests in any mutual fund, the fiduciary shall provide to the beneficiaries of the trust involved, that are currently receiving income or have a right to receive income, a written disclosure, in at least ten-point boldface type, that the mutual fund is not insured or guaranteed by the federal deposit insurance corporation or by any other government agency or government-sponsored agency of the federal government or of this state.
+
+Last updated September 6, 2023 at 3:56 PM

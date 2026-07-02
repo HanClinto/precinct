@@ -1,0 +1,62 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) As used in Chapters 2931. to 2953. of the Revised Code, \"magistrate\" includes county court judges, police justices, mayors of municipal corporation, and judges of other courts inferior to the court of common pleas.\n\n(B) As used in Chapters 2931. to 2953., except sections 2933.21 to 2933.33 , of the Revised Code:",
+      "id": "2931.01-magistrate",
+      "normalized": "magistrate",
+      "scope": "",
+      "section": "2931.01",
+      "source_title": "Section 2931.01 - Definitions pertaining to jurisdiction and venue.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2931.01",
+      "term": "magistrate"
+    },
+    {
+      "definition": "(1) \"Judge\" does not include the probate judge.",
+      "id": "2931.01-judge",
+      "normalized": "judge",
+      "scope": "(B) As used in Chapters 2931. to 2953., except sections 2933.21 to 2933.33 , of the Revised Code:",
+      "section": "2931.01",
+      "source_title": "Section 2931.01 - Definitions pertaining to jurisdiction and venue.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2931.01",
+      "term": "Judge"
+    },
+    {
+      "definition": "(2) \"Court\" does not include the probate court.",
+      "id": "2931.01-court",
+      "normalized": "court",
+      "scope": "(B) As used in Chapters 2931. to 2953., except sections 2933.21 to 2933.33 , of the Revised Code:",
+      "section": "2931.01",
+      "source_title": "Section 2931.01 - Definitions pertaining to jurisdiction and venue.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2931.01",
+      "term": "Court"
+    },
+    {
+      "definition": "(3) \"Clerk\" does not include the clerk of the probate court.",
+      "id": "2931.01-clerk",
+      "normalized": "clerk",
+      "scope": "(B) As used in Chapters 2931. to 2953., except sections 2933.21 to 2933.33 , of the Revised Code:",
+      "section": "2931.01",
+      "source_title": "Section 2931.01 - Definitions pertaining to jurisdiction and venue.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2931.01",
+      "term": "Clerk"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2933.21",
+      "number": "2933.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2933.21"
+    },
+    {
+      "kind": "section",
+      "label": "2933.33",
+      "number": "2933.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2933.33"
+    }
+  ],
+  "scraped": "2026-07-02T19:46:35+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2931.01",
+  "title": "Section 2931.01 - Definitions pertaining to jurisdiction and venue."
+}

@@ -1,0 +1,429 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 5501.01 - Department of transportation definitions.",
+      "number": "5501.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.02 - Director of transportation to prescribe rules and appoint employees.",
+      "number": "5501.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.03 - Department of transportation - powers and duties.",
+      "number": "5501.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.031 - Energy conservation in planning, design, and utilization of transportation facilities.",
+      "number": "5501.031",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.031"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.04 - Distribution of duties, powers, and functions of the department; deputy directors.",
+      "number": "5501.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.041 - Advanced air mobility division.",
+      "number": "5501.041",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.041"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.05 - Prohibiting use of highway funds for non-highway purposes.",
+      "number": "5501.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.051 - Transfer of realty to municipality for health care services.",
+      "number": "5501.051",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.051"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.06 - Department of transportation succeeds to rights and duties of department of highways.",
+      "number": "5501.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.07 - Office of public transportation of division of multi-modal planning and programs.",
+      "number": "5501.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.071 - Deposit of public transportation program funds to highway operating fund.",
+      "number": "5501.071",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.071"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.08 - Metrics for statewide strategic transportation planning.",
+      "number": "5501.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.10 - Classification and prioritization of new construction plans and contracts.",
+      "number": "5501.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.11 - Department of transportation with respect to highways.",
+      "number": "5501.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.12 - Chief engineer.",
+      "number": "5501.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.14 - Division of state into districts - district deputy directors.",
+      "number": "5501.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.16 - Chief clerk and secretaries.",
+      "number": "5501.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.17 - Assistants to prepare plans and surveys - contracts with planning commissions.",
+      "number": "5501.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.20 - Department of transportation business plan.",
+      "number": "5501.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.21 - Department seal - records, documents - deposition of director.",
+      "number": "5501.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.22 - Actions against director.",
+      "number": "5501.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.23 - Lectures by director.",
+      "number": "5501.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.24 - Director may call conference.",
+      "number": "5501.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.25 - Bond of employees.",
+      "number": "5501.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.27 - Increased penalties for traffic violations in construction zone.",
+      "number": "5501.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.31 - Director of transportation - powers and duties.",
+      "number": "5501.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.311 - Leases or lease-purchase of transportation facilities.",
+      "number": "5501.311",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.311"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.312 - Contracts for use or service of transportation facility.",
+      "number": "5501.312",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.312"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.32 - Purchase of real property for highway purposes.",
+      "number": "5501.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.33 - Accepting donations of real property.",
+      "number": "5501.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.331 - Deed for donated property.",
+      "number": "5501.331",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.331"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.332 - Deed releasing donated property.",
+      "number": "5501.332",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.332"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.34 - Selling real property no longer required for highway purposes.",
+      "number": "5501.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.38 - Reusing petroleum contaminated sands, gravel and soils as highway construction materials.",
+      "number": "5501.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.39 - Research laboratory.",
+      "number": "5501.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.40 - Housing and care of equipment.",
+      "number": "5501.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.41 - Removal of snow and ice.",
+      "number": "5501.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.42 - Supervision of trees and shrubs.",
+      "number": "5501.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.421 - GRASS program.",
+      "number": "5501.421",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.421"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.43 - Contracts in name of state.",
+      "number": "5501.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.44 - Cooperative agreements for repair of bridges and regional traffic management systems.",
+      "number": "5501.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.441 - Toll enforcement agreements.",
+      "number": "5501.441",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.441"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.45 - Conveyance of lands not needed for highway or recreation purposes.",
+      "number": "5501.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.451 - Leasing state lands for erecting advertising devices.",
+      "number": "5501.451",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.451"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.46 - Conveying land to department of transportation by other state agencies and political subdivisions.",
+      "number": "5501.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.47 - Bridge inspections.",
+      "number": "5501.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.48 - Toll bridge inspection.",
+      "number": "5501.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.49 - Lift bridge inspection.",
+      "number": "5501.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.50 - Leases of real property not immediately needed for highway purposes for agricultural purposes.",
+      "number": "5501.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.51 - Reimbursing utility for facilities relocated by highway project.",
+      "number": "5501.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.52 - Annual reports summarizing state and federal money spent on highway projects.",
+      "number": "5501.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.521 - Department of transportation expense reports.",
+      "number": "5501.521",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.521"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.53 - Private contribution money to support highways and roads used by animal-drawn vehicles.",
+      "number": "5501.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.55 - Overseeing safety practices of rail fixed guideway systems.",
+      "number": "5501.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.56 - System safety program plan.",
+      "number": "5501.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.70 - Definitions for ORC sections 5501.70 to 5501.83.",
+      "number": "5501.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.71 - Authority for department of transportation to enter public-private initiative; solicitation and selection.",
+      "number": "5501.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.72 - Unsolicited proposals.",
+      "number": "5501.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.73 - Public-private agreement.",
+      "number": "5501.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.74 - Termination of public-private agreement.",
+      "number": "5501.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.74"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.75 - Material default by operator.",
+      "number": "5501.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.76 - Issuance of obligations.",
+      "number": "5501.76",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.76"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.77 - Powers of department.",
+      "number": "5501.77",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.77"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.78 - Exemption from ad valorem property taxes and special assessments.",
+      "number": "5501.78",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.78"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.79 - Acquisition of property.",
+      "number": "5501.79",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.79"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.80 - Law enforcement officers; powers.",
+      "number": "5501.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.80"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.81 - Crossing or relocation of facility.",
+      "number": "5501.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.82 - Sovereign immunity.",
+      "number": "5501.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.82"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.83 - Adoption of rules.",
+      "number": "5501.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.83"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5501.91 - Ohio maritime assistance program.",
+      "number": "5501.91",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.91"
+    }
+  ],
+  "scraped": "2026-07-02T20:12:20+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-5501",
+  "title": "Chapter 5501 - Department Of Transportation"
+}

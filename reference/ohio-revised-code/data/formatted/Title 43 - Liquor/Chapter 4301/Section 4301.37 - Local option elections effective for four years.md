@@ -1,0 +1,24 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4301.37
+Scraped: 2026-07-02T20:04:59+00:00
+
+# Section 4301.37 - Local option elections effective for four years.
+
+**Effective:** April 9, 2001
+
+**Latest Legislation:** Senate Bill 262 - 123rd General Assembly
+
+(A) When a local option election, other than an election under section 4301.351 , 4301.352 , 4301.353 , 4301.354 , 4301.355 , or 4301.356 of the Revised Code, is held in any precinct, except as provided in divisions (G) and (H) of section 4301.39 of the Revised Code, the result of the election shall be effective in the precinct until another election is called and held pursuant to sections 4301.32 to 4301.36 of the Revised Code, but no such election shall be held in the precinct on the same question more than once in each four years.
+
+(B) When a local option election under section 4301.351 of the Revised Code is held in any precinct, except as provided in divisions (G) and (H) of section 4301.39 of the Revised Code, the result of the election shall be effective in the precinct until another election is called and held pursuant to sections 4301.32 to 4301.361 of the Revised Code, but no such election shall be held under section 4301.351 of the Revised Code in the precinct on the same question more than once in each four years.
+
+(C) When a local option election is held in a precinct under section 4301.352 of the Revised Code and a majority of the electors voting on the question vote "yes," no subsequent local option election shall be held in the precinct upon the sale of beer or intoxicating liquor by the class C or D permit holder at the specified premises for a period of at least four years from the date of the most recent local option election, except that this division shall not be construed to prohibit the holding or affect the results of a local option election under section 4301.35 , 4301.351 , 4301.353 , 4301.354 , 4303.29 , or 4305.14 of the Revised Code.
+
+(D) When a local option election is held in a precinct under section 4301.353 or 4301.354 of the Revised Code, except as provided in divisions (G) and (H) of section 4301.39 of the Revised Code, the results of the election shall be effective until another election is held under that section on the same question, but no such election shall be held in a precinct under that section on the same question for a period of at least four years from the date of the most recent election on that question. This division shall not be construed to prohibit the future holding of, or affect the future results of, a local option election held under section 4301.35 , 4301.351 , 4301.355 , 4303.29 , or 4305.14 of the Revised Code.
+
+(E) When a local option election is held in a precinct under section 4301.355 of the Revised Code, the results of that election shall be effective at the particular location designated in the petition until another election is held pursuant to section 4301.355 of the Revised Code or until such time as an election is held pursuant to section 4301.352 of the Revised Code, but no election shall be held under section 4301.355 of the Revised Code regarding the same use at that particular location for a period of at least four years from the date of the most recent election on that question. The results of a local option election held in a precinct under section 4301.355 of the Revised Code shall not prohibit the holding of, and shall be affected by the results of, a local option election held under section 4301.35 , 4301.351 , 4301.353 , 4301.354 , 4303.29 , or 4305.14 of the Revised Code.
+
+(F) When a local option election is held in a municipal corporation or unincorporated area of a township under section 4301.356 of the Revised Code, the results of the election shall be effective at the community facility that was the subject of the election until another such election is held regarding that community facility, but no such election shall be held for a period of at least four years from the date of the election. The results of a local option election held in a municipal corporation or unincorporated area of a township under section 4301.356 of the Revised Code shall not prohibit the holding of, or affect or be affected by the results of, a local option election held under section 4301.35 , 4301.351 , 4301.353 , 4301.354 , 4303.29 , or 4305.14 of the Revised Code.
+
+(G) If a community facility is located in an election precinct in which a previous local option election in the precinct resulted in approval of the sale of beer or intoxicating liquor in the precinct, the community facility shall sell beer or intoxicating liquor only to the extent permitted by the previous local option election until an election is held pursuant to section 4301.356 of the Revised Code.
+
+(H) A community facility shall not be affected by a local option election held on or after March 30, 1999, unless the election is held under section 4301.356 of the Revised Code.

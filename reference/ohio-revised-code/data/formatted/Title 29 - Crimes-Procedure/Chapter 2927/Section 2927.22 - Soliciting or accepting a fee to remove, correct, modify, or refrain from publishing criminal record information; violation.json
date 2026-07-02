@@ -1,0 +1,62 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Booking photograph\" means a photograph of a subject individual that was taken in this state by an arresting law enforcement agency.",
+      "id": "2927.22-booking-photograph",
+      "normalized": "booking photograph",
+      "scope": "(A) As used in this section:",
+      "section": "2927.22",
+      "source_title": "Section 2927.22 - Soliciting or accepting a fee to remove, correct, modify, or refrain from publishing criminal record information; violation.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2927.22",
+      "term": "Booking photograph"
+    },
+    {
+      "definition": "(2) \"Criminal record information\" means a booking photograph or the name, address, charges filed, or description of a subject individual who is asserted or implied to have engaged in illegal conduct.",
+      "id": "2927.22-criminal-record-information",
+      "normalized": "criminal record information",
+      "scope": "(A) As used in this section:",
+      "section": "2927.22",
+      "source_title": "Section 2927.22 - Soliciting or accepting a fee to remove, correct, modify, or refrain from publishing criminal record information; violation.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2927.22",
+      "term": "Criminal record information"
+    },
+    {
+      "definition": "(3) \"Law enforcement agency\" has the same meaning as in section 109.573 of the Revised Code.",
+      "id": "2927.22-law-enforcement-agency",
+      "normalized": "law enforcement agency",
+      "scope": "(A) As used in this section:",
+      "section": "2927.22",
+      "source_title": "Section 2927.22 - Soliciting or accepting a fee to remove, correct, modify, or refrain from publishing criminal record information; violation.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2927.22",
+      "term": "Law enforcement agency"
+    },
+    {
+      "definition": "(4) \"Subject individual\" means an individual who was arrested and had the individual's photograph taken by a law enforcement agency during the processing of the arrest.\n\n(B) No person engaged in publishing or otherwise disseminating criminal record information through a print or electronic medium shall negligently solicit or accept from a subject individual the payment of a fee or other consideration to remove, correct, modify, or refrain from publishing or otherwise disseminating criminal record information.\n\n(C) A violation of division (B) of this section is misuse of criminal record information, a misdemeanor of the first degree.\n\n(D) Each payment solicited or accepted in violation of this section constitutes a separate violation.\n\n(E) In a civil action brought pursuant to section 2307.60 of the Revised Code for a violation of this section, a subject individual who suffers a loss or harm as a result of the violation may be awarded an amount equal to ten thousand dollars or actual and punitive damages, whichever is greater, and in addition may be awarded reasonable attorney's fees, court costs, and any other remedies provided by law. Humiliation or embarrassment shall be adequate to show that the plaintiff has incurred damages. No physical manifestation of either humiliation or embarrassment is necessary for damages to be shown.",
+      "id": "2927.22-subject-individual",
+      "normalized": "subject individual",
+      "scope": "(A) As used in this section:",
+      "section": "2927.22",
+      "source_title": "Section 2927.22 - Soliciting or accepting a fee to remove, correct, modify, or refrain from publishing criminal record information; violation.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2927.22",
+      "term": "Subject individual"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "109.573",
+      "number": "109.573",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.573"
+    },
+    {
+      "kind": "section",
+      "label": "2307.60",
+      "number": "2307.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.60"
+    }
+  ],
+  "scraped": "2026-07-02T19:46:28+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2927.22",
+  "title": "Section 2927.22 - Soliciting or accepting a fee to remove, correct, modify, or refrain from publishing criminal record information; violation."
+}

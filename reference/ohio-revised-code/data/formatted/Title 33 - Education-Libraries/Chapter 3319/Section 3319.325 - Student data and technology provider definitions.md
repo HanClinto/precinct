@@ -1,0 +1,32 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3319.325
+Scraped: 2026-07-02T19:48:54+00:00
+
+# Section 3319.325 - Student data and technology provider definitions.
+
+**Effective:** December 9, 2024
+
+**Latest Legislation:** House Bill 432 - 135th General Assembly
+
+As used in sections 3319.325 , 3319.326 , and 3319.327 of the Revised Code:
+
+(A) "Education records" has the same meaning as in the "Family Educational Rights and Privacy Act of 1974," 20 U.S.C. 1232g, and does not include any of the following:
+
+(1) Records of instructional, supervisory, and administrative personnel and educational personnel that are in the sole possession of the maker and are not accessible or revealed to any other person except a substitute teacher;
+
+(2) In the case of persons who are employed by a school district, records made and maintained in the normal course of business that relate exclusively to such person in that person's capacity as an employee and are not available for use for any other purpose;
+
+(3) Records on a student who is eighteen years of age or older, which are made or maintained by a physician, psychiatrist, psychologist, or other recognized professional or paraprofessional acting in the person's professional or paraprofessional capacity, or assisting in that capacity, and that are made, maintained, or used only in connection with the provision of treatment to the student and are not available to anyone other than persons providing such treatment, except that such records can be personally reviewed by a physician or other appropriate professional of the student's choice.
+
+(B) "Educational support services data" means data on individuals collected, created, maintained, used, or disseminated relating to programs administered by a school district board of education or an entity under contract with a school district designed to eliminate disparities and advance equities in educational achievement for youth by coordinating services available to participants, regardless of the youth's involvement with other government services.
+
+(C) "Information technology center" means an information technology center established under section 3301.075 of the Revised Code.
+
+(D) "School-issued device" means hardware, software, devices, and accounts that a school district, acting independently or with a technology provider, provides to an individual student for dedicated student use.
+
+(E) "Student" means an individual currently enrolled in a school district in any of grades kindergarten through twelve.
+
+(F) "Technology provider" means a person who contracts with a school district to provide a school-issued device for student use and creates, receives, or maintains education records pursuant or incidental to its contract with the district.
+
+Except as used in division (G) of section 3319.326 of the Revised Code, "technology provider" does not include a county board of developmental disabilities, educational service center, information technology center, assessment provider, curriculum provider, or city, local, exempted village, or joint vocational school district that enters into a service contract with a school district that includes issuing school-issued devices to students.
+
+Last updated January 9, 2025 at 3:10 PM

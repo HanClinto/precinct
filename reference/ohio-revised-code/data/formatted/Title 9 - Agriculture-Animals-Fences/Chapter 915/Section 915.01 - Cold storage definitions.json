@@ -1,0 +1,72 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Cold storage\" means the storage of food, at or below a temperature of forty degrees Fahrenheit, in a cold-storage warehouse.",
+      "id": "915.01-cold-storage",
+      "normalized": "cold storage",
+      "scope": "As used in section 915.01 to 915.12 , inclusive, of the Revised Code:",
+      "section": "915.01",
+      "source_title": "Section 915.01 - Cold storage definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-915.01",
+      "term": "Cold storage"
+    },
+    {
+      "definition": "(B) \"Cold-storage warehouse\" means a place artificially cooled by the employment of refrigerating machinery or ice or other means, in which articles of food are stored for thirty days or more at a temperature of forty degrees Fahrenheit, or lower.",
+      "id": "915.01-cold-storage-warehouse",
+      "normalized": "cold-storage warehouse",
+      "scope": "As used in section 915.01 to 915.12 , inclusive, of the Revised Code:",
+      "section": "915.01",
+      "source_title": "Section 915.01 - Cold storage definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-915.01",
+      "term": "Cold-storage warehouse"
+    },
+    {
+      "definition": "(C) \"Food\" means:\n\n(1) Articles used for food or drink for humans or animals;\n\n(2) Chewing gum;\n\n(3) Articles used for components of any such articles.",
+      "id": "915.01-food",
+      "normalized": "food",
+      "scope": "As used in section 915.01 to 915.12 , inclusive, of the Revised Code:",
+      "section": "915.01",
+      "source_title": "Section 915.01 - Cold storage definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-915.01",
+      "term": "Food"
+    },
+    {
+      "definition": "(D) \"Container\" means any bag, barrel, basket, bottle, box, caddy can, canister, carton, crate, firkin, hogshead, jar, jug, keg, stopper, vessel, wrapper, frozen bulk, or any similar or analogous utensil, receptacle, band, or wrapper in which food may be kept, stored, sold, or offered for sale.",
+      "id": "915.01-container",
+      "normalized": "container",
+      "scope": "As used in section 915.01 to 915.12 , inclusive, of the Revised Code:",
+      "section": "915.01",
+      "source_title": "Section 915.01 - Cold storage definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-915.01",
+      "term": "Container"
+    },
+    {
+      "definition": "(E) \"Wholesome\" means fit for human food.\n\nLast updated March 21, 2023 at 10:21 AM",
+      "id": "915.01-wholesome",
+      "normalized": "wholesome",
+      "scope": "As used in section 915.01 to 915.12 , inclusive, of the Revised Code:",
+      "section": "915.01",
+      "source_title": "Section 915.01 - Cold storage definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-915.01",
+      "term": "Wholesome"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "915.01",
+      "number": "915.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-915.01"
+    },
+    {
+      "kind": "section",
+      "label": "915.12",
+      "number": "915.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-915.12"
+    }
+  ],
+  "scraped": "2026-07-02T19:34:18+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-915.01",
+  "title": "Section 915.01 - Cold storage definitions."
+}

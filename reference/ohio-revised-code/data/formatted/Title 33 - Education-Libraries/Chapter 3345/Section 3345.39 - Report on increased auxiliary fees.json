@@ -1,0 +1,36 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Auxiliary fees\" mean charges assessed by a state institution of higher education to a student for various educational expenses including, but not limited to, course-related fees, laboratory fees, books and supplies, room and board, transportation, enrollment application fees, and other miscellaneous charges. \"Auxiliary fees\" do not include instructional or general fees uniformly assessed to all students.",
+      "id": "3345.39-auxiliary-fees",
+      "normalized": "auxiliary fees",
+      "scope": "(B) As used in this section:",
+      "section": "3345.39",
+      "source_title": "Section 3345.39 - Report on increased auxiliary fees.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3345.39",
+      "term": "Auxiliary fees"
+    },
+    {
+      "definition": "(2) \"State institution of higher education\" has the same meaning as in section 3345.011 of the Revised Code.",
+      "id": "3345.39-state-institution-of-higher-education",
+      "normalized": "state institution of higher education",
+      "scope": "(B) As used in this section:",
+      "section": "3345.39",
+      "source_title": "Section 3345.39 - Report on increased auxiliary fees.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3345.39",
+      "term": "State institution of higher education"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3345.011",
+      "number": "3345.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3345.011"
+    }
+  ],
+  "scraped": "2026-07-02T19:49:49+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3345.39",
+  "title": "Section 3345.39 - Report on increased auxiliary fees."
+}

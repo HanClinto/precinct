@@ -1,0 +1,16 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-1707.13
+Scraped: 2026-07-02T19:39:09+00:00
+
+# Section 1707.13 - Suspension and revocation of registration.
+
+**Effective:** March 31, 2021
+
+**Latest Legislation:** House Bill 312 - 133rd General Assembly
+
+The division of securities may suspend the registration by description or by qualification of any securities, or the right of any dealers or of the issuer, or of both, to buy, sell, or deal in any particular security whether it is registered, qualified, or exempt or even though transactions in it are registered or exempt, if the division finds that the issuer has violated sections 1707.01 to 1707.50 , inclusive, of the Revised Code, or any lawful order or requirement of the division, has fraudulently conducted its business, or has been engaged in or is engaged or about to engage in deceptive or fraudulent acts, practices, or transactions; that such security is being disposed of or purchased on grossly unfair terms, in such manner as to deceive or defraud or as to tend to deceive or defraud purchasers or sellers, or in disregard of the lawful rules and regulations of the division applicable to such security or to transactions therein; or, in the case of securities being sold under a registration or qualification, that the issuer is insolvent. Notice of such suspension shall be mailed by the division to the issuer and to all licensed dealers concerned. Such notice shall specify the particular security whose registration is being suspended and shall set a date, not more than ten days later than the date of the order of suspension, for a hearing on the continuation or revocation of such suspension. For good cause the division may continue such hearing on application of any interested party. In conducting such hearing the division shall have all the authority and powers set forth in section 1707.23 of the Revised Code. Following such hearing the division shall either confirm or revoke such suspension. No such suspension shall invalidate any sale of securities made prior thereto; and the rights of persons defrauded by any sale shall in no wise be impaired.
+
+If the issuer of a security refuses to permit an examination to be made by the division of its books, records, and property, or refuses to furnish the division any information which it may lawfully require under sections 1707.01 to 1707.50 , inclusive, of the Revised Code, such refusal is a sufficient ground for the division to suspend the registration by description or by qualification of such security, or the right of any dealers or of the issuer, or of both, to buy, sell, or deal in such security.
+
+If any interested party desires an investigation at a place other than the office of the division, such person may be required by the division to advance sufficient funds to pay the actual expenses of such investigation.
+
+Whenever the division determines, upon hearing, that any application for qualification was made, or that any securities or any transaction was registered by description, by a person who knew that untrue statements were contained in such application or description, the division may proceed under sections 1707.19 , 1707.23 , and 1707.44 of the Revised Code, or any of them, against the person who filed such application or such registration by description.

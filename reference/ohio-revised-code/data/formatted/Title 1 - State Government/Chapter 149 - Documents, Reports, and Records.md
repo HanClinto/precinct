@@ -1,0 +1,71 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-149
+Scraped: 2026-07-02T19:31:59+00:00
+
+# Chapter 149 - Documents, Reports, and Records
+
+## Sections
+
+- Section 149.01 - Official reports - number - filing.
+- Section 149.011 - Documents, reports, and records definitions.
+- Section 149.02 - Annual reports in triplicate.
+- Section 149.03 - Governor's authority as to reports.
+- Section 149.04 - Printing of messages and inaugural addresses.
+- Section 149.05 - Number of reports printed.
+- Section 149.07 - Final journals available to members of general assembly.
+- Section 149.09 - Distributing pamphlet laws.
+- Section 149.091 - Publishing and distributing session laws.
+- Section 149.10 - Submission of audit reports.
+- Section 149.11 - Distributing publications intended for general public use - record retention or destruction schedules.
+- Section 149.12 - Distributing legislative publications to libraries.
+- Section 149.16 - Secretary of state or state library board shall distribute law and journals.
+- Section 149.17 - Highway maps of Ohio.
+- Section 149.21 - Uniform electronic legal material act - definitions; applicability.
+- Section 149.22 - Designation of official record.
+- Section 149.23 - Authentication.
+- Section 149.24 - Preservation and security.
+- Section 149.25 - Implementation.
+- Section 149.26 - Construction.
+- Section 149.27 - Construction with other laws.
+- Section 149.30 - Public functions of Ohio history connection.
+- Section 149.301 - Ohio historic site preservation advisory board.
+- Section 149.302 - National museum of Afro-American history and culture.
+- Section 149.304 - Historic homestead register program.
+- Section 149.305 - Ohio African-American hall of fame.
+- Section 149.306 - Ohio African-American hall of fame governing board.
+- Section 149.307 - Ohio history license plate contribution fund.
+- Section 149.308 - Ohio history fund.
+- Section 149.309 - Ohio commission for the United States semiquincentennial.
+- Section 149.3010 - American-Indian burial sites.
+- Section 149.31 - Archives administration for the state.
+- Section 149.311 - Application for rehabilitation tax credit certificate.
+- Section 149.33 - State records program - office of state records administration.
+- Section 149.331 - State record administration program.
+- Section 149.332 - Records management programs in the legislative and judicial branches of state government.
+- Section 149.333 - Applying for record disposal or transfer.
+- Section 149.34 - Records management procedures.
+- Section 149.35 - Laws prohibiting the destruction of records.
+- Section 149.351 - Prohibiting destruction or damage of records.
+- Section 149.352 - Replevin of public records.
+- Section 149.36 - Authority not restricted.
+- Section 149.38 - County records commission.
+- Section 149.381 - Review of applications for disposal of records or schedules of records retention and disposition by history connection.
+- Section 149.39 - Records commission - municipal corporation.
+- Section 149.40 - Making only necessary records.
+- Section 149.41 - School district records commission - educational service center records commission.
+- Section 149.411 - Library records commission.
+- Section 149.412 - Special taxing district records commission.
+- Section 149.42 - Township records commission.
+- Section 149.43 - Availability of public records for inspection and copying.
+- Section 149.431 - Records of governmental or nonprofit organizations receiving governmental funds.
+- Section 149.432 - Releasing library record or patron information.
+- Section 149.433 - Exempting security and infrastructure records.
+- Section 149.434 - Public offices to maintain employee database.
+- Section 149.435 - Confidentiality of records regarding abused children.
+- Section 149.436 - Written request for records for occupant of school vehicle involved in accident.
+- Section 149.44 - Rules and procedures for operation of state records centers and archival institutions holding public records.
+- Section 149.45 - Public office redaction of personal information from internet.
+- Section 149.52 - Filing articles of dedication.
+- Section 149.53 - Archaeological and historic survey and salvage work.
+- Section 149.54 - Archaeological and historic survey and salvage work permit.
+- Section 149.56 - Program to locate, identify, and evaluate abandoned property and other resources in Lake Erie.
+- Section 149.60 - Ohio Ireland trade commission.

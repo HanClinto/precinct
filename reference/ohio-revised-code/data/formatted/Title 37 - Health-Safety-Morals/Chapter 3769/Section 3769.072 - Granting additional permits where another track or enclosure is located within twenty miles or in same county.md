@@ -1,0 +1,10 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3769.072
+Scraped: 2026-07-02T20:01:23+00:00
+
+# Section 3769.072 - Granting additional permits where another track or enclosure is located within twenty miles or in same county.
+
+**Effective:** September 19, 1996
+
+**Latest Legislation:** House Bill 561 - 121st General Assembly
+
+The commission shall grant to any track or enclosure that has fewer permits or total racing days available to it than another track or enclosure located within twenty miles a number of permits so that the total number of racing days available to both tracks or enclosures is equal. The state racing commission shall issue one additional permit for not more than sixty-one days to a permit holder issued a racing permit under section 3769.07 of the Revised Code, if, on the effective date of this section, such permit holder conducts racing at a track that is located within the same county as, or is located within twenty miles of, another track for which three or more permits have previously been issued by the commission under section 3769.07 of the Revised Code. If one of the three permits is for racing at a winterized facility, the new permit issued under this section shall be for thirty days. Further, in addition to any permit authorized to be issued by this chapter, the commission shall issue not more than two additional permits for not more than fourteen days each to a permit holder issued a racing permit under section 3769.07 of the Revised Code, if, on the effective date of this section, such permit holder conducts racing at a track that is located within the same county as another track for which permits have previously been issued by the commission under section 3769.071 of the Revised Code. Permit holders receiving permits issued by the commission under this section may, but need not, conduct live racing programs under such a permit, subject to commission approval, but the number of racing days authorized by the permit shall be considered to be permit days for the purpose of section 3769.0810 of the Revised Code, whether or not live racing programs are conducted under that permit.

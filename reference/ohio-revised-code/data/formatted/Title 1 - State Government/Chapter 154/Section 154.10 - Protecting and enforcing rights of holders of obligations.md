@@ -1,0 +1,14 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-154.10
+Scraped: 2026-07-02T19:32:02+00:00
+
+# Section 154.10 - Protecting and enforcing rights of holders of obligations.
+
+**Effective:** September 14, 2000
+
+**Latest Legislation:** House Bill 640 - 123rd General Assembly
+
+Any holder of obligations issued pursuant to Chapter 154. of the Revised Code or a trustee under the bond proceedings, except to the extent that their rights are restricted by the bond proceedings, may by any suitable form of legal proceedings, protect and enforce any rights under the laws of this state or granted by such bond proceedings. Such rights include the right to compel the performance of all duties of the commission and issuing authority required by Chapter 154. of the Revised Code or the bond proceedings; to enjoin unlawful activities; and in the event of default with respect to the payment of any bond service charges on any obligations or in the performance of any covenant or agreement on the part of the commission or authority in the bond proceedings, to apply to a court having jurisdiction of the cause to appoint a receiver to receive and administer the revenues, receipts, and special funds, other than those in the custody of the treasurer of state, which are pledged to the payment of the bond service charges on such obligations or which are the subject of the covenant or agreement, with full power to pay, and to provide for payment of bond service charges on, such obligations, and with such powers, subject to the direction of the court, as are accorded receivers in general equity cases, excluding any power to pledge additional revenues or receipts or other income or moneys of the commission or authority or the state or state agencies to the payment of such principal and interest and excluding the power to take possession of, mortgage, or cause the sale or otherwise dispose of any capital facilities.
+
+Each duty of the commission and issuing authority and their members, officers, and employees, and of each governmental agency and its officers, members, or employees, undertaken pursuant to the bond proceedings or any agreement or lease made under authority of Chapter 154. of the Revised Code, and in every agreement by or with the commission or authority, is hereby established as a duty of the commission or authority, and of each such member, officer, or employee having authority to perform such duty, specifically enjoined by law resulting from an office, trust, or station within the meaning of section 2731.01 of the Revised Code.
+
+The persons who are at the time the issuing authority or that authority's employees, and the members or officers of the commission are not liable in their personal capacities on any obligations, or any related lease, contract, or other agreement of or with the commission or authority.

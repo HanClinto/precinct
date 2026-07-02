@@ -1,0 +1,48 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Policy\" means a contract of insurance, other that life insurance issued on the mutual plan, and includes the master contract for group insurance, and also includes any policy or policies from or in continuation of which a policy in effect on the date of the examination conducted pursuant to division (C) of section 3913.21 of the Revised Code has been reissued or renewed.",
+      "id": "3913.20-policy",
+      "normalized": "policy",
+      "scope": "As used in sections 3913.20 to 3913.23 , inclusive, of the Revised Code:",
+      "section": "3913.20",
+      "source_title": "Section 3913.20 - Conversion to stock insurance corporation other than life definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3913.20",
+      "term": "Policy"
+    },
+    {
+      "definition": "(B) \"Policyholder\" means the person, group of persons, association, corporation, partnership, or other entity named as the insured under a mutual policy of insurance other than life issued and in force on the date of the examination conducted pursuant to division (C) of section 3913.21 of the Revised Code.",
+      "id": "3913.20-policyholder",
+      "normalized": "policyholder",
+      "scope": "As used in sections 3913.20 to 3913.23 , inclusive, of the Revised Code:",
+      "section": "3913.20",
+      "source_title": "Section 3913.20 - Conversion to stock insurance corporation other than life definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3913.20",
+      "term": "Policyholder"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3913.20",
+      "number": "3913.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3913.20"
+    },
+    {
+      "kind": "section",
+      "label": "3913.23",
+      "number": "3913.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3913.23"
+    },
+    {
+      "kind": "section",
+      "label": "3913.21",
+      "number": "3913.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3913.21"
+    }
+  ],
+  "scraped": "2026-07-02T20:02:28+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3913.20",
+  "title": "Section 3913.20 - Conversion to stock insurance corporation other than life definitions."
+}

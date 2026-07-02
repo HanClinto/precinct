@@ -1,0 +1,85 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-3115
+Scraped: 2026-07-02T19:47:49+00:00
+
+# Chapter 3115 - Uniform Interstate Family Support Act of 2008
+
+## Sections
+
+- Section 3115.101 - Short title.
+- Section 3115.102 - Definitions.
+- Section 3115.103 - State tribunal and support enforcement agencies.
+- Section 3115.104 - Remedies cumulative.
+- Section 3115.105 - Application to resident of foreign country and foreign support proceeding.
+- Section 3115.201 - Bases for jurisdiction over nonresident.
+- Section 3115.202 - Duration of personal jurisdiction.
+- Section 3115.203 - Initiating and responding tribunal of state.
+- Section 3115.204 - Simultaneous proceedings.
+- Section 3115.205 - Continuing, exclusive jurisdiction to modify child-support order.
+- Section 3115.206 - Continuing jurisdiction to enforce child-support order.
+- Section 3115.207 - Determination of controlling child-support order.
+- Section 3115.208 - Child-support orders for two or more obligees.
+- Section 3115.209 - Credit for payments.
+- Section 3115.210 - Application to nonresident subject to personal jurisdiction.
+- Section 3115.211 - Continuing, exlcusive jurisdiction to modify spousal-support order.
+- Section 3115.301 - Proceedings under act.
+- Section 3115.302 - Proceeding by minor parent.
+- Section 3115.303 - Application of law of state.
+- Section 3115.304 - Duties of initiating tribunal.
+- Section 3115.305 - Duties and powers of responding tribunal.
+- Section 3115.306 - Inappropriate tribunal.
+- Section 3115.307 - Duties of support enforcement agency.
+- Section 3115.308 - Duty of department of job and family services.
+- Section 3115.309 - Private counsel.
+- Section 3115.310 - Duties of state information agency.
+- Section 3115.311 - Pleadings and accompanying documents.
+- Section 3115.312 - Nondisclosure of information in exceptional circumstances.
+- Section 3115.313 - Costs and fees.
+- Section 3115.314 - Limited immunity of petitioner.
+- Section 3115.315 - Nonparentage as a defense.
+- Section 3115.316 - Special rules of evidence and procedure.
+- Section 3115.317 - Communications between tribunals.
+- Section 3115.318 - Assistance with discovery.
+- Section 3115.319 - Receipt and disbursement of payments.
+- Section 3115.401 - Establishment of support order.
+- Section 3115.402 - Proceeding to determine parentage.
+- Section 3115.501 - Employer's receipt of income-withholding order of another state.
+- Section 3115.502 - Employer's compliance with income-withholding order of another state.
+- Section 3115.503 - Employer's compliance with two or more income-withholding orders.
+- Section 3115.504 - Immunity from civil liability.
+- Section 3115.505 - Penalties for noncompliance.
+- Section 3115.506 - Contest by obligor.
+- Section 3115.507 - Administrative enforcement of orders.
+- Section 3115.601 - Registration of order of enforcement.
+- Section 3115.602 - Procedure to register order for enforcement.
+- Section 3115.603 - Effect of registration for enforcement.
+- Section 3115.604 - Choice of law.
+- Section 3115.605 - Notice of registration of order.
+- Section 3115.606 - Procedure to contest validity or enforcement of registered support order.
+- Section 3115.607 - Contest of registration or enforcement.
+- Section 3115.608 - Confirmed order.
+- Section 3115.609 - Procedure to register child-support order of another state for modification.
+- Section 3115.610 - Effect of registration or modification.
+- Section 3115.611 - Modification of child-support order of another state.
+- Section 3115.612 - Recognition of order modified in another state.
+- Section 3115.613 - Jurisdiction to modify child-support order of another state when individual parties reside in this state.
+- Section 3115.614 - Notice to issuing tribunal of modification.
+- Section 3115.615 - Jurisdiction to modify child-support order of foreign country.
+- Section 3115.616 - Procedure to register child-support order of foreign country for modification.
+- Section 3115.701 - Definitions.
+- Section 3115.702 - Application of convention.
+- Section 3115.703 - Relationship of department to United States central authority.
+- Section 3115.704 - Initiation by support agency of support proceeding under convention.
+- Section 3115.705 - Direct request.
+- Section 3115.706 - Registration of convention support order.
+- Section 3115.707 - Contest of registered convention support order.
+- Section 3115.708 - Recognition and enforcement of registered convention support order.
+- Section 3115.709 - Partial enforcement.
+- Section 3115.710 - Foreign support agreement.
+- Section 3115.711 - Modification of convention child-support order.
+- Section 3115.712 - Personal information; limit on use.
+- Section 3115.713 - Record in original language; English translation.
+- Section 3115.801 - Grounds for rendition.
+- Section 3115.802 - Conditions of rendition.
+- Section 3115.901 - Uniformity of application and construction.
+- Section 3115.902 - Transitional provisions.
+- Section 3115.903 - Severability.

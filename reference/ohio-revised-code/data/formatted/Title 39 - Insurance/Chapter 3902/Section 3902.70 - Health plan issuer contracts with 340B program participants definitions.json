@@ -1,0 +1,58 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"340B covered entity\" means an entity described in section 340B(a)(4) of the \"Public Health Service Act,\" 42 U.S.C. 256b(a)(4) and includes any pharmacy under contract with the entity to dispense drugs on behalf of the entity.",
+      "id": "3902.70-340b-covered-entity",
+      "normalized": "340b covered entity",
+      "scope": "As used in this section and section 3902.71 of the Revised Code:",
+      "section": "3902.70",
+      "source_title": "Section 3902.70 - Health plan issuer contracts with 340B program participants definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3902.70",
+      "term": "340B covered entity"
+    },
+    {
+      "definition": "(B) \"Terminal distributor of dangerous drugs\" has the same meaning as in section 4729.01 of the Revised Code.",
+      "id": "3902.70-terminal-distributor-of-dangerous-drugs",
+      "normalized": "terminal distributor of dangerous drugs",
+      "scope": "As used in this section and section 3902.71 of the Revised Code:",
+      "section": "3902.70",
+      "source_title": "Section 3902.70 - Health plan issuer contracts with 340B program participants definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3902.70",
+      "term": "Terminal distributor of dangerous drugs"
+    },
+    {
+      "definition": "(C) \"Third-party administrator\" has the same meaning as in section 5167.01 of the Revised Code.\n\nLast updated August 13, 2025 at 11:39 AM",
+      "id": "3902.70-third-party-administrator",
+      "normalized": "third-party administrator",
+      "scope": "As used in this section and section 3902.71 of the Revised Code:",
+      "section": "3902.70",
+      "source_title": "Section 3902.70 - Health plan issuer contracts with 340B program participants definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3902.70",
+      "term": "Third-party administrator"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3902.71",
+      "number": "3902.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3902.71"
+    },
+    {
+      "kind": "section",
+      "label": "4729.01",
+      "number": "4729.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.01"
+    },
+    {
+      "kind": "section",
+      "label": "5167.01",
+      "number": "5167.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5167.01"
+    }
+  ],
+  "scraped": "2026-07-02T20:02:10+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3902.70",
+  "title": "Section 3902.70 - Health plan issuer contracts with 340B program participants definitions."
+}

@@ -1,0 +1,117 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-5747
+Scraped: 2026-07-02T20:15:28+00:00
+
+# Chapter 5747 - Income Tax
+
+## Sections
+
+- Section 5747.01 - Definitions.
+- Section 5747.011 - Gain or loss included in trust's Ohio taxable income.
+- Section 5747.012 - Tax treatment of qualifying investment income from pass-through entity.
+- Section 5747.013 - Calculating a trust's modified Ohio taxable income.
+- Section 5747.02 - Tax rates.
+- Section 5747.021 - School district income tax.
+- Section 5747.022 - Tax credits for exemptions.
+- Section 5747.023 - Tax credits for armed forces member killed in combat or military or civilian employee killed in terroristic or military action.
+- Section 5747.024 - Military pay not included in adjusted gross income.
+- Section 5747.025 - Personal exemptions.
+- Section 5747.026 - Extensions for filing and payment by members called to active duty.
+- Section 5747.03 - Distributing income tax revenue.
+- Section 5747.031 - Separate reporting of business and nonbusiness income tax revenues.
+- Section 5747.04 - Attributing tax receipts to county.
+- Section 5747.05 - Tax credits.
+- Section 5747.054 - Tax credit based on federal dependent care credit.
+- Section 5747.055 - Tax credit for retirement income.
+- Section 5747.057 - Tax credit for career-technical education program employees.
+- Section 5747.058 - Tax credits to foster job creation or retention.
+- Section 5747.059 - Tax credit for Ohio withholding tax paid by one or more qualifying pass-through entities.
+- Section 5747.06 - Employer's duty to withhold tax.
+- Section 5747.061 - Withholding tax from wages of nonresident employees.
+- Section 5747.062 - Withholding tax from state lottery winnings.
+- Section 5747.063 - Withholding from casino and sports gaming winnings.
+- Section 5747.064 - Withholding from video lottery and sports gaming winnings.
+- Section 5747.065 - Income tax withholding from unemployment compensation benefits.
+- Section 5747.07 - Employers to file return and pay withholding.
+- Section 5747.071 - Withholding tax from retirement benefits.
+- Section 5747.072 - Employers remitting taxes by electronic funds transfer.
+- Section 5747.073 - Bulk filer registration.
+- Section 5747.08 - Filing income tax return.
+- Section 5747.082 - Use of electronic filing by tax preparers.
+- Section 5747.083 - Report or payment of use tax on personal income tax return.
+- Section 5747.09 - Declaration of estimated taxes.
+- Section 5747.10 - Amended returns.
+- Section 5747.11 - Refunds - interest.
+- Section 5747.112 - Paying refund of school district income taxes.
+- Section 5747.113 - Income tax refund contribution system.
+- Section 5747.12 - Applying refund to satisfy debt to state.
+- Section 5747.121 - Collecting child support from refunds.
+- Section 5747.122 - Collecting overpayments of public assistance from refunds.
+- Section 5747.123 - Collecting overpaid child support from refunds.
+- Section 5747.13 - Liability of employer for failure to file return or collect or remit tax.
+- Section 5747.132 - Eliminating interest or penalty on qualifying refund overpayment.
+- Section 5747.14 - Imposing jeopardy assessments.
+- Section 5747.15 - Failure to file or remit tax - filing frivolous, dilatory or fraudulent claim.
+- Section 5747.16 - Secretary of state agent for service of process on nonresidents.
+- Section 5747.17 - Maintaining records.
+- Section 5747.18 - Powers of tax commissioner.
+- Section 5747.19 - Filing incomplete, false, and fraudulent returns.
+- Section 5747.20 - Allocating nonbusiness income or deduction.
+- Section 5747.21 - Apportioning business income or deduction.
+- Section 5747.212 - Apportioning gain recognized by nonresident equity investor selling an investment in a closely-held business.
+- Section 5747.22 - Apportioning and allocating income and deductions of pass-through entities.
+- Section 5747.221 - Items of income and deductions not to be allocated or apportioned to Ohio.
+- Section 5747.23 - Taxing trust income.
+- Section 5747.231 - Including taxpayer's entire distributive or proportionate share attributable to pass-through entity.
+- Section 5747.24 - Presumption of domicile.
+- Section 5747.26 - Lead abatement tax credit.
+- Section 5747.27 - Credit for displaced worker who pays for job training to enhance ability to get new job.
+- Section 5747.28 - Credit for purchase of qualifying property by taxpayer engaged in the business of producing grapes.
+- Section 5747.30 - Exemption for nonresident pass-through entities as to commercial printing.
+- Section 5747.331 - Nonrefundable credit equal to borrower's qualified research and development loan payments.
+- Section 5747.38 - Pass-through entity income tax.
+- Section 5747.39 - Pass-through entity owner credit.
+- Section 5747.40 - Definitions relating to qualified pass-through entities.
+- Section 5747.401 - Deemed investors in investment pass-through entity are deemed investors in any other pass-through entity in which investment pass-through entity is direct investor.
+- Section 5747.41 - Withholding tax on qualifying pass-through entity or trust having individual qualifying investor or beneficiary.
+- Section 5747.42 - Filing annual return.
+- Section 5747.43 - Filing estimated tax return and making estimated payments.
+- Section 5747.44 - Tax payment by electronic funds transfer.
+- Section 5747.45 - Taxable year; method of accounting; amended reports with payment or application for refund.
+- Section 5747.451 - Requirements of qualifying entity upon retirement from business, voluntary dissolution or transfer to successor.
+- Section 5747.453 - Personal liability of employee or beneficiary of, or investor in, a qualifying entity for failure to file report or pay tax.
+- Section 5747.46 - Library and local government support fund definitions.
+- Section 5747.47 - Estimating, certifying and distributing of county's share of library and local government support fund.
+- Section 5747.48 - Distribution of county library and local government support fund.
+- Section 5747.49 - Prohibiting later performance of duties.
+- Section 5747.50 - Apportioning local government fund to political subdivision or eligible taxing district.
+- Section 5747.501 - Estimating and certifying amount for distribution into local government fund.
+- Section 5747.502 - Reports on fines resulting from traffic law photo-monitoring devices.
+- Section 5747.503 - Payments to county undivided local government funds of supplement for townships.
+- Section 5747.504 - Local government fund payment reduction for ranked choice voting.
+- Section 5747.505 - Application of multiple local government fund payment reductions.
+- Section 5747.51 - Allocating local government fund to county undivided local government funds.
+- Section 5747.52 - Calculating subdivision share of undivided local government fund.
+- Section 5747.53 - Apportionment of undivided local government fund of county under an alternative method or on a formula basis.
+- Section 5747.54 - Failure to certify percentage share of the undivided local government fund.
+- Section 5747.55 - Appealing county budget commission action.
+- Section 5747.60 - Delegating investigation powers of tax commissioner.
+- Section 5747.66 - Credit for any individual who is the certificate owner of a tax credit certificate.
+- Section 5747.70 - Deductions for contributions to college savings programs.
+- Section 5747.71 - Earned income tax credit.
+- Section 5747.72 - Credit for home instruction expenses.
+- Section 5747.73 - Credit for donations to scholarship organizations.
+- Section 5747.75 - Credit for dependents who attend nonchartered nonpublic school.
+- Section 5747.76 - Refundable income tax credit for owner of RC 149.311 certificate.
+- Section 5747.77 - Beginning farmer tax credits.
+- Section 5747.78 - Deductions for amounts contributed to ABLE savings account.
+- Section 5747.79 - Deduction for capital gains from sale of business.
+- Section 5747.80 - Issuance of tax credits by Ohio venture capital authority.
+- Section 5747.81 - Tax credit for holders of small business investment certificate.
+- Section 5747.82 - Tax credit for holders of commercial driver training certificate.
+- Section 5747.83 - State low-income housing tax credit.
+- Section 5747.84 - Tax credit for single-family housing development.
+- Section 5747.85 - Homeownership savings account deduction.
+- Section 5747.86 - Opportunity zone investment tax credit.
+- Section 5747.87 - Transformational mixed use development tax credit.
+- Section 5747.98 - Order for claiming credits.
+- Section 5747.99 - Penalty.

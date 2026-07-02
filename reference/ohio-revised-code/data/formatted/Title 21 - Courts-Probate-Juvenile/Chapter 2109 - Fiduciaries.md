@@ -1,0 +1,77 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-2109
+Scraped: 2026-07-02T19:41:21+00:00
+
+# Chapter 2109 - Fiduciaries
+
+## Sections
+
+- Section 2109.01 - Fiduciary defined.
+- Section 2109.02 - Appointment and duties.
+- Section 2109.021 - Fiduciary filings by mail or in person.
+- Section 2109.03 - Fiduciary's attorney.
+- Section 2109.04 - Bond.
+- Section 2109.05 - Bond - trust created by will.
+- Section 2109.06 - New or additional bond.
+- Section 2109.07 - Bond conditions - administrator - when not required.
+- Section 2109.08 - Bond conditions - special administrator.
+- Section 2109.09 - Bond conditions - executor.
+- Section 2109.10 - Bond when executor or administrator is sole residuary legatee or distributee.
+- Section 2109.11 - Bond conditions - testamentary trustees.
+- Section 2109.12 - Bond conditions - guardians.
+- Section 2109.13 - Deposit of personal property in lieu of bond.
+- Section 2109.14 - Deposit of works of art in museum authorized - reduction of bond.
+- Section 2109.15 - Informality of bond.
+- Section 2109.16 - One bond for two or more wards.
+- Section 2109.17 - Sureties.
+- Section 2109.18 - Release of a fiduciary's sureties.
+- Section 2109.19 - Bond of indemnity to surety.
+- Section 2109.20 - Guardian may give real property mortgage to secure bond.
+- Section 2109.21 - Residence qualifications of fiduciary.
+- Section 2109.22 - Marriage no disqualification for fiduciary.
+- Section 2109.24 - Resignation or removal of fiduciary.
+- Section 2109.25 - Fiduciary in military service - removal and reinstatement.
+- Section 2109.26 - Vacancy before termination of the trust - accounting - successor fiduciary.
+- Section 2109.27 - Surviving fiduciaries.
+- Section 2109.28 - Merger of fiduciaries.
+- Section 2109.29 - Rights as to shares in corporation.
+- Section 2109.30 - Accounts of fiduciaries.
+- Section 2109.301 - Administrator or executor rendering account.
+- Section 2109.302 - Guardian or conservator rendering account.
+- Section 2109.303 - Testamentary trustee rendering account.
+- Section 2109.31 - Citation to fiduciary to file account.
+- Section 2109.32 - Hearing on fiduciary's account.
+- Section 2109.33 - Service of additional notice - exceptions to account.
+- Section 2109.34 - Representation in account proceeding.
+- Section 2109.35 - Effect of order settling account - vacation of order.
+- Section 2109.36 - Order of distribution.
+- Section 2109.361 - Application by beneficiary for approval of third-party distribution.
+- Section 2109.37 - Investment of trust funds by fiduciary.
+- Section 2109.371 - Additional eligible investments.
+- Section 2109.372 - Holding cash or making temporary investments.
+- Section 2109.38 - Retaining unauthorized investments.
+- Section 2109.39 - Receiving distribution in kind.
+- Section 2109.40 - Participation in corporate reorganization.
+- Section 2109.41 - Deposit of funds.
+- Section 2109.42 - Liability for failure to invest.
+- Section 2109.43 - Personal use of trust property prohibited.
+- Section 2109.44 - Prohibited transactions; purchase of property.
+- Section 2109.45 - Statement filed before private sale confirmed.
+- Section 2109.46 - Mortgage by fiduciary.
+- Section 2109.47 - Mortgage by a guardian.
+- Section 2109.48 - Amount of loan.
+- Section 2109.49 - Investigation of trust.
+- Section 2109.50 - Proceedings when assets concealed or embezzled.
+- Section 2109.51 - Imprisonment for disobeying citation.
+- Section 2109.52 - Judgment on the complaint.
+- Section 2109.53 - Judgment against fiduciary - removal.
+- Section 2109.54 - Certificate of judgment - delivery to clerk of the court of common pleas.
+- Section 2109.55 - Judgment in favor of state.
+- Section 2109.56 - Conveyances.
+- Section 2109.57 - Appointment of trustee of funds of unknown or nonresident.
+- Section 2109.58 - Inventory by fiduciary.
+- Section 2109.59 - Failure of fiduciary to make payment or distribution.
+- Section 2109.60 - Probate court may send case to the court of common pleas.
+- Section 2109.61 - Bond - parties to suit.
+- Section 2109.62 - Court termination of trust.
+- Section 2109.68 - Allocation of receipts and expenditures between principal and income.
+- Section 2109.69 - Application of trust code provisions to testamentary trusts.

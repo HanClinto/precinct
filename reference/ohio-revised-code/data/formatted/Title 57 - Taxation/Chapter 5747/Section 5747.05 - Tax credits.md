@@ -1,0 +1,76 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5747.05
+Scraped: 2026-07-02T20:15:28+00:00
+
+# Section 5747.05 - Tax credits.
+
+**Effective:** September 30, 2025
+
+**Latest Legislation:** House Bill 96 - 136th General Assembly
+
+As used in this section, "income tax" includes both a tax on net income and a tax measured by net income.
+
+The following credits shall be allowed against the aggregate income tax liability imposed by section 5747.02 of the Revised Code on individuals and estates:
+
+(A)(1) The amount of tax otherwise due under section 5747.02 of the Revised Code on such portion of the combined adjusted gross income and taxable business income of any nonresident taxpayer that is not allocable or apportionable to this state pursuant to sections 5747.20 to 5747.23 of the Revised Code. The credit provided under this division shall not exceed the total tax due under section 5747.02 of the Revised Code.
+
+(2) The tax commissioner may enter into an agreement with the taxing authorities of any state or of the District of Columbia that imposes an income tax to provide that compensation paid in this state to a nonresident taxpayer shall not be subject to the tax levied in section 5747.02 of the Revised Code so long as compensation paid in such other state or in the District of Columbia to a resident taxpayer shall likewise not be subject to the income tax of such other state or of the District of Columbia.
+
+(B) The lesser of division (B)(1) or (2) of this section:
+
+(1) The aggregate amount of tax otherwise due under section 5747.02 of the Revised Code on such portion of the combined adjusted gross income and taxable business income of a resident taxpayer that in another state or in the District of Columbia is subjected to an income tax. The credit provided under division (B)(1) of this section shall not exceed the total tax due under section 5747.02 of the Revised Code.
+
+(2) The amount of income tax liability to another state or the District of Columbia on the portion of the combined adjusted gross income and taxable business income of a resident taxpayer that in another state or in the District of Columbia is subjected to an income tax. The credit provided under division (B)(2) of this section shall not exceed the total amount of tax otherwise due under section 5747.02 of the Revised Code.
+
+(3) For the purpose of divisions (B)(1) and (2) of this section, a resident taxpayer's combined adjusted gross income and taxable business income that is subject to an income tax levied in another state or in the District of Columbia includes income that is subject to either (a) a tax similar to the tax imposed by division (D)(1)(a) of section 5747.08 of the Revised Code or (b) a tax enacted for purposes of complying with internal revenue service notice 2020-75. In computing a resident taxpayer's income tax paid or accrued to another state or the District of Columbia, the deduction authorized by division (A)(28) of section 5747.01 of the Revised Code shall first be deducted against business income apportioned to this state.
+
+(4) If the credit provided under division (B) of this section is affected by a change in either the portion of the combined adjusted gross income and taxable business income of a resident taxpayer subjected to an income tax in another state or the District of Columbia or the amount of income tax liability that has been paid to another state or the District of Columbia, the taxpayer shall report the change to the tax commissioner within ninety days of the change in such form as the commissioner requires.
+
+(a) In the case of an underpayment, the report shall be accompanied by payment of any additional tax due as a result of the reduction in credit together with interest on the additional tax and is a return subject to assessment under section 5747.13 of the Revised Code solely for the purpose of assessing any additional tax due under this division, together with any applicable penalty and interest. It shall not reopen the computation of the taxpayer's tax liability under this chapter from a previously filed return no longer subject to assessment except to the extent that such liability is affected by an adjustment to the credit allowed by division (B) of this section.
+
+(b) In the case of an overpayment, an application for refund may be filed under this division within the ninety-day period prescribed for filing the report even if it is beyond the period prescribed in section 5747.11 of the Revised Code if it otherwise conforms to the requirements of such section. An application filed under this division shall only claim refund of overpayments resulting from an adjustment to the credit allowed by division (B) of this section unless it is also filed within the time prescribed in section 5747.11 of the Revised Code. It shall not reopen the computation of the taxpayer's tax liability except to the extent that such liability is affected by an adjustment to the credit allowed by division (B) of this section.
+
+(5) No credit shall be allowed under division (B) of this section:
+
+(a) For income tax paid or accrued to another state or to the District of Columbia if the taxpayer, when computing federal adjusted gross income, has directly or indirectly deducted, or was required to directly or indirectly deduct, the amount of that income tax;
+
+Division (B)(5)(a) of this section does not apply to income taxes included in the computation of Ohio adjusted gross income under division (A)(41) of section 5747.01 of the Revised Code and not deducted from Ohio adjusted gross income under division (A)(28) of that section or to income taxes included in Ohio taxable income under division (S)(16) of section 5747.01 of the Revised Code.
+
+(b) For compensation that is not subject to the income tax of another state or the District of Columbia as the result of an agreement entered into by the tax commissioner under division (A)(3) of this section; or
+
+(c) For income tax paid or accrued to another state or the District of Columbia if the taxpayer fails to furnish such proof as the tax commissioner shall require that such income tax liability has been paid.
+
+(C) An individual who is a resident for part of a taxable year and a nonresident for the remainder of the taxable year is allowed the credits under divisions (A) and (B) of this section in accordance with rules prescribed by the tax commissioner. In no event shall the same income be subject to both credits.
+
+(D) The credit allowed under division (A) of this section shall be calculated based upon the amount of tax due under section 5747.02 of the Revised Code after subtracting any other credits that precede the credit under that division in the order required under section 5747.98 of the Revised Code. The credit allowed under division (B) of this section shall be calculated based upon the amount of tax due under section 5747.02 of the Revised Code after subtracting any other credits that precede the credit under that division in the order required under section 5747.98 of the Revised Code.
+
+(E)(1) On a joint return filed by a husband and wife, each of whom had adjusted gross income of at least five hundred dollars, exclusive of interest, dividends and distributions, royalties, rent, and capital gains, a credit equal to the lesser of six hundred fifty dollars or the percentage shown in column B that corresponds with the taxpayer's modified adjusted gross income, less exemptions for the taxable year, of the total amount of tax due after allowing for any other credit that precedes this credit as required under section 5747.98 of the Revised Code, subject to division (E)(2) of this section:
+
+A.
+
+B.
+
+IF THE MODIFIED ADJUSTED GROSS INCOME, LESS EXEMPTIONS, FOR THE TAX YEAR IS:
+
+THE CREDIT FOR THE TAXABLE YEAR IS:
+
+$25,000 or less
+
+20%
+
+More than $25,000 but not more than $50,000
+
+15%
+
+More than $50,000 but not more than $75,000
+
+10%
+
+More than $75,000
+
+5%
+
+(2) The credit shall be claimed in the order required under section 5747.98 of the Revised Code. No taxpayer shall claim this credit unless the taxpayer's modified adjusted gross income is less than seven hundred fifty thousand dollars for taxable years beginning in 2025 or less than five hundred thousand dollars for taxable years beginning in 2026 or thereafter.
+
+(F) No claim for credit under this section shall be allowed unless the claimant furnishes such supporting information as the tax commissioner prescribes by rules.
+
+Last updated July 31, 2025 at 9:16 AM

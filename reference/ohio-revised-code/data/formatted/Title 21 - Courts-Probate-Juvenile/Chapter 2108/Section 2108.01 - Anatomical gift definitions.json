@@ -1,0 +1,378 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Adult\" means an individual who is at least eighteen years of age.",
+      "id": "2108.01-adult",
+      "normalized": "adult",
+      "scope": "As used in sections 2108.02 to 2108.35 of the Revised Code:",
+      "section": "2108.01",
+      "source_title": "Section 2108.01 - Anatomical gift definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2108.01",
+      "term": "Adult"
+    },
+    {
+      "definition": "(B) \"Agent\" means an individual who is either of the following:\n\n(1) The principal's attorney in fact under a durable power of attorney for health care;\n\n(2) Expressly authorized to make an anatomical gift on the principal's behalf by any other record signed by the principal.",
+      "id": "2108.01-agent",
+      "normalized": "agent",
+      "scope": "As used in sections 2108.02 to 2108.35 of the Revised Code:",
+      "section": "2108.01",
+      "source_title": "Section 2108.01 - Anatomical gift definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2108.01",
+      "term": "Agent"
+    },
+    {
+      "definition": "(C) \"Anatomical gift\" means a donation of all or part of a human body to take effect after the donor's death for the purpose of transplantation, therapy, research, or education.",
+      "id": "2108.01-anatomical-gift",
+      "normalized": "anatomical gift",
+      "scope": "As used in sections 2108.02 to 2108.35 of the Revised Code:",
+      "section": "2108.01",
+      "source_title": "Section 2108.01 - Anatomical gift definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2108.01",
+      "term": "Anatomical gift"
+    },
+    {
+      "definition": "(D) \"Decedent\" means a deceased individual whose body or part is or may be the source of an anatomical gift. The term includes a stillborn infant and, subject to restrictions imposed by law other than sections 2108.01 to 2108.29 of the Revised Code, a fetus.",
+      "id": "2108.01-decedent",
+      "normalized": "decedent",
+      "scope": "As used in sections 2108.02 to 2108.35 of the Revised Code:",
+      "section": "2108.01",
+      "source_title": "Section 2108.01 - Anatomical gift definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2108.01",
+      "term": "Decedent"
+    },
+    {
+      "definition": "(E) \"Disinterested witness\" means a witness other than a spouse, child, parent, sibling, grandchild, grandparent, or guardian of the individual who makes an anatomical gift, or another adult who exhibited special care and concern for the individual. \"Disinterested witness\" does not include a person to which an anatomical gift could pass under section 2108.11 of the Revised Code.",
+      "id": "2108.01-disinterested-witness",
+      "normalized": "disinterested witness",
+      "scope": "As used in sections 2108.02 to 2108.35 of the Revised Code:",
+      "section": "2108.01",
+      "source_title": "Section 2108.01 - Anatomical gift definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2108.01",
+      "term": "Disinterested witness"
+    },
+    {
+      "definition": "(F) \"Document of gift\" means a donor card or other record used to make an anatomical gift. \"Document of gift\" includes a statement or symbol on a driver's license or identification card or in the donor registry.",
+      "id": "2108.01-document-of-gift",
+      "normalized": "document of gift",
+      "scope": "As used in sections 2108.02 to 2108.35 of the Revised Code:",
+      "section": "2108.01",
+      "source_title": "Section 2108.01 - Anatomical gift definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2108.01",
+      "term": "Document of gift"
+    },
+    {
+      "definition": "(G) \"Donor\" means an individual whose body or part is the subject of an anatomical gift.",
+      "id": "2108.01-donor",
+      "normalized": "donor",
+      "scope": "As used in sections 2108.02 to 2108.35 of the Revised Code:",
+      "section": "2108.01",
+      "source_title": "Section 2108.01 - Anatomical gift definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2108.01",
+      "term": "Donor"
+    },
+    {
+      "definition": "(H) \"Donor registry\" means a database that contains records of anatomical gifts and amendments to or revocations of anatomical gifts.",
+      "id": "2108.01-donor-registry",
+      "normalized": "donor registry",
+      "scope": "As used in sections 2108.02 to 2108.35 of the Revised Code:",
+      "section": "2108.01",
+      "source_title": "Section 2108.01 - Anatomical gift definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2108.01",
+      "term": "Donor registry"
+    },
+    {
+      "definition": "(I) \"Driver's license\" means a license or permit issued by the registrar of motor vehicles, or a deputy registrar, to operate a vehicle, whether or not conditions are attached to the license or permit and includes a driver's license, commercial driver's license, and a motorcycle operator's license or endorsement.",
+      "id": "2108.01-driver-s-license",
+      "normalized": "driver's license",
+      "scope": "As used in sections 2108.02 to 2108.35 of the Revised Code:",
+      "section": "2108.01",
+      "source_title": "Section 2108.01 - Anatomical gift definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2108.01",
+      "term": "Driver's license"
+    },
+    {
+      "definition": "(J) \"Durable power of attorney for health care\" means a document created pursuant to sections 1337.11 to 1337.17 of the Revised Code.",
+      "id": "2108.01-durable-power-of-attorney-for-health-care",
+      "normalized": "durable power of attorney for health care",
+      "scope": "As used in sections 2108.02 to 2108.35 of the Revised Code:",
+      "section": "2108.01",
+      "source_title": "Section 2108.01 - Anatomical gift definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2108.01",
+      "term": "Durable power of attorney for health care"
+    },
+    {
+      "definition": "(K) \"Eye bank\" means a person conducting operations in this state that is licensed, accredited, or regulated under federal or state law to engage in the recovery, screening, testing, processing, storage, or distribution of human eyes or portions of human eyes.",
+      "id": "2108.01-eye-bank",
+      "normalized": "eye bank",
+      "scope": "As used in sections 2108.02 to 2108.35 of the Revised Code:",
+      "section": "2108.01",
+      "source_title": "Section 2108.01 - Anatomical gift definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2108.01",
+      "term": "Eye bank"
+    },
+    {
+      "definition": "(L) \"Guardian\" means a person appointed by a court to make decisions regarding the support, care, education, health, or welfare of an individual. \"Guardian\" does not include a guardian ad litem.",
+      "id": "2108.01-guardian",
+      "normalized": "guardian",
+      "scope": "As used in sections 2108.02 to 2108.35 of the Revised Code:",
+      "section": "2108.01",
+      "source_title": "Section 2108.01 - Anatomical gift definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2108.01",
+      "term": "Guardian"
+    },
+    {
+      "definition": "(M) \"Hospital\" means a facility operated as a hospital under the laws of this or any other state or a facility operated as a hospital by the United States, this or any other state, or a subdivision of this or any other state.",
+      "id": "2108.01-hospital",
+      "normalized": "hospital",
+      "scope": "As used in sections 2108.02 to 2108.35 of the Revised Code:",
+      "section": "2108.01",
+      "source_title": "Section 2108.01 - Anatomical gift definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2108.01",
+      "term": "Hospital"
+    },
+    {
+      "definition": "(N) \"Identification card\" means an identification card issued by the registrar of motor vehicles or a deputy registrar.",
+      "id": "2108.01-identification-card",
+      "normalized": "identification card",
+      "scope": "As used in sections 2108.02 to 2108.35 of the Revised Code:",
+      "section": "2108.01",
+      "source_title": "Section 2108.01 - Anatomical gift definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2108.01",
+      "term": "Identification card"
+    },
+    {
+      "definition": "(O) \"Know\" means to have actual knowledge.",
+      "id": "2108.01-know",
+      "normalized": "know",
+      "scope": "As used in sections 2108.02 to 2108.35 of the Revised Code:",
+      "section": "2108.01",
+      "source_title": "Section 2108.01 - Anatomical gift definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2108.01",
+      "term": "Know"
+    },
+    {
+      "definition": "(P) \"Minor\" means an individual who is under eighteen years of age.",
+      "id": "2108.01-minor",
+      "normalized": "minor",
+      "scope": "As used in sections 2108.02 to 2108.35 of the Revised Code:",
+      "section": "2108.01",
+      "source_title": "Section 2108.01 - Anatomical gift definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2108.01",
+      "term": "Minor"
+    },
+    {
+      "definition": "(Q) \"Organ procurement organization\" means a person conducting operations in this state that is designated by the secretary of the United States department of health and human services as an organ procurement organization.",
+      "id": "2108.01-organ-procurement-organization",
+      "normalized": "organ procurement organization",
+      "scope": "As used in sections 2108.02 to 2108.35 of the Revised Code:",
+      "section": "2108.01",
+      "source_title": "Section 2108.01 - Anatomical gift definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2108.01",
+      "term": "Organ procurement organization"
+    },
+    {
+      "definition": "(R) \"Parent\" means a parent whose parental rights have not been terminated.",
+      "id": "2108.01-parent",
+      "normalized": "parent",
+      "scope": "As used in sections 2108.02 to 2108.35 of the Revised Code:",
+      "section": "2108.01",
+      "source_title": "Section 2108.01 - Anatomical gift definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2108.01",
+      "term": "Parent"
+    },
+    {
+      "definition": "(S) \"Part\" means an organ, an eye, or tissue of a human being. \"Part\" does not include the whole body.",
+      "id": "2108.01-part",
+      "normalized": "part",
+      "scope": "As used in sections 2108.02 to 2108.35 of the Revised Code:",
+      "section": "2108.01",
+      "source_title": "Section 2108.01 - Anatomical gift definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2108.01",
+      "term": "Part"
+    },
+    {
+      "definition": "(T) \"Person\" means an individual, corporation, business trust, estate, trust, partnership, limited liability company, association, joint venture, public corporation, government or governmental subdivision, agency, or instrumentality, or any other legal or commercial entity.",
+      "id": "2108.01-person",
+      "normalized": "person",
+      "scope": "As used in sections 2108.02 to 2108.35 of the Revised Code:",
+      "section": "2108.01",
+      "source_title": "Section 2108.01 - Anatomical gift definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2108.01",
+      "term": "Person"
+    },
+    {
+      "definition": "(U) \"Physician\" means an individual authorized under Chapter 4731. of the Revised Code to practice medicine and surgery, osteopathic medicine and surgery, or podiatric medicine and surgery, or an individual authorized under the laws of any other state to practice medicine and surgery, osteopathic medicine and surgery, or podiatric medicine and surgery.",
+      "id": "2108.01-physician",
+      "normalized": "physician",
+      "scope": "As used in sections 2108.02 to 2108.35 of the Revised Code:",
+      "section": "2108.01",
+      "source_title": "Section 2108.01 - Anatomical gift definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2108.01",
+      "term": "Physician"
+    },
+    {
+      "definition": "(V) \"Procurement organization\" means an eye bank, organ procurement organization, or tissue bank.",
+      "id": "2108.01-procurement-organization",
+      "normalized": "procurement organization",
+      "scope": "As used in sections 2108.02 to 2108.35 of the Revised Code:",
+      "section": "2108.01",
+      "source_title": "Section 2108.01 - Anatomical gift definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2108.01",
+      "term": "Procurement organization"
+    },
+    {
+      "definition": "(W) \"Prospective donor\" means an individual who is dead or near death and has been determined by a procurement organization to have a part that could be medically suitable for transplantation, therapy, research, or education. \"Prospective donor\" does not include an individual who has made a refusal.",
+      "id": "2108.01-prospective-donor",
+      "normalized": "prospective donor",
+      "scope": "As used in sections 2108.02 to 2108.35 of the Revised Code:",
+      "section": "2108.01",
+      "source_title": "Section 2108.01 - Anatomical gift definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2108.01",
+      "term": "Prospective donor"
+    },
+    {
+      "definition": "(X) \"Reasonably available\" means able to be contacted by a procurement organization without undue effort and willing and able to act in a timely manner consistent with existing medical criteria necessary for the making of an anatomical gift.",
+      "id": "2108.01-reasonably-available",
+      "normalized": "reasonably available",
+      "scope": "As used in sections 2108.02 to 2108.35 of the Revised Code:",
+      "section": "2108.01",
+      "source_title": "Section 2108.01 - Anatomical gift definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2108.01",
+      "term": "Reasonably available"
+    },
+    {
+      "definition": "(Y) \"Recipient\" means an individual into whose body a decedent's part has been or is intended to be transplanted.",
+      "id": "2108.01-recipient",
+      "normalized": "recipient",
+      "scope": "As used in sections 2108.02 to 2108.35 of the Revised Code:",
+      "section": "2108.01",
+      "source_title": "Section 2108.01 - Anatomical gift definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2108.01",
+      "term": "Recipient"
+    },
+    {
+      "definition": "(Z) \"Record\" means information that is inscribed on a tangible medium or that is stored in an electronic or other medium and is retrievable in perceivable form.",
+      "id": "2108.01-record",
+      "normalized": "record",
+      "scope": "As used in sections 2108.02 to 2108.35 of the Revised Code:",
+      "section": "2108.01",
+      "source_title": "Section 2108.01 - Anatomical gift definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2108.01",
+      "term": "Record"
+    },
+    {
+      "definition": "(AA) \"Refusal\" means a record created under section 2108.07 of the Revised Code that expressly states an intent to bar other persons from making an anatomical gift of an individual's body or part.",
+      "id": "2108.01-refusal",
+      "normalized": "refusal",
+      "scope": "As used in sections 2108.02 to 2108.35 of the Revised Code:",
+      "section": "2108.01",
+      "source_title": "Section 2108.01 - Anatomical gift definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2108.01",
+      "term": "Refusal"
+    },
+    {
+      "definition": "(BB) \"Sign\" means to do either of the following with the present intent to authenticate or adopt a record:\n\n(1) Execute or adopt a tangible symbol;\n\n(2) Attach to or logically associate with the record an electronic symbol, sound, or process.",
+      "id": "2108.01-sign",
+      "normalized": "sign",
+      "scope": "As used in sections 2108.02 to 2108.35 of the Revised Code:",
+      "section": "2108.01",
+      "source_title": "Section 2108.01 - Anatomical gift definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2108.01",
+      "term": "Sign"
+    },
+    {
+      "definition": "(CC) \"Technician\" means an individual determined to be qualified to remove or process parts by an appropriate organization that is licensed, accredited, or regulated under federal or state law. \"Technician\" includes an enucleator and an embalmer licensed pursuant to Chapter 4717. of the Revised Code who has completed a course in eye enucleation and has received a certificate of competency to that effect from a school of medicine recognized by the state medical board or from an eye bank that is a member of the eye bank association of America.",
+      "id": "2108.01-technician",
+      "normalized": "technician",
+      "scope": "As used in sections 2108.02 to 2108.35 of the Revised Code:",
+      "section": "2108.01",
+      "source_title": "Section 2108.01 - Anatomical gift definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2108.01",
+      "term": "Technician"
+    },
+    {
+      "definition": "(DD) \"Tissue\" means a portion of the human body other than an organ or an eye. \"Tissue\" does not include blood unless the blood is donated for the purpose of research or education.",
+      "id": "2108.01-tissue",
+      "normalized": "tissue",
+      "scope": "As used in sections 2108.02 to 2108.35 of the Revised Code:",
+      "section": "2108.01",
+      "source_title": "Section 2108.01 - Anatomical gift definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2108.01",
+      "term": "Tissue"
+    },
+    {
+      "definition": "(EE) \"Tissue bank\" means a person conducting operations in this state that is licensed, accredited, or regulated under federal or state law to engage in the recovery, screening, testing, processing, storage, or distribution of tissue.",
+      "id": "2108.01-tissue-bank",
+      "normalized": "tissue bank",
+      "scope": "As used in sections 2108.02 to 2108.35 of the Revised Code:",
+      "section": "2108.01",
+      "source_title": "Section 2108.01 - Anatomical gift definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2108.01",
+      "term": "Tissue bank"
+    },
+    {
+      "definition": "(FF) \"Transplant hospital\" means a hospital that furnishes organ transplants and other medical and surgical specialty services required for the care of transplant patients.",
+      "id": "2108.01-transplant-hospital",
+      "normalized": "transplant hospital",
+      "scope": "As used in sections 2108.02 to 2108.35 of the Revised Code:",
+      "section": "2108.01",
+      "source_title": "Section 2108.01 - Anatomical gift definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2108.01",
+      "term": "Transplant hospital"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2108.02",
+      "number": "2108.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.02"
+    },
+    {
+      "kind": "section",
+      "label": "2108.35",
+      "number": "2108.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.35"
+    },
+    {
+      "kind": "section",
+      "label": "2108.01",
+      "number": "2108.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.01"
+    },
+    {
+      "kind": "section",
+      "label": "2108.29",
+      "number": "2108.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.29"
+    },
+    {
+      "kind": "section",
+      "label": "2108.11",
+      "number": "2108.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.11"
+    },
+    {
+      "kind": "section",
+      "label": "1337.11",
+      "number": "1337.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1337.11"
+    },
+    {
+      "kind": "section",
+      "label": "1337.17",
+      "number": "1337.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1337.17"
+    },
+    {
+      "kind": "section",
+      "label": "2108.07",
+      "number": "2108.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.07"
+    }
+  ],
+  "scraped": "2026-07-02T19:41:18+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2108.01",
+  "title": "Section 2108.01 - Anatomical gift definitions."
+}

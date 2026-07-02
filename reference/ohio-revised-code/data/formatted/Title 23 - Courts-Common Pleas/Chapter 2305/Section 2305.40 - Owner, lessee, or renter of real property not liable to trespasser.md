@@ -1,0 +1,46 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-2305.40
+Scraped: 2026-07-02T19:43:12+00:00
+
+# Section 2305.40 - Owner, lessee, or renter of real property not liable to trespasser.
+
+**Effective:** March 18, 1997
+
+**Latest Legislation:** House Bill 447 - 121st General Assembly
+
+(A) As used in this section:
+
+(1) "Firearm" has the same meaning as in section 2923.11 of the Revised Code.
+
+(2) "Tort action" means a civil action for damages for injury, death, or loss to person or property other than a civil action for damages for a breach of contract or another agreement between persons.
+
+(3) "Vehicle" has the same meaning as in section 4501.01 of the Revised Code.
+
+(B)(1) The owner, lessee, or renter of real property or a member of the owner's, lessee's, or renter's family who resides on the property is not liable in damages to a trespasser on the property, to a member of the family of the trespasser, or to any other person in a tort action for injury, death, or loss to person or property of the trespasser that allegedly is caused by the owner, lessee, renter, or family member if, at the time the injury, death, or loss to person or property allegedly is caused, all of the following apply:
+
+(a) The owner, lessee, renter, or family member is inside a building or other structure on the property that is maintained as a permanent or temporary dwelling;
+
+(b) The trespasser has made, is making, or is attempting to make an unlawful entry into the building or other structure described in division (B)(1)(a) of this section;
+
+(c) The owner, lessee, renter, or family member uses reasonably necessary force to repel the trespasser from the building or other structure described in division (B)(1)(a) of this section or to prevent the trespasser from making the unlawful entry into that building or other structure.
+
+(2) For purposes of the immunity created by division (B)(1) of this section, reasonably necessary force to repel a trespasser from a building or other structure that is maintained as a permanent or temporary dwelling or to prevent a trespasser from making an unlawful entry into a building or other structure of that nature may include the taking of or attempting to take the trespasser's life, or causing or attempting to cause physical harm or serious physical harm to the person of the trespasser, if the owner, lessee, or renter of real property or a member of the owner's, lessee's, or renter's family who resides on the property has a reasonable good faith belief that the owner, lessee, or renter or a member of the owner's, lessee's, or renter's family is in imminent danger of death or serious physical harm to person and that the only means to escape from the imminent danger is to use deadly force or other force that likely will cause physical harm or serious physical harm to the person of the trespasser, even if the owner, lessee, renter, or family member is mistaken as to the existence or imminence of the danger of death or serious physical harm to person.
+
+(3) In order to qualify for the immunity created by division (B)(1) of this section, an owner, lessee, or renter of real property or a member of the owner's, lessee's, or renter's family who resides on the property is not required to retreat from a building or other structure that is maintained as a permanent or temporary dwelling prior to using reasonably necessary force to repel a trespasser from the building or other structure or to prevent a trespasser from making an unlawful entry into the building or other structure.
+
+(C) The owner, lessee, or renter of real property or a member of the owner's, lessee's, or renter's family who resides on the property is not liable in damages to a trespasser on the property, to a member of the family of the trespasser, or to any other person in a tort action for injury, death, or loss to person or property of the trespasser that allegedly is caused by the owner, lessee, renter, or family member under circumstances not covered by division (B)(1) of this section if, at the time the injury, death, or loss to person or property allegedly is caused, none of the following applies:
+
+(1) The injury, death, or loss to person or property is caused by a physical assault of the owner, lessee, renter, or family member upon the trespasser other than in self-defense or defense of a third person.
+
+(2) Self-defense or defense of a third person is not involved, and the injury, death, or loss to person or property is caused by a vehicle driven or otherwise set in motion, a firearm shot, or any other item of tangible personal property held, driven, set in motion, projected, or thrown by the owner, lessee, renter, or family member with the intent to cause injury, death, or loss to person or property of the trespasser or with the intent to cause the trespasser to believe that the owner, lessee, renter, or family member would cause injury, death, or loss to person or property of the trespasser.
+
+(3) Under circumstances not described in division (C)(1) or (2) of this section, self-defense or defense of a third person is not involved, and the owner, lessee, renter, or family member intends to create a risk of injury, death, or loss to person or property of any trespasser by direct or indirect means, including, but not limited to, the use of spring guns, traps, or other dangerous instrumentalities.
+
+(D)(1) This section does not create a new cause of action or substantive legal right against the owner, lessee, or renter of real property or a member of the owner's, lessee's, or renter's family who resides on the property.
+
+(2) This section does not affect any civil liability under another section of the Revised Code or the common law of this state of an owner, lessee, or renter of real property or a member of the owner's, lessee's, or renter's family who resides on the property with respect to individuals other than trespassers, including, but not limited to, civil liability to invitees or licensees.
+
+(3) This section does not affect any immunities from or defenses to civil liability established by another section of the Revised Code or available at common law to which the owner, lessee, or renter of real property or a member of the owner's, lessee's, or renter's family who resides on the property may be entitled with respect to individuals other than trespassers, including, but not limited to, immunities from or defenses to civil liability to invitees or licensees.
+
+(4) This section does not affect any criminal liability that the owner, lessee, or renter of real property or a member of the owner's, lessee's, or renter's family who resides on the property may have for injury, death, or loss to person or property of a trespasser, invitee, or licensee on the property.
+
+(5) This section does not affect any immunities from or defenses to civil liability established by another section of the Revised Code or available at common law to which an individual other than the owner, lessee, or renter of real property or a member of the owner's, lessee's, or renter's family who resides on the property may be entitled in connection with injury, death, or loss to person or property of a trespasser on real property owned, leased, or rented by another person, including, but not limited to, self-defense or defense of third persons.

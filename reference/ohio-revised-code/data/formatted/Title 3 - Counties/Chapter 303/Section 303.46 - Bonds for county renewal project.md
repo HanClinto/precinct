@@ -1,0 +1,10 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-303.46
+Scraped: 2026-07-02T19:32:36+00:00
+
+# Section 303.46 - Bonds for county renewal project.
+
+**Effective:** October 30, 1989
+
+**Latest Legislation:** House Bill 230 - 118th General Assembly
+
+In addition to all other powers of boards of county commissioners provided by any other laws, any board may issue bonds from time to time to finance its undertaking and carrying out of any county renewal project of such county, including, without limiting the generality thereof, the payment of principal and interest upon any advances for surveys and plans for or in connection with any such county renewal project, and may also issue refunding bonds for the payment or retirement of such bonds previously issued by it pursuant to this section. The bonds covered by this section shall be payable, as to both principal and interest, solely from the county renewal project income, proceeds, revenues, and funds of the county derived by it from its undertaking and carrying out of the county renewal project with respect to which such bonds are issued. Such bonds, both as to principal and interest, may be made payable or additionally payable from or secured by a pledge of any loan, grant, gift, or contribution from the federal government or any other source, in aid of such county renewal project. Bonds issued under this section shall not constitute a part of the net indebtedness of the county. Bonds issued under this section shall not constitute general obligations of the county, and the general credit or taxing power of the county shall not be pledged for the payment of any part of the principal of or interest on such bonds. Bonds issued under this section shall be authorized by resolution of the board of county commissioners and may be authorized, issued, and sold without a vote of the electors of the county. Bonds issued under this section shall bear interest at such rate or rates, not exceeding the rate determined as provided in section 9.95 of the Revised Code, as may be provided by such resolution.

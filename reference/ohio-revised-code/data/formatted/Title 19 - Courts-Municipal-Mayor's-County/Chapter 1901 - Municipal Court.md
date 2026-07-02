@@ -1,0 +1,81 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-1901
+Scraped: 2026-07-02T19:40:49+00:00
+
+# Chapter 1901 - Municipal Court
+
+## Sections
+
+- Section 1901.01 - Organization of municipal courts.
+- Section 1901.011 - Housing divisions - environmental division.
+- Section 1901.02 - Jurisdiction of municipal courts.
+- Section 1901.021 - Court sitting outside corporate limits of municipal corporation.
+- Section 1901.022 - Jurisdiction to appoint trustees to receive and distribute earnings in executions against property.
+- Section 1901.023 - Extension of jurisdiction for municipal courts on south shore of Lake Erie.
+- Section 1901.024 - Costs, fees, receipts of county municipal courts.
+- Section 1901.025 - Jurisdiction of housing and environmental divisions.
+- Section 1901.026 - Current operating costs apportioned.
+- Section 1901.027 - Ohio River jurisdiction.
+- Section 1901.028 - Temporary location of court in event of emergency.
+- Section 1901.03 - Municipal court definitions.
+- Section 1901.031 - Terms include housing or environmental division of municipal court.
+- Section 1901.04 - Transfer of pending actions.
+- Section 1901.041 - Assignment and referral of cases to special divisions of court.
+- Section 1901.051 - Housing and environmental division judges election.
+- Section 1901.06 - Qualifications and election of judge.
+- Section 1901.07 - Term of office of judge - nomination, election.
+- Section 1901.08 - Election of judges.
+- Section 1901.09 - Presiding and administrative judge.
+- Section 1901.10 - Oath of office required - vacancy.
+- Section 1901.11 - Compensation.
+- Section 1901.111 - Group health care coverage for municipal court judges.
+- Section 1901.12 - Vacation period of judge.
+- Section 1901.121 - Appointment of assigned and substitute judges.
+- Section 1901.122 - Reimbursements and compensation; limitations.
+- Section 1901.123 - Payment of per diem compensation.
+- Section 1901.13 - Powers of the court.
+- Section 1901.131 - Jurisdiction of housing or environmental division.
+- Section 1901.14 - Additional powers of judges; fees; rules; annual report.
+- Section 1901.141 - Special constables.
+- Section 1901.15 - Powers of the presiding municipal judge.
+- Section 1901.151 - Notice of insufficient caseload.
+- Section 1901.16 - Powers when more than one judge.
+- Section 1901.17 - Monetary jurisdiction.
+- Section 1901.18 - Subject matter jurisdiction.
+- Section 1901.181 - Exclusive and concurrent jurisdiction of housing or environmental divisions.
+- Section 1901.182 - Jurisdiction over violations of township resolutions.
+- Section 1901.183 - Environmental division additional jurisdiction.
+- Section 1901.184 - Jurisdiction where property not removed at expiration of campsite use agreement.
+- Section 1901.185 - Jurisdiction to foreclose lien on blighted parcel.
+- Section 1901.186 - Concurrent jurisdiction of Tiffin-Fostoria and Seneca County courts.
+- Section 1901.19 - Jurisdictional powers.
+- Section 1901.20 - Criminal and traffic jurisdiction.
+- Section 1901.21 - Criminal and civil procedure - bond.
+- Section 1901.22 - Civil actions.
+- Section 1901.23 - Issuance of writs and process.
+- Section 1901.24 - Demand for jury trial - number of jurors - verdict.
+- Section 1901.25 - Selection and impaneling of jury.
+- Section 1901.26 - Costs.
+- Section 1901.261 - Computerizing court of paying cost of computerized legal research.
+- Section 1901.262 - Rules for procedures for resolution of disputes.
+- Section 1901.263 - Cancellation of uncollectible debts.
+- Section 1901.27 - When action is pending.
+- Section 1901.28 - Bond for appeal.
+- Section 1901.29 - No term of court.
+- Section 1901.30 - Appeals.
+- Section 1901.31 - Clerk of court.
+- Section 1901.311 - Branch offices - special deputy clerks.
+- Section 1901.312 - Group health care coverage for clerks and deputy clerks.
+- Section 1901.313 - Electronic filing.
+- Section 1901.32 - Bailiffs.
+- Section 1901.321 - Municipal court contracts for transportation persons between jail and court.
+- Section 1901.33 - Court employees.
+- Section 1901.331 - Housing or environmental division officers and employees.
+- Section 1901.34 - Criminal prosecutions - compensation of prosecuting officers.
+- Section 1901.35 - Transcript of records.
+- Section 1901.36 - Accommodations and needs of the court.
+- Section 1901.37 - Bonds.
+- Section 1901.38 - Liability coverage for municipal court judges and employees.
+- Section 1901.381 - Liability coverage for municipal court clerk.
+- Section 1901.41 - Case files retention and destruction.
+- Section 1901.43 - Order for accused to appear for fingerprinting.
+- Section 1901.44 - Alternative methods for collecting court costs; notice of balance due.

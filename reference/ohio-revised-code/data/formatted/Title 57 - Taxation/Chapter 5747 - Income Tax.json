@@ -1,0 +1,669 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 5747.01 - Definitions.",
+      "number": "5747.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.011 - Gain or loss included in trust's Ohio taxable income.",
+      "number": "5747.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.011"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.012 - Tax treatment of qualifying investment income from pass-through entity.",
+      "number": "5747.012",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.012"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.013 - Calculating a trust's modified Ohio taxable income.",
+      "number": "5747.013",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.013"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.02 - Tax rates.",
+      "number": "5747.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.021 - School district income tax.",
+      "number": "5747.021",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.021"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.022 - Tax credits for exemptions.",
+      "number": "5747.022",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.022"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.023 - Tax credits for armed forces member killed in combat or military or civilian employee killed in terroristic or military action.",
+      "number": "5747.023",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.023"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.024 - Military pay not included in adjusted gross income.",
+      "number": "5747.024",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.024"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.025 - Personal exemptions.",
+      "number": "5747.025",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.025"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.026 - Extensions for filing and payment by members called to active duty.",
+      "number": "5747.026",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.026"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.03 - Distributing income tax revenue.",
+      "number": "5747.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.031 - Separate reporting of business and nonbusiness income tax revenues.",
+      "number": "5747.031",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.031"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.04 - Attributing tax receipts to county.",
+      "number": "5747.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.05 - Tax credits.",
+      "number": "5747.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.054 - Tax credit based on federal dependent care credit.",
+      "number": "5747.054",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.054"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.055 - Tax credit for retirement income.",
+      "number": "5747.055",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.055"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.057 - Tax credit for career-technical education program employees.",
+      "number": "5747.057",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.057"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.058 - Tax credits to foster job creation or retention.",
+      "number": "5747.058",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.058"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.059 - Tax credit for Ohio withholding tax paid by one or more qualifying pass-through entities.",
+      "number": "5747.059",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.059"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.06 - Employer's duty to withhold tax.",
+      "number": "5747.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.061 - Withholding tax from wages of nonresident employees.",
+      "number": "5747.061",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.061"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.062 - Withholding tax from state lottery winnings.",
+      "number": "5747.062",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.062"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.063 - Withholding from casino and sports gaming winnings.",
+      "number": "5747.063",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.063"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.064 - Withholding from video lottery and sports gaming winnings.",
+      "number": "5747.064",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.064"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.065 - Income tax withholding from unemployment compensation benefits.",
+      "number": "5747.065",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.065"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.07 - Employers to file return and pay withholding.",
+      "number": "5747.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.071 - Withholding tax from retirement benefits.",
+      "number": "5747.071",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.071"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.072 - Employers remitting taxes by electronic funds transfer.",
+      "number": "5747.072",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.072"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.073 - Bulk filer registration.",
+      "number": "5747.073",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.073"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.08 - Filing income tax return.",
+      "number": "5747.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.082 - Use of electronic filing by tax preparers.",
+      "number": "5747.082",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.082"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.083 - Report or payment of use tax on personal income tax return.",
+      "number": "5747.083",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.083"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.09 - Declaration of estimated taxes.",
+      "number": "5747.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.10 - Amended returns.",
+      "number": "5747.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.11 - Refunds - interest.",
+      "number": "5747.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.112 - Paying refund of school district income taxes.",
+      "number": "5747.112",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.112"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.113 - Income tax refund contribution system.",
+      "number": "5747.113",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.113"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.12 - Applying refund to satisfy debt to state.",
+      "number": "5747.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.121 - Collecting child support from refunds.",
+      "number": "5747.121",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.121"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.122 - Collecting overpayments of public assistance from refunds.",
+      "number": "5747.122",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.122"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.123 - Collecting overpaid child support from refunds.",
+      "number": "5747.123",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.123"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.13 - Liability of employer for failure to file return or collect or remit tax.",
+      "number": "5747.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.132 - Eliminating interest or penalty on qualifying refund overpayment.",
+      "number": "5747.132",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.132"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.14 - Imposing jeopardy assessments.",
+      "number": "5747.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.15 - Failure to file or remit tax - filing frivolous, dilatory or fraudulent claim.",
+      "number": "5747.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.16 - Secretary of state agent for service of process on nonresidents.",
+      "number": "5747.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.17 - Maintaining records.",
+      "number": "5747.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.18 - Powers of tax commissioner.",
+      "number": "5747.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.19 - Filing incomplete, false, and fraudulent returns.",
+      "number": "5747.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.20 - Allocating nonbusiness income or deduction.",
+      "number": "5747.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.21 - Apportioning business income or deduction.",
+      "number": "5747.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.212 - Apportioning gain recognized by nonresident equity investor selling an investment in a closely-held business.",
+      "number": "5747.212",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.212"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.22 - Apportioning and allocating income and deductions of pass-through entities.",
+      "number": "5747.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.221 - Items of income and deductions not to be allocated or apportioned to Ohio.",
+      "number": "5747.221",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.221"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.23 - Taxing trust income.",
+      "number": "5747.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.231 - Including taxpayer's entire distributive or proportionate share attributable to pass-through entity.",
+      "number": "5747.231",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.231"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.24 - Presumption of domicile.",
+      "number": "5747.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.26 - Lead abatement tax credit.",
+      "number": "5747.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.27 - Credit for displaced worker who pays for job training to enhance ability to get new job.",
+      "number": "5747.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.28 - Credit for purchase of qualifying property by taxpayer engaged in the business of producing grapes.",
+      "number": "5747.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.30 - Exemption for nonresident pass-through entities as to commercial printing.",
+      "number": "5747.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.331 - Nonrefundable credit equal to borrower's qualified research and development loan payments.",
+      "number": "5747.331",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.331"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.38 - Pass-through entity income tax.",
+      "number": "5747.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.39 - Pass-through entity owner credit.",
+      "number": "5747.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.40 - Definitions relating to qualified pass-through entities.",
+      "number": "5747.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.401 - Deemed investors in investment pass-through entity are deemed investors in any other pass-through entity in which investment pass-through entity is direct investor.",
+      "number": "5747.401",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.401"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.41 - Withholding tax on qualifying pass-through entity or trust having individual qualifying investor or beneficiary.",
+      "number": "5747.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.42 - Filing annual return.",
+      "number": "5747.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.43 - Filing estimated tax return and making estimated payments.",
+      "number": "5747.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.44 - Tax payment by electronic funds transfer.",
+      "number": "5747.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.45 - Taxable year; method of accounting; amended reports with payment or application for refund.",
+      "number": "5747.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.451 - Requirements of qualifying entity upon retirement from business, voluntary dissolution or transfer to successor.",
+      "number": "5747.451",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.451"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.453 - Personal liability of employee or beneficiary of, or investor in, a qualifying entity for failure to file report or pay tax.",
+      "number": "5747.453",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.453"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.46 - Library and local government support fund definitions.",
+      "number": "5747.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.47 - Estimating, certifying and distributing of county's share of library and local government support fund.",
+      "number": "5747.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.48 - Distribution of county library and local government support fund.",
+      "number": "5747.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.49 - Prohibiting later performance of duties.",
+      "number": "5747.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.50 - Apportioning local government fund to political subdivision or eligible taxing district.",
+      "number": "5747.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.501 - Estimating and certifying amount for distribution into local government fund.",
+      "number": "5747.501",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.501"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.502 - Reports on fines resulting from traffic law photo-monitoring devices.",
+      "number": "5747.502",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.502"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.503 - Payments to county undivided local government funds of supplement for townships.",
+      "number": "5747.503",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.503"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.504 - Local government fund payment reduction for ranked choice voting.",
+      "number": "5747.504",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.504"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.505 - Application of multiple local government fund payment reductions.",
+      "number": "5747.505",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.505"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.51 - Allocating local government fund to county undivided local government funds.",
+      "number": "5747.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.52 - Calculating subdivision share of undivided local government fund.",
+      "number": "5747.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.53 - Apportionment of undivided local government fund of county under an alternative method or on a formula basis.",
+      "number": "5747.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.54 - Failure to certify percentage share of the undivided local government fund.",
+      "number": "5747.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.55 - Appealing county budget commission action.",
+      "number": "5747.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.60 - Delegating investigation powers of tax commissioner.",
+      "number": "5747.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.66 - Credit for any individual who is the certificate owner of a tax credit certificate.",
+      "number": "5747.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.70 - Deductions for contributions to college savings programs.",
+      "number": "5747.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.71 - Earned income tax credit.",
+      "number": "5747.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.72 - Credit for home instruction expenses.",
+      "number": "5747.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.73 - Credit for donations to scholarship organizations.",
+      "number": "5747.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.75 - Credit for dependents who attend nonchartered nonpublic school.",
+      "number": "5747.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.76 - Refundable income tax credit for owner of RC 149.311 certificate.",
+      "number": "5747.76",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.76"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.77 - Beginning farmer tax credits.",
+      "number": "5747.77",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.77"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.78 - Deductions for amounts contributed to ABLE savings account.",
+      "number": "5747.78",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.78"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.79 - Deduction for capital gains from sale of business.",
+      "number": "5747.79",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.79"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.80 - Issuance of tax credits by Ohio venture capital authority.",
+      "number": "5747.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.80"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.81 - Tax credit for holders of small business investment certificate.",
+      "number": "5747.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.82 - Tax credit for holders of commercial driver training certificate.",
+      "number": "5747.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.82"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.83 - State low-income housing tax credit.",
+      "number": "5747.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.83"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.84 - Tax credit for single-family housing development.",
+      "number": "5747.84",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.84"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.85 - Homeownership savings account deduction.",
+      "number": "5747.85",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.85"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.86 - Opportunity zone investment tax credit.",
+      "number": "5747.86",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.86"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.87 - Transformational mixed use development tax credit.",
+      "number": "5747.87",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.87"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.98 - Order for claiming credits.",
+      "number": "5747.98",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.98"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5747.99 - Penalty.",
+      "number": "5747.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.99"
+    }
+  ],
+  "scraped": "2026-07-02T20:15:28+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-5747",
+  "title": "Chapter 5747 - Income Tax"
+}

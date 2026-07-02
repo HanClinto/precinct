@@ -1,0 +1,52 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Free clinic\" means a nonprofit organization exempt from federal income taxation under section 501(c)(3) of the \"Internal Revenue Code of 1986,\" as amended, or a program component of a nonprofit organization, to which both of the following apply:\n\n(a) Its primary mission is to provide health care services for free or for a minimal administrative fee to individuals with limited resources.\n\n(b) It facilitates the delivery of health care services through the use of volunteer health care professionals and voluntary care networks.",
+      "id": "3701.071-free-clinic",
+      "normalized": "free clinic",
+      "scope": "(A) As used in this section:",
+      "section": "3701.071",
+      "source_title": "Section 3701.071 - Registering and record keeping for nonprofit shelters and health care facilities.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3701.071",
+      "term": "Free clinic"
+    },
+    {
+      "definition": "(2) \"Indigent and uninsured person\" has the same meaning as in section 2305.234 of the Revised Code.",
+      "id": "3701.071-indigent-and-uninsured-person",
+      "normalized": "indigent and uninsured person",
+      "scope": "(A) As used in this section:",
+      "section": "3701.071",
+      "source_title": "Section 3701.071 - Registering and record keeping for nonprofit shelters and health care facilities.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3701.071",
+      "term": "Indigent and uninsured person"
+    },
+    {
+      "definition": "(3) \"Nonprofit shelter or health care facility\" means a charitable nonprofit corporation organized and operated pursuant to Chapter 1702. of the Revised Code, or any charitable organization not organized and not operated for profit, that provides shelter, health care services, or shelter and health care services to indigent and uninsured persons. \"Nonprofit shelter or health care facility\" includes any such shelter or facility that is operated as or includes a free clinic. \"Nonprofit shelter or health care facility\" does not include a hospital, as defined in section 3727.01 of the Revised Code, a facility licensed under Chapter 3721. of the Revised Code, or a medical facility that is operated for profit.\n\n(B) A nonprofit shelter or health care facility operating in this state shall register on the first day of January each year with the department of health. The immunity provided by division (E) of section 2305.234 of the Revised Code is not available to a nonprofit shelter or health care facility until the shelter or facility registers with the department in accordance with this section.\n\n(C) A nonprofit shelter or health care facility operating in this state shall keep records of all patients who receive medical, dental, or other health-related diagnosis, care, or treatment at the shelter or facility. The department of health shall monitor the quality of care provided to patients at nonprofit shelters or health care facilities. The monitoring program may be conducted by contracting with another entity or through any other method authorized by law. The department may solicit and accept funds from private sources to fund the monitoring program.\n\n(D) A free clinic operating in this state shall compile information on medicaid eligibility and application requirements and procedures and display copies of that information in a prominent location for the benefit of persons who seek or receive services from the clinic.",
+      "id": "3701.071-nonprofit-shelter-or-health-care-facility",
+      "normalized": "nonprofit shelter or health care facility",
+      "scope": "(A) As used in this section:",
+      "section": "3701.071",
+      "source_title": "Section 3701.071 - Registering and record keeping for nonprofit shelters and health care facilities.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3701.071",
+      "term": "Nonprofit shelter or health care facility"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2305.234",
+      "number": "2305.234",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.234"
+    },
+    {
+      "kind": "section",
+      "label": "3727.01",
+      "number": "3727.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3727.01"
+    }
+  ],
+  "scraped": "2026-07-02T19:50:52+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3701.071",
+  "title": "Section 3701.071 - Registering and record keeping for nonprofit shelters and health care facilities."
+}

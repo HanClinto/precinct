@@ -1,0 +1,12 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-120.01
+Scraped: 2026-07-02T19:31:34+00:00
+
+# Section 120.01 - Ohio public defender commission.
+
+**Effective:** January 13, 1976
+
+**Latest Legislation:** House Bill 164 - 111th General Assembly
+
+There is hereby created the Ohio public defender commission to provide, supervise, and coordinate legal representation at state expense for indigent and other persons. The commission shall consist of nine members, one of whom shall be chairman. The chairman shall be appointed by the governor with the advice and consent of the senate. Four members shall be appointed by the governor, two of whom shall be from each of the two major political parties. Four members shall be appointed by the supreme court, two of whom shall be from each of the two major political parties. The chairman, and not less than two of the members appointed by the governor, and not less than two of the members appointed by the supreme court shall be attorneys admitted to the practice of law in this state.
+
+Within thirty days after the effective date of this section, the governor and the supreme court shall make initial appointments to the commission. Of the initial appointments made to the commission by the governor, the appointment of the chairman shall be for a term of two years. Of the other four appointments, one shall be for a term ending one year after the effective date of this section, one shall be for a term ending two years after that date, one shall be for a term ending three years after that date, and one shall be for a term ending four years after that date. Of the initial appointments made to the commission by the supreme court, one shall be for a term ending one year after the effective date of this section, one shall be for a term ending two years after that date, one shall be for a term ending three years after that date, and one shall be for a term ending four years after that date. Thereafter, terms of office shall be for four years, each term ending on the same day of the same month of the year as did the term which it succeeds. Any member appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall hold office for the remainder of such term. Any member shall continue in office subsequent to the expiration date of his term until his successor takes office or until a period of sixty days has elapsed, whichever occurs first.

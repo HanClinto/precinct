@@ -1,0 +1,18 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5733.351
+Scraped: 2026-07-02T20:15:03+00:00
+
+# Section 5733.351 - Credit for qualified research expenses.
+
+**Effective:** September 29, 2011
+
+**Latest Legislation:** House Bill 153 - 129th General Assembly
+
+(A) As used in this section, "qualified research expenses" has the same meaning as in section 41 of the Internal Revenue Code.
+
+(B)(1) A nonrefundable credit is allowed against the tax imposed by section 5733.06 of the Revised Code for tax year 2002 for a taxpayer whose taxable year for tax year 2002 ended before July 1, 2001. The credit shall equal seven per cent of the excess of qualified research expenses incurred in this state by the taxpayer between January 1, 2001, and the end of the taxable year, over the taxpayer's average annual qualified research expenses incurred in this state for the three preceding taxable years.
+
+(2) A nonrefundable credit also is allowed against the tax imposed by section 5733.06 of the Revised Code for each tax year, commencing with tax year 2004, and in the case of a corporation subject to division (G)(2) of section 5733.01 of the Revised Code ending with tax year 2008. The credit shall equal seven per cent of the excess of qualified research expenses incurred in this state by the taxpayer for the taxable year over the taxpayer's average annual qualified research expenses incurred in this state for the three preceding taxable years.
+
+(3) The taxpayer shall claim the credit allowed under division (B)(1) or (2) of this section in the order required by section 5733.98 of the Revised Code. Any credit amount in excess of the tax due under section 5733.06 of the Revised Code, after allowing for any other credits that precede the credit under this section in the order required under section 5733.98 of the Revised Code, may be carried forward for seven taxable years, but the amount of the excess credit allowed in any such year shall be deducted from the balance carried forward to the next year. A corporation subject to division (G)(2) of section 5733.01 of the Revised Code may carry forward any credit not fully utilized by tax year 2008 and apply it against the tax levied by Chapter 5751. of the Revised Code to the extent allowed under section 5751.51 of the Revised Code, provided that the total number of taxable years under this section and calendar years under Chapter 5751. of the Revised Code for which the credit is carried forward shall not exceed seven.
+
+(C) In the case of a qualifying controlled group, the credit allowed under division (B)(1) or (2) of this section to taxpayers in the qualifying controlled group shall be computed as if all corporations in the qualifying controlled group were a consolidated, single taxpayer. For purposes of this division, an insurance company subject to the tax levied under section 5727.18 or Chapter 5729. of the Revised Code may be considered a member of a qualifying controlled group by the group, even though the insurance company is not subject to the tax levied under section 5733.06 of the Revised Code. The credit shall be allocated to such taxpayers in any amount elected for the taxable year by the qualifying controlled group. The election shall be revocable and amendable during the period prescribed by division (B) of section 5733.12 of the Revised Code.

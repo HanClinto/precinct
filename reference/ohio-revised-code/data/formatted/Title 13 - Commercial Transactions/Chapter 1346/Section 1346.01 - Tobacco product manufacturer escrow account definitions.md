@@ -1,0 +1,44 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-1346.01
+Scraped: 2026-07-02T19:37:26+00:00
+
+# Section 1346.01 - Tobacco product manufacturer escrow account definitions.
+
+**Effective:** June 30, 1999
+
+**Latest Legislation:** House Bill 362 - 123rd General Assembly
+
+(A) "Adjusted for inflation" means increased in accordance with the formula for inflation adjustment set forth in exhibit C to the Master Settlement Agreement.
+
+(B) "Affiliate" means a person who directly or indirectly owns or controls, is owned or controlled by, or is under common ownership or control with, another person. Solely for purposes of this definition, the terms "owns," "is owned" and "ownership" mean ownership of an equity interest, or the equivalent thereof, of ten per cent or more, and the term "person" means an individual, partnership, committee, association, corporation or any other organization or group of persons.
+
+(C) "Allocable share" means allocable share as that term is defined in the Master Settlement Agreement.
+
+(D)(1) "Cigarette" means any product that contains nicotine, is intended to be burned or heated under ordinary conditions of use, and consists of or contains any of the following:
+
+(a) Any roll of tobacco wrapped in paper or in any substance not containing tobacco;
+
+(b) Tobacco, in any form, that is functional in the product, which, because of its appearance, the type of tobacco used in the filler, or its packaging and labeling, is likely to be offered to, or purchased by, consumers as a cigarette; or
+
+(c) Any roll of tobacco wrapped in any substance containing tobacco which, because of its appearance, the type of tobacco used in the filler, or its packaging and labeling, is likely to be offered to, or purchased by, consumers as a cigarette described in division (D)(1)(a) of this section.
+
+(2) The term "cigarette" includes "roll-your-own" (i.e., any tobacco which, because of its appearance, type, packaging, or labeling is suitable for use and likely to be offered to, or purchased by, consumers as tobacco for making cigarettes). For purposes of this definition of "cigarette," 0.09 ounces of "roll-your-own" tobacco shall constitute one individual "cigarette."
+
+(E) "Master Settlement Agreement" means the settlement agreement (and related documents) entered into on November 23, 1998 by the state and leading United States tobacco product manufacturers.
+
+(F) "Qualified escrow fund" means an escrow arrangement with a federally or state chartered financial institution having no affiliation with any tobacco product manufacturer and having assets of at least one billion dollars where such arrangement requires that such financial institution hold the escrowed funds' principal for the benefit of releasing parties and prohibits the tobacco product manufacturer placing the funds into escrow from using, accessing or directing the use of the funds' principal except as consistent with section 1346.02 of the Revised Code.
+
+(G) "Released claims" means released claims as that term is defined in the Master Settlement Agreement.
+
+(H) "Releasing parties" means releasing parties as that term is defined in the Master Settlement Agreement.
+
+(I)(1) "Tobacco product manufacturer" means an entity that after the effective date of this section directly (and not exclusively through any affiliate):
+
+(a) Manufactures cigarettes anywhere that such manufacturer intends to be sold in the United States, including cigarettes intended to be sold in the United States through an importer (except where such importer is an original participating manufacturer (as that term is defined in the Master Settlement Agreement) that will be responsible for the payments under the Master Settlement Agreement with respect to such cigarettes as a result of the provisions of subsections II(mm) of the Master Settlement Agreement and that pays the taxes specified in subsection II(z) of the Master Settlement Agreement, and provided that the manufacturer of such cigarettes does not market or advertise such cigarettes in the United States);
+
+(b) Is the first purchaser anywhere for resale in the United States of cigarettes manufactured anywhere that the manufacturer does not intend to be sold in the United States; or
+
+(c) Becomes a successor of an entity described in division (I)(1)(a) or (b) of this section.
+
+(2) The term "tobacco product manufacturer" shall not include an affiliate of a tobacco product manufacturer unless such affiliate itself falls within any of division (I)(1)(a), (b), or (c) of this section.
+
+(J) "Units sold" means the number of individual cigarettes sold in the state by the applicable tobacco product manufacturer (whether directly or through a distributor, retailer or similar intermediary or intermediaries) during the year in question, as measured by excise taxes collected by the state on packs (or "roll-your-own" tobacco containers) bearing the excise tax stamp of the state. The department of taxation shall promulgate such regulations as are necessary to ascertain the amount of state excise tax paid on the cigarettes of such tobacco product manufacturer for each year.

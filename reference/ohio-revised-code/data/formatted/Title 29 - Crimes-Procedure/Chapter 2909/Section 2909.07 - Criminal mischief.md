@@ -1,0 +1,56 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-2909.07
+Scraped: 2026-07-02T19:46:06+00:00
+
+# Section 2909.07 - Criminal mischief.
+
+**Effective:** April 12, 2021
+
+**Latest Legislation:** Senate Bill 33 - 133rd General Assembly
+
+(A) No person shall:
+
+(1) Without privilege to do so, knowingly move, deface, damage, destroy, or otherwise improperly tamper with either of the following:
+
+(a) The property of another;
+
+(b) One's own residential real property with the purpose to decrease the value of or enjoyment of the residential real property, if both of the following apply:
+
+(i) The residential real property is subject to a mortgage.
+
+(ii) The person has been served with a summons and complaint in a pending residential mortgage loan foreclosure action relating to that real property. As used in this division, "pending" includes the time between judgment entry and confirmation of sale.
+
+(2) With purpose to interfere with the use or enjoyment of property of another, employ a tear gas device, stink bomb, smoke generator, or other device releasing a substance that is harmful or offensive to persons exposed or that tends to cause public alarm;
+
+(3) Without privilege to do so, knowingly move, deface, damage, destroy, or otherwise improperly tamper with a bench mark, triangulation station, boundary marker, or other survey station, monument, or marker;
+
+(4) Without privilege to do so, knowingly move, deface, damage, destroy, or otherwise improperly tamper with any safety device, the property of another, or the property of the offender when required or placed for the safety of others, so as to destroy or diminish its effectiveness or availability for its intended purpose;
+
+(5) With purpose to interfere with the use or enjoyment of the property of another, set a fire on the land of another or place personal property that has been set on fire on the land of another, which fire or personal property is outside and apart from any building, other structure, or personal property that is on that land;
+
+(6) Without privilege to do so, and with intent to impair the functioning of any computer, computer system, computer network, computer software, or computer program, knowingly do any of the following:
+
+(a) In any manner or by any means, including, but not limited to, computer hacking, alter, damage, destroy, or modify a computer, computer system, computer network, computer software, or computer program or data contained in a computer, computer system, computer network, computer software, or computer program;
+
+(b) Introduce a computer contaminant into a computer, computer system, computer network, computer software, or computer program.
+
+(7) Without privilege to do so, knowingly destroy or improperly tamper with a critical infrastructure facility.
+
+(B) As used in this section:
+
+(1) "Safety device" means any fire extinguisher, fire hose, or fire axe, or any fire escape, emergency exit, or emergency escape equipment, or any life line, life-saving ring, life preserver, or life boat or raft, or any alarm, light, flare, signal, sign, or notice intended to warn of danger or emergency, or intended for other safety purposes, or any guard railing or safety barricade, or any traffic sign or signal, or any railroad grade crossing sign, signal, or gate, or any first aid or survival equipment, or any other device, apparatus, or equipment intended for protecting or preserving the safety of persons or property.
+
+(2) "Critical infrastructure facility" has the same meaning as in section 2911.21 of the Revised Code.
+
+(3) "Improperly tamper" means to change the physical location or the physical condition of the property.
+
+(C)(1) Whoever violates this section is guilty of criminal mischief, and shall be punished as provided in division (C)(2), (3), or (4) of this section.
+
+(2) Except as otherwise provided in this division, criminal mischief committed in violation of division (A)(1), (2), (3), (4), or (5) of this section is a misdemeanor of the third degree. Except as otherwise provided in this division, if the violation of division (A)(1), (2), (3), (4), or (5) of this section creates a risk of physical harm to any person, criminal mischief committed in violation of division (A)(1), (2), (3), (4), or (5) of this section is a misdemeanor of the first degree. If the property involved in the violation of division (A)(1), (2), (3), (4), or (5) of this section is an aircraft, an aircraft engine, propeller, appliance, spare part, fuel, lubricant, hydraulic fluid, any other equipment, implement, or material used or intended to be used in the operation of an aircraft, or any cargo carried or intended to be carried in an aircraft, criminal mischief committed in violation of division (A)(1), (2), (3), (4), or (5) of this section is one of the following:
+
+(a) If the violation creates a risk of physical harm to any person, except as otherwise provided in division (C)(2)(b) of this section, criminal mischief committed in violation of division (A)(1), (2), (3), (4), or (5) of this section is a felony of the fifth degree.
+
+(b) If the violation creates a substantial risk of physical harm to any person or if the property involved in a violation of this section is an occupied aircraft, criminal mischief committed in violation of division (A)(1), (2), (3), (4), or (5) of this section is a felony of the fourth degree.
+
+(3) Except as otherwise provided in this division, criminal mischief committed in violation of division (A)(6) of this section is a misdemeanor of the first degree. Except as otherwise provided in this division, if the value of the computer, computer system, computer network, computer software, computer program, or data involved in the violation of division (A)(6) of this section or the loss to the victim resulting from the violation is one thousand dollars or more and less than ten thousand dollars, or if the computer, computer system, computer network, computer software, computer program, or data involved in the violation of division (A)(6) of this section is used or intended to be used in the operation of an aircraft and the violation creates a risk of physical harm to any person, criminal mischief committed in violation of division (A)(6) of this section is a felony of the fifth degree. If the value of the computer, computer system, computer network, computer software, computer program, or data involved in the violation of division (A)(6) of this section or the loss to the victim resulting from the violation is ten thousand dollars or more, or if the computer, computer system, computer network, computer software, computer program, or data involved in the violation of division (A)(6) of this section is used or intended to be used in the operation of an aircraft and the violation creates a substantial risk of physical harm to any person or the aircraft in question is an occupied aircraft, criminal mischief committed in violation of division (A)(6) of this section is a felony of the fourth degree.
+
+(4) Criminal mischief committed in violation of division (A)(7) of this section is a felony of the third degree.

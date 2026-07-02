@@ -1,0 +1,12 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-6101.78
+Scraped: 2026-07-02T20:17:05+00:00
+
+# Section 6101.78 - Defective notice.
+
+**Effective:** September 21, 2000
+
+**Latest Legislation:** House Bill 617 - 123rd General Assembly
+
+If a notice and hearing by the court are provided for in this chapter, the court shall, prior to the conclusion of the hearing, examine the form of the notice and all evidence relating to the giving of the notice and, if the court finds for any reason that due notice was not given in whole or in part, whether by reason of noncompliance with any of the requirements of this chapter or with any applicable constitutional requirements, the court shall not thereby lose jurisdiction, and the proceeding in question shall not thereby be void; but the court shall in that case order notice to be given in compliance with the requirements of this chapter to the parties to whom due notice was not given or the court shall order the giving of other and further notice as the court shall prescribe to comply with any applicable constitutional requirements, and shall continue the hearing until the time when the notice is properly given, and then shall proceed as though notice had been properly given in the first instance.
+
+In case any appraisal, assessment, or levy is held void for want of legal notice, whether by reason of noncompliance with any of the requirements of this chapter or with any applicable constitutional requirements, or in case the board of directors of the conservancy district determines that any notice with reference to any land or public corporation is faulty for one of the same reasons, the board may file a motion in the original cause asking that the court order that the notice required by this chapter or any applicable constitutional requirements be given to the owner of the land or to the public corporation and set a time for hearing as provided in this chapter, and, upon the granting of the motion and the giving of the notice, the court then shall proceed as though notice had been properly given in the first instance. If the original notice was faulty only with reference to certain public corporations or tracts, only the public corporations or the owners of and persons interested in those particular tracts need be notified by the subsequent notice. If the publication of any notice in any county was defective or not made in time, republication of the defective notice is necessary only in the county in which the defect occurred.

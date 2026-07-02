@@ -1,0 +1,561 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 5703.01 - Department of taxation composition.",
+      "number": "5703.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.02 - Board of tax appeals - powers and duties.",
+      "number": "5703.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.021 - Small claims docket within board of tax appeals.",
+      "number": "5703.021",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.021"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.03 - Appointment of members of board of tax appeals - terms of office.",
+      "number": "5703.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.031 - Enforcement of board of tax appeals orders.",
+      "number": "5703.031",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.031"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.04 - Tax commissioner - powers, duties and immunity.",
+      "number": "5703.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.05 - Powers, duties and functions of tax commissioner - deputy commissioners - employees - certificate of abatement.",
+      "number": "5703.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.051 - Procedure for certificate of abatement.",
+      "number": "5703.051",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.051"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.052 - Tax refund fund.",
+      "number": "5703.052",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.052"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.053 - What constitutes timely filing.",
+      "number": "5703.053",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.053"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.054 - Form of filing required documents.",
+      "number": "5703.054",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.054"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.055 - Rounding fractional parts of dollar.",
+      "number": "5703.055",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.055"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.056 - Mailing terms; delivery services; date or receipt.",
+      "number": "5703.056",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.056"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.057 - Commissioner may require identifying information.",
+      "number": "5703.057",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.057"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.058 - Deposit of tax payments within 30 days of receipt.",
+      "number": "5703.058",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.058"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.059 - Electronic or telephonic tax filing.",
+      "number": "5703.059",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.059"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.0510 - Claiming tax credits; required documentation.",
+      "number": "5703.0510",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.0510"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.06 - Claims - compromise or installment payment agreement - innocent spouse relief.",
+      "number": "5703.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.061 - Cancellation of debts under $50.",
+      "number": "5703.061",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.061"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.07 - Bond of tax commissioner - duty to devote entire time to office.",
+      "number": "5703.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.08 - Employee's bonds.",
+      "number": "5703.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.081 - Discipline of department employee failing to comply with tax laws.",
+      "number": "5703.081",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.081"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.09 - Compensation of board members.",
+      "number": "5703.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.10 - Place of office - branch offices.",
+      "number": "5703.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.11 - Business hours.",
+      "number": "5703.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.12 - Annual report.",
+      "number": "5703.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.13 - Quorum - orders.",
+      "number": "5703.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.14 - Review of rules.",
+      "number": "5703.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.15 - Designation of actions.",
+      "number": "5703.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.16 - Rules and regulations.",
+      "number": "5703.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.17 - Appointment and powers of agent, tax auditor agent, or tax auditor agent manager.",
+      "number": "5703.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.18 - Procedural powers of commissioner and agents.",
+      "number": "5703.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.19 - Right of tax commissioner to inspect books of taxpayer - penalty.",
+      "number": "5703.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.20 - Power to require production of books by order or subpoena.",
+      "number": "5703.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.21 - Prohibition against divulging information - information acquired as result of audit.",
+      "number": "5703.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.211 - Rules for tracking database searches.",
+      "number": "5703.211",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.211"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.22 - Decisions of department.",
+      "number": "5703.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.23 - Attorney general or prosecuting attorney shall aid in investigations or hearings.",
+      "number": "5703.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.24 - Action for damages by taxpayer.",
+      "number": "5703.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.25 - Returns, claims, and reports need not be sworn to - perjury statement.",
+      "number": "5703.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.26 - Prohibition against making a false or fraudulent report, return, schedule, statement, claim, or document.",
+      "number": "5703.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.261 - Payment with nonnegotiable or dishonored instrument - penalty.",
+      "number": "5703.261",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.261"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.262 - Commissioner may designate documents that must be signed by preparers - penalties.",
+      "number": "5703.262",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.262"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.263 - Prohibited conduct by tax preparer; power of commissioner.",
+      "number": "5703.263",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.263"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.27 - Duty to answer questions.",
+      "number": "5703.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.28 - Contempt proceedings for disobedience.",
+      "number": "5703.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.29 - Fees of officers and witnesses.",
+      "number": "5703.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.30 - Payment of expenses and witness fees.",
+      "number": "5703.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.31 - Appearance of officers - payment of expenses.",
+      "number": "5703.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.32 - Depositions.",
+      "number": "5703.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.33 - Copy of testimony to be received in evidence.",
+      "number": "5703.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.34 - Compulsory testimony - privilege against prosecution.",
+      "number": "5703.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.35 - Furnishing of blanks - extension of time for filing reports.",
+      "number": "5703.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.36 - Commissioner to obtain information.",
+      "number": "5703.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.37 - Service of notice or order.",
+      "number": "5703.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.371 - Foreign corporations - designation of secretary of state as agent.",
+      "number": "5703.371",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.371"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.38 - Denial of injunction.",
+      "number": "5703.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.39 - Writ of mandamus - injunction.",
+      "number": "5703.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.40 - Interchange of information with other states, United States or Canada.",
+      "number": "5703.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.41 - Interchange of information between tax commissioner and other officers.",
+      "number": "5703.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.42 - Annual report.",
+      "number": "5703.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.43 - Duty of agents to report and testify.",
+      "number": "5703.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.44 - Forfeiture for ordering agent to violate law.",
+      "number": "5703.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.45 - Agent's acts imputed to principal.",
+      "number": "5703.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.46 - Each day's failure to comply a separate offense.",
+      "number": "5703.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.47 - Definition of federal short term rate.",
+      "number": "5703.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.48 - Report describing effect of tax expenditures, property tax exemptions on general revenue fund.",
+      "number": "5703.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.49 - Internet site for tax information.",
+      "number": "5703.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.50 - Taxpayer rights definitions.",
+      "number": "5703.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.51 - Written information and instructions for taxpayers.",
+      "number": "5703.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.52 - Problem resolution officers - continuing education - evaluating employees.",
+      "number": "5703.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.53 - Opinions on prospective tax liability.",
+      "number": "5703.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.54 - Action for damages by taxpayer.",
+      "number": "5703.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.55 - Display of social security number.",
+      "number": "5703.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.56 - Sham transactions.",
+      "number": "5703.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.58 - Time limit for assessments - extension by lawful stay.",
+      "number": "5703.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.60 - Petition for reassessment.",
+      "number": "5703.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.65 - Central sales and use tax registration system not to be used for other taxes.",
+      "number": "5703.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.70 - Refund application procedures.",
+      "number": "5703.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.75 - Taxes and refunds under one dollar.",
+      "number": "5703.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.76 - Electronic fund transfers for political subdivisions.",
+      "number": "5703.76",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.76"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.77 - Credit account balances.",
+      "number": "5703.77",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.77"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.80 - Property tax administration fund.",
+      "number": "5703.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.80"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.82 - Tax discovery data system.",
+      "number": "5703.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.82"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.83 - Property tax relief screening system.",
+      "number": "5703.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.83"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.85 - Quarterly report by tax commissioner.",
+      "number": "5703.85",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.85"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.90 - Assessments for the unpaid taxes.",
+      "number": "5703.90",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.90"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.91 - Failure of corporation to report or pay taxes or fees.",
+      "number": "5703.91",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.91"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.92 - Exercising powers after articles of incorporation or certificate of authority canceled; penalty.",
+      "number": "5703.92",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.92"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.93 - Reinstatement after cancellation.",
+      "number": "5703.93",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.93"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.94 - Qualifications for out-of-state disaster business or employee.",
+      "number": "5703.94",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.94"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5703.99 - Penalty.",
+      "number": "5703.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.99"
+    }
+  ],
+  "scraped": "2026-07-02T20:14:19+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-5703",
+  "title": "Chapter 5703 - Department Of Taxation"
+}

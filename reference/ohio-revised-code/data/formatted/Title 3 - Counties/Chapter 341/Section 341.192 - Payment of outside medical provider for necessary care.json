@@ -1,0 +1,39 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Jail\" means a county jail, or a multicounty, municipal-county, or multicounty-municipal correctional center.",
+      "id": "341.192-jail",
+      "normalized": "jail",
+      "scope": "(A) As used in this section:",
+      "section": "341.192",
+      "source_title": "Section 341.192 - Payment of outside medical provider for necessary care.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-341.192",
+      "term": "Jail"
+    },
+    {
+      "definition": "(2) \"Medical provider\" means a physician, hospital, laboratory, pharmacist, pharmacy, or other health care provider that is not employed by or under contract to a county, municipal corporation, township, the department of youth services, or the department of rehabilitation and correction to provide medical services to persons confined in a jail or state correctional institution, or is in the custody of a law enforcement officer.",
+      "id": "341.192-medical-provider",
+      "normalized": "medical provider",
+      "scope": "(A) As used in this section:",
+      "section": "341.192",
+      "source_title": "Section 341.192 - Payment of outside medical provider for necessary care.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-341.192",
+      "term": "Medical provider"
+    },
+    {
+      "definition": "(3) \"Necessary care\" means medical care of a nonelective nature that cannot be postponed until after the period of confinement of a person who is confined in a jail or state correctional institution, or is in the custody of a law enforcement officer without endangering the life or health of the person.\n\n(B) If a physician employed by or under contract to a county, municipal corporation, township, the department of youth services, or the department of rehabilitation and correction to provide medical services to persons confined in a jail or state correctional institution determines that a person who is confined in the jail or state correctional institution or who is in the custody of a law enforcement officer prior to the person's confinement in a jail or state correctional institution requires necessary care that the physician cannot provide, the necessary care shall be provided by a medical provider. The county, municipal corporation, township, the department of youth services, or the department of rehabilitation and correction shall pay a medical provider for necessary care an amount not exceeding the authorized reimbursement rate for the same service established by the department of medicaid under the medicaid program.",
+      "id": "341.192-necessary-care",
+      "normalized": "necessary care",
+      "scope": "(A) As used in this section:",
+      "section": "341.192",
+      "source_title": "Section 341.192 - Payment of outside medical provider for necessary care.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-341.192",
+      "term": "Necessary care"
+    }
+  ],
+  "kind": "section",
+  "references": [],
+  "scraped": "2026-07-02T19:32:56+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-341.192",
+  "title": "Section 341.192 - Payment of outside medical provider for necessary care."
+}

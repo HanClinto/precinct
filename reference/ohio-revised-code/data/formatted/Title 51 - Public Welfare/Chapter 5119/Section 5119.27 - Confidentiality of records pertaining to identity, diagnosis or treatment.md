@@ -1,0 +1,34 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5119.27
+Scraped: 2026-07-02T20:10:42+00:00
+
+# Section 5119.27 - Confidentiality of records pertaining to identity, diagnosis or treatment.
+
+**Effective:** September 30, 2025
+
+**Latest Legislation:** House Bill 96 - 136th General Assembly
+
+(A) As used in this section:
+
+(1) "Community control sanction" has the same meaning as in section 2929.01 of the Revised Code.
+
+(2) "Federally assisted," "program," and "substance use disorder" have the same meanings as in 42 C.F.R. 2.11 and as further described in 42 C.F.R. 2.12(b).
+
+(3) "Post-release control sanction" has the same meaning as in section 2967.01 of the Revised Code.
+
+(B) In accordance with 42 U.S.C. 290dd-2, records or information created or maintained by a federally assisted program for the treatment of substance use disorders shall be kept confidential and may be disclosed only for the purposes and under the circumstances expressly authorized under 42 C.F.R. Part 2.
+
+(C) When the person, with respect to whom any record or information referred to in division (B) of this section is maintained, gives consent in the form of a written release signed by the person, the content of the record or information may be disclosed if the written release conforms to all of the requirements set forth in 42 C.F.R. 2.31.
+
+(D) In accordance with 42 C.F.R. 2.35, a person who is subject to a community control sanction, a post-release control sanction, is on parole, or is ordered to intervention in lieu of conviction, and who has agreed to participate in a federally assisted program for the treatment of substance use disorders as a condition of the community control sanction, post-release control sanction, parole, or intervention order, shall consent to the release of records and information relating to the progress of treatment, frequency of treatment, adherence to treatment requirements, and probable outcome of treatment. Release of information and records under this division shall be limited to the court or governmental personnel having the responsibility for supervising the person's community control sanction, post-release control sanction, parole, or intervention order. A person, described in this division, who refuses to allow disclosure may be considered in violation of the conditions of the person's community control sanction, post-release control sanction, parole, or intervention order.
+
+(E) In accordance with 42 C.F.R. 2.52 and 2.53, disclosure of a person's record may be made without the person's consent to qualified personnel for the purpose of conducting scientific research, management, financial audits, or program evaluation, but these personnel may not identify, directly or indirectly, any particular person in any report of the research, audit, or evaluation, or otherwise disclose a person's identity in any manner.
+
+(F) In accordance with 42 C.F.R. 2.66, upon the request of a prosecuting attorney or the director of behavioral health, a court of competent jurisdiction may order the disclosure of records or information referred to in division (B) of this section if the court has reason to believe that a federally assisted program for the treatment of substance use disorders is being operated or used in a manner contrary to law. The use of any information or record so disclosed shall be limited to the prosecution of persons who are or may be charged with any offense related to the illegal operation or use of the program, or to the decision to withdraw the authority of a the program to continue operation. For purposes of this division the court shall do all of the following:
+
+(1) Limit disclosure to those parts of the person's record considered essential to fulfill the objective for which the order was granted;
+
+(2) Require, where appropriate, that all information be disclosed in chambers;
+
+(3) Include any other appropriate measures to keep disclosure to a minimum, consistent with the protection of the persons seeking or receiving services, the provider-client relationship, and the administration of the program.
+
+Last updated August 8, 2025 at 8:57 AM

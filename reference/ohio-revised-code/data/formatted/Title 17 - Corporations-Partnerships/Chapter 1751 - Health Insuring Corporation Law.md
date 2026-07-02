@@ -1,0 +1,90 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-1751
+Scraped: 2026-07-02T19:39:28+00:00
+
+# Chapter 1751 - Health Insuring Corporation Law
+
+## Sections
+
+- Section 1751.01 - Health insuring corporation law definitions.
+- Section 1751.02 - Applying for certificate of authority.
+- Section 1751.03 - Verification of application.
+- Section 1751.04 - Review of application and documents by superintendent.
+- Section 1751.05 - Issuance or denial of certificate of authority.
+- Section 1751.06 - Powers upon obtaining certificate.
+- Section 1751.07 - Responsibility for funds.
+- Section 1751.08 - Inapplicability of insurance laws.
+- Section 1751.11 - Evidence of coverage.
+- Section 1751.111 - Standardized prescription identification information - pharmacy benefits to be included.
+- Section 1751.12 - Contractual periodic prepayment or premium rate.
+- Section 1751.13 - Contracts with providers and health care facilities.
+- Section 1751.14 - Termination of coverage of child.
+- Section 1751.141 - Dependent children living outside health insuring corporation's approved service area.
+- Section 1751.18 - Cancelling or failing to renew coverage.
+- Section 1751.19 - Complaint system.
+- Section 1751.20 - Unfair, untrue, misleading, or deceptive acts.
+- Section 1751.21 - Peer review committee.
+- Section 1751.25 - Investment of funds.
+- Section 1751.26 - Investments in real estate.
+- Section 1751.27 - Deposit of securities with superintendent or custodian.
+- Section 1751.271 - Medicaid providers - performance bond.
+- Section 1751.28 - Admitted assets held in corporation's name and free and clear of encumbrances, pledges, or hypothecation.
+- Section 1751.31 - Changes in corporation's solicitation document.
+- Section 1751.32 - Annual report.
+- Section 1751.321 - Audit report filed annually.
+- Section 1751.33 - Information to be provided to subscribers.
+- Section 1751.34 - Examinations by superintendent and director.
+- Section 1751.35 - Suspension or revocation of certificate of authority.
+- Section 1751.36 - Notification of grounds for denial, suspension or revocation of certificate - hearing.
+- Section 1751.38 - Applicability of other laws.
+- Section 1751.40 - Insurance companies operating as health insuring corporations.
+- Section 1751.42 - Rehabilitation, liquidation, supervision or conservation of corporation.
+- Section 1751.44 - Fees paid to superintendent of insurance.
+- Section 1751.45 - Administrative penalties - violations.
+- Section 1751.46 - Recommendations for expansion of service areas.
+- Section 1751.47 - Adopting forms, instructions and manuals for providing financial information.
+- Section 1751.48 - Rules.
+- Section 1751.51 - Restrictions on choice of providers.
+- Section 1751.52 - Confidentiality of information.
+- Section 1751.521 - Medical information release.
+- Section 1751.53 - Continuing coverage after termination of employment.
+- Section 1751.54 - Continuing coverage after reservist called to duty.
+- Section 1751.55 - Effect of workers compensation coverage.
+- Section 1751.56 - Effect of supplemental sickness and accident insurance policy.
+- Section 1751.57 - Conditions applying to all individual health insuring corporation contracts.
+- Section 1751.58 - Conditions applying to all group health insuring corporation contracts sold in connection with employment-related group health care plan.
+- Section 1751.59 - Coverage of adopted children.
+- Section 1751.60 - Provider or facility limited to seek compensation for covered services solely from HIC.
+- Section 1751.61 - Coverage for newly born child.
+- Section 1751.62 - Screening mammography - cytologic screening for cervical cancer.
+- Section 1751.63 - Long-term care insurance.
+- Section 1751.65 - Health insuring corporation - prohibited activities.
+- Section 1751.66 - Prescription drugs.
+- Section 1751.67 - Maternity benefits.
+- Section 1751.68 - Provisions for medication synchronization for enrollees.
+- Section 1751.69 - Cancer chemotherapy; coverage for orally and intravenously administered treatments.
+- Section 1751.691 - Prior authorization requirements or other utilization review measures as conditions of providing coverage of an opioid analgesic.
+- Section 1751.70 - Authorization of payroll deductions for public employees.
+- Section 1751.71 - Accepting payments for cost of policies, contracts, and agreements.
+- Section 1751.72 - Policy, contract, or agreement containing a prior authorization requirement.
+- Section 1751.73 - Implementing quality assurance programs.
+- Section 1751.74 - Quality assurance program requirements.
+- Section 1751.75 - Determination that accreditation constitutes compliance.
+- Section 1751.77 - Utilization review, internal and external review procedure definitions.
+- Section 1751.78 - Application of provisions.
+- Section 1751.79 - Utilization review program requirements.
+- Section 1751.80 - Implementing utilization review programs.
+- Section 1751.81 - Maintaining written procedures for determining whether requested service is covered.
+- Section 1751.811 - Internal and external reviews.
+- Section 1751.82 - Reconsideration of adverse determination.
+- Section 1751.821 - Determination that accreditation constitutes compliance.
+- Section 1751.822 - Cooperation with utilization review program.
+- Section 1751.823 - Filing certificate of compliance.
+- Section 1751.83 - Maintaining internal review system.
+- Section 1751.84 - Coverage for autism spectrum disorder.
+- Section 1751.85 - Information for vision care services or materials.
+- Section 1751.86 - Violation deemed unfair and deceptive act or practice.
+- Section 1751.87 - Cause of action not created.
+- Section 1751.89 - Medicare and medicaid exceptions.
+- Section 1751.90 - Coverage for teledentistry.
+- Section 1751.91 - Reimbursement for pharmacists providing health care.
+- Section 1751.92 - Compliance cost-sharing provisions.

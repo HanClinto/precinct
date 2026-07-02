@@ -1,0 +1,79 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-4582
+Scraped: 2026-07-02T20:06:04+00:00
+
+# Chapter 4582 - Port Authorities
+
+## Sections
+
+- Section 4582.01 - Port authority definitions.
+- Section 4582.02 - Creation of port authority.
+- Section 4582.021 - Contracting with county prosecuting attorney for legal services.
+- Section 4582.023 - Appropriation and expenditure of public funds for port authority.
+- Section 4582.024 - Contiguous political subdivision may join port authority.
+- Section 4582.03 - Organization of board of directors.
+- Section 4582.031 - Civil immunity.
+- Section 4582.04 - Port authority employees.
+- Section 4582.041 - Group medical and life insurance.
+- Section 4582.05 - Jurisdiction.
+- Section 4582.06 - Port authority powers and duties.
+- Section 4582.07 - Plan for development of port.
+- Section 4582.08 - Modification of port development plan.
+- Section 4582.09 - Port development plan final.
+- Section 4582.091 - Confidential information.
+- Section 4582.10 - Private enterprise participation.
+- Section 4582.11 - Effect on other laws.
+- Section 4582.12 - Procedure for bidding and contracts.
+- Section 4582.121 - Conveyance or exchange of property with political subdivision.
+- Section 4582.13 - Budget - surplus rent and charges.
+- Section 4582.14 - Levying taxes.
+- Section 4582.15 - Secretary's bond - care of funds.
+- Section 4582.16 - Restricting powers of municipal corporations and counties.
+- Section 4582.17 - Contract powers - acquiring property.
+- Section 4582.171 - Rental of port authority facilities.
+- Section 4582.18 - Bonds are lawful investments.
+- Section 4582.19 - Notice of street change proceedings.
+- Section 4582.20 - Port authority property exempted from taxes.
+- Section 4582.201 - Application of provisions before and after 7-9-82.
+- Section 4582.202 - New provisions prevail if no action taken.
+- Section 4582.21 - Newly created or adopting port authority definitions.
+- Section 4582.22 - Creation of new port authority.
+- Section 4582.23 - Contracting with county prosecuting attorney for legal services.
+- Section 4582.25 - Appropriation and expenditure of public funds for port authority.
+- Section 4582.26 - Contiguous political subdivision may join port authority.
+- Section 4582.27 - Organization of board of directors.
+- Section 4582.271 - Civil immunity.
+- Section 4582.28 - Port authority employees.
+- Section 4582.29 - Group medical and life insurance.
+- Section 4582.30 - Area of jurisdiction.
+- Section 4582.31 - Powers of port authority.
+- Section 4582.32 - Plan for development of port authority.
+- Section 4582.33 - Modification of port authority development plan.
+- Section 4582.34 - Port authority development plan final.
+- Section 4582.35 - Private enterprise participation.
+- Section 4582.36 - Effect on other laws.
+- Section 4582.38 - Conveyance or exchange of property with political subdivision.
+- Section 4582.39 - Budget - surplus rent and charges.
+- Section 4582.40 - Levying taxes.
+- Section 4582.401 - Levying taxes by municipal port authority.
+- Section 4582.41 - Secretary's bond - care of funds.
+- Section 4582.42 - Limitations on county and municipal powers as to harbor or waterfront improvements.
+- Section 4582.43 - Rentals or charges - cooperation for construction of facilities.
+- Section 4582.431 - Contract powers - acquiring property.
+- Section 4582.44 - Bonds are lawful investments.
+- Section 4582.46 - Port authority property exempted from taxes.
+- Section 4582.47 - Loans for acquisition and construction of facilities.
+- Section 4582.48 - Issuing revenue and refunding bonds.
+- Section 4582.49 - Bond laws not applicable to port authority revenue bonds.
+- Section 4582.50 - Securing bonds by trust agreements.
+- Section 4582.51 - Protection and enforcement of rights of bondholder and trustees.
+- Section 4582.52 - Bonds not a debt of state.
+- Section 4582.53 - Property and funds held in trust.
+- Section 4582.54 - Investing excess funds.
+- Section 4582.56 - Agreements for lakeshore improvement projects.
+- Section 4582.57 - Changing location of public road, state highway, railroad, or public utility facility.
+- Section 4582.58 - Journalization of final actions - public records.
+- Section 4582.59 - Liberal construction of chapter.
+- Section 4582.60 - Meeting by interactive video conference or teleconference.
+- Section 4582.71 - Program fund loans for research and development costs.
+- Section 4582.72 - Port authority agreements to extend sales tax exemption.
+- Section 4582.73 - Port authority common bond fund program.

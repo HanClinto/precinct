@@ -1,0 +1,405 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 4725.01 - Optometry definitions.",
+      "number": "4725.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.011 - Vision-correcting device delivering drugs.",
+      "number": "4725.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.011"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.02 - License required.",
+      "number": "4725.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.031 - State vision professionals board.",
+      "number": "4725.031",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.031"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.032 - References to board and director.",
+      "number": "4725.032",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.032"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.04 - Organization of board.",
+      "number": "4725.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.05 - Executive director - employees.",
+      "number": "4725.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.06 - Compensation and expenses of board.",
+      "number": "4725.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.07 - Records - seal.",
+      "number": "4725.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.08 - State vision professionals board; immunity.",
+      "number": "4725.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.09 - Administrative rules.",
+      "number": "4725.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.091 - Rules regarding analgesic controlled substances.",
+      "number": "4725.091",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.091"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.092 - Adoption of rules regarding information on drug database.",
+      "number": "4725.092",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.092"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.10 - Approving schools of optometry.",
+      "number": "4725.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.11 - Examination.",
+      "number": "4725.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.12 - Written application for certificate of licensure.",
+      "number": "4725.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.121 - License applicant to comply with RC Chapter 4776.",
+      "number": "4725.121",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.121"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.13 - Issuing and display of certificate.",
+      "number": "4725.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.131 - Continued practice of topical ocular pharmaceutical agents certificate holders.",
+      "number": "4725.131",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.131"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.15 - Failing examination or part four times.",
+      "number": "4725.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.16 - Expiration of certificate - renewal.",
+      "number": "4725.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.18 - Endorsement.",
+      "number": "4725.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.19 - Disciplinary actions.",
+      "number": "4725.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.20 - Effect of child support default on license or certificate.",
+      "number": "4725.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.21 - Duty to report unprofessional conduct or addiction - complaints.",
+      "number": "4725.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.22 - Professional liability insurer to report final disposition of claim for damages.",
+      "number": "4725.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.23 - Investigations - confidentiality of information.",
+      "number": "4725.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.231 - Cease and desist order for unlicensed practice of optometry.",
+      "number": "4725.231",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.231"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.24 - Suspension without prior hearing.",
+      "number": "4725.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.25 - Unauthorized practice.",
+      "number": "4725.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.26 - Exceptions.",
+      "number": "4725.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.27 - Evidence - interference with choice of service.",
+      "number": "4725.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.28 - Copy of prescription to be given to patient.",
+      "number": "4725.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.29 - Advertising.",
+      "number": "4725.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.30 - Ocular abnormalities.",
+      "number": "4725.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.31 - Clinically significant drug-induced side effects.",
+      "number": "4725.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.32 - Requiring impact-resistant lenses.",
+      "number": "4725.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.33 - Offering services through authorized business entity.",
+      "number": "4725.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.34 - Fees.",
+      "number": "4725.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.35 - Telehealth services.",
+      "number": "4725.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.40 - Dispensing optician definitions.",
+      "number": "4725.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.41 - License required.",
+      "number": "4725.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.411 - Dispensing prepackaged soft contact lenses.",
+      "number": "4725.411",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.411"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.44 - Powers and duties of board.",
+      "number": "4725.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.48 - Application and qualifications.",
+      "number": "4725.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.49 - Examinations.",
+      "number": "4725.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.50 - Issuance and display of certificate.",
+      "number": "4725.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.501 - License applicant to comply with RC Chapter 4776.",
+      "number": "4725.501",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.501"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.51 - Renewal - continuing education.",
+      "number": "4725.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.52 - Apprentices.",
+      "number": "4725.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.53 - Disciplinary actions.",
+      "number": "4725.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.531 - Effect of child support default on license.",
+      "number": "4725.531",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.531"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.54 - Disciplinary actions.",
+      "number": "4725.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.541 - Cease and desist order for unlicensed practice of optical dispensing.",
+      "number": "4725.541",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.541"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.55 - Licenses and applications - prohibited acts.",
+      "number": "4725.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.56 - Prohibiting payment for referrals.",
+      "number": "4725.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.57 - Reciprocity.",
+      "number": "4725.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.59 - Exemptions.",
+      "number": "4725.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.591 - Optical dispensing by volunteers licensed in other state.",
+      "number": "4725.591",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.591"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.61 - Compliance with law regarding sanctions for human trafficking.",
+      "number": "4725.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.63 - Appointment of committees.",
+      "number": "4725.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.64 - Authority of board to enter into contracts.",
+      "number": "4725.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.65 - Membership in national licensing organization.",
+      "number": "4725.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.66 - Code of ethics.",
+      "number": "4725.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.67 - Discrimination prohibited.",
+      "number": "4725.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.67"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4725.99 - Penalty.",
+      "number": "4725.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4725.99"
+    }
+  ],
+  "scraped": "2026-07-02T20:06:52+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-4725",
+  "title": "Chapter 4725 - Optometrists; Dispensing Opticians"
+}

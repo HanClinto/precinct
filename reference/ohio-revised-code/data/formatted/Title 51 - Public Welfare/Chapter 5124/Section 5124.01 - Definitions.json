@@ -1,0 +1,786 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Addition\" means an increase in an ICF/IID's square footage.",
+      "id": "5124.01-addition",
+      "normalized": "addition",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "Addition"
+    },
+    {
+      "definition": "(B) \"Affiliated operator\" means an operator affiliated with either of the following:\n\n(1) The exiting operator for whom the affiliated operator is to assume liability for the entire amount of the exiting operator's debt under the medicaid program or the portion of the debt that represents the franchise permit fee the exiting operator owes;\n\n(2) The entering operator involved in the change of operator with the exiting operator specified in division (B)(1) of this section.",
+      "id": "5124.01-affiliated-operator",
+      "normalized": "affiliated operator",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "Affiliated operator"
+    },
+    {
+      "definition": "(C) \"Allowable costs\" means an ICF/IID's costs that the department of developmental disabilities determines are reasonable. Fines paid under section 5124.99 of the Revised Code are not allowable costs.",
+      "id": "5124.01-allowable-costs",
+      "normalized": "allowable costs",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "Allowable costs"
+    },
+    {
+      "definition": "(D) \"Capital costs\" means an ICF/IID's costs of ownership and costs of nonextensive renovation.",
+      "id": "5124.01-capital-costs",
+      "normalized": "capital costs",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "Capital costs"
+    },
+    {
+      "definition": "(E) \"Case-mix score\" means the measure determined under section 5124.192 or 5124.193 of the Revised Code of the relative direct-care resources needed to provide care and habilitation to an ICF/IID resident.",
+      "id": "5124.01-case-mix-score",
+      "normalized": "case-mix score",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "Case-mix score"
+    },
+    {
+      "definition": "(F) \"Change of operator\" means an entering operator becoming the operator of an ICF/IID in the place of the exiting operator.\n\n(1) Actions that constitute a change of operator include the following:\n\n(a) A change in an exiting operator's form of legal organization, including the formation of a partnership or corporation from a sole proprietorship;\n\n(b) A transfer of all the exiting operator's ownership interest in the operation of the ICF/IID to the entering operator, regardless of whether ownership of any or all of the real property or personal property associated with the ICF/IID is also transferred;\n\n(c) A lease of the ICF/IID to the entering operator or the exiting operator's termination of the exiting operator's lease;\n\n(d) If the exiting operator is a partnership, dissolution of the partnership;\n\n(e) If the exiting operator is a partnership, a change in composition of the partnership unless both of the following apply:\n\n(i) The change in composition does not cause the partnership's dissolution under state law.\n\n(ii) The partners agree that the change in composition does not constitute a change in operator.\n\n(f) If the operator is a corporation, dissolution of the corporation, a merger of the corporation into another corporation that is the survivor of the merger, or a consolidation of one or more other corporations to form a new corporation.\n\n(2) The following, alone, do not constitute a change of operator:\n\n(a) A contract for an entity to manage an ICF/IID as the operator's agent, subject to the operator's approval of daily operating and management decisions;\n\n(b) A change of ownership, lease, or termination of a lease of real property or personal property associated with an ICF/IID if an entering operator does not become the operator in place of an exiting operator;\n\n(c) If the operator is a corporation, a change of one or more members of the corporation's governing body or transfer of ownership of one or more shares of the corporation's stock, if the same corporation continues to be the operator.",
+      "id": "5124.01-change-of-operator",
+      "normalized": "change of operator",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "Change of operator"
+    },
+    {
+      "definition": "(G) \"Cost center\" means the following:\n\n(1) Capital costs;\n\n(2) Direct care costs;\n\n(3) Indirect care costs;\n\n(4) Other protected costs.",
+      "id": "5124.01-cost-center",
+      "normalized": "cost center",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "Cost center"
+    },
+    {
+      "definition": "(H)(1) Except as provided in division (H)(2) of this section, \"cost report year\" means the calendar year immediately preceding the calendar year in which a fiscal year for which a medicaid payment rate determination is made begins.",
+      "id": "5124.01-cost-report-year",
+      "normalized": "cost report year",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "cost report year"
+    },
+    {
+      "definition": "(2) When a cost report the department of developmental disabilities accepts under division (A) or (C)(1)(b) of section 5124.101 of the Revised Code is used in determining an ICF/IID's medicaid payment rate, \"cost report year\" means the period that the cost report covers.",
+      "id": "5124.01-cost-report-year",
+      "normalized": "cost report year",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "cost report year"
+    },
+    {
+      "definition": "(I) \"Costs of nonextensive renovations\" means the actual expense incurred by an ICF/IID for depreciation or amortization and interest on renovations approved by the department of developmental disabilities as nonextensive renovations.",
+      "id": "5124.01-costs-of-nonextensive-renovations",
+      "normalized": "costs of nonextensive renovations",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "Costs of nonextensive renovations"
+    },
+    {
+      "definition": "(J)(1) \"Costs of ownership\" means the actual expenses incurred by an ICF/IID for all of the following:\n\n(a) Subject to division (J)(2) of this section, depreciation and interest on any capital assets that cost five hundred dollars or more per item, including the following:\n\n(i) Buildings;\n\n(ii) Building improvements that are not approved as nonextensive renovations for the purpose of section 5124.17 of the Revised Code;\n\n(iii) Equipment;\n\n(iv) Transportation equipment.\n\n(b) Amortization and interest on land improvements and leasehold improvements;\n\n(c) Amortization of financing costs;\n\n(d) Except as provided in division (AA) of this section, lease and rent of land, building, and equipment.\n\n(2) The costs of capital assets of less than five hundred dollars per item may be considered costs of ownership in accordance with an ICF/IID provider's practice.",
+      "id": "5124.01-costs-of-ownership",
+      "normalized": "costs of ownership",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "Costs of ownership"
+    },
+    {
+      "definition": "(K)(1) \"Date of licensure\" means the following:\n\n(a) In the case of an ICF/IID that was originally licensed as a nursing home under Chapter 3721. of the Revised Code, the date that it was originally so licensed, regardless that it was subsequently licensed as a residential facility under section 5123.19 of the Revised Code;\n\n(b) In the case of an ICF/IID that was originally licensed as a residential facility under section 5123.19 of the Revised Code, the date it was originally so licensed;\n\n(c) In the case of an ICF/IID that was not required by law to be licensed as a nursing home or residential facility when it was originally operated as a residential facility, the date it first was operated as a residential facility, regardless of the date the ICF/IID was first licensed as a nursing home or residential facility.\n\n(2) If, after an ICF/IID's original date of licensure, more residential facility beds are added to the ICF/IID or all or part of the ICF/IID undergoes an extensive renovation, the ICF/IID has a different date of licensure for the additional beds or extensively renovated portion of the ICF/IID. This does not apply, however, to additional beds when both of the following apply:\n\n(a) The additional beds are located in a part of the ICF/IID that was constructed at the same time as the continuing beds already located in that part of the ICF/IID.\n\n(b) The part of the ICF/IID in which the additional beds are located was constructed as part of the ICF/IID at a time when the ICF/IID was not required by law to be licensed as a nursing home or residential facility.\n\n(3) The definition of \"date of licensure\" in this section applies in determinations of ICFs/IID's medicaid payment rates but does not apply in determinations of ICFs/IID's franchise permit fees under sections 5168.60 to 5168.71 of the Revised Code.",
+      "id": "5124.01-date-of-licensure",
+      "normalized": "date of licensure",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "Date of licensure"
+    },
+    {
+      "definition": "(L) \"Desk-reviewed\" means that an ICF/IID's costs as reported on a cost report filed under section 5124.10 or 5124.101 of the Revised Code have been subjected to a desk review under section 5124.108 of the Revised Code and preliminarily determined to be allowable costs.",
+      "id": "5124.01-desk-reviewed",
+      "normalized": "desk-reviewed",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "Desk-reviewed"
+    },
+    {
+      "definition": "(M) \"Developmental center\" means a residential facility that is maintained and operated by the department of developmental disabilities.",
+      "id": "5124.01-developmental-center",
+      "normalized": "developmental center",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "Developmental center"
+    },
+    {
+      "definition": "(N) \"Direct care costs\" means all of the following costs incurred by an ICF/IID:\n\n(1) Costs for registered nurses, licensed practical nurses, and nurse aides employed by the ICF/IID;\n\n(2) Costs for direct care staff, administrative nursing staff, medical directors, respiratory therapists, physical therapists, physical therapy assistants, occupational therapists, occupational therapy assistants, speech therapists, audiologists, habilitation staff (including habilitation supervisors), qualified intellectual disability professionals, program directors, social services staff, activities staff, psychologists, psychology assistants, social workers, counselors, and other persons holding degrees qualifying them to provide therapy;\n\n(3) Costs of purchased nursing services;\n\n(4) Costs of training and staff development, employee benefits, payroll taxes, and workers' compensation premiums or costs for self-insurance claims and related costs as specified in rules adopted under section 5124.03 of the Revised Code, for personnel listed in divisions (N)(1), (2), and (3) of this section;\n\n(5) Costs of quality assurance;\n\n(6) Costs of consulting and management fees related to direct care;\n\n(7) Allocated direct care home office costs;\n\n(8) Costs of off-site day programming, including day programming that is provided in an area that is not certified by the director of health as an ICF/IID under Title XIX and regardless of either of the following:\n\n(a) Whether or not the area in which the day programming is provided is less than two hundred feet away from the ICF/IID;\n\n(b) Whether or not the day programming is provided by an individual or organization that is a related party to the ICF/IID provider.\n\n(9) Costs of other direct-care resources that are specified as direct care costs in rules adopted under section 5124.03 of the Revised Code.",
+      "id": "5124.01-direct-care-costs",
+      "normalized": "direct care costs",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "Direct care costs"
+    },
+    {
+      "definition": "(O) \"Downsized ICF/IID\" means an ICF/IID that permanently reduced its medicaid-certified capacity pursuant to a plan approved by the department of developmental disabilities under section 5123.042 of the Revised Code.",
+      "id": "5124.01-downsized-icf-iid",
+      "normalized": "downsized icf/iid",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "Downsized ICF/IID"
+    },
+    {
+      "definition": "(P) \"Effective date of a change of operator\" means the day the entering operator becomes the operator of the ICF/IID.",
+      "id": "5124.01-effective-date-of-a-change-of-operator",
+      "normalized": "effective date of a change of operator",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "Effective date of a change of operator"
+    },
+    {
+      "definition": "(Q) \"Effective date of a facility closure\" means the last day that the last of the residents of the ICF/IID resides in the ICF/IID.",
+      "id": "5124.01-effective-date-of-a-facility-closure",
+      "normalized": "effective date of a facility closure",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "Effective date of a facility closure"
+    },
+    {
+      "definition": "(R) \"Effective date of an involuntary termination\" means the date the department of medicaid terminates the operator's provider agreement for the ICF/IID or the last day that such a provider agreement is in effect when the department cancels or refuses to revalidate it.",
+      "id": "5124.01-effective-date-of-an-involuntary-termination",
+      "normalized": "effective date of an involuntary termination",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "Effective date of an involuntary termination"
+    },
+    {
+      "definition": "(S) \"Effective date of a voluntary termination\" means the day the ICF/IID ceases to accept medicaid recipients.",
+      "id": "5124.01-effective-date-of-a-voluntary-termination",
+      "normalized": "effective date of a voluntary termination",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "Effective date of a voluntary termination"
+    },
+    {
+      "definition": "(T) \"Entering operator\" means the person or government entity that will become the operator of an ICF/IID when a change of operator occurs or following an involuntary termination.",
+      "id": "5124.01-entering-operator",
+      "normalized": "entering operator",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "Entering operator"
+    },
+    {
+      "definition": "(U) \"Exiting operator\" means any of the following:\n\n(1) An operator that will cease to be the operator of an ICF/IID on the effective date of a change of operator;\n\n(2) An operator that will cease to be the operator of an ICF/IID on the effective date of a facility closure;\n\n(3) An operator of an ICF/IID that is undergoing or has undergone a voluntary termination;\n\n(4) An operator of an ICF/IID that is undergoing or has undergone an involuntary termination.",
+      "id": "5124.01-exiting-operator",
+      "normalized": "exiting operator",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "Exiting operator"
+    },
+    {
+      "definition": "(V)(1) Subject to divisions (V)(2) and (3) of this section, \"facility closure\" means either of the following:\n\n(a) Discontinuance of the use of the building, or part of the building, that houses the facility as an ICF/IID that results in the relocation of all of the facility's residents;\n\n(b) Conversion of the building, or part of the building, that houses an ICF/IID to a different use with any necessary license or other approval needed for that use being obtained and one or more of the facility's residents remaining in the facility to receive services under the new use.\n\n(2) A facility closure occurs regardless of any of the following:\n\n(a) The operator completely or partially replacing the ICF/IID by constructing a new ICF/IID or transferring the ICF/IID's license to another ICF/IID;\n\n(b) The ICF/IID's residents relocating to another of the operator's ICFs/IID;\n\n(c) Any action the department of health takes regarding the ICF/IID's medicaid certification that may result in the transfer of part of the ICF/IID's survey findings to another of the operator's ICFs/IID;\n\n(d) Any action the department of developmental disabilities takes regarding the ICF/IID's license under section 5123.19 of the Revised Code.\n\n(3) A facility closure does not occur if all of the ICF/IID's residents are relocated due to an emergency evacuation and one or more of the residents return to a medicaid-certified bed in the ICF/IID not later than thirty days after the evacuation occurs.",
+      "id": "5124.01-facility-closure",
+      "normalized": "facility closure",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "facility closure"
+    },
+    {
+      "definition": "(W) \"Fiscal year\" means the fiscal year of this state, as specified in section 9.34 of the Revised Code.",
+      "id": "5124.01-fiscal-year",
+      "normalized": "fiscal year",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "Fiscal year"
+    },
+    {
+      "definition": "(X) \"Franchise permit fee\" means the fee imposed by sections 5168.60 to 5168.71 of the Revised Code.",
+      "id": "5124.01-franchise-permit-fee",
+      "normalized": "franchise permit fee",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "Franchise permit fee"
+    },
+    {
+      "definition": "(Y) \"Home and community-based services\" has the same meaning as in section 5123.01 of the Revised Code.",
+      "id": "5124.01-home-and-community-based-services",
+      "normalized": "home and community-based services",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "Home and community-based services"
+    },
+    {
+      "definition": "(Z) \"ICF/IID services\" has the same meaning as in 42 C.F.R. 440.150.",
+      "id": "5124.01-icf-iid-services",
+      "normalized": "icf/iid services",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "ICF/IID services"
+    },
+    {
+      "definition": "(AA)(1) \"Indirect care costs\" means all reasonable costs incurred by an ICF/IID other than capital costs, direct care costs, and other protected costs. \"Indirect care costs\" includes costs of habilitation supplies, pharmacy consultants, medical and habilitation records, program supplies, incontinence supplies, food, enterals, dietary supplies and personnel, laundry, housekeeping, security, administration, liability insurance, bookkeeping, purchasing department, human resources, communications, travel, dues, license fees, subscriptions, home office costs not otherwise allocated, legal services, accounting services, minor equipment, maintenance and repair expenses, help-wanted advertising, informational advertising, start-up costs, organizational expenses, other interest, property insurance, employee training and staff development, employee benefits, payroll taxes, and workers' compensation premiums or costs for self-insurance claims and related costs, as specified in rules adopted under section 5124.03 of the Revised Code, for personnel listed in this division. Notwithstanding division (J) of this section, \"indirect care costs\" also means the cost of equipment, including vehicles, acquired by operating lease executed before December 1, 1992, if the costs are reported as administrative and general costs on the ICF/IID's cost report for the cost reporting period ending December 31, 1992.\n\n(2) For the purpose of division (AA)(1) of this section, an operating lease shall be construed in accordance with generally accepted accounting principles.",
+      "id": "5124.01-indirect-care-costs",
+      "normalized": "indirect care costs",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "Indirect care costs"
+    },
+    {
+      "definition": "(BB) \"Inpatient days\" means both of the following:\n\n(1) All days during which a resident, regardless of payment source, occupies a bed in an ICF/IID that is included in the ICF/IID's medicaid-certified capacity;\n\n(2) All days for which payment is made under section 5124.34 of the Revised Code.",
+      "id": "5124.01-inpatient-days",
+      "normalized": "inpatient days",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "Inpatient days"
+    },
+    {
+      "definition": "(CC) \"Intermediate care facility for individuals with intellectual disabilities\" and \"ICF/IID\" mean an intermediate care facility for the mentally retarded as defined in the \"Social Security Act,\" section 1905(d), 42 U.S.C. 1396d(d).",
+      "id": "5124.01-intermediate-care-facility-for-individuals-with-intellectual-disabilities",
+      "normalized": "intermediate care facility for individuals with intellectual disabilities",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "Intermediate care facility for individuals with intellectual disabilities"
+    },
+    {
+      "definition": "(CC) \"Intermediate care facility for individuals with intellectual disabilities\" and \"ICF/IID\" mean an intermediate care facility for the mentally retarded as defined in the \"Social Security Act,\" section 1905(d), 42 U.S.C. 1396d(d).",
+      "id": "5124.01-icf-iid",
+      "normalized": "icf/iid",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "ICF/IID"
+    },
+    {
+      "definition": "(DD) \"Involuntary termination\" means the department of medicaid's termination of, cancellation of, or refusal to revalidate the operator's provider agreement for the ICF/IID when such action is not taken at the operator's request.",
+      "id": "5124.01-involuntary-termination",
+      "normalized": "involuntary termination",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "Involuntary termination"
+    },
+    {
+      "definition": "(EE) \"Maintenance and repair expenses\" means expenditures that are necessary and proper to maintain an asset in a normally efficient working condition and that do not extend the useful life of the asset two years or more. \"Maintenance and repair expenses\" includes the costs of ordinary repairs such as painting and wallpapering.",
+      "id": "5124.01-maintenance-and-repair-expenses",
+      "normalized": "maintenance and repair expenses",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "Maintenance and repair expenses"
+    },
+    {
+      "definition": "(FF) \"Medicaid-certified capacity\" means the number of an ICF/IID's beds that are certified for participation in medicaid as ICF/IID beds.",
+      "id": "5124.01-medicaid-certified-capacity",
+      "normalized": "medicaid-certified capacity",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "Medicaid-certified capacity"
+    },
+    {
+      "definition": "(GG) \"Medicaid days\" means both of the following:\n\n(1) All days during which a resident who is a medicaid recipient eligible for ICF/IID services occupies a bed in an ICF/IID that is included in the ICF/IID's medicaid-certified capacity;\n\n(2) All days for which payment is made under section 5124.34 of the Revised Code.",
+      "id": "5124.01-medicaid-days",
+      "normalized": "medicaid days",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "Medicaid days"
+    },
+    {
+      "definition": "(HH)(1) \"New ICF/IID\" means an ICF/IID for which the provider obtains an initial provider agreement following the director of health's medicaid certification of the ICF/IID, including such an ICF/IID that replaces one or more ICFs/IID for which a provider previously held a provider agreement.\n\n(2) \"New ICF/IID\" does not mean either of the following:\n\n(a) An ICF/IID for which the entering operator seeks a provider agreement pursuant to section 5124.511 or 5124.512 or (pursuant to section 5124.515 ) section 5124.07 of the Revised Code;\n\n(b) A downsized ICF/IID or partially converted ICF/IID.",
+      "id": "5124.01-new-icf-iid",
+      "normalized": "new icf/iid",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "New ICF/IID"
+    },
+    {
+      "definition": "(II) \"Nursing home\" has the same meaning as in section 3721.01 of the Revised Code.",
+      "id": "5124.01-nursing-home",
+      "normalized": "nursing home",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "Nursing home"
+    },
+    {
+      "definition": "(JJ) \"Operator\" means the person or government entity responsible for the daily operating and management decisions for an ICF/IID.",
+      "id": "5124.01-operator",
+      "normalized": "operator",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "Operator"
+    },
+    {
+      "definition": "(KK) \"Other protected costs\" means costs incurred by an ICF/IID for medical supplies; real estate, franchise, and property taxes; natural gas, fuel oil, water, electricity, sewage, and refuse and hazardous medical waste collection; allocated other protected home office costs; and any additional costs defined as other protected costs in rules adopted under section 5124.03 of the Revised Code.",
+      "id": "5124.01-other-protected-costs",
+      "normalized": "other protected costs",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "Other protected costs"
+    },
+    {
+      "definition": "(LL)(1) \"Owner\" means any person or government entity that has at least five per cent ownership or interest, either directly, indirectly, or in any combination, in any of the following regarding an ICF/IID:\n\n(a) The land on which the ICF/IID is located;\n\n(b) The structure in which the ICF/IID is located;\n\n(c) Any mortgage, contract for deed, or other obligation secured in whole or in part by the land or structure on or in which the ICF/IID is located;\n\n(d) Any lease or sublease of the land or structure on or in which the ICF/IID is located.\n\n(2) \"Owner\" does not mean a holder of a debenture or bond related to an ICF/IID and purchased at public issue or a regulated lender that has made a loan related to the ICF/IID unless the holder or lender operates the ICF/IID directly or through a subsidiary.",
+      "id": "5124.01-owner",
+      "normalized": "owner",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "Owner"
+    },
+    {
+      "definition": "(MM) \"Partially converted ICF/IID\" means an ICF/IID that converted some, but not all, of its beds to providing home and community-based services under the individual options waiver pursuant to section 5124.60 or 5124.61 of the Revised Code.\n\n(NN) For the purpose of the total per medicaid day payment rate determined for an ICF/IID under division (A) of section 5124.15 of the Revised Code and the initial total per medicaid day payment rate determined for a new ICF/IID under section 5124.151 of the Revised Code:",
+      "id": "5124.01-partially-converted-icf-iid",
+      "normalized": "partially converted icf/iid",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "Partially converted ICF/IID"
+    },
+    {
+      "definition": "(1) \"Peer group 1\" means each ICF/IID with a medicaid-certified capacity exceeding sixteen.",
+      "id": "5124.01-peer-group-1",
+      "normalized": "peer group 1",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "Peer group 1"
+    },
+    {
+      "definition": "(2) \"Peer group 2\" means each ICF/IID with a medicaid-certified capacity exceeding eight but not exceeding sixteen.",
+      "id": "5124.01-peer-group-2",
+      "normalized": "peer group 2",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "Peer group 2"
+    },
+    {
+      "definition": "(3) \"Peer group 3\" means each ICF/IID with a medicaid-certified capacity of seven or eight.",
+      "id": "5124.01-peer-group-3",
+      "normalized": "peer group 3",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "Peer group 3"
+    },
+    {
+      "definition": "(4) \"Peer group 4\" means each ICF/IID with a medicaid-certified capacity not exceeding six, other than an ICF/IID that is in peer group 5-A.",
+      "id": "5124.01-peer-group-4",
+      "normalized": "peer group 4",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "Peer group 4"
+    },
+    {
+      "definition": "(5) \"Peer group 5\" means each ICF/IID to which all of the following apply:\n\n(a) The ICF/IID is first certified as an ICF/IID after July 1, 2014.\n\n(b) The ICF/IID has a medicaid-certified capacity not exceeding six.\n\n(c) The ICF/IID has a contract with the department of developmental disabilities that is for fifteen years and includes a provision for the department to approve all admissions to, and discharges from, the ICF/IID.\n\n(d) The ICF/IID's residents are admitted to the ICF/IID directly from a developmental center or have been determined by the department to be at risk of admission to a developmental center.",
+      "id": "5124.01-peer-group-5",
+      "normalized": "peer group 5",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "Peer group 5"
+    },
+    {
+      "definition": "(6) \"Peer group 6\" means each ICF/IID to which all of the following apply:\n\n(a) The ICF/IID has submitted a best practices protocol for providing services to youth up to twenty-one years of age in need of intensive behavior support services that has been approved by the department of developmental disabilities.\n\n(b) The ICF/IID, or a distinct unit of the ICF/IID, has a medicaid-certified capacity not exceeding six.\n\n(c) The ICF/IID has a contract with the department that includes a provision for the department to approve all admissions to the ICF/IID.\n\n(d) The ICF/IID has agreed to be reimbursed in accordance with the reimbursement methodology established under the rules authorized by section 5124.03 of the Revised Code.",
+      "id": "5124.01-peer-group-6",
+      "normalized": "peer group 6",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "Peer group 6"
+    },
+    {
+      "definition": "(OO)(1) Except as provided in division (OO)(2) of this section, \"per diem\" means an ICF/IID's desk-reviewed, actual, allowable costs in a given cost center in a cost reporting period, divided by the facility's inpatient days for that cost reporting period.",
+      "id": "5124.01-per-diem",
+      "normalized": "per diem",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "per diem"
+    },
+    {
+      "definition": "(2) When determining indirect care costs for the purpose of section 5124.21 of the Revised Code, \"per diem\" means an ICF/IID's actual, allowable indirect care costs in a cost reporting period divided by the greater of the ICF/IID's inpatient days for that period or the number of inpatient days the ICF/IID would have had during that period if its occupancy rate had been eighty-five per cent.",
+      "id": "5124.01-per-diem",
+      "normalized": "per diem",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "per diem"
+    },
+    {
+      "definition": "(PP) \"Provider\" means an operator with a valid provider agreement.",
+      "id": "5124.01-provider",
+      "normalized": "provider",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "Provider"
+    },
+    {
+      "definition": "(QQ) \"Provider agreement\" means a provider agreement, as defined in section 5164.01 of the Revised Code, that is between the department of medicaid and the operator of an ICF/IID for the provision of ICF/IID services under the medicaid program.",
+      "id": "5124.01-provider-agreement",
+      "normalized": "provider agreement",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "Provider agreement"
+    },
+    {
+      "definition": "(RR) \"Purchased nursing services\" means services that are provided in an ICF/IID by registered nurses, licensed practical nurses, or nurse aides who are not employees of the ICF/IID.",
+      "id": "5124.01-purchased-nursing-services",
+      "normalized": "purchased nursing services",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "Purchased nursing services"
+    },
+    {
+      "definition": "(SS) \"Reasonable\" means that a cost is an actual cost that is appropriate and helpful to develop and maintain the operation of resident care facilities and activities, including normal standby costs, and that does not exceed what a prudent buyer pays for a given item or services. Reasonable costs may vary from provider to provider and from time to time for the same provider.",
+      "id": "5124.01-reasonable",
+      "normalized": "reasonable",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "Reasonable"
+    },
+    {
+      "definition": "(TT) \"Related party\" means an individual or organization that, to a significant extent, has common ownership with, is associated or affiliated with, has control of, or is controlled by, a provider.\n\n(1) An individual who is a relative of an owner is a related party.\n\n(2) Common ownership exists when an individual or individuals possess significant ownership or equity in both the provider and the other organization. Significant ownership or equity exists when an individual or individuals possess five per cent ownership or equity in both the provider and a supplier. Significant ownership or equity is presumed to exist when an individual or individuals possess ten per cent ownership or equity in both the provider and another organization from which the provider purchases or leases real property.\n\n(3) Control exists when an individual or organization has the power, directly or indirectly, to significantly influence or direct the actions or policies of an organization.\n\n(4) An individual or organization that supplies goods or services to a provider shall not be considered a related party if all of the following conditions are met:\n\n(a) The supplier is a separate bona fide organization.\n\n(b) A substantial part of the supplier's business activity of the type carried on with the provider is transacted with others than the provider and there is an open, competitive market for the types of goods or services the supplier furnishes.\n\n(c) The types of goods or services are commonly obtained by other ICFs/IID from outside organizations and are not a basic element of resident care ordinarily furnished directly to residents by the ICFs/IID.\n\n(d) The charge to the provider is in line with the charge for the goods or services in the open market and no more than the charge made under comparable circumstances to others by the supplier.",
+      "id": "5124.01-related-party",
+      "normalized": "related party",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "Related party"
+    },
+    {
+      "definition": "(UU) \"Relative of owner\" means an individual who is related to an owner of an ICF/IID by one of the following relationships:\n\n(1) Spouse;\n\n(2) Natural parent, child, or sibling;\n\n(3) Adopted parent, child, or sibling;\n\n(4) Stepparent, stepchild, stepbrother, or stepsister;\n\n(5) Father-in-law, mother-in-law, son-in-law, daughter-in-law, brother-in-law, or sister-in-law;\n\n(6) Grandparent or grandchild;\n\n(7) Foster caregiver, foster child, foster brother, or foster sister.",
+      "id": "5124.01-relative-of-owner",
+      "normalized": "relative of owner",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "Relative of owner"
+    },
+    {
+      "definition": "(VV) For the purpose of determining an ICF/IID's per medicaid day capital component rate under section 5124.17 of the Revised Code, \"renovation\" means an ICF/IID's betterment, improvement, or restoration, other than an addition, through a capital expenditure.",
+      "id": "5124.01-renovation",
+      "normalized": "renovation",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "renovation"
+    },
+    {
+      "definition": "(WW) \"Residential facility\" has the same meaning as in section 5123.19 of the Revised Code.",
+      "id": "5124.01-residential-facility",
+      "normalized": "residential facility",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "Residential facility"
+    },
+    {
+      "definition": "(XX) \"Secondary building\" means a building or part of a building, other than an ICF/IID, in which the owner of one or more ICFs/IID has administrative work regarding the ICFs/IID performed or records regarding the ICFs/IID stored.",
+      "id": "5124.01-secondary-building",
+      "normalized": "secondary building",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "Secondary building"
+    },
+    {
+      "definition": "(YY) \"Sponsor\" means an adult relative, friend, or guardian of an ICF/IID resident who has an interest or responsibility in the resident's welfare.",
+      "id": "5124.01-sponsor",
+      "normalized": "sponsor",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "Sponsor"
+    },
+    {
+      "definition": "(ZZ) \"Title XIX\" means Title XIX of the \"Social Security Act,\" 42 U.S.C. 1396, et seq.",
+      "id": "5124.01-title-xix",
+      "normalized": "title xix",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "Title XIX"
+    },
+    {
+      "definition": "(AAA) \"Title XVIII\" means Title XVIII of the \"Social Security Act,\" 42 U.S.C. 1395, et seq.",
+      "id": "5124.01-title-xviii",
+      "normalized": "title xviii",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "Title XVIII"
+    },
+    {
+      "definition": "(BBB) \"Voluntary termination\" means an operator's voluntary election to terminate the participation of an ICF/IID in the medicaid program but to continue to provide service of the type provided by a residential facility as defined in section 5123.19 of the Revised Code.\n\nLast updated October 4, 2023 at 3:05 PM",
+      "id": "5124.01-voluntary-termination",
+      "normalized": "voluntary termination",
+      "scope": "As used in this chapter:",
+      "section": "5124.01",
+      "source_title": "Section 5124.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+      "term": "Voluntary termination"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "5124.99",
+      "number": "5124.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.99"
+    },
+    {
+      "kind": "section",
+      "label": "5124.192",
+      "number": "5124.192",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.192"
+    },
+    {
+      "kind": "section",
+      "label": "5124.193",
+      "number": "5124.193",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.193"
+    },
+    {
+      "kind": "section",
+      "label": "5124.101",
+      "number": "5124.101",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.101"
+    },
+    {
+      "kind": "section",
+      "label": "5124.17",
+      "number": "5124.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.17"
+    },
+    {
+      "kind": "section",
+      "label": "5123.19",
+      "number": "5123.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5123.19"
+    },
+    {
+      "kind": "section",
+      "label": "5168.60",
+      "number": "5168.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.60"
+    },
+    {
+      "kind": "section",
+      "label": "5168.71",
+      "number": "5168.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.71"
+    },
+    {
+      "kind": "section",
+      "label": "5124.10",
+      "number": "5124.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.10"
+    },
+    {
+      "kind": "section",
+      "label": "5124.108",
+      "number": "5124.108",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.108"
+    },
+    {
+      "kind": "section",
+      "label": "5124.03",
+      "number": "5124.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.03"
+    },
+    {
+      "kind": "section",
+      "label": "5123.042",
+      "number": "5123.042",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5123.042"
+    },
+    {
+      "kind": "section",
+      "label": "9.34",
+      "number": "9.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-9.34"
+    },
+    {
+      "kind": "section",
+      "label": "5123.01",
+      "number": "5123.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5123.01"
+    },
+    {
+      "kind": "section",
+      "label": "5124.34",
+      "number": "5124.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.34"
+    },
+    {
+      "kind": "section",
+      "label": "5124.511",
+      "number": "5124.511",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.511"
+    },
+    {
+      "kind": "section",
+      "label": "5124.512",
+      "number": "5124.512",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.512"
+    },
+    {
+      "kind": "section",
+      "label": "5124.515",
+      "number": "5124.515",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.515"
+    },
+    {
+      "kind": "section",
+      "label": "5124.07",
+      "number": "5124.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.07"
+    },
+    {
+      "kind": "section",
+      "label": "3721.01",
+      "number": "3721.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.01"
+    },
+    {
+      "kind": "section",
+      "label": "5124.60",
+      "number": "5124.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.60"
+    },
+    {
+      "kind": "section",
+      "label": "5124.61",
+      "number": "5124.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.61"
+    },
+    {
+      "kind": "section",
+      "label": "5124.15",
+      "number": "5124.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.15"
+    },
+    {
+      "kind": "section",
+      "label": "5124.151",
+      "number": "5124.151",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.151"
+    },
+    {
+      "kind": "section",
+      "label": "5124.21",
+      "number": "5124.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.21"
+    },
+    {
+      "kind": "section",
+      "label": "5164.01",
+      "number": "5164.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.01"
+    }
+  ],
+  "scraped": "2026-07-02T20:10:56+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01",
+  "title": "Section 5124.01 - Definitions."
+}

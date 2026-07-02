@@ -1,0 +1,123 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-5165
+Scraped: 2026-07-02T20:11:28+00:00
+
+# Chapter 5165 - Medicaid Coverage of Nursing Facility Services
+
+## Sections
+
+- Section 5165.01 - Definitions.
+- Section 5165.011 - Nursing facility references.
+- Section 5165.02 - Rules.
+- Section 5165.03 - Admission of mentally ill person to nursing facility.
+- Section 5165.031 - Hearing.
+- Section 5165.04 - Assessment to determine level of care.
+- Section 5165.06 - Nursing facility eligibility.
+- Section 5165.07 - Provider agreement requirements.
+- Section 5165.071 - Facility operator may contract with more than one provider.
+- Section 5165.072 - Revalidation.
+- Section 5165.073 - Termination for non-compliance with installation of fire extinguishing and fire alarm systems.
+- Section 5165.08 - Nursing facilities' provider agreement terms.
+- Section 5165.081 - Action against facility for breach of provider agreement or other duties.
+- Section 5165.082 - Qualification of beds.
+- Section 5165.10 - Annual cost report.
+- Section 5165.101 - Cost of franchise permit fee not reimbursable expense.
+- Section 5165.102 - Fines excluded from cost report.
+- Section 5165.103 - Completion of cost reports.
+- Section 5165.104 - Form of cost reports; guidelines.
+- Section 5165.105 - Addendum for disputed costs.
+- Section 5165.106 - Termination for failure to file report.
+- Section 5165.107 - Amendments to cost reports.
+- Section 5165.108 - Desk review of cost report.
+- Section 5165.109 - Audit.
+- Section 5165.1010 - Nursing facility fines.
+- Section 5165.15 - Calculation of payments to nursing facility providers.
+- Section 5165.151 - Initial rates for new nursing facilities.
+- Section 5165.152 - Payments for services provided to low resource utilization residents.
+- Section 5165.153 - Rates for outlier facilities or units.
+- Section 5165.154 - Calculating prospective rates for facilities with residents whose care costs are not adequately measured.
+- Section 5165.155 - Amount of payments for dual eligible individuals.
+- Section 5165.156 - Centers of excellence component.
+- Section 5165.157 - Alternative purchasing model for nursing facility services.
+- Section 5165.158 - Private room incentive payment.
+- Section 5165.16 - Per medicaid day payment rate for ancillary and support costs; peer groups.
+- Section 5165.17 - Per medicaid day payment rate for reasonable capital costs.
+- Section 5165.19 - Per medicaid day payment rate for direct care costs.
+- Section 5165.191 - Resident assessment data.
+- Section 5165.192 - Case-mix scores for nursing facilities.
+- Section 5165.193 - Exception review of assessment data.
+- Section 5165.21 - Per medicaid day payment rate for tax costs.
+- Section 5165.23 - Critical access incentive payments to qualified facilities.
+- Section 5165.26 - Nursing facility's per medicaid day quality incentive payment rate.
+- Section 5165.28 - Rate for added, replaced, or renovated beds.
+- Section 5165.29 - Cost of operating rights for relocated beds not allowable cost.
+- Section 5165.30 - Related party costs to pass through.
+- Section 5165.32 - Reduction in rate not permitted.
+- Section 5165.33 - No payment for discharge date.
+- Section 5165.34 - Payments made to reserve bed during temporary absence.
+- Section 5165.35 - Payments made to facility for services provided after involuntary termination.
+- Section 5165.36 - Rebasing.
+- Section 5165.37 - Calculating rates and making payments.
+- Section 5165.38 - Reconsideration of rate.
+- Section 5165.40 - Adjustment of rates.
+- Section 5165.41 - Redetermination of rates.
+- Section 5165.42 - Additional penalties.
+- Section 5165.43 - Determination of interest rate.
+- Section 5165.44 - Deductions.
+- Section 5165.45 - Deposits to general revenue fund.
+- Section 5165.46 - Administrative adjudication.
+- Section 5165.47 - Claim for medicaid payment for service provided to nursing facility resident.
+- Section 5165.48 - Nursing facility not required to submit Medicaid claim for Medicare cost-sharing expenses under certain circumstances.
+- Section 5165.49 - Post-payment reviews of nursing facility Medicaid claims.
+- Section 5165.50 - Notice of facility closure or withdrawal of participation.
+- Section 5165.501 - Compliance with Social Security Act required.
+- Section 5165.51 - Notice of change of operator.
+- Section 5165.511 - Agreements with entering operators effective on date of change of operator.
+- Section 5165.512 - Agreements with entering operators effective on a later date.
+- Section 5165.513 - Entering operator duties under provider agreement.
+- Section 5165.514 - Exiting operator deemed operator pending change.
+- Section 5165.515 - Provider agreement with operator not complying with prior agreement.
+- Section 5165.516 - Medicaid reimbursement adjustments; change of operator.
+- Section 5165.517 - Determination of change of operator for purposes of licensure not controlling.
+- Section 5165.518 - Nursing facility operator identity.
+- Section 5165.52 - Overpayment amounts determined following notice of closure, etc.
+- Section 5165.521 - Withholding amounts owed from medicaid payments to exiting operator.
+- Section 5165.522 - Cost report by exiting operator; waiver.
+- Section 5165.523 - Failure to file cost report; payments deemed overpayments.
+- Section 5165.524 - Final payment withheld pending receipt of cost reports.
+- Section 5165.525 - Determination of debt of exiting operator; summary report.
+- Section 5165.526 - Release of amount withheld less amounts owed.
+- Section 5165.527 - Release of amount withheld on postponement of change of operator.
+- Section 5165.528 - Disposition of amounts withheld from payment due an exiting operator.
+- Section 5165.53 - Adoption of rules regarding change in operators.
+- Section 5165.60 - Definitions for sections 5165.60 to 5165.89.
+- Section 5165.61 - Adoption of rules.
+- Section 5165.62 - Enforcement of provisions.
+- Section 5165.63 - Contracts with state agencies for enforcement.
+- Section 5165.64 - Annual standard surveys.
+- Section 5165.65 - Exit interview with administrator.
+- Section 5165.66 - Citations for failure to comply with one or more certification requirements.
+- Section 5165.67 - Survey results.
+- Section 5165.68 - Statement of deficiencies.
+- Section 5165.69 - Plan of correction.
+- Section 5165.70 - On-site monitoring.
+- Section 5165.71 - Deficiencies not substantially corrected.
+- Section 5165.72 - Uncorrected deficiencies constituting severity level four findings.
+- Section 5165.73 - Uncorrected deficiencies constituting severity level three and scope level three or four findings.
+- Section 5165.74 - Uncorrected deficiencies constituting severity level one or two or severity level three, scope level two finding.
+- Section 5165.75 - Imposing remedies and fines.
+- Section 5165.76 - Fine collected if termination order does not take effect.
+- Section 5165.77 - Emergency remedies.
+- Section 5165.771 - Special focus facility program.
+- Section 5165.78 - Appointment of temporary resident safety assurance manager.
+- Section 5165.79 - Terminating provider agreements.
+- Section 5165.80 - Transfer of residents to other appropriate care settings.
+- Section 5165.81 - Qualifications of temporary manager of nursing facility.
+- Section 5165.82 - Residents to whom denial of medicaid payments applies.
+- Section 5165.83 - Fines.
+- Section 5165.84 - Order denying payment when deficiency is not corrected within time limits.
+- Section 5165.85 - Termination of participation for failure to correct deficiency within six months.
+- Section 5165.86 - Delivery of notices.
+- Section 5165.87 - Appeals.
+- Section 5165.88 - Confidentiality.
+- Section 5165.89 - Hearing on transfer or discharge of resident who medicaid or medicare beneficiary.
+- Section 5165.99 - Penalty.

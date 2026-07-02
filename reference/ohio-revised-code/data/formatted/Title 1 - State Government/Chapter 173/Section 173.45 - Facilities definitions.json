@@ -1,0 +1,86 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Residential facility\" means a residential facility licensed under section 5119.34 of the Revised Code that provides accommodations, supervision, and personal care services for three to sixteen unrelated adults.",
+      "id": "173.45-residential-facility",
+      "normalized": "residential facility",
+      "scope": "As used in this section and in sections 173.46 to 173.49 of the Revised Code:",
+      "section": "173.45",
+      "source_title": "Section 173.45 - Facilities definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-173.45",
+      "term": "Residential facility"
+    },
+    {
+      "definition": "(B) \"Community-based long-term care services\" has the same meaning as in section 173.14 of the Revised Code.",
+      "id": "173.45-community-based-long-term-care-services",
+      "normalized": "community-based long-term care services",
+      "scope": "As used in this section and in sections 173.46 to 173.49 of the Revised Code:",
+      "section": "173.45",
+      "source_title": "Section 173.45 - Facilities definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-173.45",
+      "term": "Community-based long-term care services"
+    },
+    {
+      "definition": "(C) \"Long-term care facility\" means a nursing home or residential care facility.\n\n(D) \"Nursing home\" and \"residential care facility\" have the same meanings as in section 3721.01 of the Revised Code.",
+      "id": "173.45-long-term-care-facility",
+      "normalized": "long-term care facility",
+      "scope": "As used in this section and in sections 173.46 to 173.49 of the Revised Code:",
+      "section": "173.45",
+      "source_title": "Section 173.45 - Facilities definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-173.45",
+      "term": "Long-term care facility"
+    },
+    {
+      "definition": "(E) \"Nursing facility\" has the same meaning as in section 5165.01 of the Revised Code.",
+      "id": "173.45-nursing-facility",
+      "normalized": "nursing facility",
+      "scope": "As used in this section and in sections 173.46 to 173.49 of the Revised Code:",
+      "section": "173.45",
+      "source_title": "Section 173.45 - Facilities definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-173.45",
+      "term": "Nursing facility"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "173.46",
+      "number": "173.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-173.46"
+    },
+    {
+      "kind": "section",
+      "label": "173.49",
+      "number": "173.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-173.49"
+    },
+    {
+      "kind": "section",
+      "label": "5119.34",
+      "number": "5119.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.34"
+    },
+    {
+      "kind": "section",
+      "label": "173.14",
+      "number": "173.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-173.14"
+    },
+    {
+      "kind": "section",
+      "label": "3721.01",
+      "number": "3721.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.01"
+    },
+    {
+      "kind": "section",
+      "label": "5165.01",
+      "number": "5165.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01"
+    }
+  ],
+  "scraped": "2026-07-02T19:32:13+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-173.45",
+  "title": "Section 173.45 - Facilities definitions."
+}

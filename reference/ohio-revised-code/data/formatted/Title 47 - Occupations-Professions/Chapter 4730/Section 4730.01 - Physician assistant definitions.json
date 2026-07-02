@@ -1,0 +1,58 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Physician\" means an individual who is authorized under Chapter 4731. of the Revised Code to practice medicine and surgery, osteopathic medicine and surgery, or podiatric medicine and surgery.",
+      "id": "4730.01-physician",
+      "normalized": "physician",
+      "scope": "As used in this chapter:",
+      "section": "4730.01",
+      "source_title": "Section 4730.01 - Physician assistant definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4730.01",
+      "term": "Physician"
+    },
+    {
+      "definition": "(B) \"Health care facility\" means any of the following:\n\n(1) A hospital registered with the department of health under section 3701.07 of the Revised Code;\n\n(2) A health care facility licensed by the department of health under section 3702.30 of the Revised Code;\n\n(3) Any other facility designated by the state medical board in rules adopted pursuant to division (B) of section 4730.08 of the Revised Code.",
+      "id": "4730.01-health-care-facility",
+      "normalized": "health care facility",
+      "scope": "As used in this chapter:",
+      "section": "4730.01",
+      "source_title": "Section 4730.01 - Physician assistant definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4730.01",
+      "term": "Health care facility"
+    },
+    {
+      "definition": "(C) \"Service\" means a medical activity that requires training in the diagnosis, treatment, or prevention of disease.",
+      "id": "4730.01-service",
+      "normalized": "service",
+      "scope": "As used in this chapter:",
+      "section": "4730.01",
+      "source_title": "Section 4730.01 - Physician assistant definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4730.01",
+      "term": "Service"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3701.07",
+      "number": "3701.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3701.07"
+    },
+    {
+      "kind": "section",
+      "label": "3702.30",
+      "number": "3702.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.30"
+    },
+    {
+      "kind": "section",
+      "label": "4730.08",
+      "number": "4730.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4730.08"
+    }
+  ],
+  "scraped": "2026-07-02T20:07:02+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4730.01",
+  "title": "Section 4730.01 - Physician assistant definitions."
+}

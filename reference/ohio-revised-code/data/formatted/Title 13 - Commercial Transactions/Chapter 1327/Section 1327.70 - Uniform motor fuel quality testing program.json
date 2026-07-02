@@ -1,0 +1,36 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Diesel fuel\" has the same meaning as in section 5735.01 of the Revised Code.",
+      "id": "1327.70-diesel-fuel",
+      "normalized": "diesel fuel",
+      "scope": "(A) As used in this section:",
+      "section": "1327.70",
+      "source_title": "Section 1327.70 - Uniform motor fuel quality testing program.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1327.70",
+      "term": "Diesel fuel"
+    },
+    {
+      "definition": "(2) \"Motor fuel\" means gasoline or diesel fuel that is sold by a retailer.\n\n(B) The director of agriculture may adopt rules in accordance with Chapter 119. of the Revised Code establishing a motor fuel quality testing program that is uniform throughout the state.",
+      "id": "1327.70-motor-fuel",
+      "normalized": "motor fuel",
+      "scope": "(A) As used in this section:",
+      "section": "1327.70",
+      "source_title": "Section 1327.70 - Uniform motor fuel quality testing program.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1327.70",
+      "term": "Motor fuel"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "5735.01",
+      "number": "5735.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5735.01"
+    }
+  ],
+  "scraped": "2026-07-02T19:37:17+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1327.70",
+  "title": "Section 1327.70 - Uniform motor fuel quality testing program."
+}

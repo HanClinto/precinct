@@ -1,0 +1,78 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-6111.043
+Scraped: 2026-07-02T20:17:15+00:00
+
+# Section 6111.043 - Regulation of the injection of sewage, industrial waste, hazardous waste, and other wastes into wells.
+
+**Effective:** May 28, 1992
+
+**Latest Legislation:** House Bill 147 - 119th General Assembly
+
+(A) As used in this section and sections 6111.044 to 6111.047 of the Revised Code, "area of review" means the area of review of an injection well as determined under regulations adopted under the "Safe Drinking Water Act," 88 Stat. 1661 (1974), 42 U.S.C.A. 300(f), as amended, or under rules adopted under this section.
+
+(B) This section and sections 6111.044 to 6111.049 of the Revised Code establish a program for regulation of the injection of sewage, industrial waste, hazardous waste, and other wastes into wells in order to control pollution of the waters of the state, to prevent contamination of underground sources of drinking water, and to satisfy all requirements of the "Safe Drinking Water Act," 88 Stat. 1661 (1974), 42 U.S.C.A. 300(f), as amended, regarding injection wells as defined in regulations adopted under that act. This section and sections 6111.044 to 6111.049 of the Revised Code do not apply to the drilling, conversion, and operation of wells that are subject to Chapter 1509. of the Revised Code.
+
+The director of environmental protection, in consultation with the director of natural resources, shall adopt rules in accordance with Chapter 119. of the Revised Code governing the injection of sewage, industrial waste, hazardous waste, and other wastes into wells. The rules shall include provisions regarding all of the following:
+
+(1) Applications for and issuance and renewal of injection well drilling and injection well operating permits. The term of an injection well operating permit shall be five years, except that in the case of the injection well drilling permit or renewal of an injection well operating permit, as appropriate, that is first issued on or after the effective date of this amendment for a class I injection well that is in operation on that date, the term of the permit shall be not less than four nor more than six years as determined by the director.
+
+(2) Terms and conditions of such permits;
+
+(3) Entry to conduct inspections to ascertain compliance with this section, sections 6111.044 , 6111.045 , and 6111.047 of the Revised Code, and rules adopted and orders and terms and conditions of permits issued thereunder;
+
+(4) Contingencies involving the mechanical integrity of class I injection wells, including requirements for the automatic shutdown of an injection well if pressures or the temperature or specific gravity of the sewage, industrial waste, hazardous waste, or other wastes differs from prescribed allowances;
+
+(5) A requirement that a seismic reflection data survey be conducted at each injection site where a class I injection well is located or proposed to be located in order to determine the presence or absence of such geologic faults or fractures as may be identified by seismic reflection survey data within or near the area around the well where formation pressures may be increased due to the operation of the well. If, prior to the effective date of division (B)(5) of this section, a seismic reflection data survey was conducted at an injection site in accordance with a work plan approved by the director or a seismic reflection data survey was conducted at an injection site and the results were approved in writing by the director, the rules adopted under that division shall not require that a new survey be conducted. If there is a change in the area of review of an injection well that is located at an injection site for which a seismic reflection data survey has been conducted, or if a new injection well is proposed to be located at such an injection site, the rules shall require that the owner or operator of the injection site reevaluate the data obtained from the survey. The rules shall require that if, after a reevaluation of the existing survey data, the director determines that the existing data are inadequate to determine the presence or absence of geologic faults or fractures within the altered area of review or to determine the presence or absence of geologic faults or fractures within the area of pressure buildup of the new well, the director may require the owner or operator to submit such additional seismic reflection data as the director considers necessary or appropriate. All seismic reflection data surveys shall be conducted in accordance with the standards established in rules adopted by the director.
+
+(6) A requirement that when the director has reason to believe that the operation of a class I injection well may cause seismic disturbances, a passive seismicity monitoring program be maintained at or near the injection site. The rules adopted under division (B)(6) of this section may require that a microseismicity monitoring program be maintained at an injection site when determined to be necessary or appropriate by the director. All seismicity monitoring programs shall be conducted in accordance with standards established in rules adopted by the director.
+
+(7) Definitions of the various classes of injection wells;
+
+(8) A determination of the areas of review of injection wells;
+
+(9) Other provisions in furtherance of the goals of this section and the "Safe Drinking Water Act," 88 Stat. 1661 (1974), 42 U.S.C.A. 300(f), as amended. The rules adopted under this section shall be consistent with that act and the regulations adopted under it, except that the director may adopt rules under this section that are more stringent than that act and the regulations adopted under it when he determines that they are inadequate to protect human health or the environment.
+
+(C) Unless otherwise authorized by rule of the director, no person shall drill a new well or convert an existing well for the purpose of injecting sewage, industrial waste, hazardous waste, or other wastes, without having obtained an injection well drilling permit issued by the director of environmental protection. The original permit or a true copy thereof shall be displayed in a conspicuous and easily accessible place at the well site. An application for an injection well drilling permit shall be filed with the director upon such form as the director prescribes and shall contain such information as the director requires by rule, including all of the following information:
+
+(1) The name and address of the owner and, if a corporation, the name and address of the statutory agent;
+
+(2) In the case of an applicant for a permit to drill a class I injection well who, at the time of submitting the application, does not hold an injection well operating permit or renewal of such a permit issued under section 6111.044 of the Revised Code, a statement of all relevant expertise of the owner or, if the well is to be operated by a person other than the owner, of the operator, in the operation of class I injection wells and a listing of all class I injection wells that the owner or operator has operated and is operating; the date that each such well was first placed in service or, if the well was first placed in service before the applicant acquired the well, the date that the applicant acquired the well; and the date of issuance, identification number, and expiration date of the permits issued for each such well by the United States or the state in which the injection well is located and, for each such permit, the name and address of the federal or state agency that issued the permit;
+
+(3) The signature of the owner or his authorized agent. When an authorized agent signs an application, it shall be accompanied by a certified copy of his appointment as such agent.
+
+(4) The proposed well location identified by latitude and longitude, and the location of the tract on which the well is to be drilled identified by latitudes and longitudes, section or lot number, city, village, or township, as applicable, and county;
+
+(5) Designation of the well by name and number;
+
+(6) The name of the geological formation and the approximate depth interval to be tested or used and the proposed total depth of the well;
+
+(7) The type of drilling, completion, and injection equipment proposed to be used;
+
+(8) The plan for disposal of water and other waste substances resulting from or obtained or produced in connection with the drilling, conversion, or testing of the well;
+
+(9) The chemical composition and physical properties of the substance proposed to be injected.
+
+(D) Based upon conditions observed by the director or his authorized representative during drilling or completion of a class I injection well, the director may request the holder of an injection well drilling permit issued under section 6111.044 of the Revised Code to submit to the director such information and test results in addition to those submitted with the application as the director considers necessary to more adequately define hydrogeologic conditions at the site of the well and to protect the lowermost underground source of drinking water near the injection well. The director shall include in each injection well drilling permit issued under section 6111.044 of the Revised Code the condition that, upon receiving such a request from the director, the permit holder promptly submit the additional information or test results to the director.
+
+(E) Unless otherwise authorized by rule of the director, no person shall use a well for the injection of sewage, industrial waste, hazardous waste, or other wastes without first obtaining an injection well operating permit issued by the director. An application for an injection well operating permit or a renewal of such a permit shall be filed on such form as the director prescribes and shall contain the information prescribed in the applicable provisions of divisions (C)(1) to (9) of this section. In addition, an application for an injection well operating permit or renewal of such a permit for a class I injection well shall contain such information as the director requires by rule, including all of the following:
+
+(1) The results of such seismic reflection data surveys, seismic monitoring, and geophysical testing surveys in and surrounding the injection area as are required pursuant to rules adopted under divisions (B)(5) and (6) of this section;
+
+(2) A plan for ensuring the annual review and testing of the integrity of the well casing and associated well features and, if the application is for a renewal, the results of all such testing since the issuance of the current permit or renewal permit. If this information has been submitted to the director previously as required by rule or applicable technical guidance, it may be included in the application by reference.
+
+(3) A plan for monitoring the lowermost underground source of drinking water near the injection well. When determined to be necessary by the director, the application also shall include a plan for monitoring conditions of other formations within the area of review of the well, including formation pressures, formation transmissivity, or the vertical or horizontal migration of the injected fluids. If the application is for the renewal of an injection well operating permit, it shall be accompanied by all of the results from the monitoring of the lowermost underground source of drinking water near the well, and from other formation monitoring activities, conducted during the term of the current permit or renewal that had not been submitted to the director previously in accordance with rules adopted under this section, the terms and conditions of the current permit or renewal, or applicable technical guidance.
+
+(4) A plan for conducting a seismicity monitoring program at the injection site when such a monitoring program is required pursuant to rules adopted under division (B)(6) of this section;
+
+(5) The results of downhole monitoring; geophysical logs; core samples, to the extent that they are available; results of laboratory tests of core samples, to the extent that they are available; results of laboratory tests of formation fluids from the injection zone; and such other data or samples as the director may require to be submitted. If any such information, test results, or samples have been submitted to the director previously upon the request of the director or as required by rule, the terms and conditions of the injection well drilling permit or injection well operating permit or renewal of that operating permit for the well, or applicable technical guidance, the information, test results, or results of the analysis or evaluation of the samples may be included in the application by reference.
+
+(6) A determination accompanied by supporting documentation describing all areas around the well where formation pressures are predicted by the applicant to be increased due to the operation of the well and an evaluation of whether any resulting potential exists for contamination of any underground source of drinking water or migration of substances injected into the well outside of the anticipated injection zone. The determination shall be made through the use of an hydraulic model acceptable to the director.
+
+(7) An evaluation of all artificial penetrations through the base of any underground source of drinking water within the area of review of the well and a determination of whether the wells are completed or plugged in accordance with the applicable rules adopted under this section or section 1509.15 of the Revised Code;
+
+(8) Such additional information as the director determines to be necessary to carry out his responsibilities under this section and section 6111.044 of the Revised Code.
+
+(F) Unless otherwise authorized by rule of the director, each application for an injection well drilling or operating permit or renewal of an injection well operating permit shall be accompanied by a map, on a scale not smaller than four hundred feet to the inch, prepared by an Ohio registered surveyor, showing the location of the well and containing such other data as may be prescribed by the director. If the well is or is to be located within the excavations and workings of an active mine, the map also shall include the location of the mine, the name of the mine, and the name of the person operating the mine. If the well is or is to be located within the excavations of an abandoned mine, the map also shall include the location of the mine and, to the extent that the information is available, the name of the mine and approximate dates when mining activities occurred at the mine.
+
+(G) Each application for an injection well drilling permit, an injection well operating permit, a renewal of an injection well operating permit, or a modification of an injection well drilling or operating permit or renewal permit shall be accompanied by a nonrefundable fee prescribed by the director by rule as necessary to defray the cost of processing the application.
+
+Last updated October 2, 2025 at 11:48 AM

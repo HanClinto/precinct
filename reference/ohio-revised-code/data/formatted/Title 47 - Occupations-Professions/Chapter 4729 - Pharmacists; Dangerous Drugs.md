@@ -1,0 +1,133 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-4729
+Scraped: 2026-07-02T20:06:59+00:00
+
+# Chapter 4729 - Pharmacists; Dangerous Drugs
+
+## Sections
+
+- Section 4729.01 - Pharmacists, dangerous drugs definitions.
+- Section 4729.02 - State board of pharmacy.
+- Section 4729.021 - Licensing and registration of home medical assistance services providers.
+- Section 4729.03 - Organization.
+- Section 4729.04 - Executive director of board - duties.
+- Section 4729.041 - Amount of salvia divinorum or salvinorin A required for impaired operation.
+- Section 4729.05 - Meetings of board.
+- Section 4729.06 - Records - seals.
+- Section 4729.07 - License application - examination.
+- Section 4729.071 - License applicant to comply with RC Chapter 4776.
+- Section 4729.08 - License qualifications.
+- Section 4729.09 - Reciprocity.
+- Section 4729.10 - Rules.
+- Section 4729.11 - Establishing pharmacy internship program.
+- Section 4729.12 - Licenses; renewal.
+- Section 4729.13 - Failure to renew license.
+- Section 4729.15 - State board of pharmacy - fees.
+- Section 4729.16 - Disciplinary actions.
+- Section 4729.161 - Offering services through authorized business entity.
+- Section 4729.162 - Adoption of rules regarding review of patient information available through drug database.
+- Section 4729.17 - Single member may hold hearing.
+- Section 4729.171 - Designation of hearing examiners.
+- Section 4729.18 - Standards for approving and designating physicians and facilities as treatment providers for pharmacists with substance abuse problems.
+- Section 4729.19 - Cooperation in investigation.
+- Section 4729.20 - Dispensing for purposes of medication synchronization.
+- Section 4729.23 - Confidential information; investigations and inspections.
+- Section 4729.24 - Authority of board to take depositions, issue subpoenas, etc.
+- Section 4729.25 - Enforcement.
+- Section 4729.26 - Administrative rules.
+- Section 4729.261 - Rules for approving instruments to reduce drug poisoning.
+- Section 4729.27 - Pharmacist must be in full and actual charge of pharmacy.
+- Section 4729.28 - Unauthorized practice.
+- Section 4729.281 - Conditions for refill of prescription.
+- Section 4729.282 - Dispensing of drugs pursuant to prescriptions made without examination and EPT prescriptions.
+- Section 4729.283 - Dispensing naltrexone without prescription.
+- Section 4729.284 - Pharmacist dispensing nicotine replacement therapy.
+- Section 4729.285 - Telehealth services.
+- Section 4729.29 - Exemptions.
+- Section 4729.291 - Drugs personally furnished by prescriber.
+- Section 4729.292 - On-site inspection of opioid treatment programs.
+- Section 4729.30 - Sale of Paris green.
+- Section 4729.31 - Exceptions.
+- Section 4729.32 - Requirements for sale of denatured or wood alcohol in five gallon lots or more.
+- Section 4729.33 - Requirements for sale of denatured or wood alcohol in less than five gallon lots.
+- Section 4729.34 - Advertising.
+- Section 4729.35 - Violations deemed public nuisance.
+- Section 4729.36 - Advertisements.
+- Section 4729.361 - Disclosing price information.
+- Section 4729.37 - Filling prescriptions - records.
+- Section 4729.38 - Selecting generically equivalent drugs or interchangeable biological products.
+- Section 4729.381 - Licensed pharmacist - immunity.
+- Section 4729.382 - Pharmacist's authority to dispense an epinephrine autoinjector by substitution.
+- Section 4729.39 - Consult agreement with physicians.
+- Section 4729.391 - Adding drug delivery devices to a prescription.
+- Section 4729.40 - Authority for pharmacists to convert prescriptions authorizing refills under certain circumstances.
+- Section 4729.41 - Authority to administer immunizations.
+- Section 4729.42 - Authority to order, administer COVID-19 diagnostic tests.
+- Section 4729.43 - Delivery of certain non-self-injectable cancer drugs prohibited.
+- Section 4729.45 - Administration of injections.
+- Section 4729.46 - Prescriptions for opioid analgesics to be used on an outpatient basis.
+- Section 4729.47 - Authority to dispense epinephrine without a prescription.
+- Section 4729.48 - Cost-sharing amount in excess of charge; notice to patient.
+- Section 4729.49 - Terminal distributor contracts with 340B program participants.
+- Section 4729.50 - Contracts with private entities to process applications.
+- Section 4729.51 - Selling, purchasing, distributing, or delivering dangerous or investigational drugs.
+- Section 4729.511 - Overdose reversal drug distributor; priorities.
+- Section 4729.513 - Donation of inhalers and epinephrine autoinjectors.
+- Section 4729.52 - Licenses for wholesale distributors and manufacturers of dangerous drugs, outsourcing facilities, third-party logistics providers, and repackagers; application; issuance; renewal; fees.
+- Section 4729.53 - Registration requirements.
+- Section 4729.531 - Limited license to animal shelters for use of drugs for euthanizing animals.
+- Section 4729.532 - Performing euthanasia by means of lethal injection on animal.
+- Section 4729.533 - Chemical capture classification to limited license.
+- Section 4729.534 - Chemical capture - certified officers; curricula; immunity.
+- Section 4729.535 - Chemical capture - prohibitions.
+- Section 4729.54 - Terminal distributor licenses.
+- Section 4729.541 - Exemption from licensure as terminal distributor of dangerous drugs.
+- Section 4729.542 - Chemical capture classification - possession and use of dangerous drugs.
+- Section 4729.55 - Terminal distributor license requirements.
+- Section 4729.552 - License as a category III terminal distributor of dangerous drugs with a pain management clinic classification.
+- Section 4729.554 - Remote dispensing pharmacies.
+- Section 4729.56 - Disciplinary actions.
+- Section 4729.561 - Suspension of license without hearing.
+- Section 4729.57 - Disciplinary actions - terminal distributor.
+- Section 4729.571 - Suspension of terminal distributor's license without hearing.
+- Section 4729.58 - Renewals.
+- Section 4729.59 - Maintenance of register and roster of licensees.
+- Section 4729.60 - Verification of license prior to transactions.
+- Section 4729.61 - False or fraudulent licenses.
+- Section 4729.62 - Surrendering license.
+- Section 4729.64 - Injunctions.
+- Section 4729.65 - Depositing receipts.
+- Section 4729.67 - Effect of child support default on license or certificate.
+- Section 4729.68 - Completion of diabetes education program.
+- Section 4729.69 - Establishment and administration of drug take-back program.
+- Section 4729.691 - Information regarding drug take-back programs.
+- Section 4729.70 - Establishing and implementing medical gases safety program.
+- Section 4729.75 - Drug database may be established by board of pharmacy.
+- Section 4729.76 - Duties of administrator of drug database.
+- Section 4729.77 - Drug database information to be supplied by terminal distributors.
+- Section 4729.771 - Medical marijuana dispensaries.
+- Section 4729.772 - Information for drug database from other sources.
+- Section 4729.78 - Drug database information reporting.
+- Section 4729.79 - Information to be provided by licensees who personally furnish drugs to patients.
+- Section 4729.80 - Information provided from drug database - record of requests - confidentiality.
+- Section 4729.81 - Board review of drug database for violations of law.
+- Section 4729.82 - Retention and purging of drug database information.
+- Section 4729.83 - No charges to be imposed to establish or maintain drug database; acceptance of grants, gifts, or donations.
+- Section 4729.84 - Board to adopt drug database rules.
+- Section 4729.85 - Drug database reports.
+- Section 4729.86 - Applicable additional provisions regarding drug database.
+- Section 4729.861 - Restriction of database use; notification of licensor.
+- Section 4729.87 - Compliance with law regarding sanctions for human trafficking.
+- Section 4729.88 - Epinephrine autoinjectors.
+- Section 4729.89 - Investigational drugs.
+- Section 4729.90 - Applicants for registration as registered pharmacy technician.
+- Section 4729.901 - Form of application.
+- Section 4729.902 - Registration renewal.
+- Section 4729.91 - Permissible activities for registered pharmacy technician.
+- Section 4729.92 - Applicant for registration as a pharmacy technician trainee.
+- Section 4729.921 - Registration as a pharmacy technician trainee.
+- Section 4729.93 - Permissible activities for trainee.
+- Section 4729.94 - Rules.
+- Section 4729.95 - Violations.
+- Section 4729.96 - Sanctions.
+- Section 4729.99 - Penalty.
+- Section 4729.991 - Penalties - chemical capture violations.

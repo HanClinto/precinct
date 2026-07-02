@@ -1,0 +1,76 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-1345
+Scraped: 2026-07-02T19:37:25+00:00
+
+# Chapter 1345 - Consumer Sales Practices
+
+## Sections
+
+- Section 1345.01 - Consumer sales practices definitions.
+- Section 1345.02 - Unfair or deceptive acts or practices.
+- Section 1345.021 - Ethanol blended or mixed into gasoline.
+- Section 1345.022 - Installation of unsafe used tires.
+- Section 1345.03 - Unconscionable consumer sales acts or practices.
+- Section 1345.031 - Unconscionable acts by supplier prohibited - unconscionable provisions.
+- Section 1345.032 - Suppliers soliciting fees for copies of deeds.
+- Section 1345.04 - Jurisdiction.
+- Section 1345.05 - Attorney general powers and duties.
+- Section 1345.06 - Investigations by attorney general.
+- Section 1345.07 - Remedies of attorney general.
+- Section 1345.08 - Attorney general to coordinate with other administrative agency.
+- Section 1345.09 - Private causes of action.
+- Section 1345.091 - Claim or defense against assignee of loan.
+- Section 1345.092 - Supplier's right to cure.
+- Section 1345.10 - Final judgment admissible as prima facie evidence.
+- Section 1345.11 - Bona fide errors.
+- Section 1345.12 - Applicability of chapter - exceptions.
+- Section 1345.13 - Remedies in addition to other remedies.
+- Section 1345.18 - Prior, verified consent required to switch natural gas or public telecommunications service provider.
+- Section 1345.19 - Jurisdiction.
+- Section 1345.20 - Action by aggrieved consumer for switch in natural gas or public telecommunications service providers with consent.
+- Section 1345.21 - Home solicitation sale definitions.
+- Section 1345.22 - Right of buyer to cancel.
+- Section 1345.23 - Written agreement or offer to purchase.
+- Section 1345.24 - Retaining notice of cancellation.
+- Section 1345.25 - Presumption.
+- Section 1345.26 - Right of buyer after cancellation.
+- Section 1345.27 - Right of seller after cancellation.
+- Section 1345.28 - Deceptive acts or practices.
+- Section 1345.30 - Fitting, sale, and returns of hearing aids.
+- Section 1345.31 - Failing to comply with refund obligations.
+- Section 1345.41 - Prepaid entertainment contract definitions.
+- Section 1345.42 - Contract provision of prepaid entertainment contracts.
+- Section 1345.421 - Surety bond where facility under construction and not available for service at time buyer signs contract.
+- Section 1345.43 - Right of buyer to cancel.
+- Section 1345.44 - Prepaid entertainment contract form.
+- Section 1345.45 - Retaining notice of cancellation.
+- Section 1345.46 - Buyer to deliver goods or evidence of membership to seller after cancellation.
+- Section 1345.47 - Defenses of buyer against holder in due course.
+- Section 1345.48 - Deceptive acts or practices - damages.
+- Section 1345.49 - Buyer's waiver void.
+- Section 1345.50 - Remedies.
+- Section 1345.51 - Consumer protection enforcement fund.
+- Section 1345.52 - Title defect recision fund.
+- Section 1345.61 - Invention development services definitions.
+- Section 1345.62 - Invention development services contracts.
+- Section 1345.63 - Conspicuous and legible cover sheet with notice.
+- Section 1345.64 - Record of contacts.
+- Section 1345.65 - Contract contents.
+- Section 1345.66 - Remedies.
+- Section 1345.67 - Maintaining bond.
+- Section 1345.68 - Effect on other obligations, rights, or remedies.
+- Section 1345.71 - Nonconforming new motor vehicle law definitions.
+- Section 1345.72 - Duty to repair - repair unsuccessful.
+- Section 1345.73 - Presumptions.
+- Section 1345.74 - Providing written statement of rights.
+- Section 1345.75 - Civil action for loss.
+- Section 1345.76 - Resale or lease of buyback conditions.
+- Section 1345.77 - Establishment and qualification of informal dispute resolution mechanism.
+- Section 1345.78 - Buyback violations.
+- Section 1345.81 - Using nonoriginal equipment manufacturer aftermarket crash parts.
+- Section 1345.90 - Defective assistive device definitions.
+- Section 1345.91 - Express written warranty.
+- Section 1345.92 - Repair is unsuccessful or untimely.
+- Section 1345.93 - Returned devices.
+- Section 1345.94 - Applicability of consumer sales practices act.
+- Section 1345.95 - Remedies waiver of rights.
+- Section 1345.99 - Penalty.

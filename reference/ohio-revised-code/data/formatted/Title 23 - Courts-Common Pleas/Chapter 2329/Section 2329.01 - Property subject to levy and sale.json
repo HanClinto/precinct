@@ -1,0 +1,58 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Commercial property\" means any property that is not residential property.",
+      "id": "2329.01-commercial-property",
+      "normalized": "commercial property",
+      "scope": "(B) As used in sections 2329.02 to 2329.61 of the Revised Code:",
+      "section": "2329.01",
+      "source_title": "Section 2329.01 - Property subject to levy and sale.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2329.01",
+      "term": "Commercial property"
+    },
+    {
+      "definition": "(2) \"Private selling officer\" means a resident of this state licensed as both an auctioneer under Chapter 4707. of the Revised Code and as a real estate broker or real estate salesperson under Chapter 4735. of the Revised Code.\n\n(3) \"Residential mortgage loan\" and \"residential property\" have the same meanings as in section 2308.01 of the Revised Code.",
+      "id": "2329.01-private-selling-officer",
+      "normalized": "private selling officer",
+      "scope": "(B) As used in sections 2329.02 to 2329.61 of the Revised Code:",
+      "section": "2329.01",
+      "source_title": "Section 2329.01 - Property subject to levy and sale.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2329.01",
+      "term": "Private selling officer"
+    },
+    {
+      "definition": "(4) \"Judgment debtor\" includes any individual, corporation, business trust, estate, trust, partnership, or association.\n\nLast updated January 16, 2025 at 11:35 AM",
+      "id": "2329.01-judgment-debtor",
+      "normalized": "judgment debtor",
+      "scope": "(B) As used in sections 2329.02 to 2329.61 of the Revised Code:",
+      "section": "2329.01",
+      "source_title": "Section 2329.01 - Property subject to levy and sale.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2329.01",
+      "term": "Judgment debtor"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2329.02",
+      "number": "2329.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.02"
+    },
+    {
+      "kind": "section",
+      "label": "2329.61",
+      "number": "2329.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.61"
+    },
+    {
+      "kind": "section",
+      "label": "2308.01",
+      "number": "2308.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2308.01"
+    }
+  ],
+  "scraped": "2026-07-02T19:44:19+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2329.01",
+  "title": "Section 2329.01 - Property subject to levy and sale."
+}

@@ -1,0 +1,12 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3375.22
+Scraped: 2026-07-02T19:50:30+00:00
+
+# Section 3375.22 - County library district - appointment of trustees.
+
+**Effective:** September 30, 2025
+
+**Latest Legislation:** House Bill 96 - 136th General Assembly
+
+In any county in which there has been created a county library district, the free public library of said district shall be under the control and management of a board of library trustees consisting of seven members. Such trustees shall be qualified electors of the library district or county. Three shall be appointed by the judges of the court of common pleas and four shall be appointed by the board of county commissioners of the county in which said district is situated. The term of office of said trustees, if appointed prior to the effective date of this amendment, shall be seven years, except that at the first appointment the terms of those appointed by the judges shall expire in two, four, and six years respectively, and the terms of those appointed by the board of county commissioners shall expire in one, three, five, and seven years respectively. The term of office of trustees appointed on or after the effective date of this amendment shall be four years, except that at the first appointment the terms of those appointed by the judges shall expire in two, three, and four years respectively, and the terms of those appointed by the board of county commissioners shall expire in one, two, three, and four years respectively. Any appointment made to fill a vacancy shall be made by the same body which appointed the trustee whose place has become vacant and shall be for the remainder of the unexpired term. The successor of any trustee of any county library district shall be appointed by the same board or officers which appointed the trustee's predecessor and all subsequent appointments shall be for seven years. The members of such board of library trustees shall serve without compensation but shall be reimbursed for their actual and necessary expenses incurred in the performance of their duties. Such board of library trustees shall organize in accordance with section 3375.32 of the Revised Code. Such board of library trustees shall have the control and management of the county district free public library and in the exercise of such control and management shall be governed by sections 3375.33 to 3375.41 of the Revised Code.
+
+Last updated August 5, 2025 at 11:33 AM

@@ -1,0 +1,328 @@
+{
+  "glossary": [
+    {
+      "definition": "As used in this section, \"a resident's rights\" means the rights of a nursing facility resident under sections 3721.10 to 3721.17 of the Revised Code, the \"Social Security Act,\" sections 1819(c) and 1919(c), 42 U.S.C. 1395i-3(c) and 1396r(c), and federal regulations issued under those sections of the \"Social Security Act.\"\n\nAs used in sections 5165.60 to 5165.89 of the Revised Code:",
+      "id": "5165.60-a-resident-s-rights",
+      "normalized": "a resident's rights",
+      "scope": "",
+      "section": "5165.60",
+      "source_title": "Section 5165.60 - Definitions for sections 5165.60 to 5165.89.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.60",
+      "term": "a resident's rights"
+    },
+    {
+      "definition": "(A) \"Certification requirements\" means the requirements for nursing facilities established under the \"Social Security Act,\" sections 1819 and 1919, 42 U.S.C. 1395i-3 and 1396r.",
+      "id": "5165.60-certification-requirements",
+      "normalized": "certification requirements",
+      "scope": "As used in sections 5165.60 to 5165.89 of the Revised Code:",
+      "section": "5165.60",
+      "source_title": "Section 5165.60 - Definitions for sections 5165.60 to 5165.89.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.60",
+      "term": "Certification requirements"
+    },
+    {
+      "definition": "(B) \"Compliance\" means substantially meeting all applicable certification requirements.",
+      "id": "5165.60-compliance",
+      "normalized": "compliance",
+      "scope": "As used in sections 5165.60 to 5165.89 of the Revised Code:",
+      "section": "5165.60",
+      "source_title": "Section 5165.60 - Definitions for sections 5165.60 to 5165.89.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.60",
+      "term": "Compliance"
+    },
+    {
+      "definition": "(C) \"Contracting agency\" means a state agency that has entered into a contract with the department of medicaid under section 5165.63 of the Revised Code.",
+      "id": "5165.60-contracting-agency",
+      "normalized": "contracting agency",
+      "scope": "As used in sections 5165.60 to 5165.89 of the Revised Code:",
+      "section": "5165.60",
+      "source_title": "Section 5165.60 - Definitions for sections 5165.60 to 5165.89.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.60",
+      "term": "Contracting agency"
+    },
+    {
+      "definition": "(D)(1) \"Deficiency\" means a finding cited by the department of health during a survey, on the basis of one or more actions, practices, situations, or incidents occurring at a nursing facility, that constitutes a severity level three finding, severity level four finding, scope level three finding, or scope level four finding. Whenever the finding is a repeat finding, \"deficiency\" also includes any finding that is a severity level two and scope level one finding, a severity level two and scope level two finding, or a severity level one and scope level two finding.",
+      "id": "5165.60-deficiency",
+      "normalized": "deficiency",
+      "scope": "As used in sections 5165.60 to 5165.89 of the Revised Code:",
+      "section": "5165.60",
+      "source_title": "Section 5165.60 - Definitions for sections 5165.60 to 5165.89.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.60",
+      "term": "Deficiency"
+    },
+    {
+      "definition": "(2) \"Cluster of deficiencies\" means deficiencies that result from noncompliance with two or more certification requirements and are causing or resulting from the same action, practice, situation, or incident.",
+      "id": "5165.60-cluster-of-deficiencies",
+      "normalized": "cluster of deficiencies",
+      "scope": "As used in sections 5165.60 to 5165.89 of the Revised Code:",
+      "section": "5165.60",
+      "source_title": "Section 5165.60 - Definitions for sections 5165.60 to 5165.89.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.60",
+      "term": "Cluster of deficiencies"
+    },
+    {
+      "definition": "(E) \"Emergency\" means either of the following:\n\n(1) A deficiency or cluster of deficiencies that creates a condition of immediate jeopardy;\n\n(2) An unexpected situation or sudden occurrence of a serious or urgent nature that creates a substantial likelihood that one or more residents of a nursing facility may be seriously harmed if allowed to remain in the facility, including the following:\n\n(a) A flood or other natural disaster, civil disaster, or similar event;\n\n(b) A labor strike that suddenly causes the number of staff members in a nursing facility to be below that necessary for resident care.",
+      "id": "5165.60-emergency",
+      "normalized": "emergency",
+      "scope": "As used in sections 5165.60 to 5165.89 of the Revised Code:",
+      "section": "5165.60",
+      "source_title": "Section 5165.60 - Definitions for sections 5165.60 to 5165.89.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.60",
+      "term": "Emergency"
+    },
+    {
+      "definition": "(F) \"Finding\" means a finding of noncompliance with certification requirements determined by the department of health under section 5165.66 of the Revised Code.",
+      "id": "5165.60-finding",
+      "normalized": "finding",
+      "scope": "As used in sections 5165.60 to 5165.89 of the Revised Code:",
+      "section": "5165.60",
+      "source_title": "Section 5165.60 - Definitions for sections 5165.60 to 5165.89.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.60",
+      "term": "Finding"
+    },
+    {
+      "definition": "(G) \"Immediate jeopardy\" means that one or more residents of a nursing facility are in imminent danger of serious physical or life-threatening harm.",
+      "id": "5165.60-immediate-jeopardy",
+      "normalized": "immediate jeopardy",
+      "scope": "As used in sections 5165.60 to 5165.89 of the Revised Code:",
+      "section": "5165.60",
+      "source_title": "Section 5165.60 - Definitions for sections 5165.60 to 5165.89.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.60",
+      "term": "Immediate jeopardy"
+    },
+    {
+      "definition": "(H) \"Medicaid eligible resident\" means a person who is a resident of a nursing facility, or is applying for admission to a nursing facility, and is eligible for nursing facility services under the medicaid program.",
+      "id": "5165.60-medicaid-eligible-resident",
+      "normalized": "medicaid eligible resident",
+      "scope": "As used in sections 5165.60 to 5165.89 of the Revised Code:",
+      "section": "5165.60",
+      "source_title": "Section 5165.60 - Definitions for sections 5165.60 to 5165.89.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.60",
+      "term": "Medicaid eligible resident"
+    },
+    {
+      "definition": "(I) \"Noncompliance\" means failure to substantially meet all applicable certification requirements.",
+      "id": "5165.60-noncompliance",
+      "normalized": "noncompliance",
+      "scope": "As used in sections 5165.60 to 5165.89 of the Revised Code:",
+      "section": "5165.60",
+      "source_title": "Section 5165.60 - Definitions for sections 5165.60 to 5165.89.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.60",
+      "term": "Noncompliance"
+    },
+    {
+      "definition": "(J) \"Nursing facility\" includes a skilled nursing facility to the extent the context requires.",
+      "id": "5165.60-nursing-facility",
+      "normalized": "nursing facility",
+      "scope": "As used in sections 5165.60 to 5165.89 of the Revised Code:",
+      "section": "5165.60",
+      "source_title": "Section 5165.60 - Definitions for sections 5165.60 to 5165.89.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.60",
+      "term": "Nursing facility"
+    },
+    {
+      "definition": "(K) \"Repeat finding\" or \"repeat deficiency\" means a finding or deficiency cited pursuant to a survey, to which both of the following apply:\n\n(1) The finding or deficiency involves noncompliance with the same certification requirement, and the same kind of actions, practices, situations, or incidents caused by or resulting from the noncompliance, as were cited in the immediately preceding standard survey or another survey conducted subsequent to the immediately preceding standard survey of the facility. For purposes of this division, actions, practices, situations, or incidents may be of the same kind even though they involve different residents, staff, or parts of the facility.\n\n(2) The finding or deficiency is cited subsequent to a determination by the department of health that the finding or deficiency cited on the immediately preceding standard survey, or another survey conducted subsequent to the immediately preceding standard survey, had been corrected.",
+      "id": "5165.60-repeat-finding",
+      "normalized": "repeat finding",
+      "scope": "As used in sections 5165.60 to 5165.89 of the Revised Code:",
+      "section": "5165.60",
+      "source_title": "Section 5165.60 - Definitions for sections 5165.60 to 5165.89.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.60",
+      "term": "Repeat finding"
+    },
+    {
+      "definition": "(K) \"Repeat finding\" or \"repeat deficiency\" means a finding or deficiency cited pursuant to a survey, to which both of the following apply:\n\n(1) The finding or deficiency involves noncompliance with the same certification requirement, and the same kind of actions, practices, situations, or incidents caused by or resulting from the noncompliance, as were cited in the immediately preceding standard survey or another survey conducted subsequent to the immediately preceding standard survey of the facility. For purposes of this division, actions, practices, situations, or incidents may be of the same kind even though they involve different residents, staff, or parts of the facility.\n\n(2) The finding or deficiency is cited subsequent to a determination by the department of health that the finding or deficiency cited on the immediately preceding standard survey, or another survey conducted subsequent to the immediately preceding standard survey, had been corrected.",
+      "id": "5165.60-repeat-deficiency",
+      "normalized": "repeat deficiency",
+      "scope": "As used in sections 5165.60 to 5165.89 of the Revised Code:",
+      "section": "5165.60",
+      "source_title": "Section 5165.60 - Definitions for sections 5165.60 to 5165.89.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.60",
+      "term": "repeat deficiency"
+    },
+    {
+      "definition": "(L)(1) \"Scope level one finding\" means a finding of noncompliance by a nursing facility in which the actions, situations, practices, or incidents causing or resulting from the noncompliance affect one or a very limited number of facility residents and involve one or a very limited number of facility staff members.",
+      "id": "5165.60-scope-level-one-finding",
+      "normalized": "scope level one finding",
+      "scope": "As used in sections 5165.60 to 5165.89 of the Revised Code:",
+      "section": "5165.60",
+      "source_title": "Section 5165.60 - Definitions for sections 5165.60 to 5165.89.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.60",
+      "term": "Scope level one finding"
+    },
+    {
+      "definition": "(2) \"Scope level two finding\" means a finding of noncompliance by a nursing facility in which the actions, situations, practices, or incidents causing or resulting from the noncompliance affect more than a limited number of facility residents or involve more than a limited number of facility staff members, but the number or percentage of facility residents affected or staff members involved and the number or frequency of the actions, situations, practices, or incidents in short succession does not establish any reasonable degree of predictability of similar actions, situations, practices, or incidents occurring in the future.",
+      "id": "5165.60-scope-level-two-finding",
+      "normalized": "scope level two finding",
+      "scope": "As used in sections 5165.60 to 5165.89 of the Revised Code:",
+      "section": "5165.60",
+      "source_title": "Section 5165.60 - Definitions for sections 5165.60 to 5165.89.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.60",
+      "term": "Scope level two finding"
+    },
+    {
+      "definition": "(3) \"Scope level three finding\" means a finding of noncompliance by a nursing facility in which the actions, situations, practices, or incidents causing or resulting from the noncompliance affect more than a limited number of facility residents or involve more than a limited number of facility staff members, and the number or percentage of facility residents affected or staff members involved or the number or frequency of the actions, situations, practices, or incidents in short succession establishes a reasonable degree of predictability of similar actions, situations, practices, or incidents occurring in the future.",
+      "id": "5165.60-scope-level-three-finding",
+      "normalized": "scope level three finding",
+      "scope": "As used in sections 5165.60 to 5165.89 of the Revised Code:",
+      "section": "5165.60",
+      "source_title": "Section 5165.60 - Definitions for sections 5165.60 to 5165.89.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.60",
+      "term": "Scope level three finding"
+    },
+    {
+      "definition": "(4) \"Scope level four finding\" means a finding of noncompliance by a nursing facility causing or resulting from actions, situations, practices, or incidents that involve a sufficient number or percentage of facility residents or staff members or occur with sufficient regularity over time that the noncompliance can be considered systemic or pervasive in the facility.",
+      "id": "5165.60-scope-level-four-finding",
+      "normalized": "scope level four finding",
+      "scope": "As used in sections 5165.60 to 5165.89 of the Revised Code:",
+      "section": "5165.60",
+      "source_title": "Section 5165.60 - Definitions for sections 5165.60 to 5165.89.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.60",
+      "term": "Scope level four finding"
+    },
+    {
+      "definition": "(M)(1) \"Severity level one finding\" means a finding of noncompliance by a nursing facility that has not caused and, if continued, is unlikely to cause physical harm to a facility resident, mental or emotional harm to a resident, or a violation of a resident's rights that results in physical, mental, or emotional harm to the resident.",
+      "id": "5165.60-severity-level-one-finding",
+      "normalized": "severity level one finding",
+      "scope": "As used in sections 5165.60 to 5165.89 of the Revised Code:",
+      "section": "5165.60",
+      "source_title": "Section 5165.60 - Definitions for sections 5165.60 to 5165.89.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.60",
+      "term": "Severity level one finding"
+    },
+    {
+      "definition": "(2) \"Severity level two finding\" means a finding of noncompliance by a nursing facility that, if continued over time, will cause, or is likely to cause, physical harm to a facility resident, mental or emotional harm to a resident, or a violation of a resident's rights that results in physical, mental, or emotional harm to the resident.",
+      "id": "5165.60-severity-level-two-finding",
+      "normalized": "severity level two finding",
+      "scope": "As used in sections 5165.60 to 5165.89 of the Revised Code:",
+      "section": "5165.60",
+      "source_title": "Section 5165.60 - Definitions for sections 5165.60 to 5165.89.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.60",
+      "term": "Severity level two finding"
+    },
+    {
+      "definition": "(3) \"Severity level three finding\" means a finding of noncompliance by a nursing facility that has caused physical harm to a facility resident, mental or emotional harm to a resident, or a violation of a resident's rights that results in physical, mental, or emotional harm to the resident.",
+      "id": "5165.60-severity-level-three-finding",
+      "normalized": "severity level three finding",
+      "scope": "As used in sections 5165.60 to 5165.89 of the Revised Code:",
+      "section": "5165.60",
+      "source_title": "Section 5165.60 - Definitions for sections 5165.60 to 5165.89.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.60",
+      "term": "Severity level three finding"
+    },
+    {
+      "definition": "(4) \"Severity level four finding\" means a finding of noncompliance by a nursing facility that has caused life-threatening harm to a facility resident or caused a resident's death.",
+      "id": "5165.60-severity-level-four-finding",
+      "normalized": "severity level four finding",
+      "scope": "As used in sections 5165.60 to 5165.89 of the Revised Code:",
+      "section": "5165.60",
+      "source_title": "Section 5165.60 - Definitions for sections 5165.60 to 5165.89.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.60",
+      "term": "Severity level four finding"
+    },
+    {
+      "definition": "(N) \"State agency\" has the same meaning as in section 1.60 of the Revised Code.",
+      "id": "5165.60-state-agency",
+      "normalized": "state agency",
+      "scope": "As used in sections 5165.60 to 5165.89 of the Revised Code:",
+      "section": "5165.60",
+      "source_title": "Section 5165.60 - Definitions for sections 5165.60 to 5165.89.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.60",
+      "term": "State agency"
+    },
+    {
+      "definition": "(O) \"Substandard care\" means care furnished in a facility in which the department of health has cited a deficiency or deficiencies that constitute one of the following:\n\n(1) A severity level four finding, regardless of scope;\n\n(2) A severity level three and scope level four finding, in the quality of care provided to residents;\n\n(3) A severity level three and scope level three finding, in the quality of care provided to residents.",
+      "id": "5165.60-substandard-care",
+      "normalized": "substandard care",
+      "scope": "As used in sections 5165.60 to 5165.89 of the Revised Code:",
+      "section": "5165.60",
+      "source_title": "Section 5165.60 - Definitions for sections 5165.60 to 5165.89.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.60",
+      "term": "Substandard care"
+    },
+    {
+      "definition": "(P)(1) \"Survey\" means a survey of a nursing facility conducted under section 5165.64 of the Revised Code.",
+      "id": "5165.60-survey",
+      "normalized": "survey",
+      "scope": "As used in sections 5165.60 to 5165.89 of the Revised Code:",
+      "section": "5165.60",
+      "source_title": "Section 5165.60 - Definitions for sections 5165.60 to 5165.89.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.60",
+      "term": "Survey"
+    },
+    {
+      "definition": "(2) \"Standard survey\" means a survey conducted by the department of health under division (A) of section 5165.64 of the Revised Code and includes an extended survey.",
+      "id": "5165.60-standard-survey",
+      "normalized": "standard survey",
+      "scope": "As used in sections 5165.60 to 5165.89 of the Revised Code:",
+      "section": "5165.60",
+      "source_title": "Section 5165.60 - Definitions for sections 5165.60 to 5165.89.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.60",
+      "term": "Standard survey"
+    },
+    {
+      "definition": "(3) \"Follow-up survey\" means a survey conducted by the department of health to determine whether a nursing facility has substantially corrected deficiencies cited in a previous survey.",
+      "id": "5165.60-follow-up-survey",
+      "normalized": "follow-up survey",
+      "scope": "As used in sections 5165.60 to 5165.89 of the Revised Code:",
+      "section": "5165.60",
+      "source_title": "Section 5165.60 - Definitions for sections 5165.60 to 5165.89.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.60",
+      "term": "Follow-up survey"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3721.10",
+      "number": "3721.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.10"
+    },
+    {
+      "kind": "section",
+      "label": "3721.17",
+      "number": "3721.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.17"
+    },
+    {
+      "kind": "section",
+      "label": "5165.60",
+      "number": "5165.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5165.60"
+    },
+    {
+      "kind": "section",
+      "label": "5165.89",
+      "number": "5165.89",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5165.89"
+    },
+    {
+      "kind": "section",
+      "label": "5165.63",
+      "number": "5165.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5165.63"
+    },
+    {
+      "kind": "section",
+      "label": "5165.66",
+      "number": "5165.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5165.66"
+    },
+    {
+      "kind": "section",
+      "label": "1.60",
+      "number": "1.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1.60"
+    },
+    {
+      "kind": "section",
+      "label": "5165.64",
+      "number": "5165.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5165.64"
+    }
+  ],
+  "scraped": "2026-07-02T20:11:28+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.60",
+  "title": "Section 5165.60 - Definitions for sections 5165.60 to 5165.89."
+}

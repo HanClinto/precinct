@@ -1,0 +1,10 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-2113.54
+Scraped: 2026-07-02T19:41:28+00:00
+
+# Section 2113.54 - Distribution upon application of legatee or distributee.
+
+**Effective:** January 13, 2012
+
+**Latest Legislation:** Senate Bill 124 - 129th General Assembly
+
+When five months have expired after the appointment of an executor or administrator and the surviving spouse has made an election under section 2106.01 of the Revised Code, a legatee or distributee may apply to the probate court for an order requiring the executor or administrator to distribute the assets of the estate, either in whole or in part, in cash or in kind. Upon notice to the executor or administrator, the court shall inquire into the condition of the estate, and if all claims have been paid, or adequate provision has been or can be made for their payment, the court shall make that order with reference to distribution of the estate as the condition of the estate and the protection of all parties interested in the estate may demand. The order of the court shall provide that assets be set aside for the payment of claims rejected within two months or in suit, and each claimant for whom assets are to be set aside shall be entitled to be fully heard as to the nature and amount of the assets to be set aside for payment of the claim and as to all other conditions in connection with the claim. Each legatee or distributee receiving distribution from the estate shall be liable to return the assets distributed to the legatee or distributee, or the proceeds from the assets, if they are necessary to pay those claims. The court, upon its own motion or upon application of the executor or administrator, as a condition precedent to any distribution, may require any legatee or distributee to give bond to the state with surety approved and in an amount fixed by the court, conditioned as provided in section 2113.53 of the Revised Code or as may be directed by the court. The bond may be in addition to the assets to be set aside or partially or wholly in lieu of those assets, as the court shall determine.

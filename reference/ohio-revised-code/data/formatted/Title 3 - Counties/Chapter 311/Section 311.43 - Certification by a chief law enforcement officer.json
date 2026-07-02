@@ -1,0 +1,52 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Certification\" means the participation and assent of the chief law enforcement officer necessary under federal law for the approval of an application to make or transfer a firearm.",
+      "id": "311.43-certification",
+      "normalized": "certification",
+      "scope": "(A) As used in this section:",
+      "section": "311.43",
+      "source_title": "Section 311.43 - Certification by a chief law enforcement officer.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-311.43",
+      "term": "Certification"
+    },
+    {
+      "definition": "(2) \"Chief law enforcement officer\" means any official the bureau of alcohol, tobacco, firearms, and explosives, or any successor agency, identifies by regulation or otherwise as eligible to provide any required certification for the making or transfer of a firearm.",
+      "id": "311.43-chief-law-enforcement-officer",
+      "normalized": "chief law enforcement officer",
+      "scope": "(A) As used in this section:",
+      "section": "311.43",
+      "source_title": "Section 311.43 - Certification by a chief law enforcement officer.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-311.43",
+      "term": "Chief law enforcement officer"
+    },
+    {
+      "definition": "(3) \"Concealed handgun license\" has the same meaning as in section 2923.11 of the Revised Code.\n\n(B) A resident of this state may submit to the sheriff of the county in which the resident resides or to the sheriff of any county adjacent to the county in which the resident resides any federal form that requires a law enforcement certification by a chief law enforcement officer.\n\n(C) The sheriff shall accept and process the certification in the same manner as an application for a concealed handgun license is processed under section 2923.125 of the Revised Code, including the requirement for a background check, except as follows:\n\n(1) If a resident of this state submits one or more federal forms, the sheriff shall charge the resident no more than the applicable fee described in division (B)(1)(a) of section 2923.125 of the Revised Code, without regard to how many federal forms are submitted at the same time.\n\n(2) If a resident of this state submits one or more federal forms and currently has a concealed handgun license or the sheriff has previously approved a federal form for that resident, the sheriff shall charge the resident no more than the applicable fee described in division (F)(4) of section 2923.125 of the Revised Code, without regard to how many federal forms are submitted at the same time.",
+      "id": "311.43-concealed-handgun-license",
+      "normalized": "concealed handgun license",
+      "scope": "(A) As used in this section:",
+      "section": "311.43",
+      "source_title": "Section 311.43 - Certification by a chief law enforcement officer.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-311.43",
+      "term": "Concealed handgun license"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2923.11",
+      "number": "2923.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2923.11"
+    },
+    {
+      "kind": "section",
+      "label": "2923.125",
+      "number": "2923.125",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2923.125"
+    }
+  ],
+  "scraped": "2026-07-02T19:32:43+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-311.43",
+  "title": "Section 311.43 - Certification by a chief law enforcement officer."
+}

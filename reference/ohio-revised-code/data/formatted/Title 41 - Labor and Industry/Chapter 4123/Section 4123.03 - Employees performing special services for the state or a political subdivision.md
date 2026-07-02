@@ -1,0 +1,12 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4123.03
+Scraped: 2026-07-02T20:04:17+00:00
+
+# Section 4123.03 - Employees performing special services for the state or a political subdivision.
+
+**Effective:** October 20, 1993
+
+**Latest Legislation:** House Bill 107 - 120th General Assembly
+
+If the state or any political subdivision thereof, including any county, township, municipal corporation, school district, and any institution or agency of the state, employs, enlists, recruits, solicits, or otherwise secures the services of any organization, association, or group of persons and the members thereof, including volunteer firemen, and auxiliary policemen and patrolmen, the individual members of which are not, by reason of such service, employees as defined in division (A)(1) of section 4123.01 of the Revised Code, or if the state or any political subdivision thereof desires to secure workers' compensation coverage in respect of any volunteer fireman, policeman, deputy sheriff, marshal or deputy marshal, constable, or other person in its service in the event of the injury, disease, or death of such person while engaged in activities called for by his position but not such as would entitle the person to compensation as an employee as so defined, subject to the limitations contained in section 4123.02 of the Revised Code, the state or the political subdivision may contract with the bureau of workers' compensation for coverage of such persons under this chapter, while in the performance of such service. The contract shall contain provisions for the determination of premiums, average weekly wages or their equivalent, the identity of the persons covered, and such other provisions as are necessary in each case to establish or define the risk and determine claims arising thereunder. Payment of premiums by the state or a political subdivision shall be made in the same manner as is provided with respect to workers' compensation premiums payable by the state or a political subdivision and at the times as provided by the contract. Upon execution of a contract, the persons covered thereby are entitled to the same benefits, payable from the public insurance fund, which are accorded to employees as defined in division (A) of section 4123.01 of the Revised Code.
+
+For the purpose of statistical and like information, the bureau shall keep a separate record of the experience of the individual risks and groups of similar risks under such contracts.

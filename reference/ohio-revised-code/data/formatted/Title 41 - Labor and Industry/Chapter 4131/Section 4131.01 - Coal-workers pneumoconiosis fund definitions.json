@@ -1,0 +1,62 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Federal act\" means Title IV of the \"Federal Coal Mine Health and Safety Act of 1969,\" 83 Stat. 742, 30 U.S.C.A. 801, as now or hereafter amended.",
+      "id": "4131.01-federal-act",
+      "normalized": "federal act",
+      "scope": "As used in sections 4131.01 to 4131.06 of the Revised Code:",
+      "section": "4131.01",
+      "source_title": "Section 4131.01 - Coal-workers pneumoconiosis fund definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4131.01",
+      "term": "Federal act"
+    },
+    {
+      "definition": "(B) \"Coal-workers pneumoconiosis fund\" means the fund created and administered pursuant to sections 4131.01 to 4131.06 of the Revised Code and does not refer, directly or indirectly, to any fund created and administered pursuant to Chapter 4123. of the Revised Code.",
+      "id": "4131.01-coal-workers-pneumoconiosis-fund",
+      "normalized": "coal-workers pneumoconiosis fund",
+      "scope": "As used in sections 4131.01 to 4131.06 of the Revised Code:",
+      "section": "4131.01",
+      "source_title": "Section 4131.01 - Coal-workers pneumoconiosis fund definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4131.01",
+      "term": "Coal-workers pneumoconiosis fund"
+    },
+    {
+      "definition": "(C) \"Premium\" means payment by or on behalf of an operator of a coal mine in Ohio who is required by the federal act to secure the payment of benefits for which he is liable under that act, which payments are to be credited to the coal-workers pneumoconiosis fund and does not refer, directly or indirectly, to premiums or contributions paid or required to be paid pursuant to Chapter 4123. of the Revised Code.",
+      "id": "4131.01-premium",
+      "normalized": "premium",
+      "scope": "As used in sections 4131.01 to 4131.06 of the Revised Code:",
+      "section": "4131.01",
+      "source_title": "Section 4131.01 - Coal-workers pneumoconiosis fund definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4131.01",
+      "term": "Premium"
+    },
+    {
+      "definition": "(D) \"Subscriber\" means an operator who has elected to subscribe to the coal-workers pneumoconiosis fund and whose election has been approved by the bureau of workers' compensation.",
+      "id": "4131.01-subscriber",
+      "normalized": "subscriber",
+      "scope": "As used in sections 4131.01 to 4131.06 of the Revised Code:",
+      "section": "4131.01",
+      "source_title": "Section 4131.01 - Coal-workers pneumoconiosis fund definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4131.01",
+      "term": "Subscriber"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "4131.01",
+      "number": "4131.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4131.01"
+    },
+    {
+      "kind": "section",
+      "label": "4131.06",
+      "number": "4131.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4131.06"
+    }
+  ],
+  "scraped": "2026-07-02T20:04:24+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4131.01",
+  "title": "Section 4131.01 - Coal-workers pneumoconiosis fund definitions."
+}

@@ -1,0 +1,615 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 2329.01 - Property subject to levy and sale.",
+      "number": "2329.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.02 - Judgment lien - certificate of judgment - filing - transfer.",
+      "number": "2329.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.021 - Foreign judgment defined.",
+      "number": "2329.021",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.021"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.022 - Filing and status of foreign judgments.",
+      "number": "2329.022",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.022"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.023 - Notice of filing.",
+      "number": "2329.023",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.023"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.024 - Stay.",
+      "number": "2329.024",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.024"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.025 - Fees.",
+      "number": "2329.025",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.025"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.026 - Optional procedure.",
+      "number": "2329.026",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.026"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.027 - Uniformity of interpretation.",
+      "number": "2329.027",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.027"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.03 - Lien without filing of certificate.",
+      "number": "2329.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.04 - Judgments of inferior courts - stay of execution - certificate in lieu of transcript.",
+      "number": "2329.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.05 - Judgment of supreme court.",
+      "number": "2329.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.06 - Lien of a judgment when action removed to supreme court.",
+      "number": "2329.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.07 - Judgment may become dormant.",
+      "number": "2329.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.071 - Property unsold twelve months after decree.",
+      "number": "2329.071",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.071"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.08 - Limitation of enforcement of deficiency judgment - waiver - pending actions.",
+      "number": "2329.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.09 - Writ of execution.",
+      "number": "2329.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.091 - Levying officer to execute writ of execution.",
+      "number": "2329.091",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.091"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.10 - Preference between writs of execution.",
+      "number": "2329.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.11 - Order in which officer to make levy.",
+      "number": "2329.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.12 - Bond for delivery of goods and chattels.",
+      "number": "2329.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.13 - Notice of sale of goods on execution - setting aside or confirmation of sale.",
+      "number": "2329.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.14 - Execution against unsold goods.",
+      "number": "2329.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.15 - Public and private sale of goods on execution.",
+      "number": "2329.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.151 - Conduct of judicial sale.",
+      "number": "2329.151",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.151"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.152 - Authorization of private selling officer.",
+      "number": "2329.152",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.152"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.153 - Official public sheriff sale web site; integrated auction management system.",
+      "number": "2329.153",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.153"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.154 - Online registration.",
+      "number": "2329.154",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.154"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.16 - Another levy allowed.",
+      "number": "2329.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.17 - Lands to be appraised.",
+      "number": "2329.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.18 - Copy of appraisement to be left with clerk.",
+      "number": "2329.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.19 - Extent of lien of judgment.",
+      "number": "2329.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.191 - Preliminary judicial report by petitioner.",
+      "number": "2329.191",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.191"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.192 - State lienholder as party defendant in judicial sale; proceeds of sale.",
+      "number": "2329.192",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.192"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.20 - Land not to be sold for less than two thirds of appraised value.",
+      "number": "2329.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.21 - Purchaser to add enough to pay costs in certain cases.",
+      "number": "2329.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.211 - Sale deposit.",
+      "number": "2329.211",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.211"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.22 - Rule as to sale of lands by state.",
+      "number": "2329.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.23 - Notices of sale of lands.",
+      "number": "2329.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.24 - Name of township in certain cases.",
+      "number": "2329.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.25 - Property to be sold without valuation.",
+      "number": "2329.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.26 - Notice of date, time and place of sale.",
+      "number": "2329.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.261 - Notify land banks of foreclosure sales.",
+      "number": "2329.261",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.261"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.27 - Public notice requirements - setting aside or confirmation of sale.",
+      "number": "2329.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.271 - Identifying information submitted by purchaser.",
+      "number": "2329.271",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.271"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.272 - Open house of property prior to sale.",
+      "number": "2329.272",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.272"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.28 - The return of the writ and record thereof.",
+      "number": "2329.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.29 - Disposition of money made without sale of real estate.",
+      "number": "2329.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.30 - Failure of purchaser to pay.",
+      "number": "2329.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.31 - Confirmation and order for deed.",
+      "number": "2329.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.311 - Sale of property with no minimum bid; right to redeem.",
+      "number": "2329.311",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.311"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.312 - Reports by levying officers.",
+      "number": "2329.312",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.312"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.32 - Officer may retain purchase money until sale confirmed.",
+      "number": "2329.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.33 - Redemption by judgment debtor.",
+      "number": "2329.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.34 - Conveyance by commissioner.",
+      "number": "2329.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.35 - Sheriff may act for master commissioner.",
+      "number": "2329.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.36 - Deed of sheriff, master.",
+      "number": "2329.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.37 - Effect of deed.",
+      "number": "2329.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.38 - Printer's fee.",
+      "number": "2329.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.39 - Place of sale.",
+      "number": "2329.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.40 - Alias execution.",
+      "number": "2329.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.41 - Separate levies directed on separate tracts.",
+      "number": "2329.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.42 - Two or more executions to same officer.",
+      "number": "2329.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.43 - Deeds for lands sold may be made by a sheriff's successor.",
+      "number": "2329.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.44 - Excess payable to debtor; notice to debtor.",
+      "number": "2329.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.45 - Reversal of judgment.",
+      "number": "2329.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.46 - Remedy of purchaser if sale invalid.",
+      "number": "2329.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.47 - Proceedings to vacate satisfaction of judgment.",
+      "number": "2329.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.48 - Relief of officer who levies upon and sells wrong property in good faith.",
+      "number": "2329.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.49 - Remedy when one of cosureties pays for such property.",
+      "number": "2329.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.50 - Supreme court and court of appeals judgments.",
+      "number": "2329.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.51 - New appraisement.",
+      "number": "2329.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.52 - New appraisement - sale of part - terms of sale.",
+      "number": "2329.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.53 - Return day of writ of execution.",
+      "number": "2329.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.54 - Entry of judgment against principal and surety.",
+      "number": "2329.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.56 - Penalty for neglecting to serve as appraiser.",
+      "number": "2329.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.57 - Execution issued to another county may be returned by mail.",
+      "number": "2329.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.58 - Money not to be forwarded by mail.",
+      "number": "2329.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.59 - Entries on execution docket.",
+      "number": "2329.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.60 - Index to execution docket.",
+      "number": "2329.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.61 - Order of sale issued in case not on trial docket.",
+      "number": "2329.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.63 - Beneficiary funds exempt.",
+      "number": "2329.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.64 - Certain property of benevolent societies exempt.",
+      "number": "2329.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.65 - Property kept to put out fires exempt.",
+      "number": "2329.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.66 - Exempted interests and rights.",
+      "number": "2329.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.661 - Certain claims not exempted.",
+      "number": "2329.661",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.661"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.662 - Federal exemption not authorized.",
+      "number": "2329.662",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.662"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.67 - Exemption not subject to payment of cost of proceedings to collect debt.",
+      "number": "2329.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.67"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.68 - Appraisal of exempted property.",
+      "number": "2329.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.68"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.69 - Exemptions apply to all courts.",
+      "number": "2329.69",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.69"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.70 - Application for appointment of trustee.",
+      "number": "2329.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.71 - Participation by secured creditor in trusteeship.",
+      "number": "2329.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.83 - Dower, mansion house rights not impaired.",
+      "number": "2329.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.83"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.84 - Goods claimed by third parties.",
+      "number": "2329.84",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.84"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.85 - Trial of right to goods and chattels.",
+      "number": "2329.85",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.85"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.86 - Finding of judge.",
+      "number": "2329.86",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.86"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.90 - Uniform foreign country money judgments recognition act definitions.",
+      "number": "2329.90",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.90"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.91 - Enforcement of foreign country judgment.",
+      "number": "2329.91",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.91"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.92 - When judgment not enforceable - reciprocity.",
+      "number": "2329.92",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.92"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.93 - Stay pending appeal.",
+      "number": "2329.93",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.93"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2329.94 - Scope and construction.",
+      "number": "2329.94",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.94"
+    }
+  ],
+  "scraped": "2026-07-02T19:44:19+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-2329",
+  "title": "Chapter 2329 - Execution Against Property"
+}

@@ -1,0 +1,28 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3313.90
+Scraped: 2026-07-02T19:48:39+00:00
+
+# Section 3313.90 - Career-technical education programs.
+
+**Effective:** September 30, 2025
+
+**Latest Legislation:** House Bill 96 - 136th General Assembly
+
+As used in this section, "formula ADM" has the same meaning as in section 3317.02 of the Revised Code. Notwithstanding division (D) of section 3311.19 and division (D) of section 3311.52 of the Revised Code, the provisions of this section that apply to a city school district do not apply to any joint vocational or cooperative education school district.
+
+(A) Except as provided in division (B) of this section, each city, local, and exempted village school district shall, by one of the following means, provide to students enrolled in grades seven through twelve career-technical education adequate to prepare a student enrolled therein for an occupation:
+
+(1) Establishing and maintaining a career-technical education program that meets standards adopted by the department of education and workforce;
+
+(2) Being a member of a joint vocational school district that meets standards adopted by the department;
+
+(3) Contracting for career-technical education with a joint vocational school district or another school district that meets the standards adopted by the department.
+
+The standards of the department shall include criteria for the participation by nonpublic students in career-technical education programs without financial assessment, charge, or tuition to such student except such assessments, charges, or tuition paid by resident public school students in such programs. Such nonpublic school students shall be included in the formula ADM of the school district maintaining the career-technical education program as part-time students in proportion to the time spent in the career-technical education program.
+
+By the thirtieth day of October of each year, the director of education and workforce shall determine and certify to the superintendent of each school district subject to this section either that the district is in compliance with the requirements of this section for the current school year or that the district is not in compliance. If the director certifies that the district is not in compliance, the director shall notify the board of education of the district of the actions necessary to bring the district into compliance with this section.
+
+In meeting standards established by the department, school districts, where practicable, shall provide career-technical education programs in high schools. A minimum enrollment of two thousand two hundred fifty students in grades seven through twelve is the base for comprehensive career-technical education course offerings. A school district may meet this requirement alone, through a cooperative arrangement pursuant to section 3313.92 of the Revised Code, through school district consolidation, by membership in a joint vocational school district, by contract with a school district, by contract with a school licensed by any state agency established by the Revised Code which school operates its courses offered for contracting with public schools under standards as to staffing and facilities comparable to those prescribed by the department for public schools provided no instructor in such courses shall be required to be certificated by the department, or in a combination of such ways. Exceptions to the minimum enrollment prescribed by this section may be made by the department based on sparsity of population or other factors indicating that comprehensive educational and career-technical education programs as required by this section can be provided through an alternate plan.
+
+(B) Until July 1, 2026, the department shall waive the requirement for a city, local, or exempted village school district to provide career-technical education to students enrolled in grades seven and eight for that particular school year, if the board of education of that district adopts a resolution that specifies the district's intent not to provide career-technical education to students enrolled in grades seven and eight for a particular school year and submits that resolution to the department by the thirtieth day of September of that school year.
+
+Last updated July 24, 2025 at 4:09 PM

@@ -1,0 +1,24 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-1501.07
+Scraped: 2026-07-02T19:37:33+00:00
+
+# Section 1501.07 - Public service facilities in state park.
+
+**Effective:** December 19, 2016
+
+**Latest Legislation:** House Bill 471 - 131st General Assembly
+
+The department of natural resources through the division of parks and watercraft may plan, supervise, acquire, construct, enlarge, improve, erect, equip, and furnish public service facilities such as inns, lodges, hotels, cottages, camping sites, scenic trails, picnic sites, restaurants, commissaries, golf courses, boating and bathing facilities, and other similar facilities in state parks reasonably necessary and useful in promoting the public use of state parks under its control and may purchase lands or interests in lands in the name of the state necessary for those purposes.
+
+The chief of the division of parks and watercraft shall administer state parks, establish rules, fix fees and charges for admission to parks and for the use of public service facilities therein, establish rentals for the lease of lands or interests therein within a state park the chief is authorized by law to lease, and exercise all powers of the chief, in conformity with all covenants of the director of natural resources in or with respect to state park revenue bonds and trust agreements securing such bonds and all terms, provisions, and conditions of such bonds and trust agreements. In the administration of state parks with respect to which state park revenue bonds are issued and outstanding, or any part of the moneys received from fees and charges for admission to or the use of facilities, from rentals for the lease of lands or interests or facilities therein, or for the lease of public service facilities are pledged for any such bonds, the chief shall exercise the powers and perform the duties of the chief subject to the control and approval of the director. The acquisition of such lands or interests therein and facilities shall be planned with regard to the needs of the people of the state and with regard to the purposes and uses of such state parks and, except for facilities constructed in consideration of a lease under section 1501.012 of the Revised Code, shall be paid for from the state park fund created in section 1546.21 of the Revised Code or from the proceeds of the sale of bonds issued under sections 1501.12 to 1501.15 of the Revised Code. Sections 125.81 and 153.04 of the Revised Code, insofar as they require a certification by the chief of the division of capital planning and improvement, do not apply to the acquisition of lands or interests therein and public service facilities to be paid for from the proceeds of bonds issued under sections 1501.12 to 1501.15 of the Revised Code.
+
+As used in sections 1501.07 to 1501.14 of the Revised Code, state parks are all of the following:
+
+(A) State reservoirs described and identified in section 1546.11 of the Revised Code;
+
+(B) All lands or interests therein that are denominated as state parks in section 1546.14 of the Revised Code;
+
+(C) All lands or interests therein of the state identified as administered by the division of parks and watercraft in the "inventory of state owned lands administered by department of natural resources as of June 1, 1963," as recorded in the journal of the director, which inventory was prepared by the real estate section of the department and is supported by maps on file with the division;
+
+(D) All lands or interests in lands of the state hereafter designated as state parks in the journal of the director.
+
+All such state parks shall be exclusively under the control and administration of the division of parks and watercraft. The director by order may remove from the classification as state parks any of the lands or interests therein so classified by divisions (C) and (D) of this section, subject to the limitations, provisions, and conditions in any order authorizing state park revenue bonds or in any trust agreement securing such bonds. Lands or interests therein so removed shall be transferred to other divisions of the department for administration or may be sold as provided by law. Proceeds of any sale shall be used or transferred as provided in the order authorizing state park revenue bonds or in the trust agreement and, if no such provision is made, shall be transferred to the state park fund. State parks do not include any lands or interest in lands of the state administered jointly by two or more divisions of the department. The designation of lands as state parks under divisions (A) to (D) of this section shall be conclusive, and those lands shall be under the control of and administered by the division of parks and watercraft. No order or proceeding designating lands as state parks or park purchase areas shall be subject to any appeal or review by any officer, board, commission, or court.

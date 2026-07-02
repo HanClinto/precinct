@@ -1,0 +1,79 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-5153
+Scraped: 2026-07-02T20:11:11+00:00
+
+# Chapter 5153 - County Children Services
+
+## Sections
+
+- Section 5153.01 - County children services definitions.
+- Section 5153.02 - Who may serve as county public children services agency.
+- Section 5153.03 - Appointment to county board.
+- Section 5153.04 - Officers - meetings.
+- Section 5153.05 - Advisory committee on children services.
+- Section 5153.06 - Employment contract with executive director.
+- Section 5153.10 - Executive director - inquiry into community conditions.
+- Section 5153.11 - Executive director - powers and duties.
+- Section 5153.111 - Criminal records check.
+- Section 5153.112 - Caseworker qualifications.
+- Section 5153.113 - Fitness of child welfare applicant.
+- Section 5153.12 - Classified civil service status of employees.
+- Section 5153.121 - Permitting employee sharing between department and county board.
+- Section 5153.122 - Caseworker in-service training.
+- Section 5153.123 - Caseworker supervisor in-service training.
+- Section 5153.124 - Rules implementing training requirements.
+- Section 5153.125 - Determining caseworker's training needs.
+- Section 5153.126 - Determining supervisor's training needs.
+- Section 5153.127 - Collect and maintaining data from individual training needs assessment forms.
+- Section 5153.13 - Bonds.
+- Section 5153.131 - Liability insurance.
+- Section 5153.14 - Reports.
+- Section 5153.15 - Vesting powers in single county agency.
+- Section 5153.16 - Duties of agency.
+- Section 5153.161 - Place for providing care.
+- Section 5153.162 - Operation, acquisition, or maintenance of children's home, training school, or other institution for care of children.
+- Section 5153.163 - Payments to adoptive parent of child with special needs; kinship guardian assistance.
+- Section 5153.165 - Emergency benefits and services necessary to prevent removal or permit return of child to home.
+- Section 5153.166 - Additional rules governing agency performance of duties.
+- Section 5153.17 - Maintenance of records.
+- Section 5153.171 - Request for information concerning deceased child whose death may have been caused by abuse, neglect, or other criminal conduct.
+- Section 5153.172 - Information concerning deceased child whose death may have been caused by abuse, neglect, or other criminal conduct.
+- Section 5153.173 - Court determination against disclosure.
+- Section 5153.175 - Information regarding fitness of child care license applicant to be provided.
+- Section 5153.176 - Information concerning child abuse or neglect by licensee.
+- Section 5153.18 - Public children services agency - executive director - powers and duties.
+- Section 5153.19 - Determining ability to pay cost of care.
+- Section 5153.20 - Cost of care charged to county of legal residence.
+- Section 5153.21 - Establishing children's home.
+- Section 5153.22 - Furnishing of institutional care to children of county.
+- Section 5153.23 - Superintendent of home - powers and duties.
+- Section 5153.24 - Admission, removal and transfer of children to children's home.
+- Section 5153.25 - Industrial, agricultural, and other pursuits.
+- Section 5153.26 - Fund for payment of emergency accounts.
+- Section 5153.27 - Department of children and youth certification.
+- Section 5153.28 - Reporting child in need of public care.
+- Section 5153.29 - Sale, lease or other use of county children's home.
+- Section 5153.30 - Accepting gifts and bequests.
+- Section 5153.31 - Institution or agency - transfer of power and duties.
+- Section 5153.32 - Transfer from corporation to child welfare institution or agency.
+- Section 5153.33 - Investing funds.
+- Section 5153.34 - Acquiring property and equipment.
+- Section 5153.35 - Levying taxes and making appropriations for public children services agency.
+- Section 5153.36 - Joint board for establishment of district children's home.
+- Section 5153.37 - Annual assessment of taxes for support of home.
+- Section 5153.38 - Accepting gifts and bequests.
+- Section 5153.39 - Appointing board of trustees.
+- Section 5153.40 - Meetings.
+- Section 5153.41 - Superintendent of home - bond - powers and duties.
+- Section 5153.42 - Management and operation of district children's homes.
+- Section 5153.43 - Site of district children's home.
+- Section 5153.44 - Appointing trustees.
+- Section 5153.45 - Removal - vacancy.
+- Section 5153.46 - Powers between selection and purchase of site, and erection and occupancy.
+- Section 5153.47 - Control of farm.
+- Section 5153.48 - Appraising value of site and buildings.
+- Section 5153.49 - County withdrawing from district.
+- Section 5153.50 - Meeting of county auditors of counties comprising district.
+- Section 5153.51 - Expenses of county commissioners.
+- Section 5153.52 - County may support private children's homes.
+- Section 5153.53 - Operating buses for educational purposes.
+- Section 5153.99 - Penalty.

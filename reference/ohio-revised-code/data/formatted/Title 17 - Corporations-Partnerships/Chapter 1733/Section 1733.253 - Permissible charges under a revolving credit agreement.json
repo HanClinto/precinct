@@ -1,0 +1,48 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Revolving credit agreement\" means an agreement pursuant to which a credit union contemplates repeated transactions and the amount of credit that may be extended pursuant to the agreement is made available to the extent that any outstanding balance is repaid. \"Revolving credit agreement\" does not include an agreement secured by a residential mortgage.",
+      "id": "1733.253-revolving-credit-agreement",
+      "normalized": "revolving credit agreement",
+      "scope": "(A) As used in this section:",
+      "section": "1733.253",
+      "source_title": "Section 1733.253 - Permissible charges under a revolving credit agreement.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1733.253",
+      "term": "Revolving credit agreement"
+    },
+    {
+      "definition": "(2) \"Residential mortgage\" has the same meaning as in section 1109.181 of the Revised Code.\n\n(B) Notwithstanding any limitations contained in sections 1733.25 , 1733.251 , or any other section of the Revised Code, a credit union may charge interest, fees, and other charges under a revolving credit agreement at the same or lower rates or amounts that a credit union located in another state may charge its revolving credit customers in this state.",
+      "id": "1733.253-residential-mortgage",
+      "normalized": "residential mortgage",
+      "scope": "(A) As used in this section:",
+      "section": "1733.253",
+      "source_title": "Section 1733.253 - Permissible charges under a revolving credit agreement.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1733.253",
+      "term": "Residential mortgage"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "1109.181",
+      "number": "1109.181",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1109.181"
+    },
+    {
+      "kind": "section",
+      "label": "1733.25",
+      "number": "1733.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.25"
+    },
+    {
+      "kind": "section",
+      "label": "1733.251",
+      "number": "1733.251",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.251"
+    }
+  ],
+  "scraped": "2026-07-02T19:39:24+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1733.253",
+  "title": "Section 1733.253 - Permissible charges under a revolving credit agreement."
+}

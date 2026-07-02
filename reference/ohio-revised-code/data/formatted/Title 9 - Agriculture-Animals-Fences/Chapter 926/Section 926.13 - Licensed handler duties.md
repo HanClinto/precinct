@@ -1,0 +1,22 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-926.13
+Scraped: 2026-07-02T19:35:23+00:00
+
+# Section 926.13 - Licensed handler duties.
+
+**Effective:** July 27, 1990
+
+**Latest Legislation:** House Bill 571 - 118th General Assembly
+
+(A) As used in this section, "licensed handler" includes a receiver, trustee, or other custodian of agricultural commodities appointed for a licensed handler by a court of this state or the United States.
+
+(B) Each licensed handler shall at all times, including any period of suspension of his license, exercise the care in regard to the agricultural commodities in his custody as a bailee as a reasonably prudent owner would exercise under the same circumstances and conditions. Any licensed handler guilty of any action or neglect, the effect of which is to depreciate the value of commodities stored under bailment agreements in a warehouse under his control, shall be liable to the depositor damaged by his action or neglect. Nothing in divisions (B) and (C) of this section shall be construed to indicate otherwise.
+
+(C) If a licensed handler discovers that any agricultural commodity stored in his warehouse, other than an identity-preserved commodity in a special bin as described in division (E) of section 926.22 of the Revised Code, is out of condition or is in danger of becoming so, and if he is unable to preserve the commodity, he shall immediately so notify the owner of the commodity, if known, and the director of agriculture. The director, unless otherwise requested by the owner of the commodity, shall cause an inspection to be made of the commodity. If his inspection reveals that the commodity is out of condition or is becoming so, and if the owner of the commodity fails promptly to remove it, the handler may sell the commodity upon giving the same notice of sale as required under section 926.26 of the Revised Code for the sale of a commodity to satisfy a lien. The commodity may be sold at either public or private sale without advertising if, in the opinion of the director, the commodity should be sold without delay and the director gives the handler written authority to make the sale without advertisement. For the purposes of this section, the owners of the commodity shall be considered to be, in order:
+
+(1) The licensed handler to the extent of any commodity that he owns and stores in his warehouse;
+
+(2) The holders of uncanceled receipts or tickets for commodities in the warehouse in the order in which the receipts or tickets are dated.
+
+Nothing in this section shall relieve any licensed handler from exercising due care and vigilance in preserving any agricultural commodity after he discovers that the commodity is out of condition or is becoming so.
+
+(D) After an agricultural commodity has been sold as authorized under division (C) of this section, neither the licensed handler nor the director shall be liable for any actions that they took under that division. Proceeds of the sale shall be administered as provided in divisions (C), (D), and (E) of section 926.26 of the Revised Code.

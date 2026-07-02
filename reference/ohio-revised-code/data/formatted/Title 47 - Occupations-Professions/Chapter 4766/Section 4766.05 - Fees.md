@@ -1,0 +1,14 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4766.05
+Scraped: 2026-07-02T20:08:07+00:00
+
+# Section 4766.05 - Fees.
+
+**Effective:** July 1, 2013
+
+**Latest Legislation:** House Bill 51 - 130th General Assembly
+
+(A) The state board of emergency medical, fire, and transportation services shall establish by rule a license fee, a permit fee for each ambulance, ambulette, rotorcraft air ambulance, fixed wing air ambulance, and nontransport vehicle owned or leased by the licensee that is or will be used as provided in section 4766.07 of the Revised Code, and fees for renewals of licenses and permits, taking into consideration the actual costs incurred by the board in carrying out its duties under this chapter. However, the fee for each license and each renewal of a license shall not exceed one hundred dollars, and the fee for each permit and each renewal of a permit shall not exceed one hundred dollars for each ambulance, rotorcraft air ambulance, fixed wing air ambulance, and nontransport vehicle. The board shall determine by rule the fee, which shall not exceed fifty dollars, for each permit and each renewal of a permit for each ambulette. For purposes of establishing fees, "actual costs" includes the costs of salaries, expenses, inspection equipment, supervision, and program administration.
+
+(B) The board shall deposit all fees and other moneys collected pursuant to sections 4766.04 , 4766.07 , and 4766.08 of the Revised Code in the state treasury to the credit of the trauma and emergency medical services fund, which is created by section 4513.263 of the Revised Code.
+
+(C) The board, subject to the approval of the controlling board, may establish fees in excess of the maximum amounts allowed under division (A) of this section, but such fees shall not exceed those maximum amounts by more than fifty per cent.

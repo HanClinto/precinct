@@ -1,0 +1,24 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4519.66
+Scraped: 2026-07-02T20:05:50+00:00
+
+# Section 4519.66 - Prohibited acts.
+
+**Effective:** January 1, 2004
+
+**Latest Legislation:** Senate Bill 123 - 124th General Assembly
+
+(A) No person shall do any of the following:
+
+(1) Operate in this state an off-highway motorcycle or all-purpose vehicle without having a certificate of title for the off-highway motorcycle or all-purpose vehicle, if such a certificate is required by this chapter to be issued for the off-highway motorcycle or all-purpose vehicle, or, if a physical certificate of title has not been issued for it, operate an off-highway motorcycle or all-purpose vehicle knowing that the ownership information relating to the motorcycle or vehicle has not been entered into the automated title processing system by a clerk of a court of common pleas;
+
+(2) Operate in this state an off-highway motorcycle or all-purpose vehicle if a certificate of title to the off-highway motorcycle or all-purpose vehicle has been issued and then has been canceled;
+
+(3) Fail to surrender any certificate of title upon cancellation of it by the registrar of motor vehicles and notice of the cancellation as prescribed in this chapter;
+
+(4) Fail to surrender the certificate of title to a clerk of a court of common pleas as provided in this chapter, in case of the destruction or dismantling of, or change in, the off-highway motorcycle or all-purpose vehicle described in the certificate of title;
+
+(5) Violate any provision of sections 4519.51 to 4519.70 of the Revised Code for which no penalty is otherwise provided or any lawful rules adopted pursuant to those sections;
+
+(6) Operate in this state an off-highway motorcycle or all-purpose vehicle knowing that the certificate of title to or ownership of the motorcycle or vehicle as otherwise reflected in the automated title processing system has been canceled.
+
+(B) Whoever violates this section shall be fined not more than two hundred dollars, imprisoned not more than ninety days, or both.

@@ -1,0 +1,26 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3357.01
+Scraped: 2026-07-02T19:50:12+00:00
+
+# Section 3357.01 - Technical college definitions.
+
+**Effective:** September 29, 2017
+
+**Latest Legislation:** House Bill 49 - 132nd General Assembly
+
+As used in this chapter:
+
+(A) "Technical college" means an institution of education beyond the high school, including an institution of higher education, organized for the principal purpose of providing for the residents of the technical college district, wherein such college is situated, any one or more of the instructional programs defined in this section as "technical college," or "adult-education technical programs," normally not exceeding two years' duration and not leading to a baccalaureate degree, except as provided in section 3333.051 of the Revised Code.
+
+(B) "Technical college district" means a political subdivision of the state and a body corporate with all the powers of a corporation, comprised of the territory of a city school district or a county, or two or more contiguous school districts or counties, which meets the standards prescribed by the chancellor of higher education pursuant to section 3357.02 of the Revised Code, and which is organized for the purpose of establishing, owning, and operating one or more technical colleges within the territory of such district.
+
+(C) "Contiguous school districts or counties" means school districts or counties so located that each such school district or county shares at least one boundary or a portion thereof in common with at least one other such school district or county in the group of school districts or counties referred to as being "contiguous."
+
+(D) "Technical college program" means a post high school curricular program provided within a technical college, planned and intended to qualify students, after satisfactory completion of such a program normally two years in duration, to pursue careers in which they provide immediate technical assistance to professional or managerial persons generally required to hold baccalaureate or higher academic degrees in technical or professional fields. The technical and professional fields referred to in this section include, but are not limited to, engineering and physical, medical, or other sciences.
+
+(E) "Adult-education technical program" means the dissemination of post high school technical education service and knowledge, for the occupational, or general educational benefit of adult persons.
+
+(F) "Charter amendment" means a change in the official plan of a technical college for the purpose of acquiring additional lands or structures, disposing of or transferring lands or structures, erecting structures, creating or abolishing technical college or adult education technical curricular programs.
+
+(G) "Baccalaureate-oriented associate degree program" means a curricular program of not more than two years' duration that is planned and intended to enable students to gain academic credit for courses comparable to first- and second-year courses offered by accredited colleges and universities. The purpose of baccalaureate-oriented associate degree coursework in technical colleges is to enable students to transfer to colleges and universities and earn baccalaureate degrees or to enable students to terminate academic study after two years with a proportionate recognition of academic achievement through receipt of an associate degree.
+
+(H) "Applied bachelor's degree" has the same meaning as in section 3333.051 of the Revised Code.

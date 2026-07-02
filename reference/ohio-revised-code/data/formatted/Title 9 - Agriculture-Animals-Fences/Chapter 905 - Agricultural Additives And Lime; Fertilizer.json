@@ -1,0 +1,351 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 905.01 - Agricultural additive definitions.",
+      "number": "905.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 905.02 - Selling or exchanging unregistered agricultural additive.",
+      "number": "905.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 905.03 - Application for registration of agricultural additive.",
+      "number": "905.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 905.04 - Label information.",
+      "number": "905.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 905.05 - Administrative rules.",
+      "number": "905.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 905.06 - Information duties - investigations.",
+      "number": "905.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 905.07 - Suspending or revoking of registration.",
+      "number": "905.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 905.08 - Holding additives during period of suspension or revocation.",
+      "number": "905.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 905.09 - Injunctions.",
+      "number": "905.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 905.10 - Class actions.",
+      "number": "905.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 905.11 - False representations.",
+      "number": "905.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 905.31 - Fertilizer definitions.",
+      "number": "905.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 905.32 - Application for license.",
+      "number": "905.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 905.321 - Certification required.",
+      "number": "905.321",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.321"
+    },
+    {
+      "kind": "section",
+      "label": "Section 905.322 - Rules and regulations regarding fertilizer application.",
+      "number": "905.322",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.322"
+    },
+    {
+      "kind": "section",
+      "label": "Section 905.323 - Voluntary nutrient management plans.",
+      "number": "905.323",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.323"
+    },
+    {
+      "kind": "section",
+      "label": "Section 905.324 - Confidentiality.",
+      "number": "905.324",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.324"
+    },
+    {
+      "kind": "section",
+      "label": "Section 905.325 - Civil actions; affirmative defenses.",
+      "number": "905.325",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.325"
+    },
+    {
+      "kind": "section",
+      "label": "Section 905.326 - Application of fertilizer in western basin.",
+      "number": "905.326",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.326"
+    },
+    {
+      "kind": "section",
+      "label": "Section 905.327 - Penalty for unlawful application of fertilizer.",
+      "number": "905.327",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.327"
+    },
+    {
+      "kind": "section",
+      "label": "Section 905.33 - Registering custom mixed fertilizer as a specialty fertilizer.",
+      "number": "905.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 905.331 - Nonagricultural production custom mixed fertilizer blender license.",
+      "number": "905.331",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.331"
+    },
+    {
+      "kind": "section",
+      "label": "Section 905.34 - Exemption for distributor.",
+      "number": "905.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 905.35 - Label information.",
+      "number": "905.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 905.36 - Inspection fees - annual statement of tonnage.",
+      "number": "905.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 905.37 - Statement and reports by director.",
+      "number": "905.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 905.39 - Sampling and analysis.",
+      "number": "905.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 905.40 - Administrative rules.",
+      "number": "905.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 905.41 - Design and construction of storage facilities for anhydrous ammonia.",
+      "number": "905.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 905.411 - Orders prohibiting use of anhydrous ammonia equipment or system.",
+      "number": "905.411",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.411"
+    },
+    {
+      "kind": "section",
+      "label": "Section 905.42 - Manufacturing or distributing substance injurious to crop growth or deleterious to soil.",
+      "number": "905.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 905.43 - Mislabeled or misrepresented fertilizer.",
+      "number": "905.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 905.44 - Administrative rules.",
+      "number": "905.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 905.45 - Refusing, suspending or revoking of registration or license.",
+      "number": "905.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 905.46 - Holding fertilizer offered or exposed for sale in violation of law.",
+      "number": "905.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 905.47 - Condemnation procedures.",
+      "number": "905.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 905.48 - Injunctions.",
+      "number": "905.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 905.49 - Restrictions not applicable to certain importers and manufacturers.",
+      "number": "905.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 905.50 - Mislabeled fertilizer.",
+      "number": "905.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 905.501 - Civil penalties.",
+      "number": "905.501",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.501"
+    },
+    {
+      "kind": "section",
+      "label": "Section 905.502 - Written notice of warning.",
+      "number": "905.502",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.502"
+    },
+    {
+      "kind": "section",
+      "label": "Section 905.503 - No local regulation of fertilizers.",
+      "number": "905.503",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.503"
+    },
+    {
+      "kind": "section",
+      "label": "Section 905.51 - Liming material definitions.",
+      "number": "905.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 905.52 - Liming material license.",
+      "number": "905.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 905.53 - Exemption from license requirement.",
+      "number": "905.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 905.54 - Standards of fineness.",
+      "number": "905.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 905.55 - Label information.",
+      "number": "905.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 905.57 - Prohibition against divulging information secured while employed by the department.",
+      "number": "905.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 905.58 - Annual statement of liming material sales.",
+      "number": "905.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 905.59 - Sampling and analysis.",
+      "number": "905.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 905.60 - Mislabeled liming material.",
+      "number": "905.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 905.61 - Administrative rules.",
+      "number": "905.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 905.62 - Revocation and suspension of license or refusal to license.",
+      "number": "905.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 905.63 - Order to hold material.",
+      "number": "905.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 905.64 - Condemnation order.",
+      "number": "905.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 905.65 - Injunction.",
+      "number": "905.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 905.99 - Penalty.",
+      "number": "905.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.99"
+    }
+  ],
+  "scraped": "2026-07-02T19:34:15+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-905",
+  "title": "Chapter 905 - Agricultural Additives And Lime; Fertilizer"
+}

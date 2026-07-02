@@ -1,0 +1,76 @@
+{
+  "glossary": [
+    {
+      "definition": "\"Education\" means any activity designed to provide information regarding propane, propane equipment, mechanical and technical practices, and uses and promotion of propane to consumers and members of the propane industry.",
+      "id": "936.01-education",
+      "normalized": "education",
+      "scope": "As used in this chapter:",
+      "section": "936.01",
+      "source_title": "Section 936.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-936.01",
+      "term": "Education"
+    },
+    {
+      "definition": "\"Propane\" means liquefied petroleum gas, a material with a vapor pressure not exceeding that of commercial propane composed predominately of the following hydrocarbons or mixtures:\n\n(A) Propane;\n\n(B) Propylene;\n\n(C) Butane;\n\n(D) Butylene",
+      "id": "936.01-propane",
+      "normalized": "propane",
+      "scope": "As used in this chapter:",
+      "section": "936.01",
+      "source_title": "Section 936.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-936.01",
+      "term": "Propane"
+    },
+    {
+      "definition": "\"Propane council\" or \"council\" means the propane council created under section 936.02 of the Revised Code.",
+      "id": "936.01-propane-council",
+      "normalized": "propane council",
+      "scope": "As used in this chapter:",
+      "section": "936.01",
+      "source_title": "Section 936.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-936.01",
+      "term": "Propane council"
+    },
+    {
+      "definition": "\"Propane council\" or \"council\" means the propane council created under section 936.02 of the Revised Code.",
+      "id": "936.01-council",
+      "normalized": "council",
+      "scope": "As used in this chapter:",
+      "section": "936.01",
+      "source_title": "Section 936.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-936.01",
+      "term": "council"
+    },
+    {
+      "definition": "\"Retailer\" means a person engaged primarily in the sale of odorized propane to the ultimate consumer or to a retail propane dispenser.",
+      "id": "936.01-retailer",
+      "normalized": "retailer",
+      "scope": "As used in this chapter:",
+      "section": "936.01",
+      "source_title": "Section 936.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-936.01",
+      "term": "Retailer"
+    },
+    {
+      "definition": "\"Wholesale distributor\" means a person whose primary business involves the sale of propane to a retailer.",
+      "id": "936.01-wholesale-distributor",
+      "normalized": "wholesale distributor",
+      "scope": "As used in this chapter:",
+      "section": "936.01",
+      "source_title": "Section 936.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-936.01",
+      "term": "Wholesale distributor"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "936.02",
+      "number": "936.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-936.02"
+    }
+  ],
+  "scraped": "2026-07-02T19:35:26+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-936.01",
+  "title": "Section 936.01 - Definitions."
+}

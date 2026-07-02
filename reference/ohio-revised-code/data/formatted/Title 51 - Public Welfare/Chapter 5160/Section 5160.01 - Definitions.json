@@ -1,0 +1,92 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Dual eligible individual\" has the same meaning as in the \"Social Security Act,\" section 1915(h)(2)(B), 42 U.S.C. 1396n(h)(2)(B). A dual eligible individual is a medicare-medicaid enrollee (MME).",
+      "id": "5160.01-dual-eligible-individual",
+      "normalized": "dual eligible individual",
+      "scope": "As used in this chapter:",
+      "section": "5160.01",
+      "source_title": "Section 5160.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5160.01",
+      "term": "Dual eligible individual"
+    },
+    {
+      "definition": "(B) \"Exchange\" has the same meaning as in 45 C.F.R. 155.20.",
+      "id": "5160.01-exchange",
+      "normalized": "exchange",
+      "scope": "As used in this chapter:",
+      "section": "5160.01",
+      "source_title": "Section 5160.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5160.01",
+      "term": "Exchange"
+    },
+    {
+      "definition": "(C) \"Federal financial participation\" means the federal government's share of expenditures made by an entity in implementing a medical assistance program.",
+      "id": "5160.01-federal-financial-participation",
+      "normalized": "federal financial participation",
+      "scope": "As used in this chapter:",
+      "section": "5160.01",
+      "source_title": "Section 5160.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5160.01",
+      "term": "Federal financial participation"
+    },
+    {
+      "definition": "(D) \"Medical assistance program\" means all of the following:\n\n(1) The medicaid program;\n\n(2) The children's health insurance program;\n\n(3) The refugee medical assistance program;\n\n(4) Any other program that provides medical assistance and state statutes authorize the department of medicaid to administer.",
+      "id": "5160.01-medical-assistance-program",
+      "normalized": "medical assistance program",
+      "scope": "As used in this chapter:",
+      "section": "5160.01",
+      "source_title": "Section 5160.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5160.01",
+      "term": "Medical assistance program"
+    },
+    {
+      "definition": "(E) \"Medical assistance recipient\" means a recipient of a medical assistance program. To the extent appropriate in the context, \"medical assistance recipient\" includes an individual applying for a medical assistance program, a former medical assistance recipient, or both.",
+      "id": "5160.01-medical-assistance-recipient",
+      "normalized": "medical assistance recipient",
+      "scope": "As used in this chapter:",
+      "section": "5160.01",
+      "source_title": "Section 5160.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5160.01",
+      "term": "Medical assistance recipient"
+    },
+    {
+      "definition": "(F) \"Medicaid managed care organization\" has the same meaning as in section 5167.01 of the Revised Code.",
+      "id": "5160.01-medicaid-managed-care-organization",
+      "normalized": "medicaid managed care organization",
+      "scope": "As used in this chapter:",
+      "section": "5160.01",
+      "source_title": "Section 5160.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5160.01",
+      "term": "Medicaid managed care organization"
+    },
+    {
+      "definition": "(G) \"Refugee medical assistance program\" means the program that the department of medicaid administers pursuant to section 5160.50 of the Revised Code.",
+      "id": "5160.01-refugee-medical-assistance-program",
+      "normalized": "refugee medical assistance program",
+      "scope": "As used in this chapter:",
+      "section": "5160.01",
+      "source_title": "Section 5160.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5160.01",
+      "term": "Refugee medical assistance program"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "5167.01",
+      "number": "5167.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5167.01"
+    },
+    {
+      "kind": "section",
+      "label": "5160.50",
+      "number": "5160.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5160.50"
+    }
+  ],
+  "scraped": "2026-07-02T20:11:16+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5160.01",
+  "title": "Section 5160.01 - Definitions."
+}

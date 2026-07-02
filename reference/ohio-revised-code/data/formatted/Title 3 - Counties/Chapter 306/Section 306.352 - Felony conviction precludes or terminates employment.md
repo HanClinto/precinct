@@ -1,0 +1,24 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-306.352
+Scraped: 2026-07-02T19:32:38+00:00
+
+# Section 306.352 - Felony conviction precludes or terminates employment.
+
+**Effective:** January 1, 2004
+
+**Latest Legislation:** House Bill 490 - 124th General Assembly
+
+(A) As used in this section, "felony" has the same meaning as in section 109.511 of the Revised Code.
+
+(B)(1) In the exercise of its authority under division (Y) of section 306.35 of the Revised Code, a regional transit authority shall not employ a person as a regional transit authority police officer on a permanent basis, on a temporary basis, for a probationary term, or on other than a permanent basis if the person previously has been convicted of or has pleaded guilty to a felony.
+
+(2)(a) The transit authority shall terminate the employment of a person as a regional transit authority police officer if the person does either of the following:
+
+(i) Pleads guilty to a felony;
+
+(ii) Pleads guilty to a misdemeanor pursuant to a negotiated plea agreement as provided in division (D) of section 2929.43 of the Revised Code in which the police officer agrees to surrender the certificate awarded to that police officer under section 109.77 of the Revised Code.
+
+(b) The transit authority shall suspend from employment a person designated as a regional transit authority police officer if that person is convicted, after trial, of a felony. If the police officer files an appeal from that conviction and the conviction is upheld by the highest court to which the appeal is taken or if the police officer does not file a timely appeal, the transit authority shall terminate the employment of that police officer. If the police officer files an appeal that results in the police officer's acquittal of the felony or conviction of a misdemeanor, or in the dismissal of the felony charge against the police officer, the transit authority shall reinstate that police officer. A police officer who is reinstated under division (B)(2)(b) of this section shall not receive any back pay unless that officer's conviction of the felony was reversed on appeal, or the felony charge was dismissed, because the court found insufficient evidence to convict the police officer of the felony.
+
+(3) Division (B) of this section does not apply regarding an offense that was committed prior to January 1, 1997.
+
+(4) The suspension from employment, or the termination of the employment, of a regional transit authority police officer under division (B)(2) of this section shall be in accordance with Chapter 119. of the Revised Code.

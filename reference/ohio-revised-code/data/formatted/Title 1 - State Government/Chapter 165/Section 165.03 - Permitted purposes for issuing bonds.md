@@ -1,0 +1,26 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-165.03
+Scraped: 2026-07-02T19:32:09+00:00
+
+# Section 165.03 - Permitted purposes for issuing bonds.
+
+**Effective:** April 12, 2021
+
+**Latest Legislation:** House Bill 444 - 133rd General Assembly
+
+(A) An issuer may issue bonds for the purpose of providing moneys to acquire by purchase, construct, reconstruct, enlarge, improve, furnish, or equip one or more projects or parts thereof, or for any combination of such purposes, including providing moneys to make loans to others for such purposes. The issuing authority shall provide by resolution or ordinance for the issuance of such bonds. The bond proceedings may contain determinations by the issuing authority that the project to be financed thereunder is a project as defined in this chapter and is consistent with the purposes of Section 13 of Article VIII, Ohio Constitution, and such determinations shall be conclusive as to the validity and enforceability of the bonds issued under such bond proceedings and of such bond proceedings and security interests given and leases, subleases, sale agreements, loan agreements, and other agreements made in connection therewith, all in accordance with their terms.
+
+The principal of and interest on the bonds and all other payments required to be made by the bond proceedings shall be payable solely from the revenues and secured by security interests as provided in such bond proceedings. Bond anticipation notes may be secured, solely or additionally, by a covenant of the issuer that it will do all things necessary for the issuance of the bonds anticipated or renewal notes in appropriate amount and either exchange such bonds or renewal notes for such notes or apply the proceeds therefrom to the extent necessary to make full payment of the principal of and interest on such notes. The bond proceedings shall not obligate or pledge moneys raised by taxation.
+
+Bonds may be issued at one time or from time to time, shall be dated, shall mature at such time or times not exceeding thirty years from date of issue, and may be redeemable before maturity at such price or prices and under such terms and conditions, all as provided in the bond proceedings. The bonds shall bear interest at such rate or rates, or at a variable rate or rates changing from time to time in accordance with a base or formula, as provided in or authorized by the bond proceedings. The issuing authority shall determine the form of the bonds, fix their denominations and method of execution, and establish within or without the state a place or places for the payment of principal or interest.
+
+(B) The issuing authority may provide for sales of bonds at public or private sale as it deems most advantageous and for such prices, whether above or below the par value thereof, as it determines or within such limit or limits as it determines.
+
+(C) If the state is the issuer, then before the authorization of the bonds, the issuing authority of the state shall have received a written request for the issuance of the bonds from either the board of directors of a port authority created pursuant to the authority of section 4582.02 or 4582.22 of the Revised Code if the project is within the jurisdiction of the port authority, from the issuing authority of the municipal corporation if the project is within the boundaries of a municipal corporation, or from the issuing authority of the township or county if the project is within the unincorporated portion of the township or county.
+
+(D) If the issuer is a county, township, or municipal corporation, then, before the delivery of bonds issued under authority of this section, the issuing authority shall have caused a written notice to have been mailed by certified mail to the director of development services of the state advising such director of the proposed delivery of the bonds, the amount thereof, the proposed lessee, and a general description of the project or projects to be financed.
+
+(E) In case any officer who has signed any bonds or coupons pertaining thereto, or caused the officer's facsimile signature to be affixed thereto, ceases to be such officer before such bonds or coupons have been delivered, such bonds or coupons may, nevertheless, be issued and delivered as though the person who had signed the bonds or coupons or caused the person's facsimile signature to be affixed thereto had not ceased to be such officer. Any bonds or coupons may be executed on behalf of the issuer by an officer who, on the date of execution, is the proper officer although on the date of such bonds or coupons such person was not the proper officer.
+
+(F) All bonds issued under authority of this chapter, regardless of form or terms and regardless of any other law to the contrary, shall have all qualities and incidents of negotiable instruments, subject to provisions for registration, and may be issued in coupon, fully registered, or other form, or any combination thereof, as the issuing authority determines. Provision may be made for the registration of any coupon bonds as to principal alone or as to both principal and interest, and for the conversion into coupon bonds of any fully registered bonds or bonds registered as to both principal and interest.
+
+Last updated October 21, 2025 at 1:51 PM

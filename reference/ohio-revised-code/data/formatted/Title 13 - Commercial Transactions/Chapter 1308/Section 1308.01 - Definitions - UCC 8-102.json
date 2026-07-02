@@ -1,0 +1,210 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Adverse claim\" means a claim that a claimant has a property interest in a financial asset and that it is a violation of the rights of the claimant for another person to hold, transfer, or deal with the financial asset.\n\n(2) \"Bearer form,\" as applied to a certificated security, means a form in which the security is payable to the bearer of the security certificate according to its terms but not by reason of an indorsement.",
+      "id": "1308.01-adverse-claim",
+      "normalized": "adverse claim",
+      "scope": "",
+      "section": "1308.01",
+      "source_title": "Section 1308.01 - Definitions - UCC 8-102.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1308.01",
+      "term": "Adverse claim"
+    },
+    {
+      "definition": "(3) \"Broker\" means a person defined as a broker or dealer under the federal securities laws, but without excluding a bank acting in that capacity.",
+      "id": "1308.01-broker",
+      "normalized": "broker",
+      "scope": "",
+      "section": "1308.01",
+      "source_title": "Section 1308.01 - Definitions - UCC 8-102.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1308.01",
+      "term": "Broker"
+    },
+    {
+      "definition": "(4) \"Certificated security\" means a security that is represented by a certificate.",
+      "id": "1308.01-certificated-security",
+      "normalized": "certificated security",
+      "scope": "",
+      "section": "1308.01",
+      "source_title": "Section 1308.01 - Definitions - UCC 8-102.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1308.01",
+      "term": "Certificated security"
+    },
+    {
+      "definition": "(5) \"Clearing corporation\" means:\n\n(a) A person that is registered as a \"clearing agency\" under the federal securities laws;\n\n(b) A federal reserve bank; or\n\n(c) Any other person that provides clearance or settlement services with respect to financial assets that would require it to register as a clearing agency under the federal securities laws but for an exclusion or exemption from the registration requirement, if its activities as a clearing corporation, including promulgation of rules, are subject to regulation by a federal or state governmental authority.",
+      "id": "1308.01-clearing-corporation",
+      "normalized": "clearing corporation",
+      "scope": "",
+      "section": "1308.01",
+      "source_title": "Section 1308.01 - Definitions - UCC 8-102.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1308.01",
+      "term": "Clearing corporation"
+    },
+    {
+      "definition": "(6) \"Communicate\" means to:\n\n(a) Send a signed writing; or\n\n(b) Transmit information by any mechanism agreed upon by the persons transmitting and receiving the information.",
+      "id": "1308.01-communicate",
+      "normalized": "communicate",
+      "scope": "",
+      "section": "1308.01",
+      "source_title": "Section 1308.01 - Definitions - UCC 8-102.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1308.01",
+      "term": "Communicate"
+    },
+    {
+      "definition": "(7) \"Entitlement holder\" means a person identified in the records of a securities intermediary as the person having a security entitlement against the securities intermediary. If a person acquires a security entitlement by virtue of division (B)(2) or (3) of section 1308.51 of the Revised Code, that person is the entitlement holder.",
+      "id": "1308.01-entitlement-holder",
+      "normalized": "entitlement holder",
+      "scope": "",
+      "section": "1308.01",
+      "source_title": "Section 1308.01 - Definitions - UCC 8-102.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1308.01",
+      "term": "Entitlement holder"
+    },
+    {
+      "definition": "(8) \"Entitlement order\" means a notification communicated to a securities intermediary directing transfer or redemption of a financial asset to which the entitlement holder has a security entitlement.\n\n(9) \"Financial asset,\" except as otherwise provided in section 1308.02 of the Revised Code, means:\n\n(a) A security;\n\n(b) An obligation of a person or a share, participation, or other interest in a person or in property or an enterprise of a person, which is, or is of a type, dealt in or traded on financial markets, or which is recognized in any area in which it is issued or dealt in as a medium for investment; or\n\n(c) Any property that is held by a securities intermediary for another person in a securities account if the securities intermediary has expressly agreed with the other person that the property is to be treated as a financial asset under this chapter.\n\nAs context requires, the term means either the interest itself or the means by which a person's claim to it is evidenced, including a certificated or uncertificated security, a security certificate, or a security entitlement.",
+      "id": "1308.01-entitlement-order",
+      "normalized": "entitlement order",
+      "scope": "",
+      "section": "1308.01",
+      "source_title": "Section 1308.01 - Definitions - UCC 8-102.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1308.01",
+      "term": "Entitlement order"
+    },
+    {
+      "definition": "(10) \"Good faith\" has the same meaning as in section 1301.201 of the Revised Code.",
+      "id": "1308.01-good-faith",
+      "normalized": "good faith",
+      "scope": "",
+      "section": "1308.01",
+      "source_title": "Section 1308.01 - Definitions - UCC 8-102.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1308.01",
+      "term": "Good faith"
+    },
+    {
+      "definition": "(11) \"Indorsement\" means a signature that alone or accompanied by other words is made on a security certificate in registered form or on a separate document for the purpose of assigning, transferring, or redeeming the security or granting a power to assign, transfer, or redeem it.",
+      "id": "1308.01-indorsement",
+      "normalized": "indorsement",
+      "scope": "",
+      "section": "1308.01",
+      "source_title": "Section 1308.01 - Definitions - UCC 8-102.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1308.01",
+      "term": "Indorsement"
+    },
+    {
+      "definition": "(12) \"Instruction\" means a notification communicated to the issuer of an uncertificated security which directs that the transfer of the security be registered or that the security be redeemed.\n\n(13) \"Registered form,\" as applied to a certificated security, means a form in which:\n\n(a) The security certificate specifies a person entitled to the security; and\n\n(b) A transfer of the security may be registered upon books maintained for that purpose by or on behalf of the issuer, or the security certificate so states.",
+      "id": "1308.01-instruction",
+      "normalized": "instruction",
+      "scope": "",
+      "section": "1308.01",
+      "source_title": "Section 1308.01 - Definitions - UCC 8-102.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1308.01",
+      "term": "Instruction"
+    },
+    {
+      "definition": "(14) \"Securities intermediary\" means:\n\n(a) A clearing corporation; or\n\n(b) A person, including a bank or broker, that in the ordinary course of its business maintains securities accounts for others and is acting in that capacity.\n\n(15) \"Security,\" except as otherwise provided in section 1308.02 of the Revised Code, means an obligation of an issuer or a share, participation, or other interest in an issuer or in property or an enterprise of an issuer:\n\n(a) Which is represented by a security certificate in bearer or registered form, or the transfer of which may be registered upon books maintained for that purpose by or on behalf of the issuer;\n\n(b) Which is one of a class or series or by its terms is divisible into a class or series of shares, participations, interests, or obligations; and\n\n(c) Which:\n\n(i) Is, or is of a type, dealt in or traded on securities exchanges or securities markets; or\n\n(ii) Is a medium for investment and by its terms expressly provides that it is a security governed by this chapter.",
+      "id": "1308.01-securities-intermediary",
+      "normalized": "securities intermediary",
+      "scope": "",
+      "section": "1308.01",
+      "source_title": "Section 1308.01 - Definitions - UCC 8-102.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1308.01",
+      "term": "Securities intermediary"
+    },
+    {
+      "definition": "(16) \"Security certificate\" means a certificate representing a security.",
+      "id": "1308.01-security-certificate",
+      "normalized": "security certificate",
+      "scope": "",
+      "section": "1308.01",
+      "source_title": "Section 1308.01 - Definitions - UCC 8-102.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1308.01",
+      "term": "Security certificate"
+    },
+    {
+      "definition": "(17) \"Security entitlement\" means the rights and property interest of an entitlement holder with respect to a financial asset specified in sections 1308.51 to 1308.61 of the Revised Code.",
+      "id": "1308.01-security-entitlement",
+      "normalized": "security entitlement",
+      "scope": "",
+      "section": "1308.01",
+      "source_title": "Section 1308.01 - Definitions - UCC 8-102.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1308.01",
+      "term": "Security entitlement"
+    },
+    {
+      "definition": "(18) \"Uncertificated security\" means a security that is not represented by a certificate.\n\n(B) Other definitions applying to this chapter and the sections in which they appear are:\n\n(1) \"Appropriate person,\" as defined in section 1308.23 of the Revised Code.\n\n(2) \"Control,\" as defined in section 1308.24 of the Revised Code.\n\n(3) \"Delivery,\" as defined in section 1308.27 of the Revised Code.\n\n(4) \"Investment company security,\" as defined in section 1308.02 of the Revised Code.\n\n(5) \"Issuer,\" as defined in section 1308.08 of the Revised Code.\n\n(6) \"Overissue,\" as defined in section 1308.03 of the Revised Code.\n\n(7) \"Protected purchaser,\" as defined in section 1308.17 of the Revised Code.\n\n(8) \"Securities account,\" as defined in section 1308.51 of the Revised Code.\n\n(C) In addition, Chapter 1301. of the Revised Code contains general definitions and principles of construction and interpretation applicable throughout this chapter.\n\n(D) The characterization of a person, business, or transaction for purposes of this chapter does not determine the characterization of the person, business, or transaction for purposes of any other law, regulation, or rule.",
+      "id": "1308.01-uncertificated-security",
+      "normalized": "uncertificated security",
+      "scope": "",
+      "section": "1308.01",
+      "source_title": "Section 1308.01 - Definitions - UCC 8-102.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1308.01",
+      "term": "Uncertificated security"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "1308.51",
+      "number": "1308.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1308.51"
+    },
+    {
+      "kind": "section",
+      "label": "1308.02",
+      "number": "1308.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1308.02"
+    },
+    {
+      "kind": "section",
+      "label": "1301.201",
+      "number": "1301.201",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1301.201"
+    },
+    {
+      "kind": "section",
+      "label": "1308.61",
+      "number": "1308.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1308.61"
+    },
+    {
+      "kind": "section",
+      "label": "1308.23",
+      "number": "1308.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1308.23"
+    },
+    {
+      "kind": "section",
+      "label": "1308.24",
+      "number": "1308.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1308.24"
+    },
+    {
+      "kind": "section",
+      "label": "1308.27",
+      "number": "1308.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1308.27"
+    },
+    {
+      "kind": "section",
+      "label": "1308.08",
+      "number": "1308.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1308.08"
+    },
+    {
+      "kind": "section",
+      "label": "1308.03",
+      "number": "1308.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1308.03"
+    },
+    {
+      "kind": "section",
+      "label": "1308.17",
+      "number": "1308.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1308.17"
+    }
+  ],
+  "scraped": "2026-07-02T19:37:06+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1308.01",
+  "title": "Section 1308.01 - Definitions - UCC 8-102."
+}

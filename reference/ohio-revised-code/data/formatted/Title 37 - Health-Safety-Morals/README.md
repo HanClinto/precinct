@@ -1,0 +1,74 @@
+Source: https://codes.ohio.gov/ohio-revised-code/title-37
+Scraped: 2026-07-02T19:50:50+00:00
+
+# Title 37 - Health-Safety-Morals
+
+## Chapters
+
+- Chapter 3701 - Department of Health
+- Chapter 3702 - Health Care Facilities and Services
+- Chapter 3703 - Plumbing
+- Chapter 3704 - Air Pollution Control
+- Chapter 3705 - Vital Statistics
+- Chapter 3706 - Air Quality Development Authority
+- Chapter 3707 - Board of Health
+- Chapter 3709 - Health Districts
+- Chapter 3710 - Asbestos Abatement
+- Chapter 3711 - Maternity and Newborn Care Facilities
+- Chapter 3712 - Hospice Care
+- Chapter 3713 - Bedding and Stuffed Toys
+- Chapter 3714 - Construction and Demolition Debris
+- Chapter 3715 - Pure Food and Drug Law
+- Chapter 3716 - Labeling of Hazardous Substances
+- Chapter 3717 - Retail Food Establishments; Food Service Operations
+- Chapter 3718 - Sewage Treatment Systems
+- Chapter 3719 - Controlled Substances
+- Chapter 3721 - Nursing Homes; Residential Care Facilities
+- Chapter 3722 - Hospitals
+- Chapter 3723 - Radon
+- Chapter 3725 - Plasmapheresis Centers
+- Chapter 3726 - Disposition of Fetal Remains from Surgical Abortion
+- Chapter 3727 - Hospitals
+- Chapter 3728 - Epinephrine Autoinjectors
+- Chapter 3729 - Recreational Vehicle Parks, Recreation Camps, Combined and Temporary Park-camps
+- Chapter 3730 - Tattooing or Body Piercing Services
+- Chapter 3731 - Hotels
+- Chapter 3733 - Agricultural Labor Camps
+- Chapter 3734 - Solid and Hazardous Wastes
+- Chapter 3735 - Metropolitan Housing Authority
+- Chapter 3736 - Recycling, Waste Reduction, Litter Prevention
+- Chapter 3737 - Fire Marshal; Fire Safety
+- Chapter 3739 - Reduced Ignition Propensity Standards for Cigarettes
+- Chapter 3740 - Home Health Service Providers
+- Chapter 3741 - Gasoline; Oils; Paints
+- Chapter 3742 - Lead Abatement
+- Chapter 3743 - Fireworks
+- Chapter 3745 - Environmental Protection Agency
+- Chapter 3746 - Voluntary Action Program
+- Chapter 3747 - Low-level Radioactive Waste Act
+- Chapter 3748 - Radiation Control Program
+- Chapter 3749 - Swimming Pools
+- Chapter 3750 - Emergency Planning
+- Chapter 3751 - Hazardous Substances
+- Chapter 3752 - Cessation of Regulated Operations
+- Chapter 3753 - Risk Management Program
+- Chapter 3761 - Assemblies; Mobs
+- Chapter 3763 - Gaming
+- Chapter 3767 - Nuisances
+- Chapter 3769 - Horse Racing
+- Chapter 3770 - State Lottery
+- Chapter 3772 - Casino Gaming
+- Chapter 3773 - Ohio Athletic Commission
+- Chapter 3774 - Regulation of Fantasy Contests
+- Chapter 3775 - Sports Gaming
+- Chapter 3776 - Environmental Health Specialists
+- Chapter 3781 - Building Standards - General Provisions
+- Chapter 3783 - Building Standards - Electrical Safety Standards
+- Chapter 3791 - Building Standards - Offenses And Penalties
+- Chapter 3792 - Patient Rights and Consent
+- Chapter 3794 - Smoking Ban
+- Chapter 3795 - Assisted Suicide
+- Chapter 3796 - Marijuana Control Program
+- Chapter 3797 - Childhood Sexual Abuse Registration and Community Notification
+- Chapter 3798 - Protected Health Information
+- Chapter 3799 - Solemn Covenant of the States

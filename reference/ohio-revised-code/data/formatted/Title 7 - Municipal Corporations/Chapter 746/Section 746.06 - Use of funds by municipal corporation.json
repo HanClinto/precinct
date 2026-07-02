@@ -1,0 +1,36 @@
+{
+  "glossary": [
+    {
+      "definition": "\"Debt service\" means the principal, interest, and redemption premium payments, and any deposits pertaining thereto, required with respect to bonds.",
+      "id": "746.06-debt-service",
+      "normalized": "debt service",
+      "scope": "(A) As used in this section:",
+      "section": "746.06",
+      "source_title": "Section 746.06 - Use of funds by municipal corporation.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-746.06",
+      "term": "Debt service"
+    },
+    {
+      "definition": "\"Existing infrastructure improvements\" means streets, bridges, municipal buildings, parks and green space, site improvements, recreation facilities, improvements for parking purposes, and any other public facilities that are owned by a municipal corporation with a useful life of five or more years. \"Existing infrastructure improvements\" does not include the construction of new infrastructure improvements.\n\n(B) A municipal corporation that receives disbursements under section 746.05 of the Revised Code shall deposit the moneys received into a fund designated by the fiscal officer of the municipal corporation. The municipal corporation shall spend the funds received solely on the rehabilitation, modernization, or replacement of existing infrastructure improvements. The municipal corporation shall not use the funds received for payment of debt service or for the construction of new infrastructure improvements.\n\nLast updated May 11, 2023 at 5:37 PM",
+      "id": "746.06-existing-infrastructure-improvements",
+      "normalized": "existing infrastructure improvements",
+      "scope": "(A) As used in this section:",
+      "section": "746.06",
+      "source_title": "Section 746.06 - Use of funds by municipal corporation.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-746.06",
+      "term": "Existing infrastructure improvements"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "746.05",
+      "number": "746.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-746.05"
+    }
+  ],
+  "scraped": "2026-07-02T19:33:39+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-746.06",
+  "title": "Section 746.06 - Use of funds by municipal corporation."
+}

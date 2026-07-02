@@ -1,0 +1,74 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-3721
+Scraped: 2026-07-02T19:51:36+00:00
+
+# Chapter 3721 - Nursing Homes; Residential Care Facilities
+
+## Sections
+
+- Section 3721.01 - Nursing home and residential care facility definitions and classifications.
+- Section 3721.011 - Skilled nursing care.
+- Section 3721.012 - Risk agreement.
+- Section 3721.02 - Procedures for inspecting and licensing homes - fees.
+- Section 3721.021 - Review of documents by prospective residents and associated persons.
+- Section 3721.022 - Establishing and maintaining health standards and serving as state survey agency.
+- Section 3721.023 - Party identified in license deemed sole owner of business on premises leased on or before 1-1-70.
+- Section 3721.024 - Nursing facility recognition program.
+- Section 3721.026 - Assignment or transfer of operation of nursing home.
+- Section 3721.027 - Investigation of unresolved complaints found to be valid.
+- Section 3721.03 - Enforcement of provisions - revocation of license.
+- Section 3721.031 - Investigation of complaint concerning home - disclosure of information.
+- Section 3721.032 - Fire marshal to enforce and adopt fire safety rules.
+- Section 3721.04 - Adoption and publication of uniform rules governing operation of homes.
+- Section 3721.041 - Vaccinations to be offered to residents.
+- Section 3721.042 - Excluded grounds for denial of license.
+- Section 3721.05 - Operating home requires license - prohibited activities.
+- Section 3721.051 - County or district - prohibited activities.
+- Section 3721.06 - Prohibition against placement of person in unlicensed home.
+- Section 3721.07 - Requirement for issuance of license - revocation.
+- Section 3721.071 - Home must be equipped with both automatic fire extinguishing and fire alarm systems.
+- Section 3721.072 - Biennial participation in quality improvement projects.
+- Section 3721.074 - Continued operation during application period.
+- Section 3721.08 - Injunctive relief.
+- Section 3721.081 - Summary orders.
+- Section 3721.09 - Local regulations.
+- Section 3721.10 - Residents' rights definitions.
+- Section 3721.11 - Director to adopt rules.
+- Section 3721.12 - Duties of nursing home administrator concerning residents' rights.
+- Section 3721.121 - Criminal records check.
+- Section 3721.122 - Screening and accommodations for sex offenders.
+- Section 3721.13 - Residents' rights.
+- Section 3721.14 - Implementation of residents' rights.
+- Section 3721.141 - Notification of benefit eligibility.
+- Section 3721.15 - Authorization to handle residents' financial affairs.
+- Section 3721.16 - Residents' rights concerning transfer or discharge.
+- Section 3721.161 - Hearing challenging proposed transfer or discharge.
+- Section 3721.162 - Determining whether transfer or discharge complies.
+- Section 3721.17 - Grievance procedure.
+- Section 3721.18 - Attorney general duties.
+- Section 3721.19 - Nonparticipation in state assistance program.
+- Section 3721.20 - Compassionate care visits.
+- Section 3721.21 - Long-term care facility definitions.
+- Section 3721.22 - Reporting abuse or neglect of resident or misappropriation of property.
+- Section 3721.23 - Investigations.
+- Section 3721.24 - Whistleblower protection.
+- Section 3721.25 - Confidentiality.
+- Section 3721.26 - Adoption of rules.
+- Section 3721.28 - Nurses aides training and competency evaluation programs.
+- Section 3721.29 - Orientation program - performance review - in-service education.
+- Section 3721.30 - Competency evaluation program contents.
+- Section 3721.31 - Approving or rejecting programs.
+- Section 3721.32 - State nurse aide registry.
+- Section 3721.33 - Nurse aide training fund.
+- Section 3721.34 - Cooperation with other agencies.
+- Section 3721.35 - Unauthorized practice of nursing.
+- Section 3721.60 - Electronic monitoring in long-term care facilities definitions.
+- Section 3721.61 - Electronic monitoring authorization form.
+- Section 3721.62 - Roommate consent.
+- Section 3721.63 - Form prescribed by facility.
+- Section 3721.64 - Posted notice.
+- Section 3721.65 - No discrimination for use of electronic monitoring device.
+- Section 3721.66 - Tampering and unauthorized use.
+- Section 3721.67 - Rulemaking.
+- Section 3721.68 - Law enforcement exception.
+- Section 3721.69 - [Enacted as R.C. 3721.60 by H.B. 122, 134th General Assembly and recodified as R.C. 3721.69 pursuant to R.C. 103.131] Video-conference visitation.
+- Section 3721.99 - Penalty.

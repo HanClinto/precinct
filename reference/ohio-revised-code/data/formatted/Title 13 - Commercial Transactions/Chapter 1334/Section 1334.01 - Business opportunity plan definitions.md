@@ -1,0 +1,60 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-1334.01
+Scraped: 2026-07-02T19:37:19+00:00
+
+# Section 1334.01 - Business opportunity plan definitions.
+
+**Effective:** September 28, 2012
+
+**Latest Legislation:** Senate Bill 196 - 129th General Assembly
+
+As used in sections 1334.01 to 1334.15 of the Revised Code:
+
+(A) "Seller" means a person who sells or leases a business opportunity plan.
+
+(B) "Purchaser" means a person to whom a business opportunity plan is sold or leased.
+
+(C) "Broker" means a person, other than a seller, who sells or leases, offers for sale or lease, or arranges for the sale or lease of a business opportunity plan for a commission, fee, or anything of value.
+
+(D) "Business opportunity plan" means an agreement in which a purchaser obtains the right to offer, sell, or distribute goods or services under all of the following conditions:
+
+(1) The goods or services are supplied by the seller, a third person with whom the purchaser is required or advised to do business by the seller, or an affiliated person.
+
+(2) The purchaser is required to make an initial payment greater than five hundred dollars, but less than one hundred thousand dollars, to the seller or an affiliated person to begin or maintain the business opportunity plan.
+
+(3) The seller makes any of the following representations:
+
+(a) That the purchaser will be provided with retail outlets or accounts, or assistance in establishing retail outlets or accounts, for the sale or distribution of the goods or services;
+
+(b) That the purchaser will be provided locations, or assistance in finding locations, for vending machines, electronic games, rack displays, or any other equipment or display for use in the sale or distribution of the goods or services;
+
+(c) That the purchaser can earn a profit in excess of the initial payment;
+
+(d) That there is a market for the goods or services;
+
+(e) That there is a buy-back arrangement.
+
+(E) "Person" means an individual, corporation, business trust, estate, trust, limited or general partnership, association, or other business entity.
+
+(F) "Affiliated person" means a person who is described by any of the following:
+
+(1) Controls, is controlled by, or is under common control with, a seller;
+
+(2) Owns, controls, or holds, with the power to vote, ten per cent or more of the outstanding voting securities of a seller;
+
+(3) Has, in common with the seller, one or more partners, officers, directors, trustees, branch managers, or other persons who perform management or policy functions.
+
+(G) "Initial payment" means the total amount a purchaser is obligated to pay prior to or during the first six months after commencing operation of the business opportunity plan. If an agreement sets forth a specific total sale price for purchase of a business opportunity plan, which is to be paid in one or more installments, "initial payment" means the entire total sale price. "Initial payment" also includes the full amount of any promissory note given by a purchaser, or an affiliated person, to the seller, or an affiliated person, prior to or during the first six months after commencing operation of the business opportunity plan. "Initial payment" does not include purchases at bona fide wholesale prices of reasonable quantities of goods or services for resale or lease. "Initial payment" also does not include any payment for sales demonstration equipment and materials, so long as all of the following apply:
+
+(1) The seller or an affiliated person furnishes the sales demonstration equipment and materials to the purchaser at cost, and does not realize any profit, commission, fee, rebate, or other benefit from furnishing the equipment and materials.
+
+(2) The total price of the sales demonstration equipment and materials is less than five hundred dollars.
+
+(3) The sales demonstration equipment and materials are for use in making sales, and are not for resale.
+
+(H) "Business day" means any calendar day that is not Sunday or a legal holiday. "Legal holiday" has the same meaning as in section 1.14 of the Revised Code.
+
+(I) "Buy-back arrangement" means that the seller, an affiliated person, or other person will do either of the following:
+
+(1) Refund the initial payment or return the promissory note upon termination or nonrenewal of the business opportunity plan;
+
+(2) Purchase any finished goods that the purchaser makes, produces, fabricates, grows, or breeds utilizing the goods or services supplied by the seller or other person enumerated in division (D)(1) of this section.

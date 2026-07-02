@@ -1,0 +1,76 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-2305.51
+Scraped: 2026-07-02T19:43:12+00:00
+
+# Section 2305.51 - Mental health professional or organization not liable for violent behavior by client or patient.
+
+**Effective:** April 9, 2025
+
+**Latest Legislation:** Senate Bill 95 - 135th General Assembly
+
+(A)(1) As used in this section:
+
+(a) "Civil Rights" has the same meaning as in section 5122.301 of the Revised Code.
+
+(b) "Mental health client or patient" means an individual who is receiving mental health services from a mental health professional or organization.
+
+(c) "Mental health organization" means an organization that engages one or more mental health professionals to provide mental health services to one or more mental health clients or patients.
+
+(d) "Mental health professional" means an individual who is licensed, certified, or registered under the Revised Code, or otherwise authorized in this state, to provide mental health services for compensation, remuneration, or other personal gain.
+
+(e) "Mental health service" means a service provided to an individual or group of individuals involving the application of medical, psychiatric, psychological, professional counseling, social work, marriage and family therapy, or nursing principles or procedures to either of the following:
+
+(i) The assessment, diagnosis, prevention, treatment, or amelioration of mental, emotional, psychiatric, psychological, or psychosocial disorders or diseases, as described in the most recent edition of the diagnostic and statistical manual of mental disorders published by the American psychiatric association;
+
+(ii) The assessment or improvement of mental, emotional, psychiatric, psychological, or psychosocial adjustment or functioning, regardless of whether there is a diagnosable, pre-existing disorder or disease.
+
+(f) "Knowledgeable person" means an individual who has reason to believe that a mental health client or patient has the intent and ability to carry out an explicit threat of inflicting imminent and serious physical harm to or causing the death of a clearly identifiable potential victim or victims and who is either an immediate family member of the client or patient or an individual who otherwise personally knows the client or patient.
+
+(g) "Advanced practice registered nurse" has the same meaning as in section 4723.01 of the Revised Code.
+
+(h) "Hospital" has the same meaning as in section 2305.25 of the Revised Code.
+
+(i) "Physician" means an individual authorized under Chapter 4731. of the Revised Code to practice medicine and surgery or osteopathic medicine and surgery.
+
+(j) "Physician assistant" has the same meaning as in section 4730.01 of the Revised Code.
+
+(k) "Certified mental health assistant" has the same meaning as in section 4772.01 of the Revised Code.
+
+(2) For the purpose of this section, in the case of a threat to a readily identifiable structure, "clearly identifiable potential victim" includes any potential occupant of the structure.
+
+(B) A mental health professional or mental health organization may be held liable in damages in a civil action, or may be made subject to disciplinary action by an entity with licensing or other regulatory authority over the professional or organization, for serious physical harm or death resulting from failing to predict, warn of, or take precautions to provide protection from the violent behavior of a mental health client or patient, only if the client or patient or a knowledgeable person has communicated to the professional or organization an explicit threat of inflicting imminent and serious physical harm to or causing the death of one or more clearly identifiable potential victims, the professional or organization has reason to believe that the client or patient has the intent and ability to carry out the threat, and the professional or organization fails to take one or more of the following actions in a timely manner:
+
+(1) Exercise any authority the professional or organization possesses to hospitalize the client or patient on an emergency basis pursuant to section 5122.10 of the Revised Code;
+
+(2) Exercise any authority the professional or organization possesses to have the client or patient involuntarily or voluntarily hospitalized under Chapter 5122. of the Revised Code;
+
+(3) Establish and undertake a documented treatment plan that is reasonably calculated, according to appropriate standards of professional practice, to eliminate the possibility that the client or patient will carry out the threat, and, concurrent with establishing and undertaking the treatment plan, initiate arrangements for a second opinion risk assessment through a management consultation about the treatment plan with, in the case of a mental health organization, the clinical director of the organization, or, in the case of a mental health professional who is not acting as part of a mental health organization, any mental health professional who is licensed to engage in independent practice;
+
+(4) Communicate to a law enforcement agency with jurisdiction in the area where each potential victim resides, where a structure threatened by a mental health client or patient is located, or where the mental health client or patient resides, and if feasible, communicate to each potential victim or a potential victim's parent or guardian if the potential victim is a minor or has been adjudicated incompetent, all of the following information:
+
+(a) The nature of the threat;
+
+(b) The identity of the mental health client or patient making the threat;
+
+(c) The identity of each potential victim of the threat.
+
+(C) All of the following apply when a mental health professional or organization takes one or more of the actions set forth in divisions (B)(1) to (4) of this section:
+
+(1) The mental health professional or organization shall consider each of the alternatives set forth and shall document the reasons for choosing or rejecting each alternative.
+
+(2) The mental health professional or organization may give special consideration to those alternatives which, consistent with public safety, would least abridge the rights of the mental health client or patient established under the Revised Code, including the rights specified in sections 5122.27 to 5122.31 of the Revised Code.
+
+(3) The mental health professional or organization is not required to take an action that, in the exercise of reasonable professional judgment, would physically endanger the professional or organization, increase the danger to a potential victim, or increase the danger to the mental health client or patient.
+
+(4) The mental health professional or organization is not liable in damages in a civil action, and shall not be made subject to disciplinary action by any entity with licensing or other regulatory authority over the professional or organization, for disclosing any confidential information about a mental health client or patient that is disclosed for the purpose of taking any of the actions.
+
+(D) Notwithstanding any other provision of the Revised Code, a physician, physician assistant, advanced practice registered nurse, certified mental health assistant, or hospital is not liable in damages in a civil action, and shall not be made subject to disciplinary action by any entity with licensing or other regulatory authority, for doing either of the following:
+
+(1) Failing to discharge or to allow a patient to leave the facility if the physician, physician assistant, advanced practice registered nurse, certified mental health assistant, or hospital believes in the good faith exercise of professional medical, advanced practice registered nursing, physician assistant, or certified mental health assistant judgment according to appropriate standards of professional practice that the patient has a mental health condition that threatens the safety of the patient or others;
+
+(2) Discharging a patient whom the physician, physician assistant, advanced practice registered nurse, certified mental health assistant, or hospital believes in the good faith exercise of professional medical, advanced practice registered nursing, physician assistant, or certified mental health assistant judgment according to appropriate standards of professional practice not to have a mental health condition that threatens the safety of the patient or others.
+
+(E) The immunities from civil liability and disciplinary action conferred by this section are in addition to and not in limitation of any immunity conferred on a mental health professional or organization or on a physician, physician assistant, advanced practice registered nurse, certified mental health assistant, or hospital by any other section of the Revised Code or by judicial precedent.
+
+(F) This section does not affect the civil rights of a mental health client or patient under Ohio or federal law.
+
+Last updated January 28, 2025 at 12:37 PM

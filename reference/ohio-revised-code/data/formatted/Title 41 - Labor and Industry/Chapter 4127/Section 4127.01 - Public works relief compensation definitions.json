@@ -1,0 +1,52 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Work-relief employee\" means any person engaged in any public relief employment, and receiving \"work-relief,\" who is under the supervision and control of any employer mentioned in this section or any agency of such employer.",
+      "id": "4127.01-work-relief-employee",
+      "normalized": "work-relief employee",
+      "scope": "As used in sections 4127.01 to 4127.14 of the Revised Code:",
+      "section": "4127.01",
+      "source_title": "Section 4127.01 - Public works relief compensation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4127.01",
+      "term": "Work-relief employee"
+    },
+    {
+      "definition": "(B) \"Work-relief\" means public relief given in the form of public funds or goods, on the basis of the budgetary needs of the work-relief employee and his dependents, in exchange for any service or labor rendered on or in connection with any public relief employment.",
+      "id": "4127.01-work-relief",
+      "normalized": "work-relief",
+      "scope": "As used in sections 4127.01 to 4127.14 of the Revised Code:",
+      "section": "4127.01",
+      "source_title": "Section 4127.01 - Public works relief compensation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4127.01",
+      "term": "Work-relief"
+    },
+    {
+      "definition": "(C) \"Employer\" means each county, municipal corporation, township, school district, the state, and the state relief commission or any other state agency having supervision or control of work-relief employees, either directly or through agencies.",
+      "id": "4127.01-employer",
+      "normalized": "employer",
+      "scope": "As used in sections 4127.01 to 4127.14 of the Revised Code:",
+      "section": "4127.01",
+      "source_title": "Section 4127.01 - Public works relief compensation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4127.01",
+      "term": "Employer"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "4127.01",
+      "number": "4127.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4127.01"
+    },
+    {
+      "kind": "section",
+      "label": "4127.14",
+      "number": "4127.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4127.14"
+    }
+  ],
+  "scraped": "2026-07-02T20:04:22+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4127.01",
+  "title": "Section 4127.01 - Public works relief compensation definitions."
+}

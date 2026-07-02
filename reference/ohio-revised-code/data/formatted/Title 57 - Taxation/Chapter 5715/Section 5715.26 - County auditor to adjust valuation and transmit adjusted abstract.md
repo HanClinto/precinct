@@ -1,0 +1,20 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5715.26
+Scraped: 2026-07-02T20:14:34+00:00
+
+# Section 5715.26 - County auditor to adjust valuation and transmit adjusted abstract.
+
+**Effective:** March 20, 2026
+
+**Latest Legislation:** House Bill 124 - 136th General Assembly
+
+(A)(1) Upon receiving the statement required by section 5715.25 of the Revised Code, the county auditor shall forthwith add to or deduct from each tract, lot, or parcel of real property or class of real property the required percentage or amount of the valuation thereof, adding or deducting any sum less than five dollars so that the value of any separate tract, lot, or parcel of real property shall be ten dollars or some multiple thereof.
+
+(2) After making the additions or deductions required by this section, the auditor shall transmit to the tax commissioner the appropriate adjusted abstract of the real property of each taxing district in the auditor's county in which an adjustment was required.
+
+(3) If an auditor fails to comply with division (A)(2) of this section within ninety days after either the auditor receives the statement required by section 5715.25 of the Revised Code or the board of tax appeals enters a final order regarding the appeal of a commissioner determination, the commissioner shall withhold from such county or taxing district therein fifty per cent of its share in the distribution of state revenues to local governments pursuant to sections 5747.50 to 5747.55 of the Revised Code and shall direct the department of education and workforce to withhold therefrom fifty per cent of state revenues to school districts pursuant to Chapter 3317. of the Revised Code. The commissioner shall withhold the distribution of such funds until such county auditor has complied with this division, and the department shall withhold the distribution of such funds until the commissioner has notified the department that such county auditor has complied with this division.
+
+(B)(1) If an appeal is filed under section 5715.251 of the Revised Code, the county auditor, treasurer, and all other officers shall forthwith proceed with the levy and collection of the current year's taxes in the manner prescribed by law. In the case of an appeal filed under division (A)(1) of that section, the taxes shall be determined and collected as if the commissioner had determined under section 5715.24 of the Revised Code that the real property and the various classes thereof in the county as shown in the auditor's abstract were assessed for taxation and the true and agricultural use values were recorded on the agricultural land tax list as required by law. In the case of an appeal filed under division (A)(2) of that section, the taxes shall be determined and collected as if the commissioner had determined any change in the abstract of real property of a taxing district under section 5715.24 of the Revised Code by using the representative sampling of sales provided by the county auditor without adjustment.
+
+(2) If as a result of the appeal to the board it is finally determined that adjustments are required to an auditor's representative sampling of sales, that all real property and the various classes thereof have not been assessed as required by law, or that the values set forth in the agricultural land tax list do not correctly reflect the true and agricultural use values of the lands contained therein, the county auditor shall forthwith add to or deduct from each tract, lot, or parcel of real property or class of real property the required percentage or amount of the valuation in accordance with the order of the board or judgment of the court to which the board's order was appealed, and the taxes on each tract, lot, or parcel and the percentages required by section 319.301 of the Revised Code shall be recomputed using the valuation as finally determined. The order or judgment making the final determination shall prescribe the time and manner for collecting, crediting, or refunding the resultant increases or decreases in taxes.
+
+Last updated January 13, 2026 at 2:32 PM

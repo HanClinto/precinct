@@ -1,0 +1,68 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Telecommunications carrier\" has the same meaning as in section 4927.01 of the Revised Code.",
+      "id": "5515.10-telecommunications-carrier",
+      "normalized": "telecommunications carrier",
+      "scope": "(A) As used in this section:",
+      "section": "5515.10",
+      "source_title": "Section 5515.10 - Abandoned telecommunications or utility structures.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5515.10",
+      "term": "Telecommunications carrier"
+    },
+    {
+      "definition": "(2) \"Telecommunications or utility structure\" means any facility, line, pipe, cable, or other equipment used by a telecommunications carrier or utility provider to provide service.",
+      "id": "5515.10-telecommunications-or-utility-structure",
+      "normalized": "telecommunications or utility structure",
+      "scope": "(A) As used in this section:",
+      "section": "5515.10",
+      "source_title": "Section 5515.10 - Abandoned telecommunications or utility structures.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5515.10",
+      "term": "Telecommunications or utility structure"
+    },
+    {
+      "definition": "(3) \"Utility provider\" means any entity described in section 4905.03 of the Revised Code, regardless of whether the entity is a public utility under section 4905.02 of the Revised Code.",
+      "id": "5515.10-utility-provider",
+      "normalized": "utility provider",
+      "scope": "(A) As used in this section:",
+      "section": "5515.10",
+      "source_title": "Section 5515.10 - Abandoned telecommunications or utility structures.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5515.10",
+      "term": "Utility provider"
+    },
+    {
+      "definition": "(4) \"Abandoned\" does not include a change in ownership of the telecommunications or utility structure.\n\n(B) The department of transportation shall make reasonable attempts to identify the owner of an abandoned telecommunications or utility structure in, upon, under, or otherwise occupying a road or highway of the state highway system or right-of-way.\n\n(C) If all reasonable attempts to identify the owner under division (A) of this section have failed, the department may remove or cause the removal of the abandoned telecommunications or utility structure. The department may retain a third party to remove the abandoned telecommunications or utility structure.\n\nLast updated May 16, 2025 at 5:15 PM",
+      "id": "5515.10-abandoned",
+      "normalized": "abandoned",
+      "scope": "(A) As used in this section:",
+      "section": "5515.10",
+      "source_title": "Section 5515.10 - Abandoned telecommunications or utility structures.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5515.10",
+      "term": "Abandoned"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "4927.01",
+      "number": "4927.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4927.01"
+    },
+    {
+      "kind": "section",
+      "label": "4905.03",
+      "number": "4905.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.03"
+    },
+    {
+      "kind": "section",
+      "label": "4905.02",
+      "number": "4905.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.02"
+    }
+  ],
+  "scraped": "2026-07-02T20:12:38+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5515.10",
+  "title": "Section 5515.10 - Abandoned telecommunications or utility structures."
+}

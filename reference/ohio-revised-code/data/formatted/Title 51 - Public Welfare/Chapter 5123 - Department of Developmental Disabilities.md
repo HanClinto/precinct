@@ -1,0 +1,189 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-5123
+Scraped: 2026-07-02T20:10:53+00:00
+
+# Chapter 5123 - Department of Developmental Disabilities
+
+## Sections
+
+- Section 5123.01 - Department of developmental disabilities definitions.
+- Section 5123.011 - Adoption of rules.
+- Section 5123.012 - Eligibility determinations.
+- Section 5123.013 - Application of chapter.
+- Section 5123.014 - Reference to department or director and other terms.
+- Section 5123.02 - Duties of department.
+- Section 5123.021 - Determining need for nursing facility care.
+- Section 5123.022 - State policy regarding community employment for individuals with developmental disabilities.
+- Section 5123.023 - Employment first task force.
+- Section 5123.025 - Technology first policy.
+- Section 5123.026 - Technology first task force.
+- Section 5123.03 - Management of institutions and facilities.
+- Section 5123.031 - Nonpartisan management.
+- Section 5123.032 - Closure of a developmental center.
+- Section 5123.033 - Department program fee fund.
+- Section 5123.034 - Developmental centers services and cost recovery.
+- Section 5123.04 - Director of department - powers and duties.
+- Section 5123.042 - Plans for development or modification of residential services; rules.
+- Section 5123.043 - Complaint resolution.
+- Section 5123.044 - Determination of violation of rights; assistance to individuals.
+- Section 5123.045 - Certification and licensing of providers.
+- Section 5123.047 - Department payment of nonfederal share of certain expenditures.
+- Section 5123.048 - Payment of nonfederal share of county medicaid expenditures.
+- Section 5123.049 - Rules governing the authorization and payment of home and community-based services, medicaid case management services, and habilitation center services.
+- Section 5123.0410 - Individual receiving services moving to new county.
+- Section 5123.0411 - Mandamus.
+- Section 5123.0412 - ODDD administration and oversight fund.
+- Section 5123.0413 - Rules to applicable in event county tax levy for services for individuals with developmental disabilities fails.
+- Section 5123.0414 - Methods of notice by department.
+- Section 5123.0415 - Notification of change of address.
+- Section 5123.0416 - Expenditure and allocation of appropriated fees.
+- Section 5123.0417 - Programs for person under 22 with intensive behavioral needs.
+- Section 5123.0418 - Additional uses of funds.
+- Section 5123.0419 - Interagency workgroup on autism.
+- Section 5123.0420 - Training and certification program for individuals who provide evidence-based interventions to individuals with an autism spectrum disorder.
+- Section 5123.0424 - Reimbursement of travel expenses of official members of workgroups.
+- Section 5123.05 - Audits of services and programs.
+- Section 5123.051 - Payment agreements with providers.
+- Section 5123.06 - Divisions of department.
+- Section 5123.07 - Bureau of research - duties.
+- Section 5123.08 - Classified and unclassified appointments.
+- Section 5123.081 - Criminal records check.
+- Section 5123.09 - Managing officer of institution - powers and duties.
+- Section 5123.091 - Changing purpose and use of institutions.
+- Section 5123.092 - Citizen's advisory council.
+- Section 5123.093 - Duties of citizen's advisory council.
+- Section 5123.10 - Bond of employees.
+- Section 5123.11 - Residency medical and psychological training programs.
+- Section 5123.12 - Residency training programs for students enrolled in appropriate care programs.
+- Section 5123.122 - Support rate.
+- Section 5123.13 - Special police officers.
+- Section 5123.14 - Investigations.
+- Section 5123.15 - Appointing special agents and persons.
+- Section 5123.16 - Valid supported living certificate required.
+- Section 5123.161 - Application for supported living certificate.
+- Section 5123.162 - Applicant survey to determine if standards met.
+- Section 5123.163 - Term of supported living certificate.
+- Section 5123.164 - Renewal of supported living certificate.
+- Section 5123.165 - Provision of supported living and residence.
+- Section 5123.166 - Adjudication order against certificate applicant or holder.
+- Section 5123.167 - Reapplication after negative adjudication on certificate.
+- Section 5123.168 - Termination of certificate for failure to bill for services.
+- Section 5123.169 - Issuance of supported living certificate.
+- Section 5123.1610 - Termination or refusal of provider agreement for supported living.
+- Section 5123.1611 - Rules governing supported living program.
+- Section 5123.1612 - Summary order suspending supported living certificate holder's authority to provide supported living.
+- Section 5123.1613 - Guardian supported living exclusion.
+- Section 5123.17 - Care outside institution.
+- Section 5123.171 - Respite care services.
+- Section 5123.18 - Contracts with person or agency to provide services.
+- Section 5123.19 - Operation of residential facilities.
+- Section 5123.191 - Appointing receiver to operate residential facility.
+- Section 5123.192 - Licensing for ICF/IID after 7/1/2013.
+- Section 5123.193 - Searchable database of vacancies in licensed residential facilities.
+- Section 5123.194 - Waiving support collection requirements to facilitate independent living.
+- Section 5123.196 - Maximum number of beds.
+- Section 5123.197 - Initial residential facility license or modification of existing facility license not required in certain instances.
+- Section 5123.198 - Reduction in number of residents.
+- Section 5123.20 - Prohibiting operation without license.
+- Section 5123.21 - Transfers.
+- Section 5123.22 - Appropriating property.
+- Section 5123.221 - Cultivating land - purchases from other institutions.
+- Section 5123.24 - Businesses located near institutions.
+- Section 5123.25 - Purchasing supplies.
+- Section 5123.26 - Funds.
+- Section 5123.27 - Holding property in trust.
+- Section 5123.28 - Handling funds belonging to residents.
+- Section 5123.29 - Industrial and entertainment fund - commissary fund.
+- Section 5123.30 - Books and accounts.
+- Section 5123.31 - Confidentiality.
+- Section 5123.33 - Annual report.
+- Section 5123.34 - Liberal construction of chapter.
+- Section 5123.35 - Ohio developmental disabilities council.
+- Section 5123.351 - Eligibility for state reimbursement of expenses incurred by facilities and programs.
+- Section 5123.36 - State participation in developmental disability construction programs.
+- Section 5123.37 - Application to sell facility and acquire replacement.
+- Section 5123.371 - Payment to director after sale of facility.
+- Section 5123.372 - Deadline for acquisition of replacement facility.
+- Section 5123.373 - Agreement to pay percentage of cost of acquisition.
+- Section 5123.374 - Rescission of approval of application.
+- Section 5123.375 - Developmental disabilities community capital replacement fund.
+- Section 5123.376 - Changing terms of agreement regarding construction, acquisition, or renovation of residential facility.
+- Section 5123.377 - Authority to change terms of agreement regarding the construction, acquisition, or renovation of community adult facility.
+- Section 5123.378 - Authority to change terms of agreement regarding the construction, acquisition, or renovation of community early childhood facility.
+- Section 5123.38 - Effect of transfer from supported services to commitment to ICF/IID.
+- Section 5123.39 - Patient clothing.
+- Section 5123.40 - Services fund for individuals with developmental disabilities.
+- Section 5123.41 - Administration of prescribed medications, performance of health-related activities, tube feeding definitions.
+- Section 5123.42 - Authorization for workers to administer prescribed medications, perform health-related activities, or perform tube feedings.
+- Section 5123.421 - Complaints and investigations.
+- Section 5123.422 - Immunity.
+- Section 5123.423 - Family members administering medications or performing health-related activities.
+- Section 5123.43 - Training courses for administration of prescribed medications and performance of health-related activities.
+- Section 5123.44 - Training registered nurses to provide training courses for department personnel.
+- Section 5123.441 - Certificates to provide training courses.
+- Section 5123.45 - Program for issuing of certificates.
+- Section 5123.451 - Registry listing personnel and registered nurses holding valid certificates.
+- Section 5123.452 - Adjudication orders.
+- Section 5123.46 - Rules adopted in conjunction with board of nursing and the Ohio nurses association.
+- Section 5123.47 - Authorizing in-home worker to perform health care tasks.
+- Section 5123.50 - Registry of employees guilty of abuse, neglect or misappropriation definitions.
+- Section 5123.51 - Reviewing report of abuse, neglect or misappropriation.
+- Section 5123.52 - Registry of employees guilty of abuse, neglect or misappropriation.
+- Section 5123.53 - Petitioning for removal from registry.
+- Section 5123.54 - Rehabilitation standard rules.
+- Section 5123.541 - Employees engaging in sexual conduct or contact with individual under department care.
+- Section 5123.542 - Notice explaining prohibited conduct.
+- Section 5123.55 - Protective services definitions.
+- Section 5123.56 - Statewide system of protective service.
+- Section 5123.57 - Evaluation before guardianship or trusteeship begins.
+- Section 5123.58 - Nomination of protective services agency as guardian, trustee or protector.
+- Section 5123.59 - Bond.
+- Section 5123.60 - Ohio protection and advocacy system.
+- Section 5123.601 - Access to information by staff and attorneys.
+- Section 5123.602 - Compensation in class action cases.
+- Section 5123.603 - Joint committee to examine protection and advocacy system.
+- Section 5123.61 - Reporting abuse, neglect, and other major unusual incidents.
+- Section 5123.611 - Reviewing report of abuse, neglect, or a major unusual incident.
+- Section 5123.612 - Reporting unusual incidents.
+- Section 5123.613 - Subject of report or representative has right to report and related records.
+- Section 5123.614 - Procedure following report of major unusual incident.
+- Section 5123.62 - Rights of persons with a developmental disability.
+- Section 5123.621 - Legislative intent regarding adult day services.
+- Section 5123.63 - Distributing copies of rights.
+- Section 5123.64 - Enforcement duties.
+- Section 5123.65 - Self-administration of medication.
+- Section 5123.651 - Assistance in self-administration of prescribed medication.
+- Section 5123.67 - Liberal construction of chapter.
+- Section 5123.69 - Voluntary admission.
+- Section 5123.691 - Admission to specialized treatment unit for minors.
+- Section 5123.70 - Requesting release of voluntary resident.
+- Section 5123.701 - Application for short-term care.
+- Section 5123.71 - Affidavit for involuntary institutionalization.
+- Section 5123.711 - Assessment of individual's needs.
+- Section 5123.72 - Presentation of case for state.
+- Section 5123.73 - Notice of hearing.
+- Section 5123.74 - Emergency institutionalization by probate court.
+- Section 5123.75 - Probable cause hearing.
+- Section 5123.76 - Full hearing.
+- Section 5123.77 - Temporary holding.
+- Section 5123.79 - Discharging involuntary resident.
+- Section 5123.80 - Trial visits.
+- Section 5123.801 - Expenses of trial visit or discharge.
+- Section 5123.81 - Involuntarily committed resident absent without leave.
+- Section 5123.811 - Reporting change of location, death or condition of resident.
+- Section 5123.82 - Application for habilitation and care of discharged resident.
+- Section 5123.83 - Civil and public or private employment rights.
+- Section 5123.84 - Free communication with others by residents.
+- Section 5123.85 - Habilitation plan.
+- Section 5123.851 - Procedure upon discharge.
+- Section 5123.86 - Consent for medical treatment.
+- Section 5123.87 - Labor or tasks performed by residents.
+- Section 5123.88 - Writ of habeas corpus.
+- Section 5123.89 - Confidentiality.
+- Section 5123.90 - Attorney general duties.
+- Section 5123.91 - Immunity.
+- Section 5123.92 - Venue.
+- Section 5123.93 - Guardianship of minor.
+- Section 5123.95 - Transmission of court papers.
+- Section 5123.96 - Payment of costs, fees, and expenses of proceedings.
+- Section 5123.97 - Record of probate judge.
+- Section 5123.99 - Penalty.

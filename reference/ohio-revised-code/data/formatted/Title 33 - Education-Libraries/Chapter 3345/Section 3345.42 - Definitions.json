@@ -1,0 +1,54 @@
+{
+  "glossary": [
+    {
+      "definition": "\"Service member\" means a person who is serving in the armed forces of the United States.",
+      "id": "3345.42-service-member",
+      "normalized": "service member",
+      "scope": "As used in sections 3345.421 , 3345.422 , 3345.423 , and 3345.424 of the Revised Code:",
+      "section": "3345.42",
+      "source_title": "Section 3345.42 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3345.42",
+      "term": "Service member"
+    },
+    {
+      "definition": "\"Veteran\" means any person who has completed service in the armed forces, including the national guard of any state or a reserve component of the armed forces, and who has been discharged under honorable conditions from the armed forces or who has been transferred to the reserve with evidence of satisfactory service.",
+      "id": "3345.42-veteran",
+      "normalized": "veteran",
+      "scope": "As used in sections 3345.421 , 3345.422 , 3345.423 , and 3345.424 of the Revised Code:",
+      "section": "3345.42",
+      "source_title": "Section 3345.42 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3345.42",
+      "term": "Veteran"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3345.421",
+      "number": "3345.421",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3345.421"
+    },
+    {
+      "kind": "section",
+      "label": "3345.422",
+      "number": "3345.422",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3345.422"
+    },
+    {
+      "kind": "section",
+      "label": "3345.423",
+      "number": "3345.423",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3345.423"
+    },
+    {
+      "kind": "section",
+      "label": "3345.424",
+      "number": "3345.424",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3345.424"
+    }
+  ],
+  "scraped": "2026-07-02T19:49:49+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3345.42",
+  "title": "Section 3345.42 - Definitions."
+}

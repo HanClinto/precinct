@@ -1,0 +1,14 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-1309.303
+Scraped: 2026-07-02T19:37:07+00:00
+
+# Section 1309.303 - Law governing perfection and priority of security interests in goods covered by a certificate of title - UCC 9-303.
+
+**Effective:** July 1, 2001
+
+**Latest Legislation:** Senate Bill 74 - 124th General Assembly
+
+(A) This section applies to goods covered by a certificate of title, even if there is no other relationship between the jurisdiction under whose certificate of title the goods are covered and the goods or the debtor.
+
+(B) Goods become covered by a certificate of title when a valid application for the certificate of title and the applicable fee are delivered to the appropriate authority. Goods cease to be covered by a certificate of title at the earlier of the time the certificate of title ceases to be effective under the law of the issuing jurisdiction or the time the goods become covered subsequently by a certificate of title issued by another jurisdiction.
+
+(C) The local law of the jurisdiction under whose certificate of title the goods are covered governs perfection, the effect of perfection or nonperfection, and the priority of a security interest in goods covered by a certificate of title from the time the goods become covered by the certificate of title until the goods cease to be covered by the certificate of title.

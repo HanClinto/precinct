@@ -1,0 +1,52 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-956.01
+Scraped: 2026-07-02T19:35:32+00:00
+
+# Section 956.01 - Definitions.
+
+**Effective:** October 17, 2019
+
+**Latest Legislation:** House Bill 166 - 133rd General Assembly
+
+As used in this chapter:
+
+"Accredited veterinarian" means a veterinarian accredited by the United States department of agriculture.
+
+"Adult dog" means a dog that is twelve months of age or older.
+
+"Animal rescue for dogs" means an individual or organization recognized by the director of agriculture that keeps, houses, and maintains dogs and that is dedicated to the welfare, health, safety, and protection of dogs, provided that the individual or organization does not operate for profit, does not sell dogs for a profit, does not breed dogs, does not sell dogs to a dog broker or pet store, and does not purchase more than nine dogs in any given calendar year unless the dogs are purchased from a dog warden appointed under Chapter 955. of the Revised Code, a humane society, or another animal rescue for dogs. "Animal rescue for dogs" includes an individual or organization that offers spayed or neutered dogs for adoption and charges reasonable adoption fees to cover the costs of the individual or organization, including, but not limited to, costs related to spaying or neutering dogs.
+
+"Animal shelter for dogs" means a facility that keeps, houses, and maintains dogs such as a dog pound operated by a municipal corporation, or by a county under Chapter 955. of the Revised Code, or that is operated by a humane society, animal welfare society, society for the prevention of cruelty to animals, or other nonprofit organization that is devoted to the welfare, protection, and humane treatment of dogs and other animals.
+
+"Boarding kennel" means an establishment operating for profit that keeps, houses, and maintains dogs solely for the purpose of providing shelter, care, and feeding of the dogs in return for a fee or other consideration.
+
+"Breeding dog" means an unspayed adult female dog that is primarily used for producing offspring.
+
+"Dog broker" means a person who buys, sells, or offers to sell dogs at wholesale for resale to another or who sells or gives one or more dogs to a pet store annually. "Dog broker" does not include an animal rescue for dogs, an animal shelter for dogs, a humane society, a medical kennel for dogs, a research kennel for dogs, a pet store, or a veterinarian.
+
+"Enrichment" means any modification in the environment of a confined dog that seeks to enhance the dog's physical and psychological well-being by providing stimuli that meets the dog's breed-specific needs.
+
+"Exercise" means activity that allows a dog to extend to full stride, play, and engage in other types of mentally stimulating and social behaviors.
+
+"High volume breeder" means an establishment that keeps, houses, and maintains six or more breeding dogs and does at least one of the following:
+
+(1) In return for a fee or other consideration, sells five or more adult dogs or puppies in any calendar year to dog brokers or pet stores;
+
+(2) In return for a fee or other consideration, sells forty or more puppies in any calendar year to the public; or
+
+(3) Keeps, houses, and maintains, at any given time in a calendar year, more than forty puppies that are under four months of age, that have been bred on the premises of the establishment, and that have been primarily kept, housed, and maintained from birth on the premises of the establishment.
+
+"Humane society" means an organization that is organized under section 1717.05 of the Revised Code.
+
+"Environmental division of the Franklin county municipal court" means the environmental division of the Franklin county municipal court created in section 1901.011 of the Revised Code.
+
+"Medical kennel for dogs" means a facility that is maintained by a veterinarian and operated primarily for the treatment of sick or injured dogs.
+
+"Pet store" means an individual retail store to which both of the following apply: the store sells forty or more puppies or adult dogs in any calendar year to the public; and with regard to the sale of a dog from the store, the sales person, the buyer of a dog, and the dog for sale are physically present during the sales transaction so that the buyer may personally observe the dog and help ensure its health prior to taking custody. "Pet store" does not include an animal rescue for dogs, an animal shelter for dogs, a humane society, a medical kennel for dogs, a research kennel for dogs, or a high volume breeder or any other dog breeder that maintains and sells dogs from the same premises where the dogs are bred and reared.
+
+"Puppy" means a dog that is under twelve months of age.
+
+"Research kennel for dogs" means a facility housing dogs that is maintained exclusively for research purposes.
+
+"Thermoneutral zone" means the range of ambient temperature in which a dog is able to maintain normal body temperature without a change in metabolic rate.
+
+"Veterinarian" means either a veterinarian licensed in this state under Chapter 4741. of the Revised Code or a veterinarian licensed out of this state by an applicable state entity.

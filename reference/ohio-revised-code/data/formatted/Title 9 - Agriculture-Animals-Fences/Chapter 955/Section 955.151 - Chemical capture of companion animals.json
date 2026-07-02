@@ -1,0 +1,74 @@
+{
+  "glossary": [
+    {
+      "definition": "\"Animal shelter\" has the same meaning as in section 4729.01 of the Revised Code.",
+      "id": "955.151-animal-shelter",
+      "normalized": "animal shelter",
+      "scope": "(A) As used in this section:",
+      "section": "955.151",
+      "source_title": "Section 955.151 - Chemical capture of companion animals.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-955.151",
+      "term": "Animal shelter"
+    },
+    {
+      "definition": "\"Certified officer\" means an individual who meets the requirements established under section 4729.534 of the Revised Code.",
+      "id": "955.151-certified-officer",
+      "normalized": "certified officer",
+      "scope": "(A) As used in this section:",
+      "section": "955.151",
+      "source_title": "Section 955.151 - Chemical capture of companion animals.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-955.151",
+      "term": "Certified officer"
+    },
+    {
+      "definition": "\"Chemical capture\" means using an anesthetic drug or sedative on a companion animal to do any of the following:\n\n(1) Immobilize and capture;\n\n(2) Attempt to immobilize and capture;\n\n(3) Attempt to immobilize or capture.",
+      "id": "955.151-chemical-capture",
+      "normalized": "chemical capture",
+      "scope": "(A) As used in this section:",
+      "section": "955.151",
+      "source_title": "Section 955.151 - Chemical capture of companion animals.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-955.151",
+      "term": "Chemical capture"
+    },
+    {
+      "definition": "\"Companion animal\" has the same meaning as in section 959.131 of the Revised Code.\n\n(B) A certified officer appointed or employed by an animal shelter or county dog warden that holds a chemical capture classification granted under section 4729.533 of the Revised Code may, in accordance with that section and rules adopted under it, chemically capture a companion animal to limit injury to the officer, the animal or another animal, or the public.",
+      "id": "955.151-companion-animal",
+      "normalized": "companion animal",
+      "scope": "(A) As used in this section:",
+      "section": "955.151",
+      "source_title": "Section 955.151 - Chemical capture of companion animals.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-955.151",
+      "term": "Companion animal"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "4729.01",
+      "number": "4729.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.01"
+    },
+    {
+      "kind": "section",
+      "label": "4729.534",
+      "number": "4729.534",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.534"
+    },
+    {
+      "kind": "section",
+      "label": "959.131",
+      "number": "959.131",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-959.131"
+    },
+    {
+      "kind": "section",
+      "label": "4729.533",
+      "number": "4729.533",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.533"
+    }
+  ],
+  "scraped": "2026-07-02T19:35:31+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-955.151",
+  "title": "Section 955.151 - Chemical capture of companion animals."
+}

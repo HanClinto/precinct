@@ -1,0 +1,58 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Case document\" means any document, or information in any document, that is submitted to a court or filed with a clerk of court in a court action or proceeding, including any exhibit, pleading, motion, order, or judgment, or any documentation prepared by the court or clerk in the action or proceeding, including journals, dockets, and indices.",
+      "id": "2303.901-case-document",
+      "normalized": "case document",
+      "scope": "(A) As used in this section:",
+      "section": "2303.901",
+      "source_title": "Section 2303.901 - Case documents.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2303.901",
+      "term": "Case document"
+    },
+    {
+      "definition": "\"Case document\" does not include any of the following:\n\n(a) Any document or information in any document that is exempt from disclosure under state, federal, or common law;\n\n(b) Personal identifiers;\n\n(c) Any document or information in any document to which public access has been restricted under Rule 45 of the Rules of Superintendence for the Courts of Ohio;\n\n(d) Except as relevant to the juvenile's prosecution later as an adult, a juvenile's previous disposition in abuse, neglect, or dependency cases, juvenile civil commitment files, post-adjudicatory residential treatment facility reports, or post-adjudicatory releases of a juvenile's social history;\n\n(e) Notes, drafts, recommendations, advice, or research of court officers or staff;\n\n(f) Forms containing personal identifiers that are submitted or filed pursuant to Rule 45 of the Rules of Superintendence for the Courts of Ohio;\n\n(g) Information on, or obtained from, the Ohio courts network, except that the information shall be available at the originating source if not otherwise exempt from public access;\n\n(h) In a court of common pleas or a division of that court with domestic relations or juvenile jurisdiction, any of the following documents, including documents prepared pursuant to section 2151.281 , division (E)(3) of section 3105.171 , or section 3109.04 of the Revised Code, or Rule 48 of the Rules of Superintendence for the Courts of Ohio:\n\n(i) Health care documents, including physical health, psychological health, psychiatric health, mental health, or counseling documents;\n\n(ii) Drug or alcohol use assessments or predisposition treatment facility reports;\n\n(iii) Guardian ad litem reports, including collateral source documents attached to or filed with the reports;\n\n(iv) Home investigation reports, including collateral source documents attached to or filed with the reports;\n\n(v) Child custody evaluations or reports, including collateral source documents attached to or filed with the evaluations or reports;\n\n(vi) Domestic violence risk assessments;\n\n(vii) Supervised parenting time or companionship or visitation records or reports, including exchange records or reports;\n\n(viii) Financial disclosure records or statements regarding property, debt, taxes, income, or expenses, including collateral source documents attached to or filed with the records or statements;\n\n(ix) Asset appraisals and evaluations.",
+      "id": "2303.901-case-document",
+      "normalized": "case document",
+      "scope": "(A) As used in this section:",
+      "section": "2303.901",
+      "source_title": "Section 2303.901 - Case documents.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2303.901",
+      "term": "Case document"
+    },
+    {
+      "definition": "(2) \"Personal identifiers\" means any of the following:\n\n(a) Social security numbers, except for the last four digits;\n\n(b) Financial account numbers, including debit card, charge card, or credit card numbers;\n\n(c) Employer or employee identification numbers;\n\n(d) A juvenile's name in an abuse, neglect, or dependency case, except for the juvenile's initials or a generic abbreviation such as \"CV\" for \"child victim.\"\n\n(B)(1) When submitting a case document to the court or filing a case document with the clerk of court, a party to an action or proceeding shall omit personal identifiers from the case document pursuant to Rule 45 of the Rules of Superintendence for the Courts of Ohio.\n\n(2) The clerk of court is not liable to any party or any person if a case document that is submitted to the court or filed with the clerk of court contains personal identifiers and the clerk posts that case document on its web site.\n\nLast updated February 16, 2023 at 6:11 PM",
+      "id": "2303.901-personal-identifiers",
+      "normalized": "personal identifiers",
+      "scope": "(A) As used in this section:",
+      "section": "2303.901",
+      "source_title": "Section 2303.901 - Case documents.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2303.901",
+      "term": "Personal identifiers"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2151.281",
+      "number": "2151.281",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.281"
+    },
+    {
+      "kind": "section",
+      "label": "3105.171",
+      "number": "3105.171",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3105.171"
+    },
+    {
+      "kind": "section",
+      "label": "3109.04",
+      "number": "3109.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.04"
+    }
+  ],
+  "scraped": "2026-07-02T19:42:33+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2303.901",
+  "title": "Section 2303.901 - Case documents."
+}

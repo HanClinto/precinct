@@ -1,0 +1,36 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-1761.01
+Scraped: 2026-07-02T19:39:30+00:00
+
+# Section 1761.01 - Credit union guaranty corporation definitions.
+
+**Effective:** September 27, 2002
+
+**Latest Legislation:** House Bill 506 - 124th General Assembly
+
+As used in this chapter:
+
+(A) "Account" means the total of all amounts credited to a participating credit union for paid-in capital contribution, and other credits, net of any charges to that participating credit union. "Account" is an "advancement" as that term is used in section 3901.72 of the Revised Code, and is subject to the requirements of that section.
+
+(B) "Capital contribution" means the amount each participating credit union is required to maintain as a capital deposit in the credit union share guaranty corporation. "Capital contribution" is an "advancement" as that term is used in section 3901.72 of the Revised Code, and is subject to the requirements of that section. "Capital contribution" constitutes assets of the corporation up to the amount of the normal operating level otherwise described in this chapter.
+
+(C) "Credit union," "state," and "member," unless otherwise specified or described in this chapter, have the meanings given such terms in Chapter 1733. of the Revised Code.
+
+(D) "Credit union share accounts" means funds deposited in any shares, accounts, deposits, or certificates of a participating credit union.
+
+(E) "Credit union share guaranty corporation" means a corporation described in section 1761.02 of the Revised Code and licensed by the superintendent of insurance under section 1761.04 of the Revised Code to guarantee payment of a credit union share account of an individual member or, as described in division (B)(2) of section 1761.02 of the Revised Code, a nonmember of a credit union or otherwise issue or effect credit union share guaranty insurance.
+
+(F) "Credit union share guaranty insurance" means that insurance for the protection of share accounts of member credit unions described in and required by section 1733.041 of the Revised Code.
+
+(G) "Credit union supervisory authority" means that official who regulates credit unions in another state.
+
+(H) "Deficiency" means the difference between the guaranteed amount of an individual member's or, as described in division (B)(2) of section 1761.02 of the Revised Code, a nonmember's credit union share account and the proceeds of any liquidation of a participating credit union distributed or to be distributed to the individual member or nonmember.
+
+(I) "National credit union administration" means the federal regulatory agency as established and defined by the "Federal Credit Union Act," 84 Stat. 994 (1970), 12 U.S.C. 1751, as amended, or any successor to the national credit union administration.
+
+(J) "Participating credit union" means a credit union that has applied for and been admitted to participation in a credit union share guaranty corporation and whose participation has not been terminated.
+
+(K) "Share capital" means the aggregate of all moneys in credit union share accounts, irrespective of how denominated, which show a balance due on the records of the participating credit union and are guaranteed by the guaranty corporation.
+
+(L) "Superintendent of insurance" is the chief executive officer and director of the department of insurance as provided in Chapter 3901. of the Revised Code.
+
+(M) "Superintendent of credit unions" means the superintendent of the division of financial institutions of this state.

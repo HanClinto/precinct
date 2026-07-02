@@ -1,0 +1,73 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-1303
+Scraped: 2026-07-02T19:37:01+00:00
+
+# Chapter 1303 - Commercial Paper
+
+## Sections
+
+- Section 1303.01 - Definitions - UCC 3-103.
+- Section 1303.02 - Subject matter - UCC 3-102.
+- Section 1303.03 - Negotiable instrument - UCC 3-104.
+- Section 1303.04 - Issue of instrument - UCC 3-105(b).
+- Section 1303.05 - Unconditional promise or order - UCC 3-106.
+- Section 1303.06 - Instrument payable in foreign money - UCC 3-107.
+- Section 1303.07 - Payable on demand or at definite time - UCC 3-108.
+- Section 1303.08 - Identification of person to whom instrument is payable - UCC 3-110.
+- Section 1303.09 - Place of payment - UCC 3-111.
+- Section 1303.10 - Payable to bearer or to order - UCC 3-109.
+- Section 1303.11 - Incomplete instrument - UCC 3-115.
+- Section 1303.12 - Interest - UCC 3-112.
+- Section 1303.13 - Date of instrument - UCC 3-113.
+- Section 1303.14 - Joint and several liability - contribution - UCC 3-116.
+- Section 1303.15 - Other agreements affecting instrument - UCC 3-117.
+- Section 1303.16 - Statute of limitations - UCC 3-118.
+- Section 1303.17 - Contradictory terms of instrument - UCC 3-114.
+- Section 1303.18 - Notice of right to defend action - UCC 3-119.
+- Section 1303.21 - Negotiation - UCC 3-201.
+- Section 1303.22 - Transfer of instrument - rights acquired by transfer - UCC 3-203.
+- Section 1303.23 - Negotiation subject to rescission - UCC 3-202.
+- Section 1303.24 - Indorsement - UCC 3-204.
+- Section 1303.25 - Special indorsement - blank indorsement - anomalous indorsement - UCC 3-205.
+- Section 1303.26 - Restrictive indorsement - UCC 3-206.
+- Section 1303.27 - Reacquisition - UCC 3-207.
+- Section 1303.31 - Person entitled to enforce instrument - UCC 3-301.
+- Section 1303.32 - Holder in due course - UCC 3-302.
+- Section 1303.33 - Value and consideration - UCC 3-303.
+- Section 1303.34 - Overdue instrument - UCC 3-304.
+- Section 1303.35 - Defenses and claims in recoupment - UCC 3-305.
+- Section 1303.36 - Proof of signatures and status as holder in due course - UCC 3-308 - claims to an instrument - UCC 3-306.
+- Section 1303.37 - Notice of breach of fiduciary duty - UCC 3-307.
+- Section 1303.38 - Enforcement of lost, destroyed or stolen instrument - UCC 3-309.
+- Section 1303.39 - Effect of instrument on obligation for which taken - UCC 3-310.
+- Section 1303.40 - Accord and satisfaction by use of instrument - UCC 3-311.
+- Section 1303.401 - Lost, destroyed or stolen cashier's check, teller's check or certified check - UCC 3-312.
+- Section 1303.41 - Signature - UCC 3-401.
+- Section 1303.42 - Signature by representative - UCC 3-402.
+- Section 1303.43 - Unauthorized signature - UCC 3-403.
+- Section 1303.44 - Impostors - fictitious payees - UCC 3-404.
+- Section 1303.45 - Drawee not liable on unaccepted draft - UCC 3-408.
+- Section 1303.46 - Acceptance of draft - certified check - UCC 3-409.
+- Section 1303.47 - Employer's responsibility for fraudulent indorsement by employee - UCC 3-405.
+- Section 1303.48 - Acceptance varying draft - UCC 3-410.
+- Section 1303.49 - Negligence contributing to forged signature or alteration of instrument - UCC 3-406.
+- Section 1303.50 - Alteration - UCC 3-407.
+- Section 1303.51 - Refusal to pay cashier's checks, teller's checks and certified checks - UCC 3-411.
+- Section 1303.52 - Obligation of issuer of note or cashier's check - UCC 3-412.
+- Section 1303.53 - Obligation of acceptor - UCC 3-413.
+- Section 1303.54 - Obligation of drawer - UCC 3-414.
+- Section 1303.55 - Obligation of indorser - UCC 3-415.
+- Section 1303.56 - Transfer warranties - UCC 3-416.
+- Section 1303.57 - Presentment warranties - UCC 3-417.
+- Section 1303.58 - Payment or acceptance by mistake - UCC 3-418.
+- Section 1303.59 - Instruments signed for accommodation - UCC 3-419.
+- Section 1303.60 - Conversion of instrument - UCC 3-420.
+- Section 1303.61 - Presentment - UCC 3-501.
+- Section 1303.62 - Dishonor - UCC 3-502.
+- Section 1303.63 - Notice of dishonor - UCC 3-503.
+- Section 1303.64 - Excused presentment and notice of dishonor - UCC 3-504.
+- Section 1303.65 - Evidence of dishonor - UCC 3-505.
+- Section 1303.66 - Discharge and effect of discharge - UCC 3-601.
+- Section 1303.67 - Payment - UCC 3-602.
+- Section 1303.68 - Tender of payment - UCC 3-603.
+- Section 1303.69 - Discharge by cancellation or renunciation - UCC 3-604.
+- Section 1303.70 - Discharge of secondary obligors - UCC 3-605.

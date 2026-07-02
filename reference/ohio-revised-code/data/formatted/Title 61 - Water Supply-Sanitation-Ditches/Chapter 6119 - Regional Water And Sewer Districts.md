@@ -1,0 +1,76 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-6119
+Scraped: 2026-07-02T20:17:26+00:00
+
+# Chapter 6119 - Regional Water And Sewer Districts
+
+## Sections
+
+- Section 6119.01 - Regional water and sewer district organization.
+- Section 6119.011 - Regional water and sewer district definitions.
+- Section 6119.02 - Procedure for organization.
+- Section 6119.03 - Common pleas court assigned to district.
+- Section 6119.04 - Hearing on petition for establishment.
+- Section 6119.05 - Application for inclusion of territory.
+- Section 6119.051 - Petition for modification of district.
+- Section 6119.06 - Rights, powers, and duties of trustees of district.
+- Section 6119.061 - Continuing jurisdiction over water resource projects.
+- Section 6119.07 - Board of trustees vested with power to run district.
+- Section 6119.071 - Grounds for removal of member of board of trustees.
+- Section 6119.08 - Rules and regulations of the district.
+- Section 6119.09 - Use or service agreements.
+- Section 6119.091 - Rental discounts.
+- Section 6119.10 - Competitive bidding for certain contracts.
+- Section 6119.101 - Regional water and sewer district contract requirements.
+- Section 6119.11 - Eminent domain powers.
+- Section 6119.111 - Acquisition of interests in land.
+- Section 6119.12 - Water resource revenue bonds and notes.
+- Section 6119.13 - Exemption from bond laws.
+- Section 6119.14 - Securing bonds and notes by trust agreements.
+- Section 6119.141 - Rights of holders of water resource revenue bonds or notes or trustees.
+- Section 6119.15 - Water resource revenue bonds and notes and water resource revenue refunding bonds not a debt of state.
+- Section 6119.151 - Deposit of funds.
+- Section 6119.16 - Investment in United States notes, bonds, or other obligations.
+- Section 6119.17 - Tax levy to pay interest on and to retire bonds.
+- Section 6119.18 - Tax levy for current expenses of district.
+- Section 6119.19 - System of sanitary and/or storm water sewerage.
+- Section 6119.20 - Division of district into sewer districts for securing efficient sewerage.
+- Section 6119.21 - Plan to show main sewers and all branch sewers.
+- Section 6119.22 - Notice of and examination of plan.
+- Section 6119.23 - Plan amendment.
+- Section 6119.24 - Designate portions of work required for immediate use.
+- Section 6119.25 - Publication of resolution of necessity.
+- Section 6119.26 - Resolution for proceeding for improvement.
+- Section 6119.27 - Assessment and collection of assessment.
+- Section 6119.28 - Construction contracts award and payment.
+- Section 6119.29 - Construction of main sewers and drains and branch sewers and drains without adoption of plan.
+- Section 6119.30 - Anticipation bonds and notes.
+- Section 6119.31 - Resolution for tax levy.
+- Section 6119.32 - Election on tax levy.
+- Section 6119.33 - Funds and proceed appropriated from levy.
+- Section 6119.34 - Right of entry.
+- Section 6119.35 - Environmental protection agency to approve or reject plans.
+- Section 6119.36 - Issuing securities in lieu submitting tax levy to electors.
+- Section 6119.37 - Civil service status of employees.
+- Section 6119.38 - Auditing by state auditor.
+- Section 6119.39 - Public employees retirement system members.
+- Section 6119.40 - Exemption from taxes.
+- Section 6119.41 - Power to contract.
+- Section 6119.42 - Levy and collection of special assessments.
+- Section 6119.43 - Purposes of special assessments.
+- Section 6119.44 - Description of property to be assessed.
+- Section 6119.45 - Payment of assessments by annual installments.
+- Section 6119.46 - Filing of resolution of necessity for special assessments.
+- Section 6119.47 - Notice of estimates of special assessments.
+- Section 6119.48 - Objection to special assessments.
+- Section 6119.49 - Assessment equalization board appointment and duties.
+- Section 6119.50 - Claims for damages.
+- Section 6119.51 - Resolution of intent to proceed with special assessment improvement.
+- Section 6119.52 - Revision and finalization of assessments.
+- Section 6119.53 - Penalty and interest.
+- Section 6119.54 - Collection of special assessments.
+- Section 6119.55 - Proceedings for recovery of assessment.
+- Section 6119.56 - Lien of assessment or any installment.
+- Section 6119.57 - Additional assessment to supply deficiencies.
+- Section 6119.58 - Assessments for preparation of plans, specifications, estimates of cost, tentative assessments, and plan of financing.
+- Section 6119.60 - Polices for use of credit card accounts.
+- Section 6119.61 - Liability for loss of public funds.

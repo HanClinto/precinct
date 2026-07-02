@@ -1,0 +1,16 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-2109.13
+Scraped: 2026-07-02T19:41:21+00:00
+
+# Section 2109.13 - Deposit of personal property in lieu of bond.
+
+**Effective:** April 14, 2006
+
+**Latest Legislation:** House Bill 81 - 126th General Assembly
+
+In any case in which a bond is required by the probate court from a fiduciary and the value of the estate or fund is such that the court deems it inexpedient to require security in the full amount prescribed by section 2109.04 of the Revised Code, the court may direct the deposit of any suitable personal property belonging to the estate or fund with a bank, savings bank, savings and loan association, credit union, or trust company incorporated under the laws of this state or of the United States, as may be designated by order of the court.
+
+The deposit shall be made in the name of the fiduciary, and the personal property deposited shall not be withdrawn from the custody of the bank, savings bank, association, credit union, or trust company except upon the special order of the court. No fiduciary shall receive or collect the whole or any part of the principal represented by the personal property without the special order of the court. Such an order can be made in favor of the fiduciary only if the court within its discretion, having regard for the purpose for which the order is requested, the disposition to be made of the assets as may be released, the value of the assets as related to the total value of the estate, and the period of time the assets will remain in the possession of the fiduciary, finds that the original bond previously given and then in force will be sufficient to protect the estate; otherwise, the court, as a condition to the release of the personal property deposited, shall require the fiduciary to execute an additional bond in an amount that the court determines.
+
+After the deposit has been made and after the filing with the court of a receipt for the personal property executed by the designated bank, savings bank, association, credit union, or company, which receipt shall acknowledge that the personal property is held by the bank, savings bank, association, credit union, or company subject to the order of the court, the court may fix or reduce the amount of the bond so that the amount of the penalty of the bond is determined with respect to the value of the remainder only of the estate or fund, without including the value of the personal property deposited. Neither the fiduciary nor the fiduciary's sureties shall be liable for any loss to the trust estate resulting from the deposit as is authorized and directed by the court pursuant to this section, if the fiduciary has acted in good faith.
+
+This section may be invoked simultaneously with the initial application for appointment of the fiduciary if an interim receipt of the bank, savings bank, association, credit union, or company for which the application for appointment as depositary is being made, acknowledging that it already has received temporary deposit of the personal property described in the application for appointment as depositary, accompanies the simultaneous applications for appointment of fiduciary and for appointment of the depositary.

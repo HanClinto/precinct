@@ -1,0 +1,114 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Court costs\" means any assessment that the court requires an offender to pay to defray the costs of operating the court.",
+      "id": "2949.111-court-costs",
+      "normalized": "court costs",
+      "scope": "(A) As used in this section:",
+      "section": "2949.111",
+      "source_title": "Section 2949.111 - Assigning payment toward satisfaction of costs, restitution, fine, or supervision fees.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2949.111",
+      "term": "Court costs"
+    },
+    {
+      "definition": "(2) \"State fines or costs\" means any costs imposed or forfeited bail collected by the court under section 2743.70 of the Revised Code for deposit into the reparations fund or under section 2949.091 of the Revised Code for deposit into the indigent defense support fund established under section 120.08 of the Revised Code and all fines, penalties, and forfeited bail collected by the court and paid to a law library association under section 307.515 of the Revised Code.",
+      "id": "2949.111-state-fines-or-costs",
+      "normalized": "state fines or costs",
+      "scope": "(A) As used in this section:",
+      "section": "2949.111",
+      "source_title": "Section 2949.111 - Assigning payment toward satisfaction of costs, restitution, fine, or supervision fees.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2949.111",
+      "term": "State fines or costs"
+    },
+    {
+      "definition": "(3) \"Reimbursement\" means any reimbursement for the costs of confinement that the court orders an offender to pay pursuant to section 2929.28 of the Revised Code, any supervision fee, any fee for the costs of house arrest with electronic monitoring that an offender agrees to pay, any reimbursement for the costs of an investigation or prosecution that the court orders an offender to pay pursuant to section 2929.71 of the Revised Code, or any other costs that the court orders an offender to pay.",
+      "id": "2949.111-reimbursement",
+      "normalized": "reimbursement",
+      "scope": "(A) As used in this section:",
+      "section": "2949.111",
+      "source_title": "Section 2949.111 - Assigning payment toward satisfaction of costs, restitution, fine, or supervision fees.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2949.111",
+      "term": "Reimbursement"
+    },
+    {
+      "definition": "(4) \"Supervision fees\" means any fees that a court, pursuant to sections 2929.18 , 2929.28 , and 2951.021 of the Revised Code, requires an offender who is under a community control sanction to pay for supervision services.",
+      "id": "2949.111-supervision-fees",
+      "normalized": "supervision fees",
+      "scope": "(A) As used in this section:",
+      "section": "2949.111",
+      "source_title": "Section 2949.111 - Assigning payment toward satisfaction of costs, restitution, fine, or supervision fees.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2949.111",
+      "term": "Supervision fees"
+    },
+    {
+      "definition": "(5) \"Community control sanction\" has the same meaning as in section 2929.01 of the Revised Code.\n\n(B) Unless the court, in accordance with division (C) of this section, enters in the record of the case a different method of assigning payments, if a person who is charged with a misdemeanor is convicted of or pleads guilty to the offense, if the court orders the offender to pay any combination of court costs, state fines or costs, restitution, a conventional fine, or any reimbursement, and if the offender makes any payment of any of them to a clerk of court, the clerk shall assign the offender's payment in the following manner:\n\n(1) If the court ordered the offender to pay any court costs, the offender's payment shall be assigned toward the satisfaction of those court costs until they have been entirely paid.\n\n(2) If the court ordered the offender to pay any state fines or costs and if all of the court costs that the court ordered the offender to pay have been paid, the remainder of the offender's payment shall be assigned on a pro rata basis toward the satisfaction of the state fines or costs until they have been entirely paid.\n\n(3) If the court ordered the offender to pay any restitution and if all of the court costs and state fines or costs that the court ordered the offender to pay have been paid, the remainder of the offender's payment shall be assigned toward the satisfaction of the restitution until it has been entirely paid.\n\n(4) If the court ordered the offender to pay any fine and if all of the court costs, state fines or costs, and restitution that the court ordered the offender to pay have been paid, the remainder of the offender's payment shall be assigned toward the satisfaction of the fine until it has been entirely paid.\n\n(5) If the court ordered the offender to pay any reimbursement and if all of the court costs, state fines or costs, restitution, and fines that the court ordered the offender to pay have been paid, the remainder of the offender's payment shall be assigned toward the satisfaction of the reimbursements until they have been entirely paid.\n\n(C) If a person who is charged with a misdemeanor is convicted of or pleads guilty to the offense and if the court orders the offender to pay any combination of court costs, state fines or costs, restitution, fines, or reimbursements, the court, at the time it orders the offender to make those payments, may prescribe an order of payments that differs from the order set forth in division (B) of this section by entering in the record of the case the order so prescribed. If a different order is entered in the record, on receipt of any payment, the clerk of the court shall assign the payment in the manner prescribed by the court.",
+      "id": "2949.111-community-control-sanction",
+      "normalized": "community control sanction",
+      "scope": "(A) As used in this section:",
+      "section": "2949.111",
+      "source_title": "Section 2949.111 - Assigning payment toward satisfaction of costs, restitution, fine, or supervision fees.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2949.111",
+      "term": "Community control sanction"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2743.70",
+      "number": "2743.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2743.70"
+    },
+    {
+      "kind": "section",
+      "label": "2949.091",
+      "number": "2949.091",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2949.091"
+    },
+    {
+      "kind": "section",
+      "label": "120.08",
+      "number": "120.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-120.08"
+    },
+    {
+      "kind": "section",
+      "label": "307.515",
+      "number": "307.515",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.515"
+    },
+    {
+      "kind": "section",
+      "label": "2929.28",
+      "number": "2929.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2929.28"
+    },
+    {
+      "kind": "section",
+      "label": "2929.71",
+      "number": "2929.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2929.71"
+    },
+    {
+      "kind": "section",
+      "label": "2929.18",
+      "number": "2929.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2929.18"
+    },
+    {
+      "kind": "section",
+      "label": "2951.021",
+      "number": "2951.021",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2951.021"
+    },
+    {
+      "kind": "section",
+      "label": "2929.01",
+      "number": "2929.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2929.01"
+    }
+  ],
+  "scraped": "2026-07-02T19:46:59+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2949.111",
+  "title": "Section 2949.111 - Assigning payment toward satisfaction of costs, restitution, fine, or supervision fees."
+}

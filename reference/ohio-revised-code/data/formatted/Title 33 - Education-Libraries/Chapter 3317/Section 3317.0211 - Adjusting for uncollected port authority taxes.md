@@ -1,0 +1,48 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3317.0211
+Scraped: 2026-07-02T19:48:49+00:00
+
+# Section 3317.0211 - Adjusting for uncollected port authority taxes.
+
+**Effective:** October 3, 2023
+
+**Latest Legislation:** House Bill 33 - 135th General Assembly
+
+(A) As used in this section:
+
+(1) "Port authority" means any port authority as defined in section 4582.01 or 4582.21 of the Revised Code.
+
+(2) "Real property" includes public utility real property and "personal property" includes public utility personal property.
+
+(3) "Uncollected taxes" means property taxes charged and payable against the property of a port authority for a tax year that a school district has not collected.
+
+(4) "Basic state aid" means a school district's state education aid.
+
+(5) "Effective value" means the sum of the effective residential/agricultural real property value, the effective nonresidential/agricultural real property value, and the effective personal value.
+
+(6) "Effective residential/agricultural real property value" means, for a tax year, the amount obtained by multiplying the value for that year of residential/agricultural real property subject to taxation in the district by a fraction, the numerator of which is the total taxes charged and payable for that year against the residential/agricultural real property subject to taxation in the district, exclusive of the uncollected taxes for that year on all real property subject to taxation in the district, and the denominator of which is the total taxes charged and payable for that year against the residential/agricultural real property subject to taxation in the district.
+
+(7) "Effective nonresidential/agricultural real property value" means, for a tax year, the amount obtained by multiplying the value for that year of nonresidential/agricultural real property subject to taxation in the district by a fraction, the numerator of which is the total taxes charged and payable for that year against the nonresidential/agricultural real property subject to taxation in the district, exclusive of the uncollected taxes for that year on all real property subject to taxation in the district, and the denominator of which is the total taxes charged and payable for that year against the nonresidential/agricultural real property subject to taxation in the district.
+
+(8) "Effective personal value" means, for a tax year, the amount obtained by multiplying the value for that year certified under division (A)(2) of section 3317.021 of the Revised Code by a fraction, the numerator of which is the total taxes charged and payable for that year against personal property subject to taxation in the district, exclusive of the uncollected taxes for that year on that property, and the denominator of which is the total taxes charged and payable for that year against personal property subject to taxation in the district.
+
+(9) "Nonresidential/agricultural real property value" means, for a tax year, the sum of the values certified for a school district for that year under division (B)(2)(a) of this section, and "residential/agricultural real property value" means, for a tax year, the sum of the values certified for a school district under division (B)(2)(b) of this section.
+
+(10) "Taxes charged and payable against real property" means the taxes charged and payable against that property after making the reduction required by section 319.301 of the Revised Code.
+
+(11) "Total taxes charged and payable" has the same meaning given "taxes charged and payable" in section 3317.02 of the Revised Code.
+
+(B)(1) By the first day of August of any calendar year, a school district shall notify the department of education and workforce if it has any uncollected taxes from one port authority for the second preceding tax year whose taxes charged and payable represent at least one-half of one per cent of the district's total taxes charged and payable for that tax year.
+
+(2) The department shall verify whether the district has such uncollected taxes by the first day of September, and if the district does, shall immediately request the county auditor of each county in which the school district has territory to certify the following information concerning the district's property values and taxes for the second preceding tax year, and each such auditor shall certify that information to the department within thirty days of receiving the request:
+
+(a) The value of the property subject to taxation in the district that was classified as nonresidential/agricultural real property pursuant to section 5713.041 of the Revised Code, and the taxes charged and payable on that property; and
+
+(b) The value of the property subject to taxation in the district that was classified as residential/agricultural real property under section 5713.041 of the Revised Code.
+
+(C) By the fifteenth day of November, the department shall compute the district's effective nonresidential/agricultural real property value, effective residential/agricultural real property value, effective personal value, and effective value, and shall determine whether the school district's effective value for the second preceding tax year is at least one per cent less than its total value for that year certified under divisions (A)(1) and (2) of section 3317.021 of the Revised Code. If it is, the department shall recompute the basic state aid payable to the district for the immediately preceding fiscal year using the effective value in lieu of the amounts previously certified under section 3317.021 of the Revised Code. The difference between the original basic state aid amount computed for the district for the preceding fiscal year and the recomputed amount shall be paid to the district from the lottery profits education fund before the end of the current fiscal year.
+
+(D) Except as provided in division (E) of this section, amounts received by a school district under division (C) of this section shall be repaid to the department in any future year to the extent the district receives payments of uncollectable taxes in such future year. The department shall notify a district of any amount owed under this division.
+
+(E) If a school district received a grant from the catastrophic expenditures account pursuant to division (C) of section 3316.20 of the Revised Code on the basis of the same circumstances for which a recomputation is made under this section, the amount of the recomputation shall be reduced and transferred in accordance with division (C) of section 3316.20 of the Revised Code.
+
+Last updated September 6, 2023 at 12:15 PM

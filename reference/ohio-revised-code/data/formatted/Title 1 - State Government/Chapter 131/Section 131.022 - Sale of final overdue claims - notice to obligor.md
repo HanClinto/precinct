@@ -1,0 +1,44 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-131.022
+Scraped: 2026-07-02T19:31:48+00:00
+
+# Section 131.022 - Sale of final overdue claims - notice to obligor.
+
+**Effective:** June 30, 2006
+
+**Latest Legislation:** House Bill 530 - 126th General Assembly
+
+(A) As used in this section:
+
+(1) "Final overdue claim" means a claim that has been certified to the attorney general under section 131.02 of the Revised Code, that has been final for at least one year, and for which no arrangements have been made for the payment of the claim or, if arrangements for the payment of the claim have been made, the person owing the claim has failed to comply with the terms of the arrangement for more than thirty days.
+
+"Final overdue claim" includes collection costs incurred with respect to the claim that is the basis of the final overdue claim and assessed by the attorney general under division (A) of section 131.02 of the Revised Code, interest accreting to the claim under division (D) of that section, and fees added under division (E)(3) of that section.
+
+(2) "Final" means a claim has been finalized under the law providing for the imposition or determination of the amount due, and any time provided for appeal of the amount, legality, or validity of the claim has expired without an appeal having been filed in the manner provided by law. "Final" includes, but is not limited to, a final determination of the tax commissioner for which the time for appeal has expired without a notice of appeal having been filed.
+
+(B) If a claim is certified to the attorney general under section 131.02 of the Revised Code, at any time after the claim is a final overdue claim, the attorney general may, subject to the approval of the chief officer of the agency reporting the claim and of the controlling board, sell the claim to any person through a competitive process. If federal funds comprise all or a part of the claim, it may not be sold unless the chief officer determines that the sale of the claim will not have an adverse financial impact on the state due to any requirement of the state to repay the federal funds to the federal government.
+
+(C) The attorney general may consolidate any number of final overdue claims for sale under this section.
+
+(D) Not less than sixty days before first offering a final overdue claim for sale, the attorney general shall provide written notice, by ordinary mail, to the person owing the claim at that person's last known mailing address. The notice shall state the following:
+
+(1) The nature and amount of the claim;
+
+(2) The manner in which the person may contact the office of the attorney general to arrange terms for payment of the claim;
+
+(3) That if the person does not contact the office of the attorney general within sixty days after the date the notice is issued and arrange terms of payment of the claim all of the following apply:
+
+(a) The attorney general will offer the claim for sale to a private party for collection by that party by any legal means;
+
+(b) The person is deemed to be denied any right to seek and obtain a refund of any amount from which the claim arises if the applicable law otherwise allows for a refund of that nature;
+
+(c) Except as provided in division (I) of this section, the person is deemed to waive any right the person may have to confidentiality of information regarding the claim to the extent confidentiality is provided under any other section of the Revised Code.
+
+(E) Upon the sale of a final overdue claim under this section, the claim becomes the property of the purchaser, and the purchaser may sell or otherwise transfer the claim to any other person or otherwise dispose of the claim. The owner of the claim is entitled to all proceeds from the collection of the claim, except the owner of the claim shall reimburse the state for costs it incurs after the sale of the claim in assisting or facilitating the collection of the claim including, without limitation, costs of time expended by state employees. Purchasers or transferees of a final overdue claim are subject to any applicable laws governing collection of debts of the kind represented by the claim.
+
+(F) Upon the sale or transfer of a final overdue claim under this section, no refund shall be issued or paid to the person owing the claim for any part of the amount from which the claim arises. The sale or transfer of a claim under this section or division (F) of section 131.02 of the Revised Code shall not compromise any criminal, civil, or administrative action initiated by the state against any person owing the claim.
+
+(G) Except as provided in division (I) of this section, and notwithstanding any other section of the Revised Code, the attorney general, solely for the purpose of effecting the sale or transfer of a final overdue claim under this section, may disclose information about the person owing the claim that otherwise would be confidential under a section of the Revised Code, and the person shall have no right of action against that disclosure to the extent a right of that nature is available under that section.
+
+(H) The authority granted under this section is supplemental to the authority granted under section 131.02 of the Revised Code.
+
+(I) If information contained in a claim that is sold, conveyed, or transferred to a private entity pursuant to this section is confidential pursuant to federal law or a section of the Revised Code that implements a federal law governing confidentiality, such information remains subject to that law during and following the sale, conveyance, or transfer. A private entity to which a claim is sold, conveyed, or transferred is bound by all federal and state confidentiality requirements concerning such information.

@@ -1,0 +1,140 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Public improvement\" means any construction, reconstruction, improvement, enlargement, alteration, demolition, or repair of a building, highway, drainage system, water system, road, street, alley, sewer, ditch, sewage disposal plant, water works, and any other structure or work of any nature by a public authority.",
+      "id": "1311.25-public-improvement",
+      "normalized": "public improvement",
+      "scope": "As used in sections 1311.25 to 1311.32 of the Revised Code:",
+      "section": "1311.25",
+      "source_title": "Section 1311.25 - Public improvement definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1311.25",
+      "term": "Public improvement"
+    },
+    {
+      "definition": "(B) \"Public authority\" includes the state, and a county, township, municipal corporation, school district, or other political subdivision of the state, and any public agency, authority, board, commission, instrumentality, or special district of or in the state or a county, township, municipal corporation, school district, or other political subdivision of the state, and any officer or agent thereof.",
+      "id": "1311.25-public-authority",
+      "normalized": "public authority",
+      "scope": "As used in sections 1311.25 to 1311.32 of the Revised Code:",
+      "section": "1311.25",
+      "source_title": "Section 1311.25 - Public improvement definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1311.25",
+      "term": "Public authority"
+    },
+    {
+      "definition": "(C) \"Material supplier\" includes any person by whom any materials are furnished in furtherance of a public improvement.",
+      "id": "1311.25-material-supplier",
+      "normalized": "material supplier",
+      "scope": "As used in sections 1311.25 to 1311.32 of the Revised Code:",
+      "section": "1311.25",
+      "source_title": "Section 1311.25 - Public improvement definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1311.25",
+      "term": "Material supplier"
+    },
+    {
+      "definition": "(D) \"Laborer\" includes any mechanic, worker, artisan, or other individual who performs labor or work in furtherance of any public improvement.",
+      "id": "1311.25-laborer",
+      "normalized": "laborer",
+      "scope": "As used in sections 1311.25 to 1311.32 of the Revised Code:",
+      "section": "1311.25",
+      "source_title": "Section 1311.25 - Public improvement definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1311.25",
+      "term": "Laborer"
+    },
+    {
+      "definition": "(E) \"Subcontractor\" includes any person who undertakes to construct, alter, erect, improve, repair, demolish, remove, dig, or drill any part of any public improvement under a contract with any person other than the public authority.",
+      "id": "1311.25-subcontractor",
+      "normalized": "subcontractor",
+      "scope": "As used in sections 1311.25 to 1311.32 of the Revised Code:",
+      "section": "1311.25",
+      "source_title": "Section 1311.25 - Public improvement definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1311.25",
+      "term": "Subcontractor"
+    },
+    {
+      "definition": "(F) \"Principal contractor\" includes any person who undertakes to construct, alter, erect, improve, repair, demolish, remove, dig, or drill any part of any public improvement under a contract with a public authority.",
+      "id": "1311.25-principal-contractor",
+      "normalized": "principal contractor",
+      "scope": "As used in sections 1311.25 to 1311.32 of the Revised Code:",
+      "section": "1311.25",
+      "source_title": "Section 1311.25 - Public improvement definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1311.25",
+      "term": "Principal contractor"
+    },
+    {
+      "definition": "(G) \"Materials\" means all products and substances including, without limitation, any gasoline, lubricating oil, petroleum products, powder, dynamite, blasting supplies and other explosives, tools, equipment, or machinery furnished in furtherance of a public improvement.",
+      "id": "1311.25-materials",
+      "normalized": "materials",
+      "scope": "As used in sections 1311.25 to 1311.32 of the Revised Code:",
+      "section": "1311.25",
+      "source_title": "Section 1311.25 - Public improvement definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1311.25",
+      "term": "Materials"
+    },
+    {
+      "definition": "(H) \"Wages\" has the same meaning as \"prevailing wage\" in division (E) of section 4115.03 of the Revised Code.",
+      "id": "1311.25-wages",
+      "normalized": "wages",
+      "scope": "As used in sections 1311.25 to 1311.32 of the Revised Code:",
+      "section": "1311.25",
+      "source_title": "Section 1311.25 - Public improvement definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1311.25",
+      "term": "Wages"
+    },
+    {
+      "definition": "(I) \"Notice of commencement\" means the notice specified in section 1311.252 of the Revised Code.",
+      "id": "1311.25-notice-of-commencement",
+      "normalized": "notice of commencement",
+      "scope": "As used in sections 1311.25 to 1311.32 of the Revised Code:",
+      "section": "1311.25",
+      "source_title": "Section 1311.25 - Public improvement definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1311.25",
+      "term": "Notice of commencement"
+    },
+    {
+      "definition": "(J) \"Notice of furnishing\" means the notice specified in section 1311.261 of the Revised Code.",
+      "id": "1311.25-notice-of-furnishing",
+      "normalized": "notice of furnishing",
+      "scope": "As used in sections 1311.25 to 1311.32 of the Revised Code:",
+      "section": "1311.25",
+      "source_title": "Section 1311.25 - Public improvement definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1311.25",
+      "term": "Notice of furnishing"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "1311.25",
+      "number": "1311.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.25"
+    },
+    {
+      "kind": "section",
+      "label": "1311.32",
+      "number": "1311.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.32"
+    },
+    {
+      "kind": "section",
+      "label": "4115.03",
+      "number": "4115.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4115.03"
+    },
+    {
+      "kind": "section",
+      "label": "1311.252",
+      "number": "1311.252",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.252"
+    },
+    {
+      "kind": "section",
+      "label": "1311.261",
+      "number": "1311.261",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.261"
+    }
+  ],
+  "scraped": "2026-07-02T19:37:10+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1311.25",
+  "title": "Section 1311.25 - Public improvement definitions."
+}

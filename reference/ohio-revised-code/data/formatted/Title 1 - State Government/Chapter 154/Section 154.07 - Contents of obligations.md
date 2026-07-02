@@ -1,0 +1,10 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-154.07
+Scraped: 2026-07-02T19:32:02+00:00
+
+# Section 154.07 - Contents of obligations.
+
+**Effective:** September 29, 2011
+
+**Latest Legislation:** House Bill 153 - 129th General Assembly
+
+For the respective purposes provided in sections 154.20 , 154.21 , 154.22 , 154.23 , 154.24 , and 154.25 of the Revised Code, the issuing authority may issue obligations of the state of Ohio as provided in Chapter 154. of the Revised Code, provided that the holders or owners of obligations shall have no right to have excises or taxes levied by the general assembly for the payment of the bond service charges. The right of holders and owners to payment of bond service charges shall be limited to the revenues or receipts and funds pledged thereto in accordance with Chapter 154. of the Revised Code, and each obligation shall bear on its face a statement to that effect. Chapter 154. of the Revised Code does not permit, and no provision of that chapter shall be applied to authorize or grant, a pledge of charges for the treatment or care of mental hygiene and retardation patients to bond service charges on obligations other than those issued for capital facilities for mental hygiene and retardation, or a pledge of any receipts of or on behalf of state supported or state assisted institutions of higher education to bond service charges on obligations other than those issued for capital facilities for state supported or state assisted institutions of higher education, or a pledge of receipts with respect to parks and recreation to bond service charges on obligations other than those issued for capital facilities for parks and recreation, or a pledge of revenues or receipts received by or on behalf of any state agency to bond service charges on obligations other than those issued for capital facilities which are in whole or in part useful to, constructed by, or financed by the state agency that receives the revenues or receipts so pledged.

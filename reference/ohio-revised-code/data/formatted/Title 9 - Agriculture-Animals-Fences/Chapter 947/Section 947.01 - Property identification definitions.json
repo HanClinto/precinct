@@ -1,0 +1,46 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Brand\" means a distinctive design, mark of identification, or number that is applied to the hide of livestock by a hot iron or other humane method approved by the director of agriculture and is currently registered under section 947.02 of the Revised Code.",
+      "id": "947.01-brand",
+      "normalized": "brand",
+      "scope": "As used in this chapter:",
+      "section": "947.01",
+      "source_title": "Section 947.01 - Property identification definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-947.01",
+      "term": "Brand"
+    },
+    {
+      "definition": "(B) \"Livestock\" means cattle, sheep, goats, and other animals of the family bovidae, swine and other animals of the family suidae, horses, mules, burros, asses, and other animals of the family equidae, alpacas, and llamas.",
+      "id": "947.01-livestock",
+      "normalized": "livestock",
+      "scope": "As used in this chapter:",
+      "section": "947.01",
+      "source_title": "Section 947.01 - Property identification definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-947.01",
+      "term": "Livestock"
+    },
+    {
+      "definition": "(C) \"Person\" includes an individual, firm, association, partnership, corporation, or other legal entity, and the state and any of its agencies, institutions, instrumentalities, or political subdivisions.",
+      "id": "947.01-person",
+      "normalized": "person",
+      "scope": "As used in this chapter:",
+      "section": "947.01",
+      "source_title": "Section 947.01 - Property identification definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-947.01",
+      "term": "Person"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "947.02",
+      "number": "947.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-947.02"
+    }
+  ],
+  "scraped": "2026-07-02T19:35:30+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-947.01",
+  "title": "Section 947.01 - Property identification definitions."
+}

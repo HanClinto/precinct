@@ -1,0 +1,32 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5736.09
+Scraped: 2026-07-02T20:15:08+00:00
+
+# Section 5736.09 - Assessments for failure to file return.
+
+**Effective:** September 30, 2025
+
+**Latest Legislation:** House Bill 96 - 136th General Assembly
+
+(A) The tax commissioner may make an assessment, based on any information in the commissioner's possession, against any person that fails to file a return or pay any amounts as required by this chapter. The commissioner shall give the person assessed written notice of the assessment as provided in section 5703.37 of the Revised Code. With the notice, the commissioner shall provide instructions on the manner in which to petition for reassessment and request a hearing with respect to the petition.
+
+(B) Unless the person assessed, within sixty days after service of the notice of assessment, files with the commissioner a written petition signed by the person or the person's authorized agent having knowledge of the facts, the assessment becomes final, and the amount of the assessment is due and payable from the person assessed to the treasurer of state. The petition shall indicate the objections of the person assessed, but additional objections may be raised in writing if received by the commissioner prior to the date shown on the final determination.
+
+If a petition for reassessment has been properly filed, the commissioner shall proceed under section 5703.60 of the Revised Code.
+
+(C)(1) After an assessment becomes final, if any portion of the assessment, including accrued interest, remains unpaid, a certified copy of the commissioner's entry making the assessment final may be filed in the office of the clerk of the court of common pleas in the county in which the person resides or has its principal place of business in this state, or in the office of the clerk of court of common pleas of Franklin county.
+
+(2) Immediately upon the filing of the entry, the clerk shall enter judgment for the state against the person assessed in the amount shown on the entry. The judgment may be filed by the clerk in a loose-leaf book entitled, "special judgments for the petroleum activity tax" and shall have the same effect as other judgments. Execution shall issue upon the judgment at the request of the commissioner, and all laws applicable to sales on execution shall apply to sales made under the judgment.
+
+(3) If the assessment is not paid in its entirety within sixty days after the day the assessment was issued, the portion of the assessment consisting of tax due shall bear interest at the rate per annum prescribed by section 5703.47 of the Revised Code from the day the commissioner issues the assessment until it is paid or until it is certified to the attorney general for collection under section 131.02 of the Revised Code, whichever comes first. If the unpaid portion of the assessment is certified to the attorney general for collection, the entire unpaid portion of the assessment shall bear interest at the rate per annum prescribed by section 5703.47 of the Revised Code from the date of certification until the date it is paid in its entirety. Interest shall be paid in the same manner as the tax and may be collected by the issuance of an assessment under this section.
+
+(D) If the commissioner believes that collection of the tax will be jeopardized unless proceedings to collect or secure collection of the tax are instituted without delay, the commissioner may issue a jeopardy assessment against the person liable for the tax. Immediately upon the issuance of the jeopardy assessment, the commissioner shall file an entry with the clerk of the court of common pleas in the manner prescribed by division (C) of this section. Notice of the jeopardy assessment shall be served on the person assessed or the person's authorized agent in the manner provided in section 5703.37 of the Revised Code within five days of the filing of the entry with the clerk. The total amount assessed is immediately due and payable, unless the person assessed files a petition for reassessment in accordance with division (B) of this section and provides security in a form satisfactory to the commissioner and in an amount sufficient to satisfy the unpaid balance of the assessment. Full or partial payment of the assessment does not prejudice the commissioner's consideration of the petition for reassessment.
+
+(E) The commissioner shall immediately forward to the treasurer of state all amounts the commissioner receives under this section, and such amounts shall be considered as revenue arising from the tax imposed under this chapter.
+
+(F) Except as otherwise provided in this division, no assessment shall be made or issued against a taxpayer for amounts imposed under this chapter more than four years after the due date for the filing of the return or application for the tax period for which the amount was reported, or more than four years after the return or application for the tax period was filed, whichever is later. The time limit may be extended if both the taxpayer and the commissioner consent in writing to the extension or enter into an agreement waiving or extending the time limit. Any such extension shall extend the four-year time limit in division (A) of section 5736.08 of the Revised Code for the same period of time. Nothing in this division bars an assessment against a taxpayer that fails to file a return required by this chapter or that files a fraudulent return.
+
+(G) If the commissioner possesses information that indicates that the amount of tax a taxpayer is required to pay under this chapter exceeds the amount the taxpayer paid, the commissioner may audit a sample of the taxpayer's calculated gross receipts over a representative period of time to ascertain the amount of tax due, and may issue an assessment based on the audit. The commissioner shall make a good faith effort to reach agreement with the taxpayer in selecting a representative sample. The commissioner may apply a sampling method only if the commissioner has prescribed the method by rule.
+
+(H) If the whereabouts of a person subject to this chapter is not known to the commissioner, the commissioner shall follow the procedures under section 5703.37 of the Revised Code.
+
+Last updated August 13, 2025 at 1:30 PM

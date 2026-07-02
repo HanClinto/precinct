@@ -1,0 +1,52 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5701.13
+Scraped: 2026-07-02T20:14:17+00:00
+
+# Section 5701.13 - Home for the aged defined.
+
+**Effective:** September 29, 2013
+
+**Latest Legislation:** House Bill 59 - 130th General Assembly
+
+(A) As used in this section:
+
+(1) "Nursing home" means a nursing home or a home for the aging, as those terms are defined in section 3721.01 of the Revised Code, that is issued a license pursuant to section 3721.02 of the Revised Code.
+
+(2) "Residential care facility" means a residential care facility, as defined in section 3721.01 of the Revised Code, that is issued a license pursuant to section 3721.02 of the Revised Code.
+
+(3) "Residential facility" means a residential facility licensed under section 5119.34 of the Revised Code that provides accommodations, supervision, and personal care services for three to sixteen unrelated adults.
+
+(B) As used in Title LVII of the Revised Code, and for the purpose of other sections of the Revised Code that refer specifically to Chapter 5701. or section 5701.13 of the Revised Code, a "home for the aged" means either of the following:
+
+(1) A place of residence for aged and infirm persons that satisfies divisions (B)(1)(a) to (e) of this section:
+
+(a) It is a nursing home, residential care facility, or residential facility.
+
+(b) It is owned by a corporation, unincorporated nonprofit association, or trust of a charitable, religious, or fraternal nature, that is organized and operated not for profit, is not formed for the pecuniary gain or profit of, and whose net earnings or any part of whose net earnings is not distributable to, its members, trustees, officers, or other private persons, and is exempt from federal income taxation under section 501 of the "Internal Revenue Code of 1986," 100 Stat. 2085, 26 U.S.C. 1.
+
+(c) It is open to the public without regard to race, color, or national origin.
+
+(d) It does not pay, directly or indirectly, compensation for services rendered, interest on debts incurred, or purchase price for land, building, equipment, supplies, or other goods or chattels, which compensation, interest, or purchase price is unreasonably high.
+
+(e) It provides services for the life of each resident without regard to the resident's ability to continue payment for the full cost of the services.
+
+(2) A place of residence that satisfies divisions (B)(1)(b), (d), and (e) of this section; that satisfies the definition of "nursing home" or "residential care facility" under section 3721.01 of the Revised Code or the definition of "residential facility" under division (A)(3) of this section regardless of whether it is licensed as such a home or facility; and that is provided at no charge to individuals on account of their service without compensation to a charitable, religious, fraternal, or educational institution, which individuals are aged or infirm and are members of the corporation, association, or trust that owns the place of residence. For the purposes of division (B)(2) of this section, "compensation" does not include furnishing room and board, clothing, health care, or other necessities, or stipends or other de minimis payments to defray the cost thereof.
+
+Exemption from taxation shall be accorded, on proper application, only to those homes or parts of homes that meet the standards and provide the services specified in this section.
+
+Nothing in this section shall be construed as preventing a home from requiring a resident with financial need to apply for any applicable financial assistance or requiring a home to retain a resident who willfully refuses to pay for services for which the resident has contracted even though the resident has sufficient resources to do so.
+
+(C)(1) If a corporation, unincorporated nonprofit association, or trust described in division (B)(1)(b) of this section is granted a certificate of need pursuant to section 3702.52 of the Revised Code to construct, add to, or otherwise modify a nursing home, or is given approval pursuant to section 3791.04 of the Revised Code to construct, add to, or otherwise modify a residential care facility or residential facility and if the corporation, association, or trust submits an affidavit to the tax commissioner stating that, commencing on the date of licensure and continuing thereafter, the home or facility will be operated in accordance with the requirements of divisions (B)(1)(a) to (e) of this section, the corporation, association, or trust shall be considered to be operating a "home for the aged" within the meaning of division (B)(1) of this section, beginning on the first day of January of the year in which such certificate is granted or approval is given.
+
+(2) If a corporation, association, or trust is considered to be operating a "home for the aged" pursuant to division (C)(1) of this section, the corporation, association, or trust shall notify the tax commissioner in writing upon the occurrence of any of the following events:
+
+(a) The corporation, association, or trust no longer intends to complete the construction of, addition to, or modification of the home or facility, to obtain the appropriate license for the home or facility, or to commence operation of the home or facility in accordance with the requirements of divisions (B)(1)(a) to (e) of this section;
+
+(b) The certificate of approval referred to in division (C)(1) of this section expires, is revoked, or is otherwise terminated prior to the completion of the construction of, addition to, or modification of the home or facility;
+
+(c) The license to operate the home or facility is not granted by the director of health within one year following completion of the construction of, addition to, or modification of the home or facility;
+
+(d) The license to operate the home or facility is not granted by the director of health within four years following the date upon which the certificate or approval referred to in division (C)(1) of this section was granted or given;
+
+(e) The home or facility is granted a license to operate as a nursing home, residential care facility, or residential facility.
+
+(3) Upon the occurrence of any of the events referred to in divisions (C)(2)(a), (b), (c), (d), and (e) of this section, the corporation, association, or trust shall no longer be considered to be operating a "home for the aged" pursuant to division (C)(1) of this section, except that the tax commissioner, for good cause shown and to the extent the commissioner considers appropriate, may extend the time period specified in division (C)(2)(c) or (d) of this section, or both. Nothing in division (C)(3) of this section shall be construed to prevent a nursing home, residential care facility, or residential facility from qualifying as a "home for the aged" if, upon proper application made pursuant to division (B) of this section, it is found to meet the requirements of divisions (A) and (B) of this section.

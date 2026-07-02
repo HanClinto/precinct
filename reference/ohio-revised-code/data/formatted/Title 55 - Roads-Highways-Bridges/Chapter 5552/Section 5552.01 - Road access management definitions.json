@@ -1,0 +1,36 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Metropolitan planning organization\" means a metropolitan planning organization designated under section 9(a) of the \"Federal-Aid Highway Act of 1962,\" 76 Stat. 1148, 23 U.S.C. 134, as amended.",
+      "id": "5552.01-metropolitan-planning-organization",
+      "normalized": "metropolitan planning organization",
+      "scope": "As used in this chapter:",
+      "section": "5552.01",
+      "source_title": "Section 5552.01 - Road access management definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5552.01",
+      "term": "Metropolitan planning organization"
+    },
+    {
+      "definition": "(B) \"Urban township\" means a township that has a population in the unincorporated area of the township of fifteen thousand or more and that has adopted a limited home rule government under section 504.02 of the Revised Code.",
+      "id": "5552.01-urban-township",
+      "normalized": "urban township",
+      "scope": "As used in this chapter:",
+      "section": "5552.01",
+      "source_title": "Section 5552.01 - Road access management definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5552.01",
+      "term": "Urban township"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "504.02",
+      "number": "504.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-504.02"
+    }
+  ],
+  "scraped": "2026-07-02T20:13:35+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5552.01",
+  "title": "Section 5552.01 - Road access management definitions."
+}

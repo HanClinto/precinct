@@ -1,0 +1,417 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 705.01 - Petition for submission of question of organizing municipal corporation under a specific plan.",
+      "number": "705.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.02 - Effect of petition for submission of question of choosing commission to frame charter on petition to adopt optional plan.",
+      "number": "705.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.03 - Form of ballot in submitting question of organizing under plan.",
+      "number": "705.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.04 - Adoption of plan.",
+      "number": "705.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.05 - Submission of supplementary propositions.",
+      "number": "705.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.06 - Board of elections shall file certificate of election results.",
+      "number": "705.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.07 - Sections applicable to each plan.",
+      "number": "705.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.08 - Treasurer - duties.",
+      "number": "705.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.09 - Auditor - duties.",
+      "number": "705.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.10 - Clerk - duties.",
+      "number": "705.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.11 - Village solicitor or city director of law - duties.",
+      "number": "705.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.12 - Qualifications of members of legislative authority.",
+      "number": "705.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.13 - Salaries and attendance of members.",
+      "number": "705.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.14 - Election of chairman and vice-chairman.",
+      "number": "705.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.15 - Powers of legislative authority.",
+      "number": "705.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.16 - Publication of ordinances or resolutions.",
+      "number": "705.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.17 - Annual tax ordinance.",
+      "number": "705.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.18 - Annual appropriation ordinance - supplemental appropriation.",
+      "number": "705.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.19 - Limitation on appropriations.",
+      "number": "705.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.20 - Payment of claims - procedure.",
+      "number": "705.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.21 - Investigations by municipal corporation - production of testimony.",
+      "number": "705.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.22 - Annual report of municipal corporation.",
+      "number": "705.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.23 - Municipal civil service commission - qualifications, term, and vacancies of members.",
+      "number": "705.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.24 - Salaries and duties of commission members.",
+      "number": "705.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.25 - Disposition of fees and perquisites.",
+      "number": "705.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.26 - Duties of officers and employees of a municipal corporation.",
+      "number": "705.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.27 - Bonds.",
+      "number": "705.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.28 - Oath of office.",
+      "number": "705.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.29 - Transfer of powers and duties of abolished office or department.",
+      "number": "705.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.30 - Abandonment of plan - special election.",
+      "number": "705.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.31 - Preparation of ballots.",
+      "number": "705.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.32 - Determination of elected candidates.",
+      "number": "705.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.41 - Commission plan.",
+      "number": "705.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.42 - Election - term - vacancies.",
+      "number": "705.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.43 - Meetings of commission - legislative and administrative sessions.",
+      "number": "705.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.44 - Signing of ordinances under commission plan.",
+      "number": "705.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.45 - Powers of commission.",
+      "number": "705.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.46 - Administrative officers appointed by commission.",
+      "number": "705.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.47 - Creation and discontinuance of offices under commission plan.",
+      "number": "705.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.48 - Supervision of departments by commissioners.",
+      "number": "705.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.51 - City manager plan.",
+      "number": "705.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.52 - Size of council - term of councilmen - vacancies.",
+      "number": "705.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.53 - Meetings of council.",
+      "number": "705.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.54 - Signing of ordinances under city manager plan.",
+      "number": "705.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.55 - Powers exercised by council.",
+      "number": "705.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.56 - Administrative officers appointed by council.",
+      "number": "705.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.57 - Creation and discontinuance of offices under city manager plan.",
+      "number": "705.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.58 - Appointment and term of city manager - vacancy.",
+      "number": "705.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.59 - Duties of city manager.",
+      "number": "705.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.60 - Salary - oath - bond - seal.",
+      "number": "705.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.71 - Federal plan - elective officers.",
+      "number": "705.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.72 - Council - number of members - term.",
+      "number": "705.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.73 - Division into wards on basis of population.",
+      "number": "705.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.74 - Meetings of council - special sessions.",
+      "number": "705.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.74"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.75 - Mayor's veto.",
+      "number": "705.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.76 - Creation and discontinuance of offices under federal plan.",
+      "number": "705.76",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.76"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.77 - Executive power.",
+      "number": "705.77",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.77"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.78 - Election of mayor - appointment of department heads.",
+      "number": "705.78",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.78"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.79 - Powers and duties of mayor.",
+      "number": "705.79",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.79"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.80 - Appointment and removal of officers.",
+      "number": "705.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.80"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.81 - Acting mayor - order of succession.",
+      "number": "705.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.82 - Director of public service - duties.",
+      "number": "705.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.82"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.83 - Director of public safety - duties.",
+      "number": "705.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.83"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.84 - Powers and duties of board of control.",
+      "number": "705.84",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.84"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.85 - Mayor and department heads shall have seats in council.",
+      "number": "705.85",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.85"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.86 - Powers under federal plan.",
+      "number": "705.86",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.86"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.91 - Initiative and referendum applicable to each plan.",
+      "number": "705.91",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.91"
+    },
+    {
+      "kind": "section",
+      "label": "Section 705.92 - Procedure for removal of elective officer by recall.",
+      "number": "705.92",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-705.92"
+    }
+  ],
+  "scraped": "2026-07-02T19:33:19+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-705",
+  "title": "Chapter 705 - Plans Of Government"
+}

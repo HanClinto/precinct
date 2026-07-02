@@ -1,0 +1,164 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Area of mitigation\" or \"AMIT\" means the area of mitigation, as calculated using the formula specified in division (A) of section 6111.313 of the Revised Code, expressed in feet squared.",
+      "id": "6111.311-area-of-mitigation",
+      "normalized": "area of mitigation",
+      "scope": "As used in sections 6111.31 to 6111.316 of the Revised Code:",
+      "section": "6111.311",
+      "source_title": "Section 6111.311 - Ephemeral feature mitigation calculation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-6111.311",
+      "term": "Area of mitigation"
+    },
+    {
+      "definition": "(A) \"Area of mitigation\" or \"AMIT\" means the area of mitigation, as calculated using the formula specified in division (A) of section 6111.313 of the Revised Code, expressed in feet squared.",
+      "id": "6111.311-amit",
+      "normalized": "amit",
+      "scope": "As used in sections 6111.31 to 6111.316 of the Revised Code:",
+      "section": "6111.311",
+      "source_title": "Section 6111.311 - Ephemeral feature mitigation calculation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-6111.311",
+      "term": "AMIT"
+    },
+    {
+      "definition": "(B) Area of the streamway or \"ASW\" means the area of the streamway, expressed in feet squared.",
+      "id": "6111.311-asw",
+      "normalized": "asw",
+      "scope": "As used in sections 6111.31 to 6111.316 of the Revised Code:",
+      "section": "6111.311",
+      "source_title": "Section 6111.311 - Ephemeral feature mitigation calculation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-6111.311",
+      "term": "ASW"
+    },
+    {
+      "definition": "(C) \"DA\" means drainage area, expressed in square miles.\n\n(D) \"Eight-digit hydrologic unit,\" \"enhancement,\" \"in-lieu fee mitigation,\" \"mitigation,\" \"mitigation bank service area,\" \"restoration,\" \"wetlands,\" and \"wetland mitigation bank\" have the same meanings as in section 6111.02 of the Revised Code.",
+      "id": "6111.311-da",
+      "normalized": "da",
+      "scope": "As used in sections 6111.31 to 6111.316 of the Revised Code:",
+      "section": "6111.311",
+      "source_title": "Section 6111.311 - Ephemeral feature mitigation calculation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-6111.311",
+      "term": "DA"
+    },
+    {
+      "definition": "(E) \"LV\" means the valley length of stream, expressed in feet.",
+      "id": "6111.311-lv",
+      "normalized": "lv",
+      "scope": "As used in sections 6111.31 to 6111.316 of the Revised Code:",
+      "section": "6111.311",
+      "source_title": "Section 6111.311 - Ephemeral feature mitigation calculation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-6111.311",
+      "term": "LV"
+    },
+    {
+      "definition": "(F) \"Permanent impact\" means any impact that is not a temporary impact.",
+      "id": "6111.311-permanent-impact",
+      "normalized": "permanent impact",
+      "scope": "As used in sections 6111.31 to 6111.316 of the Revised Code:",
+      "section": "6111.311",
+      "source_title": "Section 6111.311 - Ephemeral feature mitigation calculation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-6111.311",
+      "term": "Permanent impact"
+    },
+    {
+      "definition": "(G) \"Temporary impact\" means an impact to an ephemeral feature that is a water of the state and to which all of the following apply:\n\n(1) It facilitates a proposed activity or aids in the access, staging, or development of any construction.\n\n(2) It will last not more than two years.\n\n(3) Upon termination of the impact, the conditions of the ephemeral feature are expected to return to pre-impact functionality or better condition within the twelve months after such termination.",
+      "id": "6111.311-temporary-impact",
+      "normalized": "temporary impact",
+      "scope": "As used in sections 6111.31 to 6111.316 of the Revised Code:",
+      "section": "6111.311",
+      "source_title": "Section 6111.311 - Ephemeral feature mitigation calculation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-6111.311",
+      "term": "Temporary impact"
+    },
+    {
+      "definition": "(H) \"Volume of mitigation\" or \"VMIT\" means the volume of mitigation, as calculated using the formula specified in division (A) of section 6111.313 of the Revised Code, expressed in cubic feet.",
+      "id": "6111.311-volume-of-mitigation",
+      "normalized": "volume of mitigation",
+      "scope": "As used in sections 6111.31 to 6111.316 of the Revised Code:",
+      "section": "6111.311",
+      "source_title": "Section 6111.311 - Ephemeral feature mitigation calculation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-6111.311",
+      "term": "Volume of mitigation"
+    },
+    {
+      "definition": "(H) \"Volume of mitigation\" or \"VMIT\" means the volume of mitigation, as calculated using the formula specified in division (A) of section 6111.313 of the Revised Code, expressed in cubic feet.",
+      "id": "6111.311-vmit",
+      "normalized": "vmit",
+      "scope": "As used in sections 6111.31 to 6111.316 of the Revised Code:",
+      "section": "6111.311",
+      "source_title": "Section 6111.311 - Ephemeral feature mitigation calculation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-6111.311",
+      "term": "VMIT"
+    },
+    {
+      "definition": "(I) \"Water quality volume\" or \"WQV\" means the surface area divided by the drawdown depth.",
+      "id": "6111.311-water-quality-volume",
+      "normalized": "water quality volume",
+      "scope": "As used in sections 6111.31 to 6111.316 of the Revised Code:",
+      "section": "6111.311",
+      "source_title": "Section 6111.311 - Ephemeral feature mitigation calculation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-6111.311",
+      "term": "Water quality volume"
+    },
+    {
+      "definition": "(I) \"Water quality volume\" or \"WQV\" means the surface area divided by the drawdown depth.",
+      "id": "6111.311-wqv",
+      "normalized": "wqv",
+      "scope": "As used in sections 6111.31 to 6111.316 of the Revised Code:",
+      "section": "6111.311",
+      "source_title": "Section 6111.311 - Ephemeral feature mitigation calculation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-6111.311",
+      "term": "WQV"
+    },
+    {
+      "definition": "(J) \"Width of a streamway\" or \"WSW\" means the width of the streamway, expressed in feet, and calculated as 147 x DA 0.38.\n\nLast updated May 11, 2022 at 4:14 PM",
+      "id": "6111.311-width-of-a-streamway",
+      "normalized": "width of a streamway",
+      "scope": "As used in sections 6111.31 to 6111.316 of the Revised Code:",
+      "section": "6111.311",
+      "source_title": "Section 6111.311 - Ephemeral feature mitigation calculation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-6111.311",
+      "term": "Width of a streamway"
+    },
+    {
+      "definition": "(J) \"Width of a streamway\" or \"WSW\" means the width of the streamway, expressed in feet, and calculated as 147 x DA 0.38.\n\nLast updated May 11, 2022 at 4:14 PM",
+      "id": "6111.311-wsw",
+      "normalized": "wsw",
+      "scope": "As used in sections 6111.31 to 6111.316 of the Revised Code:",
+      "section": "6111.311",
+      "source_title": "Section 6111.311 - Ephemeral feature mitigation calculation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-6111.311",
+      "term": "WSW"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "6111.31",
+      "number": "6111.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.31"
+    },
+    {
+      "kind": "section",
+      "label": "6111.316",
+      "number": "6111.316",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.316"
+    },
+    {
+      "kind": "section",
+      "label": "6111.313",
+      "number": "6111.313",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.313"
+    },
+    {
+      "kind": "section",
+      "label": "6111.02",
+      "number": "6111.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.02"
+    }
+  ],
+  "scraped": "2026-07-02T20:17:15+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-6111.311",
+  "title": "Section 6111.311 - Ephemeral feature mitigation calculation definitions."
+}

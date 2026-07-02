@@ -1,0 +1,531 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 733.01 - Executive power in cities.",
+      "number": "733.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.02 - Mayor of city - election - term.",
+      "number": "733.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.03 - General powers of mayor in cities - merger of certain departments.",
+      "number": "733.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.04 - Appointment of municipal officers in cities.",
+      "number": "733.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.05 - Consultation and advice to directors of departments in cities.",
+      "number": "733.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.06 - Mayor and officers of cities shall attend meetings of legislative authority - mayor's written recommendations.",
+      "number": "733.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.07 - Acting mayor in cities.",
+      "number": "733.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.08 - Vacancy in office of mayor of city.",
+      "number": "733.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.09 - President of legislative authority of city.",
+      "number": "733.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.10 - City auditor.",
+      "number": "733.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.11 - Books and accounts - merger of offices in certain cities.",
+      "number": "733.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.12 - Auditing accounts.",
+      "number": "733.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.13 - Overdrawing appropriation - proof of claims.",
+      "number": "733.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.14 - Detailed statements - receipts.",
+      "number": "733.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.15 - Certificate as to election of certain officers.",
+      "number": "733.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.16 - Clerk of court shall record certificates.",
+      "number": "733.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.17 - Forfeiture for neglect to make report.",
+      "number": "733.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.18 - Duty of city auditor as to receiving bids.",
+      "number": "733.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.19 - Deputy auditor in cities.",
+      "number": "733.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.20 - Seal of city auditor.",
+      "number": "733.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.21 - Board of control.",
+      "number": "733.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.22 - Approval of contracts.",
+      "number": "733.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.23 - Executive power in villages.",
+      "number": "733.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.24 - Mayor of village - election - term - qualifications - powers - duties.",
+      "number": "733.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.25 - Vacancy in office of mayor of village.",
+      "number": "733.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.26 - Election, term, and qualifications of village clerk.",
+      "number": "733.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.261 - Village clerk-treasurer.",
+      "number": "733.261",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.261"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.262 - Village fiscal officer.",
+      "number": "733.262",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.262"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.27 - Powers and duties of village clerk - training programs.",
+      "number": "733.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.28 - Books and accounts - merger of offices.",
+      "number": "733.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.29 - Seal of village clerk.",
+      "number": "733.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.30 - General duties of the mayor of a municipal corporation.",
+      "number": "733.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.31 - Filling vacancies in appointive or elective offices.",
+      "number": "733.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.32 - Communications to legislative authority of finances and general conditions.",
+      "number": "733.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.33 - Protest against excess of expenditures.",
+      "number": "733.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.34 - Supervision of conduct of officers.",
+      "number": "733.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.35 - Mayor shall file charges against delinquent officers.",
+      "number": "733.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.36 - Hearing of charges - action of legislative authority.",
+      "number": "733.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.37 - Suspension of accused pending hearing.",
+      "number": "733.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.38 - Power of legislative authority as to process.",
+      "number": "733.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.39 - Oaths - compulsory testimony - costs.",
+      "number": "733.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.40 - Disposition of fines and other moneys.",
+      "number": "733.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.41 - Annual report to legislative authority.",
+      "number": "733.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.42 - Treasurer.",
+      "number": "733.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.43 - Accounts of treasurer.",
+      "number": "733.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.44 - Powers and duties of treasurer.",
+      "number": "733.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.45 - Quarterly accounting - annual report.",
+      "number": "733.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.46 - Receipt and disbursement of funds.",
+      "number": "733.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.47 - Duty of delivering money and property.",
+      "number": "733.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.48 - Legal counsel for villages - petition to appoint legal counsel.",
+      "number": "733.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.49 - City director of law - term of office.",
+      "number": "733.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.50 - Qualifications of city director of law.",
+      "number": "733.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.51 - Powers and duties of city director of law.",
+      "number": "733.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.52 - Prosecuting attorney of mayor's court.",
+      "number": "733.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.53 - Duties as to suits.",
+      "number": "733.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.54 - City director of law shall give opinions.",
+      "number": "733.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.55 - Payment of moneys.",
+      "number": "733.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.56 - Application for injunction.",
+      "number": "733.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.57 - Specific performance.",
+      "number": "733.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.58 - Writ of mandamus.",
+      "number": "733.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.581 - Taxpayer named as party defendant.",
+      "number": "733.581",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.581"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.59 - Taxpayer's suit.",
+      "number": "733.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.60 - Limitation of action.",
+      "number": "733.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.61 - Duty of court.",
+      "number": "733.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.62 - Annual report.",
+      "number": "733.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.621 - Appointment of assistants or employees.",
+      "number": "733.621",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.621"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.63 - Sealer of weights and measures.",
+      "number": "733.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.64 - Qualification and compensation of sealer.",
+      "number": "733.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.65 - Oath and bond of sealer - appointment of inspectors.",
+      "number": "733.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.66 - Comparison with state standards.",
+      "number": "733.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.671 - Seeking injunction against violation of weights and measures laws.",
+      "number": "733.671",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.671"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.68 - Qualifications of municipal officers - oaths.",
+      "number": "733.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.68"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.69 - Bond of municipal officers.",
+      "number": "733.69",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.69"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.70 - Approval of bonds.",
+      "number": "733.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.71 - Certain facts shall not invalidate bond.",
+      "number": "733.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.72 - Charges against municipal officers filed with probate judge - proceedings.",
+      "number": "733.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.73 - Appearance of counsel - jury.",
+      "number": "733.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.74 - Challenge of jurors.",
+      "number": "733.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.74"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.75 - Proceedings on the trial.",
+      "number": "733.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.76 - Removal of officer if found guilty.",
+      "number": "733.76",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.76"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.77 - Payment of costs.",
+      "number": "733.77",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.77"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.78 - Violations by fiscal officers.",
+      "number": "733.78",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.78"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.79 - Municipal officers may attend conference or convention - expenses.",
+      "number": "733.79",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.79"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.80 - Duties of fire engineer, engineer, superintendent of markets - compensation.",
+      "number": "733.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.80"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.81 - Education programs for fiscal officers.",
+      "number": "733.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.82 - Liability for loss of public funds.",
+      "number": "733.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.82"
+    },
+    {
+      "kind": "section",
+      "label": "Section 733.85 - Municipal income tax administration in noncharter municipalities.",
+      "number": "733.85",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-733.85"
+    }
+  ],
+  "scraped": "2026-07-02T19:33:32+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-733",
+  "title": "Chapter 733 - Officers"
+}

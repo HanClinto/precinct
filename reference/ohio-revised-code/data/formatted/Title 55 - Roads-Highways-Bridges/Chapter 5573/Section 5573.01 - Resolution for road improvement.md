@@ -1,0 +1,12 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5573.01
+Scraped: 2026-07-02T20:13:54+00:00
+
+# Section 5573.01 - Resolution for road improvement.
+
+**Effective:** September 20, 1999
+
+**Latest Legislation:** House Bill 187 - 123rd General Assembly
+
+When the board of township trustees has determined that any road shall be constructed, reconstructed, resurfaced, or improved, the board shall determine by resolution, by unanimous vote if acting without a petition, and by a majority vote if acting upon a petition, the route and termini of the road, and the kind and extent of the improvement, and at the same time shall order the county engineer or, if the township has adopted a limited home rule government under Chapter 504. of the Revised Code, hire an independent professional engineer, after notifying the county engineer, to make surveys, plans, profiles, cross sections, estimates, and specifications as are required for the improvement. If an independent professional engineer is hired, the county engineer shall review all of the independent professional engineer's plans for improvements and provide the board of township trustees with comments on those plans within ten working days after receiving them. The county engineer shall monitor all of the independent professional engineer's plans for improvements in order to maintain compliance with existing construction standards and thoroughfare plans, and coordinate construction timelines within the county.
+
+If the board orders the county engineer to act under this section, the board may order the county engineer to make alternate surveys, plans, profiles, cross sections, estimates, and specifications, providing in them for different widths of roadway, or different materials, and approve all or any number of these alternate surveys, plans, profiles, cross sections, estimates, and specifications. The county engineer may, without instructions from the board, prepare alternate surveys, plans, profiles, cross sections, estimates, and specifications, providing in them for different widths of roadways or different materials. When alternate surveys, plans, profiles, cross sections, estimates, and specifications are approved by the board, or submitted by the county engineer on the county engineer's own motion, the board and county engineer shall, after the opening of bids, agree which of the surveys, plans, profiles, cross sections, estimates, and specifications shall be finally adopted for construction of the improvement.

@@ -1,0 +1,669 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 4723.01 - Nurse definitions.",
+      "number": "4723.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.011 - \"Registered nurse\".",
+      "number": "4723.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.011"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.02 - Board of nursing.",
+      "number": "4723.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.021 - Immunity.",
+      "number": "4723.021",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.021"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.03 - Unlicensed practice.",
+      "number": "4723.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.05 - Appointment of executive director - duties.",
+      "number": "4723.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.06 - Board of nursing - powers and duties.",
+      "number": "4723.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.061 - Minor violations.",
+      "number": "4723.061",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.061"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.062 - Nursing special issue fund.",
+      "number": "4723.062",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.062"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.063 - [Repealed effective 12/31/2033] Nurse education grant program.",
+      "number": "4723.063",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.063"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.064 - Access to information from Ohio law enforcement gateway.",
+      "number": "4723.064",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.064"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.07 - Administrative rules.",
+      "number": "4723.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.071 - Administrative rules for nursing delegation as it applies to DD personnel who administer prescribed medications, perform health-related activities, and perform tube feedings.",
+      "number": "4723.071",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.071"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.072 - Prelicensure nursing education program faculty criteria.",
+      "number": "4723.072",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.072"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.08 - Fees.",
+      "number": "4723.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.081 - Fees in excess of statutory amounts.",
+      "number": "4723.081",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.081"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.082 - Depositing receipts.",
+      "number": "4723.082",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.082"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.09 - License application.",
+      "number": "4723.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.091 - Request for criminal records check.",
+      "number": "4723.091",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.091"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.092 - Ineligibility for licensure.",
+      "number": "4723.092",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.092"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.10 - National standardized nursing examination.",
+      "number": "4723.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.11 - Nurse licensure compact.",
+      "number": "4723.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.111 - Administrator to the interstate commission of nurse licensure compact administrators.",
+      "number": "4723.111",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.111"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.112 - Multistate license to practice nursing; fee.",
+      "number": "4723.112",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.112"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.113 - Comments on proposed rules via teleconference.",
+      "number": "4723.113",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.113"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.114 - Employer obligations regarding nurses holding multistate licenses.",
+      "number": "4723.114",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.114"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.115 - No limits on collective bargaining, board authority.",
+      "number": "4723.115",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.115"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.116 - Grants from national council.",
+      "number": "4723.116",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.116"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.15 - Legacy provisions.",
+      "number": "4723.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.151 - Unlicensed practice.",
+      "number": "4723.151",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.151"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.16 - Offering services through authorized business entity.",
+      "number": "4723.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.18 - Administration of adult intravenous therapy.",
+      "number": "4723.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.181 - Intravenous therapy procedures.",
+      "number": "4723.181",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.181"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.24 - License or certificate renewal; notice of change of address.",
+      "number": "4723.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.25 - Continuing education courses in domestic violence and its relationship to child abuse.",
+      "number": "4723.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.26 - Volunteer nursing certificate.",
+      "number": "4723.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.271 - Replacement copies of certificates.",
+      "number": "4723.271",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.271"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.28 - Disciplinary actions.",
+      "number": "4723.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.281 - Summary suspension without a hearing - automatic suspensions.",
+      "number": "4723.281",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.281"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.282 - Establishing practice intervention and improvement program.",
+      "number": "4723.282",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.282"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.29 - Subpoena power.",
+      "number": "4723.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.32 - Exemptions.",
+      "number": "4723.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.33 - Protection against retaliatory action.",
+      "number": "4723.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.34 - Reporting misconduct.",
+      "number": "4723.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.341 - Immunity.",
+      "number": "4723.341",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.341"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.35 - Impairment monitoring program.",
+      "number": "4723.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.351 - Monitoring organization.",
+      "number": "4723.351",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.351"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.36 - Determination of death by certified nurse practitioner or clinical nurse specialist.",
+      "number": "4723.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.40 - Injunctions.",
+      "number": "4723.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.41 - Requirements for practicing nurse-midwifery or other specialty.",
+      "number": "4723.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.42 - Issuing designation.",
+      "number": "4723.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.43 - Scope of specialized nursing services.",
+      "number": "4723.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.431 - Standard care arrangements.",
+      "number": "4723.431",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.431"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.432 - Cooperation in investigations.",
+      "number": "4723.432",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.432"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.433 - CRNAs - patient best interest and patient records.",
+      "number": "4723.433",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.433"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.434 - Patient notice of anesthesia providers in health care facilities.",
+      "number": "4723.434",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.434"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.436 - Authority to sign psychiatric inpatient documents.",
+      "number": "4723.436",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.436"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.437 - Woman appearing before APRN regarding fetal death.",
+      "number": "4723.437",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.437"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.438 - Certified nurse-midwives - authority to sign documents.",
+      "number": "4723.438",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.438"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.44 - Unauthorized practice.",
+      "number": "4723.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.45 - Supervision of nurse-midwifery.",
+      "number": "4723.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.46 - Establishing list of approved national certifying organizations.",
+      "number": "4723.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.47 - License suspension or revocation.",
+      "number": "4723.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.48 - Delegation of authority to administer certain drugs.",
+      "number": "4723.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.481 - Authority of A.P.R.N. designated as clinical nurse specialist, certified nurse-midwife, or certified nurse practitioner to prescribe drugs and therapeutic devices.",
+      "number": "4723.481",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.481"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.482 - Items submitted with application.",
+      "number": "4723.482",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.482"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.483 - Epinephrine autoinjectors.",
+      "number": "4723.483",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.483"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.487 - Adoption of rules regarding review of patient information available through drug database.",
+      "number": "4723.487",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.487"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.488 - [Former R.C. 4723.486, renumbered effective 12/16/2020 by H.B. 341, 133rd General Assembly] Access to drug database required for license renewal.",
+      "number": "4723.488",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.488"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.489 - Delegated authority to administer drugs.",
+      "number": "4723.489",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.489"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.4810 - Authority to prescribe or furnish drugs to sexual partner of a patient diagnosed with chlamydia, gonorrhea, or trichomoniasis.",
+      "number": "4723.4810",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.4810"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.4811 - [Enacted as R.C. 4723.484 by H.B. 231, 133rd General Assembly and recodified as R.C. 4723.4811 pursuant to R.C. 103.131] Furnishing or prescribing glucagon, immunity.",
+      "number": "4723.4811",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.4811"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.4812 - APRNs - authority to establish epinephrine protocol.",
+      "number": "4723.4812",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.4812"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.493 - Advisory committee on advanced practice registered nursing.",
+      "number": "4723.493",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.493"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.50 - Administrative rules for prescribing drugs and therapeutic devices.",
+      "number": "4723.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.51 - Standards and procedures for medication-assisted treatment; adoption of rules.",
+      "number": "4723.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.52 - Failure to comply with applicable laws and regulations.",
+      "number": "4723.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.63 - [Former R.C. 4723.61, renumbered by S.B. 28, 135th General Assembly, effective 10/24/2024] Medication aide definitions.",
+      "number": "4723.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.64 - Administration of medications by medication aides.",
+      "number": "4723.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.65 - Application for certification as medication aide.",
+      "number": "4723.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.651 - Eligibility for medication aide certificate - issuance - duration.",
+      "number": "4723.651",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.651"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.652 - Sanctions against certificate applicants or holders.",
+      "number": "4723.652",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.652"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.653 - Medication aide; certificate required.",
+      "number": "4723.653",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.653"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.66 - Application for medication aide training program.",
+      "number": "4723.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.67 - Administration of medications by aides - delegation by nurse required.",
+      "number": "4723.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.67"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.68 - Limitation of liability of delegating nurse or person reporting medication error.",
+      "number": "4723.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.68"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.69 - Board to adopt program implementation rules.",
+      "number": "4723.69",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.69"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.71 - Advisory group on dialysis.",
+      "number": "4723.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.72 - Permitted activities.",
+      "number": "4723.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.73 - Dialysis technicians - prohibited acts.",
+      "number": "4723.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.74 - Approving operation of dialysis training program.",
+      "number": "4723.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.74"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.75 - Issuing certificate.",
+      "number": "4723.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.751 - Examinations.",
+      "number": "4723.751",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.751"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.77 - Renewal of dialysis technician certificate.",
+      "number": "4723.77",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.77"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.79 - Administrative rules.",
+      "number": "4723.79",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.79"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.81 - Certification of community health workers program.",
+      "number": "4723.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.82 - Community health worker certificate.",
+      "number": "4723.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.82"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.83 - Application for certificate.",
+      "number": "4723.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.83"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.84 - Eligibility for certificate.",
+      "number": "4723.84",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.84"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.85 - Review and renewal of application.",
+      "number": "4723.85",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.85"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.86 - Denial, revocation or suspension of certificate.",
+      "number": "4723.86",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.86"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.87 - Community health worker training programs.",
+      "number": "4723.87",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.87"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.88 - Community health worker standards and procedures.",
+      "number": "4723.88",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.88"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.89 - Doula certification.",
+      "number": "4723.89",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.89"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.90 - Doula advisory group.",
+      "number": "4723.90",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.90"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.91 - Effect of child support default on certificate.",
+      "number": "4723.91",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.91"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.92 - Compliance with law regarding sanctions for human trafficking.",
+      "number": "4723.92",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.92"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.93 - Consent for intimate examination.",
+      "number": "4723.93",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.93"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.94 - Telehealth services.",
+      "number": "4723.94",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.94"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4723.99 - Penalty.",
+      "number": "4723.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.99"
+    }
+  ],
+  "scraped": "2026-07-02T20:06:49+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-4723",
+  "title": "Chapter 4723 - Nurses"
+}

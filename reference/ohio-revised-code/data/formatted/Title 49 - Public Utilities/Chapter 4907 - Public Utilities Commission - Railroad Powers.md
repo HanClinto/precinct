@@ -1,0 +1,77 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-4907
+Scraped: 2026-07-02T20:09:05+00:00
+
+# Chapter 4907 - Public Utilities Commission - Railroad Powers
+
+## Sections
+
+- Section 4907.01 - Definitions.
+- Section 4907.02 - Railroad defined.
+- Section 4907.03 - Regulation of service.
+- Section 4907.04 - Exception.
+- Section 4907.05 - Power to confer with commissioners of other states.
+- Section 4907.06 - Commission may inquire into management of railroads.
+- Section 4907.07 - Investigation into violations of the interstate commerce law.
+- Section 4907.08 - Commission to inquire into neglect or violations of laws.
+- Section 4907.09 - Power of commission to regulate in cases not designated.
+- Section 4907.10 - Commission may make examinations.
+- Section 4907.11 - Commission may require production of books and papers.
+- Section 4907.12 - Forfeiture for refusal to comply with subpoena.
+- Section 4907.13 - Annual statement under oath to commission.
+- Section 4907.14 - List of officers and directors.
+- Section 4907.15 - Map and profile of new railroad.
+- Section 4907.16 - Commission shall be furnished copies of certain leases, contracts, and agreements.
+- Section 4907.17 - Report of free transportation.
+- Section 4907.18 - Commission may demand copies of transportation contracts.
+- Section 4907.19 - Commission shall prepare blank forms for railroad.
+- Section 4907.20 - Forms - completion and verification.
+- Section 4907.21 - Refusal to fill blank forms.
+- Section 4907.22 - Prohibition against directing violation.
+- Section 4907.23 - Duty of railroad to report certain accidents.
+- Section 4907.24 - Adequate service and facilities.
+- Section 4907.25 - Railroad shall file schedules.
+- Section 4907.26 - Schedules of joint rates.
+- Section 4907.27 - Changes in schedules.
+- Section 4907.28 - Charges shall conform to schedule.
+- Section 4907.29 - Commission shall prescribe forms.
+- Section 4907.30 - Free transportation prohibited - exceptions.
+- Section 4907.31 - Passes may be interchanged.
+- Section 4907.32 - Prohibition.
+- Section 4907.33 - Uniform classification of freight.
+- Section 4907.34 - Exceptions as to freight rates.
+- Section 4907.35 - Unjust discrimination - forfeiture.
+- Section 4907.36 - Illegal concessions.
+- Section 4907.37 - Unlawful preference.
+- Section 4907.38 - Rebate or concessions prohibited.
+- Section 4907.39 - Depots, switches, and sidetracks.
+- Section 4907.40 - Control over private tracks.
+- Section 4907.41 - Supply of cars.
+- Section 4907.42 - Interchange of traffic.
+- Section 4907.43 - Railroad track connection.
+- Section 4907.44 - Duty of commission as to dangerous structures.
+- Section 4907.45 - Repair of defective track.
+- Section 4907.46 - Forfeiture in case of noncompliance.
+- Section 4907.47 - Installing crossing signals.
+- Section 4907.471 - Surveys determining probability of accident at crossing.
+- Section 4907.472 - Grade crossing protection fund.
+- Section 4907.473 - Removing or defacing protective device prohibited.
+- Section 4907.474 - Closing crossings to vehicular traffic.
+- Section 4907.475 - Closing rural crossings.
+- Section 4907.476 - Use of federal funds.
+- Section 4907.48 - Regulation of crossing signals.
+- Section 4907.49 - Dangerous crossings.
+- Section 4907.50 - Engines or trains may pass crossings without stopping.
+- Section 4907.51 - Unsafe interlocking works or fixtures.
+- Section 4907.52 - Safety devices at grade crossings.
+- Section 4907.53 - Hearing as to necessity of safety device.
+- Section 4907.54 - Compulsory interlocking.
+- Section 4907.55 - Crossing without stopping.
+- Section 4907.56 - Forfeiture for noncompliance with order.
+- Section 4907.57 - Damage claims.
+- Section 4907.58 - Immediate trial.
+- Section 4907.59 - Counsel for commission.
+- Section 4907.60 - Forfeiture for violation.
+- Section 4907.61 - Venue of forfeiture action by attorney general.
+- Section 4907.62 - Punitive damages.
+- Section 4907.63 - Violation.
+- Section 4907.99 - Penalty.

@@ -1,0 +1,411 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 1702.01 - Nonprofit corporation law definitions.",
+      "number": "1702.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.02 - Notice requirements.",
+      "number": "1702.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.03 - Purposes of corporation.",
+      "number": "1702.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.04 - Articles of incorporation.",
+      "number": "1702.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.05 - Corporate name - transfer - reservation.",
+      "number": "1702.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.06 - Statutory agent - cancellation and reinstatement of articles.",
+      "number": "1702.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.07 - Acceptance of articles of incorporation and other certificates - filing not constructive notice of contents.",
+      "number": "1702.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.08 - Incorporation of such society or association.",
+      "number": "1702.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.09 - Religious society.",
+      "number": "1702.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.10 - Adoption of regulations.",
+      "number": "1702.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.11 - Contents of regulations.",
+      "number": "1702.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.12 - Authority of nonprofit corporation.",
+      "number": "1702.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.13 - Membership.",
+      "number": "1702.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.14 - Absence of provision for members.",
+      "number": "1702.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.15 - Corporation to keep books and records of account and minutes of proceedings.",
+      "number": "1702.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.16 - Annual meeting.",
+      "number": "1702.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.17 - Meetings of voting members - calling and place of meeting.",
+      "number": "1702.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.18 - Notice of meeting.",
+      "number": "1702.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.19 - Waiver of notice.",
+      "number": "1702.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.20 - Voting.",
+      "number": "1702.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.21 - Voting of membership in corporation.",
+      "number": "1702.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.22 - Quorum of voting members.",
+      "number": "1702.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.23 - Controlling provisions of articles or regulations.",
+      "number": "1702.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.24 - Vote of members required for rescission or revocation.",
+      "number": "1702.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.25 - Action by members or directors without a meeting.",
+      "number": "1702.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.26 - Election of directors.",
+      "number": "1702.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.27 - Number and qualifications of directors - ex officio directors - provisional director.",
+      "number": "1702.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.28 - Term and classification of directors.",
+      "number": "1702.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.29 - Removal of directors and filling vacancies.",
+      "number": "1702.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.30 - Authority of directors.",
+      "number": "1702.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.301 - Interest of director or officer in contract.",
+      "number": "1702.301",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.301"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.31 - Meetings of directors - notice.",
+      "number": "1702.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.32 - Quorum for directors' meeting.",
+      "number": "1702.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.33 - Executive and other committees of directors.",
+      "number": "1702.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.34 - Officers - authority and removal.",
+      "number": "1702.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.341 - Officers - fiduciary duties.",
+      "number": "1702.341",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.341"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.35 - Corporate property.",
+      "number": "1702.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.36 - Corporate mortgages.",
+      "number": "1702.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.37 - Usury.",
+      "number": "1702.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.38 - Amendments to articles.",
+      "number": "1702.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.39 - Mutual benefit corporation - disposition of assets.",
+      "number": "1702.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.40 - Judicial sale of property.",
+      "number": "1702.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.41 - Merger or consolidation into domestic corporation.",
+      "number": "1702.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.411 - Merger or consolidation into entity other than domestic corporation.",
+      "number": "1702.411",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.411"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.42 - Agreement of merger or consolidation - vote by members.",
+      "number": "1702.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.43 - Certificate of merger or consolidation.",
+      "number": "1702.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.44 - Effect of merger or consolidation.",
+      "number": "1702.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.46 - Effective date of merger or consolidation.",
+      "number": "1702.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.461 - Conversion to domestic or foreign entity other than a for profit corporation or domestic corporation; written declaration of conversion.",
+      "number": "1702.461",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.461"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.462 - Form of certificate of conversion.",
+      "number": "1702.462",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.462"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.47 - Voluntary dissolution.",
+      "number": "1702.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.48 - Public notice of voluntary dissolution.",
+      "number": "1702.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.49 - Winding up or obtaining reinstatement - powers and duties of directors.",
+      "number": "1702.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.50 - Jurisdiction of court over winding up of affairs of voluntarily dissolved corporation.",
+      "number": "1702.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.51 - Receiver for winding up affairs of corporation.",
+      "number": "1702.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.52 - Judicial dissolution.",
+      "number": "1702.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.521 - Provisional director - appointment, duties, qualifications.",
+      "number": "1702.521",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.521"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.53 - Certified copies as evidence.",
+      "number": "1702.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.531 - Liabilities of providers of goods and services.",
+      "number": "1702.531",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.531"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.54 - False statement or entry.",
+      "number": "1702.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.55 - Liability of members, directors and officers of corporation.",
+      "number": "1702.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.57 - Exercise of expired powers.",
+      "number": "1702.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.58 - Applicability of chapter.",
+      "number": "1702.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.59 - Filing of verified statement of continued existence.",
+      "number": "1702.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.60 - Restoring rights, privileges, and franchises upon reinstatement.",
+      "number": "1702.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.80 - Qualified nonprofit corporation may establish police department.",
+      "number": "1702.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.80"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1702.99 - Penalty.",
+      "number": "1702.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1702.99"
+    }
+  ],
+  "scraped": "2026-07-02T19:39:04+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-1702",
+  "title": "Chapter 1702 - Nonprofit Corporation Law"
+}

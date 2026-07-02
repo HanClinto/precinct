@@ -1,0 +1,14 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-6115.24
+Scraped: 2026-07-02T20:17:22+00:00
+
+# Section 6115.24 - Regulations for sanitary district organized wholly for reduction of populations of biting arthropods.
+
+**Effective:** October 9, 1981
+
+**Latest Legislation:** House Bill 156 - 114th General Assembly
+
+In the case of a sanitary district established wholly or partly for reducing populations of biting arthropods, the board of directors of the sanitary district may make and enforce regulations pertaining to the prevention and elimination of stagnant water or other breeding places for biting arthropods in the district. The regulations may, among other things, prohibit the owner, tenant, agent, or other person having charge of any land in the district from constructing or maintaining thereon any pond or pool, either natural or artificial, or any other receptacle of water, portable or otherwise, under conditions which may cause any such land, or anything situated thereon, to become a breeding place for biting arthropods.
+
+No owner, tenant, agent, or other person having charge of any land, in the district, after five days' written notice of a regulation and any violation thereof, shall fail to comply with the regulation. Each day's violation of the regulation, after notice thereof, is a separate offense. The board, or any of its agents or employees, shall give the written notice of the regulation and its violation to such owner, tenant, agent, or other person, either by personally delivering a copy of the notice to such owner, tenant, agent, or other person, or by posting a copy of the notice for not less than five days in a conspicuous place on the land whereon the violation of the regulation exists. The notice shall set forth a copy of the regulation and also a description of the land whereon the violation exists.
+
+If the owner, tenant, agent, or other person having charge of any land in the district, after the notice provided for in this section has been given, fails to comply with the regulation, the board, in addition to or without regard to enforcing the penalty provided for in division (B) of section 6115.99 of the Revised Code, may, through its agents and employees, enter upon the land whereon the violation of the regulation exists and abate the conditions existing thereon which constitute the violation. A written statement describing the land and setting forth the total amount of all expense incurred by the board in abating such conditions shall then be filed with the county auditor, and that amount shall be entered upon the tax duplicate by the auditor and be a lien upon the land from and after the date of the entry, and shall be collected by the county treasurer as other assessments. The amount, when so collected, shall be paid by the county treasurer to the treasurer of the sanitary district.

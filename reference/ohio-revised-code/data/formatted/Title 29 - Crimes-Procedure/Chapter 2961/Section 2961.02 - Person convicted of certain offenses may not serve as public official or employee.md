@@ -1,0 +1,34 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-2961.02
+Scraped: 2026-07-02T19:47:11+00:00
+
+# Section 2961.02 - Person convicted of certain offenses may not serve as public official or employee.
+
+**Effective:** September 30, 2008
+
+**Latest Legislation:** House Bill 195 - 127th General Assembly
+
+(A) As used in this section:
+
+(1) "Disqualifying offense" means an offense that has both of the following characteristics:
+
+(a) It is one of the following:
+
+(i) A theft offense that is a felony;
+
+(ii) A felony under the laws of this state, another state, or the United States, that is not covered by division (A)(1)(a)(i) of this section and that involves fraud, deceit, or theft.
+
+(b) It is an offense for which the laws of this state, another state, or the United States do not otherwise contain a provision specifying permanent disqualification, or disqualification for a specified period, from holding a public office or position of public employment, or from serving as an unpaid volunteer, as a result of conviction of the offense, including, but not limited to, a provision such as that in division (C)(1) of section 2921.41 of the Revised Code.
+
+(2) "Political subdivision" has the same meaning as in section 2744.01 of the Revised Code.
+
+(3) "Private entity" includes an individual, corporation, limited liability company, business trust, estate, trust, partnership, or association that receives any funds from a state agency or political subdivision to perform an activity on behalf of the state agency or political subdivision.
+
+(4) "State agency" has the same meaning as in section 1.60 of the Revised Code.
+
+(5) "Theft offense" has the same meaning as in section 2913.01 of the Revised Code.
+
+(6) "Volunteer" means a person who serves as a volunteer without compensation with a state agency or political subdivision or who serves as a volunteer without compensation with a private entity, including, but not limited to, an uncompensated auxiliary police officer, auxiliary deputy sheriff, or volunteer firefighter.
+
+(B) Any person who pleads guilty to a disqualifying offense and whose plea is accepted by the court or any person against whom a verdict or finding of guilt for committing a disqualifying offense is returned is incompetent to hold a public office or position of public employment or to serve as a volunteer, if holding the public office or position of public employment or serving as the volunteer involves substantial management or control over the property of a state agency, political subdivision, or private entity.
+
+(C) Division (B) of this section does not apply if a plea, verdict, or finding of the type described in that division regarding a disqualifying offense is reversed, expunged, or annulled. The full pardon of a person who has pleaded guilty to a disqualifying offense and whose plea was accepted by the court or a person against whom a verdict or finding of guilt for committing a disqualifying offense was returned restores the privileges forfeited under division (B) of this section, but the pardon does not release the person from the costs of the person's conviction in this state, unless so specified.

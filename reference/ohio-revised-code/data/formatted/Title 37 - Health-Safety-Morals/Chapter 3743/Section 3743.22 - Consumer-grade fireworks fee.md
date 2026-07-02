@@ -1,0 +1,30 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3743.22
+Scraped: 2026-07-02T20:00:53+00:00
+
+# Section 3743.22 - Consumer-grade fireworks fee.
+
+**Effective:** February 7, 2022
+
+**Latest Legislation:** House Bill 172 - 134th General Assembly
+
+(A) As used in this section:
+
+(1) "Fee period" means the period beginning on the first day of October and ending on the thirtieth day of the following September.
+
+(2) "Gross receipts" excludes the amount of taxes a licensed retailer, licensed manufacturer, or licensed wholesaler collects from a consumer under Chapter 5739. of the Revised Code on behalf of the state or a political subdivision.
+
+(B) For the purpose of providing revenue to fund firefighter training programs and the enforcement and regulation of the fireworks industry, a fee is imposed on licensed retailers, licensed manufacturers, and licensed wholesalers selling 1.4G fireworks in this state. The fee shall equal four per cent of the gross receipts of a licensed manufacturer or licensed wholesaler from retail sales of 1.4G fireworks in this state made one hundred or more days after the effective date of this section. For the purpose of this section, a retail sale of 1.4G fireworks is made in this state only if the purchaser intends to use the fireworks, and not resell them, and receives the 1.4G fireworks at a location in this state.
+
+The fee shall be reported, on a form prescribed by the state fire marshal, and remitted to the state fire marshal on or before the twenty-third day after the last day of each fee period. The amount of the fee due shall be computed on the basis of gross receipts from retail sales made in each fee period. A licensed retailer, licensed manufacturer, or licensed wholesaler whose license is issued, canceled or revoked, or not renewed after expiration during a fee period shall report and remit the fee based on sales of 1.4G fireworks made in that fee period as required under this section. A licensed retailer, licensed manufacturer, or licensed wholesaler may separately or proportionately bill or invoice a fee imposed under this section to another person.
+
+(C) All money collected under this section shall be credited to the fireworks fee receipts fund, which is hereby created in the state treasury. Seven-eighths of the money in the fund shall be used by the state fire marshal solely to fund firefighter training programs. Remaining money in the fund shall be used solely to pay expenses of the state fire marshal in performing the duties prescribed by this chapter.
+
+(D) If the state fire marshal determines that a licensed retailer, licensed manufacturer, or licensed wholesaler fails to timely report and remit the full amount of the fee as required by this section, the state fire marshal may do either of the following:
+
+(1) Order, in writing, the retailer, wholesaler, or manufacturer to report and remit to the state fire marshal, within a specified period of time, any such underpayment;
+
+(2) Revoke or deny renewal of the license of the retailer, manufacturer, or wholesaler, which shall subject a manufacturer or wholesaler to the consequences prescribed in division (D) of section 3743.08 of the Revised Code or division (D) of section 3743.21 of the Revised Code.
+
+(E) The state fire marshal may adopt rules in accordance with Chapter 119. of the Revised Code as necessary to administer and enforce the fee imposed under this section.
+
+Last updated December 9, 2021 at 4:09 PM

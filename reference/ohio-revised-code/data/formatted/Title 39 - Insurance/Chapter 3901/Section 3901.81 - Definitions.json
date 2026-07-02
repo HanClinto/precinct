@@ -1,0 +1,116 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Auditing entity\" means any person or government entity that performs a pharmacy audit, including a payer, a pharmacy benefit manager, or a third-party administrator licensed under Chapter 3959. of the Revised Code.",
+      "id": "3901.81-auditing-entity",
+      "normalized": "auditing entity",
+      "scope": "As used in this section and sections 3901.811 to 3901.815 of the Revised Code:",
+      "section": "3901.81",
+      "source_title": "Section 3901.81 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3901.81",
+      "term": "Auditing entity"
+    },
+    {
+      "definition": "(B) \"Business day\" means any day of the week excluding Saturday, Sunday, and a legal holiday, as defined in section 1.14 of the Revised Code.",
+      "id": "3901.81-business-day",
+      "normalized": "business day",
+      "scope": "As used in this section and sections 3901.811 to 3901.815 of the Revised Code:",
+      "section": "3901.81",
+      "source_title": "Section 3901.81 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3901.81",
+      "term": "Business day"
+    },
+    {
+      "definition": "(C) \"Concurrent review\" means a claims review within five business days of submission of claims for payment for the provision of dangerous drugs for which the payer or the auditing entity does not impose a penalty or demand to recoup money from the pharmacy in any amount.\n\n(D) \"Dangerous drug,\" \"pharmacy,\" \"practice of pharmacy,\" and \"prescription\" have the same meanings as in section 4729.01 of the Revised Code.",
+      "id": "3901.81-concurrent-review",
+      "normalized": "concurrent review",
+      "scope": "As used in this section and sections 3901.811 to 3901.815 of the Revised Code:",
+      "section": "3901.81",
+      "source_title": "Section 3901.81 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3901.81",
+      "term": "Concurrent review"
+    },
+    {
+      "definition": "(E) \"Payer\" means any of the following that pays for or processes a claim for payment for the provision of dangerous drugs or pharmacy services:\n\n(1) A health insuring corporation, as defined in section 1751.01 of the Revised Code;\n\n(2) A person authorized to engage in the business of sickness and accident insurance under Title XXXIX of the Revised Code;\n\n(3) A person or government entity providing coverage of dangerous drugs or pharmacy services to individuals on a self-insurance basis;\n\n(4) A group health plan, as defined in 29 U.S.C. 1167;\n\n(5) A service benefit plan, as referenced in 42 U.S.C. 1396a(a)(25);\n\n(6) A medicaid managed care organization that has entered into a contract with the department of medicaid pursuant to section 5167.10 of the Revised Code;\n\n(7) Any other person or government entity that is, by law, contract, or agreement, responsible for paying for or processing a claim for payment for the provision of dangerous drugs or pharmacy services.",
+      "id": "3901.81-payer",
+      "normalized": "payer",
+      "scope": "As used in this section and sections 3901.811 to 3901.815 of the Revised Code:",
+      "section": "3901.81",
+      "source_title": "Section 3901.81 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3901.81",
+      "term": "Payer"
+    },
+    {
+      "definition": "(F) \"Pharmacy audit\" means a review of one or more pharmacy records conducted by an auditing entity, one purpose of which is to identify discrepancies in claims for payment for the provision of dangerous drugs or pharmacy services. \"Pharmacy audit\" does not include concurrent review.",
+      "id": "3901.81-pharmacy-audit",
+      "normalized": "pharmacy audit",
+      "scope": "As used in this section and sections 3901.811 to 3901.815 of the Revised Code:",
+      "section": "3901.81",
+      "source_title": "Section 3901.81 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3901.81",
+      "term": "Pharmacy audit"
+    },
+    {
+      "definition": "(G) \"Pharmacy benefit manager\" means a person that provides administrative services related to the processing of claims for payment for the provision of dangerous drugs or pharmacy services, including performing pharmacy audit compliance, negotiating pharmaceutical rebate agreements, developing and managing drug formularies and preferred drug lists, and administering programs for payers' prior authorization of claims for payment for the provision of dangerous drugs or pharmacy services.",
+      "id": "3901.81-pharmacy-benefit-manager",
+      "normalized": "pharmacy benefit manager",
+      "scope": "As used in this section and sections 3901.811 to 3901.815 of the Revised Code:",
+      "section": "3901.81",
+      "source_title": "Section 3901.81 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3901.81",
+      "term": "Pharmacy benefit manager"
+    },
+    {
+      "definition": "(H) \"Pharmacy record\" means any record stored electronically or as a hard copy by a pharmacy that relates to the provision of dangerous drugs or pharmacy services or any other component of pharmacist care that is included in the practice of pharmacy.",
+      "id": "3901.81-pharmacy-record",
+      "normalized": "pharmacy record",
+      "scope": "As used in this section and sections 3901.811 to 3901.815 of the Revised Code:",
+      "section": "3901.81",
+      "source_title": "Section 3901.81 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3901.81",
+      "term": "Pharmacy record"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3901.811",
+      "number": "3901.811",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.811"
+    },
+    {
+      "kind": "section",
+      "label": "3901.815",
+      "number": "3901.815",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.815"
+    },
+    {
+      "kind": "section",
+      "label": "1.14",
+      "number": "1.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1.14"
+    },
+    {
+      "kind": "section",
+      "label": "4729.01",
+      "number": "4729.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.01"
+    },
+    {
+      "kind": "section",
+      "label": "1751.01",
+      "number": "1751.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.01"
+    },
+    {
+      "kind": "section",
+      "label": "5167.10",
+      "number": "5167.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5167.10"
+    }
+  ],
+  "scraped": "2026-07-02T20:02:07+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3901.81",
+  "title": "Section 3901.81 - Definitions."
+}

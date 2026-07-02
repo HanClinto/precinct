@@ -1,0 +1,75 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-5727
+Scraped: 2026-07-02T20:14:53+00:00
+
+# Chapter 5727 - Public Utilities
+
+## Sections
+
+- Section 5727.01 - Public utilities definitions.
+- Section 5727.02 - Persons excepted.
+- Section 5727.03 - Combined company to file separate report for each listed activity of company.
+- Section 5727.031 - Report by entity incidentally supplying electricity.
+- Section 5727.04 - Public utility or interexchange telecommunications company not exempt.
+- Section 5727.05 - Exemption of nonprofit and municipal corporations.
+- Section 5727.06 - Taxable property of public utility or interexchange telecommunications company - assessment by tax commissioner.
+- Section 5727.08 - Annual report.
+- Section 5727.10 - Assessment - hearing - correction.
+- Section 5727.11 - Method of valuation.
+- Section 5727.111 - Assessing at percentages of true value.
+- Section 5727.12 - Valuation and assessment of railroad properties.
+- Section 5727.14 - Apportionment of value of property of interstate railroad.
+- Section 5727.15 - Apportionment of value of taxable property of public utilities.
+- Section 5727.23 - Preliminary or amended assessment - petition for reassessment.
+- Section 5727.24 - Tax on gross receipts of natural gas company or combined electric and gas company.
+- Section 5727.241 - Credit against tax on natural gas or combined company.
+- Section 5727.25 - Quarterly or annual returns filed with tax payment - additional charges, penalties, and interest.
+- Section 5727.26 - Assessment for failure to file return or pay amount due - judgment against company.
+- Section 5727.27 - Company to keep records - inspection of records.
+- Section 5727.28 - Refunds.
+- Section 5727.29 - Refundable credit calculation.
+- Section 5727.30 - Public utilities subject to annual excise tax.
+- Section 5727.31 - Annual statement of public utility - reports.
+- Section 5727.311 - Tax payments by electronic funds transfer.
+- Section 5727.32 - Contents of statement and reports.
+- Section 5727.33 - Ascertaining and determining gross receipts of certain companies.
+- Section 5727.331 - Tax reduction to be reflected in rates.
+- Section 5727.38 - Excise tax on gross receipts of certain public utilities.
+- Section 5727.42 - Collection of excise taxes; refunds; failure to pay taxes.
+- Section 5727.45 - Crediting of taxes and penalties to funds.
+- Section 5727.47 - Notice of assessment - petition for reassessment.
+- Section 5727.471 - Assessment for underpayment or overpayment of taxes by public utility.
+- Section 5727.48 - Extension of time.
+- Section 5727.49 - Monthly report of secretary of state - information provided by county auditors.
+- Section 5727.50 - Valuation if no report or erroneous information reported.
+- Section 5727.51 - Taxes on dissolution or retirement required to be paid.
+- Section 5727.53 - Action to recover taxes.
+- Section 5727.54 - Cancellation of articles of incorporation or certificate of authority for failure to report or pay taxes.
+- Section 5727.55 - Prohibition against doing business after cancellation of articles or certificate.
+- Section 5727.56 - Reinstatement of public utility - conditions - designation of agent.
+- Section 5727.57 - Petition for judgment for taxes - injunction - procedure - evidence.
+- Section 5727.58 - Quo warranto proceedings.
+- Section 5727.60 - Penalty for failure to make report.
+- Section 5727.61 - Affidavit denying unlawful political contributions.
+- Section 5727.62 - Payment of witness fees.
+- Section 5727.71 - Duty of officials of railroads to testify.
+- Section 5727.72 - Duty to testify or bring books or papers.
+- Section 5727.74 - Effect when tax charged invalid.
+- Section 5727.75 - Exemption on tangible personal property and real property of certain qualified energy projects.
+- Section 5727.76 - Exemption for tangible personal property transmitting electricity or natural gas in priority investment area.
+- Section 5727.80 - Kilowatt-hour tax definitions.
+- Section 5727.81 - Excise tax levied on electric distribution company.
+- Section 5727.811 - Excise tax levied on natural gas distribution company.
+- Section 5727.82 - Monthly return and payment of tax.
+- Section 5727.83 - Payment by electronic funds transfer.
+- Section 5727.84 - Crediting money in kilowatt-hour tax receipts fund.
+- Section 5727.85 - Payments from school district property tax replacement fund.
+- Section 5727.86 - Payments from local government property tax replacement fund.
+- Section 5727.88 - Administration of provisions.
+- Section 5727.89 - Failure to file return or pay tax, interest, or additional charge.
+- Section 5727.90 - Statute of limitations.
+- Section 5727.91 - Refunds.
+- Section 5727.92 - Keeping and preserving records.
+- Section 5727.93 - Registration.
+- Section 5727.94 - Tax statement provided to customers.
+- Section 5727.95 - Prohibited acts.
+- Section 5727.99 - Penalty.

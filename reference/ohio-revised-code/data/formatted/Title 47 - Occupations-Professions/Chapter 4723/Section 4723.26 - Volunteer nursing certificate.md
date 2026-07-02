@@ -1,0 +1,54 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4723.26
+Scraped: 2026-07-02T20:06:49+00:00
+
+# Section 4723.26 - Volunteer nursing certificate.
+
+**Effective:** December 29, 2023
+
+**Latest Legislation:** Senate Bill 131 - 134th General Assembly
+
+(A)(1) As used in this section:
+
+(a) "Free clinic" has the same meaning as in section 3701.071 of the Revised Code.
+
+(b) "Indigent and uninsured person" and "operation" have the same meanings as in section 2305.234 of the Revised Code.
+
+(2) For the purposes of this section, a person shall be considered retired from practice if the person's license has expired with the intention of ceasing to practice nursing as a registered nurse, licensed practical nurse, or advanced practice registered nurse for remuneration.
+
+(B) The board of nursing may issue, without examination, a volunteer's certificate to a qualified person who is retired from practice so that the person may provide nursing services to indigent and uninsured persons at any location, including a free clinic.
+
+(C) Except as provided in division (D) of this section, an application for a volunteer's certificate shall include all of the following:
+
+(1) A copy or other evidence of the applicant's degree from a school of registered nursing, practical nursing, or advanced practice registered nursing;
+
+(2) One of the following, as applicable:
+
+(a) A copy or other evidence of the applicant's most recent license to practice nursing as a registered nurse, licensed practical nurse, or advanced practice registered nurse issued by a jurisdiction in the United States that licenses persons to practice nursing as a registered nurse, licensed practical nurse, or advanced practice registered nurse;
+
+(b) A copy or other evidence of the applicant's most recent license equivalent to a license to practice nursing as a registered nurse, licensed practical nurse, or advanced practice registered nurse in one or more branches of the United States armed services that the United States government issued.
+
+(3) Evidence of one of the following, as applicable:
+
+(a) The applicant has maintained for at least ten years prior to retirement a valid, unrestricted license in any jurisdiction in the United States that licenses persons to practice nursing as a registered nurse, licensed practical nurse, or advanced practice registered nurse.
+
+(b) The applicant has practiced nursing as a registered nurse, licensed practical nurse, or advanced practice registered nurse under a valid, unrestricted license for at least ten years prior to retirement in one or more branches of the United States armed services.
+
+(D) For an applicant retired from practice for at least ten years, the applicant shall do both of the following:
+
+(1) Certify to the board completion of continuing nursing education that meets the requirements of section 4723.24 of the Revised Code and the rules adopted under that section;
+
+(2) Submit a request to the bureau of criminal identification and investigation for a criminal records check and check of federal bureau of investigation records pursuant to section 4723.091 of the Revised Code.
+
+(E) Chapter 4796. of the Revised Code does not apply to a certificate issued under this section.
+
+(F) The holder of a volunteer's certificate may provide nursing services only to indigent and uninsured persons, but may do so at any location, including a free clinic. The holder shall not accept any form of remuneration for providing nursing services while in possession of the certificate. The board may suspend or revoke a volunteer's certificate on receiving proof satisfactory to the board that the holder has engaged in practice in this state outside the scope of the holder's certificate or that there are grounds for action against the person under section 4723.28 of the Revised Code. In revoking a certificate, the board may specify that the revocation is permanent.
+
+(G)(1) A volunteer's certificate shall be valid for a period of two years, and may be renewed upon the application of the holder, unless the certificate is suspended or revoked under division (F) of this section. The board shall maintain a record of all persons who hold volunteer's certificates. The board shall not charge a fee for issuing or renewing a certificate pursuant to this section.
+
+(2) To be eligible for renewal of a volunteer's certificate, the holder of the certificate shall certify to the board completion of continuing nursing education that meets the requirements of section 4723.24 of the Revised Code and the rules adopted under that section. The board may not renew a certificate if the holder has not complied with the appropriate continuing education requirements. Any entity for which the holder provides nursing services may pay for or reimburse the holder for any costs incurred in obtaining the required continuing education hours.
+
+(3) The holder of a volunteer's certificate issued pursuant to this section is subject to the immunity provisions regarding the provision of services to indigent and uninsured persons in section 2305.234 of the Revised Code.
+
+(H) The board shall adopt rules in accordance with Chapter 119. of the Revised Code to administer and enforce this section.
+
+Last updated December 29, 2023 at 6:33 AM

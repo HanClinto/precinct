@@ -1,0 +1,22 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-1308.08
+Scraped: 2026-07-02T19:37:06+00:00
+
+# Section 1308.08 - Issuer - UCC 8-201.
+
+**Effective:** January 1, 1998
+
+**Latest Legislation:** House Bill 170 - 122nd General Assembly
+
+(A) With respect to obligations on or defenses to a security, "issuer" includes a person who:
+
+(1) Places or authorizes the placing of its name on a security certificate, otherwise than as authenticating trustee, registrar, transfer agent, or the like, to evidence a share, participation, or other interest in its property or in an enterprise, or to evidence its duty to perform an obligation represented by the certificate;
+
+(2) Creates shares, participations, or other interests in its property or in an enterprise, or undertakes obligations, that are uncertificated securities;
+
+(3) Directly or indirectly creates fractional interests in its rights or property, if the fractional interests are represented by security certificates; or
+
+(4) Becomes responsible for, or in place of, any other person described as an issuer in this section.
+
+(B) With respect to obligations on or defenses to a security, a guarantor is an issuer to the extent of its guaranty, whether or not its obligation is noted on a security certificate.
+
+(C) With respect to registration of transfer, "issuer" means a person on whose behalf transfer books are maintained.

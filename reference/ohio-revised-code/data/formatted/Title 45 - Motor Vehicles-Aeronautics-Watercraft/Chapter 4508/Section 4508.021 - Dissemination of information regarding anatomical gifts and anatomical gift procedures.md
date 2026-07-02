@@ -1,0 +1,28 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4508.021
+Scraped: 2026-07-02T20:05:31+00:00
+
+# Section 4508.021 - Dissemination of information regarding anatomical gifts and anatomical gift procedures.
+
+**Effective:** October 3, 2023
+
+**Latest Legislation:** House Bill 33 - 135th General Assembly
+
+(A) As used in this section:
+
+(1) "State agency" has the same meaning as in section 1.60 of the Revised Code.
+
+(2) "Electronic medium" means a web site, electronic mail communication, compact disc media, or other electronic format through which information is sent or conveyed.
+
+(B) The classroom instruction required by division (C) of section 4508.02 of the Revised Code shall include the dissemination of information regarding anatomical gifts and anatomical gift procedures or a presentation and discussion of such gifts and procedures in accordance with this section. The second chance trust fund advisory committee created under section 2108.35 of the Revised Code shall approve any brochure, written material, or electronic medium used by a driver training school to provide information to students regarding anatomical gifts and anatomical gift procedures. However, the committee shall not approve any such brochure, written material, or electronic medium that contains religious content for use in a driver education course conducted by a school district or educational service center.
+
+(C)(1) If any brochure or other written material approved by the committee under division (B) of this section is made available to a driver training school at no cost, the instructor shall provide such brochure or material to students.
+
+(2) If any electronic medium that is less than twenty minutes in length and that is approved by the committee under division (B) of this section is made available to a driver training school at no cost, the instructor shall show the electronic medium to students, provided that the school maintains operable viewing equipment. If more than one such electronic medium is made available to a school in accordance with this division, the instructor shall select one electronic medium from among those received by the school to show to students.
+
+(3) If no electronic medium is shown to students as specified in division (C)(2) of this section, the instructor shall organize a classroom presentation and discussion regarding anatomical gifts and anatomical gift procedures. The instructor may arrange for the presentation to be conducted by an employee of the department of health or any other state agency, an employee or volunteer of the second chance trust fund, an employee or volunteer of any organization involved in the procurement of organ donations, an organ donor, an organ recipient, an employee or volunteer of a tissue or eye bank, or a tissue or corneal transplant recipient, provided that no such person charges a fee to the school for the presentation. However, no such presentation that contains religious content shall be made to students of a driver education course conducted by a school district or educational service center. Students shall be granted the opportunity to ask questions on anatomical gifts and anatomical gift procedures during the presentation and discussion.
+
+Nothing in this section shall prohibit an instructor from also organizing a classroom presentation and discussion regarding anatomical gifts and anatomical gift procedures in accordance with this division if the instructor shows an electronic medium to students pursuant to division (C)(2) of this section.
+
+(D) No student shall be required to participate in any instruction in anatomical gifts or anatomical gift procedures conducted under this section upon written notification from the student's parent or guardian, or the student if the student is over eighteen years of age, that such instruction conflicts with the religious convictions of the student or the student's parent or guardian. If a student is excused from such instruction, the instructor shall give the student an alternative assignment.
+
+Last updated September 18, 2023 at 10:31 AM

@@ -1,0 +1,72 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-1533.32
+Scraped: 2026-07-02T19:37:50+00:00
+
+# Section 1533.32 - Fishing licenses generally.
+
+**Effective:** September 30, 2025
+
+**Latest Legislation:** House Bill 96 (GA 136), House Bill 64 (GA 136)
+
+(A) Except as provided in this section or division (A)(2) or (C) of section 1533.12 of the Revised Code or as exempted at the discretion of the chief of the division of wildlife, no person, including nonresidents, shall take or catch any fish by angling in any of the waters in the state or engage in fishing in those waters without a license. No person shall take or catch frogs or turtles without a valid fishing license, except as provided in this section. Persons fishing in privately owned ponds, lakes, or reservoirs to or from which fish are not accustomed to migrate are exempt from the license requirements set forth in this section. Persons fishing in privately owned ponds, lakes, or reservoirs that are open to public fishing through an agreement or lease with the division of wildlife shall comply with the license requirements set forth in this section.
+
+(B)(1) Except as otherwise provided in rules adopted under division (B) of section 1533.12 of the Revised Code, each applicant for a fishing license shall pay a fee for each license in accordance with the following schedule:
+
+Annual fishing license - resident
+
+$24.00
+
+Annual fishing license - nonresident that is not a resident of a reciprocal state
+
+$74.00
+
+Annual fishing license - nonresident that is a resident of a reciprocal state
+
+$24.00
+
+Annual senior fishing license - resident
+
+$9.00
+
+Three-day tourist fishing license - nonresident that is not a resident of a reciprocal state
+
+$50.00
+
+One-day fishing license - resident
+
+$13.00
+
+One-day fishing license - nonresident that is not a resident of a reciprocal state
+
+$26.00
+
+One-day fishing license - nonresident that is a resident of a reciprocal state
+
+$13.00
+
+(2) As used in division (B)(1) of this section:
+
+(a) "Reciprocal state" means a state that is a party to an agreement under section 1533.91 of the Revised Code.
+
+(b) "Senior" means an applicant who is sixty-five years of age or older at the time of application for a license.
+
+(3) Any person under the age of sixteen years may take or catch frogs and turtles and take or catch fish by angling without a license.
+
+(C)(1) The chief of the division of wildlife may issue a tourist's license expiring three days from the effective date of the license to a resident of a state that is not a party to an agreement under section 1533.91 of the Revised Code.
+
+(2) The chief shall adopt rules under section 1531.10 of the Revised Code providing for the issuance of a one-day fishing license to a resident of this state or of any other state. A one-day fishing license shall allow the holder to take or catch fish by angling in the waters in the state, engage in fishing in those waters, or take or catch frogs or turtles in those waters for one day without obtaining an annual license or a tourist's license under this section. At the request of a holder of a one-day fishing license who wishes to obtain an annual license, a clerk or agent authorized to issue licenses under section 1533.13 of the Revised Code, not later than the last day on which the one-day license would be valid if it were an annual license, shall credit the amount of the fee paid for the one-day license toward the fee charged for the annual license if so authorized by the chief. The clerk or agent shall issue the annual license upon presentation of the one-day license and payment of a fee in an amount equal to the difference between the fee for the annual license and the fee for the one-day license.
+
+(3) Unless otherwise provided by division rule, each annual license shall begin on the date of issuance and expire a year from the date of issuance.
+
+(4) Unless otherwise provided by division rule, each multi-year license issued in accordance with section 1533.321 of the Revised Code shall begin on the date of issuance and expire three years, five years, or ten years from the date of issuance, as applicable.
+
+(5) No person shall alter a fishing license or possess a fishing license that has been altered.
+
+(6) No person shall procure or attempt to procure a fishing license by fraud, deceit, misrepresentation, or any false statement.
+
+(7) A resident of this state who owns land over, through, upon, or along which any water flows or stands, except where the land is in or borders on state parks or state-owned lakes, together with the members of the immediate families of such owners, may take frogs and turtles and may take or catch fish of the kind permitted to be taken or caught therefrom without procuring a license provided for in this section. This exemption extends to tenants actually residing upon such lands and to the members of the immediate families of the tenants. A resident of any other state who owns land in this state over, through, upon, or along which any water flows or stands, except where the land is in or borders on state parks or state-owned lakes, and the spouse and children living with the owner, may take frogs and turtles and may take or catch fish of the kind permitted to be taken or caught from that water without obtaining a license under this section, provided that the state of residence of the owner allows residents of this state owning real property in that state, and the spouse and children living with such a property owner, to take frogs and turtles and take or catch fish without a license. If the owner of such land in this state is a limited liability company or a limited liability partnership that consists of three or fewer individual members or partners, as applicable, an individual member or partner who is a resident of this state and the member's or partner's children of any age may take frogs and turtles and may take or catch fish of the kind permitted to be taken or caught therefrom without procuring a license provided for in this section. In addition, if the owner of such land in this state is a trust that has a total of three or fewer trustees and beneficiaries, an individual who is a trustee or beneficiary and who is a resident of this state and the individual's children of any age may take frogs and turtles and may take or catch fish of the kind permitted to be taken or caught therefrom without procuring a license provided for in this section. Residents of state or county institutions, charitable institutions, and military homes in this state may take frogs and turtles without procuring the required license, provided that a member of the institution or home has an identification card, which shall be carried on that person when fishing.
+
+(8) Every fisher required to be licensed, while fishing or taking or attempting to take frogs or turtles, shall carry the license and exhibit it to any person. Failure to so carry and exhibit the license constitutes an offense under this section.
+
+The Legislative Service Commission presents the text of this section as a composite of the section as amended by multiple acts of the General Assembly. This presentation recognizes the principle stated in R.C. 1.52(B) that amendments are to be harmonized if reasonably capable of simultaneous operation.
+
+Last updated August 19, 2025 at 10:54 AM

@@ -1,0 +1,42 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3345.40
+Scraped: 2026-07-02T19:49:49+00:00
+
+# Section 3345.40 - Limits on damages for wrongful death or injury to person or property.
+
+**Effective:** October 20, 1987
+
+**Latest Legislation:** House Bill 267 - 117th General Assembly
+
+(A) As used in this section:
+
+(1) "State university or college" has the same meaning as in division (A)(1) of section 3345.12 of the Revised Code.
+
+(2)(a) "The actual loss of the person who is awarded the damages" includes all of the following:
+
+(i) All wages, salaries, or other compensation lost by an injured person as a result of the injury, including wages, salaries, or other compensation lost as of the date of a judgment and future expected lost earnings of the injured person;
+
+(ii) All expenditures of an injured person or of another person on behalf of an injured person for medical care or treatment, for rehabilitation services, or for other care, treatment, services, products, or accommodations that were necessary because of the injury;
+
+(iii) All expenditures to be incurred in the future, as determined by the court, by an injured person or by another person on behalf of an injured person for medical care or treatment, for rehabilitation services, or for other care, treatment, services, products, or accommodations that will be necessary because of the injury;
+
+(iv) All expenditures of a person whose property was injured or destroyed, or of another person on behalf of such a person, in order to repair or replace the property that was injured or destroyed;
+
+(v) All expenditures of an injured person, of a person whose property was injured or destroyed, or of another person on behalf of an injured person or a person whose property was injured or destroyed, in relation to the actual preparation or presentation of the claim of the person;
+
+(vi) Any other expenditures of an injured person, of a person whose property was injured or destroyed, or of another person on behalf of an injured person or a person whose property was injured or destroyed, that the court determines represent an actual loss experienced because of the personal or property injury or property loss.
+
+(b) "The actual loss of the person who is awarded the damages" does not include either of the following:
+
+(i) Any fees paid or owed to an attorney for any services rendered in relation to a person or property injury or property loss;
+
+(ii) Any damages awarded for pain and suffering, for the loss of society, consortium, companionship, care, assistance, attention, protection, advice, guidance, counsel, instruction, training, or education of an injured person, for mental anguish, or for any other intangible loss.
+
+(B) Notwithstanding any other provision of the Revised Code or rules of a court to the contrary, in an action against a state university or college to recover damages for injury, death, or loss to persons or property caused by an act or omission of the state university or college itself, by an act or omission of any trustee, officer, or employee of the state university or college while acting within the scope of his employment or official responsibilities, or by an act or omission of any other person authorized to act on behalf of the state university or college that occurred while he was engaged in activities at the request or direction, or for the benefit, of the state university or college, the following rules shall apply:
+
+(1) Punitive or exemplary damages shall not be awarded;
+
+(2) If a plaintiff receives or is entitled to receive benefits for injuries or loss allegedly incurred from a policy or policies of insurance or any other source, the benefits shall be disclosed to the court, and the amount of the benefits shall be deducted from any award against the state university or college recovered by the plaintiff. No insurer or other person is entitled to bring a civil action under a subrogation provision in an insurance or other contract against a state university or college with respect to such benefits.
+
+Nothing in this division affects or shall be construed to limit the rights of a beneficiary under a life insurance policy or the rights of sureties under fidelity or surety bonds.
+
+(3) There shall not be any limitation on compensatory damages that represent the actual loss of the person who is awarded the damages. However, except in wrongful death actions brought pursuant to Chapter 2125. of the Revised Code, damages that arise from the same cause of action, transaction or occurrence, or series of transactions or occurrences and that do not represent the actual loss of the person who is awarded the damages shall not exceed two hundred fifty thousand dollars in favor of any one person. The limitation on damages that do not represent the actual loss of the person who is awarded the damages provided in this division does not apply to court costs that are awarded to a plaintiff, or to interest on a judgment rendered in favor of a plaintiff, in an action against a state university or college.

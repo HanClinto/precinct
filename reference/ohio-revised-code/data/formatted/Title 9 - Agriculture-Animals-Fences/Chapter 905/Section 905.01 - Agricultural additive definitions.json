@@ -1,0 +1,82 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Distributor\" means a person who offers for sale, sells, trades, or supplies an agricultural additive.",
+      "id": "905.01-distributor",
+      "normalized": "distributor",
+      "scope": "As used in sections 905.01 to 905.11 of the Revised Code:",
+      "section": "905.01",
+      "source_title": "Section 905.01 - Agricultural additive definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-905.01",
+      "term": "Distributor"
+    },
+    {
+      "definition": "(B) \"Manufacturer\" means a person who mines, extracts, processes, refines, blends, or mixes an agricultural additive.",
+      "id": "905.01-manufacturer",
+      "normalized": "manufacturer",
+      "scope": "As used in sections 905.01 to 905.11 of the Revised Code:",
+      "section": "905.01",
+      "source_title": "Section 905.01 - Agricultural additive definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-905.01",
+      "term": "Manufacturer"
+    },
+    {
+      "definition": "(C) \"Registrant\" means the manufacturer who registers an agricultural additive under sections 905.01 to 905.11 of the Revised Code.",
+      "id": "905.01-registrant",
+      "normalized": "registrant",
+      "scope": "As used in sections 905.01 to 905.11 of the Revised Code:",
+      "section": "905.01",
+      "source_title": "Section 905.01 - Agricultural additive definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-905.01",
+      "term": "Registrant"
+    },
+    {
+      "definition": "(D) \"Agricultural additive\" means any substance or mixture that is intended to improve for agricultural production purposes the physical, chemical, or biological characteristics of soil or other growth medium or to improve otherwise crop production, plant growth, product quality, or yield prior to harvest, but excludes fertilizers, agricultural liming materials, pesticides, fertilizer pesticide mixtures, rhizobial inoculants, peat, peat moss, pine bark, gypsum, perlite, sand, unmanipulated animal or vegetable manures, mulches, and any other substances or mixtures that are excluded from this definition by rule of the director of agriculture.",
+      "id": "905.01-agricultural-additive",
+      "normalized": "agricultural additive",
+      "scope": "As used in sections 905.01 to 905.11 of the Revised Code:",
+      "section": "905.01",
+      "source_title": "Section 905.01 - Agricultural additive definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-905.01",
+      "term": "Agricultural additive"
+    },
+    {
+      "definition": "(E) \"Active ingredient\" means any ingredient from which an agricultural additive derives all or part of its value or effectiveness and that is defined in the current edition of Merck's Chemical Index or recorded in Chemical Abstracts.",
+      "id": "905.01-active-ingredient",
+      "normalized": "active ingredient",
+      "scope": "As used in sections 905.01 to 905.11 of the Revised Code:",
+      "section": "905.01",
+      "source_title": "Section 905.01 - Agricultural additive definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-905.01",
+      "term": "Active ingredient"
+    },
+    {
+      "definition": "(F) \"Inert ingredient\" means an ingredient that is not active.",
+      "id": "905.01-inert-ingredient",
+      "normalized": "inert ingredient",
+      "scope": "As used in sections 905.01 to 905.11 of the Revised Code:",
+      "section": "905.01",
+      "source_title": "Section 905.01 - Agricultural additive definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-905.01",
+      "term": "Inert ingredient"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "905.01",
+      "number": "905.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.01"
+    },
+    {
+      "kind": "section",
+      "label": "905.11",
+      "number": "905.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.11"
+    }
+  ],
+  "scraped": "2026-07-02T19:34:15+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-905.01",
+  "title": "Section 905.01 - Agricultural additive definitions."
+}

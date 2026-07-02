@@ -1,0 +1,90 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-3318
+Scraped: 2026-07-02T19:48:52+00:00
+
+# Chapter 3318 - School Facilities
+
+## Sections
+
+- Section 3318.01 - Bond issues and tax levy definitions.
+- Section 3318.011 - Ranking districts in order of adjusted valuation per pupil from district.
+- Section 3318.02 - Periodic assessment of classroom facility needs - on-site visits.
+- Section 3318.021 - On-site visits to districts intending to participate in expedited local partnership program.
+- Section 3318.022 - District not yet eligible for state assistance may request assessment.
+- Section 3318.024 - Use of unspent and unencumbered funds.
+- Section 3318.03 - Facilities construction commission to determine need for additional classroom facilities.
+- Section 3318.031 - Commission to consider student and staff safety and health.
+- Section 3318.032 - Portion of basic project cost supplied by school district.
+- Section 3318.033 - Recalculation of district percentile ranking.
+- Section 3318.034 - Division of district classroom needs into segments.
+- Section 3318.035 - Change of assessment rates on gas pipelines.
+- Section 3318.036 - Priority for project funding.
+- Section 3318.037 - Retention of percentile ranking upon reapplication for expedited local partnership program.
+- Section 3318.038 - Water bottle filling stations and drinking fountains.
+- Section 3318.04 - Conditional approval; encumbering funds.
+- Section 3318.041 - District may adopt and certify proposed project.
+- Section 3318.042 - Additional assistance.
+- Section 3318.05 - District board acceptance of conditional approval of commission of project; election on propositions.
+- Section 3318.051 - Alternative funding for state-assisted classroom projects.
+- Section 3318.052 - Use of property tax or school district income tax proceeds to pay costs of project or for maintenance of classroom facilities - options of school district board.
+- Section 3318.053 - Use of tax proceeds on improvements not included in basic project cost.
+- Section 3318.054 - Lapse of classroom facilities project due to failure of voters to approve ballot measures.
+- Section 3318.055 - Maintenance tax not be included on ballot proposal.
+- Section 3318.056 - Combining questions on tax levy ballot.
+- Section 3318.06 - Submitting resolution relative to tax levy in excess of ten-mill limitation - bond issue.
+- Section 3318.061 - Resolution proposing extension of existing tax levy.
+- Section 3318.062 - Form of ballot where bonds are to be issued in multiple series - combination with other questions.
+- Section 3318.063 - Rescission of alternative funding agreement - tax levy.
+- Section 3318.07 - Certification of election results to tax commissioner.
+- Section 3318.08 - Agreement with Ohio facilities construction commission for construction and sale of project.
+- Section 3318.081 - Supplemental agreement with Ohio facilities construction commission.
+- Section 3318.082 - Supplemental agreement for distributing certain tax proceeds.
+- Section 3318.083 - Sharing of approved increase in basic project cost.
+- Section 3318.084 - Applying local donated contribution toward project.
+- Section 3318.085 - Agreement by eligible districts for joint issuance of certificates of participation in bond proceeds.
+- Section 3318.086 - Contingency reserve.
+- Section 3318.091 - Issuing bonds; preparing of plans and estimates.
+- Section 3318.10 - Advertising and awarding of construction bids.
+- Section 3318.11 - Amount of state appropriations encumbered for project - project priority for state funds.
+- Section 3318.112 - Standards for solar-ready equipment.
+- Section 3318.12 - Transfer and disbursement of funds.
+- Section 3318.121 - Transfer of earnings from Big-8 project fund to special fund.
+- Section 3318.13 - Including balance due in district tax budget.
+- Section 3318.14 - County treasurer to pay proceeds of tax levy.
+- Section 3318.15 - Public school building fund.
+- Section 3318.16 - Commission has interest in real property purchased with school district's project construction fund.
+- Section 3318.17 - Rate and maximum period of tax levies.
+- Section 3318.18 - Statewide average valuation per pupil - half-mill equalization fund.
+- Section 3318.20 - Constitutionality.
+- Section 3318.21 - Educational revitalization of certain districts definitions.
+- Section 3318.22 - Authorization to provide assistance and contribute to educational revitalization of certain districts.
+- Section 3318.25 - School building program assistance fund.
+- Section 3318.26 - Issuing obligations of state.
+- Section 3318.28 - Alternative, supplemental provisions.
+- Section 3318.29 - Maximum maturity and terms of obligations.
+- Section 3318.311 - Design specifications classroom facilities for joint vocational education programs.
+- Section 3318.33
+- Section 3318.351 - School building emergency assistance program.
+- Section 3318.36 - School building assistance expedited local partnership program.
+- Section 3318.361 - Proposing tax levy for expedited local partnership program purposes.
+- Section 3318.362 - Term of bonds.
+- Section 3318.363 - Tax valuation decrease.
+- Section 3318.364 - Assistance for schools that have entered into an expedited local partnership agreement.
+- Section 3318.37 - Exceptional needs school facilities assistance program.
+- Section 3318.371 - Assistance for relocation or replacement of classroom facilities due to contamination.
+- Section 3318.38 - Accelerated urban school building assistance program.
+- Section 3318.39 - 1:1 school facilities option program.
+- Section 3318.40 - Vocational school facilities assistance program.
+- Section 3318.41 - Annual assessment of needs.
+- Section 3318.42 - Selecting districts for assistance.
+- Section 3318.43 - Moneys dedicated to maintenance of classroom facilities.
+- Section 3318.44 - Generating district's portion of basic project cost.
+- Section 3318.45 - Election on issuing securities to generate district's portion of basic project cost.
+- Section 3318.46 - Expenditure of local resources prior to school district's eligibility for state assistance.
+- Section 3318.47 - Transfer of amounts to RC 3318.15 fund.
+- Section 3318.48 - Certificate of completion.
+- Section 3318.49 - Corrective action program.
+- Section 3318.60 - College-preparatory boarding school facilities program.
+- Section 3318.61 - Alternative to participation in college-preparatory boarding school facilities program; Leasing of facilities to person or entity; Agreement.
+- Section 3318.62 - Agreements to provide facilities assistance; Mandatory stipulations.
+- Section 3318.70 - Funding to assist STEM schools in the acquisition of classroom facilities.
+- Section 3318.71 - Guidelines for acquisition of classroom facilities to be used for a joint science, technology, engineering, and mathematics education programs..

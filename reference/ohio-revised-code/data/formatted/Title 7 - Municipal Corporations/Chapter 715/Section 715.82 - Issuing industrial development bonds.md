@@ -1,0 +1,10 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-715.82
+Scraped: 2026-07-02T19:33:23+00:00
+
+# Section 715.82 - Issuing industrial development bonds.
+
+**Effective:** April 12, 2021
+
+**Latest Legislation:** House Bill 444 - 133rd General Assembly
+
+A municipal corporation may issue bonds and exercise all other powers under Chapter 165. of the Revised Code for one or more projects or parts thereof located in a joint economic development district created pursuant to a contract entered into under section 715.70 , 715.71 , or 715.72 of the Revised Code to which the municipal corporation is a party, or in a township adjacent to that municipal corporation, if the legislative authority of the municipal corporation determines that the project is in furtherance of the public purposes of the state to create or preserve jobs and employment opportunities and to improve the economic welfare of the people of the municipal corporation and the township. As used in this section, "project" has the same meaning as in section 165.01 of the Revised Code, except that a project described in this section is not required to be located within the territorial boundaries of the municipal corporation.

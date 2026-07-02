@@ -1,0 +1,101 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-5180
+Scraped: 2026-07-02T20:11:37+00:00
+
+# Chapter 5180 - Department of Children and Youth
+
+## Sections
+
+- Section 5180.01 - Department of children and youth.
+- Section 5180.02 - Duties of director.
+- Section 5180.04 - [Former R.C. 5104.50, amended and renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Children and youth advisory council.
+- Section 5180.10 - [Former R.C. 3701.68, amended and renumbered by H.B. 33, 135th General Assembly, effective 1/1/2025] Commission on infant mortality.
+- Section 5180.11 - [Former R.C. 3701.951, amended and renumbered by H.B. 33, 135th General Assembly, effective 1/1/2025] Infant mortality, preterm birth, and stillbirth rates.
+- Section 5180.12 - [Former R.C. 3701.97, amended and renumbered by H.B. 33, 135th General Assembly, effective 1/1/2025] Stillbirth data.
+- Section 5180.13 - [Former R.C. 3701.953, amended and renumbered by H.B. 33, 135th General Assembly, effective 1/1/2025] Infant mortality scorecard.
+- Section 5180.14 - Shaken baby syndrome education program.
+- Section 5180.15 - [Former R.C. 3701.64, amended and renumbered by H.B. 33, 135th General Assembly, effective 1/1/2025] Distribution of shaken baby syndrome educational materials.
+- Section 5180.16 - [Former R.C. 3701.66, amended and renumbered by H.B. 33, 135th General Assembly, effective 1/1/2025] Safe sleep education program.
+- Section 5180.17 - Infant safe sleep screening procedure.
+- Section 5180.18 - [Former R.C. 3701.671, amended and renumbered by H.B. 33, 135th General Assembly, effective 1/1/2025] Reporting safe crib procurement.
+- Section 5180.19 - [Former R.C. 3701.952, amended and renumbered by H.B. 33, 135th General Assembly, effective 1/1/2025] Maternal behavior questionnaire.
+- Section 5180.20 - Programs to reduce negative birth outcomes and disparities.
+- Section 5180.21 - Help me grow program.
+- Section 5180.22 - Central intake and referral system for home visiting programs.
+- Section 5180.25 - [Former R.C. 3701.614, amended and renumbered by H.B. 33, 135th General Assembly, effective 1/1/2025] Educational materials regarding health risks of lead-based paint.
+- Section 5180.26 - [Former R.C. 5101.76, renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Procurement of epinephrine autoinjectors for camps.
+- Section 5180.261 - [Former R.C. 5101.77, renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Procurement of inhalers for camps.
+- Section 5180.262 - [Former R.C. 5101.78, renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Procurement of glucagon for camps.
+- Section 5180.27 - [Former R.C. 3738.01, amended and renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Pregnancy-associated mortality review board - creation.
+- Section 5180.271 - [Former R.C. 3738.02, renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Pregnancy-associated mortality review board - review during criminal investigation.
+- Section 5180.272 - [Former R.C. 3738.03, amended and renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Pregnancy-associated mortality review board - administration.
+- Section 5180.273 - [Former R.C. 3738.04, amended and renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Pregnancy-associated mortality review board - duties.
+- Section 5180.274 - [Former R.C. 3738.05, renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Pregnancy-associated mortality review board - production of documents; family member participation.
+- Section 5180.275 - [Former R.C. 3738.06, amended and renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Pregnancy-associated mortality review board - confidentiality.
+- Section 5180.276 - [Former R.C. 3738.07, renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Pregnancy-associated mortality review board - immunity from civil liability.
+- Section 5180.277 - [Former R.C. 3738.08, amended and renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Pregnancy-associated mortality review board - reports.
+- Section 5180.278 - [Former R.C. 3738.09, amended and renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Pregnancy-associated mortality review board - rulemaking.
+- Section 5180.30 - Lead agency for part C early intervention services program.
+- Section 5180.31 - [Former R.C. 5123.024, amended and renumbered by H.B. 33, 135th General Assembly, effective 1/1/2025] Implementation of part C early intervention services program.
+- Section 5180.32 - [Former R.C. 5123.0421, amended and renumbered by H.B. 33, 135th General Assembly, effective 1/1/2025] Rulemaking.
+- Section 5180.33 - [Former R.C. 5123.0423, amended and renumbered by H.B. 33, 135th General Assembly, effective 1/1/2025] Request for student data verification code.
+- Section 5180.35 - [Enacted as R.C. 5180.40 by H.B. 315, 135th General Assembly, and recodified as R.C. 5180.35 pursuant to R.C. 103.131] Dolly Parton's imagination library of Ohio advisory board.
+- Section 5180.40 - [Former R.C. 5101.13, amended and renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Uniform statewide automated child welfare information system - creation.
+- Section 5180.401 - [Former R.C. 5101.131, amended and renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Uniform statewide automated child welfare information system - confidentiality.
+- Section 5180.402 - [Former R.C. 5101.132, amended and renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Uniform statewide automated child welfare information system - access to information.
+- Section 5180.403 - [Former R.C. 5101.133, amended and renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Uniform statewide automated child welfare information system - use and disclosure of information.
+- Section 5180.404 - [Former R.C. 5101.134, amended and renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Uniform statewide automated child welfare information system - private agency use.
+- Section 5180.405 - [Former R.C. 5101.135, amended and renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Uniform statewide automated child welfare information system - shaken baby syndrome notation.
+- Section 5180.406 - [Former R.C. 5101.136, amended and renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Uniform statewide automated child welfare information system - search request.
+- Section 5180.407 - [Former R.C. 5101.137, amended and renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Uniform statewide automated child welfare information system - expungement policy.
+- Section 5180.41 - [Former R.C. 5101.14, amended and renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] County allocations for children services.
+- Section 5180.411 - [Former R.C. 5101.144, renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Children services fund.
+- Section 5180.42 - [Former R.C. 5101.141, amended and renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Administering federal payments for foster care and adoption assistance.
+- Section 5180.421 - [Former R.C. 5101.142, amended and renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Demonstration projects expanding Title IV-E eligibility and services.
+- Section 5180.422 - [Former R.C. 5101.145, amended and renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Title IV-E placement services agencies - rules on financial requirements.
+- Section 5180.423 - [Former R.C. 5101.146, amended and renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Title IV-E placement services agencies - penalties for noncompliance.
+- Section 5180.424 - [Former R.C. 5101.147, renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Title IV-E placement services agencies - notice of noncompliance.
+- Section 5180.425 - [Former R.C. 5101.148, renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] No unnecessary removal of children from foster homes due to sanction.
+- Section 5180.426 - [Former R.C. 5101.149, renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] No personal loans from children services fund.
+- Section 5180.427 - [Former R.C. 5101.1410, amended and renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Certifying claim to attorney general.
+- Section 5180.428 - [Former R.C. 5101.1411, amended and renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Young adults - foster care and adoption assistance payments.
+- Section 5180.429 - [Former R.C. 5101.1412, amended and renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Young adults - voluntary participation agreement.
+- Section 5180.4210 - [Former R.C. 5101.1413, amended and renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Young adults - payment of nonfederal share.
+- Section 5180.4211 - [Former R.C. 5101.1414, amended and renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Young adults - rules.
+- Section 5180.4212 - [Former R.C. 5101.1415, amended and renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Young adults - applicability.
+- Section 5180.4213 - [Former R.C. 5101.1416, amended and renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Kinship guardianship assistance.
+- Section 5180.4214 - [Former R.C. 5101.1417, amended and renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Rules to carry out federal foster care, adoption, and kinship guardianship assistance.
+- Section 5180.43 - [Former R.C. 5101.1418, amended and renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Post-adoption special services subsidy payments.
+- Section 5180.44 - [Former R.C. 5101.15, renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Reimbursement to counties for child welfare worker salaries.
+- Section 5180.45 - [Former R.C. 5101.19, amended and renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Adoption grant program - definitions.
+- Section 5180.451 - [Former R.C. 5101.191, amended and renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Adoption grant program.
+- Section 5180.452 - [Former R.C. 5101.192, amended and renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Adoption grant eligibility.
+- Section 5180.453 - [Former R.C. 5101.193, amended and renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Adoption grant program rules.
+- Section 5180.454 - [Former R.C. 5101.194, amended and renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Adoption grant program records.
+- Section 5180.50 - [Former R.C. 5101.85, amended and renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Kinship caregiver defined.
+- Section 5180.51 - [Former R.C. 5101.851, renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Kinship care navigator program.
+- Section 5180.511 - [Former R.C. 5101.853, amended and renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Kinship care navigator program - regions.
+- Section 5180.512 - [Former R.C. 5101.854, amended and renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Kinship care navigator program - regional program duties.
+- Section 5180.513 - [Former R.C. 5101.855, renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Kinship care navigator program - rules.
+- Section 5180.514 - [Former R.C. 5101.856, amended and renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Kinship care navigator program - funding.
+- Section 5180.52 - [Former R.C. 5101.802, amended and renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Kinship permanency incentive program.
+- Section 5180.53 - [Former R.C. 5101.88, amended and renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Kinship support program - definitions.
+- Section 5180.531 - [Former R.C. 5101.881, renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Kinship support program.
+- Section 5180.532 - [Former R.C. 5101.884, renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Kinship support program - eligibility.
+- Section 5180.533 - [Former R.C. 5101.885, amended and renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Kinship support program - payment amount.
+- Section 5180.534 - [Former R.C. 5101.886, amended and renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Kinship support program - payment time limit.
+- Section 5180.535 - [Former R.C. 5101.887, amended and renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Kinship support program - conditions requiring payments to cease.
+- Section 5180.536 - [Former R.C. 5101.8811, renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Kinship support program - rules.
+- Section 5180.56 - [Former R.C. 5101.8812, amended and renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Inalienability of kinship benefits.
+- Section 5180.57 - [Former R.C. 5101.889, renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Foster care maintenance payments for kinship caregiver certified as foster home.
+- Section 5180.70 - [Former R.C. 5101.34, renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Ohio commission on fatherhood.
+- Section 5180.701 - [Former R.C. 5101.341, renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Ohio commission on fatherhood - administration.
+- Section 5180.702 - [Former R.C. 5101.342, amended and renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Ohio commission on fatherhood - state summits on fatherhood.
+- Section 5180.703 - [Former R.C. 5101.343, renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Ohio commission on fatherhood - exempt from sunset review.
+- Section 5180.704 - [Former R.C. 5101.805, amended and renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Ohio commission on fatherhood - recommendations for TANF fatherhood programs.
+- Section 5180.705 - Responsible fatherhood initiative.
+- Section 5180.706 - Responsible fatherhood initiative - grants.
+- Section 5180.707 - Responsible fatherhood initiative - grant recipient duties.
+- Section 5180.71 - [Former R.C. 5101.804, renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Ohio parenting and pregnancy program.
+- Section 5180.72 - [Former R.C. 3701.65, amended and renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Choose life fund.
+- Section 5180.73 - [Former R.C. 5180.40, renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] Parenting education programs.
+- Section 5180.99 - Penalty.

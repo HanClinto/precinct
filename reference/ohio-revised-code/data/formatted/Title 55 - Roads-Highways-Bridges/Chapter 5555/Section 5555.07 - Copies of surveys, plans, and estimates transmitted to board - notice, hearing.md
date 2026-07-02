@@ -1,0 +1,12 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5555.07
+Scraped: 2026-07-02T20:13:40+00:00
+
+# Section 5555.07 - Copies of surveys, plans, and estimates transmitted to board - notice, hearing.
+
+**Effective:** September 29, 2011
+
+**Latest Legislation:** House Bill 153 - 129th General Assembly
+
+The county engineer shall prepare and file with the board of county commissioners, by the time fixed therefor by the board, copies of the surveys, plans, profiles, cross sections, estimates of costs, and specifications for the improvement and estimated assessments upon lands benefited thereby. Thereupon such board shall file such copies in its office for the inspection and examination of all persons interested. Except in a case involving the improvement of a public road in which no land or property is taken or assessed, the board shall publish in a newspaper of general circulation in the county, for the period of two weeks or as provided in section 7.16 of the Revised Code, notice that a resolution has been adopted providing for said improvement, and that copies of the surveys, plans, profiles, cross sections, estimates, and specifications, together with estimated assessments upon the lands benefited by such improvement for the proportion of the cost thereof to be assessed therefor, are on file in the office of the board for the inspection of persons interested therein. Such notice shall state the time and place for hearing objections to said improvement and to such estimated assessments. In a case involving the improvement of a public road in which no land or property is taken or assessed, the board shall publish the notice required by this section once a week for two consecutive weeks or as provided in section 7.16 of the Revised Code.
+
+At such hearing the board may order said surveys, plans, profiles, cross sections, estimates, and specifications to be changed or modified and shall make such adjustments of the estimated assessments as seem just to it. Thereupon the board may approve such surveys, plans, profiles, cross sections, specifications, and estimates and approve and confirm estimated assessments as made by the engineer or as modified and changed by the board. Such assessments when so approved and confirmed shall be certified to the county auditor of the county and shall thereupon become a lien upon the land charged therewith. The board may declare against said improvement.

@@ -1,0 +1,73 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-5168
+Scraped: 2026-07-02T20:11:35+00:00
+
+# Chapter 5168 - Hospital Care Assurance Program; Health Care Franchise Permit Fees
+
+## Sections
+
+- Section 5168.01 - Hospital care assurance program definitions.
+- Section 5168.02 - Adoption of rules.
+- Section 5168.03 - Provisions dependent on assessment as permissible health care-related tax.
+- Section 5168.04 - Program year basis of operation.
+- Section 5168.05 - Submitting financial statement and cost report.
+- Section 5168.06 - Annual assessment.
+- Section 5168.07 - Requiring governmental hospitals to make intergovernmental transfers.
+- Section 5168.08 - Preliminary determination of assessment.
+- Section 5168.09 - Methodology to pay hospitals sufficient to expend all money in indigent care pool.
+- Section 5168.10 - Prohibiting replacing funds appropriated for medicaid program.
+- Section 5168.11 - Hospital care assurance program fund.
+- Section 5168.13 - Confidentiality.
+- Section 5168.14 - Providing basic, medically necessary hospital-level services to individuals who are residents.
+- Section 5168.20 - Definitions for R.C. 5168.20 to 5168.28.
+- Section 5168.21 - Additional annual assessment.
+- Section 5168.22 - Preliminary determination of assessment amount.
+- Section 5168.23 - Assessment payment schedule.
+- Section 5168.24 - Audit.
+- Section 5168.25 - Hospital assessment fund.
+- Section 5168.26 - Excluded costs.
+- Section 5168.27 - Implementation shall not cause reduction in federal participation for medicaid program.
+- Section 5168.28 - Determination of assessment as impermissible health care-related tax.
+- Section 5168.40 - Franchise permit fee definitions.
+- Section 5168.41 - Determination of nursing home and hospital long-term care franchise permit fee rate.
+- Section 5168.42 - Annual franchise permit fee.
+- Section 5168.43 - Waiver of franchise permit fee.
+- Section 5168.44 - Approval of waiver; Reduction in franchise permit fee rate.
+- Section 5168.45 - Increase in franchise permit fee rate.
+- Section 5168.46 - Annual reports.
+- Section 5168.47 - Determination, notice, and payment of annual fee.
+- Section 5168.48 - Redetermination of franchise permit fees.
+- Section 5168.49 - Change of operator; division of franchise permit fees.
+- Section 5168.50 - Direct billing for franchise permit fee prohibited.
+- Section 5168.51 - Assessment for past due fee installment.
+- Section 5168.52 - Additional sanctions for past due fee installment.
+- Section 5168.53 - Appeals.
+- Section 5168.54 - Nursing home franchise permit fee fund.
+- Section 5168.55 - Investigations; enforcement.
+- Section 5168.56 - Implementing provisions.
+- Section 5168.60 - Definitions for R.C. 5168.60 to 5168.71.
+- Section 5168.61 - ICF/IID quarterly franchise permit fees.
+- Section 5168.62 - Monthly report.
+- Section 5168.63 - Determination, notice and payment of quarterly franchise permit fee.
+- Section 5168.64 - Consequences of converting beds to providing home and community-based services.
+- Section 5168.65 - Assessing penalty for overdue installment.
+- Section 5168.66 - Additional sanctions for overdue installment.
+- Section 5168.67 - Appeal of fee.
+- Section 5168.68 - Home and community-based services for persons with developmental disabilities fund.
+- Section 5168.69 - Department of developmental disabilities operating and services fund.
+- Section 5168.70 - Investigation; enforcement.
+- Section 5168.71 - Adoption of rules.
+- Section 5168.75 - Definitions for R.C. 5168.75 to 5168.86.
+- Section 5168.76 - Franchise fee on health insuring corporation plans.
+- Section 5168.77 - Component due dates.
+- Section 5168.78 - Documentation.
+- Section 5168.79 - Determination of higher fee.
+- Section 5168.80 - Request for reconsideration.
+- Section 5168.81 - Penalty for overdue payments.
+- Section 5168.82 - Waiver required.
+- Section 5168.83 - Refunds.
+- Section 5168.84 - Modification or cessation.
+- Section 5168.85 - Health insuring corporation franchise fee fund.
+- Section 5168.86 - Implementation.
+- Section 5168.90 - Quarterly report to LSC.
+- Section 5168.99 - Penalties.
+- Section 5168.991 - Offsetting unpaid penalty.

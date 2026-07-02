@@ -1,0 +1,64 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Parental rights\" means parental rights and responsibilities, parenting time, or any other similar right established by the laws of this state with respect to a child. \"Parental rights\" does not include the parental duty of support for a child.",
+      "id": "3109.50-parental-rights",
+      "normalized": "parental rights",
+      "scope": "As used in sections 3109.501 to 3109.507 of the Revised Code:",
+      "section": "3109.50",
+      "source_title": "Section 3109.50 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3109.50",
+      "term": "Parental rights"
+    },
+    {
+      "definition": "(B) \"Rape\" means a violation of section 2907.02 of the Revised Code or similar law of another state.",
+      "id": "3109.50-rape",
+      "normalized": "rape",
+      "scope": "As used in sections 3109.501 to 3109.507 of the Revised Code:",
+      "section": "3109.50",
+      "source_title": "Section 3109.50 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3109.50",
+      "term": "Rape"
+    },
+    {
+      "definition": "(C) \"Sexual battery\" means a violation of section 2907.03 of the Revised Code if the sexual activity involved is sexual conduct, or similar law of another state.\n\nLast updated January 21, 2025 at 12:32 PM",
+      "id": "3109.50-sexual-battery",
+      "normalized": "sexual battery",
+      "scope": "As used in sections 3109.501 to 3109.507 of the Revised Code:",
+      "section": "3109.50",
+      "source_title": "Section 3109.50 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3109.50",
+      "term": "Sexual battery"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3109.501",
+      "number": "3109.501",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.501"
+    },
+    {
+      "kind": "section",
+      "label": "3109.507",
+      "number": "3109.507",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.507"
+    },
+    {
+      "kind": "section",
+      "label": "2907.02",
+      "number": "2907.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2907.02"
+    },
+    {
+      "kind": "section",
+      "label": "2907.03",
+      "number": "2907.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2907.03"
+    }
+  ],
+  "scraped": "2026-07-02T19:47:41+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3109.50",
+  "title": "Section 3109.50 - Definitions."
+}

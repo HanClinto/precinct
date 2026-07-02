@@ -1,0 +1,154 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-3345
+Scraped: 2026-07-02T19:49:49+00:00
+
+# Chapter 3345 - State Universities - General Powers
+
+## Sections
+
+- Section 3345.01 - Tuition charge for nonresidents of Ohio.
+- Section 3345.011 - State university definitions.
+- Section 3345.02 - Statement of student charges to include list of fees.
+- Section 3345.021 - Power and authority of board of trustees.
+- Section 3345.022 - Group legal services insurance plan - prepaid legal services plan.
+- Section 3345.023 - Denial of benefits to religious student group prohibited.
+- Section 3345.024 - Higher education costs and postgraduate outcomes report.
+- Section 3345.025 - Textbook selection policy.
+- Section 3345.026 - [Enacted as R.C. 3345.024 by H.B. 353, 134th General Assembly and recodified as R.C. 3345.026 pursuant to R.C. 103.131] Religious accommodations.
+- Section 3345.027 - Prohibition on withholding student transcripts.
+- Section 3345.028 - Regular coursework additional fee prohibition.
+- Section 3345.029 - Syllabus requirements.
+- Section 3345.0210 - Financial cost and aid disclosure forms.
+- Section 3345.0211 - Expressive activities on campus - definitions, supersession.
+- Section 3345.0212 - Noncommercial expressive activities on campus.
+- Section 3345.0213 - Outdoor campus areas as public forums; no free speech zones.
+- Section 3345.0214 - Reports.
+- Section 3345.0215 - Campus free speech policy.
+- Section 3345.0216 - Statements of commitment.
+- Section 3345.0217 - Policy on diversity, equity, and inclusion and other concepts.
+- Section 3345.0218 - Intellectual diversity rights information and complaint process.
+- Section 3345.0219 - Policy and report guidelines.
+- Section 3345.03 - Audit of accounts.
+- Section 3345.033 - Publication of rules.
+- Section 3345.04 - State university law enforcement officers.
+- Section 3345.041 - Agreements to provide police services to political subdivision or another state university or college - civil liability.
+- Section 3345.042 - Intrastate mutual aid program; participation by state institutions of higher education.
+- Section 3345.05 - Administration of moneys - annual reports by recipients - investments - investment committee.
+- Section 3345.06 - Entrance requirements of high school graduates - core curriculum.
+- Section 3345.061 - Sunset for state operating subsidies for remedial courses.
+- Section 3345.062 - University remediation report.
+- Section 3345.063 - Advanced computer science as unit for admission.
+- Section 3345.064 - In-state resident admissions at state universities.
+- Section 3345.07 - Housing and dining facilities.
+- Section 3345.08 - Temporary dwelling accommodations.
+- Section 3345.09 - American Sign Language recognized as foreign language - courses.
+- Section 3345.10 - Competitive bidding - contracts for printed material.
+- Section 3345.11 - Auxiliary or education facilities.
+- Section 3345.111 - Facility inspection reports.
+- Section 3345.12 - State university additional definitions - issuance of obligations.
+- Section 3345.121 - Notice to legislative authorities of educational facility construction or renovation - comments or objections.
+- Section 3345.122 - Immunity of trustees from civil action.
+- Section 3345.13 - Duplication of keys prohibited.
+- Section 3345.14 - Rights to and interests in discoveries, inventions or patents - establishment of rules.
+- Section 3345.141 - State university logo use policy.
+- Section 3345.15 - Attorney general to be attorney and legal advisor.
+- Section 3345.16 - Board of trustees to receive and hold property or funds - investments - endowments.
+- Section 3345.161 - Board of trustees investment decisions and bequests.
+- Section 3345.17 - Property exempt from taxation.
+- Section 3345.18 - Grant or transfer of lands by boards of trustees.
+- Section 3345.181 - Contracts or leases to mine minerals.
+- Section 3345.19 - Anti-hazing policy.
+- Section 3345.20 - Procurement of liability insurance for student teachers and students in teacher preparation programs - prohibitions.
+- Section 3345.201 - Purchase of liability insurance for hospital services.
+- Section 3345.202 - Board of trustees may provide liability insurance coverage.
+- Section 3345.203 - Joint self-insurance pool.
+- Section 3345.205 - Student training at early learning and development programs.
+- Section 3345.21 - Board of trustees to maintain law and order on campus - administration and enforcement of rules.
+- Section 3345.22 - Hearing for suspension of arrested student, faculty or staff member, or employee - responsibilities of referee.
+- Section 3345.23 - Dismissal of convicted student, faculty or staff member, or employee - reinstatement.
+- Section 3345.24 - Duty and authority of college administrators.
+- Section 3345.241 - Student discipline due process procedures.
+- Section 3345.25 - Dismissed or suspended person not to enter college premises.
+- Section 3345.26 - Board of trustees or president may declare state of emergency.
+- Section 3345.27 - Attendance by senior citizens.
+- Section 3345.28 - Faculty improvement program - establishment and administration.
+- Section 3345.281 - Program to assess oral English language proficiency of teaching assistants providing classroom instruction.
+- Section 3345.29 - Office of contract compliance - duties.
+- Section 3345.30 - Liability insurance for students.
+- Section 3345.31 - Boards of trustees may establish compensation plans.
+- Section 3345.311 - Excess benefits prohibited.
+- Section 3345.32 - Student noncompliance with selective service law.
+- Section 3345.33 - Removing armed forces training unit or class.
+- Section 3345.34 - Student trustee not to receive special treatment or benefits.
+- Section 3345.35 - Course evaluation based on enrollment and duplication with other institutions.
+- Section 3345.351 - Review of student records for associate degree eligibility.
+- Section 3345.36 - Establishment and development of entrepreneurial projects.
+- Section 3345.37 - Policies regarding availability of suicide prevention programs.
+- Section 3345.371 - National Suicide Lifeline telephone number.
+- Section 3345.38 - Undergraduate course credit for completion of international baccalaureate diploma program.
+- Section 3345.381 - Credit for online coursework.
+- Section 3345.382 - American civic literacy course requirement.
+- Section 3345.39 - Report on increased auxiliary fees.
+- Section 3345.40 - Limits on damages for wrongful death or injury to person or property.
+- Section 3345.41 - Warning concerning anabolic steroids to be conspicuously posted.
+- Section 3345.42 - Definitions.
+- Section 3345.421 - Assistance and support to veterans and service members by institutions of higher education.
+- Section 3345.422 - Priority course registration for veterans.
+- Section 3345.423 - Appeals process for resolution of disputes over credit for military experience.
+- Section 3345.424 - Fees.
+- Section 3345.45 - Standards for instructional workloads for faculty; faculty workload policy; conditions for research funding.
+- Section 3345.451 - Student and peer faculty evaluations.
+- Section 3345.452 - Faculty annual performance evaluations.
+- Section 3345.453 - Post-tenure review.
+- Section 3345.454 - Policies on tenure and retrenchment and elimination of undergraduate degree programs.
+- Section 3345.455 - Collective bargaining of workloads, faculty evaluations, and tenure.
+- Section 3345.456 - Collective bargaining of retrenchment policies.
+- Section 3345.457 - Curricular approval process.
+- Section 3345.46 - Overload fees.
+- Section 3345.461 - Tuition and fees for online courses.
+- Section 3345.47 - Requirements to live in on-campus housing.
+- Section 3345.48 - Undergraduate tuition guarantee program.
+- Section 3345.481 - Required course registration accommodations.
+- Section 3345.49 - Rights of student who is victim of dissemination of image.
+- Section 3345.50 - Administration of capital facilities project - state appropriations under $ 4 million.
+- Section 3345.51 - Administration of capital facilities project - state appropriations immaterial.
+- Section 3345.53 - Military leave of absence for student on active duty.
+- Section 3345.54 - Conveyance of auxiliary facilities to conduit entity.
+- Section 3345.55 - Lease agreements for campus housing facilities.
+- Section 3345.562 - Intercollegiate single-sex teams.
+- Section 3345.57 - Paid leave donation programs.
+- Section 3345.58 - Ohio civics board.
+- Section 3345.59 - Workforce education and efficiency compacts.
+- Section 3345.591 - Interactions with the People's Republic of China.
+- Section 3345.60 - Student transcript access notification; institutional debt resources.
+- Section 3345.601 - Student records preservation plans.
+- Section 3345.61 - Energy conservation measures definitions.
+- Section 3345.62 - Contract for report containing analysis and recommendations on energy conservation measures.
+- Section 3345.63 - Procedure for contracts other than installment payment contracts.
+- Section 3345.64 - Procedure for installment payment contracts.
+- Section 3345.65 - Request for proposals - awarding of contract.
+- Section 3345.66 - Issuance of notes.
+- Section 3345.68 - Misbranded meat and cultivated-protein food product purchase prevention policy.
+- Section 3345.69 - Committee to develop guidelines for energy efficiency.
+- Section 3345.691 - Purchase of biobased products.
+- Section 3345.692 - Annual reports on purchases of biobased products.
+- Section 3345.70 - Powers and duties of board where fiscal exigency declared.
+- Section 3345.71 - Fiscal watch definitions.
+- Section 3345.72 - Rules for fiscal watches.
+- Section 3345.721 - Fiscal caution status.
+- Section 3345.73 - Financial indicators and standards for using indicators.
+- Section 3345.74 - Determination that appointment of conservator is warranted.
+- Section 3345.75 - Appointment of governance authority.
+- Section 3345.76 - Termination of governance authority.
+- Section 3345.77 - Employment contracts with president or chief executive officer.
+- Section 3345.78 - Prohibition against certain actions by current or former employees and officers of institution.
+- Section 3345.80 - Five-year institutional cost summaries.
+- Section 3345.81 - Strategic completion plan.
+- Section 3345.82 - Electronic attendance of board of trustees' meetings.
+- Section 3345.83 - Co-op internship programs.
+- Section 3345.85 - Meningitis and hepatitis B vaccination.
+- Section 3345.86 - Competency-based educational program.
+- Section 3345.87 - Information on declarations for mental health.
+- Section 3345.88 - Affirmations on equal opportunity and prohibitions on training for certain concepts and segregation policies.
+- Section 3345.89 - Accelerated college and career pathways program.
+- Section 3345.90 - Single-sex facilities and accommodations.
+- Section 3345.99 - Penalty.

@@ -1,0 +1,379 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Mine\" means an underground or surface excavation or development with or without shafts, slopes, drifts, or tunnels for the extraction of coal, gypsum, asphalt, rock, or other materials containing the same, or for the extraction of natural gas or petroleum by means that are substantially similar to the underground extraction of coal, gypsum, asphalt, rock, or other materials containing the same, with hoisting or haulage equipment and appliances for the extraction of such materials; and embraces the land or property of the mining plant, the surface, and underground, that is used for or contributes to the mining properties, or concentration or handling of coal, gypsum, asphalt, rock, or other materials containing the same or of natural gas or petroleum.",
+      "id": "1561.01-mine",
+      "normalized": "mine",
+      "scope": "As used in this chapter and Chapters 1563., 1565., and 1567. of the Revised Code, and in other sections of the Revised Code relating to the mining law, unless other meaning is clearly apparent in the language and context:",
+      "section": "1561.01",
+      "source_title": "Section 1561.01 - Division of mineral resources management - mine and quarry definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1561.01",
+      "term": "Mine"
+    },
+    {
+      "definition": "(B) \"Shaft\" means a vertical opening through the strata that is or may be used for ventilation, drainage, or hoisting workers or material or both in connection with the mining of coal or other minerals or materials.",
+      "id": "1561.01-shaft",
+      "normalized": "shaft",
+      "scope": "As used in this chapter and Chapters 1563., 1565., and 1567. of the Revised Code, and in other sections of the Revised Code relating to the mining law, unless other meaning is clearly apparent in the language and context:",
+      "section": "1561.01",
+      "source_title": "Section 1561.01 - Division of mineral resources management - mine and quarry definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1561.01",
+      "term": "Shaft"
+    },
+    {
+      "definition": "(C) \"Slope\" means an incline or opening used for the same purpose as a shaft.",
+      "id": "1561.01-slope",
+      "normalized": "slope",
+      "scope": "As used in this chapter and Chapters 1563., 1565., and 1567. of the Revised Code, and in other sections of the Revised Code relating to the mining law, unless other meaning is clearly apparent in the language and context:",
+      "section": "1561.01",
+      "source_title": "Section 1561.01 - Division of mineral resources management - mine and quarry definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1561.01",
+      "term": "Slope"
+    },
+    {
+      "definition": "(D) \"Drift\" means an opening through the strata on which opening grades are such to permit the coal or materials to be hauled by mules or mechanical traction power, and which opening may be used for ventilation, drainage, ingress, egress, and other purposes in connection with the mining of coal or other materials.",
+      "id": "1561.01-drift",
+      "normalized": "drift",
+      "scope": "As used in this chapter and Chapters 1563., 1565., and 1567. of the Revised Code, and in other sections of the Revised Code relating to the mining law, unless other meaning is clearly apparent in the language and context:",
+      "section": "1561.01",
+      "source_title": "Section 1561.01 - Division of mineral resources management - mine and quarry definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1561.01",
+      "term": "Drift"
+    },
+    {
+      "definition": "(E) \"Excavations and workings\" means the excavated portions of the mine, those abandoned as well as the places actually being worked, underground workings, shafts, tunnels, and other ways in the course of being sunk or driven, slopes, tunnels, and other openings, and all such shafts, together with all roads, appliances, machinery, and material connected with the same below the surface.",
+      "id": "1561.01-excavations-and-workings",
+      "normalized": "excavations and workings",
+      "scope": "As used in this chapter and Chapters 1563., 1565., and 1567. of the Revised Code, and in other sections of the Revised Code relating to the mining law, unless other meaning is clearly apparent in the language and context:",
+      "section": "1561.01",
+      "source_title": "Section 1561.01 - Division of mineral resources management - mine and quarry definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1561.01",
+      "term": "Excavations and workings"
+    },
+    {
+      "definition": "(F) \"Face\" means the advancing breast of any working place.",
+      "id": "1561.01-face",
+      "normalized": "face",
+      "scope": "As used in this chapter and Chapters 1563., 1565., and 1567. of the Revised Code, and in other sections of the Revised Code relating to the mining law, unless other meaning is clearly apparent in the language and context:",
+      "section": "1561.01",
+      "source_title": "Section 1561.01 - Division of mineral resources management - mine and quarry definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1561.01",
+      "term": "Face"
+    },
+    {
+      "definition": "(G) \"Pillar\" means a solid block of ore, coal, or other material, left unmined to support the overlying strata in a mine.",
+      "id": "1561.01-pillar",
+      "normalized": "pillar",
+      "scope": "As used in this chapter and Chapters 1563., 1565., and 1567. of the Revised Code, and in other sections of the Revised Code relating to the mining law, unless other meaning is clearly apparent in the language and context:",
+      "section": "1561.01",
+      "source_title": "Section 1561.01 - Division of mineral resources management - mine and quarry definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1561.01",
+      "term": "Pillar"
+    },
+    {
+      "definition": "(H) \"Rock dusting\" means to distribute or apply fine rock dust on underground surfaces in coal mines to prevent, check, control, or extinguish coal dust explosions.",
+      "id": "1561.01-rock-dusting",
+      "normalized": "rock dusting",
+      "scope": "As used in this chapter and Chapters 1563., 1565., and 1567. of the Revised Code, and in other sections of the Revised Code relating to the mining law, unless other meaning is clearly apparent in the language and context:",
+      "section": "1561.01",
+      "source_title": "Section 1561.01 - Division of mineral resources management - mine and quarry definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1561.01",
+      "term": "Rock dusting"
+    },
+    {
+      "definition": "(I) \"Rock dust barriers\" means a quantity of dry rock dust placed in suitable containers so located in underground coal mines that the advanced wave of a coal dust explosion will automatically cause the rock dust to be thrown into suspension to extinguish or arrest the flames of an explosion.",
+      "id": "1561.01-rock-dust-barriers",
+      "normalized": "rock dust barriers",
+      "scope": "As used in this chapter and Chapters 1563., 1565., and 1567. of the Revised Code, and in other sections of the Revised Code relating to the mining law, unless other meaning is clearly apparent in the language and context:",
+      "section": "1561.01",
+      "source_title": "Section 1561.01 - Division of mineral resources management - mine and quarry definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1561.01",
+      "term": "Rock dust barriers"
+    },
+    {
+      "definition": "(J) \"Operator\" means any firm, corporation, or individual operating any mine or part thereof.",
+      "id": "1561.01-operator",
+      "normalized": "operator",
+      "scope": "As used in this chapter and Chapters 1563., 1565., and 1567. of the Revised Code, and in other sections of the Revised Code relating to the mining law, unless other meaning is clearly apparent in the language and context:",
+      "section": "1561.01",
+      "source_title": "Section 1561.01 - Division of mineral resources management - mine and quarry definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1561.01",
+      "term": "Operator"
+    },
+    {
+      "definition": "(K) \"Superintendent\" means the person who has, on behalf of the operator, immediate supervision of one or more mines.",
+      "id": "1561.01-superintendent",
+      "normalized": "superintendent",
+      "scope": "As used in this chapter and Chapters 1563., 1565., and 1567. of the Revised Code, and in other sections of the Revised Code relating to the mining law, unless other meaning is clearly apparent in the language and context:",
+      "section": "1561.01",
+      "source_title": "Section 1561.01 - Division of mineral resources management - mine and quarry definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1561.01",
+      "term": "Superintendent"
+    },
+    {
+      "definition": "(L) \"Mine foreperson\" means the person whom the operator or superintendent places in charge of the inside or outside workings of the mine and of the persons employed therein or thereat.",
+      "id": "1561.01-mine-foreperson",
+      "normalized": "mine foreperson",
+      "scope": "As used in this chapter and Chapters 1563., 1565., and 1567. of the Revised Code, and in other sections of the Revised Code relating to the mining law, unless other meaning is clearly apparent in the language and context:",
+      "section": "1561.01",
+      "source_title": "Section 1561.01 - Division of mineral resources management - mine and quarry definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1561.01",
+      "term": "Mine foreperson"
+    },
+    {
+      "definition": "(M) \"Foreperson\" means the person designated to assist the mine foreperson in the immediate supervision of a portion or the whole of a mine or of the persons employed therein.",
+      "id": "1561.01-foreperson",
+      "normalized": "foreperson",
+      "scope": "As used in this chapter and Chapters 1563., 1565., and 1567. of the Revised Code, and in other sections of the Revised Code relating to the mining law, unless other meaning is clearly apparent in the language and context:",
+      "section": "1561.01",
+      "source_title": "Section 1561.01 - Division of mineral resources management - mine and quarry definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1561.01",
+      "term": "Foreperson"
+    },
+    {
+      "definition": "(N) \"Fire boss\" means a person whom the mine foreperson is required to employ under certain conditions designated in this chapter and Chapters 1563., 1565., and 1567. of the Revised Code, relative to explosive gases when the same are found to exist in a mine.",
+      "id": "1561.01-fire-boss",
+      "normalized": "fire boss",
+      "scope": "As used in this chapter and Chapters 1563., 1565., and 1567. of the Revised Code, and in other sections of the Revised Code relating to the mining law, unless other meaning is clearly apparent in the language and context:",
+      "section": "1561.01",
+      "source_title": "Section 1561.01 - Division of mineral resources management - mine and quarry definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1561.01",
+      "term": "Fire boss"
+    },
+    {
+      "definition": "(O) \"Shot firer\" means a practical and experienced person whose duties are to charge, set off, and discharge the shots under the direction of the mine foreperson or foreperson.",
+      "id": "1561.01-shot-firer",
+      "normalized": "shot firer",
+      "scope": "As used in this chapter and Chapters 1563., 1565., and 1567. of the Revised Code, and in other sections of the Revised Code relating to the mining law, unless other meaning is clearly apparent in the language and context:",
+      "section": "1561.01",
+      "source_title": "Section 1561.01 - Division of mineral resources management - mine and quarry definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1561.01",
+      "term": "Shot firer"
+    },
+    {
+      "definition": "(P) \"Deputy mine inspector\" means a person appointed in the division of mineral resources management to inspect mines to see that this chapter and Chapters 1563., 1565., and 1567. of the Revised Code are complied with.\n\n(Q) \"Permissible or approved\" as applied in connection with explosive flame safety lamps, electric safety lamps, electric machinery, rescue apparatus, and other devices, appliances, machinery, and equipment means materials, apparatus, devices, appliances, machinery, and equipment officially listed by the mine safety and health administration in the United States department of labor and approved as having met its requirements for the respective specified uses, or equivalent standards determined and established by the chief of the division of mineral resources management.",
+      "id": "1561.01-deputy-mine-inspector",
+      "normalized": "deputy mine inspector",
+      "scope": "As used in this chapter and Chapters 1563., 1565., and 1567. of the Revised Code, and in other sections of the Revised Code relating to the mining law, unless other meaning is clearly apparent in the language and context:",
+      "section": "1561.01",
+      "source_title": "Section 1561.01 - Division of mineral resources management - mine and quarry definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1561.01",
+      "term": "Deputy mine inspector"
+    },
+    {
+      "definition": "(R) \"Gas\" means an inflammable gas, chiefly methane, that when mixed in certain proportions with air is explosive.\n\n(S) \"Methane\" is a hydrocarbon gas (CH4) frequently encountered in coal mines.\n\n(T) \"Explosive mixture of methane and air\" is a mixture of air and methane that will explode in the presence of a flame or hot spark when the methane content is between five and fifteen per cent.",
+      "id": "1561.01-gas",
+      "normalized": "gas",
+      "scope": "As used in this chapter and Chapters 1563., 1565., and 1567. of the Revised Code, and in other sections of the Revised Code relating to the mining law, unless other meaning is clearly apparent in the language and context:",
+      "section": "1561.01",
+      "source_title": "Section 1561.01 - Division of mineral resources management - mine and quarry definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1561.01",
+      "term": "Gas"
+    },
+    {
+      "definition": "(U) \"Electric system\" means all apparatus and electric circuits receiving electric energy or that may receive electric energy from a common source. Where the source of power is under control of the mine, such source of power will be considered as a part of the electric system. If power is obtained from a central station not under control of such mine, \"electric system\" refers only to that part of the system that is under control of such mine.",
+      "id": "1561.01-electric-system",
+      "normalized": "electric system",
+      "scope": "As used in this chapter and Chapters 1563., 1565., and 1567. of the Revised Code, and in other sections of the Revised Code relating to the mining law, unless other meaning is clearly apparent in the language and context:",
+      "section": "1561.01",
+      "source_title": "Section 1561.01 - Division of mineral resources management - mine and quarry definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1561.01",
+      "term": "Electric system"
+    },
+    {
+      "definition": "(V) \"Electric circuit\" means all conductors, including ground returns, furnishing energy to or receiving energy from electric apparatus.",
+      "id": "1561.01-electric-circuit",
+      "normalized": "electric circuit",
+      "scope": "As used in this chapter and Chapters 1563., 1565., and 1567. of the Revised Code, and in other sections of the Revised Code relating to the mining law, unless other meaning is clearly apparent in the language and context:",
+      "section": "1561.01",
+      "source_title": "Section 1561.01 - Division of mineral resources management - mine and quarry definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1561.01",
+      "term": "Electric circuit"
+    },
+    {
+      "definition": "(W) \"Branch circuit\" means all circuits connected to main circuits coming from generators or other main sources of supply.\n\n(X) \"Potential\" and \"voltage\" are synonymous and mean electrical pressure.\n\n(Y) \"Potential of a circuit or voltage of a circuit, machine, or any piece of electrical apparatus\" is the potential normally existing between the conductors of such circuit or the terminals of such machine or apparatus.",
+      "id": "1561.01-branch-circuit",
+      "normalized": "branch circuit",
+      "scope": "As used in this chapter and Chapters 1563., 1565., and 1567. of the Revised Code, and in other sections of the Revised Code relating to the mining law, unless other meaning is clearly apparent in the language and context:",
+      "section": "1561.01",
+      "source_title": "Section 1561.01 - Division of mineral resources management - mine and quarry definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1561.01",
+      "term": "Branch circuit"
+    },
+    {
+      "definition": "(Z) \"Difference of potential\" means the difference of electrical pressure existing between any two points of an electrical system, or between any point of such system and the earth, as determined by a voltmeter.",
+      "id": "1561.01-difference-of-potential",
+      "normalized": "difference of potential",
+      "scope": "As used in this chapter and Chapters 1563., 1565., and 1567. of the Revised Code, and in other sections of the Revised Code relating to the mining law, unless other meaning is clearly apparent in the language and context:",
+      "section": "1561.01",
+      "source_title": "Section 1561.01 - Division of mineral resources management - mine and quarry definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1561.01",
+      "term": "Difference of potential"
+    },
+    {
+      "definition": "(AA) \" Low voltage supply\" means the situation where the conditions of the supply of electricity are such that the difference in potential between any points of the circuit does not exceed four hundred fifty volts.",
+      "id": "1561.01-low-voltage-supply",
+      "normalized": "low voltage supply",
+      "scope": "As used in this chapter and Chapters 1563., 1565., and 1567. of the Revised Code, and in other sections of the Revised Code relating to the mining law, unless other meaning is clearly apparent in the language and context:",
+      "section": "1561.01",
+      "source_title": "Section 1561.01 - Division of mineral resources management - mine and quarry definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1561.01",
+      "term": "Low voltage supply"
+    },
+    {
+      "definition": "(BB) \"High voltage supply\" means the situation where the conditions of the supply of electricity are such that the difference of potential between any two points in the circuit exceeds four hundred fifty volts.",
+      "id": "1561.01-high-voltage-supply",
+      "normalized": "high voltage supply",
+      "scope": "As used in this chapter and Chapters 1563., 1565., and 1567. of the Revised Code, and in other sections of the Revised Code relating to the mining law, unless other meaning is clearly apparent in the language and context:",
+      "section": "1561.01",
+      "source_title": "Section 1561.01 - Division of mineral resources management - mine and quarry definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1561.01",
+      "term": "High voltage supply"
+    },
+    {
+      "definition": "(CC) \"Trailing cable\" means an electric power cable attached to a mobile machine or unit.",
+      "id": "1561.01-trailing-cable",
+      "normalized": "trailing cable",
+      "scope": "As used in this chapter and Chapters 1563., 1565., and 1567. of the Revised Code, and in other sections of the Revised Code relating to the mining law, unless other meaning is clearly apparent in the language and context:",
+      "section": "1561.01",
+      "source_title": "Section 1561.01 - Division of mineral resources management - mine and quarry definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1561.01",
+      "term": "Trailing cable"
+    },
+    {
+      "definition": "(DD) \"Grounding\" means the connecting of any part of an electric system with the earth in such a manner that there is no difference of potential between such connected part and the earth.",
+      "id": "1561.01-grounding",
+      "normalized": "grounding",
+      "scope": "As used in this chapter and Chapters 1563., 1565., and 1567. of the Revised Code, and in other sections of the Revised Code relating to the mining law, unless other meaning is clearly apparent in the language and context:",
+      "section": "1561.01",
+      "source_title": "Section 1561.01 - Division of mineral resources management - mine and quarry definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1561.01",
+      "term": "Grounding"
+    },
+    {
+      "definition": "(EE) \"Mobile machinery or portable machinery\" means machinery that moves about under its own power, or is carried, pulled, or trammed from place to place.",
+      "id": "1561.01-mobile-machinery-or-portable-machinery",
+      "normalized": "mobile machinery or portable machinery",
+      "scope": "As used in this chapter and Chapters 1563., 1565., and 1567. of the Revised Code, and in other sections of the Revised Code relating to the mining law, unless other meaning is clearly apparent in the language and context:",
+      "section": "1561.01",
+      "source_title": "Section 1561.01 - Division of mineral resources management - mine and quarry definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1561.01",
+      "term": "Mobile machinery or portable machinery"
+    },
+    {
+      "definition": "(FF) \"Semipermanent machinery\" means machinery that is mounted on a form of truck that permits it to be moved readily from place to place, but the function of which is to do its work in a semipermanent location.",
+      "id": "1561.01-semipermanent-machinery",
+      "normalized": "semipermanent machinery",
+      "scope": "As used in this chapter and Chapters 1563., 1565., and 1567. of the Revised Code, and in other sections of the Revised Code relating to the mining law, unless other meaning is clearly apparent in the language and context:",
+      "section": "1561.01",
+      "source_title": "Section 1561.01 - Division of mineral resources management - mine and quarry definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1561.01",
+      "term": "Semipermanent machinery"
+    },
+    {
+      "definition": "(GG) \"Permanent machinery\" means machinery that is installed on a permanent foundation attached to the ground.",
+      "id": "1561.01-permanent-machinery",
+      "normalized": "permanent machinery",
+      "scope": "As used in this chapter and Chapters 1563., 1565., and 1567. of the Revised Code, and in other sections of the Revised Code relating to the mining law, unless other meaning is clearly apparent in the language and context:",
+      "section": "1561.01",
+      "source_title": "Section 1561.01 - Division of mineral resources management - mine and quarry definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1561.01",
+      "term": "Permanent machinery"
+    },
+    {
+      "definition": "(HH) \"Underground station\" means any place underground where electrical machinery, transformers, or switchboards are permanently installed.",
+      "id": "1561.01-underground-station",
+      "normalized": "underground station",
+      "scope": "As used in this chapter and Chapters 1563., 1565., and 1567. of the Revised Code, and in other sections of the Revised Code relating to the mining law, unless other meaning is clearly apparent in the language and context:",
+      "section": "1561.01",
+      "source_title": "Section 1561.01 - Division of mineral resources management - mine and quarry definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1561.01",
+      "term": "Underground station"
+    },
+    {
+      "definition": "(II) \"Electrical inspector\" means a person appointed by the chief to examine surface and underground electrical systems and equipment at mines for fire, shock, and explosion hazards.",
+      "id": "1561.01-electrical-inspector",
+      "normalized": "electrical inspector",
+      "scope": "As used in this chapter and Chapters 1563., 1565., and 1567. of the Revised Code, and in other sections of the Revised Code relating to the mining law, unless other meaning is clearly apparent in the language and context:",
+      "section": "1561.01",
+      "source_title": "Section 1561.01 - Division of mineral resources management - mine and quarry definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1561.01",
+      "term": "Electrical inspector"
+    },
+    {
+      "definition": "(JJ) \"Well\" means any borehole, whether drilled or bored, within the state, for the production, extraction, or injection of any gas or liquid mineral, excluding only potable water to be used as such, but including natural or artificial brines and oil field waters.",
+      "id": "1561.01-well",
+      "normalized": "well",
+      "scope": "As used in this chapter and Chapters 1563., 1565., and 1567. of the Revised Code, and in other sections of the Revised Code relating to the mining law, unless other meaning is clearly apparent in the language and context:",
+      "section": "1561.01",
+      "source_title": "Section 1561.01 - Division of mineral resources management - mine and quarry definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1561.01",
+      "term": "Well"
+    },
+    {
+      "definition": "(KK) \"Prepared clay\" means a clay that is plastic and is thoroughly saturated with fresh water to a weight and consistency great enough to settle through the salt water in the well in which it is to be used, except as otherwise approved by the chief in exceptional cases.",
+      "id": "1561.01-prepared-clay",
+      "normalized": "prepared clay",
+      "scope": "As used in this chapter and Chapters 1563., 1565., and 1567. of the Revised Code, and in other sections of the Revised Code relating to the mining law, unless other meaning is clearly apparent in the language and context:",
+      "section": "1561.01",
+      "source_title": "Section 1561.01 - Division of mineral resources management - mine and quarry definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1561.01",
+      "term": "Prepared clay"
+    },
+    {
+      "definition": "(LL) \"Rock sediment\" means the combined cuttings and residue from drilling sedimentary rocks and formations, commonly known as sand pumpings.",
+      "id": "1561.01-rock-sediment",
+      "normalized": "rock sediment",
+      "scope": "As used in this chapter and Chapters 1563., 1565., and 1567. of the Revised Code, and in other sections of the Revised Code relating to the mining law, unless other meaning is clearly apparent in the language and context:",
+      "section": "1561.01",
+      "source_title": "Section 1561.01 - Division of mineral resources management - mine and quarry definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1561.01",
+      "term": "Rock sediment"
+    },
+    {
+      "definition": "(MM) \"Accessible travel route\" means an unobstructed passageway not less than twenty-four inches wide with reflective materials at intervals so as to be visible to persons using the passageway.",
+      "id": "1561.01-accessible-travel-route",
+      "normalized": "accessible travel route",
+      "scope": "As used in this chapter and Chapters 1563., 1565., and 1567. of the Revised Code, and in other sections of the Revised Code relating to the mining law, unless other meaning is clearly apparent in the language and context:",
+      "section": "1561.01",
+      "source_title": "Section 1561.01 - Division of mineral resources management - mine and quarry definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1561.01",
+      "term": "Accessible travel route"
+    },
+    {
+      "definition": "(NN) \"Longwall working face\" means a working face in a coal mine in which work extracting coal from its natural deposit in the earth is performed during a mining cycle by longwall mining.",
+      "id": "1561.01-longwall-working-face",
+      "normalized": "longwall working face",
+      "scope": "As used in this chapter and Chapters 1563., 1565., and 1567. of the Revised Code, and in other sections of the Revised Code relating to the mining law, unless other meaning is clearly apparent in the language and context:",
+      "section": "1561.01",
+      "source_title": "Section 1561.01 - Division of mineral resources management - mine and quarry definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1561.01",
+      "term": "Longwall working face"
+    },
+    {
+      "definition": "(OO) \"Longwall working section\" means all areas from and including the section transformer to and including the longwall working face.",
+      "id": "1561.01-longwall-working-section",
+      "normalized": "longwall working section",
+      "scope": "As used in this chapter and Chapters 1563., 1565., and 1567. of the Revised Code, and in other sections of the Revised Code relating to the mining law, unless other meaning is clearly apparent in the language and context:",
+      "section": "1561.01",
+      "source_title": "Section 1561.01 - Division of mineral resources management - mine and quarry definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1561.01",
+      "term": "Longwall working section"
+    },
+    {
+      "definition": "(PP) \"Longwall mining\" means a system of mining designed for full pillar extraction that minimizes the possibility of outburst or squeezes and allows total caving of the main roof in the pillar area.",
+      "id": "1561.01-longwall-mining",
+      "normalized": "longwall mining",
+      "scope": "As used in this chapter and Chapters 1563., 1565., and 1567. of the Revised Code, and in other sections of the Revised Code relating to the mining law, unless other meaning is clearly apparent in the language and context:",
+      "section": "1561.01",
+      "source_title": "Section 1561.01 - Division of mineral resources management - mine and quarry definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1561.01",
+      "term": "Longwall mining"
+    }
+  ],
+  "kind": "section",
+  "references": [],
+  "scraped": "2026-07-02T19:38:55+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1561.01",
+  "title": "Section 1561.01 - Division of mineral resources management - mine and quarry definitions."
+}

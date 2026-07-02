@@ -1,0 +1,99 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-6101
+Scraped: 2026-07-02T20:17:05+00:00
+
+# Chapter 6101 - Conservancy Districts
+
+## Sections
+
+- Section 6101.01 - Conservancy district definitions.
+- Section 6101.02 - Conservancy bonds and records.
+- Section 6101.03 - Evidence and forms.
+- Section 6101.04 - Purpose and organization of conservancy districts.
+- Section 6101.05 - Proceedings for establishment of a conservancy district.
+- Section 6101.06 - Petitioners' bond.
+- Section 6101.061 - Notice of petition.
+- Section 6101.07 - Composition of court for hearing on petition.
+- Section 6101.08 - Hearing on petition.
+- Section 6101.09 - Findings and decree of court incorporating conservancy district.
+- Section 6101.10 - Appointment of directors of conservancy district.
+- Section 6101.11 - Organization, records of conservancy district.
+- Section 6101.12 - Secretary, employees.
+- Section 6101.13 - Plan for improvements.
+- Section 6101.14 - Right of entry.
+- Section 6101.15 - Powers of board.
+- Section 6101.151 - Property of district removed from tax duplicate.
+- Section 6101.16 - Contracts for improvements.
+- Section 6101.161 - Conservancy district contract requirements.
+- Section 6101.17 - Dominant right of eminent domain.
+- Section 6101.18 - Eminent domain.
+- Section 6101.181 - Appropriation of property for sewer construction to address public health nuisance.
+- Section 6101.19 - Conservancy district rules and regulations - enforcement - prohibitions.
+- Section 6101.20 - Plan requiring building, modification, removal, or rebuilding of bridge, grade, or aqueduct.
+- Section 6101.21 - Passing boat or other equipment through bridge or grade.
+- Section 6101.22 - Surveys and examinations of rainfall, flood conditions, and stream flow.
+- Section 6101.23 - Co-operation with United States government or other corporations.
+- Section 6101.24 - Water rights and uses - rates.
+- Section 6101.241 - Improvements outside boundary of district.
+- Section 6101.25 - Recreational facilities upon lands owned or controlled by district.
+- Section 6101.26 - Taking or damaging cemetery.
+- Section 6101.27 - Board of appraisers of conservancy district.
+- Section 6101.28 - Appraising of benefits and damages.
+- Section 6101.29 - Effect of improvement on land outside district.
+- Section 6101.30 - Notice of land included or excluded from district.
+- Section 6101.31 - Conservancy appraisal record.
+- Section 6101.32 - Notice of filing report on appraisals.
+- Section 6101.33 - Exceptions to appraisals.
+- Section 6101.34 - Court order on appraisals.
+- Section 6101.35 - Appeal from award of compensation or damages.
+- Section 6101.36 - Possession and title to property.
+- Section 6101.37 - Certified copy of decree.
+- Section 6101.38 - Confirmed appraisal of compensation or damages - appointment of magistrate.
+- Section 6101.39 - Alteration or addition to plan.
+- Section 6101.40 - Appeals not permitted to interrupt or delay any action.
+- Section 6101.41 - Land of district exempt from assessment.
+- Section 6101.42 - Appraising lands not at first included within boundaries of district.
+- Section 6101.43 - Moneys of district administered through funds.
+- Section 6101.44 - Moneys of district administered through funds.
+- Section 6101.441 - Dissolution or disorganization of conservancy district.
+- Section 6101.45 - Defects not to invalidate proceedings except where denial of justice results.
+- Section 6101.46 - Directors may borrow money and issue notes.
+- Section 6101.47 - Conservancy district charitable and social welfare trusts.
+- Section 6101.48 - Directors to levy assessments.
+- Section 6101.49 - Paying assessments.
+- Section 6101.50 - Issuing anticipatory bonds and notes.
+- Section 6101.501 - Issuing bonds to pay costs of improvement.
+- Section 6101.51 - Issuing revenue bonds.
+- Section 6101.52 - Duties of treasurer.
+- Section 6101.53 - Conservancy maintenance assessment.
+- Section 6101.54 - Readjustment of appraisal of benefits.
+- Section 6101.55 - Annual levy.
+- Section 6101.56 - Borrowing in anticipation of collection of assessments.
+- Section 6101.57 - Collecting assessments.
+- Section 6101.58 - County treasurer's bond.
+- Section 6101.59 - Conservancy district assessment constitutes lien.
+- Section 6101.60 - Enforcement of conservancy district liens.
+- Section 6101.61 - Annual levy procedures.
+- Section 6101.62 - Water department funds used to pay levy or assessment.
+- Section 6101.63 - Additional rate for water.
+- Section 6101.64 - Sewer rentals used to pay levy or assessment.
+- Section 6101.65 - Failure to pay collected assessments.
+- Section 6101.66 - Annual report of directors.
+- Section 6101.67 - Compensation and expenses of directors and appraisers.
+- Section 6101.68 - Lands included in more than one district.
+- Section 6101.69 - Consolidation of districts.
+- Section 6101.70 - Petition for uniting districts by directors.
+- Section 6101.71 - Petition for organizing subdistricts.
+- Section 6101.72 - Annexing or absorbing territory.
+- Section 6101.73 - Irrigation districts.
+- Section 6101.74 - Remedies and damages.
+- Section 6101.75 - Policing district.
+- Section 6101.76 - Removals for cause.
+- Section 6101.77 - Writ of mandamus.
+- Section 6101.78 - Defective notice.
+- Section 6101.79 - Questions of validity of organization advanced in courts.
+- Section 6101.80 - Liberal construction of chapter.
+- Section 6101.81 - Destruction, injury, removal of survey marks prohibited.
+- Section 6101.82 - Liability for damages.
+- Section 6101.83 - Unlawful use of moneys.
+- Section 6101.84 - Illustrative forms.
+- Section 6101.99 - Penalty.

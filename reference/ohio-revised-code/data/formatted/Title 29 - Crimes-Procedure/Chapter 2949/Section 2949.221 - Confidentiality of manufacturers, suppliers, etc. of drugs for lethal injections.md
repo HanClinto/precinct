@@ -1,0 +1,54 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-2949.221
+Scraped: 2026-07-02T19:46:59+00:00
+
+# Section 2949.221 - Confidentiality of manufacturers, suppliers, etc. of drugs for lethal injections.
+
+**Effective:** March 23, 2015
+
+**Latest Legislation:** House Bill 663 - 130th General Assembly
+
+(A) As used in this section:
+
+(1) "Person" has the same meaning as in section 1.59 of the Revised Code.
+
+(2) "Licensing authority" means an entity, board, department, commission, association, or agency that issues a license to a person or entity.
+
+(3) "Public office" has the same meaning as in section 117.01 of the Revised Code.
+
+(B) If, at any time prior to the day that is twenty-four months after the effective date of this section , a person manufactures, compounds, imports, transports, distributes, supplies, prescribes, prepares, administers, uses, or tests any of the compounding equipment or components, the active pharmaceutical ingredients, the drugs or combination of drugs, the medical supplies, or the medical equipment used in the application of a lethal injection of a drug or combination of drugs in the administration of a death sentence by lethal injection as provided for in division (A) of section 2949.22 of the Revised Code, notwithstanding any provision of law to the contrary, all of the following apply regarding any information or record in the possession of any public office that identifies or reasonably leads to the identification of the person and the person's participation in any activity described in this division:
+
+(1) The information or record shall be classified as confidential, is privileged under law, and is not subject to disclosure by any person, state agency, governmental entity, board, or commission or any political subdivision as a public record under section 149.43 of the Revised Code or otherwise.
+
+(2) The information or record shall not be subject to disclosure by or during any judicial proceeding, inquiry, or process, except as described in division (B)(4) of this section or in section 2949.222 of the Revised Code.
+
+(3) The information or record shall not be subject to discovery, subpoena, or any other means of legal compulsion for disclosure to any person or entity, except as described in division (B)(4) of this section or in section 2949.222 of the Revised Code.
+
+(4)(a) If the information or record pertains to the manufacture, compounding, importing, transportation, distribution, or supplying of any of the items or materials described in division (B) of this section, the person or entity that maintains the information or record shall disclose the information or record to the Ohio ethics commission and the commission may use the information or record, subject to division (B)(1) of this section, only to confirm the following:
+
+(i) That the relationship between the person and the department of rehabilitation and correction is consistent with and complies with the ethics laws of this state;
+
+(ii) That at the time of the specified conduct, the person has all licenses required under the laws of this state to engage in that conduct and the licenses are valid.
+
+(b) If the Ohio ethics commission receives any information or record pursuant to division (B)(4)(a) of this section, the commission shall complete its use of the information or record for the purposes described in that division within fourteen days of its receipt and shall promptly report its findings to the director of rehabilitation and correction.
+
+(C)(1) If, at any time prior to the day that is twenty-four months after the effective date of this section , an employee or former employee of the department of rehabilitation and correction or any other individual selected or designated by the director of the department participates or participated in the administration of a sentence of death by lethal injection, as provided for in division (A) of section 2949.22 of the Revised Code, subject to division (C)(2) of this section and notwithstanding any other provision of law to the contrary, the protections and limitations specified in divisions (B)(1), (2), and (3) of this section shall apply regarding any information or record in the possession of any public office that identifies or reasonably leads to the identification of the employee, former employee, or other individual and the employee's, former employee's, or individual's participation in the administration of the sentence of death by lethal injection described in this division.
+
+(2) Division (C)(1) of this section does not apply with respect to information or a record that identifies or reasonably leads to the identification of the director of rehabilitation and correction or the warden of the state correctional institution in which the administration of the sentence of death takes place.
+
+(D) The protections and limitations specified in divisions (B)(1), (2), and (3) of this section regarding information and records that identify or may reasonably lead to the identification of a person described in divisions (B) or (C) of this section and the person's participation in any activity described in the particular division are rights that shall be recognized as follows:
+
+(1) With respect to a person that is an individual, without any requirement for the person to take any action or specifically apply for recognition of such rights.;
+
+(2) With respect to a person that is not an individual, the rights do not exist unless the person requests to have the rights recognized by applying in writing to the director of rehabilitation and correction.
+
+The director of rehabilitation and correction by rule shall establish the procedure according to which a person who is not an individual may apply in writing for the rights described in divisions (B)(1), (2), and (3) of this section. The director shall approve an application that is submitted in compliance with the rules. A person whose application is approved is entitled to the rights for twenty years after the person ceases the qualifying activity as contemplated by the first paragraph of division (B) of this section. The director shall notify any person, who is not an individual and who is entitled to the rights, of the application procedures.
+
+(E) If a person or entity that, at any time prior to the day that is twenty-four months after the effective date of this section , participates in, consults regarding, performs any function with respect to, including any activity described in division (B) of this section, or provides any expert opinion testimony regarding an execution by lethal injection conducted in accordance with division (A) of section 2949.22 of the Revised Code is licensed by a licensing authority, notwithstanding any provision of law to the contrary, the licensing authority shall not do any of the following as a result of that participation, consultation, performance, activity, or testimony by the person or entity:
+
+(1) Challenge, reprimand, suspend, or revoke the person's or entity's license;
+
+(2) Take any disciplinary action against the person or entity or the person's or entity's licensure.
+
+(F) A person may not, without the approval of the director of rehabilitation and correction, knowingly disclose the identity and participation in an activity described in the particular division of any person to whom division (B) of this section applies and that is made confidential, privileged, and not subject to disclosure under that division or of an employee, former employee, or other individual to whom division (C)(1) of this section applies and that is made confidential, privileged, and not subject to disclosure under that division. Any person, employee, former employee, or individual whose identity and participation in a specified activity is disclosed in violation of this division has a civil cause of action against any person who discloses the identity and participation in the activity in violation of this division. In a civil action brought under this division, the plaintiff is entitled to recover from the defendant actual damages, punitive or exemplary damages upon a showing of a willful violation of this division, and reasonable attorney's fees and court costs.
+
+(G) If division (B), (C), or (D) of this section applies to a person with respect to any conduct or activity of the person occurring at a time prior to the day that is twenty-four months after the effective date of this section , the expiration of that twenty-four-month period does not affect, add to, or diminish the protections and limitations specified in division (B) or (C), division (D), and division (E) of this section with respect to their application to that person.

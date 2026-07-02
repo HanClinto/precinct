@@ -1,0 +1,20 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4929.18
+Scraped: 2026-07-02T20:09:29+00:00
+
+# Section 4929.18 - Biologically derived methane gas.
+
+**Effective:** October 3, 2023
+
+**Latest Legislation:** House Bill 33 - 135th General Assembly
+
+(A) As used in this section, "biologically derived methane gas" has the same meaning as in section 5713.30 of the Revised Code.
+
+(B)(1) The following property, equipment, or facilities installed or constructed by a natural gas company may be treated as instrumentalities and facilities for distribution service if the public utilities commission determines that treatment is just and reasonable:
+
+(a) Any property, equipment, or facilities to enable interconnection with or receipt from any property, equipment, or facilities used to generate, collect, gather, or transport biologically derived methane gas, or to enable the blending or supply of biologically derived methane gas to consumers within this state;
+
+(b) Any property, equipment, or facilities to enable interconnection with or receipt from any property, equipment, or facilities used to generate, collect, gather, or transport hydrogen, or to enable the blending of hydrogen with natural gas for supply to consumers within this state.
+
+(2) If the commission makes the determination described in division (B)(1) of this section, the property, equipment, or facilities shall be considered used and useful in rendering public utility service for purposes of section 4909.15 of the Revised Code.
+
+Last updated October 3, 2023 at 2:35 PM

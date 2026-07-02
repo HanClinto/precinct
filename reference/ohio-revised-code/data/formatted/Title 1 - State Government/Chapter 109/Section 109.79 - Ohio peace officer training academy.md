@@ -1,0 +1,44 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-109.79
+Scraped: 2026-07-02T19:31:26+00:00
+
+# Section 109.79 - Ohio peace officer training academy.
+
+**Effective:** October 24, 2024
+
+**Latest Legislation:** Senate Bill 98 - 135th General Assembly
+
+(A) The Ohio peace officer training commission shall establish and conduct a training school for law enforcement officers of any political subdivision of the state or of the state public defender's office. The school shall be known as the Ohio peace officer training academy. No bailiff or deputy bailiff of a court of record of this state and no criminal investigator employed by the state public defender shall be permitted to attend the academy for training unless the employing court of the bailiff or deputy bailiff or the state public defender, whichever is applicable, has authorized the bailiff, deputy bailiff, or investigator to attend the academy.
+
+The Ohio peace officer training commission shall develop the training program, which shall include courses in both the civil and criminal functions of law enforcement officers, a course in crisis intervention with six or more hours of training, training in the handling of missing children and child abuse and neglect cases, and training on companion animal encounters and companion animal behavior, and shall establish rules governing qualifications for admission to the academy. The commission may require competitive examinations to determine fitness of prospective trainees, so long as the examinations or other criteria for admission to the academy are consistent with the provisions of Chapter 124. of the Revised Code.
+
+The Ohio peace officer training commission shall determine tuition costs sufficient in the aggregate to pay the costs of operating the academy. Tuition paid by a political subdivision of the state or by the state public defender's office shall be deposited into the state treasury to the credit of the peace officer training academy fee fund, which is hereby established. The attorney general shall use money in the fund to pay costs associated with operation of the academy. The costs of acquiring and equipping the academy shall be paid from appropriations made by the general assembly to the Ohio peace officer training commission for that purpose, from gifts or grants received for that purpose, or from fees for goods related to the academy.
+
+The Ohio peace officer training commission shall create a gaming-related curriculum for gaming agents. The Ohio peace officer training commission shall use money distributed to the Ohio peace officer training academy from the Ohio law enforcement training fund to first support the academy's training programs for gaming agents and gaming-related curriculum. The Ohio peace officer training commission may utilize existing training programs in other states that specialize in training gaming agents.
+
+The law enforcement officers, during the period of their training, shall receive compensation as determined by the political subdivision that sponsors them or, if the officer is a criminal investigator employed by the state public defender, as determined by the state public defender. The political subdivision may pay the tuition costs of the law enforcement officers they sponsor and the state public defender may pay the tuition costs of criminal investigators of that office who attend the academy.
+
+If trainee vacancies exist, the academy may train and issue certificates of satisfactory completion to peace officers who are employed by a campus police department pursuant to section 1713.50 of the Revised Code, by a qualified nonprofit corporation police department pursuant to section 1702.80 of the Revised Code, or by a railroad company, who are amusement park police officers appointed and commissioned by a judge of the appropriate municipal court or county court pursuant to section 4973.17 of the Revised Code, or who are bank, savings and loan association, savings bank, credit union, or association of banks, savings and loan associations, savings banks, or credit unions, or hospital police officers appointed and commissioned by the secretary of state pursuant to sections 4973.17 to 4973.22 of the Revised Code, provided that no such officer shall be trained at the academy unless the officer meets the qualifications established for admission to the academy and the qualified nonprofit corporation police department; bank, savings and loan association, savings bank, credit union, or association of banks, savings and loan associations, savings banks, or credit unions; railroad company; hospital; or amusement park or the private college or university that established the campus police department prepays the entire cost of the training. A qualified nonprofit corporation police department; bank, savings and loan association, savings bank, credit union, or association of banks, savings and loan associations, savings banks, or credit unions; railroad company; hospital; or amusement park or a private college or university that has established a campus police department is not entitled to reimbursement from the state for any amount paid for the cost of training the bank, savings and loan association, savings bank, credit union, or association of banks, savings and loan associations, savings banks, or credit unions peace officers; the railroad company's peace officers; or the peace officers of the qualified nonprofit corporation police department, campus police department, hospital, or amusement park.
+
+The academy shall permit investigators employed by the state medical board to take selected courses that the board determines are consistent with its responsibilities for initial and continuing training of investigators as required under sections 4730.26 and 4731.05 of the Revised Code. The board shall pay the entire cost of training that investigators receive at the academy.
+
+The academy shall permit tactical medical professionals and fire investigators to attend training courses at the academy that are designed to qualify the professionals and investigators to carry firearms while on duty under sections 109.771 and 109.774 of the Revised Code and that provide training comparable to training mandated under the rules required by division (A) of section 109.748 and division (A) of section 109.7481 of the Revised Code. The executive director of the Ohio peace officer training commission may certify tactical medical professionals and fire investigators who satisfactorily complete the training courses. The law enforcement agency served by a tactical medical professional or the political subdivision served by a fire investigator who attends the academy may pay the tuition costs of the professional or investigator.
+
+The academy shall permit county correctional officers to attend training courses at the academy that are designed to qualify the county correctional officers to carry firearms while on duty under section 109.772 of the Revised Code and that provide training mandated under the rules required by section 109.773 of the Revised Code. The executive director of the Ohio peace officer training commission may certify county correctional officers who satisfactorily complete the training courses. The county jail, county workhouse, minimum security jail, joint city and county workhouse, municipal-county correctional center, multicounty-municipal correctional center, municipal-county jail or workhouse, or multicounty-municipal jail or workhouse served by the county correctional officer who attends the academy may pay the tuition costs of the county correctional officer.
+
+(B) As used in this section:
+
+(1) "Law enforcement officers" include any undercover drug agent, any bailiff or deputy bailiff of a court of record, and any criminal investigator who is employed by the state public defender.
+
+(2) "Undercover drug agent" means any person who:
+
+(a) Is employed by a county, township, or municipal corporation for the purposes set forth in division (B)(2)(b) of this section but who is not an employee of a county sheriff's department, of a township constable, or of the police department of a municipal corporation or township;
+
+(b) In the course of the person's employment by a county, township, or municipal corporation, investigates and gathers information pertaining to persons who are suspected of violating Chapter 2925. or 3719. of the Revised Code, and generally does not wear a uniform in the performance of the person's duties.
+
+(3) "Crisis intervention training" has the same meaning as in section 109.71 of the Revised Code.
+
+(4) "Missing children" has the same meaning as in section 2901.30 of the Revised Code.
+
+(5) "Companion animal" has the same meaning as in section 959.131 of the Revised Code.
+
+Last updated August 28, 2024 at 4:25 PM

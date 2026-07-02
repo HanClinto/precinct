@@ -1,0 +1,134 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-3119
+Scraped: 2026-07-02T19:47:54+00:00
+
+# Chapter 3119 - Calculation Of Child Support Obligation - Health Insurance Coverage
+
+## Sections
+
+- Section 3119.01 - Calculation of child support obligation definitions.
+- Section 3119.02 - Calculation of child support obligation.
+- Section 3119.021 - Basic child support schedule.
+- Section 3119.022 - Child support guideline worksheets and instructions.
+- Section 3119.023 - Review of basic child support schedule.
+- Section 3119.03 - Presumption of correctness.
+- Section 3119.04 - Determination of support obligation where combined gross income is greater than or less than amounts covered by schedule.
+- Section 3119.05 - Other computing and calculating guidelines.
+- Section 3119.051 - Reduction in cases where parenting time order equals or exceeds ninety overnights per year.
+- Section 3119.06 - Minimum child support order.
+- Section 3119.07 - Effect of child custody on calculation of child support.
+- Section 3119.08 - Child support order to include specific provisions for parenting time and visitation.
+- Section 3119.09 - Denial of or interference with right of parenting time or visitation.
+- Section 3119.10 - Definition of "person with a disability".
+- Section 3119.11 - Court-ordered child support for a person with a disability regardless of age.
+- Section 3119.12 - No issuance of administrative support order for child over eighteen.
+- Section 3119.22 - Deviating from schedule or worksheet.
+- Section 3119.23 - Factors to be considered in granting a deviation.
+- Section 3119.231 - Deviation where court-ordered parenting time exceeds ninety overnights per year.
+- Section 3119.24 - Shared parenting order child support provisions.
+- Section 3119.27 - Processing charge for issuing or modifying an order.
+- Section 3119.28 - Paying processing charge.
+- Section 3119.29 - Health insurance coverage for children definitions.
+- Section 3119.291 - Modifying national medical support notice.
+- Section 3119.30 - Determining person responsible for health care of children.
+- Section 3119.301 - Prior orders for health care needs.
+- Section 3119.302 - Private health insurance - cash medical support.
+- Section 3119.303 - Cash medical support order.
+- Section 3119.31 - Providing list of any group health insurance policies, contracts, or plans available to the party.
+- Section 3119.32 - General requirements for order concerning health insurance coverage.
+- Section 3119.33 - Sending national medical support notice to employer.
+- Section 3119.34 - Sending national medical support notice to new employer.
+- Section 3119.35 - Sending notice of medical support enforcement activity to employee.
+- Section 3119.351 - Contents of notice of medical support enforcement activity.
+- Section 3119.352 - Standard form for notice of medical support enforcement activity.
+- Section 3119.36 - Employer's action upon receiving national medical support notice.
+- Section 3119.361 - Complying with notice or order to provide health insurance coverage.
+- Section 3119.362 - Requesting employer to provide information.
+- Section 3119.363 - Using information provided by employer.
+- Section 3119.364 - Providing notice of change in coverage.
+- Section 3119.37 - Health plan administrator to complete and comply with notice.
+- Section 3119.371 - Information provided to office of child support.
+- Section 3119.38 - Request for administrative hearing based on mistake of fact.
+- Section 3119.39 - Failure to make timely request for hearing.
+- Section 3119.40 - Hearing based on mistake of fact.
+- Section 3119.41 - Decision on mistake of fact proceeding.
+- Section 3119.42 - Binding effect of order.
+- Section 3119.421 - Reimbursement for covered out-of-pocket medical, optical, hospital, dental, or prescription expenses.
+- Section 3119.422 - Child who does not meet the underwriting standards of policy.
+- Section 3119.43 - Notice of failure of person to comply with child support order.
+- Section 3119.44 - Contempt.
+- Section 3119.45 - Previous finding of contempt.
+- Section 3119.46 - Filing motion for modification of order.
+- Section 3119.47 - Investigation of availability of insurance.
+- Section 3119.48 - Modification of order.
+- Section 3119.49 - Motion to modify support to cover medical needs adequately.
+- Section 3119.50 - Determining adequacy of support.
+- Section 3119.51 - Administrative rules.
+- Section 3119.54 - Eligibility for medical assistance.
+- Section 3119.56 - Failure to comply with child support order for health care.
+- Section 3119.60 - Proceedings prior to formal beginning of review.
+- Section 3119.61 - Commencing review of administrative order.
+- Section 3119.63 - Reviewing court child support order.
+- Section 3119.631 - Scope of review.
+- Section 3119.64 - Requesting hearing on revised amount of support.
+- Section 3119.65 - Revising order where hearing not requested.
+- Section 3119.66 - Schedule for and conduct of hearing.
+- Section 3119.67 - Notice of date, time, and location of hearing.
+- Section 3119.68 - Ordering party to provide documents.
+- Section 3119.69 - Notice that willful failure to comply with court order is contempt of court.
+- Section 3119.70 - Determination by court following hearing.
+- Section 3119.71 - Modification of order relates back.
+- Section 3119.72 - Noncompliance by party with request for information.
+- Section 3119.73 - Calculating revised amount of child support.
+- Section 3119.74 - Conducting administrative reviews of support orders.
+- Section 3119.75 - Child support enforcement agency not required to review a child support order.
+- Section 3119.76 - Administrative rules establishing procedures for determining when orders should be reviewed.
+- Section 3119.77 - Review of child support order for person called to active military service.
+- Section 3119.771 - Review of order.
+- Section 3119.772 - Modification of order.
+- Section 3119.773 - Notice of date of termination of active military service.
+- Section 3119.79 - Modification of child support.
+- Section 3119.80 - Motion requesting issuance of withholding or deduction notice to pay support due.
+- Section 3119.81 - Ordering investigation prior to issuing certain notices.
+- Section 3119.82 - Designating parent entitled to claim federal income tax deduction.
+- Section 3119.83 - Modifying duty to pay delinquent support retroactively.
+- Section 3119.84 - Modifying payments accruing while modification proceedings are pending.
+- Section 3119.86 - Continuing support obligation beyond child's eighteenth birthday.
+- Section 3119.861 - Support orders after a child's nineteenth birthday.
+- Section 3119.862 - Support orders may not continue beyond an agreed-upon date in a separation agreement.
+- Section 3119.863 - Parent must pay support order until termination.
+- Section 3119.87 - Notifying agency of reason why support order should terminate.
+- Section 3119.88 - Reasons for which child support order should terminate.
+- Section 3119.89 - Investigating termination.
+- Section 3119.90 - Agency determination that support order should terminate.
+- Section 3119.91 - Requesting administrative hearing on termination investigation conclusions.
+- Section 3119.92 - Court hearing on termination of support.
+- Section 3119.93 - Terminating withholding or deduction notice or other order.
+- Section 3119.94 - Administrative rules concerning impounded funds, return of payments, uniform implementation.
+- Section 3119.95 - Health care coverage included in caretaker support order.
+- Section 3119.951 - Caretaker filing for child support.
+- Section 3119.953 - Determination of existing support order.
+- Section 3119.955 - Redirection of existing support order.
+- Section 3119.957 - Determination of redirection amount.
+- Section 3119.9511 - Determination of redirection to caretaker.
+- Section 3119.9513 - Issuance of redirection order or recommendation.
+- Section 3119.9515 - Notice of redirection order or recommendation.
+- Section 3119.9517 - Objection to redirection order or recommendation.
+- Section 3119.9519 - Commencement of redirection.
+- Section 3119.9523 - Investigation of support obligation to caretaker.
+- Section 3119.9525 - Determination of support obligation to caretaker.
+- Section 3119.9527 - Notice and investigation of primary caretaker.
+- Section 3119.9529 - Determination of continued caregiver.
+- Section 3119.9531 - Determination of new caregiver.
+- Section 3119.9533 - Termination of redirection; parent obligee.
+- Section 3119.9535 - Termination of redirection; no obligee.
+- Section 3119.9537 - Impoundment of redirected support funds.
+- Section 3119.9539 - Duration of impoundment.
+- Section 3119.9541 - Rulemaking.
+- Section 3119.96 - Genetic testing definitions.
+- Section 3119.961 - Motion for relief from paternity determination or support order.
+- Section 3119.962 - Granting relief from paternity determination.
+- Section 3119.963 - Order to submit to genetic tests.
+- Section 3119.964 - Effect of granting relief from paternity determination on parenting time rights.
+- Section 3119.965 - Granting relief from paternity determination does not preclude action to establish parent-child relationship.
+- Section 3119.966 - Costs and attorney fees.
+- Section 3119.967 - Granting relief from paternity determination regardless of date of order.

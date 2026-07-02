@@ -1,0 +1,315 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 5122.01 - Hospitalization of mentally ill definitions.",
+      "number": "5122.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5122.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5122.011 - Application of chapter.",
+      "number": "5122.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5122.011"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5122.02 - Application for voluntary admission.",
+      "number": "5122.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5122.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5122.03 - Release of voluntary patients.",
+      "number": "5122.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5122.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5122.04 - Outpatient services for minors without knowledge or consent of parent or guardian.",
+      "number": "5122.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5122.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5122.05 - Involuntary admission.",
+      "number": "5122.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5122.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5122.09 - Release before hearing.",
+      "number": "5122.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5122.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5122.10 - Emergency hospitalization.",
+      "number": "5122.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5122.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5122.11 - Court ordered treatment of mentally ill person.",
+      "number": "5122.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5122.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5122.111 - Affidavit of mental illness.",
+      "number": "5122.111",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5122.111"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5122.112 - Termination of probate court jurisdiction.",
+      "number": "5122.112",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5122.112"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5122.12 - Hearing notice.",
+      "number": "5122.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5122.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5122.13 - Investigation.",
+      "number": "5122.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5122.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5122.14 - Pre-hearing medical examination.",
+      "number": "5122.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5122.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5122.141 - Initial hearing.",
+      "number": "5122.141",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5122.141"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5122.15 - Full hearing.",
+      "number": "5122.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5122.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5122.16 - Hospital care or treatment by veterans' administration or other U.S. agency.",
+      "number": "5122.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5122.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5122.17 - Temporary detention.",
+      "number": "5122.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5122.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5122.18 - Notice of hospitalization.",
+      "number": "5122.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5122.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5122.19 - Medical examination within 24 hours of arrival.",
+      "number": "5122.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5122.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5122.20 - Transfers.",
+      "number": "5122.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5122.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5122.21 - Discharging involuntary patients.",
+      "number": "5122.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5122.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5122.22 - Trial visits.",
+      "number": "5122.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5122.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5122.23 - Reporting death or change in custody status of patient.",
+      "number": "5122.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5122.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5122.231 - Applying for county services.",
+      "number": "5122.231",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5122.231"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5122.25 - Rehearing.",
+      "number": "5122.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5122.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5122.26 - Patient absent without leave.",
+      "number": "5122.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5122.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5122.27 - Chief clinical officer duties.",
+      "number": "5122.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5122.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5122.271 - Consent to treatment.",
+      "number": "5122.271",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5122.271"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5122.28 - Labor and tasks performed by patients.",
+      "number": "5122.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5122.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5122.29 - Patients' rights.",
+      "number": "5122.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5122.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5122.30 - Writ of habeas corpus.",
+      "number": "5122.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5122.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5122.301 - Civil rights of patients.",
+      "number": "5122.301",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5122.301"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5122.31 - Confidentiality.",
+      "number": "5122.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5122.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5122.311 - Notification of bureau of criminal identification and investigation of adjudication of mental illness.",
+      "number": "5122.311",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5122.311"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5122.32 - Confidentiality of quality assurance records.",
+      "number": "5122.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5122.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5122.33 - Department of mental health and addiction services; additional powers.",
+      "number": "5122.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5122.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5122.34 - Immunity.",
+      "number": "5122.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5122.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5122.341 - Immunity from liability.",
+      "number": "5122.341",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5122.341"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5122.35 - Venue.",
+      "number": "5122.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5122.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5122.36 - Expenses of return to county of residence.",
+      "number": "5122.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5122.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5122.38 - Competency adjudications.",
+      "number": "5122.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5122.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5122.39 - Guardianship of mentally ill persons.",
+      "number": "5122.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5122.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5122.41 - Transmission of court papers.",
+      "number": "5122.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5122.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5122.42 - Preservation of rights and privileges.",
+      "number": "5122.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5122.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5122.43 - Payment of costs, fees, and expenses of proceedings - reimbursement.",
+      "number": "5122.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5122.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5122.44 - Patients buried on department hospital grounds - definitions.",
+      "number": "5122.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5122.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5122.45 - Compilation of patient information for each cemetery.",
+      "number": "5122.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5122.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5122.46 - History connection and state agencies to provide access to information.",
+      "number": "5122.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5122.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5122.47 - Deposit of compilations with history connection and state library.",
+      "number": "5122.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5122.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5122.99 - Penalty.",
+      "number": "5122.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5122.99"
+    }
+  ],
+  "scraped": "2026-07-02T20:10:50+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-5122",
+  "title": "Chapter 5122 - Hospitalization of Mentally Ill"
+}

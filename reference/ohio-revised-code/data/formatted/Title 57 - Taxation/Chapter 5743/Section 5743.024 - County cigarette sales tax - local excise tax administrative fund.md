@@ -1,0 +1,64 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5743.024
+Scraped: 2026-07-02T20:15:22+00:00
+
+# Section 5743.024 - County cigarette sales tax - local excise tax administrative fund.
+
+**Effective:** September 30, 2025
+
+**Latest Legislation:** House Bill 96 - 136th General Assembly
+
+(A) For the purposes of section 307.696 of the Revised Code, to pay the expenses of administering the tax, and to pay any or all of the charge the board of elections makes against the county to hold the election on the question of levying the tax, or for such purposes and to provide revenues to the county for permanent improvements, the board of county commissioners may levy a tax on sales of cigarettes sold for resale at retail in the county. The tax shall not exceed two and twenty-five hundredths of a mill per cigarette, and shall be computed on each cigarette sold. The tax may be levied for any number of years not exceeding twenty. Only one sale of the same article shall be used in computing the amount of tax due.
+
+The tax shall be levied pursuant to a resolution of the county commissioners approved by a majority of the electors in the county voting on the question of levying the tax. The resolution shall specify the rate of the tax, the number of years the tax will be levied, and the purposes for which the tax is levied. Such election may be held on the date of a general or special election held not sooner than ninety days after the date the board certifies its resolution to the board of elections. If approved by the electors, the tax shall take effect on the first day of the month specified in the resolution but not sooner than the first day of the month that is at least sixty days after the certification of the election results by the board of elections. A copy of the resolution levying the tax shall be certified to the tax commissioner at least sixty days prior to the date on which the tax is to become effective.
+
+A resolution under this section may be joined on the ballot as a single question with a resolution adopted under section 307.697 or 4301.421 of the Revised Code to levy a tax for the same purposes and for the purpose of paying the expenses of administering the tax. The form of the ballot in an election held pursuant to this section shall be as prescribed in section 307.697 of the Revised Code.
+
+(B) All money arising from each county's taxes levied under this section and section 5743.323 of the Revised Code shall be credited as follows:
+
+(1) To the tax refund fund created by section 5703.052 of the Revised Code, amounts equal to the refunds from each tax levied under this section certified by the tax commissioner pursuant to section 5743.05 of the Revised Code;
+
+(2) Following the crediting of amounts pursuant to division (B)(1) of this section:
+
+(a) To the permissive tax distribution fund created by division (B)(1) of section 4301.423 of the Revised Code, an amount equal to ninety-eight per cent of the remainder collected;
+
+(b) To the local excise tax administrative fund, which is hereby created in the state treasury, an amount equal to two per cent of such remainder, for use by the tax commissioner in defraying costs incurred in administering the tax.
+
+On or before the tenth day of each month, the tax commissioner shall distribute the amount credited to the permissive tax distribution fund during the preceding month by providing for payment of the appropriate amount to the county treasurer of each county levying the tax.
+
+(C) The board of county commissioners of a county in which a tax is imposed under this section on the effective date of the amendment of this section by H.B. 59 of the 130th general assembly, September 29, 2013, may levy a tax for the purpose of section 307.673 of the Revised Code regardless of whether or not the cooperative agreement authorized under that section has been entered into prior to the day the resolution adopted under division (C)(1) or (2) of this section is adopted, for the purpose of reimbursing a county for costs incurred in the construction of a sports facility pursuant to an agreement entered into by the county under section 307.696 of the Revised Code, or for the purpose of paying the costs of capital repairs of and improvements to a sports facility. The tax shall be levied and approved in one of the manners prescribed by division (C)(1) or (2) of this section.
+
+(1) The tax may be levied pursuant to a resolution adopted by a majority of the members of the board of county commissioners not later than forty-five days after July 19, 1995. A board of county commissioners approving a tax under division (C)(1) of this section may approve a tax under division (D)(1) of section 307.697 or division (B)(1) of section 4301.421 of the Revised Code at the same time. Subject to the resolution being submitted to a referendum under sections 305.31 to 305.41 of the Revised Code, the resolution shall take effect immediately, but the tax levied pursuant to the resolution shall not be levied prior to the day following the last day that any tax previously levied pursuant to this division may be levied.
+
+(2) The tax may be levied pursuant to a resolution adopted by a majority of the members of the board of county commissioners not later than September 1, 2015, and approved by a majority of the electors of the county voting on the question of levying the tax. The board of county commissioners shall certify a copy of the resolution to the board of elections immediately upon adopting a resolution under division (C)(2) of this section. The election may be held on the date of a general or special election held not sooner than ninety days after the date the board certifies its resolution to the board of elections. The form of the ballot shall be as prescribed by division (C) of section 307.697 of the Revised Code, except that the phrase "paying not more than one-half of the costs of providing a sports facility together with related redevelopment and economic development projects" shall be replaced by the phrase "paying the costs of constructing, renovating, improving, or repairing a sports facility and reimbursing a county for costs incurred by the county in the construction of a sports facility," and the phrase ", beginning __________ (here insert the earliest date the tax would take effect)" shall be appended after "years." A board of county commissioners submitting the question of a tax under division (C)(2) of this section may submit the question of a tax under division (D)(2) of section 307.697 or division (B)(2) of section 4301.421 of the Revised Code as a single question, and the form of the ballot shall include each of the proposed taxes.
+
+If approved by a majority of electors voting on the question, the tax shall take effect on the day specified on the ballot, which shall not be earlier than the day following the last day that any tax previously levied pursuant to this division may be levied.
+
+The rate of a tax levied pursuant to division (C)(1) or (2) of this section shall not exceed the rate specified in division (A) of this section. A tax levied pursuant to division (C)(1) or (2) of this section may be levied for any number of years not exceeding twenty.
+
+A board of county commissioners adopting a resolution under this division shall certify a copy of the resolution to the tax commissioner immediately upon adoption of the resolution.
+
+(D) The board of county commissioners of a county whose population is greater than one million one hundred thousand but less than one million three hundred thousand may levy a tax under this division for the purpose of section 307.673 of the Revised Code regardless of whether or not the cooperative agreement authorized under that section has been entered into prior to the day the resolution adopted under division (D) of this section is adopted, for the purpose of reimbursing a county for costs incurred in the construction of a sports facility pursuant to an agreement entered into by the county under section 307.696 of the Revised Code, or for the purpose of paying the costs of constructing, equipping, furnishing, maintaining, renovating, improving, or repairing a sports facility. The tax may be levied for any number of years or for a continuing period of time.
+
+The tax may be levied pursuant to a resolution adopted by the board of county commissioners and approved by a majority of the electors of the county voting on the question of levying the tax. The board of county commissioners shall certify a copy of the resolution to the board of elections immediately upon adopting a resolution under division (D) of this section. The election may be held on the date of a general or special election held not sooner than ninety days after the date the board certifies its resolution to the board of elections. The form of the ballot shall be as follows:
+
+"For the purpose of ______ (state the purpose or purposes), shall an excise tax be levied by __________ county at the rate of ______ mills per cigarette on the sale of cigarettes at wholesale in the county for ____ (number of years or a continuing period of time), the tax beginning on __________ (the earliest date the tax would take effect)?
+
+Yes
+
+No
+
+"
+
+A board of county commissioners submitting the question of a tax under division (D) of this section may submit the question of a tax under section 5743.511 , division (E) of section 307.697 , or division (C) of section 4301.421 of the Revised Code, or all, as a single question, provided that each tax is for the same purpose and period of time and the form of the ballot states the rate of each of the proposed taxes.
+
+If approved by a majority of electors voting on the question, the tax shall take effect on the date specified in the resolution but not sooner than the first day of the month that is at least sixty days after the certification of the election results by the board of elections. The tax levied under division (D) of this section may be approved and take effect before the expiration of the tax levied under division (C) of this section. The tax levied under division (D) of this section shall supersede and replace any tax levied under division (C) of this section, and the tax levied under division (C) of this section shall no longer be levied once the tax levied under division (D) of this section takes effect.
+
+The rate of tax levied pursuant to division (D) shall be imposed at a rate not to exceed four and one-half mills per each cigarette sold for resale at retail in the county. The tax levied pursuant to division (D) of this section shall be in addition to the tax imposed by section 5743.02 of the Revised Code.
+
+Only one sale of the same article shall be used in computing, reporting, and paying the amount of tax due.
+
+A board of county commissioners adopting a resolution under division (D) of this section shall certify a copy of the resolution to the tax commissioner immediately upon adoption of the resolution.
+
+(E) No tax shall be levied under division (A) of this section on or after September 23, 2008. This division does not apply to a tax levied under division (C) or (D) of this section, and does not prevent the collection of any tax levied under this section before September 23, 2008, so long as that tax remains effective.
+
+Last updated July 31, 2025 at 2:54 PM

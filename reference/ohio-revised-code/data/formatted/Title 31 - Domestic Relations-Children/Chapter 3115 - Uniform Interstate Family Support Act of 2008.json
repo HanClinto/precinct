@@ -1,0 +1,477 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 3115.101 - Short title.",
+      "number": "3115.101",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.101"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.102 - Definitions.",
+      "number": "3115.102",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.102"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.103 - State tribunal and support enforcement agencies.",
+      "number": "3115.103",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.103"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.104 - Remedies cumulative.",
+      "number": "3115.104",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.104"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.105 - Application to resident of foreign country and foreign support proceeding.",
+      "number": "3115.105",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.105"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.201 - Bases for jurisdiction over nonresident.",
+      "number": "3115.201",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.201"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.202 - Duration of personal jurisdiction.",
+      "number": "3115.202",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.202"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.203 - Initiating and responding tribunal of state.",
+      "number": "3115.203",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.203"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.204 - Simultaneous proceedings.",
+      "number": "3115.204",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.204"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.205 - Continuing, exclusive jurisdiction to modify child-support order.",
+      "number": "3115.205",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.205"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.206 - Continuing jurisdiction to enforce child-support order.",
+      "number": "3115.206",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.206"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.207 - Determination of controlling child-support order.",
+      "number": "3115.207",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.207"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.208 - Child-support orders for two or more obligees.",
+      "number": "3115.208",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.208"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.209 - Credit for payments.",
+      "number": "3115.209",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.209"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.210 - Application to nonresident subject to personal jurisdiction.",
+      "number": "3115.210",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.210"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.211 - Continuing, exlcusive jurisdiction to modify spousal-support order.",
+      "number": "3115.211",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.211"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.301 - Proceedings under act.",
+      "number": "3115.301",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.301"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.302 - Proceeding by minor parent.",
+      "number": "3115.302",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.302"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.303 - Application of law of state.",
+      "number": "3115.303",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.303"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.304 - Duties of initiating tribunal.",
+      "number": "3115.304",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.304"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.305 - Duties and powers of responding tribunal.",
+      "number": "3115.305",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.305"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.306 - Inappropriate tribunal.",
+      "number": "3115.306",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.306"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.307 - Duties of support enforcement agency.",
+      "number": "3115.307",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.307"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.308 - Duty of department of job and family services.",
+      "number": "3115.308",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.308"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.309 - Private counsel.",
+      "number": "3115.309",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.309"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.310 - Duties of state information agency.",
+      "number": "3115.310",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.310"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.311 - Pleadings and accompanying documents.",
+      "number": "3115.311",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.311"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.312 - Nondisclosure of information in exceptional circumstances.",
+      "number": "3115.312",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.312"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.313 - Costs and fees.",
+      "number": "3115.313",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.313"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.314 - Limited immunity of petitioner.",
+      "number": "3115.314",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.314"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.315 - Nonparentage as a defense.",
+      "number": "3115.315",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.315"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.316 - Special rules of evidence and procedure.",
+      "number": "3115.316",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.316"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.317 - Communications between tribunals.",
+      "number": "3115.317",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.317"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.318 - Assistance with discovery.",
+      "number": "3115.318",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.318"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.319 - Receipt and disbursement of payments.",
+      "number": "3115.319",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.319"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.401 - Establishment of support order.",
+      "number": "3115.401",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.401"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.402 - Proceeding to determine parentage.",
+      "number": "3115.402",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.402"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.501 - Employer's receipt of income-withholding order of another state.",
+      "number": "3115.501",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.501"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.502 - Employer's compliance with income-withholding order of another state.",
+      "number": "3115.502",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.502"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.503 - Employer's compliance with two or more income-withholding orders.",
+      "number": "3115.503",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.503"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.504 - Immunity from civil liability.",
+      "number": "3115.504",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.504"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.505 - Penalties for noncompliance.",
+      "number": "3115.505",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.505"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.506 - Contest by obligor.",
+      "number": "3115.506",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.506"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.507 - Administrative enforcement of orders.",
+      "number": "3115.507",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.507"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.601 - Registration of order of enforcement.",
+      "number": "3115.601",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.601"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.602 - Procedure to register order for enforcement.",
+      "number": "3115.602",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.602"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.603 - Effect of registration for enforcement.",
+      "number": "3115.603",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.603"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.604 - Choice of law.",
+      "number": "3115.604",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.604"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.605 - Notice of registration of order.",
+      "number": "3115.605",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.605"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.606 - Procedure to contest validity or enforcement of registered support order.",
+      "number": "3115.606",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.606"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.607 - Contest of registration or enforcement.",
+      "number": "3115.607",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.607"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.608 - Confirmed order.",
+      "number": "3115.608",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.608"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.609 - Procedure to register child-support order of another state for modification.",
+      "number": "3115.609",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.609"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.610 - Effect of registration or modification.",
+      "number": "3115.610",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.610"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.611 - Modification of child-support order of another state.",
+      "number": "3115.611",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.611"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.612 - Recognition of order modified in another state.",
+      "number": "3115.612",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.612"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.613 - Jurisdiction to modify child-support order of another state when individual parties reside in this state.",
+      "number": "3115.613",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.613"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.614 - Notice to issuing tribunal of modification.",
+      "number": "3115.614",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.614"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.615 - Jurisdiction to modify child-support order of foreign country.",
+      "number": "3115.615",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.615"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.616 - Procedure to register child-support order of foreign country for modification.",
+      "number": "3115.616",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.616"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.701 - Definitions.",
+      "number": "3115.701",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.701"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.702 - Application of convention.",
+      "number": "3115.702",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.702"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.703 - Relationship of department to United States central authority.",
+      "number": "3115.703",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.703"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.704 - Initiation by support agency of support proceeding under convention.",
+      "number": "3115.704",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.704"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.705 - Direct request.",
+      "number": "3115.705",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.705"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.706 - Registration of convention support order.",
+      "number": "3115.706",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.706"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.707 - Contest of registered convention support order.",
+      "number": "3115.707",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.707"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.708 - Recognition and enforcement of registered convention support order.",
+      "number": "3115.708",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.708"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.709 - Partial enforcement.",
+      "number": "3115.709",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.709"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.710 - Foreign support agreement.",
+      "number": "3115.710",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.710"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.711 - Modification of convention child-support order.",
+      "number": "3115.711",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.711"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.712 - Personal information; limit on use.",
+      "number": "3115.712",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.712"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.713 - Record in original language; English translation.",
+      "number": "3115.713",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.713"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.801 - Grounds for rendition.",
+      "number": "3115.801",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.801"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.802 - Conditions of rendition.",
+      "number": "3115.802",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.802"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.901 - Uniformity of application and construction.",
+      "number": "3115.901",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.901"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.902 - Transitional provisions.",
+      "number": "3115.902",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.902"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3115.903 - Severability.",
+      "number": "3115.903",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.903"
+    }
+  ],
+  "scraped": "2026-07-02T19:47:49+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-3115",
+  "title": "Chapter 3115 - Uniform Interstate Family Support Act of 2008"
+}

@@ -1,0 +1,73 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-5743
+Scraped: 2026-07-02T20:15:22+00:00
+
+# Chapter 5743 - Cigarette Tax
+
+## Sections
+
+- Section 5743.01 - Cigarette tax definitions.
+- Section 5743.02 - Excise tax on sale of cigarettes.
+- Section 5743.021 - Regional arts and cultural district cigarette sales tax.
+- Section 5743.024 - County cigarette sales tax - local excise tax administrative fund.
+- Section 5743.025 - Return for county tax.
+- Section 5743.026 - Election on convention facility authority tax.
+- Section 5743.03 - Purchase and use of tax stamps.
+- Section 5743.031 - Affixing of tax stamps - purchase and sale - shipping regulations.
+- Section 5743.04 - Powers and duties of tax commissioner.
+- Section 5743.05 - Sale of stamps; delivery; redemption of stamps.
+- Section 5743.051 - Remitting payment for tax stamps by electronic funds transfer.
+- Section 5743.071 - Wholesale and retail dealers to maintain records.
+- Section 5743.072 - Monthly report by persons shipping cigarettes.
+- Section 5743.08 - Seizure and sale of cigarettes on which no tax has been paid.
+- Section 5743.081 - Assessments for failure to file return.
+- Section 5743.082 - Jeopardy assessments.
+- Section 5743.09 - Issuance of warrant for collection of taxes - preferred claim.
+- Section 5743.10 - Cigarettes in possession must be stamped.
+- Section 5743.11 - Duty to affix stamp.
+- Section 5743.111 - Possessing cigarettes not bearing stamps.
+- Section 5743.112 - Trafficking in cigarettes with intent to avoid payment of tax.
+- Section 5743.12 - Prohibition against making false entries.
+- Section 5743.13 - Prohibition against forging, altering or counterfeiting stamps.
+- Section 5743.14 - Prohibition against hindering inspection.
+- Section 5743.15 - Cigarette license required - application - cigarette tax enforcement fund.
+- Section 5743.16 - Lists of licensees - supplemental lists - index.
+- Section 5743.17 - Revocation of license by court.
+- Section 5743.18 - Revocation of license by tax commissioner.
+- Section 5743.19 - Trafficking in cigarettes without license.
+- Section 5743.20 - Separate place of business - sale and purchase restricted to licensed dealers.
+- Section 5743.21 - Stamp not to affixed to certain packages - seizure and destruction of packages.
+- Section 5743.31 - Cigarette use and storage tax definitions.
+- Section 5743.32 - Excise tax on use, storage or consumption of cigarettes - use of revenue.
+- Section 5743.321 - Regional arts and cultural district cigarette use tax.
+- Section 5743.323 - County tax on use, consumption, or storage for consumption of cigarettes.
+- Section 5743.324 - Resolution for convention facility authority tax.
+- Section 5743.33 - Returns - remittance - consent to transport.
+- Section 5743.34 - Assessment on failure to pay use tax.
+- Section 5743.35 - Failure to make return or pay applicable taxes.
+- Section 5743.41 - Failure to post license or comply with law.
+- Section 5743.42 - Tobacco containing substances deleterious to health.
+- Section 5743.44 - Informant's share of tax or penalty - sales of forfeited cigarettes, tobacco products or vapor products.
+- Section 5743.45 - Tax commissioner may delegate investigation powers.
+- Section 5743.46 - Department of taxation to cooperate with law enforcement agencies.
+- Section 5743.51 - Tax on tobacco and vapor products received by distributor or sold by manufacturer to retail dealer.
+- Section 5743.511 - County tobacco and vapor products tax.
+- Section 5743.52 - Filing monthly return with payment.
+- Section 5743.521 - County tobacco and vapor products floor tax.
+- Section 5743.53 - Refunds - credits.
+- Section 5743.54 - Maintaining records.
+- Section 5743.55 - Tax evasion.
+- Section 5743.56 - Liability for tax.
+- Section 5743.57 - Corporation's liability for tax.
+- Section 5743.58 - Levy against and sale of property of delinquent.
+- Section 5743.59 - Retail dealer - prohibited acts.
+- Section 5743.60 - Distribution of tobacco or vapor products with intent to avoid payment of tax.
+- Section 5743.61 - License required for distribution of tobacco or vapor products - suspension of license.
+- Section 5743.62 - Excise tax on seller of tobacco or vapor products to consumer.
+- Section 5743.621 - County tobacco and vapor products excise tax.
+- Section 5743.63 - Excise tax on storage, use or other consumption of tobacco or vapor products.
+- Section 5743.631 - County tobacco and vapor products use tax.
+- Section 5743.64 - Consent to transport tobacco or vapor products within state required.
+- Section 5743.65 - Failure of seller or consumer to file return or pay tax.
+- Section 5743.66 - Manufacturer or importer of tobacco or vapor products to register with tax commissioner - monthly reports.
+- Section 5743.71 - Consent for consumer shipment of cigarettes not reasonably available.
+- Section 5743.99 - Penalty.

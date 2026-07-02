@@ -1,0 +1,186 @@
+{
+  "glossary": [
+    {
+      "definition": "\"Buyer\" and \"transferee\" mean the applicant for a certificate of title.",
+      "id": "4505.01-buyer",
+      "normalized": "buyer",
+      "scope": "(A) As used in this chapter:",
+      "section": "4505.01",
+      "source_title": "Section 4505.01 - Certificate of motor vehicle title law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4505.01",
+      "term": "Buyer"
+    },
+    {
+      "definition": "\"Buyer\" and \"transferee\" mean the applicant for a certificate of title.",
+      "id": "4505.01-transferee",
+      "normalized": "transferee",
+      "scope": "(A) As used in this chapter:",
+      "section": "4505.01",
+      "source_title": "Section 4505.01 - Certificate of motor vehicle title law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4505.01",
+      "term": "transferee"
+    },
+    {
+      "definition": "\"Certificate of title\" and \"title\" include an electronic certificate of title, unless otherwise specified.",
+      "id": "4505.01-certificate-of-title",
+      "normalized": "certificate of title",
+      "scope": "(A) As used in this chapter:",
+      "section": "4505.01",
+      "source_title": "Section 4505.01 - Certificate of motor vehicle title law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4505.01",
+      "term": "Certificate of title"
+    },
+    {
+      "definition": "\"Certificate of title\" and \"title\" include an electronic certificate of title, unless otherwise specified.",
+      "id": "4505.01-title",
+      "normalized": "title",
+      "scope": "(A) As used in this chapter:",
+      "section": "4505.01",
+      "source_title": "Section 4505.01 - Certificate of motor vehicle title law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4505.01",
+      "term": "title"
+    },
+    {
+      "definition": "\"Electronic certificate of title\" means an electronic record stored in the automated title processing system that establishes ownership of a motor vehicle and any security interests that exist on that motor vehicle.",
+      "id": "4505.01-electronic-certificate-of-title",
+      "normalized": "electronic certificate of title",
+      "scope": "(A) As used in this chapter:",
+      "section": "4505.01",
+      "source_title": "Section 4505.01 - Certificate of motor vehicle title law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4505.01",
+      "term": "Electronic certificate of title"
+    },
+    {
+      "definition": "\"Lien\" includes, unless the context requires a different meaning, a security interest in a motor vehicle.",
+      "id": "4505.01-lien",
+      "normalized": "lien",
+      "scope": "(A) As used in this chapter:",
+      "section": "4505.01",
+      "source_title": "Section 4505.01 - Certificate of motor vehicle title law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4505.01",
+      "term": "Lien"
+    },
+    {
+      "definition": "\"Manufactured home\" has the same meaning as section 3781.06 of the Revised Code.\n\n\"Manufactured housing dealer,\" \"manufactured housing broker,\" and \"manufactured housing salesperson\" have the same meanings as in section 4781.01 of the Revised Code.",
+      "id": "4505.01-manufactured-home",
+      "normalized": "manufactured home",
+      "scope": "(A) As used in this chapter:",
+      "section": "4505.01",
+      "source_title": "Section 4505.01 - Certificate of motor vehicle title law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4505.01",
+      "term": "Manufactured home"
+    },
+    {
+      "definition": "\"Mobile home\" has the same meaning as in section 4501.01 of the Revised Code.",
+      "id": "4505.01-mobile-home",
+      "normalized": "mobile home",
+      "scope": "(A) As used in this chapter:",
+      "section": "4505.01",
+      "source_title": "Section 4505.01 - Certificate of motor vehicle title law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4505.01",
+      "term": "Mobile home"
+    },
+    {
+      "definition": "\"Motor vehicle\" includes manufactured homes, mobile homes, recreational vehicles, and trailers and semitrailers whose weight exceeds four thousand pounds.",
+      "id": "4505.01-motor-vehicle",
+      "normalized": "motor vehicle",
+      "scope": "(A) As used in this chapter:",
+      "section": "4505.01",
+      "source_title": "Section 4505.01 - Certificate of motor vehicle title law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4505.01",
+      "term": "Motor vehicle"
+    },
+    {
+      "definition": "\"Motor vehicle dealer\" and \"dealer\" have the same meaning as in section 4517.01 of the Revised Code and includes manufactured housing dealers.",
+      "id": "4505.01-motor-vehicle-dealer",
+      "normalized": "motor vehicle dealer",
+      "scope": "(A) As used in this chapter:",
+      "section": "4505.01",
+      "source_title": "Section 4505.01 - Certificate of motor vehicle title law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4505.01",
+      "term": "Motor vehicle dealer"
+    },
+    {
+      "definition": "\"Motor vehicle dealer\" and \"dealer\" have the same meaning as in section 4517.01 of the Revised Code and includes manufactured housing dealers.",
+      "id": "4505.01-dealer",
+      "normalized": "dealer",
+      "scope": "(A) As used in this chapter:",
+      "section": "4505.01",
+      "source_title": "Section 4505.01 - Certificate of motor vehicle title law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4505.01",
+      "term": "dealer"
+    },
+    {
+      "definition": "\"Motor vehicle salesperson\" includes manufactured housing salespersons.",
+      "id": "4505.01-motor-vehicle-salesperson",
+      "normalized": "motor vehicle salesperson",
+      "scope": "(A) As used in this chapter:",
+      "section": "4505.01",
+      "source_title": "Section 4505.01 - Certificate of motor vehicle title law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4505.01",
+      "term": "Motor vehicle salesperson"
+    },
+    {
+      "definition": "\"Resident\" means any person who either maintains their principal residence in this state or is determined by the registrar of motor vehicles to be a permanent or temporary resident in accordance with the standards adopted by the registrar under section 4507.01 of the Revised Code.",
+      "id": "4505.01-resident",
+      "normalized": "resident",
+      "scope": "(A) As used in this chapter:",
+      "section": "4505.01",
+      "source_title": "Section 4505.01 - Certificate of motor vehicle title law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4505.01",
+      "term": "Resident"
+    },
+    {
+      "definition": "\"Signature\" includes an electronic signature as defined by section 1306.01 of the Revised Code.\n\n(B) The various certificates, applications, and assignments necessary to provide certificates of title for manufactured homes, mobile homes, recreational vehicles, and trailers and semitrailers whose weight exceeds four thousand pounds, shall be made upon forms prescribed by the registrar of motor vehicles.\n\nLast updated April 12, 2021 at 9:37 AM",
+      "id": "4505.01-signature",
+      "normalized": "signature",
+      "scope": "(A) As used in this chapter:",
+      "section": "4505.01",
+      "source_title": "Section 4505.01 - Certificate of motor vehicle title law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4505.01",
+      "term": "Signature"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3781.06",
+      "number": "3781.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.06"
+    },
+    {
+      "kind": "section",
+      "label": "4781.01",
+      "number": "4781.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4781.01"
+    },
+    {
+      "kind": "section",
+      "label": "4501.01",
+      "number": "4501.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4501.01"
+    },
+    {
+      "kind": "section",
+      "label": "4517.01",
+      "number": "4517.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4517.01"
+    },
+    {
+      "kind": "section",
+      "label": "4507.01",
+      "number": "4507.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4507.01"
+    },
+    {
+      "kind": "section",
+      "label": "1306.01",
+      "number": "1306.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1306.01"
+    }
+  ],
+  "scraped": "2026-07-02T20:05:24+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4505.01",
+  "title": "Section 4505.01 - Certificate of motor vehicle title law definitions."
+}

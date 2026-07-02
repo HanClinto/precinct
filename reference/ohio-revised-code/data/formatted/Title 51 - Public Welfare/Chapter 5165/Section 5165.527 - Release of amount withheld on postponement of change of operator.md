@@ -1,0 +1,12 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5165.527
+Scraped: 2026-07-02T20:11:28+00:00
+
+# Section 5165.527 - Release of amount withheld on postponement of change of operator.
+
+**Effective:** September 29, 2013
+
+**Latest Legislation:** House Bill 59 - 130th General Assembly
+
+The department of medicaid, at its sole discretion, may release the amount withheld under division (A) of section 5165.521 of the Revised Code if the exiting operator submits to the department written notice of a postponement of a change of operator, facility closure, or voluntary withdrawal of participation and the transactions leading to the change of operator, facility closure, or voluntary withdrawal of participation are postponed for at least thirty days but less than ninety days after the date originally proposed for the change of operator, facility closure, or voluntary withdrawal of participation as reported in the written notice required by section 5165.50 or 5165.51 of the Revised Code. The department shall release the amount withheld if the exiting operator submits to the department written notice of a cancellation or postponement of a change of operator, facility closure, or voluntary withdrawal of participation and the transactions leading to the change of operator, facility closure, or voluntary withdrawal of participation are canceled or postponed for more than ninety days after the date originally proposed for the change of operator, facility closure, or voluntary withdrawal of participation as reported in the written notice required by section 5165.50 or 5165.51 of the Revised Code. A written notice shall be provided to the department in accordance with the method specified in rules authorized by section 5165.53 of the Revised Code.
+
+After the department receives a written notice regarding a cancellation or postponement of a facility closure or voluntary withdrawal of participation, the exiting operator or owner shall provide new written notice to the department under section 5165.50 of the Revised Code regarding any transactions leading to a facility closure or voluntary withdrawal of participation at a future time. After the department receives a written notice regarding a cancellation or postponement of a change of operator, the exiting operator or owner and entering operator shall provide new written notice to the department under section 5165.51 of the Revised Code regarding any transactions leading to a change of operator at a future time.

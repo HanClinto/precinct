@@ -1,0 +1,114 @@
+{
+  "glossary": [
+    {
+      "definition": "(A)(1) \"Beneficiary under a trust\" means either of the following:\n\n(a) Any person that has a present or future beneficial interest in a trust, whether vested or contingent;\n\n(b) Any person that, in a capacity other than that of trustee, holds a power of appointment over trust property, but does not include the class of permitted appointees among whom the power holder may appoint.",
+      "id": "5817.01-beneficiary-under-a-trust",
+      "normalized": "beneficiary under a trust",
+      "scope": "As used in this chapter:",
+      "section": "5817.01",
+      "source_title": "Section 5817.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5817.01",
+      "term": "Beneficiary under a trust"
+    },
+    {
+      "definition": "(2) \"Beneficiary under a trust\" includes a charitable organization that is expressly designated in the terms of the trust to receive distributions, but does not include any charitable organization that is not expressly designated in the terms of the trust to receive distributions, but to whom the trustee may in its discretion make distributions.",
+      "id": "5817.01-beneficiary-under-a-trust",
+      "normalized": "beneficiary under a trust",
+      "scope": "As used in this chapter:",
+      "section": "5817.01",
+      "source_title": "Section 5817.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5817.01",
+      "term": "Beneficiary under a trust"
+    },
+    {
+      "definition": "(B)(1) \"Beneficiary under a will\" means either of the following:\n\n(a) Any person designated in a will to receive a testamentary disposition of real or personal property;\n\n(b) Any person that, in a capacity other than that of executor, holds a power of appointment over estate assets, but does not include the class of permitted appointees among whom the power holder may appoint.",
+      "id": "5817.01-beneficiary-under-a-will",
+      "normalized": "beneficiary under a will",
+      "scope": "As used in this chapter:",
+      "section": "5817.01",
+      "source_title": "Section 5817.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5817.01",
+      "term": "Beneficiary under a will"
+    },
+    {
+      "definition": "(2) \"Beneficiary under a will\" includes a charitable organization that is expressly designated in the terms of the will to receive testamentary distributions, but does not include any charitable organization that is not expressly designated in the terms of the will to receive distributions, but to whom the executor may in its discretion make distributions.",
+      "id": "5817.01-beneficiary-under-a-will",
+      "normalized": "beneficiary under a will",
+      "scope": "As used in this chapter:",
+      "section": "5817.01",
+      "source_title": "Section 5817.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5817.01",
+      "term": "Beneficiary under a will"
+    },
+    {
+      "definition": "(C) \"Court\" means the probate court of the county in which the complaint under section 5817.02 or 5817.03 of the Revised Code is filed or the general division of the court of common pleas to which the probate court transfers the proceeding under division (A) of section 5817.04 of the Revised Code.",
+      "id": "5817.01-court",
+      "normalized": "court",
+      "scope": "As used in this chapter:",
+      "section": "5817.01",
+      "source_title": "Section 5817.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5817.01",
+      "term": "Court"
+    },
+    {
+      "definition": "(D) \"Related trust\" means a trust for which both of the following apply:\n\n(1) The testator is the settlor of the trust.\n\n(2) The trust is named as a beneficiary in the will in accordance with section 2107.63 of the Revised Code.",
+      "id": "5817.01-related-trust",
+      "normalized": "related trust",
+      "scope": "As used in this chapter:",
+      "section": "5817.01",
+      "source_title": "Section 5817.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5817.01",
+      "term": "Related trust"
+    },
+    {
+      "definition": "(E) \"Related will\" means a will for which both of the following apply:\n\n(1) The testator is the settlor of a trust.\n\n(2) The will names the trust as a beneficiary in accordance with section 2107.63 of the Revised Code.",
+      "id": "5817.01-related-will",
+      "normalized": "related will",
+      "scope": "As used in this chapter:",
+      "section": "5817.01",
+      "source_title": "Section 5817.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5817.01",
+      "term": "Related will"
+    },
+    {
+      "definition": "(F) \"Trust\" means an inter vivos revocable or irrevocable trust instrument to which, at the time the complaint for declaration of validity is filed under section 5817.03 of the Revised Code, either of the following applies:\n\n(1) The settlor resides in, or is domiciled in, this state.\n\n(2) The trust's principal place of administration is in this state.",
+      "id": "5817.01-trust",
+      "normalized": "trust",
+      "scope": "As used in this chapter:",
+      "section": "5817.01",
+      "source_title": "Section 5817.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5817.01",
+      "term": "Trust"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "5817.02",
+      "number": "5817.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5817.02"
+    },
+    {
+      "kind": "section",
+      "label": "5817.03",
+      "number": "5817.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5817.03"
+    },
+    {
+      "kind": "section",
+      "label": "5817.04",
+      "number": "5817.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5817.04"
+    },
+    {
+      "kind": "section",
+      "label": "2107.63",
+      "number": "2107.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2107.63"
+    }
+  ],
+  "scraped": "2026-07-02T20:16:21+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5817.01",
+  "title": "Section 5817.01 - Definitions."
+}

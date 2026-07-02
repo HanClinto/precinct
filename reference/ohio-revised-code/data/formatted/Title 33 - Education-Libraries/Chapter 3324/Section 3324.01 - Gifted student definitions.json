@@ -1,0 +1,68 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Approved\" means approved by the department of education and workforce and included on the list compiled by the department under section 3324.02 of the Revised Code.",
+      "id": "3324.01-approved",
+      "normalized": "approved",
+      "scope": "As used in this section and sections 3324.02 through 3324.06 of the Revised Code:",
+      "section": "3324.01",
+      "source_title": "Section 3324.01 - Gifted student definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3324.01",
+      "term": "Approved"
+    },
+    {
+      "definition": "(B) \"Gifted\" means students who perform or show potential for performing at remarkably high levels of accomplishment when compared to others of their age, experience, or environment and who are identified under division (A), (B), (C), or (D) of section 3324.03 of the Revised Code.",
+      "id": "3324.01-gifted",
+      "normalized": "gifted",
+      "scope": "As used in this section and sections 3324.02 through 3324.06 of the Revised Code:",
+      "section": "3324.01",
+      "source_title": "Section 3324.01 - Gifted student definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3324.01",
+      "term": "Gifted"
+    },
+    {
+      "definition": "(C) \"School district\" does not include a joint vocational school district.",
+      "id": "3324.01-school-district",
+      "normalized": "school district",
+      "scope": "As used in this section and sections 3324.02 through 3324.06 of the Revised Code:",
+      "section": "3324.01",
+      "source_title": "Section 3324.01 - Gifted student definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3324.01",
+      "term": "School district"
+    },
+    {
+      "definition": "(D) \"Specific academic ability field\" means one or more of the following areas of instruction:\n\n(1) Mathematics;\n\n(2) Science;\n\n(3) Reading, writing, or a combination of these skills;\n\n(4) Social studies.\n\nLast updated August 25, 2023 at 11:43 AM",
+      "id": "3324.01-specific-academic-ability-field",
+      "normalized": "specific academic ability field",
+      "scope": "As used in this section and sections 3324.02 through 3324.06 of the Revised Code:",
+      "section": "3324.01",
+      "source_title": "Section 3324.01 - Gifted student definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3324.01",
+      "term": "Specific academic ability field"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3324.02",
+      "number": "3324.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3324.02"
+    },
+    {
+      "kind": "section",
+      "label": "3324.06",
+      "number": "3324.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3324.06"
+    },
+    {
+      "kind": "section",
+      "label": "3324.03",
+      "number": "3324.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3324.03"
+    }
+  ],
+  "scraped": "2026-07-02T19:49:07+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3324.01",
+  "title": "Section 3324.01 - Gifted student definitions."
+}

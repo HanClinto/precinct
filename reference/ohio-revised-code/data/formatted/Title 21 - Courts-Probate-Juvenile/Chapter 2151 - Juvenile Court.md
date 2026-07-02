@@ -1,0 +1,213 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-2151
+Scraped: 2026-07-02T19:41:58+00:00
+
+# Chapter 2151 - Juvenile Court
+
+## Sections
+
+- Section 2151.01 - Liberal interpretation and construction.
+- Section 2151.011 - Juvenile court definitions.
+- Section 2151.022 - Unruly child defined.
+- Section 2151.03 - Neglected child defined - failure to provide medical or surgical care for religious reasons.
+- Section 2151.031 - Abused child defined.
+- Section 2151.04 - Dependent child defined.
+- Section 2151.05 - Child without proper parental care.
+- Section 2151.06 - Residence or legal settlement.
+- Section 2151.07 - Powers and jurisdiction of juvenile court.
+- Section 2151.08 - Juvenile court in Hamilton county.
+- Section 2151.09 - Separate building and site may be purchased or leased.
+- Section 2151.10 - County appropriations for expenses of court.
+- Section 2151.12 - Clerk - bond - judge as clerk.
+- Section 2151.13 - Employees - compensation - bond.
+- Section 2151.14 - Duties and powers of probation department - records - command assistance.
+- Section 2151.141 - Written request for records relating to alleged abused, neglected or dependent child.
+- Section 2151.142 - Residential addresses of personnel of public children services agency or a private child placing agency to be confidential information.
+- Section 2151.15 - Powers and duties vested in county department of probation.
+- Section 2151.151 - Contract for supervisory and other services for children on probation.
+- Section 2151.152 - Reimbursement of court from department of children and youth.
+- Section 2151.16 - Referees - powers and duties.
+- Section 2151.17 - Rules of juvenile court.
+- Section 2151.18 - Court records - annual report - copies for distribution.
+- Section 2151.19 - Summons - expense.
+- Section 2151.20 - Seal of court - dimensions.
+- Section 2151.21 - Jurisdiction in contempt.
+- Section 2151.211 - Employer may not penalize employee for being subpoenaed before juvenile court.
+- Section 2151.22 - Terms of court - sessions.
+- Section 2151.23 - Jurisdiction of juvenile court.
+- Section 2151.231 - Order requiring support of child without regard to marital status of child's parents.
+- Section 2151.232 - Order requiring support of child where acknowledgment of parentage is not yet final.
+- Section 2151.233 - Jurisdiction of juvenile court.
+- Section 2151.234 - Construction of R.C. 2151.233.
+- Section 2151.235 - Transfer of jurisdiction.
+- Section 2151.236 - Orders affecting child subject to support order by common pleas court.
+- Section 2151.24 - Separate room for hearings.
+- Section 2151.25 - Court order to interview and examine a child.
+- Section 2151.26 - Complaint regarding drug use by expectant mother.
+- Section 2151.27 - Complaint involving child.
+- Section 2151.271 - Transfer to juvenile court of child's residence.
+- Section 2151.272 - Release or transfer of records for child who is alleged or adjudicated an abused, neglected, or dependent child.
+- Section 2151.28 - Adjudicatory hearing - determining shelter care placement.
+- Section 2151.281 - Guardian ad litem.
+- Section 2151.29 - Service of summons, notices, and subpoenas - publication of summons.
+- Section 2151.30 - Issuance of warrant.
+- Section 2151.31 - Taking child into custody.
+- Section 2151.311 - Procedure upon taking child into custody.
+- Section 2151.312 - Facilities for holding unruly, neglected, abused or dependent child.
+- Section 2151.313 - Fingerprints, photographs require consent of juvenile judge.
+- Section 2151.314 - Hearing on detention or shelter care.
+- Section 2151.315 - Participation in extracurricular, enrichment, and social activities.
+- Section 2151.316 - Foster youth bill of rights.
+- Section 2151.32 - Selection of custodian.
+- Section 2151.33 - Temporary care - emergency medical treatment - reimbursement.
+- Section 2151.331 - Options for placement of alleged or adjudicated abused, neglected, dependent or unruly child.
+- Section 2151.34 - Protection order against a minor.
+- Section 2151.35 - Procedure for hearings in juvenile court.
+- Section 2151.352 - Right to counsel.
+- Section 2151.353 - Orders of disposition of abused, neglected or dependent child.
+- Section 2151.354 - Orders of disposition of unruly child.
+- Section 2151.355 - Sealing of juvenile court records - definitions.
+- Section 2151.356 - Sealing of juvenile court records.
+- Section 2151.357 - Response respecting sealed records - index - limited inspection.
+- Section 2151.358 - Expungement of sealed records.
+- Section 2151.359 - Order restraining or controlling conduct of parent, guardian, or custodian.
+- Section 2151.3510 - Notice to public children services agency of intended commitment order.
+- Section 2151.3514 - Order requiring parent or other caregiver to submit to assessment and treatment from alcohol and drug addiction program.
+- Section 2151.3515 - Desertion of child definitions.
+- Section 2151.3516 - Delivery of child by parent to persons authorized to take possession of deserted child.
+- Section 2151.3517 - Parties taking possession of deserted child.
+- Section 2151.3518 - Duties upon taking possession of deserted child.
+- Section 2151.3519 - Duties of public children services agency upon receiving notice of deserted child.
+- Section 2151.3521 - [Former R.C. 2151.3519, amended and renumbered by S.B. 332, 131st General Assembly, effective 4/6/2017] Emergency hearing to determine whether child is deserted child.
+- Section 2151.3522 - [Former R.C. 2151.3520, renumbered by S.B 332, 131st General Assembly, effective 4/6/2017] Order committing child to temporary custody.
+- Section 2151.3523 - [Former R.C. 2151.3521, amended and renumbered by S.B. 332, 131st General Assembly, effective 4/6/2017] Court to treat deserted child as neglected child.
+- Section 2151.3524 - [Former R.C. 2151.3522, renumbered by S.B. 332, 131st General Assembly, effective 4/6/2017] Agency granted temporary custody to treat deserted child as neglected child.
+- Section 2151.3525 - [Former R.C. 2151.3523, amended and renumbered by S.B. 332, 131st General Assembly, effective 4/6/2017] Immunity of parent and of person or entity taking possession of deserted child.
+- Section 2151.3526 - [Former R.C. 2151.3524, amended and renumbered by S.B. 332, 131st General Assembly, effective 4/6/2017] Parent's absolute right to anonymity.
+- Section 2151.3527 - Medical information forms.
+- Section 2151.3528 - Parent completion of medical information forms.
+- Section 2151.3530 - [Former R.C. 2151.3527, amended and renumbered by S.B. 332, 131st General Assembly, effective 4/6/2017] Activities prohibited to person taking possession of deserted child.
+- Section 2151.3531 - [Former R.C. 2151.3528, renumbered by S.B. 332, 131st General Assembly, effective 4/6/2017] DNA testing of person seeking reunification with deserted child.
+- Section 2151.3532 - Rules governing newborn safety incubators.
+- Section 2151.3533 - Supervision of newborn safety incubators.
+- Section 2151.36 - Support of child.
+- Section 2151.361 - Order requiring parents to pay support where adopted child is placed into temporary custody or committed.
+- Section 2151.362 - Determining school district to bear cost of educating child - change of residence.
+- Section 2151.37 - Institution receiving children required to make report.
+- Section 2151.38 - Duration of dispositional order.
+- Section 2151.39 - Placement of children from other states.
+- Section 2151.40 - Cooperation with court.
+- Section 2151.411 - Placing siblings together.
+- Section 2151.412 - Case plans.
+- Section 2151.413 - Motion requesting permanent custody.
+- Section 2151.414 - Hearing on motion requesting permanent custody.
+- Section 2151.415 - Motion for order of disposition upon termination of temporary custody order.
+- Section 2151.416 - Semiannual administrative review of case plans.
+- Section 2151.417 - Review of child's placement, custody arrangement or case plan.
+- Section 2151.419 - Court's determination as to whether agency made reasonable efforts to prevent removal or to return child safely home.
+- Section 2151.4115 - Definitions regarding locating and engaging kinship caregiver.
+- Section 2151.4116 - Intensive efforts required for locating and engaging kinship caregiver.
+- Section 2151.4117 - Court review of intensive efforts.
+- Section 2151.4118 - Court determination intensive efforts not required.
+- Section 2151.4119 - Findings supporting court determination.
+- Section 2151.4120 - Current caregiver equal to kin regarding permanency.
+- Section 2151.4121 - Disqualifying kin unwilling or not interested in providing permanency.
+- Section 2151.4122 - Continued search to locate and engage kinship caregiver permitted.
+- Section 2151.42 - Best interests of child - order granting legal custody.
+- Section 2151.421 - Reporting child abuse or neglect.
+- Section 2151.422 - Child living in domestic violence or homeless shelter.
+- Section 2151.423 - Disclosure of confidential information to protect children.
+- Section 2151.424 - Notice and opportunity to present evidence to foster caregiver, relative, or prospective adoptive parent.
+- Section 2151.425 - Children's advocacy center - definitions.
+- Section 2151.426 - Children's advocacy center - memorandum of understanding.
+- Section 2151.427 - Children's advocacy center - multidisciplinary team.
+- Section 2151.428 - Children's advocacy center - interagency agreement.
+- Section 2151.429 - Traditional and alternative response pathways.
+- Section 2151.4210 - Child abuse or neglect investigation relating to armed forces.
+- Section 2151.4220 - [Recodified from R.C. 2151.4210] Memorandum of understanding required; signatories.
+- Section 2151.4221 - [Recodified from R.C. 2151.4211] Memorandum of understanding purpose, content.
+- Section 2151.4222 - [Recodified from R.C. 2151.4212] Memorandum of understanding biennial review and update.
+- Section 2151.4223 - [Recodified from R.C. 2151.4213] Consequences limited for failure to follow memorandum of understanding.
+- Section 2151.4225 - [Recodified from R.C. 2151.4215] Memorandum of understanding biennial review, approval by county commissioners.
+- Section 2151.4226 - [Recodified from R.C. 2151.4216] Deadline for biennial review and resolution.
+- Section 2151.4228 - Model memorandum of understanding.
+- Section 2151.4229 - [Recodified from R.C. 2151.4219] Memorandum of understanding audit.
+- Section 2151.4230 - [Recodified from R.C. 2151.4220] Compliance determination.
+- Section 2151.4231 - [Recodified from R.C. 2151.4221] Compliance assurance plan.
+- Section 2151.4232 - [Recodified from R.C. 2151.4222] Memorandum of understanding effective when determined compliant.
+- Section 2151.4233 - [Recodified from R.C. 2151.4223] Compliant, noncompliant counties on department of job and family services website.
+- Section 2151.4234 - [Recodified from R.C. 2151.4224] Memorandum of understanding publication on county website.
+- Section 2151.43 - Charges against adults; defendant bound over to grand jury.
+- Section 2151.44 - Complaint after hearing.
+- Section 2151.45 - Emancipated young adult and representative defined.
+- Section 2151.451 - Jurisdiction over emancipated young adult.
+- Section 2151.452 - Duties of juvenile court.
+- Section 2151.453 - Suspension of payments for foster care.
+- Section 2151.454 - Supporting documents for court determination.
+- Section 2151.455 - Representation.
+- Section 2151.46 - Foster children in residential facilities - definitions.
+- Section 2151.461 - Hospital visit - notification and response.
+- Section 2151.462 - Hospital visit - report.
+- Section 2151.463 - Law enforcement interaction - notification to residential facility and agency.
+- Section 2151.464 - Law enforcement interaction with police report - notification to DCY.
+- Section 2151.465 - Rules.
+- Section 2151.466 - Delinquent child charges - notification.
+- Section 2151.467 - Monthly agency visit to residential facility.
+- Section 2151.468 - Mandatory review of child's placement.
+- Section 2151.469 - Agency 24-hour emergency on-call procedure.
+- Section 2151.4610 - Community organization services - notification.
+- Section 2151.49 - Suspension of sentence.
+- Section 2151.50 - Forfeiture of bond.
+- Section 2151.52 - Appeals on questions of law.
+- Section 2151.53 - Physical and mental examinations - records of examination - expenses.
+- Section 2151.54 - Fees and costs.
+- Section 2151.541 - Computerizing court of paying cost of computerized legal research.
+- Section 2151.542 - Cancellation of uncollectible debts.
+- Section 2151.55 - Communicating intended placement to foster caregiver in another county and school district.
+- Section 2151.551 - Contents of communication to foster caregiver in another county and school district.
+- Section 2151.552 - Written information to foster caregiver in another county and school district.
+- Section 2151.553 - School district procedure for receiving information.
+- Section 2151.554 - Information to juvenile court in county other than county of residence.
+- Section 2151.56 - Interstate compact for juveniles.
+- Section 2151.57 - Definitions for R.C. sections 2151.57 to 2151.59.
+- Section 2151.58 - Appointment of compact administrator.
+- Section 2151.59 - Administration by department of youth services.
+- Section 2151.65 - Single-county and joint-county juvenile facilities for training, treatment, and rehabilitation.
+- Section 2151.651 - Application for state assistance for juvenile facilities.
+- Section 2151.653 - Program of education for youths admitted to school, forestry camp, or other facility.
+- Section 2151.654 - Agreement other county.
+- Section 2151.655 - Issuing general obligation securities - joint district financing agreements.
+- Section 2151.66 - Assessment of taxes for expense.
+- Section 2151.67 - Receipt and use of gifts and bequests.
+- Section 2151.68 - Appointment of district boards of trustees by joint board of county commissioners.
+- Section 2151.69 - Organization of district board of trustees.
+- Section 2151.70 - Superintendent and other personnel.
+- Section 2151.71 - Operation of district facilities same as county facilities.
+- Section 2151.72 - Site selection.
+- Section 2151.73 - Apportioned representation on board of trustees.
+- Section 2151.74 - Removing a trustee.
+- Section 2151.75 - Delegation of powers and duties to board of trustees.
+- Section 2151.76 - Joint board of county commissioners has authority for choice, construction and furnishing of facility.
+- Section 2151.77 - Expenses paid by each county.
+- Section 2151.78 - County withdrawing from district.
+- Section 2151.79 - Fiscal officer of district.
+- Section 2151.80 - Expenses of board members.
+- Section 2151.81 - Independent living services definitions.
+- Section 2151.82 - Services to be based on evaluation of strengths and weaknesses of child.
+- Section 2151.83 - Jointly prepared written agreement with young adult to provide independent living services.
+- Section 2151.84 - Department of children and youth to establish model agreements.
+- Section 2151.85 - Unmarried, unemancipated minor may seek abortion without notice to parent, guardian or custodian.
+- Section 2151.86 - Criminal records check.
+- Section 2151.87 - Prohibiting child from possessing, using, purchasing or receiving tobacco products.
+- Section 2151.88 - Immunity from liability for damage resulting from forcible entry of a motor vehicle for purpose of removing a minor.
+- Section 2151.90 - Definitions for R.C. 2151.90 to 2151.9011.
+- Section 2151.901 - Alteration by court of host family agreement.
+- Section 2151.902 - Hosting may not be basis of complaint by agency.
+- Section 2151.903 - Presumption; rebuttal.
+- Section 2151.904 - Information provided to qualified organization.
+- Section 2151.906 - Felony conviction.
+- Section 2151.907 - Confidentiality of records check.
+- Section 2151.908 - Policies and procedures for employees.
+- Section 2151.909 - Policies and procedures for host families; Training.
+- Section 2151.9010 - Host family not subject to certification or supervision.
+- Section 2151.9011 - Duty to report actual or threatened harm.
+- Section 2151.99 - Penalty.

@@ -1,0 +1,441 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 3317.01 - School foundation program; eligibility; administration of funds.",
+      "number": "3317.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.011 - City, local, and exempted village school district base cost.",
+      "number": "3317.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.011"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.012 - Joint vocational school district base cost.",
+      "number": "3317.012",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.012"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.013 - Special education program multiples.",
+      "number": "3317.013",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.013"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.014 - Career-tech education program funding.",
+      "number": "3317.014",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.014"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.015 - Certification of additional information.",
+      "number": "3317.015",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.015"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.016 - Amounts for English learners.",
+      "number": "3317.016",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.016"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.017 - City, local, and exempted village school district per-pupil local capacity amount.",
+      "number": "3317.017",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.017"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.018 - Statewide average base cost per pupil.",
+      "number": "3317.018",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.018"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.019 - Temporary transitional aid.",
+      "number": "3317.019",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.019"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.0110 - Community and STEM school base cost.",
+      "number": "3317.0110",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.0110"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.02 - Definitions.",
+      "number": "3317.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.021 - Tax commissioner information for school funding computations.",
+      "number": "3317.021",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.021"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.022 - Formulas for state operating funds to school districts, schools, and scholarships.",
+      "number": "3317.022",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.022"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.023 - Adjustments to amount paid to district.",
+      "number": "3317.023",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.023"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.024 - Amounts paid to school districts and schools for certain purposes.",
+      "number": "3317.024",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.024"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.025 - Recomputation excluding certain property where value is disputed.",
+      "number": "3317.025",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.025"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.026 - Community or STEM school unit payment amount.",
+      "number": "3317.026",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.026"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.028 - Recomputing where change in taxable value.",
+      "number": "3317.028",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.028"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.0210 - Adjusting for taxes uncollectable due to bankruptcy.",
+      "number": "3317.0210",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.0210"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.0211 - Adjusting for uncollected port authority taxes.",
+      "number": "3317.0211",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.0211"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.0212 - Transportation payment.",
+      "number": "3317.0212",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.0212"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.0213 - Additional state aid for preschool special education children.",
+      "number": "3317.0213",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.0213"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.0214 - Additional state aid to school districts for students in categories two through six special education ADM.",
+      "number": "3317.0214",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.0214"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.0215 - Catastrophic cost pool.",
+      "number": "3317.0215",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.0215"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.0217 - Targeted assistance funding.",
+      "number": "3317.0217",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.0217"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.03 - Report of average daily membership figures and additional data.",
+      "number": "3317.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.031 - Membership record for each pupil - mandatory compliance.",
+      "number": "3317.031",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.031"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.032 - Membership record of preschool children with disabilities.",
+      "number": "3317.032",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.032"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.033 - Joint vocational district to maintain record of persons not eligible for inclusion in average daily membership.",
+      "number": "3317.033",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.033"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.034 - Enrollment status.",
+      "number": "3317.034",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.034"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.035 - Annual audits of certified membership - other information.",
+      "number": "3317.035",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.035"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.037 - Attendance records for career-technical planning district.",
+      "number": "3317.037",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.037"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.05 - Calculating payments of approved career-technical education units.",
+      "number": "3317.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.051 - Calculation of gifted funding units.",
+      "number": "3317.051",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.051"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.06 - Providing materials to nonpublic schools.",
+      "number": "3317.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.061 - Annual report on teaching staff.",
+      "number": "3317.061",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.061"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.062 - Use of appropriations to chartered nonpublic schools for auxiliary services.",
+      "number": "3317.062",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.062"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.063 - Reimbursing nonpublic school for mandated service costs.",
+      "number": "3317.063",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.063"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.064 - Auxiliary services mobile unit replacement and repair fund.",
+      "number": "3317.064",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.064"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.07 - Reassignment of school buses.",
+      "number": "3317.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.072 - Transportation collaboration grants.",
+      "number": "3317.072",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.072"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.08 - Tuition for nonresident pupils.",
+      "number": "3317.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.081 - Computing tuition.",
+      "number": "3317.081",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.081"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.082 - Tuition for children in care of department of youth services.",
+      "number": "3317.082",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.082"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.09 - State and federal moneys to account for and coded - annual statistical report.",
+      "number": "3317.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.10 - Certifying number of Ohio works first children in district.",
+      "number": "3317.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.11 - Educational service center funding.",
+      "number": "3317.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.12 - Salary schedule and list of job classifications for nonteaching school employees.",
+      "number": "3317.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.13 - Minimum salary schedule for teachers.",
+      "number": "3317.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.14 - Boards to annually adopt teachers' salary schedule.",
+      "number": "3317.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.141 - Recipients of race to the top program grants.",
+      "number": "3317.141",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.141"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.15 - Children with disabilities; speech-language pathology and psychological services.",
+      "number": "3317.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.16 - Computation and distribution of state core foundation funding to joint vocational school districts.",
+      "number": "3317.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.161 - Approval of career-technical education programs.",
+      "number": "3317.161",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.161"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.162 - Temporary transitional aid for joint vocational school districts.",
+      "number": "3317.162",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.162"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.163 - Career-technical education ADM calculation for students in credential-only programs.",
+      "number": "3317.163",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.163"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.164 - [Enacted as R.C. 3317.162 by S.B. 166, 134th General Assembly and recodified as R.C. 3317.164 pursuant to R.C. 103.131] Business work-based learning financial incentives.",
+      "number": "3317.164",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.164"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.165 - Joint vocational school district state share percentage calculation.",
+      "number": "3317.165",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.165"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.18 - Withholding payments in order to pay debt charges on securities.",
+      "number": "3317.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.19 - Computation and distribution of payments to cooperative education school districts.",
+      "number": "3317.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.20 - Calculation of payment to county DD board.",
+      "number": "3317.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.201 - Payment to institutions providing special education services.",
+      "number": "3317.201",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.201"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.22 - Additional funding for dropout prevention and recovery e-schools.",
+      "number": "3317.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.25 - Disadvantaged pupil impact aid spending.",
+      "number": "3317.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.26 - Student wellness and success funds.",
+      "number": "3317.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.27 - Quality community school support program.",
+      "number": "3317.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.28 - Quality community school designation criteria.",
+      "number": "3317.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.29 - Quality independent STEM school support program.",
+      "number": "3317.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.30 - Payment for services for child in juvenile facility.",
+      "number": "3317.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.31 - Community and STEM school facilities payments.",
+      "number": "3317.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3317.40 - Accountability for funding.",
+      "number": "3317.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.40"
+    }
+  ],
+  "scraped": "2026-07-02T19:48:49+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-3317",
+  "title": "Chapter 3317 - Foundation Program"
+}

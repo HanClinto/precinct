@@ -1,0 +1,375 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 709.01 - Annexation and detachment of territory.",
+      "number": "709.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.011 - Clerk to notify board of elections of vacancies in office and change in municipal boundaries.",
+      "number": "709.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.011"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.012 - Reduction in firefighting force resulting from annexation of township territory.",
+      "number": "709.012",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.012"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.013 - Multiple annexation petitions concerning same territory.",
+      "number": "709.013",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.013"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.014 - Fee schedule for annexation costs.",
+      "number": "709.014",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.014"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.015 - Substantial compliance with procedural requirements is sufficient to grant jurisdiction.",
+      "number": "709.015",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.015"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.02 - Petition for annexation by owners of contiguous real estate.",
+      "number": "709.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.021 - Special procedure where owners unanimously request annexation.",
+      "number": "709.021",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.021"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.022 - Petition where owners unanimously request annexation.",
+      "number": "709.022",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.022"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.023 - Special annexation procedure where land is not excluded from township.",
+      "number": "709.023",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.023"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.024 - Special annexation procedure for purpose of undertaking significant economic development project.",
+      "number": "709.024",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.024"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.03 - Petition presented to board of county commissioners - proceedings.",
+      "number": "709.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.031 - Report on accuracy of legal description - verification of signatures.",
+      "number": "709.031",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.031"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.032 - Annexation hearing.",
+      "number": "709.032",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.032"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.033 - Commissioners' resolution granting or denying annexation.",
+      "number": "709.033",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.033"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.04 - Accepting or rejecting annexation by ordinance or resolution.",
+      "number": "709.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.05 - Proceedings when municipality rejects.",
+      "number": "709.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.06 - Proceedings when municipality accepts.",
+      "number": "709.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.07 - Appeal from resolution granting or denying petition.",
+      "number": "709.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.10 - Effective date of annexation and rights of inhabitants.",
+      "number": "709.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.11 - Territory situated in more than one county.",
+      "number": "709.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.12 - Apportioning of indebtedness of annexed territory - division of funds.",
+      "number": "709.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.13 - Annexation of territory upon action by inhabitants generally.",
+      "number": "709.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.14 - Preliminary action by legislative authority.",
+      "number": "709.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.15 - Petition to board of county commissioners.",
+      "number": "709.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.16 - Petition by municipal corporation for annexation.",
+      "number": "709.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.19 - Compensating township for lost tax revenue.",
+      "number": "709.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.191 - Annual payments to compensate for lost tax revenue.",
+      "number": "709.191",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.191"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.192 - Annexation agreements.",
+      "number": "709.192",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.192"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.20 - Rights when annexation complete.",
+      "number": "709.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.21 - Errors not fatal to proceedings.",
+      "number": "709.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.22 - Annexation of territory of one municipal corporation to a contiguous municipal corporation.",
+      "number": "709.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.23 - Arrangement of conditions of annexation.",
+      "number": "709.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.24 - Petition for annexation - appointment of commission.",
+      "number": "709.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.25 - Ordinance or petition - procedure.",
+      "number": "709.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.26 - Designation of commissioners for negotiation.",
+      "number": "709.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.27 - Procedure on failure of legislative authority to designate commissioners.",
+      "number": "709.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.28 - Conditions of annexation.",
+      "number": "709.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.29 - Submission of question of annexation to a vote - procedure.",
+      "number": "709.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.30 - Assent to annexation - election.",
+      "number": "709.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.31 - Election results certified.",
+      "number": "709.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.32 - Clerk of municipal corporation to certify transcripts.",
+      "number": "709.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.33 - Effective date of annexation.",
+      "number": "709.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.34 - Government of the municipal corporations.",
+      "number": "709.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.37 - Adjustment of boundaries of adjoining municipal corporations by mutual consent.",
+      "number": "709.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.38 - Petition for detachment of lands and attachment to contiguous township - may form new township.",
+      "number": "709.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.39 - Petition to submit question of detachment of territory - election.",
+      "number": "709.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.40 - Apportionment of property, funds, and indebtedness.",
+      "number": "709.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.41 - Petition for detachment of farm land.",
+      "number": "709.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.42 - Hearing - decision.",
+      "number": "709.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.43 - Merger defined.",
+      "number": "709.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.44 - Territory that may be merged.",
+      "number": "709.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.45 - Petition for merger.",
+      "number": "709.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.451 - Merger in lieu of petition.",
+      "number": "709.451",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.451"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.452 - Submission of question of merger to voters.",
+      "number": "709.452",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.452"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.46 - Disapproval or approval of merger.",
+      "number": "709.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.461 - Collaborative formulation of merger conditions - unincorporated areas.",
+      "number": "709.461",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.461"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.462 - Vote on merger conditions - agreement by majority of subdivision members - term of commission.",
+      "number": "709.462",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.462"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.47 - Procedure after disapproval or approval.",
+      "number": "709.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.48 - No petitions for annexation after merger defeated.",
+      "number": "709.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 709.50 - Removal of area.",
+      "number": "709.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-709.50"
+    }
+  ],
+  "scraped": "2026-07-02T19:33:21+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-709",
+  "title": "Chapter 709 - Annexation; Detachment"
+}

@@ -1,0 +1,30 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4513.67
+Scraped: 2026-07-02T20:05:41+00:00
+
+# Section 4513.67 - Operation of towing service.
+
+**Effective:** April 6, 2017
+
+**Latest Legislation:** House Bill 341 - 131st General Assembly
+
+(A) As used in this section, "towing service" means any for-hire motor carrier that is engaged on an intrastate basis anywhere in this state in the business of towing a motor vehicle over any public highway in this state.
+
+(B) No towing service shall permit the operation of a towing vehicle on behalf of the towing service, unless both of the following apply:
+
+(1) The towing service holds a valid certificate of public convenience and necessity as required by Chapter 4921. of the Revised Code; and
+
+(2) The certificate number and business telephone number is visibly displayed on both the left and right sides of the towing vehicle.
+
+(C)(1) No towing service shall do either of the following:
+
+(a) Fail to make its current certificate of public convenience and necessity available for public inspection during normal business hours;
+
+(b) Fail to include its certificate number on all written estimates, contracts, invoices, and, subject to division (C)(2) of this section, advertising.
+
+(2) The public utilities commission, by rule, may exempt from the requirements of division (C)(1) of this section any type of advertising where the size or nature of the advertisement makes it unreasonable to add a certificate number.
+
+(D)(1) Except as provided in division (D)(2) of this section, whoever violates division (B)(1) of this section is guilty of a minor misdemeanor. A towing service that is issued a citation for a violation of division (B)(1) of this section is not permitted to enter a written plea of guilty and waive the right to contest the citation in a trial but instead must designate an agent to appear in person in the proper court to answer the charge. If the towing service is convicted of or pleads guilty to the offense, the court shall notify the towing service that a subsequent offense will result in the seizure and impoundment of any tow truck that is used to tow vehicles on behalf of the towing service until the towing service obtains a certificate of public convenience and necessity.
+
+(2) If a towing service previously has been convicted of or pleaded guilty to a violation of division (B)(1) of this section, a violation of division (B)(1) of this section is a misdemeanor and, notwithstanding sections 2929.24 to 2929.28 of the Revised Code, the court shall impose upon the towing service a fine of five hundred dollars. The court shall require the towing service to disclose the license plate number of every vehicle used to tow vehicles on behalf of the towing service and the court shall order an appropriate law enforcement agency to seize and impound all such vehicles. Upon presentation of a certificate of public convenience and necessity for the towing service, the court shall terminate the order and the law enforcement agency in possession of the vehicles shall release the vehicles.
+
+(3) The offense established under division (B)(1) of this section is a strict liability offense and strict liability is a culpable mental state for purposes of section 2901.20 of the Revised Code. The designation of this offense as a strict liability offense shall not be construed to imply that any other offense, for which there is no specified degree of culpability, is not a strict liability offense.

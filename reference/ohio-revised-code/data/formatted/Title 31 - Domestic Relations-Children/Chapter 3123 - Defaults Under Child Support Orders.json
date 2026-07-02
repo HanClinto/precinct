@@ -1,0 +1,705 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 3123.01 - Defaults under child support orders definitions.",
+      "number": "3123.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.02 - Investigation after identification of default under support order.",
+      "number": "3123.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.021 - Notifying employer to withhold arrearage amount.",
+      "number": "3123.021",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.021"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.022 - Right to contest.",
+      "number": "3123.022",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.022"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.03 - Sending default notice to obligor.",
+      "number": "3123.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.031 - Default notice contents.",
+      "number": "3123.031",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.031"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.032 - Notice becomes final determination if no request for hearing.",
+      "number": "3123.032",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.032"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.033 - Standard forms for default notice.",
+      "number": "3123.033",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.033"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.034 - Notice issued before 12/13/2002.",
+      "number": "3123.034",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.034"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.04 - Administrative hearing.",
+      "number": "3123.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.05 - Motion for court hearing.",
+      "number": "3123.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.06 - Final and enforceable determination of default.",
+      "number": "3123.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.061 - Application of presumed minimum payment provision.",
+      "number": "3123.061",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.061"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.07 - Failing to give default notice.",
+      "number": "3123.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.10 - Duty of court to notify agency.",
+      "number": "3123.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.11 - Agency to notify obligee of default.",
+      "number": "3123.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.12 - Keeping case files open.",
+      "number": "3123.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.121 - Rules for keeping case files open.",
+      "number": "3123.121",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.121"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.13 - Payment of arrearage does not terminate order.",
+      "number": "3123.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.14 - Collecting arrearage where order is terminated.",
+      "number": "3123.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.15 - Action to collect arrearage.",
+      "number": "3123.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.16 - Payments to be monthly.",
+      "number": "3123.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.17 - Issuing or modifying support order when obligor is in default under prior order.",
+      "number": "3123.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.171 - Interest on support arrearage.",
+      "number": "3123.171",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.171"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.18 - Final judgment.",
+      "number": "3123.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.181 - Certified pay-off statement.",
+      "number": "3123.181",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.181"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.182 - Obtaining execution on certified pay-off statement.",
+      "number": "3123.182",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.182"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.183 - Applicability of additional authority to collect arrearage.",
+      "number": "3123.183",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.183"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.19 - Disposing of payments received on arrearage.",
+      "number": "3123.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.20 - Employer may not penalize employee for being subject to support order.",
+      "number": "3123.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.21 - Presumed minimum payment on arrearage.",
+      "number": "3123.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.22 - Additional authority of agency to collect arrearage.",
+      "number": "3123.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.23 - Collection of arrearages from collateral sources.",
+      "number": "3123.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.24 - Access restriction defined.",
+      "number": "3123.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.25 - Account information of obligor in default entered into case registry.",
+      "number": "3123.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.26 - Restrictions on account placed by financial institution.",
+      "number": "3123.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.27 - Investigating account.",
+      "number": "3123.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.28 - Withdrawal directive.",
+      "number": "3123.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.29 - Notice to other person with ownership interest in account.",
+      "number": "3123.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.30 - Notice contents.",
+      "number": "3123.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.31 - Administrative hearing request.",
+      "number": "3123.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.32 - Withdrawal directive where no hearing request.",
+      "number": "3123.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.33 - Hearing.",
+      "number": "3123.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.34 - Releasing access restriction on account.",
+      "number": "3123.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.35 - Court determination of amount of account belonging to other person.",
+      "number": "3123.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.36 - Court order for full or partial release of account.",
+      "number": "3123.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.37 - Contents of withdrawal directive.",
+      "number": "3123.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.38 - Financial institution imposing access restriction - immunity.",
+      "number": "3123.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.41 - Board, license defined.",
+      "number": "3123.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.42 - Determining whether defaulting obligor is license holder.",
+      "number": "3123.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.43 - Notice to obligor and licensing board.",
+      "number": "3123.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.44 - Contents of notice to obligor.",
+      "number": "3123.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.45 - Notice to board if obligor is not in default.",
+      "number": "3123.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.46 - Notice to board if obligor is no longer out of compliance.",
+      "number": "3123.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.47 - Refusal, nonrenewal or suspension of license of obligor.",
+      "number": "3123.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.471 - File of notices concerning obligors not currently licensed.",
+      "number": "3123.471",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.471"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.48 - Issuing license when obligor becomes eligible.",
+      "number": "3123.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.49 - Hearing.",
+      "number": "3123.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.50 - License applicant to include social security number.",
+      "number": "3123.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.53 - Determining whether defaulting obligor is motor vehicle license holder.",
+      "number": "3123.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.54 - Notice to obligor and registrar.",
+      "number": "3123.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.55 - Contents of notice to obligor.",
+      "number": "3123.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.56 - Notice to registrar if obligor is not in default.",
+      "number": "3123.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.57 - Notice to registrar if obligor is no longer out of compliance.",
+      "number": "3123.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.58 - Notice to registrar and deputies; grant of limited driving privileges.",
+      "number": "3123.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.581 - File of notices concerning obligors not currently licensed.",
+      "number": "3123.581",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.581"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.59 - Issuing license when obligor becomes eligible.",
+      "number": "3123.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.591 - Removal of record of suspension for juveniles.",
+      "number": "3123.591",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.591"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.60 - No hearing to be held.",
+      "number": "3123.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.62 - Determining whether defaulting obligor is recreational license holder.",
+      "number": "3123.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.63 - Adopting rules concerning license provisions.",
+      "number": "3123.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.66 - Asserting lien upon default.",
+      "number": "3123.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.67 - Arrearage becomes lien against personal and real property.",
+      "number": "3123.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.67"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.68 - Liens from other states.",
+      "number": "3123.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.68"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.69 - Service.",
+      "number": "3123.69",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.69"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.70 - Lien priority.",
+      "number": "3123.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.71 - Discharging lien.",
+      "number": "3123.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.72 - Notice requesting county recorder discharge lien.",
+      "number": "3123.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.73 - Selling property subject to lien.",
+      "number": "3123.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.74 - Complaint to request execution sale.",
+      "number": "3123.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.74"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.741 - Venue for filing complaint.",
+      "number": "3123.741",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.741"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.75 - Sale extinguishes lien associated with property.",
+      "number": "3123.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.76 - Releasing lien or returning seized property.",
+      "number": "3123.76",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.76"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.77 - Liability for support arrearages and related expenses.",
+      "number": "3123.77",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.77"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.78 - Obtaining lien does not affect other remedies.",
+      "number": "3123.78",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.78"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.81 - Collecting past-due support from federal tax refunds and overpayments.",
+      "number": "3123.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.82 - Obligor, overpaid child support defined.",
+      "number": "3123.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.82"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.821 - Collecting overdue and overpaid support from refunds cooperation.",
+      "number": "3123.821",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.821"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.822 - Conditions for collection from refunds.",
+      "number": "3123.822",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.822"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.823 - Adoption of rules.",
+      "number": "3123.823",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.823"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.85 - Reciprocal agreement with secretary of treasury for administrative offsets.",
+      "number": "3123.85",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.85"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.87 - Application of prisoner earnings to defaults.",
+      "number": "3123.87",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.87"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.88 - Application of unclaimed to defaults.",
+      "number": "3123.88",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.88"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.89 - Intercept directive issued to lottery commission where winner in default.",
+      "number": "3123.89",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.89"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.90 - Withholding from casino and sports gaming winnings.",
+      "number": "3123.90",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.90"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.91 - Consumer reporting agency defined.",
+      "number": "3123.91",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.91"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.92 - Providing determination of default to consumer reporting agency.",
+      "number": "3123.92",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.92"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.921 - Notice to agency that arrearage has been paid in full.",
+      "number": "3123.921",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.921"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.93 - Consumer reporting agency may request information concerning support obligation.",
+      "number": "3123.93",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.93"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.931 - Review of case registry in response to request.",
+      "number": "3123.931",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.931"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.932 - Report to consumer reporting agency.",
+      "number": "3123.932",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.932"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.95 - Poster program.",
+      "number": "3123.95",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.95"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.951 - Submitting names of delinquent obligors.",
+      "number": "3123.951",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.951"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.952 - Conditions for including obligors on poster.",
+      "number": "3123.952",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.952"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.953 - Providing photograph and information.",
+      "number": "3123.953",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.953"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.954 - Address and personal information not to be provided.",
+      "number": "3123.954",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.954"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.955 - Removing obligor from list.",
+      "number": "3123.955",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.955"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.956 - Notifying obligor.",
+      "number": "3123.956",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.956"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.957 - Contents of poster.",
+      "number": "3123.957",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.957"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.958 - Publication and distribution of posters.",
+      "number": "3123.958",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.958"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.959 - Funding program.",
+      "number": "3123.959",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.959"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.9510 - Adopting rules.",
+      "number": "3123.9510",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.9510"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.96 - Agency poster program.",
+      "number": "3123.96",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.96"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.961 - Contents of agency poster.",
+      "number": "3123.961",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.961"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.962 - Notifying obligor.",
+      "number": "3123.962",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.962"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3123.99 - Penalty.",
+      "number": "3123.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.99"
+    }
+  ],
+  "scraped": "2026-07-02T19:48:00+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-3123",
+  "title": "Chapter 3123 - Defaults Under Child Support Orders"
+}

@@ -1,0 +1,150 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-4731
+Scraped: 2026-07-02T20:07:04+00:00
+
+# Chapter 4731 - Physicians; Limited Practitioners
+
+## Sections
+
+- Section 4731.01 - State medical board.
+- Section 4731.02 - Organization of board.
+- Section 4731.03 - Compensation and expenses of board.
+- Section 4731.04 - Definitions.
+- Section 4731.05 - Administrative rules.
+- Section 4731.051 - Administrative rules for universal blood and body fluid precautions.
+- Section 4731.052 - Administrative rules for management of chronic pain with controlled substances.
+- Section 4731.053 - Administrative rules for physician's delegation of medical task.
+- Section 4731.054 - Operation of pain management clinics; supervision and control of employees, volunteers and contractors.
+- Section 4731.055 - Conditions for prescribing opioid analgesics or benzodiazepine drugs; adoption of rules regarding review drug database.
+- Section 4731.056 - Rules for physicians regarding use of controlled substances in schedule III, IV, or V for medication-assisted treatment.
+- Section 4731.057 - Rules regarding prescriptions for drugs that may be administered by pharmacist.
+- Section 4731.06 - Board meetings.
+- Section 4731.07 - Records.
+- Section 4731.071 - Internet directory of certificates and licenses issued by board.
+- Section 4731.08 - License applicant to comply with R.C. 4776.01 to 4776.04.
+- Section 4731.09 - Qualifications and application for license to practice medicine and surgery or osteopathic medicine and surgery.
+- Section 4731.091 - [Former R.C. 4731.092, amended and renumbered by H.B. 49, 132nd General Assembly, effective 9/29/2017] Qualified graduate of fifth pathway training program.
+- Section 4731.10 - Verification of certification or licensure for licensure in another state.
+- Section 4731.11 - Interstate medical licensure compact.
+- Section 4731.111 - Commissioners to the interstate medical licensure compact commission.
+- Section 4731.14 - Review of applications; issuance of license.
+- Section 4731.142 - English language proficiency.
+- Section 4731.143 - Notice of lack of coverage of medical malpractice insurance.
+- Section 4731.15 - Regulating massage therapy.
+- Section 4731.151 - Legacied naprapaths and mechanotherapists.
+- Section 4731.152 - Massage therapy advisory council.
+- Section 4731.155 - Rules regarding continuing education.
+- Section 4731.156 - Interstate massage compact (IMpact).
+- Section 4731.157 - Delegate to the Interstate massage compact commission.
+- Section 4731.16 - Determination of standards; examinations.
+- Section 4731.17 - Issuance of license.
+- Section 4731.171 - License applicant to comply with RC Chapter 4776.
+- Section 4731.19 - License to practice a limited branch of medicine.
+- Section 4731.20 - State medical board - powers and duties.
+- Section 4731.21 - Limitations prescribed.
+- Section 4731.22 - Disciplinary actions.
+- Section 4731.221 - Suspending license or certificate of mentally ill or mentally incompetent practitioner.
+- Section 4731.222 - Determining applicant's fitness to resume practice.
+- Section 4731.223 - Reporting convictions.
+- Section 4731.224 - Reporting misconduct.
+- Section 4731.225 - Civil penalty.
+- Section 4731.226 - Offering services through authorized business entity.
+- Section 4731.227 - Using alternative medical treatments.
+- Section 4731.228 - Termination of physician's employment with a health care entity; notice to patients.
+- Section 4731.229 - Effect of disciplinary action on certificate to recommend.
+- Section 4731.2210 - Patient notice of probationary order.
+- Section 4731.23 - Designating attorney hearing examiner.
+- Section 4731.24 - State medical board operating fund - receipts of state medical board.
+- Section 4731.241 - Solicitation and acceptance of funds for programs related to patient safety and education, supply and demand of health care professionals, and information sharing.
+- Section 4731.25 - Confidential monitoring program.
+- Section 4731.251 - Approval of program evaluators and treatment providers.
+- Section 4731.252 - Practitioner eligibility.
+- Section 4731.253 - Applicant eligibility.
+- Section 4731.254 - Liability.
+- Section 4731.255 - Rulemaking.
+- Section 4731.256 - Foundation to support monitoring programs.
+- Section 4731.26 - Duplicate certificates.
+- Section 4731.27 - Standard care arrangements.
+- Section 4731.281 - License renewal.
+- Section 4731.282 - Continuing education - domestic violence and its relationship to child abuse.
+- Section 4731.283 - Retired status.
+- Section 4731.291 - Application for training certificate.
+- Section 4731.293 - Clinical research faculty certificate.
+- Section 4731.294 - Special activity certificate.
+- Section 4731.295 - Volunteer's certificate.
+- Section 4731.297 - Certificate of conceded eminence.
+- Section 4731.298 - Visiting clinical professional development certificate.
+- Section 4731.299 - Expedited license to practice medicine and surgery or osteopathic medicine and surgery by endorsement.
+- Section 4731.30 - Certificate to recommend medical use of marijuana.
+- Section 4731.301 - Adoption of rules regarding certificate to recommend.
+- Section 4731.302 - Requests for disease or condition to be added as qualifying medical condition for medical marijuana treatment.
+- Section 4731.31 - Rural hospital may employ a physician.
+- Section 4731.33 - Use of light-based medical devices for hair removal.
+- Section 4731.331
+- Section 4731.34 - Unauthorized practice.
+- Section 4731.341 - Injunctions.
+- Section 4731.35 - Exemption of nurse anesthetist and anesthesiologist assistant.
+- Section 4731.36 - Exceptions.
+- Section 4731.37 - Sonographer delegation.
+- Section 4731.38 - Approval of vouchers.
+- Section 4731.39 - Enforcement.
+- Section 4731.391 - Use of information gathered and disseminated through Ohio law enforcement gateway.
+- Section 4731.40 - Distributing fines.
+- Section 4731.41 - Practicing medicine without license or certificate.
+- Section 4731.43 - Practicing osteopathy without license; exception.
+- Section 4731.44 - Copy of prescription to be given to patient.
+- Section 4731.46 - Issuing false medical diploma.
+- Section 4731.47 - Selling false medical diploma.
+- Section 4731.48 - Physician giving false certificate of disability.
+- Section 4731.481 - Enabling person to retain handicapped parking privileges.
+- Section 4731.49 - Physician making an unlawful prescription for intoxicating liquor.
+- Section 4731.50 - Further punishment of physician so convicted.
+- Section 4731.51 - Defining practice of podiatric medicine and surgery.
+- Section 4731.511 - Hyperbaric oxygen therapy.
+- Section 4731.512 - Authority to administer vaccinations.
+- Section 4731.513 - Practice settings and collaboration with CRNAs.
+- Section 4731.52 - Filing application to practice podiatric medicine and surgery.
+- Section 4731.531 - Certificate applicant to comply with RC Chapter 4776.
+- Section 4731.56 - Issuing license to practice podiatric medicine.
+- Section 4731.572 - Visiting podiatric faculty certificate.
+- Section 4731.573 - Training certificate.
+- Section 4731.60 - Prohibited acts; exceptions.
+- Section 4731.61 - Disciplinary actions.
+- Section 4731.62 - Patients suspected of drug overdose; referral to mental health professional.
+- Section 4731.65 - Conflict of interest limitations on patient referrals definitions.
+- Section 4731.66 - Prohibiting referrals and cross-referrals for designated health service.
+- Section 4731.67 - Referrals - exceptions to prohibited acts.
+- Section 4731.68 - Ownership of investment securities.
+- Section 4731.69 - Timely refunds.
+- Section 4731.70 - Administrative rules.
+- Section 4731.71 - Detecting and reporting violations.
+- Section 4731.72 - Physician's bill for anatomical pathology services.
+- Section 4731.73 - Adherence to NAPBC standards.
+- Section 4731.74 - Adoption of rules governing prescriptions given to persons without examination.
+- Section 4731.741 - Telehealth services.
+- Section 4731.75 - Fees in excess of statutory amounts.
+- Section 4731.76 - Effect of child support default on license or certificate.
+- Section 4731.77 - Consent for intimate examination.
+- Section 4731.81 - Witness to administration of general anesthetic.
+- Section 4731.82 - Woman appearing before physician regarding fetal death.
+- Section 4731.83 - Medication-assisted treatment; compliance with laws and regulations.
+- Section 4731.85 - Recognition for volunteer medical services.
+- Section 4731.86 - Civil actions for assisted reproduction procedure performed without consent - definitions.
+- Section 4731.861 - Action for an assisted reproduction procedure performed without consent - patient, spouse, child.
+- Section 4731.862 - Separate action for each child born to the patient or spouse.
+- Section 4731.864 - Action for an assisted reproduction procedure performed without consent - donor.
+- Section 4731.865 - Separate action for each individual who received the donor's human reproductive material.
+- Section 4731.867 - Consent for use of human reproductive material.
+- Section 4731.869 - Remedies and damages.
+- Section 4731.8610 - Pursuit of other remedies and damages.
+- Section 4731.8611 - Wavier of action against public policy.
+- Section 4731.90 - Protocol for pharmacist to dispense nicotine replacement therapy.
+- Section 4731.91 - No requirement for abortions.
+- Section 4731.911 - Physician responsibilities in a non-hospital setting.
+- Section 4731.92 - Furnishing or prescribing glucagon, immunity.
+- Section 4731.93 - Authority to prescribe or furnish drugs to sexual partner of a patient diagnosed with chlamydia, gonorrhea, or trichomoniasis.
+- Section 4731.95 - Compliance with law regarding sanctions for human trafficking.
+- Section 4731.96 - Epinephrine autoinjectors.
+- Section 4731.961 - Authority to dispense epinephrine without a prescription.
+- Section 4731.97 - Eligible patients.
+- Section 4731.98 - State medical board - immunity.
+- Section 4731.99 - Penalty.

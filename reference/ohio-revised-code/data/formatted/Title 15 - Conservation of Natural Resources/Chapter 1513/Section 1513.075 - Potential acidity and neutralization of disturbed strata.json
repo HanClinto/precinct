@@ -1,0 +1,42 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Potential acidity\" means a laboratory measurement of the amount of acidity that could be produced by material in a rock strata proposed to be disturbed by mining and that is expressed by a numeral indicating the number of tons of that acidity that would be present in one thousand tons of disturbed overburden.",
+      "id": "1513.075-potential-acidity",
+      "normalized": "potential acidity",
+      "scope": "(A) As used in this section:",
+      "section": "1513.075",
+      "source_title": "Section 1513.075 - Potential acidity and neutralization of disturbed strata.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1513.075",
+      "term": "Potential acidity"
+    },
+    {
+      "definition": "(2) \"Neutralization potential\" means a laboratory measurement of the alkalinity of a rock strata expressed as the amount of acidity that would be neutralized by material proposed to be disturbed by mining and that is expressed by a numeral indicating the number of tons of that alkalinity that would be present in one thousand tons of disturbed overburden.\n\n(3) \"Test borings or core samplings\" refer to test borings or core samplings performed on rock strata in an area proposed to be covered by a permit for a coal mining operation, the results of which must be stated in the permit application in accordance with division (B)(1)(o) of section 1513.07 of the Revised Code.\n\n(B) For purposes of the determination of the chief of the division of mineral resources management regarding whether to approve an application for a permit for a coal mining operation based on criteria established in divisions (E)(2)(a) and (c) of section 1513.07 of the Revised Code and related performance standards established in division (A)(10) of section 1513.16 of the Revised Code, the potential acidity and the neutralization potential of the rock strata that would be disturbed under the permit may be calculated in accordance with this section.\n\n(C) The measurement of potential acidity may be based on laboratory analyses of the sulfur content of the coal and overburden to be disturbed by mining. If the results of test borings or core samplings include laboratory analyses of the pyritic form of sulfur, the applicant may base the calculation of the potential acidity for the area on the pyritic sulfur content of the coal and overburden to be disturbed by mining rather than on the total sulfur content.\n\n(D) The tons of rock in the area represented by each core hole resulting from test boring or core sampling may be estimated and used to calculate the tons of potential acidity and tons of neutralization potential for each rock stratum. The sum of those values across the proposed permit area may be used to calculate the site's overall neutralization potential and potential acidity.\n\n(E) The proposed permit area may not be considered to have the potential to create acid or other toxic mine drainage if either of the following applies:\n\n(1) The numeral that indicates the site's overall neutralization potential divided by the numeral that indicates the site's overall potential acidity results in a quotient that is equal to or greater than two.\n\n(2) The numeral that indicates the neutralization potential subtracted from the numeral that indicates the potential acidity results in a remainder that is equal to or less than negative ten.",
+      "id": "1513.075-neutralization-potential",
+      "normalized": "neutralization potential",
+      "scope": "(A) As used in this section:",
+      "section": "1513.075",
+      "source_title": "Section 1513.075 - Potential acidity and neutralization of disturbed strata.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1513.075",
+      "term": "Neutralization potential"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "1513.07",
+      "number": "1513.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1513.07"
+    },
+    {
+      "kind": "section",
+      "label": "1513.16",
+      "number": "1513.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1513.16"
+    }
+  ],
+  "scraped": "2026-07-02T19:37:41+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1513.075",
+  "title": "Section 1513.075 - Potential acidity and neutralization of disturbed strata."
+}

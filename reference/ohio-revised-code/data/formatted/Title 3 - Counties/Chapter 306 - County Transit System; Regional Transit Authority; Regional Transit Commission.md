@@ -1,0 +1,72 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-306
+Scraped: 2026-07-02T19:32:38+00:00
+
+# Chapter 306 - County Transit System; Regional Transit Authority; Regional Transit Commission
+
+## Sections
+
+- Section 306.01 - Establishing county transit system.
+- Section 306.02 - Members of board, qualifications, terms.
+- Section 306.03 - Organization of county transit board.
+- Section 306.04 - Powers and duties of board.
+- Section 306.05 - Advancement of funds for county transit system.
+- Section 306.051 - Use of funds expended for social services as local match to obtain funds for transit system.
+- Section 306.06 - Agreements to provide transportation service.
+- Section 306.07 - Exempting revenue and income from taxation.
+- Section 306.08 - Acquiring publicly or privately owned transit system.
+- Section 306.09 - Issuing bonds.
+- Section 306.10 - Issuing refunding bonds.
+- Section 306.11 - Control over county transit system's revenue and funds.
+- Section 306.12 - Acquiring publicly or privately owned transit system - employee rights.
+- Section 306.13 - Exempting real and personal property from taxation.
+- Section 306.14 - Report on franchise agreements.
+- Section 306.30 - Regional transit authority definitions.
+- Section 306.301 - Resolution designating part of township member of regional transit authority.
+- Section 306.31 - Creating regional transit authority.
+- Section 306.32 - Resolution for creation of regional transit authority.
+- Section 306.321 - Inclusion of additional counties, municipal corporations, or townships in regional transit authority.
+- Section 306.322 - Additional provisions for joining additional counties, municipal corporations, or townships to the regional transit authority.
+- Section 306.33 - Appointment of board of trustees.
+- Section 306.331 - Board of trustees for joint county and municipal authority.
+- Section 306.34 - Power and authority of board of trustees.
+- Section 306.35 - Regional transit authority - powers and duties.
+- Section 306.351 - Purchase and operation of flexible joint bus.
+- Section 306.352 - Felony conviction precludes or terminates employment.
+- Section 306.353 - Authority to levy tax to fund construction or maintenance of roads or bridges related to provision of services by regional transit authority.
+- Section 306.354 - Scope of activities for certain regional transit authorities.
+- Section 306.36 - Power of eminent domain.
+- Section 306.37 - Issuing revenue bonds.
+- Section 306.38 - Trust agreement may secure revenue bonds.
+- Section 306.39 - Interest and maturity of revenue bonds.
+- Section 306.40 - Issuing general obligation bonds.
+- Section 306.41 - Income and profit from bonds exempt from taxation.
+- Section 306.42 - Secretary-treasurer of regional transit authority duties.
+- Section 306.43 - Contracts - competitive bidding.
+- Section 306.44 - Contracts with other governmental entities.
+- Section 306.45 - Officers and employees are eligible for public employees retirement system.
+- Section 306.46 - Counties and municipalities - powers not limited.
+- Section 306.47 - Appropriation for county funds for expenses.
+- Section 306.48 - Group insurance for officers and employees.
+- Section 306.49 - Annual tax levy.
+- Section 306.50 - Report on local spending on airports.
+- Section 306.51 - Conveyance, lease, or exchange of personal or real property.
+- Section 306.52 - Real and personal property exempt from taxation.
+- Section 306.53 - Cooperation with other governmental agencies.
+- Section 306.54 - Dissolution or modification in membership.
+- Section 306.55 - Withdrawal from regional transit authority.
+- Section 306.551 - Contract for transit services after withdrawal.
+- Section 306.70 - Resolution levying tax for regional transit purposes.
+- Section 306.71 - Election on question of decrease in tax rate.
+- Section 306.73 - Notice of change in transit system's territorial boundaries.
+- Section 306.80 - Agreement for regional system between governmental instrumentalities of adjacent states.
+- Section 306.81 - Adjacent states definitions.
+- Section 306.82 - Provisions to include in agreement.
+- Section 306.83 - Advancement or donation of money.
+- Section 306.84 - No property to be included in more than one regional commission.
+- Section 306.85 - Bonds are lawful investments.
+- Section 306.86 - Conveyance, lease, or exchange of personal or real property.
+- Section 306.87 - Real and personal property exempt from taxation.
+- Section 306.88 - Filing certified copy of agreement with county recorder.
+- Section 306.89 - Federal and state approval necessary.
+- Section 306.90 - Severability.
+- Section 306.99 - Penalty.

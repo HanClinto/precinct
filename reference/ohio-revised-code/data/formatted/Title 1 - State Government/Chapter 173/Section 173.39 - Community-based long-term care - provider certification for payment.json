@@ -1,0 +1,66 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Provider\" means a person or government entity that provides any services, including community-based long-term care services, under a program the department of aging administers. \"Provider\" includes a person or government entity that provides home and community-based services to older adults through the PASSPORT program or assisted living program.",
+      "id": "173.39-provider",
+      "normalized": "provider",
+      "scope": "(A) As used in sections 173.39 to 173.393 of the Revised Code:",
+      "section": "173.39",
+      "source_title": "Section 173.39 - Community-based long-term care - provider certification for payment.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-173.39",
+      "term": "Provider"
+    },
+    {
+      "definition": "(2) \"Community-based long-term care services\" has the same meaning as in section 173.14 of the Revised Code.\n\n(3) \"PASSPORT program\" and \"assisted living program\" have the same meanings as in section 173.51 of the Revised Code.\n\n(B) The department of aging shall not pay a provider for providing any service, including community-based long-term care services, under the PASSPORT program or assisted living program unless the provider is certified under section 173.391 of the Revised Code and the service is in fact provided.\n\nThe department may require a provider under any other program the department administers to be certified under section 173.391 of the Revised Code. If the department requires this certification, the department shall not pay the provider for providing any service under that program unless the provider is certified under section 173.391 of the Revised Code and the service is in fact provided. If the department does not require this certification, the department shall not pay the provider for providing any service under that program unless the provider complies with section 173.392 of the Revised Code.\n\nLast updated August 5, 2021 at 1:47 PM",
+      "id": "173.39-community-based-long-term-care-services",
+      "normalized": "community-based long-term care services",
+      "scope": "(A) As used in sections 173.39 to 173.393 of the Revised Code:",
+      "section": "173.39",
+      "source_title": "Section 173.39 - Community-based long-term care - provider certification for payment.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-173.39",
+      "term": "Community-based long-term care services"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "173.39",
+      "number": "173.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-173.39"
+    },
+    {
+      "kind": "section",
+      "label": "173.393",
+      "number": "173.393",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-173.393"
+    },
+    {
+      "kind": "section",
+      "label": "173.14",
+      "number": "173.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-173.14"
+    },
+    {
+      "kind": "section",
+      "label": "173.51",
+      "number": "173.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-173.51"
+    },
+    {
+      "kind": "section",
+      "label": "173.391",
+      "number": "173.391",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-173.391"
+    },
+    {
+      "kind": "section",
+      "label": "173.392",
+      "number": "173.392",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-173.392"
+    }
+  ],
+  "scraped": "2026-07-02T19:32:13+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-173.39",
+  "title": "Section 173.39 - Community-based long-term care - provider certification for payment."
+}

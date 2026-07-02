@@ -1,0 +1,466 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Peace officer\" has the same meaning as in section 2935.01 of the Revised Code.",
+      "id": "2903.13-peace-officer",
+      "normalized": "peace officer",
+      "scope": "(E) As used in this section:",
+      "section": "2903.13",
+      "source_title": "Section 2903.13 - Assault.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2903.13",
+      "term": "Peace officer"
+    },
+    {
+      "definition": "(2) \"Firefighter\" means any person who is a firefighter as defined in section 3937.41 of the Revised Code and, for purposes of division (E)(21) of this section, also includes a member of a fire department as defined in section 742.01 of the Revised Code.",
+      "id": "2903.13-firefighter",
+      "normalized": "firefighter",
+      "scope": "(E) As used in this section:",
+      "section": "2903.13",
+      "source_title": "Section 2903.13 - Assault.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2903.13",
+      "term": "Firefighter"
+    },
+    {
+      "definition": "(3) \"Emergency medical service\" has the same meaning as in section 4765.01 of the Revised Code.",
+      "id": "2903.13-emergency-medical-service",
+      "normalized": "emergency medical service",
+      "scope": "(E) As used in this section:",
+      "section": "2903.13",
+      "source_title": "Section 2903.13 - Assault.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2903.13",
+      "term": "Emergency medical service"
+    },
+    {
+      "definition": "(4) \"Local correctional facility\" means a county, multicounty, municipal, municipal-county, or multicounty-municipal jail or workhouse, a minimum security jail established under section 341.23 or 753.21 of the Revised Code, or another county, multicounty, municipal, municipal-county, or multicounty-municipal facility used for the custody of persons arrested for any crime or delinquent act, persons charged with or convicted of any crime, or persons alleged to be or adjudicated a delinquent child.",
+      "id": "2903.13-local-correctional-facility",
+      "normalized": "local correctional facility",
+      "scope": "(E) As used in this section:",
+      "section": "2903.13",
+      "source_title": "Section 2903.13 - Assault.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2903.13",
+      "term": "Local correctional facility"
+    },
+    {
+      "definition": "(5) \"Employee of a local correctional facility\" means a person who is an employee of the political subdivision or of one or more of the affiliated political subdivisions that operates the local correctional facility and who operates or assists in the operation of the facility.",
+      "id": "2903.13-employee-of-a-local-correctional-facility",
+      "normalized": "employee of a local correctional facility",
+      "scope": "(E) As used in this section:",
+      "section": "2903.13",
+      "source_title": "Section 2903.13 - Assault.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2903.13",
+      "term": "Employee of a local correctional facility"
+    },
+    {
+      "definition": "(6) \"School teacher or administrator\" means either of the following:\n\n(a) A person who is employed in the public schools of the state under a contract described in section 3311.77 or 3319.08 of the Revised Code in a position in which the person is required to have a certificate issued pursuant to sections 3319.22 to 3319.311 of the Revised Code.\n\n(b) A person who is employed by a nonpublic school for which the director of education and workforce prescribes minimum standards under section 3301.07 of the Revised Code and who is certificated in accordance with section 3301.071 of the Revised Code.",
+      "id": "2903.13-school-teacher-or-administrator",
+      "normalized": "school teacher or administrator",
+      "scope": "(E) As used in this section:",
+      "section": "2903.13",
+      "source_title": "Section 2903.13 - Assault.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2903.13",
+      "term": "School teacher or administrator"
+    },
+    {
+      "definition": "(7) \"Community control sanction\" has the same meaning as in section 2929.01 of the Revised Code.",
+      "id": "2903.13-community-control-sanction",
+      "normalized": "community control sanction",
+      "scope": "(E) As used in this section:",
+      "section": "2903.13",
+      "source_title": "Section 2903.13 - Assault.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2903.13",
+      "term": "Community control sanction"
+    },
+    {
+      "definition": "(8) \"Escorted visit\" means an escorted visit granted under section 2967.27 of the Revised Code.\n\n(9) \"Post-release control\" and \"transitional control\" have the same meanings as in section 2967.01 of the Revised Code.",
+      "id": "2903.13-escorted-visit",
+      "normalized": "escorted visit",
+      "scope": "(E) As used in this section:",
+      "section": "2903.13",
+      "source_title": "Section 2903.13 - Assault.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2903.13",
+      "term": "Escorted visit"
+    },
+    {
+      "definition": "(10) \"Investigator of the bureau of criminal identification and investigation\" has the same meaning as in section 2903.11 of the Revised Code.\n\n(11) \"Health care professional\" and \"health care worker\" have the same meanings as in section 2305.234 of the Revised Code.",
+      "id": "2903.13-investigator-of-the-bureau-of-criminal-identification-and-investigation",
+      "normalized": "investigator of the bureau of criminal identification and investigation",
+      "scope": "(E) As used in this section:",
+      "section": "2903.13",
+      "source_title": "Section 2903.13 - Assault.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2903.13",
+      "term": "Investigator of the bureau of criminal identification and investigation"
+    },
+    {
+      "definition": "(12) \"Assault or homicide offense committed against hospital personnel\" means a violation of this section or of section 2903.01 , 2903.02 , 2903.03 , 2903.04 , 2903.041 , 2903.11 , 2903.12 , or 2903.14 of the Revised Code committed in circumstances in which all of the following apply:\n\n(a) The victim of the offense was a health care professional of a hospital, a health care worker of a hospital, or a security officer of a hospital.\n\n(b) The offender knew or had reasonable cause to know that the victim was a health care professional of a hospital, a health care worker of a hospital, or a security officer of a hospital.\n\n(c) The victim was engaged in the performance of the victim's duties.\n\n(d) The hospital offered de-escalation or crisis intervention training for such professionals, workers, or officers.",
+      "id": "2903.13-assault-or-homicide-offense-committed-against-hospital-personnel",
+      "normalized": "assault or homicide offense committed against hospital personnel",
+      "scope": "(E) As used in this section:",
+      "section": "2903.13",
+      "source_title": "Section 2903.13 - Assault.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2903.13",
+      "term": "Assault or homicide offense committed against hospital personnel"
+    },
+    {
+      "definition": "(13) \"De-escalation or crisis intervention training\" means de-escalation or crisis intervention training for health care professionals of a hospital, health care workers of a hospital, and security officers of a hospital to facilitate interaction with patients, members of a patient's family, and visitors, including those with mental impairments.",
+      "id": "2903.13-de-escalation-or-crisis-intervention-training",
+      "normalized": "de-escalation or crisis intervention training",
+      "scope": "(E) As used in this section:",
+      "section": "2903.13",
+      "source_title": "Section 2903.13 - Assault.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2903.13",
+      "term": "De-escalation or crisis intervention training"
+    },
+    {
+      "definition": "(14) \"Assault or homicide offense committed against justice system personnel\" means a violation of this section or of section 2903.01 , 2903.02 , 2903.03 , 2903.04 , 2903.041 , 2903.11 , 2903.12 , or 2903.14 of the Revised Code committed in circumstances in which the victim of the offense was a judge, magistrate, prosecutor, or court official or employee whom the offender knew or had reasonable cause to know was a judge, magistrate, prosecutor, or court official or employee, and the victim was engaged in the performance of the victim's duties.",
+      "id": "2903.13-assault-or-homicide-offense-committed-against-justice-system-personnel",
+      "normalized": "assault or homicide offense committed against justice system personnel",
+      "scope": "(E) As used in this section:",
+      "section": "2903.13",
+      "source_title": "Section 2903.13 - Assault.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2903.13",
+      "term": "Assault or homicide offense committed against justice system personnel"
+    },
+    {
+      "definition": "(15) \"Court official or employee\" means any official or employee of a court created under the constitution or statutes of this state or of a United States court located in this state.",
+      "id": "2903.13-court-official-or-employee",
+      "normalized": "court official or employee",
+      "scope": "(E) As used in this section:",
+      "section": "2903.13",
+      "source_title": "Section 2903.13 - Assault.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2903.13",
+      "term": "Court official or employee"
+    },
+    {
+      "definition": "(16) \"Judge\" means a judge of a court created under the constitution or statutes of this state or of a United States court located in this state.",
+      "id": "2903.13-judge",
+      "normalized": "judge",
+      "scope": "(E) As used in this section:",
+      "section": "2903.13",
+      "source_title": "Section 2903.13 - Assault.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2903.13",
+      "term": "Judge"
+    },
+    {
+      "definition": "(17) \"Magistrate\" means an individual who is appointed by a court of record of this state and who has the powers and may perform the functions specified in Civil Rule 53, Criminal Rule 19, or Juvenile Rule 40, or an individual who is appointed by a United States court located in this state who has similar powers and functions.",
+      "id": "2903.13-magistrate",
+      "normalized": "magistrate",
+      "scope": "(E) As used in this section:",
+      "section": "2903.13",
+      "source_title": "Section 2903.13 - Assault.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2903.13",
+      "term": "Magistrate"
+    },
+    {
+      "definition": "(18) \"Prosecutor\" has the same meaning as in section 2935.01 of the Revised Code.",
+      "id": "2903.13-prosecutor",
+      "normalized": "prosecutor",
+      "scope": "(E) As used in this section:",
+      "section": "2903.13",
+      "source_title": "Section 2903.13 - Assault.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2903.13",
+      "term": "Prosecutor"
+    },
+    {
+      "definition": "(19)(a) \"Hospital\" means, subject to division (E)(19)(b) of this section, an institution classified as a hospital under section 3701.01 of the Revised Code in which are provided to patients diagnostic, medical, surgical, obstetrical, psychiatric, or rehabilitation care or a hospital operated by a health maintenance organization.",
+      "id": "2903.13-hospital",
+      "normalized": "hospital",
+      "scope": "(E) As used in this section:",
+      "section": "2903.13",
+      "source_title": "Section 2903.13 - Assault.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2903.13",
+      "term": "Hospital"
+    },
+    {
+      "definition": "(b) \"Hospital\" does not include any of the following:\n\n(i) A facility licensed under Chapter 3721. of the Revised Code, a health care facility operated by the department of mental health and addiction services or the department of developmental disabilities, a health maintenance organization that does not operate a hospital, or the office of any private, licensed health care professional, whether organized for individual or group practice;\n\n(ii) An institution for the sick that is operated exclusively for patients who use spiritual means for healing and for whom the acceptance of medical care is inconsistent with their religious beliefs, accredited by a national accrediting organization, exempt from federal income taxation under section 501 of the \"Internal Revenue Code of 1986,\" 100 Stat. 2085, 26 U.S.C. 1, as amended, and providing twenty-four-hour nursing care pursuant to the exemption in division (E) of section 4723.32 of the Revised Code from the licensing requirements of Chapter 4723. of the Revised Code.",
+      "id": "2903.13-hospital",
+      "normalized": "hospital",
+      "scope": "(E) As used in this section:",
+      "section": "2903.13",
+      "source_title": "Section 2903.13 - Assault.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2903.13",
+      "term": "Hospital"
+    },
+    {
+      "definition": "(20) \"Health maintenance organization\" has the same meaning as in section 3727.01 of the Revised Code.",
+      "id": "2903.13-health-maintenance-organization",
+      "normalized": "health maintenance organization",
+      "scope": "(E) As used in this section:",
+      "section": "2903.13",
+      "source_title": "Section 2903.13 - Assault.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2903.13",
+      "term": "Health maintenance organization"
+    },
+    {
+      "definition": "(21) \"Emergency service responder\" means any law enforcement officer, first responder, emergency medical technician-basic, emergency medical technician-intermediate, emergency medical technician-paramedic, firefighter, or volunteer firefighter.",
+      "id": "2903.13-emergency-service-responder",
+      "normalized": "emergency service responder",
+      "scope": "(E) As used in this section:",
+      "section": "2903.13",
+      "source_title": "Section 2903.13 - Assault.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2903.13",
+      "term": "Emergency service responder"
+    },
+    {
+      "definition": "(22) \"Family or household member\" means any of the following:\n\n(a) Any of the following who is residing or has resided with a person who is employed as an emergency service responder:\n\n(i) A spouse, a person living as a spouse, or a former spouse of a person who is employed as an emergency service responder;\n\n(ii) A parent, a foster parent, or a child of a person who is employed as an emergency service responder, or another person related by consanguinity or affinity to a person who is employed as an emergency service responder;\n\n(iii) A parent or a child of a spouse, person living as a spouse, or former spouse of a person who is employed as an emergency service responder, or another person related by consanguinity or affinity to a spouse, person living as a spouse, or former spouse of a person who is employed as an emergency service responder.\n\n(b) The natural parent of any child of whom a person who is employed as an emergency service responder is the other natural parent or is the putative other natural parent.\n\n(23) \"First responder,\" \"emergency medical technician-basic,\" \"emergency medical technician-intermediate,\" and \"emergency medical technician-paramedic\" have the same meanings as in section 4765.01 of the Revised Code.",
+      "id": "2903.13-family-or-household-member",
+      "normalized": "family or household member",
+      "scope": "(E) As used in this section:",
+      "section": "2903.13",
+      "source_title": "Section 2903.13 - Assault.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2903.13",
+      "term": "Family or household member"
+    },
+    {
+      "definition": "(24) \"Volunteer firefighter\" has the same meaning as in section 146.01 of the Revised Code.",
+      "id": "2903.13-volunteer-firefighter",
+      "normalized": "volunteer firefighter",
+      "scope": "(E) As used in this section:",
+      "section": "2903.13",
+      "source_title": "Section 2903.13 - Assault.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2903.13",
+      "term": "Volunteer firefighter"
+    },
+    {
+      "definition": "(25) \"Person living as a spouse\" means a person who is living or has lived with a person who is employed as an emergency service responder in a common law marital relationship, who otherwise is cohabiting with a person who is employed as an emergency service responder, or who otherwise has cohabited with a person who is employed as an emergency service responder within five years prior to the date of the alleged commission of the act in question.",
+      "id": "2903.13-person-living-as-a-spouse",
+      "normalized": "person living as a spouse",
+      "scope": "(E) As used in this section:",
+      "section": "2903.13",
+      "source_title": "Section 2903.13 - Assault.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2903.13",
+      "term": "Person living as a spouse"
+    },
+    {
+      "definition": "(26) \"Co-worker\" means a person who is employed by the organization or entity that is served by a person who is employed as an emergency service responder.\n\nLast updated October 20, 2025 at 2:00 PM",
+      "id": "2903.13-co-worker",
+      "normalized": "co-worker",
+      "scope": "(E) As used in this section:",
+      "section": "2903.13",
+      "source_title": "Section 2903.13 - Assault.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2903.13",
+      "term": "Co-worker"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2903.11",
+      "number": "2903.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2903.11"
+    },
+    {
+      "kind": "section",
+      "label": "2903.16",
+      "number": "2903.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2903.16"
+    },
+    {
+      "kind": "section",
+      "label": "2929.13",
+      "number": "2929.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2929.13"
+    },
+    {
+      "kind": "section",
+      "label": "2929.28",
+      "number": "2929.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2929.28"
+    },
+    {
+      "kind": "section",
+      "label": "2941.1423",
+      "number": "2941.1423",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.1423"
+    },
+    {
+      "kind": "section",
+      "label": "2929.24",
+      "number": "2929.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2929.24"
+    },
+    {
+      "kind": "section",
+      "label": "2929.14",
+      "number": "2929.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2929.14"
+    },
+    {
+      "kind": "section",
+      "label": "2903.22",
+      "number": "2903.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2903.22"
+    },
+    {
+      "kind": "section",
+      "label": "2941.25",
+      "number": "2941.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.25"
+    },
+    {
+      "kind": "section",
+      "label": "2935.01",
+      "number": "2935.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2935.01"
+    },
+    {
+      "kind": "section",
+      "label": "3937.41",
+      "number": "3937.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3937.41"
+    },
+    {
+      "kind": "section",
+      "label": "742.01",
+      "number": "742.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.01"
+    },
+    {
+      "kind": "section",
+      "label": "4765.01",
+      "number": "4765.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.01"
+    },
+    {
+      "kind": "section",
+      "label": "341.23",
+      "number": "341.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-341.23"
+    },
+    {
+      "kind": "section",
+      "label": "753.21",
+      "number": "753.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-753.21"
+    },
+    {
+      "kind": "section",
+      "label": "3311.77",
+      "number": "3311.77",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3311.77"
+    },
+    {
+      "kind": "section",
+      "label": "3319.08",
+      "number": "3319.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3319.08"
+    },
+    {
+      "kind": "section",
+      "label": "3319.22",
+      "number": "3319.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3319.22"
+    },
+    {
+      "kind": "section",
+      "label": "3319.311",
+      "number": "3319.311",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3319.311"
+    },
+    {
+      "kind": "section",
+      "label": "3301.07",
+      "number": "3301.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3301.07"
+    },
+    {
+      "kind": "section",
+      "label": "3301.071",
+      "number": "3301.071",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3301.071"
+    },
+    {
+      "kind": "section",
+      "label": "2929.01",
+      "number": "2929.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2929.01"
+    },
+    {
+      "kind": "section",
+      "label": "2967.27",
+      "number": "2967.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2967.27"
+    },
+    {
+      "kind": "section",
+      "label": "2967.01",
+      "number": "2967.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2967.01"
+    },
+    {
+      "kind": "section",
+      "label": "2305.234",
+      "number": "2305.234",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.234"
+    },
+    {
+      "kind": "section",
+      "label": "2903.01",
+      "number": "2903.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2903.01"
+    },
+    {
+      "kind": "section",
+      "label": "2903.02",
+      "number": "2903.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2903.02"
+    },
+    {
+      "kind": "section",
+      "label": "2903.03",
+      "number": "2903.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2903.03"
+    },
+    {
+      "kind": "section",
+      "label": "2903.04",
+      "number": "2903.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2903.04"
+    },
+    {
+      "kind": "section",
+      "label": "2903.041",
+      "number": "2903.041",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2903.041"
+    },
+    {
+      "kind": "section",
+      "label": "2903.12",
+      "number": "2903.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2903.12"
+    },
+    {
+      "kind": "section",
+      "label": "2903.14",
+      "number": "2903.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2903.14"
+    },
+    {
+      "kind": "section",
+      "label": "3701.01",
+      "number": "3701.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3701.01"
+    },
+    {
+      "kind": "section",
+      "label": "4723.32",
+      "number": "4723.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.32"
+    },
+    {
+      "kind": "section",
+      "label": "3727.01",
+      "number": "3727.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3727.01"
+    },
+    {
+      "kind": "section",
+      "label": "146.01",
+      "number": "146.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-146.01"
+    }
+  ],
+  "scraped": "2026-07-02T19:45:59+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2903.13",
+  "title": "Section 2903.13 - Assault."
+}

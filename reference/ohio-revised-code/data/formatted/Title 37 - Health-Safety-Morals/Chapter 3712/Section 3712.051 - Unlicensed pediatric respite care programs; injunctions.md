@@ -1,0 +1,36 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3712.051
+Scraped: 2026-07-02T19:51:16+00:00
+
+# Section 3712.051 - Unlicensed pediatric respite care programs; injunctions.
+
+**Effective:** September 29, 2013
+
+**Latest Legislation:** House Bill 59 - 130th General Assembly
+
+(A) As used in this division, "person" does not include a member of an interdisciplinary team, as defined in section 3712.01 of the Revised Code, or any individual who is employed by a person or public agency licensed under section 3712.041 of the Revised Code.
+
+Except as provided in division (B) of this section, no person or public agency, other than a person or public agency licensed pursuant to section 3712.041 of the Revised Code, shall hold itself out as providing a pediatric respite care program, or provide a pediatric respite care program, or use the term "pediatric respite care program" or any term containing "pediatric respite care" to describe or refer to a health program, facility, or agency.
+
+(B) Division (A) of this section does not apply to any of the following:
+
+(1) A hospital;
+
+(2) A nursing home or residential care facility, as those terms are defined in section 3721.01 of the Revised Code;
+
+(3) A home health agency, if it provides services under contract with a person or public agency providing a pediatric respite care program licensed under section 3712.041 of the Revised Code;
+
+(4) A regional, state, or national nonprofit organization whose members are providers of pediatric respite care programs, individuals interested in pediatric respite care programs, or both, as long as the organization does not provide or represent that it provides pediatric respite care programs;
+
+(5) A person or government entity certified under section 5123.161 of the Revised Code as a supported living provider;
+
+(6) A residential facility licensed under section 5123.19 of the Revised Code;
+
+(7) A respite care home certified under section 5126.05 of the Revised Code;
+
+(8) A person providing respite care under a family support services program established under section 5126.11 of the Revised Code;
+
+(9) A person or government entity providing respite care under a medicaid waiver component that the department of developmental disabilities administers pursuant to section 5166.21 of the Revised Code.
+
+(C) The department of health shall petition the court of common pleas of any county in which a person or public agency, without a license granted under section 3712.041 of the Revised Code, is holding itself out as providing a pediatric respite care program, is providing a pediatric respite care program, or is representing a health program, facility, or agency as a pediatric respite care program, for an order enjoining that person or public agency from conducting those activities without a license. The court has jurisdiction to grant injunctive relief upon a showing that the respondent named in the petition is conducting those activities without a license.
+
+Any person or public agency may request the department to petition the court for injunctive relief under this division, and the department shall do so if it determines that the person or public agency named in the request is violating division (A) of this section.

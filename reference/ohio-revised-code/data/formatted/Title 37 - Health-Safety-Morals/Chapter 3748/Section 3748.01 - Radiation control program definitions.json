@@ -1,0 +1,294 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Byproduct material\" means either of the following:\n\n(1) Any radioactive material, except special nuclear material, yielded in or made radioactive by exposure to radiation incident to the process of producing or utilizing special nuclear material;\n\n(2) The tailings or wastes produced by the extraction or concentration of uranium or thorium from any ore processed primarily for its source material content.",
+      "id": "3748.01-byproduct-material",
+      "normalized": "byproduct material",
+      "scope": "As used in this chapter:",
+      "section": "3748.01",
+      "source_title": "Section 3748.01 - Radiation control program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3748.01",
+      "term": "Byproduct material"
+    },
+    {
+      "definition": "(B) \"Certified radiation expert\" means an individual who has complied with all of the following:\n\n(1) Applied to the director of health for certification as a radiation expert under section 3748.12 of the Revised Code;\n\n(2) Met minimum education and experience requirements established in rules adopted under division (C) of section 3748.04 of the Revised Code;\n\n(3) Been granted a certificate as a radiation expert by the director under section 3748.12 of the Revised Code.\n\n(C) \"Closure\" or \"site closure\" refers to a facility for the disposal of low-level radioactive waste or a byproduct material site, as \"byproduct material\" is defined in division (A)(2) of this section, and means all activities performed at a licensed operation, such as stabilization and contouring, to ensure that the site where the operation occurred is in a stable condition so that only minor custodial care, surveillance, and monitoring are necessary at the site following the termination of the licensed operation.",
+      "id": "3748.01-certified-radiation-expert",
+      "normalized": "certified radiation expert",
+      "scope": "As used in this chapter:",
+      "section": "3748.01",
+      "source_title": "Section 3748.01 - Radiation control program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3748.01",
+      "term": "Certified radiation expert"
+    },
+    {
+      "definition": "(D) \"Decommissioning\" means to safely remove any licensed operation from service and reduce residual radioactivity to a level that permits release of the licensee's property for unrestricted use. With regard to a facility for the disposal of low-level radioactive waste or a byproduct material site, as \"byproduct material\" is defined in division (A)(2) of this section, \"decommissioning\" does not include the reduction of residual radioactivity to a level that permits release of the facility for unrestricted use.",
+      "id": "3748.01-decommissioning",
+      "normalized": "decommissioning",
+      "scope": "As used in this chapter:",
+      "section": "3748.01",
+      "source_title": "Section 3748.01 - Radiation control program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3748.01",
+      "term": "Decommissioning"
+    },
+    {
+      "definition": "(E) \"Director of health\" includes a designee or authorized representative of the director.\n\n(F) \"Disposal,\" with regard to low-level radioactive waste, means the permanent isolation of that waste in accordance with requirements established by the United States nuclear regulatory commission or the licensing agreement state.",
+      "id": "3748.01-director-of-health",
+      "normalized": "director of health",
+      "scope": "As used in this chapter:",
+      "section": "3748.01",
+      "source_title": "Section 3748.01 - Radiation control program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3748.01",
+      "term": "Director of health"
+    },
+    {
+      "definition": "(G) \"Disposal site\" means that portion of a facility that is used for the disposal of low-level radioactive waste and that consists of disposal units and a buffer zone. \"Disposal unit\" means a discrete portion of such a facility into which low-level radioactive waste is placed for disposal.",
+      "id": "3748.01-disposal-site",
+      "normalized": "disposal site",
+      "scope": "As used in this chapter:",
+      "section": "3748.01",
+      "source_title": "Section 3748.01 - Radiation control program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3748.01",
+      "term": "Disposal site"
+    },
+    {
+      "definition": "(H)(1) Except as provided in division (H)(2) of this section, \"facility\" means the state, any political subdivision, person, public or private institution, or group, or any unit of one of those entities, but does not include the federal government or any of its agencies.",
+      "id": "3748.01-facility",
+      "normalized": "facility",
+      "scope": "As used in this chapter:",
+      "section": "3748.01",
+      "source_title": "Section 3748.01 - Radiation control program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3748.01",
+      "term": "facility"
+    },
+    {
+      "definition": "(2) For the purposes of the disposal of low-level radioactive waste, \"facility\" has the same meaning as in section 3747.01 of the Revised Code.",
+      "id": "3748.01-facility",
+      "normalized": "facility",
+      "scope": "As used in this chapter:",
+      "section": "3748.01",
+      "source_title": "Section 3748.01 - Radiation control program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3748.01",
+      "term": "facility"
+    },
+    {
+      "definition": "(I) \"Handle\" means receive, possess, use, store, transfer, install, service, or dispose of sources of radiation unless possession is solely for the purpose of transportation.",
+      "id": "3748.01-handle",
+      "normalized": "handle",
+      "scope": "As used in this chapter:",
+      "section": "3748.01",
+      "source_title": "Section 3748.01 - Radiation control program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3748.01",
+      "term": "Handle"
+    },
+    {
+      "definition": "(J) \"Handler\" means a facility that handles sources of radiation unless possession is solely for the purpose of transportation.",
+      "id": "3748.01-handler",
+      "normalized": "handler",
+      "scope": "As used in this chapter:",
+      "section": "3748.01",
+      "source_title": "Section 3748.01 - Radiation control program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3748.01",
+      "term": "Handler"
+    },
+    {
+      "definition": "(K) \"Inspection\" means an official review, examination, or observation, including, without limitation, tests, surveys, and monitoring, that is used to determine compliance with rules, orders, requirements, and conditions of the department of health and that is conducted by the director of health.",
+      "id": "3748.01-inspection",
+      "normalized": "inspection",
+      "scope": "As used in this chapter:",
+      "section": "3748.01",
+      "source_title": "Section 3748.01 - Radiation control program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3748.01",
+      "term": "Inspection"
+    },
+    {
+      "definition": "(L) \"Low-level radioactive waste\" has the same meaning as in section 3747.01 of the Revised Code with regard to the disposal of low-level radioactive waste. In regard to regulatory control at locations other than a disposal facility, \"low-level radioactive waste\" has the same meaning as in 42 U.S.C.A. 2021b.",
+      "id": "3748.01-low-level-radioactive-waste",
+      "normalized": "low-level radioactive waste",
+      "scope": "As used in this chapter:",
+      "section": "3748.01",
+      "source_title": "Section 3748.01 - Radiation control program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3748.01",
+      "term": "Low-level radioactive waste"
+    },
+    {
+      "definition": "(M) \"Quality assurance program\" means a program providing for verification by written procedures such as testing, auditing, and inspection to ensure that deficiencies, deviations, defective equipment, or unsafe practices, or a combination thereof, relating to the use, disposal, management, or manufacture of radiation sources are identified, promptly corrected, and reported to the appropriate regulatory authorities.",
+      "id": "3748.01-quality-assurance-program",
+      "normalized": "quality assurance program",
+      "scope": "As used in this chapter:",
+      "section": "3748.01",
+      "source_title": "Section 3748.01 - Radiation control program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3748.01",
+      "term": "Quality assurance program"
+    },
+    {
+      "definition": "(N) \"Radiation\" means ionizing and nonionizing radiation.",
+      "id": "3748.01-radiation",
+      "normalized": "radiation",
+      "scope": "As used in this chapter:",
+      "section": "3748.01",
+      "source_title": "Section 3748.01 - Radiation control program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3748.01",
+      "term": "Radiation"
+    },
+    {
+      "definition": "(1) \"Ionizing radiation\" means gamma rays and X-rays, alpha and beta particles, high-speed electrons, neutrons, protons, and other nuclear particles, but does not include sound or radio waves or visible, infrared, or ultraviolet light.",
+      "id": "3748.01-ionizing-radiation",
+      "normalized": "ionizing radiation",
+      "scope": "As used in this chapter:",
+      "section": "3748.01",
+      "source_title": "Section 3748.01 - Radiation control program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3748.01",
+      "term": "Ionizing radiation"
+    },
+    {
+      "definition": "(2) \"Nonionizing radiation\" means any electromagnetic radiation, other than ionizing electromagnetic radiation, or any sonic, ultrasonic, or infrasonic wave.",
+      "id": "3748.01-nonionizing-radiation",
+      "normalized": "nonionizing radiation",
+      "scope": "As used in this chapter:",
+      "section": "3748.01",
+      "source_title": "Section 3748.01 - Radiation control program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3748.01",
+      "term": "Nonionizing radiation"
+    },
+    {
+      "definition": "(O) \"Radioactive material\" means any solid, liquid, or gaseous material that emits ionizing radiation spontaneously. \"Radioactive material\" includes accelerator-produced and naturally occurring materials and byproduct, source, and special nuclear material.",
+      "id": "3748.01-radioactive-material",
+      "normalized": "radioactive material",
+      "scope": "As used in this chapter:",
+      "section": "3748.01",
+      "source_title": "Section 3748.01 - Radiation control program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3748.01",
+      "term": "Radioactive material"
+    },
+    {
+      "definition": "(P) \"Radiation-generating equipment\" means any manufactured product or device, or component of such a product or device, or any machine or system that during operation can generate or emit radiation, except those that emit radiation only from radioactive material. \"Radiation-generating equipment\" does not include either of the following:\n\n(1) Diathermy machines;\n\n(2) Microwave ovens, including food service microwave ovens used for commercial and industrial uses, television receivers, electric lamps, and other household appliances and products that generate very low levels of radiation.",
+      "id": "3748.01-radiation-generating-equipment",
+      "normalized": "radiation-generating equipment",
+      "scope": "As used in this chapter:",
+      "section": "3748.01",
+      "source_title": "Section 3748.01 - Radiation control program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3748.01",
+      "term": "Radiation-generating equipment"
+    },
+    {
+      "definition": "(Q) \"Source material\" means uranium, thorium, or any combination thereof in any physical or chemical form, or any ores that contain by weight at least one-twentieth of one per cent of uranium, thorium, or any combination thereof. \"Source material\" does not include special nuclear material.",
+      "id": "3748.01-source-material",
+      "normalized": "source material",
+      "scope": "As used in this chapter:",
+      "section": "3748.01",
+      "source_title": "Section 3748.01 - Radiation control program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3748.01",
+      "term": "Source material"
+    },
+    {
+      "definition": "(R) \"Source of radiation\" means radioactive material or radiation-generating equipment.",
+      "id": "3748.01-source-of-radiation",
+      "normalized": "source of radiation",
+      "scope": "As used in this chapter:",
+      "section": "3748.01",
+      "source_title": "Section 3748.01 - Radiation control program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3748.01",
+      "term": "Source of radiation"
+    },
+    {
+      "definition": "(S) \"Special nuclear material\" means either of the following:\n\n(1) Plutonium, uranium 233, uranium enriched in the isotope 233 or in the isotope 235, and any other material that the United States nuclear regulatory commission determines to be special nuclear material, but does not include source material pursuant to section 51 of the \"Atomic Energy Act of 1954,\" 68 Stat. 919, 42 U.S.C.A. 2071.\n\n(2) Except for any source material, any material artificially enriched by any of the materials identified in division (S)(1) of this section.",
+      "id": "3748.01-special-nuclear-material",
+      "normalized": "special nuclear material",
+      "scope": "As used in this chapter:",
+      "section": "3748.01",
+      "source_title": "Section 3748.01 - Radiation control program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3748.01",
+      "term": "Special nuclear material"
+    },
+    {
+      "definition": "(T) \"Storage\" means the retention of radioactive materials, including low-level radioactive waste, prior to disposal in a manner that allows for surveillance, control, and subsequent retrieval.",
+      "id": "3748.01-storage",
+      "normalized": "storage",
+      "scope": "As used in this chapter:",
+      "section": "3748.01",
+      "source_title": "Section 3748.01 - Radiation control program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3748.01",
+      "term": "Storage"
+    },
+    {
+      "definition": "(U) \"Medical practitioner\" means a person who is authorized pursuant to Chapter 4715. of the Revised Code to practice dentistry; pursuant to Chapter 4731. of the Revised Code to practice medicine and surgery, osteopathic medicine and surgery, or podiatric medicine and surgery; or pursuant to Chapter 4734. of the Revised Code to practice chiropractic.",
+      "id": "3748.01-medical-practitioner",
+      "normalized": "medical practitioner",
+      "scope": "As used in this chapter:",
+      "section": "3748.01",
+      "source_title": "Section 3748.01 - Radiation control program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3748.01",
+      "term": "Medical practitioner"
+    },
+    {
+      "definition": "(V) \"Medical-practitioner group\" means a corporation, partnership, or other business entity, other than a hospital as defined in section 3727.01 of the Revised Code, consisting of medical practitioners.",
+      "id": "3748.01-medical-practitioner-group",
+      "normalized": "medical-practitioner group",
+      "scope": "As used in this chapter:",
+      "section": "3748.01",
+      "source_title": "Section 3748.01 - Radiation control program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3748.01",
+      "term": "Medical-practitioner group"
+    },
+    {
+      "definition": "(W) \"Naturally occurring radioactive material\" means material that contains any nuclide that is radioactive in its natural physical state. \"Naturally occurring radioactive material\" does not include source material, byproduct material, or special nuclear material.",
+      "id": "3748.01-naturally-occurring-radioactive-material",
+      "normalized": "naturally occurring radioactive material",
+      "scope": "As used in this chapter:",
+      "section": "3748.01",
+      "source_title": "Section 3748.01 - Radiation control program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3748.01",
+      "term": "Naturally occurring radioactive material"
+    },
+    {
+      "definition": "(X) \"Technologically enhanced naturally occurring radioactive material\" means naturally occurring radioactive material with radionuclide concentrations that are increased by or as a result of past or present human activities. \"Technologically enhanced naturally occurring radioactive material\" does not include drill cuttings, natural background radiation, byproduct material, or source material.",
+      "id": "3748.01-technologically-enhanced-naturally-occurring-radioactive-material",
+      "normalized": "technologically enhanced naturally occurring radioactive material",
+      "scope": "As used in this chapter:",
+      "section": "3748.01",
+      "source_title": "Section 3748.01 - Radiation control program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3748.01",
+      "term": "Technologically enhanced naturally occurring radioactive material"
+    },
+    {
+      "definition": "(Y) \"Drill cuttings\" means the soil, rock fragments, and pulverized material that are removed from a borehole and that may include a de minimus amount of fluid that results from a drilling process.",
+      "id": "3748.01-drill-cuttings",
+      "normalized": "drill cuttings",
+      "scope": "As used in this chapter:",
+      "section": "3748.01",
+      "source_title": "Section 3748.01 - Radiation control program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3748.01",
+      "term": "Drill cuttings"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3748.12",
+      "number": "3748.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3748.12"
+    },
+    {
+      "kind": "section",
+      "label": "3748.04",
+      "number": "3748.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3748.04"
+    },
+    {
+      "kind": "section",
+      "label": "3747.01",
+      "number": "3747.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3747.01"
+    },
+    {
+      "kind": "section",
+      "label": "3727.01",
+      "number": "3727.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3727.01"
+    }
+  ],
+  "scraped": "2026-07-02T20:01:03+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3748.01",
+  "title": "Section 3748.01 - Radiation control program definitions."
+}

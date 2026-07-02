@@ -1,0 +1,54 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Criminal records check\" has the same meaning as in section 109.572 of the Revised Code.",
+      "id": "113.041-criminal-records-check",
+      "normalized": "criminal records check",
+      "scope": "(G) As used in this section:",
+      "section": "113.041",
+      "source_title": "Section 113.041 - Employee criminal records check.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-113.041",
+      "term": "Criminal records check"
+    },
+    {
+      "definition": "(2) \"Public official\" has the same meaning as in section 2921.01 of the Revised Code.",
+      "id": "113.041-public-official",
+      "normalized": "public official",
+      "scope": "(G) As used in this section:",
+      "section": "113.041",
+      "source_title": "Section 113.041 - Employee criminal records check.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-113.041",
+      "term": "Public official"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "109.572",
+      "number": "109.572",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.572"
+    },
+    {
+      "kind": "section",
+      "label": "109.571",
+      "number": "109.571",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.571"
+    },
+    {
+      "kind": "section",
+      "label": "149.43",
+      "number": "149.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.43"
+    },
+    {
+      "kind": "section",
+      "label": "2921.01",
+      "number": "2921.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2921.01"
+    }
+  ],
+  "scraped": "2026-07-02T19:31:30+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-113.041",
+  "title": "Section 113.041 - Employee criminal records check."
+}

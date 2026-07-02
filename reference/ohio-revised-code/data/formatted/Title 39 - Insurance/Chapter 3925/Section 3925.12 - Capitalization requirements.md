@@ -1,0 +1,22 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3925.12
+Scraped: 2026-07-02T20:02:52+00:00
+
+# Section 3925.12 - Capitalization requirements.
+
+**Effective:** August 8, 1991
+
+**Latest Legislation:** Senate Bill 137 - 119th General Assembly
+
+(A)(1) Except as otherwise provided in Title XXXIX of the Revised Code, no mutual insurance company shall be incorporated under the laws of this state until the superintendent of insurance has certified to the secretary of state that a sum has been escrowed with a bank or trust company by the incorporators under their plan of incorporation sufficient to meet a minimum of two hundred fifty thousand dollars contributed surplus. Upon organization, filing of rates, and evidence that the officers of the company are experienced in insurance company management, the superintendent shall issue a certificate of authority conditioned upon the company obtaining a final capitalization of not less than the applicable surplus set forth in section 3929.011 of the Revised Code before commencing the business of insurance.
+
+(2)(a) Except as otherwise provided in Title XXXIX of the Revised Code, no stock insurance company shall be incorporated under the laws of this state until the superintendent has certified to the secretary of state that a sum has been escrowed with a bank or trust company by the incorporators under their plan of incorporation sufficient to meet a minimum of one hundred thousand dollars paid-in-capital and one hundred fifty thousand dollars contributed surplus. Upon organization, filing of rates, and evidence that the officers of the company are experienced in insurance company management, the superintendent shall issue a certificate of authority conditioned upon the company obtaining a final capitalization of not less than the applicable capital and surplus set forth in section 3929.011 of the Revised Code before commencing the business of insurance.
+
+(b) Each stock company shall establish for the benefit of stockholders a second escrow account with a bank or trust company into which shall be deposited all proceeds of any offer of its securities necessary to equal or exceed the applicable capital and surplus set forth in section 3929.011 of the Revised Code. The cost of registration, printing, promotion, and all other expenses incident to an offer of securities shall be paid from the initial escrow account of two hundred fifty thousand dollars capitalization established prior to incorporation.
+
+Upon receipt of evidence that the combined net deposits of both escrow accounts equal or exceed the applicable capital and surplus set forth in section 3929.011 of the Revised Code, the superintendent shall order the escrowed funds released to the company which may then commence the business of insurance.
+
+(B)(1) No title insurance company shall be incorporated under the laws of this state until the superintendent has certified to the secretary of state that a sum has been escrowed with a bank or trust company by the incorporators under their plan of incorporation sufficient to meet a minimum of thirty thousand dollars paid-in-capital and forty-five thousand dollars contributed surplus. Upon organization, filing of rates, and evidence that the officers of the company are experienced in insurance company management, the superintendent shall issue a certificate of authority conditioned upon the company obtaining a final capitalization of at least one hundred twenty thousand dollars paid-in-capital and one hundred eighty thousand dollars contributed surplus before commencing the business of insurance.
+
+(2) The company shall establish for the benefit of stockholders a second escrow account with a bank or trust company into which shall be deposited all proceeds of any offer of its securities necessary to equal or exceed one hundred twenty thousand dollars paid-in-capital and one hundred eighty thousand dollars contributed surplus. The cost of registration, printing, promotion, and all other expenses incident to an offer of securities shall be paid from the initial escrow account of seventy-five thousand dollars capitalization established prior to incorporation.
+
+Upon receipt of evidence that the combined net deposits of both escrow accounts equal or exceed one hundred twenty thousand dollars paid-in-capital and one hundred eighty thousand dollars contributed surplus, the superintendent shall order the escrowed funds released to the company which may then commence the business of insurance.

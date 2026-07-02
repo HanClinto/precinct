@@ -1,0 +1,12 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-735.16
+Scraped: 2026-07-02T19:33:33+00:00
+
+# Section 735.16 - Commission to construct, rebuild, and combine public utilities.
+
+**Effective:** October 1, 1953
+
+**Latest Legislation:** House Bill 1 - 100th General Assembly
+
+When a city has in contemplation the construction or rebuilding of a public hall, municipal water-works system, municipal electric lighting system, or the rebuilding in whole or in part and combining of a municipal water-works system and a municipal electric lighting system, the mayor of such city may appoint a commission consisting of the mayor, the director of public service, and three electors of the city, subject to the approval of the board of control of such city. Such commissioners may, in the name of the city, contract for and supervise the building, or rebuilding and furnishing of such city hall, or the building, rebuilding, furnishing, and equipping of such municipal water-works system or municipal electric lighting system, or the rebuilding in whole or in part and combining of such municipal water-works system with a municipal electric lighting system, and subject to like approval, may acquire the necessary lands for such purpose, either by purchase or appropriation, in the name of the city. The commission shall adopt plans and specifications for erecting, building, and furnishing such public hall, or for the building, furnishing, and equipping of such municipal water-works system, municipal electric lighting system, or rebuilding the same, or for the rebuilding in whole or in part and combining of a municipal water-works system, with a municipal electric lighting system.
+
+Such commission may appoint a secretary and other necessary employees, and, subject to the approval of the legislative authority of the city, fix their compensation. The commission shall serve without compensation. The expenses of the commission shall be paid in the same manner as the cost of such public hall or public utilities. Except as provided in this section, the making of and terms of all contracts for the construction, furnishing, and equipping of such public hall, municipal water-works system, municipal electric lighting system, or the rebuilding in whole or in part and combining of any municipal water-works system with a municipal electric lighting system, shall be governed by the laws relating to public buildings in cities.

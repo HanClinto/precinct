@@ -1,0 +1,18 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4951.36
+Scraped: 2026-07-02T20:09:44+00:00
+
+# Section 4951.36 - Changes and removals.
+
+**Effective:** October 1, 1953
+
+**Latest Legislation:** House Bill 1 - 100th General Assembly
+
+The legislative authority of a city may grant to the company operating an elevated or underground railroad the right to move, change, elevate, depress, relocate, and reconstruct at its sole expense any sewer, sewer connection, catch basin, water pipe, water connection, natural or artificial gas pipes or connections, hydrants, conduits, pipes, wires, street railway tracks and appliances, poles, whether for street railway, electric lighting, heating, power, telegraph, telephone, signal service, or any other purpose, or any other obstruction, which may be encountered in the construction of the underground railroad. Such company shall before so proceeding file with the director of public service of the city detailed plans and specifications for all of said work.
+
+No such work shall be commenced unless such plans and specifications have been approved by the director, after notice and hearing, and unless such company files with the director a bond in such amount and with such sureties as the director determines, conditioned to indemnify and save harmless the owners of any such sewer, sewer connection, catch basin, water pipe, water connection, natural or artificial gas pipes or connections, hydrants, pipes, wires, conduits, poles, or street railway tracks or appliances, and the owners of any other property situated in, on, under, or near any such road, street, alley, way, or public ground, from all cost and expense of such work and damages resulting from injuries done by such work.
+
+The director may change, modify, or reject any such plans or specifications and such work of construction shall be performed under his supervision and control.
+
+If such plans and specifications locate any sewer, sewer connection, catch basin, water pipe, water connection, natural or artificial gas pipe or connection, hydrants, pipes, wires, conduits, or any other structures within the gallery, subway, or tunnel of such underground railroad, the owners of the same shall be entitled to use such space within such gallery, subway, or tunnel without compensation for such use and occupancy, except a reasonable charge to defray the actual cost of maintenance. If any such sewer, pipe, conduit, or other conductor is of greater capacity than that existing prior to the construction of such underground railroad, the underground railroad shall be entitled to charge for the increased capacity of such conductor and not otherwise.
+
+All cost, damage, and expense incidental to the work of removing, supporting, readjusting, and reconstructing any such sewer, sewer connection, catch basin, water pipe, water connection, natural or artificial gas pipes or connections, hydrants, pipes, wires, conduits, poles, street railway tracks or appliances, or other structures, and all cost of supervision by the city shall be paid for by the company operating such elevated or underground railroad. Sections 4951.35 to 4951.38 , inclusive, of the Revised Code do not authorize the permanent removal or exclusion from any such road, street, alley, way, or ground of any such sewer, sewer connection, catch basin, water pipe, water connection, natural or artificial gas pipe or connections, hydrants, pipes, wires, conduits, poles, street railway tracks or appliances, and other structures, authorized to be located therein, except when suitable facilities for such services have been otherwise provided for, or to prevent the practical construction, repair, operation, and use of the same.

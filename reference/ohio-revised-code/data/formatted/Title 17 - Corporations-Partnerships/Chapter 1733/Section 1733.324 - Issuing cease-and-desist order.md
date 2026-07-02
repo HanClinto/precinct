@@ -1,0 +1,36 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-1733.324
+Scraped: 2026-07-02T19:39:24+00:00
+
+# Section 1733.324 - Issuing cease-and-desist order.
+
+**Effective:** July 14, 1987
+
+**Latest Legislation:** Senate Bill 149 - 117th General Assembly
+
+(A)(1) If, in the opinion of the superintendent of credit unions, a credit union or a regulated individual is engaged in any unsafe or unsound practice in conducting the business of the credit union, has knowingly participated in or consented to a violation of this chapter or rules adopted thereunder, or has failed to comply with a supervisory agreement, he may serve upon such credit union or regulated individual notice that he is considering issuing an order against the credit union or regulated individual pursuant to division (A)(2) or (3) of this section.
+
+(2) A notice served under division (A)(1) of this section that relates to matters other than an alleged violation of a supervisory agreement shall contain a statement of the alleged facts constituting the basis for an order and fix a time and place for a hearing. The hearing shall be conducted in accordance with section 119.09 of the Revised Code, except that, notwithstanding division (E) of section 119.01 of the Revised Code, the hearing shall not be a public hearing. The date for the hearing shall be not less than thirty nor more than forty-five days after such notice has been given by the superintendent to the credit union or regulated individual.
+
+If, after conducting such hearing, the superintendent determines that the credit union or regulated individual is or has knowingly participated in or consented to a violation of this chapter, or engaged in an unsafe or unsound practice, he may issue a final cease-and-desist order. Such final cease-and-desist order may direct the credit union or regulated individual to remedy the violation of this chapter, the unsafe or unsound practice, or the failure to comply, in addition to refraining from such violations or unsafe or unsound practices in the future.
+
+Such final order becomes effective upon service on the credit union or regulated individual and remains effective and enforceable as its terms provide, except to such extent as it is stayed, modified, terminated, or set aside by action of the superintendent or a reviewing court.
+
+(3) If the superintendent proposes to issue a cease-and-desist order based on the violation of a supervisory agreement, he shall serve the credit union or regulated individual with a notice of noncompliance. Such notice shall specify the actions that are alleged to be in violation of the supervisory agreement. The notice shall also set a time and place for a hearing, which shall occur not less than thirty nor more than forty-five days after the notice has been served on the credit union or regulated individual. The hearing shall be conducted in the manner prescribed in section 119.09 of the Revised Code, except that, notwithstanding division (E) of section 119.01 of the Revised Code, such hearing shall not be a public hearing.
+
+If, after such hearing, the superintendent determines that the credit union or regulated individual has knowingly violated the supervisory agreement, he may issue a final cease-and-desist order.
+
+If, after such hearing, the superintendent determines that the credit union or regulated individual has violated the supervisory agreement but that the conduct in question does not constitute a knowing violation, the superintendent shall give the credit union or regulated individual an opportunity to remedy the violation. The superintendent shall issue a statement of specific actions that must be taken by the credit union or regulated individual, and establish a time frame in which the credit union or regulated individual must take such corrective action to comply with the supervisory agreement. If, by the end of such time frame, the credit union or regulated individual has failed to implement the corrective actions required by the superintendent, the superintendent may issue a final cease-and-desist order.
+
+Nothing in this division shall be construed to prevent the superintendent from issuing a cease-and-desist order pursuant to divisions (A)(1) and (2) of this section or division (B) of this section based on the violation of Chapter 1733. of the Revised Code, or on an unsafe or unsound practice of the credit union or regulated individual, even though such violation or practice may also constitute a violation of an outstanding supervisory agreement.
+
+(B) If, in the opinion of the superintendent, a credit union or regulated individual is or has engaged in any unsafe or unsound practice, or has participated in or consented to a violation of this chapter or rules adopted thereunder, he may issue a summary order requiring the credit union or regulated individual to cease and desist from such violation or practice.
+
+The summary cease-and-desist order, which shall contain a statement of the facts allegedly constituting grounds for the order, shall be served upon the credit union or regulated individual and becomes effective upon receipt. The summary order shall include notification of the time and place of a hearing, which shall be held in accordance with division (A)(2) of this section. Unless the superintendent issues a final cease-and-desist order within ten days after conclusion of the hearing, the summary order issued pursuant to this division is void. Otherwise, the summary order remains effective and enforceable until it is replaced by the final order, except to such extent as it is stayed, modified, terminated, or set aside by action of the superintendent.
+
+(C) A credit union or regulated individual who is adversely affected by a final cease-and-desist order may appeal from the order to the court of common pleas in accordance with section 119.12 of the Revised Code.
+
+(D) In lieu of a hearing pursuant to division (A) or (B) of this section, a credit union or regulated individual may consent to the issuance of an order requiring such credit union or regulated individual to cease and desist from engaging in any activity or practice as specified in such order. A consent cease-and-desist order has the full force and effect of a final cease-and-desist order issued pursuant to division (A)(2) of this section and is enforceable in accordance with division (E) of this section. Any credit union or regulated individual that fails to attend a hearing set pursuant to division (A) or (B) of this section is deemed to have consented to the issuance of a final cease-and-desist order.
+
+(E) If the superintendent has reasonable cause to believe that a lawful final or summary cease-and-desist order issued pursuant to this section has been violated, he may request the attorney general to commence and prosecute any appropriate action or proceeding. A court of competent jurisdiction shall enforce a lawful final order issued pursuant to this section and may grant such other relief as the facts warrant.
+
+(F) Service on a credit union or regulated individual as provided for in this section shall be by actual written notice or certified mail to the regulated individual or, in the case of a credit union, to the managing officer of such credit union.

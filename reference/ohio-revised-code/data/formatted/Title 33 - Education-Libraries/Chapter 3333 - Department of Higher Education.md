@@ -1,0 +1,160 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-3333
+Scraped: 2026-07-02T19:49:28+00:00
+
+# Chapter 3333 - Department of Higher Education
+
+## Sections
+
+- Section 3333.01 - [Former R.C. 3333.03, renumbered by H.B. 33, 135th General Assembly, effective 10/3/2023] Department of higher education; chancellor of higher education.
+- Section 3333.012 - References to Ohio board of regents, chancellor.
+- Section 3333.021 - Filing fiscal analysis with proposed rules.
+- Section 3333.032 - Chancellor's annual report on condition of higher education.
+- Section 3333.04 - Chancellor - powers and duties.
+- Section 3333.041 - Annual reports.
+- Section 3333.042 - Grants for nonprofit entity that provides aerospace research, education and technology.
+- Section 3333.043 - Community service programs.
+- Section 3333.044 - Contracting with consultants - liability insurance.
+- Section 3333.045 - Board of trustees training.
+- Section 3333.046 - Exempting certain programs from regulation as proprietary schools.
+- Section 3333.047 - Student financial aid program audits.
+- Section 3333.048 - Educator preparation; Metrics and programs.
+- Section 3333.049 - Reading endorsement programs; instruction in computer science and computational thinking.
+- Section 3333.0410 - Use the student's data verification code required.
+- Section 3333.0411 - Reports for teacher preparation programs.
+- Section 3333.0412 - Private university exempt from liability for certain breach of confidentiality.
+- Section 3333.0413 - Inventory of education programs focusing on workforce development and training.
+- Section 3333.0414 - Opioid and other substance abuse prevention instruction.
+- Section 3333.0415 - Degree and credential performance targets.
+- Section 3333.0416 - Investigation of fees charged by state institutions.
+- Section 3333.0417 - Statewide educational plan for preventing hazing.
+- Section 3333.0418 - Mental health and wellness report.
+- Section 3333.0419 - Educator preparation program survey.
+- Section 3333.0420 - Online program manager contracts.
+- Section 3333.05 - Chancellor to approve plans and charter of community colleges.
+- Section 3333.051 - Applied bachelor's and nursing bachelor's degree programs at two-year institutions.
+- Section 3333.052 - Community college acceleration program.
+- Section 3333.053 - Eastern gateway community college records.
+- Section 3333.06 - State plan - federal grants.
+- Section 3333.07 - Restrictions on state institutions.
+- Section 3333.071 - Restricting expenditures for land or capital improvements.
+- Section 3333.073 - Program viability analysis.
+- Section 3333.074 - Annual reporting requirements.
+- Section 3333.08 - Appropriating property.
+- Section 3333.09 - Conveyances - lease-back agreements.
+- Section 3333.10 - Granting aid to nonprofit medical, osteopathic and dental schools.
+- Section 3333.11 - Department of family practice.
+- Section 3333.111 - Department or office of geriatric medicine.
+- Section 3333.121 - State financial aid reconciliation fund.
+- Section 3333.122 - Ohio college opportunity grant program.
+- Section 3333.123 - Ohio college opportunity grant program - funding preferences and priorities.
+- Section 3333.124 - Ohio college opportunity grant program reserve fund.
+- Section 3333.125 - Commercial truck driver student aid program.
+- Section 3333.126 - Supplemental Ohio college opportunity grants.
+- Section 3333.127 - Second chance grant program.
+- Section 3333.128 - Grants for students who are adopted.
+- Section 3333.129 - "Teach CS" grant program.
+- Section 3333.1210 - Governor's merit scholarship residency commitment.
+- Section 3333.13 - Service attorney definition.
+- Section 3333.131 - Rural practice incentive program.
+- Section 3333.132 - Underserved community designation.
+- Section 3333.133 - Eligibility and application.
+- Section 3333.134 - Program acceptance and placement.
+- Section 3333.135 - Program contract.
+- Section 3333.136 - Underserved community fund and rural practice incentive fund.
+- Section 3333.137 - Program rules.
+- Section 3333.14 - Public post high school technical education programs.
+- Section 3333.15 - Establishment of university branch by chancellor.
+- Section 3333.16 - Universal course equivalency classification system for state institutions of higher education.
+- Section 3333.161 - Statewide system for articulation agreements among state institutions of higher education for transfer students pursuing teacher education programs.
+- Section 3333.162 - Criteria, policies, and procedures for transfer of courses.
+- Section 3333.163 - Standards for college credit based on advanced placement test scores.
+- Section 3333.164 - College credit for military training, experience, and coursework.
+- Section 3333.165 - Annual report.
+- Section 3333.166 - Transfer of credits.
+- Section 3333.168 - Guaranteed transfer pathways; joint academic programming; dual enrollment.
+- Section 3333.17 - Reciprocal contracts with institutions in neighboring states for tuition and fees.
+- Section 3333.171 - Reciprocity agreement with midwestern higher education compact.
+- Section 3333.172 - Endorsement of midwest student exchange program.
+- Section 3333.18 - Reciprocal contracts with institutions in neighboring states for financial aid funds.
+- Section 3333.19 - Foreign exchange students - tuition and fees.
+- Section 3333.20 - Educational service standards for community colleges, university branches, technical colleges and state community colleges.
+- Section 3333.21 - Academic scholarship program - basis of award.
+- Section 3333.22 - Award and renewal of scholarship - leave of absence.
+- Section 3333.23 - Scholastic record sent to chancellor - suspension or revocation of scholarship.
+- Section 3333.24 - Ohio work ready grant program.
+- Section 3333.25 - Academic scholarship payment fund.
+- Section 3333.26 - Waiving tuition for child or spouse of public service officer killed in line of duty.
+- Section 3333.28 - Nurse education assistance program - fund.
+- Section 3333.29 - Facilitation of communication, cooperation, and partnerships among state institutions of higher education with nursing education programs.
+- Section 3333.30 - Web site access to career information.
+- Section 3333.301 - FAFSA completion tracking system.
+- Section 3333.31 - Rules for determining student residency.
+- Section 3333.311 - Residency of veterans and veterans' spouses.
+- Section 3333.32 - Conditions for resident status.
+- Section 3333.33 - Establishment of tuition guarantee program.
+- Section 3333.34 - College-level certificates transferable to college credit.
+- Section 3333.342 - Certificates of value.
+- Section 3333.35 - Cooperative efforts with department of education and workforce, state board of education.
+- Section 3333.36 - Allocation of funds for certain scholarships.
+- Section 3333.37 - Outstanding scholarship, priority needs fellowship program definitions.
+- Section 3333.371 - Purposes of scholarship and fellowship programs.
+- Section 3333.372 - Outstanding scholarship and priority needs fellowship programs.
+- Section 3333.374 - Rules establishing scholarship policy guidelines.
+- Section 3333.375 - Ohio outstanding scholarship and Ohio priority needs fellowship programs payment funds.
+- Section 3333.38 - Ineligibility for student financial assistance supported by state funds.
+- Section 3333.39 - Teach Ohio program.
+- Section 3333.391 - Ohio teaching fellows program.
+- Section 3333.392 - Scholarships; Termination; Repayment.
+- Section 3333.393 - Grow your own teacher program.
+- Section 3333.394 - Grow your own teacher program - scholarship; termination; repayment.
+- Section 3333.40 - Midwestern Higher Education Compact.
+- Section 3333.41 - Members of midwestern higher education commission.
+- Section 3333.42 - Nonresident student military personnel tuition.
+- Section 3333.421 - Ohio hidden hero scholarship programs.
+- Section 3333.43 - Statements for three-year baccalaureate degrees.
+- Section 3333.44 - Postsecondary globalization liaison.
+- Section 3333.45 - Partnership to provide competency - based education programs.
+- Section 3333.50 - Critical needs rapid response system.
+- Section 3333.55 - Health information and imaging technology workforce development pilot project.
+- Section 3333.59 - Bonds.
+- Section 3333.60 - Choose Ohio first scholarship definitions.
+- Section 3333.61 - Choose Ohio first scholarship program.
+- Section 3333.613 - Choose Ohio first scholarship reserve fund.
+- Section 3333.615 - Elimination of certain choose Ohio first scholarship components.
+- Section 3333.62 - Competitive process for program awards.
+- Section 3333.63 - Meeting prior to making awards - proposal summary review.
+- Section 3333.64 - Fiscal and distributive goals; work-based learning requirement.
+- Section 3333.65 - Award recipients to enter use agreement.
+- Section 3333.66 - Scholarship amounts.
+- Section 3333.68 - College proposal preference for future awards.
+- Section 3333.69 - Monitor of initiatives for which award granted.
+- Section 3333.70 - Ohio higher education innovation grant program.
+- Section 3333.71 - Choose Ohio first co-op/internship program definitions.
+- Section 3333.72 - Choose Ohio first co-op/internship program.
+- Section 3333.73 - Competitive process for making awards under program.
+- Section 3333.74 - Private pledge required for program awards.
+- Section 3333.75 - Agreement governing use of program award.
+- Section 3333.76 - Recruiting Ohio residents in out-of-state institutions.
+- Section 3333.77 - Proposal preference to institution for future years.
+- Section 3333.78 - Monitor of initiatives for which awards granted.
+- Section 3333.79 - Ohio co-op/internship program minority outreach.
+- Section 3333.80 - Campus safety grant program.
+- Section 3333.81 - Clearinghouse of computer-based courses definitions.
+- Section 3333.82 - Chancellor to establish clearinghouse of digital texts and distance learning courses.
+- Section 3333.83 - Enrollment in clearinghouse course - participation - withdrawal.
+- Section 3333.84 - Fees charged for texts or courses offered through clearinghouse.
+- Section 3333.85 - Assignment of course grade; credit.
+- Section 3333.86 - Offering of course as dual enrollment program.
+- Section 3333.87 - Clearinghouse implementation rules.
+- Section 3333.88 - Alternative means for offering computer-based courses.
+- Section 3333.90 - Course and program sharing network (see also Section 1 of S.B. 69, 130th General Assembly).
+- Section 3333.91 - Plan for the adult basic and literacy education program.
+- Section 3333.92 - Participation in adult basic and literacy education; creation of account with OhioMeansJobs website.
+- Section 3333.93 - Workforce-education partnership programs.
+- Section 3333.94 - Inventory of credit and non-credit certificate programs and industry-recognized credentials; preferential funding.
+- Section 3333.95 - Efficiency advisory committee.
+- Section 3333.951 - Higher education textbook study.
+- Section 3333.952 - Higher education public policy research consortium.
+- Section 3333.96 - Strategic square footage reduction fund.
+- Section 3333.97 - Accelerated college and career pathways program Chancellor duties.
+- Section 3333.99 - Governing boards of state colleges and universities retain former powers and duties.

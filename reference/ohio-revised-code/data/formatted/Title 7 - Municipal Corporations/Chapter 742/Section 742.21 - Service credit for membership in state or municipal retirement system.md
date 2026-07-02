@@ -1,0 +1,88 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-742.21
+Scraped: 2026-07-02T19:33:36+00:00
+
+# Section 742.21 - Service credit for membership in state or municipal retirement system.
+
+**Effective:** March 24, 2003
+
+**Latest Legislation:** House Bill 373 - 124th General Assembly
+
+(A) As used in this section and sections 742.211 to 742.214 of the Revised Code:
+
+(1) "Full-time service" has the meaning established by rule of the board of trustees of the Ohio police and fire pension fund.
+
+(2) "Military service credit" means credit for service in the armed forces of the United States purchased or obtained from the fund, the Cincinnati retirement system, or a non-uniform retirement system.
+
+(3) "Non-uniform retirement system" or "non-uniform system" means the public employees retirement system, school employees retirement system, or state teachers retirement system.
+
+(B) Unless section 742.212 of the Revised Code applies and except as provided in divisions (G) and (I) of this section, in computing the pension and benefits payable under section 742.37 or 742.39 of the Revised Code, the Ohio police and fire pension fund shall give a member of the fund who is in the active service of a police or fire department, is not receiving a pension or benefit payment from the fund, and is not a participant in the deferred retirement option plan established under section 742.43 of the Revised Code full credit for service credit earned for full-time service as a member of the Cincinnati retirement system or purchased or obtained as military service credit if, for each year of service credit, the fund receives the sum of the following:
+
+(1) An amount, which shall be paid by the member, equal to the amount withdrawn by the member from the retirement system that is attributable to the year of service credit, with interest at a rate established by the board on that amount from the date of withdrawal to the date of payment;
+
+(2) Interest, which shall be paid either by the member or the Cincinnati retirement system, on the amount withdrawn by the member from the Cincinnati retirement system that is attributable to the year of service from the last day of the year for which the service credit was earned or in which payment was made for military service credit to the date the withdrawal was made;
+
+(3) An amount, which shall be paid by either the member or the Cincinnati retirement system, equal to the lesser of the amount contributed by the employer to the Cincinnati retirement system for the year of service or the amount that would have been contributed by the employer for the year of service had the member been employed by the member's current employer as a member of a police or fire department at the time the credit was earned, with interest on that amount from the last day of the year for which the service credit was earned or in which payment was made for military service credit to the date the payment is made;
+
+(4) If the member became a member of the fund on or after September 16, 1998, the amount, which shall be paid by the member, determined pursuant to division (I) of this section.
+
+Interest shall be determined in accordance with division (H) of this section.
+
+(C)(1) Except as provided in divisions (G) and (I) of this section, in computing the pension and benefits payable under section 742.37 or 742.39 of the Revised Code, the fund shall give a member of the fund who is in the active service of a police or fire department, is not receiving a pension or benefit payment from the fund, has withdrawn the member's contributions from a non-uniform retirement system, and is not a participant in the deferred retirement option plan established under section 742.43 of the Revised Code full credit for service credit earned for full-time service as a member of the non-uniform system or purchased or obtained as military service credit if, for each year of service, the fund receives the sum of the following:
+
+(a) An amount, which shall be paid by the member, equal to the amount withdrawn by the member from the non-uniform system that is attributable to that year of service credit, with interest at a rate established by the board on that amount from the date of withdrawal to the date of payment;
+
+(b) If the member is seeking credit for service under the public employees retirement system or state teachers retirement system, an amount, which shall be paid by the member, equal to the amount of any employer contributions and interest on employee contributions the member received under section 145.40 or 3307.563 of the Revised Code;
+
+(c) Interest, which shall be transferred by the non-uniform system, on the amount withdrawn by the member from the non-uniform system that is attributable to the year of service from the last day of the year for which the service credit was earned or in which payment was made for military service credit to the date the withdrawal was made;
+
+(d) An amount, which shall be transferred by the non-uniform system, equal to the lesser of the amount contributed by the employer to the non-uniform system for the year of service or the amount that would have been contributed by the employer for the year of service had the member been employed by the member's current employer as a member of a police or fire department at the time the credit was earned, with interest on that amount from the last day of the year for which the service credit was earned or in which payment was made for military service credit to the date the transfer is made;
+
+(e) If the member became a member of the fund on or after September 16, 1998, the amount, which shall be paid by the member, determined pursuant to division (I) of this section.
+
+(2) On receipt of payment from the member, the fund shall notify the non-uniform system, and on receipt of the notice, the non-uniform system shall make the transfer. Interest shall be determined in accordance with division (H) of this section.
+
+(3) The amount transferred under division (C)(1) of this section by the public employees retirement system or state teachers retirement system shall not include any amount of employer contributions and interest on employee contributions the member received under section 145.40 or 3307.563 of the Revised Code.
+
+(D) Except as provided in divisions (G) and (I) of this section, in computing the pension and benefits payable under section 742.37 or 742.39 of the Revised Code, the fund shall give a member of the fund who is in the active service of a police or fire department, is not receiving a pension or benefit from the fund, has contributions on deposit with a non-uniform retirement system, and is not a participant in the deferred retirement option plan established under section 742.43 of the Revised Code full credit for service credit earned for full-time service as a member of the non-uniform system or service credit purchased or obtained as military service credit if both of the following occur:
+
+(1) The non-uniform system transfers to the fund, for each year of service, the sum of the following:
+
+(a) The amount, contributed by the member or, in the case of military service credit, paid by the member, that is attributable to that service;
+
+(b) An amount equal to the lesser of the amount contributed by the employer to the non-uniform system for the year of service or the amount that would have been contributed by the employer for the year of service had the member been employed by the member's current employer as a member of a police or fire department at the time the credit was earned;
+
+(c) Interest on the amounts specified in divisions (D)(1)(a) and (b) of this section from the last day of the year for which the service credit in the non-uniform system was earned or in which military service credit was purchased or obtained to the date the transfer is made.
+
+(2) If the member became a member of the fund on or after September 16, 1998, the member pays the amount determined pursuant to division (I) of this section.
+
+On receipt of a request from the member, the appropriate non-uniform system shall make the transfer specified in division (D)(1) of this section. Interest shall be determined in accordance with division (H) of this section.
+
+(E) Subject to board rules, a member of the fund may choose to purchase in any one payment only part of the credit the member is eligible to purchase under division (B) or (C)(1) of this section.
+
+(F) At the request of the fund, the non-uniform retirement system or Cincinnati retirement system shall certify to the fund a copy of the records of the service and contributions of a member of the fund who seeks service credit under this section.
+
+(G) A member of the fund is ineligible to receive credit under this section for service that is used in the calculation of any retirement benefit currently being paid or payable in the future to the member under any other retirement program, service rendered concurrently with any other period for which service credit has already been granted, or for service credit that may be transferred under section 742.214 of the Revised Code.
+
+(H) Interest charged under this section shall be calculated separately for each year of service credit. Unless otherwise specified in this section, it shall be calculated at the lesser of the actuarial assumption rate for that year of the fund or of the system in which the credit was earned. The interest shall be compounded annually.
+
+The board may, by rule, establish procedures for the receipt of service credit under this section.
+
+(I) The amount to be paid pursuant to division (B)(4), (C)(1)(e), or (D)(2) of this section or division (B)(2) or (C)(2)(b) of section 742.212 of the Revised Code is the sum of the following:
+
+(1) An amount equal to the difference between the amount the member paid as employee contributions for the service and the amount the member would have paid had the member been employed by the member's current employer as a member of a police or fire department;
+
+(2) An amount equal to the difference between the amount paid or transferred under division (B)(3), (C)(1)(d), or (D)(1)(b) of this section or division (B)(2) or (C)(2)(b) of section 742.212 of the Revised Code and the amount that would have been contributed by the employer for the service had the member been employed by the member's current employer as a member of a police or fire department;
+
+(3) Interest, determined in accordance with division (H) of this section, on the amounts specified in divisions (I)(1) and (2) of this section.
+
+At the request of a member, in lieu of requiring payment of all or part of the amount determined under this division the fund may grant the member an amount of service credit under division (B), (C), or (D) of this section or division (B) or (C) of section 742.212 of the Revised Code that is less than the amount for which the member is eligible. The service credit granted shall be the same percentage of the service credit for which the member is eligible that the amount the fund receives under division (B), (C), or (D) of this section or division (B) or (C) of section 742.212 of the Revised Code is of the total amount it would receive under those divisions if the full amount determined under this division was paid.
+
+(J)(1) Except as provided in division (J)(2) of this section and notwithstanding any contrary provision of this section, the board shall, in computing a pension or benefit under section 742.37 or 742.39 of the Revised Code, give a member of the fund who is not receiving a pension or disability benefit from the fund full credit for service credit purchased under this section for service that was less than full-time service if the member provides evidence satisfactory to the board that, after receiving written notice from the fund indicating that the member would be permitted to purchase service credit for service that was less than full-time, the member changed or ceased the member's employment with the understanding that the credit identified in the notice would be used in computing a pension or benefit. If the board has canceled service credit purchased under this section for service that was less than full-time service and the member meets the requirements of division (J)(1) of this section, the board shall restore the service credit on repayment to the fund of the amount refunded to the member at the time of cancellation.
+
+(2) If a member of the fund who is not receiving a pension or disability benefit from the fund purchased credit under this section for service that was less than full-time service and does not meet the requirements of division (J)(1) of this section, the board shall refund to the member any amounts paid to purchase the credit, with interest at a rate determined by the board from the date the member purchased the credit to the date of the refund.
+
+(K) A member of the fund who has purchased service credit under this section, or the member's estate, is entitled to a refund of the amount or portion of the amount paid to purchase the credit if the purchased credit or portion of credit does not increase a pension or benefit payable under section 742.37 or 742.39 or calculated under section 742.442 of the Revised Code. The refund cancels an equivalent amount of service credit.
+
+(L) If a member or former member of the fund who is not a current contributor and has not received a refund of accumulated contributions elects to receive credit under section 145.295 , 3307.761 , or 3309.73 of the Revised Code for service for which the member contributed to the fund or purchased as military service credit, the fund shall transfer to the non-uniform retirement system the amount specified in division (B) of section 145.295 of the Revised Code, division (C) of section 3307.761 of the Revised Code, or division (B) of section 3309.73 of the Revised Code.
+
+(M) The board shall adopt rules establishing a payroll deduction plan for the purchase of service credit under this section. The rules shall meet the requirements described in section 742.56 of the Revised Code.

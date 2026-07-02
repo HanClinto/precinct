@@ -1,0 +1,20 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-307.01
+Scraped: 2026-07-02T19:32:39+00:00
+
+# Section 307.01 - County buildings, offices, equipment.
+
+**Effective:** April 7, 2009
+
+**Latest Legislation:** Senate Bill 353 - 127th General Assembly
+
+(A) A courthouse, jail, public comfort station, offices for county officers, and a county home shall be provided by the board of county commissioners when, in its judgment, any of them are needed. The buildings and offices shall be of such style, dimensions, and expense as the board determines. All new jails and renovations to existing jails shall be designed, and all existing jails shall be operated in such a manner as to comply substantially with the minimum standards for jails in Ohio adopted by the department of rehabilitation and correction. The board shall also provide equipment, stationery, and postage, as it considers reasonably necessary for the proper and convenient conduct of county offices, and such facilities as will result in expeditious and economical administration of such offices, except that, for the purpose of obtaining federal or state reimbursement, the board may impose on the public children services agency reasonable charges, not exceeding the amount for which reimbursement will be made and consistent with cost-allocation standards adopted by the department of job and family services, for the provision of office space, supplies, stationery, utilities, telephone use, postage, and general support services.
+
+The board of county commissioners shall provide all rooms, fireproof and burglarproof vaults, safes, and other means of security in the office of the county treasurer that are necessary for the protection of public moneys and property in the office.
+
+(B) The court of common pleas shall annually submit a written request for an appropriation to the board of county commissioners that shall set forth estimated administrative expenses of the court that the court considers reasonably necessary for its operation. The board shall conduct a public hearing with respect to the written request submitted by the court and shall appropriate the amount of money each year that it determines, after conducting the public hearing and considering the written request of the court, is reasonably necessary to meet all administrative expenses of the court.
+
+If the court considers the appropriation made by the board pursuant to this division insufficient to meet all the administrative expenses of the court, it shall commence an action under Chapter 2731. of the Revised Code in the court of appeals for the judicial district for a determination of the duty of the board of county commissioners to appropriate the amount of money in dispute. The court of appeals shall give priority to the action filed by the court of common pleas over all cases pending on its docket. The burden shall be on the court of common pleas to prove that the appropriation requested is reasonably necessary to meet all its administrative expenses. If, prior to the filing of an action under Chapter 2731. of the Revised Code or during the pendency of the action, any judge of the court exercises the contempt power of the court of common pleas in order to obtain the amount of money in dispute, the judge shall not order the imprisonment of any member of the board of county commissioners notwithstanding sections 2705.02 to 2705.06 of the Revised Code.
+
+(C) Division (B) of this section does not apply to appropriations for the probate court or the juvenile court that are subject to section 2101.11 or 2151.10 of the Revised Code.
+
+(D) The board of county commissioners may provide offices for or lease offices to a county land reutilization corporation organized under Chapter 1724. of the Revised Code and, in connection with such a lease, charge rentals that are at or below the market rentals for such offices, if the board determines that providing offices for or leasing offices to the corporation will promote economic development or the general welfare of the people of the county through a plan of providing affordable housing, land reutilization, and community development.

@@ -1,0 +1,339 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 2152.01 - Purpose of juvenile dispositions.",
+      "number": "2152.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2152.02 - Delinquent children - juvenile traffic offender definitions.",
+      "number": "2152.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2152.021 - Complaint of delinquency or juvenile traffic offender.",
+      "number": "2152.021",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.021"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2152.022 - Mandatory and discretionary transfers - meaning of case.",
+      "number": "2152.022",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.022"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2152.03 - Cases involving child originate in juvenile court.",
+      "number": "2152.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2152.04 - Confining delinquent child for purposes of preparing social history.",
+      "number": "2152.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2152.10 - Mandatory and discretionary transfers.",
+      "number": "2152.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2152.11 - Dispositions for child adjudicated delinquent.",
+      "number": "2152.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2152.12 - Transfer of cases.",
+      "number": "2152.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2152.121 - Retention of jurisdiction for purposes of making disposition.",
+      "number": "2152.121",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.121"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2152.13 - Serious youthful dispositional sentence and serious youthful offender dispositional sentence.",
+      "number": "2152.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2152.14 - Motion to invoke adult portion of dispositional sentence.",
+      "number": "2152.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2152.16 - Committing delinquent child to youth services department for secure confinement.",
+      "number": "2152.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2152.17 - Committing delinquent child to youth services department if guilty of specification.",
+      "number": "2152.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2152.18 - No designation of institution of commitment.",
+      "number": "2152.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2152.19 - Disposition orders.",
+      "number": "2152.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2152.191 - Delinquent child subject to sex offender registration and notification law.",
+      "number": "2152.191",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.191"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2152.192 - Notice that child has committed sexually oriented offense.",
+      "number": "2152.192",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.192"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2152.20 - Authorized dispositions for delinquent child or juvenile traffic offender.",
+      "number": "2152.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2152.201 - Imposing costs of investigating, prosecuting and responding to acts of terrorism.",
+      "number": "2152.201",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.201"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2152.202 - Reimbursement for costs of positive drug tests.",
+      "number": "2152.202",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.202"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2152.203 - Restitution.",
+      "number": "2152.203",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.203"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2152.21 - Dispositions for child adjudicated juvenile traffic offender.",
+      "number": "2152.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2152.22 - Child committed to legal custody of department of youth services; judicial release.",
+      "number": "2152.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2152.26 - Places of detention for delinquent child or juvenile traffic offender.",
+      "number": "2152.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2152.41 - Detention facilities.",
+      "number": "2152.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2152.42 - Superintendent and other employees of facility.",
+      "number": "2152.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2152.43 - Application for assistance to department of youth services.",
+      "number": "2152.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2152.44 - Board of trustees of district detention facility.",
+      "number": "2152.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2152.51 - Definitions regarding child competency proceedings.",
+      "number": "2152.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2152.52 - Determination of competency.",
+      "number": "2152.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2152.53 - Time periods for determination; hearing.",
+      "number": "2152.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2152.54 - Evaluators; qualifications.",
+      "number": "2152.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2152.55 - Evaluation process.",
+      "number": "2152.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2152.56 - Competency assessment report.",
+      "number": "2152.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2152.57 - Extension for filing report; admission into evidence; expenses; objections.",
+      "number": "2152.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2152.58 - Hearing to determine competency.",
+      "number": "2152.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2152.59 - Procedure upon determination of competency or lack of competency.",
+      "number": "2152.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2152.61 - Court orders restraining or controlling conduct of parent, guardian or other custodian.",
+      "number": "2152.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2152.67 - Jury trial for adults.",
+      "number": "2152.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.67"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2152.71 - Maintenance and custody of records.",
+      "number": "2152.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2152.72 - Information to be provided to foster caregivers or prospective adoptive parents.",
+      "number": "2152.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2152.73 - Prevention and control of juvenile delinquency.",
+      "number": "2152.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2152.74 - DNA specimen collection procedure for adjudicated delinquents.",
+      "number": "2152.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.74"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2152.75 - Restraining pregnant children.",
+      "number": "2152.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2152.81 - Deposing child victim.",
+      "number": "2152.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2152.811 - Taking testimony of a victim with a developmental disability.",
+      "number": "2152.811",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.811"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2152.82 - Juvenile sex offender registration as part of dispositional order.",
+      "number": "2152.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.82"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2152.83 - Juvenile sex offender registration at time of release from secure facility.",
+      "number": "2152.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.83"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2152.831 - Juvenile sex offenders - tier classification hearing.",
+      "number": "2152.831",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.831"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2152.84 - Hearing to review effectiveness of disposition and of any treatment.",
+      "number": "2152.84",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.84"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2152.85 - Petition for reclassification or declassification.",
+      "number": "2152.85",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.85"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2152.851 - Effect of redesignation of offense.",
+      "number": "2152.851",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.851"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2152.86 - Juvenile offender registrants - dispositional orders.",
+      "number": "2152.86",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.86"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2152.99 - Penalty.",
+      "number": "2152.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.99"
+    }
+  ],
+  "scraped": "2026-07-02T19:42:01+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-2152",
+  "title": "Chapter 2152 - Delinquent Children; Juvenile Traffic Offenders"
+}

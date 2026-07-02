@@ -1,0 +1,280 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Clearing corporation\" has the same meaning as in section 1308.01 of the Revised Code, except that with respect to securities issued by institutions organized or existing under the laws of any foreign country or securities used to meet the deposit requirements pursuant to the laws of a foreign country as a condition of doing business in that country, \"clearing corporation\" includes a corporation that is organized or existing under the laws of any foreign country and is legally qualified under those laws to effect transactions in securities by computerized book-entry.",
+      "id": "3901.51-clearing-corporation",
+      "normalized": "clearing corporation",
+      "scope": "As used in sections 3901.51 to 3901.55 of the Revised Code:",
+      "section": "3901.51",
+      "source_title": "Section 3901.51 - Uncertified securities as deposits definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3901.51",
+      "term": "Clearing corporation"
+    },
+    {
+      "definition": "(B) \"Direct participant\" means a bank, trust company, or other entity that maintains an account in its name in a clearing corporation and through which an insurance company participates in a clearing corporation.",
+      "id": "3901.51-direct-participant",
+      "normalized": "direct participant",
+      "scope": "As used in sections 3901.51 to 3901.55 of the Revised Code:",
+      "section": "3901.51",
+      "source_title": "Section 3901.51 - Uncertified securities as deposits definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3901.51",
+      "term": "Direct participant"
+    },
+    {
+      "definition": "(C) \"Federal reserve book-entry system\" means the computerized systems sponsored by the United States department of the treasury and agencies and instrumentalities of the United States for holding and transferring securities of the United States government and agencies and instrumentalities in federal reserve banks through banks that are members of the federal reserve system or that otherwise have access to these computerized systems.",
+      "id": "3901.51-federal-reserve-book-entry-system",
+      "normalized": "federal reserve book-entry system",
+      "scope": "As used in sections 3901.51 to 3901.55 of the Revised Code:",
+      "section": "3901.51",
+      "source_title": "Section 3901.51 - Uncertified securities as deposits definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3901.51",
+      "term": "Federal reserve book-entry system"
+    },
+    {
+      "definition": "(D) \"Member bank\" means a national or state bank or a trust company that is a member of the federal reserve system and through which an insurance company participates in the federal reserve book-entry system.",
+      "id": "3901.51-member-bank",
+      "normalized": "member bank",
+      "scope": "As used in sections 3901.51 to 3901.55 of the Revised Code:",
+      "section": "3901.51",
+      "source_title": "Section 3901.51 - Uncertified securities as deposits definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3901.51",
+      "term": "Member bank"
+    },
+    {
+      "definition": "(E) \"Provisions of the insurance laws of this state\" means provisions of Title XXXIX of the Revised Code related to the deposit of securities for the benefit and security of policyholders, and includes, but is not limited to, sections 3901.18 , 3901.74 , 3901.75 , 3901.86 , 3903.73 , 3907.07 , 3909.03 , 3909.09 , 3909.17 , 3913.01 , 3913.04 , 3919.13 , 3919.36 , 3919.37 , 3919.41 , 3925.07 , 3927.02 , 3927.06 , 3929.01 , 3929.07 , 3929.08 , 3929.09 , 3929.10 , 3929.11 , 3941.30 , 3941.31 , 3941.32 , 3941.33 , 3941.34 , 3941.42 , 3953.06 , and 3953.11 of the Revised Code.",
+      "id": "3901.51-provisions-of-the-insurance-laws-of-this-state",
+      "normalized": "provisions of the insurance laws of this state",
+      "scope": "As used in sections 3901.51 to 3901.55 of the Revised Code:",
+      "section": "3901.51",
+      "source_title": "Section 3901.51 - Uncertified securities as deposits definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3901.51",
+      "term": "Provisions of the insurance laws of this state"
+    },
+    {
+      "definition": "(F) \"Securities\" has the same meaning as in section 1308.01 of the Revised Code.",
+      "id": "3901.51-securities",
+      "normalized": "securities",
+      "scope": "As used in sections 3901.51 to 3901.55 of the Revised Code:",
+      "section": "3901.51",
+      "source_title": "Section 3901.51 - Uncertified securities as deposits definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3901.51",
+      "term": "Securities"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3901.51",
+      "number": "3901.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.51"
+    },
+    {
+      "kind": "section",
+      "label": "3901.55",
+      "number": "3901.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.55"
+    },
+    {
+      "kind": "section",
+      "label": "1308.01",
+      "number": "1308.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1308.01"
+    },
+    {
+      "kind": "section",
+      "label": "3901.18",
+      "number": "3901.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.18"
+    },
+    {
+      "kind": "section",
+      "label": "3901.74",
+      "number": "3901.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.74"
+    },
+    {
+      "kind": "section",
+      "label": "3901.75",
+      "number": "3901.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.75"
+    },
+    {
+      "kind": "section",
+      "label": "3901.86",
+      "number": "3901.86",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.86"
+    },
+    {
+      "kind": "section",
+      "label": "3903.73",
+      "number": "3903.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.73"
+    },
+    {
+      "kind": "section",
+      "label": "3907.07",
+      "number": "3907.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3907.07"
+    },
+    {
+      "kind": "section",
+      "label": "3909.03",
+      "number": "3909.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3909.03"
+    },
+    {
+      "kind": "section",
+      "label": "3909.09",
+      "number": "3909.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3909.09"
+    },
+    {
+      "kind": "section",
+      "label": "3909.17",
+      "number": "3909.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3909.17"
+    },
+    {
+      "kind": "section",
+      "label": "3913.01",
+      "number": "3913.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3913.01"
+    },
+    {
+      "kind": "section",
+      "label": "3913.04",
+      "number": "3913.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3913.04"
+    },
+    {
+      "kind": "section",
+      "label": "3919.13",
+      "number": "3919.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3919.13"
+    },
+    {
+      "kind": "section",
+      "label": "3919.36",
+      "number": "3919.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3919.36"
+    },
+    {
+      "kind": "section",
+      "label": "3919.37",
+      "number": "3919.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3919.37"
+    },
+    {
+      "kind": "section",
+      "label": "3919.41",
+      "number": "3919.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3919.41"
+    },
+    {
+      "kind": "section",
+      "label": "3925.07",
+      "number": "3925.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3925.07"
+    },
+    {
+      "kind": "section",
+      "label": "3927.02",
+      "number": "3927.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3927.02"
+    },
+    {
+      "kind": "section",
+      "label": "3927.06",
+      "number": "3927.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3927.06"
+    },
+    {
+      "kind": "section",
+      "label": "3929.01",
+      "number": "3929.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.01"
+    },
+    {
+      "kind": "section",
+      "label": "3929.07",
+      "number": "3929.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.07"
+    },
+    {
+      "kind": "section",
+      "label": "3929.08",
+      "number": "3929.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.08"
+    },
+    {
+      "kind": "section",
+      "label": "3929.09",
+      "number": "3929.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.09"
+    },
+    {
+      "kind": "section",
+      "label": "3929.10",
+      "number": "3929.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.10"
+    },
+    {
+      "kind": "section",
+      "label": "3929.11",
+      "number": "3929.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.11"
+    },
+    {
+      "kind": "section",
+      "label": "3941.30",
+      "number": "3941.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3941.30"
+    },
+    {
+      "kind": "section",
+      "label": "3941.31",
+      "number": "3941.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3941.31"
+    },
+    {
+      "kind": "section",
+      "label": "3941.32",
+      "number": "3941.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3941.32"
+    },
+    {
+      "kind": "section",
+      "label": "3941.33",
+      "number": "3941.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3941.33"
+    },
+    {
+      "kind": "section",
+      "label": "3941.34",
+      "number": "3941.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3941.34"
+    },
+    {
+      "kind": "section",
+      "label": "3941.42",
+      "number": "3941.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3941.42"
+    },
+    {
+      "kind": "section",
+      "label": "3953.06",
+      "number": "3953.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3953.06"
+    },
+    {
+      "kind": "section",
+      "label": "3953.11",
+      "number": "3953.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3953.11"
+    }
+  ],
+  "scraped": "2026-07-02T20:02:07+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3901.51",
+  "title": "Section 3901.51 - Uncertified securities as deposits definitions."
+}

@@ -1,0 +1,356 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Affiliated group\" means a group of two or more persons with fifty per cent or greater of the value of each person's ownership interests owned or controlled directly, indirectly, or constructively through related interests by common owners during all or any portion of the taxable year, and the common owners. \"Affiliated group\" includes, but is not limited to, any person eligible to be included in a consolidated elected taxpayer group under section 5751.011 of the Revised Code or a combined taxpayer group under section 5751.012 of the Revised Code.",
+      "id": "5726.01-affiliated-group",
+      "normalized": "affiliated group",
+      "scope": "As used in this chapter:",
+      "section": "5726.01",
+      "source_title": "Section 5726.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5726.01",
+      "term": "Affiliated group"
+    },
+    {
+      "definition": "(B) \"Bank organization\" means any of the following:\n\n(1) A national bank organized and operating as a national bank association pursuant to the \"National Bank Act,\" 13 Stat. 100 (1864), 12 U.S.C. 21, et seq.;\n\n(2) A federal savings association or federal savings bank chartered under 12 U.S.C. 1464;\n\n(3) A bank, banking association, trust company, savings and loan association, savings bank, or other banking institution that is organized or incorporated under the laws of the United States, any state, or a foreign country;\n\n(4) Any corporation organized and operating pursuant to 12 U.S.C. 611, et seq.;\n\n(5) Any agency or branch of a foreign bank, as those terms are defined in 12 U.S.C. 3101.",
+      "id": "5726.01-bank-organization",
+      "normalized": "bank organization",
+      "scope": "As used in this chapter:",
+      "section": "5726.01",
+      "source_title": "Section 5726.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5726.01",
+      "term": "Bank organization"
+    },
+    {
+      "definition": "\"Bank organization\" does not include an institution organized under the \"Federal Farm Loan Act,\" 39 Stat. 360 (1916), or a successor of such an institution, a company chartered under the \"Farm Credit Act of 1933,\" 48 Stat. 257, or a successor of such a company, an association formed pursuant to 12 U.S.C. 2279c-1, an insurance company, or a credit union.",
+      "id": "5726.01-bank-organization",
+      "normalized": "bank organization",
+      "scope": "As used in this chapter:",
+      "section": "5726.01",
+      "source_title": "Section 5726.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5726.01",
+      "term": "Bank organization"
+    },
+    {
+      "definition": "(C) \"Call report\" means the consolidated reports of condition and income prescribed by the federal financial institutions examination council that a person is required to file with a federal regulatory agency pursuant to 12 U.S.C. 161, 12 U.S.C. 324, or 12 U.S.C. 1817.",
+      "id": "5726.01-call-report",
+      "normalized": "call report",
+      "scope": "As used in this chapter:",
+      "section": "5726.01",
+      "source_title": "Section 5726.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5726.01",
+      "term": "Call report"
+    },
+    {
+      "definition": "(D) \"Captive finance company\" means a person that derived at least seventy-five per cent of its gross income for the current taxable year and the two taxable years preceding the current taxable year from one or more of the following transactions:\n\n(1) Financing transactions with members of its affiliated group;\n\n(2) Financing transactions with or for customers of products manufactured or sold by a member of its affiliated group;\n\n(3) Financing transactions with or for a distributor or franchisee that sells, leases, or services a product manufactured or sold by a member of the person's affiliated group;\n\n(4) Financing transactions with or for a supplier to a member of the person's affiliated group in connection with the member's manufacturing business;\n\n(5) Issuing bonds or other publicly traded debt instruments for the benefit of the affiliated group;\n\n(6) Short-term or long-term investments whereby the person invests the cash reserves of the affiliated group and the affiliated group utilizes the proceeds from the investments.",
+      "id": "5726.01-captive-finance-company",
+      "normalized": "captive finance company",
+      "scope": "As used in this chapter:",
+      "section": "5726.01",
+      "source_title": "Section 5726.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5726.01",
+      "term": "Captive finance company"
+    },
+    {
+      "definition": "For the purposes of division (D) of this section, \"financing transaction\" means making or selling loans, extending credit, leasing, earning or receiving subvention, including interest supplements and other support costs related thereto, or acquiring, selling, or servicing accounts receivable, notes, loans, leases, debt, or installment obligations that arise from the sale or lease of tangible personal property or the performance of services, and \"gross income\" has the same meaning as in section 61 of the Internal Revenue Code and includes income from transactions between the captive finance company and other members of its affiliated group.\n\nA person that has not been in continuous existence for the two taxable years preceding the current taxable year qualifies as a \"captive finance company\" for purposes of division (D) of this section if the person derived at least seventy-five per cent of its gross income for the period of its existence from one or more of the transactions described in divisions (D)(1) to (6) of this section.",
+      "id": "5726.01-financing-transaction",
+      "normalized": "financing transaction",
+      "scope": "As used in this chapter:",
+      "section": "5726.01",
+      "source_title": "Section 5726.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5726.01",
+      "term": "financing transaction"
+    },
+    {
+      "definition": "\"Captive finance company\" does not include a small dollar lender.",
+      "id": "5726.01-captive-finance-company",
+      "normalized": "captive finance company",
+      "scope": "As used in this chapter:",
+      "section": "5726.01",
+      "source_title": "Section 5726.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5726.01",
+      "term": "Captive finance company"
+    },
+    {
+      "definition": "(E) \"Credit union\" means a nonprofit cooperative financial institution organized or chartered under the laws of this state, any other state, or the United States.",
+      "id": "5726.01-credit-union",
+      "normalized": "credit union",
+      "scope": "As used in this chapter:",
+      "section": "5726.01",
+      "source_title": "Section 5726.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5726.01",
+      "term": "Credit union"
+    },
+    {
+      "definition": "(F) \"Diversified savings and loan holding company\" has the same meaning as in 12 U.S.C. 1467a, as that section existed on January 1, 2012.",
+      "id": "5726.01-diversified-savings-and-loan-holding-company",
+      "normalized": "diversified savings and loan holding company",
+      "scope": "As used in this chapter:",
+      "section": "5726.01",
+      "source_title": "Section 5726.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5726.01",
+      "term": "Diversified savings and loan holding company"
+    },
+    {
+      "definition": "(G) \"Document of creation\" means the articles of incorporation of a corporation, articles of organization of a limited liability company, registration of a foreign limited liability company, certificate of limited partnership, registration of a foreign limited partnership, registration of a domestic or foreign limited liability partnership, or registration of a trade name.",
+      "id": "5726.01-document-of-creation",
+      "normalized": "document of creation",
+      "scope": "As used in this chapter:",
+      "section": "5726.01",
+      "source_title": "Section 5726.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5726.01",
+      "term": "Document of creation"
+    },
+    {
+      "definition": "(H) \"Financial institution\" means a bank organization, a holding company of a bank organization, or a nonbank financial organization, except when one of the following applies:",
+      "id": "5726.01-financial-institution",
+      "normalized": "financial institution",
+      "scope": "As used in this chapter:",
+      "section": "5726.01",
+      "source_title": "Section 5726.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5726.01",
+      "term": "Financial institution"
+    },
+    {
+      "definition": "(1) If two or more such entities are consolidated for the purposes of filing an FR Y-9, \"financial institution\" means a group consisting of all entities that are consolidated in the FR Y-9.",
+      "id": "5726.01-financial-institution",
+      "normalized": "financial institution",
+      "scope": "As used in this chapter:",
+      "section": "5726.01",
+      "source_title": "Section 5726.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5726.01",
+      "term": "financial institution"
+    },
+    {
+      "definition": "(2) If two or more such entities are consolidated for the purposes of filing a call report, \"financial institution\" means a group consisting of all entities that are consolidated in the call report and that are not included in a group described in division (H)(1) of this section.",
+      "id": "5726.01-financial-institution",
+      "normalized": "financial institution",
+      "scope": "As used in this chapter:",
+      "section": "5726.01",
+      "source_title": "Section 5726.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5726.01",
+      "term": "financial institution"
+    },
+    {
+      "definition": "(3) If a bank organization is owned directly by a grandfathered unitary savings and loan holding company or directly or indirectly by an entity that was a grandfathered unitary savings and loan holding company on January 1, 2012, \"financial institution\" means a group consisting only of that bank organization and the entities consolidated in that bank organization's call report, notwithstanding division (H)(1) or (2) of this section.",
+      "id": "5726.01-financial-institution",
+      "normalized": "financial institution",
+      "scope": "As used in this chapter:",
+      "section": "5726.01",
+      "source_title": "Section 5726.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5726.01",
+      "term": "financial institution"
+    },
+    {
+      "definition": "\"Financial institution\" does not include a diversified savings and loan holding company, a grandfathered unitary savings and loan holding company, any entity that was a grandfathered unitary savings and loan holding company on January 1, 2012, or any entity that is not a bank organization or owned by a bank organization and that is owned directly or indirectly by an entity that was a grandfathered unitary savings and loan holding company on January 1, 2012.",
+      "id": "5726.01-financial-institution",
+      "normalized": "financial institution",
+      "scope": "As used in this chapter:",
+      "section": "5726.01",
+      "source_title": "Section 5726.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5726.01",
+      "term": "Financial institution"
+    },
+    {
+      "definition": "(I) \"FR Y-9\" means the consolidated or parent-only financial statements that a holding company is required to file with the federal reserve board pursuant to 12 U.S.C. 1844. In the case of a holding company required to file both consolidated and parent-only financial statements, \"FR Y-9\" means the consolidated financial statements that the holding company is required to file. For purposes of division (H)(1) of this section, if a holding company is required to file a parent-only financial statement and not a consolidated financial statement, \"FR Y-9\" means the consolidated financial statement the company would file if it were required to do so by the federal reserve board.",
+      "id": "5726.01-fr-y-9",
+      "normalized": "fr y-9",
+      "scope": "As used in this chapter:",
+      "section": "5726.01",
+      "source_title": "Section 5726.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5726.01",
+      "term": "FR Y-9"
+    },
+    {
+      "definition": "(J) \"Grandfathered unitary savings and loan holding company\" means an entity described in 12 U.S.C. 1467a(c)(9)(C), as that section existed on December 31, 1999.",
+      "id": "5726.01-grandfathered-unitary-savings-and-loan-holding-company",
+      "normalized": "grandfathered unitary savings and loan holding company",
+      "scope": "As used in this chapter:",
+      "section": "5726.01",
+      "source_title": "Section 5726.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5726.01",
+      "term": "Grandfathered unitary savings and loan holding company"
+    },
+    {
+      "definition": "(K) \"Gross receipts\" means all items of income, without deduction for expenses. If the reporting person for a taxpayer is a holding company, \"gross receipts\" includes all items of income reported on the FR Y-9 filed by the holding company. If the reporting person for a taxpayer is a bank organization, \"gross receipts\" includes all items of income reported on the call report filed by the bank organization. If the reporting person for a taxpayer is a nonbank financial organization, \"gross receipts\" includes all items of income reported in accordance with generally accepted accounting principles.",
+      "id": "5726.01-gross-receipts",
+      "normalized": "gross receipts",
+      "scope": "As used in this chapter:",
+      "section": "5726.01",
+      "source_title": "Section 5726.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5726.01",
+      "term": "Gross receipts"
+    },
+    {
+      "definition": "(L) \"Insurance company\" means every corporation, association, and society engaged in the business of insurance of any character, or engaged in the business of entering into contracts substantially amounting to insurance of any character, or of indemnifying or guaranteeing against loss or damage, or acting as surety on bonds or undertakings. \"Insurance company\" also includes any health insuring corporation as defined in section 1751.01 of the Revised Code.",
+      "id": "5726.01-insurance-company",
+      "normalized": "insurance company",
+      "scope": "As used in this chapter:",
+      "section": "5726.01",
+      "source_title": "Section 5726.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5726.01",
+      "term": "Insurance company"
+    },
+    {
+      "definition": "(M)(1) \"Nonbank financial organization\" means every person that is not a bank organization or a holding company of a bank organization and that engages in business primarily as a small dollar lender. \"Nonbank financial organization\" does not include an institution organized under the \"Federal Farm Loan Act,\" 39 Stat. 360 (1916), or a successor of such an institution, an insurance company, a captive finance company, a credit union, an institution organized and operated exclusively for charitable purposes within the meaning of section 501(c)(3) of the Internal Revenue Code, or a person that facilitates or services one or more securitizations for a bank organization, a holding company of a bank organization, a captive finance company, or any member of the person's affiliated group.",
+      "id": "5726.01-nonbank-financial-organization",
+      "normalized": "nonbank financial organization",
+      "scope": "As used in this chapter:",
+      "section": "5726.01",
+      "source_title": "Section 5726.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5726.01",
+      "term": "Nonbank financial organization"
+    },
+    {
+      "definition": "(2) A person is engaged in business primarily as a small dollar lender if the person has, for the taxable year, gross income from the activities described in division (O) of this section that exceeds the person's gross income from all other activities. As used in division (M) of this section, \"gross income\" has the same meaning as in section 61 of the Internal Revenue Code, and income from transactions between the person and the other members of the affiliated group shall be eliminated, and any sales, exchanges, and other dispositions of commercial paper to persons outside the affiliated group produces gross income only to the extent the proceeds from such transactions exceed the affiliated group's basis in such commercial paper.",
+      "id": "5726.01-gross-income",
+      "normalized": "gross income",
+      "scope": "As used in this chapter:",
+      "section": "5726.01",
+      "source_title": "Section 5726.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5726.01",
+      "term": "gross income"
+    },
+    {
+      "definition": "(N) \"Reporting person\" means one of the following:\n\n(1) In the case of a financial institution described in division (H)(1) of this section, the top-tier holding company required to file an FR Y-9.\n\n(2) In the case of a financial institution described in division (H)(2) or (3) of this section, the bank organization required to file the call report.\n\n(3) In the case of a bank organization or nonbank financial organization that is not included in a group described in division (H)(1) or (2) of this section, the bank organization or nonbank financial organization.",
+      "id": "5726.01-reporting-person",
+      "normalized": "reporting person",
+      "scope": "As used in this chapter:",
+      "section": "5726.01",
+      "source_title": "Section 5726.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5726.01",
+      "term": "Reporting person"
+    },
+    {
+      "definition": "(O) \"Small dollar lender\" means any person engaged primarily in the business of loaning money to individuals, provided that the loan amounts do not exceed five thousand dollars and the duration of the loans do not exceed twelve months. A \"small dollar lender\" does not include a bank organization, credit union, or captive finance company.",
+      "id": "5726.01-small-dollar-lender",
+      "normalized": "small dollar lender",
+      "scope": "As used in this chapter:",
+      "section": "5726.01",
+      "source_title": "Section 5726.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5726.01",
+      "term": "Small dollar lender"
+    },
+    {
+      "definition": "(P) \"Tax year\" means the calendar year for which the tax levied under section 5726.02 of the Revised Code is required to be paid.",
+      "id": "5726.01-tax-year",
+      "normalized": "tax year",
+      "scope": "As used in this chapter:",
+      "section": "5726.01",
+      "source_title": "Section 5726.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5726.01",
+      "term": "Tax year"
+    },
+    {
+      "definition": "(Q) \"Taxable year\" means the calendar year preceding the year in which an annual report is required to be filed under section 5726.03 of the Revised Code.",
+      "id": "5726.01-taxable-year",
+      "normalized": "taxable year",
+      "scope": "As used in this chapter:",
+      "section": "5726.01",
+      "source_title": "Section 5726.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5726.01",
+      "term": "Taxable year"
+    },
+    {
+      "definition": "(R) \"Taxpayer\" means a financial institution subject to the tax levied under section 5726.02 of the Revised Code.",
+      "id": "5726.01-taxpayer",
+      "normalized": "taxpayer",
+      "scope": "As used in this chapter:",
+      "section": "5726.01",
+      "source_title": "Section 5726.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5726.01",
+      "term": "Taxpayer"
+    },
+    {
+      "definition": "(S) \"Total equity capital\" means the sum of the common stock at par value, perpetual preferred stock and related surplus, other surplus not related to perpetual preferred stock, retained earnings, accumulated other comprehensive income, treasury stock, unearned employee stock ownership plan shares, and other equity components of a financial institution. \"Total equity capital\" shall not include any noncontrolling (minority) interests as reported on an FR Y-9 or call report, unless such interests are in a bank organization or a bank holding company.",
+      "id": "5726.01-total-equity-capital",
+      "normalized": "total equity capital",
+      "scope": "As used in this chapter:",
+      "section": "5726.01",
+      "source_title": "Section 5726.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5726.01",
+      "term": "Total equity capital"
+    },
+    {
+      "definition": "(T) \"Total Ohio equity capital\" means the portion of the total equity capital of a financial institution apportioned to Ohio pursuant to section 5726.05 of the Revised Code.",
+      "id": "5726.01-total-ohio-equity-capital",
+      "normalized": "total ohio equity capital",
+      "scope": "As used in this chapter:",
+      "section": "5726.01",
+      "source_title": "Section 5726.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5726.01",
+      "term": "Total Ohio equity capital"
+    },
+    {
+      "definition": "(U) \"Holding company\" does not include a diversified savings and loan holding company, a grandfathered unitary savings and loan holding company, any entity that was a grandfathered unitary savings and loan holding company on January 1, 2012, or any entity that is not a bank organization or owned by a bank organization and that is owned directly or indirectly by an entity that was a grandfathered unitary savings and loan holding company on January 1, 2012.",
+      "id": "5726.01-holding-company",
+      "normalized": "holding company",
+      "scope": "As used in this chapter:",
+      "section": "5726.01",
+      "source_title": "Section 5726.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5726.01",
+      "term": "Holding company"
+    },
+    {
+      "definition": "(V) \"Securitization\" means transferring one or more assets to one or more persons and subsequently issuing securities backed by the right to receive payment from the asset or assets so transferred.",
+      "id": "5726.01-securitization",
+      "normalized": "securitization",
+      "scope": "As used in this chapter:",
+      "section": "5726.01",
+      "source_title": "Section 5726.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5726.01",
+      "term": "Securitization"
+    },
+    {
+      "definition": "(W) \"De novo bank organization\" means a bank organization that first began operations in the taxable year preceding the current tax year or in either of the two immediately preceding taxable years. For the purposes of this division, a bank organization \"first began operations\" on the day the bank organization was issued a charter, a certificate of authority to commence business, or the equivalent document enabling the bank organization to begin conducting business as a bank organization. A \"de novo bank organization\" does not include a bank organization formed by, acquired by, merged with, or converted by a taxpayer that filed and paid the tax under this chapter in any preceding calendar year.\n\nLast updated August 8, 2023 at 11:17 AM",
+      "id": "5726.01-de-novo-bank-organization",
+      "normalized": "de novo bank organization",
+      "scope": "As used in this chapter:",
+      "section": "5726.01",
+      "source_title": "Section 5726.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5726.01",
+      "term": "De novo bank organization"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "5751.011",
+      "number": "5751.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5751.011"
+    },
+    {
+      "kind": "section",
+      "label": "5751.012",
+      "number": "5751.012",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5751.012"
+    },
+    {
+      "kind": "section",
+      "label": "1751.01",
+      "number": "1751.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.01"
+    },
+    {
+      "kind": "section",
+      "label": "5726.02",
+      "number": "5726.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5726.02"
+    },
+    {
+      "kind": "section",
+      "label": "5726.03",
+      "number": "5726.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5726.03"
+    },
+    {
+      "kind": "section",
+      "label": "5726.05",
+      "number": "5726.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5726.05"
+    }
+  ],
+  "scraped": "2026-07-02T20:14:51+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5726.01",
+  "title": "Section 5726.01 - Definitions."
+}

@@ -1,0 +1,94 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-733
+Scraped: 2026-07-02T19:33:32+00:00
+
+# Chapter 733 - Officers
+
+## Sections
+
+- Section 733.01 - Executive power in cities.
+- Section 733.02 - Mayor of city - election - term.
+- Section 733.03 - General powers of mayor in cities - merger of certain departments.
+- Section 733.04 - Appointment of municipal officers in cities.
+- Section 733.05 - Consultation and advice to directors of departments in cities.
+- Section 733.06 - Mayor and officers of cities shall attend meetings of legislative authority - mayor's written recommendations.
+- Section 733.07 - Acting mayor in cities.
+- Section 733.08 - Vacancy in office of mayor of city.
+- Section 733.09 - President of legislative authority of city.
+- Section 733.10 - City auditor.
+- Section 733.11 - Books and accounts - merger of offices in certain cities.
+- Section 733.12 - Auditing accounts.
+- Section 733.13 - Overdrawing appropriation - proof of claims.
+- Section 733.14 - Detailed statements - receipts.
+- Section 733.15 - Certificate as to election of certain officers.
+- Section 733.16 - Clerk of court shall record certificates.
+- Section 733.17 - Forfeiture for neglect to make report.
+- Section 733.18 - Duty of city auditor as to receiving bids.
+- Section 733.19 - Deputy auditor in cities.
+- Section 733.20 - Seal of city auditor.
+- Section 733.21 - Board of control.
+- Section 733.22 - Approval of contracts.
+- Section 733.23 - Executive power in villages.
+- Section 733.24 - Mayor of village - election - term - qualifications - powers - duties.
+- Section 733.25 - Vacancy in office of mayor of village.
+- Section 733.26 - Election, term, and qualifications of village clerk.
+- Section 733.261 - Village clerk-treasurer.
+- Section 733.262 - Village fiscal officer.
+- Section 733.27 - Powers and duties of village clerk - training programs.
+- Section 733.28 - Books and accounts - merger of offices.
+- Section 733.29 - Seal of village clerk.
+- Section 733.30 - General duties of the mayor of a municipal corporation.
+- Section 733.31 - Filling vacancies in appointive or elective offices.
+- Section 733.32 - Communications to legislative authority of finances and general conditions.
+- Section 733.33 - Protest against excess of expenditures.
+- Section 733.34 - Supervision of conduct of officers.
+- Section 733.35 - Mayor shall file charges against delinquent officers.
+- Section 733.36 - Hearing of charges - action of legislative authority.
+- Section 733.37 - Suspension of accused pending hearing.
+- Section 733.38 - Power of legislative authority as to process.
+- Section 733.39 - Oaths - compulsory testimony - costs.
+- Section 733.40 - Disposition of fines and other moneys.
+- Section 733.41 - Annual report to legislative authority.
+- Section 733.42 - Treasurer.
+- Section 733.43 - Accounts of treasurer.
+- Section 733.44 - Powers and duties of treasurer.
+- Section 733.45 - Quarterly accounting - annual report.
+- Section 733.46 - Receipt and disbursement of funds.
+- Section 733.47 - Duty of delivering money and property.
+- Section 733.48 - Legal counsel for villages - petition to appoint legal counsel.
+- Section 733.49 - City director of law - term of office.
+- Section 733.50 - Qualifications of city director of law.
+- Section 733.51 - Powers and duties of city director of law.
+- Section 733.52 - Prosecuting attorney of mayor's court.
+- Section 733.53 - Duties as to suits.
+- Section 733.54 - City director of law shall give opinions.
+- Section 733.55 - Payment of moneys.
+- Section 733.56 - Application for injunction.
+- Section 733.57 - Specific performance.
+- Section 733.58 - Writ of mandamus.
+- Section 733.581 - Taxpayer named as party defendant.
+- Section 733.59 - Taxpayer's suit.
+- Section 733.60 - Limitation of action.
+- Section 733.61 - Duty of court.
+- Section 733.62 - Annual report.
+- Section 733.621 - Appointment of assistants or employees.
+- Section 733.63 - Sealer of weights and measures.
+- Section 733.64 - Qualification and compensation of sealer.
+- Section 733.65 - Oath and bond of sealer - appointment of inspectors.
+- Section 733.66 - Comparison with state standards.
+- Section 733.671 - Seeking injunction against violation of weights and measures laws.
+- Section 733.68 - Qualifications of municipal officers - oaths.
+- Section 733.69 - Bond of municipal officers.
+- Section 733.70 - Approval of bonds.
+- Section 733.71 - Certain facts shall not invalidate bond.
+- Section 733.72 - Charges against municipal officers filed with probate judge - proceedings.
+- Section 733.73 - Appearance of counsel - jury.
+- Section 733.74 - Challenge of jurors.
+- Section 733.75 - Proceedings on the trial.
+- Section 733.76 - Removal of officer if found guilty.
+- Section 733.77 - Payment of costs.
+- Section 733.78 - Violations by fiscal officers.
+- Section 733.79 - Municipal officers may attend conference or convention - expenses.
+- Section 733.80 - Duties of fire engineer, engineer, superintendent of markets - compensation.
+- Section 733.81 - Education programs for fiscal officers.
+- Section 733.82 - Liability for loss of public funds.
+- Section 733.85 - Municipal income tax administration in noncharter municipalities.

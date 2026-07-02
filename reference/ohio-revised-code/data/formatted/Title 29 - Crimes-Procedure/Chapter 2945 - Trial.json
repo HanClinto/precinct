@@ -1,0 +1,507 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 2945.01 - Trial definitions.",
+      "number": "2945.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.02 - Setting and continuing cases.",
+      "number": "2945.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.03 - Control of trial.",
+      "number": "2945.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.04 - Orders to prevent Intimidation of attorney, victim or witness in criminal case.",
+      "number": "2945.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.05 - Defendant may waive jury trial.",
+      "number": "2945.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.06 - Procedure for trial by court.",
+      "number": "2945.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.08 - Prosecution in wrong county - proceeding.",
+      "number": "2945.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.09 - Grounds for objection.",
+      "number": "2945.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.10 - Order of proceedings of trial.",
+      "number": "2945.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.11 - Charge to the jury as to law and fact.",
+      "number": "2945.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.12 - When accused may be tried in his absence.",
+      "number": "2945.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.13 - Joint trials in felony cases.",
+      "number": "2945.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.14 - Mistake in charging offense.",
+      "number": "2945.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.15 - Discharge of defendant.",
+      "number": "2945.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.16 - View of the premises - expenses of view.",
+      "number": "2945.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.17 - Right to jury trial.",
+      "number": "2945.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.171 - Written verdicts.",
+      "number": "2945.171",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.171"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.20 - Separate trial for capital offense.",
+      "number": "2945.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.21 - Peremptory challenges.",
+      "number": "2945.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.23 - When peremptory challenges required.",
+      "number": "2945.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.24 - Jury trial.",
+      "number": "2945.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.25 - Challenges for cause.",
+      "number": "2945.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.26 - Challenge for cause.",
+      "number": "2945.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.27 - Challenges for cause to be made before jury sworn.",
+      "number": "2945.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.28 - Form of oath to jury.",
+      "number": "2945.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.29 - Jurors becoming unable to perform duties.",
+      "number": "2945.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.30 - Medical attendance of juror.",
+      "number": "2945.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.31 - Separation of jurors.",
+      "number": "2945.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.32 - Oath to officers if jury sequestered.",
+      "number": "2945.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.33 - Supervision of jury after case submitted to them.",
+      "number": "2945.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.34 - Admonition if jurors separate during trial.",
+      "number": "2945.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.35 - Papers the jury may take.",
+      "number": "2945.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.36 - For what cause jury may be discharged.",
+      "number": "2945.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.37 - Competency to stand trial definitions - hearing.",
+      "number": "2945.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.371 - Evaluations and reports of the defendant's mental condition.",
+      "number": "2945.371",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.371"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.38 - Competence to stand trial.",
+      "number": "2945.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.39 - Expiration of the maximum time for treatment for incompetency.",
+      "number": "2945.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.391 - Not guilty by reason of insanity finding.",
+      "number": "2945.391",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.391"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.392 - Expert testimony of the battered woman syndrome.",
+      "number": "2945.392",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.392"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.40 - Acquittal by reason of insanity.",
+      "number": "2945.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.401 - Incompetency finding or insanity acquittal continuing jurisdiction of court.",
+      "number": "2945.401",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.401"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.402 - Conditional release.",
+      "number": "2945.402",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.402"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.41 - Rules applicable in criminal cases.",
+      "number": "2945.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.42 - Competency of witnesses.",
+      "number": "2945.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.43 - Defendant may testify.",
+      "number": "2945.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.44 - Witnesses turning state's evidence.",
+      "number": "2945.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.45 - Subpoenas to issue to any county.",
+      "number": "2945.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.451 - Employer may not penalize employee for being subpoenaed to criminal proceeding.",
+      "number": "2945.451",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.451"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.46 - Attendance of witness enforced.",
+      "number": "2945.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.47 - Testimony of prisoner.",
+      "number": "2945.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.48 - Witness may be placed in jail.",
+      "number": "2945.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.481 - Testimony of child victim.",
+      "number": "2945.481",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.481"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.482 - Taking testimony of a victim with a developmental disability.",
+      "number": "2945.482",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.482"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.483 - Rights when testifying of child or person with developmental disability.",
+      "number": "2945.483",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.483"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.49 - Testimony of witness who dies or cannot be produced - videotape of preliminary hearing testimony of child victim.",
+      "number": "2945.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.491 - Taking testimony of a victim with a developmental disability.",
+      "number": "2945.491",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.491"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.50 - Application for deposition in criminal cases.",
+      "number": "2945.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.51 - When imprisoned defendant may be taken to deposition - expenses.",
+      "number": "2945.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.52 - Counsel appointed shall represent the defendant.",
+      "number": "2945.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.53 - Right of accused to examine witness.",
+      "number": "2945.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.54 - Conduct of examination.",
+      "number": "2945.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.55 - Testimony of previous identification.",
+      "number": "2945.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.56 - Rebuttal of defendant's character evidence.",
+      "number": "2945.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.57 - Number of witnesses to character.",
+      "number": "2945.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.58 - Alibi.",
+      "number": "2945.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.59 - Proof of defendant's motive.",
+      "number": "2945.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.63 - Child pornography offered as evidence; custody.",
+      "number": "2945.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.64 - Embezzlement prima-facie evidence.",
+      "number": "2945.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.65 - Evidence obtained as part of test to determine pregnancy.",
+      "number": "2945.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.67 - Appeal by state by leave of court.",
+      "number": "2945.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.67"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.71 - Time for trial.",
+      "number": "2945.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.72 - Extending time for hearing or trial.",
+      "number": "2945.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.73 - Delay in hearing or trial.",
+      "number": "2945.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.74 - Defendant may be convicted of lesser offense.",
+      "number": "2945.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.74"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.75 - Degree of offense - proof of prior convictions.",
+      "number": "2945.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.77 - Polling jury.",
+      "number": "2945.77",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.77"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.78 - Recording the verdict.",
+      "number": "2945.78",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.78"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.79 - Causes for new trial.",
+      "number": "2945.79",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.79"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.80 - Written motion for new trial.",
+      "number": "2945.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.80"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.81 - Causes to be sustained by affidavits.",
+      "number": "2945.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.82 - New trial.",
+      "number": "2945.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.82"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.83 - When new trial shall not be granted.",
+      "number": "2945.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.83"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2945.831 - Motion for new trial not necessary for appellate review.",
+      "number": "2945.831",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.831"
+    }
+  ],
+  "scraped": "2026-07-02T19:46:54+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-2945",
+  "title": "Chapter 2945 - Trial"
+}

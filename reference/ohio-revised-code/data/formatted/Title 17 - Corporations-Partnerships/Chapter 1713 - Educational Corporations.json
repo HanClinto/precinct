@@ -1,0 +1,309 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 1713.01 - Institution defined.",
+      "number": "1713.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1713.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1713.02 - Certificate of authorization.",
+      "number": "1713.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1713.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1713.03 - Standards for certificate of authorization.",
+      "number": "1713.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1713.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1713.031 - Review of application for certificate of authorization.",
+      "number": "1713.031",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1713.031"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1713.032 - Online program manager contracts.",
+      "number": "1713.032",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1713.032"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1713.033 - Student record preservation plans.",
+      "number": "1713.033",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1713.033"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1713.04 - Certificate subject to revocation.",
+      "number": "1713.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1713.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1713.041 - Annual reporting requirements.",
+      "number": "1713.041",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1713.041"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1713.05 - Rates for loans to students.",
+      "number": "1713.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1713.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1713.06 - Corporation may be restrained from exercise of its franchise.",
+      "number": "1713.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1713.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1713.07 - Institution may hold donated property in trust.",
+      "number": "1713.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1713.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1713.08 - Faculty.",
+      "number": "1713.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1713.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1713.09 - Location may be changed.",
+      "number": "1713.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1713.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1713.10 - Endowment fund diverted.",
+      "number": "1713.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1713.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1713.11 - Temporary loans secured by mortgage authorized.",
+      "number": "1713.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1713.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1713.12 - Sections applicable to certain boards of trustees.",
+      "number": "1713.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1713.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1713.13 - Trustees to be divided into classes - president ex-officio member - limitations and designations.",
+      "number": "1713.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1713.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1713.14 - Term of office of trustees - vacancies.",
+      "number": "1713.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1713.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1713.15 - Term of trustees - expiration - members - vacancies.",
+      "number": "1713.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1713.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1713.16 - Reclassification and reapportionment of trustees.",
+      "number": "1713.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1713.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1713.17 - Alumni association may elect one fifth of board.",
+      "number": "1713.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1713.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1713.18 - Presiding head of conference may be trustee - life trustees.",
+      "number": "1713.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1713.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1713.19 - Conference may become a patron.",
+      "number": "1713.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1713.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1713.20 - Quorum of trustees.",
+      "number": "1713.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1713.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1713.21 - Termination of right of representation.",
+      "number": "1713.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1713.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1713.22 - Colleges under ecclesiastical patronage.",
+      "number": "1713.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1713.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1713.23 - Religious educational corporations - trustees.",
+      "number": "1713.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1713.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1713.24 - Sale and distribution of property of certain corporations.",
+      "number": "1713.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1713.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1713.25 - Institutions may change name or purpose.",
+      "number": "1713.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1713.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1713.26 - Procedure and effect.",
+      "number": "1713.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1713.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1713.27 - Fees of secretary of state.",
+      "number": "1713.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1713.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1713.28 - Organic rules may be prescribed in articles of certain corporations.",
+      "number": "1713.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1713.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1713.29 - Accounts of receipts and disbursements.",
+      "number": "1713.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1713.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1713.30 - Trustees ineligible to other office.",
+      "number": "1713.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1713.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1713.31 - Attorney general may enforce duties of officers.",
+      "number": "1713.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1713.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1713.32 - Mechanics' institute may borrow money.",
+      "number": "1713.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1713.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1713.33 - Liability of directors and trustees.",
+      "number": "1713.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1713.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1713.34 - Medical colleges or embalming board may receive bodies for study or dissection - procedure.",
+      "number": "1713.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1713.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1713.35 - Body to be delivered to claimant.",
+      "number": "1713.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1713.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1713.36 - Interment of body or ashes after study or dissection.",
+      "number": "1713.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1713.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1713.37 - Notification of relatives.",
+      "number": "1713.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1713.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1713.38 - Bodies of strangers or travelers.",
+      "number": "1713.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1713.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1713.39 - Liability for having unlawful possession of body.",
+      "number": "1713.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1713.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1713.40 - Prohibition against detention of corpse.",
+      "number": "1713.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1713.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1713.41 - Prohibition against refusal to deliver corpse.",
+      "number": "1713.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1713.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1713.42 - Prohibition against unlawful possession of corpse.",
+      "number": "1713.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1713.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1713.50 - Private college or university may establish campus police department.",
+      "number": "1713.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1713.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1713.55 - Meningitis and hepatitis B vaccination.",
+      "number": "1713.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1713.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1713.60 - Military leave of absence for student on active duty.",
+      "number": "1713.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1713.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1713.99 - Penalty.",
+      "number": "1713.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1713.99"
+    }
+  ],
+  "scraped": "2026-07-02T19:39:14+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-1713",
+  "title": "Chapter 1713 - Educational Corporations"
+}

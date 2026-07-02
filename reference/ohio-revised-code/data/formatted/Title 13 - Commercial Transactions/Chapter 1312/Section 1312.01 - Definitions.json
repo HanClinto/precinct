@@ -1,0 +1,76 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Construction defect\" means a deficiency that arises directly or indirectly out of the construction or the substantial rehabilitation of a residential building. \"Substantial rehabilitation\" includes the addition of a room and the removal or installation of a wall, partition, or portion of the structural design.",
+      "id": "1312.01-construction-defect",
+      "normalized": "construction defect",
+      "scope": "As used in this chapter:",
+      "section": "1312.01",
+      "source_title": "Section 1312.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1312.01",
+      "term": "Construction defect"
+    },
+    {
+      "definition": "(B) \"Dwelling action\" means any civil action in contract or tort for damages or indemnity brought against a residential contractor for damages or the loss of use of real property caused by a construction defect.",
+      "id": "1312.01-dwelling-action",
+      "normalized": "dwelling action",
+      "scope": "As used in this chapter:",
+      "section": "1312.01",
+      "source_title": "Section 1312.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1312.01",
+      "term": "Dwelling action"
+    },
+    {
+      "definition": "(C) \"Owner\" means an owner or a prospective owner of a residential building or a dwelling unit in a residential building who enters into a contract with a residential contractor for the construction or substantial rehabilitation of that residential building or unit.",
+      "id": "1312.01-owner",
+      "normalized": "owner",
+      "scope": "As used in this chapter:",
+      "section": "1312.01",
+      "source_title": "Section 1312.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1312.01",
+      "term": "Owner"
+    },
+    {
+      "definition": "(D) \"Residential building\" means a structure that is a one-family, two-family, or three-family dwelling house or a dwelling unit within that structure, any accessory structures incidental to that dwelling house, and a unit in a condominium development in which the owner holds title to that unit. \"Residential building\" includes any structure that is used as a model to promote the sale of a similar dwelling house.",
+      "id": "1312.01-residential-building",
+      "normalized": "residential building",
+      "scope": "As used in this chapter:",
+      "section": "1312.01",
+      "source_title": "Section 1312.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1312.01",
+      "term": "Residential building"
+    },
+    {
+      "definition": "(E) \"Residential contractor\" means a person or entity who, for pay, enters into a contract with an owner for the construction or the substantial rehabilitation of a residential building and who has primary responsibility for the construction or substantial rehabilitation of a residential building.",
+      "id": "1312.01-residential-contractor",
+      "normalized": "residential contractor",
+      "scope": "As used in this chapter:",
+      "section": "1312.01",
+      "source_title": "Section 1312.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1312.01",
+      "term": "Residential contractor"
+    },
+    {
+      "definition": "(F) \"Accessory structure\" has the same meaning as in section 3781.06 of the Revised Code.",
+      "id": "1312.01-accessory-structure",
+      "normalized": "accessory structure",
+      "scope": "As used in this chapter:",
+      "section": "1312.01",
+      "source_title": "Section 1312.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1312.01",
+      "term": "Accessory structure"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3781.06",
+      "number": "3781.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.06"
+    }
+  ],
+  "scraped": "2026-07-02T19:37:11+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1312.01",
+  "title": "Section 1312.01 - Definitions."
+}

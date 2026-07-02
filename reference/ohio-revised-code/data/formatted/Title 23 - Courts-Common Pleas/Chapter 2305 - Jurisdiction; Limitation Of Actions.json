@@ -1,0 +1,483 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 2305.01 - Jurisdiction in civil cases - trial transfer.",
+      "number": "2305.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.011 - Standing of nature or ecosystem.",
+      "number": "2305.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.011"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.02 - Wrongful imprisonment claim.",
+      "number": "2305.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.03 - Lapse of time a bar.",
+      "number": "2305.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.04 - Recovery of real estate.",
+      "number": "2305.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.041 - Action for breach of oil or gas lease or license.",
+      "number": "2305.041",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.041"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.05 - Real estate dedicated to public uses.",
+      "number": "2305.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.06 - Contract in writing.",
+      "number": "2305.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.07 - Contract not in writing; statutory liability; consumer transactions.",
+      "number": "2305.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.08 - Partial payment.",
+      "number": "2305.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.09 - Four years - certain torts.",
+      "number": "2305.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.091 - Asbestos actions by school districts.",
+      "number": "2305.091",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.091"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.10 - Bodily injury or injury to personal property.",
+      "number": "2305.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.101 - Limitation of actions against Dalkon Shield claimants trust.",
+      "number": "2305.101",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.101"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.11 - Time limitations for bringing certain actions.",
+      "number": "2305.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.111 - Assault or battery actions - childhood sexual abuse.",
+      "number": "2305.111",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.111"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.112 - Actions based on identity fraud.",
+      "number": "2305.112",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.112"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.113 - Medical malpractice actions.",
+      "number": "2305.113",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.113"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.114 - Partial birth feticide actions.",
+      "number": "2305.114",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.114"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.115 - Assault or battery actions against mental health professional based on sexual conduct or contact.",
+      "number": "2305.115",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.115"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.116 - No cause of action for failure to perform abortion.",
+      "number": "2305.116",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.116"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.117 - Action upon a legal malpractice claim.",
+      "number": "2305.117",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.117"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.118 - Action for an assisted reproduction procedure performed without consent.",
+      "number": "2305.118",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.118"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.12 - On official bond.",
+      "number": "2305.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.13 - Limitation of actions for recovery of charges by and against carriers - overcharge defined.",
+      "number": "2305.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.131 - Ten-year statute of repose for certain premises liability actions.",
+      "number": "2305.131",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.131"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.14 - For other relief.",
+      "number": "2305.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.15 - Tolling during defendant's absence, concealment or imprisonment.",
+      "number": "2305.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.16 - Tolling due to minority or unsound mind.",
+      "number": "2305.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.17 - Commencement of action.",
+      "number": "2305.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.18 - Summons on corporation in hands of a receiver.",
+      "number": "2305.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.19 - Saving in case of reversal.",
+      "number": "2305.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.21 - Survival of actions.",
+      "number": "2305.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.22 - Exceptions.",
+      "number": "2305.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.23 - Liability for emergency care.",
+      "number": "2305.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.231 - Immunity of health professionals volunteering services to school athletic program.",
+      "number": "2305.231",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.231"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.232 - Immunity of person assisting in clean-up of hazardous material.",
+      "number": "2305.232",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.232"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.233 - Immunity of person rendering assistance under reciprocal fire protection agreement.",
+      "number": "2305.233",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.233"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.234 - Immunity of volunteer health care professionals and workers and of nonprofit shelters and facilities.",
+      "number": "2305.234",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.234"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.235 - Immunity of person involved with providing automated external defibrillation.",
+      "number": "2305.235",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.235"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.236 - Immunity concerning domestic violence shelter definitions.",
+      "number": "2305.236",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.236"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.237 - Immunity of domestic violence shelter and associated persons concerning torts committed on shelter premises.",
+      "number": "2305.237",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.237"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.238 - Immunity where tort committed off domestic violence shelter premises.",
+      "number": "2305.238",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.238"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.239 - No new cause of action or substantive legal rights created - effect on other laws.",
+      "number": "2305.239",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.239"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.2310 - Civil immunity for architects, contractors, engineers, surveyors, and tradespersons providing volunteer services.",
+      "number": "2305.2310",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.2310"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.2311 - Immunity for care given in disaster.",
+      "number": "2305.2311",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.2311"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.2341 - Medical liability insurance reimbursement program.",
+      "number": "2305.2341",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.2341"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.24 - Information furnished to quality assurance or utilization committee to be confidential.",
+      "number": "2305.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.25 - Peer review committee definitions.",
+      "number": "2305.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.251 - Peer review committee immunity.",
+      "number": "2305.251",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.251"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.252 - Confidentiality of proceedings and records within scope of peer review committee of health care entity.",
+      "number": "2305.252",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.252"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.253 - Incident or risk management report not admissible or discoverable.",
+      "number": "2305.253",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.253"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.26 - Action to enforce lien - limitations - notice of continuation.",
+      "number": "2305.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.28 - Peer or professional standards review committee or counseling and assistance committee of a professional organization not liable for actions taken.",
+      "number": "2305.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.29 - No civil liability for breach of a promise to marry, alienation of affections, or criminal conversation.",
+      "number": "2305.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.31 - Promisee indemnified against damage liability.",
+      "number": "2305.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.32 - Sponsoring employer in ridesharing arrangements not liable.",
+      "number": "2305.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.321 - Certain equine activities no liability.",
+      "number": "2305.321",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.321"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.33 - Physician reporting to public transportation employer employee's use of a drug of abuse no liability.",
+      "number": "2305.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.34 - Hydrant failure of nonprofit corporation or water and sewer district no liability.",
+      "number": "2305.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.35 - Donor not liable for injuries to gleaner.",
+      "number": "2305.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.36 - Limited immunity for injury due to cumulative consumption, weight gain, or obesity.",
+      "number": "2305.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.37 - Person donating perishable food for distribution to needy individuals not liable for harm.",
+      "number": "2305.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.38 - Uncompensated volunteers of nonprofit charitable organizations no liability.",
+      "number": "2305.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.39 - Non-responsible persons responding to oil spill not liable.",
+      "number": "2305.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.40 - Owner, lessee, or renter of real property not liable to trespasser.",
+      "number": "2305.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.401 - member of the firearms industry not liable for harm sustained as a result of the operation or discharge of firearm.",
+      "number": "2305.401",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.401"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.402 - Duties owed to trespassers.",
+      "number": "2305.402",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.402"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.41 - Duties to incapacitated persons - definitions.",
+      "number": "2305.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.42 - Identifying devices.",
+      "number": "2305.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.43 - Duty of law enforcement officer.",
+      "number": "2305.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.44 - Duty to search for identifying device or identification card.",
+      "number": "2305.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.45 - Duty of others.",
+      "number": "2305.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.46 - False identifying information.",
+      "number": "2305.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.47 - Other duties.",
+      "number": "2305.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.48 - Uniformity of application.",
+      "number": "2305.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.49 - Title and citation.",
+      "number": "2305.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.51 - Mental health professional or organization not liable for violent behavior by client or patient.",
+      "number": "2305.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2305.52 - Hold harmless clauses in motor carrier transportation contracts.",
+      "number": "2305.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.52"
+    }
+  ],
+  "scraped": "2026-07-02T19:43:12+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-2305",
+  "title": "Chapter 2305 - Jurisdiction; Limitation Of Actions"
+}

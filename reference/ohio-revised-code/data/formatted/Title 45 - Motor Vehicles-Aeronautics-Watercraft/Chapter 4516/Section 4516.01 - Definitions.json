@@ -1,0 +1,188 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Car sharing period\" means the period of time that commences with the car sharing delivery period or, if there is no car sharing delivery period, with the car sharing start time, in accordance with the peer-to-peer car sharing program agreement, and ends with the car sharing termination time.",
+      "id": "4516.01-car-sharing-period",
+      "normalized": "car sharing period",
+      "scope": "As used in this chapter:",
+      "section": "4516.01",
+      "source_title": "Section 4516.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4516.01",
+      "term": "Car sharing period"
+    },
+    {
+      "definition": "(B) \"Car sharing delivery period\" means the period of time in which a shared vehicle is being delivered to the location for the shared vehicle driver to take possession of the shared vehicle, in accordance with the peer-to-peer car sharing program agreement.",
+      "id": "4516.01-car-sharing-delivery-period",
+      "normalized": "car sharing delivery period",
+      "scope": "As used in this chapter:",
+      "section": "4516.01",
+      "source_title": "Section 4516.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4516.01",
+      "term": "Car sharing delivery period"
+    },
+    {
+      "definition": "(C) \"Car sharing start time\" means either the point in time when the shared vehicle driver takes possession of the shared vehicle or the point in time when the shared vehicle driver was scheduled to take possession of the shared vehicle, whichever occurs first.",
+      "id": "4516.01-car-sharing-start-time",
+      "normalized": "car sharing start time",
+      "scope": "As used in this chapter:",
+      "section": "4516.01",
+      "source_title": "Section 4516.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4516.01",
+      "term": "Car sharing start time"
+    },
+    {
+      "definition": "(D) \"Car sharing termination time\" means the point in time when the earliest of the following events occurs:\n\n(1) The expiration time established in the peer-to-peer car sharing program agreement for use of the shared vehicle, provided that the shared vehicle is returned to the location designated in the agreement by the expiration time;\n\n(2) The shared vehicle is returned to an alternate location, if the shared vehicle owner and the shared vehicle driver agree on the alternate location, as communicated through the peer-to-peer car sharing program, and the alternate location is incorporated into the peer-to-peer car sharing program agreement.\n\n(3) The shared vehicle owner or the owner's designee takes possession of the shared vehicle.",
+      "id": "4516.01-car-sharing-termination-time",
+      "normalized": "car sharing termination time",
+      "scope": "As used in this chapter:",
+      "section": "4516.01",
+      "source_title": "Section 4516.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4516.01",
+      "term": "Car sharing termination time"
+    },
+    {
+      "definition": "(E) \"Motor vehicle\" has the same meaning as in section 4509.01 of the Revised Code.",
+      "id": "4516.01-motor-vehicle",
+      "normalized": "motor vehicle",
+      "scope": "As used in this chapter:",
+      "section": "4516.01",
+      "source_title": "Section 4516.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4516.01",
+      "term": "Motor vehicle"
+    },
+    {
+      "definition": "(F) \"Motor-vehicle liability policy\" has the same meaning as in section 4509.01 of the Revised Code.",
+      "id": "4516.01-motor-vehicle-liability-policy",
+      "normalized": "motor-vehicle liability policy",
+      "scope": "As used in this chapter:",
+      "section": "4516.01",
+      "source_title": "Section 4516.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4516.01",
+      "term": "Motor-vehicle liability policy"
+    },
+    {
+      "definition": "(G) \"Peer-to-peer car sharing\" means the authorized use of a motor vehicle by an individual other than the motor vehicle's owner through a peer-to-peer car sharing program.",
+      "id": "4516.01-peer-to-peer-car-sharing",
+      "normalized": "peer-to-peer car sharing",
+      "scope": "As used in this chapter:",
+      "section": "4516.01",
+      "source_title": "Section 4516.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4516.01",
+      "term": "Peer-to-peer car sharing"
+    },
+    {
+      "definition": "(H) \"Peer-to-peer car sharing program\" or \"program\" means a person who operates a business platform that connects a shared vehicle owner to a shared vehicle driver to enable the sharing of vehicles for financial consideration. \"Peer-to-peer car sharing program\" does not include a motor vehicle leasing dealer as defined in section 4517.01 of the Revised Code or a motor vehicle renting dealer as defined in section 4549.65 of the Revised Code.",
+      "id": "4516.01-peer-to-peer-car-sharing-program",
+      "normalized": "peer-to-peer car sharing program",
+      "scope": "As used in this chapter:",
+      "section": "4516.01",
+      "source_title": "Section 4516.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4516.01",
+      "term": "Peer-to-peer car sharing program"
+    },
+    {
+      "definition": "(H) \"Peer-to-peer car sharing program\" or \"program\" means a person who operates a business platform that connects a shared vehicle owner to a shared vehicle driver to enable the sharing of vehicles for financial consideration. \"Peer-to-peer car sharing program\" does not include a motor vehicle leasing dealer as defined in section 4517.01 of the Revised Code or a motor vehicle renting dealer as defined in section 4549.65 of the Revised Code.",
+      "id": "4516.01-program",
+      "normalized": "program",
+      "scope": "As used in this chapter:",
+      "section": "4516.01",
+      "source_title": "Section 4516.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4516.01",
+      "term": "program"
+    },
+    {
+      "definition": "(I) \"Peer-to-peer car sharing program agreement\" or \"agreement\" means an agreement established through the peer-to-peer car sharing program that serves as a contract between the peer-to-peer car sharing program, the shared vehicle owner, and the shared vehicle driver and describes the specific terms and conditions of the agreement, including the car sharing period and the location or locations for transfer of possession.",
+      "id": "4516.01-peer-to-peer-car-sharing-program-agreement",
+      "normalized": "peer-to-peer car sharing program agreement",
+      "scope": "As used in this chapter:",
+      "section": "4516.01",
+      "source_title": "Section 4516.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4516.01",
+      "term": "Peer-to-peer car sharing program agreement"
+    },
+    {
+      "definition": "(I) \"Peer-to-peer car sharing program agreement\" or \"agreement\" means an agreement established through the peer-to-peer car sharing program that serves as a contract between the peer-to-peer car sharing program, the shared vehicle owner, and the shared vehicle driver and describes the specific terms and conditions of the agreement, including the car sharing period and the location or locations for transfer of possession.",
+      "id": "4516.01-agreement",
+      "normalized": "agreement",
+      "scope": "As used in this chapter:",
+      "section": "4516.01",
+      "source_title": "Section 4516.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4516.01",
+      "term": "agreement"
+    },
+    {
+      "definition": "(J) \"Proof of financial responsibility\" has the same meaning as in section 4509.01 of the Revised Code.",
+      "id": "4516.01-proof-of-financial-responsibility",
+      "normalized": "proof of financial responsibility",
+      "scope": "As used in this chapter:",
+      "section": "4516.01",
+      "source_title": "Section 4516.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4516.01",
+      "term": "Proof of financial responsibility"
+    },
+    {
+      "definition": "(K) \"Safety recall\" means a recall issued pursuant to 49 U.S.C. 30118 pertaining to a defect related to motor vehicle safety or noncompliance with an applicable federal motor vehicle safety standard.",
+      "id": "4516.01-safety-recall",
+      "normalized": "safety recall",
+      "scope": "As used in this chapter:",
+      "section": "4516.01",
+      "source_title": "Section 4516.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4516.01",
+      "term": "Safety recall"
+    },
+    {
+      "definition": "(L) \"Shared vehicle\" means a personal motor vehicle that is registered as a passenger car under Chapter 4503. of the Revised Code or a substantially similar law in another state and that is enrolled in a peer-to-peer car sharing program.",
+      "id": "4516.01-shared-vehicle",
+      "normalized": "shared vehicle",
+      "scope": "As used in this chapter:",
+      "section": "4516.01",
+      "source_title": "Section 4516.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4516.01",
+      "term": "Shared vehicle"
+    },
+    {
+      "definition": "(M) \"Shared vehicle driver\" means a person authorized by a shared vehicle owner, in accordance with the terms and conditions of a peer-to-peer car sharing program agreement, to operate a shared vehicle during a car sharing period.",
+      "id": "4516.01-shared-vehicle-driver",
+      "normalized": "shared vehicle driver",
+      "scope": "As used in this chapter:",
+      "section": "4516.01",
+      "source_title": "Section 4516.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4516.01",
+      "term": "Shared vehicle driver"
+    },
+    {
+      "definition": "(N) \"Shared vehicle owner\" means a registered owner of a shared vehicle or a person designated by the registered owner.\n\nLast updated September 5, 2023 at 11:51 AM",
+      "id": "4516.01-shared-vehicle-owner",
+      "normalized": "shared vehicle owner",
+      "scope": "As used in this chapter:",
+      "section": "4516.01",
+      "source_title": "Section 4516.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4516.01",
+      "term": "Shared vehicle owner"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "4509.01",
+      "number": "4509.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.01"
+    },
+    {
+      "kind": "section",
+      "label": "4517.01",
+      "number": "4517.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4517.01"
+    },
+    {
+      "kind": "section",
+      "label": "4549.65",
+      "number": "4549.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4549.65"
+    }
+  ],
+  "scraped": "2026-07-02T20:05:46+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4516.01",
+  "title": "Section 4516.01 - Definitions."
+}

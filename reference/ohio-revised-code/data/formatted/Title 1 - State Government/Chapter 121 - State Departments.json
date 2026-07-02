@@ -1,0 +1,591 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 121.01 - Definition of terms.",
+      "number": "121.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.02 - Administrative departments and directors created.",
+      "number": "121.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.03 - Appointment of administrative department heads.",
+      "number": "121.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.031 - Administrative department head's regulation authority.",
+      "number": "121.031",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.031"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.04 - Offices created in the several departments.",
+      "number": "121.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.05 - Assistant directors.",
+      "number": "121.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.06 - Appointment of officers - term.",
+      "number": "121.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.07 - Supervision and control of departments - establishing divisions.",
+      "number": "121.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.08 - Deputy director of administration in department of commerce.",
+      "number": "121.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.081 - Department of insurance - powers and duties.",
+      "number": "121.081",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.081"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.082 - Superintendent of insurance - prohibited activities.",
+      "number": "121.082",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.082"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.083 - Superintendent of industrial compliance - powers and duties.",
+      "number": "121.083",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.083"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.084 - Industrial compliance operating fund.",
+      "number": "121.084",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.084"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.085 - Financial literacy education fund.",
+      "number": "121.085",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.085"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.086 - High school financial literacy fund.",
+      "number": "121.086",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.086"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.09 - Qualifications of director of agriculture and chief of division of animal health.",
+      "number": "121.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.10 - Director of health - qualifications.",
+      "number": "121.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.11 - Bond and oath of office - blanket bonds - bond may be required of employee.",
+      "number": "121.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.12 - Officer to devote entire time to duties and hold no other office - reimbursement for expenses.",
+      "number": "121.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.13 - Advisory boards may be provided.",
+      "number": "121.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.14 - Employment subject to civil service laws.",
+      "number": "121.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.15 - Central office for each department - branch offices - restrictions on relocation.",
+      "number": "121.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.16 - State agency notices.",
+      "number": "121.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.17 - Co-operation and coordination of work under direction of governor.",
+      "number": "121.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.18 - Report by each department.",
+      "number": "121.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.181 - Identification of department acquiring interest in real property.",
+      "number": "121.181",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.181"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.19 - Power to inspect and examine.",
+      "number": "121.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.20 - Seal for each department - specifications - use.",
+      "number": "121.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.211 - Retention and disposition of records.",
+      "number": "121.211",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.211"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.22 - Public meetings - exceptions.",
+      "number": "121.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.221 - Public meetings - virtual meetings.",
+      "number": "121.221",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.221"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.23 - No award of contract to person found in contempt for failure to correct an unfair labor practice.",
+      "number": "121.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.30 - Spanish-speaking affair definitions.",
+      "number": "121.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.31 - Commission on Hispanic-Latino affairs.",
+      "number": "121.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.32 - Powers and duties of commission.",
+      "number": "121.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.33 - Office of Hispanic-Latino affairs - powers and duties.",
+      "number": "121.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.35 - Revision of uniform the eligibility standards.",
+      "number": "121.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.36 - Contracts entered into by department for provision of home care services to home care dependent adults.",
+      "number": "121.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.37 - Ohio family and children first cabinet council.",
+      "number": "121.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.373 - Family and children first administration fund.",
+      "number": "121.373",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.373"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.375 - Information provided to Ohio family and children first cabinet council.",
+      "number": "121.375",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.375"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.376 - Ohio automated service coordination information system.",
+      "number": "121.376",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.376"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.38 - Resolving agency disputes concerning services or funding.",
+      "number": "121.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.381 - Family and children first dispute resolution process.",
+      "number": "121.381",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.381"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.382 - Services continued pending dispute resolution process.",
+      "number": "121.382",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.382"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.39 - Identifying documentation that is basis for legislation dealing with environmental protection.",
+      "number": "121.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.40 - Ohio commission on service and volunteerism.",
+      "number": "121.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.401 - Adoption of recommended best practices when volunteers have unsupervised access to children.",
+      "number": "121.401",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.401"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.402 - Educational program for volunteers having unsupervised access to children.",
+      "number": "121.402",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.402"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.403 - Powers of commission - gifts and donations fund - use of moneys.",
+      "number": "121.403",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.403"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.41 - Inspector general definitions.",
+      "number": "121.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.42 - Inspector general - powers and duties.",
+      "number": "121.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.421 - Investigation of casino control commission enforcement personnel.",
+      "number": "121.421",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.421"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.43 - Subpoena power - contempt.",
+      "number": "121.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.44 - Reports of investigations.",
+      "number": "121.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.45 - Cooperating in investigations.",
+      "number": "121.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.46 - Filing complaint - form.",
+      "number": "121.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.47 - Confidential information.",
+      "number": "121.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.48 - Appointment of inspector general.",
+      "number": "121.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.481 - Special investigations fund.",
+      "number": "121.481",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.481"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.482 - Disposition of money received.",
+      "number": "121.482",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.482"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.483 - Status of deputy inspector general as peace officer.",
+      "number": "121.483",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.483"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.49 - Qualifications.",
+      "number": "121.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.50 - Administrative rules.",
+      "number": "121.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.51 - Deputy inspector general for transportation department.",
+      "number": "121.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.52 - Deputy inspector general for workers' compensation.",
+      "number": "121.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.531 - Signs specifying ARRA funding prohibited.",
+      "number": "121.531",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.531"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.60 - Executive agency lobbying definitions.",
+      "number": "121.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.61 - Prohibited acts.",
+      "number": "121.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.62 - Initial registration statement - updating information.",
+      "number": "121.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.621 - Disqualification as executive agency lobbyist for certain offenses.",
+      "number": "121.621",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.621"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.63 - Statement of expenditures - records.",
+      "number": "121.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.64 - Statement of financial transactions.",
+      "number": "121.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.65 - Disputed expenditure or transaction.",
+      "number": "121.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.66 - Exceptions.",
+      "number": "121.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.67 - Prohibiting contingent fees.",
+      "number": "121.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.67"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.68 - Statements are public records.",
+      "number": "121.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.68"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.69 - Investigations.",
+      "number": "121.69",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.69"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.71 - Incorporation by reference in rule definitions.",
+      "number": "121.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.72 - Incorporating rule by reference.",
+      "number": "121.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.73 - Filing material incorporated by reference electronically.",
+      "number": "121.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.74 - Access to material incorporated in rule in final form.",
+      "number": "121.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.74"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.75 - Sufficiency of citations.",
+      "number": "121.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.81 - \"Agency\" and \"draft rule\" defined; construction of sections.",
+      "number": "121.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.811 - Applicability of business review provisions.",
+      "number": "121.811",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.811"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.82 - Evaluation of draft rules; business impact analysis.",
+      "number": "121.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.82"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.91 - Customer service standards.",
+      "number": "121.91",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.91"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.93 - Review of agency operations.",
+      "number": "121.93",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.93"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.931 - Petition to restate a principle of law or policy in a rule.",
+      "number": "121.931",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.931"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.933 - Applicability of R.C. 101.352, 101.353, 121.93, and 121.931.",
+      "number": "121.933",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.933"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.95 - Agency review of rules to identify restrictions.",
+      "number": "121.95",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.95"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.951 - Required reduction in regulatory restrictions.",
+      "number": "121.951",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.951"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.952 - Failure to reduce regulatory restrictions.",
+      "number": "121.952",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.952"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.953 - Total permitted regulatory restrictions.",
+      "number": "121.953",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.953"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.954 - Exemptions from regulatory restriction reduction.",
+      "number": "121.954",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.954"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.99 - Penalty.",
+      "number": "121.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.99"
+    },
+    {
+      "kind": "section",
+      "label": "Section 121.991 - Penalty for disclosing confidential information.",
+      "number": "121.991",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.991"
+    }
+  ],
+  "scraped": "2026-07-02T19:31:35+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-121",
+  "title": "Chapter 121 - State Departments"
+}

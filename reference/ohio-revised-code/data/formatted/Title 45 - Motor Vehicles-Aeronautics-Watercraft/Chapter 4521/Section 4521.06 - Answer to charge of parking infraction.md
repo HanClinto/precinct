@@ -1,0 +1,28 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4521.06
+Scraped: 2026-07-02T20:05:53+00:00
+
+# Section 4521.06 - Answer to charge of parking infraction.
+
+**Effective:** January 1, 1983
+
+**Latest Legislation:** House Bill 707 - 114th General Assembly
+
+(A) A person who is personally or constructively served with a parking ticket charging the commission of a parking infraction may answer the charge by personal appearance before the parking violations bureau, joint parking violations bureau, traffic violations bureau, or juvenile court, whichever is applicable, or by mail. A local authority may, by ordinance, resolution, or regulation, also authorize the answer to a charge of a parking infraction that is a violation of any of its ordinances, resolutions, or regulations to be made by telephone, in which case the parking ticket adopted by the local authority shall indicate such fact. An answer shall be made within the time specified by the local authority and indicated on the ticket, and shall be in one of the following forms:
+
+(1) An admission that the person committed the parking infraction, by payment of any fine arising out of the parking infraction;
+
+(2) An admission that the person committed the parking infraction, with an explanation of the circumstances surrounding the parking infraction;
+
+(3) A denial that the person committed the parking infraction and a request for a hearing relative to the infraction. If the person desires the presence, at the hearing, of the law enforcement officer who issued the parking ticket, the person must request his presence in his answer.
+
+(B)(1) A person who admits that he committed a parking infraction shall, and a person who admits that he committed a parking infraction with explanation may, when he makes his answer, pay the fine arising out of the infraction admitted to the violations clerk of the bureau, or to the clerk of the juvenile court, to which the answer is made.
+
+(2) A person who admits that he committed a parking infraction with explanation shall submit evidence to the bureau or juvenile court to which the answer is made that explains the circumstances surrounding the parking infraction. The evidence may be submitted in person or, to avoid the necessity of personal appearance, may be sent as affidavits and other documentary evidence, by mail. A bureau or juvenile court that receives an answer admitting that a person committed a parking infraction with explanation shall promptly determine whether the explanation mitigates the fact that the person committed the parking infraction and notify the person, in writing, of its determination.
+
+If the bureau or juvenile court determines that the explanation mitigates the fact that the person committed the parking infraction, the bureau or juvenile court shall eliminate or reduce the amount of the fine arising out of the parking infraction. If the fine is eliminated or reduced and the person has previously paid the fine, the amount paid in excess of the revised fine shall be returned to the person; if the fine is eliminated or reduced and the person has not previously paid the fine, the person shall pay only the amount of the revised fine. If the bureau or juvenile court determines that the explanation does not mitigate the fact that the person committed the parking infraction, the person owes the entire amount of the fine arising out of the parking infraction, and if the person has not previously paid the fine, the person shall pay the entire amount of the fine. If a person admits that he committed a parking infraction with explanation and the person fails to pay the amount of the fine due within ten days after receiving notice of the bureau's or juvenile court's determination, unless the amount due has previously been paid, the bureau's or juvenile court's determination and the amount of the fine due shall be considered a judgment and shall be treated as if it were a judgment rendered subsequent to a hearing held pursuant to division (B) of section 4521.08 of the Revised Code.
+
+(3) A person who denies that he committed a parking infraction shall be granted a hearing concerning the infraction. The bureau or juvenile court shall set a date for the hearing and notify the person, in writing, of the date, time, and place of the hearing. The hearing shall be conducted by a hearing examiner of the parking violations bureau or joint parking violations bureau, or a hearing examiner or referee of the traffic violations bureau, or a referee of the juvenile court, whichever is applicable, in accordance with section 4521.08 of the Revised Code.
+
+(C) If a person who is personally or constructively served with a parking ticket charging the commission of a parking infraction fails to timely answer the charge, as provided in division (A) of this section, the parking violations bureau, joint parking violations bureau, or traffic violations bureau, or the juvenile court, whichever is applicable, shall issue the proper notifications of infraction pursuant to section 4521.07 of the Revised Code, and proceed according to that section. Failure to timely answer a charge may result in the imposition of the additional penalties prescribed by ordinance, resolution, or regulation of the local authority enacted pursuant to section 4521.02 of the Revised Code or by the court.
+
+(D) The issuance of a parking ticket, the filing of or failure to file an answer by a person personally or constructively served with the ticket, the substance of an answer, the payment of any fine, and any other relevant information shall be entered in the records of the particular bureau or juvenile court.

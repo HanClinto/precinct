@@ -1,0 +1,1334 @@
+{
+  "entries": [
+    {
+      "definition": "(1) \"Acquire\" or \"acquisition\" means any of the following transactions or actions:\n\n(a) A merger or consolidation with, or purchase of assets from, a bank holding company that has acquired an Ohio bank;\n\n(b) The acquisition of the direct or indirect ownership or control of voting shares of an Ohio bank if, after the acquisition, the acquiring bank holding company will directly or indirectly own or control the Ohio bank, unless the superintendent of financial institutions determines, in the superintendent's discretion, due to the nature of the acquisition, it should not be subject to the limitations of this section;\n\n(c) The merger or consolidation of an Ohio bank with, or the transfer of assets from an Ohio bank to, another bank, whether previously existing or chartered for the purpose of the transaction;\n\n(d) Any other action that results in the direct or indirect control of an Ohio bank.",
+      "id": "1115.05-acquire",
+      "normalized": "acquire",
+      "scope": "(A) As used in this section:",
+      "section": "1115.05",
+      "source_title": "Section 1115.05 - Acquisitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1115.05",
+      "term": "Acquire"
+    },
+    {
+      "definition": "(A) \"Acquiree mutual bank\" means any state bank, savings association, or savings bank that meets both of the following conditions:\n\n(1) It is acquired by a mutual holding company as part of, and concurrently with, a mutual holding company reorganization.\n\n(2) It is in the mutual form immediately prior to the acquisition.",
+      "id": "1116.01-acquiree-mutual-bank",
+      "normalized": "acquiree mutual bank",
+      "scope": "As used in this chapter, unless the context requires otherwise:",
+      "section": "1116.01",
+      "source_title": "Section 1116.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1116.01",
+      "term": "Acquiree mutual bank"
+    },
+    {
+      "definition": "(1) \"Acquire\" or \"acquisition\" means any of the following transactions or actions:\n\n(a) A merger or consolidation with, or purchase of assets from, a bank holding company that has acquired an Ohio bank;\n\n(b) The acquisition of the direct or indirect ownership or control of voting shares of an Ohio bank if, after the acquisition, the acquiring bank holding company will directly or indirectly own or control the Ohio bank, unless the superintendent of financial institutions determines, in the superintendent's discretion, due to the nature of the acquisition, it should not be subject to the limitations of this section;\n\n(c) The merger or consolidation of an Ohio bank with, or the transfer of assets from an Ohio bank to, another bank, whether previously existing or chartered for the purpose of the transaction;\n\n(d) Any other action that results in the direct or indirect control of an Ohio bank.",
+      "id": "1115.05-acquisition",
+      "normalized": "acquisition",
+      "scope": "(A) As used in this section:",
+      "section": "1115.05",
+      "source_title": "Section 1115.05 - Acquisitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1115.05",
+      "term": "acquisition"
+    },
+    {
+      "definition": "(A) \"Affiliate\" has the same meaning as in division (A)(1) of section 1109.53 of the Revised Code and includes a subsidiary of a bank.",
+      "id": "1101.01-affiliate",
+      "normalized": "affiliate",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "Affiliate"
+    },
+    {
+      "definition": "(A)(1) \"Affiliate\" means any of the following:\n\n(a) A company that controls the state bank and any other company controlled by the company that controls the state bank;\n\n(b) A bank subsidiary of the state bank;\n\n(c) A company that is controlled directly or indirectly, by a trust or otherwise, by or for the benefit of shareholders who beneficially or otherwise control, directly or indirectly, by trust or otherwise, the state bank or any company that controls the state bank;\n\n(d) A company in which a majority of the directors or trustees constitute a majority of the directors or trustees of the state bank or any company that controls the state bank;\n\n(e) A company, including a real estate investment trust, that is sponsored and advised on a contractual basis by the state bank or a subsidiary of the state bank;\n\n(f) An investment company to which the state bank or one of its affiliates is an investment advisor as defined in section 2(a)(20) of the \"Investment Company Act of 1940,\" 54 Stat. 789, 15 U.S.C. 80a-2(a)(20), as amended;\n\n(g) A company the superintendent of financial institutions determines by rule or order to have a relationship with the state bank or one of its subsidiaries or affiliates such that covered transactions by the state bank or its subsidiary with that company may be affected by the relationship to the detriment of the state bank or its subsidiary.",
+      "id": "1109.53-affiliate",
+      "normalized": "affiliate",
+      "scope": "",
+      "section": "1109.53",
+      "source_title": "Section 1109.53 - Transactions with affiliates definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1109.53",
+      "term": "Affiliate"
+    },
+    {
+      "definition": "(2) \"Affiliate\" does not include any of the following:\n\n(a) A company, other than a bank, that is a subsidiary of a state bank, unless a determination is made under division (A)(1)(g) of this section not to exclude the subsidiary company from the definition of affiliate;\n\n(b) A company engaged solely in holding the premises of the state bank;\n\n(c) A company engaged solely in conducting a safe-deposit business;\n\n(d) A company engaged solely in holding obligations of the United States or its agencies or instrumentalities or obligations fully guaranteed as to principal and interest by the United States or its agencies or instrumentalities;\n\n(e) A company where control results from the exercise of rights arising out of a bona fide debt previously contracted, but only for a period of two years from the date the rights are exercised, subject to extensions granted by the superintendent of not more than one year at a time nor three years in the aggregate.",
+      "id": "1109.53-affiliate",
+      "normalized": "affiliate",
+      "scope": "",
+      "section": "1109.53",
+      "source_title": "Section 1109.53 - Transactions with affiliates definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1109.53",
+      "term": "Affiliate"
+    },
+    {
+      "definition": "(A) \"Affiliate\" means any individual or entity controlling, controlled by, or under common control with a family trust company.",
+      "id": "1112.01-affiliate",
+      "normalized": "affiliate",
+      "scope": "As used in this chapter:",
+      "section": "1112.01",
+      "source_title": "Section 1112.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1112.01",
+      "term": "Affiliate"
+    },
+    {
+      "definition": "(1) \"Affiliated investment company\" means any investment company that is any of the following:\n\n(a) Sponsored by the trust company that is acting as fiduciary or by a trust company, bank, bank subsidiary corporation, or other corporation owned or controlled by the bank holding company that owns or controls the trust company that is acting as fiduciary;\n\n(b) The result of any agreement with a trust company, bank, bank subsidiary corporation, or other corporation owned or controlled by the bank holding company that owns or controls the trust company that is acting as fiduciary;\n\n(c) Established exclusively for the customers or accounts of the trust company that is acting as fiduciary or of a trust company, bank, bank subsidiary corporation, or other corporation owned or controlled by the bank holding company that owns or controls the trust company that is acting as fiduciary;\n\n(d) Provided with investment advisory, brokerage, transfer agency, registrar, management, shareholder servicing, custodian, or any related services by the trust company that is acting as fiduciary or by a trust company, bank, bank subsidiary corporation, or other corporation owned or controlled by the bank holding company that owns or controls the trust company that is acting as fiduciary.",
+      "id": "1111.13-affiliated-investment-company",
+      "normalized": "affiliated investment company",
+      "scope": "(E) As used in this section:",
+      "section": "1111.13",
+      "source_title": "Section 1111.13 - Investing of trust funds.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1111.13",
+      "term": "Affiliated investment company"
+    },
+    {
+      "definition": "(3) As used in division (E) of this section, \"affirmative action lending program\" means a program to remedy any deficiency of a bank in helping to meet the credit needs of its entire community.",
+      "id": "1117.02-affirmative-action-lending-program",
+      "normalized": "affirmative action lending program",
+      "scope": "",
+      "section": "1117.02",
+      "source_title": "Section 1117.02 - Application for establishing banking office.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1117.02",
+      "term": "affirmative action lending program"
+    },
+    {
+      "definition": "(B) \"Aggregate covered transactions\" means the amount of the covered transactions about to be engaged in added to the current amount of all outstanding covered transactions.",
+      "id": "1109.53-aggregate-covered-transactions",
+      "normalized": "aggregate covered transactions",
+      "scope": "",
+      "section": "1109.53",
+      "source_title": "Section 1109.53 - Transactions with affiliates definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1109.53",
+      "term": "Aggregate covered transactions"
+    },
+    {
+      "definition": "(1) \"Applicant\" means the person or persons seeking a shelf charter under this section.",
+      "id": "1115.24-applicant",
+      "normalized": "applicant",
+      "scope": "(A) As used in this section:",
+      "section": "1115.24",
+      "source_title": "Section 1115.24 - Shelf charter.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1115.24",
+      "term": "Applicant"
+    },
+    {
+      "definition": "(A) As used in the section, \"authorized capital\" means the initial funding required to organize a mutual state bank.\n\n(B) The authorized capital of a mutual state bank shall be of such amount as the superintendent of financial institutions may determine based upon the amount and character of the anticipated business of the bank and the safety of prospective depositors. In addition, the superintendent may, in the superintendent's discretion, fix the amount of the expense fund for operating losses to be created by nonrefundable contributions.\n\n(C) The organization of the mutual state bank may be completed when a sum equal to five per cent of the authorized capital, as determined by the superintendent, is paid in and the names and addresses of its officers, its code of regulations, and its bylaws have been filed with and approved by the superintendent.\n\n(D) Five years after the mutual state bank commences business, any remaining balance in the expense fund shall be transferred to retained earnings, if the bank is on a profitable operating basis as determined by the superintendent.",
+      "id": "1114.05-authorized-capital",
+      "normalized": "authorized capital",
+      "scope": "",
+      "section": "1114.05",
+      "source_title": "Section 1114.05 - Authorized capital.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1114.05",
+      "term": "authorized capital"
+    },
+    {
+      "definition": "(B) \"Bank\" or \"banking corporation\" means an entity that solicits, receives, or accepts money or its equivalent for deposit as a business, whether the deposit is made by check or is evidenced by a certificate of deposit, passbook, note, receipt, ledger card, or otherwise. \"Bank\" or \"banking corporation\" includes a state bank or any entity doing business as a bank, savings bank, or savings association under authority granted by the office of the comptroller of the currency or the former office of thrift supervision, the appropriate bank regulatory authority of another state of the United States, or the appropriate bank regulatory authority of another country, but does not include a credit union.",
+      "id": "1101.01-bank",
+      "normalized": "bank",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "Bank"
+    },
+    {
+      "definition": "(C) \"Bank holding company\" has the same meaning as in the \"Bank Holding Company Act of 1956,\" 70 Stat. 133, 12 U.S.C. 1841, as amended.",
+      "id": "1101.01-bank-holding-company",
+      "normalized": "bank holding company",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "Bank holding company"
+    },
+    {
+      "definition": "(1) \"Bankers' bank\" means a bank organized to engage exclusively in providing services to other depository institutions and depository institution holding companies and their officers, directors, and employees.",
+      "id": "1109.43-bankers-bank",
+      "normalized": "bankers' bank",
+      "scope": "",
+      "section": "1109.43",
+      "source_title": "Section 1109.43 - Investing in bankers' bank or holding company.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1109.43",
+      "term": "Bankers' bank"
+    },
+    {
+      "definition": "(2) \"Bankers' bank holding company\" means a corporation that owns or controls, directly or indirectly, a majority of the shares of the capital stock of a bankers' bank, or controls in any manner the election of a majority of the directors of a bankers' bank.",
+      "id": "1109.43-bankers-bank-holding-company",
+      "normalized": "bankers' bank holding company",
+      "scope": "",
+      "section": "1109.43",
+      "source_title": "Section 1109.43 - Investing in bankers' bank or holding company.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1109.43",
+      "term": "Bankers' bank holding company"
+    },
+    {
+      "definition": "(B) \"Bank\" or \"banking corporation\" means an entity that solicits, receives, or accepts money or its equivalent for deposit as a business, whether the deposit is made by check or is evidenced by a certificate of deposit, passbook, note, receipt, ledger card, or otherwise. \"Bank\" or \"banking corporation\" includes a state bank or any entity doing business as a bank, savings bank, or savings association under authority granted by the office of the comptroller of the currency or the former office of thrift supervision, the appropriate bank regulatory authority of another state of the United States, or the appropriate bank regulatory authority of another country, but does not include a credit union.",
+      "id": "1101.01-banking-corporation",
+      "normalized": "banking corporation",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "banking corporation"
+    },
+    {
+      "definition": "(D) \"Banking office\" means an office or other place established by a bank at which the bank receives money or its equivalent from the public for deposit and conducts a general banking business. \"Banking office\" does not include any of the following:\n\n(1) Any location at which a bank receives, but does not accept, cash or other items for subsequent deposit, such as by mail or armored car service or at a lock box or night depository;\n\n(2) Any structure located within five hundred yards of an approved banking office of a bank and operated as an extension of the services of the banking office;\n\n(3) Any automated teller machine, remote service unit, or other money transmission device owned, leased, or operated by a bank;\n\n(4) Any facility located within the geographical limits of a military installation at which a bank only accepts deposits and cashes checks;\n\n(5) Any location at which a bank takes and processes applications for loans and may disburse loan proceeds, but does not accept deposits;\n\n(6) Any location at which a bank is engaged solely in providing administrative support services for its own operations or for other depository institutions.",
+      "id": "1101.01-banking-office",
+      "normalized": "banking office",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "Banking office"
+    },
+    {
+      "definition": "(A) As used in this section, \"bona fide error\" means an unintentional clerical, calculation, computer malfunction or programming, or printing error.\n\n(B) A state bank, trust company, or regulated person shall not be held civilly liable in any action brought under Title XI or under Chapter 1309., 1317., or 1345. of the Revised Code, and shall not be subject to any sanction by the superintendent of financial institutions, if all of the following conditions are met:\n\n(1) The bank, trust company, or person shows by a preponderance of evidence that the compliance failure was not intentional and resulted from a bona fide error notwithstanding the maintenance of procedures reasonably adapted to avoid any such error.\n\n(2) Within sixty days after discovering the error, and prior to the initiation of any action by the superintendent or the receipt of written notice of the error from the consumer, the bank, trust company, or person notifies the superintendent and the consumer of the error and the manner in which the bank, trust company, or person intends to make full restitution to the consumer.\n\n(3) The bank, trust company, or person promptly makes reasonable restitution to the consumer.\n\n(C) If, in the event of a compliance failure, the bank, trust company, or regulated person does not meet the conditions set forth in division (B) of this section, a consumer injured by the error has a cause of action to recover damages. Such an action may not, however, be maintained as a class action.",
+      "id": "1121.61-bona-fide-error",
+      "normalized": "bona fide error",
+      "scope": "",
+      "section": "1121.61",
+      "source_title": "Section 1121.61 - Bona fide errors.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1121.61",
+      "term": "bona fide error"
+    },
+    {
+      "definition": "(E) \"Branch\" means a banking office that is not also the bank's principal place of business consistent with its articles of incorporation or articles of association.",
+      "id": "1101.01-branch",
+      "normalized": "branch",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "Branch"
+    },
+    {
+      "definition": "(B) \"Business entity\" means a partnership, corporation, limited liability company, or other entity.",
+      "id": "1112.01-business-entity",
+      "normalized": "business entity",
+      "scope": "As used in this chapter:",
+      "section": "1112.01",
+      "source_title": "Section 1112.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1112.01",
+      "term": "Business entity"
+    },
+    {
+      "definition": "(F)(1) With respect to a stock state bank, \"capital\" means the sum of the bank's:\n\n(a) Paid-in capital and surplus relating to common stock;\n\n(b) To the extent permitted by the superintendent of financial institutions, paid-in capital and surplus relating to preferred stock;\n\n(c) Undivided profits; and\n\n(d) To the extent permitted by the superintendent the proceeds of the sale of debt securities and other assets and reserves.",
+      "id": "1101.01-capital",
+      "normalized": "capital",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "capital"
+    },
+    {
+      "definition": "(2) With respect to a mutual state bank, \"capital\" means either of the following:\n\n(a) Retained earnings;\n\n(b) At the discretion of the superintendent, any other form of capital, subject to any applicable federal and state laws.",
+      "id": "1101.01-capital",
+      "normalized": "capital",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "capital"
+    },
+    {
+      "definition": "(A) \"Charitable trust\" means a charitable remainder annuity trust as defined in section 664(d) of the Internal Revenue Code, a charitable remainder unitrust as defined in section 664(d) of the Internal Revenue Code, a charitable lead or other split interest trust subject to the governing instrument requirements of section 508(e) of the Internal Revenue Code, a pooled income fund as defined in section 642(c) of the Internal Revenue Code, a trust that is a private foundation as defined in section 509 of the Internal Revenue Code, or a trust of which each beneficiary is a charity.",
+      "id": "1111.01-charitable-trust",
+      "normalized": "charitable trust",
+      "scope": "As used in this chapter:",
+      "section": "1111.01",
+      "source_title": "Section 1111.01 - Trust company definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1111.01",
+      "term": "Charitable trust"
+    },
+    {
+      "definition": "(B) \"Charity\" means a state university as defined in section 3345.011 of the Revised Code, a community college as defined in section 3354.01 of the Revised Code, a technical college as defined in section 3357.01 of the Revised Code, a state community college as defined in section 3358.01 of the Revised Code, a private college or university that possesses a certificate of authorization issued pursuant to Chapter 1713. of the Revised Code, a trust or organization exempt from taxation under section 501(c)(3) or section 501(c)(13) of the Internal Revenue Code, or a corporation, trust, or organization described in section 170(c)(2) of the Internal Revenue Code. The term \"charities\" means more than one trust or organization that is a charity.",
+      "id": "1111.01-charity",
+      "normalized": "charity",
+      "scope": "As used in this chapter:",
+      "section": "1111.01",
+      "source_title": "Section 1111.01 - Trust company definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1111.01",
+      "term": "Charity"
+    },
+    {
+      "definition": "(G) \"Code of regulations\" includes a constitution adopted by a state bank for similar purposes.",
+      "id": "1101.01-code-of-regulations",
+      "normalized": "code of regulations",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "Code of regulations"
+    },
+    {
+      "definition": "(2) \"Cofiduciary\" includes, but is not limited to, a cotrustee, coexecutor, coadministrator, coguardian, co-agent, and any person who, under the terms of the instrument creating the fiduciary relationship, has the right or power to direct, approve or consent to, or be consulted with respect to, the making, retention, or sale of investments under the instrument.",
+      "id": "1111.13-cofiduciary",
+      "normalized": "cofiduciary",
+      "scope": "(E) As used in this section:",
+      "section": "1111.13",
+      "source_title": "Section 1111.13 - Investing of trust funds.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1111.13",
+      "term": "Cofiduciary"
+    },
+    {
+      "definition": "(C) \"Collective investment fund\" means a fund established by a trust company or an affiliate of a trust company for the collective investment of assets held in a fiduciary capacity, either alone or with one or more cofiduciaries, by the establishing trust company and its affiliates.",
+      "id": "1111.01-collective-investment-fund",
+      "normalized": "collective investment fund",
+      "scope": "As used in this chapter:",
+      "section": "1111.01",
+      "source_title": "Section 1111.01 - Trust company definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1111.01",
+      "term": "Collective investment fund"
+    },
+    {
+      "definition": "(2)(a) \"Company\" means any corporation, limited liability company, partnership, business or other trust, association, joint venture, pool syndicate, sole proprietorship, unincorporated organization, or other business entity.",
+      "id": "1109.23-company",
+      "normalized": "company",
+      "scope": "",
+      "section": "1109.23",
+      "source_title": "Section 1109.23 - Extending credit to executive officers, directors, principal shareholders or to related interests.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1109.23",
+      "term": "Company"
+    },
+    {
+      "definition": "(b) \"Company\" does not include either of the following:\n\n(i) A bank, savings bank, or savings association, the deposits of which are insured by the federal deposit insurance corporation;\n\n(ii) A corporation the majority of the shares of which are owned by the United States or by any state of the United States.\n\n(3) \"Control\" of a company or state bank by a person means the person, directly or indirectly, or acting through or in concert with one or more persons, meets any of the following:\n\n(a) The person owns, controls, or has the power to vote twenty-five per cent or more of any class of the company's or, in the case of a stock state bank, the bank's voting securities.\n\n(b) The person controls in any manner the election of a majority of the company's or state bank's directors.\n\n(c) The person has the power to exercise a controlling influence over the company's or state bank's management or policies.",
+      "id": "1109.23-company",
+      "normalized": "company",
+      "scope": "",
+      "section": "1109.23",
+      "source_title": "Section 1109.23 - Extending credit to executive officers, directors, principal shareholders or to related interests.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1109.23",
+      "term": "Company"
+    },
+    {
+      "definition": "(C) \"Company\" means a corporation, limited liability company, partnership, business, trust, association, or similar organization and, unless specifically excluded by this section or section 1109.54 , 1109.55 , or 1109.56 of the Revised Code, a bank.",
+      "id": "1109.53-company",
+      "normalized": "company",
+      "scope": "",
+      "section": "1109.53",
+      "source_title": "Section 1109.53 - Transactions with affiliates definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1109.53",
+      "term": "Company"
+    },
+    {
+      "definition": "(A) As used in this section, \"consumer finance company\" means any person required to be licensed or registered under Chapter 1321., 1322., 4712., 4727., or 4728. or sections 1315.21 to 1315.30 of the Revised Code.\n\n(B) Neither the superintendent of financial institutions nor any other employee of the division of financial institutions shall do any of the following: have a business or investment interest, directly or indirectly, in any state bank, trust company, credit union, or consumer finance company that is under the supervision of the superintendent of financial institutions or in any affiliate of any such financial institution or company; directly or indirectly borrow money from any such financial institution or company; serve as a director or officer of or be employed by any such financial institution or company; or own an equity interest in any such financial institution or company or in any of its affiliates. For purposes of this section, an equity interest does not include the ownership of an account in a mutual savings and loan association or in a savings bank that does not have permanent stock or the ownership of a share account in a credit union.\n\n(C) Subject to division (G) of this section, an employee of the division of financial institutions may retain any extension of credit that otherwise would be prohibited by division (B) of this section if both of the following apply:\n\n(1) The employee obtained the extension of credit prior to October 29, 1995, or the commencement of the employee's employment with the division, or as a result of a change in the employee's marital status, the consummation of a merger, acquisition, transfer of assets, or other change in corporate ownership beyond the employee's control, or the sale of the extension of credit in the secondary market or other business transaction beyond the employee's control.\n\n(2) The employee liquidates the extension of credit under its original terms and without renegotiation.\n\nIf the employee chooses to retain the extension of credit, the employee shall immediately provide written notice of the retention to the employee's supervisor. Thereafter, the employee shall be disqualified from participating in any decision, examination, audit, or other action that may affect that particular creditor.\n\n(D) Subject to division (G) of this section, an employee of the division of financial institutions may retain any ownership of or beneficial interest in the securities of a financial institution or consumer finance company that is under the supervision of the division of financial institutions, or of a holding company or subsidiary of such a financial institution or company, which ownership or beneficial interest otherwise would be prohibited by division (B) of this section, if the ownership or beneficial interest is acquired by the employee through inheritance or gift, prior to October 29, 1995, or the commencement of the employee's employment with the division, or as a result of a change in the employee's marital status or the consummation of a merger, acquisition, transfer of assets, or other change in ownership beyond the employee's control.\n\nIf the employee chooses to retain the ownership or beneficial interest, the employee shall immediately provide written notice of the retention to the employee's supervisor. Thereafter, the employee shall be disqualified from participating in any decision, examination, audit, or other action that may affect the issuer of the securities. However, if the ownership of or beneficial interest in the securities and the subsequent disqualification required by this division impair the employee's ability to perform the employee's duties, the employee may be ordered to divest self of the ownership of or beneficial interest in the securities or to resign.\n\n(E) Notwithstanding division (B) of this section, an employee of the division of financial institutions may have an indirect interest in the securities of a financial institution or consumer finance company that is under the supervision of the division of financial institutions, which interest arises through ownership of or beneficial interest in the securities of a publicly held mutual fund or investment trust, if the employee owns or has a beneficial interest in less than five per cent of the securities of the mutual fund or investment trust, and the mutual fund or investment trust is not advised or sponsored by a financial institution or consumer finance company that is under the supervision of the division of financial institutions. If the mutual fund or investment trust is subsequently advised or sponsored by a financial institution or consumer finance company that is under the supervision of the division of financial institutions, the employee shall immediately provide written notice of the ownership of or beneficial interest in the securities to the employee's supervisor. Thereafter, the employee shall be disqualified from participating in any decision, examination, audit, or other action that may affect the financial institution or consumer finance company. However, if the ownership of or beneficial interest in the securities and the subsequent disqualification required by this division impair the employee's ability to perform the employee's duties, the employee may be ordered to divest self of the ownership of or beneficial interest in the securities or to resign.\n\n(F)(1) For purposes of this section, the interests of an employee's spouse or dependent child arising through the ownership or control of securities shall be considered the interests of the employee, unless the employee can demonstrate to the satisfaction of the superintendent that the interests are solely the financial interest and responsibility of the spouse or dependent child, the interests are not in any way derived from the income, assets, or activity of the employee, and any financial or economic benefit from the interests is for the personal use of the spouse or dependent child.\n\n(2) If an employee's spouse or dependent child obtains interests arising through the ownership or control of securities and, pursuant to division (F)(1) of this section, the interests are not considered the interests of the employee, the employee shall immediately provide written notice of the interests to the employee's supervisor. Thereafter, the employee shall be disqualified from participating in any decision, examination, audit, or other action that may affect the issuer of the securities.\n\n(G) For purposes of divisions (C) and (D) of this section, both of the following apply:\n\n(1) With respect to any employee of the former division of consumer finance who, on the first day of the first pay period commencing after September 26, 1996, becomes an employee of the division of financial institutions, the employee's employment with the division of financial institutions is deemed to commence on the first day of the first pay period commencing after September 26, 1996.\n\n(2) With respect to any employee who, on October 29, 1995, became an employee of the division of financial institutions, the employee may, notwithstanding divisions (C) and (D) of this section, retain any extension of credit by a consumer finance company that was obtained at any time prior to the first day of the first pay period commencing after September 26, 1996, or retain any ownership of or beneficial interest in the securities of a consumer finance company, or of a holding company or subsidiary of such a company, that was acquired at any time prior to the first day of the first pay period commencing after September 26, 1996. If the employee chooses to retain the extension of credit or the ownership or beneficial interest, the employee shall comply with divisions (C) and (D) of this section.",
+      "id": "1181.05-consumer-finance-company",
+      "normalized": "consumer finance company",
+      "scope": "",
+      "section": "1181.05",
+      "source_title": "Section 1181.05 - Conflicts of interest.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1181.05",
+      "term": "consumer finance company"
+    },
+    {
+      "definition": "(A) As used in this section, \"consumer finance company\" has the same meaning as in section 1181.05 of the Revised Code.\n\n(B) The superintendent of financial institutions shall see that the laws relating to consumer finance companies are executed and enforced.\n\n(C) The deputy superintendent for consumer finance shall be the principal supervisor of consumer finance companies. In that position the deputy superintendent for consumer finance shall, notwithstanding section 1321.421 , division (A) of section 1321.76 , and sections 1321.07 , 1321.55 , 1322.34 , 4727.05 , and 4728.05 of the Revised Code, be responsible for conducting examinations and preparing examination reports under those sections and under Chapter 4712. of the Revised Code. In addition, the deputy superintendent for consumer finance shall, notwithstanding sections 1315.27 , 1321.10 , 1321.43 , 1321.54 , 1321.77 , 1322.57 , 4712.14 , 4727.13 , and 4728.10 of the Revised Code, have the authority to adopt rules and standards in accordance with those sections. In performing or exercising any of the examination, rule-making, or other regulatory functions, powers, or duties vested by this division in the deputy superintendent for consumer finance, the deputy superintendent for consumer finance shall be subject to the control of the superintendent of financial institutions and the director of commerce.\n\nThe Legislative Service Commission presents the text of this section as a composite of the section as amended by multiple acts of the General Assembly. This presentation recognizes the principle stated in R.C. 1.52(B) that amendments are to be harmonized if reasonably capable of simultaneous operation.",
+      "id": "1181.21-consumer-finance-company",
+      "normalized": "consumer finance company",
+      "scope": "",
+      "section": "1181.21",
+      "source_title": "Section 1181.21 - Regulating consumer finance companies.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1181.21",
+      "term": "consumer finance company"
+    },
+    {
+      "definition": "(H) \"Control\" has the same meaning as in division (H) of section 1109.53 of the Revised Code.",
+      "id": "1101.01-control",
+      "normalized": "control",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "Control"
+    },
+    {
+      "definition": "(C) \"Control\" means the power to direct or cause the direction of the management and policies of a business entity, whether through ownership of voting securities, by contract, or otherwise.",
+      "id": "1112.01-control",
+      "normalized": "control",
+      "scope": "As used in this chapter:",
+      "section": "1112.01",
+      "source_title": "Section 1112.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1112.01",
+      "term": "Control"
+    },
+    {
+      "definition": "(2) \"Control\" has the same meaning as in section 1115.06 of the Revised Code and any rules adopted under that section.",
+      "id": "1115.24-control",
+      "normalized": "control",
+      "scope": "(A) As used in this section:",
+      "section": "1115.24",
+      "source_title": "Section 1115.24 - Shelf charter.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1115.24",
+      "term": "Control"
+    },
+    {
+      "definition": "(1) A director, officer, or employee of or agent for a bank or trust company or a person who controls a state bank, foreign bank, or trust company. For purposes of division (B)(1) of this section, \"control\" has the same meaning as in section 1115.06 of the Revised Code.\n\n(2) A person who is required to obtain, but has not yet obtained, the consent of the superintendent of financial institutions to acquire control of a state bank pursuant to section 1115.06 of the Revised Code;\n\n(3) A person participating in the conduct of the affairs of a state bank or trust company.",
+      "id": "1121.01-control",
+      "normalized": "control",
+      "scope": "As used in this chapter:",
+      "section": "1121.01",
+      "source_title": "Section 1121.01 - Banks - superintendent's powers definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1121.01",
+      "term": "control"
+    },
+    {
+      "definition": "(1) \"Control\" means either of the following:\n\n(a) The power to vote, directly or indirectly, at least twenty-five per cent of outstanding voting shares or voting interests of a licensee or person in control of a licensee;\n\n(b) The power to elect or appoint a majority of executive officers or directors.",
+      "id": "1121.23-control",
+      "normalized": "control",
+      "scope": "(A) As used in this section:",
+      "section": "1121.23",
+      "source_title": "Section 1121.23 - Criminal records check to be requested by superintendent.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1121.23",
+      "term": "Control"
+    },
+    {
+      "definition": "(A) As used in this chapter, \"court\" means the court of common pleas of the county in which the principal place of business of a state bank, as set forth in its articles of incorporation, is located or of any other county determined by the superintendent of financial institutions to be appropriate under the circumstances.\n\n(B) The court shall have exclusive original jurisdiction of any action or proceeding relating to or arising out of the taking of possession of the property and business of a state bank under this chapter, whether before or after the bank is wound up and dissolved, as well as any action or other proceeding brought under this chapter.\n\n(C) Whenever the approval of the court is required for any act under this chapter, that approval may be given with or without a hearing held upon whatever notice, if any, the court may direct, unless otherwise provided in this chapter. At a hearing, the court, by order, may approve the actions petitioned.",
+      "id": "1125.01-court",
+      "normalized": "court",
+      "scope": "",
+      "section": "1125.01",
+      "source_title": "Section 1125.01 - Jurisdiction of court.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1125.01",
+      "term": "court"
+    },
+    {
+      "definition": "(D)(1) \"Covered transaction\" means, with respect to an affiliate of a state bank, any of the following:\n\n(a) A loan or extension of credit to the affiliate;\n\n(b) A purchase of or an investment in securities issued by the affiliate;\n\n(c) A purchase of assets, including assets subject to an agreement to repurchase, from the affiliate, except the purchase of real or personal property as specifically exempted by the superintendent by rule or order;\n\n(d) The acceptance of securities issued by the affiliate as collateral security for a loan or extension of credit to any person or company;\n\n(e) The issuance of a guarantee, acceptance, or letter of credit, including an endorsement or standby letter of credit to any person or company.",
+      "id": "1109.53-covered-transaction",
+      "normalized": "covered transaction",
+      "scope": "",
+      "section": "1109.53",
+      "source_title": "Section 1109.53 - Transactions with affiliates definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1109.53",
+      "term": "Covered transaction"
+    },
+    {
+      "definition": "(2) \"Covered transaction\" does not include any of the following:\n\n(a) A transaction with another bank if either of the following apply:\n\n(i) One of the banks controls eighty per cent or more of the voting shares of the other bank.\n\n(ii) The same company controls eighty per cent or more of the voting shares of both banks.\n\n(b) Making deposits in an affiliated bank or affiliated foreign bank in the ordinary course of correspondent business, subject to any restrictions the superintendent may prescribe by rule or order;\n\n(c) Giving immediate credit to an affiliate for uncollected items received in the ordinary course of business;\n\n(d) Making a loan or extension of credit to, or issuing a guarantee, acceptance, or letter of credit on behalf of, an affiliate that is fully secured by one of the following:\n\n(i) Obligations of the United States or its agencies or instrumentalities;\n\n(ii) Obligations fully guaranteed as to principal and interest by the United States or its agencies or instrumentalities;\n\n(iii) A segregated, earmarked deposit account with the state bank.\n\n(e) Purchasing securities issued by a company engaged solely in one or more of the following activities:\n\n(i) Holding or operating properties used or to be used wholly or substantially by any bank subsidiary of a company that controls the state bank in the operations of the bank subsidiary;\n\n(ii) Conducting a safe-deposit business;\n\n(iii) Furnishing services to or performing services for a company that controls the state bank or its subsidiaries;\n\n(iv) Liquidating assets acquired from a company that controls the state bank or its banking subsidiaries.\n\n(f) Purchasing assets having a readily identifiable and publicly available market quotation and purchased at that market quotation or purchasing loans on a nonrecourse basis from affiliated banks;\n\n(g) Purchasing from an affiliate a loan or extension of credit that was originated by the state bank and sold to the affiliate subject to a repurchase agreement or with recourse.",
+      "id": "1109.53-covered-transaction",
+      "normalized": "covered transaction",
+      "scope": "",
+      "section": "1109.53",
+      "source_title": "Section 1109.53 - Transactions with affiliates definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1109.53",
+      "term": "Covered transaction"
+    },
+    {
+      "definition": "(1) \"Credit outstanding\" means any loan, extension of credit, issuance of a guarantee, acceptance, or letter of credit, including an endorsement or standby letter of credit, or other transaction that extends financing to a person or group of persons.",
+      "id": "1115.07-credit-outstanding",
+      "normalized": "credit outstanding",
+      "scope": "(A) As used in this section:",
+      "section": "1115.07",
+      "source_title": "Section 1115.07 - Report of outstanding credit.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1115.07",
+      "term": "Credit outstanding"
+    },
+    {
+      "definition": "(I) \"Debt securities\" means obligations issued by a bank the holders of which, in the event of the insolvency or liquidation of the bank, are subordinated in right of payment to the bank's depositors and general creditors.",
+      "id": "1101.01-debt-securities",
+      "normalized": "debt securities",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "Debt securities"
+    },
+    {
+      "definition": "(J) \"Deposit\" has the same meaning as in 12 C.F.R. 204.2, as amended.",
+      "id": "1101.01-deposit",
+      "normalized": "deposit",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "Deposit"
+    },
+    {
+      "definition": "(3) \"Depository institution\" means a bank, savings association, savings bank, or credit union.\n\n(B) A state bank may invest, in the aggregate, up to ten per cent of its capital in shares of bankers' banks or bankers' bank holding companies.\n\n(C)(1) The voting shares of a bankers' bank shall be owned by twenty or more depository institutions or depository institution holding companies, and no depository institution or depository institution holding company shall own, directly or indirectly, more than fifteen per cent of the voting shares of a bankers' bank.\n\n(2) The voting shares of a bankers' bank shall be owned, directly or indirectly, exclusively by depository institutions, depository institution holding companies, and persons who hold the shares under, or initially acquired them through, a plan for the benefit of the bankers' bank's officers and employees.",
+      "id": "1109.43-depository-institution",
+      "normalized": "depository institution",
+      "scope": "",
+      "section": "1109.43",
+      "source_title": "Section 1109.43 - Investing in bankers' bank or holding company.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1109.43",
+      "term": "Depository institution"
+    },
+    {
+      "definition": "(1) \"Derivative transaction\" includes any transaction that is a contract, agreement, swap, warrant, note, or option that is based, in whole or in part, on the value of, any interest in, or any quantitative measure or the occurrence of any event relating to, one or more commodities, securities, currencies, interest or other rates, indices, or other assets.\n\n(2) \"Loans and extensions of credit\" shall include all of the following:\n\n(a) All direct or indirect advances of funds made on the basis of any obligation of a person to repay the funds or repayable from specific property pledged by or on behalf of the person;\n\n(b) To the extent specified by the superintendent of financial institutions, any liability of a bank to advance funds to or on behalf of a person pursuant to a contractual commitment;\n\n(c) Any credit exposure to a person arising from a derivative transaction between the person and a bank.",
+      "id": "1109.22-derivative-transaction",
+      "normalized": "derivative transaction",
+      "scope": "(A) As used in this section:",
+      "section": "1109.22",
+      "source_title": "Section 1109.22 - Total loans and extensions of credit to person outstanding at any one time.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1109.22",
+      "term": "Derivative transaction"
+    },
+    {
+      "definition": "(D)(1) With respect to a licensed family trust company or a family trust company applying for a license under this chapter, \"designated relative\" means the common ancestor of the family, whether living or deceased, who is designated in the application for a license.",
+      "id": "1112.01-designated-relative",
+      "normalized": "designated relative",
+      "scope": "As used in this chapter:",
+      "section": "1112.01",
+      "source_title": "Section 1112.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1112.01",
+      "term": "designated relative"
+    },
+    {
+      "definition": "(2)With respect to any other family trust company, \"designated relative\" means the common ancestor of the family, whether living or deceased, who is designated in a written document by the family trust company, which document is maintained with the permanent records of the family trust company.\n\n(3) Once designated, a \"designated relative\" may not be changed.",
+      "id": "1112.01-designated-relative",
+      "normalized": "designated relative",
+      "scope": "As used in this chapter:",
+      "section": "1112.01",
+      "source_title": "Section 1112.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1112.01",
+      "term": "designated relative"
+    },
+    {
+      "definition": "(2) \"Director\" means an individual elected to serve as the director of a for-profit corporation pursuant to section 1701.55 of the Revised Code or an individual elected to serve as the director of a nonprofit corporation pursuant to section 1702.26 of the Revised Code.",
+      "id": "1121.23-director",
+      "normalized": "director",
+      "scope": "(A) As used in this section:",
+      "section": "1121.23",
+      "source_title": "Section 1121.23 - Criminal records check to be requested by superintendent.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1121.23",
+      "term": "Director"
+    },
+    {
+      "definition": "(K) \"Entity\" has the same meaning as in section 1701.01 of the Revised Code.",
+      "id": "1101.01-entity",
+      "normalized": "entity",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "Entity"
+    },
+    {
+      "definition": "(4) \"Executive officer\" means a person who participates or has the authority to participate, other than as a director, in major policymaking functions of a company or state bank.",
+      "id": "1109.23-executive-officer",
+      "normalized": "executive officer",
+      "scope": "",
+      "section": "1109.23",
+      "source_title": "Section 1109.23 - Extending credit to executive officers, directors, principal shareholders or to related interests.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1109.23",
+      "term": "Executive officer"
+    },
+    {
+      "definition": "(1) Any natural person who is an executive officer, director, trustee, or general partner of, or a person serving in a similar capacity to, the family trust company. For purposes of division (J)(1) of this section, \"executive officer\" means the president, any vice-president in charge of a principal business unit, division, or function such as administration or finance, any other officer who performs a policymaking function, or any other person who performs a similar policymaking function.\n\n(2) The spouse or spousal equivalent of a person described in division (J)(1) of this section, if the spouse or spousal equivalent holds a joint, community property, or other similar shared ownership interest with that person;\n\n(3) Any employee of the family trust company, other than an employee performing solely clerical, secretarial, or administrative functions or duties, who participates in the investment activities of the family trust company, provided that the employee has been participating in those investment activities for or on behalf of the family trust company, or has been performing similar functions or duties for or on behalf of another business entity, for at least one year.",
+      "id": "1112.01-executive-officer",
+      "normalized": "executive officer",
+      "scope": "As used in this chapter:",
+      "section": "1112.01",
+      "source_title": "Section 1112.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1112.01",
+      "term": "executive officer"
+    },
+    {
+      "definition": "(B) \"Executive officer\" has the same meaning as in section 1109.23 of the Revised Code.",
+      "id": "1119.01-executive-officer",
+      "normalized": "executive officer",
+      "scope": "As used in this chapter, unless the context otherwise requires:",
+      "section": "1119.01",
+      "source_title": "Section 1119.01 - Foreign bank definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1119.01",
+      "term": "Executive officer"
+    },
+    {
+      "definition": "(3) \"Executive officer\" means president, treasurer, secretary, any individual at or above the senior vice-president level or its functional equivalent, any individual at the vice-president level or its functional equivalent if the organization does not have senior vice-presidents, and \"manager\" as that term is defined in section 1706.01 of the Revised Code.",
+      "id": "1121.23-executive-officer",
+      "normalized": "executive officer",
+      "scope": "(A) As used in this section:",
+      "section": "1121.23",
+      "source_title": "Section 1121.23 - Criminal records check to be requested by superintendent.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1121.23",
+      "term": "Executive officer"
+    },
+    {
+      "definition": "(5) To \"extend credit\" or to make an \"extension of credit\" means to make or renew any loan, to grant a line of credit, or to enter into any similar transaction as a result of which an executive officer, director, or principal shareholder, or any of that person's related interests, becomes obligated, directly, indirectly, or by any means whatsoever, to pay money or its equivalent to the state bank.",
+      "id": "1109.23-extension-of-credit",
+      "normalized": "extension of credit",
+      "scope": "",
+      "section": "1109.23",
+      "source_title": "Section 1109.23 - Extending credit to executive officers, directors, principal shareholders or to related interests.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1109.23",
+      "term": "extension of credit"
+    },
+    {
+      "definition": "(E) \"Family affiliate\" means a business entity controlled by family members or affiliates.",
+      "id": "1112.01-family-affiliate",
+      "normalized": "family affiliate",
+      "scope": "As used in this chapter:",
+      "section": "1112.01",
+      "source_title": "Section 1112.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1112.01",
+      "term": "Family affiliate"
+    },
+    {
+      "definition": "(F)(1) \"Family client\" means all of the following:\n\n(a) Any family member;\n\n(b) Any former family member;\n\n(c) Any key employee;\n\n(d) Any former key employee provided that, upon the end of the individual's employment by the family trust company, the individual does not receive investment advice from the family trust company, or invest additional assets with a family trust company-advised trust, foundation, or entity, other than with respect to assets advised directly or indirectly by the family trust company immediately prior to the end of the individual's employment. Nothing in division (F)(1)(d) of this section shall be considered to preclude a former key employee from being a family client if the employee received investment advice from the family trust company with respect to additional investments that the individual was contractually obligated to make, and that relate to a family trust company-advised investment existing, prior to the end of the individual's employment by the family trust company.\n\n(e) Any nonprofit organization, charitable foundation, charitable trust, including a charitable lead trust and charitable remainder trust whose only current beneficiaries are other family clients and charitable or nonprofit organizations, or other charitable organization, so long as all of the contributions to the organization, foundation, or trust came exclusively from one or more other family clients;\n\n(f) Any estate of a family member, former family member, key employee, or former key employee;\n\n(g) Any irrevocable trust in which one or more other family clients are the only current beneficiaries;\n\n(h) Any irrevocable trust funded exclusively by one or more other family clients in which other family clients and nonprofit organizations, charitable foundations, charitable trusts, or other charitable organizations are the only current beneficiaries;\n\n(i) Any revocable trust of which one or more other family clients are the sole grantors;\n\n(j) Any trust to which both of the following conditions apply:\n\n(i) Each trustee or other person authorized to make decisions with respect to the trust is a key employee.\n\n(ii) Each settlor or other person who has contributed assets to the trust is a key employee or the key employee's current or former spouse or spousal equivalent who, at the time of the contribution, holds a joint, community property, or other similar shared ownership interest with the key employee.\n\n(k) Any business entity wholly owned, either directly or indirectly, exclusively by and operated for the sole benefit of one or more other family clients.\n\n(2) With respect to licensed family trust companies only, \"family client\" also means a family affiliate and any shareholder, partner, member, director, officer, or employee of a family affiliate who is an individual described in division (F)(1) of this section.",
+      "id": "1112.01-family-client",
+      "normalized": "family client",
+      "scope": "As used in this chapter:",
+      "section": "1112.01",
+      "source_title": "Section 1112.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1112.01",
+      "term": "Family client"
+    },
+    {
+      "definition": "(2) It is wholly owned by family clients and is exclusively controlled, either directly or indirectly, by one or more family members or family entities. For purposes of division (H)(2) of this section, \"family entity\" means any of the trusts, estates, or other entities described in division (F)(1)(e), (f), (g), (h), (i), or (k) of this section, except for key employees and their trusts.\n\n(3) It acts as a fiduciary.\n\n(4) It does not transact trust business with, propose to act as a fiduciary for, or accept trust business from, a person that is not a family client.",
+      "id": "1112.01-family-entity",
+      "normalized": "family entity",
+      "scope": "As used in this chapter:",
+      "section": "1112.01",
+      "source_title": "Section 1112.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1112.01",
+      "term": "family entity"
+    },
+    {
+      "definition": "(G)(1) \"Family member\" means all of the following, provided that the designated relative is not more than ten generations removed from the youngest generation of family members:\n\n(a) All lineal descendants, including adopted children, stepchildren, foster children, and individuals who were a minor when another family member became a legal guardian of the individual, of the designated relative;\n\n(b) Such lineal descendants' spouses or spousal equivalents.\n\n(2) With respect to licensed family trust companies only, \"family member\" also means all of the following:\n\n(a) An ancestor or sibling of a spouse or spousal equivalent described in division (G)(1) of this section;\n\n(b) Any individual who is a beneficiary of a will or trust established by an individual described in division (G)(1) of this section, provided that, at any given time, the number of individuals qualifying as family members under division (G)(2)(b) of this section does not exceed twenty-five.",
+      "id": "1112.01-family-member",
+      "normalized": "family member",
+      "scope": "As used in this chapter:",
+      "section": "1112.01",
+      "source_title": "Section 1112.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1112.01",
+      "term": "Family member"
+    },
+    {
+      "definition": "(H) \"Family trust company\" means a corporation or limited liability company organized under the laws of this state that meets all of the following requirements:\n\n(1) It is organized to serve only family clients.",
+      "id": "1112.01-family-trust-company",
+      "normalized": "family trust company",
+      "scope": "As used in this chapter:",
+      "section": "1112.01",
+      "source_title": "Section 1112.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1112.01",
+      "term": "Family trust company"
+    },
+    {
+      "definition": "(L) \"Federal savings association\" means a federal savings and loan association or a federal savings bank doing business under authority granted by the office of the comptroller of the currency or the former office of thrift supervision.",
+      "id": "1101.01-federal-savings-association",
+      "normalized": "federal savings association",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "Federal savings association"
+    },
+    {
+      "definition": "(D) \"Fiduciary investment company\" means a corporation that is both of the following:\n\n(1) An investment company;\n\n(2) Incorporated, owned, and operated in accordance with rules adopted by the superintendent of financial institutions for the investment of funds held by trust companies in a fiduciary capacity and for true fiduciary purposes, either alone or with one or more cofiduciaries.",
+      "id": "1111.01-fiduciary-investment-company",
+      "normalized": "fiduciary investment company",
+      "scope": "As used in this chapter:",
+      "section": "1111.01",
+      "source_title": "Section 1111.01 - Trust company definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1111.01",
+      "term": "Fiduciary investment company"
+    },
+    {
+      "definition": "(2) \"Financial institution\" means a state bank, national bank, savings bank, savings association, or a bank doing business under authority granted by the bank regulatory authority of another state of the United States or another country.",
+      "id": "1115.07-financial-institution",
+      "normalized": "financial institution",
+      "scope": "(A) As used in this section:",
+      "section": "1115.07",
+      "source_title": "Section 1115.07 - Report of outstanding credit.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1115.07",
+      "term": "Financial institution"
+    },
+    {
+      "definition": "(A) \"Financial institution regulatory authority\" includes a regulator of a business activity in which a bank or trust company is engaged, or has applied to engage in, to the extent that the regulator has jurisdiction over a bank or trust company engaged in that business activity. A bank or trust company is engaged in a business activity, and a regulator of that business activity has jurisdiction over the bank or trust company, whether the bank or trust company conducts the activity directly or a subsidiary or affiliate of the bank or trust company conducts the activity.",
+      "id": "1121.01-financial-institution-regulatory-authority",
+      "normalized": "financial institution regulatory authority",
+      "scope": "As used in this chapter:",
+      "section": "1121.01",
+      "source_title": "Section 1121.01 - Banks - superintendent's powers definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1121.01",
+      "term": "Financial institution regulatory authority"
+    },
+    {
+      "definition": "(A) \"Foreign bank\" means any company, or any subsidiary or affiliate of a company, organized under the laws of a foreign country, a territory of the United States, Puerto Rico, Guam, American Samoa, or the Virgin Islands, that engages in the business of banking. \"Foreign bank\" includes, without limitation, a foreign commercial bank, foreign merchant bank, or other foreign institution that engages in banking activities usually conducted in connection with the business of banking in the country that granted its charter or countries where the foreign institution is operating.",
+      "id": "1119.01-foreign-bank",
+      "normalized": "foreign bank",
+      "scope": "As used in this chapter, unless the context otherwise requires:",
+      "section": "1119.01",
+      "source_title": "Section 1119.01 - Foreign bank definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1119.01",
+      "term": "Foreign bank"
+    },
+    {
+      "definition": "(I) \"Former family member\" means a spouse, spousal equivalent, or stepchild who was a family member but is no longer a family member due to a divorce or other similar event.",
+      "id": "1112.01-former-family-member",
+      "normalized": "former family member",
+      "scope": "As used in this chapter:",
+      "section": "1112.01",
+      "source_title": "Section 1112.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1112.01",
+      "term": "Former family member"
+    },
+    {
+      "definition": "As used in this division, \"good faith\" has the same meaning as in section 1301.201 of the Revised Code.\n\n(B) A bank may, with the customer's consent, provide electronically any statement, notice, or report required to be provided customers under this chapter. A customer's consent may be obtained electronically or in writing.\n\n(C) A bank customer may, with the bank's consent, provide electronically any notice required to be provided to the bank under this chapter. A bank's consent may be obtained electronically or in writing.",
+      "id": "1109.04-good-faith",
+      "normalized": "good faith",
+      "scope": "",
+      "section": "1109.04",
+      "source_title": "Section 1109.04 - Good faith reliance; electronic statements and notice.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1109.04",
+      "term": "good faith"
+    },
+    {
+      "definition": "(3) \"Group of persons\" includes any number of persons the financial institution reasonably believes are either of the following:\n\n(a) Persons who are acting together, in concert, or with one another to acquire or control shares of the same stock state bank, including an acquisition of shares of the same stock state bank at approximately the same time under substantially the same terms.\n\n(b) Persons who have made, or have proposed to make, a joint filing under section 13 of Title I of the \"Securities Exchange Act of 1934,\" 48 Stat. 881, 15 U.S.C.A. 78m, as amended, regarding ownership of the shares of the same stock state bank.\n\n(B)(1) Except as provided in division (D) of this section, any financial institution or any affiliate of a financial institution that has credit outstanding to any person or group of persons that is secured, directly or indirectly, by shares of a stock state bank shall file a consolidated report with the superintendent of financial institutions if the credits outstanding are, in the aggregate, secured, directly or indirectly, by twenty-five per cent or more of the outstanding shares of any class of the same stock state bank.\n\n(2) For purposes of division (B)(1) of this section, any shares of the stock state bank held by the financial institution or any of its affiliates as principal shall be included in the calculation of the number of shares in which the financial institution or its affiliates has a security interest.\n\n(C) The report required under division (B)(1) of this section shall be a consolidated report on behalf of the financial institution and all its affiliates, and shall be filed in writing within thirty days after the date on which the financial institution or any of its affiliates first believes the security for any outstanding credit consists of twenty-five per cent or more of the outstanding shares of any class of a stock state bank.\n\nThe report shall indicate the number and percentage of shares securing each credit outstanding, the identity of the borrower, and the number of shares held as principal by the financial institution or any of its affiliates. It also shall contain all of the information required in a notice under section 1115.06 of the Revised Code, and any other relevant information the superintendent may require by rule or by specific request in connection with a particular report.\n\n(D) A financial institution and its affiliates shall not be required to report a transaction under this section if either of the following applies:\n\n(1) The person or group of persons to whom the credit is outstanding has disclosed to the superintendent the amount borrowed from the financial institution or its affiliate and the security interest of the financial institution or its affiliate in connection with a notice given under section 1115.06 of the Revised Code or with any other application filed with the superintendent, such as an application for an interim bank charter.\n\n(2) The transaction involves either of the following:\n\n(a) A person or group of persons that has been the owner of record of the shares for at least one year;\n\n(b) Shares issued by a newly chartered stock state bank before the bank's opening.",
+      "id": "1115.07-group-of-persons",
+      "normalized": "group of persons",
+      "scope": "(A) As used in this section:",
+      "section": "1115.07",
+      "source_title": "Section 1115.07 - Report of outstanding credit.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1115.07",
+      "term": "Group of persons"
+    },
+    {
+      "definition": "(E) \"Home\" has the same meaning as in section 3721.10 of the Revised Code.",
+      "id": "1111.01-home",
+      "normalized": "home",
+      "scope": "As used in this chapter:",
+      "section": "1111.01",
+      "source_title": "Section 1111.01 - Trust company definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1111.01",
+      "term": "Home"
+    },
+    {
+      "definition": "(4) \"Incorporator\" has the same meaning as in section 1701.01 of the Revised Code.",
+      "id": "1121.23-incorporator",
+      "normalized": "incorporator",
+      "scope": "(A) As used in this section:",
+      "section": "1121.23",
+      "source_title": "Section 1121.23 - Criminal records check to be requested by superintendent.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1121.23",
+      "term": "Incorporator"
+    },
+    {
+      "definition": "(A) As used in this section, \"independent auditor\" means an external, unaffiliated auditor who has a certified public accounting designation that qualifies the person to provide an auditor's report.\n\n(B) The superintendent of financial institutions may, when circumstances warrant, require a bank or trust company to have an independent auditor conduct agreed upon procedures prescribed by the superintendent. The independent auditor shall be retained, and the expense of the agreed upon procedures shall be paid, by the bank or trust company. The agreed upon procedures shall be conducted in accordance with standards established by the American institute of certified public accountants.\n\n(C) The board of directors of the bank or trust company shall, within sixty days after receipt of the report prepared by the independent auditor for the agreed upon procedures conducted pursuant to this section, prepare a response to the report and file the report and the board's response with the superintendent. A report and response filed with the superintendent pursuant to this section may be disclosed only as provided in section 1121.18 of the Revised Code.",
+      "id": "1121.50-independent-auditor",
+      "normalized": "independent auditor",
+      "scope": "",
+      "section": "1121.50",
+      "source_title": "Section 1121.50 - Independent auditor.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1121.50",
+      "term": "independent auditor"
+    },
+    {
+      "definition": "(F) \"Instrument\" includes any will, declaration of trust, agreement of trust, agency, or custodianship, or court order creating a fiduciary relationship.",
+      "id": "1111.01-instrument",
+      "normalized": "instrument",
+      "scope": "As used in this chapter:",
+      "section": "1111.01",
+      "source_title": "Section 1111.01 - Trust company definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1111.01",
+      "term": "Instrument"
+    },
+    {
+      "definition": "(3) \"Instrument\" includes, but is not limited to, any will, declaration of trust, agreement of trust, agency, or custodianship, or court order creating a fiduciary relationship.",
+      "id": "1111.13-instrument",
+      "normalized": "instrument",
+      "scope": "(E) As used in this section:",
+      "section": "1111.13",
+      "source_title": "Section 1111.13 - Investing of trust funds.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1111.13",
+      "term": "Instrument"
+    },
+    {
+      "definition": "For purposes of this division and division (B) of this section, \"Internal Revenue Code\" means the \"Internal Revenue Code of 1986,\" 100 Stat. 2085, 26 U.S.C.A. 1, as amended.",
+      "id": "1111.01-internal-revenue-code",
+      "normalized": "internal revenue code",
+      "scope": "As used in this chapter:",
+      "section": "1111.01",
+      "source_title": "Section 1111.01 - Trust company definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1111.01",
+      "term": "Internal Revenue Code"
+    },
+    {
+      "definition": "(H) \"Investment company\" means any investment company as defined in section 3 and registered under section 8 of the \"Investment Company Act of 1940,\" 54 Stat. 789, 15 U.S.C.A. 80a-3 and 80a-8, as amended.",
+      "id": "1111.01-investment-company",
+      "normalized": "investment company",
+      "scope": "As used in this chapter:",
+      "section": "1111.01",
+      "source_title": "Section 1111.01 - Trust company definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1111.01",
+      "term": "Investment company"
+    },
+    {
+      "definition": "(J) \"Key employee\" means all of the following:",
+      "id": "1112.01-key-employee",
+      "normalized": "key employee",
+      "scope": "As used in this chapter:",
+      "section": "1112.01",
+      "source_title": "Section 1112.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1112.01",
+      "term": "Key employee"
+    },
+    {
+      "definition": "(K) \"Licensed family trust company\" means a family trust company licensed under this chapter.",
+      "id": "1112.01-licensed-family-trust-company",
+      "normalized": "licensed family trust company",
+      "scope": "As used in this chapter:",
+      "section": "1112.01",
+      "source_title": "Section 1112.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1112.01",
+      "term": "Licensed family trust company"
+    },
+    {
+      "definition": "(E) \"Low quality asset\" means an asset that is one or more of the following:\n\n(1) An asset classified as \"substandard,\" \"doubtful,\" or \"loss,\" or treated as \"other loans especially mentioned\" in the most recent report of examination or inspection of an affiliate prepared by any of the federal deposit insurance corporation, the federal reserve, the office of the comptroller of the currency, the division of financial institutions, or the financial institution regulators of other states of the United States;\n\n(2) An asset in a nonaccrual status;\n\n(3) An asset on which principal or interest payments are more than thirty days past due;\n\n(4) An asset whose terms have been renegotiated or compromised due to the deteriorating financial condition of the obligor.",
+      "id": "1109.53-low-quality-asset",
+      "normalized": "low quality asset",
+      "scope": "",
+      "section": "1109.53",
+      "source_title": "Section 1109.53 - Transactions with affiliates definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1109.53",
+      "term": "Low quality asset"
+    },
+    {
+      "definition": "(M) \"Mutual holding company\" means either of the following:\n\n(1) A mutual state bank or an affiliate of a mutual state bank reorganized in accordance with Chapter 1116. of the Revised Code to hold all or part of the shares of the capital stock of a subsidiary state bank;\n\n(2) A mutual holding company organized in accordance with 12 U.S.C. 1467a(o) that has converted to a mutual holding company under Chapter 1116. of the Revised Code.",
+      "id": "1101.01-mutual-holding-company",
+      "normalized": "mutual holding company",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "Mutual holding company"
+    },
+    {
+      "definition": "(N) \"Mutual state bank\" means a state bank without stock that has governing documents consisting of articles of incorporation and code of regulations adopted by its members and bylaws adopted by its board of directors.",
+      "id": "1101.01-mutual-state-bank",
+      "normalized": "mutual state bank",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "Mutual state bank"
+    },
+    {
+      "definition": "(O) \"National bank\" means a bank doing business under authority granted by the office of the comptroller of the currency.",
+      "id": "1101.01-national-bank",
+      "normalized": "national bank",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "National bank"
+    },
+    {
+      "definition": "(P) \"Net income\" means all income realized or earned less all expenses realized or accrued.",
+      "id": "1101.01-net-income",
+      "normalized": "net income",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "Net income"
+    },
+    {
+      "definition": "(2) \"Ohio bank\" means a state bank or a national bank whose principal place of business is in this state.\n\n(B) Subject to division (C) of this section, a bank, bank holding company, federal savings association, or savings and loan holding company whose principal place of business is in this state or any other state may charter or otherwise acquire an Ohio bank, and a bank may acquire banking offices in this state by merger or consolidation with or transfer of assets and liabilities from a bank, savings bank, or savings association that has offices in this state, if, upon consummation of the acquisition, both of the following will apply:\n\n(1) The acquiring bank, bank holding company, federal savings association, or savings and loan holding company, with or through its affiliate banks, savings banks, and savings associations, does not control more than ten per cent of the total deposits of banks, savings banks, and savings associations in the United States, and either of the following applies:\n\n(a) The acquiring bank, acquiring bank holding company, federal savings association, or savings and loan holding company, with or through its affiliate banks, savings banks, and savings associations, does not control more than thirty per cent of the total deposits of banks, savings banks, and savings associations in this state.\n\n(b) The acquiring bank, acquiring bank holding company, federal savings association, or savings and loan holding company, with or through its affiliate banks, savings banks, and savings associations, controls more than thirty per cent of the total deposits of banks, savings banks, and savings associations in this state, and the superintendent approved the acquisition after determining the anticompetitive effects of the acquisition were clearly outweighed in the public interest by the probable effect of the transaction.\n\n(2) Except in the case of a foreign bank subject to Chapter 1119. of the Revised Code or a bank that by the terms of its articles of incorporation or association is not permitted to solicit or accept deposits other than trust funds, the Ohio bank or any bank that has banking offices in this state will be an insured bank as defined in section 3(h) of the \"Federal Deposit Insurance Act,\" 92 Stat. 614 (1978), 12 U.S.C.A. 1813(h).\n\n(C)(1) Any bank holding company proposing to charter a state bank under this section shall comply with Chapter 1113. or 1114. of the Revised Code and any rules adopted to implement that chapter.\n\n(2) If, after the proposed acquisition, the acquiring bank or bank holding company will control an existing state bank the acquiring bank or bank holding company did not control before the acquisition, and the acquisition does not include the merger or consolidation of the existing state bank with another bank, the acquiring bank or bank holding company shall comply with section 1115.06 of the Revised Code and any rules adopted to implement that section.\n\n(3) If the proposed acquisition will be accomplished by means of a merger or consolidation with a state bank and the resulting bank of the merger or consolidation will be a state bank, the state bank shall comply with section 1115.11 of the Revised Code and any rules adopted to implement that section.\n\n(4) If the proposed acquisition will be accomplished by means of a transfer of assets and liabilities to a state bank, the state bank shall comply with section 1115.14 of the Revised Code and any rules adopted to implement that section.\n\n(5) If the proposed acquisition will be accomplished by forming a bank to which the bank to be acquired will transfer assets and liabilities, or with which the bank to be acquired will be merged or consolidated and the resulting bank will be a state bank, the acquiring bank holding company shall comply with section 1115.23 of the Revised Code and any rules adopted to implement that section.\n\nLast updated June 15, 2021 at 5:18 PM",
+      "id": "1115.05-ohio-bank",
+      "normalized": "ohio bank",
+      "scope": "(A) As used in this section:",
+      "section": "1115.05",
+      "source_title": "Section 1115.05 - Acquisitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1115.05",
+      "term": "Ohio bank"
+    },
+    {
+      "definition": "(5) \"Organizer\" has the same meaning as in section 1706.01 of the Revised Code.\n\n(B)(1) A person is presumed to exercise control when the person holds the power to vote, directly or indirectly, at least ten per cent of outstanding voting shares or voting interests of a licensee or person in control of a licensee.\n\n(2) A person presumed to exercise control under division (B)(1) of this section can rebut the presumption by establishing, by a preponderance of the evidence, that the person is a passive investor.\n\n(C) For purposes of determining the percentage of a person controlled by any person, the person's interest shall be aggregated with the interest of any other immediate family member, including the person's spouse, parents, children, siblings, mothers- and fathers-in law, sons- and daughters-in law, brothers- and sisters-in law, and any other person who shares such person's home.\n\n(D) Whenever the approval of the superintendent of financial institutions is required under Chapters 1101. to 1127. of the Revised Code, or under an order or supervisory action issued or taken under those chapters, for a person to serve as an organizer, incorporator, director, executive officer, or person who exercises control, the superintendent shall request the superintendent of the bureau of criminal identification and investigation, or a vendor approved by the bureau, to conduct a criminal records check based on the person's fingerprints in accordance with section 109.572 of the Revised Code. The superintendent of financial institutions shall request that criminal record information from the federal bureau of investigation be obtained as part of the criminal records check. Any fee required under division (C)(3) of section 109.572 of the Revised Code shall be paid by the person who is the subject of the request.\n\n(E) Nothing in this section prohibits the superintendent of financial institutions from conditionally approving a person to serve as an organizer, incorporator, director, executive officer, or person who exercises control, subject to receiving satisfactory results of the criminal records check. If the superintendent does not receive the results within ninety days after the criminal records check was requested, the superintendent may extend the conditional approval for not more than ninety days.\n\nLast updated September 12, 2023 at 11:15 AM",
+      "id": "1121.23-organizer",
+      "normalized": "organizer",
+      "scope": "(A) As used in this section:",
+      "section": "1121.23",
+      "source_title": "Section 1121.23 - Criminal records check to be requested by superintendent.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1121.23",
+      "term": "Organizer"
+    },
+    {
+      "definition": "(A) A stock state bank may, with the approval of the bank's board of directors, the holders of a majority of the bank's voting shares, and the superintendent of financial institutions, adopt and carry out plans for the offering or sale of, the grant of, or the grant of options on, the bank's shares to any or all employees, officers, or directors of the bank or any of the bank's subsidiaries or affiliates, or to other parties, or to a trustee on their behalf. For purposes of this section, \"other parties\" means any person that has provided, or will provide, a service or a benefit to the bank, as determined by the board of directors.\n\n(B) A plan may be adopted under this section for any unissued shares, treasury shares, or shares to be purchased or granted. A plan may provide for the payment or issuance of the shares at one time or in installments or for the establishment of special funds in which employees or other parties approved under division (A) of this section may participate.\n\n(C) Shares otherwise subject to pre-emptive rights may be offered or sold under a plan only when released from pre-emptive rights. Shares authorized for the purpose of carrying out a plan adopted under this section shall be deemed released from pre-emptive rights.",
+      "id": "1107.09-other-parties",
+      "normalized": "other parties",
+      "scope": "",
+      "section": "1107.09",
+      "source_title": "Section 1107.09 - Stock options.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1107.09",
+      "term": "other parties"
+    },
+    {
+      "definition": "(Q) \"Paid-in capital\" means the aggregate par value of all of a stock state bank's outstanding shares of all classes.",
+      "id": "1101.01-paid-in-capital",
+      "normalized": "paid-in capital",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "Paid-in capital"
+    },
+    {
+      "definition": "(C) \"Participating in the conduct of the affairs of a bank or trust company\" means either making decisions or, directly or indirectly, taking actions that are management or policymaking in nature and generally within the scope of authority of the bank's or trust company's board of directors or executive officers. Whether a person is or was participating in the conduct of the affairs of a bank or trust company is an issue of fact, and not to be determined solely on the basis of the person's title, contract, or indicia of employment or independent contractor status.",
+      "id": "1121.01-participating-in-the-conduct-of-the-affairs-of-a-bank-or-trust-company",
+      "normalized": "participating in the conduct of the affairs of a bank or trust company",
+      "scope": "As used in this chapter:",
+      "section": "1121.01",
+      "source_title": "Section 1121.01 - Banks - superintendent's powers definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1121.01",
+      "term": "Participating in the conduct of the affairs of a bank or trust company"
+    },
+    {
+      "definition": "(R) \"Person\" means an individual, sole proprietorship, partnership, joint venture, association, trust, estate, business trust, limited liability company, corporation, or any similar entity or organization.",
+      "id": "1101.01-person",
+      "normalized": "person",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "Person"
+    },
+    {
+      "definition": "(3) \"Person\" includes an individual; sole proprietorship; partnership; joint venture; association; trust; estate; business trust; corporation; government; agency, instrumentality, or political subdivision of a government; limited liability company; or any similar entity or organization.\n\n(B) Except as provided in divisions (C), (D), (E), and (F) of this section:\n\n(1) The total loans and extensions of credit by a state bank to a person outstanding at any one time and not fully secured, as determined in a manner consistent with division (B)(2) of this section, by collateral having a market value at least equal to the amount of the loans and extensions of credit to that person that are outstanding shall not exceed fifteen per cent of the unimpaired capital of the bank.\n\n(2) The total loans and extensions of credit by a state bank to a person outstanding at one time and fully secured by readily marketable collateral having a market value, as determined by reliable and continuously available price quotations, at least equal to the amount of the loans and extensions of credit to that person that are outstanding shall not exceed ten per cent of the unimpaired capital of the bank.\n\n(3) The limitation set forth in division (B)(2) of this section is separate from and in addition to the limitation set forth in division (B)(1) of this section.\n\n(4) Notwithstanding the limitations set forth in divisions (B)(1) and (2) of this section, any state bank may grant one or more loans in an aggregate amount of up to five hundred thousand dollars to one person, subject to any applicable restrictions under federal law.\n\n(C) No limitation based on capital applies to loans and extensions of credit by a bank to a person that are any of the following types:\n\n(1) Loans or extensions of credit arising from the discount of commercial or business paper evidencing an obligation to the person negotiating it with recourse;\n\n(2) The purchase of bankers' acceptances of the kinds described in division (B) or (C) of section 1109.17 of the Revised Code and issued by other banks;\n\n(3) Loans or extensions of credit secured by bonds, notes, certificates of indebtedness, treasury bills of the United States, or other obligations fully guaranteed as to principal and interest by the United States;\n\n(4) Loans or extensions of credit to or secured by unconditional takeout commitments or guarantees of any department, agency, bureau, board, commission, or establishment of the United States or any corporation wholly owned, directly or indirectly, by the United States;\n\n(5) Loans or extensions of credit secured by a segregated deposit account in the lending bank;\n\n(6) Loans or extensions of credit to any financial institution or to any receiver, conservator, superintendent of financial institutions, or other agent in charge of the business and property of a financial institution, when the loans or extensions of credit are approved by the superintendent of financial institutions of this state;\n\n(7) Loans or extensions of credit to the student loan marketing association.\n\n(D) A state bank may make loans and extensions of credit secured by bills of lading, warehouse receipts, or similar documents transferring or securing title to readily marketable staples subject to the general limitations of division (B) of this section, and may make additional loans and extensions of credit secured by bills of lading, warehouse receipts, or similar documents transferring or securing title to readily marketable staples, if all of the following apply:\n\n(1) The market value of the staples securing each additional loan or extension of credit at all times equals or exceeds one hundred fifteen per cent of the outstanding amount of the loan or extension of credit.\n\n(2) The staples are fully covered by insurance whenever it is customary to insure staples of that kind.\n\n(3) The total amount of the bank's additional loans and extensions of credit outstanding to one person at any time does not exceed thirty-five per cent of the bank's capital.\n\n(E) Subject to divisions (E)(1) and (2) of this section, a state bank may make loans and extensions of credit arising from the discount of negotiable or nonnegotiable installment consumer paper.\n\n(1) If the paper carries a full recourse endorsement or unconditional guarantee by the person transferring the paper, the total amount of the installment consumer paper transferred by one person a state bank may hold at one time shall not exceed twenty-five per cent of the bank's capital, and the collateral requirements of division (B)(2) of this section do not apply.\n\n(2) The limitations set forth in division (B) of this section apply only to the loans and extensions of credit of each maker of negotiable or nonnegotiable installment consumer paper, and not to obligations arising from any full or partial recourse endorsement or guarantee by the transferor discounting the consumer paper to the state bank, if both of the following apply:\n\n(a) The state bank's files are, or the knowledge of its officers of the financial condition of each maker of the consumer paper is, reasonably adequate.\n\n(b) An officer of the state bank designated for that purpose by the bank's board of directors certifies in writing that the bank is relying primarily upon the responsibility of each maker for payment of the loans or extensions of credit and not upon any full or partial recourse endorsement or guarantee by the transferor.\n\n(F) Without regard to the collateral requirements of division (B) of this section, a state bank may have loans and extensions of credit to one person outstanding at one time not exceeding twenty-five per cent of the bank's capital of the following types:\n\n(1) Loans and extensions of credit secured by shipping documents or instruments transferring or securing title covering livestock or giving a lien on livestock, when the market value of the livestock securing the obligation is not at any time less than one hundred fifteen per cent of the face amount of the note covered;\n\n(2) Loans and extensions of credit that arise from the discount by dealers in dairy cattle of paper given in payment for dairy cattle, if the paper carries a full recourse endorsement or unconditional guarantee of the seller, and the loans and extensions of credit are secured by the cattle being sold.\n\n(G)(1) The superintendent may adopt rules to administer and carry out the purposes of this section, including, but not limited to, the following:\n\n(a) Rules defining or further defining terms used in this section, including expanding or limiting the definition of \"person\" defined in division (A) of this section;\n\n(b) Rules establishing limits or requirements other than those specified in this section for particular classes or categories of loans or extensions of credit;\n\n(c) Rules relating to credit exposure arising from derivative transactions.\n\n(2) The superintendent may determine when a loan putatively made to a person is, for purposes of this section, to be attributed to another person.",
+      "id": "1109.22-person",
+      "normalized": "person",
+      "scope": "(A) As used in this section:",
+      "section": "1109.22",
+      "source_title": "Section 1109.22 - Total loans and extensions of credit to person outstanding at any one time.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1109.22",
+      "term": "Person"
+    },
+    {
+      "definition": "(6) \"Principal shareholder\" means a person who, directly or indirectly, or acting through or in concert with one or more persons, owns, controls, or has the power to vote more than ten per cent of any class of voting securities of a stock state bank or company, other than a company of which the bank is a subsidiary.\n\n(7) \"Related interest\" of a person means either of the following:\n\n(a) Any company controlled by that person;\n\n(b) Any political committee or campaign committee that is controlled by that person or the funds or services of which will benefit that person.",
+      "id": "1109.23-principal-shareholder",
+      "normalized": "principal shareholder",
+      "scope": "",
+      "section": "1109.23",
+      "source_title": "Section 1109.23 - Extending credit to executive officers, directors, principal shareholders or to related interests.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1109.23",
+      "term": "Principal shareholder"
+    },
+    {
+      "definition": "(1) \"Principal underwriter\" means any underwriter, in connection with a primary distribution of securities, that is any of the following:\n\n(a) In privity of contract with the issuer or an affiliated person of the issuer;\n\n(b) Acting alone or in concert with one or more other persons, initiates or directs the formation of an underwriting syndicate;\n\n(c) Allowed a rate of gross commission, spread, or other profit greater than the rate allowed another underwriter participating in the distribution.",
+      "id": "1109.55-principal-underwriter",
+      "normalized": "principal underwriter",
+      "scope": "",
+      "section": "1109.55",
+      "source_title": "Section 1109.55 - Permitted transactions with affiliate.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1109.55",
+      "term": "Principal underwriter"
+    },
+    {
+      "definition": "(4) \"Reasonable fee\" means compensation or payment, the receipt of which would not constitute a breach of fiduciary duty under section 36 of the \"Investment Company Act of 1940,\" 54 Stat. 789, 15 U.S.C.A. 80a-35.\n\n(F) Shares as to which the voting rights with respect to the election of directors may not be exercised under this section shall not be considered as outstanding for the purpose of computing the voting power of the corporation or of its shares of any class with respect to the election of directors.\n\n(G) This section does not authorize a trust company acting as a probate fiduciary to perform any act prohibited by section 2109.44 of the Revised Code, unless the act is authorized by the instrument creating the trust.\n\n(H) A trust company making an investment of trust funds in an affiliated investment company, or a bank or other corporation owned or controlled by the bank holding company that owns or controls the trust company, may charge a reasonable fee for investment advisory, brokerage, transfer agency, registrar, management, shareholder servicing, custodian, or any related services provided to an affiliated investment company. The fee may be in addition to the compensation that the trust company is otherwise entitled to receive from the trust, provided that the fee is charged as a percentage of either asset value or income earned or actual amount charged and is disclosed at least annually by prospectus, account statement, or any other written means to all persons entitled to receive statements of account activity.\n\n(I) A trust company making an investment of trust funds in the securities of an affiliated investment company pursuant to division (A)(1)(c) of this section shall, when providing any periodic account statements to the trust fund, report the net asset value of the shares comprising the investment of the trust fund in the affiliated investment company.\n\n(J) If a trust company making an investment of trust funds in the securities of an affiliated investment company pursuant to division (A)(1)(c) of this section invests the funds in any mutual fund, the trust company shall disclose, in at least ten-point boldface type, by prospectus, account statement, or any other written means to all persons entitled to receive statements of account activity, that the mutual fund is not insured or guaranteed by the federal deposit insurance corporation or by any other government agency or government-sponsored agency of the federal government or of this state.",
+      "id": "1111.13-reasonable-fee",
+      "normalized": "reasonable fee",
+      "scope": "(E) As used in this section:",
+      "section": "1111.13",
+      "source_title": "Section 1111.13 - Investing of trust funds.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1111.13",
+      "term": "Reasonable fee"
+    },
+    {
+      "definition": "For purposes of this division, \"regulated person\" has the same meaning as in section 1121.01 of the Revised Code.",
+      "id": "1115.06-regulated-person",
+      "normalized": "regulated person",
+      "scope": "(A) As used in this section:",
+      "section": "1115.06",
+      "source_title": "Section 1115.06 - Notifying superintendent of proposed acquisition.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1115.06",
+      "term": "regulated person"
+    },
+    {
+      "definition": "(B)(1) With regard to any foreign bank licensed under this chapter to operate a representative office, agency, or branch in this state or conducting operations in this state connected to its banking business without being licensed under this chapter or by the office of the comptroller of the currency, \"regulated person\" means a director, officer, employee, controlling shareholder, or agent of the foreign bank or a person who participates in the management of the foreign bank, whether or not the person is assigned to an office of the foreign bank licensed under this chapter.\n\n(2) An order to cease and desist issued under section 1121.32 of the Revised Code, a removal or prohibition order issued under section 1121.33 of the Revised Code, or a suspension order issued under section 1121.34 of the Revised Code against a regulated person, who is a regulated person because of that person's relationship with a foreign bank doing business in this state, does not affect the relationship between the regulated person and the foreign bank except as it relates to the conduct of operations in this state connected to the foreign bank's banking business.",
+      "id": "1119.21-regulated-person",
+      "normalized": "regulated person",
+      "scope": "",
+      "section": "1119.21",
+      "source_title": "Section 1119.21 - Regulatory powers.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1119.21",
+      "term": "regulated person"
+    },
+    {
+      "definition": "(B) \"Regulated person\" means any of the following:",
+      "id": "1121.01-regulated-person",
+      "normalized": "regulated person",
+      "scope": "As used in this chapter:",
+      "section": "1121.01",
+      "source_title": "Section 1121.01 - Banks - superintendent's powers definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1121.01",
+      "term": "Regulated person"
+    },
+    {
+      "definition": "(A) For purposes of this section and sections 1127.02 and 1127.03 of the Revised Code, \"regulated person\" has the same meaning as in section 1121.01 of the Revised Code.\n\n(B) Any of the following actions by a regulated person may constitute a violation of section 1127.08 of the Revised Code or of a theft, fraud, falsification, or other similar offense set forth in Title XXIX of the Revised Code, or may constitute an attempt to commit or complicity to commit a violation of section 1127.08 of the Revised Code or of a theft, fraud, falsification, or other similar offense set forth in Title XXIX of the Revised Code:\n\n(1) Embezzling, abstracting, or purposely misapplying any money, funds, credit, or property of a bank or trust company, whether owned, on deposit, or held in trust by the bank or trust company;\n\n(2) Fraudulently issuing a certificate of deposit or other instrument or evidence of deposit;\n\n(3) Knowingly making a false entry in any book, report, or statement of a bank or trust company;\n\n(4) Knowingly making a false entry of interest or principal on a note or any other asset of a bank or trust company;\n\n(5) Knowingly falsifying, concealing, or covering up by any trick, scheme, or device a material fact, making any false, fictitious, or fraudulent statements or representations, or making or using any false writing or document knowing it to contain any false, fictitious, or fraudulent statement or entry with respect to any bank or trust company;\n\n(6) Knowingly making a false written statement or certification as to any property held in trust by, or in the custody of, a bank or trust company;\n\n(7) Knowingly borrowing, soliciting, obtaining, or receiving money for a bank or trust company intended to become the property of the bank or trust company, with purpose to defraud or injure the bank or trust company or another person;\n\n(8) Purposely certifying a check or other item drawn on a bank unless the drawer of the check or other item has on deposit with the bank an amount of money subject to payment of the check or other item and at least equal to the amount of the check or other item, or purposely certifying a check or other item drawn on the bank and failing immediately to charge the amount of the check or other item against the account of the drawer;\n\n(9) Directly or indirectly engaging in any activity, utilizing any procedure, scheme, or device, or receiving any false, fictitious, or fraudulent obligation or item, for the purpose of evading or circumventing the prohibitions set forth in division (B)(8) of this section.",
+      "id": "1127.01-regulated-person",
+      "normalized": "regulated person",
+      "scope": "",
+      "section": "1127.01",
+      "source_title": "Section 1127.01 - Actions by a regulated person constituting criminal offense.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1127.01",
+      "term": "regulated person"
+    },
+    {
+      "definition": "(S) \"Remote service unit\" means an automated facility, operated by a customer of a bank, that conducts banking functions, such as receiving deposits, paying withdrawals, or lending money.",
+      "id": "1101.01-remote-service-unit",
+      "normalized": "remote service unit",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "Remote service unit"
+    },
+    {
+      "definition": "(T) \"Reorganization\" means a consolidation, merger, or transfer of assets and liabilities pursuant to Chapter 1115. or 1116. of the Revised Code.",
+      "id": "1101.01-reorganization",
+      "normalized": "reorganization",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "Reorganization"
+    },
+    {
+      "definition": "(B) \"Reorganization plan\" means the plan to reorganize into a mutual holding company structure described in section 1116.07 of the Revised Code.",
+      "id": "1116.01-reorganization-plan",
+      "normalized": "reorganization plan",
+      "scope": "As used in this chapter, unless the context requires otherwise:",
+      "section": "1116.01",
+      "source_title": "Section 1116.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1116.01",
+      "term": "Reorganization plan"
+    },
+    {
+      "definition": "(C) \"Reorganizing mutual state bank\" means a mutual state bank that proposes to reorganize into a mutual holding company structure in accordance with this chapter.",
+      "id": "1116.01-reorganizing-mutual-state-bank",
+      "normalized": "reorganizing mutual state bank",
+      "scope": "As used in this chapter, unless the context requires otherwise:",
+      "section": "1116.01",
+      "source_title": "Section 1116.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1116.01",
+      "term": "Reorganizing mutual state bank"
+    },
+    {
+      "definition": "(G) \"Residential facility\" has the same meaning as in section 5123.19 of the Revised Code.",
+      "id": "1111.01-residential-facility",
+      "normalized": "residential facility",
+      "scope": "As used in this chapter:",
+      "section": "1111.01",
+      "source_title": "Section 1111.01 - Trust company definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1111.01",
+      "term": "Residential facility"
+    },
+    {
+      "definition": "(2) \"Residential mortgage\" means an obligation to pay a sum of money evidenced by a note or agreement and secured by a lien upon real property located within this state containing two or fewer residential units or on which two or fewer residential units are to be constructed, including such an obligation on a residential condominium or cooperative unit.\n\n(B) Notwithstanding any limitations contained in sections 1109.18 , 1109.20 , or any other section of the Revised Code, a bank may charge interest, fees, and other charges under a revolving credit agreement at the same or lower rates or amounts that a bank located in another state may charge its revolving credit customers in this state.",
+      "id": "1109.181-residential-mortgage",
+      "normalized": "residential mortgage",
+      "scope": "(A) As used in this section:",
+      "section": "1109.181",
+      "source_title": "Section 1109.181 - Charges under revolving credit agreement.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1109.181",
+      "term": "Residential mortgage"
+    },
+    {
+      "definition": "(D) \"Resulting mutual holding company\" means a bank holding company organized in mutual form under this chapter and, unless otherwise indicated, a subsidiary holding company controlled by a mutual holding company organized under this chapter.",
+      "id": "1116.01-resulting-mutual-holding-company",
+      "normalized": "resulting mutual holding company",
+      "scope": "As used in this chapter, unless the context requires otherwise:",
+      "section": "1116.01",
+      "source_title": "Section 1116.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1116.01",
+      "term": "Resulting mutual holding company"
+    },
+    {
+      "definition": "(E) \"Resulting stock state bank\" means a stock state bank that is organized as a subsidiary of a reorganizing mutual state bank to receive a substantial part of the assets and liabilities, including all deposit accounts, of the reorganizing mutual state bank upon consummation of the reorganization.",
+      "id": "1116.01-resulting-stock-state-bank",
+      "normalized": "resulting stock state bank",
+      "scope": "As used in this chapter, unless the context requires otherwise:",
+      "section": "1116.01",
+      "source_title": "Section 1116.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1116.01",
+      "term": "Resulting stock state bank"
+    },
+    {
+      "definition": "(1) \"Revolving credit agreement\" means an agreement pursuant to which a bank contemplates repeated transactions and the amount of credit that may be extended pursuant to the agreement is made available to the extent that any outstanding balance is repaid. \"Revolving credit agreement\" does not include an agreement secured by a residential mortgage.",
+      "id": "1109.181-revolving-credit-agreement",
+      "normalized": "revolving credit agreement",
+      "scope": "(A) As used in this section:",
+      "section": "1109.181",
+      "source_title": "Section 1109.181 - Charges under revolving credit agreement.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1109.181",
+      "term": "Revolving credit agreement"
+    },
+    {
+      "definition": "(U) \"Savings and loan holding company\" has the same meaning as in 12 U.S.C. 1467a.",
+      "id": "1101.01-savings-and-loan-holding-company",
+      "normalized": "savings and loan holding company",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "Savings and loan holding company"
+    },
+    {
+      "definition": "(V) \"Savings association\" means a savings and loan association doing business under authority granted by the regulatory authority of another state or a federal savings association. \"Savings association\" also includes a state bank that elects to operate as a savings and loan association under section 1109.021 of the Revised Code.",
+      "id": "1101.01-savings-association",
+      "normalized": "savings association",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "Savings association"
+    },
+    {
+      "definition": "(W) \"Savings bank\" means a savings bank doing business under authority granted by the regulatory authority of another state.",
+      "id": "1101.01-savings-bank",
+      "normalized": "savings bank",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "Savings bank"
+    },
+    {
+      "definition": "(F) \"Securities\" means, except as provided in section 1109.55 of the Revised Code, stocks, bonds, debentures, notes, or other similar obligations.",
+      "id": "1109.53-securities",
+      "normalized": "securities",
+      "scope": "",
+      "section": "1109.53",
+      "source_title": "Section 1109.53 - Transactions with affiliates definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1109.53",
+      "term": "Securities"
+    },
+    {
+      "definition": "(C) As used in this section, \"securitization\" means a transfer of financial assets by a financial institution insured by the federal deposit insurance corporation (FDIC) to a special purpose entity established to issue securities supported by the financial assets to investors.",
+      "id": "1109.75-securitization",
+      "normalized": "securitization",
+      "scope": "",
+      "section": "1109.75",
+      "source_title": "Section 1109.75 - Securitization.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1109.75",
+      "term": "securitization"
+    },
+    {
+      "definition": "(2) \"Security\" has the same meaning as in section 3(a)(10) of the \"Securities Exchange Act of 1934,\" 48 Stat. 881, 15 U.S.C. 78c(a)(10), as amended.",
+      "id": "1109.55-security",
+      "normalized": "security",
+      "scope": "",
+      "section": "1109.55",
+      "source_title": "Section 1109.55 - Permitted transactions with affiliate.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1109.55",
+      "term": "Security"
+    },
+    {
+      "definition": "(B) Any person that, by contract or otherwise, performs services for a state bank or trust company or a representative office, agency, or branch licensed under Chapter 1119. of the Revised Code, whether on or off the premises of the bank, trust company, representative office, agency, or branch, is subject to examination by the superintendent as to the books and records of the bank, trust company, representative office, agency, or branch in the person's possession, to the same extent as if the services were being performed by the bank, trust company, representative office, agency, or branch itself. For the purposes of this division, \"services\" includes clerical, bookkeeping, accounting, statistical, and other services. A state bank, trust company, representative office, agency, or branch shall notify the superintendent in writing whenever another person is performing services of this kind for the bank, trust company, representative office, agency, or branch, or the bank, trust company, representative office, agency, or branch changes the person performing the services.",
+      "id": "1121.15-services",
+      "normalized": "services",
+      "scope": "",
+      "section": "1121.15",
+      "source_title": "Section 1121.15 - Maintaining books and accounts.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1121.15",
+      "term": "services"
+    },
+    {
+      "definition": "(X) \"Shares\" means any equity interest, including a limited partnership interest and any other equity interest in which liability is limited to the amount of the investment. \"Shares\" does not include a general partnership interest or any other interest involving general liability.",
+      "id": "1101.01-shares",
+      "normalized": "shares",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "Shares"
+    },
+    {
+      "definition": "(3) \"Shelf charter\" means the preliminary conditional approval of a charter.\n\n(B) The superintendent of financial institutions may, at the superintendent's sole discretion, grant a shelf charter to an applicant intending or desiring to enter into a transaction resulting in any of the following:\n\n(1) Formation of an interim bank under this chapter to be used for the transactions contemplated by this section;\n\n(2) Acquisition of control of a designated or undesignated state bank;\n\n(3) Acquisition of control of a designated or undesignated bank chartered by the banking authority of any other state or the United States that the person or persons intend to convert to a state bank;\n\n(4) Acquisition of assets from and assumption of liabilities, pursuant to this chapter, of a bank or from the federal deposit insurance corporation as receiver of a designated or undesignated bank headquartered in this state or any other state that the person or persons intend to convert to a state bank;\n\n(5) Formation of a de novo bank pursuant to Title XI of the Revised Code.\n\n(C) The superintendent shall prescribe the form for an application for a shelf charter. After reviewing an application, the superintendent may require the applicant to submit any additional information or documentation the superintendent considers necessary and appropriate. Factors to be considered by the superintendent shall include all of the following:\n\n(1) The availability of adequate capital for the transaction;\n\n(2) The existence of acceptable business plans;\n\n(3) Whether acceptable management, directors, and control persons are identified;\n\n(4) Whether all necessary approvals from state and federal agencies have been secured.\n\n(D)(1) A shelf charter granted under this section, and any final approval for a transaction described in division (B) of this section, shall be subject to such conditions and ongoing requirements as the superintendent considers appropriate.\n\n(2) An applicant granted a shelf charter under this section shall not exercise control over the bank or consummate the transaction authorized by the charter until the superintendent gives final approval of the transaction.\n\n(E) A shelf charter shall expire twenty-four months after the date it is granted, subject to the following:\n\n(1) The superintendent may extend the expiration date at any time sua sponte or upon approval by the superintendent of a written request for an extension submitted by the person or persons to whom the shelf charter was granted.\n\n(2) The person or persons to whom the shelf charter was granted may withdraw it at any time.\n\n(3) The superintendent may modify, suspend, or revoke any shelf charter granted under this section.\n\n(F) Pursuant to the authority granted under section 1121.03 of the Revised Code, the superintendent may adopt rules and issue interpretive guidelines the superintendent considers necessary and appropriate for the implementation of this section.",
+      "id": "1115.24-shelf-charter",
+      "normalized": "shelf charter",
+      "scope": "(A) As used in this section:",
+      "section": "1115.24",
+      "source_title": "Section 1115.24 - Shelf charter.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1115.24",
+      "term": "Shelf charter"
+    },
+    {
+      "definition": "(b) \"Small business\" means any corporation, partnership, proprietorship, limited liability company, or other entity that either does not have more than four hundred employees, or would qualify as a small business for the purpose of receiving financial assistance from small business investment companies licensed under the \"Small Business Investment Act of 1958,\" 72 Stat. 689, 15 U.S.C. 661, as amended, and rules of the small business administration.\n\n(2) A stock state bank may invest, in the aggregate, five per cent of its paid-in capital and surplus, and a mutual state bank may invest, in the aggregate, five per cent of its retained earnings, in shares issued by the following:\n\n(a) Venture capital firms organized under the laws of the United States or of this state and having an office within this state, if, as a condition of a bank making an investment in a venture capital firm, the firm agrees to use its best efforts to make investments, in an aggregate amount at least equal to the investment to be made by the bank in that venture capital firm, in small businesses having their principal office within this state and having either more than one-half of their assets within this state or more than one-half of their employees employed within this state;\n\n(b) Small businesses having more than half of their assets or employees within this state.\n\n(B)(1) A state bank may invest in the following:\n\n(a) The stocks, bonds, debentures, notes, or other evidences of indebtedness of any of the following:\n\n(i) A community improvement corporation, organized under Chapters 1702. and 1724. of the Revised Code for the sole purpose of advancing, encouraging, and promoting the industrial, economic, commercial, and civic development of a community or area;\n\n(ii) A development corporation, organized under Chapter 1726. of the Revised Code to promote agricultural, industrial, and business developments within the state;\n\n(iii) A community urban redevelopment corporation, organized under Chapter 1701. or 1702. of the Revised Code and qualified to operate under Chapter 1728. of the Revised Code to initiate and conduct projects for the clearance, replanning, development, and redevelopment of blighted areas within municipal corporations.\n\n(b) Other investments similar to the investments described in division (B)(1)(a) of this section and acceptable to the superintendent of financial institutions.\n\n(2) A state bank's investment in any one corporation or other entity pursuant to division (B)(1) of this section shall not exceed five per cent of the bank's capital, unless the superintendent determines additional investment does not pose significant risk to the bank. A state bank's investments pursuant to division (B)(1) of this section shall not in the aggregate exceed ten per cent of the bank's capital.",
+      "id": "1109.35-small-business",
+      "normalized": "small business",
+      "scope": "(A)(1) As used in division (A) of this section:",
+      "section": "1109.35",
+      "source_title": "Section 1109.35 - Investing in venture capital firms, small businesses and economic development corporations.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1109.35",
+      "term": "Small business"
+    },
+    {
+      "definition": "(L) \"Spousal equivalent\" means a cohabitant occupying a relationship generally equivalent to that of a spouse.",
+      "id": "1112.01-spousal-equivalent",
+      "normalized": "spousal equivalent",
+      "scope": "As used in this chapter:",
+      "section": "1112.01",
+      "source_title": "Section 1112.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1112.01",
+      "term": "Spousal equivalent"
+    },
+    {
+      "definition": "(Y) \"State bank\" means a bank doing business under authority granted by the superintendent of financial institutions. \"State bank\" includes a state bank that elects to operate as a savings and loan association under section 1109.021 of the Revised Code.",
+      "id": "1101.01-state-bank",
+      "normalized": "state bank",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "State bank"
+    },
+    {
+      "definition": "(1) \"State bank\" includes any subsidiary of a state bank.",
+      "id": "1109.23-state-bank",
+      "normalized": "state bank",
+      "scope": "",
+      "section": "1109.23",
+      "source_title": "Section 1109.23 - Extending credit to executive officers, directors, principal shareholders or to related interests.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1109.23",
+      "term": "State bank"
+    },
+    {
+      "definition": "(2) \"State bank\" includes any bank holding company that controls a state bank, and any other company that controls a state bank and is not a bank holding company.\n\n(B)(1) No person, acting directly or indirectly or through or in concert with one or more other persons, shall acquire control of a state bank through a purchase, assignment, transfer, pledge, or other disposition of voting securities of a state bank unless the superintendent of financial institutions has been given sixty days' prior written notice of the proposed acquisition and within that sixty days the superintendent has not done either of the following:\n\n(a) Disapproved the acquisition;\n\n(b) Extended the time during which the superintendent may disapprove the acquisition, as provided in division (B)(2) of this section.\n\n(2) The superintendent may extend the time during which the superintendent may disapprove a proposed acquisition of control, as follows:\n\n(a) For an additional thirty days in the discretion of the superintendent;\n\n(b) For two additional extensions of not more than forty-five days each, if any of the following applies:\n\n(i) The superintendent determines any acquiring party has not furnished all of the information required under division (C) of this section.\n\n(ii) In the superintendent's judgment, any material information submitted is substantially inaccurate.\n\n(iii) The superintendent has been unable to complete the investigation of an acquiring person under division (E)(1) of this section because of any delay caused by, or the inadequate cooperation of, that acquiring person.\n\n(iv) The superintendent determines additional time is needed to investigate and determine whether any acquiring person has a record of failing to comply with the requirements of subchapter II of chapter 53 of subtitle IV of Title 31 of the United States Code.\n\n(3) An acquisition may be made prior to the expiration of the disapproval period if the superintendent issues written notice of the superintendent's intent not to disapprove the acquisition of control.\n\n(C) A notice required under division (B) of this section shall contain such information as the superintendent may require by rule.\n\n(D) Unless the superintendent determines an emergency exists or disclosure of a proposed acquisition of control would seriously threaten the safety or soundness of the state bank, each person who gives a notice required under division (B) of this section shall, within a reasonable time after receiving the superintendent's acceptance of the notice, do both of the following:\n\n(1) Publish the name of the state bank proposed to be acquired and the name of each person identified in the notice as a person by whom or for whom the acquisition is to be made;\n\n(2) Solicit public comment on the proposed acquisition, particularly from persons in the geographic area where the state bank proposed to be acquired is located, before final consideration of the notice by the superintendent.\n\n(E) Upon accepting a notice required under division (B) of this section, the superintendent shall do both of the following:\n\n(1) Conduct an investigation of the competence, experience, integrity, and financial ability of each person named in the notice as a person by whom or for whom the acquisition is to be made;\n\n(2) Make an independent determination of the accuracy and completeness of all information required to be in the notice.\n\n(F) The superintendent may disapprove any proposed acquisition of control if the superintendent finds any of the following:\n\n(1) The proposed acquisition of control would result in a monopoly or further any combination or conspiracy to monopolize or to attempt to monopolize the business of banking in any part of this state or any markets served by the state bank.\n\n(2) The effect of the proposed acquisition of control in any part of this state and any markets served by the state bank may be to substantially lessen competition, tend to create a monopoly, or in any other manner restrain trade, and the anticompetitive effects of the proposed acquisition of control are not clearly outweighed in the public interest by the probable effect of the acquisition in meeting the convenience and needs of the community to be served.\n\n(3) The financial condition of any acquiring person might jeopardize the financial stability of the state bank or prejudice the interests of the depositors of the state bank.\n\n(4) The competence, experience, or integrity of any acquiring person or of any of the proposed management personnel indicates that it would not be in the interest of the depositors of the state bank, or in the interest of the public, to permit the acquiring person to control the state bank.\n\n(5) The acquiring person neglects, fails, or refuses to furnish to the superintendent all of the information required by the superintendent.\n\n(6) The superintendent determines the proposed transaction would have an adverse effect on the deposit insurance fund administered by the federal deposit insurance corporation.\n\n(G) Within three days after deciding to disapprove any proposed acquisition of control of a state bank, the superintendent shall notify the acquiring person in writing of the disapproval. The notice of disapproval shall provide a statement of the basis for the disapproval.\n\n(H) Within ten days after receipt of a notice of the disapproval, the acquiring person may, in accordance with Chapter 119. of the Revised Code, request a hearing conducted in accordance with that chapter on the proposed acquisition.\n\n(I) Whenever a change in control of a state bank occurs, the state bank shall promptly report to the superintendent any changes in or replacement of its chief executive officer or of any director that occurs in the next twelve-month period, and include in the report a statement of the past and current business and professional affiliations of the new chief executive officer or director.\n\n(J)(1) The superintendent may exercise any authority vested in the superintendent under Chapter 1121. of the Revised Code in the course of conducting any investigation under division (E) of this section or any other investigation the superintendent, in the superintendent's discretion, considers necessary to determine whether any person has filed inaccurate, incomplete, or misleading information under this section or otherwise is violating, has violated, or is about to violate any provision of this section or any rule implementing this section.\n\n(2) Whenever it appears to the superintendent any person is violating, has violated, or is about to violate any provision of this section or any rule implementing this section, the superintendent may, in the superintendent's discretion, apply to the court of common pleas of any county in which the state bank is doing business for either of the following:\n\n(a) A temporary or permanent injunction or restraining order enjoining the person from violating this section or any rule implementing this section;\n\n(b) Other equitable relief, including divestiture, that may be necessary to prevent violation of this section or of any rule implementing this section.\n\n(3)(a) The courts of this state have the same jurisdiction and power in connection with the exercise of any authority by the superintendent under this section as they have under Chapter 1121. of the Revised Code.\n\n(b) The courts of this state have jurisdiction and power to issue any injunction or restraining order or grant any equitable relief described in division (J)(2) of this section. When a court finds it appropriate, the court may grant the injunction, order, or other equitable relief without requiring the posting of any bond.\n\n(K) The resignation, termination of employment or participation, divestiture of control, or separation of or by a regulated person, including a separation caused by the closing of a state bank, shall not affect the jurisdiction and authority of the superintendent to issue any notice and otherwise proceed under this section against the regulated person, if the notice is issued no later than six years after the date of the regulated person's resignation, termination of employment or participation, or separation from or divestiture of control of a state bank.",
+      "id": "1115.06-state-bank",
+      "normalized": "state bank",
+      "scope": "(A) As used in this section:",
+      "section": "1115.06",
+      "source_title": "Section 1115.06 - Notifying superintendent of proposed acquisition.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1115.06",
+      "term": "State bank"
+    },
+    {
+      "definition": "As used in this division, \"stenographic record\" means a record provided by stenographic means or by the use of audio electronic recording devices, as the division of financial institutions determines.\n\n(B)(1) A bank, trust company, or regulated person against whom the superintendent issues an order upon the record of a hearing under the authority of section 1121.32 , 1121.33 , 1121.35 , or 1121.41 of the Revised Code may obtain a review of the order by filing a notice of appeal in the court of common pleas in the county in which the principal place of business of the bank, trust company, or regulated person, or residence of the regulated person, is located, or in the court of common pleas of Franklin county, within thirty days after the date of service of the superintendent's order. The clerk of the court shall promptly transmit a copy of the notice of appeal to the superintendent. Within thirty days after receiving the notice of appeal, the superintendent shall file a certified copy of the record of the administrative hearing with the clerk of the court. In the event of a private hearing, the record of the administrative hearing shall be filed under seal with the clerk of the court. Upon the filing of the notice of appeal, the court has jurisdiction, which upon the filing of the record of the administrative hearing is exclusive, to affirm, modify, terminate, or set aside, in whole or in part, the superintendent's order.\n\n(2) The commencement of proceedings for judicial review pursuant to division (B) of this section does not, unless specifically ordered by the court, operate as a stay of any order issued by the superintendent. If it appears to the court an unusual hardship to the appellant bank, trust company, or regulated person will result from the execution of the superintendent's order pending determination of the appeal, and the interests of depositors and the public will not be threatened by a stay of the order, the court may grant a stay and fix its terms.\n\n(C) The superintendent may, in the sole discretion of the superintendent, apply to the court of common pleas of the county in which the principal place of business of the bank, trust company, or regulated person, or residence of the regulated person, is located, or the court of common pleas of Franklin county, for the enforcement of an effective and outstanding superintendent's order issued under section 1121.32 , 1121.33 , 1121.34 , 1121.35 , or 1121.41 of the Revised Code, and the court has jurisdiction and power to order and require compliance with the superintendent's order. In an action by the superintendent pursuant to this division to enforce an order assessing a civil penalty issued under section 1121.35 of the Revised Code, the validity and appropriateness of the civil penalty is not subject to review.\n\n(D) No court has jurisdiction to affect, by injunction or otherwise, the issuance or enforcement of an order issued under section 1121.32 , 1121.33 , 1121.34 , 1121.35 , or 1121.41 of the Revised Code or to review, modify, suspend, terminate, or set aside an order issued under section 1121.32 , 1121.33 , 1121.34 , 1121.35 , or 1121.41 of the Revised Code, except as provided in this section, in division (G) of section 1121.32 of the Revised Code for an order issued pursuant to division (C)(3) or (4) of section 1121.32 of the Revised Code, or in division (A)(3) of section 1121.34 of the Revised Code for an order issued pursuant to division (A)(1) of section 1121.34 of the Revised Code.\n\n(E) Nothing in this section or in any other section of the Revised Code or rules implementing this or any other section of the Revised Code shall prohibit or limit the superintendent from doing any of the following:\n\n(1) Issuing orders pursuant to section 1121.32 , 1121.33 , 1121.34 , 1121.35 , or 1121.41 of the Revised Code;\n\n(2) Individually or contemporaneously taking any other action provided by law or rule with respect to a bank, trust company, or regulated person;\n\n(3) Taking any action provided by law or rule with respect to a bank, trust company, or regulated person, whether alone or in conjunction with another regulatory agency or authority.\n\nLast updated August 9, 2023 at 12:01 PM",
+      "id": "1121.38-stenographic-record",
+      "normalized": "stenographic record",
+      "scope": "",
+      "section": "1121.38",
+      "source_title": "Section 1121.38 - Administrative hearing.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1121.38",
+      "term": "stenographic record"
+    },
+    {
+      "definition": "(F) \"Stock bank\" means a bank that has an ownership structure in the form of shares of stock and is doing business under authority granted by the superintendent of financial institutions or the bank regulatory authority of another state or the United States.",
+      "id": "1116.01-stock-bank",
+      "normalized": "stock bank",
+      "scope": "As used in this chapter, unless the context requires otherwise:",
+      "section": "1116.01",
+      "source_title": "Section 1116.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1116.01",
+      "term": "Stock bank"
+    },
+    {
+      "definition": "(Z) \"Stock state bank\" means a state bank that has an ownership structure represented by shares of stock.",
+      "id": "1101.01-stock-state-bank",
+      "normalized": "stock state bank",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "Stock state bank"
+    },
+    {
+      "definition": "(AA) \"Subsidiary\" has the same meaning as in section 1109.53 of the Revised Code.",
+      "id": "1101.01-subsidiary",
+      "normalized": "subsidiary",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "Subsidiary"
+    },
+    {
+      "definition": "(8) \"Subsidiary\" means any company of which a state bank or company meets any of the following:\n\n(a) The bank or company owns twenty-five per cent or more of the voting shares of the company.\n\n(b) The bank or company controls in any manner the election of a majority of the directors of the company.\n\n(c) The bank or company has the power, directly or indirectly, to exercise a controlling influence with respect to the management or policies of the company.",
+      "id": "1109.23-subsidiary",
+      "normalized": "subsidiary",
+      "scope": "",
+      "section": "1109.23",
+      "source_title": "Section 1109.23 - Extending credit to executive officers, directors, principal shareholders or to related interests.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1109.23",
+      "term": "Subsidiary"
+    },
+    {
+      "definition": "(G) \"Subsidiary\" means, with respect to a specified company, a company that is controlled by the specified company.\n\n(H)(1) Subject to division (H)(2) of this section, a company or shareholder is deemed to have control over another company, if any of the following apply:\n\n(a) The company or shareholder, directly or indirectly, or acting through one or more other persons, owns, controls, or has the power to vote twenty-five per cent or more of any class of voting securities of the other company.\n\n(b) The company or shareholder controls in any manner the election of a majority of the directors or trustees of the other company.\n\n(c) The superintendent determines, after notice and opportunity for a hearing, the company or shareholder, directly or indirectly, exercises a controlling influence over the management or policies of the other company.\n\n(2) No company shall be found to own or control another company by virtue of the ownership or control of securities in a fiduciary capacity, except either as provided in divisions (A)(1)(c) and (d) of this section or if the company owning or controlling the securities is a business trust.\n\n(I) Any transaction by a state bank with any person shall be considered a transaction with an affiliate to the extent the proceeds of the transaction are used for the benefit of, or transferred to, an affiliate.",
+      "id": "1109.53-subsidiary",
+      "normalized": "subsidiary",
+      "scope": "",
+      "section": "1109.53",
+      "source_title": "Section 1109.53 - Transactions with affiliates definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1109.53",
+      "term": "Subsidiary"
+    },
+    {
+      "definition": "(G) \"Subsidiary holding company\" means a stock company that is controlled by a mutual holding company and that owns the stock of a stock state bank whose depositors have membership rights in the parent mutual holding company.",
+      "id": "1116.01-subsidiary-holding-company",
+      "normalized": "subsidiary holding company",
+      "scope": "As used in this chapter, unless the context requires otherwise:",
+      "section": "1116.01",
+      "source_title": "Section 1116.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1116.01",
+      "term": "Subsidiary holding company"
+    },
+    {
+      "definition": "(BB) \"Surplus\" means the total of amounts paid for shares in excess of their respective par values, amounts contributed other than for shares, and amounts transferred from undivided profits, less amounts transferred to stated capital.",
+      "id": "1101.01-surplus",
+      "normalized": "surplus",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "Surplus"
+    },
+    {
+      "definition": "(I) \"Trust business\" means accepting and executing trusts of property, serving as a trustee, executor, administrator, guardian, receiver, or conservator, and providing fiduciary services as a business. \"Trust business\" does not include any of the following:\n\n(1) Any natural person acting as a trustee, executor, administrator, guardian, receiver, or conservator pursuant to appointment by a court of competent jurisdiction;\n\n(2) Any natural person serving as a trustee who does not hold self out to the public as willing to act as a trustee for hire. For purposes of division (I) of this section, the solicitation or advertisement of legal or accounting services by a person licensed in this state as an attorney or a person holding an Ohio permit to practice public accounting issued under division (A) of section 4701.10 of the Revised Code shall not be considered to be the act of holding self out to the public as willing to act as a trustee for hire.\n\n(3) A charity, an officer or employee of a charity, or a person affiliated with a charity, serving as trustee of a charitable trust of which the charity, or another charity with a similar purpose, is a beneficiary;\n\n(4) Any natural person, home, or residential facility serving as trustee or taking other actions relative to a qualified income trust described in section 1917(d)(4)(B) of the \"Social Security Act,\" 42 U.S.C. 1396p(d)(4)(B), as amended;\n\n(5) Other fiduciary activities the superintendent determines are not undertaken as a business.",
+      "id": "1111.01-trust-business",
+      "normalized": "trust business",
+      "scope": "As used in this chapter:",
+      "section": "1111.01",
+      "source_title": "Section 1111.01 - Trust company definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1111.01",
+      "term": "Trust business"
+    },
+    {
+      "definition": "(M) \"Trust business\" has the same meaning as in section 1111.01 of the Revised Code.\n\nLast updated June 16, 2025 at 2:23 PM",
+      "id": "1112.01-trust-business",
+      "normalized": "trust business",
+      "scope": "As used in this chapter:",
+      "section": "1112.01",
+      "source_title": "Section 1112.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1112.01",
+      "term": "Trust business"
+    },
+    {
+      "definition": "(CC) \"Trust company\" means an entity qualified and licensed under section 1111.06 of the Revised Code to solicit or engage in trust business in this state, or a person that is required by Chapter 1111. of the Revised Code to be an entity qualified and licensed under section 1111.06 of the Revised Code to solicit or engage in trust business in this state.",
+      "id": "1101.01-trust-company",
+      "normalized": "trust company",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "Trust company"
+    },
+    {
+      "definition": "(C) For purposes of this section, \"trust funds\" means funds held in a fiduciary capacity and includes, but is not limited to, funds held as trustee, executor, administrator, guardian, or agent.",
+      "id": "1113.09-trust-funds",
+      "normalized": "trust funds",
+      "scope": "",
+      "section": "1113.09",
+      "source_title": "Section 1113.09 - Superintendent of financial institutions to issue certificate of authority to commence business.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1113.09",
+      "term": "trust funds"
+    },
+    {
+      "definition": "(DD) \"Undivided profits\" means the cumulative undistributed amount of a bank's net income not otherwise allocated.",
+      "id": "1101.01-undivided-profits",
+      "normalized": "undivided profits",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "Undivided profits"
+    },
+    {
+      "definition": "(a) \"Venture capital firm\" means any corporation, partnership, proprietorship, limited liability company, or other entity, the principal business of which is or will be the making of investments in small businesses.",
+      "id": "1109.35-venture-capital-firm",
+      "normalized": "venture capital firm",
+      "scope": "(A)(1) As used in division (A) of this section:",
+      "section": "1109.35",
+      "source_title": "Section 1109.35 - Investing in venture capital firms, small businesses and economic development corporations.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1109.35",
+      "term": "Venture capital firm"
+    }
+  ]
+}

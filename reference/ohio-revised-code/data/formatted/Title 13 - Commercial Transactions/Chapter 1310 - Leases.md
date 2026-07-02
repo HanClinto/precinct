@@ -1,0 +1,85 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-1310
+Scraped: 2026-07-02T19:37:09+00:00
+
+# Chapter 1310 - Leases
+
+## Sections
+
+- Section 1310.01 - Definitions - UCC 2A-103.
+- Section 1310.02 - Provisions apply to all transactions creating lease - application of other laws - UCC 2A-104.
+- Section 1310.03 - Territorial application of provisions to goods covered by certificate of title - UCC 2A-105.
+- Section 1310.04 - Limitation on power of parties to consumer lease to choose applicable law and judicial forum - UCC 2A-106.
+- Section 1310.05 - Waiver or renunciation of claim or right after default - UCC 2A-107.
+- Section 1310.06 - Unconscionability - UCC 2A-108.
+- Section 1310.07 - Option to accelerate at will - UCC 2A-109.
+- Section 1310.08 - Statute of frauds - UCC 2A-201.
+- Section 1310.09 - Final written expression - parol or extrinsic evidence - UCC 2A-202.
+- Section 1310.10 - Seals inoperative - UCC 2A-203.
+- Section 1310.11 - Formation in general - UCC 2A-204.
+- Section 1310.12 - Firm offers - UCC 2A-205.
+- Section 1310.13 - Offer and acceptance in formation of lease contract - UCC 2A-206.
+- Section 1310.15 - Modification, rescission and waiver - UCC 2A-208.
+- Section 1310.16 - Lessee under finance lease as beneficiary of supply contract - UCC 2A-209.
+- Section 1310.17 - Express warranties - UCC 2A-210.
+- Section 1310.18 - Warranties against interference and against infringement - lessee's obligation against infringement - UCC 2A-211.
+- Section 1310.19 - Implied warranty of merchantability - UCC 2A-212.
+- Section 1310.20 - Implied warranty of fitness for particular purpose - UCC 2A-213.
+- Section 1310.21 - Exclusion or modification of warranties - UCC 2A-214.
+- Section 1310.22 - Cumulation and conflict of warranties express or implied - UCC 2A-215.
+- Section 1310.23 - Third-party beneficiaries of express and implied warranties - UCC 2A-216 Alternative C.
+- Section 1310.24 - Identification - UCC 2A-217.
+- Section 1310.25 - Insurance and proceeds - UCC 2A-218.
+- Section 1310.251 - Motor vehicle lease excess wear and use waivers.
+- Section 1310.26 - Risk of loss - UCC 2A-219.
+- Section 1310.27 - Effect of default on risk of loss - UCC 2A-220.
+- Section 1310.28 - Casualty to identified goods - UCC 2A-221.
+- Section 1310.29 - Enforceability of lease contract - UCC 2A-301.
+- Section 1310.30 - Title to and possession of goods - UCC 2A-302.
+- Section 1310.31 - Alienability of party's interest under lease contract or of lessor's residual interest in goods - delegation of performance - transfer of rights - UCC 2A-303.
+- Section 1310.32 - Subsequent lease of goods by lessor - UCC 2A-304.
+- Section 1310.33 - Sale or sublease of goods by lessee - UCC 2A-305.
+- Section 1310.34 - Priority of certain liens arising by operation of law - UCC 2A-306.
+- Section 1310.35 - Priority of liens arising by attachment or levy on, security interests in, and other claims to goods - UCC 2A-307.
+- Section 1310.36 - Special rights of creditors - UCC 2A-308.
+- Section 1310.37 - Lessor's and lessee's rights when goods become fixtures - UCC 2A-309.
+- Section 1310.38 - Lessor's and lessee's rights when goods become accessions - UCC 2A-310.
+- Section 1310.39 - Subordination by agreement.
+- Section 1310.40 - Insecurity - adequate assurance of performance - UCC 2A-401.
+- Section 1310.41 - Anticipatory repudiation - UCC 2A-402.
+- Section 1310.42 - Retraction of anticipatory repudiation - UCC 2A-403.
+- Section 1310.43 - Substituted performance - UCC 2A-404.
+- Section 1310.44 - Excused performance - UCC 2A-405.
+- Section 1310.45 - Procedure on excused performance - UCC 2A-406.
+- Section 1310.46 - Irrevocable promises, finance leases - UCC 2A-407.
+- Section 1310.47 - Default, procedure - UCC 2A-501.
+- Section 1310.48 - Notice after default - UCC 2A-502.
+- Section 1310.49 - Modification or impairment of rights and remedies - UCC 2A-503.
+- Section 1310.50 - Liquidation of damages - UCC 2A-504.
+- Section 1310.51 - Cancellation and termination and effect of cancellation, termination, rescission or fraud on rights and remedies - UCC 2A-505.
+- Section 1310.52 - Statute of limitations - UCC 2A-506.
+- Section 1310.53 - Proof of market rent - time and place - UCC 2A-507.
+- Section 1310.54 - Lessee's remedies - UCC 2A-508.
+- Section 1310.55 - Lessee's rights on improper delivery - rightful rejection - UCC 2A-509.
+- Section 1310.56 - Installment lease contracts - rejection and default - UCC 2A-510.
+- Section 1310.57 - Merchant lessee's duties as to rightfully rejected goods - UCC 2A-511.
+- Section 1310.58 - Lessee's duties as to rightfully rejected goods - UCC 2A-512.
+- Section 1310.59 - Cure by lessor of improper tender or delivery - replacement - UCC 2A-513.
+- Section 1310.60 - Waiver of lessee's objections - UCC 2A-514.
+- Section 1310.61 - Acceptance of goods - UCC 2A-515.
+- Section 1310.62 - Effect of acceptance of goods - notice of default - burden of establishing default after acceptance - notice of claim or litigation to person answerable over - UCC 2A-516.
+- Section 1310.63 - Revocation of acceptance of goods - UCC 2A-517.
+- Section 1310.64 - Cover - substitute goods - UCC 2A-518.
+- Section 1310.65 - Lessee's damages for non-delivery, repudiation, default and breach of warranty in regard to accepted goods - UCC 2A-519.
+- Section 1310.66 - Lessee's incidental and consequential damages - UCC 2A-520.
+- Section 1310.67 - Lessee's right to specific performance or replevin - UCC 2A-521.
+- Section 1310.68 - Lessee's right to goods on lessor's insolvency - UCC 2A-522.
+- Section 1310.69 - Lessor's remedies - (UCC 2A-523).
+- Section 1310.70 - Lessor's right to identify goods to lease contract - UCC 2A-524.
+- Section 1310.71 - Lessor's right to possession of goods - UCC 2A-525.
+- Section 1310.72 - Lessor's stoppage of delivery in transit or otherwise - UCC 2A-526.
+- Section 1310.73 - Lessor's rights to dispose of goods - UCC 2A-527.
+- Section 1310.74 - Lessor's damages for non-acceptance, failure to pay, repudiation or other default - UCC 2A-528.
+- Section 1310.75 - Lessor's action for rent - UCC 2A-529.
+- Section 1310.76 - Lessor's incidental damages - UCC 2A-530.
+- Section 1310.77 - Standing to sue third parties for injury to goods - UCC 2A-531.
+- Section 1310.78 - Lessor's rights to residual interest - UCC 2A-532.

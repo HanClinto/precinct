@@ -1,0 +1,92 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-125
+Scraped: 2026-07-02T19:31:42+00:00
+
+# Chapter 125 - Department of Administrative Services - Office Services
+
+## Sections
+
+- Section 125.01 - Department of administrative services - office services definitions.
+- Section 125.02 - Authority to purchase supplies and services - rules.
+- Section 125.035 - Requisite procurement programs.
+- Section 125.036 - Ohio-based personal protective equipment manufacturers program.
+- Section 125.04 - Determining what supplies and services are purchased by or for state agencies.
+- Section 125.041 - Purchases by state elected officials.
+- Section 125.05 - Competitive selection.
+- Section 125.051 - Advertising subject to controlling board approval.
+- Section 125.052 - Controlling board approval for online subscriptions.
+- Section 125.061 - Suspension of purchasing and contracting requirements in case of emergency.
+- Section 125.07 - Notice of bidding.
+- Section 125.071 - Purchasing by competitive sealed proposal.
+- Section 125.072 - Purchasing services or supplies via reverse auction on internet.
+- Section 125.073 - Electronic procurement.
+- Section 125.08 - Minority business enterprise notification list.
+- Section 125.081 - Setting aside purchases selected for competition only by minority business enterprises.
+- Section 125.082 - Purchasing recycled products.
+- Section 125.09 - Bid conditions or terms - preferences.
+- Section 125.091 - Definitions for R.C. 125.091 to 125.093.
+- Section 125.092 - Biobased product preference program.
+- Section 125.093 - Annual report on purchase of biobased products.
+- Section 125.10 - Requiring performance or other surety.
+- Section 125.11 - Contract award.
+- Section 125.111 - Contracts to contain discrimination provisions - affirmative action program.
+- Section 125.112 - Web site listing contract awards.
+- Section 125.12 - Excess and surplus supply definitions.
+- Section 125.13 - Disposing of excess and surplus supplies.
+- Section 125.14 - Investment recovery fund - recycled materials fund.
+- Section 125.15 - Acquisition of equipment, materials, supplies, services, or contracts of insurance.
+- Section 125.16 - Inventory records of state tangible personal property and real property.
+- Section 125.18 - Office of information technology - duties of director - contracts.
+- Section 125.182 - State public notice web site.
+- Section 125.183 - Applications prohibited on state networks and devices.
+- Section 125.19 - Energy efficiency and conservation purchasing measures information.
+- Section 125.20 - Administrative services internet-accessible database.
+- Section 125.21 - Payroll information.
+- Section 125.211 - Accrued leave liability fund.
+- Section 125.212 - Life insurance investment fund.
+- Section 125.213 - State employee child support fund.
+- Section 125.23 - Regular deductions for individual retirement arrangement.
+- Section 125.25 - Debarment of vendor from contract awards.
+- Section 125.27 - Building improvement fund.
+- Section 125.28 - Reimbursing general revenue fund for cost of occupying the space.
+- Section 125.29 - Child care services.
+- Section 125.30 - Business reply form.
+- Section 125.31 - Supervising public printing.
+- Section 125.32 - Enterprise data management and analytics program.
+- Section 125.39 - Forfeiture of bond.
+- Section 125.42 - Approval of printing.
+- Section 125.44 - Record of accounts.
+- Section 125.45 - Office reproduction services.
+- Section 125.58 - Failure to execute contract - penalty charge for late orders.
+- Section 125.60 - Procurement from community rehabilitation programs definitions.
+- Section 125.601 - Procurement from community rehabilitation programs.
+- Section 125.602 - Agreement to cooperate in providing program services.
+- Section 125.603 - Additional duties of office of procurement - contracts - pilot programs.
+- Section 125.604 - Application by community program for certification.
+- Section 125.605 - Certification of approved agent - powers of agent.
+- Section 125.606 - Fair market price for items on procurement list.
+- Section 125.607 - Ordering offices to purchase items at fair market price.
+- Section 125.608 - Reimbursement by ordering offices for administrative expenses.
+- Section 125.609 - Release of ordering office from compliance with rules.
+- Section 125.6010 - Application of rules - limitation.
+- Section 125.6011 - Non-government ordering offices exemption.
+- Section 125.6012 - Ordering offices and agencies to provide necessary information.
+- Section 125.70 - Data matching agreements.
+- Section 125.71 - Contractors shall promptly execute orders.
+- Section 125.81 - Department of administrative services - powers and duties.
+- Section 125.82 - Duties of department to employees of terminated agency.
+- Section 125.83 - Motor vehicle fleet.
+- Section 125.831 - Fleet management definitions.
+- Section 125.832 - Exclusive authority for fleet management.
+- Section 125.834 - State vehicles to be capable of using alternative fuels.
+- Section 125.836 - Biodiesel revolving fund.
+- Section 125.84 - Acquiring federal surplus property.
+- Section 125.85 - Complying with federal requirements.
+- Section 125.86 - Approving or disapproving, and processing applications.
+- Section 125.87 - Service charges - fees.
+- Section 125.88 - Governing bodies - powers.
+- Section 125.89 - Exchange of property, facilities, personnel, and services.
+- Section 125.90 - Administrative rules.
+- Section 125.901 - Geographically referenced information program council.
+- Section 125.902 - Council real property management plan.
+- Section 125.903 - [Former R.C. 113.41, amended and renumbered by H.B. 33, 135th General Assembly, effective 10/3/2023] Database of real property under state control.
+- Section 125.97 - Required notice on forms.

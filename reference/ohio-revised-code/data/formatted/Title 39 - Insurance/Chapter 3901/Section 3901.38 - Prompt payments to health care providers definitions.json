@@ -1,0 +1,106 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Beneficiary\" means any policyholder, subscriber, member, employee, or other person who is eligible for benefits under a benefits contract.",
+      "id": "3901.38-beneficiary",
+      "normalized": "beneficiary",
+      "scope": "As used in this section and sections 3901.381 to 3901.3814 of the Revised Code:",
+      "section": "3901.38",
+      "source_title": "Section 3901.38 - Prompt payments to health care providers definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3901.38",
+      "term": "Beneficiary"
+    },
+    {
+      "definition": "(B) \"Benefits contract\" means a sickness and accident insurance policy providing hospital, surgical, or medical expense coverage, or a health insuring corporation contract or other policy or agreement under which a third-party payer agrees to reimburse for covered health care or dental services rendered to beneficiaries, up to the limits and exclusions contained in the benefits contract.",
+      "id": "3901.38-benefits-contract",
+      "normalized": "benefits contract",
+      "scope": "As used in this section and sections 3901.381 to 3901.3814 of the Revised Code:",
+      "section": "3901.38",
+      "source_title": "Section 3901.38 - Prompt payments to health care providers definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3901.38",
+      "term": "Benefits contract"
+    },
+    {
+      "definition": "(C) \"Hospital\" has the same meaning as in section 3727.01 of the Revised Code.",
+      "id": "3901.38-hospital",
+      "normalized": "hospital",
+      "scope": "As used in this section and sections 3901.381 to 3901.3814 of the Revised Code:",
+      "section": "3901.38",
+      "source_title": "Section 3901.38 - Prompt payments to health care providers definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3901.38",
+      "term": "Hospital"
+    },
+    {
+      "definition": "(D) \"Provider\" means a hospital, nursing home, physician, podiatrist, dentist, pharmacist, chiropractor, or other health care provider entitled to reimbursement by a third-party payer for services rendered to a beneficiary under a benefits contract.",
+      "id": "3901.38-provider",
+      "normalized": "provider",
+      "scope": "As used in this section and sections 3901.381 to 3901.3814 of the Revised Code:",
+      "section": "3901.38",
+      "source_title": "Section 3901.38 - Prompt payments to health care providers definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3901.38",
+      "term": "Provider"
+    },
+    {
+      "definition": "(E) \"Reimburse\" means indemnify, make payment, or otherwise accept responsibility for payment for health care services rendered to a beneficiary, or arrange for the provision of health care services to a beneficiary.",
+      "id": "3901.38-reimburse",
+      "normalized": "reimburse",
+      "scope": "As used in this section and sections 3901.381 to 3901.3814 of the Revised Code:",
+      "section": "3901.38",
+      "source_title": "Section 3901.38 - Prompt payments to health care providers definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3901.38",
+      "term": "Reimburse"
+    },
+    {
+      "definition": "(F) \"Third-party payer\" means any of the following:\n\n(1) An insurance company;\n\n(2) A health insuring corporation;\n\n(3) A labor organization;\n\n(4) An employer;\n\n(5) An intermediary organization, as defined in section 1751.01 of the Revised Code, that is not a health delivery network contracting solely with self-insured employers;\n\n(6) An administrator subject to sections 3959.01 to 3959.16 of the Revised Code;\n\n(7) A health delivery network, as defined in section 1751.01 of the Revised Code;\n\n(8) Any other person that is obligated pursuant to a benefits contract to reimburse for covered health care services rendered to beneficiaries under such contract.",
+      "id": "3901.38-third-party-payer",
+      "normalized": "third-party payer",
+      "scope": "As used in this section and sections 3901.381 to 3901.3814 of the Revised Code:",
+      "section": "3901.38",
+      "source_title": "Section 3901.38 - Prompt payments to health care providers definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3901.38",
+      "term": "Third-party payer"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3901.381",
+      "number": "3901.381",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.381"
+    },
+    {
+      "kind": "section",
+      "label": "3901.3814",
+      "number": "3901.3814",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.3814"
+    },
+    {
+      "kind": "section",
+      "label": "3727.01",
+      "number": "3727.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3727.01"
+    },
+    {
+      "kind": "section",
+      "label": "1751.01",
+      "number": "1751.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.01"
+    },
+    {
+      "kind": "section",
+      "label": "3959.01",
+      "number": "3959.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3959.01"
+    },
+    {
+      "kind": "section",
+      "label": "3959.16",
+      "number": "3959.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3959.16"
+    }
+  ],
+  "scraped": "2026-07-02T20:02:07+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3901.38",
+  "title": "Section 3901.38 - Prompt payments to health care providers definitions."
+}

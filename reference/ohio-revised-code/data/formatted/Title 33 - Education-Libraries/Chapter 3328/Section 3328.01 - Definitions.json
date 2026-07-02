@@ -1,0 +1,136 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Board of trustees\" means the board of trustees established for a college-preparatory boarding school in accordance with section 3328.15 of the Revised Code.\n\n(B) \"Child with a disability,\" \"IEP,\" and \"school district of residence\" have the same meanings as in section 3323.01 of the Revised Code.",
+      "id": "3328.01-board-of-trustees",
+      "normalized": "board of trustees",
+      "scope": "As used in this chapter:",
+      "section": "3328.01",
+      "source_title": "Section 3328.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3328.01",
+      "term": "Board of trustees"
+    },
+    {
+      "definition": "(C) \"Eligible student\" means a student who is entitled to attend school in a participating school district; is at risk of academic failure; is from a family whose income is below two hundred per cent of the federal poverty guidelines, as defined in section 5101.46 of the Revised Code; meets any additional criteria prescribed by agreement between the department of education and workforce and the operator of the college-preparatory boarding school in which the student seeks enrollment; and meets at least two of the following additional conditions:\n\n(1) The student has a record of in-school disciplinary actions, suspensions, expulsions, or truancy.\n\n(2) The student has not attained at least a proficient score on the state achievement assessments in English language arts, reading, or mathematics prescribed under section 3301.0710 of the Revised Code, after those assessments have been administered to the student at least once, or the student has not attained at least a score designated by the board of trustees of the college-preparatory boarding school in which the student seeks enrollment under this chapter on an end-of-course examination in English language arts or mathematics prescribed under section 3301.0712 of the Revised Code.\n\n(3) The student is a child with a disability.\n\n(4) The student has been referred for academic intervention services.",
+      "id": "3328.01-eligible-student",
+      "normalized": "eligible student",
+      "scope": "As used in this chapter:",
+      "section": "3328.01",
+      "source_title": "Section 3328.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3328.01",
+      "term": "Eligible student"
+    },
+    {
+      "definition": "(5) The student's head of household is a single parent. As used in this division and in division (C)(6) of this section, \"head of household\" means a person who occupies the same household as the student and who is financially responsible for the student.\n\n(6) The student's head of household is not the student's custodial parent.\n\n(7) A member of the student's family has been imprisoned, as defined in section 1.05 of the Revised Code.",
+      "id": "3328.01-head-of-household",
+      "normalized": "head of household",
+      "scope": "As used in this chapter:",
+      "section": "3328.01",
+      "source_title": "Section 3328.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3328.01",
+      "term": "head of household"
+    },
+    {
+      "definition": "(D) \"Entitled to attend school\" means entitled to attend school in a school district under section 3313.64 or 3313.65 of the Revised Code.\n\n(E) \"Formula ADM,\" \"category one through six special education ADM,\" and \"state education aid\" have the same meanings as in section 3317.02 of the Revised Code.",
+      "id": "3328.01-entitled-to-attend-school",
+      "normalized": "entitled to attend school",
+      "scope": "As used in this chapter:",
+      "section": "3328.01",
+      "source_title": "Section 3328.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3328.01",
+      "term": "Entitled to attend school"
+    },
+    {
+      "definition": "(F) \"Operator\" means the operator of a college-preparatory boarding school selected under section 3328.11 of the Revised Code.",
+      "id": "3328.01-operator",
+      "normalized": "operator",
+      "scope": "As used in this chapter:",
+      "section": "3328.01",
+      "source_title": "Section 3328.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3328.01",
+      "term": "Operator"
+    },
+    {
+      "definition": "(G) \"Participating school district\" means either of the following:\n\n(1) The school district in which a college-preparatory boarding school established under this chapter is located;\n\n(2) A school district other than one described in division (G)(1) of this section that, pursuant to procedures adopted by the department under section 3328.04 of the Revised Code, agrees to be a participating school district so that eligible students entitled to attend school in that district may enroll in a college-preparatory boarding school established under this chapter.\n\nLast updated September 11, 2023 at 12:08 PM",
+      "id": "3328.01-participating-school-district",
+      "normalized": "participating school district",
+      "scope": "As used in this chapter:",
+      "section": "3328.01",
+      "source_title": "Section 3328.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3328.01",
+      "term": "Participating school district"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3328.15",
+      "number": "3328.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3328.15"
+    },
+    {
+      "kind": "section",
+      "label": "3323.01",
+      "number": "3323.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3323.01"
+    },
+    {
+      "kind": "section",
+      "label": "5101.46",
+      "number": "5101.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.46"
+    },
+    {
+      "kind": "section",
+      "label": "3301.0710",
+      "number": "3301.0710",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3301.0710"
+    },
+    {
+      "kind": "section",
+      "label": "3301.0712",
+      "number": "3301.0712",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3301.0712"
+    },
+    {
+      "kind": "section",
+      "label": "1.05",
+      "number": "1.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1.05"
+    },
+    {
+      "kind": "section",
+      "label": "3313.64",
+      "number": "3313.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.64"
+    },
+    {
+      "kind": "section",
+      "label": "3313.65",
+      "number": "3313.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.65"
+    },
+    {
+      "kind": "section",
+      "label": "3317.02",
+      "number": "3317.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.02"
+    },
+    {
+      "kind": "section",
+      "label": "3328.11",
+      "number": "3328.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3328.11"
+    },
+    {
+      "kind": "section",
+      "label": "3328.04",
+      "number": "3328.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3328.04"
+    }
+  ],
+  "scraped": "2026-07-02T19:49:18+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3328.01",
+  "title": "Section 3328.01 - Definitions."
+}

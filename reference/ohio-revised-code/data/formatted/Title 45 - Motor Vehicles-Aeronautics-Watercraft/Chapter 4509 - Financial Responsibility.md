@@ -1,0 +1,88 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-4509
+Scraped: 2026-07-02T20:05:34+00:00
+
+# Chapter 4509 - Financial Responsibility
+
+## Sections
+
+- Section 4509.01 - Financial responsibility definitions.
+- Section 4509.011 - Financial responsibility of minor drivers.
+- Section 4509.02 - Judgment, state definitions.
+- Section 4509.03 - Registrar of motor vehicles - powers and duties.
+- Section 4509.04 - Review of registrar's orders.
+- Section 4509.05 - Information furnished by registrar - fee.
+- Section 4509.06 - Accident report alleging uninsured driver or owner.
+- Section 4509.07 - Contents of accident report.
+- Section 4509.08 - Exception to report requirement.
+- Section 4509.10 - Use of report.
+- Section 4509.101 - Operating of motor vehicle without proof of financial responsibility.
+- Section 4509.102 - Falsification.
+- Section 4509.103 - Insurer to provide financial responsibility identification cards.
+- Section 4509.104 - Conspicuous warning that policy does not meet minimum amounts.
+- Section 4509.11 - Application of security requirements.
+- Section 4509.12 - Security deposit.
+- Section 4509.13 - Notice of required security deposit.
+- Section 4509.14 - Reduction of excessive security - return of excess deposit.
+- Section 4509.15 - Form and amount of security.
+- Section 4509.16 - Designation for whom security deposit made.
+- Section 4509.17 - License suspension upon failure to request hearing or deposit security.
+- Section 4509.18 - License or registration denied until security deposited.
+- Section 4509.19 - Exceptions to security deposit and suspension.
+- Section 4509.20 - Requirements of insurance or bond necessary to excuse deposit of security.
+- Section 4509.21 - Release or covenant not to sue - minors.
+- Section 4509.22 - Adjudication of nonliability.
+- Section 4509.23 - Payment of judgment.
+- Section 4509.24 - Agreement by parties - effect of breach.
+- Section 4509.25 - Registrar shall not require security deposit of relieved person or shall return security deposit.
+- Section 4509.26 - Termination of suspension.
+- Section 4509.27 - Security deposit fund.
+- Section 4509.28 - Application of security deposit funds.
+- Section 4509.29 - Return of deposit.
+- Section 4509.291 - Cooperation with other states.
+- Section 4509.30 - Accident report and findings of registrar prohibited at trial.
+- Section 4509.33 - Suspension of nonresidents' operating privilege and registration.
+- Section 4509.34 - Suspension of license withdrawn.
+- Section 4509.35 - Registrar to receive copies of judgments, conviction of nonresident or order forfeiture of bail.
+- Section 4509.36 - Copies of judgments sent to other states.
+- Section 4509.37 - Suspension of license and registration, and nonresident's operating privilege - civil penalties.
+- Section 4509.38 - Waiver by judgment creditor of suspension provision.
+- Section 4509.39 - No suspension when insurer obligated.
+- Section 4509.40 - Suspension continues until settlement of judgment.
+- Section 4509.41 - Satisfaction of judgments.
+- Section 4509.42 - Payment of judgment in installments.
+- Section 4509.44 - Proof of financial responsibility required for registration.
+- Section 4509.45 - Filing of proof of financial responsibility.
+- Section 4509.46 - Certificate of domestic insurer as proof.
+- Section 4509.47 - Proof of financial responsibility by nonresident.
+- Section 4509.48 - Default by insurance carrier.
+- Section 4509.49 - Requirements for motor-vehicle liability policy.
+- Section 4509.50 - Requirements may be met by one or more policies.
+- Section 4509.51 - Requirements for owner's liability insurance.
+- Section 4509.52 - Requirements for operator's insurance.
+- Section 4509.53 - Provisions incorporated into policy by law.
+- Section 4509.54 - Permissible exclusions of liability policies.
+- Section 4509.55 - Permissible liability provisions in policy.
+- Section 4509.56 - Binder fulfills requirements.
+- Section 4509.57 - Notice required to terminate insurance certification.
+- Section 4509.58 - Policies affected.
+- Section 4509.59 - Proof of financial responsibility evidenced by bond.
+- Section 4509.60 - Filing of bond constitutes lien.
+- Section 4509.61 - Judgment creditor may bring action against bond.
+- Section 4509.62 - Proof of financial responsibility evidenced by certificate of treasurer of state.
+- Section 4509.63 - Security to satisfy certain judgments.
+- Section 4509.64 - Proof of financial responsibility given by another.
+- Section 4509.65 - Substitution of other adequate proof of financial responsibility.
+- Section 4509.66 - Suspension for inadequate proof of financial responsibility.
+- Section 4509.67 - Cancellation of bond or certificate - waiver of requirement of filing proof.
+- Section 4509.68 - Transfer of registration not permitted - exception.
+- Section 4509.69 - Registration and plates to be returned to registrar.
+- Section 4509.70 - Plan for apportionment of applicants for insurance.
+- Section 4509.71 - Exemption of certain owners of motor vehicles.
+- Section 4509.72 - Requirements for self-insurer.
+- Section 4509.73 - Other relief not prevented.
+- Section 4509.74 - Prohibition against failure to report accident.
+- Section 4509.77 - Prohibition against failure to return license.
+- Section 4509.78 - General prohibition.
+- Section 4509.79 - Liability insurance for motor vehicles used in ridesharing arrangement.
+- Section 4509.80 - Chauffeured limousines.
+- Section 4509.81 - Suspension of rights of owner of chauffeured limousine - request for administrative hearing.

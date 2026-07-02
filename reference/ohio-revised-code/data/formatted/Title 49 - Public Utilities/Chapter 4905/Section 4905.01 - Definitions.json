@@ -1,0 +1,64 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Railroad\" has the same meaning as in section 4907.02 of the Revised Code.",
+      "id": "4905.01-railroad",
+      "normalized": "railroad",
+      "scope": "As used in this chapter:",
+      "section": "4905.01",
+      "source_title": "Section 4905.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4905.01",
+      "term": "Railroad"
+    },
+    {
+      "definition": "(B) \"Motor carrier\" has the same meaning as in section 4923.01 of the Revised Code.\n\n(C) \"Motor vehicle\" and \"public highway\" have the same meanings as in section 4921.01 of the Revised Code.",
+      "id": "4905.01-motor-carrier",
+      "normalized": "motor carrier",
+      "scope": "As used in this chapter:",
+      "section": "4905.01",
+      "source_title": "Section 4905.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4905.01",
+      "term": "Motor carrier"
+    },
+    {
+      "definition": "(D) \"Ohio coal research and development costs\" means all reasonable costs associated with a facility or project undertaken by a public utility for which a recommendation to allow the recovery of costs associated therewith has been made under division (B)(7) of section 1551.33 of the Revised Code, including, but not limited to, capital costs, such as costs of debt and equity; construction and operation costs; termination and retirement costs; costs of feasibility and marketing studies associated with the project; and the acquisition and delivery costs of Ohio coal used in the project, less any expenditures of grant moneys.",
+      "id": "4905.01-ohio-coal-research-and-development-costs",
+      "normalized": "ohio coal research and development costs",
+      "scope": "As used in this chapter:",
+      "section": "4905.01",
+      "source_title": "Section 4905.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4905.01",
+      "term": "Ohio coal research and development costs"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "4907.02",
+      "number": "4907.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.02"
+    },
+    {
+      "kind": "section",
+      "label": "4923.01",
+      "number": "4923.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4923.01"
+    },
+    {
+      "kind": "section",
+      "label": "4921.01",
+      "number": "4921.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4921.01"
+    },
+    {
+      "kind": "section",
+      "label": "1551.33",
+      "number": "1551.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1551.33"
+    }
+  ],
+  "scraped": "2026-07-02T20:09:00+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4905.01",
+  "title": "Section 4905.01 - Definitions."
+}

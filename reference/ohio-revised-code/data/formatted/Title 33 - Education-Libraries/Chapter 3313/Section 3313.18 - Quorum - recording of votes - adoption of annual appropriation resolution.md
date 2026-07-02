@@ -1,0 +1,10 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3313.18
+Scraped: 2026-07-02T19:48:39+00:00
+
+# Section 3313.18 - Quorum - recording of votes - adoption of annual appropriation resolution.
+
+**Effective:** September 29, 1995
+
+**Latest Legislation:** House Bill 117 - 121st General Assembly
+
+A majority of the members of a board of education shall constitute a quorum. Upon a motion to adopt a resolution authorizing the purchase or sale of real or personal property, or to employ a superintendent or teacher, janitor or other employee, or to elect or appoint an officer, or to pay any debt or claim, or to adopt any textbook, the treasurer of the board shall publicly call the roll of the members composing the board and enter on the records the names of those voting "aye" and the names of those voting "no." If a majority of all the members of the board vote aye, the president shall declare the motion carried. Upon any motion or resolution, a member of the board may demand the yeas and nays, and thereupon the treasurer shall call the roll and record the names of those voting "aye" and those voting "no." Each board may provide for the payment of superintendents, teachers, and other employees by payroll, but in all cases such roll call and record shall be complied with. Whenever a board of a city, exempted village, or local school district or a governing board of an educational service center by a majority vote of its members has adopted an annual appropriation resolution, then such board may, by general resolution, dispense with the adoption of resolutions authorizing the purchase or sale of property, except real estate, the employment, appointment, or confirmation of officers and employees, except as otherwise provided for by law, the payment of debts or claims, the salaries of superintendents, teachers or other employees, if provision therefor is made in such annual appropriation resolution, or approving warrants for the payment of any claim from school funds, if the expenditure for which such warrant is issued, is provided for in such annual appropriation resolution.

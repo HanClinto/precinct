@@ -1,0 +1,97 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-3111
+Scraped: 2026-07-02T19:47:43+00:00
+
+# Chapter 3111 - Parentage
+
+## Sections
+
+- Section 3111.01 - Parent and child relationship defined.
+- Section 3111.02 - Establishing parent and child relationship.
+- Section 3111.03 - Presumption of paternity.
+- Section 3111.04 - Standing to bring paternity action.
+- Section 3111.041 - Caretaker authorization of genetic testing.
+- Section 3111.05 - Statute of limitations.
+- Section 3111.06 - Jurisdiction of courts - personal jurisdiction.
+- Section 3111.07 - Parties to action - intervention.
+- Section 3111.08 - Rules of Civil Procedure govern action.
+- Section 3111.09 - Genetic tests - DNA records.
+- Section 3111.10 - Evidence of paternity.
+- Section 3111.11 - Pretrial hearing.
+- Section 3111.111 - Temporary support order.
+- Section 3111.12 - Witnesses - admission of evidence - priority of actions.
+- Section 3111.13 - Judgment or order.
+- Section 3111.14 - Fees and costs of action.
+- Section 3111.15 - Enforcing father's obligation.
+- Section 3111.16 - Continuing jurisdiction.
+- Section 3111.17 - Determining mother and child relationship.
+- Section 3111.18 - Preparing new birth record.
+- Section 3111.19 - Interfering with establishment of paternity.
+- Section 3111.20 - Birth record defined.
+- Section 3111.21 - Notarizing acknowledgment.
+- Section 3111.22 - Acknowledgment to be sent to job and family services department.
+- Section 3111.23 - Acknowledgment filed with office of child support.
+- Section 3111.24 - Determining whether acknowledgment is completed correctly.
+- Section 3111.25 - Acknowledgment of paternity is final and enforceable.
+- Section 3111.26 - Effects of final and enforceable acknowledgment.
+- Section 3111.27 - Rescinding acknowledgment.
+- Section 3111.28 - Action rescinding acknowledgment.
+- Section 3111.29 - Enforcing support obligation.
+- Section 3111.30 - Preparing new birth record.
+- Section 3111.31 - Acknowledgment of paternity affidavit form.
+- Section 3111.32 - Information pamphlets - toll-free telephone number.
+- Section 3111.33 - Distributing pamphlets and forms.
+- Section 3111.34 - Evidence necessary to complete new birth record.
+- Section 3111.35 - Implementing provisions.
+- Section 3111.38 - Requesting administrative determination of paternity.
+- Section 3111.381 - Request to precede court action - jurisdiction.
+- Section 3111.39 - Requests filed with multiple agencies.
+- Section 3111.41 - Assigning to administrative officer - order for genetic testing.
+- Section 3111.42 - Attaching notice to order.
+- Section 3111.421 - Serving notice and order.
+- Section 3111.43 - Persons to be notified - genetic testing of persons present.
+- Section 3111.44 - Information conference.
+- Section 3111.45 - Test conducted by qualified examiner.
+- Section 3111.46 - Finding paternity or nonpaternity.
+- Section 3111.47 - Failure to submit to test results in inconclusive finding.
+- Section 3111.48 - Information included in order.
+- Section 3111.49 - Conclusiveness of order.
+- Section 3111.50 - Bringing action where order is inconclusive.
+- Section 3111.51 - Including names, addresses and social security numbers of parents and child in order.
+- Section 3111.52 - Changing surname of child.
+- Section 3111.53 - Administrative officer.
+- Section 3111.54 - Contempt.
+- Section 3111.58 - New birth record.
+- Section 3111.61 - Samples and performance of genetic testing.
+- Section 3111.611 - On-site genetic testing.
+- Section 3111.64 - Birth registry.
+- Section 3111.65 - Accessing registry.
+- Section 3111.66 - Filing orders and entering into registry.
+- Section 3111.67 - Birth registry rules.
+- Section 3111.69 - Locating absent parent using putative father registry.
+- Section 3111.71 - Contracts with hospitals to meet with unmarried women giving birth.
+- Section 3111.72 - Requirements for contracts with hospitals to meet with unmarried women giving birth.
+- Section 3111.73 - Annual report.
+- Section 3111.74 - Acknowledgment conflicting with presumption of paternity.
+- Section 3111.77 - Presumed father assuming duty of support.
+- Section 3111.78 - Enforcing obligations of presumed father.
+- Section 3111.80 - Hearing to determine child support and provision for health care.
+- Section 3111.801 - Requests for information.
+- Section 3111.81 - Order concerning support and health care.
+- Section 3111.82 - Raise issue of existence or nonexistence of parent and child relationship.
+- Section 3111.821 - Proceedings - finality of acknowledgment.
+- Section 3111.83 - Registering order concerning support and health care.
+- Section 3111.831 - System for organized safekeeping and retrieval of administrative support orders.
+- Section 3111.832 - Registering order with court.
+- Section 3111.84 - Bringing action objecting to order - finality of unchallenged order.
+- Section 3111.85 - Administrative support orders issued prior to 1-1-98.
+- Section 3111.88 - Non-spousal artificial insemination definitions.
+- Section 3111.89 - Coverage of provisions.
+- Section 3111.90 - Physician supervision.
+- Section 3111.91 - Medical history and physical examination of donor.
+- Section 3111.92 - Consent by both spouses.
+- Section 3111.93 - Provisions of consent form.
+- Section 3111.94 - Confidentiality.
+- Section 3111.95 - Husband considered natural father - child natural child.
+- Section 3111.96 - Noncompliance.
+- Section 3111.97 - Parentage of children resulting from embryo donation.
+- Section 3111.99 - Penalty.

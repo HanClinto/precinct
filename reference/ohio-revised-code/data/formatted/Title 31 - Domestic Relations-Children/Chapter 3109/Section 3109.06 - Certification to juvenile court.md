@@ -1,0 +1,16 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3109.06
+Scraped: 2026-07-02T19:47:41+00:00
+
+# Section 3109.06 - Certification to juvenile court.
+
+**Effective:** March 22, 2019
+
+**Latest Legislation:** House Bill 595 - 132nd General Assembly
+
+Except as provided in division (K) of section 2301.03 of the Revised Code, any court, other than a juvenile court, that has jurisdiction in any case respecting the allocation of parental rights and responsibilities for the care of a child under eighteen years of age and the designation of the child's place of residence and legal custodian or in any case respecting the support of a child under eighteen years of age, may, on its own motion or on motion of any interested party, certify the record in the case or so much of the record and such further information, in narrative form or otherwise, as the court deems necessary or the juvenile court requests, to the juvenile court for further proceedings; upon the certification, the juvenile court shall have exclusive jurisdiction.
+
+In cases in which the court of common pleas finds the parents unsuitable to have the parental rights and responsibilities for the care of the child or children and unsuitable to provide the place of residence and to be the legal custodian of the child or children, consent of the juvenile court shall not be required to such certification. This section applies to actions pending on August 28, 1951.
+
+In any case in which a court of common pleas, or other court having jurisdiction, has issued an order that allocates parental rights and responsibilities for the care of minor children and designates their place of residence and legal custodian of minor children, has made an order for support of minor children, or has done both, the jurisdiction of the court shall not abate upon the death of the person awarded custody but shall continue for all purposes during the minority of the children. The court, upon its own motion or the motion of either parent or of any interested person acting on behalf of the children, may proceed to make further disposition of the case in the best interests of the children and subject to sections 3109.42 to 3109.48 of the Revised Code. If the children are under eighteen years of age, it may certify them, pursuant to this section, to the juvenile court of any county for further proceedings. After certification to a juvenile court, the jurisdiction of the court of common pleas, or other court, shall cease, except as to any payments of spousal support due for the spouse and support payments due and unpaid for the children at the time of the certification.
+
+Any disposition made pursuant to this section, whether by a juvenile court after a case is certified to it, or by any court upon the death of a person awarded custody of a child, shall be made in accordance with sections 3109.04 and 3109.42 to 3109.48 of the Revised Code. If an appeal is taken from a decision made pursuant to this section that allocates parental rights and responsibilities for the care of a minor child and designates the child's place of residence and legal custodian, the court of appeals shall give the case calendar priority and handle it expeditiously.

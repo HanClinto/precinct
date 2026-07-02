@@ -1,0 +1,639 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 5301.01 - Acknowledgment of deed, mortgage, land contract, lease or memorandum of trust.",
+      "number": "5301.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.011 - Recorded instrument to contain volume and page reference.",
+      "number": "5301.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.011"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.012 - Identification of agency for whose use and benefit interest in real property is acquired.",
+      "number": "5301.012",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.012"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.02 - Words necessary to create a fee simple estate.",
+      "number": "5301.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.03 - Grantee as trustee or agent.",
+      "number": "5301.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.04 - Deed, mortgage, or lease of a married person.",
+      "number": "5301.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.05 - Discriminatory restrictive covenants - void.",
+      "number": "5301.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.057 - Transfer fee covenant.",
+      "number": "5301.057",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.057"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.06 - Instruments executed according to law of place where made.",
+      "number": "5301.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.07 - Delivery and acceptance of real property instrument; presumptions.",
+      "number": "5301.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.071 - Validity of instruments not affected by certain actions or omissions.",
+      "number": "5301.071",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.071"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.072 - Deed restrictions prohibiting placement of flag unenforceable.",
+      "number": "5301.072",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.072"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.08 - Certain leases unaffected.",
+      "number": "5301.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.09 - Recording lease of natural gas and petroleum.",
+      "number": "5301.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.10 - Parties defendant in suits to cancel leases.",
+      "number": "5301.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.11 - Effect of destruction of building upon lessee.",
+      "number": "5301.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.12 - Purchaser at tax sale.",
+      "number": "5301.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.13 - Mode of conveyance by state.",
+      "number": "5301.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.14 - Copy of record of lost deed to be evidence.",
+      "number": "5301.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.15 - Governor may execute new deed to supply lost conveyance.",
+      "number": "5301.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.16 - Execution of conveyance by state when purchaser dies before deed made.",
+      "number": "5301.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.17 - New deed from state to correct errors.",
+      "number": "5301.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.18 - Deeds from state must recite facts.",
+      "number": "5301.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.19 - Release of mortgage to the state.",
+      "number": "5301.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.20 - Reversion to owner of land conveyed to state.",
+      "number": "5301.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.21 - Adjoining owners may fix corner or line.",
+      "number": "5301.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.22 - Effect of agreement with a guardian.",
+      "number": "5301.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.23 - Mortgage effective dates.",
+      "number": "5301.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.231 - Effective dates of amendments, supplements, modifications or extensions of mortgages, or of debt secured by mortgages,.",
+      "number": "5301.231",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.231"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.232 - Open-end mortgages.",
+      "number": "5301.232",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.232"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.233 - Mortgage may secure unpaid balances of advances made.",
+      "number": "5301.233",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.233"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.234 - Mortgage subrogation.",
+      "number": "5301.234",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.234"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.24 - Acquisition of property by state not to affect mortgage lien - state, a party.",
+      "number": "5301.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.25 - Recording in county where real estate situated - survey form.",
+      "number": "5301.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.251 - Memorandum of lease recording.",
+      "number": "5301.251",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.251"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.252 - Recording affidavit relating to title.",
+      "number": "5301.252",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.252"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.253 - Written notice of code violations prior to entering into agreement for transfer of title to property.",
+      "number": "5301.253",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.253"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.254 - Filing information with secretary of state by nonresident alien acquiring interest in real property.",
+      "number": "5301.254",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.254"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.255 - Memorandum of trust recording.",
+      "number": "5301.255",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.255"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.256 - Registry of persons prohibited from acquiring agricultural land.",
+      "number": "5301.256",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.256"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.26 - Vendor's lien.",
+      "number": "5301.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.27 - Conditional grants or devises of real estate.",
+      "number": "5301.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.28 - Release of mortgage - assignment.",
+      "number": "5301.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.29 - Releases of mortgages made valid.",
+      "number": "5301.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.291 - Mortgage release, cancellation, or satisfaction not defective.",
+      "number": "5301.291",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.291"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.30 - Expiration of mortgage lien - limitation.",
+      "number": "5301.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.31 - Assignment or partial release in margin of original record.",
+      "number": "5301.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.32 - Assignment or partial release by separate instrument.",
+      "number": "5301.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.33 - Cancellation, release, and assignment of leases.",
+      "number": "5301.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.331 - Land contract cancellation, partial release, or assignment.",
+      "number": "5301.331",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.331"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.332 - Forfeiture for failure of lessee, successors or assigns to abide by specifically described covenants.",
+      "number": "5301.332",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.332"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.34 - Release of mortgage on certificate of mortgagee or assignee.",
+      "number": "5301.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.35 - Waiver of priority of mortgages - execution and recording - fees.",
+      "number": "5301.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.36 - Entry of satisfaction.",
+      "number": "5301.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.361 - Unreleased mortgages; liability for damages for failure to record.",
+      "number": "5301.361",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.361"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.37 - Recording of separate instruments.",
+      "number": "5301.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.38 - Record of patents, copies, and exemplifications.",
+      "number": "5301.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.39 - When court to order clerk to make entry on record of mortgage.",
+      "number": "5301.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.40 - Mortgage or lien satisfied by suit.",
+      "number": "5301.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.41 - Effect of reversal of judgment.",
+      "number": "5301.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.42 - Effect of entry by clerk.",
+      "number": "5301.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.43 - Certified copy of record of instrument as evidence.",
+      "number": "5301.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.44 - Certified copy of record in action to cure defects.",
+      "number": "5301.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.45 - Instrument executed and acknowledged upon different sheets.",
+      "number": "5301.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.46 - Assignment, release, or cancellation of interest made by separate instrument to contain description.",
+      "number": "5301.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.47 - Marketable title definitions.",
+      "number": "5301.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.48 - Unbroken chain of title of record.",
+      "number": "5301.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.49 - Record marketable title.",
+      "number": "5301.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.50 - Interests prior to effective date of root of title.",
+      "number": "5301.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.51 - Preservation of interest in land.",
+      "number": "5301.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.52 - Notice and filing of claim of interest in land.",
+      "number": "5301.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.53 - Certain rights not barred or extinguished.",
+      "number": "5301.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.54 - Effect of changes.",
+      "number": "5301.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.55 - Liberal construction of statutes.",
+      "number": "5301.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.56 - Mineral interests - vesting in surface owner.",
+      "number": "5301.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.61 - Removal of fixtures or improvements from mortgaged realty.",
+      "number": "5301.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.63 - Solar access easement requirements.",
+      "number": "5301.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.67 - Conservation, agricultural easement definitions.",
+      "number": "5301.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.67"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.68 - Granting conservation or agricultural easement.",
+      "number": "5301.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.68"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.69 - Who may acquire conservation or agricultural easement.",
+      "number": "5301.69",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.69"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.691 - Director of agriculture purchase of agricultural easements.",
+      "number": "5301.691",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.691"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.692 - Holding land or interests in land for purpose of retaining use of land predominantly in agriculture.",
+      "number": "5301.692",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.692"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.70 - Enforcement of conservation easement.",
+      "number": "5301.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.71 - Termination of agricultural leases.",
+      "number": "5301.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.75 - Unfair service agreement definitions.",
+      "number": "5301.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.76 - Unfair service agreement prohibited, void, and unenforceable; exemptions; enforcement.",
+      "number": "5301.76",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.76"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.77 - Unfair service agreement recording prohibited.",
+      "number": "5301.77",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.77"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.78 - Unfair service agreement civil action.",
+      "number": "5301.78",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.78"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.80 - Environmental covenants - definitions.",
+      "number": "5301.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.80"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.81 - Holder of environmental covenant.",
+      "number": "5301.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.82 - Contents of environmental covenant - required signatures.",
+      "number": "5301.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.82"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.83 - Copies of environmental covenant to be provided.",
+      "number": "5301.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.83"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.84 - Obligations under environmental covenant.",
+      "number": "5301.84",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.84"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.85 - Environmental covenant runs with land - enforceability.",
+      "number": "5301.85",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.85"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.86 - Antecedent interests in real property - subordination agreement.",
+      "number": "5301.86",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.86"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.87 - Zoning regulations and prior instruments.",
+      "number": "5301.87",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.87"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.88 - Filing and recording of environmental covenants.",
+      "number": "5301.88",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.88"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.89 - Environmental covenant perpetual - exceptions - judicial termination - limitation.",
+      "number": "5301.89",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.89"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.90 - Amendment or termination of environmental covenant by consent - assignment.",
+      "number": "5301.90",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.90"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.91 - Civil action for violation - regulatory authority - liability.",
+      "number": "5301.91",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.91"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.92 - Preemption of federal electronic signatures statute.",
+      "number": "5301.92",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.92"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.93 - Residential PACE lien priority.",
+      "number": "5301.93",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.93"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.94 - Right-to-list home sale agreements.",
+      "number": "5301.94",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.94"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.95 - Residential real property wholesalers.",
+      "number": "5301.95",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.95"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5301.99 - Penalty.",
+      "number": "5301.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.99"
+    }
+  ],
+  "scraped": "2026-07-02T20:11:45+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-5301",
+  "title": "Chapter 5301 - Conveyances; Encumbrances"
+}

@@ -1,0 +1,240 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Active deposit\" means a public deposit necessary to meet current demands on the treasury, and that is deposited in any of the following:\n\n(1) A commercial account that is payable or withdrawable, in whole or in part, on demand;\n\n(2) A negotiable order of withdrawal account as authorized in the \"Consumer Checking Account Equity Act of 1980,\" 94 Stat. 146, 12 U.S.C.A. 1832(a);\n\n(3) A money market deposit account as authorized in the \"Garn-St. Germain Depository Institutions Act of 1982,\" 96 Stat. 1501, 12 U.S.C. 3503.",
+      "id": "135.01-active-deposit",
+      "normalized": "active deposit",
+      "scope": "Except as otherwise provided in sections 135.14 , 135.143 , 135.181 , and 135.182 of the Revised Code, as used in sections 135.01 to 135.21 of the Revised Code:",
+      "section": "135.01",
+      "source_title": "Section 135.01 - Uniform depository act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-135.01",
+      "term": "Active deposit"
+    },
+    {
+      "definition": "(B) \"Auditor\" includes the auditor of state and the auditor, or officer exercising the functions of an auditor, of any subdivision.",
+      "id": "135.01-auditor",
+      "normalized": "auditor",
+      "scope": "Except as otherwise provided in sections 135.14 , 135.143 , 135.181 , and 135.182 of the Revised Code, as used in sections 135.01 to 135.21 of the Revised Code:",
+      "section": "135.01",
+      "source_title": "Section 135.01 - Uniform depository act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-135.01",
+      "term": "Auditor"
+    },
+    {
+      "definition": "(C) \"Capital funds\" means the sum of the following: the par value of the outstanding common capital stock, the par value of the outstanding preferred capital stock, the aggregate par value of all outstanding capital notes and debentures, and the surplus. In the case of an institution having offices in more than one county, the capital funds of such institution, for the purposes of sections 135.01 to 135.21 of the Revised Code, relative to the deposit of the public moneys of the subdivisions in one such county, shall be considered to be that proportion of the capital funds of the institution that is represented by the ratio that the deposit liabilities of such institution originating at the office located in the county bears to the total deposit liabilities of the institution.",
+      "id": "135.01-capital-funds",
+      "normalized": "capital funds",
+      "scope": "Except as otherwise provided in sections 135.14 , 135.143 , 135.181 , and 135.182 of the Revised Code, as used in sections 135.01 to 135.21 of the Revised Code:",
+      "section": "135.01",
+      "source_title": "Section 135.01 - Uniform depository act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-135.01",
+      "term": "Capital funds"
+    },
+    {
+      "definition": "(D) \"Governing board\" means, in the case of the state, the state board of deposit; in the case of all school districts and educational service centers except as otherwise provided in this section, the board of education or governing board of a service center, and when the case so requires, the board of commissioners of the sinking fund; in the case of a municipal corporation, the legislative authority, and when the case so requires, the board of trustees of the sinking fund; in the case of a township, the board of township trustees; in the case of a union or joint institution or enterprise of two or more subdivisions not having a treasurer, the board of directors or trustees thereof; and in the case of any other subdivision electing or appointing a treasurer, the directors, trustees, or other similar officers of such subdivision. The governing board of a subdivision electing or appointing a treasurer shall be the governing board of all other subdivisions for which such treasurer is authorized by law to act. In the case of a county school financing district that levies a tax pursuant to section 5705.215 of the Revised Code, the county board of education that serves as its taxing authority shall operate as a governing board. Any other county board of education shall operate as a governing board unless it adopts a resolution designating the board of county commissioners as the governing board for the county school district.",
+      "id": "135.01-governing-board",
+      "normalized": "governing board",
+      "scope": "Except as otherwise provided in sections 135.14 , 135.143 , 135.181 , and 135.182 of the Revised Code, as used in sections 135.01 to 135.21 of the Revised Code:",
+      "section": "135.01",
+      "source_title": "Section 135.01 - Uniform depository act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-135.01",
+      "term": "Governing board"
+    },
+    {
+      "definition": "(E) \"Inactive deposit\" means a public deposit other than an interim deposit or an active deposit.",
+      "id": "135.01-inactive-deposit",
+      "normalized": "inactive deposit",
+      "scope": "Except as otherwise provided in sections 135.14 , 135.143 , 135.181 , and 135.182 of the Revised Code, as used in sections 135.01 to 135.21 of the Revised Code:",
+      "section": "135.01",
+      "source_title": "Section 135.01 - Uniform depository act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-135.01",
+      "term": "Inactive deposit"
+    },
+    {
+      "definition": "(F) \"Interim deposit\" means a deposit of interim moneys. \"Interim moneys\" means public moneys in the treasury of any subdivision after the award of inactive deposits has been made in accordance with section 135.07 of the Revised Code, which moneys are in excess of the aggregate amount of the inactive deposits as estimated by the governing board prior to the period of designation and which the governing board finds should not be deposited as active or inactive deposits for the reason that such moneys will not be needed for immediate use but will be needed before the end of the period of designation. In the case of the state treasury, \"interim moneys\" means public moneys that are not active deposits and may be invested in accordance with section 135.143 of the Revised Code.",
+      "id": "135.01-interim-deposit",
+      "normalized": "interim deposit",
+      "scope": "Except as otherwise provided in sections 135.14 , 135.143 , 135.181 , and 135.182 of the Revised Code, as used in sections 135.01 to 135.21 of the Revised Code:",
+      "section": "135.01",
+      "source_title": "Section 135.01 - Uniform depository act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-135.01",
+      "term": "Interim deposit"
+    },
+    {
+      "definition": "(G) \"Permissible rate of interest\" means a rate of interest that all eligible institutions mentioned in section 135.03 of the Revised Code are permitted to pay by law or valid regulations.",
+      "id": "135.01-permissible-rate-of-interest",
+      "normalized": "permissible rate of interest",
+      "scope": "Except as otherwise provided in sections 135.14 , 135.143 , 135.181 , and 135.182 of the Revised Code, as used in sections 135.01 to 135.21 of the Revised Code:",
+      "section": "135.01",
+      "source_title": "Section 135.01 - Uniform depository act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-135.01",
+      "term": "Permissible rate of interest"
+    },
+    {
+      "definition": "(H) \"Warrant clearance account\" means an account established by the treasurer of state for either of the following purposes:\n\n(1) The deposit of active state moneys for the purposes of clearing state paper warrants or checks through the banking system, funding electronic benefit transfer cards, issuing stored value cards, or otherwise facilitating the settlement of state obligations;\n\n(2) The deposit of custodial moneys from an account held in the custody of the treasurer of state to facilitate settlement of obligations of the custodial fund.",
+      "id": "135.01-warrant-clearance-account",
+      "normalized": "warrant clearance account",
+      "scope": "Except as otherwise provided in sections 135.14 , 135.143 , 135.181 , and 135.182 of the Revised Code, as used in sections 135.01 to 135.21 of the Revised Code:",
+      "section": "135.01",
+      "source_title": "Section 135.01 - Uniform depository act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-135.01",
+      "term": "Warrant clearance account"
+    },
+    {
+      "definition": "(I) \"Public deposit\" means public moneys deposited in a public depository pursuant to sections 135.01 to 135.21 of the Revised Code.",
+      "id": "135.01-public-deposit",
+      "normalized": "public deposit",
+      "scope": "Except as otherwise provided in sections 135.14 , 135.143 , 135.181 , and 135.182 of the Revised Code, as used in sections 135.01 to 135.21 of the Revised Code:",
+      "section": "135.01",
+      "source_title": "Section 135.01 - Uniform depository act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-135.01",
+      "term": "Public deposit"
+    },
+    {
+      "definition": "(J) \"Public depository\" means an institution which receives or holds any public deposits.",
+      "id": "135.01-public-depository",
+      "normalized": "public depository",
+      "scope": "Except as otherwise provided in sections 135.14 , 135.143 , 135.181 , and 135.182 of the Revised Code, as used in sections 135.01 to 135.21 of the Revised Code:",
+      "section": "135.01",
+      "source_title": "Section 135.01 - Uniform depository act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-135.01",
+      "term": "Public depository"
+    },
+    {
+      "definition": "(K) \"Public moneys\" means all moneys in the treasury of the state or any subdivision of the state, or moneys coming lawfully into the possession or custody of the treasurer of state or of the treasurer of any subdivision. \"Public moneys of the state\" includes all such moneys coming lawfully into the possession of the treasurer of state; and \"public moneys of a subdivision\" includes all such moneys coming lawfully into the possession of the treasurer of the subdivision.",
+      "id": "135.01-public-moneys",
+      "normalized": "public moneys",
+      "scope": "Except as otherwise provided in sections 135.14 , 135.143 , 135.181 , and 135.182 of the Revised Code, as used in sections 135.01 to 135.21 of the Revised Code:",
+      "section": "135.01",
+      "source_title": "Section 135.01 - Uniform depository act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-135.01",
+      "term": "Public moneys"
+    },
+    {
+      "definition": "(L) \"Subdivision\" means any municipal corporation, except one which has adopted a charter under Article XVIII, Ohio Constitution, and the charter or ordinances of the chartered municipal corporation set forth special provisions respecting the deposit or investment of its public moneys, or any school district or educational service center, a county school financing district, township, municipal or school district sinking fund, special taxing or assessment district, or other district or local authority electing or appointing a treasurer, except a county. In the case of a school district or educational service center, special taxing or assessment district, or other local authority for which a treasurer, elected or appointed primarily as the treasurer of a subdivision, is authorized or required by law to act as ex officio treasurer, the subdivision for which such a treasurer has been primarily elected or appointed shall be considered to be the \"subdivision.\" The term also includes a union or joint institution or enterprise of two or more subdivisions, that is not authorized to elect or appoint a treasurer, and for which no ex officio treasurer is provided by law.",
+      "id": "135.01-subdivision",
+      "normalized": "subdivision",
+      "scope": "Except as otherwise provided in sections 135.14 , 135.143 , 135.181 , and 135.182 of the Revised Code, as used in sections 135.01 to 135.21 of the Revised Code:",
+      "section": "135.01",
+      "source_title": "Section 135.01 - Uniform depository act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-135.01",
+      "term": "Subdivision"
+    },
+    {
+      "definition": "(M) \"Treasurer\" means, in the case of the state, the treasurer of state and in the case of any subdivision, the treasurer, or officer exercising the functions of a treasurer, of such subdivision. In the case of a board of trustees of the sinking fund of a municipal corporation, the board of commissioners of the sinking fund of a school district, or a board of directors or trustees of any union or joint institution or enterprise of two or more subdivisions not having a treasurer, such term means such board of trustees of the sinking fund, board of commissioners of the sinking fund, or board of directors or trustees.\n\n(N) \"Treasury investment board\" of a municipal corporation means the mayor or other chief executive officer, the village solicitor or city director of law, and the auditor or other chief fiscal officer.",
+      "id": "135.01-treasurer",
+      "normalized": "treasurer",
+      "scope": "Except as otherwise provided in sections 135.14 , 135.143 , 135.181 , and 135.182 of the Revised Code, as used in sections 135.01 to 135.21 of the Revised Code:",
+      "section": "135.01",
+      "source_title": "Section 135.01 - Uniform depository act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-135.01",
+      "term": "Treasurer"
+    },
+    {
+      "definition": "(O) \"No-load money market mutual fund\" means a no-load money market mutual fund to which all of the following apply:\n\n(1) The fund is registered as an investment company under the \"Investment Company Act of 1940,\" 54 Stat. 789, 15 U.S.C.A. 80a-1 to 80a-64;\n\n(2) The fund has the highest letter or numerical rating provided by at least one nationally recognized statistical rating organization;",
+      "id": "135.01-no-load-money-market-mutual-fund",
+      "normalized": "no-load money market mutual fund",
+      "scope": "Except as otherwise provided in sections 135.14 , 135.143 , 135.181 , and 135.182 of the Revised Code, as used in sections 135.01 to 135.21 of the Revised Code:",
+      "section": "135.01",
+      "source_title": "Section 135.01 - Uniform depository act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-135.01",
+      "term": "No-load money market mutual fund"
+    },
+    {
+      "definition": "(3) The fund does not include any investment in a derivative. As used in division (O)(3) of this section, \"derivative\" means a financial instrument or contract or obligation whose value or return is based upon or linked to another asset or index, or both, separate from the financial instrument, contract, or obligation itself. Any security, obligation, trust account, or other instrument that is created from an issue of the United States treasury or is created from an obligation of a federal agency or instrumentality or is created from both is considered a derivative instrument. An eligible investment described in section 135.14 or 135.35 of the Revised Code with a variable interest rate payment, based upon a single interest payment or single index comprised of other investments provided for in division (B)(1) or (2) of section 135.14 of the Revised Code, is not a derivative, provided that such variable rate investment has a maximum maturity of two years.",
+      "id": "135.01-derivative",
+      "normalized": "derivative",
+      "scope": "Except as otherwise provided in sections 135.14 , 135.143 , 135.181 , and 135.182 of the Revised Code, as used in sections 135.01 to 135.21 of the Revised Code:",
+      "section": "135.01",
+      "source_title": "Section 135.01 - Uniform depository act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-135.01",
+      "term": "derivative"
+    },
+    {
+      "definition": "(P) \"Public depositor\" means the state or a subdivision, as applicable, that deposits public moneys in a public depository pursuant to sections 135.01 to 135.21 of the Revised Code.",
+      "id": "135.01-public-depositor",
+      "normalized": "public depositor",
+      "scope": "Except as otherwise provided in sections 135.14 , 135.143 , 135.181 , and 135.182 of the Revised Code, as used in sections 135.01 to 135.21 of the Revised Code:",
+      "section": "135.01",
+      "source_title": "Section 135.01 - Uniform depository act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-135.01",
+      "term": "Public depositor"
+    },
+    {
+      "definition": "(Q) \"Uninsured public deposit\" means the portion of a public deposit that is not insured by the federal deposit insurance corporation or by any other agency or instrumentality of the federal government.\n\nLast updated July 29, 2025 at 4:10 PM",
+      "id": "135.01-uninsured-public-deposit",
+      "normalized": "uninsured public deposit",
+      "scope": "Except as otherwise provided in sections 135.14 , 135.143 , 135.181 , and 135.182 of the Revised Code, as used in sections 135.01 to 135.21 of the Revised Code:",
+      "section": "135.01",
+      "source_title": "Section 135.01 - Uniform depository act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-135.01",
+      "term": "Uninsured public deposit"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "135.14",
+      "number": "135.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.14"
+    },
+    {
+      "kind": "section",
+      "label": "135.143",
+      "number": "135.143",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.143"
+    },
+    {
+      "kind": "section",
+      "label": "135.181",
+      "number": "135.181",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.181"
+    },
+    {
+      "kind": "section",
+      "label": "135.182",
+      "number": "135.182",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.182"
+    },
+    {
+      "kind": "section",
+      "label": "135.01",
+      "number": "135.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.01"
+    },
+    {
+      "kind": "section",
+      "label": "135.21",
+      "number": "135.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.21"
+    },
+    {
+      "kind": "section",
+      "label": "5705.215",
+      "number": "5705.215",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.215"
+    },
+    {
+      "kind": "section",
+      "label": "135.07",
+      "number": "135.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.07"
+    },
+    {
+      "kind": "section",
+      "label": "135.03",
+      "number": "135.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.03"
+    },
+    {
+      "kind": "section",
+      "label": "135.35",
+      "number": "135.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.35"
+    }
+  ],
+  "scraped": "2026-07-02T19:31:50+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-135.01",
+  "title": "Section 135.01 - Uniform depository act definitions."
+}

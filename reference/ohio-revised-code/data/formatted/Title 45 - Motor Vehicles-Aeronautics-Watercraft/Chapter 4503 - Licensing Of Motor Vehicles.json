@@ -1,0 +1,1995 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 4503.01 - Motor vehicle defined.",
+      "number": "4503.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.02 - Levy of annual license tax.",
+      "number": "4503.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.03 - Deputy registrars.",
+      "number": "4503.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.031 - Office space for carrying out deputy registrars' duties.",
+      "number": "4503.031",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.031"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.032 - Political contributions.",
+      "number": "4503.032",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.032"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.033 - Deputy registrar to file annual statement - contents of statement.",
+      "number": "4503.033",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.033"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.034 - Statewide satisfaction rate.",
+      "number": "4503.034",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.034"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.035 - Electronic motor vehicle dealers.",
+      "number": "4503.035",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.035"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.036 - Limited authority deputy registrars.",
+      "number": "4503.036",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.036"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.037 - Allocation of motor vehicle-related duties between county auditor and clerk of court of common pleas.",
+      "number": "4503.037",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.037"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.038 - Adoption of rules regarding service fees.",
+      "number": "4503.038",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.038"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.04 - Schedule of rates.",
+      "number": "4503.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.041 - Weight of trailer used exclusively for noncommercial purposes.",
+      "number": "4503.041",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.041"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.042 - Rates for vehicles not subject to apportioned rates under international registration plan.",
+      "number": "4503.042",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.042"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.05 - Noncommercial motor vehicle use restriction.",
+      "number": "4503.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.06 - Manufactured or mobile home tax.",
+      "number": "4503.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.061 - Registration of manufactured and mobile homes in county of situs.",
+      "number": "4503.061",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.061"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.062 - Register of all manufactured and mobile homes.",
+      "number": "4503.062",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.062"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.063 - Appointment of deputies of auditor and treasurer.",
+      "number": "4503.063",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.063"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.064 - Homestead exemption definitions.",
+      "number": "4503.064",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.064"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.065 - Qualification for reduction in assessable value.",
+      "number": "4503.065",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.065"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.066 - Applying for reduction.",
+      "number": "4503.066",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.066"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.067 - Certificate of reduction in assessable value.",
+      "number": "4503.067",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.067"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.068 - Reimbursing county for reduction.",
+      "number": "4503.068",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.068"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.069 - Employees to carry out reduction process.",
+      "number": "4503.069",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.069"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.0610 - Partial real property tax exemption.",
+      "number": "4503.0610",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.0610"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.0611 - Refund or waiver of taxes on injured or destroyed manufactured home.",
+      "number": "4503.0611",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.0611"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.07 - Church bus registration fee.",
+      "number": "4503.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.08 - Determination of weight and horsepower.",
+      "number": "4503.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.09 - Tax on manufacturer, dealer, or distributor of motor vehicles.",
+      "number": "4503.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.10 - Application for registration or renewal - transmission of fees - inspection certificates.",
+      "number": "4503.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.101 - Establishing system of motor vehicle registration.",
+      "number": "4503.101",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.101"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.102 - Centralized system of motor vehicle registration.",
+      "number": "4503.102",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.102"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.103 - Multi-year registration.",
+      "number": "4503.103",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.103"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.104 - Contribution to save our sight fund.",
+      "number": "4503.104",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.104"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.105 - Vehicle renting dealer's fee to recover title and registration costs.",
+      "number": "4503.105",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.105"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.106 - Charging of fees by person other than registrar.",
+      "number": "4503.106",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.106"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.107 - Noncommercial trailer permanent registration.",
+      "number": "4503.107",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.107"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.11 - Owner required to file application - taxes.",
+      "number": "4503.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.111 - Registration within thirty days of residency.",
+      "number": "4503.111",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.111"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.12 - Transfer of ownership and registration.",
+      "number": "4503.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.13 - Report of outstanding municipal, county, or mayor's court arrest warrants.",
+      "number": "4503.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.14 - License plates with radio or television call letters.",
+      "number": "4503.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.15 - License plates for physicians.",
+      "number": "4503.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.16 - State and federal vehicle registration.",
+      "number": "4503.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.17 - Exemption of board of education school buses and post-office department vehicles from annual license tax.",
+      "number": "4503.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.171 - Exemption of Ohio wing, civil air patrol vehicles used for official business.",
+      "number": "4503.171",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.171"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.172 - Exemption of volunteer rescue service vehicles from fees or taxes.",
+      "number": "4503.172",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.172"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.173 - Exemption of boat trailers owned by disabled veterans, certain military honorees or former prisoners of war.",
+      "number": "4503.173",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.173"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.18 - Special license issued.",
+      "number": "4503.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.181 - Historical motor vehicles.",
+      "number": "4503.181",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.181"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.182 - Temporary motor vehicle license registration.",
+      "number": "4503.182",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.182"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.183 - Replica motor vehicle registration.",
+      "number": "4503.183",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.183"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.19 - Issuance of certificates of registration and license plates or validation stickers.",
+      "number": "4503.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.191 - Issuance of license plates and validation stickers - production by Ohio penal industries.",
+      "number": "4503.191",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.191"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.192 - Retention of personalized license plate letters and numbers.",
+      "number": "4503.192",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.192"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.193 - Reference to license or registration plates or validation stickers.",
+      "number": "4503.193",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.193"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.20 - Application for registration to contain statement regarding proof of financial responsibility.",
+      "number": "4503.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.21 - Display of license plates and validation stickers or temporary license registration.",
+      "number": "4503.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.211 - Rental vehicle operator exemption.",
+      "number": "4503.211",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.211"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.22 - Specifications for license plates.",
+      "number": "4503.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.23 - Special license plates for state owned motor vehicles.",
+      "number": "4503.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.231 - Unique license plates for motor vehicles whose standard plates have been impounded.",
+      "number": "4503.231",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.231"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.232 - Registrar may destroy suspended or impounded license plates.",
+      "number": "4503.232",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.232"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.233 - Immobilization orders.",
+      "number": "4503.233",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.233"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.234 - Order of criminal forfeiture of vehicle.",
+      "number": "4503.234",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.234"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.235 - Vehicle immobilization waiver order - terms.",
+      "number": "4503.235",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.235"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.236 - Forfeiture for violation of immobilization order.",
+      "number": "4503.236",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.236"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.24 - Registration and licensing of chauffeured limousines - livery license plate sticker.",
+      "number": "4503.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.25 - Index of licenses issued.",
+      "number": "4503.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.26 - Lists of registration information - acceptance of bids for preparation.",
+      "number": "4503.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.27 - Registration requirements for manufacturers, dealers and distributors.",
+      "number": "4503.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.271 - Operation of new vehicle without plate or placard after railroad car accident.",
+      "number": "4503.271",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.271"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.28 - Manufacturer, dealer or distributor required to file application for registration.",
+      "number": "4503.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.29 - Program to establish and issue specialty license plates recognizing military service and military honors.",
+      "number": "4503.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.30 - Display of placards issued to manufacturers, dealers or distributors.",
+      "number": "4503.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.301 - Commercial car demonstration placards.",
+      "number": "4503.301",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.301"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.31 - Annual registration by persons other than manufacturers, dealers, or distributors - use of placards.",
+      "number": "4503.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.311 - Manufacturer or dealer of watercraft trailers - annual registration.",
+      "number": "4503.311",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.311"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.312 - Manufacturer or distributor of utility trailers or trailers for transporting vehicles - annual registration.",
+      "number": "4503.312",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.312"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.32 - Unauthorized use of placard.",
+      "number": "4503.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.33 - In transit permits required.",
+      "number": "4503.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.34 - Drive-away operator required to file application.",
+      "number": "4503.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.35 - Certain motor vehicles exempted.",
+      "number": "4503.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.37 - Certificate of reciprocity - exemption from requirements.",
+      "number": "4503.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.38 - Exemption for foreign trailers.",
+      "number": "4503.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.39 - Blocking registration of vehicle lessees with outstanding fines or costs.",
+      "number": "4503.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.40 - Special state reserved license plate numbers and validation stickers - fee.",
+      "number": "4503.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.41 - Disabled veterans license plates.",
+      "number": "4503.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.42 - Special reserved license plate numbers containing more than three letters or numerals - fee.",
+      "number": "4503.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.43 - Congressional Medal of Honor license plates.",
+      "number": "4503.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.435 - Line of duty sacrifice license plates.",
+      "number": "4503.435",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.435"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.44 - Windshield placards, license plates, parking cards for persons with disabilities; registration of altered vehicles.",
+      "number": "4503.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.45 - Collector's vehicle license.",
+      "number": "4503.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.46 - Former POW license plates.",
+      "number": "4503.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.47 - Volunteer firefighter license plates.",
+      "number": "4503.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.471 - International association of firefighters license plates.",
+      "number": "4503.471",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.471"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.49 - Registration of emergency medical service organization vehicles.",
+      "number": "4503.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.491 - Breast cancer awareness license plates.",
+      "number": "4503.491",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.491"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.492 - Ovarian cancer awareness license plates.",
+      "number": "4503.492",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.492"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.493 - Autism awareness license plates.",
+      "number": "4503.493",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.493"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.494 - Multiple sclerosis awareness license plates.",
+      "number": "4503.494",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.494"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.495 - Pancreatic Cancer Awareness license plates.",
+      "number": "4503.495",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.495"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.496 - Sickle cell anemia awareness license plates.",
+      "number": "4503.496",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.496"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.497 - Conquer childhood cancer.",
+      "number": "4503.497",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.497"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.498 - Special olympics license plates.",
+      "number": "4503.498",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.498"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.499 - Pediatric brain tumor awareness license plates.",
+      "number": "4503.499",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.499"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.4910 - KylerStrong Foundation plates.",
+      "number": "4503.4910",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.4910"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.4911 - Gold Ribbon Awareness plates.",
+      "number": "4503.4911",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.4911"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.4912 - Continue Your Story license plates.",
+      "number": "4503.4912",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.4912"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.50 - Future farmers of America license plates.",
+      "number": "4503.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.501 - 4-H license plates.",
+      "number": "4503.501",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.501"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.502 - Ohio cattlemen's foundation beef license plates.",
+      "number": "4503.502",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.502"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.503 - Ohio agriculture license plates.",
+      "number": "4503.503",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.503"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.504 - Ohio sustainable agriculture license plates.",
+      "number": "4503.504",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.504"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.505 - Phi Theta Kappa license plates.",
+      "number": "4503.505",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.505"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.506 - Ohio DeMolay license plates.",
+      "number": "4503.506",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.506"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.507 - Ohio aerospace institute license plates.",
+      "number": "4503.507",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.507"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.508 - Bottoms up diaper drive license plates.",
+      "number": "4503.508",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.508"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.509 - A kid again license plates.",
+      "number": "4503.509",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.509"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.51 - Collegiate license plates.",
+      "number": "4503.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.512 - Iota Phi Theta license plates.",
+      "number": "4503.512",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.512"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.513 - Historically black fraternity-sorority license plates.",
+      "number": "4503.513",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.513"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.514 - University of Notre Dame license plates.",
+      "number": "4503.514",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.514"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.516 - Marshall university license plates.",
+      "number": "4503.516",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.516"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.517 - University of Alabama license plates.",
+      "number": "4503.517",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.517"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.518 - On our sleeves license plates.",
+      "number": "4503.518",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.518"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.519 - \"Recovery is Beautiful\" license plates.",
+      "number": "4503.519",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.519"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.52 - Lake Erie license plates.",
+      "number": "4503.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.520 - Purdue University license plates.",
+      "number": "4503.520",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.520"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.521 - Share the road license plates.",
+      "number": "4503.521",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.521"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.522 - Perry's monument license plates.",
+      "number": "4503.522",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.522"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.523 - Fairport harbor breakwall lighthouse license plates.",
+      "number": "4503.523",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.523"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.524 - Massillon tiger football booster club license plates.",
+      "number": "4503.524",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.524"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.525 - Power squadron license plates.",
+      "number": "4503.525",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.525"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.526 - Kiwanis club license plates.",
+      "number": "4503.526",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.526"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.527 - \"Ohio Statehouse\" license plates.",
+      "number": "4503.527",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.527"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.528 - Ohio Association of Child Caring Agencies license plates.",
+      "number": "4503.528",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.528"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.529 - Ohio Nurses Association license plates.",
+      "number": "4503.529",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.529"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.53 - Ohio carpenters license plates.",
+      "number": "4503.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.531 - Thank you U.S. military license plates.",
+      "number": "4503.531",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.531"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.532 - Paul Laurence Dunbar license plates.",
+      "number": "4503.532",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.532"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.533 - Ohio Conference of Teamsters license plates.",
+      "number": "4503.533",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.533"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.534 - Disabled American veteran license plates.",
+      "number": "4503.534",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.534"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.535 - POW/MIA awareness license plates.",
+      "number": "4503.535",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.535"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.536 - Save a Warrior license plates.",
+      "number": "4503.536",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.536"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.541 - \"Dolly Parton's Imagination Library\" license plates.",
+      "number": "4503.541",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.541"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.542 - Ohio Craft Brewers license plates.",
+      "number": "4503.542",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.542"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.545 - National rifle association foundation license plates.",
+      "number": "4503.545",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.545"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.546 - Gold Star Family license plates.",
+      "number": "4503.546",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.546"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.547 - Blue Star Banner license plates.",
+      "number": "4503.547",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.547"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.549 - \"Military Sacrifice\" license plates.",
+      "number": "4503.549",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.549"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.55 - Pro football hall of fame license plates.",
+      "number": "4503.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.551 - Pets license plates.",
+      "number": "4503.551",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.551"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.552 - Rock and roll hall of fame license plates.",
+      "number": "4503.552",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.552"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.553 - Ohio's horse license plates.",
+      "number": "4503.553",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.553"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.554 - Knights of Columbus license plates.",
+      "number": "4503.554",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.554"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.555 - Street rod license plates.",
+      "number": "4503.555",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.555"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.556 - Triple negative breast cancer awareness.",
+      "number": "4503.556",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.556"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.557 - Ronald McDonald house charities license plates.",
+      "number": "4503.557",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.557"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.558 - Stop elder abuse license plates.",
+      "number": "4503.558",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.558"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.559 - \"Playhouse Square\" license plates.",
+      "number": "4503.559",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.559"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.56 - Scenic rivers license plates.",
+      "number": "4503.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.561 - Ducks unlimited license plates.",
+      "number": "4503.561",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.561"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.562 - Mahoning river license plates.",
+      "number": "4503.562",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.562"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.563 - Ohio nature preserves license plates.",
+      "number": "4503.563",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.563"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.564 - Glen Helen nature preserve license plates.",
+      "number": "4503.564",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.564"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.565 - Cuyahoga Valley National Park license plates.",
+      "number": "4503.565",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.565"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.566 - Ottawa National Wildlife Refuge plates.",
+      "number": "4503.566",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.566"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.567 - \"Girls on the Run\" license plates.",
+      "number": "4503.567",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.567"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.568 - Ohio bullfrog license plates.",
+      "number": "4503.568",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.568"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.569 - Ohio bird sanctuary license plates.",
+      "number": "4503.569",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.569"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.57 - Wildlife conservation plates.",
+      "number": "4503.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.571 - Purple heart license plates.",
+      "number": "4503.571",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.571"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.572 - Bald eagle license plates.",
+      "number": "4503.572",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.572"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.573 - Sportsmen's license plates.",
+      "number": "4503.573",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.573"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.574 - Smokey Bear license plates.",
+      "number": "4503.574",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.574"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.575 - Ohio state parks license plates.",
+      "number": "4503.575",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.575"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.576 - Ohio state beekeepers association license.",
+      "number": "4503.576",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.576"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.577 - National Aviation Hall of Fame license plates.",
+      "number": "4503.577",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.577"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.578 - Keep Ohio beautiful license plates.",
+      "number": "4503.578",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.578"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.579 - National council of Negro women license plates.",
+      "number": "4503.579",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.579"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.58 - Marine corps league license plates.",
+      "number": "4503.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.581 - Ohio sons of the American legion license plates.",
+      "number": "4503.581",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.581"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.582 - P.A.W.S. license plates.",
+      "number": "4503.582",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.582"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.583 - American Legion license plates.",
+      "number": "4503.583",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.583"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.584 - Ohio oil and gas energy education program license plates.",
+      "number": "4503.584",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.584"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.585 - Terrace Park license plates.",
+      "number": "4503.585",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.585"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.586 - Ohio Mountain Bike Alliance license plate.",
+      "number": "4503.586",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.586"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.587 - NASA Glenn Research Center license plates.",
+      "number": "4503.587",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.587"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.588 - Ohio State Grange license plates.",
+      "number": "4503.588",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.588"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.591 - Professional sports team license plates.",
+      "number": "4503.591",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.591"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.592 - Monarch Butterfly license plates.",
+      "number": "4503.592",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.592"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.593 - Post-Traumatic Stress plates.",
+      "number": "4503.593",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.593"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.594 - Pelotonia plates.",
+      "number": "4503.594",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.594"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.595 - \"Stan Hywet Hall and Gardens\" license plates.",
+      "number": "4503.595",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.595"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.596 - Cuyahoga valley scenic railroad license plates.",
+      "number": "4503.596",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.596"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.597 - Circleville pumpkin show license plates.",
+      "number": "4503.597",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.597"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.598 - Jackson Local Schools license plates.",
+      "number": "4503.598",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.598"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.60 - International registration plan definitions.",
+      "number": "4503.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.61 - Duties of registrar as to international registration plan.",
+      "number": "4503.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.62 - Application for registration of apportionable vehicle; Internet registration.",
+      "number": "4503.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.63 - Calculation of proportionate registration taxes due - registrar to notify other declared jurisdictions.",
+      "number": "4503.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.64 - Issuance of license plate and registration card.",
+      "number": "4503.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.641 - Temporary registration of apportioned motor vehicle.",
+      "number": "4503.641",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.641"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.642 - Performance registration and information systems management program.",
+      "number": "4503.642",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.642"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.65 - Rates for commercial cars and buses subject to apportioned rates under the international registration plan.",
+      "number": "4503.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.66 - Rules.",
+      "number": "4503.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.67 - Boy scouts logo license plates.",
+      "number": "4503.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.67"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.68 - Girl scouts logo license plates.",
+      "number": "4503.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.68"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.69 - Eagle scouts logo license plates.",
+      "number": "4503.69",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.69"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.70 - Freemason license plates.",
+      "number": "4503.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.701 - Prince Hall freemason license plates.",
+      "number": "4503.701",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.701"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.702 - Improved Benevolent and Protective Order of Elks of the World license plates.",
+      "number": "4503.702",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.702"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.703 - Loyal order of the moose license plates.",
+      "number": "4503.703",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.703"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.704 - Shriners license plates.",
+      "number": "4503.704",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.704"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.71 - Fraternal order of police license plates.",
+      "number": "4503.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.711 - Fraternal order of police associate license plates.",
+      "number": "4503.711",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.711"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.712 - Ohio C.O.P.S. license plates.",
+      "number": "4503.712",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.712"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.713 - \"Honor Our Fallen\" license plates.",
+      "number": "4503.713",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.713"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.714 - Ohio association of chiefs of police license plates.",
+      "number": "4503.714",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.714"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.715 - Fallen lineworkers license plates.",
+      "number": "4503.715",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.715"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.716 - Fallen timbers battlefield license plates.",
+      "number": "4503.716",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.716"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.72 - Court-appointed special advocate/guardian ad litem license plates.",
+      "number": "4503.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.721 - Donate life license plates.",
+      "number": "4503.721",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.721"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.722 - Down Syndrome Awareness license plates.",
+      "number": "4503.722",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.722"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.723 - \"Stop Bullying\" license plates.",
+      "number": "4503.723",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.723"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.724 - American foundation for suicide prevention license plates.",
+      "number": "4503.724",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.724"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.725 - ALS awareness license plates.",
+      "number": "4503.725",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.725"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.726 - Suicide Prevention license plates.",
+      "number": "4503.726",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.726"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.73 - Leader in flight license plates.",
+      "number": "4503.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.732 - Truth, Justice, and the American Way license plates.",
+      "number": "4503.732",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.732"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.733 - Juvenile diabetes research foundation license plates.",
+      "number": "4503.733",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.733"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.734 - \"Patrol Supporter\" license plates.",
+      "number": "4503.734",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.734"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.735 - H.E.A.R.T. 4 Seniors license plates.",
+      "number": "4503.735",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.735"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.74 - Ohio zoo license plates.",
+      "number": "4503.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.74"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.741 - Ohio house rabbit rescue license plates.",
+      "number": "4503.741",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.741"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.75 - Rotary international license plates.",
+      "number": "4503.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.751 - Realtor license plates.",
+      "number": "4503.751",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.751"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.752 - Buckeye corvette license plates.",
+      "number": "4503.752",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.752"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.754 - City of Twinsburg license plates.",
+      "number": "4503.754",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.754"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.755 - Little brown jug license plates.",
+      "number": "4503.755",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.755"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.76 - Eastern Star license plates.",
+      "number": "4503.76",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.76"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.761 - One nation under God license plates.",
+      "number": "4503.761",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.761"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.762 - In God we trust license plates.",
+      "number": "4503.762",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.762"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.763 - Ohio Battleflag license plates.",
+      "number": "4503.763",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.763"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.764 - Medina County plates.",
+      "number": "4503.764",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.764"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.765 - \"Amaranth Grand Chapter Order of the Eastern Star\" license plates.",
+      "number": "4503.765",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.765"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.766 - Ohio Society Daughters of the American Revolution license plates.",
+      "number": "4503.766",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.766"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.767 - Folds of honor license plates.",
+      "number": "4503.767",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.767"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.77 - [Former R.C. 4503.771, amended and renumbered by H.B. 74, 134th General Assembly, effective 6/30/2021] Transmitting contribution amounts for specialty license plates.",
+      "number": "4503.77",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.77"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.78 - Implementing new specialty license plates.",
+      "number": "4503.78",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.78"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.79 - [Former R.C. 4503.791, amended and renumbered by H.B. 74, 134th General Assembly, effective 6/30/2021] Specialty license plate issuance and contribution amount.",
+      "number": "4503.79",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.79"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.80 - Bus taxation proration and reciprocity agreement.",
+      "number": "4503.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.80"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.81 - Registrar to administrate program - renunciation of participation in program.",
+      "number": "4503.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.83 - Company logo license plates.",
+      "number": "4503.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.83"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.84 - Purchase of expired validation stickers and plates no longer issued or in service.",
+      "number": "4503.84",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.84"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.85 - Fish Lake Erie license plates.",
+      "number": "4503.85",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.85"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.851 - West Virginia University license plates.",
+      "number": "4503.851",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.851"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.86 - Lincoln highway license plates.",
+      "number": "4503.86",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.86"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.87 - Baseball for AH license plates.",
+      "number": "4503.87",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.87"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.871 - Solon City Schools license plates.",
+      "number": "4503.871",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.871"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.872 - \"Canton Bulldogs\" license plates.",
+      "number": "4503.872",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.872"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.873 - Padua Franciscan High School plates.",
+      "number": "4503.873",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.873"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.874 - Lakewood St. Edward High School license plates.",
+      "number": "4503.874",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.874"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.875 - Walsh Jesuit High School plates.",
+      "number": "4503.875",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.875"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.876 - North Royalton City Schools plates.",
+      "number": "4503.876",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.876"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.877 - Independence Local Schools license plates.",
+      "number": "4503.877",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.877"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.878 - Cuyahoga Heights Schools plates.",
+      "number": "4503.878",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.878"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.879 - West Technical High School Alumni plates.",
+      "number": "4503.879",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.879"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.88 - Kenston Local Schools plates.",
+      "number": "4503.88",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.88"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.881 - La Salle high school license plates.",
+      "number": "4503.881",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.881"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.882 - St. John's Jesuit high school and academy license plates.",
+      "number": "4503.882",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.882"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.883 - St. Charles preparatory school license plates.",
+      "number": "4503.883",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.883"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.884 - Archbishop Moeller high school license plates.",
+      "number": "4503.884",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.884"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.885 - Revere local schools license plates.",
+      "number": "4503.885",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.885"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.886 - Stephen T. Badin High School license plates.",
+      "number": "4503.886",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.886"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.887 - Bishop Hartley High School license plates.",
+      "number": "4503.887",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.887"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.888 - \"St. Vincent-St. Mary High School\" license plates.",
+      "number": "4503.888",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.888"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.89 - \"Proud Supporter of the American Red Cross\" license plates.",
+      "number": "4503.89",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.89"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.891 - Lions Club plates.",
+      "number": "4503.891",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.891"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.892 - Hudson City School plates.",
+      "number": "4503.892",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.892"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.893 - Harrison central huskies license plates.",
+      "number": "4503.893",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.893"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.894 - Blanchester Wildcats license plates.",
+      "number": "4503.894",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.894"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.895 - Lakeside Chautauqua license plates.",
+      "number": "4503.895",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.895"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.896 - American Legion Auxiliary license plates.",
+      "number": "4503.896",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.896"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.899 - Cleveland clinic children's license plates.",
+      "number": "4503.899",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.899"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.90 - Nationwide children's hospital license plates.",
+      "number": "4503.90",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.90"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.901 - Ohio Pupil Transportation...Safety First license plates.",
+      "number": "4503.901",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.901"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.902 - Cleveland St. Ignatius High School license plates.",
+      "number": "4503.902",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.902"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.903 - Brecksville-Broadview Heights City Schools license plates.",
+      "number": "4503.903",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.903"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.904 - Chagrin Falls Exempted Village Schools license plates.",
+      "number": "4503.904",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.904"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.905 - Cuyahoga Valley Career Center plates.",
+      "number": "4503.905",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.905"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.906 - Stow-Munroe Falls City Schools plates.",
+      "number": "4503.906",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.906"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.907 - Twinsburg City Schools.",
+      "number": "4503.907",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.907"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.908 - St. Xavier High School plates.",
+      "number": "4503.908",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.908"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.909 - \"Grandview Heights Schools\" license plates.",
+      "number": "4503.909",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.909"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.91 - Choose life license plates.",
+      "number": "4503.91",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.91"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.92 - Support our troops license plates.",
+      "number": "4503.92",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.92"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.93 - Ohio volunteer license plates.",
+      "number": "4503.93",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.93"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.931 - Healthy New Albany license plates.",
+      "number": "4503.931",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.931"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.932 - Habitat for humanity of Ohio license plates.",
+      "number": "4503.932",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.932"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.933 - Creative Ohio license plates.",
+      "number": "4503.933",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.933"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.934 - Ohio Society for Respiratory Care license plates.",
+      "number": "4503.934",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.934"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.935 - Jesup W. Scott High School license plates.",
+      "number": "4503.935",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.935"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.936 - Hilliard Davidson Wildcats license plates.",
+      "number": "4503.936",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.936"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.94 - Teen driver education license plates.",
+      "number": "4503.94",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.94"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.941 - \"Trees 4 Ohio\" license plates.",
+      "number": "4503.941",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.941"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.942 - Zero license plates; prostate cancer awareness.",
+      "number": "4503.942",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.942"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.943 - Weirdo Cat Lovers of Cleveland license plates.",
+      "number": "4503.943",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.943"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.944 - East Europeans of Ohio license plates.",
+      "number": "4503.944",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.944"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.945 - Summit metro parks license plates.",
+      "number": "4503.945",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.945"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.946 - Historical and Patriotic Education license plates.",
+      "number": "4503.946",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.946"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.95 - Ohio history license plates.",
+      "number": "4503.95",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.95"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.951 - Cincinnati City School District plates.",
+      "number": "4503.951",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.951"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.952 - \"Hawken School\" license plates.",
+      "number": "4503.952",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.952"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.953 - \"Gilmour Academy\" license plates.",
+      "number": "4503.953",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.953"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.954 - \"University School\" license plates.",
+      "number": "4503.954",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.954"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.955 - \"Saint Albert the Great School\" license plates.",
+      "number": "4503.955",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.955"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.956 - Liberty Center local schools license plates.",
+      "number": "4503.956",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.956"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.957 - John F. Kennedy Catholic school license plates.",
+      "number": "4503.957",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.957"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.958 - Elder high school license plates.",
+      "number": "4503.958",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.958"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.959 - Dublin City Schools license plates.",
+      "number": "4503.959",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.959"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.96 - Ohio coal license plates.",
+      "number": "4503.96",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.96"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.961 - Fairfield senior high school license plates.",
+      "number": "4503.961",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.961"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.962 - Hamilton high school license plates.",
+      "number": "4503.962",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.962"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.963 - Ross high school license plates.",
+      "number": "4503.963",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.963"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.964 - Chardon High School state football champs license plates.",
+      "number": "4503.964",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.964"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.965 - Norton Music Boosters license plates.",
+      "number": "4503.965",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.965"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.97 - I Stand with Israel license plates.",
+      "number": "4503.97",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.97"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4503.98 - Westerville parks foundation license plates.",
+      "number": "4503.98",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.98"
+    }
+  ],
+  "scraped": "2026-07-02T20:05:19+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-4503",
+  "title": "Chapter 4503 - Licensing Of Motor Vehicles"
+}

@@ -1,0 +1,144 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-5924
+Scraped: 2026-07-02T20:17:00+00:00
+
+# Chapter 5924 - Code Of Military Justice
+
+## Sections
+
+- Section 5924.01 - Code of military justice definitions.
+- Section 5924.02 - Persons subject to code.
+- Section 5924.03 - Jurisdiction to court-martial discharged personnel.
+- Section 5924.05 - Territorial applicability.
+- Section 5924.06 - State judge advocate; subordinate judge advocates and legal officers.
+- Section 5924.07 - Apprehension.
+- Section 5924.08 - Authority to apprehend deserters.
+- Section 5924.09 - Arrest or confinement.
+- Section 5924.10 - Confinement.
+- Section 5924.103 - Captured or abandoned property.
+- Section 5924.107 - False official statements.
+- Section 5924.108 - Military property; loss, damage, destruction, or wrongful disposition.
+- Section 5924.109 - Waste or destruction of nonmilitary property.
+- Section 5924.11 - Prisoners.
+- Section 5924.111 - Impaired or reckless operation of vehicles, aircraft or vessels.
+- Section 5924.112 - Drunk on duty.
+- Section 5924.113 - Misbehavior of sentinel.
+- Section 5924.115 - Malingering.
+- Section 5924.116 - Riot - breach of peace.
+- Section 5924.117 - Provoking speeches or gestures.
+- Section 5924.1121 - Wrongful use, possession, etc., of controlled substances.
+- Section 5924.120 - Rape; sexual assault; sexual contact; indecent acts; affirmative defenses.
+- Section 5924.121 - Larceny - wrongful appropriation.
+- Section 5924.123 - Forgery.
+- Section 5924.127 - Extortion.
+- Section 5924.128 - Assault.
+- Section 5924.13 - Arrest and confinement.
+- Section 5924.131 - Perjury.
+- Section 5924.132 - Frauds against government.
+- Section 5924.133 - Conduct unbecoming an officer and a lady or gentleman.
+- Section 5924.134 - General article.
+- Section 5924.135 - Courts of inquiry.
+- Section 5924.136 - Authority to administer oaths and act as notary.
+- Section 5924.137 - Articles to be explained.
+- Section 5924.138 - Complaints of wrongs.
+- Section 5924.139 - Redress of injuries to property.
+- Section 5924.14 - Delivery to civil authority for trial.
+- Section 5924.140 - Execution of process and sentence.
+- Section 5924.141 - Processes and mandates.
+- Section 5924.142 - Payment and disposition of fines.
+- Section 5924.143 - Immunity.
+- Section 5924.144 - Presumption of jurisdiction.
+- Section 5924.146 - Duty status requisite to trial or punishment.
+- Section 5924.148 - Short title.
+- Section 5924.15 - Nonjudicial punishment.
+- Section 5924.16 - Courts-martial.
+- Section 5924.17 - Jurisdiction of courts-martial.
+- Section 5924.18 - Jurisdiction of general courts-martial; punishments.
+- Section 5924.19 - Jurisdiction of special courts-martial; punishments.
+- Section 5924.20 - Jurisdiction of summary courts-martial; punishments.
+- Section 5924.21 - Concurrent jurisdiction.
+- Section 5924.22 - Convening general courts-martial.
+- Section 5924.23 - Convening special courts-martial.
+- Section 5924.24 - Convening summary courts-martial.
+- Section 5924.25 - Service on courts-martial.
+- Section 5924.26 - Military judge.
+- Section 5924.27 - Trial and defense counsel.
+- Section 5924.28 - Court reporters and interpreters.
+- Section 5924.29 - Absent and additional members.
+- Section 5924.30 - Charges and specifications.
+- Section 5924.31 - Self-incrimination.
+- Section 5924.32 - Investigation.
+- Section 5924.33 - Forwarding charges.
+- Section 5924.34 - Pre-trial referral of general court-martial charge.
+- Section 5924.35 - Service of charges.
+- Section 5924.36 - Trial procedure.
+- Section 5924.37 - Unlawful influence.
+- Section 5924.38 - Duties of trial and defense counsel.
+- Section 5924.39 - Convening without members of court present.
+- Section 5924.40 - Continuances.
+- Section 5924.41 - Challenges.
+- Section 5924.42 - Oaths.
+- Section 5924.43 - Statute of limitations.
+- Section 5924.44 - Double jeopardy.
+- Section 5924.45 - Entry of plea by accused; entry by court.
+- Section 5924.46 - Opportunity to obtain evidence and witnesses.
+- Section 5924.47 - Refusal to appear or testify.
+- Section 5924.48 - Penalty for contempt.
+- Section 5924.49 - Depositions.
+- Section 5924.50 - Admissibility of records of board of officers.
+- Section 5924.501 - Competency of accused; hearing.
+- Section 5924.502 - Evaluation of accused's mental condition.
+- Section 5924.503 - Findings of competency or incompetency; evaluation and treatment of accused.
+- Section 5924.504 - Finding accused incompetent to stand trial; civil commitment.
+- Section 5924.505 - "Not guilty by reason of insanity".
+- Section 5924.506 - Finding of not guilty by reason of insanity; hearing.
+- Section 5924.51 - Voting and rulings.
+- Section 5924.52 - Number of votes required.
+- Section 5924.53 - Announcement of findings.
+- Section 5924.54 - Record of proceedings.
+- Section 5924.55 - Cruel and unusual punishments.
+- Section 5924.56 - Maximum punishments.
+- Section 5924.57 - Effective date of sentences.
+- Section 5924.58 - Execution of sentence of confinement.
+- Section 5924.581 - Reduction in pay for enlisted members.
+- Section 5924.582 - Forfeiture of pay and allowances.
+- Section 5924.59 - Review of finding.
+- Section 5924.60 - Report of findings to convening authority; submission of matters by accused; actions by convening authority; revision or rehearing.
+- Section 5924.61 - Appeal by accused.
+- Section 5924.62 - Appeal by state.
+- Section 5924.63 - Rehearings.
+- Section 5924.64 - Review of cases in which no appeal taken.
+- Section 5924.65 - Transmission of record.
+- Section 5924.66 - Court of military appeals.
+- Section 5924.67 - Compensation for judges.
+- Section 5924.68 - Power of subpoena.
+- Section 5924.69 - Appeals to the supreme court.
+- Section 5924.70 - Appellate counsel.
+- Section 5924.71 - Sentence of dismissal or discharge.
+- Section 5924.72 - Vacation of suspension of sentence.
+- Section 5924.73 - Petition for new trial.
+- Section 5924.74 - Remission and suspension by adjutant general, state judge advocate, or convening authority.
+- Section 5924.75 - Effect of disapproval of sentence; reappointment of officers; leave pending actions.
+- Section 5924.76 - Finality of proceedings.
+- Section 5924.761 - Leave pending completion of certain actions.
+- Section 5924.77 - Principal defined.
+- Section 5924.78 - Accessory after the fact.
+- Section 5924.79 - Conviction of lesser included offense.
+- Section 5924.80 - Attempts.
+- Section 5924.81 - Conspiracy.
+- Section 5924.82 - Solicitation.
+- Section 5924.83 - Fraudulent enlistment, appointment or separation.
+- Section 5924.84 - Unlawful enlistment, appointment or separation.
+- Section 5924.85 - Desertion.
+- Section 5924.86 - Absence without leave.
+- Section 5924.87 - Missing movement.
+- Section 5924.88 - Contempt toward officials.
+- Section 5924.89 - Disrespect toward superior officer.
+- Section 5924.90 - Assault - willfully disobeying an officer.
+- Section 5924.91 - Insubordinate conduct toward noncommissioned officer.
+- Section 5924.92 - Failure to obey order or regulation.
+- Section 5924.93 - Cruelty - maltreatment.
+- Section 5924.94 - Mutiny - sedition.
+- Section 5924.95 - Arrest and confinement.
+- Section 5924.96 - Releasing prisoner without proper authority.
+- Section 5924.97 - Unlawful detention.
+- Section 5924.98 - Noncompliance.

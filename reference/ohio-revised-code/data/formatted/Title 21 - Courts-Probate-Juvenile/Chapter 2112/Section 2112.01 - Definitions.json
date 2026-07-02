@@ -1,0 +1,214 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Adult\" means an individual who is eighteen years of age or older.",
+      "id": "2112.01-adult",
+      "normalized": "adult",
+      "scope": "As used in this chapter:",
+      "section": "2112.01",
+      "source_title": "Section 2112.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2112.01",
+      "term": "Adult"
+    },
+    {
+      "definition": "(B) \"Guardian\" has the same meaning as in section 2111.01 of the Revised Code.",
+      "id": "2112.01-guardian",
+      "normalized": "guardian",
+      "scope": "As used in this chapter:",
+      "section": "2112.01",
+      "source_title": "Section 2112.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2112.01",
+      "term": "Guardian"
+    },
+    {
+      "definition": "(C) \"Guardian of the person\" means a person appointed by the court to make decisions regarding the support, care, education, health, and welfare of a ward. \"Guardian of the person\" does not include a guardian ad litem.",
+      "id": "2112.01-guardian-of-the-person",
+      "normalized": "guardian of the person",
+      "scope": "As used in this chapter:",
+      "section": "2112.01",
+      "source_title": "Section 2112.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2112.01",
+      "term": "Guardian of the person"
+    },
+    {
+      "definition": "(D) \"Guardian of the estate\" means a person appointed by the court to administer the estate of a ward.",
+      "id": "2112.01-guardian-of-the-estate",
+      "normalized": "guardian of the estate",
+      "scope": "As used in this chapter:",
+      "section": "2112.01",
+      "source_title": "Section 2112.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2112.01",
+      "term": "Guardian of the estate"
+    },
+    {
+      "definition": "(E) \"Ward\" means any adult who has been adjudicated incompetent and for whom a guardian is acting or for whom the probate court is acting pursuant to section 2111.50 of the Revised Code.",
+      "id": "2112.01-ward",
+      "normalized": "ward",
+      "scope": "As used in this chapter:",
+      "section": "2112.01",
+      "source_title": "Section 2112.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2112.01",
+      "term": "Ward"
+    },
+    {
+      "definition": "(F) \"Emergency\" means a circumstance that makes it reasonably certain that immediate action is required to prevent significant injury to a respondent's health, safety, welfare, or property and for which the appointment of a guardian or issuance of a protective order is necessary because no other person has authority and is willing to act on the respondent's behalf.",
+      "id": "2112.01-emergency",
+      "normalized": "emergency",
+      "scope": "As used in this chapter:",
+      "section": "2112.01",
+      "source_title": "Section 2112.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2112.01",
+      "term": "Emergency"
+    },
+    {
+      "definition": "(G) \"Guardianship order\" means an order appointing a guardian.",
+      "id": "2112.01-guardianship-order",
+      "normalized": "guardianship order",
+      "scope": "As used in this chapter:",
+      "section": "2112.01",
+      "source_title": "Section 2112.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2112.01",
+      "term": "Guardianship order"
+    },
+    {
+      "definition": "(H) \"Guardianship proceeding\" means a judicial proceeding in which an order for the appointment of a guardian is sought or has been issued.",
+      "id": "2112.01-guardianship-proceeding",
+      "normalized": "guardianship proceeding",
+      "scope": "As used in this chapter:",
+      "section": "2112.01",
+      "source_title": "Section 2112.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2112.01",
+      "term": "Guardianship proceeding"
+    },
+    {
+      "definition": "(I) \"Home state\" means the state in which the respondent was physically present, including any period of temporary absence, for at least six consecutive months immediately before the filing of an application for appointment of a guardian or the issuance of a protective order or, if none, the state in which the respondent was physically present, including any period of temporary absence, for at least six consecutive months ending within the six months prior to the filing of the application.",
+      "id": "2112.01-home-state",
+      "normalized": "home state",
+      "scope": "As used in this chapter:",
+      "section": "2112.01",
+      "source_title": "Section 2112.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2112.01",
+      "term": "Home state"
+    },
+    {
+      "definition": "(J) \"Party\" means the respondent, applicant, guardian, or other person allowed by the court to participate in a guardianship or protective proceeding.\n\n(K) \"Person,\" except in the terms guardian of the person and protected person, means an individual, parent, corporation, business trust, estate, trust, partnership, limited liability company, association, joint venture, government, governmental agency or instrumentality, public corporation, or other legal or commercial entity.",
+      "id": "2112.01-party",
+      "normalized": "party",
+      "scope": "As used in this chapter:",
+      "section": "2112.01",
+      "source_title": "Section 2112.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2112.01",
+      "term": "Party"
+    },
+    {
+      "definition": "(L) \"Protected person\" means an adult for whom a protective order has been issued.",
+      "id": "2112.01-protected-person",
+      "normalized": "protected person",
+      "scope": "As used in this chapter:",
+      "section": "2112.01",
+      "source_title": "Section 2112.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2112.01",
+      "term": "Protected person"
+    },
+    {
+      "definition": "(M) \"Protective order\" means an order appointing a guardian or other order under division (B)(3) of section 2111.02 of the Revised Code related to the management of an adult's person, property, or both or an order under section 2111.022 of the Revised Code related to the management of an individual's property.",
+      "id": "2112.01-protective-order",
+      "normalized": "protective order",
+      "scope": "As used in this chapter:",
+      "section": "2112.01",
+      "source_title": "Section 2112.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2112.01",
+      "term": "Protective order"
+    },
+    {
+      "definition": "(N) \"Protective proceeding\" means a judicial proceeding in which a protective order is sought or has been issued.",
+      "id": "2112.01-protective-proceeding",
+      "normalized": "protective proceeding",
+      "scope": "As used in this chapter:",
+      "section": "2112.01",
+      "source_title": "Section 2112.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2112.01",
+      "term": "Protective proceeding"
+    },
+    {
+      "definition": "(O) \"Record\" means information that is inscribed on a tangible medium or that is stored in an electronic or other medium and is retrievable in perceivable form.",
+      "id": "2112.01-record",
+      "normalized": "record",
+      "scope": "As used in this chapter:",
+      "section": "2112.01",
+      "source_title": "Section 2112.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2112.01",
+      "term": "Record"
+    },
+    {
+      "definition": "(P) \"Respondent\" means an adult for whom a protective order or the appointment of a guardian is sought.",
+      "id": "2112.01-respondent",
+      "normalized": "respondent",
+      "scope": "As used in this chapter:",
+      "section": "2112.01",
+      "source_title": "Section 2112.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2112.01",
+      "term": "Respondent"
+    },
+    {
+      "definition": "(Q) \"Significant-connection state\" means a state, other than the home state, with which a respondent has a significant connection other than mere physical presence and in which substantial evidence concerning the respondent is available.",
+      "id": "2112.01-significant-connection-state",
+      "normalized": "significant-connection state",
+      "scope": "As used in this chapter:",
+      "section": "2112.01",
+      "source_title": "Section 2112.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2112.01",
+      "term": "Significant-connection state"
+    },
+    {
+      "definition": "(R) \"Incompetent\" has the same meaning as in section 2111.01 of the Revised Code.",
+      "id": "2112.01-incompetent",
+      "normalized": "incompetent",
+      "scope": "As used in this chapter:",
+      "section": "2112.01",
+      "source_title": "Section 2112.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2112.01",
+      "term": "Incompetent"
+    },
+    {
+      "definition": "(S) \"State\" means a state of the United States, the District of Columbia, Puerto Rico, the United States Virgin Islands, or any territory or insular possession subject to the jurisdiction of the United States. \"State\" includes an Indian tribe or band that is recognized by federal law or formally acknowledged by a state.",
+      "id": "2112.01-state",
+      "normalized": "state",
+      "scope": "As used in this chapter:",
+      "section": "2112.01",
+      "source_title": "Section 2112.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2112.01",
+      "term": "State"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2111.01",
+      "number": "2111.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.01"
+    },
+    {
+      "kind": "section",
+      "label": "2111.50",
+      "number": "2111.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.50"
+    },
+    {
+      "kind": "section",
+      "label": "2111.02",
+      "number": "2111.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.02"
+    },
+    {
+      "kind": "section",
+      "label": "2111.022",
+      "number": "2111.022",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.022"
+    }
+  ],
+  "scraped": "2026-07-02T19:41:26+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2112.01",
+  "title": "Section 2112.01 - Definitions."
+}

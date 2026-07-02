@@ -1,0 +1,405 @@
+{
+  "glossary": [],
+  "kind": "title",
+  "references": [
+    {
+      "kind": "chapter",
+      "label": "Chapter 4701 - Accountancy Board Law",
+      "number": "4701",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4701"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4703 - Architects",
+      "number": "4703",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4703"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4705 - Attorneys",
+      "number": "4705",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4705"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4707 - Auctioneers",
+      "number": "4707",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4707"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4709 - Barbers",
+      "number": "4709",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4709"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4710 - Debt Pooling Companies",
+      "number": "4710",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4710"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4711 - Commission Merchants",
+      "number": "4711",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4711"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4712 - Ohio Credit Services Organization Act",
+      "number": "4712",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4712"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4713 - Cosmetologists",
+      "number": "4713",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4713"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4715 - Dentists; Dental Hygienists",
+      "number": "4715",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4715"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4717 - Embalmers, Funeral Directors, Crematories",
+      "number": "4717",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4717"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4719 - Telephone Solicitors",
+      "number": "4719",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4719"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4721 - Innkeepers",
+      "number": "4721",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4721"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4722 - Home Construction Service Suppliers",
+      "number": "4722",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4722"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4723 - Nurses",
+      "number": "4723",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4723"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4725 - Optometrists; Dispensing Opticians",
+      "number": "4725",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4725"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4727 - Pawnbrokers",
+      "number": "4727",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4727"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4728 - Precious Metals Dealers",
+      "number": "4728",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4728"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4729 - Pharmacists; Dangerous Drugs",
+      "number": "4729",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4729"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4730 - Physician Assistants",
+      "number": "4730",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4730"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4731 - Physicians; Limited Practitioners",
+      "number": "4731",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4731"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4732 - Psychologists",
+      "number": "4732",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4732"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4733 - Professional Engineers and Professional Surveyors",
+      "number": "4733",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4733"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4734 - Chiropractors",
+      "number": "4734",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4734"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4735 - Real Estate Brokers",
+      "number": "4735",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4735"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4737 - Secondhand Dealers; Junk Yards",
+      "number": "4737",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4737"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4738 - Motor Vehicle Salvage",
+      "number": "4738",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4738"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4740 - Construction Industry Licensing Board",
+      "number": "4740",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4740"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4741 - Veterinarians",
+      "number": "4741",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4741"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4743 - Occupational Licensing Boards, Commissions, and Agencies Generally",
+      "number": "4743",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4743"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4744 - Speech And Hearing Professionals Board",
+      "number": "4744",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4744"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4745 - Standard License Renewal Procedure",
+      "number": "4745",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4745"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4747 - Hearing Aid Dealers",
+      "number": "4747",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4747"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4749 - Private Investigators; Security Services",
+      "number": "4749",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4749"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4751 - Nursing Home Administrators",
+      "number": "4751",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4751"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4752 - Home Medical Services",
+      "number": "4752",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4752"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4753 - Speech-language Pathologists and Audiologists",
+      "number": "4753",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4753"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4755 - Occupational Therapists; Physical Therapists; Athletic Trainers",
+      "number": "4755",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4755"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4757 - Counselors, Social Workers, Marriage and Family Therapists",
+      "number": "4757",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4757"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4758 - Chemical Dependency Professionals",
+      "number": "4758",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4758"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4759 - Dietetics",
+      "number": "4759",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4759"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4760 - Anesthesiologist Assistants",
+      "number": "4760",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4760"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4761 - Respiratory Care",
+      "number": "4761",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4761"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4762 - Acupuncturists and Oriental Medicine Practitioners",
+      "number": "4762",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4762"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4763 - Real Estate Appraisers",
+      "number": "4763",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4763"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4764 - Home Inspectors",
+      "number": "4764",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4764"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4765 - First Responders, Emergency Medical Technicians",
+      "number": "4765",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4765"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4766 - State Board of Emergency Medical, Fire, and Transportation Services",
+      "number": "4766",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4766"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4767 - Cemetery Registration",
+      "number": "4767",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4767"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4768 - Appraisal Management Companies",
+      "number": "4768",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4768"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4769 - Balance Billing of Medicare Beneficiaries",
+      "number": "4769",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4769"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4771 - Athlete Agents",
+      "number": "4771",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4771"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4772 - Certified Mental Health Assistants",
+      "number": "4772",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4772"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4773 - Radiation Technicians",
+      "number": "4773",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4773"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4774 - Radiologist Assistants",
+      "number": "4774",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4774"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4775 - Motor Vehicle Repair and Window Tint Operators",
+      "number": "4775",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4775"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4776 - Criminal Records Checks",
+      "number": "4776",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4776"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4777 - Practice of Occupational Safety or Industrial Hygiene",
+      "number": "4777",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4777"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4778 - Genetic Counselors",
+      "number": "4778",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4778"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4779 - Orthotists, Prosthetists, Pedorthists",
+      "number": "4779",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4779"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4781 - Manufactured Homes",
+      "number": "4781",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4781"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4783 - Behavior Analysts",
+      "number": "4783",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4783"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4785 - Elevator Contractors and Elevator Mechanics",
+      "number": "4785",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4785"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4796 - Occupational Licenses for Out-of-State Applicants",
+      "number": "4796",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4796"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4798 - Occupational Regulations",
+      "number": "4798",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4798"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 4799 - Licensing of Childhood Sexual Abuse Registrants",
+      "number": "4799",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4799"
+    }
+  ],
+  "scraped": "2026-07-02T20:06:14+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/title-47",
+  "title": "Title 47 - Occupations-Professions"
+}

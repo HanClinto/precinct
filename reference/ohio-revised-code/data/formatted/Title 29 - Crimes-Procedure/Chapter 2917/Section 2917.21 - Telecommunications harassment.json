@@ -1,0 +1,94 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Economic harm\" means all direct, incidental, and consequential pecuniary harm suffered by a victim as a result of criminal conduct. \"Economic harm\" includes, but is not limited to, all of the following:\n\n(a) All wages, salaries, or other compensation lost as a result of the criminal conduct;\n\n(b) The cost of all wages, salaries, or other compensation paid to employees for time those employees are prevented from working as a result of the criminal conduct;\n\n(c) The overhead costs incurred for the time that a business is shut down as a result of the criminal conduct;\n\n(d) The loss of value to tangible or intangible property that was damaged as a result of the criminal conduct.",
+      "id": "2917.21-economic-harm",
+      "normalized": "economic harm",
+      "scope": "(G) As used in this section:",
+      "section": "2917.21",
+      "source_title": "Section 2917.21 - Telecommunications harassment.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2917.21",
+      "term": "Economic harm"
+    },
+    {
+      "definition": "(2) \"Caller\" means the person described in division (A) of this section who makes or causes to be made a telecommunication or who permits a telecommunication to be made from a telecommunications device under that person's control.\n\n(3) \"Telecommunication\" and \"telecommunications device\" have the same meanings as in section 2913.01 of the Revised Code.",
+      "id": "2917.21-caller",
+      "normalized": "caller",
+      "scope": "(G) As used in this section:",
+      "section": "2917.21",
+      "source_title": "Section 2917.21 - Telecommunications harassment.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2917.21",
+      "term": "Caller"
+    },
+    {
+      "definition": "(4) \"Sexual activity\" has the same meaning as in section 2907.01 of the Revised Code.",
+      "id": "2917.21-sexual-activity",
+      "normalized": "sexual activity",
+      "scope": "(G) As used in this section:",
+      "section": "2917.21",
+      "source_title": "Section 2917.21 - Telecommunications harassment.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2917.21",
+      "term": "Sexual activity"
+    },
+    {
+      "definition": "(5) \"Family or household member\" means any of the following:\n\n(a) Any of the following who is residing or has resided with the recipient of the telecommunication against whom the act prohibited in division (A)(9) of this section is committed:\n\n(i) A spouse, a person living as a spouse, or a former spouse of the recipient;\n\n(ii) A parent, a foster parent, or a child of the recipient, or another person related by consanguinity or affinity to the recipient;\n\n(iii) A parent or a child of a spouse, person living as a spouse, or former spouse of the recipient, or another person related by consanguinity or affinity to a spouse, person living as a spouse, or former spouse of the recipient.\n\n(b) The natural parent of any child of whom the recipient of the telecommunication against whom the act prohibited in division (A)(9) of this section is committed is the other natural parent or is the putative other natural parent.",
+      "id": "2917.21-family-or-household-member",
+      "normalized": "family or household member",
+      "scope": "(G) As used in this section:",
+      "section": "2917.21",
+      "source_title": "Section 2917.21 - Telecommunications harassment.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2917.21",
+      "term": "Family or household member"
+    },
+    {
+      "definition": "(6) \"Person living as a spouse\" means a person who is living or has lived with the recipient of the telecommunication against whom the act prohibited in division (A)(9) of this section is committed in a common law marital relationship, who otherwise is cohabiting with the recipient, or who otherwise has cohabited with the recipient within five years prior to the date of the alleged commission of the act in question.",
+      "id": "2917.21-person-living-as-a-spouse",
+      "normalized": "person living as a spouse",
+      "scope": "(G) As used in this section:",
+      "section": "2917.21",
+      "source_title": "Section 2917.21 - Telecommunications harassment.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2917.21",
+      "term": "Person living as a spouse"
+    },
+    {
+      "definition": "(7) \"Cable operator\" has the same meaning as in section 1332.21 of the Revised Code.\n\n(H) Nothing in this section prohibits a person from making a telecommunication to a debtor that is in compliance with the \"Fair Debt Collection Practices Act,\" 91 Stat. 874 (1977), 15 U.S.C. 1692, as amended, or the \"Telephone Consumer Protection Act,\" 105 Stat. 2395 (1991), 47 U.S.C. 227, as amended.",
+      "id": "2917.21-cable-operator",
+      "normalized": "cable operator",
+      "scope": "(G) As used in this section:",
+      "section": "2917.21",
+      "source_title": "Section 2917.21 - Telecommunications harassment.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2917.21",
+      "term": "Cable operator"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2903.21",
+      "number": "2903.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2903.21"
+    },
+    {
+      "kind": "section",
+      "label": "2913.01",
+      "number": "2913.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2913.01"
+    },
+    {
+      "kind": "section",
+      "label": "2907.01",
+      "number": "2907.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2907.01"
+    },
+    {
+      "kind": "section",
+      "label": "1332.21",
+      "number": "1332.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1332.21"
+    }
+  ],
+  "scraped": "2026-07-02T19:46:15+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2917.21",
+  "title": "Section 2917.21 - Telecommunications harassment."
+}

@@ -1,0 +1,116 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-3923
+Scraped: 2026-07-02T20:02:47+00:00
+
+# Chapter 3923 - Sickness And Accident Insurance
+
+## Sections
+
+- Section 3923.01 - Policy of sickness and accident insurance defined.
+- Section 3923.011 - Sickness and accident insurance definitions.
+- Section 3923.02 - Form of policy filed with superintendent.
+- Section 3923.021 - Approval or disapproval of premium rates.
+- Section 3923.022 - Maximum aggregate administrative expenses.
+- Section 3923.03 - Necessary provisions.
+- Section 3923.04 - Policy standard provisions.
+- Section 3923.041 - Policies with prior authorization requirement provisions.
+- Section 3923.05 - Provisions to conform to prescribed wording.
+- Section 3923.06 - Order of presentation of policy provisions.
+- Section 3923.061 - Interest on proceeds payable due to death by sickness or accident.
+- Section 3923.07 - Omission or substitution of provisions.
+- Section 3923.071 - Policies, applications, riders or indorsements issued prior to 10-1-53.
+- Section 3923.08 - Nonconflicting provisions permitted in policy.
+- Section 3923.09 - Validity of nonconforming policy.
+- Section 3923.10 - Industrial sickness and accident insurance.
+- Section 3923.11 - Sickness and accident insurance on a franchise plan.
+- Section 3923.12 - Group sickness and accident insurance.
+- Section 3923.121 - Association of insurers to provide basic medical coverage to persons 65 or older.
+- Section 3923.123 - Association of insurers to provide group health coverage to qualified unemployed persons.
+- Section 3923.13 - Blanket sickness and accident insurance.
+- Section 3923.14 - False statement in application - alteration of written application.
+- Section 3923.141 - Agent of the insurer.
+- Section 3923.15 - Unfair discrimination prohibited.
+- Section 3923.16 - Misleading or deceptive advertising prohibited.
+- Section 3923.161 - Describing cancellability and renewability provisions clearly and with prominence or emphasis.
+- Section 3923.17 - Prohibition of rebates not to prohibit commissions or dividends.
+- Section 3923.18 - Rights of insurer in defense of claim not waived.
+- Section 3923.19 - Benefits exempt from legal process - exception.
+- Section 3923.20 - Exemptions for certain insurance policies.
+- Section 3923.21 - Prohibition against delivery of policy on disapproved insurance form.
+- Section 3923.22 - Appeal - applicability of administrative procedure sections.
+- Section 3923.23 - Reimbursement for services of licensed osteopath, optometrist, chiropractor or podiatrist.
+- Section 3923.231 - Reimbursement for services of licensed psychologist.
+- Section 3923.232 - Reimbursement for services of licensed dentist.
+- Section 3923.233 - Reimbursement for services of certified nurse-midwife performing service in collaboration with licensed physician.
+- Section 3923.234 - Reimbursement for services of certified mechanotherapist.
+- Section 3923.24 - Continuing coverage for dependent children.
+- Section 3923.241 - Public employee benefit plans - continuing coverage for dependent children.
+- Section 3923.25 - Kidney dialysis benefits.
+- Section 3923.26 - Coverage for newly born children from the moment of birth.
+- Section 3923.27 - Hospitalization coverage for mental illness.
+- Section 3923.28 - Outpatient coverage for mental or emotional disorders.
+- Section 3923.281 - Sickness and accident policies - biologically based mental illness.
+- Section 3923.282 - Health coverage plans - biologically based mental illness.
+- Section 3923.29 - Outpatient, inpatient, and intermediate primary care benefits for alcoholism.
+- Section 3923.30 - Requiring provision of coverage of treatment of mental or nervous disorders and alcoholism.
+- Section 3923.301 - Requiring provision of coverage for services of certified nurse-midwife performing service in collaboration with licensed physician.
+- Section 3923.31 - Right to rescind individual policy of sickness and accident insurance.
+- Section 3923.32 - Right of family member to continue coverage after subscriber's death or upon change in marital relation to subscriber.
+- Section 3923.33 - Medicare supplement policy definitions.
+- Section 3923.331 - Statutes applicable to medicare supplement policies.
+- Section 3923.332 - Standards for policy provisions of medicare supplement policies and certificates.
+- Section 3923.333 - Benefits to be reasonable in relation to premium charged.
+- Section 3923.334 - Outline of coverage delivered at time application is made.
+- Section 3923.335 - Right to return policy or certificate and have premium refunded.
+- Section 3923.336 - Review and approval of advertisement by superintendent.
+- Section 3923.337 - Rules.
+- Section 3923.338 - Orders of superintendent.
+- Section 3923.339 - Severability.
+- Section 3923.36 - Excluding coverage of illness or injury covered by workers' compensation.
+- Section 3923.37 - Prohibiting exclusion or reduction of benefits because of benefits payable under supplemental policy.
+- Section 3923.38 - Continuing policy upon termination of employment.
+- Section 3923.381 - Continuing coverage under group policy when reservist is called or ordered to active duty.
+- Section 3923.382 - Continuing coverage under group plan when reservist is called or ordered to active duty.
+- Section 3923.39 - Consolidated corporation cancelling individual policy for nonpayment.
+- Section 3923.40 - Coverage of adopted children.
+- Section 3923.41 - Long-term care insurance definitions.
+- Section 3923.42 - Citing provisions - applicability.
+- Section 3923.43 - Evidence to be filed by long-term care insurance association.
+- Section 3923.44 - Standards for full and fair disclosure for sale of long-term care insurance policies.
+- Section 3923.441 - Rescission of long-term care policy for misrepresentation.
+- Section 3923.442 - Offer of nonforfeiture benefit option with long-term care policy.
+- Section 3923.443 - Training required for agents selling long-term care policies.
+- Section 3923.444 - Compensation of agents selling long-term care policies.
+- Section 3923.45 - Forms.
+- Section 3923.46 - Rates for individual policy.
+- Section 3923.47 - Rules.
+- Section 3923.48 - Violation is unfair and deceptive insurance practice.
+- Section 3923.49 - Establishing outreach program to educate consumers.
+- Section 3923.50 - Notifying department of job and family services of long-term care insurance policies that comply with insurance department requirements.
+- Section 3923.51 - Group contracts of sickness and accident insurance persons under nineteen who are members of impoverished families.
+- Section 3923.52 - Screening mammography and cytologic screening benefits.
+- Section 3923.53 - Public employee benefit plan - breast cancer and cervical cancer screening.
+- Section 3923.54 - Employee health care benefit plan.
+- Section 3923.55 - Policy to include benefits for child health supervision services from moment of birth until age nine.
+- Section 3923.56 - Plan to include benefits for child health supervision services from moment of birth until age nine.
+- Section 3923.57 - Pre-existing conditions provisions.
+- Section 3923.571 - Conditions applying to group policies of sickness and accident insurance sold in connection with employment-related group health plan.
+- Section 3923.60 - Standard medical reference compendia for coverage of prescription drugs.
+- Section 3923.601 - Standardized prescription identification information - pharmacy benefits to be included.
+- Section 3923.602 - Medication synchronization for insured.
+- Section 3923.61 - Public employee benefit plans - prescription drugs.
+- Section 3923.62 - Disclosing determination of usual and customary fee for dental benefits.
+- Section 3923.63 - Coverage of inpatient care and follow-up care for mother and her newborn.
+- Section 3923.64 - Public employee benefit plans - maternity benefits.
+- Section 3923.65 - Coverage for emergency services.
+- Section 3923.80 - Denial of coverage to cancer clinical trial participant.
+- Section 3923.81 - Covered person's payments not to exceed insurer payments.
+- Section 3923.82 - Coverage for alcohol or drug related losses or expenses.
+- Section 3923.83 - Standardized prescription identification information - pharmacy benefits to be included - public employee benefit plan.
+- Section 3923.84 - Coverage for autism spectrum disorder.
+- Section 3923.85 - Cancer medication; coverage for orally and intravenously administered treatments.
+- Section 3923.851 - Prior authorization requirements or other utilization review measures as conditions of providing coverage of an opioid analgesic prescribed for treatment of chronic pain; exceptions.
+- Section 3923.86 - Statement provided to insureds under vision policy.
+- Section 3923.87 - Compliance with section 3959.20.
+- Section 3923.89 - Payment or reimbursement to pharmacist.
+- Section 3923.90 - Teledentistry to be included in coverage.
+- Section 3923.99 - Penalty.

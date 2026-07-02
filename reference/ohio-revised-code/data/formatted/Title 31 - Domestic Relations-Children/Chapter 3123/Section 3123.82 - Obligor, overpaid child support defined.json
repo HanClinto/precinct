@@ -1,0 +1,54 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Obligor\" means a person who owes \"overdue support,\" as defined in section 666 of Title IV-D of the \"Social Security Act,\" 98 Stat. 1306 (1984), 42 U.S.C. 666, as amended, and any rules promulgated under Title IV-D.",
+      "id": "3123.82-obligor",
+      "normalized": "obligor",
+      "scope": "As used in sections 3123.82 to 3123.823 of the Revised Code:",
+      "section": "3123.82",
+      "source_title": "Section 3123.82 - Obligor, overpaid child support defined.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3123.82",
+      "term": "Obligor"
+    },
+    {
+      "definition": "(B) \"Overpaid child support\" means amounts paid to an obligee under a child support order prior to termination of the child support order that exceed the amount required to be paid under the child support order, have not been impounded under section 3119.90 or 3119.92 of the Revised Code, and have not been repaid to the obligor under the child support order.",
+      "id": "3123.82-overpaid-child-support",
+      "normalized": "overpaid child support",
+      "scope": "As used in sections 3123.82 to 3123.823 of the Revised Code:",
+      "section": "3123.82",
+      "source_title": "Section 3123.82 - Obligor, overpaid child support defined.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3123.82",
+      "term": "Overpaid child support"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3123.82",
+      "number": "3123.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.82"
+    },
+    {
+      "kind": "section",
+      "label": "3123.823",
+      "number": "3123.823",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.823"
+    },
+    {
+      "kind": "section",
+      "label": "3119.90",
+      "number": "3119.90",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.90"
+    },
+    {
+      "kind": "section",
+      "label": "3119.92",
+      "number": "3119.92",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.92"
+    }
+  ],
+  "scraped": "2026-07-02T19:48:00+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3123.82",
+  "title": "Section 3123.82 - Obligor, overpaid child support defined."
+}

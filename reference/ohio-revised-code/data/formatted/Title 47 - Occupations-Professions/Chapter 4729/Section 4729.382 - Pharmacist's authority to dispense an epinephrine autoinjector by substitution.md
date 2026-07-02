@@ -1,0 +1,48 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4729.382
+Scraped: 2026-07-02T20:06:59+00:00
+
+# Section 4729.382 - Pharmacist's authority to dispense an epinephrine autoinjector by substitution.
+
+**Effective:** April 8, 2019
+
+**Latest Legislation:** House Bill 101 - 132nd General Assembly
+
+(A) As used in this section, "epinephrine autoinjector" means a device used to administer epinephrine only in a manufactured dosage form.
+
+(B) Subject to division (C) of this section, a pharmacist dispensing an epinephrine autoinjector pursuant to a prescription that identifies a specific type of epinephrine autoinjector may substitute the prescribed autoinjector with another epinephrine autoinjector, but only if the form of epinephrine contained in the autoinjector to be dispensed by substitution meets either of the following conditions:
+
+( 1) It is identical to the form of epinephrine in the type of autoinjector that was prescribed.
+
+(2) It is a pharmaceutical equivalent of the form of epinephrine in the type of autoinjector that was prescribed in that it contains identical amounts of the identical active ingredients, but not necessarily the same inactive ingredients; it has been approved by the United States food and drug administration; and it has not been excluded from recognition as a pharmaceutical equivalent form of epinephrine by rules adopted under division (H) of this section.
+
+(C) All of the following conditions apply with respect to a pharmacist's authority to dispense an epinephrine autoinjector by substitution:
+
+(1) The pharmacist shall not make the substitution if the person receiving the autoinjector pursuant to the prescription instructs otherwise.
+
+(2) The pharmacist shall not make the substitution if either of the following applies to the prescription:
+
+(a) In the case of a written or electronic prescription, including a computer-generated prescription, the prescriber handwrites or actively causes to display on the prescription "dispense as written," "D.A.W.," "do not substitute," " medically necessary as prescribed," or any other statement or numerical code that indicates the prescriber's intent to prevent substitution. Such a designation shall not be preprinted or stamped on the prescription, but a reminder to the prescriber of the designation procedure may be preprinted or displayed on the prescription form or electronic system the prescriber uses to issue the prescription.
+
+(b) In the case of an oral prescription, the prescriber specifies that the epinephrine autoinjector as prescribed is medically necessary or otherwise indicates the prescriber's intent to prevent substitution.
+
+(3) The pharmacist shall not make the substitution unless its price to the patient is less than or equal to the price of the prescribed epinephrine autoinjector, except that a pharmacist may substitute an epinephrine autoinjector with a price to the patient that is greater than the prescribed autoinjector if the patient specifically requests the more expensive autoinjector.
+
+(4) The pharmacist, or a pharmacy intern or agent of the pharmacist, shall make a reasonable attempt to inform the patient or the patient's representative if a type of epinephrine autoinjector is available at a lower or equal cost.
+
+(5) The pharmacist, or a pharmacy intern or agent of the pharmacist, shall inform the patient or the patient's representative of the person's right to refuse substitution of the prescribed epinephrine autoinjector.
+
+(D)(1) Unless the prescriber instructs otherwise, the label for every epinephrine autoinjector dispensed shall include the epinephrine autoinjector's name, if any, and the distributor of the autoinjector. Abbreviations may be used as necessary.
+
+(2) When dispensing at retail an epinephrine autoinjector by substitution, the pharmacist shall indicate on the autoinjector's label or container that a substitution was made.
+
+(3) The labeling requirements established by divisions (D) (1) and (2) of this section are in addition to all other labeling requirements as required in rules adopted by the state board of pharmacy.
+
+(E) When a pharmacist dispenses an epinephrine autoinjector by substitution, the pharmacist or a pharmacy intern shall provide to the person receiving the device instruction on the proper method of administering epinephrine with the device, except that the instruction does not have to be provided if the person is receiving the same device that was dispensed when the person last received the device by having a prescription filled or refilled.
+
+(F) A pharmacist who dispenses an epinephrine autoinjector pursuant to this section assumes no greater liability for dispensing the autoinjector by substitution than would be incurred for dispensing the autoinjector identified on the prescription.
+
+(G) The failure of a prescriber to restrict a prescription by indicating an intent to prevent substitution pursuant to this section shall not constitute evidence of the prescriber's negligence unless the prescriber had reasonable cause to believe that the health condition of the patient for whom the epinephrine autoinjector was intended warranted the prescription of a specific type of epinephrine autoinjector and no other. No prescriber shall be liable for civil damages or in any criminal prosecution arising from a pharmacist dispensing an epinephrine autoinjector by substitution, unless the type of autoinjector prescribed would have reasonably caused the same loss, damage, injury, or death.
+
+(H) The state board of pharmacy may adopt rules in accordance with Chapter 119. of the Revised Code to implement this section. The rules may specify forms of epinephrine that are not to be recognized as pharmaceutical equivalents of other forms of epinephrine for purposes of this section.
+
+(I) No pharmacist shall knowingly engage in conduct that is prohibited by division (C) or (D) of this section.

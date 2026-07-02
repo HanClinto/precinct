@@ -1,0 +1,164 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Person\" includes every natural person, firm, partnership, association, or corporation.",
+      "id": "4509.01-person",
+      "normalized": "person",
+      "scope": "As used in sections 4509.01 to 4509.78 of the Revised Code:",
+      "section": "4509.01",
+      "source_title": "Section 4509.01 - Financial responsibility definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4509.01",
+      "term": "Person"
+    },
+    {
+      "definition": "(B) \"Driver\" means every person who drives or is in actual physical control of a motor vehicle.",
+      "id": "4509.01-driver",
+      "normalized": "driver",
+      "scope": "As used in sections 4509.01 to 4509.78 of the Revised Code:",
+      "section": "4509.01",
+      "source_title": "Section 4509.01 - Financial responsibility definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4509.01",
+      "term": "Driver"
+    },
+    {
+      "definition": "(C) \"License\" includes any license, permit, or privilege to operate a motor vehicle issued under the laws of this state including:\n\n(1) Any temporary instruction permit or examiner's driving permit;\n\n(2) The privilege of any person to drive a motor vehicle whether or not such person holds a valid license;\n\n(3) Any nonresident's operating privilege.",
+      "id": "4509.01-license",
+      "normalized": "license",
+      "scope": "As used in sections 4509.01 to 4509.78 of the Revised Code:",
+      "section": "4509.01",
+      "source_title": "Section 4509.01 - Financial responsibility definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4509.01",
+      "term": "License"
+    },
+    {
+      "definition": "(D) \"Owner\" means a person who holds the legal title of a motor vehicle. If a motor vehicle is the subject of a lease with an immediate right of possession vested in the lessee, the lessee is the owner. A person listed as the owner on a certificate of title on which there is a notation of a security interest is the owner. A buyer or other transferee of a motor vehicle who receives the certificate of title from the seller or transferor listing the seller or transferor thereon as the owner with an assignment of title to the buyer or transferee nonetheless is the owner even though a subsequent certificate of title has not been issued listing the buyer or transferee as the owner.",
+      "id": "4509.01-owner",
+      "normalized": "owner",
+      "scope": "As used in sections 4509.01 to 4509.78 of the Revised Code:",
+      "section": "4509.01",
+      "source_title": "Section 4509.01 - Financial responsibility definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4509.01",
+      "term": "Owner"
+    },
+    {
+      "definition": "(E) \"Registration\" means registration certificates and registration plates issued under the laws of this state pertaining to the registration of motor vehicles.",
+      "id": "4509.01-registration",
+      "normalized": "registration",
+      "scope": "As used in sections 4509.01 to 4509.78 of the Revised Code:",
+      "section": "4509.01",
+      "source_title": "Section 4509.01 - Financial responsibility definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4509.01",
+      "term": "Registration"
+    },
+    {
+      "definition": "(F) \"Nonresident\" means every person who is not a resident of this state.",
+      "id": "4509.01-nonresident",
+      "normalized": "nonresident",
+      "scope": "As used in sections 4509.01 to 4509.78 of the Revised Code:",
+      "section": "4509.01",
+      "source_title": "Section 4509.01 - Financial responsibility definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4509.01",
+      "term": "Nonresident"
+    },
+    {
+      "definition": "(G) \"Nonresident's operating privilege\" means the privilege conferred upon a nonresident by the laws of this state pertaining to the operation by such person of a motor vehicle, or the use of a motor vehicle owned by such person, in this state.",
+      "id": "4509.01-nonresident-s-operating-privilege",
+      "normalized": "nonresident's operating privilege",
+      "scope": "As used in sections 4509.01 to 4509.78 of the Revised Code:",
+      "section": "4509.01",
+      "source_title": "Section 4509.01 - Financial responsibility definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4509.01",
+      "term": "Nonresident's operating privilege"
+    },
+    {
+      "definition": "(H) \"Vehicle\" means every device by which any person or property may be transported upon a highway, except electric personal assistive mobility devices, low-speed micromobility devices, devices moved by power collected from overhead electric trolley wires, or used exclusively upon stationary rails or tracks, and except devices other than bicycles moved by human power.",
+      "id": "4509.01-vehicle",
+      "normalized": "vehicle",
+      "scope": "As used in sections 4509.01 to 4509.78 of the Revised Code:",
+      "section": "4509.01",
+      "source_title": "Section 4509.01 - Financial responsibility definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4509.01",
+      "term": "Vehicle"
+    },
+    {
+      "definition": "(I) \"Motor vehicle\" means every vehicle propelled by power other than muscular power or power collected from overhead electric trolley wires, except motorized bicycles, electric bicycles, road rollers, traction engines, power shovels, power cranes and other equipment used in construction work and not designed for or employed in general highway transportation, hole-digging machinery, well-drilling machinery, ditch-digging machinery, farm machinery, threshing machinery, hay baling machinery, and agricultural tractors and machinery used in the production of horticultural, floricultural, agricultural, and vegetable products.",
+      "id": "4509.01-motor-vehicle",
+      "normalized": "motor vehicle",
+      "scope": "As used in sections 4509.01 to 4509.78 of the Revised Code:",
+      "section": "4509.01",
+      "source_title": "Section 4509.01 - Financial responsibility definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4509.01",
+      "term": "Motor vehicle"
+    },
+    {
+      "definition": "(J) \"Accident\" or \"motor vehicle accident\" means any accident involving a motor vehicle which results in bodily injury to or death of any person, or damage to the property of any person in excess of four hundred dollars.",
+      "id": "4509.01-accident",
+      "normalized": "accident",
+      "scope": "As used in sections 4509.01 to 4509.78 of the Revised Code:",
+      "section": "4509.01",
+      "source_title": "Section 4509.01 - Financial responsibility definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4509.01",
+      "term": "Accident"
+    },
+    {
+      "definition": "(J) \"Accident\" or \"motor vehicle accident\" means any accident involving a motor vehicle which results in bodily injury to or death of any person, or damage to the property of any person in excess of four hundred dollars.",
+      "id": "4509.01-motor-vehicle-accident",
+      "normalized": "motor vehicle accident",
+      "scope": "As used in sections 4509.01 to 4509.78 of the Revised Code:",
+      "section": "4509.01",
+      "source_title": "Section 4509.01 - Financial responsibility definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4509.01",
+      "term": "motor vehicle accident"
+    },
+    {
+      "definition": "(K) \"Proof of financial responsibility\" means proof of ability to respond in damages for liability, on account of accidents occurring subsequent to the effective date of such proof, arising out of the ownership, maintenance, or use of a motor vehicle in the amount of twenty-five thousand dollars because of bodily injury to or death of one person in any one accident, in the amount of fifty thousand dollars because of bodily injury to or death of two or more persons in any one accident, and in the amount of twenty-five thousand dollars because of injury to property of others in any one accident.",
+      "id": "4509.01-proof-of-financial-responsibility",
+      "normalized": "proof of financial responsibility",
+      "scope": "As used in sections 4509.01 to 4509.78 of the Revised Code:",
+      "section": "4509.01",
+      "source_title": "Section 4509.01 - Financial responsibility definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4509.01",
+      "term": "Proof of financial responsibility"
+    },
+    {
+      "definition": "(L) \"Motor-vehicle liability policy\" means an \"owner's policy\" or an \"operator's policy\" of liability insurance, certified as provided in section 4509.46 or 4509.47 of the Revised Code as proof of financial responsibility, and issued, except as provided in section 4509.47 of the Revised Code, by an insurance carrier authorized to do business in this state, to or for the benefit of the person named therein as insured.",
+      "id": "4509.01-motor-vehicle-liability-policy",
+      "normalized": "motor-vehicle liability policy",
+      "scope": "As used in sections 4509.01 to 4509.78 of the Revised Code:",
+      "section": "4509.01",
+      "source_title": "Section 4509.01 - Financial responsibility definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4509.01",
+      "term": "Motor-vehicle liability policy"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "4509.01",
+      "number": "4509.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.01"
+    },
+    {
+      "kind": "section",
+      "label": "4509.78",
+      "number": "4509.78",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.78"
+    },
+    {
+      "kind": "section",
+      "label": "4509.46",
+      "number": "4509.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.46"
+    },
+    {
+      "kind": "section",
+      "label": "4509.47",
+      "number": "4509.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.47"
+    }
+  ],
+  "scraped": "2026-07-02T20:05:34+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4509.01",
+  "title": "Section 4509.01 - Financial responsibility definitions."
+}

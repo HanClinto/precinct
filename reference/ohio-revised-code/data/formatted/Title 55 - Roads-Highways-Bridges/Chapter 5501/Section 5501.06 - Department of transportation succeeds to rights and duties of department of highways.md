@@ -1,0 +1,12 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5501.06
+Scraped: 2026-07-02T20:12:20+00:00
+
+# Section 5501.06 - Department of transportation succeeds to rights and duties of department of highways.
+
+**Effective:** September 28, 1973
+
+**Latest Legislation:** House Bill 200 - 110th General Assembly
+
+(A) For the purpose of succession to all duties, powers, and functions transferred, and of the conduct and completion of matters relating thereto, the department of transportation or the director of transportation shall be held to constitute the continuation of the department of highways and the director of highways. All rules, regulations, acts, determinations, and decisions pertaining to such duties, powers, and functions of the department of highways and the director of highways, in force and effect at the time of such transfer, shall continue in force and effect until further action thereon by the department of transportation or the director of transportation. Wherever the department of highways is referred to in any provision of law, or in any contract or document that pertains to such duties, powers, and functions, the reference or designation shall be held to refer to the department of transportation or the director of transportation. No pending action or proceeding to which the department of highways or the director of highways is a party and which pertains to such duties, powers, and functions shall be affected by any provision effecting the transfer of such duties, powers, and functions, but may be prosecuted or defended in the name of the department of transportation or of the director of transportation; and in any such action or proceeding, the department or the director, upon application to the court, shall be substituted as a party.
+
+(B) The director shall make annually, at the end of each fiscal year, in quadruplicate, a report of the transactions and proceedings of his department for such fiscal year, specifically disclosing the total receipts and disbursements of each division within the department, together with a summary of the official acts of the director and the department. On the first day of August of each year, one of such reports shall be filed with the governor, one with the secretary of state, one shall be kept on file in the office of the department and one with the legislative auditor who shall transmit copies to the members of the house and senate finance committees.

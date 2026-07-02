@@ -1,0 +1,132 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-2305.234
+Scraped: 2026-07-02T19:43:12+00:00
+
+# Section 2305.234 - Immunity of volunteer health care professionals and workers and of nonprofit shelters and facilities.
+
+**Effective:** April 9, 2025
+
+**Latest Legislation:** Senate Bill 95 - 135th General Assembly
+
+(A) As used in this section:
+
+(1) "Chiropractic claim," "medical claim," and "optometric claim" have the same meanings as in section 2305.113 of the Revised Code.
+
+(2) "Dental claim" has the same meaning as in section 2305.113 of the Revised Code, except that it does not include any claim arising out of a dental operation or any derivative claim for relief that arises out of a dental operation.
+
+(3) "Governmental health care program" has the same meaning as in section 4731.65 of the Revised Code.
+
+(4) "Health care facility or location" means a hospital, clinic, ambulatory surgical facility, office of a health care professional or associated group of health care professionals, training institution for health care professionals, a free clinic or other nonprofit shelter or health care facility as those terms are defined in section 3701.071 of the Revised Code, or any other place where medical, dental, or other health-related diagnosis, care, or treatment is provided to a person.
+
+(5) "Health care professional" means any of the following who provide medical, dental, or other health-related diagnosis, care, or treatment:
+
+(a) Physicians authorized under Chapter 4731. of the Revised Code to practice medicine and surgery or osteopathic medicine and surgery;
+
+(b) Advanced practice registered nurses, registered nurses, and licensed practical nurses licensed under Chapter 4723. of the Revised Code;
+
+(c) Physician assistants authorized to practice under Chapter 4730. of the Revised Code;
+
+(d) Dentists and dental hygienists licensed under Chapter 4715. of the Revised Code;
+
+(e) Physical therapists, physical therapist assistants, occupational therapists, occupational therapy assistants, and athletic trainers licensed under Chapter 4755. of the Revised Code;
+
+(f) Chiropractors licensed under Chapter 4734. of the Revised Code;
+
+(g) Optometrists licensed under Chapter 4725. of the Revised Code;
+
+(h) Podiatrists authorized under Chapter 4731. of the Revised Code to practice podiatry;
+
+(i) Dietitians licensed under Chapter 4759. of the Revised Code;
+
+(j) Pharmacists licensed under Chapter 4729. of the Revised Code;
+
+(k) Emergency medical technicians-basic, emergency medical technicians-intermediate, and emergency medical technicians-paramedic, certified under Chapter 4765. of the Revised Code;
+
+(l) Respiratory care professionals licensed under Chapter 4761. of the Revised Code;
+
+(m) Speech-language pathologists and audiologists licensed under Chapter 4753. of the Revised Code;
+
+(n) Licensed professional clinical counselors, licensed professional counselors, independent social workers, social workers, independent marriage and family therapists, and marriage and family therapists, licensed under Chapter 4757. of the Revised Code;
+
+(o) Psychologists licensed under Chapter 4732. of the Revised Code;
+
+(p) Independent chemical dependency counselors-clinical supervisors, independent chemical dependency counselors, chemical dependency counselors III, and chemical dependency counselors II, licensed under Chapter 4758. of the Revised Code, and chemical dependency counselor assistants, prevention consultants, prevention specialists, prevention specialist assistants, and registered applicants, certified under that chapter;
+
+(q) Certified mental health assistants licensed under Chapter 4772. of the Revised Code.
+
+(6) "Health care worker" means a person other than a health care professional who provides medical, dental, or other health-related care or treatment under the direction of a health care professional with the authority to direct that individual's activities, including medical technicians, medical assistants, dental assistants, orderlies, aides, and individuals acting in similar capacities.
+
+(7) "Indigent and uninsured person" means a person who meets both of the following requirements:
+
+(a) Relative to being indigent, the person's income is not greater than two hundred per cent of the federal poverty line, as defined by the United States office of management and budget and revised in accordance with section 673(2) of the "Omnibus Budget Reconciliation Act of 1981," 95 Stat. 511, 42 U.S.C. 9902, as amended, except in any case in which division (A)(7)(b)(iii) of this section includes a person whose income is greater than two hundred per cent of the federal poverty line.
+
+(b) Relative to being uninsured, one of the following applies:
+
+(i) The person is not a policyholder, certificate holder, insured, contract holder, subscriber, enrollee, member, beneficiary, or other covered individual under a health insurance or health care policy, contract, or plan.
+
+(ii) The person is a policyholder, certificate holder, insured, contract holder, subscriber, enrollee, member, beneficiary, or other covered individual under a health insurance or health care policy, contract, or plan, but the insurer, policy, contract, or plan denies coverage or is the subject of insolvency or bankruptcy proceedings in any jurisdiction.
+
+(iii) Until June 30, 2019, the person is eligible for the medicaid program or is a medicaid recipient.
+
+(iv) Except as provided in division (A)(7)(b)(iii) of this section, the person is not eligible for or a recipient, enrollee, or beneficiary of any governmental health care program.
+
+(8) "Nonprofit health care referral organization" means an entity that is not operated for profit and refers patients to, or arranges for the provision of, health-related diagnosis, care, or treatment by a health care professional or health care worker.
+
+(9) "Operation" means any procedure that involves cutting or otherwise infiltrating human tissue by mechanical means, including surgery, laser surgery, ionizing radiation, therapeutic ultrasound, or the removal of intraocular foreign bodies. "Operation" does not include the administration of medication by injection, unless the injection is administered in conjunction with a procedure infiltrating human tissue by mechanical means other than the administration of medicine by injection. "Operation" does not include routine dental restorative procedures, the scaling of teeth, or extractions of teeth that are not impacted.
+
+(10) "Tort action" means a civil action for damages for injury, death, or loss to person or property other than a civil action for damages for a breach of contract or another agreement between persons or government entities.
+
+(11) "Volunteer" means an individual who provides any medical, dental, or other health-care related diagnosis, care, or treatment without the expectation of receiving and without receipt of any compensation or other form of remuneration from an indigent and uninsured person, another person on behalf of an indigent and uninsured person, any health care facility or location, any nonprofit health care referral organization, or any other person or government entity.
+
+(12) "Community control sanction" has the same meaning as in section 2929.01 of the Revised Code.
+
+(13) "Deep sedation" means a drug-induced depression of consciousness during which a patient cannot be easily aroused but responds purposefully following repeated or painful stimulation, a patient's ability to independently maintain ventilatory function may be impaired, a patient may require assistance in maintaining a patent airway and spontaneous ventilation may be inadequate, and cardiovascular function is usually maintained.
+
+(14) "General anesthesia" means a drug-induced loss of consciousness during which a patient is not arousable, even by painful stimulation, the ability to independently maintain ventilatory function is often impaired, a patient often requires assistance in maintaining a patent airway, positive pressure ventilation may be required because of depressed spontaneous ventilation or drug-induced depression of neuromuscular function, and cardiovascular function may be impaired.
+
+(B)(1) Subject to divisions (F) and (G)(3) of this section, a health care professional who is a volunteer and complies with division (B)(2) of this section is not liable in damages to any person or government entity in a tort or other civil action, including an action on a medical, dental, chiropractic, optometric, or other health-related claim, for injury, death, or loss to person or property that allegedly arises from an action or omission of the volunteer in the provision to an indigent and uninsured person of medical, dental, or other health-related diagnosis, care, or treatment, including the provision of samples of medicine and other medical products, unless the action or omission constitutes willful or wanton misconduct.
+
+(2) To qualify for the immunity described in division (B)(1) of this section, a health care professional shall do all of the following prior to providing diagnosis, care, or treatment:
+
+(a) Determine, in good faith, that the indigent and uninsured person is mentally capable of giving informed consent to the provision of the diagnosis, care, or treatment and is not subject to duress or under undue influence;
+
+(b) Inform the person of the provisions of this section, including notifying the person that, by giving informed consent to the provision of the diagnosis, care, or treatment, the person cannot hold the health care professional liable for damages in a tort or other civil action, including an action on a medical, dental, chiropractic, optometric, or other health-related claim, unless the action or omission of the health care professional constitutes willful or wanton misconduct;
+
+(c) Obtain the informed consent of the person and a written waiver, signed by the person or by another individual on behalf of and in the presence of the person, that states that the person is mentally competent to give informed consent and, without being subject to duress or under undue influence, gives informed consent to the provision of the diagnosis, care, or treatment subject to the provisions of this section. A written waiver under division (B)(2)(c) of this section shall state clearly and in conspicuous type that the person or other individual who signs the waiver is signing it with full knowledge that, by giving informed consent to the provision of the diagnosis, care, or treatment, the person cannot bring a tort or other civil action, including an action on a medical, dental, chiropractic, optometric, or other health-related claim, against the health care professional unless the action or omission of the health care professional constitutes willful or wanton misconduct.
+
+(3) A physician or podiatrist who is not covered by medical malpractice insurance, but complies with division (B)(2) of this section, is not required to comply with division (A) of section 4731.143 of the Revised Code.
+
+(C) Subject to divisions (F) and (G)(3) of this section, health care workers who are volunteers are not liable in damages to any person or government entity in a tort or other civil action, including an action upon a medical, dental, chiropractic, optometric, or other health-related claim, for injury, death, or loss to person or property that allegedly arises from an action or omission of the health care worker in the provision to an indigent and uninsured person of medical, dental, or other health-related diagnosis, care, or treatment, unless the action or omission constitutes willful or wanton misconduct.
+
+(D) Subject to divisions (F) and (G)(3) of this section, a nonprofit health care referral organization is not liable in damages to any person or government entity in a tort or other civil action, including an action on a medical, dental, chiropractic, optometric, or other health-related claim, for injury, death, or loss to person or property that allegedly arises from an action or omission of the nonprofit health care referral organization in referring indigent and uninsured persons to, or arranging for the provision of, medical, dental, or other health-related diagnosis, care, or treatment by a health care professional described in division (B)(1) of this section or a health care worker described in division (C) of this section, unless the action or omission constitutes willful or wanton misconduct.
+
+(E) Subject to divisions (F) and (G)(3) of this section and to the extent that the registration requirements of section 3701.071 of the Revised Code apply, a health care facility or location associated with a health care professional described in division (B)(1) of this section, a health care worker described in division (C) of this section, or a nonprofit health care referral organization described in division (D) of this section is not liable in damages to any person or government entity in a tort or other civil action, including an action on a medical, dental, chiropractic, optometric, or other health-related claim, for injury, death, or loss to person or property that allegedly arises from an action or omission of the health care professional or worker or nonprofit health care referral organization relative to the medical, dental, or other health-related diagnosis, care, or treatment provided to an indigent and uninsured person on behalf of or at the health care facility or location, unless the action or omission constitutes willful or wanton misconduct.
+
+(F)(1) Except as provided in division (F)(2) of this section, the immunities provided by divisions (B), (C), (D), and (E) of this section are not available to a health care professional, health care worker, nonprofit health care referral organization, or health care facility or location if, at the time of an alleged injury, death, or loss to person or property, the health care professionals or health care workers involved are providing one of the following:
+
+(a) Any medical, dental, or other health-related diagnosis, care, or treatment pursuant to a community service work order entered by a court under division (B) of section 2951.02 of the Revised Code or imposed by a court as a community control sanction;
+
+(b) Performance of an operation to which any one of the following applies:
+
+(i) The operation requires the administration of deep sedation or general anesthesia.
+
+(ii) The operation is a procedure that is not typically performed in an office.
+
+(iii) The individual involved is a health care professional, and the operation is beyond the scope of practice or the education, training, and competence, as applicable, of the health care professional.
+
+(c) Delivery of a baby or any other purposeful termination of a human pregnancy.
+
+(2) Division (F)(1) of this section does not apply when a health care professional or health care worker provides medical, dental, or other health-related diagnosis, care, or treatment that is necessary to preserve the life of a person in a medical emergency.
+
+(G)(1) This section does not create a new cause of action or substantive legal right against a health care professional, health care worker, nonprofit health care referral organization, or health care facility or location.
+
+(2) This section does not affect any immunities from civil liability or defenses established by another section of the Revised Code or available at common law to which a health care professional, health care worker, nonprofit health care referral organization, or health care facility or location may be entitled in connection with the provision of emergency or other medical, dental, or other health-related diagnosis, care, or treatment.
+
+(3) This section does not grant an immunity from tort or other civil liability to a health care professional, health care worker, nonprofit health care referral organization, or health care facility or location for actions that are outside the scope of authority of health care professionals or health care workers.
+
+In the case of the diagnosis, care, or treatment of an indigent and uninsured person who is eligible for the medicaid program or is a medicaid recipient, this section grants an immunity from tort or other civil liability only if the person's diagnosis, care, or treatment is provided in a free clinic, as defined in section 3701.071 of the Revised Code.
+
+(4) This section does not affect any legal responsibility of a health care professional, health care worker, or nonprofit health care referral organization to comply with any applicable law of this state or rule of an agency of this state.
+
+(5) This section does not affect any legal responsibility of a health care facility or location to comply with any applicable law of this state, rule of an agency of this state, or local code, ordinance, or regulation that pertains to or regulates building, housing, air pollution, water pollution, sanitation, health, fire, zoning, or safety.
+
+Last updated January 17, 2025 at 3:11 PM

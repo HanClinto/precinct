@@ -1,0 +1,102 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Person\" means an individual, a partnership, a corporation, or an association.",
+      "id": "5905.01-person",
+      "normalized": "person",
+      "scope": "As used in sections 5905.01 to 5905.19 , inclusive, of the Revised Code:",
+      "section": "5905.01",
+      "source_title": "Section 5905.01 - Veterans' guardianship law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5905.01",
+      "term": "Person"
+    },
+    {
+      "definition": "(B) \"Veterans' administration\" means the veterans' administration, its predecesssors, or successors.",
+      "id": "5905.01-veterans-administration",
+      "normalized": "veterans' administration",
+      "scope": "As used in sections 5905.01 to 5905.19 , inclusive, of the Revised Code:",
+      "section": "5905.01",
+      "source_title": "Section 5905.01 - Veterans' guardianship law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5905.01",
+      "term": "Veterans' administration"
+    },
+    {
+      "definition": "(C) \"Income\" means moneys received from the veterans' administration and revenue or profit from any property wholly or partially acquired therewith.",
+      "id": "5905.01-income",
+      "normalized": "income",
+      "scope": "As used in sections 5905.01 to 5905.19 , inclusive, of the Revised Code:",
+      "section": "5905.01",
+      "source_title": "Section 5905.01 - Veterans' guardianship law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5905.01",
+      "term": "Income"
+    },
+    {
+      "definition": "(D) \"Estate\" means income on hand and assets acquired partially or wholly with \"income.\"",
+      "id": "5905.01-estate",
+      "normalized": "estate",
+      "scope": "As used in sections 5905.01 to 5905.19 , inclusive, of the Revised Code:",
+      "section": "5905.01",
+      "source_title": "Section 5905.01 - Veterans' guardianship law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5905.01",
+      "term": "Estate"
+    },
+    {
+      "definition": "(E) \"Benefits\" means all moneys paid or payable by the United States through the veterans' administration.",
+      "id": "5905.01-benefits",
+      "normalized": "benefits",
+      "scope": "As used in sections 5905.01 to 5905.19 , inclusive, of the Revised Code:",
+      "section": "5905.01",
+      "source_title": "Section 5905.01 - Veterans' guardianship law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5905.01",
+      "term": "Benefits"
+    },
+    {
+      "definition": "(F) \"Administrator\" means the administrator of veterans' affairs of the United States or his successor.",
+      "id": "5905.01-administrator",
+      "normalized": "administrator",
+      "scope": "As used in sections 5905.01 to 5905.19 , inclusive, of the Revised Code:",
+      "section": "5905.01",
+      "source_title": "Section 5905.01 - Veterans' guardianship law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5905.01",
+      "term": "Administrator"
+    },
+    {
+      "definition": "(G) \"Ward\" means a beneficiary of the veterans' administration.",
+      "id": "5905.01-ward",
+      "normalized": "ward",
+      "scope": "As used in sections 5905.01 to 5905.19 , inclusive, of the Revised Code:",
+      "section": "5905.01",
+      "source_title": "Section 5905.01 - Veterans' guardianship law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5905.01",
+      "term": "Ward"
+    },
+    {
+      "definition": "(H) \"Guardian\" means any fiduciary for the person or estate of a ward.",
+      "id": "5905.01-guardian",
+      "normalized": "guardian",
+      "scope": "As used in sections 5905.01 to 5905.19 , inclusive, of the Revised Code:",
+      "section": "5905.01",
+      "source_title": "Section 5905.01 - Veterans' guardianship law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5905.01",
+      "term": "Guardian"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "5905.01",
+      "number": "5905.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5905.01"
+    },
+    {
+      "kind": "section",
+      "label": "5905.19",
+      "number": "5905.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5905.19"
+    }
+  ],
+  "scraped": "2026-07-02T20:16:35+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5905.01",
+  "title": "Section 5905.01 - Veterans' guardianship law definitions."
+}

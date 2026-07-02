@@ -1,0 +1,118 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-109.77
+Scraped: 2026-07-02T19:31:26+00:00
+
+# Section 109.77 - Certificate of completion of basic training program necessary for appointment.
+
+**Effective:** September 30, 2025
+
+**Latest Legislation:** House Bill 96 - 136th General Assembly
+
+(A) As used in this section:
+
+(1) "Felony" has the same meaning as in section 109.511 of the Revised Code.
+
+(2) "Companion animal" has the same meaning as in section 959.131 of the Revised Code.
+
+(B)(1) Notwithstanding any general, special, or local law or charter to the contrary, and except as otherwise provided in this section, no person shall receive an original appointment on a permanent basis as any of the following unless the person previously has been awarded a certificate by the executive director of the Ohio peace officer training commission attesting to the person's satisfactory completion of an approved state, county, municipal, or department of natural resources peace officer basic training program:
+
+(a) A peace officer of any county, township, municipal corporation, regional transit authority, or metropolitan housing authority;
+
+(b) A natural resources law enforcement staff officer, forest-fire investigator, wildlife officer, or natural resources officer of the department of natural resources;
+
+(c) An employee of a park district under section 511.232 or 1545.13 of the Revised Code;
+
+(d) An employee of a conservancy district who is designated pursuant to section 6101.75 of the Revised Code;
+
+(e) A state university law enforcement officer;
+
+(f) A special police officer employed by the department of mental health and addiction services pursuant to section 5119.08 of the Revised Code or the department of developmental disabilities pursuant to section 5123.13 of the Revised Code;
+
+(g) An enforcement agent of the department of public safety whom the director of public safety designates under section 5502.14 of the Revised Code;
+
+(h) A special police officer employed by a port authority under section 4582.04 or 4582.28 of the Revised Code;
+
+(i) A special police officer employed by a municipal corporation at a municipal airport, or other municipal air navigation facility, that has scheduled operations, as defined in section 119.3 of Title 14 of the Code of Federal Regulations, 14 C.F.R. 119.3 , as amended, and that is required to be under a security program and is governed by aviation security rules of the transportation security administration of the United States department of transportation as provided in Parts 1542. and 1544. of Title 49 of the Code of Federal Regulations, as amended;
+
+(j) A gaming agent employed under section 3772.03 of the Revised Code.
+
+(2) Every person who is appointed on a temporary basis or for a probationary term or on other than a permanent basis as any of the following shall forfeit the appointed position unless the person previously has completed satisfactorily or, within the time prescribed by rules adopted by the attorney general pursuant to section 109.74 of the Revised Code, satisfactorily completes a state, county, municipal, or department of natural resources peace officer basic training program for temporary or probationary officers and is awarded a certificate by the director attesting to the satisfactory completion of the program:
+
+(a) A peace officer of any county, township, municipal corporation, regional transit authority, or metropolitan housing authority;
+
+(b) A natural resources law enforcement staff officer, park officer, forest officer, preserve officer, wildlife officer, or state watercraft officer of the department of natural resources;
+
+(c) An employee of a park district under section 511.232 or 1545.13 of the Revised Code;
+
+(d) An employee of a conservancy district who is designated pursuant to section 6101.75 of the Revised Code;
+
+(e) A special police officer employed by the department of mental health and addiction services pursuant to section 5119.08 of the Revised Code or the department of developmental disabilities pursuant to section 5123.13 of the Revised Code;
+
+(f) An enforcement agent of the department of public safety whom the director of public safety designates under section 5502.14 of the Revised Code;
+
+(g) A special police officer employed by a port authority under section 4582.04 or 4582.28 of the Revised Code;
+
+(h) A special police officer employed by a municipal corporation at a municipal airport, or other municipal air navigation facility, that has scheduled operations, as defined in section 119.3 of Title 14 of the Code of Federal Regulations, 14 C.F.R. 119.3 , as amended, and that is required to be under a security program and is governed by aviation security rules of the transportation security administration of the United States department of transportation as provided in Parts 1542. and 1544. of Title 49 of the Code of Federal Regulations, as amended.
+
+(3) For purposes of division (B) of this section, a state, county, municipal, or department of natural resources peace officer basic training program, regardless of whether the program is to be completed by peace officers appointed on a permanent or temporary, probationary, or other nonpermanent basis, shall include training in the handling of the offense of domestic violence, other types of domestic violence-related offenses and incidents, protection orders and consent agreements issued or approved under section 2919.26 or 3113.31 of the Revised Code, crisis intervention training, and training on companion animal encounters and companion animal behavior. The requirement to complete training in the handling of the offense of domestic violence, other types of domestic violence-related offenses and incidents, and protection orders and consent agreements issued or approved under section 2919.26 or 3113.31 of the Revised Code does not apply to any person serving as a peace officer on March 27, 1979, and the requirement to complete training in crisis intervention does not apply to any person serving as a peace officer on April 4, 1985. Any person who is serving as a peace officer on April 4, 1985, who terminates that employment after that date, and who subsequently is hired as a peace officer by the same or another law enforcement agency shall complete training in crisis intervention as prescribed by rules adopted by the attorney general pursuant to section 109.742 of the Revised Code. No peace officer shall have employment as a peace officer terminated and then be reinstated with intent to circumvent this section.
+
+(4) Division (B) of this section does not apply to any person serving on a permanent basis on March 28, 1985, as a park officer, forest officer, preserve officer, wildlife officer, or state watercraft officer of the department of natural resources or as an employee of a park district under section 511.232 or 1545.13 of the Revised Code, to any person serving on a permanent basis on March 6, 1986, as an employee of a conservancy district designated pursuant to section 6101.75 of the Revised Code, to any person serving on a permanent basis on January 10, 1991, as a preserve officer of the department of natural resources, to any person employed on a permanent basis on July 2, 1992, as a special police officer by the department of mental health and addiction services pursuant to section 5119.08 of the Revised Code or by the department of developmental disabilities pursuant to section 5123.13 of the Revised Code, to any person serving on a permanent basis on May 17, 2000, as a special police officer employed by a port authority under section 4582.04 or 4582.28 of the Revised Code, to any person serving on a permanent basis on March 19, 2003, as a special police officer employed by a municipal corporation at a municipal airport or other municipal air navigation facility described in division (A)(19) of section 109.71 of the Revised Code, to any person serving on a permanent basis on June 19, 1978, as a state university law enforcement officer pursuant to section 3345.04 of the Revised Code and who, immediately prior to June 19, 1978, was serving as a special police officer designated under authority of that section, or to any person serving on a permanent basis on September 20, 1984, as a liquor control investigator, known after June 30, 1999, as an enforcement agent of the department of public safety, engaged in the enforcement of Chapters 4301. and 4303. of the Revised Code.
+
+(5) Division (B) of this section does not apply to any person who is appointed as a regional transit authority police officer pursuant to division (Y) of section 306.35 of the Revised Code if, on or before July 1, 1996, the person has completed satisfactorily an approved state, county, municipal, or department of natural resources peace officer basic training program and has been awarded a certificate by the executive director of the Ohio peace officer training commission attesting to the person's satisfactory completion of such an approved program and if, on July 1, 1996, the person is performing peace officer functions for a regional transit authority.
+
+(C) No person, after September 20, 1984, shall receive an original appointment on a permanent basis as a veterans' home police officer designated under section 5907.02 of the Revised Code unless the person previously has been awarded a certificate by the executive director of the Ohio peace officer training commission attesting to the person's satisfactory completion of an approved police officer basic training program. Every person who is appointed on a temporary basis or for a probationary term or on other than a permanent basis as a veterans' home police officer designated under section 5907.02 of the Revised Code shall forfeit that position unless the person previously has completed satisfactorily or, within one year from the time of appointment, satisfactorily completes an approved police officer basic training program.
+
+(D) No bailiff or deputy bailiff of a court of record of this state and no criminal investigator who is employed by the state public defender shall carry a firearm, as defined in section 2923.11 of the Revised Code, while on duty unless the bailiff, deputy bailiff, or criminal investigator has done or received one of the following:
+
+(1) Has been awarded a certificate by the executive director of the Ohio peace officer training commission, which certificate attests to satisfactory completion of an approved state, county, or municipal basic training program for bailiffs and deputy bailiffs of courts of record and for criminal investigators employed by the state public defender that has been recommended by the Ohio peace officer training commission;
+
+(2) Has successfully completed a firearms training program approved by the Ohio peace officer training commission prior to employment as a bailiff, deputy bailiff, or criminal investigator;
+
+(3) Prior to June 6, 1986, was authorized to carry a firearm by the court that employed the bailiff or deputy bailiff or, in the case of a criminal investigator, by the state public defender and has received training in the use of firearms that the Ohio peace officer training commission determines is equivalent to the training that otherwise is required by division (D) of this section.
+
+(E)(1) Before a person seeking a certificate completes an approved peace officer basic training program, the executive director of the Ohio peace officer training commission shall request the person to disclose, and the person shall disclose, any previous criminal conviction of or plea of guilty of that person to a felony.
+
+(2) Before a person seeking a certificate completes an approved peace officer basic training program, the executive director shall request a criminal history records check on the person. The executive director shall submit the person's fingerprints to the bureau of criminal identification and investigation, which shall submit the fingerprints to the federal bureau of investigation for a national criminal history records check.
+
+Upon receipt of the executive director's request, the bureau of criminal identification and investigation and the federal bureau of investigation shall conduct a criminal history records check on the person and, upon completion of the check, shall provide a copy of the criminal history records check to the executive director. The executive director shall not award any certificate prescribed in this section unless the executive director has received a copy of the criminal history records check on the person to whom the certificate is to be awarded.
+
+(3) The executive director of the commission shall not award a certificate prescribed in this section to a person who has been convicted of or has pleaded guilty to a felony or who fails to disclose any previous criminal conviction of or plea of guilty to a felony as required under division (E)(1) of this section.
+
+(4) The executive director of the commission shall revoke the certificate awarded to a person as prescribed in this section, and that person shall forfeit all of the benefits derived from being certified as a peace officer under this section, if the person, before completion of an approved peace officer basic training program, failed to disclose any previous criminal conviction of or plea of guilty to a felony as required under division (E)(1) of this section.
+
+(F)(1) Regardless of whether the person has been awarded the certificate or has been classified as a peace officer prior to, on, or after October 16, 1996, the executive director of the Ohio peace officer training commission shall revoke any certificate that has been awarded to a person as prescribed in this section if the person does either of the following:
+
+(a) Pleads guilty to a felony committed on or after January 1, 1997;
+
+(b) Pleads guilty to a misdemeanor committed on or after January 1, 1997, pursuant to a negotiated plea agreement as provided in division (D) of section 2929.43 of the Revised Code in which the person agrees to surrender the certificate awarded to the person under this section.
+
+(2) The executive director of the commission shall suspend any certificate that has been awarded to a person as prescribed in this section if the person is convicted, after trial, of a felony committed on or after January 1, 1997. The executive director shall suspend the certificate pursuant to division (F)(2) of this section pending the outcome of an appeal by the person from that conviction to the highest court to which the appeal is taken or until the expiration of the period in which an appeal is required to be filed. If the person files an appeal that results in that person's acquittal of the felony or conviction of a misdemeanor, or in the dismissal of the felony charge against that person, the executive director shall reinstate the certificate awarded to the person under this section. If the person files an appeal from that person's conviction of the felony and the conviction is upheld by the highest court to which the appeal is taken or if the person does not file a timely appeal, the executive director shall revoke the certificate awarded to the person under this section.
+
+(G)(1) If a person is awarded a certificate under this section and the certificate is revoked pursuant to division (E)(4) or (F) of this section, the person shall not be eligible to receive, at any time, a certificate attesting to the person's satisfactory completion of a peace officer basic training program.
+
+(2) The revocation or suspension of a certificate under division (E)(4) or (F) of this section shall be in accordance with Chapter 119. of the Revised Code.
+
+(H)(1) A person who was employed as a peace officer of a county, township, or municipal corporation of the state on January 1, 1966, and who has completed at least sixteen years of full-time active service as such a peace officer, or equivalent service as determined by the executive director of the Ohio peace officer training commission, may receive an original appointment on a permanent basis and serve as a peace officer of a county, township, or municipal corporation, or as a state university law enforcement officer, without complying with the requirements of division (B) of this section.
+
+(2) Any person who held an appointment as a state highway trooper on January 1, 1966, may receive an original appointment on a permanent basis and serve as a peace officer of a county, township, or municipal corporation, or as a state university law enforcement officer, without complying with the requirements of division (B) of this section.
+
+(I) No person who is appointed as a peace officer of a county, township, or municipal corporation on or after April 9, 1985, shall serve as a peace officer of that county, township, or municipal corporation unless the person has received training in the handling of missing children and child abuse and neglect cases from an approved state, county, township, or municipal police officer basic training program or receives the training within the time prescribed by rules adopted by the attorney general pursuant to section 109.741 of the Revised Code.
+
+(J) No part of any approved state, county, or municipal basic training program for bailiffs and deputy bailiffs of courts of record and no part of any approved state, county, or municipal basic training program for criminal investigators employed by the state public defender shall be used as credit toward the completion by a peace officer of any part of the approved state, county, or municipal peace officer basic training program that the peace officer is required by this section to complete satisfactorily.
+
+(K) This section does not apply to any member of the police department of a municipal corporation in an adjoining state serving in this state under a contract pursuant to section 737.04 of the Revised Code.
+
+(L) The executive director of the commission shall issue a certificate of completion of a training program required under this section in accordance with Chapter 4796. of the Revised Code to an individual if either of the following applies:
+
+(1) The individual holds a certificate of completion of such a program in another state.
+
+(2) The individual has satisfactory work experience, a government certification, or a private certification as described in that chapter in the same profession, occupation, or occupational activity as the profession, occupation, or occupational activity for which the certificate is required in this state in a state that does not require completion of such a training program.
+
+(M)(1) Except as provided in division (M)(2) of this section, no certificate awarded by the executive director of the Ohio peace officer training commission attesting to a person's satisfactory completion of an approved state, county, municipal, or department of natural resources peace officer basic training program shall be deemed insufficient for an appointment to a position listed in division (B)(1) of this section because of a lapse in the person's service as a peace officer.
+
+(2) The Ohio peace officer training commission shall require a re-appointed peace officer to complete refresher training of the following duration prior to performing the functions of a peace officer, if the peace officer, having previously been awarded a certificate by the executive director of the commission attesting to the person's satisfactory completion of an approved state, county, municipal, or department of natural resources peace officer basic training program or pursuant to Chapter 4796. of the Revised Code, for at least one year prior to an appointment, was not employed as a peace officer:
+
+(a) If the period of lapse was at least one year, but less than four years, up to forty hours;
+
+(b) If the period of lapse was four years or longer, eighty hours.
+
+Last updated October 22, 2025 at 2:00 PM

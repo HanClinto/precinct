@@ -1,0 +1,13 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-3933
+Scraped: 2026-07-02T20:03:03+00:00
+
+# Chapter 3933 - Rebates And Special Advantages
+
+## Sections
+
+- Section 3933.01 - Prohibition against rebates and advantages in policies.
+- Section 3933.02 - Testimony required - immunity.
+- Section 3933.03 - Revocation of license.
+- Section 3933.04 - Sellers of real estate and personal property may require purchase of insurance from particular company.
+- Section 3933.05 - Prohibition.
+- Section 3933.99 - Penalty.

@@ -1,0 +1,106 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"General x-ray machine operator\" means an individual who operates ionizing radiation-generating equipment in order to perform standard radiology procedures; whose performance of such procedures is limited to specific body sites; and who does not, to any significant degree, determine procedure positioning or the dosage of radiation to which a patient is exposed.",
+      "id": "4773.01-general-x-ray-machine-operator",
+      "normalized": "general x-ray machine operator",
+      "scope": "As used in this chapter:",
+      "section": "4773.01",
+      "source_title": "Section 4773.01 - Radiation technician definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4773.01",
+      "term": "General x-ray machine operator"
+    },
+    {
+      "definition": "(B) \"Chiropractor\" means an individual licensed under Chapter 4734. of the Revised Code to practice chiropractic.",
+      "id": "4773.01-chiropractor",
+      "normalized": "chiropractor",
+      "scope": "As used in this chapter:",
+      "section": "4773.01",
+      "source_title": "Section 4773.01 - Radiation technician definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4773.01",
+      "term": "Chiropractor"
+    },
+    {
+      "definition": "(C) \"Ionizing radiation\" means any electromagnetic or particulate radiation that interacts with atoms to produce ionization in matter, including x-rays, gamma rays, alpha and beta particles, high speed electrons, neutrons, and other nuclear particles.",
+      "id": "4773.01-ionizing-radiation",
+      "normalized": "ionizing radiation",
+      "scope": "As used in this chapter:",
+      "section": "4773.01",
+      "source_title": "Section 4773.01 - Radiation technician definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4773.01",
+      "term": "Ionizing radiation"
+    },
+    {
+      "definition": "(D) \"Physician\" means an individual authorized under Chapter 4731. of the Revised Code to practice medicine and surgery or osteopathic medicine and surgery.",
+      "id": "4773.01-physician",
+      "normalized": "physician",
+      "scope": "As used in this chapter:",
+      "section": "4773.01",
+      "source_title": "Section 4773.01 - Radiation technician definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4773.01",
+      "term": "Physician"
+    },
+    {
+      "definition": "(E) \"Podiatrist\" means an individual authorized under Chapter 4731. of the Revised Code to practice podiatric medicine and surgery.",
+      "id": "4773.01-podiatrist",
+      "normalized": "podiatrist",
+      "scope": "As used in this chapter:",
+      "section": "4773.01",
+      "source_title": "Section 4773.01 - Radiation technician definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4773.01",
+      "term": "Podiatrist"
+    },
+    {
+      "definition": "(F) \"Nuclear medicine technologist\" means an individual who does all of the following:\n\n(1) Prepares and administers radio-pharmaceuticals to human beings;\n\n(2) Conducts in vivo or in vitro detection and measurement of radioactivity for medical purposes;\n\n(3) Documents orders for radio-pharmaceuticals in patient medical records.",
+      "id": "4773.01-nuclear-medicine-technologist",
+      "normalized": "nuclear medicine technologist",
+      "scope": "As used in this chapter:",
+      "section": "4773.01",
+      "source_title": "Section 4773.01 - Radiation technician definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4773.01",
+      "term": "Nuclear medicine technologist"
+    },
+    {
+      "definition": "(G) \"Radiation therapy technologist\" means an individual who utilizes ionizing radiation-generating equipment, including therapy simulator radiation-generating equipment, for therapeutic purposes on human beings.\n\n\"Radiation therapy technologist\" is the same as a radiation therapist.",
+      "id": "4773.01-radiation-therapy-technologist",
+      "normalized": "radiation therapy technologist",
+      "scope": "As used in this chapter:",
+      "section": "4773.01",
+      "source_title": "Section 4773.01 - Radiation technician definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4773.01",
+      "term": "Radiation therapy technologist"
+    },
+    {
+      "definition": "(H) \"Radiographer\" means an individual who does all of the following in order to perform a comprehensive scope of radiology procedures on human beings:\n\n(1) Operates ionizing radiation-generating equipment;\n\n(2) Administers contrast;\n\n(3) Documents orders for contrast in patient medical records;\n\n(4) Determines procedure positioning;\n\n(5) Determines the dosage of ionizing radiation.",
+      "id": "4773.01-radiographer",
+      "normalized": "radiographer",
+      "scope": "As used in this chapter:",
+      "section": "4773.01",
+      "source_title": "Section 4773.01 - Radiation technician definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4773.01",
+      "term": "Radiographer"
+    },
+    {
+      "definition": "(I) \"Mechanotherapist\" means an individual who holds a certificate issued under section 4731.15 of the Revised Code authorizing the individual to practice mechanotherapy.",
+      "id": "4773.01-mechanotherapist",
+      "normalized": "mechanotherapist",
+      "scope": "As used in this chapter:",
+      "section": "4773.01",
+      "source_title": "Section 4773.01 - Radiation technician definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4773.01",
+      "term": "Mechanotherapist"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "4731.15",
+      "number": "4731.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.15"
+    }
+  ],
+  "scraped": "2026-07-02T20:08:21+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4773.01",
+  "title": "Section 4773.01 - Radiation technician definitions."
+}

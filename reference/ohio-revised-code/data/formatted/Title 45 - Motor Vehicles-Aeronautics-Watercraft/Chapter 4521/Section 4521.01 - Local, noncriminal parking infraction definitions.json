@@ -1,0 +1,100 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Parking infraction\" means a violation of any ordinance, resolution, or regulation enacted by a local authority that regulates the standing or parking of vehicles and that is authorized pursuant to section 505.17 or 4511.07 of the Revised Code, or a violation of any ordinance, resolution, or regulation enacted by a local authority as authorized by this chapter, if the local authority in either of these cases also has enacted an ordinance, resolution, or regulation of the type described in division (A) of section 4521.02 of the Revised Code in relation to the particular regulatory ordinance, resolution, or regulation.",
+      "id": "4521.01-parking-infraction",
+      "normalized": "parking infraction",
+      "scope": "As used in this chapter:",
+      "section": "4521.01",
+      "source_title": "Section 4521.01 - Local, noncriminal parking infraction definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4521.01",
+      "term": "Parking infraction"
+    },
+    {
+      "definition": "(B) \"Vehicle\" has the same meaning as in section 4511.01 of the Revised Code.",
+      "id": "4521.01-vehicle",
+      "normalized": "vehicle",
+      "scope": "As used in this chapter:",
+      "section": "4521.01",
+      "source_title": "Section 4521.01 - Local, noncriminal parking infraction definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4521.01",
+      "term": "Vehicle"
+    },
+    {
+      "definition": "(C) \"Court\" means a municipal court, county court, juvenile court, or mayor's court, unless specifically identified as one of these courts, in which case it means the specifically identified court.",
+      "id": "4521.01-court",
+      "normalized": "court",
+      "scope": "As used in this chapter:",
+      "section": "4521.01",
+      "source_title": "Section 4521.01 - Local, noncriminal parking infraction definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4521.01",
+      "term": "Court"
+    },
+    {
+      "definition": "(D) \"Local authority\" means every county, municipal corporation, township, or other local board or body having authority to adopt police regulations pursuant to the constitution and laws of this state.",
+      "id": "4521.01-local-authority",
+      "normalized": "local authority",
+      "scope": "As used in this chapter:",
+      "section": "4521.01",
+      "source_title": "Section 4521.01 - Local, noncriminal parking infraction definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4521.01",
+      "term": "Local authority"
+    },
+    {
+      "definition": "(E) \"Accessible parking space\" means a motor vehicle parking location that is reserved for the exclusive standing or parking of a vehicle that is operated by or on behalf of a person with a disability that limits or impairs the ability to walk and displays a placard or license plates issued under section 4503.44 of the Revised Code.",
+      "id": "4521.01-accessible-parking-space",
+      "normalized": "accessible parking space",
+      "scope": "As used in this chapter:",
+      "section": "4521.01",
+      "source_title": "Section 4521.01 - Local, noncriminal parking infraction definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4521.01",
+      "term": "Accessible parking space"
+    },
+    {
+      "definition": "(F) \"Person with a disability that limits or impairs the ability to walk\" has the same meaning as in section 4503.44 of the Revised Code.\n\nLast updated March 10, 2023 at 12:37 PM",
+      "id": "4521.01-person-with-a-disability-that-limits-or-impairs-the-ability-to-walk",
+      "normalized": "person with a disability that limits or impairs the ability to walk",
+      "scope": "As used in this chapter:",
+      "section": "4521.01",
+      "source_title": "Section 4521.01 - Local, noncriminal parking infraction definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4521.01",
+      "term": "Person with a disability that limits or impairs the ability to walk"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "505.17",
+      "number": "505.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.17"
+    },
+    {
+      "kind": "section",
+      "label": "4511.07",
+      "number": "4511.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.07"
+    },
+    {
+      "kind": "section",
+      "label": "4521.02",
+      "number": "4521.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4521.02"
+    },
+    {
+      "kind": "section",
+      "label": "4511.01",
+      "number": "4511.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.01"
+    },
+    {
+      "kind": "section",
+      "label": "4503.44",
+      "number": "4503.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4503.44"
+    }
+  ],
+  "scraped": "2026-07-02T20:05:53+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4521.01",
+  "title": "Section 4521.01 - Local, noncriminal parking infraction definitions."
+}

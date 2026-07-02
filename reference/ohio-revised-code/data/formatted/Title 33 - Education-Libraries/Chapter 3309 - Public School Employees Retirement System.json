@@ -1,0 +1,951 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 3309.01 - Public school employees retirement system definitions.",
+      "number": "3309.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.011 - Exclusions from definition of employee.",
+      "number": "3309.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.011"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.012 - Board member to elect whether to become member of system.",
+      "number": "3309.012",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.012"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.013 - Exclusions from definition of employee under ORC section 3309.01.",
+      "number": "3309.013",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.013"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.02 - Credit for military service.",
+      "number": "3309.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.021 - Purchasing military service credit.",
+      "number": "3309.021",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.021"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.022 - Purchasing uniformed services credit.",
+      "number": "3309.022",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.022"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.03 - School employees retirement system - board.",
+      "number": "3309.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.031 - System consists of plans established by chapter.",
+      "number": "3309.031",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.031"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.04 - General administration and management vested in board.",
+      "number": "3309.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.041 - Travel expense policies - bonus policy - budget.",
+      "number": "3309.041",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.041"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.042 - Ethics policy - commission approval - ethics training.",
+      "number": "3309.042",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.042"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.043 - Chief investment officer - supervision duties - monitoring of securities transactions.",
+      "number": "3309.043",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.043"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.044 - Selection of internal auditor.",
+      "number": "3309.044",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.044"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.05 - Board membership.",
+      "number": "3309.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.051 - Orientation program required for new members - continuing education.",
+      "number": "3309.051",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.051"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.052 - Members with excessive travel expenses ineligible for another term.",
+      "number": "3309.052",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.052"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.06 - Board elections.",
+      "number": "3309.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.061 - Disqualification of convicted member - misconduct in office - removal procedure.",
+      "number": "3309.061",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.061"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.07 - Electing employee and retirant members.",
+      "number": "3309.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.071 - No election when only one nominee for employee or retirant member.",
+      "number": "3309.071",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.071"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.072 - Candidate campaign finance statements - donor statement of independent expenditures.",
+      "number": "3309.072",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.072"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.073 - Filing of statements - prohibited campaign activities.",
+      "number": "3309.073",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.073"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.074 - Complaint alleging violation of RC 3309.073 - procedure - fine.",
+      "number": "3309.074",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.074"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.075 - Adoption of election rules - certification of nominating petitions and election results.",
+      "number": "3309.075",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.075"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.08 - Oath of office.",
+      "number": "3309.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.09 - Quorum.",
+      "number": "3309.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.091 - Video conference meetings.",
+      "number": "3309.091",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.091"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.10 - Service on board; reimbursement for employer; expenses; liability insurance.",
+      "number": "3309.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.11 - Officers - executive director.",
+      "number": "3309.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.12 - Treasurer of state is custodian of funds.",
+      "number": "3309.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.13 - Legal adviser.",
+      "number": "3309.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.14 - Technical and administrative employees - retirement applications.",
+      "number": "3309.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.15 - Investment and fiduciary duties of board.",
+      "number": "3309.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.155 - Prohibited business transactions.",
+      "number": "3309.155",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.155"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.156 - Restrictions on fiduciaries.",
+      "number": "3309.156",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.156"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.157 - Designation of Ohio-qualified agents - selection policy - utilization - annual report.",
+      "number": "3309.157",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.157"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.158 - Annual disclosures to Ohio Ethics Commission.",
+      "number": "3309.158",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.158"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.159 - Designation of Ohio-qualified investment managers - utilization - annual report.",
+      "number": "3309.159",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.159"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.16 - Denomination or consolidation of bonds.",
+      "number": "3309.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.17 - Record of proceedings between board and taxing district.",
+      "number": "3309.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.18 - Interest credited annually.",
+      "number": "3309.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.19 - Trustee or employee of board shall have no interest in profits nor borrow funds.",
+      "number": "3309.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.20 - Maintenance of individual account.",
+      "number": "3309.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.21 - Actuarial valuation of pension assets, liabilities, and funding requirements.",
+      "number": "3309.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.211 - Amortizing unfunded actuarial accrued pension liability.",
+      "number": "3309.211",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.211"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.212 - Study to determine percentage of electing employee's compensation to be contributed by public institution of higher education.",
+      "number": "3309.212",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.212"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.22 - Annual statement of funds.",
+      "number": "3309.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.23 - Contributors to school employees retirement system.",
+      "number": "3309.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.24 - Members of local district pension system excluded from membership - membership by petition.",
+      "number": "3309.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.25 - Information to new employees.",
+      "number": "3309.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.251 - Electing defined benefit or defined contribution plan.",
+      "number": "3309.251",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.251"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.252 - Employee with less than 5 years of service electing to participate in defined contribution plan.",
+      "number": "3309.252",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.252"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.253 - Effect of electing defined contribution plan.",
+      "number": "3309.253",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.253"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.26 - Restoring service credit.",
+      "number": "3309.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.261 - Payroll deduction plans - restoring PERS or STERS credit.",
+      "number": "3309.261",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.261"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.262 - Proceedings on request for restoration of service credit.",
+      "number": "3309.262",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.262"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.27 - Payroll deduction plans.",
+      "number": "3309.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.28 - Statement to be filed by employee member.",
+      "number": "3309.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.29 - Verifying termination of active service.",
+      "number": "3309.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.30 - Service credit.",
+      "number": "3309.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.301 - Purchase of service credit for period of self-exemption.",
+      "number": "3309.301",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.301"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.31 - Credit for prior service - comparable public position.",
+      "number": "3309.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.311 - Purchasing credit for service as school board member.",
+      "number": "3309.311",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.311"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.312 - University of Akron law enforcement officers electing transfer to public employees retirement system.",
+      "number": "3309.312",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.312"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.32 - Prior service credit.",
+      "number": "3309.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.33 - Retirement incentive plan.",
+      "number": "3309.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.34 - Eligibility for service retirement.",
+      "number": "3309.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.341 - Employment of retirant.",
+      "number": "3309.341",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.341"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.343 - Continuing contributions to state system after retirement.",
+      "number": "3309.343",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.343"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.344 - Retirant may apply for monthly annuity or lump sum payment.",
+      "number": "3309.344",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.344"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.345 - Reemployed superannuate or rehire in position filled by vote of members of board or commission.",
+      "number": "3309.345",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.345"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.35 - Coordinating and integrating membership in state retirement systems.",
+      "number": "3309.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.353 - Increase in benefits established prior to 2/1/1983.",
+      "number": "3309.353",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.353"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.354 - Increase in benefits where eligibility established prior to 9-9-88.",
+      "number": "3309.354",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.354"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.36 - Allowances for service retirement.",
+      "number": "3309.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.361 - Annual lifetime benefit.",
+      "number": "3309.361",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.361"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.362 - Increase in annual amount of benefit effective 7-1-81.",
+      "number": "3309.362",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.362"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.363 - Contribution based benefit cap.",
+      "number": "3309.363",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.363"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.374 - Cost of living increase.",
+      "number": "3309.374",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.374"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.375 - Benefits equivalent to medicare.",
+      "number": "3309.375",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.375"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.376 - Additional monthly payment as of 12-31-71.",
+      "number": "3309.376",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.376"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.377 - Additional monthly payment where member died prior to 7-1-68.",
+      "number": "3309.377",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.377"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.378 - Additional monthly payment as of 12-19-73.",
+      "number": "3309.378",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.378"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.379 - Recalculating benefits.",
+      "number": "3309.379",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.379"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.3710 - Increase in monthly allowance, pension or benefit effective 7-1-81.",
+      "number": "3309.3710",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.3710"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.3711 - Increasing pension, benefit, or allowance when limits of 26 USC 415 are raised.",
+      "number": "3309.3711",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.3711"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.3712 - Establishing and maintaining qualified governmental excess benefit arrangement.",
+      "number": "3309.3712",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.3712"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.381 - Disability allowance recipient applying for service retirement.",
+      "number": "3309.381",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.381"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.39 - Providing disability coverage for on-duty illness or injury.",
+      "number": "3309.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.391 - Annual report disability retirement experience of each employer.",
+      "number": "3309.391",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.391"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.392 - Social security disability insurance benefits.",
+      "number": "3309.392",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.392"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.40 - Benefits upon disability retirement.",
+      "number": "3309.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.401 - Annual amount of disability allowance.",
+      "number": "3309.401",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.401"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.41 - Disability benefit recipient to retain membership status.",
+      "number": "3309.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.42 - Payment to member who ceases to be a public employee.",
+      "number": "3309.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.43 - Payments to members who are members of another state retirement system.",
+      "number": "3309.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.44 - Designation or qualification of beneficiaries.",
+      "number": "3309.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.45 - Beneficiary may substitute other benefits.",
+      "number": "3309.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.451 - Service credit purchased upon death of member.",
+      "number": "3309.451",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.451"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.46 - Electing a plan of payment.",
+      "number": "3309.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.47 - Contribution of contributor.",
+      "number": "3309.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.471 - Contributions during disability leave.",
+      "number": "3309.471",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.471"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.472 - Purchasing service credit for time spent on pregnancy.",
+      "number": "3309.472",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.472"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.473 - Purchasing service credit for time spent on pregnancy or adoption.",
+      "number": "3309.473",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.473"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.474 - Purchase of service credits for leaves of absence.",
+      "number": "3309.474",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.474"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.48 - Employer failing to deduct employee contribution.",
+      "number": "3309.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.49 - Employer contribution.",
+      "number": "3309.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.491 - Employer minimum compensation contribution.",
+      "number": "3309.491",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.491"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.50 - Payment of death benefit.",
+      "number": "3309.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.51 - Payment into employers' trust fund.",
+      "number": "3309.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.53 - Written statement to employee of duties and obligations.",
+      "number": "3309.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.55 - Notifying board of personnel changes.",
+      "number": "3309.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.56 - Deductions; report.",
+      "number": "3309.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.57 - Transmission of contributions.",
+      "number": "3309.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.571 - Penalties.",
+      "number": "3309.571",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.571"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.59 - Levying additional taxes.",
+      "number": "3309.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.60 - Creation of funds - trustees.",
+      "number": "3309.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.61 - Each fund is separate legal entity.",
+      "number": "3309.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.62 - Estimating expenses annually.",
+      "number": "3309.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.63 - Merger of local pension system with school employees retirement system - procedure.",
+      "number": "3309.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.64 - Payment of accrued liability - interest - rate.",
+      "number": "3309.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.65 - Procedure for transfer of moneys and securities in event of merger.",
+      "number": "3309.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.66 - Tax exemptions.",
+      "number": "3309.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.661 - Acquiring vested right in pension when granted.",
+      "number": "3309.661",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.661"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.662 - Waiver of rights.",
+      "number": "3309.662",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.662"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.663 - Payroll deduction of membership dues and fees of retiree organizations.",
+      "number": "3309.663",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.663"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.67 - Restitution order based on theft in office or certain sex offenses.",
+      "number": "3309.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.67"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.671 - Order for division of marital property.",
+      "number": "3309.671",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.671"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.672 - Forfeiture of retirement benefits under RC 2929.192.",
+      "number": "3309.672",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.672"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.673 - Benefits subject to termination.",
+      "number": "3309.673",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.673"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.68 - Payment of amounts due retirement system from treasury.",
+      "number": "3309.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.68"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.69 - Group health care coverage for eligible individuals or dependents.",
+      "number": "3309.69",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.69"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.691 - Establishing programs for long term health care insurance.",
+      "number": "3309.691",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.691"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.692 - Additional deposits to fund medical expenses.",
+      "number": "3309.692",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.692"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.70 - Recovering erroneous payments.",
+      "number": "3309.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.73 - Credit for service in uniform retirement system.",
+      "number": "3309.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.731 - Transferred service credit from uniform retirement system.",
+      "number": "3309.731",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.731"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.74 - Transferring service credit and contributions between SERS and Cincinnati retirement system.",
+      "number": "3309.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.74"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.75 - Eligibility for credit for service in Cincinnati retirement system.",
+      "number": "3309.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.76 - Transferring contributions to Cincinnati retirement system.",
+      "number": "3309.76",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.76"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.80 - Rules for defined contribution plans.",
+      "number": "3309.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.80"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.81 - Establishment and administration of defined contribution plan.",
+      "number": "3309.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.811 - Qualification of plan as governmental plan for federal tax purposes.",
+      "number": "3309.811",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.811"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.812 - Qualification of plan as retirement system maintained by a state or local government entity for federal tax purposes.",
+      "number": "3309.812",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.812"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.813 - Maintaining individual account for each participant.",
+      "number": "3309.813",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.813"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.82 - Application of chapter to defined contribution plan.",
+      "number": "3309.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.82"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.85 - Contributions of members.",
+      "number": "3309.85",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.85"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.86 - Contributions of employers.",
+      "number": "3309.86",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.86"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.87 - Deposit and crediting of contributions.",
+      "number": "3309.87",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.87"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.88 - Transfer of portion of employer contribution to employers' trust fund to mitigate negative financial impact on system.",
+      "number": "3309.88",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.88"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.91 - Member rights governed by plan selected.",
+      "number": "3309.91",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.91"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.92 - Spousal consent or waiver.",
+      "number": "3309.92",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.92"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.95 - Right to payment or benefit vested.",
+      "number": "3309.95",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.95"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.97 - Deposits of members.",
+      "number": "3309.97",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.97"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.98 - Ceasing contributions.",
+      "number": "3309.98",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.98"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3309.99 - Penalty.",
+      "number": "3309.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.99"
+    }
+  ],
+  "scraped": "2026-07-02T19:48:28+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-3309",
+  "title": "Chapter 3309 - Public School Employees Retirement System"
+}

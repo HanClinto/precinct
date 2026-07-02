@@ -1,0 +1,70 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Health benefit plan\" means a policy, contract, certificate, or agreement entered into, offered, or issued by an insurer to provide, deliver, arrange for, pay for, or reimburse any of the costs of health care services, including a vision or dental benefit plan. \"Health benefit plan\" does not include any of the following:\n\n(a) A plan of self-insurance;\n\n(b) Insurance arising out of workers' compensation;\n\n(c) Automobile medical payment insurance;\n\n(d) Insurance under which benefits are payable with or without regard to fault and which is statutorily required to be contained in any liability insurance policy or equivalent self-insurance;\n\n(e) A medicare supplement policy of insurance, as defined by the superintendent of insurance by rule;\n\n(f) Coverage under a plan through medicare, medicaid, or the federal employees benefit program;\n\n(g) Any coverage issued under Chapter 55 of Title 10 of the United States Code and any coverage issued as a supplement to that coverage.",
+      "id": "3901.411-health-benefit-plan",
+      "normalized": "health benefit plan",
+      "scope": "(A) As used in this section:",
+      "section": "3901.411",
+      "source_title": "Section 3901.411 - Electronic delivery of insurance documents.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3901.411",
+      "term": "Health benefit plan"
+    },
+    {
+      "definition": "(2) \"Health plan issuer\" means an entity subject to the insurance laws and rules of this state, or subject to the jurisdiction of the superintendent of insurance, that contracts, or offers to contract, to provide, deliver, arrange for, apply for, or reimburse any of the costs of health care services under a health benefit plan.",
+      "id": "3901.411-health-plan-issuer",
+      "normalized": "health plan issuer",
+      "scope": "(A) As used in this section:",
+      "section": "3901.411",
+      "source_title": "Section 3901.411 - Electronic delivery of insurance documents.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3901.411",
+      "term": "Health plan issuer"
+    },
+    {
+      "definition": "(3) \"Plan sponsor\" means a person, other than a health plan issuer, who establishes, adopts, or maintains a health benefit plan that covers residents of this state, including a plan established, adopted, or maintained by an employer or jointly by an employer and one or more employee organizations, an association, a committee, a joint board of trustees, or any similar group of representatives who establish, adopt, or maintain a plan.\n\n(B) The plan sponsor of a health benefit plan may, on behalf of individuals covered under the plan, provide consent to the transmission of all communications related to the plan by electronic means, as provided in section 3901.41 of the Revised Code, and to the electronic delivery of any health insurance identification card required by sections 1739.061 , 1751.111 , 3923.601 , and 3923.83 of the Revised Code.\n\n(C) Before consenting on behalf of covered individuals, a plan sponsor shall confirm that the primary covered individuals in question routinely use electronic communications during the normal course of employment.\n\n(D) Before providing delivery by electronic means to a group of covered individuals, the health plan issuer shall do both of the following:\n\n(1) Provide the covered individuals an opportunity to opt out of delivery by electronic means;\n\n(2) Document that the applicable requirements of section 3901.41 of the Revised Code have been met.\n\nLast updated September 23, 2024 at 10:24 AM",
+      "id": "3901.411-plan-sponsor",
+      "normalized": "plan sponsor",
+      "scope": "(A) As used in this section:",
+      "section": "3901.411",
+      "source_title": "Section 3901.411 - Electronic delivery of insurance documents.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3901.411",
+      "term": "Plan sponsor"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3901.41",
+      "number": "3901.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.41"
+    },
+    {
+      "kind": "section",
+      "label": "1739.061",
+      "number": "1739.061",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1739.061"
+    },
+    {
+      "kind": "section",
+      "label": "1751.111",
+      "number": "1751.111",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.111"
+    },
+    {
+      "kind": "section",
+      "label": "3923.601",
+      "number": "3923.601",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3923.601"
+    },
+    {
+      "kind": "section",
+      "label": "3923.83",
+      "number": "3923.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3923.83"
+    }
+  ],
+  "scraped": "2026-07-02T20:02:07+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3901.411",
+  "title": "Section 3901.411 - Electronic delivery of insurance documents."
+}

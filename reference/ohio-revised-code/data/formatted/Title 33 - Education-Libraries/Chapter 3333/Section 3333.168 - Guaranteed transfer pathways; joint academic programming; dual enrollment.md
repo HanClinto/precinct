@@ -1,0 +1,38 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3333.168
+Scraped: 2026-07-02T19:49:28+00:00
+
+# Section 3333.168 - Guaranteed transfer pathways; joint academic programming; dual enrollment.
+
+**Effective:** July 21, 2022
+
+**Latest Legislation:** Senate Bill 135 - 134th General Assembly
+
+(A) As used in this section:
+
+(1) "Community college" means a community college established under Chapter 3354., a technical college established under Chapter 3357., or a state community college established under Chapter 3358. of the Revised Code.
+
+(2) "Dual enrollment" means concurrent enrollment by an individual at both a state university and a community college.
+
+(3) "Guaranteed pathway" means an articulation or transfer agreement included in the initiative established under this section that a state university and community college enter into in accordance with the policies and procedures adopted under section 3333.16 of the Revised Code.
+
+(4) "Joint academic programming" means a structured pathway curriculum agreement that permits an individual to attain a specific degree that has been jointly developed by at least one community college and at least one state university.
+
+(5) "State university" has the same meaning as in section 3345.011 of the Revised Code.
+
+(B) Pursuant to section 3333.16 of the Revised Code, the chancellor of higher education shall establish the Ohio guaranteed transfer pathways initiative. Each state university shall participate in the initiative. Under the initiative, a student shall be permitted to do both of the following:
+
+(1) Complete an associate's degree at a community college and transfer those credits to a state university to continue making progress toward a bachelor's degree;
+
+(2) Transfer credits from a community college to a state university, regardless of the geographic proximity between the college and university.
+
+(C) Each state university shall enter into agreements with multiple community colleges to establish both joint academic programming and dual enrollment opportunities to assist students in completing their degrees in a timely and cost-effective manner.
+
+(D) Each community college and state university annually shall report to the Ohio articulation and transfer network oversight board established by the chancellor the number of guaranteed pathways and joint academic programming or dual enrollment opportunities the college or university offers. The oversight board shall compile that reported information and provide a summary of it to the chancellor. That summary shall include both of the following:
+
+(1) Confirmation that each community college and state university is in compliance with the requirements prescribed under this section;
+
+(2) Any recommendations necessary to enhance and strengthen the guaranteed pathways and joint academic programming or dual enrollment opportunities offered by community colleges and state universities.
+
+(E) The chancellor shall adopt rules to implement this section.
+
+Last updated April 27, 2022 at 5:12 PM

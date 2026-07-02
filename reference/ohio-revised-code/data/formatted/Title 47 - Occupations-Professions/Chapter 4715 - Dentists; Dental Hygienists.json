@@ -1,0 +1,603 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 4715.01 - Dentist - dental hygienist definitions.",
+      "number": "4715.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.02 - State dental board.",
+      "number": "4715.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.03 - Board organization - examinations.",
+      "number": "4715.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.031 - Development and implementation of quality intervention program.",
+      "number": "4715.031",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.031"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.032 - Supervision of investigations.",
+      "number": "4715.032",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.032"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.033 - Issuance of subpoenas.",
+      "number": "4715.033",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.033"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.034 - Authority to meet with individuals under investigation; recommendations.",
+      "number": "4715.034",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.034"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.035 - Calculation of time period for recommendation.",
+      "number": "4715.035",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.035"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.036 - Requests for copies of investigative items.",
+      "number": "4715.036",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.036"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.037 - Appointment of referees or examiners; terms.",
+      "number": "4715.037",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.037"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.038 - Conduct of hearing; findings.",
+      "number": "4715.038",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.038"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.039 - Oral arguments; final decision; appeal.",
+      "number": "4715.039",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.039"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.0310 - Notice of opportunity for hearing and name or referee or examiner as public record.",
+      "number": "4715.0310",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.0310"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.04 - Secretary's bond - depositing receipts.",
+      "number": "4715.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.05 - Prosecution - injunctive relief.",
+      "number": "4715.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.06 - Compensation and expenses of board.",
+      "number": "4715.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.07 - Affiliation with American Association of Dental Examiners.",
+      "number": "4715.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.08 - Official seal and records.",
+      "number": "4715.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.09 - Unlicensed practice prohibited.",
+      "number": "4715.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.10 - Application for license.",
+      "number": "4715.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.101 - License applicant to comply with RC Chapter 4776.",
+      "number": "4715.101",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.101"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.11 - Standards and examination.",
+      "number": "4715.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.12 - License - re-examination.",
+      "number": "4715.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.13 - Fees for licenses or permits.",
+      "number": "4715.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.14 - Registration - notice of change of address.",
+      "number": "4715.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.141 - Continuing education.",
+      "number": "4715.141",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.141"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.16 - Application for limited license.",
+      "number": "4715.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.17 - License to be displayed.",
+      "number": "4715.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.18 - Practice name.",
+      "number": "4715.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.19 - Employment of unlicensed dentist unlawful - misrepresentation, impersonation, or false application unlawful.",
+      "number": "4715.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.20 - Conditions to practice as dental hygienist.",
+      "number": "4715.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.21 - License application.",
+      "number": "4715.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.22 - Supervision of licensed dentist.",
+      "number": "4715.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.23 - Practice limitations.",
+      "number": "4715.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.231 - Administration of local anesthesia by dental hygienist.",
+      "number": "4715.231",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.231"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.24 - Registration - notice of change of address.",
+      "number": "4715.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.241 - Dental hygienist; Notice of temporary retirement.",
+      "number": "4715.241",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.241"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.242 - Reinstatement.",
+      "number": "4715.242",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.242"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.25 - Continuing education.",
+      "number": "4715.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.251 - Completion of basic life-support training course.",
+      "number": "4715.251",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.251"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.26 - Record of dental hygienists and location.",
+      "number": "4715.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.27 - Reciprocity.",
+      "number": "4715.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.271 - Dentist and Dental Hygienist Compact.",
+      "number": "4715.271",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.271"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.272 - Appointment of compact commissioner.",
+      "number": "4715.272",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.272"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.28 - Prohibited acts.",
+      "number": "4715.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.29 - Employment of dental hygienist.",
+      "number": "4715.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.30 - Disciplinary actions.",
+      "number": "4715.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.301 - Standards for approving and designating physicians and facilities as treatment providers for dentists or dental hygienists with substance abuse problems.",
+      "number": "4715.301",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.301"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.302 - Dentist's review of patient information available through drug database.",
+      "number": "4715.302",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.302"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.32 - Using diploma or license with intent to defraud.",
+      "number": "4715.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.33 - Students exempted.",
+      "number": "4715.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.34 - Provisions not applicable to physicians and surgeons - exception.",
+      "number": "4715.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.35 - Payment of fines and forfeitures.",
+      "number": "4715.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.36 - Definitions.",
+      "number": "4715.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.361 - Oral health access supervision program.",
+      "number": "4715.361",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.361"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.362 - Application for permit; Dentist.",
+      "number": "4715.362",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.362"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.363 - Application for permit; Dental hygienist.",
+      "number": "4715.363",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.363"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.364 - Permit required.",
+      "number": "4715.364",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.364"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.365 - Authority under permit.",
+      "number": "4715.365",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.365"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.366 - Compliance with protocols; Appointment with authorizing dentist.",
+      "number": "4715.366",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.366"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.367 - Maximum number of permittees under authorizing dentist.",
+      "number": "4715.367",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.367"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.368 - List of locations where services are provided.",
+      "number": "4715.368",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.368"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.369 - Expiration of oral health access supervision permit; Renewal.",
+      "number": "4715.369",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.369"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.37 - Expiration of permit to practice under dentist's supervision; Renewal.",
+      "number": "4715.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.371 - Directory of permit holders.",
+      "number": "4715.371",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.371"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.372 - Adoption of rules; Course standards.",
+      "number": "4715.372",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.372"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.373 - Authorized activities.",
+      "number": "4715.373",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.373"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.374 - Suspension or revocation of permit.",
+      "number": "4715.374",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.374"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.375 - Annual reports.",
+      "number": "4715.375",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.375"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.38 - Fees in excess of statutory amounts.",
+      "number": "4715.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.39 - Permitted duties.",
+      "number": "4715.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.40 - Effect of child support default on license.",
+      "number": "4715.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.41 - Compliance with law regarding sanctions for human trafficking.",
+      "number": "4715.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.42 - Volunteer's certificate.",
+      "number": "4715.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.43 - Teledentistry; definitions; permit.",
+      "number": "4715.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.431 - Scope of permit.",
+      "number": "4715.431",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.431"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.432 - Expiration; renewal.",
+      "number": "4715.432",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.432"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.433 - Suspension or revocation.",
+      "number": "4715.433",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.433"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.434 - List of locations.",
+      "number": "4715.434",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.434"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.435 - Authorized persons.",
+      "number": "4715.435",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.435"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.436 - Rules.",
+      "number": "4715.436",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.436"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.437 - Construction of teledentistry provisions.",
+      "number": "4715.437",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.437"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.438 - Laws and rules not altered by H.B. 122 of the 134th General Assembly.",
+      "number": "4715.438",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.438"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.51 - Dental x-ray machine operator definitions.",
+      "number": "4715.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.52 - Unlicensed practice.",
+      "number": "4715.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.53 - License qualifications.",
+      "number": "4715.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.56 - Dentist supervision of radiologic procedures.",
+      "number": "4715.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.57 - Continuing education accreditation.",
+      "number": "4715.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.61 - Registration as expanded function dental auxiliary required.",
+      "number": "4715.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.62 - Application to register as expanded function dental auxiliary.",
+      "number": "4715.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.63 - Expiration and renewal of expanded function dental auxiliary registration.",
+      "number": "4715.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.64 - Practice as expanded function dental auxiliary.",
+      "number": "4715.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.65 - Record of expanded function dental auxiliary registrants.",
+      "number": "4715.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.66 - Rules governing expanded function dental auxiliaries.",
+      "number": "4715.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.70 - Mobile dental facilities - definitions.",
+      "number": "4715.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.71 - Mobile dental facilities - information to patients.",
+      "number": "4715.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.72 - Mobile dental facilities - information to board and treatment venues.",
+      "number": "4715.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.73 - Mobile dental facilities - exceptions.",
+      "number": "4715.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4715.99 - Penalty.",
+      "number": "4715.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4715.99"
+    }
+  ],
+  "scraped": "2026-07-02T20:06:37+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-4715",
+  "title": "Chapter 4715 - Dentists; Dental Hygienists"
+}

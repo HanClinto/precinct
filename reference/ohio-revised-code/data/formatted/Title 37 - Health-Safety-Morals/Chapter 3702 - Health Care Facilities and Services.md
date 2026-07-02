@@ -1,0 +1,90 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-3702
+Scraped: 2026-07-02T19:50:55+00:00
+
+# Chapter 3702 - Health Care Facilities and Services
+
+## Sections
+
+- Section 3702.30 - Licensing of health care facilities.
+- Section 3702.301 - Licensing of freestanding birthing center - exemption.
+- Section 3702.302 - License renewal for uncertified ambulatory surgical facilities.
+- Section 3702.303 - Transfer agreements.
+- Section 3702.304 - Variances from written transfer agreements.
+- Section 3702.305 - Variance application physician attestation.
+- Section 3702.306 - Effective period for variances.
+- Section 3702.307 - Notifications to director.
+- Section 3702.308 - Severability.
+- Section 3702.309 - Suspension of ambulatory surgical license.
+- Section 3702.3010 - Maximum distance of local hospital from ambulatory surgical facility.
+- Section 3702.3011 - [Former R.C. 3702.305, renumbered by S.B. 157 of the 134th General Assembly, effective 3/23/2022] Conditions on variance.
+- Section 3702.3012 - Surgical smoke evacuation policy.
+- Section 3702.31 - Quality monitoring and inspection fund.
+- Section 3702.32 - Violations.
+- Section 3702.33 - Petition to enjoin unlicensed health care facility.
+- Section 3702.34 - Option of having a long-acting reversible contraceptive placed after delivery; exception.
+- Section 3702.40 - Mammogram report; dense breast tissue advisory.
+- Section 3702.51 - Certificate of need definitions.
+- Section 3702.511 - Reviewable activities relating to long-term care facilities.
+- Section 3702.512 - Addition of twenty or fewer long-term care beds not reviewable.
+- Section 3702.52 - Administering certificate of need program.
+- Section 3702.521 - Recategorize hospital beds to skilled nursing beds - placement in nursing home.
+- Section 3702.522 - Revision of application for certificate of need.
+- Section 3702.523 - Certificates not transferable prior to completion of review.
+- Section 3702.524 - Duties of certificate holder within 24 months of grant.
+- Section 3702.525 - Reasonable progress required.
+- Section 3702.526 - Acceptance of application for replacement certificate of need.
+- Section 3702.527 - Conversion of bed category.
+- Section 3702.53 - Prohibited acts.
+- Section 3702.531 - Investigations.
+- Section 3702.532 - Notice of violation.
+- Section 3702.54 - Civil penalty.
+- Section 3702.544 - Penalties paid to director.
+- Section 3702.55 - Additional penalties for continuing violations.
+- Section 3702.56 - Payment for activity conducted in violation.
+- Section 3702.57 - Rules for certificate of need.
+- Section 3702.59 - Review of certificate of need applications.
+- Section 3702.592 - Certificate of need for long-term care facility beds; Replacement or relocation within county.
+- Section 3702.593 - Certificate of need for long-term care facility beds; Replacement or relocation to county with fewer long-term care beds than needed.
+- Section 3702.594 - Certificate of need for long-term care facility beds; existing long-term care facility.
+- Section 3702.60 - Appeals.
+- Section 3702.61 - Injunction.
+- Section 3702.62 - Applicability of other statutes.
+- Section 3702.71 - Physician loan repayment program definitions.
+- Section 3702.72 - Applying for participation in program.
+- Section 3702.73 - Approving application.
+- Section 3702.74 - Contract for participation.
+- Section 3702.75 - Physician loan repayment program.
+- Section 3702.76 - Health resource shortage areas.
+- Section 3702.77 - Establishing priorities among health resource shortage areas for use in recruiting primary care physicians.
+- Section 3702.78 - Health resource shortage area fund - physician loan repayment fund - administration.
+- Section 3702.79 - Adoption of rules.
+- Section 3702.83 - J-1 visa waiver program.
+- Section 3702.85 - Dentist loan repayment program.
+- Section 3702.86 - Administrative rules.
+- Section 3702.87 - Dental health resource shortage areas.
+- Section 3702.88 - Priorities among dental health resource shortage areas.
+- Section 3702.89 - Application for participation in the dentist loan repayment program.
+- Section 3702.90 - Application approval process.
+- Section 3702.91 - Letter of intent - contract.
+- Section 3702.92 - Dentist loan repayment advisory board.
+- Section 3702.94 - Annual report to general assembly.
+- Section 3702.95 - Gifts for implementation and administration of program.
+- Section 3702.96 - Dental hygienist loan repayment program.
+- Section 3702.961 - Adoption of rules.
+- Section 3702.962 - Establishment of priorities among dental health resource shortage areas.
+- Section 3702.963 - Participation in program.
+- Section 3702.964 - Determination of eligibility.
+- Section 3702.965 - Contracts.
+- Section 3702.966 - Annual report.
+- Section 3702.967 - Gifts.
+- Section 3702.98 - Chiropractic loan repayment program.
+- Section 3702.981 - Chiropractic loan repayment program - rules.
+- Section 3702.982 - Chiropractic health resource shortage areas.
+- Section 3702.983 - Priorities among chiropractic health resource shortage areas.
+- Section 3702.984 - Chiropractic loan repayment program - application.
+- Section 3702.985 - Chiropractic loan repayment program - approval to participate.
+- Section 3702.986 - Chiropractic loan repayment program - contract.
+- Section 3702.987 - Chiropractic loan repayment advisory board.
+- Section 3702.988 - Chiropractic loan repayment program - repayment amounts.
+- Section 3702.989 - Chiropractic loan repayment program - annual report.
+- Section 3702.9810 - Chiropractic loan repayment fund, chiropractic heath resource shortage area fund.

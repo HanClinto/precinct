@@ -1,0 +1,102 @@
+{
+  "glossary": [
+    {
+      "definition": "(2)(a) \"Subdivision\" has the same meaning as in section 135.01 of the Revised Code, but also includes a county, a municipal corporation that has adopted a charter under Article XVIII, Ohio Constitution, or any government entity for which the fund is a permissible investment.",
+      "id": "135.45-subdivision",
+      "normalized": "subdivision",
+      "scope": "(G) As used in this section:",
+      "section": "135.45",
+      "source_title": "Section 135.45 - State treasurer's investment pool.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-135.45",
+      "term": "Subdivision"
+    },
+    {
+      "definition": "(b) \"Public moneys of a subdivision\" has the same meaning as in section 135.01 of the Revised Code, but also includes \"public moneys\" as defined in section 135.31 of the Revised Code, and funds held in the custody of the treasurer of state notwithstanding any limitations on the permissible investments of such funds.",
+      "id": "135.45-public-moneys-of-a-subdivision",
+      "normalized": "public moneys of a subdivision",
+      "scope": "(G) As used in this section:",
+      "section": "135.45",
+      "source_title": "Section 135.45 - State treasurer's investment pool.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-135.45",
+      "term": "Public moneys of a subdivision"
+    },
+    {
+      "definition": "(3) \"Treasurer\" has the same meaning as in sections 135.01 and 135.31 of the Revised Code.",
+      "id": "135.45-treasurer",
+      "normalized": "treasurer",
+      "scope": "(G) As used in this section:",
+      "section": "135.45",
+      "source_title": "Section 135.45 - State treasurer's investment pool.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-135.45",
+      "term": "Treasurer"
+    },
+    {
+      "definition": "(4) \"Investing authority\" has the same meaning as in section 135.31 of the Revised Code.",
+      "id": "135.45-investing-authority",
+      "normalized": "investing authority",
+      "scope": "(G) As used in this section:",
+      "section": "135.45",
+      "source_title": "Section 135.45 - State treasurer's investment pool.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-135.45",
+      "term": "Investing authority"
+    },
+    {
+      "definition": "(5) \"Excess reserves\" means the amount of a subdivision's public moneys that exceed the average of a subdivision's annual operating expenses in the immediately preceding three fiscal years.\n\nLast updated February 7, 2024 at 10:19 AM",
+      "id": "135.45-excess-reserves",
+      "normalized": "excess reserves",
+      "scope": "(G) As used in this section:",
+      "section": "135.45",
+      "source_title": "Section 135.45 - State treasurer's investment pool.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-135.45",
+      "term": "Excess reserves"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "135.61",
+      "number": "135.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.61"
+    },
+    {
+      "kind": "section",
+      "label": "135.14",
+      "number": "135.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.14"
+    },
+    {
+      "kind": "section",
+      "label": "135.35",
+      "number": "135.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.35"
+    },
+    {
+      "kind": "section",
+      "label": "135.143",
+      "number": "135.143",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.143"
+    },
+    {
+      "kind": "section",
+      "label": "135.19",
+      "number": "135.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.19"
+    },
+    {
+      "kind": "section",
+      "label": "135.01",
+      "number": "135.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.01"
+    },
+    {
+      "kind": "section",
+      "label": "135.31",
+      "number": "135.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.31"
+    }
+  ],
+  "scraped": "2026-07-02T19:31:50+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-135.45",
+  "title": "Section 135.45 - State treasurer's investment pool."
+}

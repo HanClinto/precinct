@@ -1,0 +1,62 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3313.813
+Scraped: 2026-07-02T19:48:39+00:00
+
+# Section 3313.813 - Food programs - outdoor education centers.
+
+**Effective:** October 3, 2023
+
+**Latest Legislation:** House Bill 33 - 135th General Assembly
+
+(A) As used in this section:
+
+(1) "Outdoor education center" means a public or nonprofit private entity that provides to pupils enrolled in any public or chartered nonpublic elementary or secondary school an outdoor educational curriculum that the school considers to be part of its educational program.
+
+(2) "Outside-school-hours care center" has the meaning established in 7 C.F.R. 226.2.
+
+(B) The department of education and workforce shall establish standards for a school lunch program, school breakfast program, child and adult care food program, special food service program for children, summer food service program for children, special milk program for children, food service equipment assistance program, and commodity distribution program established under the "National School Lunch Act," 60 Stat. 230 (1946), 42 U.S.C. 1751, as amended, and the "Child Nutrition Act of 1966," 80 Stat. 885, 42 U.S.C. 1771, as amended. Any board of education of a school district, nonprofit private school, outdoor education center, child care institution, outside-school-hours care center, or summer camp desiring to participate in such a program or required to participate under this section shall, if eligible to participate under the "National School Lunch Act," as amended, or the "Child Nutrition Act of 1966," as amended, make application to the department for assistance. The board shall administer the allocation and distribution of all state and federal funds for these programs.
+
+(C) The department shall require the board of education of each school district to establish and maintain a school breakfast, lunch, and summer food service program pursuant to the "National School Lunch Act" and the "Child Nutrition Act of 1966," as described in divisions (C)(1) to (4) of this section.
+
+(1) The department shall require the board of education in each school district to establish a breakfast program in every school where at least one-fifth of the pupils in the school are eligible under federal requirements for free breakfasts and to establish a lunch program in every school where at least one-fifth of the pupils are eligible for free lunches. The board of education required to establish a breakfast program under this division may make a charge in accordance with federal requirements for each reduced price breakfast or paid breakfast to cover the cost incurred in providing that meal.
+
+(2) The department shall require the board of education in each school district to establish a breakfast program in every school in which the parents of at least one-half of the children enrolled in the school have requested that the breakfast program be established. The board of education required to establish a program under this division may make a charge in accordance with federal requirements for each meal to cover all or part of the costs incurred in establishing such a program.
+
+A breakfast program established under division (C)(1) or (2) of this section shall be operated in accordance with section 3313.818 of the Revised Code in any school meeting the conditions prescribed by that section.
+
+(3) The department shall require the board of education in each school district to establish one of the following for summer intervention services described in division (D) of section 3301.0711 or provided under section 3313.608 of the Revised Code, and any other summer intervention program required by law:
+
+(a) An extension of the school breakfast program pursuant to the "National School Lunch Act" and the "Child Nutrition Act of 1966";
+
+(b) An extension of the school lunch program pursuant to those acts;
+
+(c) A summer food service program pursuant to those acts.
+
+(4)(a) If the board of education of a school district determines that, for financial reasons, it cannot comply with division (C)(1) or (3) of this section, the district board may choose not to comply with either or both divisions, except as provided in divisions (C)(4)(b) and (c) of this section. The district board publicly shall communicate to the residents of the district, in the manner it determines appropriate, its decision not to comply.
+
+(b) If a district board chooses not to comply with division (C)(1) of this section, the department nevertheless shall require the district board to establish a breakfast program in every school where at least one-third of the pupils in the school are eligible under federal requirements for free breakfasts and to establish a lunch program in every school where at least one-third of the pupils are eligible for free lunches. The district board may make a charge in accordance with federal requirements for each reduced price breakfast or paid breakfast to cover the cost incurred in providing that meal.
+
+(c) If the board of education of a school district chooses not to comply with division (C)(3) of this section, the department nevertheless shall require the district board to permit an approved summer food service program sponsor to use school facilities located in a school building attendance area where at least one-half of the pupils are eligible for free lunches.
+
+The department shall post in a prominent location on the department's web site a list of approved summer food service program sponsors that may use school facilities under this division.
+
+Subject to the provisions of sections 3313.75 and 3313.77 of the Revised Code, a school district may charge the summer food service program sponsor a reasonable fee for the use of school facilities that may include the actual cost of custodial services, charges for the use of school equipment, and a prorated share of the utility costs as determined by the district board. A school district shall require the summer food service program sponsor to indemnify and hold harmless the district from any potential liability resulting from the operation of the summer food service program under this division. For this purpose, the district shall either add the summer food service program sponsor, as an additional insured party, to the district's existing liability insurance policy or require the summer food service program sponsor to submit evidence of a separate liability insurance policy, for an amount approved by the district board. The summer food service program sponsor shall be responsible for any costs incurred in obtaining coverage under either option.
+
+(d) If a school district cannot for good cause comply with the requirements of division (C)(2) or (4)(b) or (c) of this section at the time the department determines that a district is subject to these requirements, the department shall grant a reasonable extension of time. Good cause for an extension of time shall include, but need not be limited to, economic impossibility of compliance with the requirements at the time the department determines that a district is subject to them.
+
+(D)(1) The department shall accept the application of any outdoor education center in the state making application for participation in a program pursuant to division (B) of this section.
+
+(2) For purposes of participation in any program pursuant to this section, the board shall certify any outdoor education center making application as an educational unit that is part of the educational system of the state, if the center:
+
+(a) Meets the definition of an outdoor education center;
+
+(b) Provides its outdoor education curriculum to pupils on an overnight basis so that pupils are in residence at the center for more than twenty-four consecutive hours;
+
+(c) Operates under public or nonprofit private ownership in a single building or complex of buildings.
+
+(3) The board shall approve any outdoor education center certified under this division for participation in the program for which the center is making application on the same basis as any other applicant for that program.
+
+(E) Any school district board of education or chartered nonpublic school that participates in a breakfast program pursuant to this section may offer breakfast to pupils in their classrooms during the school day. However, any school that is subject to section 3313.818 of the Revised Code shall offer breakfast to pupils in accordance with that section.
+
+(F) Notwithstanding anything in this section to the contrary, in each fiscal year in which the general assembly appropriates funds for purposes of this division, the board of education of each school district and each chartered nonpublic school that participates in a breakfast program pursuant to this section shall provide a breakfast free of charge to each pupil who is eligible under federal requirements for a reduced price breakfast.
+
+Last updated July 31, 2023 at 4:38 PM

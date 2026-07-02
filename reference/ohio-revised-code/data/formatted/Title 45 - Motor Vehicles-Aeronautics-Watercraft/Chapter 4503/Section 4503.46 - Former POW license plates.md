@@ -1,0 +1,24 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4503.46
+Scraped: 2026-07-02T20:05:19+00:00
+
+# Section 4503.46 - Former POW license plates.
+
+**Effective:** September 17, 2010
+
+**Latest Legislation:** House Bill 449 - 128th General Assembly
+
+(A) For the purposes of this section, "prisoner of war" means any regularly appointed, enrolled, enlisted, or inducted member of the military forces of the United States who was captured, separated, and incarcerated by an enemy of the United States at any time, and any regularly appointed, enrolled, or enlisted member of the military forces of Great Britain, France, any of the countries that comprised the former Union of Soviet Socialist Republics, Australia, Belgium, Brazil, Canada, China, Denmark, Greece, the Netherlands, New Zealand, Norway, Poland, South Africa, or any of the countries that comprised the former Yugoslavia who was a citizen of the United States at the time of such appointment, enrollment, or enlistment, and was captured, separated, and incarcerated by an enemy of this country during World War II.
+
+(B) Any person who has been a prisoner of war, or the spouse of such person, may apply to the registrar of motor vehicles for the registration of one passenger car, noncommercial motor vehicle, or other vehicle of a class approved by the registrar the person or spouse owns or leases. The application shall be accompanied by written evidence in the form of a record of separation, a letter from one of the armed forces of the United States or other country as provided in division (A) of this section, or other evidence as the registrar may require by rule, that the applicant or the applicant's spouse was a prisoner of war and was honorably discharged or is presently residing in this state on active duty with one of the branches of the armed forces of the United States, or was a prisoner of war and was honorably discharged or received an equivalent discharge or release from one of the armed forces of such other country. No person is eligible to receive special license plates under this section if the person or the person's spouse currently has registered one vehicle and obtained license plates under this section.
+
+Upon receipt of an application for registration of a motor vehicle under this section, and presentation of satisfactory evidence of such prisoner-of-war status, the registrar shall issue to the applicant the appropriate vehicle registration and a set of license plates. In addition to the letters and numbers ordinarily inscribed thereon, the license plates shall be inscribed with the words "FORMER POW." The license plates shall be issued without payment of any registration fee or service fee as required by division (B) of section 4503.04 and sections 4503.10 and 4503.102 of the Revised Code, and without payment of any applicable county, township, or municipal motor vehicle tax levied under Chapter 4504. of the Revised Code.
+
+(C) The spouse of a deceased former prisoner of war, if the deceased person received or was eligible to receive special license plates issued under division (B) of this section, may apply to the registrar for the registration of the spouse's personal motor vehicle without the payment of any fee or tax as provided by division (B) of this section. The application for registration shall be accompanied by documentary evidence of the deceased person's status as a former prisoner of war and by any other evidence that the registrar requires by rule.
+
+Upon receipt of an application for registration under this division and presentation of satisfactory evidence as required by this division and by the registrar, the registrar shall issue to the spouse the appropriate vehicle registration and a set of license plates as provided in division (B) of this section.
+
+(D) No person who is not a former prisoner of war or the spouse of such person shall willfully and falsely represent that the person is such a former prisoner of war or spouse, for the purpose of obtaining license plates under this section.
+
+(E) No person shall own or lease a motor vehicle bearing license plates issued under this section unless the person is eligible to be issued the license plates.
+
+(F) Whoever violates this section is guilty of a misdemeanor of the fourth degree.

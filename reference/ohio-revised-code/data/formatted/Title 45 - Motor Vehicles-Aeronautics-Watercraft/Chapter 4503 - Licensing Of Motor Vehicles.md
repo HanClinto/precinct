@@ -1,0 +1,338 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-4503
+Scraped: 2026-07-02T20:05:19+00:00
+
+# Chapter 4503 - Licensing Of Motor Vehicles
+
+## Sections
+
+- Section 4503.01 - Motor vehicle defined.
+- Section 4503.02 - Levy of annual license tax.
+- Section 4503.03 - Deputy registrars.
+- Section 4503.031 - Office space for carrying out deputy registrars' duties.
+- Section 4503.032 - Political contributions.
+- Section 4503.033 - Deputy registrar to file annual statement - contents of statement.
+- Section 4503.034 - Statewide satisfaction rate.
+- Section 4503.035 - Electronic motor vehicle dealers.
+- Section 4503.036 - Limited authority deputy registrars.
+- Section 4503.037 - Allocation of motor vehicle-related duties between county auditor and clerk of court of common pleas.
+- Section 4503.038 - Adoption of rules regarding service fees.
+- Section 4503.04 - Schedule of rates.
+- Section 4503.041 - Weight of trailer used exclusively for noncommercial purposes.
+- Section 4503.042 - Rates for vehicles not subject to apportioned rates under international registration plan.
+- Section 4503.05 - Noncommercial motor vehicle use restriction.
+- Section 4503.06 - Manufactured or mobile home tax.
+- Section 4503.061 - Registration of manufactured and mobile homes in county of situs.
+- Section 4503.062 - Register of all manufactured and mobile homes.
+- Section 4503.063 - Appointment of deputies of auditor and treasurer.
+- Section 4503.064 - Homestead exemption definitions.
+- Section 4503.065 - Qualification for reduction in assessable value.
+- Section 4503.066 - Applying for reduction.
+- Section 4503.067 - Certificate of reduction in assessable value.
+- Section 4503.068 - Reimbursing county for reduction.
+- Section 4503.069 - Employees to carry out reduction process.
+- Section 4503.0610 - Partial real property tax exemption.
+- Section 4503.0611 - Refund or waiver of taxes on injured or destroyed manufactured home.
+- Section 4503.07 - Church bus registration fee.
+- Section 4503.08 - Determination of weight and horsepower.
+- Section 4503.09 - Tax on manufacturer, dealer, or distributor of motor vehicles.
+- Section 4503.10 - Application for registration or renewal - transmission of fees - inspection certificates.
+- Section 4503.101 - Establishing system of motor vehicle registration.
+- Section 4503.102 - Centralized system of motor vehicle registration.
+- Section 4503.103 - Multi-year registration.
+- Section 4503.104 - Contribution to save our sight fund.
+- Section 4503.105 - Vehicle renting dealer's fee to recover title and registration costs.
+- Section 4503.106 - Charging of fees by person other than registrar.
+- Section 4503.107 - Noncommercial trailer permanent registration.
+- Section 4503.11 - Owner required to file application - taxes.
+- Section 4503.111 - Registration within thirty days of residency.
+- Section 4503.12 - Transfer of ownership and registration.
+- Section 4503.13 - Report of outstanding municipal, county, or mayor's court arrest warrants.
+- Section 4503.14 - License plates with radio or television call letters.
+- Section 4503.15 - License plates for physicians.
+- Section 4503.16 - State and federal vehicle registration.
+- Section 4503.17 - Exemption of board of education school buses and post-office department vehicles from annual license tax.
+- Section 4503.171 - Exemption of Ohio wing, civil air patrol vehicles used for official business.
+- Section 4503.172 - Exemption of volunteer rescue service vehicles from fees or taxes.
+- Section 4503.173 - Exemption of boat trailers owned by disabled veterans, certain military honorees or former prisoners of war.
+- Section 4503.18 - Special license issued.
+- Section 4503.181 - Historical motor vehicles.
+- Section 4503.182 - Temporary motor vehicle license registration.
+- Section 4503.183 - Replica motor vehicle registration.
+- Section 4503.19 - Issuance of certificates of registration and license plates or validation stickers.
+- Section 4503.191 - Issuance of license plates and validation stickers - production by Ohio penal industries.
+- Section 4503.192 - Retention of personalized license plate letters and numbers.
+- Section 4503.193 - Reference to license or registration plates or validation stickers.
+- Section 4503.20 - Application for registration to contain statement regarding proof of financial responsibility.
+- Section 4503.21 - Display of license plates and validation stickers or temporary license registration.
+- Section 4503.211 - Rental vehicle operator exemption.
+- Section 4503.22 - Specifications for license plates.
+- Section 4503.23 - Special license plates for state owned motor vehicles.
+- Section 4503.231 - Unique license plates for motor vehicles whose standard plates have been impounded.
+- Section 4503.232 - Registrar may destroy suspended or impounded license plates.
+- Section 4503.233 - Immobilization orders.
+- Section 4503.234 - Order of criminal forfeiture of vehicle.
+- Section 4503.235 - Vehicle immobilization waiver order - terms.
+- Section 4503.236 - Forfeiture for violation of immobilization order.
+- Section 4503.24 - Registration and licensing of chauffeured limousines - livery license plate sticker.
+- Section 4503.25 - Index of licenses issued.
+- Section 4503.26 - Lists of registration information - acceptance of bids for preparation.
+- Section 4503.27 - Registration requirements for manufacturers, dealers and distributors.
+- Section 4503.271 - Operation of new vehicle without plate or placard after railroad car accident.
+- Section 4503.28 - Manufacturer, dealer or distributor required to file application for registration.
+- Section 4503.29 - Program to establish and issue specialty license plates recognizing military service and military honors.
+- Section 4503.30 - Display of placards issued to manufacturers, dealers or distributors.
+- Section 4503.301 - Commercial car demonstration placards.
+- Section 4503.31 - Annual registration by persons other than manufacturers, dealers, or distributors - use of placards.
+- Section 4503.311 - Manufacturer or dealer of watercraft trailers - annual registration.
+- Section 4503.312 - Manufacturer or distributor of utility trailers or trailers for transporting vehicles - annual registration.
+- Section 4503.32 - Unauthorized use of placard.
+- Section 4503.33 - In transit permits required.
+- Section 4503.34 - Drive-away operator required to file application.
+- Section 4503.35 - Certain motor vehicles exempted.
+- Section 4503.37 - Certificate of reciprocity - exemption from requirements.
+- Section 4503.38 - Exemption for foreign trailers.
+- Section 4503.39 - Blocking registration of vehicle lessees with outstanding fines or costs.
+- Section 4503.40 - Special state reserved license plate numbers and validation stickers - fee.
+- Section 4503.41 - Disabled veterans license plates.
+- Section 4503.42 - Special reserved license plate numbers containing more than three letters or numerals - fee.
+- Section 4503.43 - Congressional Medal of Honor license plates.
+- Section 4503.435 - Line of duty sacrifice license plates.
+- Section 4503.44 - Windshield placards, license plates, parking cards for persons with disabilities; registration of altered vehicles.
+- Section 4503.45 - Collector's vehicle license.
+- Section 4503.46 - Former POW license plates.
+- Section 4503.47 - Volunteer firefighter license plates.
+- Section 4503.471 - International association of firefighters license plates.
+- Section 4503.49 - Registration of emergency medical service organization vehicles.
+- Section 4503.491 - Breast cancer awareness license plates.
+- Section 4503.492 - Ovarian cancer awareness license plates.
+- Section 4503.493 - Autism awareness license plates.
+- Section 4503.494 - Multiple sclerosis awareness license plates.
+- Section 4503.495 - Pancreatic Cancer Awareness license plates.
+- Section 4503.496 - Sickle cell anemia awareness license plates.
+- Section 4503.497 - Conquer childhood cancer.
+- Section 4503.498 - Special olympics license plates.
+- Section 4503.499 - Pediatric brain tumor awareness license plates.
+- Section 4503.4910 - KylerStrong Foundation plates.
+- Section 4503.4911 - Gold Ribbon Awareness plates.
+- Section 4503.4912 - Continue Your Story license plates.
+- Section 4503.50 - Future farmers of America license plates.
+- Section 4503.501 - 4-H license plates.
+- Section 4503.502 - Ohio cattlemen's foundation beef license plates.
+- Section 4503.503 - Ohio agriculture license plates.
+- Section 4503.504 - Ohio sustainable agriculture license plates.
+- Section 4503.505 - Phi Theta Kappa license plates.
+- Section 4503.506 - Ohio DeMolay license plates.
+- Section 4503.507 - Ohio aerospace institute license plates.
+- Section 4503.508 - Bottoms up diaper drive license plates.
+- Section 4503.509 - A kid again license plates.
+- Section 4503.51 - Collegiate license plates.
+- Section 4503.512 - Iota Phi Theta license plates.
+- Section 4503.513 - Historically black fraternity-sorority license plates.
+- Section 4503.514 - University of Notre Dame license plates.
+- Section 4503.516 - Marshall university license plates.
+- Section 4503.517 - University of Alabama license plates.
+- Section 4503.518 - On our sleeves license plates.
+- Section 4503.519 - "Recovery is Beautiful" license plates.
+- Section 4503.52 - Lake Erie license plates.
+- Section 4503.520 - Purdue University license plates.
+- Section 4503.521 - Share the road license plates.
+- Section 4503.522 - Perry's monument license plates.
+- Section 4503.523 - Fairport harbor breakwall lighthouse license plates.
+- Section 4503.524 - Massillon tiger football booster club license plates.
+- Section 4503.525 - Power squadron license plates.
+- Section 4503.526 - Kiwanis club license plates.
+- Section 4503.527 - "Ohio Statehouse" license plates.
+- Section 4503.528 - Ohio Association of Child Caring Agencies license plates.
+- Section 4503.529 - Ohio Nurses Association license plates.
+- Section 4503.53 - Ohio carpenters license plates.
+- Section 4503.531 - Thank you U.S. military license plates.
+- Section 4503.532 - Paul Laurence Dunbar license plates.
+- Section 4503.533 - Ohio Conference of Teamsters license plates.
+- Section 4503.534 - Disabled American veteran license plates.
+- Section 4503.535 - POW/MIA awareness license plates.
+- Section 4503.536 - Save a Warrior license plates.
+- Section 4503.541 - "Dolly Parton's Imagination Library" license plates.
+- Section 4503.542 - Ohio Craft Brewers license plates.
+- Section 4503.545 - National rifle association foundation license plates.
+- Section 4503.546 - Gold Star Family license plates.
+- Section 4503.547 - Blue Star Banner license plates.
+- Section 4503.549 - "Military Sacrifice" license plates.
+- Section 4503.55 - Pro football hall of fame license plates.
+- Section 4503.551 - Pets license plates.
+- Section 4503.552 - Rock and roll hall of fame license plates.
+- Section 4503.553 - Ohio's horse license plates.
+- Section 4503.554 - Knights of Columbus license plates.
+- Section 4503.555 - Street rod license plates.
+- Section 4503.556 - Triple negative breast cancer awareness.
+- Section 4503.557 - Ronald McDonald house charities license plates.
+- Section 4503.558 - Stop elder abuse license plates.
+- Section 4503.559 - "Playhouse Square" license plates.
+- Section 4503.56 - Scenic rivers license plates.
+- Section 4503.561 - Ducks unlimited license plates.
+- Section 4503.562 - Mahoning river license plates.
+- Section 4503.563 - Ohio nature preserves license plates.
+- Section 4503.564 - Glen Helen nature preserve license plates.
+- Section 4503.565 - Cuyahoga Valley National Park license plates.
+- Section 4503.566 - Ottawa National Wildlife Refuge plates.
+- Section 4503.567 - "Girls on the Run" license plates.
+- Section 4503.568 - Ohio bullfrog license plates.
+- Section 4503.569 - Ohio bird sanctuary license plates.
+- Section 4503.57 - Wildlife conservation plates.
+- Section 4503.571 - Purple heart license plates.
+- Section 4503.572 - Bald eagle license plates.
+- Section 4503.573 - Sportsmen's license plates.
+- Section 4503.574 - Smokey Bear license plates.
+- Section 4503.575 - Ohio state parks license plates.
+- Section 4503.576 - Ohio state beekeepers association license.
+- Section 4503.577 - National Aviation Hall of Fame license plates.
+- Section 4503.578 - Keep Ohio beautiful license plates.
+- Section 4503.579 - National council of Negro women license plates.
+- Section 4503.58 - Marine corps league license plates.
+- Section 4503.581 - Ohio sons of the American legion license plates.
+- Section 4503.582 - P.A.W.S. license plates.
+- Section 4503.583 - American Legion license plates.
+- Section 4503.584 - Ohio oil and gas energy education program license plates.
+- Section 4503.585 - Terrace Park license plates.
+- Section 4503.586 - Ohio Mountain Bike Alliance license plate.
+- Section 4503.587 - NASA Glenn Research Center license plates.
+- Section 4503.588 - Ohio State Grange license plates.
+- Section 4503.591 - Professional sports team license plates.
+- Section 4503.592 - Monarch Butterfly license plates.
+- Section 4503.593 - Post-Traumatic Stress plates.
+- Section 4503.594 - Pelotonia plates.
+- Section 4503.595 - "Stan Hywet Hall and Gardens" license plates.
+- Section 4503.596 - Cuyahoga valley scenic railroad license plates.
+- Section 4503.597 - Circleville pumpkin show license plates.
+- Section 4503.598 - Jackson Local Schools license plates.
+- Section 4503.60 - International registration plan definitions.
+- Section 4503.61 - Duties of registrar as to international registration plan.
+- Section 4503.62 - Application for registration of apportionable vehicle; Internet registration.
+- Section 4503.63 - Calculation of proportionate registration taxes due - registrar to notify other declared jurisdictions.
+- Section 4503.64 - Issuance of license plate and registration card.
+- Section 4503.641 - Temporary registration of apportioned motor vehicle.
+- Section 4503.642 - Performance registration and information systems management program.
+- Section 4503.65 - Rates for commercial cars and buses subject to apportioned rates under the international registration plan.
+- Section 4503.66 - Rules.
+- Section 4503.67 - Boy scouts logo license plates.
+- Section 4503.68 - Girl scouts logo license plates.
+- Section 4503.69 - Eagle scouts logo license plates.
+- Section 4503.70 - Freemason license plates.
+- Section 4503.701 - Prince Hall freemason license plates.
+- Section 4503.702 - Improved Benevolent and Protective Order of Elks of the World license plates.
+- Section 4503.703 - Loyal order of the moose license plates.
+- Section 4503.704 - Shriners license plates.
+- Section 4503.71 - Fraternal order of police license plates.
+- Section 4503.711 - Fraternal order of police associate license plates.
+- Section 4503.712 - Ohio C.O.P.S. license plates.
+- Section 4503.713 - "Honor Our Fallen" license plates.
+- Section 4503.714 - Ohio association of chiefs of police license plates.
+- Section 4503.715 - Fallen lineworkers license plates.
+- Section 4503.716 - Fallen timbers battlefield license plates.
+- Section 4503.72 - Court-appointed special advocate/guardian ad litem license plates.
+- Section 4503.721 - Donate life license plates.
+- Section 4503.722 - Down Syndrome Awareness license plates.
+- Section 4503.723 - "Stop Bullying" license plates.
+- Section 4503.724 - American foundation for suicide prevention license plates.
+- Section 4503.725 - ALS awareness license plates.
+- Section 4503.726 - Suicide Prevention license plates.
+- Section 4503.73 - Leader in flight license plates.
+- Section 4503.732 - Truth, Justice, and the American Way license plates.
+- Section 4503.733 - Juvenile diabetes research foundation license plates.
+- Section 4503.734 - "Patrol Supporter" license plates.
+- Section 4503.735 - H.E.A.R.T. 4 Seniors license plates.
+- Section 4503.74 - Ohio zoo license plates.
+- Section 4503.741 - Ohio house rabbit rescue license plates.
+- Section 4503.75 - Rotary international license plates.
+- Section 4503.751 - Realtor license plates.
+- Section 4503.752 - Buckeye corvette license plates.
+- Section 4503.754 - City of Twinsburg license plates.
+- Section 4503.755 - Little brown jug license plates.
+- Section 4503.76 - Eastern Star license plates.
+- Section 4503.761 - One nation under God license plates.
+- Section 4503.762 - In God we trust license plates.
+- Section 4503.763 - Ohio Battleflag license plates.
+- Section 4503.764 - Medina County plates.
+- Section 4503.765 - "Amaranth Grand Chapter Order of the Eastern Star" license plates.
+- Section 4503.766 - Ohio Society Daughters of the American Revolution license plates.
+- Section 4503.767 - Folds of honor license plates.
+- Section 4503.77 - [Former R.C. 4503.771, amended and renumbered by H.B. 74, 134th General Assembly, effective 6/30/2021] Transmitting contribution amounts for specialty license plates.
+- Section 4503.78 - Implementing new specialty license plates.
+- Section 4503.79 - [Former R.C. 4503.791, amended and renumbered by H.B. 74, 134th General Assembly, effective 6/30/2021] Specialty license plate issuance and contribution amount.
+- Section 4503.80 - Bus taxation proration and reciprocity agreement.
+- Section 4503.81 - Registrar to administrate program - renunciation of participation in program.
+- Section 4503.83 - Company logo license plates.
+- Section 4503.84 - Purchase of expired validation stickers and plates no longer issued or in service.
+- Section 4503.85 - Fish Lake Erie license plates.
+- Section 4503.851 - West Virginia University license plates.
+- Section 4503.86 - Lincoln highway license plates.
+- Section 4503.87 - Baseball for AH license plates.
+- Section 4503.871 - Solon City Schools license plates.
+- Section 4503.872 - "Canton Bulldogs" license plates.
+- Section 4503.873 - Padua Franciscan High School plates.
+- Section 4503.874 - Lakewood St. Edward High School license plates.
+- Section 4503.875 - Walsh Jesuit High School plates.
+- Section 4503.876 - North Royalton City Schools plates.
+- Section 4503.877 - Independence Local Schools license plates.
+- Section 4503.878 - Cuyahoga Heights Schools plates.
+- Section 4503.879 - West Technical High School Alumni plates.
+- Section 4503.88 - Kenston Local Schools plates.
+- Section 4503.881 - La Salle high school license plates.
+- Section 4503.882 - St. John's Jesuit high school and academy license plates.
+- Section 4503.883 - St. Charles preparatory school license plates.
+- Section 4503.884 - Archbishop Moeller high school license plates.
+- Section 4503.885 - Revere local schools license plates.
+- Section 4503.886 - Stephen T. Badin High School license plates.
+- Section 4503.887 - Bishop Hartley High School license plates.
+- Section 4503.888 - "St. Vincent-St. Mary High School" license plates.
+- Section 4503.89 - "Proud Supporter of the American Red Cross" license plates.
+- Section 4503.891 - Lions Club plates.
+- Section 4503.892 - Hudson City School plates.
+- Section 4503.893 - Harrison central huskies license plates.
+- Section 4503.894 - Blanchester Wildcats license plates.
+- Section 4503.895 - Lakeside Chautauqua license plates.
+- Section 4503.896 - American Legion Auxiliary license plates.
+- Section 4503.899 - Cleveland clinic children's license plates.
+- Section 4503.90 - Nationwide children's hospital license plates.
+- Section 4503.901 - Ohio Pupil Transportation...Safety First license plates.
+- Section 4503.902 - Cleveland St. Ignatius High School license plates.
+- Section 4503.903 - Brecksville-Broadview Heights City Schools license plates.
+- Section 4503.904 - Chagrin Falls Exempted Village Schools license plates.
+- Section 4503.905 - Cuyahoga Valley Career Center plates.
+- Section 4503.906 - Stow-Munroe Falls City Schools plates.
+- Section 4503.907 - Twinsburg City Schools.
+- Section 4503.908 - St. Xavier High School plates.
+- Section 4503.909 - "Grandview Heights Schools" license plates.
+- Section 4503.91 - Choose life license plates.
+- Section 4503.92 - Support our troops license plates.
+- Section 4503.93 - Ohio volunteer license plates.
+- Section 4503.931 - Healthy New Albany license plates.
+- Section 4503.932 - Habitat for humanity of Ohio license plates.
+- Section 4503.933 - Creative Ohio license plates.
+- Section 4503.934 - Ohio Society for Respiratory Care license plates.
+- Section 4503.935 - Jesup W. Scott High School license plates.
+- Section 4503.936 - Hilliard Davidson Wildcats license plates.
+- Section 4503.94 - Teen driver education license plates.
+- Section 4503.941 - "Trees 4 Ohio" license plates.
+- Section 4503.942 - Zero license plates; prostate cancer awareness.
+- Section 4503.943 - Weirdo Cat Lovers of Cleveland license plates.
+- Section 4503.944 - East Europeans of Ohio license plates.
+- Section 4503.945 - Summit metro parks license plates.
+- Section 4503.946 - Historical and Patriotic Education license plates.
+- Section 4503.95 - Ohio history license plates.
+- Section 4503.951 - Cincinnati City School District plates.
+- Section 4503.952 - "Hawken School" license plates.
+- Section 4503.953 - "Gilmour Academy" license plates.
+- Section 4503.954 - "University School" license plates.
+- Section 4503.955 - "Saint Albert the Great School" license plates.
+- Section 4503.956 - Liberty Center local schools license plates.
+- Section 4503.957 - John F. Kennedy Catholic school license plates.
+- Section 4503.958 - Elder high school license plates.
+- Section 4503.959 - Dublin City Schools license plates.
+- Section 4503.96 - Ohio coal license plates.
+- Section 4503.961 - Fairfield senior high school license plates.
+- Section 4503.962 - Hamilton high school license plates.
+- Section 4503.963 - Ross high school license plates.
+- Section 4503.964 - Chardon High School state football champs license plates.
+- Section 4503.965 - Norton Music Boosters license plates.
+- Section 4503.97 - I Stand with Israel license plates.
+- Section 4503.98 - Westerville parks foundation license plates.

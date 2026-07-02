@@ -1,0 +1,32 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3923.123
+Scraped: 2026-07-02T20:02:47+00:00
+
+# Section 3923.123 - Association of insurers to provide group health coverage to qualified unemployed persons.
+
+**Effective:** June 4, 1997
+
+**Latest Legislation:** Senate Bill 67 - 122nd General Assembly
+
+(A) As used in this section:
+
+(1) "Association" means a voluntary unincorporated association of insurers formed for the sole purpose of enabling cooperative action to provide health coverage in accordance with this section.
+
+(2) "Insurer" includes any insurance company authorized to do the business of sickness and accident insurance in this state and any health insuring corporation holding a certificate of authority under Chapter 1751. of the Revised Code.
+
+(3) "Insured" means a person covered under a group policy or contract issued pursuant to this section.
+
+(4) "Qualified unemployed person" means one who became unemployed while a resident of this state from employment or self-employment and has since been continuously unemployed or is employed only so that the person does not have, or have a right to purchase, group health coverage. An individual who is, or who becomes, covered by medicare is not a qualified unemployed person. A person eligible for coverage under this section, who is also eligible for continuation of coverage under section 1751.53 or 3923.38 of the Revised Code, may elect either coverage, but not both. A person who elects continuation of coverage under either of such sections may, upon the termination of the continuation of coverage, elect any coverage available under this section.
+
+(B) Any insurer may join with one or more other insurers, in an association, to offer, sell, and issue to a policyholder or subscriber selected by the association a policy or contract of group health coverage, covering residents of this state who are qualified unemployed persons and the spouses or dependents of such residents. The coverage shall be offered, issued, and administered in the name of the association. Membership in the association shall be open to any insurer and each insurer which participates shall be liable for a specified percentage of the risks. The policy or contract may be executed on behalf of the association by a duly authorized person.
+
+(C) The persons eligible for coverage under the policy or contract shall be all residents of this state who are qualified unemployed persons and their spouses and dependents, subject to reasonable underwriting restrictions to be set forth in the plan of the association. The policy or contract may provide basic hospital and surgical coverage, basic medical coverage, major medical coverage, and any combination of these; provided that it shall not be required as a condition for obtaining major medical coverage that any basic coverage be taken.
+
+(D) The association shall file with the superintendent of insurance any policy, contract, certificate, or other evidence of coverage, application, or other forms pertaining to such insurance together with the premium rates to be charged therefor. The superintendent may approve, disapprove, and withdraw approval of the forms in accordance with section 3923.02 of the Revised Code, or the premium rates if by reasonable assumptions such rates are excessive in relation to the benefits provided. In determining whether such rates by reasonable assumptions are excessive in relation to the benefits provided, the superintendent shall give due consideration to past and prospective claim experience, within and outside this state, and to fluctuations in such claim experience, to a reasonable risk charge, to contribution to surplus and contingency funds, to past and prospective expenses, both within and outside this state, and to all other relevant factors within and outside this state, including any differing operating methods of the insurers joining in the issuance of the policy or contract. In reviewing the forms the superintendent shall not be bound by the requirements of sections 3923.04 to 3923.07 of the Revised Code with respect to standard provisions to be included in sickness and accident policies or forms.
+
+(E) The association may enroll eligible persons for coverage under the policy or contract through any person licensed by, or authorized under the law of, this state to sell the policies or contracts, or to enroll persons in the health plans, of any of the insurers participating in the association.
+
+(F) The association shall file annually with the superintendent on such date and in such form as the superintendent may prescribe, a financial summary of its operations.
+
+(G) The association may sue and be sued in its associate name and for such purposes only shall be treated as a domestic corporation. Service of process against such association made upon a managing agent, any member thereof, or any agent authorized by appointment to receive service of process, shall have the same force and effect as if such service had been made upon all members of the association.
+
+(H) Under any policy issued as provided in this section, the policyholder, or such person as the policyholder shall designate, shall alone be a member of each domestic mutual insurance company joining in the issue of the policy and shall be entitled to one vote by virtue of such policy at the meetings of each such mutual insurance company. Notice of the annual meetings of each such mutual insurance company may be given by written notice to the policyholder or as otherwise prescribed in said policy.

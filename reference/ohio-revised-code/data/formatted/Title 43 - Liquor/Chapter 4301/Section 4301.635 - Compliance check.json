@@ -1,0 +1,46 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Compliance check\" means an attempt on behalf of a law enforcement agency or the division of liquor control to purchase any beer, wine, mixed beverages, or intoxicating liquor in the enforcement of any section of this chapter or any rule of the liquor control commission in which the age of the purchaser is an element of the offense.",
+      "id": "4301.635-compliance-check",
+      "normalized": "compliance check",
+      "scope": "(A) As used in this section:",
+      "section": "4301.635",
+      "source_title": "Section 4301.635 - Compliance check.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4301.635",
+      "term": "Compliance check"
+    },
+    {
+      "definition": "(2) \"Confidential informant\" means a person who is under twenty-one years of age and who is engaged in conducting compliance checks.",
+      "id": "4301.635-confidential-informant",
+      "normalized": "confidential informant",
+      "scope": "(A) As used in this section:",
+      "section": "4301.635",
+      "source_title": "Section 4301.635 - Compliance check.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4301.635",
+      "term": "Confidential informant"
+    },
+    {
+      "definition": "(3) \"Law enforcement agency\" means an organization or unit made up of law enforcement officers authorized to enforce this chapter and also includes the investigative unit of the department of public safety described in section 5502.13 of the Revised Code.\n\n(B) Within a reasonable period of time after the conduct of a compliance check, the law enforcement agency that conducted the compliance check, or the division of liquor control if the division conducted the compliance check, shall send written notification of it to the permit holder that was its subject. If the confidential informant who participated in the compliance check was able to purchase beer, wine, mixed beverages, or intoxicating liquor, the citation issued for the violation constitutes that notification. If the confidential informant who participated in the compliance check was unable to purchase beer, wine, mixed beverages, or intoxicating liquor, the notification shall indicate the date and time of the compliance check, the law enforcement agency that conducted the compliance check or, when applicable, that the division of liquor control conducted the compliance check, and the permit holder or a general description of the employee of the permit holder who refused to make the sale.",
+      "id": "4301.635-law-enforcement-agency",
+      "normalized": "law enforcement agency",
+      "scope": "(A) As used in this section:",
+      "section": "4301.635",
+      "source_title": "Section 4301.635 - Compliance check.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4301.635",
+      "term": "Law enforcement agency"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "5502.13",
+      "number": "5502.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5502.13"
+    }
+  ],
+  "scraped": "2026-07-02T20:04:59+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4301.635",
+  "title": "Section 4301.635 - Compliance check."
+}

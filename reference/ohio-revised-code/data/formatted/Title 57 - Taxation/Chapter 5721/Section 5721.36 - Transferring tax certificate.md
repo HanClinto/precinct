@@ -1,0 +1,26 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5721.36
+Scraped: 2026-07-02T20:14:41+00:00
+
+# Section 5721.36 - Transferring tax certificate.
+
+**Effective:** September 4, 2014
+
+**Latest Legislation:** Senate Bill 172 - 130th General Assembly
+
+(A)(1) Except as otherwise provided in division (A)(2) of this section, the purchaser of a tax certificate sold as part of a block sale pursuant to section 5721.32 of the Revised Code may transfer the certificate to any person, and any other purchaser of a tax certificate pursuant to section 5721.32 or 5721.33 of the Revised Code may transfer the certificate to any person, except the owner of the certificate parcel or any corporation, partnership, or association in which such owner has an interest. The transferee of a tax certificate subsequently may transfer the certificate to any other person to whom the purchaser could have transferred the certificate. The transferor of a tax certificate shall endorse the certificate and shall swear to the endorsement before a notary public or other officer empowered to administer oaths. The transferee shall present the endorsed certificate and a notarized copy of a valid form of identification showing the transferee's taxpayer identification number to the county treasurer of the county where the certificate is registered, who shall, upon payment of a fee of twenty dollars to cover the costs associated with the transfer of a tax certificate, enter upon the register of certificate holders opposite the certificate entry the name and address of the transferee, the date of entry, and, upon presentation to the treasurer of instructions signed by the transferee, the name and address of any secured party of the transferee having an interest in the tax certificate. The treasurer shall deposit the fee in the county treasury to the credit of the tax certificate administration fund.
+
+Except as otherwise provided in division (A)(2) of this section, no request for foreclosure or notice of intent to foreclose, as the case may be, shall be filed by any person other than the person shown on the tax certificate register to be the certificate holder or a private attorney for that person properly authorized to act in that person's behalf.
+
+(2) Upon registration of a security interest with the county treasurer, both of the following apply:
+
+(a) No purchaser or transferee of a tax certificate, other than a county land reutilization corporation, may transfer that tax certificate except upon presentation to the treasurer of instructions signed by the secured party authorizing such action. A county land reutilization corporation may transfer or assign tax certificates consistent with its public purposes and plan adopted pursuant to Chapter 1724. of the Revised Code.
+
+(b) Only the secured party may issue a request for foreclosure or notice of intent to foreclose concerning that tax certificate.
+
+(3) If a tax certificate is sold as part of a block sale under section 5721.32 or 5721.33 of the Revised Code, and if the certificate parcel is abandoned land as defined in section 323.65 of the Revised Code, a county, municipal corporation, township, or county land reutilization corporation may acquire the tax certificate within one year from the date the certificate was sold by providing to the certificate holder a written request to purchase the certificate and payment of the actual cost the purchaser paid for the certificate. The acquiring subdivision or county land reutilization shall pay any costs or fees assessed by the county treasurer or auditor in relation to the transfer of the certificate.
+
+(B)(1) Application may be made to the county treasurer for a duplicate certificate if a certificate is alleged by affidavit to have been lost or destroyed. The treasurer shall issue a duplicate certificate, upon payment of a fee of twenty dollars to cover the costs of issuing the duplicate certificate. The treasurer shall deposit the fee in the county treasury to the credit of the tax certificate administration fund.
+
+(2) The duplicate certificate shall be plainly marked or stamped "duplicate."
+
+(3) The treasurer shall enter the fact of the duplicate in the tax certificate register.

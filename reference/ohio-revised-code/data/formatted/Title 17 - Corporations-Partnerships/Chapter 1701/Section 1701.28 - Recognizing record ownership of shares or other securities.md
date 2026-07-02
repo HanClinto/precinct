@@ -1,0 +1,42 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-1701.28
+Scraped: 2026-07-02T19:39:02+00:00
+
+# Section 1701.28 - Recognizing record ownership of shares or other securities.
+
+**Effective:** October 11, 1955
+
+**Latest Legislation:** House Bill 70 - 101st General Assembly
+
+(A) As used in this section "security" means scrip issued in lieu of fractional shares, warrants, and rights to purchase or subscribe for shares, and promissory obligations of a corporation in registered form.
+
+(B) A corporation shall incur no liability if:
+
+(1) In executing and delivering a certificate for shares or other securities of such corporation, whether upon original issue or transfer thereof, or in transferring on its records such shares or other securities, it adds to the name of the person inscribed as the owner of record of the shares or other securities such words of description, limitation, or qualification as, in the case of an original issue, are specified by the purchaser or subscriber or, in the case of transfer, as are specified in the indorsement, assignment, or instrument relative thereto;
+
+(2) It treats any person in whose name shares or other securities stand of record on its books as the absolute owner thereof, with full competency, capacity, and authority to exercise all rights of ownership thereof irrespective of any knowledge or notice to the contrary, or any description, limitation, or qualification, or reference to any other instrument, or to the rights of any other person, appearing upon its records or upon the certificate for shares or such other securities;
+
+(3) When any person has furnished to the issuing corporation proof, satisfactory to it, of his appointment and qualifications as:
+
+(a) executor under the last will of a deceased holder of record of its shares or such other securities;
+
+(b) an administrator of the estate of such a holder;
+
+(c) a guardian, committee, or conservator of the estate of a ward or incompetent who is a holder of record of its shares or such other securities;
+
+(d) a trustee in bankruptcy of such a holder;
+
+(e) a statutory or judicial receiver or liquidator of the estate or affairs of such a holder; it treats such a fiduciary as the absolute owner of such shares or securities to the same extent as though such fiduciary were the holder of record thereof;
+
+(4) When any other fiduciary has furnished to the corporation proof, satisfactory to it, of his authority to exercise any rights with respect to shares or such other securities of the corporation which do not stand of record in his name, it treats such fiduciary as entitled to exercise such rights;
+
+(5) When two or more fiduciaries claim to be entitled to the same rights with respect to the same shares or securities, it refuses to treat any of them as entitled to such rights unless proof, satisfactory to it, is furnished as to which of such fiduciaries is entitled to the rights in question.
+
+(C) The corporation is not obligated to inquire into the existence of, or to see to the performance or observance of, any duty or obligation to a third person by a holder of record of any of its shares or other securities or by anyone whom it may, as provided in this section, treat as the absolute owner thereof.
+
+(D) When the corporation has treated a minor as entitled to exercise any rights of ownership in its shares or other securities, no subsequent disaffirmance or avoidance is effective as against the corporation.
+
+(E) The rights, privileges, and immunities afforded to the corporation in this section extend also to each transfer agent and to each registrar of its shares or other securities, to its inspectors of election, and to all agents of the corporation concerned with the exercise of any rights by any of its shareholders or security holders.
+
+(F) This section does not enlarge or affect the competency, authority, rights, privileges, immunities, or obligations of any holder of record of shares or other securities or of any fiduciary with respect to any person other than the corporation issuing such shares or other securities and its agents or representatives described in division (E) of this section; and this section does not relieve the corporation from any liability which it otherwise would have for breach by it of a contract to which it is a party, or for violation of lawful provisions in the articles or the regulations, or for participating in bad faith with a fiduciary in the breach of any duty of the latter, or from any liability by reason of transactions by the corporation involving the acquisition or disposition by it of any of its shares or other securities.
+
+(G) A corporation is not entitled to the rights, privileges, and immunities otherwise afforded to it under this section in respect of any particular actions referred to in this section, in the event and to the extent that such action was taken contrary to the order of a court of competent jurisdiction in a proceeding to which the corporation was a party, or contrary to a judgment, order, or decree of a court of competent jurisdiction terminating, suspending, or restricting the particular rights of the holder of record of such shares or other securities or the fiduciary relationship with respect thereto, or the competency or authority of such holder or fiduciary, or transferring to or vesting in another person such relationships or rights of ownership of the shares or other securities, or directing the manner in which the authority of such holder or fiduciary shall be exercised, a certified copy of which judgment, order, or decree has been filed with the corporation prior to the taking of such action.

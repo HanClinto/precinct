@@ -1,0 +1,591 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 1302.01 - Definitions - UCC 2-103 to 2-106.",
+      "number": "1302.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.02 - Scope - certain security and other transactions excluded - UCC 2-102.",
+      "number": "1302.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.03 - Goods to be severed from realty - recording - UCC 2-107.",
+      "number": "1302.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.04 - Formal requirements - statute of frauds - UCC 2-201.",
+      "number": "1302.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.05 - Final written expression - parol or extrinsic evidence - UCC 2-202.",
+      "number": "1302.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.06 - Seals inoperative - UCC 2-203.",
+      "number": "1302.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.07 - Formation in general - UCC 2-204.",
+      "number": "1302.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.08 - Firm offers - UCC 2-205.",
+      "number": "1302.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.09 - Offer and acceptance in formation of contract - UCC 2-206.",
+      "number": "1302.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.10 - Additional terms in acceptance or confirmation - UCC 2-207.",
+      "number": "1302.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.12 - Modification, rescission, and waiver - UCC 2-209.",
+      "number": "1302.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.13 - Delegation of performance - assignment of rights - UCC 2-210.",
+      "number": "1302.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.14 - General obligations of parties - UCC 2-301.",
+      "number": "1302.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.15 - Unconscionable contract or clause - UCC 2-302.",
+      "number": "1302.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.16 - Allocation or division of risks - UCC 2-303.",
+      "number": "1302.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.17 - Price payable in money, goods, realty, or otherwise - UCC 2-304.",
+      "number": "1302.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.18 - Open price term - UCC 2-305.",
+      "number": "1302.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.19 - Output, requirements, and exclusive dealings - UCC 2-306.",
+      "number": "1302.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.20 - Delivery in single lot or several lots - UCC 2-307.",
+      "number": "1302.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.21 - Absence of specified place for delivery - UCC 2-308.",
+      "number": "1302.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.22 - Absence of specific time provisions - notice of termination - UCC 2-309.",
+      "number": "1302.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.23 - Open time for payment or running of credit - authority to ship under reservation - UCC 2-310.",
+      "number": "1302.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.24 - Options and cooperation respecting performance - UCC 2-311.",
+      "number": "1302.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.25 - Warranty of title and against infringement - buyer's obligation against infringement - UCC 2-312.",
+      "number": "1302.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.26 - Express warranties by affirmation, promise, description, sample - UCC 2-313.",
+      "number": "1302.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.27 - Implied warranty - merchantability - usage of trade - UCC 2-314.",
+      "number": "1302.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.28 - Implied warranty - fitness for particular purpose - UCC 2-315.",
+      "number": "1302.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.29 - Exclusion or modification of warranties - UCC 2-316.",
+      "number": "1302.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.30 - Cumulation and conflict of warranties express or implied - UCC 2-317.",
+      "number": "1302.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.31 - Third party beneficiaries of warranties express or implied - UCC 2-318.",
+      "number": "1302.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.32 - F.O.B. and F.A.S. terms - UCC 2-319.",
+      "number": "1302.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.33 - C.I.F. and C. and F. terms - UCC 2-320.",
+      "number": "1302.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.34 - C.I.F. or C. and F. - net landed weights - payment on arrival - warranty of condition on arrival - UCC 2-321.",
+      "number": "1302.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.35 - Delivery ex-ship - UCC 2-322.",
+      "number": "1302.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.36 - Form of bill of lading required in overseas shipment - overseas defined - UCC 2-323.",
+      "number": "1302.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.37 - No arrival, no sale term - UCC 2-324.",
+      "number": "1302.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.38 - Letter of credit - confirmed credit - UCC 2-325.",
+      "number": "1302.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.39 - Sale on approval and sale or return - rights of creditors - UCC 2-326.",
+      "number": "1302.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.40 - Special incidents of sale on approval and sale or return - UCC 2-327.",
+      "number": "1302.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.41 - Sale by auction - UCC 2-328.",
+      "number": "1302.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.42 - Passing of title - reservation for security - limited application of this section - UCC 2-401.",
+      "number": "1302.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.43 - Rights of seller's creditors against sold goods - UCC 2-402.",
+      "number": "1302.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.44 - Power to transfer - good faith purchase of goods - entrusting defined - UCC 2-403.",
+      "number": "1302.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.45 - Insurable interest in goods - manner of identification of goods - UCC 2-501.",
+      "number": "1302.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.46 - Buyer's right to goods on seller's repudiation, failure to deliver, or insolvency - UCC 2-502.",
+      "number": "1302.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.47 - Manner of seller's tender of delivery - UCC 2-503.",
+      "number": "1302.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.48 - Shipment by seller - UCC 2-504.",
+      "number": "1302.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.49 - Seller's shipment under reservation - UCC 2-505.",
+      "number": "1302.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.50 - Rights of financing agency - UCC 2-506.",
+      "number": "1302.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.51 - Effect of seller's tender - delivery on condition - UCC 2-507.",
+      "number": "1302.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.52 - Cure by seller of improper tender or delivery - replacement - UCC 2-508.",
+      "number": "1302.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.53 - Risk of loss in absence of breach - UCC 2-509.",
+      "number": "1302.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.54 - Effect of breach on risk of loss - UCC 2-510.",
+      "number": "1302.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.55 - Tender of payment by buyer - payment by check - UCC 2-511.",
+      "number": "1302.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.56 - Payment by buyer before inspection - UCC 2-512.",
+      "number": "1302.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.57 - Buyer's right to inspection of goods - UCC 2-513.",
+      "number": "1302.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.58 - When documents deliverable on acceptance - when on payment - UCC 2-514.",
+      "number": "1302.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.59 - Preserving evidence of goods in dispute - UCC 2-515.",
+      "number": "1302.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.60 - Buyer's rights on improper delivery - UCC 2-601.",
+      "number": "1302.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.61 - Manner and effect of rightful rejection - UCC 2-602.",
+      "number": "1302.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.62 - Merchant buyer's duties as to rightfully rejected goods - salvage - UCC 2-603, 2-604.",
+      "number": "1302.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.63 - Waiver of buyer's objections by failure to particularize - UCC 2-605.",
+      "number": "1302.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.64 - What constitutes acceptance of goods - UCC 2-606.",
+      "number": "1302.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.65 - Effect of acceptance - notice of breach - burden of establishing breach after acceptance - notice of claim or litigation to person answerable over - UCC 2-607.",
+      "number": "1302.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.66 - Revocation of acceptance in whole or in part - UCC 2-608.",
+      "number": "1302.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.67 - Right to adequate assurance of performance - UCC 2-609.",
+      "number": "1302.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.67"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.68 - Anticipatory repudiation - UCC 2-610.",
+      "number": "1302.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.68"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.69 - Retraction of anticipatory repudiation - UCC 2-611.",
+      "number": "1302.69",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.69"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.70 - Installment contract defined - breach - UCC 2-612.",
+      "number": "1302.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.71 - Casualty to identified goods - UCC 2-613.",
+      "number": "1302.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.72 - Substituted performance - UCC 2-614.",
+      "number": "1302.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.73 - Excuse by failure of presupposed conditions - UCC 2-615.",
+      "number": "1302.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.74 - Procedure on notice claiming excuse - UCC 2-616.",
+      "number": "1302.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.74"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.75 - Remedies for breach of collateral contracts not impaired - UCC 2-701.",
+      "number": "1302.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.76 - Seller's remedies on discovery of buyer's insolvency - UCC 2-702.",
+      "number": "1302.76",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.76"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.77 - Seller's remedies in general - UCC 2-703.",
+      "number": "1302.77",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.77"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.78 - Seller's right to identify goods to the contract notwithstanding breach or to salvage unfinished goods - UCC 2-704.",
+      "number": "1302.78",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.78"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.79 - Seller's stoppage of delivery in transit or otherwise - UCC 2-705.",
+      "number": "1302.79",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.79"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.80 - Seller's resale including contract for resale - UCC 2-706.",
+      "number": "1302.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.80"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.81 - Person in the position of a seller - UCC 2-707.",
+      "number": "1302.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.82 - Seller's damages for non-acceptance or repudiation - UCC 2-708.",
+      "number": "1302.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.82"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.83 - Action for the price - UCC 2-709.",
+      "number": "1302.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.83"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.84 - Seller's incidental damages - UCC 2-710.",
+      "number": "1302.84",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.84"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.85 - Buyer's remedies in general - buyer's security interest in rejected goods - UCC 2-711.",
+      "number": "1302.85",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.85"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.86 - Cover defined - buyer's procurement of substitute goods - UCC 2-712.",
+      "number": "1302.86",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.86"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.87 - Buyer's damages for non-delivery or repudiation - UCC 2-713.",
+      "number": "1302.87",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.87"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.88 - Buyer's damages for breach in regard to accepted goods - UCC 2-714.",
+      "number": "1302.88",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.88"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.89 - Buyer's incidental and consequential damages - UCC 2-715.",
+      "number": "1302.89",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.89"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.90 - Buyer's right to specific performance or replevin - UCC 2-716.",
+      "number": "1302.90",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.90"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.91 - Deduction of damages from the price - UCC 2-717.",
+      "number": "1302.91",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.91"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.92 - Liquidation or limitation of damages - deposits - UCC 2-718.",
+      "number": "1302.92",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.92"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.93 - Contractual modification or limitation of remedy - UCC 2-719.",
+      "number": "1302.93",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.93"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.94 - Effect of cancellation or rescission on claims for antecedent breach - UCC 2-720.",
+      "number": "1302.94",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.94"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.95 - Remedies for fraud - UCC 2-721.",
+      "number": "1302.95",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.95"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.96 - Who can sue third parties for injury to goods - UCC 2-722.",
+      "number": "1302.96",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.96"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.97 - Proof of market price - time and place - admissibility of market quotations - UCC 2-723, 2-724.",
+      "number": "1302.97",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.97"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1302.98 - Statute of limitations in contracts for sale - UCC 2-725.",
+      "number": "1302.98",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1302.98"
+    }
+  ],
+  "scraped": "2026-07-02T19:37:00+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-1302",
+  "title": "Chapter 1302 - Sales"
+}

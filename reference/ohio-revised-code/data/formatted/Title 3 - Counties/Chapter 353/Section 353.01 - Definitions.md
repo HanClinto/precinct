@@ -1,0 +1,32 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-353.01
+Scraped: 2026-07-02T19:33:01+00:00
+
+# Section 353.01 - Definitions.
+
+**Effective:** September 29, 2013
+
+**Latest Legislation:** House Bill 59 - 130th General Assembly
+
+For purposes of this chapter:
+
+(A) "Lake facilities authority" means a body corporate and politic created pursuant to section 353.02 of the Revised Code.
+
+(B) "Watershed" means a watershed as determined by the United States geological survey.
+
+(C) "Impacted watershed" means a watershed meeting both of the following conditions:
+
+(1) The watershed contains a natural or man-made lake of at least one-half square mile that has experienced levels of microcystin toxins in excess of eighty parts-per-billion, as measured by the Ohio environmental protection agency, during the twenty-fourmonth period immediately preceding the date the last resolution necessary for the creation of a lake facilities authority under section 353.02 of the Revised Code was adopted.
+
+(2) The watershed is partially or completely located within a state park, as defined in section 154.01 of the Revised Code, that has averaged at least four hundred thousand visitors per year for the four calendar years preceding the calendar year in which the last resolution necessary for the creation of a lake facilities authority under section 353.02 of the Revised Code was adopted.
+
+(D) "Impacted lake district" means the territory of all townships and municipal corporations having territory in an impacted watershed.
+
+(E) "Cost" as applied to a lake facilities authority facility means the cost of acquisition or construction of the facility; the cost of acquisition of all land, rights-of-way, property rights, easements, franchise rights, and interests required for such acquisition; the cost of demolishing or removing any buildings or structures on land so acquired, including the cost of acquiring any lands to which such buildings or structures may be moved; the cost of acquiring or constructing and equipping a principal office of the lake facilities authority; the cost of diverting highways, interchange of highways, and access roads to private property, including the cost of land or easements for the access roads, the cost of public utility and common carrier relocation or duplication, the cost of all machinery, furnishings, and equipment, financing charges, interest prior to and during any construction and for no more than eighteen months after completion of any construction; engineering; expenses of research and development with respect to an impacted lake district; legal expenses; expenses of developing or obtaining plans, specifications, engineering surveys, studies, and estimates of cost and revenues; expenses necessary or incident to determining the feasibility or practicability of acquiring or constructing the facility or remediating the impacted lake district; administrative expense; and such other expenses as may be necessary or incident to the acquisition or construction of the facility, the remediation of the impacted lake district and other activities authorized by this chapter, the financing of such acquisition, construction or remediation, including the amount authorized in the resolution of the lake facilities authority providing for the issuance of lake facilities authority revenue bonds to be paid into any special funds from the proceeds of such bonds and the financing of the placing of the facility in operation, the cost of issuing the bonds, and the financing of remediation and other purposes authorized by this chapter.
+
+(F) "Revenues" means all rentals and other charges received by the lake facilities authority with respect to an impacted watershed; any gift or grant received with respect to any impacted watershed; money received in repayment of, and for interest on, any loans made by the authority to a person or governmental agency, whether from the United States or any department, administration, or agency thereof, or otherwise; proceeds of lake facilities authority revenue bonds to the extent the use thereof for payment of principal or of premium, if any, or interest on the bonds is authorized by the authority; proceeds from any insurance, appropriation, or guaranty pertaining to an impacted watershed or property mortgaged to secure bonds or pertaining to the financing of any activities authorized under this chapter; income and profit from the investment of the proceeds of lake facilities authority revenue bonds or of any revenues; and contributions of service payments in lieu of taxes generated pursuant to section 5709.40 , 5709.41 , 5709.73 , or 5709.78 of the Revised Code, and all other nontax revenues paid or payable to the lake facilities authority.
+
+(G) "Lake facilities revenue bonds," unless the context indicates a different meaning or intent, includes revenue notes, revenue renewal notes, and revenue refunding bonds.
+
+(H) "Authorized purpose" means activities that remediate, rehabilitate, enhance, foster, aid, improve, provide, or promote an impacted watershed within the jurisdiction of the lake facilities authority, including, without limitation, research and development efforts related thereto.
+
+(I) "Lake facilities authority facility" or "facility" means real or personal property, or any combination thereof owned, leased, or otherwise controlled or financed by a lake facilities authority and directly related to an authorized purpose.

@@ -1,0 +1,24 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4705.09
+Scraped: 2026-07-02T20:06:21+00:00
+
+# Section 4705.09 - Depositing client funds.
+
+**Effective:** March 22, 2019
+
+**Latest Legislation:** House Bill 595 - 132nd General Assembly
+
+(A)(1) Any person admitted to the practice of law in this state by order of the supreme court in accordance with its prescribed and published rules, or any law firm or legal professional association, may establish and maintain an interest-bearing trust account, for purposes of depositing client funds held by the attorney, firm, or association that are nominal in amount or are to be held by the attorney, firm, or association for a short period of time, with any bank, savings bank, or savings and loan association that is authorized to do business in this state and is insured by the federal deposit insurance corporation or the successor to that corporation, or any credit union insured by the national credit union administration operating under the "Federal Credit Union Act," 84 Stat. 994 (1970), 12 U.S.C. 1751, or insured by a credit union share guaranty corporation established under Chapter 1761. of the Revised Code. Each account established under this division shall be in the name of the attorney, firm, or association that established and is maintaining it and shall be identified as an IOLTA or an interest on lawyer's trust account. The name of the account may contain additional identifying features to distinguish it from other trust accounts established and maintained by the attorney, firm, or association.
+
+(2) Each attorney who receives funds belonging to a client shall do one of the following:
+
+(a) Establish and maintain one or more interest-bearing trust accounts in accordance with division (A)(1) of this section or maintain one or more interest-bearing trust accounts previously established in accordance with that division, and deposit all client funds held that are nominal in amount or are to be held by the attorney for a short period of time in the account or accounts;
+
+(b) If the attorney is affiliated with a law firm or legal professional association, comply with division (A)(2)(a) of this section or deposit all client funds held that are nominal in amount or are to be held by the attorney for a short period of time in one or more interest-bearing trust accounts established and maintained by the firm or association in accordance with division (A)(1) of this section.
+
+(3) No funds belonging to any attorney, firm, or legal professional association shall be deposited in any interest-bearing trust account established under division (A)(1) or (2) of this section, except that funds sufficient to pay or enable a waiver of depository institution service charges on the account shall be deposited in the account and other funds belonging to the attorney, firm, or association may be deposited as authorized by the Code of Professional Responsibility adopted by the supreme court. The determinations of whether funds held are nominal or more than nominal in amount and of whether funds are to be held for a short period or longer than a short period of time rests in the sound judgment of the particular attorney. No imputation of professional misconduct shall arise from the attorney's exercise of judgment in these matters.
+
+(B) All interest earned on funds deposited in an interest-bearing trust account established under division (A)(1) or (2) of this section shall be transmitted to the treasurer of state for deposit in the legal aid fund established under section 120.52 of the Revised Code. No part of the interest earned on funds deposited in an interest-bearing trust account established under division (A)(1) or (2) of this section shall be paid to, or inure to the benefit of, the attorney, the attorney's law firm or legal professional association, the client or other person who owns or has a beneficial ownership of the funds deposited, or any other person other than in accordance with this section, section 4705.10 , and sections 120.51 to 120.55 of the Revised Code.
+
+(C) No liability arising out of any act or omission by any attorney, law firm, or legal professional association with respect to any interest-bearing trust account established under division (A)(1) or (2) of this section shall be imputed to the depository institution.
+
+(D) The supreme court may adopt and enforce rules of professional conduct that pertain to the use, by attorneys, law firms, or legal professional associations, of interest-bearing trust accounts established under division (A)(1) or (2) of this section, and that pertain to the enforcement of division (A)(2) of this section. Any rules adopted by the supreme court under this authority shall conform to the provisions of this section, section 4705.10 , and sections 120.51 to 120.55 of the Revised Code.

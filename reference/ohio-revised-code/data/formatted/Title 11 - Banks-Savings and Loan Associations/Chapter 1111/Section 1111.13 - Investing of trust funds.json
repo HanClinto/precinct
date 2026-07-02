@@ -1,0 +1,86 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Affiliated investment company\" means any investment company that is any of the following:\n\n(a) Sponsored by the trust company that is acting as fiduciary or by a trust company, bank, bank subsidiary corporation, or other corporation owned or controlled by the bank holding company that owns or controls the trust company that is acting as fiduciary;\n\n(b) The result of any agreement with a trust company, bank, bank subsidiary corporation, or other corporation owned or controlled by the bank holding company that owns or controls the trust company that is acting as fiduciary;\n\n(c) Established exclusively for the customers or accounts of the trust company that is acting as fiduciary or of a trust company, bank, bank subsidiary corporation, or other corporation owned or controlled by the bank holding company that owns or controls the trust company that is acting as fiduciary;\n\n(d) Provided with investment advisory, brokerage, transfer agency, registrar, management, shareholder servicing, custodian, or any related services by the trust company that is acting as fiduciary or by a trust company, bank, bank subsidiary corporation, or other corporation owned or controlled by the bank holding company that owns or controls the trust company that is acting as fiduciary.",
+      "id": "1111.13-affiliated-investment-company",
+      "normalized": "affiliated investment company",
+      "scope": "(E) As used in this section:",
+      "section": "1111.13",
+      "source_title": "Section 1111.13 - Investing of trust funds.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1111.13",
+      "term": "Affiliated investment company"
+    },
+    {
+      "definition": "(2) \"Cofiduciary\" includes, but is not limited to, a cotrustee, coexecutor, coadministrator, coguardian, co-agent, and any person who, under the terms of the instrument creating the fiduciary relationship, has the right or power to direct, approve or consent to, or be consulted with respect to, the making, retention, or sale of investments under the instrument.",
+      "id": "1111.13-cofiduciary",
+      "normalized": "cofiduciary",
+      "scope": "(E) As used in this section:",
+      "section": "1111.13",
+      "source_title": "Section 1111.13 - Investing of trust funds.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1111.13",
+      "term": "Cofiduciary"
+    },
+    {
+      "definition": "(3) \"Instrument\" includes, but is not limited to, any will, declaration of trust, agreement of trust, agency, or custodianship, or court order creating a fiduciary relationship.",
+      "id": "1111.13-instrument",
+      "normalized": "instrument",
+      "scope": "(E) As used in this section:",
+      "section": "1111.13",
+      "source_title": "Section 1111.13 - Investing of trust funds.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1111.13",
+      "term": "Instrument"
+    },
+    {
+      "definition": "(4) \"Reasonable fee\" means compensation or payment, the receipt of which would not constitute a breach of fiduciary duty under section 36 of the \"Investment Company Act of 1940,\" 54 Stat. 789, 15 U.S.C.A. 80a-35.\n\n(F) Shares as to which the voting rights with respect to the election of directors may not be exercised under this section shall not be considered as outstanding for the purpose of computing the voting power of the corporation or of its shares of any class with respect to the election of directors.\n\n(G) This section does not authorize a trust company acting as a probate fiduciary to perform any act prohibited by section 2109.44 of the Revised Code, unless the act is authorized by the instrument creating the trust.\n\n(H) A trust company making an investment of trust funds in an affiliated investment company, or a bank or other corporation owned or controlled by the bank holding company that owns or controls the trust company, may charge a reasonable fee for investment advisory, brokerage, transfer agency, registrar, management, shareholder servicing, custodian, or any related services provided to an affiliated investment company. The fee may be in addition to the compensation that the trust company is otherwise entitled to receive from the trust, provided that the fee is charged as a percentage of either asset value or income earned or actual amount charged and is disclosed at least annually by prospectus, account statement, or any other written means to all persons entitled to receive statements of account activity.\n\n(I) A trust company making an investment of trust funds in the securities of an affiliated investment company pursuant to division (A)(1)(c) of this section shall, when providing any periodic account statements to the trust fund, report the net asset value of the shares comprising the investment of the trust fund in the affiliated investment company.\n\n(J) If a trust company making an investment of trust funds in the securities of an affiliated investment company pursuant to division (A)(1)(c) of this section invests the funds in any mutual fund, the trust company shall disclose, in at least ten-point boldface type, by prospectus, account statement, or any other written means to all persons entitled to receive statements of account activity, that the mutual fund is not insured or guaranteed by the federal deposit insurance corporation or by any other government agency or government-sponsored agency of the federal government or of this state.",
+      "id": "1111.13-reasonable-fee",
+      "normalized": "reasonable fee",
+      "scope": "(E) As used in this section:",
+      "section": "1111.13",
+      "source_title": "Section 1111.13 - Investing of trust funds.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1111.13",
+      "term": "Reasonable fee"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2109.37",
+      "number": "2109.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.37"
+    },
+    {
+      "kind": "section",
+      "label": "2109.371",
+      "number": "2109.371",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.371"
+    },
+    {
+      "kind": "section",
+      "label": "2109.372",
+      "number": "2109.372",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.372"
+    },
+    {
+      "kind": "section",
+      "label": "5815.26",
+      "number": "5815.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5815.26"
+    },
+    {
+      "kind": "section",
+      "label": "1111.14",
+      "number": "1111.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1111.14"
+    },
+    {
+      "kind": "section",
+      "label": "2109.44",
+      "number": "2109.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.44"
+    }
+  ],
+  "scraped": "2026-07-02T19:36:46+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1111.13",
+  "title": "Section 1111.13 - Investing of trust funds."
+}

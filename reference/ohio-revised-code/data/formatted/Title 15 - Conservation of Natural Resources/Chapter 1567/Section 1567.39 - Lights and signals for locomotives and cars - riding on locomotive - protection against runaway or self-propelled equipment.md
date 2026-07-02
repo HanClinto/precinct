@@ -1,0 +1,18 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-1567.39
+Scraped: 2026-07-02T19:38:58+00:00
+
+# Section 1567.39 - Lights and signals for locomotives and cars - riding on locomotive - protection against runaway or self-propelled equipment.
+
+**Effective:** June 14, 2000
+
+**Latest Legislation:** House Bill 601 - 123rd General Assembly
+
+The operator of an underground coal mine, at which locomotives are used for hauling coal, shall keep a light on the front end of the locomotive when it is in use. When the locomotive is run ahead of the trip, and the trip rider is not required to ride the rear car of the trip, a signal, light, or marker, approved by the deputy mine inspector, shall be carried on the rear end of the trip to indicate when the trip has passed. Cars shall not be pushed ahead of the locomotive where it can be avoided. When cars are run ahead of the locomotive, a light shall be carried on the front end of the trip, and the cars shall not be moved at a speed greater than four miles per hour. When rope haulage is used, an enclosed light shall be carried on the front end of each train so hauled.
+
+A trip light, reflectors, or other devices approved by the chief of the division of mineral resources management shall be used on the rear of trips pulled and on the front of trips pushed or lowered in slopes. However, trip lights or other approved devices need not be used on cars being shifted to and from loading machines, on cars being handled at loading heads, during gathering operations at working faces, when trailing locomotives are used, or on trips pulled by animals. Cars on main haulage roads shall not be pushed, except where necessary to push cars from side tracks located near the working section to the producing entries and rooms, where necessary to clear switches and sidetracks, and on the approach to cages, slopes, and surface inclines. Warning lights or reflective signs or tapes shall be installed along haulage roads at locations of abrupt or sudden changes in the overhead clearance.
+
+No person, other than the locomotive operator and brakeperson, shall ride on a locomotive unless authorized by the mine foreperson, and then only when safe riding facilities are provided.
+
+Positive-acting stopblocks or derails shall be used where necessary to protect persons from danger of runaway haulage equipment. The operator of all self-propelled equipment including off-track equipment shall give an audible warning wherever persons may be endangered by the movement of the equipment. Locomotives and personnel carriers shall not approach within three hundred feet of preceding haulage equipment, except trailing locomotives that are an integral part of the trip. A total of at least thirty-six inches of unobstructed side clearance (both sides combined) shall be provided for all rubber-tired haulage equipment where such equipment is used. Off-track haulage roadways shall be maintained as free as practicable from bottom irregularities, debris, and wet or muddy conditions that affect the control of the equipment. Operators of self-propelled equipment shall face in the direction of travel. Mechanical steering and control devices shall be maintained so as to provide positive control at all times. All self-propelled, rubber-tired haulage equipment shall be equipped with well maintained brakes, lights, and a warning device. On and after January 1, 1977, all tram control switches on rubber-tired equipment shall be designed to provide automatic return to the stop or off position when released.
+
+No operator of a mine shall refuse or neglect to comply with this section.

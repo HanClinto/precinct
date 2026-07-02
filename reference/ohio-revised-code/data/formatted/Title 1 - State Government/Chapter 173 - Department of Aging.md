@@ -1,0 +1,84 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-173
+Scraped: 2026-07-02T19:32:13+00:00
+
+# Chapter 173 - Department of Aging
+
+## Sections
+
+- Section 173.01 - Department of aging; powers and duties.
+- Section 173.011 - Planning and service areas; area agencies on aging.
+- Section 173.012 - Training programs.
+- Section 173.02 - Administrative rules.
+- Section 173.03 - Ohio advisory council for aging.
+- Section 173.04 - Dementia training and respite care programs.
+- Section 173.05 - Acting director.
+- Section 173.06 - Golden buckeye card program.
+- Section 173.061 - Records of card holders.
+- Section 173.08 - Resident services coordinator program.
+- Section 173.11 - System of multipurpose senior centers.
+- Section 173.12 - Services provided by multipurpose senior center.
+- Section 173.121 - Bingo games at multipurpose senior center.
+- Section 173.13 - Continuing care facility residents' rights.
+- Section 173.14 - Long-term care ombudsman program definitions.
+- Section 173.15 - Office of state long-term care ombudsman program.
+- Section 173.16 - Designation of regional long-term care ombudsman programs.
+- Section 173.17 - State long-term care ombudsman; duties.
+- Section 173.18 - Regional long-term care ombudsman program - duties.
+- Section 173.19 - Investigating and resolving complaints.
+- Section 173.20 - Access to records; subpoena power.
+- Section 173.21 - Training and certification programs.
+- Section 173.22 - Confidential information.
+- Section 173.23 - Immunity; false complaint; representation by attorney general.
+- Section 173.24 - Protection for disciplinary or retaliatory action.
+- Section 173.25 - Cooperation and coordination with agencies.
+- Section 173.26 - Payment of fee per bed to department of aging.
+- Section 173.27 - Criminal records check of ombudsman positions.
+- Section 173.28 - Additional Fines for certain violations.
+- Section 173.38 - Criminal records checks for direct-care positions.
+- Section 173.381 - Criminal records checks for self-employed providers.
+- Section 173.39 - Community-based long-term care - provider certification for payment.
+- Section 173.391 - Requirements for provider certification - disciplinary action.
+- Section 173.392 - Payment of noncertified provider.
+- Section 173.393 - Provider evaluation records as public records.
+- Section 173.41 - Statewide aging and disabilities resource network.
+- Section 173.42 - Long-term care consultation program.
+- Section 173.421 - Periodic or follow-up long-term care consultations.
+- Section 173.422 - Certification to conduct long-term care consultation.
+- Section 173.423 - Monitoring of home and community-based services elections.
+- Section 173.424 - Compliance with federal law.
+- Section 173.43 - Interagency agreement for unified long-term care budget for home and community-based services.
+- Section 173.431 - Administration of budget.
+- Section 173.432 - Care management and authorization services.
+- Section 173.434 - Adoption of rules.
+- Section 173.44 - Survey of nursing homes and residential care facilities.
+- Section 173.45 - Facilities definitions.
+- Section 173.46 - Long-term care consumer guide.
+- Section 173.47 - Customer satisfaction survey for long-term care facilities.
+- Section 173.48 - Fees for consumer care guide; long-term care consumer guide fund.
+- Section 173.49 - Implementing rules to be adopted by department.
+- Section 173.50 - PACE administration.
+- Section 173.501 - Home first component of PACE.
+- Section 173.502 - Requests for proposals to become PACE organization [codified from Section 751.10 of H.B. 45, 134th General Assembly, pursuant to R.C. 103.131].
+- Section 173.503 - PACE presumptive eligibility.
+- Section 173.51 - Definitions for PASSPORT and Assisted Living programs.
+- Section 173.52 - Medicaid-funded component of PASSPORT program.
+- Section 173.521 - Home first component.
+- Section 173.522 - State-funded component of PASSPORT program.
+- Section 173.523 - Appeals.
+- Section 173.524 - Kosher meals.
+- Section 173.525 - Personal care aide training.
+- Section 173.54 - Medicaid-funded component of assisted living program.
+- Section 173.541 - Eligibility for assisted living program.
+- Section 173.542 - Home first component of the assisted living program.
+- Section 173.543 - State-funded component of assisted living program.
+- Section 173.544 - Eligibility requirements for state-funded component of assisted living program.
+- Section 173.545 - Appeals.
+- Section 173.546 - Needs assessments.
+- Section 173.547 - Staff requirements for assisted living program facility.
+- Section 173.548 - Choice of single or multiple occupancy room.
+- Section 173.55 - Waiting list for department of aging-administered medicaid waiver components and the PACE program.
+- Section 173.56 - Rules.
+- Section 173.60 - Nursing home quality initiative.
+- Section 173.70 - Programs for the provision of outpatient prescription drug discounts.
+- Section 173.95 - Best practices to prevent elder fraud and financial exploitation.
+- Section 173.99 - Penalties.

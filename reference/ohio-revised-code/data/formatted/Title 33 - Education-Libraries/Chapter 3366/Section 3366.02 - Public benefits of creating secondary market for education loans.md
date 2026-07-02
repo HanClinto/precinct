@@ -1,0 +1,10 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3366.02
+Scraped: 2026-07-02T19:50:28+00:00
+
+# Section 3366.02 - Public benefits of creating secondary market for education loans.
+
+**Effective:** November 24, 1995
+
+**Latest Legislation:** Senate Bill 131 - 121st General Assembly
+
+The purpose of this chapter is to facilitate the provision of education loans to or for students who are residents of this state attending eligible institutions in or outside this state, and to or for students who are not residents of this state attending eligible institutions in this state, to assist them in meeting the costs of attendance at such institutions through the creation of a secondary market for education loans. The general assembly finds that there is a need to stimulate the provision of education loans as financial assistance to students attending, or accepted for attendance at, eligible institutions in addition to the financial assistance otherwise available to students. The general assembly further finds and hereby declares that it is in the public interest, and essential to the welfare and well-being of all citizens of this state and to the proper growth and development of this state and of institutions of higher education in this state, and a proper public purpose, to foster such education loans supplemental to other loans, grants, and other financial aid otherwise available to students. The general assembly further finds that creating a secondary market for education loans serves the public and general welfare purpose and is fully consistent with the long established policy of this state to encourage, promote, and assist the education of residents of this state and to encourage, promote, and support educational institutions within this state. The policy guidelines for this system shall be consistent with and in furtherance of the purposes set forth in this section to stimulate a program of making education loans to eligible borrowers on terms that are expected to have the effect of expanding students' opportunities for attendance at eligible institutions by creating a secondary market for such loans.

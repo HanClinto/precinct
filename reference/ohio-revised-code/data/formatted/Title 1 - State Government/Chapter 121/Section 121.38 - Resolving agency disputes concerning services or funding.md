@@ -1,0 +1,22 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-121.38
+Scraped: 2026-07-02T19:31:35+00:00
+
+# Section 121.38 - Resolving agency disputes concerning services or funding.
+
+**Effective:** June 30, 2005
+
+**Latest Legislation:** House Bill 66 - 126th General Assembly
+
+(A) An agency represented on a county family and children first council that disagrees with the council's decision concerning the services or funding for services a child is to receive from agencies represented on the council may initiate the local dispute resolution process established in the county service coordination mechanism applicable to the council. On completion of the process, the decision maker designated in the mechanism shall issue a written determination that directs one or more agencies represented on the council to provide services or funding for services to the child. The determination shall include a plan of care governing the manner in which the services or funding are to be provided. The decision maker shall base the plan of care on the family service coordination plan developed as part of the county's service coordination mechanism and on evidence presented during the local dispute resolution process. The decision maker may require an agency to provide services or funding only if the child's condition or needs qualify the child for services under the laws governing the agency.
+
+(B) An agency subject to a determination issued pursuant to a local dispute resolution process shall immediately comply with the determination, unless the agency objects to the determination by doing one of the following not later than seven days after the date the written determination is issued:
+
+(1) If the child has been alleged or adjudicated to be an abused, neglected, dependent, unruly, or delinquent child or a juvenile traffic offender, filing in the juvenile court of the county having jurisdiction over the child's case a motion requesting that the court hold a hearing to determine which agencies are to provide services or funding for services to the child.
+
+(2) If the child is not a child described in division (B)(1) of this section, filing in the juvenile court of the county served by the county council a complaint objecting to the determination.
+
+The court shall hold a hearing as soon as possible, but not later than ninety days after the motion or complaint is filed. At least five days before the date on which the court hearing is to be held, the court shall send each agency subject to the determination written notice by first class mail of the date, time, place, and purpose of the court hearing. In the case of a motion filed under division (B)(1) of this section, the court may conduct the hearing as part of the adjudicatory or dispositional hearing concerning the child, if appropriate, and shall provide notice as required for those hearings.
+
+Except in cases in which the hearing is conducted as part of the adjudicatory or dispositional hearing, a hearing held pursuant to this division shall be limited to a determination of which agencies are to provide services or funding for services to the child. At the conclusion of the hearing, the court shall issue an order directing one or more agencies represented on the county council to provide services or funding for services to the child. The order shall include a plan of care governing the manner in which the services or funding are to be provided. The court shall base the plan of care on the family service coordination plan developed as part of the county's service coordination plan and on evidence presented during the hearing. An agency required by the order to provide services or funding shall be a party to any juvenile court proceeding concerning the child. The court may require an agency to provide services or funding for a child only if the child's condition or needs qualify the child for services under the laws governing the agency.
+
+(C) While the local dispute resolution process or court proceedings pursuant to this section are pending, each agency shall provide services and funding as required by the decision made by the county council before dispute resolution was initiated. If an agency that provides services or funds during the local dispute resolution process or court proceedings is determined through the process or proceedings not to be responsible for providing them, it shall be reimbursed for the costs of providing the services or funding by the agencies determined to be responsible for providing them.

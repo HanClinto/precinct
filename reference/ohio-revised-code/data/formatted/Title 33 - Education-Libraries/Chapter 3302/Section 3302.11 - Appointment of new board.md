@@ -1,0 +1,52 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3302.11
+Scraped: 2026-07-02T19:48:16+00:00
+
+# Section 3302.11 - Appointment of new board.
+
+**Effective:** October 3, 2023
+
+**Latest Legislation:** House Bill 33 - 135th General Assembly
+
+(A) This section applies to any school district that becomes subject to division (K) of section 3302.10 of the Revised Code, as it exists on and after October 15, 2015.
+
+(B) As used in this section, "mayor" means the mayor of the municipality in which a majority of the territory of a school district to which this section applies is located or, if no such municipality exist, the mayor of a municipality selected by the director of education and workforce in which the district has territory.
+
+(C) On the first day of January following the date on which this section first applies to a school district, the mayor shall appoint a new five-member board of education for the district from a slate of candidates nominated by the nominating panel established under division (D)(1) of this section.
+
+(D)(1) Not later than thirty days after the date on which this section first applies to a school district, the director shall convene a nominating panel to nominate candidates for appointment to the district board of education. The panel shall consist of the following members:
+
+(a) Two persons appointed by the mayor, one of whom shall be a representative of the business community or an institution of higher education located in the district;
+
+(b) One principal employed by the district, who shall be selected by a vote of the district's principals conducted by the director;
+
+(c) One teacher appointed by the bargaining representative for teachers employed by the district;
+
+(d) One parent of a student enrolled in the district appointed by the parent-teacher association, or a similar organization selected by the director;
+
+(e) The chairperson of the academic distress commission established for the district under section 3302.10 of the Revised Code and the chief executive officer appointed under division (C)(1) of that section, until such time as the commission ceases to exist.
+
+(2) The director shall be a nonvoting member of the panel and shall serve as chairperson of the panel for the first two years of the panel's existence. After that time, the panel shall select one of its members as chairperson. The panel shall meet as necessary to make nominations at the call of the chairperson. All members of the panel shall serve at the pleasure of their appointing authority. A vacancy on the panel shall be filled in the same manner as the initial appointment.
+
+(E) Not later than thirty days after the nominating panel is convened, the panel shall nominate a slate of at least ten candidates for possible appointment to the district board of education. All candidates shall be residents of the school district and shall hold no elected public office. At least two of the candidates shall reside outside of the municipal corporation served by the mayor, if that municipal corporation does not contain all of the district's territory.
+
+(F) Not later than thirty days after receiving the slate of candidates, the mayor shall select five members from the slate for appointment to the district board of education. Initial members of the board shall take office on the first day of January following their appointment and their terms shall expire on the thirtieth day of June following the referendum election required by division (G)(1) of this section.
+
+(G)(1) At the general election held in the first even-numbered year occurring at least three years after the date on which the academic distress commission established for the district ceases to exist pursuant to division (N)(1) of section 3302.10 of the Revised Code, a referendum election shall be held to determine if the mayor shall continue to appoint the district board of education. Not later than ninety days before the general election, the board of education shall notify the board of elections of each county containing territory of the district of the referendum election. At the general election, the following question shall be submitted to the electors of the district:
+
+"Shall the mayor of... (here insert the name of the applicable municipal corporation) continue to appoint the members of the board of education of the... (here insert the name of the school district to which this section applies)?"
+
+The board of elections of the county in which the majority of the district's territory is located shall make all necessary arrangements for the submission of the question to the electors, and the election shall be conducted, canvassed, and certified in the same manner as regular elections in the district for the election of county officers, provided that in any such election in which only part of the electors of a precinct are qualified to vote, the board of elections may assign voters in such part to an adjoining precinct. Such an assignment may be made to an adjoining precinct in another county with the consent and approval of the board of elections of such other county. Notice of the election shall be published in a newspaper of general circulation in the district once a week for two consecutive weeks, or as provided in section 7.16 of the Revised Code, prior to the election. If the board of elections operates and maintains a web site, the board of elections shall post notice of the election on its web site for thirty days prior to the election. The notice shall state the question on which the election is being held. The ballot shall be in the form prescribed by the secretary of state. Costs of submitting the question to the electors shall be charged to the district in accordance with section 3501.17 of the Revised Code.
+
+(2) If a majority of the electors voting on the question proposed in division (G)(1) of this section approve the question, the mayor shall appoint a new board of education on the immediately following first day of July from a slate of candidates nominated by the nominating panel in the same manner as the initial board was appointed pursuant to divisions (E) and (F) of this section. Three of the members of the new board shall be appointed to four-year terms and two of the members shall be appointed to two-year terms, each term beginning on the first day of July. Thereafter, the mayor shall appoint members to four-year terms in the same manner prescribed in divisions (E) and (F) of this section. Whenever the nominating panel is required to nominate a slate of candidates, the panel shall nominate at least twice the number of candidates as members to be appointed to the board at that time, including two candidates who reside outside of the municipal corporation served by the mayor, if that municipal corporation does not contain all of the district's territory. Nothing in this division shall preclude the nominating panel from nominating as a candidate a person who was a member of the board prior to the referendum election or shall preclude the mayor from appointing such a person to the new board.
+
+(3) If a majority of the electors voting on the question proposed in division (G)(1) of this section disapprove the question, a new board of education shall be elected at the next regular election occurring in November of an odd-numbered year. The board shall have the same number of members as the board in place prior to the board appointed under this section. At such election, one-half of the total number of members rounded up to the next whole number shall be elected for terms of four years and the remaining members shall be elected for terms of two years. Thereafter, their successors shall be elected in the same manner and for the same terms as provided in the Revised Code for members of boards of education. All members of the board of education appointed under this section shall continue to serve after the end of the terms to which they were appointed until their successors are qualified and assume office in accordance with section 3313.09 of the Revised Code.
+
+(H) All of the following shall apply to a board of education appointed under division (F) or (G)(2) of this section:
+
+(1) At any given time, at least two of the board members shall have significant expertise in education, finance, or business management and at least one member shall reside outside of the municipal corporation served by the mayor, if that municipal corporation does not contain all of the district's territory.
+
+(2) The members of the board shall designate one of its members as the chairperson of the board. The chairperson shall have all the rights, authority, and duties conferred upon the president of a board of education by the Revised Code.
+
+(3) The mayor may remove any member of the board with the advice and consent of the nominating panel.
+
+Last updated August 1, 2023 at 1:50 PM

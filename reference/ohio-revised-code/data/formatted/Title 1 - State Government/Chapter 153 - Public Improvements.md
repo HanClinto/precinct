@@ -1,0 +1,92 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-153
+Scraped: 2026-07-02T19:32:02+00:00
+
+# Chapter 153 - Public Improvements
+
+## Sections
+
+- Section 153.01 - Architect must submit accurate plans, estimates, bills of materials, and details to scale.
+- Section 153.011 - Using domestic steel products in state supported projects.
+- Section 153.012 - Preference to contractors having principal place of business in Ohio.
+- Section 153.013 - Capitol square review and advisory board - indefinite delivery indefinite quantity contract.
+- Section 153.02 - Debarment of contractor from contract awards.
+- Section 153.03 - Contracts to require drug-free workplace program.
+- Section 153.031 - RC 153.03 requirements limited to state improvements.
+- Section 153.04 - Forms for providing bidding information - life-cycle costs.
+- Section 153.05 - Actions to enforce bond.
+- Section 153.06 - Form of bids.
+- Section 153.07 - Publishing notice of bids.
+- Section 153.08 - Opening bids and awarding contract.
+- Section 153.09 - New proposals when necessary - change in work or materials.
+- Section 153.10 - No change in plans without approval of owner.
+- Section 153.11 - Change of plans becomes part of original contract.
+- Section 153.12 - Awarding and executing contract.
+- Section 153.13 - Estimates of labor and materials - funds in escrow account.
+- Section 153.14 - Estimates to be filed with executive director - payment on materials delivered - payment procedure.
+- Section 153.15 - Assessment of asbestos hazard.
+- Section 153.16 - Policy and procedure guidelines for contract documents in conjunction with administration of public works contracts.
+- Section 153.17 - Requisition upon contractor for additional specific force or materials.
+- Section 153.18 - Certification of additional force or materials.
+- Section 153.19 - Contract shall contain provision as to time of completion.
+- Section 153.20 - Duty of attorney general.
+- Section 153.21 - Building commission.
+- Section 153.22 - Compensation of commissioners.
+- Section 153.23 - Expenses of building commission.
+- Section 153.24 - Oath and bond.
+- Section 153.25 - Vacancies.
+- Section 153.26 - Contracts.
+- Section 153.27 - Architects - superintendents - employees.
+- Section 153.28 - Plans, drawings, and cost estimates filed with county auditor.
+- Section 153.29 - Proceedings of building commission.
+- Section 153.30 - Record of proceedings.
+- Section 153.31 - Plans and estimates for construction - construction project manager or consultants.
+- Section 153.311 - Construction of public building in stages.
+- Section 153.32 - Contracts for erection and repair of superstructures.
+- Section 153.33 - Bids on other plans may be considered.
+- Section 153.34 - Contents of advertisement.
+- Section 153.35 - Plans shall be kept on file in county auditor's office.
+- Section 153.36 - Approval of plans for courthouse or jail.
+- Section 153.37 - Approval of plans for county home.
+- Section 153.38 - Approval of plans for bridge.
+- Section 153.39 - Approval of plans for children's home.
+- Section 153.44 - Contracts submitted to prosecuting attorney.
+- Section 153.45 - Commissioners may annul old and make new contracts.
+- Section 153.49 - Duty of county treasurer.
+- Section 153.50 - Separate bids for work and materials.
+- Section 153.501 - Subcontracts awarded by construction manager at risk, design-build firm, or general contracting firm; utilization of design-assist firm; self-performed portions of work.
+- Section 153.502 - Construction management or design-build contracts; prequalification of bidders.
+- Section 153.503 - Adoption of rules.
+- Section 153.51 - Separate contracts - single, aggregate contract.
+- Section 153.52 - Awarding of contracts to separate bidders.
+- Section 153.53 - Adjusting threshold in section 153.01 for inflation.
+- Section 153.54 - Bid guaranty to be filed with bid.
+- Section 153.55 - Dividing project into parts to avoid threshold prohibited; costs included in threshold amount.
+- Section 153.56 - Creditor shall furnish statement of amount due - service of notice of furnishing.
+- Section 153.57 - Form of bond.
+- Section 153.571 - Form of bond.
+- Section 153.58 - Prohibition.
+- Section 153.581 - Contracts for construction definitions.
+- Section 153.59 - Discrimination and intimidation on account of race, religion, sex, disability, national origin or ancestry.
+- Section 153.591 - Hiring hall contract or agreement.
+- Section 153.60 - Forfeiture.
+- Section 153.61 - Agreement for joint construction and management.
+- Section 153.62 - Issuing change order for additional work.
+- Section 153.63 - Agreement for escrow account for contractor.
+- Section 153.64 - Protecting underground utility facilities during construction of public improvement.
+- Section 153.65 - Professional design services definitions.
+- Section 153.66 - Submitting statement of qualifications.
+- Section 153.67 - Announcing contracts available for professional design or design-build services.
+- Section 153.68 - Instituting prequalification requirements.
+- Section 153.69 - Evaluating and selecting firms.
+- Section 153.691 - No fee estimate on contract for professional design services.
+- Section 153.692 - Obtaining services of criteria architect or engineer.
+- Section 153.693 - Evaluation of design-build firms.
+- Section 153.694 - Conflicts of interest.
+- Section 153.70 - Requiring professional liability insurance.
+- Section 153.71 - Administrative rules.
+- Section 153.72 - Authority of design-build firm.
+- Section 153.73 - Construction of statutes.
+- Section 153.80 - Reducing bond.
+- Section 153.81 - Indemnity provisions in public works design contracts.
+- Section 153.83 - Hearings related to contractor labor agreements.
+- Section 153.99 - Penalty.

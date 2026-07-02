@@ -1,0 +1,100 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-109.573
+Scraped: 2026-07-02T19:31:26+00:00
+
+# Section 109.573 - DNA laboratory - databases.
+
+**Effective:** March 23, 2015
+
+**Latest Legislation:** Senate Bill 316 - 130th General Assembly
+
+(A) As used in this section:
+
+(1) "DNA" means human deoxyribonucleic acid.
+
+(2) "DNA analysis" means a laboratory analysis of a DNA specimen to identify DNA characteristics and to create a DNA record.
+
+(3) "DNA database" means a collection of DNA records from forensic casework or from crime scenes, specimens from anonymous and unidentified sources, and records collected pursuant to sections 2152.74 and 2901.07 of the Revised Code and a population statistics database for determining the frequency of occurrence of characteristics in DNA records.
+
+(4) "DNA record" means the objective result of a DNA analysis of a DNA specimen, including representations of DNA fragment lengths, digital images of autoradiographs, discrete allele assignment numbers, and other DNA specimen characteristics that aid in establishing the identity of an individual.
+
+(5) "DNA specimen" includes human blood cells or physiological tissues or body fluids.
+
+(6) "Unidentified person database" means a collection of DNA records, and, on and after May 21, 1998, of fingerprint and photograph records, of unidentified human corpses, human remains, or living individuals.
+
+(7) "Relatives of missing persons database" means a collection of DNA records of persons related by consanguinity to a missing person.
+
+(8) "Law enforcement agency" means a police department, the office of a sheriff, the state highway patrol, a county prosecuting attorney, or a federal, state, or local governmental body that enforces criminal laws and that has employees who have a statutory power of arrest.
+
+(9) "Administration of criminal justice" means the performance of detection, apprehension, detention, pretrial release, post-trial release, prosecution, adjudication, correctional supervision, or rehabilitation of accused persons or criminal offenders. "Administration of criminal justice" also includes criminal identification activities and the collection, storage, and dissemination of criminal history record information.
+
+(B)(1) The superintendent of the bureau of criminal identification and investigation may do all of the following:
+
+(a) Establish and maintain a state DNA laboratory to perform DNA analyses of DNA specimens;
+
+(b) Establish and maintain a DNA database;
+
+(c) Establish and maintain an unidentified person database to aid in the establishment of the identity of unknown human corpses, human remains, or living individuals;
+
+(d) Establish and maintain a relatives of missing persons database for comparison with the unidentified person database to aid in the establishment of the identity of unknown human corpses, human remains, and living individuals.
+
+(2) If the bureau of criminal identification and investigation establishes and maintains a DNA laboratory and a DNA database, the bureau may use or disclose information regarding DNA records for the following purposes:
+
+(a) The bureau may disclose information to a law enforcement agency for the administration of criminal justice.
+
+(b) The bureau shall disclose pursuant to a court order issued under section 3111.09 of the Revised Code any information necessary to determine the existence of a parent and child relationship in an action brought under sections 3111.01 to 3111.18 of the Revised Code.
+
+(c) The bureau may use or disclose information from the population statistics database for identification research and protocol development or for quality control purposes.
+
+(3) If the bureau of criminal identification and investigation establishes and maintains a relatives of missing persons database, all of the following apply:
+
+(a) If a person has disappeared and has been continuously absent from the person's place of last domicile for a thirty-day or longer period of time without being heard from during the period, persons related by consanguinity to the missing person may submit to the bureau a DNA specimen, the bureau may include the DNA record of the specimen in the relatives of missing persons database, and, if the bureau does not include the DNA record of the specimen in the relatives of missing persons database, the bureau shall retain the DNA record for future reference and inclusion as appropriate in that database.
+
+(b) The bureau shall not charge a fee for the submission of a DNA specimen pursuant to division (B)(3)(a) of this section.
+
+(c) If the DNA specimen submitted pursuant to division (B)(3)(a) of this section is collected by withdrawing blood from the person or a similarly invasive procedure, a physician, registered nurse, licensed practical nurse, duly licensed clinical laboratory technician, or other qualified medical practitioner shall conduct the collection procedure for the DNA specimen submitted pursuant to division (B)(3)(a) of this section and shall collect the DNA specimen in a medically approved manner. If the DNA specimen is collected by swabbing for buccal cells or a similarly noninvasive procedure, division (B)(3)(c) of this section does not require that the DNA specimen be collected by a qualified medical practitioner of that nature. No later than fifteen days after the date of the collection of the DNA specimen, the person conducting the DNA specimen collection procedure shall cause the DNA specimen to be forwarded to the bureau of criminal identification and investigation in accordance with procedures established by the superintendent of the bureau under division (H) of this section. The bureau may provide the specimen vials, mailing tubes, labels, postage, and instruction needed for the collection and forwarding of the DNA specimen to the bureau.
+
+(d) The superintendent, in the superintendent's discretion, may compare DNA records in the relatives of missing persons database with the DNA records in the unidentified person database.
+
+(4) If the bureau of criminal identification and investigation establishes and maintains an unidentified person database and if the superintendent of the bureau identifies a matching DNA record for the DNA record of a person or deceased person whose DNA record is contained in the unidentified person database, the superintendent shall inform the coroner who submitted or the law enforcement agency that submitted the DNA specimen to the bureau of the match and, if possible, of the identity of the unidentified person.
+
+(5) The bureau of criminal identification and investigation may enter into a contract with a qualified public or private laboratory to perform DNA analyses, DNA specimen maintenance, preservation, and storage, DNA record keeping, and other duties required of the bureau under this section. A public or private laboratory under contract with the bureau shall follow quality assurance and privacy requirements established by the superintendent of the bureau.
+
+(C) The superintendent of the bureau of criminal identification and investigation shall establish procedures for entering into the DNA database the DNA records submitted pursuant to sections 2152.74 and 2901.07 of the Revised Code and for determining an order of priority for entry of the DNA records based on the types of offenses committed by the persons whose records are submitted and the available resources of the bureau.
+
+(D) When a DNA record is derived from a DNA specimen provided pursuant to section 2152.74 or 2901.07 of the Revised Code, the bureau of criminal identification and investigation shall attach to the DNA record personal identification information that identifies the person from whom the DNA specimen was taken. The personal identification information may include the subject person's fingerprints and any other information the bureau determines necessary. The DNA record and personal identification information attached to it shall be used only for the purpose of personal identification or for a purpose specified in this section.
+
+(E) DNA records, DNA specimens, fingerprints, and photographs that the bureau of criminal identification and investigation receives pursuant to this section and sections 313.08 , 2152.74 , 2901.07 , and 2933.82 of the Revised Code and personal identification information attached to a DNA record are not public records under section 149.43 of the Revised Code.
+
+(F) The bureau of criminal identification and investigation may charge a reasonable fee for providing information pursuant to this section to any law enforcement agency located in another state.
+
+(G)(1) No person who because of the person's employment or official position has access to a DNA specimen, a DNA record, or other information contained in the DNA database that identifies an individual shall knowingly disclose that specimen, record, or information to any person or agency not entitled to receive it or otherwise shall misuse that specimen, record, or information.
+
+(2) No person without authorization or privilege to obtain information contained in the DNA database that identifies an individual person shall purposely obtain that information.
+
+(H) The superintendent of the bureau of criminal identification and investigation shall establish procedures for all of the following:
+
+(1) The forwarding to the bureau of DNA specimens collected pursuant to division (H) of this section and sections 313.08 , 2152.74 , 2901.07 , and 2933.82 of the Revised Code and of fingerprints and photographs collected pursuant to section 313.08 of the Revised Code;
+
+(2) The collection, maintenance, preservation, and analysis of DNA specimens;
+
+(3) The creation, maintenance, and operation of the DNA database;
+
+(4) The use and dissemination of information from the DNA database;
+
+(5) The creation, maintenance, and operation of the unidentified person database;
+
+(6) The use and dissemination of information from the unidentified person database;
+
+(7) The creation, maintenance, and operation of the relatives of missing persons database;
+
+(8) The use and dissemination of information from the relatives of missing persons database;
+
+(9) The verification of entities requesting DNA records and other DNA information from the bureau and the authority of the entity to receive the information;
+
+(10) The operation of the bureau and responsibilities of employees of the bureau with respect to the activities described in this section.
+
+(I) In conducting DNA analyses of DNA specimens, the state DNA laboratory and any laboratory with which the bureau has entered into a contract pursuant to division (B)(5) of this section shall give DNA analyses of DNA specimens that relate to ongoing criminal investigations or prosecutions or that are forwarded by law enforcement agencies pursuant to divisions (B)(2)(a) and (b) of section 2933.82 of the Revised Code priority over DNA analyses of DNA specimens that relate to applications made pursuant to section 2953.73 of the Revised Code. The state DNA laboratory and any laboratory under contract with the bureau to perform DNA analyses shall consider the period of time remaining under section 2901.13 of the Revised Code for commencing the prosecution of a criminal offense related to the DNA specimens as well as other relevant factors in prioritizing DNA analysis of the DNA specimens forwarded by law enforcement agencies pursuant to division (B)(2)(a) or (b) of section 2933.82 of the Revised Code.
+
+(J) The attorney general may develop procedures for entering into the national DNA index system the DNA records submitted pursuant to division (B)(1) of section 2901.07 of the Revised Code.
+
+Last updated January 31, 2022 at 3:50 PM

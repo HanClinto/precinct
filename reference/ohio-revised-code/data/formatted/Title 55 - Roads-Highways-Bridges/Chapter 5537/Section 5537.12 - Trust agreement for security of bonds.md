@@ -1,0 +1,12 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5537.12
+Scraped: 2026-07-02T20:13:14+00:00
+
+# Section 5537.12 - Trust agreement for security of bonds.
+
+**Effective:** July 1, 2013
+
+**Latest Legislation:** House Bill 51 - 130th General Assembly
+
+(A) In the discretion of the Ohio turnpike and infrastructure commission any bonds may be secured by a trust agreement between the commission and a corporate trustee, which may be any trust company or bank having the powers of a trust company within or without the state but authorized to exercise trust powers within this state.
+
+(B) Any trust agreement may pledge or assign the revenues to be received, but shall not convey or mortgage any turnpike project or infrastructure project, any part of a turnpike project or infrastructure project, or any part of the Ohio turnpike system or the Ohio turnpike and infrastructure system. Any such trust agreement or other bond proceedings may contain provisions for protecting and enforcing the rights and remedies of the bondholders that are reasonable and proper and not in violation of law, including covenants setting forth the duties of the commission in relation to the acquisition of property, and the construction, maintenance, repair, operation, and insurance of the turnpike project or projects in connection with which the bonds are authorized, the rates of toll to be charged, and the custody, safeguarding, and application of all moneys, and provisions for the employment or retention of the services of consulting engineers in connection with the construction, maintenance, or operation of the turnpike project or projects. Any bank or trust company incorporated under the laws of this state which may act as depository of the proceeds of bonds or of revenues may furnish such indemnifying bonds or may pledge such securities as are required by the commission. Any such trust agreement may set forth the rights and remedies of the bondholders and of the trustee, may restrict the individual right of action by bondholders as is customary in revenue bond trust agreements of public bodies, and may contain other provisions that the commission considers reasonable and proper for the security of the bondholders. All expenses incurred in entering into or carrying out the provisions of such a trust agreement may be treated as a part of the cost, or of the cost of the operation, of the turnpike project or projects.

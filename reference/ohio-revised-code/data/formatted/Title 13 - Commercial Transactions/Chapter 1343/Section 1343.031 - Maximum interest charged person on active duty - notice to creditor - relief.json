@@ -1,0 +1,42 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Active duty\" means active duty pursuant to an executive order of the president of the United States, an act of the congress of the United States, or section 5919.29 or 5923.21 of the Revised Code.",
+      "id": "1343.031-active-duty",
+      "normalized": "active duty",
+      "scope": "(A) As used in this section:",
+      "section": "1343.031",
+      "source_title": "Section 1343.031 - Maximum interest charged person on active duty - notice to creditor - relief.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1343.031",
+      "term": "Active duty"
+    },
+    {
+      "definition": "(2) \"Obligation\" means any retail installment sales contract, other contract for the purchase of goods or services, or bond, bill, note, or other instrument of writing for the payment of money arising out of a contract or other transaction for the purchase of goods or services.\n\n(B) Notwithstanding any contrary provision of the Revised Code, no creditor in connection with an obligation entered into on or after the effective date of this section shall charge or collect from a person, or spouse of a person, who is deployed on active duty interest or finance charges exceeding six per cent per annum during the period that the person is deployed on active duty.\n\n(C) Notwithstanding any contrary provision of the Revised Code, interest or finance charges in excess of six per cent per annum that otherwise would be incurred but for the prohibition in division (B) of this section are forgiven.\n\n(D) The amount of any periodic payment due from a person, or spouse of a person, who is deployed on active duty under the terms of the obligation shall be reduced by the amount of the interest and finance charges forgiven under division (C) of this section that is allocable to the period for which the periodic payment is made.\n\n(E) In order for an obligation to be subject to the interest and finance charges limitation of this section, the person, or spouse of the person, deployed on active duty shall provide the creditor with written notice of and a copy of the military or gubernatorial orders calling the person to active duty and of any orders further extending active duty, not later than one hundred eighty days after the date of the person's termination of or release from active duty.\n\n(F) Upon receipt of the written notice and a copy of the orders referred to in division (E) of this section, the creditor shall treat the obligation in accordance with division (B) of this section, effective as of the date on which the person is deployed to active duty.\n\n(G) A court may grant a creditor relief from the interest and finance charges limitation of this section, if, in the opinion of the court, the ability of the person, or spouse of the person, deployed on active duty to pay interest or finance charges with respect to the obligation at a rate in excess of six per cent per annum is not materially affected by reason of the person's deployment on active duty.",
+      "id": "1343.031-obligation",
+      "normalized": "obligation",
+      "scope": "(A) As used in this section:",
+      "section": "1343.031",
+      "source_title": "Section 1343.031 - Maximum interest charged person on active duty - notice to creditor - relief.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1343.031",
+      "term": "Obligation"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "5919.29",
+      "number": "5919.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5919.29"
+    },
+    {
+      "kind": "section",
+      "label": "5923.21",
+      "number": "5923.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5923.21"
+    }
+  ],
+  "scraped": "2026-07-02T19:37:24+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1343.031",
+  "title": "Section 1343.031 - Maximum interest charged person on active duty - notice to creditor - relief."
+}

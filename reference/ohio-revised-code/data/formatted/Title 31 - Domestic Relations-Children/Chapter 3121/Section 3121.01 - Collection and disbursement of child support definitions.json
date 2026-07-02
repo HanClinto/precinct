@@ -1,0 +1,80 @@
+{
+  "glossary": [
+    {
+      "definition": "(B) \"Default\" means any failure to pay under a support order that is an amount greater than or equal to the amount of support payable under the support order for one month.",
+      "id": "3121.01-default",
+      "normalized": "default",
+      "scope": "As used in this chapter:",
+      "section": "3121.01",
+      "source_title": "Section 3121.01 - Collection and disbursement of child support definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3121.01",
+      "term": "Default"
+    },
+    {
+      "definition": "(C) \"Financial institution\" means a bank, savings and loan association, or credit union, or a regulated investment company or mutual fund.",
+      "id": "3121.01-financial-institution",
+      "normalized": "financial institution",
+      "scope": "As used in this chapter:",
+      "section": "3121.01",
+      "source_title": "Section 3121.01 - Collection and disbursement of child support definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3121.01",
+      "term": "Financial institution"
+    },
+    {
+      "definition": "(D) \"Income\" means any form of monetary payment, including personal earnings; workers' compensation payments; unemployment compensation benefits to the extent permitted by, and in accordance with, sections 3121.07 and 4141.284 of the Revised Code, and federal law governing the department of job and family services; pensions; annuities; allowances; private or governmental retirement benefits; disability or sick pay; insurance proceeds; lottery prize awards; federal, state, or local government benefits to the extent that the benefits can be withheld or deducted under the law governing the benefits; any form of trust fund or endowment; lump sum payments, including a one-time pay supplement of one hundred fifty dollars or more paid under section 124.183 of the Revised Code; and any other payment in money.",
+      "id": "3121.01-income",
+      "normalized": "income",
+      "scope": "As used in this chapter:",
+      "section": "3121.01",
+      "source_title": "Section 3121.01 - Collection and disbursement of child support definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3121.01",
+      "term": "Income"
+    },
+    {
+      "definition": "(E) \"Payor\" means any person or entity that pays or distributes income to an obligor, including an obligor if the obligor is self-employed; an employer; an employer paying an obligor's workers' compensation benefits; the public employees retirement board; the governing entity of a municipal retirement system; the board of trustees of the Ohio police and fire pension fund; the state teachers retirement board; the school employees retirement board; the state highway patrol retirement board; a provider, as defined in section 3305.01 of the Revised Code; the bureau of workers' compensation; or any other person or entity other than the department of job and family services with respect to unemployment compensation benefits paid pursuant to Chapter 4141. of the Revised Code.",
+      "id": "3121.01-payor",
+      "normalized": "payor",
+      "scope": "As used in this chapter:",
+      "section": "3121.01",
+      "source_title": "Section 3121.01 - Collection and disbursement of child support definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3121.01",
+      "term": "Payor"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3119.01",
+      "number": "3119.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.01"
+    },
+    {
+      "kind": "section",
+      "label": "3121.07",
+      "number": "3121.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3121.07"
+    },
+    {
+      "kind": "section",
+      "label": "4141.284",
+      "number": "4141.284",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.284"
+    },
+    {
+      "kind": "section",
+      "label": "124.183",
+      "number": "124.183",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.183"
+    },
+    {
+      "kind": "section",
+      "label": "3305.01",
+      "number": "3305.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3305.01"
+    }
+  ],
+  "scraped": "2026-07-02T19:47:57+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3121.01",
+  "title": "Section 3121.01 - Collection and disbursement of child support definitions."
+}

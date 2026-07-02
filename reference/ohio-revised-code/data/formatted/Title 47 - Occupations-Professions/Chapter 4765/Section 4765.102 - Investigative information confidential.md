@@ -1,0 +1,18 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4765.102
+Scraped: 2026-07-02T20:08:05+00:00
+
+# Section 4765.102 - Investigative information confidential.
+
+**Effective:** July 1, 2013
+
+**Latest Legislation:** House Bill 51 - 130th General Assembly
+
+(A) As used in this section, "licensing agency" means any entity that has the authority pursuant to Title XLVII of the Revised Code to issue a license, and any other agency of this or another state, other than the Ohio supreme court, that has the authority to issue a license that authorizes an individual to engage in an occupation or profession. "Licensing agency" includes an administrative officer that has authority to issue a license that authorizes an individual to engage in an occupation or profession.
+
+(B) Except as provided in divisions (C) and (D) of this section and section 4765.111 of the Revised Code, all information the state board of emergency medical, fire, and transportation services receives pursuant to an investigation, including information regarding an alleged violation of this chapter or rules adopted under it or a complaint submitted under division (A) of section 4765.101 of the Revised Code, is confidential, and is not subject to discovery in any civil action, during the course of the investigation and any adjudication proceedings that result from the investigation. Upon completion of the investigation and any resulting adjudication proceedings, the information is a matter of public record for purposes of section 149.43 of the Revised Code.
+
+(C) The board may release information otherwise made confidential by division (B) of this section to law enforcement officers or licensing agencies of this or another state that are prosecuting, adjudicating, or investigating the holder of a certificate issued under this chapter or a person who allegedly engaged in the unauthorized provision of emergency medical services.
+
+A law enforcement officer or licensing agency with information disclosed by the board under this division shall not divulge the information other than for the purpose of an adjudication by a court or licensing agency to which the subject of the adjudication is a party.
+
+(D) If an investigation conducted under section 4765.101 of the Revised Code requires a review of patient records, the investigation and proceedings related to it shall be conducted in such a manner as to protect patient confidentiality. The board shall not make public the name or any other identifying information about a patient unless proper consent is given in accordance with rules adopted by the board. If the patient is less than eighteen years of age, the board shall obtain consent from the patient's parent, guardian, or custodian.

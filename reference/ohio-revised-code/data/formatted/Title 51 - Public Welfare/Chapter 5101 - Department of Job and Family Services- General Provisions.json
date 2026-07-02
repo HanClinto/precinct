@@ -1,0 +1,873 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 5101.01 - Referring to department or director of public welfare or human services; references to county department of job and family services; references to board of county commissioners.",
+      "number": "5101.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.02 - Authority of director of job and family services.",
+      "number": "5101.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.03 - Assistant directors - powers and duties.",
+      "number": "5101.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.04 - Contract with commercial consumer reporting agency.",
+      "number": "5101.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.041 - Data matching agreements.",
+      "number": "5101.041",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.041"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.042 - Public assistance benefits systems update.",
+      "number": "5101.042",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.042"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.05 - Appointing employees.",
+      "number": "5101.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.051 - Filling positions with peculiar and exceptional qualifications.",
+      "number": "5101.051",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.051"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.06 - Establishing work units.",
+      "number": "5101.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.061 - Office of human services innovation.",
+      "number": "5101.061",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.061"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.07 - Support services federal operating fund.",
+      "number": "5101.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.071 - Support services state operating fund.",
+      "number": "5101.071",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.071"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.072 - Human services projects fund.",
+      "number": "5101.072",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.072"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.073 - ODJFS general services administration and operating fund.",
+      "number": "5101.073",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.073"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.074 - Disposition of refunds.",
+      "number": "5101.074",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.074"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.08 - Fidelity bonds.",
+      "number": "5101.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.09 - Adopting rules.",
+      "number": "5101.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.10 - Expending funds.",
+      "number": "5101.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.101 - Order of priority for distribution of funds for family planning services.",
+      "number": "5101.101",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.101"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.11 - Seeking federal financial participation for costs incurred by entity implementing program administered by department.",
+      "number": "5101.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.111 - Foundation grant fund.",
+      "number": "5101.111",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.111"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.12 - Maximizing receipt of federal revenue.",
+      "number": "5101.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.16 - Paying county share of public assistance expenditures.",
+      "number": "5101.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.161 - Public assistance fund.",
+      "number": "5101.161",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.161"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.162 - Reimbursing county expenditures for county administration of food stamps or medicaid.",
+      "number": "5101.162",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.162"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.163 - Increase in county share of public assistance expenditures.",
+      "number": "5101.163",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.163"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.17 - Payments made under Economic Opportunity Act not regarded as income or resources.",
+      "number": "5101.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.18 - Determining what payments shall be regarded or disregarded as income in determining aid.",
+      "number": "5101.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.181 - Matching agency records to determine overpayment of public assistance.",
+      "number": "5101.181",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.181"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.182 - Matching income tax returns to determine overpayment of public assistance.",
+      "number": "5101.182",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.182"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.183 - Rules regarding recovering cost of social services provided or diverted to ineligible persons.",
+      "number": "5101.183",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.183"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.184 - Collecting overpayments of assistance from state and federal income tax refunds.",
+      "number": "5101.184",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.184"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.20 - Grant agreements for workforce development activities.",
+      "number": "5101.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.201 - Agreements with one-stop operators and partners implementing Workforce Innovation and Opportunity Act.",
+      "number": "5101.201",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.201"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.21 - Written grant agreements between director and county.",
+      "number": "5101.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.211 - Written agreements with state agency, university or college or private or government entity.",
+      "number": "5101.211",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.211"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.212 - Duty of religious organization contracting with department.",
+      "number": "5101.212",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.212"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.214 - Agreements to enhance county family services duties and workforce development activities.",
+      "number": "5101.214",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.214"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.215 - Agreements with religious organization.",
+      "number": "5101.215",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.215"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.216 - Written operational agreements with county for family service duties.",
+      "number": "5101.216",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.216"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.22 - Establishing performance and administrative standards for county agencies.",
+      "number": "5101.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.221 - County family services agency corrective action plan.",
+      "number": "5101.221",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.221"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.222 - Administrative rules.",
+      "number": "5101.222",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.222"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.23 - Providing incentive awards to county agencies.",
+      "number": "5101.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.24 - Actions for failure to meet performance standards.",
+      "number": "5101.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.241 - Actions for noncompliance with workforce development activity standards or requirements.",
+      "number": "5101.241",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.241"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.242 - Certification of claim to recover funds.",
+      "number": "5101.242",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.242"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.243 - Administrative rules.",
+      "number": "5101.243",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.243"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.244 - Adjustment to recover expenditures exceeding allowable amount.",
+      "number": "5101.244",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.244"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.25 - Developing annual training goals and model training curriculum.",
+      "number": "5101.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.26 - Disclosure of information definitions.",
+      "number": "5101.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.27 - Restricting disclosure of information regarding public assistance recipients.",
+      "number": "5101.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.272 - Authorization form.",
+      "number": "5101.272",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.272"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.273 - Membership in the public assistance reporting information system.",
+      "number": "5101.273",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.273"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.28 - Written agreements with law enforcement agencies to exchange, obtain, or share information regarding public assistance recipients.",
+      "number": "5101.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.29 - Certain child care records not subject to public records law.",
+      "number": "5101.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.30 - Rules for conditions and procedures for the release of information.",
+      "number": "5101.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.311 - [Former R.C. 122.66, amended and renumbered as R.C. 5101.311 by H.B. 96, 136th General Assembly, effective 9/30/2025] Definitions.",
+      "number": "5101.311",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.311"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.312 - [Former R.C. 122.67, amended and renumbered as R.C. 5101.312 by H.B. 96, 136th General Assembly, effective 9/30/2025] Job and family services authority over community services assistance personnel.",
+      "number": "5101.312",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.312"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.313 - [Former R.C. 122.68, amended and renumbered as R.C. 5101.313 by H.B. 96, 136th General Assembly, effective 9/30/2025] Job and family services duties regarding community services assistance.",
+      "number": "5101.313",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.313"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.314 - [Former R.C. 122.681, amended and renumbered as R.C. 5101.314 by H.B. 96, 136th General Assembly, effective 9/30/2025] Confidentiality of information.",
+      "number": "5101.314",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.314"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.315 - [Former R.C. 122.69, amended and renumbered as R.C. 5101.315 by H.B. 96, 136th General Assembly, effective 9/30/2025] Endorsement of community action agency.",
+      "number": "5101.315",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.315"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.316 - [Former R.C. 122.70, amended and renumbered as R.C. 5101.316 by H.B. 96, 136th General Assembly, effective 9/30/2025] Board of directors of community action agencies - powers and duties.",
+      "number": "5101.316",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.316"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.317 - [Former R.C. 122.701, amended and renumbered as R.C. 5101.317 by H.B. 96, 136th General Assembly, effective 9/30/2025] Designating new or rescinding former community action agency designation.",
+      "number": "5101.317",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.317"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.318 - [Former R.C. 122.702, amended and renumbered as R.C. 5101.318 by H.B. 96, 136th General Assembly, effective 9/30/2025] Hearings on use of community services block grant funds.",
+      "number": "5101.318",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.318"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.32 - Procedures and formats for RC 109.5721 notices.",
+      "number": "5101.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.33 - Electronic benefit transfers.",
+      "number": "5101.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.35 - Appeals.",
+      "number": "5101.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.351 - Hearing officers.",
+      "number": "5101.351",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.351"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.36 - Right of subrogation to department of job and family services for workers' compensation benefits.",
+      "number": "5101.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.37 - Investigations and hearings by department, county or child support enforcement agency.",
+      "number": "5101.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.38 - Appointment of agents.",
+      "number": "5101.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.44 - Ohio welfare conference.",
+      "number": "5101.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.45 - Conference expenses.",
+      "number": "5101.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.46 - Administering provision of social services funded through grants made under Title XX.",
+      "number": "5101.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.461 - Use of Title IV-A funds for Title XX social services.",
+      "number": "5101.461",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.461"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.47 - Administrative activities for certain programs.",
+      "number": "5101.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.48 - Distributing food commodities.",
+      "number": "5101.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.49 - Establishing refugee assistance program and state legalization impact assistance program.",
+      "number": "5101.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.53 - Supplementing payments of recipients of aid under Title XVI of Social Security Act.",
+      "number": "5101.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.54 - Administering food stamp program.",
+      "number": "5101.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.541 - Food stamp program fund.",
+      "number": "5101.541",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.541"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.542 - Electronic benefit transfer card.",
+      "number": "5101.542",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.542"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.543 - SNAP high balance account monitoring.",
+      "number": "5101.543",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.543"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.544 - Failure of household member to perform required action.",
+      "number": "5101.544",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.544"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.545 - Application to participate in elderly simplified application project.",
+      "number": "5101.545",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.545"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.546 - SNAP payment error rates methodology and technical system.",
+      "number": "5101.546",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.546"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.547 - Employment and training program redesign.",
+      "number": "5101.547",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.547"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.548 - SNAP work requirements waivers and exemptions.",
+      "number": "5101.548",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.548"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.549 - SNAP waiver to exclude sugar-sweetened beverages.",
+      "number": "5101.549",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.549"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.5410 - Exclusion of cultivated-protein food products from SNAP.",
+      "number": "5101.5410",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.5410"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.55 - Abortion.",
+      "number": "5101.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.56 - Use of state or local funds for abortion services.",
+      "number": "5101.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.57 - Use of public facilities for nontheurapeutic abortions prohibited.",
+      "number": "5101.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.60 - Adult protective services definitions.",
+      "number": "5101.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.61 - Implementing adult protective services.",
+      "number": "5101.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.611 - Reimbursing costs of providing services.",
+      "number": "5101.611",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.611"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.612 - Allocation of county adult protective services funds.",
+      "number": "5101.612",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.612"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.62 - Training program.",
+      "number": "5101.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.621 - Memorandum of understanding related to responsibilities in cases of adult abuse, neglect, and exploitation.",
+      "number": "5101.621",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.621"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.63 - Reporting abuse, neglect or exploitation of adult.",
+      "number": "5101.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.631 - [Former R.C. 5101.612, amended and renumbered by H.B. 49, 132nd General Assembly, effective 9/29/2018] Uniform statewide automated adult protective services information system.",
+      "number": "5101.631",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.631"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.632 - Access to educational materials.",
+      "number": "5101.632",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.632"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.64 - Referring cases of abuse.",
+      "number": "5101.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.65 - Investigations.",
+      "number": "5101.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.651 - Temporary restraining order.",
+      "number": "5101.651",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.651"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.652 - Authority to contract with other entities to perform certain duties.",
+      "number": "5101.652",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.652"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.66 - Request or consent to receiving protective services.",
+      "number": "5101.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.68 - Petitioning for court order to provide protective services.",
+      "number": "5101.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.68"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.681 - Notice of petition.",
+      "number": "5101.681",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.681"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.682 - Hearing.",
+      "number": "5101.682",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.682"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.69 - Temporary restraining order to restrain person from interfering with provision of protective services.",
+      "number": "5101.69",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.69"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.70 - Emergency order.",
+      "number": "5101.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.701 - Ex parte emergency order authorizing provision of protective services.",
+      "number": "5101.701",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.701"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.702 - Hearing.",
+      "number": "5101.702",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.702"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.71 - Evaluating ability to pay for services.",
+      "number": "5101.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.73 - Denial or obstruction of access to adult victim's residence.",
+      "number": "5101.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.74 - Elder abuse commission.",
+      "number": "5101.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.74"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.741 - Duties of commission.",
+      "number": "5101.741",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.741"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.80 - Administering Title IV-A of the Social Security Act.",
+      "number": "5101.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.80"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.801 - Benefits and services that are not defined as assistance.",
+      "number": "5101.801",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.801"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.803 - Title IV-A demonstration program.",
+      "number": "5101.803",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.803"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.806 - TANF spending plan.",
+      "number": "5101.806",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.806"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.81 - Examination of Title IV-A state plan by legislature.",
+      "number": "5101.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.82 - Title IV-A reserve fund.",
+      "number": "5101.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.82"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.821 - TANF federal fund.",
+      "number": "5101.821",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.821"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.83 - Repaying fraudulent assistance.",
+      "number": "5101.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.83"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.84 - Eligibility for aid.",
+      "number": "5101.84",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.84"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.86 - Adult emergency assistance program.",
+      "number": "5101.86",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.86"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.87 - Victims of human trafficking fund.",
+      "number": "5101.87",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.87"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.89 - Youth and family ombudsmen office definitions.",
+      "number": "5101.89",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.89"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.891 - Youth and family ombudsmen office.",
+      "number": "5101.891",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.891"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.892 - Office duties; annual report.",
+      "number": "5101.892",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.892"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.893 - Evaluation of annual report.",
+      "number": "5101.893",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.893"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.894 - Reporting suspected violations of state law.",
+      "number": "5101.894",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.894"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.895 - Office administration.",
+      "number": "5101.895",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.895"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.897 - Employee prohibitions.",
+      "number": "5101.897",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.897"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.899 - Record access and confidentiality.",
+      "number": "5101.899",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.899"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.90 - Evaluation of county department on helping public assistance recipients obtain employment.",
+      "number": "5101.90",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.90"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.93 - Warning, explanation for failure to report violation involving a companion animal.",
+      "number": "5101.93",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.93"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.95 - Notice of public assistance waiver or state plan amendment.",
+      "number": "5101.95",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.95"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.971 - Annual report.",
+      "number": "5101.971",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.971"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.98 - Public assistance programs quarterly report.",
+      "number": "5101.98",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.98"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5101.99 - Penalty.",
+      "number": "5101.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.99"
+    }
+  ],
+  "scraped": "2026-07-02T20:10:22+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-5101",
+  "title": "Chapter 5101 - Department of Job and Family Services- General Provisions"
+}

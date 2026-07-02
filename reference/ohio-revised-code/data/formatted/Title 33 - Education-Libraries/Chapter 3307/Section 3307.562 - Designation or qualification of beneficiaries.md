@@ -1,0 +1,68 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3307.562
+Scraped: 2026-07-02T19:48:25+00:00
+
+# Section 3307.562 - Designation or qualification of beneficiaries.
+
+**Effective:** March 22, 2019
+
+**Latest Legislation:** House Bill 572 - 132nd General Assembly
+
+(A) As used in this section and section 3307.66 of the Revised Code:
+
+(1) "Child" means a biological or legally adopted child of a deceased member. If a court hearing for an interlocutory decree for adoption was held prior to the member's death, "child" includes the child who was the subject of the hearing if a final decree of adoption adjudging the member's spouse as the adoptive parent is made subsequent to the member's death.
+
+(2) "Parent" is a parent or legally adoptive parent of a deceased member.
+
+(3) "Dependent" means a beneficiary who receives at least one-half of the beneficiary's support from a member during the twelve months prior to the member's death.
+
+(4) "Surviving spouse" means an individual who establishes a valid marriage to a member at the time of the member's death by marriage certificate or pursuant to division (E) of this section.
+
+(5) "Survivor" means a spouse, child, or dependent parent.
+
+(B) Except as provided in division (B) of section 3307.563 or division (G)(1) of section 3307.66 of the Revised Code, should a member who is participating in the STRS defined benefit plan die before service retirement, the member's accumulated contributions, plus an amount calculated in accordance with section 3307.563 of the Revised Code, and any amounts owed and unpaid to a disability benefit recipient shall be paid to such beneficiaries as the member has nominated by written designation signed by the member and received by the state teachers retirement board prior to death. A member may designate two or more persons as beneficiaries to be paid the amount determined under this division. On and after July 1, 2013, and subject to rules adopted by the board, a member who designates two or more persons as beneficiaries shall specify the percentage of the amount that each beneficiary is to be paid. If the member has not specified the percentages, the amount shall be divided equally among the designated beneficiaries. If a designated beneficiary is deceased, the amount allocated to the deceased beneficiary shall be allocated to the remaining beneficiaries based on each remaining beneficiary's initial percentage. The nomination of beneficiary shall be on a form provided by the retirement board. The last nomination of any beneficiary revokes all previous nominations. The member's marriage, divorce, marriage dissolution, legal separation, or withdrawal of account, or the birth of the member's child, or the member's adoption of a child, shall constitute an automatic revocation of the member's previous designation. If a deceased member was also a member of the public employees retirement system or the school employees retirement system, the beneficiary last established among the systems shall be the sole beneficiary in all the systems.
+
+Any beneficiary ineligible for monthly survivor benefits as provided by section 3307.66 of the Revised Code may waive in writing all claim to any benefits and such waiver shall thereby put in effect the succession of beneficiaries under division (C) of this section, provided the beneficiary thereunder is immediately eligible and agrees in writing to accept survivor benefits as provided by section 3307.66 of the Revised Code. If the accumulated contributions of a deceased member are not claimed by a beneficiary, or by the estate of the deceased member, within ten years, they shall be transferred to the guarantee fund and thereafter paid to such beneficiary or to the member's estate upon application to the board. The board shall formulate and adopt rules governing all designations of beneficiaries.
+
+(C) Except as provided in division (G)(1) of section 3307.66 of the Revised Code, if a member dies before service retirement and is not survived by a designated beneficiary, any beneficiaries shall qualify, in the following order of precedence, with all attendant rights and privileges:
+
+(1) Surviving spouse;
+
+(2) Children, share and share alike;
+
+(3) A dependent parent, if that parent elects to take survivor benefits under division (C)(2) of section 3307.66 of the Revised Code;
+
+(4) Parents, share and share alike;
+
+(5) Estate.
+
+If any survivor dies before payment is made under this section or is not located prior to the ninety-first day after the board receives notification of the member's death, the survivor next in order of precedence shall qualify as a beneficiary, provided that benefits under division (C)(2) of section 3307.66 of the Revised Code are elected. In the event that the beneficiary originally determined is subsequently located, the beneficiary may qualify for benefits under division (C)(2) of section 3307.66 of the Revised Code upon meeting the conditions of eligibility set forth in division (B) of that section, but in no case earlier than the first day of the month following application by such beneficiary. Any payment made to a beneficiary as determined by the board shall be a full discharge and release to the board from any future claims.
+
+(D)(1) Any amount due any person, as an annuitant, receiving a monthly benefit, and unpaid to the annuitant at death, shall be paid to the beneficiary named by written designation signed by the annuitant and received by the state teachers retirement board prior to death. If no such designation has been submitted, or if the beneficiary designated is deceased or is not located prior to the ninety-first day after the board receives notification of the annuitant's death, such amount shall be paid, in the following order of precedence to the annuitant's:
+
+(a) Surviving spouse;
+
+(b) Children, share and share alike;
+
+(c) Parents, share and share alike;
+
+(d) Estate.
+
+(2) If there is no beneficiary under division (D)(1) of this section, an amount not exceeding the cost of the annuitant's burial expenses may be paid to the person responsible for the burial expenses.
+
+For purposes of this division an "annuitant" is the last person who received a monthly benefit pursuant to the plan of payment selected by the former member. Such payment shall be a full discharge and release to the board from any future claim for such payment.
+
+(E) If the validity of marriage cannot be established to the satisfaction of the board for the purpose of disbursing any amount due under this section or section 3307.66 of the Revised Code, the board may accept a decision rendered by a court having jurisdiction in the state in which the member was domiciled at the time of death that the relationship constituted a valid marriage at the time of death, or the "spouse" would have the same status as a widow or widower for purposes of sharing the distribution of the member's intestate personal property.
+
+(F) As used in this division, "recipient" means an individual who is receiving or may be eligible to receive an allowance or benefit under this chapter based on the individual's service to an employer.
+
+If the death of a member, a recipient, or any individual who would be eligible to receive an allowance or benefit under this chapter by virtue of the death of a member or recipient is caused by one of the following beneficiaries, no amount due under this chapter to the beneficiary shall be paid to the beneficiary in the absence of a court order to the contrary submitted to the board:
+
+(1) A beneficiary who is convicted of, pleads guilty to, or is found not guilty by reason of insanity of a violation of or complicity in the violation of either of the following:
+
+(a) Section 2903.01 , 2903.02 , or 2903.03 of the Revised Code;
+
+(b) An existing or former law of any other state, the United States, or a foreign nation that is substantially equivalent to section 2903.01 , 2903.02 , or 2903.03 of the Revised Code;
+
+(2) A beneficiary who is indicted for a violation of or complicity in the violation of the sections or laws described in division (F)(1)(a) or (b) of this section and is adjudicated incompetent to stand trial;
+
+(3) A beneficiary who is a juvenile found to be a delinquent child by reason of committing an act that, if committed by an adult, would be a violation of or complicity in the violation of the sections or laws described in division (F)(1)(a) or (b) of this section.

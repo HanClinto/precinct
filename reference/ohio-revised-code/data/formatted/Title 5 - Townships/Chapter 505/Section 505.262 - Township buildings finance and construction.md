@@ -1,0 +1,12 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-505.262
+Scraped: 2026-07-02T19:33:08+00:00
+
+# Section 505.262 - Township buildings finance and construction.
+
+**Effective:** December 20, 2005
+
+**Latest Legislation:** Senate Bill 107 - 126th General Assembly
+
+(A) Notwithstanding division (D) of section 505.37 of the Revised Code or any other statute of this state, the board of township trustees of any township, by unanimous vote, may adopt a resolution allowing the township to contract for the purchase of equipment, buildings, and sites, or for the construction of buildings, for any lawful township purpose. The board may issue, by resolution adopted by unanimous vote, securities of the township to finance purchases and construction made pursuant to this division. The securities shall be signed by the board and attested by the signature of the township fiscal officer, and the maximum maturity of those securities is subject to the limitations in section 133.20 of the Revised Code. The securities shall bear interest not to exceed the rate determined as provided in section 9.95 of the Revised Code and shall not be subject to Chapter 133. of the Revised Code. The resolution authorizing the issuance of the securities shall provide for levying and collecting annually by taxation, amounts sufficient to pay the interest on and principal of the securities. The securities may contain a clause permitting prepayment at the option of the board. Securities shall be offered for sale on the open market or given to the vendor or contractor if no sale is made.
+
+(B) No purchase or construction pursuant to division (A) of this section shall be undertaken unless the county auditor certifies that, if the purchase or construction is undertaken, the debt service charge for the purchase or construction in the first year, together with the debt service charge for that same year for any other purchase or construction already undertaken pursuant to division (A) of this section, does not exceed one-tenth of the township's total revenue from all sources. If the county auditor so certifies, in every year of the debt after the first year, the county budget commission shall include a debt charge in the township's annual tax budget submitted pursuant to sections 5705.01 to 5705.47 of the Revised Code sufficient to meet the annual debt incurred pursuant to division (A) of this section, if the debt charge is omitted from the budget.

@@ -1,0 +1,429 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 2109.01 - Fiduciary defined.",
+      "number": "2109.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.02 - Appointment and duties.",
+      "number": "2109.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.021 - Fiduciary filings by mail or in person.",
+      "number": "2109.021",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.021"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.03 - Fiduciary's attorney.",
+      "number": "2109.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.04 - Bond.",
+      "number": "2109.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.05 - Bond - trust created by will.",
+      "number": "2109.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.06 - New or additional bond.",
+      "number": "2109.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.07 - Bond conditions - administrator - when not required.",
+      "number": "2109.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.08 - Bond conditions - special administrator.",
+      "number": "2109.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.09 - Bond conditions - executor.",
+      "number": "2109.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.10 - Bond when executor or administrator is sole residuary legatee or distributee.",
+      "number": "2109.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.11 - Bond conditions - testamentary trustees.",
+      "number": "2109.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.12 - Bond conditions - guardians.",
+      "number": "2109.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.13 - Deposit of personal property in lieu of bond.",
+      "number": "2109.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.14 - Deposit of works of art in museum authorized - reduction of bond.",
+      "number": "2109.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.15 - Informality of bond.",
+      "number": "2109.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.16 - One bond for two or more wards.",
+      "number": "2109.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.17 - Sureties.",
+      "number": "2109.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.18 - Release of a fiduciary's sureties.",
+      "number": "2109.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.19 - Bond of indemnity to surety.",
+      "number": "2109.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.20 - Guardian may give real property mortgage to secure bond.",
+      "number": "2109.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.21 - Residence qualifications of fiduciary.",
+      "number": "2109.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.22 - Marriage no disqualification for fiduciary.",
+      "number": "2109.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.24 - Resignation or removal of fiduciary.",
+      "number": "2109.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.25 - Fiduciary in military service - removal and reinstatement.",
+      "number": "2109.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.26 - Vacancy before termination of the trust - accounting - successor fiduciary.",
+      "number": "2109.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.27 - Surviving fiduciaries.",
+      "number": "2109.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.28 - Merger of fiduciaries.",
+      "number": "2109.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.29 - Rights as to shares in corporation.",
+      "number": "2109.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.30 - Accounts of fiduciaries.",
+      "number": "2109.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.301 - Administrator or executor rendering account.",
+      "number": "2109.301",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.301"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.302 - Guardian or conservator rendering account.",
+      "number": "2109.302",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.302"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.303 - Testamentary trustee rendering account.",
+      "number": "2109.303",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.303"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.31 - Citation to fiduciary to file account.",
+      "number": "2109.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.32 - Hearing on fiduciary's account.",
+      "number": "2109.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.33 - Service of additional notice - exceptions to account.",
+      "number": "2109.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.34 - Representation in account proceeding.",
+      "number": "2109.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.35 - Effect of order settling account - vacation of order.",
+      "number": "2109.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.36 - Order of distribution.",
+      "number": "2109.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.361 - Application by beneficiary for approval of third-party distribution.",
+      "number": "2109.361",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.361"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.37 - Investment of trust funds by fiduciary.",
+      "number": "2109.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.371 - Additional eligible investments.",
+      "number": "2109.371",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.371"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.372 - Holding cash or making temporary investments.",
+      "number": "2109.372",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.372"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.38 - Retaining unauthorized investments.",
+      "number": "2109.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.39 - Receiving distribution in kind.",
+      "number": "2109.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.40 - Participation in corporate reorganization.",
+      "number": "2109.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.41 - Deposit of funds.",
+      "number": "2109.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.42 - Liability for failure to invest.",
+      "number": "2109.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.43 - Personal use of trust property prohibited.",
+      "number": "2109.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.44 - Prohibited transactions; purchase of property.",
+      "number": "2109.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.45 - Statement filed before private sale confirmed.",
+      "number": "2109.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.46 - Mortgage by fiduciary.",
+      "number": "2109.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.47 - Mortgage by a guardian.",
+      "number": "2109.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.48 - Amount of loan.",
+      "number": "2109.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.49 - Investigation of trust.",
+      "number": "2109.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.50 - Proceedings when assets concealed or embezzled.",
+      "number": "2109.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.51 - Imprisonment for disobeying citation.",
+      "number": "2109.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.52 - Judgment on the complaint.",
+      "number": "2109.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.53 - Judgment against fiduciary - removal.",
+      "number": "2109.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.54 - Certificate of judgment - delivery to clerk of the court of common pleas.",
+      "number": "2109.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.55 - Judgment in favor of state.",
+      "number": "2109.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.56 - Conveyances.",
+      "number": "2109.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.57 - Appointment of trustee of funds of unknown or nonresident.",
+      "number": "2109.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.58 - Inventory by fiduciary.",
+      "number": "2109.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.59 - Failure of fiduciary to make payment or distribution.",
+      "number": "2109.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.60 - Probate court may send case to the court of common pleas.",
+      "number": "2109.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.61 - Bond - parties to suit.",
+      "number": "2109.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.62 - Court termination of trust.",
+      "number": "2109.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.68 - Allocation of receipts and expenditures between principal and income.",
+      "number": "2109.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.68"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2109.69 - Application of trust code provisions to testamentary trusts.",
+      "number": "2109.69",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2109.69"
+    }
+  ],
+  "scraped": "2026-07-02T19:41:21+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-2109",
+  "title": "Chapter 2109 - Fiduciaries"
+}

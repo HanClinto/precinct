@@ -1,0 +1,50 @@
+{
+  "glossary": [
+    {
+      "definition": "(C)(1) As used in divisions (C) and (D) of this section, \"total taxable value\" and \"formula ADM\" have the same meanings as in section 3317.02 of the Revised Code, and \"income factor\" has the same meaning as in section 3318.011 of the Revised Code.\n\n(2) The adjusted valuation per pupil for a school district to which this section applies shall be calculated using the following formula:\n\n(The district's total taxable value for the tax year preceding the calendar year in which the current fiscal year begins / the district's formula ADM for the previous fiscal year) - [$30,000 x (1 - the district's income factor)].\n\n(D) At the request of the Ohio facilities construction commission, the department of education and workforce shall report a district's total taxable value for the tax year preceding the calendar year in which the current fiscal year begins for any district to which this section applies as that information has been certified to the department by the tax commissioner pursuant to section 3317.021 of the Revised Code.\n\nLast updated September 1, 2023 at 3:08 PM",
+      "id": "3318.363-income-factor",
+      "normalized": "income factor",
+      "scope": "",
+      "section": "3318.363",
+      "source_title": "Section 3318.363 - Tax valuation decrease.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3318.363",
+      "term": "income factor"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3318.36",
+      "number": "3318.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.36"
+    },
+    {
+      "kind": "section",
+      "label": "5727.111",
+      "number": "5727.111",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.111"
+    },
+    {
+      "kind": "section",
+      "label": "3318.011",
+      "number": "3318.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3318.011"
+    },
+    {
+      "kind": "section",
+      "label": "3317.02",
+      "number": "3317.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.02"
+    },
+    {
+      "kind": "section",
+      "label": "3317.021",
+      "number": "3317.021",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.021"
+    }
+  ],
+  "scraped": "2026-07-02T19:48:52+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3318.363",
+  "title": "Section 3318.363 - Tax valuation decrease."
+}

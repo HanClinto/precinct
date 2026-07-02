@@ -1,0 +1,112 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Application assistant\" means an employee or volunteer at an agency or organization that serves victims of domestic violence, menacing by stalking, human trafficking, trafficking in persons, rape, or sexual battery who has received training and certification from the secretary of state to help individuals complete applications to be program participants.",
+      "id": "111.41-application-assistant",
+      "normalized": "application assistant",
+      "scope": "As used in sections 111.41 to 111.99 of the Revised Code:",
+      "section": "111.41",
+      "source_title": "Section 111.41 - Definitions for sections 111.41 to 111.99.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-111.41",
+      "term": "Application assistant"
+    },
+    {
+      "definition": "(B) \"Confidential address\" means the address of a program participant's residence, school, institution of higher education, business, or place of employment, as specified on an application to be a program participant or on a notice of change of address filed under section 111.42 of the Revised Code. A confidential address is not a public record under section 149.43 of the Revised Code, and shall be kept confidential.",
+      "id": "111.41-confidential-address",
+      "normalized": "confidential address",
+      "scope": "As used in sections 111.41 to 111.99 of the Revised Code:",
+      "section": "111.41",
+      "source_title": "Section 111.41 - Definitions for sections 111.41 to 111.99.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-111.41",
+      "term": "Confidential address"
+    },
+    {
+      "definition": "(C) \"Governmental entity\" means the state, a political subdivision of the state, or any department, agency, board, commission, or other instrumentality of the state or a political subdivision of the state.\n\n(D) \"Guardian,\" \"incompetent,\" \"parent,\" and \"ward\" have the same meanings as in section 2111.01 of the Revised Code.",
+      "id": "111.41-governmental-entity",
+      "normalized": "governmental entity",
+      "scope": "As used in sections 111.41 to 111.99 of the Revised Code:",
+      "section": "111.41",
+      "source_title": "Section 111.41 - Definitions for sections 111.41 to 111.99.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-111.41",
+      "term": "Governmental entity"
+    },
+    {
+      "definition": "(E) \"Human trafficking\" has the same meaning as in section 2929.01 of the Revised Code.",
+      "id": "111.41-human-trafficking",
+      "normalized": "human trafficking",
+      "scope": "As used in sections 111.41 to 111.99 of the Revised Code:",
+      "section": "111.41",
+      "source_title": "Section 111.41 - Definitions for sections 111.41 to 111.99.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-111.41",
+      "term": "Human trafficking"
+    },
+    {
+      "definition": "(F) \"Process\" means judicial process and all orders, demands, notices, or other papers required or permitted by law to be served on a program participant.",
+      "id": "111.41-process",
+      "normalized": "process",
+      "scope": "As used in sections 111.41 to 111.99 of the Revised Code:",
+      "section": "111.41",
+      "source_title": "Section 111.41 - Definitions for sections 111.41 to 111.99.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-111.41",
+      "term": "Process"
+    },
+    {
+      "definition": "(G) \"Program participant\" means a person who is certified by the secretary of state as a program participant under section 111.42 of the Revised Code.\n\n(H) \"Tier I sex offender/child-victim offender,\" \"tier II sex offender/child-victim offender,\" and \"tier III sex offender/child-victim offender\" have the same meanings as in section 2950.01 of the Revised Code.",
+      "id": "111.41-program-participant",
+      "normalized": "program participant",
+      "scope": "As used in sections 111.41 to 111.99 of the Revised Code:",
+      "section": "111.41",
+      "source_title": "Section 111.41 - Definitions for sections 111.41 to 111.99.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-111.41",
+      "term": "Program participant"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "111.41",
+      "number": "111.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-111.41"
+    },
+    {
+      "kind": "section",
+      "label": "111.99",
+      "number": "111.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-111.99"
+    },
+    {
+      "kind": "section",
+      "label": "111.42",
+      "number": "111.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-111.42"
+    },
+    {
+      "kind": "section",
+      "label": "149.43",
+      "number": "149.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.43"
+    },
+    {
+      "kind": "section",
+      "label": "2111.01",
+      "number": "2111.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.01"
+    },
+    {
+      "kind": "section",
+      "label": "2929.01",
+      "number": "2929.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2929.01"
+    },
+    {
+      "kind": "section",
+      "label": "2950.01",
+      "number": "2950.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2950.01"
+    }
+  ],
+  "scraped": "2026-07-02T19:31:28+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-111.41",
+  "title": "Section 111.41 - Definitions for sections 111.41 to 111.99."
+}

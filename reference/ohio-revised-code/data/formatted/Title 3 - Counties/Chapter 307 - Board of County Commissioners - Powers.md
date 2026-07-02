@@ -1,0 +1,236 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-307
+Scraped: 2026-07-02T19:32:39+00:00
+
+# Chapter 307 - Board of County Commissioners - Powers
+
+## Sections
+
+- Section 307.01 - County buildings, offices, equipment.
+- Section 307.02 - Methods for providing county facilities.
+- Section 307.021 - Public purpose and function to provide capital facilities for jails, workhouses or community-based corrections.
+- Section 307.022 - Lease, easement, license or sale in connection with correctional facility without competitive bidding.
+- Section 307.023 - Contract for acquisition or use of sports facilities.
+- Section 307.03 - Use of county buildings for public library.
+- Section 307.04 - Light, heat, and power contracts.
+- Section 307.041 - Contracts to analyze reducing energy consumption in buildings owned by county.
+- Section 307.042 - Contracts to regulate utility rates of users of municipal utility.
+- Section 307.05 - Ambulance, emergency medical and nonemergency patient transport service organizations.
+- Section 307.051 - County emergency medical, fire and transportation service organization regulated by state board.
+- Section 307.052 - Creating joint emergency medical services district.
+- Section 307.053 - Members of board of trustees.
+- Section 307.054 - Executive director duties - employees.
+- Section 307.055 - Furnishing ambulance and emergency medical services.
+- Section 307.056 - Powers of board of trustees.
+- Section 307.057 - Levying taxes - issuing bonds.
+- Section 307.058 - Joint ambulance district or county may join joint emergency medical services district.
+- Section 307.06 - Board of county commissioners may employ land appraisers.
+- Section 307.07 - Office of economic development.
+- Section 307.08 - Appropriation of lands.
+- Section 307.081 - Purchase or appropriation of real property for redevelopment.
+- Section 307.082 - Agreements to provide for construction or repair of public infrastructure improvements.
+- Section 307.083 - Method for purchasing real estate at public auction.
+- Section 307.084 - Purchase or appropriation of real property for state or federal correctional facility.
+- Section 307.09 - Sale, lease, or rent of county real estate - proceeds.
+- Section 307.091 - Sale of county medical facility to state medical school or college.
+- Section 307.092 - Sale, lease, or transfer of county property to nonprofit senior citizens organizations.
+- Section 307.10 - Procedure for sale, lease, transfer or granting of rights in real property.
+- Section 307.11 - Board of county commissioners may execute leases of mineral lands.
+- Section 307.12 - Resolution for disposal of unneeded, obsolete or unfit personal property.
+- Section 307.13 - Contracting for services of electrical safety inspector.
+- Section 307.14 - Legislative authority and contracting subdivision definitions.
+- Section 307.15 - Contracts with other governmental entities.
+- Section 307.151 - Agreement with municipalities for control of air and water pollution.
+- Section 307.152 - Agreements with planning commission for comprehensive transportation and land use studies.
+- Section 307.153 - Agreements with board of health.
+- Section 307.16 - Agreement to provide method of payment.
+- Section 307.17 - Duration of agreement - rescission.
+- Section 307.18 - Transfer of property to county commissioners.
+- Section 307.19 - Application of sections.
+- Section 307.20 - Powers over air navigation facilities.
+- Section 307.201 - Acquisition and operation of subway transportation system.
+- Section 307.202 - Development of rail property and rail service.
+- Section 307.203 - Appropriating moneys for railroad grade crossing improvement fund.
+- Section 307.204 - Procedure concerning construction or expansion of concentrated animal feeding facility.
+- Section 307.21 - Bequests for war memorial.
+- Section 307.22 - Bequests for educational purposes.
+- Section 307.23 - Historical society appropriations.
+- Section 307.24 - Itemized account.
+- Section 307.25 - Distribution of books.
+- Section 307.26 - Organization and maintenance of civic and social centers.
+- Section 307.27 - Contributions to soil conservation districts.
+- Section 307.28 - Grant of use of land in parks for art buildings.
+- Section 307.281 - Contributions for park projects.
+- Section 307.282 - Creating community improvements board.
+- Section 307.283 - Community improvements board; powers and duties.
+- Section 307.284 - Issuing bonds to make grants in excess of community improvement fund.
+- Section 307.29 - County may lease to municipal corporation.
+- Section 307.30 - Annual report.
+- Section 307.31 - Order for survey of county lines.
+- Section 307.32 - Notice to board of county commissioners of county affected.
+- Section 307.33 - Return of survey.
+- Section 307.34 - Action to establish lines between counties.
+- Section 307.35 - Decree as to taxes collected.
+- Section 307.36 - Corners of originally surveyed townships.
+- Section 307.37 - Adoption of county building code.
+- Section 307.38 - County building inspector - duties.
+- Section 307.381 - Establishing county board of building appeals.
+- Section 307.39 - Publication of building regulations.
+- Section 307.40 - Injunction.
+- Section 307.41 - Purchase or lease of motor vehicles.
+- Section 307.42 - Use of vehicles to be regulated.
+- Section 307.43 - Use of county vehicle except for official business prohibited.
+- Section 307.44 - Liability insurance for motor vehicles owned by county.
+- Section 307.441 - Errors and omissions insurance for officers, employees and judges.
+- Section 307.45 - Using property tax levied for criminal justice services.
+- Section 307.46 - Expenses of arrest - payment.
+- Section 307.47 - Relief for persons injured in automobiles commandeered by police officer.
+- Section 307.48 - Proof of validity of claim.
+- Section 307.49 - Reward for apprehension of criminals.
+- Section 307.50 - Expenses of pursuit and return of felon.
+- Section 307.51 - County law library resources board.
+- Section 307.511 - Law library resources board members.
+- Section 307.512 - Law library resources board meetings.
+- Section 307.513 - Annual board budget - appropriations from general fund.
+- Section 307.514 - County law library resources fund.
+- Section 307.515 - Allowance to law libraries from fines and penalties of municipal courts.
+- Section 307.516 - Multi-county law library resources commission.
+- Section 307.52 - Expert witnesses.
+- Section 307.53 - Procedure when county auditor unable to sign bonds due to absence or disability.
+- Section 307.54 - Registry and redemption of bonds.
+- Section 307.55 - Allowance and payment of claims against county.
+- Section 307.56 - Appeal from decision of board of county commissioners.
+- Section 307.561 - Settlement may include rezoning agreement or development plan approval.
+- Section 307.57 - May execute bonds of indemnity.
+- Section 307.58 - Transcribing of certain records.
+- Section 307.59 - Transcribing of court records.
+- Section 307.60 - Appropriation for compensation or recruitment of physicians or other medical personnel.
+- Section 307.61 - Institutions subject to inspection of commissioners or board of health.
+- Section 307.62 - Crime victim assistance program - appropriating moneys.
+- Section 307.621 - Establishing child fatality review board.
+- Section 307.622 - Members of child fatality review board.
+- Section 307.623 - Child fatality review board - purpose and duties.
+- Section 307.624 - Organization of child fatality review board.
+- Section 307.625 - No review while investigation pending.
+- Section 307.626 - Annual report.
+- Section 307.627 - Accessing confidential information.
+- Section 307.628 - Immunity.
+- Section 307.629 - Unauthorized dissemination of confidential information.
+- Section 307.63 - Establishing countywide public safety communications system.
+- Section 307.631 - Establishing drug overdose fatality review committee.
+- Section 307.632 - Members of drug overdose fatality review committee.
+- Section 307.633 - Chairperson of drug overdose fatality review committee.
+- Section 307.634 - Purpose of drug overdose fatality review committee.
+- Section 307.635 - No review while investigation or prosecution pending.
+- Section 307.636 - Collecting and maintaining information; annual report.
+- Section 307.637 - Providing information to drug overdose fatality review committee.
+- Section 307.638 - Immunity.
+- Section 307.639 - Confidentiality.
+- Section 307.64 - Appropriating moneys from tax levies for economic development.
+- Section 307.641 - Establishing suicide fatality review committee.
+- Section 307.642 - Members of suicide fatality review committee.
+- Section 307.643 - Purpose of suicide fatality review committee.
+- Section 307.644 - Chairperson of suicide fatality review committee.
+- Section 307.645 - No review while investigation or prosecution pending.
+- Section 307.646 - Collecting and maintaining information; annual report.
+- Section 307.647 - Providing information to suicide fatality review committee.
+- Section 307.648 - Immunity.
+- Section 307.649 - Confidentiality.
+- Section 307.6410 - Hybrid review committee.
+- Section 307.65 - Harbor improvements.
+- Section 307.651 - Establishing domestic violence fatality review board.
+- Section 307.652 - Members of domestic violence fatality review board.
+- Section 307.653 - Chairperson of domestic violence fatality review board.
+- Section 307.654 - Domestic violence fatality review board - purpose and duties.
+- Section 307.655 - No review while investigation or prosecution pending.
+- Section 307.656 - Annual report.
+- Section 307.657 - Accessing confidential information.
+- Section 307.658 - Immunity.
+- Section 307.659 - Unauthorized dissemination of confidential information.
+- Section 307.66 - Memorial day appropriations.
+- Section 307.67 - County may give aid to establish canal or waterway.
+- Section 307.671 - Cooperative agreement for sales tax levy and bond issuance for port authority educational and cultural facility.
+- Section 307.672 - Cooperative agreement for sales tax levy and bond issuance with nonprofit corporation for municipal education and cultural facility.
+- Section 307.673 - Cooperative agreement for sales tax levy and bond issuance for construction or renovation of professional sports facilities.
+- Section 307.674 - Cooperative agreement for sales tax levy and bond issuance for educational and cultural performing arts facilities.
+- Section 307.675 - Using long life expectancy material in the construction or repair of bridge deck.
+- Section 307.676 - Tax on retail sale of food and beverages consumed on premises - general fund revenue.
+- Section 307.677 - Tax on retail sale of food and beverages consumed on premises - funding convention center.
+- Section 307.678 - Tourism development facility or project cooperative agreements.
+- Section 307.679 - Sports parks; cooperative agreements; bonds.
+- Section 307.68 - Board may issue bonds upon petition.
+- Section 307.69 - Agreements for protection of funds contributed.
+- Section 307.691 - County or municipal assistance to nonprofit corporations engaged in certain activities benefiting public.
+- Section 307.692 - Expending funds for encouraging economic development of the county or area through promotion of tourism.
+- Section 307.693 - Appropriating moneys for convention and visitors' bureaus.
+- Section 307.694 - Expending funds for senior citizens services or facilities.
+- Section 307.695 - Agreement for sales tax levy and bond issuance to construct and equip a convention center.
+- Section 307.696 - Agreement for sales tax levy and bond issuance to construct and operate a sports facility.
+- Section 307.697 - Voting on question of levying liquor tax to support facility.
+- Section 307.698 - Moneys spent for housing purposes.
+- Section 307.699 - Annual service payment in lieu of taxes on the exempt property used by major league professional athletic team.
+- Section 307.6910 - Operation of veterans memorial and museum.
+- Section 307.70 - County charter commissions.
+- Section 307.71 - Adoption of curfew.
+- Section 307.72 - Appropriating funds for police training.
+- Section 307.73 - Contract for private construction of water and sewer lines.
+- Section 307.74 - Purchasing water from municipality.
+- Section 307.75 - Operating or contracting for operation of police training schools.
+- Section 307.76 - Operating or contracting for operation of zoological park.
+- Section 307.761 - Facility to promote sciences and natural history.
+- Section 307.77 - Giving aid to units of government for water management.
+- Section 307.771 - Issuing bonds for water management.
+- Section 307.772 - Agreements for facilitating water management projects.
+- Section 307.78 - Making contributions to community improvement corporations.
+- Section 307.781 - Unpaid or delinquent tax line of credit.
+- Section 307.79 - Administrative rules.
+- Section 307.791 - Election on repeal of county sediment control rule.
+- Section 307.80 - Establishing county microfilming board.
+- Section 307.801 - Organization of board.
+- Section 307.802 - Powers and duties of board.
+- Section 307.803 - Funds of board.
+- Section 307.804 - Chief administrator - employees.
+- Section 307.805 - Annual estimate of the revenues and expenditures - report.
+- Section 307.806 - Contract for services with other public entities.
+- Section 307.81 - Vacating unused parks and park lands.
+- Section 307.82 - Selling unused parks and park lands.
+- Section 307.83 - Reversionary interest in parks and park lands.
+- Section 307.84 - Establishing automatic data processing board.
+- Section 307.841 - Organization of board.
+- Section 307.842 - County automatic data processing board - powers and duties.
+- Section 307.843 - Acquiring data processing or record keeping equipment, software, or services.
+- Section 307.844 - Chief administrator - automatic data processing center.
+- Section 307.845 - Annual estimate of the revenues and expenditures - report.
+- Section 307.846 - Contract for services with other public entities.
+- Section 307.847 - Coordination of information by county automatic data processing board.
+- Section 307.85 - Cooperation with other agencies in operating federal programs.
+- Section 307.851 - Contracting with corporation or association, profit or nonprofit, to provide health and human services or social services.
+- Section 307.86 - Competitive bidding required - exceptions.
+- Section 307.861 - Renewing leases for electronic data processing equipment, services, or systems, or radio communications system.
+- Section 307.862 - Competitive sealed proposals - procedure.
+- Section 307.863 - Bidding process for franchises.
+- Section 307.87 - Notice of competitive bidding.
+- Section 307.88 - Bid contents.
+- Section 307.89 - Accepting bids.
+- Section 307.90 - Contract award - preferences.
+- Section 307.901 - County contracts - invalid terms and conditions.
+- Section 307.91 - Rejecting all bids.
+- Section 307.92 - Contracting authority defined.
+- Section 307.921 - Policy to assist minority business enterprises.
+- Section 307.93 - Joint establishment of a multicounty correctional center.
+- Section 307.931 - Submitting health insurance claims for inmates of correctional center.
+- Section 307.932 - Community alternative sentencing centers.
+- Section 307.933 - Issuance of securities.
+- Section 307.94 - Petitioning for election on adoption of county charter.
+- Section 307.95 - Determining validity of petitions.
+- Section 307.96 - Charter or amendment effective date.
+- Section 307.97 - Filing sworn itemized statement of financial transactions.
+- Section 307.98 - Written partnership agreement with director of job and family services.
+- Section 307.981 - Designating entities as family services agencies.
+- Section 307.982 - Contracts to perform family services duty or workforce development activity.
+- Section 307.983 - Plan of cooperation to enhance administration of Ohio works first program, prevention, retention, and contingency program, and other family services duties and workforce development activities.
+- Section 307.984 - Regional plans of cooperation to enhance the administration, delivery, and effectiveness of family services duties and workforce development activities.
+- Section 307.985 - Transportation work plan regarding the transportation needs of low income residents.
+- Section 307.986 - Procedures for providing services to children whose families relocate frequently.
+- Section 307.987 - Permitting exchange of information needed to improve services and assistance to individuals and families and the protection of children.
+- Section 307.988 - Federal requirements for contracts with religious organization.
+- Section 307.99 - Penalty.

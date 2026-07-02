@@ -1,0 +1,42 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Threat\" includes a direct threat and a threat by innuendo.",
+      "id": "2905.12-threat",
+      "normalized": "threat",
+      "scope": "(E) As used in this section:",
+      "section": "2905.12",
+      "source_title": "Section 2905.12 - Coercion.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2905.12",
+      "term": "Threat"
+    },
+    {
+      "definition": "(2) \"Community control sanction\" has the same meaning as in section 2929.01 of the Revised Code.",
+      "id": "2905.12-community-control-sanction",
+      "normalized": "community control sanction",
+      "scope": "(E) As used in this section:",
+      "section": "2905.12",
+      "source_title": "Section 2905.12 - Coercion.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2905.12",
+      "term": "Community control sanction"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2945.44",
+      "number": "2945.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2945.44"
+    },
+    {
+      "kind": "section",
+      "label": "2929.01",
+      "number": "2929.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2929.01"
+    }
+  ],
+  "scraped": "2026-07-02T19:46:01+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2905.12",
+  "title": "Section 2905.12 - Coercion."
+}

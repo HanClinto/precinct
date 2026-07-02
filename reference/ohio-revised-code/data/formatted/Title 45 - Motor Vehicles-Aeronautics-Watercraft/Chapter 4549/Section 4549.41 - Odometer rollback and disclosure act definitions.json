@@ -1,0 +1,116 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Person\" includes an individual, corporation, government, governmental subdivision or agency, business trust, estate, trust, partnership, association, or cooperative or any other legal entity, whether acting individually or by their agents, officers, employees, or representatives.",
+      "id": "4549.41-person",
+      "normalized": "person",
+      "scope": "As used in sections 4549.41 to 4549.51 of the Revised Code:",
+      "section": "4549.41",
+      "source_title": "Section 4549.41 - Odometer rollback and disclosure act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4549.41",
+      "term": "Person"
+    },
+    {
+      "definition": "(B) \"Motor vehicle\" means any vehicle driven or drawn by mechanical power for use on the public streets, roads, or highways.",
+      "id": "4549.41-motor-vehicle",
+      "normalized": "motor vehicle",
+      "scope": "As used in sections 4549.41 to 4549.51 of the Revised Code:",
+      "section": "4549.41",
+      "source_title": "Section 4549.41 - Odometer rollback and disclosure act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4549.41",
+      "term": "Motor vehicle"
+    },
+    {
+      "definition": "(C) \"Odometer\" means an instrument for measuring and recording the total distance that a motor vehicle travels while in operation, including any cable, line, or other part necessary to make the instrument function properly. Odometer does not include any auxiliary odometer designed to be reset by the operator of a motor vehicle for the purpose of recording mileage on trips.",
+      "id": "4549.41-odometer",
+      "normalized": "odometer",
+      "scope": "As used in sections 4549.41 to 4549.51 of the Revised Code:",
+      "section": "4549.41",
+      "source_title": "Section 4549.41 - Odometer rollback and disclosure act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4549.41",
+      "term": "Odometer"
+    },
+    {
+      "definition": "(D) \"Transfer\" means to change ownership of a motor vehicle by purchase, by gift, or, except as otherwise provided in this division, by any other means. A \"transfer\" does not include a change of ownership as a result of a bequest, under the laws of intestate succession, as a result of a surviving spouse's actions pursuant to section 2106.18 or 4505.10 of the Revised Code, as a result of the operation of section 2131.12 or 2131.13 of the Revised Code, or in connection with the creation of a security interest.",
+      "id": "4549.41-transfer",
+      "normalized": "transfer",
+      "scope": "As used in sections 4549.41 to 4549.51 of the Revised Code:",
+      "section": "4549.41",
+      "source_title": "Section 4549.41 - Odometer rollback and disclosure act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4549.41",
+      "term": "Transfer"
+    },
+    {
+      "definition": "(E) \"Transferor\" means the person involved in a transfer, who transfers ownership of a motor vehicle.",
+      "id": "4549.41-transferor",
+      "normalized": "transferor",
+      "scope": "As used in sections 4549.41 to 4549.51 of the Revised Code:",
+      "section": "4549.41",
+      "source_title": "Section 4549.41 - Odometer rollback and disclosure act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4549.41",
+      "term": "Transferor"
+    },
+    {
+      "definition": "(F) \"Transferee\" means the person involved in a transfer, to whom the ownership of a motor vehicle is transferred.",
+      "id": "4549.41-transferee",
+      "normalized": "transferee",
+      "scope": "As used in sections 4549.41 to 4549.51 of the Revised Code:",
+      "section": "4549.41",
+      "source_title": "Section 4549.41 - Odometer rollback and disclosure act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4549.41",
+      "term": "Transferee"
+    },
+    {
+      "definition": "(G) \"Service\" means to repair or replace an odometer that is not properly functioning.",
+      "id": "4549.41-service",
+      "normalized": "service",
+      "scope": "As used in sections 4549.41 to 4549.51 of the Revised Code:",
+      "section": "4549.41",
+      "source_title": "Section 4549.41 - Odometer rollback and disclosure act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4549.41",
+      "term": "Service"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "4549.41",
+      "number": "4549.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4549.41"
+    },
+    {
+      "kind": "section",
+      "label": "4549.51",
+      "number": "4549.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4549.51"
+    },
+    {
+      "kind": "section",
+      "label": "2106.18",
+      "number": "2106.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2106.18"
+    },
+    {
+      "kind": "section",
+      "label": "4505.10",
+      "number": "4505.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4505.10"
+    },
+    {
+      "kind": "section",
+      "label": "2131.12",
+      "number": "2131.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2131.12"
+    },
+    {
+      "kind": "section",
+      "label": "2131.13",
+      "number": "2131.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2131.13"
+    }
+  ],
+  "scraped": "2026-07-02T20:05:55+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4549.41",
+  "title": "Section 4549.41 - Odometer rollback and disclosure act definitions."
+}

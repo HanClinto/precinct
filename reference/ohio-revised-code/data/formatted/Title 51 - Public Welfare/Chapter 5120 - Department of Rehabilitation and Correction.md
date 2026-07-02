@@ -1,0 +1,128 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-5120
+Scraped: 2026-07-02T20:10:44+00:00
+
+# Chapter 5120 - Department of Rehabilitation and Correction
+
+## Sections
+
+- Section 5120.01 - Director of rehabilitation and correction - powers and duties.
+- Section 5120.011 - Sanctions imposed for frivolous actions.
+- Section 5120.02 - Assistant director - powers and duties.
+- Section 5120.021 - Application of chapter.
+- Section 5120.03 - Designation of use of institutions.
+- Section 5120.031 - Pilot program of shock incarceration.
+- Section 5120.032 - Intensive program prisons.
+- Section 5120.033 - Intensive program prisons for certain OVI offenders.
+- Section 5120.034 - Reentry services by nonprofit faith-based organizations.
+- Section 5120.035 - Community-based substance use disorder treatment for qualified prisoners.
+- Section 5120.036 - Risk reduction programming and treatment.
+- Section 5120.037 - Substance abuse recovery prison; feasibility study.
+- Section 5120.038 - GPS monitoring of offenders.
+- Section 5120.04 - Assigning prisoner labor on public works.
+- Section 5120.05 - Maintenance and management of institutions.
+- Section 5120.051 - Mentally ill and persons with intellectual disabilities who are incarcerated.
+- Section 5120.06 - Divisions of department.
+- Section 5120.07 - Ex-offender reentry coalition.
+- Section 5120.08 - Bonds for employees.
+- Section 5120.09 - Division of business administration - powers and duties.
+- Section 5120.091 - Education services fund.
+- Section 5120.092 - Adult and juvenile correctional facilities bond retirement fund.
+- Section 5120.10 - Jail standards.
+- Section 5120.102 - Halfway house facility definitions.
+- Section 5120.103 - Construction of halfway houses.
+- Section 5120.104 - Acquiring and leasing of capital facilities or sites for use as halfway house.
+- Section 5120.105 - Providing construction services for halfway houses.
+- Section 5120.106 - Halfway house verification of identity.
+- Section 5120.11 - Bureau of examination and classification.
+- Section 5120.111 - Rules and forms for community-based correctional facilities and programs.
+- Section 5120.112 - Application for state financial assistance to community-based correctional facilities and programs.
+- Section 5120.113 - Written reentry plans.
+- Section 5120.114 - Single validated risk assessment tool.
+- Section 5120.115 - Authorized users; confidentiality of reports.
+- Section 5120.13 - Holding funds in trust for inmates.
+- Section 5120.131 - Industrial and entertainment fund - commissary fund.
+- Section 5120.132 - Prisoner programs fund.
+- Section 5120.133 - Prisoner's financial obligations and funds.
+- Section 5120.134 - Vending commission fund.
+- Section 5120.14 - Notice of escape and of apprehension of escapee.
+- Section 5120.15 - Admission and discharge of inmates.
+- Section 5120.16 - Reception, examination, observation, and classification of inmates.
+- Section 5120.161 - Local housing of certain state prisoners.
+- Section 5120.162 - Transferring children in custody of youth services department to correctional medical center.
+- Section 5120.163 - Examination, testing and treatment for certain diseases.
+- Section 5120.17 - Transferring inmate to psychiatric hospital.
+- Section 5120.171 - Care and treatment of seriously mentally ill inmates.
+- Section 5120.172 - Consent to medical treatment of minor prosecuted as adult.
+- Section 5120.173 - Report of child abuse or neglect to state highway patrol.
+- Section 5120.18 - Classifying public buildings - purchase of articles.
+- Section 5120.19 - Cultivating lands - transactions between institutions.
+- Section 5120.20 - Cooperative tests by agriculture and health departments.
+- Section 5120.21 - Records.
+- Section 5120.211 - Quality assurance records are confidential.
+- Section 5120.212 - Data matching agreements.
+- Section 5120.22 - Division of business administration - property management duties.
+- Section 5120.23 - Estimates of required supplies.
+- Section 5120.24 - Purchasing supplies.
+- Section 5120.25 - Books and accounts.
+- Section 5120.26 - Funds.
+- Section 5120.27 - Industries carried on by institutions.
+- Section 5120.28 - Fixing prices for labor and services.
+- Section 5120.29 - Institutional services fund; Ohio penal industries manufacturing fund.
+- Section 5120.30 - Investigations.
+- Section 5120.31 - Appointing special agents and persons.
+- Section 5120.32 - Annual report.
+- Section 5120.33 - Listing employees.
+- Section 5120.331 - Annual report of inmate time served and releases.
+- Section 5120.34 - Nonpartisan management of institutions.
+- Section 5120.35 - Annual report suggestions and recommendations.
+- Section 5120.36 - Executive, administrative, and fiscal supervision of institutions.
+- Section 5120.37 - Sharing information with department of job and family services.
+- Section 5120.38 - Duties of managing officer.
+- Section 5120.381 - Deputy warden.
+- Section 5120.382 - Appointment of employees.
+- Section 5120.39 - Superintendent of institution - powers and duties.
+- Section 5120.40 - Qualification of teachers.
+- Section 5120.41 - Courses of study.
+- Section 5120.42 - Rules for proper execution of powers.
+- Section 5120.421 - Visitor searches.
+- Section 5120.422 - Rules for site selection.
+- Section 5120.423 - Rules for designating equipment and programs that improve fighting skills.
+- Section 5120.424 - Purchasing fixed weight exercise equipment.
+- Section 5120.425 - Prisoner access to inflammatory and other materials definitions.
+- Section 5120.426 - Rules governing access to materials.
+- Section 5120.427 - Right to receive materials.
+- Section 5120.428 - Request for review.
+- Section 5120.44 - Liberal construction of chapter.
+- Section 5120.45 - Burial or cremation of inmate.
+- Section 5120.46 - Appropriating property.
+- Section 5120.47 - Leasing capital facilities.
+- Section 5120.48 - Apprehending escapee or prisoner mistakenly released.
+- Section 5120.49 - Standards and guidelines for termination of parole board's control over certain sexually violent offenders.
+- Section 5120.50 - Interstate correction compact.
+- Section 5120.51 - Population and cost impact statement for legislative bill.
+- Section 5120.52 - Contract for sewage services.
+- Section 5120.53 - Transfer or exchange of convicted offender to foreign country pursuant to treaty.
+- Section 5120.55 - Licensed health professional recruitment program.
+- Section 5120.56 - Recovering cost of incarceration or supervision from offender.
+- Section 5120.57 - Reimbursement for health care services rendered to insured offender.
+- Section 5120.58 - Rules for health care benefits and preventive services.
+- Section 5120.59 - Verification of prisoner's identity before release.
+- Section 5120.60 - Office of victim services.
+- Section 5120.61 - Risk assessment reports for sexually violent offenders.
+- Section 5120.62 - Internet access for prisoners.
+- Section 5120.63 - Random drug testing of state prisoners.
+- Section 5120.631 - State correctional institution feminine hygiene products.
+- Section 5120.64 - Rules regarding the return of Ohio prisoners from outside of this state into this state by a private person or entity.
+- Section 5120.65 - Prison nursery program.
+- Section 5120.651 - Eligibility for program.
+- Section 5120.652 - Duties of inmate participants.
+- Section 5120.653 - Termination of participation in program.
+- Section 5120.654 - Collecting support payments.
+- Section 5120.655 - Prison nursery program fund - individual nursery accounts.
+- Section 5120.656 - No regulation by department of job and family services.
+- Section 5120.657 - Adoption of rules.
+- Section 5120.66 - Internet database of inmate offense, sentence, and release information; "Laura's Law".
+- Section 5120.68 - Warden's report to parole board.
+- Section 5120.70 - Federal equitable sharing fund.
+- Section 5120.80 - Community programs fund.
+- Section 5120.99 - Penalty.

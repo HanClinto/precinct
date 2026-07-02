@@ -1,0 +1,296 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Animal\" means any animate being, other than a human.",
+      "id": "923.41-animal",
+      "normalized": "animal",
+      "scope": "As used in sections 923.41 to 923.55 of the Revised Code:",
+      "section": "923.41",
+      "source_title": "Section 923.41 - Inspection of commercial feed definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-923.41",
+      "term": "Animal"
+    },
+    {
+      "definition": "(B) \"Commercial feed\" or \"feed\" means all materials, except unmixed whole seeds or physically altered entire unmixed seeds, that are not adulterated and that are distributed for use as feed or for mixing in feed for animals. \"Commercial feed\" or \"feed\" does not include drugs that are not incorporated into feed and that are not distributed to be mixed in feed. \"Commercial feed\" and \"feed\" also does not include negligible amounts of feed ingredients added to a drug solely for the purpose of facilitating administration of the drug to an animal.",
+      "id": "923.41-commercial-feed",
+      "normalized": "commercial feed",
+      "scope": "As used in sections 923.41 to 923.55 of the Revised Code:",
+      "section": "923.41",
+      "source_title": "Section 923.41 - Inspection of commercial feed definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-923.41",
+      "term": "Commercial feed"
+    },
+    {
+      "definition": "(B) \"Commercial feed\" or \"feed\" means all materials, except unmixed whole seeds or physically altered entire unmixed seeds, that are not adulterated and that are distributed for use as feed or for mixing in feed for animals. \"Commercial feed\" or \"feed\" does not include drugs that are not incorporated into feed and that are not distributed to be mixed in feed. \"Commercial feed\" and \"feed\" also does not include negligible amounts of feed ingredients added to a drug solely for the purpose of facilitating administration of the drug to an animal.",
+      "id": "923.41-feed",
+      "normalized": "feed",
+      "scope": "As used in sections 923.41 to 923.55 of the Revised Code:",
+      "section": "923.41",
+      "source_title": "Section 923.41 - Inspection of commercial feed definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-923.41",
+      "term": "feed"
+    },
+    {
+      "definition": "(C) \"Feed ingredient\" means each of the constituent materials used to make a commercial feed.",
+      "id": "923.41-feed-ingredient",
+      "normalized": "feed ingredient",
+      "scope": "As used in sections 923.41 to 923.55 of the Revised Code:",
+      "section": "923.41",
+      "source_title": "Section 923.41 - Inspection of commercial feed definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-923.41",
+      "term": "Feed ingredient"
+    },
+    {
+      "definition": "(D) \"Customer-formula feed\" means a commercial feed that consists of a mixture of commercial feeds, feed ingredients, or both, each batch of which is manufactured according to the specific instructions of the final purchaser.",
+      "id": "923.41-customer-formula-feed",
+      "normalized": "customer-formula feed",
+      "scope": "As used in sections 923.41 to 923.55 of the Revised Code:",
+      "section": "923.41",
+      "source_title": "Section 923.41 - Inspection of commercial feed definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-923.41",
+      "term": "Customer-formula feed"
+    },
+    {
+      "definition": "(E) \"Mineral feed\" means a commercial feed intended to supply primarily mineral elements or inorganic nutrients.",
+      "id": "923.41-mineral-feed",
+      "normalized": "mineral feed",
+      "scope": "As used in sections 923.41 to 923.55 of the Revised Code:",
+      "section": "923.41",
+      "source_title": "Section 923.41 - Inspection of commercial feed definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-923.41",
+      "term": "Mineral feed"
+    },
+    {
+      "definition": "(F) \"Drug\" means any article intended for use in the diagnosis, cure, mitigation, treatment, or prevention of infectious disease in animals or any article other than feed intended to affect the structure or any function of the animal's body.",
+      "id": "923.41-drug",
+      "normalized": "drug",
+      "scope": "As used in sections 923.41 to 923.55 of the Revised Code:",
+      "section": "923.41",
+      "source_title": "Section 923.41 - Inspection of commercial feed definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-923.41",
+      "term": "Drug"
+    },
+    {
+      "definition": "(G) \"Brand name\" means any word, name, symbol, or device, or any combination thereof identifying the commercial feed of a distributor and distinguishing it from that of others.",
+      "id": "923.41-brand-name",
+      "normalized": "brand name",
+      "scope": "As used in sections 923.41 to 923.55 of the Revised Code:",
+      "section": "923.41",
+      "source_title": "Section 923.41 - Inspection of commercial feed definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-923.41",
+      "term": "Brand name"
+    },
+    {
+      "definition": "(H) \"Product name\" means the name of the commercial feed which identifies it as to kind, class, or specific use.",
+      "id": "923.41-product-name",
+      "normalized": "product name",
+      "scope": "As used in sections 923.41 to 923.55 of the Revised Code:",
+      "section": "923.41",
+      "source_title": "Section 923.41 - Inspection of commercial feed definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-923.41",
+      "term": "Product name"
+    },
+    {
+      "definition": "(I) \"Federal act\" means the \"Federal Food, Drug and Cosmetic Act,\" 52 Stat. 1040 (1938), 21 U.S.C. 301, as amended.",
+      "id": "923.41-federal-act",
+      "normalized": "federal act",
+      "scope": "As used in sections 923.41 to 923.55 of the Revised Code:",
+      "section": "923.41",
+      "source_title": "Section 923.41 - Inspection of commercial feed definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-923.41",
+      "term": "Federal act"
+    },
+    {
+      "definition": "(J) \"Official sample\" means a sample of commercial feed taken by the director of agriculture or the director's agent in accordance with section 923.47 of the Revised Code and rules adopted under that section.",
+      "id": "923.41-official-sample",
+      "normalized": "official sample",
+      "scope": "As used in sections 923.41 to 923.55 of the Revised Code:",
+      "section": "923.41",
+      "source_title": "Section 923.41 - Inspection of commercial feed definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-923.41",
+      "term": "Official sample"
+    },
+    {
+      "definition": "(K) \"Ton\" means a net weight of two thousand pounds avoirdupois.",
+      "id": "923.41-ton",
+      "normalized": "ton",
+      "scope": "As used in sections 923.41 to 923.55 of the Revised Code:",
+      "section": "923.41",
+      "source_title": "Section 923.41 - Inspection of commercial feed definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-923.41",
+      "term": "Ton"
+    },
+    {
+      "definition": "(L) \"Per cent\" or \"percentage\" means the percentage by weight.",
+      "id": "923.41-per-cent",
+      "normalized": "per cent",
+      "scope": "As used in sections 923.41 to 923.55 of the Revised Code:",
+      "section": "923.41",
+      "source_title": "Section 923.41 - Inspection of commercial feed definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-923.41",
+      "term": "Per cent"
+    },
+    {
+      "definition": "(L) \"Per cent\" or \"percentage\" means the percentage by weight.",
+      "id": "923.41-percentage",
+      "normalized": "percentage",
+      "scope": "As used in sections 923.41 to 923.55 of the Revised Code:",
+      "section": "923.41",
+      "source_title": "Section 923.41 - Inspection of commercial feed definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-923.41",
+      "term": "percentage"
+    },
+    {
+      "definition": "(M) \"Manufacture\" means to grind, mix, blend, or further process a commercial feed for distribution. \"Manufacturer\" means any person who manufactures.",
+      "id": "923.41-manufacture",
+      "normalized": "manufacture",
+      "scope": "As used in sections 923.41 to 923.55 of the Revised Code:",
+      "section": "923.41",
+      "source_title": "Section 923.41 - Inspection of commercial feed definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-923.41",
+      "term": "Manufacture"
+    },
+    {
+      "definition": "(N) \"Person\" includes an individual, partnership, association, firm, or corporation.",
+      "id": "923.41-person",
+      "normalized": "person",
+      "scope": "As used in sections 923.41 to 923.55 of the Revised Code:",
+      "section": "923.41",
+      "source_title": "Section 923.41 - Inspection of commercial feed definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-923.41",
+      "term": "Person"
+    },
+    {
+      "definition": "(O) \"Distribute\" means to offer for sale, sell, exchange, or barter commercial feed or to supply, furnish, or otherwise provide commercial feed for animals.",
+      "id": "923.41-distribute",
+      "normalized": "distribute",
+      "scope": "As used in sections 923.41 to 923.55 of the Revised Code:",
+      "section": "923.41",
+      "source_title": "Section 923.41 - Inspection of commercial feed definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-923.41",
+      "term": "Distribute"
+    },
+    {
+      "definition": "(P) \"Distributor\" means any person who distributes.",
+      "id": "923.41-distributor",
+      "normalized": "distributor",
+      "scope": "As used in sections 923.41 to 923.55 of the Revised Code:",
+      "section": "923.41",
+      "source_title": "Section 923.41 - Inspection of commercial feed definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-923.41",
+      "term": "Distributor"
+    },
+    {
+      "definition": "(Q) \"Label\" means a display of written, printed, or graphic matter on or affixed to the container in which a commercial feed is distributed or on the invoice, delivery slip, or other shipping document with which a commercial feed is distributed.",
+      "id": "923.41-label",
+      "normalized": "label",
+      "scope": "As used in sections 923.41 to 923.55 of the Revised Code:",
+      "section": "923.41",
+      "source_title": "Section 923.41 - Inspection of commercial feed definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-923.41",
+      "term": "Label"
+    },
+    {
+      "definition": "(R) \"Labeling\" means all labels or any other written, printed, or graphic matter that accompanies commercial feed.",
+      "id": "923.41-labeling",
+      "normalized": "labeling",
+      "scope": "As used in sections 923.41 to 923.55 of the Revised Code:",
+      "section": "923.41",
+      "source_title": "Section 923.41 - Inspection of commercial feed definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-923.41",
+      "term": "Labeling"
+    },
+    {
+      "definition": "(S) \"Exempt buyer\" means a person to whom commercial feed is distributed who is required by rule under division (A)(2) of section 923.44 of the Revised Code to pay the semiannual inspection fee required under that section.",
+      "id": "923.41-exempt-buyer",
+      "normalized": "exempt buyer",
+      "scope": "As used in sections 923.41 to 923.55 of the Revised Code:",
+      "section": "923.41",
+      "source_title": "Section 923.41 - Inspection of commercial feed definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-923.41",
+      "term": "Exempt buyer"
+    },
+    {
+      "definition": "(T) \"Misbranded\" has the same meaning as in section 923.49 of the Revised Code.",
+      "id": "923.41-misbranded",
+      "normalized": "misbranded",
+      "scope": "As used in sections 923.41 to 923.55 of the Revised Code:",
+      "section": "923.41",
+      "source_title": "Section 923.41 - Inspection of commercial feed definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-923.41",
+      "term": "Misbranded"
+    },
+    {
+      "definition": "(U) \"Adulterated\" has the same meaning as in section 923.48 of the Revised Code.",
+      "id": "923.41-adulterated",
+      "normalized": "adulterated",
+      "scope": "As used in sections 923.41 to 923.55 of the Revised Code:",
+      "section": "923.41",
+      "source_title": "Section 923.41 - Inspection of commercial feed definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-923.41",
+      "term": "Adulterated"
+    },
+    {
+      "definition": "(V) \"Pet\" means any domestic animal normally maintained in or near a household.",
+      "id": "923.41-pet",
+      "normalized": "pet",
+      "scope": "As used in sections 923.41 to 923.55 of the Revised Code:",
+      "section": "923.41",
+      "source_title": "Section 923.41 - Inspection of commercial feed definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-923.41",
+      "term": "Pet"
+    },
+    {
+      "definition": "(W) \"Pet food\" means any commercial feed prepared and distributed for consumption by pets.\n\nLast updated February 8, 2023 at 4:01 PM",
+      "id": "923.41-pet-food",
+      "normalized": "pet food",
+      "scope": "As used in sections 923.41 to 923.55 of the Revised Code:",
+      "section": "923.41",
+      "source_title": "Section 923.41 - Inspection of commercial feed definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-923.41",
+      "term": "Pet food"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "923.41",
+      "number": "923.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-923.41"
+    },
+    {
+      "kind": "section",
+      "label": "923.55",
+      "number": "923.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-923.55"
+    },
+    {
+      "kind": "section",
+      "label": "923.47",
+      "number": "923.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-923.47"
+    },
+    {
+      "kind": "section",
+      "label": "923.44",
+      "number": "923.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-923.44"
+    },
+    {
+      "kind": "section",
+      "label": "923.49",
+      "number": "923.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-923.49"
+    },
+    {
+      "kind": "section",
+      "label": "923.48",
+      "number": "923.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-923.48"
+    }
+  ],
+  "scraped": "2026-07-02T19:34:21+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-923.41",
+  "title": "Section 923.41 - Inspection of commercial feed definitions."
+}

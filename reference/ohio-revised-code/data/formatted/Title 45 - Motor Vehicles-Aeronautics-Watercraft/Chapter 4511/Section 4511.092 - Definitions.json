@@ -1,0 +1,168 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Designated party\" means the person whom the registered owner of a motor vehicle, upon receipt of a ticket based upon images recorded by a traffic law photo-monitoring device that indicate a traffic law violation, identifies as the person who was operating the vehicle of the registered owner at the time of the violation.",
+      "id": "4511.092-designated-party",
+      "normalized": "designated party",
+      "scope": "As used in sections 4511.092 to 4511.0914 of the Revised Code:",
+      "section": "4511.092",
+      "source_title": "Section 4511.092 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4511.092",
+      "term": "Designated party"
+    },
+    {
+      "definition": "(B) \"Law enforcement officer\" means a police officer who is employed on a permanent, full-time basis by the law enforcement agency of a local authority that assigns such person to the location of a traffic law photo-monitoring device.",
+      "id": "4511.092-law-enforcement-officer",
+      "normalized": "law enforcement officer",
+      "scope": "As used in sections 4511.092 to 4511.0914 of the Revised Code:",
+      "section": "4511.092",
+      "source_title": "Section 4511.092 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4511.092",
+      "term": "Law enforcement officer"
+    },
+    {
+      "definition": "(C) \"Local authority\" means a municipal corporation.",
+      "id": "4511.092-local-authority",
+      "normalized": "local authority",
+      "scope": "As used in sections 4511.092 to 4511.0914 of the Revised Code:",
+      "section": "4511.092",
+      "source_title": "Section 4511.092 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4511.092",
+      "term": "Local authority"
+    },
+    {
+      "definition": "(D) \"Motor vehicle leasing dealer\" has the same meaning as in section 4517.01 of the Revised Code.",
+      "id": "4511.092-motor-vehicle-leasing-dealer",
+      "normalized": "motor vehicle leasing dealer",
+      "scope": "As used in sections 4511.092 to 4511.0914 of the Revised Code:",
+      "section": "4511.092",
+      "source_title": "Section 4511.092 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4511.092",
+      "term": "Motor vehicle leasing dealer"
+    },
+    {
+      "definition": "(E) \"Motor vehicle renting dealer\" has the same meaning as in section 4549.65 of the Revised Code.",
+      "id": "4511.092-motor-vehicle-renting-dealer",
+      "normalized": "motor vehicle renting dealer",
+      "scope": "As used in sections 4511.092 to 4511.0914 of the Revised Code:",
+      "section": "4511.092",
+      "source_title": "Section 4511.092 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4511.092",
+      "term": "Motor vehicle renting dealer"
+    },
+    {
+      "definition": "(F) \"Recorded images\" means any of the following images recorded by a traffic law photo-monitoring device that show, on at least one image or on a portion of the videotape, the rear of a motor vehicle and the letters and numerals on the rear license plate of the vehicle:\n\n(1) Two or more photographs, microphotographs, electronic images, or digital images;\n\n(2) Videotape.",
+      "id": "4511.092-recorded-images",
+      "normalized": "recorded images",
+      "scope": "As used in sections 4511.092 to 4511.0914 of the Revised Code:",
+      "section": "4511.092",
+      "source_title": "Section 4511.092 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4511.092",
+      "term": "Recorded images"
+    },
+    {
+      "definition": "(G) \"Registered owner\" means all of the following:\n\n(1) Any person or entity identified by the bureau of motor vehicles or any other state motor vehicle registration bureau, department, or office as the owner of a motor vehicle;\n\n(2) The lessee of a motor vehicle under a lease of six months or longer;\n\n(3) The renter of a motor vehicle pursuant to a written rental agreement with a motor vehicle renting dealer.",
+      "id": "4511.092-registered-owner",
+      "normalized": "registered owner",
+      "scope": "As used in sections 4511.092 to 4511.0914 of the Revised Code:",
+      "section": "4511.092",
+      "source_title": "Section 4511.092 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4511.092",
+      "term": "Registered owner"
+    },
+    {
+      "definition": "(H) \"System location\" means the approach to an intersection or area of roadway toward which a traffic law photo-monitoring device is directed and is in operation.",
+      "id": "4511.092-system-location",
+      "normalized": "system location",
+      "scope": "As used in sections 4511.092 to 4511.0914 of the Revised Code:",
+      "section": "4511.092",
+      "source_title": "Section 4511.092 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4511.092",
+      "term": "System location"
+    },
+    {
+      "definition": "(I) \"Ticket\" means any traffic ticket, citation, summons, or other ticket issued in response to an alleged traffic law violation detected by a traffic law photo-monitoring device, that represents a civil violation.",
+      "id": "4511.092-ticket",
+      "normalized": "ticket",
+      "scope": "As used in sections 4511.092 to 4511.0914 of the Revised Code:",
+      "section": "4511.092",
+      "source_title": "Section 4511.092 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4511.092",
+      "term": "Ticket"
+    },
+    {
+      "definition": "(J) \"Traffic law photo-monitoring device\" means an electronic system consisting of a photographic, video, or electronic camera and a means of sensing the presence of a motor vehicle that automatically produces recorded images.",
+      "id": "4511.092-traffic-law-photo-monitoring-device",
+      "normalized": "traffic law photo-monitoring device",
+      "scope": "As used in sections 4511.092 to 4511.0914 of the Revised Code:",
+      "section": "4511.092",
+      "source_title": "Section 4511.092 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4511.092",
+      "term": "Traffic law photo-monitoring device"
+    },
+    {
+      "definition": "(K) \"Traffic law violation\" means either of the following:\n\n(1) A violation of section 4511.12 of the Revised Code based on the failure to comply with section 4511.13 of the Revised Code or a substantially equivalent municipal ordinance that occurs at an intersection due to failure to obey a highway traffic signal;\n\n(2) A violation of section 4511.21 or 4511.211 of the Revised Code or a substantially equivalent municipal ordinance due to failure to observe the applicable speed limit.\n\nLast updated April 30, 2025 at 10:44 AM",
+      "id": "4511.092-traffic-law-violation",
+      "normalized": "traffic law violation",
+      "scope": "As used in sections 4511.092 to 4511.0914 of the Revised Code:",
+      "section": "4511.092",
+      "source_title": "Section 4511.092 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4511.092",
+      "term": "Traffic law violation"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "4511.092",
+      "number": "4511.092",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.092"
+    },
+    {
+      "kind": "section",
+      "label": "4511.0914",
+      "number": "4511.0914",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.0914"
+    },
+    {
+      "kind": "section",
+      "label": "4517.01",
+      "number": "4517.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4517.01"
+    },
+    {
+      "kind": "section",
+      "label": "4549.65",
+      "number": "4549.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4549.65"
+    },
+    {
+      "kind": "section",
+      "label": "4511.12",
+      "number": "4511.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.12"
+    },
+    {
+      "kind": "section",
+      "label": "4511.13",
+      "number": "4511.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.13"
+    },
+    {
+      "kind": "section",
+      "label": "4511.21",
+      "number": "4511.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.21"
+    },
+    {
+      "kind": "section",
+      "label": "4511.211",
+      "number": "4511.211",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.211"
+    }
+  ],
+  "scraped": "2026-07-02T20:05:38+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4511.092",
+  "title": "Section 4511.092 - Definitions."
+}

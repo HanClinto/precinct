@@ -1,0 +1,42 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Interested party\" means any of the following:\n\n(a) An employer who is in compliance with section 4123.35 of the Revised Code and who is not a self-insuring employer;\n\n(b) The attorney general;\n\n(c) The administrator of workers' compensation.",
+      "id": "4123.79-interested-party",
+      "normalized": "interested party",
+      "scope": "(C) As used in this section:",
+      "section": "4123.79",
+      "source_title": "Section 4123.79 - Party may enjoin operation of noncomplying employer - construction contractor or subcontractor.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4123.79",
+      "term": "Interested party"
+    },
+    {
+      "definition": "(2) \"Construction contract\" means any oral or written agreement involving any activity in connection with the erection, alteration, repair, replacement, renovation, installation, or demolition of any building, structure, highway, or bridge.",
+      "id": "4123.79-construction-contract",
+      "normalized": "construction contract",
+      "scope": "(C) As used in this section:",
+      "section": "4123.79",
+      "source_title": "Section 4123.79 - Party may enjoin operation of noncomplying employer - construction contractor or subcontractor.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4123.79",
+      "term": "Construction contract"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2727.02",
+      "number": "2727.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2727.02"
+    },
+    {
+      "kind": "section",
+      "label": "4123.35",
+      "number": "4123.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.35"
+    }
+  ],
+  "scraped": "2026-07-02T20:04:17+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4123.79",
+  "title": "Section 4123.79 - Party may enjoin operation of noncomplying employer - construction contractor or subcontractor."
+}

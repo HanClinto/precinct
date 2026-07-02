@@ -1,0 +1,234 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Administrative fee\" means a fee imposed by a toll project operator for toll collection, processing, and related activities.",
+      "id": "5531.11-administrative-fee",
+      "normalized": "administrative fee",
+      "scope": "As used in sections 5531.11 to 5531.18 of the Revised Code:",
+      "section": "5531.11",
+      "source_title": "Section 5531.11 - Toll projects - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5531.11",
+      "term": "Administrative fee"
+    },
+    {
+      "definition": "(B) \"Cost\" means all costs of constructing, improving, repairing, maintaining, administering, financing, and operating the Ohio transportation system, including all costs payable with respect to permanent improvements as described in division (B) of section 133.15 of the Revised Code.",
+      "id": "5531.11-cost",
+      "normalized": "cost",
+      "scope": "As used in sections 5531.11 to 5531.18 of the Revised Code:",
+      "section": "5531.11",
+      "source_title": "Section 5531.11 - Toll projects - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5531.11",
+      "term": "Cost"
+    },
+    {
+      "definition": "(C) \"Electronic-monitoring system\" means any form of electronic or other vehicle sensor or identifying device that automatically produces one or more photographs, one or more microphotographs, a videotape, recorded images, or other form of identifying data of each vehicle at the time it is used or operated on a toll project.",
+      "id": "5531.11-electronic-monitoring-system",
+      "normalized": "electronic-monitoring system",
+      "scope": "As used in sections 5531.11 to 5531.18 of the Revised Code:",
+      "section": "5531.11",
+      "source_title": "Section 5531.11 - Toll projects - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5531.11",
+      "term": "Electronic-monitoring system"
+    },
+    {
+      "definition": "(D) \"Governmental agency\" means any state agency, federal agency, political subdivision, or other local, interstate, or regional governmental agency, and any combination of those agencies.",
+      "id": "5531.11-governmental-agency",
+      "normalized": "governmental agency",
+      "scope": "As used in sections 5531.11 to 5531.18 of the Revised Code:",
+      "section": "5531.11",
+      "source_title": "Section 5531.11 - Toll projects - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5531.11",
+      "term": "Governmental agency"
+    },
+    {
+      "definition": "(E) \"Highway project\" means any project intended for the highway purpose of supporting the state highway system. A highway project, whether publicly or privately owned, is a state infrastructure project as defined in section 5531.10 of the Revised Code for all purposes of that section and section 5531.09 of the Revised Code and also is a transportation facility as defined in section 5501.01 of the Revised Code.",
+      "id": "5531.11-highway-project",
+      "normalized": "highway project",
+      "scope": "As used in sections 5531.11 to 5531.18 of the Revised Code:",
+      "section": "5531.11",
+      "source_title": "Section 5531.11 - Toll projects - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5531.11",
+      "term": "Highway project"
+    },
+    {
+      "definition": "(F) \"Motor vehicle certificate of registration issuance prevention order\" means, relative to the registered owner of a motor vehicle, an order that prohibits the registrar of motor vehicles and any deputy registrar from doing both of the following:\n\n(1) Accepting any application for a new or renewal motor vehicle certificate of registration in the name of the registered owner;\n\n(2) Issuing or renewing any motor vehicle certificate of registration for a motor vehicle that utilized a toll project for which the required user fee or associated administrative fee was not paid by the registered owner of that motor vehicle.",
+      "id": "5531.11-motor-vehicle-certificate-of-registration-issuance-prevention-order",
+      "normalized": "motor vehicle certificate of registration issuance prevention order",
+      "scope": "As used in sections 5531.11 to 5531.18 of the Revised Code:",
+      "section": "5531.11",
+      "source_title": "Section 5531.11 - Toll projects - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5531.11",
+      "term": "Motor vehicle certificate of registration issuance prevention order"
+    },
+    {
+      "definition": "(G) \"Public roads\" means all public highways, roads, and streets in the state, whether maintained by a state agency or any other governmental agency.",
+      "id": "5531.11-public-roads",
+      "normalized": "public roads",
+      "scope": "As used in sections 5531.11 to 5531.18 of the Revised Code:",
+      "section": "5531.11",
+      "source_title": "Section 5531.11 - Toll projects - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5531.11",
+      "term": "Public roads"
+    },
+    {
+      "definition": "(H) \"Public utility facilities\" means tracks, pipes, mains, conduits, cables, wires, towers, poles, and other equipment and appliances of any public utility.",
+      "id": "5531.11-public-utility-facilities",
+      "normalized": "public utility facilities",
+      "scope": "As used in sections 5531.11 to 5531.18 of the Revised Code:",
+      "section": "5531.11",
+      "source_title": "Section 5531.11 - Toll projects - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5531.11",
+      "term": "Public utility facilities"
+    },
+    {
+      "definition": "(I) \"Registered owner\" means all of the following:\n\n(1) Any person or entity identified by the bureau of motor vehicles or any other state motor vehicle bureau, department, or office as the owner of a motor vehicle;\n\n(2) The lessee of a motor vehicle pursuant to a lease of six months or longer;\n\n(3) The renter of a motor vehicle pursuant to a written rental agreement with a motor vehicle renting dealer.",
+      "id": "5531.11-registered-owner",
+      "normalized": "registered owner",
+      "scope": "As used in sections 5531.11 to 5531.18 of the Revised Code:",
+      "section": "5531.11",
+      "source_title": "Section 5531.11 - Toll projects - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5531.11",
+      "term": "Registered owner"
+    },
+    {
+      "definition": "(J) \"Revenues\" means all nontax revenues coming into the possession of or under the control of the department by virtue of sections 5531.11 to 5531.18 of the Revised Code. \"Revenues\" does not include proceeds from the sale of obligations but does include user fees, service revenues, investment income on the Ohio toll fund established in section 5531.14 of the Revised Code, rentals, gifts, and grants.",
+      "id": "5531.11-revenues",
+      "normalized": "revenues",
+      "scope": "As used in sections 5531.11 to 5531.18 of the Revised Code:",
+      "section": "5531.11",
+      "source_title": "Section 5531.11 - Toll projects - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5531.11",
+      "term": "Revenues"
+    },
+    {
+      "definition": "(K) \"Service facilities\" means service stations, restaurants, and other facilities for food service, roadside parks and rest areas, parking, camping, tenting, rest, and sleeping facilities, hotels or motels, and all similar and other facilities providing services to the traveling public in connection with the use of a toll project and owned, leased, licensed, or operated by the department.",
+      "id": "5531.11-service-facilities",
+      "normalized": "service facilities",
+      "scope": "As used in sections 5531.11 to 5531.18 of the Revised Code:",
+      "section": "5531.11",
+      "source_title": "Section 5531.11 - Toll projects - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5531.11",
+      "term": "Service facilities"
+    },
+    {
+      "definition": "(L) \"Service revenues\" means those revenues of the department derived from its ownership, leasing, licensing, or operation of service facilities.",
+      "id": "5531.11-service-revenues",
+      "normalized": "service revenues",
+      "scope": "As used in sections 5531.11 to 5531.18 of the Revised Code:",
+      "section": "5531.11",
+      "source_title": "Section 5531.11 - Toll projects - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5531.11",
+      "term": "Service revenues"
+    },
+    {
+      "definition": "(M) \"State highway system\" or \"system\" means all existing and future transportation projects constructed, operated, repaired, maintained, administered, and operated under the jurisdiction of the department of transportation, including toll projects and highway projects.",
+      "id": "5531.11-state-highway-system",
+      "normalized": "state highway system",
+      "scope": "As used in sections 5531.11 to 5531.18 of the Revised Code:",
+      "section": "5531.11",
+      "source_title": "Section 5531.11 - Toll projects - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5531.11",
+      "term": "State highway system"
+    },
+    {
+      "definition": "(M) \"State highway system\" or \"system\" means all existing and future transportation projects constructed, operated, repaired, maintained, administered, and operated under the jurisdiction of the department of transportation, including toll projects and highway projects.",
+      "id": "5531.11-system",
+      "normalized": "system",
+      "scope": "As used in sections 5531.11 to 5531.18 of the Revised Code:",
+      "section": "5531.11",
+      "source_title": "Section 5531.11 - Toll projects - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5531.11",
+      "term": "system"
+    },
+    {
+      "definition": "(N) \"Toll project\" means all of the following:\n\n(1) Any project for which user fees are charged that adds new capacity, including construction on existing highways, bridges, or tunnels where construction increases the total number of lanes, including toll and nontoll lanes, and does not decrease the total number of nontoll lanes at each mile;\n\n(2) New interchanges constructed for economic development purposes connecting an interstate highway or a multi-lane highway that was not connected previously with other interstates, state highways and local roads, and any new high occupancy lane or new highways connecting an intermodal facility established, constructed, reconstructed, maintained, repaired, administered, operated, or improved, under the jurisdiction of the department;\n\n(3) Pursuant to sections 5531.11 to 5531.18 of the Revised Code, at a location or locations determined by the director of transportation, all bridges, tunnels, overpasses, underpasses, interchanges, entrance plazas, approaches, and those portions of connecting public roads that serve interchanges and are determined by the director to be necessary for the safe merging of traffic between the toll project and those nontolled public roads, toll booths, service facilities, and administration, storage, and other buildings, property, and facilities that the department considers necessary for the operation or policing of the toll project, together with all property and rights that may be acquired by the department for the construction, maintenance, repair, administration, improvement, or operation of the toll project;\n\n(4) Notwithstanding division (N)(1) of this section, the replacement, improvement, rehabilitation, operation, and maintenance of a bridge or system of bridges at one location that carries two interstate highways over the Ohio river to another state, and the replacement, improvement, rehabilitation, operation, and maintenance of the roadways that provide ingress to and egress from such a bridge or system of bridges, generally following the route of those interstate highways.",
+      "id": "5531.11-toll-project",
+      "normalized": "toll project",
+      "scope": "As used in sections 5531.11 to 5531.18 of the Revised Code:",
+      "section": "5531.11",
+      "source_title": "Section 5531.11 - Toll projects - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5531.11",
+      "term": "Toll project"
+    },
+    {
+      "definition": "(O) \"Toll project operator\" means the department or any agency, political subdivision, authority, or other entity that operates a toll project, including a private entity that operates a toll project pursuant to a public-private agreement authorized by sections 5501.70 to 5501.83 of the Revised Code.",
+      "id": "5531.11-toll-project-operator",
+      "normalized": "toll project operator",
+      "scope": "As used in sections 5531.11 to 5531.18 of the Revised Code:",
+      "section": "5531.11",
+      "source_title": "Section 5531.11 - Toll projects - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5531.11",
+      "term": "Toll project operator"
+    },
+    {
+      "definition": "(P) \"User fee\" means a rate, toll, fee, or other charge imposed by a toll project operator for use of all or part of a transportation facility, including a toll project. \"User fee\" also includes any such rate, toll, fee, or other charge imposed by a toll project operator pursuant to a public-private agreement authorized by sections 5501.70 to 5501.83 of the Revised Code.",
+      "id": "5531.11-user-fee",
+      "normalized": "user fee",
+      "scope": "As used in sections 5531.11 to 5531.18 of the Revised Code:",
+      "section": "5531.11",
+      "source_title": "Section 5531.11 - Toll projects - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5531.11",
+      "term": "User fee"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "5531.11",
+      "number": "5531.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5531.11"
+    },
+    {
+      "kind": "section",
+      "label": "5531.18",
+      "number": "5531.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5531.18"
+    },
+    {
+      "kind": "section",
+      "label": "133.15",
+      "number": "133.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.15"
+    },
+    {
+      "kind": "section",
+      "label": "5531.10",
+      "number": "5531.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5531.10"
+    },
+    {
+      "kind": "section",
+      "label": "5531.09",
+      "number": "5531.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5531.09"
+    },
+    {
+      "kind": "section",
+      "label": "5501.01",
+      "number": "5501.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.01"
+    },
+    {
+      "kind": "section",
+      "label": "5531.14",
+      "number": "5531.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5531.14"
+    },
+    {
+      "kind": "section",
+      "label": "5501.70",
+      "number": "5501.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.70"
+    },
+    {
+      "kind": "section",
+      "label": "5501.83",
+      "number": "5501.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5501.83"
+    }
+  ],
+  "scraped": "2026-07-02T20:13:05+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5531.11",
+  "title": "Section 5531.11 - Toll projects - definitions."
+}

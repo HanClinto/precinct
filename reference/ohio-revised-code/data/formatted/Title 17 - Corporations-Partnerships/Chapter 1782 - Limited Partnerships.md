@@ -1,0 +1,83 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-1782
+Scraped: 2026-07-02T19:40:37+00:00
+
+# Chapter 1782 - Limited Partnerships
+
+## Sections
+
+- Section 1782.01 - Limited partnership definitions.
+- Section 1782.02 - Name.
+- Section 1782.04 - Statutory agent.
+- Section 1782.05 - Records to be kept at principal office - copies provided to agent where office outside Ohio.
+- Section 1782.06 - Scope of business.
+- Section 1782.07 - Partner's transactions with partnership.
+- Section 1782.08 - Certificate of limited partnership required - filing, contents.
+- Section 1782.09 - Certificate of amendment - restatement of certificate.
+- Section 1782.10 - Certificate of cancellation - amendment.
+- Section 1782.11 - Execution of certificate.
+- Section 1782.12 - Petition for execution of certificate.
+- Section 1782.13 - Filing of documents with secretary of state.
+- Section 1782.14 - Liability for false statement in certificate.
+- Section 1782.15 - Filing is notice of certain fact.
+- Section 1782.16 - Copy of certificates to be delivered or mailed to limited partners.
+- Section 1782.17 - Person becomes limited partner, when - additional limited partners.
+- Section 1782.18 - Voting rights.
+- Section 1782.19 - Rights, powers, and liabilities of limited partners.
+- Section 1782.20 - Erroneous belief that one is a limited partner.
+- Section 1782.21 - Right to information.
+- Section 1782.22 - Additional general partners.
+- Section 1782.23 - Person ceases to be a general partner - when.
+- Section 1782.24 - General partner - rights and powers.
+- Section 1782.241 - Care owed by general partner.
+- Section 1782.242 - Effect of self-dealing.
+- Section 1782.25 - Person may be both general and limited partner.
+- Section 1782.26 - Voting rights of general partners.
+- Section 1782.27 - Contributions of partner.
+- Section 1782.28 - Promise of limited partner to contribute to partnership not enforceable unless written and signed.
+- Section 1782.29 - Allocation of profits and losses.
+- Section 1782.30 - Allocation of distributions.
+- Section 1782.31 - Partner entitled to receive distributions.
+- Section 1782.32 - Withdrawal of general partner.
+- Section 1782.33 - Withdrawal of limited partner.
+- Section 1782.34 - Rights of withdrawing partner.
+- Section 1782.35 - Distributions.
+- Section 1782.36 - Remedies.
+- Section 1782.37 - Restricting distributions.
+- Section 1782.39 - Partnership interest is personal property.
+- Section 1782.40 - Partnership interest - assignable in whole or in part.
+- Section 1782.41 - Judgment creditor of partner.
+- Section 1782.42 - Assignee may become limited partner.
+- Section 1782.43 - Rights of legal representative of partner.
+- Section 1782.431 - Merger or consolidation - domestic limited partnership.
+- Section 1782.432 - Merger or consolidation - entity other than domestic limited partnership.
+- Section 1782.433 - Certificate of merger or consolidation.
+- Section 1782.434 - Surviving or new entity.
+- Section 1782.435 - Dissenting partners.
+- Section 1782.436 - Written demand for payment of fair cash value of interests.
+- Section 1782.437 - Complaint demanding relief.
+- Section 1782.438 - Conversion of another entity into domestic limited partnership.
+- Section 1782.439 - Conversion of domestic limited partnership into another entity.
+- Section 1782.4310 - Filing of certificate of conversion - effective date.
+- Section 1782.4311 - Legal effect of conversion - action to set aside.
+- Section 1782.44 - Dissolution and winding-up.
+- Section 1782.45 - Decree of dissolution of partnership.
+- Section 1782.46 - Partners or court may wind up affairs.
+- Section 1782.47 - Order of distribution.
+- Section 1782.48 - Laws governing foreign partnerships.
+- Section 1782.49 - Application for registration of foreign limited partnership.
+- Section 1782.50 - Acceptance of application by secretary of state.
+- Section 1782.51 - Name.
+- Section 1782.52 - Certificate correcting application information - statement of correction of agent's address.
+- Section 1782.53 - Cancellation of registration.
+- Section 1782.54 - Failure to register of foreign limited partnership.
+- Section 1782.55 - Action to restrain transaction of business.
+- Section 1782.56 - Derivative action by limited partner.
+- Section 1782.57 - Plaintiff in derivative action.
+- Section 1782.58 - Complaint.
+- Section 1782.59 - Court orders in successful derivative action.
+- Section 1782.60 - Application and construction of chapter.
+- Section 1782.61 - Pre-existing limited partnerships.
+- Section 1782.62 - Pre-existing foreign limited partnerships.
+- Section 1782.63 - Refiling of certificate for limited partnerships existing prior to 7-1-94.
+- Section 1782.64 - Conversion to limited liability limited partnership.
+- Section 1782.65 - Persons performing services to partnership or partners.

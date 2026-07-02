@@ -1,0 +1,256 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Hospital\" includes any person, corporation, association, board, or authority that is responsible for the operation of any hospital licensed or registered in the state, including, but not limited to, those that are owned or operated by the state, political subdivisions, any person, any corporation, or any combination of the state, political subdivisions, persons, and corporations. \"Hospital\" also includes any person, corporation, association, board, entity, or authority that is responsible for the operation of any clinic that employs a full-time staff of physicians practicing in more than one recognized medical specialty and rendering advice, diagnosis, care, and treatment to individuals. \"Hospital\" does not include any hospital operated by the government of the United States or any of its branches.",
+      "id": "2305.113-hospital",
+      "normalized": "hospital",
+      "scope": "(E) As used in this section:",
+      "section": "2305.113",
+      "source_title": "Section 2305.113 - Medical malpractice actions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2305.113",
+      "term": "Hospital"
+    },
+    {
+      "definition": "(2) \"Physician\" means a person who is licensed to practice medicine and surgery or osteopathic medicine and surgery by the state medical board or a person who otherwise is authorized to practice medicine and surgery or osteopathic medicine and surgery in this state.",
+      "id": "2305.113-physician",
+      "normalized": "physician",
+      "scope": "(E) As used in this section:",
+      "section": "2305.113",
+      "source_title": "Section 2305.113 - Medical malpractice actions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2305.113",
+      "term": "Physician"
+    },
+    {
+      "definition": "(3) \"Medical claim\" means any claim that is asserted in any civil action against a physician, podiatrist, hospital, home, or residential facility, against any employee or agent of a physician, podiatrist, hospital, home, or residential facility, or against a licensed practical nurse, registered nurse, advanced practice registered nurse, physical therapist, physician assistant, emergency medical technician-basic, emergency medical technician-intermediate, or emergency medical technician-paramedic, and that arises out of the medical diagnosis, care, or treatment of any person. \"Medical claim\" includes the following:\n\n(a) Derivative claims for relief that arise from the medical diagnosis, care, or treatment of a person;\n\n(b) Derivative claims for relief that arise from the plan of care prepared for a resident of a home;\n\n(c) Claims that arise out of the medical diagnosis, care, or treatment of any person or claims that arise out of the plan of care prepared for a resident of a home and to which both types of claims either of the following applies:\n\n(i) The claim results from acts or omissions in providing medical care.\n\n(ii) The claim results from the hiring, training, supervision, retention, or termination of caregivers providing medical diagnosis, care, or treatment.\n\n(d) Claims that arise out of the plan of care, medical diagnosis, or treatment of any person and that are brought under section 3721.17 of the Revised Code;\n\n(e) Claims that arise out of skilled nursing care or personal care services provided in a home pursuant to the plan of care, medical diagnosis, or treatment.",
+      "id": "2305.113-medical-claim",
+      "normalized": "medical claim",
+      "scope": "(E) As used in this section:",
+      "section": "2305.113",
+      "source_title": "Section 2305.113 - Medical malpractice actions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2305.113",
+      "term": "Medical claim"
+    },
+    {
+      "definition": "(4) \"Podiatrist\" means any person who is licensed to practice podiatric medicine and surgery by the state medical board.",
+      "id": "2305.113-podiatrist",
+      "normalized": "podiatrist",
+      "scope": "(E) As used in this section:",
+      "section": "2305.113",
+      "source_title": "Section 2305.113 - Medical malpractice actions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2305.113",
+      "term": "Podiatrist"
+    },
+    {
+      "definition": "(5) \"Dentist\" means any person who is licensed to practice dentistry by the state dental board.",
+      "id": "2305.113-dentist",
+      "normalized": "dentist",
+      "scope": "(E) As used in this section:",
+      "section": "2305.113",
+      "source_title": "Section 2305.113 - Medical malpractice actions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2305.113",
+      "term": "Dentist"
+    },
+    {
+      "definition": "(6) \"Dental claim\" means any claim that is asserted in any civil action against a dentist, or against any employee or agent of a dentist, and that arises out of a dental operation or the dental diagnosis, care, or treatment of any person. \"Dental claim\" includes derivative claims for relief that arise from a dental operation or the dental diagnosis, care, or treatment of a person.",
+      "id": "2305.113-dental-claim",
+      "normalized": "dental claim",
+      "scope": "(E) As used in this section:",
+      "section": "2305.113",
+      "source_title": "Section 2305.113 - Medical malpractice actions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2305.113",
+      "term": "Dental claim"
+    },
+    {
+      "definition": "(7) \"Derivative claims for relief\" include, but are not limited to, claims of a parent, guardian, custodian, or spouse of an individual who was the subject of any medical diagnosis, care, or treatment, dental diagnosis, care, or treatment, dental operation, optometric diagnosis, care, or treatment, or chiropractic diagnosis, care, or treatment, that arise from that diagnosis, care, treatment, or operation, and that seek the recovery of damages for any of the following:\n\n(a) Loss of society, consortium, companionship, care, assistance, attention, protection, advice, guidance, counsel, instruction, training, or education, or any other intangible loss that was sustained by the parent, guardian, custodian, or spouse;\n\n(b) Expenditures of the parent, guardian, custodian, or spouse for medical, dental, optometric, or chiropractic care or treatment, for rehabilitation services, or for other care, treatment, services, products, or accommodations provided to the individual who was the subject of the medical diagnosis, care, or treatment, the dental diagnosis, care, or treatment, the dental operation, the optometric diagnosis, care, or treatment, or the chiropractic diagnosis, care, or treatment.",
+      "id": "2305.113-derivative-claims-for-relief",
+      "normalized": "derivative claims for relief",
+      "scope": "(E) As used in this section:",
+      "section": "2305.113",
+      "source_title": "Section 2305.113 - Medical malpractice actions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2305.113",
+      "term": "Derivative claims for relief"
+    },
+    {
+      "definition": "(8) \"Registered nurse\" means any person who is licensed to practice nursing as a registered nurse by the board of nursing.",
+      "id": "2305.113-registered-nurse",
+      "normalized": "registered nurse",
+      "scope": "(E) As used in this section:",
+      "section": "2305.113",
+      "source_title": "Section 2305.113 - Medical malpractice actions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2305.113",
+      "term": "Registered nurse"
+    },
+    {
+      "definition": "(9) \"Chiropractic claim\" means any claim that is asserted in any civil action against a chiropractor, or against any employee or agent of a chiropractor, and that arises out of the chiropractic diagnosis, care, or treatment of any person. \"Chiropractic claim\" includes derivative claims for relief that arise from the chiropractic diagnosis, care, or treatment of a person.",
+      "id": "2305.113-chiropractic-claim",
+      "normalized": "chiropractic claim",
+      "scope": "(E) As used in this section:",
+      "section": "2305.113",
+      "source_title": "Section 2305.113 - Medical malpractice actions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2305.113",
+      "term": "Chiropractic claim"
+    },
+    {
+      "definition": "(10) \"Chiropractor\" means any person who is licensed to practice chiropractic by the state chiropractic board.",
+      "id": "2305.113-chiropractor",
+      "normalized": "chiropractor",
+      "scope": "(E) As used in this section:",
+      "section": "2305.113",
+      "source_title": "Section 2305.113 - Medical malpractice actions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2305.113",
+      "term": "Chiropractor"
+    },
+    {
+      "definition": "(11) \"Optometric claim\" means any claim that is asserted in any civil action against an optometrist, or against any employee or agent of an optometrist, and that arises out of the optometric diagnosis, care, or treatment of any person. \"Optometric claim\" includes derivative claims for relief that arise from the optometric diagnosis, care, or treatment of a person.",
+      "id": "2305.113-optometric-claim",
+      "normalized": "optometric claim",
+      "scope": "(E) As used in this section:",
+      "section": "2305.113",
+      "source_title": "Section 2305.113 - Medical malpractice actions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2305.113",
+      "term": "Optometric claim"
+    },
+    {
+      "definition": "(12) \"Optometrist\" means any person licensed to practice optometry by the state vision professionals board.",
+      "id": "2305.113-optometrist",
+      "normalized": "optometrist",
+      "scope": "(E) As used in this section:",
+      "section": "2305.113",
+      "source_title": "Section 2305.113 - Medical malpractice actions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2305.113",
+      "term": "Optometrist"
+    },
+    {
+      "definition": "(13) \"Physical therapist\" means any person who is licensed to practice physical therapy under Chapter 4755. of the Revised Code.",
+      "id": "2305.113-physical-therapist",
+      "normalized": "physical therapist",
+      "scope": "(E) As used in this section:",
+      "section": "2305.113",
+      "source_title": "Section 2305.113 - Medical malpractice actions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2305.113",
+      "term": "Physical therapist"
+    },
+    {
+      "definition": "(14) \"Home\" has the same meaning as in section 3721.10 of the Revised Code.",
+      "id": "2305.113-home",
+      "normalized": "home",
+      "scope": "(E) As used in this section:",
+      "section": "2305.113",
+      "source_title": "Section 2305.113 - Medical malpractice actions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2305.113",
+      "term": "Home"
+    },
+    {
+      "definition": "(15) \"Residential facility\" means a facility licensed under section 5123.19 of the Revised Code.",
+      "id": "2305.113-residential-facility",
+      "normalized": "residential facility",
+      "scope": "(E) As used in this section:",
+      "section": "2305.113",
+      "source_title": "Section 2305.113 - Medical malpractice actions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2305.113",
+      "term": "Residential facility"
+    },
+    {
+      "definition": "(16) \"Advanced practice registered nurse\" has the same meaning as in section 4723.01 of the Revised Code.",
+      "id": "2305.113-advanced-practice-registered-nurse",
+      "normalized": "advanced practice registered nurse",
+      "scope": "(E) As used in this section:",
+      "section": "2305.113",
+      "source_title": "Section 2305.113 - Medical malpractice actions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2305.113",
+      "term": "Advanced practice registered nurse"
+    },
+    {
+      "definition": "(17) \"Licensed practical nurse\" means any person who is licensed to practice nursing as a licensed practical nurse by the board of nursing pursuant to Chapter 4723. of the Revised Code.",
+      "id": "2305.113-licensed-practical-nurse",
+      "normalized": "licensed practical nurse",
+      "scope": "(E) As used in this section:",
+      "section": "2305.113",
+      "source_title": "Section 2305.113 - Medical malpractice actions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2305.113",
+      "term": "Licensed practical nurse"
+    },
+    {
+      "definition": "(18) \"Physician assistant\" means any person who is licensed as a physician assistant under Chapter 4730. of the Revised Code.",
+      "id": "2305.113-physician-assistant",
+      "normalized": "physician assistant",
+      "scope": "(E) As used in this section:",
+      "section": "2305.113",
+      "source_title": "Section 2305.113 - Medical malpractice actions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2305.113",
+      "term": "Physician assistant"
+    },
+    {
+      "definition": "(19) \"Emergency medical technician-basic,\" \"emergency medical technician-intermediate,\" and \"emergency medical technician-paramedic\" means any person who is certified under Chapter 4765. of the Revised Code as an emergency medical technician-basic, emergency medical technician-intermediate, or emergency medical technician-paramedic, whichever is applicable.\n\n(20) \"Skilled nursing care\" and \"personal care services\" have the same meanings as in section 3721.01 of the Revised Code.\n\nLast updated September 19, 2023 at 12:24 PM",
+      "id": "2305.113-emergency-medical-technician-basic",
+      "normalized": "emergency medical technician-basic,",
+      "scope": "(E) As used in this section:",
+      "section": "2305.113",
+      "source_title": "Section 2305.113 - Medical malpractice actions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2305.113",
+      "term": "Emergency medical technician-basic,"
+    },
+    {
+      "definition": "(19) \"Emergency medical technician-basic,\" \"emergency medical technician-intermediate,\" and \"emergency medical technician-paramedic\" means any person who is certified under Chapter 4765. of the Revised Code as an emergency medical technician-basic, emergency medical technician-intermediate, or emergency medical technician-paramedic, whichever is applicable.\n\n(20) \"Skilled nursing care\" and \"personal care services\" have the same meanings as in section 3721.01 of the Revised Code.\n\nLast updated September 19, 2023 at 12:24 PM",
+      "id": "2305.113-emergency-medical-technician-intermediate",
+      "normalized": "emergency medical technician-intermediate,",
+      "scope": "(E) As used in this section:",
+      "section": "2305.113",
+      "source_title": "Section 2305.113 - Medical malpractice actions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2305.113",
+      "term": "emergency medical technician-intermediate,"
+    },
+    {
+      "definition": "(19) \"Emergency medical technician-basic,\" \"emergency medical technician-intermediate,\" and \"emergency medical technician-paramedic\" means any person who is certified under Chapter 4765. of the Revised Code as an emergency medical technician-basic, emergency medical technician-intermediate, or emergency medical technician-paramedic, whichever is applicable.\n\n(20) \"Skilled nursing care\" and \"personal care services\" have the same meanings as in section 3721.01 of the Revised Code.\n\nLast updated September 19, 2023 at 12:24 PM",
+      "id": "2305.113-emergency-medical-technician-paramedic",
+      "normalized": "emergency medical technician-paramedic",
+      "scope": "(E) As used in this section:",
+      "section": "2305.113",
+      "source_title": "Section 2305.113 - Medical malpractice actions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2305.113",
+      "term": "emergency medical technician-paramedic"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2305.16",
+      "number": "2305.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.16"
+    },
+    {
+      "kind": "section",
+      "label": "3721.17",
+      "number": "3721.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.17"
+    },
+    {
+      "kind": "section",
+      "label": "3721.10",
+      "number": "3721.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.10"
+    },
+    {
+      "kind": "section",
+      "label": "5123.19",
+      "number": "5123.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5123.19"
+    },
+    {
+      "kind": "section",
+      "label": "4723.01",
+      "number": "4723.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.01"
+    },
+    {
+      "kind": "section",
+      "label": "3721.01",
+      "number": "3721.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.01"
+    }
+  ],
+  "scraped": "2026-07-02T19:43:12+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2305.113",
+  "title": "Section 2305.113 - Medical malpractice actions."
+}

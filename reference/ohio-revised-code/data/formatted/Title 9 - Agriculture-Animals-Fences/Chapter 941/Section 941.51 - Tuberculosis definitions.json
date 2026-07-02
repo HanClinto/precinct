@@ -1,0 +1,62 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Negative\" means an animal determined by a tuberculosis test not to be infected with tuberculosis.",
+      "id": "941.51-negative",
+      "normalized": "negative",
+      "scope": "As used in sections 941.51 to 941.56 of the Revised Code:",
+      "section": "941.51",
+      "source_title": "Section 941.51 - Tuberculosis definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-941.51",
+      "term": "Negative"
+    },
+    {
+      "definition": "(B) \"Reactor\" means any animal that shows a response to an approved tuberculin test and is classified a reactor by the testing veterinarian.",
+      "id": "941.51-reactor",
+      "normalized": "reactor",
+      "scope": "As used in sections 941.51 to 941.56 of the Revised Code:",
+      "section": "941.51",
+      "source_title": "Section 941.51 - Tuberculosis definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-941.51",
+      "term": "Reactor"
+    },
+    {
+      "definition": "(C) \"Suspect\" means an animal that cannot be classed as a reactor or negative after a tuberculosis test.",
+      "id": "941.51-suspect",
+      "normalized": "suspect",
+      "scope": "As used in sections 941.51 to 941.56 of the Revised Code:",
+      "section": "941.51",
+      "source_title": "Section 941.51 - Tuberculosis definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-941.51",
+      "term": "Suspect"
+    },
+    {
+      "definition": "(D) \"Tuberculosis\" means a dangerously contagious or infectious disease of any species caused by mycobacterium bovis.",
+      "id": "941.51-tuberculosis",
+      "normalized": "tuberculosis",
+      "scope": "As used in sections 941.51 to 941.56 of the Revised Code:",
+      "section": "941.51",
+      "source_title": "Section 941.51 - Tuberculosis definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-941.51",
+      "term": "Tuberculosis"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "941.51",
+      "number": "941.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-941.51"
+    },
+    {
+      "kind": "section",
+      "label": "941.56",
+      "number": "941.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-941.56"
+    }
+  ],
+  "scraped": "2026-07-02T19:35:28+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-941.51",
+  "title": "Section 941.51 - Tuberculosis definitions."
+}

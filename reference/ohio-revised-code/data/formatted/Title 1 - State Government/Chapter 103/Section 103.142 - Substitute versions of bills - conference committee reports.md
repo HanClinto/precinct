@@ -1,0 +1,30 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-103.142
+Scraped: 2026-07-02T19:31:21+00:00
+
+# Section 103.142 - Substitute versions of bills - conference committee reports.
+
+**Effective:** February 9, 1994
+
+**Latest Legislation:** House Bill 111 - 120th General Assembly
+
+(A) As used in this section, "committee" means any standing or select committee of the general assembly or of either house of the general assembly.
+
+(B) Within five days after the effective date of this section, the legislative service commission shall meet to determine whether divisions (C) and (D) of this section should be implemented. If the commission determines that divisions (C) and (D) of this section should be implemented, the commission immediately shall adopt a resolution expressing its determination, and, after the adoption of the resolution, the legislative service commission and the legislative budget office of the legislative service commission shall perform the duties described in those divisions. If the commission determines that divisions (C) and (D) of this section should not be implemented, the commission immediately shall adopt a resolution expressing its determination, and the legislative service commission and the legislative budget office of the legislative service commission shall not perform the duties described in those divisions. If the commission adopts a resolution that implements divisions (C) and (D) of this section and the commission subsequently determines that the implementation of those divisions should be terminated, the commission, at a meeting, may adopt a resolution that supersedes the prior resolution. Upon the adoption of the superseding resolution, the legislative service commission and the legislative budget office of the legislative service commission shall not perform the duties specified in those divisions.
+
+(C) Upon the adoption by the legislative service commission of a resolution as described in division (B) of this section that implements this division and division (D) of this section, if any member of the general assembly presents a substitute version of any bill to a committee for its consideration or to a subcommittee of a committee for its consideration or if a subcommittee of a committee reports a substitute version of a bill back to the committee served by the subcommittee, all of the following apply:
+
+(1) The legislative service commission shall prepare and make available to each member of the committee or subcommittee to which the substitute version of the bill is presented or of the committee to which the substitute version of the bill is reported a document that describes each substantive difference between the substitute version of the bill and the version of the bill that was under consideration by the committee or subcommittee immediately preceding the presentation by the member of the substitute bill or that was assigned to the subcommittee that reported the substitute version of the bill back to the committee.
+
+(2) The legislative budget office of the legislative service commission shall prepare and make available to each member of the committee or subcommittee described in division (B)(1) of this section a document that describes the differences in fiscal impact between the substitute version of the bill and the version of the bill that was under consideration by the committee or subcommittee immediately preceding the presentation by the member of the substitute bill or that was assigned to the subcommittee that reported the substitute version of the bill back to the committee.
+
+(3) The legislative service commission shall retain copies of each document it prepares under division (C)(1) of this section and the legislative budget office of the legislative service commission shall retain copies of each document it prepares under division (C)(2) of this section. Each document prepared under either of those divisions is a public record open for inspection under section 149.43 of the Revised Code.
+
+(D) Upon the adoption by the legislative service commission of a resolution as described in division (B) of this section that implements this division and division (C) of this section, if any conference committee appointed by the general assembly to resolve the differences between the houses of the general assembly regarding a bill submits a report back to the general assembly, all of the following apply:
+
+(1) The legislative service commission shall prepare and make available to each member of the general assembly a document that describes each substantive provision included in the report of the conference committee.
+
+(2) The legislative budget office of the legislative service commission shall prepare and make available to each member of the general assembly a document that describes the fiscal impact of the report of the conference committee.
+
+(3) The legislative service commission shall retain copies of each document it prepares under division (D)(1) of this section and the legislative budget office of the legislative service commission shall retain copies of each document it prepares under division (D)(2) of this section. Each document prepared under either of those divisions is a public record open for inspection under section 149.43 of the Revised Code.
+
+(E) The duties imposed by divisions (C) and (D) of this section upon the legislative service commission and the legislative budget office of the legislative service commission are in addition to any other duties imposed upon the commission or office by this chapter, by any other provision of law, or by any resolution, policy, or directive adopted by the commission.

@@ -1,0 +1,16 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-2939.26
+Scraped: 2026-07-02T19:46:46+00:00
+
+# Section 2939.26 - Compelling witnesses to attend by foreign courts.
+
+**Effective:** October 1, 1953
+
+**Latest Legislation:** House Bill 1 - 100th General Assembly
+
+If a judge of a court of record in any state which by its laws has made provision for commanding persons within that state to attend and testify in this state, certifies under the seal of such court that there is a criminal prosecution pending in such court, or that a grand jury investigation has commenced or is about to commence, that a person being within this state is a material witness in such prosecution or grand jury investigation, and that his presence will be required for a specified number of days, upon presentation of such certificate to any judge of a court of record in the county in this state in which such person is, such judge shall fix a time and place for a hearing and shall make an order directing the witness to appear at a time and place certain for the hearing.
+
+If at a hearing such judge determines that the witness is material and necessary, that it will not cause undue hardship to the witness to be compelled to attend and testify in the prosecution or grand jury investigation in the other state, and that the laws of the state in which the prosecution is pending, or grand jury investigation has commenced or is about to commence, and of any other state through which the witness may be required to pass by ordinary course of travel, will give to him protection from arrest and the service of civil and criminal process, he shall issue a summons, with a copy of the certificate attached, directing the witness to attend and testify in the court where the prosecution is pending, or where a grand jury investigation has commenced or is about to commence, at a time and place specified in the summons. In any such hearing the certificate is prima-facie evidence of all the facts stated therein.
+
+If said certificate recommends that the witness be taken into immediate custody and delivered to an officer of the requesting state to assure his attendance in the requesting state, such judge may, in lieu of notification of the hearing, direct that such witness be forthwith brought before him for said hearing. If the judge at the hearing is satisfied of the desirability of such custody and delivery, for which determination the certificate is prima-facie proof of such desirability, he may, in lieu of issuing subpoena or summons, order that said witness be forthwith taken into custody and delivered to an officer of the requesting state.
+
+If the witness, who is summoned as provided in this section, after being paid or tendered by some properly authorized person the sum of ten cents a mile for each mile by the ordinary traveled route to and from the court where the prosecution is pending and five dollars for each day, that he is required to travel and attend as a witness, fails without good cause to attend and testify as directed in the summons, he shall be punished in the manner provided for the punishment of any witness who disobeys a summons issued from a court of record in this state.

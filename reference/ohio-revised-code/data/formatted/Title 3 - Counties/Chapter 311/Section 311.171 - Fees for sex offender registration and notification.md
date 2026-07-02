@@ -1,0 +1,50 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-311.171
+Scraped: 2026-07-02T19:32:43+00:00
+
+# Section 311.171 - Fees for sex offender registration and notification.
+
+**Effective:** January 1, 2008
+
+**Latest Legislation:** Senate Bill 10 - 127th General Assembly
+
+(A) As used in this section:
+
+(1) "Federal poverty level" means the income level represented by the poverty guidelines as revised annually by the United States department of health and human services in accordance with section 673(2) of the "Omnibus Reconciliation Act of 1981," 95 Stat. 511, 42 U.S.C.A. 9902, as amended, for a family size equal to the size of the family of the person whose income is being determined.
+
+(2) "Registration year" of an offender means one of the following:
+
+(a) The twelve-month period beginning on the anniversary, occurring on or after January 1, 2004, of the date on which an offender's registration period began in accordance with section 2950.07 of the Revised Code;
+
+(b) The twelve-month period beginning on the date on which an offender's registration period begins, on or after January 1, 2004, in accordance with section 2950.07 of the Revised Code.
+
+(3) "Sexually oriented offense," "child-victim oriented offense," and "tier III sex offender/child-victim offender" have the same meanings as in section 2950.01 of the Revised Code.
+
+(B) The sheriff may charge a fee each time a person does any of the following:
+
+(1) Registers under section 2950.04 or 2950.041 of the Revised Code;
+
+(2) Registers a new residence address under section 2950.05 of the Revised Code;
+
+(3) Verifies a current residence address under section 2950.06 of the Revised Code.
+
+(C) If the sheriff charges one or more fees provided for in division (B) of this section, all of the following apply:
+
+(1) The sheriff shall not require the payment of any fee from a delinquent child until the delinquent child reaches eighteen years of age. When a delinquent child reaches eighteen years of age and the sheriff charges a fee to the delinquent child, the provisions of this section applicable to "offenders" shall be construed to apply to the delinquent child.
+
+(2) For an offender who is a tier III sex offender/child-victim offender, the fees may not exceed a total of one hundred dollars for each registration year.
+
+(3) For an offender who has been convicted of or pleaded guilty to a sexually oriented offense or a child-victim offense and who is not described in division (C)(2) of this section, the fees may not exceed a total of twenty-five dollars for each registration year.
+
+(4) An offender who is required to pay a fee shall retain the receipts received under section 325.28 of the Revised Code for payments made during the offender's registration year to establish that the payment of any fee will exceed the maximum annual amount permissible under this division.
+
+(5) The sheriff shall not refuse to register a person, register a new residence address of a person, or verify the current residence address of a person, who does not pay a fee the sheriff requires under this section.
+
+(6) The sheriff shall report unpaid fees in accordance with division (C) of section 325.31 of the Revised Code, and the county may recover those fees in a civil action in the same manner as other money due the county.
+
+(D) Each time a person appears before the sheriff to provide any registration or verification specified in division (B) of this section for which the sheriff charges a fee, the sheriff shall determine whether the person is able to pay the fee. In making that determination, the sheriff shall determine whether the person's income is less than one hundred twenty-five per cent of the federal poverty level. A person whose income is equal to or greater than one hundred twenty-five per cent of the federal poverty level shall be considered able to pay the fee.
+
+(E) If a sheriff determines a person's income is less than one hundred twenty-five per cent of the federal poverty level, the sheriff shall waive payment of the fee. If the sheriff determines a person's income is equal to or greater than one hundred twenty-five per cent of the federal poverty level, the sheriff may allow the person to pay the fee in accordance with a payment schedule the sheriff establishes based on the person's ability to pay. The sheriff shall document any waiver or alternative fee arrangement in the official registration records of the sheriff's office and shall provide the offender with a written copy of any waiver or alternative fee arrangement.
+
+(F) All fees paid to a sheriff under this section shall be paid into the county treasury to the credit of the county general fund and shall be allocated to the sheriff to be used to defray the costs of registering sex offenders and child-victim offenders and providing community notification under Chapter 2950. of the Revised Code.
+
+(G) If an offender has registered with a sheriff and subsequently relocates to a different county during a registration year, the annual maximum amounts set forth in division (C) of this section shall apply to the sheriff in the new county, and that sheriff shall consider any payments already made by the offender for purposes of determining when the applicable maximum has been met for the offender's registration year.

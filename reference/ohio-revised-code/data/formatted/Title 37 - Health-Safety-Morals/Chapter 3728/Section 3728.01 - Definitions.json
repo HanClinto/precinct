@@ -1,0 +1,108 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Administer epinephrine\" means to inject an individual with epinephrine using an autoinjector in a manufactured dosage form.",
+      "id": "3728.01-administer-epinephrine",
+      "normalized": "administer epinephrine",
+      "scope": "As used in this chapter:",
+      "section": "3728.01",
+      "source_title": "Section 3728.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3728.01",
+      "term": "Administer epinephrine"
+    },
+    {
+      "definition": "(B) \"Peace officer\" has the same meaning as in section 109.71 of the Revised Code and also includes a sheriff.",
+      "id": "3728.01-peace-officer",
+      "normalized": "peace officer",
+      "scope": "As used in this chapter:",
+      "section": "3728.01",
+      "source_title": "Section 3728.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3728.01",
+      "term": "Peace officer"
+    },
+    {
+      "definition": "(C) \"Prescriber\" means an individual who is authorized by law to prescribe drugs or dangerous drugs or drug therapy related devices in the course of the individual's professional practice, including only the following:\n\n(1) A clinical nurse specialist, certified nurse-midwife, or certified nurse practitioner who holds a certificate to prescribe issued under section 4723.48 of the Revised Code;\n\n(2) A physician authorized under Chapter 4731. of the Revised Code to practice medicine and surgery, osteopathic medicine and surgery, or podiatric medicine and surgery;\n\n(3) A physician assistant who is licensed under Chapter 4730. of the Revised Code, holds a valid prescriber number issued by the state medical board, and has been granted physician-delegated prescriptive authority.",
+      "id": "3728.01-prescriber",
+      "normalized": "prescriber",
+      "scope": "As used in this chapter:",
+      "section": "3728.01",
+      "source_title": "Section 3728.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3728.01",
+      "term": "Prescriber"
+    },
+    {
+      "definition": "(D) \"Qualified entity\" means either of the following:",
+      "id": "3728.01-qualified-entity",
+      "normalized": "qualified entity",
+      "scope": "As used in this chapter:",
+      "section": "3728.01",
+      "source_title": "Section 3728.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3728.01",
+      "term": "Qualified entity"
+    },
+    {
+      "definition": "(1) Any public or private entity that is associated with a location where allergens capable of causing anaphylaxis may be present, including child care centers, colleges and universities, places of employment, restaurants, amusement parks, recreation camps, sports playing fields and arenas, and other similar locations, except that \"qualified entity\" does not include either of the following:\n\n(a) A chartered or nonchartered nonpublic school; community school; science, technology, engineering, and mathematics school; college-preparatory boarding school; or a school operated by the board of education of a city, local, exempted village, or joint vocational school district, as those entities are otherwise authorized to procure epinephrine autoinjectors pursuant to sections 3313.7110 , 3313.7111 , 3314.143 , 3326.28 , or 3328.29 of the Revised Code;\n\n(b) A camp described in section 5180.26 of the Revised Code that is authorized to procure epinephrine autoinjectors pursuant to that section;\n\n(2) Either of the following served by a peace officer: a law enforcement agency or other entity described in division (A) of section 109.71 of the Revised Code.\n\nLast updated June 5, 2026 at 12:33 PM",
+      "id": "3728.01-qualified-entity",
+      "normalized": "qualified entity",
+      "scope": "As used in this chapter:",
+      "section": "3728.01",
+      "source_title": "Section 3728.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3728.01",
+      "term": "qualified entity"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "109.71",
+      "number": "109.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.71"
+    },
+    {
+      "kind": "section",
+      "label": "4723.48",
+      "number": "4723.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.48"
+    },
+    {
+      "kind": "section",
+      "label": "3313.7110",
+      "number": "3313.7110",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.7110"
+    },
+    {
+      "kind": "section",
+      "label": "3313.7111",
+      "number": "3313.7111",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.7111"
+    },
+    {
+      "kind": "section",
+      "label": "3314.143",
+      "number": "3314.143",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3314.143"
+    },
+    {
+      "kind": "section",
+      "label": "3326.28",
+      "number": "3326.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3326.28"
+    },
+    {
+      "kind": "section",
+      "label": "3328.29",
+      "number": "3328.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3328.29"
+    },
+    {
+      "kind": "section",
+      "label": "5180.26",
+      "number": "5180.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5180.26"
+    }
+  ],
+  "scraped": "2026-07-02T19:51:52+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3728.01",
+  "title": "Section 3728.01 - Definitions."
+}

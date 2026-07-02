@@ -1,0 +1,531 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 6115.01 - Sanitary district definitions.",
+      "number": "6115.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.02 - Sanitary district tax books and records.",
+      "number": "6115.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.03 - Jurisdiction, evidence, forms establishing sanitary district.",
+      "number": "6115.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.04 - Establishment and purpose of sanitary districts.",
+      "number": "6115.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.05 - Petition for establishment of sanitary district.",
+      "number": "6115.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.06 - Bond for expenses to be filed with petition.",
+      "number": "6115.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.07 - Notice of petition and hearing - jurisdiction.",
+      "number": "6115.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.08 - Hearing - order establishing district.",
+      "number": "6115.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.09 - Filing and recording findings and decree of incorporation of district.",
+      "number": "6115.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.10 - Appointment of directors.",
+      "number": "6115.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.101 - Directors of sanitary district organized wholly for reduction of populations of biting arthropods.",
+      "number": "6115.101",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.101"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.102 - Sanitary district advisory council for sanitary district organized wholly for reduction of populations of biting arthropods.",
+      "number": "6115.102",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.102"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.103 - Directors of sanitary district organized wholly for purpose of providing water supply.",
+      "number": "6115.103",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.103"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.104 - Sanitary district advisory council for sanitary district organized wholly for purpose of providing water supply.",
+      "number": "6115.104",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.104"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.11 - Oath, bond of director.",
+      "number": "6115.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.12 - Seal - records - transcripts of meetings.",
+      "number": "6115.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.13 - President of board - temporary director - quorum.",
+      "number": "6115.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.14 - Secretary - executive director - chief engineer - treasurer - attorney - employees.",
+      "number": "6115.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.141 - Certificate of available funds.",
+      "number": "6115.141",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.141"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.15 - Plans for sewage or other liquid waste or treatment or disposal works submitted to board.",
+      "number": "6115.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.16 - Improvement plan approval and execution.",
+      "number": "6115.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.17 - Right of entry for surveys and examinations.",
+      "number": "6115.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.18 - Powers and duties of board of directors.",
+      "number": "6115.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.19 - Improvement plan for district organized to provide water supply.",
+      "number": "6115.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.191 - Assessing interest on unpaid balance of water supply payments.",
+      "number": "6115.191",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.191"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.20 - Contract bidding procedures.",
+      "number": "6115.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.201 - Sanitary district contract requirements.",
+      "number": "6115.201",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.201"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.21 - Dominant right of eminent domain.",
+      "number": "6115.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.22 - Condemnation of land or property.",
+      "number": "6115.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.221 - Appropriation of property for sewer construction to address public health nuisance.",
+      "number": "6115.221",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.221"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.23 - Regulations, approval and enforcement.",
+      "number": "6115.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.24 - Regulations for sanitary district organized wholly for reduction of populations of biting arthropods.",
+      "number": "6115.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.25 - Removal of physical obstructions in, over, or upon public streets, lanes, alleys, or highways.",
+      "number": "6115.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.26 - Surveys and examinations of rainfall, stream flow.",
+      "number": "6115.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.27 - Cooperation or assistance by U.S. government or other governmental entity.",
+      "number": "6115.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.28 - Taking or damage to cemetery.",
+      "number": "6115.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.29 - Board of appraisers of sanitary district.",
+      "number": "6115.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.30 - Appraisals of compensation and damages.",
+      "number": "6115.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.31 - Appraisals of compensation and damages beyond the boundaries of district.",
+      "number": "6115.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.32 - Notice of hearing of land to be included or excluded from district.",
+      "number": "6115.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.321 - Exclusion of territory from sanitary district established for the reduction of biting arthropods.",
+      "number": "6115.321",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.321"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.33 - Sanitary district appraisal record.",
+      "number": "6115.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.34 - Notice of hearing on appraisals.",
+      "number": "6115.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.35 - Filing exceptions to reports or appraisals.",
+      "number": "6115.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.36 - Court approval, confirmation or return of plan.",
+      "number": "6115.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.37 - Appeal of award as to compensation or damages.",
+      "number": "6115.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.38 - Possession of property after verdict and award.",
+      "number": "6115.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.39 - Certified copy of the decree.",
+      "number": "6115.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.40 - Alterations or additions to official plan.",
+      "number": "6115.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.41 - Appeal not to delay action or prosecution of work.",
+      "number": "6115.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.42 - Appraisal and assessment of lands losing tax exemption.",
+      "number": "6115.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.43 - Appraising lands not at first included within the boundaries of district.",
+      "number": "6115.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.44 - Immaterial irregularities or defects.",
+      "number": "6115.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.45 - Sanitary district funds.",
+      "number": "6115.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.46 - Preliminary costs and expenses to be repaid.",
+      "number": "6115.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.47 - Borrowing power of board of directors.",
+      "number": "6115.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.48 - Sanitary district assessment record.",
+      "number": "6115.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.49 - Assessment payments.",
+      "number": "6115.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.50 - Bonds in anticipation of the levy and collection of special assessments.",
+      "number": "6115.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.51 - Treasurer's duties - bonds - investments.",
+      "number": "6115.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.52 - Revenue obligations issued to pay costs arising from execution of official plan.",
+      "number": "6115.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.53 - Sanitary district maintenance assessment - sale of water.",
+      "number": "6115.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.54 - Readjustment of appraisal of benefits for more equitable basis for levy of maintenance assessment.",
+      "number": "6115.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.55 - Annual levy - certificate.",
+      "number": "6115.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.56 - Collection of assessments.",
+      "number": "6115.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.57 - Bond of county treasurer for probable amount of assessments.",
+      "number": "6115.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.58 - Sanitary district assessments and taxes constitute a lien.",
+      "number": "6115.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.59 - Suits for the collection of delinquent taxes or assessments.",
+      "number": "6115.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.60 - Procedures for levying, collection, and distribution of assessments.",
+      "number": "6115.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.61 - Appropriation of fund of water department for payment of assessments or water charges.",
+      "number": "6115.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.62 - Retirement of principal and interest on bonds.",
+      "number": "6115.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.63 - Failure to pay over assessments.",
+      "number": "6115.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.64 - Surplus funds - reports to court and advisory council.",
+      "number": "6115.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.65 - Compensation, expenses - salaries of extra clerical force.",
+      "number": "6115.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.66 - Land in more than one sanitary district.",
+      "number": "6115.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.67 - Conflicts in jurisdiction.",
+      "number": "6115.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.67"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.68 - Union of districts.",
+      "number": "6115.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.68"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.69 - Subdistricts established and organized.",
+      "number": "6115.69",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.69"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.70 - Remedies for injuries.",
+      "number": "6115.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.71 - Protection of district works.",
+      "number": "6115.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.72 - Removal of officers or employees.",
+      "number": "6115.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.73 - Enforcement by mandamus.",
+      "number": "6115.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.74 - Correction of defective notice.",
+      "number": "6115.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.74"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.75 - Question of the validity of the organization of sanitary districts.",
+      "number": "6115.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.77 - Liability for damages to district works.",
+      "number": "6115.77",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.77"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.79 - Substantial requirements for forms.",
+      "number": "6115.79",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.79"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6115.99 - Penalty.",
+      "number": "6115.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.99"
+    }
+  ],
+  "scraped": "2026-07-02T20:17:22+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-6115",
+  "title": "Chapter 6115 - Sanitary Districts"
+}

@@ -1,0 +1,273 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 5166.01 - Definitions.",
+      "number": "5166.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5166.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5166.02 - Rules governing medicaid waiver components.",
+      "number": "5166.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5166.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5166.03 - Notice of intent to request medicaid waiver.",
+      "number": "5166.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5166.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5166.04 - Home and community-based services medicaid waiver components.",
+      "number": "5166.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5166.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5166.041 - Provision of nursing services in a group visit under a home and community-based services medicaid waiver component.",
+      "number": "5166.041",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5166.041"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5166.05 - Review of plans of care and individual service plans.",
+      "number": "5166.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5166.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5166.06 - Agency records of costs of medicaid waiver components.",
+      "number": "5166.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5166.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5166.07 - Agency accountable for medicaid waiver components funds.",
+      "number": "5166.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5166.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5166.08 - Agency contracting for medicaid waiver components; assurance of compliance.",
+      "number": "5166.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5166.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5166.09 - Reservation of participant capacity for individuals related to active duty military who were receiving services in another state.",
+      "number": "5166.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5166.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5166.10 - Transfer of enrollee in one medicaid waiver component to another.",
+      "number": "5166.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5166.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5166.11 - Creation of medicaid waiver components for home and community-based services programs.",
+      "number": "5166.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5166.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5166.121 - Home first component for the Ohio home care waiver program.",
+      "number": "5166.121",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5166.121"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5166.16 - Integrated care delivery system medicaid waiver.",
+      "number": "5166.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5166.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5166.161 - Home and community-based services for Holocaust survivors.",
+      "number": "5166.161",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5166.161"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5166.20 - Additional Medicaid waiver components for home and community-based services.",
+      "number": "5166.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5166.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5166.21 - Transitions developmental disabilities waiver.",
+      "number": "5166.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5166.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5166.22 - Allocating enrollment numbers to county board of developmental disabilities.",
+      "number": "5166.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5166.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5166.23 - Rules regarding payments for home and community-based services provided under medicaid component.",
+      "number": "5166.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5166.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5166.30 - Coverage of home care attendant services.",
+      "number": "5166.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5166.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5166.301 - Home care attendant services providers.",
+      "number": "5166.301",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5166.301"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5166.302 - Continuing education requirements for home care attendants.",
+      "number": "5166.302",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5166.302"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5166.303 - Responsibilities of home care attendants.",
+      "number": "5166.303",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5166.303"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5166.304 - Nursing assistance by home care attendants.",
+      "number": "5166.304",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5166.304"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5166.305 - Nursing assistance by home care attendants; consent and authorization.",
+      "number": "5166.305",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5166.305"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5166.306 - Nursing assistance by home care attendants; written statement providing consent.",
+      "number": "5166.306",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5166.306"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5166.307 - Nursing assistance by home care attendants; written statement of authorization.",
+      "number": "5166.307",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5166.307"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5166.308 - Nursing assistance by home care attendants; unauthorized actions.",
+      "number": "5166.308",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5166.308"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5166.309 - Practice of nursing as registered nurse or licensed practical nurse not allowed by home care attendants.",
+      "number": "5166.309",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5166.309"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5166.3010 - Authorized representative.",
+      "number": "5166.3010",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5166.3010"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5166.32 - Medicaid waiver for individuals with cystic fibrosis.",
+      "number": "5166.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5166.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5166.37 - Medicaid waiver - additional eligibility requirements for members of expansion group.",
+      "number": "5166.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5166.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5166.40 - Definitions.",
+      "number": "5166.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5166.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5166.401 - Enrolllment for healthy Ohio program participants.",
+      "number": "5166.401",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5166.401"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5166.402 - Buckeye accounts for participants.",
+      "number": "5166.402",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5166.402"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5166.403 - Debit swipe cards.",
+      "number": "5166.403",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5166.403"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5166.404 - Points award system.",
+      "number": "5166.404",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5166.404"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5166.405 - Cessation of participation.",
+      "number": "5166.405",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5166.405"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5166.406 - Exhaustion of payout limits.",
+      "number": "5166.406",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5166.406"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5166.407 - Disqualification for medicaid; disposition of remainder in buckeye account.",
+      "number": "5166.407",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5166.407"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5166.408 - Referral to workforce development agency.",
+      "number": "5166.408",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5166.408"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5166.409 - Rules.",
+      "number": "5166.409",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5166.409"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5166.45 - Medicaid enrollment for chidren through age three.",
+      "number": "5166.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5166.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5166.50 - Reentry services waiver.",
+      "number": "5166.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5166.50"
+    }
+  ],
+  "scraped": "2026-07-02T20:11:30+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-5166",
+  "title": "Chapter 5166 - Federal Medicaid Waiver Programs"
+}

@@ -1,0 +1,10 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3781.13
+Scraped: 2026-07-02T20:01:40+00:00
+
+# Section 3781.13 - Petition for hearing on action of board.
+
+**Effective:** May 27, 2005
+
+**Latest Legislation:** House Bill 175 - 125th General Assembly
+
+Any person interested, either because of ownership or occupation of any property affected by any rule described in section 3781.12 of the Revised Code, or as the producer, manufacturer, seller, or distributor, of any building material, industrialized unit, plumbing, heating, or ventilating system or device, or any other device, product, assembly, or equipment, the use of which is not provided for by any rule, may petition for a hearing on the reasonableness and lawfulness of any action of the board of building standards, adopting, amending, or annulling or refusing to adopt, amend, or annul the rule, in the manner provided in sections 3781.06 to 3781.18 and section 3791.04 of the Revised Code. Any petition for hearing shall be by verified petition filed with the board and shall set out specifically and in full detail the action of the board upon which a hearing is desired, the reason why that action is unreasonable or unlawful, and every issue the board should consider on the hearing. The petition shall be filed within thirty days after the record of the action of the board is filed in the office of the secretary of state, in cases where the record is required to be filed with the secretary of state; otherwise the petition shall be filed within thirty days after the action is taken. Upon receipt of the petition, after a hearing held within thirty days after the receipt of the petition and after notice has been given to the petitioner, the board may determine that the action is unreasonable or unlawful and annul any rule, confirm its prior action, or re-enact or amend any rule in the manner provided in section 3781.12 of the Revised Code. If the board does not determine the matter within two weeks after the hearing, the action may, at the option of the petitioner, be deemed to have been confirmed.

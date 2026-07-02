@@ -1,0 +1,106 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Assurance organization\" means an independent and qualified entity approved by the administrator of workers' compensation to certify the qualifications of a professional employer organization or professional employer organization reporting entity.",
+      "id": "4125.01-assurance-organization",
+      "normalized": "assurance organization",
+      "scope": "As used in this chapter:",
+      "section": "4125.01",
+      "source_title": "Section 4125.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4125.01",
+      "term": "Assurance organization"
+    },
+    {
+      "definition": "(B) \"Client employer\" means a sole proprietor, partnership, association, limited liability company, or corporation that enters into a professional employer organization agreement and is assigned shared employees by the professional employer organization.",
+      "id": "4125.01-client-employer",
+      "normalized": "client employer",
+      "scope": "As used in this chapter:",
+      "section": "4125.01",
+      "source_title": "Section 4125.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4125.01",
+      "term": "Client employer"
+    },
+    {
+      "definition": "(C) \"Coemploy\" means the sharing of the responsibilities and liabilities of being an employer.",
+      "id": "4125.01-coemploy",
+      "normalized": "coemploy",
+      "scope": "As used in this chapter:",
+      "section": "4125.01",
+      "source_title": "Section 4125.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4125.01",
+      "term": "Coemploy"
+    },
+    {
+      "definition": "(D) \"Professional employer organization\" means a sole proprietor, partnership, association, limited liability company, or corporation that enters into an agreement with one or more client employers for the purpose of coemploying all or part of the client employer's workforce at the client employer's work site.",
+      "id": "4125.01-professional-employer-organization",
+      "normalized": "professional employer organization",
+      "scope": "As used in this chapter:",
+      "section": "4125.01",
+      "source_title": "Section 4125.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4125.01",
+      "term": "Professional employer organization"
+    },
+    {
+      "definition": "(E) \"Professional employer organization agreement\" means a written contract to coemploy employees between a professional employer organization and a client employer with a duration of not less than twelve months in accordance with the requirements of this chapter.",
+      "id": "4125.01-professional-employer-organization-agreement",
+      "normalized": "professional employer organization agreement",
+      "scope": "As used in this chapter:",
+      "section": "4125.01",
+      "source_title": "Section 4125.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4125.01",
+      "term": "Professional employer organization agreement"
+    },
+    {
+      "definition": "(F) \"Professional employer organization reporting entity\" means two or more professional employer organizations that are majorityowned or commonly controlled by the same entity, parent, or controlling person and that satisfy reporting entity control rules as defined by the financial accounting standards board and under generally accepted accounting principles.",
+      "id": "4125.01-professional-employer-organization-reporting-entity",
+      "normalized": "professional employer organization reporting entity",
+      "scope": "As used in this chapter:",
+      "section": "4125.01",
+      "source_title": "Section 4125.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4125.01",
+      "term": "Professional employer organization reporting entity"
+    },
+    {
+      "definition": "(G) \"Shared employee\" means an individual intended to be assigned to a client employer on a permanent basis, not as a temporary supplement to the client employer's workforce, who is coemployed by a professional employer organization and a client employer pursuant to a professional employer organization agreement.",
+      "id": "4125.01-shared-employee",
+      "normalized": "shared employee",
+      "scope": "As used in this chapter:",
+      "section": "4125.01",
+      "source_title": "Section 4125.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4125.01",
+      "term": "Shared employee"
+    },
+    {
+      "definition": "(H) \"Trade secret\" has the same meaning as in section 1333.61 of the Revised Code.",
+      "id": "4125.01-trade-secret",
+      "normalized": "trade secret",
+      "scope": "As used in this chapter:",
+      "section": "4125.01",
+      "source_title": "Section 4125.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4125.01",
+      "term": "Trade secret"
+    },
+    {
+      "definition": "(I) \"Working capital\" means the excess of current assets over current liabilities as determined by generally accepted accounting principles.\n\nLast updated January 27, 2023 at 3:23 PM",
+      "id": "4125.01-working-capital",
+      "normalized": "working capital",
+      "scope": "As used in this chapter:",
+      "section": "4125.01",
+      "source_title": "Section 4125.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4125.01",
+      "term": "Working capital"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "1333.61",
+      "number": "1333.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.61"
+    }
+  ],
+  "scraped": "2026-07-02T20:04:20+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4125.01",
+  "title": "Section 4125.01 - Definitions."
+}

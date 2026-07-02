@@ -1,0 +1,76 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Moving violation\" means any violation of any statute or ordinance, other than section 4513.263 of the Revised Code or an ordinance that is substantially equivalent to that section, that regulates the operation of vehicles, streetcars, or trackless trolleys on highways or streets or that regulates size or load limitations or fitness requirements of vehicles. \"Moving violation\" does not include the violation of any statute or ordinance that regulates pedestrians or the parking of vehicles.",
+      "id": "2949.093-moving-violation",
+      "normalized": "moving violation",
+      "scope": "(H) As used in this section:",
+      "section": "2949.093",
+      "source_title": "Section 2949.093 - Participation in criminal justice regional information system.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2949.093",
+      "term": "Moving violation"
+    },
+    {
+      "definition": "(2) \"Bail\" means cash, a check, a money order, a credit card, or any other form of money that is posted by or for an offender pursuant to section 2937.011 or sections 2937.22 to 2937.46 of the Revised Code or Traffic Rule 4 to prevent the offender from being placed or held in a detention facility, as defined in section 2921.01 of the Revised Code.",
+      "id": "2949.093-bail",
+      "normalized": "bail",
+      "scope": "(H) As used in this section:",
+      "section": "2949.093",
+      "source_title": "Section 2949.093 - Participation in criminal justice regional information system.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2949.093",
+      "term": "Bail"
+    },
+    {
+      "definition": "(3) \"Criminal justice regional information system\" means a governmental computer system that serves as a cooperative between political subdivisions in a particular region for the purpose of providing a consolidated computerized information system for criminal justice agencies in that region.\n\nLast updated July 18, 2023 at 12:36 PM",
+      "id": "2949.093-criminal-justice-regional-information-system",
+      "normalized": "criminal justice regional information system",
+      "scope": "(H) As used in this section:",
+      "section": "2949.093",
+      "source_title": "Section 2949.093 - Participation in criminal justice regional information system.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2949.093",
+      "term": "Criminal justice regional information system"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "305.28",
+      "number": "305.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-305.28"
+    },
+    {
+      "kind": "section",
+      "label": "2921.01",
+      "number": "2921.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2921.01"
+    },
+    {
+      "kind": "section",
+      "label": "4513.263",
+      "number": "4513.263",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.263"
+    },
+    {
+      "kind": "section",
+      "label": "2937.011",
+      "number": "2937.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2937.011"
+    },
+    {
+      "kind": "section",
+      "label": "2937.22",
+      "number": "2937.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2937.22"
+    },
+    {
+      "kind": "section",
+      "label": "2937.46",
+      "number": "2937.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2937.46"
+    }
+  ],
+  "scraped": "2026-07-02T19:46:59+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2949.093",
+  "title": "Section 2949.093 - Participation in criminal justice regional information system."
+}

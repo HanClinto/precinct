@@ -1,0 +1,14 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3333.17
+Scraped: 2026-07-02T19:49:28+00:00
+
+# Section 3333.17 - Reciprocal contracts with institutions in neighboring states for tuition and fees.
+
+**Effective:** September 29, 2015
+
+**Latest Legislation:** House Bill 64 - 131st General Assembly
+
+The chancellor of higher education may enter into contracts with the appropriate agency in a contiguous state whereby the agency provides for charging Ohio residents enrolled in state-assisted post-secondary educational institutions in the contiguous state, tuition and fees at rates no higher than the rates charged to students who are residents of that state, and whereby the chancellor, as part of such contracts, may provide that rates for tuition and fees charged to residents of the contiguous state who are enrolled in state-assisted post-secondary educational institutions in Ohio shall not exceed those charged Ohio residents.
+
+State-assisted post-secondary educational institutions in Ohio may enter into contracts with appropriate state-assisted post-secondary educational institutions in a contiguous state whereby the state-assisted post-secondary educational institution provides for charging Ohio residents enrolled in the institution in the contiguous state, tuition and fees at rates no higher than the rates charged to students who are residents of that state, and whereby the Ohio state-assisted post-secondary institution, as part of such contracts, may provide that rates for tuition and fees charged to residents of the contiguous state who are enrolled in the state-assisted post-secondary educational institutions in Ohio shall not exceed those charged Ohio residents.
+
+The contracts entered into by the chancellor or a state-assisted post-secondary educational institution may limit the type of academic program offered at the reciprocal rates. Residents of contiguous states enrolled in for credit courses taught at the main campus and identified off-campus sites at state-assisted post-secondary educational institutions in Ohio under such contracts shall be included in calculating the number of full-time equivalent students for state subsidy purposes. The chancellor and each state-assisted post-secondary educational institution shall periodically assess the costs and benefits of each such contract and the extent to which parity is achieved between Ohio and the contiguous state with respect to students benefiting from the contract. All Ohio state-assisted post-secondary educational institutions participating in these contracts shall report enrollments and other information annually to the chancellor. No contract shall be entered into under this section without the approval of the chancellor. The chancellor shall report the status of these contracts to the controlling board annually.

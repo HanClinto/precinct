@@ -1,0 +1,18 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3355.12
+Scraped: 2026-07-02T19:50:07+00:00
+
+# Section 3355.12 - Contracts requiring bidding - biennial adjustment.
+
+**Effective:** September 23, 2008
+
+**Latest Legislation:** House Bill 562 - 127th General Assembly
+
+(A) When the managing authority of the university branch district has determined to let by contract the work of improvements, contracts in amounts exceeding a dollar amount set by the managing authority, which dollar amount shall not exceed fifty thousand dollars, shall be advertised after notices calling for bids have been published once a week for three consecutive weeks, in at least one newspaper of general circulation within the university branch district wherein the work is to be done. Such managing authority may let such contract to the lowest responsive and responsible bidder, in accordance with section 9.312 of the Revised Code, who meets the requirements of section 153.54 of the Revised Code. Such contract shall be in writing and shall be accompanied by or shall refer to plans and specifications for the work to be done. Such contract shall be approved by the managing authority of the university branch district and signed by the chairperson or vice-chairperson of the managing authority and by the contractor.
+
+(B) On the first day of January of every even-numbered year, the chancellor of the board of regents shall adjust the fifty thousand dollar contract limit set forth in division (A) of this section, as adjusted in any previous year pursuant to this division. The chancellor shall adjust the limit according to the average increase or decrease for each of the two years immediately preceding the adjustment as set forth in the United States department of commerce, bureau of economic analysis implicit price deflator for gross domestic product, nonresidential structures, or an alternative if the federal government ceases to publish this metric, provided that no increase or decrease for any year shall exceed three per cent of the contract limit in existence at the time of the adjustment. Notwithstanding division (A) of this section, the limit adjusted under this division shall be used thereafter in lieu of the limit in division (A) of this section.
+
+(C) Before entering into an improvement pursuant to division (A) of this section, the managing authority of the university branch district shall require separate and distinct proposals to be made for furnishing materials or doing work on the improvement, or both, in the board's discretion, for each separate and distinct branch or class of work entering into the improvement. The managing authority also may require a single, combined proposal for the entire project for materials or doing work, or both, in the board's discretion, that includes each separate and distinct branch or class of work entering into the improvement. The managing authority need not solicit separate proposals for a branch or class of work for an improvement if the estimate cost for that branch or class of work is less than five thousand dollars.
+
+(D) When more than one branch or class of work is required, no contract for the entire job, or for a greater portion thereof than is embraced in one such branch or class of work shall be awarded, unless the separate bids do not cover all the work and materials required or the bids for the whole or for two or more kinds of work or materials are lower than the separate bids in the aggregate. The managing authority need not award separate contracts for a branch or class of work entering into an improvement if the estimated cost for that branch or class of work is less than five thousand dollars.
+
+Last updated October 21, 2025 at 2:43 PM

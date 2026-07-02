@@ -1,0 +1,795 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 3734.01 - Solid and hazardous waste definitions.",
+      "number": "3734.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.02 - Rules for inspection and licensing of solid waste facilities.",
+      "number": "3734.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.021 - Standards for generators and transporters of infectious wastes and owners and operators of treatment facilities.",
+      "number": "3734.021",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.021"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.023 - Off-site infectious waste treatment facility definitions.",
+      "number": "3734.023",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.023"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.024 - Funding for municipal corporation or township for conducting environmental monitoring programs in connection with off-site infectious waste treatment facilities.",
+      "number": "3734.024",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.024"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.025 - Return and remittance of fees by owner or operator.",
+      "number": "3734.025",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.025"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.026 - Procedures for remitting fees.",
+      "number": "3734.026",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.026"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.027 - Low-level radioactive waste - prohibited activities.",
+      "number": "3734.027",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.027"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.028 - Standards of quality for compost products.",
+      "number": "3734.028",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.028"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.029 - Application to compost products produced by facility composting dead animals.",
+      "number": "3734.029",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.029"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.03 - Open burning or open dumping.",
+      "number": "3734.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.04 - Inspection - enforcement.",
+      "number": "3734.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.041 - Explosive gas monitoring plan for landfill.",
+      "number": "3734.041",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.041"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.042 - Complaint of presence of vectors at scrap tire collection, storage, monocell, monofill, or recovery facility.",
+      "number": "3734.042",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.042"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.05 - Licensing requirements.",
+      "number": "3734.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.058 - Limiting regulations by local authorities.",
+      "number": "3734.058",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.058"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.06 - Annual fee for solid waste facility license - special fund - special infectious waste fund.",
+      "number": "3734.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.061 - Waste management fund.",
+      "number": "3734.061",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.061"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.07 - Facilities to be inspected - certification - right of entry.",
+      "number": "3734.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.08 - Annual survey.",
+      "number": "3734.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.09 - Suspension, revocation, denial of license.",
+      "number": "3734.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.10 - Injunction.",
+      "number": "3734.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.101 - Civil action.",
+      "number": "3734.101",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.101"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.11 - Prohibited acts.",
+      "number": "3734.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.12 - Director of environmental protection - powers and duties.",
+      "number": "3734.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.121 - List of hazardous wastes generated within state.",
+      "number": "3734.121",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.121"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.122 - Storage and disposal of polychlorinated biphenyls, substances, equipment, and devices containing or contaminated with polychlorinated biphenyls.",
+      "number": "3734.122",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.122"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.123 - Assessment of commercial hazardous waste incinerator capacity in state.",
+      "number": "3734.123",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.123"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.124 - Restrictions on incinerators.",
+      "number": "3734.124",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.124"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.125 - Rules governing beneficial use of material from a horizontal well.",
+      "number": "3734.125",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.125"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.13 - Enforcement and emergency orders.",
+      "number": "3734.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.14 - Exchange, use, and recovery of resources from hazardous waste.",
+      "number": "3734.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.141 - Disposing of acute hazardous waste.",
+      "number": "3734.141",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.141"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.15 - Registration and liability of transporters and acceptors of hazardous waste.",
+      "number": "3734.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.16 - Generator's liability for intentional violation.",
+      "number": "3734.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.17 - Prohibiting accepting waste after violation by generator.",
+      "number": "3734.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.18 - Fees - hazardous waste facility management fund.",
+      "number": "3734.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.19 - Request to survey the locations or facilities.",
+      "number": "3734.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.20 - Investigations.",
+      "number": "3734.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.21 - Paying costs of closing, constructing or restoring facilities.",
+      "number": "3734.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.22 - Agreement with owner prior to cleanup.",
+      "number": "3734.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.23 - Acquiring facility constituting imminent and substantial threat - restoration contracts.",
+      "number": "3734.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.24 - Transferring or selling cleaned up facility.",
+      "number": "3734.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.25 - Paying portion of costs of closing facility or abating pollution.",
+      "number": "3734.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.26 - Grants to and contracts with owner of facility.",
+      "number": "3734.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.27 - Application and survey to precede grant.",
+      "number": "3734.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.28 - Hazardous waste clean-up fund.",
+      "number": "3734.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.281 - Environmental protection remediation fund.",
+      "number": "3734.281",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.281"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.282 - Natural resource damages fund.",
+      "number": "3734.282",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.282"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.29 - Claim for personal injuries or real property damage resulting from violation.",
+      "number": "3734.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.30 - State's liability for injury or damage.",
+      "number": "3734.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.31 - Inspecting and monitoring facilities.",
+      "number": "3734.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.35 - Affected community may request compensation agreement.",
+      "number": "3734.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.40 - Policy as to off-site treatment, storage and disposal of wastes.",
+      "number": "3734.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.41 - Qualifications of licensees and related persons definitions.",
+      "number": "3734.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.42 - Disclosure statement.",
+      "number": "3734.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.43 - Investigative demand by attorney general.",
+      "number": "3734.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.44 - Issuance or renewal of permit or license.",
+      "number": "3734.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.45 - Causes for revocation.",
+      "number": "3734.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.46 - Effect of disqualification.",
+      "number": "3734.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.47 - Investigations and review of applications for permits and licenses.",
+      "number": "3734.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.48 - Coal combustion residuals.",
+      "number": "3734.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.49 - Materials management advisory council.",
+      "number": "3734.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.50 - State solid waste management plan.",
+      "number": "3734.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.501 - Annual review of solid waste management in state.",
+      "number": "3734.501",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.501"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.52 - Establishing county or joint solid waste management districts.",
+      "number": "3734.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.521 - Change in district composition.",
+      "number": "3734.521",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.521"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.522 - Withdrawal from a joint solid waste management district.",
+      "number": "3734.522",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.522"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.53 - Contents of county or joint solid waste management district plan.",
+      "number": "3734.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.531 - Effect of failure of district to add members to policy committee or board of trustees.",
+      "number": "3734.531",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.531"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.54 - Preparing and submitting solid waste management plan.",
+      "number": "3734.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.55 - Preliminary review of draft plan.",
+      "number": "3734.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.551 - Reimbursement of director for expenses of preparing and ordering implementation of plan or amended plan.",
+      "number": "3734.551",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.551"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.56 - Submission of amended plan and certification.",
+      "number": "3734.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.57 - Fees for waste disposal.",
+      "number": "3734.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.571 - Disposal fees where district has no facilities.",
+      "number": "3734.571",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.571"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.572 - Disposal fee to defray costs of initial plan of district without disposal facility.",
+      "number": "3734.572",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.572"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.573 - Fee for generation of solid wastes within district.",
+      "number": "3734.573",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.573"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.574 - Generation and disposal fees.",
+      "number": "3734.574",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.574"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.575 - Report of fees and accounts.",
+      "number": "3734.575",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.575"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.576 - Exemption of automotive shredder residue from generation fee.",
+      "number": "3734.576",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.576"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.577 - Exemption from fees prohibited.",
+      "number": "3734.577",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.577"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.578 - Fees inapplicable to solid waste used as alternative daily cover.",
+      "number": "3734.578",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.578"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.579 - National priority list remedial support fund.",
+      "number": "3734.579",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.579"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.60 - Plastic containers labeled with code for basic material used in bottle or container.",
+      "number": "3734.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.61 - Mercury devices definitions.",
+      "number": "3734.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.62 - Purchase of mercury-added measuring device for classroom use.",
+      "number": "3734.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.63 - Sale of mercury-containing thermometer for promotional purposes.",
+      "number": "3734.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.64 - Sale of mercury-added novelty for promotional purposes.",
+      "number": "3734.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.65 - Sale or installation of mercury-containing thermostat.",
+      "number": "3734.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.70 - Scrap tire collection facilities rules.",
+      "number": "3734.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.71 - Scrap tire storage facilities rules.",
+      "number": "3734.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.72 - Scrap tire monocell and monofill facilities rules.",
+      "number": "3734.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.73 - Scrap tire recovery facilities rules.",
+      "number": "3734.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.74 - Scrap tire transportation rules.",
+      "number": "3734.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.74"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.75 - Submitting to written notice - collection facility.",
+      "number": "3734.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.76 - Submitting to written notice - storage facility.",
+      "number": "3734.76",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.76"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.77 - Notice of operation by owner or operator of a scrap tire monocell or monofill facility.",
+      "number": "3734.77",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.77"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.78 - Submitting to written notice - restoration facility.",
+      "number": "3734.78",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.78"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.79 - Permit application fees.",
+      "number": "3734.79",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.79"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.80 - Municipal corporation, county, or township regulations.",
+      "number": "3734.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.80"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.81 - Obtaining license from board of health or director of environmental protection agency.",
+      "number": "3734.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.82 - Annual fee for scrap tire recovery facility license - scrap tire management fund.",
+      "number": "3734.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.82"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.822 - Scrap tire grant fund.",
+      "number": "3734.822",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.822"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.83 - Registration of transporters.",
+      "number": "3734.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.83"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.84 - Notification requirements for persons who beneficially use scrap tires.",
+      "number": "3734.84",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.84"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.85 - Enforcement and removal.",
+      "number": "3734.85",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.85"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.86 - Disposal of off-road construction and mining equipment tires.",
+      "number": "3734.86",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.86"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.87 - Report and recommendations of director of environmental protection.",
+      "number": "3734.87",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.87"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.90 - Tire sales fee definitions.",
+      "number": "3734.90",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.90"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.901 - Tire fee administrative fund.",
+      "number": "3734.901",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.901"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.902 - Tax commissioner administration and enforcement.",
+      "number": "3734.902",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.902"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.903 - Liability of wholesale distributor and retail dealer.",
+      "number": "3734.903",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.903"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.904 - Filing returns.",
+      "number": "3734.904",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.904"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.905 - Refund of fee.",
+      "number": "3734.905",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.905"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.906 - Records.",
+      "number": "3734.906",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.906"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.907 - Personal liability.",
+      "number": "3734.907",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.907"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.908 - Dissolution, termination, or bankruptcy does not discharge personal liability.",
+      "number": "3734.908",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.908"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.909 - Limitation on assessment.",
+      "number": "3734.909",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.909"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.9010 - Tire fee administrative fund.",
+      "number": "3734.9010",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.9010"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.9011 - Registration of wholesale distributors, retail dealers.",
+      "number": "3734.9011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.9011"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.9012 - Wholesale distributor to provide statement to customers.",
+      "number": "3734.9012",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.9012"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.9013 - Prohibited acts.",
+      "number": "3734.9013",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.9013"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.9014 - Maintaining list of registered distributors.",
+      "number": "3734.9014",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.9014"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.91 - Definitions - lead acid batteries.",
+      "number": "3734.91",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.91"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.911 - Prohibiting commingling of used lead-acid batteries.",
+      "number": "3734.911",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.911"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.912 - Duties of retailer.",
+      "number": "3734.912",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.912"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.913 - Duties of wholesaler.",
+      "number": "3734.913",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.913"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.914 - Required signage.",
+      "number": "3734.914",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.914"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.915 - No signage for lead-acid battery cases.",
+      "number": "3734.915",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.915"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3734.99 - Penalty.",
+      "number": "3734.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.99"
+    }
+  ],
+  "scraped": "2026-07-02T20:00:34+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-3734",
+  "title": "Chapter 3734 - Solid and Hazardous Wastes"
+}

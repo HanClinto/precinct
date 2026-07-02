@@ -1,0 +1,252 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Individual account\" means the account maintained for a member of the PERS combined plan in the defined contribution fund created in section 145.23 of the Revised Code, in which the member's contributions under section 145.85 of the Revised Code are deposited and credited.",
+      "id": "145.196-individual-account",
+      "normalized": "individual account",
+      "scope": "(A) As used in this section:",
+      "section": "145.196",
+      "source_title": "Section 145.196 - Consolidation of combined plan with defined benefit plan.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-145.196",
+      "term": "Individual account"
+    },
+    {
+      "definition": "(2) \"PERS combined plan\" means the hybrid plan established under section 145.81 of the Revised Code that includes a PERS defined benefit plan component and a PERS defined contribution plan component that includes definitely determinable benefits as described in section 145.82 of the Revised Code.\n\n(B) The public employees retirement system may, in accordance with rules it adopts under this section, consolidate the PERS combined plan with the PERS defined benefit plan for the purpose of administering the definitely determinable benefits under the PERS combined plan and the allowance payable under section 145.335 of the Revised Code.\n\n(C) If the system consolidates the PERS combined plan with the PERS defined benefit plan as permitted under division (B) of this section, all of the following apply:\n\n(1) The PERS combined plan ceases to be a separate legal entity, and all members participating in the PERS combined plan at the time of consolidation shall be members of the PERS defined benefit plan.\n\n(2) The system shall do all of the following regarding a member's individual account:\n\n(a) Maintain the individual account of each member who was participating in the PERS combined plan at the time of consolidation;\n\n(b) Deposit and credit the member's contributions under section 145.47 of the Revised Code into the member's individual account;\n\n(c) If the system maintains the member's individual account in the defined contribution fund for purposes of investing the account's funds, treat the individual account as deposited and credited to the PERS defined benefit plan for accounting purposes;\n\n(d) Administer the member's individual account in accordance with rules adopted by the public employees retirement board and in a manner consistent with the PERS defined contribution plan.\n\n(3) The system shall deposit and credit the employer contributions under section 145.48 of the Revised Code for a member participating in the PERS combined plan at the time of consolidation into the employers' accumulation fund created in section 145.23 of the Revised Code to pay the definitely determinable benefits under the plan.\n\n(4) All members participating in the PERS combined plan at the time of consolidation shall be entitled to the rights and benefits to which the member was entitled under the PERS combined plan as of the date of consolidation, subject to future amendments to the PERS defined benefit plan.\n\n(D) The eligibility of members participating in the PERS combined plan at the time of consolidation under this section for age and service retirement, disability, survivor, or death benefits shall be determined under sections 145.32 , 145.35 , 145.36 , 145.361 , 145.45 , and 145.451 of the Revised Code. A member's retirement allowance shall be an amount determined in accordance with section 145.335 of the Revised Code.\n\n(E) The following sections of Chapter 145. of the Revised Code do not apply to the individual account of a member participating in the PERS combined plan at the time of consolidation under this section: sections 145.222 , 145.297 , 145.298 , 145.2914 , 145.31 , 145.311 , 145.312 , 145.33 , 145.332 , 145.334 , 145.37 , 145.382 , 145.383 , 145.385 , 145.40 , 145.401 , 145.472 , 145.49 , 145.581 , 145.582 , 145.62 , 145.63 , 145.64 , and 145.65 of Revised Code.\n\nLast updated August 28, 2023 at 4:27 PM",
+      "id": "145.196-pers-combined-plan",
+      "normalized": "pers combined plan",
+      "scope": "(A) As used in this section:",
+      "section": "145.196",
+      "source_title": "Section 145.196 - Consolidation of combined plan with defined benefit plan.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-145.196",
+      "term": "PERS combined plan"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "145.23",
+      "number": "145.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.23"
+    },
+    {
+      "kind": "section",
+      "label": "145.85",
+      "number": "145.85",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.85"
+    },
+    {
+      "kind": "section",
+      "label": "145.81",
+      "number": "145.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.81"
+    },
+    {
+      "kind": "section",
+      "label": "145.82",
+      "number": "145.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.82"
+    },
+    {
+      "kind": "section",
+      "label": "145.335",
+      "number": "145.335",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.335"
+    },
+    {
+      "kind": "section",
+      "label": "145.47",
+      "number": "145.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.47"
+    },
+    {
+      "kind": "section",
+      "label": "145.48",
+      "number": "145.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.48"
+    },
+    {
+      "kind": "section",
+      "label": "145.32",
+      "number": "145.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.32"
+    },
+    {
+      "kind": "section",
+      "label": "145.35",
+      "number": "145.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.35"
+    },
+    {
+      "kind": "section",
+      "label": "145.36",
+      "number": "145.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.36"
+    },
+    {
+      "kind": "section",
+      "label": "145.361",
+      "number": "145.361",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.361"
+    },
+    {
+      "kind": "section",
+      "label": "145.45",
+      "number": "145.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.45"
+    },
+    {
+      "kind": "section",
+      "label": "145.451",
+      "number": "145.451",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.451"
+    },
+    {
+      "kind": "section",
+      "label": "145.222",
+      "number": "145.222",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.222"
+    },
+    {
+      "kind": "section",
+      "label": "145.297",
+      "number": "145.297",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.297"
+    },
+    {
+      "kind": "section",
+      "label": "145.298",
+      "number": "145.298",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.298"
+    },
+    {
+      "kind": "section",
+      "label": "145.2914",
+      "number": "145.2914",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.2914"
+    },
+    {
+      "kind": "section",
+      "label": "145.31",
+      "number": "145.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.31"
+    },
+    {
+      "kind": "section",
+      "label": "145.311",
+      "number": "145.311",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.311"
+    },
+    {
+      "kind": "section",
+      "label": "145.312",
+      "number": "145.312",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.312"
+    },
+    {
+      "kind": "section",
+      "label": "145.33",
+      "number": "145.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.33"
+    },
+    {
+      "kind": "section",
+      "label": "145.332",
+      "number": "145.332",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.332"
+    },
+    {
+      "kind": "section",
+      "label": "145.334",
+      "number": "145.334",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.334"
+    },
+    {
+      "kind": "section",
+      "label": "145.37",
+      "number": "145.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.37"
+    },
+    {
+      "kind": "section",
+      "label": "145.382",
+      "number": "145.382",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.382"
+    },
+    {
+      "kind": "section",
+      "label": "145.383",
+      "number": "145.383",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.383"
+    },
+    {
+      "kind": "section",
+      "label": "145.385",
+      "number": "145.385",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.385"
+    },
+    {
+      "kind": "section",
+      "label": "145.40",
+      "number": "145.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.40"
+    },
+    {
+      "kind": "section",
+      "label": "145.401",
+      "number": "145.401",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.401"
+    },
+    {
+      "kind": "section",
+      "label": "145.472",
+      "number": "145.472",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.472"
+    },
+    {
+      "kind": "section",
+      "label": "145.49",
+      "number": "145.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.49"
+    },
+    {
+      "kind": "section",
+      "label": "145.581",
+      "number": "145.581",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.581"
+    },
+    {
+      "kind": "section",
+      "label": "145.582",
+      "number": "145.582",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.582"
+    },
+    {
+      "kind": "section",
+      "label": "145.62",
+      "number": "145.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.62"
+    },
+    {
+      "kind": "section",
+      "label": "145.63",
+      "number": "145.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.63"
+    },
+    {
+      "kind": "section",
+      "label": "145.64",
+      "number": "145.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.64"
+    },
+    {
+      "kind": "section",
+      "label": "145.65",
+      "number": "145.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.65"
+    }
+  ],
+  "scraped": "2026-07-02T19:31:54+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-145.196",
+  "title": "Section 145.196 - Consolidation of combined plan with defined benefit plan."
+}

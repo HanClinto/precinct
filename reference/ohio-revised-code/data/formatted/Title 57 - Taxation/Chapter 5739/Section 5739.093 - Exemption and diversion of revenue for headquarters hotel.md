@@ -1,0 +1,88 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5739.093
+Scraped: 2026-07-02T20:15:14+00:00
+
+# Section 5739.093 - Exemption and diversion of revenue for headquarters hotel.
+
+**Effective:** October 3, 2023
+
+**Latest Legislation:** House Bill 33 - 135th General Assembly
+
+(A) As used in this section:
+
+(1) "Convention center" has the same meaning as in section 307.695 of the Revised Code.
+
+(2) "Convention center headquarters hotel" means a hotel designated as such in authorizing legislation.
+
+(3) "Convention center headquarters hotel facilities" means a convention center headquarters hotel, the convention center associated with the convention center headquarters hotel, and any improvements, buildings, outdoor space, infrastructure, and parking lots or garages directly adjacent to or associated with the convention center headquarters hotel and convention center.
+
+(4) "Eligible convention facilities authority" means a convention facilities authority created within an eligible county under Chapter 351. of the Revised Code.
+
+(5) "Cost" and "facility" have the same meanings as in section 351.01 of the Revised Code.
+
+(6) "Eligible county" means a county with a population greater than eight hundred thousand that levies a tax under division (A) of section 5739.09 of the Revised Code and in which one or more convention centers are located.
+
+(7) "Eligible municipal corporation" means a municipal corporation that is located in an eligible county, that levies a tax under section 5739.08 of the Revised Code, and in which one or more convention centers are located.
+
+(8) "Qualifying lodging tax" means, for authorizing legislation adopted by the legislative authority of an eligible municipal corporation, a tax levied by that municipal corporation under section 5739.08 of the Revised Code or, for authorizing legislation adopted by the legislative authority of an eligible county, a tax levied by that county under section 5739.09 of the Revised Code.
+
+(9) "Eligible port authority" means a port authority created within an eligible county under Chapter 4582. of the Revised Code or a port authority created under Chapter 4582. of the Revised Code in a different county and that is partnering with a port authority located within an eligible county.
+
+(10) "Issuing authority" means an eligible municipal corporation, an eligible county, an eligible convention facilities authority, or an eligible port authority.
+
+(11) "Qualifying vendor" means the person responsible for collecting and remitting qualifying lodging taxes from a convention center headquarters hotel.
+
+(12) "Authorizing legislation" means an ordinance or resolution adopted under division (B) of this section.
+
+(13) "Eligible township" means a township that levies a tax under section 5739.08 of the Revised Code that applies to transactions for lodging at a convention center headquarters hotel.
+
+(14) "Eligible convention and visitors' bureau" means a convention and visitors' bureau that receives revenue from a tax levied under section 5739.09 of the Revised Code that applies to transactions for lodging at a convention center headquarters hotel.
+
+(15) "Minimum payment obligation" is an obligation, including a contingent obligation, for a qualifying vendor to make a payment to an eligible municipal corporation, eligible county, or eligible port authority to ensure sufficient funds to finance the expenditures authorized under division (D)(2) of this section.
+
+(B) The legislative authority of an eligible county or eligible municipal corporation, by ordinance or resolution, may declare all of the following:
+
+(1) A hotel within that county or municipal corporation is designated as a convention center headquarters hotel;
+
+(2) The name of the convention center that the hotel is associated with;
+
+(3) That that hotel and any convention center headquarters hotel facilities associated with it are for a public purpose;
+
+(4) That transactions by which lodging by the hotel is to be furnished to transient guests shall be wholly or partially exempt from the applicable qualifying lodging tax for a period not to exceed thirty years from the date the exemption begins;
+
+(5) The date the exemption begins, which shall be the first day of a month;
+
+(6) If the exemption is a partial exemption, the percentage of the qualifying lodging tax that is subject to exemption;
+
+(7) Whether payments are to be required under division (D)(1) of this section and, if so, the issuing authority to which those payments are to be pledged.
+
+Not more than one convention center headquarters hotel may be designated by the legislative authority of an eligible county or eligible municipal corporation for each convention center located in the county or municipal corporation.
+
+(C) Not later than fourteen days before adopting authorizing legislation, the eligible municipal corporation shall give notice of the proposed authorizing legislation to the eligible county, eligible convention and visitors' bureau, and any eligible township. Not later than thirty days after adopting authorizing legislation, the municipal corporation shall deliver a copy of the authorizing legislation to the eligible county, eligible convention and visitors' bureau, and eligible township, as applicable.
+
+Not later than fourteen days before adopting authorizing legislation, the eligible county shall give notice of the proposed authorizing legislation to the eligible convention and visitors' bureau and any eligible municipal corporation or eligible township. Not later than thirty days after adopting authorizing legislation, the county shall deliver a copy of the authorizing legislation to the eligible convention and visitors' bureau and eligible municipal corporation or eligible township, as applicable.
+
+An exemption granted pursuant to authorizing legislation commences on the date specified in the authorizing legislation.
+
+(D)(1) An eligible municipal corporation or eligible county that has adopted authorizing legislation may require the convention center headquarters hotel's qualifying vendor to make monthly payments in lieu of qualifying lodging taxes on or before the final dates for payment of such taxes. Each such payment shall be charged and collected in the same amount as the exempted qualifying lodging tax. The vendor shall remit all payments to the eligible municipal corporation or eligible county that adopted the authorizing legislation or, if applicable, to the issuing authority or agent designated under division (F) of this section. Such payments shall be used for the purpose of paying the cost of acquiring, constructing, renovating, or maintaining convention center headquarters hotel facilities located in the eligible county.
+
+(2) An eligible municipal corporation or eligible county that adopts authorizing legislation shall establish a lodging tax equivalent fund into which shall be deposited all payments required under division (D)(1) of this section and all payments of minimum payment obligations made under agreements authorized pursuant to division (E) of this section.
+
+Money in the lodging tax equivalent fund shall be pledged and contributed to the issuing authority designated in the authorizing legislation, or agent thereof, to pay the costs described in division (D)(1) of this section, including paying bonds or notes issued in anticipation of the issuance of bonds, or paying the expenses of maintaining, operating, or promoting one or more convention center headquarters facilities. If approved by the applicable issuing authority, money in the lodging tax equivalent fund may also be used by the eligible municipal corporation or eligible county, as applicable, for any other purpose the municipal corporation's or county's tax levied under section 5739.08 or 5739.09 of the Revised Code, respectively, may be used for.
+
+The eligible municipal corporation or eligible county also may deposit or permit to be deposited into the lodging tax equivalent fund other money or taxes levied under section 5739.08 or 5739.09 of the Revised Code and lawfully available for those purposes as determined by the municipal corporation or county.
+
+(3) A lodging tax equivalent fund established under division (D)(2) of this section may be held by and pledged by the eligible municipal corporation or eligible county to a trustee for bonds or notes issued by an issuing authority.
+
+(4) Any incidental surplus remaining in the lodging tax equivalent fund, upon dissolution of the fund, shall be transferred to the general fund of the eligible municipal corporation or eligible county to be used for any purpose for which the municipal corporation's or county's tax levied under section 5739.08 or 5739.09 of the Revised Code, respectively, may be used.
+
+(E) An eligible municipal corporation, eligible county, or eligible port authority may enter into an agreement with a qualifying vendor to make payments of minimum payment obligations for deposit into the lodging tax equivalent fund established under division (D)(2) of this section. An agreement entered into under this division is binding and enforceable against all subsequent qualifying vendors for a convention center headquarters hotel without the necessity of a written assignment of the agreement.
+
+(F) Payments required under division (D)(1) of this section and minimum payment obligations shall be collected and enforced by the eligible municipal corporation or eligible county. The municipal corporation or county may delegate this authority to the issuing authority designated in the authorizing legislation, or to an agent thereof, by including this delegation in the authorizing legislation or adopting a separate ordinance or resolution. Such issuing authority or agent shall be subject to any regulations or restrictions imposed upon the municipal corporation or county in collecting and enforcing qualifying lodging tax.
+
+(G) A qualifying vendor may charge a consumer for any payments required under division (D)(1) of this section in the same amount as the consumer would have paid in qualifying lodging taxes had such taxes not been exempted, provided that the charges shall be separately stated on the invoice, bill of sale, or similar document given to the consumer.
+
+Any charges paid by the consumer shall be considered taxes described in division (H)(1)(c)(iii) of section 5739.01 of the Revised Code.
+
+(H) The adoption of authorizing legislation under this section for a hotel in which lodging has not been furnished to transient guests prior to the adoption of the legislation shall not be considered to be a diminution of the rate of taxation or of the revenue generated by the taxes under section 5739.08 or 5739.09 of the Revised Code.
+
+Last updated August 31, 2023 at 5:05 PM

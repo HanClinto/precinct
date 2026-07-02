@@ -1,0 +1,108 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Person\" includes individuals, corporations, firms, and associations of whatsoever form.",
+      "id": "5737.01-person",
+      "normalized": "person",
+      "scope": "As used in sections 5737.01 to 5737.08 , inclusive, of the Revised Code:",
+      "section": "5737.01",
+      "source_title": "Section 5737.01 - Grain handling tax definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5737.01",
+      "term": "Person"
+    },
+    {
+      "definition": "(B) \"Handling\" includes the receipt of grain and the purchase of grain in connection with or as a part of any business, with the exceptions and exemptions mentioned in this section and in section 5737.02 of the Revised Code.",
+      "id": "5737.01-handling",
+      "normalized": "handling",
+      "scope": "As used in sections 5737.01 to 5737.08 , inclusive, of the Revised Code:",
+      "section": "5737.01",
+      "source_title": "Section 5737.01 - Grain handling tax definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5737.01",
+      "term": "Handling"
+    },
+    {
+      "definition": "(C) \"Receipt\" and \"received\" mean the acquisition of actual custody or possession at or in an elevator, warehouse, store, mill, or other facility for the storage, accumulation, sale, or processing of grain for any purpose, but do not include transactions for the purpose only of guaranteeing warehouse receipts to be used as security.",
+      "id": "5737.01-receipt",
+      "normalized": "receipt",
+      "scope": "As used in sections 5737.01 to 5737.08 , inclusive, of the Revised Code:",
+      "section": "5737.01",
+      "source_title": "Section 5737.01 - Grain handling tax definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5737.01",
+      "term": "Receipt"
+    },
+    {
+      "definition": "(C) \"Receipt\" and \"received\" mean the acquisition of actual custody or possession at or in an elevator, warehouse, store, mill, or other facility for the storage, accumulation, sale, or processing of grain for any purpose, but do not include transactions for the purpose only of guaranteeing warehouse receipts to be used as security.",
+      "id": "5737.01-received",
+      "normalized": "received",
+      "scope": "As used in sections 5737.01 to 5737.08 , inclusive, of the Revised Code:",
+      "section": "5737.01",
+      "source_title": "Section 5737.01 - Grain handling tax definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5737.01",
+      "term": "received"
+    },
+    {
+      "definition": "(D) \"Purchase\" and \"purchased\" mean the acquisition of title without custody or possession, but do not include transactions for the purpose only of guaranteeing warehouse receipts to be used as security.",
+      "id": "5737.01-purchase",
+      "normalized": "purchase",
+      "scope": "As used in sections 5737.01 to 5737.08 , inclusive, of the Revised Code:",
+      "section": "5737.01",
+      "source_title": "Section 5737.01 - Grain handling tax definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5737.01",
+      "term": "Purchase"
+    },
+    {
+      "definition": "(D) \"Purchase\" and \"purchased\" mean the acquisition of title without custody or possession, but do not include transactions for the purpose only of guaranteeing warehouse receipts to be used as security.",
+      "id": "5737.01-purchased",
+      "normalized": "purchased",
+      "scope": "As used in sections 5737.01 to 5737.08 , inclusive, of the Revised Code:",
+      "section": "5737.01",
+      "source_title": "Section 5737.01 - Grain handling tax definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5737.01",
+      "term": "purchased"
+    },
+    {
+      "definition": "(E) \"Grain\" includes all commercial field seeds in their natural state, or when hulled, cleaned, dried, graded, or polished, but excludes such seeds when otherwise processed and the products of such processing.\n\n(F) \"Assessor,\" \"return,\" \"assessment,\" \"general personal duplicate,\" and \"taxing district\" have the meaning assigned thereto by the laws relating to the taxation of personal property.",
+      "id": "5737.01-grain",
+      "normalized": "grain",
+      "scope": "As used in sections 5737.01 to 5737.08 , inclusive, of the Revised Code:",
+      "section": "5737.01",
+      "source_title": "Section 5737.01 - Grain handling tax definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5737.01",
+      "term": "Grain"
+    },
+    {
+      "definition": "(G) \"Track buyer\" means any person who buys and sells grain of any kind from other persons engaged in the elevator and grain business and who does not have actual possession of such grain in his own warehouse or on his own premises, but who handles commercial paper only and not the actual grain.",
+      "id": "5737.01-track-buyer",
+      "normalized": "track buyer",
+      "scope": "As used in sections 5737.01 to 5737.08 , inclusive, of the Revised Code:",
+      "section": "5737.01",
+      "source_title": "Section 5737.01 - Grain handling tax definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5737.01",
+      "term": "Track buyer"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "5737.01",
+      "number": "5737.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5737.01"
+    },
+    {
+      "kind": "section",
+      "label": "5737.08",
+      "number": "5737.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5737.08"
+    },
+    {
+      "kind": "section",
+      "label": "5737.02",
+      "number": "5737.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5737.02"
+    }
+  ],
+  "scraped": "2026-07-02T20:15:11+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5737.01",
+  "title": "Section 5737.01 - Grain handling tax definitions."
+}

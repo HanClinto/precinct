@@ -1,0 +1,58 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Cash assistance payment\" means the monthly amount an assistance group is eligible to receive under Ohio works first.",
+      "id": "5107.28-cash-assistance-payment",
+      "normalized": "cash assistance payment",
+      "scope": "(A) As used in this section and in sections 5107.281 to 5107.287 of the Revised Code:",
+      "section": "5107.28",
+      "source_title": "Section 5107.28 - Learnfare program.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5107.28",
+      "term": "Cash assistance payment"
+    },
+    {
+      "definition": "(2) \"Parent\" means the parent, guardian, custodian, or specified relative with charge or care of a learnfare participant.",
+      "id": "5107.28-parent",
+      "normalized": "parent",
+      "scope": "(A) As used in this section and in sections 5107.281 to 5107.287 of the Revised Code:",
+      "section": "5107.28",
+      "source_title": "Section 5107.28 - Learnfare program.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5107.28",
+      "term": "Parent"
+    },
+    {
+      "definition": "(3) \"Participating student\" means a participant of Ohio works first who is subject to the school attendance requirement of the learnfare program as determined under section 5107.281 of the Revised Code.\n\n(B) The department of job and family services shall establish the learnfare program. The board of county commissioners of any county may choose to have the county participate in the learnfare program. The county department of job and family services of each participating county shall administer the program in accordance with sections 5107.28 to 5107.287 of the Revised Code and policies the county department establishes for the program.\n\n(C) The program shall provide for reduction in the cash assistance payment to the assistance group of a participating student if the student fails to comply with the program's school attendance requirement two or more times during a school year.\n\n(D) The program may provide for an incentive to encourage a parent or, if a participating student is eighteen or nineteen years of age, the student to consent to the release of the participating student's school attendance records and the participating student to comply with the program's school attendance requirement.",
+      "id": "5107.28-participating-student",
+      "normalized": "participating student",
+      "scope": "(A) As used in this section and in sections 5107.281 to 5107.287 of the Revised Code:",
+      "section": "5107.28",
+      "source_title": "Section 5107.28 - Learnfare program.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5107.28",
+      "term": "Participating student"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "5107.281",
+      "number": "5107.281",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.281"
+    },
+    {
+      "kind": "section",
+      "label": "5107.287",
+      "number": "5107.287",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.287"
+    },
+    {
+      "kind": "section",
+      "label": "5107.28",
+      "number": "5107.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.28"
+    }
+  ],
+  "scraped": "2026-07-02T20:10:29+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5107.28",
+  "title": "Section 5107.28 - Learnfare program."
+}

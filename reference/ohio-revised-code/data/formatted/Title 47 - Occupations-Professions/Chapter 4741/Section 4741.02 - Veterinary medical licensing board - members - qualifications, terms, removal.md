@@ -1,0 +1,16 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4741.02
+Scraped: 2026-07-02T20:07:23+00:00
+
+# Section 4741.02 - Veterinary medical licensing board - members - qualifications, terms, removal.
+
+**Effective:** October 12, 2006
+
+**Latest Legislation:** House Bill 458 - 126th General Assembly
+
+There shall be a state veterinary medical licensing board consisting of seven members, who have been legal residents of this state for not less than five years, appointed by the governor with the advice and consent of the senate, as follows: five members who have been licensed to practice veterinary medicine in this state for not less than five consecutive years prior to their appointment; one member who is a registered veterinary technician registered pursuant to this chapter for not less than five consecutive years prior to appointment; and one member who is a representative of the public. Terms of office are for three years, commencing on the first day of January and ending on the thirty-first day of December. Each member shall hold office from the date of the member's appointment until the end of the term for which the member was appointed. Any member appointed to fill a vacancy occurring prior to the expiration of the term for which the predecessor was appointed shall hold office for the remainder of such term. Any member shall continue in office subsequent to the expiration date of the member's term until a successor takes office, or until a period of sixty days has elapsed, whichever occurs first. No person who has been appointed a member of the board shall be appointed to serve more than three, three-year terms unless a period of three years has elapsed since the termination of the member's third term, provided that a person appointed to fill an unexpired term may be appointed for three full terms of three years each immediately following such term and that the total length of the member's service does not exceed ten years.
+
+No member of the board shall be the owner of any interest in, or be employed by any wholesale or jobbing house dealing in supplies, equipment, or instruments used or useful in the practice of veterinary medicine. Neither the public member nor the registered veterinary technician member shall have any vested financial interest in the practice of veterinary medicine. For purposes of this section employment as a veterinary technician for a veterinarian does not constitute a vested financial interest in the practice of veterinary medicine.
+
+The governor may remove any member of the board for malfeasance, misfeasance, or nonfeasance after a hearing as provided in Chapter 119. of the Revised Code or if the license of a veterinary member is not renewed or has been revoked or suspended on any ground set forth in section 3123.47 or 4741.22 of the Revised Code or if the registration of the registered veterinary technician member is revoked or suspended or is not renewed under section 3123.47 or 4741.19 of the Revised Code.
+
+Each member of the board shall receive an amount fixed pursuant to division (J) of section 124.15 of the Revised Code for each day, or portion thereof, the member is actually engaged in the discharge of official duties, in addition to the member's necessary expenses.

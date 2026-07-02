@@ -1,0 +1,26 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4929.20
+Scraped: 2026-07-02T20:09:29+00:00
+
+# Section 4929.20 - Certifying governmental aggregators and retail natural gas suppliers.
+
+**Effective:** August 14, 2025
+
+**Latest Legislation:** House Bill 15 - 136th General Assembly
+
+(A)(1) No governmental aggregator as defined in division (K)(1) of section 4929.01 of the Revised Code or no retail natural gas supplier shall provide a competitive retail natural gas service on or after thirteen months following June 26, 2001, to a consumer in this state without first being certified by the public utilities commission regarding its managerial, technical, and financial capability to provide that service and providing reasonable financial assurances sufficient to protect customers and natural gas companies from default. Certification shall be granted pursuant to procedures and standards the commission shall prescribe in accordance with rules adopted under section 4929.10 of the Revised Code. However, certification or certification renewal shall be deemed approved thirty days after the filing of an application with the commission unless the commission suspends that approval for good cause shown. In the case of such a suspension, the commission shall act to approve or deny certification or certification renewal to the applicant not later than ninety days after the date of the suspension.
+
+(2) The commission shall establish rules to require a competitive retail natural gas supplier to maintain financial assurances sufficient to protect customers and natural gas companies from default. Such rules also shall specifically allow a natural gas company to set reasonable standards for its security and the security of its customers through financial requirements set in its tariffs.
+
+(3) As used in division (A)(2) of this section, "retail natural gas supplier" has the same meaning as in section 4929.01 of the Revised Code, but excludes a broker or aggregator.
+
+(B) Capability standards adopted in rules pursuant to division (A) of this section shall be sufficient to ensure compliance with section 4929.22 of the Revised Code and with the minimum service requirements established under section 4929.23 of the Revised Code. The standards shall allow flexibility for voluntary aggregation, to encourage market creativity in responding to consumer needs and demands. The rules shall include procedures for biennially renewing certification.
+
+(C)(1) The commission may suspend, rescind, or conditionally rescind the certification of any retail natural gas supplier or governmental aggregator issued under this section if the commission determines, after reasonable notice and opportunity for hearing, that the retail natural gas supplier or governmental aggregator has failed to comply with any applicable certification standards prescribed in rules adopted pursuant to this section or section 4929.22 of the Revised Code.
+
+(2) An affected natural gas company may file an application with the commission for approval of authority to recover in accordance with division (C)(2) of this section incremental costs reasonably and prudently incurred by the company in connection with the commission's continuation, suspension, rescission, or conditional rescission of a particular retail natural gas supplier's certification under division (C)(1) of this section. Upon the filing of such an application, the commission shall conduct an audit of such incremental costs as are specified in the application. Cost recovery shall be through a rider on the base rates of customers of the company for which there is a choice of supplier of commodity sales service as a result of revised schedules approved under division (C) of section 4929.29 of the Revised Code, a rule or order adopted or issued by the commission under Chapter 4905. of the Revised Code, or an exemption granted by the commission under sections 4929.04 to 4929.08 of the Revised Code. The rider shall take effect ninety days after the date of the application's filing unless the commission, based on the audit results and for good cause shown, sets the matter for hearing. After the hearing, the commission shall approve the application, and authorize such cost recovery rider effective on the date specified in the order, only for such incremental costs as the commission determines were reasonably and prudently incurred by the company in connection with the continuation, suspension, rescission, or conditional rescission of a retail natural gas supplier's certification under division (C)(1) of this section. Any proceeding under division (C)(2) of this section shall be governed by Chapter 4903. of the Revised Code.
+
+(D) No natural gas company, on and after thirteen months following June 26, 2001, shall knowingly distribute natural gas, to a retail consumer in this state, for any governmental aggregator, as defined in division (K)(1) of section 4929.01 of the Revised Code, or retail natural gas supplier, that has not been certified by the commission pursuant to this section.
+
+(E) Notwithstanding any provision of section 121.95 of the Revised Code to the contrary, a regulatory restriction contained in a rule adopted under section 4929.20 of the Revised Code is not subject to sections 121.95 to 121.953 of the Revised Code.
+
+Last updated May 22, 2025 at 12:55 PM

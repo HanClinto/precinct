@@ -1,0 +1,74 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Housing project\" means any work or undertaking of a housing authority pursuant to sections 3735.27 to 3735.50 , inclusive, of the Revised Code, or any similar work or undertaking of the federal government.",
+      "id": "3735.51-housing-project",
+      "normalized": "housing project",
+      "scope": "As used in sections 3735.51 to 3735.57 , inclusive, of the Revised Code:",
+      "section": "3735.51",
+      "source_title": "Section 3735.51 - Housing cooperation law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3735.51",
+      "term": "Housing project"
+    },
+    {
+      "definition": "(B) \"State public body\" means any township, county, municipal corporation, commission, district, authority, other subdivision, or public body of this state.",
+      "id": "3735.51-state-public-body",
+      "normalized": "state public body",
+      "scope": "As used in sections 3735.51 to 3735.57 , inclusive, of the Revised Code:",
+      "section": "3735.51",
+      "source_title": "Section 3735.51 - Housing cooperation law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3735.51",
+      "term": "State public body"
+    },
+    {
+      "definition": "(C) \"Governing body\" means the council, board of commissioners, or other body having charge of the fiscal affairs of the state public body.",
+      "id": "3735.51-governing-body",
+      "normalized": "governing body",
+      "scope": "As used in sections 3735.51 to 3735.57 , inclusive, of the Revised Code:",
+      "section": "3735.51",
+      "source_title": "Section 3735.51 - Housing cooperation law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3735.51",
+      "term": "Governing body"
+    },
+    {
+      "definition": "(D) \"Federal government\" means the United States, the federal works administrator, or any other agency or instrumentality, corporate or otherwise, of the United States.",
+      "id": "3735.51-federal-government",
+      "normalized": "federal government",
+      "scope": "As used in sections 3735.51 to 3735.57 , inclusive, of the Revised Code:",
+      "section": "3735.51",
+      "source_title": "Section 3735.51 - Housing cooperation law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3735.51",
+      "term": "Federal government"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3735.51",
+      "number": "3735.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3735.51"
+    },
+    {
+      "kind": "section",
+      "label": "3735.57",
+      "number": "3735.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3735.57"
+    },
+    {
+      "kind": "section",
+      "label": "3735.27",
+      "number": "3735.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3735.27"
+    },
+    {
+      "kind": "section",
+      "label": "3735.50",
+      "number": "3735.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3735.50"
+    }
+  ],
+  "scraped": "2026-07-02T20:00:37+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3735.51",
+  "title": "Section 3735.51 - Housing cooperation law definitions."
+}

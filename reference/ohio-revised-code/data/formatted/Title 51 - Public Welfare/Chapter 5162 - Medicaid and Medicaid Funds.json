@@ -1,0 +1,375 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 5162.01 - Definitions.",
+      "number": "5162.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.02 - Rules for implementation of chapter.",
+      "number": "5162.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.021 - Adoption of rules by other state agencies.",
+      "number": "5162.021",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.021"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.022 - Director's rules binding.",
+      "number": "5162.022",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.022"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.03 - Administration of medicaid program.",
+      "number": "5162.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.031 - Powers of director.",
+      "number": "5162.031",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.031"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.04 - No state cause of action to enforce federal laws.",
+      "number": "5162.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.05 - Implementation of medicaid program.",
+      "number": "5162.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.06 - Components requiring federal approval or funding.",
+      "number": "5162.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.07 - Federal approval for permissive components not required.",
+      "number": "5162.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.08 - Legislative notice of medicaid amendments and waivers.",
+      "number": "5162.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.10 - Review of medicaid program; corrective action; sanctions.",
+      "number": "5162.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.11 - Contract for data collection and warehouse functions assessment.",
+      "number": "5162.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.12 - Contracts for the management of Medicaid data requests.",
+      "number": "5162.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.13 - Annual report.",
+      "number": "5162.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.132 - Annual report outlining efforts to minimize fraud, waste, and abuse.",
+      "number": "5162.132",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.132"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.133 - Annual program report; distribution; contents.",
+      "number": "5162.133",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.133"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.134 - Annual report of integrated care delivery system evaluation.",
+      "number": "5162.134",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.134"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.135 - Infant mortality scorecard.",
+      "number": "5162.135",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.135"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.136 - Review of barriers to interventions intended to reduce tobacco use, prevent prematurity, and promote optimal birth spacing.",
+      "number": "5162.136",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.136"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.137 - Cost savings study.",
+      "number": "5162.137",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.137"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.1310 - Evaluation of success of expansion eligibility group.",
+      "number": "5162.1310",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.1310"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.14 - Legislative notice of action related to medicaid statement of expenditures form.",
+      "number": "5162.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.15 - Information required where annual medicaid payments exceed $5 million.",
+      "number": "5162.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.16 - Reporting fraud, waste, or abuse.",
+      "number": "5162.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.20 - Cost-sharing requirements.",
+      "number": "5162.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.21 - Medicaid estate recovery program.",
+      "number": "5162.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.211 - Lien against property of recipient or spouse as part of estate recovery program.",
+      "number": "5162.211",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.211"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.212 - Certification of amounts due under estate recovery program; collection.",
+      "number": "5162.212",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.212"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.22 - Transfer of personal needs allowance account.",
+      "number": "5162.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.23 - Recovering benefits incorrectly paid.",
+      "number": "5162.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.24 - Recovering health care costs provided to child.",
+      "number": "5162.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.25 - State directed payment program requirements.",
+      "number": "5162.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.251 - State directed payment program reports.",
+      "number": "5162.251",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.251"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.30 - Medicaid administrative claiming program.",
+      "number": "5162.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.31 - Local funds expended for administration of the healthy start component.",
+      "number": "5162.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.32 - Contracts with political subdivisions to pay nonfederal share.",
+      "number": "5162.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.35 - Contracts for administration of components.",
+      "number": "5162.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.36 - Medicaid school component.",
+      "number": "5162.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.361 - Claim by qualified medicaid school provider.",
+      "number": "5162.361",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.361"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.362 - Federal financial participation for medicaid school claims.",
+      "number": "5162.362",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.362"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.363 - Administration of medicaid school component.",
+      "number": "5162.363",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.363"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.364 - Adoption of rules for medicaid school component.",
+      "number": "5162.364",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.364"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.365 - Responsibility for repaying overpayments.",
+      "number": "5162.365",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.365"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.366 - Referrals for certain services under the Medicaid School Program.",
+      "number": "5162.366",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.366"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.37 - Contract approval required.",
+      "number": "5162.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.371 - Contracts with department of mental health and addiction services; payment of nonfederal share of medicaid payment.",
+      "number": "5162.371",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.371"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.40 - Retaining or collecting percentage of federal financial participation.",
+      "number": "5162.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.41 - Retaining or collecting percentage of supplemental payment.",
+      "number": "5162.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.50 - Health care-federal fund.",
+      "number": "5162.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.52 - Health care/medicaid support and recoveries fund.",
+      "number": "5162.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.56 - Health care special activities fund.",
+      "number": "5162.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.65 - Refunds and reconciliation fund.",
+      "number": "5162.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.66 - Residents protection fund.",
+      "number": "5162.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.70 - Reforms to medicaid program.",
+      "number": "5162.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.71 - Implementation of systems to improve health and reduce health disparities.",
+      "number": "5162.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.72 - Strategies to address social determinants of health.",
+      "number": "5162.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.73 - Dental services for pregnant Medicaid recipients.",
+      "number": "5162.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.75 - Notification of veteran services.",
+      "number": "5162.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.80 - Good faith estimates for charges and payments.",
+      "number": "5162.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.80"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5162.82 - Payment rate increase report.",
+      "number": "5162.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.82"
+    }
+  ],
+  "scraped": "2026-07-02T20:11:21+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-5162",
+  "title": "Chapter 5162 - Medicaid and Medicaid Funds"
+}

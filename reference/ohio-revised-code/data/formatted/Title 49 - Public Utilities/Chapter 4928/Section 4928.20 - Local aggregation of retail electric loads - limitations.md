@@ -1,0 +1,46 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4928.20
+Scraped: 2026-07-02T20:09:26+00:00
+
+# Section 4928.20 - Local aggregation of retail electric loads - limitations.
+
+**Effective:** August 14, 2025
+
+**Latest Legislation:** House Bill 15 - 136th General Assembly
+
+(A) The legislative authority of a municipal corporation may adopt an ordinance, or the board of township trustees of a township or the board of county commissioners of a county may adopt a resolution, under which it may aggregate in accordance with this section the retail electrical loads located, respectively, within the municipal corporation, township, or unincorporated area of the county and, for that purpose, may enter into service agreements to facilitate for those loads the sale and purchase of electricity. The legislative authority or board also may exercise such authority jointly with any other such legislative authority or board. For customers that are not mercantile customers, an ordinance or resolution under this division shall specify whether the aggregation will occur only with the prior, affirmative consent of each person owning, occupying, controlling, or using an electric load center proposed to be aggregated or will occur automatically for all such persons pursuant to the opt-out requirements of division (D) of this section. The aggregation of mercantile customers shall occur only with the prior, affirmative consent of each such person owning, occupying, controlling, or using an electric load center proposed to be aggregated. Nothing in this division, however, authorizes the aggregation of the retail electric loads of an electric load center, as defined in section 4933.81 of the Revised Code, that is located in the certified territory of a nonprofit electric supplier under sections 4933.81 to 4933.90 of the Revised Code or an electric load center served by transmission or distribution facilities of a municipal electric utility.
+
+(B) If an ordinance or resolution adopted under division (A) of this section specifies that aggregation of customers that are not mercantile customers will occur automatically as described in that division, the ordinance or resolution shall direct the board of elections to submit the question of the authority to aggregate to the electors of the respective municipal corporation, township, or unincorporated area of a county at a special election on the day of the next primary or general election in the municipal corporation, township, or county. The legislative authority or board shall certify a copy of the ordinance or resolution to the board of elections not less than ninety days before the day of the special election. No ordinance or resolution adopted under division (A) of this section that provides for an election under this division shall take effect unless approved by a majority of the electors voting upon the ordinance or resolution at the election held pursuant to this division.
+
+(C) Upon the applicable requisite authority under divisions (A) and (B) of this section, the legislative authority or board shall develop a plan of operation and governance for the aggregation program so authorized. Before adopting a plan under this division, the legislative authority or board shall hold at least two public hearings on the plan. Before the first hearing, the legislative authority or board shall publish notice of the hearings once a week for two consecutive weeks in a newspaper of general circulation in the jurisdiction or as provided in section 7.16 of the Revised Code. The notice shall summarize the plan and state the date, time, and location of each hearing.
+
+(D) No legislative authority or board, pursuant to an ordinance or resolution under divisions (A) and (B) of this section that provides for automatic aggregation of customers that are not mercantile customers as described in division (A) of this section, shall aggregate the electrical load of any electric load center located within its jurisdiction unless it in advance clearly discloses to the person owning, occupying, controlling, or using the load center that the person will be enrolled automatically in the aggregation program and will remain so enrolled unless the person affirmatively elects by a stated procedure not to be so enrolled. The disclosure shall state prominently the rates, charges, and other terms and conditions of enrollment. The stated procedure shall allow any person enrolled in the aggregation program the opportunity to opt out of the program every three years, without paying a switching fee. Any such person that opts out before the commencement of the aggregation program pursuant to the stated procedure shall default to the standard service offer provided under section 4928.14 or division (D) of section 4928.35 of the Revised Code until the person chooses an alternative supplier.
+
+(E)(1) With respect to a governmental aggregation for a municipal corporation that is authorized pursuant to divisions (A) to (D) of this section, resolutions may be proposed by initiative or referendum petitions in accordance with sections 731.28 to 731.41 of the Revised Code.
+
+(2) With respect to a governmental aggregation for a township or the unincorporated area of a county, which aggregation is authorized pursuant to divisions (A) to (D) of this section, resolutions may be proposed by initiative or referendum petitions in accordance with sections 731.28 to 731.40 of the Revised Code, except that:
+
+(a) The petitions shall be filed, respectively, with the township fiscal officer or the board of county commissioners, who shall perform those duties imposed under those sections upon the city auditor or village clerk.
+
+(b) The petitions shall contain the signatures of not less than ten per cent of the total number of electors in, respectively, the township or the unincorporated area of the county who voted for the office of governor at the preceding general election for that office in that area.
+
+(F) A governmental aggregator under division (A) of this section is not a public utility engaging in the wholesale purchase and resale of electricity, and provision of the aggregated service is not a wholesale utility transaction. A governmental aggregator shall be subject to supervision and regulation by the public utilities commission only to the extent of any competitive retail electric service it provides and commission authority under this chapter.
+
+(G) This section does not apply in the case of a municipal corporation that supplies such aggregated service to electric load centers to which its municipal electric utility also supplies a noncompetitive retail electric service through transmission or distribution facilities the utility singly or jointly owns or operates.
+
+(H) A governmental aggregator shall not include in its aggregation the accounts of any of the following:
+
+(1) A customer that has opted out of the aggregation;
+
+(2) A customer in contract with a certified electric services company;
+
+(3) A customer that has a special contract with an electric distribution utility;
+
+(4) A customer that is not located within the governmental aggregator's governmental boundaries;
+
+(5) Subject to division (C) of section 4928.21 of the Revised Code, a customer who appears on the "do not aggregate" list maintained under that section.
+
+(I) Customers that are part of a governmental aggregation under this section shall be responsible only for such portion of a surcharge under section 4928.144 of the Revised Code that is proportionate to the benefits, as determined by the commission, that electric load centers within the jurisdiction of the governmental aggregation as a group receive. The proportionate surcharge so established shall apply to each customer of the governmental aggregation while the customer is part of that aggregation. If a customer ceases being such a customer, the otherwise applicable surcharge shall apply. Nothing in this section shall result in less than full recovery by an electric distribution utility of any surcharge authorized under section 4928.144 of the Revised Code. Nothing in this section shall result in less than the full and timely imposition, charging, collection, and adjustment by an electric distribution utility, its assignee, or any collection agent, of the phase-in-recovery charges authorized pursuant to a final financing order issued pursuant to sections 4928.23 to 4928.2318 of the Revised Code.
+
+(J) The commission shall adopt rules and issue orders in proceedings under sections 4928.141 and 4928.142 of the Revised Code to encourage and promote large-scale governmental aggregation in this state. For that purpose, the commission shall conduct an immediate review of any rules it has adopted for the purpose of this section that are in effect on the effective date of the amendment of this section by S.B. 221 of the 127th general assembly, July 31, 2008. The commission shall review each application filed under section 4928.142 of the Revised Code by an electric distribution utility to ensure that the application and the resulting market rate offer shall not contain any rate, price, term, condition, or provision that would have an adverse effect on large-scale governmental aggregation in this state.
+
+Last updated May 22, 2025 at 12:49 PM

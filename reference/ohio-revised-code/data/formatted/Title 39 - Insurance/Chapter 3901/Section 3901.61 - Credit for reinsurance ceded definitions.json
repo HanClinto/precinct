@@ -1,0 +1,42 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Assuming insurer\" means an insurance company that accepts all or part of the risk underwritten by a ceding insurer.",
+      "id": "3901.61-assuming-insurer",
+      "normalized": "assuming insurer",
+      "scope": "As used in sections 3901.61 to 3901.65 of te Revised Code:",
+      "section": "3901.61",
+      "source_title": "Section 3901.61 - Credit for reinsurance ceded definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3901.61",
+      "term": "Assuming insurer"
+    },
+    {
+      "definition": "(B) \"Ceding insurer\" means an insurance company that transfers all or part of the risk it underwrites to an assuming insurer.",
+      "id": "3901.61-ceding-insurer",
+      "normalized": "ceding insurer",
+      "scope": "As used in sections 3901.61 to 3901.65 of te Revised Code:",
+      "section": "3901.61",
+      "source_title": "Section 3901.61 - Credit for reinsurance ceded definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3901.61",
+      "term": "Ceding insurer"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3901.61",
+      "number": "3901.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.61"
+    },
+    {
+      "kind": "section",
+      "label": "3901.65",
+      "number": "3901.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.65"
+    }
+  ],
+  "scraped": "2026-07-02T20:02:07+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3901.61",
+  "title": "Section 3901.61 - Credit for reinsurance ceded definitions."
+}

@@ -1,0 +1,44 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-145.362
+Scraped: 2026-07-02T19:31:54+00:00
+
+# Section 145.362 - Disability benefit recipient to retain membership status.
+
+**Effective:** March 22, 2019
+
+**Latest Legislation:** House Bill 572 - 132nd General Assembly
+
+A disability benefit recipient whose application for a disability benefit was received by the public employees retirement system before January 7, 2013, shall, regardless of when the disability occurred, retain membership status and shall be considered on leave of absence from employment during the first five years following the effective date of a disability benefit, notwithstanding any contrary provisions in this chapter.
+
+A disability benefit recipient whose application for a disability benefit is received by the system on or after January 7, 2013, shall, regardless of when the disability occurred, retain membership status and shall be considered on leave of absence from employment during the first three years following the effective date of a disability benefit, except that, if the member is receiving rehabilitative services acceptable to the board's examining physician, the board may permit the recipient to retain membership status and be considered on leave of absence from employment for up to five years following the effective date of a disability benefit.
+
+The public employees retirement board shall require any disability benefit recipient to undergo a periodic medical examination, as determined by the board's medical consultant or as specified in rules adopted by the board. The board may waive the medical examination if the board's medical consultant certifies that the recipient's disability is ongoing or for any other reason specified in rules adopted by the board. If any disability benefit recipient refuses to submit to a medical examination, the recipient's disability benefit shall be suspended until withdrawal of the refusal. Should the refusal continue for one year, all the recipient's rights in and to the disability benefit shall be terminated as of the effective date of the original suspension.
+
+On completion of the examination by the board's examining physician, the physician shall report to the board's medical consultant and certify whether the disability benefit recipient meets the applicable standard for termination of a disability benefit. If the examining physician certifies that the recipient meets the applicable standard for termination of a disability benefit and the medical consultant concurs, the medical consultant shall certify to the board that the recipient meets the applicable standard for termination.
+
+(A) Regardless of when the disability occurred, if the recipient's application for a disability benefit was received by the system before January 7, 2013, or, if on or after that date, the recipient has been receiving the benefit for less than three years or is receiving rehabilitative services acceptable to the board's examining physician and considered on leave of absence, or, if, at the time contributing service terminated, the recipient was a PERS law enforcement officer, the standard for termination is that the recipient is no longer physically and mentally incapable of resuming the service from which the recipient was found disabled.
+
+(B) Regardless of when the disability occurred, if the recipient's application for a disability benefit is received by the system on or after January 7, 2013, the recipient has been receiving the benefit for three years or longer, the recipient was not a PERS law enforcement officer at the time contributing service terminated, and the recipient is not receiving rehabilitative services acceptable to the board's examining physician, the standard for termination is that the recipient is not physically or mentally incapable of performing the duties of any position that meets all of the following criteria:
+
+(1) Replaces not less than seventy-five per cent of the member's final average salary, adjusted each year by the actual average increase in the consumer price index prepared by the United States bureau of labor statistics (U.S. city average for urban wage earners and clerical workers: "all items 1982-1984=100");
+
+(2) Is reasonably to be found in the member's regional job market;
+
+(3) Is one that the member is qualified for by experience or education.
+
+If the board concurs in the report that the disability benefit recipient meets the applicable standard for termination of a disability benefit, the payment of the disability benefit shall be terminated not later than three months after the date of the board's concurrence or upon employment as a public employee. If the leave of absence has not expired, the retirement board shall certify to the disability benefit recipient's last employer before being found disabled that the recipient is no longer physically and mentally incapable of resuming service that is the same or similar to that from which the recipient was found disabled. The employer shall restore the recipient to the recipient's previous position and salary or to a position and salary similar thereto, unless the recipient was dismissed or resigned in lieu of dismissal for dishonesty, misfeasance, malfeasance, or conviction of a felony.
+
+Each disability benefit recipient shall file with the board an annual statement of earnings, current medical information on the recipient's condition, and any other information required in rules adopted by the board. The board may waive the requirement that a disability benefit recipient file an annual statement of earnings or current medical information if the board's medical consultant certifies that the recipient's disability is ongoing or for any other reason specified in rules adopted by the board.
+
+The board shall annually examine the information submitted by the recipient. If a disability benefit recipient fails to file the statement or information, the disability benefit shall be suspended until the statement and information are filed. If the failure continues for one year, the recipient's right to the disability benefit shall be terminated as of the effective date of the original suspension.
+
+If a disability benefit recipient is restored to service by, or elected to an elective office with, an employer covered by this chapter, the recipient's disability benefit shall cease.
+
+The board may terminate a disability benefit at the request of the recipient if the board's medical consultant determines that the recipient is no longer disabled.
+
+If disability retirement under section 145.36 of the Revised Code is terminated for any reason, the annuity and pension reserves at that time in the annuity and pension reserve fund shall be transferred to the employees' savings fund and the employers' accumulation fund, respectively. If the total disability benefit paid is less than the amount of the accumulated contributions of the member transferred to the annuity and pension reserve fund at the time of the member's disability retirement, the difference shall be transferred from the annuity and pension reserve fund to another fund as may be required. In determining the amount of a member's account following the termination of disability retirement for any reason, the total amount paid shall be charged against the member's refundable account.
+
+If a disability allowance paid under section 145.361 of the Revised Code is terminated for any reason, the reserve on the allowance at that time in the annuity and pension reserve fund shall be transferred from that fund to the employers' accumulation fund.
+
+If a former disability benefit recipient again becomes a contributor, other than as an other system retirant under section 145.38 of the Revised Code, to this system, the state teachers retirement system, or the school employees retirement system, and completes an additional two years of service credit, the former disability benefit recipient shall be entitled to full service credit, not exceeding five years' service credit, for the period as a disability benefit recipient, except that if the board adopts a rule requiring payment for the service credit it shall be granted only if the former disability benefit recipient pays an amount determined under the rule. The rule shall not require payment of more than the additional liability to the retirement system resulting from granting the credit. The former recipient may choose to purchase only part of the credit in any one payment.
+
+If any employer employs any member who is receiving a disability benefit, the employer shall file notice of employment with the retirement board, designating the date of employment. In case the notice is not filed, the total amount of the benefit paid during the period of employment prior to notice shall be charged to and paid by the employer.

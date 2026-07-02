@@ -1,0 +1,224 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Member\" means all of the following:\n\n(a) A member of the Ohio police and fire pension fund, including a member of the fund who has elected to participate in the deferred retirement option plan established under section 742.43 of the Revised Code or a member of or contributor to a police or firemen's relief and pension fund established under former Chapter 521. or 741. of the Revised Code;\n\n(b) A member of the state highway patrol retirement system, including a member who is participating in the deferred retirement option plan established under section 5505.50 of the Revised Code;\n\n(c) A member of the public employees retirement system who at the time of the member's death was one of the following:\n\n(i) A county sheriff or deputy sheriff;\n\n(ii) A full-time regular police officer in a municipal corporation or township;\n\n(iii) A full-time regular firefighter employed by the state, an instrumentality of the state, a municipal corporation, a township, a joint fire district, or another political subdivision;\n\n(iv) A full-time park district ranger or patrol trooper;\n\n(v) A full-time law enforcement officer of the department of natural resources;\n\n(vi) A full-time department of public safety enforcement agent;\n\n(vii) A full-time law enforcement officer of parks, waterway lands, or reservoir lands under the control of a municipal corporation;\n\n(viii) A full-time law enforcement officer of a conservancy district;\n\n(ix) A correction officer at an institution under the control of a county, a group of counties, a municipal corporation, or the department of rehabilitation and correction;\n\n(x) A state university law enforcement officer;\n\n(xi) An investigator, as defined in section 109.541 of the Revised Code, or an investigator commissioned as a special agent of the bureau of criminal identification and investigation;\n\n(xii) A drug agent, as defined in section 145.01 of the Revised Code;\n\n(xiii) A gaming agent, as defined in section 3772.01 of the Revised Code;\n\n(xiv) An employee of the department of taxation who has been delegated investigation powers pursuant to section 5743.45 of the Revised Code for the enforcement of Chapters 5728., 5735., 5739., 5741., 5743., and 5747. of the Revised Code.\n\n(d) A member of a retirement system operated by a municipal corporation who at the time of death was a full-time law enforcement officer of parks, waterway lands, or reservoir lands under the control of the municipal corporation.",
+      "id": "742.63-member",
+      "normalized": "member",
+      "scope": "(A) As used in this section:",
+      "section": "742.63",
+      "source_title": "Section 742.63 - Adoption of rules for management of fund and disbursement of benefits.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-742.63",
+      "term": "Member"
+    },
+    {
+      "definition": "(2) Notwithstanding section 742.01 of the Revised Code, \"fire or police department\" includes a fire department of the state or an instrumentality of the state or of a municipal corporation, township, joint fire district, or other political subdivision, the state highway patrol, a county sheriff's office, the security force of an institution under the control of the department of rehabilitation and correction, the security force of a jail or workhouse under the control of a county, group of counties, or municipal corporation, the security force of a metropolitan, county, or township park district, the security force of lands under the control of the department of natural resources, department of public safety enforcement agents, the security force of parks, waterway lands, or reservoir lands under the control of a municipal corporation, the security force of a conservancy district, the police department of a township or municipal corporation, and the police force of a state university.",
+      "id": "742.63-fire-or-police-department",
+      "normalized": "fire or police department",
+      "scope": "(A) As used in this section:",
+      "section": "742.63",
+      "source_title": "Section 742.63 - Adoption of rules for management of fund and disbursement of benefits.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-742.63",
+      "term": "fire or police department"
+    },
+    {
+      "definition": "(3) \"Firefighter or police officer\" includes a state highway patrol trooper, a county sheriff or deputy sheriff, a correction officer at an institution under the control of a county, a group of counties, a municipal corporation, or the department of rehabilitation and correction, a police officer employed by a township or municipal corporation, a firefighter employed by the state, an instrumentality of the state, a municipal corporation, a township, a joint fire district, or another political subdivision, a full-time park district ranger or patrol trooper, a full-time law enforcement officer of the department of natural resources, a full-time department of public safety enforcement agent, a full-time law enforcement officer of parks, waterway lands, or reservoir lands under the control of a municipal corporation, a full-time law enforcement officer of a conservancy district, and a state university law enforcement officer.",
+      "id": "742.63-firefighter-or-police-officer",
+      "normalized": "firefighter or police officer",
+      "scope": "(A) As used in this section:",
+      "section": "742.63",
+      "source_title": "Section 742.63 - Adoption of rules for management of fund and disbursement of benefits.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-742.63",
+      "term": "Firefighter or police officer"
+    },
+    {
+      "definition": "(4) \"Correction officer\" includes, in addition to any correction officer, any correction corporal, sergeant, lieutenant, or captain, and the equivalents of all such persons.",
+      "id": "742.63-correction-officer",
+      "normalized": "correction officer",
+      "scope": "(A) As used in this section:",
+      "section": "742.63",
+      "source_title": "Section 742.63 - Adoption of rules for management of fund and disbursement of benefits.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-742.63",
+      "term": "Correction officer"
+    },
+    {
+      "definition": "(5) \"A park district ranger or patrol trooper\" means a peace officer commissioned to make arrests, execute warrants, and preserve the peace upon lands under the control of a board of park commissioners of a metropolitan, county, or township park district.",
+      "id": "742.63-a-park-district-ranger-or-patrol-trooper",
+      "normalized": "a park district ranger or patrol trooper",
+      "scope": "(A) As used in this section:",
+      "section": "742.63",
+      "source_title": "Section 742.63 - Adoption of rules for management of fund and disbursement of benefits.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-742.63",
+      "term": "A park district ranger or patrol trooper"
+    },
+    {
+      "definition": "(6) \"Metropolitan, county, or township park district\" means a park district created under the authority of Chapter 511. or 1545. of the Revised Code.",
+      "id": "742.63-metropolitan-county-or-township-park-district",
+      "normalized": "metropolitan, county, or township park district",
+      "scope": "(A) As used in this section:",
+      "section": "742.63",
+      "source_title": "Section 742.63 - Adoption of rules for management of fund and disbursement of benefits.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-742.63",
+      "term": "Metropolitan, county, or township park district"
+    },
+    {
+      "definition": "(7) \"Conservancy district\" means a conservancy district created under the authority of Chapter 6101. of the Revised Code.",
+      "id": "742.63-conservancy-district",
+      "normalized": "conservancy district",
+      "scope": "(A) As used in this section:",
+      "section": "742.63",
+      "source_title": "Section 742.63 - Adoption of rules for management of fund and disbursement of benefits.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-742.63",
+      "term": "Conservancy district"
+    },
+    {
+      "definition": "(8) \"Law enforcement officer\" means an officer commissioned to make arrests, execute warrants, and preserve the peace upon lands under the control of the governmental entity granting the commission.",
+      "id": "742.63-law-enforcement-officer",
+      "normalized": "law enforcement officer",
+      "scope": "(A) As used in this section:",
+      "section": "742.63",
+      "source_title": "Section 742.63 - Adoption of rules for management of fund and disbursement of benefits.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-742.63",
+      "term": "Law enforcement officer"
+    },
+    {
+      "definition": "(9) \"Department of natural resources law enforcement officer\" includes a forest-fire investigator appointed pursuant to section 1503.09 of the Revised Code, a wildlife officer designated pursuant to section 1531.13 of the Revised Code and a natural resources officer appointed pursuant to section 1501.24 of the Revised Code.",
+      "id": "742.63-department-of-natural-resources-law-enforcement-officer",
+      "normalized": "department of natural resources law enforcement officer",
+      "scope": "(A) As used in this section:",
+      "section": "742.63",
+      "source_title": "Section 742.63 - Adoption of rules for management of fund and disbursement of benefits.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-742.63",
+      "term": "Department of natural resources law enforcement officer"
+    },
+    {
+      "definition": "(10) \"Retirement eligibility date\" means the last day of the month in which a deceased member would have first become eligible, had the member lived, for the retirement pension provided under section 145.332 , Chapter 145., 521., or 741., division (C)(1) of section 742.37 , or division (A)(1) of section 5505.17 of the Revised Code or provided by a retirement system operated by a municipal corporation.",
+      "id": "742.63-retirement-eligibility-date",
+      "normalized": "retirement eligibility date",
+      "scope": "(A) As used in this section:",
+      "section": "742.63",
+      "source_title": "Section 742.63 - Adoption of rules for management of fund and disbursement of benefits.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-742.63",
+      "term": "Retirement eligibility date"
+    },
+    {
+      "definition": "(11) \"Death benefit amount\" means an amount equal to the full monthly salary received by a deceased member prior to death plus any increases in salary that would have been granted the deceased member.",
+      "id": "742.63-death-benefit-amount",
+      "normalized": "death benefit amount",
+      "scope": "(A) As used in this section:",
+      "section": "742.63",
+      "source_title": "Section 742.63 - Adoption of rules for management of fund and disbursement of benefits.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-742.63",
+      "term": "Death benefit amount"
+    },
+    {
+      "definition": "(12) \"Killed in the line of duty\" means either of the following:\n\n(a) Death in the line of duty;\n\n(b) Death from injury sustained in the line of duty, including heart attack or other fatal injury or illness caused while in the line of duty.",
+      "id": "742.63-killed-in-the-line-of-duty",
+      "normalized": "killed in the line of duty",
+      "scope": "(A) As used in this section:",
+      "section": "742.63",
+      "source_title": "Section 742.63 - Adoption of rules for management of fund and disbursement of benefits.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-742.63",
+      "term": "Killed in the line of duty"
+    },
+    {
+      "definition": "(13) \"Maximum pension eligibility date\" means the date on which a deceased member would have become eligible for the maximum annual retirement allowance or pension that may be paid to a member from the member's retirement system, as specified in section 145.33 , 145.332 , 742.37 , or 5505.17 of the Revised Code or as provided by a retirement system operated by a municipal corporation, had the member continued to accrue service credit from that system.\n\n(B) A spouse of a deceased member shall receive a death benefit each month equal to the full death benefit amount, provided that the deceased member was a firefighter or police officer killed in the line of duty and there are no surviving children eligible for a benefit under this section. The spouse shall receive this benefit during the spouse's natural life until the deceased member's maximum pension eligibility date, on which date the benefit provided under this division shall terminate.\n\n(C)(1) If a member killed in the line of duty as a firefighter or police officer is survived only by a child or children, the child or children shall receive a benefit each month equal to the full death benefit amount. If there is more than one surviving child, the benefit shall be divided equally among these children.\n\n(2) If the death benefit paid under this division is divided among two or more surviving children and any of the children become ineligible to continue receiving a portion of the benefit as provided in division (H) of this section, the full death benefit amount shall be paid to the remaining eligible child or divided among the eligible children so that the benefit paid to the remaining eligible child or children equals the full death benefit amount.\n\n(3) Notwithstanding divisions (C)(1) and (2) of this section, all death benefits paid under this division shall terminate on the deceased member's maximum pension eligibility date.\n\n(D) If a member killed in the line of duty as a firefighter or police officer is survived by both a spouse and a child or children, the monthly benefit provided shall be as follows:\n\n(1)(a) If there is a surviving spouse and one surviving child, the spouse shall receive an amount each month equal to one-half of the full death benefit amount and the child shall receive an amount equal to one-half of the full death benefit amount.\n\n(b) If the surviving spouse dies or the child becomes ineligible as provided in division (H) of this section, the surviving spouse or child remaining eligible shall receive the full death benefit amount.\n\n(2)(a) If there is a surviving spouse and more than one child, the spouse shall receive an amount each month equal to one-third of the full death benefit amount and the children shall receive an amount, equally divided among them, equal to two-thirds of the full death benefit amount.\n\n(b) If a spouse and more than one child each are receiving a death benefit under division (D)(2)(a) of this section and the spouse dies, the children shall receive an amount each month, equally divided among them, equal to the full death benefit amount.\n\n(c) If a spouse and more than one child each are receiving a benefit under division (D)(2)(a) of this section and any of the children becomes ineligible to receive a benefit as provided in division (H) of this section, the spouse and remaining eligible child or children shall receive a death benefit as follows:\n\n(i) If there are two or more remaining eligible children, the spouse shall receive an amount each month equal to one-third of the full death benefit amount and the children shall receive an amount each month, equally divided among them, equal to two-thirds of the full death benefit amount;\n\n(ii) If there is one remaining eligible child, the spouse shall receive an amount each month equal to one-half of the full death benefit amount, and the child shall receive an amount each month equal to one-half of the full death benefit amount.\n\n(d) If a spouse and more than one child each are receiving a benefit under division (D)(2)(a) of this section and all of the children become ineligible to receive a benefit as provided in division (H) of this section, the spouse shall receive the full death benefit amount.\n\n(3) Notwithstanding divisions (D)(1) and (2) of this section, death benefits paid under this division to a surviving spouse shall terminate on the member's maximum pension eligibility date. Death benefits paid to a surviving child or children shall terminate on the deceased member's maximum pension eligibility date unless earlier terminated pursuant to division (H) of this section.\n\n(E) If a member, on or after January 1, 1980, is killed in the line of duty as a firefighter or police officer and is survived by only a parent or parents dependent upon the member for support, the parent or parents shall receive an amount each month equal to the full death benefit amount. If there is more than one surviving parent dependent upon the deceased member for support, the death benefit amount shall be divided equally among the surviving parents. On the death of one of the surviving parents, the full death benefit amount shall be paid to the other parent.\n\n(F)(1) The following shall receive a monthly death benefit under this division:\n\n(a) A surviving spouse whose benefits are terminated in accordance with division (B) or (D)(3) of this section on the deceased member's maximum pension eligibility date, or who would qualify for a benefit under division (B) or (D) of this section except that the deceased member reached the member's maximum pension eligibility date prior to the member's death;\n\n(b) A qualified surviving spouse of a deceased member of or contributor to a police or firemen's relief and pension fund established under former Chapter 521. or 741. of the Revised Code who was a firefighter or police officer killed in the line of duty.\n\n(2) The monthly death benefit shall be seventy-five per cent of an amount equal to the monthly salary received by the deceased member prior to the member's death, plus any salary increases the deceased member would have received prior to the member's maximum pension eligibility date. The benefit shall terminate on the surviving spouse's death.\n\n(3) A benefit granted to a surviving spouse under division (F)(1)(b) of this section shall commence on the first day of the month immediately following receipt by the board of a completed application on a form provided by the board and any evidence the board may require to establish that the deceased spouse was killed in the line of duty.\n\n(G)(1) If there is not a surviving spouse eligible to receive a death benefit under division (F) of this section or the surviving spouse receiving a death benefit under that division dies, a surviving child or children whose benefits under division (C) or (D) of this section are or have been terminated pursuant to division (C)(3) or (D)(3) of this section or who would qualify for a benefit under division (C) or (D) of this section except that the deceased member reached the member's maximum pension eligibility date prior to the member's death shall receive a monthly death benefit under this division. The monthly death benefit shall be seventy-five per cent of an amount equal to the monthly salary received by the deceased member prior to the member's death, plus any salary increases the member would have received prior to the member's maximum pension eligibility date. If there is more than one surviving child, the benefit shall be divided equally among the surviving children.\n\n(2) If two or more surviving children each are receiving a benefit under this division and any of those children becomes ineligible to continue receiving a benefit as provided in division (H) of this section, the remaining eligible child or children shall receive an amount equal to seventy-five per cent of the monthly salary received by the deceased member prior to death, plus any salary increases the deceased member would have received prior to the member's maximum pension eligibility date. If there is more than one remaining eligible child, the benefit shall be divided equally among the eligible children.\n\n(H)(1) Except as provided in division (H)(3) of this section, before January 1, 2017, a death benefit paid to a surviving child under division (C), (D), or (G) of this section shall terminate on the earlier of the death of the child or the child attaining age eighteen, unless the child is unmarried, under age twenty-two, and is attending an institution of learning or training pursuant to a program designed to complete in each school year the equivalent of at least two-thirds of the full-time curriculum requirements of the institution, as determined by the trustees of the fund.\n\n(2) Except as provided in division (H)(3) of this section, effective January 1, 2017, a death benefit paid to a surviving child under division (C), (D), or (G) of this section shall terminate on the earlier of the death of the child, the child attaining twenty-two years of age, or marriage.\n\nBenefits to a surviving child who is at least eighteen years of age but under twenty-two years of age that under a former version of this section never commenced or were terminated due to a lack of attendance at an institution of learning or training and not commenced or resumed before January 1, 2017, shall commence or resume on the first day of the month immediately following receipt by the board of an application on a form provided by the board if the application is received on or before December 31, 2017. These benefits terminate on the child attaining twenty-two years of age.\n\n(3) If, regardless of age, a surviving child who at the time of the member's death because of physical or mental disability is totally dependent upon the deceased member for support at the time of death, the death benefit shall terminate on the child's death or when the child has recovered from the disability.\n\n(I) Acceptance of any death benefit under this section does not prohibit a spouse or child from receiving other benefits provided under the Ohio police and fire pension fund, the state highway patrol retirement system, the public employees retirement system, or a retirement system operated by a municipal corporation.\n\n(J) No person shall receive a benefit under this section if any of the following occur:\n\n(1) The member's accumulated contributions under this chapter or Chapter 145. or 5505. of the Revised Code are refunded unless the member had been a member of the public employees retirement system and had fewer than eighteen months of total service credit at the time of death.\n\n(2) In the case of a full-time park district ranger or patrol trooper, a full-time law enforcement officer of the department of natural resources, a full-time law enforcement officer of parks, waterway lands, or reservoir lands under the control of a municipal corporation, a full-time law enforcement officer of a conservancy district, a correction officer at an institution under the control of a county, group of counties, or municipal corporation, or a member of a retirement system operated by a municipal corporation who at the time of the member's death was a full-time law enforcement officer of parks, waterway lands, or reservoir lands under the control of the municipal corporation, the member died prior to April 9, 1981, in the case of a benefit under division (B), (C), or (D) of this section, or prior to January 1, 1980, in the case of a benefit under division (E) of this section.\n\n(3) In the case of a full-time department of public safety enforcement agent who prior to June 30, 1999, was a liquor control investigator of the department of public safety, the member died prior to December 23, 1986;\n\n(4) In the case of a full-time department of public safety enforcement agent other than an enforcement agent who, prior to June 30, 1999, was a liquor control investigator, the member died prior to June 30, 1999.\n\n(K) A surviving spouse whose benefit was terminated prior to June 30, 1999, due to remarriage shall receive a benefit under division (B), (D), or (F) of this section beginning on the first day of the month following receipt by the board of an application on a form provided by the board. The benefit amount shall be determined as of that date.\n\n(1) If the benefit will begin prior to the deceased member's maximum pension eligibility date, it shall be paid under division (B) or (D) of this section and shall terminate as provided in those divisions. A benefit paid to a surviving spouse under division (D) of this section shall be determined in accordance with that division, even if benefits paid to surviving children are reduced as a result.\n\n(2) If the benefit will begin on or after the deceased member's maximum pension eligibility date, it shall be paid under division (F) of this section and shall terminate as provided in that division. A benefit paid to a surviving spouse under division (F) of this section shall be determined in accordance with that division, even if benefits paid to surviving children are terminated as a result.\n\n(L)(1) If both of the following apply, death benefit payments to a surviving spouse or surviving child under division (B) or (C) of this section that under a former version of this section terminated before the effective date of this amendment shall resume in accordance with division (L)(2) of this section:\n\n(a) Death benefit payments under the applicable division terminated on the deceased member's retirement eligibility date under division (B), (C), or (D)(3) of this section as it existed at the time of the benefit termination;\n\n(b) The deceased member's maximum pension eligibility date is after the effective date of this amendment.\n\n(2) A surviving spouse or surviving child's death benefit payment that resumes under division (L) of this section shall be paid as provided in division (B) or (C) of this section, as applicable. The benefit shall continue until the deceased member's maximum pension eligibility date, at which time the benefit shall terminate.\n\nA surviving spouse or surviving child is not entitled to any additional payment under this division for the time between the deceased member's retirement eligibility date under a former version of this section and the effective date of this amendment .\n\n(3) Any monthly death benefit a surviving spouse or surviving child receives under division (F) of this section ceases during the time that the spouse or child receives benefit payments under division (L)(2) of this section. The monthly death benefit payable under division (F) of this section shall resume following the deceased member's maximum pension eligibility date in the manner specified in that division.\n\nLast updated March 9, 2022 at 12:14 PM",
+      "id": "742.63-maximum-pension-eligibility-date",
+      "normalized": "maximum pension eligibility date",
+      "scope": "(A) As used in this section:",
+      "section": "742.63",
+      "source_title": "Section 742.63 - Adoption of rules for management of fund and disbursement of benefits.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-742.63",
+      "term": "Maximum pension eligibility date"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "742.43",
+      "number": "742.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.43"
+    },
+    {
+      "kind": "section",
+      "label": "5505.50",
+      "number": "5505.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5505.50"
+    },
+    {
+      "kind": "section",
+      "label": "109.541",
+      "number": "109.541",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.541"
+    },
+    {
+      "kind": "section",
+      "label": "145.01",
+      "number": "145.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.01"
+    },
+    {
+      "kind": "section",
+      "label": "3772.01",
+      "number": "3772.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3772.01"
+    },
+    {
+      "kind": "section",
+      "label": "5743.45",
+      "number": "5743.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5743.45"
+    },
+    {
+      "kind": "section",
+      "label": "742.01",
+      "number": "742.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.01"
+    },
+    {
+      "kind": "section",
+      "label": "1503.09",
+      "number": "1503.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1503.09"
+    },
+    {
+      "kind": "section",
+      "label": "1531.13",
+      "number": "1531.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1531.13"
+    },
+    {
+      "kind": "section",
+      "label": "1501.24",
+      "number": "1501.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1501.24"
+    },
+    {
+      "kind": "section",
+      "label": "145.332",
+      "number": "145.332",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.332"
+    },
+    {
+      "kind": "section",
+      "label": "742.37",
+      "number": "742.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.37"
+    },
+    {
+      "kind": "section",
+      "label": "5505.17",
+      "number": "5505.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5505.17"
+    },
+    {
+      "kind": "section",
+      "label": "145.33",
+      "number": "145.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.33"
+    }
+  ],
+  "scraped": "2026-07-02T19:33:36+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-742.63",
+  "title": "Section 742.63 - Adoption of rules for management of fund and disbursement of benefits."
+}

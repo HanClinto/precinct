@@ -1,0 +1,417 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 4121.01 - Industrial commission - bureau of workers' compensation definitions.",
+      "number": "4121.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.02 - Industrial commission.",
+      "number": "4121.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.021 - Industrial commission operating fund.",
+      "number": "4121.021",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.021"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.03 - Chairperson - executive director - powers and duties generally.",
+      "number": "4121.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.04 - Industrial commission nominating council - initial appointments - challenges.",
+      "number": "4121.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.08 - Expenses.",
+      "number": "4121.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.09 - Official seal.",
+      "number": "4121.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.10 - Session of industrial commission continuous and open to public - records of proceedings.",
+      "number": "4121.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.11 - Bureau rules of procedure.",
+      "number": "4121.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.12 - Workers' compensation board of directors.",
+      "number": "4121.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.121 - Bureau of workers' compensation - appointment, powers and duties of administrator - chief operating officer.",
+      "number": "4121.121",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.121"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.122 - Discipline of commission and bureau employees.",
+      "number": "4121.122",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.122"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.123 - Workers' compensation board nominating committee.",
+      "number": "4121.123",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.123"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.125 - Monitoring performance of system.",
+      "number": "4121.125",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.125"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.126 - Conflicts of interest by board members or bureau employees.",
+      "number": "4121.126",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.126"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.127 - Transactions by fiduciary involving conflict of interest.",
+      "number": "4121.127",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.127"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.128 - Attorney general legal adviser of board.",
+      "number": "4121.128",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.128"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.129 - Audit, actuarial, and investment committees.",
+      "number": "4121.129",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.129"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.13 - Administrator of workers' compensation - powers and duties.",
+      "number": "4121.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.131 - Special investigation department access to crime databases.",
+      "number": "4121.131",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.131"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.14 - Investigating agent.",
+      "number": "4121.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.15 - Power to administer oaths, issue subpoenas, and compel attendance of witnesses.",
+      "number": "4121.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.16 - Witness attendance - fees and mileage.",
+      "number": "4121.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.17 - Examination of place of employment upon petition that same is unsafe.",
+      "number": "4121.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.19 - Record of proceedings.",
+      "number": "4121.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.20 - Depositions.",
+      "number": "4121.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.21 - Effective date of orders - time for compliance.",
+      "number": "4121.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.22 - Jurisdiction over places of employment.",
+      "number": "4121.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.23 - Petition for hearing by employer.",
+      "number": "4121.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.24 - No action to vacate allowed until after hearing.",
+      "number": "4121.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.25 - Action to set aside, vacate, or amend order.",
+      "number": "4121.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.26 - Statement of issues not adequately considered - stay of proceedings.",
+      "number": "4121.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.27 - Exclusive jurisdiction of supreme court.",
+      "number": "4121.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.28 - Order of bureau of workers' compensation not stayed by pendency of action.",
+      "number": "4121.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.29 - Priority to be given actions.",
+      "number": "4121.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.30 - Administrative rules.",
+      "number": "4121.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.31 - Joint adoption of administrative rules.",
+      "number": "4121.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.32 - Supplementing rules with operating manuals.",
+      "number": "4121.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.34 - District hearing officers - jurisdiction.",
+      "number": "4121.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.35 - Staff hearing officers - jurisdiction.",
+      "number": "4121.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.36 - Industrial commission hearing rules.",
+      "number": "4121.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.37 - Creation of division of safety and hygiene.",
+      "number": "4121.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.38 - Impairment evaluation.",
+      "number": "4121.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.39 - Administrator of workers' compensation - powers and duties.",
+      "number": "4121.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.40 - Service directors - investigators and field auditors - duties.",
+      "number": "4121.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.41 - Information on rights and responsibilities - optimum level of premium payment - complaints.",
+      "number": "4121.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.42 - In-service training programs.",
+      "number": "4121.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.43 - Compensation payments.",
+      "number": "4121.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.44 - Implementation of qualified health plan system and health partnership program - health care data program.",
+      "number": "4121.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.441 - Health care partnership program - adoption of rules.",
+      "number": "4121.441",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.441"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.442 - Health care quality advisory council.",
+      "number": "4121.442",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.442"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.443 - Summary suspension.",
+      "number": "4121.443",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.443"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.444 - Obtaining workers' compensation payments by deception prohibited.",
+      "number": "4121.444",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.444"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.446 - Selection of managed care organizations.",
+      "number": "4121.446",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.446"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.447 - Data security agreement.",
+      "number": "4121.447",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.447"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.45 - Workers' compensation ombudsperson system.",
+      "number": "4121.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.47 - Violating specific safety rule or employee welfare legislation.",
+      "number": "4121.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.471 - Limitation on action for employer's failure to comply with safety rule.",
+      "number": "4121.471",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.471"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.50 - Rules to implement coordinated services program for prescription drug abuse.",
+      "number": "4121.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.61 - Aiding rehabilitation of injured workers.",
+      "number": "4121.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.62 - Contracts for rendition of rehabilitation services.",
+      "number": "4121.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.63 - Living maintenance payments paid to claimants agreeing to rehabilitation.",
+      "number": "4121.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.64 - Appeals.",
+      "number": "4121.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.65 - Employer may furnish rehabilitation services.",
+      "number": "4121.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.66 - Rehabilitation services, counseling, training, and living maintenance payments paid from surplus fund.",
+      "number": "4121.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.67 - Administrative rules for payments for employing rehabilitated workers - wage loss compensation.",
+      "number": "4121.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.67"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.68 - Compensation and benefits to rehabilitation program participants.",
+      "number": "4121.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.68"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4121.69 - Compensation of professional, administrative, and managerial employees.",
+      "number": "4121.69",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.69"
+    }
+  ],
+  "scraped": "2026-07-02T20:04:15+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-4121",
+  "title": "Chapter 4121 - Industrial Commission; Bureau Of Workers' Compensation"
+}

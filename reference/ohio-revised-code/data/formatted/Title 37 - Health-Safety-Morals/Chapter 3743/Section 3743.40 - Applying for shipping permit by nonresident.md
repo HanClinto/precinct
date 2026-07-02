@@ -1,0 +1,32 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3743.40
+Scraped: 2026-07-02T20:00:53+00:00
+
+# Section 3743.40 - Applying for shipping permit by nonresident.
+
+**Effective:** December 29, 2023
+
+**Latest Legislation:** Senate Bill 131 - 134th General Assembly
+
+(A) Any person who resides in another state and who intends to ship fireworks into this state shall submit to the state fire marshal an application for a shipping permit. As used in this section, "fireworks" includes only 1.3G and 1.4G fireworks. The application shall be submitted prior to shipping fireworks into this state, shall be on a form prescribed by the state fire marshal, shall contain the information required by division (B) of this section and all information requested by the state fire marshal, and shall be accompanied by the fee and the documentation described in division (C) of this section.
+
+The state fire marshal shall prescribe a form for applications for shipping permits and make a copy of the form available, upon request, to persons who seek such a permit.
+
+(B) In an application for a shipping permit, the applicant shall specify the types of fireworks to be shipped into this state.
+
+(C) An application for a shipping permit shall be accompanied by a fee of two thousand seven hundred fifty dollars.
+
+An application for a shipping permit shall be accompanied by a certified copy or other copy acceptable to the state fire marshal of the applicant's license or permit issued in the applicant's state of residence and authorizing the applicant to engage in the manufacture, wholesale sale, or transportation of fireworks in that state, if that state issues such a license or permit, and by a statement by the applicant that the applicant understands and will abide by rules adopted by the state fire marshal pursuant to section 3743.58 of the Revised Code for transporting fireworks.
+
+(D) Except as otherwise provided in this division, and subject to section 3743.70 of the Revised Code, the state fire marshal shall issue a shipping permit to an applicant only if the state fire marshal determines that the applicant is a resident of another state and is the holder of a license or permit issued by that state authorizing it to engage in the manufacture, wholesale sale, or transportation of fireworks in that state, and the state fire marshal is satisfied that the application and documentation are complete and in conformity with this section and that the applicant will transport fireworks into this state in accordance with rules adopted by the state fire marshal pursuant to section 3743.58 of the Revised Code. The state fire marshal shall issue a shipping permit to an applicant if the applicant meets all of the requirements of this section for the issuance of a shipping permit except that the applicant does not hold a license or permit issued by the state of residence authorizing the applicant to engage in the manufacture, wholesale sale, or transportation of fireworks in that state because that state does not issue such a license or permit.
+
+(E) Each permit issued pursuant to this section shall contain a distinct number assigned to the particular permit holder, and contain the information described in division (B) of this section.
+
+The state fire marshal shall maintain a list of all persons issued shipping permits. In this list next to each person's name, the state fire marshal shall insert the date upon which the permit was issued and the information described in division (B) of this section.
+
+(F) A shipping permit is valid for one year from the date of issuance by the state fire marshal and only if the permit holder ships the fireworks directly into this state to the holder of a license issued under section 3743.03 or 3743.16 of the Revised Code or a license holder under section 3743.51 of the Revised Code who possesses a valid exhibition permit issued in accordance with section 3743.54 of the Revised Code and the fireworks shipped are to be used at the specifically permitted exhibition. The permit authorizes the permit holder to ship fireworks, as described in rules adopted by the state fire marshal under Chapter 119. of the Revised Code, directly to the holder of a license issued under section 3743.03 or 3743.16 of the Revised Code, and to possess the fireworks in this state while the permit holder is in the course of shipping them directly into this state.
+
+The holder of a shipping permit shall have the permit in the holder's possession in this state at all times while in the course of shipping the fireworks directly into this state. A shipping permit is not transferable or assignable.
+
+(G) The state fire marshal shall not require a person holding a shipping permit issued under this section to obtain a shipping permit pursuant to Chapter 4796. of the Revised Code.
+
+Last updated December 29, 2023 at 6:55 AM

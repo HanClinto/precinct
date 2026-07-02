@@ -1,0 +1,36 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Federally qualified health center look-alike\" means a public or not-for-profit health center that meets the eligibility requirements to receive a federal public health services grant under the \"Public Health Services Act,\" 117 Stat. 2020, 42 U.S.C. 254b, as amended, but does not receive grant funding.",
+      "id": "2305.2341-federally-qualified-health-center-look-alike",
+      "normalized": "federally qualified health center look-alike",
+      "scope": "(D) As used in this section:",
+      "section": "2305.2341",
+      "source_title": "Section 2305.2341 - Medical liability insurance reimbursement program.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2305.2341",
+      "term": "Federally qualified health center look-alike"
+    },
+    {
+      "definition": "(2) \"Free clinic\" means a nonprofit organization exempt from federal income taxation under section 501(c)(3) of the \"Internal Revenue Code of 1986,\" as amended, or a program component of a nonprofit organization, whose primary mission is to provide health care services for free or for a minimal administrative fee to individuals with limited resources. A free clinic facilitates the delivery of health care services through the use of volunteer health care professionals and voluntary care networks. For this purpose, a free clinic shall comply with all of the following:\n\n(a) If a free clinic does request a minimal administrative fee, a free clinic shall not deny an individual access to its health care services based on an individual's ability to pay the fee.\n\n(b) A free clinic shall not bill a patient for health care services rendered.\n\n(c) Free clinics shall not perform operations, as defined by divisions (A)(9) and (F)(1)(b) of section 2305.234 of the Revised Code.\n\nA clinic is not a free clinic if the clinic bills medicaid, medicare, or other third-party payers for health care services rendered at the clinic, and receives twenty-five per cent or more of the clinic's annual revenue from the third-party payments.\n\n(3) \"Health care professional\" and \"health care worker\" have the same meanings as in section 2305.234 of the Revised Code.",
+      "id": "2305.2341-free-clinic",
+      "normalized": "free clinic",
+      "scope": "(D) As used in this section:",
+      "section": "2305.2341",
+      "source_title": "Section 2305.2341 - Medical liability insurance reimbursement program.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2305.2341",
+      "term": "Free clinic"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2305.234",
+      "number": "2305.234",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.234"
+    }
+  ],
+  "scraped": "2026-07-02T19:43:12+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2305.2341",
+  "title": "Section 2305.2341 - Medical liability insurance reimbursement program."
+}

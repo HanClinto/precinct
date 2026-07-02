@@ -1,0 +1,333 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 1745.05 - Definitions.",
+      "number": "1745.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1745.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1745.06 - Relation to other law.",
+      "number": "1745.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1745.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1745.07 - Governing law; territorial application.",
+      "number": "1745.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1745.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1745.08 - Legal entity; perpetual existence; powers.",
+      "number": "1745.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1745.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1745.09 - Ownership and transfer of property.",
+      "number": "1745.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1745.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1745.10 - Liabilities.",
+      "number": "1745.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1745.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1745.11 - Assertion and defense of claims.",
+      "number": "1745.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1745.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1745.12 - Assets subject to judgment, execution and other process.",
+      "number": "1745.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1745.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1745.13 - Appointment of agent to receive service of process.",
+      "number": "1745.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1745.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1745.14 - Service of process.",
+      "number": "1745.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1745.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1745.15 - Action or proceeding not abated by change.",
+      "number": "1745.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1745.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1745.16 - Venue.",
+      "number": "1745.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1745.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1745.17 - Member not an agent.",
+      "number": "1745.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1745.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1745.18 - Approval by members.",
+      "number": "1745.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1745.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1745.19 - Notice requirements.",
+      "number": "1745.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1745.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1745.20 - Membership.",
+      "number": "1745.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1745.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1745.21 - Meetings of voting members; calling and place of meeting.",
+      "number": "1745.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1745.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1745.22 - Notice of meeting.",
+      "number": "1745.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1745.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1745.23 - Waiver of notice.",
+      "number": "1745.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1745.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1745.24 - Quorum for voting members' meeting.",
+      "number": "1745.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1745.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1745.25 - Voting.",
+      "number": "1745.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1745.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1745.26 - Special voting requirements for members or managers.",
+      "number": "1745.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1745.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1745.27 - Vote of members required for rescission or revocation.",
+      "number": "1745.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1745.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1745.28 - Action without a meeting.",
+      "number": "1745.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1745.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1745.29 - Admission, suspension, dismissal, or expulsion of members.",
+      "number": "1745.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1745.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1745.30 - Member's resignation.",
+      "number": "1745.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1745.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1745.31 - Membership interest not transferable.",
+      "number": "1745.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1745.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1745.32 - Selection of managers; management rights of managers.",
+      "number": "1745.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1745.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1745.33 - Authority and duties of manager; standard of care.",
+      "number": "1745.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1745.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1745.34 - Meetings of managers; notice.",
+      "number": "1745.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1745.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1745.35 - Quorum for managers' meeting.",
+      "number": "1745.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1745.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1745.36 - Executive and other committees of managers.",
+      "number": "1745.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1745.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1745.37 - Officers; authority and removal.",
+      "number": "1745.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1745.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1745.38 - Association mortgages.",
+      "number": "1745.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1745.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1745.39 - Right of a member or manager to information.",
+      "number": "1745.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1745.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1745.40 - Distributions prohibited; compensation and other permitted payments.",
+      "number": "1745.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1745.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1745.41 - Removal of managers and filling vacancies.",
+      "number": "1745.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1745.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1745.42 - Interest of member, manager or officer in contract.",
+      "number": "1745.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1745.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1745.43 - Indemnification; advancement of expenses.",
+      "number": "1745.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1745.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1745.44 - Sale or other disposition of assets.",
+      "number": "1745.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1745.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1745.45 - Judicial sale of assets.",
+      "number": "1745.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1745.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1745.46 - Merger or consolidation into domestic unincorporated nonprofit association.",
+      "number": "1745.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1745.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1745.461 - Merger or consolidation into entity other than domestic unincorporated nonprofit association.",
+      "number": "1745.461",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1745.461"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1745.47 - Agreement of merger or consolidation; vote by members.",
+      "number": "1745.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1745.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1745.48 - Effect of merger or consolidation.",
+      "number": "1745.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1745.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1745.49 - Effective date of merger or consolidation.",
+      "number": "1745.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1745.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1745.50 - Voluntary dissolution.",
+      "number": "1745.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1745.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1745.51 - Notice of voluntary dissolution.",
+      "number": "1745.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1745.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1745.52 - Effect of voluntary dissolution and authority and duties of managers during winding up.",
+      "number": "1745.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1745.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1745.53 - Jurisdiction of court over winding up of affairs of voluntarily dissolved unincorporated nonprofit association.",
+      "number": "1745.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1745.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1745.54 - Receiver for winding up affairs of association.",
+      "number": "1745.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1745.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1745.55 - Judicial dissolution.",
+      "number": "1745.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1745.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1745.56 - Liability of managers and members.",
+      "number": "1745.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1745.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1745.57 - Savings clause.",
+      "number": "1745.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1745.57"
+    }
+  ],
+  "scraped": "2026-07-02T19:39:27+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-1745",
+  "title": "Chapter 1745 - Uniform Unincorporated Nonprofit Association Act"
+}

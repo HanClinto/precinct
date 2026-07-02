@@ -1,0 +1,16 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4301.404
+Scraped: 2026-07-02T20:04:59+00:00
+
+# Section 4301.404 - Center for preservation of wild animals exemptions.
+
+**Effective:** March 23, 2022
+
+**Latest Legislation:** Senate Bill 102 - 134th General Assembly
+
+(A) As used in this section, "center for the preservation of wild animals" means a conservation center located on not less than five thousand acres of land that provides scientific, educational, and recreational resources to advance the conservation of animal populations and habitats.
+
+(B) Sections 4301.32 to 4301.391 and 4305.14 of the Revised Code and the provisions for local option elections and the election on the repeal of Ohio Constitution, Article XV, Section 9 in section 4303.29 of the Revised Code do not affect or prohibit the sale of beer or intoxicating liquor at a center for the preservation of wild animals if any permit holder for the premises operates pursuant to the authority of a D liquor permit issued pursuant to Chapter 4303. of the Revised Code.
+
+(C) Permit D-6 shall be issued to the holder of any D permit that authorizes the sale of intoxicating liquor and that is issued for a center for the preservation of wild animals to allow the sale of intoxicating liquor under the permit at the premises during the hours on Sunday specified in division (N) of section 4303.182 of the Revised Code, whether or not such sale has been authorized in an election held under section 4301.351 of the Revised Code. Notwithstanding section 4301.351 of the Revised Code, the holder of a D permit issued for a center for the preservation of wild animals may sell beer on Sunday whether or not the sale of intoxicating liquor has been authorized in an election held under that section.
+
+Last updated January 13, 2022 at 12:09 PM

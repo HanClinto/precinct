@@ -1,0 +1,202 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Public agency\" means any governmental corporation, unit, organization, instrumentality, or officer authorized by law to appropriate property in the courts of this state.",
+      "id": "163.01-public-agency",
+      "normalized": "public agency",
+      "scope": "As used in sections 163.01 to 163.22 of the Revised Code:",
+      "section": "163.01",
+      "source_title": "Section 163.01 - Appropriation of property definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-163.01",
+      "term": "Public agency"
+    },
+    {
+      "definition": "(B) \"Private agency\" means any corporation, firm, partnership, voluntary association, joint-stock association, or company that is not a public agency and that is authorized by law to appropriate property in the courts of this state.",
+      "id": "163.01-private-agency",
+      "normalized": "private agency",
+      "scope": "As used in sections 163.01 to 163.22 of the Revised Code:",
+      "section": "163.01",
+      "source_title": "Section 163.01 - Appropriation of property definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-163.01",
+      "term": "Private agency"
+    },
+    {
+      "definition": "(C) \"Agency\" means any public agency or private agency.",
+      "id": "163.01-agency",
+      "normalized": "agency",
+      "scope": "As used in sections 163.01 to 163.22 of the Revised Code:",
+      "section": "163.01",
+      "source_title": "Section 163.01 - Appropriation of property definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-163.01",
+      "term": "Agency"
+    },
+    {
+      "definition": "(D) \"Court\" means the court of common pleas or the probate court of any county in which the property sought to be appropriated is located in whole or in part.",
+      "id": "163.01-court",
+      "normalized": "court",
+      "scope": "As used in sections 163.01 to 163.22 of the Revised Code:",
+      "section": "163.01",
+      "source_title": "Section 163.01 - Appropriation of property definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-163.01",
+      "term": "Court"
+    },
+    {
+      "definition": "(E) \"Owner\" means any individual, partnership, association, or corporation having any estate, title, or interest in any real property sought to be appropriated.",
+      "id": "163.01-owner",
+      "normalized": "owner",
+      "scope": "As used in sections 163.01 to 163.22 of the Revised Code:",
+      "section": "163.01",
+      "source_title": "Section 163.01 - Appropriation of property definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-163.01",
+      "term": "Owner"
+    },
+    {
+      "definition": "(F) \"Real property,\" \"land,\" or \"property\" includes any estate, title, or interest in any real property that is authorized to be appropriated by the agency in question, unless the context otherwise requires.",
+      "id": "163.01-real-property",
+      "normalized": "real property,",
+      "scope": "As used in sections 163.01 to 163.22 of the Revised Code:",
+      "section": "163.01",
+      "source_title": "Section 163.01 - Appropriation of property definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-163.01",
+      "term": "Real property,"
+    },
+    {
+      "definition": "(F) \"Real property,\" \"land,\" or \"property\" includes any estate, title, or interest in any real property that is authorized to be appropriated by the agency in question, unless the context otherwise requires.",
+      "id": "163.01-land",
+      "normalized": "land,",
+      "scope": "As used in sections 163.01 to 163.22 of the Revised Code:",
+      "section": "163.01",
+      "source_title": "Section 163.01 - Appropriation of property definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-163.01",
+      "term": "land,"
+    },
+    {
+      "definition": "(F) \"Real property,\" \"land,\" or \"property\" includes any estate, title, or interest in any real property that is authorized to be appropriated by the agency in question, unless the context otherwise requires.",
+      "id": "163.01-property",
+      "normalized": "property",
+      "scope": "As used in sections 163.01 to 163.22 of the Revised Code:",
+      "section": "163.01",
+      "source_title": "Section 163.01 - Appropriation of property definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-163.01",
+      "term": "property"
+    },
+    {
+      "definition": "(G) \"Public utility\" has the same meaning as in section 4905.02 of the Revised Code and also includes a public utility owned or operated by one or more municipal corporations, an electric cooperative, and an agency holding a certificate of public convenience and necessity granted by the federal energy regulatory commission.",
+      "id": "163.01-public-utility",
+      "normalized": "public utility",
+      "scope": "As used in sections 163.01 to 163.22 of the Revised Code:",
+      "section": "163.01",
+      "source_title": "Section 163.01 - Appropriation of property definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-163.01",
+      "term": "Public utility"
+    },
+    {
+      "definition": "(H)(1) \"Public use\" does not include any taking that is for conveyance to a private commercial enterprise, economic development, or solely for the purpose of increasing public revenue, unless the property is conveyed or leased to one of the following:\n\n(a) A public utility, municipal power agency, or common carrier;\n\n(b) A private entity that occupies a port authority transportation facility or an incidental area within a publicly owned and occupied project;\n\n(c) A private entity when the agency that takes the property establishes by a preponderance of the evidence that the property is a blighted parcel or is included in a blighted area.\n\n(2) All of the following are presumed to be public uses: utility facilities, roads, sewers, water lines, public schools, public institutions of higher education, private institutions of higher education that are authorized to appropriate property under section 3333.08 of the Revised Code, public parks, government buildings, port authority transportation facilities, projects by an agency that is a public utility, and similar facilities and uses of land.",
+      "id": "163.01-public-use",
+      "normalized": "public use",
+      "scope": "As used in sections 163.01 to 163.22 of the Revised Code:",
+      "section": "163.01",
+      "source_title": "Section 163.01 - Appropriation of property definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-163.01",
+      "term": "Public use"
+    },
+    {
+      "definition": "(I) \"Electric cooperative\" has the same meaning as in section 4928.01 of the Revised Code.",
+      "id": "163.01-electric-cooperative",
+      "normalized": "electric cooperative",
+      "scope": "As used in sections 163.01 to 163.22 of the Revised Code:",
+      "section": "163.01",
+      "source_title": "Section 163.01 - Appropriation of property definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-163.01",
+      "term": "Electric cooperative"
+    },
+    {
+      "definition": "(J) \"Good faith offer\" means the written offer that an agency that is appropriating property must make to the owner of the property pursuant to division (B) of section 163.04 of the Revised Code before commencing an appropriation proceeding.",
+      "id": "163.01-good-faith-offer",
+      "normalized": "good faith offer",
+      "scope": "As used in sections 163.01 to 163.22 of the Revised Code:",
+      "section": "163.01",
+      "source_title": "Section 163.01 - Appropriation of property definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-163.01",
+      "term": "Good faith offer"
+    },
+    {
+      "definition": "(K) \"Goodwill\" means the calculable benefits that accrue to a business as a result of its location, reputation for dependability, skill or quality, and any other circumstances that result in probable retention of old, or acquisition of new, patronage.",
+      "id": "163.01-goodwill",
+      "normalized": "goodwill",
+      "scope": "As used in sections 163.01 to 163.22 of the Revised Code:",
+      "section": "163.01",
+      "source_title": "Section 163.01 - Appropriation of property definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-163.01",
+      "term": "Goodwill"
+    },
+    {
+      "definition": "(L) \"Municipal power agency\" has the same meaning as in section 3734.058 of the Revised Code.",
+      "id": "163.01-municipal-power-agency",
+      "normalized": "municipal power agency",
+      "scope": "As used in sections 163.01 to 163.22 of the Revised Code:",
+      "section": "163.01",
+      "source_title": "Section 163.01 - Appropriation of property definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-163.01",
+      "term": "Municipal power agency"
+    },
+    {
+      "definition": "(M) \"Port authority transportation facility\" means any facility developed, controlled, or operated by a port authority for the purpose of providing passenger, cargo, or freight transportation services, such as airports, maritime ports, rail facilities, transit facilities, and support facilities directly related to any airport, maritime port, rail facility, or transit facility.",
+      "id": "163.01-port-authority-transportation-facility",
+      "normalized": "port authority transportation facility",
+      "scope": "As used in sections 163.01 to 163.22 of the Revised Code:",
+      "section": "163.01",
+      "source_title": "Section 163.01 - Appropriation of property definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-163.01",
+      "term": "Port authority transportation facility"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "163.01",
+      "number": "163.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-163.01"
+    },
+    {
+      "kind": "section",
+      "label": "163.22",
+      "number": "163.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-163.22"
+    },
+    {
+      "kind": "section",
+      "label": "4905.02",
+      "number": "4905.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.02"
+    },
+    {
+      "kind": "section",
+      "label": "3333.08",
+      "number": "3333.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.08"
+    },
+    {
+      "kind": "section",
+      "label": "4928.01",
+      "number": "4928.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.01"
+    },
+    {
+      "kind": "section",
+      "label": "163.04",
+      "number": "163.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-163.04"
+    },
+    {
+      "kind": "section",
+      "label": "3734.058",
+      "number": "3734.058",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.058"
+    }
+  ],
+  "scraped": "2026-07-02T19:32:07+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-163.01",
+  "title": "Section 163.01 - Appropriation of property definitions."
+}

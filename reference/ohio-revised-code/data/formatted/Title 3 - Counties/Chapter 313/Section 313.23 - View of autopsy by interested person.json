@@ -1,0 +1,36 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Interested person\" means an employee of the coroner's office, a physician, dentist, nurse, professor at a medical school, medical student, medical resident, nursing student, an employee of a procurement organization, a member of a law enforcement agency, or any other person the coroner, in the coroner's discretion, determines is appropriate.",
+      "id": "313.23-interested-person",
+      "normalized": "interested person",
+      "scope": "(A) As used in this section:",
+      "section": "313.23",
+      "source_title": "Section 313.23 - View of autopsy by interested person.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-313.23",
+      "term": "Interested person"
+    },
+    {
+      "definition": "(2) \"Procurement organization\" has the same meaning as in section 2108.01 of the Revised Code.\n\n(B) The coroner may allow an interested person to view an autopsy of a decedent without the interested person receiving permission to view the decedent's autopsy from the decedent's next of kin.\n\n(C) No person who is under eighteen years of age and who is not an interested person may view an autopsy.",
+      "id": "313.23-procurement-organization",
+      "normalized": "procurement organization",
+      "scope": "(A) As used in this section:",
+      "section": "313.23",
+      "source_title": "Section 313.23 - View of autopsy by interested person.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-313.23",
+      "term": "Procurement organization"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2108.01",
+      "number": "2108.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.01"
+    }
+  ],
+  "scraped": "2026-07-02T19:32:44+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-313.23",
+  "title": "Section 313.23 - View of autopsy by interested person."
+}

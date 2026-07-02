@@ -1,0 +1,393 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 149.01 - Official reports - number - filing.",
+      "number": "149.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.011 - Documents, reports, and records definitions.",
+      "number": "149.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.011"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.02 - Annual reports in triplicate.",
+      "number": "149.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.03 - Governor's authority as to reports.",
+      "number": "149.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.04 - Printing of messages and inaugural addresses.",
+      "number": "149.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.05 - Number of reports printed.",
+      "number": "149.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.07 - Final journals available to members of general assembly.",
+      "number": "149.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.09 - Distributing pamphlet laws.",
+      "number": "149.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.091 - Publishing and distributing session laws.",
+      "number": "149.091",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.091"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.10 - Submission of audit reports.",
+      "number": "149.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.11 - Distributing publications intended for general public use - record retention or destruction schedules.",
+      "number": "149.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.12 - Distributing legislative publications to libraries.",
+      "number": "149.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.16 - Secretary of state or state library board shall distribute law and journals.",
+      "number": "149.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.17 - Highway maps of Ohio.",
+      "number": "149.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.21 - Uniform electronic legal material act - definitions; applicability.",
+      "number": "149.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.22 - Designation of official record.",
+      "number": "149.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.23 - Authentication.",
+      "number": "149.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.24 - Preservation and security.",
+      "number": "149.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.25 - Implementation.",
+      "number": "149.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.26 - Construction.",
+      "number": "149.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.27 - Construction with other laws.",
+      "number": "149.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.30 - Public functions of Ohio history connection.",
+      "number": "149.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.301 - Ohio historic site preservation advisory board.",
+      "number": "149.301",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.301"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.302 - National museum of Afro-American history and culture.",
+      "number": "149.302",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.302"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.304 - Historic homestead register program.",
+      "number": "149.304",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.304"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.305 - Ohio African-American hall of fame.",
+      "number": "149.305",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.305"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.306 - Ohio African-American hall of fame governing board.",
+      "number": "149.306",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.306"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.307 - Ohio history license plate contribution fund.",
+      "number": "149.307",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.307"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.308 - Ohio history fund.",
+      "number": "149.308",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.308"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.309 - Ohio commission for the United States semiquincentennial.",
+      "number": "149.309",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.309"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.3010 - American-Indian burial sites.",
+      "number": "149.3010",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.3010"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.31 - Archives administration for the state.",
+      "number": "149.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.311 - Application for rehabilitation tax credit certificate.",
+      "number": "149.311",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.311"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.33 - State records program - office of state records administration.",
+      "number": "149.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.331 - State record administration program.",
+      "number": "149.331",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.331"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.332 - Records management programs in the legislative and judicial branches of state government.",
+      "number": "149.332",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.332"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.333 - Applying for record disposal or transfer.",
+      "number": "149.333",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.333"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.34 - Records management procedures.",
+      "number": "149.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.35 - Laws prohibiting the destruction of records.",
+      "number": "149.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.351 - Prohibiting destruction or damage of records.",
+      "number": "149.351",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.351"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.352 - Replevin of public records.",
+      "number": "149.352",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.352"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.36 - Authority not restricted.",
+      "number": "149.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.38 - County records commission.",
+      "number": "149.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.381 - Review of applications for disposal of records or schedules of records retention and disposition by history connection.",
+      "number": "149.381",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.381"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.39 - Records commission - municipal corporation.",
+      "number": "149.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.40 - Making only necessary records.",
+      "number": "149.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.41 - School district records commission - educational service center records commission.",
+      "number": "149.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.411 - Library records commission.",
+      "number": "149.411",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.411"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.412 - Special taxing district records commission.",
+      "number": "149.412",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.412"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.42 - Township records commission.",
+      "number": "149.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.43 - Availability of public records for inspection and copying.",
+      "number": "149.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.431 - Records of governmental or nonprofit organizations receiving governmental funds.",
+      "number": "149.431",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.431"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.432 - Releasing library record or patron information.",
+      "number": "149.432",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.432"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.433 - Exempting security and infrastructure records.",
+      "number": "149.433",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.433"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.434 - Public offices to maintain employee database.",
+      "number": "149.434",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.434"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.435 - Confidentiality of records regarding abused children.",
+      "number": "149.435",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.435"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.436 - Written request for records for occupant of school vehicle involved in accident.",
+      "number": "149.436",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.436"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.44 - Rules and procedures for operation of state records centers and archival institutions holding public records.",
+      "number": "149.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.45 - Public office redaction of personal information from internet.",
+      "number": "149.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.52 - Filing articles of dedication.",
+      "number": "149.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.53 - Archaeological and historic survey and salvage work.",
+      "number": "149.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.54 - Archaeological and historic survey and salvage work permit.",
+      "number": "149.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.56 - Program to locate, identify, and evaluate abandoned property and other resources in Lake Erie.",
+      "number": "149.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 149.60 - Ohio Ireland trade commission.",
+      "number": "149.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.60"
+    }
+  ],
+  "scraped": "2026-07-02T19:31:59+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-149",
+  "title": "Chapter 149 - Documents, Reports, and Records"
+}

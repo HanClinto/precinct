@@ -1,0 +1,108 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Applicant\" means:\n\n(1) In the case of an individual medicare supplement policy, the person who seeks to contract for insurance benefits; and\n\n(2) In the case of a group medicare supplement policy, the proposed certificate holder.",
+      "id": "3923.33-applicant",
+      "normalized": "applicant",
+      "scope": "As used in section 3923.33 and sections 3923.331 to 3923.339 of the Revised Code:",
+      "section": "3923.33",
+      "source_title": "Section 3923.33 - Medicare supplement policy definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3923.33",
+      "term": "Applicant"
+    },
+    {
+      "definition": "(B) \"Certificate\" means, for purposes of section 3923.33 and sections 3923.331 to 3923.339 of the Revised Code, any certificate delivered or issued for delivery in this state under a group medicare supplement policy.",
+      "id": "3923.33-certificate",
+      "normalized": "certificate",
+      "scope": "As used in section 3923.33 and sections 3923.331 to 3923.339 of the Revised Code:",
+      "section": "3923.33",
+      "source_title": "Section 3923.33 - Medicare supplement policy definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3923.33",
+      "term": "Certificate"
+    },
+    {
+      "definition": "(C) \"Certificate form\" means the form on which the certificate is delivered or issued for delivery by the issuer.",
+      "id": "3923.33-certificate-form",
+      "normalized": "certificate form",
+      "scope": "As used in section 3923.33 and sections 3923.331 to 3923.339 of the Revised Code:",
+      "section": "3923.33",
+      "source_title": "Section 3923.33 - Medicare supplement policy definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3923.33",
+      "term": "Certificate form"
+    },
+    {
+      "definition": "(D) \"Direct response insurance policy\" means a medicare supplement policy or certificate marketed without the direct involvement of an insurance agent.",
+      "id": "3923.33-direct-response-insurance-policy",
+      "normalized": "direct response insurance policy",
+      "scope": "As used in section 3923.33 and sections 3923.331 to 3923.339 of the Revised Code:",
+      "section": "3923.33",
+      "source_title": "Section 3923.33 - Medicare supplement policy definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3923.33",
+      "term": "Direct response insurance policy"
+    },
+    {
+      "definition": "(E) \"Issuer\" includes insurance companies, fraternal benefit societies, health insuring corporations, and any other entities delivering or issuing for delivery in this state medicare supplement policies or certificates.",
+      "id": "3923.33-issuer",
+      "normalized": "issuer",
+      "scope": "As used in section 3923.33 and sections 3923.331 to 3923.339 of the Revised Code:",
+      "section": "3923.33",
+      "source_title": "Section 3923.33 - Medicare supplement policy definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3923.33",
+      "term": "Issuer"
+    },
+    {
+      "definition": "(F) \"Medicare\" means the \"Health Insurance for the Aged Act,\" Title XVIII of the Social Security Amendments of 1965, 79 Stat. 291, 42 U.S.C.A. 1395, as then constituted or later amended.",
+      "id": "3923.33-medicare",
+      "normalized": "medicare",
+      "scope": "As used in section 3923.33 and sections 3923.331 to 3923.339 of the Revised Code:",
+      "section": "3923.33",
+      "source_title": "Section 3923.33 - Medicare supplement policy definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3923.33",
+      "term": "Medicare"
+    },
+    {
+      "definition": "(G) \"Medicare supplement policy\" means a group or individual policy of sickness and accident insurance or a subscriber contract of health insuring corporations or any other issuers, other than a policy issued pursuant to a contract under section 1876 of the \"Social Security Act,\" 49 Stat. 620 (1935), 42 U.S.C.A., 1395mm, as amended, or an issued policy under any demonstration project specified in 42 U.S.C.A. 1395ss(g)(1), which is advertised, marketed, or designed primarily as a supplement to reimbursements under medicare for the hospital, medical, or surgical expenses of persons eligible for medicare.",
+      "id": "3923.33-medicare-supplement-policy",
+      "normalized": "medicare supplement policy",
+      "scope": "As used in section 3923.33 and sections 3923.331 to 3923.339 of the Revised Code:",
+      "section": "3923.33",
+      "source_title": "Section 3923.33 - Medicare supplement policy definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3923.33",
+      "term": "Medicare supplement policy"
+    },
+    {
+      "definition": "(H) \"Policy form\" means the form on which the policy is delivered or issued for delivery by the issuer.",
+      "id": "3923.33-policy-form",
+      "normalized": "policy form",
+      "scope": "As used in section 3923.33 and sections 3923.331 to 3923.339 of the Revised Code:",
+      "section": "3923.33",
+      "source_title": "Section 3923.33 - Medicare supplement policy definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3923.33",
+      "term": "Policy form"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3923.33",
+      "number": "3923.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3923.33"
+    },
+    {
+      "kind": "section",
+      "label": "3923.331",
+      "number": "3923.331",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3923.331"
+    },
+    {
+      "kind": "section",
+      "label": "3923.339",
+      "number": "3923.339",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3923.339"
+    }
+  ],
+  "scraped": "2026-07-02T20:02:47+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3923.33",
+  "title": "Section 3923.33 - Medicare supplement policy definitions."
+}

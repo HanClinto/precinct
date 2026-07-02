@@ -1,0 +1,18 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3321.19
+Scraped: 2026-07-02T19:48:59+00:00
+
+# Section 3321.19 - Examination into cases of truancy - failure of parent, guardian or responsible person to cause child's attendance at school.
+
+**Effective:** September 30, 2025
+
+**Latest Legislation:** House Bill 96 - 136th General Assembly
+
+(A) As used in this section and section 3321.16 of the Revised Code, "habitual truant" has the same meaning as in section 2151.011 of the Revised Code.
+
+(B) When a board of education of any city, exempted village, local, joint vocational, or cooperative education school district or the governing board of any educational service center determines that a student in its district has been truant and the parent, guardian, or other person having care of the child has failed to cause the student's attendance at school, the board may require the parent, guardian, or other person having care of the child pursuant to division (B) of this section to attend an educational program established pursuant to rules adopted by the department of education and workforce for the purpose of encouraging parental involvement in compelling the attendance of the child at school.
+
+No parent, guardian, or other person having care of a child shall fail without good cause to attend an educational program described in this division if the parent, guardian, or other person has been served notice pursuant to division (C) of this section.
+
+(C) On the request of the superintendent of schools, the superintendent of any educational service center, the board of education of any city, exempted village, local, joint vocational, or cooperative education school district, or the governing board of any educational service center or when it otherwise comes to the notice of the attendance officer or other appropriate officer of the school district, the attendance officer or other appropriate officer shall examine into any case of supposed truancy within the district and shall warn the child, if found truant, and the child's parent, guardian, or other person having care of the child, in writing, of the legal consequences of being truant. When any child of compulsory school age, in violation of law, is not attending school, the attendance or other appropriate officer shall notify the parent, guardian, or other person having care of that child of the fact, and require the parent, guardian, or other person to cause the child to attend school immediately. The parent, guardian, or other person having care of the child shall cause the child's attendance at school. Upon the failure of the parent, guardian, or other person having care of the child to do so, the attendance officer or other appropriate officer, if so directed by the superintendent, the district board, or the educational service center governing board, shall send notice requiring the attendance of that parent, guardian, or other person at a parental education program established pursuant to division (B) of this section and may file a complaint against the parent, guardian, or other person having care of the child in any court of competent jurisdiction.
+
+Last updated July 23, 2025 at 12:00 PM

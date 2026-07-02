@@ -1,0 +1,933 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 505.01 - Board of township trustees - election and term.",
+      "number": "505.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.011 - Trustee may serve as volunteer fireman or policeman.",
+      "number": "505.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.011"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.012 - Appointment or election of board member to district governing body.",
+      "number": "505.012",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.012"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.02 - Bond of township trustees.",
+      "number": "505.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.03 - Additional or new bond.",
+      "number": "505.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.031 - Appointment of township administrator.",
+      "number": "505.031",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.031"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.032 - Powers and duties of township administrator.",
+      "number": "505.032",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.032"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.04 - Annual inventory.",
+      "number": "505.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.05 - Program recognizing outstanding employee performance.",
+      "number": "505.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.06 - Abatement of building nuisances.",
+      "number": "505.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.07 - Settlement of court action - zoning issue subject to referendum.",
+      "number": "505.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.08 - Emergency contracts.",
+      "number": "505.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.09 - Duty of trustees at elections.",
+      "number": "505.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.10 - Acceptance and disposition of property.",
+      "number": "505.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.101 - Contracts with state or other public agency.",
+      "number": "505.101",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.101"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.102 - Real property transactions with senior citizens' organization.",
+      "number": "505.102",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.102"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.104 - Exchange or transfer of real property without bidding.",
+      "number": "505.104",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.104"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.105 - Property recovered by police department.",
+      "number": "505.105",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.105"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.106 - Neglect or refuse to deposit property in possession of a person arrested.",
+      "number": "505.106",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.106"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.107 - Restoration of property to claimant or accused person.",
+      "number": "505.107",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.107"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.108 - Disposition of unclaimed property.",
+      "number": "505.108",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.108"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.109 - Payment of storage and selling expenses.",
+      "number": "505.109",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.109"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.1010 - Purchase of property at auction.",
+      "number": "505.1010",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.1010"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.11 - Leases of real property or mining rights in township.",
+      "number": "505.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.12 - Solid waste facilities.",
+      "number": "505.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.13 - Operation of scow or lighter.",
+      "number": "505.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.14 - Residence for physician - tax levy - election - anticipatory notes.",
+      "number": "505.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.15 - Airports, landing fields, or other air navigation facilities.",
+      "number": "505.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.16 - Harbor masters.",
+      "number": "505.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.17 - Regulations for engine noise and vehicle parking.",
+      "number": "505.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.171 - Drive-in theater screens.",
+      "number": "505.171",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.171"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.172 - Noise control.",
+      "number": "505.172",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.172"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.173 - Storage of junk motor vehicles.",
+      "number": "505.173",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.173"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.18 - Joint issue of bonds.",
+      "number": "505.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.19 - Annual meeting of trustees of divided township.",
+      "number": "505.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.20 - Tax for drilling oil or gas well.",
+      "number": "505.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.21 - Copy of Revised Code for township officers.",
+      "number": "505.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.22 - Volunteer fire department definitions.",
+      "number": "505.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.23 - Insurance for members of volunteer department - joint fire department.",
+      "number": "505.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.24 - Compensation of trustees.",
+      "number": "505.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.241 - Dues for township government association.",
+      "number": "505.241",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.241"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.25 - Additional compensation for certain trustees.",
+      "number": "505.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.26 - Additional powers of trustees.",
+      "number": "505.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.261 - Establishing township park.",
+      "number": "505.261",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.261"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.262 - Township buildings finance and construction.",
+      "number": "505.262",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.262"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.263 - Water supply improvement contracts.",
+      "number": "505.263",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.263"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.264 - Evaluating township buildings for energy conservation measures.",
+      "number": "505.264",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.264"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.265 - Issuing securities for payment of accrued liability to police and firemen's disability and pension fund.",
+      "number": "505.265",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.265"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.266 - Procedure for establishing or increasing concentrated animal feeding facility.",
+      "number": "505.266",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.266"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.267 - Lease-purchase agreements.",
+      "number": "505.267",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.267"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.27 - Collection, transfer, and disposal of solid wastes.",
+      "number": "505.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.28 - Creation of waste disposal district.",
+      "number": "505.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.29 - Tax levy for waste and leaf disposal service - service charge.",
+      "number": "505.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.30 - Liability for damages.",
+      "number": "505.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.31 - Collection of service charges - waste collection fund - use of fund.",
+      "number": "505.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.32 - Compensation of fiscal officer - bond.",
+      "number": "505.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.33 - Delinquent list certified to county auditor - collection.",
+      "number": "505.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.34 - Compounding or release of claims due from banks.",
+      "number": "505.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.35 - Expenditure of funds.",
+      "number": "505.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.36 - Bond issue for viaduct construction or improvement.",
+      "number": "505.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.37 - Fire protection services.",
+      "number": "505.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.371 - Joint fire district creation.",
+      "number": "505.371",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.371"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.372 - Bond of clerk of the board of fire district trustees.",
+      "number": "505.372",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.372"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.373 - Adoption of fire code.",
+      "number": "505.373",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.373"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.374 - Fire code violations.",
+      "number": "505.374",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.374"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.375 - Fire and ambulance district creation.",
+      "number": "505.375",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.375"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.376 - Bids on fire and ambulance district contracts.",
+      "number": "505.376",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.376"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.377 - Classification of volunteer firefighters.",
+      "number": "505.377",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.377"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.38 - Appointment of firefighting personnel.",
+      "number": "505.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.381 - Criminal records check.",
+      "number": "505.381",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.381"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.39 - Tax levy for fire protection and other services.",
+      "number": "505.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.391 - Assessment of charge for false alarm from an automatic fire alarm system at a commercial establishment.",
+      "number": "505.391",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.391"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.40 - Bond issue for fire protection measures limited.",
+      "number": "505.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.401 - Issuing bonds for firefighting purposes.",
+      "number": "505.401",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.401"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.41 - Members of volunteer fire companies are township employees.",
+      "number": "505.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.42 - Fire equipment fund.",
+      "number": "505.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.43 - Police protection.",
+      "number": "505.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.431 - Resolution to provide police protection to other public entity.",
+      "number": "505.431",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.431"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.432 - Contract with port authority or Chautauqua assembly.",
+      "number": "505.432",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.432"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.44 - Contracts for ambulance service.",
+      "number": "505.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.441 - Collection and retention of fees for service runs.",
+      "number": "505.441",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.441"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.45 - Schooling of officers and firemen of fire department.",
+      "number": "505.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.46 - Township trustees may construct and maintain footbridges.",
+      "number": "505.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.47 - Payment of costs of footbridges - approval of tax levy required.",
+      "number": "505.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.48 - Township police district.",
+      "number": "505.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.481 - Unincorporated territory may be added to district - contents of ballot.",
+      "number": "505.481",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.481"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.482 - Joint township police district board.",
+      "number": "505.482",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.482"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.483 - Resolution to join existing joint police district.",
+      "number": "505.483",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.483"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.484 - Performance bond.",
+      "number": "505.484",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.484"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.49 - Rules necessary for operation of township police district.",
+      "number": "505.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.491 - Police officer guilty in performance of official duty.",
+      "number": "505.491",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.491"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.492 - Hearing of charge against police officer.",
+      "number": "505.492",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.492"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.493 - Suspension of officer pending hearing.",
+      "number": "505.493",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.493"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.494 - Subpoena power.",
+      "number": "505.494",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.494"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.495 - Oaths - compelling testimony.",
+      "number": "505.495",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.495"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.50 - Equipment and buildings for police protection.",
+      "number": "505.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.51 - Police district or joint police district tax levy.",
+      "number": "505.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.511 - Fee for false alarms resulting from malfunction of same commercial or residential security alarm system.",
+      "number": "505.511",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.511"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.52 - Police equipment fund.",
+      "number": "505.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.53 - Police district and joint police district notes.",
+      "number": "505.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.54 - Additional training or skills for police personnel.",
+      "number": "505.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.541 - Parking enforcement unit.",
+      "number": "505.541",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.541"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.55 - Dissolution of township police district.",
+      "number": "505.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.551 - Withdrawal from and dissolution of joint police district.",
+      "number": "505.551",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.551"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.56 - Excise tax on transactions by which lodging is furnished to transient guests.",
+      "number": "505.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.57 - Use of proceeds of lodging tax receipts by local school district.",
+      "number": "505.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.58 - Contributions to convention and visitors' bureaus from general fund.",
+      "number": "505.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.59 - Withdrawal of unincorporated territory from transit authority; tax levy to provide transportation services.",
+      "number": "505.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.60 - Health insurance for township officers and employees.",
+      "number": "505.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.601 - Reimbursement of officers and employees for health care premiums.",
+      "number": "505.601",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.601"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.602 - Group life insurance for township officers and employees.",
+      "number": "505.602",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.602"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.603 - Benefits to officers and employees through a cafeteria plan or health and wellness benefit program.",
+      "number": "505.603",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.603"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.61 - Liability insurance for police personnel.",
+      "number": "505.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.62 - Appropriations for potential or pending annexation actions.",
+      "number": "505.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.63 - Liability insurance for firefighting personnel.",
+      "number": "505.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.64 - Authorizing use of township credit card.",
+      "number": "505.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.66 - Snow removal on public school property.",
+      "number": "505.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.67 - Voluntary motor vehicle decal registration program.",
+      "number": "505.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.67"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.69 - Acquire, rehabilitate, and develop rail property and rail service.",
+      "number": "505.69",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.69"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.70 - Financial assistance to and cooperate with other agencies for senior citizen services.",
+      "number": "505.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.701 - Community improvement corporations.",
+      "number": "505.701",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.701"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.702 - Neighborhood crime watch programs.",
+      "number": "505.702",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.702"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.703 - Funds to county office of economic development.",
+      "number": "505.703",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.703"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.704 - Participation and contribution to regional cooperation and improvement organization.",
+      "number": "505.704",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.704"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.705 - Appropriations for water or sewerage systems.",
+      "number": "505.705",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.705"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.706 - Money for providing and maintaining services and facilities for senior citizens.",
+      "number": "505.706",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.706"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.707 - Appropriations for organization serving community purpose.",
+      "number": "505.707",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.707"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.71 - Joint ambulance district.",
+      "number": "505.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.72 - Joint ambulance district employees.",
+      "number": "505.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.721 - Joint ambulance district - reasonable charges for use of services.",
+      "number": "505.721",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.721"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.73 - Model or standard building code.",
+      "number": "505.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.74 - Model or standard building code violations.",
+      "number": "505.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.74"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.75 - Township residential building code.",
+      "number": "505.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.76 - Availability of township residential building code.",
+      "number": "505.76",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.76"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.77 - Building prohibitions.",
+      "number": "505.77",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.77"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.78 - Effective date of building regulations.",
+      "number": "505.78",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.78"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.79 - Collection and disposal of tree leaves.",
+      "number": "505.79",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.79"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.80 - Encouraging economic development of township or area through promotion of tourism.",
+      "number": "505.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.80"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.82 - Emergency resolutions.",
+      "number": "505.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.82"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.84 - Reasonable charges for use of ambulance or emergency medical services.",
+      "number": "505.84",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.84"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.85 - Disposal, storage or impoundment of motor vehicles.",
+      "number": "505.85",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.85"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.86 - Removal, repair or securance of insecure, unsafe buildings or structures.",
+      "number": "505.86",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.86"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.87 - Abatement, control, or removal of vegetation, garbage, refuse, and other debris.",
+      "number": "505.87",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.87"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.871 - Removal of junk motor vehicle.",
+      "number": "505.871",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.871"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.88 - Special assessment upon facilities directly or indirectly benefiting from maintenance and improvement of waterways.",
+      "number": "505.88",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.88"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.881 - Township special assessment to fund residential broadband expansion.",
+      "number": "505.881",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.881"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.882 - Broadband expansion challenge process.",
+      "number": "505.882",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.882"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.89 - Curfew - violations.",
+      "number": "505.89",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.89"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.90 - Agreements to provide maintenance, repair, and improvement of township and municipal roads located within the townships and municipal corporations.",
+      "number": "505.90",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.90"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.93 - Prohibiting boxing matches or exhibitions.",
+      "number": "505.93",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.93"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.94 - Registration and regulation of transient vendors.",
+      "number": "505.94",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.94"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.95 - Regulating resale of tickets to public amusements.",
+      "number": "505.95",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.95"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.99 - Penalty.",
+      "number": "505.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.99"
+    },
+    {
+      "kind": "section",
+      "label": "Section 505.991 - Penalty - neglect or refuse to deposit property in possession of a person arrested.",
+      "number": "505.991",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-505.991"
+    }
+  ],
+  "scraped": "2026-07-02T19:33:08+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-505",
+  "title": "Chapter 505 - Trustees"
+}

@@ -1,0 +1,50 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5733.059
+Scraped: 2026-07-02T20:15:03+00:00
+
+# Section 5733.059 - Allocating sales of electric transmission and distribution services.
+
+**Effective:** June 26, 2003
+
+**Latest Legislation:** House Bill 95 - 125th General Assembly
+
+(A) As used in this section:
+
+(1) "Customer" means a person who purchases electricity for consumption either by that person or by the person's related member and the electricity is not for resale directly or indirectly to any person other than a related member.
+
+(2) "Related member" has the same meaning as in division (A)(6) of section 5733.042 of the Revised Code without regard to division (B) of that section.
+
+(B) Except as provided in division (C) of this section, this division applies only to sales of electric transmission and distribution services. For purposes of sections 5733.05 and 5747.21 of the Revised Code:
+
+(1) Sales of the transmission of electricity are in this state in proportion to the ratio of the wire mileage of the taxpayer's transmission lines located in this state divided by the wire mileage of the taxpayer's transmission lines located everywhere. Transmission wire mileage shall be weighted for the voltage capacity of each line.
+
+(2) Sales of the distribution of electricity are in this state in proportion to the ratio of the wire mileage of the taxpayer's distribution lines located in this state divided by the wire mileage of the taxpayer's distribution lines located everywhere. Distribution wire mileage shall not be weighted for the voltage capacity of each line.
+
+(C) This division applies only to a person that has transmission or distribution lines in this state. If a contract for the sale of electricity includes the seller's or the seller's related member's obligation to transmit or distribute the electricity and if the sales contract separately identifies the price charged for the transmission or distribution of electricity, the price charged for the transmission and distribution of electricity shall be apportioned to this state in accordance with division (B) of this section. Any remaining portion of the sales price of the electricity shall be sitused to this state in accordance with division (D) of this section.
+
+If the sales contract does not separately identify the price charged for the transmission or distribution of electricity, the sales price of the electricity shall be sitused to this state in accordance with division (D) of this section.
+
+(D) Any person who makes a sale of electricity shall situs the following to this state:
+
+(1) A sale of electricity directly or indirectly to a customer to the extent the customer consumes the electricity in this state;
+
+(2) A sale of electricity directly or indirectly to a related member where the related member directly or indirectly sells electricity to a customer to the extent the customer consumes the electricity in this state;
+
+(3) A sale of electricity if the seller or the seller's related member directly or indirectly delivers the electricity to a location in this state or directly or indirectly delivers the electricity exactly to the border of this state and another state;
+
+(4) A sale of electricity if the seller or the seller's related member directly or indirectly directs the delivery of the electricity to a location in this state or directly or indirectly directs the delivery of the electricity exactly to the border of this state and another state.
+
+(E) If the situsing provisions of this section do not fairly represent the extent of the taxpayer's or the taxpayer's related member's activity in this state, the taxpayer may request, or the tax commissioner may require, in respect to all or part of a taxpayer's or related member's sales, if reasonable, any of the following:
+
+(1) Separate accounting;
+
+(2) The exclusion of one or more additional situsing factors that will fairly represent the taxpayer's and the related member's sales in this state;
+
+(3) The inclusion of one or more additional situsing factors that will fairly represent the taxpayer's and the related member's sales in this state.
+
+The taxpayer's request shall be in writing and shall be filed with the report required by section 5733.02 of the Revised Code, a timely filed petition for reassessment, or a timely filed amended report. An alternative situsing method shall be effective with the approval of the tax commissioner.
+
+Nothing in this section shall be construed to extend any statute of limitations set forth in this chapter.
+
+(F) If the situsing provisions of this section do not fairly represent activity in this state, the tax commissioner may promulgate rules to situs sales using a methodology that fairly reflects sales in this state.
+
+(G) Notwithstanding section 5703.56 of the Revised Code to the contrary, a person situsing a sale outside this state has the burden to establish by a preponderance of the evidence that the doctrines enumerated in that section do not apply.

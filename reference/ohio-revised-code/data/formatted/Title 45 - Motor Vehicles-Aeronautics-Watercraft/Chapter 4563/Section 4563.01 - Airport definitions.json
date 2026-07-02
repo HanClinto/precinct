@@ -1,0 +1,82 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Airport\" means any area of land designed and set aside for the landing and taking off of aircraft, and for that purpose possessing one or more hard surfaced runways of a length of not less than three thousand five hundred feet, and designed for the storing, repair, and operation of aircraft, and utilized or to be utilized in the interest of the public for such purposes, and any area of land designed for such purposes for which designs, plans, and specifications conforming to the above requirements have been approved by the office of aviation of the division of multi-modal planning and programs of the department of transportation and for which not less than seventy per cent of the area shown by such designs and plans to constitute the total area has been acquired. An airport is \"publicly owned\" if the portion thereof used for the landing and taking off of aircraft is owned, operated, leased to, or leased by the United States, any agency or department thereof, this state or any other state, or any political subdivision of this state or any other state, or any other governmental body, public agency, or public corporation, or any combination thereof.",
+      "id": "4563.01-airport",
+      "normalized": "airport",
+      "scope": "As used in sections 4563.01 to 4563.21 of the Revised Code:",
+      "section": "4563.01",
+      "source_title": "Section 4563.01 - Airport definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4563.01",
+      "term": "Airport"
+    },
+    {
+      "definition": "(B) \"Airport hazard\" means any structure or object of natural growth or use of land within an airport hazard area that obstructs the air space required for the flight of aircraft in landing or taking off at any airport or is otherwise hazardous to such landing or taking off of aircraft.",
+      "id": "4563.01-airport-hazard",
+      "normalized": "airport hazard",
+      "scope": "As used in sections 4563.01 to 4563.21 of the Revised Code:",
+      "section": "4563.01",
+      "source_title": "Section 4563.01 - Airport definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4563.01",
+      "term": "Airport hazard"
+    },
+    {
+      "definition": "(C) \"Airport hazard area\" means any area of land adjacent to an airport that has been declared to be an \"airport hazard area\" by the office of aviation in connection with any airport approach plan recommended by the office.",
+      "id": "4563.01-airport-hazard-area",
+      "normalized": "airport hazard area",
+      "scope": "As used in sections 4563.01 to 4563.21 of the Revised Code:",
+      "section": "4563.01",
+      "source_title": "Section 4563.01 - Airport definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4563.01",
+      "term": "Airport hazard area"
+    },
+    {
+      "definition": "(D) \"Political subdivision\" means any municipal corporation, township, or county.",
+      "id": "4563.01-political-subdivision",
+      "normalized": "political subdivision",
+      "scope": "As used in sections 4563.01 to 4563.21 of the Revised Code:",
+      "section": "4563.01",
+      "source_title": "Section 4563.01 - Airport definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4563.01",
+      "term": "Political subdivision"
+    },
+    {
+      "definition": "(E) \"Person\" means any individual, firm, copartnership, corporation, company, association, joint stock association, or body politic and includes any trustee, receiver, assignee, or other similar representative thereof.",
+      "id": "4563.01-person",
+      "normalized": "person",
+      "scope": "As used in sections 4563.01 to 4563.21 of the Revised Code:",
+      "section": "4563.01",
+      "source_title": "Section 4563.01 - Airport definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4563.01",
+      "term": "Person"
+    },
+    {
+      "definition": "(F) \"Structure\" means any erected object, including, without limitation, buildings, towers, smokestacks, and overhead transmission lines.",
+      "id": "4563.01-structure",
+      "normalized": "structure",
+      "scope": "As used in sections 4563.01 to 4563.21 of the Revised Code:",
+      "section": "4563.01",
+      "source_title": "Section 4563.01 - Airport definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4563.01",
+      "term": "Structure"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "4563.01",
+      "number": "4563.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4563.01"
+    },
+    {
+      "kind": "section",
+      "label": "4563.21",
+      "number": "4563.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4563.21"
+    }
+  ],
+  "scraped": "2026-07-02T20:06:02+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4563.01",
+  "title": "Section 4563.01 - Airport definitions."
+}

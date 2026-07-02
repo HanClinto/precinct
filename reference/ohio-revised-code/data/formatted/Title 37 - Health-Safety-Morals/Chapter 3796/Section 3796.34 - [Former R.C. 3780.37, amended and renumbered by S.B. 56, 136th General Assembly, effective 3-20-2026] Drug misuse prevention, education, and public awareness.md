@@ -1,0 +1,28 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3796.34
+Scraped: 2026-07-02T20:01:53+00:00
+
+# Section 3796.34 - [Former R.C. 3780.37, amended and renumbered by S.B. 56, 136th General Assembly, effective 3/20/2026] Drug misuse prevention, education, and public awareness.
+
+**Effective:** March 20, 2026
+
+**Latest Legislation:** Senate Bill 56 - 136th General Assembly
+
+(A) As used in this section, "nonprofit corporation" has the same meaning as in section 1702.01 of the Revised Code.
+
+(B) The division of marijuana control shall contract with a statewide nonprofit corporation for the development and implementation of cannabis and related drug misuse prevention, education, and public awareness initiatives driven by data, evaluation, and research. The contract must include a provision specifying a percentage of the total funding for the initiatives, not less than ten per cent, to be raised by the statewide nonprofit corporation through private contributions.
+
+(C) The initiatives may include all of the following:
+
+(1) Providing evidence-based information on the potential health effects of cannabis and related drug use among minors;
+
+(2) Disseminating educational resources regarding the risks associated with cannabis and related drug use during pregnancy;
+
+(3) Conducting campaigns to inform the public about the dangers and legal consequences of driving under the influence of cannabis and related drugs;
+
+(4) Collaborating with employers and industry groups to develop and distribute evidence-based resources to improve the health of Ohio's workforce and promote workplace safety and recovery initiatives focused on cannabis and related drug misuse.
+
+(D) The division shall oversee and evaluate the effectiveness of the initiatives undertaken pursuant to this section and shall ensure that those initiatives align with the public health and safety objectives of this state.
+
+(E) The division shall annually compile a report detailing activities, use of funds, and measurable outcomes resulting from the initiatives undertaken pursuant to this section. The division shall submit the report to the general assembly in accordance with section 101.68 of the Revised Code.
+
+Last updated March 25, 2026 at 9:47 AM

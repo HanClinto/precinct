@@ -1,0 +1,24 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4731.74
+Scraped: 2026-07-02T20:07:04+00:00
+
+# Section 4731.74 - Adoption of rules governing prescriptions given to persons without examination.
+
+**Effective:** March 23, 2016
+
+**Latest Legislation:** House Bill 188 - 131st General Assembly
+
+(A) As used in this section:
+
+(1) "Controlled substance" has the same meaning as in section 3719.01 of the Revised Code.
+
+(2) "Drug" and "prescription" have the same meanings as in section 4729.01 of the Revised Code.
+
+(3) "Physician" means an individual authorized under this chapter to practice medicine and surgery, osteopathic medicine and surgery, or podiatric medicine and surgery.
+
+(B) The state medical board shall adopt rules governing the requirements for a physician to prescribe, personally furnish, otherwise provide, or cause to be provided a prescription drug to a person on whom the physician has never conducted a physical examination and who is at a location remote from the physician.
+
+(1) Regarding prescription drugs that are not controlled substances, the rules shall authorize a physician to establish a physician-patient relationship by the use of appropriate technology that permits, in a manner that is consistent with the minimal standard of care for in-person care by a physician, a medical evaluation and the collection of relevant clinical history as needed to establish a diagnosis, identify any underlying conditions, and identify any contraindications to the treatment that is recommended or provided.
+
+(2) Regarding prescription drugs that are controlled substances, the rules shall establish standards that are consistent with federal law.
+
+(C) The board shall adopt initial rules for purposes of this section not later than one year after the effective date of this section. All rules adopted under this section shall be adopted in accordance with Chapter 119. of the Revised Code.

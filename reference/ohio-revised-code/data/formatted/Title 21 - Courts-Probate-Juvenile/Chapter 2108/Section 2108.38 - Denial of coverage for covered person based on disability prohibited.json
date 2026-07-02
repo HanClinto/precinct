@@ -1,0 +1,46 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Covered person\" means a policyholder, subscriber, enrollee, member, or individual covered by a health benefit plan.",
+      "id": "2108.38-covered-person",
+      "normalized": "covered person",
+      "scope": "(A) As used in this section:",
+      "section": "2108.38",
+      "source_title": "Section 2108.38 - Denial of coverage for covered person based on disability prohibited.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2108.38",
+      "term": "Covered person"
+    },
+    {
+      "definition": "(2) \"Health benefit plan\" means a policy, contract, certificate, or agreement offered by a health plan issuer to provide, deliver, arrange for, pay for, or reimburse any of the costs of health care services, including benefit plans marketed in the individual or group market by all associations, whether bona fide or not. \"Health benefit plan\" also means a limited benefit plan, except as follows. \"Health benefit plan\" does not mean any of the following types of coverage: a policy, contract, certificate, or agreement that covers only a specified accident, accident only, credit, dental, disability income, long-term care, hospital indemnity, supplemental coverage, as described in section 3923.37 of the Revised Code, specified disease, or vision care; coverage issued as a supplement to liability insurance; insurance arising out of workers' compensation or similar law; automobile medical payment insurance; or insurance under which benefits are payable with or without regard to fault and which is statutorily required to be contained in any liability insurance policy or equivalent self-insurance; a medicare supplement policy of insurance, as defined by the superintendent of insurance by rule, coverage under a plan through medicare, medicaid, or the federal employees benefit program; any coverage issued under Chapter 55 of Title 10 of the United States Code and any coverage issued as a supplement to that coverage.",
+      "id": "2108.38-health-benefit-plan",
+      "normalized": "health benefit plan",
+      "scope": "(A) As used in this section:",
+      "section": "2108.38",
+      "source_title": "Section 2108.38 - Denial of coverage for covered person based on disability prohibited.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2108.38",
+      "term": "Health benefit plan"
+    },
+    {
+      "definition": "(3) \"Health plan issuer\" means an entity subject to the insurance laws and rules of this state, or subject to the jurisdiction of the superintendent of insurance, that contracts, or offers to contract to provide, deliver, arrange for, pay for, or reimburse any of the costs of health care services under a health benefit plan, including a sickness and accident insurance company, a health insuring corporation, a fraternal benefit society, a self-funded multiple employer welfare arrangement, or a nonfederal, government health plan. \"Health plan issuer\" includes a third-party administrator licensed under Chapter 3959. of the Revised Code to the extent that the benefits that such an entity is contracted to administer under a health benefit plan are subject to the insurance laws and rules of this state or subject to the jurisdiction of the superintendent.\n\n(B) A health plan issuer that provides coverage for anatomical gifts, transplantation, or related treatment and services shall not deny such coverage to a covered person solely on the basis of the person's disability.",
+      "id": "2108.38-health-plan-issuer",
+      "normalized": "health plan issuer",
+      "scope": "(A) As used in this section:",
+      "section": "2108.38",
+      "source_title": "Section 2108.38 - Denial of coverage for covered person based on disability prohibited.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2108.38",
+      "term": "Health plan issuer"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3923.37",
+      "number": "3923.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3923.37"
+    }
+  ],
+  "scraped": "2026-07-02T19:41:18+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2108.38",
+  "title": "Section 2108.38 - Denial of coverage for covered person based on disability prohibited."
+}

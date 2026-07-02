@@ -1,0 +1,50 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4301.333
+Scraped: 2026-07-02T20:04:59+00:00
+
+# Section 4301.333 - Local option petition contesting a particular location.
+
+**Effective:** March 23, 2022
+
+**Latest Legislation:** Senate Bill 102 - 134th General Assembly
+
+(A) The privilege of local option conferred by section 4301.323 of the Revised Code may be exercised if, not later than four p.m. of the ninetieth day before the day of a general election or a special election held on a day on which a primary election may be held, a petition is presented to the board of elections of the county in which the precinct is situated by a petitioner who is one of the following:
+
+(1) An applicant for the issuance or transfer of a liquor permit at, or to, a particular location within the precinct;
+
+(2) The holder of a liquor permit at a particular location within the precinct;
+
+(3) A person who operates or seeks to operate a liquor agency store at a particular location within the precinct;
+
+(4) The designated agent for an applicant, liquor permit holder, or liquor agency store described in division (A)(1), (2), or (3) of this section.
+
+(B) If the petition is for the submission of the question specified in division (B)(1) of section 4301.355 of the Revised Code or both questions specified in divisions (B)(1) and (2) of that section, the petition shall be signed by the electors of the precinct equal in number to at least thirty-five per cent of the total number of votes cast in the precinct for the office of governor at the preceding general election for that office. If the petition is solely for the submission of the question specified in division (B)(2) of section 4301.355 of the Revised Code, the petition shall be signed by fifty electors.
+
+The petition shall contain all of the following:
+
+(1) A notice that the petition is for the submission of the question or questions set forth in section 4301.355 of the Revised Code;
+
+(2) The name of the applicant for the issuance or transfer, or the holder, of the liquor permit or, if applicable, the name of the liquor agency store, including any trade or fictitious names under which the applicant, holder, or liquor agency store either intends to do or does business at the particular location;
+
+(3) The address and proposed use of the particular location within the election precinct to which the results of the question or questions specified in section 4301.355 of the Revised Code shall apply. For purposes of this division, "use" means all of the following:
+
+(a) The type of each liquor permit applied for by the applicant or held by the liquor permit holder as described in sections 4303.11 to 4303.183 of the Revised Code, including a description of the type of beer or intoxicating liquor sales authorized by each permit as provided in those sections;
+
+(b) If a liquor agency store, the fact that the business operated as a liquor agency store authorized to operate by this state;
+
+(c) A description of the general nature of the business of the applicant, liquor permit holder, or liquor agency store.
+
+(C)(1) At the time the petitioner files the petition with the board of elections, the petitioner shall provide to the board both of the following:
+
+(a) An affidavit that is signed by the petitioner and that states the proposed use of the location following the election held to authorize the sale of beer or intoxicating liquor authorized by each permit as provided in sections 4303.11 to 4303.183 of the Revised Code;
+
+(b) Written evidence of the designation of an agent by the applicant, liquor permit holder, or liquor agency store described in division (A)(1), (2), or (3) of this section for the purpose of petitioning for the local option election, if the petitioner is the designated agent of the applicant, liquor permit holder, or liquor agency store.
+
+(2) Failure to supply the affidavit, or the written evidence of the designation of the agent if the petitioner for the local option election is the agent of the applicant, liquor permit holder, or liquor agency store described in division (A)(1), (2), or (3) of this section, at the time the petition is filed invalidates the entire petition.
+
+(D) Not later than the seventy-eighth day before the day of the next general election or the next special election held on a day on which a primary election may be held, whichever occurs first, the board shall examine and determine the sufficiency of the signatures and the validity of the petition. If the board finds that the petition contains sufficient signatures and in other respects is valid, it shall order the holding of an election in the precinct on the day of the next general election or the next special election held on a day on which a primary election may be held, whichever occurs first, for the submission of the question or questions set forth in section 4301.355 of the Revised Code.
+
+(E) A petition filed with the board of elections under this section shall be open to public inspection under rules adopted by the board.
+
+(F) An elector who is eligible to vote on the question or questions set forth in section 4301.355 of the Revised Code may file, not later than four p.m. of the seventy-fourth day before the day of the election at which the question or questions will be submitted to the electors, a protest against a local option petition circulated and filed pursuant to this section. The protest shall be in writing and shall be filed with the election officials with whom the petition was filed. Upon the filing of the protest, the election officials with whom it is filed shall promptly establish a time and place for hearing the protest and shall mail notice of the time and place for the hearing to the applicant for, or the holder of, the liquor permit who is specified in the petition and to the elector who filed the protest. At the time and place established in the notice, the election officials shall hear the protest and determine the validity of the petition.
+
+Last updated January 13, 2022 at 12:02 PM

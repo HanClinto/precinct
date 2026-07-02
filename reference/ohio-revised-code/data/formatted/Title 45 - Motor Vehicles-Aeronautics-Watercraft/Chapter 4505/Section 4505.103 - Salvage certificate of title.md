@@ -1,0 +1,44 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4505.103
+Scraped: 2026-07-02T20:05:24+00:00
+
+# Section 4505.103 - Salvage certificate of title.
+
+**Effective:** March 23, 2022
+
+**Latest Legislation:** Senate Bill 162 - 134th General Assembly
+
+(A) As used in this section:
+
+(1) "Authorized entity" means any business with which a person entered into an agreement for the repair of a motor vehicle, any for-hire motor carrier that tows motor vehicles, or any place to which such a for-hire motor carrier delivers a towed motor vehicle for storage.
+
+(2) "Motor vehicle salvage dealer" has the same meaning as in section 4738.01 of the Revised Code.
+
+(3) "Scrap metal processing facility" has the same meaning as in section 4737.05 of the Revised Code.
+
+(4) "Value" means the wholesale value for that make and model of motor vehicle at the time an affidavit is submitted under this section, as provided in a vehicle valuation guide that is generally available and recognized by the motor vehicle industry, minus all of the following:
+
+(a) The estimated cost of repairs to restore the motor vehicle to the wholesale value for that make and model of motor vehicle;
+
+(b) If the motor vehicle was towed by the party seeking title to the motor vehicle under this section, a towing fee;
+
+(c) Storage fees for the period of time that the vehicle was stored without payment, up to a maximum of thirty days of storage fees.
+
+(B)(1) An authorized entity may obtain a salvage certificate of title to a motor vehicle in the possession of the authorized entity for purposes of disposing of the motor vehicle through a motor vehicle salvage dealer or a scrap metal processing facility if all of the following apply to the motor vehicle:
+
+(a) The motor vehicle has a value of less than one thousand five hundred dollars.
+
+(b) The motor vehicle is inoperable.
+
+(c) The motor vehicle is impossible to restore for highway operation.
+
+(2) In order to obtain a salvage certificate of title to a motor vehicle, the authorized entity shall cause a search to be made of the records of an applicable entity listed in division (F)(1) of section 4513.601 of the Revised Code to ascertain the identity of the owner and any lienholder of the motor vehicle. Within eight business days after receiving the identity of the owner and any lienholder of the motor vehicle, if the vehicle remains unclaimed, the authorized entity shall send written notice to any owner and any lienholder of the vehicle by certified or express mail with return receipt requested, by certified mail with electronic tracking, or by a commercial carrier service utilizing any form of delivery requiring a signed receipt. If the motor vehicle came into the possession of a towing service or storage facility as a result of being towed, the notice shall include notice that if the owner disputes that the motor vehicle was lawfully towed, the owner may be able to file a civil action under section 4513.611 of the Revised Code.
+
+(3) Not sooner than thirty days after the notice has been received, as evidenced by a receipt signed by any person, or the authorized entity has been notified that the delivery was not possible, an agent of the authorized entity may complete and sign an affidavit, on a form prescribed by the registrar of motor vehicles, attesting that the motor vehicle qualifies for disposal under this section and that all of the requirements of this section have been complied with. The affidavit shall include the make and model of the motor vehicle; the vehicle identification number if available; an itemized statement of the value of the motor vehicle; a description of the damage to the motor vehicle; the length of time that the motor vehicle has remained unclaimed; that a notice to remove the motor vehicle has been sent to any titled owner or lienholder by certified or express mail with return receipt requested, by certified mail with electronic tracking, or by a commercial carrier service utilizing any form of delivery requiring a signed receipt; and that a search of the title records has been made for outstanding liens on the motor vehicle. The authorized entity also shall photograph the motor vehicle to substantiate the determination that the value of the motor vehicle is less than one thousand five hundred dollars.
+
+(C) An agent of the authorized entity may present the affidavit along with the photographs, an application for a salvage certificate of title, and a fee of four dollars to the clerk of courts. Upon receipt of a properly executed application and the required fee and documents, the clerk of courts shall issue a salvage certificate of title to the motor vehicle, on a form prescribed by the registrar, and shall mark the certificate of title with the words "FOR DESTRUCTION." The clerk shall retain a record of the issuance of the salvage certificate of title and all accompanying documentation in the automated title processing system for not less than ten years. The clerk shall deposit the four-dollar fee into the certificate of title administration fund established under section 325.33 of the Revised Code.
+
+A salvage certificate of title issued under this section is free and clear of all liens and shall be used solely for purposes of disposing of the vehicle through a motor vehicle salvage dealer or a scrap metal processing facility. No motor vehicle for which a certificate of title has been issued under this section shall be used for anything except parts and scrap metal.
+
+(D) At the time of disposal, the authorized entity shall deliver the salvage certificate of title to the motor vehicle salvage dealer or scrap metal processing facility for its records. Any money arising from the disposal of the motor vehicle may be retained by the authorized entity.
+
+Last updated January 19, 2022 at 1:07 PM

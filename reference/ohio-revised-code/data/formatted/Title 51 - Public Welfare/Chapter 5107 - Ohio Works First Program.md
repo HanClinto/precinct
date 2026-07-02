@@ -1,0 +1,71 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-5107
+Scraped: 2026-07-02T20:10:29+00:00
+
+# Chapter 5107 - Ohio Works First Program
+
+## Sections
+
+- Section 5107.01 - Legislative policy.
+- Section 5107.02 - Ohio works first program definitions.
+- Section 5107.03 - Administration of program.
+- Section 5107.04 - Sources of cash assistance payments.
+- Section 5107.05 - Adoption of rules.
+- Section 5107.10 - Time-limited cash assistance.
+- Section 5107.11 - Minor child's assistance group.
+- Section 5107.12 - Application for participation by assistance group.
+- Section 5107.121 - Information regarding eligibility redetermination.
+- Section 5107.14 - Written self-sufficiency contracts.
+- Section 5107.16 - Sanctioning assistance group for noncompliance with contract.
+- Section 5107.161 - Written notice prior to sanction.
+- Section 5107.162 - Request for state hearing on sanction.
+- Section 5107.17 - Resuming participation following sanction.
+- Section 5107.18 - Eligibility time limits.
+- Section 5107.20 - Assignment of rights to support.
+- Section 5107.22 - Cooperation in establishing paternity and obtaining child support.
+- Section 5107.24 - Eligibility of pregnant minor or minor parent.
+- Section 5107.26 - Terminating employment without just cause.
+- Section 5107.28 - Learnfare program.
+- Section 5107.281 - Mandatory participation in learnfare program.
+- Section 5107.282 - Notice of noncompliance with learnfare program's school attendance requirement.
+- Section 5107.283 - Incentives for meeting learnfare school attendance requirement.
+- Section 5107.284 - Reducing assistance for refusal to consent to release of records.
+- Section 5107.285 - Noncompliance with learnfare program's school attendance requirement not to affect other members of group.
+- Section 5107.286 - Communications concerning participating student's attendance.
+- Section 5107.287 - Good cause for being absent from school.
+- Section 5107.30 - Learning, earning, and parenting LEAP program.
+- Section 5107.301 - Award to LEAP program graduates for post-secondary education.
+- Section 5107.36 - Fugitive felons and probation or parole violators ineligible for participation.
+- Section 5107.37 - Ineligibility of residents of public institutions.
+- Section 5107.40 - Ohio works first program additional definitions.
+- Section 5107.41 - Appraisal of each member of assistance group who is minor head of household or adult.
+- Section 5107.42 - Assignment to work activities and developmental activities.
+- Section 5107.43 - Placement in assigned activity.
+- Section 5107.44 - Exceeding federal minimum work activity participation rates.
+- Section 5107.50 - Job search and readiness program.
+- Section 5107.52 - Subsidized employment program.
+- Section 5107.54 - Work experience program.
+- Section 5107.541 - Assignment under work experience program.
+- Section 5107.58 - Education program.
+- Section 5107.60 - Administering additional work activities.
+- Section 5107.61 - Serving as ombudsperson.
+- Section 5107.62 - Developmental activities for minor heads of households and adults participating in Ohio works first.
+- Section 5107.64 - Alternative work activities.
+- Section 5107.65 - Works first participants not to displace employees.
+- Section 5107.66 - Support services.
+- Section 5107.67 - Public employee and unemployment compensation laws do not apply.
+- Section 5107.68 - County to implement and enforce program.
+- Section 5107.69 - No jeopardy to federal funding.
+- Section 5107.70 - Conducting assessments of assistance groups.
+- Section 5107.71 - County department duties under program rules.
+- Section 5107.711 - Domestic violence screening process.
+- Section 5107.712 - Rejection of counseling or supportive services.
+- Section 5107.713 - Domestic violence information provided to department.
+- Section 5107.714 - Waiver issued to domestic violence victim.
+- Section 5107.715 - Explanation for refusal to issue waiver.
+- Section 5107.716 - Rejection or termination of waiver.
+- Section 5107.717 - Department to monitor implementation of program.
+- Section 5107.72 - Referrals for family planning.
+- Section 5107.75 - Cash assistance under Ohio works first is inalienable.
+- Section 5107.76 - Recovering erroneous payments.
+- Section 5107.78 - Support enforcement tracking system notice.
+- Section 5107.80 - Quarterly report on employment of former participants.

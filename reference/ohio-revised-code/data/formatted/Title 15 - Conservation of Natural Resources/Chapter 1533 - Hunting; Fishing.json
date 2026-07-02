@@ -1,0 +1,771 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 1533.01 - Hunting - fishing definitions.",
+      "number": "1533.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.02 - Fishing and trapping districts - restrictions on taking, possession, and selling.",
+      "number": "1533.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.03 - Prevention of authorized hunting, trapping, or fishing prohibited.",
+      "number": "1533.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.031 - Prevention of hunting by creating noise prohibited.",
+      "number": "1533.031",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.031"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.04 - Use of suppressor.",
+      "number": "1533.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.05 - Raptors for use in sport of falconry.",
+      "number": "1533.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.051 - Commercial and noncommercial propagation of raptors.",
+      "number": "1533.051",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.051"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.07 - Protection afforded nongame birds.",
+      "number": "1533.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.08 - Scientific, educational or rehabilitation collection permits.",
+      "number": "1533.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.081 - Permit for taking of wild animal.",
+      "number": "1533.081",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.081"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.09 - Annual report of operations under collection permit - revocation and forfeiture of permit.",
+      "number": "1533.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.10 - Hunting licenses; fees; hunter education and conservation course.",
+      "number": "1533.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.101 - Reissued license, stamp or permit.",
+      "number": "1533.101",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.101"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.102 - Apprentice hunting licenses and fur taker permits.",
+      "number": "1533.102",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.102"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.103 - All purpose vehicles permits for mobility-impaired persons.",
+      "number": "1533.103",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.103"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.11 - Special deer or wild turkey permits; fees; wildlife refunds fund.",
+      "number": "1533.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.111 - Hunting or trapping fur taker permit - trapper education course.",
+      "number": "1533.111",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.111"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.112 - Annual wetlands habitat stamp needed to hunt ducks, geese or brant - wetlands habitat fund.",
+      "number": "1533.112",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.112"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.113 - Rules for management permits.",
+      "number": "1533.113",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.113"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.12 - Hunting, fishing or trapping without a license or permit.",
+      "number": "1533.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.121 - Deer killed by motor vehicle on highway.",
+      "number": "1533.121",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.121"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.13 - Persons authorized to issue licenses, stamps and permits - application procedure.",
+      "number": "1533.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.131 - Gift certificates for licenses, permits, and stamps.",
+      "number": "1533.131",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.131"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.14 - Hunting license or wetlands habitat stamp not transferable - license to be carried and exhibited.",
+      "number": "1533.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.15 - Issuing, dating and recording licenses.",
+      "number": "1533.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.151 - Wildlife conservation stamps.",
+      "number": "1533.151",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.151"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.16 - Weapons for taking game birds and wild quadrupeds.",
+      "number": "1533.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.161 - Prohibiting jacklighting.",
+      "number": "1533.161",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.161"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.17 - Hunting without permission.",
+      "number": "1533.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.171 - Prohibiting injuring persons or property while hunting.",
+      "number": "1533.171",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.171"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.18 - Recreational user definitions.",
+      "number": "1533.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.181 - Immunity.",
+      "number": "1533.181",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.181"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.19 - Field trial club permits.",
+      "number": "1533.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.191 - Purchase of domestically raised game birds for dog training grounds.",
+      "number": "1533.191",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.191"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.20 - Field trial areas - permit.",
+      "number": "1533.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.21 - Club lands may be designated as field trial area.",
+      "number": "1533.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.22 - Signs for field trial areas - hunting or trapping within areas.",
+      "number": "1533.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.221 - Restricting filed trials for nonresidents.",
+      "number": "1533.221",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.221"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.23 - Fur dealer's permit.",
+      "number": "1533.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.24 - Fur dealer's daily record - forms - carrier restrictions.",
+      "number": "1533.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.28 - Wildlife and fish restoration projects in cooperation with United States.",
+      "number": "1533.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.29 - Prima-facie evidence of guilt.",
+      "number": "1533.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.30 - Transportation of fish, game birds, and wild quadrupeds.",
+      "number": "1533.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.301 - Annual permit for transporting fish - suspension or revocation.",
+      "number": "1533.301",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.301"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.31 - Shipment of live wild animals.",
+      "number": "1533.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.32 - Fishing licenses generally.",
+      "number": "1533.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.321 - Multi-year or lifetime hunting and fishing licenses.",
+      "number": "1533.321",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.321"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.322 - Exemption from fishing license requirement.",
+      "number": "1533.322",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.322"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.323 - Reciprocity.",
+      "number": "1533.323",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.323"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.324 - Prohibition against taking or selling mussels.",
+      "number": "1533.324",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.324"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.33 - Fishing license fees.",
+      "number": "1533.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.34 - License to use boat, net, or device for fishing.",
+      "number": "1533.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.341 - Quota management system.",
+      "number": "1533.341",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.341"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.342 - Commercial fishing licenses.",
+      "number": "1533.342",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.342"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.343 - Vessel and catch monitoring devices required.",
+      "number": "1533.343",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.343"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.35 - Commercial fishing device annual license fee.",
+      "number": "1533.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.351 - Experimental fishing device annual license fee.",
+      "number": "1533.351",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.351"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.352 - Reciprocity.",
+      "number": "1533.352",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.352"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.36 - Fishing license not transferable - exception.",
+      "number": "1533.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.37 - Methods of taking fish.",
+      "number": "1533.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.40 - Permit to buy, sell or deal in minnows, crawfish or hellgrammites.",
+      "number": "1533.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.41 - Fishing season for Lake Erie and other waters.",
+      "number": "1533.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.42 - Licensee shall keep report for each day's catch.",
+      "number": "1533.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.43 - License tag to be attached to each fishing device.",
+      "number": "1533.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.431 - Numbering and locating trap or fyke nets.",
+      "number": "1533.431",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.431"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.44 - Fishing devices shall be marked with owner's or operator's name.",
+      "number": "1533.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.45 - Places where nets may not be used.",
+      "number": "1533.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.46 - Splashing to drive fish into nets prohibited.",
+      "number": "1533.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.48 - Trotlines.",
+      "number": "1533.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.49 - Size of mesh and twine used in crib nets, trap nets, and fyke nets.",
+      "number": "1533.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.50 - Carp apron use restrictions.",
+      "number": "1533.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.51 - Fishing guide license.",
+      "number": "1533.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.511 - Fishing guide daily record.",
+      "number": "1533.511",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.511"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.52 - Method of measuring nets.",
+      "number": "1533.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.54 - Methods of fishing.",
+      "number": "1533.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.55 - Placement and maintenance of nets and other fishing devices in Lake Erie.",
+      "number": "1533.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.56 - Daily records of fish processing.",
+      "number": "1533.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.57 - Minnows shall be taken only for bait.",
+      "number": "1533.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.58 - Prohibition against use of deleterious substances in waters of the state.",
+      "number": "1533.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.59 - Prohibition against obstructing natural transit of fish.",
+      "number": "1533.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.60 - Fish may be taken in overflows and private ponds.",
+      "number": "1533.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.61 - Certain nets, traps and other devices exempted.",
+      "number": "1533.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.62 - Locations where seine or net may be used.",
+      "number": "1533.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.63 - Legal length and weight of certain fish.",
+      "number": "1533.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.631 - Permit for handling fish at wholesale.",
+      "number": "1533.631",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.631"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.632 - Regulation of aquaculture - permits.",
+      "number": "1533.632",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.632"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.64 - Property rights in fish.",
+      "number": "1533.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.641 - Commercial licenses revoked on felony conviction.",
+      "number": "1533.641",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.641"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.65 - Each fish constitutes separate offense.",
+      "number": "1533.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.66 - Trespassing upon lands bordering on fishponds.",
+      "number": "1533.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.67 - Enforcement procedure.",
+      "number": "1533.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.67"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.68 - Suspension or revocation of license or permit.",
+      "number": "1533.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.68"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.69 - Prosecution for violation of division rule.",
+      "number": "1533.69",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.69"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.71 - License to raise or keep game birds and animals.",
+      "number": "1533.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.72 - License to own or operate commercial bird shooting preserve.",
+      "number": "1533.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.721 - Wild animal hunting preserve license - conditions.",
+      "number": "1533.721",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.721"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.722 - Administrative penalty.",
+      "number": "1533.722",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.722"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.73 - Commercial bird shooting preserves - regulations - leg bands and tags.",
+      "number": "1533.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.731 - Wild animal hunting preserves - regulations.",
+      "number": "1533.731",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.731"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.74 - Tag or seal required for animals sold for food.",
+      "number": "1533.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.74"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.75 - Prohibitions.",
+      "number": "1533.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.751 - Wild boar or feral swine notification and eradication.",
+      "number": "1533.751",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.751"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.76 - Division of wildlife may purchase pheasants.",
+      "number": "1533.76",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.76"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.77 - Records of holder of propagating license - inspection of records.",
+      "number": "1533.77",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.77"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.79 - Control or eradication of parasites and diseases; authority of the director of agriculture.",
+      "number": "1533.79",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.79"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.81 - Waterfowl hunting area permit required.",
+      "number": "1533.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.82 - Effect of child support default on license, certificate or permit.",
+      "number": "1533.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.82"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.83 - Shooting range definitions.",
+      "number": "1533.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.83"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.84 - Shooting range standards.",
+      "number": "1533.84",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.84"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.85 - Immunity in civil action concerning shooting range noise.",
+      "number": "1533.85",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.85"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.86 - Ohio ginseng management program definitions.",
+      "number": "1533.86",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.86"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.87 - Ohio ginseng management program.",
+      "number": "1533.87",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.87"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.88 - Rules.",
+      "number": "1533.88",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.88"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.881 - Resale or export registration permit.",
+      "number": "1533.881",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.881"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.882 - Prohibited acts.",
+      "number": "1533.882",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.882"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.89 - Enforcement of statutes and rules.",
+      "number": "1533.89",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.89"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.891 - Seizure and forfeiture of ginseng.",
+      "number": "1533.891",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.891"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.90 - Moneys paid into wildlife fund.",
+      "number": "1533.90",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.90"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.91 - Nonresident licenses or permits - reciprocal agreements.",
+      "number": "1533.91",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.91"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.92 - Tag fishing tournament on public waters - application for permit.",
+      "number": "1533.92",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.92"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.93 - Rules for operation of tag fishing tournaments.",
+      "number": "1533.93",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.93"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.94 - Special conditions on permit.",
+      "number": "1533.94",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.94"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.95 - Immunity.",
+      "number": "1533.95",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.95"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.96 - Ineligibility for permit.",
+      "number": "1533.96",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.96"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.97 - Prohibited acts.",
+      "number": "1533.97",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.97"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.98 - Certain tournament not prohibited.",
+      "number": "1533.98",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.98"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1533.99 - Penalty.",
+      "number": "1533.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.99"
+    }
+  ],
+  "scraped": "2026-07-02T19:37:50+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-1533",
+  "title": "Chapter 1533 - Hunting; Fishing"
+}

@@ -1,0 +1,90 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Project\" means any construction, rehabilitation, remodeling, or improvement of residential housing, whether on a single or multiple site for which a person, as defined in section 1.59 of the Revised Code, or municipal corporation, county, or township receives financing, that is financed in whole or in part from state moneys or pursuant to this chapter, section 133.51 or 307.698 of the Revised Code, or Chapter 174. or 175. of the Revised Code, except for any of the following:\n\n(a) The single-family mortgage revenue bonds homeownership program under Chapter 175. of the Revised Code, including owner-occupied dwellings of one to four units;\n\n(b) Projects consisting of fewer than six units developed by any entity that is not a nonprofit organization exempt from federal income tax under section 501(c)(3) of the Internal Revenue Code;\n\n(c) Projects of fewer than twenty-five units developed by any nonprofit organization that is exempt from federal income tax under section 501(c)(3) of the Internal Revenue Code;\n\n(d) Programs undertaken by any municipal corporation, county, or township, including lease-purchase programs, using mortgage revenue bond financing;\n\n(e) Any individual project, that is sponsored or developed by a nonprofit organization that is exempt from federal income tax under section 501(c)(3) of the Internal Revenue Code, for which the federal government or any of its agencies furnishes by loan, grant, low-income housing tax credit, or insurance more than twelve per cent of the costs of the project. For purposes of division (D)(2)(e) of this section, the value of the low-income housing tax credits shall be calculated as the proceeds from the sale of the tax credits, less the costs of the sale.",
+      "id": "176.05-project",
+      "normalized": "project",
+      "scope": "",
+      "section": "176.05",
+      "source_title": "Section 176.05 - Establishing residential prevailing rate of wages.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-176.05",
+      "term": "Project"
+    },
+    {
+      "definition": "As used in division (D)(1)(e) of this section, \"sponsored\" means that a general partner of a limited partnership owning the project or a managing member of a limited liability company owning the project is either a nonprofit organization that is exempt from federal income tax under section 501(c)(3) of the Internal Revenue Code or a person, as defined in section 1.59 of the Revised Code, or a limited liability company in which such a nonprofit organization maintains controlling interest. For purposes of this division, a general partner of a limited partnership that is a nonprofit organization described under this division is not required to be the sole general partner in the limited partnership, and a managing member of a limited liability company that is a nonprofit organization described under this division is not required to be the sole managing member in the limited liability company.\n\nNothing in division (D)(1)(e) of this section shall be construed as permitting unrelated projects to be combined for the sole purpose of determining the total percentage of project costs furnished by the federal government or any of its agencies.\n\n(2) A \"project\" is a \"public improvement\" and the state or a political subdivision that undertakes or participates in the financing of a project is a \"public authority,\" as both of the last two terms are defined in section 4115.03 of the Revised Code.\n\n(3) \"Qualified volunteers\" are volunteers who are working without compensation for a nonprofit organization that is exempt from federal income tax under section 501(c)(3) of the Internal Revenue Code, and that is providing housing or housing assistance only to families and individuals in a county whose incomes are not greater than one hundred forty per cent of the median income of that county as determined under section 174.04 of the Revised Code.",
+      "id": "176.05-sponsored",
+      "normalized": "sponsored",
+      "scope": "",
+      "section": "176.05",
+      "source_title": "Section 176.05 - Establishing residential prevailing rate of wages.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-176.05",
+      "term": "sponsored"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "4115.03",
+      "number": "4115.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4115.03"
+    },
+    {
+      "kind": "section",
+      "label": "4115.16",
+      "number": "4115.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4115.16"
+    },
+    {
+      "kind": "section",
+      "label": "5107.40",
+      "number": "5107.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.40"
+    },
+    {
+      "kind": "section",
+      "label": "5107.69",
+      "number": "5107.69",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.69"
+    },
+    {
+      "kind": "section",
+      "label": "5101.54",
+      "number": "5101.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5101.54"
+    },
+    {
+      "kind": "section",
+      "label": "4115.99",
+      "number": "4115.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4115.99"
+    },
+    {
+      "kind": "section",
+      "label": "1.59",
+      "number": "1.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1.59"
+    },
+    {
+      "kind": "section",
+      "label": "133.51",
+      "number": "133.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.51"
+    },
+    {
+      "kind": "section",
+      "label": "307.698",
+      "number": "307.698",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.698"
+    },
+    {
+      "kind": "section",
+      "label": "174.04",
+      "number": "174.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-174.04"
+    }
+  ],
+  "scraped": "2026-07-02T19:32:16+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-176.05",
+  "title": "Section 176.05 - Establishing residential prevailing rate of wages."
+}

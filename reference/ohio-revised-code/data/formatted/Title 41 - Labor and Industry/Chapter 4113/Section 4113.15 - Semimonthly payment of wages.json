@@ -1,0 +1,56 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Wage\" means the net amount of money payable to an employee, including any guaranteed pay or reimbursement for expenses, less any federal, state, or local taxes withheld; any deductions made pursuant to a written agreement for the purpose of providing the employee with any fringe benefits; and any employee authorized deduction.",
+      "id": "4113.15-wage",
+      "normalized": "wage",
+      "scope": "(D) As used in this section and section 4113.16 of the Revised Code:",
+      "section": "4113.15",
+      "source_title": "Section 4113.15 - Semimonthly payment of wages.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4113.15",
+      "term": "Wage"
+    },
+    {
+      "definition": "(2) \"Fringe benefits\" includes but is not limited to health, welfare, or retirement benefits, whether paid for entirely by the employer or on the basis of a joint employer-employee contribution, or vacation, separation, or holiday pay.",
+      "id": "4113.15-fringe-benefits",
+      "normalized": "fringe benefits",
+      "scope": "(D) As used in this section and section 4113.16 of the Revised Code:",
+      "section": "4113.15",
+      "source_title": "Section 4113.15 - Semimonthly payment of wages.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4113.15",
+      "term": "Fringe benefits"
+    },
+    {
+      "definition": "(3) \"Employee authorized deduction\" includes but is not limited to deductions for the purpose of any of the following:\n\n(a) Purchase of United States savings bonds or corporate stocks or bonds ;\n\n(b) A charitable contribution ;\n\n(c) Credit union savings or other regular savings program ;\n\n(d) Repayment of a loan or other obligation.",
+      "id": "4113.15-employee-authorized-deduction",
+      "normalized": "employee authorized deduction",
+      "scope": "(D) As used in this section and section 4113.16 of the Revised Code:",
+      "section": "4113.15",
+      "source_title": "Section 4113.15 - Semimonthly payment of wages.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4113.15",
+      "term": "Employee authorized deduction"
+    },
+    {
+      "definition": "(4) \"Employer\" means an individual, firm, partnership, association, or corporation, but does not include a franchisor with respect to the franchisor's relationship with a franchisee or an employee of a franchisee, unless either of the following applies:\n\n(a) The franchisor agrees to assume that role in writing.\n\n(b) A court of competent jurisdiction determines that the franchisor exercises a type or degree of control over the franchisee or the franchisee's employees that is not customarily exercised by a franchisor for the purpose of protecting the franchisor's trademark, brand, or both.\n\n(5) \"Franchisor\" and \"franchisee\" have the same meanings as in 16 C.F.R. 436.1.",
+      "id": "4113.15-employer",
+      "normalized": "employer",
+      "scope": "(D) As used in this section and section 4113.16 of the Revised Code:",
+      "section": "4113.15",
+      "source_title": "Section 4113.15 - Semimonthly payment of wages.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4113.15",
+      "term": "Employer"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "4113.16",
+      "number": "4113.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4113.16"
+    }
+  ],
+  "scraped": "2026-07-02T20:04:06+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4113.15",
+  "title": "Section 4113.15 - Semimonthly payment of wages."
+}

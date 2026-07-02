@@ -1,0 +1,130 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Ammunition\" has the same meaning as in section 2305.401 of the Revised Code and includes any ammunition component.\n\n(B) \"Assign\" or \"assignment\" refers to a financial institution's policy, process, or practice that labels, links, or otherwise associates a firearms code with a merchant or a payment card transaction in a manner that allows the financial institution or any other entity facilitating or processing the payment card transaction to identify whether a merchant is a firearms retailer or whether a transaction involves the sale of firearms or ammunition.",
+      "id": "1349.84-ammunition",
+      "normalized": "ammunition",
+      "scope": "As used in sections 1349.84 to 1349.86 of the Revised Code:",
+      "section": "1349.84",
+      "source_title": "Section 1349.84 - Firearm privacy definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1349.84",
+      "term": "Ammunition"
+    },
+    {
+      "definition": "(C) \"Customer\" means any person or entity engaged in a payment card transaction facilitated or processed by a financial institution.",
+      "id": "1349.84-customer",
+      "normalized": "customer",
+      "scope": "As used in sections 1349.84 to 1349.86 of the Revised Code:",
+      "section": "1349.84",
+      "source_title": "Section 1349.84 - Firearm privacy definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1349.84",
+      "term": "Customer"
+    },
+    {
+      "definition": "(D) \"Financial institution\" means a person or entity other than a merchant involved in facilitating or processing a payment card transaction, including any bank, as defined in section 1309.102 of the Revised Code, acquirer, payment card issuer, payment card network, payment gateway, or payment card processor.",
+      "id": "1349.84-financial-institution",
+      "normalized": "financial institution",
+      "scope": "As used in sections 1349.84 to 1349.86 of the Revised Code:",
+      "section": "1349.84",
+      "source_title": "Section 1349.84 - Firearm privacy definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1349.84",
+      "term": "Financial institution"
+    },
+    {
+      "definition": "(E) \"Firearm\" has the same meaning as in section 2923.11 of the Revised Code and includes a firearm component or accessory.",
+      "id": "1349.84-firearm",
+      "normalized": "firearm",
+      "scope": "As used in sections 1349.84 to 1349.86 of the Revised Code:",
+      "section": "1349.84",
+      "source_title": "Section 1349.84 - Firearm privacy definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1349.84",
+      "term": "Firearm"
+    },
+    {
+      "definition": "(F) \"Firearms retailer\" means any person or entity that is lawfully engaged, from a physical place of business in this state, in selling or trading firearms, antique firearms, or ammunition to be used in firearms or antique firearms.",
+      "id": "1349.84-firearms-retailer",
+      "normalized": "firearms retailer",
+      "scope": "As used in sections 1349.84 to 1349.86 of the Revised Code:",
+      "section": "1349.84",
+      "source_title": "Section 1349.84 - Firearm privacy definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1349.84",
+      "term": "Firearms retailer"
+    },
+    {
+      "definition": "(G) \"Firearms code\" means a merchant category code approved by the international organization for standardization or an equivalent successor organization and specifically assigned to a firearms retailer.",
+      "id": "1349.84-firearms-code",
+      "normalized": "firearms code",
+      "scope": "As used in sections 1349.84 to 1349.86 of the Revised Code:",
+      "section": "1349.84",
+      "source_title": "Section 1349.84 - Firearm privacy definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1349.84",
+      "term": "Firearms code"
+    },
+    {
+      "definition": "(H) \"Government entity\" means the state, a political subdivision of the state, or any court, agency, or instrumentality of the foregoing.",
+      "id": "1349.84-government-entity",
+      "normalized": "government entity",
+      "scope": "As used in sections 1349.84 to 1349.86 of the Revised Code:",
+      "section": "1349.84",
+      "source_title": "Section 1349.84 - Firearm privacy definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1349.84",
+      "term": "Government entity"
+    },
+    {
+      "definition": "(I) \"Payment card\" means a credit card, charge card, debit card, or any other card that is issued to an authorized card user and allows the user to purchase goods or services from a merchant.",
+      "id": "1349.84-payment-card",
+      "normalized": "payment card",
+      "scope": "As used in sections 1349.84 to 1349.86 of the Revised Code:",
+      "section": "1349.84",
+      "source_title": "Section 1349.84 - Firearm privacy definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1349.84",
+      "term": "Payment card"
+    },
+    {
+      "definition": "(J) \"Payment card transaction\" means any transaction in which a payment card is accepted as payment.\n\nLast updated February 12, 2025 at 3:10 PM",
+      "id": "1349.84-payment-card-transaction",
+      "normalized": "payment card transaction",
+      "scope": "As used in sections 1349.84 to 1349.86 of the Revised Code:",
+      "section": "1349.84",
+      "source_title": "Section 1349.84 - Firearm privacy definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1349.84",
+      "term": "Payment card transaction"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "1349.84",
+      "number": "1349.84",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.84"
+    },
+    {
+      "kind": "section",
+      "label": "1349.86",
+      "number": "1349.86",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.86"
+    },
+    {
+      "kind": "section",
+      "label": "2305.401",
+      "number": "2305.401",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.401"
+    },
+    {
+      "kind": "section",
+      "label": "1309.102",
+      "number": "1309.102",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1309.102"
+    },
+    {
+      "kind": "section",
+      "label": "2923.11",
+      "number": "2923.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2923.11"
+    }
+  ],
+  "scraped": "2026-07-02T19:37:28+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1349.84",
+  "title": "Section 1349.84 - Firearm privacy definitions."
+}

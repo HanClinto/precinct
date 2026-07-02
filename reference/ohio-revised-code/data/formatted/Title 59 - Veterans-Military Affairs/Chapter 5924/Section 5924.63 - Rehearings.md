@@ -1,0 +1,10 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5924.63
+Scraped: 2026-07-02T20:17:00+00:00
+
+# Section 5924.63 - Rehearings.
+
+**Effective:** September 28, 2012
+
+**Latest Legislation:** House Bill 490 - 129th General Assembly
+
+Each rehearing ordered pursuant to section 5924.60 of the Revised Code or by the court of military appeals shall take place before a court-martial composed of members who were not members of the court-martial that first heard the case. Upon a rehearing the accused may not be tried for any offense of which the accused was found not guilty by the first court-martial, and no sentence in excess of or more severe than the original sentence may be approved unless the sentence is based upon a finding of guilty of an offense not considered upon the merits in the original proceedings, or unless the sentence prescribed for the offense is mandatory. If the sentence approved after the first court-martial was in accordance with a pretrial agreement and the accused at the rehearing changes the accused's plea with respect to the charges or specifications upon which the pretrial agreement was based or otherwise does not comply with the pretrial agreement, the approved sentence as to those charges or specifications may include any punishment not in excess of the punishment lawfully adjudged at the first court-martial.

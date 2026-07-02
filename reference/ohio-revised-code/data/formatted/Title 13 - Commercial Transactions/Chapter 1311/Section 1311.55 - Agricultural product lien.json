@@ -1,0 +1,104 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Agricultural product\" means all fruit and vegetable crops, meat and meat products, milk and dairy products, poultry and poultry products, wool, and all seeds harvested by a producer for sale, except that it does not include any grain crop that is subject to the fee that the director of agriculture may require to be remitted under section 926.16 of the Revised Code. \"Agricultural product\" also includes an algacultural product as defined in section 901.511 of the Revised Code.",
+      "id": "1311.55-agricultural-product",
+      "normalized": "agricultural product",
+      "scope": "(A) As used in this section:",
+      "section": "1311.55",
+      "source_title": "Section 1311.55 - Agricultural product lien.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1311.55",
+      "term": "Agricultural product"
+    },
+    {
+      "definition": "(2) \"Agricultural product handling\" means engaging in or participating in the business of buying, selling, exchanging, or negotiating or soliciting a purchase, sale, resale, exchange, or transfer of an agricultural product.",
+      "id": "1311.55-agricultural-product-handling",
+      "normalized": "agricultural product handling",
+      "scope": "(A) As used in this section:",
+      "section": "1311.55",
+      "source_title": "Section 1311.55 - Agricultural product lien.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1311.55",
+      "term": "Agricultural product handling"
+    },
+    {
+      "definition": "(3) \"Agricultural product handler\" or \"handler\" means any person who is engaged in the business of agricultural product handling, except that a person who sells only those agricultural products that the person has produced, or buys agricultural products for the person's own use, is not an agricultural product handler.",
+      "id": "1311.55-agricultural-product-handler",
+      "normalized": "agricultural product handler",
+      "scope": "(A) As used in this section:",
+      "section": "1311.55",
+      "source_title": "Section 1311.55 - Agricultural product lien.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1311.55",
+      "term": "Agricultural product handler"
+    },
+    {
+      "definition": "(3) \"Agricultural product handler\" or \"handler\" means any person who is engaged in the business of agricultural product handling, except that a person who sells only those agricultural products that the person has produced, or buys agricultural products for the person's own use, is not an agricultural product handler.",
+      "id": "1311.55-handler",
+      "normalized": "handler",
+      "scope": "(A) As used in this section:",
+      "section": "1311.55",
+      "source_title": "Section 1311.55 - Agricultural product lien.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1311.55",
+      "term": "handler"
+    },
+    {
+      "definition": "(4) \"Agricultural producer\" or \"producer\" means any person who grows, raises, or produces an agricultural product on land that the person owns or leases.",
+      "id": "1311.55-agricultural-producer",
+      "normalized": "agricultural producer",
+      "scope": "(A) As used in this section:",
+      "section": "1311.55",
+      "source_title": "Section 1311.55 - Agricultural product lien.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1311.55",
+      "term": "Agricultural producer"
+    },
+    {
+      "definition": "(4) \"Agricultural producer\" or \"producer\" means any person who grows, raises, or produces an agricultural product on land that the person owns or leases.",
+      "id": "1311.55-producer",
+      "normalized": "producer",
+      "scope": "(A) As used in this section:",
+      "section": "1311.55",
+      "source_title": "Section 1311.55 - Agricultural product lien.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1311.55",
+      "term": "producer"
+    },
+    {
+      "definition": "(5) \"Proceeds\" has the same meaning as in division (A)(64) of section 1309.102 of the Revised Code.\n\n(B) An agricultural producer who delivers an agricultural product under an express or implied contract to an agricultural product handler, or an agricultural product handler who delivers an agricultural product under an express or implied contract to another agricultural product handler, has a lien to secure the payment for all of the agricultural product delivered under that contract. The lien attaches to the product, whether in a raw or processed condition, while in the possession of the agricultural product handler, and to the proceeds of the sale of the agricultural product. The lien attaches from the date of delivery of the agricultural product to the handler, or if there is a series of deliveries under the contract, from the date of the first delivery. The lien is contingent until the producer or handler complies with section 1311.56 of the Revised Code.\n\n(C) The lien on an agricultural product covers the contract price agreed upon, or when there is no agreed price at the time of delivery, the value of the agricultural product as determined by the \"market news service\" of the Ohio department of agriculture on the date the agricultural producer or handler files the affidavit permitted under section 1311.56 of the Revised Code.\n\n(D) Any waiver by a producer or handler of the producer's or handler's right to an agricultural product lien is void as being contrary to public policy.",
+      "id": "1311.55-proceeds",
+      "normalized": "proceeds",
+      "scope": "(A) As used in this section:",
+      "section": "1311.55",
+      "source_title": "Section 1311.55 - Agricultural product lien.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1311.55",
+      "term": "Proceeds"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "926.16",
+      "number": "926.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-926.16"
+    },
+    {
+      "kind": "section",
+      "label": "901.511",
+      "number": "901.511",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-901.511"
+    },
+    {
+      "kind": "section",
+      "label": "1309.102",
+      "number": "1309.102",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1309.102"
+    },
+    {
+      "kind": "section",
+      "label": "1311.56",
+      "number": "1311.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.56"
+    }
+  ],
+  "scraped": "2026-07-02T19:37:10+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1311.55",
+  "title": "Section 1311.55 - Agricultural product lien."
+}

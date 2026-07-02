@@ -1,0 +1,16 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-323.02
+Scraped: 2026-07-02T19:32:49+00:00
+
+# Section 323.02 - Acceptance of claim by county treasurer - certificates - assignment of certificate.
+
+**Effective:** October 1, 1953
+
+**Latest Legislation:** House Bill 1 - 100th General Assembly
+
+The county treasurer shall, upon submission of evidence of a liquidated claim by a taxpayer, accept it in full or partial payment of those taxes which are to be allocated to the subdivision against which the claim exists.
+
+Before any such liquidated claim is used, it shall first be presented by the taxpayer to the fiscal officer of the subdivision for verification. If such fiscal officer, upon examination, determines that the liquidated claim can be used for the payment of taxes as provided in sections 323.01 to 323.05 , inclusive, of the Revised Code, he shall, in writing, certify to such fact in duplicate, and such duplicate certificate shall be given to the taxpayer as evidence of his liquidated claim.
+
+If, of the total amount due from the taxpayer, the portion which is to be allocated to the indebted subdivision exceeds the amount of the liquidated claim evidenced by the certificate which the taxpayer wishes to use in payment of that portion of his taxes, the treasurer shall accept the total claim as part payment of such taxes, and shall distribute the canceled receipted certificate, along with such other canceled certificates and cash as are due it, to the subdivision in the same manner as though it were cash.
+
+The treasurer shall receipt upon the duplicate certificate the amount credited for taxes as provided in this section. If the amount of the claim, as evidenced by the certificate, is greater than the portion of the taxes to be paid by the taxpayer which will be allocated to the subdivision, the treasurer shall indorse on such certificate the amount that is accepted in payment of taxes, and a similar indorsement shall be made upon the duplicate certificate, which shall be retained by the taxpayer. This certificate, to the extent of the sum receipted for taxes, shall be allocated to the indebted subdivision in lieu of cash. If there is a balance due on such certificate, the fiscal officer shall, upon its surrender, issue to the taxpayer a new certificate, in duplicate, setting forth the amount due, which certificate may be used by the taxpayer for tax payments at subsequent collections in the manner provided in this section. Such new certificate, if founded upon a liquidated claim for money advanced and paid out, received and used by a subdivision as provided in division (D)(3) of section 323.01 of the Revised Code, may be assigned by the taxpayer, and the assignee thereof shall have the same right as the original owner of such certificate to use the claim evidenced by it in the payment of such assignee's taxes which are to be allocated to the subdivision against which the claim exists, and the treasurer shall have the same duty with reference to such certificate as is imposed upon him by this section with reference to certificates that have not been assigned. The assignment of any such certificate is an assignment of the claim evidenced by it.

@@ -1,0 +1,230 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Board of health\" means the board of health of a city or general health district or the authority having the duties of a board of health in any city authorized by section 3709.05 of the Revised Code.",
+      "id": "935.01-board-of-health",
+      "normalized": "board of health",
+      "scope": "As used in this chapter:",
+      "section": "935.01",
+      "source_title": "Section 935.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-935.01",
+      "term": "Board of health"
+    },
+    {
+      "definition": "(B) \"Circus\" means a traveling show to which all of the following apply:\n\n(1) It is licensed by the United States department of agriculture under the federal animal welfare act.\n\n(2) It presents dangerous wild animals, restricted snakes, or both in a public performance as its own event or as part of a fair or carnival.\n\n(3) It does not allow physical contact between the public and the dangerous wild animals or restricted snakes possessed by it. Division (B)(3) of this section does not apply to rides or other interactions between the public and an elephant, provided that such a ride or other interaction is under the direct supervision of an experienced animal handler.\n\n(4) It is in the state for less than sixty-five days each year.",
+      "id": "935.01-circus",
+      "normalized": "circus",
+      "scope": "As used in this chapter:",
+      "section": "935.01",
+      "source_title": "Section 935.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-935.01",
+      "term": "Circus"
+    },
+    {
+      "definition": "(C) \"Dangerous wild animal\" means any of the following, including hybrids unless otherwise specified:\n\n(1) Hyenas;\n\n(2) Gray wolves, excluding hybrids;\n\n(3) Lions;\n\n(4) Tigers;\n\n(5) Jaguars;\n\n(6) Leopards, including clouded leopards, Sunda clouded leopards, and snow leopards;\n\n(7) All of the following, including hybrids with domestic cats unless otherwise specified:\n\n(a) Cheetahs;\n\n(b) Lynxes, including Canadian lynxes, Eurasian lynxes, and Iberian lynxes;\n\n(c) Cougars, also known as pumas or mountain lions;\n\n(d) Caracals;\n\n(e) Servals, excluding hybrids with domestic cats commonly known as savannah cats.\n\n(8) Bears;\n\n(9) Elephants;\n\n(10) Rhinoceroses;\n\n(11) Hippopotamuses;\n\n(12) Cape buffaloes;\n\n(13) African wild dogs;\n\n(14) Komodo dragons;\n\n(15) Alligators;\n\n(16) Crocodiles;\n\n(17) Caimans, excluding dwarf caimans;\n\n(18) Gharials;\n\n(19) Nonhuman primates other than lemurs and the nonhuman primates specified in division (C)(20) of this section;\n\n(20) All of the following nonhuman primates:\n\n(a) Golden lion, black-faced lion, golden-rumped lion, cotton-top, emperor, saddlebacked, black-mantled, and Geoffroy's tamarins;\n\n(b) Southern and northern night monkeys;\n\n(c) Dusky titi and masked titi monkeys;\n\n(d) Muriquis;\n\n(e) Goeldi's monkeys;\n\n(f) White-faced, black-bearded, white-nose bearded, and monk sakis;\n\n(g) Bald and black uakaris;\n\n(h) Black-handed, white-bellied, brown-headed, and black spider monkeys;\n\n(i) Common woolly monkeys;\n\n(j) Red, black, and mantled howler monkeys.",
+      "id": "935.01-dangerous-wild-animal",
+      "normalized": "dangerous wild animal",
+      "scope": "As used in this chapter:",
+      "section": "935.01",
+      "source_title": "Section 935.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-935.01",
+      "term": "Dangerous wild animal"
+    },
+    {
+      "definition": "\"Dangerous wild animal\" does not include a domesticated animal that is considered livestock as defined in section 901.70 of the Revised Code.",
+      "id": "935.01-dangerous-wild-animal",
+      "normalized": "dangerous wild animal",
+      "scope": "As used in this chapter:",
+      "section": "935.01",
+      "source_title": "Section 935.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-935.01",
+      "term": "Dangerous wild animal"
+    },
+    {
+      "definition": "(D) \"Federal animal welfare act\" has the same meaning as in section 959.131 of the Revised Code.",
+      "id": "935.01-federal-animal-welfare-act",
+      "normalized": "federal animal welfare act",
+      "scope": "As used in this chapter:",
+      "section": "935.01",
+      "source_title": "Section 935.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-935.01",
+      "term": "Federal animal welfare act"
+    },
+    {
+      "definition": "(E) \"Felony drug abuse offense\" has the same meaning as in section 2925.01 of the Revised Code.",
+      "id": "935.01-felony-drug-abuse-offense",
+      "normalized": "felony drug abuse offense",
+      "scope": "As used in this chapter:",
+      "section": "935.01",
+      "source_title": "Section 935.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-935.01",
+      "term": "Felony drug abuse offense"
+    },
+    {
+      "definition": "(F) \"Health district\" means a city or general health district created by or under the authority of Chapter 3709. of the Revised Code.",
+      "id": "935.01-health-district",
+      "normalized": "health district",
+      "scope": "As used in this chapter:",
+      "section": "935.01",
+      "source_title": "Section 935.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-935.01",
+      "term": "Health district"
+    },
+    {
+      "definition": "(G) \"Humane society\" means an organization that is organized under section 1717.05 of the Revised Code.",
+      "id": "935.01-humane-society",
+      "normalized": "humane society",
+      "scope": "As used in this chapter:",
+      "section": "935.01",
+      "source_title": "Section 935.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-935.01",
+      "term": "Humane society"
+    },
+    {
+      "definition": "(H) \"Law enforcement officer\" means a sheriff, deputy sheriff, constable, police officer of a township or joint police district, marshal, deputy marshal, municipal police officer, or state highway patrol trooper.",
+      "id": "935.01-law-enforcement-officer",
+      "normalized": "law enforcement officer",
+      "scope": "As used in this chapter:",
+      "section": "935.01",
+      "source_title": "Section 935.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-935.01",
+      "term": "Law enforcement officer"
+    },
+    {
+      "definition": "(I) \"Natural resources law enforcement officers\" means peace officers as specified in division (A)(6) of section 109.71 of the Revised Code and employees of the division of wildlife specified in sections 1531.13 and 1531.14 of the Revised Code.",
+      "id": "935.01-natural-resources-law-enforcement-officers",
+      "normalized": "natural resources law enforcement officers",
+      "scope": "As used in this chapter:",
+      "section": "935.01",
+      "source_title": "Section 935.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-935.01",
+      "term": "Natural resources law enforcement officers"
+    },
+    {
+      "definition": "(J) \"Offense of violence\" has the same meaning as in section 2901.01 of the Revised Code.",
+      "id": "935.01-offense-of-violence",
+      "normalized": "offense of violence",
+      "scope": "As used in this chapter:",
+      "section": "935.01",
+      "source_title": "Section 935.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-935.01",
+      "term": "Offense of violence"
+    },
+    {
+      "definition": "(K) \"Rescue facility\" means a nonprofit organization as described in section 170 of the \"Internal Revenue Code of 1986,\" 100 Stat. 2085, 26 U.S.C. 170, as amended, that operates a place of refuge where abused, neglected, unwanted, impounded, abandoned, orphaned, or displaced dangerous wild animals are provided care for their lifetime or released back to their natural habitat, and, with respect to an animal possessed by the organization, that does not do any of the following:\n\n(1) Sell, trade, or barter the animal or the animal's body parts;\n\n(2) Use the animal in any manner for profit;\n\n(3) Breed the animal;\n\n(4) Allow the public the opportunity to come into contact with the animal.",
+      "id": "935.01-rescue-facility",
+      "normalized": "rescue facility",
+      "scope": "As used in this chapter:",
+      "section": "935.01",
+      "source_title": "Section 935.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-935.01",
+      "term": "Rescue facility"
+    },
+    {
+      "definition": "(L) \"Restricted snake\" means any of the following:\n\n(1) All of the following constricting snakes that are twelve feet or longer:\n\n(a) Green anacondas;\n\n(b) Yellow anacondas;\n\n(c) Reticulated pythons;\n\n(d) Indian pythons;\n\n(e) Burmese pythons;\n\n(f) North African rock pythons;\n\n(g) South African rock pythons;\n\n(h) Amethystine pythons.\n\n(2) Species of the following families:\n\n(a) Atractaspididae;\n\n(b) Elapidae;\n\n(c) Viperidae.\n\n(3) Boomslang snakes;\n\n(4) Twig snakes.",
+      "id": "935.01-restricted-snake",
+      "normalized": "restricted snake",
+      "scope": "As used in this chapter:",
+      "section": "935.01",
+      "source_title": "Section 935.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-935.01",
+      "term": "Restricted snake"
+    },
+    {
+      "definition": "(M) \"Rule\" means a rule adopted under section 935.17 of the Revised Code.",
+      "id": "935.01-rule",
+      "normalized": "rule",
+      "scope": "As used in this chapter:",
+      "section": "935.01",
+      "source_title": "Section 935.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-935.01",
+      "term": "Rule"
+    },
+    {
+      "definition": "(N) \"Veterinarian\" means a person who is licensed under Chapter 4741. of the Revised Code.",
+      "id": "935.01-veterinarian",
+      "normalized": "veterinarian",
+      "scope": "As used in this chapter:",
+      "section": "935.01",
+      "source_title": "Section 935.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-935.01",
+      "term": "Veterinarian"
+    },
+    {
+      "definition": "(O) \"Wildlife sanctuary\" means a nonprofit organization as described in section 170 of the \"Internal Revenue Code of 1986,\" 100 Stat. 2085, 26 U.S.C. 170, as amended, that is accredited or verified by the global federation of animal sanctuaries, that operates a place of refuge where abused, neglected, unwanted, impounded, abandoned, orphaned, or displaced dangerous wild animals or restricted snakes are provided care for their lifetime or released back to their natural habitat, and, with respect to an animal or snake possessed by the organization, that does not do any of the following:\n\n(1) Use or allow the use of the animal or snake for any type of entertainment or in a traveling exhibit;\n\n(2) Sell, trade, lease, loan, or barter the animal or snake or the animal's or snake's body parts;\n\n(3) Use or allow the use of the animal or snake in any manner for profit;\n\n(4) Breed the animal or snake;\n\n(5) Allow the public the opportunity to come into physical contact with the animal or snake.",
+      "id": "935.01-wildlife-sanctuary",
+      "normalized": "wildlife sanctuary",
+      "scope": "As used in this chapter:",
+      "section": "935.01",
+      "source_title": "Section 935.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-935.01",
+      "term": "Wildlife sanctuary"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3709.05",
+      "number": "3709.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3709.05"
+    },
+    {
+      "kind": "section",
+      "label": "901.70",
+      "number": "901.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-901.70"
+    },
+    {
+      "kind": "section",
+      "label": "959.131",
+      "number": "959.131",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-959.131"
+    },
+    {
+      "kind": "section",
+      "label": "2925.01",
+      "number": "2925.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2925.01"
+    },
+    {
+      "kind": "section",
+      "label": "1717.05",
+      "number": "1717.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1717.05"
+    },
+    {
+      "kind": "section",
+      "label": "109.71",
+      "number": "109.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.71"
+    },
+    {
+      "kind": "section",
+      "label": "1531.13",
+      "number": "1531.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1531.13"
+    },
+    {
+      "kind": "section",
+      "label": "1531.14",
+      "number": "1531.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1531.14"
+    },
+    {
+      "kind": "section",
+      "label": "2901.01",
+      "number": "2901.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2901.01"
+    },
+    {
+      "kind": "section",
+      "label": "935.17",
+      "number": "935.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-935.17"
+    }
+  ],
+  "scraped": "2026-07-02T19:35:26+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-935.01",
+  "title": "Section 935.01 - Definitions."
+}

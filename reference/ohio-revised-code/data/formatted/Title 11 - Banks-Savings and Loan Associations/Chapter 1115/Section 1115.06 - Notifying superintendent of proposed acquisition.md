@@ -1,0 +1,90 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-1115.06
+Scraped: 2026-07-02T19:36:51+00:00
+
+# Section 1115.06 - Notifying superintendent of proposed acquisition.
+
+**Effective:** January 1, 2018
+
+**Latest Legislation:** House Bill 49 - 132nd General Assembly
+
+(A) As used in this section:
+
+(1) "Control" of a state bank means either of the following:
+
+(a) Power, directly or indirectly, to direct the management or policies of a state bank;
+
+(b) Ownership or control of or power to vote twenty-five per cent or more of any class of voting securities of a state bank.
+
+(2) "State bank" includes any bank holding company that controls a state bank, and any other company that controls a state bank and is not a bank holding company.
+
+(B)(1) No person, acting directly or indirectly or through or in concert with one or more other persons, shall acquire control of a state bank through a purchase, assignment, transfer, pledge, or other disposition of voting securities of a state bank unless the superintendent of financial institutions has been given sixty days' prior written notice of the proposed acquisition and within that sixty days the superintendent has not done either of the following:
+
+(a) Disapproved the acquisition;
+
+(b) Extended the time during which the superintendent may disapprove the acquisition, as provided in division (B)(2) of this section.
+
+(2) The superintendent may extend the time during which the superintendent may disapprove a proposed acquisition of control, as follows:
+
+(a) For an additional thirty days in the discretion of the superintendent;
+
+(b) For two additional extensions of not more than forty-five days each, if any of the following applies:
+
+(i) The superintendent determines any acquiring party has not furnished all of the information required under division (C) of this section.
+
+(ii) In the superintendent's judgment, any material information submitted is substantially inaccurate.
+
+(iii) The superintendent has been unable to complete the investigation of an acquiring person under division (E)(1) of this section because of any delay caused by, or the inadequate cooperation of, that acquiring person.
+
+(iv) The superintendent determines additional time is needed to investigate and determine whether any acquiring person has a record of failing to comply with the requirements of subchapter II of chapter 53 of subtitle IV of Title 31 of the United States Code.
+
+(3) An acquisition may be made prior to the expiration of the disapproval period if the superintendent issues written notice of the superintendent's intent not to disapprove the acquisition of control.
+
+(C) A notice required under division (B) of this section shall contain such information as the superintendent may require by rule.
+
+(D) Unless the superintendent determines an emergency exists or disclosure of a proposed acquisition of control would seriously threaten the safety or soundness of the state bank, each person who gives a notice required under division (B) of this section shall, within a reasonable time after receiving the superintendent's acceptance of the notice, do both of the following:
+
+(1) Publish the name of the state bank proposed to be acquired and the name of each person identified in the notice as a person by whom or for whom the acquisition is to be made;
+
+(2) Solicit public comment on the proposed acquisition, particularly from persons in the geographic area where the state bank proposed to be acquired is located, before final consideration of the notice by the superintendent.
+
+(E) Upon accepting a notice required under division (B) of this section, the superintendent shall do both of the following:
+
+(1) Conduct an investigation of the competence, experience, integrity, and financial ability of each person named in the notice as a person by whom or for whom the acquisition is to be made;
+
+(2) Make an independent determination of the accuracy and completeness of all information required to be in the notice.
+
+(F) The superintendent may disapprove any proposed acquisition of control if the superintendent finds any of the following:
+
+(1) The proposed acquisition of control would result in a monopoly or further any combination or conspiracy to monopolize or to attempt to monopolize the business of banking in any part of this state or any markets served by the state bank.
+
+(2) The effect of the proposed acquisition of control in any part of this state and any markets served by the state bank may be to substantially lessen competition, tend to create a monopoly, or in any other manner restrain trade, and the anticompetitive effects of the proposed acquisition of control are not clearly outweighed in the public interest by the probable effect of the acquisition in meeting the convenience and needs of the community to be served.
+
+(3) The financial condition of any acquiring person might jeopardize the financial stability of the state bank or prejudice the interests of the depositors of the state bank.
+
+(4) The competence, experience, or integrity of any acquiring person or of any of the proposed management personnel indicates that it would not be in the interest of the depositors of the state bank, or in the interest of the public, to permit the acquiring person to control the state bank.
+
+(5) The acquiring person neglects, fails, or refuses to furnish to the superintendent all of the information required by the superintendent.
+
+(6) The superintendent determines the proposed transaction would have an adverse effect on the deposit insurance fund administered by the federal deposit insurance corporation.
+
+(G) Within three days after deciding to disapprove any proposed acquisition of control of a state bank, the superintendent shall notify the acquiring person in writing of the disapproval. The notice of disapproval shall provide a statement of the basis for the disapproval.
+
+(H) Within ten days after receipt of a notice of the disapproval, the acquiring person may, in accordance with Chapter 119. of the Revised Code, request a hearing conducted in accordance with that chapter on the proposed acquisition.
+
+(I) Whenever a change in control of a state bank occurs, the state bank shall promptly report to the superintendent any changes in or replacement of its chief executive officer or of any director that occurs in the next twelve-month period, and include in the report a statement of the past and current business and professional affiliations of the new chief executive officer or director.
+
+(J)(1) The superintendent may exercise any authority vested in the superintendent under Chapter 1121. of the Revised Code in the course of conducting any investigation under division (E) of this section or any other investigation the superintendent, in the superintendent's discretion, considers necessary to determine whether any person has filed inaccurate, incomplete, or misleading information under this section or otherwise is violating, has violated, or is about to violate any provision of this section or any rule implementing this section.
+
+(2) Whenever it appears to the superintendent any person is violating, has violated, or is about to violate any provision of this section or any rule implementing this section, the superintendent may, in the superintendent's discretion, apply to the court of common pleas of any county in which the state bank is doing business for either of the following:
+
+(a) A temporary or permanent injunction or restraining order enjoining the person from violating this section or any rule implementing this section;
+
+(b) Other equitable relief, including divestiture, that may be necessary to prevent violation of this section or of any rule implementing this section.
+
+(3)(a) The courts of this state have the same jurisdiction and power in connection with the exercise of any authority by the superintendent under this section as they have under Chapter 1121. of the Revised Code.
+
+(b) The courts of this state have jurisdiction and power to issue any injunction or restraining order or grant any equitable relief described in division (J)(2) of this section. When a court finds it appropriate, the court may grant the injunction, order, or other equitable relief without requiring the posting of any bond.
+
+(K) The resignation, termination of employment or participation, divestiture of control, or separation of or by a regulated person, including a separation caused by the closing of a state bank, shall not affect the jurisdiction and authority of the superintendent to issue any notice and otherwise proceed under this section against the regulated person, if the notice is issued no later than six years after the date of the regulated person's resignation, termination of employment or participation, or separation from or divestiture of control of a state bank.
+
+For purposes of this division, "regulated person" has the same meaning as in section 1121.01 of the Revised Code.

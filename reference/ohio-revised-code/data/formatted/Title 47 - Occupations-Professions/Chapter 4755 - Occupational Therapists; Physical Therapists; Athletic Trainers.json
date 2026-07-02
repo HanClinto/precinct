@@ -1,0 +1,363 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 4755.01 - Ohio occupational therapy, physical therapy, and athletic trainers board.",
+      "number": "4755.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4755.02 - Powers and duties of board.",
+      "number": "4755.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4755.03 - Fees credited to occupational licensing and regulatory fund.",
+      "number": "4755.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4755.031 - Fee for costs of sanction proceedings.",
+      "number": "4755.031",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.031"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4755.04 - Occupational therapist definitions.",
+      "number": "4755.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4755.05 - Requirement of license or permit.",
+      "number": "4755.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4755.06 - Administrative rules.",
+      "number": "4755.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4755.061 - Limitation on fee amounts.",
+      "number": "4755.061",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.061"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4755.062 - Contracting for assistance with continuing education duties.",
+      "number": "4755.062",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.062"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4755.07 - License qualifications.",
+      "number": "4755.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4755.08 - License - limited permit.",
+      "number": "4755.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4755.09 - Waiver of examination.",
+      "number": "4755.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4755.10 - Renewals.",
+      "number": "4755.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4755.11 - Disciplinary actions.",
+      "number": "4755.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4755.111 - Rendering of therapy services through business entity.",
+      "number": "4755.111",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.111"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4755.12 - Fees.",
+      "number": "4755.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4755.13 - Exemptions.",
+      "number": "4755.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4755.14 - Occupational therapy licensure compact.",
+      "number": "4755.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4755.141 - Delegate to occupational therapy compact commission.",
+      "number": "4755.141",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.141"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4755.40 - Physical therapist definitions.",
+      "number": "4755.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4755.41 - Physical therapy section duties.",
+      "number": "4755.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4755.411 - Rules to be adopted by physical therapy section.",
+      "number": "4755.411",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.411"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4755.412 - Excess fees by physical therapy section authorized.",
+      "number": "4755.412",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.412"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4755.42 - License qualifications.",
+      "number": "4755.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4755.421 - Physical therapist assistant application.",
+      "number": "4755.421",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.421"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4755.43 - Physical therapist examinations.",
+      "number": "4755.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4755.431 - Physical therapist assistant examinations.",
+      "number": "4755.431",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.431"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4755.44 - Issuance of physical therapist license.",
+      "number": "4755.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4755.441 - Issuance of physical therapist assistant license.",
+      "number": "4755.441",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.441"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4755.45 - Physical therapist license - reciprocity.",
+      "number": "4755.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4755.451 - Physical therapist assistant license - reciprocity.",
+      "number": "4755.451",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.451"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4755.46 - Renewals.",
+      "number": "4755.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4755.47 - Disciplinary actions.",
+      "number": "4755.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4755.471 - Forms of business entities authorized to provide services.",
+      "number": "4755.471",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.471"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4755.48 - Prohibitions.",
+      "number": "4755.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4755.481 - Treatment without prescription or referral.",
+      "number": "4755.481",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.481"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4755.482 - Requirements for teaching physical therapy - violations - sanctions.",
+      "number": "4755.482",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.482"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4755.50 - No restrictions on licensed health care professional.",
+      "number": "4755.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4755.51 - Continuing education.",
+      "number": "4755.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4755.511 - License renewal - continuing education requirements.",
+      "number": "4755.511",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.511"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4755.52 - Administrative rules for approval of courses, programs and activities.",
+      "number": "4755.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4755.53 - Continuing education - granting units.",
+      "number": "4755.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4755.56 - Insurance claims to specify license number of physical therapy service provider.",
+      "number": "4755.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4755.57 - Physical therapy licensure compact.",
+      "number": "4755.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4755.571 - Delegate to physical therapy compact commission.",
+      "number": "4755.571",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.571"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4755.60 - Athletic trainer definitions.",
+      "number": "4755.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4755.61 - Athletic trainers section of board - powers and duties.",
+      "number": "4755.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4755.62 - License qualifications.",
+      "number": "4755.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4755.621 - Athletic trainers' practice under collaboration agreements.",
+      "number": "4755.621",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.621"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4755.622 - Athletic trainers' practice without collaboration agreements.",
+      "number": "4755.622",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.622"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4755.623 - Required referrals for athletic training.",
+      "number": "4755.623",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.623"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4755.63 - Renewal of license.",
+      "number": "4755.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4755.64 - Disciplinary actions.",
+      "number": "4755.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4755.65 - Exemptions.",
+      "number": "4755.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4755.66 - Effect of child support default on license.",
+      "number": "4755.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4755.70 - License applicant to comply with RC Chapter 4776.",
+      "number": "4755.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4755.71 - Compliance with law regarding sanctions for human trafficking.",
+      "number": "4755.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4755.90 - Telehealth services.",
+      "number": "4755.90",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.90"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4755.99 - Penalty.",
+      "number": "4755.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4755.99"
+    }
+  ],
+  "scraped": "2026-07-02T20:07:44+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-4755",
+  "title": "Chapter 4755 - Occupational Therapists; Physical Therapists; Athletic Trainers"
+}

@@ -1,0 +1,150 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Tax\" includes only those taxes imposed on tangible personal property listed in accordance with Chapter 5711. of the Revised Code, taxes imposed under Chapters 5733., 5736., 5739., 5741., 5747., and 5751. of the Revised Code, and the tax administered under sections 718.80 to 718.95 of the Revised Code.",
+      "id": "5703.50-tax",
+      "normalized": "tax",
+      "scope": "As used in sections 5703.50 to 5703.53 of the Revised Code:",
+      "section": "5703.50",
+      "source_title": "Section 5703.50 - Taxpayer rights definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5703.50",
+      "term": "Tax"
+    },
+    {
+      "definition": "(B) \"Taxpayer\" means a person subject to or potentially subject to a tax including an employer required to deduct and withhold any amount under section 5747.06 of the Revised Code.",
+      "id": "5703.50-taxpayer",
+      "normalized": "taxpayer",
+      "scope": "As used in sections 5703.50 to 5703.53 of the Revised Code:",
+      "section": "5703.50",
+      "source_title": "Section 5703.50 - Taxpayer rights definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5703.50",
+      "term": "Taxpayer"
+    },
+    {
+      "definition": "(C) \"Audit\" means the examination of a taxpayer or the inspection of the books, records, memoranda, or accounts of a taxpayer for the purpose of determining liability for a tax.",
+      "id": "5703.50-audit",
+      "normalized": "audit",
+      "scope": "As used in sections 5703.50 to 5703.53 of the Revised Code:",
+      "section": "5703.50",
+      "source_title": "Section 5703.50 - Taxpayer rights definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5703.50",
+      "term": "Audit"
+    },
+    {
+      "definition": "(D) \"Assessment\" means a notice of underpayment or nonpayment of a tax issued pursuant to section 718.90 , 5711.26 , 5711.32 , 5733.11 , 5736.09 , 5739.13 , 5741.11 , 5741.13 , 5747.13 , or 5751.09 of the Revised Code.",
+      "id": "5703.50-assessment",
+      "normalized": "assessment",
+      "scope": "As used in sections 5703.50 to 5703.53 of the Revised Code:",
+      "section": "5703.50",
+      "source_title": "Section 5703.50 - Taxpayer rights definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5703.50",
+      "term": "Assessment"
+    },
+    {
+      "definition": "(E) \"County auditor\" means the auditor of the county in which the tangible personal property subject to a tax is located.",
+      "id": "5703.50-county-auditor",
+      "normalized": "county auditor",
+      "scope": "As used in sections 5703.50 to 5703.53 of the Revised Code:",
+      "section": "5703.50",
+      "source_title": "Section 5703.50 - Taxpayer rights definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5703.50",
+      "term": "County auditor"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "5703.50",
+      "number": "5703.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.50"
+    },
+    {
+      "kind": "section",
+      "label": "5703.53",
+      "number": "5703.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.53"
+    },
+    {
+      "kind": "section",
+      "label": "718.80",
+      "number": "718.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.80"
+    },
+    {
+      "kind": "section",
+      "label": "718.95",
+      "number": "718.95",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.95"
+    },
+    {
+      "kind": "section",
+      "label": "5747.06",
+      "number": "5747.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.06"
+    },
+    {
+      "kind": "section",
+      "label": "718.90",
+      "number": "718.90",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.90"
+    },
+    {
+      "kind": "section",
+      "label": "5711.26",
+      "number": "5711.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5711.26"
+    },
+    {
+      "kind": "section",
+      "label": "5711.32",
+      "number": "5711.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5711.32"
+    },
+    {
+      "kind": "section",
+      "label": "5733.11",
+      "number": "5733.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.11"
+    },
+    {
+      "kind": "section",
+      "label": "5736.09",
+      "number": "5736.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5736.09"
+    },
+    {
+      "kind": "section",
+      "label": "5739.13",
+      "number": "5739.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.13"
+    },
+    {
+      "kind": "section",
+      "label": "5741.11",
+      "number": "5741.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5741.11"
+    },
+    {
+      "kind": "section",
+      "label": "5741.13",
+      "number": "5741.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5741.13"
+    },
+    {
+      "kind": "section",
+      "label": "5747.13",
+      "number": "5747.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.13"
+    },
+    {
+      "kind": "section",
+      "label": "5751.09",
+      "number": "5751.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5751.09"
+    }
+  ],
+  "scraped": "2026-07-02T20:14:19+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5703.50",
+  "title": "Section 5703.50 - Taxpayer rights definitions."
+}

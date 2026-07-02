@@ -1,0 +1,48 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) Notwithstanding section 164.01 of the Revised Code, as used in sections 164.20 to 164.27 of the Revised Code, \"local political subdivision\" means a county, municipal corporation, township, conservancy district, soil and water conservation district, lake facilities authority, joint recreation district, park district, or other similar park authority.",
+      "id": "164.20-local-political-subdivision",
+      "normalized": "local political subdivision",
+      "scope": "",
+      "section": "164.20",
+      "source_title": "Section 164.20 - Natural resource project definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-164.20",
+      "term": "local political subdivision"
+    },
+    {
+      "definition": "(B) As used in sections 164.20 to 164.27 of the Revised Code, \"nonprofit organization\" means an environmental and conservation organization that is exempt from federal income taxation pursuant to 26 U.S.C. 501(a) and described in 26 U.S.C. 501(c) and formed to protect the natural environment.\n\n(C) For the purposes of sections 164.20 to 164.27 of the Revised Code, the definition of \"project\" in section 164.01 of the Revised Code does not apply.\n\nLast updated April 26, 2022 at 4:20 PM",
+      "id": "164.20-nonprofit-organization",
+      "normalized": "nonprofit organization",
+      "scope": "",
+      "section": "164.20",
+      "source_title": "Section 164.20 - Natural resource project definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-164.20",
+      "term": "nonprofit organization"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "164.01",
+      "number": "164.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-164.01"
+    },
+    {
+      "kind": "section",
+      "label": "164.20",
+      "number": "164.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-164.20"
+    },
+    {
+      "kind": "section",
+      "label": "164.27",
+      "number": "164.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-164.27"
+    }
+  ],
+  "scraped": "2026-07-02T19:32:08+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-164.20",
+  "title": "Section 164.20 - Natural resource project definitions."
+}

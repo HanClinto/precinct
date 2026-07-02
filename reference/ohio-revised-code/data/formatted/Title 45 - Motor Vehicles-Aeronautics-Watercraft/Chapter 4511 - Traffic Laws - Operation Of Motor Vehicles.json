@@ -1,0 +1,1035 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 4511.01 - Traffic laws - operation of motor vehicles definitions.",
+      "number": "4511.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.011 - Designating freeway, expressway, and thruway.",
+      "number": "4511.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.011"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.03 - Emergency vehicles at red signal or stop sign.",
+      "number": "4511.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.031 - Portable signal preemption devices prohibited.",
+      "number": "4511.031",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.031"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.04 - Exception to traffic rules.",
+      "number": "4511.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.041 - Exceptions to traffic rules for emergency or public safety vehicle responding to emergency call.",
+      "number": "4511.041",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.041"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.042 - Exceptions to traffic rules for coroner's vehicles.",
+      "number": "4511.042",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.042"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.043 - Ticket, summons, or citation for secondary traffic offense.",
+      "number": "4511.043",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.043"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.05 - Persons riding or driving animals upon roadways.",
+      "number": "4511.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.051 - Freeways - prohibited acts.",
+      "number": "4511.051",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.051"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.06 - Applicability and uniformity of traffic laws.",
+      "number": "4511.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.07 - Local traffic regulations.",
+      "number": "4511.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.071 - No liability for lessor under written lease.",
+      "number": "4511.071",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.071"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.08 - Use of private property for vehicular travel.",
+      "number": "4511.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.09 - Manual for uniform system of traffic control devices.",
+      "number": "4511.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.091 - Arrest or citation of driver based on radar, timing device or radio message from another officer.",
+      "number": "4511.091",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.091"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.092 - Definitions.",
+      "number": "4511.092",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.092"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.093 - Traffic law photo-monitoring devices.",
+      "number": "4511.093",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.093"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.094 - Signs required for photo-monitoring devices.",
+      "number": "4511.094",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.094"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.095 - Prerequisites for deployment of device.",
+      "number": "4511.095",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.095"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.096 - Examination of evidence.",
+      "number": "4511.096",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.096"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.097 - Classification of violation as civil violation.",
+      "number": "4511.097",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.097"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.098 - Rights of those ticketed.",
+      "number": "4511.098",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.098"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.099 - Advance deposit for filing civil action.",
+      "number": "4511.099",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.099"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.0910 - Violations for which civil penalty imposed.",
+      "number": "4511.0910",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.0910"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.0911 - Traffic law photo-monitoring device maintenance records; accuracy; issuance of certain tickets prohibited.",
+      "number": "4511.0911",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.0911"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.0912 - Speeding tickets.",
+      "number": "4511.0912",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.0912"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.0913 - Applicable law.",
+      "number": "4511.0913",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.0913"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.0914 - Bans on use of traffic law photo-monitoring devices.",
+      "number": "4511.0914",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.0914"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.10 - Placement and maintenance of traffic control devices.",
+      "number": "4511.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.101 - Placement of business logos on directional signs along interstates.",
+      "number": "4511.101",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.101"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.102 - Tourist-oriented directional sign program definitions.",
+      "number": "4511.102",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.102"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.103 - Administrative rules for placement of tourist-oriented directional signs and trailblazer markers.",
+      "number": "4511.103",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.103"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.104 - Participation in tourist-oriented directional sign program.",
+      "number": "4511.104",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.104"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.105 - Tourist-oriented directional signs to conform to federal manual of uniform traffic control devices.",
+      "number": "4511.105",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.105"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.106 - Local tourist-oriented directional sign programs.",
+      "number": "4511.106",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.106"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.107 - Acquiring outdoor advertising devices.",
+      "number": "4511.107",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.107"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.108 - Traffic generator sign program.",
+      "number": "4511.108",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.108"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.11 - Local conformity to manual for uniform system of traffic control devices.",
+      "number": "4511.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.12 - Obedience to traffic control devices.",
+      "number": "4511.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.121 - Bypassing vehicle weighing locations.",
+      "number": "4511.121",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.121"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.122 - Hands free law signs.",
+      "number": "4511.122",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.122"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.13 - Highway traffic signal indications; section not applicable to railroad crossings.",
+      "number": "4511.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.131 - Lane-use control signal indications.",
+      "number": "4511.131",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.131"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.132 - Operation at intersections with malfunctioning traffic control signal lights.",
+      "number": "4511.132",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.132"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.14 - Special pedestrian control signals.",
+      "number": "4511.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.15 - Bicycle symbol signal indications.",
+      "number": "4511.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.16 - Unauthorized sign or signal resembling a traffic control device.",
+      "number": "4511.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.17 - Tampering with traffic control device, freshly applied pavement material, manhole covers.",
+      "number": "4511.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.18 - Purchase, possession or sale of traffic control device.",
+      "number": "4511.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.181 - OVI definitions.",
+      "number": "4511.181",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.181"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.19 - Operating vehicle under the influence of alcohol or drugs - OVI.",
+      "number": "4511.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.191 - Implied consent.",
+      "number": "4511.191",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.191"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.192 - Advice to OVI arrestee.",
+      "number": "4511.192",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.192"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.193 - Portion fine deposited in municipal or county indigent drivers alcohol treatment fund.",
+      "number": "4511.193",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.193"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.194 - Having physical control of vehicle while under the influence.",
+      "number": "4511.194",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.194"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.195 - Seizing and detaining vehicle if operator has prior conviction.",
+      "number": "4511.195",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.195"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.196 - Initial appearance.",
+      "number": "4511.196",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.196"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.197 - Appeal of implied consent suspension.",
+      "number": "4511.197",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.197"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.198 - Limited driving privileges - remote continuous alcohol monitor.",
+      "number": "4511.198",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.198"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.20 - Operation in willful or wanton disregard of the safety of persons or property.",
+      "number": "4511.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.201 - Operation off street or highway in willful or wanton disregard of the safety of persons or property.",
+      "number": "4511.201",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.201"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.202 - Operation without being in reasonable control of vehicle, trolley, or streetcar.",
+      "number": "4511.202",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.202"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.203 - Wrongful entrustment of motor vehicle.",
+      "number": "4511.203",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.203"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.204 - Driving while texting.",
+      "number": "4511.204",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.204"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.205 - Use of devices by persons under 18 years of age.",
+      "number": "4511.205",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.205"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.21 - Speed limits - assured clear distance.",
+      "number": "4511.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.211 - Establishing speed limit on private road.",
+      "number": "4511.211",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.211"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.212 - Complaint of noncompliance by local authority with school zone sign laws.",
+      "number": "4511.212",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.212"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.213 - Approaching stationary public safety vehicle displaying emergency light.",
+      "number": "4511.213",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.213"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.214 - Operation of low-speed, under-speed, or utility vehicle, or a mini-truck.",
+      "number": "4511.214",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.214"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.215 - Local authorization for operation of low-speed, under-speed, or utility vehicle, or a mini-truck.",
+      "number": "4511.215",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.215"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.216 - Traveling from one farm field to another for agricultural purposes.",
+      "number": "4511.216",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.216"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.22 - Slow speed.",
+      "number": "4511.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.23 - Speed limits on bridges.",
+      "number": "4511.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.24 - Speed limits not applicable to emergency or public safety vehicles.",
+      "number": "4511.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.25 - Lanes of travel upon roadways of sufficient width.",
+      "number": "4511.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.251 - Street racing.",
+      "number": "4511.251",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.251"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.252 - Closing roads for supervised sports car racing.",
+      "number": "4511.252",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.252"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.26 - Vehicles traveling in opposite directions.",
+      "number": "4511.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.27 - Overtaking and passing of vehicles proceeding in the same direction.",
+      "number": "4511.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.28 - Overtaking and passing upon the right of another vehicle.",
+      "number": "4511.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.29 - Driving to left of center of roadway in overtaking and passing traffic proceeding in same direction.",
+      "number": "4511.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.30 - Driving upon left side of roadway.",
+      "number": "4511.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.31 - Establishing hazardous zones.",
+      "number": "4511.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.32 - One-way traffic - rotary islands.",
+      "number": "4511.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.33 - Driving in marked lanes.",
+      "number": "4511.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.34 - Space between moving vehicles.",
+      "number": "4511.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.35 - Divided roadways.",
+      "number": "4511.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.36 - Rules for turns at intersections.",
+      "number": "4511.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.37 - Turning in roadway prohibited - exceptions.",
+      "number": "4511.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.38 - Rules for starting and backing vehicles.",
+      "number": "4511.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.39 - Turn and stop signals.",
+      "number": "4511.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.40 - Hand and arm signals.",
+      "number": "4511.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.41 - Right-of-way rule at intersections.",
+      "number": "4511.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.42 - Right-of-way rule when turning left.",
+      "number": "4511.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.43 - Right-of-way rule at through highways, stop signs, yield signs.",
+      "number": "4511.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.431 - Stop prior to driving on sidewalk area.",
+      "number": "4511.431",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.431"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.432 - Stop signs on private road.",
+      "number": "4511.432",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.432"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.44 - Right-of-way at highway from any place other than another roadway.",
+      "number": "4511.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.441 - Right-of-way of pedestrian on sidewalk.",
+      "number": "4511.441",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.441"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.45 - Right-of-way of public safety or coroner's vehicle.",
+      "number": "4511.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.451 - Right-of way of funeral vehicle.",
+      "number": "4511.451",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.451"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.452 - Right-of-way yielded by pedestrian to public safety vehicle.",
+      "number": "4511.452",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.452"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.453 - Immunity of funeral home operator.",
+      "number": "4511.453",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.453"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.454 - Reporting failure of motor vehicle operator to yield right-of-way to public safety vehicle.",
+      "number": "4511.454",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.454"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.46 - Right-of-way of pedestrian within crosswalk.",
+      "number": "4511.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.47 - Right-of-way of blind person.",
+      "number": "4511.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.48 - Right-of-way yielded by pedestrian.",
+      "number": "4511.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.481 - Intoxicated or drugged pedestrian on highway.",
+      "number": "4511.481",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.481"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.49 - Pedestrians on right half of crosswalk.",
+      "number": "4511.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.50 - Pedestrian walking in roadway.",
+      "number": "4511.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.51 - Hitchhiking - soliciting employment, business, or contributions from occupant of vehicle.",
+      "number": "4511.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.511 - Pedestrian on bridge or railroad grade crossing.",
+      "number": "4511.511",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.511"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.512 - Operation of electric personal assistive mobility devices.",
+      "number": "4511.512",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.512"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.513 - Operation of personal delivery device on sidewalks and crosswalks.",
+      "number": "4511.513",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.513"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.514 - Low-speed micromobility devices.",
+      "number": "4511.514",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.514"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.52 - Bicycles and electric bicycles - issuance of ticket - points not assessed.",
+      "number": "4511.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.521 - Operation of motorized bicycles.",
+      "number": "4511.521",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.521"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.522 - Electric bicycles; labels; compliance with federal regulations; permitted use; violations.",
+      "number": "4511.522",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.522"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.53 - Operation of bicycles, motorcycles and snowmobiles.",
+      "number": "4511.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.54 - Prohibition against attaching bicycle, skates, sleds, etc., to vehicles.",
+      "number": "4511.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.55 - Operating bicycles, electric bicycles, and motorcycles on roadway.",
+      "number": "4511.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.56 - Bicycle signal devices.",
+      "number": "4511.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.57 - Passing on left side of streetcar.",
+      "number": "4511.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.58 - Vehicle shall not pass streetcar discharging passengers - exception.",
+      "number": "4511.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.59 - Driving and turning in front of streetcars.",
+      "number": "4511.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.60 - Driving through safety zone.",
+      "number": "4511.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.61 - Stop signs at dangerous highway crossings over railroad tracks.",
+      "number": "4511.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.62 - Stopping at railroad grade crossing.",
+      "number": "4511.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.63 - Stopping at grade crossings.",
+      "number": "4511.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.64 - Slow-moving vehicles or equipment crossing railroad tracks.",
+      "number": "4511.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.65 - Designation of through highways.",
+      "number": "4511.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.66 - Prohibition against parking on highways.",
+      "number": "4511.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.661 - Unattended motor vehicles.",
+      "number": "4511.661",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.661"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.67 - Police may remove illegally parked vehicle.",
+      "number": "4511.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.67"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.68 - Parking - prohibited acts.",
+      "number": "4511.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.68"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.681 - Parking on private property - prohibited acts.",
+      "number": "4511.681",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.681"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.69 - Parking requirements.",
+      "number": "4511.69",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.69"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.70 - Obstructing view and control of driver - opening door into moving traffic.",
+      "number": "4511.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.701 - Occupying moving trailer prohibited.",
+      "number": "4511.701",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.701"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.71 - Prohibition against driving upon closed highway.",
+      "number": "4511.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.711 - Driving on sidewalk.",
+      "number": "4511.711",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.711"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.712 - Obstructing intersection.",
+      "number": "4511.712",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.712"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.713 - Use of bicycle paths.",
+      "number": "4511.713",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.713"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.714 - Operation of vehicle on roadway covered by water.",
+      "number": "4511.714",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.714"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.72 - Following an emergency or public safety vehicle too closely.",
+      "number": "4511.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.73 - Driving over unprotected fire hose.",
+      "number": "4511.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.74 - Placing injurious material on highway.",
+      "number": "4511.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.74"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.75 - Stopping for stopped school bus.",
+      "number": "4511.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.751 - School bus operator to report violations.",
+      "number": "4511.751",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.751"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.76 - Administrative rules for school bus construction, design, equipment, operation and licensing.",
+      "number": "4511.76",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.76"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.761 - School bus inspections.",
+      "number": "4511.761",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.761"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.762 - School bus no longer used for transporting school children.",
+      "number": "4511.762",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.762"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.763 - Licensing by department of public safety.",
+      "number": "4511.763",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.763"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.764 - School buses must be registered and have identifying number.",
+      "number": "4511.764",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.764"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.765 - Pre-trip school bus inspections.",
+      "number": "4511.765",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.765"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.77 - School bus - painting and marking.",
+      "number": "4511.77",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.77"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.771 - Signal lamps to be equipped with flashing red and amber lights.",
+      "number": "4511.771",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.771"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.772 - Occupant restraining device for operator.",
+      "number": "4511.772",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.772"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.78 - Mass transit system - transportation of school children.",
+      "number": "4511.78",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.78"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.79 - Driving commercial vehicle with impaired ability or alertness prohibited.",
+      "number": "4511.79",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.79"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.81 - Child restraint system - child highway safety fund.",
+      "number": "4511.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.82 - Littering offenses.",
+      "number": "4511.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.82"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.84 - Earphones or earplugs on operator prohibited.",
+      "number": "4511.84",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.84"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.85 - Chauffeured limousines.",
+      "number": "4511.85",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.85"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.90 - Chautauqua assembly.",
+      "number": "4511.90",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.90"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.98 - Signs as to increased penalties in construction zones.",
+      "number": "4511.98",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.98"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.99 - Penalty.",
+      "number": "4511.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.99"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.991 - \"Distracted\" defined; violations committed while distracted.",
+      "number": "4511.991",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.991"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4511.992 - Distracted driving reports.",
+      "number": "4511.992",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.992"
+    }
+  ],
+  "scraped": "2026-07-02T20:05:38+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-4511",
+  "title": "Chapter 4511 - Traffic Laws - Operation Of Motor Vehicles"
+}

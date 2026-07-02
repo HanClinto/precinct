@@ -1,0 +1,74 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-1513.01
+Scraped: 2026-07-02T19:37:41+00:00
+
+# Section 1513.01 - Coal surface mining definitions.
+
+**Effective:** June 15, 2009
+
+**Latest Legislation:** Senate Bill 73 - 128th General Assembly
+
+As used in this chapter:
+
+(A) "Approximate original contour" means that surface configuration achieved by backfilling and grading of a mined area so that the reclaimed area, including any terracing or access roads, closely resembles the general surface configuration of the land prior to mining and blends into and complements the drainage pattern of the surrounding terrain, with all highwalls and spoil piles eliminated; water impoundments may be permitted where the chief of the division of mineral resources management determines that they are in compliance with division (A)(8) of section 1513.16 of the Revised Code.
+
+(B) "Coal mining and reclamation operations" means coal mining operations and all activities necessary and incident to the reclamation of such operations.
+
+(C) "Degrees" means inclination from the horizontal.
+
+(D) "Deposition of sediment" means placing or causing to be placed in any waters of the state, in stream beds on or off the land described in an application for a coal mining permit, or upon other lands any organic or inorganic matter that settles or is capable of settling to the bottom of the waters and onto the beds or lands.
+
+(E) "Imminent danger to the health and safety of the public" means the existence of any condition or practice or violation of a permit or other requirement of this chapter or rule adopted thereunder in a coal mining and reclamation operation, which condition, practice, or violation could reasonably be expected to cause substantial physical harm to persons outside the permit area before the condition, practice, or violation can be abated. A reasonable expectation of death or serious injury before abatement exists if a rational person subjected to the same conditions or practices giving rise to the peril would not expose oneself to the danger during the time necessary for abatement.
+
+(F) "Lands eligible for remining" means those lands that otherwise would be eligible for expenditures under division (C)(1) of section 1513.37 of the Revised Code.
+
+(G) "Mountain top removal" means a coal mining operation that will remove an entire coal seam or seams running through the upper fraction of a mountain, ridge, or hill by removing all of the overburden and creating a level plateau with no highwalls remaining instead of restoring to approximate original contour, and is capable of supporting postmining uses in accordance with the requirements established by the chief.
+
+(H) "Operation" or "coal mining operation" means:
+
+(1) Activities conducted on the surface of lands in connection with a coal mine, the removal of coal from coal refuse piles, and surface impacts incident to an underground coal mine. Such activities include excavation for the purpose of obtaining coal, including such common methods as contour, strip, auger, mountaintop removal, box cut, open pit, and area mining; the use of explosives and blasting; in situ distillation or retorting; leaching or other chemical or physical processing; and the cleaning, concentrating, or other processing or preparation of coal. Such activities also include the loading of coal at or near the mine site. Such activities do not include any of the following:
+
+(a) The extraction of coal incidental to the extraction of other minerals if the weight of coal extracted is less than one-sixth the total weight of minerals removed, including coal;
+
+(b) The extraction of coal as an incidental part of federal, state, or local highway or other government-financed construction when approved by the chief;
+
+(c) Coal exploration subject to section 1513.072 of the Revised Code.
+
+(2) The areas upon which such activities occur or where such activities disturb the natural land surface. Such areas include any adjacent land the use of which is incidental to any such activities, all lands affected by the construction of new roads or the improvement or use of existing roads to gain access to the site of such activities, and for hauling, and excavation, workings, impoundments, dams, ventilation shafts, entryways, refuse banks, dumps, stockpiles, overburden piles, spoil banks, culm banks, holes or depressions, repair areas, storage areas, processing areas, shipping areas, and other areas upon which are sited structures, facilities, or other property or materials on the surface, resulting from or incident to such activities. Separation by a stream, roadway, or utility easement does not preclude two or more contiguous tracts of land from being considered contiguous.
+
+(I) "Operator" means any person conducting a coal mining operation.
+
+(J) "Overburden" means all of the earth and other materials, except topsoil, covering a natural deposit of coal, and also means such earth and other materials after removal from their natural state in the process of coal mining.
+
+(K) "Permit" means a permit to conduct coal mining and reclamation operations issued by the chief pursuant to section 1513.07 or 1513.074 of the Revised Code.
+
+(L) "Permit area" means the area of land to be affected indicated on the approved map submitted by the operator with the application required by section 1513.07 or 1513.074 of the Revised Code.
+
+(M) "Person" has the same meaning as in section 1.59 of the Revised Code and also includes any political subdivision, instrumentality, or agency of this state or the United States.
+
+(N) "Pollution" means placing any sediments, solids, or waterborne mining-related wastes, including, but not limited to, acids, metallic cations, or their salts, in excess of amounts prescribed by the chief into any waters of the state or affecting the properties of any waters of the state in a manner that renders those waters harmful or inimical to the public health, or to animal or aquatic life, or to the use of the waters for domestic water supply, industrial or agricultural purposes, or recreation.
+
+(O) "Prime farmland" has the same meaning as that previously prescribed by the secretary of the United States department of agriculture as published in the federal register on August 23, 1977, or subsequent revisions thereof, on the basis of such factors as moisture availability, temperature regime, chemical balance, permeability, surface layer composition, susceptibility to flooding, and erosion characteristics and that historically has been used for intensive agricultural purposes, and as published in the rules adopted pursuant to this chapter.
+
+(P) "Reclamation" means backfilling, grading, resoiling, planting, and other work that has the effect of restoring an area of land affected by coal mining so that it may be used for forest growth, grazing, agricultural, recreational, and wildlife purpose, or some other useful purpose of equal or greater value than existed prior to any mining.
+
+(Q) "Spoil bank" means a deposit of removed overburden.
+
+(R) "Steep slope" means any slope above twenty degrees or such lesser slope as may be defined by the chief after considering soil, climate, and other characteristics of a region.
+
+(S) "Strip mining" means those coal mining and reclamation operations incident to the extraction of coal from the earth by removing the materials over a coal seam, before recovering the coal, by auger coal mining, or by recovery of coal from a deposit that is not in its original geologic location.
+
+(T) "Unwarranted failure to comply" means the failure of a permittee to prevent the occurrence of any violation of any requirement of this chapter due to indifference, lack of diligence, or lack of reasonable care, or the failure to abate any violation of the permit or this chapter due to indifference, lack of diligence, or lack of reasonable care.
+
+(U) "Waters of the state" means all streams, lakes, ponds, marshes, watercourses, waterways, wells, springs, irrigation systems, drainage systems, and other bodies or accumulations of water, surface or underground, natural or artificial, regardless of the depth of the strata in which underground water is located, that are situated wholly or partly within, or border upon, this state, or are within its jurisdiction.
+
+(V) "Public roadway" means a road that is all of the following:
+
+(1) Designated as a public road in the jurisdiction within which it is located;
+
+(2) Constructed in a manner consistent with other public roads within the jurisdiction within which it is located;
+
+(3) Regularly maintained with public funds;
+
+(4) Subject to and available for substantial use by the public.
+
+(W) "Performance security" means a form of financial assurance, including, without limitation, a surety bond issued by a surety licensed to do business in this state; cash; a negotiable certificate of deposit; an irrevocable letter of credit that automatically renews; a negotiable bond of the United States, this state, or a municipal corporation in this state; a trust fund of which the state is the primary beneficiary; or other form of financial guarantee or financial assurance that is acceptable to the chief.

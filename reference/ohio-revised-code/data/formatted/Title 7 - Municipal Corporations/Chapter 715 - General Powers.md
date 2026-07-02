@@ -1,0 +1,91 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-715
+Scraped: 2026-07-02T19:33:23+00:00
+
+# Chapter 715 - General Powers
+
+## Sections
+
+- Section 715.01 - General powers of municipal corporations.
+- Section 715.011 - Leasing power.
+- Section 715.012 - Real estate conveyed by state.
+- Section 715.013 - Prohibiting levy of municipal taxes.
+- Section 715.014 - Tourism development districts.
+- Section 715.015 - Development charges.
+- Section 715.02 - Agreements for joint construction or management of public work, utility, or improvement.
+- Section 715.03 - Powers by ordinance or resolution.
+- Section 715.04 - Compounding or release of claims due from banks.
+- Section 715.05 - Police and fire departments.
+- Section 715.06 - Light, power, and heat.
+- Section 715.07 - Purchase of gas without advertisement or competitive bidding.
+- Section 715.08 - Water supply.
+- Section 715.09 - Limiting motor vehicle parking tax rate.
+- Section 715.13 - Public band concerts and libraries.
+- Section 715.14 - Hospitals.
+- Section 715.15 - Ship canals.
+- Section 715.16 - Places of correction - quarters for municipal courts and offices.
+- Section 715.17 - Census.
+- Section 715.18 - Department of purchase, construction, and repair.
+- Section 715.19 - Establish and care for streets.
+- Section 715.20 - Shade trees.
+- Section 715.21 - Power to acquire, hold, lease, sell, or donate lands.
+- Section 715.211 - Assisting park districts.
+- Section 715.22 - Vehicles and use of streets.
+- Section 715.23 - Impounding and sale of fowl or animals.
+- Section 715.24 - Regulation of street vendors.
+- Section 715.25 - Width of tires and rate of transportation.
+- Section 715.26 - Regulating erection, inspection, and numbering of buildings.
+- Section 715.261 - Recovering total cost of correcting hazardous condition of building or abating nuisance.
+- Section 715.262 - Preference of appeals on municipal building code violations.
+- Section 715.263 - Tax credit for abating building nuisance on tax foreclosed property.
+- Section 715.27 - Regulating fences, signs, other structures, electrical equipment, specialty contractors.
+- Section 715.28 - Market places.
+- Section 715.29 - Sanitation.
+- Section 715.30 - Injunction may be granted for failure to comply.
+- Section 715.31 - Wharves and docks.
+- Section 715.32 - License and regulation of ferries.
+- Section 715.33 - Streetcars.
+- Section 715.34 - Hot water and steam heating.
+- Section 715.35 - Movable and rolling roads.
+- Section 715.36 - United States mail subways.
+- Section 715.37 - Contagious diseases.
+- Section 715.38 - Maintenance of physician - tax levy - election - anticipatory notes.
+- Section 715.39 - Assistance by board of county commissioners authorized.
+- Section 715.40 - Watercourses and sewers.
+- Section 715.41 - Drainage in municipal corporations.
+- Section 715.42 - Public conveniences.
+- Section 715.43 - Refuse disposal.
+- Section 715.44 - Power to abate nuisance and prevent injury.
+- Section 715.45 - Weights and measures.
+- Section 715.46 - Inspection.
+- Section 715.47 - Power to fill or drain lots and remove obstructions - resolutions.
+- Section 715.48 - Regulation by license of shows and games - trafficking in tickets - exceptions.
+- Section 715.49 - Preservation of peace and protection of property - noise ordinance.
+- Section 715.50 - Police or sanitary regulations for property outside municipal corporation limits.
+- Section 715.51 - Billiards, pool, and gambling.
+- Section 715.52 - Houses of ill fame.
+- Section 715.53 - Taverns.
+- Section 715.54 - Vicious literature.
+- Section 715.55 - Liability arising from enforcement of invalid adult entertainment ordinance.
+- Section 715.59 - Hospitals for diseased prisoners.
+- Section 715.60 - Regulation of explosives.
+- Section 715.61 - Regulation and licensing of certain occupations and premises.
+- Section 715.62 - Evidence.
+- Section 715.63 - License power - exception.
+- Section 715.64 - Licensing transient dealers and solicitors.
+- Section 715.65 - Licensing of advertising mediums and matters.
+- Section 715.66 - Vehicle license for undertakers - money to be used for street repairs.
+- Section 715.67 - Violation of ordinances may be made a misdemeanor.
+- Section 715.68 - Municipal corporation may not adopt plans for public improvement under certain circumstances.
+- Section 715.691 - Alternative procedures and requirements for creating joint economic development zone.
+- Section 715.692 - Creation of joint economic development review council.
+- Section 715.693 - Video and teleconference meetings.
+- Section 715.70 - Contract creating joint economic development district.
+- Section 715.71 - Election concerning alternative procedures and requirements for creating joint economic development district.
+- Section 715.72 - Alternative procedures and requirements for creating joint economic development district.
+- Section 715.79 - Annexation, merger, or consolidation proceedings barred.
+- Section 715.80 - Binding agreements concerning zoning, other regulatory and proprietary matters.
+- Section 715.81 - Authority of municipal corporations and townships.
+- Section 715.82 - Issuing industrial development bonds.
+- Section 715.83 - Unincorporated area or township eligible for certain projects.
+- Section 715.84 - Cost sharing agreements.
+- Section 715.90 - No regulation of county utility user rates.

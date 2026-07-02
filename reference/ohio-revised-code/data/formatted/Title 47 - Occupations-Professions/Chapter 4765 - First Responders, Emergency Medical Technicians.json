@@ -1,0 +1,393 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 4765.01 - Definitions.",
+      "number": "4765.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.011 - Designation as EMR, EMT, or AEMT.",
+      "number": "4765.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.011"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.02 - State board of emergency medical, fire, and transportation services.",
+      "number": "4765.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.03 - Executive director duties.",
+      "number": "4765.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.04 - Firefighter and fire safety inspector training committee - trauma committee - other committees and subcommittees.",
+      "number": "4765.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.05 - Prehospital emergency medical services regions.",
+      "number": "4765.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.06 - Emergency medical services incidence reporting system - state trauma registry.",
+      "number": "4765.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.07 - Administrative rules for grant program.",
+      "number": "4765.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.08 - Statewide emergency medical services plan - statewide regulation of emergency medical services during periods of disaster.",
+      "number": "4765.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.09 - Recommendations for operation of ambulance and emergency medical service organizations.",
+      "number": "4765.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.10 - State board - powers and duties.",
+      "number": "4765.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.101 - Complaint and investigation of violations.",
+      "number": "4765.101",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.101"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.102 - Investigative information confidential.",
+      "number": "4765.102",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.102"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.11 - Administrative rules.",
+      "number": "4765.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.111 - Disciplinary proceedings.",
+      "number": "4765.111",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.111"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.112 - Suspension of certificate without hearing.",
+      "number": "4765.112",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.112"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.113 - Reconsideration of suspension based on conviction.",
+      "number": "4765.113",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.113"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.114 - Certificate automatically suspended for certain offenses.",
+      "number": "4765.114",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.114"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.115 - Suspension orders - administrative hearing - disposition.",
+      "number": "4765.115",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.115"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.116 - Procedure where hearing not timely requested.",
+      "number": "4765.116",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.116"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.12 - Guidelines for care of trauma victims by emergency medical service personnel - conduct of peer review and quality assurance programs by emergency medical service organizations.",
+      "number": "4765.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.15 - Continuing education - approval and accreditation.",
+      "number": "4765.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.16 - Continuing education - development.",
+      "number": "4765.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.161 - Expedited paramedic certification for veterans.",
+      "number": "4765.161",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.161"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.162 - Dementia-related training.",
+      "number": "4765.162",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.162"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.163 - Petition to add training and continuing education program topics.",
+      "number": "4765.163",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.163"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.17 - Issuing certificate of accreditation or certificate of approval.",
+      "number": "4765.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.18 - Grounds for suspension or revocation of certificate.",
+      "number": "4765.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.22 - Applying to teach in emergency medical services training or continuing education program.",
+      "number": "4765.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.23 - Teaching certificate - issuance - renewal - suspension or revocation.",
+      "number": "4765.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.24 - Continuing education - certificate of completion.",
+      "number": "4765.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.28 - Applying for certificate to practice.",
+      "number": "4765.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.29 - Examination.",
+      "number": "4765.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.30 - Qualifications for certificate to practice.",
+      "number": "4765.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.301 - Criminal records check.",
+      "number": "4765.301",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.301"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.31 - Continuing education - extension or exemption.",
+      "number": "4765.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.32 - Certificates issued under prior law.",
+      "number": "4765.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.33 - Disciplinary actions.",
+      "number": "4765.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.35 - Authorized services by first responders.",
+      "number": "4765.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.36 - Authorized services in hospital.",
+      "number": "4765.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.361 - Performance of services in nonemergency situations.",
+      "number": "4765.361",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.361"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.37 - Authorized services by EMT-basic.",
+      "number": "4765.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.38 - Authorized services by EMT-intermediate.",
+      "number": "4765.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.39 - Authorized services by EMT-paramedic.",
+      "number": "4765.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.391 - Administration of immunizations for influenza to firefighters or EMTs.",
+      "number": "4765.391",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.391"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.40 - Written protocols for triage of adult and pediatric trauma victims.",
+      "number": "4765.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.401 - Protocols for stroke patients.",
+      "number": "4765.401",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.401"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.41 - Local written protocols.",
+      "number": "4765.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.42 - Appointment and qualifications of medical director, member of cooperating physician advisory board.",
+      "number": "4765.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.43 - Ambulance staffing.",
+      "number": "4765.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.431 - Ambulance staffing - nonemergency transport.",
+      "number": "4765.431",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.431"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.45 - Reports to department of health.",
+      "number": "4765.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.48 - Prosecutions - injunctions.",
+      "number": "4765.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.49 - Emergency medical personnel and agencies - immunity.",
+      "number": "4765.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.50 - Unauthorized practice.",
+      "number": "4765.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.51 - Registered nurses and physician assistants.",
+      "number": "4765.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.52 - Emergency medical attention to dog or cat.",
+      "number": "4765.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.53 - COVID-19 tests and specimens.",
+      "number": "4765.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.55 - Fire service training programs.",
+      "number": "4765.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.56 - Effect of child support default on certificate to practice.",
+      "number": "4765.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.57 - Disposition of fetal death remains.",
+      "number": "4765.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.58 - Compliance with law regarding sanctions for human trafficking.",
+      "number": "4765.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.59 - Administration and rule-making authority.",
+      "number": "4765.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4765.99 - Penalty.",
+      "number": "4765.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.99"
+    }
+  ],
+  "scraped": "2026-07-02T20:08:05+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-4765",
+  "title": "Chapter 4765 - First Responders, Emergency Medical Technicians"
+}

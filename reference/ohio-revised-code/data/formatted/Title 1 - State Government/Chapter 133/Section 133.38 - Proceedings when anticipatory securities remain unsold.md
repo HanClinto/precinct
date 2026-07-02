@@ -1,0 +1,14 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-133.38
+Scraped: 2026-07-02T19:31:49+00:00
+
+# Section 133.38 - Proceedings when anticipatory securities remain unsold.
+
+**Effective:** October 30, 1989
+
+**Latest Legislation:** House Bill 230 - 118th General Assembly
+
+(A) If Chapter 133. securities authorized to fund or refund anticipatory securities remain unsold after being offered at public or private sale under section 133.30 of the Revised Code, the taxing authority may, with the consent of the holder of any of the anticipatory securities, by legislation renew or extend the maturity of any of such anticipatory securities with interest at the same or a new rate or rates, for not to exceed one year, to be evidenced by notation on the anticipatory securities or by the issuance of replacement securities. The taxing authority may also exchange the securities anticipated for such anticipatory securities upon terms prescribed by legislation. Legislation passed under this division shall be certified by the fiscal officer to the county auditor of each county in which any part of the subdivision is located.
+
+(B) If Chapter 133. securities that have been authorized for the purpose of funding or refunding outstanding anticipatory securities remain unsold after being offered at public or private sale, the taxing authority may by legislation approve the exchange of the securities for any of the securities to be funded or refunded. The holder of the outstanding securities may exchange the securities held for a lesser or like amount of the new securities at not less than the principal amount of the new securities plus accrued interest. Any excess or deficiency in principal amount of the outstanding securities, new securities, or such anticipatory securities shall be paid to the other by the security holder or the subdivision, as the case may be. The fiscal officer shall determine the amount of cash and the amount of new securities to be given to such security holders, which determination shall be based upon the amount of cash in the bond retirement fund or other special fund available for such payment. The fiscal officer shall certify that determination to the taxing authority and the taxing authority shall approve the determination by legislation before any such securities are exchanged.
+
+(C) A subdivision that has issued anticipatory securities may issue securities in a principal amount greater than the cost of the permanent improvement or of the amount of unpaid special assessments levied to pay the cost of the permanent improvement and with such maximum maturities as would have been required had no special assessments matured, if the tax commissioner certifies that no other funds are available and applicable to the payment of debt charges on the anticipatory securities at maturity. The principal amount of the new securities shall not exceed the principal amount of the maturing anticipatory securities.

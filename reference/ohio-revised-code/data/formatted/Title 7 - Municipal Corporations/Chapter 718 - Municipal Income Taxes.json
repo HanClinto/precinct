@@ -1,0 +1,381 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 718.01 - Definitions.",
+      "number": "718.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.011 - Occasional entrant exemption.",
+      "number": "718.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.011"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.012 - Factors for determining whether individual is domiciled in municipal corporation.",
+      "number": "718.012",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.012"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.02 - Income subject to tax.",
+      "number": "718.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.021 - Alternative net profits apportionment for remote employees.",
+      "number": "718.021",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.021"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.03 - Withholding taxes from qualifying wages.",
+      "number": "718.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.031 - Withholding from casino, lottery, and sports gaming winnings.",
+      "number": "718.031",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.031"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.04 - Authority for tax on income and withholding tax.",
+      "number": "718.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.05 - Annual return; filing.",
+      "number": "718.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.051 - Filings by business or profession; estimated return; extension.",
+      "number": "718.051",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.051"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.052 - Extension for service in or for the armed forces.",
+      "number": "718.052",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.052"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.06 - Consolidated municipal income tax return.",
+      "number": "718.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.07 - Electronic versions of rules, ordinances, blanks, and instructions available on internet.",
+      "number": "718.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.08 - Estimated taxes.",
+      "number": "718.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.09 - Election on tax levy dividing revenue between municipal corporation and school district.",
+      "number": "718.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.10 - Election on tax levy dividing revenue between group of municipal corporations and school district.",
+      "number": "718.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.11 - Local board of tax review.",
+      "number": "718.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.12 - Limitations.",
+      "number": "718.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.121 - Second municipality imposing tax after time period allowed for refund.",
+      "number": "718.121",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.121"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.13 - Tax information confidential.",
+      "number": "718.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.131 - Criminal records check for employees with access to certain tax information.",
+      "number": "718.131",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.131"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.15 - Tax credit for businesses that foster new jobs in Ohio.",
+      "number": "718.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.151 - Tax credits to foster job retention.",
+      "number": "718.151",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.151"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.16 - Tax credit to person who works in joint economic development zone or district.",
+      "number": "718.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.17 - [Former R.C. 718.021, renumbered by H.B. 33, 135th General Assembly, effective 10/3/2023] Refundable tax credit for qualifying losses.",
+      "number": "718.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.18 - Service of assessment.",
+      "number": "718.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.19 - Requests for refunds.",
+      "number": "718.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.23 - Verification of accuracy of returns.",
+      "number": "718.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.24 - Authority of tax administrator.",
+      "number": "718.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.25 - Rounding of amounts.",
+      "number": "718.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.26 - Identification information.",
+      "number": "718.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.27 - Interest and penalties.",
+      "number": "718.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.28 - Administration of claims.",
+      "number": "718.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.30 - Adoption of rules.",
+      "number": "718.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.31 - Payment of persons hired to inspect books.",
+      "number": "718.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.35 - Fraud.",
+      "number": "718.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.36 - Audits.",
+      "number": "718.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.37 - Actions against tax administrator or municipal corporation.",
+      "number": "718.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.38 - Request for opinion of the tax administrator.",
+      "number": "718.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.39 - Municipal corporations with larger population; correspondence from tax administrator.",
+      "number": "718.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.41 - Amended returns.",
+      "number": "718.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.50 - Members and employees of general assembly and certain judges excluded from tax.",
+      "number": "718.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.80 - Filing net profit taxes; election to be subject to provisions of chapter.",
+      "number": "718.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.80"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.81 - Definitions.",
+      "number": "718.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.82 - Applicability; taxable situs; apportionment.",
+      "number": "718.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.82"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.821 - Alternative net profits apportionment for remote employees.",
+      "number": "718.821",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.821"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.83 - Certification of amounts to be paid municipal corporations.",
+      "number": "718.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.83"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.84 - Information provided to tax administrators; confidentiality.",
+      "number": "718.84",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.84"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.841 - Web portal information sharing.",
+      "number": "718.841",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.841"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.85 - Filing of annual return; remittance; disposition of funds.",
+      "number": "718.85",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.85"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.851 - Electronic filing.",
+      "number": "718.851",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.851"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.86 - Consolidated returns.",
+      "number": "718.86",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.86"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.87 - Failure to pay tax.",
+      "number": "718.87",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.87"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.88 - Declaration of estimated taxes.",
+      "number": "718.88",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.88"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.89 - Additional penalties.",
+      "number": "718.89",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.89"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.90 - Assessments against taxpayer.",
+      "number": "718.90",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.90"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.91 - Refund applications.",
+      "number": "718.91",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.91"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.92 - Amended returns.",
+      "number": "718.92",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.92"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.93 - Examination of records and other documents and persons.",
+      "number": "718.93",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.93"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.94 - Credits.",
+      "number": "718.94",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.94"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.95 - Reckless violations; penalties.",
+      "number": "718.95",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.95"
+    },
+    {
+      "kind": "section",
+      "label": "Section 718.99 - Violations; penalties.",
+      "number": "718.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.99"
+    }
+  ],
+  "scraped": "2026-07-02T19:33:25+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-718",
+  "title": "Chapter 718 - Municipal Income Taxes"
+}

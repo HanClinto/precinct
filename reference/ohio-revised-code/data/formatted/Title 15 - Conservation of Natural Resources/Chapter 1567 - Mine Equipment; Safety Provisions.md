@@ -1,0 +1,84 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-1567
+Scraped: 2026-07-02T19:38:58+00:00
+
+# Chapter 1567 - Mine Equipment; Safety Provisions
+
+## Sections
+
+- Section 1567.01 - Chapter does not apply to chapter 1514 activities.
+- Section 1567.02 - Use of present machinery lawful - replacement of appliances and machinery.
+- Section 1567.03 - Prohibited acts.
+- Section 1567.04 - Machine runners and helpers.
+- Section 1567.05 - Trespassing.
+- Section 1567.06 - Examination of mine generating firedamp - posting or report.
+- Section 1567.07 - Entry beyond danger signal.
+- Section 1567.08 - Book of reports of mine condition and air measurements.
+- Section 1567.09 - Ventilation of mines.
+- Section 1567.10 - Ventilating fans.
+- Section 1567.11 - Booster and blower fans.
+- Section 1567.12 - Accident to ventilating fan.
+- Section 1567.13 - Supervision of ventilating apparatus and airways.
+- Section 1567.14 - Entry into mine after interruption of ventilation.
+- Section 1567.15 - Closing of ventilating doors.
+- Section 1567.16 - Electrical system - prohibited activities.
+- Section 1567.17 - Rules for use of direct current.
+- Section 1567.18 - Rules for use of alternating current.
+- Section 1567.19 - Grounding of machines and armored cable using alternating current.
+- Section 1567.20 - Electrical equipment to be grounded.
+- Section 1567.21 - Employment of shot firers.
+- Section 1567.22 - Use of black powder.
+- Section 1567.23 - Handling explosives in mines.
+- Section 1567.24 - Conveyance of explosives.
+- Section 1567.25 - Explosives to be protected from contact with fire.
+- Section 1567.26 - Explosives and tools on cages or stairways.
+- Section 1567.27 - Use of squibs and fuses - tamping.
+- Section 1567.30 - Firing of shots - appointed times.
+- Section 1567.31 - Drill holes.
+- Section 1567.32 - Misfired shots.
+- Section 1567.33 - Examination after each blast.
+- Section 1567.34 - Solid shooting.
+- Section 1567.35 - Use of gasoline, naphtha, kerosene, fuel oil or gas engine.
+- Section 1567.36 - Fire extinguishers.
+- Section 1567.38 - Use of locomotive and haulage equipment.
+- Section 1567.39 - Lights and signals for locomotives and cars - riding on locomotive - protection against runaway or self-propelled equipment.
+- Section 1567.40 - Riding on haulage trips.
+- Section 1567.41 - Operation of trolley ahead of locomotive.
+- Section 1567.42 - Riding on locomotive or cars.
+- Section 1567.43 - Signal light.
+- Section 1567.44 - Handling cars.
+- Section 1567.45 - Limitation on number of persons in cage or elevator - hoisting equipment safety examination.
+- Section 1567.46 - Windlass required.
+- Section 1567.47 - Qualifications of persons in charge of hoisting engine.
+- Section 1567.48 - Safe appliances for ingress and egress in shaft.
+- Section 1567.49 - Lowering and hoisting of persons by vertical shaft.
+- Section 1567.50 - Regulations for speaking tube, cages, and safety gate.
+- Section 1567.51 - Signal code.
+- Section 1567.52 - Additions to code of signals - posting.
+- Section 1567.53 - Emergency signal in vertical shaft.
+- Section 1567.54 - Adequate fire protection - firefighting equipment.
+- Section 1567.55 - Report of coal seam fire - covering of exposed surface to prevent fire.
+- Section 1567.57 - Two-way communication system.
+- Section 1567.58 - Lights in mines.
+- Section 1567.59 - Flame safety lamps.
+- Section 1567.60 - Recording pressure gauge.
+- Section 1567.61 - First aid and emergency medical equipment - report of arrangements for emergency medical assistance and transportation.
+- Section 1567.62 - Obstruction of airway.
+- Section 1567.63 - Use of traveling ways - loitering prohibited.
+- Section 1567.64 - Operator to provide tag lines or tie-off lines for miners.
+- Section 1567.65 - Prohibition against smoking or carrying smoking materials.
+- Section 1567.66 - Prohibition against intoxicants.
+- Section 1567.67 - Protective clothing.
+- Section 1567.68 - Safety provisions for machinery and equipment.
+- Section 1567.681 - Fire detection devices required on conveyor belts.
+- Section 1567.69 - Longwall mining plans or revisions - contents.
+- Section 1567.70 - Plan for recovery of longwall roof support - approval by chief.
+- Section 1567.71 - Two-way communication facilities.
+- Section 1567.72 - De-energizing electrical power on longwall working face conveyor.
+- Section 1567.73 - Installation of methane monitors.
+- Section 1567.74 - Safety requirements for longwall working face.
+- Section 1567.75 - Cutting and welding.
+- Section 1567.76 - Maintenance of hydraulic lines and roof support units.
+- Section 1567.77 - First aid equipment.
+- Section 1567.78 - Maintaining accessible tailgate travel route.
+- Section 1567.79 - Instruction on hazards.
+- Section 1567.99 - Penalty.

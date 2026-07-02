@@ -1,0 +1,46 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Killed in the line of duty\" means either of the following:\n\n(1) Death in the line of duty;\n\n(2) Death from injury sustained in the line of duty, including heart attack or other fatal injury or illness caused while in the line of duty.",
+      "id": "143.01-killed-in-the-line-of-duty",
+      "normalized": "killed in the line of duty",
+      "scope": "As used in this chapter:",
+      "section": "143.01",
+      "source_title": "Section 143.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-143.01",
+      "term": "Killed in the line of duty"
+    },
+    {
+      "definition": "(B) \"Totally and permanently disabled\" means unable to engage in any substantial gainful employment for a period of not less than twelve months by reason of a medically determinable physical impairment that is permanent or presumed to be permanent.",
+      "id": "143.01-totally-and-permanently-disabled",
+      "normalized": "totally and permanently disabled",
+      "scope": "As used in this chapter:",
+      "section": "143.01",
+      "source_title": "Section 143.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-143.01",
+      "term": "Totally and permanently disabled"
+    },
+    {
+      "definition": "(C) \"Volunteer peace officer\" means any person who is employed as a police officer, sheriff's deputy, constable, or deputy marshal in a part-time, reserve, or volunteer capacity by a county sheriff's department or the police department of a municipal corporation, township, township police district, or joint police district and is not either of the following:\n\n(1) A member of the public employees retirement system, Ohio police and fire pension fund, state highway patrol retirement system, or the Cincinnati retirement system;\n\n(2) A retirant as defined in section 145.01 of the Revised Code.",
+      "id": "143.01-volunteer-peace-officer",
+      "normalized": "volunteer peace officer",
+      "scope": "As used in this chapter:",
+      "section": "143.01",
+      "source_title": "Section 143.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-143.01",
+      "term": "Volunteer peace officer"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "145.01",
+      "number": "145.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.01"
+    }
+  ],
+  "scraped": "2026-07-02T19:31:53+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-143.01",
+  "title": "Section 143.01 - Definitions."
+}

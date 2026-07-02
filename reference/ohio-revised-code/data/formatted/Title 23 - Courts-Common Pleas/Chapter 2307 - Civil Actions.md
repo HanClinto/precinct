@@ -1,0 +1,92 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-2307
+Scraped: 2026-07-02T19:43:26+00:00
+
+# Chapter 2307 - Civil Actions
+
+## Sections
+
+- Section 2307.01 - Action defined.
+- Section 2307.011 - Civil action definitions.
+- Section 2307.06 - Suit on bond.
+- Section 2307.07 - Copy of bond.
+- Section 2307.09 - Married woman may sue and be sued.
+- Section 2307.10 - Wife's right to defend.
+- Section 2307.12 - Next friend liable for costs.
+- Section 2307.131 - Appointment of trustee of interest of person not yet born - representing future interest of charitable trust.
+- Section 2307.14 - Compensation and replacement of guardian ad litem or trustee.
+- Section 2307.15 - Determination of insanity of a party.
+- Section 2307.16 - Partnership may sue or be sued by its name.
+- Section 2307.17 - Person claiming property interest may be made a party.
+- Section 2307.18 - Officer acting under process may interplead.
+- Section 2307.22 - Joint and several tort liability.
+- Section 2307.221 - Immunity from tort liability - nonprofit corporations.
+- Section 2307.23 - Determining percentage of tortious conduct attributable to party in tort action.
+- Section 2307.24 - Joint and several liability that is not based in tort.
+- Section 2307.241 - Tort actions alleging vicarious liability.
+- Section 2307.25 - Right of contribution.
+- Section 2307.26 - Enforcing contribution one or more tortfeasors.
+- Section 2307.27 - Satisfying judgment - apportioning liability.
+- Section 2307.28 - Release or a covenant not to sue or not to enforce judgment.
+- Section 2307.29 - Contribution rights relation to other statutes.
+- Section 2307.30 - Separate composition of joint debtor with creditor.
+- Section 2307.34 - Cause of action for contribution in favor of primary insurer against secondary insurer.
+- Section 2307.381 - Long-arm statute definitions.
+- Section 2307.382 - Personal jurisdiction.
+- Section 2307.385 - Jurisdiction.
+- Section 2307.39 - Agreements to be bound by Ohio law.
+- Section 2307.40 - Members and officers of the general assembly privileged from answering.
+- Section 2307.41 - Venue for aircraft negligence.
+- Section 2307.44 - Hazing civil liability.
+- Section 2307.45 - Reciprocity in enforcing tax statutes.
+- Section 2307.46 - Request for confidentiality by woman bringing civil action based on abortion.
+- Section 2307.50 - Civil action to recover damages for interference with the parental or guardianship interest.
+- Section 2307.51 - Civil action for damages related to crime of trafficking in persons.
+- Section 2307.52 - Civil action for damages for terminating or attempting termination of pregnancy after viability.
+- Section 2307.53 - Civil action for damages for dismemberment abortion or partial birth feticide.
+- Section 2307.54 - Civil action for abortion after 20 weeks.
+- Section 2307.60 - Civil action for damages for criminal act.
+- Section 2307.601 - No duty to retreat in residence or vehicle.
+- Section 2307.61 - Civil action for willful damage or theft.
+- Section 2307.611 - Damages in actions for identity fraud.
+- Section 2307.62 - Civil action for damages by cable television owner or operator.
+- Section 2307.63 - Consent as defense in action against mental health professional based on sexual conduct or contact.
+- Section 2307.64 - Regulating electronic mail advertisements.
+- Section 2307.65 - Civil action to recover benefits improperly paid.
+- Section 2307.66 - Civil action for dissemination of images.
+- Section 2307.67 - Civil action - critical infrastructure facility.
+- Section 2307.70 - Civil action for damages for vandalism, desecration or ethnic intimidation.
+- Section 2307.71 - Product liability definitions.
+- Section 2307.711 - Assumption of risk as affirmative defense to product liability claim.
+- Section 2307.72 - Civil action for product liability claim.
+- Section 2307.73 - Liability of manufacturer - enterprise liability rejected.
+- Section 2307.74 - Product defective in manufacture or construction.
+- Section 2307.75 - Product defective in design or formulation.
+- Section 2307.76 - Product defective due to inadequate warning or instruction.
+- Section 2307.77 - Product conforming to representation made by manufacturer.
+- Section 2307.78 - Liability of supplier.
+- Section 2307.79 - Compensatory damages for economic loss from manufacturer or supplier.
+- Section 2307.80 - Punitive or exemplary damages from manufacturer or supplier.
+- Section 2307.81 - Dissemination of false information about the safety of Ohio's food supply.
+- Section 2307.84 - Silicosis or mixed dust disease claims - definitions.
+- Section 2307.85 - Silicosis claim - prima facie showing - evidence of physical impairment - effect of decision.
+- Section 2307.86 - Mixed dust disease claim - prima facie showing - evidence of physical impairment - effect of decision.
+- Section 2307.87 - Silicosis or mixed dust disease claim - filing of evidence of physical impairment - challenge - administrative dismissal.
+- Section 2307.88 - Silicosis or mixed dust disease claim - tolling of statute of limitations - nonmalignant and cancer claims distinct.
+- Section 2307.89 - Silicosis or mixed dust disease claim against premises owner.
+- Section 2307.90 - Silicosis or mixed dust disease claim - operation of other laws unaffected - exhumation not required.
+- Section 2307.901 - Silicosis or mixed dust disease claim - multiple defendants - substantial factor test.
+- Section 2307.902 - Silicosis or mixed dust disease claim - piercing the corporate veil.
+- Section 2307.91 - Asbestos claims - definitions.
+- Section 2307.92 - Asbestos claim - prima facie showing - evidence of physical impairment - effect of decision.
+- Section 2307.93 - Asbestos claim - filing of evidence of physical impairment - challenge - administrative dismissal.
+- Section 2307.931 - Asbestos claim - plaintiff to file specified disclosures.
+- Section 2307.94 - Asbestos claim - tolling of statute of limitations - nonmalignant and cancer claims distinct.
+- Section 2307.941 - Asbestos claim against premises owner.
+- Section 2307.95 - Asbestos claim - operation of other laws unaffected.
+- Section 2307.951 - Definitions for RC sections 2307.952 to 2307.954.
+- Section 2307.952 - Disclosures pertaining to asbestos trust claims.
+- Section 2307.953 - Motion to stay proceedings in asbestos tort action.
+- Section 2307.954 - Disclosure of noncancer asbestos trust claims and cancer asbestos trust claims.
+- Section 2307.96 - Asbestos claim - multiple defendants - substantial factor test.
+- Section 2307.97 - Cumulative successor asbestos-related liabilities of corporation.
+- Section 2307.98 - Asbestos claim - piercing the corporate veil.

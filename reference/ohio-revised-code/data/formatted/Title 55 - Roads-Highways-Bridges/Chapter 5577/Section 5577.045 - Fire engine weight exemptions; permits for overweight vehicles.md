@@ -1,0 +1,24 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5577.045
+Scraped: 2026-07-02T20:13:58+00:00
+
+# Section 5577.045 - Fire engine weight exemptions; permits for overweight vehicles.
+
+**Effective:** June 30, 2021
+
+**Latest Legislation:** House Bill 74 - 134th General Assembly
+
+(A) As used in this section, "fire engine" means a fire engine, fire truck, or other vehicle or apparatus belonging to or used by any municipal, township, or volunteer fire department, while in the discharge of its functions.
+
+(B) Notwithstanding sections 5577.02 and 5577.04 of the Revised Code, a person may do both of the following without a written permit issued under section 4513.34 of the Revised Code:
+
+(1) Operate a two-axle fire engine, with a front axle maximum weight of twenty-four thousand pounds and a rear axle maximum weight of thirty-three thousand five hundred pounds and a minimum wheelbase of fifteen feet, on all roadways in the state;
+
+(2) Operate a fire engine with a maximum gross vehicle weight of eighty-six thousand pounds on the interstate highway system and within one road mile of an interstate highway system entrance or exit ramp.
+
+(C) Notwithstanding section 4513.34 of the Revised Code, for any fire engine that requires a permit, the director of transportation or local authority shall do both of the following:
+
+(1) Issue the permit at no cost to the municipal, township, or volunteer fire department;
+
+(2) Issue a permit that expires five years after the date of issuance.
+
+Last updated April 13, 2021 at 4:52 PM

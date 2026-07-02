@@ -1,0 +1,22 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5123.28
+Scraped: 2026-07-02T20:10:53+00:00
+
+# Section 5123.28 - Handling funds belonging to residents.
+
+**Effective:** October 6, 2009
+
+**Latest Legislation:** Senate Bill 79 - 128th General Assembly
+
+(A) Except as otherwise provided in this division, money or property deposited with managing officers of institutions under the jurisdiction of the department of developmental disabilities by any resident under the department's control or by relatives, guardians, conservators, and others for the special benefit of such resident, as well as all other funds and all other income paid to the resident, to the resident's estate, or on the resident's behalf, or paid to the managing officer or to the institution as representative payee or otherwise paid on the resident's behalf, shall remain in the hands of such managing officers in appropriate accounts for use accordingly. Each such managing officer shall keep itemized book accounts of the receipt and disposition of such money and property, which book shall be open at all times to the inspection of the department. The director of developmental disabilities shall adopt rules governing the deposit, transfer, withdrawal, or investment of such funds and the income of the funds, as well as rules under which such funds and income shall be paid by managing officers, institutions, or district managers for the support of such residents pursuant to Chapter 5121. of the Revised Code, or for their other needs.
+
+This division does not require, and shall not be construed as requiring, the deposit of the principal or income of a trust created pursuant to section 5815.28 of the Revised Code with managing officers of institutions under the jurisdiction of the department.
+
+(B) Whenever any resident confined in a state institution under the jurisdiction of the department dies, escapes, or is discharged from the institution, any personal funds of the resident remain in the hands of the managing officer of the institution, and no demand is made upon the managing officer by the owner of the funds or the owner's legally appointed representative, the managing officer shall hold the funds in the personal deposit fund for a period of at least one year during which time the managing officer shall make every effort possible to locate the owner or the owner's legally appointed representative. If, at the end of this period, no demand has been made for the funds, the managing officer shall dispose of the funds as follows:
+
+(1) All money in a personal deposit fund in excess of ten dollars due for the support of a resident, shall be paid in accordance with Chapter 5121. of the Revised Code.
+
+(2) All money in a personal deposit fund in excess of ten dollars not due for the support of a resident, shall be placed to the credit of the institution's local account designated as the "industrial and entertainment" fund.
+
+(3) The first ten dollars to the credit of a resident shall be placed to the credit of the institution's local account designated as the "industrial and entertainment" fund.
+
+(C) Whenever any resident in any state institution subject to the jurisdiction of the department dies, escapes, or is discharged from the institution, any personal effects of the resident remain in the hands of the managing officer of the institution, and no demand is made upon the managing officer by the owner of the personal effects or the owner's legally appointed representative, the managing officer shall hold and dispose of the personal effects in the following manner. All the miscellaneous personal effects shall be held for a period of at least one year, during which time the managing officer shall make every effort possible to locate the owner or the owner's legal representative. If, at the end of this period, no demand has been made by the owner of the property or the owner's legal representative, the managing officer shall file with the county recorder of the county of commitment of such owner, all deeds, wills, contract mortgages, or assignments. The balance of the personal effects shall be sold at public auction after being duly advertised, and the funds turned over to the treasurer of state for credit to the general revenue fund. If any of the property is not of a type to be filed with the county recorder and is not salable at public auction, the managing officer of the institution shall destroy that property.

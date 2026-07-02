@@ -1,0 +1,12 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5161.01
+Scraped: 2026-07-02T20:11:18+00:00
+
+# Section 5161.01 - Definitions.
+
+**Effective:** September 29, 2013
+
+**Latest Legislation:** House Bill 59 - 130th General Assembly
+
+(A) As used in the Revised Code, "children's health insurance program" and, when used as an acronym for the children's health insurance program, "CHIP" mean the program of child health assistance authorized by Title XXI of the "Social Security Act," 42 U.S.C. 1397aa et seq. CHIP part I, CHIP part II, and CHIP part III, as authorized by this chapter, are components of CHIP. Any reference in statute enacted by the general assembly to medicaid or the medicaid program also means CHIP to the extent, if any, that CHIP is provided under the medicaid program.
+
+(B) As used in this chapter, "federal poverty line" means the official poverty line defined by the United States office of management and budget based on the most recent data available from the United States bureau of the census and revised by the United States secretary of health and human services pursuant to the "Omnibus Budget Reconciliation Act of 1981," section 673(2), 42 U.S.C. 9902(2).

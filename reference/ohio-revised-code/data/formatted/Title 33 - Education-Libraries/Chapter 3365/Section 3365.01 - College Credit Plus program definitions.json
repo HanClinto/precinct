@@ -1,0 +1,272 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Articulated credit\" means post-secondary credit that is reflected on the official record of a student at an institution of higher education only upon enrollment at that institution after graduation from a secondary school.",
+      "id": "3365.01-articulated-credit",
+      "normalized": "articulated credit",
+      "scope": "As used in this chapter:",
+      "section": "3365.01",
+      "source_title": "Section 3365.01 - College Credit Plus program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3365.01",
+      "term": "Articulated credit"
+    },
+    {
+      "definition": "(B) \"Default ceiling amount\" means one of the following amounts, whichever is applicable:\n\n(1) For a participant enrolled in a college operating on a semester schedule, the amount calculated according to the following formula:\n\n((0.83 X formula amount) / 30)\n\nX number of enrolled credit hours\n\n(2) For a participant enrolled in a college operating on a quarter schedule, the amount calculated according to the following formula:\n\n((0.83 X formula amount) / 45)\n\nX number of enrolled credit hours",
+      "id": "3365.01-default-ceiling-amount",
+      "normalized": "default ceiling amount",
+      "scope": "As used in this chapter:",
+      "section": "3365.01",
+      "source_title": "Section 3365.01 - College Credit Plus program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3365.01",
+      "term": "Default ceiling amount"
+    },
+    {
+      "definition": "(C) \"Default floor amount\" means twenty-five per cent of the default ceiling amount.",
+      "id": "3365.01-default-floor-amount",
+      "normalized": "default floor amount",
+      "scope": "As used in this chapter:",
+      "section": "3365.01",
+      "source_title": "Section 3365.01 - College Credit Plus program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3365.01",
+      "term": "Default floor amount"
+    },
+    {
+      "definition": "(D) \"Eligible out-of-state college\" means any institution of higher education that is located outside of Ohio and is approved by the chancellor of higher education to participate in the college credit plus program.",
+      "id": "3365.01-eligible-out-of-state-college",
+      "normalized": "eligible out-of-state college",
+      "scope": "As used in this chapter:",
+      "section": "3365.01",
+      "source_title": "Section 3365.01 - College Credit Plus program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3365.01",
+      "term": "Eligible out-of-state college"
+    },
+    {
+      "definition": "(E) \"Fee\" means any course-related fee and any other fee imposed by the college, but not included in tuition, for participation in the program established by this chapter.",
+      "id": "3365.01-fee",
+      "normalized": "fee",
+      "scope": "As used in this chapter:",
+      "section": "3365.01",
+      "source_title": "Section 3365.01 - College Credit Plus program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3365.01",
+      "term": "Fee"
+    },
+    {
+      "definition": "(F) \"Formula amount\" means $6,020.",
+      "id": "3365.01-formula-amount",
+      "normalized": "formula amount",
+      "scope": "As used in this chapter:",
+      "section": "3365.01",
+      "source_title": "Section 3365.01 - College Credit Plus program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3365.01",
+      "term": "Formula amount"
+    },
+    {
+      "definition": "(G) \"Governing entity\" means any of the following:\n\n(1) A board of education of a school district;\n\n(2) A governing authority of a community school established under Chapter 3314. of the Revised Code;\n\n(3) A governing body of a STEM school established under Chapter 3326. of the Revised Code;\n\n(4) A board of trustees of a college-preparatory boarding school established under Chapter 3328. of the Revised Code;\n\n(5) When referring to the state school for the deaf or the state school for the blind, the department of education and workforce;\n\n(6) When referring to an institution operated by the department of youth services, the superintendent of that institution.",
+      "id": "3365.01-governing-entity",
+      "normalized": "governing entity",
+      "scope": "As used in this chapter:",
+      "section": "3365.01",
+      "source_title": "Section 3365.01 - College Credit Plus program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3365.01",
+      "term": "Governing entity"
+    },
+    {
+      "definition": "(H) \"Home-educated participant\" means a student who is exempt from the compulsory attendance law for the purpose of home education under section 3321.042 of the Revised Code, and is participating in the program established by this chapter.",
+      "id": "3365.01-home-educated-participant",
+      "normalized": "home-educated participant",
+      "scope": "As used in this chapter:",
+      "section": "3365.01",
+      "source_title": "Section 3365.01 - College Credit Plus program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3365.01",
+      "term": "Home-educated participant"
+    },
+    {
+      "definition": "(I) \"Maximum per participant charge amount\" means one of the following amounts, whichever is applicable:\n\n(1) For a participant enrolled in a college operating on a semester schedule, the amount calculated according to the following formula:\n\n((formula amount / 30)\n\nX number of enrolled credit hours)\n\n(2) For a participant enrolled in a college operating on a quarter schedule, the amount calculated according to the following formula:\n\n((formula amount / 45)\n\nX number of enrolled credit hours)",
+      "id": "3365.01-maximum-per-participant-charge-amount",
+      "normalized": "maximum per participant charge amount",
+      "scope": "As used in this chapter:",
+      "section": "3365.01",
+      "source_title": "Section 3365.01 - College Credit Plus program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3365.01",
+      "term": "Maximum per participant charge amount"
+    },
+    {
+      "definition": "(J) \"Nonpublic secondary school\" means a chartered school for which minimum standards are prescribed by the director of education and workforce pursuant to division (D) of section 3301.07 of the Revised Code.",
+      "id": "3365.01-nonpublic-secondary-school",
+      "normalized": "nonpublic secondary school",
+      "scope": "As used in this chapter:",
+      "section": "3365.01",
+      "source_title": "Section 3365.01 - College Credit Plus program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3365.01",
+      "term": "Nonpublic secondary school"
+    },
+    {
+      "definition": "(K) \"Number of enrolled credit hours\" means the number of credit hours for a course in which a participant is enrolled during the previous term after the date on which a withdrawal from a course would have negatively affected the participant's transcripted grade, as prescribed by the college's established withdrawal policy.",
+      "id": "3365.01-number-of-enrolled-credit-hours",
+      "normalized": "number of enrolled credit hours",
+      "scope": "As used in this chapter:",
+      "section": "3365.01",
+      "source_title": "Section 3365.01 - College Credit Plus program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3365.01",
+      "term": "Number of enrolled credit hours"
+    },
+    {
+      "definition": "(L) \"Parent\" has the same meaning as in section 3313.64 of the Revised Code.",
+      "id": "3365.01-parent",
+      "normalized": "parent",
+      "scope": "As used in this chapter:",
+      "section": "3365.01",
+      "source_title": "Section 3365.01 - College Credit Plus program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3365.01",
+      "term": "Parent"
+    },
+    {
+      "definition": "(M) \"Participant\" means any student enrolled in a college under the program established by this chapter.",
+      "id": "3365.01-participant",
+      "normalized": "participant",
+      "scope": "As used in this chapter:",
+      "section": "3365.01",
+      "source_title": "Section 3365.01 - College Credit Plus program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3365.01",
+      "term": "Participant"
+    },
+    {
+      "definition": "(N) \"Partnering college\" means a college with which a public or nonpublic secondary school has entered into an agreement in order to offer the program established by this chapter.",
+      "id": "3365.01-partnering-college",
+      "normalized": "partnering college",
+      "scope": "As used in this chapter:",
+      "section": "3365.01",
+      "source_title": "Section 3365.01 - College Credit Plus program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3365.01",
+      "term": "Partnering college"
+    },
+    {
+      "definition": "(O) \"Partnering secondary school\" means a public or nonpublic secondary school with which a college has entered into an agreement in order to offer the program established by this chapter.",
+      "id": "3365.01-partnering-secondary-school",
+      "normalized": "partnering secondary school",
+      "scope": "As used in this chapter:",
+      "section": "3365.01",
+      "source_title": "Section 3365.01 - College Credit Plus program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3365.01",
+      "term": "Partnering secondary school"
+    },
+    {
+      "definition": "(P) \"Private college\" means any of the following:\n\n(1) A nonprofit institution holding a certificate of authorization pursuant to Chapter 1713. of the Revised Code;\n\n(2) An institution holding a certificate of registration from the state board of career colleges and schools and program authorization for an associate or bachelor's degree program issued under section 3332.05 of the Revised Code;\n\n(3) A private institution exempt from regulation under Chapter 3332. of the Revised Code as prescribed in section 3333.046 of the Revised Code.",
+      "id": "3365.01-private-college",
+      "normalized": "private college",
+      "scope": "As used in this chapter:",
+      "section": "3365.01",
+      "source_title": "Section 3365.01 - College Credit Plus program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3365.01",
+      "term": "Private college"
+    },
+    {
+      "definition": "(Q) \"Public college\" means a \"state institution of higher education\" in section 3345.011 of the Revised Code, excluding the northeast Ohio medical university.",
+      "id": "3365.01-public-college",
+      "normalized": "public college",
+      "scope": "As used in this chapter:",
+      "section": "3365.01",
+      "source_title": "Section 3365.01 - College Credit Plus program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3365.01",
+      "term": "Public college"
+    },
+    {
+      "definition": "(R) \"Public secondary school\" means a school serving grades nine through twelve in a city, local, or exempted village school district, a joint vocational school district, a community school established under Chapter 3314. of the Revised Code, a STEM school established under Chapter 3326. of the Revised Code, a college-preparatory boarding school established under Chapter 3328. of the Revised Code, the state school for the deaf, the state school for the blind, or an institution operated by the department of youth services.",
+      "id": "3365.01-public-secondary-school",
+      "normalized": "public secondary school",
+      "scope": "As used in this chapter:",
+      "section": "3365.01",
+      "source_title": "Section 3365.01 - College Credit Plus program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3365.01",
+      "term": "Public secondary school"
+    },
+    {
+      "definition": "(S) \"School year\" has the same meaning as in section 3313.62 of the Revised Code.",
+      "id": "3365.01-school-year",
+      "normalized": "school year",
+      "scope": "As used in this chapter:",
+      "section": "3365.01",
+      "source_title": "Section 3365.01 - College Credit Plus program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3365.01",
+      "term": "School year"
+    },
+    {
+      "definition": "(T) \"Secondary grade\" means any of grades nine through twelve.",
+      "id": "3365.01-secondary-grade",
+      "normalized": "secondary grade",
+      "scope": "As used in this chapter:",
+      "section": "3365.01",
+      "source_title": "Section 3365.01 - College Credit Plus program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3365.01",
+      "term": "Secondary grade"
+    },
+    {
+      "definition": "(U) \"Standard rate\" means the amount per credit hour assessed by the college for an in-state student who is enrolled in an undergraduate course at that college, but who is not participating in the college credit plus program, as prescribed by the college's established tuition policy.",
+      "id": "3365.01-standard-rate",
+      "normalized": "standard rate",
+      "scope": "As used in this chapter:",
+      "section": "3365.01",
+      "source_title": "Section 3365.01 - College Credit Plus program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3365.01",
+      "term": "Standard rate"
+    },
+    {
+      "definition": "(V) \"Transcripted credit\" means post-secondary credit that is conferred by an institution of higher education and is reflected on a student's official record at that institution upon completion of a course.\n\nLast updated September 11, 2023 at 3:33 PM",
+      "id": "3365.01-transcripted-credit",
+      "normalized": "transcripted credit",
+      "scope": "As used in this chapter:",
+      "section": "3365.01",
+      "source_title": "Section 3365.01 - College Credit Plus program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3365.01",
+      "term": "Transcripted credit"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3321.042",
+      "number": "3321.042",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3321.042"
+    },
+    {
+      "kind": "section",
+      "label": "3301.07",
+      "number": "3301.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3301.07"
+    },
+    {
+      "kind": "section",
+      "label": "3313.64",
+      "number": "3313.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.64"
+    },
+    {
+      "kind": "section",
+      "label": "3332.05",
+      "number": "3332.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3332.05"
+    },
+    {
+      "kind": "section",
+      "label": "3333.046",
+      "number": "3333.046",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.046"
+    },
+    {
+      "kind": "section",
+      "label": "3345.011",
+      "number": "3345.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3345.011"
+    },
+    {
+      "kind": "section",
+      "label": "3313.62",
+      "number": "3313.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.62"
+    }
+  ],
+  "scraped": "2026-07-02T19:50:26+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3365.01",
+  "title": "Section 3365.01 - College Credit Plus program definitions."
+}

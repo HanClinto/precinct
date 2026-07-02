@@ -1,0 +1,99 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-1706
+Scraped: 2026-07-02T19:39:08+00:00
+
+# Chapter 1706 - Ohio Revised Limited Liability Company Act
+
+## Sections
+
+- Section 1706.01 - Limited liability company definitions.
+- Section 1706.02 - The Revised Limited Liability Company Act.
+- Section 1706.03 - Knowledge and notification of facts.
+- Section 1706.04 - Separate legal entity.
+- Section 1706.05 - Scope of authority of limited liability company.
+- Section 1706.06 - Interpretation and application of Revised Limited Liability Company Act.
+- Section 1706.061 - Authority of state law over limited liability companies.
+- Section 1706.07 - Naming of limited liability company.
+- Section 1706.08 - Limited liability company operating agreements.
+- Section 1706.081 - Enforcement of operating agreements.
+- Section 1706.082 - Operating agreement amendment, provision of rights, obligations.
+- Section 1706.09 - Legal agents of limited liability companies.
+- Section 1706.16 - Articles of organization.
+- Section 1706.161 - Amendments to articles of organization.
+- Section 1706.17 - Filed records of a limited liability company to be signed.
+- Section 1706.171 - Incomplete or undelivered records.
+- Section 1706.172 - Records requirements.
+- Section 1706.173 - Certificates of correction.
+- Section 1706.174 - Incorrect or inaccurate records - penalty.
+- Section 1706.175 - Certificate of full force and effect; foreign limited liability company certificate of registration.
+- Section 1706.18 - Binding of limited liability company.
+- Section 1706.19 - Statement of authority, amendments and cancellation, certificate of dissolution.
+- Section 1706.20 - Statement of denial.
+- Section 1706.26 - Liabilities of limited liability company members.
+- Section 1706.27 - Admission as a member of a limited liability company.
+- Section 1706.28 - Contributions of members of a limited liability company.
+- Section 1706.281 - Obligation to make a contribution.
+- Section 1706.29 - Distributions of limited liability company.
+- Section 1706.30 - Direction and oversight of a limited liability company.
+- Section 1706.31 - Duties of a member to a limited liability company and other members.
+- Section 1706.311 - Duties of a manager to a limited liability company and its members.
+- Section 1706.32 - Indemnification, advancement, reimbursement, and insurance.
+- Section 1706.33 - Right of members and dissociated members to records.
+- Section 1706.331 - Reliance on reports and information.
+- Section 1706.332 - Power of personal representative of deceased member.
+- Section 1706.34 - Member's membership interest is personal property and assignable.
+- Section 1706.341 - Assignment of limited liability company interest.
+- Section 1706.342 - Charging order relating to judgments.
+- Section 1706.41 - Wrongful dissociation.
+- Section 1706.411 - Circumstances causing dissociation.
+- Section 1706.412 - Effect of dissociation.
+- Section 1706.46 - Cancellation and reinstatement.
+- Section 1706.461 - Appeals.
+- Section 1706.47 - Dissolution.
+- Section 1706.471 - Effect of dissolution.
+- Section 1706.472 - Winding up of limited liability company activities.
+- Section 1706.473 - Claims against dissolved limited liability company.
+- Section 1706.474 - Publication of dissolution.
+- Section 1706.475 - Winding up payment to creditors and distribution of surplus.
+- Section 1706.51 - Foreign limited liability company governing law.
+- Section 1706.511 - Foreign limited liability company registration.
+- Section 1706.512 - Actions not constituting transacting business in Ohio.
+- Section 1706.513 - Complying name for registration.
+- Section 1706.514 - Cancellation of registration with Secretary of State.
+- Section 1706.515 - Collection of debts without registration prohibited.
+- Section 1706.61 - Right of derivative action.
+- Section 1706.611 - Member standing for derivative action.
+- Section 1706.612 - Written demand requirement.
+- Section 1706.613 - Stay of derivative action.
+- Section 1706.614 - Dismissal of derivative action.
+- Section 1706.615 - Discontinuance or settlement.
+- Section 1706.616 - Payment of expenses.
+- Section 1706.617 - Jurisdiction of derivative action proceedings.
+- Section 1706.62 - Member suit against other members.
+- Section 1706.71 - Merger authority, conditions, and conversion of ownership interests.
+- Section 1706.711 - Merger approval, amendment, or abandonment.
+- Section 1706.712 - Merger certificate and effective date.
+- Section 1706.713 - Merger effect.
+- Section 1706.72 - Conversion to or from LLC form.
+- Section 1706.721 - Conversion approval, amendment, or abandonment.
+- Section 1706.722 - Conversion certificate and effective date.
+- Section 1706.723 - Conversion effect.
+- Section 1706.73 - Merger or conversion consent if personal liability will attach.
+- Section 1706.74 - Merger or conversion under other law.
+- Section 1706.76 - Separate asset series-designation by operating agreement.
+- Section 1706.761 - Separate asset series-limited liability statement.
+- Section 1706.762 - Separate asset series-how assets held.
+- Section 1706.763 - Separate asset series-limited liability statement effective.
+- Section 1706.764 - Separate asset series-wrongful dissociation from series.
+- Section 1706.765 - Separate asset series-circumstances causing dissociation from series.
+- Section 1706.766 - Separate asset series-effect of dissociation.
+- Section 1706.767 - Separate asset series-effect of series dissolution.
+- Section 1706.768 - Separate asset series-events causing series dissolution.
+- Section 1706.769 - Separate asset series-activities and proceedings after dissolution.
+- Section 1706.7610 - Separate asset series-responsibility to wind up activities after dissolution.
+- Section 1706.7611 - Separate asset series-disposition of claims after dissolution.
+- Section 1706.7612 - Separate asset series-notice of dissolution and limitation of claims.
+- Section 1706.7613 - Separate asset series-distribution of funds upon wind up.
+- Section 1706.81 - Effect on federal law.
+- Section 1706.82 - LLC may act outside the state.
+- Section 1706.83 - Chapter applies to all LLCs on and after February 11, 2022.
+- Section 1706.84 - Application of chapter amendments.

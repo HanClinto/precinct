@@ -1,0 +1,42 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Explanation\" means a writing that:\n\n(a) States the amount of the surplus or deficiency;\n\n(b) Provides an explanation in accordance with division (C) of this section of how the secured party calculated the surplus or deficiency;\n\n(c) States, if applicable, that future debits, credits, charges, including additional credit service charges or interest, rebates, and expenses may affect the amount of the surplus or deficiency; and\n\n(d) Provides a telephone number or mailing address from which additional information concerning the transaction is available.",
+      "id": "1309.616-explanation",
+      "normalized": "explanation",
+      "scope": "(A) As used in this section:",
+      "section": "1309.616",
+      "source_title": "Section 1309.616 - Explanation of calculation of surplus or deficiency - UCC 9-616.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1309.616",
+      "term": "Explanation"
+    },
+    {
+      "definition": "(2) \"Request\" means a record:\n\n(a) Authenticated by a debtor or consumer obligor;\n\n(b) Requests that the recipient provide an explanation; and\n\n(c) Sent after disposition of the collateral under section 1309.610 of the Revised Code.\n\n(B) In a consumer-goods transaction in which the debtor is entitled to a surplus or a consumer obligor is liable for a deficiency under section 1309.615 of the Revised Code, the secured party shall:\n\n(1) Send an explanation to the debtor or consumer obligor, as applicable, after the disposition and:\n\n(a) Before or when the secured party accounts to the debtor and pays any surplus or first makes written demand on the consumer obligor after the disposition for payment of the deficiency; and\n\n(b) Within fourteen days after receipt of a request; or\n\n(2) In the case of a consumer obligor who is liable for a deficiency, within fourteen days after receipt of a request, send to the consumer obligor a record waiving the secured party's right to a deficiency.\n\n(C) To comply with division (A)(1)(b) of this section, a writing must provide all of the following information in the following order:\n\n(1) The aggregate amount of obligations secured by the security interest under which the disposition was made, and, if the amount reflects a rebate of unearned interest or credit service charge, an indication of that fact, calculated as of a specified date:\n\n(a) If the secured party takes or receives possession of the collateral after default, not more than thirty-five days before the secured party takes or receives possession; or\n\n(b) If the secured party takes or receives possession of the collateral before default or does not take possession of the collateral, not more than thirty-five days before the disposition;\n\n(2) The amount of proceeds of the disposition;\n\n(3) The aggregate amount of the obligations after deducting the amount of proceeds;\n\n(4) The amount, in the aggregate or by type, and types of expenses, including expenses of retaking, holding, preparing for disposition, processing, and disposing of the collateral, and attorney's fees secured by the collateral that are known to the secured party and relate to the current disposition;\n\n(5) The amount, in the aggregate or by type, and types of credits, including rebates of interest or credit service charges, to which the obligor is known to be entitled and that are not reflected in the amount in division (C)(1) of this section; and\n\n(6) The amount of the surplus or deficiency.\n\n(D) A particular phrasing of the explanation is not required. An explanation that complies substantially with the requirements of division (A) of this section is sufficient, even if it includes minor errors that are not seriously misleading.\n\n(E) A debtor or consumer obligor is entitled without charge to one response to a request under this section during any six-month period in which the secured party did not send to the debtor or consumer obligor an explanation pursuant to division (B)(1) of this section. The secured party may require payment of a charge not exceeding twenty-five dollars for each additional response.",
+      "id": "1309.616-request",
+      "normalized": "request",
+      "scope": "(A) As used in this section:",
+      "section": "1309.616",
+      "source_title": "Section 1309.616 - Explanation of calculation of surplus or deficiency - UCC 9-616.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1309.616",
+      "term": "Request"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "1309.610",
+      "number": "1309.610",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1309.610"
+    },
+    {
+      "kind": "section",
+      "label": "1309.615",
+      "number": "1309.615",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1309.615"
+    }
+  ],
+  "scraped": "2026-07-02T19:37:07+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1309.616",
+  "title": "Section 1309.616 - Explanation of calculation of surplus or deficiency - UCC 9-616."
+}

@@ -1,0 +1,20 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-313.123
+Scraped: 2026-07-02T19:32:44+00:00
+
+# Section 313.123 - Removal and disposal of autopsy specimens - good faith immunity of coroner.
+
+**Effective:** August 17, 2006
+
+**Latest Legislation:** House Bill 235 - 126th General Assembly
+
+(A)(1) As used in this chapter, "autopsy" means the external and internal examination of the body of a deceased person, including, but not limited to, gross visual inspection and dissection of the body and its internal organs, photographic or narrative documentation of findings, microscopic, radiological, toxicological, chemical, or other laboratory analyses performed in the discretion of the examining individual upon tissues, organs, blood, other bodily fluids, gases, or any other specimens and the retention for diagnostic and documentary purposes of tissues, organs, blood, other bodily fluids, gases, or any other specimens as the examining individual considers necessary to establish and defend against challenges to the cause and manner of death of the deceased person.
+
+(2) As used in this section, "DNA specimen" has the same meaning as in section 109.573 of the Revised Code.
+
+(B)(1) Except as otherwise provided in division (B)(2) of this section, retained tissues, organs, blood, other bodily fluids, gases, or any other specimens from an autopsy are medical waste and shall be disposed of in accordance with applicable federal and state laws, including any protocol rules adopted under section 313.122 of the Revised Code.
+
+(2) If an autopsy is performed on a deceased person and pursuant to section 313.131 of the Revised Code the coroner has reason to believe that the autopsy is contrary to the deceased person's religious beliefs, the coroner shall not remove any specimens, including, but not limited to, tissues, organs, blood, or other bodily fluids, from the body of the deceased person unless removing those specimens from the body of the deceased person is a compelling public necessity. Except as otherwise provided in division (B)(3) of this section, if the coroner removes any specimens from the body of the deceased person, the coroner shall return the specimens, as soon as is practicable, to the person who has the right to the disposition of the body.
+
+(3) The coroner may retain a DNA specimen for diagnostic, evidentiary, or confirmatory purposes.
+
+(C) A cause of action shall not lie against any employee of a coroner's office for requesting, ordering, or performing an autopsy in good faith under the authority of this chapter.

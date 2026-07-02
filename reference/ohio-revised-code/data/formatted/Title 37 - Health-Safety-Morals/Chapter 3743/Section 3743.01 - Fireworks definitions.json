@@ -1,0 +1,522 @@
+{
+  "glossary": [
+    {
+      "definition": "(B) \"Booby trap\" means a small tube that has a string protruding from both ends, that has a friction-sensitive composition, and that is ignited by pulling the ends of the string.",
+      "id": "3743.01-booby-trap",
+      "normalized": "booby trap",
+      "scope": "As used in this chapter:",
+      "section": "3743.01",
+      "source_title": "Section 3743.01 - Fireworks definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3743.01",
+      "term": "Booby trap"
+    },
+    {
+      "definition": "(C) \"Cigarette load\" means a small wooden peg that is coated with a small quantity of explosive composition and that is ignited in a cigarette.",
+      "id": "3743.01-cigarette-load",
+      "normalized": "cigarette load",
+      "scope": "As used in this chapter:",
+      "section": "3743.01",
+      "source_title": "Section 3743.01 - Fireworks definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3743.01",
+      "term": "Cigarette load"
+    },
+    {
+      "definition": "(D)(1) \"1.3G fireworks\" means display fireworks consistent with regulations of the United States department of transportation as expressed using the designation \"division 1.3\" in Title 49, Code of Federal Regulations.",
+      "id": "3743.01-1-3g-fireworks",
+      "normalized": "1.3g fireworks",
+      "scope": "As used in this chapter:",
+      "section": "3743.01",
+      "source_title": "Section 3743.01 - Fireworks definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3743.01",
+      "term": "1.3G fireworks"
+    },
+    {
+      "definition": "(2) \"1.4G fireworks\" means consumer fireworks consistent with regulations of the United States department of transportation as expressed using the designation \"division 1.4\" in Title 49, Code of Federal Regulations.",
+      "id": "3743.01-1-4g-fireworks",
+      "normalized": "1.4g fireworks",
+      "scope": "As used in this chapter:",
+      "section": "3743.01",
+      "source_title": "Section 3743.01 - Fireworks definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3743.01",
+      "term": "1.4G fireworks"
+    },
+    {
+      "definition": "(E) \"Controlled substance\" has the same meaning as in section 3719.01 of the Revised Code.",
+      "id": "3743.01-controlled-substance",
+      "normalized": "controlled substance",
+      "scope": "As used in this chapter:",
+      "section": "3743.01",
+      "source_title": "Section 3743.01 - Fireworks definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3743.01",
+      "term": "Controlled substance"
+    },
+    {
+      "definition": "(F) \"Fireworks\" means any composition or device prepared for the purpose of producing a visible or an audible effect by combustion, deflagration, or detonation, except ordinary matches and except as provided in section 3743.80 of the Revised Code.",
+      "id": "3743.01-fireworks",
+      "normalized": "fireworks",
+      "scope": "As used in this chapter:",
+      "section": "3743.01",
+      "source_title": "Section 3743.01 - Fireworks definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3743.01",
+      "term": "Fireworks"
+    },
+    {
+      "definition": "(G) \"Fireworks plant\" means all buildings and other structures in which the manufacturing of fireworks, or the storage or sale of manufactured fireworks by a manufacturer, takes place.",
+      "id": "3743.01-fireworks-plant",
+      "normalized": "fireworks plant",
+      "scope": "As used in this chapter:",
+      "section": "3743.01",
+      "source_title": "Section 3743.01 - Fireworks definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3743.01",
+      "term": "Fireworks plant"
+    },
+    {
+      "definition": "(H) \"Fountain device\" means a specific type of 1.4G firework that meets all of the following criteria:\n\n(1) It is nonaerial and nonreport producing.\n\n(2) It is recognized and manufactured in accordance with sections 3.1 .1 and 3.5 of APA standard 87-1 (2001 edition).\n\n(3) It is a ground-based or hand-held sparkler with one or more tubes containing a nonexplosive pyrotechnic mixture that produces a shower of sparks upon ignition, with or without additional effects that may include a colored flame, audible crackling effect, audible whistle effect, or smoke.\n\n(4) It contains not more than seventy-five grams of the nonexplosive pyrotechnic mixture in any individual tube and not more than five hundred grams or less for multiple tubes.",
+      "id": "3743.01-fountain-device",
+      "normalized": "fountain device",
+      "scope": "As used in this chapter:",
+      "section": "3743.01",
+      "source_title": "Section 3743.01 - Fireworks definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3743.01",
+      "term": "Fountain device"
+    },
+    {
+      "definition": "(I) \"Highway\" means any public street, road, alley, way, lane, or other public thoroughfare.",
+      "id": "3743.01-highway",
+      "normalized": "highway",
+      "scope": "As used in this chapter:",
+      "section": "3743.01",
+      "source_title": "Section 3743.01 - Fireworks definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3743.01",
+      "term": "Highway"
+    },
+    {
+      "definition": "(J) \"Licensed exhibitor of fireworks\" or \"licensed exhibitor\" means a person licensed pursuant to sections 3743.50 to 3743.55 of the Revised Code.",
+      "id": "3743.01-licensed-exhibitor-of-fireworks",
+      "normalized": "licensed exhibitor of fireworks",
+      "scope": "As used in this chapter:",
+      "section": "3743.01",
+      "source_title": "Section 3743.01 - Fireworks definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3743.01",
+      "term": "Licensed exhibitor of fireworks"
+    },
+    {
+      "definition": "(J) \"Licensed exhibitor of fireworks\" or \"licensed exhibitor\" means a person licensed pursuant to sections 3743.50 to 3743.55 of the Revised Code.",
+      "id": "3743.01-licensed-exhibitor",
+      "normalized": "licensed exhibitor",
+      "scope": "As used in this chapter:",
+      "section": "3743.01",
+      "source_title": "Section 3743.01 - Fireworks definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3743.01",
+      "term": "licensed exhibitor"
+    },
+    {
+      "definition": "(K) \"Licensed fountain device retailer\" or \"licensed retailer\" means a person licensed pursuant to section 3743.26 of the Revised Code.",
+      "id": "3743.01-licensed-fountain-device-retailer",
+      "normalized": "licensed fountain device retailer",
+      "scope": "As used in this chapter:",
+      "section": "3743.01",
+      "source_title": "Section 3743.01 - Fireworks definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3743.01",
+      "term": "Licensed fountain device retailer"
+    },
+    {
+      "definition": "(K) \"Licensed fountain device retailer\" or \"licensed retailer\" means a person licensed pursuant to section 3743.26 of the Revised Code.",
+      "id": "3743.01-licensed-retailer",
+      "normalized": "licensed retailer",
+      "scope": "As used in this chapter:",
+      "section": "3743.01",
+      "source_title": "Section 3743.01 - Fireworks definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3743.01",
+      "term": "licensed retailer"
+    },
+    {
+      "definition": "(L) \"Licensed manufacturer of fireworks\" or \"licensed manufacturer\" means a person licensed pursuant to sections 3743.02 to 3743.08 of the Revised Code.",
+      "id": "3743.01-licensed-manufacturer-of-fireworks",
+      "normalized": "licensed manufacturer of fireworks",
+      "scope": "As used in this chapter:",
+      "section": "3743.01",
+      "source_title": "Section 3743.01 - Fireworks definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3743.01",
+      "term": "Licensed manufacturer of fireworks"
+    },
+    {
+      "definition": "(L) \"Licensed manufacturer of fireworks\" or \"licensed manufacturer\" means a person licensed pursuant to sections 3743.02 to 3743.08 of the Revised Code.",
+      "id": "3743.01-licensed-manufacturer",
+      "normalized": "licensed manufacturer",
+      "scope": "As used in this chapter:",
+      "section": "3743.01",
+      "source_title": "Section 3743.01 - Fireworks definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3743.01",
+      "term": "licensed manufacturer"
+    },
+    {
+      "definition": "(M) \"Licensed wholesaler of fireworks\" or \"licensed wholesaler\" means a person licensed pursuant to sections 3743.15 to 3743.21 of the Revised Code.",
+      "id": "3743.01-licensed-wholesaler-of-fireworks",
+      "normalized": "licensed wholesaler of fireworks",
+      "scope": "As used in this chapter:",
+      "section": "3743.01",
+      "source_title": "Section 3743.01 - Fireworks definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3743.01",
+      "term": "Licensed wholesaler of fireworks"
+    },
+    {
+      "definition": "(M) \"Licensed wholesaler of fireworks\" or \"licensed wholesaler\" means a person licensed pursuant to sections 3743.15 to 3743.21 of the Revised Code.",
+      "id": "3743.01-licensed-wholesaler",
+      "normalized": "licensed wholesaler",
+      "scope": "As used in this chapter:",
+      "section": "3743.01",
+      "source_title": "Section 3743.01 - Fireworks definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3743.01",
+      "term": "licensed wholesaler"
+    },
+    {
+      "definition": "(N) \"List of licensed exhibitors\" means the list required by division (C) of section 3743.51 of the Revised Code.",
+      "id": "3743.01-list-of-licensed-exhibitors",
+      "normalized": "list of licensed exhibitors",
+      "scope": "As used in this chapter:",
+      "section": "3743.01",
+      "source_title": "Section 3743.01 - Fireworks definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3743.01",
+      "term": "List of licensed exhibitors"
+    },
+    {
+      "definition": "(O) \"List of licensed manufacturers\" means the list required by division (C) of section 3743.03 of the Revised Code.",
+      "id": "3743.01-list-of-licensed-manufacturers",
+      "normalized": "list of licensed manufacturers",
+      "scope": "As used in this chapter:",
+      "section": "3743.01",
+      "source_title": "Section 3743.01 - Fireworks definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3743.01",
+      "term": "List of licensed manufacturers"
+    },
+    {
+      "definition": "(P) \"List of licensed wholesalers\" means the list required by division (C) of section 3743.16 of the Revised Code.",
+      "id": "3743.01-list-of-licensed-wholesalers",
+      "normalized": "list of licensed wholesalers",
+      "scope": "As used in this chapter:",
+      "section": "3743.01",
+      "source_title": "Section 3743.01 - Fireworks definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3743.01",
+      "term": "List of licensed wholesalers"
+    },
+    {
+      "definition": "(Q) \"Manufacturing of fireworks\" means the making of fireworks from raw materials, none of which in and of themselves constitute a fireworks, or the processing of fireworks.",
+      "id": "3743.01-manufacturing-of-fireworks",
+      "normalized": "manufacturing of fireworks",
+      "scope": "As used in this chapter:",
+      "section": "3743.01",
+      "source_title": "Section 3743.01 - Fireworks definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3743.01",
+      "term": "Manufacturing of fireworks"
+    },
+    {
+      "definition": "(R) \"Navigable waters\" means any body of water susceptible of being used in its ordinary condition as a highway of commerce over which trade and travel is or may be conducted in the customary modes, but does not include a body of water that is not capable of navigation by barges, tugboats, and other large vessels.",
+      "id": "3743.01-navigable-waters",
+      "normalized": "navigable waters",
+      "scope": "As used in this chapter:",
+      "section": "3743.01",
+      "source_title": "Section 3743.01 - Fireworks definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3743.01",
+      "term": "Navigable waters"
+    },
+    {
+      "definition": "(S) \"Novelties and trick noisemakers\" include the following items:\n\n(1) Devices that produce a small report intended to surprise the user, including, but not limited to, booby traps, cigarette loads, party poppers, and snappers;\n\n(2) Snakes or glow worms;\n\n(3) Smoke devices;\n\n(4) Trick matches.",
+      "id": "3743.01-novelties-and-trick-noisemakers",
+      "normalized": "novelties and trick noisemakers",
+      "scope": "As used in this chapter:",
+      "section": "3743.01",
+      "source_title": "Section 3743.01 - Fireworks definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3743.01",
+      "term": "Novelties and trick noisemakers"
+    },
+    {
+      "definition": "(T) \"Party popper\" means a small plastic or paper item that contains not more than sixteen milligrams of friction-sensitive explosive composition, that is ignited by pulling a string protruding from the item, and from which paper streamers are expelled when the item is ignited.",
+      "id": "3743.01-party-popper",
+      "normalized": "party popper",
+      "scope": "As used in this chapter:",
+      "section": "3743.01",
+      "source_title": "Section 3743.01 - Fireworks definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3743.01",
+      "term": "Party popper"
+    },
+    {
+      "definition": "(U) \"Processing of fireworks\" means the making of fireworks from materials all or part of which in and of themselves constitute a fireworks, but does not include the mere packaging or repackaging of fireworks.",
+      "id": "3743.01-processing-of-fireworks",
+      "normalized": "processing of fireworks",
+      "scope": "As used in this chapter:",
+      "section": "3743.01",
+      "source_title": "Section 3743.01 - Fireworks definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3743.01",
+      "term": "Processing of fireworks"
+    },
+    {
+      "definition": "(V) \"Railroad\" means any railway or railroad that carries freight or passengers for hire, but does not include auxiliary tracks, spurs, and sidings installed and primarily used in serving a mine, quarry, or plant.",
+      "id": "3743.01-railroad",
+      "normalized": "railroad",
+      "scope": "As used in this chapter:",
+      "section": "3743.01",
+      "source_title": "Section 3743.01 - Fireworks definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3743.01",
+      "term": "Railroad"
+    },
+    {
+      "definition": "(W) \"Retail sale\" or \"sell at retail\" means a sale of fireworks to a purchaser who intends to use the fireworks, and not resell them.",
+      "id": "3743.01-retail-sale",
+      "normalized": "retail sale",
+      "scope": "As used in this chapter:",
+      "section": "3743.01",
+      "source_title": "Section 3743.01 - Fireworks definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3743.01",
+      "term": "Retail sale"
+    },
+    {
+      "definition": "(W) \"Retail sale\" or \"sell at retail\" means a sale of fireworks to a purchaser who intends to use the fireworks, and not resell them.",
+      "id": "3743.01-sell-at-retail",
+      "normalized": "sell at retail",
+      "scope": "As used in this chapter:",
+      "section": "3743.01",
+      "source_title": "Section 3743.01 - Fireworks definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3743.01",
+      "term": "sell at retail"
+    },
+    {
+      "definition": "(X) \"Smoke device\" means a tube or sphere that contains pyrotechnic composition that, upon ignition, produces white or colored smoke as the primary effect.",
+      "id": "3743.01-smoke-device",
+      "normalized": "smoke device",
+      "scope": "As used in this chapter:",
+      "section": "3743.01",
+      "source_title": "Section 3743.01 - Fireworks definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3743.01",
+      "term": "Smoke device"
+    },
+    {
+      "definition": "(Y) \"Snake or glow worm\" means a device that consists of a pressed pellet of pyrotechnic composition that produces a large, snake-like ash upon burning, which ash expands in length as the pellet burns.",
+      "id": "3743.01-snake-or-glow-worm",
+      "normalized": "snake or glow worm",
+      "scope": "As used in this chapter:",
+      "section": "3743.01",
+      "source_title": "Section 3743.01 - Fireworks definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3743.01",
+      "term": "Snake or glow worm"
+    },
+    {
+      "definition": "(Z) \"Snapper\" means a small, paper-wrapped item that contains a minute quantity of explosive composition coated on small bits of sand, and that, when dropped, implodes.",
+      "id": "3743.01-snapper",
+      "normalized": "snapper",
+      "scope": "As used in this chapter:",
+      "section": "3743.01",
+      "source_title": "Section 3743.01 - Fireworks definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3743.01",
+      "term": "Snapper"
+    },
+    {
+      "definition": "(AA) \"Trick match\" means a kitchen or book match that is coated with a small quantity of explosive composition and that, upon ignition, produces a small report or a shower of sparks.",
+      "id": "3743.01-trick-match",
+      "normalized": "trick match",
+      "scope": "As used in this chapter:",
+      "section": "3743.01",
+      "source_title": "Section 3743.01 - Fireworks definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3743.01",
+      "term": "Trick match"
+    },
+    {
+      "definition": "(BB) \"Wire sparkler\" means a sparkler consisting of a wire or stick coated with a nonexplosive pyrotechnic mixture that produces a shower of sparks upon ignition and that contains no more than one hundred grams of this mixture.",
+      "id": "3743.01-wire-sparkler",
+      "normalized": "wire sparkler",
+      "scope": "As used in this chapter:",
+      "section": "3743.01",
+      "source_title": "Section 3743.01 - Fireworks definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3743.01",
+      "term": "Wire sparkler"
+    },
+    {
+      "definition": "(CC) \"Wholesale sale\" or \"sell at wholesale\" means a sale of fireworks to a purchaser who intends to resell the fireworks so purchased.",
+      "id": "3743.01-wholesale-sale",
+      "normalized": "wholesale sale",
+      "scope": "As used in this chapter:",
+      "section": "3743.01",
+      "source_title": "Section 3743.01 - Fireworks definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3743.01",
+      "term": "Wholesale sale"
+    },
+    {
+      "definition": "(CC) \"Wholesale sale\" or \"sell at wholesale\" means a sale of fireworks to a purchaser who intends to resell the fireworks so purchased.",
+      "id": "3743.01-sell-at-wholesale",
+      "normalized": "sell at wholesale",
+      "scope": "As used in this chapter:",
+      "section": "3743.01",
+      "source_title": "Section 3743.01 - Fireworks definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3743.01",
+      "term": "sell at wholesale"
+    },
+    {
+      "definition": "(DD) \"Licensed premises\" means the real estate upon which a licensed manufacturer or wholesaler of fireworks conducts business.",
+      "id": "3743.01-licensed-premises",
+      "normalized": "licensed premises",
+      "scope": "As used in this chapter:",
+      "section": "3743.01",
+      "source_title": "Section 3743.01 - Fireworks definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3743.01",
+      "term": "Licensed premises"
+    },
+    {
+      "definition": "(EE) \"Licensed building\" means a building on the licensed premises of a licensed manufacturer or wholesaler of fireworks that is approved for occupancy by the building official having jurisdiction.",
+      "id": "3743.01-licensed-building",
+      "normalized": "licensed building",
+      "scope": "As used in this chapter:",
+      "section": "3743.01",
+      "source_title": "Section 3743.01 - Fireworks definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3743.01",
+      "term": "Licensed building"
+    },
+    {
+      "definition": "(FF) \"Fireworks incident\" means any action or omission that occurs at a fireworks exhibition, that results in injury or death, or a substantial risk of injury or death, to any person, and that involves either of the following:\n\n(1) The handling or other use, or the results of the handling or other use, of fireworks or associated equipment or other materials;\n\n(2) The failure of any person to comply with any applicable requirement imposed by this chapter or any applicable rule adopted under this chapter.",
+      "id": "3743.01-fireworks-incident",
+      "normalized": "fireworks incident",
+      "scope": "As used in this chapter:",
+      "section": "3743.01",
+      "source_title": "Section 3743.01 - Fireworks definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3743.01",
+      "term": "Fireworks incident"
+    },
+    {
+      "definition": "(GG) \"Discharge site\" means an area immediately surrounding the mortars used to fire aerial shells.",
+      "id": "3743.01-discharge-site",
+      "normalized": "discharge site",
+      "scope": "As used in this chapter:",
+      "section": "3743.01",
+      "source_title": "Section 3743.01 - Fireworks definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3743.01",
+      "term": "Discharge site"
+    },
+    {
+      "definition": "(HH) \"Fireworks incident site\" means a discharge site or other location at a fireworks exhibition where a fireworks incident occurs, a location where an injury or death associated with a fireworks incident occurs, or a location where evidence of a fireworks incident or an injury or death associated with a fireworks incident is found.",
+      "id": "3743.01-fireworks-incident-site",
+      "normalized": "fireworks incident site",
+      "scope": "As used in this chapter:",
+      "section": "3743.01",
+      "source_title": "Section 3743.01 - Fireworks definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3743.01",
+      "term": "Fireworks incident site"
+    },
+    {
+      "definition": "(II) \"Storage location\" means a single parcel or contiguous parcels of real estate approved by the state fire marshal pursuant to division (I) of section 3743.04 of the Revised Code or division (F) of section 3743.17 of the Revised Code that are separate from a licensed premises containing a retail showroom, and which parcel or parcels a licensed manufacturer or wholesaler of fireworks may use only for the distribution, possession, and storage of fireworks in accordance with this chapter.\n\nLast updated January 24, 2022 at 3:48 PM",
+      "id": "3743.01-storage-location",
+      "normalized": "storage location",
+      "scope": "As used in this chapter:",
+      "section": "3743.01",
+      "source_title": "Section 3743.01 - Fireworks definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3743.01",
+      "term": "Storage location"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "4301.01",
+      "number": "4301.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.01"
+    },
+    {
+      "kind": "section",
+      "label": "3719.01",
+      "number": "3719.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3719.01"
+    },
+    {
+      "kind": "section",
+      "label": "3743.80",
+      "number": "3743.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3743.80"
+    },
+    {
+      "kind": "section",
+      "label": "3.1",
+      "number": "3.1",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3.1"
+    },
+    {
+      "kind": "section",
+      "label": "3.5",
+      "number": "3.5",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3.5"
+    },
+    {
+      "kind": "section",
+      "label": "3743.50",
+      "number": "3743.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3743.50"
+    },
+    {
+      "kind": "section",
+      "label": "3743.55",
+      "number": "3743.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3743.55"
+    },
+    {
+      "kind": "section",
+      "label": "3743.26",
+      "number": "3743.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3743.26"
+    },
+    {
+      "kind": "section",
+      "label": "3743.02",
+      "number": "3743.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3743.02"
+    },
+    {
+      "kind": "section",
+      "label": "3743.08",
+      "number": "3743.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3743.08"
+    },
+    {
+      "kind": "section",
+      "label": "3743.15",
+      "number": "3743.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3743.15"
+    },
+    {
+      "kind": "section",
+      "label": "3743.21",
+      "number": "3743.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3743.21"
+    },
+    {
+      "kind": "section",
+      "label": "3743.51",
+      "number": "3743.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3743.51"
+    },
+    {
+      "kind": "section",
+      "label": "3743.03",
+      "number": "3743.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3743.03"
+    },
+    {
+      "kind": "section",
+      "label": "3743.16",
+      "number": "3743.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3743.16"
+    },
+    {
+      "kind": "section",
+      "label": "3743.04",
+      "number": "3743.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3743.04"
+    },
+    {
+      "kind": "section",
+      "label": "3743.17",
+      "number": "3743.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3743.17"
+    }
+  ],
+  "scraped": "2026-07-02T20:00:53+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3743.01",
+  "title": "Section 3743.01 - Fireworks definitions."
+}

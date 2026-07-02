@@ -1,0 +1,70 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-306.322
+Scraped: 2026-07-02T19:32:38+00:00
+
+# Section 306.322 - Additional provisions for joining additional counties, municipal corporations, or townships to the regional transit authority.
+
+**Effective:** January 1, 2026
+
+**Latest Legislation:** House Bill 96 - 136th General Assembly
+
+(A) As used in this section:
+
+(1) "Political subdivision" means a county, a municipal corporation, or a township.
+
+(2) "Governing body" means a board of county commissioners of a county, a legislative authority of a municipal corporation, or a board of trustees of a township.
+
+(B) For any regional transit authority that levies a property tax and that includes in its membership political subdivisions that are located in a county having a population of at least four hundred thousand according to the most recent federal census, the procedures of this section apply until December 31, 2022, and are in addition to and an alternative to those established in sections 306.32 , 306.321 , and 306.54 of the Revised Code for joining to the regional transit authority additional political subdivisions.
+
+(C) Any political subdivision may adopt a resolution or ordinance proposing to join a regional transit authority described in division (B) of this section. In its resolution or ordinance, the political subdivision may propose joining the regional transit authority for a limited period of three years or without a time limit.
+
+(D) The political subdivision proposing to join the regional transit authority shall submit a copy of its resolution or ordinance to the governing body of each political subdivision comprising the regional transit authority. Within thirty days of receiving the resolution or ordinance for inclusion in the regional transit authority, the governing body of each political subdivision shall consider the question of whether to include the additional political subdivision in the regional transit authority, shall adopt a resolution or ordinance approving or rejecting the inclusion of the additional political subdivision, and shall present its resolution or ordinance to the board of trustees of the regional transit authority.
+
+If the board of trustees of the regional transit authority proposes to extend the levy of an existing property tax to the territory to be added to the regional transit authority, the board and the county auditor shall proceed in the same manner as required for a tax levy under section 5705.03 of the Revised Code, except that the levy's annual collections shall be estimated assuming that the additional territory has been added to the regional transit authority.
+
+(E) If a majority of the political subdivisions comprising the regional transit authority approve the inclusion of the additional political subdivision under division (D) of this section, the board of trustees of the regional transit authority may proceed as provided in division (K) of this section or as provided in divisions (F) to (J) of this section, as applicable.
+
+(F) Not later than the tenth day following the day on which the last ordinance or resolution is presented under division (D) of this section, the board of trustees of the regional transit authority shall notify the political subdivision proposing to join the regional transit authority that it may certify the proposal to the board of elections for the purpose of having the proposal placed on the ballot at the next general election or at a special election conducted on the day of the next primary election that occurs not less than ninety days after the resolution or ordinance is certified to the board of elections.
+
+(G) Upon certification of a proposal to the board of elections pursuant to division (F) of this section, the board of elections shall make the necessary arrangements for the submission of the question to the electors of the territory to be included in the regional transit authority qualified to vote on the question, and the election shall be held, canvassed, and certified in the same manner as regular elections for the election of officers of the political subdivision proposing to join the regional transit authority, except that, if the resolution proposed the inclusion without a time limitation the question appearing on the ballot shall read:
+
+"Shall the territory within the _________________________ (Name or names of political subdivisions to be joined) be added to _________________________ _________ (Name) regional transit authority and shall a(n) __________ (here insert type of tax or taxes) at a rate of taxation not to exceed _____ (here insert maximum tax rate or rates) be levied for all transit purposes?"
+
+If the resolution proposed the inclusion with a three-year time limitation, the question appearing on the ballot shall read:
+
+"Shall the territory within the _________________________ (Name or names of political subdivisions to be joined) be added to _________________________ _________ (Name) regional transit authority for three years and shall a(n) __________ (here insert type of tax or taxes) at a rate of taxation not to exceed _____ (here insert maximum tax rate or rates) be levied for all transit purposes for three years?"
+
+In either case, if the tax is a tax on property, the ballot shall express the levy's estimated annual collections, and the rate shall be expressed numerically in mills for each one dollar of taxable value and the effective rate shall be expressed numerically in dollars for each one hundred thousand dollars of the county auditor's market value.
+
+(H) If the question is approved by at least a majority of the electors voting on the question, the addition of the new territory is effective six months from the date of the certification of its passage, and the regional transit authority may extend the levy of the tax against all the taxable property within the territory that was added. If the question is approved at a general election or at a special election occurring prior to the general election but after the fifteenth day of July, the regional transit authority may amend its budget and resolution adopted pursuant to section 5705.34 of the Revised Code, and the levy shall be placed on the current tax list and duplicate and collected as other taxes are collected from all taxable property within the territorial boundaries of the regional transit authority, including the territory within the political subdivision added as a result of the election. If the budget of the regional transit authority is amended pursuant to this paragraph, the county auditor shall prepare and deliver an amended certificate of estimated resources to reflect the change in anticipated revenues of the regional transit authority.
+
+(I) If the question is approved by at least a majority of the electors voting on the question, the board of trustees of the regional transit authority immediately shall amend the resolution or ordinance creating the regional transit authority to include the additional political subdivision.
+
+(J) If the question approved by a majority of the electors voting on the question added the political subdivision for three years, the territory of the additional political subdivision in the regional transit authority shall be removed from the territory of the regional transit authority three years after the date the territory was added, as determined in the effective date of the election, and shall no longer be a part of that authority without any further action by either the political subdivisions that were included in the authority prior to submitting the question to the electors or of the political subdivision added to the authority as a result of the election. The regional transit authority reduced to its territory as it existed prior to the inclusion of the additional political subdivision shall be entitled to levy and collect any property taxes that it was authorized to levy and collect prior to the enlargement of its territory and for which authorization has not expired, as if the enlargement had not occurred.
+
+(K)(1) If a majority of the political subdivisions comprising the regional transit authority approve the inclusion of the additional political subdivision without a time limit under division (D) of this section, the board of trustees of the regional transit authority may adopt a resolution to submit to the electors of the regional transit authority, as it would be enlarged by the inclusion, the question of including the political subdivision in the regional transit authority, of levying a tax under sections 5739.023 and 5741.022 of the Revised Code throughout the territorial boundaries of the regional transit authority as so enlarged, and of repealing the property tax levied by the regional transit authority under section 306.49 of the Revised Code.
+
+The resolution shall state all of the following:
+
+(a) The date on which the political subdivision is to be included in the regional transit authority;
+
+(b) The rate of the tax to be levied under sections 5739.023 and 5741.022 of the Revised Code, the number of years it is to be levied or that it is to be levied for a continuing period of time, and the date on which it shall first be levied, all as provided under section 5739.023 of the Revised Code;
+
+(c) The last tax year that the property tax is to be levied under section 306.49 of the Revised Code.
+
+(2) Except as otherwise provided in division (K)(5) of this section, the political subdivision shall not be joined to the regional transit authority before the first day sales and use tax is levied by the regional transit authority under sections 5739.023 and 5741.022 of the Revised Code. Sales and use tax shall not be levied under those sections on or before the last day of the last tax year the regional transit authority levies property tax under section 306.49 of the Revised Code.
+
+(3) The board of trustees of the regional transit authority shall certify the resolution to the board of elections for the purpose of having the proposal placed on the ballot at the next general election or at a special election conducted on the day of the next primary election that occurs not less than ninety days after the resolution is certified to the board of elections. The election shall be held, canvassed, and certified, as provided in section 306.70 of the Revised Code, except that the question appearing on the ballot shall read:
+
+"Shall the territory within the _________________ (Name or names of political subdivisions to be joined) be added to _______________ (Name) regional transit authority, shall sales and use tax at a rate not exceeding ________ (Insert tax rate) be levied for all transit purposes throughout the territory of the regional transit authority, and shall the existing property tax levied for transit purposes be repealed?"
+
+(4) If the question is approved, the sales and use tax may be levied and collected as is otherwise provided under sections 5739.023 and 5741.022 of the Revised Code on and after the date stated in the resolution.
+
+(5) The board of trustees shall appropriate from the first moneys received from the sales and use tax in each year the full amount required in order to pay the principal of and interest on any notes of the regional transit authority issued pursuant to section 306.49 of the Revised Code in anticipation of the collection of the property tax. The board of trustees shall not thereafter levy and collect the property tax unless and to the extent that the levy and collection is necessary to pay the principal of and interest on notes issued in anticipation of the property tax in order to avoid impairing the obligation of the contract between the regional transit authority and the note holders. Such property tax shall be levied only in the territory of the authority as it existed before the political subdivision was joined to the authority.
+
+(6) If the question is approved after the fifteenth day of July in any calendar year, the regional transit authority may amend its budget for the current and next fiscal year, and any resolution adopted pursuant to section 5705.34 of the Revised Code, to reflect the imposition of the sales and use tax, and shall amend its budget for the next fiscal year, and any resolution adopted pursuant to section 5705.34 of the Revised Code, to comply with division (K)(5) of this section. If the budget of the regional transit authority is amended pursuant to this division, the county auditor shall prepare and deliver an amended certificate of estimated resources to reflect the change in anticipated revenues of the regional transit authority.
+
+(7) If the question is approved, the board of trustees of the regional transit authority immediately shall amend the resolution or ordinance creating the regional transit authority to include the additional political subdivision.
+
+(L) As used in this section, "the county auditor's market value" and "effective rate" have the same meanings as in section 5705.01 of the Revised Code.
+
+Last updated October 6, 2025 at 8:31 AM

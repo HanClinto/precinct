@@ -1,0 +1,14 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5709.06
+Scraped: 2026-07-02T20:14:27+00:00
+
+# Section 5709.06 - Valuation, special assessment, and issuance of notes relative to public land under lease renewable forever.
+
+**Effective:** July 1, 1985
+
+**Latest Legislation:** House Bill 201 - 116th General Assembly
+
+Whenever lands belonging to the state, a municipal corporation, religious, scientific, or benevolent society or institution, whether incorporated or unincorporated, or trustees for free education only, or held by the state in trust, are held under a lease for a term of years renewable forever and not subject to revaluation, such lands shall be considered for taxation purposes as the property of the lessees and shall be assessed in their names. Whenever lands appropriated by congress for the support of schools or for ministerial purposes are held under a perpetual lease subject to revaluation, the interest of such lessees in such lands shall be subject to taxation. In determining the value for taxation purposes of such leasehold interest, the true value in money of the land shall be ascertained, the annual rent reserved in the lease shall be capitalized on a six per cent basis, and the resulting sum shall be deducted from the true value of the land in money. The percentage of the result so obtained established by the tax commissioner as taxable value plus the taxable value of all the improvements upon such land shall be the taxable value of such leasehold interest.
+
+Whenever such lands appropriated by congress for the support of schools or for ministerial purposes are held under a lease for a term of years renewable forever, whether subject to revaluation or not, such lands shall, for all purposes of a special assessment for improvements benefiting such land, be considered as the property of the lessee. Whenever such lands are held under a lease for a term not renewable forever, such lands shall be subject to special assessments for improvements benefiting such lands, which shall be paid out of the annual rents accruing to the trust.
+
+Whenever it appears that the net annual rents or earnings accruing from such lands will be insufficient to pay the sum of such assessment as the assessment becomes payable, the trustees in local charge of such lands shall issue and sell notes for the sum so required, payable in such number of years as will be required for the net rents to meet the whole sum of such assessment, and bearing interest at not more than the rate provided in section 9.95 of the Revised Code as the tax commissioner determines. Such notes shall not be sold for less than par. Such notes and interest thereon shall be a lien upon the rents, earnings, or proceeds of any sale of such lands so assessed, and the sum of the notes and interest shall be paid out of the rents, earnings, or proceeds of such sale by the tax commissioner.

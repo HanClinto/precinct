@@ -1,0 +1,124 @@
+{
+  "glossary": [
+    {
+      "definition": "(2) \"Alien\" means a person who is not a United States citizen or a United States national.",
+      "id": "3333.31-alien",
+      "normalized": "alien",
+      "scope": "(H) As used in this section:",
+      "section": "3333.31",
+      "source_title": "Section 3333.31 - Rules for determining student residency.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3333.31",
+      "term": "Alien"
+    },
+    {
+      "definition": "(3) \"Immigrant\" means an alien who has been granted the right by the United States bureau of citizenship and immigration services to reside permanently in the United States and to work without restrictions in the United States.",
+      "id": "3333.31-immigrant",
+      "normalized": "immigrant",
+      "scope": "(H) As used in this section:",
+      "section": "3333.31",
+      "source_title": "Section 3333.31 - Rules for determining student residency.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3333.31",
+      "term": "Immigrant"
+    },
+    {
+      "definition": "(4) \"Nonimmigrant\" means an alien who has been granted the right by the United States bureau of citizenship and immigration services to reside temporarily in the United States.",
+      "id": "3333.31-nonimmigrant",
+      "normalized": "nonimmigrant",
+      "scope": "(H) As used in this section:",
+      "section": "3333.31",
+      "source_title": "Section 3333.31 - Rules for determining student residency.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3333.31",
+      "term": "Nonimmigrant"
+    },
+    {
+      "definition": "(5) \"Veteran\" means any person who has completed service in the uniformed services, as defined in section 3511.01 of the Revised Code.",
+      "id": "3333.31-veteran",
+      "normalized": "veteran",
+      "scope": "(H) As used in this section:",
+      "section": "3333.31",
+      "source_title": "Section 3333.31 - Rules for determining student residency.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3333.31",
+      "term": "Veteran"
+    },
+    {
+      "definition": "(6) \"Service member\" has the same meaning as in section 5903.01 of the Revised Code.",
+      "id": "3333.31-service-member",
+      "normalized": "service member",
+      "scope": "(H) As used in this section:",
+      "section": "3333.31",
+      "source_title": "Section 3333.31 - Rules for determining student residency.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3333.31",
+      "term": "Service member"
+    },
+    {
+      "definition": "(7) \"Certificate of high school equivalence\" means either of the following:\n\n(a) A certificate of high school equivalence awarded by the department of education and workforce under division (A) of section 3301.80 of the Revised Code;\n\n(b) The equivalent of a certificate of high school equivalence awarded by the state board of education under former law, as defined in division (C)(1) of section 3301.80 of the Revised Code.\n\nLast updated August 24, 2023 at 1:45 PM",
+      "id": "3333.31-certificate-of-high-school-equivalence",
+      "normalized": "certificate of high school equivalence",
+      "scope": "(H) As used in this section:",
+      "section": "3333.31",
+      "source_title": "Section 3333.31 - Rules for determining student residency.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3333.31",
+      "term": "Certificate of high school equivalence"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3345.011",
+      "number": "3345.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3345.011"
+    },
+    {
+      "kind": "section",
+      "label": "3321.042",
+      "number": "3321.042",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3321.042"
+    },
+    {
+      "kind": "section",
+      "label": "3313.61",
+      "number": "3313.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.61"
+    },
+    {
+      "kind": "section",
+      "label": "3313.611",
+      "number": "3313.611",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.611"
+    },
+    {
+      "kind": "section",
+      "label": "3313.612",
+      "number": "3313.612",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.612"
+    },
+    {
+      "kind": "section",
+      "label": "3325.08",
+      "number": "3325.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3325.08"
+    },
+    {
+      "kind": "section",
+      "label": "3511.01",
+      "number": "3511.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3511.01"
+    },
+    {
+      "kind": "section",
+      "label": "5903.01",
+      "number": "5903.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5903.01"
+    },
+    {
+      "kind": "section",
+      "label": "3301.80",
+      "number": "3301.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3301.80"
+    }
+  ],
+  "scraped": "2026-07-02T19:49:28+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3333.31",
+  "title": "Section 3333.31 - Rules for determining student residency."
+}

@@ -1,0 +1,228 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Live birth\" means the complete expulsion or extraction from its mother of a product of human conception that after such expulsion or extraction breathes or shows any other evidence of life such as beating of the heart, pulsation of the umbilical cord, or definite movement of voluntary muscles, whether or not the umbilical cord has been cut or the placenta is attached.",
+      "id": "3705.01-live-birth",
+      "normalized": "live birth",
+      "scope": "As used in this chapter:",
+      "section": "3705.01",
+      "source_title": "Section 3705.01 - Vital statistics definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3705.01",
+      "term": "Live birth"
+    },
+    {
+      "definition": "(B)(1) \"Fetal death\" means death prior to the complete expulsion or extraction from its mother of a product of human conception, irrespective of the duration of pregnancy, which after such expulsion or extraction does not breathe or show any other evidence of life such as beating of the heart, pulsation of the umbilical cord, or definite movement of voluntary muscles.",
+      "id": "3705.01-fetal-death",
+      "normalized": "fetal death",
+      "scope": "As used in this chapter:",
+      "section": "3705.01",
+      "source_title": "Section 3705.01 - Vital statistics definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3705.01",
+      "term": "Fetal death"
+    },
+    {
+      "definition": "(2) \"Stillborn\" means that an infant of at least twenty weeks of gestation suffered a fetal death.",
+      "id": "3705.01-stillborn",
+      "normalized": "stillborn",
+      "scope": "As used in this chapter:",
+      "section": "3705.01",
+      "source_title": "Section 3705.01 - Vital statistics definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3705.01",
+      "term": "Stillborn"
+    },
+    {
+      "definition": "(C) \"Dead body\" means a human body or part of a human body from the condition of which it reasonably may be concluded that death recently occurred.",
+      "id": "3705.01-dead-body",
+      "normalized": "dead body",
+      "scope": "As used in this chapter:",
+      "section": "3705.01",
+      "source_title": "Section 3705.01 - Vital statistics definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3705.01",
+      "term": "Dead body"
+    },
+    {
+      "definition": "(D) \"Physician\" means a person licensed pursuant to Chapter 4731. of the Revised Code to practice medicine or surgery or osteopathic medicine and surgery.",
+      "id": "3705.01-physician",
+      "normalized": "physician",
+      "scope": "As used in this chapter:",
+      "section": "3705.01",
+      "source_title": "Section 3705.01 - Vital statistics definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3705.01",
+      "term": "Physician"
+    },
+    {
+      "definition": "(E) \"Attending physician\" means the physician in charge of the patient's care for the illness or condition that resulted in death.",
+      "id": "3705.01-attending-physician",
+      "normalized": "attending physician",
+      "scope": "As used in this chapter:",
+      "section": "3705.01",
+      "source_title": "Section 3705.01 - Vital statistics definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3705.01",
+      "term": "Attending physician"
+    },
+    {
+      "definition": "(F) \"Institution\" means any establishment, public or private, that provides medical, surgical, or diagnostic care or treatment, or domiciliary care, to two or more unrelated individuals, or to persons committed by law.\n\n(G) \"Funeral director\" has the meaning given in section 4717.01 of the Revised Code.",
+      "id": "3705.01-institution",
+      "normalized": "institution",
+      "scope": "As used in this chapter:",
+      "section": "3705.01",
+      "source_title": "Section 3705.01 - Vital statistics definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3705.01",
+      "term": "Institution"
+    },
+    {
+      "definition": "(H) \"State registrar\" means the head of the office of vital statistics in the department of health.",
+      "id": "3705.01-state-registrar",
+      "normalized": "state registrar",
+      "scope": "As used in this chapter:",
+      "section": "3705.01",
+      "source_title": "Section 3705.01 - Vital statistics definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3705.01",
+      "term": "State registrar"
+    },
+    {
+      "definition": "(I) \"Medical certification\" means completion of the medical certification portion of the certificate of death or fetal death as to the cause of death or fetal death.",
+      "id": "3705.01-medical-certification",
+      "normalized": "medical certification",
+      "scope": "As used in this chapter:",
+      "section": "3705.01",
+      "source_title": "Section 3705.01 - Vital statistics definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3705.01",
+      "term": "Medical certification"
+    },
+    {
+      "definition": "(J) \"Final disposition\" means the interment, cremation, removal from the state, donation, or other authorized disposition of a dead body or a fetal death.",
+      "id": "3705.01-final-disposition",
+      "normalized": "final disposition",
+      "scope": "As used in this chapter:",
+      "section": "3705.01",
+      "source_title": "Section 3705.01 - Vital statistics definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3705.01",
+      "term": "Final disposition"
+    },
+    {
+      "definition": "(K) \"Interment\" means the final disposition of the remains of a dead body by burial or entombment.",
+      "id": "3705.01-interment",
+      "normalized": "interment",
+      "scope": "As used in this chapter:",
+      "section": "3705.01",
+      "source_title": "Section 3705.01 - Vital statistics definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3705.01",
+      "term": "Interment"
+    },
+    {
+      "definition": "(L) \"Cremation\" means the reduction to ashes of a dead body.",
+      "id": "3705.01-cremation",
+      "normalized": "cremation",
+      "scope": "As used in this chapter:",
+      "section": "3705.01",
+      "source_title": "Section 3705.01 - Vital statistics definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3705.01",
+      "term": "Cremation"
+    },
+    {
+      "definition": "(M) \"Donation\" means gift of a dead body to a research institution or medical school.",
+      "id": "3705.01-donation",
+      "normalized": "donation",
+      "scope": "As used in this chapter:",
+      "section": "3705.01",
+      "source_title": "Section 3705.01 - Vital statistics definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3705.01",
+      "term": "Donation"
+    },
+    {
+      "definition": "(N) \"System of vital statistics\" means the registration, collection, preservation, amendment, and certification of vital records, the collection of other reports required by this chapter, and activities related thereto.",
+      "id": "3705.01-system-of-vital-statistics",
+      "normalized": "system of vital statistics",
+      "scope": "As used in this chapter:",
+      "section": "3705.01",
+      "source_title": "Section 3705.01 - Vital statistics definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3705.01",
+      "term": "System of vital statistics"
+    },
+    {
+      "definition": "(O) \"Vital records\" means certificates or reports of birth, death, fetal death, marriage, divorce, dissolution of marriage, annulment, and data related thereto and other documents maintained as required by statute.",
+      "id": "3705.01-vital-records",
+      "normalized": "vital records",
+      "scope": "As used in this chapter:",
+      "section": "3705.01",
+      "source_title": "Section 3705.01 - Vital statistics definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3705.01",
+      "term": "Vital records"
+    },
+    {
+      "definition": "(P) \"File\" means the presentation of vital records for registration by the office of vital statistics.",
+      "id": "3705.01-file",
+      "normalized": "file",
+      "scope": "As used in this chapter:",
+      "section": "3705.01",
+      "source_title": "Section 3705.01 - Vital statistics definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3705.01",
+      "term": "File"
+    },
+    {
+      "definition": "(Q) \"Registration\" means the acceptance by the office of vital statistics and the incorporation of vital records into its official records.",
+      "id": "3705.01-registration",
+      "normalized": "registration",
+      "scope": "As used in this chapter:",
+      "section": "3705.01",
+      "source_title": "Section 3705.01 - Vital statistics definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3705.01",
+      "term": "Registration"
+    },
+    {
+      "definition": "(R) \"Birth record\" means a birth certificate that has been registered with the office of vital statistics; or, if registered prior to March 16, 1989, with the division of vital statistics; or, if registered prior to the establishment of the division of vital statistics, with the department of health or a local registrar.",
+      "id": "3705.01-birth-record",
+      "normalized": "birth record",
+      "scope": "As used in this chapter:",
+      "section": "3705.01",
+      "source_title": "Section 3705.01 - Vital statistics definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3705.01",
+      "term": "Birth record"
+    },
+    {
+      "definition": "(S) \"Certification of birth\" means a document issued by the director of health or state registrar or a local registrar under division (B) of section 3705.23 of the Revised Code.",
+      "id": "3705.01-certification-of-birth",
+      "normalized": "certification of birth",
+      "scope": "As used in this chapter:",
+      "section": "3705.01",
+      "source_title": "Section 3705.01 - Vital statistics definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3705.01",
+      "term": "Certification of birth"
+    },
+    {
+      "definition": "(T) \"Certified nurse-midwife\" has the same meaning as in section 4723.01 of the Revised Code.",
+      "id": "3705.01-certified-nurse-midwife",
+      "normalized": "certified nurse-midwife",
+      "scope": "As used in this chapter:",
+      "section": "3705.01",
+      "source_title": "Section 3705.01 - Vital statistics definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3705.01",
+      "term": "Certified nurse-midwife"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "4717.01",
+      "number": "4717.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4717.01"
+    },
+    {
+      "kind": "section",
+      "label": "3705.23",
+      "number": "3705.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3705.23"
+    },
+    {
+      "kind": "section",
+      "label": "4723.01",
+      "number": "4723.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.01"
+    }
+  ],
+  "scraped": "2026-07-02T19:51:02+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3705.01",
+  "title": "Section 3705.01 - Vital statistics definitions."
+}

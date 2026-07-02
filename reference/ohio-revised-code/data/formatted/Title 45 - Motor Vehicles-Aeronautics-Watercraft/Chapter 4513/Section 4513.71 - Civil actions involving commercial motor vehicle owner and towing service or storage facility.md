@@ -1,0 +1,46 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4513.71
+Scraped: 2026-07-02T20:05:41+00:00
+
+# Section 4513.71 - Civil actions involving commercial motor vehicle owner and towing service or storage facility.
+
+**Effective:** April 9, 2025
+
+**Latest Legislation:** House Bill 403 - 135th General Assembly
+
+(A) As used in this section:
+
+(1) "Towing service" and "storage facility" have the same meanings as in section 4513.70 of the Revised Code.
+
+(2) "Motor vehicle owner" means any person that holds a certificate of title to or is a lessee of a towed commercial motor vehicle. "Motor vehicle owner" does not include a lienholder or leasing company.
+
+(B)(1) A motor vehicle owner may commence a civil action against a towing service or storage facility for either of the following reasons after the motor vehicle was removed, towed, or stored pursuant to division (A)(2) of section 4513.66 of the Revised Code:
+
+(a) The recovery of the motor vehicle, cargo, or personal property that was removed, towed, or stored;
+
+(b) Objecting to the amount billed by the towing service or storage facility for the removal, towing, or storage.
+
+(2) The motor vehicle owner may commence the civil action on behalf of that owner or on behalf of a third party for whom the owner commercially transports the cargo that is the subject of the civil action.
+
+(C) A towing service or storage facility may commence a civil action against a motor vehicle owner for payment of the amount billed by the towing service or storage facility in accordance with this section if all of the following apply:
+
+(1) The motor vehicle, cargo, or personal property was removed, towed, or stored pursuant to division (A)(2) of section 4513.66 of the Revised Code;
+
+(2) The motor vehicle owner has not paid the amount billed or commenced a civil action in accordance with division (B) of this section within forty-five days after the motor vehicle owner received the bill sent by the towing service or storage facility;
+
+(3) The towing service or storage facility is not seeking title to the motor vehicle, if applicable, in accordance with section 4505.104 of the Revised Code, until judgment is entered in any civil action filed under this section.
+
+(D)(1) The motor vehicle owner, towing service, or storage facility may file the action in the municipal or county court with territorial jurisdiction over the location from which the motor vehicle, cargo, or personal property was removed, towed, or stored.
+
+(2) The motor vehicle owner, towing service, or storage facility, as applicable, shall send a copy of the filing to any lienholder, if known, of the subject motor vehicle, cargo, or personal property.
+
+(E) If the motor vehicle owner objects to the amount billed by the towing service or storage facility, the motor vehicle owner shall include in the owner's complaint, answer, or objection to the action, as applicable, the amount of the bill that is undisputed and the reasons the owner objects to the remainder of the bill. The motor vehicle owner shall file a copy of the bill and any evidence supporting the assertion that the billed amount is unreasonable. The motor vehicle owner shall pay the undisputed amount to the towing service or service facility and post a bond equal to the disputed amount of the bill.
+
+(F) Not later than two business days after receipt of payment of the undisputed amount of the bill and service of the motor vehicle owner's complaint or answer to the civil action, as applicable, the towing service or storage facility shall release the motor vehicle, cargo, or personal property that is the subject of the complaint to the motor vehicle owner.
+
+(G) When an action filed under this section involves a dispute over the amount of the bill, the court shall make a determination as to whether the amount charged by the towing service or facility is unreasonable. If the court determines that the amount is reasonable, the court shall order the motor vehicle owner to pay the amount billed minus the undisputed amount that the owner previously paid to the towing service or storage facility. If the court determines that the amount charged was unreasonable, the court shall determine a reasonable amount and order the motor vehicle owner to pay that amount minus the undisputed amount that the owner previously paid to the towing service or storage facility. The court may also require either party to pay or refund any additional amount and may impose any monetary penalties that the court determines to be appropriate.
+
+(H) Any money owed by the motor vehicle owner shall be paid from the bond posted by the owner. If any amount of the bond remains after payment, the remainder shall be returned to the motor vehicle owner.
+
+(I) Nothing in this section creates, implies, or otherwise grants insurance coverage for the amount billed by the towing service or storage facility that is not within the owner's motor-vehicle liability policy, proof of financial responsibility, or other policy of insurance.
+
+Last updated April 4, 2025 at 11:50 AM

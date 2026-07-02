@@ -1,0 +1,26 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4112.06
+Scraped: 2026-07-02T20:04:03+00:00
+
+# Section 4112.06 - Judicial review of final commission order.
+
+**Effective:** June 30, 1992
+
+**Latest Legislation:** House Bill 321 - 119th General Assembly
+
+(A) Any complainant, or respondent claiming to be aggrieved by a final order of the commission, including a refusal to issue a complaint, may obtain judicial review thereof, and the commission may obtain an order of court for the enforcement of its final orders, in a proceeding as provided in this section. Such proceeding shall be brought in the common pleas court of the state within any county wherein the unlawful discriminatory practice which is the subject of the commission's order was committed or wherein any respondent required in the order to cease and desist from an unlawful discriminatory practice or to take affirmative action resides or transacts business.
+
+(B) Such proceedings shall be initiated by the filing of a petition in court as provided in division (A) of this section and the service of a copy of the said petition upon the commission and upon all parties who appeared before the commission. Thereupon the commission shall file with the court a transcript of the record upon the hearing before it. The transcript shall include all proceedings in the case, including all evidence and proffers of evidence. The court shall thereupon have jurisdiction of the proceeding and of the questions determined therein, and shall have power to grant such temporary relief, restraining order, or other order as it deems just and proper and to make and enter, upon the record and such additional evidence as the court has admitted, an order enforcing, modifying and enforcing as so modified, or setting aside in whole or in part, the order of the commission or remanding for further proceedings.
+
+(C) An objection that has not been urged before the commission shall not be considered by the court, unless the failure or neglect to urge such objection is excused because of extraordinary circumstances.
+
+(D) The court may grant a request for the admission of additional evidence when satisfied that such additional evidence is newly discovered and could not with reasonable diligence have been ascertained prior to the hearing before the commission.
+
+(E) The findings of the commission as to the facts shall be conclusive if supported by reliable, probative, and substantial evidence on the record and such additional evidence as the court has admitted considered as a whole.
+
+(F) The jurisdiction of the court shall be exclusive and its judgment and order shall be final subject to appellate review. Violation of the court's order shall be punishable as contempt.
+
+(G) The commission's copy of the testimony shall be available at all reasonable times to all parties without cost for examination and for the purposes of judicial review of the order of the commission. The petition shall be heard on the transcript of the record without requirement of printing.
+
+(H) If no proceeding to obtain judicial review is instituted by a complainant, or respondent within thirty days from the service of order of the commission pursuant to this section, the commission may obtain a decree of the court for the enforcement of such order upon showing that respondent is subject to the commission's jurisdiction and resides or transacts business within the county in which the petition for enforcement is brought.
+
+(I) All suits brought under this section shall be heard and determined as expeditiously as possible.

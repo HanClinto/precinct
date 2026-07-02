@@ -1,0 +1,189 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-145
+Scraped: 2026-07-02T19:31:54+00:00
+
+# Chapter 145 - Public Employees Retirement System
+
+## Sections
+
+- Section 145.01 - Public employees retirement system definitions.
+- Section 145.011 - Certain university and college employees included.
+- Section 145.012 - Public employee defined.
+- Section 145.013 - Fireman electing to remain in system.
+- Section 145.014 - Regional council of governments employees.
+- Section 145.015 - County historical society employee electing to remain in system.
+- Section 145.016 - Credit for contributing service.
+- Section 145.017 - Calculation of final average salary.
+- Section 145.018 - Conditions for full year of credit.
+- Section 145.03 - Public employees retirement system - exemption from compulsory membership.
+- Section 145.031 - Exemption requests by Hamilton county municipal court employees.
+- Section 145.032 - Exemption requests by Hamilton county air pollution control employees.
+- Section 145.033 - Exemption requests by Cincinnati correctional institute employees.
+- Section 145.034 - Exemption requests by members becoming subject to social security tax.
+- Section 145.035 - Exemption requests by department of development employees located in foreign countries.
+- Section 145.036 - Transmission of list of independent contractors; determination of status by board.
+- Section 145.037 - Request to be classified as public employee.
+- Section 145.038 - Acknowledgement of independent contractor status.
+- Section 145.04 - Public employees retirement board.
+- Section 145.041 - Orientation program required for members - continuing education.
+- Section 145.042 - Members with excessive travel expenses ineligible for another term.
+- Section 145.05 - Term of office - election of employee members - eligibility - nomination by petition.
+- Section 145.051 - Special election where person elected unable to serve.
+- Section 145.052 - Board member election unnecessary if only one candidate nominated.
+- Section 145.053 - Candidate campaign finance statements - donor statement of independent expenditures.
+- Section 145.054 - Filing of statements - prohibited campaign activities.
+- Section 145.055 - Complaint alleging violation of RC 145.054 - procedure - fine.
+- Section 145.057 - Disqualification of convicted member - misconduct in office - removal procedure.
+- Section 145.058 - Adoption of election rules - certification of nominating petitions and election results.
+- Section 145.06 - Vacancies.
+- Section 145.07 - Oath of office - quorum - meetings.
+- Section 145.071 - Video conference meetings.
+- Section 145.08 - Reimbursing expenses of board members - liability insurance.
+- Section 145.09 - Election of chairperson and appointment of executive director - powers and duties of board.
+- Section 145.091 - Administering defined benefit and defined contribution plans.
+- Section 145.092 - Travel expense policies - bonus policy - budget.
+- Section 145.093 - Ethics policy - commission approval - ethics training.
+- Section 145.094 - Chief investment officer - supervision duties - monitoring of securities transactions.
+- Section 145.095 - Selection of internal auditor.
+- Section 145.10 - Legal adviser.
+- Section 145.101 - Venue for court actions.
+- Section 145.11 - Investment powers and fiduciary duties of board.
+- Section 145.111 - No board member or employee shall have an interest in board funds.
+- Section 145.112 - Prohibited business transactions.
+- Section 145.113 - Restrictions on fiduciaries.
+- Section 145.114 - Designation of Ohio-qualified agents - selection policy - utilization - annual report.
+- Section 145.115 - Annual disclosures to Ohio Ethics Commission.
+- Section 145.116 - Designation of Ohio-qualified investment managers - utilization - annual report.
+- Section 145.12 - Certifying rate necessary to pay employer contributions.
+- Section 145.13 - Denomination of bonds.
+- Section 145.14 - Percentage of funds available for annuities and other payments - deposit.
+- Section 145.15 - Employee information provided by each department.
+- Section 145.16 - Statement to be filed by employee member.
+- Section 145.17 - Department monthly statement.
+- Section 145.171 - Information to new employees.
+- Section 145.18 - Records kept by department heads.
+- Section 145.19 - Electing defined benefit or defined contribution plan.
+- Section 145.191 - Employee with less than 5 years of service electing to participate in defined contribution plan.
+- Section 145.192 - Effect of electing defined contribution plan.
+- Section 145.193 - Election after reemployment.
+- Section 145.194 - Contributions by law enforcement or public safety officers to defined contribution plan.
+- Section 145.195 - Participants in both defined benefit and defined contribution plans.
+- Section 145.196 - Consolidation of combined plan with defined benefit plan.
+- Section 145.20 - Elective officials may become members of system - credit for prior service.
+- Section 145.201 - Additional service credit purchased by elected or appointed officials.
+- Section 145.21 - Individual accounts for each member - mortality tables.
+- Section 145.22 - Actuarial valuation of pension assets, liabilities, and funding requirements.
+- Section 145.221 - Amortizing unfunded actuarial accrued pension liability.
+- Section 145.222 - Study to determine percentage of employee's compensation to be contributed by public institution of higher education.
+- Section 145.23 - Creation of funds.
+- Section 145.24 - Inequality of contributions by employer.
+- Section 145.25 - Each fund is separate legal entity.
+- Section 145.26 - Treasurer of state custodian of funds.
+- Section 145.27 - Annual statement of funds.
+- Section 145.28 - Purchase of service credit for period of self-exemption.
+- Section 145.29 - Procedure for purchasing credit.
+- Section 145.291 - Purchasing service credit for time spent on pregnancy or adoption.
+- Section 145.292 - Credit for prior service.
+- Section 145.293 - Credit for prior service - comparable public position.
+- Section 145.294 - Payroll deduction plans.
+- Section 145.295 - Credit for service in uniform retirement system.
+- Section 145.296 - Contributions during disability leave.
+- Section 145.297 - Retirement incentive plan.
+- Section 145.298 - Retirement incentive plan - closing of or layoff at state institution.
+- Section 145.299 - Purchasing credit for service as school board member.
+- Section 145.2910 - Transferring service credit and contributions between PERS and Cincinnati retirement system.
+- Section 145.2911 - Eligibility for credit for service in Cincinnati retirement system.
+- Section 145.2912 - Transferring contributions to Cincinnati retirement system.
+- Section 145.2913 - Transferred service credit from uniform retirement system.
+- Section 145.2914 - Non-law enforcement service as law enforcement service.
+- Section 145.2915 - Credit for work missed while receiving workers' compensation.
+- Section 145.2916 - Credit for salary increases for elected officials.
+- Section 145.30 - Credit for military service.
+- Section 145.301 - Purchasing military service credit.
+- Section 145.302 - Purchasing uniformed services credit.
+- Section 145.31 - Restoring service credit.
+- Section 145.311 - Payroll deduction plans - restoring SERS or STERS credit.
+- Section 145.312 - Proceedings on request for restoration of service credit.
+- Section 145.32 - Age and service retirement.
+- Section 145.323 - Cost of living increase.
+- Section 145.33 - Allowance upon age and service retirement.
+- Section 145.331 - Disability allowance recipient applying for service retirement.
+- Section 145.332 - Determination of eligibility for age and service retirement.
+- Section 145.333 - Contribution based benefit cap.
+- Section 145.334 - Election as PERS law enforcement officer or public safety officer.
+- Section 145.335 - Age and service retirement for former combined plan members.
+- Section 145.35 - Providing disability coverage for on-duty illness or injury.
+- Section 145.351 - Annual report disability retirement experience of each employer.
+- Section 145.36 - Benefits upon disability retirement.
+- Section 145.361 - Annual amount of disability allowance.
+- Section 145.362 - Disability benefit recipient to retain membership status.
+- Section 145.363 - Social security disability insurance benefits.
+- Section 145.37 - Coordinating and integrating membership in state retirement systems.
+- Section 145.38 - Employment of retirant.
+- Section 145.381 - Re-employing retirant.
+- Section 145.382 - Employment of certain retirants notwithstanding restrictions.
+- Section 145.383 - Continuing contributions to state system after retirement.
+- Section 145.384 - Retirant may apply for monthly annuity or lump sum payment.
+- Section 145.385 - Reemployed retirant electing to resume retirement allowance.
+- Section 145.39 - Increasing pension, benefit, or allowance when limits of 26 USC 415 are raised.
+- Section 145.391 - Establishing and maintaining qualified governmental excess benefit arrangement.
+- Section 145.40 - Payment to member who ceases to be a public employee.
+- Section 145.401 - Making additional payment upon death of member or withdrawal of contributions.
+- Section 145.402 - Payments to members who are members of another state retirement system.
+- Section 145.41 - Termination of membership - leave of absence.
+- Section 145.43 - Designation or qualification of beneficiaries.
+- Section 145.431 - Designation of beneficiary.
+- Section 145.45 - Beneficiary may substitute other benefits.
+- Section 145.451 - Payment of death benefit.
+- Section 145.452 - Continuation of service credit purchase upon death of member.
+- Section 145.46 - Electing a plan of payment.
+- Section 145.47 - Per cent of compensation required as contribution - deductions.
+- Section 145.471 - Crediting of interest to individual accounts of contributors.
+- Section 145.472 - Crediting of interest on account balances of contributors as of 12-31-98.
+- Section 145.473 - Interest rates.
+- Section 145.48 - Rate of employer contribution.
+- Section 145.483 - Statement of delinquent contributions.
+- Section 145.49 - Calculations of employee and employer contribution rates separately.
+- Section 145.51 - Payments into employer's accumulation fund.
+- Section 145.52 - Transitional liability - installment payments.
+- Section 145.53 - Amounts credited to employer transitional liability.
+- Section 145.54 - Annual estimate of amount necessary to defray expenses; transfer of funds.
+- Section 145.55 - Members deemed to consent to deductions.
+- Section 145.56 - Tax exemptions.
+- Section 145.561 - Acquiring vested right in pension when granted.
+- Section 145.562 - Waiver of rights.
+- Section 145.563 - Adjustment for and recovery of erroneous payments.
+- Section 145.564 - Payroll deduction of membership dues and fees of retiree organizations.
+- Section 145.57 - Restitution order based on theft in office or certain sex offenses.
+- Section 145.571 - Order for division of marital property.
+- Section 145.572 - Forfeiture of retirement benefits under RC 2929.192.
+- Section 145.573 - Benefits subject to termination.
+- Section 145.574 - Forfeiture.
+- Section 145.58 - Group health insurance coverage for retired persons and survivors.
+- Section 145.581 - Establishing programs for long term health care insurance.
+- Section 145.582 - Providing health care coverage for elected officials given erroneous information.
+- Section 145.583 - Deposits to fund payments under plan.
+- Section 145.584 - Benefits equivalent to medicare.
+- Section 145.62 - Additional deposits in employee savings fund.
+- Section 145.63 - Refund of additional deposits.
+- Section 145.64 - Application for benefit where refund not received.
+- Section 145.65 - Payment of deposits made by deceased contributor.
+- Section 145.69 - Budgeting amount necessary to pay the state's obligation as employer.
+- Section 145.70 - Payment of amounts due retirement system from treasury.
+- Section 145.80 - Rules for defined contribution plans.
+- Section 145.81 - Establishment and administration of defined contribution plan.
+- Section 145.811 - Qualification of plan as governmental plan for federal tax purposes.
+- Section 145.812 - Qualification of plan as retirement system maintained by a state or local government entity for federal tax purposes.
+- Section 145.813 - Maintaining individual account for each participant.
+- Section 145.814 - Electing to participate in different plan.
+- Section 145.82 - Application of chapter to defined contribution plan.
+- Section 145.83 - Accumulating contributions to pay medical and insurance expenses.
+- Section 145.85 - Contributions of members.
+- Section 145.86 - Contributions of employers.
+- Section 145.87 - Transferring portion of employer contribution to employers' accumulation fund.
+- Section 145.88 - Withholding.
+- Section 145.91 - Member rights governed by plan selected.
+- Section 145.92 - Spousal consent or waiver.
+- Section 145.95 - Right to payment or benefit vested.
+- Section 145.97 - Deposits of members.
+- Section 145.98 - Ceasing contributions.
+- Section 145.99 - Penalty.

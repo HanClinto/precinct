@@ -1,0 +1,471 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 303.01 - County rural zoning - agriculture defined.",
+      "number": "303.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.02 - County commissioners may regulate building and land use in unincorporated territory.",
+      "number": "303.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.021 - Designating street names and assigning numbers to buildings.",
+      "number": "303.021",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.021"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.022 - Establishing or modifying planned-unit developments.",
+      "number": "303.022",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.022"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.023 - Prior planned-unit developments continue to be governed by regulations in effect at time of approval or modification.",
+      "number": "303.023",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.023"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.03 - Adoption of resolution of intention to proceed with county rural zoning.",
+      "number": "303.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.04 - County rural zoning commission.",
+      "number": "303.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.05 - Recommendations of county rural zoning commission - powers and duties of commission.",
+      "number": "303.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.06 - Public hearing on recommendations - notice.",
+      "number": "303.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.07 - Submission of proposed zoning resolution to county or regional planning commission.",
+      "number": "303.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.08 - Public hearing on zoning plan.",
+      "number": "303.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.09 - Changes in text or maps - second public hearing.",
+      "number": "303.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.10 - County commissioners to vote upon adoption of resolution.",
+      "number": "303.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.11 - Zoning plan to be submitted to electors.",
+      "number": "303.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.12 - Amendments to zoning resolution.",
+      "number": "303.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.121 - Ratifying amendments to zoning resolution.",
+      "number": "303.121",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.121"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.122 - Limitations on procedural challenges.",
+      "number": "303.122",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.122"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.13 - County board of zoning appeals - term - compensation.",
+      "number": "303.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.14 - County board of zoning appeals - powers and duties.",
+      "number": "303.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.141 - Conditional zoning certificates for surface mining activities.",
+      "number": "303.141",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.141"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.15 - Organization and rules of county board of zoning appeals.",
+      "number": "303.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.16 - Enforcement of zoning regulations - county zoning inspector.",
+      "number": "303.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.161 - Architectural review board authorized - standards and procedures.",
+      "number": "303.161",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.161"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.17 - Zoning certificate required.",
+      "number": "303.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.18 - County regulations not applicable within municipal corporations except after incorporation or annexation.",
+      "number": "303.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.19 - Nonconforming use of buildings and land not affected by zoning.",
+      "number": "303.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.20 - Outdoor advertising classified as business use.",
+      "number": "303.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.21 - Limitations on powers - agricultural purposes.",
+      "number": "303.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.211 - Limitations on powers - public utility or railroads, telecommunications towers, alcoholic beverage sales, oil or gas drilling.",
+      "number": "303.211",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.211"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.212 - Limitations on powers - permanently sited manufactured homes.",
+      "number": "303.212",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.212"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.213 - Small wind farms zoning regulations.",
+      "number": "303.213",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.213"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.214 - Compliance with ORC section 5502.031.",
+      "number": "303.214",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.214"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.215 - County zoning regulations for home education learning pods.",
+      "number": "303.215",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.215"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.22 - Township zoning regulations to take precedence.",
+      "number": "303.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.23 - Violation of resolution and regulations.",
+      "number": "303.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.24 - Actions instituted to prevent violation.",
+      "number": "303.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.25 - Repeal of county zoning plan by township.",
+      "number": "303.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.251 - County special assessment to fund residential broadband expansion.",
+      "number": "303.251",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.251"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.26 - Removal of slum or blighted area definitions.",
+      "number": "303.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.27 - Rehabilitation or redevelopment of county renewal area by private enterprise.",
+      "number": "303.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.28 - Workable program to control spread of slums and blight.",
+      "number": "303.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.29 - Adoption of resolution of necessity.",
+      "number": "303.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.30 - Prerequisites for approval county renewal project for county renewal area.",
+      "number": "303.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.31 - Preparing county renewal plan.",
+      "number": "303.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.32 - Public hearing on county renewal project.",
+      "number": "303.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.33 - Approving county renewal project for county renewal area.",
+      "number": "303.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.34 - Modifying county renewal plan.",
+      "number": "303.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.35 - Plan or modification to be in full force and effect upon approval.",
+      "number": "303.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.36 - Redeveloping or rehabilitating disaster areas.",
+      "number": "303.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.37 - Board of county commissioners - powers and duties.",
+      "number": "303.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.38 - Acquiring real property by right of eminent domain.",
+      "number": "303.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.39 - Disposing of real property.",
+      "number": "303.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.40 - Cost of street maintenance within a county renewal area.",
+      "number": "303.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.41 - Special assessments.",
+      "number": "303.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.42 - Method of making a special assessment.",
+      "number": "303.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.43 - Waiving right to collect assessments.",
+      "number": "303.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.44 - Paying assessments on county owned lands.",
+      "number": "303.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.45 - Funds for planning or county renewal project functions.",
+      "number": "303.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.46 - Bonds for county renewal project.",
+      "number": "303.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.47 - Validity of signatures of public officials.",
+      "number": "303.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.48 - Validity or enforcement of bond.",
+      "number": "303.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.49 - Bond interest and income exempted from taxes.",
+      "number": "303.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.50 - Bonds are lawful investments.",
+      "number": "303.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.51 - Property exempt from levy and sale by virtue of execution.",
+      "number": "303.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.52 - Property exempt from taxation.",
+      "number": "303.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.53 - Transfer of property to county.",
+      "number": "303.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.54 - Presumption of compliance.",
+      "number": "303.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.55 - Establishing and maintaining records and funds.",
+      "number": "303.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.56 - Rules and regulations.",
+      "number": "303.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.57 - County wind and solar generation restriction definitions.",
+      "number": "303.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.58 - Restricted area resolution by county commissioners.",
+      "number": "303.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.59 - Restricted area resolution effective date; referendum.",
+      "number": "303.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.60 - Power siting board certificate or amendment prohibited in restricted area.",
+      "number": "303.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.61 - Public meeting before power siting board application for certificate or amendment.",
+      "number": "303.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.62 - County commissioner prohibition or limitation resolution after public meeting.",
+      "number": "303.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.65 - Claim preclusion and zoning appeals.",
+      "number": "303.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 303.99 - Penalty.",
+      "number": "303.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.99"
+    }
+  ],
+  "scraped": "2026-07-02T19:32:36+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-303",
+  "title": "Chapter 303 - County Zoning; Renewal; Wind and Solar Generation Restrictions"
+}

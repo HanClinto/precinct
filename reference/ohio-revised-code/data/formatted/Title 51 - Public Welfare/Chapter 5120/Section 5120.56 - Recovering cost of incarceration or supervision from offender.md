@@ -1,0 +1,76 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5120.56
+Scraped: 2026-07-02T20:10:44+00:00
+
+# Section 5120.56 - Recovering cost of incarceration or supervision from offender.
+
+**Effective:** January 1, 2004
+
+**Latest Legislation:** House Bill 490 - 124th General Assembly
+
+(A) As used in sections 5120.56 to 5120.58 of the Revised Code:
+
+(1) "Ancillary services" means services provided to an offender as necessary for the particular circumstances of the offender's personal supervision, including, but not limited to, specialized counseling, testing, or other services not included in the calculation of residential or supervision costs.
+
+(2) "Cost debt" means a cost of incarceration or supervision that may be assessed against and collected from an offender as a debt to the state as described in division (D) of this section.
+
+(3) "Detention facility" means any place used for the confinement of a person charged with or convicted of any crime.
+
+(4) "Offender" means any inmate, parolee, person placed under a community control sanction, releasee, or other person who has been convicted of or pleaded guilty to any felony or misdemeanor and is sentenced to any of the following:
+
+(a) A term of imprisonment, a prison term, a jail term, or another type of confinement in a detention facility;
+
+(b) Participation in another correctional program in lieu of incarceration.
+
+(5) "Community control sanction," "prison term," and "jail term" have the same meanings as in section 2929.01 of the Revised Code.
+
+(6) "Parolee" and "releasee" have the same meanings as in section 2967.01 of the Revised Code.
+
+(B) The department of rehabilitation and correction may recover from an offender who is in its custody or under its supervision any cost debt described in division (D) of this section. To satisfy a cost debt described in that division that relates to an offender, the department may apply directly assets that are in the department's possession and that are being held for that offender without further proceedings in aid of execution, and, if assets belonging to or subject to the direction of that offender are in the possession of a third party, the department may request the attorney general to initiate proceedings to collect the assets from the third party to satisfy the cost debt.
+
+(C) Except as otherwise provided in division (E) or (G) of this section, all of the following assets of an offender shall be subject to attachment, collection, or application toward the cost debts described in division (D) of this section that are to be recovered under division (B) of this section:
+
+(1) Subject to division (E) of this section, any pay the offender receives from the state;
+
+(2) Subject to division (E) of this section, any funds the offender receives from persons on an approved visitor list;
+
+(3) Any liquid assets belonging to the offender and in the custody of the department;
+
+(4) Any assets the offender acquires or any other income the offender earns subsequent to the offender's commitment.
+
+(D) Costs of incarceration or supervision that may be assessed against and collected from an offender under division (B) of this section as a debt to the state shall include, but are not limited to, all of the following costs that accrue while the offender is in the custody or under the supervision of the department:
+
+(1) Any user fee or copayment for services at a detention facility or housing facility, including, but not limited to, a fee or copayment for sick call visits;
+
+(2) Assessment for damage to or destruction of property in a detention facility subsequent to commitment;
+
+(3) Restitution to an offender or to a staff member of a state correctional institution for theft, loss, or damage to the personal property of the offender or staff member;
+
+(4) The cost of housing and feeding the offender in a detention facility;
+
+(5) The cost of supervision of the offender;
+
+(6) The cost of any ancillary services provided to the offender;
+
+(7) The cost of any medical care provided to the offender.
+
+(E) The cost of housing and feeding an offender in a state correctional institution shall not be collected from a payment made to the offender for performing an activity at a state job or assignment that pays less than the minimum wage or from money the offender receives from visitors, unless the combined assets in the offender's institution personal account exceed, at any time, one hundred dollars. If the combined assets in that account exceed one hundred dollars, the cost of housing and feeding the offender may be collected from the amount in excess of one hundred dollars.
+
+(F)(1) The department shall adopt rules pursuant to section 111.15 of the Revised Code to implement the requirements of this section.
+
+(2) The rules adopted under division (F)(1) of this section shall include, but are not limited to, rules that establish or contain all of the following:
+
+(a) A process for ascertaining the items of cost to be assessed against an offender;
+
+(b) Subject to division (F)(3) of this section, a process by which the offender shall have the opportunity to respond to the assessment of costs under division (B) of this section and to contest any item of cost in the department's calculation or as it applies to the offender;
+
+(c) A requirement that the offender be notified, in writing, of a final decision to collect or apply the offender's assets under division (B) of this section and that the notification be provided after the offender has had an opportunity to contest the application or collection;
+
+(d) Criteria for evaluating an offender's ongoing, permanent injury and evaluating the ability of that type of offender to provide for the offender after incarceration.
+
+(3) The rules adopted under division (F)(1) of this section may allow the collection of a cost debt as a flat fee or over time in installments. If the cost debt is to be collected over time in installments, the rules are not required to permit the offender an opportunity to contest the assessment of each installment. The rules may establish a standard fee to apply to all offenders who receive a particular service.
+
+(G) The department shall not collect cost debts or apply offender assets toward a cost debt under division (B) of this section if, due to an ongoing, permanent injury, the collection or application would unjustly limit the offender's ability to provide for the offender after incarceration.
+
+(H) If an offender acquires assets after the offender is convicted of or pleads guilty to an offense and if the transferor knows of the offender's status as an offender, the transferor shall notify the department in advance of the transfer.
+
+(I) There is hereby created in the state treasury the offender financial responsibility fund. All moneys collected by or on behalf of the department under this section, and all moneys currently in the department's custody that are applied to satisfy an allowable cost debt under this section, shall be deposited into the fund. The department may expend moneys in the fund for goods and services of the same type as those for which offenders are assessed pursuant to this section.

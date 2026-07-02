@@ -1,0 +1,36 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Last known address\" means the address the tax administrator has at the time a document is originally sent by certified mail, or any address the tax administrator can ascertain using reasonable means such as the use of a change of address service offered by the postal service or an authorized delivery service under section 5703.056 of the Revised Code.",
+      "id": "718.18-last-known-address",
+      "normalized": "last known address",
+      "scope": "(F) As used in this section:",
+      "section": "718.18",
+      "source_title": "Section 718.18 - Service of assessment.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-718.18",
+      "term": "Last known address"
+    },
+    {
+      "definition": "(2) \"Undeliverable address\" means an address to which the postal service or an authorized delivery service under section 5703.056 of the Revised Code is not able to deliver an assessment of the tax administrator, except when the reason for nondelivery is because the addressee fails to acknowledge or accept the assessment.",
+      "id": "718.18-undeliverable-address",
+      "normalized": "undeliverable address",
+      "scope": "(F) As used in this section:",
+      "section": "718.18",
+      "source_title": "Section 718.18 - Service of assessment.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-718.18",
+      "term": "Undeliverable address"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "5703.056",
+      "number": "5703.056",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.056"
+    }
+  ],
+  "scraped": "2026-07-02T19:33:25+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-718.18",
+  "title": "Section 718.18 - Service of assessment."
+}

@@ -1,0 +1,84 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5713.051
+Scraped: 2026-07-02T20:14:32+00:00
+
+# Section 5713.051 - True value of oil and gas reserves on certain property.
+
+**Effective:** March 29, 2007
+
+**Latest Legislation:** House Bill 699 - 126th General Assembly
+
+(A) As used in this section:
+
+(1) "Oil" means all grades of crude oil.
+
+(2) "Gas" means all forms of natural gas.
+
+(3) "Well" means an oil or gas well or an oil and gas well.
+
+(4) "M.C.F." means one thousand cubic feet.
+
+(5) "Commonly metered wells" means two or more wells that share the same meter.
+
+(6) "Total production" means the total amount of oil, measured in barrels, and the total amount of gas, measured in M.C.F., of all oil and gas actually produced and sold from a single well that is developed and producing on the tax lien date. For commonly metered wells, "total production" means the total amount of oil, measured in barrels, and the total amount of gas, measured in M.C.F., of all oil and gas actually produced and sold from the commonly metered wells divided by the number of the commonly metered wells.
+
+(7) "Flush production" means total production from a single well during the first twelve calendar months during not more than two consecutive calendar years after a well first begins to produce. For commonly metered wells, "flush production" means total production during the first twelve calendar months during not more than two consecutive calendar years after a well first begins to produce from all wells with flush production divided by the number of those wells.
+
+(8) "Production through secondary recovery methods" means total production from a single well where mechanically induced pressure, such as air, nitrogen, carbon dioxide, or water pressure, is used to stimulate and maintain production in the oil and gas reservoir, exclusive of any flush production. For commonly metered wells, "production through secondary recovery methods" means total production from all wells with production through secondary recovery methods divided by the number of the those wells.
+
+(9) "Stabilized production" means total production reduced, if applicable, by the greater of forty-two and one-half per cent of flush production or fifty per cent of production through secondary recovery methods.
+
+(10) "Average daily production" means stabilized production divided by three hundred sixty-five, provided the well was in production at the beginning of the calendar year. If the well was not in production at the beginning of the calendar year, "average daily production" means stabilized production divided by the number of days beginning with the day the well went into production in the calendar year and ending with the thirty-first day of December.
+
+(11) "Gross price" means the unweighted average price per barrel of oil or the average price per M.C.F. of gas produced from Ohio wells and first sold during the five-year period ending with the calendar year immediately preceding the tax lien date, as reported by the department of natural resources.
+
+(12) "Average annual decline rate" means the amount of yearly decline in oil and gas production of a well after flush production has ended. For the purposes of this section, the average annual decline rate is thirteen per cent.
+
+(13) "Gross revenue" means the gross revenue from a well during a ten-year discount period with production assumed to be one barrel of oil or one M.C.F. of gas during the first year of production and declining at the annual average annual decline rate during the remaining nine years of the ten-year discount period, as follows:
+
+(a) First year: one barrel or one M.C.F. multiplied by gross price;
+
+(b) Second year: 0.870 barrel or 0.870 M.C.F. multiplied by gross price;
+
+(c) Third year: 0.757 barrel or 0.757 M.C.F. multiplied by gross price;
+
+(d) Fourth year: 0.659 barrel or 0.659 M.C.F. multiplied by gross price;
+
+(e) Fifth year: 0.573 barrel or 0.573 M.C.F. multiplied by gross price;
+
+(f) Sixth year: 0.498 barrel or 0.498 M.C.F. multiplied by gross price;
+
+(g) Seventh year: 0.434 barrel or 0.434 M.C.F. multiplied by gross price;
+
+(h) Eighth year: 0.377 barrel or 0.377 M.C.F. multiplied by gross price;
+
+(i) Ninth year: 0.328 barrel or 0.328 M.C.F. multiplied by gross price;
+
+(j) Tenth year: 0.286 barrel or 0.286 M.C.F. multiplied by gross price.
+
+(14) "Average royalty expense" means the annual cost of royalties paid by all working interest owners in a well. For the purposes of this section, the average royalty expense is fifteen per cent of annual gross revenue.
+
+(15) "Average operating expense" means the annual cost of operating and maintaining a producing well after it first begins production. For the purposes of this section, the average operating expense is forty per cent of annual gross revenue.
+
+(16) "Average capital recovery expense" means the annual capitalized investment cost of a developed and producing well. For the purposes of this section, average capital recovery expense is thirty per cent of annual gross revenue.
+
+(17) "Discount rate" means the rate used to determine the present net worth of one dollar during each year of the ten-year discount period assuming the net income stream projected for each year of the ten-year discount period is received at the half-year point. For the purposes of this section, the discount rate equals thirteen per cent plus the rate per annum prescribed by division (B) of section 5703.47 of the Revised Code and determined by the tax commissioner in October of the calendar year immediately preceding the tax lien date.
+
+(B) The true value in money of oil reserves constituting real property on tax lien dates January 1, 2007, and thereafter with respect to a developed and producing well that has not been the subject of a recent arm's length sale, exclusive of personal property necessary to recover the oil, shall be determined under division (B)(1) or (2) of this section.
+
+(1) For wells for which average daily production of oil is one barrel or more in the calendar year preceding the tax lien date, the true value in money equals the average daily production of oil from the well multiplied by the net present value of one barrel of oil, where:
+
+(a) Net present value of one barrel of oil = 365 x the sum of [net income for each year of the discount period x discount rate factor for that year] for all years in the discount period; and
+
+(b) Net income for a year of the discount period = gross revenue for that year minus the sum of the following for that year: average royalty expense, average operating expense, and average capital recovery expense.
+
+(2) For wells for which average daily production of oil is less than one barrel in the calendar year preceding the tax lien date, the true value in money equals the average daily production of the well in the calendar year preceding the tax lien date multiplied by sixty per cent of the net present value of one barrel of oil as computed under division (B)(1) of this section.
+
+(C) The true value in money of gas reserves constituting real property on tax lien dates January 1, 2007, and thereafter with respect to a developed and producing well that has not been the subject of a recent arm's length sale, exclusive of personal property necessary to recover the gas, shall be determined under division (C)(1) or (2) of this section.
+
+(1) For wells for which average daily production of gas is eight M.C.F. or more in the calendar year preceding the tax lien date, the true value in money equals the average daily production of gas from the well multiplied by the net present value of one M.C.F. of gas, where:
+
+(a) Net present value of one M.C.F. of gas = 365 x the sum of [net income for each year of the discount period x discount rate factor for that year] for all years in the discount period; and
+
+(b) Net income for a year of the discount period = gross revenue for that year minus the sum of the following for that year: average royalty expense, average operating expense, and average capital recovery expense.
+
+(2) For wells for which average daily production of gas is less than eight M.C.F. in the calendar year preceding the tax lien date, the true value in money equals the average daily production of the well in the calendar year preceding the tax lien date multiplied by fifty per cent of the net present value of one M.C.F. as computed under division (C)(1) of this section.

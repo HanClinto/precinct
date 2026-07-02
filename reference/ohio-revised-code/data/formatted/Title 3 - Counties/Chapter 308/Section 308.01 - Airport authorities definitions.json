@@ -1,0 +1,62 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Airport\" means any location either on land or water which is used for the landing or taking off of aircraft.",
+      "id": "308.01-airport",
+      "normalized": "airport",
+      "scope": "As used in sections 308.01 to 308.17 , inclusive, of the Revised Code:",
+      "section": "308.01",
+      "source_title": "Section 308.01 - Airport authorities definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-308.01",
+      "term": "Airport"
+    },
+    {
+      "definition": "(B) \"Airport facility\" means any facility used, available for use, or designed for use to aid in the safe taking off and landing of aircraft, for the safety, storage, and maintenance of aircraft, for the comfort and accommodation of the users of air transportation of persons, property, and mail, or for the safe and efficient operation and maintenance of an airport, and any combination of such facilities.",
+      "id": "308.01-airport-facility",
+      "normalized": "airport facility",
+      "scope": "As used in sections 308.01 to 308.17 , inclusive, of the Revised Code:",
+      "section": "308.01",
+      "source_title": "Section 308.01 - Airport authorities definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-308.01",
+      "term": "Airport facility"
+    },
+    {
+      "definition": "(C) \"Bonds\" or \"revenue bonds\" includes bonds, notes, bond anticipation notes, or other written instruments evidencing indebtedness.",
+      "id": "308.01-bonds",
+      "normalized": "bonds",
+      "scope": "As used in sections 308.01 to 308.17 , inclusive, of the Revised Code:",
+      "section": "308.01",
+      "source_title": "Section 308.01 - Airport authorities definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-308.01",
+      "term": "Bonds"
+    },
+    {
+      "definition": "(C) \"Bonds\" or \"revenue bonds\" includes bonds, notes, bond anticipation notes, or other written instruments evidencing indebtedness.",
+      "id": "308.01-revenue-bonds",
+      "normalized": "revenue bonds",
+      "scope": "As used in sections 308.01 to 308.17 , inclusive, of the Revised Code:",
+      "section": "308.01",
+      "source_title": "Section 308.01 - Airport authorities definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-308.01",
+      "term": "revenue bonds"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "308.01",
+      "number": "308.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-308.01"
+    },
+    {
+      "kind": "section",
+      "label": "308.17",
+      "number": "308.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-308.17"
+    }
+  ],
+  "scraped": "2026-07-02T19:32:41+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-308.01",
+  "title": "Section 308.01 - Airport authorities definitions."
+}

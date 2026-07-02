@@ -1,0 +1,56 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"PACE\" means property assessed clean energy.",
+      "id": "5301.93-pace",
+      "normalized": "pace",
+      "scope": "(A) As used in this section:",
+      "section": "5301.93",
+      "source_title": "Section 5301.93 - Residential PACE lien priority.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5301.93",
+      "term": "PACE"
+    },
+    {
+      "definition": "(2) \"Qualifying residential real property\" means a single family residential dwelling, or other residential dwelling of three or fewer units.",
+      "id": "5301.93-qualifying-residential-real-property",
+      "normalized": "qualifying residential real property",
+      "scope": "(A) As used in this section:",
+      "section": "5301.93",
+      "source_title": "Section 5301.93 - Residential PACE lien priority.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5301.93",
+      "term": "Qualifying residential real property"
+    },
+    {
+      "definition": "(3) \"Residential PACE lien\" means the encumbrance on the qualifying residential real property created by the special assessment for a residential PACE loan.",
+      "id": "5301.93-residential-pace-lien",
+      "normalized": "residential pace lien",
+      "scope": "(A) As used in this section:",
+      "section": "5301.93",
+      "source_title": "Section 5301.93 - Residential PACE lien priority.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5301.93",
+      "term": "Residential PACE lien"
+    },
+    {
+      "definition": "(4) \"Residential PACE loan\" means the extension of financing that is offered to pay for the installation of cost effective energy improvements on a homeowner's qualifying residential real property and is repayable by the homeowner through a special assessment under section 717.25 or Chapter 1710. of the Revised Code.\n\n(B) Notwithstanding any provision of law to the contrary, a residential PACE lien shall be all of the following:\n\n(1) Subordinate to all liens on the qualifying residential real property recorded prior to the time the residential PACE lien is recorded;\n\n(2) Subordinate to a first mortgage on the qualifying property recorded after the residential PACE lien is recorded;\n\n(3) Subject to division (B)(2) of this section, superior to any other lien on the qualifying residential real property recorded after the residential PACE lien is recorded.\n\n(C) Notwithstanding any other law to the contrary, in the event of a foreclosure sale of a qualifying residential real property, the holders of any mortgages or other liens, including delinquent special assessments secured by residential PACE liens, shall receive proceeds in accordance with the priorities established under division (B) of this section.\n\nLast updated February 24, 2023 at 1:57 PM",
+      "id": "5301.93-residential-pace-loan",
+      "normalized": "residential pace loan",
+      "scope": "(A) As used in this section:",
+      "section": "5301.93",
+      "source_title": "Section 5301.93 - Residential PACE lien priority.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5301.93",
+      "term": "Residential PACE loan"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "717.25",
+      "number": "717.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-717.25"
+    }
+  ],
+  "scraped": "2026-07-02T20:11:45+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5301.93",
+  "title": "Section 5301.93 - Residential PACE lien priority."
+}

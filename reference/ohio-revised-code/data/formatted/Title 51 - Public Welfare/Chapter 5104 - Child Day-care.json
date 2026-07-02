@@ -1,0 +1,423 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 5104.01 - Child care definitions.",
+      "number": "5104.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.013 - Criminal records checks.",
+      "number": "5104.013",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.013"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.014 - Medical statement of immunization.",
+      "number": "5104.014",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.014"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.015 - Adoption of rules.",
+      "number": "5104.015",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.015"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.016 - Rules establishing minimum requirements for child care centers.",
+      "number": "5104.016",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.016"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.017 - Adoption of rules governing the operation of type A family child care homes.",
+      "number": "5104.017",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.017"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.018 - Adoption of rules governing the licensure of type B family child care homes.",
+      "number": "5104.018",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.018"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.019 - Adoption of rules governing the certification of in-home aides.",
+      "number": "5104.019",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.019"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.0110 - Rules requiring a physical examination.",
+      "number": "5104.0110",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.0110"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.0111 - Director of job and family services; duties.",
+      "number": "5104.0111",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.0111"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.0112 - Regulation of instruction in religious or moral doctrines, beliefs, or values prohibited.",
+      "number": "5104.0112",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.0112"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.02 - License required.",
+      "number": "5104.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.021 - Exemption of youth development programs.",
+      "number": "5104.021",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.021"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.022 - Licensing of foster homes as family child care homes.",
+      "number": "5104.022",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.022"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.03 - Application for and renewal of license.",
+      "number": "5104.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.032 - Physical space requirements for child care centers.",
+      "number": "5104.032",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.032"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.033 - Staff to child ratios.",
+      "number": "5104.033",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.033"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.034 - Trained staff required on premises.",
+      "number": "5104.034",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.034"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.037 - Tuberculosis screening, testing of prospective employees.",
+      "number": "5104.037",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.037"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.038 - Enrollment, health, and attendance records.",
+      "number": "5104.038",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.038"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.039 - Access to centers for parents or guardians.",
+      "number": "5104.039",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.039"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.04 - Investigating, inspecting, and licensing procedures established.",
+      "number": "5104.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.041 - Type A and B family child care home requirements.",
+      "number": "5104.041",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.041"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.042 - Suspension of child care center and home licenses without hearing.",
+      "number": "5104.042",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.042"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.043 - Determination of serious risk of noncompliance; notice.",
+      "number": "5104.043",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.043"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.05 - Requirements for building, fire prevention, and food service.",
+      "number": "5104.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.051 - Responsibility for inspections.",
+      "number": "5104.051",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.051"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.052 - Fire prevention and fire safety in licensed type B family child care homes.",
+      "number": "5104.052",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.052"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.053 - Inspecting unlicensed type B homes.",
+      "number": "5104.053",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.053"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.054 - Zoning for type B family child care home.",
+      "number": "5104.054",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.054"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.06 - Providing consultation and technical assistance.",
+      "number": "5104.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.07 - Additional requirements for licensing child care centers or type A family child care homes that provide publicly funded child care.",
+      "number": "5104.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.081 - Management of child care functions.",
+      "number": "5104.081",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.081"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.09 - Discrimination prohibited.",
+      "number": "5104.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.10 - Whistleblower protection.",
+      "number": "5104.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.12 - Certification of in-home aides to provide publicly funded child care.",
+      "number": "5104.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.13 - Publishing state statutes and rules governing certification of type B family child care homes.",
+      "number": "5104.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.14 - Readability of materials.",
+      "number": "5104.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.21 - Child day camp registration.",
+      "number": "5104.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.211 - Random sampling of child day camps to determine compliance with background checks.",
+      "number": "5104.211",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.211"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.22 - Enabling approved child day camp to receive public moneys.",
+      "number": "5104.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.25 - Prohibiting smoking.",
+      "number": "5104.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.29 - Step up to quality program.",
+      "number": "5104.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.291 - Early learning and development program ratings.",
+      "number": "5104.291",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.291"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.30 - Administration and coordination of federal and state funding for publicly funded child care.",
+      "number": "5104.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.301 - Parent cooperative child care centers and parent cooperative type A family child care homes.",
+      "number": "5104.301",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.301"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.302 - Analysis of child care price information.",
+      "number": "5104.302",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.302"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.31 - Eligible providers of services for publicly funded child care.",
+      "number": "5104.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.32 - Provider contracts.",
+      "number": "5104.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.33 - Forms for eligibility determinations for publicly funded child care.",
+      "number": "5104.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.34 - Determination of eligibility.",
+      "number": "5104.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.341 - Validity of determination of eligibility.",
+      "number": "5104.341",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.341"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.35 - County department of job and family services - powers and duties.",
+      "number": "5104.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.36 - Record for each eligible child.",
+      "number": "5104.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.37 - Activities to assist families and family child care homes; reports.",
+      "number": "5104.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.38 - Rules governing financial and administrative requirements for publicly funded child day-care.",
+      "number": "5104.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.382 - No contracts to person against whom finding for recovery has been issued.",
+      "number": "5104.382",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.382"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.39 - Monitoring present and anticipated future expenditures for publicly funded child day-care.",
+      "number": "5104.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.40 - Implementation of rules.",
+      "number": "5104.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.41 - Homeless child care.",
+      "number": "5104.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.42 - Payment procedure for publicly funded child care.",
+      "number": "5104.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.43 - Deposits into public assistance fund.",
+      "number": "5104.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.44 - Effect of child support default on license or certificate.",
+      "number": "5104.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.51 - Preschool program licensing.",
+      "number": "5104.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.52 - Kindergarten readiness assessment.",
+      "number": "5104.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.53 - Early childhood education grant program.",
+      "number": "5104.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.54 - Child care cred program.",
+      "number": "5104.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.60 - Ohio professional registry.",
+      "number": "5104.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5104.99 - Penalty.",
+      "number": "5104.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5104.99"
+    }
+  ],
+  "scraped": "2026-07-02T20:10:27+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-5104",
+  "title": "Chapter 5104 - Child Day-care"
+}

@@ -1,0 +1,687 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 5103.02 - Placement of children definitions.",
+      "number": "5103.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.021 - Scholars residential centers.",
+      "number": "5103.021",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.021"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.03 - Rules for adequate and competent management of institutions or associations.",
+      "number": "5103.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.031 - Preplacement training.",
+      "number": "5103.031",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.031"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.032 - Continuing training.",
+      "number": "5103.032",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.032"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.033 - Training required where child was less than six months of age at time of temporary custody agreement.",
+      "number": "5103.033",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.033"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.034 - Making training programs available.",
+      "number": "5103.034",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.034"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.035 - Needs assessment and continuing training plan.",
+      "number": "5103.035",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.035"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.036 - Accepting training from other programs.",
+      "number": "5103.036",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.036"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.037 - Appointment of board president, administrator, or officer.",
+      "number": "5103.037",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.037"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.038 - Agencies submitting proposals for programs.",
+      "number": "5103.038",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.038"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.039 - Summary suspension of an institution or association.",
+      "number": "5103.039",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.039"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.0310 - Background checks.",
+      "number": "5103.0310",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.0310"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.0312 - Reimbursement of caregivers for training courses.",
+      "number": "5103.0312",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.0312"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.0313 - Reimbursement of agencies for training courses.",
+      "number": "5103.0313",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.0313"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.0314 - Recommending agencies ineligible for reimbursement.",
+      "number": "5103.0314",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.0314"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.0315 - Federal financial participation in payment of training costs.",
+      "number": "5103.0315",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.0315"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.0316 - Training program rules.",
+      "number": "5103.0316",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.0316"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.0317 - Limit of children in foster home.",
+      "number": "5103.0317",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.0317"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.0318 - Applicability of zoning laws.",
+      "number": "5103.0318",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.0318"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.0319 - Prohibited offenses for certain minors residing in a foster home.",
+      "number": "5103.0319",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.0319"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.0320 - Denying certificate based on misconduct of resident.",
+      "number": "5103.0320",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.0320"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.0321 - Duties of agency upon notice of conviction of certain offense by foster child.",
+      "number": "5103.0321",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.0321"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.0322 - Notice to applicant or certificate holder of decisions.",
+      "number": "5103.0322",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.0322"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.0323 - Audit prior to renewal of certificate.",
+      "number": "5103.0323",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.0323"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.0324 - Assessor to conduct home study.",
+      "number": "5103.0324",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.0324"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.0325 - Review of rules for agency visits.",
+      "number": "5103.0325",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.0325"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.0326 - Nonrenewals based on refusals to accept children.",
+      "number": "5103.0326",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.0326"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.0327 - Physical examinations.",
+      "number": "5103.0327",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.0327"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.0328 - Notice of arrest or conviction of foster caregiver.",
+      "number": "5103.0328",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.0328"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.0329 - Waiver of non-safety standards for kinship caregivers seeking foster home certification.",
+      "number": "5103.0329",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.0329"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.04 - Articles of incorporation to be filed with department of children and youth.",
+      "number": "5103.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.05 - Notice of operation.",
+      "number": "5103.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.051 - Community engagement plan.",
+      "number": "5103.051",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.051"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.052 - Residential facility - applicability.",
+      "number": "5103.052",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.052"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.053 - Residential facility criminal records check.",
+      "number": "5103.053",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.053"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.054 - Review of residential facility locations.",
+      "number": "5103.054",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.054"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.055 - Communications regarding a residential facility.",
+      "number": "5103.055",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.055"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.056 - Evidence of corrective action after violation.",
+      "number": "5103.056",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.056"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.057 - Revocation of conditional use permit.",
+      "number": "5103.057",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.057"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.058 - Annual compliance visit.",
+      "number": "5103.058",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.058"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.0510 - Residential facility 24-hour emergency on-call procedure.",
+      "number": "5103.0510",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.0510"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.0512 - Annual staff survey and review.",
+      "number": "5103.0512",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.0512"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.0513 - Education form.",
+      "number": "5103.0513",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.0513"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.0520 - Requirements for group homes.",
+      "number": "5103.0520",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.0520"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.07 - Department to administer funds received under federal child welfare and abuse programs.",
+      "number": "5103.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.08 - Administering funds under state dependent care development grants.",
+      "number": "5103.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.09 - Benefits to children in the custody of a Title IV-E agency.",
+      "number": "5103.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.11 - Foster care and adoption initiatives fund.",
+      "number": "5103.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.12 - Payments to encourage adoptive placement of children in permanent custody of public children services agency.",
+      "number": "5103.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.13 - Children's crisis care facilities requirements and limitations.",
+      "number": "5103.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.131 - Federal grant application for children's crisis care facilities.",
+      "number": "5103.131",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.131"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.14 - Enforcement powers.",
+      "number": "5103.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.15 - Agreements for temporary custody.",
+      "number": "5103.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.151 - Duties prospective parent of adoptee.",
+      "number": "5103.151",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.151"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.152 - Duties of assessor.",
+      "number": "5103.152",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.152"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.153 - Review hearing of agreement.",
+      "number": "5103.153",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.153"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.155 - Surplus in putative father registry fund used to promote adoption of children with special needs.",
+      "number": "5103.155",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.155"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.16 - Certification required before associations and institutions may accept temporary or permanent custody of child.",
+      "number": "5103.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.161 - Notification of foster caregiver or relative with custody of permanent custody motion or prospective adoption placement.",
+      "number": "5103.161",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.161"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.162 - Qualified immunity of foster caregiver.",
+      "number": "5103.162",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.162"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.163 - Resource family bill of rights.",
+      "number": "5103.163",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.163"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.17 - Advertising or inducements as to adoption or foster home placement.",
+      "number": "5103.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.18 - Pre-placement report of child welfare system information search.",
+      "number": "5103.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.181 - Background checks.",
+      "number": "5103.181",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.181"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.20 - Interstate compact for placement of children adopted.",
+      "number": "5103.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.21 - Department compact implementing rules.",
+      "number": "5103.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.22 - State human services administration.",
+      "number": "5103.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.23 - Interstate Compact on Placement of Children.",
+      "number": "5103.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.231 - Determination of financial responsibility.",
+      "number": "5103.231",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.231"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.232 - Appropriate public authority.",
+      "number": "5103.232",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.232"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.233 - Appropriate authority in receiving state.",
+      "number": "5103.233",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.233"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.234 - Agreements with other party states.",
+      "number": "5103.234",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.234"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.235 - Requirements for visitation, inspection, supervision of children.",
+      "number": "5103.235",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.235"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.236 - Jurisdiction of court.",
+      "number": "5103.236",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.236"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.237 - Executive head defined.",
+      "number": "5103.237",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.237"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.30 - Ohio child welfare training program.",
+      "number": "5103.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.302 - Private agency enrollment conditioned on space.",
+      "number": "5103.302",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.302"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.303 - Payment of department allowance to private agencies.",
+      "number": "5103.303",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.303"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.32 - Funding Ohio child welfare training program.",
+      "number": "5103.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.37 - Training coordinator for child welfare training program - duties.",
+      "number": "5103.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.39 - Training program steering committee.",
+      "number": "5103.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.391 - Appointment of members.",
+      "number": "5103.391",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.391"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.40 - Ohio child welfare program steering committee.",
+      "number": "5103.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.41 - Designating training regions.",
+      "number": "5103.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.42 - [Former R.C. 5103.422, amended and renumbered by H.B. 33, 135th General Assembly, effective 10/3/2023] Regional training staff responsibilities.",
+      "number": "5103.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.50 - License for private, nonprofit therapeutic wilderness camp.",
+      "number": "5103.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.52 - Inspection.",
+      "number": "5103.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.53 - Injunctive relief.",
+      "number": "5103.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.54 - Rules.",
+      "number": "5103.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.55 - Compulsory school attendance.",
+      "number": "5103.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.57 - Professional treatment staff definitions.",
+      "number": "5103.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.58 - Professional treatment staff requirements and training.",
+      "number": "5103.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.59 - Professional treatment staff training program.",
+      "number": "5103.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.60 - Residential infant care center definitions.",
+      "number": "5103.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.602 - Application for residential infant care center certification.",
+      "number": "5103.602",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.602"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.603 - Certification of residential infant care center.",
+      "number": "5103.603",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.603"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.608 - Infant eligibility for residential infant care center placement.",
+      "number": "5103.608",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.608"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.609 - Placement in residential infant care center for up to 90 days.",
+      "number": "5103.609",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.609"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.6010 - Residential infant care center operational requirements.",
+      "number": "5103.6010",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.6010"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.6011 - Residential infant care center compliance exclusions.",
+      "number": "5103.6011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.6011"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.6012 - Residential infant care center child-to-staff ratios.",
+      "number": "5103.6012",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.6012"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.6015 - Federal grant application for residential infant care centers.",
+      "number": "5103.6015",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.6015"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.6016 - [Former R.C. 5103.132, amended and renumbered by H.B. 265, 134th General Assembly, effective 6/13/2022] Firearms on grounds of residential infant care center.",
+      "number": "5103.6016",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.6016"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.6017 - Suspension or revocation of residential infant care center certification.",
+      "number": "5103.6017",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.6017"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.6018 - Residential infant care facility certification rules.",
+      "number": "5103.6018",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.6018"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.61 - Family preservation center definition.",
+      "number": "5103.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.611 - Family preservation center certification application.",
+      "number": "5103.611",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.611"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.612 - Certification of family preservation center; waiver prohibited.",
+      "number": "5103.612",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.612"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.614 - Family preservation center operational requirements.",
+      "number": "5103.614",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.614"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.615 - Suspension or revocation of family preservation center certification.",
+      "number": "5103.615",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.615"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.617 - Family preservation center certification rules.",
+      "number": "5103.617",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.617"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5103.99 - Penalty.",
+      "number": "5103.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.99"
+    }
+  ],
+  "scraped": "2026-07-02T20:10:24+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-5103",
+  "title": "Chapter 5103 - Placement of Children"
+}

@@ -1,0 +1,507 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 1751.01 - Health insuring corporation law definitions.",
+      "number": "1751.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.02 - Applying for certificate of authority.",
+      "number": "1751.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.03 - Verification of application.",
+      "number": "1751.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.04 - Review of application and documents by superintendent.",
+      "number": "1751.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.05 - Issuance or denial of certificate of authority.",
+      "number": "1751.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.06 - Powers upon obtaining certificate.",
+      "number": "1751.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.07 - Responsibility for funds.",
+      "number": "1751.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.08 - Inapplicability of insurance laws.",
+      "number": "1751.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.11 - Evidence of coverage.",
+      "number": "1751.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.111 - Standardized prescription identification information - pharmacy benefits to be included.",
+      "number": "1751.111",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.111"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.12 - Contractual periodic prepayment or premium rate.",
+      "number": "1751.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.13 - Contracts with providers and health care facilities.",
+      "number": "1751.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.14 - Termination of coverage of child.",
+      "number": "1751.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.141 - Dependent children living outside health insuring corporation's approved service area.",
+      "number": "1751.141",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.141"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.18 - Cancelling or failing to renew coverage.",
+      "number": "1751.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.19 - Complaint system.",
+      "number": "1751.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.20 - Unfair, untrue, misleading, or deceptive acts.",
+      "number": "1751.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.21 - Peer review committee.",
+      "number": "1751.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.25 - Investment of funds.",
+      "number": "1751.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.26 - Investments in real estate.",
+      "number": "1751.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.27 - Deposit of securities with superintendent or custodian.",
+      "number": "1751.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.271 - Medicaid providers - performance bond.",
+      "number": "1751.271",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.271"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.28 - Admitted assets held in corporation's name and free and clear of encumbrances, pledges, or hypothecation.",
+      "number": "1751.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.31 - Changes in corporation's solicitation document.",
+      "number": "1751.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.32 - Annual report.",
+      "number": "1751.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.321 - Audit report filed annually.",
+      "number": "1751.321",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.321"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.33 - Information to be provided to subscribers.",
+      "number": "1751.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.34 - Examinations by superintendent and director.",
+      "number": "1751.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.35 - Suspension or revocation of certificate of authority.",
+      "number": "1751.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.36 - Notification of grounds for denial, suspension or revocation of certificate - hearing.",
+      "number": "1751.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.38 - Applicability of other laws.",
+      "number": "1751.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.40 - Insurance companies operating as health insuring corporations.",
+      "number": "1751.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.42 - Rehabilitation, liquidation, supervision or conservation of corporation.",
+      "number": "1751.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.44 - Fees paid to superintendent of insurance.",
+      "number": "1751.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.45 - Administrative penalties - violations.",
+      "number": "1751.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.46 - Recommendations for expansion of service areas.",
+      "number": "1751.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.47 - Adopting forms, instructions and manuals for providing financial information.",
+      "number": "1751.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.48 - Rules.",
+      "number": "1751.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.51 - Restrictions on choice of providers.",
+      "number": "1751.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.52 - Confidentiality of information.",
+      "number": "1751.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.521 - Medical information release.",
+      "number": "1751.521",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.521"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.53 - Continuing coverage after termination of employment.",
+      "number": "1751.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.54 - Continuing coverage after reservist called to duty.",
+      "number": "1751.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.55 - Effect of workers compensation coverage.",
+      "number": "1751.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.56 - Effect of supplemental sickness and accident insurance policy.",
+      "number": "1751.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.57 - Conditions applying to all individual health insuring corporation contracts.",
+      "number": "1751.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.58 - Conditions applying to all group health insuring corporation contracts sold in connection with employment-related group health care plan.",
+      "number": "1751.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.59 - Coverage of adopted children.",
+      "number": "1751.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.60 - Provider or facility limited to seek compensation for covered services solely from HIC.",
+      "number": "1751.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.61 - Coverage for newly born child.",
+      "number": "1751.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.62 - Screening mammography - cytologic screening for cervical cancer.",
+      "number": "1751.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.63 - Long-term care insurance.",
+      "number": "1751.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.65 - Health insuring corporation - prohibited activities.",
+      "number": "1751.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.66 - Prescription drugs.",
+      "number": "1751.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.67 - Maternity benefits.",
+      "number": "1751.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.67"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.68 - Provisions for medication synchronization for enrollees.",
+      "number": "1751.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.68"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.69 - Cancer chemotherapy; coverage for orally and intravenously administered treatments.",
+      "number": "1751.69",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.69"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.691 - Prior authorization requirements or other utilization review measures as conditions of providing coverage of an opioid analgesic.",
+      "number": "1751.691",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.691"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.70 - Authorization of payroll deductions for public employees.",
+      "number": "1751.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.71 - Accepting payments for cost of policies, contracts, and agreements.",
+      "number": "1751.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.72 - Policy, contract, or agreement containing a prior authorization requirement.",
+      "number": "1751.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.73 - Implementing quality assurance programs.",
+      "number": "1751.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.74 - Quality assurance program requirements.",
+      "number": "1751.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.74"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.75 - Determination that accreditation constitutes compliance.",
+      "number": "1751.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.77 - Utilization review, internal and external review procedure definitions.",
+      "number": "1751.77",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.77"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.78 - Application of provisions.",
+      "number": "1751.78",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.78"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.79 - Utilization review program requirements.",
+      "number": "1751.79",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.79"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.80 - Implementing utilization review programs.",
+      "number": "1751.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.80"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.81 - Maintaining written procedures for determining whether requested service is covered.",
+      "number": "1751.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.811 - Internal and external reviews.",
+      "number": "1751.811",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.811"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.82 - Reconsideration of adverse determination.",
+      "number": "1751.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.82"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.821 - Determination that accreditation constitutes compliance.",
+      "number": "1751.821",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.821"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.822 - Cooperation with utilization review program.",
+      "number": "1751.822",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.822"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.823 - Filing certificate of compliance.",
+      "number": "1751.823",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.823"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.83 - Maintaining internal review system.",
+      "number": "1751.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.83"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.84 - Coverage for autism spectrum disorder.",
+      "number": "1751.84",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.84"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.85 - Information for vision care services or materials.",
+      "number": "1751.85",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.85"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.86 - Violation deemed unfair and deceptive act or practice.",
+      "number": "1751.86",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.86"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.87 - Cause of action not created.",
+      "number": "1751.87",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.87"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.89 - Medicare and medicaid exceptions.",
+      "number": "1751.89",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.89"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.90 - Coverage for teledentistry.",
+      "number": "1751.90",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.90"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.91 - Reimbursement for pharmacists providing health care.",
+      "number": "1751.91",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.91"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1751.92 - Compliance cost-sharing provisions.",
+      "number": "1751.92",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.92"
+    }
+  ],
+  "scraped": "2026-07-02T19:39:28+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-1751",
+  "title": "Chapter 1751 - Health Insuring Corporation Law"
+}

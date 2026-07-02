@@ -1,0 +1,14 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-2151.12
+Scraped: 2026-07-02T19:41:58+00:00
+
+# Section 2151.12 - Clerk - bond - judge as clerk.
+
+**Effective:** March 20, 2019
+
+**Latest Legislation:** House Bill 291 - 132nd General Assembly
+
+(A) Except as otherwise provided in this division, whenever a court of common pleas, division of domestic relations, exercises the powers and jurisdictions conferred in Chapters 2151. and 2152. of the Revised Code, the judge or judges of that division or, if applicable, the judge of that division who specifically is designated by section 2301.03 of the Revised Code as being responsible for administering sections 2151.13 , 2151.16 , 2151.17 , 2151.18 , and 2152.71 of the Revised Code shall be the clerk of the court for all records filed with the court pursuant to Chapter 2151. or 2152. of the Revised Code or pursuant to any other section of the Revised Code that requires documents to be filed with a juvenile judge or a juvenile court. If, in a division of domestic relations of a court of common pleas that exercises the powers and jurisdiction conferred in Chapters 2151. and 2152. of the Revised Code, the judge of the division, both judges in a two-judge division, or a majority of the judges in a division with three or more judges and the clerk of the court of common pleas agree in an agreement that is signed by the agreeing judge or judges and the clerk and entered into formally in the journal of the court, the clerk of courts of common pleas shall keep the records filed with the court pursuant to Chapter 2151. or 2152. of the Revised Code or pursuant to any other section of the Revised Code that requires documents to be filed with a juvenile judge or a juvenile court.
+
+Whenever the juvenile judge, or a majority of the juvenile judges of a multi-judge juvenile division, of a court of common pleas, juvenile division, and the clerk of the court of common pleas agree in an agreement that is signed by the judge and the clerk and entered formally in the journal of the court, the clerks of courts of common pleas shall keep the records of those courts. In all other cases, the juvenile judge shall be the clerk of the judge's own court.
+
+(B) In counties in which the juvenile judge is clerk of the judge's own court, except as otherwise provided in section 3.061 of the Revised Code, before entering upon the duties of office as the clerk, the judge shall execute and file with the county treasurer a bond in a sum to be determined by the board of county commissioners, with sufficient surety to be approved by the board, conditioned for the faithful performance of duties as clerk. The bond shall be given for the benefit of the county, the state, or any person who may suffer loss by reason of a default in any of the conditions of the bond.

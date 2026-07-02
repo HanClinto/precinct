@@ -1,0 +1,78 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Brucellosis\" means a contagious or infectious disease of animals caused by brucella suis, brucella melitensis, or brucella abortus.",
+      "id": "941.21-brucellosis",
+      "normalized": "brucellosis",
+      "scope": "As used in sections 941.21 to 941.28 of the Revised Code:",
+      "section": "941.21",
+      "source_title": "Section 941.21 - Brucellosis definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-941.21",
+      "term": "Brucellosis"
+    },
+    {
+      "definition": "(B) \"Negative\" means any of the following:\n\n(1) Cattle, bison, and swine that are determined to be negative by tests conducted in accordance with methods and standards adopted by the animal and plant health inspection service, United States department of agriculture, in 9 C.F.R. 78.1 et seq., as amended, or that are reclassified as negative by a designated epidemiologist in accordance with rules adopted under section 941.22 of the Revised Code;\n\n(2) Animals other than cattle, bison, and swine, that are reclassified negative by a designated epidemiologist in accordance with rules adopted under section 941.22 of the Revised Code.",
+      "id": "941.21-negative",
+      "normalized": "negative",
+      "scope": "As used in sections 941.21 to 941.28 of the Revised Code:",
+      "section": "941.21",
+      "source_title": "Section 941.21 - Brucellosis definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-941.21",
+      "term": "Negative"
+    },
+    {
+      "definition": "(C) \"Positive\" or \"reactor\" means:\n\n(1) Cattle, bison, and swine that are determined to be positive by tests conducted in accordance with methods and standards adopted by the animal and plant health inspection service, United States department of agriculture, in 9 C.F.R. 78.1 et seq., as amended, that are cultured positive for brucella melitensis, brucella suis, or brucella abortus, except strain nineteen, or that are reclassified as positive by a designated epidemiologist in accordance with rules adopted under section 941.22 of the Revised Code;\n\n(2) Animals other than cattle, bison, and swine, that are reclassified positive or reactor by a designated epidemiologist in accordance with rules adopted under section 941.22 of the Revised Code.",
+      "id": "941.21-positive",
+      "normalized": "positive",
+      "scope": "As used in sections 941.21 to 941.28 of the Revised Code:",
+      "section": "941.21",
+      "source_title": "Section 941.21 - Brucellosis definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-941.21",
+      "term": "Positive"
+    },
+    {
+      "definition": "(C) \"Positive\" or \"reactor\" means:\n\n(1) Cattle, bison, and swine that are determined to be positive by tests conducted in accordance with methods and standards adopted by the animal and plant health inspection service, United States department of agriculture, in 9 C.F.R. 78.1 et seq., as amended, that are cultured positive for brucella melitensis, brucella suis, or brucella abortus, except strain nineteen, or that are reclassified as positive by a designated epidemiologist in accordance with rules adopted under section 941.22 of the Revised Code;\n\n(2) Animals other than cattle, bison, and swine, that are reclassified positive or reactor by a designated epidemiologist in accordance with rules adopted under section 941.22 of the Revised Code.",
+      "id": "941.21-reactor",
+      "normalized": "reactor",
+      "scope": "As used in sections 941.21 to 941.28 of the Revised Code:",
+      "section": "941.21",
+      "source_title": "Section 941.21 - Brucellosis definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-941.21",
+      "term": "reactor"
+    },
+    {
+      "definition": "(D) \"Suspect\" means:\n\n(1) Cattle, bison, and swine that are tested in accordance with methods and standards adopted by the animal and plant health inspection service, United States department of agriculture, in 9 C.F.R. 78.1 et seq., as amended, and are not classified as positive or negative;\n\n(2) Animals other than cattle, bison, and swine, that are reclassified suspect by a designated epidemiologist in accordance with rules adopted under section 941.22 of the Revised Code.",
+      "id": "941.21-suspect",
+      "normalized": "suspect",
+      "scope": "As used in sections 941.21 to 941.28 of the Revised Code:",
+      "section": "941.21",
+      "source_title": "Section 941.21 - Brucellosis definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-941.21",
+      "term": "Suspect"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "941.21",
+      "number": "941.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-941.21"
+    },
+    {
+      "kind": "section",
+      "label": "941.28",
+      "number": "941.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-941.28"
+    },
+    {
+      "kind": "section",
+      "label": "941.22",
+      "number": "941.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-941.22"
+    }
+  ],
+  "scraped": "2026-07-02T19:35:28+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-941.21",
+  "title": "Section 941.21 - Brucellosis definitions."
+}

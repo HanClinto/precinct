@@ -1,0 +1,52 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"General power of appointment\" means a power that is exercisable in favor of the individual possessing the power, the individual's estate, the individual's creditors, or the creditors of the individual's estate other than either of the following:\n\n(a) A power that is limited by an ascertainable standard as defined in section 5801.01 of the Revised Code;\n\n(b) A power of withdrawal held by an individual, but only to the extent that it does not exceed the amount specified in section 2041(b)(2) or 2514(e) of the \"Internal Revenue Code of 1986,\" 100 Stat. 2085, 26 U.S.C. 1 et seq., as amended.",
+      "id": "2131.09-general-power-of-appointment",
+      "normalized": "general power of appointment",
+      "scope": "",
+      "section": "2131.09",
+      "source_title": "Section 2131.09 - Exemption of certain trusts.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2131.09",
+      "term": "General power of appointment"
+    },
+    {
+      "definition": "(2) \"Nongeneral power of appointment\" means any power of appointment that is not a general power of appointment.\n\n(3) The \"date of creation\" of a nongeneral power of appointment created by the exercise of one or more powers of appointment, except by the exercise of a general power of appointment exercisable by deed, shall be the date of creation of the first of those powers of appointment to be exercised.",
+      "id": "2131.09-nongeneral-power-of-appointment",
+      "normalized": "nongeneral power of appointment",
+      "scope": "",
+      "section": "2131.09",
+      "source_title": "Section 2131.09 - Exemption of certain trusts.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2131.09",
+      "term": "Nongeneral power of appointment"
+    },
+    {
+      "definition": "(4) \"Exercisable by deed\" has the same meaning as in section 2131.08 of the Revised Code.\n\nLast updated March 3, 2023 at 1:59 PM",
+      "id": "2131.09-exercisable-by-deed",
+      "normalized": "exercisable by deed",
+      "scope": "",
+      "section": "2131.09",
+      "source_title": "Section 2131.09 - Exemption of certain trusts.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2131.09",
+      "term": "Exercisable by deed"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2131.08",
+      "number": "2131.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2131.08"
+    },
+    {
+      "kind": "section",
+      "label": "5801.01",
+      "number": "5801.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5801.01"
+    }
+  ],
+  "scraped": "2026-07-02T19:41:49+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2131.09",
+  "title": "Section 2131.09 - Exemption of certain trusts."
+}

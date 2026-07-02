@@ -1,0 +1,78 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Contractor\" means any person who undertakes to construct, alter, erect, improve, repair, demolish, remove, dig, or drill any part of a structure or improvement under a contract with an owner, a \"construction manager\" or \"construction manager at risk\" as those terms are defined in section 9.33 of the Revised Code, or a \"design-build firm\" as that term is defined in section 153.65 of the Revised Code.\n\n(2) \"Laborer,\" \"material supplier,\" \"subcontractor,\" and \"wages\" have the same meanings as in section 1311.01 of the Revised Code.",
+      "id": "4113.61-contractor",
+      "normalized": "contractor",
+      "scope": "(F) As used in this section:",
+      "section": "4113.61",
+      "source_title": "Section 4113.61 - Time limitations for payments to subcontractors and materialmen.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4113.61",
+      "term": "Contractor"
+    },
+    {
+      "definition": "(3) \"Lower tier subcontractor\" means a subcontractor who is not in privity of contract with a contractor but is in privity of contract with another subcontractor.",
+      "id": "4113.61-lower-tier-subcontractor",
+      "normalized": "lower tier subcontractor",
+      "scope": "(F) As used in this section:",
+      "section": "4113.61",
+      "source_title": "Section 4113.61 - Time limitations for payments to subcontractors and materialmen.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4113.61",
+      "term": "Lower tier subcontractor"
+    },
+    {
+      "definition": "(4) \"Lower tier material supplier\" means a material supplier who is not in privity of contract with a contractor but is in privity of contract with another subcontractor or a material supplier.",
+      "id": "4113.61-lower-tier-material-supplier",
+      "normalized": "lower tier material supplier",
+      "scope": "(F) As used in this section:",
+      "section": "4113.61",
+      "source_title": "Section 4113.61 - Time limitations for payments to subcontractors and materialmen.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4113.61",
+      "term": "Lower tier material supplier"
+    },
+    {
+      "definition": "(5) \"Wages due\" means the wages due to a laborer as of the date a contractor or subcontractor receives payment for any application or request for payment or retainage from any owner, contractor, or subcontractor.",
+      "id": "4113.61-wages-due",
+      "normalized": "wages due",
+      "scope": "(F) As used in this section:",
+      "section": "4113.61",
+      "source_title": "Section 4113.61 - Time limitations for payments to subcontractors and materialmen.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4113.61",
+      "term": "Wages due"
+    },
+    {
+      "definition": "(6) \"Owner\" includes the state, and a county, township, municipal corporation, school district, or other political subdivision of the state, and any public agency, authority, board, commission, instrumentality, or special district of or in the state or a county, township, municipal corporation, school district, or other political subdivision of the state, and any officer or agent thereof and relates to all the interests either legal or equitable, which a person may have in the real estate upon which improvements are made, including interests held by any person under contracts of purchase, whether in writing or otherwise.",
+      "id": "4113.61-owner",
+      "normalized": "owner",
+      "scope": "(F) As used in this section:",
+      "section": "4113.61",
+      "source_title": "Section 4113.61 - Time limitations for payments to subcontractors and materialmen.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4113.61",
+      "term": "Owner"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "9.33",
+      "number": "9.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-9.33"
+    },
+    {
+      "kind": "section",
+      "label": "153.65",
+      "number": "153.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.65"
+    },
+    {
+      "kind": "section",
+      "label": "1311.01",
+      "number": "1311.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.01"
+    }
+  ],
+  "scraped": "2026-07-02T20:04:06+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4113.61",
+  "title": "Section 4113.61 - Time limitations for payments to subcontractors and materialmen."
+}

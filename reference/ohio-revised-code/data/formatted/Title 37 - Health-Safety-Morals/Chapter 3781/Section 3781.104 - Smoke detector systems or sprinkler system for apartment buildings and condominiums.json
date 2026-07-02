@@ -1,0 +1,58 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Smoke detector\" means a readily removable device, sensitive to either visible or invisible particles of combustion or both, which automatically detects any fire condition and broadcasts locally a signal or alarm.",
+      "id": "3781.104-smoke-detector",
+      "normalized": "smoke detector",
+      "scope": "(B) As used in this section:",
+      "section": "3781.104",
+      "source_title": "Section 3781.104 - Smoke detector systems or sprinkler system for apartment buildings and condominiums.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3781.104",
+      "term": "Smoke detector"
+    },
+    {
+      "definition": "(2) \"Apartment building\" means any building at least seventy-five per cent of the units of which are residential dwelling units rented or leased to tenants upon other than a transient basis and does not include a \"hotel\" as that term is defined in section 3731.01 of the Revised Code but does include a college or university dormitory.",
+      "id": "3781.104-apartment-building",
+      "normalized": "apartment building",
+      "scope": "(B) As used in this section:",
+      "section": "3781.104",
+      "source_title": "Section 3781.104 - Smoke detector systems or sprinkler system for apartment buildings and condominiums.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3781.104",
+      "term": "Apartment building"
+    },
+    {
+      "definition": "(3) \"Condominium\" means any building composed of individually owned units and operated by an association of owners.\n\n(C) The board of building standards, pursuant to section 3781.10 of the Revised Code, shall adopt the provisions of this section as a rule of the board.",
+      "id": "3781.104-condominium",
+      "normalized": "condominium",
+      "scope": "(B) As used in this section:",
+      "section": "3781.104",
+      "source_title": "Section 3781.104 - Smoke detector systems or sprinkler system for apartment buildings and condominiums.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3781.104",
+      "term": "Condominium"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "119.04",
+      "number": "119.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-119.04"
+    },
+    {
+      "kind": "section",
+      "label": "3781.10",
+      "number": "3781.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.10"
+    },
+    {
+      "kind": "section",
+      "label": "3731.01",
+      "number": "3731.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3731.01"
+    }
+  ],
+  "scraped": "2026-07-02T20:01:40+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3781.104",
+  "title": "Section 3781.104 - Smoke detector systems or sprinkler system for apartment buildings and condominiums."
+}

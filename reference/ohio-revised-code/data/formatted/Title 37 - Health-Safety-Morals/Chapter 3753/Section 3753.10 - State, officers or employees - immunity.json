@@ -1,0 +1,42 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Harm\" means injury to, death of, or loss to person or property.",
+      "id": "3753.10-harm",
+      "normalized": "harm",
+      "scope": "(A) As used in this section:",
+      "section": "3753.10",
+      "source_title": "Section 3753.10 - State, officers or employees - immunity.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3753.10",
+      "term": "Harm"
+    },
+    {
+      "definition": "(2) \"Tort action\" means a civil action for damages for harm, but does not include a civil action for damages for a breach of contract or other agreement between persons or for a breach of a warranty that exists pursuant to the Revised Code or the common law of this state.\n\n(B) The state, and any officer or employee of the state as defined in section 109.36 of the Revised Code, is not liable in a tort action when the state inspects, investigates, reviews, or accepts a risk management plan from an owner or operator who is subject to this chapter unless an action or omission of the state, or of an officer or employee of the state, constitutes willful or wanton misconduct or intentionally tortious conduct. Any action brought against the state under this division shall be brought in the court of claims.\n\n(C)(1) This section does not create, and shall not be construed as creating, a new cause of action against or substantive legal right against the state or an officer or employee of the state.\n\n(2) This section does not affect, and shall not be construed as affecting, any immunities from civil liability or defenses established by the Revised Code, the United States Constitution, or the Ohio Constitution or available at common law to which this state, or an officer or employee of the state, may be entitled under circumstances not covered by this section.\n\n(3) Section 9.86 of the Revised Code does not apply to an officer or employee of the state if the officer or employee is performing work in connection with inspecting, investigating, reviewing, or accepting a risk management plan from an owner or operator who is subject to this chapter at the time that the officer or employee allegedly caused the harm or caused or contributed to the presence or release of toxic or flammable substances for which damages are sought in a tort action. In that case, the immunities conferred by division (B) of this section apply to that individual.",
+      "id": "3753.10-tort-action",
+      "normalized": "tort action",
+      "scope": "(A) As used in this section:",
+      "section": "3753.10",
+      "source_title": "Section 3753.10 - State, officers or employees - immunity.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3753.10",
+      "term": "Tort action"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "109.36",
+      "number": "109.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.36"
+    },
+    {
+      "kind": "section",
+      "label": "9.86",
+      "number": "9.86",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-9.86"
+    }
+  ],
+  "scraped": "2026-07-02T20:01:14+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3753.10",
+  "title": "Section 3753.10 - State, officers or employees - immunity."
+}

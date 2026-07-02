@@ -1,0 +1,12 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4928.11
+Scraped: 2026-07-02T20:09:26+00:00
+
+# Section 4928.11 - Minimum service requirements for noncompetitive services.
+
+**Effective:** October 5, 1999
+
+**Latest Legislation:** Senate Bill 3 - 123rd General Assembly
+
+(A) For the protection of consumers in this state, the public utilities commission shall adopt rules under division (A) of section 4928.06 of the Revised Code that specify minimum service quality, safety, and reliability requirements for noncompetitive retail electric services supplied by an electric utility in this state, to the extent such authority is not preempted by federal law. The rules shall include prescriptive standards for inspection, maintenance, repair, and replacement of the transmission and distribution systems of electric utilities; shall apply to each substantial type of transmission or distribution equipment or facility; shall establish uniform interconnection standards to ensure transmission and distribution system safety and reliability and shall otherwise provide for high quality, safe, and reliable electric service; shall include standards for operation, reliability, and safety during periods of emergency and disaster; and shall include voltage standards for efficient operation of single-phase motors. The rules regarding interconnection shall seek to prevent barriers to new technology and shall not make compliance unduly burdensome or expensive. When questions arise about specific equipment to meet interconnection standards, the commission shall initiate proceedings open to the public to solicit comments from all interested parties. Additionally, rules under this division shall include nondiscriminatory metering standards.
+
+(B) The commission shall require each electric utility to report annually to the commission on and after the starting date of competitive retail electric service, regarding its compliance with the rules required under division (A) of this section. The commission shall make the filed reports available to the public. Periodically as determined by commission rule under division (A) of section 4928.06 of the Revised Code and in a proceeding initiated under division (B) of section 4928.16 of the Revised Code, the commission shall review a utility's report to determine the utility's compliance and may act pursuant to division (B) of section 4928.16 of the Revised Code to enforce compliance.

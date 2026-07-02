@@ -1,0 +1,32 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5709.916
+Scraped: 2026-07-02T20:14:27+00:00
+
+# Section 5709.916 - Concurrent municipal tax increment financing exemptions.
+
+**Effective:** July 18, 2022
+
+**Latest Legislation:** House Bill 95 - 134th General Assembly
+
+(A) As used in this section, "incentive district ordinance" means an ordinance adopted under division (C) of section 5709.40 of the Revised Code.
+
+(B) Notwithstanding any contrary provision of section 5709.40 , 5709.41 , 5709.42 , 5709.43 , or 5709.911 of the Revised Code, divisions (C) and (D) of this section apply to any exemption granted by a municipal corporation by an ordinance adopted under division (B) of section 5709.40 or section 5709.41 of the Revised Code before March 1, 2022, declaring improvements to one or more parcels of real property located within an existing incentive district, created by an incentive district ordinance adopted by the same municipal corporation, to be a public purpose and concurrently exempting a percentage of such improvements from real property taxation.
+
+(C) For the period that the exemptions are concurrent under division (B) of this section:
+
+(1) With respect to improvements exempted under only the incentive district ordinance, the exemption percentage, any payments required to a city, local, or exempted village school district or county, and the purposes for which the remaining service payment revenue is used shall be determined based on that ordinance.
+
+(2) With respect to improvements that are concurrently exempt under both the incentive district ordinance and the subsequent ordinance adopted as specified under division (B) of this section, the exemption percentage equals the sum of the exemption percentages authorized by each such ordinance, not to exceed one hundred per cent. Service payments shall be collected under section 5709.42 of the Revised Code based on that cumulative exemption percentage. The service payment revenue, net of any required payments to city, local, or exempted village school districts or counties, shall first be directed and used in accordance with the ordinance that authorizes the dominant exemption, as determined under division (D) of this section. If the dominant exemption is less than one hundred per cent, the service payment revenue attributed to the remaining portion of the exempt improvements shall be distributed and used in accordance with the ordinance that authorizes the subordinate exemption, as determined under division (D) of this section.
+
+(3) The property owner shall not be required to pay as service payments in lieu of taxes under section 5709.42 of the Revised Code an amount that is greater than the amount of real property taxes the owner would have been required to pay on the improvements exempted by the incentive district ordinance and the subsequent ordinance adopted as specified under division (B) of this section. Division (C)(3) of this section does not apply to "minimum service payment obligations," as defined in section 5709.91 of the Revised Code.
+
+(D) For purposes of division (C) of this section:
+
+(1) If one application for exemption is filed by the municipal corporation, as described in division (A) of section 5709.911 of the Revised Code, without written consent of the property owner and the other application for exemption is filed by the property owner or with the property owner's consent, as described in division (B)(1) or (2) of section 5709.911 of the Revised Code, the exemption granted or sought in the application filed or consented to by the owner is dominant, and the exemption granted or sought in the application filed by the municipal corporation without the owner's consent is subordinate.
+
+(2) If both applications for exemption are filed by the municipal corporation, as described in division (A) of section 5709.911 of the Revised Code, without written consent of the property owner, the most recently authorized exemption is dominant, and the earlier authorized exemption is subordinate.
+
+(3) If both applications for exemption are filed by the property owner or with the property owner's consent, as described in division (B)(1) or (2) of section 5709.911 of the Revised Code, the most recently authorized exemption is dominant, and the earlier authorized exemption is subordinate.
+
+(E) On and after March 1, 2022, an ordinance adopted under division (B) or (C) of section 5709.40 or section 5709.41 of the Revised Code exempting improvements to a parcel from real property taxation terminates and replaces any prior exemption of improvements to the same parcel authorized by a previous ordinance adopted by the same municipal corporation under division (B) or (C) of section 5709.40 or section 5709.41 of the Revised Code, regardless of whether the application for exemption under either or both ordinances was filed by, or with the consent of, the property owner. A municipal ordinance adopted under division (B) or (C) of section 5709.40 or section 5709.41 of the Revised Code before that date may terminate and replace a prior exemption of improvements to the same parcel by the same municipal corporation in the manner prescribed by this division if the ordinance clearly expresses that intent.
+
+Last updated May 11, 2022 at 2:51 PM

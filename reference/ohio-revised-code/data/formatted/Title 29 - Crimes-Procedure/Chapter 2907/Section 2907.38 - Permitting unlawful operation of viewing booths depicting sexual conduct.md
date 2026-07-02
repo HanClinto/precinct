@@ -1,0 +1,32 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-2907.38
+Scraped: 2026-07-02T19:46:04+00:00
+
+# Section 2907.38 - Permitting unlawful operation of viewing booths depicting sexual conduct.
+
+**Effective:** August 17, 2006
+
+**Latest Legislation:** House Bill 23 - 126th General Assembly
+
+(A) As used in this section:
+
+(1) "Commercial establishment" means an entity that is open to the public and to which either of the following applies:
+
+(a) It has a substantial or significant portion of its stock in trade of the sale, rental, or viewing of visual materials or performances depicting sexual conduct.
+
+(b) It has as a principal business purpose the sale, rental, or viewing of visual materials or performances depicting sexual conduct.
+
+(2) "Visual materials or performances" means films, videos, CD-ROM discs, streaming video, or other motion pictures.
+
+(B) No person who has custody, control, or supervision of a commercial establishment, with knowledge of the character of the visual material or performance involved, shall knowingly permit the use of, or offer the use of, viewing booths, stalls, or partitioned portions of a room located in the commercial establishment for the purpose of viewing visual materials or performances depicting sexual conduct unless both of the following apply:
+
+(1) The inside of each booth, stall, or partitioned room is visible from, and at least one side of each booth, stall, or partitioned room is open to, a continuous and contiguous main aisle or hallway that is open to the public areas of the commercial establishment and is not obscured by any curtain, door, or other covering or enclosure.
+
+(2) No booth, stall, or partitioned room is designed, constructed, pandered, or allowed to be used for the purpose of encouraging or facilitating nudity or sexual activity on the part of or between patrons or members of the public, and no booth, stall, or partitioned room has any aperture, hole, or opening for the purpose of encouraging or facilitating nudity or sexual activity.
+
+(C) It is an affirmative defense to a charge under this section that either of the following applies to the involved visual materials or performances:
+
+(1) The visual materials or performances depicting sexual conduct are disseminated or presented for a bona fide medical, scientific, educational, religious, governmental, judicial, or other proper purpose and by or to a physician, psychologist, sociologist, scientist, teacher, person pursuing bona fide studies or research, librarian, member of the clergy, prosecutor, judge, or other person having a proper interest in the visual materials or performances.
+
+(2) The visual materials or performances depicting sexual conduct, taken as a whole, would be found by a reasonable person to have serious literary, artistic, political, or scientific value or are presented or disseminated in good faith for a serious literary, artistic, political, or scientific purpose and are not pandered for their prurient appeal.
+
+(D) Whoever violates this section is guilty of permitting unlawful operation of viewing booths depicting sexual conduct, a misdemeanor of the first degree.

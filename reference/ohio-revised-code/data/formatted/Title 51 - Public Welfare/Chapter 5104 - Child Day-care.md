@@ -1,0 +1,76 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-5104
+Scraped: 2026-07-02T20:10:27+00:00
+
+# Chapter 5104 - Child Day-care
+
+## Sections
+
+- Section 5104.01 - Child care definitions.
+- Section 5104.013 - Criminal records checks.
+- Section 5104.014 - Medical statement of immunization.
+- Section 5104.015 - Adoption of rules.
+- Section 5104.016 - Rules establishing minimum requirements for child care centers.
+- Section 5104.017 - Adoption of rules governing the operation of type A family child care homes.
+- Section 5104.018 - Adoption of rules governing the licensure of type B family child care homes.
+- Section 5104.019 - Adoption of rules governing the certification of in-home aides.
+- Section 5104.0110 - Rules requiring a physical examination.
+- Section 5104.0111 - Director of job and family services; duties.
+- Section 5104.0112 - Regulation of instruction in religious or moral doctrines, beliefs, or values prohibited.
+- Section 5104.02 - License required.
+- Section 5104.021 - Exemption of youth development programs.
+- Section 5104.022 - Licensing of foster homes as family child care homes.
+- Section 5104.03 - Application for and renewal of license.
+- Section 5104.032 - Physical space requirements for child care centers.
+- Section 5104.033 - Staff to child ratios.
+- Section 5104.034 - Trained staff required on premises.
+- Section 5104.037 - Tuberculosis screening, testing of prospective employees.
+- Section 5104.038 - Enrollment, health, and attendance records.
+- Section 5104.039 - Access to centers for parents or guardians.
+- Section 5104.04 - Investigating, inspecting, and licensing procedures established.
+- Section 5104.041 - Type A and B family child care home requirements.
+- Section 5104.042 - Suspension of child care center and home licenses without hearing.
+- Section 5104.043 - Determination of serious risk of noncompliance; notice.
+- Section 5104.05 - Requirements for building, fire prevention, and food service.
+- Section 5104.051 - Responsibility for inspections.
+- Section 5104.052 - Fire prevention and fire safety in licensed type B family child care homes.
+- Section 5104.053 - Inspecting unlicensed type B homes.
+- Section 5104.054 - Zoning for type B family child care home.
+- Section 5104.06 - Providing consultation and technical assistance.
+- Section 5104.07 - Additional requirements for licensing child care centers or type A family child care homes that provide publicly funded child care.
+- Section 5104.081 - Management of child care functions.
+- Section 5104.09 - Discrimination prohibited.
+- Section 5104.10 - Whistleblower protection.
+- Section 5104.12 - Certification of in-home aides to provide publicly funded child care.
+- Section 5104.13 - Publishing state statutes and rules governing certification of type B family child care homes.
+- Section 5104.14 - Readability of materials.
+- Section 5104.21 - Child day camp registration.
+- Section 5104.211 - Random sampling of child day camps to determine compliance with background checks.
+- Section 5104.22 - Enabling approved child day camp to receive public moneys.
+- Section 5104.25 - Prohibiting smoking.
+- Section 5104.29 - Step up to quality program.
+- Section 5104.291 - Early learning and development program ratings.
+- Section 5104.30 - Administration and coordination of federal and state funding for publicly funded child care.
+- Section 5104.301 - Parent cooperative child care centers and parent cooperative type A family child care homes.
+- Section 5104.302 - Analysis of child care price information.
+- Section 5104.31 - Eligible providers of services for publicly funded child care.
+- Section 5104.32 - Provider contracts.
+- Section 5104.33 - Forms for eligibility determinations for publicly funded child care.
+- Section 5104.34 - Determination of eligibility.
+- Section 5104.341 - Validity of determination of eligibility.
+- Section 5104.35 - County department of job and family services - powers and duties.
+- Section 5104.36 - Record for each eligible child.
+- Section 5104.37 - Activities to assist families and family child care homes; reports.
+- Section 5104.38 - Rules governing financial and administrative requirements for publicly funded child day-care.
+- Section 5104.382 - No contracts to person against whom finding for recovery has been issued.
+- Section 5104.39 - Monitoring present and anticipated future expenditures for publicly funded child day-care.
+- Section 5104.40 - Implementation of rules.
+- Section 5104.41 - Homeless child care.
+- Section 5104.42 - Payment procedure for publicly funded child care.
+- Section 5104.43 - Deposits into public assistance fund.
+- Section 5104.44 - Effect of child support default on license or certificate.
+- Section 5104.51 - Preschool program licensing.
+- Section 5104.52 - Kindergarten readiness assessment.
+- Section 5104.53 - Early childhood education grant program.
+- Section 5104.54 - Child care cred program.
+- Section 5104.60 - Ohio professional registry.
+- Section 5104.99 - Penalty.

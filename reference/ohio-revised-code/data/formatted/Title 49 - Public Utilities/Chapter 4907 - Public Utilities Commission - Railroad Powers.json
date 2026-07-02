@@ -1,0 +1,429 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 4907.01 - Definitions.",
+      "number": "4907.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.02 - Railroad defined.",
+      "number": "4907.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.03 - Regulation of service.",
+      "number": "4907.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.04 - Exception.",
+      "number": "4907.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.05 - Power to confer with commissioners of other states.",
+      "number": "4907.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.06 - Commission may inquire into management of railroads.",
+      "number": "4907.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.07 - Investigation into violations of the interstate commerce law.",
+      "number": "4907.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.08 - Commission to inquire into neglect or violations of laws.",
+      "number": "4907.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.09 - Power of commission to regulate in cases not designated.",
+      "number": "4907.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.10 - Commission may make examinations.",
+      "number": "4907.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.11 - Commission may require production of books and papers.",
+      "number": "4907.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.12 - Forfeiture for refusal to comply with subpoena.",
+      "number": "4907.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.13 - Annual statement under oath to commission.",
+      "number": "4907.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.14 - List of officers and directors.",
+      "number": "4907.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.15 - Map and profile of new railroad.",
+      "number": "4907.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.16 - Commission shall be furnished copies of certain leases, contracts, and agreements.",
+      "number": "4907.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.17 - Report of free transportation.",
+      "number": "4907.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.18 - Commission may demand copies of transportation contracts.",
+      "number": "4907.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.19 - Commission shall prepare blank forms for railroad.",
+      "number": "4907.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.20 - Forms - completion and verification.",
+      "number": "4907.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.21 - Refusal to fill blank forms.",
+      "number": "4907.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.22 - Prohibition against directing violation.",
+      "number": "4907.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.23 - Duty of railroad to report certain accidents.",
+      "number": "4907.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.24 - Adequate service and facilities.",
+      "number": "4907.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.25 - Railroad shall file schedules.",
+      "number": "4907.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.26 - Schedules of joint rates.",
+      "number": "4907.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.27 - Changes in schedules.",
+      "number": "4907.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.28 - Charges shall conform to schedule.",
+      "number": "4907.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.29 - Commission shall prescribe forms.",
+      "number": "4907.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.30 - Free transportation prohibited - exceptions.",
+      "number": "4907.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.31 - Passes may be interchanged.",
+      "number": "4907.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.32 - Prohibition.",
+      "number": "4907.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.33 - Uniform classification of freight.",
+      "number": "4907.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.34 - Exceptions as to freight rates.",
+      "number": "4907.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.35 - Unjust discrimination - forfeiture.",
+      "number": "4907.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.36 - Illegal concessions.",
+      "number": "4907.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.37 - Unlawful preference.",
+      "number": "4907.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.38 - Rebate or concessions prohibited.",
+      "number": "4907.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.39 - Depots, switches, and sidetracks.",
+      "number": "4907.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.40 - Control over private tracks.",
+      "number": "4907.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.41 - Supply of cars.",
+      "number": "4907.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.42 - Interchange of traffic.",
+      "number": "4907.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.43 - Railroad track connection.",
+      "number": "4907.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.44 - Duty of commission as to dangerous structures.",
+      "number": "4907.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.45 - Repair of defective track.",
+      "number": "4907.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.46 - Forfeiture in case of noncompliance.",
+      "number": "4907.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.47 - Installing crossing signals.",
+      "number": "4907.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.471 - Surveys determining probability of accident at crossing.",
+      "number": "4907.471",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.471"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.472 - Grade crossing protection fund.",
+      "number": "4907.472",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.472"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.473 - Removing or defacing protective device prohibited.",
+      "number": "4907.473",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.473"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.474 - Closing crossings to vehicular traffic.",
+      "number": "4907.474",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.474"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.475 - Closing rural crossings.",
+      "number": "4907.475",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.475"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.476 - Use of federal funds.",
+      "number": "4907.476",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.476"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.48 - Regulation of crossing signals.",
+      "number": "4907.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.49 - Dangerous crossings.",
+      "number": "4907.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.50 - Engines or trains may pass crossings without stopping.",
+      "number": "4907.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.51 - Unsafe interlocking works or fixtures.",
+      "number": "4907.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.52 - Safety devices at grade crossings.",
+      "number": "4907.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.53 - Hearing as to necessity of safety device.",
+      "number": "4907.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.54 - Compulsory interlocking.",
+      "number": "4907.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.55 - Crossing without stopping.",
+      "number": "4907.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.56 - Forfeiture for noncompliance with order.",
+      "number": "4907.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.57 - Damage claims.",
+      "number": "4907.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.58 - Immediate trial.",
+      "number": "4907.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.59 - Counsel for commission.",
+      "number": "4907.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.60 - Forfeiture for violation.",
+      "number": "4907.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.61 - Venue of forfeiture action by attorney general.",
+      "number": "4907.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.62 - Punitive damages.",
+      "number": "4907.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.63 - Violation.",
+      "number": "4907.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4907.99 - Penalty.",
+      "number": "4907.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4907.99"
+    }
+  ],
+  "scraped": "2026-07-02T20:09:05+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-4907",
+  "title": "Chapter 4907 - Public Utilities Commission - Railroad Powers"
+}

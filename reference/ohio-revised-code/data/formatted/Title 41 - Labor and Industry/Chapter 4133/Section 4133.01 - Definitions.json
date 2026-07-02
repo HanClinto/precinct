@@ -1,0 +1,76 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Alternate employer organization\" means a sole proprietor, partnership, association, limited liability company, or corporation that enters into an agreement with one or more client employers for purposes of providing human resource management services and sharing employer responsibility and liability.",
+      "id": "4133.01-alternate-employer-organization",
+      "normalized": "alternate employer organization",
+      "scope": "As used in this chapter:",
+      "section": "4133.01",
+      "source_title": "Section 4133.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4133.01",
+      "term": "Alternate employer organization"
+    },
+    {
+      "definition": "(B) \"Alternate employer organization agreement\" means a written contract between a client employer and an alternate employer organization to provide human resource management services and to share employer responsibilities and liabilities.",
+      "id": "4133.01-alternate-employer-organization-agreement",
+      "normalized": "alternate employer organization agreement",
+      "scope": "As used in this chapter:",
+      "section": "4133.01",
+      "source_title": "Section 4133.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4133.01",
+      "term": "Alternate employer organization agreement"
+    },
+    {
+      "definition": "(C) \"Client employer\" means a sole proprietor, partnership, association, limited liability company, or corporation that enters into an alternate employer organization agreement and shares employer responsibility and liability with the alternate employer organization.",
+      "id": "4133.01-client-employer",
+      "normalized": "client employer",
+      "scope": "As used in this chapter:",
+      "section": "4133.01",
+      "source_title": "Section 4133.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4133.01",
+      "term": "Client employer"
+    },
+    {
+      "definition": "(D) \"Trade secret\" has the same meaning as in section 1333.61 of the Revised Code.",
+      "id": "4133.01-trade-secret",
+      "normalized": "trade secret",
+      "scope": "As used in this chapter:",
+      "section": "4133.01",
+      "source_title": "Section 4133.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4133.01",
+      "term": "Trade secret"
+    },
+    {
+      "definition": "(E) \"Working capital\" means the excess of current assets over current liabilities as determined by generally accepted accounting principles.",
+      "id": "4133.01-working-capital",
+      "normalized": "working capital",
+      "scope": "As used in this chapter:",
+      "section": "4133.01",
+      "source_title": "Section 4133.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4133.01",
+      "term": "Working capital"
+    },
+    {
+      "definition": "(F) \"Worksite employee\" means an individual assigned to a client employer on a permanent basis, not as a temporary supplement to the client employer's workforce, and who is employed by both an alternate employer organization and a client employer pursuant to an alternate employer organization agreement.",
+      "id": "4133.01-worksite-employee",
+      "normalized": "worksite employee",
+      "scope": "As used in this chapter:",
+      "section": "4133.01",
+      "source_title": "Section 4133.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4133.01",
+      "term": "Worksite employee"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "1333.61",
+      "number": "1333.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.61"
+    }
+  ],
+  "scraped": "2026-07-02T20:04:27+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4133.01",
+  "title": "Section 4133.01 - Definitions."
+}

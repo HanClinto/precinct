@@ -1,0 +1,1383 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 307.01 - County buildings, offices, equipment.",
+      "number": "307.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.02 - Methods for providing county facilities.",
+      "number": "307.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.021 - Public purpose and function to provide capital facilities for jails, workhouses or community-based corrections.",
+      "number": "307.021",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.021"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.022 - Lease, easement, license or sale in connection with correctional facility without competitive bidding.",
+      "number": "307.022",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.022"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.023 - Contract for acquisition or use of sports facilities.",
+      "number": "307.023",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.023"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.03 - Use of county buildings for public library.",
+      "number": "307.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.04 - Light, heat, and power contracts.",
+      "number": "307.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.041 - Contracts to analyze reducing energy consumption in buildings owned by county.",
+      "number": "307.041",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.041"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.042 - Contracts to regulate utility rates of users of municipal utility.",
+      "number": "307.042",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.042"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.05 - Ambulance, emergency medical and nonemergency patient transport service organizations.",
+      "number": "307.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.051 - County emergency medical, fire and transportation service organization regulated by state board.",
+      "number": "307.051",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.051"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.052 - Creating joint emergency medical services district.",
+      "number": "307.052",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.052"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.053 - Members of board of trustees.",
+      "number": "307.053",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.053"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.054 - Executive director duties - employees.",
+      "number": "307.054",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.054"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.055 - Furnishing ambulance and emergency medical services.",
+      "number": "307.055",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.055"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.056 - Powers of board of trustees.",
+      "number": "307.056",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.056"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.057 - Levying taxes - issuing bonds.",
+      "number": "307.057",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.057"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.058 - Joint ambulance district or county may join joint emergency medical services district.",
+      "number": "307.058",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.058"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.06 - Board of county commissioners may employ land appraisers.",
+      "number": "307.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.07 - Office of economic development.",
+      "number": "307.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.08 - Appropriation of lands.",
+      "number": "307.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.081 - Purchase or appropriation of real property for redevelopment.",
+      "number": "307.081",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.081"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.082 - Agreements to provide for construction or repair of public infrastructure improvements.",
+      "number": "307.082",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.082"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.083 - Method for purchasing real estate at public auction.",
+      "number": "307.083",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.083"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.084 - Purchase or appropriation of real property for state or federal correctional facility.",
+      "number": "307.084",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.084"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.09 - Sale, lease, or rent of county real estate - proceeds.",
+      "number": "307.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.091 - Sale of county medical facility to state medical school or college.",
+      "number": "307.091",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.091"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.092 - Sale, lease, or transfer of county property to nonprofit senior citizens organizations.",
+      "number": "307.092",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.092"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.10 - Procedure for sale, lease, transfer or granting of rights in real property.",
+      "number": "307.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.11 - Board of county commissioners may execute leases of mineral lands.",
+      "number": "307.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.12 - Resolution for disposal of unneeded, obsolete or unfit personal property.",
+      "number": "307.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.13 - Contracting for services of electrical safety inspector.",
+      "number": "307.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.14 - Legislative authority and contracting subdivision definitions.",
+      "number": "307.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.15 - Contracts with other governmental entities.",
+      "number": "307.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.151 - Agreement with municipalities for control of air and water pollution.",
+      "number": "307.151",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.151"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.152 - Agreements with planning commission for comprehensive transportation and land use studies.",
+      "number": "307.152",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.152"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.153 - Agreements with board of health.",
+      "number": "307.153",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.153"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.16 - Agreement to provide method of payment.",
+      "number": "307.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.17 - Duration of agreement - rescission.",
+      "number": "307.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.18 - Transfer of property to county commissioners.",
+      "number": "307.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.19 - Application of sections.",
+      "number": "307.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.20 - Powers over air navigation facilities.",
+      "number": "307.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.201 - Acquisition and operation of subway transportation system.",
+      "number": "307.201",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.201"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.202 - Development of rail property and rail service.",
+      "number": "307.202",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.202"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.203 - Appropriating moneys for railroad grade crossing improvement fund.",
+      "number": "307.203",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.203"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.204 - Procedure concerning construction or expansion of concentrated animal feeding facility.",
+      "number": "307.204",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.204"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.21 - Bequests for war memorial.",
+      "number": "307.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.22 - Bequests for educational purposes.",
+      "number": "307.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.23 - Historical society appropriations.",
+      "number": "307.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.24 - Itemized account.",
+      "number": "307.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.25 - Distribution of books.",
+      "number": "307.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.26 - Organization and maintenance of civic and social centers.",
+      "number": "307.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.27 - Contributions to soil conservation districts.",
+      "number": "307.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.28 - Grant of use of land in parks for art buildings.",
+      "number": "307.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.281 - Contributions for park projects.",
+      "number": "307.281",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.281"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.282 - Creating community improvements board.",
+      "number": "307.282",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.282"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.283 - Community improvements board; powers and duties.",
+      "number": "307.283",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.283"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.284 - Issuing bonds to make grants in excess of community improvement fund.",
+      "number": "307.284",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.284"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.29 - County may lease to municipal corporation.",
+      "number": "307.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.30 - Annual report.",
+      "number": "307.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.31 - Order for survey of county lines.",
+      "number": "307.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.32 - Notice to board of county commissioners of county affected.",
+      "number": "307.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.33 - Return of survey.",
+      "number": "307.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.34 - Action to establish lines between counties.",
+      "number": "307.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.35 - Decree as to taxes collected.",
+      "number": "307.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.36 - Corners of originally surveyed townships.",
+      "number": "307.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.37 - Adoption of county building code.",
+      "number": "307.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.38 - County building inspector - duties.",
+      "number": "307.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.381 - Establishing county board of building appeals.",
+      "number": "307.381",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.381"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.39 - Publication of building regulations.",
+      "number": "307.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.40 - Injunction.",
+      "number": "307.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.41 - Purchase or lease of motor vehicles.",
+      "number": "307.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.42 - Use of vehicles to be regulated.",
+      "number": "307.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.43 - Use of county vehicle except for official business prohibited.",
+      "number": "307.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.44 - Liability insurance for motor vehicles owned by county.",
+      "number": "307.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.441 - Errors and omissions insurance for officers, employees and judges.",
+      "number": "307.441",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.441"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.45 - Using property tax levied for criminal justice services.",
+      "number": "307.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.46 - Expenses of arrest - payment.",
+      "number": "307.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.47 - Relief for persons injured in automobiles commandeered by police officer.",
+      "number": "307.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.48 - Proof of validity of claim.",
+      "number": "307.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.49 - Reward for apprehension of criminals.",
+      "number": "307.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.50 - Expenses of pursuit and return of felon.",
+      "number": "307.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.51 - County law library resources board.",
+      "number": "307.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.511 - Law library resources board members.",
+      "number": "307.511",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.511"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.512 - Law library resources board meetings.",
+      "number": "307.512",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.512"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.513 - Annual board budget - appropriations from general fund.",
+      "number": "307.513",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.513"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.514 - County law library resources fund.",
+      "number": "307.514",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.514"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.515 - Allowance to law libraries from fines and penalties of municipal courts.",
+      "number": "307.515",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.515"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.516 - Multi-county law library resources commission.",
+      "number": "307.516",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.516"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.52 - Expert witnesses.",
+      "number": "307.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.53 - Procedure when county auditor unable to sign bonds due to absence or disability.",
+      "number": "307.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.54 - Registry and redemption of bonds.",
+      "number": "307.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.55 - Allowance and payment of claims against county.",
+      "number": "307.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.56 - Appeal from decision of board of county commissioners.",
+      "number": "307.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.561 - Settlement may include rezoning agreement or development plan approval.",
+      "number": "307.561",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.561"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.57 - May execute bonds of indemnity.",
+      "number": "307.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.58 - Transcribing of certain records.",
+      "number": "307.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.59 - Transcribing of court records.",
+      "number": "307.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.60 - Appropriation for compensation or recruitment of physicians or other medical personnel.",
+      "number": "307.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.61 - Institutions subject to inspection of commissioners or board of health.",
+      "number": "307.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.62 - Crime victim assistance program - appropriating moneys.",
+      "number": "307.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.621 - Establishing child fatality review board.",
+      "number": "307.621",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.621"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.622 - Members of child fatality review board.",
+      "number": "307.622",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.622"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.623 - Child fatality review board - purpose and duties.",
+      "number": "307.623",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.623"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.624 - Organization of child fatality review board.",
+      "number": "307.624",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.624"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.625 - No review while investigation pending.",
+      "number": "307.625",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.625"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.626 - Annual report.",
+      "number": "307.626",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.626"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.627 - Accessing confidential information.",
+      "number": "307.627",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.627"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.628 - Immunity.",
+      "number": "307.628",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.628"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.629 - Unauthorized dissemination of confidential information.",
+      "number": "307.629",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.629"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.63 - Establishing countywide public safety communications system.",
+      "number": "307.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.631 - Establishing drug overdose fatality review committee.",
+      "number": "307.631",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.631"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.632 - Members of drug overdose fatality review committee.",
+      "number": "307.632",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.632"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.633 - Chairperson of drug overdose fatality review committee.",
+      "number": "307.633",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.633"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.634 - Purpose of drug overdose fatality review committee.",
+      "number": "307.634",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.634"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.635 - No review while investigation or prosecution pending.",
+      "number": "307.635",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.635"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.636 - Collecting and maintaining information; annual report.",
+      "number": "307.636",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.636"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.637 - Providing information to drug overdose fatality review committee.",
+      "number": "307.637",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.637"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.638 - Immunity.",
+      "number": "307.638",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.638"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.639 - Confidentiality.",
+      "number": "307.639",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.639"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.64 - Appropriating moneys from tax levies for economic development.",
+      "number": "307.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.641 - Establishing suicide fatality review committee.",
+      "number": "307.641",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.641"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.642 - Members of suicide fatality review committee.",
+      "number": "307.642",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.642"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.643 - Purpose of suicide fatality review committee.",
+      "number": "307.643",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.643"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.644 - Chairperson of suicide fatality review committee.",
+      "number": "307.644",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.644"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.645 - No review while investigation or prosecution pending.",
+      "number": "307.645",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.645"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.646 - Collecting and maintaining information; annual report.",
+      "number": "307.646",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.646"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.647 - Providing information to suicide fatality review committee.",
+      "number": "307.647",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.647"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.648 - Immunity.",
+      "number": "307.648",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.648"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.649 - Confidentiality.",
+      "number": "307.649",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.649"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.6410 - Hybrid review committee.",
+      "number": "307.6410",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.6410"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.65 - Harbor improvements.",
+      "number": "307.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.651 - Establishing domestic violence fatality review board.",
+      "number": "307.651",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.651"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.652 - Members of domestic violence fatality review board.",
+      "number": "307.652",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.652"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.653 - Chairperson of domestic violence fatality review board.",
+      "number": "307.653",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.653"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.654 - Domestic violence fatality review board - purpose and duties.",
+      "number": "307.654",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.654"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.655 - No review while investigation or prosecution pending.",
+      "number": "307.655",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.655"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.656 - Annual report.",
+      "number": "307.656",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.656"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.657 - Accessing confidential information.",
+      "number": "307.657",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.657"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.658 - Immunity.",
+      "number": "307.658",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.658"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.659 - Unauthorized dissemination of confidential information.",
+      "number": "307.659",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.659"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.66 - Memorial day appropriations.",
+      "number": "307.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.67 - County may give aid to establish canal or waterway.",
+      "number": "307.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.67"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.671 - Cooperative agreement for sales tax levy and bond issuance for port authority educational and cultural facility.",
+      "number": "307.671",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.671"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.672 - Cooperative agreement for sales tax levy and bond issuance with nonprofit corporation for municipal education and cultural facility.",
+      "number": "307.672",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.672"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.673 - Cooperative agreement for sales tax levy and bond issuance for construction or renovation of professional sports facilities.",
+      "number": "307.673",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.673"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.674 - Cooperative agreement for sales tax levy and bond issuance for educational and cultural performing arts facilities.",
+      "number": "307.674",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.674"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.675 - Using long life expectancy material in the construction or repair of bridge deck.",
+      "number": "307.675",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.675"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.676 - Tax on retail sale of food and beverages consumed on premises - general fund revenue.",
+      "number": "307.676",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.676"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.677 - Tax on retail sale of food and beverages consumed on premises - funding convention center.",
+      "number": "307.677",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.677"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.678 - Tourism development facility or project cooperative agreements.",
+      "number": "307.678",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.678"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.679 - Sports parks; cooperative agreements; bonds.",
+      "number": "307.679",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.679"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.68 - Board may issue bonds upon petition.",
+      "number": "307.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.68"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.69 - Agreements for protection of funds contributed.",
+      "number": "307.69",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.69"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.691 - County or municipal assistance to nonprofit corporations engaged in certain activities benefiting public.",
+      "number": "307.691",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.691"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.692 - Expending funds for encouraging economic development of the county or area through promotion of tourism.",
+      "number": "307.692",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.692"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.693 - Appropriating moneys for convention and visitors' bureaus.",
+      "number": "307.693",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.693"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.694 - Expending funds for senior citizens services or facilities.",
+      "number": "307.694",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.694"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.695 - Agreement for sales tax levy and bond issuance to construct and equip a convention center.",
+      "number": "307.695",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.695"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.696 - Agreement for sales tax levy and bond issuance to construct and operate a sports facility.",
+      "number": "307.696",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.696"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.697 - Voting on question of levying liquor tax to support facility.",
+      "number": "307.697",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.697"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.698 - Moneys spent for housing purposes.",
+      "number": "307.698",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.698"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.699 - Annual service payment in lieu of taxes on the exempt property used by major league professional athletic team.",
+      "number": "307.699",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.699"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.6910 - Operation of veterans memorial and museum.",
+      "number": "307.6910",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.6910"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.70 - County charter commissions.",
+      "number": "307.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.71 - Adoption of curfew.",
+      "number": "307.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.72 - Appropriating funds for police training.",
+      "number": "307.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.73 - Contract for private construction of water and sewer lines.",
+      "number": "307.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.74 - Purchasing water from municipality.",
+      "number": "307.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.74"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.75 - Operating or contracting for operation of police training schools.",
+      "number": "307.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.76 - Operating or contracting for operation of zoological park.",
+      "number": "307.76",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.76"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.761 - Facility to promote sciences and natural history.",
+      "number": "307.761",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.761"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.77 - Giving aid to units of government for water management.",
+      "number": "307.77",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.77"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.771 - Issuing bonds for water management.",
+      "number": "307.771",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.771"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.772 - Agreements for facilitating water management projects.",
+      "number": "307.772",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.772"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.78 - Making contributions to community improvement corporations.",
+      "number": "307.78",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.78"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.781 - Unpaid or delinquent tax line of credit.",
+      "number": "307.781",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.781"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.79 - Administrative rules.",
+      "number": "307.79",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.79"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.791 - Election on repeal of county sediment control rule.",
+      "number": "307.791",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.791"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.80 - Establishing county microfilming board.",
+      "number": "307.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.80"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.801 - Organization of board.",
+      "number": "307.801",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.801"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.802 - Powers and duties of board.",
+      "number": "307.802",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.802"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.803 - Funds of board.",
+      "number": "307.803",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.803"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.804 - Chief administrator - employees.",
+      "number": "307.804",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.804"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.805 - Annual estimate of the revenues and expenditures - report.",
+      "number": "307.805",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.805"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.806 - Contract for services with other public entities.",
+      "number": "307.806",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.806"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.81 - Vacating unused parks and park lands.",
+      "number": "307.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.82 - Selling unused parks and park lands.",
+      "number": "307.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.82"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.83 - Reversionary interest in parks and park lands.",
+      "number": "307.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.83"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.84 - Establishing automatic data processing board.",
+      "number": "307.84",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.84"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.841 - Organization of board.",
+      "number": "307.841",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.841"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.842 - County automatic data processing board - powers and duties.",
+      "number": "307.842",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.842"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.843 - Acquiring data processing or record keeping equipment, software, or services.",
+      "number": "307.843",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.843"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.844 - Chief administrator - automatic data processing center.",
+      "number": "307.844",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.844"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.845 - Annual estimate of the revenues and expenditures - report.",
+      "number": "307.845",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.845"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.846 - Contract for services with other public entities.",
+      "number": "307.846",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.846"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.847 - Coordination of information by county automatic data processing board.",
+      "number": "307.847",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.847"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.85 - Cooperation with other agencies in operating federal programs.",
+      "number": "307.85",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.85"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.851 - Contracting with corporation or association, profit or nonprofit, to provide health and human services or social services.",
+      "number": "307.851",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.851"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.86 - Competitive bidding required - exceptions.",
+      "number": "307.86",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.86"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.861 - Renewing leases for electronic data processing equipment, services, or systems, or radio communications system.",
+      "number": "307.861",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.861"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.862 - Competitive sealed proposals - procedure.",
+      "number": "307.862",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.862"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.863 - Bidding process for franchises.",
+      "number": "307.863",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.863"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.87 - Notice of competitive bidding.",
+      "number": "307.87",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.87"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.88 - Bid contents.",
+      "number": "307.88",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.88"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.89 - Accepting bids.",
+      "number": "307.89",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.89"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.90 - Contract award - preferences.",
+      "number": "307.90",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.90"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.901 - County contracts - invalid terms and conditions.",
+      "number": "307.901",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.901"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.91 - Rejecting all bids.",
+      "number": "307.91",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.91"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.92 - Contracting authority defined.",
+      "number": "307.92",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.92"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.921 - Policy to assist minority business enterprises.",
+      "number": "307.921",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.921"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.93 - Joint establishment of a multicounty correctional center.",
+      "number": "307.93",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.93"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.931 - Submitting health insurance claims for inmates of correctional center.",
+      "number": "307.931",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.931"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.932 - Community alternative sentencing centers.",
+      "number": "307.932",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.932"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.933 - Issuance of securities.",
+      "number": "307.933",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.933"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.94 - Petitioning for election on adoption of county charter.",
+      "number": "307.94",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.94"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.95 - Determining validity of petitions.",
+      "number": "307.95",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.95"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.96 - Charter or amendment effective date.",
+      "number": "307.96",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.96"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.97 - Filing sworn itemized statement of financial transactions.",
+      "number": "307.97",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.97"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.98 - Written partnership agreement with director of job and family services.",
+      "number": "307.98",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.98"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.981 - Designating entities as family services agencies.",
+      "number": "307.981",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.981"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.982 - Contracts to perform family services duty or workforce development activity.",
+      "number": "307.982",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.982"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.983 - Plan of cooperation to enhance administration of Ohio works first program, prevention, retention, and contingency program, and other family services duties and workforce development activities.",
+      "number": "307.983",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.983"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.984 - Regional plans of cooperation to enhance the administration, delivery, and effectiveness of family services duties and workforce development activities.",
+      "number": "307.984",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.984"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.985 - Transportation work plan regarding the transportation needs of low income residents.",
+      "number": "307.985",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.985"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.986 - Procedures for providing services to children whose families relocate frequently.",
+      "number": "307.986",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.986"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.987 - Permitting exchange of information needed to improve services and assistance to individuals and families and the protection of children.",
+      "number": "307.987",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.987"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.988 - Federal requirements for contracts with religious organization.",
+      "number": "307.988",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.988"
+    },
+    {
+      "kind": "section",
+      "label": "Section 307.99 - Penalty.",
+      "number": "307.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.99"
+    }
+  ],
+  "scraped": "2026-07-02T19:32:39+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-307",
+  "title": "Chapter 307 - Board of County Commissioners - Powers"
+}

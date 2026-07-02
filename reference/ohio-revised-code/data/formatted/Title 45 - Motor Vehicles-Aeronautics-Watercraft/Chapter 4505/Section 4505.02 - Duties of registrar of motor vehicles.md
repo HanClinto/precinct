@@ -1,0 +1,12 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4505.02
+Scraped: 2026-07-02T20:05:24+00:00
+
+# Section 4505.02 - Duties of registrar of motor vehicles.
+
+**Effective:** March 23, 2015
+
+**Latest Legislation:** Senate Bill 274 - 130th General Assembly
+
+The registrar of motor vehicles shall issue rules as the registrar determines necessary to ensure uniform and orderly operation of this chapter and to ensure that the identification of each applicant for a certificate of title is reasonably accurate. The clerks of the courts of common pleas shall conform thereto. The clerks shall provide the forms as prescribed by the registrar, except the manufacturers' or importers' certificates. The clerks shall provide, from moneys in the automated title processing fund, certificates of title and ribbons, cartridges, or other devices necessary for the operation of the certificate of title processing equipment as determined by the automated title processing board pursuant to division (C) of section 4505.09 of the Revised Code. All other automated title processing system supplies shall be provided by the clerks.
+
+If it appears that any certificate of title has been improperly issued, the registrar shall cancel the certificate unless the title is deemed valid pursuant to section 4505.191 of the Revised Code. Upon the cancellation of any certificate of title, the registrar shall notify the clerk who issued it, and the clerk thereupon shall enter the cancellation upon the clerk's records. The registrar also shall notify the person to whom such certificate of title was issued, as well as any lienholders appearing thereon, of the cancellation and shall demand the surrender of the certificate of title immediately, but the cancellation shall not affect the validity of any lien noted thereon. The holder of such certificate of title immediately shall return it to the registrar. If a certificate of registration has been issued to the holder of a certificate of title so canceled the registrar immediately shall cancel it and demand the return of such certificate of registration and license plates, and the holder of such certificate of registration and license plates shall return the same to the registrar forthwith. The clerks shall keep on hand a sufficient supply of blank forms, which, except for certificate of title and memorandum certificate forms, shall be furnished and distributed without charge to registered manufacturers or dealers, or other persons residing within the county.

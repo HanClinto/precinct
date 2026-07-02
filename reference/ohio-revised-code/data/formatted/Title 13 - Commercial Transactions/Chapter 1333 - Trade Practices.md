@@ -1,0 +1,74 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-1333
+Scraped: 2026-07-02T19:37:19+00:00
+
+# Chapter 1333 - Trade Practices
+
+## Sections
+
+- Section 1333.01 - Sale of trading stamps.
+- Section 1333.02 - Redemption of trading stamps.
+- Section 1333.03 - Redemption of trading stamps by persons in trade, business, or profession.
+- Section 1333.04 - Stamps redeemed by issuer.
+- Section 1333.05 - Motion picture license agreement definitions.
+- Section 1333.06 - Prohibited acts - effect on license agreements.
+- Section 1333.07 - Invitations to bid.
+- Section 1333.11 - Unfair cigarette sales act definitions.
+- Section 1333.12 - Selling at less than cost.
+- Section 1333.13 - Wholesaler-to-wholesaler sales.
+- Section 1333.14 - Type of sales excepted.
+- Section 1333.15 - Competitive prices.
+- Section 1333.16 - Void contract.
+- Section 1333.17 - Determining cost to retailer.
+- Section 1333.18 - How cost established.
+- Section 1333.19 - Cost survey as evidence.
+- Section 1333.20 - Action to enjoin violation - damages.
+- Section 1333.21 - Revocation or suspension of cigarette license.
+- Section 1333.211 - Surrender of license upon receipt of notice of suspension or revocation.
+- Section 1333.22 - Dry cleaner's lien - disposition of unclaimed articles.
+- Section 1333.23 - Disposition of cleaned articles left in storage without charges paid.
+- Section 1333.231 - Receipts to be issued.
+- Section 1333.24 - Notice or publication of proposed sale of articles.
+- Section 1333.25 - Charges deducted from proceeds - disposition of surplus.
+- Section 1333.26 - Notices to be posted.
+- Section 1333.27 - Civil action for unpaid charges.
+- Section 1333.28 - Immunity.
+- Section 1333.29 - Molder's lien definitions.
+- Section 1333.30 - Molder's right to destroy die, mold, pattern or form of customer after three years.
+- Section 1333.31 - Molder's lien.
+- Section 1333.32 - Definitions - moldbuilder' lien.
+- Section 1333.33 - Moldbuilder's lien.
+- Section 1333.34 - Enforcement of moldbuilder's lien.
+- Section 1333.35 - Bankruptcy and receiver's sales definitions.
+- Section 1333.36 - Prohibition on sale of additional merchandise at bankruptcy or receiver's sale.
+- Section 1333.37 - Intent to mislead or deceive general public.
+- Section 1333.41 - Lien of bailee for hire on personal property - enforcement of lien.
+- Section 1333.42 - Lien of bailee for hire on personal property - construction project.
+- Section 1333.52 - Record piracy.
+- Section 1333.55 - Disclosing tax information.
+- Section 1333.60 - Voluntary delivery of unordered goods constitutes unconditional gift.
+- Section 1333.61 - Uniform trade secrets act definitions.
+- Section 1333.62 - Injunction against misappropriation.
+- Section 1333.63 - Damages recoverable.
+- Section 1333.64 - Attorney's fees.
+- Section 1333.65 - Authorized means of preserving secrecy.
+- Section 1333.66 - Time for commencing action.
+- Section 1333.67 - Conflicting laws displaced - remedies not affected.
+- Section 1333.68 - Uniformity of application and construction of provisions.
+- Section 1333.69 - Title of act.
+- Section 1333.71 - Sale of containers with milk or baked goods company logo.
+- Section 1333.72 - Energy usage labels for new grain-drying equipment.
+- Section 1333.73 - Energy efficiency standards for HVAC and appliances.
+- Section 1333.81 - Confidentiality of information.
+- Section 1333.82 - Alcoholic beverages franchise definitions.
+- Section 1333.83 - Written franchise agreement.
+- Section 1333.84 - Prohibited acts.
+- Section 1333.85 - Cancellation, failure to renew or substantial change in territory.
+- Section 1333.851 - Distributors of acquired manufacturers.
+- Section 1333.86 - Distributor to maintain adequate physical facilities and personnel.
+- Section 1333.87 - Liability for violation.
+- Section 1333.91 - Pyramid promotional scheme definitions.
+- Section 1333.92 - Prohibition.
+- Section 1333.93 - Contract void - civil action.
+- Section 1333.94 - Violation; remedies.
+- Section 1333.95 - Additional remedies.
+- Section 1333.99 - Penalty.

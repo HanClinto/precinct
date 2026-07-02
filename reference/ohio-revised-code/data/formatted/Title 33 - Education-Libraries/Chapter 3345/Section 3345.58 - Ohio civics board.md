@@ -1,0 +1,52 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3345.58
+Scraped: 2026-07-02T19:49:49+00:00
+
+# Section 3345.58 - Ohio civics board.
+
+**Effective:** September 30, 2025
+
+**Latest Legislation:** House Bill 96 - 136th General Assembly
+
+(A) As used in this section:
+
+(1) "Academic civics centers" means the following institutes or centers:
+
+(a) The center at the Ohio state university established under section 3335.39 of the Revised Code;
+
+(b) The center at Miami university established under section 3339.06 of the Revised Code;
+
+(c) The center at Cleveland state university established under section 3344.07 of the Revised Code;
+
+(d) The center at Wright state university established under section 3352.16 of the Revised Code;
+
+(e) The institute at the university of Toledo established under section 3364.07 of the Revised Code.
+
+(2) "State institution of higher education" has the same meaning as in section 3345.011 of the Revised Code.
+
+(B) The Ohio civics board is established. The board shall consist of the directors of the academic civics centers, who shall serve as ex officio members. If an academic civics center does not have a director, then the center's acting or interim director shall serve on behalf of that center until a director is selected. No additional appointment or confirmation by any authority is required for membership.
+
+(C) The board shall do all of the following:
+
+(1) Support the academic civics centers to more effectively pursue their mission of teaching and research in the historical ideas, traditions, and texts that have shaped the American and Ohio constitutional order and society;
+
+(2) Aid voluntary cooperation and coordination between the academic civics centers, including coordinating intercollegiate efforts and initiatives among the centers to promote collaboration and serve the entire state of Ohio;
+
+(3) Advise the general assembly and chancellor of higher education on matters pertaining to civic education, including best practices, program development, and statewide initiatives to enhance civic literacy and engagement;
+
+(4) Advise the general assembly and chancellor on curriculum development and standards in state institutions of higher education and primary and secondary public education providers, and on the operations of the academic civics centers;
+
+(5) Assist the academic councils of the academic civics centers in fulfilling their statutory duties, including facilitating the selection process for directors of each center.
+
+(D) The board shall annually elect a chairperson and vice-chairperson from among its members. The chairperson shall preside over meetings and serve as the primary liaison to the chancellor and the general assembly. The vice-chairperson shall perform the duties of the chairperson in the absence of the chairperson.
+
+The board shall meet as necessary at the call of the chairperson or on the written request of three or more members of the board. The board shall meet at least twice annually.
+
+A majority of the members of the board constitutes a quorum, and the votes of a majority of the quorum present are required to validate any action of the board, including recommendations.
+
+The members of the board shall serve without compensation, but each member shall be reimbursed for the member's actual and necessary expenses incurred in the performance of the member's official duties on the board.
+
+(E) The board shall submit an annual report to the general assembly and the chancellor not later than the first day of December each year. The report shall detail the board's activities, recommendations, and findings related to civic education, higher education curricula, primary and secondary public education curricula, and the operations of the academic civics centers.
+
+(F) The board, in consultation with the chancellor, may adopt rules under Chapter 119. of the Revised Code as necessary to implement this section.
+
+Last updated August 7, 2025 at 9:49 AM

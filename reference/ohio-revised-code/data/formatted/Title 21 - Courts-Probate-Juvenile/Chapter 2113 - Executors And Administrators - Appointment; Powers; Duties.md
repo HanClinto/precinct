@@ -1,0 +1,84 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-2113
+Scraped: 2026-07-02T19:41:28+00:00
+
+# Chapter 2113 - Executors And Administrators - Appointment; Powers; Duties
+
+## Sections
+
+- Section 2113.01 - What court shall grant letters.
+- Section 2113.03 - Court may order estate released from administration.
+- Section 2113.031 - Summary release from administration.
+- Section 2113.032 - Application for release of medical and billing records.
+- Section 2113.04 - Payment of wages of deceased employee without administration.
+- Section 2113.041 - Request to financial institution to release account proceed to recover costs of services.
+- Section 2113.05 - Letters testamentary shall issue.
+- Section 2113.06 - To whom letters of administration shall be granted.
+- Section 2113.07 - Application for appointment as executor or administrator.
+- Section 2113.11 - Notice when deceased was an alien.
+- Section 2113.12 - Procedure if executor renounces.
+- Section 2113.13 - Minority of an executor.
+- Section 2113.14 - Executor of an executor not to administer.
+- Section 2113.15 - Special administrator.
+- Section 2113.16 - Termination of powers of special administrator.
+- Section 2113.17 - Creditor's claims before Special Administrator.
+- Section 2113.18 - Removal of executor or administrator.
+- Section 2113.19 - Administrator de bonis non.
+- Section 2113.20 - Will proved after administration as of an intestate.
+- Section 2113.21 - Powers of executors, administrators, and testamentary trustees during a will contest.
+- Section 2113.22 - Proceedings against former executor or administrator.
+- Section 2113.23 - Sales of former executor or administrator valid.
+- Section 2113.25 - Time frame for collection of assets and administration of estate; extensions.
+- Section 2113.26 - Examination of executor or administrator.
+- Section 2113.30 - Continuing decedent's business.
+- Section 2113.31 - Responsibility of executor or administrator.
+- Section 2113.311 - Management and rental of real property by executor or administrator.
+- Section 2113.32 - Executors and administrators not to profit.
+- Section 2113.33 - Not responsible for bad debts.
+- Section 2113.34 - Chargeable with property consumed.
+- Section 2113.35 - Commissions.
+- Section 2113.36 - Further allowance - counsel fees.
+- Section 2113.37 - Allowance for tombstone and cemetery lot.
+- Section 2113.39 - Sale of property under authority of will.
+- Section 2113.40 - Sale of personal property.
+- Section 2113.41 - Public sale.
+- Section 2113.42 - Report of sale.
+- Section 2113.43 - Credit.
+- Section 2113.44 - Sale of notes secured by mortgage.
+- Section 2113.45 - Mortgaged premises to be considered personal assets - possession.
+- Section 2113.46 - Who may discharge mortgage.
+- Section 2113.47 - Foreclosure of mortgage.
+- Section 2113.48 - Action to complete contract to sell land.
+- Section 2113.49 - Court may order alteration or cancellation of contract.
+- Section 2113.50 - Completion of decedent's contract to buy land.
+- Section 2113.51 - Property may be delivered to legatee.
+- Section 2113.52 - Devisee takes subject to tax lien - exoneration of mortgage lien.
+- Section 2113.53 - Distribution of assets of estate.
+- Section 2113.531 - General legacies - interest.
+- Section 2113.54 - Distribution upon application of legatee or distributee.
+- Section 2113.55 - Distribution in kind.
+- Section 2113.56 - Executor or administrator not liable.
+- Section 2113.58 - Protection of remainderman's interest in personal property.
+- Section 2113.59 - Lien on share of beneficiary.
+- Section 2113.61 - Application for certificate of transfer of real property.
+- Section 2113.62 - Record by county recorder.
+- Section 2113.64 - Investment of unclaimed money.
+- Section 2113.65 - Disposition of investment.
+- Section 2113.66 - Statute of limitations no defense.
+- Section 2113.67 - Money paid to owner.
+- Section 2113.68 - Responsibility for safekeeping of evidences of title.
+- Section 2113.69 - Newly discovered assets.
+- Section 2113.70 - Suit against foreign executors and administrators.
+- Section 2113.71 - Jurisdiction.
+- Section 2113.72 - Proceedings against foreign executor or administrator.
+- Section 2113.73 - Security for distributees and indemnification for sureties.
+- Section 2113.74 - Other remedies.
+- Section 2113.75 - Foreign executor or administrator may prosecute suit in this state.
+- Section 2113.81 - Holding money and property in trust for safe keeping for nonresidents of United States.
+- Section 2113.82 - Orders to pay money and property held in trust for safe keeping for nonresidents of United States.
+- Section 2113.85 - Apportionment of tax definitions.
+- Section 2113.86 - Apportionment of taxes.
+- Section 2113.861 - Apportionment of generation-skipping tax.
+- Section 2113.87 - Requesting court to determine apportionment of tax.
+- Section 2113.88 - Withholding or recovering amount of tax.
+- Section 2113.89 - Action to recover tax.
+- Section 2113.90 - Action by foreign fiduciary or obligated person.

@@ -1,0 +1,16 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4781.21
+Scraped: 2026-07-02T20:08:37+00:00
+
+# Section 4781.21 - License suspension of revocation.
+
+**Effective:** January 21, 2018
+
+**Latest Legislation:** House Bill 49 - 132nd General Assembly
+
+(A) The division of real estate may make rules governing actions relative to the suspension and revocation of manufactured housing dealers', manufactured housing brokers', and manufactured housing salespersons' licenses, and may, upon its own motion, and shall, upon the verified complaint in writing of any person, investigate the conduct of any licensee under this chapter. The division shall suspend, revoke, or refuse to renew any manufactured housing dealer's, manufactured housing broker's, or manufactured housing salesperson's license, if any ground existed upon which the license might have been refused, or if a ground exists that would be cause for refusal to issue a license.
+
+The division of real estate may suspend or revoke any license if the licensee has in any manner violated the rules adopted by the division under this chapter, or has been convicted of committing a felony or violating any law that in any way relates to the selling, taxing, licensing, or regulation of sales of manufactured or mobile homes.
+
+(B) Any salesperson's license shall be suspended upon the termination, suspension, or revocation of the license of the manufactured housing dealer or manufactured housing broker for whom the salesperson is acting, or upon the salesperson leaving the service of the manufactured housing dealer or manufactured housing broker. Upon the termination, suspension, or revocation of the license of the manufactured housing dealer or manufactured housing broker for whom the salesperson is acting, or upon the salesperson leaving the service of a licensed manufactured housing or manufactured housing broker, the licensed salesperson may make application to the division of real estate, in such form as the division prescribes, to have the salesperson's license reinstated, transferred, and registered as a salesperson for another dealer or broker. If the information contained in the application is satisfactory to the division of real estate, the division shall reinstate, transfer, or register the salesperson's license as a salesperson for other dealer or broker. The division shall establish the fee for the reinstatement and transfer of license. No license issued to a dealer, broker, or salesperson under this chapter may be transferred to any other person.
+
+(C) Any person whose manufactured housing dealer's license, manufactured housing broker's license, or manufactured housing salesperson's license is revoked, suspended, denied, or not renewed may request an adjudication hearing on the matter within thirty days after receipt of the notice of the action. If no appeal is taken within thirty days after receipt of the order, the order is final and conclusive. All appeals must be by petition in writing and verified under oath by the applicant whose application for license has been revoked, suspended, denied, or not renewed and must set forth the reason for the appeal and the reason why, in the petitioner's opinion, the order is not correct. The hearing shall be held in accordance with Chapter 119. of the Revised Code.

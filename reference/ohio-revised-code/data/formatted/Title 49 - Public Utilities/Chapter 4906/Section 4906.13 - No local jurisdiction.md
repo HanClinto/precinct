@@ -1,0 +1,12 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4906.13
+Scraped: 2026-07-02T20:09:03+00:00
+
+# Section 4906.13 - No local jurisdiction.
+
+**Effective:** October 22, 2019
+
+**Latest Legislation:** House Bill 6 - 133rd General Assembly
+
+(A) As used in this section and sections 4906.20 and 4906.98 of the Revised Code, "economically significant wind farm" means wind turbines and associated facilities with a single interconnection to the electrical grid and designed for, or capable of, operation at an aggregate capacity of five or more megawatts but less than fifty megawatts. The term excludes any such wind farm in operation on June 24, 2008. The term also excludes one or more wind turbines and associated facilities that are primarily dedicated to providing electricity to a single customer at a single location and that are designed for, or capable of, operation at an aggregate capacity of less than twenty megawatts, as measured at the customer's point of interconnection to the electrical grid.
+
+(B) No public agency or political subdivision of this state may require any approval, consent, permit, certificate, or other condition for the construction or operation of a major utility facility or economically significant wind farm authorized by a certificate issued pursuant to Chapter 4906. of the Revised Code. Nothing herein shall prevent the application of state laws for the protection of employees engaged in the construction of such facility or wind farm nor of municipal regulations that do not pertain to the location or design of, or pollution control and abatement standards for, a major utility facility or economically significant wind farm for which a certificate has been granted under this chapter.

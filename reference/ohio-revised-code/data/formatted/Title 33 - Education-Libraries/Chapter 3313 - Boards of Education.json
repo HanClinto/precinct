@@ -1,0 +1,1803 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 3313.01 - Membership of board of education or governing board of service center.",
+      "number": "3313.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.02 - Membership of boards in city school districts.",
+      "number": "3313.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.03 - Redistricting into subdistricts.",
+      "number": "3313.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.04 - Petition for submission of question of number of members and organization of board.",
+      "number": "3313.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.05 - Submission of plans to electors - contents - separate ballot.",
+      "number": "3313.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.06 - Election - expense of commission.",
+      "number": "3313.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.07 - Adoption by majority vote.",
+      "number": "3313.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.08 - Election of members.",
+      "number": "3313.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.09 - Term of office of members.",
+      "number": "3313.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.10 - Oath of office of member.",
+      "number": "3313.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.11 - Vacancy in board.",
+      "number": "3313.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.12 - Compensation and mileage.",
+      "number": "3313.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.13 - Membership restriction.",
+      "number": "3313.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.131 - Member of governing authority of community school prohibited from membership on board of education.",
+      "number": "3313.131",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.131"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.14 - Annual organizational meeting.",
+      "number": "3313.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.15 - Regular meetings of board.",
+      "number": "3313.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.16 - Special meetings of board.",
+      "number": "3313.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.17 - Corporate powers of the board.",
+      "number": "3313.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.171 - Consultant services.",
+      "number": "3313.171",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.171"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.172 - Purchase, lease, or lease-purchase of motor vehicles.",
+      "number": "3313.172",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.172"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.173 - Reward for information on person who commits violation of law.",
+      "number": "3313.173",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.173"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.18 - Quorum - recording of votes - adoption of annual appropriation resolution.",
+      "number": "3313.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.19 - Power of board to compound or release claims due from banks.",
+      "number": "3313.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.20 - Rules - locker search policy - professional meetings.",
+      "number": "3313.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.201 - Procurement of insurance against liability of officers, employees, and pupils of district.",
+      "number": "3313.201",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.201"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.202 - Insurance and fringe benefits.",
+      "number": "3313.202",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.202"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.203 - Liability insurance - indemnification.",
+      "number": "3313.203",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.203"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.204 - Advertise offering of adult education classes.",
+      "number": "3313.204",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.204"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.205 - Notification of student's absence from school.",
+      "number": "3313.205",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.205"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.207 - Latchkey program definitions.",
+      "number": "3313.207",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.207"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.208 - School district participation in provision of latchkey programs.",
+      "number": "3313.208",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.208"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.209 - Options for districts that do not operate a latchkey program.",
+      "number": "3313.209",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.209"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.21 - Authority of school board over selection of instructional materials and curriculum.",
+      "number": "3313.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.211 - Employee compensation while serving as juror.",
+      "number": "3313.211",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.211"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.212 - Parental review of instructional materials, etc.",
+      "number": "3313.212",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.212"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.22 - Appointment of treasurer - re-employment - evaluation.",
+      "number": "3313.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.222 - Agreement of districts to jointly employ treasurer.",
+      "number": "3313.222",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.222"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.23 - Absence or incapacitation of treasurer.",
+      "number": "3313.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.24 - Compensation of treasurer.",
+      "number": "3313.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.241 - Documents to be executed by superintendent.",
+      "number": "3313.241",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.241"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.25 - Bond of treasurer of board.",
+      "number": "3313.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.26 - Record of proceedings.",
+      "number": "3313.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.261 - Treasurer to notify board of elections of changes in boundaries.",
+      "number": "3313.261",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.261"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.27 - Delivery of funds to board at expiration of term of treasurer - certificate.",
+      "number": "3313.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.28 - Delivery of records to successor.",
+      "number": "3313.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.29 - Treasurer to keep account of school funds - vouchers.",
+      "number": "3313.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.291 - Petty cash account.",
+      "number": "3313.291",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.291"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.30 - Declaration that school district is unauditable; notice.",
+      "number": "3313.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.31 - Treasurer to perform all duties relating to moneys.",
+      "number": "3313.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.311 - Policies for use of credit card accounts.",
+      "number": "3313.311",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.311"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.32 - Moneys to be placed with treasurer when depository ceases to act.",
+      "number": "3313.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.33 - Conveyances and contracts.",
+      "number": "3313.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.34 - Process against boards.",
+      "number": "3313.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.35 - Legal adviser of boards of education and governing board of an educational service center.",
+      "number": "3313.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.351 - Information regarding contracting with online service providers.",
+      "number": "3313.351",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.351"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.36 - Acceptance of bequests, gifts, or endowments.",
+      "number": "3313.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.37 - Powers regarding school buildings and facilities; educational service centers; acquisition of property and equipment.",
+      "number": "3313.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.371 - Governing board of service center may borrow money to purchase computer equipment.",
+      "number": "3313.371",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.371"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.372 - Installment payment contract for purchase and installation of energy conservation measures.",
+      "number": "3313.372",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.372"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.373 - Shared-savings contract.",
+      "number": "3313.373",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.373"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.374 - Installment payment contract for construction and purchase of administrative offices.",
+      "number": "3313.374",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.374"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.375 - Lease-purchase agreement for building or improvements to building.",
+      "number": "3313.375",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.375"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.376 - Service centers may jointly purchase commodities.",
+      "number": "3313.376",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.376"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.377 - Loans from school energy performance contracting loan fund.",
+      "number": "3313.377",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.377"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.378 - School energy performance contracting loan fund created.",
+      "number": "3313.378",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.378"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.38 - Residence for principal or teacher when school district inaccessible from mainland.",
+      "number": "3313.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.39 - Appropriation of land.",
+      "number": "3313.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.40 - Exchange of real estate.",
+      "number": "3313.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.41 - Disposal of real or personal property - acquisition of real property.",
+      "number": "3313.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.411 - Lease or sale of unused school facilities.",
+      "number": "3313.411",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.411"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.412 - Direct sale or lease of real property to STEM school.",
+      "number": "3313.412",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.412"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.413 - Priority consideration of high-performing community schools in sale or lease of real property or school facilities.",
+      "number": "3313.413",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.413"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.42 - School district of this state and another state may maintain a school jointly.",
+      "number": "3313.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.43 - Dedication of school lands for street purposes - certificate of dedication.",
+      "number": "3313.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.44 - School property exempt from taxation.",
+      "number": "3313.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.45 - Board may execute and deliver contracts or leases to mineral lands.",
+      "number": "3313.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.451 - Investigation, exploration, production of oil and gas.",
+      "number": "3313.451",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.451"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.46 - Contract bidding process; exceptions.",
+      "number": "3313.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.47 - Management and control of schools vested in board of education.",
+      "number": "3313.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.471 - Presentation of career information.",
+      "number": "3313.471",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.471"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.472 - Policy on parental and foster caregiver involvement in schools.",
+      "number": "3313.472",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.472"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.473 - Parental involvement policy.",
+      "number": "3313.473",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.473"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.474 - [Enacted as R.C. 3313.473 by S.B. 234, 135th General Assembly and recodified as R.C. 3313.474 pursuant to R.C. 101.131] National Suicide Lifeline telephone number.",
+      "number": "3313.474",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.474"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.48 - Free education to be provided; hours in a school year.",
+      "number": "3313.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.481 - School schedule.",
+      "number": "3313.481",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.481"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.482 - Online make-up hours.",
+      "number": "3313.482",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.482"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.483 - Delaying opening for financial reasons.",
+      "number": "3313.483",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.483"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.484 - Loans after 3-1-98 prohibited - subsidy for interest expense.",
+      "number": "3313.484",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.484"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.487 - Report on district's financial condition.",
+      "number": "3313.487",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.487"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.488 - School district fiscal statement.",
+      "number": "3313.488",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.488"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.489 - Determining whether district may be unable to operate during entire school year.",
+      "number": "3313.489",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.489"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.4810 - Receiving loans.",
+      "number": "3313.4810",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.4810"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.49 - Suspension of school - resolution of board - transfer of pupils.",
+      "number": "3313.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.50 - Record of tests - statistical data - individual records.",
+      "number": "3313.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.51 - Disbursement and deposit of school funds.",
+      "number": "3313.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.52 - Evening schools.",
+      "number": "3313.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.53 - Special instruction departments and schools - pupil-activity programs.",
+      "number": "3313.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.531 - Adult high school continuation program.",
+      "number": "3313.531",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.531"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.532 - Excusing disabled adults from assessments.",
+      "number": "3313.532",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.532"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.533 - Alternative school - plan.",
+      "number": "3313.533",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.533"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.534 - Policy of zero tolerance for violent, disruptive, or inappropriate behavior.",
+      "number": "3313.534",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.534"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.535 - Standards for participation in interscholastic extracurricular activities.",
+      "number": "3313.535",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.535"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.536 - Participation in ice hockey in another school district.",
+      "number": "3313.536",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.536"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.537 - Community school student participation in public school activities.",
+      "number": "3313.537",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.537"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.538 - Participation in interscholastic athletics - residency.",
+      "number": "3313.538",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.538"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.539 - Concussions and school athletics.",
+      "number": "3313.539",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.539"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.5310 - Information and training regarding sudden cardiac arrest.",
+      "number": "3313.5310",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.5310"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.5311 - Access to public school extracurricular activities by nonpublic school students.",
+      "number": "3313.5311",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.5311"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.5312 - Access to public school extracurricular activities by homeschooled students.",
+      "number": "3313.5312",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.5312"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.5313 - Interscholastic athletic participation by nonresident victims of harassment.",
+      "number": "3313.5313",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.5313"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.5314 - Athletics and participation in college credit plus program.",
+      "number": "3313.5314",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.5314"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.5315 - Foreign students participation in interscholastic athletics.",
+      "number": "3313.5315",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.5315"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.5317 - Religious apparel in interscholastic athletics.",
+      "number": "3313.5317",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.5317"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.5318 - Mental health training for coaches.",
+      "number": "3313.5318",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.5318"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.5319 - Cash payments at school-affiliated events.",
+      "number": "3313.5319",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.5319"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.5320 - [Enacted as R.C. 3313.5319 by H.B. 68, 135th General Assembly and recodified as R.C. 3313.5320 pursuant to R.C. 103.131] Interscholastic single-sex teams.",
+      "number": "3313.5320",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.5320"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.54 - Americanization schools.",
+      "number": "3313.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.55 - Provision for education of children in hospital or institution.",
+      "number": "3313.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.56 - Part-time schools or classes.",
+      "number": "3313.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.57 - Summer vacation period activities provided or approved by boards.",
+      "number": "3313.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.58 - Supervision of social and recreational work - employment of instructors.",
+      "number": "3313.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.59 - Cooperation with public officials to provide other recreational activities.",
+      "number": "3313.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.60 - Prescribed curriculum.",
+      "number": "3313.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.601 - Moment of silence - free exercise or expression of religious beliefs.",
+      "number": "3313.601",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.601"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.602 - Pledge of allegiance - principles of democracy and ethics - Veterans' day observance.",
+      "number": "3313.602",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.602"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.603 - Requirements for high school graduation; workforce or college preparatory units.",
+      "number": "3313.603",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.603"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.604 - Courses in American sign language.",
+      "number": "3313.604",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.604"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.605 - Community service education program.",
+      "number": "3313.605",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.605"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.606 - Education television courses and programs.",
+      "number": "3313.606",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.606"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.607 - Career plan and individual career passport for students.",
+      "number": "3313.607",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.607"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.608 - Third-grade reading guarantee.",
+      "number": "3313.608",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.608"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.609 - Grade promotion and retention policy.",
+      "number": "3313.609",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.609"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.6010 - Contracting with academic remediation and intervention providers.",
+      "number": "3313.6010",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.6010"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.6011 - Instruction in venereal disease education emphasizing abstinence.",
+      "number": "3313.6011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.6011"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.6012 - Policy governing conduct of academic prevention/intervention services.",
+      "number": "3313.6012",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.6012"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.6013 - Advanced standing programs for college credit.",
+      "number": "3313.6013",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.6013"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.6014 - Parental notification of core curriculum requirements.",
+      "number": "3313.6014",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.6014"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.6016 - Daily physical activity for students; pilot program.",
+      "number": "3313.6016",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.6016"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.6017 - Alternative methods of delivering content.",
+      "number": "3313.6017",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.6017"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.6018 - Extended programming.",
+      "number": "3313.6018",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.6018"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.6019 - Agricultural education programs.",
+      "number": "3313.6019",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.6019"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.6020 - Policy on career advising.",
+      "number": "3313.6020",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.6020"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.6021 - Instruction in cardiopulmonary resuscitation and the use of an automated external defibrillator in high schools.",
+      "number": "3313.6021",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.6021"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.6022 - Released time courses in religious instruction.",
+      "number": "3313.6022",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.6022"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.6023 - Training in the use of an automated external defibrillator for school district employees.",
+      "number": "3313.6023",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.6023"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.6024 - Reporting on prevention-focused programs.",
+      "number": "3313.6024",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.6024"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.6026 - FAFSA data sharing agreement.",
+      "number": "3313.6026",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.6026"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.6027 - Financial literacy instruction.",
+      "number": "3313.6027",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.6027"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.6028 - Literacy curriculum.",
+      "number": "3313.6028",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.6028"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.6029 - Parental notification of student assessment results.",
+      "number": "3313.6029",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.6029"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.6030 - Criminal records checks for released time religious instruction course providers.",
+      "number": "3313.6030",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.6030"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.6031 - Grade and class standing calculation for certain career-technical courses.",
+      "number": "3313.6031",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.6031"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.6032 - Advanced mathematics learning opportunities.",
+      "number": "3313.6032",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.6032"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.6033 - [Former Section 733.61 of H.B. 166, 133rd General Assembly, as amended by H.B. 33, 135th General Assembly, and amended and codified as R.C. 3313.6033 by H.B. 96, 136th General Assembly] Computer science teachers.",
+      "number": "3313.6033",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.6033"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.61 - Diploma or honors diploma.",
+      "number": "3313.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.611 - Standards for awarding high school credit equivalent to credit for completion of high school academic and vocational education courses.",
+      "number": "3313.611",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.611"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.612 - Graduation test requirements or alternative conditions for nonpublic schools.",
+      "number": "3313.612",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.612"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.613 - Awarding high school credit for course completed outside regular school hours at accredited post-secondary institution.",
+      "number": "3313.613",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.613"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.614 - Testing requirements for fulfilling curriculum requirement for diploma.",
+      "number": "3313.614",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.614"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.615 - Alternative conditions for eligibility for diploma where person passes all but one graduation test.",
+      "number": "3313.615",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.615"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.616 - Diploma may be granted to veteran.",
+      "number": "3313.616",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.616"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.617 - Adoption of policy for students at risk of not qualifying for high school diploma.",
+      "number": "3313.617",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.617"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.618 - Diploma requirements.",
+      "number": "3313.618",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.618"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.619 - Chartered nonpublic school diploma with alternate assessment.",
+      "number": "3313.619",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.619"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.6110 - Diploma granted by parent or guardian.",
+      "number": "3313.6110",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.6110"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.6111 - State seal of biliteracy.",
+      "number": "3313.6111",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.6111"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.6112 - OhioMeansJobs-readiness seal.",
+      "number": "3313.6112",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.6112"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.6113 - Committee to develop a list of industry-recognized credentials and licenses.",
+      "number": "3313.6113",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.6113"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.6114 - State diploma seals.",
+      "number": "3313.6114",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.6114"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.62 - School year, week.",
+      "number": "3313.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.63 - School holidays specified.",
+      "number": "3313.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.64 - Entitlement to attend school; district of attendance.",
+      "number": "3313.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.641 - Summer schools, adult classes, postgraduate instruction and other classes.",
+      "number": "3313.641",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.641"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.642 - Materials for course of instruction.",
+      "number": "3313.642",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.642"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.643 - Eye protective devices.",
+      "number": "3313.643",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.643"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.644 - Contracts for training of out-of-school youth or adults.",
+      "number": "3313.644",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.644"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.645 - Admission without tuition.",
+      "number": "3313.645",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.645"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.646 - Preschool programs.",
+      "number": "3313.646",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.646"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.647 - Policy guaranteeing specific level of competency of certain graduates of district.",
+      "number": "3313.647",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.647"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.648 - Prohibiting incentives to enroll in district.",
+      "number": "3313.648",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.648"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.649 - Enrolling child subject of power of attorney or caretaker authorization affidavit.",
+      "number": "3313.649",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.649"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.6410 - Withdrawal of computer-based school student failing to take tests.",
+      "number": "3313.6410",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.6410"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.6411 - Providing report card to parent.",
+      "number": "3313.6411",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.6411"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.6412 - Internet- or computer-based school student automatic withdrawal.",
+      "number": "3313.6412",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.6412"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.6413 - Free feminine hygiene products in schools.",
+      "number": "3313.6413",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.6413"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.6414 - Services and intervention assessments for foster child.",
+      "number": "3313.6414",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.6414"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.65 - Children of institutionalized or incarcerated parents.",
+      "number": "3313.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.66 - Suspension, expulsion or permanent exclusion - removal from curricular or extracurricular activities.",
+      "number": "3313.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.661 - Policy regarding suspension, expulsion, removal, and permanent exclusion.",
+      "number": "3313.661",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.661"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.662 - Adjudication order permanently excluding pupil from public schools.",
+      "number": "3313.662",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.662"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.663 - Parental education or training program.",
+      "number": "3313.663",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.663"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.664 - Policy prohibiting student from participating in extracurricular activities.",
+      "number": "3313.664",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.664"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.665 - Conditions for adopting dress code or school uniform policy.",
+      "number": "3313.665",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.665"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.666 - District policy prohibiting harassment, intimidation, or bullying required.",
+      "number": "3313.666",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.666"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.667 - District bullying prevention initiatives.",
+      "number": "3313.667",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.667"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.668 - Removal based on absences; removal from grades pre-k through three; civil immunity, decisions not to provide mental health services.",
+      "number": "3313.668",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.668"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.669 - Threat assessment teams.",
+      "number": "3313.669",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.669"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.6610 - Anonymous reporting programs.",
+      "number": "3313.6610",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.6610"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.6611 - Student-led violence prevention clubs.",
+      "number": "3313.6611",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.6611"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.67 - Immunization of pupils - immunization record - annual summary.",
+      "number": "3313.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.67"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.671 - Proof of required immunizations - exceptions.",
+      "number": "3313.671",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.671"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.672 - Presenting school records, custody order if applicable and certification of birth by new pupil.",
+      "number": "3313.672",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.672"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.673 - Screening of beginning pupils for special learning needs.",
+      "number": "3313.673",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.673"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.674 - Body mass index and weight screening.",
+      "number": "3313.674",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.674"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.68 - Employment of physicians, dentists and nurses - delegation of duties and powers to board of health.",
+      "number": "3313.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.68"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.69 - Hearing and visual tests of school children - exemptions.",
+      "number": "3313.69",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.69"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.70 - Member of board cannot be school physician, dentist, or nurse.",
+      "number": "3313.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.71 - Examinations and diagnoses by school physician.",
+      "number": "3313.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.712 - Emergency medical authorization.",
+      "number": "3313.712",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.712"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.713 - District prescription drug distribution policy.",
+      "number": "3313.713",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.713"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.714 - Healthcheck program for recipients of medical assistance.",
+      "number": "3313.714",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.714"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.715 - District board may request identification numbers of students who are medicaid recipients.",
+      "number": "3313.715",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.715"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.716 - Possession and use metered dose inhaler or dry powder inhaler to alleviate asthmatic symptoms.",
+      "number": "3313.716",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.716"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.717 - Placement of automated external defibrillator in schools; staff training; qualified immunity.",
+      "number": "3313.717",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.717"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.718 - Possession and use of epinephrine autoinjector to treat anaphylaxis.",
+      "number": "3313.718",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.718"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.719 - Food allergy protection policy.",
+      "number": "3313.719",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.719"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.7110 - Procurement of epinephrine autoinjectors for public schools.",
+      "number": "3313.7110",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.7110"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.7111 - Procurement of epinephrine autoinjectors for nonpublic schools.",
+      "number": "3313.7111",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.7111"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.7112 - Diabetes care.",
+      "number": "3313.7112",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.7112"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.7113 - Procurement of inhalers by board.",
+      "number": "3313.7113",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.7113"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.7114 - Procurement of inhalers by nonpublic school.",
+      "number": "3313.7114",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.7114"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.7115 - Procurement of glucagon, qualified immunity - school districts.",
+      "number": "3313.7115",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.7115"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.7116 - Procurement of glucagon, qualified immunity - nonpublic schools.",
+      "number": "3313.7116",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.7116"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.7117 - Individualized seizure action plans.",
+      "number": "3313.7117",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.7117"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.7118 - Distribution of informational materials on Type 1 diabetes.",
+      "number": "3313.7118",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.7118"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.7119 - Overdose reversal drug policy for school districts.",
+      "number": "3313.7119",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.7119"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.7120 - Overdose reversal drug policy for nonpublic schools.",
+      "number": "3313.7120",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.7120"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.72 - Contract with health district for services of physician, dentist, or nurse.",
+      "number": "3313.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.721 - Health care for students.",
+      "number": "3313.721",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.721"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.73 - Board of health to make examination - report - recommendations to parents.",
+      "number": "3313.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.74 - Certain institutions and establishments not permitted near schools.",
+      "number": "3313.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.74"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.75 - Use of school premises generally.",
+      "number": "3313.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.751 - Prohibition against tobacco possession or use.",
+      "number": "3313.751",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.751"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.752 - Posting of warning concerning anabolic steroids to be posted in locker rooms.",
+      "number": "3313.752",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.752"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.753 - Prohibition against students carrying electronic communications devices.",
+      "number": "3313.753",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.753"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.76 - School premises available for educational and recreational purposes.",
+      "number": "3313.76",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.76"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.77 - Use of school premises for public meetings and entertainments.",
+      "number": "3313.77",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.77"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.78 - Political meetings on school premises - liability for damage.",
+      "number": "3313.78",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.78"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.79 - Responsibility for damage - payment of actual expenses.",
+      "number": "3313.79",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.79"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.791 - Liability for damages arising from use of school premises.",
+      "number": "3313.791",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.791"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.80 - Display of the national flag.",
+      "number": "3313.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.80"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.801 - Display of national and Ohio mottoes.",
+      "number": "3313.801",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.801"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.81 - Management and control of food service operation - provision of meals to the elderly.",
+      "number": "3313.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.811 - Sale of uniform school supplies.",
+      "number": "3313.811",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.811"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.812 - Food service to multiple districts or schools within districts.",
+      "number": "3313.812",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.812"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.813 - Food programs - outdoor education centers.",
+      "number": "3313.813",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.813"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.814 - Standards governing types of foods and beverages sold on school premises.",
+      "number": "3313.814",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.814"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.815 - Employee trained in Heimlich maneuver to be present while students served food.",
+      "number": "3313.815",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.815"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.816 - Sale of a la carte beverage items.",
+      "number": "3313.816",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.816"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.817 - A la carte foods; determination of nutritional value; software.",
+      "number": "3313.817",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.817"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.818 - Breakfast programs.",
+      "number": "3313.818",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.818"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.819 - Free school meals.",
+      "number": "3313.819",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.819"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.8110 - Misbranded meat and cultivated-protein food product purchase prevention policy.",
+      "number": "3313.8110",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.8110"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.82 - Business advisory councils.",
+      "number": "3313.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.82"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.821 - Standards for the operation of business advisory councils.",
+      "number": "3313.821",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.821"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.83 - Regional student education districts.",
+      "number": "3313.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.83"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.831 - Career-technical cooperative education district.",
+      "number": "3313.831",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.831"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.84 - Exchange of teaching services authorized - regulations.",
+      "number": "3313.84",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.84"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.841 - Sharing on cooperative basis services of supervisory, special instruction, and special education teachers.",
+      "number": "3313.841",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.841"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.842 - Joint educational programs.",
+      "number": "3313.842",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.842"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.843 - Agreement for educational service center to provide services to city or exempted village district.",
+      "number": "3313.843",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.843"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.844 - Agreement for providing educational service center services to community school.",
+      "number": "3313.844",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.844"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.845 - Additional agreement for educational service center to provide services to school district.",
+      "number": "3313.845",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.845"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.846 - Provision of services to political subdivisions by educational service center.",
+      "number": "3313.846",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.846"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.848 - Disposition of unexpended funds under service agreement.",
+      "number": "3313.848",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.848"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.849 - Agreements to share services.",
+      "number": "3313.849",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.849"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.85 - Failure of board of education or governing board to fill vacancy.",
+      "number": "3313.85",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.85"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.86 - Health and safety review.",
+      "number": "3313.86",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.86"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.87 - Board of education may join school boards' association.",
+      "number": "3313.87",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.87"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.871 - Payment of annual membership dues and service fees to accrediting associations.",
+      "number": "3313.871",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.871"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.89 - Publication of information regarding online education and career planning tool.",
+      "number": "3313.89",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.89"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.90 - Career-technical education programs.",
+      "number": "3313.90",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.90"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.901 - Courses at Ohio technical centers.",
+      "number": "3313.901",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.901"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.902 - Competency-based educational program.",
+      "number": "3313.902",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.902"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.903 - Measures of skill attainment.",
+      "number": "3313.903",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.903"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.904 - Pre-apprenticeship training programs for career-technical education students.",
+      "number": "3313.904",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.904"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.905 - Ohio code-scholar program.",
+      "number": "3313.905",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.905"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.906 - [Enacted as R.C. 3313.905 by S.B. 166, 134th General Assembly and recodified as R.C. 3313.906 pursuant to R.C. 103.131] Career-technical remote or digital learning.",
+      "number": "3313.906",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.906"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.91 - Contract to purchase vocational education or vocational rehabilitation service.",
+      "number": "3313.91",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.91"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.911 - Assigning district to a joint vocational district.",
+      "number": "3313.911",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.911"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.92 - Joint school building projects.",
+      "number": "3313.92",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.92"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.93 - Occupational work adjustment laboratory - student wages.",
+      "number": "3313.93",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.93"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.941 - Racial data collection for students to include multiracial category.",
+      "number": "3313.941",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.941"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.95 - Contract for police officer to assist in working with students concerning use of alcohol and drugs of abuse.",
+      "number": "3313.95",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.95"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.951 - Qualifications for school resource officers.",
+      "number": "3313.951",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.951"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.96 - Informational programs relative to missing children - fingerprinting program.",
+      "number": "3313.96",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.96"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.97 - Alternative school open enrollment policy procedures.",
+      "number": "3313.97",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.97"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.974 - Pilot project scholarship program definitions.",
+      "number": "3313.974",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.974"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.975 - Pilot project scholarship program.",
+      "number": "3313.975",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.975"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.976 - Registering school.",
+      "number": "3313.976",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.976"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.977 - Priorities for admission of students.",
+      "number": "3313.977",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.977"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.978 - Scholarship use and implementation; tutorial assistance grants.",
+      "number": "3313.978",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.978"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.979 - Payment of scholarships or grants.",
+      "number": "3313.979",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.979"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.98 - Interdistrict enrollment policy.",
+      "number": "3313.98",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.98"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.981 - Interdistrict enrollment reporting and transportation.",
+      "number": "3313.981",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.981"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.982 - Restricting admission schools on basis of academic, athletic, artistic, or other skills.",
+      "number": "3313.982",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.982"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.983 - Joint vocational school district to adopt policy for enrollment of students from adjacent or other district.",
+      "number": "3313.983",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.983"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.984 - Intradistrict open enrollment.",
+      "number": "3313.984",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.984"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3313.99 - Penalty.",
+      "number": "3313.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.99"
+    }
+  ],
+  "scraped": "2026-07-02T19:48:39+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-3313",
+  "title": "Chapter 3313 - Boards of Education"
+}

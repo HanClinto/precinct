@@ -1,0 +1,18 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5119.188
+Scraped: 2026-07-02T20:10:42+00:00
+
+# Section 5119.188 - Education and training program for employees of state correctional and youth services institutions.
+
+**Effective:** September 30, 2025
+
+**Latest Legislation:** House Bill 96 - 136th General Assembly
+
+(A) As used in this section, "state correctional institution" has the same meaning as in section 2967.01 of the Revised Code.
+
+(B) The department of behavioral health shall develop a program that is designed to educate and train the employees of each state correctional institution, the employees of each department of youth services institution, and other persons associated by contract or otherwise with each state correctional institution or each department of youth services institution, who will be responsible for the conduct of, or otherwise providing treatment or rehabilitation services pursuant to, a substance abuse treatment or rehabilitation program offered in the institution to adult prisoners or juvenile offenders. Upon the development of the educational and training program, the department of behavioral health promptly shall commence its implementation. The department of behavioral health may charge to the department of rehabilitation and correction and to the department of youth services a reasonable annual fee that reflects the expenses incurred by it during the immediately preceding calendar year in preparing and offering the educational and training program during that year to the respective employees and other associated persons described in this division.
+
+The director of rehabilitation and correction and the director of youth services shall require the respective employees and other associated persons described in this division to attend and successfully complete the educational and training program developed pursuant to this division as a condition of their continuing to have responsibility for the conduct of, or their continuing to provide treatment or rehabilitation services pursuant to, any treatment or rehabilitation program that is offered in a state correctional institution or in a department of youth services institution to adult prisoners or juvenile offenders. If the department of behavioral health charges a reasonable annual fee as described in this division, the director involved shall cause that fee to be paid from any available funds of the department of rehabilitation and correction or any available funds of the department of youth services.
+
+(C) The department of rehabilitation and correction and the department of behavioral health jointly shall develop program specifications for the alcohol and drug addiction treatment programs offered in state correctional institutions.
+
+Last updated August 13, 2025 at 11:11 AM

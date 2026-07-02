@@ -1,0 +1,40 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4582.56
+Scraped: 2026-07-02T20:06:04+00:00
+
+# Section 4582.56 - Agreements for lakeshore improvement projects.
+
+**Effective:** March 27, 2020
+
+**Latest Legislation:** House Bill 197 - 133rd General Assembly
+
+(A) As used in this section:
+
+(1) "Eligible county" means a county whose territory includes a part of Lake Erie the shoreline of which represents at least fifty per cent of the linear length of the county's border with other counties of this state.
+
+(2) "Lakeshore improvement project" means construction of a port authority facility within one mile of the Lake Erie shoreline in an eligible county.
+
+(3) "Construction" includes acquisition, alteration, construction, creation, development, enlargement, equipment, improvement, installation, reconstruction, remodeling, renovation, or any combination thereof.
+
+(B) The board of directors of a port authority may enter into an agreement with the board of county commissioners of an eligible county that created the port authority providing for all of the following, and any other terms mutually agreeable to the boards:
+
+(1) The board of county commissioners levies an excise tax under division (U) of section 5739.09 of the Revised Code and pledges all the revenue from the tax to the port authority for the purpose of financing lakeshore improvement projects including the payment of debt charges on any securities issued under division (C) of this section.
+
+(2) The port authority constructs or finances the construction of lakeshore improvements and pays the costs of such projects with revenue from the tax pledged under the agreement. Such construction or financing is an authorized purpose for the purposes of division (B) of section 4582.21 of the Revised Code.
+
+(3) The port authority may not enter into any contract or other obligation regarding a lakeshore improvement project before obtaining the approval for the project by the board of county commissioners by a resolution of the board.
+
+(C) The board of directors of a port authority that enters into an agreement under this section may issue port authority special obligation bonds, and notes anticipating the proceeds of the bonds, in the principal amount that, in the opinion of the board, are necessary for the purpose of paying the costs of one or more lakeshore improvement projects or parts of one or more projects and interest on the bonds payable over the term of the issue. The board may refund any special obligation bonds by the issuance of special obligation refunding bonds regardless of whether the bonds to be refunded have or have not matured. The refunding bonds shall be sold, and the proceeds needed for such purpose applied, in the manner provided in the bond proceedings.
+
+Every issue of special obligation bonds issued under this section shall be payable from the revenue from the tax levied under division (U) of section 5739.09 of the Revised Code and pledged for such payment under the agreement. The pledge shall be valid and binding from the time the pledge is made, and the revenue so pledged and received by the port authority shall be subject to the lien of the pledge without any physical delivery of the revenue or any further act. The lien of any pledge is valid and binding as against all parties having claims of any kind in tort, contract, or otherwise against the port authority, whether or not such parties have notice of the lien. Neither the resolution nor any trust agreement by which a pledge is created need be filed or recorded except in the port authority's records.
+
+Whether or not the bonds are of such form and character as to be negotiable instruments under Title XIII of the Revised Code, the bonds shall have all the qualities and incidents of negotiable instruments, subject only to their provisions for registration, if any.
+
+Bonds issued under this section shall bear such date or dates, and shall mature at such time or times not exceeding thirty years from the date of issue of the original bonds and shall be executed in the manner that the resolution authorizing the bonds may provide. The bonds shall bear interest at such rates, or at variable rate or rates changing from time to time, in accordance with provisions provided in the authorizing resolution, shall be in such denominations and form, either coupon or registered, shall carry such registration privileges, shall be payable in such medium of payment and at such place or places, and be subject to such terms of redemption, as the board of directors of the port authority may authorize or provide. The bonds may be sold at public or private sale, and at, or at not less than, the price or prices as the board determines. If any officer whose signature or a facsimile of whose signature appears on any bonds or coupons ceases to be such officer before delivery of the bonds, the signature or facsimile shall nevertheless be sufficient for all purposes as if the officer had remained in office until delivery of the bonds, and in case the seal of the authority has been changed after a facsimile has been imprinted on the bonds, the facsimile seal will continue to be sufficient for all purposes.
+
+Any resolution authorizing bonds under this section may contain provisions governing the use and disposition of revenue pledged under the agreement under division (B) of this section; the crediting of the proceeds of the sale of the bonds to and among the funds referred to or provided for in the resolution; limitations on the purpose to which the proceeds of sale of the bonds may be applied and the pledging of portions of such proceeds to secure payment of the bonds; the issuance of notes in anticipation of the issuance of bonds; the terms upon which additional bonds may be issued and secured; the refunding of outstanding bonds; the procedure, if any, by which the terms of any contract with bondholders may be amended, the amount of bonds the holders of which must consent thereto, and the manner in which such consent may be given; securing any bonds by a trust agreement in accordance with division (D) of this section; and any other matters that may affect the security or protection of the bonds. The taxes anticipated by the bonds are not subject to diminution by initiative or referendum or by law while the bonds or notes remain outstanding in accordance with their terms, unless provision is made by law or by the board of county commissioners and board of directors of the port authority for an adequate substitute therefor reasonably satisfactory to the trustee, if a trust agreement secures the bonds.
+
+Neither the members of the board of directors of the port authority nor any person executing the bonds shall be liable personally on the bonds or be subject to any personal liability or accountability by reason of the issuance.
+
+(D) In the discretion of the board of directors, the bonds issued under this section may be secured by a trust agreement between the board of directors on behalf of the port authority and a corporate trustee, which may be any trust company or bank having powers of a trust company, within or outside the state.
+
+The trust agreement may provide for the pledge or assignment of the tax revenue to be received under the agreement entered into under division (B) of this section, but shall not pledge the general credit or other taxing power of the county or the general credit or taxing power of the port authority. The trust agreement or the resolution providing for the issuance of the bonds may set forth the rights and remedies of the bondholders and trustee, and may contain other provisions for protecting and enforcing their rights and remedies that are determined in the discretion of the board of directors to be reasonable and proper.

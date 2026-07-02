@@ -1,0 +1,1809 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 5534.01 - Sgt. James C. Fekete, SF Memorial Interchange.",
+      "number": "5534.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.011 - Staff Sgt. Richard T. Pummill Memorial Highway.",
+      "number": "5534.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.011"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.012 - U.S. Navy Petty Officer 2nd Class Randall Smith Memorial Highway.",
+      "number": "5534.012",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.012"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.013 - CPL David James Amheiser Memorial Highway.",
+      "number": "5534.013",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.013"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.014 - SFC Charles E. Carpenter Memorial Highway.",
+      "number": "5534.014",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.014"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.02 - FN James C. Baumer, USN Memorial Interchange.",
+      "number": "5534.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.03 - U.S. Army Specialist Justin Helton Memorial Highway.",
+      "number": "5534.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.04 - Marine Sergeant James Prommersberger and Army Second Lieutenant Charles W. Brown Memorial Highway.",
+      "number": "5534.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.05 - Sgt. Terrance R. Mesenburg, USA Memorial Interchange.",
+      "number": "5534.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.06 - Sgt. Michael W. Finke, Jr. U.S.M.C. Memorial Walkover.",
+      "number": "5534.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.07 - LCpl Josh McDaniels Memorial Highway.",
+      "number": "5534.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.08 - Specialist Angel L. Lopez Memorial Highway.",
+      "number": "5534.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.09 - Navy Diver 1st Class James E. Reyher Memorial Highway.",
+      "number": "5534.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.10 - Cpl. James E. Blevins Memorial Highway.",
+      "number": "5534.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.105 - Jackson Township Veterans Memorial Parkway.",
+      "number": "5534.105",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.105"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.11 - Army Cpl. Nathan B. Carse Memorial Highway.",
+      "number": "5534.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.12 - U.S.M.C. Lance Corporal Dustin R. Fitzgerald \"Dusty\" Memorial Highway.",
+      "number": "5534.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.13 - U.S. Army Private First Class James P. White, Jr. \"J.P.\" Memorial Highway.",
+      "number": "5534.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.131 - U.S. Army Private First Class Jerry Bockbrader Memorial Highway.",
+      "number": "5534.131",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.131"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.14 - Army Spc. Joseph \"Joey\" Riley Memorial Highway.",
+      "number": "5534.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.15 - Fireman First Class Irving Eugene Peters Memorial Highway.",
+      "number": "5534.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.151 - Lt Col Thomas P. Belkofer Memorial Highway.",
+      "number": "5534.151",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.151"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.152 - Lance Corporal Michael Stangelo, USMC, Memorial Bridge.",
+      "number": "5534.152",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.152"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.153 - First Lieutenant Gerald B. Greendyke Memorial Highway.",
+      "number": "5534.153",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.153"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.154 - PFC Richard 'Rick' Wesley McFarland Memorial Highway.",
+      "number": "5534.154",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.154"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.16 - Lance Corporal Ryan E. Miller Memorial Highway.",
+      "number": "5534.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.161 - Lance Corporal Michael C. Spaulding, USMC, Memorial Highway.",
+      "number": "5534.161",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.161"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.162 - SPC Connor Wilson-Reichert Memorial Highway.",
+      "number": "5534.162",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.162"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.17 - Lance Cpl. Eric J. Bernholtz Memorial Highway.",
+      "number": "5534.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.18 - Army Pfc. Michael Dominic Paonessa Memorial Highway.",
+      "number": "5534.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.181 - Army PFC Noah C. Porter Memorial Highway.",
+      "number": "5534.181",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.181"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.19 - Lieutenant Stephen Byus Memorial Highway.",
+      "number": "5534.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.20 - Sgt. Jesse Balthaser U.S.M.C. Memorial Highway.",
+      "number": "5534.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.21 - Army Specialist Gerald R. Jenkins Memorial Highway.",
+      "number": "5534.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.22 - Army PFC Kevin C. Ott Memorial Highway.",
+      "number": "5534.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.23 - SFC Bobby Lee Estle Memorial Highway.",
+      "number": "5534.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.24 - 196th Light Infantry Brigade SP4 Robert L. Fowble, Jr., and PFC Jack E. Beam Memorial Highway.",
+      "number": "5534.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.25 - Army Specialist Charles E. Odums II Memorial Highway.",
+      "number": "5534.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.26 - Private First Class William \"Brent\" Turner U.S.M.C. Memorial Highway.",
+      "number": "5534.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.27 - Army Chief Warrant Officer Donald V. Clark Memorial Highway.",
+      "number": "5534.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.28 - Sergeant Adam L. Knox Memorial Highway.",
+      "number": "5534.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.29 - SPC James E. Hall, Jr., Memorial Highway.",
+      "number": "5534.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.30 - Lt. Col. Albert L. Allen, Jr., Memorial Highway.",
+      "number": "5534.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.301 - American Gold Star Mothers, Inc. Memorial Highway.",
+      "number": "5534.301",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.301"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.31 - Corporal William F. Bratt Memorial Highway.",
+      "number": "5534.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.32 - Sgt. Donald Russell Long, Medal of Honor Recipient, Memorial Highway.",
+      "number": "5534.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.33 - USMC LCpl Stacy (Annie) Dryden Memorial Highway.",
+      "number": "5534.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.34 - Oregon Jerusalem Vietnam Veterans Memorial Highway.",
+      "number": "5534.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.35 - Army Specialist Dennis Ramon Memorial Highway.",
+      "number": "5534.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.36 - Lance Corporal Stanley J. Sliwinski Memorial Highway.",
+      "number": "5534.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.37 - PFC Burt \"Rusty\" Miller Memorial Highway.",
+      "number": "5534.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.38 - Lcpl Bret M. Poklar Memorial Highway.",
+      "number": "5534.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.39 - Richland County Veterans Memorial Highway.",
+      "number": "5534.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.40 - Patrolman Carl \"Shorty\" Thrush Memorial Highway.",
+      "number": "5534.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.401 - Lieutenant Michael J. Lutz Memorial Highway.",
+      "number": "5534.401",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.401"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.402 - Deputy Sheriff Robert M. Tanner, Jr. Memorial Highway.",
+      "number": "5534.402",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.402"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.403 - Officers Anthony Morelli and Eric Joering Memorial Highway.",
+      "number": "5534.403",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.403"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.404 - Firefighter/Paramedic Patrick Wolterman Memorial Highway.",
+      "number": "5534.404",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.404"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.405 - Officers Anthony Morelli and Eric Joering Memorial Highway.",
+      "number": "5534.405",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.405"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.406 - Officer Thomas Hayes Memorial Highway.",
+      "number": "5534.406",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.406"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.407 - Patrolman Mathew Mazany Memorial Highway.",
+      "number": "5534.407",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.407"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.408 - Patrolman James A. Fredericka Memorial Highway.",
+      "number": "5534.408",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.408"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.409 - Crooksville Firefighters David Theisen and Stephen Carletti Memorial Highway.",
+      "number": "5534.409",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.409"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.41 - Officer Justin Winebrenner Memorial Highway.",
+      "number": "5534.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.411 - Poland Township Police Officer Charles K. Yates Memorial Highway.",
+      "number": "5534.411",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.411"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.412 - Poland Township Police Officer Richard E. Becker Memorial Highway.",
+      "number": "5534.412",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.412"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.413 - Michael J. Aselage Memorial Highway.",
+      "number": "5534.413",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.413"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.414 - Deputy Bill Brewer Memorial Highway.",
+      "number": "5534.414",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.414"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.415 - Officer Kaia L. Grant Memorial Highway.",
+      "number": "5534.415",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.415"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.416 - Deputy Sheriff Emil Kleinwaechter Memorial Highway.",
+      "number": "5534.416",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.416"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.417 - Ohio State Highway Patrol MCEI Kimra Skelton Memorial Highway.",
+      "number": "5534.417",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.417"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.418 - Deputy Sheriff Bill Bender and Trooper Randy Bender Memorial Highway.",
+      "number": "5534.418",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.418"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.419 - Officer Anthony Dia Memorial Highway.",
+      "number": "5534.419",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.419"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.42 - OSHP Sgt. John F. Best Memorial Highway.",
+      "number": "5534.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.421 - Sheriff Gene Fischer Memorial Highway.",
+      "number": "5534.421",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.421"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.422 - Firefighter Tommy Rees Memorial Highway.",
+      "number": "5534.422",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.422"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.423 - Patrolman James R. Wert Memorial Highway.",
+      "number": "5534.423",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.423"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.424 - Patrolman William J. Keller Memorial Highway.",
+      "number": "5534.424",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.424"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.425 - Chief Radio Operator Walter Dawson Memorial Highway.",
+      "number": "5534.425",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.425"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.426 - Patrolman James P. Gardner Memorial Highway.",
+      "number": "5534.426",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.426"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.427 - Lt. James A. Kirkendall Memorial Highway.",
+      "number": "5534.427",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.427"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.43 - Detective Corporal J. Phillip Brown Memorial Highway.",
+      "number": "5534.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.431 - Officers Dennis Bennington and Robert Seiffert Memorial Highway.",
+      "number": "5534.431",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.431"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.432 - Officer Brandon Stalker Memorial Highway.",
+      "number": "5534.432",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.432"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.433 - Officer Ciera N. Greene Memorial Highway.",
+      "number": "5534.433",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.433"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.434 - Captain \"Smokey\" Carl Edward Summers Memorial Highway.",
+      "number": "5534.434",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.434"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.435 - Sherriff Fredrick J. Abdalla Memorial Highway.",
+      "number": "5534.435",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.435"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.436 - Natural Resources Officer Jason Lagore Memorial Highway.",
+      "number": "5534.436",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.436"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.437 - Sheriff Sergeant William \"Bill\" Morris Memorial Highway.",
+      "number": "5534.437",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.437"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.438 - Officer Dominic Francis Memorial Highway.",
+      "number": "5534.438",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.438"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.439 - Police Chief Cel Rivera Memorial Highway.",
+      "number": "5534.439",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.439"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.44 - Hilliard Patrol Officer Sean Johnson Memorial Highway.",
+      "number": "5534.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.441 - Police Chief Ronnie Ricketts, Sr. Memorial Highway.",
+      "number": "5534.441",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.441"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.442 - Cleveland Firefighter Johnny Tetrick Memorial Highway.",
+      "number": "5534.442",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.442"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.45 - Officer David Fahey Jr. Cleveland Police First District Memorial Highway.",
+      "number": "5534.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.452 - Sheriff Dale R. Williams Memorial Highway.",
+      "number": "5534.452",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.452"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.453 - Dispatcher T.J. D'Apolito Memorial Highway.",
+      "number": "5534.453",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.453"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.46 - Trooper Kenny Velez Memorial Highway.",
+      "number": "5534.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.47 - Ohio Inspector General David D. Sturtz Memorial Highway.",
+      "number": "5534.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.48 - Toledo Firefighters J. Dickman and S. Machcinski Memorial Highway.",
+      "number": "5534.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.481 - Patrolman Dane L. Rowe Memorial Highway.",
+      "number": "5534.481",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.481"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.483 - Deputy Sheriff Matthew Yates Memorial Highway.",
+      "number": "5534.483",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.483"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.484 - Patrolman David L. Cole Memorial Highway.",
+      "number": "5534.484",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.484"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.485 - Town and Country Firefighter Lt. Philip M. Wigal Memorial Highway.",
+      "number": "5534.485",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.485"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.486 - Firefighter Charles D. Swank Memorial Highway.",
+      "number": "5534.486",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.486"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.49 - Officer Thomas W. Cottrell Jr. Memorial Highway.",
+      "number": "5534.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.491 - Captain Michael Palumbo Memorial Highway.",
+      "number": "5534.491",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.491"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.492 - Officer Sonny L. Kim Memorial Highway.",
+      "number": "5534.492",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.492"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.493 - Kirkersville Chief Steven \"Eric\" DiSario Memorial Highway.",
+      "number": "5534.493",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.493"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.494 - Patrolman Jason Gresko Memorial Highway.",
+      "number": "5534.494",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.494"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.495 - Patrolman Paul L. McManis Memorial Highway.",
+      "number": "5534.495",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.495"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.496 - Patrolman Leroy S. Bedell Memorial Highway.",
+      "number": "5534.496",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.496"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.497 - Patrolman Sean VanDenberg Memorial Highway.",
+      "number": "5534.497",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.497"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.498 - Captain Charles R. Miner Memorial Bridge.",
+      "number": "5534.498",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.498"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.499 - Corporal John E. Ruch Memorial Highway.",
+      "number": "5534.499",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.499"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.50 - John W.E. Bowen III Memorial Roadway.",
+      "number": "5534.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.501 - Don Manning memorial bridge.",
+      "number": "5534.501",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.501"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.503 - Kris Jordan Memorial Highway.",
+      "number": "5534.503",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.503"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.51 - Rep. Frederick H. Deering Memorial Highway.",
+      "number": "5534.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.512 - Brigid Kelly Norwood Lateral.",
+      "number": "5534.512",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.512"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.513 - World War II Veterans Memorial Highway.",
+      "number": "5534.513",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.513"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.515 - Gunnery Sergeant James W. Speedy Memorial Interchange.",
+      "number": "5534.515",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.515"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.518 - State Representative Andy Thompson Memorial Highway.",
+      "number": "5534.518",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.518"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.52 - State Senator C. Stanley Mechem Memorial Highway.",
+      "number": "5534.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.53 - Governor Richard F. Celeste.",
+      "number": "5534.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.54 - Robert E. Turney Memorial Highway.",
+      "number": "5534.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.55 - Congressman Michael G. Oxley Memorial Highway.",
+      "number": "5534.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.56 - Carl and Louis Stokes Opportunity Corridor.",
+      "number": "5534.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.57 - Harry Meshel Memorial Highway.",
+      "number": "5534.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.58 - Ralph Regula Memorial Highway.",
+      "number": "5534.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.60 - PFC William Boggs, CPL Sam Boggs, and SGT Robert Boggs Memorial Highway.",
+      "number": "5534.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.601 - RDML Alene Duerk Memorial Highway.",
+      "number": "5534.601",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.601"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.602 - SFC Charles Gregory Huston Memorial Highway.",
+      "number": "5534.602",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.602"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.603 - Army Sergeant Patrick Ryan Carroll Memorial Highway.",
+      "number": "5534.603",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.603"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.604 - SSG Kyle R. McKee Memorial Highway.",
+      "number": "5534.604",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.604"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.605 - Army Sgt. Vernon R. Judd Memorial Highway.",
+      "number": "5534.605",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.605"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.606 - Sgt. Thomas Cole Walker Memorial Bridge.",
+      "number": "5534.606",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.606"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.608 - Specialist Ronald Gene Johnson Memorial Overpass.",
+      "number": "5534.608",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.608"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.61 - Sergeant Emile DeLeau, Jr. Medal of Honor Recipient Memorial Highway.",
+      "number": "5534.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.611 - Cpl. Fred B. McGee Memorial Highway.",
+      "number": "5534.611",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.611"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.612 - Veterans Memorial Bridge.",
+      "number": "5534.612",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.612"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.613 - Captain David \"Hank\" Spellacy Memorial Highway.",
+      "number": "5534.613",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.613"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.614 - Staff Sgt. Zachary Wobler Memorial Highway.",
+      "number": "5534.614",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.614"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.615 - Staff Sergeant George P. Mizik (USMC) Memorial Highway.",
+      "number": "5534.615",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.615"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.616 - SSgt Gene F. Morrison Memorial Bridge.",
+      "number": "5534.616",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.616"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.618 - Hubbard First Responders Bridge.",
+      "number": "5534.618",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.618"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.62 - Sergeant Sylvester Antolak Medal of Honor Recipient Memorial Highway.",
+      "number": "5534.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.63 - Sergeant Joseph W. Danison Memorial Highway.",
+      "number": "5534.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.631 - Sgt. Jordan Marshall Memorial Highway.",
+      "number": "5534.631",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.631"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.64 - Ohio Valley Vietnam Veterans Memorial Highway.",
+      "number": "5534.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.641 - Veterans Legacy Highway.",
+      "number": "5534.641",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.641"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.642 - PFC Henry \"Rick\" Hausman, Jr. Memorial Highway.",
+      "number": "5534.642",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.642"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.643 - PFC Jerry D. Leak Memorial Highway.",
+      "number": "5534.643",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.643"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.644 - Specialist Dennis Alan Combs Memorial Highway.",
+      "number": "5534.644",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.644"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.646 - Brigadier General Charles Young Memorial Historical Corridor.",
+      "number": "5534.646",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.646"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.648 - Army Lt. Col. Robert R. Melnick Memorial Highway.",
+      "number": "5534.648",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.648"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.649 - Sgt. Todd M. Bates Memorial Highway.",
+      "number": "5534.649",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.649"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.65 - Sgt. William 'Bill' Endress and Geneva Vietnam War Veterans Memorial Highway.",
+      "number": "5534.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.651 - Cpl. Jack O. McClure Memorial Highway.",
+      "number": "5534.651",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.651"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.653 - Delaware County Veterans Memorial Highway.",
+      "number": "5534.653",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.653"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.655 - Vienna Township Veterans Bridge.",
+      "number": "5534.655",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.655"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.656 - Specialist Five Frederick Wayne Taylor Memorial Highway.",
+      "number": "5534.656",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.656"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.658 - Cortland Veterans Memorial Bridge.",
+      "number": "5534.658",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.658"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.659 - Army Corporal Charles E. Hiltibran Memorial Highway.",
+      "number": "5534.659",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.659"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.66 - Marine Gunnery Sgt. Robert L. Gilbert II Memorial Highway.",
+      "number": "5534.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.661 - Sgt. Cory M. Endlich Corridor.",
+      "number": "5534.661",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.661"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.662 - Lance Corporal Jimmy Rizzo Memorial Highway.",
+      "number": "5534.662",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.662"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.663 - Ottawa County Veterans Memorial Highway.",
+      "number": "5534.663",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.663"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.664 - Lance Corporal Austin B. Schwenk Memorial Highway.",
+      "number": "5534.664",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.664"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.665 - Major David McGue Memorial Highway.",
+      "number": "5534.665",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.665"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.667 - Army PFC Herbert S. Bechtel Memorial Highway.",
+      "number": "5534.667",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.667"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.669 - Patrolman Frank J. Hossler Memorial Highway.",
+      "number": "5534.669",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.669"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.67 - Corporal Nathan R. Anderson Memorial Bridge.",
+      "number": "5534.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.67"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.671 - Licking County Veterans Memorial Highway.",
+      "number": "5534.671",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.671"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.672 - U.S.S. Shenandoah Memorial Highway.",
+      "number": "5534.672",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.672"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.673 - CPT Louis John Speidel Memorial Highway.",
+      "number": "5534.673",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.673"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.674 - CPL Willard Boston Wallace Memorial Highway.",
+      "number": "5534.674",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.674"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.675 - Specialist Lloyd Andrew Sellers Memorial Highway.",
+      "number": "5534.675",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.675"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.68 - U.S. Army Specialist Jason N. Cox Memorial Highway.",
+      "number": "5534.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.68"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.69 - Sergeant James F. Allen III Memorial Highway.",
+      "number": "5534.69",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.69"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.70 - Neil Armstrong Memorial Way.",
+      "number": "5534.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.701 - Peter and Sarah Fossett Memorial Bridge.",
+      "number": "5534.701",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.701"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.702 - Murray Ebner, Holocaust Survivor and Korean War Veteran, Memorial Highway.",
+      "number": "5534.702",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.702"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.703 - Pharmacist's Mate Third Class Willard L. Shupe Memorial Highway.",
+      "number": "5534.703",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.703"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.704 - LCpl. Timothy Michael Bell, Jr. Memorial Highway.",
+      "number": "5534.704",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.704"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.71 - Lt. Col. Ralph D. Cole Memorial Bridge.",
+      "number": "5534.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.72 - Air Force Master Sgt. William L. McDaniel II Memorial Highway.",
+      "number": "5534.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.73 - Army PFC Neil R. Scott Memorial Highway.",
+      "number": "5534.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.74 - Army Corporal Carl H. Bernhart Memorial Highway.",
+      "number": "5534.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.74"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.75 - Sgt. Bruce R. Jones Memorial Bridge.",
+      "number": "5534.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.751 - PFC Oscar F. Nicewander Memorial Highway.",
+      "number": "5534.751",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.751"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.752 - Damascus Bridge.",
+      "number": "5534.752",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.752"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.76 - Lance Corporal Christopher J. Dyer USMC, Lima Co, 3/25 Marines Memorial Highway.",
+      "number": "5534.76",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.76"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.761 - Cpl. David A. Johnston Memorial Highway.",
+      "number": "5534.761",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.761"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.77 - Marine Sgt. David R. Christoff Memorial Highway.",
+      "number": "5534.77",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.77"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.78 - Army Specialist Danny Raymond King Memorial Highway.",
+      "number": "5534.78",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.78"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.79 - Justice Robert Duncan Memorial Highway.",
+      "number": "5534.79",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.79"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.80 - Specialist Lawrence George Stapleton Memorial Highway.",
+      "number": "5534.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.80"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.801 - Staff Sergeant Paul C. Mardis Jr. Memorial Highway.",
+      "number": "5534.801",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.801"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.802 - SGT David Sexton Memorial Highway.",
+      "number": "5534.802",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.802"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.803 - SGT Glen Millinger Memorial Highway.",
+      "number": "5534.803",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.803"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.804 - Army Specialist David Lee Bingamon Memorial Highway.",
+      "number": "5534.804",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.804"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.805 - Clermont County Vietnam Veterans Memorial Highway.",
+      "number": "5534.805",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.805"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.806 - Brown County Vietnam Veterans Memorial Highway.",
+      "number": "5534.806",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.806"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.807 - SFC John E. Conger, Jr. Memorial Highway.",
+      "number": "5534.807",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.807"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.808 - Sgt. Herman Zerger Highway.",
+      "number": "5534.808",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.808"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.809 - Cpl. Jerry Robert Spitler Memorial Highway.",
+      "number": "5534.809",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.809"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.81 - Purple Heart Veterans Memorial Bridge.",
+      "number": "5534.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.811 - Henry County Veterans Highway.",
+      "number": "5534.811",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.811"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.812 - SGT Alex Drabik Memorial Highway.",
+      "number": "5534.812",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.812"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.813 - LCpl Gerald Subler Memorial Highway.",
+      "number": "5534.813",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.813"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.814 - Col. Donald Blakeslee Memorial Bridg.",
+      "number": "5534.814",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.814"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.815 - Army Cpt. Stephen J. Chaney Memorial Highway.",
+      "number": "5534.815",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.815"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.816 - Air Force 2nd Lt. William Vaughan Memorial Bridge.",
+      "number": "5534.816",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.816"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.817 - Marine LCpl Jacob Spann Memorial Highway.",
+      "number": "5534.817",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.817"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.818 - PFC George Dennis McClelland Memorial Highway.",
+      "number": "5534.818",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.818"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.819 - Adams County Vietnam Veterans Memorial Highway.",
+      "number": "5534.819",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.819"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.82 - World War I and World War II Veterans Memorial Bridge.",
+      "number": "5534.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.82"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.821 - Purple Heart Veterans Memorial Bridge.",
+      "number": "5534.821",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.821"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.822 - Veterans Suicide Memorial Mile.",
+      "number": "5534.822",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.822"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.823 - PFC M. Preston Wheeler Memorial Highway.",
+      "number": "5534.823",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.823"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.824 - Master Chief Special Warfare Operator (SEAL) Edward C. Byers, Jr. Medal of Honor Recipient Highway.",
+      "number": "5534.824",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.824"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.825 - SGT Arthur A. Mora, Jr. Memorial Highway.",
+      "number": "5534.825",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.825"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.826 - Charles C. Nichols Memorial Highway.",
+      "number": "5534.826",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.826"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.827 - PFC Ronald J. Puskarcik Memorial Highway.",
+      "number": "5534.827",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.827"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.828 - CPL Benjamin C. Dillon, RLTW, Memorial Highway.",
+      "number": "5534.828",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.828"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.829 - Cpl. Fredrick Wayne Miller Memorial Highway.",
+      "number": "5534.829",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.829"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.83 - Army PFC Walter Earl Duncan, Jr. Memorial Highway.",
+      "number": "5534.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.83"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.831 - U.S. Navy Corpsman Maxton Soviak Memorial Highway.",
+      "number": "5534.831",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.831"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.832 - SPC Christian M. Neff Memorial Highway.",
+      "number": "5534.832",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.832"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.833 - Cpl. Andrew D. Brownfield Memorial Highway.",
+      "number": "5534.833",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.833"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.834 - LCpl David E. Morton Memorial Highway.",
+      "number": "5534.834",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.834"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.835 - TSgt. Grover Lee Swearingen Memorial Highway.",
+      "number": "5534.835",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.835"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.836 - Putnam County Veterans Memorial Highway.",
+      "number": "5534.836",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.836"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.837 - Lake Township Veterans Memorial Highway.",
+      "number": "5534.837",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.837"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.838 - SGT Joseph P. Collette Memorial Highway.",
+      "number": "5534.838",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.838"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.839 - Corporal Dustin A. Derga Memorial Highway.",
+      "number": "5534.839",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.839"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.84 - Women Veterans Bridge.",
+      "number": "5534.84",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.84"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.841 - SFC Ron Rosser Medal of Honor Recipient Memorial Highway.",
+      "number": "5534.841",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.841"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.842 - SSG Garren Ray Goudy Memorial Highway.",
+      "number": "5534.842",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.842"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.843 - Williams County Veterans Memorial Highway.",
+      "number": "5534.843",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.843"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.844 - PFC Edward O'Dell Mullins, Jr. Memorial Bridge.",
+      "number": "5534.844",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.844"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.845 - Sgt. Cameron H. Thomas Memorial Way; Sgt. Kevin J. Lannon Memorial Way.",
+      "number": "5534.845",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.845"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.846 - Byers Brothers Memorial Highway.",
+      "number": "5534.846",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.846"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.847 - Sgt Bradley J. Harper USMC Memorial Highway.",
+      "number": "5534.847",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.847"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.848 - Paulding County Purple Heart Memorial Highway.",
+      "number": "5534.848",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.848"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.849 - Van Wert County Veteran's Memorial Highway.",
+      "number": "5534.849",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.849"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.85 - LCpl Marc L. Cole Memorial Highway.",
+      "number": "5534.85",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.85"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.86 - The American Legion Highway.",
+      "number": "5534.86",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.86"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.87 - Private First Class Donald E. Byrum Memorial Highway.Private First Class Donald E. Byrum Memorial Highway.",
+      "number": "5534.87",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.87"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.871 - SGT Meredith L. Barnett Memorial Highway.",
+      "number": "5534.871",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.871"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.872 - U.S. Army Specialist Christian D. Ward Memorial Highway.",
+      "number": "5534.872",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.872"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.873 - Lance Corporal James F. Kimple Memorial Highway.",
+      "number": "5534.873",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.873"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.874 - Army SSgt. Charles V. Kettler Memorial Highway.",
+      "number": "5534.874",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.874"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.875 - Army Sgt. Herbert C. Linville Memorial Highway.",
+      "number": "5534.875",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.875"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.876 - Army Sgt. Ronnie Blair Memorial Highway.",
+      "number": "5534.876",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.876"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.877 - Sgt. Anthony Kress Vinnedge Memorial Highway.",
+      "number": "5534.877",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.877"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.878 - Gold and Blue Star Family Memorial Bridge.",
+      "number": "5534.878",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.878"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.879 - POW/MIA Memorial Viaduct.",
+      "number": "5534.879",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.879"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.88 - U.S. Air Force Staff Sergeant Yvonne Marie Fair Memorial Highway.",
+      "number": "5534.88",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.88"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.881 - Lance Corporal James Sprowl Memorial Highway.",
+      "number": "5534.881",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.881"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.882 - CWO3 James E. Groves III Memorial Highway.",
+      "number": "5534.882",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.882"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.883 - SGT Michael Keith Hamner Memorial Highway.",
+      "number": "5534.883",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.883"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.884 - LTC Kevin Sonnenberg Memorial Highway.",
+      "number": "5534.884",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.884"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.885 - Canfield Armed Forces Bridge.",
+      "number": "5534.885",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.885"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.886 - Canfield First Responders Bridge.",
+      "number": "5534.886",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.886"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.887 - Lewis John Speece, Jr. Memorial Bridge.",
+      "number": "5534.887",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.887"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.888 - SGT Theodore Ward Memorial Highway.",
+      "number": "5534.888",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.888"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.889 - Teresa Miller-Martin 9/11 Memorial Highway.",
+      "number": "5534.889",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.889"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.89 - Catawba Island Township Veterans Memorial Highway.",
+      "number": "5534.89",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.89"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.891 - Pvt. David Rhoades Memorial Highway.",
+      "number": "5534.891",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.891"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.892 - First Lt. Harry L. Martin Memorial Highway.",
+      "number": "5534.892",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.892"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.893 - Army Staff Sgt. Dennis J. Hansen Memorial Highway.",
+      "number": "5534.893",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.893"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.894 - Army National Guard Sgt. Jeremy M. Hodge Memorial Highway.",
+      "number": "5534.894",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.894"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.895 - Marine Gunnery Sgt. David S. Spicer Memorial Highway.",
+      "number": "5534.895",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.895"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.896 - Trucks Bridge.",
+      "number": "5534.896",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.896"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.897 - Joseph K. Vrabel \"Ohio Veterans Hall of Fame\" Memorial Highway.",
+      "number": "5534.897",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.897"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.898 - SGT David S. Harris Memorial Highway.",
+      "number": "5534.898",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.898"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.899 - PFC Steven D. Smith Memorial Highway.",
+      "number": "5534.899",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.899"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.90 - Specialist Jacob A. Ashton Memorial Bridge.",
+      "number": "5534.90",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.90"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.902 - Wayne County Gold Star Family Memorial Highway.",
+      "number": "5534.902",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.902"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.91 - James H. Hough Memorial Highway.",
+      "number": "5534.91",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.91"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.911 - Steve Story Memorial Highway.",
+      "number": "5534.911",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.911"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.912 - Steven Lowell Cook Memorial Highway.",
+      "number": "5534.912",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.912"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.913 - Ronald H. Barron Memorial Highway.",
+      "number": "5534.913",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.913"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.916 - Officer M. Scott Moyer Memorial Highway.",
+      "number": "5534.916",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.916"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.917 - Officer Wayne A. Leon Memorial Highway.",
+      "number": "5534.917",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.917"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.918 - PFC Dale Marker Memorial Highway.",
+      "number": "5534.918",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.918"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.92 - James F. Dicke, Sr. Memorial Highway.",
+      "number": "5534.92",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.92"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.923 - SGT Gary Lee McKiddy Memorial Highway.",
+      "number": "5534.923",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.923"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.924 - Dr. Steven Takacs Veteran Memorial Highway.",
+      "number": "5534.924",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.924"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.925 - Richard \"Dick\" Mallon Memorial Highway.",
+      "number": "5534.925",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.925"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.93 - Officer Bill Johnson Memorial Highway.",
+      "number": "5534.93",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.93"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.94 - Virginia E. \"Ginny\" Kirsch Memorial Highway.",
+      "number": "5534.94",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.94"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.95 - Roy Rogers Happy Trails Highway.",
+      "number": "5534.95",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.95"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.96 - Football Heritage Corridor.",
+      "number": "5534.96",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.96"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.962 - Jesse Owens Memorial Highway.",
+      "number": "5534.962",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.962"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.963 - SM1 Cornelius Anthony McCafferty, Jr. Memorial Highway.",
+      "number": "5534.963",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.963"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.97 - Frank Watson Memorial Highway.",
+      "number": "5534.97",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.97"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5534.98 - Larry Morgan Memorial Highway.",
+      "number": "5534.98",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5534.98"
+    }
+  ],
+  "scraped": "2026-07-02T20:13:10+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-5534",
+  "title": "Chapter 5534 - Memorial Highways"
+}

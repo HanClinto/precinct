@@ -1,0 +1,12 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3707.02
+Scraped: 2026-07-02T19:51:07+00:00
+
+# Section 3707.02 - Proceedings when order of board is neglected or disregarded.
+
+**Effective:** October 1, 1953
+
+**Latest Legislation:** House Bill 1 - 100th General Assembly
+
+When an order of the board of health of a city or general health district, made pursuant to section 3707.01 of the Revised Code, is neglected or disregarded, in whole or in part, the board may elect to cause the arrest and prosecution of all persons offending, or to perform, by its officers and employees, what the offending parties should have done. If the latter course is chosen, before the execution of the order is begun, the board shall cause a citation to issue and be served upon the persons responsible, if residing within the jurisdiction of the board, but if not, such citation shall be mailed to such persons by registered letter, if the address is known or can be found by ordinary diligence. If the address cannot be found, the board shall cause the citation to be left upon the premises, in charge of any person residing thereon, otherwise it shall be posted conspicuously thereon. The citation shall briefly recite the cause of complaint, and require the owner or other persons responsible to appear before the board at a time and place stated, or as soon thereafter as a hearing can be had, and show cause why the board should not proceed and furnish the material and labor necessary and remove the cause of complaint.
+
+If the persons cited appear, they shall be fully apprised of the cause of complaint and given a fair hearing. The board shall then make such order as it deems proper, and if material or labor is necessary to satisfy the order, and the persons cited promise, within a definite and reasonable time, to furnish them, the board shall grant such time. If no promise is made, or kept, the board shall furnish the material and labor, cause the work to be done, and certify the cost and expense to the county auditor. If the material and labor are itemized and the statement is accompanied by the certificate of the president of the board, attested by the clerk, reciting the order of the board and that the amount is correct, the auditor has no discretion, but shall place such sum against the property upon which the material and labor were expended, which shall, from the date of entry, be a lien upon the property and be paid as other taxes are paid.

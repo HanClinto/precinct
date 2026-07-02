@@ -1,0 +1,32 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-1745.55
+Scraped: 2026-07-02T19:39:27+00:00
+
+# Section 1745.55 - Judicial dissolution.
+
+**Effective:** May 22, 2012
+
+**Latest Legislation:** House Bill 267 - 129th General Assembly
+
+(A) An unincorporated nonprofit association may be dissolved judicially and its affairs wound up in any of the following manners:
+
+(1) By an order of the supreme court or of a court of appeals in an action in quo warranto brought as provided by sections 2733.02 to 2733.39 of the Revised Code, in which event the court may order the affairs of the association to be wound up by its managers as in the case of voluntary dissolution or by proceedings in, and under the order of, the court of common pleas of the county in this state in which the association has its principal office;
+
+(2) By an order of the court of common pleas of the county in this state in which that association has its principal office, in an action brought by members entitled to dissolve the association voluntarily, if any of the following is established:
+
+(a) The association's period of existence as set forth in its governing principles has expired, and it is necessary in order to protect the members that the association be judicially dissolved.
+
+(b) The association is insolvent or is unable to afford reasonable security to those who may deal with it, and it is necessary in order to protect the creditors of the association that the association be judicially dissolved.
+
+(c) The objects of the association have wholly failed or are entirely abandoned, or their accomplishment is impracticable.
+
+(3) By an order of the court of common pleas of the county in this state in which the association has its principal office, in an action brought by a majority of the voting members or by any lesser proportion or number of members that are entitled by the governing principles to dissolve the association voluntarily, if it is established that it is beneficial to the members that the association be judicially dissolved;
+
+(4) By an order of the court of common pleas of the county in this state in which the association has its principal office, in an action brought by one-half of the managers if there is an even number of managers or by one-half of the members if it is established that the association has an even number of managers who are deadlocked in the management of the association's affairs, and the members are unable to break the deadlock, or if it is established that the association has an uneven number of managers, and the members are deadlocked in voting power and unable to agree upon or vote for the election of managers as successors to managers whose terms normally would expire upon the election of their successors.
+
+(B) A complaint for judicial dissolution shall be verified by any of the complainants and shall set forth facts showing that the case is one of those specified in this section. Unless the complainants set forth in the complaint that they are unable to annex a list of members, a schedule shall be annexed to the complaint setting forth the name of each member and the member's address if it is known.
+
+(C) Upon the filing of a complaint for judicial dissolution, the court with which it is filed shall have the power to issue injunctions, to appoint a receiver with the authority and duties that the court from time to time may direct, to take any other proceedings that may be necessary to protect the property or the rights of the complainants or of the persons interested, and to carry on the activities of the unincorporated nonprofit association until a full hearing can be had. Upon or after the filing of a complaint for judicial dissolution, the court by injunction or order may stay the prosecution of any proceeding against the unincorporated nonprofit association or involving any of its property and require the parties to it to present and prove their claims, demands, rights, interests, or liens at the time and in the manner required of creditors or others. The court may refer the complaint to a special master commissioner.
+
+(D) After a hearing had upon the notice that the court may direct to be given to all parties to the proceeding and to any other parties in interest designated by the court, a final order based either upon the evidence or upon the report of the special master commissioner if one has been appointed, shall be made dissolving the association or dismissing the complaint. An order or judgment for the judicial dissolution of an unincorporated nonprofit association shall contain a concise statement of the proceedings leading up to the order or judgment, the name of the association, the place in this state where its principal office is located, the names and addresses of its managers, the name and address of a statutory agent, and if desired, any other provisions with respect to the judicial dissolution and winding up of affairs that are considered necessary or desirable. Upon the issuance of that order or judgment, the association shall be dissolved. To the extent consistent with orders entered in that proceeding, the effect of the judicial dissolution shall be the same as in the case of voluntary dissolution, and the provisions of sections 1745.52 , 1745.53 , and 1745.54 of the Revised Code with respect to the authority and duties of managers during the winding up of the affairs of an association dissolved voluntarily, the jurisdiction of courts over the winding up of the affairs of an association, and receivers for winding up the affairs of an association are applicable to associations that are judicially dissolved. If a statement is on file with the secretary of state appointing an agent authorized to receive service of process on the association, or if any other document is on file with the secretary of state with respect to the association, a certified copy of any order or judgment dissolving the association shall be filed with the secretary of state.
+
+(E) A judicial proceeding under this section concerning the judicial dissolution of an unincorporated nonprofit association is a special proceeding, and final orders in the proceeding may be vacated, modified, or reversed on appeal pursuant to the Rules of Appellate Procedure or the Rules of Practice of the Supreme Court, whichever are applicable, and, to the extent not in conflict with those rules, Chapter 2505. of the Revised Code.

@@ -1,0 +1,48 @@
+{
+  "glossary": [
+    {
+      "definition": "(a) \"Drug\" has the same meaning as in the \"Federal Food, Drug, and Cosmetic Act,\" 52 Stat. 1040, 1041 (1938), 21 U.S.C. 321(g)(1), as amended.",
+      "id": "2307.80-drug",
+      "normalized": "drug",
+      "scope": "",
+      "section": "2307.80",
+      "source_title": "Section 2307.80 - Punitive or exemplary damages from manufacturer or supplier.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2307.80",
+      "term": "Drug"
+    },
+    {
+      "definition": "(b) \"Device\" has the same meaning as in the \"Federal Food, Drug, and Cosmetic Act,\" 52 Stat. 1040, 1041 (1938), 21 U.S.C. 321(h), as amended.\n\n(D)(1) If a claimant alleges in a product liability claim that a product other than a drug or device caused harm to the claimant, the manufacturer or supplier of the product shall not be liable for punitive or exemplary damages in connection with the claim if the manufacturer or supplier fully complied with all applicable government safety and performance standards, whether or not designated as such by the government, relative to the product's manufacture or construction, the product's design or formulation, adequate warnings or instructions, and representations when the product left the control of the manufacturer or supplier, and the claimant's injury results from an alleged defect of a product's manufacture or construction, the product's design or formulation, adequate warnings or instructions, and representations for which there is an applicable government safety or performance standard.\n\n(2) Division (D)(1) of this section does not apply if the claimant establishes, by a preponderance of the evidence, that the manufacturer or supplier of the product other than a drug or device fraudulently and in violation of applicable government safety and performance standards, whether or not designated as such by the government, withheld from an applicable government agency information known to be material and relevant to the harm that the claimant allegedly suffered or misrepresented to an applicable government agency information of that type.\n\n(E) The bifurcated trial provisions of division (B) of section 2315.21 of the Revised Code, the ceiling on recoverable punitive or exemplary damages specified in division (D)(1) of that section, and the provisions of division (D)(3) of that section apply to awards of punitive or exemplary damages under this section.",
+      "id": "2307.80-device",
+      "normalized": "device",
+      "scope": "",
+      "section": "2307.80",
+      "source_title": "Section 2307.80 - Punitive or exemplary damages from manufacturer or supplier.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2307.80",
+      "term": "Device"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2307.73",
+      "number": "2307.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.73"
+    },
+    {
+      "kind": "section",
+      "label": "2307.78",
+      "number": "2307.78",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.78"
+    },
+    {
+      "kind": "section",
+      "label": "2315.21",
+      "number": "2315.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2315.21"
+    }
+  ],
+  "scraped": "2026-07-02T19:43:26+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2307.80",
+  "title": "Section 2307.80 - Punitive or exemplary damages from manufacturer or supplier."
+}

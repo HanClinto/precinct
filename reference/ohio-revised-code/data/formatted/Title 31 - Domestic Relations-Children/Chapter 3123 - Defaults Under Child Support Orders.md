@@ -1,0 +1,123 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-3123
+Scraped: 2026-07-02T19:48:00+00:00
+
+# Chapter 3123 - Defaults Under Child Support Orders
+
+## Sections
+
+- Section 3123.01 - Defaults under child support orders definitions.
+- Section 3123.02 - Investigation after identification of default under support order.
+- Section 3123.021 - Notifying employer to withhold arrearage amount.
+- Section 3123.022 - Right to contest.
+- Section 3123.03 - Sending default notice to obligor.
+- Section 3123.031 - Default notice contents.
+- Section 3123.032 - Notice becomes final determination if no request for hearing.
+- Section 3123.033 - Standard forms for default notice.
+- Section 3123.034 - Notice issued before 12/13/2002.
+- Section 3123.04 - Administrative hearing.
+- Section 3123.05 - Motion for court hearing.
+- Section 3123.06 - Final and enforceable determination of default.
+- Section 3123.061 - Application of presumed minimum payment provision.
+- Section 3123.07 - Failing to give default notice.
+- Section 3123.10 - Duty of court to notify agency.
+- Section 3123.11 - Agency to notify obligee of default.
+- Section 3123.12 - Keeping case files open.
+- Section 3123.121 - Rules for keeping case files open.
+- Section 3123.13 - Payment of arrearage does not terminate order.
+- Section 3123.14 - Collecting arrearage where order is terminated.
+- Section 3123.15 - Action to collect arrearage.
+- Section 3123.16 - Payments to be monthly.
+- Section 3123.17 - Issuing or modifying support order when obligor is in default under prior order.
+- Section 3123.171 - Interest on support arrearage.
+- Section 3123.18 - Final judgment.
+- Section 3123.181 - Certified pay-off statement.
+- Section 3123.182 - Obtaining execution on certified pay-off statement.
+- Section 3123.183 - Applicability of additional authority to collect arrearage.
+- Section 3123.19 - Disposing of payments received on arrearage.
+- Section 3123.20 - Employer may not penalize employee for being subject to support order.
+- Section 3123.21 - Presumed minimum payment on arrearage.
+- Section 3123.22 - Additional authority of agency to collect arrearage.
+- Section 3123.23 - Collection of arrearages from collateral sources.
+- Section 3123.24 - Access restriction defined.
+- Section 3123.25 - Account information of obligor in default entered into case registry.
+- Section 3123.26 - Restrictions on account placed by financial institution.
+- Section 3123.27 - Investigating account.
+- Section 3123.28 - Withdrawal directive.
+- Section 3123.29 - Notice to other person with ownership interest in account.
+- Section 3123.30 - Notice contents.
+- Section 3123.31 - Administrative hearing request.
+- Section 3123.32 - Withdrawal directive where no hearing request.
+- Section 3123.33 - Hearing.
+- Section 3123.34 - Releasing access restriction on account.
+- Section 3123.35 - Court determination of amount of account belonging to other person.
+- Section 3123.36 - Court order for full or partial release of account.
+- Section 3123.37 - Contents of withdrawal directive.
+- Section 3123.38 - Financial institution imposing access restriction - immunity.
+- Section 3123.41 - Board, license defined.
+- Section 3123.42 - Determining whether defaulting obligor is license holder.
+- Section 3123.43 - Notice to obligor and licensing board.
+- Section 3123.44 - Contents of notice to obligor.
+- Section 3123.45 - Notice to board if obligor is not in default.
+- Section 3123.46 - Notice to board if obligor is no longer out of compliance.
+- Section 3123.47 - Refusal, nonrenewal or suspension of license of obligor.
+- Section 3123.471 - File of notices concerning obligors not currently licensed.
+- Section 3123.48 - Issuing license when obligor becomes eligible.
+- Section 3123.49 - Hearing.
+- Section 3123.50 - License applicant to include social security number.
+- Section 3123.53 - Determining whether defaulting obligor is motor vehicle license holder.
+- Section 3123.54 - Notice to obligor and registrar.
+- Section 3123.55 - Contents of notice to obligor.
+- Section 3123.56 - Notice to registrar if obligor is not in default.
+- Section 3123.57 - Notice to registrar if obligor is no longer out of compliance.
+- Section 3123.58 - Notice to registrar and deputies; grant of limited driving privileges.
+- Section 3123.581 - File of notices concerning obligors not currently licensed.
+- Section 3123.59 - Issuing license when obligor becomes eligible.
+- Section 3123.591 - Removal of record of suspension for juveniles.
+- Section 3123.60 - No hearing to be held.
+- Section 3123.62 - Determining whether defaulting obligor is recreational license holder.
+- Section 3123.63 - Adopting rules concerning license provisions.
+- Section 3123.66 - Asserting lien upon default.
+- Section 3123.67 - Arrearage becomes lien against personal and real property.
+- Section 3123.68 - Liens from other states.
+- Section 3123.69 - Service.
+- Section 3123.70 - Lien priority.
+- Section 3123.71 - Discharging lien.
+- Section 3123.72 - Notice requesting county recorder discharge lien.
+- Section 3123.73 - Selling property subject to lien.
+- Section 3123.74 - Complaint to request execution sale.
+- Section 3123.741 - Venue for filing complaint.
+- Section 3123.75 - Sale extinguishes lien associated with property.
+- Section 3123.76 - Releasing lien or returning seized property.
+- Section 3123.77 - Liability for support arrearages and related expenses.
+- Section 3123.78 - Obtaining lien does not affect other remedies.
+- Section 3123.81 - Collecting past-due support from federal tax refunds and overpayments.
+- Section 3123.82 - Obligor, overpaid child support defined.
+- Section 3123.821 - Collecting overdue and overpaid support from refunds cooperation.
+- Section 3123.822 - Conditions for collection from refunds.
+- Section 3123.823 - Adoption of rules.
+- Section 3123.85 - Reciprocal agreement with secretary of treasury for administrative offsets.
+- Section 3123.87 - Application of prisoner earnings to defaults.
+- Section 3123.88 - Application of unclaimed to defaults.
+- Section 3123.89 - Intercept directive issued to lottery commission where winner in default.
+- Section 3123.90 - Withholding from casino and sports gaming winnings.
+- Section 3123.91 - Consumer reporting agency defined.
+- Section 3123.92 - Providing determination of default to consumer reporting agency.
+- Section 3123.921 - Notice to agency that arrearage has been paid in full.
+- Section 3123.93 - Consumer reporting agency may request information concerning support obligation.
+- Section 3123.931 - Review of case registry in response to request.
+- Section 3123.932 - Report to consumer reporting agency.
+- Section 3123.95 - Poster program.
+- Section 3123.951 - Submitting names of delinquent obligors.
+- Section 3123.952 - Conditions for including obligors on poster.
+- Section 3123.953 - Providing photograph and information.
+- Section 3123.954 - Address and personal information not to be provided.
+- Section 3123.955 - Removing obligor from list.
+- Section 3123.956 - Notifying obligor.
+- Section 3123.957 - Contents of poster.
+- Section 3123.958 - Publication and distribution of posters.
+- Section 3123.959 - Funding program.
+- Section 3123.9510 - Adopting rules.
+- Section 3123.96 - Agency poster program.
+- Section 3123.961 - Contents of agency poster.
+- Section 3123.962 - Notifying obligor.
+- Section 3123.99 - Penalty.

@@ -1,0 +1,24 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-121.52
+Scraped: 2026-07-02T19:31:35+00:00
+
+# Section 121.52 - Deputy inspector general for workers' compensation.
+
+**Effective:** June 30, 2009
+
+**Latest Legislation:** House Bill 15 - 128th General Assembly
+
+There is hereby created in the office of the inspector general the office of deputy inspector general for the bureau of workers' compensation and industrial commission. The inspector general shall appoint the deputy inspector general, and the deputy inspector general shall serve at the pleasure of the inspector general. A person employed as the deputy inspector general shall have the same qualifications as those specified in section 121.49 of the Revised Code for the inspector general. The inspector general shall provide professional and clerical assistance to the deputy inspector general.
+
+The deputy inspector general for the bureau of workers' compensation and the industrial commission shall investigate wrongful acts or omissions that have been committed by or are being committed by officers or employees of the bureau of workers' compensation and the industrial commission. The deputy inspector general has the same powers and duties regarding matters concerning the bureau and the commission as those specified in sections 121.42 , 121.43 , and 121.45 of the Revised Code for the inspector general. Complaints may be filed with the deputy inspector general in the same manner as prescribed for complaints filed with the inspector general under section 121.46 of the Revised Code. All investigations conducted and reports issued by the deputy inspector general are subject to section 121.44 of the Revised Code.
+
+There is hereby created in the state treasury the deputy inspector general for the bureau of workers' compensation and industrial commission fund, which shall consist of moneys deposited into it that the inspector general receives from the administrator of workers' compensation and receives from the industrial commission in accordance with this section. The inspector general shall use the fund to pay the costs incurred by the deputy inspector general in performing the duties of the deputy inspector general as required under this section.
+
+The members of the industrial commission, bureau of workers' compensation board of directors, workers' compensation audit committee, workers' compensation actuarial committee, and workers' compensation investment committee, and the administrator, and employees of the industrial commission and the bureau shall cooperate with and provide assistance to the deputy inspector general in the performance of any investigation conducted by the deputy inspector general. In particular, those persons shall make their premises, equipment, personnel, books, records, and papers readily available to the deputy inspector general. In the course of an investigation, the deputy inspector general may question any person employed by the industrial commission or the administrator and any person transacting business with the industrial commission, the board, the audit committee, the actuarial committee, the investment committee, the administrator, or the bureau and may inspect and copy any books, records, or papers in the possession of those persons or entities, taking care to preserve the confidentiality of information contained in responses to questions or the books, records, or papers that are made confidential by law.
+
+In performing any investigation, the deputy inspector general shall avoid interfering with the ongoing operations of the entities being investigated, except insofar as is reasonably necessary to successfully complete the investigation.
+
+At the conclusion of an investigation conducted by the deputy inspector general for the bureau of workers' compensation and industrial commission, the deputy inspector general shall deliver to the board, the administrator, the industrial commission, and the governor any case for which remedial action is necessary. The deputy inspector general shall maintain a public record of the activities of the office of the deputy inspector general to the extent permitted under this section, ensuring that the rights of the parties involved in each case are protected. The inspector general shall include in the annual report required under section 121.48 of the Revised Code a summary of the activities of the deputy inspector general during the previous year.
+
+No person shall disclose any information that is designated as confidential in accordance with section 121.44 of the Revised Code or any confidential information that is acquired in the course of an investigation conducted under this section to any person who is not legally entitled to disclosure of that information.
+
+Last updated March 8, 2023 at 12:02 PM

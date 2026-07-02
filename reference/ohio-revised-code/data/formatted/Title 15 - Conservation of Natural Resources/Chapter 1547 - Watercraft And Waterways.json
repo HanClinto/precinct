@@ -1,0 +1,519 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 1547.02 - Applicability of chapter to vessels operating on the waters in this state.",
+      "number": "1547.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.03 - Flashing light prohibition.",
+      "number": "1547.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.04 - Siren prohibition - exception.",
+      "number": "1547.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.05 - Completing boating course as prerequisite to licensing; exception.",
+      "number": "1547.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.051 - Presenting proof of license.",
+      "number": "1547.051",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.051"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.052 - Powercraft rentals.",
+      "number": "1547.052",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.052"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.06 - Child operators.",
+      "number": "1547.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.07 - Reckless or unsafe operation of vessel, water skis, aquaplane.",
+      "number": "1547.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.071 - Authority of law enforcement officer when especially hazardous condition exists.",
+      "number": "1547.071",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.071"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.072 - Operator of vessel to maintain control.",
+      "number": "1547.072",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.072"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.08 - Prohibiting operation in certain areas - low speed areas.",
+      "number": "1547.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.09 - Prohibited acts.",
+      "number": "1547.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.10 - Stopping and furnishing information upon accident or collision.",
+      "number": "1547.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.11 - Operation, control, or manipulation under influence of alcohol or drug.",
+      "number": "1547.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.111 - Implied consent to chemical test.",
+      "number": "1547.111",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.111"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.12 - Incapacitated operators prohibited.",
+      "number": "1547.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.13 - Failure to comply with order of law enforcement - fleeing and eluding.",
+      "number": "1547.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.131 - Duty to stop or give way upon approach of law enforcement vessel.",
+      "number": "1547.131",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.131"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.132 - Vessel wake restrictions.",
+      "number": "1547.132",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.132"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.14 - Water skiing activity confined to ski zones.",
+      "number": "1547.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.15 - Observer required when towing skier.",
+      "number": "1547.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.16 - Water skiing after dark prohibited.",
+      "number": "1547.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.18 - Personal flotation device required.",
+      "number": "1547.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.19 - Ski jumps prohibited.",
+      "number": "1547.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.20 - Permission for conducting special water events.",
+      "number": "1547.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.21 - Requirements for inflatable vessel.",
+      "number": "1547.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.22 - Restrictions on sitting, standing, walking on moving vessel.",
+      "number": "1547.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.23 - Warming-up engine.",
+      "number": "1547.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.24 - Personal flotation devices required for child under 10.",
+      "number": "1547.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.25 - Prohibiting operation without personal flotation devices.",
+      "number": "1547.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.251 - Use of approved distress signals or flags.",
+      "number": "1547.251",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.251"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.26 - Requiring anchor and line.",
+      "number": "1547.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.27 - Required fire extinguishers.",
+      "number": "1547.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.28 - Backfire flame control device.",
+      "number": "1547.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.29 - Ventilation requirements.",
+      "number": "1547.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.30 - Ordering storage of vessel or outboard motor left on private property.",
+      "number": "1547.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.301 - Ordering storage of vessel or motor left in sunken, beached, drifting or docked condition.",
+      "number": "1547.301",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.301"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.302 - Disposing of unclaimed vessel or motor.",
+      "number": "1547.302",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.302"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.303 - Disposing of abandoned vessel or motor.",
+      "number": "1547.303",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.303"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.304 - Abandoned junk vessel or outboard motor on private property.",
+      "number": "1547.304",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.304"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.305 - Alternative process to take title to abandoned watercraft vessel or outboard motor.",
+      "number": "1547.305",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.305"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.31 - Muffler or muffler system required - noise levels.",
+      "number": "1547.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.32 - Vessel used as dwelling creating nuisance.",
+      "number": "1547.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.33 - Restrictions on sink, toilet or sanitary system.",
+      "number": "1547.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.34 - Violations prima facie evidence of negligence.",
+      "number": "1547.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.36 - Secretary of state agent for service of process.",
+      "number": "1547.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.38 - Prohibiting rental of improperly equipped vessel.",
+      "number": "1547.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.39 - Requiring capacity plate.",
+      "number": "1547.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.40 - Exceeding capacity plate figures.",
+      "number": "1547.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.41 - Personal watercraft operation requirements.",
+      "number": "1547.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.49 - Littering prohibited.",
+      "number": "1547.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.51 - Educational programs.",
+      "number": "1547.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.53 - Numbering of watercraft - exemptions.",
+      "number": "1547.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.531 - Registration and documentation - exemptions.",
+      "number": "1547.531",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.531"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.532 - Vessels exempt from registration.",
+      "number": "1547.532",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.532"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.533 - Fraudulent watercraft identification.",
+      "number": "1547.533",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.533"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.54 - Applying for registration certificate.",
+      "number": "1547.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.541 - Historic watercraft identification plates.",
+      "number": "1547.541",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.541"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.542 - Annual certificate of livery registration.",
+      "number": "1547.542",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.542"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.543 - Dealer or manufacturer registration certificate.",
+      "number": "1547.543",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.543"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.544 - Effect of child support default on certificate.",
+      "number": "1547.544",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.544"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.55 - Moneys collected paid into waterways safety fund.",
+      "number": "1547.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.56 - Reimbursing political subdivisions and agencies.",
+      "number": "1547.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.57 - Watercraft tags.",
+      "number": "1547.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.58 - Disclosure statement regarding alternative process of R.C. 1547.305.",
+      "number": "1547.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.59 - Rendering assistance after collision.",
+      "number": "1547.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.61 - Applicable state laws.",
+      "number": "1547.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.63 - Enforcement.",
+      "number": "1547.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.65 - Hull identification number.",
+      "number": "1547.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.66 - Altering identifying marks - false information on application for registration.",
+      "number": "1547.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.67 - Establishing and maintaining marine patrols to enforce chapter.",
+      "number": "1547.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.67"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.68 - Boating safety education programs.",
+      "number": "1547.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.68"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.69 - Firearm prohibitions.",
+      "number": "1547.69",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.69"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.71 - Refuge and small boat harbor agency.",
+      "number": "1547.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.72 - Construction and operation of refuge harbors.",
+      "number": "1547.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.73 - Waterways safety council.",
+      "number": "1547.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.74 - Facilities in harbors and connecting waterways.",
+      "number": "1547.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.74"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.75 - Waterways safety fund.",
+      "number": "1547.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.76 - State participation in federal program.",
+      "number": "1547.76",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.76"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.77 - Action not in conflict.",
+      "number": "1547.77",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.77"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.79 - All fines, forfeitures and penalties paid to director for fund.",
+      "number": "1547.79",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.79"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.80 - Rules for security of ports and related facilities.",
+      "number": "1547.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.80"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.91 - Wrecking.",
+      "number": "1547.91",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.91"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.92 - Prohibited acts.",
+      "number": "1547.92",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.92"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1547.99 - Penalty.",
+      "number": "1547.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1547.99"
+    }
+  ],
+  "scraped": "2026-07-02T19:37:52+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-1547",
+  "title": "Chapter 1547 - Watercraft And Waterways"
+}

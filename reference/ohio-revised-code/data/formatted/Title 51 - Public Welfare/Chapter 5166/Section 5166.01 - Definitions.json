@@ -1,0 +1,308 @@
+{
+  "glossary": [
+    {
+      "definition": "\"209(b) option\" means the option described in section 1902(f) of the \"Social Security Act,\" 42 U.S.C. 1396a(f), under which the medicaid program's eligibility requirements for aged, blind, and disabled individuals are more restrictive than the eligibility requirements for the supplemental security income program.",
+      "id": "5166.01-209-b-option",
+      "normalized": "209(b) option",
+      "scope": "As used in this chapter:",
+      "section": "5166.01",
+      "source_title": "Section 5166.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5166.01",
+      "term": "209(b) option"
+    },
+    {
+      "definition": "\"Administrative agency\" means, with respect to a home and community-based services medicaid waiver component, the department of medicaid or, if a state agency or political subdivision contracts with the department under section 5162.35 of the Revised Code to administer the component, that state agency or political subdivision.",
+      "id": "5166.01-administrative-agency",
+      "normalized": "administrative agency",
+      "scope": "As used in this chapter:",
+      "section": "5166.01",
+      "source_title": "Section 5166.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5166.01",
+      "term": "Administrative agency"
+    },
+    {
+      "definition": "\"Care management system\" has the same meaning as in section 5167.01 of the Revised Code.",
+      "id": "5166.01-care-management-system",
+      "normalized": "care management system",
+      "scope": "As used in this chapter:",
+      "section": "5166.01",
+      "source_title": "Section 5166.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5166.01",
+      "term": "Care management system"
+    },
+    {
+      "definition": "\"Dual eligible individual\" has the same meaning as in section 5160.01 of the Revised Code.",
+      "id": "5166.01-dual-eligible-individual",
+      "normalized": "dual eligible individual",
+      "scope": "As used in this chapter:",
+      "section": "5166.01",
+      "source_title": "Section 5166.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5166.01",
+      "term": "Dual eligible individual"
+    },
+    {
+      "definition": "\"Enrollee\" has the same meaning as in section 5167.01 of the Revised Code.",
+      "id": "5166.01-enrollee",
+      "normalized": "enrollee",
+      "scope": "As used in this chapter:",
+      "section": "5166.01",
+      "source_title": "Section 5166.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5166.01",
+      "term": "Enrollee"
+    },
+    {
+      "definition": "\"Expansion eligibility group\" has the same meaning as in section 5163.01 of the Revised Code.",
+      "id": "5166.01-expansion-eligibility-group",
+      "normalized": "expansion eligibility group",
+      "scope": "As used in this chapter:",
+      "section": "5166.01",
+      "source_title": "Section 5166.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5166.01",
+      "term": "Expansion eligibility group"
+    },
+    {
+      "definition": "\"Federal poverty line\" has the same meaning as in section 5162.01 of the Revised Code.",
+      "id": "5166.01-federal-poverty-line",
+      "normalized": "federal poverty line",
+      "scope": "As used in this chapter:",
+      "section": "5166.01",
+      "source_title": "Section 5166.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5166.01",
+      "term": "Federal poverty line"
+    },
+    {
+      "definition": "\"Home and community-based services medicaid waiver component\" means a medicaid waiver component under which home and community-based services are provided as an alternative to hospital services, nursing facility services, or ICF/IID services.",
+      "id": "5166.01-home-and-community-based-services-medicaid-waiver-component",
+      "normalized": "home and community-based services medicaid waiver component",
+      "scope": "As used in this chapter:",
+      "section": "5166.01",
+      "source_title": "Section 5166.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5166.01",
+      "term": "Home and community-based services medicaid waiver component"
+    },
+    {
+      "definition": "\"Hospital\" has the same meaning as in section 3727.01 of the Revised Code.",
+      "id": "5166.01-hospital",
+      "normalized": "hospital",
+      "scope": "As used in this chapter:",
+      "section": "5166.01",
+      "source_title": "Section 5166.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5166.01",
+      "term": "Hospital"
+    },
+    {
+      "definition": "\"Hospital long-term care unit\" has the same meaning as in section 5168.40 of the Revised Code.",
+      "id": "5166.01-hospital-long-term-care-unit",
+      "normalized": "hospital long-term care unit",
+      "scope": "As used in this chapter:",
+      "section": "5166.01",
+      "source_title": "Section 5166.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5166.01",
+      "term": "Hospital long-term care unit"
+    },
+    {
+      "definition": "\"ICDS participant\" has the same meaning as in section 5164.01 of the Revised Code.\n\n\"ICF/IID\" and \"ICF/IID services\" have the same meanings as in section 5124.01 of the Revised Code.\n\n\"Integrated care delivery system\" and \"ICDS\" have the same meanings as in section 5164.01 of the Revised Code.",
+      "id": "5166.01-icds-participant",
+      "normalized": "icds participant",
+      "scope": "As used in this chapter:",
+      "section": "5166.01",
+      "source_title": "Section 5166.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5166.01",
+      "term": "ICDS participant"
+    },
+    {
+      "definition": "\"Level of care determination\" means a determination of whether an individual needs the level of care provided by a hospital, nursing facility, or ICF/IID and whether the individual, if determined to need that level of care, would receive hospital services, nursing facility services, or ICF/IID services if not for a home and community-based services medicaid waiver component.",
+      "id": "5166.01-level-of-care-determination",
+      "normalized": "level of care determination",
+      "scope": "As used in this chapter:",
+      "section": "5166.01",
+      "source_title": "Section 5166.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5166.01",
+      "term": "Level of care determination"
+    },
+    {
+      "definition": "\"Medicaid buy-in for workers with disabilities program\" has the same meaning as in section 5163.01 of the Revised Code.",
+      "id": "5166.01-medicaid-buy-in-for-workers-with-disabilities-program",
+      "normalized": "medicaid buy-in for workers with disabilities program",
+      "scope": "As used in this chapter:",
+      "section": "5166.01",
+      "source_title": "Section 5166.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5166.01",
+      "term": "Medicaid buy-in for workers with disabilities program"
+    },
+    {
+      "definition": "\"Medicaid MCO plan\" has the same meaning as in section 5167.01 of the Revised Code.",
+      "id": "5166.01-medicaid-mco-plan",
+      "normalized": "medicaid mco plan",
+      "scope": "As used in this chapter:",
+      "section": "5166.01",
+      "source_title": "Section 5166.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5166.01",
+      "term": "Medicaid MCO plan"
+    },
+    {
+      "definition": "\"Medicaid provider\" has the same meaning as in section 5164.01 of the Revised Code.",
+      "id": "5166.01-medicaid-provider",
+      "normalized": "medicaid provider",
+      "scope": "As used in this chapter:",
+      "section": "5166.01",
+      "source_title": "Section 5166.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5166.01",
+      "term": "Medicaid provider"
+    },
+    {
+      "definition": "\"Medicaid services\" has the same meaning as in section 5164.01 of the Revised Code.",
+      "id": "5166.01-medicaid-services",
+      "normalized": "medicaid services",
+      "scope": "As used in this chapter:",
+      "section": "5166.01",
+      "source_title": "Section 5166.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5166.01",
+      "term": "Medicaid services"
+    },
+    {
+      "definition": "\"Medicaid waiver component\" means a component of the medicaid program authorized by a waiver granted by the United States department of health and human services under section 1115 or 1915 of the \"Social Security Act,\" 42 U.S.C. 1315 or 1396n. \"Medicaid waiver component\" does not include the care management system or services delivered under a prepaid inpatient health plan, as defined in 42 C.F.R. 438.2.",
+      "id": "5166.01-medicaid-waiver-component",
+      "normalized": "medicaid waiver component",
+      "scope": "As used in this chapter:",
+      "section": "5166.01",
+      "source_title": "Section 5166.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5166.01",
+      "term": "Medicaid waiver component"
+    },
+    {
+      "definition": "\"Medically fragile child\" means an individual who is under eighteen years of age, has intensive health care needs, and is considered blind or disabled under section 1614(a)(2) or (3) of the \"Social Security Act,\" 42 U.S.C. 1382c(a)(2) or (3).\n\n\"Nursing facility\" and \"nursing facility services\" have the same meanings as in section 5165.01 of the Revised Code.",
+      "id": "5166.01-medically-fragile-child",
+      "normalized": "medically fragile child",
+      "scope": "As used in this chapter:",
+      "section": "5166.01",
+      "source_title": "Section 5166.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5166.01",
+      "term": "Medically fragile child"
+    },
+    {
+      "definition": "\"Ohio home care waiver program\" means the home and community-based services medicaid waiver component that is known as Ohio home care and was created pursuant to section 5166.11 of the Revised Code.",
+      "id": "5166.01-ohio-home-care-waiver-program",
+      "normalized": "ohio home care waiver program",
+      "scope": "As used in this chapter:",
+      "section": "5166.01",
+      "source_title": "Section 5166.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5166.01",
+      "term": "Ohio home care waiver program"
+    },
+    {
+      "definition": "\"Provider agreement\" has the same meaning as in section 5164.01 of the Revised Code.",
+      "id": "5166.01-provider-agreement",
+      "normalized": "provider agreement",
+      "scope": "As used in this chapter:",
+      "section": "5166.01",
+      "source_title": "Section 5166.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5166.01",
+      "term": "Provider agreement"
+    },
+    {
+      "definition": "\"Residential treatment facility\" means a residential facility licensed by the department of mental health and addiction services under section 5119.34 of the Revised Code, or an institution certified by the department of children and youth under section 5103.03 of the Revised Code, that serves children and either has more than sixteen beds or is part of a campus of multiple facilities or institutions that, combined, have a total of more than sixteen beds.",
+      "id": "5166.01-residential-treatment-facility",
+      "normalized": "residential treatment facility",
+      "scope": "As used in this chapter:",
+      "section": "5166.01",
+      "source_title": "Section 5166.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5166.01",
+      "term": "Residential treatment facility"
+    },
+    {
+      "definition": "\"Skilled nursing facility\" has the same meaning as in section 5165.01 of the Revised Code.\n\nLast updated October 17, 2025 at 4:41 PM",
+      "id": "5166.01-skilled-nursing-facility",
+      "normalized": "skilled nursing facility",
+      "scope": "As used in this chapter:",
+      "section": "5166.01",
+      "source_title": "Section 5166.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5166.01",
+      "term": "Skilled nursing facility"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "5162.35",
+      "number": "5162.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.35"
+    },
+    {
+      "kind": "section",
+      "label": "5167.01",
+      "number": "5167.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5167.01"
+    },
+    {
+      "kind": "section",
+      "label": "5160.01",
+      "number": "5160.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5160.01"
+    },
+    {
+      "kind": "section",
+      "label": "5163.01",
+      "number": "5163.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5163.01"
+    },
+    {
+      "kind": "section",
+      "label": "5162.01",
+      "number": "5162.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.01"
+    },
+    {
+      "kind": "section",
+      "label": "3727.01",
+      "number": "3727.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3727.01"
+    },
+    {
+      "kind": "section",
+      "label": "5168.40",
+      "number": "5168.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.40"
+    },
+    {
+      "kind": "section",
+      "label": "5164.01",
+      "number": "5164.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.01"
+    },
+    {
+      "kind": "section",
+      "label": "5124.01",
+      "number": "5124.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01"
+    },
+    {
+      "kind": "section",
+      "label": "5165.01",
+      "number": "5165.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01"
+    },
+    {
+      "kind": "section",
+      "label": "5166.11",
+      "number": "5166.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5166.11"
+    },
+    {
+      "kind": "section",
+      "label": "5119.34",
+      "number": "5119.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.34"
+    },
+    {
+      "kind": "section",
+      "label": "5103.03",
+      "number": "5103.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5103.03"
+    }
+  ],
+  "scraped": "2026-07-02T20:11:30+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5166.01",
+  "title": "Section 5166.01 - Definitions."
+}

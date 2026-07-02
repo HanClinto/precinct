@@ -1,0 +1,18 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5747.76
+Scraped: 2026-07-02T20:15:28+00:00
+
+# Section 5747.76 - Refundable income tax credit for owner of RC 149.311 certificate.
+
+**Effective:** February 15, 2016
+
+**Latest Legislation:** Senate Bill 208 - 131st General Assembly
+
+(A) As used in this section, "certificate owner" has the same meaning as in section 149.311 of the Revised Code.
+
+(B) There is allowed a credit against a taxpayer's aggregate tax liability under section 5747.02 of the Revised Code for a taxpayer that is the certificate owner of a rehabilitation tax credit certificate issued under section 149.311 of the Revised Code. The credit shall equal twenty-five per cent of the dollar amount indicated on the certificate, but the amount of credit allowed for any taxpayer shall not exceed five million dollars. The credit shall be claimed for the taxable year specified in the certificate and in the order required under section 5747.98 of the Revised Code.
+
+(C) Nothing in this section limits or disallows pass-through treatment of the credit if the certificate owner is a pass-through entity. If the certificate owner is a pass-through entity, the amount of the credit allowed for the pass-through entity shall not exceed five million dollars. If the certificate owner is a pass-through entity, the credit may be allocated among the entity's equity owners in proportion to their ownership interests or in such proportions or amounts as the equity owners mutually agree.
+
+(D) If the credit allowed for any taxable year exceeds the aggregate amount of tax otherwise due under section 5747.02 of the Revised Code, after allowing for any other credits preceding the credit in the order prescribed by section 5747.98 of the Revised Code, the excess shall be refunded to the taxpayer but, if any amount of the credit is refunded, the sum of the amount refunded and the amount applied to reduce the aggregate amount of tax otherwise due for that year shall not exceed three million dollars or, if the certificate owner is a pass-through entity, shall not exceed the taxpayer's distributive or proportionate share, as allocated under division (C) of this section, of three million dollars. The taxpayer may carry forward any balance of the credit in excess of the amount claimed for that year for not more than five ensuing taxable years, and shall deduct any amount claimed for any such year from the amount claimed in an ensuing year.
+
+(E) A taxpayer claiming a credit under this section shall retain the rehabilitation tax credit certificate for four years following the end of the taxable year to which the credit was applied, and shall make the certificate available for inspection by the tax commissioner upon the request of the tax commissioner during that period.

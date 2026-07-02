@@ -1,0 +1,34 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-1109.35
+Scraped: 2026-07-02T19:36:45+00:00
+
+# Section 1109.35 - Investing in venture capital firms, small businesses and economic development corporations.
+
+**Effective:** January 1, 2018
+
+**Latest Legislation:** House Bill 49 - 132nd General Assembly
+
+(A)(1) As used in division (A) of this section:
+
+(a) "Venture capital firm" means any corporation, partnership, proprietorship, limited liability company, or other entity, the principal business of which is or will be the making of investments in small businesses.
+
+(b) "Small business" means any corporation, partnership, proprietorship, limited liability company, or other entity that either does not have more than four hundred employees, or would qualify as a small business for the purpose of receiving financial assistance from small business investment companies licensed under the "Small Business Investment Act of 1958," 72 Stat. 689, 15 U.S.C. 661, as amended, and rules of the small business administration.
+
+(2) A stock state bank may invest, in the aggregate, five per cent of its paid-in capital and surplus, and a mutual state bank may invest, in the aggregate, five per cent of its retained earnings, in shares issued by the following:
+
+(a) Venture capital firms organized under the laws of the United States or of this state and having an office within this state, if, as a condition of a bank making an investment in a venture capital firm, the firm agrees to use its best efforts to make investments, in an aggregate amount at least equal to the investment to be made by the bank in that venture capital firm, in small businesses having their principal office within this state and having either more than one-half of their assets within this state or more than one-half of their employees employed within this state;
+
+(b) Small businesses having more than half of their assets or employees within this state.
+
+(B)(1) A state bank may invest in the following:
+
+(a) The stocks, bonds, debentures, notes, or other evidences of indebtedness of any of the following:
+
+(i) A community improvement corporation, organized under Chapters 1702. and 1724. of the Revised Code for the sole purpose of advancing, encouraging, and promoting the industrial, economic, commercial, and civic development of a community or area;
+
+(ii) A development corporation, organized under Chapter 1726. of the Revised Code to promote agricultural, industrial, and business developments within the state;
+
+(iii) A community urban redevelopment corporation, organized under Chapter 1701. or 1702. of the Revised Code and qualified to operate under Chapter 1728. of the Revised Code to initiate and conduct projects for the clearance, replanning, development, and redevelopment of blighted areas within municipal corporations.
+
+(b) Other investments similar to the investments described in division (B)(1)(a) of this section and acceptable to the superintendent of financial institutions.
+
+(2) A state bank's investment in any one corporation or other entity pursuant to division (B)(1) of this section shall not exceed five per cent of the bank's capital, unless the superintendent determines additional investment does not pose significant risk to the bank. A state bank's investments pursuant to division (B)(1) of this section shall not in the aggregate exceed ten per cent of the bank's capital.

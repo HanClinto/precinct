@@ -1,0 +1,10 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-1715.10
+Scraped: 2026-07-02T19:39:15+00:00
+
+# Section 1715.10 - Consolidation of self-governing churches in same locality.
+
+**Effective:** October 1, 1953
+
+**Latest Legislation:** House Bill 1 - 100th General Assembly
+
+Any two or more churches, congregations, or religious societies, whether incorporated or unincorporated, which are self-governing organizations and situated in the same township or municipal corporation, may unite their memberships and properties and continue their identity and common usages or polity in a consolidated corporation formed by an agreement in writing made, acknowledged, and signed by their respective trustees and filed in the office of the secretary of state. Such agreement shall set forth the name of the consolidated corporation and the proceedings by which the constituent organizations authorized their trustees so to act, shall designate the time and place at which the united membership shall first meet, and shall provide for the adoption of regulations consistent with such common usages or polity and for the appointment of officers pursuant to such regulations. Upon the filing of such agreement the existence of each constituent organization is merged into that of the consolidated corporation, which shall thereafter be a single religious corporation not for profit, the members, officers, and conduct of which shall be as provided in such regulations. Such consolidated corporation shall from its inception be vested with all the rights and properties, and charged with all the obligations and duties, of such constituent organizations; and any right or interest in respect to any past or future devise, bequest, conditional gift, trust, or property or fund restricted to particular uses, when vested in or claimed by such consolidated corporation as a result of such merger, shall belong to it as a continuation without interruption of the existence and identity of the constituent organization originally named as taker or beneficiary.

@@ -1,0 +1,14 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-1501.13
+Scraped: 2026-07-02T19:37:33+00:00
+
+# Section 1501.13 - Securing bonds by mortgages and trust agreements.
+
+**Effective:** September 14, 2016
+
+**Latest Legislation:** Senate Bill 293 - 131st General Assembly
+
+In the discretion of the director of natural resources any bonds issued under sections 1501.12 to 1501.15 , inclusive, of the Revised Code, may be secured by a trust agreement between the director and a corporate trustee, which trustee may be any trust company or bank having the powers of a trust company within or without the state. Such bonds may also be secured by mortgage on such property wholly acquired through the proceeds of the sale of bonds.
+
+Any such trust agreement may pledge or assign revenues to the payment of the principal of and interest on such bonds and reserves therefor as provided in section 1501.14 of the Revised Code but shall not convey or mortgage any property of the state, except as provided in sections 1501.07 , 1501.11 , 1501.12 , and 1501.14 of the Revised Code. Any such trust agreement may contain such provisions for protecting and enforcing the rights and remedies of the bondholders as are reasonable and proper and not in violation of law including provisions for issue of additional revenue bonds for the purposes set forth in section 1501.12 of the Revised Code to be secured ratably with any revenue bonds theretofore or thereafter issued under said section, covenants setting forth the duties of the director and chief of the division of parks and watercraft in relation to the acquisition, improvement, maintenance, operation, repair, and insurance of the lands or interests therein or public service facilities in connection with which such bonds are authorized, the custody, safeguarding, and application of all moneys, the insurance of moneys on hand or on deposit, and the rights and remedies of the trustee and the holders of the bonds, including therein provisions restricting the individual right of action of bondholders as is customary in trust agreements respecting bonds and debentures of corporations, and of the security given by those who contract to construct the project, and by any bank or trust company in which the proceeds of bonds or revenues shall be deposited, and such other provisions as the director deems reasonable and proper for the security of the bondholders. All expenses incurred in carrying out the provisions of any such trust agreement may be treated as a part of the cost of maintenance, operation, and repair of the facilities for which the bonds were issued.
+
+The director shall covenant and agree to maintain, so long as there are outstanding any such bonds payable from revenues, adequate fees, charges, and rentals for the payment of the principal and interest on such bonds and for the creation and maintenance of reserves therefor and reserves for operation, maintenance, replacement, and renewal.

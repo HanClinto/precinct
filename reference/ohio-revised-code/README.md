@@ -8,32 +8,44 @@ The text of the ORC will have minor formatting cleanup for readability and consi
 
 Care is taken to scrape and mirror the ORC in an organized fashion.
 
-For efficiency, only our most relevant portions of the ORC (Title 35 - Elections) is scraped and mirrored here.
+For efficiency, the default mirror target is still our most relevant portion of the ORC (Title 35 - Elections). The scraper can also target other titles or crawl every numeric ORC title when we want to expand the mirror.
 
 Source of ORC: https://codes.ohio.gov/ohio-revised-code
 
 ## Downloading the mirror
 
-The current mirror script intentionally limits itself to Title 35 - Elections.
+The current mirror script defaults to Title 35 - Elections.
 Run it from the repository root:
 
 ```sh
 python3 reference/ohio-revised-code/code/orc_mirror.py
 ```
 
+To mirror one or more specific titles, pass `--title` for each title number:
+
+```sh
+python3 reference/ohio-revised-code/code/orc_mirror.py --title 35 --title 37
+```
+
+To continue expanding the full ORC mirror, crawl every numeric title from the ORC index:
+
+```sh
+python3 reference/ohio-revised-code/code/orc_mirror.py --all-titles --delay 2
+```
+
 The script saves every fetched HTML page under `data/raw`, using paths that
 match the requested ORC URL structure. Successful responses also get a small
 `.json` metadata sidecar with the requested URL, effective URL, status, and
 scrape time. Error responses are not cached. To keep requests low, the script
-fetches the Title 35 page and chapter pages, then derives section Markdown from
+fetches title and chapter pages, then derives section Markdown from
 the section bodies embedded in each chapter page instead of fetching every
 section URL separately. It writes cleaned Markdown into
-`data/formatted/Title 35 - Elections`, organized by chapter and section. Each
+`data/formatted/Title NN - Name`, organized by chapter and section. Each
 formatted Markdown file also gets a `.json` sidecar containing structured ORC
 references found in the same body or index content, leaving the Markdown
 readable while preserving reference data for future auto-linking. Section
-sidecars also include extracted glossary definitions, and the Title 35 folder
-gets a combined `glossary.json` for the GitHub Pages browser.
+sidecars also include extracted glossary definitions, and each completed title
+folder gets a combined `glossary.json` for the GitHub Pages browser.
 
 By default, existing raw HTML is reused so interrupted runs can resume without
 hammering the source site. Use `--force` to refresh already-downloaded pages and
@@ -41,6 +53,6 @@ hammering the source site. Use `--force` to refresh already-downloaded pages and
 Cached pages are read immediately.
 
 Use `--offline` while tuning parsing and formatting. Offline mode reads only the
-raw cache and fails if a required Title 35 page is missing, so it will not touch
-the ORC website.
+raw cache and fails if a required page is missing, so it will not touch the ORC
+website.
 

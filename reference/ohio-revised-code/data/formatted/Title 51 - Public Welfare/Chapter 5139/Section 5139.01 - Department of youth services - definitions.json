@@ -1,0 +1,430 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Commitment\" means the transfer of the physical custody of a child or youth from the court to the department of youth services.",
+      "id": "5139.01-commitment",
+      "normalized": "commitment",
+      "scope": "(A) As used in this chapter:",
+      "section": "5139.01",
+      "source_title": "Section 5139.01 - Department of youth services - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5139.01",
+      "term": "Commitment"
+    },
+    {
+      "definition": "(2) \"Permanent commitment\" means a commitment that vests legal custody of a child in the department of youth services.\n\n(3) \"Legal custody,\" insofar as it pertains to the status that is created when a child is permanently committed to the department of youth services, means a legal status in which the department has the following rights and responsibilities: the right to have physical possession of the child; the right and duty to train, protect, and control the child; the responsibility to provide the child with food, clothing, shelter, education, and medical care; and the right to determine where and with whom the child shall live, subject to the minimum periods of, or periods of, institutional care prescribed in sections 2152.13 to 2152.18 of the Revised Code; provided, that these rights and responsibilities are exercised subject to the powers, rights, duties, and responsibilities of the guardian of the person of the child, and subject to any residual parental rights and responsibilities.",
+      "id": "5139.01-permanent-commitment",
+      "normalized": "permanent commitment",
+      "scope": "(A) As used in this chapter:",
+      "section": "5139.01",
+      "source_title": "Section 5139.01 - Department of youth services - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5139.01",
+      "term": "Permanent commitment"
+    },
+    {
+      "definition": "(4) Unless the context requires a different meaning, \"institution\" means a state facility that is created by the general assembly and that is under the management and control of the department of youth services or a private entity with which the department has contracted for the institutional care and custody of felony delinquents.",
+      "id": "5139.01-institution",
+      "normalized": "institution",
+      "scope": "(A) As used in this chapter:",
+      "section": "5139.01",
+      "source_title": "Section 5139.01 - Department of youth services - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5139.01",
+      "term": "institution"
+    },
+    {
+      "definition": "(5) \"Full-time care\" means care for twenty-four hours a day for over a period of at least two consecutive weeks.",
+      "id": "5139.01-full-time-care",
+      "normalized": "full-time care",
+      "scope": "(A) As used in this chapter:",
+      "section": "5139.01",
+      "source_title": "Section 5139.01 - Department of youth services - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5139.01",
+      "term": "Full-time care"
+    },
+    {
+      "definition": "(6) \"Placement\" means the conditional release of a child under the terms and conditions that are specified by the department of youth services. The department shall retain legal custody of a child released pursuant to division (C) of section 2152.22 of the Revised Code or division (C) of section 5139.06 of the Revised Code until the time that it discharges the child or until the legal custody is terminated as otherwise provided by law.",
+      "id": "5139.01-placement",
+      "normalized": "placement",
+      "scope": "(A) As used in this chapter:",
+      "section": "5139.01",
+      "source_title": "Section 5139.01 - Department of youth services - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5139.01",
+      "term": "Placement"
+    },
+    {
+      "definition": "(7) \"Home placement\" means the placement of a child in the home of the child's parent or parents or in the home of the guardian of the child's person.",
+      "id": "5139.01-home-placement",
+      "normalized": "home placement",
+      "scope": "(A) As used in this chapter:",
+      "section": "5139.01",
+      "source_title": "Section 5139.01 - Department of youth services - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5139.01",
+      "term": "Home placement"
+    },
+    {
+      "definition": "(8) \"Discharge\" means that the department of youth services' legal custody of a child is terminated.",
+      "id": "5139.01-discharge",
+      "normalized": "discharge",
+      "scope": "(A) As used in this chapter:",
+      "section": "5139.01",
+      "source_title": "Section 5139.01 - Department of youth services - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5139.01",
+      "term": "Discharge"
+    },
+    {
+      "definition": "(9) \"Release\" means the termination of a child's stay in an institution and the subsequent period during which the child returns to the community under the terms and conditions of supervised release.",
+      "id": "5139.01-release",
+      "normalized": "release",
+      "scope": "(A) As used in this chapter:",
+      "section": "5139.01",
+      "source_title": "Section 5139.01 - Department of youth services - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5139.01",
+      "term": "Release"
+    },
+    {
+      "definition": "(10) \"Delinquent child\" has the same meaning as in section 2152.02 of the Revised Code.",
+      "id": "5139.01-delinquent-child",
+      "normalized": "delinquent child",
+      "scope": "(A) As used in this chapter:",
+      "section": "5139.01",
+      "source_title": "Section 5139.01 - Department of youth services - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5139.01",
+      "term": "Delinquent child"
+    },
+    {
+      "definition": "(11) \"Felony delinquent\" means any child who is at least ten years of age but less than eighteen years of age and who is adjudicated a delinquent child for having committed an act that if committed by an adult would be a felony. \"Felony delinquent\" includes any adult who is between the ages of eighteen and twenty-one and who is in the legal custody of the department of youth services for having committed an act that if committed by an adult would be a felony.",
+      "id": "5139.01-felony-delinquent",
+      "normalized": "felony delinquent",
+      "scope": "(A) As used in this chapter:",
+      "section": "5139.01",
+      "source_title": "Section 5139.01 - Department of youth services - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5139.01",
+      "term": "Felony delinquent"
+    },
+    {
+      "definition": "(12) \"Juvenile traffic offender\" has the same meaning as in section 2152.02 of the Revised Code.",
+      "id": "5139.01-juvenile-traffic-offender",
+      "normalized": "juvenile traffic offender",
+      "scope": "(A) As used in this chapter:",
+      "section": "5139.01",
+      "source_title": "Section 5139.01 - Department of youth services - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5139.01",
+      "term": "Juvenile traffic offender"
+    },
+    {
+      "definition": "(13) \"Public safety beds\" means all of the following:\n\n(a) Felony delinquents who have been committed to the department of youth services for the commission of an act, other than a violation of section 2911.01 or 2911.11 of the Revised Code, that is a category one offense or a category two offense and who are in the care and custody of an institution or have been diverted from care and custody in an institution and placed in a community corrections facility;\n\n(b) Felony delinquents who, while committed to the department of youth services and in the care and custody of an institution or a community corrections facility, are adjudicated delinquent children for having committed in that institution or community corrections facility an act that if committed by an adult would be a misdemeanor or a felony;\n\n(c) Children who satisfy all of the following:\n\n(i) They are at least ten years of age but less than eighteen years of age.\n\n(ii) They are adjudicated delinquent children for having committed acts that if committed by an adult would be a felony.\n\n(iii) They are committed to the department of youth services by the juvenile court of a county that has had one-tenth of one per cent or less of the statewide adjudications for felony delinquents as averaged for the past four fiscal years.\n\n(iv) They are in the care and custody of an institution or a community corrections facility.\n\n(d) Felony delinquents who, while committed to the department of youth services and in the care and custody of an institution are serving disciplinary time for having committed an act described in division (A)(18)(a), (b), or (c) of this section, and who have been institutionalized or institutionalized in a secure facility for the minimum period of time specified in divisions (A)(1)(b) to (e) of section 2152.16 of the Revised Code.\n\n(e) Felony delinquents who are subject to and serving a three-year period of commitment order imposed by a juvenile court pursuant to divisions (A) and (B) of section 2152.17 of the Revised Code for an act, other than a violation of section 2911.11 of the Revised Code, that would be a category one offense or category two offense if committed by an adult.\n\n(f) Felony delinquents who are described in divisions (A)(13)(a) to (e) of this section, who have been granted a judicial release to court supervision under division (B) or (D) of section 2152.22 of the Revised Code or a judicial release to the department of youth services supervision under division (C) or (D) of that section from the commitment to the department of youth services for the act described in divisions (A)(13)(a) to (e) of this section, who have violated the terms and conditions of that release, and who, pursuant to an order of the court of the county in which the particular felony delinquent was placed on release that is issued pursuant to division (E) of section 2152.22 of the Revised Code, have been returned to the department for institutionalization or institutionalization in a secure facility.\n\n(g) Felony delinquents who have been committed to the custody of the department of youth services, who have been granted supervised release from the commitment pursuant to section 5139.51 of the Revised Code, who have violated the terms and conditions of that supervised release, and who, pursuant to an order of the court of the county in which the particular child was placed on supervised release issued pursuant to division (F) of section 5139.52 of the Revised Code, have had the supervised release revoked and have been returned to the department for institutionalization. A felony delinquent described in this division shall be a public safety bed only for the time during which the felony delinquent is institutionalized as a result of the revocation subsequent to the initial ninety-day period of institutionalization required by division (F) of section 5139.52 of the Revised Code.",
+      "id": "5139.01-public-safety-beds",
+      "normalized": "public safety beds",
+      "scope": "(A) As used in this chapter:",
+      "section": "5139.01",
+      "source_title": "Section 5139.01 - Department of youth services - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5139.01",
+      "term": "Public safety beds"
+    },
+    {
+      "definition": "(14) Unless the context requires a different meaning, \"community corrections facility\" means a county or multicounty rehabilitation center for felony delinquents who have been committed to the department of youth services and diverted from care and custody in an institution and placed in the rehabilitation center pursuant to division (E) of section 5139.36 of the Revised Code.",
+      "id": "5139.01-community-corrections-facility",
+      "normalized": "community corrections facility",
+      "scope": "(A) As used in this chapter:",
+      "section": "5139.01",
+      "source_title": "Section 5139.01 - Department of youth services - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5139.01",
+      "term": "community corrections facility"
+    },
+    {
+      "definition": "(15) \"Secure facility\" means any facility that is designed and operated to ensure that all of its entrances and exits are under the exclusive control of its staff and to ensure that, because of that exclusive control, no child who has been institutionalized in the facility may leave the facility without permission or supervision.",
+      "id": "5139.01-secure-facility",
+      "normalized": "secure facility",
+      "scope": "(A) As used in this chapter:",
+      "section": "5139.01",
+      "source_title": "Section 5139.01 - Department of youth services - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5139.01",
+      "term": "Secure facility"
+    },
+    {
+      "definition": "(16) \"Community residential program\" means a program that satisfies both of the following:\n\n(a) It is housed in a building or other structure that has no associated major restraining construction, including, but not limited to, a security fence.\n\n(b) It provides twenty-four-hour care, supervision, and programs for felony delinquents who are in residence.\n\n(17) \"Category one offense\" and \"category two offense\" have the same meanings as in section 2152.02 of the Revised Code.",
+      "id": "5139.01-community-residential-program",
+      "normalized": "community residential program",
+      "scope": "(A) As used in this chapter:",
+      "section": "5139.01",
+      "source_title": "Section 5139.01 - Department of youth services - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5139.01",
+      "term": "Community residential program"
+    },
+    {
+      "definition": "(18) \"Disciplinary time\" means additional time that the department of youth services requires a felony delinquent to serve in an institution, that delays the felony delinquent's planned release, and that the department imposes upon the felony delinquent following the conduct of an internal due process hearing for having committed any of the following acts while committed to the department and in the care and custody of an institution:\n\n(a) An act that if committed by an adult would be a felony;\n\n(b) An act that if committed by an adult would be a misdemeanor;\n\n(c) An act that is not described in division (A)(18)(a) or (b) of this section and that violates an institutional rule of conduct of the department.",
+      "id": "5139.01-disciplinary-time",
+      "normalized": "disciplinary time",
+      "scope": "(A) As used in this chapter:",
+      "section": "5139.01",
+      "source_title": "Section 5139.01 - Department of youth services - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5139.01",
+      "term": "Disciplinary time"
+    },
+    {
+      "definition": "(19) \"Unruly child\" has the same meaning as in section 2151.022 of the Revised Code.",
+      "id": "5139.01-unruly-child",
+      "normalized": "unruly child",
+      "scope": "(A) As used in this chapter:",
+      "section": "5139.01",
+      "source_title": "Section 5139.01 - Department of youth services - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5139.01",
+      "term": "Unruly child"
+    },
+    {
+      "definition": "(20) \"Revocation\" means the act of revoking a child's supervised release for a violation of a term or condition of the child's supervised release in accordance with section 5139.52 of the Revised Code.",
+      "id": "5139.01-revocation",
+      "normalized": "revocation",
+      "scope": "(A) As used in this chapter:",
+      "section": "5139.01",
+      "source_title": "Section 5139.01 - Department of youth services - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5139.01",
+      "term": "Revocation"
+    },
+    {
+      "definition": "(21) \"Release authority\" means the release authority of the department of youth services that is established by section 5139.50 of the Revised Code.",
+      "id": "5139.01-release-authority",
+      "normalized": "release authority",
+      "scope": "(A) As used in this chapter:",
+      "section": "5139.01",
+      "source_title": "Section 5139.01 - Department of youth services - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5139.01",
+      "term": "Release authority"
+    },
+    {
+      "definition": "(22) \"Supervised release\" means the event of the release of a child under this chapter from an institution and the period after that release during which the child is supervised and assisted by an employee of the department of youth services under specific terms and conditions for reintegration of the child into the community.",
+      "id": "5139.01-supervised-release",
+      "normalized": "supervised release",
+      "scope": "(A) As used in this chapter:",
+      "section": "5139.01",
+      "source_title": "Section 5139.01 - Department of youth services - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5139.01",
+      "term": "Supervised release"
+    },
+    {
+      "definition": "(23) \"Victim\" means the person identified in a police report, complaint, or information as the victim of an act that would have been a criminal offense if committed by an adult and that provided the basis for adjudication proceedings resulting in a child's commitment to the legal custody of the department of youth services.",
+      "id": "5139.01-victim",
+      "normalized": "victim",
+      "scope": "(A) As used in this chapter:",
+      "section": "5139.01",
+      "source_title": "Section 5139.01 - Department of youth services - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5139.01",
+      "term": "Victim"
+    },
+    {
+      "definition": "(24) \"Victim's representative\" means a member of the victim's family or another person whom the victim or another authorized person designates in writing, pursuant to section 5139.56 of the Revised Code, to represent the victim with respect to proceedings of the release authority of the department of youth services and with respect to other matters specified in that section.",
+      "id": "5139.01-victim-s-representative",
+      "normalized": "victim's representative",
+      "scope": "(A) As used in this chapter:",
+      "section": "5139.01",
+      "source_title": "Section 5139.01 - Department of youth services - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5139.01",
+      "term": "Victim's representative"
+    },
+    {
+      "definition": "(25) \"Member of the victim's family\" means a spouse, child, stepchild, sibling, parent, stepparent, grandparent, other relative, or legal guardian of a child but does not include a person charged with, convicted of, or adjudicated a delinquent child for committing a criminal or delinquent act against the victim or another criminal or delinquent act arising out of the same conduct, criminal or delinquent episode, or plan as the criminal or delinquent act committed against the victim.",
+      "id": "5139.01-member-of-the-victim-s-family",
+      "normalized": "member of the victim's family",
+      "scope": "(A) As used in this chapter:",
+      "section": "5139.01",
+      "source_title": "Section 5139.01 - Department of youth services - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5139.01",
+      "term": "Member of the victim's family"
+    },
+    {
+      "definition": "(26) \"Judicial release to court supervision\" means a release of a child from institutional care or institutional care in a secure facility that is granted by a court pursuant to division (B) of section 2152.22 of the Revised Code during the period specified in that division or that is granted by a court to court supervision pursuant to division (D) of that section during the period specified in that division.",
+      "id": "5139.01-judicial-release-to-court-supervision",
+      "normalized": "judicial release to court supervision",
+      "scope": "(A) As used in this chapter:",
+      "section": "5139.01",
+      "source_title": "Section 5139.01 - Department of youth services - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5139.01",
+      "term": "Judicial release to court supervision"
+    },
+    {
+      "definition": "(27) \"Judicial release to department of youth services supervision\" means a release of a child from institutional care or institutional care in a secure facility that is granted by a court pursuant to division (C) of section 2152.22 of the Revised Code during the period specified in that division or that is granted to department supervision by a court pursuant to division (D) of that section during the period specified in that division.",
+      "id": "5139.01-judicial-release-to-department-of-youth-services-supervision",
+      "normalized": "judicial release to department of youth services supervision",
+      "scope": "(A) As used in this chapter:",
+      "section": "5139.01",
+      "source_title": "Section 5139.01 - Department of youth services - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5139.01",
+      "term": "Judicial release to department of youth services supervision"
+    },
+    {
+      "definition": "(28) \"Juvenile justice system\" includes all of the functions of the juvenile courts, the department of youth services, any public or private agency whose purposes include the prevention of delinquency or the diversion, adjudication, detention, or rehabilitation of delinquent children, and any of the functions of the criminal justice system that are applicable to children.",
+      "id": "5139.01-juvenile-justice-system",
+      "normalized": "juvenile justice system",
+      "scope": "(A) As used in this chapter:",
+      "section": "5139.01",
+      "source_title": "Section 5139.01 - Department of youth services - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5139.01",
+      "term": "Juvenile justice system"
+    },
+    {
+      "definition": "(29) \"Metropolitan county criminal justice services agency\" means an agency that is established pursuant to division (A) of section 5502.64 of the Revised Code.",
+      "id": "5139.01-metropolitan-county-criminal-justice-services-agency",
+      "normalized": "metropolitan county criminal justice services agency",
+      "scope": "(A) As used in this chapter:",
+      "section": "5139.01",
+      "source_title": "Section 5139.01 - Department of youth services - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5139.01",
+      "term": "Metropolitan county criminal justice services agency"
+    },
+    {
+      "definition": "(30) \"Administrative planning district\" means a district that is established pursuant to division (A) or (B) of section 5502.66 of the Revised Code.",
+      "id": "5139.01-administrative-planning-district",
+      "normalized": "administrative planning district",
+      "scope": "(A) As used in this chapter:",
+      "section": "5139.01",
+      "source_title": "Section 5139.01 - Department of youth services - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5139.01",
+      "term": "Administrative planning district"
+    },
+    {
+      "definition": "(31) \"Criminal justice coordinating council\" means a criminal justice services agency that is established pursuant to division (D) of section 5502.66 of the Revised Code.",
+      "id": "5139.01-criminal-justice-coordinating-council",
+      "normalized": "criminal justice coordinating council",
+      "scope": "(A) As used in this chapter:",
+      "section": "5139.01",
+      "source_title": "Section 5139.01 - Department of youth services - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5139.01",
+      "term": "Criminal justice coordinating council"
+    },
+    {
+      "definition": "(32) \"Comprehensive plan\" means a document that coordinates, evaluates, and otherwise assists, on an annual or multi-year basis, all of the functions of the juvenile justice systems of the state or a specified area of the state, that conforms to the priorities of the state with respect to juvenile justice systems, and that conforms with the requirements of all federal criminal justice acts. These functions include, but are not limited to, all of the following:\n\n(a) Delinquency;\n\n(b) Identification, detection, apprehension, and detention of persons charged with delinquent acts;\n\n(c) Assistance to crime victims or witnesses, except that the comprehensive plan does not include the functions of the attorney general pursuant to sections 109.91 and 109.92 of the Revised Code;\n\n(d) Adjudication or diversion of persons charged with delinquent acts;\n\n(e) Custodial treatment of delinquent children;\n\n(f) Institutional and noninstitutional rehabilitation of delinquent children.\n\n(B) There is hereby created the department of youth services. The governor shall appoint the director of the department with the advice and consent of the senate. The director shall hold office during the term of the appointing governor but subject to removal at the pleasure of the governor. Except as otherwise authorized in section 108.05 of the Revised Code, the director shall devote the director's entire time to the duties of the director's office and shall hold no other office or position of trust or profit during the director's term of office.\n\nThe director is the chief executive and administrative officer of the department and has all the powers of a department head set forth in Chapter 121. of the Revised Code. The director may adopt rules for the government of the department, the conduct of its officers and employees, the performance of its business, and the custody, use, and preservation of the department's records, papers, books, documents, and property. The director shall be an appointing authority within the meaning of Chapter 124. of the Revised Code. Whenever this or any other chapter or section of the Revised Code imposes a duty on or requires an action of the department, the duty or action shall be performed by the director or, upon the director's order, in the name of the department.",
+      "id": "5139.01-comprehensive-plan",
+      "normalized": "comprehensive plan",
+      "scope": "(A) As used in this chapter:",
+      "section": "5139.01",
+      "source_title": "Section 5139.01 - Department of youth services - definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5139.01",
+      "term": "Comprehensive plan"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2152.13",
+      "number": "2152.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.13"
+    },
+    {
+      "kind": "section",
+      "label": "2152.18",
+      "number": "2152.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.18"
+    },
+    {
+      "kind": "section",
+      "label": "2152.22",
+      "number": "2152.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.22"
+    },
+    {
+      "kind": "section",
+      "label": "5139.06",
+      "number": "5139.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.06"
+    },
+    {
+      "kind": "section",
+      "label": "2152.02",
+      "number": "2152.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.02"
+    },
+    {
+      "kind": "section",
+      "label": "2911.01",
+      "number": "2911.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2911.01"
+    },
+    {
+      "kind": "section",
+      "label": "2911.11",
+      "number": "2911.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2911.11"
+    },
+    {
+      "kind": "section",
+      "label": "2152.16",
+      "number": "2152.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.16"
+    },
+    {
+      "kind": "section",
+      "label": "2152.17",
+      "number": "2152.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2152.17"
+    },
+    {
+      "kind": "section",
+      "label": "5139.51",
+      "number": "5139.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.51"
+    },
+    {
+      "kind": "section",
+      "label": "5139.52",
+      "number": "5139.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.52"
+    },
+    {
+      "kind": "section",
+      "label": "5139.36",
+      "number": "5139.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.36"
+    },
+    {
+      "kind": "section",
+      "label": "2151.022",
+      "number": "2151.022",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.022"
+    },
+    {
+      "kind": "section",
+      "label": "5139.50",
+      "number": "5139.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.50"
+    },
+    {
+      "kind": "section",
+      "label": "5139.56",
+      "number": "5139.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.56"
+    },
+    {
+      "kind": "section",
+      "label": "5502.64",
+      "number": "5502.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5502.64"
+    },
+    {
+      "kind": "section",
+      "label": "5502.66",
+      "number": "5502.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5502.66"
+    },
+    {
+      "kind": "section",
+      "label": "109.91",
+      "number": "109.91",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.91"
+    },
+    {
+      "kind": "section",
+      "label": "109.92",
+      "number": "109.92",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.92"
+    },
+    {
+      "kind": "section",
+      "label": "108.05",
+      "number": "108.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-108.05"
+    }
+  ],
+  "scraped": "2026-07-02T20:11:01+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5139.01",
+  "title": "Section 5139.01 - Department of youth services - definitions."
+}

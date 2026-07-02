@@ -1,0 +1,12 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4907.44
+Scraped: 2026-07-02T20:09:05+00:00
+
+# Section 4907.44 - Duty of commission as to dangerous structures.
+
+**Effective:** June 11, 1968
+
+**Latest Legislation:** Senate Bill 480 - 107th General Assembly
+
+A railroad subject to regulation by the public utilities commission shall, in accordance with American railway engineers association codes of rules for inspection or other standards approved by the public utilities commission, inspect annually every bridge used for transportation of freight, passengers, or railroad crews on which the railroad performs all or part of the structural maintenance work. Inspection shall be made or supervised by a professional engineer. If at any time a bridge is found to be dangerous or unfit for transportation of passengers, freight, or railroad crews, the railroad shall immediately report the condition of the bridge to the public utilities commission. When the bridge passes over a public highway, such report shall also be given to the public authority having jurisdiction over such highway. The railroad shall file the annual inspection report with the commission on forms furnished by the commission or in a form acceptable to the commission. The commission shall examine all inspection reports.
+
+If, as a result of examination of inspection reports, on complaint, or otherwise, the public utilities commission has reasonable grounds to believe that any of the tracks, bridges, or other structures of a railroad are in a condition which renders them dangerous or unfit for the transportation of passengers, freight, or railroad crews, it shall forthwith inspect and examine them. If the commission is of the opinion that such structures are unfit for the transportation of passengers, freight, or railroad crews with safety, it shall immediately give to the superintendent, or other executive officer of the company operating such railroad, notice of the condition thereof, and of the repairs or reconstruction necessary to place them in a safe condition. The commission shall prescribe the time within which such repairs or reconstruction must be made, and the rate of speed for trains passing over such dangerous or defective track, bridge, or other structure, until the repairs or reconstruction required are made. If of the opinion that it is needful and proper, the commission shall forbid the running of all trains over such defective track, bridge, or other structure.

@@ -1,0 +1,42 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Health insurance provider\" means:\n\n(a) A person authorized to engage in the business of sickness and accident insurance under Title XXXIX of the Revised Code;\n\n(b) A person or government entity providing coverage for medical services or items to individuals on a self-insurance basis;\n\n(c) A health insuring corporation as defined in section 1751.01 of the Revised Code;\n\n(d) A group health plan as defined in 29 U.S.C. 1167;\n\n(e) Any organization, business, or association described in 42 U.S.C. 1396a(a)(25); or\n\n(f) A managed care organization.",
+      "id": "3119.371-health-insurance-provider",
+      "normalized": "health insurance provider",
+      "scope": "(A) As used in this section:",
+      "section": "3119.371",
+      "source_title": "Section 3119.371 - Information provided to office of child support.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3119.371",
+      "term": "Health insurance provider"
+    },
+    {
+      "definition": "(2) \"Information\" means all of the following:\n\n(a) An individual's name, address, date of birth, and social security number;\n\n(b) The group or plan number or other identifier assigned by a health insurance provider to a policy held by an individual or a plan in which the individual participates and the nature of the coverage; and\n\n(c) Any other data specified by the director of job and family services in rules adopted under section 3119.51 of the Revised Code.\n\n(B) Upon request of the office of child support in the department of job and family services and for the purpose of establishing and enforcing orders to provide health insurance coverage, a health insurance provider shall provide the information described in division (A)(2) of this section to the office of child support.",
+      "id": "3119.371-information",
+      "normalized": "information",
+      "scope": "(A) As used in this section:",
+      "section": "3119.371",
+      "source_title": "Section 3119.371 - Information provided to office of child support.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3119.371",
+      "term": "Information"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "1751.01",
+      "number": "1751.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.01"
+    },
+    {
+      "kind": "section",
+      "label": "3119.51",
+      "number": "3119.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.51"
+    }
+  ],
+  "scraped": "2026-07-02T19:47:54+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3119.371",
+  "title": "Section 3119.371 - Information provided to office of child support."
+}

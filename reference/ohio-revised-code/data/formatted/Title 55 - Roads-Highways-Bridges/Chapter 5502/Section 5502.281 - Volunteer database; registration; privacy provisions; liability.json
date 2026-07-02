@@ -1,0 +1,42 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Registered volunteer\" means any individual registered as a volunteer pursuant to procedures established under this section and who serves without pay or other consideration, other than the reasonable reimbursement or allowance for expenses actually incurred or the provision of incidental benefits related to the volunteer's service, such as meals, lodging, and child care.",
+      "id": "5502.281-registered-volunteer",
+      "normalized": "registered volunteer",
+      "scope": "(D) As used in this section:",
+      "section": "5502.281",
+      "source_title": "Section 5502.281 - Volunteer database; registration; privacy provisions; liability.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5502.281",
+      "term": "Registered volunteer"
+    },
+    {
+      "definition": "(2) \"Political subdivision\" means a county, township, or municipal corporation in this state.",
+      "id": "5502.281-political-subdivision",
+      "normalized": "political subdivision",
+      "scope": "(D) As used in this section:",
+      "section": "5502.281",
+      "source_title": "Section 5502.281 - Volunteer database; registration; privacy provisions; liability.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5502.281",
+      "term": "Political subdivision"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "149.43",
+      "number": "149.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.43"
+    },
+    {
+      "kind": "section",
+      "label": "149.433",
+      "number": "149.433",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.433"
+    }
+  ],
+  "scraped": "2026-07-02T20:12:22+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5502.281",
+  "title": "Section 5502.281 - Volunteer database; registration; privacy provisions; liability."
+}

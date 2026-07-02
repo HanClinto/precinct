@@ -1,0 +1,351 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 6117.01 - Power to establish sewer districts - sanitary engineering department.",
+      "number": "6117.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6117.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6117.011 - Surveys of water supply, sanitary, or drainage facilities.",
+      "number": "6117.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6117.011"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6117.012 - Rules for disconnection and reconnection or relocation of improper inflows into sewers.",
+      "number": "6117.012",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6117.012"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6117.02 - Sanitary rates, charges, or penalties fixed or established.",
+      "number": "6117.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6117.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6117.021 - Contracts for purpose of complying with phase II of storm water program.",
+      "number": "6117.021",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6117.021"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6117.03 - Resolution to lay out, establish, and maintain one or more sewer districts within county.",
+      "number": "6117.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6117.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6117.04 - Authority of board of county commissioners to acquire, construct, maintain, and operate sanitary or drainage facilities.",
+      "number": "6117.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6117.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6117.05 - Continuing jurisdiction where area is incorporated into or annexed to municipal corporation.",
+      "number": "6117.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6117.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6117.06 - General plan of sewerage or drainage.",
+      "number": "6117.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6117.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6117.061 - Deferment of collection of assessment.",
+      "number": "6117.061",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6117.061"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6117.062 - Deferment of collection of assessments for certain lines providing sewer facilities to industrial or residential developments.",
+      "number": "6117.062",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6117.062"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6117.07 - Determination to proceed with construction.",
+      "number": "6117.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6117.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6117.08 - Proceed to issue or incur public obligations and construct the improvement.",
+      "number": "6117.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6117.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6117.09 - Appeal to probate court.",
+      "number": "6117.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6117.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6117.10 - Appeal when improvement is located in two or more counties.",
+      "number": "6117.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6117.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6117.11 - Appeal when petition for improvement is dismissed.",
+      "number": "6117.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6117.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6117.12 - Appeal by guardian of minors or other persons under disability.",
+      "number": "6117.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6117.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6117.13 - Transmission of original papers in proceedings and certified transcript of record.",
+      "number": "6117.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6117.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6117.14 - Hearing on appeal.",
+      "number": "6117.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6117.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6117.15 - Trial in probate court.",
+      "number": "6117.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6117.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6117.16 - Action when more than one party appeals.",
+      "number": "6117.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6117.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6117.17 - Court findings.",
+      "number": "6117.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6117.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6117.18 - Record - costs.",
+      "number": "6117.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6117.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6117.19 - Appeal made in reference to necessity of improvement.",
+      "number": "6117.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6117.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6117.20 - Appeal made in reference to boundaries of assessment district or to tentative assessment.",
+      "number": "6117.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6117.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6117.21 - Judgment establishing improvement.",
+      "number": "6117.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6117.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6117.22 - Fees and compensation of officers.",
+      "number": "6117.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6117.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6117.23 - Appeal from probate court.",
+      "number": "6117.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6117.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6117.24 - Manifest error in proceedings.",
+      "number": "6117.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6117.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6117.25 - Payment for costs of improvement.",
+      "number": "6117.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6117.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6117.251 - Sanitary or drainage facility improvements.",
+      "number": "6117.251",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6117.251"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6117.27 - Contracts for construction of improvements.",
+      "number": "6117.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6117.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6117.28 - Petition by landowners for improvements.",
+      "number": "6117.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6117.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6117.29 - Cost of improvement to include engineering, necessary publications, inspection, interest on public obligations.",
+      "number": "6117.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6117.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6117.30 - Assessment district assessments.",
+      "number": "6117.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6117.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6117.31 - Actual costs - collection.",
+      "number": "6117.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6117.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6117.311 - Levying tax and issuing bonds to pay costs of improvement.",
+      "number": "6117.311",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6117.311"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6117.32 - Revised assessment.",
+      "number": "6117.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6117.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6117.33 - Annual certification of assessments.",
+      "number": "6117.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6117.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6117.34 - Complaint of unsanitary conditions.",
+      "number": "6117.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6117.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6117.36 - Writ of mandamus.",
+      "number": "6117.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6117.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6117.37 - Recovery of fine, forfeiture, or penalty.",
+      "number": "6117.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6117.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6117.38 - Sewerage or drainage outside district.",
+      "number": "6117.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6117.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6117.39 - Acquisition or purchase of property.",
+      "number": "6117.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6117.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6117.40 - Sewer construction within municipal corporation.",
+      "number": "6117.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6117.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6117.41 - Contracts with other public agencies.",
+      "number": "6117.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6117.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6117.42 - Compensation to other public agencies providing services.",
+      "number": "6117.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6117.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6117.43 - Payment of agreed compensation by levy of taxes or special assessments.",
+      "number": "6117.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6117.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6117.44 - Credit of compensation.",
+      "number": "6117.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6117.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6117.45 - Violations - fines.",
+      "number": "6117.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6117.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6117.46 - County trunk or main sewers.",
+      "number": "6117.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6117.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6117.47 - Purchase or appropriation of property for county trunk or main sewers.",
+      "number": "6117.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6117.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6117.48 - Eminent domain proceedings.",
+      "number": "6117.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6117.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6117.49 - Sale or disposition of county sanitary or drainage facilities.",
+      "number": "6117.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6117.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6117.51 - New public sewer construction projects.",
+      "number": "6117.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6117.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6117.60 - Amendments to chapter are subject to 4 of HB 549 of the 123rd General Assembly.",
+      "number": "6117.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6117.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6117.99 - Penalty.",
+      "number": "6117.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6117.99"
+    }
+  ],
+  "scraped": "2026-07-02T20:17:24+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-6117",
+  "title": "Chapter 6117 - Sewer Districts; County Sewers"
+}

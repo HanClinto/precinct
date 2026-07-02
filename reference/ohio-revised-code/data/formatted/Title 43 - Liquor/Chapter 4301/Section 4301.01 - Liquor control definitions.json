@@ -1,0 +1,444 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Intoxicating liquor\" and \"liquor\" include all liquids and compounds, other than beer, containing one-half of one per cent or more of alcohol by volume which are fit to use for beverage purposes, from whatever source and by whatever process produced, by whatever name called, and whether they are medicated, proprietary, or patented. \"Intoxicating liquor\" and \"liquor\" include cider and alcohol, and all solids and confections which contain one-half of one per cent or more of alcohol by volume.",
+      "id": "4301.01-intoxicating-liquor",
+      "normalized": "intoxicating liquor",
+      "scope": "(A) As used in the Revised Code:",
+      "section": "4301.01",
+      "source_title": "Section 4301.01 - Liquor control definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4301.01",
+      "term": "Intoxicating liquor"
+    },
+    {
+      "definition": "(1) \"Intoxicating liquor\" and \"liquor\" include all liquids and compounds, other than beer, containing one-half of one per cent or more of alcohol by volume which are fit to use for beverage purposes, from whatever source and by whatever process produced, by whatever name called, and whether they are medicated, proprietary, or patented. \"Intoxicating liquor\" and \"liquor\" include cider and alcohol, and all solids and confections which contain one-half of one per cent or more of alcohol by volume.",
+      "id": "4301.01-liquor",
+      "normalized": "liquor",
+      "scope": "(A) As used in the Revised Code:",
+      "section": "4301.01",
+      "source_title": "Section 4301.01 - Liquor control definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4301.01",
+      "term": "liquor"
+    },
+    {
+      "definition": "(2) Except as used in sections 4301.01 to 4301.20 , 4301.22 to 4301.52 , 4301.56 , 4301.70 , 4301.72 , and 4303.01 to 4303.36 of the Revised Code, \"sale\" and \"sell\" include exchange, barter, gift, offer for sale, sale, distribution and delivery of any kind, and the transfer of title or possession of beer and intoxicating liquor either by constructive or actual delivery by any means or devices whatever, including the sale of beer or intoxicating liquor by means of a controlled access alcohol and beverage cabinet pursuant to section 4301.21 of the Revised Code. \"Sale\" and \"sell\" do not include the mere solicitation of orders for beer or intoxicating liquor from the holders of permits issued by the division of liquor control authorizing the sale of the beer or intoxicating liquor, but no solicitor shall solicit any such orders until the solicitor has been registered with the division pursuant to section 4303.25 of the Revised Code.",
+      "id": "4301.01-sale",
+      "normalized": "sale",
+      "scope": "(A) As used in the Revised Code:",
+      "section": "4301.01",
+      "source_title": "Section 4301.01 - Liquor control definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4301.01",
+      "term": "sale"
+    },
+    {
+      "definition": "(2) Except as used in sections 4301.01 to 4301.20 , 4301.22 to 4301.52 , 4301.56 , 4301.70 , 4301.72 , and 4303.01 to 4303.36 of the Revised Code, \"sale\" and \"sell\" include exchange, barter, gift, offer for sale, sale, distribution and delivery of any kind, and the transfer of title or possession of beer and intoxicating liquor either by constructive or actual delivery by any means or devices whatever, including the sale of beer or intoxicating liquor by means of a controlled access alcohol and beverage cabinet pursuant to section 4301.21 of the Revised Code. \"Sale\" and \"sell\" do not include the mere solicitation of orders for beer or intoxicating liquor from the holders of permits issued by the division of liquor control authorizing the sale of the beer or intoxicating liquor, but no solicitor shall solicit any such orders until the solicitor has been registered with the division pursuant to section 4303.25 of the Revised Code.",
+      "id": "4301.01-sell",
+      "normalized": "sell",
+      "scope": "(A) As used in the Revised Code:",
+      "section": "4301.01",
+      "source_title": "Section 4301.01 - Liquor control definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4301.01",
+      "term": "sell"
+    },
+    {
+      "definition": "(3) \"Vehicle\" includes all means of transportation by land, by water, or by air, and everything made use of in any way for such transportation.\n\n(B) As used in this chapter:",
+      "id": "4301.01-vehicle",
+      "normalized": "vehicle",
+      "scope": "(A) As used in the Revised Code:",
+      "section": "4301.01",
+      "source_title": "Section 4301.01 - Liquor control definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4301.01",
+      "term": "Vehicle"
+    },
+    {
+      "definition": "(1) \"Alcohol\" means ethyl alcohol, whether rectified or diluted with water or not, whatever its origin may be, and includes synthetic ethyl alcohol. \"Alcohol\" does not include denatured alcohol and wood alcohol.",
+      "id": "4301.01-alcohol",
+      "normalized": "alcohol",
+      "scope": "(B) As used in this chapter:",
+      "section": "4301.01",
+      "source_title": "Section 4301.01 - Liquor control definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4301.01",
+      "term": "Alcohol"
+    },
+    {
+      "definition": "(2) \"Beer\" includes all beverages brewed or fermented wholly or in part from malt products and containing one-half of one per cent or more of alcohol by volume.",
+      "id": "4301.01-beer",
+      "normalized": "beer",
+      "scope": "(B) As used in this chapter:",
+      "section": "4301.01",
+      "source_title": "Section 4301.01 - Liquor control definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4301.01",
+      "term": "Beer"
+    },
+    {
+      "definition": "(3) \"Wine\" includes all liquids fit to use for beverage purposes containing not less than one-half of one per cent of alcohol by volume and not more than twenty-one per cent of alcohol by volume that is made from the fermented juices of grapes, fruits, or other agricultural products. \"Wine\" includes cider, except as used in sections 4301.13 , 4301.421 , 4301.422 , 4301.432 , and 4301.44 of the Revised Code, and, for purposes of determining the rate of the tax that applies, division (B) of section 4301.43 of the Revised Code, \"wine\" does not include cider.",
+      "id": "4301.01-wine",
+      "normalized": "wine",
+      "scope": "(B) As used in this chapter:",
+      "section": "4301.01",
+      "source_title": "Section 4301.01 - Liquor control definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4301.01",
+      "term": "Wine"
+    },
+    {
+      "definition": "(4) \"Mixed beverages\" include bottled and prepared cordials, cocktails, highballs, and solids and confections that are obtained by mixing any type of whiskey, neutral spirits, brandy, gin, or other distilled spirits with, or over, carbonated or plain water, pure juices from flowers and plants, and other flavoring materials. The completed product shall contain not less than one-half of one per cent of alcohol by volume and not more than twenty-one per cent of alcohol by volume. \"Mixed beverages\" includes the contents of a pod.",
+      "id": "4301.01-mixed-beverages",
+      "normalized": "mixed beverages",
+      "scope": "(B) As used in this chapter:",
+      "section": "4301.01",
+      "source_title": "Section 4301.01 - Liquor control definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4301.01",
+      "term": "Mixed beverages"
+    },
+    {
+      "definition": "(5) \"Spirituous liquor\" includes all intoxicating liquors containing more than twenty-one per cent of alcohol by volume. \"Spirituous liquor\" does not include the contents of a pod.",
+      "id": "4301.01-spirituous-liquor",
+      "normalized": "spirituous liquor",
+      "scope": "(B) As used in this chapter:",
+      "section": "4301.01",
+      "source_title": "Section 4301.01 - Liquor control definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4301.01",
+      "term": "Spirituous liquor"
+    },
+    {
+      "definition": "(6) \"Sealed container\" means any container having a capacity of not more than one hundred twenty-eight fluid ounces, the opening of which is closed to prevent the entrance of air.",
+      "id": "4301.01-sealed-container",
+      "normalized": "sealed container",
+      "scope": "(B) As used in this chapter:",
+      "section": "4301.01",
+      "source_title": "Section 4301.01 - Liquor control definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4301.01",
+      "term": "Sealed container"
+    },
+    {
+      "definition": "(7) \"Person\" includes firms and corporations.",
+      "id": "4301.01-person",
+      "normalized": "person",
+      "scope": "(B) As used in this chapter:",
+      "section": "4301.01",
+      "source_title": "Section 4301.01 - Liquor control definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4301.01",
+      "term": "Person"
+    },
+    {
+      "definition": "(8) \"Manufacture\" includes all processes by which beer or intoxicating liquor is produced, whether by distillation, rectifying, fortifying, blending, fermentation, or brewing, or in any other manner.",
+      "id": "4301.01-manufacture",
+      "normalized": "manufacture",
+      "scope": "(B) As used in this chapter:",
+      "section": "4301.01",
+      "source_title": "Section 4301.01 - Liquor control definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4301.01",
+      "term": "Manufacture"
+    },
+    {
+      "definition": "(9) \"Manufacturer\" means any person engaged in the business of manufacturing beer or intoxicating liquor.",
+      "id": "4301.01-manufacturer",
+      "normalized": "manufacturer",
+      "scope": "(B) As used in this chapter:",
+      "section": "4301.01",
+      "source_title": "Section 4301.01 - Liquor control definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4301.01",
+      "term": "Manufacturer"
+    },
+    {
+      "definition": "(10) \"Wholesale distributor\" and \"distributor\" means a person engaged in the business of selling to retail dealers for purposes of resale.",
+      "id": "4301.01-wholesale-distributor",
+      "normalized": "wholesale distributor",
+      "scope": "(B) As used in this chapter:",
+      "section": "4301.01",
+      "source_title": "Section 4301.01 - Liquor control definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4301.01",
+      "term": "Wholesale distributor"
+    },
+    {
+      "definition": "(10) \"Wholesale distributor\" and \"distributor\" means a person engaged in the business of selling to retail dealers for purposes of resale.",
+      "id": "4301.01-distributor",
+      "normalized": "distributor",
+      "scope": "(B) As used in this chapter:",
+      "section": "4301.01",
+      "source_title": "Section 4301.01 - Liquor control definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4301.01",
+      "term": "distributor"
+    },
+    {
+      "definition": "(11) \"Hotel\" has the same meaning as in section 3731.01 of the Revised Code, subject to the exceptions mentioned in section 3731.03 of the Revised Code.",
+      "id": "4301.01-hotel",
+      "normalized": "hotel",
+      "scope": "(B) As used in this chapter:",
+      "section": "4301.01",
+      "source_title": "Section 4301.01 - Liquor control definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4301.01",
+      "term": "Hotel"
+    },
+    {
+      "definition": "(12) \"Restaurant\" means a place located in a permanent building provided with space and accommodations wherein, in consideration of the payment of money, hot meals are habitually prepared, sold, and served at noon and evening, as the principal business of the place. \"Restaurant\" does not include pharmacies, confectionery stores, lunch stands, night clubs, and filling stations.",
+      "id": "4301.01-restaurant",
+      "normalized": "restaurant",
+      "scope": "(B) As used in this chapter:",
+      "section": "4301.01",
+      "source_title": "Section 4301.01 - Liquor control definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4301.01",
+      "term": "Restaurant"
+    },
+    {
+      "definition": "(13) \"Club\" means a corporation or association of individuals organized in good faith for social, recreational, benevolent, charitable, fraternal, political, patriotic, or athletic purposes, which is the owner, lessor, or occupant of a permanent building or part of a permanent building operated solely for those purposes, membership in which entails the prepayment of regular dues, and includes the place so operated.",
+      "id": "4301.01-club",
+      "normalized": "club",
+      "scope": "(B) As used in this chapter:",
+      "section": "4301.01",
+      "source_title": "Section 4301.01 - Liquor control definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4301.01",
+      "term": "Club"
+    },
+    {
+      "definition": "(14) \"Night club\" means a place operated for profit, where food is served for consumption on the premises and one or more forms of amusement are provided or permitted for a consideration that may be in the form of a cover charge or may be included in the price of the food and beverages, or both, purchased by patrons.",
+      "id": "4301.01-night-club",
+      "normalized": "night club",
+      "scope": "(B) As used in this chapter:",
+      "section": "4301.01",
+      "source_title": "Section 4301.01 - Liquor control definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4301.01",
+      "term": "Night club"
+    },
+    {
+      "definition": "(15) \"At retail\" means for use or consumption by the purchaser and not for resale.",
+      "id": "4301.01-at-retail",
+      "normalized": "at retail",
+      "scope": "(B) As used in this chapter:",
+      "section": "4301.01",
+      "source_title": "Section 4301.01 - Liquor control definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4301.01",
+      "term": "At retail"
+    },
+    {
+      "definition": "(16) \"Pharmacy\" means an establishment, as defined in section 4729.01 of the Revised Code, that is under the management or control of a licensed pharmacist in accordance with section 4729.27 of the Revised Code.",
+      "id": "4301.01-pharmacy",
+      "normalized": "pharmacy",
+      "scope": "(B) As used in this chapter:",
+      "section": "4301.01",
+      "source_title": "Section 4301.01 - Liquor control definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4301.01",
+      "term": "Pharmacy"
+    },
+    {
+      "definition": "(17) \"Enclosed shopping center\" means a group of retail sales and service business establishments that face into an enclosed mall, share common ingress, egress, and parking facilities, and are situated on a tract of land that contains an area of not less than five hundred thousand square feet. \"Enclosed shopping center\" also includes not more than one business establishment that is located within a free-standing building on such a tract of land, so long as the sale of beer and intoxicating liquor on the tract of land was approved in an election held under former section 4301.353 of the Revised Code.",
+      "id": "4301.01-enclosed-shopping-center",
+      "normalized": "enclosed shopping center",
+      "scope": "(B) As used in this chapter:",
+      "section": "4301.01",
+      "source_title": "Section 4301.01 - Liquor control definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4301.01",
+      "term": "Enclosed shopping center"
+    },
+    {
+      "definition": "(18) \"Controlled access alcohol and beverage cabinet\" means a closed container, either refrigerated, in whole or in part, or nonrefrigerated, access to the interior of which is restricted by means of a device that requires the use of a key, magnetic card, or similar device and from which beer, intoxicating liquor, other beverages, or food may be sold.",
+      "id": "4301.01-controlled-access-alcohol-and-beverage-cabinet",
+      "normalized": "controlled access alcohol and beverage cabinet",
+      "scope": "(B) As used in this chapter:",
+      "section": "4301.01",
+      "source_title": "Section 4301.01 - Liquor control definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4301.01",
+      "term": "Controlled access alcohol and beverage cabinet"
+    },
+    {
+      "definition": "(19) \"Community facility\" means either of the following:\n\n(a) Any convention, sports, or entertainment facility or complex, or any combination of these, that is used by or accessible to the general public and that is owned or operated in whole or in part by the state, a state agency, or a political subdivision of the state or that is leased from, or located on property owned by or leased from, the state, a state agency, a political subdivision of the state, or a convention facilities authority created pursuant to section 351.02 of the Revised Code;\n\n(b) An area designated as a community entertainment district pursuant to section 4301.80 of the Revised Code.",
+      "id": "4301.01-community-facility",
+      "normalized": "community facility",
+      "scope": "(B) As used in this chapter:",
+      "section": "4301.01",
+      "source_title": "Section 4301.01 - Liquor control definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4301.01",
+      "term": "Community facility"
+    },
+    {
+      "definition": "(20) \"Low-alcohol beverage\" means any brewed or fermented malt product, or any product made from the fermented juices of grapes, fruits, or other agricultural products, that contains either no alcohol or less than one-half of one per cent of alcohol by volume. The beverages described in division (B)(20) of this section do not include a soft drink such as root beer, birch beer, or ginger beer.",
+      "id": "4301.01-low-alcohol-beverage",
+      "normalized": "low-alcohol beverage",
+      "scope": "(B) As used in this chapter:",
+      "section": "4301.01",
+      "source_title": "Section 4301.01 - Liquor control definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4301.01",
+      "term": "Low-alcohol beverage"
+    },
+    {
+      "definition": "(21) \"Cider\" means all liquids fit to use for beverage purposes that contain one-half of one per cent of alcohol by volume, but not more than six per cent of alcohol by weight, and that are made through the normal alcoholic fermentation of the juice of sound, ripe apples, including, without limitation, flavored, sparkling, or carbonated cider and cider made from pure condensed apple must.",
+      "id": "4301.01-cider",
+      "normalized": "cider",
+      "scope": "(B) As used in this chapter:",
+      "section": "4301.01",
+      "source_title": "Section 4301.01 - Liquor control definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4301.01",
+      "term": "Cider"
+    },
+    {
+      "definition": "(22) \"Sales area or territory\" means an exclusive geographic area or territory that is assigned to a particular A or B permit holder and that either has one or more political subdivisions as its boundaries or consists of an area of land with readily identifiable geographic boundaries. \"Sales area or territory\" does not include, however, any particular retail location in an exclusive geographic area or territory that had been assigned to another A or B permit holder before April 9, 2001.",
+      "id": "4301.01-sales-area-or-territory",
+      "normalized": "sales area or territory",
+      "scope": "(B) As used in this chapter:",
+      "section": "4301.01",
+      "source_title": "Section 4301.01 - Liquor control definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4301.01",
+      "term": "Sales area or territory"
+    },
+    {
+      "definition": "(23) \"Pod\" means a sealed capsule made from plastic, glass, aluminum, or a combination thereof to which all of the following apply:\n\n(a) The capsule contains intoxicating liquor of more than twenty-one per cent of alcohol by volume.\n\n(b) The capsule also contains a concentrated flavoring mixture.\n\n(c) The contents of the capsule are not readily accessible or intended for consumption unless certain manufacturer's processing instructions are followed.\n\n(d) The instructions include releasing the contents of the capsule through a machine specifically designed to process the contents.\n\n(e) After being properly processed according to the manufacturer's instructions, the final product produced from the capsule contains not less than one-half of one per cent of alcohol by volume and not more than twenty-one per cent of alcohol by volume.\n\nLast updated January 13, 2022 at 11:57 AM",
+      "id": "4301.01-pod",
+      "normalized": "pod",
+      "scope": "(B) As used in this chapter:",
+      "section": "4301.01",
+      "source_title": "Section 4301.01 - Liquor control definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4301.01",
+      "term": "Pod"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "4301.01",
+      "number": "4301.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.01"
+    },
+    {
+      "kind": "section",
+      "label": "4301.20",
+      "number": "4301.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.20"
+    },
+    {
+      "kind": "section",
+      "label": "4301.22",
+      "number": "4301.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.22"
+    },
+    {
+      "kind": "section",
+      "label": "4301.52",
+      "number": "4301.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.52"
+    },
+    {
+      "kind": "section",
+      "label": "4301.56",
+      "number": "4301.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.56"
+    },
+    {
+      "kind": "section",
+      "label": "4301.70",
+      "number": "4301.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.70"
+    },
+    {
+      "kind": "section",
+      "label": "4301.72",
+      "number": "4301.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.72"
+    },
+    {
+      "kind": "section",
+      "label": "4303.01",
+      "number": "4303.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4303.01"
+    },
+    {
+      "kind": "section",
+      "label": "4303.36",
+      "number": "4303.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4303.36"
+    },
+    {
+      "kind": "section",
+      "label": "4301.21",
+      "number": "4301.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.21"
+    },
+    {
+      "kind": "section",
+      "label": "4303.25",
+      "number": "4303.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4303.25"
+    },
+    {
+      "kind": "section",
+      "label": "4301.13",
+      "number": "4301.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.13"
+    },
+    {
+      "kind": "section",
+      "label": "4301.421",
+      "number": "4301.421",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.421"
+    },
+    {
+      "kind": "section",
+      "label": "4301.422",
+      "number": "4301.422",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.422"
+    },
+    {
+      "kind": "section",
+      "label": "4301.432",
+      "number": "4301.432",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.432"
+    },
+    {
+      "kind": "section",
+      "label": "4301.44",
+      "number": "4301.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.44"
+    },
+    {
+      "kind": "section",
+      "label": "4301.43",
+      "number": "4301.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.43"
+    },
+    {
+      "kind": "section",
+      "label": "3731.01",
+      "number": "3731.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3731.01"
+    },
+    {
+      "kind": "section",
+      "label": "3731.03",
+      "number": "3731.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3731.03"
+    },
+    {
+      "kind": "section",
+      "label": "4729.01",
+      "number": "4729.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.01"
+    },
+    {
+      "kind": "section",
+      "label": "4729.27",
+      "number": "4729.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.27"
+    },
+    {
+      "kind": "section",
+      "label": "4301.353",
+      "number": "4301.353",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.353"
+    },
+    {
+      "kind": "section",
+      "label": "351.02",
+      "number": "351.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-351.02"
+    },
+    {
+      "kind": "section",
+      "label": "4301.80",
+      "number": "4301.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.80"
+    }
+  ],
+  "scraped": "2026-07-02T20:04:59+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4301.01",
+  "title": "Section 4301.01 - Liquor control definitions."
+}

@@ -1,0 +1,30 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-1563.11
+Scraped: 2026-07-02T19:38:56+00:00
+
+# Section 1563.11 - Mining near public roads.
+
+**Effective:** June 14, 2000
+
+**Latest Legislation:** House Bill 601 - 123rd General Assembly
+
+(A) Unless a permit has been issued by the director of transportation, or the board of county commissioners, or the board of township trustees, or such other public authority that is charged by law with the maintenance of a public road, and the approval of the chief of the division of mineral resources management has been obtained, no person, firm, or corporation, engaged in mining or quarrying any mineral, coal, stone, or clay, shall:
+
+(1) Extend any part of an open pit excavation closer than fifty feet of horizontal distance to any part of a public road;
+
+(2) Deposit mine refuse or removed overburden:
+
+(a) Closer to a public road than a line parallel to the boundary line of such road and fifty feet of horizontal distance away from such road and at the same elevation as the elevation of the crown of such road;
+
+(b) Higher than a line beginning at a point fifty feet of horizontal distance away from such road and at the same elevation as the elevation of the crown of such road, and extending from such beginning point upward and away from such road at an angle of forty degrees from the horizontal plane.
+
+Any person, firm, or corporation desiring such a permit shall apply in writing therefor to the proper public authority, and shall describe in such application the excavating or depositing of mine refuse or removed overburden that it will do and for which it requests a permit. The applicant shall also furnish such public authority with such additional data and information concerning such work as such public authority may request and that shall be relevant, in making the determination that such public authority is required to make as to the amount of bond or other security the applicant shall be required to deposit before such a permit is issued to the applicant.
+
+Upon receipt of such an application such public authority shall promptly consider what damage, if any, may be done to such public highway by the excavating or depositing of mine refuse or removed overburden for which the permit is requested, and estimate the reasonable cost of repairing such damage, if any should occur, and fix the amount of such estimate of cost as the amount of bond or other security that the applicant shall deposit with such public authority upon issuance of the permit requested, to ensure payment of the cost of repairing any such damage that might occur. Such public authority shall promptly notify the applicant of the amount of bond or other security it has so fixed.
+
+Upon approval of the chief and deposit with the public authority of a surety bond signed by the applicant as principal, and by a surety company authorized to transact business in this state as surety, or of cash or other security satisfactory to such public authority, in the amount fixed by such authority, and conditioned upon the payment to such public authority by applicant of the cost of repairing any damage to such public road occurring as a result of the excavating or depositing of mine refuse or removed overburden for which the permit was issued, the public authority shall issue to the applicant the permit for which the applicant applied.
+
+If, at the end of three years after such excavation or deposit of mine refuse or removed overburden is made, the licensee shall have paid or caused to be paid all cost of repairing any damage to such public road occurring within such time as a result of such excavating or depositing for which such permit was issued, or, if within such period of time no such damage to such shall have occurred, the bond or cash or other security deposited with the public authority upon the issuance of such permit, shall be released and returned to such applicant.
+
+(B) Any person, firm, or corporation owning any land containing mineral, coal, stone, or clay, and over any portion of which any state, county, or township road or public highway passes, may drill, excavate, mine, or quarry through or under such road. Before the work is commenced, such person, firm, or corporation shall execute and deliver to the director of transportation in case of state roads, to the board of county commissioners in case of county roads, or to the board of township trustees in case of township roads, a bond, with good and sufficient surety in such amount as shall be considered by the director, the board of county commissioners, or the board of township trustees, sufficient to cover any damages that may accrue by excavating, mining, or quarrying through or under any such road, the same to be approved by such director, board of county commissioners, or board of township trustees. Such bond shall be conditioned that while crossing over or mining or quarrying under any such road, a safe and unobstructed passageway or road shall be kept open by such person, firm, or corporation for the public use, and as soon as practicable, such road shall be fully restored to its original safe and passable condition. When such crossing is made by excavation at a depth of more than thirty feet below the surface of such road, the person, firm, or corporation making the same shall be liable to the director, board of county commissioners, or board of township trustees for any damage that may accrue by such excavation, and shall be held to fully repair any such damage and to restore such road to its original safe and passable condition. The right to mine or quarry across or under public highways as provided in this section, shall accrue to the owner, lessee, or agent of the land upon or through which such highway passes.
+
+As used in this section, "road" or "highway" means the entire right of way as well as the improved portion thereof, and includes bridges, viaducts, grade separations, appurtenances, and approaches on or to such road or highway.

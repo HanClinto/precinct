@@ -1,0 +1,52 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Fiscal watch\" means the existence of a fiscal watch declared under division (A) of section 3316.03 of the Revised Code.",
+      "id": "3316.01-fiscal-watch",
+      "normalized": "fiscal watch",
+      "scope": "As used in this chapter:",
+      "section": "3316.01",
+      "source_title": "Section 3316.01 - Fiscal watch - fiscal emergency definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3316.01",
+      "term": "Fiscal watch"
+    },
+    {
+      "definition": "(B) \"Fiscal emergency\" means the existence of a fiscal emergency declared under division (B) of section 3316.03 of the Revised Code.",
+      "id": "3316.01-fiscal-emergency",
+      "normalized": "fiscal emergency",
+      "scope": "As used in this chapter:",
+      "section": "3316.01",
+      "source_title": "Section 3316.01 - Fiscal watch - fiscal emergency definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3316.01",
+      "term": "Fiscal emergency"
+    },
+    {
+      "definition": "(C) \"Fiscal emergency period\" means the period of time commencing on the day when the auditor of state declares that a school district is in a state of fiscal emergency under division (B) of section 3316.03 of the Revised Code and ending on the day on which the school district financial planning and supervision commission ceases to exist under section 3316.16 of the Revised Code.",
+      "id": "3316.01-fiscal-emergency-period",
+      "normalized": "fiscal emergency period",
+      "scope": "As used in this chapter:",
+      "section": "3316.01",
+      "source_title": "Section 3316.01 - Fiscal watch - fiscal emergency definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3316.01",
+      "term": "Fiscal emergency period"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3316.03",
+      "number": "3316.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3316.03"
+    },
+    {
+      "kind": "section",
+      "label": "3316.16",
+      "number": "3316.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3316.16"
+    }
+  ],
+  "scraped": "2026-07-02T19:48:47+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3316.01",
+  "title": "Section 3316.01 - Fiscal watch - fiscal emergency definitions."
+}

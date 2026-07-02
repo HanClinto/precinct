@@ -1,0 +1,104 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-1302
+Scraped: 2026-07-02T19:37:00+00:00
+
+# Chapter 1302 - Sales
+
+## Sections
+
+- Section 1302.01 - Definitions - UCC 2-103 to 2-106.
+- Section 1302.02 - Scope - certain security and other transactions excluded - UCC 2-102.
+- Section 1302.03 - Goods to be severed from realty - recording - UCC 2-107.
+- Section 1302.04 - Formal requirements - statute of frauds - UCC 2-201.
+- Section 1302.05 - Final written expression - parol or extrinsic evidence - UCC 2-202.
+- Section 1302.06 - Seals inoperative - UCC 2-203.
+- Section 1302.07 - Formation in general - UCC 2-204.
+- Section 1302.08 - Firm offers - UCC 2-205.
+- Section 1302.09 - Offer and acceptance in formation of contract - UCC 2-206.
+- Section 1302.10 - Additional terms in acceptance or confirmation - UCC 2-207.
+- Section 1302.12 - Modification, rescission, and waiver - UCC 2-209.
+- Section 1302.13 - Delegation of performance - assignment of rights - UCC 2-210.
+- Section 1302.14 - General obligations of parties - UCC 2-301.
+- Section 1302.15 - Unconscionable contract or clause - UCC 2-302.
+- Section 1302.16 - Allocation or division of risks - UCC 2-303.
+- Section 1302.17 - Price payable in money, goods, realty, or otherwise - UCC 2-304.
+- Section 1302.18 - Open price term - UCC 2-305.
+- Section 1302.19 - Output, requirements, and exclusive dealings - UCC 2-306.
+- Section 1302.20 - Delivery in single lot or several lots - UCC 2-307.
+- Section 1302.21 - Absence of specified place for delivery - UCC 2-308.
+- Section 1302.22 - Absence of specific time provisions - notice of termination - UCC 2-309.
+- Section 1302.23 - Open time for payment or running of credit - authority to ship under reservation - UCC 2-310.
+- Section 1302.24 - Options and cooperation respecting performance - UCC 2-311.
+- Section 1302.25 - Warranty of title and against infringement - buyer's obligation against infringement - UCC 2-312.
+- Section 1302.26 - Express warranties by affirmation, promise, description, sample - UCC 2-313.
+- Section 1302.27 - Implied warranty - merchantability - usage of trade - UCC 2-314.
+- Section 1302.28 - Implied warranty - fitness for particular purpose - UCC 2-315.
+- Section 1302.29 - Exclusion or modification of warranties - UCC 2-316.
+- Section 1302.30 - Cumulation and conflict of warranties express or implied - UCC 2-317.
+- Section 1302.31 - Third party beneficiaries of warranties express or implied - UCC 2-318.
+- Section 1302.32 - F.O.B. and F.A.S. terms - UCC 2-319.
+- Section 1302.33 - C.I.F. and C. and F. terms - UCC 2-320.
+- Section 1302.34 - C.I.F. or C. and F. - net landed weights - payment on arrival - warranty of condition on arrival - UCC 2-321.
+- Section 1302.35 - Delivery ex-ship - UCC 2-322.
+- Section 1302.36 - Form of bill of lading required in overseas shipment - overseas defined - UCC 2-323.
+- Section 1302.37 - No arrival, no sale term - UCC 2-324.
+- Section 1302.38 - Letter of credit - confirmed credit - UCC 2-325.
+- Section 1302.39 - Sale on approval and sale or return - rights of creditors - UCC 2-326.
+- Section 1302.40 - Special incidents of sale on approval and sale or return - UCC 2-327.
+- Section 1302.41 - Sale by auction - UCC 2-328.
+- Section 1302.42 - Passing of title - reservation for security - limited application of this section - UCC 2-401.
+- Section 1302.43 - Rights of seller's creditors against sold goods - UCC 2-402.
+- Section 1302.44 - Power to transfer - good faith purchase of goods - entrusting defined - UCC 2-403.
+- Section 1302.45 - Insurable interest in goods - manner of identification of goods - UCC 2-501.
+- Section 1302.46 - Buyer's right to goods on seller's repudiation, failure to deliver, or insolvency - UCC 2-502.
+- Section 1302.47 - Manner of seller's tender of delivery - UCC 2-503.
+- Section 1302.48 - Shipment by seller - UCC 2-504.
+- Section 1302.49 - Seller's shipment under reservation - UCC 2-505.
+- Section 1302.50 - Rights of financing agency - UCC 2-506.
+- Section 1302.51 - Effect of seller's tender - delivery on condition - UCC 2-507.
+- Section 1302.52 - Cure by seller of improper tender or delivery - replacement - UCC 2-508.
+- Section 1302.53 - Risk of loss in absence of breach - UCC 2-509.
+- Section 1302.54 - Effect of breach on risk of loss - UCC 2-510.
+- Section 1302.55 - Tender of payment by buyer - payment by check - UCC 2-511.
+- Section 1302.56 - Payment by buyer before inspection - UCC 2-512.
+- Section 1302.57 - Buyer's right to inspection of goods - UCC 2-513.
+- Section 1302.58 - When documents deliverable on acceptance - when on payment - UCC 2-514.
+- Section 1302.59 - Preserving evidence of goods in dispute - UCC 2-515.
+- Section 1302.60 - Buyer's rights on improper delivery - UCC 2-601.
+- Section 1302.61 - Manner and effect of rightful rejection - UCC 2-602.
+- Section 1302.62 - Merchant buyer's duties as to rightfully rejected goods - salvage - UCC 2-603, 2-604.
+- Section 1302.63 - Waiver of buyer's objections by failure to particularize - UCC 2-605.
+- Section 1302.64 - What constitutes acceptance of goods - UCC 2-606.
+- Section 1302.65 - Effect of acceptance - notice of breach - burden of establishing breach after acceptance - notice of claim or litigation to person answerable over - UCC 2-607.
+- Section 1302.66 - Revocation of acceptance in whole or in part - UCC 2-608.
+- Section 1302.67 - Right to adequate assurance of performance - UCC 2-609.
+- Section 1302.68 - Anticipatory repudiation - UCC 2-610.
+- Section 1302.69 - Retraction of anticipatory repudiation - UCC 2-611.
+- Section 1302.70 - Installment contract defined - breach - UCC 2-612.
+- Section 1302.71 - Casualty to identified goods - UCC 2-613.
+- Section 1302.72 - Substituted performance - UCC 2-614.
+- Section 1302.73 - Excuse by failure of presupposed conditions - UCC 2-615.
+- Section 1302.74 - Procedure on notice claiming excuse - UCC 2-616.
+- Section 1302.75 - Remedies for breach of collateral contracts not impaired - UCC 2-701.
+- Section 1302.76 - Seller's remedies on discovery of buyer's insolvency - UCC 2-702.
+- Section 1302.77 - Seller's remedies in general - UCC 2-703.
+- Section 1302.78 - Seller's right to identify goods to the contract notwithstanding breach or to salvage unfinished goods - UCC 2-704.
+- Section 1302.79 - Seller's stoppage of delivery in transit or otherwise - UCC 2-705.
+- Section 1302.80 - Seller's resale including contract for resale - UCC 2-706.
+- Section 1302.81 - Person in the position of a seller - UCC 2-707.
+- Section 1302.82 - Seller's damages for non-acceptance or repudiation - UCC 2-708.
+- Section 1302.83 - Action for the price - UCC 2-709.
+- Section 1302.84 - Seller's incidental damages - UCC 2-710.
+- Section 1302.85 - Buyer's remedies in general - buyer's security interest in rejected goods - UCC 2-711.
+- Section 1302.86 - Cover defined - buyer's procurement of substitute goods - UCC 2-712.
+- Section 1302.87 - Buyer's damages for non-delivery or repudiation - UCC 2-713.
+- Section 1302.88 - Buyer's damages for breach in regard to accepted goods - UCC 2-714.
+- Section 1302.89 - Buyer's incidental and consequential damages - UCC 2-715.
+- Section 1302.90 - Buyer's right to specific performance or replevin - UCC 2-716.
+- Section 1302.91 - Deduction of damages from the price - UCC 2-717.
+- Section 1302.92 - Liquidation or limitation of damages - deposits - UCC 2-718.
+- Section 1302.93 - Contractual modification or limitation of remedy - UCC 2-719.
+- Section 1302.94 - Effect of cancellation or rescission on claims for antecedent breach - UCC 2-720.
+- Section 1302.95 - Remedies for fraud - UCC 2-721.
+- Section 1302.96 - Who can sue third parties for injury to goods - UCC 2-722.
+- Section 1302.97 - Proof of market price - time and place - admissibility of market quotations - UCC 2-723, 2-724.
+- Section 1302.98 - Statute of limitations in contracts for sale - UCC 2-725.

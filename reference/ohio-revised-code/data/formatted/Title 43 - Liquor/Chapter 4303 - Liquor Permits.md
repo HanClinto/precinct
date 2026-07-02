@@ -1,0 +1,95 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-4303
+Scraped: 2026-07-02T20:05:02+00:00
+
+# Chapter 4303 - Liquor Permits
+
+## Sections
+
+- Section 4303.01 - Liquor permit definitions.
+- Section 4303.02 - A-1 permit.
+- Section 4303.021 - A-1-A permit.
+- Section 4303.022 - A-1c permit.
+- Section 4303.03 - A-2 permit.
+- Section 4303.031 - A-2f permit.
+- Section 4303.04 - A-3 permit.
+- Section 4303.041 - A-3a permit - sales restrictions.
+- Section 4303.05 - A-4 permit.
+- Section 4303.051 - A-5 permit.
+- Section 4303.06 - B-1 permit.
+- Section 4303.07 - B-2 permit.
+- Section 4303.071 - B-2a permit to wine manufacturers.
+- Section 4303.08 - B-3 permit.
+- Section 4303.09 - B-4 permit.
+- Section 4303.10 - B-5 permit.
+- Section 4303.101 - Sales by class B permit holders at charitable, benevolent, cultural, educational, or political events not open to the public.
+- Section 4303.11 - C-1 permit.
+- Section 4303.12 - C-2 permit.
+- Section 4303.121 - C-2x permit.
+- Section 4303.13 - D-1 permit.
+- Section 4303.14 - D-2 permit.
+- Section 4303.141 - D-2x permit.
+- Section 4303.15 - D-3 permit.
+- Section 4303.151 - D-3x permit.
+- Section 4303.16 - D-3a permit.
+- Section 4303.17 - D-4 permit.
+- Section 4303.171 - D-4a permit.
+- Section 4303.18 - D-5 permit.
+- Section 4303.181 - D-5a, D-5b, D-5c, D-5d, D-5e, D-5f, D-5g, D-5h, D-5i, D-5j, D-5k, D-5l, D-5m, D-5n, and D-5o permits.
+- Section 4303.182 - D-6 permit.
+- Section 4303.183 - D-7 permit.
+- Section 4303.184 - D-8 permit.
+- Section 4303.185 - To-go alcoholic beverages.
+- Section 4303.186 - D-9 liquor permit.
+- Section 4303.188 - Outdoor sale of alcoholic beverages [applies beginning 1/1/2024 per Section 803.120 of H.B. 33, 135th General Assembly].
+- Section 4303.19 - E permit.
+- Section 4303.191 - Sunday sales and F class permits.
+- Section 4303.20 - F permit.
+- Section 4303.201 - F-1 permit.
+- Section 4303.202 - F-2 permit.
+- Section 4303.203 - F-3 permit.
+- Section 4303.204 - F-4 permit.
+- Section 4303.205 - F-5 permit for riverboat festivals.
+- Section 4303.206 - F-6 permits issued to nonprofit organizations.
+- Section 4303.207 - F-7 permits to nonprofit organizations for qualified golf events.
+- Section 4303.208 - F-8 permits to nonprofit organizations for public events.
+- Section 4303.209 - F-9 permits to nonprofit corporation for events on park property.
+- Section 4303.2010 - F-10 permit.
+- Section 4303.2011 - F-11 liquor permit to nonprofit organizations promoting craft beers.
+- Section 4303.2012 - F-12 liquor permit to sell beer and wine at special functions.
+- Section 4303.21 - G permit.
+- Section 4303.22 - H permit; monthly report.
+- Section 4303.23 - I permit.
+- Section 4303.231 - W permit.
+- Section 4303.232 - S-1 permit.
+- Section 4303.233 - S-2 permit.
+- Section 4303.234 - Wine fulfillment warehouses.
+- Section 4303.235 - [Former R.C. 4303.234, amended and renumbered by H.B. 110, 134th General Assembly, effective 9/30/2021] B-2a, S-1, and S-2 permit holder and fulfillment warehouse regulation.
+- Section 4303.236 - [Former R.C. 4303.233, amended and renumbered by H.B. 110, 134th General Assembly, effective 9/30/2021] Household limit on wine purchases; shipments of wine and beer to personal consumers.
+- Section 4303.237 - R permit for repackaging beer, wine, or mixed beverages.
+- Section 4303.24 - Permit fees.
+- Section 4303.25 - Prohibited acts - sales representatives to be registered.
+- Section 4303.251 - Consumer product instruction or sample servings provided without permit.
+- Section 4303.26 - Permit application - transfer of ownership or location - notice to political subdivision.
+- Section 4303.261 - Transfers where permit premises located in more than one election precinct.
+- Section 4303.262 - Designation of resort area for purposes of issuing D-7 permits.
+- Section 4303.27 - Term of permits - out-of state delivery.
+- Section 4303.271 - Permit renewal - political subdivision objection.
+- Section 4303.272 - Safekeeping of permits.
+- Section 4303.28 - Sale of services in connection with the issuing of any permit prohibited.
+- Section 4303.29 - Requirements and restrictions for permit holders.
+- Section 4303.291 - D-4 permits not limited.
+- Section 4303.292 - Grounds for refusal to issue, transfer ownership or location or renew permit.
+- Section 4303.293 - Names of persons having a legal or beneficial ownership of the business included in application.
+- Section 4303.30 - Duplicate permits for additional fixed counters.
+- Section 4303.31 - D permits not subject to the population quota restrictions.
+- Section 4303.32 - Entry into military service.
+- Section 4303.33 - Monthly filing of tax returns with advance payments.
+- Section 4303.331 - Out-of-state dealers and brokers required to register with tax commissioner.
+- Section 4303.332 - Tax exemption for A-1c, S-1 permit holders.
+- Section 4303.333 - Tax exemptions for A-2, A-2f, S-1, and S-2 permit holders.
+- Section 4303.34 - G and I permit restrictions on sales.
+- Section 4303.35 - Restricting purchase of beer or spirituous liquor for resale.
+- Section 4303.36 - Fines for violations.
+- Section 4303.37 - Prohibited acts.
+- Section 4303.40 - Notification of filing of complaint.
+- Section 4303.99 - Penalty.

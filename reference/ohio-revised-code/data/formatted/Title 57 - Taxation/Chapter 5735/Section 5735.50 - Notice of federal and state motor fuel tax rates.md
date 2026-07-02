@@ -1,0 +1,74 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5735.50
+Scraped: 2026-07-02T20:15:06+00:00
+
+# Section 5735.50 - Notice of federal and state motor fuel tax rates.
+
+**Effective:** July 3, 2019
+
+**Latest Legislation:** House Bill 62 - 133rd General Assembly
+
+(A) As used in this section:
+
+(1) "Rate of federal motor fuel tax" means the rate of tax levied under section 4081 of the Internal Revenue Code on one gallon of gasoline other than aviation gasoline or one gallon of diesel fuel, as those terms are defined in section 4083 of the Internal Revenue Code.
+
+(2) "Rate of state motor fuel tax" means the rate of tax levied under section 5735.05 of the Revised Code on one gallon of gasoline or one gallon of diesel fuel.
+
+(3) "Adjustment date" means a date on which a change in the rate of federal or state motor fuel tax takes effect or, if such a change occurs within six months after an adjustment date, the first day of the seventh month following that adjustment date.
+
+(4) "Fuel tax notice" means a notice described in division (B)(1) of this section.
+
+(5) "Retail pump" means a pump situated at a retail service station through which gasoline or diesel fuel is pumped directly into motor vehicle fuel tanks for consumption.
+
+(6) "Municipal sealer" means a sealer of weights and measures appointed under section 733.63 of the Revised Code.
+
+(B)(1) The director of agriculture shall, within ninety days after an adjustment date, design and cause to be produced a notice that displays, in readable font, the following information, which the director may obtain in consultation with the tax commissioner:
+
+(a) The rate of federal and state motor fuel tax as of the adjustment date. The information required by division (B)(1)(a) of this section shall be categorized and arranged on the notice as such information is categorized and arranged on the following table:
+
+GASOLINE
+
+DIESEL FUEL
+
+FEDERAL TAX
+
+[Rate of federal motor fuel tax on gasoline other than aviation gasoline]
+
+[Rate of federal motor fuel tax on diesel fuel]
+
+STATE TAX
+
+[Rate of state motor fuel tax on gasoline]
+
+[Rate of state motor fuel tax on diesel fuel]
+
+TOTAL TAX
+
+[sum of the rate of federal motor fuel tax on gasoline other than aviation gasoline plus the rate of state motor fuel tax on gasoline]
+
+[sum of the rate of motor fuel tax on diesel fuel plus the rate of state motor fuel tax on diesel fuel]
+
+Each of the three columns in the table described in division (B)(1)(a) of this section shall be separated by a vertical line and each of the four rows shall be separated by a horizontal line. The table shall be enclosed within lines forming a box such that "federal tax," "state tax," "total tax," and the corresponding gasoline and diesel rates appear as individual cells within a grid pattern.
+
+(b) A representation of the great seal of the state as described in section 5.10 of the Revised Code without regard to the minimum dimensions prescribed by that section;
+
+(c) At the bottom of the notice and in a font smaller than that used to display the information described in division (B)(1)(a) of this section, a statement that reads as follows: "THIS NOTICE IS REQUIRED BY THE OHIO FUEL TAX TRANSPARENCY ACT, O.R.C. 5735.50."
+
+(2) A fuel tax notice shall not display any information other than the information required under divisions (B)(1)(a) to (c) of this section, and shall not display the name of any public official, state employee, or state agency. No color shall be displayed on the notice other than red, white, or blue. The width and length of a fuel tax notice shall not be less than four inches and shall not exceed four and one-half inches.
+
+(3) The director shall, within ninety days after an adjustment date, distribute fuel tax notices to each county auditor or municipal sealer in the number requested by the auditor or sealer under division (C)(1) of this section. The director shall not charge a county auditor, municipal sealer, or any person for the creation or delivery of a fuel tax notice under this section.
+
+(C)(1) Within fifteen days after an adjustment date, the director of agriculture shall notify each county auditor and municipal sealer that the director is designing and causing to be produced fuel tax notices as required under division (B)(1) of this section. Within fifteen days after receipt of such a notice, a county auditor or municipal sealer shall notify the director of the number of fuel tax notices the auditor or sealer requires to perform the auditor's or sealer's duties under division (C)(2) of this section.
+
+(2) Except as otherwise provided in division (C)(3) of this section, each county auditor or municipal sealer or an employee thereof shall affix fuel tax notices received from the director of agriculture on each retail pump the auditor or sealer is required to inspect under the authority of section 1327.52 of the Revised Code. Each notice shall be affixed on or before the earlier of fourteen months following the most recent adjustment date or the date the auditor or sealer or an employee thereof arrives on the premises of a retail service station for the purposes of carrying out a required inspection or other official business, including the performance of the auditor's or sealer's duties under section 1327.52 of the Revised Code. A fuel tax notice shall be displayed in a clear and prominent manner and shall be affixed on each face of a retail pump on which a meter measuring the volume of gasoline or diesel fuel dispensed is located. A notice shall not be affixed in a manner that obstructs or obscures any other notice or sticker required to be displayed pursuant to federal, state, or local law. A county auditor or municipal sealer or employee thereof shall replace any fuel tax notice that is no longer readable or is no longer affixed as required under division (C)(2) of this section or that has been affixed on a retail pump for more than three consecutive years.
+
+(3) In lieu of fuel tax notices being affixed on each retail pump as required by division (C)(2) of this section, the owner or operator of a retail service station may provide the information required to be displayed on the notice by any of the following means:
+
+(a) Displaying video messages via video displays visible to users of the retail pump;
+
+(b) Printing the information on customer receipts;
+
+(c) Posting the information conspicuously at the public entrance to the premises of the service station.
+
+(D) A county auditor or municipal sealer may notify the director of agriculture at any time if the auditor or sealer requires additional fuel tax notices to perform the auditor's or sealer's duties under this section. Upon receiving such a request, the director shall distribute the number of fuel tax notices so requested to the auditor or sealer.
+
+(E) Nothing in this section makes the owner or operator of a retail service station liable for affixing or maintaining a fuel tax notice.

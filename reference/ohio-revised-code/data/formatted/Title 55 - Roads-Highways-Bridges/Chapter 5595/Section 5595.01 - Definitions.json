@@ -1,0 +1,108 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Regional transportation improvement project\" or \"project\" means a regional transportation improvement project undertaken pursuant to section 5595.02 of the Revised Code.",
+      "id": "5595.01-regional-transportation-improvement-project",
+      "normalized": "regional transportation improvement project",
+      "scope": "As used in this chapter:",
+      "section": "5595.01",
+      "source_title": "Section 5595.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5595.01",
+      "term": "Regional transportation improvement project"
+    },
+    {
+      "definition": "(A) \"Regional transportation improvement project\" or \"project\" means a regional transportation improvement project undertaken pursuant to section 5595.02 of the Revised Code.",
+      "id": "5595.01-project",
+      "normalized": "project",
+      "scope": "As used in this chapter:",
+      "section": "5595.01",
+      "source_title": "Section 5595.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5595.01",
+      "term": "project"
+    },
+    {
+      "definition": "(B) \"Transportation improvement\" means the construction, repair, maintenance, or expansion of streets, highways, parking facilities, rail tracks and necessarily related rail facilities, bridges, tunnels, overpasses, underpasses, interchanges, approaches, culverts, and other means of transportation, and the erection and maintenance of traffic signs, markers, lights, and signals.",
+      "id": "5595.01-transportation-improvement",
+      "normalized": "transportation improvement",
+      "scope": "As used in this chapter:",
+      "section": "5595.01",
+      "source_title": "Section 5595.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5595.01",
+      "term": "Transportation improvement"
+    },
+    {
+      "definition": "(C) \"Opportunity corridor improvement\" means a public infrastructure improvement, as defined by section 5709.40 of the Revised Code, the primary purpose of which is to enhance or assist one or more transportation improvements or to create or facilitate economic development opportunities described in the memorandum of understanding or to otherwise benefit real property located, or businesses that are operating or will operate, within the development area, and that is funded at least in part with private funds. \"Opportunity corridor improvement\" includes the establishment, acquisition, ownership, control, management, sale, or transfer of a business under division (E) of section 5595.041 of the Revised Code.",
+      "id": "5595.01-opportunity-corridor-improvement",
+      "normalized": "opportunity corridor improvement",
+      "scope": "As used in this chapter:",
+      "section": "5595.01",
+      "source_title": "Section 5595.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5595.01",
+      "term": "Opportunity corridor improvement"
+    },
+    {
+      "definition": "(D) \"Development area\" means all parcels of real property located within two thousand five hundred feet of the outermost boundary of the right-of-way associated with any transportation improvement or economic development opportunity described in the memorandum of understanding. For the purpose of this division, a parcel is located within two thousand five hundred feet of the right-of-way if the distance between any portion of the parcel and any portion of the right-of-way is two thousand five hundred feet or less.",
+      "id": "5595.01-development-area",
+      "normalized": "development area",
+      "scope": "As used in this chapter:",
+      "section": "5595.01",
+      "source_title": "Section 5595.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5595.01",
+      "term": "Development area"
+    },
+    {
+      "definition": "(E) \"Right-of-way\" means land, property, or the interest therein, usually in the configuration of a strip, acquired for or devoted to transportation or economic development purposes. \"Right-of-way\" includes the roadway, shoulders or berm, ditch, and slopes extending to the right-of-way limits under the control of the state or local authority.",
+      "id": "5595.01-right-of-way",
+      "normalized": "right-of-way",
+      "scope": "As used in this chapter:",
+      "section": "5595.01",
+      "source_title": "Section 5595.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5595.01",
+      "term": "Right-of-way"
+    },
+    {
+      "definition": "(F) \"Qualified RTIP\" means a regional transportation improvement project undertaken before the effective date of this amendment.",
+      "id": "5595.01-qualified-rtip",
+      "normalized": "qualified rtip",
+      "scope": "As used in this chapter:",
+      "section": "5595.01",
+      "source_title": "Section 5595.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5595.01",
+      "term": "Qualified RTIP"
+    },
+    {
+      "definition": "(G) \"Memorandum of understanding\" means a memorandum of understanding between the governing board of a qualified RTIP and the department of transportation under section 5595.041 of the Revised Code.\n\nLast updated September 28, 2023 at 4:11 PM",
+      "id": "5595.01-memorandum-of-understanding",
+      "normalized": "memorandum of understanding",
+      "scope": "As used in this chapter:",
+      "section": "5595.01",
+      "source_title": "Section 5595.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5595.01",
+      "term": "Memorandum of understanding"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "5595.02",
+      "number": "5595.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5595.02"
+    },
+    {
+      "kind": "section",
+      "label": "5709.40",
+      "number": "5709.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5709.40"
+    },
+    {
+      "kind": "section",
+      "label": "5595.041",
+      "number": "5595.041",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5595.041"
+    }
+  ],
+  "scraped": "2026-07-02T20:14:10+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5595.01",
+  "title": "Section 5595.01 - Definitions."
+}

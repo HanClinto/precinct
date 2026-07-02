@@ -1,0 +1,46 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3701.262
+Scraped: 2026-07-02T19:50:52+00:00
+
+# Section 3701.262 - Cancer incidence surveillance system rules.
+
+**Effective:** March 20, 2025
+
+**Latest Legislation:** Senate Bill 196 - 135th General Assembly
+
+(A) As used in this section:
+
+(1) "Physician" means a person authorized under Chapter 4731. of the Revised Code to practice medicine and surgery or osteopathic medicine and surgery.
+
+(2) "Dentist" means a person who is licensed under Chapter 4715. of the Revised Code to practice dentistry.
+
+(3) "Hospital" has the same meaning as in section 3727.01 of the Revised Code.
+
+(4) "Cancer" includes those diseases specified by rule of the director of health under division (B)(2) of this section.
+
+(5) "Certified nurse-midwife," "clinical nurse specialist," and "certified nurse practitioner" have the same meanings as in section 4723.01 of the Revised Code.
+
+(B) The director of health shall adopt rules in accordance with Chapter 119. of the Revised Code to do all of the following:
+
+(1) Establish the Ohio cancer incidence surveillance system required by section 3701.261 of the Revised Code;
+
+(2) Specify the types of cancer and other tumorous and precancerous diseases to be reported to the department of health under division (D) of this section;
+
+(3) Establish reporting requirements for information concerning diagnosed cancer cases as the director considers necessary to conduct epidemiologic surveys of cancer in this state;
+
+(4) Establish standards that must be met by research projects to be eligible to receive information concerning individual cancer patients from the department of health.
+
+(C) The department of health shall record in the registry all reports of cancer received by it. In the development and administration of the cancer registry the department may use information compiled by public or private cancer registries and may contract for the collection and analysis of, and research related to, the information recorded under this section.
+
+(D)(1) Each physician, certified nurse-midwife, clinical nurse specialist, certified nurse practitioner, dentist, hospital, or person providing diagnostic or treatment services to patients with cancer shall report each case of cancer to the department. Any person required to report pursuant to this section may elect to report to the department through an existing cancer registry if the registry meets the reporting standards established by the director and reports to the department.
+
+(2) No person shall fail to make the cancer reports required by division (D)(1) of this section.
+
+(E) All physicians, certified nurse-midwives, clinical nurse specialists, certified nurse practitioners, dentists, hospitals, or persons providing diagnostic or treatment services to patients with cancer shall grant to the department or its authorized representative access to all records that identify cases of cancer or establish characteristics of cancer, the treatment of cancer, or the medical status of any identified cancer patient.
+
+(F) The Arthur G. James cancer hospital and Richard J. Solove research institute of the Ohio state university, shall analyze and evaluate the cancer reports collected pursuant to this section. The department shall publish and make available to the public reports summarizing the information collected. Reports shall be made on a calendar year basis and published not later than ninety days after the end of each calendar year.
+
+(G) Furnishing information, including records, reports, statements, notes, memoranda, or other information, to the department of health, either voluntarily or as required by this section, or to a person or governmental entity designated as a medical research project by the department, does not subject a physician, certified nurse-midwife, clinical nurse specialist, certified nurse practitioner, dentist, hospital, or person providing diagnostic or treatment services to patients with cancer to liability in an action for damages or other relief for furnishing the information.
+
+(H) This section does not affect the authority of any person or facility providing diagnostic or treatment services to patients with cancer to maintain facility-based tumor registries, in addition to complying with the reporting requirements of this section.
+
+Last updated February 18, 2025 at 5:33 PM

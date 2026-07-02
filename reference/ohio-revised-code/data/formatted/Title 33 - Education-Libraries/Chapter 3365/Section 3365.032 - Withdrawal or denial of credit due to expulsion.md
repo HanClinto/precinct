@@ -1,0 +1,40 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3365.032
+Scraped: 2026-07-02T19:50:26+00:00
+
+# Section 3365.032 - Withdrawal or denial of credit due to expulsion.
+
+**Effective:** October 3, 2023
+
+**Latest Legislation:** House Bill 33 - 135th General Assembly
+
+(A) For purposes of this section:
+
+(1) The "expulsion of a student" or "expelling a student" means the following:
+
+(a) For a public secondary school that is a school operated by a city, local, exempted village, or joint vocational school district, community school established under Chapter 3314. of the Revised Code, or STEM school established under Chapter 3326. of the Revised Code, the expulsion of a student or the act of expelling a student under division (B) of section 3313.66 of the Revised Code;
+
+(b) For a public secondary school that is a college-preparatory boarding school, the expulsion of a student or the act of expelling a student in accordance with the school's bylaws adopted pursuant to section 3328.13 of the Revised Code;
+
+(c) For a public secondary school that is the state school for the deaf or the state school for the blind, the expulsion of a student or the act of expelling a student in accordance with rules adopted by the department of education and workforce.
+
+(2) A "policy to deny high school credit for courses taken under the college credit plus program during an expulsion" means the following:
+
+(a) For a public secondary school that is a school operated by a city, local, exempted village, or joint vocational school district, community school established under Chapter 3314. of the Revised Code, or STEM school established under Chapter 3326. of the Revised Code, a policy adopted under section 3313.613 of the Revised Code;
+
+(b) For a college-preparatory boarding school established under Chapter 3328. of the Revised Code, a policy adopted in accordance with the school's bylaws adopted pursuant to section 3328.13 of the Revised Code;
+
+(c) For the state school for the deaf or the state school for the blind, a policy adopted in accordance with any rules adopted by the department requiring such a policy.
+
+(B) When a public secondary school expels a student, the superintendent, or equivalent, shall send a written notice of the expulsion to any college in which the expelled student is enrolled under section 3365.03 of the Revised Code at the time the expulsion is imposed. The notice shall indicate the date the expulsion is scheduled to expire. The notice also shall indicate whether the school has adopted a policy to deny high school credit for courses taken under the college credit plus program during an expulsion. If the expulsion is extended, the superintendent, or equivalent, shall notify the college of the extension.
+
+(C) A college may withdraw its acceptance under section 3365.03 of the Revised Code of a student who is expelled from school. As provided in section 3365.03 of the Revised Code, regardless of whether the college withdraws its acceptance of the student for the college term in which the student is expelled, the student is ineligible to enroll in a college under that section for subsequent college terms during the period of the expulsion, unless the student enrolls in another public school or a participating nonpublic school during that period.
+
+If a college withdraws its acceptance of an expelled student who elected either option of division (A)(1) or (2) of section 3365.06 of the Revised Code, the college shall refund tuition and fees paid by the student in the same proportion that it refunds tuition and fees to students who voluntarily withdraw from the college at the same time in the term.
+
+If a college withdraws its acceptance of an expelled student who elected the option of division (B) of section 3365.06 of the Revised Code, the public school shall not award high school credit for the college courses in which the student was enrolled at the time the college withdrew its acceptance, and any reimbursement under section 3365.07 of the Revised Code for the student's attendance prior to the withdrawal shall be the same as would be paid for a student who voluntarily withdrew from the college at the same time in the term. If the withdrawal results in the college's receiving no reimbursement, the college or secondary school may require the student to return or pay for any textbooks and materials it provided the student free of charge.
+
+(D) When a student who elected the option of division (B) of section 3365.06 of the Revised Code is expelled from a public school that has adopted a policy to deny high school credit for courses taken under the college credit plus program during an expulsion, that election is automatically revoked for all college courses in which the student is enrolled during the college term in which the expulsion is imposed. Any reimbursement under section 3365.07 of the Revised Code for the student's attendance prior to the expulsion shall be the same as would be paid for a student who voluntarily withdrew from the college at the same time in the term. If the revocation results in the college's receiving no reimbursement, the college or secondary school may require the student to return or pay for any textbooks and materials it provided the student free of charge.
+
+Not later than five days after receiving an expulsion notice from the superintendent, or equivalent, of a public school that has adopted a policy to deny high school credit for courses taken under the college credit plus program during an expulsion, the college shall send a written notice to the expelled student that the student's election of division (B) of section 3365.06 of the Revised Code is revoked. If the college elects not to withdraw its acceptance of the student, the student shall pay all applicable tuition and fees for the college courses and shall pay for any textbooks and materials that the college or secondary school provided to the student.
+
+Last updated September 11, 2023 at 3:37 PM

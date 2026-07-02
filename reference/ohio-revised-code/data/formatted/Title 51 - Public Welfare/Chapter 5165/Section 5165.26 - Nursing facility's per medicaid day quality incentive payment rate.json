@@ -1,0 +1,94 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Base rate\" means the portion of a nursing facility's total per medicaid day payment rate determined under divisions (A) and (B) of section 5165.15 of the Revised Code.",
+      "id": "5165.26-base-rate",
+      "normalized": "base rate",
+      "scope": "(A) As used in this section:",
+      "section": "5165.26",
+      "source_title": "Section 5165.26 - Nursing facility's per medicaid day quality incentive payment rate.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.26",
+      "term": "Base rate"
+    },
+    {
+      "definition": "(2) \"CMS\" means the United States centers for medicare and medicaid services.",
+      "id": "5165.26-cms",
+      "normalized": "cms",
+      "scope": "(A) As used in this section:",
+      "section": "5165.26",
+      "source_title": "Section 5165.26 - Nursing facility's per medicaid day quality incentive payment rate.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.26",
+      "term": "CMS"
+    },
+    {
+      "definition": "(3) \"Long-stay resident\" means an individual who has resided in a nursing facility for at least one hundred one days.",
+      "id": "5165.26-long-stay-resident",
+      "normalized": "long-stay resident",
+      "scope": "(A) As used in this section:",
+      "section": "5165.26",
+      "source_title": "Section 5165.26 - Nursing facility's per medicaid day quality incentive payment rate.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.26",
+      "term": "Long-stay resident"
+    },
+    {
+      "definition": "(4) \"Nursing facilities for which a quality score was determined\" includes nursing facilities that are determined to have a quality score of zero.",
+      "id": "5165.26-nursing-facilities-for-which-a-quality-score-was-determined",
+      "normalized": "nursing facilities for which a quality score was determined",
+      "scope": "(A) As used in this section:",
+      "section": "5165.26",
+      "source_title": "Section 5165.26 - Nursing facility's per medicaid day quality incentive payment rate.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.26",
+      "term": "Nursing facilities for which a quality score was determined"
+    },
+    {
+      "definition": "(5) \"SFF list\" means the list of nursing facilities that the United States department of health and human services creates under the special focus facility program.",
+      "id": "5165.26-sff-list",
+      "normalized": "sff list",
+      "scope": "(A) As used in this section:",
+      "section": "5165.26",
+      "source_title": "Section 5165.26 - Nursing facility's per medicaid day quality incentive payment rate.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.26",
+      "term": "SFF list"
+    },
+    {
+      "definition": "(6) \"Special focus facility program\" means the program conducted by the United States secretary of health and human services pursuant to section 1919(f)(10) of the \"Social Security Act,\" 42 U.S.C. 1396r(f)(10).\n\n(B) Subject to divisions (D) and (E) and except as provided in division (F) of this section, the department of medicaid shall determine each nursing facility's per medicaid day quality incentive payment rate as follows:\n\n(1) Determine the sum of the quality scores determined under division (C) of this section for all nursing facilities.\n\n(2) Determine the average quality score by dividing the sum determined under division (B)(1) of this section by the number of nursing facilities for which a quality score was determined.\n\n(3) Determine the sum of the total number of medicaid days for all of the calendar year preceding the fiscal year for which the rate is determined for all nursing facilities for which a quality score was determined.\n\n(4) Multiply the average quality score determined under division (B)(2) of this section by the sum determined under division (B)(3) of this section.\n\n(5) Determine the value per quality point by determining the quotient of the following:\n\n(a) The sum determined under division (E)(2) of this section.\n\n(b) The product determined under division (B)(4) of this section.\n\n(6) Multiply the value per quality point determined under division (B)(5) of this section by the nursing facility's quality score determined under division (C) of this section.\n\n(C)(1) Except as provided in divisions (C)(2) and (3) of this section, a nursing facility's quality score for a state fiscal year shall be the sum of the following:\n\n(a) The total number of points that CMS assigned to the nursing facility under CMS's nursing facility five-star quality rating system for the following quality metrics, or CMS's successor metrics as described below, based on the most recent four-quarter average data, or the average data for fewer quarters in the case of successor metrics, available in the database maintained by CMS and known as nursing home compare in the most recent month of the calendar year during which the fiscal year for which the rate is determined begins:\n\n(i) The percentage of the nursing facility's long-stay residents at high risk for pressure ulcers who had pressure ulcers;\n\n(ii) The percentage of the nursing facility's long-stay residents who had a urinary tract infection;\n\n(iii) The percentage of the nursing facility's long-stay residents whose ability to move independently worsened;\n\n(iv) The percentage of the nursing facility's long-stay residents who had a catheter inserted and left in their bladder.\n\nIf CMS ceases to publish any of the metrics specified in division (C)(1)(a) of this section, the department shall use the nursing facility quality metrics on the same topics that CMS subsequently publishes.\n\n(b) Seven and five-tenths points for fiscal year 2024 and three points for fiscal year 2025 and subsequent fiscal years if the nursing facility's occupancy rate is greater than seventy-five per cent. For purposes of this division, the department shall utilize the facility's occupancy rate for licensed beds reported on its cost report for the calendar year preceding the fiscal year for which the rate is determined or, if the facility is not required to be licensed, the facility's occupancy rate for certified beds. If the facility surrenders licensed or certified beds before the first day of July of the calendar year in which the fiscal year begins, the department shall calculate a nursing facility's occupancy rate by dividing the inpatient days reported on the facility's cost report for the calendar year preceding the fiscal year for which the rate is determined by the product of the number of days in the calendar year and the facility's number of licensed, or if applicable, certified beds on the first day of July of the calendar year in which the fiscal year begins.\n\n(c) Beginning with state fiscal year 2025, the total number of points that CMS assigned to the nursing facility under CMS's nursing facility five-star quality rating system for the following quality metrics, or successor metrics designated by CMS, based on the most recent four-quarter average data available in the database maintained by CMS and known as nursing home compare in the most recent month of the calendar year during which the fiscal year for which the rate is determined begins:\n\n(i) The percentage of the nursing facility's long-stay residents whose need for help with daily activities has increased;\n\n(ii) The percentage of the nursing facility's long-stay residents experiencing one or more falls with major injury;\n\n(iii) The percentage of the nursing facility's long-stay residents who were administered an antipsychotic medication;\n\n(iv) Adjusted total nurse staffing hours per resident per day using quintiles instead of deciles by using the points assigned to the higher of the two deciles that constitute the quintile.\n\nIf CMS ceases to publish any of the metrics specified in division (C)(1)(c) of this section, the department shall use the nursing facility quality metrics on the same topics CMS subsequently publishes.\n\n(2) In determining a nursing facility's quality score for a state fiscal year, the department shall make the following adjustment to the number of points that CMS assigned to the nursing facility for each of the quality metrics specified in divisions (C)(1)(a) and (c) of this section:\n\n(a) Unless division (C)(2)(b) or (c) of this section applies, divide the number of the nursing facility's points for the quality metric by twenty.\n\n(b) If CMS assigned the nursing facility to the lowest percentile for the quality metric, reduce the number of the nursing facility's points for the quality metric to zero.\n\n(c) If the nursing facility's total number of points calculated for or during a state fiscal year for all of the quality metrics specified in divisions (C)(1)(a), and if applicable, division (C)(1)(c) of this section is less than a number of points that is equal to the twenty-fifth percentile of all nursing facilities, calculated using the points for the July 1 rate setting of that fiscal year reduce the nursing facility's points to zero until the next point calculation. If a facility's recalculated points under division (C)(3) of this section are below the number of points determined to be the twenty-fifth percentile for that fiscal year, the facility shall receive zero points for the remainder of that fiscal year.\n\n(3) A nursing facility's quality score shall be recalculated for the second half of the state fiscal year based on the most recent four quarter average data, or the average data for fewer quarters in the case of successor metrics, available in the database maintained by CMS and known as the care compare, in the most recent month of the calendar year during which the fiscal year for which the rate is determined begins. The metrics specified by division (C)(1)(b) of this section shall not be recalculated. In redetermining the quality payment for each facility based on the recalculated points, the department shall use the same per point value determined for the quality payment at the start of the fiscal year.\n\n(D) A nursing facility shall not receive a quality incentive payment if the Department of Health assigned the nursing facility to the SFF list under the special focus facility program and the nursing facility is listed in table A, on the first day of May of the calendar year for which the rate is being determined.\n\n(E) The total amount to be spent on quality incentive payments under division (B) of this section for a fiscal year shall be determined as follows:\n\n(1) Determine the following amount for each nursing facility:\n\n(a) The amount that is five and two-tenths per cent of the nursing facility's base rate for nursing facility services provided on the first day of the state fiscal year plus one dollar and seventy-nine cents plus sixty per cent of the per diem amount by which the nursing facility's cost per case-mix unit changed as a result of the rebasing conducted under section 5165.36 of the Revised Code. The nursing facility's cost per case-mix unit is determined under division (C) of section 5165.19 of the Revised Code and for purposes of this division shall not be multiplied by the facility's semiannual case-mix score determined under section 5165.192 of the Revised Code.\n\n(b) Multiply the amount determined under division (E)(1)(a) of this section by the number of the nursing facility's medicaid days for the calendar year preceding the fiscal year for which the rate is determined.\n\n(2) Determine the sum of the products determined under division (E)(1)(b) of this section for all nursing facilities for which the product was determined for the state fiscal year.\n\n(3) To the sum determined under division (E)(2) of this section, add one hundred twenty-five million dollars.\n\n(F)(1) Beginning July 1, 2023, a new nursing facility shall receive a quality incentive payment for the fiscal year in which the new facility obtains an initial provider agreement and the immediately following fiscal year equal to the median quality incentive payment determined for nursing facilities for the fiscal year. For the state fiscal year after the immediately following fiscal year and subsequent fiscal years, the quality incentive payment shall be determined under division (C) of this section.\n\n(2) A nursing facility that undergoes a change of operator with an effective date of July 1, 2025, or later shall not receive a quality incentive payment until the earlier of the first day of January or the first day of July that is at least six months after the effective date of the change of operator. Thereafter any quality incentive payment shall be determined under division (C) of this section.\n\n(G) The intent of the general assembly, in amending this section, is to clarify statutory language in response to the decision of the Ohio Supreme Court in the case State ex rel. LeadingAge Ohio v. Ohio Dept. of Medicaid, Slip Opinion No. 2025-Ohio-3066 and to require the department to continue calculating and paying the quality incentive payments in the manner they were actually paid in state fiscal years 2024 and 2025. The general assembly acknowledges that the department calculated the quality incentive pool in the way the general assembly originally intended.\n\nLast updated January 16, 2026 at 2:39 PM",
+      "id": "5165.26-special-focus-facility-program",
+      "normalized": "special focus facility program",
+      "scope": "(A) As used in this section:",
+      "section": "5165.26",
+      "source_title": "Section 5165.26 - Nursing facility's per medicaid day quality incentive payment rate.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.26",
+      "term": "Special focus facility program"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "5165.15",
+      "number": "5165.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5165.15"
+    },
+    {
+      "kind": "section",
+      "label": "5165.36",
+      "number": "5165.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5165.36"
+    },
+    {
+      "kind": "section",
+      "label": "5165.19",
+      "number": "5165.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5165.19"
+    },
+    {
+      "kind": "section",
+      "label": "5165.192",
+      "number": "5165.192",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5165.192"
+    }
+  ],
+  "scraped": "2026-07-02T20:11:28+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5165.26",
+  "title": "Section 5165.26 - Nursing facility's per medicaid day quality incentive payment rate."
+}

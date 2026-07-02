@@ -1,0 +1,24 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3743.16
+Scraped: 2026-07-02T20:00:53+00:00
+
+# Section 3743.16 - Reviewing application of wholesaler.
+
+**Effective:** December 29, 2023
+
+**Latest Legislation:** Senate Bill 131 - 134th General Assembly
+
+(A) If a person submits an application for licensure as a wholesaler of fireworks, together with the license fee, fingerprints, and proof of the insurance coverage, as required by section 3743.15 of the Revised Code, the state fire marshal shall review the application and accompanying matter, request the criminal records check described in division (D) of this section, inspect the premises on which the fireworks would be sold, and determine whether the applicant will be issued the license. In determining whether to issue the license, the state fire marshal shall consider the results of the criminal records check and the inspection, and the information set forth in the application, and shall decide whether the applicant and the premises on which the fireworks will be sold conform to sections 3743.15 to 3743.21 of the Revised Code and the rules adopted by the state fire marshal pursuant to section 3743.18 of the Revised Code, and are in full compliance with Chapters 3781. and 3791. of the Revised Code, and any applicable building or zoning regulations.
+
+(B) Subject to division (E) of this section and section 3743.70 of the Revised Code, the state fire marshal shall issue a license in accordance with Chapter 119. of the Revised Code to the applicant for licensure as a wholesaler of fireworks only if the applicant and the premises on which the fireworks will be sold conform to sections 3743.15 to 3743.21 of the Revised Code and the rules adopted by the state fire marshal pursuant to section 3743.18 of the Revised Code, only if the premises on which the fireworks will be sold complies with the Ohio building code adopted under Chapter 3781. of the Revised Code, if that premises was constructed after May 30, 1986, and only if the state fire marshal is satisfied that the application and accompanying matter are complete and in conformity with section 3743.15 of the Revised Code. The requirements of this chapter and of the rules adopted under this chapter as applicable to the structure of a building do not apply to a building used by a wholesaler if the building was inspected and approved by the department of industrial relations or by any building department certified pursuant to division (E) of section 3781.10 of the Revised Code prior to May 30, 1986.
+
+(C) Each license issued pursuant to this section shall contain a distinct number assigned to the particular wholesaler. The state fire marshal shall maintain a list of all licensed wholesalers of fireworks. In this list next to each wholesaler's name, the state fire marshal shall insert the period of licensure and the license number of the particular wholesaler.
+
+(D) Upon receipt of an application and the required accompanying matter under section 3743.15 of the Revised Code, the state fire marshal shall forward to the superintendent of the bureau of criminal identification and investigation a request that the bureau conduct an investigation of the applicant and, if applicable, additional individuals who hold, own, or control a five per cent or greater beneficial or equity interest in the applicant, to determine whether the applicant or the additional associated individuals have been convicted of or pled guilty to a disqualifying offense in accordance with section 9.79 of the Revised Code, under the laws of this state, another state, or the United States.
+
+If the applicant for initial licensure has resided in this state for less than five continuous years immediately prior to the date the applicant submits an initial application, the superintendent also shall request that the federal bureau of investigation conduct an investigation of the applicant and, if applicable, additional individuals who hold, own, or control a five per cent or greater beneficial or equity interest in the applicant, to determine whether the applicant or the additional associated individuals have been convicted of or pled guilty to a disqualifying offense in accordance with section 9.79 of the Revised Code, under the laws of this state, another state, or the United States.
+
+The superintendent shall forward the results of an investigation conducted pursuant to this division to the state fire marshal and may charge a reasonable fee for providing the results. The state fire marshal shall assess any fee charged by the superintendent for the results to the applicant.
+
+(E) A person shall not apply for licensure as a wholesaler of fireworks in the person's individual capacity. The state fire marshal shall not issue a license to act as a wholesaler of fireworks to a person in the person's individual capacity.
+
+Last updated December 29, 2023 at 6:55 AM

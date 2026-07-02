@@ -1,0 +1,442 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"9-1-1 system\" means a system through which individuals can request emergency service using the access number 9-1-1.",
+      "id": "128.01-9-1-1-system",
+      "normalized": "9-1-1 system",
+      "scope": "As used in this chapter:",
+      "section": "128.01",
+      "source_title": "Section 128.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-128.01",
+      "term": "9-1-1 system"
+    },
+    {
+      "definition": "(B) \"Basic 9-1-1\" means an emergency telephone system to which all of the following apply:\n\n(1) The system automatically connects a caller to a designated public safety answering point.\n\n(2) Call routing is determined by a central office only.\n\n(3) Automatic number identification and automatic location information may or may not be supported.",
+      "id": "128.01-basic-9-1-1",
+      "normalized": "basic 9-1-1",
+      "scope": "As used in this chapter:",
+      "section": "128.01",
+      "source_title": "Section 128.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-128.01",
+      "term": "Basic 9-1-1"
+    },
+    {
+      "definition": "(C) \"Enhanced 9-1-1\" means an emergency telephone system that includes both of the following:\n\n(1) Network switching;\n\n(2) Database- and public-safety-answering-point premise elements capable of providing automatic location identification data, selective routing, selective transfer, fixed transfer, and a call back number.",
+      "id": "128.01-enhanced-9-1-1",
+      "normalized": "enhanced 9-1-1",
+      "scope": "As used in this chapter:",
+      "section": "128.01",
+      "source_title": "Section 128.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-128.01",
+      "term": "Enhanced 9-1-1"
+    },
+    {
+      "definition": "(D) \"Enhanced wireline 9-1-1\" means a 9-1-1 system in which the wireline telephone network, in providing wireline 9-1-1, does either of the following:\n\n(1) Automatically routes the call to emergency service providers that serve the location from which the call is made and immediately provides to personnel answering the 9-1-1 call information on the location and the telephone number from which the call is being made;\n\n(2) Receives, develops, collects, or processes requests for emergency assistance and relays, transfers, operates, maintains, or provides emergency notification services or system capabilities.",
+      "id": "128.01-enhanced-wireline-9-1-1",
+      "normalized": "enhanced wireline 9-1-1",
+      "scope": "As used in this chapter:",
+      "section": "128.01",
+      "source_title": "Section 128.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-128.01",
+      "term": "Enhanced wireline 9-1-1"
+    },
+    {
+      "definition": "(E) \"Wireless enhanced 9-1-1\" means a 9-1-1 system that, in providing wireless 9-1-1, has the capabilities of phase I and, to the extent available, phase II enhanced 9-1-1 services as described in 47 C.F.R. 20.18 (d) to (h).",
+      "id": "128.01-wireless-enhanced-9-1-1",
+      "normalized": "wireless enhanced 9-1-1",
+      "scope": "As used in this chapter:",
+      "section": "128.01",
+      "source_title": "Section 128.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-128.01",
+      "term": "Wireless enhanced 9-1-1"
+    },
+    {
+      "definition": "(F)(1) \"Wireless service\" means federally licensed commercial mobile service as defined in 47 U.S.C. 332(d) and further defined as commercial mobile radio service in 47 C.F.R. 20.3, and includes service provided by any wireless, two-way communications device, including a radio-telephone communications line used in cellular telephone service or personal communications service, a network radio access line, or any functional or competitive equivalent of such a radio-telephone communications or network radio access line.\n\n(2) Nothing in this chapter applies to paging or any service that cannot be used to call or contact 9-1-1.",
+      "id": "128.01-wireless-service",
+      "normalized": "wireless service",
+      "scope": "As used in this chapter:",
+      "section": "128.01",
+      "source_title": "Section 128.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-128.01",
+      "term": "Wireless service"
+    },
+    {
+      "definition": "(G) \"Wireless service provider\" means any of the following that provides wireless service to one or more end users in this state:\n\n(1) A facilities-based provider;\n\n(2) A mobile virtual network operator;\n\n(3) A mobile other licensed operator.",
+      "id": "128.01-wireless-service-provider",
+      "normalized": "wireless service provider",
+      "scope": "As used in this chapter:",
+      "section": "128.01",
+      "source_title": "Section 128.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-128.01",
+      "term": "Wireless service provider"
+    },
+    {
+      "definition": "(H) \"Wireless 9-1-1\" means the emergency calling service provided by a 9-1-1 system pursuant to a call originating in the network of a wireless service provider.",
+      "id": "128.01-wireless-9-1-1",
+      "normalized": "wireless 9-1-1",
+      "scope": "As used in this chapter:",
+      "section": "128.01",
+      "source_title": "Section 128.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-128.01",
+      "term": "Wireless 9-1-1"
+    },
+    {
+      "definition": "(I) \"Wireline 9-1-1\" means the emergency calling service provided by a 9-1-1 system pursuant to a call originating in the network of a wireline service provider.",
+      "id": "128.01-wireline-9-1-1",
+      "normalized": "wireline 9-1-1",
+      "scope": "As used in this chapter:",
+      "section": "128.01",
+      "source_title": "Section 128.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-128.01",
+      "term": "Wireline 9-1-1"
+    },
+    {
+      "definition": "(J) \"Wireline service provider\" means a facilities-based provider of wireline service to one or more end users in this state.",
+      "id": "128.01-wireline-service-provider",
+      "normalized": "wireline service provider",
+      "scope": "As used in this chapter:",
+      "section": "128.01",
+      "source_title": "Section 128.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-128.01",
+      "term": "Wireline service provider"
+    },
+    {
+      "definition": "(K) \"Wireline service\" means basic local exchange service, as defined in section 4927.01 of the Revised Code, that is transmitted by means of interconnected wires or cables by a wireline service provider authorized by the public utilities commission.",
+      "id": "128.01-wireline-service",
+      "normalized": "wireline service",
+      "scope": "As used in this chapter:",
+      "section": "128.01",
+      "source_title": "Section 128.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-128.01",
+      "term": "Wireline service"
+    },
+    {
+      "definition": "(L) \"Wireline telephone network\" means the selective router and data base processing systems, trunking and data wiring cross connection points at the public safety answering point, and all other voice and data components of the 9-1-1 system.",
+      "id": "128.01-wireline-telephone-network",
+      "normalized": "wireline telephone network",
+      "scope": "As used in this chapter:",
+      "section": "128.01",
+      "source_title": "Section 128.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-128.01",
+      "term": "Wireline telephone network"
+    },
+    {
+      "definition": "(M) \"Subdivision\" means a county, municipal corporation, township, township fire district, joint fire district, township police district, joint police district, joint ambulance district, or joint emergency medical services district that provides emergency service within its territory, or that contracts with another municipal corporation, township, or district or with a private entity to provide such service; and a state college or university, port authority, or park district of any kind that employs law enforcement officers that act as the primary police force on the grounds of the college or university or port authority or in the parks operated by the district.",
+      "id": "128.01-subdivision",
+      "normalized": "subdivision",
+      "scope": "As used in this chapter:",
+      "section": "128.01",
+      "source_title": "Section 128.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-128.01",
+      "term": "Subdivision"
+    },
+    {
+      "definition": "(N) \"Emergency service\" means emergency law enforcement, firefighting, ambulance, rescue, and medical service.",
+      "id": "128.01-emergency-service",
+      "normalized": "emergency service",
+      "scope": "As used in this chapter:",
+      "section": "128.01",
+      "source_title": "Section 128.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-128.01",
+      "term": "Emergency service"
+    },
+    {
+      "definition": "(O) \"Emergency service provider\" means the state highway patrol and an emergency service department or unit of a subdivision or that provides emergency service to a subdivision under contract with the subdivision.",
+      "id": "128.01-emergency-service-provider",
+      "normalized": "emergency service provider",
+      "scope": "As used in this chapter:",
+      "section": "128.01",
+      "source_title": "Section 128.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-128.01",
+      "term": "Emergency service provider"
+    },
+    {
+      "definition": "(P) \"Public safety answering point\" means an entity responsible for receiving requests for emergency services sent by dialing 9-1-1 within a specified territory and processing those requests for emergency services according to a specific operational policy that includes directly dispatching the appropriate emergency service provider, relaying a message to the appropriate emergency service provider, or transferring the request for emergency services to the appropriate emergency service provider. A public safety answering point may be either of the following:\n\n(1) Located in a specific facility;\n\n(2) Virtual, if telecommunicators are geographically dispersed and do not work from the same facility. The virtual workplace may be a logical combination of physical facilities, an alternate work environment such as a satellite facility, or a combination of the two. Workers may be connected and interoperate via internet-protocol connectivity.",
+      "id": "128.01-public-safety-answering-point",
+      "normalized": "public safety answering point",
+      "scope": "As used in this chapter:",
+      "section": "128.01",
+      "source_title": "Section 128.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-128.01",
+      "term": "Public safety answering point"
+    },
+    {
+      "definition": "(Q) \"Customer premises equipment\" means telecommunications equipment, including telephone instruments, on the premises of a public safety answering point that is used in answering and responding to 9-1-1 system calls.",
+      "id": "128.01-customer-premises-equipment",
+      "normalized": "customer premises equipment",
+      "scope": "As used in this chapter:",
+      "section": "128.01",
+      "source_title": "Section 128.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-128.01",
+      "term": "Customer premises equipment"
+    },
+    {
+      "definition": "(R) \"Municipal corporation in the county\" includes any municipal corporation that is wholly contained in the county and each municipal corporation located in more than one county that has a greater proportion of its territory in the county to which the term refers than in any other county.",
+      "id": "128.01-municipal-corporation-in-the-county",
+      "normalized": "municipal corporation in the county",
+      "scope": "As used in this chapter:",
+      "section": "128.01",
+      "source_title": "Section 128.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-128.01",
+      "term": "Municipal corporation in the county"
+    },
+    {
+      "definition": "(S) \"Board of county commissioners\" includes the legislative authority of a county established under Section 3 of Article X, Ohio Constitution, or Chapter 302. of the Revised Code.",
+      "id": "128.01-board-of-county-commissioners",
+      "normalized": "board of county commissioners",
+      "scope": "As used in this chapter:",
+      "section": "128.01",
+      "source_title": "Section 128.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-128.01",
+      "term": "Board of county commissioners"
+    },
+    {
+      "definition": "(T) \"Final plan\" means a final plan adopted under division (B) of section 128.08 of the Revised Code and, except as otherwise expressly provided, an amended final plan adopted under section 128.12 of the Revised Code.",
+      "id": "128.01-final-plan",
+      "normalized": "final plan",
+      "scope": "As used in this chapter:",
+      "section": "128.01",
+      "source_title": "Section 128.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-128.01",
+      "term": "Final plan"
+    },
+    {
+      "definition": "(U) \"Subdivision served by a public safety answering point\" means a subdivision that provides emergency service for any part of its territory that is located within the territory of a public safety answering point whether the subdivision provides the emergency service with its own employees or pursuant to a contract.\n\n(V) A township's population includes only population of the unincorporated portion of the township.",
+      "id": "128.01-subdivision-served-by-a-public-safety-answering-point",
+      "normalized": "subdivision served by a public safety answering point",
+      "scope": "As used in this chapter:",
+      "section": "128.01",
+      "source_title": "Section 128.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-128.01",
+      "term": "Subdivision served by a public safety answering point"
+    },
+    {
+      "definition": "(W) \"Telephone company\" means a company engaged in the business of providing local exchange telephone service by making available or furnishing access and a dial tone to persons within a local calling area for use in originating and receiving voice grade communications over a switched network operated by the provider of the service within the area and gaining access to other telecommunications services. Unless otherwise specified, \"telephone company\" includes a wireline service provider, a wireless service provider, and any entity that is a covered 9-1-1 service provider under 47 C.F.R. 12.4. For purposes of sections 128.37 and 128.38 of the Revised Code, \"telephone company\" means a wireline service provider.",
+      "id": "128.01-telephone-company",
+      "normalized": "telephone company",
+      "scope": "As used in this chapter:",
+      "section": "128.01",
+      "source_title": "Section 128.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-128.01",
+      "term": "Telephone company"
+    },
+    {
+      "definition": "(X) \"Prepaid wireless calling service\" has the same meaning as in division (AA)(5) of section 5739.01 of the Revised Code.",
+      "id": "128.01-prepaid-wireless-calling-service",
+      "normalized": "prepaid wireless calling service",
+      "scope": "As used in this chapter:",
+      "section": "128.01",
+      "source_title": "Section 128.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-128.01",
+      "term": "Prepaid wireless calling service"
+    },
+    {
+      "definition": "(Y) \"Provider of a prepaid wireless calling service\" means a wireless service provider that provides a prepaid wireless calling service.",
+      "id": "128.01-provider-of-a-prepaid-wireless-calling-service",
+      "normalized": "provider of a prepaid wireless calling service",
+      "scope": "As used in this chapter:",
+      "section": "128.01",
+      "source_title": "Section 128.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-128.01",
+      "term": "Provider of a prepaid wireless calling service"
+    },
+    {
+      "definition": "(Z) \"Retail sale\" has the same meaning as in section 5739.01 of the Revised Code.",
+      "id": "128.01-retail-sale",
+      "normalized": "retail sale",
+      "scope": "As used in this chapter:",
+      "section": "128.01",
+      "source_title": "Section 128.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-128.01",
+      "term": "Retail sale"
+    },
+    {
+      "definition": "(AA) \"Seller\" means a person that sells a prepaid wireless calling service to another person by retail sale.",
+      "id": "128.01-seller",
+      "normalized": "seller",
+      "scope": "As used in this chapter:",
+      "section": "128.01",
+      "source_title": "Section 128.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-128.01",
+      "term": "Seller"
+    },
+    {
+      "definition": "(BB) \"Consumer\" means the end user for whom the prepaid wireless calling service is provided, to whom the transfer effected or license given by a sale is or is to be made or given, to whom the prepaid wireless calling service is charged, or to whom the admission is granted.",
+      "id": "128.01-consumer",
+      "normalized": "consumer",
+      "scope": "As used in this chapter:",
+      "section": "128.01",
+      "source_title": "Section 128.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-128.01",
+      "term": "Consumer"
+    },
+    {
+      "definition": "(CC) \"Reseller\" means a nonfacilities-based provider of wireless service that provides wireless service under its own name to one or more end users in this state using the network of a wireless service provider.",
+      "id": "128.01-reseller",
+      "normalized": "reseller",
+      "scope": "As used in this chapter:",
+      "section": "128.01",
+      "source_title": "Section 128.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-128.01",
+      "term": "Reseller"
+    },
+    {
+      "definition": "(DD) \"Steering committee\" means the statewide 9-1-1 steering committee established by division (A)(1) of section 128.02 of the Revised Code.",
+      "id": "128.01-steering-committee",
+      "normalized": "steering committee",
+      "scope": "As used in this chapter:",
+      "section": "128.01",
+      "source_title": "Section 128.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-128.01",
+      "term": "Steering committee"
+    },
+    {
+      "definition": "(EE) \"Next generation 9-1-1\" means an internet-protocol-based system comprised of managed emergency services internet protocol networks, functional elements, and databases that replicate traditional enhanced 9-1-1 features and functions and provide additional capabilities.",
+      "id": "128.01-next-generation-9-1-1",
+      "normalized": "next generation 9-1-1",
+      "scope": "As used in this chapter:",
+      "section": "128.01",
+      "source_title": "Section 128.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-128.01",
+      "term": "Next generation 9-1-1"
+    },
+    {
+      "definition": "(FF) \"Emergency services internet-protocol network\" means a managed internet-protocol network that is used for emergency services communications and provides the internet-protocol transport infrastructure upon which independent application platforms and core services can be deployed, including those necessary for providing next generation 9-1-1 services. The term designates the network and not the services that ride on the network.",
+      "id": "128.01-emergency-services-internet-protocol-network",
+      "normalized": "emergency services internet-protocol network",
+      "scope": "As used in this chapter:",
+      "section": "128.01",
+      "source_title": "Section 128.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-128.01",
+      "term": "Emergency services internet-protocol network"
+    },
+    {
+      "definition": "(GG) \"9-1-1 system service provider\" means a company or entity engaged in the business of providing all or part of the emergency services internet-protocol network, software applications, hardware, databases, customer premises equipment components and operations, and management procedures required to support basic 9-1-1, enhanced 9-1-1, enhanced wireline 9-1-1, wireless enhanced 9-1-1, or next generation 9-1-1 systems.",
+      "id": "128.01-9-1-1-system-service-provider",
+      "normalized": "9-1-1 system service provider",
+      "scope": "As used in this chapter:",
+      "section": "128.01",
+      "source_title": "Section 128.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-128.01",
+      "term": "9-1-1 system service provider"
+    },
+    {
+      "definition": "(HH) \"Voice over internet protocol\" means technologies for the delivery of voice communications and multimedia sessions over internet-protocol networks, including private networks or the internet.",
+      "id": "128.01-voice-over-internet-protocol",
+      "normalized": "voice over internet protocol",
+      "scope": "As used in this chapter:",
+      "section": "128.01",
+      "source_title": "Section 128.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-128.01",
+      "term": "Voice over internet protocol"
+    },
+    {
+      "definition": "(II) \"Multiline telephone system\" means a system to which both of the following apply:\n\n(1) The system consists of common control units, telephone sets, control hardware and software, and adjunct systems, including network and premises-based systems.\n\n(2) The system is designed to aggregate more than one incoming voice communication channel for use by more than one telephone.",
+      "id": "128.01-multiline-telephone-system",
+      "normalized": "multiline telephone system",
+      "scope": "As used in this chapter:",
+      "section": "128.01",
+      "source_title": "Section 128.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-128.01",
+      "term": "Multiline telephone system"
+    },
+    {
+      "definition": "(JJ) \"Business service user\" means a user of business service that provides telecommunications service, including 9-1-1 service, to end users through a publicly or privately owned or controlled telephone switch.",
+      "id": "128.01-business-service-user",
+      "normalized": "business service user",
+      "scope": "As used in this chapter:",
+      "section": "128.01",
+      "source_title": "Section 128.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-128.01",
+      "term": "Business service user"
+    },
+    {
+      "definition": "(KK) \"Emergency response location\" means an additional location identification that provides a specific location. It may include information regarding a specific location within a building, structure, complex, or campus, including a building name, floor number, wing name or number, unit name or number, room name or number, or office or cubicle name or number.",
+      "id": "128.01-emergency-response-location",
+      "normalized": "emergency response location",
+      "scope": "As used in this chapter:",
+      "section": "128.01",
+      "source_title": "Section 128.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-128.01",
+      "term": "Emergency response location"
+    },
+    {
+      "definition": "(LL) \"Operator of a multiline telephone system\" means an entity to which both of the following apply:\n\n(1) The entity manages or operates a multiline telephone system through which an end user may initiate communication using the 9-1-1 system.\n\n(2) The entity owns, leases, or rents a multiline telephone system through which an end user may initiate communication using the 9-1-1 system.",
+      "id": "128.01-operator-of-a-multiline-telephone-system",
+      "normalized": "operator of a multiline telephone system",
+      "scope": "As used in this chapter:",
+      "section": "128.01",
+      "source_title": "Section 128.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-128.01",
+      "term": "Operator of a multiline telephone system"
+    },
+    {
+      "definition": "(MM) \"Core services\" means the base set of services needed to process a 9-1-1 call on an emergency services internet-protocol network. It includes all of the following:\n\n(1) Emergency services routing proxy;\n\n(2) Emergency call routing function;\n\n(3) Location validation function;\n\n(4) Border control function;\n\n(5) Bridge, policy-store, and logging services;\n\n(6) Typical internet-protocol services such as domain name system and dynamic host configuration protocol.\n\nThe term includes the services and not the network on which they operate.",
+      "id": "128.01-core-services",
+      "normalized": "core services",
+      "scope": "As used in this chapter:",
+      "section": "128.01",
+      "source_title": "Section 128.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-128.01",
+      "term": "Core services"
+    },
+    {
+      "definition": "(NN) \"Bill and keep arrangements\" has the same meaning as in 47 C.F.R. 51.713.\n\nLast updated September 14, 2023 at 12:03 PM",
+      "id": "128.01-bill-and-keep-arrangements",
+      "normalized": "bill and keep arrangements",
+      "scope": "As used in this chapter:",
+      "section": "128.01",
+      "source_title": "Section 128.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-128.01",
+      "term": "Bill and keep arrangements"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "4927.01",
+      "number": "4927.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4927.01"
+    },
+    {
+      "kind": "section",
+      "label": "128.08",
+      "number": "128.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.08"
+    },
+    {
+      "kind": "section",
+      "label": "128.12",
+      "number": "128.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.12"
+    },
+    {
+      "kind": "section",
+      "label": "128.37",
+      "number": "128.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.37"
+    },
+    {
+      "kind": "section",
+      "label": "128.38",
+      "number": "128.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.38"
+    },
+    {
+      "kind": "section",
+      "label": "5739.01",
+      "number": "5739.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.01"
+    },
+    {
+      "kind": "section",
+      "label": "128.02",
+      "number": "128.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.02"
+    }
+  ],
+  "scraped": "2026-07-02T19:31:46+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-128.01",
+  "title": "Section 128.01 - Definitions."
+}

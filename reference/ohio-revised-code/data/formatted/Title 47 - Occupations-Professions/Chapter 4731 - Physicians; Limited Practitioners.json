@@ -1,0 +1,867 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 4731.01 - State medical board.",
+      "number": "4731.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.02 - Organization of board.",
+      "number": "4731.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.03 - Compensation and expenses of board.",
+      "number": "4731.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.04 - Definitions.",
+      "number": "4731.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.05 - Administrative rules.",
+      "number": "4731.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.051 - Administrative rules for universal blood and body fluid precautions.",
+      "number": "4731.051",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.051"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.052 - Administrative rules for management of chronic pain with controlled substances.",
+      "number": "4731.052",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.052"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.053 - Administrative rules for physician's delegation of medical task.",
+      "number": "4731.053",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.053"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.054 - Operation of pain management clinics; supervision and control of employees, volunteers and contractors.",
+      "number": "4731.054",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.054"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.055 - Conditions for prescribing opioid analgesics or benzodiazepine drugs; adoption of rules regarding review drug database.",
+      "number": "4731.055",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.055"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.056 - Rules for physicians regarding use of controlled substances in schedule III, IV, or V for medication-assisted treatment.",
+      "number": "4731.056",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.056"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.057 - Rules regarding prescriptions for drugs that may be administered by pharmacist.",
+      "number": "4731.057",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.057"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.06 - Board meetings.",
+      "number": "4731.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.07 - Records.",
+      "number": "4731.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.071 - Internet directory of certificates and licenses issued by board.",
+      "number": "4731.071",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.071"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.08 - License applicant to comply with R.C. 4776.01 to 4776.04.",
+      "number": "4731.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.09 - Qualifications and application for license to practice medicine and surgery or osteopathic medicine and surgery.",
+      "number": "4731.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.091 - [Former R.C. 4731.092, amended and renumbered by H.B. 49, 132nd General Assembly, effective 9/29/2017] Qualified graduate of fifth pathway training program.",
+      "number": "4731.091",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.091"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.10 - Verification of certification or licensure for licensure in another state.",
+      "number": "4731.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.11 - Interstate medical licensure compact.",
+      "number": "4731.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.111 - Commissioners to the interstate medical licensure compact commission.",
+      "number": "4731.111",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.111"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.14 - Review of applications; issuance of license.",
+      "number": "4731.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.142 - English language proficiency.",
+      "number": "4731.142",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.142"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.143 - Notice of lack of coverage of medical malpractice insurance.",
+      "number": "4731.143",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.143"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.15 - Regulating massage therapy.",
+      "number": "4731.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.151 - Legacied naprapaths and mechanotherapists.",
+      "number": "4731.151",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.151"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.152 - Massage therapy advisory council.",
+      "number": "4731.152",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.152"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.155 - Rules regarding continuing education.",
+      "number": "4731.155",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.155"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.156 - Interstate massage compact (IMpact).",
+      "number": "4731.156",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.156"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.157 - Delegate to the Interstate massage compact commission.",
+      "number": "4731.157",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.157"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.16 - Determination of standards; examinations.",
+      "number": "4731.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.17 - Issuance of license.",
+      "number": "4731.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.171 - License applicant to comply with RC Chapter 4776.",
+      "number": "4731.171",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.171"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.19 - License to practice a limited branch of medicine.",
+      "number": "4731.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.20 - State medical board - powers and duties.",
+      "number": "4731.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.21 - Limitations prescribed.",
+      "number": "4731.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.22 - Disciplinary actions.",
+      "number": "4731.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.221 - Suspending license or certificate of mentally ill or mentally incompetent practitioner.",
+      "number": "4731.221",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.221"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.222 - Determining applicant's fitness to resume practice.",
+      "number": "4731.222",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.222"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.223 - Reporting convictions.",
+      "number": "4731.223",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.223"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.224 - Reporting misconduct.",
+      "number": "4731.224",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.224"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.225 - Civil penalty.",
+      "number": "4731.225",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.225"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.226 - Offering services through authorized business entity.",
+      "number": "4731.226",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.226"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.227 - Using alternative medical treatments.",
+      "number": "4731.227",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.227"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.228 - Termination of physician's employment with a health care entity; notice to patients.",
+      "number": "4731.228",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.228"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.229 - Effect of disciplinary action on certificate to recommend.",
+      "number": "4731.229",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.229"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.2210 - Patient notice of probationary order.",
+      "number": "4731.2210",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.2210"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.23 - Designating attorney hearing examiner.",
+      "number": "4731.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.24 - State medical board operating fund - receipts of state medical board.",
+      "number": "4731.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.241 - Solicitation and acceptance of funds for programs related to patient safety and education, supply and demand of health care professionals, and information sharing.",
+      "number": "4731.241",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.241"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.25 - Confidential monitoring program.",
+      "number": "4731.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.251 - Approval of program evaluators and treatment providers.",
+      "number": "4731.251",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.251"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.252 - Practitioner eligibility.",
+      "number": "4731.252",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.252"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.253 - Applicant eligibility.",
+      "number": "4731.253",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.253"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.254 - Liability.",
+      "number": "4731.254",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.254"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.255 - Rulemaking.",
+      "number": "4731.255",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.255"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.256 - Foundation to support monitoring programs.",
+      "number": "4731.256",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.256"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.26 - Duplicate certificates.",
+      "number": "4731.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.27 - Standard care arrangements.",
+      "number": "4731.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.281 - License renewal.",
+      "number": "4731.281",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.281"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.282 - Continuing education - domestic violence and its relationship to child abuse.",
+      "number": "4731.282",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.282"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.283 - Retired status.",
+      "number": "4731.283",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.283"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.291 - Application for training certificate.",
+      "number": "4731.291",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.291"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.293 - Clinical research faculty certificate.",
+      "number": "4731.293",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.293"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.294 - Special activity certificate.",
+      "number": "4731.294",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.294"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.295 - Volunteer's certificate.",
+      "number": "4731.295",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.295"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.297 - Certificate of conceded eminence.",
+      "number": "4731.297",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.297"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.298 - Visiting clinical professional development certificate.",
+      "number": "4731.298",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.298"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.299 - Expedited license to practice medicine and surgery or osteopathic medicine and surgery by endorsement.",
+      "number": "4731.299",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.299"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.30 - Certificate to recommend medical use of marijuana.",
+      "number": "4731.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.301 - Adoption of rules regarding certificate to recommend.",
+      "number": "4731.301",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.301"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.302 - Requests for disease or condition to be added as qualifying medical condition for medical marijuana treatment.",
+      "number": "4731.302",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.302"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.31 - Rural hospital may employ a physician.",
+      "number": "4731.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.33 - Use of light-based medical devices for hair removal.",
+      "number": "4731.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.331",
+      "number": "4731.331",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.331"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.34 - Unauthorized practice.",
+      "number": "4731.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.341 - Injunctions.",
+      "number": "4731.341",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.341"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.35 - Exemption of nurse anesthetist and anesthesiologist assistant.",
+      "number": "4731.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.36 - Exceptions.",
+      "number": "4731.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.37 - Sonographer delegation.",
+      "number": "4731.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.38 - Approval of vouchers.",
+      "number": "4731.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.39 - Enforcement.",
+      "number": "4731.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.391 - Use of information gathered and disseminated through Ohio law enforcement gateway.",
+      "number": "4731.391",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.391"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.40 - Distributing fines.",
+      "number": "4731.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.41 - Practicing medicine without license or certificate.",
+      "number": "4731.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.43 - Practicing osteopathy without license; exception.",
+      "number": "4731.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.44 - Copy of prescription to be given to patient.",
+      "number": "4731.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.46 - Issuing false medical diploma.",
+      "number": "4731.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.47 - Selling false medical diploma.",
+      "number": "4731.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.48 - Physician giving false certificate of disability.",
+      "number": "4731.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.481 - Enabling person to retain handicapped parking privileges.",
+      "number": "4731.481",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.481"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.49 - Physician making an unlawful prescription for intoxicating liquor.",
+      "number": "4731.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.50 - Further punishment of physician so convicted.",
+      "number": "4731.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.51 - Defining practice of podiatric medicine and surgery.",
+      "number": "4731.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.511 - Hyperbaric oxygen therapy.",
+      "number": "4731.511",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.511"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.512 - Authority to administer vaccinations.",
+      "number": "4731.512",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.512"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.513 - Practice settings and collaboration with CRNAs.",
+      "number": "4731.513",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.513"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.52 - Filing application to practice podiatric medicine and surgery.",
+      "number": "4731.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.531 - Certificate applicant to comply with RC Chapter 4776.",
+      "number": "4731.531",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.531"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.56 - Issuing license to practice podiatric medicine.",
+      "number": "4731.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.572 - Visiting podiatric faculty certificate.",
+      "number": "4731.572",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.572"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.573 - Training certificate.",
+      "number": "4731.573",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.573"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.60 - Prohibited acts; exceptions.",
+      "number": "4731.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.61 - Disciplinary actions.",
+      "number": "4731.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.62 - Patients suspected of drug overdose; referral to mental health professional.",
+      "number": "4731.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.65 - Conflict of interest limitations on patient referrals definitions.",
+      "number": "4731.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.66 - Prohibiting referrals and cross-referrals for designated health service.",
+      "number": "4731.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.67 - Referrals - exceptions to prohibited acts.",
+      "number": "4731.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.67"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.68 - Ownership of investment securities.",
+      "number": "4731.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.68"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.69 - Timely refunds.",
+      "number": "4731.69",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.69"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.70 - Administrative rules.",
+      "number": "4731.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.71 - Detecting and reporting violations.",
+      "number": "4731.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.72 - Physician's bill for anatomical pathology services.",
+      "number": "4731.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.73 - Adherence to NAPBC standards.",
+      "number": "4731.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.74 - Adoption of rules governing prescriptions given to persons without examination.",
+      "number": "4731.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.74"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.741 - Telehealth services.",
+      "number": "4731.741",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.741"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.75 - Fees in excess of statutory amounts.",
+      "number": "4731.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.76 - Effect of child support default on license or certificate.",
+      "number": "4731.76",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.76"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.77 - Consent for intimate examination.",
+      "number": "4731.77",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.77"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.81 - Witness to administration of general anesthetic.",
+      "number": "4731.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.82 - Woman appearing before physician regarding fetal death.",
+      "number": "4731.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.82"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.83 - Medication-assisted treatment; compliance with laws and regulations.",
+      "number": "4731.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.83"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.85 - Recognition for volunteer medical services.",
+      "number": "4731.85",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.85"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.86 - Civil actions for assisted reproduction procedure performed without consent - definitions.",
+      "number": "4731.86",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.86"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.861 - Action for an assisted reproduction procedure performed without consent - patient, spouse, child.",
+      "number": "4731.861",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.861"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.862 - Separate action for each child born to the patient or spouse.",
+      "number": "4731.862",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.862"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.864 - Action for an assisted reproduction procedure performed without consent - donor.",
+      "number": "4731.864",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.864"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.865 - Separate action for each individual who received the donor's human reproductive material.",
+      "number": "4731.865",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.865"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.867 - Consent for use of human reproductive material.",
+      "number": "4731.867",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.867"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.869 - Remedies and damages.",
+      "number": "4731.869",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.869"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.8610 - Pursuit of other remedies and damages.",
+      "number": "4731.8610",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.8610"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.8611 - Wavier of action against public policy.",
+      "number": "4731.8611",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.8611"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.90 - Protocol for pharmacist to dispense nicotine replacement therapy.",
+      "number": "4731.90",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.90"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.91 - No requirement for abortions.",
+      "number": "4731.91",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.91"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.911 - Physician responsibilities in a non-hospital setting.",
+      "number": "4731.911",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.911"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.92 - Furnishing or prescribing glucagon, immunity.",
+      "number": "4731.92",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.92"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.93 - Authority to prescribe or furnish drugs to sexual partner of a patient diagnosed with chlamydia, gonorrhea, or trichomoniasis.",
+      "number": "4731.93",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.93"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.95 - Compliance with law regarding sanctions for human trafficking.",
+      "number": "4731.95",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.95"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.96 - Epinephrine autoinjectors.",
+      "number": "4731.96",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.96"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.961 - Authority to dispense epinephrine without a prescription.",
+      "number": "4731.961",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.961"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.97 - Eligible patients.",
+      "number": "4731.97",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.97"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.98 - State medical board - immunity.",
+      "number": "4731.98",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.98"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4731.99 - Penalty.",
+      "number": "4731.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.99"
+    }
+  ],
+  "scraped": "2026-07-02T20:07:04+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-4731",
+  "title": "Chapter 4731 - Physicians; Limited Practitioners"
+}

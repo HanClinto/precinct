@@ -1,0 +1,44 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-1713.50
+Scraped: 2026-07-02T19:39:14+00:00
+
+# Section 1713.50 - Private college or university may establish campus police department.
+
+**Effective:** January 1, 2004
+
+**Latest Legislation:** House Bill 490 - 124th General Assembly
+
+(A) As used in this section:
+
+(1) "Political subdivision" means a county, municipal corporation, or township.
+
+(2) "Private college or university" means a college or university that has all of the following characteristics:
+
+(a) It is not owned or controlled by the state or any political subdivision of the state.
+
+(b) It provides a program of education in residence leading to a baccalaureate degree or provides a program of education in residence, for which the baccalaureate degree is a prerequisite, leading to an academic or professional degree.
+
+(c) It is accredited by the north central association or another nationally recognized agency that accredits colleges and universities.
+
+(3) "Felony" has the same meaning as in section 109.511 of the Revised Code.
+
+(B) The board of trustees of a private college or university may establish a campus police department and appoint members of the campus police department to act as police officers. The board shall assign duties to the members of a campus police department that shall include the enforcement of the regulations of the college or university. Subject to division (E) of this section, the board shall appoint as members of a campus police department only those persons who have successfully completed a training program approved by the Ohio peace officer training commission and have been certified as having done so or who have previously successfully completed a police officer basic training program certified by the commission and have been awarded a certificate to that effect by the commission.
+
+Members of a campus police department shall not be reimbursed with state funds for any training they receive or be eligible to participate in any state or municipal retirement system. The uniforms, vehicles, and badges of members of a campus police department shall be distinct from those of the law enforcement agencies of the political subdivisions in which the private college or university that established the campus police department is located.
+
+(C) Each member of a campus police department appointed under division (B) of this section is vested, while directly in the discharge of that member's duties as a police officer, with the same powers and authority that are vested in a police officer of a municipal corporation or a county sheriff under Title XXIX of the Revised Code and the Rules of Criminal Procedure, including the same powers and authority relating to the operation of a public safety vehicle that are vested in a police officer of a municipal corporation or a county sheriff under Chapter 4511. of the Revised Code. Except as otherwise provided in this division, members of a campus police department may exercise, concurrently with the law enforcement officers of the political subdivisions in which the private college or university is located, the powers and authority granted to them under this division in order to preserve the peace, protect persons and property, enforce the laws of this state, and enforce the ordinances and regulations of the political subdivisions in which the private college or university is located, but only on the property of the private college or university that employs them. The board of trustees of a private college or university may enter into an agreement with any political subdivision pursuant to which the members of the campus police department of the college or university may exercise within that political subdivision, but outside the property of the college or university, the powers and authority granted to them under this division. A member of a campus police department has no authority to serve civil process.
+
+(D) Except as otherwise provided in this division, the board of trustees of a private college or university shall provide to each member of a campus police department appointed under division (B) of this section, without cost to the member, liability insurance coverage that insures the member against any liability that may arise out of or in the course of the member's employment and that is in an amount of not less than two hundred fifty thousand dollars. A board of trustees may provide the liability coverage required by this division by self-insurance.
+
+(E)(1) The board of trustees of a private college or university that establishes a campus police department shall not appoint a person as a member of the campus police department pursuant to division (B) of this section on a permanent basis, on a temporary basis, for a probationary term, or on other than a permanent basis if the person previously has been convicted of or has pleaded guilty to a felony.
+
+(2)(a) The board of trustees of a private college or university shall terminate the employment of a member of its campus police department appointed under division (B) of this section if the member does either of the following:
+
+(i) Pleads guilty to a felony;
+
+(ii) Pleads guilty to a misdemeanor pursuant to a negotiated plea agreement as provided in division (D) of section 2929.43 of the Revised Code in which the member agrees to surrender the certificate awarded to that member under section 109.77 of the Revised Code.
+
+(b) The board of trustees of a private college or university shall suspend from employment a member of its campus police department appointed under division (B) of this section if the member is convicted, after trial, of a felony. If the member of the campus police department files an appeal from that conviction and the conviction is upheld by the highest court to which the appeal is taken or if the member does not file a timely appeal, the board shall terminate the employment of that member. If the member of the campus police department files an appeal that results in that member's acquittal of the felony or conviction of a misdemeanor, or in the dismissal of the felony charge against that member, the board shall reinstate that member. A member of a campus police department who is reinstated under division (E)(2)(b) of this section shall not receive any back pay unless that member's conviction of the felony was reversed on appeal, or the felony charge was dismissed, because the court found insufficient evidence to convict the member of the felony.
+
+(3) Division (E) of this section does not apply regarding an offense that was committed prior to January 1, 1997.
+
+(4) The suspension from employment, or the termination of the employment, of a member of a campus police department under division (E)(2) of this section shall be in accordance with Chapter 119. of the Revised Code.

@@ -1,0 +1,76 @@
+{
+  "glossary": [
+    {
+      "definition": "(B) All payrolls shall be charged to the allotments of the fiscal quarters in which the applicable payroll vouchers are certified by the director of budget and management in accordance with section 126.07 of the Revised Code. As used in this division, \"payrolls\" means any payment made in accordance with section 125.21 of the Revised Code.\n\n(C) Legal liabilities from prior fiscal years for which there is no reappropriation authority shall be discharged from the unencumbered balances of current appropriations.\n\n(D)(1) Federal grant funds obligated by the department of job and family services or the department of children and youth for financial allocations to county family services agencies and local boards may, at the discretion of the director of job and family services or the director of children and youth, be available for expenditure for the duration of the federal grant period of obligation and liquidation, as follows:\n\n(a) At the end of the state fiscal year, all unexpended county family services agency and local board financial allocations obligated from federal grant funds may continue to be valid for expenditure during subsequent state fiscal years.\n\n(b) The financial allocations described in division (D)(1)(a) of this section shall be reconciled at the end of the federal grant period of availability or as required by federal law, regardless of the state fiscal year of the appropriation.\n\n(2) The director of job and family services and the director of children and youth may adopt rules in accordance with section 111.15 of the Revised Code, as if they were internal management rules, as necessary to implement division (D) of this section.\n\n(3) As used in division (D) of this section:",
+      "id": "131.33-payrolls",
+      "normalized": "payrolls",
+      "scope": "",
+      "section": "131.33",
+      "source_title": "Section 131.33 - Unexpended balances.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-131.33",
+      "term": "payrolls"
+    },
+    {
+      "definition": "(a) \"County family services agency\" has the same meaning as in section 307.981 of the Revised Code.",
+      "id": "131.33-county-family-services-agency",
+      "normalized": "county family services agency",
+      "scope": "(3) As used in division (D) of this section:",
+      "section": "131.33",
+      "source_title": "Section 131.33 - Unexpended balances.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-131.33",
+      "term": "County family services agency"
+    },
+    {
+      "definition": "(b) \"Local board\" has the same meaning as in section 6301.01 of the Revised Code.\n\nLast updated January 1, 2025 at 6:46 AM",
+      "id": "131.33-local-board",
+      "normalized": "local board",
+      "scope": "(3) As used in division (D) of this section:",
+      "section": "131.33",
+      "source_title": "Section 131.33 - Unexpended balances.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-131.33",
+      "term": "Local board"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "126.37",
+      "number": "126.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-126.37"
+    },
+    {
+      "kind": "section",
+      "label": "126.07",
+      "number": "126.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-126.07"
+    },
+    {
+      "kind": "section",
+      "label": "125.21",
+      "number": "125.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.21"
+    },
+    {
+      "kind": "section",
+      "label": "111.15",
+      "number": "111.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-111.15"
+    },
+    {
+      "kind": "section",
+      "label": "307.981",
+      "number": "307.981",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.981"
+    },
+    {
+      "kind": "section",
+      "label": "6301.01",
+      "number": "6301.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6301.01"
+    }
+  ],
+  "scraped": "2026-07-02T19:31:48+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-131.33",
+  "title": "Section 131.33 - Unexpended balances."
+}

@@ -1,0 +1,112 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-5301
+Scraped: 2026-07-02T20:11:45+00:00
+
+# Chapter 5301 - Conveyances; Encumbrances
+
+## Sections
+
+- Section 5301.01 - Acknowledgment of deed, mortgage, land contract, lease or memorandum of trust.
+- Section 5301.011 - Recorded instrument to contain volume and page reference.
+- Section 5301.012 - Identification of agency for whose use and benefit interest in real property is acquired.
+- Section 5301.02 - Words necessary to create a fee simple estate.
+- Section 5301.03 - Grantee as trustee or agent.
+- Section 5301.04 - Deed, mortgage, or lease of a married person.
+- Section 5301.05 - Discriminatory restrictive covenants - void.
+- Section 5301.057 - Transfer fee covenant.
+- Section 5301.06 - Instruments executed according to law of place where made.
+- Section 5301.07 - Delivery and acceptance of real property instrument; presumptions.
+- Section 5301.071 - Validity of instruments not affected by certain actions or omissions.
+- Section 5301.072 - Deed restrictions prohibiting placement of flag unenforceable.
+- Section 5301.08 - Certain leases unaffected.
+- Section 5301.09 - Recording lease of natural gas and petroleum.
+- Section 5301.10 - Parties defendant in suits to cancel leases.
+- Section 5301.11 - Effect of destruction of building upon lessee.
+- Section 5301.12 - Purchaser at tax sale.
+- Section 5301.13 - Mode of conveyance by state.
+- Section 5301.14 - Copy of record of lost deed to be evidence.
+- Section 5301.15 - Governor may execute new deed to supply lost conveyance.
+- Section 5301.16 - Execution of conveyance by state when purchaser dies before deed made.
+- Section 5301.17 - New deed from state to correct errors.
+- Section 5301.18 - Deeds from state must recite facts.
+- Section 5301.19 - Release of mortgage to the state.
+- Section 5301.20 - Reversion to owner of land conveyed to state.
+- Section 5301.21 - Adjoining owners may fix corner or line.
+- Section 5301.22 - Effect of agreement with a guardian.
+- Section 5301.23 - Mortgage effective dates.
+- Section 5301.231 - Effective dates of amendments, supplements, modifications or extensions of mortgages, or of debt secured by mortgages,.
+- Section 5301.232 - Open-end mortgages.
+- Section 5301.233 - Mortgage may secure unpaid balances of advances made.
+- Section 5301.234 - Mortgage subrogation.
+- Section 5301.24 - Acquisition of property by state not to affect mortgage lien - state, a party.
+- Section 5301.25 - Recording in county where real estate situated - survey form.
+- Section 5301.251 - Memorandum of lease recording.
+- Section 5301.252 - Recording affidavit relating to title.
+- Section 5301.253 - Written notice of code violations prior to entering into agreement for transfer of title to property.
+- Section 5301.254 - Filing information with secretary of state by nonresident alien acquiring interest in real property.
+- Section 5301.255 - Memorandum of trust recording.
+- Section 5301.256 - Registry of persons prohibited from acquiring agricultural land.
+- Section 5301.26 - Vendor's lien.
+- Section 5301.27 - Conditional grants or devises of real estate.
+- Section 5301.28 - Release of mortgage - assignment.
+- Section 5301.29 - Releases of mortgages made valid.
+- Section 5301.291 - Mortgage release, cancellation, or satisfaction not defective.
+- Section 5301.30 - Expiration of mortgage lien - limitation.
+- Section 5301.31 - Assignment or partial release in margin of original record.
+- Section 5301.32 - Assignment or partial release by separate instrument.
+- Section 5301.33 - Cancellation, release, and assignment of leases.
+- Section 5301.331 - Land contract cancellation, partial release, or assignment.
+- Section 5301.332 - Forfeiture for failure of lessee, successors or assigns to abide by specifically described covenants.
+- Section 5301.34 - Release of mortgage on certificate of mortgagee or assignee.
+- Section 5301.35 - Waiver of priority of mortgages - execution and recording - fees.
+- Section 5301.36 - Entry of satisfaction.
+- Section 5301.361 - Unreleased mortgages; liability for damages for failure to record.
+- Section 5301.37 - Recording of separate instruments.
+- Section 5301.38 - Record of patents, copies, and exemplifications.
+- Section 5301.39 - When court to order clerk to make entry on record of mortgage.
+- Section 5301.40 - Mortgage or lien satisfied by suit.
+- Section 5301.41 - Effect of reversal of judgment.
+- Section 5301.42 - Effect of entry by clerk.
+- Section 5301.43 - Certified copy of record of instrument as evidence.
+- Section 5301.44 - Certified copy of record in action to cure defects.
+- Section 5301.45 - Instrument executed and acknowledged upon different sheets.
+- Section 5301.46 - Assignment, release, or cancellation of interest made by separate instrument to contain description.
+- Section 5301.47 - Marketable title definitions.
+- Section 5301.48 - Unbroken chain of title of record.
+- Section 5301.49 - Record marketable title.
+- Section 5301.50 - Interests prior to effective date of root of title.
+- Section 5301.51 - Preservation of interest in land.
+- Section 5301.52 - Notice and filing of claim of interest in land.
+- Section 5301.53 - Certain rights not barred or extinguished.
+- Section 5301.54 - Effect of changes.
+- Section 5301.55 - Liberal construction of statutes.
+- Section 5301.56 - Mineral interests - vesting in surface owner.
+- Section 5301.61 - Removal of fixtures or improvements from mortgaged realty.
+- Section 5301.63 - Solar access easement requirements.
+- Section 5301.67 - Conservation, agricultural easement definitions.
+- Section 5301.68 - Granting conservation or agricultural easement.
+- Section 5301.69 - Who may acquire conservation or agricultural easement.
+- Section 5301.691 - Director of agriculture purchase of agricultural easements.
+- Section 5301.692 - Holding land or interests in land for purpose of retaining use of land predominantly in agriculture.
+- Section 5301.70 - Enforcement of conservation easement.
+- Section 5301.71 - Termination of agricultural leases.
+- Section 5301.75 - Unfair service agreement definitions.
+- Section 5301.76 - Unfair service agreement prohibited, void, and unenforceable; exemptions; enforcement.
+- Section 5301.77 - Unfair service agreement recording prohibited.
+- Section 5301.78 - Unfair service agreement civil action.
+- Section 5301.80 - Environmental covenants - definitions.
+- Section 5301.81 - Holder of environmental covenant.
+- Section 5301.82 - Contents of environmental covenant - required signatures.
+- Section 5301.83 - Copies of environmental covenant to be provided.
+- Section 5301.84 - Obligations under environmental covenant.
+- Section 5301.85 - Environmental covenant runs with land - enforceability.
+- Section 5301.86 - Antecedent interests in real property - subordination agreement.
+- Section 5301.87 - Zoning regulations and prior instruments.
+- Section 5301.88 - Filing and recording of environmental covenants.
+- Section 5301.89 - Environmental covenant perpetual - exceptions - judicial termination - limitation.
+- Section 5301.90 - Amendment or termination of environmental covenant by consent - assignment.
+- Section 5301.91 - Civil action for violation - regulatory authority - liability.
+- Section 5301.92 - Preemption of federal electronic signatures statute.
+- Section 5301.93 - Residential PACE lien priority.
+- Section 5301.94 - Right-to-list home sale agreements.
+- Section 5301.95 - Residential real property wholesalers.
+- Section 5301.99 - Penalty.

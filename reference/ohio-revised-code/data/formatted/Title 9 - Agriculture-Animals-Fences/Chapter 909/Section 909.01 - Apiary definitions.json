@@ -1,0 +1,152 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Person\" includes corporations, companies, societies, associations, partnerships, any individual or combination of individuals, or any institution, park, or other public agency administered by the state or by any district, county, municipal corporation, or other governmental subdivision thereof. When construing or enforcing such sections, the act, omission, or failure of any officer, agent, servant, or other individual acting for or employed by any person as above defined within the scope of the person's employment or office is deemed to be the act, omission, or failure of such person, as well as that of the officer, agent, servant, or other employee.",
+      "id": "909.01-person",
+      "normalized": "person",
+      "scope": "As used in sections 909.01 to 909.18 of the Revised Code:",
+      "section": "909.01",
+      "source_title": "Section 909.01 - Apiary definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-909.01",
+      "term": "Person"
+    },
+    {
+      "definition": "(B) \"Bees\" means any stage of any species of the genus Apis.",
+      "id": "909.01-bees",
+      "normalized": "bees",
+      "scope": "As used in sections 909.01 to 909.18 of the Revised Code:",
+      "section": "909.01",
+      "source_title": "Section 909.01 - Apiary definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-909.01",
+      "term": "Bees"
+    },
+    {
+      "definition": "(C) \"Bee diseases\" means any infectious or contagious disease that is pathogenic or parasitic and affects the eggs, or the larval, pupal, or adult stages, of bees.",
+      "id": "909.01-bee-diseases",
+      "normalized": "bee diseases",
+      "scope": "As used in sections 909.01 to 909.18 of the Revised Code:",
+      "section": "909.01",
+      "source_title": "Section 909.01 - Apiary definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-909.01",
+      "term": "Bee diseases"
+    },
+    {
+      "definition": "(D) \"Apiary\" means any place where one or more colonies or nuclei of bees are kept.",
+      "id": "909.01-apiary",
+      "normalized": "apiary",
+      "scope": "As used in sections 909.01 to 909.18 of the Revised Code:",
+      "section": "909.01",
+      "source_title": "Section 909.01 - Apiary definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-909.01",
+      "term": "Apiary"
+    },
+    {
+      "definition": "(E) \"Queen rearing apiaries\" means any apiary in which queens are raised or purchased for sale, trade, or gift; or otherwise distributed or used to create, for sale, trade or gift, nucs, packages, or colonies.",
+      "id": "909.01-queen-rearing-apiaries",
+      "normalized": "queen rearing apiaries",
+      "scope": "As used in sections 909.01 to 909.18 of the Revised Code:",
+      "section": "909.01",
+      "source_title": "Section 909.01 - Apiary definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-909.01",
+      "term": "Queen rearing apiaries"
+    },
+    {
+      "definition": "(F) \"Hive\" means any modern frame hive, box hive, box, barrel, log gum, skep, or any other natural or artificial receptacle, or any part thereof, that may be used as a domicile for bees.",
+      "id": "909.01-hive",
+      "normalized": "hive",
+      "scope": "As used in sections 909.01 to 909.18 of the Revised Code:",
+      "section": "909.01",
+      "source_title": "Section 909.01 - Apiary definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-909.01",
+      "term": "Hive"
+    },
+    {
+      "definition": "(G) \"Equipment\" means any used hives or parts thereof, used frames, used honey houses, used tools, used machines, or used devices employed in the handling or manipulation of bees, honey, or beeswax, or any used container for honey or beeswax that may be used in any apiary.",
+      "id": "909.01-equipment",
+      "normalized": "equipment",
+      "scope": "As used in sections 909.01 to 909.18 of the Revised Code:",
+      "section": "909.01",
+      "source_title": "Section 909.01 - Apiary definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-909.01",
+      "term": "Equipment"
+    },
+    {
+      "definition": "(H) \"Serious bee diseases\" means any bee disease the director of agriculture determines to be a threat to the beekeeping industry within the state.",
+      "id": "909.01-serious-bee-diseases",
+      "normalized": "serious bee diseases",
+      "scope": "As used in sections 909.01 to 909.18 of the Revised Code:",
+      "section": "909.01",
+      "source_title": "Section 909.01 - Apiary definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-909.01",
+      "term": "Serious bee diseases"
+    },
+    {
+      "definition": "(I) \"Africanized honey bees\" means any bees identified by the United States department of agriculture by approved identification methods to be classified as Apis mellifera scutellata.",
+      "id": "909.01-africanized-honey-bees",
+      "normalized": "africanized honey bees",
+      "scope": "As used in sections 909.01 to 909.18 of the Revised Code:",
+      "section": "909.01",
+      "source_title": "Section 909.01 - Apiary definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-909.01",
+      "term": "Africanized honey bees"
+    },
+    {
+      "definition": "(J) \"Swarm\" means a population of bees that is not permanently established.",
+      "id": "909.01-swarm",
+      "normalized": "swarm",
+      "scope": "As used in sections 909.01 to 909.18 of the Revised Code:",
+      "section": "909.01",
+      "source_title": "Section 909.01 - Apiary definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-909.01",
+      "term": "Swarm"
+    },
+    {
+      "definition": "(K) \"Colony\" means the hive and its equipment, including bees, combs, and brood.",
+      "id": "909.01-colony",
+      "normalized": "colony",
+      "scope": "As used in sections 909.01 to 909.18 of the Revised Code:",
+      "section": "909.01",
+      "source_title": "Section 909.01 - Apiary definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-909.01",
+      "term": "Colony"
+    },
+    {
+      "definition": "(L) \"Compliance agreement\" means a written agreement between the department of agriculture and any person engaged in queen rearing in which the person agrees to comply with stipulated requirements.",
+      "id": "909.01-compliance-agreement",
+      "normalized": "compliance agreement",
+      "scope": "As used in sections 909.01 to 909.18 of the Revised Code:",
+      "section": "909.01",
+      "source_title": "Section 909.01 - Apiary definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-909.01",
+      "term": "Compliance agreement"
+    },
+    {
+      "definition": "(M) \"Nuc\" means a small colony of bees in a hive box to which all of the following applies:\n\n(1) The hive box contains three to five frames.\n\n(2) The hive box contains a laying queen bee and the queen's progeny in egg, larval, pupa, and adult stages.\n\n(3) The small colony has honey and a viable population sufficient enough to develop into a full-sized colony.\n\nLast updated July 17, 2025 at 12:28 PM",
+      "id": "909.01-nuc",
+      "normalized": "nuc",
+      "scope": "As used in sections 909.01 to 909.18 of the Revised Code:",
+      "section": "909.01",
+      "source_title": "Section 909.01 - Apiary definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-909.01",
+      "term": "Nuc"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "909.01",
+      "number": "909.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-909.01"
+    },
+    {
+      "kind": "section",
+      "label": "909.18",
+      "number": "909.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-909.18"
+    }
+  ],
+  "scraped": "2026-07-02T19:34:16+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-909.01",
+  "title": "Section 909.01 - Apiary definitions."
+}

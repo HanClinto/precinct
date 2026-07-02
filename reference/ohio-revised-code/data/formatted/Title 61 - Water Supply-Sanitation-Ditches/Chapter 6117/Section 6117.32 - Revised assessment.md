@@ -1,0 +1,12 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-6117.32
+Scraped: 2026-07-02T20:17:24+00:00
+
+# Section 6117.32 - Revised assessment.
+
+**Effective:** March 12, 2001
+
+**Latest Legislation:** House Bill 549 - 123rd General Assembly
+
+The county sanitary engineer, upon the completion of any improvement in accordance with this chapter, shall prepare, or otherwise cause to be prepared, and shall present to the board of county commissioners a revised assessment based on the tentative assessment previously ratified by the board for the improvement or, if the tentative assessment has been revised by order of court, based on the revised tentative assessment, the assessment levied on each piece of property being modified in substantially the same proportion as the actual cost of the improvement, including incidental costs, bears to the estimated cost on which the tentative assessment was based. No notice of the revised assessment shall be given unless the actual cost exceeds the estimated cost. If the actual cost exceeds the estimated cost, notice shall be given to all property owners within the assessment district and shall be published as provided by section 6117.07 of the Revised Code for amendments of the tentative assessment, and any property owner may appeal as provided for in the case of a tentative assessment. The board shall confirm the revised assessment, and, when so confirmed, it shall be final and conclusive. If an appeal has been made, that confirmation shall be subject to the finding of the court.
+
+The board, at intervals it considers expedient, may levy an additional assessment on the lots and parcels of land assessed for the improvement, including state land, in order to pay the cost of the maintenance, repair, and operation of the improvement after its completion. No further notice of that additional assessment shall be necessary unless the amount of it exceeds ten per cent of the original cost of acquiring or constructing the improvement. If that additional assessment exceeds ten per cent of the original cost of acquiring or constructing the improvement, the method and manner of making that additional assessment, together with the notice of it, shall be the same as provided in this chapter for the original assessment. That additional assessment shall be subject to any applicable provisions of section 6117.33 of the Revised Code, provided that the assessment may bear interest at a rate as the board determines to be appropriate.

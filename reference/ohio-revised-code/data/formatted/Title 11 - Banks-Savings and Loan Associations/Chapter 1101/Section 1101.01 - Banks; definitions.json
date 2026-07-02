@@ -1,0 +1,354 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Affiliate\" has the same meaning as in division (A)(1) of section 1109.53 of the Revised Code and includes a subsidiary of a bank.",
+      "id": "1101.01-affiliate",
+      "normalized": "affiliate",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "Affiliate"
+    },
+    {
+      "definition": "(B) \"Bank\" or \"banking corporation\" means an entity that solicits, receives, or accepts money or its equivalent for deposit as a business, whether the deposit is made by check or is evidenced by a certificate of deposit, passbook, note, receipt, ledger card, or otherwise. \"Bank\" or \"banking corporation\" includes a state bank or any entity doing business as a bank, savings bank, or savings association under authority granted by the office of the comptroller of the currency or the former office of thrift supervision, the appropriate bank regulatory authority of another state of the United States, or the appropriate bank regulatory authority of another country, but does not include a credit union.",
+      "id": "1101.01-bank",
+      "normalized": "bank",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "Bank"
+    },
+    {
+      "definition": "(B) \"Bank\" or \"banking corporation\" means an entity that solicits, receives, or accepts money or its equivalent for deposit as a business, whether the deposit is made by check or is evidenced by a certificate of deposit, passbook, note, receipt, ledger card, or otherwise. \"Bank\" or \"banking corporation\" includes a state bank or any entity doing business as a bank, savings bank, or savings association under authority granted by the office of the comptroller of the currency or the former office of thrift supervision, the appropriate bank regulatory authority of another state of the United States, or the appropriate bank regulatory authority of another country, but does not include a credit union.",
+      "id": "1101.01-banking-corporation",
+      "normalized": "banking corporation",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "banking corporation"
+    },
+    {
+      "definition": "(C) \"Bank holding company\" has the same meaning as in the \"Bank Holding Company Act of 1956,\" 70 Stat. 133, 12 U.S.C. 1841, as amended.",
+      "id": "1101.01-bank-holding-company",
+      "normalized": "bank holding company",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "Bank holding company"
+    },
+    {
+      "definition": "(D) \"Banking office\" means an office or other place established by a bank at which the bank receives money or its equivalent from the public for deposit and conducts a general banking business. \"Banking office\" does not include any of the following:\n\n(1) Any location at which a bank receives, but does not accept, cash or other items for subsequent deposit, such as by mail or armored car service or at a lock box or night depository;\n\n(2) Any structure located within five hundred yards of an approved banking office of a bank and operated as an extension of the services of the banking office;\n\n(3) Any automated teller machine, remote service unit, or other money transmission device owned, leased, or operated by a bank;\n\n(4) Any facility located within the geographical limits of a military installation at which a bank only accepts deposits and cashes checks;\n\n(5) Any location at which a bank takes and processes applications for loans and may disburse loan proceeds, but does not accept deposits;\n\n(6) Any location at which a bank is engaged solely in providing administrative support services for its own operations or for other depository institutions.",
+      "id": "1101.01-banking-office",
+      "normalized": "banking office",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "Banking office"
+    },
+    {
+      "definition": "(E) \"Branch\" means a banking office that is not also the bank's principal place of business consistent with its articles of incorporation or articles of association.",
+      "id": "1101.01-branch",
+      "normalized": "branch",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "Branch"
+    },
+    {
+      "definition": "(F)(1) With respect to a stock state bank, \"capital\" means the sum of the bank's:\n\n(a) Paid-in capital and surplus relating to common stock;\n\n(b) To the extent permitted by the superintendent of financial institutions, paid-in capital and surplus relating to preferred stock;\n\n(c) Undivided profits; and\n\n(d) To the extent permitted by the superintendent the proceeds of the sale of debt securities and other assets and reserves.",
+      "id": "1101.01-capital",
+      "normalized": "capital",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "capital"
+    },
+    {
+      "definition": "(2) With respect to a mutual state bank, \"capital\" means either of the following:\n\n(a) Retained earnings;\n\n(b) At the discretion of the superintendent, any other form of capital, subject to any applicable federal and state laws.",
+      "id": "1101.01-capital",
+      "normalized": "capital",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "capital"
+    },
+    {
+      "definition": "(G) \"Code of regulations\" includes a constitution adopted by a state bank for similar purposes.",
+      "id": "1101.01-code-of-regulations",
+      "normalized": "code of regulations",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "Code of regulations"
+    },
+    {
+      "definition": "(H) \"Control\" has the same meaning as in division (H) of section 1109.53 of the Revised Code.",
+      "id": "1101.01-control",
+      "normalized": "control",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "Control"
+    },
+    {
+      "definition": "(I) \"Debt securities\" means obligations issued by a bank the holders of which, in the event of the insolvency or liquidation of the bank, are subordinated in right of payment to the bank's depositors and general creditors.",
+      "id": "1101.01-debt-securities",
+      "normalized": "debt securities",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "Debt securities"
+    },
+    {
+      "definition": "(J) \"Deposit\" has the same meaning as in 12 C.F.R. 204.2, as amended.",
+      "id": "1101.01-deposit",
+      "normalized": "deposit",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "Deposit"
+    },
+    {
+      "definition": "(K) \"Entity\" has the same meaning as in section 1701.01 of the Revised Code.",
+      "id": "1101.01-entity",
+      "normalized": "entity",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "Entity"
+    },
+    {
+      "definition": "(L) \"Federal savings association\" means a federal savings and loan association or a federal savings bank doing business under authority granted by the office of the comptroller of the currency or the former office of thrift supervision.",
+      "id": "1101.01-federal-savings-association",
+      "normalized": "federal savings association",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "Federal savings association"
+    },
+    {
+      "definition": "(M) \"Mutual holding company\" means either of the following:\n\n(1) A mutual state bank or an affiliate of a mutual state bank reorganized in accordance with Chapter 1116. of the Revised Code to hold all or part of the shares of the capital stock of a subsidiary state bank;\n\n(2) A mutual holding company organized in accordance with 12 U.S.C. 1467a(o) that has converted to a mutual holding company under Chapter 1116. of the Revised Code.",
+      "id": "1101.01-mutual-holding-company",
+      "normalized": "mutual holding company",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "Mutual holding company"
+    },
+    {
+      "definition": "(N) \"Mutual state bank\" means a state bank without stock that has governing documents consisting of articles of incorporation and code of regulations adopted by its members and bylaws adopted by its board of directors.",
+      "id": "1101.01-mutual-state-bank",
+      "normalized": "mutual state bank",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "Mutual state bank"
+    },
+    {
+      "definition": "(O) \"National bank\" means a bank doing business under authority granted by the office of the comptroller of the currency.",
+      "id": "1101.01-national-bank",
+      "normalized": "national bank",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "National bank"
+    },
+    {
+      "definition": "(P) \"Net income\" means all income realized or earned less all expenses realized or accrued.",
+      "id": "1101.01-net-income",
+      "normalized": "net income",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "Net income"
+    },
+    {
+      "definition": "(Q) \"Paid-in capital\" means the aggregate par value of all of a stock state bank's outstanding shares of all classes.",
+      "id": "1101.01-paid-in-capital",
+      "normalized": "paid-in capital",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "Paid-in capital"
+    },
+    {
+      "definition": "(R) \"Person\" means an individual, sole proprietorship, partnership, joint venture, association, trust, estate, business trust, limited liability company, corporation, or any similar entity or organization.",
+      "id": "1101.01-person",
+      "normalized": "person",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "Person"
+    },
+    {
+      "definition": "(S) \"Remote service unit\" means an automated facility, operated by a customer of a bank, that conducts banking functions, such as receiving deposits, paying withdrawals, or lending money.",
+      "id": "1101.01-remote-service-unit",
+      "normalized": "remote service unit",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "Remote service unit"
+    },
+    {
+      "definition": "(T) \"Reorganization\" means a consolidation, merger, or transfer of assets and liabilities pursuant to Chapter 1115. or 1116. of the Revised Code.",
+      "id": "1101.01-reorganization",
+      "normalized": "reorganization",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "Reorganization"
+    },
+    {
+      "definition": "(U) \"Savings and loan holding company\" has the same meaning as in 12 U.S.C. 1467a.",
+      "id": "1101.01-savings-and-loan-holding-company",
+      "normalized": "savings and loan holding company",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "Savings and loan holding company"
+    },
+    {
+      "definition": "(V) \"Savings association\" means a savings and loan association doing business under authority granted by the regulatory authority of another state or a federal savings association. \"Savings association\" also includes a state bank that elects to operate as a savings and loan association under section 1109.021 of the Revised Code.",
+      "id": "1101.01-savings-association",
+      "normalized": "savings association",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "Savings association"
+    },
+    {
+      "definition": "(W) \"Savings bank\" means a savings bank doing business under authority granted by the regulatory authority of another state.",
+      "id": "1101.01-savings-bank",
+      "normalized": "savings bank",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "Savings bank"
+    },
+    {
+      "definition": "(X) \"Shares\" means any equity interest, including a limited partnership interest and any other equity interest in which liability is limited to the amount of the investment. \"Shares\" does not include a general partnership interest or any other interest involving general liability.",
+      "id": "1101.01-shares",
+      "normalized": "shares",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "Shares"
+    },
+    {
+      "definition": "(Y) \"State bank\" means a bank doing business under authority granted by the superintendent of financial institutions. \"State bank\" includes a state bank that elects to operate as a savings and loan association under section 1109.021 of the Revised Code.",
+      "id": "1101.01-state-bank",
+      "normalized": "state bank",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "State bank"
+    },
+    {
+      "definition": "(Z) \"Stock state bank\" means a state bank that has an ownership structure represented by shares of stock.",
+      "id": "1101.01-stock-state-bank",
+      "normalized": "stock state bank",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "Stock state bank"
+    },
+    {
+      "definition": "(AA) \"Subsidiary\" has the same meaning as in section 1109.53 of the Revised Code.",
+      "id": "1101.01-subsidiary",
+      "normalized": "subsidiary",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "Subsidiary"
+    },
+    {
+      "definition": "(BB) \"Surplus\" means the total of amounts paid for shares in excess of their respective par values, amounts contributed other than for shares, and amounts transferred from undivided profits, less amounts transferred to stated capital.",
+      "id": "1101.01-surplus",
+      "normalized": "surplus",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "Surplus"
+    },
+    {
+      "definition": "(CC) \"Trust company\" means an entity qualified and licensed under section 1111.06 of the Revised Code to solicit or engage in trust business in this state, or a person that is required by Chapter 1111. of the Revised Code to be an entity qualified and licensed under section 1111.06 of the Revised Code to solicit or engage in trust business in this state.",
+      "id": "1101.01-trust-company",
+      "normalized": "trust company",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "Trust company"
+    },
+    {
+      "definition": "(DD) \"Undivided profits\" means the cumulative undistributed amount of a bank's net income not otherwise allocated.",
+      "id": "1101.01-undivided-profits",
+      "normalized": "undivided profits",
+      "scope": "As used in Chapters 1101. to 1127. of the Revised Code, unless the context requires otherwise:",
+      "section": "1101.01",
+      "source_title": "Section 1101.01 - Banks; definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+      "term": "Undivided profits"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "1109.53",
+      "number": "1109.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1109.53"
+    },
+    {
+      "kind": "section",
+      "label": "1701.01",
+      "number": "1701.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.01"
+    },
+    {
+      "kind": "section",
+      "label": "1109.021",
+      "number": "1109.021",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1109.021"
+    },
+    {
+      "kind": "section",
+      "label": "1111.06",
+      "number": "1111.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1111.06"
+    }
+  ],
+  "scraped": "2026-07-02T19:36:41+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1101.01",
+  "title": "Section 1101.01 - Banks; definitions."
+}

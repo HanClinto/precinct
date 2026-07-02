@@ -1,0 +1,10 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-2335.241
+Scraped: 2026-07-02T19:44:26+00:00
+
+# Section 2335.241 - Use of certain interest on certificates of judgment for computerization of clerk's office.
+
+**Effective:** August 28, 2002
+
+**Latest Legislation:** House Bill 464 - 124th General Assembly
+
+In order to provide funds to support the effective use of computerization within the office of the clerk of the court of common pleas, upon the request of the clerk of the court of common pleas, the board of county commissioners, by a resolution adopted on an annual basis prior to the thirty-first day of January in any year, may authorize the clerk of court to deposit in a fund for that purpose all or a portion of the interest that is due on certificates of judgment issued by that clerk pursuant to division (C) of section 2335.19 of the Revised Code and that the clerk receives during that calendar year. The clerk of the court shall pay to the county treasurer the interest authorized by the resolution of the board of county commissioners to be used for computerization within the office of the clerk. The treasurer shall deposit the money from this interest into any fund previously established under division (B)(1) of section 2303.021 of the Revised Code if a fund has been established for funds collected under that division. If a fund has not been established under that division, the treasurer shall deposit the money from this interest into a separate fund to be distributed after appropriation by the board of county commissioners in an amount no greater than the actual cost of a computerization project recommended by the clerk of the court of common pleas and approved by the board of county commissioners. The board of county commissioners, with the consent of the clerk of the court of common pleas, may determine at any time that the separate fund established is no longer necessary and may terminate that fund. Notwithstanding sections 5705.14 to 5705.16 of the Revised Code, if that fund is terminated, the treasurer shall transfer any moneys that remain in the fund to the general fund of the county.

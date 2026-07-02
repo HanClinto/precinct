@@ -1,0 +1,85 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-4141
+Scraped: 2026-07-02T20:04:31+00:00
+
+# Chapter 4141 - Unemployment Compensation
+
+## Sections
+
+- Section 4141.01 - Unemployment compensation definitions.
+- Section 4141.011 - Employer subject to the unemployment compensation law.
+- Section 4141.02 - Notice to exempt nonprofit employees.
+- Section 4141.04 - Free employment services.
+- Section 4141.042 - Promoting employment competencies and upward mobility of women.
+- Section 4141.046 - Prohibition against accepting compensation for securing employment.
+- Section 4141.06 - Unemployment compensation review commission.
+- Section 4141.07 - Non-lawyer representatives - commission or representative fees prohibited.
+- Section 4141.08 - Unemployment compensation integrity board.
+- Section 4141.09 - Unemployment compensation fund - clearing account, unemployment trust fund account, benefit account.
+- Section 4141.10 - Unemployment compensation administration fund.
+- Section 4141.11 - Unemployment compensation special administrative fund.
+- Section 4141.13 - Director of job and family services - additional duties.
+- Section 4141.131 - Sale of real property.
+- Section 4141.14 - Rules of director subject to approval of unemployment compensation review commission.
+- Section 4141.162 - Establishing income and eligibility verification system.
+- Section 4141.163 - Income verification for federal benefit programs.
+- Section 4141.17 - Oaths, depositions, and subpoenas.
+- Section 4141.18 - Employer shall keep employment record.
+- Section 4141.20 - Employers to furnish information to director - quarterly reports - forfeiture.
+- Section 4141.21 - Information maintained by or furnished director not open to public - publication in statistical form.
+- Section 4141.211 - Disclosure of information.
+- Section 4141.22 - Divulging information.
+- Section 4141.23 - Employer contributions - payments in lieu of contributions.
+- Section 4141.231 - Satisfying employer's deficiency.
+- Section 4141.24 - Employer accounts.
+- Section 4141.241 - Nonprofit organizations as employers.
+- Section 4141.242 - Public entities as employers.
+- Section 4141.25 - Contribution rates.
+- Section 4141.251 - Unemployment compensation interest contingency fund.
+- Section 4141.26 - Notifying employer of contribution rate.
+- Section 4141.27 - Proceeding against employer who fails to comply.
+- Section 4141.28 - Determination of benefit rights and claims for benefits.
+- Section 4141.281 - Appeal to director.
+- Section 4141.282 - Appeal to court.
+- Section 4141.283 - Unemployment due to labor dispute.
+- Section 4141.284 - Child support obligations.
+- Section 4141.285 - Unemployment caused by major disaster.
+- Section 4141.286 - Mandatory checks for determining benefit rights and eligibility.
+- Section 4141.287 - Data matching - incarcerated individuals.
+- Section 4141.288 - Data matching - death records.
+- Section 4141.29 - Eligibility for benefits.
+- Section 4141.291 - Voluntarily quitting to accept recall.
+- Section 4141.292 - State disaster unemployment benefit payment.
+- Section 4141.293 - Participation in learn to earn program.
+- Section 4141.30 - Paying benefits.
+- Section 4141.301 - Extended benefit period.
+- Section 4141.302 - Direct deposit.
+- Section 4141.31 - Benefits reduced by remuneration.
+- Section 4141.312 - Benefits reduced by amount of governmental payments based on individual's previous work. - social security.
+- Section 4141.32 - No waiver or assignment of benefits.
+- Section 4141.321 - Federal income tax deducted or withheld.
+- Section 4141.33 - Seasonal employment.
+- Section 4141.34 - Employer complaint system.
+- Section 4141.35 - Fraudulent misrepresentations to obtain benefits - other reasons.
+- Section 4141.36 - Deductions from salaries not permitted except for private benefits.
+- Section 4141.37 - Compliance by firm or corporation mandatory.
+- Section 4141.38 - Prohibition against failure to make reports or pay contributions.
+- Section 4141.39 - Injunction.
+- Section 4141.40 - Prohibition against violations not otherwise specified.
+- Section 4141.41 - Secretary of state is agent of employer for service of process - comity between states.
+- Section 4141.42 - Reciprocal agreements to determining liability for payment of employer contributions.
+- Section 4141.43 - Cooperation with federal, state, and other agencies.
+- Section 4141.431 - Domestic service in private home.
+- Section 4141.432 - Unemployment compensation administrative support other sources fund.
+- Section 4141.45 - Right to amend or repeal.
+- Section 4141.46 - Liberal construction of statutes.
+- Section 4141.47 - Auxiliary services personnel unemployment compensation fund - auxiliary services program administrative fund.
+- Section 4141.48 - Acquisition of trade or business to lower contribution rate prohibited.
+- Section 4141.50 - SharedWork Ohio definitions.
+- Section 4141.51 - Participation in SharedWork Ohio.
+- Section 4141.52 - Commencement and duration of shared work plan.
+- Section 4141.53 - Eligibility for shared work compensation.
+- Section 4141.54 - Employees who satisfy availability requirement.
+- Section 4141.55 - Reimbursement.
+- Section 4141.56 - Report.
+- Section 4141.60 - Annual report.
+- Section 4141.99 - Penalty.

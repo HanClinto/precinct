@@ -1,0 +1,94 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"State community college district\" means a political subdivision composed of the territory of a county, or of two or more contiguous counties, in either case having a total population of at least one hundred fifty thousand, and organized for the purpose of establishing, owning, and operating a state community college within the district or a political subdivision created pursuant to division (A) of section 3358.02 of the Revised Code.",
+      "id": "3358.01-state-community-college-district",
+      "normalized": "state community college district",
+      "scope": "As used in sections 3358.01 to 3358.10 of the Revised Code:",
+      "section": "3358.01",
+      "source_title": "Section 3358.01 - State community college definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3358.01",
+      "term": "State community college district"
+    },
+    {
+      "definition": "(B) \"State community college\" means a two-year institution, offering a baccalaureate-oriented program, technical education program, or an adult continuing education program. The extent to which the college offers baccalaureate-oriented and technical programs shall be determined in its charter. However, a state community college may offer applied bachelor's degree programs or nursing bachelor's degree programs pursuant to section 3333.051 of the Revised Code.",
+      "id": "3358.01-state-community-college",
+      "normalized": "state community college",
+      "scope": "As used in sections 3358.01 to 3358.10 of the Revised Code:",
+      "section": "3358.01",
+      "source_title": "Section 3358.01 - State community college definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3358.01",
+      "term": "State community college"
+    },
+    {
+      "definition": "(C) \"Baccalaureate-oriented program\" means a curricular program of not more than two years' duration that is planned and intended to enable students to gain academic credit for courses comparable to first- and second-year courses offered by accredited colleges and universities. The purpose of baccalaureate-oriented coursework in state community colleges is to enable students to transfer to colleges and universities and earn baccalaureate degrees or to enable students to terminate academic study after two years with a proportionate recognition of academic achievement through receipt of an associate degree.",
+      "id": "3358.01-baccalaureate-oriented-program",
+      "normalized": "baccalaureate-oriented program",
+      "scope": "As used in sections 3358.01 to 3358.10 of the Revised Code:",
+      "section": "3358.01",
+      "source_title": "Section 3358.01 - State community college definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3358.01",
+      "term": "Baccalaureate-oriented program"
+    },
+    {
+      "definition": "(D) \"Technical education program\" means a post high school program of not more than two years' duration that is planned and intended to prepare students to pursue employment or improve technical knowledge in careers generally but not exclusively at the semiprofessional level. Technical education programs include, but are not limited to, programs in the technologies of business, engineering, health, natural science, and public service and are programs which, after two years of academic study, result in proportionate recognition of academic achievement through receipt of an associate degree.",
+      "id": "3358.01-technical-education-program",
+      "normalized": "technical education program",
+      "scope": "As used in sections 3358.01 to 3358.10 of the Revised Code:",
+      "section": "3358.01",
+      "source_title": "Section 3358.01 - State community college definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3358.01",
+      "term": "Technical education program"
+    },
+    {
+      "definition": "(E) \"Adult continuing education program\" means the offering of short courses, seminars, workshops, exhibits, performances, and other educational activities for the general educational or occupational benefit of adults.",
+      "id": "3358.01-adult-continuing-education-program",
+      "normalized": "adult continuing education program",
+      "scope": "As used in sections 3358.01 to 3358.10 of the Revised Code:",
+      "section": "3358.01",
+      "source_title": "Section 3358.01 - State community college definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3358.01",
+      "term": "Adult continuing education program"
+    },
+    {
+      "definition": "(F) \"Applied bachelor's degree\" has the same meaning as in section 3333.051 of the Revised Code.\n\nLast updated August 2, 2021 at 11:22 AM",
+      "id": "3358.01-applied-bachelor-s-degree",
+      "normalized": "applied bachelor's degree",
+      "scope": "As used in sections 3358.01 to 3358.10 of the Revised Code:",
+      "section": "3358.01",
+      "source_title": "Section 3358.01 - State community college definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3358.01",
+      "term": "Applied bachelor's degree"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3358.01",
+      "number": "3358.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3358.01"
+    },
+    {
+      "kind": "section",
+      "label": "3358.10",
+      "number": "3358.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3358.10"
+    },
+    {
+      "kind": "section",
+      "label": "3358.02",
+      "number": "3358.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3358.02"
+    },
+    {
+      "kind": "section",
+      "label": "3333.051",
+      "number": "3333.051",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.051"
+    }
+  ],
+  "scraped": "2026-07-02T19:50:14+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3358.01",
+  "title": "Section 3358.01 - State community college definitions."
+}

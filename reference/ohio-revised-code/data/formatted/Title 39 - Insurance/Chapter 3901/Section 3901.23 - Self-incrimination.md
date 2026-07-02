@@ -1,0 +1,10 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3901.23
+Scraped: 2026-07-02T20:02:07+00:00
+
+# Section 3901.23 - Self-incrimination.
+
+**Effective:** January 9, 1961
+
+**Latest Legislation:** House Bill 1 - 104th General Assembly
+
+If any person asks to be excused from attending and testifying or from producing any books, papers, records, correspondence, or other documents at any hearing on the ground that the testimony or evidence required of him may tend to incriminate him or subject him to a penalty or forfeiture and notwithstanding is directed to give such testimony or produce such evidence, he must none the less comply with such direction, but he shall not thereafter be prosecuted or subjected to any penalty or forfeiture for or on account of any transaction, matter, or thing concerning which he may testify or produce evidence pursuant thereto. No testimony so given or evidence produced shall be received against him upon any criminal action, investigation, or proceeding, provided that no such individual so testifying shall be exempt from prosecution or punishment for any perjury committed by him while so testifying. The testimony or evidence so given or produced shall be admissible against him upon any criminal action, investigation, or proceeding concerning such perjury. No such individual so testifying shall be exempt from the refusal, revocation, or suspension of any license, permission, or authority conferred, or to be conferred, pursuant to the insurance law of this state. Any such individual may execute, acknowledge, and file in the office of the superintendent of insurance a statement expressly waiving such immunity or privilege in respect to any transaction, matter, or thing specified in such statement; and thereupon the testimony of such person or such evidence in relation to such transaction, matter, or thing may be received or produced before any judge or justice, court, tribunal, grand jury, or otherwise, and if so received or produced, such individual shall not be entitled to any immunity or privilege on account of any testimony he may so give or evidence so produced.

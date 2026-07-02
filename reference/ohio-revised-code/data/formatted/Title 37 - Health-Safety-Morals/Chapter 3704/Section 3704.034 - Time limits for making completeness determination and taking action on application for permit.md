@@ -1,0 +1,28 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3704.034
+Scraped: 2026-07-02T19:50:59+00:00
+
+# Section 3704.034 - Time limits for making completeness determination and taking action on application for permit.
+
+**Effective:** September 5, 2001
+
+**Latest Legislation:** House Bill 94 - 124th General Assembly
+
+(A) Within sixty days after the director of environmental protection or the director's agent or authorized representative receives an application for the issuance of an initial permit to operate, or for the modification or renewal of such a permit, pursuant to rules adopted under division (G) of section 3704.03 of the Revised Code, the director shall determine whether the application is substantially complete or materially deficient and, in writing, shall notify the applicant of the director's determination. If the director fails to make such a completeness determination and provide written notice of the determination to the applicant within sixty days after the application was submitted, the applicant may submit a written request to the director for the making of such a completeness determination.
+
+(B) Within thirty days after receiving a written request for the making of a completeness determination on an application under division (A) of this section, the director shall determine whether the application is substantially complete or materially deficient and, in writing, notify the applicant of the determination. If the director fails to make a completeness determination and provide written notice of the director's determination to the applicant within thirty days after receiving the applicant's written request for the making of the determination, the application shall be deemed to have been complete in all material respects at the time that it was submitted to the director or the director's agent or authorized representative.
+
+(C) If, within the time prescribed in division (A) and, if applicable, division (B) of this section, the director determines that an application is materially deficient, the director shall return the application to the applicant together with the written notice of material deficiency. The running of the time prescribed under division (A) and, if applicable, division (B) of this section ceases at the time that the determination is made. If the applicant subsequently resubmits the application to the director, the time prescribed in division (A) of this section and, if applicable, division (B) of this section shall resume running at the time that the application is resubmitted. The resubmission of the application constitutes a request for the making of a completeness determination on the application. The director shall do one of the following within the time remaining pursuant to division (A) and, if applicable, division (B) of this section at the time that the application is resubmitted:
+
+(1) Make a completeness determination on the application and, in writing, notify the applicant of the determination;
+
+(2) Issue or deny or propose to issue or deny the permit, modification, or renewal.
+
+(D) The director shall include in each written notice of the completeness of an application provided under division (A), (B), or (C)(1) of this section the date on which the application was determined to be complete.
+
+(E) The director shall issue or deny or propose to issue or deny an initial permit to operate, or a modification or renewal of such a permit, pursuant to rules adopted under division (G) of section 3704.03 of the Revised Code within one hundred eighty days after the date that the application for the permit, modification, or renewal was determined to be complete as that date is set forth in the written notice of the determination of the completeness of the application provided under division (A), (B), or (C)(1) of this section or within one hundred eighty days after the application is deemed to be complete under division (B) of this section, as appropriate. If the director fails to issue or deny or propose to issue or deny the permit, modification, or renewal within the appropriate one-hundred-eighty-day period, the applicant may bring a mandamus action to obtain a judgment that orders the director to take a final action on the application.
+
+(F) The director, upon the director's own motion or upon the written request of the applicant and in writing, may extend the time provided under division (E) of this section for issuing or denying or proposing to issue or deny the permit, modification, or renewal for an additional sixty days if a public informational meeting or public hearing was held on the application for the permit, modification, or renewal.
+
+(G) Upon the written request of the applicant, the director, in writing, may extend the time provided under division (E) of this section for issuing or denying or proposing to issue or deny the permit, modification, or renewal for the additional time specified in the applicant's request for the extension.
+
+(H) Upon the written request of the person responsible for a facility, the director may consolidate or group applications for the issuance of permits pursuant to rules adopted under division (G) of section 3704.03 of the Revised Code, or modifications or renewals of those permits, for individual air contaminant sources located at the facility in order to reduce the unnecessary paperwork and administrative burden to the applicant and the director in connection with the issuance of those permits, modifications, and renewals. Fees payable to the director under section 3745.11 of the Revised Code shall not be reduced by reason of any such consolidation or grouping of applications for permits, modifications, or renewals.

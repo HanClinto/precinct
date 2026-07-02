@@ -1,0 +1,573 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 4905.01 - Definitions.",
+      "number": "4905.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.02 - Public utility defined.",
+      "number": "4905.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.03 - Public utility company definitions.",
+      "number": "4905.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.04 - Power to regulate public utilities and railroads.",
+      "number": "4905.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.041 - Exclusive jurisdiction of commission.",
+      "number": "4905.041",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.041"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.042 - Commission jurisdiction over advanced or Internet protocol-enabled services.",
+      "number": "4905.042",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.042"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.05 - Scope of jurisdiction.",
+      "number": "4905.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.06 - General supervision.",
+      "number": "4905.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.07 - Information and records to be public.",
+      "number": "4905.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.09 - Substantial compliance.",
+      "number": "4905.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.10 - Assessment for expenses.",
+      "number": "4905.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.12 - Forfeiture.",
+      "number": "4905.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.13 - System of accounts for public utilities.",
+      "number": "4905.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.14 - Annual report.",
+      "number": "4905.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.15 - Reports and accounts.",
+      "number": "4905.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.16 - Copy of contract may be required by commission.",
+      "number": "4905.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.17 - Construction accounts.",
+      "number": "4905.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.18 - Depreciation account.",
+      "number": "4905.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.19 - Depreciation fund.",
+      "number": "4905.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.20 - Abandonment of facilities.",
+      "number": "4905.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.21 - Application to commission to abandon, withdraw or close.",
+      "number": "4905.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.22 - Service and facilities required - unreasonable charge prohibited.",
+      "number": "4905.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.23 - Electric generating plant closure prohibited.",
+      "number": "4905.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.26 - Complaints as to service.",
+      "number": "4905.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.261 - Telephone call center for consumer complaints.",
+      "number": "4905.261",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.261"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.27 - Standard units.",
+      "number": "4905.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.28 - Standards of measurement.",
+      "number": "4905.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.29 - Examinations and tests.",
+      "number": "4905.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.30 - Printed schedules of rates must be filed.",
+      "number": "4905.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.301 - Application to recover public way regulation costs.",
+      "number": "4905.301",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.301"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.302 - Purchased gas adjustment clause.",
+      "number": "4905.302",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.302"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.303 - Approving purchases of synthetic natural gas.",
+      "number": "4905.303",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.303"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.304 - Examining coal research and development costs incurred by gas or natural gas company.",
+      "number": "4905.304",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.304"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.31 - Reasonable arrangements allowed - variable rate.",
+      "number": "4905.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.311 - Behind the meter electric generation service regulation.",
+      "number": "4905.311",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.311"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.32 - Schedule rate collected.",
+      "number": "4905.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.321 - Refund of improper charges.",
+      "number": "4905.321",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.321"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.33 - Rebates, special rates, and free service prohibited.",
+      "number": "4905.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.331 - Settlement limitations.",
+      "number": "4905.331",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.331"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.34 - Free service or reduced rates.",
+      "number": "4905.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.35 - Prohibiting discrimination.",
+      "number": "4905.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.36 - Separate hearings.",
+      "number": "4905.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.37 - Commission may change rules and regulations of public utilities.",
+      "number": "4905.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.38 - Repairs and improvements may be ordered by commission.",
+      "number": "4905.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.39 - Power to require additions and extensions.",
+      "number": "4905.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.40 - Issuance of stocks, bonds, and notes.",
+      "number": "4905.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.401 - Issuing notes or other evidences of indebtedness.",
+      "number": "4905.401",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.401"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.402 - Acquiring or merging with domestic telephone or electric utility company or holding company.",
+      "number": "4905.402",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.402"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.403 - Filing control bid for a natural gas company.",
+      "number": "4905.403",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.403"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.41 - Proceedings to obtain authority.",
+      "number": "4905.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.42 - Hearings on issuance of stocks, bonds, and notes.",
+      "number": "4905.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.43 - Public utility in possession of receiver exempted.",
+      "number": "4905.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.45 - Indorsement of public utility or railroad securities.",
+      "number": "4905.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.46 - Restrictions on dividend or distribution.",
+      "number": "4905.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.47 - Capitalization.",
+      "number": "4905.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.48 - Transactions between public utilities.",
+      "number": "4905.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.481 - Purchase of municipal water-works or sewage disposal system company.",
+      "number": "4905.481",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.481"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.49 - Acquisition of water-works or sewage disposal system; rate division.",
+      "number": "4905.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.491 - Contents of order of approval.",
+      "number": "4905.491",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.491"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.51 - Use of equipment over street by other public utility.",
+      "number": "4905.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.52 - Refusal to answer questions in examination.",
+      "number": "4905.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.54 - Compliance with orders.",
+      "number": "4905.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.55 - Liability for act of agent.",
+      "number": "4905.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.56 - Violation.",
+      "number": "4905.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.57 - Actions to recover forfeitures.",
+      "number": "4905.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.58 - Indictment.",
+      "number": "4905.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.59 - Action for forfeiture by prosecuting attorney.",
+      "number": "4905.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.60 - Writ of mandamus - injunction.",
+      "number": "4905.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.61 - Treble damages.",
+      "number": "4905.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.62 - Limitation.",
+      "number": "4905.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.63 - Company formed to acquire property or transact business subject to certain laws.",
+      "number": "4905.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.64 - Forfeiture shall be cumulative.",
+      "number": "4905.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.65 - Local regulation restricting construction, location, or use of public utility facility.",
+      "number": "4905.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.70 - Energy conservation programs.",
+      "number": "4905.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.71 - Filing tariffs for charges for attachment to pole or conduit use of equipment.",
+      "number": "4905.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.72 - Changes in provider of natural gas service or public telecommunications service to consumer.",
+      "number": "4905.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.73 - Jurisdiction.",
+      "number": "4905.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.74 - Persistent practice or pattern of violative conduct.",
+      "number": "4905.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.74"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.75 - Payments to agent not considered past due.",
+      "number": "4905.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.79 - Tax credits for costs of service to aid communicatively impaired.",
+      "number": "4905.79",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.79"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.80 - State policy regarding motor carriers.",
+      "number": "4905.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.80"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.81 - Duties of public utilities commission.",
+      "number": "4905.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.84 - Annual assessment to pay for TRS service.",
+      "number": "4905.84",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.84"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.86 - Sulfur dioxide emission allowances.",
+      "number": "4905.86",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.86"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.87 - Biomass energy program fund.",
+      "number": "4905.87",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.87"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.90 - Natural gas pipeline safety standards definitions.",
+      "number": "4905.90",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.90"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.91 - Intrastate gas pipe-lines.",
+      "number": "4905.91",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.91"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.911 - Compliance with federal design requirements.",
+      "number": "4905.911",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.911"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.92 - Assessments against operators - pipe-line safety fund.",
+      "number": "4905.92",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.92"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.93 - Duties of operator.",
+      "number": "4905.93",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.93"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.94 - Operator of master-meter system.",
+      "number": "4905.94",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.94"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.95 - Notices, hearings and orders of commission.",
+      "number": "4905.95",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.95"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.96 - Civil action against operator.",
+      "number": "4905.96",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.96"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4905.99 - Penalty.",
+      "number": "4905.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.99"
+    }
+  ],
+  "scraped": "2026-07-02T20:09:00+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-4905",
+  "title": "Chapter 4905 - Public Utilities Commission - General Powers"
+}

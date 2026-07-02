@@ -1,0 +1,14 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3332.08
+Scraped: 2026-07-02T19:49:26+00:00
+
+# Section 3332.08 - Surety bond.
+
+**Effective:** July 1, 2003
+
+**Latest Legislation:** Senate Bill 266 - 124th General Assembly
+
+The application for a certificate of registration for a school located within Ohio shall be accompanied by a surety bond in a penal sum established by rule of the state board of career colleges and schools pursuant to Chapter 119. of the Revised Code with conditions and in a form prescribed by the board with at least one corporate bonding company approved by the department of insurance as surety thereon. Bond shall be maintained in effect for a period specified by rule of the board. The board may permit a school to cancel its bond if the school has been approved to participate in any federal student financial assistance program authorized under Title IV of the "Higher Education Act of 1965," 20 U.S.C.A. 1070 et seq., as amended, or if the school meets standards of financial responsibility otherwise established by the board. The bond shall provide for the indemnification of any person suffering prepaid tuition loss as the result of a school closure in accordance with section 3332.082 of the Revised Code.
+
+The liability of the surety on such bond for the school covered shall not exceed the sum of the bond as an aggregate for all students for all breaches of the conditions of the bond by the school. The term of the bond shall be continuous, but it shall be subject to cancellation by the surety in the manner described in this section. The bond shall provide blanket coverage for the acts of all persons engaged as agents of the school without naming them and without regard to the time they are engaged during the term of the bond.
+
+The surety may terminate the bond upon giving a sixty-day written notice to the principal and to the state board of career colleges and schools, but the liability of the surety for acts of the principal and its agents continues during the sixty days of cancellation notice. The notice does not absolve the surety from liability which accrues before the cancellation becomes final but which is discovered after that date and which may have arisen at any time during the term of the bond. Unless the bond is replaced by that of another surety before the expiration of the sixty days notice of cancellation, the certificate of registration shall be suspended. Any person subject to this section required to file a bond with an application for a certificate of registration may file, in lieu thereof, cash, a certificate of deposit, letter of credit, or government bonds in the amount established by the board. The deposit is subject to the same terms and conditions as are provided for in the surety bond required herein. Any interest or earnings on such deposits are payable to the depositor.

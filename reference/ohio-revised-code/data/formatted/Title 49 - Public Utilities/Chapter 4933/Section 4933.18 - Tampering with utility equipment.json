@@ -1,0 +1,42 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Utility\" means any electric light company, gas company, natural gas company, pipe-line company, water-works company, or heating or cooling company, as defined by division (C), (D), (E), (F), (G), or (H) of section 4905.03 of the Revised Code, its lessees, trustees, or receivers, or any similar utility owned or operated by a political subdivision.",
+      "id": "4933.18-utility",
+      "normalized": "utility",
+      "scope": "(B) As used in this section:",
+      "section": "4933.18",
+      "source_title": "Section 4933.18 - Tampering with utility equipment.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4933.18",
+      "term": "Utility"
+    },
+    {
+      "definition": "(2) \"Tamper\" means to interfere with, damage, or by-pass a utility meter, conduit, or attachment with the intent to impede the correct registration of a meter or the proper functions of a conduit or attachment so as to reduce the amount of utility service that is registered on the meter.",
+      "id": "4933.18-tamper",
+      "normalized": "tamper",
+      "scope": "(B) As used in this section:",
+      "section": "4933.18",
+      "source_title": "Section 4933.18 - Tampering with utility equipment.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4933.18",
+      "term": "Tamper"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2913.01",
+      "number": "2913.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2913.01"
+    },
+    {
+      "kind": "section",
+      "label": "4905.03",
+      "number": "4905.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.03"
+    }
+  ],
+  "scraped": "2026-07-02T20:09:34+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4933.18",
+  "title": "Section 4933.18 - Tampering with utility equipment."
+}

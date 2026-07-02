@@ -1,0 +1,28 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4717.28
+Scraped: 2026-07-02T20:06:40+00:00
+
+# Section 4717.28 - Records.
+
+**Effective:** September 13, 2022
+
+**Latest Legislation:** Senate Bill 224 - 134th General Assembly
+
+(A) No crematory facility shall fail to ensure that a written receipt is provided to the person who delivers a dead human body or body parts to the facility for cremation. If the dead human body is other than one that was donated to science for purposes of medical education or research, the receipt shall be signed by both a representative of the crematory facility and the person who delivered the decedent to the crematory facility and shall indicate the name of the decedent; the date and time of delivery; the type of casket or alternative container in which the decedent was delivered to the facility; the name of the person who delivered the decedent to the facility; if applicable, the name of the funeral home or other establishment with whom the delivery person is affiliated; and the name of the person who received the decedent on behalf of the facility. If the dead human body was donated to science for purposes of medical education or research, the receipt shall consist of a copy of the cremation authorization form executed under section 4717.21 , 4717.24 , or 4717.25 of the Revised Code that authorizes the cremation of the decedent or body parts that has been signed by both a representative of the crematory facility and the person who delivered the decedent or body parts to the crematory facility and that indicates the date and time of the delivery. The operator may provide the copy of the receipt to the person who delivered the decedent or body parts to the facility either in person or by certified mail, return receipt requested.
+
+(B) No crematory facility shall fail to ensure at the time of releasing cremated remains that a written receipt signed by both a representative of the crematory facility and the person who received the cremated remains is provided to the person who received the cremated remains. Unless the cremated remains are those of a dead human body that was donated to science for purposes of medical education or research or are those of body parts, the receipt shall indicate the name of the decedent; the date and time of the release; the name of the person to whom the cremated remains were released; if applicable, the name of the funeral home, cemetery, or other entity to whom the cremated remains were released; and the name of the person who released the cremated remains on behalf of the crematory facility. If the cremated remains are those of a dead human body that was donated to science for purposes of medical education or research or are those of body parts, the receipt shall consist of a copy of the cremation authorization form executed under section 4717.21 , 4717.24 , or 4717.25 of the Revised Code that authorizes the cremation of the decedent or body parts that has been signed by both a representative of the crematory facility and the person who received the cremated remains and that indicates the date and time of the release. If the cremated remains were delivered to the authorizing agent or other individual designated on the cremation authorization form by a method described in division (I) of section 4717.26 of the Revised Code that is acceptable under that division, the receipt required by this division shall accompany the cremated remains, and the signature of the authorizing agent or other designated individual on the delivery receipt meets the requirement of this division that the person receiving the cremated remains sign the receipt provided by the crematory facility.
+
+(C) For each cremation carried out at a crematory facility, the crematory facility shall make and keep on file the following records and documents for the time period described in division (E) of this section:
+
+(1) A copy of each receipt issued upon acceptance by or delivery to the crematory facility of a dead human body under division (A) of this section;
+
+(2) A copy of each delivery receipt issued under division (B) of this section;
+
+(3) A record of each cremation conducted at the facility, containing at least the name of the decedent or, in the case of body parts, the name of the decedent or living person from whom the body parts were removed, the date and time of the cremation, and the final disposition made of the cremated remains;
+
+(4) A separate record of the cremated remains of each decedent or the body parts removed from each decedent or living person that were disposed of in accordance with division (C)(1) or (2) of section 4717.27 of the Revised Code, containing at least the name of the decedent, the date and time of the cremation, and the location, date, and manner of final disposition of the cremated remains.
+
+(D) All records required to be maintained under sections 4717.21 to 4717.30 of the Revised Code are subject to inspection by the board of embalmers and funeral directors or an authorized representative of the board, upon reasonable notice, at any reasonable time.
+
+(E) The documents listed in divisions (C)(1) and (2) of this section shall be retained for the shorter of the time that the crematory facility remains engaged in the business of cremating dead human bodies or body parts or ten years following the date of the cremation. The documents listed in divisions (C)(3) and (4) of this section shall be retained during the time that the crematory facility remains engaged in the business of cremating dead human bodies or body parts.
+
+Last updated July 15, 2022 at 2:11 PM

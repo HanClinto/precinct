@@ -1,0 +1,86 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"License\" means a license the Ohio construction industry licensing board issues to an individual as a heating, ventilating, and air conditioning contractor, refrigeration contractor, electrical contractor, plumbing contractor, or hydronics contractor.",
+      "id": "4740.01-license",
+      "normalized": "license",
+      "scope": "As used in this chapter:",
+      "section": "4740.01",
+      "source_title": "Section 4740.01 - Construction industry licensing board definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4740.01",
+      "term": "License"
+    },
+    {
+      "definition": "(B) \"Contractor\" means any individual or contracting company that satisfies both of the following:\n\n(1) Has responsibility for the means, method, and manner of construction, improvement, renovation, repair, or maintenance on a construction project with respect to one or more trades and who offers, identifies, advertises, or otherwise holds out or represents that the individual or contracting company is permitted or qualified to perform or have responsibility for the means, method, and manner of construction, improvement, renovation, repair, or maintenance with respect to one or more trades on a construction project;\n\n(2) Does either of the following:\n\n(a) Performs construction, improvement, or renovation on a construction project with respect to the individual's or contracting company's trade;\n\n(b) Employs tradespersons who perform construction, improvement, or renovation on a construction project with respect to the individual's or contracting company's trades.",
+      "id": "4740.01-contractor",
+      "normalized": "contractor",
+      "scope": "As used in this chapter:",
+      "section": "4740.01",
+      "source_title": "Section 4740.01 - Construction industry licensing board definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4740.01",
+      "term": "Contractor"
+    },
+    {
+      "definition": "(C) \"Contracting company\" means a company in the construction industry working on construction projects.",
+      "id": "4740.01-contracting-company",
+      "normalized": "contracting company",
+      "scope": "As used in this chapter:",
+      "section": "4740.01",
+      "source_title": "Section 4740.01 - Construction industry licensing board definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4740.01",
+      "term": "Contracting company"
+    },
+    {
+      "definition": "(D) \"Licensed trade\" means a trade performed by a heating, ventilating, and air conditioning contractor, a refrigeration contractor, an electrical contractor, a plumbing contractor, or a hydronics contractor.",
+      "id": "4740.01-licensed-trade",
+      "normalized": "licensed trade",
+      "scope": "As used in this chapter:",
+      "section": "4740.01",
+      "source_title": "Section 4740.01 - Construction industry licensing board definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4740.01",
+      "term": "Licensed trade"
+    },
+    {
+      "definition": "(E) \"Tradesperson\" means any individual who is employed by a contractor and who engages in construction, improvement, renovation, repair, or maintenance of buildings or structures without assuming responsibility for the means, method, or manner of that construction, improvement, renovation, repair, or maintenance.",
+      "id": "4740.01-tradesperson",
+      "normalized": "tradesperson",
+      "scope": "As used in this chapter:",
+      "section": "4740.01",
+      "source_title": "Section 4740.01 - Construction industry licensing board definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4740.01",
+      "term": "Tradesperson"
+    },
+    {
+      "definition": "(F) \"Construction project\" means a construction project involving a building or structure subject to Chapter 3781. of the Revised Code and the rules adopted under that chapter, but not an industrialized unit or a residential building as defined in section 3781.06 of the Revised Code.",
+      "id": "4740.01-construction-project",
+      "normalized": "construction project",
+      "scope": "As used in this chapter:",
+      "section": "4740.01",
+      "source_title": "Section 4740.01 - Construction industry licensing board definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4740.01",
+      "term": "Construction project"
+    },
+    {
+      "definition": "(G) \"Training agency\" means an entity approved by the administrative section of the board to provide continuing education courses.",
+      "id": "4740.01-training-agency",
+      "normalized": "training agency",
+      "scope": "As used in this chapter:",
+      "section": "4740.01",
+      "source_title": "Section 4740.01 - Construction industry licensing board definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4740.01",
+      "term": "Training agency"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3781.06",
+      "number": "3781.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.06"
+    }
+  ],
+  "scraped": "2026-07-02T20:07:21+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4740.01",
+  "title": "Section 4740.01 - Construction industry licensing board definitions."
+}

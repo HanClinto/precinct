@@ -1,0 +1,38 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5815.35
+Scraped: 2026-07-02T20:16:17+00:00
+
+# Section 5815.35 - General partners acting as fiduciary.
+
+**Effective:** October 12, 2016
+
+**Latest Legislation:** House Bill 158 - 131st General Assembly
+
+(A)(1) As used in this division, "fiduciary" means any person, association, or corporation, other than a trustee of a testamentary trust, an assignee or trustee for an insolvent debtor, or a guardian under Chapter 5905. of the Revised Code, that is appointed by and accountable to the probate court, and that is acting in a fiduciary capacity for another or charged with duties in relation to any property, interest, or estate for another's benefit. A fiduciary also includes an agency under contract with the department of developmental disabilities for the provision of protective service under sections 5123.55 to 5123.59 of the Revised Code, when appointed by and accountable to the probate court as a guardian or trustee for a person with a developmental disability.
+
+(2) A fiduciary who enters a contract as fiduciary on or after March 22, 1984, is not personally liable on that contract, unless the contract otherwise specifies, if the contract is within the fiduciary's authority and the fiduciary discloses that the contract is being entered into in a fiduciary capacity. In a contract, the words "fiduciary" or "as fiduciary" or other words that indicate one's fiduciary capacity following the name or signature of a fiduciary are sufficient disclosure for purposes of this division.
+
+(B)(1) As used in this division, "partnership" includes a partnership composed of only general partners and a partnership composed of general and limited partners.
+
+(2) Subject to division (D) of this section, an executor or administrator who acquires, in a fiduciary capacity, a general partnership interest upon the death of a general partner of a partnership is not personally liable for any debt, obligation, or liability of the partnership that arises from the executor's or administrator's actions, except as provided in this division, as a general partner, or for any debt, obligation, or liability of the partnership for which the executor or administrator otherwise would be personally liable because the executor or administrator holds the general partnership interest, if the executor or administrator discloses that the general partnership interest is held by the executor or administrator in a fiduciary capacity. This immunity does not apply if an executor or administrator causes loss or injury to a person who is not a partner in the partnership by a wrongful act or omission. This immunity is not available to an executor or administrator who holds a general partnership interest in a fiduciary capacity if the spouse or any lineal descendants of the executor or administrator, or the executor or administrator other than in a fiduciary capacity, holds any interest in the partnership.
+
+A partnership certificate that is filed pursuant to Chapter 1777. or another chapter of the Revised Code and that indicates that an executor or administrator holds a general partnership interest in a fiduciary capacity by the use following the name or signature of the executor or administrator of the words "executor under the will of (name of decedent)" or "administrator of the estate of (name of decedent)" or other words that indicate the executor's or administrator's fiduciary capacity constitutes a sufficient disclosure for purposes of this division.
+
+If a partnership certificate is not required to be filed pursuant to Chapter 1776. or 1777. or another chapter of the Revised Code, a sufficient disclosure for purposes of this division can be made by an executor or administrator if a certificate that satisfies the following requirements is filed with the recorder of the county in which the partnership's principal office or place of business is situated and with the recorder of each county in which the partnership owns real estate:
+
+(a) The certificate shall state in full the names of all persons holding interests in the partnership and their places of residence;
+
+(b) The certificate shall be signed by all persons who are general partners in the partnership, and shall be acknowledged by a person authorized to take acknowledgements of deeds;
+
+(c) The certificate shall use the words "executor under the will of (name of decedent)" or "administrator of the estate of (name of decedent)" or other words that indicate the executor's or administrator's fiduciary capacity, following the name or signature of the executor or administrator.
+
+A contract or other written instrument delivered to a party that contracts with the partnership in which an executor or administrator holds a general partnership interest in a fiduciary capacity, that indicates that the executor or administrator so holds the interest, constitutes a disclosure for purposes of this division with respect to transactions between the party and the partnership. If a disclosure has been made by a certificate in accordance with this division, a disclosure for purposes of this division with respect to such transactions exists regardless of whether a contract or other instrument indicates the executor or administrator holds the general partnership interest in a fiduciary capacity.
+
+If an executor or administrator acquires, in a fiduciary capacity, a general partnership interest, the decedent's estate is liable for debts, obligations, or liabilities of the partnership.
+
+(C) An estate that includes a general partnership interest is not liable for the debts, obligations, or liabilities of a partnership in which another estate has a general partnership interest, merely because the executor or administrator of the estates holds a general partnership interest in both of the partnerships in the executor's or administrator's fiduciary capacities.
+
+(D) Divisions (B) and (C) of this section apply to general partnership interests held by executors or administrators in their fiduciary capacities prior to and on or after March 22, 1984. If an appropriate disclosure is made pursuant to division (B) of this section, the immunity acquired under that division extends only to debts, obligations, and liabilities of the partnership arising on and after the date of the disclosure and to debts, obligations, and liabilities of the partnership that arose prior to the acquisition of the general partnership interest by the executor or administrator becoming a general partner.
+
+(E) The liability limitations in this section apply to fiduciaries as partners notwithstanding the broader personal liabilities otherwise imposed by any partnership law.
+
+(F) If an estate or other fund held by a fiduciary is identified as a partner, the reference is deemed to be to, and the partner is, the current executor, administrator, or other fiduciary of the estate or other fund and their successors as executors, administrators, or other fiduciaries.

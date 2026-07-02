@@ -1,0 +1,44 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5751.42
+Scraped: 2026-07-02T20:15:36+00:00
+
+# Section 5751.42 - Integrated supply chains.
+
+**Effective:** March 27, 2020
+
+**Latest Legislation:** House Bill 197 - 133rd General Assembly
+
+(A) As used in this section and division (F)(2)(jj) of section 5751.01 of the Revised Code:
+
+(1) "Qualifying integrated supply chain receipts" means receipts of a qualified integrated supply chain vendor from the sale of qualified property delivered to, or integrated supply chain services provided to, another qualified integrated supply chain vendor or to a retailer that is a member of the integrated supply chain. "Qualifying integrated supply chain receipts" does not include receipts of a person that is not a qualified integrated supply chain vendor from the sale of raw materials to a member of an integrated supply chain, or receipts of a member of an integrated supply chain from the sale of qualified property or integrated supply chain services to a person that is not a member of the integrated supply chain.
+
+(2) "Qualified property" means any of the following:
+
+(a) Component parts used to hold, contain, package, or dispense qualified products, excluding equipment.
+
+(b) Work-in-process inventory that will become, comprise, or form a component part of a qualified product capable of being sold at retail, excluding equipment, machinery, furniture, and fixtures.
+
+(c) Finished goods inventory that is a qualified product capable of being sold at retail in the inventory's present form.
+
+(3) "Qualified integrated supply chain vendor" means a person that is a member of an integrated supply chain and that provides integrated supply chain services within a qualified integrated supply chain district to a retailer that is a member of the integrated supply chain or to another qualified integrated supply chain vendor that is located within the same such district as the person but does not share a common owner with that person.
+
+(4) "Qualified product" means a personal care, health, or beauty product or an aromatic product, including a candle. "Qualified product" does not include a drug that may be dispensed only pursuant to a prescription, durable medical equipment, mobility enhancing equipment, or a prosthetic device, as those terms are defined in section 5739.01 of the Revised Code.
+
+(5) "Integrated supply chain" means two or more qualified integrated supply chain vendors certified on the most recent list certified to the tax commissioner under division (B) of this section that systematically collaborate and coordinate business operations with a retailer on the flow of tangible personal property from material sourcing through manufacturing, assembly, packaging, and delivery to the retailer to improve long-term financial performance of each vendor and the supply chain that includes the retailer.
+
+(6) "Integrated supply chain services" means procuring raw materials or manufacturing, processing, refining, assembling, packaging, or repackaging tangible personal property that will become finished goods inventory capable of being sold at retail by a retailer that is a member of an integrated supply chain.
+
+(7) "Retailer" means a person primarily engaged in making retail sales and any member of that person's consolidated elected taxpayer group or combined taxpayer group, whether or not that member is primarily engaged in making retail sales.
+
+(8) "Qualified integrated supply chain district" means the parcel or parcels of land from which a retailer's integrated supply chain that existed on September 29, 2015, provides or receives integrated supply chain services, and to which all of the following apply:
+
+(a) The parcel or parcels are located wholly in a county having a population of greater than one hundred sixty-five thousand but less than one hundred seventy thousand based on the 2010 federal decennial census.
+
+(b) The parcel or parcels are located wholly in the corporate limits of a municipal corporation with a population greater than seven thousand five hundred and less than eight thousand based on the 2010 federal decennial census that is partly located in the county described in division (A)(8)(a) of this section, as those corporate limits existed on September 29, 2015.
+
+(c) The aggregate acreage of the parcel or parcels equals or exceeds one hundred acres.
+
+(B) For the purpose of the certification under division (A)(5) of this section, the reporting person for each retailer, on or before the first day of October of each year, shall certify to the tax commissioner a list of the qualified integrated supply chain vendors providing or receiving integrated supply chain services within a qualified integrated supply chain district for the ensuing calendar year. On or before the following first day of November, the commissioner shall issue a certificate to the retailer and to each vendor certified to the commissioner on that list. The certificate shall include the names of the retailer and of the qualified integrated supply chain vendors.
+
+The retailer shall notify the commissioner of any changes to the list, including additions to or subtractions from the list or changes in the name or legal entity of vendors certified on the list, within sixty days after the date the retailer becomes aware of the change. Within thirty days after receiving that notification, the commissioner shall issue a revised certificate to the retailer and to each vendor certified on the list. The revised certificate shall include the effective date of the change.
+
+Each recipient of a certificate issued pursuant to this division shall maintain a copy of the certificate for four years from the date the certificate was received.

@@ -1,0 +1,14 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5119.85
+Scraped: 2026-07-02T20:10:42+00:00
+
+# Section 5119.85 - 9-8-8 hotline liability exemption.
+
+**Effective:** September 30, 2025
+
+**Latest Legislation:** House Bill 96 - 136th General Assembly
+
+(A) As used in this section, "telephone company" has the same meaning as in section 128.01 of the Revised Code.
+
+(B) Except for willful or wanton misconduct, a telephone company, a provider of interconnected voice over internet protocol service, and any other installer, maintainer, or provider, through the sale or otherwise, of customer premises equipment, or service used for or with the 9-8-8 hotline, and their respective officers, directors, employees, agents, suppliers, corporate parents, and affiliates are not liable in damages in a civil action for injuries, death or loss to persons or property incurred by any person resulting from such an entity's or its officers', directors', employees', agents', or suppliers' participation in or acts or omissions in connection with participating in or developing, maintaining, or operating the 9-8-8 hotline.
+
+Last updated August 8, 2025 at 11:19 AM

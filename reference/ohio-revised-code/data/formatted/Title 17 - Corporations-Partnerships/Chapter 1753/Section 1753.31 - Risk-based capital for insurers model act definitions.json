@@ -1,0 +1,210 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Adjusted RBC report\" means an RBC report that has been adjusted by the superintendent of insurance in accordance with division (C) of section 1753.32 of the Revised Code.",
+      "id": "1753.31-adjusted-rbc-report",
+      "normalized": "adjusted rbc report",
+      "scope": "As used in sections 1753.31 to 1753.43 of the Revised Code:",
+      "section": "1753.31",
+      "source_title": "Section 1753.31 - Risk-based capital for insurers model act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1753.31",
+      "term": "Adjusted RBC report"
+    },
+    {
+      "definition": "(B) \"Authorized control level RBC\" means the number determined under the risk-based capital formula in accordance with the RBC instructions.",
+      "id": "1753.31-authorized-control-level-rbc",
+      "normalized": "authorized control level rbc",
+      "scope": "As used in sections 1753.31 to 1753.43 of the Revised Code:",
+      "section": "1753.31",
+      "source_title": "Section 1753.31 - Risk-based capital for insurers model act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1753.31",
+      "term": "Authorized control level RBC"
+    },
+    {
+      "definition": "(C) \"Company action level RBC\" means the product of 2.0 and a health insuring corporation's authorized control level RBC.",
+      "id": "1753.31-company-action-level-rbc",
+      "normalized": "company action level rbc",
+      "scope": "As used in sections 1753.31 to 1753.43 of the Revised Code:",
+      "section": "1753.31",
+      "source_title": "Section 1753.31 - Risk-based capital for insurers model act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1753.31",
+      "term": "Company action level RBC"
+    },
+    {
+      "definition": "(D) \"Corrective order\" means an order issued by the superintendent of insurance specifying corrective actions that the superintendent determines are required.",
+      "id": "1753.31-corrective-order",
+      "normalized": "corrective order",
+      "scope": "As used in sections 1753.31 to 1753.43 of the Revised Code:",
+      "section": "1753.31",
+      "source_title": "Section 1753.31 - Risk-based capital for insurers model act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1753.31",
+      "term": "Corrective order"
+    },
+    {
+      "definition": "(E) \"Domestic health insuring corporation\" means a health insuring corporation domiciled in this state.",
+      "id": "1753.31-domestic-health-insuring-corporation",
+      "normalized": "domestic health insuring corporation",
+      "scope": "As used in sections 1753.31 to 1753.43 of the Revised Code:",
+      "section": "1753.31",
+      "source_title": "Section 1753.31 - Risk-based capital for insurers model act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1753.31",
+      "term": "Domestic health insuring corporation"
+    },
+    {
+      "definition": "(F) \"Foreign health insuring corporation\" means a health insuring corporation holding a certificate of authority under chapter 1751. of the Revised Code that is domiciled outside of this state.",
+      "id": "1753.31-foreign-health-insuring-corporation",
+      "normalized": "foreign health insuring corporation",
+      "scope": "As used in sections 1753.31 to 1753.43 of the Revised Code:",
+      "section": "1753.31",
+      "source_title": "Section 1753.31 - Risk-based capital for insurers model act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1753.31",
+      "term": "Foreign health insuring corporation"
+    },
+    {
+      "definition": "(G) \"Mandatory control level RBC\" means the product of .70 and a health insuring corporation's authorized control level RBC.",
+      "id": "1753.31-mandatory-control-level-rbc",
+      "normalized": "mandatory control level rbc",
+      "scope": "As used in sections 1753.31 to 1753.43 of the Revised Code:",
+      "section": "1753.31",
+      "source_title": "Section 1753.31 - Risk-based capital for insurers model act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1753.31",
+      "term": "Mandatory control level RBC"
+    },
+    {
+      "definition": "(H) \"NAIC\" means the national association of insurance commissioners.",
+      "id": "1753.31-naic",
+      "normalized": "naic",
+      "scope": "As used in sections 1753.31 to 1753.43 of the Revised Code:",
+      "section": "1753.31",
+      "source_title": "Section 1753.31 - Risk-based capital for insurers model act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1753.31",
+      "term": "NAIC"
+    },
+    {
+      "definition": "(I) \"Net worth\" means statutory capital and surplus.",
+      "id": "1753.31-net-worth",
+      "normalized": "net worth",
+      "scope": "As used in sections 1753.31 to 1753.43 of the Revised Code:",
+      "section": "1753.31",
+      "source_title": "Section 1753.31 - Risk-based capital for insurers model act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1753.31",
+      "term": "Net worth"
+    },
+    {
+      "definition": "(J) \"RBC\" means risk-based capital.",
+      "id": "1753.31-rbc",
+      "normalized": "rbc",
+      "scope": "As used in sections 1753.31 to 1753.43 of the Revised Code:",
+      "section": "1753.31",
+      "source_title": "Section 1753.31 - Risk-based capital for insurers model act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1753.31",
+      "term": "RBC"
+    },
+    {
+      "definition": "(K) \"RBC instructions\" means the RBC report, including risk-based capital instructions, as adopted by the NAIC and as amended by the NAIC from time to time in accordance with the procedures adopted by the NAIC. \"RBC instructions\" also includes any modifications adopted by the superintendent of insurance, as the superintendent considers to be necessary.",
+      "id": "1753.31-rbc-instructions",
+      "normalized": "rbc instructions",
+      "scope": "As used in sections 1753.31 to 1753.43 of the Revised Code:",
+      "section": "1753.31",
+      "source_title": "Section 1753.31 - Risk-based capital for insurers model act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1753.31",
+      "term": "RBC instructions"
+    },
+    {
+      "definition": "(L) \"RBC level\" means a health insuring corporation's action level RBC, regulatory action level RBC, authorized control level RBC, or mandatory control level RBC.",
+      "id": "1753.31-rbc-level",
+      "normalized": "rbc level",
+      "scope": "As used in sections 1753.31 to 1753.43 of the Revised Code:",
+      "section": "1753.31",
+      "source_title": "Section 1753.31 - Risk-based capital for insurers model act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1753.31",
+      "term": "RBC level"
+    },
+    {
+      "definition": "(M) \"RBC plan\" means a comprehensive financial plan containing the elements specified in division (B) of section 1753.33 of the Revised Code.",
+      "id": "1753.31-rbc-plan",
+      "normalized": "rbc plan",
+      "scope": "As used in sections 1753.31 to 1753.43 of the Revised Code:",
+      "section": "1753.31",
+      "source_title": "Section 1753.31 - Risk-based capital for insurers model act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1753.31",
+      "term": "RBC plan"
+    },
+    {
+      "definition": "(N) \"RBC report\" means the report required by section 1753.32 of the Revised Code.",
+      "id": "1753.31-rbc-report",
+      "normalized": "rbc report",
+      "scope": "As used in sections 1753.31 to 1753.43 of the Revised Code:",
+      "section": "1753.31",
+      "source_title": "Section 1753.31 - Risk-based capital for insurers model act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1753.31",
+      "term": "RBC report"
+    },
+    {
+      "definition": "(O) \"Regulatory action level RBC\" means the product of 1.5 and a health insuring corporation's authorized control level RBC.",
+      "id": "1753.31-regulatory-action-level-rbc",
+      "normalized": "regulatory action level rbc",
+      "scope": "As used in sections 1753.31 to 1753.43 of the Revised Code:",
+      "section": "1753.31",
+      "source_title": "Section 1753.31 - Risk-based capital for insurers model act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1753.31",
+      "term": "Regulatory action level RBC"
+    },
+    {
+      "definition": "(P) \"Revised RBC plan\" means an RBC plan rejected by the superintendent of insurance and then revised by a health insuring corporation with or without incorporating the superintendent's recommendations.",
+      "id": "1753.31-revised-rbc-plan",
+      "normalized": "revised rbc plan",
+      "scope": "As used in sections 1753.31 to 1753.43 of the Revised Code:",
+      "section": "1753.31",
+      "source_title": "Section 1753.31 - Risk-based capital for insurers model act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1753.31",
+      "term": "Revised RBC plan"
+    },
+    {
+      "definition": "(Q) \"Total adjusted capital\" means the sum of both of the following:\n\n(1) A health insuring corporation's net worth as determined in accordance with the statutory accounting applicable to the annual financial statements required to be filed under section 1751.32 of the Revised Code;\n\n(2) Such other items, if any, as the RBC instructions may provide.",
+      "id": "1753.31-total-adjusted-capital",
+      "normalized": "total adjusted capital",
+      "scope": "As used in sections 1753.31 to 1753.43 of the Revised Code:",
+      "section": "1753.31",
+      "source_title": "Section 1753.31 - Risk-based capital for insurers model act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1753.31",
+      "term": "Total adjusted capital"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "1753.31",
+      "number": "1753.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1753.31"
+    },
+    {
+      "kind": "section",
+      "label": "1753.43",
+      "number": "1753.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1753.43"
+    },
+    {
+      "kind": "section",
+      "label": "1753.32",
+      "number": "1753.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1753.32"
+    },
+    {
+      "kind": "section",
+      "label": "1753.33",
+      "number": "1753.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1753.33"
+    },
+    {
+      "kind": "section",
+      "label": "1751.32",
+      "number": "1751.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.32"
+    }
+  ],
+  "scraped": "2026-07-02T19:39:29+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1753.31",
+  "title": "Section 1753.31 - Risk-based capital for insurers model act definitions."
+}

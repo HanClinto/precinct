@@ -1,0 +1,10 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4738.09
+Scraped: 2026-07-02T20:07:18+00:00
+
+# Section 4738.09 - Organization of motor vehicle salvage dealer's licensing board.
+
+**Effective:** October 12, 1994
+
+**Latest Legislation:** House Bill 687 - 120th General Assembly
+
+The motor vehicle salvage dealer's licensing board shall consist of five members. The registrar of motor vehicles or his designee shall be a member of the board, and the other four members shall be appointed by the governor with the advice and consent of the senate. Two appointed members shall have operated as a motor vehicle salvage dealer, salvage motor vehicle auction, or salvage motor vehicle pool in this state for at least five years and have been engaged in the business within two years previous to the date of their appointment. Two appointed members shall represent the public and shall not have been engaged in any such business or operation. Not more than two members other than the registrar shall be of any one political party. Terms of office of the four members appointed by the governor shall commence on the first day of August and end on the last day of July, and be for three years, except that one initial term shall be for one year, and one initial term shall be for two years. Each member shall hold office from the date of his appointment until the end of the term for which he was appointed. Any member appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall hold office for the remainder of such term. Any appointed member shall continue in office subsequent to the expiration date of his term until his successor takes office, or until a period of sixty days has elapsed, whichever occurs first. Annually the board shall organize by selecting from its members a president. Each appointed member of the board shall receive an amount fixed in accordance with division (J) of section 124.15 of the Revised Code for each day of actual service during the meetings of the board, and shall be reimbursed for the actual and necessary expenses incurred in the discharge of his official duties.

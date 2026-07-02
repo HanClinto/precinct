@@ -1,0 +1,160 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Owner,\" \"part owner,\" or \"lessee\" includes all the interests either legal or equitable, which such person may have in the real estate upon which the improvements are made, including the interests held by any person under contracts of purchase, whether in writing or otherwise.",
+      "id": "1311.01-owner",
+      "normalized": "owner,",
+      "scope": "As used in sections 1311.01 to 1311.22 of the Revised Code:",
+      "section": "1311.01",
+      "source_title": "Section 1311.01 - Lien definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1311.01",
+      "term": "Owner,"
+    },
+    {
+      "definition": "(A) \"Owner,\" \"part owner,\" or \"lessee\" includes all the interests either legal or equitable, which such person may have in the real estate upon which the improvements are made, including the interests held by any person under contracts of purchase, whether in writing or otherwise.",
+      "id": "1311.01-part-owner",
+      "normalized": "part owner,",
+      "scope": "As used in sections 1311.01 to 1311.22 of the Revised Code:",
+      "section": "1311.01",
+      "source_title": "Section 1311.01 - Lien definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1311.01",
+      "term": "part owner,"
+    },
+    {
+      "definition": "(A) \"Owner,\" \"part owner,\" or \"lessee\" includes all the interests either legal or equitable, which such person may have in the real estate upon which the improvements are made, including the interests held by any person under contracts of purchase, whether in writing or otherwise.",
+      "id": "1311.01-lessee",
+      "normalized": "lessee",
+      "scope": "As used in sections 1311.01 to 1311.22 of the Revised Code:",
+      "section": "1311.01",
+      "source_title": "Section 1311.01 - Lien definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1311.01",
+      "term": "lessee"
+    },
+    {
+      "definition": "(B) \"Material supplier\" includes any person by whom any materials are furnished in furtherance of an improvement.",
+      "id": "1311.01-material-supplier",
+      "normalized": "material supplier",
+      "scope": "As used in sections 1311.01 to 1311.22 of the Revised Code:",
+      "section": "1311.01",
+      "source_title": "Section 1311.01 - Lien definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1311.01",
+      "term": "Material supplier"
+    },
+    {
+      "definition": "(C) \"Laborer\" includes any mechanic, worker, artisan, or other individual who performs labor or work in furtherance of any improvement.",
+      "id": "1311.01-laborer",
+      "normalized": "laborer",
+      "scope": "As used in sections 1311.01 to 1311.22 of the Revised Code:",
+      "section": "1311.01",
+      "source_title": "Section 1311.01 - Lien definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1311.01",
+      "term": "Laborer"
+    },
+    {
+      "definition": "(D) \"Subcontractor\" includes any person who undertakes to construct, alter, erect, improve, repair, demolish, remove, dig, or drill any part of any improvement under a contract with any person other than the owner, part owner, or lessee.\n\n(E) \"Original contractor,\" except as otherwise provided in section 1311.011 of the Revised Code, includes a construction manager and any person who undertakes to construct, alter, erect, improve, repair, demolish, remove, dig, or drill any part of any improvement under a contract with an owner, part owner, or lessee.",
+      "id": "1311.01-subcontractor",
+      "normalized": "subcontractor",
+      "scope": "As used in sections 1311.01 to 1311.22 of the Revised Code:",
+      "section": "1311.01",
+      "source_title": "Section 1311.01 - Lien definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1311.01",
+      "term": "Subcontractor"
+    },
+    {
+      "definition": "(F) \"Construction manager\" means a person with substantial discretion and authority to manage or direct an improvement, provided that the person is in direct privity of contract with the owner, part owner, or lessee of the improvement.",
+      "id": "1311.01-construction-manager",
+      "normalized": "construction manager",
+      "scope": "As used in sections 1311.01 to 1311.22 of the Revised Code:",
+      "section": "1311.01",
+      "source_title": "Section 1311.01 - Lien definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1311.01",
+      "term": "Construction manager"
+    },
+    {
+      "definition": "(G) \"Notice of commencement\" means the notice specified in section 1311.04 of the Revised Code.",
+      "id": "1311.01-notice-of-commencement",
+      "normalized": "notice of commencement",
+      "scope": "As used in sections 1311.01 to 1311.22 of the Revised Code:",
+      "section": "1311.01",
+      "source_title": "Section 1311.01 - Lien definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1311.01",
+      "term": "Notice of commencement"
+    },
+    {
+      "definition": "(H) \"Notice of furnishing\" means the notice specified in section 1311.05 of the Revised Code.",
+      "id": "1311.01-notice-of-furnishing",
+      "normalized": "notice of furnishing",
+      "scope": "As used in sections 1311.01 to 1311.22 of the Revised Code:",
+      "section": "1311.01",
+      "source_title": "Section 1311.01 - Lien definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1311.01",
+      "term": "Notice of furnishing"
+    },
+    {
+      "definition": "(I) \"Materials\" means all products and substances including, without limitation, any gasoline, lubricating oil, petroleum products, powder, dynamite, blasting supplies and other explosives, tools, equipment, or machinery furnished in furtherance of an improvement.",
+      "id": "1311.01-materials",
+      "normalized": "materials",
+      "scope": "As used in sections 1311.01 to 1311.22 of the Revised Code:",
+      "section": "1311.01",
+      "source_title": "Section 1311.01 - Lien definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1311.01",
+      "term": "Materials"
+    },
+    {
+      "definition": "(J) \"Improvement\" means constructing, erecting, altering, repairing, demolishing, or removing any building or appurtenance thereto, fixture, bridge, or other structure, and any gas pipeline or well including, but not limited to, a well drilled or constructed for the production of oil or gas; the furnishing of tile for the drainage of any lot or land; the excavation, cleanup, or removal of hazardous material or waste from real property; the enhancement or embellishment of real property by seeding, sodding, or the planting thereon of any shrubs, trees, plants, vines, small fruits, flowers, or nursery stock of any kind; and the grading or filling to establish a grade.",
+      "id": "1311.01-improvement",
+      "normalized": "improvement",
+      "scope": "As used in sections 1311.01 to 1311.22 of the Revised Code:",
+      "section": "1311.01",
+      "source_title": "Section 1311.01 - Lien definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1311.01",
+      "term": "Improvement"
+    },
+    {
+      "definition": "(K) \"Wages\" means the basic hourly rate of pay and all other contractually owed benefits.",
+      "id": "1311.01-wages",
+      "normalized": "wages",
+      "scope": "As used in sections 1311.01 to 1311.22 of the Revised Code:",
+      "section": "1311.01",
+      "source_title": "Section 1311.01 - Lien definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1311.01",
+      "term": "Wages"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "1311.01",
+      "number": "1311.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.01"
+    },
+    {
+      "kind": "section",
+      "label": "1311.22",
+      "number": "1311.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.22"
+    },
+    {
+      "kind": "section",
+      "label": "1311.011",
+      "number": "1311.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.011"
+    },
+    {
+      "kind": "section",
+      "label": "1311.04",
+      "number": "1311.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.04"
+    },
+    {
+      "kind": "section",
+      "label": "1311.05",
+      "number": "1311.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1311.05"
+    }
+  ],
+  "scraped": "2026-07-02T19:37:10+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1311.01",
+  "title": "Section 1311.01 - Lien definitions."
+}

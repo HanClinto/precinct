@@ -1,0 +1,14 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-1125.01
+Scraped: 2026-07-02T19:36:56+00:00
+
+# Section 1125.01 - Jurisdiction of court.
+
+**Effective:** January 1, 2018
+
+**Latest Legislation:** House Bill 49 - 132nd General Assembly
+
+(A) As used in this chapter, "court" means the court of common pleas of the county in which the principal place of business of a state bank, as set forth in its articles of incorporation, is located or of any other county determined by the superintendent of financial institutions to be appropriate under the circumstances.
+
+(B) The court shall have exclusive original jurisdiction of any action or proceeding relating to or arising out of the taking of possession of the property and business of a state bank under this chapter, whether before or after the bank is wound up and dissolved, as well as any action or other proceeding brought under this chapter.
+
+(C) Whenever the approval of the court is required for any act under this chapter, that approval may be given with or without a hearing held upon whatever notice, if any, the court may direct, unless otherwise provided in this chapter. At a hearing, the court, by order, may approve the actions petitioned.

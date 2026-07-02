@@ -1,0 +1,26 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3333.0418
+Scraped: 2026-07-02T19:49:28+00:00
+
+# Section 3333.0418 - Mental health and wellness report.
+
+**Effective:** July 21, 2022
+
+**Latest Legislation:** Senate Bill 135 - 134th General Assembly
+
+(A) As used in this section, "state institution of higher education" has the same meaning as in section 3345.011 of the Revised Code.
+
+(B) The chancellor of higher education annually shall issue, to the extent practicable, a report about the mental health and wellness services and initiatives of state institutions of higher education. The report shall include all of the following:
+
+(1) A description of each state institution of higher education's mental health and wellness services and initiatives;
+
+(2) A summary of how much funding each state institution of higher education dedicates to mental health and wellness services and initiatives, including the percentage of that funding that is used for administrative costs;
+
+(3) Any other information the chancellor determines appropriate.
+
+(C) Each state institution of higher education shall submit to the chancellor, in a form and manner prescribed by the chancellor, any information or data the chancellor requires to issue the report prescribed under this section.
+
+(D) The chancellor shall submit the report prescribed under this section to the general assembly in accordance with section 101.68 of the Revised Code.
+
+(E) The chancellor may adopt rules to implement this section.
+
+Last updated April 27, 2022 at 4:47 PM

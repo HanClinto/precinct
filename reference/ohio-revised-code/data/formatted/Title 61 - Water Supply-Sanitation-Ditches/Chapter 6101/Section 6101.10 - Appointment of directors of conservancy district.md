@@ -1,0 +1,14 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-6101.10
+Scraped: 2026-07-02T20:17:05+00:00
+
+# Section 6101.10 - Appointment of directors of conservancy district.
+
+**Effective:** July 19, 1994
+
+**Latest Legislation:** House Bill 450 - 120th General Assembly
+
+(A) Except as provided in division (B) of this section, within thirty days after entering the decree incorporating a conservancy district, the court shall appoint three persons, at least two of whom are residents of counties, all or part of which are included within the territorial limits of the district, as a board of directors of the conservancy district, one for a term of three years, one for a term of five years, and one for a term of seven years. At the expiration of their terms of office, appointments shall be made for terms of five years. The court shall fill any vacancy which may occur on the board for the unexpired term.
+
+(B) Within thirty days after entering a decree under section 6101.09 of the Revised Code incorporating a conservancy district that includes all or parts of more than sixteen counties, the court shall appoint five persons, each of whom is a resident of a different county and at least three of whom are residents of counties all or part of which are included within the territorial limits of the district, as a board of directors of the conservancy district. Of the initial appointments made to the board, one shall be for a term of three years, one for a term of four years, one for a term of five years, one for a term of six years, and one for a term of seven years. At the expiration of their terms of office, appointments shall be made for terms of five years. The court shall fill any vacancy which may occur on the board for the unexpired term.
+
+(C) Within thirty days after issuing an order under section 6101.30 or 6101.72 of the Revised Code annexing lands to a district and resulting in a district that includes all or parts of more than sixteen counties, the court shall appoint to the board of directors two additional members, each of whom is a resident of a different county and does not reside in the same county as any member of the existing board, for terms of not more than five years, provided that the terms of those two members shall not expire in the same year or in the year in which any existing member's term expires. At the expiration of their terms of office, appointments shall be made for terms of five years. In appointing the two additional members, the court shall ensure that at least three of the five members of the board are residents of counties all or part of which are included within the territorial limits of the district. The court shall fill any vacancy which may occur on the board for the unexpired term and, in filling vacancies or making subsequent appointments, shall ensure that all members of the board reside in different counties.

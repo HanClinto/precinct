@@ -1,0 +1,10 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5711.03
+Scraped: 2026-07-02T20:14:29+00:00
+
+# Section 5711.03 - Listing of taxable property.
+
+**Effective:** September 27, 1983
+
+**Latest Legislation:** House Bill 260 - 115th General Assembly
+
+Except as provided in sections 5711.01 to 5711.36 of the Revised Code, all taxable property shall be listed as to ownership or control, valuation, and taxing districts as of the beginning of the first day of January, annually, except that taxable personal property and credits used in business shall be listed as of the close of business of the last day of December, annually, and deposits not taxed at the source shall be listed as of the day fixed by the tax commissioner for the listing of deposits taxed at the source pursuant to section 5725.05 of the Revised Code. The subsequent transfer of any taxable property shall not authorize any taxpayer to omit the same from his return nor the assessor to fail to assess the same in the manner required, although such return or assessment is not made until after such transfer. When a person or taxpayer engages in business in this state on or after the first day of January, in any year, he shall list all his taxable property, except inventory, as to value, ownership and taxing districts as of the date he engages in business. In listing inventory as to ownership and taxing districts he shall list the probable average value intended to be used in business from the date he engages in business until the first day of January next thereafter. The valuation of all property, including average inventory, to be returned for taxation shall be determined by multiplying the value, or average value of such property by a fraction whose numerator is the number of full months engaged in business during the year of engaging in business, and whose denominator is twelve, unless he shows the assessor, under oath, and by producing a copy of the return or assessment, that the same property has been listed or assessed for taxation for said year in this state.

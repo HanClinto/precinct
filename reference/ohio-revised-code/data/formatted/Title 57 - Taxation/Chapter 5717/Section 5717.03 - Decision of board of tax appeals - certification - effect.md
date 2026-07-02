@@ -1,0 +1,26 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5717.03
+Scraped: 2026-07-02T20:14:36+00:00
+
+# Section 5717.03 - Decision of board of tax appeals - certification - effect.
+
+**Effective:** March 23, 2015
+
+**Latest Legislation:** House Bill 5 - 130th General Assembly
+
+(A) A decision of the board of tax appeals on an appeal filed with it pursuant to section 5717.01 , 5717.011 , or 5717.02 of the Revised Code shall be entered of record on the journal together with the date when the order is filed with the secretary for journalization.
+
+(B) In case of an appeal from a decision of a county board of revision, the board of tax appeals shall determine the taxable value of the property whose valuation or assessment by the county board of revision is complained of, or in the event the complaint and appeal is against a discriminatory valuation, shall determine a valuation which shall correct such discrimination, and shall determine the liability of the property for taxation, if that question is in issue, and the board of tax appeals' decision and the date when it was filed with the secretary for journalization shall be sent by the board to all persons who were parties to the appeal before the board, to the person in whose name the property is listed, or sought to be listed, if such person is not a party to the appeal, to the county auditor of the county in which the property involved in the appeal is located, and to the tax commissioner.
+
+In correcting a discriminatory valuation, the board of tax appeals shall increase or decrease the value of the property whose valuation or assessment by the county board of revision is complained of by a per cent or amount which will cause such property to be listed and valued for taxation by an equal and uniform rule.
+
+(C) In the case of an appeal from a review, redetermination, or correction of a tax assessment, valuation, determination, finding, computation, or order of the tax commissioner, the order of the board of tax appeals and the date of the entry thereof upon its journal shall be sent by the board to all persons who were parties to the appeal before the board, the person in whose name the property is listed or sought to be listed, if the decision determines the valuation or liability of property for taxation and if such person is not a party to the appeal, the taxpayer or other person to whom notice of the tax assessment, valuation, determination, finding, computation, or order, or correction or redetermination thereof, by the tax commissioner was by law required to be given, the director of budget and management, if the revenues affected by such decision would accrue primarily to the state treasury, and the county auditors of the counties to the undivided general tax funds of which the revenues affected by such decision would primarily accrue.
+
+(D) In the case of an appeal from a final determination of a local board of tax review created under section 718.11 of the Revised Code, the order of the board of tax appeals and the date of the entry thereof upon the board's journal shall be sent by the board to all persons who were parties to the appeal before the board.
+
+(E) In the case of all other appeals or applications filed with and determined by the board, the board's order and the date when the order was filed by the secretary for journalization shall be sent by the board to the person who is a party to such appeal or application, to such persons as the law requires, and to such other persons as the board deems proper.
+
+(F) The orders of the board may affirm, reverse, vacate, modify, or remand the tax assessments, valuations, determinations, findings, computations, or orders complained of in the appeals determined by the board, and the board's decision shall become final and conclusive for the current year unless reversed, vacated, or modified as provided in section 5717.04 of the Revised Code. When an order of the board becomes final the tax commissioner and all officers to whom such decision has been sent shall make the changes in their tax lists or other records which the decision requires.
+
+(G) If the board finds that issues not raised on the appeal are important to a determination of a controversy, the board may remand the cause for an administrative determination and the issuance of a new tax assessment, valuation, determination, finding, computation, or order, unless the parties stipulate to the determination of such other issues without remand. An order remanding the cause is a final order. If the order relates to any issue other than a municipal income tax matter appealed under sections 718.11 and 5717.011 of the Revised Code, the order may be appealed to the court of appeals in Franklin county. If the order relates to a municipal income tax matter appealed under sections 718.11 and 5717.011 of the Revised Code, the order may be appealed to the court of appeals for the county in which the municipal corporation in which the dispute arose is primarily situated.
+
+(H) At the request of any person that filed an appeal subject to this section, the decision or order of the board of tax appeals issued pursuant to division (B), (C), (D), or (E) of this section shall be sent by certified mail at the requestor's expense.

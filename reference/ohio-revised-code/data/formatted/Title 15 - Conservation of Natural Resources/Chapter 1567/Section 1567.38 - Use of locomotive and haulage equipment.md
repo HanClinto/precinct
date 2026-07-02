@@ -1,0 +1,26 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-1567.38
+Scraped: 2026-07-02T19:38:58+00:00
+
+# Section 1567.38 - Use of locomotive and haulage equipment.
+
+**Effective:** October 29, 1995
+
+**Latest Legislation:** Senate Bill 162 - 121st General Assembly
+
+At a mine, or in any part thereof, where a locomotive is detached from a moving train of cars for the purpose of dropping such cars past the locomotive, and the haulageway at such point is designated as the principal traveling way, a traveling way, not less than three feet wide, shall be provided on one side of that portion of the track from where the locomotive will be detached to the switch of the siding. Such traveling way shall be made on the same side of the track as the refuge holes. No locomotive shall be detached from a train of moving cars, for the purpose of making a drop thereof, more than one hundred feet from the switch of the siding.
+
+At an underground mine, or in any part thereof, each self-propelled personnel carrier shall be provided with an audible warning device, a sealed-beam headlight, or its equivalent, on each end, and reflectors on both ends and sides. In addition, each track mounted self-propelled piece of mobile equipment shall be provided with a suitable lifting jack and bar that shall be secured or carried in a tool compartment, two separate and independent braking systems properly installed and well maintained, and properly installed and well-maintained sanding devices, except that personnel carriers which transport not more than five men need not be equipped with such sanding devices. Each open type self-propelled personnel carrier shall be equipped with guards of sufficient strength and height to prevent personnel from being thrown from such carriers.
+
+Mantrips shall be operated independently of any loaded trip, empty trip, or supply trip, and may not be operated within three hundred feet of any trip, including another mantrip. A sufficient number of mantrips shall be provided to prevent overcrowding of men. Mantrips shall not be pushed. Where mantrips are operated by locomotives on slopes, such mantrips shall be coupled to the front and rear by locomotives capable of holding such mantrips. Where ropes are used on slopes for mantrip haulage, such conveyances shall be connected by chains or other no less effective devices between mantrip cars and the rope. Safety goggles or eyeshields shall be provided for all persons being transported on or operating open-type equipment. All trips, including trailers and sleds, shall be operated at speeds consistent with conditions and the equipment used, and shall be so controlled that they can be stopped within the limits of visibility.
+
+All mantrips shall be under the direction of a supervisor and the operator of each mantrip shall be familiar with the haulage safety rules.
+
+Men shall proceed in an orderly manner to and from mantrips and no person shall be permitted to get on or off a moving mantrip.
+
+Explosives and detonators shall not be permitted on any mantrip or hauled within five minutes before or after any mantrip. Mantrips shall not be permitted to proceed until the operator of the mantrip is assured that he has a clear road. Supplies or tools, except small hand tools or instruments, shall not be transported with men. At places where men enter or leave mantrip conveyances, ample clearance shall be provided and provisions made to prevent persons from coming in contact with energized electric circuits. The mine car next to a trolley locomotive shall not be used to transport men. Such cars may be used to transport small tools and supplies. This does not permit the transportation of large or bulky supplies such as shuttle car wheel units, or similar material. Drop-bottom cars used to transport men shall have the bottoms secured with an additional locking device. Extraneous materials or supplies shall not be transported on top of equipment, however, materials and supplies that are necessary for or related to the operation of such equipment may be transported on top of such equipment if a hazard is not introduced.
+
+The speed at which haulage equipment is operated shall be determined by the condition of the roadbed, rails, rail joints, switches, frogs, and other elements of the track and the type and condition of the haulage equipment. Track haulage roads shall have a continuous clearance on one side of at least twenty-four inches from the farthest projection of normal traffic. Where it is necessary to change the side on which clearance is provided, twenty-four inches of clearance shall be provided on both sides for a distance of not less than one hundred feet and warning signs should be posted at such locations. Track haulage roads developed after January 1, 1977, shall have clearance on the tight side of at least twelve inches from the farthest projection of normal traffic. A minimum clearance of six inches shall be maintained on the tight side of all track haulage roads developed prior to January 1, 1977. The clearance space on all track haulage roads shall be kept free of loose rock, supplies, and other loose materials.
+
+Positive stopblocks or derails shall be installed on all tracks near the top and at landing of shafts, slopes, and surface inclines.
+
+No operator of a mine shall refuse or neglect to comply with this section.

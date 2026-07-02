@@ -1,0 +1,36 @@
+{
+  "glossary": [
+    {
+      "definition": "(C) This section applies but is not limited to, and the terms \"power of attorney\" and \"attorney in fact\" include but are not limited to, an agency agreement and an agent under an agency agreement.",
+      "id": "1337.092-power-of-attorney",
+      "normalized": "power of attorney",
+      "scope": "",
+      "section": "1337.092",
+      "source_title": "Section 1337.092 - Personal liability.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1337.092",
+      "term": "power of attorney"
+    },
+    {
+      "definition": "(C) This section applies but is not limited to, and the terms \"power of attorney\" and \"attorney in fact\" include but are not limited to, an agency agreement and an agent under an agency agreement.",
+      "id": "1337.092-attorney-in-fact",
+      "normalized": "attorney in fact",
+      "scope": "",
+      "section": "1337.092",
+      "source_title": "Section 1337.092 - Personal liability.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1337.092",
+      "term": "attorney in fact"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "169.13",
+      "number": "169.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-169.13"
+    }
+  ],
+  "scraped": "2026-07-02T19:37:22+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1337.092",
+  "title": "Section 1337.092 - Personal liability."
+}

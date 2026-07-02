@@ -1,0 +1,52 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Freestanding birthing center\" has the same meaning as in section 3701.503 of the Revised Code.",
+      "id": "3705.41-freestanding-birthing-center",
+      "normalized": "freestanding birthing center",
+      "scope": "(A) As used in this section:",
+      "section": "3705.41",
+      "source_title": "Section 3705.41 - Vital records training.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3705.41",
+      "term": "Freestanding birthing center"
+    },
+    {
+      "definition": "(2) \"Funeral services worker\" means a person licensed as a funeral director or embalmer under Chapter 4717. of the Revised Code or an individual responsible for the direct final disposition of a deceased person.",
+      "id": "3705.41-funeral-services-worker",
+      "normalized": "funeral services worker",
+      "scope": "(A) As used in this section:",
+      "section": "3705.41",
+      "source_title": "Section 3705.41 - Vital records training.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3705.41",
+      "term": "Funeral services worker"
+    },
+    {
+      "definition": "(3) \"Hospital\" has the same meaning as in section 3722.01 of the Revised Code.\n\n(B) At least annually, the state registrar shall offer to provide training for appropriate staff of hospitals and freestanding birthing centers, as well as funeral services workers, on their responsibilities under the laws of this state and any rules adopted pursuant to those laws pertaining to vital records. If provided, the training shall cover correct data entry procedures and time limits for reporting vital statistics information for the purpose of ensuring accuracy and consistency of the system of vital statistics.\n\nLast updated September 30, 2024 at 4:21 AM",
+      "id": "3705.41-hospital",
+      "normalized": "hospital",
+      "scope": "(A) As used in this section:",
+      "section": "3705.41",
+      "source_title": "Section 3705.41 - Vital records training.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3705.41",
+      "term": "Hospital"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3701.503",
+      "number": "3701.503",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3701.503"
+    },
+    {
+      "kind": "section",
+      "label": "3722.01",
+      "number": "3722.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3722.01"
+    }
+  ],
+  "scraped": "2026-07-02T19:51:02+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3705.41",
+  "title": "Section 3705.41 - Vital records training."
+}

@@ -1,0 +1,40 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5733.0510
+Scraped: 2026-07-02T20:15:03+00:00
+
+# Section 5733.0510 - Reducing net income for qualifying assets.
+
+**Effective:** July 6, 1999
+
+**Latest Legislation:** Senate Bill 3 - 123rd General Assembly
+
+(A) As used in this section:
+
+(1) "Qualifying taxpayer" means either of the following:
+
+(a) A person that is an electric company or a combined company, but only if the person was subject to and paid the tax imposed by section 5727.30 of the Revised Code for gross receipts received during the period of May 1, 2000, through April 30, 2001;
+
+(b) Any taxpayer not described in division (A)(1)(a) of this section if a person described in division (A)(1)(a) of this section transfers all or a portion of its assets or equity directly or indirectly to the taxpayer, the transfer occurred as part of an entity organization or reorganization, or subsequent entity organization or reorganization, and the gain or loss with respect to the transfer is not recognized in whole or in part for federal income tax purposes under the Internal Revenue Code on account of a transfer as part of an equity organization or reorganization, or subsequent organization or reorganization.
+
+(2) "Qualifying taxable event" means any event resulting in the recognition for federal income tax purposes of gain or loss in connection with any direct or indirect sale, direct or indirect exchange, direct or indirect transfer, or direct or indirect retirement of any qualifying asset.
+
+(3) "Qualifying asset" means any asset shown on the qualifying taxpayer's books and records on December 31, 2000, in accordance with generally accepted accounting principles, including the cost of, or any portion of the cost of, any asset acquired after December 31, 2000, where such asset was acquired as a result of a tax-free or tax-deferred exchange of a qualifying asset.
+
+(4) "Net income" has the same meaning as in division (I) of section 5733.04 of the Revised Code.
+
+(5) "Book-tax differential" means the difference, if any, between an asset's net book value shown on the qualifying taxpayer's books and records on December 31, 2000, in accordance with generally accepted accounting principles, and such asset's adjusted basis on December 31, 2000. The book-tax differential may be a negative number.
+
+(6) "Qualifying regulatory asset" means those qualifying assets that, as of December 31, 2000, are no longer included in federal energy regulatory commission uniform system of accounts 101 through 106 or are deferred expenses for operation or maintenance, or deferred costs associated with leaseback transactions on generating units, that have been authorized by a regulatory agency for recovery from customers in a future period and that, as of December 31, 2000, are subject to transition cost recovery under Chapter 4928. of the Revised Code or similar laws of another state.
+
+(B)(1) If, with respect to a qualifying asset, there occurs a qualifying taxable event and if the gain or loss recognized is a type of gain or loss that is apportioned as provided in division (B) of section 5733.05 of the Revised Code, the qualifying taxpayer shall reduce its net income by the amount of the book-tax differential for that qualifying asset, if the book-tax differential is positive, and the qualifying taxpayer shall increase its net income by the absolute value of the amount of the book-tax differential for that qualifying asset, if the book-tax differential is negative.
+
+(2) If, with respect to a qualifying asset, there occurs a qualifying taxable event and if the gain or loss recognized is a type of gain or loss that is allocated to this state as provided in section 5733.051 of the Revised Code, the qualifying taxpayer shall reduce its income allocated to this state by the amount of the book-tax differential for that qualifying asset, if the book-tax differential is positive, and the qualifying taxpayer shall increase its income allocated to this state by the absolute value of the amount of the book-tax differential for that qualifying asset, if the book-tax differential is negative.
+
+(3) If, with respect to a qualifying taxable event, the person uses the installment sales method to recognize gain over more than one year, the adjustments required by divisions (B)(1) and (2) of this section shall not be made entirely in the tax year immediately following the taxable year in which the qualifying taxable event occurred but shall be made in part in such tax year and in subsequent tax years in proportion to the gain recognized for federal income tax purposes in each corresponding taxable year.
+
+(4) If the recognized gain or loss to which divisions (B)(1) and (2) of this section refer is zero solely because at the time of the qualifying taxable event the amount realized by the qualifying taxpayer with respect to that event equals the qualifying asset's adjusted basis, then solely for the purposes of division (B) of this section, the amount realized shall be deemed to be one dollar greater than the qualifying asset's adjusted basis.
+
+(5) Whenever there is a qualifying taxable event, all qualifying regulatory assets directly or indirectly associated with a qualifying asset in connection with that event shall be considered to have been disposed of as part of the event for an amount realized of one dollar.
+
+(C) Nothing in division (B) of this section shall be construed to allow for an adjustment more than once with respect to the same qualifying asset.
+
+(D) Nothing in this section shall be construed to allow more than one corporation to claim an adjustment with respect to the same qualifying asset.

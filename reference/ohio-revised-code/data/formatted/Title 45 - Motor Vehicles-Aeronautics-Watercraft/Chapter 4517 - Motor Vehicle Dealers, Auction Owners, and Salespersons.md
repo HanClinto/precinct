@@ -1,0 +1,72 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-4517
+Scraped: 2026-07-02T20:05:48+00:00
+
+# Chapter 4517 - Motor Vehicle Dealers, Auction Owners, and Salespersons
+
+## Sections
+
+- Section 4517.01 - Motor vehicle dealer, auction owner and salesperson definitions.
+- Section 4517.011 - Construction of chapter.
+- Section 4517.02 - License required to engage in motor vehicle or manufactured home business - remanufacturers.
+- Section 4517.021 - Rules governing auction of classic motor vehicles.
+- Section 4517.03 - Established place of business restrictions.
+- Section 4517.04 - Application for new motor vehicle dealer's license.
+- Section 4517.041 - Application for adaptive mobility dealer's license.
+- Section 4517.05 - Application for used motor vehicle dealer's license; mandatory training.
+- Section 4517.06 - Application for motor vehicle leasing dealer's license.
+- Section 4517.07 - Application for motor vehicle auction owner's license - records to be open for inspection.
+- Section 4517.08 - Application for distributor's license.
+- Section 4517.10 - Prescribed forms and fees for licenses.
+- Section 4517.11 - License fees credited to pubilc safety - highway purposes fund.
+- Section 4517.12 - Denial of license as motor vehicle dealer, motor vehicle leasing dealer, manufactured home broker, or motor vehicle auction owner.
+- Section 4517.13 - Denial of distributor's license.
+- Section 4517.14 - Limitation on motor vehicle salesperson's employment.
+- Section 4517.15 - Appeal of denial of license to motor vehicle dealers board.
+- Section 4517.16 - Eligibility for construction equipment auction license.
+- Section 4517.17 - Application for construction equipment auction license; expiration; form of license.
+- Section 4517.171 - Denial or revocation of construction equipment auction license.
+- Section 4517.18 - Auction of large construction or transportation equipment; prohibited acts.
+- Section 4517.19 - Motor vehicle wholesaler - prohibited acts.
+- Section 4517.20 - Motor vehicle dealer - prohibited acts.
+- Section 4517.21 - Motor vehicle auction owner - prohibited acts.
+- Section 4517.22 - Motor vehicle shows.
+- Section 4517.221 - Display of new motor vehicles at location other than dealership.
+- Section 4517.23 - Notifying registrar of changes of status.
+- Section 4517.24 - Two or more dealers at same location.
+- Section 4517.25 - Mileage disclosure statement.
+- Section 4517.26 - Written agreement to precede sale.
+- Section 4517.261 - Documentary service charge for sale or lease.
+- Section 4517.262 - Dealer liability for third-party motor vehicle history reports.
+- Section 4517.30 - Motor vehicle dealers board.
+- Section 4517.31 - Board to be part of department of public safety.
+- Section 4517.32 - Powers and duties of board.
+- Section 4517.33 - Appeals - rules for suspension or revocation.
+- Section 4517.34 - Assistance by officials.
+- Section 4517.35 - Motor vehicle dealers board electronic meetings.
+- Section 4517.40 - Restricting retail installment contract sales.
+- Section 4517.41 - Coercing restriction of retail installment contract sales.
+- Section 4517.42 - Circumstances prohibiting purchase of retail installment contract.
+- Section 4517.43 - Confidentiality of applications.
+- Section 4517.44 - Record maintenance.
+- Section 4517.45 - Damage to body or trim of vehicle by dealer affixing placard or tag.
+- Section 4517.49 - Excepting manufactured homes.
+- Section 4517.50 - Notice of establishment of new dealer or relocation.
+- Section 4517.51 - Determination of good cause for establishment of new dealer or relocation.
+- Section 4517.52 - Fulfillment and compensation for warranty and recall obligations.
+- Section 4517.521 - Compensation for stop-sale or do-not-drive orders.
+- Section 4517.53 - Written delivery and preparation obligations of franchisees.
+- Section 4517.54 - Notice of intent to terminate or discontinue.
+- Section 4517.541 - Termination of franchise; notice.
+- Section 4517.542 - Termination of franchise; compensation.
+- Section 4517.55 - Determination of good cause to terminate franchise.
+- Section 4517.56 - Proposed transfer of franchise.
+- Section 4517.57 - Hearing procedure for protest.
+- Section 4517.58 - Board decision.
+- Section 4517.59 - Prohibited acts.
+- Section 4517.60 - Indemnification and holding harmless of franchisee.
+- Section 4517.61 - Franchisor's damage disclosure statement.
+- Section 4517.62 - Franchisee's duties to franchisor and public.
+- Section 4517.63 - Writing required for certain actions.
+- Section 4517.64 - Duties of franchisor.
+- Section 4517.65 - Liability of franchisor.
+- Section 4517.99 - Penalty.

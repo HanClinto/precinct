@@ -1,0 +1,46 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Repair garage or place of storage\" means any business with which a person entered into an agreement for the repair of a motor vehicle or any business with which a person entered into an agreement for the storage of a motor vehicle.",
+      "id": "4505.101-repair-garage-or-place-of-storage",
+      "normalized": "repair garage or place of storage",
+      "scope": "(E) As used in this section:",
+      "section": "4505.101",
+      "source_title": "Section 4505.101 - Certificate of title to unclaimed motor vehicle.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4505.101",
+      "term": "Repair garage or place of storage"
+    },
+    {
+      "definition": "(2) \"Towing service or storage facility\" means any for-hire motor carrier that removes a motor vehicle under the authority of section 4513.601 of the Revised Code and any place to which such a for-hire motor carrier delivers a motor vehicle towed under that section.",
+      "id": "4505.101-towing-service-or-storage-facility",
+      "normalized": "towing service or storage facility",
+      "scope": "(E) As used in this section:",
+      "section": "4505.101",
+      "source_title": "Section 4505.101 - Certificate of title to unclaimed motor vehicle.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4505.101",
+      "term": "Towing service or storage facility"
+    },
+    {
+      "definition": "(3) \"Value\" means the wholesale value for that make and model of motor vehicle at the time an affidavit is submitted under division (C) of this section, as provided in a vehicle valuation guide that is generally available and recognized by the motor vehicle industry, minus both of the following:\n\n(a) The estimated cost of repairs to restore the motor vehicle to the wholesale value for that make and model of motor vehicle;\n\n(b) The cost of any agreed-upon repairs.\n\nLast updated March 21, 2023 at 10:46 AM",
+      "id": "4505.101-value",
+      "normalized": "value",
+      "scope": "(E) As used in this section:",
+      "section": "4505.101",
+      "source_title": "Section 4505.101 - Certificate of title to unclaimed motor vehicle.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4505.101",
+      "term": "Value"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "4513.601",
+      "number": "4513.601",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.601"
+    }
+  ],
+  "scraped": "2026-07-02T20:05:24+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4505.101",
+  "title": "Section 4505.101 - Certificate of title to unclaimed motor vehicle."
+}

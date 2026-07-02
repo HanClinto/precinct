@@ -1,0 +1,116 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Atomic energy\" means all forms of energy released in the course of nuclear fission or nuclear transformation.",
+      "id": "4163.01-atomic-energy",
+      "normalized": "atomic energy",
+      "scope": "As used in Chapter 4163. of the Revised Code:",
+      "section": "4163.01",
+      "source_title": "Section 4163.01 - Atomic energy definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4163.01",
+      "term": "Atomic energy"
+    },
+    {
+      "definition": "(B) \"By-product material\" has the same meaning as in section 3748.01 of the Revised Code.",
+      "id": "4163.01-by-product-material",
+      "normalized": "by-product material",
+      "scope": "As used in Chapter 4163. of the Revised Code:",
+      "section": "4163.01",
+      "source_title": "Section 4163.01 - Atomic energy definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4163.01",
+      "term": "By-product material"
+    },
+    {
+      "definition": "(C) \"Production facility\" means any equipment or device capable of the production of special nuclear material in such quantity as to be of significance to the common defense and security, or in such manner as to affect the health and safety of the public; or any important component part especially designed for such equipment or device.",
+      "id": "4163.01-production-facility",
+      "normalized": "production facility",
+      "scope": "As used in Chapter 4163. of the Revised Code:",
+      "section": "4163.01",
+      "source_title": "Section 4163.01 - Atomic energy definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4163.01",
+      "term": "Production facility"
+    },
+    {
+      "definition": "(D) \"Special nuclear material\" has the same meaning as in section 3748.01 of the Revised Code.",
+      "id": "4163.01-special-nuclear-material",
+      "normalized": "special nuclear material",
+      "scope": "As used in Chapter 4163. of the Revised Code:",
+      "section": "4163.01",
+      "source_title": "Section 4163.01 - Atomic energy definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4163.01",
+      "term": "Special nuclear material"
+    },
+    {
+      "definition": "(E) \"Utilization facility\" means any equipment or device, except an atomic weapon, capable of making use of special nuclear materials in such quantity as to be of significance to the common defense and security, or in such manner as to affect the health and safety of the public, or peculiarly adapted for making use of atomic energy in such quantity as to be of significance to the common defense and security, or in such manner as to affect the health and safety of the public; or any important component part especially designed for such equipment or device.",
+      "id": "4163.01-utilization-facility",
+      "normalized": "utilization facility",
+      "scope": "As used in Chapter 4163. of the Revised Code:",
+      "section": "4163.01",
+      "source_title": "Section 4163.01 - Atomic energy definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4163.01",
+      "term": "Utilization facility"
+    },
+    {
+      "definition": "(F) \"Radiation\" has the same meaning as in section 3748.01 of the Revised Code.",
+      "id": "4163.01-radiation",
+      "normalized": "radiation",
+      "scope": "As used in Chapter 4163. of the Revised Code:",
+      "section": "4163.01",
+      "source_title": "Section 4163.01 - Atomic energy definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4163.01",
+      "term": "Radiation"
+    },
+    {
+      "definition": "(G) \"Highway route controlled quantity\" has the same meaning as in 49 C.F.R. 173.403.",
+      "id": "4163.01-highway-route-controlled-quantity",
+      "normalized": "highway route controlled quantity",
+      "scope": "As used in Chapter 4163. of the Revised Code:",
+      "section": "4163.01",
+      "source_title": "Section 4163.01 - Atomic energy definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4163.01",
+      "term": "Highway route controlled quantity"
+    },
+    {
+      "definition": "(H) \"High-level radioactive waste\" means any of the following:\n\n(1) Irradiated reactor fuel;\n\n(2) Liquid wastes resulting from the operation of the first cycle solvent extraction system, or equivalent, and the concentrated wastes from subsequent extraction cycles, or equivalent, in a facility for reprocessing irradiated reactor fuel;\n\n(3) Solids into which such liquid wastes have been converted.",
+      "id": "4163.01-high-level-radioactive-waste",
+      "normalized": "high-level radioactive waste",
+      "scope": "As used in Chapter 4163. of the Revised Code:",
+      "section": "4163.01",
+      "source_title": "Section 4163.01 - Atomic energy definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4163.01",
+      "term": "High-level radioactive waste"
+    },
+    {
+      "definition": "(I) \"Spent nuclear fuel\" means fuel that has been withdrawn from a nuclear reactor following irradiation, the constituent elements of which have not been separated by reprocessing.",
+      "id": "4163.01-spent-nuclear-fuel",
+      "normalized": "spent nuclear fuel",
+      "scope": "As used in Chapter 4163. of the Revised Code:",
+      "section": "4163.01",
+      "source_title": "Section 4163.01 - Atomic energy definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4163.01",
+      "term": "Spent nuclear fuel"
+    },
+    {
+      "definition": "(J) \"Transuranic waste\" means material contaminated with elements that have an atomic number greater than ninety-two, including neptunium, plutonium, americium, and curium, and that are in concentrations greater than ten nanocuries per gram or in other concentrations that the United States nuclear regulatory commission may prescribe.",
+      "id": "4163.01-transuranic-waste",
+      "normalized": "transuranic waste",
+      "scope": "As used in Chapter 4163. of the Revised Code:",
+      "section": "4163.01",
+      "source_title": "Section 4163.01 - Atomic energy definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4163.01",
+      "term": "Transuranic waste"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3748.01",
+      "number": "3748.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3748.01"
+    }
+  ],
+  "scraped": "2026-07-02T20:04:36+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4163.01",
+  "title": "Section 4163.01 - Atomic energy definitions."
+}

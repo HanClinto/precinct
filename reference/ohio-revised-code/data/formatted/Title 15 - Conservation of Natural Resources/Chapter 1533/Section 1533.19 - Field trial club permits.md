@@ -1,0 +1,10 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-1533.19
+Scraped: 2026-07-02T19:37:50+00:00
+
+# Section 1533.19 - Field trial club permits.
+
+**Effective:** September 26, 2003
+
+**Latest Legislation:** House Bill 95 - 125th General Assembly
+
+Except as otherwise provided by division rule, recognized field trial clubs may shoot domestically raised quails, chukar partridges, ducks, pheasants, or other game birds and common pigeons at any time during the daylight hours from the first day of September to the thirtieth day of April of the following year, both dates inclusive. Such domestically raised quails, chukar partridges, ducks, pheasants, and other game birds shall be banded prior to release and approved by the division of wildlife for field trial use, provided that permission for the holding of such a trial shall be obtained from the division. Permission shall be requested in writing at least thirty days in advance of the trial. The request shall contain the name of the recognized field trial club and the names of its officers, the date and location of the trial, and the name of the licensed breeders from whom the quails, chukar partridges, ducks, pheasants, or other game birds will be obtained. The division may grant a written permit when it is satisfied that the trial is a bona fide one conducted by a bona fide club under this section. When an application is approved, a permit shall be issued after the payment of a fee of fifty dollars for each day upon which the trials are conducted. Participants in such trials need not possess a hunter's license while participating in the trials. The division shall supervise all such trials and shall enforce all laws and division rules governing them. If unbanded quails, chukar partridges, ducks, pheasants, or other game birds are accidentally shot during such trials, they immediately shall be replaced by the club by the releasing of an equal number of live quails, chukar partridges, ducks, pheasants, or other game birds under the supervision of the division.

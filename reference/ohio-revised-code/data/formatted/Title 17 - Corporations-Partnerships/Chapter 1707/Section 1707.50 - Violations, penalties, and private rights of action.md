@@ -1,0 +1,46 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-1707.50
+Scraped: 2026-07-02T19:39:09+00:00
+
+# Section 1707.50 - Violations, penalties, and private rights of action.
+
+**Effective:** March 31, 2021
+
+**Latest Legislation:** House Bill 312 - 133rd General Assembly
+
+(A) As used in this section, "violation" means a violation of any provision of this chapter in connection with the sale of securities under sections 1707.05 to 1707.058 of the Revised Code where the filing is made pursuant to division (K) of section 1707.051 of the Revised Code and the securities are sold through an OhioInvests portal.
+
+(B)(1) If the division of securities finds, after notice and opportunity for a hearing in accordance with Chapter 119. of the Revised Code, that any person has committed a violation, the division may, in its discretion and in addition to or in lieu of any other remedy or sanction provided in this chapter, order the payment of an administrative penalty of up to one thousand dollars per violation, provided that the total penalty shall not exceed the total amount of the OhioInvests offering or offerings involved in the violation.
+
+(2) All administrative penalties collected by the division under division (B)(1) of this section shall be deposited into the state treasury to the credit of the division of securities investor education and enforcement expense fund created in section 1707.37 of the Revised Code.
+
+(C)(1) A purchaser may commence an individual or putative class action to seek recovery of the civil penalty provided for under division (C)(2) of this section for an alleged violation if all of the following requirements are met:
+
+(a) The purchaser or the purchaser's representative brings the action within two years after commission of the alleged violation or within two years after the purchaser discovered or should have discovered the ground for the violation, whichever is later.
+
+(b) Not later than ten days after the commencement of the action, the purchaser or purchaser's representative mails to the division, by certified mail, a file-stamped copy of the complaint that includes the case number assigned by the court.
+
+(c) Not later than ten days from a judgment becoming final and any subsequent appeals becoming final, the purchaser or purchaser's representative mails to the division, by certified mail, a file-stamped copy of the final judgment and appellate decisions.
+
+(2) The civil penalty provided for under this section shall be as follows:
+
+(a) One hundred dollars per violation, if at the time of the violation the total amount of money raised in the OhioInvests offering is less than twenty-five thousand dollars, provided that the total penalty shall not exceed the total amount of the OhioInvests offering or offerings involved in the violation.
+
+(b) Two hundred fifty dollars per violation, if at the time of the violation the total amount of money raised in the OhioInvests offering is twenty-five thousand dollars or more, provided that the total penalty shall not exceed the total amount of the OhioInvests offering or offerings involved in the violation.
+
+(3) In any civil action by a purchaser or purchaser's representative seeking recovery of a civil penalty under this section, a court may award a lesser amount than the amount specified in division (C)(2) of this section if, based on the facts and circumstances of the particular case, to do otherwise would result in an award that is unjust, arbitrary and oppressive, or confiscatory.
+
+(4) Civil penalties recovered by a purchaser or purchasers in accordance with this section shall be distributed as follows:
+
+(a) Twenty-five per cent to the state to be deposited into the state treasury to the credit of the general revenue fund and set aside for payment of debt service on outstanding bonds that are direct obligations of the state;
+
+(b) Seventy-five per cent to the purchaser, purchasers, or purchaser class.
+
+(5) Purchasers or purchaser classes that prevail in a civil action brought under this section shall be entitled to reasonable attorney's fees and costs in the action as determined by the court.
+
+(6) Nothing in division (C) of this section shall preclude a purchaser or purchaser's representative from also proceeding with a cause of action otherwise available under any other provision of this chapter or other theory of law.
+
+(D) No person shall knowingly engage in any act, practice, or course of business that would interfere with a purchaser's ability to bring an individual or putative class action pursuant to division (C) of this section.
+
+(E) Nothing in this section shall be construed to alter or limit the authority of the division under any other provision of this chapter, including but not limited to the ability of the division to investigate or prosecute any complaints or allegations under this chapter. Upon timely application, the division may intervene as of right on behalf of the state in any private action or appeal that is pending under this section.
+
+(F) The division may adopt rules in accordance with Chapter 119. of the Revised Code to implement the provisions of this section.

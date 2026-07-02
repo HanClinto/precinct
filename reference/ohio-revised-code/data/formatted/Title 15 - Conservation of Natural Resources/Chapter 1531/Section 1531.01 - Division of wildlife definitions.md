@@ -1,0 +1,146 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-1531.01
+Scraped: 2026-07-02T19:37:49+00:00
+
+# Section 1531.01 - Division of wildlife definitions.
+
+**Effective:** September 30, 2025
+
+**Latest Legislation:** House Bill 96 - 136th General Assembly
+
+As used in this chapter and Chapter 1533. of the Revised Code:
+
+(A) "Person" means a person as defined in section 1.59 of the Revised Code or a company; an employee, agent, or officer of such a person or company; a combination of individuals; the state; a political subdivision of the state; an interstate body created by a compact; or the federal government or a department, agency, or instrumentality of it.
+
+(B) "Resident" means either of the following:
+
+(1) An individual who has resided in this state for not less than six months preceding the date of making application for a license or permit;
+
+(2) An individual who is a full-time student enrolled in an accredited Ohio public or private college or university and who resides in this state at the time the individual makes application for a license or permit and who attests to the individual's full-time student status in a manner determined by the chief of the division of wildlife.
+
+(C) "Nonresident" means any individual who does not qualify as a resident.
+
+(D) "Division rule" or "rule" means any rule adopted by the chief of the division of wildlife under section 1531.10 of the Revised Code unless the context indicates otherwise.
+
+(E) "Closed season" means that period of time during which the taking of wild animals protected by this chapter and Chapter 1533. of the Revised Code is prohibited.
+
+(F) "Open season" means that period of time during which the taking of wild animals protected by this chapter and Chapter 1533. of the Revised Code is permitted.
+
+(G) "Take or taking" includes pursuing, shooting, hunting, killing, trapping, angling, fishing with a trotline, or netting any clam, mussel, crayfish, aquatic insect, fish, frog, turtle, wild bird, or wild quadruped, and any lesser act, such as wounding, or placing, setting, drawing, or using any other device for killing or capturing any wild animal, whether it results in killing or capturing the animal or not. "Take or taking" includes every attempt to kill or capture and every act of assistance to any other person in killing or capturing or attempting to kill or capture a wild animal.
+
+(H) "Possession" means both actual and constructive possession and any control of things referred to.
+
+(I) "Bag limit" means the number, measurement, or weight of any kind of crayfish, aquatic insects, fish, frogs, turtles, wild birds, and wild quadrupeds permitted to be taken.
+
+(J) "Transport and transportation" means carrying or moving or causing to be carried or moved.
+
+(K) "Sell and sale" means barter, exchange, or offer or expose for sale.
+
+(L) "Whole to include part" means that every provision relating to any wild animal protected by this chapter and Chapter 1533. of the Revised Code applies to any part of the wild animal with the same effect as it applies to the whole.
+
+(M) "Angling" means fishing with not more than two hand lines, not more than two units of rod and line, or a combination of not more than one hand line and one rod and line, either in hand or under control at any time while fishing. The hand line or rod and line shall have attached to it not more than three baited hooks, not more than three artificial fly rod lures, or one artificial bait casting lure equipped with not more than three sets of three hooks each.
+
+(N) "Trotline" means a device for catching fish that consists of a line having suspended from it, at frequent intervals, vertical lines with hooks attached.
+
+(O) "Fish" means a cold-blooded vertebrate having fins.
+
+(P) "Measurement of fish" means length from the end of the nose to the longest tip or end of the tail.
+
+(Q) "Wild birds" includes game birds and nongame birds.
+
+(R) "Game" includes game birds, game quadrupeds, and fur-bearing animals.
+
+(S) "Game birds" includes mourning doves, ringneck pheasants, bobwhite quail, ruffed grouse, sharp-tailed grouse, pinnated grouse, wild turkey, Hungarian partridge, Chukar partridge, woodcocks, black-breasted plover, golden plover, Wilson's snipe or jacksnipe, greater and lesser yellowlegs, rail, coots, gallinules, duck, geese, brant, and crows.
+
+(T) "Nongame birds" includes all other wild birds not included and defined as game birds or migratory game birds.
+
+(U) "Wild quadrupeds" includes game quadrupeds, fur-bearing animals, and wild boar or feral swine.
+
+(V) "Game quadrupeds" includes cottontail rabbits, gray squirrels, black squirrels, fox squirrels, red squirrels, flying squirrels, chipmunks, groundhogs or woodchucks, white-tailed deer, elk, and black bears.
+
+(W) "Fur-bearing animals" includes minks, weasels, raccoons, skunks, opossums, muskrats, fox, beavers, badgers, otters, coyotes, and bobcats.
+
+(X) "Wild animals" includes mollusks, crustaceans, aquatic insects, fish, reptiles, amphibians, wild birds, wild quadrupeds, and all other wild mammals, but does not include domestic deer.
+
+(Y) "Hunting" means pursuing, shooting, killing, following after or on the trail of, lying in wait for, shooting at, or wounding wild birds or wild quadrupeds while employing any device commonly used to kill or wound wild birds or wild quadrupeds whether or not the acts result in killing or wounding. "Hunting" includes every attempt to kill or wound and every act of assistance to any other person in killing or wounding or attempting to kill or wound wild birds or wild quadrupeds.
+
+(Z) "Trapping" means securing or attempting to secure possession of a wild bird or wild quadruped by means of setting, placing, drawing, or using any device that is designed to close upon, hold fast, confine, or otherwise capture a wild bird or wild quadruped whether or not the means results in capture. "Trapping" includes every act of assistance to any other person in capturing wild birds or wild quadrupeds by means of the device whether or not the means results in capture.
+
+(AA) "Muskrat spear" means any device used in spearing muskrats.
+
+(BB) "Channels and passages" means those narrow bodies of water lying between islands or between an island and the mainland in Lake Erie.
+
+(CC) "Island" means a rock or land elevation above the waters of Lake Erie having an area of five or more acres above water.
+
+(DD) "Reef" means an elevation of rock, either broken or in place, or gravel shown by the latest United States chart to be above the common level of the surrounding bottom of the lake, other than the rock bottom, or in place forming the base or foundation rock of an island or mainland and sloping from the shore of it. "Reef" also means all elevations shown by that chart to be above the common level of the sloping base or foundation rock of an island or mainland, whether running from the shore of an island or parallel with the contour of the shore of an island or in any other way and whether formed by rock, broken or in place, or from gravel.
+
+(EE) "Fur farm" means any area used exclusively for raising fur-bearing animals or in addition thereto used for hunting game, the boundaries of which are plainly marked as such.
+
+(FF) "Waters" includes any lake, pond, reservoir, stream, channel, lagoon, or other body of water, or any part thereof, whether natural or artificial.
+
+(GG) "Crib" or "car" refers to that particular compartment of the net from which the fish are taken when the net is lifted.
+
+(HH) "Commercial fish" means those species of fish permitted to be taken, possessed, bought, or sold unless otherwise restricted by the Revised Code or division rule and are alewife (Alosa pseudoharengus), American eel (Anguilla rostrata), bowfin (Amia calva), burbot (Lota lota), carp (Cyprinus carpio), smallmouth buffalo (Ictiobus bubalus), bigmouth buffalo (Ictiobus cyprinellus), black bullhead (Ictalurus melas), yellow bullhead (Ictalurus natalis), brown bullhead (Ictalurus nebulosus), channel catfish (Ictalurus punctatus), flathead catfish (Pylodictis olivaris), whitefish (Coregonus sp.), cisco (Coregonus sp.), freshwater drum or sheepshead (Aplodinotus grunniens), gar (Lepisosteus sp.), gizzard shad (Dorosoma cepedianum), goldfish (Carassius auratus), lake trout (Salvelinus namaycush), mooneye (Hiodon tergisus), quillback (Carpiodes cyprinus), smelt (Allosmerus elongatus, Hypomesus sp., Osmerus sp., Spirinchus sp.), sturgeon (Acipenser sp., Scaphirhynchus sp.), sucker other than buffalo and quillback (Carpiodes sp., Catostomus sp., Hypentelium sp., Minytrema sp., Moxostoma sp.), white bass (Morone chrysops), white perch (Roccus americanus), and yellow perch (Perca flavescens). When the common name of a fish is used in this chapter or Chapter 1533. of the Revised Code, it refers to the fish designated by the scientific name in this definition.
+
+(II) "Fishing" means taking or attempting to take fish by any method, and all other acts such as placing, setting, drawing, or using any device commonly used to take fish whether resulting in a taking or not.
+
+(JJ) "Fillet" means the pieces of flesh taken or cut from both sides of a fish, joined to form one piece of flesh.
+
+(KK) "Part fillet" means a piece of flesh taken or cut from one side of a fish.
+
+(LL) "Round" when used in describing fish means with head and tail intact.
+
+(MM) "Migrate" means the transit or movement of fish to or from one place to another as a result of natural forces or instinct and includes, but is not limited to, movement of fish induced or caused by changes in the water flow.
+
+(NN) "Spreader bar" means a brail or rigid bar placed across the entire width of the back, at the top and bottom of the cars in all trap, crib, and fyke nets for the purpose of keeping the meshes hanging squarely while the nets are fishing.
+
+(OO) "Fishing guide" means any person who, for consideration or hire, operates a boat, rents, leases, or otherwise furnishes angling devices, ice fishing shanties or shelters of any kind, or other fishing equipment, and accompanies, guides, directs, or assists any other person in order for the other person to engage in fishing.
+
+(PP) "Net" means fishing devices with meshes composed of twine or synthetic material and includes, but is not limited to, trap nets, fyke nets, crib nets, carp aprons, dip nets, and seines, except minnow seines and minnow dip nets.
+
+(QQ) "Commercial fishing gear" means seines, trap nets, fyke nets, dip nets, carp aprons, trotlines, other similar gear, and any boat used in conjunction with that gear, but does not include gill nets.
+
+(RR) "Native wildlife" means any species of the animal kingdom indigenous to this state.
+
+(SS) "Gill net" means a single section of fabric or netting seamed to a float line at the top and a lead line at the bottom, which is designed to entangle fish in the net openings as they swim into it.
+
+(TT) "Tag fishing tournament" means a contest in which a participant pays a fee, or gives other valuable consideration, for a chance to win a prize by virtue of catching a tagged or otherwise specifically marked fish within a limited period of time.
+
+(UU) "Tenant" means an individual who resides on land for which the individual pays rent and whose annual income is primarily derived from agricultural production conducted on that land, as "agricultural production" is defined in section 929.01 of the Revised Code.
+
+(VV) "Nonnative wildlife" means any wild animal not indigenous to this state, but does not include domestic deer.
+
+(WW) "Reptiles" includes common musk turtle (sternotherus odoratus), common snapping turtle (Chelydra serpentina serpentina), spotted turtle (Clemmys guttata), eastern box turtle (Terrapene carolina carolina), Blanding's turtle (Emydoidea blandingii), common map turtle (Graptemys geographica), ouachita map turtle (Graptemys pseudogeographica ouachitensis), midland painted turtle (Chrysemys picta marginata), red-eared slider (Trachemys scripta elegans), eastern spiny softshell turtle (Apalone spinifera spinifera), midland smooth softshell turtle (Apalone mutica mutica), northern fence lizard (Sceloporus undulatus hyacinthinus), ground skink (Scincella lateralis), five-lined skink (Eumeces fasciatus), broadhead skink (Eumeces laticeps), northern coal skink (Eumeces anthracinus anthracinus), European wall lizard (Podarcis muralis), queen snake (Regina septemvittata), Kirtland's snake (Clonophis kirtlandii), northern water snake (Nerodia sipedon sipedon), Lake Erie watersnake (Nerodia sipedon insularum), copperbelly water snake (Nerodia erythrogaster neglecta), northern brown snake (Storeria dekayi dekayi), midland brown snake (Storeria dekayi wrightorum), northern redbelly snake (Storeria occipitomaculata occipitomaculata), eastern garter snake (Thamnophis sirtalis sirtalis), eastern plains garter snake (Thamnophis radix radix), Butler's garter snake (Thamnophis butleri), shorthead garter snake (Thamnophis brachystoma), eastern ribbon snake (Thamnophis sauritus sauritus), northern ribbon snake (Thamnophis sauritus septentrionalis), eastern hognose snake (Heterodon platirhinos), eastern smooth earth snake (Virginia valeriae valeriae), northern ringneck snake (Diadophis punctatus edwardsii), midwest worm snake (Carphophis amoenus helenae), eastern worm snake (Carphophis amoenus amoenus), black racer (Coluber constrictor constrictor), blue racer (Coluber constrictor foxii), rough green snake (opheodrys aestivus), smooth green snake (opheodrys vernalis vernalis), black rat snake (Elaphe obsoleta obsoleta), eastern fox snake (Elaphe vulpina gloydi), black kingsnake (Lampropeltis getula nigra), eastern milk snake (Lampropeltis triangulum triangulum), northern copperhead (Agkistrodon contortrix mokasen), eastern massasauga (Sistrurus catenatus catenatus), and timber rattlesnake (Crotalus horridus horridus).
+
+(XX) "Amphibians" includes eastern hellbender (Crytpobranchus alleganiensis alleganiensis), mudpuppy (Necturus maculosus maculosus), red-spotted newt (Notophthalmus viridescens viridescens), Jefferson salamander (Ambystoma jeffersonianum), spotted salamander (Ambystoma maculatum), blue-spotted salamander (Ambystoma laterale), smallmouth salamander (Ambystoma texanum), streamside salamander (Ambystoma barbouri), marbled salamander (Ambystoma opacum), eastern tiger salamander (Ambystoma tigrinum tigrinum), northern dusky salamander (Desmognathus fuscus fuscus), mountain dusky salamander (Desmognathus ochrophaeus), redback salamander (Plethodon cinereus), ravine salamander (Plethodon richmondi), northern slimy salamander (Plethodon glutinosus), Wehrle's salamander (Plethodon wehrlei), four-toed salamander (Hemidactylium scutatum), Kentucky spring salamander (Gyrinophilus porphyriticus duryi), northern spring salamander (Gyrinophilus porphyriticus porphyriticus), mud salamander (Pseudotriton montanus), northern red salamander (Pseudotriton ruber ruber), green salamander (Aneides aeneus), northern two-lined salamander (Eurycea bislineata), longtail salamander (Eurycea longicauda longicauda), cave salamander (Eurycea lucifuga), southern two-lined salamander (Eurycea cirrigera), Fowler's toad (Bufo woodhousii fowleri), American toad (Bufo americanus), eastern spadefoot (Scaphiopus holbrookii), Blanchard's cricket frog (Acris crepitans blanchardi), northern spring peeper (Pseudacris crucifer crucifer), gray treefrog (Hyla versicolor), Cope's gray treefrog (Hyla chrysoscelis), western chorus frog (Pseudacris triseriata triseriata), mountain chorus frog (Pseudacris brachyphona), bullfrog (Rana catesbeiana), green frog (Rana clamitans melanota), northern leopard frog (Rana pipiens), pickerel frog (Rana palustris), southern leopard frog (Rana utricularia), and wood frog (Rana sylvatica).
+
+(YY) "Deer" means white-tailed deer (Oddocoileus virginianus).
+
+(ZZ) "Domestic deer" means nonnative deer that have been legally acquired or their offspring and that are held in private ownership for primarily agricultural purposes.
+
+(AAA) "Migratory game bird" includes waterfowl (Anatidae); doves (Columbidae); cranes (Gruidae); cormorants (Phalacrocoracidea); rails, coots, and gallinules (Rallidae); and woodcock and snipe (Scolopacidae).
+
+(BBB) "Accompany" means to go along with another person while staying within a distance from the person that enables uninterrupted, unaided visual and auditory communication.
+
+(CCC) "All-purpose vehicle" means any vehicle that is designed primarily for cross-country travel on land, water, or land and water and that is steered by wheels, caterpillar treads, or a combination of wheels and caterpillar treads and includes vehicles that operate on a cushion of air, vehicles commonly known as all-terrain vehicles, all-season vehicles, mini-bikes, and trail bikes.
+
+(DDD) "Wholly enclosed preserve" means an area of land that is surrounded by a fence that is at least six feet in height, unless otherwise specified in division rule, and is constructed of a woven wire mesh, or another enclosure that the division of wildlife may approve, where game birds, game quadrupeds, reptiles, amphibians, or fur-bearing animals are raised and may be sold under the authority of a commercial propagating license or captive white-tailed deer propagation license obtained under section 1533.71 of the Revised Code.
+
+(EEE) "Commercial bird shooting preserve" means an area of land where game birds are released and hunted by shooting as authorized by a commercial bird shooting preserve license obtained under section 1533.72 of the Revised Code.
+
+(FFF) "Wild animal hunting preserve" means an area of land where game, captive white-tailed deer, and nonnative wildlife, other than game birds, are released and hunted as authorized by a wild animal hunting preserve license obtained under section 1533.721 of the Revised Code.
+
+(GGG) "Captive white-tailed deer" means legally acquired deer that are held in private ownership at a facility licensed under section 943.03 or 943.031 of the Revised Code and under section 1533.71 or 1533.721 of the Revised Code.
+
+(HHH) "Wild boar" or "feral swine" means a hog, boar, or pig that appears to be untamed, undomesticated, or in a wild state. "Wild boar" or "feral swine" includes both of the following:
+
+(1) Except for Sus scrofa domesticus that is legally confined or held in captivity, members of the family suidae, including all of the following:
+
+(a) Wild pig, wild hog, feral hog, and feral pig;
+
+(b) Old world swine, razorbacks, European wild boar, and Russian wild boar, and any hybrids or crossbreeds thereof;
+
+(c) Wild pig, wild hog, feral hog, or feral pig that appear contained in a wild animal hunting preserve licensed under section 1533.721 of the Revised Code or a wholly enclosed preserve for hunting or trapping.
+
+(2) Members of the family tayassuidae, including collared peccary and javelina, and any hybrids or crossbreeds of members of the family tayassuidae.
+
+Last updated August 1, 2025 at 3:47 PM

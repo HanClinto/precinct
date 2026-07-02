@@ -1,0 +1,555 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 2712.01 - International commercial arbitration definitions.",
+      "number": "2712.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.02 - Applicability of chapter.",
+      "number": "2712.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.03 - Determining when arbitration or conciliation agreement is international.",
+      "number": "2712.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.04 - Determining when arbitration or conciliation agreement is commercial.",
+      "number": "2712.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.05 - General arbitration statutes superseded.",
+      "number": "2712.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.06 - Freedom to determine issues.",
+      "number": "2712.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.07 - Inclusion of arbitration or conciliation rules in agreement.",
+      "number": "2712.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.08 - Counterclaims or defenses to counterclaims.",
+      "number": "2712.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.09 - Written communication deemed to have been received.",
+      "number": "2712.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.10 - Waiving right to object to noncompliance.",
+      "number": "2712.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.11 - Intervention by court.",
+      "number": "2712.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.12 - Arbitration agreement form.",
+      "number": "2712.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.13 - Application for stay of proceedings and to compel arbitration.",
+      "number": "2712.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.14 - Interim measure of protection.",
+      "number": "2712.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.15 - Granting measures of protection.",
+      "number": "2712.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.16 - Considerations in granting measures of protection.",
+      "number": "2712.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.17 - Composition of arbitration tribunal.",
+      "number": "2712.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.18 - Procedure for appointing arbitral tribunal.",
+      "number": "2712.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.19 - Measures to secure the appointment of an arbitrator.",
+      "number": "2712.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.20 - Appointing arbitrators.",
+      "number": "2712.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.21 - Finality of decision appointing arbitrators.",
+      "number": "2712.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.22 - Potential arbitrators and conciliators to disclose questionable impartiality.",
+      "number": "2712.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.23 - Obligation to disclose information.",
+      "number": "2712.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.24 - Continuing duty to disclose questionable impartiality.",
+      "number": "2712.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.25 - Challenging an arbitrator.",
+      "number": "2712.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.26 - Circumstances causing challenge.",
+      "number": "2712.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.27 - Deciding challenges.",
+      "number": "2712.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.28 - Court of common pleas to review challenge decisions.",
+      "number": "2712.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.29 - Mandate of arbitrator terminates.",
+      "number": "2712.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.30 - Replacing arbitrator.",
+      "number": "2712.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.31 - Jurisdiction rulings.",
+      "number": "2712.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.32 - Plea of lack of jurisdiction.",
+      "number": "2712.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.33 - Exceeding scope of authority plea.",
+      "number": "2712.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.34 - Admission of later plea.",
+      "number": "2712.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.35 - Court review of ruling on jurisdiction.",
+      "number": "2712.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.36 - Requests for interim measure of protection order.",
+      "number": "2712.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.37 - Equal opportunity to present case.",
+      "number": "2712.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.38 - Agreement for procedure.",
+      "number": "2712.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.39 - Tribunal to determine procedure.",
+      "number": "2712.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.40 - Place of arbitration decision.",
+      "number": "2712.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.41 - Place of meeting of arbitral tribunal.",
+      "number": "2712.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.42 - Language used in proceedings.",
+      "number": "2712.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.43 - Arbitral proceeding commences on date of request.",
+      "number": "2712.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.44 - Timely submission of statement of claims.",
+      "number": "2712.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.45 - Amending or supplementing statement of claim or defense.",
+      "number": "2712.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.46 - Oral hearings and meetings.",
+      "number": "2712.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.47 - Notice of hearings or meetings.",
+      "number": "2712.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.48 - Information on which the tribunal may rely to be communicated to all parties.",
+      "number": "2712.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.49 - Party's failure to appear or produce documents.",
+      "number": "2712.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.50 - Experts.",
+      "number": "2712.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.51 - Assistance by court of common pleas.",
+      "number": "2712.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.52 - Consolidating arbitration.",
+      "number": "2712.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.53 - Designation of law or legal system.",
+      "number": "2712.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.54 - Authorization for decision ex aequo et bono or amiable compositeur.",
+      "number": "2712.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.55 - Accordance with contract - usages of trade.",
+      "number": "2712.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.56 - Decision of majority or presider.",
+      "number": "2712.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.57 - Encouraging settlement.",
+      "number": "2712.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.58 - Record of settlement.",
+      "number": "2712.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.59 - Form and delivery of award.",
+      "number": "2712.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.60 - Interim arbitral award.",
+      "number": "2712.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.61 - Interest and cost allocation.",
+      "number": "2712.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.62 - Request for correction of errors or interpretation of award.",
+      "number": "2712.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.63 - Request of additional award as to claims presented but not adjudicated.",
+      "number": "2712.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.64 - Time extensions.",
+      "number": "2712.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.65 - Terminating proceedings.",
+      "number": "2712.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.66 - Termination order.",
+      "number": "2712.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.67 - Terminating mandate or arbitrators.",
+      "number": "2712.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.67"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.68 - Arbitrators' immunity.",
+      "number": "2712.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.68"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.69 - Confirmation or vacation of award.",
+      "number": "2712.69",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.69"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.70 - Grounds for confirmation or vacation of award.",
+      "number": "2712.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.71 - Relief granted in foreign currency.",
+      "number": "2712.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.72 - Entering judgment or decree.",
+      "number": "2712.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.73 - Appeal from court of common pleas.",
+      "number": "2712.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.74 - Policy of state to encourage arbitration or conciliation.",
+      "number": "2712.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.74"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.75 - Guiding principles.",
+      "number": "2712.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.76 - Proceedings of conciliation.",
+      "number": "2712.76",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.76"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.77 - Representation or assistance.",
+      "number": "2712.77",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.77"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.78 - Draft conciliation statement.",
+      "number": "2712.78",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.78"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.79 - Acceptance of settlement.",
+      "number": "2712.79",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.79"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.80 - Evidence and documents admissibility and disclosure.",
+      "number": "2712.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.80"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.81 - Stay of judicial and arbitral proceedings.",
+      "number": "2712.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.82 - Conciliation tolls statute of limitations.",
+      "number": "2712.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.82"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.83 - Terminating conciliation proceedings.",
+      "number": "2712.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.83"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.84 - Terminating as to particular parties.",
+      "number": "2712.84",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.84"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.85 - Participation of conciliator in other proceedings involving same dispute.",
+      "number": "2712.85",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.85"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.86 - Waiving rights and remedies.",
+      "number": "2712.86",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.86"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.87 - Written conciliation agreement treated as arbitral award.",
+      "number": "2712.87",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.87"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.88 - Conciliation costs.",
+      "number": "2712.88",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.88"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.89 - Cost apportionment - immunity of conciliator.",
+      "number": "2712.89",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.89"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.90 - State court jurisdiction.",
+      "number": "2712.90",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.90"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2712.91 - Chapter provisions classified as substantive.",
+      "number": "2712.91",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2712.91"
+    }
+  ],
+  "scraped": "2026-07-02T19:44:58+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-2712",
+  "title": "Chapter 2712 - International Commercial Arbitration"
+}

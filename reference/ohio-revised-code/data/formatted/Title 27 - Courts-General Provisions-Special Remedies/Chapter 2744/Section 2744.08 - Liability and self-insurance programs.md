@@ -1,0 +1,20 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-2744.08
+Scraped: 2026-07-02T19:45:45+00:00
+
+# Section 2744.08 - Liability and self-insurance programs.
+
+**Effective:** September 29, 2005
+
+**Latest Legislation:** House Bill 66 - 126th General Assembly
+
+(A)(1) A political subdivision may use public funds to secure insurance with respect to its and its employees' potential liability in damages in civil actions for injury, death, or loss to persons or property allegedly caused by an act or omission of the political subdivision or any of its employees in connection with a governmental or proprietary function. The insurance may be at the limits, for the circumstances, and subject to the terms and conditions, that are determined by the political subdivision in its discretion.
+
+The insurance may be for the period of time that is set forth in specifications for competitive bids or, when competitive bidding is not required, for the period of time that is mutually agreed upon by the political subdivision and insurance company. The period of time does not have to be, but can be, limited to the fiscal cycle under which the political subdivision is funded and operates.
+
+(2)(a) Regardless of whether a political subdivision procures a policy or policies of liability insurance pursuant to division (A)(1) of this section or otherwise, the political subdivision may establish and maintain a self-insurance program relative to its and its employees' potential liability in damages in civil actions for injury, death, or loss to persons or property allegedly caused by an act or omission of the political subdivision or any of its employees in connection with a governmental or proprietary function. The political subdivision may reserve such funds as it deems appropriate in a special fund that may be established pursuant to an ordinance or resolution of the political subdivision and not subject to section 5705.12 of the Revised Code. The political subdivision may allocate the costs of insurance or a self-insurance program, or both, among the funds or accounts in the subdivision's treasury on the basis of relative exposure and loss experience. The political subdivision may require any deductibles under an insurance or self-insurance program, or both, to be paid from funds or accounts in the subdivision's treasury from which a loss was directly attributable. If it so chooses, the political subdivision may contract with any person, other political subdivision, or regional council of governments for purposes of the administration of such a program.
+
+(b) Political subdivisions that have established self-insurance programs relative to their and their employees' potential liability as described in division (A)(2)(a) of this section may mutually agree that their self-insurance programs will be jointly administered in a specified manner.
+
+(B) The purchase of liability insurance, or the establishment and maintenance of a self-insurance program, by a political subdivision does not constitute a waiver of any immunity or defense of the political subdivision or its employees, except that the political subdivision may specifically waive any immunity or defense to which it or its employees may be entitled if a provision to that effect is specifically included in the policy of insurance or in a written plan of operation of the self-insurance program, or, if any, the legislative enactment of the political subdivision authorizing the purchase of the insurance or the establishment and maintenance of the self-insurance program. Such a specific waiver shall be only to the extent of the insurance or self-insurance program coverage.
+
+(C) The authorizations for political subdivisions to secure insurance and to establish and maintain self-insurance programs in this section are in addition to any other authority to secure insurance or to establish and maintain self-insurance programs that is granted pursuant to the Revised Code or the constitution of this state, and they are not in derogation of any other authorization.

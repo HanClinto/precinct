@@ -1,0 +1,110 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-5705
+Scraped: 2026-07-02T20:14:22+00:00
+
+# Chapter 5705 - Tax Levy Law
+
+## Sections
+
+- Section 5705.01 - Tax levy law definitions.
+- Section 5705.02 - Ten-mill limitation.
+- Section 5705.03 - Authorization to levy taxes - collection.
+- Section 5705.04 - Division of taxes levied.
+- Section 5705.05 - Purpose and intent of general levy for current expenses.
+- Section 5705.06 - Special levies without vote of the people within ten-mill limitation.
+- Section 5705.07 - Levies in excess of ten-mill limitation.
+- Section 5705.08 - Certification by fiscal officer.
+- Section 5705.09 - Establishment of funds.
+- Section 5705.091 - County developmental disabilities general fund - capital fund - medicaid reserve fund.
+- Section 5705.10 - Use of revenues.
+- Section 5705.11 - Distribution of revenue derived from federal government.
+- Section 5705.12 - Approval to establish special funds.
+- Section 5705.121 - Other special funds.
+- Section 5705.13 - Reserve balance accounts - special revenue fund - capital projects fund.
+- Section 5705.131 - Nonexpendable trust fund.
+- Section 5705.132 - Reserve balance account for other purposes.
+- Section 5705.14 - Transfer of funds.
+- Section 5705.15 - Transfer of public funds - exceptions.
+- Section 5705.16 - Resolution for transfer of funds; petition; approval or disapproval by tax commissioner.
+- Section 5705.17 - School district carryover balance ballot language.
+- Section 5705.18 - Charter prevails over ten-mill limitation - calculation of tax rate.
+- Section 5705.19 - Resolution relative to tax levy in excess of ten-mill limitation.
+- Section 5705.191 - Levy in excess of ten-mill limitation - political subdivisions other than schools.
+- Section 5705.193 - County anticipation notes for permanent improvement or class of permanent improvements.
+- Section 5705.194 - Levy in excess of ten-mill limitation - schools.
+- Section 5705.195 - Fixed-sum levy: calculation of millage and term.
+- Section 5705.196 - Fixed-sum levy: submission of question to electors.
+- Section 5705.197 - Fixed-sum levy: form of ballot.
+- Section 5705.198 - Tax levy by joint recreation district.
+- Section 5705.199 - School levy in excess of ten-mill limitation.
+- Section 5705.20 - Special levy for tuberculosis treatment or clinics.
+- Section 5705.21 - Special election on additional school district levy.
+- Section 5705.212 - School levy of up to five incremental taxes.
+- Section 5705.213 - Special school district election on levy for current expenses - renewal levy.
+- Section 5705.214 - Frequency of school district elections.
+- Section 5705.215 - County school financing district levy.
+- Section 5705.216 - Issuing additional anticipation notes for school purposes.
+- Section 5705.217 - Holding special elections on additional tax for school district purposes.
+- Section 5705.218 - Holding special elections on general obligation bonds for school district purposes.
+- Section 5705.219 - Conversion of existing levies imposed for the purpose of current expenses into a levy raising a specified amount of tax money.
+- Section 5705.2110 - Certification of tax amount.
+- Section 5705.2111 - Proposal for levy in excess of limitation.
+- Section 5705.2112 - Tax levy to fund acquisition of classroom facilities that benefit the qualifying partnership.
+- Section 5705.2113 - Levy of tax in excess of ten mill limitation for purpose of acquiring classroom facilities and necessary appurtenances.
+- Section 5705.2114 - Career-technical cooperative education district levy.
+- Section 5705.22 - Additional levy for county hospitals.
+- Section 5705.221 - Additional levy for county alcohol, drug addiction, and mental health programs.
+- Section 5705.222 - Additional levy for county developmental disabilities programs.
+- Section 5705.23 - Special levy for public library - resolution - submission to electors.
+- Section 5705.233 - General obligation bonds for permanent improvements to criminal justice facilities.
+- Section 5705.24 - County tax levy for support of children services.
+- Section 5705.25 - Submission of proposed levy - notice of election - form of ballot - certification.
+- Section 5705.251 - Election on incremental taxes for schools.
+- Section 5705.252 - Election on transportation services.
+- Section 5705.26 - Majority vote necessary for levies.
+- Section 5705.261 - Election on decrease of an increased rate of levy approved for a continuing period of time.
+- Section 5705.27 - County budget commission.
+- Section 5705.28 - Adoption of tax budget - procedure for participation by public library trustees.
+- Section 5705.281 - Waiving requirement of adoption of tax budget.
+- Section 5705.29 - Contents of tax budget - contingency reserve balance - spending reserve.
+- Section 5705.30 - Public inspection of budget - hearing - notice - submission to county auditor.
+- Section 5705.31 - Approval of levies by budget commission - minimum levy.
+- Section 5705.311 - Application of levy to annexed territory.
+- Section 5705.312 - Increasing minimum levy to pay debt service.
+- Section 5705.313 - Permitting property tax rate reduction when county sales tax increased.
+- Section 5705.314 - Conducting public hearing on proposed school levy.
+- Section 5705.315 - Effect of annexation on minimum municipal and township levies.
+- Section 5705.316 - Inflation limitation on levies within the ten-mill limitation.
+- Section 5705.32 - Budget commission to adjust amounts required - revision of estimate - distribution - hearing.
+- Section 5705.321 - Alternative method of apportionment.
+- Section 5705.322 - Reducing taxing authority of counties in connection with developmental disabilities general fund.
+- Section 5705.33 - Reduction of operating levy.
+- Section 5705.34 - Certification of tax levy - revision of budget.
+- Section 5705.341 - Right of appeal.
+- Section 5705.35 - Contents of certification.
+- Section 5705.36 - Certification of available revenue - additional revenue - amended official certificate.
+- Section 5705.37 - Appeal to board of tax appeals.
+- Section 5705.38 - Annual appropriation measures - classification.
+- Section 5705.39 - Appropriations limited by estimated revenue.
+- Section 5705.391 - Board of education revenues and expenditures report.
+- Section 5705.392 - County spending plan.
+- Section 5705.40 - Amending or supplementing appropriation ordinance - transfer - unencumbered balance - appropriation for contingencies.
+- Section 5705.41 - Restriction upon appropriation and expenditure of money.
+- Section 5705.411 - Anticipated proceeds from levy for permanent improvement are deemed appropriated.
+- Section 5705.412 - Certificate of revenue required for school district expenditures.
+- Section 5705.42 - Grants by United States government.
+- Section 5705.43 - Improvements paid by special assessments.
+- Section 5705.44 - Contracts running beyond fiscal year - certificate not required on contracts payable from utility earnings.
+- Section 5705.45 - Liability for wrongful payments from public funds - enforcement.
+- Section 5705.46 - Payment of current payrolls.
+- Section 5705.47 - Existing actions or proceedings.
+- Section 5705.48 - Joint budget commission - adjustment of tax rate.
+- Section 5705.49 - Subdivision's power to tax - limitation.
+- Section 5705.50 - Subdivisions may expend local funds for real property inventory.
+- Section 5705.51 - Indirect debt limitation.
+- Section 5705.55 - Resolution regarding tax levy in excess of limitation by board of lake facilities authority.
+- Section 5705.60 - Fixed-sum levy rate adjustment.
+- Section 5705.61 - Tax on use, lease or occupancy of public real property not used for public purpose.
+- Section 5705.62 - Payment of tax.
+- Section 5705.63 - Distributing tax revenue.
+- Section 5705.71 - County levy for senior citizens services or facilities.
+- Section 5705.72 - Levy of tax in excess of limitation for transportation services.

@@ -1,0 +1,82 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"First purchaser\" means:\n\n(1) With regard to crude oil and condensate, the person to whom title first is transferred beyond the gathering tank or tanks, beyond the facility from which the crude oil was first produced, or both;\n\n(2) With regard to natural gas, the person to whom title first is transferred beyond the inlet side of the measurement station from which the natural gas was first produced.",
+      "id": "1510.01-first-purchaser",
+      "normalized": "first purchaser",
+      "scope": "As used in this chapter:",
+      "section": "1510.01",
+      "source_title": "Section 1510.01 - Oil and natural gas marketing program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1510.01",
+      "term": "First purchaser"
+    },
+    {
+      "definition": "(B) \"Producer\" means a person who complies with all of the following:\n\n(1) Produces oil or natural gas in this state;\n\n(2) Derives a majority of income from ownership in properties producing oil or natural gas ;\n\n(3) Is the owner of record for the respective wells from which assessments are levied under this chapter.",
+      "id": "1510.01-producer",
+      "normalized": "producer",
+      "scope": "As used in this chapter:",
+      "section": "1510.01",
+      "source_title": "Section 1510.01 - Oil and natural gas marketing program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1510.01",
+      "term": "Producer"
+    },
+    {
+      "definition": "(C) \"Independent producer\" means a producer that is not engaged in refining either oil or natural gas.",
+      "id": "1510.01-independent-producer",
+      "normalized": "independent producer",
+      "scope": "As used in this chapter:",
+      "section": "1510.01",
+      "source_title": "Section 1510.01 - Oil and natural gas marketing program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1510.01",
+      "term": "Independent producer"
+    },
+    {
+      "definition": "(D) \"Qualified independent producer association\" means an association that complies with all of the following:\n\n(1) It is in existence on December 18, 1997.\n\n(2) It is organized and operating within this state.\n\n(3) A majority of the members of its governing body are independent producers.",
+      "id": "1510.01-qualified-independent-producer-association",
+      "normalized": "qualified independent producer association",
+      "scope": "As used in this chapter:",
+      "section": "1510.01",
+      "source_title": "Section 1510.01 - Oil and natural gas marketing program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1510.01",
+      "term": "Qualified independent producer association"
+    },
+    {
+      "definition": "(E) \"Technical advisory council\" or \"council\" means the technical advisory council created in the division of oil and gas resources management under section 1509.38 of the Revised Code.\n\n(F) \"Condensate,\" \"gas,\" \"horizontal well,\" \"oil,\" and \"owner\" have the same meanings as in section 1509.01 of the Revised Code.",
+      "id": "1510.01-technical-advisory-council",
+      "normalized": "technical advisory council",
+      "scope": "As used in this chapter:",
+      "section": "1510.01",
+      "source_title": "Section 1510.01 - Oil and natural gas marketing program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1510.01",
+      "term": "Technical advisory council"
+    },
+    {
+      "definition": "(E) \"Technical advisory council\" or \"council\" means the technical advisory council created in the division of oil and gas resources management under section 1509.38 of the Revised Code.\n\n(F) \"Condensate,\" \"gas,\" \"horizontal well,\" \"oil,\" and \"owner\" have the same meanings as in section 1509.01 of the Revised Code.",
+      "id": "1510.01-council",
+      "normalized": "council",
+      "scope": "As used in this chapter:",
+      "section": "1510.01",
+      "source_title": "Section 1510.01 - Oil and natural gas marketing program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1510.01",
+      "term": "council"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "1509.38",
+      "number": "1509.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1509.38"
+    },
+    {
+      "kind": "section",
+      "label": "1509.01",
+      "number": "1509.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1509.01"
+    }
+  ],
+  "scraped": "2026-07-02T19:37:40+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1510.01",
+  "title": "Section 1510.01 - Oil and natural gas marketing program definitions."
+}

@@ -1,0 +1,423 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 3707.01 - Powers of board - abatement of nuisances.",
+      "number": "3707.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.011 - Railroad rights-of-way to be kept free of dangerous refuse.",
+      "number": "3707.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.011"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.02 - Proceedings when order of board is neglected or disregarded.",
+      "number": "3707.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.021 - Injunctive relief.",
+      "number": "3707.021",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.021"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.03 - Correction of nuisance or unsanitary conditions on school property.",
+      "number": "3707.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.04 - Quarantine regulations.",
+      "number": "3707.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.05 - Board must secure approval of department of health in certain cases.",
+      "number": "3707.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.06 - Notice to be given of prevalence of infectious diseases.",
+      "number": "3707.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.07 - Complaint concerning prevalence of disease - inspection by health commissioner.",
+      "number": "3707.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.08 - Isolation of persons exposed to communicable disease - placarding of premises.",
+      "number": "3707.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.09 - Board may employ quarantine guards.",
+      "number": "3707.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.10 - Disinfection of house in which there has been a contagious disease.",
+      "number": "3707.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.11 - Application of quarantine or isolation orders.",
+      "number": "3707.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.12 - Destruction of infected property.",
+      "number": "3707.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.13 - Compensation for property destroyed.",
+      "number": "3707.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.14 - Maintenance of persons confined in quarantined house.",
+      "number": "3707.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.15 - Employer of illegal alien with contagious or infectious disease to pay expense caused by disease.",
+      "number": "3707.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.16 - Attendance at gatherings by quarantined person prohibited.",
+      "number": "3707.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.17 - Quarantine in place other than that of legal settlement.",
+      "number": "3707.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.18 - Expense of quarantining county public institution.",
+      "number": "3707.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.19 - Disposal of body of person who died of communicable disease.",
+      "number": "3707.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.20 - Admission of person suffering from a contagious or infectious disease to certain institutions.",
+      "number": "3707.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.21 - Disease in public institution - temporary building.",
+      "number": "3707.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.22 - Removal of affected or exposed persons from public institution to hospital.",
+      "number": "3707.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.23 - Examination of common carriers by board during quarantine.",
+      "number": "3707.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.24 - Prohibition against unfounded statements in examination.",
+      "number": "3707.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.25 - Application of quarantine rules to persons and goods on vehicles of transportation.",
+      "number": "3707.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.26 - Board shall inspect schools and may close them.",
+      "number": "3707.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.27 - Board may offer vaccination free or at reasonable charge - fee payable to state.",
+      "number": "3707.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.28 - Expenses of board - levy.",
+      "number": "3707.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.29 - Construction of hospital for contagious disease - bond issue.",
+      "number": "3707.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.30 - Care and control of hospital - removal of persons to hospital.",
+      "number": "3707.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.31 - Establishment of quarantine hospital.",
+      "number": "3707.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.32 - Erection of temporary buildings by board - destruction of property.",
+      "number": "3707.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.34 - Quarantine and isolation policies.",
+      "number": "3707.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.38 - Appointment, authority of inspectors.",
+      "number": "3707.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.39 - Employment of scavengers - approval for constructing, enlarging, or modifying solid waste facility.",
+      "number": "3707.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.40 - Sanitary plant defined.",
+      "number": "3707.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.41 - Municipal corporation may obtain plans and real estate for sanitary plant.",
+      "number": "3707.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.42 - Construction of sanitary plant - purposes.",
+      "number": "3707.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.43 - Contract for removal of waste substances - expense.",
+      "number": "3707.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.44 - Joint construction and use of sanitary plants.",
+      "number": "3707.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.45 - Appointment of sanitary board.",
+      "number": "3707.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.46 - Powers of sanitary board.",
+      "number": "3707.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.47 - Annual reports.",
+      "number": "3707.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.48 - Prohibition against violation of orders or regulations of board.",
+      "number": "3707.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.49 - Violation by a corporation - forfeiture.",
+      "number": "3707.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.50 - Warning concerning anabolic steroids to be conspicuously posted in athletic facility locker rooms.",
+      "number": "3707.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.51 - \"Youth sports organization\" defined.",
+      "number": "3707.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.511 - Concussion awareness, training and procedures in youth sports organizations.",
+      "number": "3707.511",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.511"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.52 - Concussion and head injury information sheet.",
+      "number": "3707.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.521 - Rules regarding assessment of athletes sustaining concussions or head injuries.",
+      "number": "3707.521",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.521"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.53 - Deposit for costs not required in prosecutions - fines.",
+      "number": "3707.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.54 - Order or regulation may apply only to specific persons.",
+      "number": "3707.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.55 - Acquisition or sale of real property.",
+      "number": "3707.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.57 - Bloodborne infectious disease prevention programs.",
+      "number": "3707.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.58 - Information regarding sudden cardiac arrest.",
+      "number": "3707.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.59 - Educational materials regarding sudden cardiac arrest.",
+      "number": "3707.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.60 - Protocols for dispensing epinephrine in certain health districts.",
+      "number": "3707.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.61 - Type 1 diabetes informational materials.",
+      "number": "3707.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.70 - Definitions for sections 3707.71 to 3707.77.",
+      "number": "3707.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.71 - Fetal infant mortality review board.",
+      "number": "3707.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.72 - Board members.",
+      "number": "3707.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.73 - Purpose.",
+      "number": "3707.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.74 - Production of documents and information.",
+      "number": "3707.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.74"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.75 - Confidentiality.",
+      "number": "3707.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.76 - Immunity from civil liability.",
+      "number": "3707.76",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.76"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.77 - Reporting.",
+      "number": "3707.77",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.77"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3707.99 - Penalty.",
+      "number": "3707.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3707.99"
+    }
+  ],
+  "scraped": "2026-07-02T19:51:07+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-3707",
+  "title": "Chapter 3707 - Board of Health"
+}

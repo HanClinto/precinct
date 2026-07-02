@@ -1,0 +1,18 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5903.03
+Scraped: 2026-07-02T20:16:30+00:00
+
+# Section 5903.03 - Occupational licensing.
+
+**Effective:** September 16, 2014
+
+**Latest Legislation:** House Bill 488 - 130th General Assembly
+
+(A) As used in this section, "military program of training" means a training program of the armed forces.
+
+(B) Notwithstanding any provision of the Revised Code to the contrary, a licensing agency shall consider an applicant for a license:
+
+(1) To have met the educational requirement for that license if the applicant has completed a military program of training and has been awarded a military primary specialty at a level that is substantially equivalent to or exceeds the educational requirement for that license; and
+
+(2) To have met the experience requirement for that license if the applicant has served in that military primary specialty under honorable conditions for a period of time that is substantially equivalent to or exceeds the experience requirement for that license.
+
+(C) Each licensing agency, not later than June 30, 2014, shall adopt rules under Chapter 119. of the Revised Code regarding which military programs of training, military primary specialties, and lengths of service are substantially equivalent to or exceed the educational and experience requirements for each license that agency issues.

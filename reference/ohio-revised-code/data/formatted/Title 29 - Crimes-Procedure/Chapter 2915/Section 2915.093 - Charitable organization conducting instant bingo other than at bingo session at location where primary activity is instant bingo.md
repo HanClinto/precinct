@@ -1,0 +1,36 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-2915.093
+Scraped: 2026-07-02T19:46:13+00:00
+
+# Section 2915.093 - Charitable organization conducting instant bingo other than at bingo session at location where primary activity is instant bingo.
+
+**Effective:** September 30, 2021
+
+**Latest Legislation:** House Bill 110 - 134th General Assembly
+
+(A) As used in this section, "retail income from all commercial activity" means the income that a person receives from the provision of goods, services, or activities that are provided at the location where instant bingo other than at a bingo session is conducted, including the sale of instant bingo tickets. A religious organization that is exempt from federal income taxation under subsection 501(a) and described in subsection 501(c)(3) of the Internal Revenue Code, at not more than one location at which it conducts its charitable programs, may include donations from its members and guests as retail income.
+
+(B)(1) If a charitable instant bingo organization conducts instant bingo other than at a bingo session under a type III license issued under section 2915.08 of the Revised Code, the charitable instant bingo organization shall enter into a written contract with the owner or lessor of the location at which the instant bingo is conducted to allow the owner or lessor to assist in the conduct of instant bingo other than at a bingo session, identify each location where the instant bingo other than at a bingo session is being conducted, and identify the owner or lessor of each location.
+
+(2) A charitable instant bingo organization that conducts instant bingo other than at a bingo session under a type III license issued under section 2915.08 of the Revised Code is not required to enter into a written contract with the owner or lessor of the location at which the instant bingo is conducted, provided that the owner or lessor is not assisting in the conduct of the instant bingo other than at a bingo session and provided that the conduct of the instant bingo other than at a bingo session at that location is not more than five days per calendar year and not more than ten hours per day.
+
+(C) Except as provided in division (F) of this section, no charitable instant bingo organization shall conduct instant bingo other than at a bingo session at a location where the primary source of retail income from all commercial activity at that location is the sale of instant bingo tickets.
+
+(D) The owner or lessor of a location that enters into a contract pursuant to division (B) of this section shall pay the full gross profit to the charitable instant bingo organization, in return for the deal of instant bingo tickets. The owner or lessor may retain the money that the owner or lessor receives for selling the instant bingo tickets, provided, however, that after the deal has been sold, the owner or lessor shall pay to the charitable instant bingo organization the value of any unredeemed instant bingo prizes remaining in the deal of instant bingo tickets.
+
+The charitable instant bingo organization shall pay six per cent of the total gross receipts of any deal of instant bingo tickets for the purpose of reimbursing the owner or lessor for expenses described in this division.
+
+As used in this division, "expenses" means those items provided for in divisions (GG)(4), (5), (6), (7), (8), (12), and (13) of section 2915.01 of the Revised Code and that percentage of the owner's or lessor's rent for the location where instant bingo is conducted. "Expenses," in the aggregate, shall not exceed six per cent of the total gross receipts of any deal of instant bingo tickets.
+
+As used in this division, "full gross profit" means the amount by which the total receipts of all instant bingo tickets, if the deal had been sold in full, exceeds the amount that would be paid out if all prizes were redeemed.
+
+(E) A charitable instant bingo organization shall provide the attorney general with all of the following information:
+
+(1) That the charitable instant bingo organization has terminated a contract entered into pursuant to division (B) of this section with an owner or lessor of a location;
+
+(2) That the charitable instant bingo organization has entered into a written contract pursuant to division (B) of this section with a new owner or lessor of a location;
+
+(3) That the charitable instant bingo organization is aware of conduct by the owner or lessor of a location at which instant bingo is conducted that is in violation of this chapter.
+
+(F) Division (C) of this section does not apply to a volunteer firefighter's organization that is exempt from federal income taxation under subsection 501(a) and described in subsection 501(c)(3) of the Internal Revenue Code, that conducts instant bingo other than at a bingo session on the premises where the organization conducts firefighter training, that has conducted instant bingo continuously for at least five years prior to July 1, 2003, and that, during each of those five years, had gross receipts of at least one million five hundred thousand dollars.
+
+Last updated August 4, 2021 at 4:33 PM

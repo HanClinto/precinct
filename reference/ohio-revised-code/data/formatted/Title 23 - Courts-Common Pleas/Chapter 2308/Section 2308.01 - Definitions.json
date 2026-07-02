@@ -1,0 +1,78 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Manufactured home\" has the same meaning as in section 3781.06 of the Revised Code.",
+      "id": "2308.01-manufactured-home",
+      "normalized": "manufactured home",
+      "scope": "As used in this chapter:",
+      "section": "2308.01",
+      "source_title": "Section 2308.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2308.01",
+      "term": "Manufactured home"
+    },
+    {
+      "definition": "(B) \"Mobile home\" has the same meaning as in section 4501.01 of the Revised Code.",
+      "id": "2308.01-mobile-home",
+      "normalized": "mobile home",
+      "scope": "As used in this chapter:",
+      "section": "2308.01",
+      "source_title": "Section 2308.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2308.01",
+      "term": "Mobile home"
+    },
+    {
+      "definition": "(C) \"Residential condominium unit\" means a \"residential unit\" as defined in section 5311.01 of the Revised Code.",
+      "id": "2308.01-residential-condominium-unit",
+      "normalized": "residential condominium unit",
+      "scope": "As used in this chapter:",
+      "section": "2308.01",
+      "source_title": "Section 2308.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2308.01",
+      "term": "Residential condominium unit"
+    },
+    {
+      "definition": "(D) \"Residential mortgage loan\" means a loan or agreement to extend credit, including the renewal, refinancing, or modification of such a loan or agreement, that is made to a person and that is primarily secured by a mortgage, deed of trust, or other lien upon any interest in residential property or any certification of stock or other evidence of ownership in, and a proprietary lease from, a corporation or partnership formed for the purpose of cooperative ownership of residential property.",
+      "id": "2308.01-residential-mortgage-loan",
+      "normalized": "residential mortgage loan",
+      "scope": "As used in this chapter:",
+      "section": "2308.01",
+      "source_title": "Section 2308.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2308.01",
+      "term": "Residential mortgage loan"
+    },
+    {
+      "definition": "(E) \"Residential property\" means real property located within this state consisting of land and a structure on that land containing four or fewer dwelling units, each of which is intended for occupancy by a separate household. \"Residential property\" includes a residential condominium unit, notwithstanding the number of units in the structure, but includes a manufactured or mobile home only if it is taxed as real property.",
+      "id": "2308.01-residential-property",
+      "normalized": "residential property",
+      "scope": "As used in this chapter:",
+      "section": "2308.01",
+      "source_title": "Section 2308.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2308.01",
+      "term": "Residential property"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3781.06",
+      "number": "3781.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.06"
+    },
+    {
+      "kind": "section",
+      "label": "4501.01",
+      "number": "4501.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4501.01"
+    },
+    {
+      "kind": "section",
+      "label": "5311.01",
+      "number": "5311.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5311.01"
+    }
+  ],
+  "scraped": "2026-07-02T19:43:32+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2308.01",
+  "title": "Section 2308.01 - Definitions."
+}

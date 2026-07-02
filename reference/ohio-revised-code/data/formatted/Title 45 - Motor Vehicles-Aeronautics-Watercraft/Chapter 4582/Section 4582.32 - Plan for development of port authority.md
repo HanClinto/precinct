@@ -1,0 +1,16 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4582.32
+Scraped: 2026-07-02T20:06:04+00:00
+
+# Section 4582.32 - Plan for development of port authority.
+
+**Effective:** October 16, 2009
+
+**Latest Legislation:** House Bill 1 - 128th General Assembly
+
+(A) The board of directors of a port authority shall prepare, or cause to be prepared, a plan for any future development, construction, and improvement of the maritime facilities of the port authority, including such maps, profiles, and other data and descriptions as may be necessary to set forth the location and character of the work to be undertaken by the port authority and a then-current good faith estimate of the cost of the proposed facilities. The plan also shall contain the port authority's proposal for payment of the cost of such facilities, including revenues, grants, subsidies, loans, and financing; provided, that the plan and any such proposal and the contents thereof, and anything contained or not contained therein, shall not affect the legality, validity, or enforceability of any bonds, notes, leases, certificates, or other financing instruments, any real estate, operating or management contracts or instruments or any taxes, tax abatements or exemptions, tax credits, tax increment financing, assessments, or other financial participation related to maritime facilities or such plan. Upon the completion of such plan the board of directors shall cause notice by publication to be given as to each county in which there is a political subdivision that participated in the creation of the port authority, and shall permit the inspection of the plan at the port authority office by all persons interested. The notice shall fix the time and place for the hearing of all comments on the plan, which shall be not less than thirty nor more than sixty days after the completion of the notice. Any interested person may file written comments on the plan, provided the comments are filed with the secretary of the board of directors at the secretary's office not less than five days prior to the date fixed for the hearing. After the hearing the board of directors may adopt the plan with any modifications or amendments thereto as the official plan for the maritime facilities of the port authority.
+
+(B) For purposes of this section and section 4582.33 of the Revised Code:
+
+(1) "Maritime facilities" means docks, wharves, warehouses, piers, and other terminal and transportation buildings or structures used in connection with the transport, storage, or distribution of commercial goods on, over, or across the waterways or shorelines of this state, or buildings or structures for the construction, rehabilitation, maintenance, or repair of commercial vessels used for such purposes, which facilities are or are expected to be owned or leased by a port authority, operated by or on behalf of a port authority, or publicly owned and financed by a port authority.
+
+(2) "Notice by publication" means publication once in a newspaper of general circulation in the county or counties where such publication is required and the posting of the notice on the web site, if any, of the port authority. Notice is complete on the later of the date of posting or the date of newspaper publication.

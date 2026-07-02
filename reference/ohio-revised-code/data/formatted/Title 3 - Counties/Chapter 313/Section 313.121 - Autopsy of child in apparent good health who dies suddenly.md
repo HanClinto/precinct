@@ -1,0 +1,32 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-313.121
+Scraped: 2026-07-02T19:32:44+00:00
+
+# Section 313.121 - Autopsy of child in apparent good health who dies suddenly.
+
+**Effective:** September 17, 2014
+
+**Latest Legislation:** Senate Bill 278 - 130th General Assembly
+
+(A) As used in this section, "parent" means either parent, except that if one parent has been designated the residential parent and legal custodian of the child, "parent" means the designated residential parent and legal custodian, and if a person other than a parent is the child's legal guardian, "parent" means the legal guardian.
+
+(B) If a child under two years of age dies suddenly when in apparent good health, the death shall be reported immediately to the coroner of the county in which the death occurred, as required by section 313.12 of the Revised Code. Except as provided in division (C) of this section, the coroner or deputy coroner shall perform an autopsy on the child. The autopsy shall be performed in accordance with rules adopted by the director of health under section 313.122 of the Revised Code. The coroner or deputy coroner may perform research procedures and tests when performing the autopsy.
+
+If the child was one year of age or younger at the time of death and the death occurred suddenly and unexpectedly, the cause of which is not immediately obvious prior to investigation, the coroner, deputy coroner, or other individual who has been designated to investigate the child's death shall complete a sudden unexplained infant death investigation reporting form (SUIDI reporting form) developed by the United States centers for disease control and prevention or an alternative reporting form. The director of health may develop an alternative reporting form in consultation with the Ohio state coroners association. The individual who completes the reporting form shall retain the form and send a copy of it to the appropriate child fatality review board or regional child fatality review board established under section 307.621 of the Revised Code. If a coroner or deputy coroner completes the reporting form, a copy of the coroner's report described in section 313.09 of the Revised Code shall also be sent to the board.
+
+A completed reporting form and copies of completed reporting forms are not public records under section 149.43 of the Revised Code.
+
+(C) A coroner or deputy coroner is not required to perform an autopsy if the coroner of the county in which the death occurred or a court with jurisdiction over the deceased body determines under section 313.131 of the Revised Code that an autopsy is contrary to the religious beliefs of the child. If the coroner or the court makes such a determination, the coroner shall notify the health district or department of health with jurisdiction in the area in which the child's parent resides. For purposes of this division, the religious beliefs of the parents of a child shall be considered to be the religious beliefs of the child.
+
+(D) If the child's parent makes a written or verbal request for the preliminary results of the autopsy after the results are available, the coroner, or a person designated by the coroner, shall give the parent an oral statement of the preliminary results.
+
+The coroner, within a reasonable time after the final results of the autopsy are reported, shall send written notice of the results to the state department of health, the health district or department with jurisdiction in the area in which the child's parent resides, and, upon the request of a parent of the child, to the child's attending physician. Upon the written request of a parent of the child and the payment of the transcript fee required by section 313.10 of the Revised Code, the coroner shall send written notice of the final results to that parent. The notice sent to the state department of health shall include all of the information specified in rules adopted under section 313.122 of the Revised Code.
+
+(E) On the occurrence of any of the following, the health district or department with jurisdiction in the area in which the child's parent resides shall offer the parent any counseling or other supportive services it has available:
+
+(1) When it learns through any source that an autopsy is being performed on a child under two years of age who died suddenly when in apparent good health;
+
+(2) When it receives notice that the final result of an autopsy performed pursuant to this section concluded that the child died of sudden infant death syndrome;
+
+(3) When it is notified by the coroner that, pursuant to division (C) of this section, an autopsy was not performed.
+
+(F) When a health district or department receives notice that the final result of an autopsy performed pursuant to this section concluded that the child died of sudden infant death syndrome or that, pursuant to division (C) of this section, an autopsy was not performed but sudden infant death syndrome may have been the cause of death, it shall offer the child's parent information about sudden infant death syndrome. The state department of health shall ensure that current information on sudden infant death syndrome is available for distribution by health districts and departments.

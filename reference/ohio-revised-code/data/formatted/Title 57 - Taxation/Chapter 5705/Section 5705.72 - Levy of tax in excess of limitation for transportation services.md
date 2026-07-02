@@ -1,0 +1,20 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5705.72
+Scraped: 2026-07-02T20:14:22+00:00
+
+# Section 5705.72 - Levy of tax in excess of limitation for transportation services.
+
+**Effective:** September 10, 2012
+
+**Latest Legislation:** House Bill 487 - 129th General Assembly
+
+(A) As used in this section and in section 5705.25 of the Revised Code with regard to a levy submitted under this section, "electors" means electors of the unincorporated area of a township.
+
+(B) The board of trustees of any township that withdraws or proposes by resolution to withdraw the unincorporated area of the township from a regional transit authority under section 306.55 of the Revised Code, by vote of two-thirds of all the members of the board of trustees, may declare by resolution that the amount of taxes that may be raised within the ten-mill limitation will be insufficient to provide transportation services to the unincorporated area of the township and that it is necessary to levy a tax in excess of that limitation within the unincorporated area of that township for the purpose of providing transportation services for the movement of persons within, from, or to the unincorporated area of that township.
+
+The resolution shall specify the necessary amount of the increase in rate to levy, the purpose of such increase, and the number of years, not exceeding ten, during which the rate increase shall be in effect, which may or may not include a levy upon the tax list of the current year.
+
+The resolution shall be submitted to the proper county board of elections not less than ninety days before the date of the election at which the question will appear on the ballot and in the manner provided by section 5705.25 of the Revised Code, except that the question may be submitted to electors at a general election or a special election held on a date consistent with section 3501.01 of the Revised Code.
+
+A resolution adopted by the board of trustees of a township under this section may be combined with a resolution for the withdrawal of the unincorporated area of the township from a regional transit authority as provided in section 306.55 of the Revised Code, by vote of two-thirds of all members of the board. The board may certify the combined resolution to the board of elections as a combined question. The question appearing on the ballot shall be as provided in section 5705.252 of the Revised Code.
+
+When electors have approved a tax levy under this section, the board of township trustees may anticipate a fraction of the proceeds of the levy and issue anticipation notes as authorized by section 5705.191 of the Revised Code for a current expense levy with a fixed term, and may anticipate the collection of current revenue under section 133.10 of the Revised Code.

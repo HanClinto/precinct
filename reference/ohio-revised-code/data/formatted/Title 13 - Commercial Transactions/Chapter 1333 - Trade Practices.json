@@ -1,0 +1,411 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 1333.01 - Sale of trading stamps.",
+      "number": "1333.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.02 - Redemption of trading stamps.",
+      "number": "1333.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.03 - Redemption of trading stamps by persons in trade, business, or profession.",
+      "number": "1333.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.04 - Stamps redeemed by issuer.",
+      "number": "1333.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.05 - Motion picture license agreement definitions.",
+      "number": "1333.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.06 - Prohibited acts - effect on license agreements.",
+      "number": "1333.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.07 - Invitations to bid.",
+      "number": "1333.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.11 - Unfair cigarette sales act definitions.",
+      "number": "1333.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.12 - Selling at less than cost.",
+      "number": "1333.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.13 - Wholesaler-to-wholesaler sales.",
+      "number": "1333.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.14 - Type of sales excepted.",
+      "number": "1333.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.15 - Competitive prices.",
+      "number": "1333.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.16 - Void contract.",
+      "number": "1333.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.17 - Determining cost to retailer.",
+      "number": "1333.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.18 - How cost established.",
+      "number": "1333.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.19 - Cost survey as evidence.",
+      "number": "1333.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.20 - Action to enjoin violation - damages.",
+      "number": "1333.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.21 - Revocation or suspension of cigarette license.",
+      "number": "1333.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.211 - Surrender of license upon receipt of notice of suspension or revocation.",
+      "number": "1333.211",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.211"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.22 - Dry cleaner's lien - disposition of unclaimed articles.",
+      "number": "1333.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.23 - Disposition of cleaned articles left in storage without charges paid.",
+      "number": "1333.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.231 - Receipts to be issued.",
+      "number": "1333.231",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.231"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.24 - Notice or publication of proposed sale of articles.",
+      "number": "1333.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.25 - Charges deducted from proceeds - disposition of surplus.",
+      "number": "1333.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.26 - Notices to be posted.",
+      "number": "1333.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.27 - Civil action for unpaid charges.",
+      "number": "1333.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.28 - Immunity.",
+      "number": "1333.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.29 - Molder's lien definitions.",
+      "number": "1333.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.30 - Molder's right to destroy die, mold, pattern or form of customer after three years.",
+      "number": "1333.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.31 - Molder's lien.",
+      "number": "1333.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.32 - Definitions - moldbuilder' lien.",
+      "number": "1333.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.33 - Moldbuilder's lien.",
+      "number": "1333.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.34 - Enforcement of moldbuilder's lien.",
+      "number": "1333.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.35 - Bankruptcy and receiver's sales definitions.",
+      "number": "1333.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.36 - Prohibition on sale of additional merchandise at bankruptcy or receiver's sale.",
+      "number": "1333.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.37 - Intent to mislead or deceive general public.",
+      "number": "1333.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.41 - Lien of bailee for hire on personal property - enforcement of lien.",
+      "number": "1333.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.42 - Lien of bailee for hire on personal property - construction project.",
+      "number": "1333.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.52 - Record piracy.",
+      "number": "1333.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.55 - Disclosing tax information.",
+      "number": "1333.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.60 - Voluntary delivery of unordered goods constitutes unconditional gift.",
+      "number": "1333.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.61 - Uniform trade secrets act definitions.",
+      "number": "1333.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.62 - Injunction against misappropriation.",
+      "number": "1333.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.63 - Damages recoverable.",
+      "number": "1333.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.64 - Attorney's fees.",
+      "number": "1333.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.65 - Authorized means of preserving secrecy.",
+      "number": "1333.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.66 - Time for commencing action.",
+      "number": "1333.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.67 - Conflicting laws displaced - remedies not affected.",
+      "number": "1333.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.67"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.68 - Uniformity of application and construction of provisions.",
+      "number": "1333.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.68"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.69 - Title of act.",
+      "number": "1333.69",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.69"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.71 - Sale of containers with milk or baked goods company logo.",
+      "number": "1333.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.72 - Energy usage labels for new grain-drying equipment.",
+      "number": "1333.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.73 - Energy efficiency standards for HVAC and appliances.",
+      "number": "1333.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.81 - Confidentiality of information.",
+      "number": "1333.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.82 - Alcoholic beverages franchise definitions.",
+      "number": "1333.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.82"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.83 - Written franchise agreement.",
+      "number": "1333.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.83"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.84 - Prohibited acts.",
+      "number": "1333.84",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.84"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.85 - Cancellation, failure to renew or substantial change in territory.",
+      "number": "1333.85",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.85"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.851 - Distributors of acquired manufacturers.",
+      "number": "1333.851",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.851"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.86 - Distributor to maintain adequate physical facilities and personnel.",
+      "number": "1333.86",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.86"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.87 - Liability for violation.",
+      "number": "1333.87",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.87"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.91 - Pyramid promotional scheme definitions.",
+      "number": "1333.91",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.91"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.92 - Prohibition.",
+      "number": "1333.92",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.92"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.93 - Contract void - civil action.",
+      "number": "1333.93",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.93"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.94 - Violation; remedies.",
+      "number": "1333.94",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.94"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.95 - Additional remedies.",
+      "number": "1333.95",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.95"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1333.99 - Penalty.",
+      "number": "1333.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1333.99"
+    }
+  ],
+  "scraped": "2026-07-02T19:37:19+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-1333",
+  "title": "Chapter 1333 - Trade Practices"
+}

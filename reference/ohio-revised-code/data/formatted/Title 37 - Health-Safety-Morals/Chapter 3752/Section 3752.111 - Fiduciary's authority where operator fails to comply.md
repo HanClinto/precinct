@@ -1,0 +1,28 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3752.111
+Scraped: 2026-07-02T20:01:12+00:00
+
+# Section 3752.111 - Fiduciary's authority where operator fails to comply.
+
+**Effective:** July 1, 1996
+
+**Latest Legislation:** House Bill 98 - 120th General Assembly
+
+(A) As used in this section:
+
+(1) "Fiduciary" means a person who for purposes of administering an estate or trust holds legal title to a reporting facility, holds an equity or partnership interest in a reporting facility, or is a lessee of a reporting facility, but who has not exercised actual and direct control over the use, generation, transportation, treatment, storage, or disposal of regulated substances at the facility.
+
+(2) "Actual and direct control" does not include any action taken to inspect the facility for the occurrence of a release or threatened release of a regulated substance; any response action taken under section 107(d)(1) of the "Comprehensive Environmental Response, Compensation, and Liability Act of 1980," 94 Stat. 2781, 42 U.S.C.A. 9607, as amended, and applicable regulations adopted under that act; compliance with the requirements established in division (B) of this section; or any remedial action taken under the trust agreement or other similar document.
+
+(B) If the operator of a reporting facility fails to comply with section 3752.07 of the Revised Code, a fiduciary, within sixty days after receiving actual notice of the cessation of regulated operations at the facility, shall undertake the actions required under division (B) of section 3752.11 of the Revised Code, to the extent there are sufficient assets in the trust, unless the fiduciary is prevented from doing so by circumstances beyond the control of the fiduciary. For the purposes of the application of that division to this division, "holder" shall be deemed to be "fiduciary," and each of the following applies:
+
+(1) To the extent there are sufficient assets in the trust, the fiduciary shall continue the security measures, and maintain the warning signs, as required under division (B)(1) of that section until the fiduciary no longer holds legal title to or an equity or partnership interest in the facility or leases the facility or until the fiduciary or another person has performed the measures required under divisions (A)(4) and (5) of section 3752.06 of the Revised Code in connection with the regulated substances present at the facility;
+
+(2) The notice required under division (B)(2) of section 3752.11 of the Revised Code shall be of the cessation of regulated operations at the facility and of the fiduciary's compliance with the requirements established in division (B)(1) of that section.
+
+(C) Within thirty days before the date when a fiduciary will cease to maintain security and warning signs at a reporting facility pursuant to division (B)(2) of this section, the fiduciary shall so notify the director, the local emergency planning committee of the emergency planning district in which the facility is located, and the fire department having jurisdiction where the facility is located. The fiduciary shall submit the notice on a form prescribed by the director.
+
+(D) A fiduciary is not liable for compliance with divisions (B) and (C) of this section if the fiduciary rejects an appointment as a fiduciary within sixty days after receiving actual notice of its appointment.
+
+Nothing in this section precludes claims against the assets that constitute an estate or the corpus of a trust for compliance with the requirements of this chapter and rules adopted under it, including, without limitation, the requirements of this section.
+
+(E) No person shall fail to comply with this section.

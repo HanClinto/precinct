@@ -1,0 +1,82 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-6111
+Scraped: 2026-07-02T20:17:15+00:00
+
+# Chapter 6111 - Water Pollution Control
+
+## Sections
+
+- Section 6111.01 - Water pollution control definitions.
+- Section 6111.011 - Environmental enforcement authority over ephemeral features.
+- Section 6111.02 - Isolated wetland permit definitions.
+- Section 6111.021 - General and individual isolated wetland permits.
+- Section 6111.022 - Proposed filling of wetland subject to level one review.
+- Section 6111.023 - Proposed filling of wetland subject to level two review.
+- Section 6111.024 - Proposed filling of wetland subject to level three review.
+- Section 6111.025 - Wetland mitigation banks.
+- Section 6111.026 - Application for a general and individual state isolated wetland permit - notice and hearing.
+- Section 6111.027 - Mitigation for impacts to isolated wetlands.
+- Section 6111.028 - Discharge of dredged material into isolated wetlands.
+- Section 6111.03 - Water pollution control powers of director of environmental protection.
+- Section 6111.031 - Modification of terms and conditions of permit.
+- Section 6111.032 - Primary authority to reside in legislative authority or governing board.
+- Section 6111.035 - Coal mining and reclamation operations general permits.
+- Section 6111.036 - Water pollution control loan fund.
+- Section 6111.037 - Nonpoint source pollution management fund.
+- Section 6111.038 - Surface water protection fund.
+- Section 6111.039 - Class B sludge rules requiring the posting of notice regarding the land application.
+- Section 6111.0381 - Water quality protection fund.
+- Section 6111.0382 - Surface water improvement fund.
+- Section 6111.04 - Water pollution and sludge management violations prohibited.
+- Section 6111.041 - Standards of water quality.
+- Section 6111.042 - Rules requiring compliance with Federal Water Pollution Control Act.
+- Section 6111.043 - Regulation of the injection of sewage, industrial waste, hazardous waste, and other wastes into wells.
+- Section 6111.044 - Injection well drilling or operating permit.
+- Section 6111.045 - Waste minimization and treatment plan for class I injection well facility.
+- Section 6111.046 - Annual permit fee - underground injection control fund.
+- Section 6111.047 - Tonnage fees for injection of waste.
+- Section 6111.048 - Temporary assistance of state employees.
+- Section 6111.049 - Tonnage fees for injection of waste - exceptions.
+- Section 6111.05 - Investigation of alleged act of pollution or failure to comply.
+- Section 6111.051 - Use, management, or disposal of structural products.
+- Section 6111.052 - Blast furnace and steel slag.
+- Section 6111.06 - Administrative procedures - emergencies.
+- Section 6111.07 - Prohibited acts - prosecutions and injunction by attorney general.
+- Section 6111.08 - Rights in equity or under common law not affected.
+- Section 6111.09 - Civil penalties for water pollution control violations.
+- Section 6111.10 - Sale of household laundry detergent containing phosphorus above certain limits prohibited in certain counties.
+- Section 6111.11 - Sale of dishwasher detergent with phosphorous content above certain limits prohibited.
+- Section 6111.12 - Antidegradation policy applicable to surface waters of the state pursuant to applicable federal laws and regulations.
+- Section 6111.13 - Discharge limit for a pollutant less than the practical quantification level.
+- Section 6111.14 - Agreement for review of plans for extension of sewerage system or increase in number of service connections.
+- Section 6111.20 - Orders to secure a quality effluent from water purification or sewage treatment works.
+- Section 6111.30 - Application for federal water quality certification - hearing.
+- Section 6111.31 - Interagency review team and mitigation standards.
+- Section 6111.311 - Ephemeral feature mitigation calculation definitions.
+- Section 6111.312 - Limitations on additional requirements.
+- Section 6111.313 - Mitigation of impacts to ephemeral features.
+- Section 6111.314 - Reporting and monitoring requirements.
+- Section 6111.315 - Best management practices.
+- Section 6111.316 - Exceptions from ephemeral feature mitigation requirements.
+- Section 6111.32 - Dredging plan.
+- Section 6111.33 - Dredged material.
+- Section 6111.34 - Rules governing beneficial use of dredged material.
+- Section 6111.41 - Comprehensive water resource management planning by directors of environmental protection and natural resources.
+- Section 6111.42 - Water quality powers of director of environmental protection.
+- Section 6111.44 - Plans for installation or changes to sewerage systems to be submitted to director of environmental protection.
+- Section 6111.441 - Sewage treatment systems regulated by board of health exempt from chapter.
+- Section 6111.45 - Plans for the disposal of the waste to be submitted to director of environmental protection.
+- Section 6111.451 - Sewage construction activities not requiring plan approval.
+- Section 6111.46 - Environmental protection agency general supervision of treatment and disposal of sewage and industrial wastes and operation and means therefor.
+- Section 6111.50 - Credible data definitions.
+- Section 6111.51 - Criteria for three levels of credible data related to surface water monitoring and assessment.
+- Section 6111.52 - Level three credible data activities.
+- Section 6111.53 - Water quality monitoring program to collect levels one, two, and three credible data for surface water monitoring and assessment.
+- Section 6111.54 - Submission of surface water quality data.
+- Section 6111.55 - Computerized database or databases composed of all credible data.
+- Section 6111.56 - Determining source or sources of water impairment.
+- Section 6111.561 - Development and establishment of total maximum daily load.
+- Section 6111.562 - Notice and opportunity for input from stakeholders.
+- Section 6111.563 - Official draft.
+- Section 6111.564 - Final TMDL; appeal.
+- Section 6111.60 - Issuance of NPDES permits.
+- Section 6111.99 - Penalties.

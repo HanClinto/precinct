@@ -1,0 +1,14 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-709.031
+Scraped: 2026-07-02T19:33:21+00:00
+
+# Section 709.031 - Report on accuracy of legal description - verification of signatures.
+
+**Effective:** March 27, 2002
+
+**Latest Legislation:** Senate Bill 5 - 124th General Assembly
+
+(A) Within five days after the petition for annexation is filed with the board of county commissioners, the clerk of the board shall refer the legal description of the perimeter and the map or plat of the territory proposed to be annexed to the county engineer for a report upon the accuracy of the legal description of the perimeter, map, or plat. Upon receiving these items, the county engineer shall file, at least twenty-five days before the hearing, a written report with the board based on the engineer's findings, which shall not be conclusive upon the board. Failure of the engineer to make the report shall not affect the jurisdiction or duty of the board to proceed.
+
+(B) The petition may be amended without further notice by leave of the board of county commissioners and with the consent of the agent for the petitioners if the amendment does not add to the territory embraced in the original petition and is made at least fifteen days before the date of the hearing. The board may rerefer the legal description of the perimeter, map, or plat to the county engineer if revisions are made in them, for a report on their accuracy. Upon receiving these items, the county engineer shall file, on or before the date of the hearing, a written report with the board based on the engineer's findings, which shall not be conclusive upon the board. Failure of the engineer to make the report shall not affect the jurisdiction or duty of the board to proceed.
+
+(C) The board of township trustees of any township containing any territory proposed for annexation and any owners of real estate in the territory proposed for annexation may request that reasonable proof be presented of the authority of a person signing the petition on behalf of any person other than a natural being, the state, or a political subdivision of the state. The request shall be in writing and be filed with the board of county commissioners and with the agent for the petitioners at least fifteen days prior to the hearing on the petition. When such a request is filed, the agent for the petitioners shall present to the board of county commissioners at the hearing held under section 709.032 of the Revised Code sufficient evidence by affidavit or testimony to establish that the owner is a person other than a natural being, the state, or a political subdivision of the state and that the owner authorized the person whose signature is on the petition to sign the petition on its behalf. If the board does not find the evidence sufficient to establish this authority, it shall remove the signature from the petition.

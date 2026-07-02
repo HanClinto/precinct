@@ -1,0 +1,52 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Public agency\" means this state or any adjacent state, or any political subdivision, taxing district, or board, commission, or authority of either, or the United States or any department, agency, board, commission, authority, or corporation thereof.",
+      "id": "306.81-public-agency",
+      "normalized": "public agency",
+      "scope": "As used in sections 306.80 to 306.90 , inclusive, of the Revised Code:",
+      "section": "306.81",
+      "source_title": "Section 306.81 - Adjacent states definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-306.81",
+      "term": "Public agency"
+    },
+    {
+      "definition": "(B) \"Regional transit commission\" means a body politic and corporate created pursuant to sections 306.80 to 306.90 , inclusive, of the Revised Code, and having territorial boundaries which include the territory of all counties of this state which enter into the agreement creating a regional transit commission, or thereafter join a regional transit commission, and the territory within one or more other states which has been included in a regional transit commission pursuant to such agreement or subsequent joinder.",
+      "id": "306.81-regional-transit-commission",
+      "normalized": "regional transit commission",
+      "scope": "As used in sections 306.80 to 306.90 , inclusive, of the Revised Code:",
+      "section": "306.81",
+      "source_title": "Section 306.81 - Adjacent states definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-306.81",
+      "term": "Regional transit commission"
+    },
+    {
+      "definition": "(C) \"Transit facility\" means any street railway, motor bus, tramline, subway, monorail, rapid transit, aeroplane, helicopter, ferry, or other ground or water transportation system having as its primary purpose the regularly scheduled mass movement of passengers between locations within the territorial boundaries of a regional transit commission, including all rights-of-way, power lines, rolling stock, equipment, machinery, terminals, buildings, administration and maintenance and repair facilities, and supporting parking facilities, and franchise rights attendant thereto, but excluding therefrom trucks and facilities designed for use in the movement of property by truck; docks, wharves, warehouses, piers, and other port, terminal, or transportation facilities and marinas; facilities used, available for use, or designed for use to aid in the safe taking off or landing of aircraft, for the safety, storage, and maintenance of aircraft, for the comfort and accommodation of users of air transportation of persons, property, and mail, or for the safe and efficient operation and maintenance of an airport; and buildings and facilities as are reasonably necessary for the comfort and accommodation of the users of transit facilities; or any combination of the foregoing.",
+      "id": "306.81-transit-facility",
+      "normalized": "transit facility",
+      "scope": "As used in sections 306.80 to 306.90 , inclusive, of the Revised Code:",
+      "section": "306.81",
+      "source_title": "Section 306.81 - Adjacent states definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-306.81",
+      "term": "Transit facility"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "306.80",
+      "number": "306.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.80"
+    },
+    {
+      "kind": "section",
+      "label": "306.90",
+      "number": "306.90",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.90"
+    }
+  ],
+  "scraped": "2026-07-02T19:32:38+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-306.81",
+  "title": "Section 306.81 - Adjacent states definitions."
+}

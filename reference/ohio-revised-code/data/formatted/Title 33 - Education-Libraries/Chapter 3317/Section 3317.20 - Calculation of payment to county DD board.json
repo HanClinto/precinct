@@ -1,0 +1,70 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Applicable special education amount\" means the amount specified in section 3317.013 of the Revised Code for a disability described in that section.",
+      "id": "3317.20-applicable-special-education-amount",
+      "normalized": "applicable special education amount",
+      "scope": "(A) As used in this section:",
+      "section": "3317.20",
+      "source_title": "Section 3317.20 - Calculation of payment to county DD board.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3317.20",
+      "term": "Applicable special education amount"
+    },
+    {
+      "definition": "(2) \"Child's school district\" means the school district in which a child is entitled to attend school pursuant to section 3313.64 or 3313.65 of the Revised Code.",
+      "id": "3317.20-child-s-school-district",
+      "normalized": "child's school district",
+      "scope": "(A) As used in this section:",
+      "section": "3317.20",
+      "source_title": "Section 3317.20 - Calculation of payment to county DD board.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3317.20",
+      "term": "Child's school district"
+    },
+    {
+      "definition": "(3) \"State share percentage\" means the state share percentage of the child's school district.\n\n(B) The department shall annually pay each county board of developmental disabilities for each child with a disability, other than a preschool child with a disability, for whom the county board provides special education and related services an amount equal to the following:\n\n(1) For fiscal years 2026 and 2027, the statewide average base cost per pupil + (state share percentage X the applicable special education multiple X the statewide average base cost per pupil);\n\n(2) For fiscal year 2028 and each fiscal year thereafter, an amount determined by the general assembly.\n\n(C) Each county board of developmental disabilities shall report to the department, in the manner specified by the department, the name of each child for whom the county board of developmental disabilities provides special education and related services and the child's school district.\n\n(D)(1) For the purpose of verifying the accuracy of the payments under this section, the department may request from either of the following entities the data verification code assigned under division (D)(2) of section 3301.0714 of the Revised Code to any child who is placed with a county board of developmental disabilities:\n\n(a) The child's school district;\n\n(b) The independent contractor engaged to create and maintain data verification codes.\n\n(2) Upon a request by the department under division (D)(1) of this section for the data verification code of a child, the child's school district shall submit that code to the department in the manner specified by the department. If the child has not been assigned a code, the district shall assign a code to that child and submit the code to the department by a date specified by the department. If the district does not assign a code to the child by the specified date, the department shall assign a code to the child.\n\nThe department annually shall submit to each school district the name and data verification code of each child residing in the district for whom the department has assigned a code under this division.\n\n(3) The department shall not release any data verification code that it receives under division (D) of this section to any person except as provided by law.\n\n(E) Any document relative to special education and related services provided by a county board of developmental disabilities that the department holds in its files that contains both a student's name or other personally identifiable information and the student's data verification code shall not be a public record under section 149.43 of the Revised Code.\n\nLast updated July 23, 2025 at 10:32 AM",
+      "id": "3317.20-state-share-percentage",
+      "normalized": "state share percentage",
+      "scope": "(A) As used in this section:",
+      "section": "3317.20",
+      "source_title": "Section 3317.20 - Calculation of payment to county DD board.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3317.20",
+      "term": "State share percentage"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3317.013",
+      "number": "3317.013",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.013"
+    },
+    {
+      "kind": "section",
+      "label": "3313.64",
+      "number": "3313.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.64"
+    },
+    {
+      "kind": "section",
+      "label": "3313.65",
+      "number": "3313.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.65"
+    },
+    {
+      "kind": "section",
+      "label": "3301.0714",
+      "number": "3301.0714",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3301.0714"
+    },
+    {
+      "kind": "section",
+      "label": "149.43",
+      "number": "149.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.43"
+    }
+  ],
+  "scraped": "2026-07-02T19:48:49+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3317.20",
+  "title": "Section 3317.20 - Calculation of payment to county DD board."
+}

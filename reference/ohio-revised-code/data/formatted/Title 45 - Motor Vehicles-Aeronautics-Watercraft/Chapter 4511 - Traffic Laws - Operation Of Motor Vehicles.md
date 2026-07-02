@@ -1,0 +1,178 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-4511
+Scraped: 2026-07-02T20:05:38+00:00
+
+# Chapter 4511 - Traffic Laws - Operation Of Motor Vehicles
+
+## Sections
+
+- Section 4511.01 - Traffic laws - operation of motor vehicles definitions.
+- Section 4511.011 - Designating freeway, expressway, and thruway.
+- Section 4511.03 - Emergency vehicles at red signal or stop sign.
+- Section 4511.031 - Portable signal preemption devices prohibited.
+- Section 4511.04 - Exception to traffic rules.
+- Section 4511.041 - Exceptions to traffic rules for emergency or public safety vehicle responding to emergency call.
+- Section 4511.042 - Exceptions to traffic rules for coroner's vehicles.
+- Section 4511.043 - Ticket, summons, or citation for secondary traffic offense.
+- Section 4511.05 - Persons riding or driving animals upon roadways.
+- Section 4511.051 - Freeways - prohibited acts.
+- Section 4511.06 - Applicability and uniformity of traffic laws.
+- Section 4511.07 - Local traffic regulations.
+- Section 4511.071 - No liability for lessor under written lease.
+- Section 4511.08 - Use of private property for vehicular travel.
+- Section 4511.09 - Manual for uniform system of traffic control devices.
+- Section 4511.091 - Arrest or citation of driver based on radar, timing device or radio message from another officer.
+- Section 4511.092 - Definitions.
+- Section 4511.093 - Traffic law photo-monitoring devices.
+- Section 4511.094 - Signs required for photo-monitoring devices.
+- Section 4511.095 - Prerequisites for deployment of device.
+- Section 4511.096 - Examination of evidence.
+- Section 4511.097 - Classification of violation as civil violation.
+- Section 4511.098 - Rights of those ticketed.
+- Section 4511.099 - Advance deposit for filing civil action.
+- Section 4511.0910 - Violations for which civil penalty imposed.
+- Section 4511.0911 - Traffic law photo-monitoring device maintenance records; accuracy; issuance of certain tickets prohibited.
+- Section 4511.0912 - Speeding tickets.
+- Section 4511.0913 - Applicable law.
+- Section 4511.0914 - Bans on use of traffic law photo-monitoring devices.
+- Section 4511.10 - Placement and maintenance of traffic control devices.
+- Section 4511.101 - Placement of business logos on directional signs along interstates.
+- Section 4511.102 - Tourist-oriented directional sign program definitions.
+- Section 4511.103 - Administrative rules for placement of tourist-oriented directional signs and trailblazer markers.
+- Section 4511.104 - Participation in tourist-oriented directional sign program.
+- Section 4511.105 - Tourist-oriented directional signs to conform to federal manual of uniform traffic control devices.
+- Section 4511.106 - Local tourist-oriented directional sign programs.
+- Section 4511.107 - Acquiring outdoor advertising devices.
+- Section 4511.108 - Traffic generator sign program.
+- Section 4511.11 - Local conformity to manual for uniform system of traffic control devices.
+- Section 4511.12 - Obedience to traffic control devices.
+- Section 4511.121 - Bypassing vehicle weighing locations.
+- Section 4511.122 - Hands free law signs.
+- Section 4511.13 - Highway traffic signal indications; section not applicable to railroad crossings.
+- Section 4511.131 - Lane-use control signal indications.
+- Section 4511.132 - Operation at intersections with malfunctioning traffic control signal lights.
+- Section 4511.14 - Special pedestrian control signals.
+- Section 4511.15 - Bicycle symbol signal indications.
+- Section 4511.16 - Unauthorized sign or signal resembling a traffic control device.
+- Section 4511.17 - Tampering with traffic control device, freshly applied pavement material, manhole covers.
+- Section 4511.18 - Purchase, possession or sale of traffic control device.
+- Section 4511.181 - OVI definitions.
+- Section 4511.19 - Operating vehicle under the influence of alcohol or drugs - OVI.
+- Section 4511.191 - Implied consent.
+- Section 4511.192 - Advice to OVI arrestee.
+- Section 4511.193 - Portion fine deposited in municipal or county indigent drivers alcohol treatment fund.
+- Section 4511.194 - Having physical control of vehicle while under the influence.
+- Section 4511.195 - Seizing and detaining vehicle if operator has prior conviction.
+- Section 4511.196 - Initial appearance.
+- Section 4511.197 - Appeal of implied consent suspension.
+- Section 4511.198 - Limited driving privileges - remote continuous alcohol monitor.
+- Section 4511.20 - Operation in willful or wanton disregard of the safety of persons or property.
+- Section 4511.201 - Operation off street or highway in willful or wanton disregard of the safety of persons or property.
+- Section 4511.202 - Operation without being in reasonable control of vehicle, trolley, or streetcar.
+- Section 4511.203 - Wrongful entrustment of motor vehicle.
+- Section 4511.204 - Driving while texting.
+- Section 4511.205 - Use of devices by persons under 18 years of age.
+- Section 4511.21 - Speed limits - assured clear distance.
+- Section 4511.211 - Establishing speed limit on private road.
+- Section 4511.212 - Complaint of noncompliance by local authority with school zone sign laws.
+- Section 4511.213 - Approaching stationary public safety vehicle displaying emergency light.
+- Section 4511.214 - Operation of low-speed, under-speed, or utility vehicle, or a mini-truck.
+- Section 4511.215 - Local authorization for operation of low-speed, under-speed, or utility vehicle, or a mini-truck.
+- Section 4511.216 - Traveling from one farm field to another for agricultural purposes.
+- Section 4511.22 - Slow speed.
+- Section 4511.23 - Speed limits on bridges.
+- Section 4511.24 - Speed limits not applicable to emergency or public safety vehicles.
+- Section 4511.25 - Lanes of travel upon roadways of sufficient width.
+- Section 4511.251 - Street racing.
+- Section 4511.252 - Closing roads for supervised sports car racing.
+- Section 4511.26 - Vehicles traveling in opposite directions.
+- Section 4511.27 - Overtaking and passing of vehicles proceeding in the same direction.
+- Section 4511.28 - Overtaking and passing upon the right of another vehicle.
+- Section 4511.29 - Driving to left of center of roadway in overtaking and passing traffic proceeding in same direction.
+- Section 4511.30 - Driving upon left side of roadway.
+- Section 4511.31 - Establishing hazardous zones.
+- Section 4511.32 - One-way traffic - rotary islands.
+- Section 4511.33 - Driving in marked lanes.
+- Section 4511.34 - Space between moving vehicles.
+- Section 4511.35 - Divided roadways.
+- Section 4511.36 - Rules for turns at intersections.
+- Section 4511.37 - Turning in roadway prohibited - exceptions.
+- Section 4511.38 - Rules for starting and backing vehicles.
+- Section 4511.39 - Turn and stop signals.
+- Section 4511.40 - Hand and arm signals.
+- Section 4511.41 - Right-of-way rule at intersections.
+- Section 4511.42 - Right-of-way rule when turning left.
+- Section 4511.43 - Right-of-way rule at through highways, stop signs, yield signs.
+- Section 4511.431 - Stop prior to driving on sidewalk area.
+- Section 4511.432 - Stop signs on private road.
+- Section 4511.44 - Right-of-way at highway from any place other than another roadway.
+- Section 4511.441 - Right-of-way of pedestrian on sidewalk.
+- Section 4511.45 - Right-of-way of public safety or coroner's vehicle.
+- Section 4511.451 - Right-of way of funeral vehicle.
+- Section 4511.452 - Right-of-way yielded by pedestrian to public safety vehicle.
+- Section 4511.453 - Immunity of funeral home operator.
+- Section 4511.454 - Reporting failure of motor vehicle operator to yield right-of-way to public safety vehicle.
+- Section 4511.46 - Right-of-way of pedestrian within crosswalk.
+- Section 4511.47 - Right-of-way of blind person.
+- Section 4511.48 - Right-of-way yielded by pedestrian.
+- Section 4511.481 - Intoxicated or drugged pedestrian on highway.
+- Section 4511.49 - Pedestrians on right half of crosswalk.
+- Section 4511.50 - Pedestrian walking in roadway.
+- Section 4511.51 - Hitchhiking - soliciting employment, business, or contributions from occupant of vehicle.
+- Section 4511.511 - Pedestrian on bridge or railroad grade crossing.
+- Section 4511.512 - Operation of electric personal assistive mobility devices.
+- Section 4511.513 - Operation of personal delivery device on sidewalks and crosswalks.
+- Section 4511.514 - Low-speed micromobility devices.
+- Section 4511.52 - Bicycles and electric bicycles - issuance of ticket - points not assessed.
+- Section 4511.521 - Operation of motorized bicycles.
+- Section 4511.522 - Electric bicycles; labels; compliance with federal regulations; permitted use; violations.
+- Section 4511.53 - Operation of bicycles, motorcycles and snowmobiles.
+- Section 4511.54 - Prohibition against attaching bicycle, skates, sleds, etc., to vehicles.
+- Section 4511.55 - Operating bicycles, electric bicycles, and motorcycles on roadway.
+- Section 4511.56 - Bicycle signal devices.
+- Section 4511.57 - Passing on left side of streetcar.
+- Section 4511.58 - Vehicle shall not pass streetcar discharging passengers - exception.
+- Section 4511.59 - Driving and turning in front of streetcars.
+- Section 4511.60 - Driving through safety zone.
+- Section 4511.61 - Stop signs at dangerous highway crossings over railroad tracks.
+- Section 4511.62 - Stopping at railroad grade crossing.
+- Section 4511.63 - Stopping at grade crossings.
+- Section 4511.64 - Slow-moving vehicles or equipment crossing railroad tracks.
+- Section 4511.65 - Designation of through highways.
+- Section 4511.66 - Prohibition against parking on highways.
+- Section 4511.661 - Unattended motor vehicles.
+- Section 4511.67 - Police may remove illegally parked vehicle.
+- Section 4511.68 - Parking - prohibited acts.
+- Section 4511.681 - Parking on private property - prohibited acts.
+- Section 4511.69 - Parking requirements.
+- Section 4511.70 - Obstructing view and control of driver - opening door into moving traffic.
+- Section 4511.701 - Occupying moving trailer prohibited.
+- Section 4511.71 - Prohibition against driving upon closed highway.
+- Section 4511.711 - Driving on sidewalk.
+- Section 4511.712 - Obstructing intersection.
+- Section 4511.713 - Use of bicycle paths.
+- Section 4511.714 - Operation of vehicle on roadway covered by water.
+- Section 4511.72 - Following an emergency or public safety vehicle too closely.
+- Section 4511.73 - Driving over unprotected fire hose.
+- Section 4511.74 - Placing injurious material on highway.
+- Section 4511.75 - Stopping for stopped school bus.
+- Section 4511.751 - School bus operator to report violations.
+- Section 4511.76 - Administrative rules for school bus construction, design, equipment, operation and licensing.
+- Section 4511.761 - School bus inspections.
+- Section 4511.762 - School bus no longer used for transporting school children.
+- Section 4511.763 - Licensing by department of public safety.
+- Section 4511.764 - School buses must be registered and have identifying number.
+- Section 4511.765 - Pre-trip school bus inspections.
+- Section 4511.77 - School bus - painting and marking.
+- Section 4511.771 - Signal lamps to be equipped with flashing red and amber lights.
+- Section 4511.772 - Occupant restraining device for operator.
+- Section 4511.78 - Mass transit system - transportation of school children.
+- Section 4511.79 - Driving commercial vehicle with impaired ability or alertness prohibited.
+- Section 4511.81 - Child restraint system - child highway safety fund.
+- Section 4511.82 - Littering offenses.
+- Section 4511.84 - Earphones or earplugs on operator prohibited.
+- Section 4511.85 - Chauffeured limousines.
+- Section 4511.90 - Chautauqua assembly.
+- Section 4511.98 - Signs as to increased penalties in construction zones.
+- Section 4511.99 - Penalty.
+- Section 4511.991 - "Distracted" defined; violations committed while distracted.
+- Section 4511.992 - Distracted driving reports.

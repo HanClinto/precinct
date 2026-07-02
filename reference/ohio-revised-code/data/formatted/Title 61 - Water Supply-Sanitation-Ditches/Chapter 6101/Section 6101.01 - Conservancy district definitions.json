@@ -1,0 +1,102 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Publication\" or \"published\" means once in a newspaper of general circulation in the county or counties where the publication is to be made. When a publication is required to be made by a conservancy district or its board of directors, a copy of the publication, certified by the secretary of the conservancy district to have been published in accordance with this division, shall be admitted in any court of this state as prima-facie evidence that the publication has been made.",
+      "id": "6101.01-publication",
+      "normalized": "publication",
+      "scope": "As used in this chapter:",
+      "section": "6101.01",
+      "source_title": "Section 6101.01 - Conservancy district definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-6101.01",
+      "term": "Publication"
+    },
+    {
+      "definition": "(A) \"Publication\" or \"published\" means once in a newspaper of general circulation in the county or counties where the publication is to be made. When a publication is required to be made by a conservancy district or its board of directors, a copy of the publication, certified by the secretary of the conservancy district to have been published in accordance with this division, shall be admitted in any court of this state as prima-facie evidence that the publication has been made.",
+      "id": "6101.01-published",
+      "normalized": "published",
+      "scope": "As used in this chapter:",
+      "section": "6101.01",
+      "source_title": "Section 6101.01 - Conservancy district definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-6101.01",
+      "term": "published"
+    },
+    {
+      "definition": "(B) \"Person\" has the same meaning as in section 1.59 of the Revised Code. \"Person\" does not include a county, township, municipal corporation, or other political subdivision of the state.",
+      "id": "6101.01-person",
+      "normalized": "person",
+      "scope": "As used in this chapter:",
+      "section": "6101.01",
+      "source_title": "Section 6101.01 - Conservancy district definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-6101.01",
+      "term": "Person"
+    },
+    {
+      "definition": "(C) \"Public corporation\" or \"political subdivision\" means counties, townships, municipal corporations, school districts, road districts, ditch districts, park districts, levee districts, and all other governmental entities vested with the power to levy assessments or taxes.",
+      "id": "6101.01-public-corporation",
+      "normalized": "public corporation",
+      "scope": "As used in this chapter:",
+      "section": "6101.01",
+      "source_title": "Section 6101.01 - Conservancy district definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-6101.01",
+      "term": "Public corporation"
+    },
+    {
+      "definition": "(C) \"Public corporation\" or \"political subdivision\" means counties, townships, municipal corporations, school districts, road districts, ditch districts, park districts, levee districts, and all other governmental entities vested with the power to levy assessments or taxes.",
+      "id": "6101.01-political-subdivision",
+      "normalized": "political subdivision",
+      "scope": "As used in this chapter:",
+      "section": "6101.01",
+      "source_title": "Section 6101.01 - Conservancy district definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-6101.01",
+      "term": "political subdivision"
+    },
+    {
+      "definition": "(D) \"Court\" means the court of common pleas in which the petition for the organization of a conservancy district is filed and granted, as presided over by the judges provided for in section 6101.07 of the Revised Code.\n\n(E) \"Land\" or \"property,\" unless otherwise specified, means real property as that term is used in and defined by the laws of this state, and includes all railroads, tramroads, roads, electric railroads, street and interurban railroads, streets and street improvements, telephone, telegraph, and transmission lines, gas, sewerage, and water systems, pipe lines and rights of way of public service corporations, and all other public or private real property.",
+      "id": "6101.01-court",
+      "normalized": "court",
+      "scope": "As used in this chapter:",
+      "section": "6101.01",
+      "source_title": "Section 6101.01 - Conservancy district definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-6101.01",
+      "term": "Court"
+    },
+    {
+      "definition": "(F) \"Underground water\" means any water under the surface of the land or under the bed of any stream, lake, reservoir, or other body of surface water.",
+      "id": "6101.01-underground-water",
+      "normalized": "underground water",
+      "scope": "As used in this chapter:",
+      "section": "6101.01",
+      "source_title": "Section 6101.01 - Conservancy district definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-6101.01",
+      "term": "Underground water"
+    },
+    {
+      "definition": "(G) \"Aquifer\" means any underground water-bearing bed or stratum of earth, gravel, sand, or porous stone having boundaries that may be ascertained or reasonably inferred, in which water stands, flows, or percolates.",
+      "id": "6101.01-aquifer",
+      "normalized": "aquifer",
+      "scope": "As used in this chapter:",
+      "section": "6101.01",
+      "source_title": "Section 6101.01 - Conservancy district definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-6101.01",
+      "term": "Aquifer"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "1.59",
+      "number": "1.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1.59"
+    },
+    {
+      "kind": "section",
+      "label": "6101.07",
+      "number": "6101.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.07"
+    }
+  ],
+  "scraped": "2026-07-02T20:17:05+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-6101.01",
+  "title": "Section 6101.01 - Conservancy district definitions."
+}

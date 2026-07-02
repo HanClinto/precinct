@@ -1,0 +1,36 @@
+{
+  "glossary": [
+    {
+      "definition": "(a) \"Court\" includes a judicial tribunal, an administrative tribunal, or other adjudicative body or panel.",
+      "id": "5816.09-court",
+      "normalized": "court",
+      "scope": "",
+      "section": "5816.09",
+      "source_title": "Section 5816.09 - Automatic removal of trustees; general rules on successor.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5816.09",
+      "term": "Court"
+    },
+    {
+      "definition": "(b) \"Order\" includes any order, writ, judgment, entry, edict, mandate, directive, instruction, or decree issued or entered by any court.\n\n(B) In all cases other than the situation described in division (A) of this section, both of the following apply:\n\n(1) If a legacy trust ceases to have at least one qualified trustee, the vacancy in the qualified trusteeship shall be filled pursuant to section 5807.04 of the Revised Code except to the extent that the legacy trust expressly provides otherwise.\n\n(2) If a legacy trust ceases to have at least one trustee, the vacancy in the trusteeship shall be filled pursuant to section 5807.04 of the Revised Code, and the successor trustee shall be a qualified trustee unless the legacy trust instrument expressly provides otherwise.\n\nLast updated May 20, 2021 at 2:23 PM",
+      "id": "5816.09-order",
+      "normalized": "order",
+      "scope": "",
+      "section": "5816.09",
+      "source_title": "Section 5816.09 - Automatic removal of trustees; general rules on successor.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5816.09",
+      "term": "Order"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "5807.04",
+      "number": "5807.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5807.04"
+    }
+  ],
+  "scraped": "2026-07-02T20:16:19+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5816.09",
+  "title": "Section 5816.09 - Automatic removal of trustees; general rules on successor."
+}

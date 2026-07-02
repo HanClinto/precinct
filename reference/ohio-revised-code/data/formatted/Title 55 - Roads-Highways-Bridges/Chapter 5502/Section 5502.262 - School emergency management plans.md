@@ -1,0 +1,102 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5502.262
+Scraped: 2026-07-02T20:12:22+00:00
+
+# Section 5502.262 - School emergency management plans.
+
+**Effective:** March 20, 2026
+
+**Latest Legislation:** House Bill 184 - 136th General Assembly
+
+(A) As used in this section:
+
+(1) "Administrator" means the superintendent, principal, chief administrative officer, or other person having supervisory authority of any of the following:
+
+(a) A city, exempted village, local, or joint vocational school district;
+
+(b) A community school established under Chapter 3314. of the Revised Code, as required through reference in division (A)(11)(d) of section 3314.03 of the Revised Code;
+
+(c) A STEM school established under Chapter 3326. of the Revised Code, as required through reference in section 3326.11 of the Revised Code;
+
+(d) A college-preparatory boarding school established under Chapter 3328. of the Revised Code;
+
+(e) A district or school operating a career-technical education program approved by the department of education and workforce under section 3317.161 of the Revised Code;
+
+(f) A chartered nonpublic school;
+
+(g) An educational service center;
+
+(h) A preschool program or school-age child care program licensed by the department of children and youth;
+
+(i) Any other facility that primarily provides educational services to children subject to regulation by the department of education and workforce.
+
+(2) "Emergency management test" means a regularly scheduled drill, exercise, or activity designed to assess and evaluate an emergency management plan under this section.
+
+(3) "Building" means any school, school building, facility, program, or center.
+
+(4) "Regional mobile training officer" means the regional mobile training officer appointed under section 5502.70 of the Revised Code for the region in which a district, school, center, program, or facility is located.
+
+(B)(1) Each administrator shall develop and adopt a comprehensive emergency management plan, in accordance with rules adopted pursuant to division (F) of this section, for each building under the administrator's control. The administrator shall examine the environmental conditions and operations of each building to determine potential hazards to student and staff safety and shall propose operating changes to promote the prevention of potentially dangerous problems and circumstances. In developing the plan for each building, the administrator shall involve community law enforcement and safety officials, parents of students who are assigned to the building, and teachers and nonteaching employees who are assigned to the building. The administrator may involve the regional mobile training officer in the development of the plan. The administrator shall incorporate remediation strategies into the plan for any building where documented safety problems have occurred.
+
+(2) Each administrator shall also incorporate into the emergency management plan adopted under division (B)(1) of this section all of the following:
+
+(a) A protocol for addressing serious threats to the safety of property, students, employees, or administrators;
+
+(b) A protocol for responding to any emergency events that occur and compromise the safety of property, students, employees, or administrators. This protocol shall include, but not be limited to, all of the following:
+
+(i) A floor plan that is unique to each floor of the building;
+
+(ii) A site plan that includes all building property and surrounding property;
+
+(iii) An emergency contact information sheet.
+
+(c) A threat assessment plan developed as prescribed in section 5502.263 of the Revised Code. A building may use the model plan developed by the department of public safety under that section;
+
+(d) A protocol for school threat assessment teams established under section 3313.669 of the Revised Code;
+
+(e) A protocol that addresses student use of cellular telephones during an active threat or emergency.
+
+(3) Each protocol described in division (B) of this section shall include procedures determined to be appropriate by the administrator for responding to threats and emergency events, respectively, including such things as notification of appropriate law enforcement personnel, calling upon specified emergency response personnel for assistance, and informing parents of affected students.
+
+Prior to the opening day of each school year, the administrator shall inform each student or child enrolled in the school and the student's or child's parent of the parental notification procedures included in the protocol.
+
+(4) Each administrator shall keep a copy of the emergency management plan adopted pursuant to this section in a secure place.
+
+(C)(1) The administrator shall submit to the director of public safety, in accordance with rules adopted pursuant to division (F) of this section, an electronic copy of the emergency management plan prescribed by division (B) of this section not less than once every three years, whenever a major modification to the building requires changes in the procedures outlined in the plan, and whenever information on the emergency contact information sheet changes.
+
+(2) The administrator also shall file a copy of the plan with each law enforcement agency that has jurisdiction over the school building and, upon request, to any of the following:
+
+(a) The fire department that serves the political subdivision in which the building is located;
+
+(b) The emergency medical service organization that serves the political subdivision in which the building is located;
+
+(c) The county emergency management agency for the county in which the building is located;
+
+(d) The regional mobile training officer.
+
+(3) Upon receipt of an emergency management plan, the director shall post the information on the contact and information management system and submit the information in accordance with rules adopted pursuant to division (F) of this section, to the attorney general, who shall post that information on the Ohio law enforcement gateway or its successor.
+
+(4) Any department or entity to which copies of an emergency management plan are filed under this section shall keep the copies in a secure place.
+
+(D)(1) Not later than the first day of September of each year, each administrator shall review the emergency management plan and certify to the director that the plan is current and accurate.
+
+(2) Anytime that an administrator updates the emergency management plan pursuant to division (C)(1) of this section, the administrator shall file copies, not later than the tenth day after the revision is adopted and in accordance with rules adopted pursuant to division (F) of this section, to the director and to any entity with which the administrator filed a copy under division (C)(2) of this section.
+
+(E) Each administrator shall do both of the following:
+
+(1) Prepare and conduct at least one annual emergency management test, as defined in division (A)(2) of this section, in accordance with rules adopted pursuant to division (F) of this section;
+
+(2) Grant access to each building under the control of the administrator to law enforcement personnel and to entities described in division (C)(2) of this section, to enable the personnel and entities to hold training sessions for responding to threats and emergency events affecting the building, provided that the access occurs outside of student instructional hours and the administrator, or the administrator's designee, is present in the building during the training sessions.
+
+(F) The director of public safety, in consultation with representatives from the education community and in accordance with Chapter 119. of the Revised Code, shall adopt rules regarding emergency management plans under this section, including the content of the plans and procedures for filing the plans. The rules shall specify that plans and information required under division (B) of this section be submitted on standardized forms developed by the director for such purpose. The rules shall also specify the requirements and procedures for emergency management tests conducted pursuant to division (E)(1) of this section. Failure to comply with the rules may result in discipline pursuant to section 3319.31 of the Revised Code or any other action against the administrator as prescribed by rule.
+
+(G) Division (B) of section 3319.31 of the Revised Code applies to any administrator who is subject to the requirements of this section and is not exempt under division (H) of this section and who is an applicant for a license or holds a license from the state board of education pursuant to section 3319.22 of the Revised Code.
+
+(H)(1) The director may exempt any administrator from the requirements of this section, if the director determines that the requirements do not otherwise apply to a building or buildings under the control of that administrator.
+
+(2) The director shall exempt from the requirements of this section the administrator of an online learning school, established under section 3302.42 of the Revised Code, unless students of that school participate in in-person instruction or assessments at a location that is not covered by an existing emergency management plan, developed under this section as of December 14, 2021.
+
+(I) Copies of the emergency management plan, including all records related to the plan, emergency management tests, and information required under division (B) of this section are security records and are not public records pursuant to section 149.433 of the Revised Code. In addition, the information posted to the contact and information management system, pursuant to division (C)(3)(b) of this section, is exempt from public disclosure or release in accordance with sections 149.43 , 149.433 , and 5502.03 of the Revised Code.
+
+Notwithstanding section 149.433 of the Revised Code, a floor plan filed with the attorney general pursuant to this section is not a public record to the extent it is a record kept by the attorney general.
+
+Last updated January 16, 2026 at 2:42 PM

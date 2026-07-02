@@ -1,0 +1,471 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 2113.01 - What court shall grant letters.",
+      "number": "2113.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.03 - Court may order estate released from administration.",
+      "number": "2113.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.031 - Summary release from administration.",
+      "number": "2113.031",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.031"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.032 - Application for release of medical and billing records.",
+      "number": "2113.032",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.032"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.04 - Payment of wages of deceased employee without administration.",
+      "number": "2113.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.041 - Request to financial institution to release account proceed to recover costs of services.",
+      "number": "2113.041",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.041"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.05 - Letters testamentary shall issue.",
+      "number": "2113.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.06 - To whom letters of administration shall be granted.",
+      "number": "2113.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.07 - Application for appointment as executor or administrator.",
+      "number": "2113.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.11 - Notice when deceased was an alien.",
+      "number": "2113.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.12 - Procedure if executor renounces.",
+      "number": "2113.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.13 - Minority of an executor.",
+      "number": "2113.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.14 - Executor of an executor not to administer.",
+      "number": "2113.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.15 - Special administrator.",
+      "number": "2113.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.16 - Termination of powers of special administrator.",
+      "number": "2113.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.17 - Creditor's claims before Special Administrator.",
+      "number": "2113.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.18 - Removal of executor or administrator.",
+      "number": "2113.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.19 - Administrator de bonis non.",
+      "number": "2113.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.20 - Will proved after administration as of an intestate.",
+      "number": "2113.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.21 - Powers of executors, administrators, and testamentary trustees during a will contest.",
+      "number": "2113.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.22 - Proceedings against former executor or administrator.",
+      "number": "2113.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.23 - Sales of former executor or administrator valid.",
+      "number": "2113.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.25 - Time frame for collection of assets and administration of estate; extensions.",
+      "number": "2113.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.26 - Examination of executor or administrator.",
+      "number": "2113.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.30 - Continuing decedent's business.",
+      "number": "2113.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.31 - Responsibility of executor or administrator.",
+      "number": "2113.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.311 - Management and rental of real property by executor or administrator.",
+      "number": "2113.311",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.311"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.32 - Executors and administrators not to profit.",
+      "number": "2113.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.33 - Not responsible for bad debts.",
+      "number": "2113.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.34 - Chargeable with property consumed.",
+      "number": "2113.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.35 - Commissions.",
+      "number": "2113.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.36 - Further allowance - counsel fees.",
+      "number": "2113.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.37 - Allowance for tombstone and cemetery lot.",
+      "number": "2113.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.39 - Sale of property under authority of will.",
+      "number": "2113.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.40 - Sale of personal property.",
+      "number": "2113.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.41 - Public sale.",
+      "number": "2113.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.42 - Report of sale.",
+      "number": "2113.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.43 - Credit.",
+      "number": "2113.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.44 - Sale of notes secured by mortgage.",
+      "number": "2113.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.45 - Mortgaged premises to be considered personal assets - possession.",
+      "number": "2113.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.46 - Who may discharge mortgage.",
+      "number": "2113.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.47 - Foreclosure of mortgage.",
+      "number": "2113.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.48 - Action to complete contract to sell land.",
+      "number": "2113.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.49 - Court may order alteration or cancellation of contract.",
+      "number": "2113.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.50 - Completion of decedent's contract to buy land.",
+      "number": "2113.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.51 - Property may be delivered to legatee.",
+      "number": "2113.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.52 - Devisee takes subject to tax lien - exoneration of mortgage lien.",
+      "number": "2113.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.53 - Distribution of assets of estate.",
+      "number": "2113.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.531 - General legacies - interest.",
+      "number": "2113.531",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.531"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.54 - Distribution upon application of legatee or distributee.",
+      "number": "2113.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.55 - Distribution in kind.",
+      "number": "2113.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.56 - Executor or administrator not liable.",
+      "number": "2113.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.58 - Protection of remainderman's interest in personal property.",
+      "number": "2113.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.59 - Lien on share of beneficiary.",
+      "number": "2113.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.61 - Application for certificate of transfer of real property.",
+      "number": "2113.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.62 - Record by county recorder.",
+      "number": "2113.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.64 - Investment of unclaimed money.",
+      "number": "2113.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.65 - Disposition of investment.",
+      "number": "2113.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.66 - Statute of limitations no defense.",
+      "number": "2113.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.67 - Money paid to owner.",
+      "number": "2113.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.67"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.68 - Responsibility for safekeeping of evidences of title.",
+      "number": "2113.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.68"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.69 - Newly discovered assets.",
+      "number": "2113.69",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.69"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.70 - Suit against foreign executors and administrators.",
+      "number": "2113.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.71 - Jurisdiction.",
+      "number": "2113.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.72 - Proceedings against foreign executor or administrator.",
+      "number": "2113.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.73 - Security for distributees and indemnification for sureties.",
+      "number": "2113.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.74 - Other remedies.",
+      "number": "2113.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.74"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.75 - Foreign executor or administrator may prosecute suit in this state.",
+      "number": "2113.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.81 - Holding money and property in trust for safe keeping for nonresidents of United States.",
+      "number": "2113.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.82 - Orders to pay money and property held in trust for safe keeping for nonresidents of United States.",
+      "number": "2113.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.82"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.85 - Apportionment of tax definitions.",
+      "number": "2113.85",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.85"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.86 - Apportionment of taxes.",
+      "number": "2113.86",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.86"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.861 - Apportionment of generation-skipping tax.",
+      "number": "2113.861",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.861"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.87 - Requesting court to determine apportionment of tax.",
+      "number": "2113.87",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.87"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.88 - Withholding or recovering amount of tax.",
+      "number": "2113.88",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.88"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.89 - Action to recover tax.",
+      "number": "2113.89",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.89"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2113.90 - Action by foreign fiduciary or obligated person.",
+      "number": "2113.90",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.90"
+    }
+  ],
+  "scraped": "2026-07-02T19:41:28+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-2113",
+  "title": "Chapter 2113 - Executors And Administrators - Appointment; Powers; Duties"
+}

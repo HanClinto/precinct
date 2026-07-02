@@ -1,0 +1,24 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5729.07
+Scraped: 2026-07-02T20:14:58+00:00
+
+# Section 5729.07 - Eligible employee training costs tax credit.
+
+**Effective:** March 29, 2007
+
+**Latest Legislation:** House Bill 699 - 126th General Assembly
+
+As used in this section:
+
+(A) "Eligible employee" and "eligible training costs" have the same meanings as in section 5733.42 of the Revised Code.
+
+(B) "Credit period" means the calendar year ending on the thirty-first day of December next preceding the day the annual statement is required to be returned under section 5729.02 of the Revised Code.
+
+There is hereby allowed a nonrefundable credit against the tax imposed under this chapter for a foreign insurance company for which a tax credit certificate is issued under section 5733.42 of the Revised Code. The credit may be claimed for credit periods beginning on or after January 1, 2003, and ending on or before December 31, 2007. The amount of the credit for the credit period beginning on January 1, 2003, shall equal one-half of the average of the eligible training costs paid or incurred by the company during calendar years 1998, 1999, and 2000, not to exceed one thousand dollars for each eligible employee on account of whom eligible training costs were paid or incurred by the company. The amount of the credit for the credit period beginning on January 1, 2004, shall equal one-half of the average of the eligible training costs paid or incurred by the company during calendar years 2002, 2003, and 2004, not to exceed one thousand dollars for each eligible employee on account of whom eligible training costs were paid or incurred by the company. The amount of the credit for the credit period beginning on January 1, 2005, shall equal one-half of the average of the eligible training costs paid or incurred by the company during calendar years 2003, 2004, and 2005, not to exceed one thousand dollars for each eligible employee on account of whom eligible training costs were paid or incurred by the company. The amount of the credit for the credit period beginning on January 1, 2006, shall equal one-half of the average of the eligible training costs paid or incurred by the company during calendar years 2004, 2005, and 2006, not to exceed one thousand dollars for each eligible employee on account of whom eligible training costs were paid or incurred by the company. The amount of the credit for the credit period beginning on January 1, 2007, shall equal one-half of the average of the eligible training costs paid or incurred by the company during calendar years 2005, 2006, and 2007, not to exceed one thousand dollars for each eligible employee on account of whom eligible training costs were paid or incurred by the company.
+
+The credit claimed by a company for each credit period shall not exceed one hundred thousand dollars.
+
+A foreign insurance company shall apply to the director of job and family services for a tax credit certificate in the manner prescribed by division (C) of section 5733.42 of the Revised Code. Divisions (C) to (H) of that section govern the tax credit allowed by this section, except that "credit period" shall be substituted for "tax year with respect to a calendar year" wherever that phrase appears in those divisions and that the company shall be considered a taxpayer for the purposes of those divisions.
+
+A foreign insurance company may carry forward the credit allowed under this section to the extent that the credit exceeds the company's tax due for the credit period. The company may carry the excess credit forward for three credit periods following the credit period for which the credit is first claimed under this section. The credit allowed by this section is in addition to any credit allowed under section 5729.031 of the Revised Code.
+
+The reduction in the tax due under this chapter to the extent of the credit allowed by this section does not increase the amount of the tax otherwise due under section 5729.06 of the Revised Code.

@@ -1,0 +1,116 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-3301
+Scraped: 2026-07-02T19:48:13+00:00
+
+# Chapter 3301 - Department of Education and Workforce
+
+## Sections
+
+- Section 3301.01 - State board of education.
+- Section 3301.011 - Total student count defined.
+- Section 3301.012 - Computer science defined.
+- Section 3301.02 - Elected and appointed state board members - terms of office.
+- Section 3301.03 - Board members to be qualified electors - oath, salary, expenses.
+- Section 3301.04 - Meetings.
+- Section 3301.041 - Audio and video recordings of board of education meetings.
+- Section 3301.05 - Public meetings, official records of board.
+- Section 3301.06 - Vacancy on board.
+- Section 3301.07 - Director of education and workforce - powers and duties.
+- Section 3301.071 - Standards for teacher certification in nontax-supported or nonchartered, nontax-supported schools.
+- Section 3301.072 - Programs of in-service training in district budget and finance.
+- Section 3301.074 - Licenses for school district treasurers and business managers.
+- Section 3301.075 - Purchase and lease of data processing services and equipment - Ohio education computer network.
+- Section 3301.076 - Operating reserve account or minimum cash balance.
+- Section 3301.077 - Adoption of reading competencies.
+- Section 3301.078 - No agreements to cede control of content standards; no purchase of PARCC assessments; analyses of assessments.
+- Section 3301.079 - Academic standards - model curriculum.
+- Section 3301.0710 - Ohio graduation tests.
+- Section 3301.0711 - Administration and grading of assessments.
+- Section 3301.0712 - College and work ready assessment system.
+- Section 3301.0713 - Education management information system advisory council.
+- Section 3301.0714 - Guidelines for statewide education management information system.
+- Section 3301.0715 - District board to administer diagnostic assessments - intervention services.
+- Section 3301.0716 - Department access to student information.
+- Section 3301.0718 - Standards and curricula for health education.
+- Section 3301.0719 - Standards for business education in grades seven through twelve.
+- Section 3301.0720 - Recommendations to school districts for teaching secondary school sciences.
+- Section 3301.0721 - Model curricula - college and career readiness, financial literacy; proper interactions with peace officers.
+- Section 3301.0723 - Data verification code for younger children receiving state services.
+- Section 3301.0725 - Extended programming employment of certificated instructional personnel.
+- Section 3301.0726 - High school instructional materials on personal financial responsibility; development of handwriting as a skill.
+- Section 3301.0727 - Dropout recovery community school testing window.
+- Section 3301.0728 - Retaking of end-of-course examinations.
+- Section 3301.0729 - Time spent on assessments.
+- Section 3301.0730 - User review of EMIS guidelines.
+- Section 3301.0731 - English learner rules.
+- Section 3301.0732 - Minimum education standards for nonchartered nonpublic schools.
+- Section 3301.08 - Appointment of superintendent of public instruction.
+- Section 3301.09 - Superintendent of public instruction shall be secretary of board.
+- Section 3301.10 - Director of education and workforce is member of board of trustees of Ohio history connection.
+- Section 3301.11 - Superintendent of public instruction shall be executive and administrative officer of board.
+- Section 3301.111 - Powers of the state board of education.
+- Section 3301.12 - Director of education and workforce - additional duties.
+- Section 3301.121 - Adjudication procedure to determine whether to permanently exclude pupil.
+- Section 3301.13 - Department of education and workforce.
+- Section 3301.132 - Rules regarding nonchartered nonpublic schools.
+- Section 3301.133 - Identifiable organizational unit of department to deal with management of education data.
+- Section 3301.135 - List of free, reduced cost epinephrine autoinjectors.
+- Section 3301.136 - High-quality tutoring program list.
+- Section 3301.137 - Public meetings.
+- Section 3301.138 - Stakeholder outreach in rulemaking.
+- Section 3301.139 - School counselor liaison.
+- Section 3301.15 - Inspection of institutions employing teachers - reports.
+- Section 3301.16 - Classifying and chartering school districts and individual schools.
+- Section 3301.161 - Petition of referendum against transfer of school district.
+- Section 3301.162 - Notice of intent to close chartered nonpublic school.
+- Section 3301.163 - Third-grade reading guarantee for scholarship students.
+- Section 3301.164 - Chartered nonpublic school reporting requirements on school website.
+- Section 3301.17 - Driver education courses.
+- Section 3301.171 - Driver education course fee.
+- Section 3301.18 - Duties of department regarding desegregation within school districts.
+- Section 3301.19 - Program to support school boards that voluntarily adopt and implement desegregation plan.
+- Section 3301.22 - Model harassment prevention policy.
+- Section 3301.221 - List of approved programs in suicide awareness and prevention and violence prevention.
+- Section 3301.23 - State computer science education committee and plan.
+- Section 3301.24 - Artificial intelligence policy.
+- Section 3301.27 - Research on factors that improve education effectiveness.
+- Section 3301.28 - Tutoring and remedial education program.
+- Section 3301.311 - Preschool program, early childhood education program, or early learning program staff degree requirements.
+- Section 3301.32 - Criminal records check.
+- Section 3301.40 - Adult education programs.
+- Section 3301.45 - Distribution of information from online education and career planning tool to high schools.
+- Section 3301.48 - Interstate compact for education.
+- Section 3301.481 - Identifying state agency for whose benefit real property is acquired.
+- Section 3301.49 - Appointment of members to educational commission.
+- Section 3301.50 - Preschool educator license.
+- Section 3301.51 - Preschool associate educator license not required.
+- Section 3301.52 - Preschool, school child program definitions.
+- Section 3301.53 - Rules for minimum standards for preschool programs.
+- Section 3301.531 - Tuberculosis screening, testing of prospective employees.
+- Section 3301.54 - Direction and supervision of preschool program - qualifications of staff members.
+- Section 3301.541 - Criminal records check.
+- Section 3301.55 - Preschool program building requirements and building plan.
+- Section 3301.56 - Duties of director of program - staff requirements and maximum group size - right of access.
+- Section 3301.57 - Providing consultation and technical assistance.
+- Section 3301.58 - Licensing of preschool programs and school child programs - enforcement of rules.
+- Section 3301.59 - License required for school child program to receive state or federal funds - eligible nonpublic school program alternatives.
+- Section 3301.60 - Interstate compact on educational opportunity for military children.
+- Section 3301.601 - Technology-based educational opportunities for military family children.
+- Section 3301.61 - State council on educational opportunity for military children.
+- Section 3301.62 - Compact Commissioner.
+- Section 3301.63 - Military family education liaison.
+- Section 3301.64 - Division of assessment for participation in compact.
+- Section 3301.65 - School district enrollment of military family children.
+- Section 3301.68 - Consolidated school mandate report for school districts.
+- Section 3301.70 - Department's duties as to National and Community Service Act of 1990.
+- Section 3301.71 - Effect of child support default on license or certificate.
+- Section 3301.80 - Certificate of high school equivalence.
+- Section 3301.81 - Criteria to take high school equivalency test.
+- Section 3301.82 - Educator employment data collection and reporting.
+- Section 3301.85 - Regional partnership program.
+- Section 3301.91 - Free school meal reimbursement.
+- Section 3301.923 - Clearinghouse of best practices to promote student health.
+- Section 3301.94 - Education data repository.
+- Section 3301.941 - Student level data records collected and maintained for early childhood programs.
+- Section 3301.947 - Privacy of data during testing.
+- Section 3301.948 - Provision of data to multi-state consortium prohibited.
+- Section 3301.95 - Best practices for educational stability.

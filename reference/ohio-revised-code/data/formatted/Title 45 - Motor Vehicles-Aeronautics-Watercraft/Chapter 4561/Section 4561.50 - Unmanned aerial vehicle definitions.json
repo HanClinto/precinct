@@ -1,0 +1,68 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Critical facility\" means any of the following:\n\n(1) A critical infrastructure facility as defined in section 2911.21 of the Revised Code;\n\n(2) A commercial distribution center;\n\n(3) A federal, state, county, or municipal court;\n\n(4) A police station, sheriff's office, state highway patrol station, or premises controlled by the bureau of criminal identification and investigation;\n\n(5) A federal, state, county, or municipal jail or prison or any other facility in which persons are incarcerated;\n\n(6) A federal or state military installation or facility;\n\n(7) A hospital that receives air ambulance services.",
+      "id": "4561.50-critical-facility",
+      "normalized": "critical facility",
+      "scope": "As used in sections 4561.50 to 4561.53 of the Revised Code:",
+      "section": "4561.50",
+      "source_title": "Section 4561.50 - Unmanned aerial vehicle definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4561.50",
+      "term": "Critical facility"
+    },
+    {
+      "definition": "(B) \"Unmanned aerial vehicle\" means a powered, aerial vehicle to which all of the following apply:\n\n(1) The vehicle does not carry a human operator and is operated without the possibility of direct human intervention from within or on the vehicle;\n\n(2) The vehicle uses aerodynamic forces to provide lift;\n\n(3) The vehicle can fly autonomously or be piloted remotely;\n\n(4) The vehicle is either expendable or recoverable.\n\n\"Unmanned aerial vehicle\" is commonly referred to as a drone and does not include a satellite.",
+      "id": "4561.50-unmanned-aerial-vehicle",
+      "normalized": "unmanned aerial vehicle",
+      "scope": "As used in sections 4561.50 to 4561.53 of the Revised Code:",
+      "section": "4561.50",
+      "source_title": "Section 4561.50 - Unmanned aerial vehicle definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4561.50",
+      "term": "Unmanned aerial vehicle"
+    },
+    {
+      "definition": "(C) \"Unmanned aerial vehicle system\" means an unmanned aerial vehicle and associated elements, including communication links and components that control the unmanned aerial vehicle and that are required for the remote pilot in command to operate the vehicle in the air space over this state.",
+      "id": "4561.50-unmanned-aerial-vehicle-system",
+      "normalized": "unmanned aerial vehicle system",
+      "scope": "As used in sections 4561.50 to 4561.53 of the Revised Code:",
+      "section": "4561.50",
+      "source_title": "Section 4561.50 - Unmanned aerial vehicle definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4561.50",
+      "term": "Unmanned aerial vehicle system"
+    },
+    {
+      "definition": "(D) \"Park district\" means a park district created in accordance with Chapter 1545. of the Revised Code.\n\nLast updated March 20, 2025 at 2:23 PM",
+      "id": "4561.50-park-district",
+      "normalized": "park district",
+      "scope": "As used in sections 4561.50 to 4561.53 of the Revised Code:",
+      "section": "4561.50",
+      "source_title": "Section 4561.50 - Unmanned aerial vehicle definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4561.50",
+      "term": "Park district"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "4561.50",
+      "number": "4561.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4561.50"
+    },
+    {
+      "kind": "section",
+      "label": "4561.53",
+      "number": "4561.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4561.53"
+    },
+    {
+      "kind": "section",
+      "label": "2911.21",
+      "number": "2911.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2911.21"
+    }
+  ],
+  "scraped": "2026-07-02T20:06:00+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4561.50",
+  "title": "Section 4561.50 - Unmanned aerial vehicle definitions."
+}

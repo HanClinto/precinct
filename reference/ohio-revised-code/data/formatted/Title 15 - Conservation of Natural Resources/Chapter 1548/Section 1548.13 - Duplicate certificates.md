@@ -1,0 +1,14 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-1548.13
+Scraped: 2026-07-02T19:37:52+00:00
+
+# Section 1548.13 - Duplicate certificates.
+
+**Effective:** September 14, 2016
+
+**Latest Legislation:** Senate Bill 293 - 131st General Assembly
+
+In the event of a lost or destroyed certificate of title, application shall be made to a clerk of a court of common pleas by the owner of the watercraft or outboard motor, or the holder of a lien on it, for a certified copy of the certificate upon a form prescribed by the chief of the division of parks and watercraft and accompanied by the fee prescribed by section 1548.10 of the Revised Code. The application shall be signed and sworn to by the person making the application, and the clerk shall issue a certified copy of the certificate of title to the person entitled to receive it under this chapter. The certified copy shall be plainly marked across its face with the word "duplicate," and any subsequent purchaser of the watercraft or outboard motor in the chain of title originating through the certified copy acquires only such rights in the watercraft or outboard motor as the original holder of the certified copy had. Any purchaser of the watercraft or outboard motor, at the time of purchase, may require the seller to indemnify the purchaser and all subsequent purchasers of the watercraft or outboard motor against any loss that the purchaser or any subsequent purchaser may suffer by reason of any claim presented upon the original certificate. In the event of the recovery of the original certificate of title by the owner, the owner shall surrender it immediately to a clerk for cancellation.
+
+The holder of a certificate of title for a watercraft or outboard motor upon which is noted an existing lien, encumbrance, or mortgage may apply at any time to a clerk for a memorandum certificate, on a form prescribed by the chief, that is signed and sworn to by the applicant. Upon receipt of the application together with the fee prescribed by section 1548.10 of the Revised Code, and if the application appears to be regular, the clerk shall issue to the applicant a memorandum certificate for the watercraft or outboard motor. If the memorandum certificate is lost or destroyed, the holder of it may obtain a certified copy of it by applying for the copy on a form prescribed by the chief, accompanied by the fee prescribed in section 1548.10 of the Revised Code. In the event of the recovery of the original memorandum certificate by the owner, the owner shall surrender it immediately to a clerk for cancellation. Such a memorandum certificate is not assignable and constitutes no evidence of title or of right to transfer or encumber the watercraft or outboard motor described in it.
+
+The owner of a watercraft or outboard motor may apply at any time to a clerk for a non-negotiable evidence of ownership for the watercraft or outboard motor.

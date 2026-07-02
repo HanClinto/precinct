@@ -1,0 +1,42 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Electronic signature\" has the same meaning as in section 1306.01 of the Revised Code.",
+      "id": "3901.046-electronic-signature",
+      "normalized": "electronic signature",
+      "scope": "(A) As used in this section:",
+      "section": "3901.046",
+      "source_title": "Section 3901.046 - Electronic signatures.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3901.046",
+      "term": "Electronic signature"
+    },
+    {
+      "definition": "(2) \"Insurer\" has the same meaning as in section 3901.32 of the Revised Code.\n\n(B) An insurer may use an electronic signature to comply with any signature requirement placed upon insurers by this title, including any requirement that a document submitted by an insurer to the department of insurance be signed.\n\nLast updated June 8, 2022 at 1:04 PM",
+      "id": "3901.046-insurer",
+      "normalized": "insurer",
+      "scope": "(A) As used in this section:",
+      "section": "3901.046",
+      "source_title": "Section 3901.046 - Electronic signatures.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3901.046",
+      "term": "Insurer"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "1306.01",
+      "number": "1306.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1306.01"
+    },
+    {
+      "kind": "section",
+      "label": "3901.32",
+      "number": "3901.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.32"
+    }
+  ],
+  "scraped": "2026-07-02T20:02:07+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3901.046",
+  "title": "Section 3901.046 - Electronic signatures."
+}

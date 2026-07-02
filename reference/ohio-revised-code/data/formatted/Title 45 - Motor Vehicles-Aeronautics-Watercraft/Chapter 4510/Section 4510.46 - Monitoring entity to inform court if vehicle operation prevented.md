@@ -1,0 +1,44 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4510.46
+Scraped: 2026-07-02T20:05:36+00:00
+
+# Section 4510.46 - Monitoring entity to inform court if vehicle operation prevented.
+
+**Effective:** April 6, 2017
+
+**Latest Legislation:** House Bill 388 - 131st General Assembly
+
+(A) As used in this section:
+
+(1) "Offender" means a person who has been granted limited or unlimited driving privileges by a court of this state subject to the condition that the person operate only a vehicle with a certified ignition interlock device under section 4510.021 , 4510.022 , or 4510.13 of the Revised Code.
+
+(2) "Ignition interlock device violation" means that a certified ignition interlock device indicates that it has prevented an offender from starting a motor vehicle because of either of the following:
+
+(a) The device was tampered with or circumvented;
+
+(b) The analysis of the deep-lung breath sample or other method employed by the ignition interlock device to measure the concentration by weight of alcohol in the offender's breath indicated the presence of alcohol in the offender's breath in a concentration sufficient to prevent the ignition interlock device from permitting the motor vehicle to be started.
+
+(B) The manufacturer of a certified ignition interlock device shall monitor each device that is produced by that manufacturer and that has been installed in a motor vehicle for an offender. The manufacturer also shall inform the court and the registrar of motor vehicles, as soon as practicable, whenever an ignition interlock device violation has occurred.
+
+(C) Upon receipt of information pertaining to an offender under division (B) of this section, the court shall send a notice to the offender stating all of the following:
+
+(1) That it has received evidence of an ignition interlock device violation;
+
+(2) If applicable, that because of this violation the offender is required to wear a monitor that provides for continuous alcohol monitoring in accordance with division (E) of section 4510.022 , division (A)(8) of section 4510.13 , or division (F) of section 4510.17 of the Revised Code;
+
+(3) That because of this violation the court may increase the period of suspension of the offender's driver's or commercial driver's license or permit or nonresident operating privilege from that originally imposed by the court by a factor of two and may increase the period of time during which the offender will be prohibited from exercising any limited or unlimited driving privileges granted to the offender unless the vehicles the offender operates are equipped with a certified ignition interlock device by a factor of two;
+
+(4) Whether the court is imposing the increases under division (C)(3) of this section;
+
+(5) If the violation occurred within sixty days of the end of the suspension of the offender's driver's or commercial driver's license or permit or nonresident operating privilege and the court is not imposing an increase in the period of the suspension under division (C)(3) of this section, that the court is increasing the offender's suspension by sixty days as provided in division (E)(5) of section 4510.022 , division (A)(8)(d) of section 4510.13 , or division (F) of section 4510.17 of the Revised Code;
+
+(6) That the offender may file an appeal of any increase imposed under division (C)(4) or (5) of this section with the court within fourteen days of receiving the notice;
+
+(7) That the registrar of motor vehicles is prohibited from reinstating the offender's license unless the period of suspension has been served and no ignition interlock device violations have been committed within the sixty days prior to the application for reinstatement.
+
+(D) Any motion that is filed under division (C)(6) of this section within the fourteen-day period shall be considered to be filed in a timely manner, and any such motion that is filed after that fourteen-day period shall be considered not to be filed in a timely manner. If the offender files a timely motion, the court may hold a hearing on the matter. The scope of the hearing is limited to determining whether the offender in fact was prevented from starting a motor vehicle that is equipped with a certified ignition interlock device because the offender committed an ignition interlock device violation.
+
+If the court finds by a preponderance of the evidence that the violation did occur, it may deny the offender's appeal. If the court finds by a preponderance of the evidence that the violation did not occur, it shall grant the offender's appeal and shall issue an order terminating the increase of the offender's suspension.
+
+(E) In no case shall any period of suspension of an offender's driver's or commercial driver's license or permit or nonresident operating privilege that is increased by a factor of two under division (C)(3) of this section or any period of time during which the offender is prohibited from exercising any limited driving privileges granted to the offender unless the vehicles the offender operates are equipped with a certified ignition interlock device that is increased by a factor of two under division (C)(3) of this section exceed the maximum period of time for which the court originally was authorized to suspend the offender's driver's or commercial driver's license or permit or nonresident operating privilege under division (G)(1)(a), (b), (c), (d), or (e) of section 4511.19 of the Revised Code. This division does not apply when a suspension is increased under division (C)(5) of this section.
+
+(F) Nothing in this section shall be construed as prohibiting the court from revoking an individual's driving privileges.

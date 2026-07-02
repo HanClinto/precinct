@@ -1,0 +1,60 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Moving violation\" means any violation of any statute or ordinance, other than section 4513.263 of the Revised Code or an ordinance that is substantially equivalent to that section, that regulates the operation of vehicles, streetcars, or trackless trolleys on highways or streets or that regulates size or load limitations or fitness requirements of vehicles. \"Moving violation\" does not include the violation of any statute or ordinance that regulates pedestrians or the parking of vehicles.",
+      "id": "2743.70-moving-violation",
+      "normalized": "moving violation",
+      "scope": "(D) As used in this section:",
+      "section": "2743.70",
+      "source_title": "Section 2743.70 - Additional court costs and bail for reparations fund.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2743.70",
+      "term": "Moving violation"
+    },
+    {
+      "definition": "(2) \"Bail\" means cash, a check, a money order, a credit card, or any other form of money that is posted by or for an offender pursuant to section 2937.011 or sections 2937.22 to 2937.46 of the Revised Code or Traffic Rule 4 to prevent the offender from being placed or held in a detention facility, as defined in section 2921.01 of the Revised Code.\n\nLast updated July 18, 2023 at 12:30 PM",
+      "id": "2743.70-bail",
+      "normalized": "bail",
+      "scope": "(D) As used in this section:",
+      "section": "2743.70",
+      "source_title": "Section 2743.70 - Additional court costs and bail for reparations fund.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2743.70",
+      "term": "Bail"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2937.011",
+      "number": "2937.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2937.011"
+    },
+    {
+      "kind": "section",
+      "label": "2937.22",
+      "number": "2937.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2937.22"
+    },
+    {
+      "kind": "section",
+      "label": "2937.46",
+      "number": "2937.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2937.46"
+    },
+    {
+      "kind": "section",
+      "label": "4513.263",
+      "number": "4513.263",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4513.263"
+    },
+    {
+      "kind": "section",
+      "label": "2921.01",
+      "number": "2921.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2921.01"
+    }
+  ],
+  "scraped": "2026-07-02T19:45:43+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2743.70",
+  "title": "Section 2743.70 - Additional court costs and bail for reparations fund."
+}

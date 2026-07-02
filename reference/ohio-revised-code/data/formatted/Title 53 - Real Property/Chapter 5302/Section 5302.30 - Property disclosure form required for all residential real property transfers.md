@@ -1,0 +1,98 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5302.30
+Scraped: 2026-07-02T20:11:48+00:00
+
+# Section 5302.30 - Property disclosure form required for all residential real property transfers.
+
+**Effective:** May 6, 2005
+
+**Latest Legislation:** House Bill 231 - 125th General Assembly
+
+(A) As used in this section:
+
+(1) "Good faith" means honesty in fact in a transaction involving the transfer of residential real property.
+
+(2) "Land installment contract" has the same meaning as in section 5313.01 of the Revised Code.
+
+(3) "Political subdivision" and "state" have the same meanings as in section 2744.01 of the Revised Code.
+
+(4) "Residential real property" means real property that is improved by a building or other structure that has one to four dwelling units.
+
+(B)(1) Except as provided in division (B)(2) of this section, this section applies to any transfer of residential real property that occurs on or after July 1, 1993, by sale, land installment contract, lease with option to purchase, exchange, or lease for a term of ninety-nine years and renewable forever. For purposes of this section, a transfer occurs when the initial contract for transfer is executed, regardless of when legal title is transferred, and references in this section to transfer offers and transfer agreements refer to offers and agreements in respect of the initial contract for transfer.
+
+(2) This section does not apply to any transfer of residential real property that is any of the following:
+
+(a) A transfer pursuant to court order, including, but not limited to, a transfer ordered by a probate court during the administration of a decedent's estate, a transfer pursuant to a writ of execution, a transfer by a trustee in bankruptcy, a transfer as a result of the exercise of the power of eminent domain, and a transfer that results from a decree for specific performance of a contract or other agreement between persons;
+
+(b) A transfer to a mortgagee by a mortgagor by deed in lieu of foreclosure or in satisfaction of the mortgage debt;
+
+(c) A transfer to a beneficiary of a deed of trust by a trustor in default;
+
+(d) A transfer by a foreclosure sale that follows a default in the satisfaction of an obligation secured by a mortgage;
+
+(e) A transfer by a sale under a power of sale following a default in the satisfaction of an obligation that is secured by a deed of trust or another instrument containing a power of sale;
+
+(f) A transfer by a mortgagee, or a beneficiary under a deed of trust, who has acquired the residential real property at a sale conducted pursuant to a power of sale under a mortgage or a deed of trust or who has acquired the residential real property by a deed in lieu of foreclosure;
+
+(g) A transfer by a fiduciary in the course of the administration of a decedent's estate, a guardianship, a conservatorship, or a trust;
+
+(h) A transfer from one co-owner to one or more other co-owners;
+
+(i) A transfer made to the transferor's spouse or to one or more persons in the lineal line of consanguinity of one or more of the transferors;
+
+(j) A transfer between spouses or former spouses as a result of a decree of divorce, dissolution of marriage, annulment, or legal separation or as a result of a property settlement agreement incidental to a decree of divorce, dissolution of marriage, annulment, or legal separation;
+
+(k) A transfer to or from the state, a political subdivision of the state, or another governmental entity;
+
+(l) A transfer that involves newly constructed residential real property that previously has not been inhabited;
+
+(m) A transfer to a transferee who has occupied the property as a personal residence for one or more years immediately prior to the transfer;
+
+(n) A transfer from a transferor who both has not occupied the property as a personal residence within one year immediately prior to the transfer and has acquired the property through inheritance or devise.
+
+(C) Except as provided in division (B)(2) of this section and subject to divisions (E) and (F) of this section, every person who intends to transfer any residential real property on or after July 1, 1993, by sale, land installment contract, lease with option to purchase, exchange, or lease for a term of ninety-nine years and renewable forever shall complete all applicable items in a property disclosure form prescribed under division (D) of this section and shall deliver in accordance with division (I) of this section a signed and dated copy of the completed form to each prospective transferee or prospective transferee's agent as soon as is practicable.
+
+(D)(1) Prior to July 1, 1993, the director of commerce, by rule adopted in accordance with Chapter 119. of the Revised Code, shall prescribe the disclosure form to be completed by transferors. The form prescribed by the director shall be designed to permit the transferor to disclose material matters relating to the physical condition of the property to be transferred, including, but not limited to, the source of water supply to the property; the nature of the sewer system serving the property; the condition of the structure of the property, including the roof, foundation, walls, and floors; the presence of hazardous materials or substances, including lead-based paint, asbestos, urea-formaldehyde foam insulation, and radon gas; and any material defects in the property that are within the actual knowledge of the transferor.
+
+The form also shall set forth a statement of the purpose of the form, including statements substantially similar to the following: that the form constitutes a statement of the conditions of the property and of information concerning the property actually known by the transferor; that, unless the transferee is otherwise advised in writing, the transferor, other than having lived at or owning the property, possesses no greater knowledge than that which could be obtained by a careful inspection of the property by a potential transferee; that the statement is not a warranty of any kind by the transferor or by any agent or subagent representing the transferor in this transaction; that the statement is not a substitute for any inspections; that the transferee is encouraged to obtain the transferee's own professional inspection; that the representations are made by the transferor and are not the representations of the transferor's agent or subagent; and that the form and the representations contained therein are provided by the transferor exclusively to potential transferees in a transfer made by the transferor, and are not made to transferees in any subsequent transfers.
+
+The form shall include instructions to the transferor for completing the form, space in which the transferor or transferors shall sign and date the form, and space in which the transferee or transferees shall sign and date the form acknowledging receipt of a copy of the form and stating that the transferee or transferees understand the purpose of the form as stated thereon.
+
+(2) Not later than January 1, 2006, the director shall revise the disclosure form to include a statement that information on the operation and maintenance of the type of sewage treatment system serving the property is available from the department of health or the board of health of the health district in which the property is located.
+
+As used in this section, "sewage treatment system" has the same meaning as in section 3718.01 of the Revised Code.
+
+(E)(1) Each disclosure of an item of information that is required to be made in the property disclosure form prescribed under division (D) of this section in connection with particular residential real property and each act that may be performed in making any disclosure of an item of information shall be made or performed in good faith.
+
+(2) If an item of information is unknown to the transferor of residential real property at the time the item is required to be disclosed in the property disclosure form and if the approximation is not used for the purpose of circumventing or otherwise evading divisions (C) and (D) of this section, the transferor may make a good faith approximation of the item of information.
+
+(F)(1) A transferor of residential real property is not liable in damages in a civil action for injury, death, or loss to person or property that allegedly arises from any error in, inaccuracy of, or omission of any item of information required to be disclosed in the property disclosure form if the error, inaccuracy, or omission was not within the transferor's actual knowledge.
+
+(2) If any item of information that is disclosed in the property disclosure form is rendered inaccurate after the delivery of the form to the transferee of residential real property or the transferee's agent as a result of any act, occurrence, or agreement, the subsequent inaccuracy does not cause, and shall not be construed as causing, the transferor of the residential real property to be in noncompliance with the requirements of divisions (C) and (D) of this section.
+
+(G) Any disclosure of an item of information in the property disclosure form prescribed under division (D) of this section may be amended in writing by the transferor of residential real property at any time following the delivery of the form in accordance with divisions (C) and (I) of this section. The amendment shall be subject to this section.
+
+(H) Except as provided in division (B)(2) of this section, every prospective transferee of residential real property who receives in accordance with division (C) of this section a signed and dated copy of a completed property disclosure form as prescribed under division (D) of this section shall acknowledge receipt of the form by doing both of the following:
+
+(1) Signing and dating a copy of the form;
+
+(2) Delivering a signed and dated copy of the form to the transferor or the transferor's agent or subagent.
+
+(I) The transferor's delivery under division (C) of this section of a property disclosure form as prescribed under division (D) of this section and the prospective transferee's delivery under division (H) of this section of an acknowledgment of receipt of that form shall be made by personal delivery to the other party or the other party's agent or subagent, by ordinary mail or certified mail, return receipt requested, or by facsimile transmission. For the purposes of the delivery requirements of this section, the delivery of a property disclosure form to a prospective co-transferee of residential real property or a prospective co-transferee's agent shall be considered delivery to the other prospective transferees unless otherwise provided by contract.
+
+(J) The specification of items of information that must be disclosed in the property disclosure form as prescribed under division (D)(1) of this section does not limit or abridge, and shall not be construed as limiting or abridging, any obligation to disclose an item of information that is created by any other provision of the Revised Code or the common law of this state or that may exist in order to preclude fraud, either by misrepresentation, concealment, or nondisclosure in a transaction involving the transfer of residential real property. The disclosure requirements of this section do not bar, and shall not be construed as barring, the application of any legal or equitable defense that a transferor of residential real property may assert in a civil action commenced against the transferor by a prospective or actual transferee of that property.
+
+(K)(1) Except as provided in division (K)(2) of this section, but subject to divisions (J) and (L) of this section, a transfer of residential real property that is subject to this section shall not be invalidated because of the failure of the transferor to provide to the transferee in accordance with division (C) of this section a completed property disclosure form as prescribed under division (D) of this section.
+
+(2) Subject to division (K)(3)(c) of this section, if a transferee of residential real property that is subject to this section receives a property disclosure form or an amendment of that form as described in division (G) of this section after the transferee has entered into a transfer agreement with respect to the property, the transferee, after receipt of the form or amendment, may rescind the transfer agreement in a written, signed, and dated document that is delivered to the transferor or the transferor's agent or subagent in accordance with divisions (K)(3)(a) and (b) of this section, without incurring any legal liability to the transferor because of the rescission, including, but not limited to, a civil action for specific performance of the transfer agreement. Upon the rescission of the transfer agreement, the transferee is entitled to the return of, and the transferor shall return, any deposits made by the transferee in connection with the proposed transfer of the residential real property.
+
+(3)(a) Subject to division (K)(3)(b) of this section, a rescission of a transfer agreement under division (K)(2) of this section only may occur if the transferee's written, signed, and dated document of rescission is delivered to the transferor or the transferor's agent or subagent within three business days following the date on which the transferee or the transferee's agent receives the property disclosure form prescribed under division (D) of this section or the amendment of that form as described in division (G) of this section.
+
+(b) A transferee may not rescind a transfer agreement under division (K)(2) of this section unless the transferee rescinds the transfer agreement by the earlier of the date that is thirty days after the date upon which the transferor accepted the transferee's transfer offer or the date of the closing of the transfer of the residential real property.
+
+(c) A transferee of residential real property may waive the right of rescission of a transfer agreement described in division (K)(2) of this section.
+
+(d) A rescission of a transfer agreement is not permissible under division (K)(2) of this section if a transferee of residential real property that is subject to this section receives a property disclosure form as prescribed under division (D) of this section or an amendment of that form as described in division (G) of this section prior to the transferee's submission to the transferor or the transferor's agent or subagent of a transfer offer and the transferee's entry into a transfer agreement with respect to the property.
+
+(4) If a transferee of residential real property subject to this section does not receive a property disclosure form from the transferor after the transferee has submitted to the transferor or the transferor's agent or subagent a transfer offer and has entered into a transfer agreement with respect to the property, the transferee may rescind the transfer agreement in a written, signed, and dated document that is delivered to the transferor or the transferor's agent or subagent in accordance with division (K)(4) of this section without incurring any legal liability to the transferor because of the rescission, including, but not limited to, a civil action for specific performance of the transfer agreement. Upon the rescission of the transfer agreement, the transferee is entitled to the return of, and the transferor shall return, any deposits made by the transferee in connection with the proposed transfer of the residential real property. A transferee may not rescind a transfer agreement under division (K)(4) of this section unless the transferee rescinds the transfer agreement by the earlier of the date that is thirty days after the date upon which the transferor accepted the transferee's transfer offer or the date of the closing of the transfer of the residential real property.
+
+(L) The right of rescission of a transfer agreement described in division (K)(2) of this section or the absence of that right does not affect, and shall not be construed as affecting, any other legal causes of action or other remedies that a transferee or prospective transferee of residential real property may possess against the transferor of that property.

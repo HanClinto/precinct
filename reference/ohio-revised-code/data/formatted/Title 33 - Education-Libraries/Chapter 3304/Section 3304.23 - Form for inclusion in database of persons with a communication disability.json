@@ -1,0 +1,90 @@
+{
+  "glossary": [
+    {
+      "definition": "(2) \"Disability\" means an intellectual impairment, a hearing impairment (including deafness), a speech or language impairment, a visual impairment (including blindness), a serious emotional disturbance, an orthopedic impairment, autism, traumatic brain injury, a serious health impairment, a specific learning impairment (including dyslexia), deaf-blindness, or a mental health condition with symptoms that make it difficult for a person to do certain activities or to interact with others.",
+      "id": "3304.23-disability",
+      "normalized": "disability",
+      "scope": "(A) As used in this section:",
+      "section": "3304.23",
+      "source_title": "Section 3304.23 - Form for inclusion in database of persons with a communication disability.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3304.23",
+      "term": "Disability"
+    },
+    {
+      "definition": "(3) \"Guardian\" has the same meaning as in section 2111.01 of the Revised Code.",
+      "id": "3304.23-guardian",
+      "normalized": "guardian",
+      "scope": "(A) As used in this section:",
+      "section": "3304.23",
+      "source_title": "Section 3304.23 - Form for inclusion in database of persons with a communication disability.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3304.23",
+      "term": "Guardian"
+    },
+    {
+      "definition": "(4) \"Physician\" means a person licensed to practice medicine or surgery or osteopathic medicine and surgery under Chapter 4731. of the Revised Code.",
+      "id": "3304.23-physician",
+      "normalized": "physician",
+      "scope": "(A) As used in this section:",
+      "section": "3304.23",
+      "source_title": "Section 3304.23 - Form for inclusion in database of persons with a communication disability.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3304.23",
+      "term": "Physician"
+    },
+    {
+      "definition": "(5) \"Psychiatrist\" has the same meaning as in section 5122.01 of the Revised Code.",
+      "id": "3304.23-psychiatrist",
+      "normalized": "psychiatrist",
+      "scope": "(A) As used in this section:",
+      "section": "3304.23",
+      "source_title": "Section 3304.23 - Form for inclusion in database of persons with a communication disability.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3304.23",
+      "term": "Psychiatrist"
+    },
+    {
+      "definition": "(6) \"Psychologist\" has the same meaning as in section 4732.01 of the Revised Code.\n\n(B) The opportunities for Ohioans with disabilities agency shall develop a verification form for a person diagnosed with a disability to be submitted voluntarily to the department of public safety so that the person may be included in the database established under section 5502.08 of the Revised Code. The same form shall be used to indicate that the person wishes to be removed from the database in accordance with division (F) of section 5502.08 of the Revised Code.\n\n(C) The form shall include the following information:\n\n(1) The name of the person diagnosed with a disability;\n\n(2) The name of the person completing the form on behalf of the person diagnosed with a disability, if applicable;\n\n(3) The relationship between the person completing the form and the person diagnosed with a disability, if applicable;\n\n(4) The residential address of the individual in division (C)(1) or (2) of this section;\n\n(5) The telephone number of the individual in division (C)(1) or (2) of this section;\n\n(6) The driver's license number or state identification card number issued to the person diagnosed with a disability, if that person has such a number;\n\n(7) The license plate number of each vehicle owned, operated, or regularly occupied by the person diagnosed with a disability or registered in that person's name;\n\n(8) A certification that the person has been diagnosed with a disability, signed by a psychiatrist or other physician, a psychologist, a clinical nurse specialist, or a certified nurse practitioner;\n\n(9) The name, business address, business telephone number, and professional license number of the professional making the certification described in division (C)(6) of this section;\n\n(10) The signature of the person diagnosed with a disability or the signature of the person completing the form on behalf of such a person;\n\n(11) A place where the person diagnosed with a disability or the person completing the form on behalf of such a person may indicate the desire to be removed from the database.\n\n(D) Any of the following persons may complete the verification form:\n\n(1) Any person diagnosed with a disability who is eighteen years of age or older;\n\n(2) The parent or parents of a minor child diagnosed with a disability;\n\n(3) The guardian of a person diagnosed with a disability, regardless of the age of the person.\n\n(E)(1) The opportunities for Ohioans with disabilities agency, the department of developmental disabilities, and the department of public safety shall make the verification form electronically available on each of their respective web sites.\n\n(2) The opportunities for Ohioans with disabilities agency and the department of developmental disabilities shall conduct public outreach concerning the existence of the database created under section 5502.08 of the Revised Code and include information regarding the database on their respective web sites.\n\nLast updated January 7, 2026 at 12:00 PM",
+      "id": "3304.23-psychologist",
+      "normalized": "psychologist",
+      "scope": "(A) As used in this section:",
+      "section": "3304.23",
+      "source_title": "Section 3304.23 - Form for inclusion in database of persons with a communication disability.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3304.23",
+      "term": "Psychologist"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "4723.01",
+      "number": "4723.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.01"
+    },
+    {
+      "kind": "section",
+      "label": "2111.01",
+      "number": "2111.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.01"
+    },
+    {
+      "kind": "section",
+      "label": "5122.01",
+      "number": "5122.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5122.01"
+    },
+    {
+      "kind": "section",
+      "label": "4732.01",
+      "number": "4732.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4732.01"
+    },
+    {
+      "kind": "section",
+      "label": "5502.08",
+      "number": "5502.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5502.08"
+    }
+  ],
+  "scraped": "2026-07-02T19:48:20+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3304.23",
+  "title": "Section 3304.23 - Form for inclusion in database of persons with a communication disability."
+}

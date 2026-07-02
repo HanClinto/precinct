@@ -1,0 +1,14 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-733.621
+Scraped: 2026-07-02T19:33:32+00:00
+
+# Section 733.621 - Appointment of assistants or employees.
+
+**Effective:** March 2, 1994
+
+**Latest Legislation:** House Bill 285 - 120th General Assembly
+
+As used in this section, "chief legal officer" means a city director of law, village solicitor, or similar chief legal officer of a municipal corporation.
+
+Subject to section 2921.421 of the Revised Code, a chief legal officer of a municipal corporation may appoint, as an assistant legal officer, prosecutor, clerk, stenographer, or other employee, a person who is an associate or partner of, or who is employed by, the chief legal officer, assistant legal officer, or prosecutor in the private practice of law in a partnership, professional association, or other law business arrangement. In a municipal corporation having an official who is designated as prosecutor and who has authority to appoint assistants and employees, the prosecutor may appoint, as an assistant prosecutor, clerk, stenographer, or other employee, a person who is an associate of, or is employed by, the chief legal officer, the prosecutor, an assistant legal officer, or an assistant prosecutor in the private practice of law in a partnership, professional association, or other law business arrangement.
+
+Last updated March 9, 2022 at 12:14 PM

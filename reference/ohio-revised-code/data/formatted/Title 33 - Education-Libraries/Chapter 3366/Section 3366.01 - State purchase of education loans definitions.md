@@ -1,0 +1,76 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3366.01
+Scraped: 2026-07-02T19:50:28+00:00
+
+# Section 3366.01 - State purchase of education loans definitions.
+
+**Effective:** February 20, 2002
+
+**Latest Legislation:** Senate Bill 116 - 124th General Assembly
+
+As used in this chapter, the following words and terms have the following meanings unless the context indicates a different meaning or intent:
+
+(A) "Bond proceedings" means the order, trust, agreement, indenture and other agreements, or amendments and supplements to the foregoing, or any one or more or combination thereof, authorizing or providing for the terms and conditions applicable to, or providing for the issuance, security, or liquidity of, obligations and the provisions contained in such obligations.
+
+(B) "Bond service charges" means principal, including mandatory sinking fund requirements for retirement of obligations, and interest, and redemption premium, if any, required to be paid on obligations.
+
+(C) "Bond service fund" means the applicable fund and accounts therein created in the bond proceedings for and pledged to the payment of bond service charges, including all moneys and investments, and earnings from investments, credited and to be credited thereto.
+
+(D) "Costs of attendance" means all costs of a student incurred in connection with a program of study at an eligible institution, as determined by the institution, including tuition; instructional fees; room and board; books, computers, and supplies; and other related fees, charges, and expenses.
+
+(E) "Designated administrator" means, with respect to all obligations issued prior to September 1, 1999, and to all nonfederal education loans, the nonprofit corporation designated on November 10, 1992, under division (D) of section 3351.07 of the Revised Code to operate exclusively for charitable and educational purposes by expanding access to higher education financing programs for students and families in need of student financial aid. For all other purposes, "designated administrator" means the Ohio corporation that is a subsidiary of the nonprofit corporation designated under division (D) of section 3351.07 of the Revised Code and that has agreed to enter into an administration agreement with the issuing authority and the director of development, or any other person that enters into an administration agreement with the issuing authority and the director of development.
+
+(F) "Education loan" means a loan made by an eligible lender pursuant to the policy guidelines to or for the benefit of a student for the purpose of financing part or all of the student's costs of attendance.
+
+(G) "Eligible borrower" means any of the following:
+
+(1) Individuals who are residents of the state, and who are attending and are in good standing in, or who have been accepted for attendance at, any eligible institution located in this state or elsewhere, on a part-time or full-time basis, to pursue an associate, baccalaureate, or advanced degree or a nursing diploma;
+
+(2) Individuals who reside outside the state and who have been accepted for attendance at, or who are attending and are in good standing in, any eligible institution located in this state, on a part-time or full-time basis, to pursue an associate, baccalaureate, or advanced degree or a nursing diploma;
+
+(3) Individuals who are parents or legal guardians of, or other persons, as set forth in the policy guidelines, borrowing under an education loan for the benefit of individuals meeting requirements set forth in division (G)(1) or (2) of this section, in order to assist them in paying costs of attendance.
+
+(H)(1) "Eligible institution" means an institution described in any of divisions (H)(1)(a), (b), (c), or (d) of this section that satisfies all of the requirements set forth in divisions (H)(2), (3), and (4) of this section.
+
+(a) The institution is a state-assisted post-secondary educational institution within this state.
+
+(b) The institution is a nonprofit institution within this state having a certificate of authorization from the Ohio board of regents pursuant to Chapter 1713. of the Revised Code.
+
+(c) The institution is a post-secondary educational institution similar to one described in division (H)(1)(a) or (b) of this section that is located outside this state and that is similarly approved by the appropriate agency of that state.
+
+(d) The institution is a private institution exempt from regulation under Chapter 3332. of the Revised Code as prescribed in section 3333.046 of the Revised Code.
+
+(2) The institution is accredited by the appropriate regional and, when appropriate, professional accrediting associations within whose jurisdiction it falls.
+
+(3) The institution satisfies the eligibility requirements for participation in the federal family education loan program authorized under Title IV, Part B, of the "Higher Education Act of 1965," 20 U.S.C.A. 1071 et seq., as amended, as long as that program remains in existence.
+
+(4) The institution satisfies the other conditions set forth in the policy guidelines.
+
+(I) "Eligible lender" means, with respect to lenders making nonfederal education loans, a bank, national banking association, savings bank, savings and loan association, or credit union having an office in this state that satisfies the criteria for eligible lenders established pursuant to the policy guidelines. With respect to lenders making federal education loans, "eligible lender" means any person that is permitted to make loans under the federal family education loan program authorized under Title IV, Part B, of the "Higher Education Act of 1965," 20 U.S.C.A. 1071 et seq., as amended; that has an office in this state; and that satisfies the criteria for eligible lenders established pursuant to the policy guidelines.
+
+(J) "Federal education loan" means an education loan that is originated in compliance with the federal family education loan program authorized under Title IV, Part B, of the "Higher Education Act of 1965," 20 U.S.C.A. 1071 et seq., as amended.
+
+(K) "Governmental agency" means the state and any state department, division, commission, institution, or authority; the United States or any agency thereof; or any agency, commission, or authority established pursuant to an interstate compact or agreement; or any combination of the foregoing.
+
+(L) "Issuing authority" means the treasurer of state, or the officer who by law performs the functions of the treasurer of state.
+
+(M) "Nonfederal education loan" means any education loan that is not a federal education loan.
+
+(N) "Obligations" means the bonds, notes, or securities of this state issued by the issuing authority pursuant to this chapter.
+
+(O) "Person" means any individual, corporation, business trust, estate, trust, partnership, or association, any federal, state, interstate, regional, or local governmental agency, any subdivision of the state, or any combination of these.
+
+(P) "Pledged receipts" means, to the extent the following are pledged by the bond proceedings for the payment of bond service charges: all receipts representing moneys accruing from or in connection with the repayment of education loans, including interest and payments from any guarantee or insurance in respect to such education loans; accrued interest received from the sale of obligations; the balances in the special funds; income from the investment of the special funds; all right, title, and interest of the state and the designated administrator in the education loans and any guarantees or insurance in respect thereof, and any money representing the proceeds of obligations or any income from or interest on those proceeds; or any other gifts, grants, donations, and pledges and any income and receipts therefrom, available and pledged for the payment of bond service charges.
+
+(Q) "Policy guidelines" means the rules adopted pursuant to division (A) of section 3366.03 of the Revised Code.
+
+(R) "Proceeds loan" means the transfer, pursuant to a loan agreement or agency agreement, of the proceeds of the obligations, or the deposit of the proceeds of the obligations with a trustee in trust under a trust agreement, indenture, or other trust document under the bond proceedings pending their disbursement for the purposes authorized by this chapter.
+
+(S) "Resident" means any student who would qualify as a resident of this state for state subsidy and tuition surcharge purposes under rules adopted by the Ohio board of regents under section 3333.31 of the Revised Code.
+
+(T) "Special funds" or "funds" means the bond service fund and any other funds, including reserve funds, created under the bond proceedings, including all moneys and investments, and earnings from investment, credited and to be credited thereto.
+
+(U) "Student" means an individual described in division (G)(1) or (2) of this section who meets requirements established under the policy guidelines. "Student" includes dependent and independent undergraduate, graduate, and professional students.
+
+(V) "Subdivision" has the same meaning as in division (MM) of section 133.01 of the Revised Code.
+
+Last updated October 21, 2025 at 2:50 PM

@@ -1,0 +1,903 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 109.01 - Election - term.",
+      "number": "109.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.02 - Duties as chief law officer.",
+      "number": "109.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.03 - Appointment of assistant attorney general and chief counsel - duties.",
+      "number": "109.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.04 - Powers and duties of first assistant attorney general.",
+      "number": "109.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.05 - Employees.",
+      "number": "109.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.06 - Bond.",
+      "number": "109.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.07 - Special counsel.",
+      "number": "109.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.08 - Special counsel to collect claims.",
+      "number": "109.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.081 - Attorney general claims fund.",
+      "number": "109.081",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.081"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.082 - Problem resolution officers for tax collection complaints.",
+      "number": "109.082",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.082"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.09 - Action on official bonds.",
+      "number": "109.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.10 - Proceedings in quo warranto.",
+      "number": "109.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.11 - Attorney general reimbursement fund.",
+      "number": "109.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.111 - Attorney general court order and settlement fund.",
+      "number": "109.111",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.111"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.112 - Notice of receipt of funds; disposition of funds.",
+      "number": "109.112",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.112"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.113 - Large settlements and awards fund.",
+      "number": "109.113",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.113"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.12 - Legal advice to state officers and boards.",
+      "number": "109.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.121 - Real property title review and opinion.",
+      "number": "109.121",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.121"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.122 - Review of entertainment or sponsorship contracts of expositions commission.",
+      "number": "109.122",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.122"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.13 - General assembly may require written opinions.",
+      "number": "109.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.14 - Attorney general shall advise prosecuting attorneys and township law directors.",
+      "number": "109.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.15 - Forms of contracts.",
+      "number": "109.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.16 - Suits may be brought in Franklin county.",
+      "number": "109.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.17 - Writs in other counties.",
+      "number": "109.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.18 - Service by publication.",
+      "number": "109.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.19 - Security for costs and verification of pleadings.",
+      "number": "109.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.20 - Actions to be taken out of their order.",
+      "number": "109.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.21 - Moneys paid into general revenue fund.",
+      "number": "109.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.22 - Registers shall be kept.",
+      "number": "109.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.23 - Charitable trust defined.",
+      "number": "109.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.231 - Prohibited administrative acts.",
+      "number": "109.231",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.231"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.232 - Amendment of governing instrument of trust.",
+      "number": "109.232",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.232"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.24 - Investigating transactions and relationships of trustees of charitable trust.",
+      "number": "109.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.25 - Attorney general is necessary party to charitable trust proceedings.",
+      "number": "109.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.26 - Registration of charitable trusts.",
+      "number": "109.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.27 - Administrative rules.",
+      "number": "109.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.28 - Inspection of register of charitable trusts.",
+      "number": "109.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.29 - Courts to furnish information relating to charitable trusts.",
+      "number": "109.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.30 - Notice of creation of charitable trust to attorney general and specified persons after probate of will.",
+      "number": "109.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.31 - Trustee's annual report to attorney general.",
+      "number": "109.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.32 - Charitable law fund.",
+      "number": "109.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.33 - Employees.",
+      "number": "109.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.34 - Notice of transactions by nonprofit health care entity.",
+      "number": "109.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.35 - Approval or disapproval of proposed transactions.",
+      "number": "109.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.36 - Defense of officers and employees definitions.",
+      "number": "109.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.361 - Defense of state officer or employee in civil action.",
+      "number": "109.361",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.361"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.362 - Investigation as to whether action was manifestly outside scope of duties or with malicious purpose or in bad faith.",
+      "number": "109.362",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.362"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.363 - Employer to provide written report and information.",
+      "number": "109.363",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.363"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.364 - Denial of representation.",
+      "number": "109.364",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.364"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.365 - Information obtained is privileged.",
+      "number": "109.365",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.365"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.366 - Administrative rules.",
+      "number": "109.366",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.366"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.37 - Legal representation of correctional employee.",
+      "number": "109.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.38 - Solicitor general.",
+      "number": "109.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.39 - [Former R.C. 103.73, amended and renumbered as R.C. 109.39 by H.B. 96, 136th General Assembly, effective 9/30/2025] Office of correctional facility inspection services.",
+      "number": "109.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.40 - Compilation of statutes relative to obscenity.",
+      "number": "109.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.41 - Claiming escheated property.",
+      "number": "109.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.42 - Compilation of laws relative to victim's rights.",
+      "number": "109.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.43 - Public records training programs - model public records policy.",
+      "number": "109.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.46 - Domestic violence program fund.",
+      "number": "109.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.51 - Bureau of criminal identification and investigation created.",
+      "number": "109.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.511 - Felony conviction precludes or terminates employment.",
+      "number": "109.511",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.511"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.52 - Operation and maintenance of bureau.",
+      "number": "109.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.521 - Bureau of criminal identification and investigation asset forfeiture and cost reimbursement fund.",
+      "number": "109.521",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.521"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.53 - Equipment of bureau.",
+      "number": "109.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.54 - Cooperation of other governmental agencies.",
+      "number": "109.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.541 - Powers and duties of bureau.",
+      "number": "109.541",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.541"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.542 - Investigative personnel are peace officers.",
+      "number": "109.542",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.542"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.55 - Coordination of law enforcement work and crime prevention activities.",
+      "number": "109.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.56 - Training local law enforcement officers in crime prevention, detection, and solution.",
+      "number": "109.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.57 - Duties of superintendent.",
+      "number": "109.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.571 - National crime prevention and privacy compact.",
+      "number": "109.571",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.571"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.572 - Criminal records check.",
+      "number": "109.572",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.572"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.573 - DNA laboratory - databases.",
+      "number": "109.573",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.573"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.574 - Volunteers have unsupervised access to children definitions.",
+      "number": "109.574",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.574"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.575 - Information provided by volunteers having access to children.",
+      "number": "109.575",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.575"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.576 - Notice of volunteer's conviction.",
+      "number": "109.576",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.576"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.577 - Immunity from civil liability.",
+      "number": "109.577",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.577"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.578 - Criminal records check.",
+      "number": "109.578",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.578"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.579 - Criminal records check.",
+      "number": "109.579",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.579"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.5721 - Retained applicant fingerprint database.",
+      "number": "109.5721",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.5721"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.58 - Standard fingerprint impression sheet.",
+      "number": "109.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.59 - Fingerprint impressions and other descriptive measurements.",
+      "number": "109.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.60 - Forwarding fingerprints and descriptions to bureau - annual methamphetamine report.",
+      "number": "109.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.61 - Sheriff or chief of police to forward information to bureau.",
+      "number": "109.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.62 - Cooperation with interstate, national, and international system of criminal identification and investigation.",
+      "number": "109.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.63 - Superintendent may testify.",
+      "number": "109.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.64 - Periodic information bulletin concerning missing children who may be present in state.",
+      "number": "109.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.65 - Missing children clearinghouse - missing children fund.",
+      "number": "109.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.66 - Publication of statistical data on trafficking in persons.",
+      "number": "109.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.67 - Public awareness publications on elder fraud and financial exploitation of the elderly.",
+      "number": "109.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.67"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.68 - Establishment of statewide sexual assault examination kit tracking system.",
+      "number": "109.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.68"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.69 - Reciprocity agreement.",
+      "number": "109.69",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.69"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.70 - Prohibition against arrest and citation quotas.",
+      "number": "109.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.71 - Ohio peace officer training commission created - definitions.",
+      "number": "109.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.72 - Members - organization.",
+      "number": "109.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.73 - Rule recommendations.",
+      "number": "109.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.731 - Prescribed forms.",
+      "number": "109.731",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.731"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.74 - Attorney general may adopt and promulgate rules and regulations.",
+      "number": "109.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.74"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.741 - Rules governing training of peace officers in handling of missing children and child abuse and neglect cases.",
+      "number": "109.741",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.741"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.742 - Rules governing training of peace officers in crisis intervention.",
+      "number": "109.742",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.742"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.743 - Administrative rules.",
+      "number": "109.743",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.743"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.744 - Rules governing training of peace officers in handling of offense of domestic violence.",
+      "number": "109.744",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.744"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.745 - Training for investigating and handling crime of trafficking in persons.",
+      "number": "109.745",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.745"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.746 - Public awareness programs regarding trafficking in persons.",
+      "number": "109.746",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.746"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.747 - Rules governing training of peace officers on companion animal encounters and companion animal behavior.",
+      "number": "109.747",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.747"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.748 - Rules governing the training of tactical medical professionals to carry firearms.",
+      "number": "109.748",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.748"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.749 - Training materials on restraining or confining pregnant children or women.",
+      "number": "109.749",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.749"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.7410 - Rules governing training of peace officers interacting with individuals with dementia.",
+      "number": "109.7410",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.7410"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.7411 - Rules governing hospital security personnel access to online training.",
+      "number": "109.7411",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.7411"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.7412 - [Enacted as R.C. 109.7411 by H.B. 315, 135th General Assembly, and recodified as R.C. 109.7412 pursuant to R.C. 103.131] Peace officer training regarding at-risk youth.",
+      "number": "109.7412",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.7412"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.7481 - Rules governing training of fire investigators to carry firearms.",
+      "number": "109.7481",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.7481"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.75 - Powers and duties of peace officer training commission executive director.",
+      "number": "109.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.751 - Attendance of undercover drug agents, bailiffs, deputy bailiffs or public defender investigators at basic training programs.",
+      "number": "109.751",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.751"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.752 - Sheriff attending peace officer basic training programs.",
+      "number": "109.752",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.752"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.76 - Peace officers not exempted from civil service.",
+      "number": "109.76",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.76"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.761 - Reports of appointment to peace officer training commission.",
+      "number": "109.761",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.761"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.77 - Certificate of completion of basic training program necessary for appointment.",
+      "number": "109.77",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.77"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.771 - Authority of tactical medical professionals to carry firearms.",
+      "number": "109.771",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.771"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.772 - Authority of county correctional officer to carry firearms.",
+      "number": "109.772",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.772"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.773 - Rules governing the attendance of county correctional officers at peace officer training schools.",
+      "number": "109.773",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.773"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.774 - Qualifications for fire investigators to carry firearms.",
+      "number": "109.774",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.774"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.78 - Certification of special police, security guards, or persons otherwise privately employed in a police capacity.",
+      "number": "109.78",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.78"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.79 - Ohio peace officer training academy.",
+      "number": "109.79",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.79"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.791 - Peace officer training - sergeants and above.",
+      "number": "109.791",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.791"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.80 - Basic training course for sheriffs - continuing education.",
+      "number": "109.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.80"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.801 - Annual firearms requalification program.",
+      "number": "109.801",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.801"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.803 - Continuing professional training for peace officers and troopers.",
+      "number": "109.803",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.803"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.804 - Chief of police training course; equivalency; deferral.",
+      "number": "109.804",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.804"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.81 - Antitrust cases - appointment of special counsel.",
+      "number": "109.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.82 - Antitrust section - fund.",
+      "number": "109.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.82"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.83 - Investigating organized criminal activity.",
+      "number": "109.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.83"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.84 - Investigation and prosecution of violation of workers compensation law.",
+      "number": "109.84",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.84"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.85 - Investigation and prosecution of violation of medicaid law.",
+      "number": "109.85",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.85"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.86 - Investigation and prosecution of patient abuse or neglect.",
+      "number": "109.86",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.86"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.87 - Acts or practices in violation of federal telemarketing laws.",
+      "number": "109.87",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.87"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.88 - Investigation, prosecution of telecommunications and telemarketing fraud.",
+      "number": "109.88",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.88"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.89 - Access and use of national precursor log exchange information.",
+      "number": "109.89",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.89"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.90 - Collaboration in establishment and administration of drug take-back program.",
+      "number": "109.90",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.90"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.91 - Crime victims assistance office - state victims assistance advisory council.",
+      "number": "109.91",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.91"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.92 - State financial assistance to victim assistance programs that operate in state.",
+      "number": "109.92",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.92"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.921 - Rape crisis program trust fund.",
+      "number": "109.921",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.921"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.93 - Attorney general education fund.",
+      "number": "109.93",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.93"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.94 - Attorney general may issue identity fraud passport to victim.",
+      "number": "109.94",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.94"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.941 - Technical assistance regarding identity fraud crimes.",
+      "number": "109.941",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.941"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.95 - Criminal proceedings for election fraud.",
+      "number": "109.95",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.95"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.97 - Capital case status report.",
+      "number": "109.97",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.97"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.98 - Civil action against state retirement board member for breach of fiduciary duty.",
+      "number": "109.98",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.98"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.981 - Civil action against workers' compensation oversight commission member.",
+      "number": "109.981",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.981"
+    },
+    {
+      "kind": "section",
+      "label": "Section 109.99 - Penalty.",
+      "number": "109.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.99"
+    }
+  ],
+  "scraped": "2026-07-02T19:31:26+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-109",
+  "title": "Chapter 109 - Attorney General"
+}

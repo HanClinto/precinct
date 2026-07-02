@@ -1,0 +1,116 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Intermediate holding company\" means a stock corporation that owns all of the shares of voting stock of one or more reorganized stock companies after a reorganization under sections 3913.25 to 3913.38 of the Revised Code. \"Intermediate holding company\" also means a stock corporation that is the parent or subsidiary of another intermediate holding company.",
+      "id": "3913.25-intermediate-holding-company",
+      "normalized": "intermediate holding company",
+      "scope": "As used in sections 3913.25 to 3913.38 of the Revised Code:",
+      "section": "3913.25",
+      "source_title": "Section 3913.25 - Reorganization of mutual insurance company as stock insurance company definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3913.25",
+      "term": "Intermediate holding company"
+    },
+    {
+      "definition": "(B) \"Mutual insurance company\" means a domestic or foreign mutual life insurance company or a domestic or foreign mutual insurance company other than a mutual life insurance company.",
+      "id": "3913.25-mutual-insurance-company",
+      "normalized": "mutual insurance company",
+      "scope": "As used in sections 3913.25 to 3913.38 of the Revised Code:",
+      "section": "3913.25",
+      "source_title": "Section 3913.25 - Reorganization of mutual insurance company as stock insurance company definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3913.25",
+      "term": "Mutual insurance company"
+    },
+    {
+      "definition": "(C) \"Mutual insurance holding company\" means a domestic mutual insurance holding company incorporated pursuant to a reorganization plan adopted under sections 3913.26 to 3913.28 of the Revised Code, which company is the parent company of a reorganized stock company or of an intermediate holding company.",
+      "id": "3913.25-mutual-insurance-holding-company",
+      "normalized": "mutual insurance holding company",
+      "scope": "As used in sections 3913.25 to 3913.38 of the Revised Code:",
+      "section": "3913.25",
+      "source_title": "Section 3913.25 - Reorganization of mutual insurance company as stock insurance company definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3913.25",
+      "term": "Mutual insurance holding company"
+    },
+    {
+      "definition": "(D) \"Policyholder\" has the same meaning as in section 3913.10 of the Revised Code when used with respect to a life insurance company, and has the same meaning as in section 3913.20 of the Revised Code when used with respect to an insurance company other than a life insurance company.",
+      "id": "3913.25-policyholder",
+      "normalized": "policyholder",
+      "scope": "As used in sections 3913.25 to 3913.38 of the Revised Code:",
+      "section": "3913.25",
+      "source_title": "Section 3913.25 - Reorganization of mutual insurance company as stock insurance company definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3913.25",
+      "term": "Policyholder"
+    },
+    {
+      "definition": "(E) \"Reorganization plan\" means a reorganization plan adopted by a mutual insurance company's board of directors in accordance with section 3913.26 of the Revised Code.",
+      "id": "3913.25-reorganization-plan",
+      "normalized": "reorganization plan",
+      "scope": "As used in sections 3913.25 to 3913.38 of the Revised Code:",
+      "section": "3913.25",
+      "source_title": "Section 3913.25 - Reorganization of mutual insurance company as stock insurance company definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3913.25",
+      "term": "Reorganization plan"
+    },
+    {
+      "definition": "(F) \"Reorganized stock company\" means the domestic or foreign stock insurance company resulting from a domestic or foreign mutual insurance company's reorganization under sections 3913.25 to 3913.38 of the Revised Code.",
+      "id": "3913.25-reorganized-stock-company",
+      "normalized": "reorganized stock company",
+      "scope": "As used in sections 3913.25 to 3913.38 of the Revised Code:",
+      "section": "3913.25",
+      "source_title": "Section 3913.25 - Reorganization of mutual insurance company as stock insurance company definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3913.25",
+      "term": "Reorganized stock company"
+    },
+    {
+      "definition": "(G) \"Voting stock\" means securities of any class or any ownership interest having voting power for the election of directors, trustees, or management of a person, other than securities having voting power only as a result of the occurrence of a contingency.",
+      "id": "3913.25-voting-stock",
+      "normalized": "voting stock",
+      "scope": "As used in sections 3913.25 to 3913.38 of the Revised Code:",
+      "section": "3913.25",
+      "source_title": "Section 3913.25 - Reorganization of mutual insurance company as stock insurance company definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3913.25",
+      "term": "Voting stock"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3913.25",
+      "number": "3913.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3913.25"
+    },
+    {
+      "kind": "section",
+      "label": "3913.38",
+      "number": "3913.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3913.38"
+    },
+    {
+      "kind": "section",
+      "label": "3913.26",
+      "number": "3913.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3913.26"
+    },
+    {
+      "kind": "section",
+      "label": "3913.28",
+      "number": "3913.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3913.28"
+    },
+    {
+      "kind": "section",
+      "label": "3913.10",
+      "number": "3913.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3913.10"
+    },
+    {
+      "kind": "section",
+      "label": "3913.20",
+      "number": "3913.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3913.20"
+    }
+  ],
+  "scraped": "2026-07-02T20:02:28+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3913.25",
+  "title": "Section 3913.25 - Reorganization of mutual insurance company as stock insurance company definitions."
+}

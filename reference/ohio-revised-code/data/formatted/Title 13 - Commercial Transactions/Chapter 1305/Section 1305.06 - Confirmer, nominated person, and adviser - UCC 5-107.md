@@ -1,0 +1,16 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-1305.06
+Scraped: 2026-07-02T19:37:03+00:00
+
+# Section 1305.06 - Confirmer, nominated person, and adviser - UCC 5-107.
+
+**Effective:** July 1, 1998
+
+**Latest Legislation:** House Bill 338 - 122nd General Assembly
+
+(A) A confirmer is directly obligated on a letter of credit and has the rights and obligations of an issuer to the extent of its confirmation. The confirmer also has rights against and obligations to the issuer as if the issuer were an applicant and the confirmer had issued the letter of credit at the request and for the account of the issuer.
+
+(B) A nominated person who is not a confirmer is not obligated to honor or otherwise give value for a presentation.
+
+(C) A person requested to advise may decline to act as an adviser. An adviser that is not a confirmer is not obligated to honor or give value for a presentation. An adviser undertakes to the issuer and to the beneficiary accurately to advise the terms of the letter of credit, confirmation, amendment, or advice received by that person and undertakes to the beneficiary to check the apparent authenticity of the request to advise. Even if the advice is inaccurate, the letter of credit, confirmation, or amendment is enforceable as issued.
+
+(D) A person who notifies a transferee beneficiary of the terms of a letter of credit, confirmation, amendment, or advice has the rights and obligations of an adviser under division (C) of this section. The terms in the notice to the transferee beneficiary may differ from the terms in any notice to the transferor beneficiary to the extent permitted by the letter of credit, confirmation, amendment, or advice received by the person who so notifies.

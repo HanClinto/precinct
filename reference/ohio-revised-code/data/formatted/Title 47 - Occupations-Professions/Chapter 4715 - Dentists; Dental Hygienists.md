@@ -1,0 +1,106 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-4715
+Scraped: 2026-07-02T20:06:37+00:00
+
+# Chapter 4715 - Dentists; Dental Hygienists
+
+## Sections
+
+- Section 4715.01 - Dentist - dental hygienist definitions.
+- Section 4715.02 - State dental board.
+- Section 4715.03 - Board organization - examinations.
+- Section 4715.031 - Development and implementation of quality intervention program.
+- Section 4715.032 - Supervision of investigations.
+- Section 4715.033 - Issuance of subpoenas.
+- Section 4715.034 - Authority to meet with individuals under investigation; recommendations.
+- Section 4715.035 - Calculation of time period for recommendation.
+- Section 4715.036 - Requests for copies of investigative items.
+- Section 4715.037 - Appointment of referees or examiners; terms.
+- Section 4715.038 - Conduct of hearing; findings.
+- Section 4715.039 - Oral arguments; final decision; appeal.
+- Section 4715.0310 - Notice of opportunity for hearing and name or referee or examiner as public record.
+- Section 4715.04 - Secretary's bond - depositing receipts.
+- Section 4715.05 - Prosecution - injunctive relief.
+- Section 4715.06 - Compensation and expenses of board.
+- Section 4715.07 - Affiliation with American Association of Dental Examiners.
+- Section 4715.08 - Official seal and records.
+- Section 4715.09 - Unlicensed practice prohibited.
+- Section 4715.10 - Application for license.
+- Section 4715.101 - License applicant to comply with RC Chapter 4776.
+- Section 4715.11 - Standards and examination.
+- Section 4715.12 - License - re-examination.
+- Section 4715.13 - Fees for licenses or permits.
+- Section 4715.14 - Registration - notice of change of address.
+- Section 4715.141 - Continuing education.
+- Section 4715.16 - Application for limited license.
+- Section 4715.17 - License to be displayed.
+- Section 4715.18 - Practice name.
+- Section 4715.19 - Employment of unlicensed dentist unlawful - misrepresentation, impersonation, or false application unlawful.
+- Section 4715.20 - Conditions to practice as dental hygienist.
+- Section 4715.21 - License application.
+- Section 4715.22 - Supervision of licensed dentist.
+- Section 4715.23 - Practice limitations.
+- Section 4715.231 - Administration of local anesthesia by dental hygienist.
+- Section 4715.24 - Registration - notice of change of address.
+- Section 4715.241 - Dental hygienist; Notice of temporary retirement.
+- Section 4715.242 - Reinstatement.
+- Section 4715.25 - Continuing education.
+- Section 4715.251 - Completion of basic life-support training course.
+- Section 4715.26 - Record of dental hygienists and location.
+- Section 4715.27 - Reciprocity.
+- Section 4715.271 - Dentist and Dental Hygienist Compact.
+- Section 4715.272 - Appointment of compact commissioner.
+- Section 4715.28 - Prohibited acts.
+- Section 4715.29 - Employment of dental hygienist.
+- Section 4715.30 - Disciplinary actions.
+- Section 4715.301 - Standards for approving and designating physicians and facilities as treatment providers for dentists or dental hygienists with substance abuse problems.
+- Section 4715.302 - Dentist's review of patient information available through drug database.
+- Section 4715.32 - Using diploma or license with intent to defraud.
+- Section 4715.33 - Students exempted.
+- Section 4715.34 - Provisions not applicable to physicians and surgeons - exception.
+- Section 4715.35 - Payment of fines and forfeitures.
+- Section 4715.36 - Definitions.
+- Section 4715.361 - Oral health access supervision program.
+- Section 4715.362 - Application for permit; Dentist.
+- Section 4715.363 - Application for permit; Dental hygienist.
+- Section 4715.364 - Permit required.
+- Section 4715.365 - Authority under permit.
+- Section 4715.366 - Compliance with protocols; Appointment with authorizing dentist.
+- Section 4715.367 - Maximum number of permittees under authorizing dentist.
+- Section 4715.368 - List of locations where services are provided.
+- Section 4715.369 - Expiration of oral health access supervision permit; Renewal.
+- Section 4715.37 - Expiration of permit to practice under dentist's supervision; Renewal.
+- Section 4715.371 - Directory of permit holders.
+- Section 4715.372 - Adoption of rules; Course standards.
+- Section 4715.373 - Authorized activities.
+- Section 4715.374 - Suspension or revocation of permit.
+- Section 4715.375 - Annual reports.
+- Section 4715.38 - Fees in excess of statutory amounts.
+- Section 4715.39 - Permitted duties.
+- Section 4715.40 - Effect of child support default on license.
+- Section 4715.41 - Compliance with law regarding sanctions for human trafficking.
+- Section 4715.42 - Volunteer's certificate.
+- Section 4715.43 - Teledentistry; definitions; permit.
+- Section 4715.431 - Scope of permit.
+- Section 4715.432 - Expiration; renewal.
+- Section 4715.433 - Suspension or revocation.
+- Section 4715.434 - List of locations.
+- Section 4715.435 - Authorized persons.
+- Section 4715.436 - Rules.
+- Section 4715.437 - Construction of teledentistry provisions.
+- Section 4715.438 - Laws and rules not altered by H.B. 122 of the 134th General Assembly.
+- Section 4715.51 - Dental x-ray machine operator definitions.
+- Section 4715.52 - Unlicensed practice.
+- Section 4715.53 - License qualifications.
+- Section 4715.56 - Dentist supervision of radiologic procedures.
+- Section 4715.57 - Continuing education accreditation.
+- Section 4715.61 - Registration as expanded function dental auxiliary required.
+- Section 4715.62 - Application to register as expanded function dental auxiliary.
+- Section 4715.63 - Expiration and renewal of expanded function dental auxiliary registration.
+- Section 4715.64 - Practice as expanded function dental auxiliary.
+- Section 4715.65 - Record of expanded function dental auxiliary registrants.
+- Section 4715.66 - Rules governing expanded function dental auxiliaries.
+- Section 4715.70 - Mobile dental facilities - definitions.
+- Section 4715.71 - Mobile dental facilities - information to patients.
+- Section 4715.72 - Mobile dental facilities - information to board and treatment venues.
+- Section 4715.73 - Mobile dental facilities - exceptions.
+- Section 4715.99 - Penalty.

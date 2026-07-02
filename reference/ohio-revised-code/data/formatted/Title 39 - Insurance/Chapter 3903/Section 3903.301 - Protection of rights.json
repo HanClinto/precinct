@@ -1,0 +1,90 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Actual direct compensatory damages\" includes normal and reasonable costs of cover or other reasonable measures of damages utilized in the derivatives, securities, or other market for the contract and agreement claims. \"Actual direct compensatory damages\" does not include punitive or exemplary damages, damages for lost profit or lost opportunity, or damages for pain and suffering.",
+      "id": "3903.301-actual-direct-compensatory-damages",
+      "normalized": "actual direct compensatory damages",
+      "scope": "(J) As used in this section:",
+      "section": "3903.301",
+      "source_title": "Section 3903.301 - Protection of rights.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3903.301",
+      "term": "Actual direct compensatory damages"
+    },
+    {
+      "definition": "(2) \"Business day\" means any day, excluding Saturday, Sunday, and any day on which the New York stock exchange or the federal reserve bank of New York is closed.",
+      "id": "3903.301-business-day",
+      "normalized": "business day",
+      "scope": "(J) As used in this section:",
+      "section": "3903.301",
+      "source_title": "Section 3903.301 - Protection of rights.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3903.301",
+      "term": "Business day"
+    },
+    {
+      "definition": "(3) \"Contractual right\" includes any of the following:\n\n(a) Any right set forth in a rule or bylaw of a derivatives clearing organization, as defined in the \"Commodity Exchange Act,\" 7 U.S.C. 1a(9)(A), as amended; a multilateral clearing organization; a national securities exchange; a national securities association; a securities clearing agency; a contract market designated under the \"Commodity Exchange Act,\" 7 U.S.C. 1 et seq., as amended; a derivatives transaction execution facility, including a swap execution facility, registered under the \"Commodity Exchange Act,\" 7 U.S.C. 1 et seq., as amended; a security-based swap execution facility registered under the \"Securities Exchange Act of 1934,\" 15 U.S.C. 78a et seq., as amended; or a board of trade, as defined in the \"Commodity Exchange Act,\" 7 U.S.C. 1a(2);\n\n(b) Any right set forth in a resolution of the governing board of any entity listed in division (J)(3)(a) of this section;\n\n(c) Any right, regardless of whether evidenced in writing, arising under statutory law, common law, or law merchant, or by reason of normal business practice.",
+      "id": "3903.301-contractual-right",
+      "normalized": "contractual right",
+      "scope": "(J) As used in this section:",
+      "section": "3903.301",
+      "source_title": "Section 3903.301 - Protection of rights.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3903.301",
+      "term": "Contractual right"
+    },
+    {
+      "definition": "(4) \"Receiver\" means a receiver, conservator, rehabilitator, or liquidator, as applicable.",
+      "id": "3903.301-receiver",
+      "normalized": "receiver",
+      "scope": "(J) As used in this section:",
+      "section": "3903.301",
+      "source_title": "Section 3903.301 - Protection of rights.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3903.301",
+      "term": "Receiver"
+    },
+    {
+      "definition": "(5) \"Walkaway clause\" means a provision under which a party to a netting agreement or qualified financial contract that, after calculation of a value of a party's position or an amount due to or from one of the parties in accordance with its terms upon termination, liquidation, or acceleration of the netting agreement or qualified financial contract is not obligated to pay or does not have a payment obligation extinguished under the agreement or contract, in whole or in part, solely because the party is a nondefaulting party.",
+      "id": "3903.301-walkaway-clause",
+      "normalized": "walkaway clause",
+      "scope": "(J) As used in this section:",
+      "section": "3903.301",
+      "source_title": "Section 3903.301 - Protection of rights.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3903.301",
+      "term": "Walkaway clause"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3903.01",
+      "number": "3903.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.01"
+    },
+    {
+      "kind": "section",
+      "label": "3903.59",
+      "number": "3903.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.59"
+    },
+    {
+      "kind": "section",
+      "label": "3903.30",
+      "number": "3903.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.30"
+    },
+    {
+      "kind": "section",
+      "label": "3903.26",
+      "number": "3903.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.26"
+    },
+    {
+      "kind": "section",
+      "label": "3903.28",
+      "number": "3903.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.28"
+    }
+  ],
+  "scraped": "2026-07-02T20:02:12+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3903.301",
+  "title": "Section 3903.301 - Protection of rights."
+}

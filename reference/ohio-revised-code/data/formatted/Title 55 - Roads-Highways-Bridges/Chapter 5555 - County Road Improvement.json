@@ -1,0 +1,315 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 5555.01 - County road improvement definitions.",
+      "number": "5555.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5555.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5555.02 - General powers of board of county commissioners relating to public roads.",
+      "number": "5555.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5555.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5555.021 - Improving approaches to rural mail boxes.",
+      "number": "5555.021",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5555.021"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5555.022 - Improving roads where no special assessment levied.",
+      "number": "5555.022",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5555.022"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5555.03 - Petition to board by fifty-one per cent of landowners.",
+      "number": "5555.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5555.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5555.04 - Landowners must be specially taxed to be counted as petitioners.",
+      "number": "5555.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5555.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5555.05 - Certain persons shall not be counted as petitioners.",
+      "number": "5555.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5555.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5555.06 - Resolution by board - plans by county engineer.",
+      "number": "5555.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5555.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5555.07 - Copies of surveys, plans, and estimates transmitted to board - notice, hearing.",
+      "number": "5555.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5555.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5555.08 - Confirmation of estimated assessments - certification to county auditor.",
+      "number": "5555.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5555.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5555.09 - Appropriation of land for improvements.",
+      "number": "5555.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5555.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5555.13 - Order after determination.",
+      "number": "5555.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5555.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5555.21 - Petition relating to improvement in more than one county.",
+      "number": "5555.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5555.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5555.22 - Action by joint board on petition.",
+      "number": "5555.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5555.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5555.23 - Improvement by joint board without petition.",
+      "number": "5555.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5555.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5555.24 - Appointment of county engineer by joint board - copies of surveys transmitted to each board.",
+      "number": "5555.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5555.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5555.25 - Method of payment and proportion of costs - notice of assessments - apportionment by director of transportation.",
+      "number": "5555.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5555.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5555.26 - Each county may choose different method of apportionment.",
+      "number": "5555.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5555.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5555.27 - Hearing for objections by joint board - notice.",
+      "number": "5555.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5555.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5555.30 - Decision of joint board as to improvement.",
+      "number": "5555.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5555.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5555.31 - Procedure when improvement is in one county but within assessment distance of another.",
+      "number": "5555.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5555.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5555.32 - Joint board may place portion of improvement wholly within one county.",
+      "number": "5555.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5555.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5555.33 - Bond issue by each county.",
+      "number": "5555.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5555.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5555.34 - Single county procedure applicable to joint board.",
+      "number": "5555.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5555.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5555.41 - Apportionment of costs.",
+      "number": "5555.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5555.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5555.42 - Application to court if equitable assessment cannot be made.",
+      "number": "5555.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5555.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5555.43 - All costs may be paid by county - agreement with townships to pay proportion.",
+      "number": "5555.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5555.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5555.44 - Funds from which costs are paid.",
+      "number": "5555.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5555.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5555.45 - Assessment of property separated from improvement by canal or railway.",
+      "number": "5555.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5555.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5555.46 - Special duplicate of assessments - collection - installments.",
+      "number": "5555.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5555.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5555.47 - Apportionment between owners of life estate and fee - appeal.",
+      "number": "5555.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5555.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5555.48 - Payment of county's share - tax levy.",
+      "number": "5555.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5555.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5555.49 - Payment of township's share - tax levy.",
+      "number": "5555.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5555.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5555.50 - Procedure for paying expenses applicable to joint county improvement.",
+      "number": "5555.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5555.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5555.51 - Issuing anticipation public obligations for road improvements.",
+      "number": "5555.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5555.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5555.61 - Contract for improvement not to exceed ten per cent above estimates.",
+      "number": "5555.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5555.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5555.66 - Payment on estimates of materials delivered shall not exceed ninety per cent.",
+      "number": "5555.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5555.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5555.67 - Limitation of time for completion - account of expenditures.",
+      "number": "5555.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5555.67"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5555.68 - Completion of improvement on failure of contractor.",
+      "number": "5555.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5555.68"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5555.69 - Allowances and contracts for extra work.",
+      "number": "5555.69",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5555.69"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5555.72 - Record of cost.",
+      "number": "5555.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5555.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5555.81 - Improvement of state line road.",
+      "number": "5555.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5555.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5555.82 - Assessment and levy of county proportion.",
+      "number": "5555.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5555.82"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5555.83 - Powers of joint boards.",
+      "number": "5555.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5555.83"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5555.91 - Annual tax levy.",
+      "number": "5555.91",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5555.91"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5555.92 - County maintenance and repair fund.",
+      "number": "5555.92",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5555.92"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5555.93 - Powers of board of county commissioners and board of township trustees.",
+      "number": "5555.93",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5555.93"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5555.94 - Repair of damaged roads.",
+      "number": "5555.94",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5555.94"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5555.95 - Tax levy for road repairs.",
+      "number": "5555.95",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5555.95"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5555.96 - How surplus of tax to be disposed of.",
+      "number": "5555.96",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5555.96"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5555.97 - County road districts.",
+      "number": "5555.97",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5555.97"
+    }
+  ],
+  "scraped": "2026-07-02T20:13:40+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-5555",
+  "title": "Chapter 5555 - County Road Improvement"
+}

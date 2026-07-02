@@ -1,0 +1,72 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Domestic corporation\" means a corporation incorporated under the laws of this state or a bank, savings bank, or savings and loan association chartered under the laws of the United States, the main office of which is located in this state.",
+      "id": "1703.01-domestic-corporation",
+      "normalized": "domestic corporation",
+      "scope": "As used in sections 1703.01 to 1703.31 of the Revised Code:",
+      "section": "1703.01",
+      "source_title": "Section 1703.01 - Foreign corporation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1703.01",
+      "term": "Domestic corporation"
+    },
+    {
+      "definition": "(B) \"Foreign corporation\" means a corporation incorporated under the laws of another state or a bank, savings bank, or savings and loan association chartered under the laws of the United States, the main office of which is located in another state.",
+      "id": "1703.01-foreign-corporation",
+      "normalized": "foreign corporation",
+      "scope": "As used in sections 1703.01 to 1703.31 of the Revised Code:",
+      "section": "1703.01",
+      "source_title": "Section 1703.01 - Foreign corporation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1703.01",
+      "term": "Foreign corporation"
+    },
+    {
+      "definition": "(C) \"State\" means the United States; any state, territory, insular possession, or other political subdivision of the United States, including the District of Columbia; any foreign country whose political sovereignty is recognized by the United States; and any political subdivision of such foreign country.",
+      "id": "1703.01-state",
+      "normalized": "state",
+      "scope": "As used in sections 1703.01 to 1703.31 of the Revised Code:",
+      "section": "1703.01",
+      "source_title": "Section 1703.01 - Foreign corporation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1703.01",
+      "term": "State"
+    },
+    {
+      "definition": "(D) \"Articles\" means the articles, certificates, or memorandum of incorporation or association, filed pursuant to the laws of any state for the purpose and with the effect of creating a corporation, and any amendments to such articles, certificates, or memorandum of incorporation or association; and includes any special statute creating a corporation.",
+      "id": "1703.01-articles",
+      "normalized": "articles",
+      "scope": "As used in sections 1703.01 to 1703.31 of the Revised Code:",
+      "section": "1703.01",
+      "source_title": "Section 1703.01 - Foreign corporation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1703.01",
+      "term": "Articles"
+    },
+    {
+      "definition": "(E) \"Process\" means judicial process and all notices and demands required or permitted by statute to be served upon a corporation.",
+      "id": "1703.01-process",
+      "normalized": "process",
+      "scope": "As used in sections 1703.01 to 1703.31 of the Revised Code:",
+      "section": "1703.01",
+      "source_title": "Section 1703.01 - Foreign corporation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1703.01",
+      "term": "Process"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "1703.01",
+      "number": "1703.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1703.01"
+    },
+    {
+      "kind": "section",
+      "label": "1703.31",
+      "number": "1703.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1703.31"
+    }
+  ],
+  "scraped": "2026-07-02T19:39:05+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1703.01",
+  "title": "Section 1703.01 - Foreign corporation definitions."
+}

@@ -1,0 +1,26 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-1310.31
+Scraped: 2026-07-02T19:37:09+00:00
+
+# Section 1310.31 - Alienability of party's interest under lease contract or of lessor's residual interest in goods - delegation of performance - transfer of rights - UCC 2A-303.
+
+**Effective:** July 1, 2001
+
+**Latest Legislation:** Senate Bill 74 - 124th General Assembly
+
+(A) As used in this section, "creation of a security interest" includes the sale of a lease contract that is subject to Chapter 1309. of the Revised Code, by reason of division (A)(3) of section 1309.109 of the Revised Code.
+
+(B) Except as provided in division (C) of this section and section 1309.407 of the Revised Code, a provision in a lease agreement that prohibits the voluntary or involuntary transfer, including a transfer by sale, sublease, creation or enforcement of a security interest, or attachment, levy, or other judicial process, of an interest of a party under the lease contract or of the lessor's residual interest in the goods or that makes such a transfer an event of default gives rise to the rights and remedies provided in division (D) of this section, but a transfer that is prohibited or is an event of default under the lease agreement otherwise is effective.
+
+(C) A provision in a lease agreement that prohibits a transfer of a right to damages for default with respect to the whole lease contract or of a right to payment arising out of the transferor's due performance of the transferor's entire obligation or that makes such a transfer an event of default is not enforceable, and such a transfer is not a transfer that materially impairs the prospect of obtaining return performance by, materially changes the duty of, or materially increases the burden or risk imposed on, the other party to the lease contract under division (D) of this section.
+
+(D) Subject to division (C) of this section and section 1309.407 of the Revised Code, both of the following apply:
+
+(1) If a transfer is made that is made an event of default under a lease agreement, the party to the lease contract not making the transfer, unless that party waives the default or otherwise agrees, has the rights and remedies described in division (B) of section 1310.47 of the Revised Code.
+
+(2) If division (D)(1) of this section is not applicable and if a transfer is made that is prohibited under a lease agreement or that materially impairs the prospect of obtaining return performance by, materially changes the duty of, or materially increases the burden or risk imposed on, the other party to the lease contract, unless the party not making the transfer agrees at any time to the transfer in the lease contract or otherwise, then, except as limited by contract, the transferor is liable to the party not making the transfer for damages caused by the transfer to the extent that the damages could not reasonably be prevented by the party not making the transfer, and a court having jurisdiction may grant other appropriate relief, including cancellation of the lease contract or an injunction against the transfer.
+
+(E) A transfer of "the lease" or of "all my rights under the lease" or a transfer in similar general terms is a transfer of rights and, unless the language or the circumstances, as in a transfer for security, indicate the contrary, the transfer is a delegation of duties by the transferor to the transferee. Acceptance by the transferee constitutes a promise by the transferee to perform those duties. The promise is enforceable by either the transferor or the other party to the lease contract.
+
+(F) Unless otherwise agreed by the lessor and the lessee, a delegation of performance does not relieve the transferor as against the other party of any duty to perform or of any liability for default.
+
+(G) In a consumer lease, to prohibit the transfer of an interest of a party under the lease contract or to make a transfer an event of default, the language prohibiting the transfer or making the transfer a default shall be specific, by a writing, and conspicuous.

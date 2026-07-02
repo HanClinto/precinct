@@ -1,0 +1,14 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4399.05
+Scraped: 2026-07-02T20:05:11+00:00
+
+# Section 4399.05 - Liability of owner of building or premises for fines, costs, and damages.
+
+**Effective:** October 12, 2016
+
+**Latest Legislation:** House Bill 158 - 131st General Assembly
+
+As used in this section, "incompetent person" means a person who is so mentally impaired, as a result of a mental or physical illness or disability, as a result of an intellectual disability, or as a result of chronic substance abuse, that the person is incapable of taking proper care of the person's self or property or fails to provide for the person's family or other persons for whom the person is charged by law to provide.
+
+If a person rents or leases to another a building or premises to be used or occupied, in whole or in part, for the sale of intoxicating liquors, or permits such building or premises to be so used or occupied, such building or premises shall be liable for and may be sold to pay all fines, costs, and damages assessed against a person occupying them. Proceedings may be had to subject them to the payment of such fine and costs assessed or judgment recovered, or part remaining unpaid, either before or after execution issues against the property of the person against whom such fine and costs or judgment have been adjudged or assessed. When execution issues against the property leased or rented, the officer shall proceed to satisfy it out of the building or premises so leased or occupied.
+
+If such building or premises belong to a minor or incompetent person, the guardian having control thereof shall be liable and account to the guardian's ward for all damages on account of such use and occupation, and the liabilities for such fines, costs, and damages.

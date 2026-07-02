@@ -1,0 +1,318 @@
+{
+  "glossary": [
+    {
+      "definition": "(5)(a) As used in divisions (B)(1) to (4) of this section, \"communication\" means acquiring, recording, or transmitting any information, in any manner, concerning any facts, opinions, or statements necessary to enable a physician, advanced practice registered nurse, or dentist to diagnose, treat, prescribe, or act for a patient. A \"communication\" may include, but is not limited to, any medical or dental, office, or hospital communication such as a record, chart, letter, memorandum, laboratory test and results, x-ray, photograph, financial statement, diagnosis, or prognosis.",
+      "id": "2317.02-communication",
+      "normalized": "communication",
+      "scope": "",
+      "section": "2317.02",
+      "source_title": "Section 2317.02 - Privileged communications.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2317.02",
+      "term": "communication"
+    },
+    {
+      "definition": "(b) As used in division (B)(2) of this section, \"health care provider\" means a hospital, ambulatory care facility, long-term care facility, pharmacy, emergency facility, or health care practitioner.\n\n(c) As used in division (B)(5)(b) of this section:",
+      "id": "2317.02-health-care-provider",
+      "normalized": "health care provider",
+      "scope": "",
+      "section": "2317.02",
+      "source_title": "Section 2317.02 - Privileged communications.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2317.02",
+      "term": "health care provider"
+    },
+    {
+      "definition": "(i) \"Ambulatory care facility\" means a facility that provides medical, diagnostic, or surgical treatment to patients who do not require hospitalization, including a dialysis center, ambulatory surgical facility, cardiac catheterization facility, diagnostic imaging center, extracorporeal shock wave lithotripsy center, home health agency, inpatient hospice, birthing center, radiation therapy center, emergency facility, and an urgent care center. \"Ambulatory health care facility\" does not include the private office of a physician, advanced practice registered nurse, or dentist, whether the office is for an individual or group practice.",
+      "id": "2317.02-ambulatory-care-facility",
+      "normalized": "ambulatory care facility",
+      "scope": "(c) As used in division (B)(5)(b) of this section:",
+      "section": "2317.02",
+      "source_title": "Section 2317.02 - Privileged communications.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2317.02",
+      "term": "Ambulatory care facility"
+    },
+    {
+      "definition": "(ii) \"Emergency facility\" means a hospital emergency department or any other facility that provides emergency medical services.",
+      "id": "2317.02-emergency-facility",
+      "normalized": "emergency facility",
+      "scope": "(c) As used in division (B)(5)(b) of this section:",
+      "section": "2317.02",
+      "source_title": "Section 2317.02 - Privileged communications.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2317.02",
+      "term": "Emergency facility"
+    },
+    {
+      "definition": "(iii) \"Health care practitioner\" has the same meaning as in section 4769.01 of the Revised Code.",
+      "id": "2317.02-health-care-practitioner",
+      "normalized": "health care practitioner",
+      "scope": "(c) As used in division (B)(5)(b) of this section:",
+      "section": "2317.02",
+      "source_title": "Section 2317.02 - Privileged communications.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2317.02",
+      "term": "Health care practitioner"
+    },
+    {
+      "definition": "(iv) \"Hospital\" has the same meaning as in section 3727.01 of the Revised Code.",
+      "id": "2317.02-hospital",
+      "normalized": "hospital",
+      "scope": "(c) As used in division (B)(5)(b) of this section:",
+      "section": "2317.02",
+      "source_title": "Section 2317.02 - Privileged communications.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2317.02",
+      "term": "Hospital"
+    },
+    {
+      "definition": "(v) \"Long-term care facility\" means a nursing home, residential care facility, or home for the aging, as those terms are defined in section 3721.01 of the Revised Code; a residential facility licensed under section 5119.34 of the Revised Code that provides accommodations, supervision, and personal care services for three to sixteen unrelated adults; a nursing facility, as defined in section 5165.01 of the Revised Code; a skilled nursing facility, as defined in section 5165.01 of the Revised Code; and an intermediate care facility for individuals with intellectual disabilities, as defined in section 5124.01 of the Revised Code.",
+      "id": "2317.02-long-term-care-facility",
+      "normalized": "long-term care facility",
+      "scope": "(c) As used in division (B)(5)(b) of this section:",
+      "section": "2317.02",
+      "source_title": "Section 2317.02 - Privileged communications.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2317.02",
+      "term": "Long-term care facility"
+    },
+    {
+      "definition": "(vi) \"Pharmacy\" has the same meaning as in section 4729.01 of the Revised Code.",
+      "id": "2317.02-pharmacy",
+      "normalized": "pharmacy",
+      "scope": "(c) As used in division (B)(5)(b) of this section:",
+      "section": "2317.02",
+      "source_title": "Section 2317.02 - Privileged communications.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2317.02",
+      "term": "Pharmacy"
+    },
+    {
+      "definition": "(d) As used in divisions (B)(1) and (2) of this section, \"drug of abuse\" has the same meaning as in section 4506.01 of the Revised Code.\n\n(6) Divisions (B)(1), (2), (3), (4), and (5) of this section apply to doctors of medicine, doctors of osteopathic medicine, doctors of podiatry, advanced practice registered nurses, and dentists.",
+      "id": "2317.02-drug-of-abuse",
+      "normalized": "drug of abuse",
+      "scope": "(c) As used in division (B)(5)(b) of this section:",
+      "section": "2317.02",
+      "source_title": "Section 2317.02 - Privileged communications.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2317.02",
+      "term": "drug of abuse"
+    },
+    {
+      "definition": "(7) Nothing in divisions (B)(1) to (6) of this section affects, or shall be construed as affecting, the immunity from civil liability conferred by section 307.628 of the Revised Code or the immunity from civil liability conferred by section 2305.33 of the Revised Code upon physicians or advanced practice registered nurses who report an employee's use of a drug of abuse, or a condition of an employee other than one involving the use of a drug of abuse, to the employer of the employee in accordance with division (B) of that section. As used in division (B)(7) of this section, \"employee,\" \"employer,\" and \"physician\" have the same meanings as in section 2305.33 of the Revised Code and \"advanced practice registered nurse\" has the same meaning as in section 4723.01 of the Revised Code.\n\n(C)(1) A cleric, when the cleric remains accountable to the authority of that cleric's church, denomination, or sect, concerning a confession made, or any information confidentially communicated, to the cleric for a religious counseling purpose in the cleric's professional character. The cleric may testify by express consent of the person making the communication, except when the disclosure of the information is in violation of a sacred trust and except that, if the person voluntarily testifies or is deemed by division (A)(4)(c) of section 2151.421 of the Revised Code to have waived any testimonial privilege under this division, the cleric may be compelled to testify on the same subject except when disclosure of the information is in violation of a sacred trust.\n\n(2) As used in division (C) of this section:",
+      "id": "2317.02-advanced-practice-registered-nurse",
+      "normalized": "advanced practice registered nurse",
+      "scope": "(c) As used in division (B)(5)(b) of this section:",
+      "section": "2317.02",
+      "source_title": "Section 2317.02 - Privileged communications.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2317.02",
+      "term": "advanced practice registered nurse"
+    },
+    {
+      "definition": "(a) \"Cleric\" means a member of the clergy, rabbi, priest, Christian Science practitioner, or regularly ordained, accredited, or licensed minister of an established and legally cognizable church, denomination, or sect.",
+      "id": "2317.02-cleric",
+      "normalized": "cleric",
+      "scope": "(2) As used in division (C) of this section:",
+      "section": "2317.02",
+      "source_title": "Section 2317.02 - Privileged communications.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2317.02",
+      "term": "Cleric"
+    },
+    {
+      "definition": "(b) \"Sacred trust\" means a confession or confidential communication made to a cleric in the cleric's ecclesiastical capacity in the course of discipline enjoined by the church to which the cleric belongs, including, but not limited to, the Catholic Church, if both of the following apply:\n\n(i) The confession or confidential communication was made directly to the cleric.\n\n(ii) The confession or confidential communication was made in the manner and context that places the cleric specifically and strictly under a level of confidentiality that is considered inviolate by canon law or church doctrine.\n\n(D) Husband or wife, concerning any communication made by one to the other, or an act done by either in the presence of the other, during coverture, unless the communication was made, or act done, in the known presence or hearing of a third person competent to be a witness; and such rule is the same if the marital relation has ceased to exist;\n\n(E) A person who assigns a claim or interest, concerning any matter in respect to which the person would not, if a party, be permitted to testify;\n\n(F) A person who, if a party, would be restricted under section 2317.03 of the Revised Code, when the property or thing is sold or transferred by an executor, administrator, guardian, trustee, heir, devisee, or legatee, shall be restricted in the same manner in any action or proceeding concerning the property or thing.\n\n(G)(1) A school guidance counselor who holds a valid educator license from the state board of education as provided for in section 3319.22 of the Revised Code, a person licensed under Chapter 4757. of the Revised Code as a licensed professional clinical counselor, licensed professional counselor, social worker, independent social worker, marriage and family therapist or independent marriage and family therapist, or registered under Chapter 4757. of the Revised Code as a social work assistant concerning a confidential communication received from a client in that relation or the person's advice to a client unless any of the following applies:\n\n(a) The communication or advice indicates clear and present danger to the client or other persons. For the purposes of this division, cases in which there are indications of present or past child abuse or neglect of the client constitute a clear and present danger.\n\n(b) The client gives express consent to the testimony.\n\n(c) If the client is deceased, the surviving spouse or the executor or administrator of the estate of the deceased client gives express consent.\n\n(d) The client voluntarily testifies, in which case the school guidance counselor or person licensed or registered under Chapter 4757. of the Revised Code may be compelled to testify on the same subject.\n\n(e) The court in camera determines that the information communicated by the client is not germane to the counselor-client, marriage and family therapist-client, or social worker-client relationship.\n\n(f) A court, in an action brought against a school, its administration, or any of its personnel by the client, rules after an in-camera inspection that the testimony of the school guidance counselor is relevant to that action.\n\n(g) The testimony is sought in a civil action and concerns court-ordered treatment or services received by a patient as part of a case plan journalized under section 2151.412 of the Revised Code or the court-ordered treatment or services are necessary or relevant to dependency, neglect, or abuse or temporary or permanent custody proceedings under Chapter 2151. of the Revised Code.\n\n(2) Nothing in division (G)(1) of this section shall relieve a school guidance counselor or a person licensed or registered under Chapter 4757. of the Revised Code from the requirement to report information concerning child abuse or neglect under section 2151.421 of the Revised Code.\n\n(H) A mediator acting under a mediation order issued under division (A) of section 3109.052 of the Revised Code or otherwise issued in any proceeding for divorce, dissolution, legal separation, annulment, or the allocation of parental rights and responsibilities for the care of children, in any action or proceeding, other than a criminal, delinquency, child abuse, child neglect, or dependent child action or proceeding, that is brought by or against either parent who takes part in mediation in accordance with the order and that pertains to the mediation process, to any information discussed or presented in the mediation process, to the allocation of parental rights and responsibilities for the care of the parents' children, or to the awarding of parenting time rights in relation to their children;\n\n(I) A communications assistant, acting within the scope of the communication assistant's authority, when providing telecommunications relay service pursuant to section 4931.06 of the Revised Code or Title II of the \"Communications Act of 1934,\" 104 Stat. 366 (1990), 47 U.S.C. 225, concerning a communication made through a telecommunications relay service. Nothing in this section shall limit the obligation of a communications assistant to divulge information or testify when mandated by federal law or regulation or pursuant to subpoena in a criminal proceeding.\n\nNothing in this section shall limit any immunity or privilege granted under federal law or regulation.\n\n(J)(1) A chiropractor in a civil proceeding concerning a communication made to the chiropractor by a patient in that relation or the chiropractor's advice to a patient, except as otherwise provided in this division. The testimonial privilege established under this division does not apply, and a chiropractor may testify or may be compelled to testify, in any civil action, in accordance with the discovery provisions of the Rules of Civil Procedure in connection with a civil action, or in connection with a claim under Chapter 4123. of the Revised Code, under any of the following circumstances:\n\n(a) If the patient or the guardian or other legal representative of the patient gives express consent.\n\n(b) If the patient is deceased, the spouse of the patient or the executor or administrator of the patient's estate gives express consent.\n\n(c) If a medical claim, dental claim, chiropractic claim, or optometric claim, as defined in section 2305.113 of the Revised Code, an action for wrongful death, any other type of civil action, or a claim under Chapter 4123. of the Revised Code is filed by the patient, the personal representative of the estate of the patient if deceased, or the patient's guardian or other legal representative.\n\n(2) If the testimonial privilege described in division (J)(1) of this section does not apply as provided in division (J)(1)(c) of this section, a chiropractor may be compelled to testify or to submit to discovery under the Rules of Civil Procedure only as to a communication made to the chiropractor by the patient in question in that relation, or the chiropractor's advice to the patient in question, that related causally or historically to physical or mental injuries that are relevant to issues in the medical claim, dental claim, chiropractic claim, or optometric claim, action for wrongful death, other civil action, or claim under Chapter 4123. of the Revised Code.\n\n(3) The testimonial privilege established under this division does not apply, and a chiropractor may testify or be compelled to testify, in any criminal action or administrative proceeding.",
+      "id": "2317.02-sacred-trust",
+      "normalized": "sacred trust",
+      "scope": "(2) As used in division (C) of this section:",
+      "section": "2317.02",
+      "source_title": "Section 2317.02 - Privileged communications.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2317.02",
+      "term": "Sacred trust"
+    },
+    {
+      "definition": "(4) As used in this division, \"communication\" means acquiring, recording, or transmitting any information, in any manner, concerning any facts, opinions, or statements necessary to enable a chiropractor to diagnose, treat, or act for a patient. A communication may include, but is not limited to, any chiropractic, office, or hospital communication such as a record, chart, letter, memorandum, laboratory test and results, x-ray, photograph, financial statement, diagnosis, or prognosis.\n\n(K)(1) Except as provided under division (K)(2) of this section, a critical incident stress management team member concerning a communication received from an individual who receives crisis response services from the team member, or the team member's advice to the individual, during a debriefing session.\n\n(2) The testimonial privilege established under division (K)(1) of this section does not apply if any of the following are true:\n\n(a) The communication or advice indicates clear and present danger to the individual who receives crisis response services or to other persons. For purposes of this division, cases in which there are indications of present or past child abuse or neglect of the individual constitute a clear and present danger.\n\n(b) The individual who received crisis response services gives express consent to the testimony.\n\n(c) If the individual who received crisis response services is deceased, the surviving spouse or the executor or administrator of the estate of the deceased individual gives express consent.\n\n(d) The individual who received crisis response services voluntarily testifies, in which case the team member may be compelled to testify on the same subject.\n\n(e) The court in camera determines that the information communicated by the individual who received crisis response services is not germane to the relationship between the individual and the team member.\n\n(f) The communication or advice pertains or is related to any criminal act.\n\n(3) As used in division (K) of this section:",
+      "id": "2317.02-communication",
+      "normalized": "communication",
+      "scope": "(2) As used in division (C) of this section:",
+      "section": "2317.02",
+      "source_title": "Section 2317.02 - Privileged communications.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2317.02",
+      "term": "communication"
+    },
+    {
+      "definition": "(a) \"Crisis response services\" means consultation, risk assessment, referral, and on-site crisis intervention services provided by a critical incident stress management team to individuals affected by crisis or disaster.",
+      "id": "2317.02-crisis-response-services",
+      "normalized": "crisis response services",
+      "scope": "(3) As used in division (K) of this section:",
+      "section": "2317.02",
+      "source_title": "Section 2317.02 - Privileged communications.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2317.02",
+      "term": "Crisis response services"
+    },
+    {
+      "definition": "(b) \"Critical incident stress management team member\" or \"team member\" means an individual specially trained to provide crisis response services as a member of an organized community or local crisis response team that holds membership in the Ohio critical incident stress management network.",
+      "id": "2317.02-critical-incident-stress-management-team-member",
+      "normalized": "critical incident stress management team member",
+      "scope": "(3) As used in division (K) of this section:",
+      "section": "2317.02",
+      "source_title": "Section 2317.02 - Privileged communications.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2317.02",
+      "term": "Critical incident stress management team member"
+    },
+    {
+      "definition": "(b) \"Critical incident stress management team member\" or \"team member\" means an individual specially trained to provide crisis response services as a member of an organized community or local crisis response team that holds membership in the Ohio critical incident stress management network.",
+      "id": "2317.02-team-member",
+      "normalized": "team member",
+      "scope": "(3) As used in division (K) of this section:",
+      "section": "2317.02",
+      "source_title": "Section 2317.02 - Privileged communications.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2317.02",
+      "term": "team member"
+    },
+    {
+      "definition": "(c) \"Debriefing session\" means a session at which crisis response services are rendered by a critical incident stress management team member during or after a crisis or disaster.\n\n(L)(1) Subject to division (L)(2) of this section and except as provided in division (L)(3) of this section, an employee assistance professional, concerning a communication made to the employee assistance professional by a client in the employee assistance professional's official capacity as an employee assistance professional.\n\n(2) Division (L)(1) of this section applies to an employee assistance professional who meets either or both of the following requirements:\n\n(a) Is certified by the employee assistance certification commission to engage in the employee assistance profession;\n\n(b) Has education, training, and experience in all of the following:\n\n(i) Providing workplace-based services designed to address employer and employee productivity issues;\n\n(ii) Providing assistance to employees and employees' dependents in identifying and finding the means to resolve personal problems that affect the employees or the employees' performance;\n\n(iii) Identifying and resolving productivity problems associated with an employee's concerns about any of the following matters: health, marriage, family, finances, substance abuse or other addiction, workplace, law, and emotional issues;\n\n(iv) Selecting and evaluating available community resources;\n\n(v) Making appropriate referrals;\n\n(vi) Local and national employee assistance agreements;\n\n(vii) Client confidentiality.\n\n(3) Division (L)(1) of this section does not apply to any of the following:\n\n(a) A criminal action or proceeding involving an offense under sections 2903.01 to 2903.06 of the Revised Code if the employee assistance professional's disclosure or testimony relates directly to the facts or immediate circumstances of the offense;\n\n(b) A communication made by a client to an employee assistance professional that reveals the contemplation or commission of a crime or serious, harmful act;\n\n(c) A communication that is made by a client who is an unemancipated minor or an adult adjudicated to be incompetent and indicates that the client was the victim of a crime or abuse;\n\n(d) A civil proceeding to determine an individual's mental competency or a criminal action in which a plea of not guilty by reason of insanity is entered;\n\n(e) A civil or criminal malpractice action brought against the employee assistance professional;\n\n(f) When the employee assistance professional has the express consent of the client or, if the client is deceased or disabled, the client's legal representative;\n\n(g) When the testimonial privilege otherwise provided by division (L)(1) of this section is abrogated under law.\n\nLast updated January 16, 2025 at 3:19 PM",
+      "id": "2317.02-debriefing-session",
+      "normalized": "debriefing session",
+      "scope": "(3) As used in division (K) of this section:",
+      "section": "2317.02",
+      "source_title": "Section 2317.02 - Privileged communications.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2317.02",
+      "term": "Debriefing session"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2151.421",
+      "number": "2151.421",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.421"
+    },
+    {
+      "kind": "section",
+      "label": "2901.02",
+      "number": "2901.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2901.02"
+    },
+    {
+      "kind": "section",
+      "label": "2305.113",
+      "number": "2305.113",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.113"
+    },
+    {
+      "kind": "section",
+      "label": "2151.412",
+      "number": "2151.412",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.412"
+    },
+    {
+      "kind": "section",
+      "label": "2317.022",
+      "number": "2317.022",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2317.022"
+    },
+    {
+      "kind": "section",
+      "label": "2317.422",
+      "number": "2317.422",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2317.422"
+    },
+    {
+      "kind": "section",
+      "label": "4769.01",
+      "number": "4769.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4769.01"
+    },
+    {
+      "kind": "section",
+      "label": "3727.01",
+      "number": "3727.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3727.01"
+    },
+    {
+      "kind": "section",
+      "label": "3721.01",
+      "number": "3721.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.01"
+    },
+    {
+      "kind": "section",
+      "label": "5119.34",
+      "number": "5119.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.34"
+    },
+    {
+      "kind": "section",
+      "label": "5165.01",
+      "number": "5165.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01"
+    },
+    {
+      "kind": "section",
+      "label": "5124.01",
+      "number": "5124.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01"
+    },
+    {
+      "kind": "section",
+      "label": "4729.01",
+      "number": "4729.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.01"
+    },
+    {
+      "kind": "section",
+      "label": "4506.01",
+      "number": "4506.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4506.01"
+    },
+    {
+      "kind": "section",
+      "label": "307.628",
+      "number": "307.628",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.628"
+    },
+    {
+      "kind": "section",
+      "label": "2305.33",
+      "number": "2305.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.33"
+    },
+    {
+      "kind": "section",
+      "label": "4723.01",
+      "number": "4723.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.01"
+    },
+    {
+      "kind": "section",
+      "label": "2317.03",
+      "number": "2317.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2317.03"
+    },
+    {
+      "kind": "section",
+      "label": "3319.22",
+      "number": "3319.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3319.22"
+    },
+    {
+      "kind": "section",
+      "label": "3109.052",
+      "number": "3109.052",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.052"
+    },
+    {
+      "kind": "section",
+      "label": "4931.06",
+      "number": "4931.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4931.06"
+    },
+    {
+      "kind": "section",
+      "label": "2903.01",
+      "number": "2903.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2903.01"
+    },
+    {
+      "kind": "section",
+      "label": "2903.06",
+      "number": "2903.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2903.06"
+    }
+  ],
+  "scraped": "2026-07-02T19:44:05+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2317.02",
+  "title": "Section 2317.02 - Privileged communications."
+}

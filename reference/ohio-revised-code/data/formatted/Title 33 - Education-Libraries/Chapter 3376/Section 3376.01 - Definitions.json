@@ -1,0 +1,124 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Athlete agent\" means an individual who holds a current and valid certificate of registration issued under section 4771.08 of the Revised Code or certificate of convenience issued under section 4771.09 of the Revised Code.",
+      "id": "3376.01-athlete-agent",
+      "normalized": "athlete agent",
+      "scope": "As used in this chapter:",
+      "section": "3376.01",
+      "source_title": "Section 3376.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3376.01",
+      "term": "Athlete agent"
+    },
+    {
+      "definition": "(B) \"Institutional marketing associate\" means any third-party entity that enters into a contract with, or otherwise acts on behalf of, a state institution of higher education, private college, or an institution's or college's intercollegiate athletics department. \"Institutional marketing associate\" does not include either of the following:\n\n(1) A state institution of higher education, private college, athletic association, conference, or other group or organization with authority over intercollegiate athletics;\n\n(2) A staff member, employee, officer, director, manager, or owner of any of the entities described under division (B)(1) of this section.",
+      "id": "3376.01-institutional-marketing-associate",
+      "normalized": "institutional marketing associate",
+      "scope": "As used in this chapter:",
+      "section": "3376.01",
+      "source_title": "Section 3376.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3376.01",
+      "term": "Institutional marketing associate"
+    },
+    {
+      "definition": "(C) \"Official team activities\" means all games, practices, exhibitions, scrimmages, team appearances, team photograph sessions, sports camps sponsored by a state institution of higher education or private college, and other team-organized activities, regardless of whether the activity takes place on or off campus, including individual photograph sessions and news media interviews.",
+      "id": "3376.01-official-team-activities",
+      "normalized": "official team activities",
+      "scope": "As used in this chapter:",
+      "section": "3376.01",
+      "source_title": "Section 3376.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3376.01",
+      "term": "Official team activities"
+    },
+    {
+      "definition": "(D) \"State institution of higher education\" has the same meaning as in section 3345.011 of the Revised Code.",
+      "id": "3376.01-state-institution-of-higher-education",
+      "normalized": "state institution of higher education",
+      "scope": "As used in this chapter:",
+      "section": "3376.01",
+      "source_title": "Section 3376.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3376.01",
+      "term": "State institution of higher education"
+    },
+    {
+      "definition": "(E) \"Student-athlete\" means an individual who is eligible to participate in, participates in, or has participated in intercollegiate athletics for a state institution of higher education or private college. \"Student-athlete\" does not include an individual who participates in intramural athletics at a state institution of higher education or private college or who participates in professional athletics.",
+      "id": "3376.01-student-athlete",
+      "normalized": "student-athlete",
+      "scope": "As used in this chapter:",
+      "section": "3376.01",
+      "source_title": "Section 3376.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3376.01",
+      "term": "Student-athlete"
+    },
+    {
+      "definition": "(F) \"Third-party entity\" means any individual or entity, including an athlete agent, other than a state institution of higher education, private college, athletic association, conference, or other group or organization with authority over intercollegiate athletics.",
+      "id": "3376.01-third-party-entity",
+      "normalized": "third-party entity",
+      "scope": "As used in this chapter:",
+      "section": "3376.01",
+      "source_title": "Section 3376.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3376.01",
+      "term": "Third-party entity"
+    },
+    {
+      "definition": "(G) \"Private college\" has the same meaning as in section 3365.01 of the Revised Code.",
+      "id": "3376.01-private-college",
+      "normalized": "private college",
+      "scope": "As used in this chapter:",
+      "section": "3376.01",
+      "source_title": "Section 3376.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3376.01",
+      "term": "Private college"
+    },
+    {
+      "definition": "(H) \"Personal services\" means services performed by a student-athlete to which both of the following apply:\n\n(1) The services are nondelegable obligations for which the student-athlete cannot substitute another individual to fulfill the duties agreed upon by the student-athlete under the contract, and the services must be rendered personally by that student-athlete.\n\n(2) The services involve skill-based or talent-based performance by the student-athlete, and the contract is formed due to the student-athlete's specific athletic ability, status as a student-athlete, public persona, or brand recognition.",
+      "id": "3376.01-personal-services",
+      "normalized": "personal services",
+      "scope": "As used in this chapter:",
+      "section": "3376.01",
+      "source_title": "Section 3376.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3376.01",
+      "term": "Personal services"
+    },
+    {
+      "definition": "(I) \"Name, image, or likeness\" includes personal services.\n\nLast updated January 16, 2026 at 2:29 PM",
+      "id": "3376.01-name-image-or-likeness",
+      "normalized": "name, image, or likeness",
+      "scope": "As used in this chapter:",
+      "section": "3376.01",
+      "source_title": "Section 3376.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3376.01",
+      "term": "Name, image, or likeness"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "4771.08",
+      "number": "4771.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4771.08"
+    },
+    {
+      "kind": "section",
+      "label": "4771.09",
+      "number": "4771.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4771.09"
+    },
+    {
+      "kind": "section",
+      "label": "3345.011",
+      "number": "3345.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3345.011"
+    },
+    {
+      "kind": "section",
+      "label": "3365.01",
+      "number": "3365.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3365.01"
+    }
+  ],
+  "scraped": "2026-07-02T19:50:33+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3376.01",
+  "title": "Section 3376.01 - Definitions."
+}

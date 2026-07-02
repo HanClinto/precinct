@@ -1,0 +1,459 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 6111.01 - Water pollution control definitions.",
+      "number": "6111.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.011 - Environmental enforcement authority over ephemeral features.",
+      "number": "6111.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.011"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.02 - Isolated wetland permit definitions.",
+      "number": "6111.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.021 - General and individual isolated wetland permits.",
+      "number": "6111.021",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.021"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.022 - Proposed filling of wetland subject to level one review.",
+      "number": "6111.022",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.022"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.023 - Proposed filling of wetland subject to level two review.",
+      "number": "6111.023",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.023"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.024 - Proposed filling of wetland subject to level three review.",
+      "number": "6111.024",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.024"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.025 - Wetland mitigation banks.",
+      "number": "6111.025",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.025"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.026 - Application for a general and individual state isolated wetland permit - notice and hearing.",
+      "number": "6111.026",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.026"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.027 - Mitigation for impacts to isolated wetlands.",
+      "number": "6111.027",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.027"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.028 - Discharge of dredged material into isolated wetlands.",
+      "number": "6111.028",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.028"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.03 - Water pollution control powers of director of environmental protection.",
+      "number": "6111.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.031 - Modification of terms and conditions of permit.",
+      "number": "6111.031",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.031"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.032 - Primary authority to reside in legislative authority or governing board.",
+      "number": "6111.032",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.032"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.035 - Coal mining and reclamation operations general permits.",
+      "number": "6111.035",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.035"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.036 - Water pollution control loan fund.",
+      "number": "6111.036",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.036"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.037 - Nonpoint source pollution management fund.",
+      "number": "6111.037",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.037"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.038 - Surface water protection fund.",
+      "number": "6111.038",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.038"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.039 - Class B sludge rules requiring the posting of notice regarding the land application.",
+      "number": "6111.039",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.039"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.0381 - Water quality protection fund.",
+      "number": "6111.0381",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.0381"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.0382 - Surface water improvement fund.",
+      "number": "6111.0382",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.0382"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.04 - Water pollution and sludge management violations prohibited.",
+      "number": "6111.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.041 - Standards of water quality.",
+      "number": "6111.041",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.041"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.042 - Rules requiring compliance with Federal Water Pollution Control Act.",
+      "number": "6111.042",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.042"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.043 - Regulation of the injection of sewage, industrial waste, hazardous waste, and other wastes into wells.",
+      "number": "6111.043",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.043"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.044 - Injection well drilling or operating permit.",
+      "number": "6111.044",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.044"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.045 - Waste minimization and treatment plan for class I injection well facility.",
+      "number": "6111.045",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.045"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.046 - Annual permit fee - underground injection control fund.",
+      "number": "6111.046",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.046"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.047 - Tonnage fees for injection of waste.",
+      "number": "6111.047",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.047"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.048 - Temporary assistance of state employees.",
+      "number": "6111.048",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.048"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.049 - Tonnage fees for injection of waste - exceptions.",
+      "number": "6111.049",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.049"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.05 - Investigation of alleged act of pollution or failure to comply.",
+      "number": "6111.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.051 - Use, management, or disposal of structural products.",
+      "number": "6111.051",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.051"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.052 - Blast furnace and steel slag.",
+      "number": "6111.052",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.052"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.06 - Administrative procedures - emergencies.",
+      "number": "6111.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.07 - Prohibited acts - prosecutions and injunction by attorney general.",
+      "number": "6111.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.08 - Rights in equity or under common law not affected.",
+      "number": "6111.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.09 - Civil penalties for water pollution control violations.",
+      "number": "6111.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.10 - Sale of household laundry detergent containing phosphorus above certain limits prohibited in certain counties.",
+      "number": "6111.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.11 - Sale of dishwasher detergent with phosphorous content above certain limits prohibited.",
+      "number": "6111.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.12 - Antidegradation policy applicable to surface waters of the state pursuant to applicable federal laws and regulations.",
+      "number": "6111.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.13 - Discharge limit for a pollutant less than the practical quantification level.",
+      "number": "6111.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.14 - Agreement for review of plans for extension of sewerage system or increase in number of service connections.",
+      "number": "6111.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.20 - Orders to secure a quality effluent from water purification or sewage treatment works.",
+      "number": "6111.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.30 - Application for federal water quality certification - hearing.",
+      "number": "6111.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.31 - Interagency review team and mitigation standards.",
+      "number": "6111.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.311 - Ephemeral feature mitigation calculation definitions.",
+      "number": "6111.311",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.311"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.312 - Limitations on additional requirements.",
+      "number": "6111.312",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.312"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.313 - Mitigation of impacts to ephemeral features.",
+      "number": "6111.313",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.313"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.314 - Reporting and monitoring requirements.",
+      "number": "6111.314",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.314"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.315 - Best management practices.",
+      "number": "6111.315",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.315"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.316 - Exceptions from ephemeral feature mitigation requirements.",
+      "number": "6111.316",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.316"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.32 - Dredging plan.",
+      "number": "6111.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.33 - Dredged material.",
+      "number": "6111.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.34 - Rules governing beneficial use of dredged material.",
+      "number": "6111.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.41 - Comprehensive water resource management planning by directors of environmental protection and natural resources.",
+      "number": "6111.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.42 - Water quality powers of director of environmental protection.",
+      "number": "6111.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.44 - Plans for installation or changes to sewerage systems to be submitted to director of environmental protection.",
+      "number": "6111.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.441 - Sewage treatment systems regulated by board of health exempt from chapter.",
+      "number": "6111.441",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.441"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.45 - Plans for the disposal of the waste to be submitted to director of environmental protection.",
+      "number": "6111.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.451 - Sewage construction activities not requiring plan approval.",
+      "number": "6111.451",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.451"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.46 - Environmental protection agency general supervision of treatment and disposal of sewage and industrial wastes and operation and means therefor.",
+      "number": "6111.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.50 - Credible data definitions.",
+      "number": "6111.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.51 - Criteria for three levels of credible data related to surface water monitoring and assessment.",
+      "number": "6111.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.52 - Level three credible data activities.",
+      "number": "6111.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.53 - Water quality monitoring program to collect levels one, two, and three credible data for surface water monitoring and assessment.",
+      "number": "6111.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.54 - Submission of surface water quality data.",
+      "number": "6111.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.55 - Computerized database or databases composed of all credible data.",
+      "number": "6111.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.56 - Determining source or sources of water impairment.",
+      "number": "6111.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.561 - Development and establishment of total maximum daily load.",
+      "number": "6111.561",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.561"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.562 - Notice and opportunity for input from stakeholders.",
+      "number": "6111.562",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.562"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.563 - Official draft.",
+      "number": "6111.563",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.563"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.564 - Final TMDL; appeal.",
+      "number": "6111.564",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.564"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.60 - Issuance of NPDES permits.",
+      "number": "6111.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6111.99 - Penalties.",
+      "number": "6111.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.99"
+    }
+  ],
+  "scraped": "2026-07-02T20:17:15+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-6111",
+  "title": "Chapter 6111 - Water Pollution Control"
+}

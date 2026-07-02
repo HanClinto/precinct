@@ -1,0 +1,118 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-5126
+Scraped: 2026-07-02T20:10:58+00:00
+
+# Chapter 5126 - County Boards of Developmental Disabilities
+
+## Sections
+
+- Section 5126.01 - County boards of developmental disabilities definitions.
+- Section 5126.011 - Reference to county board.
+- Section 5126.02 - County or multicounty board of developmental disability required.
+- Section 5126.021 - Membership of county boards.
+- Section 5126.023 - Persons who may not serve on a county board of developmental disabilities.
+- Section 5126.024 - Declaration of eligibility prior to appointment to board.
+- Section 5126.025 - Time and term of appointment of members of board.
+- Section 5126.026 - Reappointment of members of board.
+- Section 5126.027 - Filling of vacancy on board for unexpired term.
+- Section 5126.028 - Members of board not compensated - reimbursement for expenses.
+- Section 5126.029 - Organization of board.
+- Section 5126.0210 - Members of board to attend annual in-service training.
+- Section 5126.0211 - Virtual attendance at in-service training sessions.
+- Section 5126.0212 - Participation by member in matter involving conflict of interest.
+- Section 5126.0213 - Grounds for removal of member of board.
+- Section 5126.0214 - Waiver of removal requirement for nonattendance.
+- Section 5126.0215 - Notice of grounds of removal to member and appointing authority.
+- Section 5126.0216 - Request for hearing on proposed removal of member.
+- Section 5126.0217 - Removal of member prohibited before conclusion of hearing.
+- Section 5126.0218 - Eligibility of removed member for reappointment.
+- Section 5126.0219 - Superintendent.
+- Section 5126.0220 - Superintendent of county board - powers and duties.
+- Section 5126.0221 - Individuals disqualified from employment by board.
+- Section 5126.0222 - Employee of county board of developmental disabilities may be member of governing board of political subdivision.
+- Section 5126.0223 - Electronic attendance at county board meetings.
+- Section 5126.03 - Direct services contract definitions.
+- Section 5126.031 - Appointing ethics council.
+- Section 5126.032 - Reviewing direct services contracts.
+- Section 5126.033 - Direct services contract requirements.
+- Section 5126.034 - Contracts in conformity with law.
+- Section 5126.038 - Identification of certain expenses.
+- Section 5126.04 - Planning and setting priorities.
+- Section 5126.041 - Eligibility determinations.
+- Section 5126.042 - Waiting lists for non-medicaid programs or services.
+- Section 5126.043 - Decisions by individuals with developmental disabilities; authorization for decision by adult; decisions by guardian.
+- Section 5126.044 - Confidentiality.
+- Section 5126.045 - Fees for services.
+- Section 5126.046 - Right to community-based services; list of providers.
+- Section 5126.047 - Information regarding residential services.
+- Section 5126.05 - County board - powers and duties.
+- Section 5126.051 - Residential services and supported living services.
+- Section 5126.052 - Volunteer bus rider assistance program.
+- Section 5126.053 - Five-year projection of revenues and expenditures.
+- Section 5126.054 - Annual plan.
+- Section 5126.055 - Services provided by board that has medicaid local administrative authority.
+- Section 5126.056 - Terminating county board's medicaid local administrative authority.
+- Section 5126.058 - Memorandum of understanding.
+- Section 5126.059 - Payment of nonfederal share of medicaid expenditures.
+- Section 5126.0510 - Payment of nonfederal share of home services expenditures.
+- Section 5126.0511 - Payment of nonfederal share of home services.
+- Section 5126.0512 - Number enrolled in home and community-based services.
+- Section 5126.06 - Resolution of complaints.
+- Section 5126.07 - Discrimination prohibited - affirmative action plan.
+- Section 5126.071 - Set aside for minority business enterprise contracts.
+- Section 5126.08 - Programs and services offered by county board.
+- Section 5126.081 - System of accreditation for county boards of developmental disabilities.
+- Section 5126.082 - Standards for promoting and advancing the quality of life of individuals.
+- Section 5126.09 - Liability insurance.
+- Section 5126.10 - Standard cost allocation procedures.
+- Section 5126.11 - Family support services program.
+- Section 5126.13 - Regional council.
+- Section 5126.131 - Regional council and county board annual cost report.
+- Section 5126.14 - Administrative oversight.
+- Section 5126.15 - Service and support administration provided.
+- Section 5126.18 - County eligibility to receive tax equity payments.
+- Section 5126.20 - Employee definitions.
+- Section 5126.201 - Conditional status service and support administrator - minimum requirements.
+- Section 5126.21 - Management employees.
+- Section 5126.22 - Classification of employees.
+- Section 5126.221 - Investigative agents.
+- Section 5126.222 - Service and support administrator and supervisor training.
+- Section 5126.23 - Discipline of management employee or superintendent.
+- Section 5126.24 - Salary schedules for teaching and nonteaching employees.
+- Section 5126.25 - Uniform standards and procedures for certification and registrations of persons seeking employment.
+- Section 5126.251 - Effect of child support default on certificate.
+- Section 5126.253 - Information concerning improper conduct by licensed employee.
+- Section 5126.254 - Report of improper conduct investigation kept in personnel file.
+- Section 5126.255 - RC 5126.253 and RC 5126.254 prevail over contractual provisions.
+- Section 5126.30 - Protective services for adults with developmental disability definitions.
+- Section 5126.31 - Reviewing reports of abuse and neglect.
+- Section 5126.311 - Requesting review of reports of abuse or neglect by other entities.
+- Section 5126.313 - Investigations.
+- Section 5126.32 - Obstructing review or investigation.
+- Section 5126.33 - Complaint process.
+- Section 5126.331 - Ex parte emergency order.
+- Section 5126.332 - Probable cause hearing.
+- Section 5126.333 - Investigation of allegation of substantial risk.
+- Section 5126.34 - Training standards for reviewing abuse and neglect reports.
+- Section 5126.36 - Authorization administer medications and perform health-related activities and tube feedings.
+- Section 5126.40 - Supported living.
+- Section 5126.41 - Individual service plans.
+- Section 5126.42 - Procedures for resolution of grievances.
+- Section 5126.43 - Supported living arrangements.
+- Section 5126.45 - Contract with provider of supported living.
+- Section 5126.46 - Obligations to provide residential services.
+- Section 5126.47 - Joint county residential services consortium.
+- Section 5126.49 - Residential facility linked deposit program.
+- Section 5126.50 - Standards for residential facility linked deposit program.
+- Section 5126.51 - Residential facility linked deposit program definitions.
+- Section 5126.52 - Shortage of suitable residential facilities.
+- Section 5126.53 - Resolution by county commissioners.
+- Section 5126.54 - Application for loan to develop facility.
+- Section 5126.55 - Resolution approving or disapproving development of proposed residential facility.
+- Section 5126.56 - Applying to eligible lending institution after approval.
+- Section 5126.57 - Approving or disapproving application for residential facility linked deposit loan.
+- Section 5126.58 - Board approval or disapproval of loan application.
+- Section 5126.59 - Residential facility linked deposit agreement.
+- Section 5126.60 - Lending value of residential facility linked deposit.
+- Section 5126.61 - Monitoring compliance - annual report.
+- Section 5126.62 - No liability for defaults on loans.
+- Section 5126.99 - Penalty.

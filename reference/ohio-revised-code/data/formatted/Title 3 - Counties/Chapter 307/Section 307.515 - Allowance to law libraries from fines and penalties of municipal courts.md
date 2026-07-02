@@ -1,0 +1,36 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-307.515
+Scraped: 2026-07-02T19:32:39+00:00
+
+# Section 307.515 - Allowance to law libraries from fines and penalties of municipal courts.
+
+**Effective:** September 29, 2013
+
+**Latest Legislation:** House Bill 59 - 130th General Assembly
+
+(A) All fines and penalties collected by, and moneys arising from forfeited bail in, a municipal court for offenses and misdemeanors brought for prosecution in the name of a municipal corporation under one of its penal ordinances, where there is in force a state statute under which the offense might be prosecuted, or brought for prosecution in the name of the state, except a portion of those fines, penalties, and moneys that, plus all costs collected monthly in those state cases, equal the compensation allowed by the board of county commissioners to the judges of the municipal court, its clerk, and the prosecuting attorney of that court in state cases, shall be retained by the clerk of that municipal court and shall be deposited by the clerk each month in the county law library resources fund that is created under section 307.514 of the Revised Code in the county in which that municipal corporation is located. The sum that the clerk of the municipal court deposits in the county law library resources fund shall in no month be less than twenty-five per cent of the amount of such fines, penalties, and moneys received in that month, without deducting the amount of the allowance of the board of county commissioners to the judges, clerk, and prosecuting attorney.
+
+The total amount paid under this section in any one calendar year by the clerks of all municipal courts in any one county to the county law library resources fund shall in no event exceed the following amounts:
+
+(1) In counties having a population of fifty thousand or less, seventy-five hundred dollars and the maximum amount paid by any of such courts shall not exceed four thousand dollars in any calendar year.
+
+(2) In counties having a population in excess of fifty thousand but not in excess of one hundred thousand, eight thousand dollars and the maximum amount paid by any of such courts shall not exceed five thousand five hundred dollars in any calendar year.
+
+(3) In counties having a population in excess of one hundred thousand but not in excess of one hundred fifty thousand, ten thousand dollars and the maximum amount paid by any of such courts shall not exceed seven thousand dollars in any calendar year.
+
+(4) In counties having a population of in excess of one hundred fifty thousand, fifteen thousand dollars in any calendar year. The maximum amount to be paid by each clerk shall be determined by the county auditor in December of each year for the next succeeding calendar year and shall bear the same ratio to the total amount payable under this section from the clerks of all municipal courts in such county as the total fines, costs, and forfeitures received by the corresponding municipal court, bear to the total fines, costs, and forfeitures received by all the municipal courts in the county, as shown for the last complete year of actual receipts, on the latest available budgets of such municipal courts. Payments in the full amounts provided in this section shall be made monthly by each clerk in each calendar year until the maximum amount for such year has been paid. When that amount, so determined by the auditor, has been paid to the county law library resources fund, then no further payments shall be required in that calendar year from the clerk of that court.
+
+(5) This section does not apply to fines collected by a municipal court for violations of division (B) of section 4513.263 of the Revised Code, or for violations of any municipal ordinance that is substantively comparable to that division, all of which shall be forwarded to the treasurer of state as provided in division (E) of section 4513.263 of the Revised Code.
+
+(B) The county treasurer, upon the voucher of the county auditor, shall deposit fifty per cent of all moneys collected by a county court accruing from fines, penalties, and forfeited bail, unless otherwise distributed by law, in the county law library resources fund in that county that is created under section 307.514 of the Revised Code. The county treasurer shall deposit those moneys into that fund within thirty days after those moneys have been paid into the county treasury by the clerk of the county court.
+
+This section does not apply to fines collected by a county court for violations of division (B) of section 4513.263 of the Revised Code, or for violations of any municipal ordinance that is substantively comparable to that division, all of which shall be forwarded to the treasurer of state as provided in division (E) of section 4513.263 of the Revised Code.
+
+(C) In each county of the state, the clerk of the court of common pleas and the clerk of the probate court shall retain all fines and penalties collected by, and moneys arising from forfeited bail in, the court of common pleas and the probate court of that county for offenses and misdemeanors brought for prosecution in those courts in the name of the state and monthly shall deposit those moneys in the county law library resources fund in that county that is created under section 307.514 of the Revised Code. The total sums so deposited shall not exceed twelve hundred fifty dollars per annum, and when that amount has been deposited in the fund in accordance with this section then no further payments shall be required under this section in that calendar year from the clerks of those respective courts.
+
+This section does not apply to fines collected by a court of common pleas for violations of division (B) of section 4513.263 of the Revised Code, all of which shall be forwarded to the treasurer of state as provided in division (E) of that section.
+
+This section does not apply to fines imposed under division (B)(9) of section 2929.18 of the Revised Code and collected by a court of common pleas, all of which shall be forwarded by the court to the treasurer of state not later than the twentieth day of the month after the month in which they are collected for deposit into the state treasury to the credit of the rape crisis program trust fund created by section 109.921 of the Revised Code.
+
+(D) In each county, the treasurer of the county or the treasurer of the municipal corporation shall deposit monthly fifty per cent of all fines and penalties collected by, and fifty per cent of moneys arising from forfeited bail in, any court in that county for offenses brought for prosecution under Chapters 4301. and 4303. of the Revised Code and the state traffic laws in the county legal resources fund in that county that is created under section 307.514 of the Revised Code. The sum so deposited in that fund by each treasurer shall not exceed twelve hundred dollars per annum under Chapters 4301. and 4303. of the Revised Code, and when that amount has been deposited in that fund in accordance with this section, then no further deposits shall be required under this section in that calendar year from those treasurers.
+
+As used in this section, "state traffic laws" does not include division (B) of section 4513.263 of the Revised Code.

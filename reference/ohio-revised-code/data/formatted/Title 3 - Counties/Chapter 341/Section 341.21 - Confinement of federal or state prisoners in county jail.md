@@ -1,0 +1,22 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-341.21
+Scraped: 2026-07-02T19:32:56+00:00
+
+# Section 341.21 - Confinement of federal or state prisoners in county jail.
+
+**Effective:** January 1, 2004
+
+**Latest Legislation:** House Bill 490 - 124th General Assembly
+
+(A) The board of county commissioners may direct the sheriff to receive into custody prisoners charged with or convicted of crime by the United States, and to keep those prisoners until discharged.
+
+The board of the county in which prisoners charged with or convicted of crime by the United States may be so committed may negotiate and conclude any contracts with the United States for the use of the jail as provided by this section and as the board sees fit.
+
+A prisoner so committed shall be supported at the expense of the United States during the prisoner's confinement in the county jail. No greater compensation shall be charged by a sheriff for the subsistence of that type of prisoner than is provided by section 311.20 of the Revised Code to be charged for the subsistence of state prisoners.
+
+A sheriff or jailer who neglects or refuses to perform the services and duties directed by the board by reason of this division, shall be liable to the same penalties, forfeitures, and actions as if the prisoner had been committed under the authority of this state.
+
+(B) Prior to the acceptance for housing into the county jail of persons who are designated by the department of rehabilitation and correction, who plead guilty to or are convicted of a felony of the fourth or fifth degree, and who satisfy the other requirements listed in section 5120.161 of the Revised Code, the board of county commissioners shall enter into an agreement with the department of rehabilitation and correction under section 5120.161 of the Revised Code for the housing in the county jail of persons designated by the department who plead guilty to or are convicted of a felony of the fourth or fifth degree and who satisfy the other requirements listed in that section in exchange for a per diem fee per person. Persons incarcerated in the county jail pursuant to an agreement entered into under this division shall be subject to supervision and control in the manner described in section 5120.161 of the Revised Code. This division does not affect the authority of a court to directly sentence a person who is convicted of or pleads guilty to a felony to the county jail in accordance with section 2929.16 of the Revised Code.
+
+(C) Notwithstanding any contrary provision in section 2929.18 , 2929.28 , or 2929.37 or in any other section of the Revised Code, the board of county commissioners may establish a policy that complies with section 2929.38 of the Revised Code and that requires any person who is not indigent and who is confined in the jail under division (B) of this section to pay a reception fee, a fee for any medical treatment or service requested by and provided to that person, or the fee for a random drug test assessed under division (E) of section 341.26 of the Revised Code.
+
+(D) If a sheriff receives into custody a prisoner convicted of crime by the United States as described in division (A) of this section, if a person who has been convicted of or pleaded guilty to an offense is incarcerated in the jail in the manner described in division (B) of this section, if a sheriff receives into custody a prisoner charged with a crime by the United States and the prisoner has had bail denied or has had bail set, has not been released on bail, and is confined in jail pending trial, or if a person who has been arrested for an offense, and who has been denied bail or has had bail set and has not been released on bail is confined in jail pending trial, at the time of reception and at other times the sheriff or other person in charge of the operation of the jail determines to be appropriate, the sheriff or other person in charge of the operation of the jail may cause the convicted or accused offender to be examined and tested for tuberculosis, HIV infection, hepatitis, including, but not limited to, hepatitis A, B, and C, and other contagious diseases. The sheriff or other person in charge of the operation of the jail may cause a convicted or accused offender in the jail who refuses to be tested or treated for tuberculosis, HIV infection, hepatitis, including, but not limited to, hepatitis A, B, and C, or another contagious disease to be tested and treated involuntarily.

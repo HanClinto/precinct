@@ -1,0 +1,10 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-2152.851
+Scraped: 2026-07-02T19:42:01+00:00
+
+# Section 2152.851 - Effect of redesignation of offense.
+
+**Effective:** January 1, 2008
+
+**Latest Legislation:** Senate Bill 10 - 127th General Assembly
+
+If, prior to January 1, 2008, a judge issues an order under section 2152.82 , 2152.83 , 2152.84 , or 2152.85 of the Revised Code that classifies a delinquent child a juvenile offender registrant based on an adjudication for a sexually oriented offense or a child-victim oriented offense as those terms were defined in section 2950.01 of the Revised Code prior to January 1, 2008, and if, on and after January 1, 2008, the offense upon which the order was based is a sexually oriented offense or a child-victim oriented offense as those terms are defined in section 2950.01 of the Revised Code on and after January 1, 2008, notwithstanding the changes to sections 2152.82 , 2152.83 , 2152.84 , and 2152.85 of the Revised Code made on January 1, 2008, on and after that date, the order shall remain in effect for the period described in the section under which it was issued as that section exists on and after January 1, 2008, subject to subsequent modification or termination under section 2152.84 , 2152.85 , or 2950.15 of the Revised Code, or, if division (A)(3) of section 2152.86 of the Revised Code applies regarding the child, for the period described in division (C) of that section subject to modification or termination under section 2152.84 , 2152.85 , or 2950.15 of the Revised Code, whichever is applicable, and the duty to comply with sections 2950.04 , 2950.041 , 2950.05 , and 2950.06 of the Revised Code on and after January 1, 2008, shall be considered, for purposes of section 2950.07 of the Revised Code and for all other purposes, to be a continuation of the duty imposed upon the child prior to January 1, 2008, under the order issued under section 2152.82 , 2152.83 , 2152.84 , or 2152.85 and Chapter 2950. of the Revised Code.

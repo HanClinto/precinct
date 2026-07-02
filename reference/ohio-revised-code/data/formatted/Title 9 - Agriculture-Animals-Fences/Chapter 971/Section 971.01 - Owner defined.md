@@ -1,0 +1,34 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-971.01
+Scraped: 2026-07-02T19:35:34+00:00
+
+# Section 971.01 - Owner defined.
+
+**Effective:** September 30, 2008
+
+**Latest Legislation:** House Bill 323 - 127th General Assembly
+
+As used in this chapter:
+
+(A) "Applicable county recorder" means the county recorder of a county in which a partition fence is, was, or is not required to be constructed and maintained in good repair.
+
+(B) "Build a fence," "construct a fence," and "maintain a fence in good repair" include any necessary clearing of land.
+
+(C) "Livestock" means horses, mules, asses, hogs, sheep, goats, cattle, and any other animal that is raised or maintained domestically for food, fiber, or hunting purposes.
+
+(D) "Owner" means both of the following:
+
+(1) The owner of land in fee simple, of estates for life, of easements, or of rights-of-way while used by the owners thereof as farm outlets;
+
+(2) Any of the following with regard to any land that it owns, leases, manages, or otherwise controls and that is adjacent to land used to graze livestock:
+
+(a) The department of natural resources;
+
+(b) A conservancy district organized under Chapter 6101. of the Revised Code;
+
+(c) A political subdivision with a real property interest in recreational trails.
+
+(E) "Partition fence" means a fence that is located on the division line between the adjoining properties of two owners. "Partition fence" includes a fence that has been considered a division line between two such properties even though a subsequent land survey indicates that the fence is not located directly on the division line.
+
+(F) "Preferred partition fence" means a partition fence that is a woven wire fence, either standard or high tensile, with one or two strands of barbed wire located not less than forty-eight inches from the ground or a nonelectric high tensile fence of at least seven strands and that is constructed in accordance with the United States natural resources conservation service conservation practice standard for fences, code 382. "Preferred partition fence" includes a barbed wire, electric, or live fence, provided that the owners of adjoining properties agree, in writing, to allow such fences.
+
+(G) "Recreational trail" has the same meaning as in section 1519.07 of the Revised Code.

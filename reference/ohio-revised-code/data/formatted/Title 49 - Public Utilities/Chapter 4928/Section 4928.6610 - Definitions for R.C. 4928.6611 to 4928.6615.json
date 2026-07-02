@@ -1,0 +1,70 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Customer\" means either of the following:\n\n(1) Effective January 1, 2020, a mercantile customer as defined in section 4928.01 of the Revised Code;\n\n(2) Any customer of an electric distribution utility to which either of the following applies:\n\n(a) The customer receives service above the primary voltage level as determined by the utility's tariff classification.\n\n(b) The customer is a commercial or industrial customer to which both of the following apply:\n\n(i) The customer receives electricity through a meter of an end user or through more than one meter at a single location in a quantity that exceeds forty-five million kilowatt hours of electricity for the preceding calendar year.\n\n(ii) The customer has made a written request for registration as a self-assessing purchaser pursuant to section 5727.81 of the Revised Code.",
+      "id": "4928.6610-customer",
+      "normalized": "customer",
+      "scope": "As used in sections 4928.6611 to 4928.6615 of the Revised Code:",
+      "section": "4928.6610",
+      "source_title": "Section 4928.6610 - Definitions for R.C. 4928.6611 to 4928.6615.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4928.6610",
+      "term": "Customer"
+    },
+    {
+      "definition": "(B) \"Energy intensity\" means the amount of energy, from electricity, used or consumed per unit of production.",
+      "id": "4928.6610-energy-intensity",
+      "normalized": "energy intensity",
+      "scope": "As used in sections 4928.6611 to 4928.6615 of the Revised Code:",
+      "section": "4928.6610",
+      "source_title": "Section 4928.6610 - Definitions for R.C. 4928.6611 to 4928.6615.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4928.6610",
+      "term": "Energy intensity"
+    },
+    {
+      "definition": "(C) \"Portfolio plan\" means either of the following:\n\n(1) The comprehensive energy efficiency and peak-demand reduction program portfolio plan required under rules adopted by the public utilities commission and codified in Chapter 4901:1-39 of the Administrative Code or hereafter recodified or amended ;\n\n(2) Any plan implemented pursuant to division (G) of section 4928.66 of the Revised Code.\n\nLast updated September 9, 2024 at 10:26 AM",
+      "id": "4928.6610-portfolio-plan",
+      "normalized": "portfolio plan",
+      "scope": "As used in sections 4928.6611 to 4928.6615 of the Revised Code:",
+      "section": "4928.6610",
+      "source_title": "Section 4928.6610 - Definitions for R.C. 4928.6611 to 4928.6615.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4928.6610",
+      "term": "Portfolio plan"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "4928.6611",
+      "number": "4928.6611",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.6611"
+    },
+    {
+      "kind": "section",
+      "label": "4928.6615",
+      "number": "4928.6615",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.6615"
+    },
+    {
+      "kind": "section",
+      "label": "4928.01",
+      "number": "4928.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.01"
+    },
+    {
+      "kind": "section",
+      "label": "5727.81",
+      "number": "5727.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.81"
+    },
+    {
+      "kind": "section",
+      "label": "4928.66",
+      "number": "4928.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.66"
+    }
+  ],
+  "scraped": "2026-07-02T20:09:26+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4928.6610",
+  "title": "Section 4928.6610 - Definitions for R.C. 4928.6611 to 4928.6615."
+}

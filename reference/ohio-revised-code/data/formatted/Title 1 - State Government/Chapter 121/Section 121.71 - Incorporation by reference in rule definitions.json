@@ -1,0 +1,54 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Agency\" means an \"agency\" as defined in section 111.15 or 119.01 of the Revised Code.",
+      "id": "121.71-agency",
+      "normalized": "agency",
+      "scope": "As used in sections 121.71 to 121.75 of the Revised Code:",
+      "section": "121.71",
+      "source_title": "Section 121.71 - Incorporation by reference in rule definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-121.71",
+      "term": "Agency"
+    },
+    {
+      "definition": "(B) \"Rule\" means a new rule or an amendment to an existing rule. \"Rule\" includes an appendix to a rule.",
+      "id": "121.71-rule",
+      "normalized": "rule",
+      "scope": "As used in sections 121.71 to 121.75 of the Revised Code:",
+      "section": "121.71",
+      "source_title": "Section 121.71 - Incorporation by reference in rule definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-121.71",
+      "term": "Rule"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "121.71",
+      "number": "121.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.71"
+    },
+    {
+      "kind": "section",
+      "label": "121.75",
+      "number": "121.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.75"
+    },
+    {
+      "kind": "section",
+      "label": "111.15",
+      "number": "111.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-111.15"
+    },
+    {
+      "kind": "section",
+      "label": "119.01",
+      "number": "119.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-119.01"
+    }
+  ],
+  "scraped": "2026-07-02T19:31:35+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-121.71",
+  "title": "Section 121.71 - Incorporation by reference in rule definitions."
+}

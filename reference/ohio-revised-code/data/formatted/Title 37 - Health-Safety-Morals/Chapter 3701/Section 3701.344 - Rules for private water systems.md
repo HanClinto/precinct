@@ -1,0 +1,32 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3701.344
+Scraped: 2026-07-02T19:50:52+00:00
+
+# Section 3701.344 - Rules for private water systems.
+
+**Effective:** December 19, 2016
+
+**Latest Legislation:** House Bill 471 - 131st General Assembly
+
+(A) As used in this section and sections 3701.345 and 3701.347 of the Revised Code, "private water system" means any water system for the provision of water for human consumption, if the system has fewer than fifteen service connections and does not regularly serve an average of at least twenty-five individuals daily at least sixty days out of the year. "Private water system" includes any well, spring, cistern, pond, hauled water, or recycled water and any equipment for the collection, transportation, filtration, disinfection, treatment, or storage of such water extending from and including the source of the water to the point of discharge from any pressure tank or other storage vessel; to the point of discharge from the water pump where no pressure tank or other storage vessel is present; or, in the case of multiple service connections serving more than one dwelling, to the point of discharge from each service connection. "Private water system" does not include the water service line extending from the point of discharge to a structure.
+
+(B) Notwithstanding section 3701.347 of the Revised Code and subject to division (C) of this section, rules adopted by the director of health regarding private water systems shall provide for the following:
+
+(1) Except as otherwise provided in this division, boards of health of city or general health districts shall be given the exclusive power to establish fees in accordance with section 3709.09 of the Revised Code for administering and enforcing the rules. The fees shall establish a different rate for administering and enforcing the rules relative to private water systems serving single-family dwelling houses and nonsingle-family dwelling houses. Except for an amount established by the director, pursuant to division (B)(5) of this section, for each new private water system installation, no portion of any fee for administering and enforcing the rules shall be returned to the department of health. If the director of health determines that a board of health of a city or general health district is unable to administer and enforce a private water system program in the district, the director shall administer and enforce such a program in the district and establish fees for such administration and enforcement.
+
+(2) Boards of health of city or general health districts shall be given the exclusive power to determine the number of inspections necessary for determining the safe drinking characteristics of a private water system.
+
+(3) Private water systems contractors, as a condition of doing business in this state, shall annually register with, and comply with surety bonding requirements of, the department of health. No such contractor shall be permitted to register if the contractor fails to comply with all applicable rules adopted by the director and the board of health of the city or general health district. The annual registration fee for private water systems contractors shall be sixty-five dollars. The director, by rule adopted in accordance with Chapter 119. of the Revised Code, may increase the annual registration fee.
+
+(4) Subject to rules adopted by the director, boards of health of city or general health districts shall have the option of determining whether bacteriological examinations shall be performed at approved laboratories of the state or at approved private laboratories.
+
+(5) The director may establish fees for each new private water system installation, which shall be collected by the appropriate board of health and transmitted to the director pursuant to section 3709.092 of the Revised Code.
+
+(6) All fees received by the director of health under divisions (B)(1), (3), and (5) of this section shall be deposited in the state treasury to the credit of the general operations fund created in section 3701.83 of the Revised Code for use in the administration and enforcement of sections 3701.344 to 3701.347 of the Revised Code and the rules pertaining to private water systems adopted under those sections.
+
+(7) The director shall define "well," "spring," "cistern," "pond," "hauled water," and "recycled water" for purposes of this section and the rules adopted under it.
+
+(C) To the extent that rules adopted under division (B) of this section require health districts to follow specific procedures or use prescribed forms, no such procedure or form shall be implemented until it is approved by majority vote of an approval board of health commissioners, hereby created. Members of the board shall be the officers of the association of Ohio health commissioners, or any successor organization, and membership on the board shall be coterminous with holding an office of the association. No health district is required to follow a procedure or use a form required by a rule adopted under division (B) of this section without the approval of the board.
+
+(D) A board of health shall collect well log filing fees on behalf of the division of water resources in the department of natural resources in accordance with section 1521.05 of the Revised Code and rules adopted under it. The fees shall be submitted to the division quarterly as provided in those rules.
+
+(E) A water system that will be used in agriculture and that does not provide water for human consumption shall not be required to obtain a permit or license issued under, pay any fees assessed or levied under, or comply with any rule adopted under sections 3701.34 to 3701.347 of the Revised Code.

@@ -1,0 +1,26 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4561.06
+Scraped: 2026-07-02T20:06:00+00:00
+
+# Section 4561.06 - Department of transportation - powers and duties.
+
+**Effective:** July 1, 2013
+
+**Latest Legislation:** House Bill 51 - 130th General Assembly
+
+The department of transportation shall encourage the development of aviation and the promotion of aviation education and research within this state as, in its judgment, may best serve the public interest.
+
+The department may furnish engineering or other technical counsel and services, with or without charge therefor, to any appropriate government agency desiring such counsel or services in connection with any question or problem concerning the need for, or the location, construction, maintenance, or operation of airports, landing fields, or other air navigation facilities.
+
+The department shall be the official representative of this state in all civil actions, matters, or proceedings pertaining to aviation in which this state is a party or has an interest.
+
+The department may investigate, and may cooperate with any other appropriate government agency in the investigation of, any accident occurring in this state in connection with aviation. It may issue an order to preserve, protect, or prevent the removal of any aircraft or air navigation facility involved in an accident being so investigated until the investigation is completed. The chief executive officer or any law enforcement officer of this state or any political subdivision in which an accident occurred shall assist the department in enforcing such an order when called upon to do so.
+
+The department, in connection with any investigation it is authorized to conduct, or in connection with any matter it is required to consider and determine, may conduct hearings thereon. All such hearings shall be open to the public. The administrator of the office of aviation or those employees of that office or its agents who are designated to conduct such hearings may administer oaths and affirmations and issue subpoenas for and compel the attendance and testimony of witnesses and the production of papers, books, and documents at the hearings. In case of failure to comply with such a subpoena or refusal to testify, the administrator or the employees of the office of aviation or its agents who are designated to conduct the hearings may invoke the aid of the court of common pleas of the county in which the hearing is being conducted, and the court may order the witness to comply with the requirements of the subpoena or to give testimony concerning the matter in question. Failure to obey any order of the court may be punished as a contempt of the court.
+
+Reports of any investigations or hearings, or parts thereof, conducted by the department shall not be admitted in evidence or used for any purpose in any action or proceeding arising out of any matter referred to in the investigation, hearings, or report thereof, except in actions or proceedings instituted by the state or by the department on behalf of the state, nor shall any member of the department or any of its employees be required to testify to any facts ascertained in, or information obtained by reason of, the member's or employee's official capacity, or to testify as an expert witness in any action or proceeding involving or pertaining to aviation to which the state is not a party. Subject to this section, the department may make available to appropriate agencies of government any information and material developed in the course of its investigations and hearings.
+
+The department shall report to the appropriate agency of the United States all cases that come to its attention of persons navigating aircraft without a valid aviator's certificate, or in which an aircraft is navigated without a valid air-worthiness certificate in probable violation of the laws of the United States requiring such certificates, and it also shall report to the proper governmental agency any probable infringement or violation of laws, rules, and regulations pertaining to aviation that come to its attention.
+
+The department may prepare, adopt, and subsequently revise a plan showing the locations and types of airports, landing fields, and other air navigation facilities within this state; it also may prepare another plan of a system of airways within this state, the establishment, maintenance, and use of which will, in its judgment, serve the development of transportation by aircraft within this state in the best interests of the public. It may publish plans and pertinent information as the public interest requires.
+
+The department periodically may prepare, publish, and distribute such maps, charts, or other information as the public interest requires, showing the location of and containing a description of all airports, landing fields, and other air navigation facilities then in operation in this state, together with information concerning the manner in which, and the terms upon which, those facilities may be used, and showing all airways then in use, or recommended for use, within this state, together with information concerning the manner in which the facilities should be used.

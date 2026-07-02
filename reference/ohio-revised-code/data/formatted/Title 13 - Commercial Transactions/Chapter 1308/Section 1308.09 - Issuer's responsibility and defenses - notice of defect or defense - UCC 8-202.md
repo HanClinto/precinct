@@ -1,0 +1,26 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-1308.09
+Scraped: 2026-07-02T19:37:06+00:00
+
+# Section 1308.09 - Issuer's responsibility and defenses - notice of defect or defense - UCC 8-202.
+
+**Effective:** January 1, 1998
+
+**Latest Legislation:** House Bill 170 - 122nd General Assembly
+
+(A) Even against a purchaser for value and without notice, the terms of a certificated security include terms stated on the certificate and terms made part of the security by reference on the certificate to another instrument, indenture, or document or to a constitution, statute, ordinance, rule, regulation, order, or the like, to the extent the terms referred to do not conflict with the terms stated on the certificate. A reference under division (A) of this section does not of itself charge a purchaser for value with notice of a defect going to the validity of the security, even if the certificate expressly states that a person accepting it admits notice.
+
+The terms of an uncertificated security include those stated in any instrument, indenture, or document, or in a constitution, statute, ordinance, rule, regulation, order, or the like, pursuant to which the security is issued.
+
+(B) The following rules apply if an issuer asserts that a security is not valid:
+
+(1) A security, other than one issued by a government or governmental subdivision, agency, or instrumentality, even though issued with a defect going to its validity, is valid in the hands of a purchaser for value and without notice of the particular defect unless the defect involves a violation of a constitutional provision. In that case, the security is valid in the hands of a purchaser for value and without notice of the defect, other than one who takes by original issue.
+
+(2) The provisions of division (B)(1) of this section apply to an issuer that is a government or governmental subdivision, agency, or instrumentality only if there has been substantial compliance with the legal requirements governing the issue or the issuer has received a substantial consideration for the issue as a whole or for the particular security and a stated purpose of the issue is one for which the issuer has power to borrow money or issue the security.
+
+(C) Except as otherwise provided in section 1308.12 of the Revised Code, lack of genuineness of a certificated security is a complete defense, even against a purchaser for value and without notice.
+
+(D) All other defenses of the issuer of a security, including nondelivery and conditional delivery of a certificated security, are ineffective against a purchaser for value who has taken the certificated security without notice of the particular defense.
+
+(E) This section does not affect the right of a party to cancel a contract for a security "when, as and if issued" or "when distributed" in the event of a material change in the character of the security that is the subject of the contract or in the plan or arrangement pursuant to which the security is to be issued or distributed.
+
+(F) If a security is held by a securities intermediary against whom an entitlement holder has a security entitlement with respect to the security, the issuer may not assert any defense that the issuer could not assert if the entitlement holder held the security directly.

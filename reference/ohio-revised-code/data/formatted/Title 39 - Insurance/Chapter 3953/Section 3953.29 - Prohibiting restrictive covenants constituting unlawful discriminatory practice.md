@@ -1,0 +1,10 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3953.29
+Scraped: 2026-07-02T20:03:22+00:00
+
+# Section 3953.29 - Prohibiting restrictive covenants constituting unlawful discriminatory practice.
+
+**Effective:** March 30, 1999
+
+**Latest Legislation:** Senate Bill 83 - 122nd General Assembly
+
+On and after the effective date of this section, in connection with any transfer of registered land that occurs on or after that date in accordance with Chapters 5309. and 5310. of the Revised Code, no title insurance company shall write a policy or contract of title insurance that includes any specific reference to any restrictive covenant that appears to apply to the transferred registered land, if any inclusion of the restrictive covenant in a transfer, rental, or lease of housing accommodations, any honoring or exercising of the restrictive covenant, or any attempt to honor or exercise the restrictive covenant constitutes an unlawful discriminatory practice under division (H)(9) of section 4112.02 of the Revised Code. On and after the effective date of this section, if a policy or contract of title insurance written by a title insurance company in connection with any transfer of registered land that occurs on or after that date in accordance with Chapters 5309. and 5310. of the Revised Code includes a general or catch-all reference to easements, estates, liens, encumbrances, charges, rights, or restrictions of record, the general or catch-all reference shall be regarded by the parties to the transfer of the registered land and their successors in interest and shall be deemed for all legal purposes to refer to and incorporate by reference easements, estates, liens, encumbrances, charges, rights, and restrictions of record other than a restrictive covenant the inclusion of which in a transfer, rental, or lease of housing accommodations, the honoring or exercising of which, or the attempt to honor or exercise of which constitutes an unlawful discriminatory practice under division (H)(9) of section 4112.02 of the Revised Code.

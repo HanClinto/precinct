@@ -1,0 +1,48 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3311.71
+Scraped: 2026-07-02T19:48:34+00:00
+
+# Section 3311.71 - Members of new municipal school district board to be appointed by mayor - candidates selected by nominating panel.
+
+**Effective:** October 3, 2023
+
+**Latest Legislation:** House Bill 33 - 135th General Assembly
+
+(A) As used in this section and in sections 3311.72 to 3311.87 of the Revised Code:
+
+(1) "Municipal school district" means a school district that is or has ever been under a federal court order requiring supervision and operational, fiscal, and personnel management of the district by the superintendent of public instruction prior to the effective date of this amendment or by the director of education and workforce on and after the effective date of this amendment.
+
+(2) "Mayor" means the mayor of the municipal corporation containing the greatest portion of a municipal school district's territory.
+
+(B) Whenever any municipal school district is released by a federal court from an order requiring supervision and operational, fiscal, and personnel management of the district by the state superintendent or director of education and workforce, the management and control of that district shall be assumed, effective immediately, by a new nine-member board of education. Members of the new board shall be appointed by the mayor, who shall also designate one member as the chairperson of the board. In addition to the rights, authority, and duties conferred upon the chairperson by sections 3311.71 to 3311.87 of the Revised Code, the chairperson shall have all the rights, authority, and duties conferred upon the president of a board of education by the Revised Code that are not inconsistent with sections 3311.71 to 3311.87 of the Revised Code.
+
+(C) No school board member shall be appointed by the mayor pursuant to division (B) of this section until the mayor has received a slate of at least eighteen candidates nominated by a municipal school district nominating panel, at least three of whom reside in the municipal school district but not in the municipal corporation containing the greatest portion of the district's territory. The municipal school district nominating panel shall be initially convened and chaired by the state superintendent or director, who shall serve as a nonvoting member for the first two years of the panel's existence, and shall consist of eleven persons selected as follows:
+
+(1) Three parents or guardians of children attending the schools of the municipal school district appointed by the district parent-teacher association, or similar organization selected by the state superintendent or director;
+
+(2) Three persons appointed by the mayor;
+
+(3) One person appointed by the president of the legislative body of the municipal corporation containing the greatest portion of the municipal school district's territory;
+
+(4) One teacher appointed by the collective bargaining representative of the school district's teachers;
+
+(5) One principal appointed through a vote of the school district's principals, which vote shall be conducted by the state superintendent or director;
+
+(6) One representative of the business community appointed by an organized collective business entity selected by the mayor;
+
+(7) One president of a public or private institution of higher education located within the municipal school district appointed by the state superintendent or director.
+
+The municipal school district nominating panel shall select one of its members as its chairperson commencing two years after the date of the first meeting of the panel, at which time the state superintendent or director shall no longer convene or chair the panel. Thereafter, the panel shall meet as necessary to make nominations at the call of the chairperson. All members of the panel shall serve at the pleasure of the appointing authority. Vacancies on the panel shall be filled in the same manner as the initial appointments.
+
+(D) No individual shall be appointed by the mayor pursuant to division (B) or (F) of this section unless the individual has been nominated by the nominating panel, resides in the school district, and holds no elected public office. At any given time, four of the nine members appointed by the mayor to serve on the board pursuant to either division (B) or (F) of this section shall have displayed, prior to appointment, significant expertise in either the education field, finance, or business management. At all times at least one member of the board shall be an individual who resides in the municipal school district but not in the municipal corporation containing the greatest portion of the district's territory.
+
+(E) The terms of office of all members appointed by the mayor pursuant to division (B) of this section shall expire on the next thirtieth day of June following the referendum election required by section 3311.73 of the Revised Code. The mayor may, with the advice and consent of the nominating panel, remove any member appointed pursuant to that division or division (F) of this section for cause.
+
+(F) If the voters of the district approve the continuation of an appointed board at the referendum election required by section 3311.73 of the Revised Code, the mayor shall appoint the members of a new board from a slate prepared by the nominating panel in the same manner as the initial board was appointed pursuant to divisions (B), (C), and (D) of this section. Five of the members of the new board shall be appointed to four-year terms and the other four shall be appointed to two-year terms, each term beginning on the first day of July. Thereafter, the mayor shall appoint members to four-year terms in the same manner as described in divisions (B), (C), and (D) of this section. The minimum number of individuals who shall be on the slate prepared by the nominating panel for this purpose shall be at least twice the number of members to be appointed, including at least two who reside in the municipal school district but not in the municipal corporation containing the greatest portion of the district's territory.
+
+(G) In addition to the nine members appointed by the mayor, the boards appointed pursuant to divisions (B) and (F) of this section shall include the following nonvoting ex officio members:
+
+(1) If the main campus of a state university specified in section 3345.011 of the Revised Code is located within the municipal school district, the president of the university or the president's designee;
+
+(2) If any community college has its main branch located within the district, the president of the community college that has the largest main branch within the district, or the president's designee.
+
+Last updated August 22, 2023 at 11:27 AM

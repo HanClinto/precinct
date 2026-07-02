@@ -1,0 +1,10 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-315.14
+Scraped: 2026-07-02T19:32:45+00:00
+
+# Section 315.14 - Inspection - records - surveys.
+
+**Effective:** June 29, 2005
+
+**Latest Legislation:** House Bill 68 - 126th General Assembly
+
+The county engineer shall be responsible for the inspection of all public improvements made under authority of the board of county commissioners. The engineer shall keep in suitable books a complete record of all estimates and summaries of bids received and contracts for the various improvements, together with the record of all estimates made for payments on that work. The engineer shall make all surveys required by law, shall perform all necessary services to be performed by a registered surveyor or registered professional engineer in connection with the construction, repair, or opening of all county roads or ditches constructed under the authority of the board, and shall perform other duties as the board requires, provided that the duties described in sections 307.37 and 307.38 and Chapters 343., 6103., and 6117. of the Revised Code shall be performed only pursuant to an agreement between the county engineer and the board. An agreement of that type may provide for the county engineer's performance of duties described in one or more of those sections or chapters, and may provide for the county engineer's performance of all duties imposed upon a county sanitary engineer under Chapters 6103. and 6117. of the Revised Code or only the duties imposed upon a county sanitary engineer under Chapter 6117. of the Revised Code in relation to drainage. The board shall determine the compensation for performance of the relevant duties described in sections 307.37 and 307.38 and Chapters 343., 6103., and 6117. of the Revised Code and shall pay the county engineer from funds available under the applicable section or chapter or from the general fund of the county. The performance of the relevant duties described in sections 307.37 and 307.38 and Chapters 343., 6103., and 6117. of the Revised Code shall not constitute engaging in the private practice of engineering or surveying.

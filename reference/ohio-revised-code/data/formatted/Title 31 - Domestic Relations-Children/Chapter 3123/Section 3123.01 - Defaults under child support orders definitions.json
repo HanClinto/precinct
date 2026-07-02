@@ -1,0 +1,48 @@
+{
+  "glossary": [
+    {
+      "definition": "(C) \"Default notice\" means the notice required by section 3123.03 of the Revised Code.",
+      "id": "3123.01-default-notice",
+      "normalized": "default notice",
+      "scope": "As used in this chapter:",
+      "section": "3123.01",
+      "source_title": "Section 3123.01 - Defaults under child support orders definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3123.01",
+      "term": "Default notice"
+    },
+    {
+      "definition": "(D) \"Period of default\" means the period beginning on the date a default under a support order is identified and ending on the date the total arrearage amount owed under the order is paid.",
+      "id": "3123.01-period-of-default",
+      "normalized": "period of default",
+      "scope": "As used in this chapter:",
+      "section": "3123.01",
+      "source_title": "Section 3123.01 - Defaults under child support orders definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3123.01",
+      "term": "Period of default"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3119.01",
+      "number": "3119.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.01"
+    },
+    {
+      "kind": "section",
+      "label": "3121.01",
+      "number": "3121.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3121.01"
+    },
+    {
+      "kind": "section",
+      "label": "3123.03",
+      "number": "3123.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.03"
+    }
+  ],
+  "scraped": "2026-07-02T19:48:00+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3123.01",
+  "title": "Section 3123.01 - Defaults under child support orders definitions."
+}

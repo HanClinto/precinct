@@ -1,0 +1,1347 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 122.01 - Department of development definitions.",
+      "number": "122.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.011 - Department of development powers and duties.",
+      "number": "122.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.011"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.012 - Regional state agency for jobs and employment opportunities.",
+      "number": "122.012",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.012"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.013 - Required postings on official internet site.",
+      "number": "122.013",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.013"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.014 - Financial assistance for gaming activities.",
+      "number": "122.014",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.014"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.02 - Applying for federal and private assistance and contracts.",
+      "number": "122.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.03 - Duties of department - research facilities.",
+      "number": "122.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.04 - Additional duties.",
+      "number": "122.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.041 - Duties of director of development as to encouraging diversity, growth, and equity program.",
+      "number": "122.041",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.041"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.042 - Foundation of employment opportunity program.",
+      "number": "122.042",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.042"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.05 - Offices in foreign countries.",
+      "number": "122.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.051 - International trade cooperative projects fund.",
+      "number": "122.051",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.051"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.06 - Planning duties.",
+      "number": "122.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.07 - Office of TourismOhio.",
+      "number": "122.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.071 - TourismOhio advisory board.",
+      "number": "122.071",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.071"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.072 - Tourism fund.",
+      "number": "122.072",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.072"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.073 - Promoting state of Ohio.",
+      "number": "122.073",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.073"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.075 - Alternative fuel transportation grant program.",
+      "number": "122.075",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.075"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.076 - Alternative fuel vehicle conversion program.",
+      "number": "122.076",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.076"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.077 - Energy star rebate program.",
+      "number": "122.077",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.077"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.08 - Office of small business - powers and duties.",
+      "number": "122.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.081 - Small business register.",
+      "number": "122.081",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.081"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.082 - Low-interest loans to small businesses.",
+      "number": "122.082",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.082"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.083 - Shovel ready sites program - fund.",
+      "number": "122.083",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.083"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.085 - Job ready site program - definitions.",
+      "number": "122.085",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.085"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.086 - Job ready site program.",
+      "number": "122.086",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.086"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.087 - Annual competitive process for grants under program.",
+      "number": "122.087",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.087"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.088 - Annual competitive process grant application.",
+      "number": "122.088",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.088"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.089 - Grant application contents.",
+      "number": "122.089",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.089"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.0810 - Grant application evaluation - prioritization - notice of deficiencies.",
+      "number": "122.0810",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.0810"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.0811 - Completeness of application and eligibility of project.",
+      "number": "122.0811",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.0811"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.0812 - Discretionary grants outside annual competitive process.",
+      "number": "122.0812",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.0812"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.0813 - Evaluation of discretionary grant application.",
+      "number": "122.0813",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.0813"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.0814 - Approval of grant - agreement with applicant.",
+      "number": "122.0814",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.0814"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.0815 - Project requirements for consideration for grant.",
+      "number": "122.0815",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.0815"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.0816 - Project priority under annual competitive process.",
+      "number": "122.0816",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.0816"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.0817 - Annual program report by director.",
+      "number": "122.0817",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.0817"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.0819 - Allowance of recovery of committee costs.",
+      "number": "122.0819",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.0819"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.0820 - Job site ready development fund.",
+      "number": "122.0820",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.0820"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.09 - Transformational mixed use development tax credit.",
+      "number": "122.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.10 - Cooperation and coordination with other state departments and agencies.",
+      "number": "122.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.11 - Classified and unclassified employees.",
+      "number": "122.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.12 - Definitions.",
+      "number": "122.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.121 - Site selection for major sporting event.",
+      "number": "122.121",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.121"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.122 - Sports event grant fund.",
+      "number": "122.122",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.122"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.13 - Definitions.",
+      "number": "122.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.131 - Employee ownership assistance program.",
+      "number": "122.131",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.131"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.132 - Duties of director of development.",
+      "number": "122.132",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.132"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.133 - Boards to assist employee ownership assistance program.",
+      "number": "122.133",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.133"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.134 - Feasibility study.",
+      "number": "122.134",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.134"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.135 - Assistance in studying feasibility of employee-owned corporation.",
+      "number": "122.135",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.135"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.136 - Annual report.",
+      "number": "122.136",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.136"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.14 - Roadwork development fund.",
+      "number": "122.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.15 - Definitions for sections 122.151 to 122.156.",
+      "number": "122.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.151 - Certification as a rural business growth fund.",
+      "number": "122.151",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.151"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.152 - Tax credit.",
+      "number": "122.152",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.152"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.153 - Tax credit certificates; recapture of tax credits.",
+      "number": "122.153",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.153"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.154 - Reports.",
+      "number": "122.154",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.154"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.155 - State reimbursement amount.",
+      "number": "122.155",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.155"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.156 - Written opinion.",
+      "number": "122.156",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.156"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.16 - Economic redevelopment of distressed area.",
+      "number": "122.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.161 - Designation of priority investment areas.",
+      "number": "122.161",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.161"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.17 - Grants to foster job creation.",
+      "number": "122.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.171 - Tax credits to foster job retention.",
+      "number": "122.171",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.171"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.172 - Manufacturing equipment grant program.",
+      "number": "122.172",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.172"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.173 - Grant against tax for new manufacturing machinery purchase.",
+      "number": "122.173",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.173"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.174 - Tax incentives operating fund.",
+      "number": "122.174",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.174"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.175 - Tax exemption for sale, storage, use, or other consumption of computer data center equipment.",
+      "number": "122.175",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.175"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.176 - Grants for employers that move into a previously vacant facility.",
+      "number": "122.176",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.176"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.177 - Career exploration internship program.",
+      "number": "122.177",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.177"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.178 - TechCred program.",
+      "number": "122.178",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.178"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.179 - Industry sector partnerships.",
+      "number": "122.179",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.179"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.1710 - Individual microcredential assistance program.",
+      "number": "122.1710",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.1710"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.1711 - Report to legislature.",
+      "number": "122.1711",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.1711"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.1712 - Platinum provider program.",
+      "number": "122.1712",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.1712"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.1713 - Institutional platinum provider program.",
+      "number": "122.1713",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.1713"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.18 - Annual payments to landlord for projects creating new jobs.",
+      "number": "122.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.19 - Urban and rural initiative grant program definitions.",
+      "number": "122.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.20 - Urban and rural initiative grant program.",
+      "number": "122.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.21 - Urban and rural initiative grant program definitions.",
+      "number": "122.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.22 - Grant eligibility.",
+      "number": "122.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.23 - Rural industrial park loan program definitions.",
+      "number": "122.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.24 - Rural industrial park loan program.",
+      "number": "122.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.25 - Administration of program - park use.",
+      "number": "122.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.26 - Rural industrial park loan fund.",
+      "number": "122.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.27 - Eligibility for financial assistance.",
+      "number": "122.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.28 - Industrial technology and enterprise advisory council definitions.",
+      "number": "122.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.29 - Ohio river commission.",
+      "number": "122.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.291 - Commission duties.",
+      "number": "122.291",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.291"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.292 - Ohio river commission fund.",
+      "number": "122.292",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.292"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.30 - Powers and duties.",
+      "number": "122.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.31 - Payment sources for expenses and obligations.",
+      "number": "122.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.32 - Accepting using contributions.",
+      "number": "122.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.33 - Director of Development program administration.",
+      "number": "122.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.34 - Purposes.",
+      "number": "122.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.35 - Depositing receipts.",
+      "number": "122.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.36 - Confidential information.",
+      "number": "122.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.37 - Steel futures program.",
+      "number": "122.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.38 - Small business innovation research grant program.",
+      "number": "122.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.39 - Definitions for R.C. 122.41 to 122.62.",
+      "number": "122.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.40 - Definitions for R.C. 122.40 to 122.4077 - residential broadband expansion.",
+      "number": "122.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.401 - Residential broadband expansion grant program.",
+      "number": "122.401",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.401"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.403 - Broadband expansion program authority.",
+      "number": "122.403",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.403"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.406 - Authority consideration of program applications.",
+      "number": "122.406",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.406"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.407 - Authority duties.",
+      "number": "122.407",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.407"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.408 - Authority hearings.",
+      "number": "122.408",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.408"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.4010 - Authority annual report of findings and recommendations.",
+      "number": "122.4010",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.4010"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.4013 - Grant applications by broadband providers.",
+      "number": "122.4013",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.4013"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.4015 - Grants only for eligible projects.",
+      "number": "122.4015",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.4015"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.4016 - Ineligible projects.",
+      "number": "122.4016",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.4016"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.4017 - Funds for grants.",
+      "number": "122.4017",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.4017"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.4018 - Grants limited by available funds.",
+      "number": "122.4018",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.4018"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.4019 - Application submission.",
+      "number": "122.4019",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.4019"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.4020 - Application requirements.",
+      "number": "122.4020",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.4020"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.4021 - Conditions for grants.",
+      "number": "122.4021",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.4021"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.4023 - Proprietary or trade secret evaluations.",
+      "number": "122.4023",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.4023"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.4024 - Notification of published applications.",
+      "number": "122.4024",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.4024"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.4025 - Video service provider fees contributed to funding gap.",
+      "number": "122.4025",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.4025"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.4030 - Application challenges.",
+      "number": "122.4030",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.4030"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.4031 - Evidence sufficient to successfully challenge.",
+      "number": "122.4031",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.4031"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.4032 - Limited effect if grant application not challenged.",
+      "number": "122.4032",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.4032"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.4033 - Authority actions regarding a challenge.",
+      "number": "122.4033",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.4033"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.4034 - Revision, resubmission of successfully challenged applications.",
+      "number": "122.4034",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.4034"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.4035 - Review of resubmitted applications.",
+      "number": "122.4035",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.4035"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.4036 - Sanctions for challenging provider's failure to provide service.",
+      "number": "122.4036",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.4036"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.4037 - Disposition of sanction amounts.",
+      "number": "122.4037",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.4037"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.4040 - Weighted scoring system for applications.",
+      "number": "122.4040",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.4040"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.4041 - Weighted scoring system priorities.",
+      "number": "122.4041",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.4041"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.4043 - Grant awards.",
+      "number": "122.4043",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.4043"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.4044 - Grant disbursement.",
+      "number": "122.4044",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.4044"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.4045 - Speed verification tests.",
+      "number": "122.4045",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.4045"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.4046 - Noncompliance with requirements.",
+      "number": "122.4046",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.4046"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.4050 - County request application solicitation.",
+      "number": "122.4050",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.4050"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.4051 - Solicitation on behalf of county.",
+      "number": "122.4051",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.4051"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.4053 - Response application compliance.",
+      "number": "122.4053",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.4053"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.4055 - No responsibility for lack of response.",
+      "number": "122.4055",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.4055"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.4060 - Grant required for eligible project to proceed.",
+      "number": "122.4060",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.4060"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.4061 - Financial responsibility before project completion.",
+      "number": "122.4061",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.4061"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.4063 - Ownership or transfer of broadband infrastructure.",
+      "number": "122.4063",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.4063"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.4070 - Annual and operational reports.",
+      "number": "122.4070",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.4070"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.4071 - Report contents and public availability.",
+      "number": "122.4071",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.4071"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.4073 - Due date and extensions for reports.",
+      "number": "122.4073",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.4073"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.4075 - Reports, documents confidential.",
+      "number": "122.4075",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.4075"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.4076 - Annual program report by Authority.",
+      "number": "122.4076",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.4076"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.4077 - Residential broadband expansion grant rules.",
+      "number": "122.4077",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.4077"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.41 - Director's powers and duties under Chapter 122.",
+      "number": "122.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.42 - Director's powers and duties under R.C. 122.41 to 122.62.",
+      "number": "122.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.43 - Lending funds.",
+      "number": "122.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.44 - Terms of loans.",
+      "number": "122.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.45 - Loans to political subdivisions.",
+      "number": "122.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.46 - Purchase, sale, improvement of property for industrial, commercial, distribution or research facilities.",
+      "number": "122.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.47 - Issuing bonds.",
+      "number": "122.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.48 - Issuing revenue bonds.",
+      "number": "122.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.49 - Using bond proceeds.",
+      "number": "122.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.50 - Bonds not a debt of state.",
+      "number": "122.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.51 - Bonds are lawful investments.",
+      "number": "122.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.52 - Issuing revenue refunding bonds.",
+      "number": "122.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.53 - Bonds secured by trust agreements.",
+      "number": "122.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.54 - Direct loan program fund.",
+      "number": "122.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.571 - Revenue bond guaranty fund.",
+      "number": "122.571",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.571"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.58 - Investing funds.",
+      "number": "122.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.59 - Proceedings in default.",
+      "number": "122.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.60 - Capital access loan program definitions.",
+      "number": "122.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.601 - Capital access loan program fund.",
+      "number": "122.601",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.601"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.602 - Capital access loan program.",
+      "number": "122.602",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.602"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.603 - Program reserve account.",
+      "number": "122.603",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.603"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.604 - Recovering delinquent loan amount from program reserve account.",
+      "number": "122.604",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.604"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.605 - Annual report.",
+      "number": "122.605",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.605"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.61 - Tax exemptions.",
+      "number": "122.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.62 - Keeping funds in depositories selected by director.",
+      "number": "122.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.63 - Housing needs.",
+      "number": "122.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.631 - Grant for land bank acquisitions of residential property.",
+      "number": "122.631",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.631"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.632 - Grant for land bank rehabilitation of residential property.",
+      "number": "122.632",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.632"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.633 - Tax credit for constructing or rehabilitating affordable housing.",
+      "number": "122.633",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.633"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.636 - Workforce housing project grants.",
+      "number": "122.636",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.636"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.64 - Business services division.",
+      "number": "122.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.641 - The lakes in economic distress revolving loan program.",
+      "number": "122.641",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.641"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.6510 - Brownfields Revolving Loan Fund.",
+      "number": "122.6510",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.6510"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.6511 - Brownfield remediation program.",
+      "number": "122.6511",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.6511"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.6512 - Building demolition and site revitalization program.",
+      "number": "122.6512",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.6512"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.71 - Minority development financing advisory board definitions.",
+      "number": "122.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.72 - Minority development financing advisory board.",
+      "number": "122.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.73 - Powers and duties.",
+      "number": "122.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.74 - Director of development - powers and duties.",
+      "number": "122.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.74"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.75 - Director of development - duties regarding minority programs.",
+      "number": "122.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.751 - Certifying loan applicants.",
+      "number": "122.751",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.751"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.76 - Loan criteria.",
+      "number": "122.76",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.76"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.77 - Loan guarantees.",
+      "number": "122.77",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.77"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.78 - Terms, conditions, and provisions of loans and guarantees.",
+      "number": "122.78",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.78"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.79 - Tax exemptions.",
+      "number": "122.79",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.79"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.80 - Minority business enterprise loan fund.",
+      "number": "122.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.80"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.81 - Default on loan, guarantee, or lease.",
+      "number": "122.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.82 - Moneys, funds, properties, and assets held in trust.",
+      "number": "122.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.82"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.83 - Prohibiting misrepresentation.",
+      "number": "122.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.83"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.84 - Tax credit for investors in multiple qualified opportunity funds.",
+      "number": "122.84",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.84"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.85 - Tax credit-eligible productions.",
+      "number": "122.85",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.85"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.851 - Certification as Ohio venture capital operating company.",
+      "number": "122.851",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.851"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.86 - Small business investment certificate; tax credit.",
+      "number": "122.86",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.86"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.861 - Diesel emissions reduction grant and loan programs.",
+      "number": "122.861",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.861"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.862 - SellOhio global initiative fund.",
+      "number": "122.862",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.862"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.87 - Minority business bonding program definitions.",
+      "number": "122.87",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.87"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.88 - Minority business bonding fund - minority business bonding program administrative and loss reserve fund.",
+      "number": "122.88",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.88"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.89 - Executing bonds as surety.",
+      "number": "122.89",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.89"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.90 - Guarantee of bonds executed by sureties for minority businesses and EDGE business enterprises.",
+      "number": "122.90",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.90"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.91 - Commercial driver training certificate; tax credit.",
+      "number": "122.91",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.91"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.92 - Minority business development division.",
+      "number": "122.92",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.92"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.921 - [Former R.C. 123.151, amended and renumbered by H.B. 110, 134th General Assembly, effective 9/30/2021] Rules for certification as minority business enterprises; state agency, port authority reports.",
+      "number": "122.921",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.921"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.922 - [Former R.C. 123.152, amended and renumbered by H.B. 110, 134th General Assembly, effective 9/30/2021] Encouraging diversity, growth, and equity program.",
+      "number": "122.922",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.922"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.923 - [Former R.C. 123.153, amended and renumbered by H.B. 110, 134th General Assembly, effective 9/30/2021] Report on programs.",
+      "number": "122.923",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.923"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.924 - [Former R.C 123.154, amended and renumbered by H.B. 110, 134th General Assembly, effective 9/30/2021] Women-owned business enterprise program.",
+      "number": "122.924",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.924"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.925 - [Former R.C. 9.318, amended and renumbered by H.B. 110, 134th General Assembly, effective 9/30/2021] Veteran-friendly business procurement program.",
+      "number": "122.925",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.925"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.93 - Accepting gifts and other aid.",
+      "number": "122.93",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.93"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.94 - Rules - annual report.",
+      "number": "122.94",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.94"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.941 - Annual report.",
+      "number": "122.941",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.941"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.942 - Project information to be made public.",
+      "number": "122.942",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.942"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.95 - Definitions - industrial site improvement fund grants.",
+      "number": "122.95",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.95"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.951 - Grants from industrial site improvement fund.",
+      "number": "122.951",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.951"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.9511 - SiteOhio certification program.",
+      "number": "122.9511",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.9511"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.9512 - SiteOhio administration fund.",
+      "number": "122.9512",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.9512"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.96 - Delegation of authority.",
+      "number": "122.96",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.96"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.97 - Private activity bond state ceiling allocation.",
+      "number": "122.97",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.97"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.98 - Residential development revolving loan program.",
+      "number": "122.98",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.98"
+    },
+    {
+      "kind": "section",
+      "label": "Section 122.981 - Residential development revolving loan fund.",
+      "number": "122.981",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.981"
+    }
+  ],
+  "scraped": "2026-07-02T19:31:37+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-122",
+  "title": "Chapter 122 - Department of Development"
+}

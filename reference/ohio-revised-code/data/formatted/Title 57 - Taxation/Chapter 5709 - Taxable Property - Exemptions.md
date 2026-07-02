@@ -1,0 +1,114 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-5709
+Scraped: 2026-07-02T20:14:27+00:00
+
+# Chapter 5709 - Taxable Property - Exemptions
+
+## Sections
+
+- Section 5709.01 - Taxable property entered on general tax list and duplicate.
+- Section 5709.02 - Taxable property to be entered on classified tax list and duplicate.
+- Section 5709.03 - Fixing situs of certain classes of property within or without this state.
+- Section 5709.04 - Exemption of intangible property.
+- Section 5709.041 - Exemption of certain deposits.
+- Section 5709.05 - When former public lands become taxable.
+- Section 5709.06 - Valuation, special assessment, and issuance of notes relative to public land under lease renewable forever.
+- Section 5709.07 - Exemption of schools, churches, and colleges.
+- Section 5709.08 - Exemption of government and public property.
+- Section 5709.081 - Exempting public recreational facility used for athletic events.
+- Section 5709.082 - Distribution of municipal income tax revenues from new employees at major league facilities.
+- Section 5709.083 - Exemption for eligible county projects.
+- Section 5709.084 - Exemption of convention centers.
+- Section 5709.09 - Exemption of nature preserves and environmental projects.
+- Section 5709.10 - Exemption of public property.
+- Section 5709.101 - Exemptions for certain real property.
+- Section 5709.11 - Exemption of municipal utility works.
+- Section 5709.111 - Exemption of property used exclusively in treatment, distribution, and sale of water to consumers.
+- Section 5709.112 - Exemption of tangible personal property used in oil or gas recovery.
+- Section 5709.12 - Exemption of property used for public or charitable purposes.
+- Section 5709.121 - Exclusive charitable or public purposes defined.
+- Section 5709.13 - Exemption of property used as children's homes.
+- Section 5709.14 - Exemption of graveyards.
+- Section 5709.15 - Exemption of veterans funds and monuments.
+- Section 5709.16 - Exemption of monuments and memorials.
+- Section 5709.17 - Exemption of property of memorial or cemetery associations or veterans' organizations.
+- Section 5709.18 - Exemption of prehistoric earthworks or historic buildings.
+- Section 5709.19 - Deduction for domestic animals.
+- Section 5709.20 - Air or noise pollution control certificate - definitions.
+- Section 5709.201 - Continuation of certificates.
+- Section 5709.21 - Air or noise pollution control certificate.
+- Section 5709.211 - Opinion of a director required before issuance of exempt facility certificate.
+- Section 5709.212 - Fees for exempt facility certificate.
+- Section 5709.22 - Tax commissioner - powers and duties.
+- Section 5709.24 - Tax commissioner to adopt rules.
+- Section 5709.25 - Exemption of pollution control facilities.
+- Section 5709.26 - Revocation of certificate due to fraud or misrepresentation - penalties.
+- Section 5709.27 - Transfer of exemption certificate.
+- Section 5709.28 - Percentage of taxable value of agricultural security area land may be exempt.
+- Section 5709.40 - Declaration that improvements constitute public purpose - blighted areas.
+- Section 5709.41 - Declaration that improvements constitute public purpose.
+- Section 5709.411 - Declaration that improvements constitute public purpose - detached areas.
+- Section 5709.42 - Annual service payments in lieu of taxes.
+- Section 5709.43 - Municipal public improvement tax increment equivalent fund - urban redevelopment tax increment equivalent fund.
+- Section 5709.431 - [Former Section 803.210 of H.B. 110, 134th General Assembly, amended by S.B. 225, 134th General Assembly, and codified as R.C. 5709.431 pursuant to R.C. 103.131] Applicability of R.C. 5709.40 and 5709.41.
+- Section 5709.44 - Foreign trade zone exemption.
+- Section 5709.45 - Downtown redevelopment districts.
+- Section 5709.46 - Annual service payments in lieu of taxes.
+- Section 5709.47 - Municipal downtown redevelopment district fund.
+- Section 5709.48 - Transportation financing districts; creation.
+- Section 5709.481 - Voluntary assessments.
+- Section 5709.49 - Service payments.
+- Section 5709.50 - Regional transportation improvement project fund.
+- Section 5709.51 - Extension of exemption from taxation of improvements.
+- Section 5709.511 - Expiring tax increment financing extension.
+- Section 5709.52 - Exemption from taxation for increase in value for newly developable or redevelopment property.
+- Section 5709.53 - Exemption of solar, wind or hydrothermal energy system and of certain energy facilities.
+- Section 5709.55 - Grape products - personal property exemption.
+- Section 5709.56 - Residential development land exemption.
+- Section 5709.57 - Agreements with qualifying athletic complexes.
+- Section 5709.61 - Enterprise zone definitions.
+- Section 5709.62 - Designation of enterprise zones by municipal corporations.
+- Section 5709.63 - Designation of enterprise zones by counties.
+- Section 5709.631 - Requirements for agreements.
+- Section 5709.632 - Designation of enterprise zones by central city of metropolitan statistical area.
+- Section 5709.633 - Enterprise relocating from another Ohio location.
+- Section 5709.634 - Waiver of retail facilities exclusion.
+- Section 5709.64 - Applying for tax incentive qualification certificate.
+- Section 5709.65 - Entitlement to tax incentives.
+- Section 5709.66 - Applying for employee tax credit certificate.
+- Section 5709.67 - Duties of director of development and tax commissioner.
+- Section 5709.671 - Policy of retaining existing or creating new employment opportunities.
+- Section 5709.68 - Report on all agreements in effect.
+- Section 5709.69 - Notice of intent to relocate.
+- Section 5709.71 - Exemption of port authority property leased to railroad - annual payments.
+- Section 5709.72 - Exemption for library technology development.
+- Section 5709.73 - Exemption for increase in property value due to public infrastructure improvement.
+- Section 5709.74 - Annual service payments in lieu of taxes.
+- Section 5709.75 - Township public improvement tax increment equivalent fund.
+- Section 5709.76 - Exempting public obligations and purchase obligations.
+- Section 5709.77 - County public infrastructure improvement definitions.
+- Section 5709.78 - Exemption for increase in property value due to county public infrastructure improvement.
+- Section 5709.79 - Annual service payments in lieu of taxes.
+- Section 5709.80 - Redevelopment tax equivalent fund.
+- Section 5709.81 - County bonds or notes to finance public infrastructure improvement.
+- Section 5709.82 - Compensating school district for revenues lost due to tax exemptions.
+- Section 5709.83 - Notifying school district of proposed tax exemption.
+- Section 5709.831 - Reimbursing local taxing authorities.
+- Section 5709.832 - Nondiscriminatory hiring practices in operations of business granted tax exemption.
+- Section 5709.84 - Exemption for local railroad operation.
+- Section 5709.85 - Tax incentive review council.
+- Section 5709.86 - Exemption for abandoned school property.
+- Section 5709.87 - Exempting increase in assessed value of realty cleaned of contamination.
+- Section 5709.88 - Tax incentives to promote employment and improve economic climate.
+- Section 5709.881 - Local agreements.
+- Section 5709.882 - Report of local agreements.
+- Section 5709.883 - Tax incentive review council - cleanup of contamination.
+- Section 5709.89 - Residential development loan exemption and payments.
+- Section 5709.91 - Service payments in lieu of taxes.
+- Section 5709.911 - Exemptions.
+- Section 5709.912 - Administrative rules.
+- Section 5709.913 - Increases in assessed value of real property located within a municipal incentive district.
+- Section 5709.914 - Increases in assessed value of real property located within a county incentive district.
+- Section 5709.915 - Application of amendments to R.C. 5709.91 by S.B. 57 of the 134th General Assembly [codified from Section 6 of S.B. 57, 134th General Assembly, pursuant to R.C. 103.131].
+- Section 5709.916 - Concurrent municipal tax increment financing exemptions.
+- Section 5709.92 - Ranking of school districts by capacity.
+- Section 5709.93 - Computation of payments for operating fixed-rate levy losses of local taxing units and public libraries.

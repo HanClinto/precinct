@@ -1,0 +1,62 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Eligible cancer clinical trial\" means a cancer clinical trial that meets all of the following criteria:\n\n(a) A purpose of the trial is to test whether the intervention potentially improves the trial participant's health outcomes.\n\n(b) The treatment provided as part of the trial is given with the intention of improving the trial participant's health outcomes.\n\n(c) The trial has a therapeutic intent and is not designed exclusively to test toxicity or disease pathophysiology.\n\n(d) The trial does one of the following:\n\n(i) Tests how to administer a health care service, item, or drug for the treatment of cancer;\n\n(ii) Tests responses to a health care service, item, or drug for the treatment of cancer;\n\n(iii) Compares the effectiveness of a health care service, item, or drug for the treatment of cancer with that of other health care services, items, or drugs for the treatment of cancer;\n\n(iv) Studies new uses of a health care service, item, or drug for the treatment of cancer.\n\n(e) The trial is approved by one of the following entities:\n\n(i) The national institutes of health or one of its cooperative groups or centers under the United States department of health and human services;\n\n(ii) The United States food and drug administration;\n\n(iii) The United States department of defense;\n\n(iv) The United States department of veterans' affairs.",
+      "id": "3923.80-eligible-cancer-clinical-trial",
+      "normalized": "eligible cancer clinical trial",
+      "scope": "(C) As used in this section:",
+      "section": "3923.80",
+      "source_title": "Section 3923.80 - Denial of coverage to cancer clinical trial participant.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3923.80",
+      "term": "Eligible cancer clinical trial"
+    },
+    {
+      "definition": "(2) \"Subject of a cancer clinical trial\" means the health care service, item, or drug that is being evaluated in the clinical trial and that is not routine patient care.",
+      "id": "3923.80-subject-of-a-cancer-clinical-trial",
+      "normalized": "subject of a cancer clinical trial",
+      "scope": "(C) As used in this section:",
+      "section": "3923.80",
+      "source_title": "Section 3923.80 - Denial of coverage to cancer clinical trial participant.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3923.80",
+      "term": "Subject of a cancer clinical trial"
+    },
+    {
+      "definition": "(3) \"Health benefit plan\" has the same meaning as in section 3924.01 of the Revised Code.",
+      "id": "3923.80-health-benefit-plan",
+      "normalized": "health benefit plan",
+      "scope": "(C) As used in this section:",
+      "section": "3923.80",
+      "source_title": "Section 3923.80 - Denial of coverage to cancer clinical trial participant.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3923.80",
+      "term": "Health benefit plan"
+    },
+    {
+      "definition": "(4) \"Routine patient care\" means all health care services consistent with the coverage provided in the health benefit plan or public employee benefit plan for the treatment of cancer, including the type and frequency of any diagnostic modality, that is typically covered for a cancer patient who is not enrolled in a cancer clinical trial, and that was not necessitated solely because of the trial.\n\n(5) For purposes of this section, a health benefit plan or public employee benefit plan may exclude coverage for any of the following:\n\n(a) A health care service, item, or drug that is the subject of the cancer clinical trial;\n\n(b) A health care service, item, or drug provided solely to satisfy data collection and analysis needs for the cancer clinical trial that is not used in the direct clinical management of the patient;\n\n(c) An investigational or experimental drug or device that has not been approved for market by the United States food and drug administration;\n\n(d) Transportation, lodging, food, or other expenses for the patient, or a family member or companion of the patient, that are associated with the travel to or from a facility providing the cancer clinical trial;\n\n(e) An item or drug provided by the cancer clinical trial sponsors free of charge for any patient;\n\n(f) A service, item, or drug that is eligible for reimbursement by a person other than the insurer, including the sponsor of the cancer clinical trial.",
+      "id": "3923.80-routine-patient-care",
+      "normalized": "routine patient care",
+      "scope": "(C) As used in this section:",
+      "section": "3923.80",
+      "source_title": "Section 3923.80 - Denial of coverage to cancer clinical trial participant.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3923.80",
+      "term": "Routine patient care"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3901.71",
+      "number": "3901.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.71"
+    },
+    {
+      "kind": "section",
+      "label": "3924.01",
+      "number": "3924.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3924.01"
+    }
+  ],
+  "scraped": "2026-07-02T20:02:47+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3923.80",
+  "title": "Section 3923.80 - Denial of coverage to cancer clinical trial participant."
+}

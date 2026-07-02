@@ -1,0 +1,26 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3313.373
+Scraped: 2026-07-02T19:48:39+00:00
+
+# Section 3313.373 - Shared-savings contract.
+
+**Effective:** August 14, 2025
+
+**Latest Legislation:** House Bill 15 - 136th General Assembly
+
+(A) As used in this section:
+
+(1) "Energy saving measure" means both of the following:
+
+(a) The acquisition and installation, by purchase, lease, lease purchase, lease with an option to buy, or installment purchase, of an energy conservation measure as defined in section 3313.372 of the Revised Code and any attendant architectural and engineering consulting services.
+
+(b) Architectural and engineering consulting services related to energy conservation.
+
+(2) "Shared-savings contract" means a contract for one or more energy savings measures, which contract provides that all payments, except payments for maintenance and repairs and obligations on termination of the contract prior to its expiration, are to be a stated percentage of calculated savings of energy costs attributable to the energy saving measure over a defined period of time and are to be made only to the extent that such savings occur. A contract that requires any additional capital investment or contribution of funds, other than funds available from state or federal energy grants, or that is for an initial term of longer than ten years is not a shared-savings contract.
+
+(B) The board of education of a city, local, exempted village, or joint vocational school district may enter into a shared-savings contract with any person experienced in the design and implementation of energy saving measures for buildings owned or rented by the board. Such contract is not subject to section 3313.46 of the Revised Code. If the contract is for a term extending beyond the fiscal year, it shall be considered to be a continuing contract within the meaning of division (D) of section 5705.41 of the Revised Code. A board of education entering into an installment contract under this section shall also comply with section 3313.372 of the Revised Code.
+
+(C) In the case of a shared-savings contract running beyond the fiscal year in which it is entered into, the board shall include in its annual appropriations measure for each subsequent year any amounts payable under shared-savings contracts during such year and shall furnish the certification required by section 5705.44 of the Revised Code, but the failure of a board to make such an appropriation or furnish the certificates referred to in division (D) of section 5705.41 , or 5705.412 or 5705.44 of the Revised Code, shall not affect the validity of the shared-savings contract or the board's obligations under the contract.
+
+(D) A board of education may apply to the Ohio facilities construction commission for a loan from the school energy performance contracting loan fund, established by section 3313.378 of the Revised Code, for purposes of paying for all or part of a shared-savings contract under this section.
+
+Last updated May 22, 2025 at 12:22 PM

@@ -1,0 +1,519 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 2307.01 - Action defined.",
+      "number": "2307.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.011 - Civil action definitions.",
+      "number": "2307.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.011"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.06 - Suit on bond.",
+      "number": "2307.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.07 - Copy of bond.",
+      "number": "2307.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.09 - Married woman may sue and be sued.",
+      "number": "2307.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.10 - Wife's right to defend.",
+      "number": "2307.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.12 - Next friend liable for costs.",
+      "number": "2307.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.131 - Appointment of trustee of interest of person not yet born - representing future interest of charitable trust.",
+      "number": "2307.131",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.131"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.14 - Compensation and replacement of guardian ad litem or trustee.",
+      "number": "2307.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.15 - Determination of insanity of a party.",
+      "number": "2307.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.16 - Partnership may sue or be sued by its name.",
+      "number": "2307.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.17 - Person claiming property interest may be made a party.",
+      "number": "2307.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.18 - Officer acting under process may interplead.",
+      "number": "2307.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.22 - Joint and several tort liability.",
+      "number": "2307.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.221 - Immunity from tort liability - nonprofit corporations.",
+      "number": "2307.221",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.221"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.23 - Determining percentage of tortious conduct attributable to party in tort action.",
+      "number": "2307.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.24 - Joint and several liability that is not based in tort.",
+      "number": "2307.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.241 - Tort actions alleging vicarious liability.",
+      "number": "2307.241",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.241"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.25 - Right of contribution.",
+      "number": "2307.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.26 - Enforcing contribution one or more tortfeasors.",
+      "number": "2307.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.27 - Satisfying judgment - apportioning liability.",
+      "number": "2307.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.28 - Release or a covenant not to sue or not to enforce judgment.",
+      "number": "2307.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.29 - Contribution rights relation to other statutes.",
+      "number": "2307.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.30 - Separate composition of joint debtor with creditor.",
+      "number": "2307.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.34 - Cause of action for contribution in favor of primary insurer against secondary insurer.",
+      "number": "2307.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.381 - Long-arm statute definitions.",
+      "number": "2307.381",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.381"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.382 - Personal jurisdiction.",
+      "number": "2307.382",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.382"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.385 - Jurisdiction.",
+      "number": "2307.385",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.385"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.39 - Agreements to be bound by Ohio law.",
+      "number": "2307.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.40 - Members and officers of the general assembly privileged from answering.",
+      "number": "2307.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.41 - Venue for aircraft negligence.",
+      "number": "2307.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.44 - Hazing civil liability.",
+      "number": "2307.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.45 - Reciprocity in enforcing tax statutes.",
+      "number": "2307.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.46 - Request for confidentiality by woman bringing civil action based on abortion.",
+      "number": "2307.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.50 - Civil action to recover damages for interference with the parental or guardianship interest.",
+      "number": "2307.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.51 - Civil action for damages related to crime of trafficking in persons.",
+      "number": "2307.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.52 - Civil action for damages for terminating or attempting termination of pregnancy after viability.",
+      "number": "2307.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.53 - Civil action for damages for dismemberment abortion or partial birth feticide.",
+      "number": "2307.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.54 - Civil action for abortion after 20 weeks.",
+      "number": "2307.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.60 - Civil action for damages for criminal act.",
+      "number": "2307.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.601 - No duty to retreat in residence or vehicle.",
+      "number": "2307.601",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.601"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.61 - Civil action for willful damage or theft.",
+      "number": "2307.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.611 - Damages in actions for identity fraud.",
+      "number": "2307.611",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.611"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.62 - Civil action for damages by cable television owner or operator.",
+      "number": "2307.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.63 - Consent as defense in action against mental health professional based on sexual conduct or contact.",
+      "number": "2307.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.64 - Regulating electronic mail advertisements.",
+      "number": "2307.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.65 - Civil action to recover benefits improperly paid.",
+      "number": "2307.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.66 - Civil action for dissemination of images.",
+      "number": "2307.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.67 - Civil action - critical infrastructure facility.",
+      "number": "2307.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.67"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.70 - Civil action for damages for vandalism, desecration or ethnic intimidation.",
+      "number": "2307.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.71 - Product liability definitions.",
+      "number": "2307.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.711 - Assumption of risk as affirmative defense to product liability claim.",
+      "number": "2307.711",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.711"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.72 - Civil action for product liability claim.",
+      "number": "2307.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.73 - Liability of manufacturer - enterprise liability rejected.",
+      "number": "2307.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.74 - Product defective in manufacture or construction.",
+      "number": "2307.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.74"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.75 - Product defective in design or formulation.",
+      "number": "2307.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.76 - Product defective due to inadequate warning or instruction.",
+      "number": "2307.76",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.76"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.77 - Product conforming to representation made by manufacturer.",
+      "number": "2307.77",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.77"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.78 - Liability of supplier.",
+      "number": "2307.78",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.78"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.79 - Compensatory damages for economic loss from manufacturer or supplier.",
+      "number": "2307.79",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.79"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.80 - Punitive or exemplary damages from manufacturer or supplier.",
+      "number": "2307.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.80"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.81 - Dissemination of false information about the safety of Ohio's food supply.",
+      "number": "2307.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.84 - Silicosis or mixed dust disease claims - definitions.",
+      "number": "2307.84",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.84"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.85 - Silicosis claim - prima facie showing - evidence of physical impairment - effect of decision.",
+      "number": "2307.85",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.85"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.86 - Mixed dust disease claim - prima facie showing - evidence of physical impairment - effect of decision.",
+      "number": "2307.86",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.86"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.87 - Silicosis or mixed dust disease claim - filing of evidence of physical impairment - challenge - administrative dismissal.",
+      "number": "2307.87",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.87"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.88 - Silicosis or mixed dust disease claim - tolling of statute of limitations - nonmalignant and cancer claims distinct.",
+      "number": "2307.88",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.88"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.89 - Silicosis or mixed dust disease claim against premises owner.",
+      "number": "2307.89",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.89"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.90 - Silicosis or mixed dust disease claim - operation of other laws unaffected - exhumation not required.",
+      "number": "2307.90",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.90"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.901 - Silicosis or mixed dust disease claim - multiple defendants - substantial factor test.",
+      "number": "2307.901",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.901"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.902 - Silicosis or mixed dust disease claim - piercing the corporate veil.",
+      "number": "2307.902",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.902"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.91 - Asbestos claims - definitions.",
+      "number": "2307.91",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.91"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.92 - Asbestos claim - prima facie showing - evidence of physical impairment - effect of decision.",
+      "number": "2307.92",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.92"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.93 - Asbestos claim - filing of evidence of physical impairment - challenge - administrative dismissal.",
+      "number": "2307.93",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.93"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.931 - Asbestos claim - plaintiff to file specified disclosures.",
+      "number": "2307.931",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.931"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.94 - Asbestos claim - tolling of statute of limitations - nonmalignant and cancer claims distinct.",
+      "number": "2307.94",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.94"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.941 - Asbestos claim against premises owner.",
+      "number": "2307.941",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.941"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.95 - Asbestos claim - operation of other laws unaffected.",
+      "number": "2307.95",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.95"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.951 - Definitions for RC sections 2307.952 to 2307.954.",
+      "number": "2307.951",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.951"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.952 - Disclosures pertaining to asbestos trust claims.",
+      "number": "2307.952",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.952"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.953 - Motion to stay proceedings in asbestos tort action.",
+      "number": "2307.953",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.953"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.954 - Disclosure of noncancer asbestos trust claims and cancer asbestos trust claims.",
+      "number": "2307.954",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.954"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.96 - Asbestos claim - multiple defendants - substantial factor test.",
+      "number": "2307.96",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.96"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.97 - Cumulative successor asbestos-related liabilities of corporation.",
+      "number": "2307.97",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.97"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2307.98 - Asbestos claim - piercing the corporate veil.",
+      "number": "2307.98",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.98"
+    }
+  ],
+  "scraped": "2026-07-02T19:43:26+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-2307",
+  "title": "Chapter 2307 - Civil Actions"
+}

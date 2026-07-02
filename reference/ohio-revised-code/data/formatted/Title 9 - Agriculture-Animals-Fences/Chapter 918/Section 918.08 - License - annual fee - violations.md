@@ -1,0 +1,30 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-918.08
+Scraped: 2026-07-02T19:34:19+00:00
+
+# Section 918.08 - License - annual fee - violations.
+
+**Effective:** October 16, 2009
+
+**Latest Legislation:** House Bill 1 - 128th General Assembly
+
+(A) Except as provided in division (F) of this section, no person shall operate an establishment without first licensing the establishment with the department of agriculture. The owner of an establishment desiring a license with the department may make application therefor on forms provided by the department. If after inspection the director of agriculture finds that an establishment is in compliance with this chapter and rules adopted under it, the director shall notify the owner of the establishment and, upon receipt of the required license fee, the establishment shall be permitted to operate. However, if after inspection the director finds that an establishment is not in compliance with this chapter and rules adopted under it, the director shall deny the license application. The applicant may appeal the denial of the license application in accordance with Chapter 119. of the Revised Code. The license shall expire annually on the thirty-first day of March and, if the director finds that the establishment is in compliance with this chapter and rules adopted under it, shall be renewed according to the standard renewal procedure of sections 4745.01 to 4745.03 of the Revised Code.
+
+(B) The annual license fee for each establishment, or a renewal thereof, is one hundred dollars. All fees collected under this section shall be deposited into the poultry and meat products fund created in section 918.15 of the Revised Code.
+
+(C) If after inspection the director determines that an establishment licensed under division (A) of this section is operating in violation of this chapter or the rules adopted thereunder, the director shall notify the licensee in writing of the violation and give the licensee ten days from the date of notice to cease or correct the conditions causing the violation. If the conditions causing the violation continue after the expiration of the ten-day period, the director may do either of the following:
+
+(1) Impose progressive enforcement actions as provided in division (D)(1) of this section in the same manner as inspectors;
+
+(2) Suspend or revoke the establishment's license in accordance with Chapter 119. of the Revised Code.
+
+(D)(1) If an inspector determines that an establishment licensed under division (A) of this section is operating in violation of sections 918.01 to 918.12 of the Revised Code and rules adopted under those sections, the inspector may notify the licensee in writing of the violation. The inspector immediately may impose progressive enforcement actions, including withholding the mark of inspection, suspension of inspection, suspension of inspection held in abeyance, and withdrawal of inspection. The progressive enforcement actions may be taken prior to affording the licensee an opportunity for a hearing. As authorized in division (C) of section 119.06 of the Revised Code, a decision to impose a progressive enforcement action is immediately appealable to a higher authority within the department who is classified by the director as a district supervisor and who is designated by the director to hear the appeal. If the district supervisor affirms the enforcement action of the inspector, the licensee may appeal the enforcement action in accordance with Chapter 119. of the Revised Code.
+
+(2) As used in division (D)(1) of this section, "suspension of inspection held in abeyance" means a period of time during which a suspension of inspection is lifted because an establishment has presented the director with a corrective action plan that, if implemented properly, would bring the establishment into compliance with this chapter and rules adopted under it.
+
+(E) If in the opinion of the director the establishment is being operated under such insanitary conditions as to be a hazard to public health, or if the director determines that an establishment is not in compliance with its hazard analysis critical control point plan as required by rules, the director may condemn or retain the product on hand and immediately withdraw inspection from the establishment until the insanitary conditions are corrected or until the establishment is in compliance with its hazard analysis critical control point plan, as applicable. The director may take those actions prior to an adjudication hearing as required under section 119.06 of the Revised Code. The director subsequently shall afford a hearing upon the request of the owner or operator of the establishment.
+
+(F) Any person operating an establishment as defined in section 918.01 of the Revised Code who also operates on the same premises an establishment as defined in section 918.21 of the Revised Code shall apply either for licensure under section 918.08 of the Revised Code or for licensure under section 918.28 of the Revised Code, but not for both, as the director shall determine.
+
+(G) If the director determines that the owner or operator of or any person employed by an establishment licensed under division (A) of this section forcibly assaulted, resisted, opposed, impeded, intimidated, or interfered with any person while that person was engaged in, or because of the person's performance of, official duties under sections 918.01 to 918.12 of the Revised Code or the rules adopted under those sections, the director immediately may withdraw inspection from the establishment prior to an adjudication hearing as required under section 119.06 of the Revised Code.
+
+(H) In addition to any remedies provided by law and irrespective of whether or not there exists an adequate remedy at law, the director may apply to the court of common pleas of the county in which a violation of sections 918.01 to 918.12 of the Revised Code or rules adopted under those sections occurs for a temporary or permanent injunction or other appropriate relief concerning the violation.

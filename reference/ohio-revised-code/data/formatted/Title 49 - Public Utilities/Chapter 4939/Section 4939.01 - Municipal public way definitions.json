@@ -1,0 +1,284 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Abandoned\" means any small cell facilities or wireless support structures that are unused for a period of three hundred sixty-five days without the operator otherwise notifying the municipal corporation and receiving the municipal corporation's approval.",
+      "id": "4939.01-abandoned",
+      "normalized": "abandoned",
+      "scope": "As used in sections 4939.01 to 4939.09 of the Revised Code:",
+      "section": "4939.01",
+      "source_title": "Section 4939.01 - Municipal public way definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4939.01",
+      "term": "Abandoned"
+    },
+    {
+      "definition": "(B) \"Antenna\" means communications equipment that transmits or receives radio frequency signals in the provision of wireless service.\n\n(C) \"Cable operator,\" \"cable service,\" and \"franchise\" have the same meanings as in the \"Cable Communications Policy Act of 1984,\" 98 Stat. 2779, 47 U.S.C.A. 522.",
+      "id": "4939.01-antenna",
+      "normalized": "antenna",
+      "scope": "As used in sections 4939.01 to 4939.09 of the Revised Code:",
+      "section": "4939.01",
+      "source_title": "Section 4939.01 - Municipal public way definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4939.01",
+      "term": "Antenna"
+    },
+    {
+      "definition": "(D) \"Collocation\" or \"collocate\" means to install, mount, maintain, modify, operate, or replace wireless facilities on a wireless support structure.",
+      "id": "4939.01-collocation",
+      "normalized": "collocation",
+      "scope": "As used in sections 4939.01 to 4939.09 of the Revised Code:",
+      "section": "4939.01",
+      "source_title": "Section 4939.01 - Municipal public way definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4939.01",
+      "term": "Collocation"
+    },
+    {
+      "definition": "(D) \"Collocation\" or \"collocate\" means to install, mount, maintain, modify, operate, or replace wireless facilities on a wireless support structure.",
+      "id": "4939.01-collocate",
+      "normalized": "collocate",
+      "scope": "As used in sections 4939.01 to 4939.09 of the Revised Code:",
+      "section": "4939.01",
+      "source_title": "Section 4939.01 - Municipal public way definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4939.01",
+      "term": "collocate"
+    },
+    {
+      "definition": "(E) \"Decorative pole\" means a pole, arch, or structure other than a street light pole placed in the public way specifically designed and placed for aesthetic purposes and on which no appurtenances or attachments have been placed except for any of the following:\n\n(1) Electric lighting;\n\n(2) Specially designed informational or directional signage;\n\n(3) Temporary holiday or special event attachments.",
+      "id": "4939.01-decorative-pole",
+      "normalized": "decorative pole",
+      "scope": "As used in sections 4939.01 to 4939.09 of the Revised Code:",
+      "section": "4939.01",
+      "source_title": "Section 4939.01 - Municipal public way definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4939.01",
+      "term": "Decorative pole"
+    },
+    {
+      "definition": "(F) \"Eligible facilities request\" has the same meaning as in 47 U.S.C. 1455(a)(2).",
+      "id": "4939.01-eligible-facilities-request",
+      "normalized": "eligible facilities request",
+      "scope": "As used in sections 4939.01 to 4939.09 of the Revised Code:",
+      "section": "4939.01",
+      "source_title": "Section 4939.01 - Municipal public way definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4939.01",
+      "term": "Eligible facilities request"
+    },
+    {
+      "definition": "(G) \"Historic district\" means a building, property, or site, or group of buildings, properties, or sites that are either of the following:\n\n(1) Listed in the national register of historic places or formally determined eligible for listing by the keeper of the national register, the individual who has been delegated the authority by the federal agency to list properties and determine their eligibility for the national register, in accordance with section VI.D.1.a.i-v of the nationwide programmatic agreement codified at 47 C.F.R. part 1, Appendix C;\n\n(2) A registered historic district as defined in section 149.311 of the Revised Code.",
+      "id": "4939.01-historic-district",
+      "normalized": "historic district",
+      "scope": "As used in sections 4939.01 to 4939.09 of the Revised Code:",
+      "section": "4939.01",
+      "source_title": "Section 4939.01 - Municipal public way definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4939.01",
+      "term": "Historic district"
+    },
+    {
+      "definition": "(H) \"Micro wireless facility\" means a small cell facility that is not more than twenty-four inches in length, fifteen inches in width, and twelve inches in height and that does not have an exterior antenna more than eleven inches in length suspended on cable strung between wireless support structures.",
+      "id": "4939.01-micro-wireless-facility",
+      "normalized": "micro wireless facility",
+      "scope": "As used in sections 4939.01 to 4939.09 of the Revised Code:",
+      "section": "4939.01",
+      "source_title": "Section 4939.01 - Municipal public way definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4939.01",
+      "term": "Micro wireless facility"
+    },
+    {
+      "definition": "(I) \"Municipal electric utility\" has the same meaning as in section 4928.01 of the Revised Code.",
+      "id": "4939.01-municipal-electric-utility",
+      "normalized": "municipal electric utility",
+      "scope": "As used in sections 4939.01 to 4939.09 of the Revised Code:",
+      "section": "4939.01",
+      "source_title": "Section 4939.01 - Municipal public way definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4939.01",
+      "term": "Municipal electric utility"
+    },
+    {
+      "definition": "(J) \"Occupy or use\" means, with respect to a public way, to place a tangible thing in a public way for any purpose, including, but not limited to, constructing, repairing, positioning, maintaining, or operating lines, poles, pipes, conduits, ducts, equipment, or other structures, appurtenances, or facilities necessary for the delivery of public utility services or any services provided by a cable operator.",
+      "id": "4939.01-occupy-or-use",
+      "normalized": "occupy or use",
+      "scope": "As used in sections 4939.01 to 4939.09 of the Revised Code:",
+      "section": "4939.01",
+      "source_title": "Section 4939.01 - Municipal public way definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4939.01",
+      "term": "Occupy or use"
+    },
+    {
+      "definition": "(K) \"Operator\" means a wireless service provider, cable operator, or a video service provider that operates a small cell facility and provides wireless service as defined in division (T) of this section. For the purpose of this chapter, \"operator\" includes a wireless service provider, cable operator, or a video service provider that provides information services as defined in the \"Telecommunications Act of 1996,\" 110 Stat. 59, 47 U.S.C. 153(20), and services that are fixed in nature or use unlicensed spectrum.",
+      "id": "4939.01-operator",
+      "normalized": "operator",
+      "scope": "As used in sections 4939.01 to 4939.09 of the Revised Code:",
+      "section": "4939.01",
+      "source_title": "Section 4939.01 - Municipal public way definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4939.01",
+      "term": "Operator"
+    },
+    {
+      "definition": "(L) \"Person\" means any natural person, corporation, or partnership and also includes any governmental entity.",
+      "id": "4939.01-person",
+      "normalized": "person",
+      "scope": "As used in sections 4939.01 to 4939.09 of the Revised Code:",
+      "section": "4939.01",
+      "source_title": "Section 4939.01 - Municipal public way definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4939.01",
+      "term": "Person"
+    },
+    {
+      "definition": "(M) \"Public utility\" means a wireless service provider as defined in division (A)(20) of section 4927.01 of the Revised Code or any company described in section 4905.03 of the Revised Code except in divisions (B) and (I) of that section, which company also is a public utility as defined in section 4905.02 of the Revised Code; and includes any electric supplier as defined in section 4933.81 of the Revised Code.",
+      "id": "4939.01-public-utility",
+      "normalized": "public utility",
+      "scope": "As used in sections 4939.01 to 4939.09 of the Revised Code:",
+      "section": "4939.01",
+      "source_title": "Section 4939.01 - Municipal public way definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4939.01",
+      "term": "Public utility"
+    },
+    {
+      "definition": "(N) \"Public way\" means the surface of, and the space within, through, on, across, above, or below, any public street, public road, public highway, public freeway, public lane, public path, public alley, public court, public sidewalk, public boulevard, public parkway, public drive, public easement, and any other land dedicated or otherwise designated for a compatible public use, which, on or after July 2, 2002, is owned or controlled by a municipal corporation. \"Public way\" excludes a private easement.",
+      "id": "4939.01-public-way",
+      "normalized": "public way",
+      "scope": "As used in sections 4939.01 to 4939.09 of the Revised Code:",
+      "section": "4939.01",
+      "source_title": "Section 4939.01 - Municipal public way definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4939.01",
+      "term": "Public way"
+    },
+    {
+      "definition": "(O) \"Public way fee\" means a fee levied to recover the costs incurred by a municipal corporation and associated with the occupancy or use of a public way.",
+      "id": "4939.01-public-way-fee",
+      "normalized": "public way fee",
+      "scope": "As used in sections 4939.01 to 4939.09 of the Revised Code:",
+      "section": "4939.01",
+      "source_title": "Section 4939.01 - Municipal public way definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4939.01",
+      "term": "Public way fee"
+    },
+    {
+      "definition": "(P) \"Small cell facility\" means a wireless facility that meets both of the following requirements:\n\n(1) Each antenna is located inside an enclosure of not more than six cubic feet in volume or, in the case of an antenna that has exposed elements, the antenna and all of its exposed elements could fit within an enclosure of not more than six cubic feet in volume.\n\n(2) All other wireless equipment associated with the facility is cumulatively not more than twenty-eight cubic feet in volume. The calculation of equipment volume shall not include electric meters, concealment elements, telecommunications demarcation boxes, grounding equipment, power transfer switches, cut-off switches, and vertical cable runs for the connection of power and other services.",
+      "id": "4939.01-small-cell-facility",
+      "normalized": "small cell facility",
+      "scope": "As used in sections 4939.01 to 4939.09 of the Revised Code:",
+      "section": "4939.01",
+      "source_title": "Section 4939.01 - Municipal public way definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4939.01",
+      "term": "Small cell facility"
+    },
+    {
+      "definition": "(Q) \"Utility pole\" means a structure that is designed for, or used for the purpose of, carrying lines, cables, or wires for electric or telecommunications service. \"Utility pole\" excludes street signs and decorative poles.",
+      "id": "4939.01-utility-pole",
+      "normalized": "utility pole",
+      "scope": "As used in sections 4939.01 to 4939.09 of the Revised Code:",
+      "section": "4939.01",
+      "source_title": "Section 4939.01 - Municipal public way definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4939.01",
+      "term": "Utility pole"
+    },
+    {
+      "definition": "(R) \"Video service provider\" has the same meaning as in section 1332.21 of the Revised Code.",
+      "id": "4939.01-video-service-provider",
+      "normalized": "video service provider",
+      "scope": "As used in sections 4939.01 to 4939.09 of the Revised Code:",
+      "section": "4939.01",
+      "source_title": "Section 4939.01 - Municipal public way definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4939.01",
+      "term": "Video service provider"
+    },
+    {
+      "definition": "(S)(1) \"Wireless facility\" means equipment at a fixed location that enables wireless communications between user equipment and a communications network, including all of the following:\n\n(a) Equipment associated with wireless communications;\n\n(b) Radio transceivers, antennas, coaxial or fiber-optic cable, regular and backup power supplies, and comparable equipment, regardless of technological configuration.\n\n(2) The term includes small cell facilities.\n\n(3) The term does not include any of the following:\n\n(a) The structure or improvements on, under, or within which the equipment is collocated;\n\n(b) Coaxial or fiber-optic cable that is between wireless support structures or utility poles or that is otherwise not immediately adjacent to or directly associated with a particular antenna.",
+      "id": "4939.01-wireless-facility",
+      "normalized": "wireless facility",
+      "scope": "As used in sections 4939.01 to 4939.09 of the Revised Code:",
+      "section": "4939.01",
+      "source_title": "Section 4939.01 - Municipal public way definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4939.01",
+      "term": "Wireless facility"
+    },
+    {
+      "definition": "(T) \"Wireless service\" means any services using licensed or unlicensed wireless spectrum, whether at a fixed location or mobile, provided to the public using wireless facilities.",
+      "id": "4939.01-wireless-service",
+      "normalized": "wireless service",
+      "scope": "As used in sections 4939.01 to 4939.09 of the Revised Code:",
+      "section": "4939.01",
+      "source_title": "Section 4939.01 - Municipal public way definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4939.01",
+      "term": "Wireless service"
+    },
+    {
+      "definition": "(U) \"Wireless service provider\" means a person who provides wireless service as defined in division (A)(19) of section 4927.01 of the Revised Code.\n\n(V) \"Wireless support structure\" means a pole, such as a monopole, either guyed or self-supporting, street light pole, traffic signal pole, a fifteen-foot or taller sign pole, or utility pole capable of supporting small cell facilities. As used in this chapter, \"wireless support structure\" excludes all of the following:\n\n(1) A utility pole or other facility owned or operated by a municipal electric utility;\n\n(2) A utility pole or other facility used to supply traction power to public transit systems, including railways, trams, streetcars, and trolleybuses.\n\n(W) \"Wireline backhaul facility\" is a facility used for the transport of communications service or any other electronic communications by coaxial, fiber-optic cable, or any other wire.",
+      "id": "4939.01-wireless-service-provider",
+      "normalized": "wireless service provider",
+      "scope": "As used in sections 4939.01 to 4939.09 of the Revised Code:",
+      "section": "4939.01",
+      "source_title": "Section 4939.01 - Municipal public way definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4939.01",
+      "term": "Wireless service provider"
+    },
+    {
+      "definition": "(X) \"Work permit\" means a permit issued by a municipal corporation that must be obtained in order to perform any work in, on, above, within, over, below, under, or through any part of the public way, including, but not limited to, the act or process of digging, boring, tunneling, trenching, excavating, obstructing, or installing, as well as the act of opening and cutting into the surface of any paved or improved surface that is part of the public way.",
+      "id": "4939.01-work-permit",
+      "normalized": "work permit",
+      "scope": "(V) \"Wireless support structure\" means a pole, such as a monopole, either guyed or self-supporting, street light pole, traffic signal pole, a fifteen-foot or taller sign pole, or utility pole capable of supporting small cell facilities. As used in this chapter, \"wireless support structure\" excludes all of the following:",
+      "section": "4939.01",
+      "source_title": "Section 4939.01 - Municipal public way definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4939.01",
+      "term": "Work permit"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "4939.01",
+      "number": "4939.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4939.01"
+    },
+    {
+      "kind": "section",
+      "label": "4939.09",
+      "number": "4939.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4939.09"
+    },
+    {
+      "kind": "section",
+      "label": "149.311",
+      "number": "149.311",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.311"
+    },
+    {
+      "kind": "section",
+      "label": "4928.01",
+      "number": "4928.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.01"
+    },
+    {
+      "kind": "section",
+      "label": "4927.01",
+      "number": "4927.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4927.01"
+    },
+    {
+      "kind": "section",
+      "label": "4905.03",
+      "number": "4905.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.03"
+    },
+    {
+      "kind": "section",
+      "label": "4905.02",
+      "number": "4905.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.02"
+    },
+    {
+      "kind": "section",
+      "label": "4933.81",
+      "number": "4933.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4933.81"
+    },
+    {
+      "kind": "section",
+      "label": "1332.21",
+      "number": "1332.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1332.21"
+    }
+  ],
+  "scraped": "2026-07-02T20:09:42+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4939.01",
+  "title": "Section 4939.01 - Municipal public way definitions."
+}

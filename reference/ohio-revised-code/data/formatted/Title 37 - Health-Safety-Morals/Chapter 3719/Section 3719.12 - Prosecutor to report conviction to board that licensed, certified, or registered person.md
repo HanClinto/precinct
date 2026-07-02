@@ -1,0 +1,12 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3719.12
+Scraped: 2026-07-02T19:51:34+00:00
+
+# Section 3719.12 - Prosecutor to report conviction to board that licensed, certified, or registered person.
+
+**Effective:** March 22, 2020
+
+**Latest Legislation:** Senate Bill 229 - 132nd General Assembly
+
+As used in this section, "prosecutor" has the same meaning as in section 2935.01 of the Revised Code.
+
+Unless a report has been made pursuant to section 2929.42 of the Revised Code, on the conviction of a manufacturer, wholesaler, outsourcing facility, third-party logistics provider, repackager of dangerous drugs, terminal distributor of dangerous drugs, pharmacist, pharmacy intern, registered pharmacy technician, certified pharmacy technician, pharmacy technician trainee, dentist, chiropractor, physician, podiatrist, registered nurse, licensed practical nurse, physician assistant, optometrist, or veterinarian of the violation of this chapter or Chapter 2925. of the Revised Code, the prosecutor in the case promptly shall report the conviction to the board that licensed, certified, or registered the person to practice or to carry on business. The responsible board shall provide forms to the prosecutor. Within thirty days of the receipt of this information, the board shall initiate action in accordance with Chapter 119. of the Revised Code to determine whether to suspend or revoke the person's license, certificate, or registration.

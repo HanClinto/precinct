@@ -1,0 +1,339 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 5735.01 - Motor fuel tax definitions.",
+      "number": "5735.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5735.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5735.011 - Measurement of liquid natural gas.",
+      "number": "5735.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5735.011"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5735.02 - Dealer's license - application - right to refuse license - fee.",
+      "number": "5735.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5735.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5735.021 - Application for permissive motor fuel dealer's license.",
+      "number": "5735.021",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5735.021"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5735.022 - Application for retail dealer's license.",
+      "number": "5735.022",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5735.022"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5735.023 - Retail service station - prohibited acts.",
+      "number": "5735.023",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5735.023"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5735.024 - Sale and distribution exceptions.",
+      "number": "5735.024",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5735.024"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5735.025 - Prohibited acts generally.",
+      "number": "5735.025",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5735.025"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5735.026 - Application for exporter license.",
+      "number": "5735.026",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5735.026"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5735.027 - Application for terminal operator's license.",
+      "number": "5735.027",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5735.027"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5735.03 - Dealer's surety bond - release - lien on property.",
+      "number": "5735.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5735.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5735.04 - Revocation or cancellation of dealer's license - cancellation of bond.",
+      "number": "5735.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5735.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5735.041 - Revocation of license of retail dealer.",
+      "number": "5735.041",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5735.041"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5735.042 - Revocation of license of exporter.",
+      "number": "5735.042",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5735.042"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5735.043 - Revocation or cancellation of license of terminal operator.",
+      "number": "5735.043",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5735.043"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5735.044 - Revocation or cancellation of license of permissive motor fuel dealer.",
+      "number": "5735.044",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5735.044"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5735.05 - Levy of motor fuel excise tax - exceptions.",
+      "number": "5735.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5735.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5735.051 - Levy of motor fuel excise tax; dispostion of revenue.",
+      "number": "5735.051",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5735.051"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5735.052 - Credits to waterways safety fund and wildlife boater angler fund.",
+      "number": "5735.052",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5735.052"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5735.053 - Motor fuel tax administration fund.",
+      "number": "5735.053",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5735.053"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5735.06 - Motor fuel dealer to file monthly report - contents of report.",
+      "number": "5735.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5735.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5735.062 - Electronic remittance of tax payments.",
+      "number": "5735.062",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5735.062"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5735.063 - Terminal operator to file monthly report - contents of report.",
+      "number": "5735.063",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5735.063"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5735.064 - Exporter's report.",
+      "number": "5735.064",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5735.064"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5735.07 - List of dealers that have valid licenses or registrations.",
+      "number": "5735.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5735.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5735.09 - Registration of transporters; reports.",
+      "number": "5735.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5735.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5735.10 - Dealers to retain records - inspection by tax commissioner.",
+      "number": "5735.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5735.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5735.101 - Prior permission for sale of untaxed fuel by non-dealer.",
+      "number": "5735.101",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5735.101"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5735.102 - Seizure and sale of fuel and transporting vehicle when taxes not paid.",
+      "number": "5735.102",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5735.102"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5735.103 - Padlocking pumps of retail service station.",
+      "number": "5735.103",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5735.103"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5735.11 - Interest on late payment of tax or refund.",
+      "number": "5735.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5735.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5735.12 - Liability for additional charge or assessment for noncompliance.",
+      "number": "5735.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5735.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5735.121 - Jeopardy assessment.",
+      "number": "5735.121",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5735.121"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5735.122 - Applying for refund of illegal or erroneous payment.",
+      "number": "5735.122",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5735.122"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5735.123 - Assessment where tax not paid or liability accrued to dealer.",
+      "number": "5735.123",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5735.123"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5735.124 - Selling or distributing dyed diesel fuel.",
+      "number": "5735.124",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5735.124"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5735.13 - Refund of tax when motor fuel lost or destroyed.",
+      "number": "5735.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5735.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5735.14 - Reimbursement when fuel not used for in-state operation of motor vehicle on highway or waters.",
+      "number": "5735.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5735.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5735.141 - Refunds for shrinkage and evaporation.",
+      "number": "5735.141",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5735.141"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5735.142 - Refunds for local transit system operation and school districts.",
+      "number": "5735.142",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5735.142"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5735.143 - Applying refund in satisfaction of debt to state.",
+      "number": "5735.143",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5735.143"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5735.15 - Seller's statement required when purchaser claims right to refund.",
+      "number": "5735.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5735.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5735.18 - Reimbursement for non-dealer sales for export outside state or to United States.",
+      "number": "5735.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5735.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5735.19 - Records open to inspection by tax commissioner - investigations - forms.",
+      "number": "5735.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5735.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5735.20 - Prohibited acts regarding refunds or engaging in business without license.",
+      "number": "5735.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5735.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5735.21 - Shipping document requirements.",
+      "number": "5735.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5735.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5735.27 - Distribution of amount credited to gasoline excise tax fund and highway operating fund.",
+      "number": "5735.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5735.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5735.28 - Funds for maintaining state highways within municipal corporations.",
+      "number": "5735.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5735.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5735.33 - Delegation of investigation powers.",
+      "number": "5735.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5735.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5735.34 - Sale or discontinuing business.",
+      "number": "5735.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5735.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5735.35 - Personal liability for unpaid taxes.",
+      "number": "5735.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5735.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5735.40 - No tax to be imposed on alternative fuels - exceptions.",
+      "number": "5735.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5735.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5735.43 - Funding from motor fuel taxes; disclosure of use.",
+      "number": "5735.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5735.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5735.50 - Notice of federal and state motor fuel tax rates.",
+      "number": "5735.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5735.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5735.99 - Penalty.",
+      "number": "5735.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5735.99"
+    }
+  ],
+  "scraped": "2026-07-02T20:15:06+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-5735",
+  "title": "Chapter 5735 - Motor Fuel Tax"
+}

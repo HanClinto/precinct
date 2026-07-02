@@ -1,0 +1,471 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 1567.01 - Chapter does not apply to chapter 1514 activities.",
+      "number": "1567.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.02 - Use of present machinery lawful - replacement of appliances and machinery.",
+      "number": "1567.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.03 - Prohibited acts.",
+      "number": "1567.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.04 - Machine runners and helpers.",
+      "number": "1567.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.05 - Trespassing.",
+      "number": "1567.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.06 - Examination of mine generating firedamp - posting or report.",
+      "number": "1567.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.07 - Entry beyond danger signal.",
+      "number": "1567.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.08 - Book of reports of mine condition and air measurements.",
+      "number": "1567.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.09 - Ventilation of mines.",
+      "number": "1567.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.10 - Ventilating fans.",
+      "number": "1567.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.11 - Booster and blower fans.",
+      "number": "1567.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.12 - Accident to ventilating fan.",
+      "number": "1567.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.13 - Supervision of ventilating apparatus and airways.",
+      "number": "1567.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.14 - Entry into mine after interruption of ventilation.",
+      "number": "1567.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.15 - Closing of ventilating doors.",
+      "number": "1567.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.16 - Electrical system - prohibited activities.",
+      "number": "1567.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.17 - Rules for use of direct current.",
+      "number": "1567.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.18 - Rules for use of alternating current.",
+      "number": "1567.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.19 - Grounding of machines and armored cable using alternating current.",
+      "number": "1567.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.20 - Electrical equipment to be grounded.",
+      "number": "1567.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.21 - Employment of shot firers.",
+      "number": "1567.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.22 - Use of black powder.",
+      "number": "1567.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.23 - Handling explosives in mines.",
+      "number": "1567.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.24 - Conveyance of explosives.",
+      "number": "1567.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.25 - Explosives to be protected from contact with fire.",
+      "number": "1567.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.26 - Explosives and tools on cages or stairways.",
+      "number": "1567.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.27 - Use of squibs and fuses - tamping.",
+      "number": "1567.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.30 - Firing of shots - appointed times.",
+      "number": "1567.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.31 - Drill holes.",
+      "number": "1567.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.32 - Misfired shots.",
+      "number": "1567.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.33 - Examination after each blast.",
+      "number": "1567.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.34 - Solid shooting.",
+      "number": "1567.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.35 - Use of gasoline, naphtha, kerosene, fuel oil or gas engine.",
+      "number": "1567.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.36 - Fire extinguishers.",
+      "number": "1567.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.38 - Use of locomotive and haulage equipment.",
+      "number": "1567.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.39 - Lights and signals for locomotives and cars - riding on locomotive - protection against runaway or self-propelled equipment.",
+      "number": "1567.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.40 - Riding on haulage trips.",
+      "number": "1567.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.41 - Operation of trolley ahead of locomotive.",
+      "number": "1567.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.42 - Riding on locomotive or cars.",
+      "number": "1567.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.43 - Signal light.",
+      "number": "1567.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.44 - Handling cars.",
+      "number": "1567.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.45 - Limitation on number of persons in cage or elevator - hoisting equipment safety examination.",
+      "number": "1567.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.46 - Windlass required.",
+      "number": "1567.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.47 - Qualifications of persons in charge of hoisting engine.",
+      "number": "1567.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.48 - Safe appliances for ingress and egress in shaft.",
+      "number": "1567.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.49 - Lowering and hoisting of persons by vertical shaft.",
+      "number": "1567.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.50 - Regulations for speaking tube, cages, and safety gate.",
+      "number": "1567.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.51 - Signal code.",
+      "number": "1567.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.52 - Additions to code of signals - posting.",
+      "number": "1567.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.53 - Emergency signal in vertical shaft.",
+      "number": "1567.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.54 - Adequate fire protection - firefighting equipment.",
+      "number": "1567.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.55 - Report of coal seam fire - covering of exposed surface to prevent fire.",
+      "number": "1567.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.57 - Two-way communication system.",
+      "number": "1567.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.58 - Lights in mines.",
+      "number": "1567.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.59 - Flame safety lamps.",
+      "number": "1567.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.60 - Recording pressure gauge.",
+      "number": "1567.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.61 - First aid and emergency medical equipment - report of arrangements for emergency medical assistance and transportation.",
+      "number": "1567.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.62 - Obstruction of airway.",
+      "number": "1567.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.63 - Use of traveling ways - loitering prohibited.",
+      "number": "1567.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.64 - Operator to provide tag lines or tie-off lines for miners.",
+      "number": "1567.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.65 - Prohibition against smoking or carrying smoking materials.",
+      "number": "1567.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.66 - Prohibition against intoxicants.",
+      "number": "1567.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.67 - Protective clothing.",
+      "number": "1567.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.67"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.68 - Safety provisions for machinery and equipment.",
+      "number": "1567.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.68"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.681 - Fire detection devices required on conveyor belts.",
+      "number": "1567.681",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.681"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.69 - Longwall mining plans or revisions - contents.",
+      "number": "1567.69",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.69"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.70 - Plan for recovery of longwall roof support - approval by chief.",
+      "number": "1567.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.71 - Two-way communication facilities.",
+      "number": "1567.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.72 - De-energizing electrical power on longwall working face conveyor.",
+      "number": "1567.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.73 - Installation of methane monitors.",
+      "number": "1567.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.74 - Safety requirements for longwall working face.",
+      "number": "1567.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.74"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.75 - Cutting and welding.",
+      "number": "1567.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.76 - Maintenance of hydraulic lines and roof support units.",
+      "number": "1567.76",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.76"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.77 - First aid equipment.",
+      "number": "1567.77",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.77"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.78 - Maintaining accessible tailgate travel route.",
+      "number": "1567.78",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.78"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.79 - Instruction on hazards.",
+      "number": "1567.79",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.79"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1567.99 - Penalty.",
+      "number": "1567.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1567.99"
+    }
+  ],
+  "scraped": "2026-07-02T19:38:58+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-1567",
+  "title": "Chapter 1567 - Mine Equipment; Safety Provisions"
+}

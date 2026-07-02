@@ -1,0 +1,459 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 323.01 - Collection of taxes definitions.",
+      "number": "323.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.011 - Taxes defined for certain sections.",
+      "number": "323.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.011"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.02 - Acceptance of claim by county treasurer - certificates - assignment of certificate.",
+      "number": "323.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.03 - Certificates to be dated.",
+      "number": "323.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.04 - Payment of taxes with liquidated claims.",
+      "number": "323.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.05 - Claims and certificates nonnegotiable - exception.",
+      "number": "323.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.06 - Payment of special assessments with assessment bonds.",
+      "number": "323.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.07 - County treasurer authorized to accept bonds - no cash refunds - distribution.",
+      "number": "323.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.071 - Advance payment of installments of special assessment - cancellation of installments - use of money.",
+      "number": "323.071",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.071"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.08 - Publishing schedule of tax rates and effective rates.",
+      "number": "323.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.09 - Office of county treasurer open for collection of taxes.",
+      "number": "323.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.11 - State's lien for taxes attaches and continues until paid.",
+      "number": "323.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.12 - Payment of taxes.",
+      "number": "323.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.121 - Penalty and interest for failure to pay real estate taxes and installments when due.",
+      "number": "323.121",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.121"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.122 - Extension for payment of real property tax for members of armed forces.",
+      "number": "323.122",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.122"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.13 - Tax bill mailed or delivered - failure to receive bill.",
+      "number": "323.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.131 - Form and contents of tax bill.",
+      "number": "323.131",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.131"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.132 - Paying delinquent taxes.",
+      "number": "323.132",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.132"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.133 - Payment of portion of taxes where application for exemption is pending.",
+      "number": "323.133",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.133"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.134 - Agreements for information exchanges limited exclusively to purpose of real property tax billing and payment.",
+      "number": "323.134",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.134"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.14 - Receipt for payment of taxes - form.",
+      "number": "323.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.15 - Payment of less than full amount due - payment by owner of undivided interest.",
+      "number": "323.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.151 - Valuation of homestead property definitions.",
+      "number": "323.151",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.151"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.152 - Reductions in taxable value.",
+      "number": "323.152",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.152"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.153 - Application for reduction in real property taxes.",
+      "number": "323.153",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.153"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.154 - Issuing certificate of reduction.",
+      "number": "323.154",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.154"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.155 - Tax bill to reflect reductions.",
+      "number": "323.155",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.155"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.156 - Payment of homestead exemption to county's undivided income tax fund from state general fund.",
+      "number": "323.156",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.156"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.157 - Employees - adoption of rules.",
+      "number": "323.157",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.157"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.158 - Partial real property tax exemption.",
+      "number": "323.158",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.158"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.159 - Applying homestead exemption to nonprofit corporation that owns and operates housing cooperatives.",
+      "number": "323.159",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.159"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.16 - Partial real property tax exemption for child care center.",
+      "number": "323.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.17 - Extending time for delivery of tax duplicate.",
+      "number": "323.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.25 - Enforcing tax lien.",
+      "number": "323.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.251 - Authority of tax commissioner relative to actions of local authorities.",
+      "number": "323.251",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.251"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.26 - Allegations in petition - evidence.",
+      "number": "323.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.27 - Joinder of causes of action.",
+      "number": "323.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.28 - Finding and decree - appraisal and sale of property - proceeds of sale.",
+      "number": "323.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.29 - Partial payment of delinquent taxes.",
+      "number": "323.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.30 - Receipt for installment payment - contents - entry by county treasurer.",
+      "number": "323.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.31 - Delinquent tax contract with treasurer.",
+      "number": "323.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.32 - Payments received in settlement of claims arising from delinquent property tax charges and ordered to be paid by railroad company under plan of reorganization.",
+      "number": "323.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.33 - Delinquent amounts most likely uncollectible except through foreclosure or through foreclosure and forfeiture.",
+      "number": "323.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.41 - Duty of holder of land to pay taxes - agents - liability of guardian.",
+      "number": "323.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.42 - Recovering advances or expenses.",
+      "number": "323.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.43 - Authorizing or consenting to payment by taxes by another.",
+      "number": "323.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.44 - Forfeiture of life estate for failure to pay taxes.",
+      "number": "323.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.45 - Lien for taxes paid by lienholder.",
+      "number": "323.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.46 - Rights of joint owner who pays his portion of tax - liability of nonpaying joint owner.",
+      "number": "323.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.47 - Lien on land to be discharged out of proceeds of sale.",
+      "number": "323.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.48 - Lien of part owner who pays tax.",
+      "number": "323.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.49 - Power of county treasurer to become receiver of land - procedure - exception.",
+      "number": "323.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.50 - Decision of court - rental value of commercial property - ability to collect taxes from income - discharge of receiver.",
+      "number": "323.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.51 - Prosecuting attorney shall represent county treasurer.",
+      "number": "323.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.61 - Tax receiving offices - location.",
+      "number": "323.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.611 - Contracting with financial institution to process payments, checks and fees.",
+      "number": "323.611",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.611"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.62 - Notice to taxpayer.",
+      "number": "323.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.63 - Depositing money received in payment of taxes.",
+      "number": "323.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.65 - Expedited foreclosure on unoccupied land definitions.",
+      "number": "323.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.66 - Expedited foreclosure by board of revision on unoccupied land.",
+      "number": "323.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.67 - List of parcels of abandoned land.",
+      "number": "323.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.67"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.68 - Title search to identify persons with interest in land.",
+      "number": "323.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.68"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.69 - Complaint for foreclosure - dismissal by board.",
+      "number": "323.69",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.69"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.691 - Transfer of complaint to court of common pleas or municipal court.",
+      "number": "323.691",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.691"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.70 - Final hearing on complaint - dismissal on petition.",
+      "number": "323.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.71 - Procedure where impositions exceed fair market value.",
+      "number": "323.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.72 - Answer - hearing on or dismissal of complaint.",
+      "number": "323.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.73 - Disposal of abandoned land at public auction.",
+      "number": "323.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.74 - Disposition of abandoned land not sold at auction.",
+      "number": "323.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.74"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.75 - Apportionment of costs of sale at auction.",
+      "number": "323.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.76 - Termination of right of redemption on sale or transfer.",
+      "number": "323.76",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.76"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.77 - Notice by electing subdivision of desire to acquire land.",
+      "number": "323.77",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.77"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.78 - Invocation of alternative redemption period.",
+      "number": "323.78",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.78"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.79 - Appeal by aggrieved party in court of common pleas.",
+      "number": "323.79",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.79"
+    },
+    {
+      "kind": "section",
+      "label": "Section 323.99 - Penalty.",
+      "number": "323.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.99"
+    }
+  ],
+  "scraped": "2026-07-02T19:32:49+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-323",
+  "title": "Chapter 323 - Collection of Taxes"
+}

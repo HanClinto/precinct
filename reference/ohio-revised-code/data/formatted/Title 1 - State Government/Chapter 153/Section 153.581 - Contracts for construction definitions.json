@@ -1,0 +1,64 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Public works contract\" means any contract awarded by a contracting authority for the construction, engineering, alteration, or repair of any public building, public highway, or other public work.",
+      "id": "153.581-public-works-contract",
+      "normalized": "public works contract",
+      "scope": "As used in sections 153.581 and 153.591 of the Revised Code:",
+      "section": "153.581",
+      "source_title": "Section 153.581 - Contracts for construction definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-153.581",
+      "term": "Public works contract"
+    },
+    {
+      "definition": "(B) \"Contracting authority\" means the state, any township, county, municipal corporation, school board, or other governmental entity empowered to award a public works contract, and any construction manager at risk as defined in section 9.33 of the Revised Code or design-build firm as defined in section 153.65 of the Revised Code awarding a subcontract.",
+      "id": "153.581-contracting-authority",
+      "normalized": "contracting authority",
+      "scope": "As used in sections 153.581 and 153.591 of the Revised Code:",
+      "section": "153.581",
+      "source_title": "Section 153.581 - Contracts for construction definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-153.581",
+      "term": "Contracting authority"
+    },
+    {
+      "definition": "(C) \"Contractor\" means any person, partnership, corporation, or association that has been awarded a public works contract.",
+      "id": "153.581-contractor",
+      "normalized": "contractor",
+      "scope": "As used in sections 153.581 and 153.591 of the Revised Code:",
+      "section": "153.581",
+      "source_title": "Section 153.581 - Contracts for construction definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-153.581",
+      "term": "Contractor"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "153.581",
+      "number": "153.581",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.581"
+    },
+    {
+      "kind": "section",
+      "label": "153.591",
+      "number": "153.591",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.591"
+    },
+    {
+      "kind": "section",
+      "label": "9.33",
+      "number": "9.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-9.33"
+    },
+    {
+      "kind": "section",
+      "label": "153.65",
+      "number": "153.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.65"
+    }
+  ],
+  "scraped": "2026-07-02T19:32:02+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-153.581",
+  "title": "Section 153.581 - Contracts for construction definitions."
+}

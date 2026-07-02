@@ -1,0 +1,98 @@
+{
+  "glossary": [
+    {
+      "definition": "(2) \"Land or premises\" includes any land, building, structure, or place belonging to, controlled by, or in custody of another, and any separate enclosure or room, or portion thereof.\n\n(3) \"Production operation,\" \"well,\" and \"well pad\" have the same meanings as in section 1509.01 of the Revised Code.",
+      "id": "2911.21-land-or-premises",
+      "normalized": "land or premises",
+      "scope": "(F) As used in this section:",
+      "section": "2911.21",
+      "source_title": "Section 2911.21 - Criminal trespass.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2911.21",
+      "term": "Land or premises"
+    },
+    {
+      "definition": "(4) \"Critical infrastructure facility\" means:\n\n(a) One of the following, if completely enclosed by a fence or other physical barrier that is obviously designed to exclude intruders, or if clearly marked with signs that are reasonably likely to come to the attention of potential intruders and that indicate entry is forbidden without site authorization:\n\n(i) A petroleum or alumina refinery;\n\n(ii) An electric generating facility, substation, switching station, electrical control center, or electric transmission and distribution lines and associated equipment;\n\n(iii) A chemical, polymer, or rubber manufacturing facility;\n\n(iv) A water intake structure, water treatment facility, waste water facility, drainage facility, water management facility, or any similar water or sewage treatment system and its water and sewage piping;\n\n(v) A natural gas company facility or interstate natural gas pipeline, including a pipeline interconnection, a natural gas compressor station and associated facilities, city gate or town border station, metering station, above-ground piping, regulator station, valve site, delivery station, fabricated assembly, or any other part of a natural gas storage facility involved in the gathering, storage, transmission, or distribution of gas;\n\n(vi) A telecommunications central switching office or remote switching facility or an equivalent network facility that serves a similar purpose;\n\n(vii) Wireline or wireless telecommunications infrastructure, including telecommunications towers and telephone poles and lines, including fiber optic lines;\n\n(viii) A port, trucking terminal, or other freight transportation facility;\n\n(ix) A gas processing plant, including a plant used in the processing, treatment, or fractionation of natural gas or natural gas liquids;\n\n(x) A transmission facility used by a federally licensed radio or television station;\n\n(xi) A steel-making facility that uses an electric arc furnace to make steel;\n\n(xii) A facility identified and regulated by the United States department of homeland security's chemical facility anti-terrorism standards program under 6 C.F.R. part 27;\n\n(xiii) A dam that is regulated by the state or federal government;\n\n(xiv) A crude oil or refined products storage and distribution facility, including valve sites, pipeline interconnections, pump station, metering station, below- or above-ground pipeline, or piping and truck loading or off-loading facility;",
+      "id": "2911.21-critical-infrastructure-facility",
+      "normalized": "critical infrastructure facility",
+      "scope": "(F) As used in this section:",
+      "section": "2911.21",
+      "source_title": "Section 2911.21 - Criminal trespass.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2911.21",
+      "term": "Critical infrastructure facility"
+    },
+    {
+      "definition": "(xv) A video service network and broadband infrastructure, including associated buildings and facilities, video service headends, towers, utility poles, and utility lines such as fiber optic lines. As used in this division, \"video service network\" has the same meaning as in section 1332.21 of the Revised Code.\n\n(xvi) Any above-ground portion of an oil, gas, hazardous liquid or chemical pipeline, tank, or other storage facility;\n\n(xvii) Any above-ground portion of a well, well pad, or production operation;\n\n(xviii) A laydown area or construction site for pipe and other equipment intended for use on an interstate or intrastate natural gas or crude oil pipeline;\n\n(xix) Any mining operation, including any processing equipment, batching operation, or support facility for that mining operation.\n\n(b) With respect to a video service network or broadband or wireless telecommunications infrastructure, the above-ground portion of a facility installed in a public right-of-way on a utility pole or in a conduit;\n\n(c) Any railroad property;\n\n(d) An electronic asset of any of the following:\n\n(i) An electric light company that is a public utility under section 4905.02 of the Revised Code;\n\n(ii) An electric cooperative, as defined in section 4928.01 of the Revised Code;\n\n(iii) A municipal electric utility, as defined in section 4928.01 of the Revised Code;\n\n(iv) A natural gas company that is a public utility under section 4905.02 of the Revised Code;\n\n(v) A telephone company that is a public utility under section 4905.02 of the Revised Code;\n\n(vi) A video service provider, including a cable operator, as those terms are defined in section 1332.21 of the Revised Code.",
+      "id": "2911.21-video-service-network",
+      "normalized": "video service network",
+      "scope": "(F) As used in this section:",
+      "section": "2911.21",
+      "source_title": "Section 2911.21 - Criminal trespass.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2911.21",
+      "term": "video service network"
+    },
+    {
+      "definition": "(5) \"Electronic asset\" includes, but is not limited to, the hardware, software, and data of a programmable electronic device; all communications, operations, and customer data networks; and the contents of those data networks.",
+      "id": "2911.21-electronic-asset",
+      "normalized": "electronic asset",
+      "scope": "(F) As used in this section:",
+      "section": "2911.21",
+      "source_title": "Section 2911.21 - Criminal trespass.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2911.21",
+      "term": "Electronic asset"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2929.28",
+      "number": "2929.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2929.28"
+    },
+    {
+      "kind": "section",
+      "label": "4519.47",
+      "number": "4519.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4519.47"
+    },
+    {
+      "kind": "section",
+      "label": "4519.11",
+      "number": "4519.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4519.11"
+    },
+    {
+      "kind": "section",
+      "label": "4519.01",
+      "number": "4519.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4519.01"
+    },
+    {
+      "kind": "section",
+      "label": "1509.01",
+      "number": "1509.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1509.01"
+    },
+    {
+      "kind": "section",
+      "label": "1332.21",
+      "number": "1332.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1332.21"
+    },
+    {
+      "kind": "section",
+      "label": "4905.02",
+      "number": "4905.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4905.02"
+    },
+    {
+      "kind": "section",
+      "label": "4928.01",
+      "number": "4928.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.01"
+    }
+  ],
+  "scraped": "2026-07-02T19:46:08+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2911.21",
+  "title": "Section 2911.21 - Criminal trespass."
+}

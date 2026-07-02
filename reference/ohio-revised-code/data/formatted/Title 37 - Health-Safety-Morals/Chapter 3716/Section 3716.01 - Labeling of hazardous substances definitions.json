@@ -1,0 +1,144 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Department\" means the department of health.",
+      "id": "3716.01-department",
+      "normalized": "department",
+      "scope": "As used in sections 3716.01 to 3716.07 , inclusive, of the Revised Code:",
+      "section": "3716.01",
+      "source_title": "Section 3716.01 - Labeling of hazardous substances definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3716.01",
+      "term": "Department"
+    },
+    {
+      "definition": "(B) \"Director\" means the director of health.",
+      "id": "3716.01-director",
+      "normalized": "director",
+      "scope": "As used in sections 3716.01 to 3716.07 , inclusive, of the Revised Code:",
+      "section": "3716.01",
+      "source_title": "Section 3716.01 - Labeling of hazardous substances definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3716.01",
+      "term": "Director"
+    },
+    {
+      "definition": "(C) \"Person\" includes an individual, partnership, corporation, or association.",
+      "id": "3716.01-person",
+      "normalized": "person",
+      "scope": "As used in sections 3716.01 to 3716.07 , inclusive, of the Revised Code:",
+      "section": "3716.01",
+      "source_title": "Section 3716.01 - Labeling of hazardous substances definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3716.01",
+      "term": "Person"
+    },
+    {
+      "definition": "(D) \"Hazardous substance\" means any substance or mixture of substances which is toxic, corrosive, an irritant, strong sensitizer, flammable, or which generates pressure through decomposition, heat, or other means, if such substance or mixture of substances may cause substantial personal injury or illness during any customary or reasonably anticipated handling or use.\n\n(E) \"Toxic\" applies to any substance which has the inherent capacity to produce bodily injury to man through ingestion, inhalation, or absorption through any body surface.",
+      "id": "3716.01-hazardous-substance",
+      "normalized": "hazardous substance",
+      "scope": "As used in sections 3716.01 to 3716.07 , inclusive, of the Revised Code:",
+      "section": "3716.01",
+      "source_title": "Section 3716.01 - Labeling of hazardous substances definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3716.01",
+      "term": "Hazardous substance"
+    },
+    {
+      "definition": "(F)(1) \"Highly toxic\" means any substance which falls within any of the following categories:\n\n(a) Produces death within fourteen days in half or more than half of a group of ten or more laboratory white rats each weighing between two hundred and three hundred grams, at a single dose of fifty milligrams or less per kilogram of body weight, when orally administered;\n\n(b) Produces death within fourteen days in half or more than half of a group of ten or more laboratory white rats each weighing between two hundred and three hundred grams, when inhaled continuously for a period of one hour or less at an atmospheric concentration of two hundred parts per million by volume or less of gas, vapor, mist, or dust provided such concentration is likely to be encountered by a human being when the substance is used in any reasonably foreseeable manner;\n\n(c) Produces death within fourteen days in half or more than half of a group of ten or more rabbits tested in a dosage of two hundred milligrams or less per kilogram of body weight, when administered by continuous contact with the bare skin for twenty-four hours or less.\n\n(2) If the director finds that available data on human experience with any substance indicates results different from those obtained on animals in the above named dosages or concentrations, the human data shall take precedence.",
+      "id": "3716.01-highly-toxic",
+      "normalized": "highly toxic",
+      "scope": "As used in sections 3716.01 to 3716.07 , inclusive, of the Revised Code:",
+      "section": "3716.01",
+      "source_title": "Section 3716.01 - Labeling of hazardous substances definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3716.01",
+      "term": "Highly toxic"
+    },
+    {
+      "definition": "(G) \"Corrosive\" means any substance which in contact with living tissue will cause destruction of tissue by chemical action; but shall not refer to action on inanimate surfaces.",
+      "id": "3716.01-corrosive",
+      "normalized": "corrosive",
+      "scope": "As used in sections 3716.01 to 3716.07 , inclusive, of the Revised Code:",
+      "section": "3716.01",
+      "source_title": "Section 3716.01 - Labeling of hazardous substances definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3716.01",
+      "term": "Corrosive"
+    },
+    {
+      "definition": "(H) \"Irritant\" means any substance not corrosive within the meaning of division (G) of this section which on immediate, prolonged, or repeated contact with normal living tissue will induce a local inflammatory reaction.",
+      "id": "3716.01-irritant",
+      "normalized": "irritant",
+      "scope": "As used in sections 3716.01 to 3716.07 , inclusive, of the Revised Code:",
+      "section": "3716.01",
+      "source_title": "Section 3716.01 - Labeling of hazardous substances definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3716.01",
+      "term": "Irritant"
+    },
+    {
+      "definition": "(I) \"Strong sensitizer\" means any substance which will cause on normal living tissue, through an allergic or photodynamic process, a hypersensitivity which becomes evident on reapplication of the same substance and which is designated as such by the director. Before designating any substance as a strong sensitizer, the director shall, after public hearing following due notice, find that the frequency of occurrence and severity of the reaction indicate a significant potential for causing hypersensitivity.\n\n(J) \"Extremely flammable\" applies to any substance which has a flash point at or below twenty degrees Fahrenheit as determined by the tagliabue open cut tester.\n\n(K) \"Flammable\" applies to any substance which has a flash point of above twenty degrees to and including eighty degrees Fahrenheit, as determined by the tagliabue open cut tester; except that the flammability of the contents of self-pressurized containers shall be determined by methods generally applicable to such containers and established by regulation of the director.",
+      "id": "3716.01-strong-sensitizer",
+      "normalized": "strong sensitizer",
+      "scope": "As used in sections 3716.01 to 3716.07 , inclusive, of the Revised Code:",
+      "section": "3716.01",
+      "source_title": "Section 3716.01 - Labeling of hazardous substances definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3716.01",
+      "term": "Strong sensitizer"
+    },
+    {
+      "definition": "(L) \"Label\" means a display of written, printed, or graphic matter upon or attached to the immediate package or container of any substance. Any word, statement, or other information required by sections 3716.01 to 3716.07 , inclusive, of the Revised Code, to appear on the label must also appear (1) on the outside container or wrapper, if any, unless it is easily legible through the outside container or wrapper, and (2) on all accompanying literature where there are directions for use, written or otherwise.",
+      "id": "3716.01-label",
+      "normalized": "label",
+      "scope": "As used in sections 3716.01 to 3716.07 , inclusive, of the Revised Code:",
+      "section": "3716.01",
+      "source_title": "Section 3716.01 - Labeling of hazardous substances definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3716.01",
+      "term": "Label"
+    },
+    {
+      "definition": "(M) \"Immediate container\" does not include package liners.",
+      "id": "3716.01-immediate-container",
+      "normalized": "immediate container",
+      "scope": "As used in sections 3716.01 to 3716.07 , inclusive, of the Revised Code:",
+      "section": "3716.01",
+      "source_title": "Section 3716.01 - Labeling of hazardous substances definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3716.01",
+      "term": "Immediate container"
+    },
+    {
+      "definition": "(N) \"Misbranded package\" means any container of a hazardous substance intended or suitable for household use which fails to bear a label:\n\n(1) Which states conspicuously:\n\n(a) The name and place of business of the manufacturer, packer, or distributor;\n\n(b) The common or usual name, or the chemical name or the recognized generic name (not trade name only) of the hazardous substance or of each component which contributes substantially to its hazard;\n\n(c) The signal word \"DANGER\" on substances which are extremely flammable, corrosive, or which:\n\n(i) Produce death within fourteen days in half or more than half of a group of ten or more laboratory white rats each weighing between two hundred and three hundred grams, at a single dose of one gram or less per kilogram of body weight, when orally administered;\n\n(ii) Produce death within fourteen days in half or more than half of a group of ten or more laboratory white rats each weighing between two hundred and three hundred grams, when inhaled continuously for a period of one hour or less at an atmospheric concentration of two thousand parts per million by volume of gas, vapor, mist, or dust, provided such concentration is likely to be encountered by a human being when the substances are used in any reasonably foreseeable manner;\n\n(iii) Produce death within fourteen days in half or more than half of a group of ten or more rabbits tested in a dosage of one gram or less per kilogram of body weight, when administered by continuous contact with the bare skin for twenty-four hours or less;\n\n(iv) If the director finds that available data on human experience with any substance indicates results different from those obtained on animals in the above named dosages or concentrations, the director may require the use of the signal word \"DANGER\" on such substance or permit use of the signal word \"WARNING\" or \"CAUTION\" on such substance.\n\n(d) The signal word \"WARNING\" or \"CAUTION\" on all other hazardous substances;\n\n(e) An affirmative statement of the principal hazard or hazards, such as \"Flammable,\" \"Vapor Harmful,\" \"Causes Burns,\" \"Absorbed Through Skin,\" or similar wording descriptive of the hazard;\n\n(f) Precautionary measures describing the action to be followed or avoided;\n\n(g) Instructions, when necessary, for the first-aid treatment in case of contact or exposure, if the substance is hazardous through contact or exposure;\n\n(h) The word \"poison\" for any hazardous substance which is defined as \"highly toxic\" by division (F) of this section;\n\n(i) Instructions for handling and storage of packages which require special care in handling or storage;\n\n(j) The statement \"Keep out of the reach of children,\" or its practical equivalent.\n\n(2) On which any statements required under division (N)(1) of this section are located prominently and are in the English language in legible type in contrast by typography, layout, or color with other printed matter on the label.\n\nThe director shall, by regulations, provide for minimum information which shall appear on the labels for small packages, which labels need not include all of the information required by this section. The director may permit less than the foregoing statement of the hazard or precautionary measures for labels of hazardous substances presenting only minor hazards; and the term \"misbranded package\" does not apply to packages of economic poisons subject to the \"Federal Insecticide, Fungicide, and Rodenticide Act,\" 61 Stat. 163 (1947), 7 U.S.C.A. 135, nor to packages of foods, drugs, and cosmetics subject to the \"Federal Food, Drug, and Cosmetic Act,\" nor to sections 3715.01 to 3715.72 , inclusive, of the Revised Code.",
+      "id": "3716.01-misbranded-package",
+      "normalized": "misbranded package",
+      "scope": "As used in sections 3716.01 to 3716.07 , inclusive, of the Revised Code:",
+      "section": "3716.01",
+      "source_title": "Section 3716.01 - Labeling of hazardous substances definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3716.01",
+      "term": "Misbranded package"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3716.01",
+      "number": "3716.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3716.01"
+    },
+    {
+      "kind": "section",
+      "label": "3716.07",
+      "number": "3716.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3716.07"
+    },
+    {
+      "kind": "section",
+      "label": "3715.01",
+      "number": "3715.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.01"
+    },
+    {
+      "kind": "section",
+      "label": "3715.72",
+      "number": "3715.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.72"
+    }
+  ],
+  "scraped": "2026-07-02T19:51:26+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3716.01",
+  "title": "Section 3716.01 - Labeling of hazardous substances definitions."
+}

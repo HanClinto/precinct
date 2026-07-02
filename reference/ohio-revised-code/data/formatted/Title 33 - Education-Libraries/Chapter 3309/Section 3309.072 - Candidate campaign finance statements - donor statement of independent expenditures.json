@@ -1,0 +1,144 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Campaign committee\" means a candidate or a combination of two or more persons authorized by a candidate to receive contributions and in-kind contributions and make expenditures on behalf of the candidate.",
+      "id": "3309.072-campaign-committee",
+      "normalized": "campaign committee",
+      "scope": "(A) As used in this section:",
+      "section": "3309.072",
+      "source_title": "Section 3309.072 - Candidate campaign finance statements - donor statement of independent expenditures.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3309.072",
+      "term": "Campaign committee"
+    },
+    {
+      "definition": "(2) \"Candidate\" means an individual who has been nominated pursuant to section 3309.07 of the Revised Code for election to the school employees retirement board or who is seeking to be elected to fill a vacancy on the board pursuant to division (D) of section 3309.06 of the Revised Code.",
+      "id": "3309.072-candidate",
+      "normalized": "candidate",
+      "scope": "(A) As used in this section:",
+      "section": "3309.072",
+      "source_title": "Section 3309.072 - Candidate campaign finance statements - donor statement of independent expenditures.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3309.072",
+      "term": "Candidate"
+    },
+    {
+      "definition": "(3) \"Contribution\" means a loan, gift, deposit, forgiveness of indebtedness, donation, advance, payment, transfer of funds or transfer of anything of value including a transfer of funds from an inter vivos or testamentary trust or decedent's estate, and the payment by any person other than the person to whom the services are rendered for the personal services of another person, which contribution is made, received, or used for the purpose of influencing the results of an election to the school employees retirement board under section 3309.07 of the Revised Code or the results of an election to fill a vacancy on the board pursuant to division (C) of section 3309.06 of the Revised Code. \"Contribution\" does not include:\n\n(a) Services provided without compensation by individuals volunteering a portion or all of their time on behalf of a person;\n\n(b) Ordinary home hospitality;\n\n(c) The personal expenses of a volunteer paid for by that volunteer campaign worker.",
+      "id": "3309.072-contribution",
+      "normalized": "contribution",
+      "scope": "(A) As used in this section:",
+      "section": "3309.072",
+      "source_title": "Section 3309.072 - Candidate campaign finance statements - donor statement of independent expenditures.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3309.072",
+      "term": "Contribution"
+    },
+    {
+      "definition": "(4) \"Election day\" means the following, as appropriate to the situation:\n\n(a) The first Monday in March of a year for which section 3309.06 of the Revised Code specifies that an election for a member of the school employees retirement board be held;\n\n(b) If, pursuant to section 3309.071 of the Revised Code, no election is held, the first Monday in March of a year that the election would have been held if not for section 3309.071 of the Revised Code.",
+      "id": "3309.072-election-day",
+      "normalized": "election day",
+      "scope": "(A) As used in this section:",
+      "section": "3309.072",
+      "source_title": "Section 3309.072 - Candidate campaign finance statements - donor statement of independent expenditures.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3309.072",
+      "term": "Election day"
+    },
+    {
+      "definition": "(5) \"Expenditure\" means the disbursement or use of a contribution for the purpose of influencing the results of an election to the school employees retirement board under section 3309.07 of the Revised Code or the results of an election to fill a vacancy on the board pursuant to division (D) of section 3309.06 of the Revised Code.\n\n(6) \"Independent expenditure\" means an expenditure by an individual, partnership, or other entity advocating the election or defeat of an identified candidate or candidates, that is not made with the consent of, in coordination, cooperation, or consultation with, or at the request or suggestion of any candidate or candidates or of the campaign committee or agent of the candidate or candidates. An independent expenditure shall not be construed as being a contribution. As used in division (A)(6) of this section:",
+      "id": "3309.072-expenditure",
+      "normalized": "expenditure",
+      "scope": "(A) As used in this section:",
+      "section": "3309.072",
+      "source_title": "Section 3309.072 - Candidate campaign finance statements - donor statement of independent expenditures.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3309.072",
+      "term": "Expenditure"
+    },
+    {
+      "definition": "(a) \"Advocating\" means any communication containing a message advocating election or defeat.",
+      "id": "3309.072-advocating",
+      "normalized": "advocating",
+      "scope": "(6) \"Independent expenditure\" means an expenditure by an individual, partnership, or other entity advocating the election or defeat of an identified candidate or candidates, that is not made with the consent of, in coordination, cooperation, or consultation with, or at the request or suggestion of any candidate or candidates or of the campaign committee or agent of the candidate or candidates. An independent expenditure shall not be construed as being a contribution. As used in division (A)(6) of this section:",
+      "section": "3309.072",
+      "source_title": "Section 3309.072 - Candidate campaign finance statements - donor statement of independent expenditures.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3309.072",
+      "term": "Advocating"
+    },
+    {
+      "definition": "(b) \"Identified candidate\" means that the name of the candidate appears, a photograph or drawing of the candidate appears, or the identity of the candidate is otherwise apparent by unambiguous reference.",
+      "id": "3309.072-identified-candidate",
+      "normalized": "identified candidate",
+      "scope": "(6) \"Independent expenditure\" means an expenditure by an individual, partnership, or other entity advocating the election or defeat of an identified candidate or candidates, that is not made with the consent of, in coordination, cooperation, or consultation with, or at the request or suggestion of any candidate or candidates or of the campaign committee or agent of the candidate or candidates. An independent expenditure shall not be construed as being a contribution. As used in division (A)(6) of this section:",
+      "section": "3309.072",
+      "source_title": "Section 3309.072 - Candidate campaign finance statements - donor statement of independent expenditures.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3309.072",
+      "term": "Identified candidate"
+    },
+    {
+      "definition": "(c) \"Made in coordination, cooperation, or consultation with, or at the request or suggestion of, any candidate or the campaign committee or agent of the candidate\" means made pursuant to any arrangement, coordination, or direction by the candidate, the candidate's campaign committee, or the candidate's agent prior to the publication, distribution, display, or broadcast of the communication. An expenditure is presumed to be so made when it is any of the following:\n\n(i) Based on information about the candidate's plans, projects, or needs provided to the person making the expenditure by the candidate, or by the candidate's campaign committee or agent, with a view toward having an expenditure made;\n\n(ii) Made by or through any person who is, or has been, authorized to raise or expend funds, who is, or has been, an officer of the candidate's campaign committee, or who is, or has been, receiving any form of compensation or reimbursement from the candidate or the candidate's campaign committee or agent;\n\n(iii) Made by a political party in support of a candidate, unless the expenditure is made by a political party to conduct voter registration or voter education efforts.",
+      "id": "3309.072-made-in-coordination-cooperation-or-consultation-with-or-at-the-request-or-suggestion-of-any-candidate-or-the-campaign-committee-or-agent-of-the-candidate",
+      "normalized": "made in coordination, cooperation, or consultation with, or at the request or suggestion of, any candidate or the campaign committee or agent of the candidate",
+      "scope": "(6) \"Independent expenditure\" means an expenditure by an individual, partnership, or other entity advocating the election or defeat of an identified candidate or candidates, that is not made with the consent of, in coordination, cooperation, or consultation with, or at the request or suggestion of any candidate or candidates or of the campaign committee or agent of the candidate or candidates. An independent expenditure shall not be construed as being a contribution. As used in division (A)(6) of this section:",
+      "section": "3309.072",
+      "source_title": "Section 3309.072 - Candidate campaign finance statements - donor statement of independent expenditures.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3309.072",
+      "term": "Made in coordination, cooperation, or consultation with, or at the request or suggestion of, any candidate or the campaign committee or agent of the candidate"
+    },
+    {
+      "definition": "(d) \"Agent\" means any person who has actual oral or written authority, either express or implied, to make or to authorize the making of expenditures on behalf of a candidate, or means any person who has been placed in a position with the candidate's campaign committee or organization such that it would reasonably appear that in the ordinary course of campaign-related activities the person may authorize expenditures.",
+      "id": "3309.072-agent",
+      "normalized": "agent",
+      "scope": "(6) \"Independent expenditure\" means an expenditure by an individual, partnership, or other entity advocating the election or defeat of an identified candidate or candidates, that is not made with the consent of, in coordination, cooperation, or consultation with, or at the request or suggestion of any candidate or candidates or of the campaign committee or agent of the candidate or candidates. An independent expenditure shall not be construed as being a contribution. As used in division (A)(6) of this section:",
+      "section": "3309.072",
+      "source_title": "Section 3309.072 - Candidate campaign finance statements - donor statement of independent expenditures.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3309.072",
+      "term": "Agent"
+    },
+    {
+      "definition": "(7) \"In-kind contribution\" means anything of value other than money that is used to influence the results of an election to the school employees retirement board under section 3309.07 of the Revised Code or the results of an election to fill a vacancy on the board pursuant to division (C) of section 3309.06 of the Revised Code or is transferred to or used in support of or in opposition to a candidate and that is made with the consent of, in coordination, cooperation, or consultation with, or at the request or suggestion of the benefited candidate. The financing of the dissemination, distribution, or republication, in whole or part, of any broadcast or of any written, graphic, or other form of campaign materials prepared by the candidate, the candidate's campaign committee, or their authorized agents is an in-kind contribution to the candidate and an expenditure by the candidate.",
+      "id": "3309.072-in-kind-contribution",
+      "normalized": "in-kind contribution",
+      "scope": "(6) \"Independent expenditure\" means an expenditure by an individual, partnership, or other entity advocating the election or defeat of an identified candidate or candidates, that is not made with the consent of, in coordination, cooperation, or consultation with, or at the request or suggestion of any candidate or candidates or of the campaign committee or agent of the candidate or candidates. An independent expenditure shall not be construed as being a contribution. As used in division (A)(6) of this section:",
+      "section": "3309.072",
+      "source_title": "Section 3309.072 - Candidate campaign finance statements - donor statement of independent expenditures.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3309.072",
+      "term": "In-kind contribution"
+    },
+    {
+      "definition": "(8) \"Personal expenses\" includes ordinary expenses for accommodations, clothing, food, personal motor vehicle or airplane, and home telephone.\n\n(B) Except as otherwise provided in division (D) of this section, each candidate who, or whose campaign committee, receives contributions or in-kind contributions totaling one thousand dollars or more or has expenditures totaling one thousand dollars or more in connection with the candidate's efforts to be elected to the school employees retirement board under section 3309.07 of the Revised Code shall file with the secretary of state two complete, accurate, and itemized statements setting forth in detail the contributions, in-kind contributions, and expenditures. The statements shall be filed regardless of whether, pursuant to section 3309.071 of the Revised Code, no election is held. The statements shall be made on a form prescribed under section 111.30 of the Revised Code. Every expenditure in excess of twenty-five dollars shall be vouched for by a receipted bill, stating the purpose of the expenditures, that shall be filed with the statement; a canceled check with a notation of the purpose of the expenditure is a receipted bill for purposes of this division.\n\nThe first statement shall be filed not later than four p.m. on the day that is twelve days before election day. The second statement shall be filed not sooner than the day that is eight days after election day and not later than thirty-eight days after election day. The first statement shall reflect contributions and in-kind contributions received and expenditures made to the close of business on the twentieth day before election day. The second statement shall reflect contributions and in-kind contributions received and expenditures made during the period beginning on the nineteenth day before election day and ending on the close of business on the seventh day after election day.\n\n(C) Each individual, partnership, or other entity who makes an independent expenditure in connection with the candidate's efforts to be elected to the school employees retirement board under section 3309.07 of the Revised Code shall file with the secretary of state two complete, accurate, and itemized statements setting forth in detail the independent expenditures. The statements shall be filed regardless of whether, pursuant to section 3309.071 of the Revised Code, no election is held. The statements shall be made on a form prescribed under section 111.30 of the Revised Code.\n\nThe first statement shall be filed not later than four p.m. on the day that is twelve days before election day. The second statement shall be filed not sooner than the day that is eight days after election day and not later than thirty-eight days after election day. The first statement shall reflect independent expenditures made to the close of business on the twentieth day before election day. The second statement shall reflect independent expenditures made during the period beginning on the nineteenth day before election day and ending on the close of business on the seventh day after election day.\n\n(D) Each candidate who, or whose campaign committee, receives contributions or in-kind contributions totaling one thousand dollars or more or has expenditures totaling one thousand dollars or more in connection with the candidate's efforts to be elected to fill a vacancy in the school employees retirement board pursuant to division (C) of section 3309.06 of the Revised Code shall file with the secretary of state a complete, accurate, and itemized statement setting forth in detail the contributions, in-kind contributions, and expenditures. The statement shall be made on a form prescribed under section 111.30 of the Revised Code. Every expenditure in excess of twenty-five dollars shall be vouched for by a receipted bill, stating the purpose of the expenditures, that shall be filed with the statement; a canceled check with a notation of the purpose of the expenditure is a receipted bill for purposes of this division.\n\nThe statement shall be filed within thirty-eight days after the day the candidate takes office. The statement shall reflect contributions and in-kind contributions received and expenditures made to the close of business on the seventh day after the day the candidate takes office.\n\n(E) Each individual, partnership, or other entity that makes an independent expenditure in connection with the candidate's efforts to be elected to fill a vacancy in the school employees retirement board under division (C) of section 3309.06 of the Revised Code shall file with the secretary of state a complete, accurate, and itemized statement setting forth in detail the independent expenditures. The statement shall be made on a form prescribed under section 111.30 of the Revised Code.\n\nThe statement shall be filed not later than thirty-eight days after the day the candidate takes office. The statement shall reflect independent expenditures made to the close of business on the seventh day after the day the candidate takes office.",
+      "id": "3309.072-personal-expenses",
+      "normalized": "personal expenses",
+      "scope": "(6) \"Independent expenditure\" means an expenditure by an individual, partnership, or other entity advocating the election or defeat of an identified candidate or candidates, that is not made with the consent of, in coordination, cooperation, or consultation with, or at the request or suggestion of any candidate or candidates or of the campaign committee or agent of the candidate or candidates. An independent expenditure shall not be construed as being a contribution. As used in division (A)(6) of this section:",
+      "section": "3309.072",
+      "source_title": "Section 3309.072 - Candidate campaign finance statements - donor statement of independent expenditures.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3309.072",
+      "term": "Personal expenses"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3309.07",
+      "number": "3309.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.07"
+    },
+    {
+      "kind": "section",
+      "label": "3309.06",
+      "number": "3309.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.06"
+    },
+    {
+      "kind": "section",
+      "label": "3309.071",
+      "number": "3309.071",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.071"
+    },
+    {
+      "kind": "section",
+      "label": "111.30",
+      "number": "111.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-111.30"
+    }
+  ],
+  "scraped": "2026-07-02T19:48:28+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3309.072",
+  "title": "Section 3309.072 - Candidate campaign finance statements - donor statement of independent expenditures."
+}

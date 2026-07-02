@@ -1,0 +1,36 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Health care provider\" means any person or entity against whom a medical claim may be asserted in a civil action.",
+      "id": "2317.44-health-care-provider",
+      "normalized": "health care provider",
+      "scope": "(A) As used in this section:",
+      "section": "2317.44",
+      "source_title": "Section 2317.44 - Admissibility of guidelines, regulations, or standards.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2317.44",
+      "term": "Health care provider"
+    },
+    {
+      "definition": "(2) \"Medical claim\" has the same meaning as in section 2305.113 of the Revised Code.\n\n(B) Any guideline, regulation, or other standard under any provision of the \"Patient Protection and Affordable Care Act,\" 124 Stat. 119 (2010), 42 U.S.C. 18001 et seq., as amended, Title XVIII of the \"Social Security Act,\" 42 U.S.C. 1395 et seq., as amended, and Title XIX of the \"Social Security Act,\" 42 U.S.C. 1396 et seq., as amended, shall not be construed to establish the standard of care or duty of care owed by a health care provider to a patient in a medical claim and is not admissible as evidence for or against any party in any civil action based upon the medical claim or in any civil or administrative action involving the licensing or licensure status of the health care provider.",
+      "id": "2317.44-medical-claim",
+      "normalized": "medical claim",
+      "scope": "(A) As used in this section:",
+      "section": "2317.44",
+      "source_title": "Section 2317.44 - Admissibility of guidelines, regulations, or standards.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2317.44",
+      "term": "Medical claim"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2305.113",
+      "number": "2305.113",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.113"
+    }
+  ],
+  "scraped": "2026-07-02T19:44:05+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2317.44",
+  "title": "Section 2317.44 - Admissibility of guidelines, regulations, or standards."
+}

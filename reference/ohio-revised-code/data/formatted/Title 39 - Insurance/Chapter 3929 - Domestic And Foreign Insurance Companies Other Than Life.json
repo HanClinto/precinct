@@ -1,0 +1,471 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 3929.01 - Powers of companies - deposits required of foreign companies.",
+      "number": "3929.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.011 - Capitalization requirements.",
+      "number": "3929.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.011"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.012 - Reserve requirements.",
+      "number": "3929.012",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.012"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.02 - Liability incurred on any single risk.",
+      "number": "3929.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.03 - Employee subrogated to rights of employer.",
+      "number": "3929.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.04 - Rights and remedies pass to personal representatives.",
+      "number": "3929.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.05 - Liability of insurance company for bodily injury or death.",
+      "number": "3929.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.06 - Satisfying final judgment.",
+      "number": "3929.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.07 - Deposit with superintendent of insurance required.",
+      "number": "3929.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.08 - Deposits required by other states.",
+      "number": "3929.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.09 - Maintenance and withdrawal of securities.",
+      "number": "3929.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.10 - Deposit required of guaranty company.",
+      "number": "3929.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.11 - Deposit by foreign guaranty company.",
+      "number": "3929.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.13 - Estoppel of company executing bond.",
+      "number": "3929.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.14 - Sufficiency of bonds executed by guaranty company.",
+      "number": "3929.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.141 - Surety for guaranteed arrest bond certificates issued by automobile club or association.",
+      "number": "3929.141",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.141"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.15 - Allowance of premium to surety company.",
+      "number": "3929.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.16 - Bonds of public officers.",
+      "number": "3929.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.17 - Payment of premiums on bonds.",
+      "number": "3929.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.18 - Lien of mutual companies for premium notes.",
+      "number": "3929.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.19 - Cancellation of policies.",
+      "number": "3929.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.20 - Rates of cancellation for cash policies.",
+      "number": "3929.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.21 - Rates of cancellation for policies on the mutual plan.",
+      "number": "3929.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.22 - Rates of cancellation for policies on installment plan.",
+      "number": "3929.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.24 - Enforcement by superintendent.",
+      "number": "3929.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.25 - Extent of liability under policy.",
+      "number": "3929.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.26 - More than one policy on same property.",
+      "number": "3929.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.27 - Solicitor agent of company.",
+      "number": "3929.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.28 - Execution of contracts.",
+      "number": "3929.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.29 - Restrictions in advertisements - forfeiture.",
+      "number": "3929.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.30 - Annual report.",
+      "number": "3929.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.302 - Annual claims report by medical malpractice insurers - fine - confidentiality.",
+      "number": "3929.302",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.302"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.31 - Special report.",
+      "number": "3929.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.32 - Prohibition against failure to make statement.",
+      "number": "3929.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.33 - Schedule of experience as to liabilities with annual statement.",
+      "number": "3929.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.34 - Distribution of unallocated payments.",
+      "number": "3929.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.35 - Determination of indebtedness charged for outstanding losses.",
+      "number": "3929.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.36 - Schedule requirements for corporations issuing certain policies.",
+      "number": "3929.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.37 - Action by attorney general.",
+      "number": "3929.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.41 - Purposes.",
+      "number": "3929.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.42 - Urban homeowners insurance definitions.",
+      "number": "3929.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.43 - Ohio fair plan underwriting association.",
+      "number": "3929.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.44 - Application by person unable to obtain basic property or homeowners insurance.",
+      "number": "3929.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.45 - Examination into operation of association.",
+      "number": "3929.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.46 - Superintendent may require reports from insurers.",
+      "number": "3929.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.47 - Appeals - judicial review.",
+      "number": "3929.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.48 - Immunity.",
+      "number": "3929.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.481 - Issuing fair plan policies.",
+      "number": "3929.481",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.481"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.482 - Contracts to provide administrative and claims adjusting services.",
+      "number": "3929.482",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.482"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.49 - Furnishing information to show compliance with law.",
+      "number": "3929.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.50 - Mine subsidence insurance definitions.",
+      "number": "3929.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.51 - Mine subsidence insurance underwriting association - reinsurance - governing board.",
+      "number": "3929.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.52 - Mine subsidence insurance fund.",
+      "number": "3929.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.53 - Proposed plan of operation for economical, fair, and nondiscriminatory administration of mine subsidence insurance fund.",
+      "number": "3929.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.55 - Auditor of state - annual audit of insurance fund.",
+      "number": "3929.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.56 - Mine subsidence coverage for homeowners in designated counties.",
+      "number": "3929.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.58 - Reinsurance agreement with Ohio mine subsidence insurance underwriting association.",
+      "number": "3929.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.59 - Distribution of premiums collected.",
+      "number": "3929.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.60 - Report of amount of mine subsidence insurance premiums.",
+      "number": "3929.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.61 - No right of recourse except for fraud.",
+      "number": "3929.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.62 - Definitions.",
+      "number": "3929.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.63 - Creating medical liability underwriting association.",
+      "number": "3929.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.631 - Stabilization reserve fund.",
+      "number": "3929.631",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.631"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.632 - Dissolution or suspension.",
+      "number": "3929.632",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.632"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.64 - Board of governors.",
+      "number": "3929.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.65 - Proposing plan of operation.",
+      "number": "3929.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.66 - Application for medical liability insurance.",
+      "number": "3929.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.661 - Option of being liable as a co-insurer.",
+      "number": "3929.661",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.661"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.67 - Reasons for cancellation.",
+      "number": "3929.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.67"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.68 - No liability.",
+      "number": "3929.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.68"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.681 - Appeals.",
+      "number": "3929.681",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.681"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.682 - Medical liability fund.",
+      "number": "3929.682",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.682"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.69 - Filing statement of transactions and affairs.",
+      "number": "3929.69",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.69"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.70 - Exemption from fees and taxes.",
+      "number": "3929.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.85 - Limits on assessments by associations.",
+      "number": "3929.85",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.85"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.86 - Fire loss claims.",
+      "number": "3929.86",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.86"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3929.87 - Determination as to whether loss caused by arson.",
+      "number": "3929.87",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.87"
+    }
+  ],
+  "scraped": "2026-07-02T20:02:57+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-3929",
+  "title": "Chapter 3929 - Domestic And Foreign Insurance Companies Other Than Life"
+}

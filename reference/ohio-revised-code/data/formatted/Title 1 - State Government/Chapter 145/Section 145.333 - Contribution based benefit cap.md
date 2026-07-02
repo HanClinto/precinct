@@ -1,0 +1,36 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-145.333
+Scraped: 2026-07-02T19:31:54+00:00
+
+# Section 145.333 - Contribution based benefit cap.
+
+**Effective:** October 3, 2023
+
+**Latest Legislation:** House Bill 33 - 135th General Assembly
+
+(A) As used in this section:
+
+(1) "Retirement allowance" means any of the following as appropriate:
+
+(a) An allowance calculated under section 145.33 , 145.332 , or 145.335 of the Revised Code prior to any reduction for early retirement or election under section 145.46 of the Revised Code of a plan of payment and exclusive of any amounts payable under divisions (I)(2)(b) and (c) or (I)(3)(b) and (c) of section 145.332 of the Revised Code;
+
+(b) An allowance calculated under division (A) of section 145.45 of the Revised Code;
+
+(c) An allowance calculated under division (B)(1)(a) of section 145.331 of the Revised Code.
+
+(2) "CBBC" means the contribution based benefit cap, a limit established by the public employees retirement board on the retirement allowance a member may receive.
+
+(B) Based on the advice of an actuary appointed by the board, the board shall designate a number as the CBBC factor. The board may revise the factor pursuant to advice from an actuary appointed by the board.
+
+(C) Prior to paying a retirement allowance, the public employees retirement system shall make the following calculations:
+
+(1) Determine an amount equal to the value of the member's accumulated contributions, exclusive of contributions payable under divisions (I)(2)(b) and (c) or (I)(3)(b) and (c) of section 145.332 of the Revised Code but including any contributions made under section 145.483 of the Revised Code that represent member contributions, any contributions used to fund a benefit under section 145.36 of the Revised Code, with interest compounded at a rate approved by the board, and a portion of any amounts paid by an employer under sections 145.297 or 145.298 of the Revised Code, as determined by an actuary appointed by the board;
+
+(2) Determine the amount of a single life annuity that is the actuarial equivalent of the amount determined under division (C)(1) of this section, adjusted for age of the member at the time of retirement or, when appropriate, the age at the time of the member's death;
+
+(3) Multiply the annuity amount determined under division (C)(2) of this section by the CBBC factor.
+
+(D) The amount determined under division (C)(3) of this section is the member's CBBC. Except as provided in division (E) of this section, if the retirement allowance the member would receive exceeds the member's CBBC, the allowance shall be reduced to an amount equal to the member's CBBC.
+
+(E) The retirement allowance of a member eligible for age and service retirement under division (A) of section 145.32 of the Revised Code or division (A) of section 145.332 of the Revised Code shall not be reduced under division (D) of this section by more than five per cent of the member's single lifetime allowance computed under section 145.33 or 145.332 of the Revised Code, unless during any full month of service earned after January 1, 1987, the member's earnable salary was less than one thousand dollars.
+
+Last updated August 15, 2023 at 1:42 PM

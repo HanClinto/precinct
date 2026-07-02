@@ -1,0 +1,18 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-751
+Scraped: 2026-07-02T19:34:07+00:00
+
+# Chapter 751 - Care Of Indigents And Orphans
+
+## Sections
+
+- Section 751.01 - Compensation for housing of indigents - housing certificates.
+- Section 751.02 - Monthly rental agreement - supplemental certificate.
+- Section 751.03 - County treasurer to receive certificate in payment of taxes - disposition of canceled and supplemental certificates.
+- Section 751.04 - Legislative authority to make provision for housing certificates in tax budget.
+- Section 751.05 - Municipal infirmaries - management and control.
+- Section 751.06 - Location of infirmary or pesthouse.
+- Section 751.07 - Regulations applicable to hospitals shall govern.
+- Section 751.08 - Care of inmates - separation of sexes.
+- Section 751.09 - Appointment of overseers of the poor.
+- Section 751.10 - Duties in case of partial relief.
+- Section 751.11 - Duties of director of public safety in case of no legal settlement.

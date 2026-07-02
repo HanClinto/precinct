@@ -1,0 +1,87 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-2108
+Scraped: 2026-07-02T19:41:18+00:00
+
+# Chapter 2108 - Human Bodies Or Parts Thereof
+
+## Sections
+
+- Section 2108.01 - Anatomical gift definitions.
+- Section 2108.02 - Revised uniform anatomical gift act adopted.
+- Section 2108.03 - Application of RC 2108.01 to RC 2108.29.
+- Section 2108.04 - Persons who may make anatomical gift.
+- Section 2108.05 - Manner of making anatomical gift.
+- Section 2108.06 - Amendment of anatomical gift.
+- Section 2108.07 - Refusal to make anatomical gift.
+- Section 2108.08 - Action by person other than donor.
+- Section 2108.09 - Anatomical gift after donor's death.
+- Section 2108.10 - Making anatomical gift after donor's death.
+- Section 2108.11 - Donees and purposes of anatomical gift.
+- Section 2108.12 - Search for evidence of donor intent.
+- Section 2108.13 - Delivery of document of gift not required.
+- Section 2108.14 - Referral of dying person to procurement organization.
+- Section 2108.15 - Rights of anatomical gift donee - acceptance or rejection.
+- Section 2108.16 - Who may remove donated part.
+- Section 2108.17 - Hospital agreement with procurement organizations.
+- Section 2108.18 - Purchase or sale of donated part - permitted charges.
+- Section 2108.19 - Prohibited acts regarding donation documents.
+- Section 2108.20 - Good faith immunity for compliance with chapter.
+- Section 2108.21 - Determination whether anatomical gift made.
+- Section 2108.22 - Validity of document of gift.
+- Section 2108.23 - Bureau of motor vehicles donor registry.
+- Section 2108.231 - Department of natural resources inquiry about organ donation.
+- Section 2108.24 - Conflict between anatomical gift and health care directive.
+- Section 2108.25 - Cooperation of coroner with procurement organization.
+- Section 2108.26 - Release of information to procurement organization.
+- Section 2108.261 - Medicolegal review of records by coroner.
+- Section 2108.262 - Information requested by coroner for review.
+- Section 2108.263 - Cooperation in timely removal of part.
+- Section 2108.264 - Information regarding cause of death.
+- Section 2108.265 - Agreement regarding post-mortem procedures.
+- Section 2108.266 - Recovery of part without post-mortem agreement.
+- Section 2108.267 - Denial of recovery of part by coroner.
+- Section 2108.268 - Refusal of procurement organization to accept gift.
+- Section 2108.269 - Documentation of condition of recovered part.
+- Section 2108.27 - Reimbursement of coroner attending removal.
+- Section 2108.271 - Removal to permit preservation of parts.
+- Section 2108.272 - Immunity for denial of recovery of part.
+- Section 2108.28 - Construction to promote uniformity.
+- Section 2108.29 - Conflict with federal electronic signatures law.
+- Section 2108.30 - Anatomical gifts not considered sale of fluid or body part.
+- Section 2108.31 - No parental consent needed for blood donations.
+- Section 2108.32 - Toll-free telephone number to provide organ donor information.
+- Section 2108.33 - Immunity.
+- Section 2108.34 - Second chance trust fund.
+- Section 2108.35 - Second chance trust fund advisory committee.
+- Section 2108.36 - Definitions; prohibited actions based on physical disability by covered entity.
+- Section 2108.37 - Violation; civil actions.
+- Section 2108.38 - Denial of coverage for covered person based on disability prohibited.
+- Section 2108.40 - Definition of death.
+- Section 2108.50 - Consent to autopsy or post-mortem examination.
+- Section 2108.51 - Immunity.
+- Section 2108.52 - Exceptions.
+- Section 2108.521 - Suspicious death of a person with a developmental disability.
+- Section 2108.61 - Umbilical cord blood donation definitions.
+- Section 2108.62 - Umbilical cord blood banking.
+- Section 2108.63 - Health care professional or institution not liable for damages.
+- Section 2108.70 - Assignment of rights regarding disposition of remains.
+- Section 2108.71 - Vesting of assignment of right of disposition.
+- Section 2108.72 - Written declaration of assignment.
+- Section 2108.73 - Witnesses to declaration of assignment.
+- Section 2108.74 - Declarant warrants truth of declaration.
+- Section 2108.75 - Disqualification of assignee of right of disposition.
+- Section 2108.76 - Assignee no longer declarant's spouse.
+- Section 2108.77 - Loss of assigned right of disposition.
+- Section 2108.78 - Assignee bound by declaration of anatomical gift.
+- Section 2108.79 - Multiple assignees - majority rule - deadlock.
+- Section 2108.80 - Revocation of declaration of assignment.
+- Section 2108.81 - Right of disposition - no declaration of assignment.
+- Section 2108.82 - Assignment of right of disposition by probate court.
+- Section 2108.83 - Dispute regarding right of disposition.
+- Section 2108.84 - Procedure pending resolution of dispute.
+- Section 2108.85 - Costs and legal fees arising from legal action.
+- Section 2108.86 - Right to rely on declaration and instructions.
+- Section 2108.87 - Right to make independent investigation.
+- Section 2108.88 - Refusal or resignation by assignee of right.
+- Section 2108.89 - Liability for costs of disposition.
+- Section 2108.90 - Exclusive jurisdiction of probate court over disputes.
+- Section 2108.99 - Penalty.

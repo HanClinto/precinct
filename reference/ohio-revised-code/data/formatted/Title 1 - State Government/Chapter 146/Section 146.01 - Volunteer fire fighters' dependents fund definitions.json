@@ -1,0 +1,124 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Fire department\" means a volunteer fire department, a fire department of a political subdivision or fire district of this state, or a private volunteer company that has elected to participate in the volunteer fire fighters' dependents fund pursuant to section 146.02 of the Revised Code.",
+      "id": "146.01-fire-department",
+      "normalized": "fire department",
+      "scope": "As used in sections 146.01 to 146.19 of the Revised Code:",
+      "section": "146.01",
+      "source_title": "Section 146.01 - Volunteer fire fighters' dependents fund definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-146.01",
+      "term": "Fire department"
+    },
+    {
+      "definition": "(B)(1) \"Volunteer firefighter\" means both of the following, subject to division (B)(2) of this section:\n\n(a) A duly appointed member of a fire department on either a nonpay or part-pay basis who is ineligible to be a member of the Ohio police and fire pension fund, or whose employment as a firefighter does not in itself qualify any such person for membership in the public employees retirement system, or who has waived membership in the public employees retirement system;\n\n(b) Firefighters drafted, requisitioned, or appointed to serve in an emergency.\n\n(2)(a) A volunteer firefighter who is a member of the public employees retirement system shall be considered a volunteer firefighter for purposes of this chapter, and in particular, for purposes of divisions (A) and (B) of section 146.12 of the Revised Code until the firefighter has at least one and one-half years of Ohio service credit for purposes of division (B) of section 145.45 of the Revised Code;\n\n(b) A volunteer firefighter who is a member of the public employees retirement system shall be considered a volunteer firefighter for purposes of this chapter and, in particular, for purposes of division (C) of section 146.12 of the Revised Code until the firefighter has at least five years of total service credit for purposes of sections 145.35 and 145.36 or section 145.361 of the Revised Code.",
+      "id": "146.01-volunteer-firefighter",
+      "normalized": "volunteer firefighter",
+      "scope": "As used in sections 146.01 to 146.19 of the Revised Code:",
+      "section": "146.01",
+      "source_title": "Section 146.01 - Volunteer fire fighters' dependents fund definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-146.01",
+      "term": "Volunteer firefighter"
+    },
+    {
+      "definition": "(C) \"Private volunteer fire company\" means a company of trained volunteer firefighters having a contract to furnish fire protection or emergency service or both to a political subdivision or fire district of this state.",
+      "id": "146.01-private-volunteer-fire-company",
+      "normalized": "private volunteer fire company",
+      "scope": "As used in sections 146.01 to 146.19 of the Revised Code:",
+      "section": "146.01",
+      "source_title": "Section 146.01 - Volunteer fire fighters' dependents fund definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-146.01",
+      "term": "Private volunteer fire company"
+    },
+    {
+      "definition": "(D) \"Member of the fund\" includes a political subdivision or fire district of this state that maintains in whole or in part a volunteer fire department or employs volunteer firefighters, and a private volunteer fire company that has elected to participate in the volunteer fire fighters' dependents fund.",
+      "id": "146.01-member-of-the-fund",
+      "normalized": "member of the fund",
+      "scope": "As used in sections 146.01 to 146.19 of the Revised Code:",
+      "section": "146.01",
+      "source_title": "Section 146.01 - Volunteer fire fighters' dependents fund definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-146.01",
+      "term": "Member of the fund"
+    },
+    {
+      "definition": "(E) \"Volunteer fire fighters' dependents fund\" means the fund established by section 146.07 of the Revised Code.",
+      "id": "146.01-volunteer-fire-fighters-dependents-fund",
+      "normalized": "volunteer fire fighters' dependents fund",
+      "scope": "As used in sections 146.01 to 146.19 of the Revised Code:",
+      "section": "146.01",
+      "source_title": "Section 146.01 - Volunteer fire fighters' dependents fund definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-146.01",
+      "term": "Volunteer fire fighters' dependents fund"
+    },
+    {
+      "definition": "(F) \"Totally and permanently disabled\" means that a volunteer firefighter is unable to engage in any substantial gainful employment for a period of not less than twelve months by reason of a medically determinable physical impairment that is permanent or presumed to be permanent.",
+      "id": "146.01-totally-and-permanently-disabled",
+      "normalized": "totally and permanently disabled",
+      "scope": "As used in sections 146.01 to 146.19 of the Revised Code:",
+      "section": "146.01",
+      "source_title": "Section 146.01 - Volunteer fire fighters' dependents fund definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-146.01",
+      "term": "Totally and permanently disabled"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "146.01",
+      "number": "146.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-146.01"
+    },
+    {
+      "kind": "section",
+      "label": "146.19",
+      "number": "146.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-146.19"
+    },
+    {
+      "kind": "section",
+      "label": "146.02",
+      "number": "146.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-146.02"
+    },
+    {
+      "kind": "section",
+      "label": "146.12",
+      "number": "146.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-146.12"
+    },
+    {
+      "kind": "section",
+      "label": "145.45",
+      "number": "145.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.45"
+    },
+    {
+      "kind": "section",
+      "label": "145.35",
+      "number": "145.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.35"
+    },
+    {
+      "kind": "section",
+      "label": "145.36",
+      "number": "145.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.36"
+    },
+    {
+      "kind": "section",
+      "label": "145.361",
+      "number": "145.361",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.361"
+    },
+    {
+      "kind": "section",
+      "label": "146.07",
+      "number": "146.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-146.07"
+    }
+  ],
+  "scraped": "2026-07-02T19:31:56+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-146.01",
+  "title": "Section 146.01 - Volunteer fire fighters' dependents fund definitions."
+}

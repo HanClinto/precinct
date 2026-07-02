@@ -1,0 +1,70 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-123.283
+Scraped: 2026-07-02T19:31:38+00:00
+
+# Section 123.283 - Ohio cultural and sports facility performance grants.
+
+**Effective:** November 25, 2025
+
+**Latest Legislation:** House Bill 434 - 136th General Assembly
+
+(A) As used in this section:
+
+"Ohio sports facility" means all or a portion of a stadium, arena, tennis facility, motorsports complex, or other capital facility in this state. A primary purpose of the facility shall be to provide a site or venue for the presentation to the public of motorsports events, professional tennis tournaments, or events of one or more major or minor league professional athletic or sports teams that are associated with the state or with a city or region of the state. The facility shall be owned by or located on real property owned by the state or a governmental agency, a nonprofit corporation, or a new community authority as defined in section 349.01 of the Revised Code.
+
+"Initial estimated construction or renovation cost" means the initial estimated cost to construct a new Ohio sports facility or renovate an existing Ohio sports facility, not including any site acquisition cost, and not including any other state funds awarded to, or to be spent on, the project, other than state funds awarded under this section.
+
+(B) Funds from the Ohio cultural and sports facility performance grant fund created in section 123.282 of the Revised Code may be used to pay or reimburse up to twenty-five per cent of the initial estimated construction or renovation cost. No grant may be of an amount greater than two hundred fifty million dollars. No state funds may be awarded under this section until all of the following conditions are met:
+
+(1) Any performance grants awarded under this section shall only be used for construction or renovation and on such projects that effectuate permanent improvements at the facility.
+
+(2) The professional sports franchise, governmental agency, nonprofit corporation, new community authority, or other organization that would operate the facility has applied to the office of budget and management, on a form and in a manner prescribed by the office of budget and management, to receive the funds. The application shall include a financial and development plan, which shall be evaluated by the office of budget and management, in consultation with the Ohio facilities construction commission and the department of taxation, as applicable. The financial and development plan shall identify the facility to be constructed or renovated, and include or demonstrate, with sufficient detail and clarity, all of the following:
+
+(a) An executed lease agreement, operating agreement, management agreement, non-relocation agreement, cooperative use agreement, or other similar agreement, or an executed and binding term sheet if no other agreement is available;
+
+(b) The length of time remaining on any existing agreement, including any options to extend, or agreed to in any new agreement or binding term sheet, as described in division (B)(2)(a) of this section;
+
+(c) Any state tax credit program that has been awarded, applied for, or is anticipated or otherwise expected to be awarded or applied for, and any associated fiscal impact that it will have on the project;
+
+(d) Project phases and associated timelines;
+
+(e) How the facility will benefit the state, through at least one of the following mechanisms:
+
+(i) That the facility will generate increased state tax revenues under Chapters 5739., 5741., 5747., and 5751. of the Revised Code, which over a period of time will equal or exceed the amount of the performance grant;
+
+(ii) That the facility will bring a positive economic impact to the state, as demonstrated by an objectively verifiable economic impact study provided by an independent third party;
+
+(iii) Any other objectively verifiable metric or measurement established by the office of budget and management, and approved by the controlling board, that demonstrates that the facility will positively impact the local community, region, or state.
+
+(3) If the office of budget and management, in consultation with the Ohio facilities construction commission and the department of taxation, as applicable, is satisfied that the financial and development plan meets the requirements of divisions (B)(1) and (2) of this section, the office of budget and management may, subject to the availability of appropriated funds and at its discretion, enter into a tentative agreement with the applicant organization, which shall identify the facility to be constructed or renovated, and specify all of the following:
+
+(a) In the case of a facility under division (B)(2)(e)(i) of this section, the target amounts of increased state tax revenues the facility shall generate, and the period over which the facility shall generate the increased state tax revenues, which in no case shall exceed thirty years;
+
+(b) In the case of a facility under division (B)(2)(e)(ii) or (B)(2)(e)(iii) of this section, any economic impact targets or indicators, or other objectively verifiable metric or measurement targets or indicators;
+
+(c) At the discretion of the office of budget and management, the applicant organization may combine one or more of the target or indicator amounts described under divisions (B)(2)(e)(i) and (B)(2)(e)(ii) of this section to measure the organization's performance under the grant;
+
+(d) If the increased state tax revenues, economic activity, or other objectively verifiable metric or measurement do not achieve target amounts or indicators, as determined by the office of budget and management in consultation with the department of taxation, as applicable, the office of budget and management shall take a nonrefundable amount of money equal to the deficit from the escrow account described under division (B)(4) of this section and deposit it into the general revenue fund;
+
+(e) If a professional sports franchise intends to use the facility, the professional sports franchise shall not cease playing most of its home games at the Ohio sports facility and begin playing most of its home games at a different facility until the earlier of one of the following dates:
+
+(i) The total increased state tax revenues or economic activity have achieved target amounts or indicators, including with funds from the escrow amount under division (B)(4) of this section;
+
+(ii) Thirty years after the professional sports franchise plays its initial regular season home game at the newly constructed or renovated Ohio sports facility.
+
+Division (B)(3)(e) of this section is in addition to, independent of, and operates concurrently with section 9.67 of the Revised Code.
+
+(f) In the case of a motorsports complex, that motorsports events shall be presented at the facility for the period described in the agreement entered into under division (B)(3) of this section, and that any motorsports organization that commits to using the facility for an established period of time shall give the office of budget and management not less than six months' advance notice if the organization intends to cease utilizing the facility prior to the expiration of that established period, and that if the motorsports organization does so, the motorsports organization shall be liable to the state for any performance grant funds used on the construction or renovation costs of the facility, which shall include drawing down the remainder of any escrow account established under division (B)(4) of this section;
+
+(g) In the case of a tennis facility, that the owner or manager of the facility shall provide contractual commitments from a national or international professional tennis organization in a form acceptable to the office of budget and management and the controlling board, in consultation with the Ohio facilities construction commission, that assures that one or more sanctioned professional tennis events will be presented at the facility during each year of the period described in the agreement entered into under division (B)(3) of this section. Any national or international professional tennis organization that commits to using the facility for an established period of time shall give the owner or manager of the facility and the office of budget and management not less than six months' advance notice if the organization intends to cease utilizing the facility prior to the expiration of that established period, and that if the organization does so, the organization and owner or manager of the facility shall be jointly and severally liable to the state for any performance grant funds used on the construction or renovation costs of the facility, which shall include drawing down the remainder of any escrow account established under division (B)(4) of this section.
+
+(h) The applicant organization shall hold the state of Ohio, including the office of budget and management, the Ohio facilities construction commission, the department of taxation, and the controlling board harmless from all liability for the operation and maintenance costs of the facility, and any costs incurred related to the grant application, agreement entered into under division (B)(3) of this section, the escrow deposited under division (B)(4) of this section, or the submission to controlling board for approval.
+
+(4) In the case of a facility under division (B)(2)(e) of this section, the professional sports franchise, governmental agency, nonprofit corporation, new community authority, or other organization that would operate the facility, upon reaching the agreement with the office of budget and management under division (B)(3) of this section, has executed and filed with the office of budget and management an escrow amount equal to five per cent of the total amount of the performance grant applied for, which shall be deposited in an interest-bearing account maintained within the state treasury, nonrefundable disbursements from which shall be as described in division (B)(3)(d) of this section. Whatever remains of the amount in escrow after the period described in division (B)(3)(a) of this section, or after a period agreed upon under division (B)(3)(b) or (B)(3)(c) of this section, including any interest earnings thereon, shall be returned to the applicant organization, upon certification by the office of budget and management, in consultation with the department of taxation, as applicable, that all conditions of the agreement are satisfied. The agreement under division (B)(3) of this section may provide for a process and timeline by which the applicant organization may seek a determination that all target amounts and indicators have been achieved or exceeded, then apply for the return of any remaining escrow balance.
+
+(5) The agreement under division (B)(3) of this section is submitted to, and approved by, the controlling board. Approval of any such agreement is wholly within the controlling board's discretion, and no such agreement is in any way final or enforceable unless and until the controlling board approves it. As part of its consideration, the controlling board may evaluate all grant application and agreement requirements and materials, as provided for under this section, as well as any other factor, criteria, data, metric, measurement, or information or documents the controlling board determines necessary.
+
+(C) Every person who owns real property located in, enters into a lease, license, use, or operating agreement for all or a portion of the building and facilities located in, or purchases or leases materials and items used in construction or renovation in the facility is subject to reporting requirements as may be required by the department of taxation, in consultation with the office of budget and management and the Ohio facilities construction commission, for the purposes of this section. Compliance with these requirements may be evidenced by an instrument that is duly recorded with the county recorder.
+
+(D) The office of budget and management, Ohio facilities construction commission, and department of taxation, as applicable, may develop forms necessary to implement and administer this section.
+
+Last updated January 6, 2026 at 4:16 PM

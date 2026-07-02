@@ -1,0 +1,79 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-3317
+Scraped: 2026-07-02T19:48:49+00:00
+
+# Chapter 3317 - Foundation Program
+
+## Sections
+
+- Section 3317.01 - School foundation program; eligibility; administration of funds.
+- Section 3317.011 - City, local, and exempted village school district base cost.
+- Section 3317.012 - Joint vocational school district base cost.
+- Section 3317.013 - Special education program multiples.
+- Section 3317.014 - Career-tech education program funding.
+- Section 3317.015 - Certification of additional information.
+- Section 3317.016 - Amounts for English learners.
+- Section 3317.017 - City, local, and exempted village school district per-pupil local capacity amount.
+- Section 3317.018 - Statewide average base cost per pupil.
+- Section 3317.019 - Temporary transitional aid.
+- Section 3317.0110 - Community and STEM school base cost.
+- Section 3317.02 - Definitions.
+- Section 3317.021 - Tax commissioner information for school funding computations.
+- Section 3317.022 - Formulas for state operating funds to school districts, schools, and scholarships.
+- Section 3317.023 - Adjustments to amount paid to district.
+- Section 3317.024 - Amounts paid to school districts and schools for certain purposes.
+- Section 3317.025 - Recomputation excluding certain property where value is disputed.
+- Section 3317.026 - Community or STEM school unit payment amount.
+- Section 3317.028 - Recomputing where change in taxable value.
+- Section 3317.0210 - Adjusting for taxes uncollectable due to bankruptcy.
+- Section 3317.0211 - Adjusting for uncollected port authority taxes.
+- Section 3317.0212 - Transportation payment.
+- Section 3317.0213 - Additional state aid for preschool special education children.
+- Section 3317.0214 - Additional state aid to school districts for students in categories two through six special education ADM.
+- Section 3317.0215 - Catastrophic cost pool.
+- Section 3317.0217 - Targeted assistance funding.
+- Section 3317.03 - Report of average daily membership figures and additional data.
+- Section 3317.031 - Membership record for each pupil - mandatory compliance.
+- Section 3317.032 - Membership record of preschool children with disabilities.
+- Section 3317.033 - Joint vocational district to maintain record of persons not eligible for inclusion in average daily membership.
+- Section 3317.034 - Enrollment status.
+- Section 3317.035 - Annual audits of certified membership - other information.
+- Section 3317.037 - Attendance records for career-technical planning district.
+- Section 3317.05 - Calculating payments of approved career-technical education units.
+- Section 3317.051 - Calculation of gifted funding units.
+- Section 3317.06 - Providing materials to nonpublic schools.
+- Section 3317.061 - Annual report on teaching staff.
+- Section 3317.062 - Use of appropriations to chartered nonpublic schools for auxiliary services.
+- Section 3317.063 - Reimbursing nonpublic school for mandated service costs.
+- Section 3317.064 - Auxiliary services mobile unit replacement and repair fund.
+- Section 3317.07 - Reassignment of school buses.
+- Section 3317.072 - Transportation collaboration grants.
+- Section 3317.08 - Tuition for nonresident pupils.
+- Section 3317.081 - Computing tuition.
+- Section 3317.082 - Tuition for children in care of department of youth services.
+- Section 3317.09 - State and federal moneys to account for and coded - annual statistical report.
+- Section 3317.10 - Certifying number of Ohio works first children in district.
+- Section 3317.11 - Educational service center funding.
+- Section 3317.12 - Salary schedule and list of job classifications for nonteaching school employees.
+- Section 3317.13 - Minimum salary schedule for teachers.
+- Section 3317.14 - Boards to annually adopt teachers' salary schedule.
+- Section 3317.141 - Recipients of race to the top program grants.
+- Section 3317.15 - Children with disabilities; speech-language pathology and psychological services.
+- Section 3317.16 - Computation and distribution of state core foundation funding to joint vocational school districts.
+- Section 3317.161 - Approval of career-technical education programs.
+- Section 3317.162 - Temporary transitional aid for joint vocational school districts.
+- Section 3317.163 - Career-technical education ADM calculation for students in credential-only programs.
+- Section 3317.164 - [Enacted as R.C. 3317.162 by S.B. 166, 134th General Assembly and recodified as R.C. 3317.164 pursuant to R.C. 103.131] Business work-based learning financial incentives.
+- Section 3317.165 - Joint vocational school district state share percentage calculation.
+- Section 3317.18 - Withholding payments in order to pay debt charges on securities.
+- Section 3317.19 - Computation and distribution of payments to cooperative education school districts.
+- Section 3317.20 - Calculation of payment to county DD board.
+- Section 3317.201 - Payment to institutions providing special education services.
+- Section 3317.22 - Additional funding for dropout prevention and recovery e-schools.
+- Section 3317.25 - Disadvantaged pupil impact aid spending.
+- Section 3317.26 - Student wellness and success funds.
+- Section 3317.27 - Quality community school support program.
+- Section 3317.28 - Quality community school designation criteria.
+- Section 3317.29 - Quality independent STEM school support program.
+- Section 3317.30 - Payment for services for child in juvenile facility.
+- Section 3317.31 - Community and STEM school facilities payments.
+- Section 3317.40 - Accountability for funding.

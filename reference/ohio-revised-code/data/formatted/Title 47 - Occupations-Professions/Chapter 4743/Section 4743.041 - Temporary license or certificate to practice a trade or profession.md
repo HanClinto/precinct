@@ -1,0 +1,54 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4743.041
+Scraped: 2026-07-02T20:07:25+00:00
+
+# Section 4743.041 - Temporary license or certificate to practice a trade or profession.
+
+**Effective:** March 20, 2025
+
+**Latest Legislation:** Senate Bill 154 - 135th General Assembly
+
+(A) As used in this section:
+
+"Active guard and reserve" has the meaning defined in 10 U.S.C. 101.
+
+"Military duty" includes service in the uniformed services on active duty, in the active guard and reserve, and as a military technician dual status under 10 U.S.C. 10216.
+
+"Uniformed services" has the meaning defined in section 5747.01 of the Revised Code.
+
+(B) Pursuant to division (C) of section 4743.04 of the Revised Code, a department, agency, or office of this state shall issue a temporary license or certificate to practice a trade or profession to an individual, provided that all of the following qualifications are met:
+
+(1) The individual holds a valid license or certificate to practice the trade or profession issued by any other state or jurisdiction;
+
+(2) The individual is in good standing in the state or jurisdiction of licensure or certification;
+
+(3) The individual presents adequate proof to the department, agency, or office of this state that the individual or the individual's spouse is on military duty in this state; and
+
+(4) The individual complies with sections 4776.01 to 4776.04 of the Revised Code if a department, agency, or office of this state requires an applicant under the law governing the applicable trade or profession to submit to a criminal records check to receive a license or certificate.
+
+(C) A department, agency, or office of this state may, under this section, issue a regular license or certificate in lieu of issuing a temporary license or certificate, provided that the applicant meets the requirements of this section, and provided that the regular license is issued by the deadline specified in division (D) of this section.
+
+(D) If the department, agency, or office of this state requires an individual under the law governing the applicable trade or profession to submit to a criminal records check to receive a license or certificate, and the individual applies for a license or certificate under this section, the department, agency, or office of this state shall, within twenty-four hours after receiving the report under division (A) of section 4776.04 of the Revised Code, notify the applicant that the department, agency, or office of this state has received the results of a criminal records check. A department, agency, or office of this state shall issue a temporary license or certificate or a regular license under this section, provided that the applicant meets the requirements of this section, within thirty days of having received an application, or, if the applicant is subject to a criminal records check, within fourteen days of having received the results of a criminal records check. If the department, agency, or office of this state finds that the individual is under investigation by the licensing agency of any other state or jurisdiction, the department, agency, or office of this state may postpone issuing the license or certificate until the investigation is complete and the licensing agency of the other state or jurisdiction confirms that the individual is in good standing. The department, agency, or office of this state shall verify the standing of the license or certificate issued by another state or jurisdiction when the temporary license is up for renewal. No temporary license shall be valid for a period of more than six years.
+
+(E) A department, agency, or office of this state shall, in accordance with Chapter 119. of the Revised Code, deny an individual a temporary license or certificate issued under this section or revoke an individual's temporary license or certificate issued under this section if any of the following circumstances occur:
+
+(1) The individual's license or certificate issued by another state or jurisdiction expires or is revoked, or the individual is not in good standing;
+
+(2) With respect to an individual who was eligible for a temporary license under this section as the spouse of an individual on military duty, six months have elapsed since the divorce, dissolution, or annulment of the marriage;
+
+(3) The individual is disqualified from obtaining a license in the trade or profession because of a conviction, judicial finding of guilt, or plea of guilty to a disqualifying criminal offense specified on the list the department, agency, or office of this state makes available pursuant to division (C) of section 9.78 of the Revised Code.
+
+(F) An individual with a temporary license or certificate or a regular license issued under this section may practice the trade or profession in this state only within the scope and practice that is permitted under Ohio law and that does not exceed the individual's training.
+
+(G) Notwithstanding any other provision of the Revised Code, a department, agency, or office of this state shall waive all fees associated with the issuance of a temporary license or certificate issued under this section.
+
+(H) Each department, agency, or office of this state that issues a license or certificate to practice a trade or profession shall adopt rules under Chapter 119. of the Revised Code as necessary to implement this section.
+
+(I) Each department, agency, or office of this state that issues a license or certificate to practice a trade or profession, shall, upon the conclusion of the state fiscal year, prepare a report on the number and type of temporary licenses or certificates that were issued during the fiscal year under this section. The report shall be provided to the director of veterans services not later than thirty days after the end of the fiscal year. The director shall compile the reports and make them available to the public.
+
+(J) A license or certificate issued under this section shall be considered a license issued under the laws regulating the practice of the applicable occupation or profession in this state. Provisions of law applicable to a license issued to an applicant who does not obtain a license under this section apply in the same manner to licenses issued under this section.
+
+(K) Chapter 4796. of the Revised Code does not apply to a license or certificate issued under this section.
+
+(L) A department, agency, or office of this state shall not require an individual who meets the requirements of this section to apply for the license or certificate under Chapter 4796. of the Revised Code. However, the individual may elect to apply for the license or certificate under Chapter 4796. of the Revised Code.
+
+Last updated January 28, 2025 at 3:47 PM

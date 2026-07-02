@@ -1,0 +1,90 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-2945
+Scraped: 2026-07-02T19:46:54+00:00
+
+# Chapter 2945 - Trial
+
+## Sections
+
+- Section 2945.01 - Trial definitions.
+- Section 2945.02 - Setting and continuing cases.
+- Section 2945.03 - Control of trial.
+- Section 2945.04 - Orders to prevent Intimidation of attorney, victim or witness in criminal case.
+- Section 2945.05 - Defendant may waive jury trial.
+- Section 2945.06 - Procedure for trial by court.
+- Section 2945.08 - Prosecution in wrong county - proceeding.
+- Section 2945.09 - Grounds for objection.
+- Section 2945.10 - Order of proceedings of trial.
+- Section 2945.11 - Charge to the jury as to law and fact.
+- Section 2945.12 - When accused may be tried in his absence.
+- Section 2945.13 - Joint trials in felony cases.
+- Section 2945.14 - Mistake in charging offense.
+- Section 2945.15 - Discharge of defendant.
+- Section 2945.16 - View of the premises - expenses of view.
+- Section 2945.17 - Right to jury trial.
+- Section 2945.171 - Written verdicts.
+- Section 2945.20 - Separate trial for capital offense.
+- Section 2945.21 - Peremptory challenges.
+- Section 2945.23 - When peremptory challenges required.
+- Section 2945.24 - Jury trial.
+- Section 2945.25 - Challenges for cause.
+- Section 2945.26 - Challenge for cause.
+- Section 2945.27 - Challenges for cause to be made before jury sworn.
+- Section 2945.28 - Form of oath to jury.
+- Section 2945.29 - Jurors becoming unable to perform duties.
+- Section 2945.30 - Medical attendance of juror.
+- Section 2945.31 - Separation of jurors.
+- Section 2945.32 - Oath to officers if jury sequestered.
+- Section 2945.33 - Supervision of jury after case submitted to them.
+- Section 2945.34 - Admonition if jurors separate during trial.
+- Section 2945.35 - Papers the jury may take.
+- Section 2945.36 - For what cause jury may be discharged.
+- Section 2945.37 - Competency to stand trial definitions - hearing.
+- Section 2945.371 - Evaluations and reports of the defendant's mental condition.
+- Section 2945.38 - Competence to stand trial.
+- Section 2945.39 - Expiration of the maximum time for treatment for incompetency.
+- Section 2945.391 - Not guilty by reason of insanity finding.
+- Section 2945.392 - Expert testimony of the battered woman syndrome.
+- Section 2945.40 - Acquittal by reason of insanity.
+- Section 2945.401 - Incompetency finding or insanity acquittal continuing jurisdiction of court.
+- Section 2945.402 - Conditional release.
+- Section 2945.41 - Rules applicable in criminal cases.
+- Section 2945.42 - Competency of witnesses.
+- Section 2945.43 - Defendant may testify.
+- Section 2945.44 - Witnesses turning state's evidence.
+- Section 2945.45 - Subpoenas to issue to any county.
+- Section 2945.451 - Employer may not penalize employee for being subpoenaed to criminal proceeding.
+- Section 2945.46 - Attendance of witness enforced.
+- Section 2945.47 - Testimony of prisoner.
+- Section 2945.48 - Witness may be placed in jail.
+- Section 2945.481 - Testimony of child victim.
+- Section 2945.482 - Taking testimony of a victim with a developmental disability.
+- Section 2945.483 - Rights when testifying of child or person with developmental disability.
+- Section 2945.49 - Testimony of witness who dies or cannot be produced - videotape of preliminary hearing testimony of child victim.
+- Section 2945.491 - Taking testimony of a victim with a developmental disability.
+- Section 2945.50 - Application for deposition in criminal cases.
+- Section 2945.51 - When imprisoned defendant may be taken to deposition - expenses.
+- Section 2945.52 - Counsel appointed shall represent the defendant.
+- Section 2945.53 - Right of accused to examine witness.
+- Section 2945.54 - Conduct of examination.
+- Section 2945.55 - Testimony of previous identification.
+- Section 2945.56 - Rebuttal of defendant's character evidence.
+- Section 2945.57 - Number of witnesses to character.
+- Section 2945.58 - Alibi.
+- Section 2945.59 - Proof of defendant's motive.
+- Section 2945.63 - Child pornography offered as evidence; custody.
+- Section 2945.64 - Embezzlement prima-facie evidence.
+- Section 2945.65 - Evidence obtained as part of test to determine pregnancy.
+- Section 2945.67 - Appeal by state by leave of court.
+- Section 2945.71 - Time for trial.
+- Section 2945.72 - Extending time for hearing or trial.
+- Section 2945.73 - Delay in hearing or trial.
+- Section 2945.74 - Defendant may be convicted of lesser offense.
+- Section 2945.75 - Degree of offense - proof of prior convictions.
+- Section 2945.77 - Polling jury.
+- Section 2945.78 - Recording the verdict.
+- Section 2945.79 - Causes for new trial.
+- Section 2945.80 - Written motion for new trial.
+- Section 2945.81 - Causes to be sustained by affidavits.
+- Section 2945.82 - New trial.
+- Section 2945.83 - When new trial shall not be granted.
+- Section 2945.831 - Motion for new trial not necessary for appellate review.

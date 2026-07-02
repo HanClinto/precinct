@@ -1,0 +1,52 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Offender\" means a person who pleads guilty to, is convicted of, or is found not guilty by reason of insanity of an offense in this state or a person against whom a complaint or information has been filed or an indictment has been returned in this state.",
+      "id": "2969.01-offender",
+      "normalized": "offender",
+      "scope": "As used in sections 2969.01 to 2969.06 of the Revised Code:",
+      "section": "2969.01",
+      "source_title": "Section 2969.01 - Recovery of offender's profits fund definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2969.01",
+      "term": "Offender"
+    },
+    {
+      "definition": "(B) \"Victim\" means a person who suffers personal injury, death, or property loss as a result of any of the following, or the beneficiaries of an action for the wrongful death of any person killed as a result of any of the following:\n\n(1) An offense;\n\n(2) The good faith effort of a person to prevent an offense;\n\n(3) The good faith effort of any person to apprehend a person suspected of engaging in an offense.",
+      "id": "2969.01-victim",
+      "normalized": "victim",
+      "scope": "As used in sections 2969.01 to 2969.06 of the Revised Code:",
+      "section": "2969.01",
+      "source_title": "Section 2969.01 - Recovery of offender's profits fund definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2969.01",
+      "term": "Victim"
+    },
+    {
+      "definition": "(C) \"Member of the family of an offender\" means an individual who is related by consanguinity or affinity to an offender.",
+      "id": "2969.01-member-of-the-family-of-an-offender",
+      "normalized": "member of the family of an offender",
+      "scope": "As used in sections 2969.01 to 2969.06 of the Revised Code:",
+      "section": "2969.01",
+      "source_title": "Section 2969.01 - Recovery of offender's profits fund definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2969.01",
+      "term": "Member of the family of an offender"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2969.01",
+      "number": "2969.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2969.01"
+    },
+    {
+      "kind": "section",
+      "label": "2969.06",
+      "number": "2969.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2969.06"
+    }
+  ],
+  "scraped": "2026-07-02T19:47:19+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2969.01",
+  "title": "Section 2969.01 - Recovery of offender's profits fund definitions."
+}

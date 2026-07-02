@@ -1,0 +1,68 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Airport\" means any airport certified for commercial purposes by the department of transportation. \"Airport\" does not include a military airport owned by the United States government and used for no commercial purposes.",
+      "id": "4561.30-airport",
+      "normalized": "airport",
+      "scope": "As used in sections 4561.30 to 4561.39 of the Revised Code:",
+      "section": "4561.30",
+      "source_title": "Section 4561.30 - Structures or objects near airport definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4561.30",
+      "term": "Airport"
+    },
+    {
+      "definition": "(B) \"Person\" has the same meaning as in section 4561.01 of the Revised Code.",
+      "id": "4561.30-person",
+      "normalized": "person",
+      "scope": "As used in sections 4561.30 to 4561.39 of the Revised Code:",
+      "section": "4561.30",
+      "source_title": "Section 4561.30 - Structures or objects near airport definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4561.30",
+      "term": "Person"
+    },
+    {
+      "definition": "(C) \"Commence to install\" means undertaking any action that affects the natural environment of the site of a structure or object of natural growth, including, but not limited to, clearing of land, excavation, or planting, but excluding surveying changes needed for temporary use of the site and excluding uses in securing geological data, including making necessary borings to ascertain foundation conditions.",
+      "id": "4561.30-commence-to-install",
+      "normalized": "commence to install",
+      "scope": "As used in sections 4561.30 to 4561.39 of the Revised Code:",
+      "section": "4561.30",
+      "source_title": "Section 4561.30 - Structures or objects near airport definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4561.30",
+      "term": "Commence to install"
+    },
+    {
+      "definition": "(D) \"Structure\" means any object, whether permanent or temporary, including, but not limited to, a building, tower, crane, smokestack, earth formation, transmission line, flagpole, or ship mast, and includes a mobile object.",
+      "id": "4561.30-structure",
+      "normalized": "structure",
+      "scope": "As used in sections 4561.30 to 4561.39 of the Revised Code:",
+      "section": "4561.30",
+      "source_title": "Section 4561.30 - Structures or objects near airport definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4561.30",
+      "term": "Structure"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "4561.30",
+      "number": "4561.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4561.30"
+    },
+    {
+      "kind": "section",
+      "label": "4561.39",
+      "number": "4561.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4561.39"
+    },
+    {
+      "kind": "section",
+      "label": "4561.01",
+      "number": "4561.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4561.01"
+    }
+  ],
+  "scraped": "2026-07-02T20:06:00+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4561.30",
+  "title": "Section 4561.30 - Structures or objects near airport definitions."
+}

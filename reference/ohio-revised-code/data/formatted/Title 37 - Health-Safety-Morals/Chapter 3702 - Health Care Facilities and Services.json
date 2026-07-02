@@ -1,0 +1,507 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 3702.30 - Licensing of health care facilities.",
+      "number": "3702.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.301 - Licensing of freestanding birthing center - exemption.",
+      "number": "3702.301",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.301"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.302 - License renewal for uncertified ambulatory surgical facilities.",
+      "number": "3702.302",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.302"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.303 - Transfer agreements.",
+      "number": "3702.303",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.303"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.304 - Variances from written transfer agreements.",
+      "number": "3702.304",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.304"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.305 - Variance application physician attestation.",
+      "number": "3702.305",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.305"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.306 - Effective period for variances.",
+      "number": "3702.306",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.306"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.307 - Notifications to director.",
+      "number": "3702.307",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.307"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.308 - Severability.",
+      "number": "3702.308",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.308"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.309 - Suspension of ambulatory surgical license.",
+      "number": "3702.309",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.309"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.3010 - Maximum distance of local hospital from ambulatory surgical facility.",
+      "number": "3702.3010",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.3010"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.3011 - [Former R.C. 3702.305, renumbered by S.B. 157 of the 134th General Assembly, effective 3/23/2022] Conditions on variance.",
+      "number": "3702.3011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.3011"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.3012 - Surgical smoke evacuation policy.",
+      "number": "3702.3012",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.3012"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.31 - Quality monitoring and inspection fund.",
+      "number": "3702.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.32 - Violations.",
+      "number": "3702.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.33 - Petition to enjoin unlicensed health care facility.",
+      "number": "3702.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.34 - Option of having a long-acting reversible contraceptive placed after delivery; exception.",
+      "number": "3702.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.40 - Mammogram report; dense breast tissue advisory.",
+      "number": "3702.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.51 - Certificate of need definitions.",
+      "number": "3702.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.511 - Reviewable activities relating to long-term care facilities.",
+      "number": "3702.511",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.511"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.512 - Addition of twenty or fewer long-term care beds not reviewable.",
+      "number": "3702.512",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.512"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.52 - Administering certificate of need program.",
+      "number": "3702.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.521 - Recategorize hospital beds to skilled nursing beds - placement in nursing home.",
+      "number": "3702.521",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.521"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.522 - Revision of application for certificate of need.",
+      "number": "3702.522",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.522"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.523 - Certificates not transferable prior to completion of review.",
+      "number": "3702.523",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.523"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.524 - Duties of certificate holder within 24 months of grant.",
+      "number": "3702.524",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.524"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.525 - Reasonable progress required.",
+      "number": "3702.525",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.525"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.526 - Acceptance of application for replacement certificate of need.",
+      "number": "3702.526",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.526"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.527 - Conversion of bed category.",
+      "number": "3702.527",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.527"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.53 - Prohibited acts.",
+      "number": "3702.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.531 - Investigations.",
+      "number": "3702.531",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.531"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.532 - Notice of violation.",
+      "number": "3702.532",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.532"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.54 - Civil penalty.",
+      "number": "3702.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.544 - Penalties paid to director.",
+      "number": "3702.544",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.544"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.55 - Additional penalties for continuing violations.",
+      "number": "3702.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.56 - Payment for activity conducted in violation.",
+      "number": "3702.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.57 - Rules for certificate of need.",
+      "number": "3702.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.59 - Review of certificate of need applications.",
+      "number": "3702.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.592 - Certificate of need for long-term care facility beds; Replacement or relocation within county.",
+      "number": "3702.592",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.592"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.593 - Certificate of need for long-term care facility beds; Replacement or relocation to county with fewer long-term care beds than needed.",
+      "number": "3702.593",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.593"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.594 - Certificate of need for long-term care facility beds; existing long-term care facility.",
+      "number": "3702.594",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.594"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.60 - Appeals.",
+      "number": "3702.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.61 - Injunction.",
+      "number": "3702.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.62 - Applicability of other statutes.",
+      "number": "3702.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.71 - Physician loan repayment program definitions.",
+      "number": "3702.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.72 - Applying for participation in program.",
+      "number": "3702.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.73 - Approving application.",
+      "number": "3702.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.74 - Contract for participation.",
+      "number": "3702.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.74"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.75 - Physician loan repayment program.",
+      "number": "3702.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.76 - Health resource shortage areas.",
+      "number": "3702.76",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.76"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.77 - Establishing priorities among health resource shortage areas for use in recruiting primary care physicians.",
+      "number": "3702.77",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.77"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.78 - Health resource shortage area fund - physician loan repayment fund - administration.",
+      "number": "3702.78",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.78"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.79 - Adoption of rules.",
+      "number": "3702.79",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.79"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.83 - J-1 visa waiver program.",
+      "number": "3702.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.83"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.85 - Dentist loan repayment program.",
+      "number": "3702.85",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.85"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.86 - Administrative rules.",
+      "number": "3702.86",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.86"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.87 - Dental health resource shortage areas.",
+      "number": "3702.87",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.87"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.88 - Priorities among dental health resource shortage areas.",
+      "number": "3702.88",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.88"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.89 - Application for participation in the dentist loan repayment program.",
+      "number": "3702.89",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.89"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.90 - Application approval process.",
+      "number": "3702.90",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.90"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.91 - Letter of intent - contract.",
+      "number": "3702.91",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.91"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.92 - Dentist loan repayment advisory board.",
+      "number": "3702.92",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.92"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.94 - Annual report to general assembly.",
+      "number": "3702.94",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.94"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.95 - Gifts for implementation and administration of program.",
+      "number": "3702.95",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.95"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.96 - Dental hygienist loan repayment program.",
+      "number": "3702.96",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.96"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.961 - Adoption of rules.",
+      "number": "3702.961",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.961"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.962 - Establishment of priorities among dental health resource shortage areas.",
+      "number": "3702.962",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.962"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.963 - Participation in program.",
+      "number": "3702.963",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.963"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.964 - Determination of eligibility.",
+      "number": "3702.964",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.964"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.965 - Contracts.",
+      "number": "3702.965",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.965"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.966 - Annual report.",
+      "number": "3702.966",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.966"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.967 - Gifts.",
+      "number": "3702.967",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.967"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.98 - Chiropractic loan repayment program.",
+      "number": "3702.98",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.98"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.981 - Chiropractic loan repayment program - rules.",
+      "number": "3702.981",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.981"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.982 - Chiropractic health resource shortage areas.",
+      "number": "3702.982",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.982"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.983 - Priorities among chiropractic health resource shortage areas.",
+      "number": "3702.983",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.983"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.984 - Chiropractic loan repayment program - application.",
+      "number": "3702.984",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.984"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.985 - Chiropractic loan repayment program - approval to participate.",
+      "number": "3702.985",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.985"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.986 - Chiropractic loan repayment program - contract.",
+      "number": "3702.986",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.986"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.987 - Chiropractic loan repayment advisory board.",
+      "number": "3702.987",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.987"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.988 - Chiropractic loan repayment program - repayment amounts.",
+      "number": "3702.988",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.988"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.989 - Chiropractic loan repayment program - annual report.",
+      "number": "3702.989",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.989"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3702.9810 - Chiropractic loan repayment fund, chiropractic heath resource shortage area fund.",
+      "number": "3702.9810",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.9810"
+    }
+  ],
+  "scraped": "2026-07-02T19:50:55+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-3702",
+  "title": "Chapter 3702 - Health Care Facilities and Services"
+}

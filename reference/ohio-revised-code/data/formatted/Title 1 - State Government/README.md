@@ -1,0 +1,73 @@
+Source: https://codes.ohio.gov/ohio-revised-code/title-1
+Scraped: 2026-07-02T19:31:17+00:00
+
+# Title 1 - State Government
+
+## Chapters
+
+- Chapter 101 - General Assembly
+- Chapter 102 - Public Officers - Ethics
+- Chapter 103 - Legislative Services
+- Chapter 105 - Governmental Research
+- Chapter 106 - Rulemaking
+- Chapter 107 - Governor
+- Chapter 108 - Lieutenant Governor
+- Chapter 109 - Attorney General
+- Chapter 111 - Secretary of State
+- Chapter 113 - Treasurer of State
+- Chapter 117 - Auditor of State
+- Chapter 118 - Local Fiscal Emergencies
+- Chapter 119 - Administrative Procedure
+- Chapter 120 - Public Defenders
+- Chapter 121 - State Departments
+- Chapter 122 - Department of Development
+- Chapter 123 - Department of Administrative Services - Public Works
+- Chapter 124 - Department of Administrative Services - Personnel
+- Chapter 125 - Department of Administrative Services - Office Services
+- Chapter 126 - Office of Budget and Management
+- Chapter 127 - Controlling Board
+- Chapter 128 - 9-1-1 Emergency Telephone Number System
+- Chapter 129 - Board of Commissioners of Sinking Fund
+- Chapter 131 - Revenues and Funds
+- Chapter 133 - Uniform Public Securities Law
+- Chapter 135 - Uniform Depository Act
+- Chapter 139 - Federal Aid Bonds; Food Stamp Plan
+- Chapter 140 - Hospital Agencies
+- Chapter 141 - Salaries of State Officers
+- Chapter 143 - Volunteer Peace Officers Dependents
+- Chapter 145 - Public Employees Retirement System
+- Chapter 146 - Volunteer Fire Fighters' Dependents Fund
+- Chapter 147 - Notaries Public and Commissioners
+- Chapter 148 - Deferred Compensation Program
+- Chapter 149 - Documents, Reports, and Records
+- Chapter 150 - Venture Capital Program
+- Chapter 151 - Public Facilities Commission
+- Chapter 153 - Public Improvements
+- Chapter 154 - Financing for Certain Capital Facilities
+- Chapter 155 - Lands and Memorials
+- Chapter 156 - Energy Conservation Measures
+- Chapter 157 - Ohio Co-ordinate System
+- Chapter 159 - Purchase and Jurisdiction of Land by United States
+- Chapter 161 - Emergency Interim Government
+- Chapter 163 - Appropriation of Property
+- Chapter 164 - Aid to Local Government Improvements
+- Chapter 165 - Industrial Development Bonds
+- Chapter 166 - Economic Development Program
+- Chapter 167 - Regional Councils of Governments
+- Chapter 169 - Unclaimed Funds
+- Chapter 171 - Retirement Study Council
+- Chapter 173 - Department of Aging
+- Chapter 174 - Ohio Housing Trust Fund
+- Chapter 175 - Housing Finance Agency
+- Chapter 176 - Housing Advisory Boards
+- Chapter 177 - Investigation and Prosecution of Organized Criminal Activity
+- Chapter 181 - Criminal Sentencing Commission; Criminal Justice Services
+- Chapter 182 - OneOhio Recovery Foundation
+- Chapter 183 - Tobacco Master Settlement Agreement
+- Chapter 184 - Third Frontier Commission
+- Chapter 187 - JobsOhio Corporation
+- Chapter 188 - Electric Cooperative Easement Use for Broadband
+- Chapter 189 - Local Government Innovation Program
+- Chapter 191 - Broadband Pole Replacement and Undergrounding
+- Chapter 195 - Internet Crimes Against Children Task Force
+- Chapter 197 - Holocaust and Genocide Memorial and Education Commission

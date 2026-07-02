@@ -1,0 +1,72 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-2111
+Scraped: 2026-07-02T19:41:23+00:00
+
+# Chapter 2111 - Guardians; Conservatorships
+
+## Sections
+
+- Section 2111.01 - Guardian and conservatorship definitions.
+- Section 2111.011 - Guardianship guide.
+- Section 2111.02 - Appointment of guardian - limited, interim, emergency, or standby guardian - nomination.
+- Section 2111.021 - Physically infirm adult may petition for conservatorship.
+- Section 2111.022 - Emergency order to freeze assets of missing person.
+- Section 2111.03 - Application for appointment as guardian.
+- Section 2111.031 - Appointing physicians and other persons to determine need for guardianship.
+- Section 2111.04 - Notice of appointment.
+- Section 2111.041 - Investigating circumstances of alleged incompetent.
+- Section 2111.042 - Investigating and report regarding guardianship of minor.
+- Section 2111.05 - Termination of guardianship based on value of ward's estate.
+- Section 2111.06 - Guardian of the person.
+- Section 2111.07 - Powers of guardian of person and estate.
+- Section 2111.08 - Parents are natural guardians.
+- Section 2111.09 - Administrator or executor ineligible to be appointed guardian.
+- Section 2111.091 - Restrictions on attorney representing guardian.
+- Section 2111.10 - Corporation as guardian.
+- Section 2111.11 - Spouse may be appointed guardian.
+- Section 2111.12 - Guardian of minor.
+- Section 2111.121 - Nomination of guardian.
+- Section 2111.13 - Duties of guardian of person.
+- Section 2111.131 - Court order for payments of no more than $5,000 due to minor.
+- Section 2111.14 - Duties of guardian of estate.
+- Section 2111.141 - Inventory to be supported by evidence.
+- Section 2111.15 - Duties of guardian of person and estate.
+- Section 2111.151 - Liability of guardian or conservator as to contracts and debts.
+- Section 2111.16 - Certain vouchers not allowed as credits.
+- Section 2111.17 - Suits by guardians.
+- Section 2111.18 - Claim for injury to ward or damage to property - settlement.
+- Section 2111.181 - Settlement of claim of emancipated minor.
+- Section 2111.182 - Order for portion of funds to minor be deposited in trust.
+- Section 2111.19 - Completion of real property contracts.
+- Section 2111.20 - Sale of personal estate.
+- Section 2111.21 - Sale, compromise, adjustment, or mortgage of dower.
+- Section 2111.22 - Release of ward's tax title by guardian.
+- Section 2111.23 - Guardian ad litem.
+- Section 2111.24 - Insolvency of ward.
+- Section 2111.25 - Lease for not more than three years.
+- Section 2111.26 - Lease for term of years.
+- Section 2111.27 - Petition.
+- Section 2111.28 - Parties.
+- Section 2111.29 - Parties and proceedings.
+- Section 2111.30 - Duties of appraisers.
+- Section 2111.31 - Hearing and order.
+- Section 2111.32 - Royalty.
+- Section 2111.33 - Guardian may improve real property - petition.
+- Section 2111.34 - Proceedings.
+- Section 2111.35 - Amount to be used for improvement.
+- Section 2111.36 - Guardian's report.
+- Section 2111.37 - Guardian for nonresident.
+- Section 2111.38 - Bond and duties.
+- Section 2111.39 - Foreign guardian may collect money.
+- Section 2111.40 - When nonresident ward becomes a resident.
+- Section 2111.42 - Foreign guardians may receive property.
+- Section 2111.43 - Foreign wards and guardians.
+- Section 2111.44 - Sale of real property of foreign wards.
+- Section 2111.45 - Marriage of ward.
+- Section 2111.46 - Guardianship of minors.
+- Section 2111.47 - Wards other than minors.
+- Section 2111.471 - Transfer of court having jurisdiction.
+- Section 2111.48 - Certain acts validated.
+- Section 2111.49 - Report of guardian of incompetent.
+- Section 2111.50 - Probate court is superior guardian of wards.
+- Section 2111.51 - County indigent guardianship fund.
+- Section 2111.52 - County probate court guardianship services fund; multicounty probate court guardianship services fund.

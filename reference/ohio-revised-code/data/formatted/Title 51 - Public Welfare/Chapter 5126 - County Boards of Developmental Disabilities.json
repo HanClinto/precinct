@@ -1,0 +1,675 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 5126.01 - County boards of developmental disabilities definitions.",
+      "number": "5126.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.011 - Reference to county board.",
+      "number": "5126.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.011"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.02 - County or multicounty board of developmental disability required.",
+      "number": "5126.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.021 - Membership of county boards.",
+      "number": "5126.021",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.021"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.023 - Persons who may not serve on a county board of developmental disabilities.",
+      "number": "5126.023",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.023"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.024 - Declaration of eligibility prior to appointment to board.",
+      "number": "5126.024",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.024"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.025 - Time and term of appointment of members of board.",
+      "number": "5126.025",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.025"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.026 - Reappointment of members of board.",
+      "number": "5126.026",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.026"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.027 - Filling of vacancy on board for unexpired term.",
+      "number": "5126.027",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.027"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.028 - Members of board not compensated - reimbursement for expenses.",
+      "number": "5126.028",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.028"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.029 - Organization of board.",
+      "number": "5126.029",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.029"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.0210 - Members of board to attend annual in-service training.",
+      "number": "5126.0210",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.0210"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.0211 - Virtual attendance at in-service training sessions.",
+      "number": "5126.0211",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.0211"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.0212 - Participation by member in matter involving conflict of interest.",
+      "number": "5126.0212",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.0212"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.0213 - Grounds for removal of member of board.",
+      "number": "5126.0213",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.0213"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.0214 - Waiver of removal requirement for nonattendance.",
+      "number": "5126.0214",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.0214"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.0215 - Notice of grounds of removal to member and appointing authority.",
+      "number": "5126.0215",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.0215"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.0216 - Request for hearing on proposed removal of member.",
+      "number": "5126.0216",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.0216"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.0217 - Removal of member prohibited before conclusion of hearing.",
+      "number": "5126.0217",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.0217"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.0218 - Eligibility of removed member for reappointment.",
+      "number": "5126.0218",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.0218"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.0219 - Superintendent.",
+      "number": "5126.0219",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.0219"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.0220 - Superintendent of county board - powers and duties.",
+      "number": "5126.0220",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.0220"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.0221 - Individuals disqualified from employment by board.",
+      "number": "5126.0221",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.0221"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.0222 - Employee of county board of developmental disabilities may be member of governing board of political subdivision.",
+      "number": "5126.0222",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.0222"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.0223 - Electronic attendance at county board meetings.",
+      "number": "5126.0223",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.0223"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.03 - Direct services contract definitions.",
+      "number": "5126.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.031 - Appointing ethics council.",
+      "number": "5126.031",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.031"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.032 - Reviewing direct services contracts.",
+      "number": "5126.032",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.032"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.033 - Direct services contract requirements.",
+      "number": "5126.033",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.033"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.034 - Contracts in conformity with law.",
+      "number": "5126.034",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.034"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.038 - Identification of certain expenses.",
+      "number": "5126.038",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.038"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.04 - Planning and setting priorities.",
+      "number": "5126.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.041 - Eligibility determinations.",
+      "number": "5126.041",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.041"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.042 - Waiting lists for non-medicaid programs or services.",
+      "number": "5126.042",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.042"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.043 - Decisions by individuals with developmental disabilities; authorization for decision by adult; decisions by guardian.",
+      "number": "5126.043",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.043"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.044 - Confidentiality.",
+      "number": "5126.044",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.044"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.045 - Fees for services.",
+      "number": "5126.045",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.045"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.046 - Right to community-based services; list of providers.",
+      "number": "5126.046",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.046"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.047 - Information regarding residential services.",
+      "number": "5126.047",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.047"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.05 - County board - powers and duties.",
+      "number": "5126.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.051 - Residential services and supported living services.",
+      "number": "5126.051",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.051"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.052 - Volunteer bus rider assistance program.",
+      "number": "5126.052",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.052"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.053 - Five-year projection of revenues and expenditures.",
+      "number": "5126.053",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.053"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.054 - Annual plan.",
+      "number": "5126.054",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.054"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.055 - Services provided by board that has medicaid local administrative authority.",
+      "number": "5126.055",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.055"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.056 - Terminating county board's medicaid local administrative authority.",
+      "number": "5126.056",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.056"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.058 - Memorandum of understanding.",
+      "number": "5126.058",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.058"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.059 - Payment of nonfederal share of medicaid expenditures.",
+      "number": "5126.059",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.059"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.0510 - Payment of nonfederal share of home services expenditures.",
+      "number": "5126.0510",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.0510"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.0511 - Payment of nonfederal share of home services.",
+      "number": "5126.0511",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.0511"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.0512 - Number enrolled in home and community-based services.",
+      "number": "5126.0512",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.0512"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.06 - Resolution of complaints.",
+      "number": "5126.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.07 - Discrimination prohibited - affirmative action plan.",
+      "number": "5126.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.071 - Set aside for minority business enterprise contracts.",
+      "number": "5126.071",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.071"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.08 - Programs and services offered by county board.",
+      "number": "5126.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.081 - System of accreditation for county boards of developmental disabilities.",
+      "number": "5126.081",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.081"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.082 - Standards for promoting and advancing the quality of life of individuals.",
+      "number": "5126.082",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.082"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.09 - Liability insurance.",
+      "number": "5126.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.10 - Standard cost allocation procedures.",
+      "number": "5126.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.11 - Family support services program.",
+      "number": "5126.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.13 - Regional council.",
+      "number": "5126.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.131 - Regional council and county board annual cost report.",
+      "number": "5126.131",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.131"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.14 - Administrative oversight.",
+      "number": "5126.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.15 - Service and support administration provided.",
+      "number": "5126.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.18 - County eligibility to receive tax equity payments.",
+      "number": "5126.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.20 - Employee definitions.",
+      "number": "5126.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.201 - Conditional status service and support administrator - minimum requirements.",
+      "number": "5126.201",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.201"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.21 - Management employees.",
+      "number": "5126.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.22 - Classification of employees.",
+      "number": "5126.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.221 - Investigative agents.",
+      "number": "5126.221",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.221"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.222 - Service and support administrator and supervisor training.",
+      "number": "5126.222",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.222"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.23 - Discipline of management employee or superintendent.",
+      "number": "5126.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.24 - Salary schedules for teaching and nonteaching employees.",
+      "number": "5126.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.25 - Uniform standards and procedures for certification and registrations of persons seeking employment.",
+      "number": "5126.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.251 - Effect of child support default on certificate.",
+      "number": "5126.251",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.251"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.253 - Information concerning improper conduct by licensed employee.",
+      "number": "5126.253",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.253"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.254 - Report of improper conduct investigation kept in personnel file.",
+      "number": "5126.254",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.254"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.255 - RC 5126.253 and RC 5126.254 prevail over contractual provisions.",
+      "number": "5126.255",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.255"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.30 - Protective services for adults with developmental disability definitions.",
+      "number": "5126.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.31 - Reviewing reports of abuse and neglect.",
+      "number": "5126.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.311 - Requesting review of reports of abuse or neglect by other entities.",
+      "number": "5126.311",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.311"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.313 - Investigations.",
+      "number": "5126.313",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.313"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.32 - Obstructing review or investigation.",
+      "number": "5126.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.33 - Complaint process.",
+      "number": "5126.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.331 - Ex parte emergency order.",
+      "number": "5126.331",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.331"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.332 - Probable cause hearing.",
+      "number": "5126.332",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.332"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.333 - Investigation of allegation of substantial risk.",
+      "number": "5126.333",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.333"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.34 - Training standards for reviewing abuse and neglect reports.",
+      "number": "5126.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.36 - Authorization administer medications and perform health-related activities and tube feedings.",
+      "number": "5126.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.40 - Supported living.",
+      "number": "5126.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.41 - Individual service plans.",
+      "number": "5126.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.42 - Procedures for resolution of grievances.",
+      "number": "5126.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.43 - Supported living arrangements.",
+      "number": "5126.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.45 - Contract with provider of supported living.",
+      "number": "5126.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.46 - Obligations to provide residential services.",
+      "number": "5126.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.47 - Joint county residential services consortium.",
+      "number": "5126.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.49 - Residential facility linked deposit program.",
+      "number": "5126.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.50 - Standards for residential facility linked deposit program.",
+      "number": "5126.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.51 - Residential facility linked deposit program definitions.",
+      "number": "5126.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.52 - Shortage of suitable residential facilities.",
+      "number": "5126.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.53 - Resolution by county commissioners.",
+      "number": "5126.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.54 - Application for loan to develop facility.",
+      "number": "5126.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.55 - Resolution approving or disapproving development of proposed residential facility.",
+      "number": "5126.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.56 - Applying to eligible lending institution after approval.",
+      "number": "5126.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.57 - Approving or disapproving application for residential facility linked deposit loan.",
+      "number": "5126.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.58 - Board approval or disapproval of loan application.",
+      "number": "5126.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.59 - Residential facility linked deposit agreement.",
+      "number": "5126.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.60 - Lending value of residential facility linked deposit.",
+      "number": "5126.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.61 - Monitoring compliance - annual report.",
+      "number": "5126.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.62 - No liability for defaults on loans.",
+      "number": "5126.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5126.99 - Penalty.",
+      "number": "5126.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.99"
+    }
+  ],
+  "scraped": "2026-07-02T20:10:58+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-5126",
+  "title": "Chapter 5126 - County Boards of Developmental Disabilities"
+}

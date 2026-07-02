@@ -1,0 +1,48 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) As used in this section, \"percentage increase\" means the percentage that an increase in compensation is of the compensation paid prior to the increase.",
+      "id": "3307.501-percentage-increase",
+      "normalized": "percentage increase",
+      "scope": "",
+      "section": "3307.501",
+      "source_title": "Section 3307.501 - Final average salary.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3307.501",
+      "term": "percentage increase"
+    },
+    {
+      "definition": "(B) For the purpose of determining final average salary under this section, \"compensation\" has the same meaning as in section 3307.01 of the Revised Code, except that it does not include any amount resulting from a percentage increase paid to a member during the member's two highest years of compensation, and any partial year of compensation as determined under divisions (C)(1) and (2) of this section to which the percentage increase also applies, if the percentage increase exceeds the greater of the following:\n\n(1) The highest percentage increase in compensation paid to the member during any of the three years immediately preceding the earlier of the member's two highest years of compensation;\n\n(2) A percentage increase paid to the member as part of an increase generally applicable to members employed by the employer. An increase shall be considered generally applicable if it is paid to members employed by a school district board of education in positions requiring a license issued under section 3319.22 of the Revised Code in accordance with uniform criteria applicable to all such members or if paid to members employed by an employer other than a school district board of education in accordance with uniform criteria applicable to all such members.\n\n(C) The state teachers retirement board shall determine the final average salary of a member as follows:\n\n(1) For benefits beginning before August 1, 2015, by dividing the sum of the member's annual compensation for the three highest years of compensation for which the member made contributions plus any amount determined under division (E) of this section by three, except that if the member has a partial year of contributing service in the year the member's employment terminates and the compensation for the partial year is at a rate higher than the rate of compensation for any one of the member's highest three years of compensation, the board shall substitute the compensation for the partial year for the compensation for the same portion of the lowest of the member's three highest years of compensation;\n\n(2) For benefits beginning on or after August 1, 2015, except as provided in division (C)(3) of this section, by dividing the sum of the member's annual compensation for the five highest years of compensation for which the member made contributions plus any amount determined under division (E) of this section by five, except that if the member has a partial year of contributing service in the year the member's employment terminates and the compensation for the partial year is at a rate higher than the rate of compensation for any one of the member's highest five years of compensation, the board shall substitute the compensation for the partial year for the compensation for the same portion of the lowest of the member's five highest years of compensation ;\n\n(3) For benefits beginning on or after August 1, 2015, that were preceded by a disability benefit effective before that date and with no break in benefits, by dividing the sum of the member's annual compensation for the three highest years of compensation for which the member made contributions plus any amount determined under division (E) of this section by three, except that if the member has a partial year of contributing service in the year the member's employment terminates and the compensation for the partial year is at a rate higher than the rate of compensation for any one of the member's highest three years of compensation, the board shall substitute the compensation for the partial year for the compensation for the same portion of the lowest of the member's three highest years of compensation.\n\nIf a member has less than the requisite years of contributing membership, the member's final average salary shall be the member's total compensation for the period of contributing membership plus any amount determined under division (E) of this section divided by the total years, including any portion of a year, of contributing service.\n\nFor the purpose of calculating benefits payable to a member qualifying for service credit under division (I) of section 3307.01 of the Revised Code, the board shall calculate the member's final average salary by dividing the member's total compensation as a teacher covered under this chapter plus any amount determined under division (E) of this section by the total number of years, including any portion of a year, of contributing membership during that period. If contributions were made for less than twelve months, the member's final average salary is the total amount of compensation paid to the member during all periods of contributions under this chapter.\n\n(D) Contributions made by a member on amounts that, pursuant to division (B) of this section, are not compensation or are not included, pursuant to division (E) of this section, for the purpose of determining final average salary shall be treated as additional deposits to the member's account under section 3307.26 of the Revised Code and used to provide additional annuity income.\n\n(E) The state teachers retirement board shall adopt rules establishing criteria and procedures for administering this division.\n\nThe board shall notify each applicant for retirement of any amount excluded from the applicant's compensation in accordance with division (B) of this section and of the procedures established by the board for requesting a hearing on this exclusion.\n\nAny applicant for retirement who has had any amount excluded from the applicant's compensation in accordance with division (B) of this section may request a hearing on this exclusion. Upon receiving such a request, the board shall determine in accordance with its criteria and procedures whether, for good cause as determined by the board, all or any portion of any amount excluded from the applicant's compensation in accordance with division (B) of this section, up to a maximum of seventy-five hundred dollars, is to be included in the determination of final average salary under division (C) of this section. Any determination of the board under this division shall be final.",
+      "id": "3307.501-compensation",
+      "normalized": "compensation",
+      "scope": "",
+      "section": "3307.501",
+      "source_title": "Section 3307.501 - Final average salary.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3307.501",
+      "term": "compensation"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3307.01",
+      "number": "3307.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3307.01"
+    },
+    {
+      "kind": "section",
+      "label": "3319.22",
+      "number": "3319.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3319.22"
+    },
+    {
+      "kind": "section",
+      "label": "3307.26",
+      "number": "3307.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3307.26"
+    }
+  ],
+  "scraped": "2026-07-02T19:48:25+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3307.501",
+  "title": "Section 3307.501 - Final average salary."
+}

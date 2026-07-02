@@ -1,0 +1,471 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 1733.01 - Credit union definitions.",
+      "number": "1733.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.02 - Purpose of chapter.",
+      "number": "1733.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.03 - Purpose of credit union.",
+      "number": "1733.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.04 - Authority of credit union.",
+      "number": "1733.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.041 - Insurance protection for members' accounts.",
+      "number": "1733.041",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.041"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.042 - Posting notice of insurance.",
+      "number": "1733.042",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.042"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.05 - Membership.",
+      "number": "1733.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.051 - Grounds for termination of services.",
+      "number": "1733.051",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.051"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.06 - Statutory agent.",
+      "number": "1733.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.07 - Forming a credit union.",
+      "number": "1733.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.08 - Accepting articles by secretary of state.",
+      "number": "1733.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.09 - Meeting of incorporators.",
+      "number": "1733.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.10 - Initial meeting of board of directors.",
+      "number": "1733.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.11 - Action taken without meeting.",
+      "number": "1733.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.12 - Annual meeting.",
+      "number": "1733.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.13 - Voting.",
+      "number": "1733.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.14 - Quorum at member meeting.",
+      "number": "1733.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.15 - Board of directors.",
+      "number": "1733.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.151 - Plan for educating directors, committee members, and senior management officials as to duties and responsibilities.",
+      "number": "1733.151",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.151"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.152 - Appointment of associate directors.",
+      "number": "1733.152",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.152"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.16 - Board meetings.",
+      "number": "1733.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.17 - Quorum of board.",
+      "number": "1733.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.18 - Vacancies on board - removal of director.",
+      "number": "1733.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.181 - Removal from office.",
+      "number": "1733.181",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.181"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.19 - Establishment of committees - advisory board.",
+      "number": "1733.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.191 - Notice of outside auditor.",
+      "number": "1733.191",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.191"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.20 - Officers - duties.",
+      "number": "1733.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.21 - Binding effect of acts of minor officer.",
+      "number": "1733.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.22 - Compensation and benefits.",
+      "number": "1733.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.23 - Fidelity bond.",
+      "number": "1733.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.24 - Deposits; shares and accounts; withdrawals.",
+      "number": "1733.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.241 - Payment on joint account - contract for payment on death.",
+      "number": "1733.241",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.241"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.242 - Acceptance of property for safekeeping - transactions with minors.",
+      "number": "1733.242",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.242"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.243 - Claims to property in safekeeping - bond of claimant.",
+      "number": "1733.243",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.243"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.25 - Loans - interest.",
+      "number": "1733.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.251 - Alternative interest rate.",
+      "number": "1733.251",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.251"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.252 - Compliance with Secure and Fair Enforcement for Mortgage Licensing Act.",
+      "number": "1733.252",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.252"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.253 - Permissible charges under a revolving credit agreement.",
+      "number": "1733.253",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.253"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.27 - Fiscal year.",
+      "number": "1733.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.28 - Financial statement.",
+      "number": "1733.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.29 - Permanent records.",
+      "number": "1733.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.291 - Preservation of records - retention period - disposal.",
+      "number": "1733.291",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.291"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.292 - Process for retention of documents - approval - use as evidence.",
+      "number": "1733.292",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.292"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.30 - Investments.",
+      "number": "1733.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.31 - Reserve accounts - liquidity fund.",
+      "number": "1733.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.32 - Powers of superintendent of financial institutions.",
+      "number": "1733.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.321 - Credit unions fund.",
+      "number": "1733.321",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.321"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.322 - Requesting outside auditor to review results of examination.",
+      "number": "1733.322",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.322"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.323 - Issuing administrative guidelines.",
+      "number": "1733.323",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.323"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.324 - Issuing cease-and-desist order.",
+      "number": "1733.324",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.324"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.325 - Setting supervisory conference.",
+      "number": "1733.325",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.325"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.326 - Forfeiture and civil penalty for noncompliance with order or agreement.",
+      "number": "1733.326",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.326"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.327 - Confidentiality.",
+      "number": "1733.327",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.327"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.328 - Frequency of credit union examinations.",
+      "number": "1733.328",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.328"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.329 - Credit union council.",
+      "number": "1733.329",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.329"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.3210 - Duties of council.",
+      "number": "1733.3210",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.3210"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.33 - Amendments to articles or regulations.",
+      "number": "1733.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.34 - Merger of credit unions.",
+      "number": "1733.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.341 - Conversions.",
+      "number": "1733.341",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.341"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.35 - Dissolution.",
+      "number": "1733.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.361 - Appointment and removal of conservator - duties of conservator.",
+      "number": "1733.361",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.361"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.37 - Liquidation.",
+      "number": "1733.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.38 - Qualification of foreign credit union.",
+      "number": "1733.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.39 - Requirements for doing business.",
+      "number": "1733.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.40 - Annual report.",
+      "number": "1733.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.41 - Additional rules and regulations.",
+      "number": "1733.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.411 - Adoption of administrative rules.",
+      "number": "1733.411",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.411"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.412 - Powers of federal credit unions granted to state chartered credit unions.",
+      "number": "1733.412",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.412"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.42 - Computing time for giving notice.",
+      "number": "1733.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.43 - Exemption from franchise tax and report.",
+      "number": "1733.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.44 - Prohibition against use of words credit union.",
+      "number": "1733.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.441 - False advertising.",
+      "number": "1733.441",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.441"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.45 - Applicability of general corporation laws.",
+      "number": "1733.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.47 - Criminal records check to be requested by superintendent.",
+      "number": "1733.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.51 - Deposit of moneys for preneed funeral or cemetery merchandise and services contract.",
+      "number": "1733.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.53 - Bona fide errors.",
+      "number": "1733.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1733.99 - Penalty.",
+      "number": "1733.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1733.99"
+    }
+  ],
+  "scraped": "2026-07-02T19:39:24+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-1733",
+  "title": "Chapter 1733 - Credit Unions"
+}

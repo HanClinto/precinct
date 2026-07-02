@@ -1,0 +1,134 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-1533
+Scraped: 2026-07-02T19:37:50+00:00
+
+# Chapter 1533 - Hunting; Fishing
+
+## Sections
+
+- Section 1533.01 - Hunting - fishing definitions.
+- Section 1533.02 - Fishing and trapping districts - restrictions on taking, possession, and selling.
+- Section 1533.03 - Prevention of authorized hunting, trapping, or fishing prohibited.
+- Section 1533.031 - Prevention of hunting by creating noise prohibited.
+- Section 1533.04 - Use of suppressor.
+- Section 1533.05 - Raptors for use in sport of falconry.
+- Section 1533.051 - Commercial and noncommercial propagation of raptors.
+- Section 1533.07 - Protection afforded nongame birds.
+- Section 1533.08 - Scientific, educational or rehabilitation collection permits.
+- Section 1533.081 - Permit for taking of wild animal.
+- Section 1533.09 - Annual report of operations under collection permit - revocation and forfeiture of permit.
+- Section 1533.10 - Hunting licenses; fees; hunter education and conservation course.
+- Section 1533.101 - Reissued license, stamp or permit.
+- Section 1533.102 - Apprentice hunting licenses and fur taker permits.
+- Section 1533.103 - All purpose vehicles permits for mobility-impaired persons.
+- Section 1533.11 - Special deer or wild turkey permits; fees; wildlife refunds fund.
+- Section 1533.111 - Hunting or trapping fur taker permit - trapper education course.
+- Section 1533.112 - Annual wetlands habitat stamp needed to hunt ducks, geese or brant - wetlands habitat fund.
+- Section 1533.113 - Rules for management permits.
+- Section 1533.12 - Hunting, fishing or trapping without a license or permit.
+- Section 1533.121 - Deer killed by motor vehicle on highway.
+- Section 1533.13 - Persons authorized to issue licenses, stamps and permits - application procedure.
+- Section 1533.131 - Gift certificates for licenses, permits, and stamps.
+- Section 1533.14 - Hunting license or wetlands habitat stamp not transferable - license to be carried and exhibited.
+- Section 1533.15 - Issuing, dating and recording licenses.
+- Section 1533.151 - Wildlife conservation stamps.
+- Section 1533.16 - Weapons for taking game birds and wild quadrupeds.
+- Section 1533.161 - Prohibiting jacklighting.
+- Section 1533.17 - Hunting without permission.
+- Section 1533.171 - Prohibiting injuring persons or property while hunting.
+- Section 1533.18 - Recreational user definitions.
+- Section 1533.181 - Immunity.
+- Section 1533.19 - Field trial club permits.
+- Section 1533.191 - Purchase of domestically raised game birds for dog training grounds.
+- Section 1533.20 - Field trial areas - permit.
+- Section 1533.21 - Club lands may be designated as field trial area.
+- Section 1533.22 - Signs for field trial areas - hunting or trapping within areas.
+- Section 1533.221 - Restricting filed trials for nonresidents.
+- Section 1533.23 - Fur dealer's permit.
+- Section 1533.24 - Fur dealer's daily record - forms - carrier restrictions.
+- Section 1533.28 - Wildlife and fish restoration projects in cooperation with United States.
+- Section 1533.29 - Prima-facie evidence of guilt.
+- Section 1533.30 - Transportation of fish, game birds, and wild quadrupeds.
+- Section 1533.301 - Annual permit for transporting fish - suspension or revocation.
+- Section 1533.31 - Shipment of live wild animals.
+- Section 1533.32 - Fishing licenses generally.
+- Section 1533.321 - Multi-year or lifetime hunting and fishing licenses.
+- Section 1533.322 - Exemption from fishing license requirement.
+- Section 1533.323 - Reciprocity.
+- Section 1533.324 - Prohibition against taking or selling mussels.
+- Section 1533.33 - Fishing license fees.
+- Section 1533.34 - License to use boat, net, or device for fishing.
+- Section 1533.341 - Quota management system.
+- Section 1533.342 - Commercial fishing licenses.
+- Section 1533.343 - Vessel and catch monitoring devices required.
+- Section 1533.35 - Commercial fishing device annual license fee.
+- Section 1533.351 - Experimental fishing device annual license fee.
+- Section 1533.352 - Reciprocity.
+- Section 1533.36 - Fishing license not transferable - exception.
+- Section 1533.37 - Methods of taking fish.
+- Section 1533.40 - Permit to buy, sell or deal in minnows, crawfish or hellgrammites.
+- Section 1533.41 - Fishing season for Lake Erie and other waters.
+- Section 1533.42 - Licensee shall keep report for each day's catch.
+- Section 1533.43 - License tag to be attached to each fishing device.
+- Section 1533.431 - Numbering and locating trap or fyke nets.
+- Section 1533.44 - Fishing devices shall be marked with owner's or operator's name.
+- Section 1533.45 - Places where nets may not be used.
+- Section 1533.46 - Splashing to drive fish into nets prohibited.
+- Section 1533.48 - Trotlines.
+- Section 1533.49 - Size of mesh and twine used in crib nets, trap nets, and fyke nets.
+- Section 1533.50 - Carp apron use restrictions.
+- Section 1533.51 - Fishing guide license.
+- Section 1533.511 - Fishing guide daily record.
+- Section 1533.52 - Method of measuring nets.
+- Section 1533.54 - Methods of fishing.
+- Section 1533.55 - Placement and maintenance of nets and other fishing devices in Lake Erie.
+- Section 1533.56 - Daily records of fish processing.
+- Section 1533.57 - Minnows shall be taken only for bait.
+- Section 1533.58 - Prohibition against use of deleterious substances in waters of the state.
+- Section 1533.59 - Prohibition against obstructing natural transit of fish.
+- Section 1533.60 - Fish may be taken in overflows and private ponds.
+- Section 1533.61 - Certain nets, traps and other devices exempted.
+- Section 1533.62 - Locations where seine or net may be used.
+- Section 1533.63 - Legal length and weight of certain fish.
+- Section 1533.631 - Permit for handling fish at wholesale.
+- Section 1533.632 - Regulation of aquaculture - permits.
+- Section 1533.64 - Property rights in fish.
+- Section 1533.641 - Commercial licenses revoked on felony conviction.
+- Section 1533.65 - Each fish constitutes separate offense.
+- Section 1533.66 - Trespassing upon lands bordering on fishponds.
+- Section 1533.67 - Enforcement procedure.
+- Section 1533.68 - Suspension or revocation of license or permit.
+- Section 1533.69 - Prosecution for violation of division rule.
+- Section 1533.71 - License to raise or keep game birds and animals.
+- Section 1533.72 - License to own or operate commercial bird shooting preserve.
+- Section 1533.721 - Wild animal hunting preserve license - conditions.
+- Section 1533.722 - Administrative penalty.
+- Section 1533.73 - Commercial bird shooting preserves - regulations - leg bands and tags.
+- Section 1533.731 - Wild animal hunting preserves - regulations.
+- Section 1533.74 - Tag or seal required for animals sold for food.
+- Section 1533.75 - Prohibitions.
+- Section 1533.751 - Wild boar or feral swine notification and eradication.
+- Section 1533.76 - Division of wildlife may purchase pheasants.
+- Section 1533.77 - Records of holder of propagating license - inspection of records.
+- Section 1533.79 - Control or eradication of parasites and diseases; authority of the director of agriculture.
+- Section 1533.81 - Waterfowl hunting area permit required.
+- Section 1533.82 - Effect of child support default on license, certificate or permit.
+- Section 1533.83 - Shooting range definitions.
+- Section 1533.84 - Shooting range standards.
+- Section 1533.85 - Immunity in civil action concerning shooting range noise.
+- Section 1533.86 - Ohio ginseng management program definitions.
+- Section 1533.87 - Ohio ginseng management program.
+- Section 1533.88 - Rules.
+- Section 1533.881 - Resale or export registration permit.
+- Section 1533.882 - Prohibited acts.
+- Section 1533.89 - Enforcement of statutes and rules.
+- Section 1533.891 - Seizure and forfeiture of ginseng.
+- Section 1533.90 - Moneys paid into wildlife fund.
+- Section 1533.91 - Nonresident licenses or permits - reciprocal agreements.
+- Section 1533.92 - Tag fishing tournament on public waters - application for permit.
+- Section 1533.93 - Rules for operation of tag fishing tournaments.
+- Section 1533.94 - Special conditions on permit.
+- Section 1533.95 - Immunity.
+- Section 1533.96 - Ineligibility for permit.
+- Section 1533.97 - Prohibited acts.
+- Section 1533.98 - Certain tournament not prohibited.
+- Section 1533.99 - Penalty.

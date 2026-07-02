@@ -1,0 +1,12 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3375.42
+Scraped: 2026-07-02T19:50:30+00:00
+
+# Section 3375.42 - Contract for library service - tax levy.
+
+**Effective:** June 26, 2012
+
+**Latest Legislation:** Senate Bill 321 - 129th General Assembly
+
+(A) The board of county commissioners of any county, the board of education of any school district, the legislative authority of any municipal corporation, or the board of township trustees of any township may contract with the board of library trustees of any public library, or with any private corporation or library association maintaining a free public library prior to September 4, 1947, situated within or without the taxing district, to furnish library service to all the inhabitants of said taxing district, notwithstanding the fact that such library is receiving proceeds from the county public library fund, and, subject to division (B) of this section, may levy a tax, or may make an appropriation from its general fund or from federal funds, to be expended by such library in providing library service in said taxing district for any of the purposes specified in section 3375.40 of the Revised Code. The taxing authority may require an annual report in writing from such board of library trustees, private corporation, or library association. When a tax for library purposes has been so levied, at each semiannual collection of such tax the county auditor shall certify the amount collected to the proper officer of the taxing district who shall forthwith draw a warrant for such amount on the treasurer of such district payable to the proper officer of such library.
+
+(B) The taxing authority of a subdivision may levy a tax pursuant to division (A) of this section for the support of a library association or private corporation only if the library association or private corporation has an association library district, as defined in section 5705.01 of the Revised Code, and if the territory of the subdivision includes some or all of the territory of that association library district. The taxing authority shall submit the question of levying such a tax only to electors residing within the territory of the association library district. If approved by a majority of such electors voting on the question, such a tax shall be levied only upon taxable property located within the territory of the association library district.

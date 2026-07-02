@@ -1,0 +1,122 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Year's fund balance\" means the amount credited to the public library fund during a calendar year.",
+      "id": "5747.46-year-s-fund-balance",
+      "normalized": "year's fund balance",
+      "scope": "As used in sections 5747.46 and 5747.47 of the Revised Code:",
+      "section": "5747.46",
+      "source_title": "Section 5747.46 - Library and local government support fund definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5747.46",
+      "term": "Year's fund balance"
+    },
+    {
+      "definition": "(B) \"Distribution year\" means the calendar year during which a year's fund balance is distributed under section 5747.47 of the Revised Code.",
+      "id": "5747.46-distribution-year",
+      "normalized": "distribution year",
+      "scope": "As used in sections 5747.46 and 5747.47 of the Revised Code:",
+      "section": "5747.46",
+      "source_title": "Section 5747.46 - Library and local government support fund definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5747.46",
+      "term": "Distribution year"
+    },
+    {
+      "definition": "(C) \"CPI\" means the consumer price index for all urban consumers (United States city average, all items), prepared by the United States department of labor, bureau of labor statistics.",
+      "id": "5747.46-cpi",
+      "normalized": "cpi",
+      "scope": "As used in sections 5747.46 and 5747.47 of the Revised Code:",
+      "section": "5747.46",
+      "source_title": "Section 5747.46 - Library and local government support fund definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5747.46",
+      "term": "CPI"
+    },
+    {
+      "definition": "(D) \"Inflation factor\" means the quotient obtained by dividing the CPI for May of the year preceding the distribution year by the CPI for May of the second preceding year. If the quotient so obtained is less than one, the inflation factor shall equal one.",
+      "id": "5747.46-inflation-factor",
+      "normalized": "inflation factor",
+      "scope": "As used in sections 5747.46 and 5747.47 of the Revised Code:",
+      "section": "5747.46",
+      "source_title": "Section 5747.46 - Library and local government support fund definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5747.46",
+      "term": "Inflation factor"
+    },
+    {
+      "definition": "(E) \"Population\" means whichever of the following has most recently been issued, as of the first day of June preceding the distribution year:\n\n(1) The most recent decennial census figures that include population figures for each county in the state;\n\n(2) The most current issue of \"Current Population Reports: Local Population Estimates\" issued by the United States bureau of the census that contains population estimates for each county in the state and the state.",
+      "id": "5747.46-population",
+      "normalized": "population",
+      "scope": "As used in sections 5747.46 and 5747.47 of the Revised Code:",
+      "section": "5747.46",
+      "source_title": "Section 5747.46 - Library and local government support fund definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5747.46",
+      "term": "Population"
+    },
+    {
+      "definition": "(F) \"County's equalization ratio for a distribution year\" means a percentage computed for that county as follows:\n\n(1) Square the per cent that the county's population is of the state's population;\n\n(2) Divide the product so obtained by the per cent that the county's total entitlement for the preceding year is of all counties' total entitlements for the preceding year;\n\n(3) Divide the quotient so obtained by the sum of the quotients so obtained for all counties.",
+      "id": "5747.46-county-s-equalization-ratio-for-a-distribution-year",
+      "normalized": "county's equalization ratio for a distribution year",
+      "scope": "As used in sections 5747.46 and 5747.47 of the Revised Code:",
+      "section": "5747.46",
+      "source_title": "Section 5747.46 - Library and local government support fund definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5747.46",
+      "term": "County's equalization ratio for a distribution year"
+    },
+    {
+      "definition": "(G) \"Total entitlement\" means, with respect to a distribution year, the sum of a county's guaranteed share plus its share of the excess. For the 2012 distribution year, \"total entitlement\" equals the sum of payments made to a county public library fund during that year.",
+      "id": "5747.46-total-entitlement",
+      "normalized": "total entitlement",
+      "scope": "As used in sections 5747.46 and 5747.47 of the Revised Code:",
+      "section": "5747.46",
+      "source_title": "Section 5747.46 - Library and local government support fund definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5747.46",
+      "term": "Total entitlement"
+    },
+    {
+      "definition": "(1) \"Guaranteed share\" means, for a distribution year, the product obtained by multiplying a county's total entitlement for the preceding distribution year by the inflation factor. If the sum of the guaranteed shares for all counties exceeds the year's fund balance, the guaranteed shares of all counties shall be reduced by a percentage that will result in the sum of such guaranteed shares being equal to the year's fund balance.",
+      "id": "5747.46-guaranteed-share",
+      "normalized": "guaranteed share",
+      "scope": "As used in sections 5747.46 and 5747.47 of the Revised Code:",
+      "section": "5747.46",
+      "source_title": "Section 5747.46 - Library and local government support fund definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5747.46",
+      "term": "Guaranteed share"
+    },
+    {
+      "definition": "(2) \"Share of excess\" means, for a distribution year, the product obtained by multiplying a county's equalization ratio by the difference between the year's fund balance and the sum of the guaranteed shares for all counties. If the sum of the guaranteed shares for all counties exceeds the year's fund balance the share of the excess for all counties is zero.",
+      "id": "5747.46-share-of-excess",
+      "normalized": "share of excess",
+      "scope": "As used in sections 5747.46 and 5747.47 of the Revised Code:",
+      "section": "5747.46",
+      "source_title": "Section 5747.46 - Library and local government support fund definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5747.46",
+      "term": "Share of excess"
+    },
+    {
+      "definition": "(H) \"Net distribution\" means the sum of the payments made to a county's public library fund during a distribution year, adjusted as follows:\n\n(1) If the county received an overpayment during the preceding distribution year, add the amount of the overpayment;\n\n(2) If the county received an underpayment during the preceding distribution year, deduct the amount of the underpayment.\n\n(I) \"Overpayment\" or \"underpayment\" for a distribution year means the amount by which the net distribution to a county's public library fund during that distribution year exceeded or was less than the county's total entitlement for that year.\n\nAll computations made under this section shall be rounded to the nearest one-hundredth of one per cent.",
+      "id": "5747.46-net-distribution",
+      "normalized": "net distribution",
+      "scope": "As used in sections 5747.46 and 5747.47 of the Revised Code:",
+      "section": "5747.46",
+      "source_title": "Section 5747.46 - Library and local government support fund definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5747.46",
+      "term": "Net distribution"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "5747.46",
+      "number": "5747.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.46"
+    },
+    {
+      "kind": "section",
+      "label": "5747.47",
+      "number": "5747.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.47"
+    }
+  ],
+  "scraped": "2026-07-02T20:15:28+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5747.46",
+  "title": "Section 5747.46 - Library and local government support fund definitions."
+}

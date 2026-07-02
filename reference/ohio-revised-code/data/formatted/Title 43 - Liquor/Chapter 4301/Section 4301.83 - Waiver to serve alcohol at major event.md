@@ -1,0 +1,48 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4301.83
+Scraped: 2026-07-02T20:04:59+00:00
+
+# Section 4301.83 - Waiver to serve alcohol at major event.
+
+**Effective:** September 28, 2016
+
+**Latest Legislation:** House Bill 342 - 131st General Assembly
+
+(A) As used in this section:
+
+(1) "Qualified permit holder" means a person to which both of the following apply:
+
+(a) The person is the holder of an A-1, A-l-A, A-lc, A-2, A-2f, or D permit issued under Chapter 4303. of the Revised Code.
+
+(b) The location of the premises for which the person has been issued a permit specified in division (A)(1)(a) of this section is in a county in which a major event will occur or in a county contiguous to the county in which a major event will occur.
+
+(2) "Major event" means an event that meets all of the following conditions:
+
+(a) It is scheduled to occur in a municipal corporation with a population of three hundred fifty thousand or more on or after September 29, 2015.
+
+(b) It is expected to attract not less than three thousand visitors.
+
+(c) It is scheduled to have a duration of not less than one day and not more than ten days.
+
+(B) Notwithstanding any provision of law to the contrary and upon issuance of a waiver by the division of liquor control under this section, a qualified permit holder may serve beer, intoxicating liquor, or both between five thirty a.m. and four a.m. the following day during a major event.
+
+(C) Not later than one hundred twenty days prior to the commencement of a major event, a qualified permit holder may file an application for a waiver with the chief executive officer of the municipal corporation in which the permit holder's premises is located or the fiscal officer of the township in which the permit holder's premises is located. The qualified permit holder shall include in the application both of the following:
+
+(1) The name and address of the qualified permit holder;
+
+(2) The name and address of the premises that is the subject of the application.
+
+(D)(1) Not later than ninety days prior to the commencement of the major event, the chief executive officer of the municipal corporation or the fiscal officer of the township that receives an application under division (C) of this section shall review all applications received under division (C) of this section and compile a list of the applicants.
+
+(2) In compiling the list under division (D)(1) of this section, the chief executive officer or fiscal officer shall consult with the chief law enforcement officer of the municipal corporation or township, as applicable, to determine whether to retain each applicant on the list.
+
+(E)(1) Not later than sixty days prior to the commencement of the major event, the chief executive officer of the municipal corporation or the fiscal officer of the township that compiles a list of qualified permit holders under division (D) of this section shall submit the list to the division.
+
+(2) The division shall review the list and determine whether to retain each qualified permit holder on the list. The division may remove the name of a permit holder from the list for good cause. After review, the division shall certify the list.
+
+(F) Not later than thirty days prior to the commencement of the major event, the division shall do both of the following:
+
+(1) Return the list certified under division (E) of this section to the chief executive officer of the municipal corporation or the fiscal officer of the township that submitted the original list under division (E) of this section;
+
+(2) Issue a waiver to each permit holder on the list that allows the permit holder to serve beer, intoxicating liquor, or both between five thirty a.m. and four a.m. the following day during the major event.
+
+(G) The division shall establish the form of the application to be used under this section and shall make it available for use by qualified permit holders.

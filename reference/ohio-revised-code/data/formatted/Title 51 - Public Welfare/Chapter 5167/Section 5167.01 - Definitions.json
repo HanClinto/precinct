@@ -1,0 +1,296 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"340B grantee\" means an entity described in section 340B(a)(4)(A)-(K) of the \"Public Health Service Act,\" 42 U.S.C. 256b(a)(4)(A)-(K) that is designated as an active (A)-(K) entity under the health resources and services administration covered entity daily report, and includes any pharmacy under contract with the entity to dispense drugs on behalf of the entity.",
+      "id": "5167.01-340b-grantee",
+      "normalized": "340b grantee",
+      "scope": "As used in this chapter:",
+      "section": "5167.01",
+      "source_title": "Section 5167.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5167.01",
+      "term": "340B grantee"
+    },
+    {
+      "definition": "(B) \"Affiliated company\" means an entity, including a third-party payer or specialty pharmacy, with common ownership, members of a board of directors, or managers, or that is a parent company, subsidiary company, jointly held company, or holding company with respect to the other entity.",
+      "id": "5167.01-affiliated-company",
+      "normalized": "affiliated company",
+      "scope": "As used in this chapter:",
+      "section": "5167.01",
+      "source_title": "Section 5167.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5167.01",
+      "term": "Affiliated company"
+    },
+    {
+      "definition": "(C) \"Care management system\" means the system established under section 5167.03 of the Revised Code.",
+      "id": "5167.01-care-management-system",
+      "normalized": "care management system",
+      "scope": "As used in this chapter:",
+      "section": "5167.01",
+      "source_title": "Section 5167.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5167.01",
+      "term": "Care management system"
+    },
+    {
+      "definition": "(D) \"Controlled substance\" has the same meaning as in section 3719.01 of the Revised Code.",
+      "id": "5167.01-controlled-substance",
+      "normalized": "controlled substance",
+      "scope": "As used in this chapter:",
+      "section": "5167.01",
+      "source_title": "Section 5167.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5167.01",
+      "term": "Controlled substance"
+    },
+    {
+      "definition": "(E) \"Dual eligible individual\" has the same meaning as in section 5160.01 of the Revised Code.",
+      "id": "5167.01-dual-eligible-individual",
+      "normalized": "dual eligible individual",
+      "scope": "As used in this chapter:",
+      "section": "5167.01",
+      "source_title": "Section 5167.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5167.01",
+      "term": "Dual eligible individual"
+    },
+    {
+      "definition": "(F) \"Emergency services\" has the same meaning as in the \"Social Security Act,\" section 1932(b)(2), 42 U.S.C. 1396u-2(b)(2).",
+      "id": "5167.01-emergency-services",
+      "normalized": "emergency services",
+      "scope": "As used in this chapter:",
+      "section": "5167.01",
+      "source_title": "Section 5167.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5167.01",
+      "term": "Emergency services"
+    },
+    {
+      "definition": "(G) \"Enrollee\" means a medicaid recipient who participates in the care management system and enrolls in a medicaid MCO plan.\n\n(H) \"ICDS participant\" and \"integrated care delivery system\" have the same meanings as in section 5164.01 of the Revised Code.",
+      "id": "5167.01-enrollee",
+      "normalized": "enrollee",
+      "scope": "As used in this chapter:",
+      "section": "5167.01",
+      "source_title": "Section 5167.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5167.01",
+      "term": "Enrollee"
+    },
+    {
+      "definition": "(I) \"ICDS successor program\" means a fully integrated dual eligible special needs plan established in accordance with 42 C.F.R. 422.107, that the department of medicaid utilizes as a replacement for the integrated care delivery system.",
+      "id": "5167.01-icds-successor-program",
+      "normalized": "icds successor program",
+      "scope": "As used in this chapter:",
+      "section": "5167.01",
+      "source_title": "Section 5167.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5167.01",
+      "term": "ICDS successor program"
+    },
+    {
+      "definition": "(J) \"Medicaid managed care organization\" means a managed care organization under contract with the department of medicaid pursuant to section 5167.10 of the Revised Code.",
+      "id": "5167.01-medicaid-managed-care-organization",
+      "normalized": "medicaid managed care organization",
+      "scope": "As used in this chapter:",
+      "section": "5167.01",
+      "source_title": "Section 5167.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5167.01",
+      "term": "Medicaid managed care organization"
+    },
+    {
+      "definition": "(K) \"Medicaid MCO plan\" means a plan that a medicaid managed care organization, pursuant to its contract with the department of medicaid under section 5167.10 of the Revised Code, makes available to medicaid recipients participating in the care management system.",
+      "id": "5167.01-medicaid-mco-plan",
+      "normalized": "medicaid mco plan",
+      "scope": "As used in this chapter:",
+      "section": "5167.01",
+      "source_title": "Section 5167.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5167.01",
+      "term": "Medicaid MCO plan"
+    },
+    {
+      "definition": "(L) \"Medicaid waiver component\" has the same meaning as in section 5166.01 of the Revised Code.",
+      "id": "5167.01-medicaid-waiver-component",
+      "normalized": "medicaid waiver component",
+      "scope": "As used in this chapter:",
+      "section": "5167.01",
+      "source_title": "Section 5167.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5167.01",
+      "term": "Medicaid waiver component"
+    },
+    {
+      "definition": "(M) \"Network provider\" has the same meaning as in 42 C.F.R. 438.2.",
+      "id": "5167.01-network-provider",
+      "normalized": "network provider",
+      "scope": "As used in this chapter:",
+      "section": "5167.01",
+      "source_title": "Section 5167.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5167.01",
+      "term": "Network provider"
+    },
+    {
+      "definition": "(N) \"Nursing facility services\" has the same meaning as in section 5165.01 of the Revised Code.",
+      "id": "5167.01-nursing-facility-services",
+      "normalized": "nursing facility services",
+      "scope": "As used in this chapter:",
+      "section": "5167.01",
+      "source_title": "Section 5167.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5167.01",
+      "term": "Nursing facility services"
+    },
+    {
+      "definition": "(O) \"Part B drug\" means a drug or biological described in section 1842(o)(1)(C) of the \"Social Security Act,\" 42 U.S.C. 1395u(o)(1)(C).",
+      "id": "5167.01-part-b-drug",
+      "normalized": "part b drug",
+      "scope": "As used in this chapter:",
+      "section": "5167.01",
+      "source_title": "Section 5167.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5167.01",
+      "term": "Part B drug"
+    },
+    {
+      "definition": "(P) \"Pharmacy benefit manager\" has the same meaning as in section 3959.01 of the Revised Code.",
+      "id": "5167.01-pharmacy-benefit-manager",
+      "normalized": "pharmacy benefit manager",
+      "scope": "As used in this chapter:",
+      "section": "5167.01",
+      "source_title": "Section 5167.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5167.01",
+      "term": "Pharmacy benefit manager"
+    },
+    {
+      "definition": "(Q) \"Practice of pharmacy\" has the same meaning as in section 4729.01 of the Revised Code.",
+      "id": "5167.01-practice-of-pharmacy",
+      "normalized": "practice of pharmacy",
+      "scope": "As used in this chapter:",
+      "section": "5167.01",
+      "source_title": "Section 5167.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5167.01",
+      "term": "Practice of pharmacy"
+    },
+    {
+      "definition": "(R) \"Prescribed drug\" has the same meaning as in section 5164.01 of the Revised Code.",
+      "id": "5167.01-prescribed-drug",
+      "normalized": "prescribed drug",
+      "scope": "As used in this chapter:",
+      "section": "5167.01",
+      "source_title": "Section 5167.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5167.01",
+      "term": "Prescribed drug"
+    },
+    {
+      "definition": "(S) \"Prior authorization requirement\" has the same meaning as in section 5160.34 of the Revised Code.",
+      "id": "5167.01-prior-authorization-requirement",
+      "normalized": "prior authorization requirement",
+      "scope": "As used in this chapter:",
+      "section": "5167.01",
+      "source_title": "Section 5167.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5167.01",
+      "term": "Prior authorization requirement"
+    },
+    {
+      "definition": "(T) \"Provider\" means any person or government entity that furnishes services to a medicaid recipient enrolled in a medicaid MCO plan, regardless of whether the person or entity has a provider agreement.",
+      "id": "5167.01-provider",
+      "normalized": "provider",
+      "scope": "As used in this chapter:",
+      "section": "5167.01",
+      "source_title": "Section 5167.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5167.01",
+      "term": "Provider"
+    },
+    {
+      "definition": "(U) \"Provider agreement\" has the same meaning as in section 5164.01 of the Revised Code.",
+      "id": "5167.01-provider-agreement",
+      "normalized": "provider agreement",
+      "scope": "As used in this chapter:",
+      "section": "5167.01",
+      "source_title": "Section 5167.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5167.01",
+      "term": "Provider agreement"
+    },
+    {
+      "definition": "(V) \"State pharmacy benefit manager\" means the pharmacy benefit manager selected by and under contract with the medicaid director under section 5167.24 of the Revised Code.",
+      "id": "5167.01-state-pharmacy-benefit-manager",
+      "normalized": "state pharmacy benefit manager",
+      "scope": "As used in this chapter:",
+      "section": "5167.01",
+      "source_title": "Section 5167.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5167.01",
+      "term": "State pharmacy benefit manager"
+    },
+    {
+      "definition": "(W) \"Third-party administrator\" means any person who adjusts or settles claims on behalf of an insuring entity in connection with life, dental, health, prescription drugs, or disability insurance or self-insurance programs and includes a pharmacy benefit manager.\n\nLast updated August 13, 2025 at 11:16 AM",
+      "id": "5167.01-third-party-administrator",
+      "normalized": "third-party administrator",
+      "scope": "As used in this chapter:",
+      "section": "5167.01",
+      "source_title": "Section 5167.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5167.01",
+      "term": "Third-party administrator"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "5167.03",
+      "number": "5167.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5167.03"
+    },
+    {
+      "kind": "section",
+      "label": "3719.01",
+      "number": "3719.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3719.01"
+    },
+    {
+      "kind": "section",
+      "label": "5160.01",
+      "number": "5160.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5160.01"
+    },
+    {
+      "kind": "section",
+      "label": "5164.01",
+      "number": "5164.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.01"
+    },
+    {
+      "kind": "section",
+      "label": "5167.10",
+      "number": "5167.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5167.10"
+    },
+    {
+      "kind": "section",
+      "label": "5166.01",
+      "number": "5166.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5166.01"
+    },
+    {
+      "kind": "section",
+      "label": "5165.01",
+      "number": "5165.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01"
+    },
+    {
+      "kind": "section",
+      "label": "3959.01",
+      "number": "3959.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3959.01"
+    },
+    {
+      "kind": "section",
+      "label": "4729.01",
+      "number": "4729.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.01"
+    },
+    {
+      "kind": "section",
+      "label": "5160.34",
+      "number": "5160.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5160.34"
+    },
+    {
+      "kind": "section",
+      "label": "5167.24",
+      "number": "5167.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5167.24"
+    }
+  ],
+  "scraped": "2026-07-02T20:11:33+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5167.01",
+  "title": "Section 5167.01 - Definitions."
+}

@@ -1,0 +1,72 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Excess supplies\" means any supplies that have a remaining useful life, but that are no longer needed by the agency that possesses them.",
+      "id": "125.12-excess-supplies",
+      "normalized": "excess supplies",
+      "scope": "As used in sections 125.12 to 125.14 of the Revised Code:",
+      "section": "125.12",
+      "source_title": "Section 125.12 - Excess and surplus supply definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-125.12",
+      "term": "Excess supplies"
+    },
+    {
+      "definition": "(B) \"Supplies\" means all personal property owned by the state, including, but not limited to, equipment and materials.",
+      "id": "125.12-supplies",
+      "normalized": "supplies",
+      "scope": "As used in sections 125.12 to 125.14 of the Revised Code:",
+      "section": "125.12",
+      "source_title": "Section 125.12 - Excess and surplus supply definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-125.12",
+      "term": "Supplies"
+    },
+    {
+      "definition": "(C) \"Surplus supplies\" means any supplies no longer having any use to the state, including obsolete supplies, scrap materials, and supplies that have completed their useful life cycle. \"Surplus supplies\" does not include materials that have completed their useful life cycle and are recyclable goods and materials, providing that the goods and materials are actually recycled.",
+      "id": "125.12-surplus-supplies",
+      "normalized": "surplus supplies",
+      "scope": "As used in sections 125.12 to 125.14 of the Revised Code:",
+      "section": "125.12",
+      "source_title": "Section 125.12 - Excess and surplus supply definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-125.12",
+      "term": "Surplus supplies"
+    },
+    {
+      "definition": "(D) \"Transfer\" means to transfer either by sale or without a sale.",
+      "id": "125.12-transfer",
+      "normalized": "transfer",
+      "scope": "As used in sections 125.12 to 125.14 of the Revised Code:",
+      "section": "125.12",
+      "source_title": "Section 125.12 - Excess and surplus supply definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-125.12",
+      "term": "Transfer"
+    },
+    {
+      "definition": "(E) \"Hazardous property\" means any property subject to the jurisdiction of or regulated by the Ohio environmental protection agency.",
+      "id": "125.12-hazardous-property",
+      "normalized": "hazardous property",
+      "scope": "As used in sections 125.12 to 125.14 of the Revised Code:",
+      "section": "125.12",
+      "source_title": "Section 125.12 - Excess and surplus supply definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-125.12",
+      "term": "Hazardous property"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "125.12",
+      "number": "125.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.12"
+    },
+    {
+      "kind": "section",
+      "label": "125.14",
+      "number": "125.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.14"
+    }
+  ],
+  "scraped": "2026-07-02T19:31:42+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-125.12",
+  "title": "Section 125.12 - Excess and surplus supply definitions."
+}

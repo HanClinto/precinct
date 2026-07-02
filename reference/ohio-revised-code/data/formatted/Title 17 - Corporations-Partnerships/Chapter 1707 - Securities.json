@@ -1,0 +1,471 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 1707.01 - Securities definitions.",
+      "number": "1707.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.02 - Exempt securities.",
+      "number": "1707.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.03 - Exempt transactions.",
+      "number": "1707.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.04 - Issuance of securities in reorganizations.",
+      "number": "1707.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.041 - Control bids made pursuant to tender offer or request or invitation for tenders.",
+      "number": "1707.041",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.041"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.042 - Prohibited acts relating to control bids.",
+      "number": "1707.042",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.042"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.043 - Preventing manipulative practices.",
+      "number": "1707.043",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.043"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.05 - Definitions.",
+      "number": "1707.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.051 - Offerings-securities registration exemption.",
+      "number": "1707.051",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.051"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.052 - Offerings-disclosure to purchasers.",
+      "number": "1707.052",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.052"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.053 - Offerings-certification from purchasers.",
+      "number": "1707.053",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.053"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.054 - Portal operators-license.",
+      "number": "1707.054",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.054"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.055 - Portal operators-prohibited conduct for non-dealer operators.",
+      "number": "1707.055",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.055"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.056 - Portal operators-oversight, purchase limits, and purchaser privacy.",
+      "number": "1707.056",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.056"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.057 - Portal operators-record keeping requirements.",
+      "number": "1707.057",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.057"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.058 - Issuers-disqualification from registration exemption.",
+      "number": "1707.058",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.058"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.06 - Transactions requiring registration.",
+      "number": "1707.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.08 - Registration by description.",
+      "number": "1707.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.09 - Registration by qualification.",
+      "number": "1707.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.091 - Registration by coordination.",
+      "number": "1707.091",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.091"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.092 - Notice filings.",
+      "number": "1707.092",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.092"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.093 - Electronic filings.",
+      "number": "1707.093",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.093"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.10 - Provisional registration by qualification.",
+      "number": "1707.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.11 - Consent to service.",
+      "number": "1707.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.12 - Documents open to inspection.",
+      "number": "1707.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.13 - Suspension and revocation of registration.",
+      "number": "1707.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.131 - Refusing registration.",
+      "number": "1707.131",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.131"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.14 - Dealer's license.",
+      "number": "1707.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.141 - Investment adviser's license required - exceptions - notice filing requirement.",
+      "number": "1707.141",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.141"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.142 - Compliance with federal laws - federal documents to be filed with division.",
+      "number": "1707.142",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.142"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.15 - Applying for dealer's license.",
+      "number": "1707.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.151 - Application for and issuance of investment adviser's license.",
+      "number": "1707.151",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.151"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.16 - Application for and issuance of salesperson's license.",
+      "number": "1707.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.161 - Investment adviser representative's license required - exceptions - application for and issuance of investment adviser representative's license.",
+      "number": "1707.161",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.161"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.162 - State retirement system investment adviser license required.",
+      "number": "1707.162",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.162"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.163 - Application for and issuance of state retirement system investment adviser license.",
+      "number": "1707.163",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.163"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.164 - Bureau chief investment officer - securities license required.",
+      "number": "1707.164",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.164"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.165 - Application for bureau chief investment officer - investigation - examination.",
+      "number": "1707.165",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.165"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.17 - Renewal - license fees.",
+      "number": "1707.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.18 - Application for transfer of license.",
+      "number": "1707.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.19 - Refusal, suspension, and revocation of license.",
+      "number": "1707.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.20 - Adopting, amending, and rescinding rules, forms, and orders.",
+      "number": "1707.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.201 - Federal provisions.",
+      "number": "1707.201",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.201"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.21 - Registration statement may be filed with securities and exchange commission.",
+      "number": "1707.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.22 - Appeals - effect of order.",
+      "number": "1707.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.23 - Division of securities - enforcement powers.",
+      "number": "1707.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.24 - Contempt proceedings.",
+      "number": "1707.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.25 - Injunction against issuance, sale, acting as an investment adviser or acting as an investment adviser representative.",
+      "number": "1707.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.26 - Injunction against violations.",
+      "number": "1707.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.261 - Director's request for restitution or rescission.",
+      "number": "1707.261",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.261"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.27 - Appointment of receiver.",
+      "number": "1707.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.28 - Statute of limitations.",
+      "number": "1707.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.29 - Presumption of knowledge.",
+      "number": "1707.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.30 - Certificate of division as evidence.",
+      "number": "1707.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.31 - Certified copies as evidence.",
+      "number": "1707.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.32 - Insurance securities.",
+      "number": "1707.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.34 - Warehouse receipts for intoxicating liquor.",
+      "number": "1707.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.35 - Securities authorized before July 22, 1929.",
+      "number": "1707.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.36 - Attorney-inspector - control-bid attorneys.",
+      "number": "1707.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.37 - Division of securities fund.",
+      "number": "1707.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.38 - Effect of violation on validity of security.",
+      "number": "1707.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.39 - Qualification of securities sold without compliance.",
+      "number": "1707.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.391 - Late applications.",
+      "number": "1707.391",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.391"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.40 - Civil liabilities.",
+      "number": "1707.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.41 - Civil liability of seller for fraud.",
+      "number": "1707.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.42 - Civil liability of adviser.",
+      "number": "1707.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.43 - Remedies of purchaser in unlawful sale.",
+      "number": "1707.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.431 - Claiming exemption for publicly advertised meeting.",
+      "number": "1707.431",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.431"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.44 - Prohibited acts.",
+      "number": "1707.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.45 - Burden of proof.",
+      "number": "1707.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.46 - Duties of commissioner of securities.",
+      "number": "1707.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.47 - Ohio investor recovery fund.",
+      "number": "1707.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.471 - Restitution assistance awards from Ohio investor recovery fund.",
+      "number": "1707.471",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.471"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.48 - Division of securities to retain documents and records or copies.",
+      "number": "1707.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.49 - Reporting elder financial exploitation.",
+      "number": "1707.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.50 - Violations, penalties, and private rights of action.",
+      "number": "1707.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1707.99 - Penalty.",
+      "number": "1707.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1707.99"
+    }
+  ],
+  "scraped": "2026-07-02T19:39:09+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-1707",
+  "title": "Chapter 1707 - Securities"
+}

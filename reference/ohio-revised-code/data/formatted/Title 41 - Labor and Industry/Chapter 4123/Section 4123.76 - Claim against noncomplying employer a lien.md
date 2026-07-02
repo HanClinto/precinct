@@ -1,0 +1,10 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4123.76
+Scraped: 2026-07-02T20:04:17+00:00
+
+# Section 4123.76 - Claim against noncomplying employer a lien.
+
+**Effective:** January 30, 2014
+
+**Latest Legislation:** House Bill 72 - 130th General Assembly
+
+When an application for compensation or benefits or an application for further compensation or benefits is filed with the industrial commission or the bureau of workers' compensation under section 4123.75 of the Revised Code against an employer who has not complied with section 4123.35 of the Revised Code, the bureau shall make and file for record in the office of the county recorder in the counties where the employer's property is located, an affidavit showing the date on which the application was filed with the commission or the bureau, the name and address of the employer against whom it was filed, and the fact that the employer had not complied with section 4123.35 of the Revised Code. The county recorder shall accept and file the affidavit and record and index the affidavit in the official record. A copy of the application or other bureau record documenting the claim shall be filed with the affidavit. A copy of the affidavit shall be served upon the employer by the bureau. The affidavit constitutes a valid lien from the time of filing, in favor of the bureau, upon the real property and personal property of the employer located within the county. The administrator of workers' compensation shall have the lien canceled of record after the employer has paid to the claimant or to the bureau the amount of the compensation or benefits which has been ordered paid to the claimant, or when the application has finally been denied after the claimant has exhausted the remedies provided by law in such cases, or when the employer has filed a bond in the amount and with surety as the administrator approves conditioned on the payment of all sums ordered paid to the claimant. The recorder shall make no charge for the services provided by this section to be performed by the recorder.

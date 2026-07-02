@@ -1,0 +1,66 @@
+{
+  "glossary": [
+    {
+      "definition": "(I)(1) If any report, claim, statement, or other document required to be filed, or any payment required to be made, within a prescribed period or on or before a prescribed date under this chapter is delivered after that period or that date by United States mail to the tax administrator or other municipal official with which the report, claim, statement, or other document is required to be filed, or to which the payment is required to be made, the date of the postmark stamped on the cover in which the report, claim, statement, or other document, or payment is mailed shall be deemed to be the date of delivery or the date of payment. \"The date of postmark\" means, in the event there is more than one date on the cover, the earliest date imprinted on the cover by the postal service.\n\n(2) If a payment under this chapter is made by electronic funds transfer, the payment shall be considered to be made on the date of the timestamp assigned by the first electronic system receiving that payment.\n\n(J) The amounts withheld by an employer, the agent of an employer, or an other payer as described in section 718.03 of the Revised Code shall be allowed to the recipient of the compensation as credits against payment of the tax imposed on the recipient by the municipal corporation, unless the amounts withheld were not remitted to the municipal corporation and the recipient colluded with the employer, agent, or other payer in connection with the failure to remit the amounts withheld.\n\n(K) Each return required by a municipal corporation to be filed in accordance with this section shall include a box that the taxpayer may check to authorize another person, including a tax return preparer who prepared the return, to communicate with the tax administrator about matters pertaining to the return. The return or instructions accompanying the return shall indicate that by checking the box the taxpayer authorizes the tax administrator to contact the preparer or other person concerning questions that arise during the examination or other review of the return and authorizes the preparer or other person only to provide the tax administrator with information that is missing from the return, to contact the tax administrator for information about the examination or other review of the return or the status of the taxpayer's refund or payments, and to respond to notices about mathematical errors, offsets, or return preparation that the taxpayer has received from the tax administrator and has shown to the preparer or other person.\n\n(L) The tax administrator of a municipal corporation shall accept for filing a generic form of any income tax return, report, or document required by the municipal corporation in accordance with this chapter, provided that the generic form, once completed and filed, contains all of the information required by ordinance, resolution, or rules adopted by the municipal corporation or tax administrator, and provided that the taxpayer or tax return preparer filing the generic form otherwise complies with the provisions of this chapter and of the municipal corporation ordinance or resolution governing the filing of returns, reports, or documents.\n\n(M) When income tax returns, reports, or other documents require the signature of a tax return preparer, the tax administrator shall accept a facsimile of such a signature in lieu of a manual signature.",
+      "id": "718.05-the-date-of-postmark",
+      "normalized": "the date of postmark",
+      "scope": "",
+      "section": "718.05",
+      "source_title": "Section 718.05 - Annual return; filing.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-718.05",
+      "term": "The date of postmark"
+    },
+    {
+      "definition": "(N)(1) As used in this division, \"worksite location\" has the same meaning as in section 718.011 of the Revised Code.\n\n(2) A person may notify a tax administrator that the person does not expect to be a taxpayer with respect to the municipal corporation for a taxable year if both of the following conditions apply:\n\n(a) The person was required to file a tax return with the municipal corporation for the immediately preceding taxable year because the person performed services at a worksite location within that municipal corporation.\n\n(b) The person no longer provides services in the municipal corporation and does not expect to be subject to the municipal corporation's income tax for the taxable year.\n\nThe person shall provide the notice in a signed affidavit that briefly explains the person's circumstances, including the location of the previous worksite location and the last date on which the person performed services or made any sales within the municipal corporation. The affidavit also shall include the following statement: \"The affiant has no plans to perform any services within the municipal corporation, make any sales in the municipal corporation, or otherwise become subject to the tax levied by the municipal corporation during the taxable year. If the affiant does become subject to the tax levied by the municipal corporation for the taxable year, the affiant agrees to be considered a taxpayer and to properly register as a taxpayer with the municipal corporation if such a registration is required by the municipal corporation's resolutions, ordinances, or rules.\" The person shall sign the affidavit under penalty of perjury.\n\n(c) If a person submits an affidavit described in division (N)(2) of this section, the tax administrator shall not require the person to file any tax return for the taxable year unless the tax administrator possesses information that conflicts with the affidavit or if the circumstances described in the affidavit change. Nothing in division (N) of this section prohibits the tax administrator from performing an audit of the person.\n\nLast updated July 16, 2025 at 12:15 PM",
+      "id": "718.05-worksite-location",
+      "normalized": "worksite location",
+      "scope": "",
+      "section": "718.05",
+      "source_title": "Section 718.05 - Annual return; filing.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-718.05",
+      "term": "worksite location"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "718.04",
+      "number": "718.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.04"
+    },
+    {
+      "kind": "section",
+      "label": "5747.08",
+      "number": "5747.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.08"
+    },
+    {
+      "kind": "section",
+      "label": "718.01",
+      "number": "718.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.01"
+    },
+    {
+      "kind": "section",
+      "label": "718.052",
+      "number": "718.052",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.052"
+    },
+    {
+      "kind": "section",
+      "label": "718.03",
+      "number": "718.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.03"
+    },
+    {
+      "kind": "section",
+      "label": "718.011",
+      "number": "718.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-718.011"
+    }
+  ],
+  "scraped": "2026-07-02T19:33:25+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-718.05",
+  "title": "Section 718.05 - Annual return; filing."
+}

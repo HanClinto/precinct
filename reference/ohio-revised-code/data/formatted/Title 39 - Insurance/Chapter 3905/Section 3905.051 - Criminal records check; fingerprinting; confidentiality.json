@@ -1,0 +1,46 @@
+{
+  "glossary": [
+    {
+      "definition": "(1)(a) \"Applicant\" means a natural person applying for either of the following:\n\n(i) A resident license as an insurance agent or surety bail bond agent;\n\n(ii) An additional line of authority under an existing resident insurance agent license if a criminal records check has not been obtained within the last twelve months for insurance license purposes.",
+      "id": "3905.051-applicant",
+      "normalized": "applicant",
+      "scope": "(A) As used in this section:",
+      "section": "3905.051",
+      "source_title": "Section 3905.051 - Criminal records check; fingerprinting; confidentiality.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3905.051",
+      "term": "Applicant"
+    },
+    {
+      "definition": "(b) \"Applicant\" includes a natural person who is the president, secretary, treasurer, or other officer or person who directs or controls the insurance operations of a limited lines travel agent that is a business entity, as described in section 3905.066 of the Revised Code.",
+      "id": "3905.051-applicant",
+      "normalized": "applicant",
+      "scope": "(A) As used in this section:",
+      "section": "3905.051",
+      "source_title": "Section 3905.051 - Criminal records check; fingerprinting; confidentiality.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3905.051",
+      "term": "Applicant"
+    },
+    {
+      "definition": "(2) \"Fingerprint\" means an impression of the lines on the finger taken for the purpose of identification. The impression may be electronic or converted to an electronic format.\n\n(B) Each applicant shall consent to a criminal record check in accordance with this section and shall submit a full set of fingerprints to the superintendent of insurance for that purpose.\n\n(C) The superintendent of insurance shall request the superintendent of the bureau of criminal identification and investigation to conduct a criminal records check based on the applicant's fingerprints. The superintendent of insurance shall request that criminal record information from the federal bureau of investigation be obtained as part of the criminal records check.\n\n(D) The superintendent of insurance may contract for the collection and transmission of fingerprints authorized under this section. The superintendent may order the fee for collecting and transmitting fingerprints to be payable directly to the contractor by the applicant. The superintendent may agree to a reasonable fingerprinting fee to be charged by the contractor. Any fee required under this section shall be paid by the applicant.\n\n(E) The superintendent may receive criminal record information directly in lieu of the bureau of criminal identification and investigation that submitted the fingerprints to the federal bureau of investigation.\n\n(F) The superintendent shall treat and maintain an applicant's fingerprints and any criminal record information obtained under this section as confidential and shall apply security measures consistent with the criminal justice information services division of the federal bureau of investigation standards for the electronic storage of fingerprints and necessary identifying information and limit the use of records solely to the purposes authorized by this section. The fingerprints and any criminal record information are not subject to subpoena other than one issued pursuant to a criminal investigation, are confidential by law and privileged, are not subject to discovery, and are not admissible in any private civil action.\n\n(G) This section does not apply to an agent applying for renewal of an existing resident or nonresident license in this state.\n\nLast updated May 3, 2022 at 1:09 PM",
+      "id": "3905.051-fingerprint",
+      "normalized": "fingerprint",
+      "scope": "(A) As used in this section:",
+      "section": "3905.051",
+      "source_title": "Section 3905.051 - Criminal records check; fingerprinting; confidentiality.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3905.051",
+      "term": "Fingerprint"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3905.066",
+      "number": "3905.066",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3905.066"
+    }
+  ],
+  "scraped": "2026-07-02T20:02:17+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3905.051",
+  "title": "Section 3905.051 - Criminal records check; fingerprinting; confidentiality."
+}

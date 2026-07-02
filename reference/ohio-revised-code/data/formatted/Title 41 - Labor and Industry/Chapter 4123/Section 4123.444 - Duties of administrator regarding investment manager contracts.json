@@ -1,0 +1,68 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Bureau of workers' compensation funds\" means any fund specified in Chapter 4121., 4123., 4127., or 4131. of the Revised Code that the administrator of workers' compensation has the authority to invest, in accordance with the administrator's investment authority under section 4123.44 of the Revised Code.",
+      "id": "4123.444-bureau-of-workers-compensation-funds",
+      "normalized": "bureau of workers' compensation funds",
+      "scope": "(A) As used in this section and section 4123.445 of the Revised Code:",
+      "section": "4123.444",
+      "source_title": "Section 4123.444 - Duties of administrator regarding investment manager contracts.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4123.444",
+      "term": "Bureau of workers' compensation funds"
+    },
+    {
+      "definition": "(2) \"Investment manager\" means any person with whom the administrator of workers' compensation contracts pursuant to section 4123.44 of the Revised Code to facilitate the investment of assets of bureau of workers' compensation funds.",
+      "id": "4123.444-investment-manager",
+      "normalized": "investment manager",
+      "scope": "(A) As used in this section and section 4123.445 of the Revised Code:",
+      "section": "4123.444",
+      "source_title": "Section 4123.444 - Duties of administrator regarding investment manager contracts.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4123.444",
+      "term": "Investment manager"
+    },
+    {
+      "definition": "(3) \"Business entity\" means any person with whom an investment manager contracts for the investment of assets of bureau of workers' compensation funds.",
+      "id": "4123.444-business-entity",
+      "normalized": "business entity",
+      "scope": "(A) As used in this section and section 4123.445 of the Revised Code:",
+      "section": "4123.444",
+      "source_title": "Section 4123.444 - Duties of administrator regarding investment manager contracts.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4123.444",
+      "term": "Business entity"
+    },
+    {
+      "definition": "(4) \"Financial or investment crime\" means any criminal offense involving theft, receiving stolen property, embezzlement, forgery, fraud, passing bad checks, money laundering, drug trafficking, or any criminal offense involving money or securities, as set forth in Chapters 2909., 2911., 2913., 2915., 2921., 2923., and 2925. of the Revised Code or other law of this state, or the laws of any other state or the United States that are substantially equivalent to those offenses.\n\n(B)(1) Before entering into a contract with an investment manager to invest bureau of workers' compensation funds, the administrator shall do both of the following:\n\n(a) Request from any investment manager with whom the administrator wishes to contract for those investments a list of all employees who will be investing assets of bureau of workers' compensation funds. The list shall specify each employee's state of residence for the five years prior to the date of the administrator's request.\n\n(b) Request that the superintendent of the bureau of criminal investigation and identification conduct a criminal records check in accordance with this section and section 109.579 of the Revised Code with respect to every employee the investment manager names in that list.\n\n(2) After an investment manager enters into a contract with the administrator to invest bureau of workers' compensation funds and before an investment manager enters into a contract with a business entity to facilitate those investments, the investment manager shall request from any business entity with whom the investment manager wishes to contract to make those investments a list of all employees who will be investing assets of the bureau of workers' compensation funds. The list shall specify each employee's state of residence for the five years prior to the investment manager's request. The investment manager shall forward to the administrator the list received from the business entity. The administrator shall request the superintendent to conduct a criminal records check in accordance with this section and section 109.579 of the Revised Code with respect to every employee the business entity names in that list. Upon receipt of the results of the criminal records check, the administrator shall advise the investment manager whether the results were favorable or unfavorable.\n\n(3) If, after a contract has been entered into between the administrator and an investment manager or between an investment manager and a business entity for the investment of assets of bureau of workers' compensation funds, the investment manager or business entity wishes to have an employee who was not the subject of a criminal records check under division (B)(1) or (B)(2) of this section invest assets of the bureau of workers' compensation funds, that employee shall be the subject of a criminal records check pursuant to this section and section 109.579 of the Revised Code prior to handling the investment of assets of those funds. The investment manager shall submit to the administrator the name of that employee along with the employee's state of residence for the five years prior to the date in which the administrator requests the criminal records check. The administrator shall request that the superintendent conduct a criminal records check on that employee pursuant to this section and section 109.579 of the Revised Code.\n\n(C)(1) If an employee who is the subject of a criminal records check pursuant to division (B) of this section has not been a resident of this state for the five-year period immediately prior to the time the criminal records check is requested or does not provide evidence that within that five-year period the superintendent has requested information about the employee from the federal bureau of investigation in a criminal records check, the administrator shall request that the superintendent obtain information from the federal bureau of investigation as a part of the criminal records check for the employee. If the employee has been a resident of this state for at least that five-year period, the administrator may, but is not required to, request that the superintendent request and include in the criminal records check information about that employee from the federal bureau of investigation.\n\n(2) The administrator shall provide to an investment manager a copy of the form prescribed pursuant to division (C)(1) of section 109.579 of the Revised Code and a standard impression sheet for each employee for whom a criminal records check must be performed, to obtain fingerprint impressions as prescribed pursuant to division (C)(2) of section 109.579 of the Revised Code. The investment manager shall obtain the completed form and impression sheet either directly from each employee or from a business entity and shall forward the completed form and sheet to the administrator, who shall forward these forms and sheets to the superintendent.\n\n(3) Any employee who receives a copy of the form and the impression sheet pursuant to division (C)(2) of this section and who is requested to complete the form and provide a set of fingerprint impressions shall complete the form or provide all the information necessary to complete the form and shall complete the impression sheets in the manner prescribed in division (C)(2) of section 109.579 of the Revised Code.\n\n(D) For each criminal records check the administrator requests under this section, at the time the administrator makes a request the administrator shall pay to the superintendent the fee the superintendent prescribes pursuant to division (E) of section 109.579 of the Revised Code.",
+      "id": "4123.444-financial-or-investment-crime",
+      "normalized": "financial or investment crime",
+      "scope": "(A) As used in this section and section 4123.445 of the Revised Code:",
+      "section": "4123.444",
+      "source_title": "Section 4123.444 - Duties of administrator regarding investment manager contracts.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4123.444",
+      "term": "Financial or investment crime"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "4123.445",
+      "number": "4123.445",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.445"
+    },
+    {
+      "kind": "section",
+      "label": "4123.44",
+      "number": "4123.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.44"
+    },
+    {
+      "kind": "section",
+      "label": "109.579",
+      "number": "109.579",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.579"
+    }
+  ],
+  "scraped": "2026-07-02T20:04:17+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4123.444",
+  "title": "Section 4123.444 - Duties of administrator regarding investment manager contracts."
+}

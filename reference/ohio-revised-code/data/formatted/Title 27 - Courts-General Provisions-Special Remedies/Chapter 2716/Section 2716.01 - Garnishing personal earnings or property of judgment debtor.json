@@ -1,0 +1,66 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Employer\" means a person who is required to withhold taxes out of payments of personal earnings made to a judgment debtor.",
+      "id": "2716.01-employer",
+      "normalized": "employer",
+      "scope": "(C) As used in this chapter:",
+      "section": "2716.01",
+      "source_title": "Section 2716.01 - Garnishing personal earnings or property of judgment debtor.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2716.01",
+      "term": "Employer"
+    },
+    {
+      "definition": "(2) \"Personal earnings\" means money, or any other consideration or thing of value, that is paid or due to a person in exchange for work, labor, or personal services provided by the person to an employer.",
+      "id": "2716.01-personal-earnings",
+      "normalized": "personal earnings",
+      "scope": "(C) As used in this chapter:",
+      "section": "2716.01",
+      "source_title": "Section 2716.01 - Garnishing personal earnings or property of judgment debtor.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2716.01",
+      "term": "Personal earnings"
+    },
+    {
+      "definition": "(3) \"Judgment creditor\" means a person who has obtained a judgment in a civil action against another person.",
+      "id": "2716.01-judgment-creditor",
+      "normalized": "judgment creditor",
+      "scope": "(C) As used in this chapter:",
+      "section": "2716.01",
+      "source_title": "Section 2716.01 - Garnishing personal earnings or property of judgment debtor.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2716.01",
+      "term": "Judgment creditor"
+    },
+    {
+      "definition": "(4) \"Judgment debtor\" means a person against whom a judgment has been obtained in a civil action.",
+      "id": "2716.01-judgment-debtor",
+      "normalized": "judgment debtor",
+      "scope": "(C) As used in this chapter:",
+      "section": "2716.01",
+      "source_title": "Section 2716.01 - Garnishing personal earnings or property of judgment debtor.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2716.01",
+      "term": "Judgment debtor"
+    },
+    {
+      "definition": "(5) \"Support order\" has the same meaning as in section 3119.01 of the Revised Code.",
+      "id": "2716.01-support-order",
+      "normalized": "support order",
+      "scope": "(C) As used in this chapter:",
+      "section": "2716.01",
+      "source_title": "Section 2716.01 - Garnishing personal earnings or property of judgment debtor.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2716.01",
+      "term": "Support order"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3119.01",
+      "number": "3119.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.01"
+    }
+  ],
+  "scraped": "2026-07-02T19:45:07+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2716.01",
+  "title": "Section 2716.01 - Garnishing personal earnings or property of judgment debtor."
+}

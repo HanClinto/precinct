@@ -1,0 +1,73 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-4725
+Scraped: 2026-07-02T20:06:52+00:00
+
+# Chapter 4725 - Optometrists; Dispensing Opticians
+
+## Sections
+
+- Section 4725.01 - Optometry definitions.
+- Section 4725.011 - Vision-correcting device delivering drugs.
+- Section 4725.02 - License required.
+- Section 4725.031 - State vision professionals board.
+- Section 4725.032 - References to board and director.
+- Section 4725.04 - Organization of board.
+- Section 4725.05 - Executive director - employees.
+- Section 4725.06 - Compensation and expenses of board.
+- Section 4725.07 - Records - seal.
+- Section 4725.08 - State vision professionals board; immunity.
+- Section 4725.09 - Administrative rules.
+- Section 4725.091 - Rules regarding analgesic controlled substances.
+- Section 4725.092 - Adoption of rules regarding information on drug database.
+- Section 4725.10 - Approving schools of optometry.
+- Section 4725.11 - Examination.
+- Section 4725.12 - Written application for certificate of licensure.
+- Section 4725.121 - License applicant to comply with RC Chapter 4776.
+- Section 4725.13 - Issuing and display of certificate.
+- Section 4725.131 - Continued practice of topical ocular pharmaceutical agents certificate holders.
+- Section 4725.15 - Failing examination or part four times.
+- Section 4725.16 - Expiration of certificate - renewal.
+- Section 4725.18 - Endorsement.
+- Section 4725.19 - Disciplinary actions.
+- Section 4725.20 - Effect of child support default on license or certificate.
+- Section 4725.21 - Duty to report unprofessional conduct or addiction - complaints.
+- Section 4725.22 - Professional liability insurer to report final disposition of claim for damages.
+- Section 4725.23 - Investigations - confidentiality of information.
+- Section 4725.231 - Cease and desist order for unlicensed practice of optometry.
+- Section 4725.24 - Suspension without prior hearing.
+- Section 4725.25 - Unauthorized practice.
+- Section 4725.26 - Exceptions.
+- Section 4725.27 - Evidence - interference with choice of service.
+- Section 4725.28 - Copy of prescription to be given to patient.
+- Section 4725.29 - Advertising.
+- Section 4725.30 - Ocular abnormalities.
+- Section 4725.31 - Clinically significant drug-induced side effects.
+- Section 4725.32 - Requiring impact-resistant lenses.
+- Section 4725.33 - Offering services through authorized business entity.
+- Section 4725.34 - Fees.
+- Section 4725.35 - Telehealth services.
+- Section 4725.40 - Dispensing optician definitions.
+- Section 4725.41 - License required.
+- Section 4725.411 - Dispensing prepackaged soft contact lenses.
+- Section 4725.44 - Powers and duties of board.
+- Section 4725.48 - Application and qualifications.
+- Section 4725.49 - Examinations.
+- Section 4725.50 - Issuance and display of certificate.
+- Section 4725.501 - License applicant to comply with RC Chapter 4776.
+- Section 4725.51 - Renewal - continuing education.
+- Section 4725.52 - Apprentices.
+- Section 4725.53 - Disciplinary actions.
+- Section 4725.531 - Effect of child support default on license.
+- Section 4725.54 - Disciplinary actions.
+- Section 4725.541 - Cease and desist order for unlicensed practice of optical dispensing.
+- Section 4725.55 - Licenses and applications - prohibited acts.
+- Section 4725.56 - Prohibiting payment for referrals.
+- Section 4725.57 - Reciprocity.
+- Section 4725.59 - Exemptions.
+- Section 4725.591 - Optical dispensing by volunteers licensed in other state.
+- Section 4725.61 - Compliance with law regarding sanctions for human trafficking.
+- Section 4725.63 - Appointment of committees.
+- Section 4725.64 - Authority of board to enter into contracts.
+- Section 4725.65 - Membership in national licensing organization.
+- Section 4725.66 - Code of ethics.
+- Section 4725.67 - Discrimination prohibited.
+- Section 4725.99 - Penalty.

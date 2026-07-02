@@ -1,0 +1,68 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Hotel\" has the same meaning as in section 3731.01 of the Revised Code.",
+      "id": "5323.01-hotel",
+      "normalized": "hotel",
+      "scope": "As used in this chapter:",
+      "section": "5323.01",
+      "source_title": "Section 5323.01 - Residential rental property definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5323.01",
+      "term": "Hotel"
+    },
+    {
+      "definition": "(B) \"Manufactured home\" has the same meaning as in section 3781.06 of the Revised Code.\n\n(C) \"Mobile home\" and \"recreational vehicle\" have the same meanings as in section 4501.01 of the Revised Code.",
+      "id": "5323.01-manufactured-home",
+      "normalized": "manufactured home",
+      "scope": "As used in this chapter:",
+      "section": "5323.01",
+      "source_title": "Section 5323.01 - Residential rental property definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5323.01",
+      "term": "Manufactured home"
+    },
+    {
+      "definition": "(D) \"Political subdivision\" means a county that has a population of more than two hundred thousand according to the most recent decennial census or a township, municipal corporation, or other body corporate and politic that is located in a county that has a population of more than two hundred thousand according to the most recent decennial census and is responsible for government activities in a geographic area smaller than that of the state.",
+      "id": "5323.01-political-subdivision",
+      "normalized": "political subdivision",
+      "scope": "As used in this chapter:",
+      "section": "5323.01",
+      "source_title": "Section 5323.01 - Residential rental property definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5323.01",
+      "term": "Political subdivision"
+    },
+    {
+      "definition": "(E) \"Residential rental property\" means real property that is located in a county that has a population of more than two hundred thousand according to the most recent decennial census and on which is located one or more dwelling units leased or otherwise rented to tenants solely for residential purposes, or a mobile home park or other permanent or semipermanent site at which lots are leased or otherwise rented to tenants for the parking of a manufactured home, mobile home, or recreational vehicle that is used solely for residential purposes. \"Residential rental property\" does not include a hotel or a college or university dormitory.",
+      "id": "5323.01-residential-rental-property",
+      "normalized": "residential rental property",
+      "scope": "As used in this chapter:",
+      "section": "5323.01",
+      "source_title": "Section 5323.01 - Residential rental property definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5323.01",
+      "term": "Residential rental property"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3731.01",
+      "number": "3731.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3731.01"
+    },
+    {
+      "kind": "section",
+      "label": "3781.06",
+      "number": "3781.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.06"
+    },
+    {
+      "kind": "section",
+      "label": "4501.01",
+      "number": "4501.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4501.01"
+    }
+  ],
+  "scraped": "2026-07-02T20:12:15+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5323.01",
+  "title": "Section 5323.01 - Residential rental property definitions."
+}

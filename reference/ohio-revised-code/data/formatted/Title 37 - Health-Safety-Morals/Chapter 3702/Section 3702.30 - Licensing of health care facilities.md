@@ -1,0 +1,72 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3702.30
+Scraped: 2026-07-02T19:50:55+00:00
+
+# Section 3702.30 - Licensing of health care facilities.
+
+**Effective:** September 30, 2024
+
+**Latest Legislation:** House Bill 110 - 134th General Assembly
+
+(A) As used in this section:
+
+(1) "Ambulatory surgical facility" means a facility in which surgical services are provided to patients who do not require hospitalization for inpatient care, the duration of services for any patient does not extend beyond twenty-four hours after the patient's admission, and to which any of the following apply:
+
+(a) The surgical services are provided in a building that is separate from another building in which inpatient care is provided, regardless of whether the separate building is part of the same organization as the building in which inpatient care is provided.
+
+(b) The surgical services are provided within a building in which inpatient care is provided and the entity that operates the portion of the building where the surgical services are provided is not the entity that operates the remainder of the building.
+
+(c) The facility is held out to any person or government entity as an ambulatory surgical facility or similar facility by means of signage, advertising, or other promotional efforts.
+
+"Ambulatory surgical facility" does not include a hospital emergency department, hospital provider-based department that is otherwise licensed under Chapter 3722. of the Revised Code, or an office of a physician, podiatrist, or dentist.
+
+(2) "Health care facility" means any of the following:
+
+(a) An ambulatory surgical facility;
+
+(b) A freestanding dialysis center;
+
+(c) A freestanding inpatient rehabilitation facility;
+
+(d) A freestanding birthing center;
+
+(e) A freestanding radiation therapy center;
+
+(f) A freestanding or mobile diagnostic imaging center.
+
+(B) By rule adopted in accordance with sections 3702.12 and 3702.13 of the Revised Code, the director of health shall establish quality standards for health care facilities. The standards may incorporate accreditation standards or other quality standards established by any entity recognized by the director.
+
+In the case of an ambulatory surgical facility, the standards shall require the ambulatory surgical facility to maintain an infection control program. The purposes of the program are to minimize infections and communicable diseases and facilitate a functional and sanitary environment consistent with standards of professional practice. To achieve these purposes, ambulatory surgical facility staff managing the program shall create and administer a plan designed to prevent, identify, and manage infections and communicable diseases; ensure that the program is directed by a qualified professional trained in infection control; ensure that the program is an integral part of the ambulatory surgical facility's quality assessment and performance improvement program; and implement in an expeditious manner corrective and preventive measures that result in improvement.
+
+(C) Every ambulatory surgical facility shall require that each physician who practices at the facility comply with all relevant provisions in the Revised Code that relate to the obtaining of informed consent from a patient.
+
+(D) The director shall issue a license to each health care facility that makes application for a license and demonstrates to the director that it meets the quality standards established by the rules adopted under division (B) of this section and satisfies the informed consent compliance requirements specified in division (C) of this section.
+
+(E)(1) Except as provided in division (H) of this section and in section 3702.301 of the Revised Code, no health care facility shall operate without a license issued under this section.
+
+The general assembly does not intend for the provisions of this section or section 3702.301 of the Revised Code that establish health care facility licensing requirements or exemptions to have an effect on any third-party payments that may be available for the services provided by either a licensed health care facility or an entity exempt from licensure.
+
+(2) If the department of health finds that a physician who practices at a health care facility is not complying with any provision of the Revised Code related to the obtaining of informed consent from a patient, the department shall report its finding to the state medical board, the physician, and the health care facility.
+
+(3) Division (E)(2) of this section does not create, and shall not be construed as creating, a new cause of action or substantive legal right against a health care facility and in favor of a patient who allegedly sustains harm as a result of the failure of the patient's physician to obtain informed consent from the patient prior to performing a procedure on or otherwise caring for the patient in the health care facility.
+
+(F) The rules adopted under division (B) of this section shall include all of the following:
+
+(1) Provisions governing application for, renewal, suspension, and revocation of a license under this section;
+
+(2) Provisions governing orders issued pursuant to section 3702.32 of the Revised Code for a health care facility to cease its operations or to prohibit certain types of services provided by a health care facility;
+
+(3) Provisions governing the imposition under section 3702.32 of the Revised Code of civil penalties for violations of this section or the rules adopted under this section, including a scale for determining the amount of the penalties;
+
+(4) Provisions specifying the form inspectors must use when conducting inspections of ambulatory surgical facilities.
+
+(G) An ambulatory surgical facility that performs or induces abortions shall comply with section 3701.791 of the Revised Code.
+
+(H) The following entities are not required to obtain a license as a freestanding diagnostic imaging center issued under this section:
+
+(1) A hospital registered under section 3701.07 of the Revised Code that provides diagnostic imaging;
+
+(2) An entity that is reviewed as part of a hospital accreditation or certification program and that provides diagnostic imaging;
+
+(3) An ambulatory surgical facility that provides diagnostic imaging in conjunction with or during any portion of a surgical procedure.
+
+Last updated February 4, 2026 at 12:49 PM

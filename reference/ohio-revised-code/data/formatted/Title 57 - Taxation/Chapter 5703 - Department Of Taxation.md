@@ -1,0 +1,99 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-5703
+Scraped: 2026-07-02T20:14:19+00:00
+
+# Chapter 5703 - Department Of Taxation
+
+## Sections
+
+- Section 5703.01 - Department of taxation composition.
+- Section 5703.02 - Board of tax appeals - powers and duties.
+- Section 5703.021 - Small claims docket within board of tax appeals.
+- Section 5703.03 - Appointment of members of board of tax appeals - terms of office.
+- Section 5703.031 - Enforcement of board of tax appeals orders.
+- Section 5703.04 - Tax commissioner - powers, duties and immunity.
+- Section 5703.05 - Powers, duties and functions of tax commissioner - deputy commissioners - employees - certificate of abatement.
+- Section 5703.051 - Procedure for certificate of abatement.
+- Section 5703.052 - Tax refund fund.
+- Section 5703.053 - What constitutes timely filing.
+- Section 5703.054 - Form of filing required documents.
+- Section 5703.055 - Rounding fractional parts of dollar.
+- Section 5703.056 - Mailing terms; delivery services; date or receipt.
+- Section 5703.057 - Commissioner may require identifying information.
+- Section 5703.058 - Deposit of tax payments within 30 days of receipt.
+- Section 5703.059 - Electronic or telephonic tax filing.
+- Section 5703.0510 - Claiming tax credits; required documentation.
+- Section 5703.06 - Claims - compromise or installment payment agreement - innocent spouse relief.
+- Section 5703.061 - Cancellation of debts under $50.
+- Section 5703.07 - Bond of tax commissioner - duty to devote entire time to office.
+- Section 5703.08 - Employee's bonds.
+- Section 5703.081 - Discipline of department employee failing to comply with tax laws.
+- Section 5703.09 - Compensation of board members.
+- Section 5703.10 - Place of office - branch offices.
+- Section 5703.11 - Business hours.
+- Section 5703.12 - Annual report.
+- Section 5703.13 - Quorum - orders.
+- Section 5703.14 - Review of rules.
+- Section 5703.15 - Designation of actions.
+- Section 5703.16 - Rules and regulations.
+- Section 5703.17 - Appointment and powers of agent, tax auditor agent, or tax auditor agent manager.
+- Section 5703.18 - Procedural powers of commissioner and agents.
+- Section 5703.19 - Right of tax commissioner to inspect books of taxpayer - penalty.
+- Section 5703.20 - Power to require production of books by order or subpoena.
+- Section 5703.21 - Prohibition against divulging information - information acquired as result of audit.
+- Section 5703.211 - Rules for tracking database searches.
+- Section 5703.22 - Decisions of department.
+- Section 5703.23 - Attorney general or prosecuting attorney shall aid in investigations or hearings.
+- Section 5703.24 - Action for damages by taxpayer.
+- Section 5703.25 - Returns, claims, and reports need not be sworn to - perjury statement.
+- Section 5703.26 - Prohibition against making a false or fraudulent report, return, schedule, statement, claim, or document.
+- Section 5703.261 - Payment with nonnegotiable or dishonored instrument - penalty.
+- Section 5703.262 - Commissioner may designate documents that must be signed by preparers - penalties.
+- Section 5703.263 - Prohibited conduct by tax preparer; power of commissioner.
+- Section 5703.27 - Duty to answer questions.
+- Section 5703.28 - Contempt proceedings for disobedience.
+- Section 5703.29 - Fees of officers and witnesses.
+- Section 5703.30 - Payment of expenses and witness fees.
+- Section 5703.31 - Appearance of officers - payment of expenses.
+- Section 5703.32 - Depositions.
+- Section 5703.33 - Copy of testimony to be received in evidence.
+- Section 5703.34 - Compulsory testimony - privilege against prosecution.
+- Section 5703.35 - Furnishing of blanks - extension of time for filing reports.
+- Section 5703.36 - Commissioner to obtain information.
+- Section 5703.37 - Service of notice or order.
+- Section 5703.371 - Foreign corporations - designation of secretary of state as agent.
+- Section 5703.38 - Denial of injunction.
+- Section 5703.39 - Writ of mandamus - injunction.
+- Section 5703.40 - Interchange of information with other states, United States or Canada.
+- Section 5703.41 - Interchange of information between tax commissioner and other officers.
+- Section 5703.42 - Annual report.
+- Section 5703.43 - Duty of agents to report and testify.
+- Section 5703.44 - Forfeiture for ordering agent to violate law.
+- Section 5703.45 - Agent's acts imputed to principal.
+- Section 5703.46 - Each day's failure to comply a separate offense.
+- Section 5703.47 - Definition of federal short term rate.
+- Section 5703.48 - Report describing effect of tax expenditures, property tax exemptions on general revenue fund.
+- Section 5703.49 - Internet site for tax information.
+- Section 5703.50 - Taxpayer rights definitions.
+- Section 5703.51 - Written information and instructions for taxpayers.
+- Section 5703.52 - Problem resolution officers - continuing education - evaluating employees.
+- Section 5703.53 - Opinions on prospective tax liability.
+- Section 5703.54 - Action for damages by taxpayer.
+- Section 5703.55 - Display of social security number.
+- Section 5703.56 - Sham transactions.
+- Section 5703.58 - Time limit for assessments - extension by lawful stay.
+- Section 5703.60 - Petition for reassessment.
+- Section 5703.65 - Central sales and use tax registration system not to be used for other taxes.
+- Section 5703.70 - Refund application procedures.
+- Section 5703.75 - Taxes and refunds under one dollar.
+- Section 5703.76 - Electronic fund transfers for political subdivisions.
+- Section 5703.77 - Credit account balances.
+- Section 5703.80 - Property tax administration fund.
+- Section 5703.82 - Tax discovery data system.
+- Section 5703.83 - Property tax relief screening system.
+- Section 5703.85 - Quarterly report by tax commissioner.
+- Section 5703.90 - Assessments for the unpaid taxes.
+- Section 5703.91 - Failure of corporation to report or pay taxes or fees.
+- Section 5703.92 - Exercising powers after articles of incorporation or certificate of authority canceled; penalty.
+- Section 5703.93 - Reinstatement after cancellation.
+- Section 5703.94 - Qualifications for out-of-state disaster business or employee.
+- Section 5703.99 - Penalty.

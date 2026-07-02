@@ -1,0 +1,256 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Adult\" means an individual at least eighteen years of age.",
+      "id": "5166.30-adult",
+      "normalized": "adult",
+      "scope": "(A) As used in sections 5166.30 to 5166.3010 of the Revised Code:",
+      "section": "5166.30",
+      "source_title": "Section 5166.30 - Coverage of home care attendant services.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5166.30",
+      "term": "Adult"
+    },
+    {
+      "definition": "(2) \"Appropriate director\" means the following:\n\n(a) The medicaid director in the context of both of the following:\n\n(i) The Ohio home care waiver program;\n\n(ii) The integrated care delivery system medicaid waiver component authorized by section 5166.16 of the Revised Code.\n\n(b) The director of aging in the context of the medicaid-funded component of the PASSPORT program.",
+      "id": "5166.30-appropriate-director",
+      "normalized": "appropriate director",
+      "scope": "(A) As used in sections 5166.30 to 5166.3010 of the Revised Code:",
+      "section": "5166.30",
+      "source_title": "Section 5166.30 - Coverage of home care attendant services.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5166.30",
+      "term": "Appropriate director"
+    },
+    {
+      "definition": "(3) \"Authorized representative\" means the following:\n\n(a) In the case of a consumer who is a minor, the consumer's parent, custodian, or guardian;\n\n(b) In the case of a consumer who is an adult, an individual selected by the consumer pursuant to section 5166.3010 of the Revised Code to act on the consumer's behalf for purposes regarding home care attendant services.",
+      "id": "5166.30-authorized-representative",
+      "normalized": "authorized representative",
+      "scope": "(A) As used in sections 5166.30 to 5166.3010 of the Revised Code:",
+      "section": "5166.30",
+      "source_title": "Section 5166.30 - Coverage of home care attendant services.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5166.30",
+      "term": "Authorized representative"
+    },
+    {
+      "definition": "(4) \"Authorizing health care professional\" means a health care professional who, pursuant to section 5166.307 of the Revised Code, authorizes a home care attendant to assist a consumer with self-administration of medication, nursing tasks, or both.",
+      "id": "5166.30-authorizing-health-care-professional",
+      "normalized": "authorizing health care professional",
+      "scope": "(A) As used in sections 5166.30 to 5166.3010 of the Revised Code:",
+      "section": "5166.30",
+      "source_title": "Section 5166.30 - Coverage of home care attendant services.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5166.30",
+      "term": "Authorizing health care professional"
+    },
+    {
+      "definition": "(5) \"Consumer\" means an individual to whom all of the following apply:\n\n(a) The individual is enrolled in a participating medicaid waiver component.\n\n(b) The individual has a medically determinable physical impairment to which both of the following apply:\n\n(i) It is expected to last for a continuous period of not less than twelve months.\n\n(ii) It causes the individual to require assistance with activities of daily living, self-care, and mobility, including either assistance with self-administration of medication or the performance of nursing tasks, or both.\n\n(c) In the case of an individual who is an adult, the individual is mentally alert and is, or has an authorized representative who is, capable of selecting, directing the actions of, and dismissing a home care attendant.\n\n(d) In the case of an individual who is a minor, the individual has an authorized representative who is capable of selecting, directing the actions of, and dismissing a home care attendant.",
+      "id": "5166.30-consumer",
+      "normalized": "consumer",
+      "scope": "(A) As used in sections 5166.30 to 5166.3010 of the Revised Code:",
+      "section": "5166.30",
+      "source_title": "Section 5166.30 - Coverage of home care attendant services.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5166.30",
+      "term": "Consumer"
+    },
+    {
+      "definition": "(6) \"Controlled substance\" has the same meaning as in section 3719.01 of the Revised Code.",
+      "id": "5166.30-controlled-substance",
+      "normalized": "controlled substance",
+      "scope": "(A) As used in sections 5166.30 to 5166.3010 of the Revised Code:",
+      "section": "5166.30",
+      "source_title": "Section 5166.30 - Coverage of home care attendant services.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5166.30",
+      "term": "Controlled substance"
+    },
+    {
+      "definition": "(7) \"Custodian\" has the same meaning as in section 2151.011 of the Revised Code.",
+      "id": "5166.30-custodian",
+      "normalized": "custodian",
+      "scope": "(A) As used in sections 5166.30 to 5166.3010 of the Revised Code:",
+      "section": "5166.30",
+      "source_title": "Section 5166.30 - Coverage of home care attendant services.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5166.30",
+      "term": "Custodian"
+    },
+    {
+      "definition": "(8) \"Gastrostomy tube\" means a percutaneously inserted catheter that terminates in the stomach.",
+      "id": "5166.30-gastrostomy-tube",
+      "normalized": "gastrostomy tube",
+      "scope": "(A) As used in sections 5166.30 to 5166.3010 of the Revised Code:",
+      "section": "5166.30",
+      "source_title": "Section 5166.30 - Coverage of home care attendant services.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5166.30",
+      "term": "Gastrostomy tube"
+    },
+    {
+      "definition": "(9) \"Guardian\" has the same meaning as in section 2111.01 of the Revised Code.",
+      "id": "5166.30-guardian",
+      "normalized": "guardian",
+      "scope": "(A) As used in sections 5166.30 to 5166.3010 of the Revised Code:",
+      "section": "5166.30",
+      "source_title": "Section 5166.30 - Coverage of home care attendant services.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5166.30",
+      "term": "Guardian"
+    },
+    {
+      "definition": "(10) \"Health care professional\" means a physician or registered nurse.",
+      "id": "5166.30-health-care-professional",
+      "normalized": "health care professional",
+      "scope": "(A) As used in sections 5166.30 to 5166.3010 of the Revised Code:",
+      "section": "5166.30",
+      "source_title": "Section 5166.30 - Coverage of home care attendant services.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5166.30",
+      "term": "Health care professional"
+    },
+    {
+      "definition": "(11) \"Home care attendant\" means an individual holding a valid provider agreement in accordance with section 5166.301 of the Revised Code that authorizes the individual to provide home care attendant services to consumers.",
+      "id": "5166.30-home-care-attendant",
+      "normalized": "home care attendant",
+      "scope": "(A) As used in sections 5166.30 to 5166.3010 of the Revised Code:",
+      "section": "5166.30",
+      "source_title": "Section 5166.30 - Coverage of home care attendant services.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5166.30",
+      "term": "Home care attendant"
+    },
+    {
+      "definition": "(12) \"Home care attendant services\" means all of the following as provided by a home care attendant:\n\n(a) Personal care aide services;\n\n(b) Assistance with the self-administration of medication;\n\n(c) Assistance with nursing tasks.",
+      "id": "5166.30-home-care-attendant-services",
+      "normalized": "home care attendant services",
+      "scope": "(A) As used in sections 5166.30 to 5166.3010 of the Revised Code:",
+      "section": "5166.30",
+      "source_title": "Section 5166.30 - Coverage of home care attendant services.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5166.30",
+      "term": "Home care attendant services"
+    },
+    {
+      "definition": "(13) \"Jejunostomy tube\" means a percutaneously inserted catheter that terminates in the jejunum.",
+      "id": "5166.30-jejunostomy-tube",
+      "normalized": "jejunostomy tube",
+      "scope": "(A) As used in sections 5166.30 to 5166.3010 of the Revised Code:",
+      "section": "5166.30",
+      "source_title": "Section 5166.30 - Coverage of home care attendant services.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5166.30",
+      "term": "Jejunostomy tube"
+    },
+    {
+      "definition": "(14) \"Medication\" means a drug as defined in section 4729.01 of the Revised Code.",
+      "id": "5166.30-medication",
+      "normalized": "medication",
+      "scope": "(A) As used in sections 5166.30 to 5166.3010 of the Revised Code:",
+      "section": "5166.30",
+      "source_title": "Section 5166.30 - Coverage of home care attendant services.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5166.30",
+      "term": "Medication"
+    },
+    {
+      "definition": "(15) \"Minor\" means an individual under eighteen years of age.",
+      "id": "5166.30-minor",
+      "normalized": "minor",
+      "scope": "(A) As used in sections 5166.30 to 5166.3010 of the Revised Code:",
+      "section": "5166.30",
+      "source_title": "Section 5166.30 - Coverage of home care attendant services.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5166.30",
+      "term": "Minor"
+    },
+    {
+      "definition": "(16) \"Participating medicaid waiver component\" means all of the following:\n\n(a) The medicaid-funded component of the PASSPORT program;\n\n(b) The Ohio home care waiver program;\n\n(c) The integrated care delivery system medicaid waiver component authorized by section 5166.16 of the Revised Code.",
+      "id": "5166.30-participating-medicaid-waiver-component",
+      "normalized": "participating medicaid waiver component",
+      "scope": "(A) As used in sections 5166.30 to 5166.3010 of the Revised Code:",
+      "section": "5166.30",
+      "source_title": "Section 5166.30 - Coverage of home care attendant services.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5166.30",
+      "term": "Participating medicaid waiver component"
+    },
+    {
+      "definition": "(17) \"Physician\" means an individual authorized under Chapter 4731. of the Revised Code to practice medicine and surgery or osteopathic medicine and surgery.",
+      "id": "5166.30-physician",
+      "normalized": "physician",
+      "scope": "(A) As used in sections 5166.30 to 5166.3010 of the Revised Code:",
+      "section": "5166.30",
+      "source_title": "Section 5166.30 - Coverage of home care attendant services.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5166.30",
+      "term": "Physician"
+    },
+    {
+      "definition": "(18) \"Practice of nursing as a registered nurse,\" \"practice of nursing as a licensed practical nurse,\" and \"registered nurse\" have the same meanings as in section 4723.01 of the Revised Code. \"Registered nurse\" includes an advanced practice registered nurse, as defined in section 4723.01 of the Revised Code.\n\n(19) \"Schedule II,\" \"schedule III,\" \"schedule IV,\" and \"schedule V\" have the same meanings as in section 3719.01 of the Revised Code.\n\n(B) Participating medicaid waiver components may cover home care attendant services in accordance with sections 5166.30 to 5166.3010 of the Revised Code and rules adopted under section 5166.02 of the Revised Code.\n\nLast updated October 6, 2023 at 10:39 AM",
+      "id": "5166.30-registered-nurse",
+      "normalized": "registered nurse",
+      "scope": "(A) As used in sections 5166.30 to 5166.3010 of the Revised Code:",
+      "section": "5166.30",
+      "source_title": "Section 5166.30 - Coverage of home care attendant services.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5166.30",
+      "term": "Registered nurse"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "5166.30",
+      "number": "5166.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5166.30"
+    },
+    {
+      "kind": "section",
+      "label": "5166.3010",
+      "number": "5166.3010",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5166.3010"
+    },
+    {
+      "kind": "section",
+      "label": "5166.16",
+      "number": "5166.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5166.16"
+    },
+    {
+      "kind": "section",
+      "label": "5166.307",
+      "number": "5166.307",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5166.307"
+    },
+    {
+      "kind": "section",
+      "label": "3719.01",
+      "number": "3719.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3719.01"
+    },
+    {
+      "kind": "section",
+      "label": "2151.011",
+      "number": "2151.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.011"
+    },
+    {
+      "kind": "section",
+      "label": "2111.01",
+      "number": "2111.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.01"
+    },
+    {
+      "kind": "section",
+      "label": "5166.301",
+      "number": "5166.301",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5166.301"
+    },
+    {
+      "kind": "section",
+      "label": "4729.01",
+      "number": "4729.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.01"
+    },
+    {
+      "kind": "section",
+      "label": "4723.01",
+      "number": "4723.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4723.01"
+    },
+    {
+      "kind": "section",
+      "label": "5166.02",
+      "number": "5166.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5166.02"
+    }
+  ],
+  "scraped": "2026-07-02T20:11:30+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5166.30",
+  "title": "Section 5166.30 - Coverage of home care attendant services."
+}

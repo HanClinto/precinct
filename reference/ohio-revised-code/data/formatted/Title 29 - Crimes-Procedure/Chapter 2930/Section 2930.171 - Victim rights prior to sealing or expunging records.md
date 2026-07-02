@@ -1,0 +1,18 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-2930.171
+Scraped: 2026-07-02T19:46:32+00:00
+
+# Section 2930.171 - Victim rights prior to sealing or expunging records.
+
+**Effective:** October 3, 2023
+
+**Latest Legislation:** Senate Bill 16 (GA 135), House Bill 33 (GA 135)
+
+(A) In determining whether to grant an application to seal or expunge a juvenile record pursuant to section 2151.356 or 2151.358 of the Revised Code, the court shall notify the prosecutor regarding the hearing of the matter not less than thirty days before the hearing. In determining whether to grant an application to seal or expunge a record of conviction or bail forfeiture pursuant to section 2953.32 or 2953.39 of the Revised Code, the court shall notify the prosecutor not less than sixty days before the hearing, unless a shorter notice period is agreed to by the prosecutor and the court. The prosecutor shall provide timely notice to a victim of the criminal offense or delinquent act for which the offender or juvenile was incarcerated or committed and the victim's representative, if applicable, if the victim or victim's representative has requested notice and maintains current contact information with the prosecutor. The court shall permit a victim, the victim's representative, and the victim's attorney, if applicable, to make a statement, in addition to any other statement made under this chapter, concerning the effects of the criminal offense or delinquent act on the victim, the circumstances surrounding the criminal offense or delinquent act, the manner in which the criminal offense or delinquent act was perpetrated, and the victim's, victim's representative's, or victim's attorney's, if applicable, opinion whether the record should be sealed or expunged. The victim, victim's representative, or victim's attorney, if applicable, may be heard in writing, orally, or both at the victim's, victim's representative's, or victim's attorney's, if applicable, discretion. The court shall give the offender or juvenile an opportunity to review a copy of any written impact statement made by the victim, victim's representative, and victim's attorney, if applicable, under this division. The court shall give to either the adult parole authority or the department of youth services, whichever is applicable, a copy of any written impact statement made by the victim, victim's representative, and victim's attorney, if applicable, under this division.
+
+(B) In deciding whether to seal or expunge a record under any section listed in division (A) of this section, the court shall consider a statement made by the victim, victim's representative, and victim's attorney, if applicable, under division (A) of this section or section 2930.14 or 2947.051 of the Revised Code.
+
+(C) Upon making a determination whether to grant an application to seal or expunge a record of conviction or bail forfeiture pursuant to section 2953.32 or 2953.39 of the Revised Code or an application to seal or expunge a juvenile record pursuant to section 2151.356 or 2151.358 of the Revised Code, the court promptly shall notify the prosecutor of the determination. The prosecutor shall promptly notify the victim and the victim's representative, if applicable, after receiving the notice from the court.
+
+The Legislative Service Commission presents the text of this section as a composite of the section as amended by multiple acts of the General Assembly. This presentation recognizes the principle stated in R.C. 1.52(B) that amendments are to be harmonized if reasonably capable of simultaneous operation.
+
+Last updated September 11, 2023 at 4:38 PM

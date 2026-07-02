@@ -1,0 +1,717 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 1701.01 - General corporation law definitions.",
+      "number": "1701.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.02 - Computation of time for notice.",
+      "number": "1701.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.03 - Purposes of corporation.",
+      "number": "1701.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.04 - Articles of incorporation.",
+      "number": "1701.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.041 - Exemptions for disaster workers.",
+      "number": "1701.041",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.041"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.05 - Corporate name - transfer - reservation.",
+      "number": "1701.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.06 - Express terms of shares.",
+      "number": "1701.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.07 - Statutory agent - cancellation and reinstatement of articles.",
+      "number": "1701.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.08 - Acceptance of articles of incorporation and other certificates - filing not constructive notice of contents.",
+      "number": "1701.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.09 - Subscriptions for shares.",
+      "number": "1701.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.10 - Initial directors holding organizational meeting.",
+      "number": "1701.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.11 - Adopting, amending, and repealing regulations.",
+      "number": "1701.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.12 - Liability for non-payment of initial stated capital.",
+      "number": "1701.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.13 - Authority of corporation.",
+      "number": "1701.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.14 - Issuance of shares and release of obligation of subscriber.",
+      "number": "1701.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.15 - Pre-emptive rights.",
+      "number": "1701.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.16 - Options to purchase shares.",
+      "number": "1701.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.17 - Sale of shares to corporation or subsidiary employees - delegation of authority.",
+      "number": "1701.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.18 - Payment for shares and liability of shareholders to corporation.",
+      "number": "1701.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.19 - Determination of fair value of property or services.",
+      "number": "1701.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.20 - Enforcing payment for shares.",
+      "number": "1701.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.21 - Conversion of shares.",
+      "number": "1701.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.22 - Conversion rights.",
+      "number": "1701.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.23 - Redemption of shares.",
+      "number": "1701.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.24 - Certificates for shares - fractional shares - uncertificated shares.",
+      "number": "1701.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.25 - Statements on certificate for shares.",
+      "number": "1701.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.26 - Transfer agents and registrars.",
+      "number": "1701.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.27 - Replacement of lost, stolen or destroyed certificate.",
+      "number": "1701.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.28 - Recognizing record ownership of shares or other securities.",
+      "number": "1701.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.29 - Organizing and financing expenses.",
+      "number": "1701.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.30 - Stated capital.",
+      "number": "1701.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.31 - Reduction of stated capital.",
+      "number": "1701.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.32 - Surplus.",
+      "number": "1701.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.33 - Dividends and distributions.",
+      "number": "1701.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.34 - Recovery of unclaimed dividend or distribution.",
+      "number": "1701.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.35 - Purchase of own shares.",
+      "number": "1701.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.36 - Shares deemed retired.",
+      "number": "1701.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.37 - Corporation to keep books and records of account, minutes of proceedings and records of shareholders.",
+      "number": "1701.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.38 - Annual report.",
+      "number": "1701.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.39 - Annual meeting.",
+      "number": "1701.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.40 - Calling meeting of shareholders.",
+      "number": "1701.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.41 - Notice of meeting.",
+      "number": "1701.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.42 - Waiver of notice.",
+      "number": "1701.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.43 - Notice requirements may be dispensed with.",
+      "number": "1701.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.44 - Qualifications of voters.",
+      "number": "1701.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.45 - Director to fix record date.",
+      "number": "1701.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.46 - Voting by fiduciaries and minors.",
+      "number": "1701.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.47 - Voting by corporations.",
+      "number": "1701.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.48 - Voting by proxy.",
+      "number": "1701.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.49 - Voting trusts.",
+      "number": "1701.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.50 - Inspectors of elections.",
+      "number": "1701.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.51 - Quorum at shareholders' meetings.",
+      "number": "1701.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.52 - Vote of shareholders required - proportion.",
+      "number": "1701.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.53 - Vote of shareholders required for rescission or revocation.",
+      "number": "1701.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.54 - Action by shareholders or directors without a meeting.",
+      "number": "1701.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.55 - Election of directors - cumulative voting.",
+      "number": "1701.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.56 - Number and qualifications of directors - provisional director.",
+      "number": "1701.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.57 - Term and classification of directors.",
+      "number": "1701.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.58 - Removal of directors and filling vacancies.",
+      "number": "1701.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.59 - Authority of directors - bylaws.",
+      "number": "1701.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.591 - Close corporation agreement.",
+      "number": "1701.591",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.591"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.60 - Contract, action or transaction not void or voidable.",
+      "number": "1701.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.61 - Meetings of directors.",
+      "number": "1701.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.62 - Quorum for directors' meeting.",
+      "number": "1701.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.63 - Executive and other committees of directors - subcommittees.",
+      "number": "1701.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.64 - Officers - authority and removal.",
+      "number": "1701.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.641 - Fiduciary duties of officers.",
+      "number": "1701.641",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.641"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.65 - Corporate mortgages.",
+      "number": "1701.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.66 - Recording of railroad or public utility mortgages.",
+      "number": "1701.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.67 - Using facsimile signatures.",
+      "number": "1701.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.67"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.68 - Usury.",
+      "number": "1701.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.68"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.69 - Amendments to articles.",
+      "number": "1701.69",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.69"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.70 - Procedure for amending articles by directors - incorporators.",
+      "number": "1701.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.71 - Shareholders may adopt amendments.",
+      "number": "1701.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.72 - Amended articles.",
+      "number": "1701.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.73 - Filing and signing of certificate of amendment or amended articles.",
+      "number": "1701.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.74 - Dissenting shareholders.",
+      "number": "1701.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.74"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.75 - Reorganization of corporation.",
+      "number": "1701.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.76 - Sale or other disposition of assets of corporation - limitations.",
+      "number": "1701.76",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.76"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.77 - Judicial sale of property.",
+      "number": "1701.77",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.77"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.78 - Merger or consolidation into domestic corporation.",
+      "number": "1701.78",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.78"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.781 - Merger or consolidation into domestic corporation - noncorporate entities.",
+      "number": "1701.781",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.781"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.782 - Conversion of another entity into domestic corporation.",
+      "number": "1701.782",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.782"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.79 - Merger or consolidation into foreign corporation.",
+      "number": "1701.79",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.79"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.791 - Merging or consolidating constituent entities that are not corporations.",
+      "number": "1701.791",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.791"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.792 - Conversion of domestic corporation into another entity.",
+      "number": "1701.792",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.792"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.80 - Merger into domestic or foreign parent corporation.",
+      "number": "1701.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.80"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.801 - Merging into domestic subsidiary corporation.",
+      "number": "1701.801",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.801"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.802 - Merger converting wholly owned subsidiary into parent corporation.",
+      "number": "1701.802",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.802"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.81 - Certificate of merger or consolidation.",
+      "number": "1701.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.811 - Filing of certificate of conversion - effective date.",
+      "number": "1701.811",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.811"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.82 - Conditions following merger or consolidation.",
+      "number": "1701.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.82"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.821 - Legal effect of conversion - action to set aside.",
+      "number": "1701.821",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.821"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.83 - Effecting a combination or majority share acquisition.",
+      "number": "1701.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.83"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.831 - Control share acquisitions procedures.",
+      "number": "1701.831",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.831"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.832 - State's responsibility as to tender offers.",
+      "number": "1701.832",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.832"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.84 - Dissenting shareholders entitled to relief.",
+      "number": "1701.84",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.84"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.85 - Dissenting shareholders - compliance with section - fair cash value of shares.",
+      "number": "1701.85",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.85"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.86 - Voluntary dissolution.",
+      "number": "1701.86",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.86"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.87 - Notice of dissolution to creditors and claimants against corporation.",
+      "number": "1701.87",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.87"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.88 - Winding up or obtaining reinstatement - powers and duties of directors.",
+      "number": "1701.88",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.88"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.881 - Notice of rejection of claim; offer of security.",
+      "number": "1701.881",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.881"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.882 - Satisfaction of obligations; payments.",
+      "number": "1701.882",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.882"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.883 - Liability of shareholder of dissolved corporation.",
+      "number": "1701.883",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.883"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.89 - Jurisdiction of court over winding up of affairs of voluntarily dissolved corporation.",
+      "number": "1701.89",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.89"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.90 - Receiver for winding up affairs of corporation.",
+      "number": "1701.90",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.90"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.91 - Judicial dissolution.",
+      "number": "1701.91",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.91"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.911 - Provisional director - appointment, duties, qualifications.",
+      "number": "1701.911",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.911"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.92 - Certified copies as evidence of incorporation, articles and proceedings.",
+      "number": "1701.92",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.92"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.921 - Persons performing services to corporation or shareholders.",
+      "number": "1701.921",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.921"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.922 - Restoring rights, privileges and franchises upon reinstatement.",
+      "number": "1701.922",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.922"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.93 - False statement or entry.",
+      "number": "1701.93",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.93"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.94 - Forfeiture by corporation for failure to comply with certain requirements.",
+      "number": "1701.94",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.94"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.95 - Liability for unlawful loans, dividends, distribution of assets.",
+      "number": "1701.95",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.95"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.96 - Benefit corporations.",
+      "number": "1701.96",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.96"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.97 - Exercise of expired powers.",
+      "number": "1701.97",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.97"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.98 - Applicability of chapter.",
+      "number": "1701.98",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.98"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1701.99 - Penalty.",
+      "number": "1701.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.99"
+    }
+  ],
+  "scraped": "2026-07-02T19:39:02+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-1701",
+  "title": "Chapter 1701 - General Corporation Law"
+}

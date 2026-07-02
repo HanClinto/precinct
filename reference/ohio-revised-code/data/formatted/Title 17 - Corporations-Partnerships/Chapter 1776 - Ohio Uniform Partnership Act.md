@@ -1,0 +1,80 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-1776
+Scraped: 2026-07-02T19:39:31+00:00
+
+# Chapter 1776 - Ohio Uniform Partnership Act
+
+## Sections
+
+- Section 1776.01 - Definitions.
+- Section 1776.02 - Knowledge or notice.
+- Section 1776.03 - Effect of partnership agreement - nonwaivable provisions.
+- Section 1776.04 - Supplemental principles of law - usury.
+- Section 1776.05 - Execution, filing, and recording of statements.
+- Section 1776.06 - Governing law.
+- Section 1776.07 - Agent for service of process.
+- Section 1776.08 - Service of process by delivery.
+- Section 1776.10 - Service of process by delivery.
+- Section 1776.11 - Failure to execute statement or agreement.
+- Section 1776.12 - Correction of inaccurate or defective statement.
+- Section 1776.21 - Partnership as entity distinct from partners.
+- Section 1776.22 - Formation of partnership.
+- Section 1776.23 - Partnership property.
+- Section 1776.24 - Partner contributions - penalties for failure to contribute.
+- Section 1776.31 - Partner agent of partnership.
+- Section 1776.32 - Transfer of partnership property.
+- Section 1776.33 - Statement of partnership authority.
+- Section 1776.34 - Statement of denial.
+- Section 1776.35 - Partnership liable for partner's actionable conduct.
+- Section 1776.36 - Partner's liability.
+- Section 1776.37 - Actions by and against partnership and partners.
+- Section 1776.38 - Liability of purported partner.
+- Section 1776.41 - Partner's rights and duties.
+- Section 1776.42 - Distributions in kind.
+- Section 1776.43 - Partner's rights and duties respecting information.
+- Section 1776.44 - General standards of partner's conduct.
+- Section 1776.45 - Actions by partnership and partners.
+- Section 1776.46 - Continuation of partnership beyond definite term or particular undertaking.
+- Section 1776.47 - Partner not co-owner of partnership property.
+- Section 1776.48 - Partner's transferable interest in property.
+- Section 1776.49 - Transfer of partner's transferable interest.
+- Section 1776.50 - Partner's transferable interest subject to charging order.
+- Section 1776.51 - Events causing partner's dissociation.
+- Section 1776.52 - Partner's power to dissociate - wrongful dissociation.
+- Section 1776.53 - Effect of partner's dissociation.
+- Section 1776.54 - Purchase of dissociated partner's interest.
+- Section 1776.55 - Dissociated partner's power to bind and liability to partnership.
+- Section 1776.56 - Dissociated partner's liability to other persons.
+- Section 1776.57 - Statement of dissociation.
+- Section 1776.58 - Continued use of partnership name.
+- Section 1776.61 - Events causing dissolution and winding up of partnership business.
+- Section 1776.62 - Partnership continues after dissolution.
+- Section 1776.63 - Right to wind up partnership business.
+- Section 1776.64 - Partner's power to bind partnership after dissolution.
+- Section 1776.65 - Statement of dissolution.
+- Section 1776.66 - Partner's liability to other partners after dissolution.
+- Section 1776.67 - Settlement of accounts and contributions among partners.
+- Section 1776.68 - Merger or consolidation of partnerships into domestic partnership.
+- Section 1776.69 - Merger or consolidation of partnerships into another entity.
+- Section 1776.70 - Certificate of merger or consolidation.
+- Section 1776.71 - Effect of merger or consolidation.
+- Section 1776.72 - Conversion of another entity into domestic partnership.
+- Section 1776.73 - Conversion of domestic partnership into another entity.
+- Section 1776.74 - Certificate of conversion - effective date.
+- Section 1776.75 - Effect of conversion - action to set aside.
+- Section 1776.76 - Relief for dissenting partner.
+- Section 1776.77 - Dissenting partner's demand for fair cash value of interests.
+- Section 1776.78 - Dissenting partner's complaint.
+- Section 1776.79 - Judgment creditors.
+- Section 1776.81 - Conversion to limited liability partnership.
+- Section 1776.82 - Name of limited liability partnership.
+- Section 1776.83 - Filing of biennial report.
+- Section 1776.84 - Distribution to partner where partnership insolvent.
+- Section 1776.85 - Foreign limited liability partnership - governing law.
+- Section 1776.86 - Statement of foreign qualification.
+- Section 1776.87 - Action by foreign limited liability partnership.
+- Section 1776.88 - What constitutes transacting business.
+- Section 1776.89 - Action to restrain foreign limited liability partnership.
+- Section 1776.91 - Construction of chapter.
+- Section 1776.92 - Short title.
+- Section 1776.95 - Application of chapter to partnerships.
+- Section 1776.96 - Application of chapter to proceedings.

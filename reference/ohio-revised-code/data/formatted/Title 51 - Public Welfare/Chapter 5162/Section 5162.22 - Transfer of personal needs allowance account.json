@@ -1,0 +1,74 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Commissioner\" means a person appointed by a probate court under division (E) of section 2113.03 of the Revised Code to act as a commissioner.",
+      "id": "5162.22-commissioner",
+      "normalized": "commissioner",
+      "scope": "(A) As used in this section:",
+      "section": "5162.22",
+      "source_title": "Section 5162.22 - Transfer of personal needs allowance account.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5162.22",
+      "term": "Commissioner"
+    },
+    {
+      "definition": "(2) \"Home\" has the same meaning as in section 3721.10 of the Revised Code.",
+      "id": "5162.22-home",
+      "normalized": "home",
+      "scope": "(A) As used in this section:",
+      "section": "5162.22",
+      "source_title": "Section 5162.22 - Transfer of personal needs allowance account.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5162.22",
+      "term": "Home"
+    },
+    {
+      "definition": "(3) \"Personal needs allowance account\" means an account or petty cash fund that holds the money of a resident of a residential facility or home and that the facility or home manages for the resident.",
+      "id": "5162.22-personal-needs-allowance-account",
+      "normalized": "personal needs allowance account",
+      "scope": "(A) As used in this section:",
+      "section": "5162.22",
+      "source_title": "Section 5162.22 - Transfer of personal needs allowance account.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5162.22",
+      "term": "Personal needs allowance account"
+    },
+    {
+      "definition": "(4) \"Residential facility\" means a residential facility licensed under section 5119.34 of the Revised Code that provides accommodations, supervision, and personal care services for three to sixteen unrelated adults.\n\n(B) Except as provided in divisions (C) and (D) of this section, the owner or operator of a home or residential facility shall transfer to the department of medicaid the money in the personal needs allowance account of a resident of the home or facility who was a medicaid recipient no earlier than sixty days but not later than ninety days after the resident dies. The home or facility shall transfer the money even though the owner or operator of the facility or home has not been issued letters testamentary or letters of administration concerning the resident's estate.\n\n(C) If funeral or burial expenses for a resident of a home or residential facility who has died have not been paid and the only resource the resident had that could be used to pay for the expenses is the money in the resident's personal needs allowance account, or all other resources of the resident are inadequate to pay the full cost of the expenses, the money in the resident's personal needs allowance account shall be used to pay for the expenses rather than being transferred to the department of medicaid pursuant to division (B) of this section.\n\n(D) If, not later than sixty days after a resident of a home or residential facility dies, letters testamentary or letters of administration are issued, or an application for release from administration is filed under section 2113.03 of the Revised Code, concerning the resident's estate, the owner or operator of the home or facility shall transfer the money in the resident's personal needs allowance account to the administrator, executor, commissioner, or person who filed the application for release from administration.\n\n(E) The transfer or use of money in a resident's personal needs allowance account in accordance with division (B), (C), or (D) of this section discharges and releases the home or residential facility, and the owner or operator of the home, from any claim for the money from any source.\n\n(F) If, sixty-one or more days after a resident of a home or residential facility dies, letters testamentary or letters of administration are issued, or an application for release from administration under section 2113.03 of the Revised Code is filed, concerning the resident's estate, the department of medicaid shall transfer the funds to the administrator, executor, commissioner, or person who filed the application, unless the department is entitled to recover the money under the medicaid estate recovery program instituted under section 5162.21 of the Revised Code.",
+      "id": "5162.22-residential-facility",
+      "normalized": "residential facility",
+      "scope": "(A) As used in this section:",
+      "section": "5162.22",
+      "source_title": "Section 5162.22 - Transfer of personal needs allowance account.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5162.22",
+      "term": "Residential facility"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2113.03",
+      "number": "2113.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.03"
+    },
+    {
+      "kind": "section",
+      "label": "3721.10",
+      "number": "3721.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.10"
+    },
+    {
+      "kind": "section",
+      "label": "5119.34",
+      "number": "5119.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.34"
+    },
+    {
+      "kind": "section",
+      "label": "5162.21",
+      "number": "5162.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.21"
+    }
+  ],
+  "scraped": "2026-07-02T20:11:21+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5162.22",
+  "title": "Section 5162.22 - Transfer of personal needs allowance account."
+}

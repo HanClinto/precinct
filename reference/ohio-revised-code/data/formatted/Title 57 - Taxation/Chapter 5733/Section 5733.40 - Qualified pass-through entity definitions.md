@@ -1,0 +1,100 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5733.40
+Scraped: 2026-07-02T20:15:03+00:00
+
+# Section 5733.40 - Qualified pass-through entity definitions.
+
+**Effective:** March 24, 2021
+
+**Latest Legislation:** Senate Bill 201 - 133rd General Assembly
+
+As used in sections 5733.40 and 5733.41 and Chapter 5747. of the Revised Code:
+
+(A)(1) "Adjusted qualifying amount" means either of the following:
+
+(a) The sum of each qualifying investor's distributive share of the income, gain, expense, or loss of a qualifying pass-through entity for the qualifying taxable year of the qualifying pass-through entity multiplied by the apportionment fraction defined in division (B) of this section, subject to section 5733.401 of the Revised Code and divisions (A)(2) to (7) of this section;
+
+(b) The sum of each qualifying beneficiary's share of the qualifying net income and qualifying net gain distributed by a qualifying trust for the qualifying taxable year of the qualifying trust multiplied by the apportionment fraction defined in division (B) of this section, subject to section 5733.401 of the Revised Code and divisions (A)(2) to (7) of this section.
+
+(2) The sum shall exclude any amount which, pursuant to the Constitution of the United States, the Constitution of Ohio, or any federal law is not subject to a tax on or measured by net income.
+
+(3) For the purposes of Chapters 5733. and 5747. of the Revised Code, the profit or net income of the qualifying entity shall be increased by disallowing all amounts representing expenses, other than amounts described in division (A)(7) of this section, that the qualifying entity paid to or incurred with respect to direct or indirect transactions with one or more related members, excluding the cost of goods sold calculated in accordance with section 263A of the Internal Revenue Code and United States department of the treasury regulations issued thereunder. Nothing in division (A)(3) of this section shall be construed to limit solely to this chapter the application of section 263A of the Internal Revenue Code and United States department of the treasury regulations issued thereunder.
+
+(4) For the purposes of Chapters 5733. and 5747. of the Revised Code, the profit or net income of the qualifying entity shall be increased by disallowing all recognized losses, other than losses from sales of inventory the cost of which is calculated in accordance with section 263A of the Internal Revenue Code and United States department of the treasury regulations issued thereunder, with respect to all direct or indirect transactions with one or more related members. For the purposes of Chapters 5733. and 5747. of the Revised Code, losses from the sales of such inventory shall be allowed only to the extent calculated in accordance with section 482 of the Internal Revenue Code and United States department of the treasury regulations issued thereunder. Nothing in division (A)(4) of this section shall be construed to limit solely to this section the application of section 263A and section 482 of the Internal Revenue Code and United States department of the treasury regulations issued thereunder.
+
+(5) The sum shall be increased or decreased by an amount equal to the qualifying investor's or qualifying beneficiary's distributive or proportionate share of the amount that the qualifying entity would be required to add or deduct under divisions (A)(17) and (18) of section 5747.01 of the Revised Code if the qualifying entity were a taxpayer for the purposes of Chapter 5747. of the Revised Code.
+
+(6) The sum shall be computed without regard to section 5733.051 or division (D) of section 5733.052 of the Revised Code.
+
+(7) For the purposes of Chapters 5733. and 5747. of the Revised Code, guaranteed payments or compensation paid to investors by a qualifying entity that is not subject to the tax imposed by section 5733.06 of the Revised Code shall be considered a distributive share of income of the qualifying entity. Division (A)(7) of this section applies only to such payments or such compensation paid to an investor who at any time during the qualifying entity's taxable year holds at least a twenty per cent direct or indirect interest in the profits or capital of the qualifying entity. For the purposes of this division, guaranteed payments and compensation shall be considered to be paid to an investor by a qualifying entity if the qualifying entity in which the investor holds at least a twenty per cent direct or indirect interest is a client employer of a professional employer organization or alternate employer organization, as those terms are defined in section 4125.01 or 4133.01 of the Revised Code, as applicable, and the guaranteed payments or compensation are paid to the investor by that professional employer organization or alternate employer organization.
+
+(B) "Apportionment fraction" means:
+
+(1) With respect to a qualifying pass-through entity other than a financial institution, the fraction calculated pursuant to division (B)(2) of section 5733.05 of the Revised Code as if the qualifying pass-through entity were a corporation subject to the tax imposed by section 5733.06 of the Revised Code;
+
+(2) With respect to a qualifying pass-through entity that is a financial institution, the fraction calculated pursuant to division (C) of section 5733.056 of the Revised Code as if the qualifying pass-through entity were a financial institution subject to the tax imposed by section 5733.06 of the Revised Code;
+
+(3) With respect to a qualifying trust, the fraction calculated pursuant to division (B)(2) of section 5733.05 of the Revised Code as if the qualifying trust were a corporation subject to the tax imposed by section 5733.06 of the Revised Code, except that the property, payroll, and sales fractions shall be calculated by including in the numerator and denominator of the fractions only the property, payroll, and sales, respectively, directly related to the production of income or gain from acquisition, ownership, use, maintenance, management, or disposition of tangible personal property located in this state at any time during the qualifying trust's qualifying taxable year or of real property located in this state.
+
+(C) "Qualifying beneficiary" means any individual that, during the qualifying taxable year of a qualifying trust, is a beneficiary of that trust, but does not include an individual who is a resident taxpayer for the purposes of Chapter 5747. of the Revised Code for the entire qualifying taxable year of the qualifying trust.
+
+(D) "Fiscal year" means an accounting period ending on any day other than the thirty-first day of December.
+
+(E) "Individual" means a natural person.
+
+(F) "Month" means a calendar month.
+
+(G) "Distributive share" includes the sum of the income, gain, expense, or loss of a disregarded entity or qualified subchapter S subsidiary.
+
+(H) "Investor" means any person that, during any portion of a taxable year of a qualifying pass-through entity, is a partner, member, shareholder, or investor in that qualifying pass-through entity.
+
+(I) Except as otherwise provided in section 5733.402 or 5747.401 of the Revised Code, "qualifying investor" means any investor except those described in divisions (I)(1) to (9) of this section.
+
+(1) An investor satisfying one of the descriptions under section 501(a) or (c) of the Internal Revenue Code, a partnership with equity securities registered with the United States securities and exchange commission under section 12 of the "Securities Exchange Act of 1934," as amended, or an investor described in division (F) of section 3334.01 , or division (A) or (C) of section 5733.09 of the Revised Code for the entire qualifying taxable year of the qualifying pass-through entity.
+
+(2) An investor who is either an individual or an estate and is a resident taxpayer for the purposes of section 5747.01 of the Revised Code for the entire qualifying taxable year of the qualifying pass-through entity.
+
+(3) An investor who is an individual for whom the qualifying pass-through entity makes a good faith and reasonable effort to comply fully and timely with the filing and payment requirements set forth in division (D) of section 5747.08 of the Revised Code and section 5747.09 of the Revised Code with respect to the individual's adjusted qualifying amount for the entire qualifying taxable year of the qualifying pass-through entity.
+
+(4) An investor that is another qualifying pass-through entity having only investors described in division (I)(1), (2), (3), or (6) of this section during the three-year period beginning twelve months prior to the first day of the qualifying taxable year of the qualifying pass-through entity.
+
+(5) An investor that is another pass-through entity having no investors other than individuals and estates during the qualifying taxable year of the qualifying pass-through entity in which it is an investor, and that makes a good faith and reasonable effort to comply fully and timely with the filing and payment requirements set forth in division (D) of section 5747.08 of the Revised Code and section 5747.09 of the Revised Code with respect to investors that are not resident taxpayers of this state for the purposes of Chapter 5747. of the Revised Code for the entire qualifying taxable year of the qualifying pass-through entity in which it is an investor.
+
+(6) An investor that is treated as a C corporation for federal income tax purposes for the entire qualifying taxable year of the qualifying pass-through entity in which it is an investor.
+
+(7) An investor other than an individual that satisfies all the following:
+
+(a) The investor submits a written statement to the qualifying pass-through entity stating that the investor irrevocably agrees that the investor has nexus with this state under the Constitution of the United States and is subject to and liable for the tax calculated under division (A) or (B) of section 5733.06 of the Revised Code with respect to the investor's adjusted qualifying amount for the entire qualifying taxable year of the qualifying pass-through entity. The statement is subject to the penalties of perjury, shall be retained by the qualifying pass-through entity for no fewer than seven years, and shall be delivered to the tax commissioner upon request.
+
+(b) The investor makes a good faith and reasonable effort to comply timely and fully with all the reporting and payment requirements set forth in Chapter 5733. of the Revised Code with respect to the investor's adjusted qualifying amount for the entire qualifying taxable year of the qualifying pass-through entity.
+
+(c) Neither the investor nor the qualifying pass-through entity in which it is an investor, before, during, or after the qualifying pass-through entity's qualifying taxable year, carries out any transaction or transactions with one or more related members of the investor or the qualifying pass-through entity resulting in a reduction or deferral of tax imposed by Chapter 5733. of the Revised Code with respect to all or any portion of the investor's adjusted qualifying amount for the qualifying pass-through entity's taxable year, or that constitute a sham, lack economic reality, or are part of a series of transactions the form of which constitutes a step transaction or transactions or does not reflect the substance of those transactions.
+
+(8) Any other investor that the tax commissioner may designate by rule. The tax commissioner may adopt rules including a rule defining "qualifying investor" or "qualifying beneficiary" and governing the imposition of the withholding tax imposed by section 5747.41 of the Revised Code with respect to an individual who is a resident taxpayer for the purposes of Chapter 5747. of the Revised Code for only a portion of the qualifying taxable year of the qualifying entity.
+
+(9) An investor that is a trust or fund the beneficiaries of which, during the qualifying taxable year of the qualifying pass-through entity, are limited to the following:
+
+(a) A person that is or may be the beneficiary of a trust subject to Subchapter D of Chapter 1 of Subtitle A of the Internal Revenue Code.
+
+(b) A person that is or may be the beneficiary of or the recipient of payments from a trust or fund that is a nuclear decommissioning reserve fund, a designated settlement fund, or any other trust or fund established to resolve and satisfy claims that may otherwise be asserted by the beneficiary or a member of the beneficiary's family. Sections 267(c)(4), 468A(e), and 468B(d)(2) of the Internal Revenue Code apply to the determination of whether such a person satisfies division (I)(9) of this section.
+
+(c) A person who is or may be the beneficiary of a trust that, under its governing instrument, is not required to distribute all of its income currently. Division (I)(9)(c) of this section applies only if the trust, prior to the due date for filing the qualifying pass-through entity's return for taxes imposed by section 5733.41 and sections 5747.41 to 5747.453 of the Revised Code, irrevocably agrees in writing that for the taxable year during or for which the trust distributes any of its income to any of its beneficiaries, the trust is a qualifying trust and will pay the estimated tax, and will withhold and pay the withheld tax, as required under sections 5747.40 to 5747.453 of the Revised Code.
+
+For the purposes of division (I)(9) of this section, a trust or fund shall be considered to have a beneficiary other than persons described under divisions (I)(9)(a) to (c) of this section if a beneficiary would not qualify under those divisions under the doctrines of "economic reality," "sham transaction," "step doctrine," or "substance over form." A trust or fund described in division (I)(9) of this section bears the burden of establishing by a preponderance of the evidence that any transaction giving rise to the tax benefits provided under division (I)(9) of this section does not have as a principal purpose a claim of those tax benefits. Nothing in this section shall be construed to limit solely to this section the application of the doctrines referred to in this paragraph.
+
+(J) "Qualifying net gain" means any recognized net gain with respect to the acquisition, ownership, use, maintenance, management, or disposition of tangible personal property located in this state at any time during a trust's qualifying taxable year or real property located in this state.
+
+(K) "Qualifying net income" means any recognized income, net of related deductible expenses, other than distributions deductions with respect to the acquisition, ownership, use, maintenance, management, or disposition of tangible personal property located in this state at any time during the trust's qualifying taxable year or real property located in this state.
+
+(L) "Qualifying entity" means a qualifying pass-through entity or a qualifying trust.
+
+(M) "Qualifying trust" means a trust subject to subchapter J of the Internal Revenue Code that, during any portion of the trust's qualifying taxable year, has income or gain from the acquisition, management, ownership, use, or disposition of tangible personal property located in this state at any time during the trust's qualifying taxable year or real property located in this state. "Qualifying trust" does not include a person described in section 501(c) of the Internal Revenue Code or a person described in division (C) of section 5733.09 of the Revised Code.
+
+(N) "Qualifying pass-through entity" means a pass-through entity as defined in section 5733.04 of the Revised Code, excluding: a person described in section 501(c) of the Internal Revenue Code; a partnership with equity securities registered with the United States securities and exchange commission under section 12 of the Securities Exchange Act of 1934, as amended; or a person described in division (C) of section 5733.09 of the Revised Code.
+
+(O) "Quarter" means the first three months, the second three months, the third three months, or the last three months of a qualifying entity's qualifying taxable year.
+
+(P) "Related member" has the same meaning as in division (A)(6) of section 5733.042 of the Revised Code without regard to division (B) of that section. However, for the purposes of divisions (A)(3) and (4) of this section only, "related member" has the same meaning as in division (A)(6) of section 5733.042 of the Revised Code without regard to division (B) of that section, but shall be applied by substituting "forty per cent" for "twenty per cent" wherever "twenty per cent" appears in division (A) of that section.
+
+(Q) "Return" or "report" means the notifications and reports required to be filed pursuant to sections 5747.42 to 5747.45 of the Revised Code for the purpose of reporting the tax imposed under section 5733.41 or 5747.41 of the Revised Code, and included declarations of estimated tax when so required.
+
+(R) "Qualifying taxable year" means the calendar year or the qualifying entity's fiscal year ending during the calendar year, or fractional part thereof, for which the adjusted qualifying amount is calculated pursuant to sections 5733.40 and 5733.41 or sections 5747.40 to 5747.453 of the Revised Code.

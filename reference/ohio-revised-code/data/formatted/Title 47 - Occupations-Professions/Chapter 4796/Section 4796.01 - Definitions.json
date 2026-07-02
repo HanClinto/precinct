@@ -1,0 +1,156 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"License\" means an authorization evidenced by a license, certificate, registration, permit, card, or other authority that is issued or conferred by a licensing authority to an individual by which the individual has or claims the privilege to engage in a profession, occupation, or occupational activity over which the licensing authority has jurisdiction.",
+      "id": "4796.01-license",
+      "normalized": "license",
+      "scope": "As used in this chapter:",
+      "section": "4796.01",
+      "source_title": "Section 4796.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4796.01",
+      "term": "License"
+    },
+    {
+      "definition": "(B) \"Licensing authority\" means a state agency or political subdivision that issues licenses or government certifications.",
+      "id": "4796.01-licensing-authority",
+      "normalized": "licensing authority",
+      "scope": "As used in this chapter:",
+      "section": "4796.01",
+      "source_title": "Section 4796.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4796.01",
+      "term": "Licensing authority"
+    },
+    {
+      "definition": "(C) \"State agency\" has the same meaning as in section 1.60 of the Revised Code.",
+      "id": "4796.01-state-agency",
+      "normalized": "state agency",
+      "scope": "As used in this chapter:",
+      "section": "4796.01",
+      "source_title": "Section 4796.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4796.01",
+      "term": "State agency"
+    },
+    {
+      "definition": "(D) \"Political subdivision\" means a county, township, municipal corporation, or any other body corporate and politic that is responsible for government activities in a geographic area smaller than that of the state.",
+      "id": "4796.01-political-subdivision",
+      "normalized": "political subdivision",
+      "scope": "As used in this chapter:",
+      "section": "4796.01",
+      "source_title": "Section 4796.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4796.01",
+      "term": "Political subdivision"
+    },
+    {
+      "definition": "(E) \"Out-of-state occupational license\" means a license, certificate, registration, permit, card, or other authority that is issued or conferred by one of the uniformed services or the government of another state to an individual by which the individual has or claims the privilege to engage in a profession, occupation, or occupational activity over which that service or state has jurisdiction.",
+      "id": "4796.01-out-of-state-occupational-license",
+      "normalized": "out-of-state occupational license",
+      "scope": "As used in this chapter:",
+      "section": "4796.01",
+      "source_title": "Section 4796.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4796.01",
+      "term": "Out-of-state occupational license"
+    },
+    {
+      "definition": "(F)(1) \"Government certification\" means authorization from a licensing authority, one of the uniformed services, or the government of another state to an individual who meets qualifications related to a profession, occupation, or occupational activity to which both of the following apply:\n\n(a) Only an individual holding the authorization may use a specific title or titles when advertising or holding the individual's self out to engage in the profession, occupation, or occupational activity.\n\n(b) An individual is not required to have the authorization to engage in the profession, occupation, or occupational activity in the respective jurisdiction.",
+      "id": "4796.01-government-certification",
+      "normalized": "government certification",
+      "scope": "As used in this chapter:",
+      "section": "4796.01",
+      "source_title": "Section 4796.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4796.01",
+      "term": "Government certification"
+    },
+    {
+      "definition": "(2) \"Government certification\" does not include a license or an out-of-state occupational license.",
+      "id": "4796.01-government-certification",
+      "normalized": "government certification",
+      "scope": "As used in this chapter:",
+      "section": "4796.01",
+      "source_title": "Section 4796.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4796.01",
+      "term": "Government certification"
+    },
+    {
+      "definition": "(G) \"Private certification\" means authorization from a private organization to an individual who meets qualifications determined by the organization related to the performance of a profession, occupation, or occupational activity and by which the individual may hold the individual's self out as certified by the organization.",
+      "id": "4796.01-private-certification",
+      "normalized": "private certification",
+      "scope": "As used in this chapter:",
+      "section": "4796.01",
+      "source_title": "Section 4796.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4796.01",
+      "term": "Private certification"
+    },
+    {
+      "definition": "(H) \"National standard\" means a standard declared by a national organization to be the preferred standard for licensure of a profession if both of the following apply:\n\n(1) The standard is required by at least forty-five states, including this state, to receive a license or government certification for the respective profession, occupation, or occupational activity.\n\n(2) The standard includes both of the following:\n\n(a) A uniform quantitative minimum education or experience requirement;\n\n(b) A requirement to pass a national examination.",
+      "id": "4796.01-national-standard",
+      "normalized": "national standard",
+      "scope": "As used in this chapter:",
+      "section": "4796.01",
+      "source_title": "Section 4796.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4796.01",
+      "term": "National standard"
+    },
+    {
+      "definition": "(I) \"Uniform quantitative minimum education or experience requirement\" means a quantitative minimum education or experience requirement that is identical in all states that adopt a national standard.",
+      "id": "4796.01-uniform-quantitative-minimum-education-or-experience-requirement",
+      "normalized": "uniform quantitative minimum education or experience requirement",
+      "scope": "As used in this chapter:",
+      "section": "4796.01",
+      "source_title": "Section 4796.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4796.01",
+      "term": "Uniform quantitative minimum education or experience requirement"
+    },
+    {
+      "definition": "(J) \"National examination\" means an examination that is substantially similar in all states that adopt a national standard.",
+      "id": "4796.01-national-examination",
+      "normalized": "national examination",
+      "scope": "As used in this chapter:",
+      "section": "4796.01",
+      "source_title": "Section 4796.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4796.01",
+      "term": "National examination"
+    },
+    {
+      "definition": "(K) \"Good standing\" means that the individual's out-of-state occupational license, government certification, or private certification, as applicable, is not restricted or limited by the entity that regulates the out-of-state license, government certification, or private certification.",
+      "id": "4796.01-good-standing",
+      "normalized": "good standing",
+      "scope": "As used in this chapter:",
+      "section": "4796.01",
+      "source_title": "Section 4796.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4796.01",
+      "term": "Good standing"
+    },
+    {
+      "definition": "(L) \"Armed forces of the United States\" means the army, navy, air force, marine corps, space force, coast guard, or any other reserve components of those forces.",
+      "id": "4796.01-armed-forces-of-the-united-states",
+      "normalized": "armed forces of the united states",
+      "scope": "As used in this chapter:",
+      "section": "4796.01",
+      "source_title": "Section 4796.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4796.01",
+      "term": "Armed forces of the United States"
+    },
+    {
+      "definition": "(M) \"Uniformed services\" means the armed forces of the United States; the commissioned corps of the national oceanic and atmospheric administration; the commissioned corps of the public health service; or any reserve components of those forces; and such other service as may be designated by congress.\n\nLast updated March 6, 2023 at 4:50 PM",
+      "id": "4796.01-uniformed-services",
+      "normalized": "uniformed services",
+      "scope": "As used in this chapter:",
+      "section": "4796.01",
+      "source_title": "Section 4796.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4796.01",
+      "term": "Uniformed services"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "1.60",
+      "number": "1.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1.60"
+    }
+  ],
+  "scraped": "2026-07-02T20:08:44+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4796.01",
+  "title": "Section 4796.01 - Definitions."
+}

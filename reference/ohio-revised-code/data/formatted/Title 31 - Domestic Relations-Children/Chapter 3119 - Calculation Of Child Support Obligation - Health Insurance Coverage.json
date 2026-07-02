@@ -1,0 +1,771 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 3119.01 - Calculation of child support obligation definitions.",
+      "number": "3119.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.02 - Calculation of child support obligation.",
+      "number": "3119.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.021 - Basic child support schedule.",
+      "number": "3119.021",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.021"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.022 - Child support guideline worksheets and instructions.",
+      "number": "3119.022",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.022"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.023 - Review of basic child support schedule.",
+      "number": "3119.023",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.023"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.03 - Presumption of correctness.",
+      "number": "3119.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.04 - Determination of support obligation where combined gross income is greater than or less than amounts covered by schedule.",
+      "number": "3119.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.05 - Other computing and calculating guidelines.",
+      "number": "3119.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.051 - Reduction in cases where parenting time order equals or exceeds ninety overnights per year.",
+      "number": "3119.051",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.051"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.06 - Minimum child support order.",
+      "number": "3119.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.07 - Effect of child custody on calculation of child support.",
+      "number": "3119.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.08 - Child support order to include specific provisions for parenting time and visitation.",
+      "number": "3119.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.09 - Denial of or interference with right of parenting time or visitation.",
+      "number": "3119.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.10 - Definition of \"person with a disability\".",
+      "number": "3119.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.11 - Court-ordered child support for a person with a disability regardless of age.",
+      "number": "3119.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.12 - No issuance of administrative support order for child over eighteen.",
+      "number": "3119.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.22 - Deviating from schedule or worksheet.",
+      "number": "3119.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.23 - Factors to be considered in granting a deviation.",
+      "number": "3119.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.231 - Deviation where court-ordered parenting time exceeds ninety overnights per year.",
+      "number": "3119.231",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.231"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.24 - Shared parenting order child support provisions.",
+      "number": "3119.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.27 - Processing charge for issuing or modifying an order.",
+      "number": "3119.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.28 - Paying processing charge.",
+      "number": "3119.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.29 - Health insurance coverage for children definitions.",
+      "number": "3119.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.291 - Modifying national medical support notice.",
+      "number": "3119.291",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.291"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.30 - Determining person responsible for health care of children.",
+      "number": "3119.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.301 - Prior orders for health care needs.",
+      "number": "3119.301",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.301"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.302 - Private health insurance - cash medical support.",
+      "number": "3119.302",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.302"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.303 - Cash medical support order.",
+      "number": "3119.303",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.303"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.31 - Providing list of any group health insurance policies, contracts, or plans available to the party.",
+      "number": "3119.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.32 - General requirements for order concerning health insurance coverage.",
+      "number": "3119.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.33 - Sending national medical support notice to employer.",
+      "number": "3119.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.34 - Sending national medical support notice to new employer.",
+      "number": "3119.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.35 - Sending notice of medical support enforcement activity to employee.",
+      "number": "3119.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.351 - Contents of notice of medical support enforcement activity.",
+      "number": "3119.351",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.351"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.352 - Standard form for notice of medical support enforcement activity.",
+      "number": "3119.352",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.352"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.36 - Employer's action upon receiving national medical support notice.",
+      "number": "3119.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.361 - Complying with notice or order to provide health insurance coverage.",
+      "number": "3119.361",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.361"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.362 - Requesting employer to provide information.",
+      "number": "3119.362",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.362"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.363 - Using information provided by employer.",
+      "number": "3119.363",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.363"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.364 - Providing notice of change in coverage.",
+      "number": "3119.364",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.364"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.37 - Health plan administrator to complete and comply with notice.",
+      "number": "3119.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.371 - Information provided to office of child support.",
+      "number": "3119.371",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.371"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.38 - Request for administrative hearing based on mistake of fact.",
+      "number": "3119.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.39 - Failure to make timely request for hearing.",
+      "number": "3119.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.40 - Hearing based on mistake of fact.",
+      "number": "3119.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.41 - Decision on mistake of fact proceeding.",
+      "number": "3119.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.42 - Binding effect of order.",
+      "number": "3119.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.421 - Reimbursement for covered out-of-pocket medical, optical, hospital, dental, or prescription expenses.",
+      "number": "3119.421",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.421"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.422 - Child who does not meet the underwriting standards of policy.",
+      "number": "3119.422",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.422"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.43 - Notice of failure of person to comply with child support order.",
+      "number": "3119.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.44 - Contempt.",
+      "number": "3119.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.45 - Previous finding of contempt.",
+      "number": "3119.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.46 - Filing motion for modification of order.",
+      "number": "3119.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.47 - Investigation of availability of insurance.",
+      "number": "3119.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.48 - Modification of order.",
+      "number": "3119.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.49 - Motion to modify support to cover medical needs adequately.",
+      "number": "3119.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.50 - Determining adequacy of support.",
+      "number": "3119.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.51 - Administrative rules.",
+      "number": "3119.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.54 - Eligibility for medical assistance.",
+      "number": "3119.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.56 - Failure to comply with child support order for health care.",
+      "number": "3119.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.60 - Proceedings prior to formal beginning of review.",
+      "number": "3119.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.61 - Commencing review of administrative order.",
+      "number": "3119.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.63 - Reviewing court child support order.",
+      "number": "3119.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.631 - Scope of review.",
+      "number": "3119.631",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.631"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.64 - Requesting hearing on revised amount of support.",
+      "number": "3119.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.65 - Revising order where hearing not requested.",
+      "number": "3119.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.66 - Schedule for and conduct of hearing.",
+      "number": "3119.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.67 - Notice of date, time, and location of hearing.",
+      "number": "3119.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.67"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.68 - Ordering party to provide documents.",
+      "number": "3119.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.68"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.69 - Notice that willful failure to comply with court order is contempt of court.",
+      "number": "3119.69",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.69"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.70 - Determination by court following hearing.",
+      "number": "3119.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.71 - Modification of order relates back.",
+      "number": "3119.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.72 - Noncompliance by party with request for information.",
+      "number": "3119.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.73 - Calculating revised amount of child support.",
+      "number": "3119.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.74 - Conducting administrative reviews of support orders.",
+      "number": "3119.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.74"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.75 - Child support enforcement agency not required to review a child support order.",
+      "number": "3119.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.76 - Administrative rules establishing procedures for determining when orders should be reviewed.",
+      "number": "3119.76",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.76"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.77 - Review of child support order for person called to active military service.",
+      "number": "3119.77",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.77"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.771 - Review of order.",
+      "number": "3119.771",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.771"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.772 - Modification of order.",
+      "number": "3119.772",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.772"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.773 - Notice of date of termination of active military service.",
+      "number": "3119.773",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.773"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.79 - Modification of child support.",
+      "number": "3119.79",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.79"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.80 - Motion requesting issuance of withholding or deduction notice to pay support due.",
+      "number": "3119.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.80"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.81 - Ordering investigation prior to issuing certain notices.",
+      "number": "3119.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.82 - Designating parent entitled to claim federal income tax deduction.",
+      "number": "3119.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.82"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.83 - Modifying duty to pay delinquent support retroactively.",
+      "number": "3119.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.83"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.84 - Modifying payments accruing while modification proceedings are pending.",
+      "number": "3119.84",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.84"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.86 - Continuing support obligation beyond child's eighteenth birthday.",
+      "number": "3119.86",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.86"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.861 - Support orders after a child's nineteenth birthday.",
+      "number": "3119.861",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.861"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.862 - Support orders may not continue beyond an agreed-upon date in a separation agreement.",
+      "number": "3119.862",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.862"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.863 - Parent must pay support order until termination.",
+      "number": "3119.863",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.863"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.87 - Notifying agency of reason why support order should terminate.",
+      "number": "3119.87",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.87"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.88 - Reasons for which child support order should terminate.",
+      "number": "3119.88",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.88"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.89 - Investigating termination.",
+      "number": "3119.89",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.89"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.90 - Agency determination that support order should terminate.",
+      "number": "3119.90",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.90"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.91 - Requesting administrative hearing on termination investigation conclusions.",
+      "number": "3119.91",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.91"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.92 - Court hearing on termination of support.",
+      "number": "3119.92",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.92"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.93 - Terminating withholding or deduction notice or other order.",
+      "number": "3119.93",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.93"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.94 - Administrative rules concerning impounded funds, return of payments, uniform implementation.",
+      "number": "3119.94",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.94"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.95 - Health care coverage included in caretaker support order.",
+      "number": "3119.95",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.95"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.951 - Caretaker filing for child support.",
+      "number": "3119.951",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.951"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.953 - Determination of existing support order.",
+      "number": "3119.953",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.953"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.955 - Redirection of existing support order.",
+      "number": "3119.955",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.955"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.957 - Determination of redirection amount.",
+      "number": "3119.957",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.957"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.9511 - Determination of redirection to caretaker.",
+      "number": "3119.9511",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.9511"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.9513 - Issuance of redirection order or recommendation.",
+      "number": "3119.9513",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.9513"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.9515 - Notice of redirection order or recommendation.",
+      "number": "3119.9515",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.9515"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.9517 - Objection to redirection order or recommendation.",
+      "number": "3119.9517",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.9517"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.9519 - Commencement of redirection.",
+      "number": "3119.9519",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.9519"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.9523 - Investigation of support obligation to caretaker.",
+      "number": "3119.9523",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.9523"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.9525 - Determination of support obligation to caretaker.",
+      "number": "3119.9525",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.9525"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.9527 - Notice and investigation of primary caretaker.",
+      "number": "3119.9527",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.9527"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.9529 - Determination of continued caregiver.",
+      "number": "3119.9529",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.9529"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.9531 - Determination of new caregiver.",
+      "number": "3119.9531",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.9531"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.9533 - Termination of redirection; parent obligee.",
+      "number": "3119.9533",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.9533"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.9535 - Termination of redirection; no obligee.",
+      "number": "3119.9535",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.9535"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.9537 - Impoundment of redirected support funds.",
+      "number": "3119.9537",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.9537"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.9539 - Duration of impoundment.",
+      "number": "3119.9539",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.9539"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.9541 - Rulemaking.",
+      "number": "3119.9541",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.9541"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.96 - Genetic testing definitions.",
+      "number": "3119.96",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.96"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.961 - Motion for relief from paternity determination or support order.",
+      "number": "3119.961",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.961"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.962 - Granting relief from paternity determination.",
+      "number": "3119.962",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.962"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.963 - Order to submit to genetic tests.",
+      "number": "3119.963",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.963"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.964 - Effect of granting relief from paternity determination on parenting time rights.",
+      "number": "3119.964",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.964"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.965 - Granting relief from paternity determination does not preclude action to establish parent-child relationship.",
+      "number": "3119.965",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.965"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.966 - Costs and attorney fees.",
+      "number": "3119.966",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.966"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3119.967 - Granting relief from paternity determination regardless of date of order.",
+      "number": "3119.967",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.967"
+    }
+  ],
+  "scraped": "2026-07-02T19:47:54+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-3119",
+  "title": "Chapter 3119 - Calculation Of Child Support Obligation - Health Insurance Coverage"
+}

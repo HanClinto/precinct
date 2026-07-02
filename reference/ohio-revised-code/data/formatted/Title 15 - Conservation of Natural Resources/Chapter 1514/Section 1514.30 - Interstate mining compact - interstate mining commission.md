@@ -1,0 +1,152 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-1514.30
+Scraped: 2026-07-02T19:37:42+00:00
+
+# Section 1514.30 - Interstate mining compact - interstate mining commission.
+
+**Effective:** April 4, 1978
+
+**Latest Legislation:** Senate Bill 69 - 112th General Assembly
+
+The "Interstate Mining Compact" is hereby enacted into law and entered into with all other jurisdictions legally joining therein in the form substantially as follows:
+
+"INTERSTATE MINING COMPACT
+
+ARTICLE I
+
+FINDINGS AND PURPOSE
+
+(A) The party states find that:
+
+(1) Mining and the contributions thereof to the economy and well-being of every state are of basic significance;
+
+(2) The effects of mining on the availability of land, water, and other resources for other uses present special problems which probably can be approached only with due consideration for the rights and interests of those engaged in mining, those using or proposing to use these resources for other purposes, and the public;
+
+(3) Measures for the reduction of the adverse effects of mining on land, water, and other resources may be costly, and the devising of means to deal with them are of both public and private concern;
+
+(4) Such variables as soil structure and composition, physiography, climatic conditions, and the needs of the public make impracticable the application to all mining areas of a single standard for the conservation, adaptation, or restoration of mined land, or the development of mineral and other natural resources, but justifiable requirements of law and practice relating to the effects of mining on land, water, and other resources may be reduced in equity or effectiveness unless they pertain similarly from state to state for all mining operations similarly situated;
+
+(5) The states are in a position and have the responsibility to ensure that mining shall be conducted in accordance with sound conservation principles and with due regard for local conditions.
+
+(B) The purposes of this compact are to:
+
+(1) Advance the protection and restoration of land, water, and other resources affected by mining;
+
+(2) Assist in the reduction, elimination, or counteracting of pollution or deterioration of land, water, and air attributable to mining;
+
+(3) Encourage, with due recognition of relevant regional, physical, and other differences, programs in each of the party states which will achieve comparable results in protecting, conserving, and improving the usefulness of natural resources, to the end that the most desirable conduct of mining and related operations may be universally facilitated;
+
+(4) Assist the party states in their efforts to facilitate the use of land and other resources affected by mining so that such use may be consistent with sound land use, public health, and public safety, and to this end to study and recommend, wherever desirable, techniques for the improvement, restoration, or protection of such land and other resources;
+
+(5) Assist in achieving and maintaining an efficient and productive mining industry and in increasing economic and other benefits attributable to mining.
+
+ARTICLE II
+
+DEFINITIONS
+
+As used in this compact:
+
+(A) "Mining" means the breaking of the surface soil in order to facilitate or accomplish the extraction or removal of minerals, ores, or other solid matter, any activity or process constituting all or part of a process for the extraction or removal of minerals, ores, and other solid matter from its original location, and the preparation, washing, cleaning, or other treatment of minerals, ores, or other solid matter so as to make them suitable for commercial, industrial, or construction use. Mining does not include those aspects of deep mining not having significant effects on the surface and does not include excavation or grading when conducted solely in aid of on-site farming or construction.
+
+(B) "State" means a state of the United States, the District of Columbia, the commonwealth of Puerto Rico, or a territory or possession of the United States.
+
+ARTICLE III
+
+STATE PROGRAMS
+
+Each party state agrees that within a reasonable time it will formulate and establish an effective program for the conservation and use of mined land, by the establishment of standards, enactment of laws, or the continuing of the same in force, to accomplish the:
+
+(A) Protection of the public and protection of adjoining and other landowners from damage to their lands and the structures and other property thereon resulting from the conduct of mining operations or the abandonment or neglect of land and property formerly used in the conduct of such operations;
+
+(B) Conduct of mining and the handling of refuse and other mining wastes in ways that will reduce adverse effects on the economic, residential, recreational, or aesthetic value and utility of land and water;
+
+(C) Institution and maintenance of suitable programs of adaptation, restoration, and rehabilitation of mined lands;
+
+(D) Prevention, abatement, and control of water, air, and soil pollution resulting from present, past, and future mining.
+
+ARTICLE IV
+
+POWERS
+
+In addition to any other powers conferred upon the interstate mining commission established by Article V of this compact, the commission may:
+
+(A) Study mining operations, processes, and techniques for the purpose of gaining knowledge concerning the effects of such operations, processes, and techniques on land, soil, water, air, plant and animal life, recreation, and patterns of community or regional development or change;
+
+(B) Study the conservation, adaptation, improvement, and restoration of land and related resources affected by mining;
+
+(C) Make recommendations concerning any aspect of law or practice and governmental administration dealing with matters within the purview of this compact;
+
+(D) Gather and disseminate information relating to any of the matters within the purview of this compact;
+
+(E) Cooperate with the federal government and any public or private entities having interest in any subject within the purview of this compact;
+
+(F) Consult, upon the request of a party state and within resources available therefor, with the officials of such state with respect to any problem within the purview of this compact;
+
+(G) Study and make recommendations with respect to any practice, process, technique, or course of action that may improve the efficiency of mining or the economic yield from mining operations;
+
+(H) Study and make recommendations relating to the safeguarding of access to resources which are or may become the subject of mining operation to the end that the needs of the economy for the products of mining may not be adversely affected by unplanned or inappropriate use of land and other resources containing minerals or otherwise connected with actual or potential mining sites.
+
+ARTICLE V
+
+THE COMMISSION
+
+(A) There is hereby created an agency of the party states to be known as the "Interstate Mining Commission." The commission shall be composed of one commissioner from each party state who shall be the governor thereof. Pursuant to the laws of his party state, each governor shall have the assistance of any advisory body (including membership from mining industries, conservation interests, and such other public and private interests as may be appropriate) in considering problems relating to mining and in discharging his responsibilities as the commissioner of his state on the commission. In any instance where a governor is unable to attend a meeting of the commission or perform any other function in connection with the business of the commission, he shall designate an alternate, from among the members of the advisory body required by this article, who shall represent him and act in his place and stead. The designation of an alternate shall be communicated by the governor to the commission in such manner as its bylaws may provide.
+
+(B) The commissioners shall be entitled to one vote each on the commission. No action of the commission making a recommendation pursuant to divisions (C), (G), and (H) of Article IV or requesting, accepting, or disposing of funds, services, or other property pursuant to this division, division (G) or (H) of this article, or Article VII shall be valid unless taken at a meeting at which a majority of the total number of votes on the commission is cast in favor thereof. All other action shall be by a majority of those present and voting. Action of the commission shall be only at a meeting at which a majority of the commissioners, or their alternates, is present. The commission may establish and maintain such facilities as may be necessary for the transacting of its business. The commission may acquire, hold, and convey real and personal property and any interest therein.
+
+(C) The commission shall have a seal.
+
+(D) The commission shall elect annually, from among its members, a chairman, a vice-chairman, and a treasurer. The commission shall appoint an executive director and fix his duties and compensation. The executive director shall serve at the pleasure of the commission. The executive director, the treasurer, and such other personnel as the commission shall designate shall be bonded in such amounts as the commission determines.
+
+(E) Irrespective of the civil service, personnel, or other merit system laws of any of the party states, the executive director, with the approval of the commission, shall appoint, and may remove or discharge, such personnel as may be necessary for the performance of the commission's functions, and shall fix the duties and compensation of such personnel.
+
+(F) The commission may establish and maintain independently, or in conjunction with a party state, a suitable retirement system for its employees. Employees of the commission shall be eligible for social security coverage in respect to old age and survivor's insurance, provided that the commission takes such steps as may be necessary pursuant to the laws of the United States to participate in such program of insurance as a governmental agency or unit. The commission may establish and maintain or participate in such additional programs of employee benefits as it considers appropriate.
+
+(G) The commission may borrow, accept, or contract for the services of personnel from any state, the United States, any governmental agency, or from any person.
+
+(H) The commission may accept for any of its purposes and functions under this compact donations and grants of money, equipment, supplies, materials, and service, conditional or otherwise, from any state, the United States, any governmental agency, or from any person, and may receive, utilize, and dispose of the same. Any donation or grant accepted by the commission pursuant to this division or services borrowed pursuant to division (G) of this article shall be reported in the annual report of the commission. Such report shall include the nature, amount, and conditions, if any, of the donation, grant, or services borrowed and the identity of the donor or lender.
+
+(I) The commission shall adopt bylaws for the conduct of its business and may amend and rescind these bylaws. The commission shall publish its bylaws in convenient form and shall file a copy thereof, and a copy of any amendment thereto, with the appropriate agency or officer in each of the party states.
+
+(J) The commission annually shall make to the governor, legislature, and advisory body required by division (A) of Article V of each party state a report covering the activities of the commission for the preceding year and embodying such recommendations as may have been made by the commission. The commission may make such additional reports as it considers desirable.
+
+ARTICLE VI
+
+ADVISORY, TECHNICAL, AND REGIONAL COMMITTEES
+
+The commission shall establish such advisory, technical, and regional committees as it considers necessary, membership on which shall include private persons and public officials, and shall cooperate with and use the services of any such committees and the organizations which the members represent in furthering any of its activities. Such committees may be formed to consider problems of special interest to any party states, problems dealing with particular commodities or types of mining operations, problems related to reclamation, development, or use of mined land, or any other matters of concern to the commission.
+
+ARTICLE VII
+
+FINANCE
+
+(A) The commission shall submit to the governor or designated officer of each party state a budget of its estimated expenditures for such period as may be required by the laws of that party state for presentation to the legislature thereof.
+
+(B) Each of the commission's budgets of estimated expenditures shall contain specific recommendations of the amount to be appropriated by each of the party states. The total amount of appropriations requested under any such budget shall be apportioned among the party states as follows: one-half in equal shares, and the remainder in proportion to the value of minerals, ores, and other solid matter mined. In determining such values, the commission shall employ such available public sources of information as, in its judgment, present the most equitable and accurate comparisons among the party states. Each of the commission's budgets of estimated expenditures and requests for appropriations shall indicate the sources used in obtaining information concerning the value of minerals, ores, and other solid matter mined.
+
+(C) The commission shall not pledge the credit of any party state. The commission may meet any of its obligations in whole or in part with funds available to it under division (H) of Article V of this compact, provided that the commission takes specific action setting aside such funds prior to incurring any obligation to be met in whole or in part in such manner. Except where the commission makes use of funds available to it under division (H) of Article V of this compact, the commission shall not incur any obligation prior to the allotment of funds by the party states adequate to meet the same.
+
+(D) The commission shall keep accurate accounts of all receipts and disbursements. The receipts and disbursements of the commission shall be subject to the audit and accounting procedures established under its bylaws. All receipts and disbursements of funds handled by the commission shall be audited yearly by a qualified public accountant, and the report of the audit shall be included in and become part of the annual report of the commission.
+
+(E) The accounts of the commission shall be open at any reasonable time for inspection by duly constituted officers of the party states and by any persons authorized by the commission.
+
+(F) Nothing contained in this compact shall be construed to prevent commission compliance with laws relating to the audit or inspection of accounts by or on behalf of any government contributing to the support of the commission.
+
+ARTICLE VIII
+
+ENTRY INTO FORCE AND WITHDRAWAL
+
+(A) This compact shall become effective when enacted into law by any four or more states. Thereafter, this compact shall become effective as to any other state upon its enactment thereof.
+
+(B) Any party state may withdraw from this compact by enacting a statute repealing the same, but no such withdrawal shall take effect until one year after the governor of the withdrawing state has given notice in writing of the withdrawal to the governors of all other party states. No withdrawal shall affect any liability already incurred by or chargeable to a party state prior to the time of such withdrawal.
+
+ARTICLE IX
+
+EFFECT ON OTHER LAWS
+
+Nothing in this compact shall be construed to limit, repeal, or supersede any other law of any party state.
+
+ARTICLE X
+
+CONSTRUCTION AND SEVERABILITY
+
+This compact shall be liberally construed so as to effectuate the purposes thereof. The provisions of this compact shall be severable and if any phrase, clause, sentence, or provision of this compact is declared to be contrary to the constitution of any state or of the United States or the applicability thereof to any government, agency, person, or circumstance is held invalid, the validity of the remainder of this compact and the applicability thereof to any government, agency, person, or circumstance shall not be affected thereby. If this compact shall be held contrary to the constitution of any state participating herein, the compact shall remain in full force and effect as to the remaining party states and in full force and effect as to the state affected as to all severable matters.

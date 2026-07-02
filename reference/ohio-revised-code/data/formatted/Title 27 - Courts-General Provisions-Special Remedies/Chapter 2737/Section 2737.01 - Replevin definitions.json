@@ -1,0 +1,76 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Movant\" means a party to an action who has filed a motion for an order of possession of specific personal property pursuant to section 2737.03 of the Revised Code.",
+      "id": "2737.01-movant",
+      "normalized": "movant",
+      "scope": "As used in this chapter:",
+      "section": "2737.01",
+      "source_title": "Section 2737.01 - Replevin definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2737.01",
+      "term": "Movant"
+    },
+    {
+      "definition": "(B) \"Respondent\" means the party against whom a motion for an order of possession of specific personal property pursuant to section 2737.03 of the Revised Code is filed.",
+      "id": "2737.01-respondent",
+      "normalized": "respondent",
+      "scope": "As used in this chapter:",
+      "section": "2737.01",
+      "source_title": "Section 2737.01 - Replevin definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2737.01",
+      "term": "Respondent"
+    },
+    {
+      "definition": "(C) \"Probable cause to support the motion\" means that it is likely that the movant will obtain judgment against the respondent that entitles the movant to permanent possession of the specific personal property that is the subject of a motion filed pursuant to section 2737.03 of the Revised Code.",
+      "id": "2737.01-probable-cause-to-support-the-motion",
+      "normalized": "probable cause to support the motion",
+      "scope": "As used in this chapter:",
+      "section": "2737.01",
+      "source_title": "Section 2737.01 - Replevin definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2737.01",
+      "term": "Probable cause to support the motion"
+    },
+    {
+      "definition": "(D) \"Order of possession\" means the order issued by a court under this chapter for delivery to the movant of possession of specific personal property pending final judgment in the action.",
+      "id": "2737.01-order-of-possession",
+      "normalized": "order of possession",
+      "scope": "As used in this chapter:",
+      "section": "2737.01",
+      "source_title": "Section 2737.01 - Replevin definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2737.01",
+      "term": "Order of possession"
+    },
+    {
+      "definition": "(E) \"Levying officer\" means the sheriff, another authorized law enforcement officer, or a bailiff who is ordered by the court to take possession of property and deliver it to the movant.",
+      "id": "2737.01-levying-officer",
+      "normalized": "levying officer",
+      "scope": "As used in this chapter:",
+      "section": "2737.01",
+      "source_title": "Section 2737.01 - Replevin definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2737.01",
+      "term": "Levying officer"
+    },
+    {
+      "definition": "(F) \"Occupied dwelling unit\" means a structure that is used in whole or in part as a home, residence, or sleeping place by one person who maintains a household or by two or more persons who maintain a common household, and the facilities or appurtenances in it and in which any person is present or is likely to be present, except that such a structure is not an occupied dwelling unit at any time if, after reasonable efforts to personally contact any person who may be present in the structure at that time, the person who made the efforts reasonably believes that no person is present in the structure at that time.",
+      "id": "2737.01-occupied-dwelling-unit",
+      "normalized": "occupied dwelling unit",
+      "scope": "As used in this chapter:",
+      "section": "2737.01",
+      "source_title": "Section 2737.01 - Replevin definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2737.01",
+      "term": "Occupied dwelling unit"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2737.03",
+      "number": "2737.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2737.03"
+    }
+  ],
+  "scraped": "2026-07-02T19:45:36+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2737.01",
+  "title": "Section 2737.01 - Replevin definitions."
+}

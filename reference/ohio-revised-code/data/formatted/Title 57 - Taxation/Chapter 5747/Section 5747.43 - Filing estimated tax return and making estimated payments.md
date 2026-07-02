@@ -1,0 +1,74 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5747.43
+Scraped: 2026-07-02T20:15:28+00:00
+
+# Section 5747.43 - Filing estimated tax return and making estimated payments.
+
+**Effective:** September 30, 2025
+
+**Latest Legislation:** House Bill 96 - 136th General Assembly
+
+(A) As used in this section:
+
+(1) "Estimated taxes" means the amount that a qualifying entity or electing pass-through entity estimates to be the sum of its liability under sections 5733.41 and 5747.41 or section 5747.38 of the Revised Code for its current qualifying taxable year or taxable year, as applicable.
+
+(2) "Tax liability" means the total of the taxes and withholding taxes due under sections 5733.41 and 5747.41 of the Revised Code or the tax due under section 5747.38 of the Revised Code for the applicable taxable year prior to applying any estimated tax payment or refund from another year.
+
+(3) "Taxes paid" includes payments of estimated taxes made under division (C) of this section and tax refunds applied by the qualifying entity or electing pass-through entity in payment of estimated taxes.
+
+(4) "Required installment" means a payment equal to twenty-five per cent of the lesser of the following:
+
+(a) Ninety per cent of the tax liability for the qualifying taxable year;
+
+(b) One hundred per cent of the tax liability shown on the return of a qualifying entity or an electing pass-through entity for the preceding taxable year.
+
+Division (A)(4)(b) of this section applies only if the entity filed a return under section 5747.42 of the Revised Code for the preceding taxable year and if the preceding taxable year was a twelve-month taxable year.
+
+(B) In addition to the return required to be filed pursuant to section 5747.42 of the Revised Code, each qualifying entity or electing pass-through entity that is subject to the tax imposed under section 5733.41 and to the withholding tax imposed by section 5747.41 of the Revised Code or that is subject to the tax imposed under section 5747.38 of the Revised Code shall file an estimated tax return and pay a portion of the entity's tax liability for its taxable year. The portion of those taxes required to be paid, and the last day prescribed for payment thereof, shall be as prescribed by divisions (B)(1), (2), (3), and (4) of this section:
+
+(1) On or before the fifteenth day of the fourth month after the beginning of the entity's taxable year, twenty-two and one-half per cent of the entity's estimated tax liability for that taxable year;
+
+(2) On or before the fifteenth day of the sixth month after the beginning of the entity's taxable year, forty-five per cent of the entity's estimated tax liability for that taxable year;
+
+(3) On or before the fifteenth day of the ninth month after the beginning of the entity's taxable year, sixty-seven and one-half per cent of the entity's estimated tax liability for that taxable year;
+
+(4) On or before the fifteenth day of the first month of the the entity's following taxable year, ninety per cent of the entity's estimated tax liability for that taxable year.
+
+Payments of estimated taxes shall be made payable to the treasurer of state.
+
+(C) If a payment of estimated taxes is not paid in the full amount required under division (B) of this section, a penalty may be added to the taxes charged for the qualifying taxable year or taxable year, as applicable, unless the underpayment is due to reasonable cause as described in division (D) of this section. The penalty shall accrue at the rate per annum prescribed by section 5703.47 of the Revised Code upon the amount of underpayment from the day the estimated payment was required to be made to the day the payment is made.
+
+The amount of the underpayment upon which the penalty shall accrue shall be determined as follows:
+
+(1) For the first payment of estimated taxes each year, the required installment less the amount of taxes paid by the date prescribed for that payment;
+
+(2) For the second payment of estimated taxes each year, the required installment less the amount of taxes paid by the date prescribed for that payment;
+
+(3) For the third payment of estimated taxes each year, the required installment less the amount of taxes paid by the date prescribed for that payment;
+
+(4) For the fourth payment of estimated taxes each year, the required installment less the amount of taxes paid by the date prescribed for that payment.
+
+For the purposes of this section, a payment of estimated taxes on or before any payment date shall be considered a payment of a previous underpayment only to the extent the payment of estimated taxes exceeds the amount of the payment presently required to be paid to avoid any penalty.
+
+The tax commissioner may abate, in whole or in part, the penalty imposed under division (C) of this section. Any such penalty is in lieu of any other interest charge or penalty imposed for failure to file a declaration of estimated tax report and make estimated payments as required by this section.
+
+(D) An underpayment of estimated taxes determined under division (C) of this section is due to reasonable cause if any of the following apply:
+
+(1) The amount of tax that was paid equals at least ninety per cent of the tax liability for the current taxable year, determined by annualizing the income received during that year up to the end of the month immediately preceding the month in which the payment is due;
+
+(2) The amount of tax liability that was paid equals at least ninety per cent of the tax liability for the current taxable year;
+
+(3) The amount of tax liability that was paid equals at least one hundred per cent of the tax liability shown on the return of the entity for the preceding taxable year, provided that the immediately preceding taxable year reflected a period of twelve months and the entity filed a return under section 5747.42 of the Revised Code for that year.
+
+(E)(1) Divisions (B) and (C) of this section do not apply for a taxable year if either of the following applies to the entity:
+
+(a) For the immediately preceding taxable year, the entity computes in good faith and in a reasonable manner that the sum of its adjusted qualifying amounts or its qualifying taxable income, as applicable, is ten thousand dollars or less.
+
+(b) For the taxable year the entity computes in good faith and in a reasonable manner that the sum of its adjusted qualifying amounts or its qualifying taxable income, as applicable, is ten thousand dollars or less.
+
+(2) Notwithstanding any other provision of Title LVII of the Revised Code to the contrary, the entity shall establish by a preponderance of the evidence that its computation of the adjusted qualifying amounts or qualifying taxable income, as applicable, for the immediately preceding taxable year and the taxable year was, in fact, made in good faith and in a reasonable manner.
+
+(F) The tax commissioner may waive the requirement for filing a declaration of estimated taxes for any class of qualifying entities if the commissioner finds the waiver is reasonable and proper in view of administrative costs and other factors.
+
+(G) Estimated taxes paid by a qualifying entity or an electing pass-through entity may be applied to satisfy the entity's tax liability under section 5733.41 , 5747.38 , or 5747.41 of the Revised Code. Nothing in this section authorizes such an entity to apply estimated taxes paid against more than one tax.
+
+Last updated August 1, 2025 at 11:23 AM

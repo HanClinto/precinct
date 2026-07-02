@@ -1,0 +1,108 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-2329
+Scraped: 2026-07-02T19:44:19+00:00
+
+# Chapter 2329 - Execution Against Property
+
+## Sections
+
+- Section 2329.01 - Property subject to levy and sale.
+- Section 2329.02 - Judgment lien - certificate of judgment - filing - transfer.
+- Section 2329.021 - Foreign judgment defined.
+- Section 2329.022 - Filing and status of foreign judgments.
+- Section 2329.023 - Notice of filing.
+- Section 2329.024 - Stay.
+- Section 2329.025 - Fees.
+- Section 2329.026 - Optional procedure.
+- Section 2329.027 - Uniformity of interpretation.
+- Section 2329.03 - Lien without filing of certificate.
+- Section 2329.04 - Judgments of inferior courts - stay of execution - certificate in lieu of transcript.
+- Section 2329.05 - Judgment of supreme court.
+- Section 2329.06 - Lien of a judgment when action removed to supreme court.
+- Section 2329.07 - Judgment may become dormant.
+- Section 2329.071 - Property unsold twelve months after decree.
+- Section 2329.08 - Limitation of enforcement of deficiency judgment - waiver - pending actions.
+- Section 2329.09 - Writ of execution.
+- Section 2329.091 - Levying officer to execute writ of execution.
+- Section 2329.10 - Preference between writs of execution.
+- Section 2329.11 - Order in which officer to make levy.
+- Section 2329.12 - Bond for delivery of goods and chattels.
+- Section 2329.13 - Notice of sale of goods on execution - setting aside or confirmation of sale.
+- Section 2329.14 - Execution against unsold goods.
+- Section 2329.15 - Public and private sale of goods on execution.
+- Section 2329.151 - Conduct of judicial sale.
+- Section 2329.152 - Authorization of private selling officer.
+- Section 2329.153 - Official public sheriff sale web site; integrated auction management system.
+- Section 2329.154 - Online registration.
+- Section 2329.16 - Another levy allowed.
+- Section 2329.17 - Lands to be appraised.
+- Section 2329.18 - Copy of appraisement to be left with clerk.
+- Section 2329.19 - Extent of lien of judgment.
+- Section 2329.191 - Preliminary judicial report by petitioner.
+- Section 2329.192 - State lienholder as party defendant in judicial sale; proceeds of sale.
+- Section 2329.20 - Land not to be sold for less than two thirds of appraised value.
+- Section 2329.21 - Purchaser to add enough to pay costs in certain cases.
+- Section 2329.211 - Sale deposit.
+- Section 2329.22 - Rule as to sale of lands by state.
+- Section 2329.23 - Notices of sale of lands.
+- Section 2329.24 - Name of township in certain cases.
+- Section 2329.25 - Property to be sold without valuation.
+- Section 2329.26 - Notice of date, time and place of sale.
+- Section 2329.261 - Notify land banks of foreclosure sales.
+- Section 2329.27 - Public notice requirements - setting aside or confirmation of sale.
+- Section 2329.271 - Identifying information submitted by purchaser.
+- Section 2329.272 - Open house of property prior to sale.
+- Section 2329.28 - The return of the writ and record thereof.
+- Section 2329.29 - Disposition of money made without sale of real estate.
+- Section 2329.30 - Failure of purchaser to pay.
+- Section 2329.31 - Confirmation and order for deed.
+- Section 2329.311 - Sale of property with no minimum bid; right to redeem.
+- Section 2329.312 - Reports by levying officers.
+- Section 2329.32 - Officer may retain purchase money until sale confirmed.
+- Section 2329.33 - Redemption by judgment debtor.
+- Section 2329.34 - Conveyance by commissioner.
+- Section 2329.35 - Sheriff may act for master commissioner.
+- Section 2329.36 - Deed of sheriff, master.
+- Section 2329.37 - Effect of deed.
+- Section 2329.38 - Printer's fee.
+- Section 2329.39 - Place of sale.
+- Section 2329.40 - Alias execution.
+- Section 2329.41 - Separate levies directed on separate tracts.
+- Section 2329.42 - Two or more executions to same officer.
+- Section 2329.43 - Deeds for lands sold may be made by a sheriff's successor.
+- Section 2329.44 - Excess payable to debtor; notice to debtor.
+- Section 2329.45 - Reversal of judgment.
+- Section 2329.46 - Remedy of purchaser if sale invalid.
+- Section 2329.47 - Proceedings to vacate satisfaction of judgment.
+- Section 2329.48 - Relief of officer who levies upon and sells wrong property in good faith.
+- Section 2329.49 - Remedy when one of cosureties pays for such property.
+- Section 2329.50 - Supreme court and court of appeals judgments.
+- Section 2329.51 - New appraisement.
+- Section 2329.52 - New appraisement - sale of part - terms of sale.
+- Section 2329.53 - Return day of writ of execution.
+- Section 2329.54 - Entry of judgment against principal and surety.
+- Section 2329.56 - Penalty for neglecting to serve as appraiser.
+- Section 2329.57 - Execution issued to another county may be returned by mail.
+- Section 2329.58 - Money not to be forwarded by mail.
+- Section 2329.59 - Entries on execution docket.
+- Section 2329.60 - Index to execution docket.
+- Section 2329.61 - Order of sale issued in case not on trial docket.
+- Section 2329.63 - Beneficiary funds exempt.
+- Section 2329.64 - Certain property of benevolent societies exempt.
+- Section 2329.65 - Property kept to put out fires exempt.
+- Section 2329.66 - Exempted interests and rights.
+- Section 2329.661 - Certain claims not exempted.
+- Section 2329.662 - Federal exemption not authorized.
+- Section 2329.67 - Exemption not subject to payment of cost of proceedings to collect debt.
+- Section 2329.68 - Appraisal of exempted property.
+- Section 2329.69 - Exemptions apply to all courts.
+- Section 2329.70 - Application for appointment of trustee.
+- Section 2329.71 - Participation by secured creditor in trusteeship.
+- Section 2329.83 - Dower, mansion house rights not impaired.
+- Section 2329.84 - Goods claimed by third parties.
+- Section 2329.85 - Trial of right to goods and chattels.
+- Section 2329.86 - Finding of judge.
+- Section 2329.90 - Uniform foreign country money judgments recognition act definitions.
+- Section 2329.91 - Enforcement of foreign country judgment.
+- Section 2329.92 - When judgment not enforceable - reciprocity.
+- Section 2329.93 - Stay pending appeal.
+- Section 2329.94 - Scope and construction.

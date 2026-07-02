@@ -1,0 +1,26 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-145.037
+Scraped: 2026-07-02T19:31:54+00:00
+
+# Section 145.037 - Request to be classified as public employee.
+
+**Effective:** September 29, 2013
+
+**Latest Legislation:** House Bill 59 - 130th General Assembly
+
+(A) As used in this section and section 145.038 of the Revised Code, "business entity" means an entity with five or more employees that is a corporation, association, firm, limited liability company, partnership, sole proprietorship, or other entity engaged in business.
+
+A contract between a public employer and a business entity shall state that all individuals employed by the business entity who provide personal services to the public employer are not public employees for purposes of this chapter.
+
+(B)(1) Except as provided in division (B)(2) of this section, an individual who provided personal services to a public employer on or before January 7, 2013, but was not classified as a public employee may request from the public employees retirement board a determination of whether the individual should have been classified as a public employee for purposes of this chapter. The request shall be made on a form provided by the board.
+
+(2) Division (B)(1) of this section does not apply to an individual employed by a business entity under contract with a public employer to provide personal services to the employer.
+
+(C)(1) Not later than sixty days after the effective date of this amendment, the board shall have published in at least eight newspapers of general circulation in this state notice of the right of an individual described in division (B)(1) of this section to seek the determination described in that division. The notice also shall be posted on the web site of the public employees retirement system.
+
+(2) Except as provided in division (D) of this section, on receipt of a request for a determination on a properly completed form, the board shall determine whether the individual should have been classified as a public employee. If the board determines that the individual is not a public employee with regard to the services in question, for the purposes of this chapter, the individual shall not be considered a public employee with regard to the services in question. The board's determination is final.
+
+(3) The board shall notify the individual and the public employer of its determination. The determination shall apply to services performed before, on, or after January 7, 2013, for the same employer in the same capacity.
+
+(D)(1) Regardless of whether an individual actually receives notice under this section, the request for a determination must be made not later than August 7, 2014, unless the individual can demonstrate to the board's satisfaction through medical records that on that date the individual was physically or mentally incapacitated and unable to request a determination.
+
+(2) The board shall deny a request received after the effective date of this amendment if the board determines that the individual has had ten or more years of contributing service since the individual last performed the services that are the subject of the request.

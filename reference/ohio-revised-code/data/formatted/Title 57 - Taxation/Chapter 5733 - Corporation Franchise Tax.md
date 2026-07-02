@@ -1,0 +1,84 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-5733
+Scraped: 2026-07-02T20:15:03+00:00
+
+# Chapter 5733 - Corporation Franchise Tax
+
+## Sections
+
+- Section 5733.01 - Tax charged against corporations.
+- Section 5733.02 - Annual taxpayer report and remittance - report on dissolution or withdrawal.
+- Section 5733.021 - Declaration of estimated tax report.
+- Section 5733.022 - Tax payment by electronic funds transfer.
+- Section 5733.03 - Annual report.
+- Section 5733.031 - Taxable year; method of accounting; amended report; additional payment or application for refund.
+- Section 5733.04 - Corporation franchise tax definitions.
+- Section 5733.041 - Net income defined for tax years 1984 to 1993.
+- Section 5733.042 - Computing net income of member of affiliated group.
+- Section 5733.05 - Determination of value of issued and outstanding stock and intangible property - determination of net income of corporation.
+- Section 5733.051 - Allocating and apportioning of net income of corporation.
+- Section 5733.052 - Combining net incomes of corporations.
+- Section 5733.053 - Transferee corporation subject to transferor's tax liability.
+- Section 5733.054 - Deduction or addition where portion of certain gains or losses is allocated or apportioned to Ohio.
+- Section 5733.055 - Deducting expenses and costs paid to related member.
+- Section 5733.056 - Determining value of issued and outstanding shares of stock.
+- Section 5733.057 - Ownership interest in pass-through entity.
+- Section 5733.058 - Adjusting for equity investment in an exempted investment.
+- Section 5733.059 - Allocating sales of electric transmission and distribution services.
+- Section 5733.0510 - Reducing net income for qualifying assets.
+- Section 5733.0511 - Net income for qualifying telephone company taxpayer.
+- Section 5733.06 - Computing tax.
+- Section 5733.061 - Credit allowed for investment in property used in refining or manufacturing.
+- Section 5733.064 - Credit for recycling and litter prevention program donations.
+- Section 5733.065 - Additional tax on corporations for privilege of manufacturing or selling litter stream products in state.
+- Section 5733.066 - Surcharge added to rates to fund recycling and litter prevention.
+- Section 5733.067 - Credit concerning subsidiaries; amended report; additional payment or application for refund.
+- Section 5733.068 - Credit allowed to member of qualifying affiliated group.
+- Section 5733.069 - Credit allowed for increase in export sales.
+- Section 5733.0610 - Credit for Ohio job creation.
+- Section 5733.0611 - Credit relating to tax on qualifying pass-through entities.
+- Section 5733.07 - Powers and duties of tax commissioner.
+- Section 5733.09 - Exempted companies.
+- Section 5733.10 - Exemption of municipal corporations.
+- Section 5733.11 - Failing to file or remit - filing incorrect report.
+- Section 5733.12 - Crediting of payments to funds - filing of refund application.
+- Section 5733.121 - Applying refund in partial satisfaction of debt.
+- Section 5733.13 - Extension of time to file report.
+- Section 5733.14 - Monthly report by secretary of state - access to records of county auditors.
+- Section 5733.16 - Organization of domestic and foreign corporations.
+- Section 5733.17 - Duty to make reports or pay taxes on dissolution or retirement.
+- Section 5733.20 - Cancellation of articles of incorporation or certificate of authority for failure to report or pay taxes.
+- Section 5733.21 - Prohibition against doing business after cancellation of articles or certificate.
+- Section 5733.22 - Reinstatement of corporation.
+- Section 5733.23 - Petition for judgment for taxes - injunction - procedure - evidence.
+- Section 5733.24 - Quo warranto proceedings.
+- Section 5733.26 - Interest on unpaid tax or refund.
+- Section 5733.261 - Qualifying refund overpayment - liability for interest or penalty.
+- Section 5733.27 - Affidavit denying unlawful political contributions.
+- Section 5733.28 - Failing to file complying report or pay tax.
+- Section 5733.29 - Underpayment of estimated tax.
+- Section 5733.31 - Credit for purchasing new manufacturing machinery or equipment - 18 month look back.
+- Section 5733.311 - Credit for purchasing new manufacturing machinery or equipment - 7 month look back.
+- Section 5733.32 - Credit for grape producing business purchasing qualifying property.
+- Section 5733.33 - Credit for purchasing new manufacturing machinery or equipment - installation before 12-31-2006.
+- Section 5733.34 - Credit for economic redevelopment of voluntary environmental clean-up site.
+- Section 5733.351 - Credit for qualified research expenses.
+- Section 5733.352 - Nonrefundable credit equal to borrower's qualified research and development loan payments.
+- Section 5733.36 - Credit for providing child care for children of employees.
+- Section 5733.37 - Credit for establishing child care center for children of employees.
+- Section 5733.38 - Credit for reimbursement of employee child care expenses.
+- Section 5733.39 - Credit for use of Ohio coal in coal-fired electric generating unit.
+- Section 5733.40 - Qualified pass-through entity definitions.
+- Section 5733.401 - Investment in pass-through entities.
+- Section 5733.402 - Exemption for pass-through entity distributing income and gain to investing entity.
+- Section 5733.41 - Tax on qualifying pass-through entity having at least one qualifying investor that is not individual.
+- Section 5733.42 - Credit for eligible employee training costs.
+- Section 5733.45 - Credit concerning qualifying dealer in intangibles.
+- Section 5733.47 - Refundable franchise tax credit for owner of RC 149.311 certificate.
+- Section 5733.49 - Issuance of tax credits by Ohio venture capital authority.
+- Section 5733.55 - Nonrefundable credit equal to amount of eligible nonrecurring 9-1-1 charges.
+- Section 5733.56 - Nonrefundable credit equal to cost incurred by company for providing telephone service program.
+- Section 5733.57 - Nonrefundable credit equal to product obtained by multiplying applicable percentage by applicable amount.
+- Section 5733.58 - Nonrefundable credit financial institution holding a qualified equity investment.
+- Section 5733.59 - Credit against tax for any corporation that is the certificate owner of a tax credit certificate.
+- Section 5733.98 - Order of claiming credits.
+- Section 5733.99 - Penalty.

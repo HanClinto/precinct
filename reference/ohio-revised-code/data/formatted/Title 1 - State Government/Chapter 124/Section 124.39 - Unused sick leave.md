@@ -1,0 +1,30 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-124.39
+Scraped: 2026-07-02T19:31:40+00:00
+
+# Section 124.39 - Unused sick leave.
+
+**Effective:** October 25, 1995
+
+**Latest Legislation:** Senate Bill 99 - 121st General Assembly
+
+As used in this section, "retirement" means disability or service retirement under any state or municipal retirement system in this state.
+
+(A)(1) Except as provided in division (A)(3) of this section, an employee of a state college or university may elect, at the time of retirement from active service and with ten or more years of service with the state or any of its political subdivisions, to be paid in cash for one-fourth of the value of the employee's accrued but unused sick leave credit. Such payment shall be based on the employee's rate of pay at the time of retirement. Payment for sick leave on this basis shall be considered to eliminate all sick leave credit accrued by the employee at that time. Such payment shall be made only once to any employee. The maximum payment which may be made under this division shall be for one-fourth of one hundred twenty days.
+
+(2) A state college or university may adopt a policy allowing an employee to receive payment for more than one-fourth the value of the employee's unused sick leave or for more than the aggregate value of thirty days of the employee's unused sick leave, or allowing the number of years of service to be less than ten.
+
+(3) Notwithstanding the provisions of division (A)(1) of this section, any employee who retired from the university of Cincinnati on or after September 25, 1978, and on or before November 15, 1981, may be paid in cash for up to one-half of the value of the employee's accrued but unused sick leave credit up to a maximum of sixty days if the employee otherwise meets the service and other requirements necessary to receive such payment and if any such payment has deducted from it any amount previously paid to the employee from the employee's accrued but unused sick leave credit at the time of the employee's retirement.
+
+(B) Except as provided in division (C) of this section, an employee of a political subdivision covered by section 124.38 or 3319.141 of the Revised Code may elect, at the time of retirement from active service with the political subdivision, and with ten or more years of service with the state, any political subdivisions, or any combination thereof, to be paid in cash for one-fourth the value of the employee's accrued but unused sick leave credit. The payment shall be based on the employee's rate of pay at the time of retirement and eliminates all sick leave credit accrued but unused by the employee at the time payment is made. An employee may receive one or more payments under this division, but the aggregate value of accrued but unused sick leave credit that is paid shall not exceed, for all payments, the value of thirty days of accrued but unused sick leave.
+
+(C) A political subdivision may adopt a policy allowing an employee to receive payment for more than one-fourth the value of the employee's unused sick leave or for more than the aggregate value of thirty days of the employee's unused sick leave, or allowing the number of years of service to be less than ten. The political subdivision may also adopt a policy permitting an employee to receive payment upon a termination of employment other than retirement or permitting more than one payment to any employee.
+
+Notwithstanding section 325.17 or any other section of the Revised Code authorizing any appointing authority of a county office, department, commission, or board to set compensation, any modification of the right provided by division (B) of this section, and any policy adopted under division (C) of this section, shall only apply to a county office, department, commission, or board if it is adopted in one of the following ways:
+
+(1) By resolution of the board of county commissioners for any office, department, commission, or board that receives at least one-half of its funding from the county general revenue fund;
+
+(2) By order of any appointing authority of a county office, department, commission, or board that receives less than one-half of its funding from the county general revenue fund. Such office, department, commission, or board shall provide written notice to the board of county commissioners of such order.
+
+(3) As part of a collective bargaining agreement.
+
+A political subdivision may adopt policies similar to the provisions contained in sections 124.382 to 124.386 of the Revised Code.

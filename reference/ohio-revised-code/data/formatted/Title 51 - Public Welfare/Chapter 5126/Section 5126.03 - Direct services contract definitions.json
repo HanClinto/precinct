@@ -1,0 +1,80 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Direct services contract\" means any legally enforceable agreement with an individual, agency, or other entity that, pursuant to its terms or operation, may result in a payment from a county board of developmental disabilities to an eligible person or to a member of the immediate family of an eligible person for services rendered to the eligible person. \"Direct services contract\" includes a contract for supported living pursuant to sections 5126.40 to 5126.47 of the Revised Code, family support services under section 5126.11 of the Revised Code, and reimbursement for transportation expenses.",
+      "id": "5126.03-direct-services-contract",
+      "normalized": "direct services contract",
+      "scope": "As used in this section and in sections 5126.031 to 5126.034 of the Revised Code:",
+      "section": "5126.03",
+      "source_title": "Section 5126.03 - Direct services contract definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5126.03",
+      "term": "Direct services contract"
+    },
+    {
+      "definition": "(B) \"Eligible person\" means a person eligible to receive services from a county board or from an entity under contract with a county board.",
+      "id": "5126.03-eligible-person",
+      "normalized": "eligible person",
+      "scope": "As used in this section and in sections 5126.031 to 5126.034 of the Revised Code:",
+      "section": "5126.03",
+      "source_title": "Section 5126.03 - Direct services contract definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5126.03",
+      "term": "Eligible person"
+    },
+    {
+      "definition": "(C) \"Former board member\" means a person whose service on the county board ended less than one year prior to commencement of services under a direct services contract.",
+      "id": "5126.03-former-board-member",
+      "normalized": "former board member",
+      "scope": "As used in this section and in sections 5126.031 to 5126.034 of the Revised Code:",
+      "section": "5126.03",
+      "source_title": "Section 5126.03 - Direct services contract definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5126.03",
+      "term": "Former board member"
+    },
+    {
+      "definition": "(D) \"Former employee\" means a person whose employment by the county board ended less than one year prior to commencement of services under a direct services contract.",
+      "id": "5126.03-former-employee",
+      "normalized": "former employee",
+      "scope": "As used in this section and in sections 5126.031 to 5126.034 of the Revised Code:",
+      "section": "5126.03",
+      "source_title": "Section 5126.03 - Direct services contract definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5126.03",
+      "term": "Former employee"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "5126.031",
+      "number": "5126.031",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.031"
+    },
+    {
+      "kind": "section",
+      "label": "5126.034",
+      "number": "5126.034",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.034"
+    },
+    {
+      "kind": "section",
+      "label": "5126.40",
+      "number": "5126.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.40"
+    },
+    {
+      "kind": "section",
+      "label": "5126.47",
+      "number": "5126.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.47"
+    },
+    {
+      "kind": "section",
+      "label": "5126.11",
+      "number": "5126.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.11"
+    }
+  ],
+  "scraped": "2026-07-02T20:10:58+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5126.03",
+  "title": "Section 5126.03 - Direct services contract definitions."
+}

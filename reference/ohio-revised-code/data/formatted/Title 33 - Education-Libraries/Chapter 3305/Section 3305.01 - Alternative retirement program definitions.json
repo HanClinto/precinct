@@ -1,0 +1,118 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Public institution of higher education\" means a state university as defined in section 3345.011 of the Revised Code, the northeast Ohio medical university, or a university branch, technical college, state community college, community college, or municipal university established or operating under Chapter 3345., 3349., 3354., 3355., 3357., or 3358. of the Revised Code.",
+      "id": "3305.01-public-institution-of-higher-education",
+      "normalized": "public institution of higher education",
+      "scope": "As used in this chapter:",
+      "section": "3305.01",
+      "source_title": "Section 3305.01 - Alternative retirement program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3305.01",
+      "term": "Public institution of higher education"
+    },
+    {
+      "definition": "(B) \"State retirement system\" means the public employees retirement system created under Chapter 145. of the Revised Code, the state teachers retirement system created under Chapter 3307. of the Revised Code, or the school employees retirement system created under Chapter 3309. of the Revised Code.",
+      "id": "3305.01-state-retirement-system",
+      "normalized": "state retirement system",
+      "scope": "As used in this chapter:",
+      "section": "3305.01",
+      "source_title": "Section 3305.01 - Alternative retirement program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3305.01",
+      "term": "State retirement system"
+    },
+    {
+      "definition": "(C) \"Eligible employee\" means any person employed as a full-time employee of a public institution of higher education.\n\nIn all cases of doubt, the board of trustees of the public institution of higher education shall determine whether any person is an eligible employee for purposes of this chapter, and the board's decision shall be final.",
+      "id": "3305.01-eligible-employee",
+      "normalized": "eligible employee",
+      "scope": "As used in this chapter:",
+      "section": "3305.01",
+      "source_title": "Section 3305.01 - Alternative retirement program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3305.01",
+      "term": "Eligible employee"
+    },
+    {
+      "definition": "(D) \"Electing employee\" means any eligible employee who elects, pursuant to section 3305.05 or 3305.051 of the Revised Code, to participate in an alternative retirement plan provided pursuant to this chapter or an eligible employee who is required to participate in an alternative retirement plan pursuant to division (C)(3) of section 3305.05 or division (F) of section 3305.051 of the Revised Code.\n\n(E) \"Compensation,\" for purposes of an electing employee, has the same meaning as the applicable one of the following:\n\n(1) If the electing employee would be subject to Chapter 145. of the Revised Code had the employee not made an election pursuant to section 3305.05 or 3305.051 of the Revised Code, \"earnable salary\" as defined in division (R) of section 145.01 of the Revised Code;\n\n(2) If the electing employee would be subject to Chapter 3307. of the Revised Code had the employee not made an election pursuant to section 3305.05 or 3305.051 of the Revised Code, \"compensation\" as defined in division (L) of section 3307.01 of the Revised Code;\n\n(3) If the electing employee would be subject to Chapter 3309. of the Revised Code had the employee not made an election pursuant to section 3305.05 or 3305.051 of the Revised Code, \"compensation\" as defined in division (V) of section 3309.01 of the Revised Code.",
+      "id": "3305.01-electing-employee",
+      "normalized": "electing employee",
+      "scope": "As used in this chapter:",
+      "section": "3305.01",
+      "source_title": "Section 3305.01 - Alternative retirement program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3305.01",
+      "term": "Electing employee"
+    },
+    {
+      "definition": "(F) \"Vendor\" means an entity designated under section 3305.03 of the Revised Code as eligible to be a provider of investment options for an alternative retirement plan.",
+      "id": "3305.01-vendor",
+      "normalized": "vendor",
+      "scope": "As used in this chapter:",
+      "section": "3305.01",
+      "source_title": "Section 3305.01 - Alternative retirement program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3305.01",
+      "term": "Vendor"
+    },
+    {
+      "definition": "(G) \"Provider\" means, with respect to each public institution of higher education, a vendor that has entered into an agreement with that public institution of higher education in accordance with section 3305.04 of the Revised Code.",
+      "id": "3305.01-provider",
+      "normalized": "provider",
+      "scope": "As used in this chapter:",
+      "section": "3305.01",
+      "source_title": "Section 3305.01 - Alternative retirement program definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3305.01",
+      "term": "Provider"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3345.011",
+      "number": "3345.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3345.011"
+    },
+    {
+      "kind": "section",
+      "label": "3305.05",
+      "number": "3305.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3305.05"
+    },
+    {
+      "kind": "section",
+      "label": "3305.051",
+      "number": "3305.051",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3305.051"
+    },
+    {
+      "kind": "section",
+      "label": "145.01",
+      "number": "145.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.01"
+    },
+    {
+      "kind": "section",
+      "label": "3307.01",
+      "number": "3307.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3307.01"
+    },
+    {
+      "kind": "section",
+      "label": "3309.01",
+      "number": "3309.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3309.01"
+    },
+    {
+      "kind": "section",
+      "label": "3305.03",
+      "number": "3305.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3305.03"
+    },
+    {
+      "kind": "section",
+      "label": "3305.04",
+      "number": "3305.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3305.04"
+    }
+  ],
+  "scraped": "2026-07-02T19:48:23+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3305.01",
+  "title": "Section 3305.01 - Alternative retirement program definitions."
+}

@@ -1,0 +1,84 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Abused child\" has the same meaning as in section 2151.031 of the Revised Code.",
+      "id": "149.435-abused-child",
+      "normalized": "abused child",
+      "scope": "(A) As used in this section:",
+      "section": "149.435",
+      "source_title": "Section 149.435 - Confidentiality of records regarding abused children.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-149.435",
+      "term": "Abused child"
+    },
+    {
+      "definition": "(2) \"Confidential law enforcement investigatory record\" has the same meaning as in section 149.43 of the Revised Code.",
+      "id": "149.435-confidential-law-enforcement-investigatory-record",
+      "normalized": "confidential law enforcement investigatory record",
+      "scope": "(A) As used in this section:",
+      "section": "149.435",
+      "source_title": "Section 149.435 - Confidentiality of records regarding abused children.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-149.435",
+      "term": "Confidential law enforcement investigatory record"
+    },
+    {
+      "definition": "(3) \"Law enforcement agency\" means a municipal or township police department, the office of a sheriff, the state highway patrol, federal law enforcement, a county prosecuting attorney, the office of the United States attorney, or a state or local governmental body that enforces criminal laws and that has employees who have a statutory power of arrest.",
+      "id": "149.435-law-enforcement-agency",
+      "normalized": "law enforcement agency",
+      "scope": "(A) As used in this section:",
+      "section": "149.435",
+      "source_title": "Section 149.435 - Confidentiality of records regarding abused children.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-149.435",
+      "term": "Law enforcement agency"
+    },
+    {
+      "definition": "(4) \"Prosecutor\" has the same meaning as in section 2935.01 of the Revised Code.",
+      "id": "149.435-prosecutor",
+      "normalized": "prosecutor",
+      "scope": "(A) As used in this section:",
+      "section": "149.435",
+      "source_title": "Section 149.435 - Confidentiality of records regarding abused children.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-149.435",
+      "term": "Prosecutor"
+    },
+    {
+      "definition": "(5) \"Routine factual report\" means a police blotter, arrest log, incident report, or other record of events maintained in paper, electronic, or other form by a law enforcement agency, other than a confidential law enforcement investigatory record.\n\n(B)(1) Except as provided in division (C) of this section, a law enforcement agency or employee of a law enforcement agency shall not disclose a name or other information contained in a routine factual report that is highly likely to identify an alleged delinquent child or arrestee who is also an abused child and who is under eighteen years of age at the time the report is created. If the agency or employee does not know whether the alleged delinquent child or arrestee is an abused child, the agency or employee shall attempt to determine whether or not the alleged delinquent child or arrestee is an abused child and shall not disclose the name or other information before making the determination.\n\n(2) No person to whom information described in division (B)(1) of this section is disclosed, and no employer of that person, shall further disclose that information except as provided in division (C) of this section.\n\n(C) This section does not prohibit the disclosure of information described in division (B) of this section to any of the following:\n\n(1) An employee of a law enforcement agency or a prosecutor for the purpose of investigating or prosecuting a crime or delinquent act;\n\n(2) An employee of the department of youth services, a probation officer, a juvenile court judge, or an employee of a public children services agency or a county department of job and family services who is supervising the alleged delinquent child or arrestee who is also an abused child and who is under eighteen years of age;\n\n(3) An employee of a law enforcement agency for use in the employee's defense of a civil or administrative action arising out of the employee's involvement in the case that gave rise to the civil or administrative action;\n\n(4) An employee of the attorney general's office responsible for administering awards of reparations under section 2743.191 of the Revised Code;\n\n(5) A parent, guardian, or custodian of the alleged delinquent child or arrestee who is also an abused child and who is under eighteen years of age or an attorney for such a parent, guardian, or custodian;\n\n(6) Any other person pursuant to a court order.",
+      "id": "149.435-routine-factual-report",
+      "normalized": "routine factual report",
+      "scope": "(A) As used in this section:",
+      "section": "149.435",
+      "source_title": "Section 149.435 - Confidentiality of records regarding abused children.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-149.435",
+      "term": "Routine factual report"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2151.031",
+      "number": "2151.031",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.031"
+    },
+    {
+      "kind": "section",
+      "label": "149.43",
+      "number": "149.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.43"
+    },
+    {
+      "kind": "section",
+      "label": "2935.01",
+      "number": "2935.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2935.01"
+    },
+    {
+      "kind": "section",
+      "label": "2743.191",
+      "number": "2743.191",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2743.191"
+    }
+  ],
+  "scraped": "2026-07-02T19:31:59+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-149.435",
+  "title": "Section 149.435 - Confidentiality of records regarding abused children."
+}

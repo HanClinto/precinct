@@ -1,0 +1,30 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-1533.63
+Scraped: 2026-07-02T19:37:50+00:00
+
+# Section 1533.63 - Legal length and weight of certain fish.
+
+**Effective:** October 10, 2007
+
+**Latest Legislation:** Senate Bill 77 - 127th General Assembly
+
+Except as otherwise provided by division rule, no person shall take, catch, buy, sell, transport, or possess a whitefish less than seventeen inches in length, a sturgeon less than forty-eight inches in length, a catfish less than fourteen and one-half inches in length, a yellow perch less than eight and one-half inches in length, a yellow perch fillet or part fillet of not less than five and five-eighths inches in length, a headless yellow perch less than six and seven-eighths inches in length, a white bass or white bass hybrid less than eleven inches in length, a headless white bass or white bass hybrid less than eight and three-fourths inches in length, a white bass or white bass hybrid fillet or part thereof less than six and one-half inches in length, a bullhead less than nine inches in length, or a cisco less than eleven inches in length. All such fish caught or taken of a weight or length less than that prescribed in this section or as may be provided by the chief of the division of wildlife immediately shall be released with as little injury as possible while the net, seine, trotline, dip net, or other fishing device is being lifted, pulled, or hauled.
+
+No person shall release such undersized fish or species protected by this chapter and Chapter 1531. of the Revised Code or division rule into a privately owned pond, lake, live car, or other enclosure. No person shall bring ashore, or possess aboard a boat used in commercial fishing, a fish with its head or tail removed or in such condition that its length, weight, or species cannot be determined.
+
+This section does not prohibit the catching, taking, or possession of such undersized fish when caught or taken with hook and line, other than a commercially licensed trotline, but when such fish are so taken, they cannot be bought or sold. No person shall possess such undersized fish or a species of fish that is not permitted to be taken commercially aboard a boat when going to, while on, or when returning from nets or other devices used in commercial fishing.
+
+No licensed commercial fishers, or person required to have a commercial fishing license under section 1533.34 of the Revised Code, shall take walleye, sauger, whitefish, mooneye, cisco, burbot, sturgeon, and blue pike; brook, brown, rainbow, and lake trout; coho, chinook, and kokanne salmon; or other species protected by this chapter and Chapter 1531. of the Revised Code or division rule, from Lake Erie or its tributaries or possess such fish aboard a boat used in commercial fishing when going to or returning from nets or other fishing devices. All such fish caught or taken from a commercial fishing device immediately shall be released with as little injury as possible while the fishing device is being lifted, pulled, or hauled.
+
+No person shall take, buy, sell, transport, cause to be transported, or possess a container, quantity, boat load, catch, or haul with more than ten per cent by weight of undersized fish or any other species either round, filleted, or headless mentioned in this section or division rule. The entire quantity of fish containing more than ten per cent by weight of undersized fish shall be confiscated along with its containers. No person shall buy, sell, offer for sale, transport, give away, barter, or possess a fish caught or taken out of season or in any manner prohibited or a fish caught or taken unlawfully from waters in or outside the state. All fish brought into the state from another state or country shall be subject to the laws of this state.
+
+All fish taken or caught from Ohio waters shall be brought into an Ohio port for inspection. No person shall ship, carry, transport, or cause to be transported any fish taken or caught from Ohio waters directly to a point outside the state.
+
+Walleye or sauger originating from outside of this state may be possessed for sale, bought, or sold subject to division rule.
+
+No person shall trade, buy, sell, possess, or transport for sale walleye or sauger taken from waters in this state. In addition, no person shall take, possess, buy, sell, deliver, transport, ship, trade, or give away walleye or any part of a walleye, including roe, that is taken from the Ohio waters of Lake Erie or its tributaries and that is taken with the aid of a commercial fishing device.
+
+Each person who holds a permit under section 1533.301 or 1533.631 of the Revised Code shall keep accurate written records in the English language of all sales and purchases of freshwater fish. The records shall include the name and address of the buyer and seller, the name of fish, the amount of fish in pounds, and the date of sale or purchase. Records for trout, bullhead, herring, whitefish, sauger, walleye, yellow perch, white bass, sturgeon, and channel catfish shall be kept on forms provided by the chief. In lieu of keeping the written records concerning sales of freshwater fish as required under this section, a permit holder, upon applying to and receiving the approval of the chief, may keep the sales information required under this section on normal business records, including, but not limited to, receipts and invoices. All records shall be maintained for at least one year and shall be open to inspection to all division of wildlife officers at all reasonable hours. A buyer who purchases fish for the buyer's own consumption shall not be required to keep records, and persons selling fish for personal consumption shall not be required to record the names and addresses of persons purchasing the fish.
+
+No person shall fail to comply with any provision of this section or division rule adopted pursuant thereto.
+
+As used in this section, "sale of fish" includes, but is not limited to, fish sold in the round or part thereof and fish sold as part of a meal or service, but does not include canned fish.

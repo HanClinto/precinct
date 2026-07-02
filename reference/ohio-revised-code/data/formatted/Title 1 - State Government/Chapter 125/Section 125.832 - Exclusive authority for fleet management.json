@@ -1,0 +1,84 @@
+{
+  "glossary": [
+    {
+      "definition": "(a) \"Annual motor vehicle cost\" means the price of a motor vehicle divided by the number of years an average motor vehicle is used.",
+      "id": "125.832-annual-motor-vehicle-cost",
+      "normalized": "annual motor vehicle cost",
+      "scope": "(3) Establish the minimum number of business miles per year at an amount that results when the annual motor vehicle cost is divided by the amount that is the reimbursement rate per mile minus the amount that is the sum of the fuel cost, the operating cost, and the insurance cost. As used in this division:",
+      "section": "125.832",
+      "source_title": "Section 125.832 - Exclusive authority for fleet management.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-125.832",
+      "term": "Annual motor vehicle cost"
+    },
+    {
+      "definition": "(b) \"Fuel cost\" means the average price per gallon of motor fuel divided by the miles per gallon fuel efficiency of a motor vehicle.",
+      "id": "125.832-fuel-cost",
+      "normalized": "fuel cost",
+      "scope": "(3) Establish the minimum number of business miles per year at an amount that results when the annual motor vehicle cost is divided by the amount that is the reimbursement rate per mile minus the amount that is the sum of the fuel cost, the operating cost, and the insurance cost. As used in this division:",
+      "section": "125.832",
+      "source_title": "Section 125.832 - Exclusive authority for fleet management.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-125.832",
+      "term": "Fuel cost"
+    },
+    {
+      "definition": "(c) \"Insurance cost\" means the cost of insuring a motor vehicle per year divided by the number of miles an average motor vehicle is driven per year.",
+      "id": "125.832-insurance-cost",
+      "normalized": "insurance cost",
+      "scope": "(3) Establish the minimum number of business miles per year at an amount that results when the annual motor vehicle cost is divided by the amount that is the reimbursement rate per mile minus the amount that is the sum of the fuel cost, the operating cost, and the insurance cost. As used in this division:",
+      "section": "125.832",
+      "source_title": "Section 125.832 - Exclusive authority for fleet management.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-125.832",
+      "term": "Insurance cost"
+    },
+    {
+      "definition": "(d) \"Operating cost\" means the maintenance cost of a motor vehicle per year divided by the number of miles an average motor vehicle is driven per year.",
+      "id": "125.832-operating-cost",
+      "normalized": "operating cost",
+      "scope": "(3) Establish the minimum number of business miles per year at an amount that results when the annual motor vehicle cost is divided by the amount that is the reimbursement rate per mile minus the amount that is the sum of the fuel cost, the operating cost, and the insurance cost. As used in this division:",
+      "section": "125.832",
+      "source_title": "Section 125.832 - Exclusive authority for fleet management.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-125.832",
+      "term": "Operating cost"
+    },
+    {
+      "definition": "(e) \"Reimbursement rate per mile\" means the reimbursement per mile rate for travel expenses as provided by rule of the director of budget and management adopted under division (B) of section 126.31 of the Revised Code.\n\nLast updated July 30, 2021 at 3:54 PM",
+      "id": "125.832-reimbursement-rate-per-mile",
+      "normalized": "reimbursement rate per mile",
+      "scope": "(3) Establish the minimum number of business miles per year at an amount that results when the annual motor vehicle cost is divided by the amount that is the reimbursement rate per mile minus the amount that is the sum of the fuel cost, the operating cost, and the insurance cost. As used in this division:",
+      "section": "125.832",
+      "source_title": "Section 125.832 - Exclusive authority for fleet management.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-125.832",
+      "term": "Reimbursement rate per mile"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "125.831",
+      "number": "125.831",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.831"
+    },
+    {
+      "kind": "section",
+      "label": "125.83",
+      "number": "125.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.83"
+    },
+    {
+      "kind": "section",
+      "label": "125.14",
+      "number": "125.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-125.14"
+    },
+    {
+      "kind": "section",
+      "label": "126.31",
+      "number": "126.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-126.31"
+    }
+  ],
+  "scraped": "2026-07-02T19:31:42+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-125.832",
+  "title": "Section 125.832 - Exclusive authority for fleet management."
+}

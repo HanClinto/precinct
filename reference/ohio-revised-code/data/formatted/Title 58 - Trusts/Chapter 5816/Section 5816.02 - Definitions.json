@@ -1,0 +1,292 @@
+{
+  "glossary": [
+    {
+      "definition": "(A)(1) \"Advisor\" means a person to whom both of the following apply:\n\n(a) The person satisfies the eligibility criteria specified in division (A) of section 5816.11 of the Revised Code.\n\n(b) The person is given the authority by the terms of a legacy trust to remove or appoint one or more trustees of the trust or to direct, consent to, or disapprove a trustee's actual or proposed investment, distribution, or other decisions.\n\n(2) Any person to whom division (A)(1) of this section applies is considered an advisor even if that person is denominated by another title, such as protector.",
+      "id": "5816.02-advisor",
+      "normalized": "advisor",
+      "scope": "As used in this chapter, unless the context otherwise requires:",
+      "section": "5816.02",
+      "source_title": "Section 5816.02 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5816.02",
+      "term": "Advisor"
+    },
+    {
+      "definition": "(B) \"Asset\" means property of a transferor but does not include any of the following:\n\n(1) Property to the extent it is encumbered by a valid lien;\n\n(2) Property to the extent it is exempt at the time of a qualified disposition under any applicable nonbankruptcy law, including, but not limited to, section 2329.66 of the Revised Code;\n\n(3) Property held in the form of a tenancy by the entireties to the extent that, under the law governing the entireties estate at the time of a qualified disposition, it is not subject to process by a creditor holding a claim against only one tenant;\n\n(4) Any property transferred from a nonlegacy trust to a legacy trust to the extent that the property would not be subject to attachment under the applicable nonbankruptcy law governing that nonlegacy trust.",
+      "id": "5816.02-asset",
+      "normalized": "asset",
+      "scope": "As used in this chapter, unless the context otherwise requires:",
+      "section": "5816.02",
+      "source_title": "Section 5816.02 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5816.02",
+      "term": "Asset"
+    },
+    {
+      "definition": "(C) \"Bankruptcy Code\" means the United States Bankruptcy Code, 11 U.S.C. Chapter 11, as amended.",
+      "id": "5816.02-bankruptcy-code",
+      "normalized": "bankruptcy code",
+      "scope": "As used in this chapter, unless the context otherwise requires:",
+      "section": "5816.02",
+      "source_title": "Section 5816.02 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5816.02",
+      "term": "Bankruptcy Code"
+    },
+    {
+      "definition": "(D) \"Beneficiary\" has the same meaning as in section 5801.01 of the Revised Code.",
+      "id": "5816.02-beneficiary",
+      "normalized": "beneficiary",
+      "scope": "As used in this chapter, unless the context otherwise requires:",
+      "section": "5816.02",
+      "source_title": "Section 5816.02 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5816.02",
+      "term": "Beneficiary"
+    },
+    {
+      "definition": "(E) \"Claim\" means a right to payment, whether or not the right is reduced to judgment or is liquidated, unliquidated, fixed, contingent, matured, unmatured, disputed, undisputed, legal, equitable, secured, or unsecured.",
+      "id": "5816.02-claim",
+      "normalized": "claim",
+      "scope": "As used in this chapter, unless the context otherwise requires:",
+      "section": "5816.02",
+      "source_title": "Section 5816.02 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5816.02",
+      "term": "Claim"
+    },
+    {
+      "definition": "(F) \"Creditor\" means a person who has a claim against a transferor and any transferee or assignee of, or successor to, that claim.",
+      "id": "5816.02-creditor",
+      "normalized": "creditor",
+      "scope": "As used in this chapter, unless the context otherwise requires:",
+      "section": "5816.02",
+      "source_title": "Section 5816.02 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5816.02",
+      "term": "Creditor"
+    },
+    {
+      "definition": "(G) \"Debt\" means a liability on a claim.",
+      "id": "5816.02-debt",
+      "normalized": "debt",
+      "scope": "As used in this chapter, unless the context otherwise requires:",
+      "section": "5816.02",
+      "source_title": "Section 5816.02 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5816.02",
+      "term": "Debt"
+    },
+    {
+      "definition": "(H) \"Disposition\" means a direct or indirect transfer, conveyance, or assignment of property, including, but not limited to, a partial, contingent, undivided, or co-ownership interest in property. \"Disposition\" includes the exercise of a general power so as to cause a transfer of property to a trustee or trustees but does not include any of the following:\n\n(1) The release or relinquishment of an interest in property that, until the release or relinquishment, was the subject of a qualified disposition;\n\n(2) The exercise of a limited power so as to cause a transfer of property to a trustee or trustees;\n\n(3) A disclaimer of an interest in a trust, bequest, devise, or inheritance.",
+      "id": "5816.02-disposition",
+      "normalized": "disposition",
+      "scope": "As used in this chapter, unless the context otherwise requires:",
+      "section": "5816.02",
+      "source_title": "Section 5816.02 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5816.02",
+      "term": "Disposition"
+    },
+    {
+      "definition": "(I) \"Internal Revenue Code\" means the \"Internal Revenue Code of 1986,\" 100 Stat. 2085, 26 U.S.C. 1 et seq., as amended.",
+      "id": "5816.02-internal-revenue-code",
+      "normalized": "internal revenue code",
+      "scope": "As used in this chapter, unless the context otherwise requires:",
+      "section": "5816.02",
+      "source_title": "Section 5816.02 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5816.02",
+      "term": "Internal Revenue Code"
+    },
+    {
+      "definition": "(J) \"Investment decision\" means any participation in any decision regarding the retention, purchase, sale, exchange, tender, or other transaction affecting the ownership of or rights in investments.",
+      "id": "5816.02-investment-decision",
+      "normalized": "investment decision",
+      "scope": "As used in this chapter, unless the context otherwise requires:",
+      "section": "5816.02",
+      "source_title": "Section 5816.02 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5816.02",
+      "term": "Investment decision"
+    },
+    {
+      "definition": "(K)(1) \"Legacy trust\" means a trust evidenced by a written trust instrument to which all of the following apply:\n\n(a) The trust has, names, or appoints at least one qualified trustee for or in connection with the property that is the subject of a qualified disposition.\n\n(b) The trust expressly incorporates the laws of this state to wholly or partially govern its validity, construction, and administration.\n\n(c) The trust expressly states that it is irrevocable.\n\n(d) The trust has a spendthrift provision applicable to the interests of any beneficiary in the trust property, including any interests of a transferor in the trust property.\n\n(2) A trust that satisfies the criteria specified in division (K)(1) of this section is considered a legacy trust even if the trust instrument also allows for one or more nonqualified trustees and regardless of the language used to satisfy those criteria.",
+      "id": "5816.02-legacy-trust",
+      "normalized": "legacy trust",
+      "scope": "As used in this chapter, unless the context otherwise requires:",
+      "section": "5816.02",
+      "source_title": "Section 5816.02 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5816.02",
+      "term": "Legacy trust"
+    },
+    {
+      "definition": "(L) \"Lien\" has the same meaning as in section 1336.01 of the Revised Code.",
+      "id": "5816.02-lien",
+      "normalized": "lien",
+      "scope": "As used in this chapter, unless the context otherwise requires:",
+      "section": "5816.02",
+      "source_title": "Section 5816.02 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5816.02",
+      "term": "Lien"
+    },
+    {
+      "definition": "(M) \"Nonlegacy trust\" means any trust other than a legacy trust.",
+      "id": "5816.02-nonlegacy-trust",
+      "normalized": "nonlegacy trust",
+      "scope": "As used in this chapter, unless the context otherwise requires:",
+      "section": "5816.02",
+      "source_title": "Section 5816.02 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5816.02",
+      "term": "Nonlegacy trust"
+    },
+    {
+      "definition": "(N) \"Nonqualified trustee\" means any trustee other than a qualified trustee.",
+      "id": "5816.02-nonqualified-trustee",
+      "normalized": "nonqualified trustee",
+      "scope": "As used in this chapter, unless the context otherwise requires:",
+      "section": "5816.02",
+      "source_title": "Section 5816.02 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5816.02",
+      "term": "Nonqualified trustee"
+    },
+    {
+      "definition": "(O) \"Person\" has the same meaning as in section 5801.01 of the Revised Code.",
+      "id": "5816.02-person",
+      "normalized": "person",
+      "scope": "As used in this chapter, unless the context otherwise requires:",
+      "section": "5816.02",
+      "source_title": "Section 5816.02 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5816.02",
+      "term": "Person"
+    },
+    {
+      "definition": "(P) \"Property\" has the same meaning as in section 5801.01 of the Revised Code.",
+      "id": "5816.02-property",
+      "normalized": "property",
+      "scope": "As used in this chapter, unless the context otherwise requires:",
+      "section": "5816.02",
+      "source_title": "Section 5816.02 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5816.02",
+      "term": "Property"
+    },
+    {
+      "definition": "(Q) \"Qualified affidavit\" means an affidavit that meets the requirements of section 5816.06 of the Revised Code.",
+      "id": "5816.02-qualified-affidavit",
+      "normalized": "qualified affidavit",
+      "scope": "As used in this chapter, unless the context otherwise requires:",
+      "section": "5816.02",
+      "source_title": "Section 5816.02 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5816.02",
+      "term": "Qualified affidavit"
+    },
+    {
+      "definition": "(R) \"Qualified disposition\" means a disposition by or from a transferor to any trustee of a trust that is, was, or becomes a legacy trust.",
+      "id": "5816.02-qualified-disposition",
+      "normalized": "qualified disposition",
+      "scope": "As used in this chapter, unless the context otherwise requires:",
+      "section": "5816.02",
+      "source_title": "Section 5816.02 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5816.02",
+      "term": "Qualified disposition"
+    },
+    {
+      "definition": "(S) \"Qualified trustee\" means a person who is not a transferor and to whom both of the following apply:\n\n(1)(a) The person, if a natural person, is a resident of this state.\n\n(b) The person, if not a natural person, is authorized by the law of this state or by a court of competent jurisdiction of this state to act as a trustee and either of the following applies:\n\n(i) The activities of that person are subject to supervision by the Ohio superintendent of financial institutions, the federal deposit insurance corporation, the comptroller of the currency, or the office of thrift supervision or a successor of any of them.\n\n(ii) That person is a \"family trust company,\" as defined in section 1112.01 of the Revised Code, and that family trust company may be licensed or unlicensed for purposes of Chapter 1112. of the Revised Code, provided that all of the following also apply regardless of the family trust company's licensing status:\n\n(I) The family trust company shall maintain an office in this state, on either an exclusive basis or on a shared basis with one or more other persons.\n\n(II) The family trust company shall open and maintain at least one bank or brokerage account in this state.\n\n(III) The family trust company shall maintain in this state, on an exclusive or nonexclusive basis, electronic or physical records for the legacy trust.\n\n(IV) The family trust company shall satisfy all of the requirements imposed by divisions (B), (C), (D), and (E)(1) of section 1112.14 of the Revised Code.\n\n(V) No beneficiary of a legacy trust, when acting for or on behalf of a family trust company, or when acting as an officer, manager, director, employee, or other agent or representative of a family trust company, may have any vote or authority regarding any decision to make or withhold any distribution from such legacy trust to or for the benefit of that beneficiary.\n\nNothing in division (S)(1)(b)(ii) of this section shall prohibit a beneficiary from exercising any rights, powers, privileges, or authority granted to that beneficiary by or in any trust instrument governing a legacy trust.\n\n(2) The person maintains or arranges for custody in this state of some or all of the property that is the subject of the qualified disposition, maintains electronic or physical records for the legacy trust on an exclusive or nonexclusive basis, prepares or arranges for the preparation of required income tax returns for the legacy trust, or otherwise materially participates in the administration of the legacy trust.",
+      "id": "5816.02-qualified-trustee",
+      "normalized": "qualified trustee",
+      "scope": "As used in this chapter, unless the context otherwise requires:",
+      "section": "5816.02",
+      "source_title": "Section 5816.02 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5816.02",
+      "term": "Qualified trustee"
+    },
+    {
+      "definition": "(T) \"Spendthrift provision\" has the same meaning as in section 5801.01 of the Revised Code.",
+      "id": "5816.02-spendthrift-provision",
+      "normalized": "spendthrift provision",
+      "scope": "As used in this chapter, unless the context otherwise requires:",
+      "section": "5816.02",
+      "source_title": "Section 5816.02 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5816.02",
+      "term": "Spendthrift provision"
+    },
+    {
+      "definition": "(U) \"Spouse\" and \"former spouse\" means only the person to whom a transferor was married on or before a qualified disposition is made.",
+      "id": "5816.02-spouse",
+      "normalized": "spouse",
+      "scope": "As used in this chapter, unless the context otherwise requires:",
+      "section": "5816.02",
+      "source_title": "Section 5816.02 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5816.02",
+      "term": "Spouse"
+    },
+    {
+      "definition": "(U) \"Spouse\" and \"former spouse\" means only the person to whom a transferor was married on or before a qualified disposition is made.",
+      "id": "5816.02-former-spouse",
+      "normalized": "former spouse",
+      "scope": "As used in this chapter, unless the context otherwise requires:",
+      "section": "5816.02",
+      "source_title": "Section 5816.02 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5816.02",
+      "term": "former spouse"
+    },
+    {
+      "definition": "(V) \"Transferor\" means a person who directly or indirectly makes a disposition.",
+      "id": "5816.02-transferor",
+      "normalized": "transferor",
+      "scope": "As used in this chapter, unless the context otherwise requires:",
+      "section": "5816.02",
+      "source_title": "Section 5816.02 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5816.02",
+      "term": "Transferor"
+    },
+    {
+      "definition": "(W) \"Valid lien\" has the same meaning as in section 1336.01 of the Revised Code.\n\nLast updated May 20, 2021 at 2:22 PM",
+      "id": "5816.02-valid-lien",
+      "normalized": "valid lien",
+      "scope": "As used in this chapter, unless the context otherwise requires:",
+      "section": "5816.02",
+      "source_title": "Section 5816.02 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5816.02",
+      "term": "Valid lien"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "5816.11",
+      "number": "5816.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5816.11"
+    },
+    {
+      "kind": "section",
+      "label": "2329.66",
+      "number": "2329.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2329.66"
+    },
+    {
+      "kind": "section",
+      "label": "5801.01",
+      "number": "5801.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5801.01"
+    },
+    {
+      "kind": "section",
+      "label": "1336.01",
+      "number": "1336.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1336.01"
+    },
+    {
+      "kind": "section",
+      "label": "5816.06",
+      "number": "5816.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5816.06"
+    },
+    {
+      "kind": "section",
+      "label": "1112.01",
+      "number": "1112.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1112.01"
+    },
+    {
+      "kind": "section",
+      "label": "1112.14",
+      "number": "1112.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1112.14"
+    }
+  ],
+  "scraped": "2026-07-02T20:16:19+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5816.02",
+  "title": "Section 5816.02 - Definitions."
+}

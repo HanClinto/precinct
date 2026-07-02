@@ -1,0 +1,627 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 5705.01 - Tax levy law definitions.",
+      "number": "5705.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.02 - Ten-mill limitation.",
+      "number": "5705.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.03 - Authorization to levy taxes - collection.",
+      "number": "5705.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.04 - Division of taxes levied.",
+      "number": "5705.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.05 - Purpose and intent of general levy for current expenses.",
+      "number": "5705.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.06 - Special levies without vote of the people within ten-mill limitation.",
+      "number": "5705.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.07 - Levies in excess of ten-mill limitation.",
+      "number": "5705.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.08 - Certification by fiscal officer.",
+      "number": "5705.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.09 - Establishment of funds.",
+      "number": "5705.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.091 - County developmental disabilities general fund - capital fund - medicaid reserve fund.",
+      "number": "5705.091",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.091"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.10 - Use of revenues.",
+      "number": "5705.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.11 - Distribution of revenue derived from federal government.",
+      "number": "5705.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.12 - Approval to establish special funds.",
+      "number": "5705.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.121 - Other special funds.",
+      "number": "5705.121",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.121"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.13 - Reserve balance accounts - special revenue fund - capital projects fund.",
+      "number": "5705.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.131 - Nonexpendable trust fund.",
+      "number": "5705.131",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.131"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.132 - Reserve balance account for other purposes.",
+      "number": "5705.132",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.132"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.14 - Transfer of funds.",
+      "number": "5705.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.15 - Transfer of public funds - exceptions.",
+      "number": "5705.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.16 - Resolution for transfer of funds; petition; approval or disapproval by tax commissioner.",
+      "number": "5705.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.17 - School district carryover balance ballot language.",
+      "number": "5705.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.18 - Charter prevails over ten-mill limitation - calculation of tax rate.",
+      "number": "5705.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.19 - Resolution relative to tax levy in excess of ten-mill limitation.",
+      "number": "5705.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.191 - Levy in excess of ten-mill limitation - political subdivisions other than schools.",
+      "number": "5705.191",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.191"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.193 - County anticipation notes for permanent improvement or class of permanent improvements.",
+      "number": "5705.193",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.193"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.194 - Levy in excess of ten-mill limitation - schools.",
+      "number": "5705.194",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.194"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.195 - Fixed-sum levy: calculation of millage and term.",
+      "number": "5705.195",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.195"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.196 - Fixed-sum levy: submission of question to electors.",
+      "number": "5705.196",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.196"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.197 - Fixed-sum levy: form of ballot.",
+      "number": "5705.197",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.197"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.198 - Tax levy by joint recreation district.",
+      "number": "5705.198",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.198"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.199 - School levy in excess of ten-mill limitation.",
+      "number": "5705.199",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.199"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.20 - Special levy for tuberculosis treatment or clinics.",
+      "number": "5705.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.21 - Special election on additional school district levy.",
+      "number": "5705.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.212 - School levy of up to five incremental taxes.",
+      "number": "5705.212",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.212"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.213 - Special school district election on levy for current expenses - renewal levy.",
+      "number": "5705.213",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.213"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.214 - Frequency of school district elections.",
+      "number": "5705.214",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.214"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.215 - County school financing district levy.",
+      "number": "5705.215",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.215"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.216 - Issuing additional anticipation notes for school purposes.",
+      "number": "5705.216",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.216"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.217 - Holding special elections on additional tax for school district purposes.",
+      "number": "5705.217",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.217"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.218 - Holding special elections on general obligation bonds for school district purposes.",
+      "number": "5705.218",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.218"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.219 - Conversion of existing levies imposed for the purpose of current expenses into a levy raising a specified amount of tax money.",
+      "number": "5705.219",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.219"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.2110 - Certification of tax amount.",
+      "number": "5705.2110",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.2110"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.2111 - Proposal for levy in excess of limitation.",
+      "number": "5705.2111",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.2111"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.2112 - Tax levy to fund acquisition of classroom facilities that benefit the qualifying partnership.",
+      "number": "5705.2112",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.2112"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.2113 - Levy of tax in excess of ten mill limitation for purpose of acquiring classroom facilities and necessary appurtenances.",
+      "number": "5705.2113",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.2113"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.2114 - Career-technical cooperative education district levy.",
+      "number": "5705.2114",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.2114"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.22 - Additional levy for county hospitals.",
+      "number": "5705.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.221 - Additional levy for county alcohol, drug addiction, and mental health programs.",
+      "number": "5705.221",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.221"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.222 - Additional levy for county developmental disabilities programs.",
+      "number": "5705.222",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.222"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.23 - Special levy for public library - resolution - submission to electors.",
+      "number": "5705.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.233 - General obligation bonds for permanent improvements to criminal justice facilities.",
+      "number": "5705.233",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.233"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.24 - County tax levy for support of children services.",
+      "number": "5705.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.25 - Submission of proposed levy - notice of election - form of ballot - certification.",
+      "number": "5705.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.251 - Election on incremental taxes for schools.",
+      "number": "5705.251",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.251"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.252 - Election on transportation services.",
+      "number": "5705.252",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.252"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.26 - Majority vote necessary for levies.",
+      "number": "5705.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.261 - Election on decrease of an increased rate of levy approved for a continuing period of time.",
+      "number": "5705.261",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.261"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.27 - County budget commission.",
+      "number": "5705.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.28 - Adoption of tax budget - procedure for participation by public library trustees.",
+      "number": "5705.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.281 - Waiving requirement of adoption of tax budget.",
+      "number": "5705.281",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.281"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.29 - Contents of tax budget - contingency reserve balance - spending reserve.",
+      "number": "5705.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.30 - Public inspection of budget - hearing - notice - submission to county auditor.",
+      "number": "5705.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.31 - Approval of levies by budget commission - minimum levy.",
+      "number": "5705.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.311 - Application of levy to annexed territory.",
+      "number": "5705.311",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.311"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.312 - Increasing minimum levy to pay debt service.",
+      "number": "5705.312",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.312"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.313 - Permitting property tax rate reduction when county sales tax increased.",
+      "number": "5705.313",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.313"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.314 - Conducting public hearing on proposed school levy.",
+      "number": "5705.314",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.314"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.315 - Effect of annexation on minimum municipal and township levies.",
+      "number": "5705.315",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.315"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.316 - Inflation limitation on levies within the ten-mill limitation.",
+      "number": "5705.316",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.316"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.32 - Budget commission to adjust amounts required - revision of estimate - distribution - hearing.",
+      "number": "5705.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.321 - Alternative method of apportionment.",
+      "number": "5705.321",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.321"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.322 - Reducing taxing authority of counties in connection with developmental disabilities general fund.",
+      "number": "5705.322",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.322"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.33 - Reduction of operating levy.",
+      "number": "5705.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.34 - Certification of tax levy - revision of budget.",
+      "number": "5705.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.341 - Right of appeal.",
+      "number": "5705.341",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.341"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.35 - Contents of certification.",
+      "number": "5705.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.36 - Certification of available revenue - additional revenue - amended official certificate.",
+      "number": "5705.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.37 - Appeal to board of tax appeals.",
+      "number": "5705.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.38 - Annual appropriation measures - classification.",
+      "number": "5705.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.39 - Appropriations limited by estimated revenue.",
+      "number": "5705.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.391 - Board of education revenues and expenditures report.",
+      "number": "5705.391",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.391"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.392 - County spending plan.",
+      "number": "5705.392",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.392"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.40 - Amending or supplementing appropriation ordinance - transfer - unencumbered balance - appropriation for contingencies.",
+      "number": "5705.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.41 - Restriction upon appropriation and expenditure of money.",
+      "number": "5705.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.411 - Anticipated proceeds from levy for permanent improvement are deemed appropriated.",
+      "number": "5705.411",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.411"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.412 - Certificate of revenue required for school district expenditures.",
+      "number": "5705.412",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.412"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.42 - Grants by United States government.",
+      "number": "5705.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.43 - Improvements paid by special assessments.",
+      "number": "5705.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.44 - Contracts running beyond fiscal year - certificate not required on contracts payable from utility earnings.",
+      "number": "5705.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.45 - Liability for wrongful payments from public funds - enforcement.",
+      "number": "5705.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.46 - Payment of current payrolls.",
+      "number": "5705.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.47 - Existing actions or proceedings.",
+      "number": "5705.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.48 - Joint budget commission - adjustment of tax rate.",
+      "number": "5705.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.49 - Subdivision's power to tax - limitation.",
+      "number": "5705.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.50 - Subdivisions may expend local funds for real property inventory.",
+      "number": "5705.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.51 - Indirect debt limitation.",
+      "number": "5705.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.55 - Resolution regarding tax levy in excess of limitation by board of lake facilities authority.",
+      "number": "5705.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.60 - Fixed-sum levy rate adjustment.",
+      "number": "5705.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.61 - Tax on use, lease or occupancy of public real property not used for public purpose.",
+      "number": "5705.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.62 - Payment of tax.",
+      "number": "5705.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.63 - Distributing tax revenue.",
+      "number": "5705.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.71 - County levy for senior citizens services or facilities.",
+      "number": "5705.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5705.72 - Levy of tax in excess of limitation for transportation services.",
+      "number": "5705.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.72"
+    }
+  ],
+  "scraped": "2026-07-02T20:14:22+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-5705",
+  "title": "Chapter 5705 - Tax Levy Law"
+}

@@ -1,0 +1,150 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4729.554
+Scraped: 2026-07-02T20:06:59+00:00
+
+# Section 4729.554 - Remote dispensing pharmacies.
+
+**Effective:** April 9, 2025
+
+**Latest Legislation:** Senate Bill 95 - 135th General Assembly
+
+(A) As used in this section:
+
+(1) "Remote dispensing pharmacy" means a pharmacy where the dispensing of drugs, patient counseling, and other pharmacist care is provided through a telepharmacy system. The dispensing of drugs at a remote dispensing pharmacy may include the dispensing of drug therapy related devices.
+
+(2) "Telepharmacy system" means a system that monitors the dispensing of drugs and provides for related drug utilization review and patient counseling services by an electronic method.
+
+(B) The state board of pharmacy shall regulate remote dispensing pharmacies in accordance with this section. A remote dispensing pharmacy may operate only by using a telepharmacy system that meets standards established in rules adopted under this section and by complying with all other requirements of this section and the rules adopted under it for operating a remote dispensing pharmacy.
+
+(C)(1) To be eligible to operate as a remote dispensing pharmacy, a pharmacy shall meet all of the following conditions:
+
+(a) Be licensed under this chapter as a terminal distributor of dangerous drugs;
+
+(b) Be located in this state, in a building that is zoned for commercial use, and in an area that meets the conditions of division (C)(2) of this section;
+
+(c) Have a supervising pharmacy that meets the requirements of division (D) of this section and a supervising pharmacist that meets the requirements of division (E) of this section;
+
+(d) Be staffed by two or more pharmacy interns or certified pharmacy technicians who meet qualifications and training requirements established in rules adopted under this section.
+
+(2)(a) Except as provided in division (C)(2)(b) of this section, a remote dispensing pharmacy shall not be located within a ten-mile radius of a pharmacy that serves the public as an outpatient pharmacy.
+
+(b) A remote dispensing pharmacy may be located within the ten-mile radius that constitutes an excluded area for location, as described in division (C)(2)(a) of this section, if either of the following is the case:
+
+(i) The remote dispensing pharmacy is part of a federally qualified health center or federally qualified health center look-alike, as defined in section 3701.047 of the Revised Code, and the remote dispensing pharmacy is located on the same property as, or on a campus contiguous to, the health center or look-alike.
+
+(ii) The board, based on a demonstration of need that meets the standards established in rules adopted under this section, approves a request submitted to the board to allow the remote dispensing pharmacy to be located within the ten-mile radius.
+
+(c) As part of the process the board uses to consider requests received under division (C)(2)(b)(ii) of this section, the board shall establish a method by which persons may register to receive notice from the board of requests received under that division. The board also shall establish a system for accepting comments from the public regarding the requests.
+
+When the board receives a request under division (C)(2)(b)(ii) of this section, it shall electronically notify any person who has registered to be notified. During the sixty-day period that begins on the date that the board sends the electronic notices, a pharmacy may submit a request to the board for approval as a location for operation of a remote dispensing pharmacy.
+
+On the same date that the electronic notices are sent, the board shall post notice on its internet web site that comments from the public will be accepted regarding the request received under division (C)(2)(b)(ii) of this section. The board shall accept the comments only during the sixty-day period that begins on the date the electronic notices are sent.
+
+At the board's next regularly scheduled meeting that occurs on or after the date that is ninety days after the electronic notices are sent, the board shall review all of the requests received and make its determination of whether any should be approved. As part of the board's determination, the board shall consider the following:
+
+(i) Any comments received from the public;
+
+(ii) The geographic proximity of a supervising pharmacy to a proposed remote dispensing pharmacy;
+
+(iii) Any other standards specified in rules adopted under division (H) of this section.
+
+(D)(1) To be eligible to serve as the supervising pharmacy of a remote dispensing pharmacy, a pharmacy shall meet all of the following conditions:
+
+(a) Be licensed under this chapter as a terminal distributor of dangerous drugs;
+
+(b) Be physically located in this state;
+
+(c) Be under common ownership and control with the remote dispensing pharmacy or, pursuant to a contract that meets requirements specified in rules adopted under this section, operate under contract with the remote dispensing pharmacy.
+
+(2) In serving as a supervising pharmacy, the supervising pharmacy shall control the telepharmacy system used by the remote dispensing pharmacy and shall employ or contract with the supervising pharmacist of the remote dispensing pharmacy.
+
+(E)(1) To be eligible to serve as the supervising pharmacist of a remote dispensing pharmacy, a pharmacist shall meet all of the following conditions:
+
+(a) Be licensed under this chapter as a pharmacist;
+
+(b) Be physically located in this state when acting as the supervising pharmacist;
+
+(c) Be employed by or under contract with the supervising pharmacy.
+
+(2) In serving as a supervising pharmacist, the supervising pharmacist shall do all of the following:
+
+(a) Be in full and actual charge of the remote dispensing pharmacy by using the pharmacy's telepharmacy system and by using a surveillance system that meets standards established in rules adopted under this section;
+
+(b) Through the telepharmacy system and surveillance system, oversee the pharmacy interns and certified pharmacy technicians who are staffing the remote dispensing pharmacy;
+
+(c) Verify each prescription and drug dispensed pursuant to the prescription before the drug leaves the remote dispensing pharmacy and provide the verification through visual review and the use of barcoding and any other technology required in rules adopted under this section;
+
+(d) Offer to provide the service of counseling for each drug dispensed pursuant to a new prescription for a patient at the remote dispensing pharmacy.
+
+(3) Unless otherwise approved by the board in accordance with standards established in rules adopted under this section, a supervising pharmacist shall not simultaneously oversee the activities of more than one remote dispensing pharmacy.
+
+(F) All of the following apply to the operation of a remote dispensing pharmacy:
+
+(1) Unless otherwise approved by the board, a remote dispensing pharmacy shall not dispense drugs pursuant to more than an average of one hundred fifty prescriptions per day during a ninety-day period.
+
+(2) A remote dispensing pharmacy shall implement a quality assurance plan to ensure that there is a planned and systematic process for monitoring and evaluating the quality and appropriateness of the pharmacy services being provided and for identifying and resolving problems.
+
+(3) A remote dispensing pharmacy that holds a category III terminal distributor of dangerous drugs license shall maintain a perpetual controlled substance inventory, as specified in rules adopted under this section.
+
+(G) Notwithstanding section 4729.91 of the Revised Code or any other section of this chapter to the contrary, both of the following apply to a pharmacy intern or certified pharmacy technician staffing a remote dispensing pharmacy:
+
+(1) The intern or technician may assist in the process of dispensing drugs at the pharmacy.
+
+(2) The intern or technician shall not do any of the following:
+
+(a) Counsel an individual regarding drugs that are dispensed, recommend drugs and drug therapy related devices or otherwise provide advice regarding drug therapy, or assist with selecting drugs and drug therapy related devices for treatment of common diseases and injuries or assist with providing instruction on their use;
+
+(b) Perform compounding of sterile or nonsterile drugs, except for the reconstitution of prepackaged dangerous drugs;
+
+(c) Engage in the repackaging of dangerous drugs;
+
+(d) Administer immunizations or perform diagnostic testing, unless a pharmacist is onsite to provide direct supervision;
+
+(e) Perform any other activity prohibited by rules adopted under this section.
+
+(H) The board shall adopt rules for purposes of its regulation of remote dispensing pharmacies. The rules shall be adopted in accordance with Chapter 119. of the Revised Code and include all of the following:
+
+(1) Standards for a system of continuous video surveillance and recording of remote dispensing pharmacies, including standards for both of the following:
+
+(a) An adequate number of views of the entire remote dispensing pharmacy to ensure that the supervising pharmacist can maintain oversight;
+
+(b) Retention of each recording made by the system for at least sixty days after the date of the recording.
+
+(2) Standards for telepharmacy systems and surveillance systems used by remote dispensing pharmacies, supervising pharmacies, and supervising pharmacists, including standards to ensure that the systems are capable of all of the following:
+
+(a) Facilitating a safe and secured method for appropriate pharmacist supervision;
+
+(b) Allowing an appropriate exchange of visual, verbal, and written communications for patient counseling and other pharmacy services;
+
+(c) Being secure and compliant with the "Health Insurance Portability and Accountability Act of 1996," 42 U.S.C. 1320d et seq.
+
+(3) Requirements for any contract between a supervising pharmacy and a remote dispensing pharmacy;
+
+(4) Standards that must be met to make a demonstration of need for purposes of division (C)(2)(b)(ii) of this section;
+
+(5) Requirements for the implementation of a quality assurance plan by a remote dispensing pharmacy;
+
+(6) The qualifications and training necessary for pharmacy interns and certified pharmacy technicians who staff remote dispensing pharmacies, including the number of experiential hours required;
+
+(7) Any additional activities that pharmacy interns and certified pharmacy technicians staffing remote dispensing pharmacies are prohibited from performing;
+
+(8) The number of pharmacy interns and certified pharmacy technicians that a supervising pharmacist may supervise at any given time;
+
+(9) The maximum distance a supervising pharmacist may be physically located from the remote dispensing pharmacy;
+
+(10) Standards for remote patient counseling by a supervising pharmacist, including the counseling that is required to be offered for each drug dispensed pursuant to a new prescription for a patient by the remote dispensing pharmacy;
+
+(11) Standards for and frequency of inspection of a remote dispensing pharmacy by the supervising pharmacist;
+
+(12) Requirements for the closure of a remote dispensing pharmacy if the required telepharmacy system or surveillance system, or any related security system used by or for the pharmacy, is malfunctioning;
+
+(13) Requirements related to perpetual controlled substance inventories;
+
+(14) Security requirements for remote dispensing pharmacies that include methods for supervising pharmacists to determine who has accessed the pharmacy;
+
+(15) Standards by which a supervising pharmacist may be approved by the board to oversee simultaneously more than one remote dispensing pharmacy;
+
+(16) Requirements for a remote dispensing pharmacy's responsible person, as that term is defined in rules adopted by the board;
+
+(17) Any other standards or procedures the board considers necessary to implement this section.
+
+Last updated April 8, 2025 at 3:51 PM

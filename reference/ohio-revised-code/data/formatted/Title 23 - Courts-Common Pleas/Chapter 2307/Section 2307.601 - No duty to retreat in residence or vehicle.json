@@ -1,0 +1,42 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Residence\" has the same meaning as in section 2901.05 of the Revised Code.",
+      "id": "2307.601-residence",
+      "normalized": "residence",
+      "scope": "(A) As used in this section:",
+      "section": "2307.601",
+      "source_title": "Section 2307.601 - No duty to retreat in residence or vehicle.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2307.601",
+      "term": "Residence"
+    },
+    {
+      "definition": "(2) \"Tort action\" has the same meaning as in section 2307.60 of the Revised Code.\n\n(B) For purposes of determining the potential liability of a person in a tort action related to the person's use of force alleged to be in self-defense, defense of another, or defense of the person's residence, the person has no duty to retreat before using force in self-defense, defense of another, or defense of that person's residence if that person is in a place in which the person lawfully has a right to be.\n\n(C) A trier of fact shall not consider the possibility of retreat as a factor in determining whether or not a person who used force in self-defense, defense of another, or defense of that person's residence reasonably believed that the force was necessary to prevent injury, loss, or risk to life or safety.",
+      "id": "2307.601-tort-action",
+      "normalized": "tort action",
+      "scope": "(A) As used in this section:",
+      "section": "2307.601",
+      "source_title": "Section 2307.601 - No duty to retreat in residence or vehicle.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2307.601",
+      "term": "Tort action"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2901.05",
+      "number": "2901.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2901.05"
+    },
+    {
+      "kind": "section",
+      "label": "2307.60",
+      "number": "2307.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.60"
+    }
+  ],
+  "scraped": "2026-07-02T19:43:26+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2307.601",
+  "title": "Section 2307.601 - No duty to retreat in residence or vehicle."
+}

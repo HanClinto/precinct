@@ -1,0 +1,28 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4955.42
+Scraped: 2026-07-02T20:09:50+00:00
+
+# Section 4955.42 - Railroad quiet zones - municipal corporation or township may establish - procedure.
+
+**Effective:** November 18, 2004
+
+**Latest Legislation:** House Bill 247 - 125th General Assembly
+
+(A) A municipal corporation or township may establish within its jurisdiction one or more railroad quiet zones implementing and using one or more supplemental safety measures, through the enactment or adoption, after the effective date of initial regulations adopted pursuant to the "Swift Rail Development Act," Pub. L. No. 103-440, 108 Stat. 4615, 49 U.S.C. 20153, of an ordinance or resolution authorizing each zone and subject to public utilities commission approval under this section.
+
+(B)(1) Following enactment of an ordinance or resolution under division (A) of this section, the municipal corporation or township shall send a detailed written notice by certified mail, return receipt requested, to each railroad operating over a public grade crossing within the quiet zone. The notice shall request the railroad to give a written reply that includes its comments about the quiet zone and details any concerns the railroad has with any aspect of the quiet zone. The notice shall inform the railroad that if the municipal corporation or township does not receive the railroad's written reply within sixty days of the date of delivery of the notice, the municipal corporation or township is permitted to submit its application for approval of the quiet zone to the commission without the railroad's written reply and inform the commission that it provided the written notice as required by this section but that the railroad did not reply in a timely manner.
+
+(2) The municipal corporation or township then may file with the commission an application for commission approval of the railroad quiet zone authorized pursuant to the ordinance or resolution. The application shall be in such form and contain such information as the commission specifies. All applications also shall include all of the following:
+
+(a) The written reply described in division (B)(1) of this section, if any, from each railroad operating over a public grade crossing located within the quiet zone. If there is a written reply and it contains concerns that the railroad has about any aspect of the quiet zone, the municipal corporation or township shall include a written statement explaining how it will meet those concerns.
+
+(b) A written statement from the federal railroad administration, stating that the agency has no objection to the establishment of the quiet zone;
+
+(c) If a municipal corporation or township makes application under this division and wishes to pay all or part of the cost of the installation or maintenance of supplemental safety measures at a highway grade crossing located within the quiet zone in an adjoining municipal corporation or township, a written statement from the adjoining municipal corporation or township agreeing to that arrangement;
+
+(d) A list of the private grade crossings, if any, that are located within the quiet zone, and a description of how the municipal corporation or township will ensure the safety of those who utilize those private grade crossings if the commission approves the quiet zone.
+
+(3) Any combination of municipal corporations and townships may file a joint application for commission approval of quiet zones within their respective jurisdictions.
+
+(C) Upon the filing of an application under division (B) of this section, the commission shall authorize a limited period for the filing of comments by any party regarding the application. After considering any such comments and only by order issued after the effective date of initial regulations adopted pursuant to the "Swift Rail Development Act," Pub. L. No. 103-440, 108 Stat. 4615, 49 U.S.C. 20153, the commission may approve the application, approve it with conditions, or reject the application. If the application is complete and otherwise meets all the requirements of this section, the commission shall approve the railroad quiet zone if the commission finds that the supplemental safety measures proposed for each public crossing included in the zone comply with the guidelines for the use and operation of those measures as set forth in Appendix (A) of 49 C.F.R. part 222 and are appropriate and adequate for the crossing. If the commission disapproves all or part of an application as to a particular crossing, the commission's order shall state the findings and reasons for disapproval. Nothing in this section precludes the subsequent filing of a substantially modified application by the municipal corporation or township.
+
+The commission shall reject an application that does not include the documents described in divisions (B)(2)(a), (b), and, if applicable, (B)(2)(c) and (d) of this section. If the application includes a written reply and a written statement described in division (B)(2)(a) of this section, the commission shall reject the application if the commission finds that the statement from the municipal corporation or township does not adequately address the concerns of the railroad contained in the railroad's written reply. If the application includes a statement described in division (B)(2)(d) of this section, the commission shall reject the application if the commission finds that the application does not adequately address the issue of the safety of those persons who will utilize the private grade crossings located within the quiet zone if the commission approves its creation.

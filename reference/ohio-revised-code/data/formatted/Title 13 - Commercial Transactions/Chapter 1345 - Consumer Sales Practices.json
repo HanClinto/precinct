@@ -1,0 +1,423 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 1345.01 - Consumer sales practices definitions.",
+      "number": "1345.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.02 - Unfair or deceptive acts or practices.",
+      "number": "1345.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.021 - Ethanol blended or mixed into gasoline.",
+      "number": "1345.021",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.021"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.022 - Installation of unsafe used tires.",
+      "number": "1345.022",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.022"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.03 - Unconscionable consumer sales acts or practices.",
+      "number": "1345.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.031 - Unconscionable acts by supplier prohibited - unconscionable provisions.",
+      "number": "1345.031",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.031"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.032 - Suppliers soliciting fees for copies of deeds.",
+      "number": "1345.032",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.032"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.04 - Jurisdiction.",
+      "number": "1345.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.05 - Attorney general powers and duties.",
+      "number": "1345.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.06 - Investigations by attorney general.",
+      "number": "1345.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.07 - Remedies of attorney general.",
+      "number": "1345.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.08 - Attorney general to coordinate with other administrative agency.",
+      "number": "1345.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.09 - Private causes of action.",
+      "number": "1345.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.091 - Claim or defense against assignee of loan.",
+      "number": "1345.091",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.091"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.092 - Supplier's right to cure.",
+      "number": "1345.092",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.092"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.10 - Final judgment admissible as prima facie evidence.",
+      "number": "1345.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.11 - Bona fide errors.",
+      "number": "1345.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.12 - Applicability of chapter - exceptions.",
+      "number": "1345.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.13 - Remedies in addition to other remedies.",
+      "number": "1345.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.18 - Prior, verified consent required to switch natural gas or public telecommunications service provider.",
+      "number": "1345.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.19 - Jurisdiction.",
+      "number": "1345.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.20 - Action by aggrieved consumer for switch in natural gas or public telecommunications service providers with consent.",
+      "number": "1345.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.21 - Home solicitation sale definitions.",
+      "number": "1345.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.22 - Right of buyer to cancel.",
+      "number": "1345.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.23 - Written agreement or offer to purchase.",
+      "number": "1345.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.24 - Retaining notice of cancellation.",
+      "number": "1345.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.25 - Presumption.",
+      "number": "1345.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.26 - Right of buyer after cancellation.",
+      "number": "1345.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.27 - Right of seller after cancellation.",
+      "number": "1345.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.28 - Deceptive acts or practices.",
+      "number": "1345.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.30 - Fitting, sale, and returns of hearing aids.",
+      "number": "1345.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.31 - Failing to comply with refund obligations.",
+      "number": "1345.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.41 - Prepaid entertainment contract definitions.",
+      "number": "1345.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.42 - Contract provision of prepaid entertainment contracts.",
+      "number": "1345.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.421 - Surety bond where facility under construction and not available for service at time buyer signs contract.",
+      "number": "1345.421",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.421"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.43 - Right of buyer to cancel.",
+      "number": "1345.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.44 - Prepaid entertainment contract form.",
+      "number": "1345.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.45 - Retaining notice of cancellation.",
+      "number": "1345.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.46 - Buyer to deliver goods or evidence of membership to seller after cancellation.",
+      "number": "1345.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.47 - Defenses of buyer against holder in due course.",
+      "number": "1345.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.48 - Deceptive acts or practices - damages.",
+      "number": "1345.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.49 - Buyer's waiver void.",
+      "number": "1345.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.50 - Remedies.",
+      "number": "1345.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.51 - Consumer protection enforcement fund.",
+      "number": "1345.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.52 - Title defect recision fund.",
+      "number": "1345.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.61 - Invention development services definitions.",
+      "number": "1345.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.62 - Invention development services contracts.",
+      "number": "1345.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.63 - Conspicuous and legible cover sheet with notice.",
+      "number": "1345.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.64 - Record of contacts.",
+      "number": "1345.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.65 - Contract contents.",
+      "number": "1345.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.66 - Remedies.",
+      "number": "1345.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.67 - Maintaining bond.",
+      "number": "1345.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.67"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.68 - Effect on other obligations, rights, or remedies.",
+      "number": "1345.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.68"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.71 - Nonconforming new motor vehicle law definitions.",
+      "number": "1345.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.72 - Duty to repair - repair unsuccessful.",
+      "number": "1345.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.73 - Presumptions.",
+      "number": "1345.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.74 - Providing written statement of rights.",
+      "number": "1345.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.74"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.75 - Civil action for loss.",
+      "number": "1345.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.76 - Resale or lease of buyback conditions.",
+      "number": "1345.76",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.76"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.77 - Establishment and qualification of informal dispute resolution mechanism.",
+      "number": "1345.77",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.77"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.78 - Buyback violations.",
+      "number": "1345.78",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.78"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.81 - Using nonoriginal equipment manufacturer aftermarket crash parts.",
+      "number": "1345.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.90 - Defective assistive device definitions.",
+      "number": "1345.90",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.90"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.91 - Express written warranty.",
+      "number": "1345.91",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.91"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.92 - Repair is unsuccessful or untimely.",
+      "number": "1345.92",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.92"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.93 - Returned devices.",
+      "number": "1345.93",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.93"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.94 - Applicability of consumer sales practices act.",
+      "number": "1345.94",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.94"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.95 - Remedies waiver of rights.",
+      "number": "1345.95",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.95"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1345.99 - Penalty.",
+      "number": "1345.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.99"
+    }
+  ],
+  "scraped": "2026-07-02T19:37:25+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-1345",
+  "title": "Chapter 1345 - Consumer Sales Practices"
+}

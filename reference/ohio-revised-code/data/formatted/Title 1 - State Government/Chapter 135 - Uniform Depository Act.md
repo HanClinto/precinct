@@ -1,0 +1,87 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-135
+Scraped: 2026-07-02T19:31:50+00:00
+
+# Chapter 135 - Uniform Depository Act
+
+## Sections
+
+- Section 135.01 - Uniform depository act definitions.
+- Section 135.02 - State board of deposit.
+- Section 135.03 - Institutions eligible as public depositories.
+- Section 135.032 - Active prompt correction directive.
+- Section 135.04 - Eligibility for state deposits - warrant clearance accounts.
+- Section 135.05 - Estimate of inactive deposits.
+- Section 135.06 - Application for inactive deposits.
+- Section 135.07 - Award of inactive deposits.
+- Section 135.08 - Application for interim deposits.
+- Section 135.09 - Award of interim deposits.
+- Section 135.10 - Application for active deposits.
+- Section 135.11 - Exemption from prohibition against interest in contract.
+- Section 135.12 - Designating depositories biennially.
+- Section 135.13 - Evidence of inactive and interim deposits.
+- Section 135.14 - Investing interim moneys of public subdivisions.
+- Section 135.141 - Municipal corporation may invest interim moneys in linked deposits.
+- Section 135.142 - Board of education investment of interim moneys.
+- Section 135.143 - Investment authority for state interim funds.
+- Section 135.145 - Redeposit of interim moneys moneys.
+- Section 135.1411 - Municpal corporation environmental, social, personal, or ideology investment prohibition.
+- Section 135.15 - Transferring funds from one classification to another.
+- Section 135.16 - Payment of interest.
+- Section 135.17 - Cash reserve.
+- Section 135.18 - Security for repayment of public moneys.
+- Section 135.181 - Optional pledging requirements.
+- Section 135.182 - Ohio pooled collateral program.
+- Section 135.19 - Failure of public depository.
+- Section 135.20 - Proportion of deposits in various banks subject to reasonable variation.
+- Section 135.21 - Investment earnings apportionment and crediting.
+- Section 135.22 - Annual continuing education programs for treasurers.
+- Section 135.31 - County depository definitions.
+- Section 135.32 - Institutions eligible as county public depositories.
+- Section 135.33 - Designating county depositories every four years.
+- Section 135.34 - Review of investment procedures semiannually.
+- Section 135.341 - County investment advisory committee.
+- Section 135.35 - County inactive moneys.
+- Section 135.351 - Crediting interest.
+- Section 135.352 - County library and local government support fund.
+- Section 135.353 - County may invest inactive moneys in linked deposits.
+- Section 135.354 - Redeposit of inactive moneys.
+- Section 135.36 - Transferring county funds from one classification to another.
+- Section 135.37 - Security for repayment of county public moneys.
+- Section 135.38 - Exemption of county officials from prohibition against interest in contract.
+- Section 135.39 - Exemption of county officials from liability.
+- Section 135.40 - County cash reserve.
+- Section 135.45 - State treasurer's investment pool.
+- Section 135.451 - Investments of history connection and capitol square review and advisory board.
+- Section 135.46 - Investment pools for temporary investment of bond proceeds.
+- Section 135.47 - Securities lending program - fund.
+- Section 135.48 - Adoption of rules.
+- Section 135.51 - Bank defaulting as public depository; retention and disposition of securities.
+- Section 135.52 - Bonds may be used in anticipation of collections - maturity - limitation - distribution of proceeds from sale.
+- Section 135.53 - Surplus assigned and delivered to defaulting bank or building and loan association.
+- Section 135.54 - Possession and control of securities vested in authorized agent - powers.
+- Section 135.61 - Linked deposit program investments and rules.
+- Section 135.62 - Linked deposit program definitions.
+- Section 135.621 - Submission of linked deposit loan package.
+- Section 135.622 - Accepting or rejecting a linked deposit loan package.
+- Section 135.623 - Deposit agreement.
+- Section 135.624 - Loan rates.
+- Section 135.625 - State not liable to borrowers or lenders.
+- Section 135.63 - Adoption linked deposit program.
+- Section 135.64 - Agricultural linked deposit program.
+- Section 135.65 - Small business linked deposit program.
+- Section 135.66 - Home improvement linked deposit program.
+- Section 135.70 - Homeownership savings linked deposit program definitions.
+- Section 135.701 - Submission of linked deposit savings package.
+- Section 135.702 - Accepting or rejecting a linked deposit savings package.
+- Section 135.703 - Deposit agreement.
+- Section 135.704 - Premium savings rate.
+- Section 135.705 - State not liable to participant or savings institution.
+- Section 135.71 - Purpose of homeownership savings linked deposit program.
+- Section 135.80 - Municipal, port or lake facilities authority, and county linked deposit program.
+- Section 135.801 - Adopting resolution implementing residential facility linked deposit program.
+- Section 135.802 - Contents of resolution implementing residential facility linked deposit program.
+- Section 135.803 - Certifying availability of public moneys.
+- Section 135.804 - Property tax payment linked deposit programs definitions.
+- Section 135.805 - Property tax payment linked deposit programs.
+- Section 135.806 - Duties of lending institution on receipt of RC 135.805 certificate.
+- Section 135.807 - Delivery of lien certificate to eligible lending institution.

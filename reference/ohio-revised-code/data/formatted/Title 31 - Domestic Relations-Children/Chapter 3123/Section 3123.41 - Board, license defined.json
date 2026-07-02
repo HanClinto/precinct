@@ -1,0 +1,42 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Board\" means any entity that has the authority pursuant to Title XLVII of the Revised Code to issue a license, and any other agency of this state, other than the supreme court, that has the authority to issue a license that authorizes an individual to engage in an occupation or profession. \"Board\" includes an administrative officer that has authority to issue a license that authorizes an individual to engage in an occupation or profession.",
+      "id": "3123.41-board",
+      "normalized": "board",
+      "scope": "As used in sections 3123.41 to 3123.50 of the Revised Code:",
+      "section": "3123.41",
+      "source_title": "Section 3123.41 - Board, license defined.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3123.41",
+      "term": "Board"
+    },
+    {
+      "definition": "(B) \"License\" includes a license, certificate, permit, registration, or other authorization to engage in an occupation or profession.",
+      "id": "3123.41-license",
+      "normalized": "license",
+      "scope": "As used in sections 3123.41 to 3123.50 of the Revised Code:",
+      "section": "3123.41",
+      "source_title": "Section 3123.41 - Board, license defined.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3123.41",
+      "term": "License"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3123.41",
+      "number": "3123.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.41"
+    },
+    {
+      "kind": "section",
+      "label": "3123.50",
+      "number": "3123.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3123.50"
+    }
+  ],
+  "scraped": "2026-07-02T19:48:00+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3123.41",
+  "title": "Section 3123.41 - Board, license defined."
+}

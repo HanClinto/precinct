@@ -1,0 +1,321 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 3105.01 - Divorce causes.",
+      "number": "3105.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3105.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3105.011 - Jurisdiction over domestic relations matters.",
+      "number": "3105.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3105.011"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3105.02 - Prohibited acts.",
+      "number": "3105.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3105.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3105.03 - Venue.",
+      "number": "3105.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3105.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3105.04 - Residence of spouse.",
+      "number": "3105.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3105.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3105.06 - Notice of pendency of action by publication when residence unknown.",
+      "number": "3105.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3105.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3105.08 - Converting divorce action into dissolution action.",
+      "number": "3105.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3105.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3105.091 - Conciliation procedures.",
+      "number": "3105.091",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3105.091"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3105.10 - Judgment - separation agreement.",
+      "number": "3105.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3105.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3105.12 - Proof of marriage.",
+      "number": "3105.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3105.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3105.16 - Restoring name before marriage.",
+      "number": "3105.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3105.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3105.17 - Complaint for divorce or legal separation.",
+      "number": "3105.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3105.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3105.171 - Equitable division of marital and separate property - distributive award.",
+      "number": "3105.171",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3105.171"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3105.18 - Awarding spousal support - modification of spousal support.",
+      "number": "3105.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3105.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3105.21 - Order for disposition, care and maintenance of children.",
+      "number": "3105.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3105.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3105.31 - Causes for annulment.",
+      "number": "3105.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3105.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3105.32 - When action for annulment must be commenced and by what parties.",
+      "number": "3105.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3105.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3105.34 - Restoring name before marriage.",
+      "number": "3105.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3105.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3105.41 - Definitions for sections 3105.41 to 3105.54.",
+      "number": "3105.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3105.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3105.42 - Laws applicable to collaborative family law participation agreement.",
+      "number": "3105.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3105.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3105.43 - Collaborative family law participation agreements; mandatory inclusions.",
+      "number": "3105.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3105.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3105.44 - Collaborative family law process.",
+      "number": "3105.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3105.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3105.45 - Representation by collaborative family lawyer.",
+      "number": "3105.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3105.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3105.46 - Informal disclosure of information.",
+      "number": "3105.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3105.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3105.47 - Applicability of professional responsibility provisions.",
+      "number": "3105.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3105.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3105.48 - Confidentiality of communications.",
+      "number": "3105.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3105.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3105.49 - Privileged communications.",
+      "number": "3105.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3105.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3105.50 - Waiver of privileges.",
+      "number": "3105.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3105.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3105.51 - Communications not subject to privilege.",
+      "number": "3105.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3105.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3105.52 - Effect of finding of intent to make an agreement.",
+      "number": "3105.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3105.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3105.53 - Electronic signatures.",
+      "number": "3105.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3105.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3105.54 - Short title.",
+      "number": "3105.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3105.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3105.61 - Jurisdiction.",
+      "number": "3105.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3105.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3105.62 - Residency requirement.",
+      "number": "3105.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3105.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3105.63 - Separation agreement provisions.",
+      "number": "3105.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3105.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3105.64 - Time of court appearance after filing petition.",
+      "number": "3105.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3105.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3105.65 - Power of court.",
+      "number": "3105.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3105.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3105.71 - Prohibiting cancellation of health insurance during pendency prior to court determination of responsibility.",
+      "number": "3105.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3105.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3105.73 - Award of attorney's fees and litigation expenses - factors considered - payment.",
+      "number": "3105.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3105.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3105.80 - Property division orders involving public retirement program definitions.",
+      "number": "3105.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3105.80"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3105.81 - Order for equitable division of property to require compliance with provisions.",
+      "number": "3105.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3105.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3105.82 - Requirements of order.",
+      "number": "3105.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3105.82"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3105.821 - Monthly benefit.",
+      "number": "3105.821",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3105.821"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3105.83 - Commencing payments.",
+      "number": "3105.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3105.83"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3105.84 - Defraying administrative costs.",
+      "number": "3105.84",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3105.84"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3105.85 - Limit on withholding.",
+      "number": "3105.85",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3105.85"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3105.86 - Terminating alternate payee rights.",
+      "number": "3105.86",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3105.86"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3105.87 - Disclosing participant's personal history record.",
+      "number": "3105.87",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3105.87"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3105.88 - Transmitting order to retirement program.",
+      "number": "3105.88",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3105.88"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3105.89 - Court retains jurisdiction - modification of orders.",
+      "number": "3105.89",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3105.89"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3105.90 - Form for court orders.",
+      "number": "3105.90",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3105.90"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3105.99 - Penalty.",
+      "number": "3105.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3105.99"
+    }
+  ],
+  "scraped": "2026-07-02T19:47:35+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-3105",
+  "title": "Chapter 3105 - Divorce, Alimony, Annulment, Dissolution Of Marriage"
+}

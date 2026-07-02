@@ -1,0 +1,82 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Compensation\" means money, thing of value, or financial benefit. \"Compensation\" does not include bail, fines, or court costs.",
+      "id": "2923.04-compensation",
+      "normalized": "compensation",
+      "scope": "(A) As used in this section:",
+      "section": "2923.04",
+      "source_title": "Section 2923.04 - Improper organizational involvement with a critical infrastructure facility.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2923.04",
+      "term": "Compensation"
+    },
+    {
+      "definition": "(2) \"Critical infrastructure facility\" has the same meaning as in section 2911.21 of the Revised Code.",
+      "id": "2923.04-critical-infrastructure-facility",
+      "normalized": "critical infrastructure facility",
+      "scope": "(A) As used in this section:",
+      "section": "2923.04",
+      "source_title": "Section 2923.04 - Improper organizational involvement with a critical infrastructure facility.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2923.04",
+      "term": "Critical infrastructure facility"
+    },
+    {
+      "definition": "(3) \"Organization\" has the same meaning as in section 2901.23 of the Revised Code.\n\n(B) No organization shall knowingly direct, authorize, facilitate, or encourage a person to commit any of the following offenses or provide compensation to a person for committing any of the following offenses:\n\n(1) Criminal mischief in violation of division (A)(7) of section 2909.07 of the Revised Code;\n\n(2) Criminal trespass in violation of division (A)(5) of section 2911.21 of the Revised Code;\n\n(3) Aggravated trespass in violation of division (A)(2) of section 2911.211 of the Revised Code;\n\n(4) Telecommunications harassment in violation of division (A)(4) of section 2917.21 of the Revised Code that involves a threat of damage to or destruction of a critical infrastructure facility;\n\n(5) Making false alarms in violation of division (A)(4) of section 2917.32 of the Revised Code.\n\n(C) Whoever violates this section is guilty of improper organizational involvement with a critical infrastructure facility. Notwithstanding section 2929.31 of the Revised Code, improper organizational involvement with a critical infrastructure facility shall be punished as follows:\n\n(1) A violation of division (B)(1) of this section shall be punished with a fine that is ten times the maximum fine that can be imposed on an individual for a violation of division (A)(7) of section 2909.07 of the Revised Code;\n\n(2) A violation of division (B)(2) of this section shall be punished with a fine that is ten times the maximum fine that can be imposed on an individual for a violation of division (A)(5) of section 2911.21 of the Revised Code;\n\n(3) A violation of division (B)(3) of this section shall be punished with a fine that is ten times the maximum fine that can be imposed on an individual for a violation of division (A)(2) of section 2911.211 of the Revised Code;\n\n(4) A violation of division (B)(4) of this section shall be punished with a fine that is ten times the maximum fine that can be imposed on an individual for a violation of division (A)(4) of section 2917.21 that involves a threat of damage to or destruction of a critical infrastructure facility;\n\n(5) A violation of division (B)(5) of this section shall be punished with a fine that is ten times the maximum fine that can be imposed on an individual for a violation of division (A)(4) of section 2917.32 of the Revised Code.",
+      "id": "2923.04-organization",
+      "normalized": "organization",
+      "scope": "(A) As used in this section:",
+      "section": "2923.04",
+      "source_title": "Section 2923.04 - Improper organizational involvement with a critical infrastructure facility.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2923.04",
+      "term": "Organization"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2911.21",
+      "number": "2911.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2911.21"
+    },
+    {
+      "kind": "section",
+      "label": "2901.23",
+      "number": "2901.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2901.23"
+    },
+    {
+      "kind": "section",
+      "label": "2909.07",
+      "number": "2909.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2909.07"
+    },
+    {
+      "kind": "section",
+      "label": "2911.211",
+      "number": "2911.211",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2911.211"
+    },
+    {
+      "kind": "section",
+      "label": "2917.21",
+      "number": "2917.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2917.21"
+    },
+    {
+      "kind": "section",
+      "label": "2917.32",
+      "number": "2917.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2917.32"
+    },
+    {
+      "kind": "section",
+      "label": "2929.31",
+      "number": "2929.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2929.31"
+    }
+  ],
+  "scraped": "2026-07-02T19:46:23+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2923.04",
+  "title": "Section 2923.04 - Improper organizational involvement with a critical infrastructure facility."
+}

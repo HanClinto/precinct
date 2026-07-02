@@ -1,0 +1,64 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4928.23
+Scraped: 2026-07-02T20:09:26+00:00
+
+# Section 4928.23 - Definitions for standards for securitization of costs for electric distribution utilities.
+
+**Effective:** August 14, 2025
+
+**Latest Legislation:** House Bill 15 - 136th General Assembly
+
+As used in sections 4928.23 to 4928.2318 of the Revised Code:
+
+(A) "Ancillary agreement" means any bond insurance policy, letter of credit, reserve account, surety bond, swap arrangement, hedging arrangement, liquidity or credit support arrangement, or other similar agreement or arrangement entered into in connection with the issuance of phase-in-recovery bonds that is designed to promote the credit quality and marketability of the bonds or to mitigate the risk of an increase in interest rates.
+
+(B) "Assignee" means any person or entity to which an interest in phase-in-recovery property is sold, assigned, transferred, or conveyed, other than as security, and any successor to or subsequent assignee of such a person or entity.
+
+(C) "Bond" includes debentures, notes, certificates of participation, certificates of beneficial interest, certificates of ownership or other evidences of indebtedness or ownership that are issued by an electric distribution utility or an assignee under a final financing order, the proceeds of which are used directly or indirectly to recover, finance, or refinance phase-in costs and financing costs, and that are secured by or payable from revenues from phase-in-recovery charges.
+
+(D) "Bondholder" means any holder or owner of a phase-in-recovery bond.
+
+(E) "Financing costs" means any of the following:
+
+(1) Principal, interest, and redemption premiums that are payable on phase-in-recovery bonds;
+
+(2) Any payment required under an ancillary agreement;
+
+(3) Any amount required to fund or replenish a reserve account or another account established under any indenture, ancillary agreement, or other financing document relating to phase-in-recovery bonds;
+
+(4) Any costs of retiring or refunding any existing debt and equity securities of an electric distribution utility in connection with either the issuance of, or the use of proceeds from, phase-in-recovery bonds;
+
+(5) Any costs incurred by an electric distribution utility to obtain modifications of or amendments to any indenture, financing agreement, security agreement, or similar agreement or instrument relating to any existing secured or unsecured obligation of the electric distribution utility in connection with the issuance of phase-in-recovery bonds;
+
+(6) Any costs incurred by an electric distribution utility to obtain any consent, release, waiver, or approval from any holder of an obligation described in division (E)(5) of this section that are necessary to be incurred for the electric distribution utility to issue or cause the issuance of phase-in-recovery bonds;
+
+(7) Any taxes, franchise fees, or license fees imposed on phase-in-recovery revenues;
+
+(8) Any costs related to issuing or servicing phase-in-recovery bonds or related to obtaining a financing order, including servicing fees and expenses, trustee fees and expenses, legal, accounting, or other professional fees and expenses, administrative fees, placement fees, underwriting fees, capitalized interest and equity, and rating-agency fees;
+
+(9) Any other similar costs that the public utilities commission finds appropriate.
+
+(F) "Financing order" means an order issued by the public utilities commission under section 4928.232 of the Revised Code that authorizes an electric distribution utility or an assignee to issue phase-in-recovery bonds and recover phase-in-recovery charges.
+
+(G) "Final financing order" means a financing order that has become final and has taken effect as provided in section 4928.233 of the Revised Code.
+
+(H) "Financing party" means either of the following:
+
+(1) Any trustee, collateral agent, or other person acting for the benefit of any bondholder;
+
+(2) Any party to an ancillary agreement, the rights and obligations of which relate to or depend upon the existence of phase-in-recovery property, the enforcement and priority of a security interest in phase-in-recovery property, the timely collection and payment of phase-in-recovery revenues, or a combination of these factors.
+
+(I) "Financing statement" has the same meaning as in section 1309.102 of the Revised Code.
+
+(J) "Phase-in costs" means costs, inclusive of carrying charges incurred before, on, or after March 22, 2012, authorized by the commission before, on, or after March 22, 2012, to be securitized or deferred as regulatory assets in proceedings under section 4909.18 , 4928.141 , 4928.142 , or 4928.144 of the Revised Code, section 4928.14 of the Revised Code as it existed prior to July 31, 2008, or section 4928.143 of the Revised Code as it existed prior to the effective date of the amendments to this section by this act pursuant to a final order for which appeals have been exhausted. "Phase-in costs" excludes the following:
+
+(1) With respect to any electric generating facility that, on and after March 22, 2012, is owned, in whole or in part, by an electric distribution utility applying for a financing order under section 4928.231 of the Revised Code, costs that are authorized under division (B)(2)(b) or (c) of section 4928.143 of the Revised Code as that section existed prior to the effective date of the amendments to this section by this act ;
+
+(2) Costs incurred after March 22, 2012, related to the ongoing operation of an electric generating facility, but not environmental clean-up or remediation costs incurred by an electric distribution utility because of its ownership or operation of an electric generating facility prior to March 22, 2012, which such clean-up or remediation costs are imposed or incurred pursuant to federal or state law, rules, or regulations and for which the commission approves or approved recovery in accordance with section 4909.18 , 4928.141 , 4928.142 , or 4928.144 of the Revised Code, section 4928.14 of the Revised Code as it existed prior to July 31, 2008, or section 4928.143 of the Revised Code as it existed prior to the effective date of the amendments to this section by this act.
+
+(K) "Phase-in-recovery property" means the property, rights, and interests of an electric distribution utility or an assignee under a final financing order, including the right to impose, charge, and collect the phase-in-recovery charges that shall be used to pay and secure the payment of phase-in-recovery bonds and financing costs, and including the right to obtain adjustments to those charges, and any revenues, receipts, collections, rights to payment, payments, moneys, claims, or other proceeds arising from the rights and interests created under the final financing order.
+
+(L) "Phase-in-recovery revenues" means all revenues, receipts, collections, payments, moneys, claims, or other proceeds arising from phase-in-recovery property.
+
+(M) "Successor" means, with respect to any entity, another entity that succeeds by operation of law to the rights and obligations of the first legal entity pursuant to any bankruptcy, reorganization, restructuring, or other insolvency proceeding, any merger, acquisition, or consolidation, or any sale or transfer of assets, regardless of whether any of these occur as a result of a restructuring of the electric power industry or otherwise.
+
+Last updated May 22, 2025 at 12:50 PM

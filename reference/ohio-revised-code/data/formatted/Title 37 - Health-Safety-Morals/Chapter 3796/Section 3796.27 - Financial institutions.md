@@ -1,0 +1,40 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3796.27
+Scraped: 2026-07-02T20:01:53+00:00
+
+# Section 3796.27 - Financial institutions.
+
+**Effective:** March 20, 2026
+
+**Latest Legislation:** Senate Bill 56 - 136th General Assembly
+
+(A) As used in this section:
+
+(1) "Financial institution" means any of the following:
+
+(a) Any bank, trust company, savings and loan association, savings bank, or credit union or any affiliate, agent, or employee of a bank, trust company, savings and loan association, savings bank, or credit union;
+
+(b) Any money transmitter licensed under sections 1315.01 to 1315.18 of the Revised Code or any affiliate, agent, or employee of such a licensee.
+
+(2) "Financial services" means services that a financial institution is authorized to provide under Title XI, sections 1315.01 to 1315.18 , or Chapter 1733. of the Revised Code, as applicable.
+
+(B) A financial institution that provides financial services to any license holder shall be exempt from any criminal law of this state an element of which may be proven by substantiating that a person provides financial services to a person who possesses, delivers, or manufactures marijuana or marijuana derived products, including section 2925.05 of the Revised Code and sections 2923.01 and 2923.03 of the Revised Code as those sections apply to violations of Chapter 2925. of the Revised Code, if the license holder is in compliance with this chapter and the applicable tax laws of this state.
+
+(C)(1) Notwithstanding section 149.43 of the Revised Code or any other public records law to the contrary, upon the request of a financial institution, the division of marijuana control shall provide to the financial institution all of the following information:
+
+(a) Whether a person with whom the financial institution is seeking to do business is a license holder;
+
+(b) The name of any other business or individual affiliated with the person;
+
+(c) An unredacted copy of the application for a license under this chapter or under Chapter 3780. of the Revised Code, as that chapter existed immediately before the effective date of this amendment, and any supporting documentation, that was submitted by the person;
+
+(d) If applicable, information relating to sales and volume of product sold by the person;
+
+(e) Whether the person is in compliance with this chapter;
+
+(f) Any past or pending violation by the person of this chapter or Chapter 3780. of the Revised Code, as that chapter existed immediately before the effective date of this amendment, and any penalty imposed on the person for such a violation.
+
+(2) The division may charge a financial institution a reasonable fee to cover the administrative cost of providing the information.
+
+(D) Information received by a financial institution under division (C) of this section is confidential. Except as otherwise permitted by other state law or federal law, a financial institution shall not make the information available to any person other than the customer to whom the information applies and any trustee, conservator, guardian, personal representative, or agent of that customer.
+
+Last updated January 14, 2026 at 10:25 AM

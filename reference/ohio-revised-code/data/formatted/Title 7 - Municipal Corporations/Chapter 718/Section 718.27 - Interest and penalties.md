@@ -1,0 +1,58 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-718.27
+Scraped: 2026-07-02T19:33:25+00:00
+
+# Section 718.27 - Interest and penalties.
+
+**Effective:** October 3, 2023
+
+**Latest Legislation:** House Bill 33 - 135th General Assembly
+
+(A) As used in this section:
+
+(1) "Applicable law" means this chapter, the resolutions, ordinances, codes, directives, instructions, and rules adopted by a municipal corporation provided such resolutions, ordinances, codes, directives, instructions, and rules impose or directly or indirectly address the levy, payment, remittance, or filing requirements of a municipal income tax.
+
+(2) "Income tax," "estimated income tax," and "withholding tax" means any income tax, estimated income tax, and withholding tax imposed by a municipal corporation pursuant to applicable law, including at any time before January 1, 2016.
+
+(3) A "return" includes any tax return, report, reconciliation, schedule, and other document required to be filed with a tax administrator or municipal corporation by a taxpayer, employer, any agent of the employer, or any other payer pursuant to applicable law, including at any time before January 1, 2016.
+
+(4) "Federal short-term rate" means the rate of the average market yield on outstanding marketable obligations of the United States with remaining periods to maturity of three years or less, as determined under section 1274 of the Internal Revenue Code, for July of the current year.
+
+(5) "Interest rate as described in division (A) of this section" means the federal short-term rate, rounded to the nearest whole number per cent, plus five per cent. The rate shall apply for the calendar year next following the July of the year in which the federal short-term rate is determined in accordance with division (A)(4) of this section.
+
+(6) "Unpaid estimated income tax" means estimated income tax due but not paid by the date the tax is required to be paid under applicable law.
+
+(7) "Unpaid income tax" means income tax due but not paid by the date the income tax is required to be paid under applicable law.
+
+(8) "Unpaid withholding tax" means withholding tax due but not paid by the date the withholding tax is required to be paid under applicable law.
+
+(9) "Withholding tax" includes amounts an employer, any agent of an employer, or any other payer did not withhold in whole or in part from an employee's qualifying wages, but that, under applicable law, the employer, agent, or other payer is required to withhold from an employee's qualifying wages.
+
+(B)(1) This section applies to the following:
+
+(a) Any return required to be filed under applicable law for taxable years beginning on or after January 1, 2016;
+
+(b) Income tax, estimated income tax, and withholding tax required to be paid or remitted to the municipal corporation on or after January 1, 2016.
+
+(2) This section does not apply to returns required to be filed or payments required to be made before January 1, 2016, regardless of the filing or payment date. Returns required to be filed or payments required to be made before January 1, 2016, but filed or paid after that date shall be subject to the ordinances or rules, as adopted before January 1, 2016, of the municipal corporation to which the return is to be filed or the payment is to be made.
+
+(C) Each municipal corporation levying a tax on income may impose on a taxpayer, employer, any agent of the employer, and any other payer, and must attempt to collect, the interest amounts and penalties prescribed under division (C) of this section when the taxpayer, employer, any agent of the employer, or any other payer for any reason fails, in whole or in part, to make to the municipal corporation timely and full payment or remittance of income tax, estimated income tax, or withholding tax or to file timely with the municipal corporation any return required to be filed.
+
+(1) Interest shall be imposed at the rate described in division (A) of this section, per annum, on all unpaid income tax, unpaid estimated income tax, and unpaid withholding tax.
+
+(2)(a) With respect to unpaid income tax and unpaid estimated income tax, a municipal corporation may impose a penalty equal to fifteen per cent of the amount not timely paid.
+
+(b) With respect to any unpaid withholding tax, a municipal corporation may impose a penalty not exceeding fifty per cent of the amount not timely paid.
+
+(3) With respect to returns other than estimated income tax returns, a municipal corporation may impose a penalty not exceeding twenty-five dollars for each failure to timely file each return, regardless of the liability shown thereon, except that a municipal corporation shall abate or refund the penalty assessed on a taxpayer's first failure to timely file a return after the taxpayer files that return.
+
+(D)(1) With respect to the income taxes, estimated income taxes, withholding taxes, and returns, no municipal corporation shall impose, seek to collect, or collect any penalty, amount of interest, charges, or additional fees not described in this section.
+
+(2) With respect to the income taxes, estimated income taxes, withholding taxes, and returns not described in division (A) of this section, nothing in this section requires a municipal corporation to refund or credit any penalty, amount of interest, charges, or additional fees that the municipal corporation has properly imposed or collected before January 1, 2016.
+
+(E) Nothing in this section limits the authority of a municipal corporation to abate or partially abate penalties or interest imposed under this section when the tax administrator determines, in the tax administrator's sole discretion, that such abatement is appropriate.
+
+(F) By the thirty-first day of October of each year the municipal corporation shall publish the rate described in division (A) of this section applicable to the next succeeding calendar year.
+
+(G) The municipal corporation may impose on the taxpayer, employer, any agent of the employer, or any other payer the municipal corporation's post-judgment collection costs and fees, including attorney's fees.
+
+Last updated September 22, 2023 at 9:40 AM

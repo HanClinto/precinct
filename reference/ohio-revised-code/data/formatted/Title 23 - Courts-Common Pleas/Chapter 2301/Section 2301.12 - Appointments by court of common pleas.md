@@ -1,0 +1,22 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-2301.12
+Scraped: 2026-07-02T19:42:20+00:00
+
+# Section 2301.12 - Appointments by court of common pleas.
+
+**Effective:** March 20, 2019
+
+**Latest Legislation:** House Bill 291 - 132nd General Assembly
+
+The court of common pleas of a county may appoint:
+
+(A) A court interpreter, who shall take an oath of office, hold the position at the will and under the direction of the court, interpret the testimony of witnesses, translate any writing necessary to be translated in court, or in a cause therein, and perform such other services as are required by the court. The interpreter shall, without extra compensation, render such services in the court of appeals and probate court as the judges of those courts require. The interpreter shall receive for this service compensation fixed by the appointing court, not to exceed twelve hundred dollars in any year, or such sum in each particular case as the court deems just. If a stipulated salary, such compensation shall be payable monthly from the county treasury, upon the warrant of the county auditor; in other cases, at the conclusion of the interpreter's services, upon the certificate of the judge of the court in which they were rendered.
+
+(B) A criminal bailiff, who shall be a deputy sheriff and hold the position at the will of such court. The criminal bailiff shall receive compensation to be fixed by such court at the time of appointment, not to exceed the amount allowed court constables in the same court, which shall be paid monthly from the county treasury upon the warrant of the auditor.
+
+(C) In counties where there are four or more judges of the court of common pleas, the judges of such court in joint session shall, instead of a criminal bailiff as provided in division (B), appoint a chief court constable, who shall, in connection with the court constables appointed by the several judges, have supervision over the jurors regularly drawn for service as jurors, so that there may be at all times sufficient jurors in attendance subject to the call of the several court constables when the said jurors are required to fill the panel in any case upon trial. Said chief court constable, who shall be a deputy sheriff, shall perform all the duties required to be performed by a criminal bailiff, and perform such other duties as the court directs. Except as otherwise provided in section 3.061 of the Revised Code, the chief court constable shall give a bond required to be given by a criminal bailiff. The chief court constable shall receive such compensation as the judges of the court in joint session fix, not to exceed the sum of fifteen hundred dollars per annum, which shall be paid monthly from the county treasury, upon the warrant of the auditor. Said chief court constable shall hold the position during the pleasure of the judges of the court and shall be subject to and under their direction.
+
+(D) In counties having a population in excess of three hundred thousand as ascertained by the federal census, one or more psychiatrists, psychologists, or other examiners or investigators, who shall take an oath of office, hold their positions at the will of such judges, and receive compensation to be fixed by the judges appointing them, not exceeding in the aggregate such amount as is appropriated therefor by the board of county commissioners, which compensation shall be in place of all fees. Such compensation so fixed shall be payable monthly from the county treasury upon the warrant of the auditor.
+
+Such employees, whenever called upon by a judge of such court, in a criminal case, shall perform the duties which are prescribed by section 2947.06 of the Revised Code respectively for psychiatrists or psychologists appointed in the particular case, or for probation officers or departments.
+
+(E) In counties having a population in excess of three hundred thousand as ascertained by the last preceding federal census, an administrative assistant, who shall take an oath of office, hold the position at the will of the appointing judges, and under the direction and supervision of the judges, assume such duties, other than judicial, as may be delegated to the administrative assistant by the judges, and receive compensation to be fixed by the judges appointing the administrative assistant sitting in joint session, payable in equal monthly installments from the county treasury, upon the warrant of the county auditor.

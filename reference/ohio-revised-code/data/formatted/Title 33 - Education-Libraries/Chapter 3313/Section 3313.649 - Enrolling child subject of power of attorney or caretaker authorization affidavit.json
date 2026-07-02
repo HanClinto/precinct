@@ -1,0 +1,42 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Power of attorney\" means a power of attorney created under section 3109.52 of the Revised Code.",
+      "id": "3313.649-power-of-attorney",
+      "normalized": "power of attorney",
+      "scope": "(A) As used in this section:",
+      "section": "3313.649",
+      "source_title": "Section 3313.649 - Enrolling child subject of power of attorney or caretaker authorization affidavit.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3313.649",
+      "term": "Power of attorney"
+    },
+    {
+      "definition": "(2) \"Caretaker authorization affidavit\" means an affidavit executed under section 3109.67 of the Revised Code.\n\n(B) The grandparent who is attorney in fact under a power of attorney or the grandparent that executed a caretaker authorization affidavit may enroll the child who is the subject of the power of attorney or affidavit in a school in the school district in which the grandparent resides. Unless another reason exists under the Revised Code to exclude the child, the child may attend the schools of the school district in which the grandparent resides.",
+      "id": "3313.649-caretaker-authorization-affidavit",
+      "normalized": "caretaker authorization affidavit",
+      "scope": "(A) As used in this section:",
+      "section": "3313.649",
+      "source_title": "Section 3313.649 - Enrolling child subject of power of attorney or caretaker authorization affidavit.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3313.649",
+      "term": "Caretaker authorization affidavit"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3109.52",
+      "number": "3109.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.52"
+    },
+    {
+      "kind": "section",
+      "label": "3109.67",
+      "number": "3109.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3109.67"
+    }
+  ],
+  "scraped": "2026-07-02T19:48:39+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3313.649",
+  "title": "Section 3313.649 - Enrolling child subject of power of attorney or caretaker authorization affidavit."
+}

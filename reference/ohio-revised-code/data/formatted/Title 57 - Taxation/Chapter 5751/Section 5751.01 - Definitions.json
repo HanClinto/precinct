@@ -1,0 +1,536 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Person\" means, but is not limited to, individuals, combinations of individuals of any form, receivers, assignees, trustees in bankruptcy, firms, companies, joint-stock companies, business trusts, estates, partnerships, limited liability partnerships, limited liability companies, associations, joint ventures, clubs, societies, for-profit corporations, S corporations, qualified subchapter S subsidiaries, qualified subchapter S trusts, trusts, entities that are disregarded for federal income tax purposes, and any other entities.",
+      "id": "5751.01-person",
+      "normalized": "person",
+      "scope": "As used in this chapter:",
+      "section": "5751.01",
+      "source_title": "Section 5751.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5751.01",
+      "term": "Person"
+    },
+    {
+      "definition": "(B) \"Consolidated elected taxpayer\" means a group of two or more persons treated as a single taxpayer for purposes of this chapter as the result of an election made under section 5751.011 of the Revised Code.",
+      "id": "5751.01-consolidated-elected-taxpayer",
+      "normalized": "consolidated elected taxpayer",
+      "scope": "As used in this chapter:",
+      "section": "5751.01",
+      "source_title": "Section 5751.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5751.01",
+      "term": "Consolidated elected taxpayer"
+    },
+    {
+      "definition": "(C) \"Combined taxpayer\" means a group of two or more persons treated as a single taxpayer for purposes of this chapter under section 5751.012 of the Revised Code.",
+      "id": "5751.01-combined-taxpayer",
+      "normalized": "combined taxpayer",
+      "scope": "As used in this chapter:",
+      "section": "5751.01",
+      "source_title": "Section 5751.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5751.01",
+      "term": "Combined taxpayer"
+    },
+    {
+      "definition": "(D) \"Taxpayer\" means any person, or any group of persons in the case of a consolidated elected taxpayer or combined taxpayer treated as one taxpayer, required to register or pay tax under this chapter. \"Taxpayer\" does not include excluded persons.",
+      "id": "5751.01-taxpayer",
+      "normalized": "taxpayer",
+      "scope": "As used in this chapter:",
+      "section": "5751.01",
+      "source_title": "Section 5751.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5751.01",
+      "term": "Taxpayer"
+    },
+    {
+      "definition": "(E) \"Excluded person\" means any of the following:\n\n(1) Any person with not more than one hundred fifty thousand dollars of taxable gross receipts during the calendar year. Division (E)(1) of this section does not apply to a person that is a member of a consolidated elected taxpayer.\n\n(2) A public utility that paid the excise tax imposed by section 5727.24 or 5727.30 of the Revised Code based on one or more measurement periods that include the entire tax period under this chapter, except in the following circumstances:\n\n(a) A public utility that is a combined company is a taxpayer with regard to the following gross receipts:\n\n(i) Taxable gross receipts directly attributed to a public utility activity, but not directly attributed to an activity that is subject to the excise tax imposed by section 5727.24 or 5727.30 of the Revised Code;\n\n(ii) Taxable gross receipts that cannot be directly attributed to any activity, multiplied by a fraction whose numerator is the taxable gross receipts described in division (E)(2)(a)(i) of this section and whose denominator is the total taxable gross receipts that can be directly attributed to any activity;\n\n(iii) Except for any differences resulting from the use of an accrual basis method of accounting for purposes of determining gross receipts under this chapter and the use of the cash basis method of accounting for purposes of determining gross receipts under section 5727.24 of the Revised Code, the gross receipts directly attributed to the activity of a natural gas company shall be determined in a manner consistent with division (D) of section 5727.03 of the Revised Code.\n\n(b) A heating company that became exempt from the excise tax imposed by section 5727.30 of the Revised Code on May 1, 2023, shall not be an excluded person for tax periods beginning on or after July 1, 2023.\n\nAs used in division (E)(2) of this section, \"combined company\" and \"public utility\" have the same meanings as in section 5727.01 of the Revised Code.\n\n(3) A financial institution, as defined in section 5726.01 of the Revised Code, that paid the tax imposed by section 5726.02 of the Revised Code based on one or more taxable years that include the entire tax period under this chapter;\n\n(4) A person directly or indirectly owned by one or more financial institutions, as defined in section 5726.01 of the Revised Code, that paid the tax imposed by section 5726.02 of the Revised Code based on one or more taxable years that include the entire tax period under this chapter.\n\nFor the purposes of division (E)(4) of this section, a person owns another person under the following circumstances:\n\n(a) In the case of corporations issuing capital stock, one corporation owns another corporation if it owns fifty per cent or more of the other corporation's capital stock with current voting rights;\n\n(b) In the case of a limited liability company, one person owns the company if that person's membership interest, as defined in section 1706.01 of the Revised Code, is fifty per cent or more of the combined membership interests of all persons owning such interests in the company;\n\n(c) In the case of a partnership, trust, or other unincorporated business organization other than a limited liability company, one person owns the organization if, under the articles of organization or other instrument governing the affairs of the organization, that person has a beneficial interest in the organization's profits, surpluses, losses, or distributions of fifty per cent or more of the combined beneficial interests of all persons having such an interest in the organization.\n\n(5) A domestic insurance company or foreign insurance company, as defined in section 5725.01 of the Revised Code, that paid the insurance company premiums tax imposed by section 5725.18 or Chapter 5729. of the Revised Code, or an unauthorized insurance company whose gross premiums are subject to tax under section 3905.36 of the Revised Code based on one or more measurement periods that include the entire tax period under this chapter;",
+      "id": "5751.01-excluded-person",
+      "normalized": "excluded person",
+      "scope": "As used in this chapter:",
+      "section": "5751.01",
+      "source_title": "Section 5751.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5751.01",
+      "term": "Excluded person"
+    },
+    {
+      "definition": "(6) A person that solely facilitates or services one or more securitizations of phase-in-recovery property pursuant to a final financing order as those terms are defined in section 4928.23 of the Revised Code. For purposes of this division, \"securitization\" means transferring one or more assets to one or more persons and then issuing securities backed by the right to receive payment from the asset or assets so transferred.\n\n(7) Except as otherwise provided in this division, a pre-income tax trust as defined in section 5747.01 of the Revised Code and any pass-through entity of which such pre-income tax trust owns or controls, directly, indirectly, or constructively through related interests, more than five per cent of the ownership or equity interests. If the pre-income tax trust has made a qualifying pre-income tax trust election under division (EE) of section 5747.01 of the Revised Code, then the trust and the pass-through entities of which it owns or controls, directly, indirectly, or constructively through related interests, more than five per cent of the ownership or equity interests, shall not be excluded persons for purposes of the tax imposed under section 5751.02 of the Revised Code.\n\n(8) Nonprofit organizations or the state and its agencies, instrumentalities, or political subdivisions.",
+      "id": "5751.01-securitization",
+      "normalized": "securitization",
+      "scope": "As used in this chapter:",
+      "section": "5751.01",
+      "source_title": "Section 5751.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5751.01",
+      "term": "securitization"
+    },
+    {
+      "definition": "(F) Except as otherwise provided in divisions (F)(2), (3), and (4) of this section, \"gross receipts\" means the total amount realized by a person, without deduction for the cost of goods sold or other expenses incurred, that contributes to the production of gross income of the person, including the fair market value of any property and any services received, and any debt transferred or forgiven as consideration.\n\n(1) The following are examples of gross receipts:\n\n(a) Amounts realized from the sale, exchange, or other disposition of the taxpayer's property to or with another;\n\n(b) Amounts realized from the taxpayer's performance of services for another;\n\n(c) Amounts realized from another's use or possession of the taxpayer's property or capital;\n\n(d) Any combination of the foregoing amounts.\n\n(2) \"Gross receipts\" excludes the following amounts:\n\n(a) Interest income except interest on credit sales;\n\n(b) Dividends and distributions from corporations, and distributive or proportionate shares of receipts and income from a pass-through entity as defined under section 5733.04 of the Revised Code;",
+      "id": "5751.01-gross-receipts",
+      "normalized": "gross receipts",
+      "scope": "As used in this chapter:",
+      "section": "5751.01",
+      "source_title": "Section 5751.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5751.01",
+      "term": "gross receipts"
+    },
+    {
+      "definition": "(c) Receipts from the sale, exchange, or other disposition of an asset described in section 1221 or 1231 of the Internal Revenue Code, without regard to the length of time the person held the asset. Notwithstanding section 1221 of the Internal Revenue Code, receipts from hedging transactions also are excluded to the extent the transactions are entered into primarily to protect a financial position, such as managing the risk of exposure to (i) foreign currency fluctuations that affect assets, liabilities, profits, losses, equity, or investments in foreign operations; (ii) interest rate fluctuations; or (iii) commodity price fluctuations. As used in division (F)(2)(c) of this section, \"hedging transaction\" has the same meaning as used in section 1221 of the Internal Revenue Code and also includes transactions accorded hedge accounting treatment under statement of financial accounting standards number 133 of the financial accounting standards board. For the purposes of division (F)(2)(c) of this section, the actual transfer of title of real or tangible personal property to another entity is not a hedging transaction.\n\n(d) Proceeds received attributable to the repayment, maturity, or redemption of the principal of a loan, bond, mutual fund, certificate of deposit, or marketable instrument;\n\n(e) The principal amount received under a repurchase agreement or on account of any transaction properly characterized as a loan to the person;\n\n(f) Contributions received by a trust, plan, or other arrangement, any of which is described in section 501(a) of the Internal Revenue Code, or to which Title 26, Subtitle A, Chapter 1, Subchapter (D) of the Internal Revenue Code applies;\n\n(g) Compensation, whether current or deferred, and whether in cash or in kind, received or to be received by an employee, former employee, or the employee's legal successor for services rendered to or for an employer, including reimbursements received by or for an individual for medical or education expenses, health insurance premiums, or employee expenses, or on account of a dependent care spending account, legal services plan, any cafeteria plan described in section 125 of the Internal Revenue Code, or any similar employee reimbursement;\n\n(h) Proceeds received from the issuance of the taxpayer's own stock, options, warrants, puts, or calls, or from the sale of the taxpayer's treasury stock;\n\n(i) Proceeds received on the account of payments from insurance policies, except those proceeds received for the loss of business revenue;\n\n(j) Gifts or charitable contributions received; membership dues received by trade, professional, homeowners', or condominium associations; payments received for educational courses, meetings, meals, or similar payments to a trade, professional, or other similar association; and fundraising receipts received by any person when any excess receipts are donated or used exclusively for charitable purposes;\n\n(k) Damages received as the result of litigation in excess of amounts that, if received without litigation, would be gross receipts;\n\n(l) Property, money, and other amounts received or acquired by an agent on behalf of another in excess of the agent's commission, fee, or other remuneration;\n\n(m) Tax refunds, other tax benefit recoveries, and reimbursements for the tax imposed under this chapter made by entities that are part of the same combined taxpayer or consolidated elected taxpayer group, and reimbursements made by entities that are not members of a combined taxpayer or consolidated elected taxpayer group that are required to be made for economic parity among multiple owners of an entity whose tax obligation under this chapter is required to be reported and paid entirely by one owner, pursuant to the requirements of sections 5751.011 and 5751.012 of the Revised Code;\n\n(n) Pension reversions;\n\n(o) Contributions to capital;\n\n(p) Sales or use taxes collected as a vendor or an out-of-state seller on behalf of the taxing jurisdiction from a consumer or other taxes the taxpayer is required by law to collect directly from a purchaser and remit to a local, state, or federal tax authority;\n\n(q) In the case of receipts from the sale of cigarettes, tobacco products, or vapor products by a wholesale dealer, retail dealer, distributor, manufacturer, vapor distributor, or seller, all as defined in section 5743.01 of the Revised Code, an amount equal to the federal and state excise taxes paid by any person on or for such cigarettes, tobacco products, or vapor products under subtitle E of the Internal Revenue Code or Chapter 5743. of the Revised Code;\n\n(r) In the case of receipts from the sale, transfer, exchange, or other disposition of motor fuel as \"motor fuel\" is defined in section 5736.01 of the Revised Code, an amount equal to the value of the motor fuel, including federal and state motor fuel excise taxes and receipts from billing or invoicing the tax imposed under section 5736.02 of the Revised Code to another person;\n\n(s) In the case of receipts from the sale of beer or intoxicating liquor, as defined in section 4301.01 of the Revised Code, by a person holding a permit issued under Chapter 4301. or 4303. of the Revised Code, an amount equal to federal and state excise taxes paid by any person on or for such beer or intoxicating liquor under subtitle E of the Internal Revenue Code or Chapter 4301. or 4305. of the Revised Code;\n\n(t) Receipts realized by a new motor vehicle dealer or used motor vehicle dealer, as defined in section 4517.01 of the Revised Code, from the sale or other transfer of a motor vehicle, as defined in that section, to another motor vehicle dealer for the purpose of resale by the transferee motor vehicle dealer, but only if the sale or other transfer was based upon the transferee's need to meet a specific customer's preference for a motor vehicle;\n\n(u) Receipts from a financial institution described in division (E)(3) of this section for services provided to the financial institution in connection with the issuance, processing, servicing, and management of loans or credit accounts, if such financial institution and the recipient of such receipts have at least fifty per cent of their ownership interests owned or controlled, directly or constructively through related interests, by common owners;\n\n(v) Receipts realized from administering anti-neoplastic drugs and other cancer chemotherapy, biologicals, therapeutic agents, and supportive drugs in a physician's office to patients with cancer;",
+      "id": "5751.01-hedging-transaction",
+      "normalized": "hedging transaction",
+      "scope": "As used in this chapter:",
+      "section": "5751.01",
+      "source_title": "Section 5751.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5751.01",
+      "term": "hedging transaction"
+    },
+    {
+      "definition": "(w) Funds received or used by a mortgage broker that is not a dealer in intangibles, other than fees or other consideration, pursuant to a table-funding mortgage loan or warehouse-lending mortgage loan. Terms used in division (F)(2)(w) of this section have the same meanings as in section 1322.01 of the Revised Code, except \"mortgage broker\" means a person assisting a buyer in obtaining a mortgage loan for a fee or other consideration paid by the buyer or a lender, or a person engaged in table-funding or warehouse-lending mortgage loans that are first lien mortgage loans.\n\n(x) Property, money, and other amounts received by a professional employer organization, as defined in section 4125.01 of the Revised Code, or an alternate employer organization, as defined in section 4133.01 of the Revised Code, from a client employer, as defined in either of those sections as applicable, in excess of the administrative fee charged by the professional employer organization or the alternate employer organization to the client employer;\n\n(y) In the case of amounts retained as commissions by a permit holder under Chapter 3769. of the Revised Code, an amount equal to the amounts specified under that chapter that must be paid to or collected by the tax commissioner as a tax and the amounts specified under that chapter to be used as purse money;\n\n(z) Qualifying distribution center receipts as determined under section 5751.40 of the Revised Code;\n\n(aa) Receipts of an employer from payroll deductions relating to the reimbursement of the employer for advancing moneys to an unrelated third party on an employee's behalf;\n\n(bb) Cash discounts allowed and taken;\n\n(cc) Returns and allowances;",
+      "id": "5751.01-mortgage-broker",
+      "normalized": "mortgage broker",
+      "scope": "As used in this chapter:",
+      "section": "5751.01",
+      "source_title": "Section 5751.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5751.01",
+      "term": "mortgage broker"
+    },
+    {
+      "definition": "(dd) Bad debts from receipts on the basis of which the tax imposed by this chapter was paid in a prior quarterly tax payment period. For the purpose of this division, \"bad debts\" means any debts that have become worthless or uncollectible between the preceding and current quarterly tax payment periods, have been uncollected for at least six months, and that may be claimed as a deduction under section 166 of the Internal Revenue Code and the regulations adopted under that section, or that could be claimed as such if the taxpayer kept its accounts on the accrual basis. \"Bad debts\" does not include repossessed property, uncollectible amounts on property that remains in the possession of the taxpayer until the full purchase price is paid, or expenses in attempting to collect any account receivable or for any portion of the debt recovered.\n\n(ee) Any amount realized from the sale of an account receivable to the extent the receipts from the underlying transaction giving rise to the account receivable were included in the gross receipts of the taxpayer;\n\n(ff) Any receipts directly attributed to a transfer agreement or to the enterprise transferred under that agreement under section 4313.02 of the Revised Code;\n\n(gg) Qualified uranium receipts as determined under section 5751.41 of the Revised Code;\n\n(hh) In the case of amounts collected by a licensed casino operator from casino gaming, amounts in excess of the casino operator's gross casino revenue. In this division, \"casino operator\" and \"casino gaming\" have the meanings defined in section 3772.01 of the Revised Code, and \"gross casino revenue\" has the meaning defined in section 5753.01 of the Revised Code.\n\n(ii) Receipts realized from the sale of agricultural commodities by an agricultural commodity handler, both as defined in section 926.01 of the Revised Code, that is licensed by the director of agriculture to handle agricultural commodities in this state;\n\n(jj) Qualifying integrated supply chain receipts as determined under section 5751.42 of the Revised Code;\n\n(kk) In the case of a railroad company described in division (D)(9) of section 5727.01 of the Revised Code that purchases dyed diesel fuel directly from a supplier as defined by section 5736.01 of the Revised Code, an amount equal to the product of the number of gallons of dyed diesel fuel purchased directly from such a supplier multiplied by the average wholesale price for a gallon of diesel fuel as determined under section 5736.02 of the Revised Code for the period during which the fuel was purchased multiplied by a fraction, the numerator of which equals the rate of tax levied by section 5736.02 of the Revised Code less the rate of tax computed in section 5751.03 of the Revised Code, and the denominator of which equals the rate of tax computed in section 5751.03 of the Revised Code;\n\n(ll) Receipts realized by an out-of-state disaster business from disaster work conducted in this state during a disaster response period pursuant to a qualifying solicitation received by the business. Terms used in division (F)(2)(ll) of this section have the same meanings as in section 5703.94 of the Revised Code.\n\n(mm) In the case of receipts from the sale or transfer of a mortgage-backed security or a mortgage loan by a mortgage lender holding a valid certificate of registration issued under Chapter 1322. of the Revised Code or by a person that is a member of the mortgage lender's consolidated elected taxpayer group, an amount equal to the principal balance of the mortgage loan;\n\n(nn) Amounts of excess surplus of the state insurance fund received by the taxpayer from the Ohio bureau of workers' compensation pursuant to rules adopted under section 4123.321 of the Revised Code;\n\n(oo) Except as otherwise provided in division (B) of section 5751.091 of the Revised Code, receipts of a megaproject supplier from sales of tangible personal property directly to a megaproject operator in this state for use at the site of the megaproject operator's megaproject, provided that the sale occurs during the period that the megaproject operator has an agreement with the tax credit authority for the megaproject under division (D) of section 122.17 of the Revised Code that remains in effect and has not expired or been terminated, and provided the megaproject supplier holds a certificate for such megaproject issued under section 5751.052 of the Revised Code for the calendar year in which the sales are made and, if the megaproject supplier meets the requirements described in division (A)(13)(b) of section 122.17 of the Revised Code, the megaproject supplier holds a certificate for such megaproject issued under division (D)(11) of section 122.17 of the Revised Code on the first day of that calendar year;\n\n(pp) Receipts from the sale of each new piece of capital equipment that has a cost in excess of one hundred million dollars and that is used at the site of a megaproject that satisfies the criteria described in division (A)(11)(a)(ii) of section 122.17 of the Revised Code, provided that the sale occurs during the period that a megaproject operator has an agreement for that megaproject with the tax credit authority under division (D) of section 122.17 of the Revised Code that remains in effect and has not expired or been terminated;",
+      "id": "5751.01-bad-debts",
+      "normalized": "bad debts",
+      "scope": "As used in this chapter:",
+      "section": "5751.01",
+      "source_title": "Section 5751.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5751.01",
+      "term": "bad debts"
+    },
+    {
+      "definition": "(qq) In the case of amounts collected by a sports gaming proprietor from sports gaming, amounts in excess of the proprietor's sports gaming receipts. As used in this division, \"sports gaming proprietor\" has the same meaning as in section 3775.01 of the Revised Code and \"sports gaming receipts\" has the same meaning as in section 5753.01 of the Revised Code.",
+      "id": "5751.01-sports-gaming-proprietor",
+      "normalized": "sports gaming proprietor",
+      "scope": "As used in this chapter:",
+      "section": "5751.01",
+      "source_title": "Section 5751.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5751.01",
+      "term": "sports gaming proprietor"
+    },
+    {
+      "definition": "(rr) Amounts received from any federal, state, or local grant, and amounts of indebtedness discharged or forgiven pursuant to federal, state, or local law, for providing or expanding access to broadband service in this state. As used in this division, \"broadband service\" has the same meaning as in section 188.01 of the Revised Code.\n\n(ss) Receipts provided to a taxpayer to compensate for lost business resulting from the train derailment near the city of East Palestine on February 3, 2023, by any of the following:\n\n(i) A federal, state, or local government agency;\n\n(ii) A railroad company, as that term is defined in section 5727.01 of the Revised Code;\n\n(iii) Any subsidiary, insurer, or agent of a railroad company or any related person.\n\n(tt) An amount equal to the fee imposed by section 3743.22 of the Revised Code billed to the purchaser, collected by the taxpayer, and remitted to the fire marshal during the tax period, provided that the fee is separately stated on the invoice, bill of sale, or similar document given to the purchaser of 1.4 G fireworks in this state.\n\n(uu) Any receipts for which the tax imposed by this chapter is prohibited by the constitution or laws of the United States or the constitution of this state;\n\n(vv) Receipts from fees imposed under sections 128.41 and 128.42 of the Revised Code.",
+      "id": "5751.01-broadband-service",
+      "normalized": "broadband service",
+      "scope": "As used in this chapter:",
+      "section": "5751.01",
+      "source_title": "Section 5751.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5751.01",
+      "term": "broadband service"
+    },
+    {
+      "definition": "(3) In the case of a taxpayer when acting as a real estate broker, \"gross receipts\" includes only the portion of any fee for the service of a real estate broker, or service of a real estate salesperson associated with that broker, that is retained by the broker and not paid to an associated real estate salesperson or another real estate broker. For the purposes of this division, \"real estate broker\" and \"real estate salesperson\" have the same meanings as in section 4735.01 of the Revised Code.\n\n(4) A taxpayer's method of accounting for gross receipts for a tax period shall be the same as the taxpayer's method of accounting for federal income tax purposes for the taxpayer's federal taxable year that includes the tax period. If a taxpayer's method of accounting for federal income tax purposes changes, its method of accounting for gross receipts under this chapter shall be changed accordingly.",
+      "id": "5751.01-gross-receipts",
+      "normalized": "gross receipts",
+      "scope": "As used in this chapter:",
+      "section": "5751.01",
+      "source_title": "Section 5751.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5751.01",
+      "term": "gross receipts"
+    },
+    {
+      "definition": "(G) \"Taxable gross receipts\" means gross receipts sitused to this state under section 5751.033 of the Revised Code.\n\n(H) A person has \"substantial nexus with this state\" if any of the following applies. The person:\n\n(1) Owns or uses a part or all of its capital in this state;\n\n(2) Holds a certificate of compliance with the laws of this state authorizing the person to do business in this state;\n\n(3) Has bright-line presence in this state;\n\n(4) Otherwise has nexus with this state to an extent that the person can be required to remit the tax imposed under this chapter under the Constitution of the United States.\n\n(I) A person has \"bright-line presence\" in this state for a reporting period and for the remaining portion of the calendar year if any of the following applies. The person:\n\n(1) Has at any time during the calendar year property in this state with an aggregate value of at least fifty thousand dollars. For the purpose of division (I)(1) of this section, owned property is valued at original cost and rented property is valued at eight times the net annual rental charge.\n\n(2) Has during the calendar year payroll in this state of at least fifty thousand dollars. Payroll in this state includes all of the following:\n\n(a) Any amount subject to withholding by the person under section 5747.06 of the Revised Code;\n\n(b) Any other amount the person pays as compensation to an individual under the supervision or control of the person for work done in this state; and\n\n(c) Any amount the person pays for services performed in this state on its behalf by another.\n\n(3) Has during the calendar year taxable gross receipts of at least five hundred thousand dollars;\n\n(4) Has at any time during the calendar year within this state at least twenty-five per cent of the person's total property, total payroll, or total gross receipts;\n\n(5) Is domiciled in this state as an individual or for corporate, commercial, or other business purposes.",
+      "id": "5751.01-taxable-gross-receipts",
+      "normalized": "taxable gross receipts",
+      "scope": "As used in this chapter:",
+      "section": "5751.01",
+      "source_title": "Section 5751.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5751.01",
+      "term": "Taxable gross receipts"
+    },
+    {
+      "definition": "(J) \"Tangible personal property\" has the same meaning as in section 5739.01 of the Revised Code.",
+      "id": "5751.01-tangible-personal-property",
+      "normalized": "tangible personal property",
+      "scope": "As used in this chapter:",
+      "section": "5751.01",
+      "source_title": "Section 5751.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5751.01",
+      "term": "Tangible personal property"
+    },
+    {
+      "definition": "(K) \"Internal Revenue Code\" means the Internal Revenue Code of 1986, 100 Stat. 2085, 26 U.S.C. 1, as amended. Any term used in this chapter that is not otherwise defined has the same meaning as when used in a comparable context in the laws of the United States relating to federal income taxes unless a different meaning is clearly required. Any reference in this chapter to the Internal Revenue Code includes other laws of the United States relating to federal income taxes.",
+      "id": "5751.01-internal-revenue-code",
+      "normalized": "internal revenue code",
+      "scope": "As used in this chapter:",
+      "section": "5751.01",
+      "source_title": "Section 5751.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5751.01",
+      "term": "Internal Revenue Code"
+    },
+    {
+      "definition": "(L) \"Calendar quarter\" means a three-month period ending on the thirty-first day of March, the thirtieth day of June, the thirtieth day of September, or the thirty-first day of December.",
+      "id": "5751.01-calendar-quarter",
+      "normalized": "calendar quarter",
+      "scope": "As used in this chapter:",
+      "section": "5751.01",
+      "source_title": "Section 5751.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5751.01",
+      "term": "Calendar quarter"
+    },
+    {
+      "definition": "(M) \"Tax period\" means the calendar quarter on the basis of which a taxpayer is required to pay the tax imposed under this chapter.",
+      "id": "5751.01-tax-period",
+      "normalized": "tax period",
+      "scope": "As used in this chapter:",
+      "section": "5751.01",
+      "source_title": "Section 5751.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5751.01",
+      "term": "Tax period"
+    },
+    {
+      "definition": "(N) \"Agent\" means a person authorized by another person to act on its behalf to undertake a transaction for the other, including any of the following:\n\n(1) A person receiving a fee to sell financial instruments;\n\n(2) A person retaining only a commission from a transaction with the other proceeds from the transaction being remitted to another person;\n\n(3) A person issuing licenses and permits under section 1533.13 of the Revised Code;\n\n(4) A lottery sales agent holding a valid license issued under section 3770.05 of the Revised Code;\n\n(5) A person acting as an agent of the division of liquor control under section 4301.17 of the Revised Code.",
+      "id": "5751.01-agent",
+      "normalized": "agent",
+      "scope": "As used in this chapter:",
+      "section": "5751.01",
+      "source_title": "Section 5751.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5751.01",
+      "term": "Agent"
+    },
+    {
+      "definition": "(O) \"Received\" includes amounts accrued under the accrual method of accounting.",
+      "id": "5751.01-received",
+      "normalized": "received",
+      "scope": "As used in this chapter:",
+      "section": "5751.01",
+      "source_title": "Section 5751.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5751.01",
+      "term": "Received"
+    },
+    {
+      "definition": "(P) \"Reporting person\" means a person in a consolidated elected taxpayer or combined taxpayer group that is designated by that group to legally bind the group for all filings and tax liabilities and to receive all legal notices with respect to matters under this chapter, or, for the purposes of section 5751.04 of the Revised Code, a separate taxpayer that is not a member of such a group.\n\n(Q) \"Megaproject,\" \"megaproject operator,\" and \"megaproject supplier\" have the same meanings as in section 122.17 of the Revised Code.",
+      "id": "5751.01-reporting-person",
+      "normalized": "reporting person",
+      "scope": "As used in this chapter:",
+      "section": "5751.01",
+      "source_title": "Section 5751.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5751.01",
+      "term": "Reporting person"
+    },
+    {
+      "definition": "(R) \"Exclusion amount\" means three million dollars beginning in 2024 and six million dollars beginning in 2025.\n\nLast updated August 31, 2023 at 11:20 AM",
+      "id": "5751.01-exclusion-amount",
+      "normalized": "exclusion amount",
+      "scope": "As used in this chapter:",
+      "section": "5751.01",
+      "source_title": "Section 5751.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5751.01",
+      "term": "Exclusion amount"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "5751.011",
+      "number": "5751.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5751.011"
+    },
+    {
+      "kind": "section",
+      "label": "5751.012",
+      "number": "5751.012",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5751.012"
+    },
+    {
+      "kind": "section",
+      "label": "5727.24",
+      "number": "5727.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.24"
+    },
+    {
+      "kind": "section",
+      "label": "5727.30",
+      "number": "5727.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.30"
+    },
+    {
+      "kind": "section",
+      "label": "5727.03",
+      "number": "5727.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.03"
+    },
+    {
+      "kind": "section",
+      "label": "5727.01",
+      "number": "5727.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.01"
+    },
+    {
+      "kind": "section",
+      "label": "5726.01",
+      "number": "5726.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5726.01"
+    },
+    {
+      "kind": "section",
+      "label": "5726.02",
+      "number": "5726.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5726.02"
+    },
+    {
+      "kind": "section",
+      "label": "1706.01",
+      "number": "1706.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1706.01"
+    },
+    {
+      "kind": "section",
+      "label": "5725.01",
+      "number": "5725.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5725.01"
+    },
+    {
+      "kind": "section",
+      "label": "5725.18",
+      "number": "5725.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5725.18"
+    },
+    {
+      "kind": "section",
+      "label": "3905.36",
+      "number": "3905.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3905.36"
+    },
+    {
+      "kind": "section",
+      "label": "4928.23",
+      "number": "4928.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4928.23"
+    },
+    {
+      "kind": "section",
+      "label": "5747.01",
+      "number": "5747.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.01"
+    },
+    {
+      "kind": "section",
+      "label": "5751.02",
+      "number": "5751.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5751.02"
+    },
+    {
+      "kind": "section",
+      "label": "5733.04",
+      "number": "5733.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.04"
+    },
+    {
+      "kind": "section",
+      "label": "5743.01",
+      "number": "5743.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5743.01"
+    },
+    {
+      "kind": "section",
+      "label": "5736.01",
+      "number": "5736.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5736.01"
+    },
+    {
+      "kind": "section",
+      "label": "5736.02",
+      "number": "5736.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5736.02"
+    },
+    {
+      "kind": "section",
+      "label": "4301.01",
+      "number": "4301.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.01"
+    },
+    {
+      "kind": "section",
+      "label": "4517.01",
+      "number": "4517.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4517.01"
+    },
+    {
+      "kind": "section",
+      "label": "1322.01",
+      "number": "1322.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1322.01"
+    },
+    {
+      "kind": "section",
+      "label": "4125.01",
+      "number": "4125.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4125.01"
+    },
+    {
+      "kind": "section",
+      "label": "4133.01",
+      "number": "4133.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4133.01"
+    },
+    {
+      "kind": "section",
+      "label": "5751.40",
+      "number": "5751.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5751.40"
+    },
+    {
+      "kind": "section",
+      "label": "4313.02",
+      "number": "4313.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4313.02"
+    },
+    {
+      "kind": "section",
+      "label": "5751.41",
+      "number": "5751.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5751.41"
+    },
+    {
+      "kind": "section",
+      "label": "3772.01",
+      "number": "3772.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3772.01"
+    },
+    {
+      "kind": "section",
+      "label": "5753.01",
+      "number": "5753.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5753.01"
+    },
+    {
+      "kind": "section",
+      "label": "926.01",
+      "number": "926.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-926.01"
+    },
+    {
+      "kind": "section",
+      "label": "5751.42",
+      "number": "5751.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5751.42"
+    },
+    {
+      "kind": "section",
+      "label": "5751.03",
+      "number": "5751.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5751.03"
+    },
+    {
+      "kind": "section",
+      "label": "5703.94",
+      "number": "5703.94",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5703.94"
+    },
+    {
+      "kind": "section",
+      "label": "4123.321",
+      "number": "4123.321",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.321"
+    },
+    {
+      "kind": "section",
+      "label": "5751.091",
+      "number": "5751.091",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5751.091"
+    },
+    {
+      "kind": "section",
+      "label": "122.17",
+      "number": "122.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.17"
+    },
+    {
+      "kind": "section",
+      "label": "5751.052",
+      "number": "5751.052",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5751.052"
+    },
+    {
+      "kind": "section",
+      "label": "3775.01",
+      "number": "3775.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3775.01"
+    },
+    {
+      "kind": "section",
+      "label": "188.01",
+      "number": "188.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-188.01"
+    },
+    {
+      "kind": "section",
+      "label": "3743.22",
+      "number": "3743.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3743.22"
+    },
+    {
+      "kind": "section",
+      "label": "1.4",
+      "number": "1.4",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1.4"
+    },
+    {
+      "kind": "section",
+      "label": "128.41",
+      "number": "128.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.41"
+    },
+    {
+      "kind": "section",
+      "label": "128.42",
+      "number": "128.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-128.42"
+    },
+    {
+      "kind": "section",
+      "label": "4735.01",
+      "number": "4735.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4735.01"
+    },
+    {
+      "kind": "section",
+      "label": "5751.033",
+      "number": "5751.033",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5751.033"
+    },
+    {
+      "kind": "section",
+      "label": "5747.06",
+      "number": "5747.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.06"
+    },
+    {
+      "kind": "section",
+      "label": "5739.01",
+      "number": "5739.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.01"
+    },
+    {
+      "kind": "section",
+      "label": "1533.13",
+      "number": "1533.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.13"
+    },
+    {
+      "kind": "section",
+      "label": "3770.05",
+      "number": "3770.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3770.05"
+    },
+    {
+      "kind": "section",
+      "label": "4301.17",
+      "number": "4301.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.17"
+    },
+    {
+      "kind": "section",
+      "label": "5751.04",
+      "number": "5751.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5751.04"
+    }
+  ],
+  "scraped": "2026-07-02T20:15:36+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5751.01",
+  "title": "Section 5751.01 - Definitions."
+}

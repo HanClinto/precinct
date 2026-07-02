@@ -1,0 +1,411 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 3721.01 - Nursing home and residential care facility definitions and classifications.",
+      "number": "3721.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.011 - Skilled nursing care.",
+      "number": "3721.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.011"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.012 - Risk agreement.",
+      "number": "3721.012",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.012"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.02 - Procedures for inspecting and licensing homes - fees.",
+      "number": "3721.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.021 - Review of documents by prospective residents and associated persons.",
+      "number": "3721.021",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.021"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.022 - Establishing and maintaining health standards and serving as state survey agency.",
+      "number": "3721.022",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.022"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.023 - Party identified in license deemed sole owner of business on premises leased on or before 1-1-70.",
+      "number": "3721.023",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.023"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.024 - Nursing facility recognition program.",
+      "number": "3721.024",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.024"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.026 - Assignment or transfer of operation of nursing home.",
+      "number": "3721.026",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.026"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.027 - Investigation of unresolved complaints found to be valid.",
+      "number": "3721.027",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.027"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.03 - Enforcement of provisions - revocation of license.",
+      "number": "3721.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.031 - Investigation of complaint concerning home - disclosure of information.",
+      "number": "3721.031",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.031"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.032 - Fire marshal to enforce and adopt fire safety rules.",
+      "number": "3721.032",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.032"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.04 - Adoption and publication of uniform rules governing operation of homes.",
+      "number": "3721.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.041 - Vaccinations to be offered to residents.",
+      "number": "3721.041",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.041"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.042 - Excluded grounds for denial of license.",
+      "number": "3721.042",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.042"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.05 - Operating home requires license - prohibited activities.",
+      "number": "3721.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.051 - County or district - prohibited activities.",
+      "number": "3721.051",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.051"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.06 - Prohibition against placement of person in unlicensed home.",
+      "number": "3721.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.07 - Requirement for issuance of license - revocation.",
+      "number": "3721.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.071 - Home must be equipped with both automatic fire extinguishing and fire alarm systems.",
+      "number": "3721.071",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.071"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.072 - Biennial participation in quality improvement projects.",
+      "number": "3721.072",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.072"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.074 - Continued operation during application period.",
+      "number": "3721.074",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.074"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.08 - Injunctive relief.",
+      "number": "3721.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.081 - Summary orders.",
+      "number": "3721.081",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.081"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.09 - Local regulations.",
+      "number": "3721.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.10 - Residents' rights definitions.",
+      "number": "3721.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.11 - Director to adopt rules.",
+      "number": "3721.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.12 - Duties of nursing home administrator concerning residents' rights.",
+      "number": "3721.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.121 - Criminal records check.",
+      "number": "3721.121",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.121"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.122 - Screening and accommodations for sex offenders.",
+      "number": "3721.122",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.122"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.13 - Residents' rights.",
+      "number": "3721.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.14 - Implementation of residents' rights.",
+      "number": "3721.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.141 - Notification of benefit eligibility.",
+      "number": "3721.141",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.141"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.15 - Authorization to handle residents' financial affairs.",
+      "number": "3721.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.16 - Residents' rights concerning transfer or discharge.",
+      "number": "3721.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.161 - Hearing challenging proposed transfer or discharge.",
+      "number": "3721.161",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.161"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.162 - Determining whether transfer or discharge complies.",
+      "number": "3721.162",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.162"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.17 - Grievance procedure.",
+      "number": "3721.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.18 - Attorney general duties.",
+      "number": "3721.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.19 - Nonparticipation in state assistance program.",
+      "number": "3721.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.20 - Compassionate care visits.",
+      "number": "3721.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.21 - Long-term care facility definitions.",
+      "number": "3721.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.22 - Reporting abuse or neglect of resident or misappropriation of property.",
+      "number": "3721.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.23 - Investigations.",
+      "number": "3721.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.24 - Whistleblower protection.",
+      "number": "3721.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.25 - Confidentiality.",
+      "number": "3721.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.26 - Adoption of rules.",
+      "number": "3721.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.28 - Nurses aides training and competency evaluation programs.",
+      "number": "3721.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.29 - Orientation program - performance review - in-service education.",
+      "number": "3721.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.30 - Competency evaluation program contents.",
+      "number": "3721.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.31 - Approving or rejecting programs.",
+      "number": "3721.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.32 - State nurse aide registry.",
+      "number": "3721.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.33 - Nurse aide training fund.",
+      "number": "3721.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.34 - Cooperation with other agencies.",
+      "number": "3721.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.35 - Unauthorized practice of nursing.",
+      "number": "3721.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.60 - Electronic monitoring in long-term care facilities definitions.",
+      "number": "3721.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.61 - Electronic monitoring authorization form.",
+      "number": "3721.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.62 - Roommate consent.",
+      "number": "3721.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.63 - Form prescribed by facility.",
+      "number": "3721.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.64 - Posted notice.",
+      "number": "3721.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.65 - No discrimination for use of electronic monitoring device.",
+      "number": "3721.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.66 - Tampering and unauthorized use.",
+      "number": "3721.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.67 - Rulemaking.",
+      "number": "3721.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.67"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.68 - Law enforcement exception.",
+      "number": "3721.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.68"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.69 - [Enacted as R.C. 3721.60 by H.B. 122, 134th General Assembly and recodified as R.C. 3721.69 pursuant to R.C. 103.131] Video-conference visitation.",
+      "number": "3721.69",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.69"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3721.99 - Penalty.",
+      "number": "3721.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3721.99"
+    }
+  ],
+  "scraped": "2026-07-02T19:51:36+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-3721",
+  "title": "Chapter 3721 - Nursing Homes; Residential Care Facilities"
+}

@@ -1,0 +1,46 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Threshold limit values\" means that, for the years 1946 through 1971, the concentration of asbestos in a worker's breathing zone did not exceed the following maximum allowable exposure limits for the eight-hour time-weighted average airborne concentration:\n\n(a) Asbestos: five million particles per cubic foot;\n\n(b) Cadmium: 0.10 milligrams per cubic meter;\n\n(c) Chromic acid and chromates (calculated as chromic oxide): 0.10 milligrams per cubic meter;\n\n(d) Lead: 0.15 milligrams per cubic meter;\n\n(e) Manganese: 6.0 milligrams per cubic meter;\n\n(f) Mercury: 0.10 milligrams per cubic meter;\n\n(g) Zinc oxide: 15.0 milligrams per cubic meter;\n\n(h) Chlorinated diphenyls: 1.0 milligram per cubic meter;\n\n(i) Chlorinated naphthalenes (trichlornaphthalene): 5.0 milligrams per cubic meter;\n\n(j) Chlorinated naphthalenes (pentachlornaphthalene): 0.50 milligrams per cubic meter.",
+      "id": "2307.941-threshold-limit-values",
+      "normalized": "threshold limit values",
+      "scope": "(B) As used in this section:",
+      "section": "2307.941",
+      "source_title": "Section 2307.941 - Asbestos claim against premises owner.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2307.941",
+      "term": "Threshold limit values"
+    },
+    {
+      "definition": "(2) \"Established safety standard\" means that, for the years after 1971, the concentration of asbestos in the breathing zone of a worker does not exceed the maximum allowable exposure limits for the eight-hour time-weighted average airborne concentration as promulgated by the occupational safety and health administration (OSHA) in effect at the time of the alleged exposure.",
+      "id": "2307.941-established-safety-standard",
+      "normalized": "established safety standard",
+      "scope": "(B) As used in this section:",
+      "section": "2307.941",
+      "source_title": "Section 2307.941 - Asbestos claim against premises owner.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2307.941",
+      "term": "Established safety standard"
+    },
+    {
+      "definition": "(3) \"Employee\" means an individual who performs labor or provides construction services pursuant to a construction contract as defined in section 4123.79 of the Revised Code, or a remodeling or repair contract, whether written or oral, if at least ten of the following criteria apply:\n\n(a) The individual is required to comply with instructions from the other contracting party regarding the manner or method of performing services.\n\n(b) The individual is required by the other contracting party to have particular training.\n\n(c) The individual's services are integrated into the regular functioning of the other contracting party.\n\n(d) The individual is required to perform the work personally.\n\n(e) The individual is hired, supervised, or paid by the other contracting party.\n\n(f) A continuing relationship exists between the individual and the other contracting party that contemplates continuing or recurring work even if the work is not full time.\n\n(g) The individual's hours of work are established by the other contracting party.\n\n(h) The individual is required to devote full time to the business of the other contracting party.\n\n(i) The person is required to perform the work on the premises of the other contracting party.\n\n(j) The individual is required to follow the order of work set by the other contracting party.\n\n(k) The individual is required to make oral or written reports of progress to the other contracting party.\n\n(l) The individual is paid for services on a regular basis, including hourly, weekly, or monthly.\n\n(m) The individual's expenses are paid for by the other contracting party.\n\n(n) The individual's tools and materials are furnished by the other contracting party.\n\n(o) The individual is provided with the facilities used to perform services.\n\n(p) The individual does not realize a profit or suffer a loss as a result of the services provided.\n\n(q) The individual is not performing services for a number of employers at the same time.\n\n(r) The individual does not make the same services available to the general public.\n\n(s) The other contracting party has a right to discharge the individual.\n\n(t) The individual has the right to end the relationship with the other contracting party without incurring liability pursuant to an employment contract or agreement.",
+      "id": "2307.941-employee",
+      "normalized": "employee",
+      "scope": "(B) As used in this section:",
+      "section": "2307.941",
+      "source_title": "Section 2307.941 - Asbestos claim against premises owner.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2307.941",
+      "term": "Employee"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "4123.79",
+      "number": "4123.79",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.79"
+    }
+  ],
+  "scraped": "2026-07-02T19:43:26+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2307.941",
+  "title": "Section 2307.941 - Asbestos claim against premises owner."
+}

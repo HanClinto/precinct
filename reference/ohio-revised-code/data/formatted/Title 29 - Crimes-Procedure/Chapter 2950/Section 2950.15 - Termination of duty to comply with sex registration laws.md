@@ -1,0 +1,70 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-2950.15
+Scraped: 2026-07-02T19:47:02+00:00
+
+# Section 2950.15 - Termination of duty to comply with sex registration laws.
+
+**Effective:** January 1, 2008
+
+**Latest Legislation:** Senate Bill 10 - 127th General Assembly
+
+(A) As used in this section and section 2950.16 of the Revised Code, "eligible offender" means a person who is convicted of, pleads guilty to, was convicted of, or pleaded guilty to a sexually oriented offense or child-victim oriented offense, regardless of when the offense was committed, and is a tier I sex offender/child-victim offender or a child who is or was adjudicated a delinquent child for committing a sexually oriented offense or child-victim oriented offense, regardless of when the offense was committed, and is a public registry-qualified juvenile offender registrant.
+
+(B) Pursuant to this section, an eligible offender may make a motion to the court of common pleas or, for a delinquent child, the juvenile court of the county in which the eligible offender resides requesting that the court terminate the eligible offender's duty to comply with sections 2950.04 , 2950.041 , 2950.05 , and 2950.06 of the Revised Code. If the eligible offender is not a resident of this state, the eligible offender may make a motion to the court of common pleas of the county in which the eligible offender has registered pursuant to section 2950.04 or 2950.041 of the Revised Code, but if the eligible offender has registered addresses of that nature in more than one county, the eligible offender may make such a motion in the court of only one of those counties. Notwithstanding any state or local rule assigning costs and fees for filing and processing civil and criminal cases, the fee for filing the motion shall be one hundred fifty dollars. This fee shall be applied to any further processing of the motion, including, but not limited to, the costs associated with investigating the motion, notifying relevant parties, scheduling hearings, and recording and reporting the court's determination.
+
+(C)(1) Except as provided in division (C)(2) of this section, an eligible offender who is classified a tier I sex offender/child-victim offender may make a motion under division (B) of this section upon the expiration of ten years after the eligible offender's duty to comply with division (A)(2) or (4) of section 2950.04 or division (A)(2) or (4) of section 2950.041 and sections 2950.05 and 2950.06 of the Revised Code begins in relation to the offense for which the eligible offender is subject to those provisions.
+
+(2) An eligible offender who is a delinquent child and is classified a public registry-qualified juvenile offender registrant may make a motion under division (B) of this section upon the expiration of twenty-five years after the eligible offender's duty to comply with division (A)(3) or (4) of section 2950.04 and sections 2950.05 and 2950.06 of the Revised Code begins in relation to the offense for which the eligible offender is subject to those provisions.
+
+(D) An eligible offender who makes a motion under division (B) of this section shall include all of the following with the motion:
+
+(1) A certified copy of the judgment entry and any other documentation of the sentence or disposition given for the offense or offenses for which the eligible offender was convicted, pleaded guilty, or was adjudicated a delinquent child;
+
+(2) Documentation of the date of discharge from supervision or release, whichever is applicable;
+
+(3) Evidence that the eligible offender has completed a sex offender or child-victim offender treatment program certified by the department of rehabilitation and correction or the department of youth services pursuant to section 2950.16 of the Revised Code;
+
+(4) Evidence that the eligible offender has not been convicted of, pleaded guilty to, or been adjudicated a delinquent child for committing any subsequent sexually oriented offense, child-victim oriented offense, or other criminal offense, except for a minor misdemeanor traffic offense;
+
+(5) Evidence that the eligible offender has paid any financial sanctions imposed upon the offender pursuant to section 2929.18 or 2929.28 of the Revised Code.
+
+(E) Upon the filing of a motion pursuant to division (B) of this section, the offender or delinquent child shall serve a copy of the motion on the prosecutor who handled the case in which the eligible offender was convicted of, pleaded guilty to, or was adjudicated a delinquent child for committing the sexually oriented offense or child-victim oriented offense. Upon the filing of the motion, the court shall set a tentative date for a hearing on the motion that is not later than one hundred eighty days from the date the motion is filed unless good cause exists to hold the hearing at a later date and shall notify the eligible offender and the prosecutor of the date, time, and place of the hearing. The court shall then forward a copy of the motion and its supporting documentation to the court's probation department or another appropriate agency to investigate the merits of the motion. The probation department or agency shall submit a written report detailing its investigation to the court within sixty days of receiving the motion and supporting documentation.
+
+Upon receipt of the written report from the probation department or other appropriate agency, the court shall forward a copy of the motion, supporting documentation, and the written report to the prosecutor.
+
+(F)(1) After the prosecutor is served with a copy of the motion as described in division (E) of this section, the prosecutor shall notify the victim of any offense for which the eligible offender is requesting a termination of duties under sections 2950.04 , 2950.041 , 2950.05 , and 2950.06 of the Revised Code. The victim may submit a written statement to the prosecutor regarding any knowledge the victim has of the eligible offender's conduct while subject to the duties imposed by sections 2950.04 , 2950.041 , 2950.05 , and 2950.06 of the Revised Code.
+
+(2) At least seven days before the hearing date, the prosecutor may file an objection to the motion with the court and serve a copy of the objection to the motion to the eligible offender or the eligible offender's attorney.
+
+(G) In addition to the evidence that accompanies the motion described in division (D) of this section and the written report submitted pursuant to division (E) of this section, in determining whether to grant a motion made under division (B) of this section, the court may consider any other evidence the court considers relevant, including, but not limited to, evidence of the following while the eligible offender has been subject to the duties imposed under sections 2950.04 , 2950.041 , 2950.05 , and 2950.06 of the Revised Code:
+
+(1) Whether the eligible offender's driver's license, commercial driver's license, temporary instruction permit, probationary license, or nonresident operating privilege has ever been suspended;
+
+(2) Whether the eligible offender has maintained financial responsibility for a motor vehicle as required by section 4509.101 of the Revised Code;
+
+(3) Whether the eligible offender has satisfied any child or spousal support obligations, if applicable;
+
+(4) Whether the eligible offender has paid all local, state, and federal income taxes, and has timely filed all associated income tax returns, as required by local, state, or federal law;
+
+(5) Whether there is evidence that the eligible offender has adequately addressed sex offending or child-victim offending behaviors;
+
+(6) Whether the eligible offender has maintained a residence for a substantial period of time;
+
+(7) Whether the eligible offender has maintained employment or, if the eligible offender has not been employed while under a duty to comply with sections 2950.04 , 2950.041 , 2950.05 , and 2950.06 of the Revised Code, whether the eligible offender has satisfied the offender's financial obligations through other manners of support such as disability payments, a pension, spousal or child support, or scholarships or grants;
+
+(8) Whether the eligible offender has adequately addressed any drug or alcohol abuse or addiction;
+
+(9) Letters of reference;
+
+(10) Documentation of the eligible offender's service to the community or to specific individuals in need.
+
+(H)(1) The court, without a hearing, may issue an order denying the eligible offender's motion to terminate the eligible offender's duty to comply with sections 2950.04 , 2950.041 , 2950.05 , and 2950.06 of the Revised Code if the court, based on the evidence submitted with the motion pursuant to division (D) of this section and the written report submitted pursuant to division (E) of this section and after considering the factors described in division (G) of this section, finds that those duties should not be terminated.
+
+(2) If the prosecutor does not file an objection to the eligible offender's application as provided in division (F)(2) of this section, the court, without a hearing, may issue an order that terminates the eligible offender's duty to comply with sections 2950.04 , 2950.041 , 2950.05 , and 2950.06 of the Revised Code if the court, based on the evidence submitted with the motion pursuant to division (D) of this section and the written report submitted pursuant to division (E) of this section and after considering the factors described in division (G) of this section, finds that those duties should be terminated.
+
+(3) If the court does not issue an order under division (H)(1) or (2) of this section, the court shall hold a hearing to determine whether to grant or deny the motion. At the hearing, the Rules of Civil Procedure or, if the hearing is in a juvenile court, the Rules of Juvenile Procedure apply, except to the extent that those Rules would by their nature be clearly inapplicable. At the hearing, the eligible offender has the burden of going forward with the evidence and the burden of proof by a preponderance of the evidence. If, after considering the evidence submitted with the motion pursuant to division (D) of this section, the written report submitted pursuant to division (E) of this section, and the factors described in division (G) of this section, the court finds that the eligible offender has satisfied the burden of proof, the court shall issue an order that terminates the eligible offender's duty to comply with sections 2950.04 , 2950.041 , 2950.05 , and 2950.06 of the Revised Code. If the court finds that the eligible offender has not satisfied the burden of proof, the court shall issue an order denying the motion.
+
+(4)(a) The court shall provide prompt notice of its order issued pursuant to division (H)(1), (2), or (3) of this section to the eligible offender or the eligible offender's attorney.
+
+(b) If the court issues an order terminating the eligible offender's duty to comply with sections 2950.04 , 2950.041 , 2950.05 , and 2950.06 of the Revised Code, the court shall promptly forward a copy of the order to the bureau of criminal identification and investigation. Upon receipt of the order, the bureau shall update all records pertaining to the eligible offender to reflect the termination order. The bureau also shall notify every sheriff with whom the eligible offender has most recently registered under section 2950.04 , 2950.041 , or 2950.05 of the Revised Code of the termination order.
+
+(c) If the court issues an order terminating the eligible offender's duty to comply with sections 2950.04 , 2950.041 , 2950.05 , and 2950.06 of the Revised Code, the court shall promptly forward a copy of the order to any court that sentenced the offender or adjudicated the child a delinquent child for a sexually oriented offense or child-victim oriented offense that is the basis of the termination order. The court that receives this notice shall retain a copy of the order in the eligible offender's original case file.

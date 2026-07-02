@@ -1,0 +1,88 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Health care coverage\" means such medical support that includes a health insurance coverage or a public health care plan, payment of costs of premiums, copayments, and deductibles, or payment for medical expenses incurred on behalf of the child.",
+      "id": "3119.29-health-care-coverage",
+      "normalized": "health care coverage",
+      "scope": "As used in this section and sections 3119.30 to 3119.56 of the Revised Code:",
+      "section": "3119.29",
+      "source_title": "Section 3119.29 - Health insurance coverage for children definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3119.29",
+      "term": "Health care coverage"
+    },
+    {
+      "definition": "(B) \"Health insurance coverage\" means accessible private health insurance that provides primary care services within thirty miles from the residence of the child subject to the child support order.",
+      "id": "3119.29-health-insurance-coverage",
+      "normalized": "health insurance coverage",
+      "scope": "As used in this section and sections 3119.30 to 3119.56 of the Revised Code:",
+      "section": "3119.29",
+      "source_title": "Section 3119.29 - Health insurance coverage for children definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3119.29",
+      "term": "Health insurance coverage"
+    },
+    {
+      "definition": "(C) \"Health plan administrator\" means any entity authorized under Title XXXIX of the Revised Code to engage in the business of insurance in this state, any health insuring corporation, any legal entity that is self-insured and provides benefits to its employees or members, and the administrator of any such entity or corporation.",
+      "id": "3119.29-health-plan-administrator",
+      "normalized": "health plan administrator",
+      "scope": "As used in this section and sections 3119.30 to 3119.56 of the Revised Code:",
+      "section": "3119.29",
+      "source_title": "Section 3119.29 - Health insurance coverage for children definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3119.29",
+      "term": "Health plan administrator"
+    },
+    {
+      "definition": "(D) \"National medical support notice\" means a form required by the \"Child Support Performance and Incentive Act of 1998,\" P.L. 105-200, 112 Stat. 659, 42 U.S.C. 666(a)(19), as amended, and jointly developed and promulgated by the secretary of health and human services and the secretary of labor in federal regulations adopted under that act as modified by the department of job and family services under section 3119.291 of the Revised Code.",
+      "id": "3119.29-national-medical-support-notice",
+      "normalized": "national medical support notice",
+      "scope": "As used in this section and sections 3119.30 to 3119.56 of the Revised Code:",
+      "section": "3119.29",
+      "source_title": "Section 3119.29 - Health insurance coverage for children definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3119.29",
+      "term": "National medical support notice"
+    },
+    {
+      "definition": "(E) \"Person required to provide health insurance coverage\" means the obligor, obligee, or both, required by the court under a court child support order or by the child support enforcement agency under an administrative child support order to provide health insurance coverage pursuant to section 3119.30 of the Revised Code.",
+      "id": "3119.29-person-required-to-provide-health-insurance-coverage",
+      "normalized": "person required to provide health insurance coverage",
+      "scope": "As used in this section and sections 3119.30 to 3119.56 of the Revised Code:",
+      "section": "3119.29",
+      "source_title": "Section 3119.29 - Health insurance coverage for children definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3119.29",
+      "term": "Person required to provide health insurance coverage"
+    },
+    {
+      "definition": "(F) \"Reasonable cost\" means that the cost of health insurance coverage to the person required to provide health insurance coverage for the children who are the subject of the child support order does not exceed an amount equal to five per cent of the annual income of that person.",
+      "id": "3119.29-reasonable-cost",
+      "normalized": "reasonable cost",
+      "scope": "As used in this section and sections 3119.30 to 3119.56 of the Revised Code:",
+      "section": "3119.29",
+      "source_title": "Section 3119.29 - Health insurance coverage for children definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3119.29",
+      "term": "Reasonable cost"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3119.30",
+      "number": "3119.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.30"
+    },
+    {
+      "kind": "section",
+      "label": "3119.56",
+      "number": "3119.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.56"
+    },
+    {
+      "kind": "section",
+      "label": "3119.291",
+      "number": "3119.291",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3119.291"
+    }
+  ],
+  "scraped": "2026-07-02T19:47:54+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3119.29",
+  "title": "Section 3119.29 - Health insurance coverage for children definitions."
+}

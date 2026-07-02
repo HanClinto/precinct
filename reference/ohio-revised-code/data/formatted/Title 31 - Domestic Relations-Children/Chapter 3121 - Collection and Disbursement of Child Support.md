@@ -1,0 +1,102 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-3121
+Scraped: 2026-07-02T19:47:57+00:00
+
+# Chapter 3121 - Collection and Disbursement of Child Support
+
+## Sections
+
+- Section 3121.01 - Collection and disbursement of child support definitions.
+- Section 3121.02 - Ensuring that withholding or deduction from income or assets of obligor is available.
+- Section 3121.03 - Withholding or deduction from income or assets of obligor.
+- Section 3121.031 - Determining employment status of obligor, obligor's social security number, name and business address of obligor's employer, and other information.
+- Section 3121.032 - Including withholding or deduction requirements or other appropriate requirements in notices and orders.
+- Section 3121.033 - Aggregate amount withheld or deducted to satisfy amount ordered for support.
+- Section 3121.034 - Priority of withholding or deduction requirement for support.
+- Section 3121.035 - Notices and orders sent to persons required to comply.
+- Section 3121.036 - Attaching additional notice to obligor to provide certain information.
+- Section 3121.037 - Contents of withholding or deduction notice.
+- Section 3121.038 - Limit on information included in withholding or deduction notice.
+- Section 3121.039 - Prior orders and notices considered to be notices and orders under 2001 provisions.
+- Section 3121.0310 - Adoption of standard forms for notices.
+- Section 3121.0311 - Notice to obligor's workers' compensation attorney regarding lump sum payment.
+- Section 3121.04 - Cash bond given by obligor.
+- Section 3121.05 - Obligor with no income or assets to give notice of change - default hearing.
+- Section 3121.06 - Obligor with no income or assets to give notice of change - modification hearing.
+- Section 3121.07 - Unemployment compensation benefits withholding or deductions.
+- Section 3121.08 - Prisoner earnings.
+- Section 3121.09 - Withholding support from payments due from the state to certain persons.
+- Section 3121.091 - Service of notice of withholding support from payments due from the state to certain persons.
+- Section 3121.12 - Procedure concerning lump sum payment.
+- Section 3121.14 - Notice of change in source of income or accounts.
+- Section 3121.15 - Issuing notice requiring withholding when obligor begins employment.
+- Section 3121.16 - Notice is final and enforceable.
+- Section 3121.18 - Fees.
+- Section 3121.19 - Time for forwarding amount withheld or deducted.
+- Section 3121.20 - Combining amounts to be forwarded.
+- Section 3121.21 - Payor or financial institution - immunity.
+- Section 3121.23 - Service.
+- Section 3121.24 - Parties must provide information to agency.
+- Section 3121.25 - Notice of request for modification or filing action for enforcement.
+- Section 3121.27 - Including general statement in support orders.
+- Section 3121.28 - Including statements concerning monthly payment in support orders.
+- Section 3121.29 - Including warning notice in support orders.
+- Section 3121.30 - Including obligor's date of birth and social security number in support orders.
+- Section 3121.33 - Notices and orders final and enforceable by court.
+- Section 3121.34 - Complying with withholding or deduction notice without amending order.
+- Section 3121.35 - Court to have all powers necessary to enforce order.
+- Section 3121.36 - Authority to collect arrearage after termination of order.
+- Section 3121.37 - Contempt for failure to comply with administrative order.
+- Section 3121.371 - Contempt for failure to comply with withholding order.
+- Section 3121.372 - Contempt for failure to send notice.
+- Section 3121.373 - Hearing - notice.
+- Section 3121.38 - Liability of payor or financial institution.
+- Section 3121.381 - Fining noncomplying payor or financial institution.
+- Section 3121.382 - Issuing order upon finding of willful failure to comply with withholding notice.
+- Section 3121.39 - Employer not to take adverse action against employee subject to child support withholding.
+- Section 3121.43 - Duties of office of child support.
+- Section 3121.44 - Support payments to be made to office of child support.
+- Section 3121.441 - Direct spousal support payments.
+- Section 3121.45 - Payments deemed to be gifts.
+- Section 3121.47 - Application to child support enforcement agency for administration of order.
+- Section 3121.48 - Separate account for support payments received as trustee.
+- Section 3121.49 - Retention of interest.
+- Section 3121.50 - Distributing amount forwarded to obligee.
+- Section 3121.51 - Administering orders on monthly basis.
+- Section 3121.52 - Calculating monthly amount due where payments made on other basis.
+- Section 3121.53 - Payments made on other basis not to affect the frequency or the amount of the support payments.
+- Section 3121.54 - Payment of support commencing on day other than first day of month.
+- Section 3121.56 - Collecting administrative charge.
+- Section 3121.57 - Applying administrative charge.
+- Section 3121.58 - Separate arrearage account for unpaid charges.
+- Section 3121.59 - Disposing of fines paid for failure to give notice of changes.
+- Section 3121.64 - Quarterly distributions of administrative charges to county agencies.
+- Section 3121.65 - Restriction on use of administrative charges.
+- Section 3121.67 - Contracting with public or private entities to perform duties.
+- Section 3121.69 - Using facsimile signature.
+- Section 3121.71 - Administrative rules.
+- Section 3121.74 - Account information access agreements - financial data matching program.
+- Section 3121.75 - Deducting fee for each withdrawal.
+- Section 3121.76 - Confidentiality requirements.
+- Section 3121.77 - Financial institutions or personnel - immunity.
+- Section 3121.78 - Administrative rules concerning account information agreements.
+- Section 3121.81 - Case registry of support orders.
+- Section 3121.82 - Information included in case registry.
+- Section 3121.83 - Maintenance of case registry.
+- Section 3121.84 - Comparing information.
+- Section 3121.85 - Duties of agencies and office of child support to update and maintain information.
+- Section 3121.86 - Administrative rules for case registry.
+- Section 3121.89 - Employee and employer defined.
+- Section 3121.891 - Duty to make a new hire report.
+- Section 3121.892 - Information included in new hire report.
+- Section 3121.893 - Methods for making new hire report.
+- Section 3121.894 - New hires directory.
+- Section 3121.895 - Comparing social security numbers in new hire report with case registry.
+- Section 3121.896 - Director of job and family services to determine use of information - increase of payment to contractor.
+- Section 3121.897 - New hire information furnished to national directory of new hires.
+- Section 3121.898 - Using new hire reports.
+- Section 3121.899 - Disclosure of new hire reports.
+- Section 3121.8910 - Fee for failing to make new hire report.
+- Section 3121.8911 - Administrative rules for new hire report.
+- Section 3121.91 - Interstate cooperation.
+- Section 3121.92 - International cooperation.
+- Section 3121.99 - Penalty.

@@ -1,0 +1,12 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-1519.02
+Scraped: 2026-07-02T19:37:45+00:00
+
+# Section 1519.02 - Acquisition and maintenance of property for trails.
+
+**Effective:** October 26, 1999
+
+**Latest Legislation:** House Bill 19 - 123rd General Assembly
+
+The director of natural resources may acquire real property or any estate, right, or interest therein for the purpose of establishing, protecting, and maintaining any state recreational trail. The director may appropriate real property or any estate, right, or interest therein for trail purposes only along a canal, watercourse, stream, existing or abandoned road, highway, street, logging road, railroad, or ridge or other landform or topographic feature particularly suited for nonmotorized vehicular recreational use, and may not appropriate more than twenty-five acres including land purchased with or without appropriation proceedings along any mile of trail. Any state department or agency or any political subdivision may transfer real property or any estate, right, or interest therein to the director for such purpose, or may enter into an agreement with the director for the establishment, protection, and maintenance of a trail. The director may transfer real property or any estate, right, or interest therein to any political subdivision pursuant to an agreement whereby the political subdivision maintains and protects a trail. The director may enter into agreements with private organizations or with agencies of the United States to provide for maintenance of any trail or section thereof. The director shall provide campsites, shelters, footbridges, water, sanitary, watercraft launching, and other facilities for recreational use, nature and historical interpretation, and administration of the state trails system. The director may cooperate with the director of transportation in providing appropriate means for trails to cross highways. The director may restore historical sites along a trail. The director shall publish and distribute maps, guides, pamphlets, and other interpretative literature on the state trails system and on individual trails which the director considers suitable for extensive public use.
+
+Any instrument by which real property is acquired pursuant to this section shall identify the agency of the state that has the use and benefit of the real property as specified in section 5301.012 of the Revised Code.

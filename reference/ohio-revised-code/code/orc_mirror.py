@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Download and format the Ohio Revised Code Title 35 mirror."""
+"""Download and format Ohio Revised Code mirrors."""
 
 from __future__ import annotations
 
@@ -17,7 +17,8 @@ from dataclasses import dataclass
 from html.parser import HTMLParser
 from pathlib import Path
 
-TITLE_URL = "https://codes.ohio.gov/ohio-revised-code/title-35"
+ORC_INDEX_URL = "https://codes.ohio.gov/ohio-revised-code"
+DEFAULT_TITLE_NUMBER = "35"
 DEFAULT_DELAY_SECONDS = 1.5
 MAX_RETRIES = 4
 USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"
@@ -348,7 +349,7 @@ def reference_for_url(url: str, label: str) -> dict[str, str] | None:
 def embedded_section_pages(chapter_page: Page) -> list[Page]:
     pattern = re.compile(
         r'(?s)<span\s+id="content-head-\d+"\s+class="content-head">.*?'
-        r'<a\s+href="(?P<href>section-35\d+\.\d+)">(?P<title>.*?)</a>.*?'
+        r'<a\s+href="(?P<href>section-\d+\.\d+)">(?P<title>.*?)</a>.*?'
         r'</span>(?P<body>.*?)(?=<span\s+id="content-head-\d+"\s+class="content-head">|</main>)'
     )
     pages: list[Page] = []
@@ -388,20 +389,52 @@ def page_kind(url: str) -> str:
 def formatted_path_for_page(page: Page) -> Path:
     title = page_title(page.html)
     parsed = urllib.parse.urlparse(page.url)
-    if "/title-35" in parsed.path:
-        return FORMATTED_DIR / "Title 35 - Elections" / "README.md"
+    title_root = formatted_title_root(page)
+    if "/title-" in parsed.path:
+        return title_root / "README.md"
 
     chapter_match = re.search(r"/chapter-(\d+)", parsed.path)
     if chapter_match:
-        return FORMATTED_DIR / "Title 35 - Elections" / slug_filename(f"{title}.md")
+        return title_root / slug_filename(f"{title}.md")
 
     section_match = re.search(r"/section-(\d+\.\d+)", parsed.path)
     if section_match:
         section = section_match.group(1)
         chapter = section.split(".", 1)[0]
-        return FORMATTED_DIR / "Title 35 - Elections" / f"Chapter {chapter}" / slug_filename(f"{title}.md")
+        return title_root / f"Chapter {chapter}" / slug_filename(f"{title}.md")
 
     return FORMATTED_DIR / slug_filename(f"{title}.md")
+
+
+def formatted_title_root(page: Page) -> Path:
+    title_number = title_number_for_url(page.url)
+    title_page = load_raw(title_url(title_number)) if title_number else None
+    if title_page:
+        return FORMATTED_DIR / page_title(title_page.html)
+    title_match = re.search(r"^Title\s+\d+\s+-\s+", page_title(page.html))
+    if title_match:
+        return FORMATTED_DIR / page_title(page.html)
+    return FORMATTED_DIR / f"Title {title_number}" if title_number else FORMATTED_DIR
+
+
+def title_number_for_url(url: str) -> str:
+    parsed = urllib.parse.urlparse(url)
+    title_match = re.search(r"/title-(\d+)", parsed.path)
+    if title_match:
+        return title_match.group(1)
+    chapter_match = re.search(r"/chapter-(\d+)", parsed.path)
+    if chapter_match:
+        chapter_number = chapter_match.group(1)
+        return chapter_number[:-2] if len(chapter_number) > 2 else chapter_number
+    section_match = re.search(r"/section-(\d+)", parsed.path)
+    if section_match:
+        chapter_number = section_match.group(1)
+        return chapter_number[:-2] if len(chapter_number) > 2 else chapter_number
+    return ""
+
+
+def title_url(title_number: str) -> str:
+    return f"{ORC_INDEX_URL}/title-{title_number}"
 
 
 def slug_filename(name: str) -> str:
@@ -418,10 +451,10 @@ def format_page(page: Page) -> Path:
     kind = page_kind(page.url)
     glossary: list[dict[str, str]] = []
     if kind == "title":
-        references = extract_reference_links(page, r"/ohio-revised-code/chapter-35\d+", text_pattern=r"^Chapter\s+35\d+")
+        references = extract_reference_links(page, r"/ohio-revised-code/chapter-\d+", text_pattern=r"^Chapter\s+\d+")
         body = index_markdown("Chapters", references)
     elif kind == "chapter":
-        references = extract_reference_links(page, r"/ohio-revised-code/section-35\d+\.\d+", text_pattern=r"^Section\s+35\d+\.\d+")
+        references = extract_reference_links(page, r"/ohio-revised-code/section-\d+\.\d+", text_pattern=r"^Section\s+\d+\.\d+")
         body = index_markdown("Sections", references)
     else:
         parser = MainContentParser(page.url)
@@ -513,8 +546,7 @@ def glossary_id(section_number: str, term: str) -> str:
     return f"{section_number}-{slug}" if section_number else slug
 
 
-def write_manifest() -> Path:
-    title_root = FORMATTED_DIR / "Title 35 - Elections"
+def write_manifest(title_root: Path) -> Path:
     title_metadata = json.loads((title_root / "README.json").read_text(encoding="utf-8"))
     chapters = []
     glossary_entries = []
@@ -550,7 +582,7 @@ def write_manifest() -> Path:
     manifest = {
         "collection": "Ohio Revised Code",
         "title": title_metadata["title"],
-        "scope": "Title 35 - Elections",
+        "scope": title_root.name,
         "sourceUrl": title_metadata["source_url"],
         "generatedAt": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"),
         "counts": {
@@ -589,38 +621,56 @@ def repo_relative_path(path: Path) -> str:
     return path.relative_to(REPO_ROOT).as_posix()
 
 
-def download_mirror(*, force: bool, delay_seconds: float, offline: bool) -> tuple[int, int]:
+def title_urls_for_run(*, all_titles: bool, title_numbers: list[str], delay_seconds: float, force: bool, offline: bool) -> list[str]:
+    if title_numbers:
+        return [title_url(number) for number in title_numbers]
+    if not all_titles:
+        return [title_url(DEFAULT_TITLE_NUMBER)]
+    index_page = fetch(ORC_INDEX_URL, delay_seconds=delay_seconds, force=force, offline=offline)
+    return extract_links(index_page, r"/ohio-revised-code/title-\d+", text_pattern=r"^Title\s+\d+")
+
+
+def download_mirror(*, force: bool, delay_seconds: float, offline: bool, all_titles: bool, title_numbers: list[str]) -> tuple[int, int]:
     raw_count = 0
     formatted_count = 0
-    title_page = fetch(TITLE_URL, delay_seconds=delay_seconds, force=force, offline=offline)
-    raw_count += 1
-    format_page(title_page)
-    formatted_count += 1
-
-    chapter_urls = extract_links(title_page, r"/ohio-revised-code/chapter-35\d+", text_pattern=r"^Chapter\s+35\d+")
-    log(f"found  {len(chapter_urls)} Title 35 chapters")
-    for chapter_index, chapter_url in enumerate(chapter_urls, start=1):
-        log(f"chapter {chapter_index}/{len(chapter_urls)} {chapter_url}")
-        chapter_page = fetch(chapter_url, delay_seconds=delay_seconds, force=force, offline=offline)
+    title_urls = title_urls_for_run(all_titles=all_titles, title_numbers=title_numbers, delay_seconds=delay_seconds, force=force, offline=offline)
+    if all_titles and not title_numbers:
         raw_count += 1
-        format_page(chapter_page)
-        formatted_count += 1
-        section_pages = embedded_section_pages(chapter_page)
-        log(f"found  {len(section_pages)} embedded sections in {chapter_url}")
-        for section_index, section_page in enumerate(section_pages, start=1):
-            log(f"section {section_index}/{len(section_pages)} {section_page.url}")
-            format_page(section_page)
-            formatted_count += 1
+    log(f"found  {len(title_urls)} ORC titles")
 
-    write_manifest()
+    for title_index, current_title_url in enumerate(title_urls, start=1):
+        log(f"title  {title_index}/{len(title_urls)} {current_title_url}")
+        title_page = fetch(current_title_url, delay_seconds=delay_seconds, force=force, offline=offline)
+        raw_count += 1
+        title_markdown_path = format_page(title_page)
+        formatted_count += 1
+
+        chapter_urls = extract_links(title_page, r"/ohio-revised-code/chapter-\d+", text_pattern=r"^Chapter\s+\d+")
+        log(f"found  {len(chapter_urls)} chapters in {page_title(title_page.html)}")
+        for chapter_index, chapter_url in enumerate(chapter_urls, start=1):
+            log(f"chapter {chapter_index}/{len(chapter_urls)} {chapter_url}")
+            chapter_page = fetch(chapter_url, delay_seconds=delay_seconds, force=force, offline=offline)
+            raw_count += 1
+            format_page(chapter_page)
+            formatted_count += 1
+            section_pages = embedded_section_pages(chapter_page)
+            log(f"found  {len(section_pages)} embedded sections in {chapter_url}")
+            for section_index, section_page in enumerate(section_pages, start=1):
+                log(f"section {section_index}/{len(section_pages)} {section_page.url}")
+                format_page(section_page)
+                formatted_count += 1
+
+        write_manifest(title_markdown_path.parent)
     return raw_count, formatted_count
 
 
 def parse_args() -> argparse.Namespace:
-    parser = argparse.ArgumentParser(description="Download and format the ORC Title 35 mirror.")
+    parser = argparse.ArgumentParser(description="Download and format ORC mirrors.")
     parser.add_argument("--force", action="store_true", help="Download pages even when raw HTML already exists.")
     parser.add_argument("--offline", action="store_true", help="Use only cached raw HTML and never make network requests.")
     parser.add_argument("--delay", type=float, default=DEFAULT_DELAY_SECONDS, help="Seconds to wait before each request.")
+    parser.add_argument("--all-titles", action="store_true", help="Download every numeric ORC title listed on the ORC index page.")
+    parser.add_argument("--title", action="append", default=[], help="Download one ORC title number. May be provided multiple times. Defaults to 35.")
     args = parser.parse_args()
     if args.force and args.offline:
         parser.error("--force cannot be used with --offline")
@@ -630,7 +680,7 @@ def parse_args() -> argparse.Namespace:
 def main() -> int:
     args = parse_args()
     try:
-        raw_count, formatted_count = download_mirror(force=args.force, delay_seconds=args.delay, offline=args.offline)
+        raw_count, formatted_count = download_mirror(force=args.force, delay_seconds=args.delay, offline=args.offline, all_titles=args.all_titles, title_numbers=args.title)
     except urllib.error.HTTPError as error:
         print(f"HTTP error while downloading {error.url}: {error.code} {error.reason}", file=sys.stderr)
         return 1

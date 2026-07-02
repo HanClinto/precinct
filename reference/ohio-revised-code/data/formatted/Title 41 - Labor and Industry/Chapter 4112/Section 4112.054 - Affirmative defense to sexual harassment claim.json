@@ -1,0 +1,42 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Tangible employment action\" means an action resulting in a significant change in employment status, such as hiring, firing, failing to promote, reassignment with significantly different responsibilities, or a decision causing a significant change in benefits.",
+      "id": "4112.054-tangible-employment-action",
+      "normalized": "tangible employment action",
+      "scope": "(A) As used in this section:",
+      "section": "4112.054",
+      "source_title": "Section 4112.054 - Affirmative defense to sexual harassment claim.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4112.054",
+      "term": "Tangible employment action"
+    },
+    {
+      "definition": "(2) \"Hostile work environment sexual harassment claim\" means a charge filed pursuant to section 4112.051 of the Revised Code or a civil action filed pursuant to section 4112.052 of the Revised Code that alleges an unlawful discriminatory practice relating to employment because of sex on the basis of sexually harassing behavior that did not result in a tangible employment action.\n\n(B) An employer may raise an affirmative defense to vicarious liability to an employee resulting from a hostile work environment sexual harassment claim in which the hostile work environment was created by a supervisor with immediate or successively higher authority over the employee, if the employer proves both of the following by a preponderance of the evidence:\n\n(1) The employer exercised reasonable care to prevent or promptly correct any sexually harassing behavior.\n\n(2) The employee alleging the hostile work environment unreasonably failed to take advantage of any preventive or corrective opportunities provided by the employer or to avoid harm otherwise.\n\n(C) The affirmative defense set forth in this section is not available to an employer if the supervisor's harassment resulted in a tangible employment action against the employee.",
+      "id": "4112.054-hostile-work-environment-sexual-harassment-claim",
+      "normalized": "hostile work environment sexual harassment claim",
+      "scope": "(A) As used in this section:",
+      "section": "4112.054",
+      "source_title": "Section 4112.054 - Affirmative defense to sexual harassment claim.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4112.054",
+      "term": "Hostile work environment sexual harassment claim"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "4112.051",
+      "number": "4112.051",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4112.051"
+    },
+    {
+      "kind": "section",
+      "label": "4112.052",
+      "number": "4112.052",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4112.052"
+    }
+  ],
+  "scraped": "2026-07-02T20:04:03+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4112.054",
+  "title": "Section 4112.054 - Affirmative defense to sexual harassment claim."
+}

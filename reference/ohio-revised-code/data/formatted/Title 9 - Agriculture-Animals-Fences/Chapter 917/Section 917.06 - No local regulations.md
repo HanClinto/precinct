@@ -1,0 +1,12 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-917.06
+Scraped: 2026-07-02T19:34:18+00:00
+
+# Section 917.06 - No local regulations.
+
+**Effective:** October 21, 1997
+
+**Latest Legislation:** Senate Bill 87 - 122nd General Assembly
+
+(A) As used in this section, "political subdivision" means a county, township, or municipal corporation and any other body corporate and politic that is responsible for government activities in a geographic area smaller than that of the state.
+
+(B) All political subdivisions shall give full faith and credit to the inspections and acts performed and records created in the administration and enforcement of this chapter and the rules adopted under it. No political subdivision shall require a person licensed under section 917.09 of the Revised Code to obtain a license or permit to operate in a manner described in this chapter or rules adopted under it, to submit to an inspection or pay a fee related to this chapter or the rules adopted under it, or to satisfy any other condition except as provided by a statute or rule of this state or the United States.

@@ -1,0 +1,234 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Bonds\" means bonds, notes, debentures, refunding bonds, refunding notes, and other obligations.",
+      "id": "175.01-bonds",
+      "normalized": "bonds",
+      "scope": "As used in sections 175.01 to 175.13 of the Revised Code:",
+      "section": "175.01",
+      "source_title": "Section 175.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-175.01",
+      "term": "Bonds"
+    },
+    {
+      "definition": "(B) \"Down payment assistance\" means monetary assistance for down payment closing costs, and pre-paid expenses directly related to the purchase of a home.",
+      "id": "175.01-down-payment-assistance",
+      "normalized": "down payment assistance",
+      "scope": "As used in sections 175.01 to 175.13 of the Revised Code:",
+      "section": "175.01",
+      "source_title": "Section 175.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-175.01",
+      "term": "Down payment assistance"
+    },
+    {
+      "definition": "(C) \"Financial assistance\" means grants, loans, loan guarantees, an equity position in a project, and loan subsidies.",
+      "id": "175.01-financial-assistance",
+      "normalized": "financial assistance",
+      "scope": "As used in sections 175.01 to 175.13 of the Revised Code:",
+      "section": "175.01",
+      "source_title": "Section 175.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-175.01",
+      "term": "Financial assistance"
+    },
+    {
+      "definition": "(D) \"Grant\" means funding for which repayment is not required.",
+      "id": "175.01-grant",
+      "normalized": "grant",
+      "scope": "As used in sections 175.01 to 175.13 of the Revised Code:",
+      "section": "175.01",
+      "source_title": "Section 175.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-175.01",
+      "term": "Grant"
+    },
+    {
+      "definition": "(E) \"Homeownership program\" means any program for which the Ohio housing finance agency provides financing, directly or indirectly, for the purchase of housing for owner-occupancy.",
+      "id": "175.01-homeownership-program",
+      "normalized": "homeownership program",
+      "scope": "As used in sections 175.01 to 175.13 of the Revised Code:",
+      "section": "175.01",
+      "source_title": "Section 175.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-175.01",
+      "term": "Homeownership program"
+    },
+    {
+      "definition": "(F) \"Housing\" means housing for owner-occupancy and multifamily rental housing.",
+      "id": "175.01-housing",
+      "normalized": "housing",
+      "scope": "As used in sections 175.01 to 175.13 of the Revised Code:",
+      "section": "175.01",
+      "source_title": "Section 175.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-175.01",
+      "term": "Housing"
+    },
+    {
+      "definition": "(G) \"Housing development fund\" means the housing development fund created and administered pursuant to section 175.11 of the Revised Code.",
+      "id": "175.01-housing-development-fund",
+      "normalized": "housing development fund",
+      "scope": "As used in sections 175.01 to 175.13 of the Revised Code:",
+      "section": "175.01",
+      "source_title": "Section 175.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-175.01",
+      "term": "Housing development fund"
+    },
+    {
+      "definition": "(H) \"Housing finance agency personal services fund\" means the housing finance agency personal services fund created and administered pursuant to section 175.051 of the Revised Code.",
+      "id": "175.01-housing-finance-agency-personal-services-fund",
+      "normalized": "housing finance agency personal services fund",
+      "scope": "As used in sections 175.01 to 175.13 of the Revised Code:",
+      "section": "175.01",
+      "source_title": "Section 175.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-175.01",
+      "term": "Housing finance agency personal services fund"
+    },
+    {
+      "definition": "(I) \"Housing for owner-occupancy\" means housing that is intended for occupancy by an owner as a principal residence. \"Housing for owner-occupancy\" may be any type of structure and may be owned in any form of ownership.",
+      "id": "175.01-housing-for-owner-occupancy",
+      "normalized": "housing for owner-occupancy",
+      "scope": "As used in sections 175.01 to 175.13 of the Revised Code:",
+      "section": "175.01",
+      "source_title": "Section 175.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-175.01",
+      "term": "Housing for owner-occupancy"
+    },
+    {
+      "definition": "(J) \"Housing trust fund\" means the low- and moderate-income housing trust fund created and administered pursuant to Chapter 174. of the Revised Code.",
+      "id": "175.01-housing-trust-fund",
+      "normalized": "housing trust fund",
+      "scope": "As used in sections 175.01 to 175.13 of the Revised Code:",
+      "section": "175.01",
+      "source_title": "Section 175.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-175.01",
+      "term": "Housing trust fund"
+    },
+    {
+      "definition": "(K) \"Improvement\" means any alteration, remodeling, addition, or repair that substantially protects or improves the basic habitability or energy efficiency of housing.",
+      "id": "175.01-improvement",
+      "normalized": "improvement",
+      "scope": "As used in sections 175.01 to 175.13 of the Revised Code:",
+      "section": "175.01",
+      "source_title": "Section 175.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-175.01",
+      "term": "Improvement"
+    },
+    {
+      "definition": "(L) \"Lending institution\" means any financial institution qualified to conduct business in this state, a subsidiary corporation that is wholly owned by a financial institution qualified to conduct business in this state, and a mortgage lender whose regular business is originating, servicing, or brokering real estate loans and who is qualified to do business in this state.",
+      "id": "175.01-lending-institution",
+      "normalized": "lending institution",
+      "scope": "As used in sections 175.01 to 175.13 of the Revised Code:",
+      "section": "175.01",
+      "source_title": "Section 175.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-175.01",
+      "term": "Lending institution"
+    },
+    {
+      "definition": "(M) \"Loan\" means any extension of credit or other form of financing or indebtedness extended directly or indirectly to a borrower with the expectation that it will be repaid in accordance with the terms of the underlying loan agreement or other pertinent document. \"Loan\" includes financing the Ohio housing finance agency extends to lending institutions and indebtedness the agency purchases from lending institutions.",
+      "id": "175.01-loan",
+      "normalized": "loan",
+      "scope": "As used in sections 175.01 to 175.13 of the Revised Code:",
+      "section": "175.01",
+      "source_title": "Section 175.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-175.01",
+      "term": "Loan"
+    },
+    {
+      "definition": "(N) \"Loan guarantee\" means any agreement in favor of a lending institution, bondholder, or other lender in which the credit and resources of the housing finance agency or the housing trust fund are pledged to secure the payment or collection of financing extended to a borrower for the acquisition, construction, improvement, rehabilitation, or preservation of housing or to refinance any financing previously extended for those purposes.",
+      "id": "175.01-loan-guarantee",
+      "normalized": "loan guarantee",
+      "scope": "As used in sections 175.01 to 175.13 of the Revised Code:",
+      "section": "175.01",
+      "source_title": "Section 175.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-175.01",
+      "term": "Loan guarantee"
+    },
+    {
+      "definition": "(O) \"Loan subsidy\" means any deposit of funds the Ohio housing finance agency holds or administers into a lending institution with the authorization or direction that the income or revenues the deposit earns, or could have earned at competitive rates, be applied directly or indirectly to the benefit of housing assistance or financial assistance.",
+      "id": "175.01-loan-subsidy",
+      "normalized": "loan subsidy",
+      "scope": "As used in sections 175.01 to 175.13 of the Revised Code:",
+      "section": "175.01",
+      "source_title": "Section 175.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-175.01",
+      "term": "Loan subsidy"
+    },
+    {
+      "definition": "(P) \"Low- and moderate-income persons\" means individuals and families who qualify as low- and moderate-income persons pursuant to guidelines the agency establishes.",
+      "id": "175.01-low-and-moderate-income-persons",
+      "normalized": "low- and moderate-income persons",
+      "scope": "As used in sections 175.01 to 175.13 of the Revised Code:",
+      "section": "175.01",
+      "source_title": "Section 175.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-175.01",
+      "term": "Low- and moderate-income persons"
+    },
+    {
+      "definition": "(Q) \"Multifamily rental housing\" means multiple unit housing intended for rental occupancy.",
+      "id": "175.01-multifamily-rental-housing",
+      "normalized": "multifamily rental housing",
+      "scope": "As used in sections 175.01 to 175.13 of the Revised Code:",
+      "section": "175.01",
+      "source_title": "Section 175.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-175.01",
+      "term": "Multifamily rental housing"
+    },
+    {
+      "definition": "(R) \"Nonprofit organization\" means a nonprofit organization in good standing and qualified to conduct business in this state including any corporation whose members are members of a metropolitan housing authority.",
+      "id": "175.01-nonprofit-organization",
+      "normalized": "nonprofit organization",
+      "scope": "As used in sections 175.01 to 175.13 of the Revised Code:",
+      "section": "175.01",
+      "source_title": "Section 175.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-175.01",
+      "term": "Nonprofit organization"
+    },
+    {
+      "definition": "(S) \"Owner\" means any person who, jointly or severally, has legal or equitable title to housing together with the right to control or possess that housing. \"Owner\" includes a purchaser of housing pursuant to a land installment contract if that contract vests possession and maintenance responsibilities in the purchaser, and a person who has care or control of housing as executor, administrator, assignee, trustee, or guardian of the estate of the owner of that housing.",
+      "id": "175.01-owner",
+      "normalized": "owner",
+      "scope": "As used in sections 175.01 to 175.13 of the Revised Code:",
+      "section": "175.01",
+      "source_title": "Section 175.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-175.01",
+      "term": "Owner"
+    },
+    {
+      "definition": "(T) \"Security interest\" means any lien, encumbrance, pledge, assignment, mortgage, or other form of collateral the Ohio housing finance agency holds as security for financial assistance the agency extends or a loan the agency acquires.",
+      "id": "175.01-security-interest",
+      "normalized": "security interest",
+      "scope": "As used in sections 175.01 to 175.13 of the Revised Code:",
+      "section": "175.01",
+      "source_title": "Section 175.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-175.01",
+      "term": "Security interest"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "175.01",
+      "number": "175.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-175.01"
+    },
+    {
+      "kind": "section",
+      "label": "175.13",
+      "number": "175.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-175.13"
+    },
+    {
+      "kind": "section",
+      "label": "175.11",
+      "number": "175.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-175.11"
+    },
+    {
+      "kind": "section",
+      "label": "175.051",
+      "number": "175.051",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-175.051"
+    }
+  ],
+  "scraped": "2026-07-02T19:32:15+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-175.01",
+  "title": "Section 175.01 - Definitions."
+}

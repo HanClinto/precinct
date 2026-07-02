@@ -1,0 +1,36 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-1345.81
+Scraped: 2026-07-02T19:37:25+00:00
+
+# Section 1345.81 - Using nonoriginal equipment manufacturer aftermarket crash parts.
+
+**Effective:** September 13, 2022
+
+**Latest Legislation:** Senate Bill 236 - 134th General Assembly
+
+(A) As used in this section:
+
+(1) "Aftermarket crash part" means a replacement for any of the nonmechanical sheet metal or plastic parts that generally constitute the exterior of a motor vehicle, including inner and outer panels.
+
+(2) "Nonoriginal equipment manufacturer aftermarket crash part" or "non-OEM aftermarket crash part" means any aftermarket crash part that is not made by or for the manufacturer of the motor vehicle.
+
+(3) "Repair facility" means any motor vehicle dealer, garage, body shop, or other commercial entity that undertakes the repair or replacement of those parts that generally constitute the exterior of a motor vehicle.
+
+(4) "Installer" means any individual who actually performs the work of replacing or repairing parts of a motor vehicle.
+
+(5) "Insurer" means any individual serving as an agent or authorized representative of an insurance company, involved with the coverage for repair of the motor vehicle in question.
+
+(B) Any insurer who provides an estimate for the repair of a motor vehicle based in whole or in part upon the use of any non-OEM aftermarket crash part in the repair of the motor vehicle and any repair facility or installer who intends to use a non-OEM aftermarket crash part in the repair of a motor vehicle shall comply with the following provisions, as applicable:
+
+(1) If the person requesting the repair chooses to receive a written estimate, the insurer, repair facility, or installer providing the estimate shall identify, clearly in the written estimate, each non-OEM aftermarket crash part and shall contain a written notice with the following language in ten-point or larger type: "This estimate has been prepared based upon the use of one or more aftermarket crash parts supplied by a source other than the manufacturer of your motor vehicle. Warranties applicable to these aftermarket crash parts are provided by the parts manufacturer or distributor rather than by your own motor vehicle manufacturer." Receipt and approval of the written estimate shall be acknowledged by the signature of the person requesting the repair at the bottom of the written estimate.
+
+(2) If the person requesting the repair chooses to receive an oral estimate or no estimate at all, the insurer, repair facility, or installer providing the estimate or seeking the person's approval for repair work to commence shall furnish or read to the person a written notice as described in division (B)(1) of this section at the time that the oral estimate is given or when the person requesting the repair gives approval for the repair work to commence. If the person has chosen to receive an oral estimate or no estimate, the written notice described in division (B)(1) of this section shall be provided with the final invoice for the repair.
+
+(C) Any non-OEM aftermarket crash part manufactured after October 16, 1990, shall have permanently affixed thereto, or inscribed thereon, prior to the installation of the part, the business name or logo of the manufacturer.
+
+Whenever practical, the location of the affixed or inscribed information upon the part shall ensure that the information shall be accessible after installation.
+
+(D) An insurer, repair facility, or installer may use a salvage motor vehicle part in the repair of a motor vehicle, if the salvage motor vehicle part is of a like kind and quality to the part in need of repair and is sourced from a salvage motor vehicle dealer licensed under Chapter 4738. of the Revised Code.
+
+(E) Any violation of this section in connection with a consumer transaction as defined in section 1345.01 of the Revised Code is an unfair and deceptive act or practice as defined by section 1345.02 of the Revised Code.
+
+Last updated July 14, 2022 at 3:11 PM

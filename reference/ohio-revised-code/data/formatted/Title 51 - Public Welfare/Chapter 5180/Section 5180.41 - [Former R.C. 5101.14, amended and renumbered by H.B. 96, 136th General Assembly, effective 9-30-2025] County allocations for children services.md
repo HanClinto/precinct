@@ -1,0 +1,40 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5180.41
+Scraped: 2026-07-02T20:11:37+00:00
+
+# Section 5180.41 - [Former R.C. 5101.14, amended and renumbered by H.B. 96, 136th General Assembly, effective 9/30/2025] County allocations for children services.
+
+**Effective:** September 30, 2025
+
+**Latest Legislation:** House Bill 96 - 136th General Assembly
+
+(A) As used in this section and section 5180.411 of the Revised Code, "children services" means services provided to children pursuant to Chapter 5153. of the Revised Code.
+
+(B) Within available funds, the department of children and youth shall distribute funds to the counties within thirty days after the beginning of each calendar quarter for a part of the counties' costs for children services.
+
+Funds provided to the county under this section shall be deposited into the children services fund created pursuant to section 5180.411 of the Revised Code.
+
+(C) In each fiscal year, the amount of funds available for distribution under this section shall be allocated to counties as follows:
+
+(1) If the amount is less than the amount initially appropriated for the immediately preceding fiscal year, each county shall receive an amount equal to the percentage of the funding it received in the immediately preceding fiscal year, exclusive of any releases from or additions to the allocation or any sanctions imposed under this section;
+
+(2) If the amount is equal to the amount initially appropriated for the immediately preceding fiscal year, each county shall receive an amount equal to the amount it received in the preceding fiscal year, exclusive of any releases from or additions to the allocation or any sanctions imposed under this section;
+
+(3) If the amount is greater than the amount initially appropriated for the immediately preceding fiscal year, each county shall receive the amount determined under division (C)(2) of this section as a base allocation, plus a percentage of the amount that exceeds the amount initially appropriated for the immediately preceding fiscal year. The amount exceeding the amount initially appropriated in the immediately preceding fiscal year shall be allocated to the counties as follows:
+
+(a) Twelve per cent divided equally among all counties;
+
+(b) Forty-eight per cent in the ratio that the number of residents of the county under the age of eighteen bears to the total number of such persons residing in this state;
+
+(c) Forty per cent in the ratio that the number of residents of the county with incomes under the federal poverty guideline bears to the total number of such persons in this state.
+
+As used in division (C)(3)(c) of this section, "federal poverty guideline" means the poverty guideline as defined by the United States office of management and budget and revised by the United States secretary of health and human services in accordance with section 673 of the "Community Services Block Grant Act," 95 Stat. 511 (1981), 42 U.S.C.A. 9902, as amended.
+
+(D) Within ninety days after the end of each state fiscal biennium, each county shall return any unspent funds to the department.
+
+(E) The director of children and youth may adopt the following rules in accordance with section 111.15 of the Revised Code:
+
+(1) Rules that are necessary for the allocation of funds under this section;
+
+(2) Rules prescribing reports on expenditures to be submitted by the counties as necessary for the implementation of this section.
+
+Last updated October 3, 2025 at 9:49 AM

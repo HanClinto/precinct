@@ -1,0 +1,345 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 5139.01 - Department of youth services - definitions.",
+      "number": "5139.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5139.02 - Appointment of managing officers.",
+      "number": "5139.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5139.03 - Control and management of state institutions or facilities.",
+      "number": "5139.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5139.04 - Powers and duties of department.",
+      "number": "5139.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5139.05 - Order to commit.",
+      "number": "5139.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5139.06 - Disposition of child.",
+      "number": "5139.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5139.07 - Rehabilitation.",
+      "number": "5139.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5139.08 - Agreements with other state agencies.",
+      "number": "5139.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5139.09 - Periodic re-examination of children.",
+      "number": "5139.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5139.10 - Final discharges ends control by department.",
+      "number": "5139.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5139.101 - Transitional services program.",
+      "number": "5139.101",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.101"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5139.11 - Prevention and control of juvenile delinquency.",
+      "number": "5139.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5139.12 - Reporting abuse of delinquent child.",
+      "number": "5139.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5139.13 - Facilities for treatment and training of children.",
+      "number": "5139.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5139.131 - Vocational education programs.",
+      "number": "5139.131",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.131"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5139.14 - Reentry services by nonprofit faith-based organizations.",
+      "number": "5139.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5139.16 - Accepting gifts and bequests.",
+      "number": "5139.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5139.18 - Supervision of children released from institutions.",
+      "number": "5139.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5139.19 - Managing officers of institutions.",
+      "number": "5139.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5139.191 - Apprehending juvenile escapees.",
+      "number": "5139.191",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.191"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5139.20 - Emergency overcrowding conditions.",
+      "number": "5139.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5139.21 - Prohibited acts.",
+      "number": "5139.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5139.22 - Transportation costs.",
+      "number": "5139.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5139.23 - Leasing capital facilities.",
+      "number": "5139.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5139.25 - Designating names of institutions.",
+      "number": "5139.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5139.251 - Rules for searching visitors.",
+      "number": "5139.251",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.251"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5139.26 - Acquiring and disposing of land or property.",
+      "number": "5139.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5139.27 - Financial assistance rules.",
+      "number": "5139.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5139.271 - Granting financial assistance to counties.",
+      "number": "5139.271",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.271"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5139.281 - Granting financial assistance to detention facilities.",
+      "number": "5139.281",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.281"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5139.29 - Payment of assistance rules.",
+      "number": "5139.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5139.30 - Transferring children.",
+      "number": "5139.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5139.31 - Inspections.",
+      "number": "5139.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5139.32 - Child unable to benefit from programs.",
+      "number": "5139.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5139.33 - Grants for county community-based programs and services for adjudicated delinquent children for commission of acts that would be felonies if committed by adult.",
+      "number": "5139.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5139.34 - Granting state subsidies to counties.",
+      "number": "5139.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5139.35 - Prior consent of committing court required for placement in less restrictive setting.",
+      "number": "5139.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5139.36 - Grants to operate community corrections facilities for felony delinquents.",
+      "number": "5139.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5139.38 - Transferring felony delinquent to community facility for supervised treatment prior to ordering release.",
+      "number": "5139.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5139.39 - Transfer to certified foster care facility.",
+      "number": "5139.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5139.41 - Formula for expending appropriation for care and custody of felony delinquents.",
+      "number": "5139.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5139.43 - Felony delinquent care and custody program.",
+      "number": "5139.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5139.44 - RECLAIM advisory committee.",
+      "number": "5139.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5139.45 - Office of quality assurance and improvement.",
+      "number": "5139.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5139.50 - Release authority - appointment - duties.",
+      "number": "5139.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5139.51 - Supervised release or discharge.",
+      "number": "5139.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5139.511 - Verification of identity prior to release.",
+      "number": "5139.511",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.511"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5139.52 - Violating term or condition of supervised release or judicial release.",
+      "number": "5139.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5139.53 - Employees authorized to apprehend violators.",
+      "number": "5139.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5139.54 - Medical release or discharge.",
+      "number": "5139.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5139.55 - Office of victims' services.",
+      "number": "5139.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5139.56 - Notice to victim of all release reviews, pending release hearings, supervised release revocation hearings, and discharge reviews.",
+      "number": "5139.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5139.85 - Disposing of property of former inmates.",
+      "number": "5139.85",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.85"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5139.86 - Cafeteria fund - industrial and entertainment fund - youth benefit fund - employee food service fund.",
+      "number": "5139.86",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.86"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5139.87 - Federal juvenile justice funds; juvenile justice and delinquency prevention fund.",
+      "number": "5139.87",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.87"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5139.99 - Penalty.",
+      "number": "5139.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5139.99"
+    }
+  ],
+  "scraped": "2026-07-02T20:11:01+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-5139",
+  "title": "Chapter 5139 - Youth Services"
+}

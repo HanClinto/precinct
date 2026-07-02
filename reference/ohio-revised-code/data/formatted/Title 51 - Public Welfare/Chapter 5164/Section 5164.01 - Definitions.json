@@ -1,0 +1,316 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Adjudication\" has the same meaning as in section 119.01 of the Revised Code.",
+      "id": "5164.01-adjudication",
+      "normalized": "adjudication",
+      "scope": "As used in this chapter:",
+      "section": "5164.01",
+      "source_title": "Section 5164.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5164.01",
+      "term": "Adjudication"
+    },
+    {
+      "definition": "(B) \"Behavioral health redesign\" means revisions to the medicaid program's coverage of community behavioral health services beginning July 1, 2017, including revisions that update medicaid billing codes and payment rates for community behavioral health services.",
+      "id": "5164.01-behavioral-health-redesign",
+      "normalized": "behavioral health redesign",
+      "scope": "As used in this chapter:",
+      "section": "5164.01",
+      "source_title": "Section 5164.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5164.01",
+      "term": "Behavioral health redesign"
+    },
+    {
+      "definition": "(C) \"Clean claim\" has the same meaning as in 42 C.F.R. 447.45(b).",
+      "id": "5164.01-clean-claim",
+      "normalized": "clean claim",
+      "scope": "As used in this chapter:",
+      "section": "5164.01",
+      "source_title": "Section 5164.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5164.01",
+      "term": "Clean claim"
+    },
+    {
+      "definition": "(D) \"Community behavioral health services\" means both of the following:\n\n(1) Alcohol and drug addiction services provided by a community addiction services provider, as defined in section 5119.01 of the Revised Code;\n\n(2) Mental health services provided by a community mental health services provider, as defined in section 5119.01 of the Revised Code.",
+      "id": "5164.01-community-behavioral-health-services",
+      "normalized": "community behavioral health services",
+      "scope": "As used in this chapter:",
+      "section": "5164.01",
+      "source_title": "Section 5164.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5164.01",
+      "term": "Community behavioral health services"
+    },
+    {
+      "definition": "(E) \"Early and periodic screening, diagnostic, and treatment services\" has the same meaning as in the \"Social Security Act,\" section 1905(r), 42 U.S.C. 1396d(r).",
+      "id": "5164.01-early-and-periodic-screening-diagnostic-and-treatment-services",
+      "normalized": "early and periodic screening, diagnostic, and treatment services",
+      "scope": "As used in this chapter:",
+      "section": "5164.01",
+      "source_title": "Section 5164.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5164.01",
+      "term": "Early and periodic screening, diagnostic, and treatment services"
+    },
+    {
+      "definition": "(F) \"Federal financial participation\" has the same meaning as in section 5160.01 of the Revised Code.",
+      "id": "5164.01-federal-financial-participation",
+      "normalized": "federal financial participation",
+      "scope": "As used in this chapter:",
+      "section": "5164.01",
+      "source_title": "Section 5164.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5164.01",
+      "term": "Federal financial participation"
+    },
+    {
+      "definition": "(G) \"Federal poverty line\" has the same meaning as in section 5162.01 of the Revised Code.",
+      "id": "5164.01-federal-poverty-line",
+      "normalized": "federal poverty line",
+      "scope": "As used in this chapter:",
+      "section": "5164.01",
+      "source_title": "Section 5164.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5164.01",
+      "term": "Federal poverty line"
+    },
+    {
+      "definition": "(H) \"Healthcheck\" means the component of the medicaid program that provides early and periodic screening, diagnostic, and treatment services.",
+      "id": "5164.01-healthcheck",
+      "normalized": "healthcheck",
+      "scope": "As used in this chapter:",
+      "section": "5164.01",
+      "source_title": "Section 5164.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5164.01",
+      "term": "Healthcheck"
+    },
+    {
+      "definition": "(I) \"Home and community-based services medicaid waiver component\" has the same meaning as in section 5166.01 of the Revised Code.",
+      "id": "5164.01-home-and-community-based-services-medicaid-waiver-component",
+      "normalized": "home and community-based services medicaid waiver component",
+      "scope": "As used in this chapter:",
+      "section": "5164.01",
+      "source_title": "Section 5164.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5164.01",
+      "term": "Home and community-based services medicaid waiver component"
+    },
+    {
+      "definition": "(J) \"Hospital\" has the same meaning as in section 3727.01 of the Revised Code.",
+      "id": "5164.01-hospital",
+      "normalized": "hospital",
+      "scope": "As used in this chapter:",
+      "section": "5164.01",
+      "source_title": "Section 5164.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5164.01",
+      "term": "Hospital"
+    },
+    {
+      "definition": "(K) \"ICDS participant\" means a dual eligible individual who participates in the integrated care delivery system.",
+      "id": "5164.01-icds-participant",
+      "normalized": "icds participant",
+      "scope": "As used in this chapter:",
+      "section": "5164.01",
+      "source_title": "Section 5164.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5164.01",
+      "term": "ICDS participant"
+    },
+    {
+      "definition": "(L) \"ICF/IID\" has the same meaning as in section 5124.01 of the Revised Code.",
+      "id": "5164.01-icf-iid",
+      "normalized": "icf/iid",
+      "scope": "As used in this chapter:",
+      "section": "5164.01",
+      "source_title": "Section 5164.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5164.01",
+      "term": "ICF/IID"
+    },
+    {
+      "definition": "(M) \"Integrated care delivery system\" and \"ICDS\" mean the demonstration project authorized by section 5164.91 of the Revised Code.",
+      "id": "5164.01-integrated-care-delivery-system",
+      "normalized": "integrated care delivery system",
+      "scope": "As used in this chapter:",
+      "section": "5164.01",
+      "source_title": "Section 5164.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5164.01",
+      "term": "Integrated care delivery system"
+    },
+    {
+      "definition": "(M) \"Integrated care delivery system\" and \"ICDS\" mean the demonstration project authorized by section 5164.91 of the Revised Code.",
+      "id": "5164.01-icds",
+      "normalized": "icds",
+      "scope": "As used in this chapter:",
+      "section": "5164.01",
+      "source_title": "Section 5164.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5164.01",
+      "term": "ICDS"
+    },
+    {
+      "definition": "(N) \"Mandatory services\" means the health care services and items that must be covered by the medicaid state plan as a condition of the state receiving federal financial participation for the medicaid program.",
+      "id": "5164.01-mandatory-services",
+      "normalized": "mandatory services",
+      "scope": "As used in this chapter:",
+      "section": "5164.01",
+      "source_title": "Section 5164.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5164.01",
+      "term": "Mandatory services"
+    },
+    {
+      "definition": "(O) \"Medicaid managed care organization\" has the same meaning as in section 5167.01 of the Revised Code.",
+      "id": "5164.01-medicaid-managed-care-organization",
+      "normalized": "medicaid managed care organization",
+      "scope": "As used in this chapter:",
+      "section": "5164.01",
+      "source_title": "Section 5164.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5164.01",
+      "term": "Medicaid managed care organization"
+    },
+    {
+      "definition": "(P) \"Medicaid provider\" means a person or government entity with a valid provider agreement to provide medicaid services to medicaid recipients. To the extent appropriate in the context, \"medicaid provider\" includes a person or government entity applying for a provider agreement, a former medicaid provider, or both.",
+      "id": "5164.01-medicaid-provider",
+      "normalized": "medicaid provider",
+      "scope": "As used in this chapter:",
+      "section": "5164.01",
+      "source_title": "Section 5164.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5164.01",
+      "term": "Medicaid provider"
+    },
+    {
+      "definition": "(Q) \"Medicaid services\" means either or both of the following:\n\n(1) Mandatory services;\n\n(2) Optional services that the medicaid program covers.",
+      "id": "5164.01-medicaid-services",
+      "normalized": "medicaid services",
+      "scope": "As used in this chapter:",
+      "section": "5164.01",
+      "source_title": "Section 5164.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5164.01",
+      "term": "Medicaid services"
+    },
+    {
+      "definition": "(R) \"Nursing facility\" has the same meaning as in section 5165.01 of the Revised Code.",
+      "id": "5164.01-nursing-facility",
+      "normalized": "nursing facility",
+      "scope": "As used in this chapter:",
+      "section": "5164.01",
+      "source_title": "Section 5164.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5164.01",
+      "term": "Nursing facility"
+    },
+    {
+      "definition": "(S) \"Optional services\" means the health care services and items that may be covered by the medicaid state plan or a federal medicaid waiver and for which the medicaid program receives federal financial participation.",
+      "id": "5164.01-optional-services",
+      "normalized": "optional services",
+      "scope": "As used in this chapter:",
+      "section": "5164.01",
+      "source_title": "Section 5164.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5164.01",
+      "term": "Optional services"
+    },
+    {
+      "definition": "(T) \"Prescribed drug\" has the same meaning as in 42 C.F.R. 440.120.",
+      "id": "5164.01-prescribed-drug",
+      "normalized": "prescribed drug",
+      "scope": "As used in this chapter:",
+      "section": "5164.01",
+      "source_title": "Section 5164.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5164.01",
+      "term": "Prescribed drug"
+    },
+    {
+      "definition": "(U) \"Provider agreement\" means an agreement to which all of the following apply:\n\n(1) It is between a medicaid provider and the department of medicaid;\n\n(2) It provides for the medicaid provider to provide medicaid services to medicaid recipients;\n\n(3) It complies with 42 C.F.R. 431.107(b).",
+      "id": "5164.01-provider-agreement",
+      "normalized": "provider agreement",
+      "scope": "As used in this chapter:",
+      "section": "5164.01",
+      "source_title": "Section 5164.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5164.01",
+      "term": "Provider agreement"
+    },
+    {
+      "definition": "(V) \"State plan home and community-based services\" means home and community-based services that, as authorized by section 1915(i) of the \"Social Security Act,\" 42 U.S.C. 1396n(i), may be covered by the medicaid program pursuant to an amendment to the medicaid state plan.",
+      "id": "5164.01-state-plan-home-and-community-based-services",
+      "normalized": "state plan home and community-based services",
+      "scope": "As used in this chapter:",
+      "section": "5164.01",
+      "source_title": "Section 5164.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5164.01",
+      "term": "State plan home and community-based services"
+    },
+    {
+      "definition": "(W) \"Terminal distributor of dangerous drugs\" has the same meaning as in section 4729.01 of the Revised Code.",
+      "id": "5164.01-terminal-distributor-of-dangerous-drugs",
+      "normalized": "terminal distributor of dangerous drugs",
+      "scope": "As used in this chapter:",
+      "section": "5164.01",
+      "source_title": "Section 5164.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5164.01",
+      "term": "Terminal distributor of dangerous drugs"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "119.01",
+      "number": "119.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-119.01"
+    },
+    {
+      "kind": "section",
+      "label": "5119.01",
+      "number": "5119.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.01"
+    },
+    {
+      "kind": "section",
+      "label": "5160.01",
+      "number": "5160.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5160.01"
+    },
+    {
+      "kind": "section",
+      "label": "5162.01",
+      "number": "5162.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.01"
+    },
+    {
+      "kind": "section",
+      "label": "5166.01",
+      "number": "5166.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5166.01"
+    },
+    {
+      "kind": "section",
+      "label": "3727.01",
+      "number": "3727.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3727.01"
+    },
+    {
+      "kind": "section",
+      "label": "5124.01",
+      "number": "5124.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01"
+    },
+    {
+      "kind": "section",
+      "label": "5164.91",
+      "number": "5164.91",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5164.91"
+    },
+    {
+      "kind": "section",
+      "label": "5167.01",
+      "number": "5167.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5167.01"
+    },
+    {
+      "kind": "section",
+      "label": "5165.01",
+      "number": "5165.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5165.01"
+    },
+    {
+      "kind": "section",
+      "label": "4729.01",
+      "number": "4729.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.01"
+    }
+  ],
+  "scraped": "2026-07-02T20:11:25+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5164.01",
+  "title": "Section 5164.01 - Definitions."
+}

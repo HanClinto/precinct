@@ -1,0 +1,145 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-4301
+Scraped: 2026-07-02T20:04:59+00:00
+
+# Chapter 4301 - Liquor Control Law
+
+## Sections
+
+- Section 4301.01 - Liquor control definitions.
+- Section 4301.011 - General Assembly finding - sole and exclusive regulation of alcohol.
+- Section 4301.02 - Division of liquor control organization.
+- Section 4301.021 - Superintendent of liquor control powers.
+- Section 4301.022 - Liquor control commission.
+- Section 4301.03 - Liquor control commission rules.
+- Section 4301.04 - Liquor control commission powers.
+- Section 4301.041 - Minimum percentage mark-up for sales at retail of beer.
+- Section 4301.042 - Pricing practices rules for beer sales.
+- Section 4301.05 - Liquor control commission not to exercise executive or administrative duties or powers.
+- Section 4301.06 - Division of liquor control publications and hearings.
+- Section 4301.07 - Liquor control commission members.
+- Section 4301.08 - Bond of liquor control commission, superintendent, employees.
+- Section 4301.10 - Division of liquor control powers and duties.
+- Section 4301.101 - Superintendent of liquor control rules.
+- Section 4301.102 - Administration, collection, and enforcement of county sports facility liquor tax.
+- Section 4301.11 - Leases of state liquor stores.
+- Section 4301.12 - Custody, safekeeping, and deposit of funds.
+- Section 4301.13 - Rules for dealing in and distributing and selling bottled wine.
+- Section 4301.14 - Rules for equitable distribution of supplies of spirituous liquor.
+- Section 4301.15 - Violating rules for equitable distribution.
+- Section 4301.16 - Accounting for moneys received from the sale of liquor.
+- Section 4301.17 - State liquor stores or agencies.
+- Section 4301.171 - Tasting samples of spirituous liquor.
+- Section 4301.172 - Agency store hours of sale.
+- Section 4301.18 - Purchase, manufacture, blend, or bottle spirituous liquor division of liquor control.
+- Section 4301.19 - Sale of spirituous liquor by division of liquor control.
+- Section 4301.20 - Exemptions from liquor control law.
+- Section 4301.201 - Homemade beer and wine.
+- Section 4301.21 - Rules for sale of beer or intoxicating liquor for consumption on the premises.
+- Section 4301.22 - Rules for sales of beer and intoxicating liquor under all classes of permits and from state liquor stores.
+- Section 4301.23 - Sales of sacramental wine for religious rites.
+- Section 4301.24 - Rules for manufacturers and wholesale distributors.
+- Section 4301.241 - Sales area or territory for B-1 permit holder to be brand distributor.
+- Section 4301.242 - Manufacturers and wholesale distributors - permitted conduct.
+- Section 4301.243 - Giving things of value in connection with purchase of alcoholic beverage.
+- Section 4301.244 - Beer not intoxicating liquor.
+- Section 4301.245 - Use of social media for advertising.
+- Section 4301.246 - Gifts of glassware.
+- Section 4301.25 - Suspension or revocation of liquor permit.
+- Section 4301.251 - Emergency suspension of retail beer or liquor permits and retail sales of spirituous liquor.
+- Section 4301.252 - Option of paying forfeiture rather than suspending operations.
+- Section 4301.253 - Training program.
+- Section 4301.26 - No-fault cancellation of permits.
+- Section 4301.27 - Revoking or cancelling permits.
+- Section 4301.28 - Appeals to liquor control commission.
+- Section 4301.29 - Seizure of beer, intoxicating liquor or alcohol.
+- Section 4301.30 - Deposit and distribution of fees.
+- Section 4301.31 - Jurisdiction - immunity.
+- Section 4301.32 - Local option privilege.
+- Section 4301.321 - Local option sale of beer or intoxicating liquor by class C or D permit at particular premises.
+- Section 4301.322 - Local option where status of portion of precinct or residence district is inconsistent with remainder.
+- Section 4301.323 - Conditions for exercising privilege of local option at a particular location.
+- Section 4301.324 - Local option - community facility.
+- Section 4301.33 - Local option petition.
+- Section 4301.331 - Local option - premises adjudged a nuisance.
+- Section 4301.332 - Local option petition where status of portion of precinct or residence district is inconsistent with remainder.
+- Section 4301.333 - Local option petition contesting a particular location.
+- Section 4301.334 - Local option petition contesting community facility.
+- Section 4301.34 - Petition requirements.
+- Section 4301.35 - Election and form of ballots on four question election.
+- Section 4301.351 - Election and form of ballots on Sunday sales.
+- Section 4301.352 - Election and form of ballots concerning particular permit premises.
+- Section 4301.353 - Election and form of ballots where status of portion of precinct or residence district is inconsistent with remainder - no Sunday issues.
+- Section 4301.354 - Election and form of ballots where status of portion of precinct or residence district is inconsistent with remainder - Sunday issues.
+- Section 4301.355 - Election and form of ballots contesting a particular location.
+- Section 4301.356 - Election and form of ballots contesting community facility.
+- Section 4301.36 - Effect of four question election.
+- Section 4301.361 - Effect of Sunday sales election.
+- Section 4301.362 - Effect of particular permit premises election.
+- Section 4301.363 - Effect of election where status of portion of precinct or residence district is inconsistent with remainder - no Sunday issues.
+- Section 4301.364 - Effect of election where status of portion of precinct or residence district is inconsistent with remainder - Sunday issues.
+- Section 4301.365 - Effect of election concerning particular location.
+- Section 4301.366 - Effect of election concerning community facility.
+- Section 4301.37 - Local option elections effective for four years.
+- Section 4301.39 - Notification and results of local option elections.
+- Section 4301.391 - Operation inconsistent with results of local option election.
+- Section 4301.40 - Local option elections not to affect or prohibit certain permits.
+- Section 4301.401 - Permits issued in premises located in annexed territory valid.
+- Section 4301.402 - Golf course, hotel, motel, or lodge owned by state, conservancy district, park district or political subdivision not affected.
+- Section 4301.403 - U.S. Christopher Columbus quincentenary jubilee commission exhibition premises exemptions.
+- Section 4301.404 - Center for preservation of wild animals exemptions.
+- Section 4301.41 - Refund of permit fee upon cancellation.
+- Section 4301.42 - Tax on sale of beer in sealed bottles and cans.
+- Section 4301.421 - Tax levies to finance sports facilities.
+- Section 4301.422 - Retail sellers liable for county tax.
+- Section 4301.423 - Crediting and distribution of tax receipts.
+- Section 4301.424 - Tax levies to finance construction or renovation of sports facility.
+- Section 4301.43 - Tax on sale and distribution of wine and mixed beverages.
+- Section 4301.432 - Tax on sale and distribution of vermouth, sparkling and carbonated wine and champagne, and other wine.
+- Section 4301.433 - Out-of state wine bottlers to furnish invoices.
+- Section 4301.44 - Administration of alcoholic beverage taxes.
+- Section 4301.441 - Disclosure of information provided by department of taxation.
+- Section 4301.45 - Seizure of beer or intoxicating liquors transported or possessed illegally.
+- Section 4301.46 - Credit of moneys received.
+- Section 4301.47 - Record retention.
+- Section 4301.48 - False entries on invoices or containers prohibited.
+- Section 4301.49 - Prevention or hindrance of inspection.
+- Section 4301.50 - Distribution or sale of beverages without tax prohibited.
+- Section 4301.52 - Seizure of wine, mixed beverage, or beer upon which tax has not been paid.
+- Section 4301.53 - Search warrants - seizure of property.
+- Section 4301.54 - Retaliatory tax on liquor products sold in, delivered, or shipped into Ohio.
+- Section 4301.55 - Retaliatory tax on liquor products transported, manufactured or warehoused in Ohio.
+- Section 4301.56 - List of permit holders furnished to tax commissioner for administration of liquor taxes.
+- Section 4301.57 - Fines and forfeited bonds.
+- Section 4301.58 - Permits required.
+- Section 4301.59 - False or fraudulent statement in warehouse receipts.
+- Section 4301.60 - Illegal transportation of beer, intoxicating liquor, or alcohol prohibited.
+- Section 4301.61 - Transaction scans to check the validity of driver's or commercial driver's license or identification card.
+- Section 4301.611 - Transaction scan as affirmative defense where age of purchaser is element of crime.
+- Section 4301.62 - Opened container of beer or intoxicating liquor prohibited at certain premises.
+- Section 4301.63 - Purchase of beer or intoxicating liquor by persons under twenty-one prohibited.
+- Section 4301.631 - Purchase or consumption low-alcohol beverage by persons under eighteen prohibited.
+- Section 4301.633 - Furnishing false information to obtain beer or intoxicating liquor for person under twenty-one.
+- Section 4301.634 - Furnishing false information to obtain beer or intoxicating liquor by person under twenty-one.
+- Section 4301.635 - Compliance check.
+- Section 4301.636 - Manufacture, transfer, sell, or distribute false identification card or driver's license.
+- Section 4301.637 - Warning cards as to underage persons and person carrying firearms.
+- Section 4301.638 - Modification on other sections not intended.
+- Section 4301.639 - False identification accepted in good faith.
+- Section 4301.64 - Prohibition against consumption of beer or intoxicating liquor in motor vehicle.
+- Section 4301.65 - Sale, purchase, or use of alcohol vaporizing device prohibited.
+- Section 4301.66 - Obstructing inspection or search of premises prohibited.
+- Section 4301.67 - Illegal possession of spirituous or intoxicating liquor or beer prohibited.
+- Section 4301.68 - Sale of liquor in diluted, refilled, or partly refilled containers prohibited.
+- Section 4301.69 - Underage persons offenses concerning.
+- Section 4301.691 - Alternate prohibitions if federal mandate relating to a national uniform drinking age of twenty-one is no longer in force.
+- Section 4301.70 - Violations not otherwise specified.
+- Section 4301.71 - Sale of powdered or crystalline alcohol.
+- Section 4301.72 - Liquor taxes are lien on property of permit holder.
+- Section 4301.74 - Violation of nuisance injunction.
+- Section 4301.77 - Providing social security numbers.
+- Section 4301.80 - Community entertainment district application.
+- Section 4301.81 - Application for revitalization district designation.
+- Section 4301.82 - Designated outdoor refreshment areas.
+- Section 4301.83 - Waiver to serve alcohol at major event.
+- Section 4301.99 - Penalty.
+- Section 4301.991 - Notice of conviction or acquittal of liquor control violations.

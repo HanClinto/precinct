@@ -1,0 +1,54 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-1322.20
+Scraped: 2026-07-02T19:37:16+00:00
+
+# Section 1322.20 - Application for mortgage loan originator license.
+
+**Effective:** September 30, 2021
+
+**Latest Legislation:** House Bill 110 - 134th General Assembly
+
+(A) An application for a license as a mortgage loan originator shall be in writing, under oath, and in a form prescribed by the superintendent of financial institutions that complies with the requirements of the nationwide mortgage licensing system and registry. The application shall be accompanied by a nonrefundable application fee of two hundred dollars and any additional fee required by the nationwide mortgage licensing system and registry.
+
+(B)(1) The application shall provide evidence, acceptable to the superintendent, that the applicant has successfully completed at least twenty-four hours of pre-licensing instruction consisting of all of the following:
+
+(a) Twenty hours of instruction in an approved education course;
+
+(b) Four hours of instruction in a course or program of study reviewed and approved by the superintendent concerning Ohio lending laws and the Ohio consumer sales practices act, Chapter 1345. of the Revised Code, as it applies to registrants and licensees.
+
+(2) If an applicant held a valid mortgage loan originator license issued by this state at any time during the immediately preceding five-year period, the applicant shall not be required to complete any additional pre-licensing instruction. For this purpose, any time during which the individual is a registered mortgage loan originator shall not be taken into account.
+
+(3) A person having successfully completed the pre-licensing education requirement reviewed and approved by the nationwide mortgage licensing system and registry for any state within the previous five years shall be granted credit toward completion of the pre-licensing education requirement of this state.
+
+(C) In addition to the information required under division (B) of this section, the application shall provide both of the following:
+
+(1) Evidence that the applicant passed a written test that meets the requirements described in section 1322.27 of the Revised Code;
+
+(2) Any further information that the superintendent requires.
+
+(D) Upon the filing of the application and payment of the application fee and any fee required by the nationwide mortgage licensing system and registry, the superintendent of financial institutions shall investigate the applicant. As part of that investigation, the superintendent shall conduct a civil records check.
+
+If, in order to issue a license to an applicant, additional investigation by the superintendent outside this state is necessary, the superintendent may require the applicant to advance sufficient funds to pay the actual expenses of the investigation, if it appears that these expenses will exceed five hundred dollars. The superintendent shall provide the applicant with an itemized statement of the actual expenses that the applicant is required to pay.
+
+(E) In connection with applying for a loan originator license, the applicant shall furnish to the nationwide mortgage licensing system and registry information concerning the applicant's identity, including all of the following:
+
+(1) The applicant's fingerprints for submission to the federal bureau of investigation, and any other governmental agency or entity authorized to receive such information, for purposes of a state, national, and international criminal history background check;
+
+(2) Personal history and experience in a form prescribed by the nationwide mortgage licensing system and registry, along with authorization for the superintendent and the nationwide mortgage licensing system and registry to obtain both of the following:
+
+(a) An independent credit report from a consumer reporting agency;
+
+(b) Information related to any administrative, civil, or criminal findings by any governmental jurisdiction.
+
+(F) The superintendent shall pay all funds advanced and application and renewal fees and penalties the superintendent receives pursuant to this section and section 1322.21 of the Revised Code to the treasurer of state to the credit of the consumer finance fund created in section 1321.21 of the Revised Code.
+
+(G) If an application for a mortgage loan originator license does not contain all of the information required under this section, and if that information is not submitted to the superintendent or to the nationwide mortgage licensing system and registry within ninety days after the superintendent or the nationwide mortgage licensing system and registry requests the information in writing, including by electronic transmission or facsimile, the superintendent may consider the application withdrawn.
+
+(H)(1) The superintendent may establish relationships or enter into contracts with the nationwide mortgage licensing system and registry, or any entities designated by it, to collect and maintain records and process transaction fees or other fees related to mortgage loan originator licenses or the persons associated with a licensee.
+
+(2) For purposes of this section and to reduce the points of contact that the federal bureau of investigation may have to maintain, the division of financial institutions may use the nationwide mortgage licensing system and registry as a channeling agent for requesting information from and distributing information to the United States department of justice or other governmental agencies.
+
+(3) For purposes of this section and to reduce the points of contact that the division may have to maintain, the division may use the nationwide mortgage licensing system and registry as a channeling agent for requesting information from and distributing information to any source as determined by the division.
+
+(I) A mortgage loan originator license, or the authority granted under that license, is not assignable or transferable.
+
+Last updated July 15, 2021 at 1:32 PM

@@ -1,0 +1,52 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4731.295
+Scraped: 2026-07-02T20:07:04+00:00
+
+# Section 4731.295 - Volunteer's certificate.
+
+**Effective:** December 29, 2023
+
+**Latest Legislation:** Senate Bill 131 - 134th General Assembly
+
+(A)(1) As used in this section:
+
+(a) "Free clinic" has the same meaning as in section 3701.071 of the Revised Code.
+
+(b) "Indigent and uninsured person" and "operation" have the same meanings as in section 2305.234 of the Revised Code.
+
+(2) For the purposes of this section, a person shall be considered retired from practice if the person's license has expired with the person's intention of ceasing to practice medicine and surgery or osteopathic medicine and surgery for remuneration.
+
+(B) The state medical board may issue, without examination, a volunteer's certificate to a person who is retired from practice so that the person may provide medical services to indigent and uninsured persons at any location, including a free clinic. The board shall deny issuance of a volunteer's certificate to a person who is not qualified under this section to hold a volunteer's certificate.
+
+(C) An application for a volunteer's certificate shall include all of the following:
+
+(1) A copy of the applicant's degree of medicine or osteopathic medicine.
+
+(2) One of the following, as applicable:
+
+(a) A copy of the applicant's most recent license authorizing the practice of medicine and surgery or osteopathic medicine and surgery issued by a jurisdiction in the United States that licenses persons to practice medicine and surgery or osteopathic medicine and surgery.
+
+(b) A copy of the applicant's most recent license equivalent to a license to practice medicine and surgery or osteopathic medicine and surgery in one or more branches of the United States armed services that the United States government issued.
+
+(3) Evidence of one of the following, as applicable:
+
+(a) That the applicant has maintained for at least ten years prior to retirement full licensure in good standing in any jurisdiction in the United States that licenses persons to practice medicine and surgery or osteopathic medicine and surgery.
+
+(b) That the applicant has practiced for at least ten years prior to retirement in good standing as a doctor of medicine and surgery or osteopathic medicine and surgery in one or more of the branches of the United States armed services.
+
+(4) An attestation that the applicant will not accept any form of remuneration for any medical services rendered while in possession of a volunteer's certificate.
+
+(D) The holder of a volunteer's certificate may provide medical services only to indigent and uninsured persons, but may do so at any location, including a free clinic. The holder shall not accept any form of remuneration for providing medical services while in possession of the certificate. Except in a medical emergency, the holder shall not perform any operation or deliver babies. The board may revoke a volunteer's certificate on receiving proof satisfactory to the board that the holder has engaged in practice in this state outside the scope of the certificate.
+
+(E)(1) A volunteer's certificate shall be valid for a period of three years, unless earlier revoked under division (D) of this section or pursuant to section 4731.22 of the Revised Code. A volunteer's certificate may be renewed upon the application of the holder. The board shall maintain a register of all persons who hold volunteer's certificates. The board shall not charge a fee for issuing or renewing a certificate pursuant to this section.
+
+(2) To be eligible for renewal of a volunteer's certificate the holder of the certificate shall certify to the board completion of one hundred fifty hours of continuing medical education that meets the requirements of section 4731.282 of the Revised Code regarding certification by private associations and approval by the board. The board may not renew a certificate if the holder has not complied with the continuing medical education requirements. Any entity for which the holder provides medical services may pay for or reimburse the holder for any costs incurred in obtaining the required continuing medical education credits.
+
+(3) The board shall issue a volunteer's certificate to each person who qualifies under this section for the certificate. The certificate shall state that the certificate holder is authorized to provide medical services pursuant to the laws of this state. The holder shall display the certificate prominently at the location where the holder primarily practices.
+
+(4) The holder of a volunteer's certificate issued pursuant to this section is subject to the immunity provisions regarding the provision of services to indigent and uninsured persons in section 2305.234 of the Revised Code.
+
+(F) The holder of a volunteer's certificate issued under this section is not required to obtain a license under Chapter 4796. of the Revised Code.
+
+(G) The board shall adopt rules in accordance with Chapter 119. of the Revised Code to administer and enforce this section.
+
+Last updated December 29, 2023 at 6:20 AM

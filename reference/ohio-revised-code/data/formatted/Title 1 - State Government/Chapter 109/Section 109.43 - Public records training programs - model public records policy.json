@@ -1,0 +1,96 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Designee\" means a designee of the elected official in the public office if that elected official is the only elected official in the public office involved or a designee of all of the elected officials in the public office if the public office involved includes more than one elected official.",
+      "id": "109.43-designee",
+      "normalized": "designee",
+      "scope": "(A) As used in this section:",
+      "section": "109.43",
+      "source_title": "Section 109.43 - Public records training programs - model public records policy.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-109.43",
+      "term": "Designee"
+    },
+    {
+      "definition": "(2) \"Elected official\" means an official elected to a local or statewide office. \"Elected official\" does not include the chief justice or a justice of the supreme court, a judge of a court of appeals, court of common pleas, municipal court, or county court, or a clerk of any of those courts.",
+      "id": "109.43-elected-official",
+      "normalized": "elected official",
+      "scope": "(A) As used in this section:",
+      "section": "109.43",
+      "source_title": "Section 109.43 - Public records training programs - model public records policy.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-109.43",
+      "term": "Elected official"
+    },
+    {
+      "definition": "(3) \"Future official\" means a person who has received a certificate of election to a local or statewide office under section 3505.38 of the Revised Code but has not yet taken office. As used in this division, \"local or statewide office\" does not include the office of the chief justice or a justice of the supreme court, a judge of a court of appeals, court of common pleas, municipal court, or county court, or a clerk of any of those courts.",
+      "id": "109.43-future-official",
+      "normalized": "future official",
+      "scope": "(A) As used in this section:",
+      "section": "109.43",
+      "source_title": "Section 109.43 - Public records training programs - model public records policy.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-109.43",
+      "term": "Future official"
+    },
+    {
+      "definition": "(4) \"Public office\" has the same meaning as in section 149.011 of the Revised Code.",
+      "id": "109.43-public-office",
+      "normalized": "public office",
+      "scope": "(A) As used in this section:",
+      "section": "109.43",
+      "source_title": "Section 109.43 - Public records training programs - model public records policy.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-109.43",
+      "term": "Public office"
+    },
+    {
+      "definition": "(5) \"Public record\" has the same meaning as in section 149.43 of the Revised Code.\n\n(B) The attorney general shall develop, provide, and certify training programs and seminars for all elected officials or their appropriate designees, and for all future officials who choose to satisfy the training requirement before taking office, in order to enhance the officials' knowledge of the duty to provide access to public records as required by section 149.43 of the Revised Code and to enhance their knowledge of the open meetings laws set forth in section 121.22 of the Revised Code. The training shall be three hours for every term of office for which the elected official or future official was appointed or elected to the public office involved. The training shall provide elected officials or their appropriate designees and future officials with guidance in developing and updating their offices' policies as required under section 149.43 of the Revised Code. The successful completion by an elected official, by an elected official's appropriate designee, or by a future official of the training requirements established by the attorney general under this section shall satisfy the education requirements imposed under division (E) of section 149.43 of the Revised Code.\n\n(C) The attorney general shall not charge any elected official, the appropriate designee of any elected official, or any future official any fee for attending the training programs and seminars that the attorney general conducts under this section. The attorney general may allow the attendance of any other interested persons at any of the training programs or seminars that the attorney general conducts under this section and shall not charge the person any fee for attending the training program or seminar.\n\n(D) In addition to developing, providing, and certifying training programs and seminars as required under division (B) of this section, the attorney general may contract with one or more other state agencies, political subdivisions, or other public or private entities to conduct the training programs and seminars for elected officials, their appropriate designees, and future officials under this section. The contract may provide for the attendance of any other interested persons at any of the training programs or seminars conducted by the contracting state agency, political subdivision, or other public or private entity. The contracting state agency, political subdivision, or other public or private entity may charge an elected official, an elected official's appropriate designee, a future official, or an interested person a registration fee for attending the training program or seminar conducted by that contracting agency, political subdivision, or entity pursuant to a contract entered into under this division. The attorney general shall determine a reasonable amount for the registration fee based on the actual and necessary expenses associated with the training programs and seminars. If the contracting state agency, political subdivision, or other public or private entity charges an elected official, an elected official's appropriate designee, or a future official a registration fee for attending the training program or seminar conducted pursuant to a contract entered into under this division by that contracting agency, political subdivision, or entity, the public office for which the elected official or future official was appointed or elected to represent may use the public office's own funds to pay for the cost of the registration fee.\n\n(E) The attorney general shall develop and provide to all public offices a model public records policy for responding to public records requests in compliance with section 149.43 of the Revised Code in order to provide guidance to public offices in developing their own public record policies for responding to public records requests in compliance with that section.\n\n(F) The attorney general may provide any other appropriate training or educational programs about Ohio's \"Sunshine Laws,\" sections 121.22 , 149.38 , 149.381 , and 149.43 of the Revised Code, as may be developed and offered by the attorney general or by the attorney general in collaboration with one or more other state agencies, political subdivisions, or other public or private entities.\n\n(G) The auditor of state, in the course of an annual or biennial audit of a public office pursuant to Chapter 117. of the Revised Code, shall audit the public office for compliance with this section and division (E) of section 149.43 of the Revised Code.",
+      "id": "109.43-public-record",
+      "normalized": "public record",
+      "scope": "(A) As used in this section:",
+      "section": "109.43",
+      "source_title": "Section 109.43 - Public records training programs - model public records policy.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-109.43",
+      "term": "Public record"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3505.38",
+      "number": "3505.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3505.38"
+    },
+    {
+      "kind": "section",
+      "label": "149.011",
+      "number": "149.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.011"
+    },
+    {
+      "kind": "section",
+      "label": "149.43",
+      "number": "149.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.43"
+    },
+    {
+      "kind": "section",
+      "label": "121.22",
+      "number": "121.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-121.22"
+    },
+    {
+      "kind": "section",
+      "label": "149.38",
+      "number": "149.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.38"
+    },
+    {
+      "kind": "section",
+      "label": "149.381",
+      "number": "149.381",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.381"
+    }
+  ],
+  "scraped": "2026-07-02T19:31:26+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-109.43",
+  "title": "Section 109.43 - Public records training programs - model public records policy."
+}

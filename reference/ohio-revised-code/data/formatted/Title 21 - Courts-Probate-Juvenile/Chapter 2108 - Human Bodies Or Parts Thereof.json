@@ -1,0 +1,489 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 2108.01 - Anatomical gift definitions.",
+      "number": "2108.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.02 - Revised uniform anatomical gift act adopted.",
+      "number": "2108.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.03 - Application of RC 2108.01 to RC 2108.29.",
+      "number": "2108.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.04 - Persons who may make anatomical gift.",
+      "number": "2108.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.05 - Manner of making anatomical gift.",
+      "number": "2108.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.06 - Amendment of anatomical gift.",
+      "number": "2108.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.07 - Refusal to make anatomical gift.",
+      "number": "2108.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.08 - Action by person other than donor.",
+      "number": "2108.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.09 - Anatomical gift after donor's death.",
+      "number": "2108.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.10 - Making anatomical gift after donor's death.",
+      "number": "2108.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.11 - Donees and purposes of anatomical gift.",
+      "number": "2108.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.12 - Search for evidence of donor intent.",
+      "number": "2108.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.13 - Delivery of document of gift not required.",
+      "number": "2108.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.14 - Referral of dying person to procurement organization.",
+      "number": "2108.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.15 - Rights of anatomical gift donee - acceptance or rejection.",
+      "number": "2108.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.16 - Who may remove donated part.",
+      "number": "2108.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.17 - Hospital agreement with procurement organizations.",
+      "number": "2108.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.18 - Purchase or sale of donated part - permitted charges.",
+      "number": "2108.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.19 - Prohibited acts regarding donation documents.",
+      "number": "2108.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.20 - Good faith immunity for compliance with chapter.",
+      "number": "2108.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.21 - Determination whether anatomical gift made.",
+      "number": "2108.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.22 - Validity of document of gift.",
+      "number": "2108.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.23 - Bureau of motor vehicles donor registry.",
+      "number": "2108.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.231 - Department of natural resources inquiry about organ donation.",
+      "number": "2108.231",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.231"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.24 - Conflict between anatomical gift and health care directive.",
+      "number": "2108.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.25 - Cooperation of coroner with procurement organization.",
+      "number": "2108.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.26 - Release of information to procurement organization.",
+      "number": "2108.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.261 - Medicolegal review of records by coroner.",
+      "number": "2108.261",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.261"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.262 - Information requested by coroner for review.",
+      "number": "2108.262",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.262"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.263 - Cooperation in timely removal of part.",
+      "number": "2108.263",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.263"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.264 - Information regarding cause of death.",
+      "number": "2108.264",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.264"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.265 - Agreement regarding post-mortem procedures.",
+      "number": "2108.265",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.265"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.266 - Recovery of part without post-mortem agreement.",
+      "number": "2108.266",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.266"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.267 - Denial of recovery of part by coroner.",
+      "number": "2108.267",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.267"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.268 - Refusal of procurement organization to accept gift.",
+      "number": "2108.268",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.268"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.269 - Documentation of condition of recovered part.",
+      "number": "2108.269",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.269"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.27 - Reimbursement of coroner attending removal.",
+      "number": "2108.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.271 - Removal to permit preservation of parts.",
+      "number": "2108.271",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.271"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.272 - Immunity for denial of recovery of part.",
+      "number": "2108.272",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.272"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.28 - Construction to promote uniformity.",
+      "number": "2108.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.29 - Conflict with federal electronic signatures law.",
+      "number": "2108.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.30 - Anatomical gifts not considered sale of fluid or body part.",
+      "number": "2108.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.31 - No parental consent needed for blood donations.",
+      "number": "2108.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.32 - Toll-free telephone number to provide organ donor information.",
+      "number": "2108.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.33 - Immunity.",
+      "number": "2108.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.34 - Second chance trust fund.",
+      "number": "2108.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.35 - Second chance trust fund advisory committee.",
+      "number": "2108.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.36 - Definitions; prohibited actions based on physical disability by covered entity.",
+      "number": "2108.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.37 - Violation; civil actions.",
+      "number": "2108.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.38 - Denial of coverage for covered person based on disability prohibited.",
+      "number": "2108.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.40 - Definition of death.",
+      "number": "2108.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.50 - Consent to autopsy or post-mortem examination.",
+      "number": "2108.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.51 - Immunity.",
+      "number": "2108.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.52 - Exceptions.",
+      "number": "2108.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.521 - Suspicious death of a person with a developmental disability.",
+      "number": "2108.521",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.521"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.61 - Umbilical cord blood donation definitions.",
+      "number": "2108.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.62 - Umbilical cord blood banking.",
+      "number": "2108.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.63 - Health care professional or institution not liable for damages.",
+      "number": "2108.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.70 - Assignment of rights regarding disposition of remains.",
+      "number": "2108.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.71 - Vesting of assignment of right of disposition.",
+      "number": "2108.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.72 - Written declaration of assignment.",
+      "number": "2108.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.73 - Witnesses to declaration of assignment.",
+      "number": "2108.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.74 - Declarant warrants truth of declaration.",
+      "number": "2108.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.74"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.75 - Disqualification of assignee of right of disposition.",
+      "number": "2108.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.76 - Assignee no longer declarant's spouse.",
+      "number": "2108.76",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.76"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.77 - Loss of assigned right of disposition.",
+      "number": "2108.77",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.77"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.78 - Assignee bound by declaration of anatomical gift.",
+      "number": "2108.78",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.78"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.79 - Multiple assignees - majority rule - deadlock.",
+      "number": "2108.79",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.79"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.80 - Revocation of declaration of assignment.",
+      "number": "2108.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.80"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.81 - Right of disposition - no declaration of assignment.",
+      "number": "2108.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.82 - Assignment of right of disposition by probate court.",
+      "number": "2108.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.82"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.83 - Dispute regarding right of disposition.",
+      "number": "2108.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.83"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.84 - Procedure pending resolution of dispute.",
+      "number": "2108.84",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.84"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.85 - Costs and legal fees arising from legal action.",
+      "number": "2108.85",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.85"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.86 - Right to rely on declaration and instructions.",
+      "number": "2108.86",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.86"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.87 - Right to make independent investigation.",
+      "number": "2108.87",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.87"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.88 - Refusal or resignation by assignee of right.",
+      "number": "2108.88",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.88"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.89 - Liability for costs of disposition.",
+      "number": "2108.89",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.89"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.90 - Exclusive jurisdiction of probate court over disputes.",
+      "number": "2108.90",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.90"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2108.99 - Penalty.",
+      "number": "2108.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2108.99"
+    }
+  ],
+  "scraped": "2026-07-02T19:41:18+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-2108",
+  "title": "Chapter 2108 - Human Bodies Or Parts Thereof"
+}

@@ -1,0 +1,24 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-171.01
+Scraped: 2026-07-02T19:32:12+00:00
+
+# Section 171.01 - Ohio retirement study council.
+
+**Effective:** September 15, 2004
+
+**Latest Legislation:** Senate Bill 133 - 125th General Assembly
+
+As used in this chapter, "state retirement systems" means the public employees retirement system, Ohio police and fire pension fund, state teachers retirement system, school employees retirement system, and state highway patrol retirement system.
+
+There is hereby created the Ohio retirement study council. Members of the council shall be appointed as follows:
+
+(A) Three members of the senate, appointed by the president of the senate, not more than two of whom may be members of the same political party;
+
+(B) Three members of the house of representatives, appointed by the speaker of the house of representatives, not more than two of whom may be members of the same political party;
+
+(C) Three members appointed by the governor, with the advice and consent of the senate, not more than two of whom shall be members of the same political party, one of whom shall represent the state and its employees; one of whom shall represent nonstate governments and their employees; and one of whom shall represent educational employers and their employees. Of these three members, at least one shall be a person with investment expertise. Terms of the existing members appointed by the governor shall not be affected. Terms of office of members appointed by the governor shall be for three years, commencing on the first day of July and ending on the thirtieth day of June. Each member appointed by the governor shall hold office from the date of appointment until the end of the term for which the appointment was made. Any member appointed by the governor to fill a vacancy occurring prior to the expiration of the term for which the member's predecessor was appointed shall hold office for the remainder of such term. Each member appointed by the governor shall continue in office until the member's successor is appointed and qualified, notwithstanding the expiration of the member's term of office.
+
+(D) Five ex officio members as follows: the executive director of the public employees retirement system, the executive director of the state teachers retirement system, the executive director of the school employees retirement system, the executive secretary of the Ohio police and fire pension fund, and the secretary of the state highway patrol retirement board, who shall be nonvoting members.
+
+A vacancy on the council shall be filled by the person qualified to make the original appointment for the unexpired term, in the same manner as the original appointment.
+
+The members of the council who are appointed from the membership of the senate and the house of representatives shall serve during their terms as members of the general assembly and until their successors are appointed and qualified, notwithstanding the adjournment of the general assembly of which they are members or the expiration of their terms as members of such general assembly.

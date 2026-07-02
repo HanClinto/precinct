@@ -1,0 +1,12 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-2925.511
+Scraped: 2026-07-02T19:46:25+00:00
+
+# Section 2925.511 - Reimbursement for costs of positive drug tests.
+
+**Effective:** October 12, 2006
+
+**Latest Legislation:** House Bill 163 - 126th General Assembly
+
+In addition to the financial sanctions authorized or required under sections 2929.18 and 2929.28 of the Revised Code and to any costs otherwise authorized or required under any provision of law, the court imposing sentence upon an offender who is convicted of or pleads guilty to a drug abuse offense may order the offender to pay to the state, municipal, or county law enforcement agencies that handled the investigation and prosecution all of the costs that the state, municipal corporation, or county reasonably incurred in having tests performed under section 2925.51 of the Revised Code or in any other manner on any substance that was the basis of, or involved in, the offense to determine whether the substance contained any amount of a controlled substance if the results of the tests indicate that the substance tested contained any controlled substance. No court shall order an offender under this section to pay the costs of tests performed on a substance if the results of the tests do not indicate that the substance tested contained any controlled substance.
+
+The court shall hold a hearing to determine the amount of costs to be imposed under this section. The court may hold the hearing as part of the sentencing hearing for the offender.

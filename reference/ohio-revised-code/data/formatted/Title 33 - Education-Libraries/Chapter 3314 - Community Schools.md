@@ -1,0 +1,122 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-3314
+Scraped: 2026-07-02T19:48:42+00:00
+
+# Chapter 3314 - Community Schools
+
+## Sections
+
+- Section 3314.01 - Creation of community school - general powers.
+- Section 3314.011 - Designated fiscal officer - bond - licensing.
+- Section 3314.012 - Development of report cards.
+- Section 3314.013 - Limits on internet- or computer-based community schools.
+- Section 3314.015 - Oversight of sponsors.
+- Section 3314.016 - Community school sponsor evaluations; sponsoring additional schools.
+- Section 3314.017 - Academic performance rating and report card system.
+- Section 3314.018 - Pooling agreements between community schools.
+- Section 3314.019 - Communication with state auditor.
+- Section 3314.0110 - Computer science and technology fund.
+- Section 3314.02 - Establishment of community school - conversion and start-up.
+- Section 3314.021 - Requirements for sponsorship.
+- Section 3314.022 - Contract for provisions of services for disabled student.
+- Section 3314.023 - Monitoring, oversight, and technical assistance; school closure.
+- Section 3314.024 - Detailed accounting by management company; categories of expenses.
+- Section 3314.025 - Report on expenditures to provide monitoring, oversight, and technical assistance.
+- Section 3314.027 - Community school sponsorship.
+- Section 3314.028 - Conditions for continued operation.
+- Section 3314.029 - Ohio school sponsorship program.
+- Section 3314.0210 - Property purchased by operator or management company.
+- Section 3314.0211 - Eligiblity for merger.
+- Section 3314.03 - Specifications of contract between sponsor and governing authority - specifications of comprehensive plan.
+- Section 3314.031 - Publication of information regarding management or operation of community schools.
+- Section 3314.032 - Contents of contract between governing authority and operator.
+- Section 3314.034 - Conditions which would prohibit contract with new sponsor.
+- Section 3314.035 - Publication of names of members of governing authority.
+- Section 3314.036 - Employment of attorney.
+- Section 3314.037 - Training on public records and open meetings laws.
+- Section 3314.038 - Children residing in residential center; reporting.
+- Section 3314.039 - Compilation and publication of information on community schools.
+- Section 3314.0310 - Child sexual abuse prevention.
+- Section 3314.04 - Exemption from state laws and rules.
+- Section 3314.041 - Distributing statement concerning state-prescribed testing and compulsory attendance law to parents.
+- Section 3314.042 - Compliance with standards of financial reporting.
+- Section 3314.043 - Indemnification from management companies for losses due to conflict of interest.
+- Section 3314.05 - Specification of use and acquisition of facilities.
+- Section 3314.051 - Disposal of real property acquired from school district.
+- Section 3314.06 - Admission procedures.
+- Section 3314.061 - Community schools serving autistic and nondisabled students.
+- Section 3314.07 - Expiration, termination or nonrenewal of contract for community school.
+- Section 3314.071 - Liability on contracts.
+- Section 3314.072 - Suspending operation of noncomplying school.
+- Section 3314.073 - Declaring school to be in probationary status.
+- Section 3314.074 - Distributing assets of school permanently closed.
+- Section 3314.08 - Annual enrollment reports; payments from department.
+- Section 3314.081 - Annual allocation of federal moneys.
+- Section 3314.082 - Community schools; application for funds.
+- Section 3314.083 - Deducting excess costs of providing special education and related services to student with a disability.
+- Section 3314.084 - Reporting rules for community school students living in home.
+- Section 3314.086 - Community schools; career-technical education.
+- Section 3314.087 - Simultaneous enrollment in career-technical program.
+- Section 3314.089 - Community school career-technical education spending.
+- Section 3314.09 - Transportation of native students provided by board of each school district.
+- Section 3314.091 - Transportation of native students provided by community school - agreement.
+- Section 3314.092 - Consultation with board regarding changes in schedule.
+- Section 3314.093 - Transportation consortium.
+- Section 3314.10 - Teachers and nonteaching employees.
+- Section 3314.101 - Suspension of employee pending criminal action.
+- Section 3314.102 - Removal of conversion community school employees from collective bargaining unit.
+- Section 3314.103 - Termination of contract prior to termination of annual session.
+- Section 3314.104 - Prohibition of employment of person with permanently revoked or denied educator license.
+- Section 3314.11 - Verification of residency.
+- Section 3314.12 - Sponsor to submit annual report of services and expenditures.
+- Section 3314.13 - Community school employees; liability.
+- Section 3314.14 - Possession and use of inhalers by student - school and employees not liable.
+- Section 3314.141 - No civil liability for prohibition of use of autoinjector.
+- Section 3314.142 - Liability for damages due to concussions.
+- Section 3314.143 - Procurement of epinephrine autoinjectors for community schools.
+- Section 3314.144 - Procurement of inhalers by community school.
+- Section 3314.145 - Liability pertaining to sudden cardiac arrest.
+- Section 3314.146 - Civil immunity, decisions not to provide mental health services.
+- Section 3314.147 - Procurement of glucagon, qualified immunity.
+- Section 3314.148 - Overdose reversal drug policy.
+- Section 3314.15 - Body mass index and weight status category screening.
+- Section 3314.16 - Placement of automatic external defibrillator in schools - staff training - qualified immunity.
+- Section 3314.17 - Statewide education management information system.
+- Section 3314.18 - Breakfast and lunch programs - Summer extension.
+- Section 3314.19 - Annual assurances by community school sponsor.
+- Section 3314.191 - Prerequisites for payments from department.
+- Section 3314.21 - Internet- or computer-based schools.
+- Section 3314.22 - Child entitled to computer supplied by school.
+- Section 3314.23 - Compliance with standards.
+- Section 3314.232 - Standards for learning management software.
+- Section 3314.24 - Contracts for facility space.
+- Section 3314.25 - Computer-based schools to provide location for statewide tests.
+- Section 3314.251 - Locations for counseling, instructional coaching, and testing assistance.
+- Section 3314.26 - Withdrawal of computer-based school student not taking tests.
+- Section 3314.261 - Internet- or computer-based school attendance.
+- Section 3314.262 - Internet- or computer-based community school student automatic withdrawal.
+- Section 3314.27 - Maximum daily hours by computer-based school student.
+- Section 3314.271 - Orientation course.
+- Section 3314.28 - Plan by computer-based schools for services to disabled students.
+- Section 3314.29 - Division of certain internet- or computer-based community school.
+- Section 3314.35 - Permanent closure; criteria.
+- Section 3314.351 - Closure of certain community schools.
+- Section 3314.352 - Reopening under new name.
+- Section 3314.353 - Publication of school closures and closure risks.
+- Section 3314.354 - Submission of data regarding schools at risk of permanent closure.
+- Section 3314.355 - Community school closure safe harbor.
+- Section 3314.36 - Applicability of RC 3314.35 closure rule.
+- Section 3314.361 - Operation of drug recovery program.
+- Section 3314.362 - Dropout prevention and recovery community schools.
+- Section 3314.38 - Competency-based educational program.
+- Section 3314.381 - Dropout recovery community school advisory council.
+- Section 3314.382 - Rules for dropout recovery community schools.
+- Section 3314.40 - Report of employee conviction or alternative disposition.
+- Section 3314.401 - Employee investigation report kept in personnel file.
+- Section 3314.402 - Application of collective bargaining agreement.
+- Section 3314.403 - False report of employee misconduct prohibited.
+- Section 3314.41 - Criminal records check of private contract employee.
+- Section 3314.44 - Collection and transmittal of school records after closing; Compliance; Penalty.
+- Section 3314.46 - Sponsors; sales of goods or services prohibited.
+- Section 3314.51 - Unauditable community school.
+- Section 3314.52 - Policies for use of credit card accounts.
+- Section 3314.99 - Penalty.

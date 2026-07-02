@@ -1,0 +1,20 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-6115.05
+Scraped: 2026-07-02T20:17:22+00:00
+
+# Section 6115.05 - Petition for establishment of sanitary district.
+
+**Effective:** October 1, 1953
+
+**Latest Legislation:** House Bill 1 - 100th General Assembly
+
+Before any court establishes a sanitary district as outlined in section 6115.04 of the Revised Code, a petition shall be filed in the office of the clerk of said court, signed by five hundred freeholders, or by a majority of the freeholders, or by the owners of more than half of the property, in either acreage or value, within the limits of the territory proposed to be organized into a district. Such a petition may be signed by the governing body of any public corporation lying wholly or partly within the proposed district, in such manner as it prescribes, and when so signed by such governing body such a petition on the part of said governing body shall fill all the requirements of representation upon such petition of the freeholders of such public corporation, as they appear upon the tax duplicate; and thereafter it is not necessary for individuals within said public corporation to sign such a petition. Such a petition may also be signed by railroads and other corporations owning lands.
+
+Such petition may be filed by any city interested in some degree in the improvement, upon proper action by its governing body. Property in each political subdivision wholly or partly included in the proposed district shall be represented by the signers of the petition provided for by this section.
+
+The petition for the establishment of a district to provide a water supply for domestic, municipal, and public use shall be signed by the governing body of each municipal corporation, or part thereof included in the proposed district, or by a majority of the freeholders of political subdivisions or parts thereof included in the proposed district and lying outside municipal corporations, and shall also be signed by the public service corporation which may be supplying water to the inhabitants of such political subdivisions under franchise granted by the governing bodies thereof.
+
+The petition shall set forth the proposed name of said district, the necessity for the proposed work and that it will be conducive to the public health, safety, comfort, convenience, or welfare, and a general description of the purpose of the contemplated improvement, and of the territory to be included in the proposed district. Said description need not be given by metes and bounds or by legal subdivisions, but it is sufficient if a generally accurate description is given of the territory to be organized as a district. Said territory shall include two or more political subdivisions or portions thereof, and, except as a subdistrict provided for by section 6115.69 of the Revised Code, shall not be included wholly within the limits of a single municipal corporation. Said territory need not be contiguous, provided it is so situated that the public health, safety, comfort, convenience, or welfare will be promoted by the organization as a single district of the territory described. Said petition shall pray for the organization of the district by the name proposed.
+
+No petition with the requisite signatures shall be declared void because of alleged defects, but the court may at any time permit the petition to be amended in form and substance to conform to the facts by correcting any errors in the description of the territory, or in any other particular. Several similar petitions or duplicate copies of the same petition for the organization of the same district may be filed and shall together be regarded as one petition. All such petitions filed prior to the hearing on said petition shall be considered by the court as though they had been filed with the first petition placed on file.
+
+In determining when a majority of landowners has signed the petition, the court shall be governed by the names as they appear upon the tax duplicate, which shall be prima-facie evidence of such ownership.

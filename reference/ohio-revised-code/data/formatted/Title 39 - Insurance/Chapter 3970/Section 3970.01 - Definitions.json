@@ -1,0 +1,119 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Chronic condition\" means a condition that can be treated or managed, but not cured.",
+      "id": "3970.01-chronic-condition",
+      "normalized": "chronic condition",
+      "scope": "As used in this chapter:",
+      "section": "3970.01",
+      "source_title": "Section 3970.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3970.01",
+      "term": "Chronic condition"
+    },
+    {
+      "definition": "(B) \"Congenital anomaly or disorder\" means a condition that is present from birth, whether inherited or caused by the environment, which may cause or contribute to illness or disease.",
+      "id": "3970.01-congenital-anomaly-or-disorder",
+      "normalized": "congenital anomaly or disorder",
+      "scope": "As used in this chapter:",
+      "section": "3970.01",
+      "source_title": "Section 3970.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3970.01",
+      "term": "Congenital anomaly or disorder"
+    },
+    {
+      "definition": "(C) \"Hereditary disorder\" means an abnormality that is genetically transmitted from parent to offspring and may cause illness or disease.",
+      "id": "3970.01-hereditary-disorder",
+      "normalized": "hereditary disorder",
+      "scope": "As used in this chapter:",
+      "section": "3970.01",
+      "source_title": "Section 3970.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3970.01",
+      "term": "Hereditary disorder"
+    },
+    {
+      "definition": "(D) \"Orthopedic condition\" means a condition affecting the bones, skeletal muscle, cartilage, tendons, ligaments, and joints. \"Orthopedic condition\" includes elbow dysplasia, hip dysplasia, intervertebral disc degeneration, patellar luxation, and ruptured cranial cruciate ligaments. \"Orthopedic condition\" does not include cancer or metabolic, hemopoietic, or autoimmune diseases.",
+      "id": "3970.01-orthopedic-condition",
+      "normalized": "orthopedic condition",
+      "scope": "As used in this chapter:",
+      "section": "3970.01",
+      "source_title": "Section 3970.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3970.01",
+      "term": "Orthopedic condition"
+    },
+    {
+      "definition": "(E) \"Pet insurance\" means a property insurance policy that provides coverage for accidents and illnesses of pets.",
+      "id": "3970.01-pet-insurance",
+      "normalized": "pet insurance",
+      "scope": "As used in this chapter:",
+      "section": "3970.01",
+      "source_title": "Section 3970.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3970.01",
+      "term": "Pet insurance"
+    },
+    {
+      "definition": "(F) \"Preexisting condition\" means any condition for which any of the following are true prior to the effective date of a pet insurance policy or during any waiting period:\n\n(1) A veterinarian provided medical advice.\n\n(2) The pet received previous treatment.\n\n(3) Based on information from verifiable sources, the pet had signs or symptoms directly related to the condition for which a claim is being made.",
+      "id": "3970.01-preexisting-condition",
+      "normalized": "preexisting condition",
+      "scope": "As used in this chapter:",
+      "section": "3970.01",
+      "source_title": "Section 3970.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3970.01",
+      "term": "Preexisting condition"
+    },
+    {
+      "definition": "(G) \"Renewal\" means to issue and deliver, at the end of a pet insurance policy period, a policy that supersedes a policy previously issued and delivered by the same pet insurer or an affiliated pet insurer, and which provides types and limits of coverage substantially similar to those contained in the policy being superseded.",
+      "id": "3970.01-renewal",
+      "normalized": "renewal",
+      "scope": "As used in this chapter:",
+      "section": "3970.01",
+      "source_title": "Section 3970.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3970.01",
+      "term": "Renewal"
+    },
+    {
+      "definition": "(H) \"Veterinarian\" means an individual who holds a valid license to practice veterinary medicine under Chapter 4741. of the Revised Code or from the appropriate licensing entity in the jurisdiction in which the veterinarian practices.",
+      "id": "3970.01-veterinarian",
+      "normalized": "veterinarian",
+      "scope": "As used in this chapter:",
+      "section": "3970.01",
+      "source_title": "Section 3970.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3970.01",
+      "term": "Veterinarian"
+    },
+    {
+      "definition": "(I) \"Veterinary expenses\" means the costs associated with medical advice, diagnosis, care, or treatment provided by a veterinarian, including the cost of drugs prescribed by a veterinarian.",
+      "id": "3970.01-veterinary-expenses",
+      "normalized": "veterinary expenses",
+      "scope": "As used in this chapter:",
+      "section": "3970.01",
+      "source_title": "Section 3970.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3970.01",
+      "term": "Veterinary expenses"
+    },
+    {
+      "definition": "(J) \"Waiting period\" means a period of time specified in a pet insurance policy that is required to elapse before some or all of the coverage in the policy begins.",
+      "id": "3970.01-waiting-period",
+      "normalized": "waiting period",
+      "scope": "As used in this chapter:",
+      "section": "3970.01",
+      "source_title": "Section 3970.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3970.01",
+      "term": "Waiting period"
+    },
+    {
+      "definition": "(K) \"Wellness program\" means a subscription- or reimbursement-based program that is separate from a pet insurance policy and provides goods or services to promote the general health, safety, or well-being of the pet.\n\nLast updated January 23, 2025 at 2:18 PM",
+      "id": "3970.01-wellness-program",
+      "normalized": "wellness program",
+      "scope": "As used in this chapter:",
+      "section": "3970.01",
+      "source_title": "Section 3970.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3970.01",
+      "term": "Wellness program"
+    }
+  ],
+  "kind": "section",
+  "references": [],
+  "scraped": "2026-07-02T20:03:43+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3970.01",
+  "title": "Section 3970.01 - Definitions."
+}

@@ -1,0 +1,108 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Enterprise\" has the same meaning as in section 2923.31 of the Revised Code.",
+      "id": "2913.08-enterprise",
+      "normalized": "enterprise",
+      "scope": "(A) As used in this section:",
+      "section": "2913.08",
+      "source_title": "Section 2913.08 - Organized theft of retail property.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2913.08",
+      "term": "Enterprise"
+    },
+    {
+      "definition": "(2) \"Retail property\" means any tangible personal property displayed, held, stored, transported, or offered for sale in or by a retail establishment, manufacturer, distributor, or an online marketplace as defined in section 1349.65 of the Revised Code. \"Retail property\" includes gift cards as defined in section 1349.61 of the Revised Code.",
+      "id": "2913.08-retail-property",
+      "normalized": "retail property",
+      "scope": "(A) As used in this section:",
+      "section": "2913.08",
+      "source_title": "Section 2913.08 - Organized theft of retail property.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2913.08",
+      "term": "Retail property"
+    },
+    {
+      "definition": "(3) \"Retail property fence\" means an enterprise that possesses, procures, receives, or conceals retail property that was represented to the enterprise as being stolen or that the enterprise knows or believes to be stolen.",
+      "id": "2913.08-retail-property-fence",
+      "normalized": "retail property fence",
+      "scope": "(A) As used in this section:",
+      "section": "2913.08",
+      "source_title": "Section 2913.08 - Organized theft of retail property.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2913.08",
+      "term": "Retail property fence"
+    },
+    {
+      "definition": "(4) \"Retail value\" means the full retail value of the retail property, including all applicable taxes and shipping costs.",
+      "id": "2913.08-retail-value",
+      "normalized": "retail value",
+      "scope": "(A) As used in this section:",
+      "section": "2913.08",
+      "source_title": "Section 2913.08 - Organized theft of retail property.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2913.08",
+      "term": "Retail value"
+    },
+    {
+      "definition": "(5) \"Theft\" means conduct that would constitute a violation of section 2913.02 of the Revised Code.\n\n(B) No person shall knowingly commit theft of retail property with a retail value of seven thousand five hundred dollars or more from a retail establishment, manufacturer, distributor, or cargo transportation unit for either of the following purposes:\n\n(1) To sell, deliver, or transfer that property to a retail property fence;\n\n(2) To sell, deliver, transfer, exchange, or return the retail property for value.\n\n(C) No person employed by, or associated with, an enterprise shall receive, purchase, or possess retail property with a retail value of seven thousand five hundred dollars or more if the person knows, believes, or has reasonable cause to believe that the property has been obtained by theft.\n\n(D) No person shall knowingly act as an agent of an enterprise to steal retail property with a retail value of seven thousand five hundred dollars or more from a retail establishment, manufacturer, distributor, or cargo transportation unit as part of an organized plan to commit theft.\n\n(E) No person shall knowingly recruit, coordinate, organize, supervise, direct, manage, or finance an enterprise to undertake any of the acts described in division (B), (C), or (D) of this section.\n\n(F) Whoever violates this section is guilty of organized theft of retail property. If the retail value is less than seven hundred fifty thousand dollars, organized theft of retail property is a felony of the third degree. If the retail value is seven hundred fifty thousand dollars or more but less than one million five hundred thousand dollars, organized theft of retail property is a felony of the second degree. If the retail value is one million five hundred thousand dollars or more, organized theft of retail property is a felony of the first degree. If organized theft of retail property is a felony of the third degree under this division and if the offender previously has been convicted of or pleaded guilty to organized theft of retail property or, within the prior three years, any felony theft offense, there is a presumption of a prison term for the offense. If organized theft of retail property is a felony of the third degree under this division and if the offender two or more times previously has been convicted of or pleaded guilty to organized theft of retail property, or, within the prior three years, two or more felony theft offenses, the court shall impose as a mandatory prison term one of the prison terms prescribed for a felony of the third degree.\n\n(G) In determining whether the retail value of retail property equals or exceeds seven thousand five hundred dollars, the value of all retail property stolen from the retail establishment or retail establishments by the same person or persons within any twelve-month period shall be aggregated.\n\n(H)(1) A prosecution for a violation of this section does not preclude a prosecution for a violation of section 2913.02 , 2913.51 , or 2913.32 of the Revised Code based on the same conduct or a prosecution for a violation of section 2923.32 of the Revised Code based on the same conduct where the violation involves engaging in a pattern of corrupt activity related to organized retail theft.\n\n(2) If an offender is convicted of or pleads guilty to a violation of this section and is also convicted of or pleads guilty to a violation described in division (H)(1) of this section based on the same conduct that was the basis of the violation of this section, the two or more offenses are allied offenses of similar import under section 2941.25 of the Revised Code.\n\nLast updated February 21, 2025 at 2:57 PM",
+      "id": "2913.08-theft",
+      "normalized": "theft",
+      "scope": "(A) As used in this section:",
+      "section": "2913.08",
+      "source_title": "Section 2913.08 - Organized theft of retail property.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2913.08",
+      "term": "Theft"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2923.31",
+      "number": "2923.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2923.31"
+    },
+    {
+      "kind": "section",
+      "label": "1349.65",
+      "number": "1349.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.65"
+    },
+    {
+      "kind": "section",
+      "label": "1349.61",
+      "number": "1349.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.61"
+    },
+    {
+      "kind": "section",
+      "label": "2913.02",
+      "number": "2913.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2913.02"
+    },
+    {
+      "kind": "section",
+      "label": "2913.51",
+      "number": "2913.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2913.51"
+    },
+    {
+      "kind": "section",
+      "label": "2913.32",
+      "number": "2913.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2913.32"
+    },
+    {
+      "kind": "section",
+      "label": "2923.32",
+      "number": "2923.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2923.32"
+    },
+    {
+      "kind": "section",
+      "label": "2941.25",
+      "number": "2941.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2941.25"
+    }
+  ],
+  "scraped": "2026-07-02T19:46:11+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2913.08",
+  "title": "Section 2913.08 - Organized theft of retail property."
+}

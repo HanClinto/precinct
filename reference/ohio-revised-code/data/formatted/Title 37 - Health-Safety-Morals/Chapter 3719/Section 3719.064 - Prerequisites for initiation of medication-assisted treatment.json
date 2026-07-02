@@ -1,0 +1,52 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Medication-assisted treatment\" has the same meaning as in section 340.01 of the Revised Code.",
+      "id": "3719.064-medication-assisted-treatment",
+      "normalized": "medication-assisted treatment",
+      "scope": "(A) As used in this section:",
+      "section": "3719.064",
+      "source_title": "Section 3719.064 - Prerequisites for initiation of medication-assisted treatment.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3719.064",
+      "term": "Medication-assisted treatment"
+    },
+    {
+      "definition": "(2) \"Prescriber\" means any of the following:\n\n(a) An advanced practice registered nurse who holds a current, valid license issued under Chapter 4723. of the Revised Code and is designated as a clinical nurse specialist, certified nurse-midwife, or certified nurse practitioner;\n\n(b) A physician authorized under Chapter 4731. of the Revised Code to practice medicine and surgery or osteopathic medicine and surgery;\n\n(c) A physician assistant who is licensed under Chapter 4730. of the Revised Code, holds a valid prescriber number issued by the state medical board, and has been granted physician-delegated prescriptive authority;\n\n(d) A certified mental health assistant who is licensed under Chapter 4772. of the Revised Code and has been granted physician-delegated prescriptive authority by the physician supervising the certified mental health assistant.",
+      "id": "3719.064-prescriber",
+      "normalized": "prescriber",
+      "scope": "(A) As used in this section:",
+      "section": "3719.064",
+      "source_title": "Section 3719.064 - Prerequisites for initiation of medication-assisted treatment.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3719.064",
+      "term": "Prescriber"
+    },
+    {
+      "definition": "(3) \"Qualifying practitioner\" has the same meaning as in section 303(g)(2)(G)(iii) of the \"Controlled Substances Act of 1970,\" 21 U.S.C. 823(g)(2)(G)(iii), as amended.\n\n(B) Before initiating medication-assisted treatment, a prescriber shall give the patient or the patient's representative information about all drugs approved by the United States food and drug administration for use in medication-assisted treatment. The information must be provided both orally and in writing. The prescriber or the prescriber's delegate shall note in the patient's medical record when this information was provided and make the record available to employees of the board of nursing or state medical board on their request.\n\nIf the prescriber is not a qualifying practitioner and the patient's choice is opioid treatment and the prescriber determines that such treatment is clinically appropriate and meets generally accepted standards of medicine, the prescriber shall refer the patient to an opioid treatment program licensed under section 5119.37 of the Revised Code or a qualifying practitioner. The prescriber or the prescriber's delegate shall make a notation in the patient's medical record naming the program or practitioner to whom the patient was referred and specifying when the referral was made.\n\nLast updated January 28, 2025 at 12:42 PM",
+      "id": "3719.064-qualifying-practitioner",
+      "normalized": "qualifying practitioner",
+      "scope": "(A) As used in this section:",
+      "section": "3719.064",
+      "source_title": "Section 3719.064 - Prerequisites for initiation of medication-assisted treatment.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3719.064",
+      "term": "Qualifying practitioner"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "340.01",
+      "number": "340.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-340.01"
+    },
+    {
+      "kind": "section",
+      "label": "5119.37",
+      "number": "5119.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.37"
+    }
+  ],
+  "scraped": "2026-07-02T19:51:34+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3719.064",
+  "title": "Section 3719.064 - Prerequisites for initiation of medication-assisted treatment."
+}

@@ -1,0 +1,36 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-319.302
+Scraped: 2026-07-02T19:32:47+00:00
+
+# Section 319.302 - Reduction of remaining taxes.
+
+**Effective:** March 20, 2026
+
+**Latest Legislation:** House Bill 186 - 136th General Assembly
+
+(A) For purposes of this section:
+
+(1) "Farming activity" means farming, leasing property for farming, or holding vacant land that the county auditor determines will be used for farming.
+
+(2) "Residential activity" means occupying or holding property improved with single-family, two-family, or three-family dwellings; leasing property improved with single-family, two-family, or three-family dwellings; or holding vacant land that the county auditor determines will be used to develop single-family, two-family, or three-family dwellings.
+
+(3) "Farming" does not include land used for the commercial production of timber that is receiving the tax benefit under section 5713.23 or 5713.31 of the Revised Code and all improvements connected with such commercial production of timber.
+
+(4) "Qualifying levy" means a levy approved at an election held before September 29, 2013; a levy within the ten-mill limitation; a levy provided for by the charter of a municipal corporation that was levied on the tax list for tax year 2013; a subsequent renewal of any such levy; or a subsequent substitute for such a levy under section 5705.199 of the Revised Code. "Qualifying levy" does not include any replacement imposed under section 5705.192 of the Revised Code, as it existed before January 1, 2026, of any levy described in division (B)(1) of this section.
+
+(B)(1) Real property that is intended primarily for use in farming activity or residential activity shall qualify for a partial exemption from real property taxation.
+
+(2) Each year, the county auditor shall review each parcel of real property to determine whether it qualifies for the partial exemption provided for by this section as of the first day of January of the current tax year.
+
+(C) After complying with section 319.301 of the Revised Code, the county auditor shall reduce the remaining sums to be levied by qualifying levies against each parcel of real property that is listed on the general tax list and duplicate of real and public utility property for the current tax year and that qualifies for partial exemption under division (A) of this section, and against each manufactured and mobile home that is taxed pursuant to division (D)(2) of section 4503.06 of the Revised Code and that is on the manufactured home tax list for the current tax year, by the following applicable amount, to provide a partial exemption for that parcel or home:
+
+(1) For property intended primarily for use in a farming activity, ten per cent;
+
+(2) For property intended primarily for use in a residential activity, seven and one-half per cent for the first tax year to which this amendment applies; an additional, cumulative reduction of two and one-half percentage points for each of the following two tax years; and zero per cent for and after the third following tax year.
+
+(D) Except as otherwise provided in sections 323.152 , 323.158 , 323.16 , 505.06 , and 715.263 of the Revised Code, the amount of the taxes remaining after any such reduction shall be the real and public utility property taxes charged and payable on each parcel of real property, including property that does not qualify for partial exemption under division (B) of this section, and the manufactured home tax charged and payable on each manufactured or mobile home, and shall be the amounts certified to the county treasurer for collection. Upon receipt of the real and public utility property tax duplicate, the treasurer shall certify to the tax commissioner the total amount by which the real property taxes were reduced under this section, as shown on the duplicate. Such reduction shall not directly or indirectly affect the determination of the principal amount of notes that may be issued in anticipation of any tax levies or the amount of bonds or notes for any planned improvements. If after application of sections 5705.31 and 5705.32 of the Revised Code and other applicable provisions of law, including divisions (F) and (I) of section 321.24 of the Revised Code, there would be insufficient funds for payment of debt charges on bonds or notes payable from taxes reduced by this section, the reduction of taxes provided for in this section shall be adjusted to the extent necessary to provide funds from such taxes.
+
+(E) The tax commissioner may adopt rules governing the administration of the partial exemption provided for by this section.
+
+(F) The determination of whether property qualifies for partial exemption under division (B) of this section is solely for the purpose of allowing the partial exemption under division (C) of this section.
+
+Last updated January 14, 2026 at 11:55 AM

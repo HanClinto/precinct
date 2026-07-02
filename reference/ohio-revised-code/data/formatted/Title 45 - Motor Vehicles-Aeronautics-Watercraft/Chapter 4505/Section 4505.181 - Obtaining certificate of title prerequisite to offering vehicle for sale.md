@@ -1,0 +1,66 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4505.181
+Scraped: 2026-07-02T20:05:24+00:00
+
+# Section 4505.181 - Obtaining certificate of title prerequisite to offering vehicle for sale.
+
+**Effective:** January 21, 2018
+
+**Latest Legislation:** House Bill 49 - 132nd General Assembly
+
+(A) Notwithstanding section 4505.18 of the Revised Code, a motor vehicle dealer or person acting on behalf of a motor vehicle dealer may display, offer for sale, or sell a used motor vehicle and a manufactured housing dealer or person acting on behalf of a manufactured housing dealer may display, offer for sale, or sell a used manufactured home or used mobile home without having first obtained a certificate of title for the vehicle in the name of the dealer by complying with this section.
+
+(1) The dealer or person acting on behalf of the dealer shall possess a bill of sale for each used motor vehicle, used manufactured home, and used mobile home proposed to be displayed, offered for sale, or sold under this section or a properly executed power of attorney or other related documents from the prior owner of the motor vehicle, manufactured home, or mobile home giving the dealer or person acting on behalf of the dealer authority to have a certificate of title to the motor vehicle, manufactured home, or mobile home issued in the name of the dealer, and shall retain copies of all such documents in the dealer's or person's files until such time as a certificate of title in the dealer's name is issued for each such motor vehicle, manufactured home, or mobile home by the clerk of the court of common pleas. Such documents shall be available for inspection by the bureau of motor vehicles and the division of real estate of the department of commerce during normal business hours.
+
+(2) If the attorney general has paid a retail purchaser of the dealer or a secured party under division (D), (E), or (G) of this section within three years prior to such date, the dealer shall post with the attorney general's office in favor of this state a bond of a surety company authorized to do business in this state, in an amount of not less than twenty-five thousand dollars, to be used solely for the purpose of compensating retail purchasers of motor vehicles, manufactured homes, or mobile homes who suffer damages due to failure of the dealer or person acting on behalf of the dealer to comply with this section. Failure to post a bond constitutes a deceptive act or practice in connection with a consumer transaction and is a violation of section 1345.02 of the Revised Code. The dealer's surety shall notify the registrar and attorney general when a bond of a motor vehicle dealer is canceled and shall notify the division of real estate of the department of commerce and the attorney general when a bond of a manufactured housing dealer is canceled. Such notification of cancellation shall include the effective date of and reason for cancellation.
+
+(B) If a retail purchaser purchases a used motor vehicle, used manufactured home, or used mobile home for which the dealer, pursuant to and in accordance with division (A) of this section, does not have a certificate of title issued in the name of the dealer at the time of the sale, the retail purchaser has an unconditional right to demand the dealer rescind the transaction if one of the following applies:
+
+(1) The dealer fails, on or before the fortieth day following the date of the sale, to obtain a title in the name of the retail purchaser.
+
+(2) The title for the vehicle indicates that it is a rebuilt salvage vehicle, and the fact that it is a rebuilt salvage vehicle was not disclosed to the retail purchaser in writing prior to the execution of the purchase agreement.
+
+(3) The title for the vehicle indicates that the dealer has made an inaccurate odometer disclosure to the retail purchaser.
+
+(4) The title for the vehicle indicates that it is a "buyback" vehicle as defined in section 1345.71 of the Revised Code, and the fact that it is a "buyback" vehicle was not disclosed to the retail purchaser in the written purchase agreement.
+
+(5) The motor vehicle is a used manufactured home or used mobile home, as defined by section 4781.01 of the Revised Code, that has been repossessed under Chapter 1309. or 1317. of the Revised Code, but a certificate of title for the repossessed home has not yet been transferred by the repossessing party to the dealer on the date the retail purchaser purchases the used manufactured home or used mobile home from the dealer, and the dealer fails to obtain a certificate of title on or before the fortieth day after the dealer obtains the certificate of title for the home from the repossessing party or the date on which an occupancy permit for the home is delivered to the purchaser by the appropriate legal authority, whichever occurs later.
+
+(C)(1) If the circumstance described in division (B)(1) of this section applies, a retail purchaser or the retail purchaser's representative shall provide the dealer notice of the request for recision. Such notification shall occur not later than sixty days from the date the motor vehicle is titled in the name of the retail purchaser. The dealer shall have the opportunity to comply with the dealer's obligation to refund the full purchase price of the motor vehicle. Reimbursement shall be only in such a manner as to reimburse the retail purchaser any money the retail purchaser actually paid and, in the case of a lender of the retail purchaser, the amount paid by the lender to purchase the contract or finance the sale of the vehicle. If a vehicle was taken in trade as a down payment, the dealer shall return the vehicle to the consumer, unless the dealer remitted payment to a third party to satisfy any security interest. If the dealer remitted payment, the dealer shall reimburse the purchaser the value of the vehicle, as evidenced by the bill of sale.
+
+(2) If any of the circumstances described in division (B)(2), (3), or (4) of this section apply, a retail purchaser or the retail purchaser's representative shall provide notice to the dealer of a request for recision. Such notification shall occur not later than one hundred eighty days from the date the vehicle is titled in the name of the retail purchaser. Upon timely notification, the dealer shall have the opportunity to comply with the dealer's obligation to refund the full purchase price of the motor vehicle. Reimbursement shall be only in such a manner as to reimburse the retail purchaser any money the retail purchaser actually paid and, in the case of a lender of the retail purchaser, the amount paid by the lender to purchase the contract or finance the sale of the vehicle. If a vehicle was taken in trade as a down payment, the dealer shall return the vehicle to the consumer, unless the dealer remitted payment to a third party to satisfy any security interest. If the dealer remitted payment, the dealer shall reimburse the purchaser the value of the vehicle, as evidenced by the bill of sale.
+
+(3) If any of the circumstances described in division (B)(5) of this section apply, a retail purchaser or the retail purchaser's representative shall notify the dealer and afford the dealer the opportunity to comply with the dealer's obligation to rescind the manufactured home or mobile home transaction.
+
+(4) If the retail purchaser does not deliver notice to the dealer within the applicable time period specified in division (C)(1), (2), or (3) of this section, the retail purchaser shall not be entitled to any recovery or have any cause of action under this section.
+
+(5) Nothing in division (C) of this section shall be construed as prohibiting the dealer and the retail purchaser or their representatives from negotiating a compromise resolution that is satisfactory to both parties.
+
+(D) If a retail purchaser notifies a dealer of one or more of the circumstances listed in division (B) of this section within the applicable time period specified in division (C)(1), (2), or (3) of this section and the dealer fails to comply with the requirements for recision as prescribed in division (C) of this section or reach a satisfactory compromise with the retail purchaser within seven business days of presentation of the retail purchaser's recision claim, the retail purchaser may apply to the attorney general for payment from the fund of the full purchase price to the retail purchaser.
+
+(E)(1) Upon application by a retail purchaser for payment from the fund, if the attorney general is satisfied that one or more of the circumstances contained in divisions (B)(1) to (5) of this section exist, and notification has been given within the applicable time period specified in division (C)(1), (2), or (3) of this section, the attorney general shall cause at maximum the full purchase price of the vehicle, manufactured home, or mobile home plus the cost of any additional temporary license placards to be paid to the retail purchaser from the fund. The attorney general may require delivery of the vehicle, manufactured home, or mobile home to the attorney general prior to reimbursement from the fund. Reimbursement shall be only in such a manner as to do either of the following:
+
+(a) Reimburse the retail purchaser any money the retail purchaser actually paid and, in the case of a lender of the retail purchaser, the amount paid by the lender to purchase the contract or finance the sale of the vehicle;
+
+(b) If the retail purchaser wishes to retain the vehicle, the attorney general, in the attorney general's sole discretion, may pay a lienholder of record or other holder of a secured interest in such manner that title can be transferred to the retail purchaser free of encumbrances, other than a security interest granted by the retail purchaser at the time of vehicle purchase.
+
+(2) The attorney general, in the attorney general's sole discretion, also may cause the cost of additional temporary license placards to be paid from the fund.
+
+(F) The attorney general may sell or otherwise dispose of any used motor vehicle, manufactured home, or mobile home that is delivered to the attorney general under this section, and may collect the proceeds of any bond posted under division (A) of this section by a dealer who has failed to comply with division (D) of this section. The proceeds from all such sales and collections shall be deposited into the title defect recision fund for use as specified in section 1345.52 of the Revised Code.
+
+(G) If a dealer fails to submit payment of a secured interest on a trade-in vehicle as agreed to by the dealer and retail purchaser and none of the circumstances in divisions (B)(1) to (5) applies, the retail purchaser may apply to the attorney general for payment to the secured creditor from the fund. The attorney general shall demand immediate payment from the dealer and if payment has not been made or is not immediately forthcoming, the attorney general may cause an amount equal to that which the dealer agreed to pay to the secured creditor to be paid from the fund, along with any additional interest and late fees resulting from the dealer's failure to pay the secured creditor in a timely manner.
+
+(H) Failure by a dealer to comply with both divisions (B) and (C) of this section constitutes a deceptive act or practice in connection with a consumer transaction, and is a violation of section 1345.02 of the Revised Code.
+
+(I) The remedy provided in this section to retail purchasers is in addition to any remedies otherwise available to the retail purchaser for the same conduct of the dealer or person acting on behalf of the dealer under federal law or the laws of this state or a political subdivision of this state.
+
+(J) If, at any time during any calendar year, the balance in the title defect recision fund is less than three hundred thousand dollars, the attorney general may assess all motor vehicle dealers licensed under Chapter 4517. of the Revised Code and all manufactured housing dealers licensed under Chapter 4781. of the Revised Code one hundred fifty dollars for deposit into the title defect rescission fund until the balance in the fund reaches three hundred thousand dollars. A notice of assessment shall be sent to each dealer at its licensed location.
+
+If a motor vehicle dealer or manufactured housing dealer fails to comply with this division, the attorney general may bring a civil action in a court of competent jurisdiction to collect the amount the dealer failed to pay to the attorney general for deposit into the fund.
+
+(K) Nothing in this section shall be construed as providing for payment of attorney fees to the retail purchaser.
+
+(L) As used in this section:
+
+(1) "Full purchase price" means the contract price, including charges for dealer installed options and accessories, all finance, credit insurance, and service contract charges incurred by the retail purchaser, all sales tax, license and registration fees, and the amount of any negative equity that was not already paid by the dealer to a third party to satisfy a lien, as reflected in the contract.
+
+(2) "Retail purchaser" means a person, other than a motor vehicle dealer or a manufactured housing dealer, who in good faith purchases a used motor vehicle for purposes other than resale.

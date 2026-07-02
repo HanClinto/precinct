@@ -1,0 +1,477 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 1310.01 - Definitions - UCC 2A-103.",
+      "number": "1310.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.02 - Provisions apply to all transactions creating lease - application of other laws - UCC 2A-104.",
+      "number": "1310.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.03 - Territorial application of provisions to goods covered by certificate of title - UCC 2A-105.",
+      "number": "1310.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.04 - Limitation on power of parties to consumer lease to choose applicable law and judicial forum - UCC 2A-106.",
+      "number": "1310.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.05 - Waiver or renunciation of claim or right after default - UCC 2A-107.",
+      "number": "1310.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.06 - Unconscionability - UCC 2A-108.",
+      "number": "1310.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.07 - Option to accelerate at will - UCC 2A-109.",
+      "number": "1310.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.08 - Statute of frauds - UCC 2A-201.",
+      "number": "1310.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.09 - Final written expression - parol or extrinsic evidence - UCC 2A-202.",
+      "number": "1310.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.10 - Seals inoperative - UCC 2A-203.",
+      "number": "1310.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.11 - Formation in general - UCC 2A-204.",
+      "number": "1310.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.12 - Firm offers - UCC 2A-205.",
+      "number": "1310.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.13 - Offer and acceptance in formation of lease contract - UCC 2A-206.",
+      "number": "1310.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.15 - Modification, rescission and waiver - UCC 2A-208.",
+      "number": "1310.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.16 - Lessee under finance lease as beneficiary of supply contract - UCC 2A-209.",
+      "number": "1310.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.17 - Express warranties - UCC 2A-210.",
+      "number": "1310.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.18 - Warranties against interference and against infringement - lessee's obligation against infringement - UCC 2A-211.",
+      "number": "1310.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.19 - Implied warranty of merchantability - UCC 2A-212.",
+      "number": "1310.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.20 - Implied warranty of fitness for particular purpose - UCC 2A-213.",
+      "number": "1310.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.21 - Exclusion or modification of warranties - UCC 2A-214.",
+      "number": "1310.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.22 - Cumulation and conflict of warranties express or implied - UCC 2A-215.",
+      "number": "1310.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.23 - Third-party beneficiaries of express and implied warranties - UCC 2A-216 Alternative C.",
+      "number": "1310.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.24 - Identification - UCC 2A-217.",
+      "number": "1310.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.25 - Insurance and proceeds - UCC 2A-218.",
+      "number": "1310.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.251 - Motor vehicle lease excess wear and use waivers.",
+      "number": "1310.251",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.251"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.26 - Risk of loss - UCC 2A-219.",
+      "number": "1310.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.27 - Effect of default on risk of loss - UCC 2A-220.",
+      "number": "1310.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.28 - Casualty to identified goods - UCC 2A-221.",
+      "number": "1310.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.29 - Enforceability of lease contract - UCC 2A-301.",
+      "number": "1310.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.30 - Title to and possession of goods - UCC 2A-302.",
+      "number": "1310.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.31 - Alienability of party's interest under lease contract or of lessor's residual interest in goods - delegation of performance - transfer of rights - UCC 2A-303.",
+      "number": "1310.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.32 - Subsequent lease of goods by lessor - UCC 2A-304.",
+      "number": "1310.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.33 - Sale or sublease of goods by lessee - UCC 2A-305.",
+      "number": "1310.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.34 - Priority of certain liens arising by operation of law - UCC 2A-306.",
+      "number": "1310.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.35 - Priority of liens arising by attachment or levy on, security interests in, and other claims to goods - UCC 2A-307.",
+      "number": "1310.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.36 - Special rights of creditors - UCC 2A-308.",
+      "number": "1310.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.37 - Lessor's and lessee's rights when goods become fixtures - UCC 2A-309.",
+      "number": "1310.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.38 - Lessor's and lessee's rights when goods become accessions - UCC 2A-310.",
+      "number": "1310.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.39 - Subordination by agreement.",
+      "number": "1310.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.40 - Insecurity - adequate assurance of performance - UCC 2A-401.",
+      "number": "1310.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.41 - Anticipatory repudiation - UCC 2A-402.",
+      "number": "1310.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.42 - Retraction of anticipatory repudiation - UCC 2A-403.",
+      "number": "1310.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.43 - Substituted performance - UCC 2A-404.",
+      "number": "1310.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.44 - Excused performance - UCC 2A-405.",
+      "number": "1310.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.45 - Procedure on excused performance - UCC 2A-406.",
+      "number": "1310.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.46 - Irrevocable promises, finance leases - UCC 2A-407.",
+      "number": "1310.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.47 - Default, procedure - UCC 2A-501.",
+      "number": "1310.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.48 - Notice after default - UCC 2A-502.",
+      "number": "1310.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.49 - Modification or impairment of rights and remedies - UCC 2A-503.",
+      "number": "1310.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.50 - Liquidation of damages - UCC 2A-504.",
+      "number": "1310.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.51 - Cancellation and termination and effect of cancellation, termination, rescission or fraud on rights and remedies - UCC 2A-505.",
+      "number": "1310.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.52 - Statute of limitations - UCC 2A-506.",
+      "number": "1310.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.53 - Proof of market rent - time and place - UCC 2A-507.",
+      "number": "1310.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.54 - Lessee's remedies - UCC 2A-508.",
+      "number": "1310.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.55 - Lessee's rights on improper delivery - rightful rejection - UCC 2A-509.",
+      "number": "1310.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.56 - Installment lease contracts - rejection and default - UCC 2A-510.",
+      "number": "1310.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.57 - Merchant lessee's duties as to rightfully rejected goods - UCC 2A-511.",
+      "number": "1310.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.58 - Lessee's duties as to rightfully rejected goods - UCC 2A-512.",
+      "number": "1310.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.59 - Cure by lessor of improper tender or delivery - replacement - UCC 2A-513.",
+      "number": "1310.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.60 - Waiver of lessee's objections - UCC 2A-514.",
+      "number": "1310.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.61 - Acceptance of goods - UCC 2A-515.",
+      "number": "1310.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.62 - Effect of acceptance of goods - notice of default - burden of establishing default after acceptance - notice of claim or litigation to person answerable over - UCC 2A-516.",
+      "number": "1310.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.63 - Revocation of acceptance of goods - UCC 2A-517.",
+      "number": "1310.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.64 - Cover - substitute goods - UCC 2A-518.",
+      "number": "1310.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.65 - Lessee's damages for non-delivery, repudiation, default and breach of warranty in regard to accepted goods - UCC 2A-519.",
+      "number": "1310.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.66 - Lessee's incidental and consequential damages - UCC 2A-520.",
+      "number": "1310.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.67 - Lessee's right to specific performance or replevin - UCC 2A-521.",
+      "number": "1310.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.67"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.68 - Lessee's right to goods on lessor's insolvency - UCC 2A-522.",
+      "number": "1310.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.68"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.69 - Lessor's remedies - (UCC 2A-523).",
+      "number": "1310.69",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.69"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.70 - Lessor's right to identify goods to lease contract - UCC 2A-524.",
+      "number": "1310.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.71 - Lessor's right to possession of goods - UCC 2A-525.",
+      "number": "1310.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.72 - Lessor's stoppage of delivery in transit or otherwise - UCC 2A-526.",
+      "number": "1310.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.73 - Lessor's rights to dispose of goods - UCC 2A-527.",
+      "number": "1310.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.74 - Lessor's damages for non-acceptance, failure to pay, repudiation or other default - UCC 2A-528.",
+      "number": "1310.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.74"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.75 - Lessor's action for rent - UCC 2A-529.",
+      "number": "1310.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.76 - Lessor's incidental damages - UCC 2A-530.",
+      "number": "1310.76",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.76"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.77 - Standing to sue third parties for injury to goods - UCC 2A-531.",
+      "number": "1310.77",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.77"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1310.78 - Lessor's rights to residual interest - UCC 2A-532.",
+      "number": "1310.78",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1310.78"
+    }
+  ],
+  "scraped": "2026-07-02T19:37:09+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-1310",
+  "title": "Chapter 1310 - Leases"
+}

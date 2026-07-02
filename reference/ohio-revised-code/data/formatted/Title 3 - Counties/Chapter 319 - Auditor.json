@@ -1,0 +1,423 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 319.01 - County auditor - term of office.",
+      "number": "319.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.02 - Bond of county auditor - oath of office.",
+      "number": "319.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.03 - Location of office.",
+      "number": "319.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.04 - Continuing education courses.",
+      "number": "319.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.05 - Deputies.",
+      "number": "319.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.06 - Oaths.",
+      "number": "319.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.07 - Certain officials ineligible to office of auditor.",
+      "number": "319.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.08 - Secretary of board of county commissioners.",
+      "number": "319.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.09 - County auditor as fiscal auditor.",
+      "number": "319.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.10 - Contracts for auditor to provide services to county land reutilization corporation.",
+      "number": "319.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.11 - Annual county financial report.",
+      "number": "319.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.12 - Annual report expenses.",
+      "number": "319.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.13 - Money to be certified into treasury.",
+      "number": "319.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.14 - Account current with county treasurer.",
+      "number": "319.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.15 - Monthly statement of county finances.",
+      "number": "319.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.16 - Issuing and recording warrants.",
+      "number": "319.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.17 - Warrants for funds payable to school district.",
+      "number": "319.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.18 - Proceedings when fund is exhausted.",
+      "number": "319.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.20 - Transfer of title and tax value of property.",
+      "number": "319.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.201 - Evidence of title to real property acquired by state or political subdivision.",
+      "number": "319.201",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.201"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.202 - Submitting statement declaring value of real property transferred.",
+      "number": "319.202",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.202"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.203 - Adopting standards governing conveyances of real property in county.",
+      "number": "319.203",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.203"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.21 - Fraudulent transfers.",
+      "number": "319.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.22 - Examination of records.",
+      "number": "319.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.23 - Discharge of indigent prisoner.",
+      "number": "319.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.26 - Allegations against county auditor.",
+      "number": "319.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.27 - Delivery of property on retirement of auditor.",
+      "number": "319.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.28 - General tax list and general duplicate of real and public utility property compiled - parcel numbering system.",
+      "number": "319.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.281 - Unpaid operation permit or inspection fee for household sewage disposal system.",
+      "number": "319.281",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.281"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.29 - General tax list and general duplicate of personal property compiled.",
+      "number": "319.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.30 - Tax levied upon each tract of real property.",
+      "number": "319.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.301 - Determining and certifying tax reduction percentage for carryover property.",
+      "number": "319.301",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.301"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.302 - Reduction of remaining taxes.",
+      "number": "319.302",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.302"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.303 - Property tax credit for school districts on a millage floor.",
+      "number": "319.303",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.303"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.304 - Local option homestead exemptions.",
+      "number": "319.304",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.304"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.31 - Tax upon personal property - credit of advance payment.",
+      "number": "319.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.32 - Rounding off fractions.",
+      "number": "319.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.33 - Auditor shall dispose of fractional mills.",
+      "number": "319.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.34 - Classified tax list and duplicate.",
+      "number": "319.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.35 - Correction of clerical errors in tax lists and duplicates.",
+      "number": "319.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.36 - Clerical errors in taxes.",
+      "number": "319.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.37 - Settlements with tax commissioner and county treasurer.",
+      "number": "319.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.38 - Deductions from valuation for injured or destroyed property.",
+      "number": "319.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.39 - Record of additions and deductions - certificate of correction.",
+      "number": "319.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.40 - Omitted taxes shall be charged.",
+      "number": "319.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.41 - Liability for loss of public funds.",
+      "number": "319.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.42 - Apportionment of unpaid special assessments.",
+      "number": "319.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.43 - Settlement for real and public utility property taxes - certification of delinquent list.",
+      "number": "319.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.44 - Proceedings as to delinquent list.",
+      "number": "319.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.45 - Certificate to treasurer as to moneys collected.",
+      "number": "319.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.451 - Auditor shall ascertain net amount of taxes collected.",
+      "number": "319.451",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.451"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.46 - Certificate to treasurer as to taxes charged.",
+      "number": "319.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.47 - Duplicate of certificates and abstracts to tax commissioner.",
+      "number": "319.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.48 - Real property tax suspension list of taxes uncollectible except through foreclosure or through foreclosure and forfeiture.",
+      "number": "319.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.49 - Settlement by auditor with treasurer for taxes - certification of delinquent tax and assessment list by treasurer - liability of treasurer.",
+      "number": "319.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.50 - Certificates issued to treasurer by auditor - duplicates to tax commissioner.",
+      "number": "319.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.51 - Account with new township.",
+      "number": "319.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.52 - Abstract of delinquent tax and assessment list.",
+      "number": "319.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.53 - County auditor to report to tax commissioner.",
+      "number": "319.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.54 - Fees to compensate for auditor's services.",
+      "number": "319.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.541 - County to pay damages of suit against officials.",
+      "number": "319.541",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.541"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.55 - County sealer.",
+      "number": "319.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.57 - County sealer shall deliver copies to successor.",
+      "number": "319.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.58 - Use of false weights and measures.",
+      "number": "319.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.59 - Appointment of inspectors - salary.",
+      "number": "319.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.60 - Injunctions.",
+      "number": "319.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.61 - Notice of intention to proceed with public improvement.",
+      "number": "319.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.63 - Payment to treasurer of housing trust fund fees.",
+      "number": "319.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 319.99 - Penalty.",
+      "number": "319.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.99"
+    }
+  ],
+  "scraped": "2026-07-02T19:32:47+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-319",
+  "title": "Chapter 319 - Auditor"
+}

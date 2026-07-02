@@ -1,0 +1,22 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5155.261
+Scraped: 2026-07-02T20:11:14+00:00
+
+# Section 5155.261 - Lien in lieu of taking property.
+
+**Effective:** July 1, 1993
+
+**Latest Legislation:** House Bill 152 - 120th General Assembly
+
+A board of county commissioners shall not be required to take charge of property in the manner prescribed by section 5155.23 of the Revised Code, if it determines that a lien may be taken on property of a person who becomes a resident of a county home. In such event a lien as provided in this section may be taken and, if taken, shall remain a lien until satisfied. For the period during which such person remains a resident of a county home, any income received from rentals on property on which such a lien is taken shall be applied to the payment of taxes on and upkeep of such property. Any balance remaining after the payment of such taxes and upkeep shall be paid to the county supplying maintenance to a resident of a county home and shall be applied toward such maintenance in the same manner described as to the proceeds of sale by sections 5155.24 and 5155.25 of the Revised Code.
+
+When a person becomes a resident of a county home under this chapter, the name and residence of the recipient and spouse, the date of such occurrence, the legal description of all real estate owned by the recipient and spouse, and such other information as the board of county commissioners requires, shall be entered upon a certificate, signed by such recipient and his or her spouse, the form of which shall be prescribed by the board of county commissioners. When the certificate describes real estate owned by such recipient or spouse, the board of county commissioners shall file for recording and indexing a certificate, or a certified copy, in the real estate mortgage records in the office of the county recorder in every county in which real property of such recipient or spouse is situated. From the time of filing the certificate in the office of the recorder, the lien attaches to all real property of such recipient or spouse described therein for all amounts of board or items thereafter furnished and shall remain a lien until satisfied.
+
+Upon filing the certificate in the office of the recorder, all persons are charged with notice of the lien and the rights of the board of county commissioners thereunder.
+
+The recorders shall keep a record of every certificate filed showing its date, the time of filing, the name and residence of the recipient or spouse, and any release, waivers, or satisfaction of the lien. There shall be no fee for filing or recording any such certificate. As an incident of the lien the recipient and spouse, or either of them, shall take a life estate of the premises in all cases in which they could have conveyed, reserved, or received that right by deed at the time of application. Such life estate shall take priority with the lien of the board of county commissioners over subsequently acquired liens except tax liens, and except in those cases wherein the life estate is voluntarily waived by express waiver, by waste, nonpayment of taxes, or by transfer to persons other than those entitled to use or reside upon the premises. The rights to such property shall descend by devise or by operation of law subject to the lien of the board of county commissioners for both past and future payments and subject to the life estate of the recipient or spouse.
+
+Upon transfer of such property to persons other than those entitled to use or reside thereon, the board of county commissioners may foreclose its lien upon any real property conveyed. The proceeds of sale in such proceeding shall be applied in the order provided by law.
+
+All real property subject to the lien of the board of county commissioners upon the death of the persons entitled to use or reside in the premises, or upon waiver of the life estate by the survivor, may be sold in foreclosure proceedings or in the administration of the owner's estate and the proceeds applied as provided by law.
+
+The board of county commissioners shall waive the priority of its lien to provide for the costs of the last illness as determined by the board of county commissioners, administration, attorney fees, administrator fees, a sum for the payment of the costs of burial, which shall be computed by deducting from five hundred dollars whatever amount is available for those purposes from all other sources, and a similar sum for the spouse of the decedent.

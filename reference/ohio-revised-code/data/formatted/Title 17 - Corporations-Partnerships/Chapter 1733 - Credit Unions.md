@@ -1,0 +1,84 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-1733
+Scraped: 2026-07-02T19:39:24+00:00
+
+# Chapter 1733 - Credit Unions
+
+## Sections
+
+- Section 1733.01 - Credit union definitions.
+- Section 1733.02 - Purpose of chapter.
+- Section 1733.03 - Purpose of credit union.
+- Section 1733.04 - Authority of credit union.
+- Section 1733.041 - Insurance protection for members' accounts.
+- Section 1733.042 - Posting notice of insurance.
+- Section 1733.05 - Membership.
+- Section 1733.051 - Grounds for termination of services.
+- Section 1733.06 - Statutory agent.
+- Section 1733.07 - Forming a credit union.
+- Section 1733.08 - Accepting articles by secretary of state.
+- Section 1733.09 - Meeting of incorporators.
+- Section 1733.10 - Initial meeting of board of directors.
+- Section 1733.11 - Action taken without meeting.
+- Section 1733.12 - Annual meeting.
+- Section 1733.13 - Voting.
+- Section 1733.14 - Quorum at member meeting.
+- Section 1733.15 - Board of directors.
+- Section 1733.151 - Plan for educating directors, committee members, and senior management officials as to duties and responsibilities.
+- Section 1733.152 - Appointment of associate directors.
+- Section 1733.16 - Board meetings.
+- Section 1733.17 - Quorum of board.
+- Section 1733.18 - Vacancies on board - removal of director.
+- Section 1733.181 - Removal from office.
+- Section 1733.19 - Establishment of committees - advisory board.
+- Section 1733.191 - Notice of outside auditor.
+- Section 1733.20 - Officers - duties.
+- Section 1733.21 - Binding effect of acts of minor officer.
+- Section 1733.22 - Compensation and benefits.
+- Section 1733.23 - Fidelity bond.
+- Section 1733.24 - Deposits; shares and accounts; withdrawals.
+- Section 1733.241 - Payment on joint account - contract for payment on death.
+- Section 1733.242 - Acceptance of property for safekeeping - transactions with minors.
+- Section 1733.243 - Claims to property in safekeeping - bond of claimant.
+- Section 1733.25 - Loans - interest.
+- Section 1733.251 - Alternative interest rate.
+- Section 1733.252 - Compliance with Secure and Fair Enforcement for Mortgage Licensing Act.
+- Section 1733.253 - Permissible charges under a revolving credit agreement.
+- Section 1733.27 - Fiscal year.
+- Section 1733.28 - Financial statement.
+- Section 1733.29 - Permanent records.
+- Section 1733.291 - Preservation of records - retention period - disposal.
+- Section 1733.292 - Process for retention of documents - approval - use as evidence.
+- Section 1733.30 - Investments.
+- Section 1733.31 - Reserve accounts - liquidity fund.
+- Section 1733.32 - Powers of superintendent of financial institutions.
+- Section 1733.321 - Credit unions fund.
+- Section 1733.322 - Requesting outside auditor to review results of examination.
+- Section 1733.323 - Issuing administrative guidelines.
+- Section 1733.324 - Issuing cease-and-desist order.
+- Section 1733.325 - Setting supervisory conference.
+- Section 1733.326 - Forfeiture and civil penalty for noncompliance with order or agreement.
+- Section 1733.327 - Confidentiality.
+- Section 1733.328 - Frequency of credit union examinations.
+- Section 1733.329 - Credit union council.
+- Section 1733.3210 - Duties of council.
+- Section 1733.33 - Amendments to articles or regulations.
+- Section 1733.34 - Merger of credit unions.
+- Section 1733.341 - Conversions.
+- Section 1733.35 - Dissolution.
+- Section 1733.361 - Appointment and removal of conservator - duties of conservator.
+- Section 1733.37 - Liquidation.
+- Section 1733.38 - Qualification of foreign credit union.
+- Section 1733.39 - Requirements for doing business.
+- Section 1733.40 - Annual report.
+- Section 1733.41 - Additional rules and regulations.
+- Section 1733.411 - Adoption of administrative rules.
+- Section 1733.412 - Powers of federal credit unions granted to state chartered credit unions.
+- Section 1733.42 - Computing time for giving notice.
+- Section 1733.43 - Exemption from franchise tax and report.
+- Section 1733.44 - Prohibition against use of words credit union.
+- Section 1733.441 - False advertising.
+- Section 1733.45 - Applicability of general corporation laws.
+- Section 1733.47 - Criminal records check to be requested by superintendent.
+- Section 1733.51 - Deposit of moneys for preneed funeral or cemetery merchandise and services contract.
+- Section 1733.53 - Bona fide errors.
+- Section 1733.99 - Penalty.

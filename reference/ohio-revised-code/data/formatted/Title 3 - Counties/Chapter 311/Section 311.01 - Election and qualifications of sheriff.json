@@ -1,0 +1,76 @@
+{
+  "glossary": [
+    {
+      "definition": "(b) Has been employed full-time by a law enforcement agency performing duties related to the enforcement of statutes, ordinances, or codes for a minimum of thirteen consecutive pay periods within the four-year period prior to the qualification date. As used in this division, \"full-time\" means a minimum of eighty hours of work in a fourteen-day period.\n\n(9) The person meets at least one of the following conditions:\n\n(a) Has at least two consecutive years of supervisory experience as a peace officer at the rank of sergeant or above;\n\n(b) Has completed a bachelor's degree in any field or has an associate degree in law enforcement or criminal justice from a college or university authorized to confer degrees by the Ohio board of regents or the comparable agency of another state in which the college or university is located.\n\n(C) Persons who meet the requirements of division (B) of this section, except the requirement of division (B)(2) of this section, may take all actions otherwise necessary to comply with division (B) of this section. If, on the applicable qualification date, no person has met all the requirements of division (B) of this section, then persons who have complied with and meet the requirements of division (B) of this section, except the requirement of division (B)(2) of this section, shall be considered qualified candidates under division (B) of this section.\n\n(D) Newly elected sheriffs shall attend a basic training course conducted by the Ohio peace officer training commission pursuant to division (A) of section 109.80 of the Revised Code. A newly elected sheriff shall complete not less than two weeks of this course before the first Monday in January next after the sheriff's election. While attending the basic training course, a newly elected sheriff may, with the approval of the board of county commissioners, receive compensation, paid for from funds established by the sheriff's county for this purpose, in the same manner and amounts as if carrying out the powers and duties of the office of sheriff.\n\nAppointed sheriffs shall attend the first basic training course conducted by the Ohio peace officer training commission pursuant to division (A) of section 109.80 of the Revised Code within six months following the date of appointment or election to the office of sheriff. While attending the basic training course, appointed sheriffs shall receive regular compensation in the same manner and amounts as if carrying out their regular powers and duties.\n\nFive days of instruction at the basic training course shall be considered equal to one week of work. The costs of conducting the basic training course and the costs of meals, lodging, and travel of appointed and newly elected sheriffs attending the course shall be paid from state funds appropriated to the commission for this purpose.\n\n(E) In each calendar year, each sheriff shall attend and successfully complete at least sixteen hours of continuing education approved under division (B) of section 109.80 of the Revised Code. A sheriff who receives a waiver of the continuing education requirement from the commission under division (C) of section 109.80 of the Revised Code because of medical disability or for other good cause shall complete the requirement at the earliest time after the disability or cause terminates.\n\n(F)(1) Each person who is a candidate for election to or who is under consideration for appointment to the office of sheriff shall swear before the administrative judge of the court of common pleas as to the truth of any information the person provides to verify the person's qualifications for the office. A person who violates this requirement is guilty of falsification under section 2921.13 of the Revised Code.\n\n(2) Each board of elections shall certify whether or not a candidate for the office of sheriff who has filed a declaration of candidacy, a statement of candidacy, or a declaration of intent to be a write-in candidate meets the qualifications specified in divisions (B) and (C) of this section.\n\n(G) The office of a sheriff who is required to comply with division (D) or (E) of this section and who fails to successfully complete the courses pursuant to those divisions is hereby deemed to be vacant.\n\n(H) As used in this section:",
+      "id": "311.01-full-time",
+      "normalized": "full-time",
+      "scope": "",
+      "section": "311.01",
+      "source_title": "Section 311.01 - Election and qualifications of sheriff.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-311.01",
+      "term": "full-time"
+    },
+    {
+      "definition": "(1) \"Qualification date\" means the last day on which a candidate for the office of sheriff can file a declaration of candidacy, a statement of candidacy, or a declaration of intent to be a write-in candidate, as applicable, in the case of a primary election for the office of sheriff; the last day on which a person may be appointed to fill a vacancy in a party nomination for the office of sheriff under Chapter 3513. of the Revised Code, in the case of a vacancy in the office of sheriff; or a date thirty days after the day on which a vacancy in the office of sheriff occurs, in the case of an appointment to such a vacancy under section 305.02 of the Revised Code.",
+      "id": "311.01-qualification-date",
+      "normalized": "qualification date",
+      "scope": "(H) As used in this section:",
+      "section": "311.01",
+      "source_title": "Section 311.01 - Election and qualifications of sheriff.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-311.01",
+      "term": "Qualification date"
+    },
+    {
+      "definition": "(2) \"Newly elected sheriff\" means a person who did not hold the office of sheriff of a county on the date the person was elected sheriff of that county.\n\nLast updated October 21, 2025 at 2:24 PM",
+      "id": "311.01-newly-elected-sheriff",
+      "normalized": "newly elected sheriff",
+      "scope": "(H) As used in this section:",
+      "section": "311.01",
+      "source_title": "Section 311.01 - Election and qualifications of sheriff.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-311.01",
+      "term": "Newly elected sheriff"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3503.01",
+      "number": "3503.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3503.01"
+    },
+    {
+      "kind": "section",
+      "label": "3301.80",
+      "number": "3301.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3301.80"
+    },
+    {
+      "kind": "section",
+      "label": "5503.05",
+      "number": "5503.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5503.05"
+    },
+    {
+      "kind": "section",
+      "label": "109.80",
+      "number": "109.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.80"
+    },
+    {
+      "kind": "section",
+      "label": "2921.13",
+      "number": "2921.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2921.13"
+    },
+    {
+      "kind": "section",
+      "label": "305.02",
+      "number": "305.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-305.02"
+    }
+  ],
+  "scraped": "2026-07-02T19:32:43+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-311.01",
+  "title": "Section 311.01 - Election and qualifications of sheriff."
+}

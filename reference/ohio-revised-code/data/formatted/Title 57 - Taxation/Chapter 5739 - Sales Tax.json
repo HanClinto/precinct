@@ -1,0 +1,405 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 5739.01 - Sales tax definitions.",
+      "number": "5739.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.011 - Exemptions for manufacturing.",
+      "number": "5739.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.011"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.012 - Taxation of bundled transactions.",
+      "number": "5739.012",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.012"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.02 - Levy of sales tax - purpose - rate - exemptions.",
+      "number": "5739.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.021 - Additional sales tax levied by county.",
+      "number": "5739.021",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.021"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.022 - Repealing emergency permissive tax.",
+      "number": "5739.022",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.022"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.023 - Transit authority tax levy.",
+      "number": "5739.023",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.023"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.025 - Computation; audits; sale of a fractional ownership program aircraft.",
+      "number": "5739.025",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.025"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.026 - County sales tax for specific purposes.",
+      "number": "5739.026",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.026"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.027 - Tax on watercraft or outboard motor purchased by nonresident.",
+      "number": "5739.027",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.027"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.028 - Reducing tax for transit purposes - increasing tax for constructing or renovating sports facility.",
+      "number": "5739.028",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.028"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.029 - Nonresident consumer motor vehicle sales tax.",
+      "number": "5739.029",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.029"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.0210 - Retail sales tax on manufactured or mobile home.",
+      "number": "5739.0210",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.0210"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.03 - Consumer to pay tax - report of tax - exemption certificates.",
+      "number": "5739.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.031 - Direct payment permits.",
+      "number": "5739.031",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.031"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.032 - Permit holder tax payments by electronic funds transfer.",
+      "number": "5739.032",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.032"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.033 - Location of sale.",
+      "number": "5739.033",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.033"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.034 - Telecommunications services definitions.",
+      "number": "5739.034",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.034"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.04 - Notification of change in county or transit authority boundaries.",
+      "number": "5739.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.05 - Powers and duties of tax commissioner - payment by vendor on predetermined basis.",
+      "number": "5739.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.051 - Medicaid health insuring corporation; direct payments; returns.",
+      "number": "5739.051",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.051"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.06 - Monetary allowance granted under streamlined sales and use tax agreement.",
+      "number": "5739.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.061 - Vendor compensation for complying with origin based sourcing requirements.",
+      "number": "5739.061",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.061"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.07 - Vendor or consumer refunds.",
+      "number": "5739.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.072 - Refund may be applied in satisfaction of debt due state.",
+      "number": "5739.072",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.072"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.08 - Municipal or township excise lodging taxes.",
+      "number": "5739.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.081 - Tax return information provided to convention and visitors' bureau.",
+      "number": "5739.081",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.081"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.09 - Administration and allocation of lodging tax.",
+      "number": "5739.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.091 - Expansion of definition of hotel.",
+      "number": "5739.091",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.091"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.092 - Use of funds distributed to convention and visitors' bureau.",
+      "number": "5739.092",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.092"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.093 - Exemption and diversion of revenue for headquarters hotel.",
+      "number": "5739.093",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.093"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.094 - Liens for unpaid lodging taxes.",
+      "number": "5739.094",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.094"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.10 - Excise tax on vendor's receipts.",
+      "number": "5739.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.101 - Declaration of resort area.",
+      "number": "5739.101",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.101"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.102 - Remitting tax - resort area excise tax fund.",
+      "number": "5739.102",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.102"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.103 - Registration with tax commissioner.",
+      "number": "5739.103",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.103"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.104 - Refunds.",
+      "number": "5739.104",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.104"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.11 - Records open to inspection - exemption certificate.",
+      "number": "5739.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.12 - Monthly return by vendor - reconciliation return.",
+      "number": "5739.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.121 - Bad debt deduction.",
+      "number": "5739.121",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.121"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.122 - Vendor tax payments by electronic funds transfer.",
+      "number": "5739.122",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.122"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.124 - Returns of taxpayers using electronic funds transfer.",
+      "number": "5739.124",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.124"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.13 - Liability of vendor and consumer - assessment - petition for reassessment - penalties - appeal - judgment - execution.",
+      "number": "5739.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.131 - Service of process or notice to nonresident.",
+      "number": "5739.131",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.131"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.132 - Interest on unpaid tax, fee, or charge; interest on refund.",
+      "number": "5739.132",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.132"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.133 - Penalties for failure to remit - preassessment interest.",
+      "number": "5739.133",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.133"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.14 - Sale of entire business - successor liable for taxes and penalties due.",
+      "number": "5739.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.15 - Jeopardy assessment.",
+      "number": "5739.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.16 - Four-year limitation for assessments - exceptions.",
+      "number": "5739.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.17 - Vendor's license.",
+      "number": "5739.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.18 - System for issuing vendor's licenses.",
+      "number": "5739.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.19 - Revocation of license.",
+      "number": "5739.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.21 - Crediting of funds.",
+      "number": "5739.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.211 - Use and allocation of county sales tax funds.",
+      "number": "5739.211",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.211"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.213 - Payments from tourism development district.",
+      "number": "5739.213",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.213"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.26 - Tax paid by consumer - prohibition against false certificates.",
+      "number": "5739.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.29 - Vendor to collect tax - prohibition against rebate.",
+      "number": "5739.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.30 - Return or report must be filed - prohibitions - actions by tax commissioner.",
+      "number": "5739.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.31 - Vendor or transient vendor's license - prohibitions upon license suspension.",
+      "number": "5739.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.32 - Withholding tax funds to insure compliance by local officials.",
+      "number": "5739.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.33 - Personal liability for tax.",
+      "number": "5739.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.34 - No preememption.",
+      "number": "5739.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.35 - Delegation of investigative powers.",
+      "number": "5739.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.36 - Report of tax revenue by industry classification.",
+      "number": "5739.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.41 - Sales tax holiday designation.",
+      "number": "5739.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5739.99 - Penalty.",
+      "number": "5739.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.99"
+    }
+  ],
+  "scraped": "2026-07-02T20:15:14+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-5739",
+  "title": "Chapter 5739 - Sales Tax"
+}

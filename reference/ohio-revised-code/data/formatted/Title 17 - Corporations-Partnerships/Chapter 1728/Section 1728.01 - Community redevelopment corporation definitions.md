@@ -1,0 +1,86 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-1728.01
+Scraped: 2026-07-02T19:39:23+00:00
+
+# Section 1728.01 - Community redevelopment corporation definitions.
+
+**Effective:** October 10, 2007
+
+**Latest Legislation:** Senate Bill 7 - 127th General Assembly
+
+As used in sections 1728.01 to 1728.13 of the Revised Code:
+
+(A) "Governing body" means, in the case of a municipal corporation, the city council or legislative authority.
+
+(B) "Community urban redevelopment corporation" means a corporation qualified under Chapter 1728. of the Revised Code, to acquire, construct, operate, and maintain a project hereunder, or to acquire, operate, and maintain a project constructed by a corporation so qualified under Chapter 1728. of the Revised Code, and the term "corporation" when used within Chapter 1728. of the Revised Code, shall be understood to be a contraction of the term "community urban redevelopment corporation" except when the context indicates otherwise.
+
+(C) "Impacted city" means a municipal corporation that meets the requirements of either division (C)(1) or (2) of this section:
+
+(1) In attempting to cope with the problems of urbanization, to create or preserve jobs and employment opportunities, and to improve the economic welfare of the people of the municipal corporation, the municipal corporation has at some time:
+
+(a) Taken affirmative action by its legislative body to permit the construction of housing by a metropolitan housing authority organized pursuant to sections 3735.27 to 3735.39 of the Revised Code within its corporate boundaries or to permit such a metropolitan housing authority to lease dwelling units within its corporate boundaries; and
+
+(b) Been certified by the director of the department of development that a workable program for community improvement (which shall include an official plan of action for effectively dealing with the problem of urban slums and blight within the community and for the establishment and preservation of a well-planned community with well-organized residential neighborhoods of decent homes and suitable living environment for adequate family life) for utilizing appropriate private and public resources to eliminate, and to prevent the development or spread of, slums and urban blight, to encourage needed urban rehabilitation, to provide for the redevelopment of blighted, deteriorated, or slum areas, to undertake such activities or other feasible community activities as may be suitably employed to achieve the objectives of such a program has been adopted. A determination by the United States that the impacted city's workable program meets the federal workable program requirements shall be sufficient for the director's certification.
+
+(2) Been declared a major disaster area, or part of a major disaster area, pursuant to the "Disaster Relief Act of 1970," 84 Stat. 1744, 42 U.S.C.A. 4401, as now or hereafter amended, and has been extensively damaged or destroyed by a major disaster, provided that impacted city status obtained pursuant to division (C)(2) of this section lasts for only a limited period from the date of the declaration, as determined by the rules promulgated pursuant to division (G) of section 122.06 of the Revised Code, but in the event that an impacted city, while qualified under such division, enters into a financial agreement with a community urban redevelopment corporation pursuant to section 1728.07 of the Revised Code, a loss of certification under such rules shall not affect that agreement or the project to which it relates.
+
+(D) "Community development plan" means a plan, as it exists from time to time, for the redevelopment and renewal of a blighted area, which plan shall conform to the general plan for the municipality, and shall be sufficiently complete to indicate such land acquisition, demolition, and removal of structures, redevelopment, improvements, and rehabilitation as may be proposed to be carried out in such blighted area, zoning, and any planning changes, land uses, maximum densities, and building requirements.
+
+(E) "Blighted area" has the meaning defined in section 1.08 of the Revised Code.
+
+(F) "Project" means:
+
+(1) As to blighted areas within all municipal corporations, the undertaking and execution of the redevelopment of a blighted area by a community urban redevelopment corporation, in whole or in part, pursuant to a community development plan approved by the governing body of the municipal corporation in which such blighted area is situated and in accordance with an agreement for the sale or lease of all or a portion of the land concerned in such redevelopment to the corporation by a municipal corporation, or agency, or authority including the work to be done in reference thereto, the designation of the particular proposed buildings to be constructed and their uses and purposes, the landscaping of the premises, the streets and access roads, recreational facilities, if any, the furnishing of the public utilities, the financial arrangements, and the terms and conditions of the proposed municipal corporation and approval; and
+
+(2) In addition as to blighted areas within impacted cities, the undertaking and activities of a community urban redevelopment corporation in a blighted area for the elimination and for the prevention of the development or spread of blight pursuant to a community development plan approved by the governing body of the impacted city and to the extent agreed to by the governing body of the impacted city in the financial agreement provided for in section 1728.07 of the Revised Code and may involve clearance and redevelopment, or rehabilitation or conservation or any combination or part thereof, in accordance with such community development plan, and such aforesaid undertakings and activities may include acquisition of a blighted area or portion by purchase or otherwise, and demolition and removal of buildings and improvements.
+
+(G) "Total project unit cost" or "total project cost" means the aggregate of the following items as related to any unit of a project if the project is to be undertaken in units or to the total project if the project is not to be undertaken in units:
+
+(1) Cost of the land to the community urban redevelopment corporation;
+
+(2) Architects', engineers', and attorneys' fees paid or payable by the corporation in connection with the planning, construction, and financing of the project;
+
+(3) Surveying and testing charges in connection therewith;
+
+(4) Actual construction cost as certified by the architect, including the cost of any preparation of the site undertaken at the corporation's expense;
+
+(5) Insurance, interest, and finance costs during construction;
+
+(6) Cost of obtaining initial permanent financing;
+
+(7) Commissions and other expenses paid or payable in connection with initial leasing;
+
+(8) Real estate taxes and assessments during the construction period;
+
+(9) Developer's overhead based on a percentage of division (G)(4) of this section, to be computed in accordance with the following schedule:
+
+$500,000 or less
+
+- 10 per cent
+
+500,001 through $ 1,000,000
+
+- $50,000 plus 8 per cent on excess above $500,000
+
+1,000,001 through 2,000,000
+
+- 90,000 plus 7 per cent on excess above 1,000,000
+
+2,000,001 through 3,500,000
+
+- 160,000 plus 5.6667 per cent on excess above 2,000,000
+
+3,500,001 through 5,500,000
+
+- 245,000 plus 4.25 per cent on excess above 3,500,000
+
+5,500,001 through 10,000,000
+
+- 330,000 plus 3.7778 per cent on excess above 5,500,000
+
+Over 10,000,000
+
+- 5 per cent
+
+(H) "Annual gross revenue" means the total annual gross rental and other income of a community urban redevelopment corporation from the project. If in any leasing, any real estate taxes or assessments on property included in the project, any premiums for fire or other insurance on or concerning property included in the project, or any operating or maintenance expenses ordinarily paid by a landlord are to be paid by the tenant, such payments shall be computed and deemed to be part of the rent and shall be included in the annual gross revenue. The financial agreement provided for in section 1728.07 of the Revised Code shall establish the method of computing such additional revenue, and may establish a method of arbitration where either the landlord or the tenant disputes the amount of such payments so included in the annual gross revenue.
+
+(I) "Major disaster" means any tornado, storm, flood, high water, wind-driven water, tidal wave, earthquake, fire, or other catastrophe.

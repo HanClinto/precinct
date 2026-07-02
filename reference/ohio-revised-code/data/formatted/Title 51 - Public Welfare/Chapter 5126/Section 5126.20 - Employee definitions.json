@@ -1,0 +1,114 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Service employee\" means a person employed by a county board of developmental disabilities in a position which may require registration under section 5126.25 of the Revised Code but for which a bachelor's degree from an accredited college or university is not required, and includes employees in the positions listed in division (C) of section 5126.22 of the Revised Code.",
+      "id": "5126.20-service-employee",
+      "normalized": "service employee",
+      "scope": "As used in this section and sections 5126.21 to 5126.25 of the Revised Code:",
+      "section": "5126.20",
+      "source_title": "Section 5126.20 - Employee definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5126.20",
+      "term": "Service employee"
+    },
+    {
+      "definition": "(B)(1) \"Professional employee\" means both of the following:\n\n(a) A person employed by a board in a position for which either a bachelor's degree from an accredited college or university or a license or certificate issued under Title XLVII of the Revised Code is a minimum requirement;\n\n(b) A person employed by a board as a conditional status service and support administrator.",
+      "id": "5126.20-professional-employee",
+      "normalized": "professional employee",
+      "scope": "As used in this section and sections 5126.21 to 5126.25 of the Revised Code:",
+      "section": "5126.20",
+      "source_title": "Section 5126.20 - Employee definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5126.20",
+      "term": "Professional employee"
+    },
+    {
+      "definition": "(2) \"Professional employee\" includes employees in the positions listed in division (B) of section 5126.22 of the Revised Code.",
+      "id": "5126.20-professional-employee",
+      "normalized": "professional employee",
+      "scope": "As used in this section and sections 5126.21 to 5126.25 of the Revised Code:",
+      "section": "5126.20",
+      "source_title": "Section 5126.20 - Employee definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5126.20",
+      "term": "Professional employee"
+    },
+    {
+      "definition": "(C) \"Management employee\" means a person employed by a board in a position having supervisory or managerial responsibilities and duties, and includes employees in the positions listed in division (A) of section 5126.22 of the Revised Code.",
+      "id": "5126.20-management-employee",
+      "normalized": "management employee",
+      "scope": "As used in this section and sections 5126.21 to 5126.25 of the Revised Code:",
+      "section": "5126.20",
+      "source_title": "Section 5126.20 - Employee definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5126.20",
+      "term": "Management employee"
+    },
+    {
+      "definition": "(D) \"Limited contract\" means a contract of limited duration which is renewable at the discretion of the superintendent.",
+      "id": "5126.20-limited-contract",
+      "normalized": "limited contract",
+      "scope": "As used in this section and sections 5126.21 to 5126.25 of the Revised Code:",
+      "section": "5126.20",
+      "source_title": "Section 5126.20 - Employee definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5126.20",
+      "term": "Limited contract"
+    },
+    {
+      "definition": "(E) \"Supervisory responsibilities and duties\" includes the authority to hire, transfer, suspend, lay off, recall, promote, discharge, assign, reward, or discipline other employees of the board; to responsibly direct them; to adjust their grievances; or to effectively recommend such action, if the exercise of that authority is not of a merely routine or clerical nature but requires the use of independent judgment.",
+      "id": "5126.20-supervisory-responsibilities-and-duties",
+      "normalized": "supervisory responsibilities and duties",
+      "scope": "As used in this section and sections 5126.21 to 5126.25 of the Revised Code:",
+      "section": "5126.20",
+      "source_title": "Section 5126.20 - Employee definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5126.20",
+      "term": "Supervisory responsibilities and duties"
+    },
+    {
+      "definition": "(F) \"Managerial responsibilities and duties\" includes formulating policy on behalf of the board, responsibly directing the implementation of policy, assisting in the preparation for the conduct of collective negotiations, administering collectively negotiated agreements, or having a major role in personnel administration.",
+      "id": "5126.20-managerial-responsibilities-and-duties",
+      "normalized": "managerial responsibilities and duties",
+      "scope": "As used in this section and sections 5126.21 to 5126.25 of the Revised Code:",
+      "section": "5126.20",
+      "source_title": "Section 5126.20 - Employee definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5126.20",
+      "term": "Managerial responsibilities and duties"
+    },
+    {
+      "definition": "(G) \"Investigative agent\" means an individual who conducts investigations under section 5126.313 of the Revised Code.",
+      "id": "5126.20-investigative-agent",
+      "normalized": "investigative agent",
+      "scope": "As used in this section and sections 5126.21 to 5126.25 of the Revised Code:",
+      "section": "5126.20",
+      "source_title": "Section 5126.20 - Employee definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5126.20",
+      "term": "Investigative agent"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "5126.21",
+      "number": "5126.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.21"
+    },
+    {
+      "kind": "section",
+      "label": "5126.25",
+      "number": "5126.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.25"
+    },
+    {
+      "kind": "section",
+      "label": "5126.22",
+      "number": "5126.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.22"
+    },
+    {
+      "kind": "section",
+      "label": "5126.313",
+      "number": "5126.313",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5126.313"
+    }
+  ],
+  "scraped": "2026-07-02T20:10:58+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5126.20",
+  "title": "Section 5126.20 - Employee definitions."
+}

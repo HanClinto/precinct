@@ -1,0 +1,126 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Publication\" means once a week for three consecutive weeks in a newspaper of general circulation in the counties wherein publication is to be made or as provided in section 7.16 of the Revised Code. Publication need not be made on the same day of the week in each of the weeks; but not less than fourteen days, excluding the day of first publication, shall intervene between the first publication and the last publication. Publication shall be complete on the date of the last publication.",
+      "id": "6115.01-publication",
+      "normalized": "publication",
+      "scope": "As used in sections 6115.01 to 6115.79 of the Revised Code:",
+      "section": "6115.01",
+      "source_title": "Section 6115.01 - Sanitary district definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-6115.01",
+      "term": "Publication"
+    },
+    {
+      "definition": "(B) \"Person\" means person, firm, partnership, association, or corporation, other than county, township, municipal corporation, or other political subdivision.",
+      "id": "6115.01-person",
+      "normalized": "person",
+      "scope": "As used in sections 6115.01 to 6115.79 of the Revised Code:",
+      "section": "6115.01",
+      "source_title": "Section 6115.01 - Sanitary district definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-6115.01",
+      "term": "Person"
+    },
+    {
+      "definition": "(C) \"Public corporation\" means counties, townships, municipal corporations, school districts, road districts, ditch districts, park districts, levee districts, and all other governmental agencies clothed with the power of levying general or special taxes.",
+      "id": "6115.01-public-corporation",
+      "normalized": "public corporation",
+      "scope": "As used in sections 6115.01 to 6115.79 of the Revised Code:",
+      "section": "6115.01",
+      "source_title": "Section 6115.01 - Sanitary district definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-6115.01",
+      "term": "Public corporation"
+    },
+    {
+      "definition": "(D) \"Court\" means the court of common pleas in which the petition for the organization of a sanitary district was filed and granted. In the case of a district lying in more than one county, \"court\" means the court comprised of one judge of the court of common pleas from each county as provided in section 6115.04 of the Revised Code.\n\n(E) \"Land\" or \"property,\" unless otherwise specified, means real property, as \"real property\" is used in and defined by the laws of this state, and embraces all railroads, tramroads, roads, electric railroads, street and interurban railroads, streets and street improvements, telephones, telegraph, and transmission lines, gas, sewerage, and water systems, pipelines and rights-of-way of public service corporations, and all other real property whether public or private.\n\n(F) \"Board of directors\" applies to the duties of one director appointed in accordance with section 6115.10 of the Revised Code in a district lying wholly within one county.",
+      "id": "6115.01-court",
+      "normalized": "court",
+      "scope": "As used in sections 6115.01 to 6115.79 of the Revised Code:",
+      "section": "6115.01",
+      "source_title": "Section 6115.01 - Sanitary district definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-6115.01",
+      "term": "Court"
+    },
+    {
+      "definition": "(G) \"Biting arthropods\" include mosquitoes, ticks, biting flies, or other biting arthropods capable of transmitting disease to humans.",
+      "id": "6115.01-biting-arthropods",
+      "normalized": "biting arthropods",
+      "scope": "As used in sections 6115.01 to 6115.79 of the Revised Code:",
+      "section": "6115.01",
+      "source_title": "Section 6115.01 - Sanitary district definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-6115.01",
+      "term": "Biting arthropods"
+    },
+    {
+      "definition": "(H) \"Bond\" or \"bonds\" means bonds, notes, certificates of indebtedness, certificates of participation, commercial paper, and other instruments in writing, including, unless the context does not admit, bonds or notes issued in anticipation of the issuance of other bonds, issued by a sanitary district to evidence its obligation to repay money borrowed, or to pay interest, by, or to pay at any future time other money obligations of, the sanitary district.",
+      "id": "6115.01-bond",
+      "normalized": "bond",
+      "scope": "As used in sections 6115.01 to 6115.79 of the Revised Code:",
+      "section": "6115.01",
+      "source_title": "Section 6115.01 - Sanitary district definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-6115.01",
+      "term": "Bond"
+    },
+    {
+      "definition": "(H) \"Bond\" or \"bonds\" means bonds, notes, certificates of indebtedness, certificates of participation, commercial paper, and other instruments in writing, including, unless the context does not admit, bonds or notes issued in anticipation of the issuance of other bonds, issued by a sanitary district to evidence its obligation to repay money borrowed, or to pay interest, by, or to pay at any future time other money obligations of, the sanitary district.",
+      "id": "6115.01-bonds",
+      "normalized": "bonds",
+      "scope": "As used in sections 6115.01 to 6115.79 of the Revised Code:",
+      "section": "6115.01",
+      "source_title": "Section 6115.01 - Sanitary district definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-6115.01",
+      "term": "bonds"
+    },
+    {
+      "definition": "(I) \"Financing costs\" has the same meaning as in division (K) of section 133.01 of the Revised Code.",
+      "id": "6115.01-financing-costs",
+      "normalized": "financing costs",
+      "scope": "As used in sections 6115.01 to 6115.79 of the Revised Code:",
+      "section": "6115.01",
+      "source_title": "Section 6115.01 - Sanitary district definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-6115.01",
+      "term": "Financing costs"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "6115.01",
+      "number": "6115.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.01"
+    },
+    {
+      "kind": "section",
+      "label": "6115.79",
+      "number": "6115.79",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.79"
+    },
+    {
+      "kind": "section",
+      "label": "7.16",
+      "number": "7.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-7.16"
+    },
+    {
+      "kind": "section",
+      "label": "6115.04",
+      "number": "6115.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.04"
+    },
+    {
+      "kind": "section",
+      "label": "6115.10",
+      "number": "6115.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6115.10"
+    },
+    {
+      "kind": "section",
+      "label": "133.01",
+      "number": "133.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.01"
+    }
+  ],
+  "scraped": "2026-07-02T20:17:22+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-6115.01",
+  "title": "Section 6115.01 - Sanitary district definitions."
+}

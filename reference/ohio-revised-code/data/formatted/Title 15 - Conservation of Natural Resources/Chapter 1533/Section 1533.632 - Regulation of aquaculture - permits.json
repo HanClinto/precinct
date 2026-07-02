@@ -1,0 +1,88 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Aquaculture\" means a form of agriculture that involves the propagation and rearing of aquatic species in controlled environments under private control, including, but not limited to, for the purpose of sale for consumption as food.",
+      "id": "1533.632-aquaculture",
+      "normalized": "aquaculture",
+      "scope": "(A) As used in this section:",
+      "section": "1533.632",
+      "source_title": "Section 1533.632 - Regulation of aquaculture - permits.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1533.632",
+      "term": "Aquaculture"
+    },
+    {
+      "definition": "(2) \"Aquaculture species\" means any aquatic species that may be raised through aquaculture that is either a class A aquaculture species or a class B aquaculture species.",
+      "id": "1533.632-aquaculture-species",
+      "normalized": "aquaculture species",
+      "scope": "(A) As used in this section:",
+      "section": "1533.632",
+      "source_title": "Section 1533.632 - Regulation of aquaculture - permits.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1533.632",
+      "term": "Aquaculture species"
+    },
+    {
+      "definition": "(3) \"Class A aquaculture species\" includes any species designated as such by the chief of the division of wildlife in rules adopted under division (B) of this section.",
+      "id": "1533.632-class-a-aquaculture-species",
+      "normalized": "class a aquaculture species",
+      "scope": "(A) As used in this section:",
+      "section": "1533.632",
+      "source_title": "Section 1533.632 - Regulation of aquaculture - permits.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1533.632",
+      "term": "Class A aquaculture species"
+    },
+    {
+      "definition": "(4) \"Class B aquaculture species\" includes any species, except for class A aquaculture species, designated as such by the chief in rules adopted under division (B) of this section.",
+      "id": "1533.632-class-b-aquaculture-species",
+      "normalized": "class b aquaculture species",
+      "scope": "(A) As used in this section:",
+      "section": "1533.632",
+      "source_title": "Section 1533.632 - Regulation of aquaculture - permits.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1533.632",
+      "term": "Class B aquaculture species"
+    },
+    {
+      "definition": "(5) \"Aquaculture production facility\" means a facility that has suitable infrastructure and equipment, as determined by the chief, and that is solely dedicated to the propagation and rearing of an aquaculture species.",
+      "id": "1533.632-aquaculture-production-facility",
+      "normalized": "aquaculture production facility",
+      "scope": "(A) As used in this section:",
+      "section": "1533.632",
+      "source_title": "Section 1533.632 - Regulation of aquaculture - permits.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1533.632",
+      "term": "Aquaculture production facility"
+    },
+    {
+      "definition": "(6) \"Suitable infrastructure\" includes ponds, raceways, and tanks.\n\n(B) The chief, in accordance with Chapter 119. of the Revised Code, shall adopt rules for the regulation of aquaculture and may issue permits to persons wishing to engage in aquaculture for the production of aquaculture species. Rules adopted under this section shall ensure the protection and preservation of the wildlife and natural resources of this state. The legal length and weight limitations established under section 1533.63 of the Revised Code do not apply to class A or class B aquaculture species.\n\nA permit may be issued upon application to any person who satisfies the chief that the person owns or leases an aquaculture production facility. Each permit shall be in such form as the chief prescribes. The permits shall be classified as either class A or class B. A class A permit shall be required for all class A aquaculture species that are designated by rule as a class A aquaculture species. Class B permits shall be issued on a case-by-case basis. In determining whether to issue a class B permit, the chief shall take into account the species for which the class B permit is requested, the location of the aquaculture production facility, and any other information determined by the chief to be necessary to protect the wildlife and natural resources of this state. The annual fee for a class A permit shall be fifty dollars unless otherwise provided by rule by the chief. The annual fee for a class B permit shall be set by the chief at a level between one hundred and five hundred dollars. In determining the fee to be charged for a class B permit, the chief shall take into account the additional costs to the division for the inspection of aquaculture facilities used to raise a given class B aquaculture species.\n\nThe chief may revoke a permit upon a determination that the person to whom the permit was issued has violated any rule adopted under this section. The permit shall be reissued upon a showing by the person that the person is in compliance with the rules adopted under this section. A holder of an aquaculture permit may receive a permit issued under section 1533.301 or 1533.40 of the Revised Code without payment of the fee for that permit if the conditions for the issuance of the permit have been met.\n\n(C) No person shall knowingly sell any aquatic species under an aquaculture permit issued under this section that was not raised in an aquaculture production facility. In addition to any other penalties prescribed for violation of this division, the chief may revoke the permit of any person convicted of a violation of this division for any period of time the chief considers necessary.\n\n(D) No person who does not hold a current valid aquaculture permit shall knowingly sell an aquaculture species while claiming to possess an aquaculture permit.",
+      "id": "1533.632-suitable-infrastructure",
+      "normalized": "suitable infrastructure",
+      "scope": "(A) As used in this section:",
+      "section": "1533.632",
+      "source_title": "Section 1533.632 - Regulation of aquaculture - permits.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1533.632",
+      "term": "Suitable infrastructure"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "1533.63",
+      "number": "1533.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.63"
+    },
+    {
+      "kind": "section",
+      "label": "1533.301",
+      "number": "1533.301",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.301"
+    },
+    {
+      "kind": "section",
+      "label": "1533.40",
+      "number": "1533.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.40"
+    }
+  ],
+  "scraped": "2026-07-02T19:37:50+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1533.632",
+  "title": "Section 1533.632 - Regulation of aquaculture - permits."
+}

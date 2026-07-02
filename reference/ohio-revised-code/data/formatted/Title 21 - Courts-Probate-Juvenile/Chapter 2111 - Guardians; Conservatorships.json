@@ -1,0 +1,399 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 2111.01 - Guardian and conservatorship definitions.",
+      "number": "2111.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.011 - Guardianship guide.",
+      "number": "2111.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.011"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.02 - Appointment of guardian - limited, interim, emergency, or standby guardian - nomination.",
+      "number": "2111.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.021 - Physically infirm adult may petition for conservatorship.",
+      "number": "2111.021",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.021"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.022 - Emergency order to freeze assets of missing person.",
+      "number": "2111.022",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.022"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.03 - Application for appointment as guardian.",
+      "number": "2111.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.031 - Appointing physicians and other persons to determine need for guardianship.",
+      "number": "2111.031",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.031"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.04 - Notice of appointment.",
+      "number": "2111.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.041 - Investigating circumstances of alleged incompetent.",
+      "number": "2111.041",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.041"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.042 - Investigating and report regarding guardianship of minor.",
+      "number": "2111.042",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.042"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.05 - Termination of guardianship based on value of ward's estate.",
+      "number": "2111.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.06 - Guardian of the person.",
+      "number": "2111.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.07 - Powers of guardian of person and estate.",
+      "number": "2111.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.08 - Parents are natural guardians.",
+      "number": "2111.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.09 - Administrator or executor ineligible to be appointed guardian.",
+      "number": "2111.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.091 - Restrictions on attorney representing guardian.",
+      "number": "2111.091",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.091"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.10 - Corporation as guardian.",
+      "number": "2111.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.11 - Spouse may be appointed guardian.",
+      "number": "2111.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.12 - Guardian of minor.",
+      "number": "2111.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.121 - Nomination of guardian.",
+      "number": "2111.121",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.121"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.13 - Duties of guardian of person.",
+      "number": "2111.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.131 - Court order for payments of no more than $5,000 due to minor.",
+      "number": "2111.131",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.131"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.14 - Duties of guardian of estate.",
+      "number": "2111.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.141 - Inventory to be supported by evidence.",
+      "number": "2111.141",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.141"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.15 - Duties of guardian of person and estate.",
+      "number": "2111.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.151 - Liability of guardian or conservator as to contracts and debts.",
+      "number": "2111.151",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.151"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.16 - Certain vouchers not allowed as credits.",
+      "number": "2111.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.17 - Suits by guardians.",
+      "number": "2111.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.18 - Claim for injury to ward or damage to property - settlement.",
+      "number": "2111.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.181 - Settlement of claim of emancipated minor.",
+      "number": "2111.181",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.181"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.182 - Order for portion of funds to minor be deposited in trust.",
+      "number": "2111.182",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.182"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.19 - Completion of real property contracts.",
+      "number": "2111.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.20 - Sale of personal estate.",
+      "number": "2111.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.21 - Sale, compromise, adjustment, or mortgage of dower.",
+      "number": "2111.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.22 - Release of ward's tax title by guardian.",
+      "number": "2111.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.23 - Guardian ad litem.",
+      "number": "2111.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.24 - Insolvency of ward.",
+      "number": "2111.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.25 - Lease for not more than three years.",
+      "number": "2111.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.26 - Lease for term of years.",
+      "number": "2111.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.27 - Petition.",
+      "number": "2111.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.28 - Parties.",
+      "number": "2111.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.29 - Parties and proceedings.",
+      "number": "2111.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.30 - Duties of appraisers.",
+      "number": "2111.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.31 - Hearing and order.",
+      "number": "2111.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.32 - Royalty.",
+      "number": "2111.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.33 - Guardian may improve real property - petition.",
+      "number": "2111.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.34 - Proceedings.",
+      "number": "2111.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.35 - Amount to be used for improvement.",
+      "number": "2111.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.36 - Guardian's report.",
+      "number": "2111.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.37 - Guardian for nonresident.",
+      "number": "2111.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.38 - Bond and duties.",
+      "number": "2111.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.39 - Foreign guardian may collect money.",
+      "number": "2111.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.40 - When nonresident ward becomes a resident.",
+      "number": "2111.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.42 - Foreign guardians may receive property.",
+      "number": "2111.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.43 - Foreign wards and guardians.",
+      "number": "2111.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.44 - Sale of real property of foreign wards.",
+      "number": "2111.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.45 - Marriage of ward.",
+      "number": "2111.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.46 - Guardianship of minors.",
+      "number": "2111.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.47 - Wards other than minors.",
+      "number": "2111.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.471 - Transfer of court having jurisdiction.",
+      "number": "2111.471",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.471"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.48 - Certain acts validated.",
+      "number": "2111.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.49 - Report of guardian of incompetent.",
+      "number": "2111.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.50 - Probate court is superior guardian of wards.",
+      "number": "2111.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.51 - County indigent guardianship fund.",
+      "number": "2111.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2111.52 - County probate court guardianship services fund; multicounty probate court guardianship services fund.",
+      "number": "2111.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.52"
+    }
+  ],
+  "scraped": "2026-07-02T19:41:23+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-2111",
+  "title": "Chapter 2111 - Guardians; Conservatorships"
+}

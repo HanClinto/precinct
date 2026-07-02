@@ -1,0 +1,405 @@
+{
+  "glossary": [],
+  "kind": "title",
+  "references": [
+    {
+      "kind": "chapter",
+      "label": "Chapter 101 - General Assembly",
+      "number": "101",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-101"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 102 - Public Officers - Ethics",
+      "number": "102",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-102"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 103 - Legislative Services",
+      "number": "103",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-103"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 105 - Governmental Research",
+      "number": "105",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-105"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 106 - Rulemaking",
+      "number": "106",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-106"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 107 - Governor",
+      "number": "107",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-107"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 108 - Lieutenant Governor",
+      "number": "108",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-108"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 109 - Attorney General",
+      "number": "109",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-109"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 111 - Secretary of State",
+      "number": "111",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-111"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 113 - Treasurer of State",
+      "number": "113",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-113"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 117 - Auditor of State",
+      "number": "117",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-117"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 118 - Local Fiscal Emergencies",
+      "number": "118",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-118"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 119 - Administrative Procedure",
+      "number": "119",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-119"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 120 - Public Defenders",
+      "number": "120",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-120"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 121 - State Departments",
+      "number": "121",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-121"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 122 - Department of Development",
+      "number": "122",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-122"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 123 - Department of Administrative Services - Public Works",
+      "number": "123",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-123"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 124 - Department of Administrative Services - Personnel",
+      "number": "124",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-124"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 125 - Department of Administrative Services - Office Services",
+      "number": "125",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-125"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 126 - Office of Budget and Management",
+      "number": "126",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-126"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 127 - Controlling Board",
+      "number": "127",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-127"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 128 - 9-1-1 Emergency Telephone Number System",
+      "number": "128",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-128"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 129 - Board of Commissioners of Sinking Fund",
+      "number": "129",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-129"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 131 - Revenues and Funds",
+      "number": "131",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-131"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 133 - Uniform Public Securities Law",
+      "number": "133",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-133"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 135 - Uniform Depository Act",
+      "number": "135",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-135"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 139 - Federal Aid Bonds; Food Stamp Plan",
+      "number": "139",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-139"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 140 - Hospital Agencies",
+      "number": "140",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-140"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 141 - Salaries of State Officers",
+      "number": "141",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-141"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 143 - Volunteer Peace Officers Dependents",
+      "number": "143",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-143"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 145 - Public Employees Retirement System",
+      "number": "145",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-145"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 146 - Volunteer Fire Fighters' Dependents Fund",
+      "number": "146",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-146"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 147 - Notaries Public and Commissioners",
+      "number": "147",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-147"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 148 - Deferred Compensation Program",
+      "number": "148",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-148"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 149 - Documents, Reports, and Records",
+      "number": "149",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-149"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 150 - Venture Capital Program",
+      "number": "150",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-150"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 151 - Public Facilities Commission",
+      "number": "151",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-151"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 153 - Public Improvements",
+      "number": "153",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-153"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 154 - Financing for Certain Capital Facilities",
+      "number": "154",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-154"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 155 - Lands and Memorials",
+      "number": "155",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-155"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 156 - Energy Conservation Measures",
+      "number": "156",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-156"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 157 - Ohio Co-ordinate System",
+      "number": "157",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-157"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 159 - Purchase and Jurisdiction of Land by United States",
+      "number": "159",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-159"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 161 - Emergency Interim Government",
+      "number": "161",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-161"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 163 - Appropriation of Property",
+      "number": "163",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-163"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 164 - Aid to Local Government Improvements",
+      "number": "164",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-164"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 165 - Industrial Development Bonds",
+      "number": "165",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-165"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 166 - Economic Development Program",
+      "number": "166",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-166"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 167 - Regional Councils of Governments",
+      "number": "167",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-167"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 169 - Unclaimed Funds",
+      "number": "169",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-169"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 171 - Retirement Study Council",
+      "number": "171",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-171"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 173 - Department of Aging",
+      "number": "173",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-173"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 174 - Ohio Housing Trust Fund",
+      "number": "174",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-174"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 175 - Housing Finance Agency",
+      "number": "175",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-175"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 176 - Housing Advisory Boards",
+      "number": "176",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-176"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 177 - Investigation and Prosecution of Organized Criminal Activity",
+      "number": "177",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-177"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 181 - Criminal Sentencing Commission; Criminal Justice Services",
+      "number": "181",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-181"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 182 - OneOhio Recovery Foundation",
+      "number": "182",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-182"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 183 - Tobacco Master Settlement Agreement",
+      "number": "183",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-183"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 184 - Third Frontier Commission",
+      "number": "184",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-184"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 187 - JobsOhio Corporation",
+      "number": "187",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-187"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 188 - Electric Cooperative Easement Use for Broadband",
+      "number": "188",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-188"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 189 - Local Government Innovation Program",
+      "number": "189",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-189"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 191 - Broadband Pole Replacement and Undergrounding",
+      "number": "191",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-191"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 195 - Internet Crimes Against Children Task Force",
+      "number": "195",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-195"
+    },
+    {
+      "kind": "chapter",
+      "label": "Chapter 197 - Holocaust and Genocide Memorial and Education Commission",
+      "number": "197",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-197"
+    }
+  ],
+  "scraped": "2026-07-02T19:31:17+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/title-1",
+  "title": "Title 1 - State Government"
+}

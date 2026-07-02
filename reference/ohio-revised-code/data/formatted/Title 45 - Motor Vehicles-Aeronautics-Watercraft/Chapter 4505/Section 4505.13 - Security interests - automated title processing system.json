@@ -1,0 +1,94 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Accurate information\" means the make and model of the motor vehicle, its vehicle identification number, and the name and address of its owner as they appear on the certificate of title that is to be conveyed.",
+      "id": "4505.13-accurate-information",
+      "normalized": "accurate information",
+      "scope": "(H) As used in this section:",
+      "section": "4505.13",
+      "source_title": "Section 4505.13 - Security interests - automated title processing system.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4505.13",
+      "term": "Accurate information"
+    },
+    {
+      "definition": "(2) \"Dealer\" has the same meaning as in section 4517.01 of the Revised Code.",
+      "id": "4505.13-dealer",
+      "normalized": "dealer",
+      "scope": "(H) As used in this section:",
+      "section": "4505.13",
+      "source_title": "Section 4505.13 - Security interests - automated title processing system.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4505.13",
+      "term": "Dealer"
+    },
+    {
+      "definition": "(3) \"Good funds\" includes cash, or a wire transfer, cashier's check, certified check, draft, money order, or teller's check issued by an insured financial institution, or a dealer's check for which the secured party has received funds that are available for withdrawal pursuant to \"Availability of Funds and Collection of Checks (Regulation CC),\" 12 C.F.R. 229.",
+      "id": "4505.13-good-funds",
+      "normalized": "good funds",
+      "scope": "(H) As used in this section:",
+      "section": "4505.13",
+      "source_title": "Section 4505.13 - Security interests - automated title processing system.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4505.13",
+      "term": "Good funds"
+    },
+    {
+      "definition": "(4) \"Inventory\" has the same meaning as in section 1309.102 of the Revised Code.",
+      "id": "4505.13-inventory",
+      "normalized": "inventory",
+      "scope": "(H) As used in this section:",
+      "section": "4505.13",
+      "source_title": "Section 4505.13 - Security interests - automated title processing system.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4505.13",
+      "term": "Inventory"
+    },
+    {
+      "definition": "(5) \"Electronic certificate of title\" means an electronic record stored in the automated title processing system that established ownership of a motor vehicle, as well as any security interest that exists in that motor vehicle.",
+      "id": "4505.13-electronic-certificate-of-title",
+      "normalized": "electronic certificate of title",
+      "scope": "(H) As used in this section:",
+      "section": "4505.13",
+      "source_title": "Section 4505.13 - Security interests - automated title processing system.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4505.13",
+      "term": "Electronic certificate of title"
+    },
+    {
+      "definition": "(6) \"Written confirmation\" means a communication from a secured party to a motor vehicle dealer regarding the secured party's security interest in a motor vehicle. A written confirmation may be either a physical document or an electronic communication such as electronic mail. Both types of written confirmation may be conveyed under this section.\n\nLast updated August 27, 2024 at 3:17 PM",
+      "id": "4505.13-written-confirmation",
+      "normalized": "written confirmation",
+      "scope": "(H) As used in this section:",
+      "section": "4505.13",
+      "source_title": "Section 4505.13 - Security interests - automated title processing system.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4505.13",
+      "term": "Written confirmation"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "1701.66",
+      "number": "1701.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1701.66"
+    },
+    {
+      "kind": "section",
+      "label": "4505.09",
+      "number": "4505.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4505.09"
+    },
+    {
+      "kind": "section",
+      "label": "4517.01",
+      "number": "4517.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4517.01"
+    },
+    {
+      "kind": "section",
+      "label": "1309.102",
+      "number": "1309.102",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1309.102"
+    }
+  ],
+  "scraped": "2026-07-02T20:05:24+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4505.13",
+  "title": "Section 4505.13 - Security interests - automated title processing system."
+}

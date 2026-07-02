@@ -1,0 +1,12 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-747.10
+Scraped: 2026-07-02T19:33:39+00:00
+
+# Section 747.10 - Disposition of fees and earnings.
+
+**Effective:** October 1, 1953
+
+**Latest Legislation:** House Bill 1 - 100th General Assembly
+
+All rentals, payments, and fees of every description and all other income, earnings, or revenues received from all persons, firms, and corporations for the use of depots, terminals, and railways, shall be kept in a separate and distinct fund, and after paying the expenses of the city for maintaining, conducting, and managing such depots, terminals, and railways, including the setting aside of a reasonable sum annually for depreciation to be applied to the repair or replacement of any portion of such work, from the remainder of such receipts there shall annually be paid into the sinking fund of the city such sum as is necessary for the payment of accruing interest on the bonds issued and outstanding for the construction of a rapid transit system, and to provide a sinking fund for the redemption thereof at maturity. The city, to the extent that such remainder is not sufficient for the payment of the interest on such bonds, and for the bonds issued during construction, and for the accumulation of a sinking fund sufficient for payment thereof at maturity, shall annually levy a tax sufficient for such purposes, which tax shall not be subject to any of the limitations provided by law for maximum tax rates on property in the city, except the combined maximum rate fixed in section 5705.02 of the Revised Code, and in addition thereto one-half mill may be levied.
+
+The surplus in any year above such expenses, depreciation charges, interest, and sinking fund charges shall, up to the amount necessary to equal the deficiencies of previous years, be paid into the sinking fund of such city until the amounts paid into the sinking fund from such revenues equal the total accrued interest and sinking fund charges on such bonds, and any amounts thus paid in on account of such past deficiencies, may be applied to interest or sinking fund charges on any indebtedness of the city. Any surplus above such expenses, depreciation charges, current interest, sinking fund charges, and reimbursement of past deficiencies of interest and sinking fund charges, may be used for the reconstruction of, improvement of, additions to, or extensions of such depots, terminals, and railway equipment.

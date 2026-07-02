@@ -1,0 +1,465 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 1782.01 - Limited partnership definitions.",
+      "number": "1782.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.02 - Name.",
+      "number": "1782.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.04 - Statutory agent.",
+      "number": "1782.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.05 - Records to be kept at principal office - copies provided to agent where office outside Ohio.",
+      "number": "1782.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.06 - Scope of business.",
+      "number": "1782.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.07 - Partner's transactions with partnership.",
+      "number": "1782.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.08 - Certificate of limited partnership required - filing, contents.",
+      "number": "1782.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.09 - Certificate of amendment - restatement of certificate.",
+      "number": "1782.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.10 - Certificate of cancellation - amendment.",
+      "number": "1782.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.11 - Execution of certificate.",
+      "number": "1782.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.12 - Petition for execution of certificate.",
+      "number": "1782.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.13 - Filing of documents with secretary of state.",
+      "number": "1782.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.14 - Liability for false statement in certificate.",
+      "number": "1782.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.15 - Filing is notice of certain fact.",
+      "number": "1782.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.16 - Copy of certificates to be delivered or mailed to limited partners.",
+      "number": "1782.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.17 - Person becomes limited partner, when - additional limited partners.",
+      "number": "1782.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.18 - Voting rights.",
+      "number": "1782.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.19 - Rights, powers, and liabilities of limited partners.",
+      "number": "1782.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.20 - Erroneous belief that one is a limited partner.",
+      "number": "1782.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.21 - Right to information.",
+      "number": "1782.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.22 - Additional general partners.",
+      "number": "1782.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.23 - Person ceases to be a general partner - when.",
+      "number": "1782.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.24 - General partner - rights and powers.",
+      "number": "1782.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.241 - Care owed by general partner.",
+      "number": "1782.241",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.241"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.242 - Effect of self-dealing.",
+      "number": "1782.242",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.242"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.25 - Person may be both general and limited partner.",
+      "number": "1782.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.26 - Voting rights of general partners.",
+      "number": "1782.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.27 - Contributions of partner.",
+      "number": "1782.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.28 - Promise of limited partner to contribute to partnership not enforceable unless written and signed.",
+      "number": "1782.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.29 - Allocation of profits and losses.",
+      "number": "1782.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.30 - Allocation of distributions.",
+      "number": "1782.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.31 - Partner entitled to receive distributions.",
+      "number": "1782.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.32 - Withdrawal of general partner.",
+      "number": "1782.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.33 - Withdrawal of limited partner.",
+      "number": "1782.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.34 - Rights of withdrawing partner.",
+      "number": "1782.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.35 - Distributions.",
+      "number": "1782.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.36 - Remedies.",
+      "number": "1782.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.37 - Restricting distributions.",
+      "number": "1782.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.39 - Partnership interest is personal property.",
+      "number": "1782.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.40 - Partnership interest - assignable in whole or in part.",
+      "number": "1782.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.41 - Judgment creditor of partner.",
+      "number": "1782.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.42 - Assignee may become limited partner.",
+      "number": "1782.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.43 - Rights of legal representative of partner.",
+      "number": "1782.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.431 - Merger or consolidation - domestic limited partnership.",
+      "number": "1782.431",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.431"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.432 - Merger or consolidation - entity other than domestic limited partnership.",
+      "number": "1782.432",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.432"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.433 - Certificate of merger or consolidation.",
+      "number": "1782.433",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.433"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.434 - Surviving or new entity.",
+      "number": "1782.434",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.434"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.435 - Dissenting partners.",
+      "number": "1782.435",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.435"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.436 - Written demand for payment of fair cash value of interests.",
+      "number": "1782.436",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.436"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.437 - Complaint demanding relief.",
+      "number": "1782.437",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.437"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.438 - Conversion of another entity into domestic limited partnership.",
+      "number": "1782.438",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.438"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.439 - Conversion of domestic limited partnership into another entity.",
+      "number": "1782.439",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.439"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.4310 - Filing of certificate of conversion - effective date.",
+      "number": "1782.4310",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.4310"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.4311 - Legal effect of conversion - action to set aside.",
+      "number": "1782.4311",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.4311"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.44 - Dissolution and winding-up.",
+      "number": "1782.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.45 - Decree of dissolution of partnership.",
+      "number": "1782.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.46 - Partners or court may wind up affairs.",
+      "number": "1782.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.47 - Order of distribution.",
+      "number": "1782.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.48 - Laws governing foreign partnerships.",
+      "number": "1782.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.49 - Application for registration of foreign limited partnership.",
+      "number": "1782.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.50 - Acceptance of application by secretary of state.",
+      "number": "1782.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.51 - Name.",
+      "number": "1782.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.52 - Certificate correcting application information - statement of correction of agent's address.",
+      "number": "1782.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.53 - Cancellation of registration.",
+      "number": "1782.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.54 - Failure to register of foreign limited partnership.",
+      "number": "1782.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.55 - Action to restrain transaction of business.",
+      "number": "1782.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.56 - Derivative action by limited partner.",
+      "number": "1782.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.57 - Plaintiff in derivative action.",
+      "number": "1782.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.58 - Complaint.",
+      "number": "1782.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.59 - Court orders in successful derivative action.",
+      "number": "1782.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.60 - Application and construction of chapter.",
+      "number": "1782.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.61 - Pre-existing limited partnerships.",
+      "number": "1782.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.62 - Pre-existing foreign limited partnerships.",
+      "number": "1782.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.63 - Refiling of certificate for limited partnerships existing prior to 7-1-94.",
+      "number": "1782.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.64 - Conversion to limited liability limited partnership.",
+      "number": "1782.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1782.65 - Persons performing services to partnership or partners.",
+      "number": "1782.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1782.65"
+    }
+  ],
+  "scraped": "2026-07-02T19:40:37+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-1782",
+  "title": "Chapter 1782 - Limited Partnerships"
+}

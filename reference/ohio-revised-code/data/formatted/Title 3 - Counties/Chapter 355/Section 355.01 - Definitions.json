@@ -1,0 +1,46 @@
+{
+  "glossary": [
+    {
+      "definition": "\"Care coordination\" means assisting an individual to access available physical health, behavioral health, social, employment, education, and housing services the individual needs.",
+      "id": "355.01-care-coordination",
+      "normalized": "care coordination",
+      "scope": "As used in this chapter:",
+      "section": "355.01",
+      "source_title": "Section 355.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-355.01",
+      "term": "Care coordination"
+    },
+    {
+      "definition": "\"Political subdivision\" has the same meaning as in section 2744.01 of the Revised Code.",
+      "id": "355.01-political-subdivision",
+      "normalized": "political subdivision",
+      "scope": "As used in this chapter:",
+      "section": "355.01",
+      "source_title": "Section 355.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-355.01",
+      "term": "Political subdivision"
+    },
+    {
+      "definition": "\"Publicly funded assistance programs\" include physical health, behavioral health, social, employment, education, and housing programs funded or provided by the state or a political subdivision of the state.",
+      "id": "355.01-publicly-funded-assistance-programs",
+      "normalized": "publicly funded assistance programs",
+      "scope": "As used in this chapter:",
+      "section": "355.01",
+      "source_title": "Section 355.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-355.01",
+      "term": "Publicly funded assistance programs"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2744.01",
+      "number": "2744.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2744.01"
+    }
+  ],
+  "scraped": "2026-07-02T19:33:02+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-355.01",
+  "title": "Section 355.01 - Definitions."
+}

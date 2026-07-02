@@ -1,0 +1,16 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-349.07
+Scraped: 2026-07-02T19:32:59+00:00
+
+# Section 349.07 - Payment of community development charge.
+
+**Effective:** October 17, 2019
+
+**Latest Legislation:** House Bill 166 - 133rd General Assembly
+
+Notwithstanding any other rule of law, any covenant or agreement in deeds, land contracts, leases and any other instruments or conveyance by which real estate or any interest in real estate is conveyed by or to the developer or by the new community authority to any person or entity, including the developer, or any declaration of covenants executed by the owner of real estate, whereby such person or entity agrees, by acceptance of any such instrument of conveyance containing said covenant of agreement or execution of said declaration, to pay annually or semiannually a community development charge for the benefit and use of the new community authority to cover all or part of the cost of the acquisition, construction, operation and maintenance of land, land development and community facilities, the debt service thereof and any other cost incurred by the authority in the exercise of the powers granted by Chapter 349. of the Revised Code shall be deemed to be a covenant running with the land and shall, in any event and without regard to technical classification, after such instrument has been duly recorded in the land records of the county, be fully binding on behalf of and enforceable by the new community authority against each such person or entity and all successors and assigns of the property conveyed by such instrument of conveyance or encumbered by such declaration.
+
+No purchase agreement for any real estate or interest in real estate upon which a community development charge exists by reason of a covenant running with the land shall be enforceable by the seller or binding upon the purchaser unless such purchase agreement specifically refers to such community development charge and identifies the volume and page number of the deed records of the county in which the covenant running with the land establishing such community development charge is recorded, provided that in the event a conveyance of such real estate or interest in real estate is made pursuant to a purchase agreement which does not make such reference and identification, the covenant shall continue to be deemed to be a covenant running with the land fully binding on behalf of and enforceable by the community authority against such person or entity accepting the conveyance pursuant to such purchase agreement.
+
+The new community authority may certify the community development charge to the county auditor, who shall enter the unpaid charge on the tax list and duplicates of real property opposite the parcel against which it is charged, and certify the charge to the county treasurer. An unpaid community development charge is a lien on property against which it is charged from the date the charge is entered on the tax list, and shall be collected in the manner provided for the collection of real property taxes. Once the charge is collected, it shall be paid immediately to the new community district.
+
+No community development charge established pursuant to this chapter shall be construed as prohibiting or limiting the taxing power of municipal corporations.

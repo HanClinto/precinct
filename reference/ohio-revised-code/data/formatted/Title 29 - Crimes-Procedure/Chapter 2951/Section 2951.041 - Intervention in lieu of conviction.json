@@ -1,0 +1,278 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Community addiction services provider\" has the same meaning as in section 5119.01 of the Revised Code.",
+      "id": "2951.041-community-addiction-services-provider",
+      "normalized": "community addiction services provider",
+      "scope": "(G) As used in this section:",
+      "section": "2951.041",
+      "source_title": "Section 2951.041 - Intervention in lieu of conviction.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2951.041",
+      "term": "Community addiction services provider"
+    },
+    {
+      "definition": "(2) \"Community control sanction\" has the same meaning as in section 2929.01 of the Revised Code.",
+      "id": "2951.041-community-control-sanction",
+      "normalized": "community control sanction",
+      "scope": "(G) As used in this section:",
+      "section": "2951.041",
+      "source_title": "Section 2951.041 - Intervention in lieu of conviction.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2951.041",
+      "term": "Community control sanction"
+    },
+    {
+      "definition": "(3) \"Intervention in lieu of conviction\" means any court-supervised activity that complies with this section.",
+      "id": "2951.041-intervention-in-lieu-of-conviction",
+      "normalized": "intervention in lieu of conviction",
+      "scope": "(G) As used in this section:",
+      "section": "2951.041",
+      "source_title": "Section 2951.041 - Intervention in lieu of conviction.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2951.041",
+      "term": "Intervention in lieu of conviction"
+    },
+    {
+      "definition": "(4) \"Intellectual disability\" has the same meaning as in section 5123.01 of the Revised Code.",
+      "id": "2951.041-intellectual-disability",
+      "normalized": "intellectual disability",
+      "scope": "(G) As used in this section:",
+      "section": "2951.041",
+      "source_title": "Section 2951.041 - Intervention in lieu of conviction.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2951.041",
+      "term": "Intellectual disability"
+    },
+    {
+      "definition": "(5) \"Peace officer\" has the same meaning as in section 2935.01 of the Revised Code.\n\n(6) \"Mental illness\" and \"psychiatrist\" have the same meanings as in section 5122.01 of the Revised Code.",
+      "id": "2951.041-peace-officer",
+      "normalized": "peace officer",
+      "scope": "(G) As used in this section:",
+      "section": "2951.041",
+      "source_title": "Section 2951.041 - Intervention in lieu of conviction.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2951.041",
+      "term": "Peace officer"
+    },
+    {
+      "definition": "(7) \"Psychologist\" has the same meaning as in section 4732.01 of the Revised Code.",
+      "id": "2951.041-psychologist",
+      "normalized": "psychologist",
+      "scope": "(G) As used in this section:",
+      "section": "2951.041",
+      "source_title": "Section 2951.041 - Intervention in lieu of conviction.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2951.041",
+      "term": "Psychologist"
+    },
+    {
+      "definition": "(8) \"Felony sex offense\" means a violation of a section contained in Chapter 2907. of the Revised Code that is a felony.\n\nLast updated August 4, 2025 at 3:48 PM",
+      "id": "2951.041-felony-sex-offense",
+      "normalized": "felony sex offense",
+      "scope": "(G) As used in this section:",
+      "section": "2951.041",
+      "source_title": "Section 2951.041 - Intervention in lieu of conviction.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2951.041",
+      "term": "Felony sex offense"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2913.02",
+      "number": "2913.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2913.02"
+    },
+    {
+      "kind": "section",
+      "label": "2913.03",
+      "number": "2913.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2913.03"
+    },
+    {
+      "kind": "section",
+      "label": "2913.11",
+      "number": "2913.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2913.11"
+    },
+    {
+      "kind": "section",
+      "label": "2913.21",
+      "number": "2913.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2913.21"
+    },
+    {
+      "kind": "section",
+      "label": "2913.31",
+      "number": "2913.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2913.31"
+    },
+    {
+      "kind": "section",
+      "label": "2919.21",
+      "number": "2919.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2919.21"
+    },
+    {
+      "kind": "section",
+      "label": "2905.32",
+      "number": "2905.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2905.32"
+    },
+    {
+      "kind": "section",
+      "label": "2907.21",
+      "number": "2907.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2907.21"
+    },
+    {
+      "kind": "section",
+      "label": "2930.06",
+      "number": "2930.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2930.06"
+    },
+    {
+      "kind": "section",
+      "label": "2903.06",
+      "number": "2903.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2903.06"
+    },
+    {
+      "kind": "section",
+      "label": "2903.08",
+      "number": "2903.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2903.08"
+    },
+    {
+      "kind": "section",
+      "label": "4511.19",
+      "number": "4511.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.19"
+    },
+    {
+      "kind": "section",
+      "label": "2925.02",
+      "number": "2925.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2925.02"
+    },
+    {
+      "kind": "section",
+      "label": "2925.04",
+      "number": "2925.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2925.04"
+    },
+    {
+      "kind": "section",
+      "label": "2925.06",
+      "number": "2925.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2925.06"
+    },
+    {
+      "kind": "section",
+      "label": "2925.03",
+      "number": "2925.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2925.03"
+    },
+    {
+      "kind": "section",
+      "label": "2925.11",
+      "number": "2925.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2925.11"
+    },
+    {
+      "kind": "section",
+      "label": "2925.24",
+      "number": "2925.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2925.24"
+    },
+    {
+      "kind": "section",
+      "label": "2929.15",
+      "number": "2929.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2929.15"
+    },
+    {
+      "kind": "section",
+      "label": "2929.18",
+      "number": "2929.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2929.18"
+    },
+    {
+      "kind": "section",
+      "label": "2929.25",
+      "number": "2929.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2929.25"
+    },
+    {
+      "kind": "section",
+      "label": "2953.31",
+      "number": "2953.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2953.31"
+    },
+    {
+      "kind": "section",
+      "label": "2953.33",
+      "number": "2953.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2953.33"
+    },
+    {
+      "kind": "section",
+      "label": "2953.37",
+      "number": "2953.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2953.37"
+    },
+    {
+      "kind": "section",
+      "label": "2953.521",
+      "number": "2953.521",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2953.521"
+    },
+    {
+      "kind": "section",
+      "label": "2953.34",
+      "number": "2953.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2953.34"
+    },
+    {
+      "kind": "section",
+      "label": "2929.20",
+      "number": "2929.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2929.20"
+    },
+    {
+      "kind": "section",
+      "label": "5119.01",
+      "number": "5119.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.01"
+    },
+    {
+      "kind": "section",
+      "label": "2929.01",
+      "number": "2929.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2929.01"
+    },
+    {
+      "kind": "section",
+      "label": "5123.01",
+      "number": "5123.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5123.01"
+    },
+    {
+      "kind": "section",
+      "label": "2935.01",
+      "number": "2935.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2935.01"
+    },
+    {
+      "kind": "section",
+      "label": "5122.01",
+      "number": "5122.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5122.01"
+    },
+    {
+      "kind": "section",
+      "label": "4732.01",
+      "number": "4732.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4732.01"
+    }
+  ],
+  "scraped": "2026-07-02T19:47:05+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2951.041",
+  "title": "Section 2951.041 - Intervention in lieu of conviction."
+}

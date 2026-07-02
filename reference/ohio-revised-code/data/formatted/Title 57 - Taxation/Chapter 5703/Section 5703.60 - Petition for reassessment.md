@@ -1,0 +1,28 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5703.60
+Scraped: 2026-07-02T20:14:19+00:00
+
+# Section 5703.60 - Petition for reassessment.
+
+**Effective:** September 6, 2002
+
+**Latest Legislation:** Senate Bill 200 - 124th General Assembly
+
+(A) If a petition for reassessment has been properly filed under a law that specifies that this section applies, the tax commissioner shall proceed as follows:
+
+(1) Except as provided in division (D) of this section, the commissioner may correct the assessment by issuing a corrected assessment. The corrected assessment may reduce or increase the previous assessment, as the commissioner finds proper. The commissioner shall send the corrected assessment by ordinary mail to the address to which the original assessment was sent, unless the petitioner notifies the commissioner of a different address. The commissioner's mailing of the corrected assessment is an assessment timely made and issued to the extent that the original assessment was timely made and issued, notwithstanding any time limitation otherwise imposed by law.
+
+Within sixty days after the mailing of the corrected assessment, the petitioner may file a new petition for reassessment. The petition shall be filed in the same manner as provided by law for filing the original petition. If a new petition is properly filed within the sixty-day period, the commissioner shall proceed under division (A)(2) or (3) of this section. If a new petition is not properly filed within the sixty-day period, the corrected assessment becomes final, and the amount of the corrected assessment is due and payable from the person assessed.
+
+The issuance of a corrected assessment under this division nullifies the petition for reassessment filed before such issuance, and that petition shall not be subject to further administrative review or appeal. The commissioner may issue to the person assessed only one corrected assessment under this division.
+
+(2) The commissioner may cancel the assessment by issuing either a corrected assessment or a final determination. The commissioner may mail the cancellation in the same manner as a corrected assessment under division (A)(1) of this section. Cancellation of an assessment pursuant to this division is not subject to further administrative review or appeal.
+
+(3) If no corrected assessment or final determination is issued under division (A)(1) or (2) of this section, or if a new petition for reassessment is properly filed under division (A)(1) of this section, the commissioner shall review the assessment or corrected assessment petition that is still pending. If the petitioner requests a hearing, the commissioner shall assign a time and place for the hearing and notify the petitioner of such time and place, but the commissioner may continue the hearing from time to time as necessary. Upon completion of the review and hearing, if requested by the person assessed, the commissioner shall either cancel the assessment or corrected assessment by issuing a corrected assessment or final determination under division (A)(2) of this section, or issue a final determination that reduces, affirms, or increases the assessment or corrected assessment, as the commissioner finds proper. If a final determination is issued under this division, a copy of it shall be served on the petitioner in the manner provided by section 5703.37 of the Revised Code, and it is subject to appeal under section 5717.02 of the Revised Code. Only objections decided on the merits by the board of tax appeals or a court shall be given the effect of collateral estoppel or res judicata in considering an application for refund of amounts paid pursuant to the assessment or corrected assessment.
+
+(B) Except as provided in division (D) of this section, in addition to the authority provided in division (A) of this section and division (H) of section 5703.05 of the Revised Code, the tax commissioner, on the commissioner's own motion, may issue a corrected assessment with regard to the assessment of any tax for which a properly filed petition for reassessment would be subject to division (A) of this section. A corrected assessment may be issued under this division only if the original assessment has not been certified to the attorney general for collection under section 131.02 of the Revised Code, or is not an appeal pursuant to section 5717.02 of the Revised Code. The corrected assessment shall not increase the amount of tax, penalty, or additional charge if the statute of limitations to issue a new assessment for such increase has expired. The corrected assessment shall be issued and reviewed in the same manner as a corrected assessment under division (A)(1) of this section.
+
+(C) If the tax commissioner issues a corrected assessment or final determination under this section that reduces an assessment below the amount paid thereon, and the reduction is made at the written request of the party assessed, either through the filing of a proper petition for reassessment or otherwise, the commissioner shall certify any overpayment as a refund due only to the extent a refund could have been timely claimed when the request was made. If the reduction is made on the commissioner's own motion, the commissioner shall certify any overpayment as a refund due only to the extent a refund could have been timely claimed at the time the reduction was made.
+
+(D) The tax commissioner shall not issue a corrected assessment under division (A)(1) or (B) of this section after the party assessed has requested in writing that the commissioner not use that procedure.
+
+(E) This section does not require the tax commissioner to issue a corrected assessment.

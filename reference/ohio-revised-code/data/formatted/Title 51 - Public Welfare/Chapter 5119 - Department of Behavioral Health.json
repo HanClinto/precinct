@@ -1,0 +1,705 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 5119.01 - Definitions.",
+      "number": "5119.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.011 - References to department or director.",
+      "number": "5119.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.011"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.04 - Compliance with standards.",
+      "number": "5119.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.05 - Managing officer; duties.",
+      "number": "5119.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.051 - Books and accounts; form and method.",
+      "number": "5119.051",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.051"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.06 - Records.",
+      "number": "5119.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.07 - Businesses located near institutions.",
+      "number": "5119.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.08 - Appointing special police officers for institutions.",
+      "number": "5119.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.09 - Physician specialists.",
+      "number": "5119.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.091 - Attorney general duties.",
+      "number": "5119.091",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.091"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.10 - Director of behavioral health powers and duties.",
+      "number": "5119.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.11 - Medical director; qualifications; duties.",
+      "number": "5119.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.14 - Department of behavioral health powers and duties generally.",
+      "number": "5119.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.141 - Authority of department.",
+      "number": "5119.141",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.141"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.15 - Investigative powers.",
+      "number": "5119.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.161 - Joint state plan to improve accessibility and timeliness of alcohol and drug addiction services.",
+      "number": "5119.161",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.161"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.17 - Addicted pregnant women and their children.",
+      "number": "5119.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.171 - Youth prevention program.",
+      "number": "5119.171",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.171"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.18 - Classified and unclassified appointments.",
+      "number": "5119.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.181 - Certain convictions preclude appointments.",
+      "number": "5119.181",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.181"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.182 - Fidelity bond.",
+      "number": "5119.182",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.182"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.184 - Providing educational grants or tuition reimbursement for employees.",
+      "number": "5119.184",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.184"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.185 - Clinician recruitment program.",
+      "number": "5119.185",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.185"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.186 - Conduct collaborative training efforts for students.",
+      "number": "5119.186",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.186"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.187 - Courses of study for instruction and training of persons in institutions.",
+      "number": "5119.187",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.187"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.188 - Education and training program for employees of state correctional and youth services institutions.",
+      "number": "5119.188",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.188"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.19 - Psychotropic drug reimbursement program.",
+      "number": "5119.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.192 - Provision of overdose reversal drugs to hospitals.",
+      "number": "5119.192",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.192"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.20 - Electroencephalogram combined transcranial magnetic stimulation program.",
+      "number": "5119.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.201 - Real or personal property transactions.",
+      "number": "5119.201",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.201"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.21 - Support of community support system; powers and duties regarding programs and services.",
+      "number": "5119.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.211 - State certification of certified community behavioral health clinics.",
+      "number": "5119.211",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.211"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.22 - Director of behavioral health duties.",
+      "number": "5119.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.221 - Waiver or requirements; authority of director.",
+      "number": "5119.221",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.221"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.23 - Allocations of funds for local mental health and addiction services continuums of care.",
+      "number": "5119.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.24 - Annual report by boards specifying use of funds.",
+      "number": "5119.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.25 - Withholding of funds for failure to comply with statutory or regulatory provisions.",
+      "number": "5119.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.26 - Civil rights and liberties of patients.",
+      "number": "5119.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.27 - Confidentiality of records pertaining to identity, diagnosis or treatment.",
+      "number": "5119.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.28 - Confidentiality of records pertaining to person's mental health condition, assessment, provision of care or treatment, or payment for assessment, care or treatment.",
+      "number": "5119.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.29 - Tracking and monitoring after release of persons found not guilty by reason of insanity or persons found incompetent to stand trial.",
+      "number": "5119.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.30 - Program providing information and services to courts.",
+      "number": "5119.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.31 - Procedure for purchase of supplies.",
+      "number": "5119.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.311 - Examining mental and physical condition of confined person.",
+      "number": "5119.311",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.311"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.32 - Utilizing federal block grant funds.",
+      "number": "5119.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.33 - Inspecting and licensing of hospitals for mentally ill persons.",
+      "number": "5119.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.331 - Injunction.",
+      "number": "5119.331",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.331"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.332 - Payments and reimbursements to unlicensed hospital.",
+      "number": "5119.332",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.332"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.333 - Prohibiting keeping or maintaining unlicensed hospital.",
+      "number": "5119.333",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.333"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.334 - Notice of adverse action - hospitals.",
+      "number": "5119.334",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.334"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.34 - Inspecting and licensing of residential facilities.",
+      "number": "5119.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.341 - Operations as permitted use.",
+      "number": "5119.341",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.341"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.342 - Appointing receiver for residential facility.",
+      "number": "5119.342",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.342"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.343 - Notice of adverse action - residential facilities.",
+      "number": "5119.343",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.343"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.344 - Summary suspension of a class one residential facility serving children.",
+      "number": "5119.344",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.344"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.345 - Residential facility directory.",
+      "number": "5119.345",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.345"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.35 - Mental health and addiction services requiring certification.",
+      "number": "5119.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.36 - Certifying community mental health services or addiction services providers.",
+      "number": "5119.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.362 - Duties of community addiction services provider.",
+      "number": "5119.362",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.362"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.363 - Adoption of rules for community addiction services providers.",
+      "number": "5119.363",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.363"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.364 - Publication of reports.",
+      "number": "5119.364",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.364"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.365 - Rules regarding intake and retention procedures.",
+      "number": "5119.365",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.365"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.366 - Establishing grievance procedures.",
+      "number": "5119.366",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.366"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.367 - Adverse action related to certifiable services and supports.",
+      "number": "5119.367",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.367"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.368 - Telehealth services.",
+      "number": "5119.368",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.368"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.37 - Requirements to operate opioid addiction treatment programs.",
+      "number": "5119.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.371 - Location of opioid treatment programs.",
+      "number": "5119.371",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.371"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.38 - Drivers' intervention program.",
+      "number": "5119.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.39 - Certification or accreditation of recovery housing residences.",
+      "number": "5119.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.391 - Required form for recovery housing residence operator.",
+      "number": "5119.391",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.391"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.392 - Prohibition against operation without being certified or accredited.",
+      "number": "5119.392",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.392"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.393 - Complaint reporting and investigations.",
+      "number": "5119.393",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.393"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.394 - Registry of recovery housing residences.",
+      "number": "5119.394",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.394"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.395 - Prohibition against advertising without being certified or accredited.",
+      "number": "5119.395",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.395"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.396 - Prohibition against referrals.",
+      "number": "5119.396",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.396"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.397 - Rulemaking.",
+      "number": "5119.397",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.397"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.40 - Determination of services needed.",
+      "number": "5119.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.41 - Residential state supplement program.",
+      "number": "5119.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.42 - State aid for community construction programs.",
+      "number": "5119.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.421 - Replacement facility projects.",
+      "number": "5119.421",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.421"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.43 - Sale or lease of land or facilities.",
+      "number": "5119.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.431 - Acquiring real estate.",
+      "number": "5119.431",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.431"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.44 - Providing goods and services to certain departments, agencies, and institutions.",
+      "number": "5119.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.45 - Sale of goods and services fund.",
+      "number": "5119.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.46 - Department of behavioral health trust fund.",
+      "number": "5119.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.47 - Problem casino gambling and addictions fund; administration.",
+      "number": "5119.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.48 - All roads lead to home program.",
+      "number": "5119.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.49 - Director's collaboration in establishment and administration of drug take-back program.",
+      "number": "5119.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.50 - Administering funds held in trusts for benefit of institution or mentally ill persons.",
+      "number": "5119.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.51 - Services fund for individuals with mental illness.",
+      "number": "5119.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.52 - Industrial and entertainment fund; commissary fund.",
+      "number": "5119.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.54 - Funds.",
+      "number": "5119.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.55 - Payment for personal use of resident eligible for supplemental social security benefits.",
+      "number": "5119.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.56 - Money and property of patients.",
+      "number": "5119.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.60 - Annual report.",
+      "number": "5119.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.61 - Statistics concerning care, treatment and rehabilitation.",
+      "number": "5119.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.70 - Interstate compact on mental health.",
+      "number": "5119.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.71 - Duties of compact administrators.",
+      "number": "5119.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.72 - Supplementary agreements.",
+      "number": "5119.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.73 - Financial obligations.",
+      "number": "5119.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.81 - 9-8-8 hotline definitions.",
+      "number": "5119.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.82 - 9-8-8 hotline administration.",
+      "number": "5119.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.82"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.83 - 9-8-8 annual report.",
+      "number": "5119.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.83"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.84 - 9-8-8 fund.",
+      "number": "5119.84",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.84"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.85 - 9-8-8 hotline liability exemption.",
+      "number": "5119.85",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.85"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.89 - Consumer and payer education on mental health and addiction services insurance parity; hotline.",
+      "number": "5119.89",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.89"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.90 - Definitions for sections 5119.90 to 5119.98.",
+      "number": "5119.90",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.90"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.91 - Involuntary treatment for alcohol and other drug abuse.",
+      "number": "5119.91",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.91"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.92 - Criteria for involuntary treatment.",
+      "number": "5119.92",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.92"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.93 - Initiation of proceedings; petition.",
+      "number": "5119.93",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.93"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.94 - Examination of petitioner; hearing; notification of respondent; disposition.",
+      "number": "5119.94",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.94"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.95 - Seventy-two-hour emergency involuntary treatment.",
+      "number": "5119.95",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.95"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.96 - Issuance of summons; failure to attend examination; transportation to hospital.",
+      "number": "5119.96",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.96"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.97 - Lists of qualified hospitals and treatment providers.",
+      "number": "5119.97",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.97"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.98 - Applicability of R.C. 5119.26, 5119.27 and 5119.61.",
+      "number": "5119.98",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.98"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5119.99 - Penalties.",
+      "number": "5119.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5119.99"
+    }
+  ],
+  "scraped": "2026-07-02T20:10:42+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-5119",
+  "title": "Chapter 5119 - Department of Behavioral Health"
+}

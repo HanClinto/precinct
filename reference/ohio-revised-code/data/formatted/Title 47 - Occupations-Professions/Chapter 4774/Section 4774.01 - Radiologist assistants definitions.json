@@ -1,0 +1,68 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Radiologist assistant\" means an individual who assists a radiologist in the care of radiology patients by engaging in any of the activities authorized under section 4774.08 of the Revised Code.",
+      "id": "4774.01-radiologist-assistant",
+      "normalized": "radiologist assistant",
+      "scope": "As used in this chapter:",
+      "section": "4774.01",
+      "source_title": "Section 4774.01 - Radiologist assistants definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4774.01",
+      "term": "Radiologist assistant"
+    },
+    {
+      "definition": "(B) \"Radiologist\" means a physician who has successfully completed an approved radiology training program, as specified in the accreditation requirements that must be met to qualify as graduate medical education, as defined in section 4731.04 of the Revised Code.",
+      "id": "4774.01-radiologist",
+      "normalized": "radiologist",
+      "scope": "As used in this chapter:",
+      "section": "4774.01",
+      "source_title": "Section 4774.01 - Radiologist assistants definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4774.01",
+      "term": "Radiologist"
+    },
+    {
+      "definition": "(C) \"Radiology\" means the branch of medicine that deals with the use of radiation in diagnosis and treatment of disease or conditions.",
+      "id": "4774.01-radiology",
+      "normalized": "radiology",
+      "scope": "As used in this chapter:",
+      "section": "4774.01",
+      "source_title": "Section 4774.01 - Radiologist assistants definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4774.01",
+      "term": "Radiology"
+    },
+    {
+      "definition": "(D) \"Physician\" means an individual authorized under Chapter 4731. of the Revised Code to practice medicine and surgery or osteopathic medicine and surgery.\n\n(E) \"General anesthesia,\" \"deep sedation,\" \"moderate sedation,\" and \"minimal sedation\" have the meanings specified by the state medical board in rules adopted under section 4774.11 of the Revised Code.",
+      "id": "4774.01-physician",
+      "normalized": "physician",
+      "scope": "As used in this chapter:",
+      "section": "4774.01",
+      "source_title": "Section 4774.01 - Radiologist assistants definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4774.01",
+      "term": "Physician"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "4774.08",
+      "number": "4774.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4774.08"
+    },
+    {
+      "kind": "section",
+      "label": "4731.04",
+      "number": "4731.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.04"
+    },
+    {
+      "kind": "section",
+      "label": "4774.11",
+      "number": "4774.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4774.11"
+    }
+  ],
+  "scraped": "2026-07-02T20:08:23+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4774.01",
+  "title": "Section 4774.01 - Radiologist assistants definitions."
+}

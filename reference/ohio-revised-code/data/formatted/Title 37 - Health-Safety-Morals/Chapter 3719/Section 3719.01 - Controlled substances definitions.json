@@ -1,0 +1,424 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Administer\" means the direct application of a drug, whether by injection, inhalation, ingestion, or any other means to a person or an animal.",
+      "id": "3719.01-administer",
+      "normalized": "administer",
+      "scope": "As used in this chapter:",
+      "section": "3719.01",
+      "source_title": "Section 3719.01 - Controlled substances definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3719.01",
+      "term": "Administer"
+    },
+    {
+      "definition": "(B) \"Drug enforcement administration\" means the drug enforcement administration of the United States department of justice or its successor agency.",
+      "id": "3719.01-drug-enforcement-administration",
+      "normalized": "drug enforcement administration",
+      "scope": "As used in this chapter:",
+      "section": "3719.01",
+      "source_title": "Section 3719.01 - Controlled substances definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3719.01",
+      "term": "Drug enforcement administration"
+    },
+    {
+      "definition": "(C) \"Controlled substance\" means a drug, compound, mixture, preparation, or substance included in schedule I, II, III, IV, or V.",
+      "id": "3719.01-controlled-substance",
+      "normalized": "controlled substance",
+      "scope": "As used in this chapter:",
+      "section": "3719.01",
+      "source_title": "Section 3719.01 - Controlled substances definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3719.01",
+      "term": "Controlled substance"
+    },
+    {
+      "definition": "(D) \"Dangerous drug\" has the same meaning as in section 4729.01 of the Revised Code.",
+      "id": "3719.01-dangerous-drug",
+      "normalized": "dangerous drug",
+      "scope": "As used in this chapter:",
+      "section": "3719.01",
+      "source_title": "Section 3719.01 - Controlled substances definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3719.01",
+      "term": "Dangerous drug"
+    },
+    {
+      "definition": "(E) \"Dispense\" means to sell, leave with, give away, dispose of, or deliver.",
+      "id": "3719.01-dispense",
+      "normalized": "dispense",
+      "scope": "As used in this chapter:",
+      "section": "3719.01",
+      "source_title": "Section 3719.01 - Controlled substances definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3719.01",
+      "term": "Dispense"
+    },
+    {
+      "definition": "(F) \"Distribute\" means to deal in, ship, transport, or deliver but does not include administering or dispensing a drug.",
+      "id": "3719.01-distribute",
+      "normalized": "distribute",
+      "scope": "As used in this chapter:",
+      "section": "3719.01",
+      "source_title": "Section 3719.01 - Controlled substances definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3719.01",
+      "term": "Distribute"
+    },
+    {
+      "definition": "(G) \"Drug\" has the same meaning as in section 4729.01 of the Revised Code.\n\n(H) \"Drug abuse offense\" and \"felony drug abuse offense\" have the same meanings as in section 2925.01 of the Revised Code.",
+      "id": "3719.01-drug",
+      "normalized": "drug",
+      "scope": "As used in this chapter:",
+      "section": "3719.01",
+      "source_title": "Section 3719.01 - Controlled substances definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3719.01",
+      "term": "Drug"
+    },
+    {
+      "definition": "(I) \"Federal drug abuse control laws\" means the \"Comprehensive Drug Abuse Prevention and Control Act of 1970,\" 84 Stat. 1242, 21 U.S.C. 801, as amended.",
+      "id": "3719.01-federal-drug-abuse-control-laws",
+      "normalized": "federal drug abuse control laws",
+      "scope": "As used in this chapter:",
+      "section": "3719.01",
+      "source_title": "Section 3719.01 - Controlled substances definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3719.01",
+      "term": "Federal drug abuse control laws"
+    },
+    {
+      "definition": "(J) \"Hospital\" means a facility registered as a hospital with the department of health under section 3701.07 of the Revised Code.",
+      "id": "3719.01-hospital",
+      "normalized": "hospital",
+      "scope": "As used in this chapter:",
+      "section": "3719.01",
+      "source_title": "Section 3719.01 - Controlled substances definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3719.01",
+      "term": "Hospital"
+    },
+    {
+      "definition": "(K) \"Hypodermic\" means a hypodermic syringe or needle, or other instrument or device for the injection of medication.",
+      "id": "3719.01-hypodermic",
+      "normalized": "hypodermic",
+      "scope": "As used in this chapter:",
+      "section": "3719.01",
+      "source_title": "Section 3719.01 - Controlled substances definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3719.01",
+      "term": "Hypodermic"
+    },
+    {
+      "definition": "(L) \"Manufacturer\" means a person who manufactures a controlled substance, as \"manufacture\" is defined in section 3715.01 of the Revised Code, and includes a \"manufacturer of dangerous drugs\" as defined in section 4729.01 of the Revised Code.",
+      "id": "3719.01-manufacturer",
+      "normalized": "manufacturer",
+      "scope": "As used in this chapter:",
+      "section": "3719.01",
+      "source_title": "Section 3719.01 - Controlled substances definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3719.01",
+      "term": "Manufacturer"
+    },
+    {
+      "definition": "(M) \"Marihuana\" means all parts of a plant of the genus cannabis, whether growing or not; the seeds of a plant of that type; the resin extracted from a part of a plant of that type; and every compound, manufacture, salt, derivative, mixture, or preparation of a plant of that type or of its seeds or resin. \"Marihuana\" does not include the mature stalks of the plant, fiber produced from the stalks, oils or cake made from the seeds of the plant, or any other compound, manufacture, salt, derivative, mixture, or preparation of the mature stalks, except the resin extracted from the mature stalks, fiber, oil or cake, or the sterilized seed of the plant that is incapable of germination. \"Marihuana\" does not include \"hemp\" as that term is defined in section 928.01 of the Revised Code.\n\n(N) \"Narcotic drugs\" means coca leaves, opium, isonipecaine, amidone, isoamidone, ketobemidone, as defined in this division, and every substance not chemically distinguished from them and every drug, other than cannabis, that may be included in the meaning of \"narcotic drug\" under the federal drug abuse control laws. As used in this division:",
+      "id": "3719.01-marihuana",
+      "normalized": "marihuana",
+      "scope": "As used in this chapter:",
+      "section": "3719.01",
+      "source_title": "Section 3719.01 - Controlled substances definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3719.01",
+      "term": "Marihuana"
+    },
+    {
+      "definition": "(1) \"Coca leaves\" includes cocaine and any compound, manufacture, salt, derivative, mixture, or preparation of coca leaves, except derivatives of coca leaves, that does not contain cocaine, ecgonine, or substances from which cocaine or ecgonine may be synthesized or made.",
+      "id": "3719.01-coca-leaves",
+      "normalized": "coca leaves",
+      "scope": "(N) \"Narcotic drugs\" means coca leaves, opium, isonipecaine, amidone, isoamidone, ketobemidone, as defined in this division, and every substance not chemically distinguished from them and every drug, other than cannabis, that may be included in the meaning of \"narcotic drug\" under the federal drug abuse control laws. As used in this division:",
+      "section": "3719.01",
+      "source_title": "Section 3719.01 - Controlled substances definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3719.01",
+      "term": "Coca leaves"
+    },
+    {
+      "definition": "(2) \"Isonipecaine\" means any substance identified chemically as 1-methyl-4-phenyl-piperidine-4-carboxylic acid ethyl ester, or any salt thereof, by whatever trade name designated.",
+      "id": "3719.01-isonipecaine",
+      "normalized": "isonipecaine",
+      "scope": "(N) \"Narcotic drugs\" means coca leaves, opium, isonipecaine, amidone, isoamidone, ketobemidone, as defined in this division, and every substance not chemically distinguished from them and every drug, other than cannabis, that may be included in the meaning of \"narcotic drug\" under the federal drug abuse control laws. As used in this division:",
+      "section": "3719.01",
+      "source_title": "Section 3719.01 - Controlled substances definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3719.01",
+      "term": "Isonipecaine"
+    },
+    {
+      "definition": "(3) \"Amidone\" means any substance identified chemically as 4-4-diphenyl-6-dimethylamino-heptanone-3, or any salt thereof, by whatever trade name designated.",
+      "id": "3719.01-amidone",
+      "normalized": "amidone",
+      "scope": "(N) \"Narcotic drugs\" means coca leaves, opium, isonipecaine, amidone, isoamidone, ketobemidone, as defined in this division, and every substance not chemically distinguished from them and every drug, other than cannabis, that may be included in the meaning of \"narcotic drug\" under the federal drug abuse control laws. As used in this division:",
+      "section": "3719.01",
+      "source_title": "Section 3719.01 - Controlled substances definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3719.01",
+      "term": "Amidone"
+    },
+    {
+      "definition": "(4) \"Isoamidone\" means any substance identified chemically as 4-4-diphenyl-5-methyl-6-dimethylaminohexanone-3, or any salt thereof, by whatever trade name designated.",
+      "id": "3719.01-isoamidone",
+      "normalized": "isoamidone",
+      "scope": "(N) \"Narcotic drugs\" means coca leaves, opium, isonipecaine, amidone, isoamidone, ketobemidone, as defined in this division, and every substance not chemically distinguished from them and every drug, other than cannabis, that may be included in the meaning of \"narcotic drug\" under the federal drug abuse control laws. As used in this division:",
+      "section": "3719.01",
+      "source_title": "Section 3719.01 - Controlled substances definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3719.01",
+      "term": "Isoamidone"
+    },
+    {
+      "definition": "(5) \"Ketobemidone\" means any substance identified chemically as 4-(3-hydroxyphenyl)-1-methyl-4-piperidyl ethyl ketone hydrochloride, or any salt thereof, by whatever trade name designated.",
+      "id": "3719.01-ketobemidone",
+      "normalized": "ketobemidone",
+      "scope": "(N) \"Narcotic drugs\" means coca leaves, opium, isonipecaine, amidone, isoamidone, ketobemidone, as defined in this division, and every substance not chemically distinguished from them and every drug, other than cannabis, that may be included in the meaning of \"narcotic drug\" under the federal drug abuse control laws. As used in this division:",
+      "section": "3719.01",
+      "source_title": "Section 3719.01 - Controlled substances definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3719.01",
+      "term": "Ketobemidone"
+    },
+    {
+      "definition": "(6) \"Cocaine\" has the same meaning as in section 2925.01 of the Revised Code.",
+      "id": "3719.01-cocaine",
+      "normalized": "cocaine",
+      "scope": "(N) \"Narcotic drugs\" means coca leaves, opium, isonipecaine, amidone, isoamidone, ketobemidone, as defined in this division, and every substance not chemically distinguished from them and every drug, other than cannabis, that may be included in the meaning of \"narcotic drug\" under the federal drug abuse control laws. As used in this division:",
+      "section": "3719.01",
+      "source_title": "Section 3719.01 - Controlled substances definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3719.01",
+      "term": "Cocaine"
+    },
+    {
+      "definition": "(O) \"Official written order\" means an order written on a form provided for that purpose by the director of the United States drug enforcement administration, under any laws of the United States making provision for the order, if the order forms are authorized and required by federal law.",
+      "id": "3719.01-official-written-order",
+      "normalized": "official written order",
+      "scope": "(N) \"Narcotic drugs\" means coca leaves, opium, isonipecaine, amidone, isoamidone, ketobemidone, as defined in this division, and every substance not chemically distinguished from them and every drug, other than cannabis, that may be included in the meaning of \"narcotic drug\" under the federal drug abuse control laws. As used in this division:",
+      "section": "3719.01",
+      "source_title": "Section 3719.01 - Controlled substances definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3719.01",
+      "term": "Official written order"
+    },
+    {
+      "definition": "(P) \"Person\" means any individual, corporation, government, governmental subdivision or agency, business trust, estate, trust, partnership, association, or other legal entity.",
+      "id": "3719.01-person",
+      "normalized": "person",
+      "scope": "(N) \"Narcotic drugs\" means coca leaves, opium, isonipecaine, amidone, isoamidone, ketobemidone, as defined in this division, and every substance not chemically distinguished from them and every drug, other than cannabis, that may be included in the meaning of \"narcotic drug\" under the federal drug abuse control laws. As used in this division:",
+      "section": "3719.01",
+      "source_title": "Section 3719.01 - Controlled substances definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3719.01",
+      "term": "Person"
+    },
+    {
+      "definition": "(Q) \"Pharmacist\" means a person licensed under Chapter 4729. of the Revised Code to engage in the practice of pharmacy.",
+      "id": "3719.01-pharmacist",
+      "normalized": "pharmacist",
+      "scope": "(N) \"Narcotic drugs\" means coca leaves, opium, isonipecaine, amidone, isoamidone, ketobemidone, as defined in this division, and every substance not chemically distinguished from them and every drug, other than cannabis, that may be included in the meaning of \"narcotic drug\" under the federal drug abuse control laws. As used in this division:",
+      "section": "3719.01",
+      "source_title": "Section 3719.01 - Controlled substances definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3719.01",
+      "term": "Pharmacist"
+    },
+    {
+      "definition": "(R) \"Pharmacy\" has the same meaning as in section 4729.01 of the Revised Code.",
+      "id": "3719.01-pharmacy",
+      "normalized": "pharmacy",
+      "scope": "(N) \"Narcotic drugs\" means coca leaves, opium, isonipecaine, amidone, isoamidone, ketobemidone, as defined in this division, and every substance not chemically distinguished from them and every drug, other than cannabis, that may be included in the meaning of \"narcotic drug\" under the federal drug abuse control laws. As used in this division:",
+      "section": "3719.01",
+      "source_title": "Section 3719.01 - Controlled substances definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3719.01",
+      "term": "Pharmacy"
+    },
+    {
+      "definition": "(S) \"Poison\" means any drug, chemical, or preparation likely to be deleterious or destructive to adult human life in quantities of four grams or less.\n\n(T) \"Licensed health professional authorized to prescribe drugs,\" \"prescriber,\" and \"prescription\" have the same meanings as in section 4729.01 of the Revised Code.",
+      "id": "3719.01-poison",
+      "normalized": "poison",
+      "scope": "(N) \"Narcotic drugs\" means coca leaves, opium, isonipecaine, amidone, isoamidone, ketobemidone, as defined in this division, and every substance not chemically distinguished from them and every drug, other than cannabis, that may be included in the meaning of \"narcotic drug\" under the federal drug abuse control laws. As used in this division:",
+      "section": "3719.01",
+      "source_title": "Section 3719.01 - Controlled substances definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3719.01",
+      "term": "Poison"
+    },
+    {
+      "definition": "(U) \"Sale\" includes delivery, barter, exchange, transfer, or gift, or offer thereof, and each transaction of those natures made by any person, whether as principal, proprietor, agent, servant, or employee.",
+      "id": "3719.01-sale",
+      "normalized": "sale",
+      "scope": "(N) \"Narcotic drugs\" means coca leaves, opium, isonipecaine, amidone, isoamidone, ketobemidone, as defined in this division, and every substance not chemically distinguished from them and every drug, other than cannabis, that may be included in the meaning of \"narcotic drug\" under the federal drug abuse control laws. As used in this division:",
+      "section": "3719.01",
+      "source_title": "Section 3719.01 - Controlled substances definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3719.01",
+      "term": "Sale"
+    },
+    {
+      "definition": "(V) \"Schedule I,\" \"schedule II,\" \"schedule III,\" \"schedule IV,\" and \"schedule V\" mean controlled substance schedules I, II, III, IV, and V, respectively, as established by rule adopted under section 3719.41 of the Revised Code, as amended pursuant to section 3719.43 or 3719.44 of the Revised Code, or as established by emergency rule adopted under section 3719.45 of the Revised Code.",
+      "id": "3719.01-schedule-i",
+      "normalized": "schedule i,",
+      "scope": "(N) \"Narcotic drugs\" means coca leaves, opium, isonipecaine, amidone, isoamidone, ketobemidone, as defined in this division, and every substance not chemically distinguished from them and every drug, other than cannabis, that may be included in the meaning of \"narcotic drug\" under the federal drug abuse control laws. As used in this division:",
+      "section": "3719.01",
+      "source_title": "Section 3719.01 - Controlled substances definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3719.01",
+      "term": "Schedule I,"
+    },
+    {
+      "definition": "(V) \"Schedule I,\" \"schedule II,\" \"schedule III,\" \"schedule IV,\" and \"schedule V\" mean controlled substance schedules I, II, III, IV, and V, respectively, as established by rule adopted under section 3719.41 of the Revised Code, as amended pursuant to section 3719.43 or 3719.44 of the Revised Code, or as established by emergency rule adopted under section 3719.45 of the Revised Code.",
+      "id": "3719.01-schedule-ii",
+      "normalized": "schedule ii,",
+      "scope": "(N) \"Narcotic drugs\" means coca leaves, opium, isonipecaine, amidone, isoamidone, ketobemidone, as defined in this division, and every substance not chemically distinguished from them and every drug, other than cannabis, that may be included in the meaning of \"narcotic drug\" under the federal drug abuse control laws. As used in this division:",
+      "section": "3719.01",
+      "source_title": "Section 3719.01 - Controlled substances definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3719.01",
+      "term": "schedule II,"
+    },
+    {
+      "definition": "(V) \"Schedule I,\" \"schedule II,\" \"schedule III,\" \"schedule IV,\" and \"schedule V\" mean controlled substance schedules I, II, III, IV, and V, respectively, as established by rule adopted under section 3719.41 of the Revised Code, as amended pursuant to section 3719.43 or 3719.44 of the Revised Code, or as established by emergency rule adopted under section 3719.45 of the Revised Code.",
+      "id": "3719.01-schedule-iii",
+      "normalized": "schedule iii,",
+      "scope": "(N) \"Narcotic drugs\" means coca leaves, opium, isonipecaine, amidone, isoamidone, ketobemidone, as defined in this division, and every substance not chemically distinguished from them and every drug, other than cannabis, that may be included in the meaning of \"narcotic drug\" under the federal drug abuse control laws. As used in this division:",
+      "section": "3719.01",
+      "source_title": "Section 3719.01 - Controlled substances definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3719.01",
+      "term": "schedule III,"
+    },
+    {
+      "definition": "(V) \"Schedule I,\" \"schedule II,\" \"schedule III,\" \"schedule IV,\" and \"schedule V\" mean controlled substance schedules I, II, III, IV, and V, respectively, as established by rule adopted under section 3719.41 of the Revised Code, as amended pursuant to section 3719.43 or 3719.44 of the Revised Code, or as established by emergency rule adopted under section 3719.45 of the Revised Code.",
+      "id": "3719.01-schedule-iv",
+      "normalized": "schedule iv,",
+      "scope": "(N) \"Narcotic drugs\" means coca leaves, opium, isonipecaine, amidone, isoamidone, ketobemidone, as defined in this division, and every substance not chemically distinguished from them and every drug, other than cannabis, that may be included in the meaning of \"narcotic drug\" under the federal drug abuse control laws. As used in this division:",
+      "section": "3719.01",
+      "source_title": "Section 3719.01 - Controlled substances definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3719.01",
+      "term": "schedule IV,"
+    },
+    {
+      "definition": "(V) \"Schedule I,\" \"schedule II,\" \"schedule III,\" \"schedule IV,\" and \"schedule V\" mean controlled substance schedules I, II, III, IV, and V, respectively, as established by rule adopted under section 3719.41 of the Revised Code, as amended pursuant to section 3719.43 or 3719.44 of the Revised Code, or as established by emergency rule adopted under section 3719.45 of the Revised Code.",
+      "id": "3719.01-schedule-v",
+      "normalized": "schedule v",
+      "scope": "(N) \"Narcotic drugs\" means coca leaves, opium, isonipecaine, amidone, isoamidone, ketobemidone, as defined in this division, and every substance not chemically distinguished from them and every drug, other than cannabis, that may be included in the meaning of \"narcotic drug\" under the federal drug abuse control laws. As used in this division:",
+      "section": "3719.01",
+      "source_title": "Section 3719.01 - Controlled substances definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3719.01",
+      "term": "schedule V"
+    },
+    {
+      "definition": "(W) \"Wholesaler\" means a person who, on official written orders other than prescriptions, supplies controlled substances that the person has not manufactured, produced, or prepared personally and includes a \"wholesale distributor of dangerous drugs\" as defined in section 4729.01 of the Revised Code.",
+      "id": "3719.01-wholesaler",
+      "normalized": "wholesaler",
+      "scope": "(N) \"Narcotic drugs\" means coca leaves, opium, isonipecaine, amidone, isoamidone, ketobemidone, as defined in this division, and every substance not chemically distinguished from them and every drug, other than cannabis, that may be included in the meaning of \"narcotic drug\" under the federal drug abuse control laws. As used in this division:",
+      "section": "3719.01",
+      "source_title": "Section 3719.01 - Controlled substances definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3719.01",
+      "term": "Wholesaler"
+    },
+    {
+      "definition": "(X) \"Animal shelter\" means a facility operated by a humane society or any society organized under Chapter 1717. of the Revised Code or a dog pound operated pursuant to Chapter 955. of the Revised Code.",
+      "id": "3719.01-animal-shelter",
+      "normalized": "animal shelter",
+      "scope": "(N) \"Narcotic drugs\" means coca leaves, opium, isonipecaine, amidone, isoamidone, ketobemidone, as defined in this division, and every substance not chemically distinguished from them and every drug, other than cannabis, that may be included in the meaning of \"narcotic drug\" under the federal drug abuse control laws. As used in this division:",
+      "section": "3719.01",
+      "source_title": "Section 3719.01 - Controlled substances definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3719.01",
+      "term": "Animal shelter"
+    },
+    {
+      "definition": "(Y) \"Terminal distributor of dangerous drugs\" has the same meaning as in section 4729.01 of the Revised Code.",
+      "id": "3719.01-terminal-distributor-of-dangerous-drugs",
+      "normalized": "terminal distributor of dangerous drugs",
+      "scope": "(N) \"Narcotic drugs\" means coca leaves, opium, isonipecaine, amidone, isoamidone, ketobemidone, as defined in this division, and every substance not chemically distinguished from them and every drug, other than cannabis, that may be included in the meaning of \"narcotic drug\" under the federal drug abuse control laws. As used in this division:",
+      "section": "3719.01",
+      "source_title": "Section 3719.01 - Controlled substances definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3719.01",
+      "term": "Terminal distributor of dangerous drugs"
+    },
+    {
+      "definition": "(Z)(1) \"Controlled substance analog\" means, except as provided in division (Z)(2) of this section, a substance to which both of the following apply:\n\n(a) The chemical structure of the substance is substantially similar to the structure of a controlled substance in schedule I or II.\n\n(b) One of the following applies regarding the substance:\n\n(i) The substance has a stimulant, depressant, or hallucinogenic effect on the central nervous system that is substantially similar to or greater than the stimulant, depressant, or hallucinogenic effect on the central nervous system of a controlled substance in schedule I or II.\n\n(ii) With respect to a particular person, that person represents or intends the substance to have a stimulant, depressant, or hallucinogenic effect on the central nervous system that is substantially similar to or greater than the stimulant, depressant, or hallucinogenic effect on the central nervous system of a controlled substance in schedule I or II.",
+      "id": "3719.01-controlled-substance-analog",
+      "normalized": "controlled substance analog",
+      "scope": "(N) \"Narcotic drugs\" means coca leaves, opium, isonipecaine, amidone, isoamidone, ketobemidone, as defined in this division, and every substance not chemically distinguished from them and every drug, other than cannabis, that may be included in the meaning of \"narcotic drug\" under the federal drug abuse control laws. As used in this division:",
+      "section": "3719.01",
+      "source_title": "Section 3719.01 - Controlled substances definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3719.01",
+      "term": "Controlled substance analog"
+    },
+    {
+      "definition": "(2) \"Controlled substance analog\" does not include any of the following:\n\n(a) A controlled substance;\n\n(b) Any substance for which there is an approved new drug application;\n\n(c) With respect to a particular person, any substance if an exemption is in effect for investigational use for that person pursuant to federal law to the extent that conduct with respect to that substance is pursuant to that exemption;\n\n(d) Any substance to the extent it is not intended for human consumption before the exemption described in division (Z)(2)(b) of this section takes effect with respect to that substance.",
+      "id": "3719.01-controlled-substance-analog",
+      "normalized": "controlled substance analog",
+      "scope": "(N) \"Narcotic drugs\" means coca leaves, opium, isonipecaine, amidone, isoamidone, ketobemidone, as defined in this division, and every substance not chemically distinguished from them and every drug, other than cannabis, that may be included in the meaning of \"narcotic drug\" under the federal drug abuse control laws. As used in this division:",
+      "section": "3719.01",
+      "source_title": "Section 3719.01 - Controlled substances definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3719.01",
+      "term": "Controlled substance analog"
+    },
+    {
+      "definition": "(AA) \"Benzodiazepine\" means a controlled substance that has United States food and drug administration approved labeling indicating that it is a benzodiazepine, benzodiazepine derivative, triazolobenzodiazepine, or triazolobenzodiazepine derivative, including the following drugs and their varying salt forms or chemical congeners: alprazolam, chlordiazepoxide hydrochloride, clobazam, clonazepam, clorazepate, diazepam, estazolam, flurazepam hydrochloride, lorazepam, midazolam, oxazepam, quazepam, temazepam, and triazolam.",
+      "id": "3719.01-benzodiazepine",
+      "normalized": "benzodiazepine",
+      "scope": "(N) \"Narcotic drugs\" means coca leaves, opium, isonipecaine, amidone, isoamidone, ketobemidone, as defined in this division, and every substance not chemically distinguished from them and every drug, other than cannabis, that may be included in the meaning of \"narcotic drug\" under the federal drug abuse control laws. As used in this division:",
+      "section": "3719.01",
+      "source_title": "Section 3719.01 - Controlled substances definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3719.01",
+      "term": "Benzodiazepine"
+    },
+    {
+      "definition": "(BB) \"Opioid analgesic\" means a controlled substance that has analgesic pharmacologic activity at the opioid receptors of the central nervous system, including the following drugs and their varying salt forms or chemical congeners: buprenorphine, butorphanol, codeine (including acetaminophen and other combination products), dihydrocodeine, fentanyl, hydrocodone (including acetaminophen combination products), hydromorphone, meperidine, methadone, morphine sulfate, oxycodone (including acetaminophen, aspirin, and other combination products), oxymorphone, tapentadol, and tramadol.\n\n(CC) \"Outsourcing facility,\" \"repackager of dangerous drugs,\" and \"third-party logistics provider\" have the same meanings as in section 4729.01 of the Revised Code.\n\nLast updated January 16, 2026 at 11:52 AM",
+      "id": "3719.01-opioid-analgesic",
+      "normalized": "opioid analgesic",
+      "scope": "(N) \"Narcotic drugs\" means coca leaves, opium, isonipecaine, amidone, isoamidone, ketobemidone, as defined in this division, and every substance not chemically distinguished from them and every drug, other than cannabis, that may be included in the meaning of \"narcotic drug\" under the federal drug abuse control laws. As used in this division:",
+      "section": "3719.01",
+      "source_title": "Section 3719.01 - Controlled substances definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3719.01",
+      "term": "Opioid analgesic"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "4729.01",
+      "number": "4729.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.01"
+    },
+    {
+      "kind": "section",
+      "label": "2925.01",
+      "number": "2925.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2925.01"
+    },
+    {
+      "kind": "section",
+      "label": "3701.07",
+      "number": "3701.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3701.07"
+    },
+    {
+      "kind": "section",
+      "label": "3715.01",
+      "number": "3715.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.01"
+    },
+    {
+      "kind": "section",
+      "label": "928.01",
+      "number": "928.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-928.01"
+    },
+    {
+      "kind": "section",
+      "label": "3719.41",
+      "number": "3719.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3719.41"
+    },
+    {
+      "kind": "section",
+      "label": "3719.43",
+      "number": "3719.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3719.43"
+    },
+    {
+      "kind": "section",
+      "label": "3719.44",
+      "number": "3719.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3719.44"
+    },
+    {
+      "kind": "section",
+      "label": "3719.45",
+      "number": "3719.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3719.45"
+    }
+  ],
+  "scraped": "2026-07-02T19:51:34+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3719.01",
+  "title": "Section 3719.01 - Controlled substances definitions."
+}

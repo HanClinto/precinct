@@ -1,0 +1,48 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5160.40
+Scraped: 2026-07-02T20:11:16+00:00
+
+# Section 5160.40 - Third-party duties; medicaid managed care organizations.
+
+**Effective:** October 3, 2023
+
+**Latest Legislation:** House Bill 33 - 135th General Assembly
+
+(A) As used in this section, "business day" means any day of the week excluding Saturday, Sunday, and a legal holiday, as defined in section 1.14 of the Revised Code.
+
+(B) Subject to divisions (C) and (D) of this section, a third party shall do all of the following:
+
+(1) Accept the department of medicaid's right of recovery under section 5160.37 of the Revised Code and the assignment of rights to the department that are described in section 5160.38 of the Revised Code;
+
+(2) Respond to an inquiry by the department regarding a claim for payment of a medical item or service that was submitted to the third party not later than six years after the date of the provision of such medical item or service;
+
+(3) Respond to the department's request for payment of a claim described in division (B)(2) of this section not later than sixty business days after receipt of written proof of the claim, either by paying the claim or issuing a written denial to the department;
+
+(4) Not charge a fee to do either of the following for a claim described in division (B)(2) of this section:
+
+(a) Determine whether the claim should be paid;
+
+(b) Process the claim.
+
+(5) Pay a claim described in division (B)(2) of this section;
+
+(6) Not deny a claim submitted by the department solely on the basis of the date of submission of the claim, type or format of the claim form, or a failure by the medical assistance recipient who is the subject of the claim to present proper documentation of coverage at the time of service, if both of the following have occurred:
+
+(a) The claim was submitted by the department not later than six years after the date of the provision of the medical item or service.
+
+(b) An action by the department to enforce its right of recovery under section 5160.37 of the Revised Code on the claim was commenced not later than six years after the department's submission of the claim.
+
+(7) Consider the department's payment of a claim for a medical item or service to be the equivalent of the medical assistance recipient having obtained prior authorization for the item or service from the third party;
+
+(8) Not deny a claim described in division (B)(7) of this section that is submitted by the department solely on the basis of the medical assistance recipient's failure to obtain prior authorization for the medical item or service.
+
+(C) For purposes of the requirements in division (B) of this section, a third party shall treat a medicaid managed care organization as the department for a claim if the individual who is the subject of the claim received a medical item or service through a medicaid managed care organization and the department has assigned its right of recovery for the claim to the medicaid managed care organization. Even if the department assigned its right of recovery to a medicaid managed care organization, the department may, beginning one year from the date the organization paid the claim, recoup from a third party an amount that was assigned to the organization but not collected.
+
+(D) If the department of medicaid, as permitted by division (K) of section 5160.37 of the Revised Code, assigns to a medical assistance provider the department's right of recovery for a claim for which it has notified the provider that it intends to recoup its prior payment for a claim, a third party shall treat the provider as the department and shall pay the provider the greater of the following:
+
+(1) The amount the department intends to recoup from the provider for the claim.
+
+(2) If the third party and the provider have an agreement that requires the third party to pay the provider at the time the provider presents the claim to the third party, the amount that is to be paid under that agreement.
+
+(E) The time limitations associated with the requirements in divisions (B)(2) and (6) of this section apply only to submissions of claims to, and payments of claims by, a health insurer to which the "Social Security Act," section 1902(a)(25)(I), 42 U.S.C. 1396a(a)(25)(I), applies.
+
+Last updated October 6, 2023 at 11:55 AM

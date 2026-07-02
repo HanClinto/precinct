@@ -1,0 +1,489 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 5124.01 - Definitions.",
+      "number": "5124.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.02 - Assumption of powers and duties regarding medicaid program's coverage of ICF/IID services.",
+      "number": "5124.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.03 - Rules.",
+      "number": "5124.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.05 - Scope of coverage.",
+      "number": "5124.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.06 - Eligibility to enter into provider agreements.",
+      "number": "5124.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.07 - Department provider agreements; contents.",
+      "number": "5124.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.071 - Agreements with more than one ICF/IID.",
+      "number": "5124.071",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.071"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.072 - Revalidation of agreements.",
+      "number": "5124.072",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.072"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.08 - Provider agreements with ICF/IID providers.",
+      "number": "5124.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.081 - Resident's cause of action for breach.",
+      "number": "5124.081",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.081"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.10 - Cost reports.",
+      "number": "5124.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.101 - Cost reports for downsized or partially converted provider.",
+      "number": "5124.101",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.101"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.102 - Fines paid excluded from reports.",
+      "number": "5124.102",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.102"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.103 - Form of cost reports.",
+      "number": "5124.103",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.103"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.104 - Duties of department.",
+      "number": "5124.104",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.104"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.105 - Addendum for disputed costs.",
+      "number": "5124.105",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.105"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.106 - Failure to timely file report; consequences.",
+      "number": "5124.106",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.106"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.107 - Amendments to reports.",
+      "number": "5124.107",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.107"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.108 - Desk review.",
+      "number": "5124.108",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.108"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.109 - Audits.",
+      "number": "5124.109",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.109"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.15 - Amount of payments.",
+      "number": "5124.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.151 - Initial rates for services provided by a new ICF/IID.",
+      "number": "5124.151",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.151"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.152 - Payment rate for service provided by outlier ICF/IID or unit.",
+      "number": "5124.152",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.152"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.153 - Payment rate for services provided to resident who meets criteria for admission to outlier ICF/IID or unit.",
+      "number": "5124.153",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.153"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.154 - Computing rate for services provided by developmental centers.",
+      "number": "5124.154",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.154"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.17 - ICF/IID's per medicaid day capital component rate.",
+      "number": "5124.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.19 - ICF/IID's per medicaid day direct care costs component rate.",
+      "number": "5124.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.191 - Definition of ICF/IID resident; assessment of residents.",
+      "number": "5124.191",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.191"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.192 - Acuity groups for purpose of assigning case-mix scores.",
+      "number": "5124.192",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.192"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.193 - Quarterly determination of case-mix scores.",
+      "number": "5124.193",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.193"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.194 - Changes to instructions, guidelines, or methodology.",
+      "number": "5124.194",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.194"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.21 - Per medicaid day indirect care costs component rate.",
+      "number": "5124.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.23 - Per medicaid day other protected costs component rate.",
+      "number": "5124.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.24 - Determination of per medicaid day quality incentive payment.",
+      "number": "5124.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.25 - Payment of medicaid rate add-on for outlier services provided for ventilator-dependent residents.",
+      "number": "5124.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.26 - Payment of medicaid rate add-on for outlier ICF/IID services.",
+      "number": "5124.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.29 - Limiting compensation of owners, their relatives, administrators, and resident meals outside facility.",
+      "number": "5124.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.30 - Costs of goods furnished by related party.",
+      "number": "5124.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.31 - Adjustment of payment rates.",
+      "number": "5124.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.32 - Reduction in rate not permitted.",
+      "number": "5124.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.33 - No payment for day of discharge.",
+      "number": "5124.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.34 - Payment for reserving beds.",
+      "number": "5124.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.35 - Timing of payments after involuntary termination.",
+      "number": "5124.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.37 - Timing of payments; calculations.",
+      "number": "5124.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.38 - Process for reconsideration of rates.",
+      "number": "5124.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.40 - Adjustment of rates.",
+      "number": "5124.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.41 - Redetermination of rates.",
+      "number": "5124.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.42 - Additional penalties.",
+      "number": "5124.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.43 - Determination of interest rate.",
+      "number": "5124.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.44 - Deductions.",
+      "number": "5124.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.45 - Deposits to general revenue fund.",
+      "number": "5124.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.46 - Adjudications under the administrative procedure act.",
+      "number": "5124.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.50 - Notice of facility closure or voluntary termination.",
+      "number": "5124.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.51 - Notice of change of operator.",
+      "number": "5124.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.511 - Agreements with entering operators effective on date of change of operator.",
+      "number": "5124.511",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.511"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.512 - Agreements with entering operators effective at a later date.",
+      "number": "5124.512",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.512"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.513 - Entering operator duties under provider agreement.",
+      "number": "5124.513",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.513"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.514 - Exiting operator deemed operator pending change.",
+      "number": "5124.514",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.514"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.515 - Provider agreement with operator not complying with prior agreement.",
+      "number": "5124.515",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.515"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.516 - Medicaid reimbursement adjustments; change of operator.",
+      "number": "5124.516",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.516"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.517 - Determination that a change of operator has or has not occurred; effect.",
+      "number": "5124.517",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.517"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.52 - Overpayment amounts determined following notice of closure, etc.",
+      "number": "5124.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.521 - Withholding from medicaid payment due exiting operator.",
+      "number": "5124.521",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.521"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.522 - Cost report by exiting operator; waiver.",
+      "number": "5124.522",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.522"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.523 - Failure to file cost report; payments deemed overpayments.",
+      "number": "5124.523",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.523"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.524 - Final payment withheld pending receipt of cost reports.",
+      "number": "5124.524",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.524"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.525 - Determination of debt of exiting operator; summary report.",
+      "number": "5124.525",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.525"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.526 - Release of amount withheld less amounts owed.",
+      "number": "5124.526",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.526"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.527 - Release of amount withheld on postponement of change of operator.",
+      "number": "5124.527",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.527"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.528 - Disposition of amounts withheld from payment due an exiting operator.",
+      "number": "5124.528",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.528"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.53 - Adoption of rules for implementation of sections 5124.50 to 5124.53.",
+      "number": "5124.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.60 - Conversion of beds to home and community-based services.",
+      "number": "5124.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.61 - Conversion of beds in acquired ICF/IID.",
+      "number": "5124.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.62 - Request for federal approval of conversion of beds.",
+      "number": "5124.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.65 - Reconversion of beds to ICF/IID use.",
+      "number": "5124.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.68 - Admission as resident in an ICF/IID with medicaid-certified capacity exceeding eight.",
+      "number": "5124.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.68"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.69 - Informational pamphlet.",
+      "number": "5124.69",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.69"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.70 - Maximum number of residents per sleeping room.",
+      "number": "5124.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.75 - Conversion of ICF/IID beds to OhioRISE program.",
+      "number": "5124.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5124.99 - Penalty for violation of cost reporting provisions.",
+      "number": "5124.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5124.99"
+    }
+  ],
+  "scraped": "2026-07-02T20:10:56+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-5124",
+  "title": "Chapter 5124 - Intermediate Care Facility for Individuals with Intellectual Disabilities Services"
+}

@@ -1,0 +1,50 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-718.38
+Scraped: 2026-07-02T19:33:25+00:00
+
+# Section 718.38 - Request for opinion of the tax administrator.
+
+**Effective:** March 23, 2015
+
+**Latest Legislation:** House Bill 5 - 130th General Assembly
+
+(A) An "opinion of the tax administrator" means an opinion issued under this section with respect to prospective municipal income tax liability. It does not include ordinary correspondence of the tax administrator.
+
+(B) A taxpayer may submit a written request for an opinion of the tax administrator as to whether or how certain income, source of income, or a certain activity or transaction will be taxed. The written response of the tax administrator shall be an "opinion of the tax administrator" and shall bind the tax administrator, in accordance with divisions (C), (G), and (H) of this section, provided all of the following conditions are satisfied:
+
+(1) The taxpayer's request fully and accurately describes the specific facts or circumstances relevant to a determination of the taxability of the income, source of income, activity, or transaction, and, if an activity or transaction, all parties involved in the activity or transaction are clearly identified by name, location, or other pertinent facts.
+
+(2) The request relates to a tax imposed by the municipal corporation in accordance with this chapter.
+
+(3) The tax administrator's response is signed by the tax administrator and designated as an "opinion of the tax administrator."
+
+(C) An opinion of the tax administrator shall remain in effect and shall protect the taxpayer for whom the opinion was prepared and who reasonably relies on it from liability for any taxes, penalty, or interest otherwise chargeable on the activity or transaction specifically held by the tax administrator's opinion to be taxable in a particular manner or not to be subject to taxation for any taxable years that may be specified in the opinion, or until the earliest of the following dates:
+
+(1) The effective date of a written revocation by the tax administrator sent to the taxpayer by certified mail, return receipt requested. The effective date of the revocation shall be the taxpayer's date of receipt or one year after the issuance of the opinion, whichever is later;
+
+(2) The effective date of any amendment or enactment of a relevant section of the Revised Code, uncodified state law, or the municipal corporation's income tax ordinance that would substantially change the analysis and conclusion of the opinion of the tax administrator;
+
+(3) The date on which a court issues an opinion establishing or changing relevant case law with respect to the Revised Code, uncodified state law, or the municipal corporation's income tax ordinance;
+
+(4) If the opinion of the tax administrator was based on the interpretation of federal law, the effective date of any change in the relevant federal statutes or regulations, or the date on which a court issues an opinion establishing or changing relevant case law with respect to federal statutes or regulations;
+
+(5) The effective date of any change in the taxpayer's material facts or circumstances;
+
+(6) The effective date of the expiration of the opinion, if specified in the opinion.
+
+(D) A taxpayer is not relieved of tax liability for any activity or transaction related to a request for an opinion that contained any misrepresentation or omission of one or more material facts.
+
+(E) If a tax administrator provides written advice under this section, the opinion shall include a statement that:
+
+(1) The tax consequences stated in the opinion may be subject to change for any of the reasons stated in division (C) of this section;
+
+(2) It is the duty of the taxpayer to be aware of such changes.
+
+(F) A tax administrator may refuse to offer an opinion on any request received under this section.
+
+(G) This section binds a tax administrator only with respect to opinions of the tax administrator issued on or after January 1, 2016.
+
+(H) An opinion of a tax administrator binds that tax administrator only with respect to the taxpayer for whom the opinion was prepared and does not bind the tax administrator of any other municipal corporation.
+
+(I) A tax administrator shall make available the text of all opinions issued under this section, except those opinions prepared for a taxpayer who has requested that the text of the opinion remain confidential. In no event shall the text of an opinion be made available until the tax administrator has removed all information that identifies the taxpayer and any other parties involved in the activity or transaction.
+
+(J) An opinion of the tax administrator issued under this section may not be appealed.

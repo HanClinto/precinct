@@ -1,0 +1,82 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Current taxes\" has the same meaning as in section 323.01 of the Revised Code.",
+      "id": "321.341-current-taxes",
+      "normalized": "current taxes",
+      "scope": "(D) As used in the section:",
+      "section": "321.341",
+      "source_title": "Section 321.341 - Advance payment of unpaid taxes to taxing districts.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-321.341",
+      "term": "Current taxes"
+    },
+    {
+      "definition": "(2) \"Current year unpaid taxes\" means the aggregate amount of the first installment of current taxes that remain unpaid after the last day on which the first installment of such taxes may be paid without penalty.",
+      "id": "321.341-current-year-unpaid-taxes",
+      "normalized": "current year unpaid taxes",
+      "scope": "(D) As used in the section:",
+      "section": "321.341",
+      "source_title": "Section 321.341 - Advance payment of unpaid taxes to taxing districts.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-321.341",
+      "term": "Current year unpaid taxes"
+    },
+    {
+      "definition": "(3) \"Current year delinquent taxes\" means the aggregate amount of current taxes that remain unpaid after the last day on which the second installment of such taxes may be paid without penalty.",
+      "id": "321.341-current-year-delinquent-taxes",
+      "normalized": "current year delinquent taxes",
+      "scope": "(D) As used in the section:",
+      "section": "321.341",
+      "source_title": "Section 321.341 - Advance payment of unpaid taxes to taxing districts.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-321.341",
+      "term": "Current year delinquent taxes"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "307.781",
+      "number": "307.781",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-307.781"
+    },
+    {
+      "kind": "section",
+      "label": "135.341",
+      "number": "135.341",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-135.341"
+    },
+    {
+      "kind": "section",
+      "label": "321.36",
+      "number": "321.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-321.36"
+    },
+    {
+      "kind": "section",
+      "label": "133.082",
+      "number": "133.082",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.082"
+    },
+    {
+      "kind": "section",
+      "label": "321.34",
+      "number": "321.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-321.34"
+    },
+    {
+      "kind": "section",
+      "label": "321.263",
+      "number": "321.263",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-321.263"
+    },
+    {
+      "kind": "section",
+      "label": "323.01",
+      "number": "323.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.01"
+    }
+  ],
+  "scraped": "2026-07-02T19:32:48+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-321.341",
+  "title": "Section 321.341 - Advance payment of unpaid taxes to taxing districts."
+}

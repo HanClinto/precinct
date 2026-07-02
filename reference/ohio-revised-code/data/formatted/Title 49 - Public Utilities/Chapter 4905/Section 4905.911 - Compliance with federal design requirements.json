@@ -1,0 +1,36 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Horizontal well\" has the same meaning as in section 1509.01 of the Revised Code.",
+      "id": "4905.911-horizontal-well",
+      "normalized": "horizontal well",
+      "scope": "",
+      "section": "4905.911",
+      "source_title": "Section 4905.911 - Compliance with federal design requirements.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4905.911",
+      "term": "Horizontal well"
+    },
+    {
+      "definition": "(2) \"Operator\" means any person that owns, operates, manages, controls, or leases a gas gathering pipeline or a processing plant gas stub pipeline.",
+      "id": "4905.911-operator",
+      "normalized": "operator",
+      "scope": "",
+      "section": "4905.911",
+      "source_title": "Section 4905.911 - Compliance with federal design requirements.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4905.911",
+      "term": "Operator"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "1509.01",
+      "number": "1509.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1509.01"
+    }
+  ],
+  "scraped": "2026-07-02T20:09:00+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4905.911",
+  "title": "Section 4905.911 - Compliance with federal design requirements."
+}

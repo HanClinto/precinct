@@ -1,0 +1,88 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Claimant\" means a person who is eligible to receive compensation, medical benefits, or death benefits under this chapter or Chapter 4121., 4127., or 4131. of the Revised Code.",
+      "id": "4123.93-claimant",
+      "normalized": "claimant",
+      "scope": "As used in sections 4123.93 to 4123.932 of the Revised Code:",
+      "section": "4123.93",
+      "source_title": "Section 4123.93 - Subrogation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4123.93",
+      "term": "Claimant"
+    },
+    {
+      "definition": "(B) \"Statutory subrogee\" means the administrator of workers' compensation, a self-insuring employer, or an employer that contracts for the direct payment of medical services pursuant to division (P) of section 4121.44 of the Revised Code.",
+      "id": "4123.93-statutory-subrogee",
+      "normalized": "statutory subrogee",
+      "scope": "As used in sections 4123.93 to 4123.932 of the Revised Code:",
+      "section": "4123.93",
+      "source_title": "Section 4123.93 - Subrogation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4123.93",
+      "term": "Statutory subrogee"
+    },
+    {
+      "definition": "(C) \"Third party\" means an individual, private insurer, public or private entity, or public or private program that is or may be liable to make payments to a person without regard to any statutory duty contained in this chapter or Chapter 4121., 4127., or 4131. of the Revised Code.",
+      "id": "4123.93-third-party",
+      "normalized": "third party",
+      "scope": "As used in sections 4123.93 to 4123.932 of the Revised Code:",
+      "section": "4123.93",
+      "source_title": "Section 4123.93 - Subrogation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4123.93",
+      "term": "Third party"
+    },
+    {
+      "definition": "(D) \"Subrogation interest\" includes past, present, and estimated future payments of compensation, medical benefits, rehabilitation costs, or death benefits, and any other costs or expenses paid to or on behalf of the claimant by the statutory subrogee pursuant to this chapter or Chapter 4121., 4127., or 4131. of the Revised Code.",
+      "id": "4123.93-subrogation-interest",
+      "normalized": "subrogation interest",
+      "scope": "As used in sections 4123.93 to 4123.932 of the Revised Code:",
+      "section": "4123.93",
+      "source_title": "Section 4123.93 - Subrogation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4123.93",
+      "term": "Subrogation interest"
+    },
+    {
+      "definition": "(E) \"Net amount recovered\" means the amount of any award, settlement, compromise, or recovery by a claimant against a third party, minus the attorney's fees, costs, or other expenses incurred by the claimant in securing the award, settlement, compromise, or recovery. \"Net amount recovered\" does not include any punitive damages that may be awarded by a judge or jury.",
+      "id": "4123.93-net-amount-recovered",
+      "normalized": "net amount recovered",
+      "scope": "As used in sections 4123.93 to 4123.932 of the Revised Code:",
+      "section": "4123.93",
+      "source_title": "Section 4123.93 - Subrogation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4123.93",
+      "term": "Net amount recovered"
+    },
+    {
+      "definition": "(F) \"Uncompensated damages\" means the claimant's demonstrated or proven damages minus the statutory subrogee's subrogation interest.",
+      "id": "4123.93-uncompensated-damages",
+      "normalized": "uncompensated damages",
+      "scope": "As used in sections 4123.93 to 4123.932 of the Revised Code:",
+      "section": "4123.93",
+      "source_title": "Section 4123.93 - Subrogation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4123.93",
+      "term": "Uncompensated damages"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "4123.93",
+      "number": "4123.93",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.93"
+    },
+    {
+      "kind": "section",
+      "label": "4123.932",
+      "number": "4123.932",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.932"
+    },
+    {
+      "kind": "section",
+      "label": "4121.44",
+      "number": "4121.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4121.44"
+    }
+  ],
+  "scraped": "2026-07-02T20:04:17+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4123.93",
+  "title": "Section 4123.93 - Subrogation definitions."
+}

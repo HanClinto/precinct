@@ -1,0 +1,24 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-1701.46
+Scraped: 2026-07-02T19:39:02+00:00
+
+# Section 1701.46 - Voting by fiduciaries and minors.
+
+**Effective:** October 11, 1955
+
+**Latest Legislation:** House Bill 70 - 101st General Assembly
+
+(A) As used in this section, "consent" includes, without limitation, waivers, releases, and also writings signed by holders of shares in lieu of taking action at meetings of shareholders. Objections to consents, in order to be effective for the purposes of this section, must be filed with the corporation before the consents in question had been acted upon.
+
+(B) Fiduciaries and minors may vote and execute consents in respect of shares which stand of record in their respective names.
+
+(C) When any person has furnished to the issuing corporation proof, satisfactory to it, of his appointment and qualification as: executor under the last will of a deceased holder of record of its shares; an administrator of the estate of such a holder; a guardian, committee, or conservator of the estate of a ward or incompetent who is holder of record of its shares; a trustee in bankruptcy of such a holder; or a statutory or judicial receiver or liquidator of the estate or affairs of such a holder; such fiduciary may vote and execute consents with respect to such shares as though he were the holder of record thereof.
+
+(D) When any other fiduciary has furnished to the issuing corporation proof, satisfactory to it, of his authority to do so, he may vote and execute consents and objections to consents with respect to shares not of record in his name.
+
+(E) If shares stand of record in the names of two or more persons, whether fiduciaries, joint tenants, tenants in common, or otherwise, or if two or more persons have the same fiduciary relationship respecting such shares, then in the absence of proof satisfactory to the issuing corporation to the contrary, (1) with respect to voting and executing consents and objections to consents, if more than one person attends the meeting, a majority of those attending if they concur in any action may act for all; if more than one acts in executing consents or objections to consents and the number executing consents shall exceed the number executing objections to consents, the former may act for all; and likewise if the number executing objections to consents shall exceed the number executing consents, the greater number may act for all; if only one of said persons attends the meeting, or executes a consent and no other of said persons executes an objection to such consent, then that one may act for all; and if an even number attend the meeting and a majority of all the persons so attending do not agree on any particular issue, or if one or more execute consents and a like number execute objections to consents, each person so attending or executing consents or objections to consents may act with respect to an equal number of shares; (2) in the exercise of any other rights of ownership with respect to such shares, a majority of all such persons may act for all.
+
+(F) This section does not enlarge or affect the rights or obligations of a holder of record of shares or of a fiduciary or a minor with respect to any person other than the corporation issuing such shares and its agents or representatives, including, without limitation, inspectors of election, concerned with the exercise of the powers referred to in this section.
+
+(G) A holder of record of shares and a fiduciary who is not a holder of record of shares may not vote or execute consents or objections to consents contrary to the order of a court of competent jurisdiction in a proceeding to which the corporation is a party, or contrary to a judgment, order, or decree of a court of competent jurisdiction terminating, suspending, or restricting such rights of the holder of record of such shares or the fiduciary relationship with respect thereto, or the competency or authority of such holder or fiduciary, or transferring to or vesting in another person such relationships or rights of ownership of such shares, or directing the manner in which the powers of such holder or fiduciary shall be exercised, a certified copy of which judgment, order, or decree shall have been filed with the corporation prior to the exercise of the powers in question.
+
+(H) The powers referred to in this section, of a minor and, in the absence of proof satisfactory to the issuing corporation to the contrary, of a fiduciary, may be exercised in person or by proxy appointed in writing, and such proxy may be vested with discretionary authority.

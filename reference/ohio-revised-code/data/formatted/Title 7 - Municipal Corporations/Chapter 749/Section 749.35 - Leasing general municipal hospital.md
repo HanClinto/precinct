@@ -1,0 +1,12 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-749.35
+Scraped: 2026-07-02T19:33:40+00:00
+
+# Section 749.35 - Leasing general municipal hospital.
+
+**Effective:** November 15, 1991
+
+**Latest Legislation:** Senate Bill 233 - 119th General Assembly
+
+In lieu of sections 749.04 to 749.34 of the Revised Code regarding any general hospital owned by a municipal corporation, or any general hospital in which a joint township hospital district board or a board of county commissioners is participating with a municipal corporation under section 513.08 or 749.16 of the Revised Code, the council of such municipal corporation may, upon such terms as are agreed between the council and a constituted and empowered nonsectarian Ohio corporation, organized for charitable purposes and not for profit, a majority of whose members reside in the county in which said municipal corporation is located, lease for use as a general hospital, the lands, buildings, and equipment of any such general hospital; provided, that if a joint township hospital district board or a board of county commissioners is participating with a municipal corporation under section 513.08 or 749.16 of the Revised Code, the joint township hospital district board or the board of county commissioners must approve said lease and if said lease is being renewed, the joint township hospital district board or the board of county commissioners must approve said renewal.
+
+Such lease may be from year to year or may provide for a term of not more than thirty years and may provide that such council has the option to renew such lease, but subject to the approval by such board of such renewal where so participating with a municipal corporation, at the expiration thereof for a further term of not more than thirty years upon such terms as are provided for in such lease. In the event that said nonprofit corporation fails to faithfully and efficiently administer, maintain, and operate such hospital as a public general hospital, admitting patients without regard to race, creed, or color, then, after an opportunity is given to be heard upon written charges, said agreement may be terminated and the control and management of said hospital, together with all additions, improvements, and equipment, shall revert to and become the property of the municipal corporation or municipal corporation and joint township hospital district board, or municipal corporation and board of county commissioners, to be operated as provided by law.

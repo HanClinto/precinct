@@ -1,0 +1,18 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-2152.022
+Scraped: 2026-07-02T19:42:01+00:00
+
+# Section 2152.022 - Mandatory and discretionary transfers - meaning of case.
+
+**Effective:** April 4, 2023
+
+**Latest Legislation:** Senate Bill 288 - 134th General Assembly
+
+(A) If a complaint or multiple complaints have been filed in juvenile court alleging that a child is a delinquent child for committing an act that would be a felony if committed by an adult and if the juvenile court under section 2152.10 and division (A)(1) or (B) of section 2152.12 of the Revised Code is required to transfer the "case" or is authorized to transfer the "case" and decides to do so, as used in all provisions of the Revised Code that apply with respect to the transfer, "case" means all charges that are included in the complaint or complaints containing the allegation that is the basis of the transfer under division (A)(1) or (B) of section 2152.12 of the Revised Code and for which the court found probable cause to believe that the child committed the act charged, regardless of whether the complaint or complaints are filed under the same case number or different case numbers.
+
+(B) If a complaint or multiple complaints have been filed in juvenile court alleging that a child is a delinquent child for committing an act that would be a felony if committed by an adult, if the juvenile court, as described in division (A) of this section, is required to transfer the case or is authorized to transfer the case and decides to do so, and if the complaint or complaints containing the allegation that is the basis of the transfer under division (A)(1) or (B) of section 2152.12 of the Revised Code include one or more other counts alleging that the child committed an act that would be an offense if committed by an adult, both of the following apply:
+
+(1) Each count included in the complaint or complaints with respect to which the court found probable cause to believe that the child committed the act charged shall be transferred and the court to which the case is transferred has jurisdiction over all of the counts so transferred as provided in division (H) of section 2151.23 of the Revised Code.
+
+(2) Each count included in the complaint or complaints that is not transferred as described in division (B)(1) of this section shall remain within the jurisdiction of the juvenile court, to be handled by that court in an appropriate manner.
+
+Last updated February 16, 2023 at 6:08 PM

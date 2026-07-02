@@ -1,0 +1,26 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-991.02
+Scraped: 2026-07-02T19:36:37+00:00
+
+# Section 991.02 - Ohio expositions commission.
+
+**Effective:** October 17, 2019
+
+**Latest Legislation:** House Bill 166 - 133rd General Assembly
+
+(A) There is hereby created the Ohio expositions commission, which shall consist of the following fifteen members: nine members appointed by the governor with the advice and consent of the senate; the director of development, the director of natural resources, and the director of agriculture, or their designated representatives, who shall be ex officio members with voting rights of the commission; the dean of the college of food, agricultural, and environmental sciences of the Ohio state university as a nonvoting, ex officio member of the commission; and the chairperson of the standing committee in the house of representatives to which matters dealing with agriculture are generally referred and the chairperson of the standing committee in the senate to which matters dealing with agriculture are generally referred, who shall be nonvoting members. If the senate is not in session, recess appointments shall be made by the governor.
+
+(B) Of the nine members of the commission appointed by the governor, not more than five shall be from one political party, at least three members shall receive the major portion of their income from farming, and at least one member shall, at the time of appointment, be a member of the board of directors of an agricultural society that was organized in compliance with section 1711.01 or 1711.02 of the Revised Code. Terms of office shall be for six years, commencing on the second day of December and ending on the first day of December. Each member shall hold office from the date of appointment until the end of the term for which the member was appointed. Any member appointed to fill a vacancy occurring prior to the expiration of the term for which the member's predecessor was appointed shall hold office for the remainder of that term. Any member shall continue in office subsequent to the expiration date of the member's term until the member's successor takes office, or until a period of sixty days has elapsed, whichever occurs first.
+
+The term of each nonvoting, legislative member of the commission shall be for two years or until the end of the member's legislative term, whichever occurs first.
+
+(C) The commission shall annually, during the month of December, select from among its members a chairperson, a vice-chairperson, who in the absence of the chairperson shall carry out the chairperson's duties, and a secretary, who may be a member or employee of the commission, to record the minutes of its meetings and to carry out such other duties as may be assigned by the commission, its chairperson, or its vice-chairperson.
+
+(D) The director of agriculture, the director of natural resources, and the director of development, or their designated representatives, the dean of the college of food, agricultural, and environmental sciences of the Ohio state university, and the two legislators appointed to the commission, as members of the commission shall serve without compensation.
+
+(E) Each of the members of the commission appointed by the governor shall be paid the rate established pursuant to division (J) of section 124.15 of the Revised Code. All members of the commission are entitled to their actual and necessary expenses incurred in the performance of their duties as such members, payable from the appropriations for the commission.
+
+(F) The commission shall hold at least one regular meeting in each quarter of each calendar year, and shall keep a record of its proceedings, which shall be open to the public for inspection. Special meetings may be called by the chairperson and shall be called by the chairperson upon receipt of a written request therefor signed by two or more members of the commission. Written notice of the time and place of each meeting shall be sent to each member of the commission. Six of the voting members of the commission shall constitute a quorum.
+
+(G) The commission shall employ and prescribe the powers and duties of a general manager who shall serve in the unclassified civil service at a salary fixed pursuant to section 124.14 of the Revised Code. The general manager may employ such assistant managers as the general manager and the commission may approve. At no time shall such assistant managers exceed four in number, one of whom shall be appointed in the classified civil service. The general manager may, subject to the approval of the commission, employ a fiscal officer and such other officers, employees, and consultants with such powers and duties as are necessary to carry out this chapter. With the approval of the commission and in order to implement this chapter, the general manager may employ and fix the compensation of seasonal employees; these employees shall be in the unclassified civil service, and the overtime pay requirements of section 124.18 of the Revised Code do not apply to them. The general manager shall be considered the appointing authority of the commission for purposes of Chapter 124. of the Revised Code.
+
+(H) The governor may remove any appointed voting member of the commission at any time for inefficiency, neglect of duty, or malfeasance in office.

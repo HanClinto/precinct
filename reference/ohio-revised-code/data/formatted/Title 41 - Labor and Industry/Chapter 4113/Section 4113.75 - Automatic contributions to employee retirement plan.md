@@ -1,0 +1,34 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4113.75
+Scraped: 2026-07-02T20:04:06+00:00
+
+# Section 4113.75 - Automatic contributions to employee retirement plan.
+
+**Effective:** March 23, 2015
+
+**Latest Legislation:** Senate Bill 42 - 130th General Assembly
+
+(A) As used in this section:
+
+(1) "Employee" and "employer" have the same meanings as in section 4113.51 of the Revised Code except that "employer" does not include the state, any municipal corporation, county, township, school district, or other political subdivision, or any agency or instrumentality of any of those entities.
+
+(2) "Employee retirement plan" means an employee retirement plan described in section 401(k) or 403(b) of the Internal Revenue Code or a payroll deduction individual retirement account plan described in section 408 or 408A of the Internal Revenue Code.
+
+(3) "Internal Revenue Code" means the "Internal Revenue Code of 1986," 100 Stat. 2085, 26 U.S.C. 1 et seq., as amended.
+
+(B)(1) Notwithstanding section 4113.15 of the Revised Code, an employer may create and implement a program for automatically withholding a specified percentage of employees' wages to be contributed on behalf of the employees to an employee retirement plan. The program shall allow an employee to affirmatively elect not to participate in the program and not have wages withheld under the program.
+
+(2) The employer shall provide each participating employee with all of the following:
+
+(a) Notice of the percentage of the employee's wages that will be withheld and contributed on behalf of the employee to an employee retirement plan unless the employee affirmatively elects not to participate in the plan;
+
+(b) At least one opportunity each calendar quarter to select investments for the employee's contributions between investment alternatives available under the plan;
+
+(c) A description of every investment alternative available for employee investment direction under the plan;
+
+(d) Notice of the default investment decisions that will be made in the absence of the employee's direction;
+
+(e) A brief description of available procedures that allow an employee to change investments;
+
+(f) A report, at least once a year, of the actual default investments made of contributions attributable to the employee.
+
+(3) An employer that creates or implements a program described in division (B) of this section shall provide its participating employees with reasonable opportunities to affirmatively elect not to participate in the program and not have wages withheld under the program. An affirmative election not to participate in a program shall be effective as soon after the employer receives the election as is administratively feasible.

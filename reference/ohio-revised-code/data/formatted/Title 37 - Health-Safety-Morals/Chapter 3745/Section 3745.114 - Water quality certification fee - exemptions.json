@@ -1,0 +1,58 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Ephemeral feature\" means surface water flowing or pooling only in direct response to precipitation, such as rain or snow. \"Ephemeral feature\" does not include a wetland as defined in section 6111.02 of the Revised Code.",
+      "id": "3745.114-ephemeral-feature",
+      "normalized": "ephemeral feature",
+      "scope": "(G) As used in this section:",
+      "section": "3745.114",
+      "source_title": "Section 3745.114 - Water quality certification fee - exemptions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3745.114",
+      "term": "Ephemeral feature"
+    },
+    {
+      "definition": "(2) \"Intermittent stream\" means a stream that is below the local water table and flows for at least a part of each year and that obtains its flow from both surface runoff and ground water discharge.",
+      "id": "3745.114-intermittent-stream",
+      "normalized": "intermittent stream",
+      "scope": "(G) As used in this section:",
+      "section": "3745.114",
+      "source_title": "Section 3745.114 - Water quality certification fee - exemptions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3745.114",
+      "term": "Intermittent stream"
+    },
+    {
+      "definition": "(3) \"Perennial stream\" means a stream or a part of a stream that flows continuously during all of the calendar year as a result of ground water discharge or surface water runoff. \"Perennial stream\" does not include an intermittent stream or an ephemeral feature.\n\nLast updated May 3, 2022 at 12:38 PM",
+      "id": "3745.114-perennial-stream",
+      "normalized": "perennial stream",
+      "scope": "(G) As used in this section:",
+      "section": "3745.114",
+      "source_title": "Section 3745.114 - Water quality certification fee - exemptions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3745.114",
+      "term": "Perennial stream"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "6111.038",
+      "number": "6111.038",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.038"
+    },
+    {
+      "kind": "section",
+      "label": "119.01",
+      "number": "119.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-119.01"
+    },
+    {
+      "kind": "section",
+      "label": "6111.02",
+      "number": "6111.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6111.02"
+    }
+  ],
+  "scraped": "2026-07-02T20:00:55+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3745.114",
+  "title": "Section 3745.114 - Water quality certification fee - exemptions."
+}

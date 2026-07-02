@@ -1,0 +1,184 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4141.301
+Scraped: 2026-07-02T20:04:31+00:00
+
+# Section 4141.301 - Extended benefit period.
+
+**Effective:** March 31, 2010
+
+**Latest Legislation:** Senate Bill 155 - 128th General Assembly
+
+(A) As used in this section, unless the context clearly requires otherwise:
+
+(1) "Extended benefit period" means a period which:
+
+(a) Begins with the third week after a week for which there is a state "on" indicator; and
+
+(b) Ends with either of the following weeks, whichever occurs later:
+
+(i) The third week after the first week for which there is a state "off" indicator; or
+
+(ii) The thirteenth consecutive week of such period.
+
+Except, that no extended benefit period may begin by reason of a state "on" indicator before the fourteenth week following the end of a prior extended benefit period which was in effect with respect to this state.
+
+(2) There is a "state 'on' indicator" for this state for a week if the director of job and family services determines, in accordance with the regulations of the United States secretary of labor, that for the period consisting of such week and the immediately preceding twelve weeks, the rate of insured unemployment, not seasonally adjusted, under Chapter 4141. of the Revised Code:
+
+(a) Equaled or exceeded one hundred twenty per cent of the average of such rates for the corresponding thirteen-week period ending in each of the preceding two calendar years and equaled or exceeded five per cent;
+
+(b) For weeks of unemployment such rate of insured unemployment:
+
+(i) Met the criteria set forth in division (A)(2)(a) of this section; or
+
+(ii) Equaled or exceeded six per cent.
+
+(3)(a) For weeks of unemployment beginning on or after February 22, 2009, there is a "state 'on' indicator" for this state for a week if the director determines both of the following are satisfied:
+
+(i) That the average rate of total unemployment, seasonally adjusted, as determined by the United States secretary of labor, for the period consisting of the most recent three months for which data for all states are published before the close of that week equals or exceeds six and one-half per cent;
+
+(ii) That the average rate of total unemployment, seasonally adjusted, as determined by the United States secretary of labor, for the three-month period described in division (A)(3)(a)(i) of this section, equals or exceeds one hundred ten per cent of the average for either or both of the corresponding three-month periods ending in the two preceding calendar years.
+
+(b) Division (A)(3) of this section is effective on and after February 22, 2009, and shall cease to be effective on the close of the last day of the week ending four weeks prior to the last week for which one hundred per cent federal sharing is authorized under Section 2005(a) of the "American Recovery and Reinvestment Act of 2009," Pub. L. No. 111-5, 123 Stat. 115, as amended, without regard to the extension of federal sharing for certain claims as provided under section 2005(c) of that law, or any other federal law that provides for one hundred per cent federal sharing.
+
+(4) A "state 'off' indicator" exists for the state for a week if the director determines, in accordance with the regulations of the United States secretary of labor, that for the period consisting of such week and the immediately preceding twelve weeks, the rate of insured unemployment, not seasonally adjusted, under Chapter 4141. of the Revised Code:
+
+(a) Was less than one hundred twenty per cent of the average of such rates for the corresponding thirteen-week period ending in each of the preceding two calendar years and was less than five per cent;
+
+(b) For weeks of unemployment such rate of insured unemployment:
+
+(i) Was less than six per cent; and
+
+(ii) Met the criteria set forth in division (A)(4)(a) of this section.
+
+(5) For weeks of unemployment beginning on or after February 22, 2009, there is a "state 'off' indicator" for this state for a week if the director determines, in accordance with the regulations adopted by the United States secretary of labor, that for the period consisting of that week and the immediately preceding twelve weeks, the total rate of unemployment, seasonally adjusted, under this chapter, was less than one hundred ten per cent of such average for either or both of the corresponding three-month periods ending in the two preceding calendar years, and was less than six and one-half per cent.
+
+(6) "Rate of insured unemployment," for purposes of divisions (A)(2) and (4) of this section, means the percentage derived by dividing:
+
+(a) The average weekly number of individuals filing claims for regular compensation in this state for weeks of unemployment with respect to the most recent thirteen-consecutive-week period, as determined by the director on the basis of the director's reports to the United States secretary of labor, by
+
+(b) The average monthly employment covered under Chapter 4141. of the Revised Code, for the first four of the most recent six completed calendar quarters ending before the end of such thirteen-week period.
+
+(7) "Regular benefits" means benefits payable to an individual, as defined in division (C) of section 4141.01 of the Revised Code, or under any other state law, including dependents' allowance and benefits payable to federal civilian employees and to ex-servicepersons pursuant to the "Act of September 6, 1966," 80 Stat. 585, 5 U.S.C.A. 8501, other than extended benefits, and additional benefits as defined in division (A)(12) of this section.
+
+(8) "Extended benefits" means benefits, including benefits payable to federal civilian employees and to ex-servicepersons pursuant to the "Act of September 6, 1966," 80 Stat. 585, 5 U.S.C.A. 8501, and additional benefits, payable to an individual under the provisions of this section for weeks of unemployment in the individual's eligibility period.
+
+(9) "Eligibility period" of an individual means the period consisting of the weeks in the individual's benefit year which begin in an extended benefit period and, if the individual's benefit year ends within the extended benefit period, any weeks thereafter which begin in the period.
+
+(10) "Exhaustee" means an individual who, with respect to any week of unemployment in the individual's eligibility period:
+
+(a) Has received prior to the week, all of the regular benefits that were available to the individual under Chapter 4141. of the Revised Code, or any other state law, including dependents' allowance and benefits payable to federal civilian employees and ex-servicepersons under the "Act of September 6, 1966," 80 Stat. 585, 5 U.S.C.A. 8501, in the individual's current benefit year that includes the week;
+
+(b) Has received, prior to the week, all of the regular benefits that were available to the individual under this chapter or any other state law, including dependents' allowances and regular benefits available to federal civilian employees and ex-servicepersons under the "Act of September 6, 1966," 80 Stat. 585, 5 U.S.C.A. 8501, in the individual's current benefit year that includes the week, after the cancellation of some or all of the individual's wage credits or the total or partial reduction of the individual's right to regular benefits, provided that, for the purposes of divisions (A)(10)(a) and (10)(b) of this section, an individual shall be deemed to have received in the individual's current benefit year all of the regular benefits that were either payable or available to the individual even though:
+
+(i) As a result of a pending appeal with respect to wages or employment, or both, that were not included in the original monetary determination with respect to the individual's current benefit year, the individual may subsequently be determined to be entitled to more regular benefits, or
+
+(ii) By reason of section 4141.33 of the Revised Code, or the seasonal employment provisions of another state law, the individual is not entitled to regular benefits with respect to the week of unemployment, although the individual may be entitled to regular benefits with respect to future weeks of unemployment in either the next season or off season in the individual's current benefit year, and the individual is otherwise an "exhaustee" within the meaning of this section with respect to the right to regular benefits under state law seasonal employment provisions during either the season or off season in which that week of unemployment occurs, or
+
+(iii) Having established a benefit year, no regular benefits are payable to the individual during the year because the individual's wage credits were cancelled or the individual's right to regular benefits was totally reduced as the result of the application of a disqualification; or
+
+(c) The individual's benefit year having expired prior to the week, has no, or insufficient, wages or weeks of employment on the basis of which the individual could establish in any state a new benefit year that would include the week, or having established a new benefit year that includes the week, the individual is precluded from receiving regular benefits by reason of a state law which meets the requirements of section 3304 (a)(7) of the "Federal Unemployment Tax Act," 53 Stat. 183, 26 U.S.C.A. 3301 to 3311; and
+
+(i) Has no right for the week to unemployment benefits or allowances, as the case may be, under the Railroad Unemployment Insurance Act, the Trade Act of 1974, and other federal laws as are specified in regulations issued by the United States secretary of labor; and
+
+(ii) Has not received and is not seeking for the week unemployment benefits under the unemployment compensation law of the Virgin Islands, prior to the day after that on which the secretary of labor approves the unemployment compensation law of the Virgin Islands, or of Canada; or if the individual is seeking benefits and the appropriate agency finally determines that the individual is not entitled to benefits under the law for the week.
+
+(11) "State law" means the unemployment insurance law of any state, approved by the United States secretary of labor under section 3304 of the Internal Revenue Code of 1954.
+
+(12) "Additional benefits" means benefits totally financed by a state and payable to exhaustees by reason of high unemployment or by reason of other special factors under the provisions of any state law.
+
+(B) Except when the result would be inconsistent with the other provisions of this section, as provided in the regulations of the director, the provisions of Chapter 4141. of the Revised Code, which apply to claims for, or the payment of, regular benefits, shall apply to claims for, and the payment of, extended benefits.
+
+(C) Any individual shall be eligible to receive extended benefits with respect to any week of unemployment in the individual's eligibility period only if the director finds that, with respect to such week:
+
+(1) The individual is an "exhaustee" as defined in division (A)(10) of this section; and
+
+(2) The individual has satisfied the requirements of Chapter 4141. of the Revised Code, for the receipt of regular benefits that are applicable to individuals claiming extended benefits, including not being subject to a disqualification for the receipt of benefits.
+
+(D) The weekly extended benefit amount payable to an individual for a week of total unemployment in the individual's eligibility period shall be the same as the weekly benefit amount payable to the individual during the individual's applicable benefit year.
+
+(E) Except as provided in division (F) of this section, the total extended benefit amount payable to any eligible individual with respect to the individual's applicable benefit year shall be the lesser of the following amounts:
+
+(1) Fifty per cent of the total amount of regular benefits, including dependents' allowances which were payable to the individual under Chapter 4141. of the Revised Code, in the individual's applicable benefit year;
+
+(2) Thirteen times the individual's weekly benefit amount, including dependents' allowances, which was payable to the individual under Chapter 4141. of the Revised Code, for a week of total unemployment in the applicable benefit year; provided, that in making the computation under divisions (E)(1) and (2) of this section, any amount which is not a multiple of one dollar shall be rounded to the next lower multiple of one dollar.
+
+(F) For purposes of this division, "high-unemployment period" means a period during which an extended benefit period would be in effect if division (A)(3)(a)(i) of this section were applied by substituting "eight per cent" for "six and one-half per cent."
+
+Effective with respect to weeks beginning in a high-unemployment period, the total extended benefit amount payable to an eligible individual with respect to the applicable benefit year shall be the lesser of the following amounts:
+
+(1) Eighty per cent of the total amount of regular benefits that were payable to the individual pursuant to this section in the individual's applicable benefit year;
+
+(2) Twenty times the individual's average weekly benefit amount that was payable to the individual pursuant to this section for a week of total unemployment in the applicable benefit year.
+
+(G) Division (F) of this section is effective on and after February 22, 2009, and shall cease to be effective on the close of the last day of the week ending four weeks prior to the last week for which one hundred per cent federal sharing is authorized under Section 2005(a) of the "American Recovery and Reinvestment Act of 2009," Pub. L. No. 111-5, 123 Stat. 115, as amended, without regard to the extension of federal sharing for certain claims as provided under section 2005(c) of that law, or any other federal law that provides for one hundred per cent federal sharing.
+
+(H)(1) Except as provided in division (H)(2) of this section, an individual eligible for extended benefits pursuant to an interstate claim filed in any state under the interstate benefit payment plan shall not be paid extended benefits for any week in which an extended benefit period is not in effect in such state.
+
+(2) Division (H)(1) of this section does not apply with respect to the first two weeks for which extended compensation is payable to an individual, as determined without regard to this division, pursuant to an interstate claim filed under the interstate benefit payment plan from the total extended benefit amount payable to that individual in the individual's applicable benefit year.
+
+(3) Notwithstanding any other provisions of this section, if the benefit year of any individual ends within an extended benefit period, the remaining balance of extended benefits that the individual would, but for this section, be entitled to receive in that extended benefit period, with respect to weeks of unemployment beginning after the end of the benefit year, shall be reduced, but not below zero, by the product of the number of weeks for which the individual received any amounts as trade readjustment allowances within that benefit year, multiplied by the individual's weekly benefit amount for extended benefits.
+
+(I)(1) Whenever an extended benefit period is to become effective in this state, as a result of a state "on" indicator, or an extended benefit period is to be terminated in this state as a result of a state "off" indicator, the director shall make an appropriate public announcement.
+
+(2) Computations required by division (A)(6) of this section shall be made by the director, in accordance with the regulations prescribed by the United States secretary of labor.
+
+(J)(1)(a) The director shall promptly examine any application for extended benefits filed and, under this section, determine whether the application is to be allowed or disallowed and, if allowed, the weekly and total extended benefits payable and the effective date of the application. The claimant, the claimant's most recent employer, and any other employer in the base period of the claim upon which the extended benefits are based, and who was chargeable for regular benefits based on such claim, shall be notified of such determination.
+
+(b) The determination issued to the most recent or other base period employer shall include the total amount of extended benefits that may be charged to the employer's account. Such potential charge amount shall be an amount equal to one-fourth of the regular benefits chargeable to the employer's account on the regular claim upon which extended benefits are based except that, effective January 1, 1979, the potential charge amount to the state and its instrumentalities, its political subdivisions and their instrumentalities, and Indian tribes shall be an amount equal to one-half of the regular benefits chargeable to their accounts on such claim. If regular benefits were chargeable to the mutualized account, in lieu of an employer's account, then the extended benefits which are based on such prior mutualized benefits shall also be charged to the mutualized account.
+
+(c) As extended benefits are paid to eligible individuals:
+
+(i) One-half of such benefits shall be charged to an extended benefit account to which reimbursement payments of one-half of extended benefits, received from the federal government as described in division (L) of this section, shall be credited; and
+
+(ii) One-half of the extended benefits shall be charged to the accounts of base period employers and the mutualized account in the same proportion as was provided for on the regular claim; or
+
+(iii) The full amount of extended benefits shall be charged to the accounts of the state and its instrumentalities, its political subdivisions and their instrumentalities, and Indian tribes. Employers making payments in lieu of contributions shall be charged in accordance with division (B)(1) of section 4141.241 of the Revised Code; or
+
+(iv) In the case of payments under division (A)(3) of this section that are fully funded under Section 2005(a) of the "American Recovery and Reinvestment Act of 2009," Pub. L. No. 111-5, 123 Stat. 115, as amended, without regard to the extension of federal sharing for certain claims as provided under section 2005(c) of that law, none of the extended benefits shall be charged to the accounts of base period employers or to the mutualized account.
+
+(d) If the application for extended benefits is disallowed, a determination shall be issued to the claimant, which determination shall set forth the reasons for the disallowance. Determinations issued under this division, whether allowed or disallowed, shall be subject to reconsideration and appeal in accordance with section 4141.281 of the Revised Code.
+
+(2) Any additional or continued claims, as described in division (F) of section 4141.01 of the Revised Code, filed by an individual at the beginning of, or during, the individual's extended benefit period shall be determined under division (E) of section 4141.28 of the Revised Code, and such determination shall be subject to reconsideration and appeal in accordance with section 4141.281 of the Revised Code.
+
+(K) Notwithstanding division (B) of this section, payment of extended benefits under this section shall not be made to any individual for any week of unemployment in the individual's eligibility period during which the individual fails to accept any offer of suitable work, as defined in division (K)(2) of this section, or fails to apply for any suitable work to which the individual was referred by the director, or fails to actively engage in seeking work, as prescribed in division (K)(4) of this section.
+
+(1) If any individual is ineligible for extended benefits for any week by reason of a failure described in this division, the individual shall be ineligible to receive extended benefits beginning with the week in which the failure occurred and continuing until the individual has been employed during each of four subsequent weeks and the total remuneration earned by the individual for this employment is equal to or more than four times the individual's weekly extended benefit amount, and has met all other eligibility requirements of this section, in order to establish entitlement to extended benefits.
+
+(2) For purposes of this section, the term "suitable work" means, with respect to an individual, any work which is within the individual's capabilities, provided that with respect to the position all of the following requirements are met:
+
+(a) It offers the individual gross average weekly remuneration of more than the sum of:
+
+(i) The individual's extended weekly benefit amount; and
+
+(ii) The amount of supplemental unemployment compensation benefits, as defined in section 501(c)(17)(D) of the "Internal Revenue Code of 1954," 80 Stat. 1515, 26 U.S.C.A. 501, payable to the individual for the week of unemployment.
+
+(b) It pays equal to or more than the higher of:
+
+(i) The minimum wage provided by section 6(a)(1) of the "Fair Labor Standards Act of 1938," 91 Stat. 1245, 29 U.S.C.A. 206, without regard to any exemption; or
+
+(ii) Any applicable state or local minimum wage.
+
+(c) It is offered to the individual in writing or is listed with the employment office maintained or designated by the director.
+
+(3) Extended benefits shall not be denied under this division to any individual for any week by reason of a failure to accept an offer of, or apply for suitable work if either of the following conditions apply:
+
+(a) The failure would not result in a denial of benefits to a regular benefit claimant under section 4141.29 of the Revised Code to the extent that section 4141.29 of the Revised Code is not inconsistent with division (K)(2) of this section;
+
+(b) The individual furnishes evidence satisfactory to the director that the individual's prospects for obtaining work in the individual's customary occupation within a reasonably short period are good. If the evidence is deemed satisfactory, the determination as to whether any work is suitable work with respect to this individual and whether the individual is ineligible or disqualified shall be based upon the meaning of "suitable work" and other provisions in section 4141.29 of the Revised Code.
+
+(4) For purposes of this section, an individual shall be treated as actively engaged in seeking work during any week if:
+
+(a) The individual has engaged in a systematic and sustained effort to obtain work during that week; and
+
+(b) The individual provides tangible evidence to the director that the individual has engaged in the effort during that week.
+
+(5) The director shall refer applicants for extended benefits to job openings that meet the requirements of divisions (E) and (F) of section 4141.29 of the Revised Code, and in the case of applicants whose prospects are determined not to be good under division (K)(3)(b) of this section to any suitable work which meets the criteria in divisions (K)(2) and (3)(a) of this section.
+
+(6) Individuals denied extended or regular benefits under division (D)(1)(b) of section 4141.29 of the Revised Code because of being given a disciplinary layoff for misconduct must, after the date of disqualification, work the length of time and earn the amount of remuneration specified in division (K)(1) of this section, and meet all other eligibility requirements of this section, in order to establish entitlement to extended benefits.
+
+(L) All payments of extended benefits made pursuant to this section shall be paid out of the unemployment compensation fund, provided by section 4141.09 of the Revised Code, and all payments of the federal share of extended benefits that are received as reimbursements under section 204 of the "Federal-State Extended Unemployment Compensation Act of 1970," 84 Stat. 696, 26 U.S.C.A. 3306, shall be deposited in such unemployment compensation fund and shall be credited to the extended benefit account established by division (I) of this section. Any refund of extended benefits, because of prior overpayment of such benefits, may be made from the unemployment compensation fund.
+
+(M) In the administration of the provisions of this section which are enacted to conform with the requirements of the "Federal-State Extended Unemployment Compensation Act of 1970," 84 Stat. 696, 26 U.S.C.A. 3306, the director shall take such action consistent with state law, as may be necessary:
+
+(1) To ensure that the provisions are so interpreted and applied as to meet the requirements of the federal act as interpreted by the United States department of labor; and
+
+(2) To secure to this state the full reimbursement of the federal share of extended benefits paid under this section that are reimbursable under the federal act.

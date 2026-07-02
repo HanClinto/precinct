@@ -1,0 +1,40 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-1514.022
+Scraped: 2026-07-02T19:37:42+00:00
+
+# Section 1514.022 - Submitting application and advertisement.
+
+**Effective:** March 15, 2002
+
+**Latest Legislation:** Senate Bill 83 - 124th General Assembly
+
+(A) As used in this section:
+
+(1) "Application" means any of the following:
+
+(a) An application filed under division (A) of section 1514.02 of the Revised Code for an initial permit for a proposed surface or in-stream mining operation;
+
+(b) An application filed under division (D) of section 1514.02 of the Revised Code for a significant amendment to a permit, as "significant" is defined by rule;
+
+(c) An application filed under division (E) of section 1514.02 of the Revised Code for a significant amendment to the plan of mining and reclamation that is proposed by the operator, as "significant" is defined by rule;
+
+(d) An application filed under section 1514.021 of the Revised Code for the renewal of a permit if the application proposes a significant change to the plan of mining and reclamation, as "significant" is defined by rule.
+
+(2) "Applicant" means a person who files an application.
+
+(3) "Governmental agency" means each board of county commissioners, each board of township trustees, each legislative authority of a municipal corporation, and the planning commissioners having jurisdiction over all or part of the area of a surface or in-stream mining operation or a proposed surface or in-stream mining operation together with any other federal, state, or local governmental entities that the chief of the division of mineral resources management reasonably believes will be interested in an application.
+
+(B)(1) Except as otherwise provided in division (D) of this section, an applicant shall submit to the chief a copy of the applicant's advertisement required to be published under this division of the ownership, precise location, and boundaries of land to be affected by the surface or in-stream mining operation or proposed surface or in-stream mining operation that is the subject of the application.
+
+Upon receiving the application and advertisement, the chief shall designate a location at which the application will be available for public inspection and shall assign to the application an application identification number. When the chief determines that the application is substantially complete, the chief shall notify the applicant of the determination. At that time, the applicant shall place the advertisement, together with the application identification number and the notice of the location at which the application will be available for inspection, in a newspaper of general circulation in the locality of the operation or proposed operation at least once a week for four consecutive weeks.
+
+(2) Except as otherwise provided in division (D) of this section, upon determining that an application is substantially complete, the chief shall provide written notice to governmental agencies. The notice shall include all of the information required to be published under division (B)(1) of this section together with the date by which any written comments or objections must be received by the chief for consideration in the review of the application. That date shall be the date that is thirty days following the date on which the chief sends the notice to the governmental agencies.
+
+If requested by a governmental agency within thirty-five days following the date on which the governmental agency receives the written notice from the chief, the chief may hold an informal conference to aid in the public understanding of the permitting process. The informal conference shall be held within two weeks after the chief determines to hold such a conference and shall be held in the county in which the surface or in-stream mining operation is or is proposed to be located.
+
+(C) Except as otherwise provided in division (D) of this section, an operation or any person having an interest that is or may be adversely affected by the operation or proposed operation and any governmental agency may file written comments about or objections to an application with the chief. In the case of interested persons who are not governmental agencies, the comments or objections shall be filed not later than thirty days after the last publication of the notice. In the case of governmental agencies, the comments or objections shall be filed not later than the date that the chief specified in the notice, except that at the chief's discretion, the chief may accept comments or objections from the agencies after that date if the chief considers doing so to be in the public interest. The chief immediately shall transmit comments or objections to the applicant and shall make them available to the public at the same location at which the application is available for inspection.
+
+(D) Divisions (B) and (C) of this section do not apply if a plan of zoning has been adopted for the area that includes the location at which the operation is conducted or is proposed to be conducted and either of the following applies:
+
+(1) The plan of zoning allows mining at the location at which the mining operation is or is proposed to be conducted.
+
+(2) A zoning variance or conditional use certificate for a mining operation, for which public notice and opportunity for comment have been provided, has been received within three hundred sixty-five days prior to submittal of an application. In such a situation, an applicant shall provide the chief with a copy of the notice, certified by the publisher, that was previously published.

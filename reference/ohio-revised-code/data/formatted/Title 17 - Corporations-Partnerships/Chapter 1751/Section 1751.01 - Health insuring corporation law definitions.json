@@ -1,0 +1,362 @@
+{
+  "glossary": [
+    {
+      "definition": "(A)(1) \"Basic health care services\" means the following services when medically necessary:\n\n(a) Physician's services, except when such services are supplemental under division (B) of this section;\n\n(b) Inpatient hospital services;\n\n(c) Outpatient medical services;\n\n(d) Emergency health services;\n\n(e) Urgent care services;\n\n(f) Diagnostic laboratory services and diagnostic and therapeutic radiologic services;\n\n(g) Diagnostic and treatment services, other than prescription drug services, for biologically based mental illnesses;\n\n(h) Preventive health care services, including, but not limited to, voluntary family planning services, infertility services, periodic physical examinations, prenatal obstetrical care, and well-child care;\n\n(i) Routine patient care for patients enrolled in an eligible cancer clinical trial pursuant to section 3923.80 of the Revised Code.",
+      "id": "1751.01-basic-health-care-services",
+      "normalized": "basic health care services",
+      "scope": "As used in this chapter:",
+      "section": "1751.01",
+      "source_title": "Section 1751.01 - Health insuring corporation law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1751.01",
+      "term": "Basic health care services"
+    },
+    {
+      "definition": "\"Basic health care services\" does not include experimental procedures.\n\nExcept as provided by divisions (A)(2) and (3) of this section in connection with the offering of coverage for diagnostic and treatment services for biologically based mental illnesses, a health insuring corporation shall not offer coverage for a health care service, defined as a basic health care service by this division, unless it offers coverage for all listed basic health care services. However, this requirement does not apply to the coverage of beneficiaries enrolled in medicare pursuant to a medicare contract, or to the coverage of beneficiaries enrolled in the federal employee health benefits program pursuant to 5 U.S.C.A. 8905, or to the coverage of medicaid recipients, or to the coverage of beneficiaries under any federal health care program regulated by a federal regulatory body, or to the coverage of beneficiaries under any contract covering officers or employees of the state that has been entered into by the department of administrative services.\n\n(2) A health insuring corporation may offer coverage for diagnostic and treatment services for biologically based mental illnesses without offering coverage for all other basic health care services. A health insuring corporation may offer coverage for diagnostic and treatment services for biologically based mental illnesses alone or in combination with one or more supplemental health care services. However, a health insuring corporation that offers coverage for any other basic health care service shall offer coverage for diagnostic and treatment services for biologically based mental illnesses in combination with the offer of coverage for all other listed basic health care services.\n\n(3) A health insuring corporation that offers coverage for basic health care services is not required to offer coverage for diagnostic and treatment services for biologically based mental illnesses in combination with the offer of coverage for all other listed basic health care services if all of the following apply:\n\n(a) The health insuring corporation submits documentation certified by an independent member of the American academy of actuaries to the superintendent of insurance showing that incurred claims for diagnostic and treatment services for biologically based mental illnesses for a period of at least six months independently caused the health insuring corporation's costs for claims and administrative expenses for the coverage of basic health care services to increase by more than one per cent per year.\n\n(b) The health insuring corporation submits a signed letter from an independent member of the American academy of actuaries to the superintendent of insurance opining that the increase in costs described in division (A)(3)(a) of this section could reasonably justify an increase of more than one per cent in the annual premiums or rates charged by the health insuring corporation for the coverage of basic health care services.\n\n(c) The superintendent of insurance makes the following determinations from the documentation and opinion submitted pursuant to divisions (A)(3)(a) and (b) of this section:\n\n(i) Incurred claims for diagnostic and treatment services for biologically based mental illnesses for a period of at least six months independently caused the health insuring corporation's costs for claims and administrative expenses for the coverage of basic health care services to increase by more than one per cent per year.\n\n(ii) The increase in costs reasonably justifies an increase of more than one per cent in the annual premiums or rates charged by the health insuring corporation for the coverage of basic health care services.\n\nAny determination made by the superintendent under this division is subject to Chapter 119. of the Revised Code.",
+      "id": "1751.01-basic-health-care-services",
+      "normalized": "basic health care services",
+      "scope": "As used in this chapter:",
+      "section": "1751.01",
+      "source_title": "Section 1751.01 - Health insuring corporation law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1751.01",
+      "term": "Basic health care services"
+    },
+    {
+      "definition": "(B)(1) \"Supplemental health care services\" means any health care services other than basic health care services that a health insuring corporation may offer, alone or in combination with either basic health care services or other supplemental health care services, and includes:\n\n(a) Services of facilities for intermediate or long-term care, or both;\n\n(b) Dental care services;\n\n(c) Vision care and optometric services including lenses and frames;\n\n(d) Podiatric care or foot care services;\n\n(e) Mental health services, excluding diagnostic and treatment services for biologically based mental illnesses;\n\n(f) Short-term outpatient evaluative and crisis-intervention mental health services;\n\n(g) Medical or psychological treatment and referral services for alcohol and drug abuse or addiction;\n\n(h) Home health services;\n\n(i) Prescription drug services;\n\n(j) Nursing services;\n\n(k) Services of a dietitian licensed under Chapter 4759. of the Revised Code;\n\n(l) Physical therapy services;\n\n(m) Chiropractic services;\n\n(n) Any other category of services approved by the superintendent of insurance.\n\n(2) If a health insuring corporation offers prescription drug services under this division, the coverage shall include prescription drug services for the treatment of biologically based mental illnesses on the same terms and conditions as other physical diseases and disorders.",
+      "id": "1751.01-supplemental-health-care-services",
+      "normalized": "supplemental health care services",
+      "scope": "As used in this chapter:",
+      "section": "1751.01",
+      "source_title": "Section 1751.01 - Health insuring corporation law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1751.01",
+      "term": "Supplemental health care services"
+    },
+    {
+      "definition": "(C) \"Specialty health care services\" means one of the supplemental health care services listed in division (B) of this section, when provided by a health insuring corporation on an outpatient-only basis and not in combination with other supplemental health care services.",
+      "id": "1751.01-specialty-health-care-services",
+      "normalized": "specialty health care services",
+      "scope": "As used in this chapter:",
+      "section": "1751.01",
+      "source_title": "Section 1751.01 - Health insuring corporation law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1751.01",
+      "term": "Specialty health care services"
+    },
+    {
+      "definition": "(D) \"Biologically based mental illnesses\" means schizophrenia, schizoaffective disorder, major depressive disorder, bipolar disorder, paranoia and other psychotic disorders, obsessive-compulsive disorder, and panic disorder, as these terms are defined in the most recent edition of the diagnostic and statistical manual of mental disorders published by the American psychiatric association.",
+      "id": "1751.01-biologically-based-mental-illnesses",
+      "normalized": "biologically based mental illnesses",
+      "scope": "As used in this chapter:",
+      "section": "1751.01",
+      "source_title": "Section 1751.01 - Health insuring corporation law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1751.01",
+      "term": "Biologically based mental illnesses"
+    },
+    {
+      "definition": "(E) \"Closed panel plan\" means a health care plan that requires enrollees to use participating providers.",
+      "id": "1751.01-closed-panel-plan",
+      "normalized": "closed panel plan",
+      "scope": "As used in this chapter:",
+      "section": "1751.01",
+      "source_title": "Section 1751.01 - Health insuring corporation law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1751.01",
+      "term": "Closed panel plan"
+    },
+    {
+      "definition": "(F) \"Compensation\" means remuneration for the provision of health care services, determined on other than a fee-for-service or discounted-fee-for-service basis.",
+      "id": "1751.01-compensation",
+      "normalized": "compensation",
+      "scope": "As used in this chapter:",
+      "section": "1751.01",
+      "source_title": "Section 1751.01 - Health insuring corporation law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1751.01",
+      "term": "Compensation"
+    },
+    {
+      "definition": "(G) \"Contractual periodic prepayment\" means the formula for determining the premium rate for all subscribers of a health insuring corporation.",
+      "id": "1751.01-contractual-periodic-prepayment",
+      "normalized": "contractual periodic prepayment",
+      "scope": "As used in this chapter:",
+      "section": "1751.01",
+      "source_title": "Section 1751.01 - Health insuring corporation law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1751.01",
+      "term": "Contractual periodic prepayment"
+    },
+    {
+      "definition": "(H) \"Corporation\" means a corporation formed under Chapter 1701. or 1702. of the Revised Code or the similar laws of another state.",
+      "id": "1751.01-corporation",
+      "normalized": "corporation",
+      "scope": "As used in this chapter:",
+      "section": "1751.01",
+      "source_title": "Section 1751.01 - Health insuring corporation law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1751.01",
+      "term": "Corporation"
+    },
+    {
+      "definition": "(I) \"Emergency health services\" means those health care services that must be available on a seven-days-per-week, twenty-four-hours-per-day basis in order to prevent jeopardy to an enrollee's health status that would occur if such services were not received as soon as possible, and includes, where appropriate, provisions for transportation and indemnity payments or service agreements for out-of-area coverage.",
+      "id": "1751.01-emergency-health-services",
+      "normalized": "emergency health services",
+      "scope": "As used in this chapter:",
+      "section": "1751.01",
+      "source_title": "Section 1751.01 - Health insuring corporation law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1751.01",
+      "term": "Emergency health services"
+    },
+    {
+      "definition": "(J) \"Enrollee\" means any natural person who is entitled to receive health care benefits provided by a health insuring corporation.",
+      "id": "1751.01-enrollee",
+      "normalized": "enrollee",
+      "scope": "As used in this chapter:",
+      "section": "1751.01",
+      "source_title": "Section 1751.01 - Health insuring corporation law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1751.01",
+      "term": "Enrollee"
+    },
+    {
+      "definition": "(K) \"Evidence of coverage\" means any certificate, agreement, policy, or contract issued to a subscriber that sets out the coverage and other rights to which such person is entitled under a health care plan.",
+      "id": "1751.01-evidence-of-coverage",
+      "normalized": "evidence of coverage",
+      "scope": "As used in this chapter:",
+      "section": "1751.01",
+      "source_title": "Section 1751.01 - Health insuring corporation law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1751.01",
+      "term": "Evidence of coverage"
+    },
+    {
+      "definition": "(L) \"Health care facility\" means any facility, except a health care practitioner's office, that provides preventive, diagnostic, therapeutic, acute convalescent, rehabilitation, mental health, intellectual disability, intermediate care, or skilled nursing services.",
+      "id": "1751.01-health-care-facility",
+      "normalized": "health care facility",
+      "scope": "As used in this chapter:",
+      "section": "1751.01",
+      "source_title": "Section 1751.01 - Health insuring corporation law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1751.01",
+      "term": "Health care facility"
+    },
+    {
+      "definition": "(M) \"Health care services\" means basic, supplemental, and specialty health care services.",
+      "id": "1751.01-health-care-services",
+      "normalized": "health care services",
+      "scope": "As used in this chapter:",
+      "section": "1751.01",
+      "source_title": "Section 1751.01 - Health insuring corporation law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1751.01",
+      "term": "Health care services"
+    },
+    {
+      "definition": "(N) \"Health delivery network\" means any group of providers or health care facilities, or both, or any representative thereof, that have entered into an agreement to offer health care services in a panel rather than on an individual basis.",
+      "id": "1751.01-health-delivery-network",
+      "normalized": "health delivery network",
+      "scope": "As used in this chapter:",
+      "section": "1751.01",
+      "source_title": "Section 1751.01 - Health insuring corporation law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1751.01",
+      "term": "Health delivery network"
+    },
+    {
+      "definition": "(O) \"Health insuring corporation\" means a corporation, as defined in division (H) of this section, that, pursuant to a policy, contract, certificate, or agreement, pays for, reimburses, or provides, delivers, arranges for, or otherwise makes available, basic health care services, supplemental health care services, or specialty health care services, or a combination of basic health care services and either supplemental health care services or specialty health care services, through either an open panel plan or a closed panel plan.",
+      "id": "1751.01-health-insuring-corporation",
+      "normalized": "health insuring corporation",
+      "scope": "As used in this chapter:",
+      "section": "1751.01",
+      "source_title": "Section 1751.01 - Health insuring corporation law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1751.01",
+      "term": "Health insuring corporation"
+    },
+    {
+      "definition": "\"Health insuring corporation\" does not include a limited liability company formed pursuant to Chapter 1705. or 1706. of the Revised Code, an insurer licensed under Title XXXIX of the Revised Code if that insurer offers only open panel plans under which all providers and health care facilities participating receive their compensation directly from the insurer, a corporation formed by or on behalf of a political subdivision or a department, office, or institution of the state, or a public entity formed by or on behalf of a board of county commissioners, a county board of developmental disabilities, an alcohol and drug addiction services board, a board of alcohol, drug addiction, and mental health services, or a community mental health board, as those terms are used in Chapters 340. and 5126. of the Revised Code. Except as provided by division (D) of section 1751.02 of the Revised Code, or as otherwise provided by law, no board, commission, agency, or other entity under the control of a political subdivision may accept insurance risk in providing for health care services. However, nothing in this division shall be construed as prohibiting such entities from purchasing the services of a health insuring corporation or a third-party administrator licensed under Chapter 3959. of the Revised Code.",
+      "id": "1751.01-health-insuring-corporation",
+      "normalized": "health insuring corporation",
+      "scope": "As used in this chapter:",
+      "section": "1751.01",
+      "source_title": "Section 1751.01 - Health insuring corporation law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1751.01",
+      "term": "Health insuring corporation"
+    },
+    {
+      "definition": "(P) \"Intermediary organization\" means a health delivery network or other entity that contracts with licensed health insuring corporations or self-insured employers, or both, to provide health care services, and that enters into contractual arrangements with other entities for the provision of health care services for the purpose of fulfilling the terms of its contracts with the health insuring corporations and self-insured employers.",
+      "id": "1751.01-intermediary-organization",
+      "normalized": "intermediary organization",
+      "scope": "As used in this chapter:",
+      "section": "1751.01",
+      "source_title": "Section 1751.01 - Health insuring corporation law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1751.01",
+      "term": "Intermediary organization"
+    },
+    {
+      "definition": "(Q) \"Intermediate care\" means residential care above the level of room and board for patients who require personal assistance and health-related services, but who do not require skilled nursing care.",
+      "id": "1751.01-intermediate-care",
+      "normalized": "intermediate care",
+      "scope": "As used in this chapter:",
+      "section": "1751.01",
+      "source_title": "Section 1751.01 - Health insuring corporation law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1751.01",
+      "term": "Intermediate care"
+    },
+    {
+      "definition": "(R) \"Medical record\" means the personal information that relates to an individual's physical or mental condition, medical history, or medical treatment.",
+      "id": "1751.01-medical-record",
+      "normalized": "medical record",
+      "scope": "As used in this chapter:",
+      "section": "1751.01",
+      "source_title": "Section 1751.01 - Health insuring corporation law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1751.01",
+      "term": "Medical record"
+    },
+    {
+      "definition": "(S)(1) \"Open panel plan\" means a health care plan that provides incentives for enrollees to use participating providers and that also allows enrollees to use providers that are not participating providers.\n\n(2) No health insuring corporation may offer an open panel plan, unless the health insuring corporation is also licensed as an insurer under Title XXXIX of the Revised Code, the health insuring corporation, on June 4, 1997, holds a certificate of authority or license to operate under Chapter 1736. or 1740. of the Revised Code, or an insurer licensed under Title XXXIX of the Revised Code is responsible for the out-of-network risk as evidenced by both an evidence of coverage filing under section 1751.11 of the Revised Code and a policy and certificate filing under section 3923.02 of the Revised Code.",
+      "id": "1751.01-open-panel-plan",
+      "normalized": "open panel plan",
+      "scope": "As used in this chapter:",
+      "section": "1751.01",
+      "source_title": "Section 1751.01 - Health insuring corporation law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1751.01",
+      "term": "Open panel plan"
+    },
+    {
+      "definition": "(T) \"Osteopathic hospital\" means a hospital registered under section 3701.07 of the Revised Code that advocates osteopathic principles and the practice and perpetuation of osteopathic medicine by doing any of the following:\n\n(1) Maintaining a department or service of osteopathic medicine or a committee on the utilization of osteopathic principles and methods, under the supervision of an osteopathic physician;\n\n(2) Maintaining an active medical staff, the majority of which is comprised of osteopathic physicians;\n\n(3) Maintaining a medical staff executive committee that has osteopathic physicians as a majority of its members.",
+      "id": "1751.01-osteopathic-hospital",
+      "normalized": "osteopathic hospital",
+      "scope": "As used in this chapter:",
+      "section": "1751.01",
+      "source_title": "Section 1751.01 - Health insuring corporation law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1751.01",
+      "term": "Osteopathic hospital"
+    },
+    {
+      "definition": "(U) \"Panel\" means a group of providers or health care facilities that have joined together to deliver health care services through a contractual arrangement with a health insuring corporation, employer group, or other payor.",
+      "id": "1751.01-panel",
+      "normalized": "panel",
+      "scope": "As used in this chapter:",
+      "section": "1751.01",
+      "source_title": "Section 1751.01 - Health insuring corporation law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1751.01",
+      "term": "Panel"
+    },
+    {
+      "definition": "(V) \"Person\" has the same meaning as in section 1.59 of the Revised Code, and, unless the context otherwise requires, includes any insurance company holding a certificate of authority under Title XXXIX of the Revised Code, any subsidiary and affiliate of an insurance company, and any government agency.",
+      "id": "1751.01-person",
+      "normalized": "person",
+      "scope": "As used in this chapter:",
+      "section": "1751.01",
+      "source_title": "Section 1751.01 - Health insuring corporation law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1751.01",
+      "term": "Person"
+    },
+    {
+      "definition": "(W) \"Premium rate\" means any set fee regularly paid by a subscriber to a health insuring corporation. A \"premium rate\" does not include a one-time membership fee, an annual administrative fee, or a nominal access fee, paid to a managed health care system under which the recipient of health care services remains solely responsible for any charges accessed for those services by the provider or health care facility.",
+      "id": "1751.01-premium-rate",
+      "normalized": "premium rate",
+      "scope": "As used in this chapter:",
+      "section": "1751.01",
+      "source_title": "Section 1751.01 - Health insuring corporation law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1751.01",
+      "term": "Premium rate"
+    },
+    {
+      "definition": "(X) \"Primary care provider\" means a provider that is designated by a health insuring corporation to supervise, coordinate, or provide initial care or continuing care to an enrollee, and that may be required by the health insuring corporation to initiate a referral for specialty care and to maintain supervision of the health care services rendered to the enrollee.",
+      "id": "1751.01-primary-care-provider",
+      "normalized": "primary care provider",
+      "scope": "As used in this chapter:",
+      "section": "1751.01",
+      "source_title": "Section 1751.01 - Health insuring corporation law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1751.01",
+      "term": "Primary care provider"
+    },
+    {
+      "definition": "(Y) \"Provider\" means any natural person or partnership of natural persons who are licensed, certified, accredited, or otherwise authorized in this state to furnish health care services, or any professional association organized under Chapter 1785. of the Revised Code, provided that nothing in this chapter or other provisions of law shall be construed to preclude a health insuring corporation, health care practitioner, or organized health care group associated with a health insuring corporation from employing certified nurse practitioners, certified nurse anesthetists, clinical nurse specialists, certified nurse-midwives, pharmacists, dietitians, physician assistants, dental assistants, dental hygienists, optometric technicians, or other allied health personnel who are licensed, certified, accredited, or otherwise authorized in this state to furnish health care services.",
+      "id": "1751.01-provider",
+      "normalized": "provider",
+      "scope": "As used in this chapter:",
+      "section": "1751.01",
+      "source_title": "Section 1751.01 - Health insuring corporation law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1751.01",
+      "term": "Provider"
+    },
+    {
+      "definition": "(Z) \"Provider sponsored organization\" means a corporation, as defined in division (H) of this section, that is at least eighty per cent owned or controlled by one or more hospitals, as defined in section 3727.01 of the Revised Code, or one or more physicians licensed to practice medicine or surgery or osteopathic medicine and surgery under Chapter 4731. of the Revised Code, or any combination of such physicians and hospitals. Such control is presumed to exist if at least eighty per cent of the voting rights or governance rights of a provider sponsored organization are directly or indirectly owned, controlled, or otherwise held by any combination of the physicians and hospitals described in this division.",
+      "id": "1751.01-provider-sponsored-organization",
+      "normalized": "provider sponsored organization",
+      "scope": "As used in this chapter:",
+      "section": "1751.01",
+      "source_title": "Section 1751.01 - Health insuring corporation law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1751.01",
+      "term": "Provider sponsored organization"
+    },
+    {
+      "definition": "(AA) \"Solicitation document\" means the written materials provided to prospective subscribers or enrollees, or both, and used for advertising and marketing to induce enrollment in the health care plans of a health insuring corporation.",
+      "id": "1751.01-solicitation-document",
+      "normalized": "solicitation document",
+      "scope": "As used in this chapter:",
+      "section": "1751.01",
+      "source_title": "Section 1751.01 - Health insuring corporation law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1751.01",
+      "term": "Solicitation document"
+    },
+    {
+      "definition": "(BB) \"Subscriber\" means a person who is responsible for making payments to a health insuring corporation for participation in a health care plan, or an enrollee whose employment or other status is the basis of eligibility for enrollment in a health insuring corporation.",
+      "id": "1751.01-subscriber",
+      "normalized": "subscriber",
+      "scope": "As used in this chapter:",
+      "section": "1751.01",
+      "source_title": "Section 1751.01 - Health insuring corporation law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1751.01",
+      "term": "Subscriber"
+    },
+    {
+      "definition": "(CC) \"Urgent care services\" means those health care services that are appropriately provided for an unforeseen condition of a kind that usually requires medical attention without delay but that does not pose a threat to the life, limb, or permanent health of the injured or ill person, and may include such health care services provided out of the health insuring corporation's approved service area pursuant to indemnity payments or service agreements.\n\nLast updated September 10, 2021 at 9:31 AM",
+      "id": "1751.01-urgent-care-services",
+      "normalized": "urgent care services",
+      "scope": "As used in this chapter:",
+      "section": "1751.01",
+      "source_title": "Section 1751.01 - Health insuring corporation law definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1751.01",
+      "term": "Urgent care services"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3923.80",
+      "number": "3923.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3923.80"
+    },
+    {
+      "kind": "section",
+      "label": "1751.02",
+      "number": "1751.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.02"
+    },
+    {
+      "kind": "section",
+      "label": "1751.11",
+      "number": "1751.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.11"
+    },
+    {
+      "kind": "section",
+      "label": "3923.02",
+      "number": "3923.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3923.02"
+    },
+    {
+      "kind": "section",
+      "label": "3701.07",
+      "number": "3701.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3701.07"
+    },
+    {
+      "kind": "section",
+      "label": "1.59",
+      "number": "1.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1.59"
+    },
+    {
+      "kind": "section",
+      "label": "3727.01",
+      "number": "3727.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3727.01"
+    }
+  ],
+  "scraped": "2026-07-02T19:39:28+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1751.01",
+  "title": "Section 1751.01 - Health insuring corporation law definitions."
+}

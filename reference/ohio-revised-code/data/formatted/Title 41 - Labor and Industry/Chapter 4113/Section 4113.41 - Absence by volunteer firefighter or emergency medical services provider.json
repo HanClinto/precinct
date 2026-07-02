@@ -1,0 +1,42 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Emergency\" means going to, attending to, or coming from a fire, hazardous or toxic materials spill and cleanup, medical emergency, or other situation that poses an imminent threat of loss of life or property to which the fire department or provider of emergency medical services has been or later could be dispatched.\n\n(2) \"Emergency medical services\" and \"emergency medical service organization\" have the same meanings as in section 4765.01 of the Revised Code.",
+      "id": "4113.41-emergency",
+      "normalized": "emergency",
+      "scope": "(F) As used in this section:",
+      "section": "4113.41",
+      "source_title": "Section 4113.41 - Absence by volunteer firefighter or emergency medical services provider.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4113.41",
+      "term": "Emergency"
+    },
+    {
+      "definition": "(3) \"Volunteer firefighter\" has the same meaning as in section 146.01 of the Revised Code.",
+      "id": "4113.41-volunteer-firefighter",
+      "normalized": "volunteer firefighter",
+      "scope": "(F) As used in this section:",
+      "section": "4113.41",
+      "source_title": "Section 4113.41 - Absence by volunteer firefighter or emergency medical services provider.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4113.41",
+      "term": "Volunteer firefighter"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "4765.01",
+      "number": "4765.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4765.01"
+    },
+    {
+      "kind": "section",
+      "label": "146.01",
+      "number": "146.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-146.01"
+    }
+  ],
+  "scraped": "2026-07-02T20:04:06+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4113.41",
+  "title": "Section 4113.41 - Absence by volunteer firefighter or emergency medical services provider."
+}

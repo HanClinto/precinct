@@ -1,0 +1,54 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Total Ohio equity capital\" means the product of (a) the total equity capital of a financial institution as of the end of a taxable year to the extent that the total equity capital does not exceed fourteen per cent of the financial institution's total assets multiplied by (b) the Ohio apportionment ratio calculated for the financial institution under section 5726.05 of the Revised Code.",
+      "id": "5726.04-total-ohio-equity-capital",
+      "normalized": "total ohio equity capital",
+      "scope": "",
+      "section": "5726.04",
+      "source_title": "Section 5726.04 - Amount of tax.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5726.04",
+      "term": "Total Ohio equity capital"
+    },
+    {
+      "definition": "(2) \"Total assets\" means:\n\n(a) In the case of a financial institution described in division (H)(1) of section 5726.01 of the Revised Code, the total consolidated assets as shown on the reporting person's FR Y-9 as of the end of the taxable year;\n\n(b) In the case of a financial institution described in division (H)(2) or (3) of section 5726.01 of the Revised Code, the total consolidated assets as shown on the reporting person's call report as of the end of the taxable year;\n\n(c) In the case of all other financial institutions, the total consolidated assets of the financial institution as of the end of the taxable year in accordance with generally accepted accounting principles.\n\nThe tax commissioner may audit a reporting person's total assets to confirm the financial institution's actual total consolidated assets and may make any adjustments necessary.\n\n(D) All payments received from the tax levied under this chapter shall be credited to the general revenue fund.\n\n(E) The commissioner may adopt rules to provide additional guidance for the application of this section.\n\nLast updated August 8, 2023 at 11:24 AM",
+      "id": "5726.04-total-assets",
+      "normalized": "total assets",
+      "scope": "",
+      "section": "5726.04",
+      "source_title": "Section 5726.04 - Amount of tax.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5726.04",
+      "term": "Total assets"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "5726.02",
+      "number": "5726.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5726.02"
+    },
+    {
+      "kind": "section",
+      "label": "5751.01",
+      "number": "5751.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5751.01"
+    },
+    {
+      "kind": "section",
+      "label": "5726.05",
+      "number": "5726.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5726.05"
+    },
+    {
+      "kind": "section",
+      "label": "5726.01",
+      "number": "5726.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5726.01"
+    }
+  ],
+  "scraped": "2026-07-02T20:14:51+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5726.04",
+  "title": "Section 5726.04 - Amount of tax."
+}

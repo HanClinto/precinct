@@ -1,0 +1,350 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Account\" means an arrangement under a terms-of-service agreement in which a custodian carries, maintains, processes, receives, or stores a digital asset of the user or provides goods or services to the user.",
+      "id": "2137.01-account",
+      "normalized": "account",
+      "scope": "As used in this chapter:",
+      "section": "2137.01",
+      "source_title": "Section 2137.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2137.01",
+      "term": "Account"
+    },
+    {
+      "definition": "(B) \"Agent\" means a person granted authority to act for a principal under a power of attorney, whether denominated as agent, attorney in fact, or otherwise.",
+      "id": "2137.01-agent",
+      "normalized": "agent",
+      "scope": "As used in this chapter:",
+      "section": "2137.01",
+      "source_title": "Section 2137.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2137.01",
+      "term": "Agent"
+    },
+    {
+      "definition": "(C) \"Carries\" means engages in the transmission of an electronic communication.",
+      "id": "2137.01-carries",
+      "normalized": "carries",
+      "scope": "As used in this chapter:",
+      "section": "2137.01",
+      "source_title": "Section 2137.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2137.01",
+      "term": "Carries"
+    },
+    {
+      "definition": "(D) \"Catalogue of electronic communications\" means information that identifies each person with which a user has had an electronic communication, the time and date of the communication, and the electronic address of the person.",
+      "id": "2137.01-catalogue-of-electronic-communications",
+      "normalized": "catalogue of electronic communications",
+      "scope": "As used in this chapter:",
+      "section": "2137.01",
+      "source_title": "Section 2137.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2137.01",
+      "term": "Catalogue of electronic communications"
+    },
+    {
+      "definition": "(E) \"Content of an electronic communication\" means information concerning the substance or meaning of the communication that meets all of the following conditions:\n\n(1) It has been sent or received by a user.\n\n(2) It is in electronic storage by a custodian providing an electronic-communication service to the public or is carried or maintained by a custodian providing a remote-computing service to the public.\n\n(3) It is not readily accessible to the public.",
+      "id": "2137.01-content-of-an-electronic-communication",
+      "normalized": "content of an electronic communication",
+      "scope": "As used in this chapter:",
+      "section": "2137.01",
+      "source_title": "Section 2137.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2137.01",
+      "term": "Content of an electronic communication"
+    },
+    {
+      "definition": "(F) \"Court\" means the probate court for all matters in which the court has exclusive jurisdiction under section 2101.24 of the Revised Code. \"Court\" also includes the probate court or the general division of the court of common pleas for matters in which such courts have concurrent jurisdiction under section 2101.24 of the Revised Code.",
+      "id": "2137.01-court",
+      "normalized": "court",
+      "scope": "As used in this chapter:",
+      "section": "2137.01",
+      "source_title": "Section 2137.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2137.01",
+      "term": "Court"
+    },
+    {
+      "definition": "(G) \"Custodian\" means a person that carries, maintains, processes, receives, or stores a digital asset of a user.",
+      "id": "2137.01-custodian",
+      "normalized": "custodian",
+      "scope": "As used in this chapter:",
+      "section": "2137.01",
+      "source_title": "Section 2137.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2137.01",
+      "term": "Custodian"
+    },
+    {
+      "definition": "(H) \"Designated recipient\" means a person chosen by a user using an online tool to administer digital assets of the user.",
+      "id": "2137.01-designated-recipient",
+      "normalized": "designated recipient",
+      "scope": "As used in this chapter:",
+      "section": "2137.01",
+      "source_title": "Section 2137.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2137.01",
+      "term": "Designated recipient"
+    },
+    {
+      "definition": "(I) \"Digital asset\" means an electronic record in which an individual has a right or interest. \"Digital asset\" does not include an underlying asset or liability unless the asset or liability is itself an electronic record.",
+      "id": "2137.01-digital-asset",
+      "normalized": "digital asset",
+      "scope": "As used in this chapter:",
+      "section": "2137.01",
+      "source_title": "Section 2137.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2137.01",
+      "term": "Digital asset"
+    },
+    {
+      "definition": "(J) \"Electronic\" means relating to technology having electrical, digital, magnetic, wireless, optical, electromagnetic, or similar capabilities.",
+      "id": "2137.01-electronic",
+      "normalized": "electronic",
+      "scope": "As used in this chapter:",
+      "section": "2137.01",
+      "source_title": "Section 2137.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2137.01",
+      "term": "Electronic"
+    },
+    {
+      "definition": "(K) \"Electronic communication\" has the same meaning as in 18 U.S.C. 2510(12), as amended.",
+      "id": "2137.01-electronic-communication",
+      "normalized": "electronic communication",
+      "scope": "As used in this chapter:",
+      "section": "2137.01",
+      "source_title": "Section 2137.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2137.01",
+      "term": "Electronic communication"
+    },
+    {
+      "definition": "(L) \"Electronic-communication service\" means a custodian that provides to a user the ability to send or receive an electronic communication.",
+      "id": "2137.01-electronic-communication-service",
+      "normalized": "electronic-communication service",
+      "scope": "As used in this chapter:",
+      "section": "2137.01",
+      "source_title": "Section 2137.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2137.01",
+      "term": "Electronic-communication service"
+    },
+    {
+      "definition": "(M) \"Fiduciary\" means an original, additional, or successor agent, guardian, personal representative, or trustee.",
+      "id": "2137.01-fiduciary",
+      "normalized": "fiduciary",
+      "scope": "As used in this chapter:",
+      "section": "2137.01",
+      "source_title": "Section 2137.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2137.01",
+      "term": "Fiduciary"
+    },
+    {
+      "definition": "(N)(1) \"Guardian\" means any person, association, or corporation appointed by the probate court to have the care and management of the person, the estate, or the person and the estate of an incompetent or minor. When applicable, \"guardian\" includes, but is not limited to, a limited guardian, an interim guardian, a standby guardian, and an emergency guardian appointed pursuant to division (B) of section 2111.02 of the Revised Code. \"Guardian\" also includes both of the following:\n\n(a) An agency under contract with the department of developmental disabilities for the provision of protective service under sections 5123.55 to 5123.59 of the Revised Code when appointed by the probate court to have the care and management of the person of an incompetent;\n\n(b) A conservator appointed by the probate court in an order of conservatorship issued pursuant to section 2111.021 of the Revised Code.",
+      "id": "2137.01-guardian",
+      "normalized": "guardian",
+      "scope": "As used in this chapter:",
+      "section": "2137.01",
+      "source_title": "Section 2137.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2137.01",
+      "term": "Guardian"
+    },
+    {
+      "definition": "(2) \"Guardian\" does not include a guardian under sections 5905.01 to 5905.19 of the Revised Code.",
+      "id": "2137.01-guardian",
+      "normalized": "guardian",
+      "scope": "As used in this chapter:",
+      "section": "2137.01",
+      "source_title": "Section 2137.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2137.01",
+      "term": "Guardian"
+    },
+    {
+      "definition": "(O) \"Information\" means data, text, images, videos, sounds, codes, computer programs, software, databases, or the like.",
+      "id": "2137.01-information",
+      "normalized": "information",
+      "scope": "As used in this chapter:",
+      "section": "2137.01",
+      "source_title": "Section 2137.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2137.01",
+      "term": "Information"
+    },
+    {
+      "definition": "(P) \"Online tool\" means an electronic service provided by a custodian that allows the user, in an agreement distinct from the terms-of-service agreement between the custodian and user, to provide directions for disclosure or nondisclosure of digital assets to a third person.",
+      "id": "2137.01-online-tool",
+      "normalized": "online tool",
+      "scope": "As used in this chapter:",
+      "section": "2137.01",
+      "source_title": "Section 2137.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2137.01",
+      "term": "Online tool"
+    },
+    {
+      "definition": "(Q) \"Person\" means an individual, corporation, business trust, estate, trust, partnership, limited liability company, association, joint venture, government, governmental agency or instrumentality, public corporation, or any other legal or commercial entity.",
+      "id": "2137.01-person",
+      "normalized": "person",
+      "scope": "As used in this chapter:",
+      "section": "2137.01",
+      "source_title": "Section 2137.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2137.01",
+      "term": "Person"
+    },
+    {
+      "definition": "(R) \"Personal representative\" means an executor, administrator, special administrator, or other person acting under the authority of the probate court to perform substantially the same function under the law of this state. \"Personal representative\" also includes a commissioner in a release of assets from administration under section 2113.03 of the Revised Code and an applicant for summary release from administration under section 2113.031 of the Revised Code.",
+      "id": "2137.01-personal-representative",
+      "normalized": "personal representative",
+      "scope": "As used in this chapter:",
+      "section": "2137.01",
+      "source_title": "Section 2137.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2137.01",
+      "term": "Personal representative"
+    },
+    {
+      "definition": "(S) \"Power of attorney\" means a writing or other record that grants authority to an agent to act in the place of the principal.",
+      "id": "2137.01-power-of-attorney",
+      "normalized": "power of attorney",
+      "scope": "As used in this chapter:",
+      "section": "2137.01",
+      "source_title": "Section 2137.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2137.01",
+      "term": "Power of attorney"
+    },
+    {
+      "definition": "(T) \"Principal\" means an individual who grants authority to an agent in a power of attorney.",
+      "id": "2137.01-principal",
+      "normalized": "principal",
+      "scope": "As used in this chapter:",
+      "section": "2137.01",
+      "source_title": "Section 2137.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2137.01",
+      "term": "Principal"
+    },
+    {
+      "definition": "(U) \"Record\" means information that is inscribed on a tangible medium or that is stored in an electronic or other medium and is retrievable in perceivable form.",
+      "id": "2137.01-record",
+      "normalized": "record",
+      "scope": "As used in this chapter:",
+      "section": "2137.01",
+      "source_title": "Section 2137.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2137.01",
+      "term": "Record"
+    },
+    {
+      "definition": "(V) \"Remote-computing service\" means a custodian that provides to a user computer-processing services or the storage of digital assets by means of an electronic communications system, as defined in 18 U.S.C. 2510(14), as amended.",
+      "id": "2137.01-remote-computing-service",
+      "normalized": "remote-computing service",
+      "scope": "As used in this chapter:",
+      "section": "2137.01",
+      "source_title": "Section 2137.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2137.01",
+      "term": "Remote-computing service"
+    },
+    {
+      "definition": "(W) \"Terms-of-service agreement\" means an agreement that controls the relationship between a user and a custodian.",
+      "id": "2137.01-terms-of-service-agreement",
+      "normalized": "terms-of-service agreement",
+      "scope": "As used in this chapter:",
+      "section": "2137.01",
+      "source_title": "Section 2137.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2137.01",
+      "term": "Terms-of-service agreement"
+    },
+    {
+      "definition": "(X) \"Trustee\" means a fiduciary with legal title to property pursuant to an agreement or declaration that creates a beneficial interest in another. \"Trustee\" includes an original, additional, and successor trustee and a cotrustee.",
+      "id": "2137.01-trustee",
+      "normalized": "trustee",
+      "scope": "As used in this chapter:",
+      "section": "2137.01",
+      "source_title": "Section 2137.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2137.01",
+      "term": "Trustee"
+    },
+    {
+      "definition": "(Y) \"User\" means a person that has an account with a custodian.",
+      "id": "2137.01-user",
+      "normalized": "user",
+      "scope": "As used in this chapter:",
+      "section": "2137.01",
+      "source_title": "Section 2137.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2137.01",
+      "term": "User"
+    },
+    {
+      "definition": "(Z) \"Ward\" means any person for whom a guardian is acting or for whom the probate court is acting pursuant to section 2111.50 of the Revised Code. \"Ward\" includes a person for whom a conservator has been appointed by the probate court in an order of conservatorship issued pursuant to section 2111.021 of the Revised Code.",
+      "id": "2137.01-ward",
+      "normalized": "ward",
+      "scope": "As used in this chapter:",
+      "section": "2137.01",
+      "source_title": "Section 2137.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2137.01",
+      "term": "Ward"
+    },
+    {
+      "definition": "(AA) \"Will\" includes codicils to wills admitted to probate, lost, spoliated, or destroyed wills, and instruments admitted to probate under Chapter 5817. of the Revised Code. \"Will\" does not include inter vivos trusts or other instruments that have not been admitted to probate.",
+      "id": "2137.01-will",
+      "normalized": "will",
+      "scope": "As used in this chapter:",
+      "section": "2137.01",
+      "source_title": "Section 2137.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2137.01",
+      "term": "Will"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2101.24",
+      "number": "2101.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2101.24"
+    },
+    {
+      "kind": "section",
+      "label": "2111.02",
+      "number": "2111.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.02"
+    },
+    {
+      "kind": "section",
+      "label": "5123.55",
+      "number": "5123.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5123.55"
+    },
+    {
+      "kind": "section",
+      "label": "5123.59",
+      "number": "5123.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5123.59"
+    },
+    {
+      "kind": "section",
+      "label": "2111.021",
+      "number": "2111.021",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.021"
+    },
+    {
+      "kind": "section",
+      "label": "5905.01",
+      "number": "5905.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5905.01"
+    },
+    {
+      "kind": "section",
+      "label": "5905.19",
+      "number": "5905.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5905.19"
+    },
+    {
+      "kind": "section",
+      "label": "2113.03",
+      "number": "2113.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.03"
+    },
+    {
+      "kind": "section",
+      "label": "2113.031",
+      "number": "2113.031",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.031"
+    },
+    {
+      "kind": "section",
+      "label": "2111.50",
+      "number": "2111.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.50"
+    }
+  ],
+  "scraped": "2026-07-02T19:41:56+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2137.01",
+  "title": "Section 2137.01 - Definitions."
+}

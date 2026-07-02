@@ -1,0 +1,42 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Medicaid estate recovery program\" means the program instituted under section 5162.21 of the Revised Code.",
+      "id": "2117.061-medicaid-estate-recovery-program",
+      "normalized": "medicaid estate recovery program",
+      "scope": "(A) As used in this section:",
+      "section": "2117.061",
+      "source_title": "Section 2117.061 - Notice of receipt of medicaid benefits to administrator of estate recovery program.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2117.061",
+      "term": "Medicaid estate recovery program"
+    },
+    {
+      "definition": "(2) \"Person responsible for the estate\" means the executor, administrator, commissioner, or person who filed pursuant to section 2113.03 of the Revised Code for release from administration of an estate.\n\n(B) The person responsible for the estate of a decedent subject to the medicaid estate recovery program or the estate of a decedent who was the spouse of a decedent subject to the medicaid estate recovery program shall submit a properly completed medicaid estate recovery notice form to the administrator of the medicaid estate recovery program not later than thirty days after the occurrence of any of the following:\n\n(1) The granting of letters of administration or letters testamentary;\n\n(2) The filing of an application for release from administration or summary release from administration.\n\n(C) The person responsible for the estate shall mark the appropriate box on the appropriate probate form that gives notice to the administrator of the medicaid estate recovery program to indicate compliance with the requirements of division (B) of this section.\n\n(D) The administrator of the medicaid estate recovery program shall present a claim for estate recovery to the person responsible for the estate of the decedent or the person's legal representative not later than ninety days after the date on which the medicaid estate recovery notice form is received under division (B) of this section or one year after the decedent's death, whichever is later.",
+      "id": "2117.061-person-responsible-for-the-estate",
+      "normalized": "person responsible for the estate",
+      "scope": "(A) As used in this section:",
+      "section": "2117.061",
+      "source_title": "Section 2117.061 - Notice of receipt of medicaid benefits to administrator of estate recovery program.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2117.061",
+      "term": "Person responsible for the estate"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "5162.21",
+      "number": "5162.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5162.21"
+    },
+    {
+      "kind": "section",
+      "label": "2113.03",
+      "number": "2113.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2113.03"
+    }
+  ],
+  "scraped": "2026-07-02T19:41:33+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2117.061",
+  "title": "Section 2117.061 - Notice of receipt of medicaid benefits to administrator of estate recovery program."
+}

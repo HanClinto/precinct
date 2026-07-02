@@ -1,0 +1,64 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-2305.37
+Scraped: 2026-07-02T19:43:12+00:00
+
+# Section 2305.37 - Person donating perishable food for distribution to needy individuals not liable for harm.
+
+**Effective:** July 7, 2023
+
+**Latest Legislation:** Senate Bill 16 - 135th General Assembly
+
+(A) As used in this section:
+
+(1) "Agency" means any nonhospital, charitable nonprofit corporation that is organized and operated pursuant to Chapter 1702. of the Revised Code and that satisfies all of the following, or any nonhospital, charitable association, group, institution, organization, or society that is not organized and not operated for profit and that satisfies all of the following:
+
+(a) It distributes consumer goods or perishable food, directly or indirectly, to individuals in need.
+
+(b) It does not charge or accept any form of compensation from the individuals in need for the distribution of the consumer goodsto them.
+
+(c) It does not charge for the distribution of perishable food to individuals in need, or it does not charge individuals in need more than an amount sufficient to cover the cost of handling the perishable food distributed to them.
+
+(2) "At-cost" means the perishable food handling costs incurred by an agency.
+
+(3) "Consumer goods" means items of tangible personal property other than food that are used primarily for personal, family, or household purposes.
+
+(4) "Food service operation" has the same meaning as in section 3717.01 of the Revised Code.
+
+(5) "Food that is gleaned" means perishable food that remains on a farm or other real property and that the owner, lessee, renter, or operator of the property permits one or more persons to salvage free-of-charge for subsequent donation to one or more agencies.
+
+(6) "Harm" means injury, death, or loss to person or property.
+
+(7) "Hospital" has the same meaning as in section 3701.01 , 3727.01 , or 5122.01 of the Revised Code.
+
+(8) "Individuals in need" means those persons who an agency determines are eligible to receive free distributions of consumer goods or free or at-cost distributions of perishable food because of poverty, illness, disability, infancy, or other conditions or circumstances that may result in persons having a need to receive such distributions.
+
+(9) "Perishable food" means any food that may spoil or otherwise become unfit for human consumption because of its nature, age, or physical condition. "Perishable food" includes, but is not limited to, fresh meats, processed meats, poultry, fish and other seafood, dairy products, bakery products, eggs in the shell, fresh fruits, fresh vegetables, food that is gleaned, food that is packaged, refrigerated, or frozen, food that is canned, and prepared or other food that has not been served by a restaurant, cafeteria, hospital, hotel, caterer, or other food service operation to any customer, patient, or other person in the ordinary course of business, by a public or private school, college, university, or other educational institution to a student or another person on the premises in the ordinary course of the operation of the institution, or by a fraternal, veteran's, or other organization to its members or other persons on the premises in the ordinary course of the operation of the organization.
+
+(10) "Person" has the same meaning as in section 1.59 of the Revised Code and additionally includes governmental entities and federal instrumentalities.
+
+(11) "Sale date" means the date by which the manufacturer, processor, or packager of a packaged food product recommends that the food product be sold for consumption based on the food product's quality assurance period.
+
+(12) "Tort action" means a civil action for damages for injury, death, or loss to person or property. "Tort action" includes a product liability claim that is subject to sections 2307.71 to 2307.80 of the Revised Code but does not include a civil action for a breach of contract or another agreement between persons.
+
+(B) Notwithstanding Chapter 3715. of the Revised Code, a person who, in good faith, donates perishable food to an agency is not liable in damages in a tort action for harm that allegedly arises because that perishable food, when distributed by the agency or any other agency to a particular individual in need, is not fit for human consumption, if both of the following apply:
+
+(1) Prior to the donation of the perishable food to the agency, the person determines that the perishable food will be fit for human consumption at the time of its donation. A presumption favoring liability does not arise because the perishable food is donated to an agency on or after an applicable sale date.
+
+(2) The person does not make the determination that the perishable food will be fit for human consumption at the time of its donation to the agency in a manner that constitutes gross negligence or willful or wanton misconduct.
+
+(C) A person who, in good faith, donates consumer goods to an agency is not liable in damages in a tort action for harm that allegedly arises because those consumer goods are not fit for use at the time the agency or any other agency distributes them to a particular individual in need, if both of the following apply:
+
+(1) Prior to the donation of the consumer goods to the agency, the person determines that the consumer goods will be fit for use at the time of their donation. A presumption favoring liability does not arise because the consumer goods are in packaging that has been damaged.
+
+(2) The person does not make the determination that the consumer goods will be fit for use at the time of their donation to the agency in a manner that constitutes gross negligence or willful or wanton misconduct.
+
+(D) Notwithstanding Chapter 3715. of the Revised Code, an agency that, in good faith, distributes consumer goods or perishable food to a particular individual in need is not liable in damages in a tort action for harm that allegedly arises because those consumer goods are not fit for use or that perishable food is not fit for human consumption if both of the following apply:
+
+(1) Prior to the distribution of the consumer goods or perishable food to the individual, the agency determines that the consumer goods will be fit for use or the perishable food will be fit for human consumption at the time of its distribution. A presumption favoring liability does not arise because the consumer goods are in packaging that has been damaged or because the perishable food is distributed to an individual on or after an applicable sale date.
+
+(2) The agency does not make the determination that the consumer goods will be fit for use or the perishable food will be fit for human consumption at the time of its distribution to the individual in a manner that constitutes gross negligence or willful or wanton misconduct.
+
+(E)(1) This section does not create a new cause of action or substantive legal right against persons who donate consumer goods or perishable food to an agency or against agencies that distribute consumer goods or perishable food to an individual in need.
+
+(2) This section does not affect any immunities from or defenses to tort liability established by another section of the Revised Code or available at common law to which persons who donate consumer goods or perishable food other than to agencies, or to which agencies that distribute consumer goods or perishable food other than to individuals in need, may be entitled.
+
+Last updated September 7, 2023 at 12:40 PM

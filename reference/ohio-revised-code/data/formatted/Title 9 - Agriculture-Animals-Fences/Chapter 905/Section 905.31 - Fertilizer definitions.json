@@ -1,0 +1,388 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Brand name\" means a name or expression, design, or trademark used in connection with one or several grades of any type of fertilizer.",
+      "id": "905.31-brand-name",
+      "normalized": "brand name",
+      "scope": "As used in sections 905.31 to 905.503 of the Revised Code:",
+      "section": "905.31",
+      "source_title": "Section 905.31 - Fertilizer definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-905.31",
+      "term": "Brand name"
+    },
+    {
+      "definition": "(B) \"Bulk fertilizer\" means any type of fertilizer in solid, liquid, or gaseous state, or any combination thereof, in a nonpackaged form.",
+      "id": "905.31-bulk-fertilizer",
+      "normalized": "bulk fertilizer",
+      "scope": "As used in sections 905.31 to 905.503 of the Revised Code:",
+      "section": "905.31",
+      "source_title": "Section 905.31 - Fertilizer definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-905.31",
+      "term": "Bulk fertilizer"
+    },
+    {
+      "definition": "(C) \"Distribute\" means to offer for sale, sell, barter, or otherwise supply fertilizer for other than manufacturing purposes.",
+      "id": "905.31-distribute",
+      "normalized": "distribute",
+      "scope": "As used in sections 905.31 to 905.503 of the Revised Code:",
+      "section": "905.31",
+      "source_title": "Section 905.31 - Fertilizer definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-905.31",
+      "term": "Distribute"
+    },
+    {
+      "definition": "(D) \"Fertilizer\" means any substance containing nitrogen, phosphorus, or potassium or any recognized plant nutrient element or compound that is used for its plant nutrient content or for compounding mixed fertilizers. \"Fertilizer\" does not include lime, limestone, marl, unground bone, water, residual farm products, and animal and vegetable manures unless mixed with fertilizer materials or distributed with a guaranteed analysis.",
+      "id": "905.31-fertilizer",
+      "normalized": "fertilizer",
+      "scope": "As used in sections 905.31 to 905.503 of the Revised Code:",
+      "section": "905.31",
+      "source_title": "Section 905.31 - Fertilizer definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-905.31",
+      "term": "Fertilizer"
+    },
+    {
+      "definition": "(E) \"Grade\" means the percentages of total nitrogen, available phosphorus or available phosphate (P2O5), and soluble potassium or soluble potash (K2O) stated in the same terms, order, and percentage as in guaranteed analysis.",
+      "id": "905.31-grade",
+      "normalized": "grade",
+      "scope": "As used in sections 905.31 to 905.503 of the Revised Code:",
+      "section": "905.31",
+      "source_title": "Section 905.31 - Fertilizer definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-905.31",
+      "term": "Grade"
+    },
+    {
+      "definition": "(F) \"Guaranteed analysis\" means:\n\n(1) The minimum percentages of plant nutrients claimed in the following order and form:\n\nTotal Nitrogen (N)\n\nper cent\n\nAvailable phosphate (P2O5)\n\nper cent\n\nSoluble Potash (K2O)\n\nper cent\n\n(2) Guaranteed analysis includes, in the following order:\n\n(a) For bone and tankage, total phosphorus (P) or phosphate (P2O5);\n\n(b) For basic slag and unacidulated phosphatic materials, available and total phosphorus (P) or phosphate (P2O5) and the degree of fineness;\n\n(c) Additional plant nutrients guaranteed expressed as percentage of elements in the order and form as prescribed by rules adopted by the director of agriculture.",
+      "id": "905.31-guaranteed-analysis",
+      "normalized": "guaranteed analysis",
+      "scope": "As used in sections 905.31 to 905.503 of the Revised Code:",
+      "section": "905.31",
+      "source_title": "Section 905.31 - Fertilizer definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-905.31",
+      "term": "Guaranteed analysis"
+    },
+    {
+      "definition": "(G) \"Label\" means any written or printed matter on the package or tag attached to it or on the pertinent delivery and billing invoice.",
+      "id": "905.31-label",
+      "normalized": "label",
+      "scope": "As used in sections 905.31 to 905.503 of the Revised Code:",
+      "section": "905.31",
+      "source_title": "Section 905.31 - Fertilizer definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-905.31",
+      "term": "Label"
+    },
+    {
+      "definition": "(H) \"Manufacture\" means to process, granulate, blend, mix, or alter the composition of fertilizers for distribution.",
+      "id": "905.31-manufacture",
+      "normalized": "manufacture",
+      "scope": "As used in sections 905.31 to 905.503 of the Revised Code:",
+      "section": "905.31",
+      "source_title": "Section 905.31 - Fertilizer definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-905.31",
+      "term": "Manufacture"
+    },
+    {
+      "definition": "(I) \"Mixed fertilizer\" means any combination or mixture of fertilizer designed for use, or claimed to have value, in promoting plant growth, including fertilizer pesticide mixtures.",
+      "id": "905.31-mixed-fertilizer",
+      "normalized": "mixed fertilizer",
+      "scope": "As used in sections 905.31 to 905.503 of the Revised Code:",
+      "section": "905.31",
+      "source_title": "Section 905.31 - Fertilizer definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-905.31",
+      "term": "Mixed fertilizer"
+    },
+    {
+      "definition": "(J) \"Net weight\" means the weight of a commodity excluding any packaging in pounds or metric equivalent, as determined by a sealed weighing device or other means prescribed by rules adopted by the director.",
+      "id": "905.31-net-weight",
+      "normalized": "net weight",
+      "scope": "As used in sections 905.31 to 905.503 of the Revised Code:",
+      "section": "905.31",
+      "source_title": "Section 905.31 - Fertilizer definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-905.31",
+      "term": "Net weight"
+    },
+    {
+      "definition": "(K) \"Packaged fertilizer\" means any type of fertilizer in closed containers of not over one hundred pounds or metric equivalent.",
+      "id": "905.31-packaged-fertilizer",
+      "normalized": "packaged fertilizer",
+      "scope": "As used in sections 905.31 to 905.503 of the Revised Code:",
+      "section": "905.31",
+      "source_title": "Section 905.31 - Fertilizer definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-905.31",
+      "term": "Packaged fertilizer"
+    },
+    {
+      "definition": "(L) \"Per cent\" or \"percentage\" means the percentage of weight.",
+      "id": "905.31-per-cent",
+      "normalized": "per cent",
+      "scope": "As used in sections 905.31 to 905.503 of the Revised Code:",
+      "section": "905.31",
+      "source_title": "Section 905.31 - Fertilizer definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-905.31",
+      "term": "Per cent"
+    },
+    {
+      "definition": "(L) \"Per cent\" or \"percentage\" means the percentage of weight.",
+      "id": "905.31-percentage",
+      "normalized": "percentage",
+      "scope": "As used in sections 905.31 to 905.503 of the Revised Code:",
+      "section": "905.31",
+      "source_title": "Section 905.31 - Fertilizer definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-905.31",
+      "term": "percentage"
+    },
+    {
+      "definition": "(M) \"Person\" includes any partnership, association, firm, corporation, company, society, individual or combination of individuals, institution, park, or public agency administered by the state or any subdivision of the state.",
+      "id": "905.31-person",
+      "normalized": "person",
+      "scope": "As used in sections 905.31 to 905.503 of the Revised Code:",
+      "section": "905.31",
+      "source_title": "Section 905.31 - Fertilizer definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-905.31",
+      "term": "Person"
+    },
+    {
+      "definition": "(N) \"Product name\" means a coined or specific designation applied to an individual fertilizer material or mixture of a fixed composition and derivation.",
+      "id": "905.31-product-name",
+      "normalized": "product name",
+      "scope": "As used in sections 905.31 to 905.503 of the Revised Code:",
+      "section": "905.31",
+      "source_title": "Section 905.31 - Fertilizer definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-905.31",
+      "term": "Product name"
+    },
+    {
+      "definition": "(O) \"Sale\" means exchange of ownership or transfer of custody.",
+      "id": "905.31-sale",
+      "normalized": "sale",
+      "scope": "As used in sections 905.31 to 905.503 of the Revised Code:",
+      "section": "905.31",
+      "source_title": "Section 905.31 - Fertilizer definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-905.31",
+      "term": "Sale"
+    },
+    {
+      "definition": "(P) \"Official sample\" means the sample of fertilizer taken and designated as official by the director.",
+      "id": "905.31-official-sample",
+      "normalized": "official sample",
+      "scope": "As used in sections 905.31 to 905.503 of the Revised Code:",
+      "section": "905.31",
+      "source_title": "Section 905.31 - Fertilizer definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-905.31",
+      "term": "Official sample"
+    },
+    {
+      "definition": "(Q) \"Specialty fertilizer\" means any fertilizer designed, labeled, and distributed for uses other than the production of commercial crops.",
+      "id": "905.31-specialty-fertilizer",
+      "normalized": "specialty fertilizer",
+      "scope": "As used in sections 905.31 to 905.503 of the Revised Code:",
+      "section": "905.31",
+      "source_title": "Section 905.31 - Fertilizer definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-905.31",
+      "term": "Specialty fertilizer"
+    },
+    {
+      "definition": "(R) \"Ton\" means a net weight of two thousand pounds.",
+      "id": "905.31-ton",
+      "normalized": "ton",
+      "scope": "As used in sections 905.31 to 905.503 of the Revised Code:",
+      "section": "905.31",
+      "source_title": "Section 905.31 - Fertilizer definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-905.31",
+      "term": "Ton"
+    },
+    {
+      "definition": "(S) \"Fertilizer material\" includes any of the following:\n\n(1) A material containing not more than one of the following primary plant nutrients:\n\n(a) Nitrogen (N);\n\n(b) Phosphorus (P);\n\n(c) Potassium (K).\n\n(2) A material that has not less than eighty-five per cent of its plant nutrient content composed of a single chemical compound;\n\n(3) A material that is derived from a residue or by-product of a plant or animal or a natural material deposit and has been processed in such a way that its plant nutrients content has not been materially changed except by purification and concentration.",
+      "id": "905.31-fertilizer-material",
+      "normalized": "fertilizer material",
+      "scope": "As used in sections 905.31 to 905.503 of the Revised Code:",
+      "section": "905.31",
+      "source_title": "Section 905.31 - Fertilizer definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-905.31",
+      "term": "Fertilizer material"
+    },
+    {
+      "definition": "(T) \"Custom mixed fertilizer\" means a fertilizer that is not premixed, but that is blended specifically to meet the nutrient needs of one specific customer.",
+      "id": "905.31-custom-mixed-fertilizer",
+      "normalized": "custom mixed fertilizer",
+      "scope": "As used in sections 905.31 to 905.503 of the Revised Code:",
+      "section": "905.31",
+      "source_title": "Section 905.31 - Fertilizer definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-905.31",
+      "term": "Custom mixed fertilizer"
+    },
+    {
+      "definition": "(U) \"Director\" or \"director of agriculture\" means the director of agriculture or the director's designee.",
+      "id": "905.31-director",
+      "normalized": "director",
+      "scope": "As used in sections 905.31 to 905.503 of the Revised Code:",
+      "section": "905.31",
+      "source_title": "Section 905.31 - Fertilizer definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-905.31",
+      "term": "Director"
+    },
+    {
+      "definition": "(U) \"Director\" or \"director of agriculture\" means the director of agriculture or the director's designee.",
+      "id": "905.31-director-of-agriculture",
+      "normalized": "director of agriculture",
+      "scope": "As used in sections 905.31 to 905.503 of the Revised Code:",
+      "section": "905.31",
+      "source_title": "Section 905.31 - Fertilizer definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-905.31",
+      "term": "director of agriculture"
+    },
+    {
+      "definition": "(V) \"Lot\" means an identifiable quantity of fertilizer that may be used as an official sample.",
+      "id": "905.31-lot",
+      "normalized": "lot",
+      "scope": "As used in sections 905.31 to 905.503 of the Revised Code:",
+      "section": "905.31",
+      "source_title": "Section 905.31 - Fertilizer definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-905.31",
+      "term": "Lot"
+    },
+    {
+      "definition": "(W) \"Unit\" means twenty pounds of fertilizer or one per cent of a ton.",
+      "id": "905.31-unit",
+      "normalized": "unit",
+      "scope": "As used in sections 905.31 to 905.503 of the Revised Code:",
+      "section": "905.31",
+      "source_title": "Section 905.31 - Fertilizer definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-905.31",
+      "term": "Unit"
+    },
+    {
+      "definition": "(X) \"Anhydrous ammonia equipment\" means, with regard to the handling or storage of anhydrous ammonia, a container or containers with a maximum capacity of not more than four thousand nine hundred ninety-nine gallons or any appurtenances, pumps, compressors, or interconnecting pipes associated with such a container or containers. \"Anhydrous ammonia equipment\" does not include equipment for the manufacture of anhydrous ammonia or the storage of anhydrous ammonia either underground or in refrigerated structures.",
+      "id": "905.31-anhydrous-ammonia-equipment",
+      "normalized": "anhydrous ammonia equipment",
+      "scope": "As used in sections 905.31 to 905.503 of the Revised Code:",
+      "section": "905.31",
+      "source_title": "Section 905.31 - Fertilizer definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-905.31",
+      "term": "Anhydrous ammonia equipment"
+    },
+    {
+      "definition": "(Y) \"Anhydrous ammonia system\" or \"system\" means, with regard to the handling or storage of anhydrous ammonia, a container or containers with a minimum capacity of not less than five thousand gallons or any appurtenances, pumps, compressors, or interconnecting pipes associated with such a container or containers. \"Anhydrous ammonia system\" does not include equipment for the manufacture of anhydrous ammonia or the storage of anhydrous ammonia either underground or in refrigerated structures.",
+      "id": "905.31-anhydrous-ammonia-system",
+      "normalized": "anhydrous ammonia system",
+      "scope": "As used in sections 905.31 to 905.503 of the Revised Code:",
+      "section": "905.31",
+      "source_title": "Section 905.31 - Fertilizer definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-905.31",
+      "term": "Anhydrous ammonia system"
+    },
+    {
+      "definition": "(Y) \"Anhydrous ammonia system\" or \"system\" means, with regard to the handling or storage of anhydrous ammonia, a container or containers with a minimum capacity of not less than five thousand gallons or any appurtenances, pumps, compressors, or interconnecting pipes associated with such a container or containers. \"Anhydrous ammonia system\" does not include equipment for the manufacture of anhydrous ammonia or the storage of anhydrous ammonia either underground or in refrigerated structures.",
+      "id": "905.31-system",
+      "normalized": "system",
+      "scope": "As used in sections 905.31 to 905.503 of the Revised Code:",
+      "section": "905.31",
+      "source_title": "Section 905.31 - Fertilizer definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-905.31",
+      "term": "system"
+    },
+    {
+      "definition": "(Z) \"Agricultural production\" means the cultivation, primarily for sale, of plants or any parts of plants on more than fifty acres. \"Agricultural production\" does not include the use of start-up fertilizer applied through a planter.",
+      "id": "905.31-agricultural-production",
+      "normalized": "agricultural production",
+      "scope": "As used in sections 905.31 to 905.503 of the Revised Code:",
+      "section": "905.31",
+      "source_title": "Section 905.31 - Fertilizer definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-905.31",
+      "term": "Agricultural production"
+    },
+    {
+      "definition": "(AA) \"Rule\" means a rule adopted under section 905.322 , 905.40 , or 905.44 of the Revised Code, as applicable.",
+      "id": "905.31-rule",
+      "normalized": "rule",
+      "scope": "As used in sections 905.31 to 905.503 of the Revised Code:",
+      "section": "905.31",
+      "source_title": "Section 905.31 - Fertilizer definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-905.31",
+      "term": "Rule"
+    },
+    {
+      "definition": "(BB) \"Certificate holder\" means a person who has been certified to apply fertilizer under section 905.321 of the Revised Code and rules adopted under section 905.322 of the Revised Code.",
+      "id": "905.31-certificate-holder",
+      "normalized": "certificate holder",
+      "scope": "As used in sections 905.31 to 905.503 of the Revised Code:",
+      "section": "905.31",
+      "source_title": "Section 905.31 - Fertilizer definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-905.31",
+      "term": "Certificate holder"
+    },
+    {
+      "definition": "(CC) \"Residual farm products\" has the same meaning as in section 939.01 of the Revised Code.",
+      "id": "905.31-residual-farm-products",
+      "normalized": "residual farm products",
+      "scope": "As used in sections 905.31 to 905.503 of the Revised Code:",
+      "section": "905.31",
+      "source_title": "Section 905.31 - Fertilizer definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-905.31",
+      "term": "Residual farm products"
+    },
+    {
+      "definition": "(DD) \"Voluntary nutrient management plan\" means any of the following:\n\n(1) A nutrient management plan that is in the form of the Ohio nutrient management workbook made available by the Ohio state university;\n\n(2) A comprehensive nutrient management plan developed by the United States department of agriculture natural resources conservation service, a technical service provider certified by the conservation service, or a person authorized by the conservation service to develop a plan;\n\n(3) A document that is equivalent to a plan specified in division (DD)(1) or (2) of this section, that is in a form approved by the director or the director's designee, and that contains at least all of the following information:\n\n(a) Results of soil tests conducted on land subject to the plan that comply with the field office technical guide established by the conservation service and adopted by the director in rules adopted under division (E) of section 939.02 of the Revised Code and that are not older than four years;\n\n(b) Documentation of the method and seasonal time of utilization and application of nutrients;\n\n(c) Identification of all nutrients applied, including manure, fertilizer, sewage sludge, and biodigester residue;\n\n(d) Field information regarding land subject to the plan, including the location, spreadable acreage, crops grown, and actual and projected yields.",
+      "id": "905.31-voluntary-nutrient-management-plan",
+      "normalized": "voluntary nutrient management plan",
+      "scope": "As used in sections 905.31 to 905.503 of the Revised Code:",
+      "section": "905.31",
+      "source_title": "Section 905.31 - Fertilizer definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-905.31",
+      "term": "Voluntary nutrient management plan"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "905.31",
+      "number": "905.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.31"
+    },
+    {
+      "kind": "section",
+      "label": "905.503",
+      "number": "905.503",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.503"
+    },
+    {
+      "kind": "section",
+      "label": "905.322",
+      "number": "905.322",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.322"
+    },
+    {
+      "kind": "section",
+      "label": "905.40",
+      "number": "905.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.40"
+    },
+    {
+      "kind": "section",
+      "label": "905.44",
+      "number": "905.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.44"
+    },
+    {
+      "kind": "section",
+      "label": "905.321",
+      "number": "905.321",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-905.321"
+    },
+    {
+      "kind": "section",
+      "label": "939.01",
+      "number": "939.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-939.01"
+    },
+    {
+      "kind": "section",
+      "label": "939.02",
+      "number": "939.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-939.02"
+    }
+  ],
+  "scraped": "2026-07-02T19:34:15+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-905.31",
+  "title": "Section 905.31 - Fertilizer definitions."
+}

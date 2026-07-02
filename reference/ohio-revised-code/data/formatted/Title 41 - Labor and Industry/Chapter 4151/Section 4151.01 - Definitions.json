@@ -1,0 +1,134 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Alien\" means an individual who is not a United States citizen or a United States national.",
+      "id": "4151.01-alien",
+      "normalized": "alien",
+      "scope": "As used in this chapter:",
+      "section": "4151.01",
+      "source_title": "Section 4151.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4151.01",
+      "term": "Alien"
+    },
+    {
+      "definition": "(B) \"Business day\" means a day of the week excluding Saturday, Sunday, and a legal holiday as defined under section 1.14 of the Revised Code.",
+      "id": "4151.01-business-day",
+      "normalized": "business day",
+      "scope": "As used in this chapter:",
+      "section": "4151.01",
+      "source_title": "Section 4151.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4151.01",
+      "term": "Business day"
+    },
+    {
+      "definition": "(C) \"Employee\" means any individual who performs services for a contractor, subcontractor, or labor broker who satisfies both of the following conditions:\n\n(1) The individual is subject to the contractor's, subcontractor's, or labor broker's direction and control, not only as to the result accomplished but also as to the details of how the work is performed;\n\n(2) The individual receives compensation in the form of wages, salary, or any other form of remuneration in exchange for services rendered.",
+      "id": "4151.01-employee",
+      "normalized": "employee",
+      "scope": "As used in this chapter:",
+      "section": "4151.01",
+      "source_title": "Section 4151.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4151.01",
+      "term": "Employee"
+    },
+    {
+      "definition": "(D) \"E-verify\" means the employment verification program as jointly administered by the United States department of homeland security and the social security administration under section 101(a)(1) of the federal \"Immigration Reform and Control Act of 1986,\" 8 U.S.C. 1324a, or any of its successor programs.",
+      "id": "4151.01-e-verify",
+      "normalized": "e-verify",
+      "scope": "As used in this chapter:",
+      "section": "4151.01",
+      "source_title": "Section 4151.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4151.01",
+      "term": "E-verify"
+    },
+    {
+      "definition": "(E)(1) \"Labor broker\" means any individual or entity who hires an employee and supplies the employee's labor to a nonresidential construction contractor or a subcontractor, regardless of tier, through the use of a contract.",
+      "id": "4151.01-labor-broker",
+      "normalized": "labor broker",
+      "scope": "As used in this chapter:",
+      "section": "4151.01",
+      "source_title": "Section 4151.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4151.01",
+      "term": "Labor broker"
+    },
+    {
+      "definition": "(2) \"Labor broker\" does not include any governmental entity or labor organization as defined in section 3517.01 of the Revised Code.",
+      "id": "4151.01-labor-broker",
+      "normalized": "labor broker",
+      "scope": "As used in this chapter:",
+      "section": "4151.01",
+      "source_title": "Section 4151.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4151.01",
+      "term": "Labor broker"
+    },
+    {
+      "definition": "(F) \"Nonresidential construction contractor\" means any individual or entity that has responsibility for the means, method, and manner of construction, improvement, renovation, or repair on a nonresidential construction project with respect to one or more trades and who offers, identifies, advertises, or otherwise holds out or represents that the individual or entity is permitted or qualified to perform or have responsibility for the means, method, and manner of construction, improvement, renovation, repair, or maintenance with respect to one or more trades on a nonresidential construction project.",
+      "id": "4151.01-nonresidential-construction-contractor",
+      "normalized": "nonresidential construction contractor",
+      "scope": "As used in this chapter:",
+      "section": "4151.01",
+      "source_title": "Section 4151.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4151.01",
+      "term": "Nonresidential construction contractor"
+    },
+    {
+      "definition": "(G) \"Nonresidential construction project\" means the construction or renovation of any building, highway, bridge, utility, or related infrastructure, but does not include any of the following:\n\n(1) An industrialized unit, manufactured home, or a residential building as defined in section 3781.06 of the Revised Code;\n\n(2) A building or structure that is incidental to the use of the land on which the building or structure is located for agricultural purposes as defined in section 3781.06 of the Revised Code;\n\n(3) A mobile home as defined in section 4501.01 of the Revised Code.",
+      "id": "4151.01-nonresidential-construction-project",
+      "normalized": "nonresidential construction project",
+      "scope": "As used in this chapter:",
+      "section": "4151.01",
+      "source_title": "Section 4151.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4151.01",
+      "term": "Nonresidential construction project"
+    },
+    {
+      "definition": "(H) \"Subcontractor\" means any individual or entity who enters into a contract with a nonresidential construction contractor or another subcontractor, regardless of tier, to perform work on a nonresidential construction project.",
+      "id": "4151.01-subcontractor",
+      "normalized": "subcontractor",
+      "scope": "As used in this chapter:",
+      "section": "4151.01",
+      "source_title": "Section 4151.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4151.01",
+      "term": "Subcontractor"
+    },
+    {
+      "definition": "(I) \"Unauthorized alien\" means an alien who is not authorized to be employed as determined in accordance with the federal \"Immigration Reform and Control Act of 1986,\" 8 U.S.C. 1324a.\n\nLast updated January 28, 2026 at 4:26 PM",
+      "id": "4151.01-unauthorized-alien",
+      "normalized": "unauthorized alien",
+      "scope": "As used in this chapter:",
+      "section": "4151.01",
+      "source_title": "Section 4151.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4151.01",
+      "term": "Unauthorized alien"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "1.14",
+      "number": "1.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1.14"
+    },
+    {
+      "kind": "section",
+      "label": "3517.01",
+      "number": "3517.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3517.01"
+    },
+    {
+      "kind": "section",
+      "label": "3781.06",
+      "number": "3781.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.06"
+    },
+    {
+      "kind": "section",
+      "label": "4501.01",
+      "number": "4501.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4501.01"
+    }
+  ],
+  "scraped": "2026-07-02T20:04:34+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4151.01",
+  "title": "Section 4151.01 - Definitions."
+}

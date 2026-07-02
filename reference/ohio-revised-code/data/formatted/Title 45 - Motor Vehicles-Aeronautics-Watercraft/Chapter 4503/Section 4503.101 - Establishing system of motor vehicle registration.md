@@ -1,0 +1,20 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4503.101
+Scraped: 2026-07-02T20:05:19+00:00
+
+# Section 4503.101 - Establishing system of motor vehicle registration.
+
+**Effective:** September 29, 2017
+
+**Latest Legislation:** House Bill 49 - 132nd General Assembly
+
+(A) The registrar of motor vehicles shall adopt rules to establish a system of motor vehicle registration based upon the type of vehicle to be registered, the type of ownership of the vehicle, the class of license plate to be issued, and any other factor the registrar determines to be relevant. Except for commercial cars, buses, trailers, and semitrailers that are registered in this state and that are taxed under sections 4503.042 and 4503.65 of the Revised Code; except for rental vehicles owned by motor vehicle renting dealers; and except as otherwise provided by rule, motor vehicles owned by an individual shall be registered based upon the motor vehicle owner's date of birth. Beginning with the 2004 registration year, the registrar shall assign motor vehicles to the registration periods established by rules adopted under this section.
+
+(B) The registrar shall adopt rules to permit motor vehicle owners residing together at one address to select the date of birth of any one of the owners as the date to register any or all of the vehicles at that residence address, as shown in the records of the bureau of motor vehicles.
+
+(C) The registrar shall adopt rules to assign and reassign all commercial cars, trailers, and semitrailers that are registered in this state and that are taxed under sections 4503.042 and 4503.65 of the Revised Code and all rental vehicles owned by motor vehicle renting dealers to a system of registration so that the registrations of approximately one-twelfth of all such vehicles expire on the last day of each month of a calendar year. To effect a reassignment from the registration period in effect on June 30, 2003, to the new registration periods established by the rules adopted under this section as amended, the rules may require the motor vehicle to be registered for more or less than a twelve-month period at the time the motor vehicle's registration is subject to its initial renewal following the effective date of such rules. If necessary to effect an efficient transition, the rules may provide that the registration reassignments take place over two consecutive registration periods. The registration taxes to be charged shall be determined by the registrar on the basis of the annual tax otherwise due on the motor vehicle, prorated in accordance with the number of months for which the motor vehicle is registered, except that the fee established by division (C)(1) of section 4503.10 of the Revised Code shall be collected in full for each renewal that occurs during the transition period and shall not be prorated.
+
+(D) The registrar shall adopt rules to permit any commercial motor vehicle owner or motor vehicle renting dealer who owns two or more motor vehicles to request the registrar to permit the owner to separate the owner's fleet into up to four divisions for assignment to separate dates upon which to register the vehicles, provided that the registrar may disapprove any such request whenever the registrar has reason to believe that an uneven distribution of registrations throughout the calendar year has developed or is likely to develop.
+
+(E) Every owner or lessee of a motor vehicle holding a certificate of registration shall notify the registrar of any change of the owner's or lessee's correct address within ten days after the change occurs. The notification shall be in writing on a form provided by the registrar or by electronic means approved by the registrar and shall include the full name, date of birth if applicable, license number, county of residence or place of business, social security account number of an individual or federal tax identification number of a business, and new address.
+
+(F) As used in this section, "motor vehicle renting dealer" has the same meaning as in section 4549.65 of the Revised Code.

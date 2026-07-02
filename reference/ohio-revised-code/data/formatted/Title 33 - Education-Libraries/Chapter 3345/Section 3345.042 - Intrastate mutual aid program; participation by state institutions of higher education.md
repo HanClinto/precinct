@@ -1,0 +1,28 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3345.042
+Scraped: 2026-07-02T19:49:49+00:00
+
+# Section 3345.042 - Intrastate mutual aid program; participation by state institutions of higher education.
+
+**Effective:** July 3, 2012
+
+**Latest Legislation:** Senate Bill 243 - 129th General Assembly
+
+(A) As used in this section:
+
+(1) "Community college" has the same meaning as in section 3354.01 of the Revised Code.
+
+(2) "Countywide emergency management agency," "participating political subdivision," "program for emergency management within a political subdivision," and "regional authority for emergency management" have the same meanings as in section 5502.41 of the Revised Code.
+
+(3) "Technical college" has the same meaning as in section 3357.01 of the Revised Code.
+
+(4) "State community college" has the same meaning as in section 3358.01 of the Revised Code.
+
+(5) "State institution of higher education" has the same meaning as in section 3345.011 of the Revised Code.
+
+(6) "University branch" has the same meaning as in section 3355.01 of the Revised Code.
+
+(B)(1) Except as provided in division (B)(2) of this section, a state institution of higher education is considered to be a participating political subdivision for purposes of the intrastate mutual aid compact created under section 5502.41 of the Revised Code.
+
+(2) A state institution of higher education may elect not to participate in the intrastate mutual aid compact by enacting or adopting an appropriate resolution, rule, bylaw, or regulation to that effect. The institution shall provide a copy of the resolution, rule, bylaw, or regulation to the state emergency management agency and to the countywide emergency management agency, regional authority for emergency management, or program for emergency management within a political subdivision, whichever is responsible for emergency management at the institution.
+
+(C) Except for a community college, state community college, technical college, or university branch, a state institution of higher education and its personnel, while requesting or providing assistance or aid pursuant to the compact, shall be deemed to be performing a public duty as defined in section 2743.01 of the Revised Code and have the defenses to, and immunities from, civil liability provided in section 2743.02 of the Revised Code. Community colleges, state community colleges, technical colleges, university branches, and personnel of such institutions, while requesting or providing assistance or aid pursuant to the compact, shall have the defenses and immunities from civil liability provided in sections 2744.02 and 2744.03 of the Revised Code and shall be entitled to all applicable limitations on recoverable damages under section 2744.05 of the Revised Code.

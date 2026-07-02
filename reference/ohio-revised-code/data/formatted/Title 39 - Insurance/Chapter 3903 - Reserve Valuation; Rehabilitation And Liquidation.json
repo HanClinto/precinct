@@ -1,0 +1,561 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 3903.01 - Reserve valuation - rehabilitation and liquidation definitions.",
+      "number": "3903.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.02 - Citing of act - purpose of act.",
+      "number": "3903.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.03 - Application of sections.",
+      "number": "3903.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.04 - Jurisdiction.",
+      "number": "3903.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.05 - Temporary restraining orders - injunctions.",
+      "number": "3903.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.06 - Duty of persons exercising control to cooperate with superintendent.",
+      "number": "3903.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.07 - Responsibilities of superintendent and deputies.",
+      "number": "3903.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.08 - Effect on pending proceedings.",
+      "number": "3903.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.09 - Correction orders issued by superintendent.",
+      "number": "3903.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.10 - Complaint - court may issue ex parte seizure or other order.",
+      "number": "3903.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.11 - Confidentiality of information - exceptions.",
+      "number": "3903.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.12 - Grounds for rehabilitation order.",
+      "number": "3903.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.13 - Rehabilitation orders.",
+      "number": "3903.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.14 - Employment of special deputies.",
+      "number": "3903.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.15 - Stay of actions - statute of limitations - standing.",
+      "number": "3903.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.16 - Motion for order of liquidation - order terminating rehabilitation of insurer.",
+      "number": "3903.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.17 - Basis for liquidation order.",
+      "number": "3903.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.18 - Liquidation orders.",
+      "number": "3903.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.19 - Effect of liquidation order on policies.",
+      "number": "3903.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.20 - Dissolution of corporate existence.",
+      "number": "3903.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.21 - Liquidator - powers and duties.",
+      "number": "3903.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.22 - Notice of liquidation order.",
+      "number": "3903.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.24 - Civil action against liquidator or insurer.",
+      "number": "3903.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.25 - Duplicate list of insurer's assets.",
+      "number": "3903.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.26 - Transfers and obligations incurred one year prior to proceeding.",
+      "number": "3903.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.27 - Transfers made after filing of complaint.",
+      "number": "3903.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.28 - Preferences.",
+      "number": "3903.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.29 - Allowance of claims.",
+      "number": "3903.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.30 - Allowance of setoffs and counterclaims.",
+      "number": "3903.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.301 - Protection of rights.",
+      "number": "3903.301",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.301"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.31 - Report of liquidator to court.",
+      "number": "3903.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.32 - Reducing recovery from reinsurer.",
+      "number": "3903.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.33 - Payment of unpaid earned premiums.",
+      "number": "3903.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.34 - Proposal to disburse assets to guaranty associations - contents - application for approval.",
+      "number": "3903.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.35 - Proof of claims to be filed with liquidator.",
+      "number": "3903.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.36 - Proof of claim contents.",
+      "number": "3903.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.37 - Contingent claims- absolute claims.",
+      "number": "3903.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.38 - Third party-party claims.",
+      "number": "3903.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.39 - Written notice of denial of claim.",
+      "number": "3903.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.40 - Claims secured by undertaking of another person.",
+      "number": "3903.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.41 - Methods of determining value of security held by secured creditor.",
+      "number": "3903.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.42 - Priority of distribution of claims.",
+      "number": "3903.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.421 - Medicaid health insuring corporation bond and securities.",
+      "number": "3903.421",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.421"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.43 - Review and investigation of claims.",
+      "number": "3903.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.44 - Court payment of distributions.",
+      "number": "3903.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.45 - Distribution of unclaimed and withheld funds.",
+      "number": "3903.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.46 - Discharge of liquidator.",
+      "number": "3903.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.47 - Motion to reopen proceedings.",
+      "number": "3903.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.48 - Court to direct retention or destruction of insurer's records.",
+      "number": "3903.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.49 - Audit of books of proceeding.",
+      "number": "3903.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.50 - Order appointing conservator.",
+      "number": "3903.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.51 - Order directing liquidation.",
+      "number": "3903.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.52 - Power of domiciliary liquidator.",
+      "number": "3903.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.53 - Appointing ancillary receiver.",
+      "number": "3903.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.54 - Discretion of superintendent to commence proceedings.",
+      "number": "3903.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.55 - Foreign claimants.",
+      "number": "3903.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.56 - Ohio residents claiming against foreign insurers.",
+      "number": "3903.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.57 - Attachment, garnishment or execution proceedings blocked.",
+      "number": "3903.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.58 - Distribution order among claimants from reciprocal states.",
+      "number": "3903.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.59 - Failure to transfer assets to Ohio liquidator by ancillary receiver.",
+      "number": "3903.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.71 - Unsound company, suspension of authority to do business.",
+      "number": "3903.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.72 - Definitions for sections 3903.72 to 3903.7211.",
+      "number": "3903.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.721 - Valuation of reserves.",
+      "number": "3903.721",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.721"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.722 - Submission of data prior to operative date of valuation manual.",
+      "number": "3903.722",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.722"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.723 - Minimum standards for the valuation of policies.",
+      "number": "3903.723",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.723"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.724 - Determination of valuation interest rate.",
+      "number": "3903.724",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.724"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.725 - Valuation for individual annuity and pure endowment contracts.",
+      "number": "3903.725",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.725"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.726 - Submissions prior to operative date of valuation manual.",
+      "number": "3903.726",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.726"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.727 - Valuation for accident and health insurance contracts.",
+      "number": "3903.727",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.727"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.728 - Policies issued on or after the operative date of the valuation manual.",
+      "number": "3903.728",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.728"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.729 - Established reserves; principle-based valuation.",
+      "number": "3903.729",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.729"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.7210 - Submission of prescribed data.",
+      "number": "3903.7210",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.7210"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.7211 - Confidential information.",
+      "number": "3903.7211",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.7211"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.73 - Deposit of securities with treasurer of state.",
+      "number": "3903.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.74 - Sale and distribution of securities of defaulting companies.",
+      "number": "3903.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.74"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.75 - Notice to claimants.",
+      "number": "3903.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.76 - Court procedure.",
+      "number": "3903.76",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.76"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.77 - Property and casualty insurance reporting requirements.",
+      "number": "3903.77",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.77"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.81 - Risk-based capital for insurers model act definitions.",
+      "number": "3903.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.82 - Annual report.",
+      "number": "3903.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.82"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.83 - Duty to submit plan.",
+      "number": "3903.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.83"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.84 - Regulatory action level event duties of superintendent and insurer.",
+      "number": "3903.84",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.84"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.85 - Authorized control level event duties of superintendent and insurer.",
+      "number": "3903.85",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.85"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.86 - Mandatory control level event duties of superintendent and insurer.",
+      "number": "3903.86",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.86"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.87 - Right to request hearing.",
+      "number": "3903.87",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.87"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.88 - Confidential information.",
+      "number": "3903.88",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.88"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.89 - Effectiveness of notice.",
+      "number": "3903.89",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.89"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.90 - Annual report by foreign insurer.",
+      "number": "3903.90",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.90"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.91 - Regulatory officials - immunity.",
+      "number": "3903.91",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.91"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.92 - Requirements for exempting insurer from sections.",
+      "number": "3903.92",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.92"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.93 - Rules.",
+      "number": "3903.93",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.93"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3903.99 - Penalty.",
+      "number": "3903.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3903.99"
+    }
+  ],
+  "scraped": "2026-07-02T20:02:12+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-3903",
+  "title": "Chapter 3903 - Reserve Valuation; Rehabilitation And Liquidation"
+}

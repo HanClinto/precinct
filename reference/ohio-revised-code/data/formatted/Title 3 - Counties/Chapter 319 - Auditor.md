@@ -1,0 +1,76 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-319
+Scraped: 2026-07-02T19:32:47+00:00
+
+# Chapter 319 - Auditor
+
+## Sections
+
+- Section 319.01 - County auditor - term of office.
+- Section 319.02 - Bond of county auditor - oath of office.
+- Section 319.03 - Location of office.
+- Section 319.04 - Continuing education courses.
+- Section 319.05 - Deputies.
+- Section 319.06 - Oaths.
+- Section 319.07 - Certain officials ineligible to office of auditor.
+- Section 319.08 - Secretary of board of county commissioners.
+- Section 319.09 - County auditor as fiscal auditor.
+- Section 319.10 - Contracts for auditor to provide services to county land reutilization corporation.
+- Section 319.11 - Annual county financial report.
+- Section 319.12 - Annual report expenses.
+- Section 319.13 - Money to be certified into treasury.
+- Section 319.14 - Account current with county treasurer.
+- Section 319.15 - Monthly statement of county finances.
+- Section 319.16 - Issuing and recording warrants.
+- Section 319.17 - Warrants for funds payable to school district.
+- Section 319.18 - Proceedings when fund is exhausted.
+- Section 319.20 - Transfer of title and tax value of property.
+- Section 319.201 - Evidence of title to real property acquired by state or political subdivision.
+- Section 319.202 - Submitting statement declaring value of real property transferred.
+- Section 319.203 - Adopting standards governing conveyances of real property in county.
+- Section 319.21 - Fraudulent transfers.
+- Section 319.22 - Examination of records.
+- Section 319.23 - Discharge of indigent prisoner.
+- Section 319.26 - Allegations against county auditor.
+- Section 319.27 - Delivery of property on retirement of auditor.
+- Section 319.28 - General tax list and general duplicate of real and public utility property compiled - parcel numbering system.
+- Section 319.281 - Unpaid operation permit or inspection fee for household sewage disposal system.
+- Section 319.29 - General tax list and general duplicate of personal property compiled.
+- Section 319.30 - Tax levied upon each tract of real property.
+- Section 319.301 - Determining and certifying tax reduction percentage for carryover property.
+- Section 319.302 - Reduction of remaining taxes.
+- Section 319.303 - Property tax credit for school districts on a millage floor.
+- Section 319.304 - Local option homestead exemptions.
+- Section 319.31 - Tax upon personal property - credit of advance payment.
+- Section 319.32 - Rounding off fractions.
+- Section 319.33 - Auditor shall dispose of fractional mills.
+- Section 319.34 - Classified tax list and duplicate.
+- Section 319.35 - Correction of clerical errors in tax lists and duplicates.
+- Section 319.36 - Clerical errors in taxes.
+- Section 319.37 - Settlements with tax commissioner and county treasurer.
+- Section 319.38 - Deductions from valuation for injured or destroyed property.
+- Section 319.39 - Record of additions and deductions - certificate of correction.
+- Section 319.40 - Omitted taxes shall be charged.
+- Section 319.41 - Liability for loss of public funds.
+- Section 319.42 - Apportionment of unpaid special assessments.
+- Section 319.43 - Settlement for real and public utility property taxes - certification of delinquent list.
+- Section 319.44 - Proceedings as to delinquent list.
+- Section 319.45 - Certificate to treasurer as to moneys collected.
+- Section 319.451 - Auditor shall ascertain net amount of taxes collected.
+- Section 319.46 - Certificate to treasurer as to taxes charged.
+- Section 319.47 - Duplicate of certificates and abstracts to tax commissioner.
+- Section 319.48 - Real property tax suspension list of taxes uncollectible except through foreclosure or through foreclosure and forfeiture.
+- Section 319.49 - Settlement by auditor with treasurer for taxes - certification of delinquent tax and assessment list by treasurer - liability of treasurer.
+- Section 319.50 - Certificates issued to treasurer by auditor - duplicates to tax commissioner.
+- Section 319.51 - Account with new township.
+- Section 319.52 - Abstract of delinquent tax and assessment list.
+- Section 319.53 - County auditor to report to tax commissioner.
+- Section 319.54 - Fees to compensate for auditor's services.
+- Section 319.541 - County to pay damages of suit against officials.
+- Section 319.55 - County sealer.
+- Section 319.57 - County sealer shall deliver copies to successor.
+- Section 319.58 - Use of false weights and measures.
+- Section 319.59 - Appointment of inspectors - salary.
+- Section 319.60 - Injunctions.
+- Section 319.61 - Notice of intention to proceed with public improvement.
+- Section 319.63 - Payment to treasurer of housing trust fund fees.
+- Section 319.99 - Penalty.

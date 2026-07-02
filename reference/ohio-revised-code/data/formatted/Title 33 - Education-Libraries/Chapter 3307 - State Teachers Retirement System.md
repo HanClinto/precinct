@@ -1,0 +1,159 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-3307
+Scraped: 2026-07-02T19:48:25+00:00
+
+# Chapter 3307 - State Teachers Retirement System
+
+## Sections
+
+- Section 3307.01 - State teachers retirement system - definitions.
+- Section 3307.03 - State teachers retirement system - board.
+- Section 3307.031 - Composition of state teachers retirement system.
+- Section 3307.04 - General administration and management vested in board.
+- Section 3307.041 - Travel expense policies - bonus policy - budget.
+- Section 3307.042 - Ethics policy - commission approval - ethics training.
+- Section 3307.043 - Chief investment officer - supervision duties - monitoring of securities transactions.
+- Section 3307.044 - Selection of internal auditor.
+- Section 3307.05 - Board membership.
+- Section 3307.051 - Orientation program required for new members - continuing education.
+- Section 3307.052 - Members with excessive travel expenses ineligible for another term.
+- Section 3307.06 - Board elections.
+- Section 3307.061 - Disqualification of convicted member - misconduct in office - removal procedure.
+- Section 3307.07 - Procedure for electing board members.
+- Section 3307.071 - No election if only one candidate nominated.
+- Section 3307.072 - Candidate campaign finance statements - donor statement of independent expenditures.
+- Section 3307.073 - Filing of statements - prohibited campaign activities.
+- Section 3307.074 - Complaint alleging violation of R.C. 3307.073 - procedure - fine.
+- Section 3307.075 - Adoption of election rules - certification of nominating petitions and election results.
+- Section 3307.08 - Oath of office.
+- Section 3307.09 - Quorum.
+- Section 3307.091 - Digital board meeting attendance.
+- Section 3307.10 - Expenses - liability insurance.
+- Section 3307.11 - Officers - executive director.
+- Section 3307.12 - Treasurer of state is custodian of funds.
+- Section 3307.121 - Annual statement of amount of funds furnished by treasurer.
+- Section 3307.13 - Legal adviser.
+- Section 3307.131 - Actions; Venue.
+- Section 3307.14 - Creation of funds - trustees.
+- Section 3307.141 - Each fund is separate legal entity.
+- Section 3307.142 - Interest compounded annually credited to accounts of members and funds.
+- Section 3307.143 - Discontinuation of health care coverage; transfer of surplus.
+- Section 3307.15 - Investment and fiduciary duties of board.
+- Section 3307.151 - Prohibited business transactions.
+- Section 3307.152 - Designation of Ohio-qualified agents - selection policy - increased utilization - annual report.
+- Section 3307.153 - Annual disclosures to Ohio Ethics Commission.
+- Section 3307.154 - Designation of Ohio-qualified investment managers - utilization - annual report.
+- Section 3307.18 - Trustee or employee of board shall have no interest in profits nor borrow funds.
+- Section 3307.181 - Restrictions on fiduciaries.
+- Section 3307.19 - Maintenance of individual account.
+- Section 3307.20 - Disclosure of records.
+- Section 3307.21 - Notifying teacher of duties and obligations under chapter.
+- Section 3307.211 - Certifying names of covered employees.
+- Section 3307.212 - Notifying board of personnel changes.
+- Section 3307.213 - Maintaining records and furnishing assistance.
+- Section 3307.214 - Information to new employees.
+- Section 3307.231 - Verifying termination of active service.
+- Section 3307.24 - Denying membership to certain classes of teachers.
+- Section 3307.25 - Electing defined benefit or defined contribution plan; election to cease participation.
+- Section 3307.251 - Employee with less than 5 years of service electing to participate in STRS defined contribution plan.
+- Section 3307.252 - Effect of electing STRS defined contribution plan.
+- Section 3307.26 - Contributions.
+- Section 3307.261 - Contributions during disability leave.
+- Section 3307.27 - Employer pick up of teacher contributions.
+- Section 3307.28 - Employer contribution.
+- Section 3307.29 - Deductions certified.
+- Section 3307.291 - Transmitting payments monthly.
+- Section 3307.292 - Failure of employer to transmit amounts due.
+- Section 3307.30 - Levying additional taxes.
+- Section 3307.31 - Deducting employer contributions from state aid moneys.
+- Section 3307.32 - Payment of amounts due retirement system from treasury.
+- Section 3307.33 - Termination of membership.
+- Section 3307.35 - Employment of retirant.
+- Section 3307.351 - Continuing contributions to state system after retirement.
+- Section 3307.352 - Retirant may apply for monthly annuity or lump sum payment.
+- Section 3307.353 - Reemployed superannuate or rehire in position filled by vote of members of board or commission.
+- Section 3307.354 - Superannuates or other system retirants.
+- Section 3307.37 - Restitution order based on theft in office or certain sex offenses.
+- Section 3307.371 - Order for division of marital property.
+- Section 3307.372 - Forfeiture of retirement benefits under R.C. 2929.192.
+- Section 3307.373 - Benefits subject to termination.
+- Section 3307.39 - Group health insurance coverage for retired persons and survivors.
+- Section 3307.391 - Establishing programs for long term health care insurance.
+- Section 3307.392 - Lump sum payment for death benefit.
+- Section 3307.393 - Additional deposits to fund medical expenses.
+- Section 3307.41 - Tax exemptions.
+- Section 3307.42 - Acquiring vested right in pension when granted; suspension of benefits.
+- Section 3307.44 - Waiver of rights.
+- Section 3307.46 - Increasing pension, benefit, or allowance when limits of 26 U.S.C. 415 are raised.
+- Section 3307.461 - Establishing and maintaining qualified governmental excess benefit arrangement.
+- Section 3307.47 - Recovering erroneous payments.
+- Section 3307.48 - Disability benefit recipients.
+- Section 3307.50 - Defined benefit plan definitions.
+- Section 3307.501 - Final average salary.
+- Section 3307.51 - Actuarial valuation of pension assets, liabilities, and funding requirements.
+- Section 3307.511 - Data required for preparation of mortality and service tables.
+- Section 3307.512 - Amortizing unfunded actuarial accrued pension liability.
+- Section 3307.513 - Annual report disability retirement experience of each employer.
+- Section 3307.514 - Study to determine percentage of electing employee's compensation to be contributed by public institution of higher education.
+- Section 3307.52 - Service credited at retirement.
+- Section 3307.53 - Computing service credit.
+- Section 3307.56 - Payment to member who ceases to be a teacher.
+- Section 3307.561 - Payments to members who are members of another state retirement system.
+- Section 3307.562 - Designation or qualification of beneficiaries.
+- Section 3307.563 - Interest added to withdrawn contributions.
+- Section 3307.57 - Coordinating and integrating membership in state retirement systems.
+- Section 3307.58 - Eligibility for service retirement.
+- Section 3307.59 - Disability allowance recipient applying for service retirement.
+- Section 3307.60 - Retirant may elect plan of payment.
+- Section 3307.62 - Eligibility for disability benefits.
+- Section 3307.63 - Benefits upon disability retirement.
+- Section 3307.631 - Annual amount of disability allowance.
+- Section 3307.66 - Beneficiary may substitute other benefits.
+- Section 3307.661 - Payment of death benefit.
+- Section 3307.67 - Cost of living increase.
+- Section 3307.671 - Establishing temporary supplemental benefit fund.
+- Section 3307.69 - Recalculating benefits.
+- Section 3307.691 - Annual lifetime benefit.
+- Section 3307.692 - Annual single lifetime benefit based on 30 or more years service.
+- Section 3307.693 - Supplementing allowance.
+- Section 3307.694 - Additional allowance on or after 7/1/1968.
+- Section 3307.695 - Additional monthly payment as of 12/31/1971.
+- Section 3307.696 - Additional monthly payment where member died prior to 7/1/1968.
+- Section 3307.697 - Additional monthly payment as of 12/19/1973.
+- Section 3307.698 - Increase in monthly allowance, pension or benefit effective 7/1/1981.
+- Section 3307.699 - Increase in benefits established prior to 2/1/1983.
+- Section 3307.6910 - Increase in benefits for awards prior to 7/1/1979.
+- Section 3307.6911 - Recalculating benefits to counter effect of inflation.
+- Section 3307.6912 - Recalculating retirement allowances for retirants prior to 1945 and 1947.
+- Section 3307.6913 - Recalculating annual single lifetime benefit.
+- Section 3307.6914 - Recalculating benefits based on cumulative percentage change in CPI.
+- Section 3307.70 - Purchasing service credits.
+- Section 3307.701 - Payroll deduction plans.
+- Section 3307.71 - Restoring service credit.
+- Section 3307.711 - Payroll deduction plans - restoring PERS or SERS credit.
+- Section 3307.712 - Proceedings on request for restoration of service credit.
+- Section 3307.72 - Credit for years of service where employer failed to make contributions.
+- Section 3307.73 - Purchase of service credit for period of self-exemption.
+- Section 3307.74 - Credit for prior service - comparable public position.
+- Section 3307.75 - Credit for military service.
+- Section 3307.751 - Purchasing military service credit.
+- Section 3307.752 - Purchasing uniformed services credit.
+- Section 3307.76 - Credit for time served in other state retirement systems.
+- Section 3307.761 - Credit for service in uniform retirement system.
+- Section 3307.762 - Transferring service credit and contributions between STRS and Cincinnati retirement system.
+- Section 3307.763 - Eligibility for credit for service in Cincinnati retirement system.
+- Section 3307.764 - Transferring contributions to Cincinnati retirement system.
+- Section 3307.765 - Transferred service credit from uniform retirement system.
+- Section 3307.77 - Purchasing service credit for period of approved absence or leave.
+- Section 3307.771 - Purchasing service credit for time spent on pregnancy or adoption.
+- Section 3307.78 - Purchasing credit for service as school board member.
+- Section 3307.79 - Years of service credit of deceased member dying prior to 7/1/1973 - right of survivor to purchase service credit.
+- Section 3307.80 - Rules for defined contribution plans.
+- Section 3307.81 - Establishment and administration of defined contribution plan.
+- Section 3307.811 - Qualification of plan for federal tax purposes.
+- Section 3307.812 - Tax exemptions and deferrals.
+- Section 3307.83 - Member rights governed by plan selected.
+- Section 3307.84 - Transfer of portion of employer contribution to employers' trust fund to mitigate negative financial impact on system.
+- Section 3307.86 - Furnishing contributions and information at more frequent intervals.
+- Section 3307.87 - Spousal consent or waiver.
+- Section 3307.89 - Offering participation in defined contribution plan to members in defined benefit plan.
+- Section 3307.99 - Penalty.

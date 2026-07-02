@@ -1,0 +1,100 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Annuity\" means an annuity that would be purchased from either of the following types of insurance companies:\n\n(a) An insurance company that the A. M. Best Company, in its most recently published rating guide of life insurance companies, has rated A or better and has rated XII or higher as to financial size or strength;\n\n(b)(i) An insurance company that the superintendent of insurance, under rules adopted pursuant to Chapter 119. of the Revised Code for purposes of implementing this division, determines is licensed to do business in this state and, considering the factors described in division (I)(1)(b)(ii) of this section, is a stable insurance company that issues annuities that are safe and desirable.\n\n(ii) In making determinations as described in division (I)(1)(b)(i) of this section, the superintendent shall be guided by the principle that the jury or court in a civil action for wrongful death should be presented only with evidence as to the cost of annuities that are safe and desirable for the beneficiaries of the action who are awarded compensatory damages under this section. In making the determinations, the superintendent shall consider the financial condition, general standing, operating results, profitability, leverage, liquidity, amount and soundness of reinsurance, adequacy of reserves, and the management of a particular insurance company involved and also may consider ratings, grades, and classifications of any nationally recognized rating services of insurance companies and any other factors relevant to the making of the determinations.",
+      "id": "2125.02-annuity",
+      "normalized": "annuity",
+      "scope": "(I) As used in this section:",
+      "section": "2125.02",
+      "source_title": "Section 2125.02 - Parties - damages.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2125.02",
+      "term": "Annuity"
+    },
+    {
+      "definition": "(2) \"Future damages\" means damages that result from the wrongful death and that will accrue after the verdict or determination of liability by the jury or court is rendered in the civil action for wrongful death.",
+      "id": "2125.02-future-damages",
+      "normalized": "future damages",
+      "scope": "(I) As used in this section:",
+      "section": "2125.02",
+      "source_title": "Section 2125.02 - Parties - damages.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2125.02",
+      "term": "Future damages"
+    },
+    {
+      "definition": "(3) \"Abandoned\" means that a parent of a minor failed without justifiable cause to communicate with the minor, care for the minor, and provide for the maintenance or support of the minor as required by law or judicial decree for a period of at least one year immediately prior to the date of the death of the minor.",
+      "id": "2125.02-abandoned",
+      "normalized": "abandoned",
+      "scope": "(I) As used in this section:",
+      "section": "2125.02",
+      "source_title": "Section 2125.02 - Parties - damages.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2125.02",
+      "term": "Abandoned"
+    },
+    {
+      "definition": "(4) \"Minor\" means a person who is less than eighteen years of age.",
+      "id": "2125.02-minor",
+      "normalized": "minor",
+      "scope": "(I) As used in this section:",
+      "section": "2125.02",
+      "source_title": "Section 2125.02 - Parties - damages.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2125.02",
+      "term": "Minor"
+    },
+    {
+      "definition": "(5) \"Harm\" means death.\n\n(6) \"Manufacturer,\" \"product,\" \"product liability claim,\" and \"supplier\" have the same meanings as in section 2307.71 of the Revised Code.",
+      "id": "2125.02-harm",
+      "normalized": "harm",
+      "scope": "(I) As used in this section:",
+      "section": "2125.02",
+      "source_title": "Section 2125.02 - Parties - damages.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2125.02",
+      "term": "Harm"
+    },
+    {
+      "definition": "(7) In relation to persons who died on or after the effective date of this amendment, \"other next of kin\" means the nearest surviving relatives to the decedent after accounting for the parents, children, or spouse.\n\n(J) Divisions (F), (I)(5), and (I)(6) of this section shall be considered to be purely remedial in operation and shall be applied in a remedial manner in any civil action commenced on or after April 7, 2005, in which those divisions are relevant, regardless of when the cause of action accrued and notwithstanding any other section of the Revised Code or prior rule of law of this state, but shall not be construed to apply to any civil action pending prior to April 7, 2005.\n\nLast updated January 26, 2023 at 11:31 AM",
+      "id": "2125.02-other-next-of-kin",
+      "normalized": "other next of kin",
+      "scope": "(I) As used in this section:",
+      "section": "2125.02",
+      "source_title": "Section 2125.02 - Parties - damages.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2125.02",
+      "term": "other next of kin"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2125.04",
+      "number": "2125.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2125.04"
+    },
+    {
+      "kind": "section",
+      "label": "2305.16",
+      "number": "2305.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.16"
+    },
+    {
+      "kind": "section",
+      "label": "2305.10",
+      "number": "2305.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.10"
+    },
+    {
+      "kind": "section",
+      "label": "2315.10",
+      "number": "2315.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2315.10"
+    },
+    {
+      "kind": "section",
+      "label": "2307.71",
+      "number": "2307.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.71"
+    }
+  ],
+  "scraped": "2026-07-02T19:41:42+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2125.02",
+  "title": "Section 2125.02 - Parties - damages."
+}

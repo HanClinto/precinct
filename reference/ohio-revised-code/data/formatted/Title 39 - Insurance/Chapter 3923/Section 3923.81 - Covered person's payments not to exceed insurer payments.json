@@ -1,0 +1,46 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Health benefit plan\" means any policy of sickness and accident insurance or any policy, contract, or agreement covering one or more \"basic health care services,\" \"supplemental health care services,\" or \"specialty health care services,\" as defined in section 1751.01 of the Revised Code, offered or provided by a health insuring corporation or by a sickness and accident insurer or multiple employer welfare arrangement.",
+      "id": "3923.81-health-benefit-plan",
+      "normalized": "health benefit plan",
+      "scope": "(C) As used in this section:",
+      "section": "3923.81",
+      "source_title": "Section 3923.81 - Covered person's payments not to exceed insurer payments.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3923.81",
+      "term": "Health benefit plan"
+    },
+    {
+      "definition": "(2) \"Reimbursement rates\" means any rates that apply to a payment made by a sickness and accident insurer, health insuring corporation, or multiple employer welfare arrangement for charges covered by a health benefit plan.",
+      "id": "3923.81-reimbursement-rates",
+      "normalized": "reimbursement rates",
+      "scope": "(C) As used in this section:",
+      "section": "3923.81",
+      "source_title": "Section 3923.81 - Covered person's payments not to exceed insurer payments.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3923.81",
+      "term": "Reimbursement rates"
+    },
+    {
+      "definition": "(3) \"Savings account\" includes health savings accounts, health reimbursement arrangements, flexible savings accounts, medical savings accounts, and similar accounts and arrangements.",
+      "id": "3923.81-savings-account",
+      "normalized": "savings account",
+      "scope": "(C) As used in this section:",
+      "section": "3923.81",
+      "source_title": "Section 3923.81 - Covered person's payments not to exceed insurer payments.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3923.81",
+      "term": "Savings account"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "1751.01",
+      "number": "1751.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.01"
+    }
+  ],
+  "scraped": "2026-07-02T20:02:47+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3923.81",
+  "title": "Section 3923.81 - Covered person's payments not to exceed insurer payments."
+}

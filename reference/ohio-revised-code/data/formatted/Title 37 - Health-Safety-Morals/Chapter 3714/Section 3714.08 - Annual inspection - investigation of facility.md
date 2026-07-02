@@ -1,0 +1,24 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3714.08
+Scraped: 2026-07-02T19:51:21+00:00
+
+# Section 3714.08 - Annual inspection - investigation of facility.
+
+**Effective:** September 29, 2015
+
+**Latest Legislation:** House Bill 64 - 131st General Assembly
+
+(A) At least annually, the board of health of a health district or the director of environmental protection shall cause each construction and demolition debris facility for which the board or the director, as appropriate, issued a license under section 3714.06 of the Revised Code to be inspected and shall cause a record to be made of each inspection. The board or the director shall require each such facility to be in substantial compliance with this chapter and rules adopted under it.
+
+(B) Within thirty days after the issuance of a license, the board of health shall certify to the director of environmental protection that the construction and demolition debris facility has been inspected and is in substantial compliance with this chapter and rules adopted under it. Each board of health shall provide the director with such other information as the director may require from time to time.
+
+(C) The board of health or its authorized representative and the director or the director's authorized representative, upon proper identification and upon stating the purpose and necessity of an inspection, may enter at reasonable times upon any public or private property, real or personal, to inspect or investigate, obtain samples, and examine or copy records to determine compliance with this chapter and rules adopted under it. The board of health or its authorized representative or the director or the director's authorized representative may apply for, and any judge of a court of record may issue, an appropriate search warrant necessary to achieve the purposes of this chapter and rules adopted under it within the court's territorial jurisdiction. If entry is refused or inspection or investigation is refused, hindered, or thwarted, the board of health or the director may suspend or revoke the construction and demolition debris facility's license.
+
+(D) If the entry authorized by division (C) of this section is refused or if the inspection or investigation so authorized is refused, hindered, or thwarted by intimidation or otherwise and if the director, the board of health, or authorized representative of either applies for and obtains a search warrant under division (C) of this section to conduct the inspection or investigation, the owner or operator of the premises where entry was refused or inspection or investigation was refused, hindered, or thwarted is liable to the director or board of health for the reasonable costs incurred by either for all of the following:
+
+(1) The regular salaries and fringe benefit costs of personnel assigned to conduct the inspection or investigation from the time the entry, inspection, or investigation was refused, hindered, or thwarted until the search warrant is executed;
+
+(2) The salary, fringe benefits, and travel expenses of the attorney general, prosecuting attorney of the county, or city director of law, or an authorized assistant, incurred in obtaining the search warrant;
+
+(3) Expenses necessarily incurred for the assistance of local law enforcement officers in executing the search warrant.
+
+In the application for a search warrant, the director or board of health may request and the court, in its order granting the search warrant, may order the owner or operator of the premises to reimburse the director or board of health for such of those costs as the court finds reasonable. From moneys recovered under this division, the director shall reimburse the attorney general for the costs incurred by the attorney general or the attorney general's authorized assistant in connection with proceedings for obtaining the search warrant, shall reimburse the political subdivision in which the premises is located for the assistance of its law enforcement officers in executing the search warrant, and shall deposit the remainder in the state treasury to the credit of the waste management fund created in section 3734.061 of the Revised Code. From moneys recovered under this division, the board of health shall reimburse the prosecuting attorney of the county or the city director of law for the costs incurred by the prosecuting attorney or the city director of law or the authorized assistant of the prosecuting attorney or the city director of law in connection with proceedings for obtaining the search warrant, shall reimburse the political subdivision in which the premises is located for the assistance of its law enforcement officers in executing the search warrant, and shall deposit the remainder of any such moneys to the credit of the special fund of the health district created in section 3714.07 of the Revised Code.

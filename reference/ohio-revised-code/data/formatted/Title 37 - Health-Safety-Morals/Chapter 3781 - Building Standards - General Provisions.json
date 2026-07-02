@@ -1,0 +1,363 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 3781.01 - Municipal corporation may make additional regulations.",
+      "number": "3781.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3781.02 - Exceptions to certain requirements.",
+      "number": "3781.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3781.03 - Enforcement - supervision - records.",
+      "number": "3781.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3781.031 - Issuance of adjudication or stop work order.",
+      "number": "3781.031",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.031"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3781.032 - Temporary building permit for retail establishments.",
+      "number": "3781.032",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.032"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3781.04 - Jurisdiction for violations of building standards.",
+      "number": "3781.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3781.05 - Plumbing standards for veterans' emergency housing.",
+      "number": "3781.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3781.06 - Public buildings to be safe and sanitary - definitions.",
+      "number": "3781.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3781.061 - Exemption for building or structure used in agriculture.",
+      "number": "3781.061",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.061"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3781.07 - Organization of board - employees.",
+      "number": "3781.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3781.08 - Rules of procedure.",
+      "number": "3781.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3781.09 - Rules of procedure.",
+      "number": "3781.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3781.10 - Board of building standards - powers and duties.",
+      "number": "3781.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3781.101 - Proceedings of the board of building standards.",
+      "number": "3781.101",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.101"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3781.102 - Extending building department certifications.",
+      "number": "3781.102",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.102"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3781.103 - Deadbolt locks or equivalent security locking device for swinging exit doors.",
+      "number": "3781.103",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.103"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3781.104 - Smoke detector systems or sprinkler system for apartment buildings and condominiums.",
+      "number": "3781.104",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.104"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3781.105 - Certification of fire protection system designers.",
+      "number": "3781.105",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.105"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3781.106 - Devices to regulate ingress and egress through doors in specified buildings.",
+      "number": "3781.106",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.106"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3781.107 - Hotel to have available fire warning device producing visible warning signal.",
+      "number": "3781.107",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.107"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3781.108 - Fire suppression system required in certain new tall buildings used for human occupancy.",
+      "number": "3781.108",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.108"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3781.109 - Rest room facilities.",
+      "number": "3781.109",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.109"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3781.1010 - Rules regarding installation of storm shelters on certain school buildings.",
+      "number": "3781.1010",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.1010"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3781.1011 - Battery-charged fences.",
+      "number": "3781.1011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.1011"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3781.11 - Rules of board of building standards - public nuisance.",
+      "number": "3781.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3781.111 - Facilitating reasonable access and use by all persons with disability of buildings and facilities of buildings.",
+      "number": "3781.111",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.111"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3781.112 - Secured facility may use delayed egress and coded doors.",
+      "number": "3781.112",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.112"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3781.12 - Petition for adoption, amendment or annulment of rule or regulation.",
+      "number": "3781.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3781.13 - Petition for hearing on action of board.",
+      "number": "3781.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3781.14 - Court action against board of building standards.",
+      "number": "3781.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3781.15 - Injunction proceedings.",
+      "number": "3781.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3781.16 - Effect on municipal or other state authorities.",
+      "number": "3781.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3781.17 - Assistance by commerce department.",
+      "number": "3781.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3781.18 - Certain descriptions prescribe minimum standards.",
+      "number": "3781.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3781.184 - Federal manufactured home construction and safety standards.",
+      "number": "3781.184",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.184"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3781.19 - Board of building appeals.",
+      "number": "3781.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3781.191 - Board jurisdiction regarding residential building code.",
+      "number": "3781.191",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.191"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3781.20 - Municipal and county boards of building appeals.",
+      "number": "3781.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3781.21 - Expedited appeals.",
+      "number": "3781.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3781.25 - One-call utility protection service definitions.",
+      "number": "3781.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3781.26 - Protection service for underground utility facilities.",
+      "number": "3781.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3781.261 - Protection of underground utility facilities training.",
+      "number": "3781.261",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.261"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3781.27 - Developer or designer notifying protection service of intended excavation.",
+      "number": "3781.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3781.271 - Modification of one-call notification system.",
+      "number": "3781.271",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.271"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3781.28 - Excavator notifying protection service or pipeline owner.",
+      "number": "3781.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3781.29 - Marking location of facilities or give notice of no facilities at site.",
+      "number": "3781.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3781.30 - Duties of excavator.",
+      "number": "3781.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3781.31 - Notifying of commencement of excavation or of removal of markings.",
+      "number": "3781.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3781.32 - Connections or tie-ins within right-of-way.",
+      "number": "3781.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3781.34 - Underground technical committee.",
+      "number": "3781.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3781.341 - Conflicts of interest.",
+      "number": "3781.341",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.341"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3781.342 - Meetings.",
+      "number": "3781.342",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.342"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3781.343 - Disclosure requirements.",
+      "number": "3781.343",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.343"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3781.36 - Duties of committee.",
+      "number": "3781.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3781.361 - OHIO811 nonvoting advisory member.",
+      "number": "3781.361",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.361"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3781.38 - Member immunity.",
+      "number": "3781.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3781.40 - Welding standards.",
+      "number": "3781.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3781.55 - Breast-feeding in places of public accommodation.",
+      "number": "3781.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3781.99 - Penalty.",
+      "number": "3781.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3781.99"
+    }
+  ],
+  "scraped": "2026-07-02T20:01:40+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-3781",
+  "title": "Chapter 3781 - Building Standards - General Provisions"
+}

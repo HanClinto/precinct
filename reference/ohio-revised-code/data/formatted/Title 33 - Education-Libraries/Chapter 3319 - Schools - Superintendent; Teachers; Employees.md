@@ -1,0 +1,156 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-3319
+Scraped: 2026-07-02T19:48:54+00:00
+
+# Chapter 3319 - Schools - Superintendent; Teachers; Employees
+
+## Sections
+
+- Section 3319.01 - Employment of superintendent.
+- Section 3319.011 - Superintendent pro tempore.
+- Section 3319.02 - Assistant superintendents and other administrators.
+- Section 3319.03 - Business manager.
+- Section 3319.031 - Assignment of business manager functions.
+- Section 3319.04 - Business manager - powers and duties.
+- Section 3319.05 - Compensation of business manager - bond.
+- Section 3319.06 - Internal auditor authorized - contract - evaluation.
+- Section 3319.07 - Employment of teachers.
+- Section 3319.071 - Professional development program for teachers.
+- Section 3319.072 - Lunch period for teachers.
+- Section 3319.073 - In-service training in child abuse prevention programs, school safety and violence prevention, and training on the board's harassment, intimidation, or bullying policy.
+- Section 3319.074 - Professional qualifications of teachers and paraprofessionals.
+- Section 3319.075 - Use of professional development standards.
+- Section 3319.076 - License required to teach physical education.
+- Section 3319.077 - Teacher professional development in dyslexia.
+- Section 3319.078 - Structured literacy certification.
+- Section 3319.079 - License renewal - grade band.
+- Section 3319.08 - Contracts for employment or reemployment of teachers.
+- Section 3319.081 - Contracts for nonteaching employees.
+- Section 3319.082 - Annual notice of salary to nonteaching school employees.
+- Section 3319.083 - Notice of intention not to re-employ.
+- Section 3319.084 - Nonteaching school employees - vacation leave and vacation credit.
+- Section 3319.085 - Military leave for nonteaching employees.
+- Section 3319.086 - Standard work week.
+- Section 3319.087 - Paid holidays.
+- Section 3319.088 - Educational aide permits - educational paraprofessional licenses for educational assistants.
+- Section 3319.089 - Using work experience program participants.
+- Section 3319.0810 - Contracting for student transportation services.
+- Section 3319.0811 - Supplemental contracts for courses taught outside normal school day.
+- Section 3319.0812 - Pre-service teacher permit.
+- Section 3319.09 - Teacher definitions.
+- Section 3319.10 - Employment and status of substitute teachers.
+- Section 3319.101 - Conditional employment of substitute teachers pending receipt of teacher's certificate.
+- Section 3319.102 - [Former Section 4 of S.B. 1, 134th General Assembly, as amended by H.B. 583, 134th General Assembly, and amended and codified as R.C. 3319.102 by H.B. 33, 135th General Assembly] Temporary substitute teaching license.
+- Section 3319.11 - Continuing service status - limited contract - notice of intent not to re-employ.
+- Section 3319.111 - Applicability of section; evaluating teachers on limited contracts.
+- Section 3319.112 - Revision of standards-based state framework for the evaluation of teachers.
+- Section 3319.113 - Standards-based state framework for evaluation of school counselors.
+- Section 3319.12 - Annual notice of salary to be paid teacher - transfer to other positions.
+- Section 3319.13 - Leave of absence - request - employment of replacement.
+- Section 3319.131 - Leaves of absence for professional growth.
+- Section 3319.14 - Military leave of absence.
+- Section 3319.141 - Sick leave.
+- Section 3319.142 - Personal leave for nonteaching employees.
+- Section 3319.143 - Policy of assault leave.
+- Section 3319.15 - Termination of contract by teacher.
+- Section 3319.151 - Prohibition on assisting students in cheating on assessments.
+- Section 3319.16 - Termination of contract by board of education.
+- Section 3319.161 - Appointing referees for contract termination cases.
+- Section 3319.17 - Reduction in number of teachers - restoration.
+- Section 3319.171 - Administrative personnel suspension policy.
+- Section 3319.172 - Reasonable reductions in nonteaching employees.
+- Section 3319.173 - Teacher assignment based on student best interests.
+- Section 3319.18 - Status of teachers under transfer or consolidation.
+- Section 3319.181 - Civil service status of nonteaching employees in transferred or new district.
+- Section 3319.20 - Notification of nonlicensed employee's guilty plea or conviction of certain offenses.
+- Section 3319.21 - Contract employing relative as teacher void.
+- Section 3319.22 - Standards and requirements for educator licenses; local professional development committees.
+- Section 3319.221 - Pupil services personnel registration.
+- Section 3319.222 - Effect on licenses and certificates issued before change in law.
+- Section 3319.223 - Ohio teacher residency program.
+- Section 3319.224 - Contracts for speech and language or audiology services.
+- Section 3319.226 - Educator licenses for substitute teaching.
+- Section 3319.227 - Teach for America educator's license.
+- Section 3319.228 - Issuance of license to those licensed in other states; list of states with inadequate licensure standards.
+- Section 3319.229 - Career-technical workforce development educator license.
+- Section 3319.2210 - One-year out-of-state educator license.
+- Section 3319.2211 - Employment of adult education permit holder.
+- Section 3319.2212 - Career-technical licenses for teachers licensed in other areas.
+- Section 3319.2213 - School counselor professional development in building trades.
+- Section 3319.23 - License required for teaching American history and government content.
+- Section 3319.231 - Qualifications for teaching community service education.
+- Section 3319.232 - License for teaching students with visual disabilities.
+- Section 3319.233 - Educator license requirements beginning 7/1/2017.
+- Section 3319.235 - Integrating educational technology.
+- Section 3319.236 - Qualifications to teach computer science.
+- Section 3319.237 - Courses to teach in grades pre-k through 5; curriculum; continuing education.
+- Section 3319.238 - Financial literacy license validation.
+- Section 3319.239 - Reimbursement for financial literacy validation costs.
+- Section 3319.2310 - Science of reading training for licensed educators.
+- Section 3319.24 - Coursework in teaching reading and phonics required for certain initial provisional license applicants.
+- Section 3319.25 - Teacher performance assessment entity.
+- Section 3319.26 - Alternative educator licenses.
+- Section 3319.261 - Alternative resident educator license.
+- Section 3319.262 - Standards and requirements for obtaining nonrenewable four-year initial early college high school educator license.
+- Section 3319.263 - Alternative resident educator license subject areas.
+- Section 3319.264 - Alternative resident educator license for master's degree holders.
+- Section 3319.27 - Alternative principal license.
+- Section 3319.272 - Professional administrator license upon completion of bright new leaders for Ohio schools program.
+- Section 3319.273 - Alternative administrator and superintendent licensure pathways.
+- Section 3319.28 - Provisional educator license for STEM school teacher.
+- Section 3319.283 - Veteran not certificated or licensed.
+- Section 3319.284 - Extension of educator license for members of armed forces.
+- Section 3319.285 - Alternative military educator license.
+- Section 3319.29 - Fees.
+- Section 3319.291 - Fingerprints and authorization to forward to bureau of criminal identification and investigation.
+- Section 3319.292 - Questioning of applicant regarding criminal history.
+- Section 3319.30 - Necessity of license - professional meetings.
+- Section 3319.301 - Board to issue permits to qualified nonlicensed individuals.
+- Section 3319.303 - Standards and requirements for obtaining pupil-activity program permit.
+- Section 3319.31 - Refusal to issue, suspension, revocation or limitations of license.
+- Section 3319.311 - Investigations.
+- Section 3319.312 - Effect of child support default on certificate or permit.
+- Section 3319.313 - Information concerning improper conduct by licensed employee.
+- Section 3319.314 - Report of improper conduct investigation kept in personnel file.
+- Section 3319.315 - RC 3319.313 and RC 3319.314 prevail over contractual provisions.
+- Section 3319.316 - Participation in retained applicant fingerprint database.
+- Section 3319.317 - False report of employee misconduct prohibited.
+- Section 3319.318 - Illegally assisting a sex offender in attaining school employment.
+- Section 3319.319 - Release of information obtained during an investigation of an educator.
+- Section 3319.32 - Records to be kept by superintendents and teachers of all schools - reports.
+- Section 3319.321 - Confidentiality.
+- Section 3319.322 - Copy of photographs for school files.
+- Section 3319.323 - Alterations of records prohibited.
+- Section 3319.324 - Student record transfer.
+- Section 3319.325 - Student data and technology provider definitions.
+- Section 3319.326 - Technology provider student data and educational records use.
+- Section 3319.327 - Monitoring of school-issued devices.
+- Section 3319.33 - Annual report of statistics - civil proceedings information.
+- Section 3319.35 - Failure of superintendent or treasurer to make reports.
+- Section 3319.36 - Requirements for payment of teacher for services.
+- Section 3319.361 - Rules for issuance of supplemental teaching license.
+- Section 3319.37 - Appointment of persons to make reports for treasurer or executive head - compensation.
+- Section 3319.39 - Criminal records check.
+- Section 3319.391 - Applicants and new hires subject to criminal records check provisions.
+- Section 3319.392 - Criminal records check of private contract employee.
+- Section 3319.393 - Educator profile database consultation.
+- Section 3319.40 - Suspension of employee pending criminal action.
+- Section 3319.41 - Corporal punishment policy.
+- Section 3319.42 - Interstate agreement on qualification of educational personnel.
+- Section 3319.43 - Designated state official shall be superintendent of public instruction.
+- Section 3319.44 - Copies of contracts to be kept on file.
+- Section 3319.45 - Principal to report certain act or violations by pupil to superintendent and law enforcement officer.
+- Section 3319.46 - Policy and rules regarding positive behavior intervention supports and the use of physical restraint or seclusion on students; duties of board.
+- Section 3319.47 - Sexual harassment counseling.
+- Section 3319.51 - Fees - state board of education licensure fund.
+- Section 3319.52 - Notification of guilty plea or conviction of license holder.
+- Section 3319.60 - Educator standards board.
+- Section 3319.61 - Duties of board.
+- Section 3319.611 - Subcommittee on standards for superintendents of the education standards board.
+- Section 3319.612 - Subcommittee on standards for school treasurers and business managers of the educator standards board.
+- Section 3319.614 - Policies prohibiting affirmations of specific beliefs.
+- Section 3319.63 - Granting professional leave for educator standards board service.
+- Section 3319.65 - Credential review board.
+- Section 3319.67 - Teacher of the year recognition program.
+- Section 3319.80 - Engagement of dyslexia specialist to train teachers.
+- Section 3319.90 - Single-sex facilities and accommodations.
+- Section 3319.99 - Penalty.

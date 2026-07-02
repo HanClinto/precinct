@@ -1,0 +1,405 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 5168.01 - Hospital care assurance program definitions.",
+      "number": "5168.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.02 - Adoption of rules.",
+      "number": "5168.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.03 - Provisions dependent on assessment as permissible health care-related tax.",
+      "number": "5168.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.04 - Program year basis of operation.",
+      "number": "5168.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.05 - Submitting financial statement and cost report.",
+      "number": "5168.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.06 - Annual assessment.",
+      "number": "5168.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.07 - Requiring governmental hospitals to make intergovernmental transfers.",
+      "number": "5168.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.08 - Preliminary determination of assessment.",
+      "number": "5168.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.09 - Methodology to pay hospitals sufficient to expend all money in indigent care pool.",
+      "number": "5168.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.10 - Prohibiting replacing funds appropriated for medicaid program.",
+      "number": "5168.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.11 - Hospital care assurance program fund.",
+      "number": "5168.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.13 - Confidentiality.",
+      "number": "5168.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.14 - Providing basic, medically necessary hospital-level services to individuals who are residents.",
+      "number": "5168.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.20 - Definitions for R.C. 5168.20 to 5168.28.",
+      "number": "5168.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.21 - Additional annual assessment.",
+      "number": "5168.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.22 - Preliminary determination of assessment amount.",
+      "number": "5168.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.23 - Assessment payment schedule.",
+      "number": "5168.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.24 - Audit.",
+      "number": "5168.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.25 - Hospital assessment fund.",
+      "number": "5168.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.26 - Excluded costs.",
+      "number": "5168.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.27 - Implementation shall not cause reduction in federal participation for medicaid program.",
+      "number": "5168.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.28 - Determination of assessment as impermissible health care-related tax.",
+      "number": "5168.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.40 - Franchise permit fee definitions.",
+      "number": "5168.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.41 - Determination of nursing home and hospital long-term care franchise permit fee rate.",
+      "number": "5168.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.42 - Annual franchise permit fee.",
+      "number": "5168.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.43 - Waiver of franchise permit fee.",
+      "number": "5168.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.44 - Approval of waiver; Reduction in franchise permit fee rate.",
+      "number": "5168.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.45 - Increase in franchise permit fee rate.",
+      "number": "5168.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.46 - Annual reports.",
+      "number": "5168.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.47 - Determination, notice, and payment of annual fee.",
+      "number": "5168.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.48 - Redetermination of franchise permit fees.",
+      "number": "5168.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.49 - Change of operator; division of franchise permit fees.",
+      "number": "5168.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.50 - Direct billing for franchise permit fee prohibited.",
+      "number": "5168.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.51 - Assessment for past due fee installment.",
+      "number": "5168.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.52 - Additional sanctions for past due fee installment.",
+      "number": "5168.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.53 - Appeals.",
+      "number": "5168.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.54 - Nursing home franchise permit fee fund.",
+      "number": "5168.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.55 - Investigations; enforcement.",
+      "number": "5168.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.56 - Implementing provisions.",
+      "number": "5168.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.60 - Definitions for R.C. 5168.60 to 5168.71.",
+      "number": "5168.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.61 - ICF/IID quarterly franchise permit fees.",
+      "number": "5168.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.62 - Monthly report.",
+      "number": "5168.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.63 - Determination, notice and payment of quarterly franchise permit fee.",
+      "number": "5168.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.64 - Consequences of converting beds to providing home and community-based services.",
+      "number": "5168.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.65 - Assessing penalty for overdue installment.",
+      "number": "5168.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.66 - Additional sanctions for overdue installment.",
+      "number": "5168.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.67 - Appeal of fee.",
+      "number": "5168.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.67"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.68 - Home and community-based services for persons with developmental disabilities fund.",
+      "number": "5168.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.68"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.69 - Department of developmental disabilities operating and services fund.",
+      "number": "5168.69",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.69"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.70 - Investigation; enforcement.",
+      "number": "5168.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.71 - Adoption of rules.",
+      "number": "5168.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.75 - Definitions for R.C. 5168.75 to 5168.86.",
+      "number": "5168.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.76 - Franchise fee on health insuring corporation plans.",
+      "number": "5168.76",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.76"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.77 - Component due dates.",
+      "number": "5168.77",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.77"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.78 - Documentation.",
+      "number": "5168.78",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.78"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.79 - Determination of higher fee.",
+      "number": "5168.79",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.79"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.80 - Request for reconsideration.",
+      "number": "5168.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.80"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.81 - Penalty for overdue payments.",
+      "number": "5168.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.82 - Waiver required.",
+      "number": "5168.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.82"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.83 - Refunds.",
+      "number": "5168.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.83"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.84 - Modification or cessation.",
+      "number": "5168.84",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.84"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.85 - Health insuring corporation franchise fee fund.",
+      "number": "5168.85",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.85"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.86 - Implementation.",
+      "number": "5168.86",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.86"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.90 - Quarterly report to LSC.",
+      "number": "5168.90",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.90"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.99 - Penalties.",
+      "number": "5168.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.99"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5168.991 - Offsetting unpaid penalty.",
+      "number": "5168.991",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5168.991"
+    }
+  ],
+  "scraped": "2026-07-02T20:11:35+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-5168",
+  "title": "Chapter 5168 - Hospital Care Assurance Program; Health Care Franchise Permit Fees"
+}

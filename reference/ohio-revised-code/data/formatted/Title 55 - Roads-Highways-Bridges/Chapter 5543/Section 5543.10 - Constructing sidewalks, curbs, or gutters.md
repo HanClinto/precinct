@@ -1,0 +1,16 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5543.10
+Scraped: 2026-07-02T20:13:21+00:00
+
+# Section 5543.10 - Constructing sidewalks, curbs, or gutters.
+
+**Effective:** September 29, 2011
+
+**Latest Legislation:** House Bill 153 - 129th General Assembly
+
+(A) The county engineer, upon the order of the board of county commissioners or board of township trustees, shall construct sidewalks, curbs, or gutters of suitable materials, along or connecting the public highways, outside any municipal corporation, upon the petition of a majority of the abutting property owners. The expense of the construction of these improvements may be paid by the county or township, or by the county or township and abutting property owners in such proportion as determined by the board of county commissioners or board of township trustees. The board of county commissioners or board of township trustees may assess part or all of the cost of these improvements against the abutting property owners, in proportion to benefits accruing to their property.
+
+The board of county commissioners or board of township trustees, by unanimous vote, may order the construction, repair, or maintenance of sidewalks, curbs, and gutters along or connecting the public highways, outside a municipal corporation, without a petition for that construction, repair, or maintenance, and may assess none, all, or any part of the cost against abutting property owners, provided that notice is given by publication for three successive weeks in a newspaper of general circulation within the county or as provided in section 7.16 of the Revised Code, stating the intention of the board of county commissioners or board of township trustees to construct, repair, or maintain the specified improvements and fixing a date for a hearing on them. As part of a sidewalk improvement, the board may include the repair or reconstruction of a driveway within the sidewalk easement. As part of a curb improvement, the board may include construction or repair of a driveway apron.
+
+Notice to all abutting property owners shall be given by two publications in a newspaper of general circulation in the county or as provided in section 7.16 of the Revised Code, at least ten days prior to the date fixed in the notice for the making of assessments. The notice shall state the time and place when abutting property owners will be given an opportunity to be heard with reference to assessments. The board of county commissioners or board of township trustees shall determine whether assessments shall be paid in one or more installments.
+
+(B) The county engineer may trim or remove any and all trees, shrubs, and other vegetation growing in or encroaching onto the right-of-way of the easement of a public sidewalk along or connecting the public highways and maintained by the county, and the board of township trustees may trim or remove any and all trees, shrubs, and other vegetation growing in or encroaching onto the right-of-way of the easement of a public sidewalk along or connecting the public highways and maintained by the township, as is necessary in the engineer's or board's judgment to facilitate the right of the public to improvement and maintenance of, and uninterrupted travel on, public sidewalks in the county or township.

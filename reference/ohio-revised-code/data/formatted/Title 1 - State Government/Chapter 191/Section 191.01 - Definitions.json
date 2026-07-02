@@ -1,0 +1,138 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Affiliate\" means a person or entity under common ownership or control with, or a participant in a joint venture, partnership, consortium, or similar business arrangement with, another person or entity pertaining to the provision of broadband service.",
+      "id": "191.01-affiliate",
+      "normalized": "affiliate",
+      "scope": "As used in sections 191.01 to 191.45 of the Revised Code:",
+      "section": "191.01",
+      "source_title": "Section 191.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-191.01",
+      "term": "Affiliate"
+    },
+    {
+      "definition": "(B) \"Broadband expansion program authority\" means the entity created under section 122.403 of the Revised Code.",
+      "id": "191.01-broadband-expansion-program-authority",
+      "normalized": "broadband expansion program authority",
+      "scope": "As used in sections 191.01 to 191.45 of the Revised Code:",
+      "section": "191.01",
+      "source_title": "Section 191.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-191.01",
+      "term": "Broadband expansion program authority"
+    },
+    {
+      "definition": "(C) \"Broadband infrastructure\" means facilities that are used, in whole or in part, to provide qualifying broadband service access to residences and businesses.",
+      "id": "191.01-broadband-infrastructure",
+      "normalized": "broadband infrastructure",
+      "scope": "As used in sections 191.01 to 191.45 of the Revised Code:",
+      "section": "191.01",
+      "source_title": "Section 191.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-191.01",
+      "term": "Broadband infrastructure"
+    },
+    {
+      "definition": "(D) \"Mid-span pole installation\" means the installation of, and attachment of broadband infrastructure to, a new utility pole that is installed between or adjacent to one or more existing utility poles or replaced utility poles to which poles broadband infrastructure is attached.",
+      "id": "191.01-mid-span-pole-installation",
+      "normalized": "mid-span pole installation",
+      "scope": "As used in sections 191.01 to 191.45 of the Revised Code:",
+      "section": "191.01",
+      "source_title": "Section 191.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-191.01",
+      "term": "Mid-span pole installation"
+    },
+    {
+      "definition": "(E) \"Pole owner\" means any person or entity that owns or controls a utility pole.",
+      "id": "191.01-pole-owner",
+      "normalized": "pole owner",
+      "scope": "As used in sections 191.01 to 191.45 of the Revised Code:",
+      "section": "191.01",
+      "source_title": "Section 191.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-191.01",
+      "term": "Pole owner"
+    },
+    {
+      "definition": "(F) \"Pole replacement\" means the removal of an existing utility pole and replacement of that pole with a new utility pole to which a provider attaches broadband infrastructure.",
+      "id": "191.01-pole-replacement",
+      "normalized": "pole replacement",
+      "scope": "As used in sections 191.01 to 191.45 of the Revised Code:",
+      "section": "191.01",
+      "source_title": "Section 191.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-191.01",
+      "term": "Pole replacement"
+    },
+    {
+      "definition": "(G) \"Provider\" means an entity, including a pole owner or affiliate, that provides qualifying broadband service.",
+      "id": "191.01-provider",
+      "normalized": "provider",
+      "scope": "As used in sections 191.01 to 191.45 of the Revised Code:",
+      "section": "191.01",
+      "source_title": "Section 191.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-191.01",
+      "term": "Provider"
+    },
+    {
+      "definition": "(H) \"Qualifying broadband service\" means a retail wireline broadband service that is capable of delivering symmetrical internet access at download and upload speeds of at least one hundred megabits per second with a latency level sufficient to permit real-time, interactive applications.",
+      "id": "191.01-qualifying-broadband-service",
+      "normalized": "qualifying broadband service",
+      "scope": "As used in sections 191.01 to 191.45 of the Revised Code:",
+      "section": "191.01",
+      "source_title": "Section 191.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-191.01",
+      "term": "Qualifying broadband service"
+    },
+    {
+      "definition": "(I) \"Undergrounding\" means the placement of broadband infrastructure underground, including by directly burying the infrastructure or through the underground placement of new ducts or conduits and installation of the infrastructure in them.",
+      "id": "191.01-undergrounding",
+      "normalized": "undergrounding",
+      "scope": "As used in sections 191.01 to 191.45 of the Revised Code:",
+      "section": "191.01",
+      "source_title": "Section 191.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-191.01",
+      "term": "Undergrounding"
+    },
+    {
+      "definition": "(J) \"Unserved area\" means an area in the state that is without access to fixed, terrestrial broadband service capable of delivering internet access at download speeds of at least twenty-five megabits per second and upload speeds of at least three megabits per second.",
+      "id": "191.01-unserved-area",
+      "normalized": "unserved area",
+      "scope": "As used in sections 191.01 to 191.45 of the Revised Code:",
+      "section": "191.01",
+      "source_title": "Section 191.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-191.01",
+      "term": "Unserved area"
+    },
+    {
+      "definition": "(K) \"Utility pole\" means any pole used, in whole or in part, for any wired communications or electric distribution, irrespective of who owns or operates such pole.\n\nLast updated August 29, 2023 at 4:21 PM",
+      "id": "191.01-utility-pole",
+      "normalized": "utility pole",
+      "scope": "As used in sections 191.01 to 191.45 of the Revised Code:",
+      "section": "191.01",
+      "source_title": "Section 191.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-191.01",
+      "term": "Utility pole"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "191.01",
+      "number": "191.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-191.01"
+    },
+    {
+      "kind": "section",
+      "label": "191.45",
+      "number": "191.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-191.45"
+    },
+    {
+      "kind": "section",
+      "label": "122.403",
+      "number": "122.403",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-122.403"
+    }
+  ],
+  "scraped": "2026-07-02T19:32:26+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-191.01",
+  "title": "Section 191.01 - Definitions."
+}

@@ -1,0 +1,86 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Transportation facilities\" means all publicly owned modes and means of transporting people and goods, including the physical facilities, garages, district offices, and other related buildings therefor, and including, but not limited to, highways, rights-of-way, roads and bridges, parking facilities, aviation facilities, port facilities, rail facilities, public transportation facilities, rest areas, and roadside parks.",
+      "id": "5501.01-transportation-facilities",
+      "normalized": "transportation facilities",
+      "scope": "As used in Chapters 5501., 5503., 5511., 5513., 5515., 5516., 5517., 5519., 5521., 5523., 5525., 5527., 5528., 5529., 5531., 5533., and 5535. of the Revised Code:",
+      "section": "5501.01",
+      "source_title": "Section 5501.01 - Department of transportation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5501.01",
+      "term": "Transportation facilities"
+    },
+    {
+      "definition": "(B) \"Public transportation\" means publicly owned or operated transportation by bus, rail, or other conveyance, which provides to the public transit or paratransit service on a regular and continuing basis within the state, and may include demand-responsive transportation, subscription bus service, shared-ride taxi service, car pools, van pools, or jitney service. \"Public transportation\" does not include school bus transportation or charter or sightseeing services.",
+      "id": "5501.01-public-transportation",
+      "normalized": "public transportation",
+      "scope": "As used in Chapters 5501., 5503., 5511., 5513., 5515., 5516., 5517., 5519., 5521., 5523., 5525., 5527., 5528., 5529., 5531., 5533., and 5535. of the Revised Code:",
+      "section": "5501.01",
+      "source_title": "Section 5501.01 - Department of transportation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5501.01",
+      "term": "Public transportation"
+    },
+    {
+      "definition": "(C) \"Road\" or \"highway\" includes all appurtenances to the road or highway, including but not limited to, bridges, viaducts, grade separations, culverts, lighting, signalization, and approaches on or to such road or highway.",
+      "id": "5501.01-road",
+      "normalized": "road",
+      "scope": "As used in Chapters 5501., 5503., 5511., 5513., 5515., 5516., 5517., 5519., 5521., 5523., 5525., 5527., 5528., 5529., 5531., 5533., and 5535. of the Revised Code:",
+      "section": "5501.01",
+      "source_title": "Section 5501.01 - Department of transportation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5501.01",
+      "term": "Road"
+    },
+    {
+      "definition": "(C) \"Road\" or \"highway\" includes all appurtenances to the road or highway, including but not limited to, bridges, viaducts, grade separations, culverts, lighting, signalization, and approaches on or to such road or highway.",
+      "id": "5501.01-highway",
+      "normalized": "highway",
+      "scope": "As used in Chapters 5501., 5503., 5511., 5513., 5515., 5516., 5517., 5519., 5521., 5523., 5525., 5527., 5528., 5529., 5531., 5533., and 5535. of the Revised Code:",
+      "section": "5501.01",
+      "source_title": "Section 5501.01 - Department of transportation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5501.01",
+      "term": "highway"
+    },
+    {
+      "definition": "(D) \"Right-of-way\" has the same meaning as in division (UU)(2) of section 4511.01 of the Revised Code.",
+      "id": "5501.01-right-of-way",
+      "normalized": "right-of-way",
+      "scope": "As used in Chapters 5501., 5503., 5511., 5513., 5515., 5516., 5517., 5519., 5521., 5523., 5525., 5527., 5528., 5529., 5531., 5533., and 5535. of the Revised Code:",
+      "section": "5501.01",
+      "source_title": "Section 5501.01 - Department of transportation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5501.01",
+      "term": "Right-of-way"
+    },
+    {
+      "definition": "(E) \"Telecommunications service provider\" means an entity that, for a fee, provides telecommunications services, including, but not limited to, voice, data, interactive or two-way telecommunications services, without regard to the way such services are delivered.",
+      "id": "5501.01-telecommunications-service-provider",
+      "normalized": "telecommunications service provider",
+      "scope": "As used in Chapters 5501., 5503., 5511., 5513., 5515., 5516., 5517., 5519., 5521., 5523., 5525., 5527., 5528., 5529., 5531., 5533., and 5535. of the Revised Code:",
+      "section": "5501.01",
+      "source_title": "Section 5501.01 - Department of transportation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5501.01",
+      "term": "Telecommunications service provider"
+    },
+    {
+      "definition": "(F) \"Telecommunications facility\" means a facility for the provision of telecommunications services. The facility may include, but is not limited to, a tower, monopole, antenna or other ancillary equipment, or buildings used to deliver telecommunications services.",
+      "id": "5501.01-telecommunications-facility",
+      "normalized": "telecommunications facility",
+      "scope": "As used in Chapters 5501., 5503., 5511., 5513., 5515., 5516., 5517., 5519., 5521., 5523., 5525., 5527., 5528., 5529., 5531., 5533., and 5535. of the Revised Code:",
+      "section": "5501.01",
+      "source_title": "Section 5501.01 - Department of transportation definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5501.01",
+      "term": "Telecommunications facility"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "4511.01",
+      "number": "4511.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.01"
+    }
+  ],
+  "scraped": "2026-07-02T20:12:20+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5501.01",
+  "title": "Section 5501.01 - Department of transportation definitions."
+}

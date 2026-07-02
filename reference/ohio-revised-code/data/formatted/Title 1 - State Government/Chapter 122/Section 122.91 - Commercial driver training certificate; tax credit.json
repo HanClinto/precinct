@@ -1,0 +1,68 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Qualifying individual\" means an individual who holds a valid commercial driver's license or who is eligible to obtain such a license.\n\n(2) \"Commercial driver's license\" and \"commercial motor vehicle\" have the same meanings as in section 4506.01 of the Revised Code.",
+      "id": "122.91-qualifying-individual",
+      "normalized": "qualifying individual",
+      "scope": "(A) As used in this section:",
+      "section": "122.91",
+      "source_title": "Section 122.91 - Commercial driver training certificate; tax credit.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-122.91",
+      "term": "Qualifying individual"
+    },
+    {
+      "definition": "(3) \"Training expense\" means any cost customarily incurred by an employer to train an employee who is a qualifying individual to obtain a commercial driver's license or to operate a commercial motor vehicle. \"Training expense\" shall not include such an employee's wages.",
+      "id": "122.91-training-expense",
+      "normalized": "training expense",
+      "scope": "(A) As used in this section:",
+      "section": "122.91",
+      "source_title": "Section 122.91 - Commercial driver training certificate; tax credit.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-122.91",
+      "term": "Training expense"
+    },
+    {
+      "definition": "(4) \"Tax credit-eligible training expense\" means any training expense certified under division (B) of this section.",
+      "id": "122.91-tax-credit-eligible-training-expense",
+      "normalized": "tax credit-eligible training expense",
+      "scope": "(A) As used in this section:",
+      "section": "122.91",
+      "source_title": "Section 122.91 - Commercial driver training certificate; tax credit.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-122.91",
+      "term": "Tax credit-eligible training expense"
+    },
+    {
+      "definition": "(5) \"Director\" means the director of development.\n\n(B)(1) For calendar years 2023 through 2026, an employer may apply to the director, on or before the first day of December of each year and on a form prescribed by the director, to certify training expenses that an employer estimates the employer will incur during the following calendar year as tax credit-eligible training expenses. Within thirty days after receiving such an application, the director shall certify to each applicant the amount of the applicant's submitted expenses the director finds to be tax credit-eligible training expenses. The director shall not certify more than fifty thousand dollars of training expenses per year as tax credit-eligible training expenses for any employer.\n\n(2) The director shall not certify more than three million dollars in tax credit-eligible training expenses for each calendar year, increased by the sum of tax credit-eligible expenses the director was authorized to certify within the limit described in division (B)(2) of this section for preceding years that were not the basis of a tax credit certificate issued under division (C)(2) of this section in the current year or any preceding year.\n\n(C)(1) An employer that incurs tax credit-eligible training expenses in a calendar year that were certified for that year under division (B) of this section may apply to the director for a nonrefundable credit against the tax imposed by section 5747.02 of the Revised Code. The credit shall equal one-half of the tax credit-eligible training expenses actually incurred by the employer in, and certified for, the preceding calendar year. The application may be submitted after the first day and before the twenty-first day of January of the year following the year for which the director certified the expenses. The application shall be submitted on a form prescribed by the director and shall, at a minimum, include an itemized list of tax credit-eligible training expenses incurred by the employer for each employee and the identities of those employees.\n\n(2) If the director approves an application described in division (C)(1) of this section, the director, within sixty days after receipt of the application, shall issue a tax credit certificate to the applicant. The director in consultation with the tax commissioner shall prescribe the form and manner of issuing certificates. The director shall assign a unique identifying number to each tax credit certificate and shall record the certificate in a register devised and maintained by the director for that purpose. The certificate shall state the amount of the tax credit-eligible training expenses on which the credit is based, the amount of the credit, and the date the certificate is issued. Upon issuance of a certificate, the director shall certify to the tax commissioner the name of the applicant, the amount of tax credit-eligible training expenses stated on the certificate, and any other information required by the rules adopted under this section.\n\n(D)(1) An employer that has been issued a tax credit certificate under division (C)(2) of this section during the preceding calendar year shall file a form with the director identifying all employees, the training of which is the basis of that tax credit, whose employment with the employer was terminated during the preceding calendar year, the amount of the tax credit that is attributable to those employees, and any other information requested by the director. The form shall be prescribed by the director, and shall be filed on or before the twenty-first day of January of the year following the issuance year stated on the certificate.\n\n(2) The director shall annually submit to the general assembly a report in accordance with division (B) of section 101.68 of the Revised Code that includes the total number of employees described in division (D)(1) of this section and reported to the director for the preceding calendar year, the total amount of tax credits attributable to those employees, and any other information the director finds pertinent.\n\n(E) The director in consultation with the tax commissioner shall adopt rules under Chapter 119. of the Revised Code for the administration of this section. Such rules shall set forth any applicable fees, any penalties for noncompliance with the reporting requirements prescribed in division (D) of this section, and the types of expenses that qualify as training expenses for purposes of this section.\n\nLast updated March 16, 2023 at 6:13 PM",
+      "id": "122.91-director",
+      "normalized": "director",
+      "scope": "(A) As used in this section:",
+      "section": "122.91",
+      "source_title": "Section 122.91 - Commercial driver training certificate; tax credit.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-122.91",
+      "term": "Director"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "4506.01",
+      "number": "4506.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4506.01"
+    },
+    {
+      "kind": "section",
+      "label": "5747.02",
+      "number": "5747.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.02"
+    },
+    {
+      "kind": "section",
+      "label": "101.68",
+      "number": "101.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-101.68"
+    }
+  ],
+  "scraped": "2026-07-02T19:31:37+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-122.91",
+  "title": "Section 122.91 - Commercial driver training certificate; tax credit."
+}

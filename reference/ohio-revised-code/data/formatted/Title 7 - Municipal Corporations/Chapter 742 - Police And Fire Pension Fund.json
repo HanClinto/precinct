@@ -1,0 +1,801 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 742.01 - Police and fire pension fund definitions.",
+      "number": "742.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.012 - Refund of contributions to Ohio police and fire pension fund exceeding salary benchmarks.",
+      "number": "742.012",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.012"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.013 - Definitions for \"terminal pay\" and \"salary\".",
+      "number": "742.013",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.013"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.02 - Creation and purpose of fund.",
+      "number": "742.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.03 - Board of trustees to administer and control fund.",
+      "number": "742.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.031 - Orientation program required for new members - continuing education.",
+      "number": "742.031",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.031"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.032 - Members with excessive travel expenses ineligible for another term.",
+      "number": "742.032",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.032"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.04 - Election of employee members, firefighter retirant member, and police retirant member.",
+      "number": "742.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.041 - No election if only one candidate nominated.",
+      "number": "742.041",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.041"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.042 - Candidate campaign finance statements - donor statement of independent expenditures.",
+      "number": "742.042",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.042"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.043 - Filing of statements - prohibited campaign activities.",
+      "number": "742.043",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.043"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.044 - Complaint alleging violation of RC 742.043.",
+      "number": "742.044",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.044"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.045 - Adoption of election rules - certification of nominating petitions and election results.",
+      "number": "742.045",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.045"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.046 - Disqualification of convicted member - misconduct in office - removal procedure.",
+      "number": "742.046",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.046"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.05 - Vacancy on board of trustees.",
+      "number": "742.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.06 - Oath or affirmation of office.",
+      "number": "742.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.07 - Meetings of board of trustees.",
+      "number": "742.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.071 - Video conference meetings.",
+      "number": "742.071",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.071"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.08 - Expenses - liability insurance.",
+      "number": "742.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.09 - Attorney general is legal counsel for board.",
+      "number": "742.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.091 - Actions; venue.",
+      "number": "742.091",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.091"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.10 - Powers of board.",
+      "number": "742.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.101 - Transfer expenses from guarantee fund to expense fund.",
+      "number": "742.101",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.101"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.102 - Travel expense policies - bonus policy - budget.",
+      "number": "742.102",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.102"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.103 - Ethics policy - commission approval - ethics training.",
+      "number": "742.103",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.103"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.104 - Chief investment officer - supervision duties - monitoring of securities transactions.",
+      "number": "742.104",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.104"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.105 - Selection of internal auditor.",
+      "number": "742.105",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.105"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.11 - Investment powers of board.",
+      "number": "742.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.111 - Prohibited business transactions.",
+      "number": "742.111",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.111"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.112 - Restrictions on fiduciaries.",
+      "number": "742.112",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.112"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.113 - Conflicts of interest.",
+      "number": "742.113",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.113"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.114 - Designation of Ohio-qualified agents - selection policy - utilization - annual report.",
+      "number": "742.114",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.114"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.115 - Annual disclosures to Ohio Ethics Commission.",
+      "number": "742.115",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.115"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.116 - Designation of Ohio-qualified investment managers - utilization - annual report.",
+      "number": "742.116",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.116"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.12 - Bonds purchased from taxing districts.",
+      "number": "742.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.13 - Record of proceedings between board and taxing district.",
+      "number": "742.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.14 - Actuarial valuation of pension assets, liabilities, and funding requirements of Ohio police and fire pension fund.",
+      "number": "742.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.15 - Collecting and retaining data.",
+      "number": "742.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.16 - Amortizing unfunded actuarial accrued pension liability.",
+      "number": "742.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.161 - Adjustment to age and years of service credit.",
+      "number": "742.161",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.161"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.17 - Form of application or election.",
+      "number": "742.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.21 - Service credit for membership in state or municipal retirement system.",
+      "number": "742.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.211 - Transfers of service credit and contributions between system and Cincinnati retirement system.",
+      "number": "742.211",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.211"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.212 - Eligibility for credit for service in Cincinnati retirement system.",
+      "number": "742.212",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.212"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.213 - Transferring contributions to Cincinnati retirement system.",
+      "number": "742.213",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.213"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.214 - Transferring contributions on deposit from non-uniform retirement system.",
+      "number": "742.214",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.214"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.22 - Restoration to active duty after receiving disability benefits.",
+      "number": "742.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.221 - Conditions for receiving credit for time spent on pregnancy or medical disability leave.",
+      "number": "742.221",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.221"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.23 - Municipal police department employee credit for service in fire department.",
+      "number": "742.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.24 - Municipal fire department employee credit for service in police department.",
+      "number": "742.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.25 - Member credit for service credit in former pension funds.",
+      "number": "742.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.251 - Credit for full time out-of-state or federal service.",
+      "number": "742.251",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.251"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.26 - Employment of OPFPF or other state retirement system retirant.",
+      "number": "742.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.27 - Purchasing service credit for lay off period.",
+      "number": "742.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.30 - Paying employer's accrued liability.",
+      "number": "742.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.301 - Penalty and interest on late payment of an employer's accrued liability.",
+      "number": "742.301",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.301"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.31 - Contribution by employee; adjustments by board.",
+      "number": "742.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.311 - Annual review of adequacy of contribution rates.",
+      "number": "742.311",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.311"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.32 - Reporting employee deductions.",
+      "number": "742.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.33 - Police officer employers' contribution.",
+      "number": "742.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.34 - Firefighter employers' contribution.",
+      "number": "742.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.35 - Payment of employer's contribution.",
+      "number": "742.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.351 - Notice of member's election to retire.",
+      "number": "742.351",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.351"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.352 - Failure to transmit certain reports and payments concerning deductions.",
+      "number": "742.352",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.352"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.353 - Failure to transmit certain reports and payments concerning retirement election.",
+      "number": "742.353",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.353"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.361 - Certification of amount required to be paid.",
+      "number": "742.361",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.361"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.362 - Annual payment in lieu of employer contribution.",
+      "number": "742.362",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.362"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.37 - Rules for disbursement of benefits and pensions.",
+      "number": "742.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.371 - Credit for time previously served in active full-time service of Ohio police or fire department.",
+      "number": "742.371",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.371"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.374 - Additional pension payments for retirees on and after 12-31-71.",
+      "number": "742.374",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.374"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.375 - Credit for time served in state highway patrol retirement system.",
+      "number": "742.375",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.375"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.376 - Credit for service as a full-time police officer or firefighter prior to 1-1-67.",
+      "number": "742.376",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.376"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.377 - Increasing survivor benefits.",
+      "number": "742.377",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.377"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.378 - Additional monthly payment.",
+      "number": "742.378",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.378"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.3710 - Increasing survivor benefits.",
+      "number": "742.3710",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.3710"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.3711 - Optional plans upon retirement.",
+      "number": "742.3711",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.3711"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.3712 - Increase in monthly pension, allowance or benefit effective 7-1-81.",
+      "number": "742.3712",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.3712"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.3713 - Increase in monthly benefit effective 11-15-81.",
+      "number": "742.3713",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.3713"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.3714 - Designating contingent dependent beneficiary.",
+      "number": "742.3714",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.3714"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.3715 - Election of retiree to change to optional plan.",
+      "number": "742.3715",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.3715"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.3716 - Annual increases in pension or benefits.",
+      "number": "742.3716",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.3716"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.3717 - Annual cost of living increase.",
+      "number": "742.3717",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.3717"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.3718 - Minimum pension or benefit.",
+      "number": "742.3718",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.3718"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.3719 - Increase in benefit or allowance when IRC 415 limits increased.",
+      "number": "742.3719",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.3719"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.3721 - Qualified governmental excess benefit arrangement maintained and established.",
+      "number": "742.3721",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.3721"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.38 - Minimum medical testing and diagnostic standards or procedures to be incorporated into physical examinations for prospective members.",
+      "number": "742.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.381 - Annual report disability retirement experience of each employer.",
+      "number": "742.381",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.381"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.39 - Eligibility for disability benefit.",
+      "number": "742.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.40 - Disability benefit recipient to agree to obtain recommended medical treatment.",
+      "number": "742.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.41 - Annual statement of funds.",
+      "number": "742.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.42 - Maintenance of individual account.",
+      "number": "742.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.43 - Deferred retirement option plan established.",
+      "number": "742.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.44 - Electing to participate in deferred retirement option plan.",
+      "number": "742.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.441 - Effect of electing to participate in deferred retirement option plan.",
+      "number": "742.441",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.441"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.442 - Determining pension amount if electing to participate in deferred retirement option plan.",
+      "number": "742.442",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.442"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.443 - Accrual of monthly pension amount, cost-of-living increases and member contributions if electing to participate in deferred retirement option plan.",
+      "number": "742.443",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.443"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.444 - Termination of participation in deferred retirement option plan.",
+      "number": "742.444",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.444"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.445 - Termination of participation in deferred retirement option plan because of acceptance of disability benefit.",
+      "number": "742.445",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.445"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.446 - Death benefit if electing to participate in deferred retirement option plan.",
+      "number": "742.446",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.446"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.447 - Verifying termination of active service.",
+      "number": "742.447",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.447"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.45 - Deduction from benefit payment for group health insurance.",
+      "number": "742.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.451 - Additional deposits to fund medical expenses.",
+      "number": "742.451",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.451"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.46 - Vested right to pension or benefit.",
+      "number": "742.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.461 - Restitution order based on theft in office or certain sex offenses.",
+      "number": "742.461",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.461"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.462 - Order for division of marital property.",
+      "number": "742.462",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.462"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.463 - Forfeiture of retirement benefits under RC 2929.192.",
+      "number": "742.463",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.463"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.464 - Benefits subject to termination.",
+      "number": "742.464",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.464"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.47 - Exemption from attachment, garnishment, levy, or seizure under any legal or equitable process.",
+      "number": "742.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.48 - Written notice of waiver.",
+      "number": "742.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.50 - Death benefit.",
+      "number": "742.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.51 - Election to transfer from public employees retirement system to police and fire pension fund.",
+      "number": "742.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.511 - Transfer of police officers of newly incorporated municipality prior to 12-1-83.",
+      "number": "742.511",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.511"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.512 - Transfer of police officers of newly incorporated municipality on or after 12-1-83.",
+      "number": "742.512",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.512"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.513 - Township officer assuming municipal status may transfer to fund.",
+      "number": "742.513",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.513"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.514 - Transfer of former Cincinnati park police officers to fund.",
+      "number": "742.514",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.514"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.515 - Firefighter's election to transfer from public employees retirement system.",
+      "number": "742.515",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.515"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.516 - Firefighter's election to transfer to public employees retirement system.",
+      "number": "742.516",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.516"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.52 - Purchasing military service credit.",
+      "number": "742.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.521 - Credit for military service.",
+      "number": "742.521",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.521"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.53 - Long term care insurance.",
+      "number": "742.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.54 - Volunteer firemen's relief and pension fund operation and maintenance.",
+      "number": "742.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.55 - Itemization of purchases and expenditures.",
+      "number": "742.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.56 - Payroll deduction plan for payments for service credits.",
+      "number": "742.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.57 - Payments by vouchers from state treasury.",
+      "number": "742.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.58 - Lump sum death benefit payment.",
+      "number": "742.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.59 - Creation of funds - trustees.",
+      "number": "742.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.60 - Funds to be separate and distinct legal entities.",
+      "number": "742.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.61 - Treasurer of state is custodian of police and fire pension fund.",
+      "number": "742.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.62 - Ohio public safety officers death benefit fund.",
+      "number": "742.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.63 - Adoption of rules for management of fund and disbursement of benefits.",
+      "number": "742.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.64 - Recovering erroneous payments.",
+      "number": "742.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 742.99 - Penalty.",
+      "number": "742.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-742.99"
+    }
+  ],
+  "scraped": "2026-07-02T19:33:36+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-742",
+  "title": "Chapter 742 - Police And Fire Pension Fund"
+}

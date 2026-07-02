@@ -1,0 +1,10 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5741.06
+Scraped: 2026-07-02T20:15:19+00:00
+
+# Section 5741.06 - Powers and duties of tax commissioner - prepayment of tax.
+
+**Effective:** February 20, 1986
+
+**Latest Legislation:** House Bill 583 - 116th General Assembly
+
+The tax commissioner shall enforce and administer sections 5741.01 to 5741.22 of the Revised Code, which are hereby declared to be laws which he is required to administer within the meaning of sections 5703.17 to 5703.39 and 5703.45 of the Revised Code. The commissioner may adopt and promulgate such rules as he deems necessary to administer sections 5741.01 to 5741.22 of the Revised Code, and may authorize a seller to prepay the tax levied by or pursuant to section 5741.02 , 5741.021 , 5741.022 , or 5741.023 of the Revised Code upon storage, use, or consumption of things produced or distributed by such seller, and he may waive the collection of the tax from the consumer; but no such authority shall be granted or exercised, except upon application to the commissioner and unless he finds, that the conditions of the applicant's business are such as to render impracticable the collection of the tax by the seller in the manner otherwise provided by such sections; nor shall the authority so granted be exercised, nor the seller actually selling such products be exempted from sections 5741.01 to 5741.22 of the Revised Code, by virtue of such an authorization, unless the person to whom such authority is granted prints plainly upon the product sold, or offered for sale, a statement to the effect that the tax has been paid in advance, or otherwise conveys said information to the consumer by written notice. The commissioner may require security to his satisfaction to be filed with him, in such amount as he determines to be sufficient to secure the prepayment under the provisions of this section of the taxes levied by or pursuant to section 5741.02 , 5741.021 , 5741.022 , or 5741.023 of the Revised Code in the manner desired.

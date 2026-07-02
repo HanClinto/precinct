@@ -1,0 +1,471 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 5733.01 - Tax charged against corporations.",
+      "number": "5733.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.02 - Annual taxpayer report and remittance - report on dissolution or withdrawal.",
+      "number": "5733.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.021 - Declaration of estimated tax report.",
+      "number": "5733.021",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.021"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.022 - Tax payment by electronic funds transfer.",
+      "number": "5733.022",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.022"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.03 - Annual report.",
+      "number": "5733.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.031 - Taxable year; method of accounting; amended report; additional payment or application for refund.",
+      "number": "5733.031",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.031"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.04 - Corporation franchise tax definitions.",
+      "number": "5733.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.041 - Net income defined for tax years 1984 to 1993.",
+      "number": "5733.041",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.041"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.042 - Computing net income of member of affiliated group.",
+      "number": "5733.042",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.042"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.05 - Determination of value of issued and outstanding stock and intangible property - determination of net income of corporation.",
+      "number": "5733.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.051 - Allocating and apportioning of net income of corporation.",
+      "number": "5733.051",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.051"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.052 - Combining net incomes of corporations.",
+      "number": "5733.052",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.052"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.053 - Transferee corporation subject to transferor's tax liability.",
+      "number": "5733.053",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.053"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.054 - Deduction or addition where portion of certain gains or losses is allocated or apportioned to Ohio.",
+      "number": "5733.054",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.054"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.055 - Deducting expenses and costs paid to related member.",
+      "number": "5733.055",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.055"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.056 - Determining value of issued and outstanding shares of stock.",
+      "number": "5733.056",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.056"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.057 - Ownership interest in pass-through entity.",
+      "number": "5733.057",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.057"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.058 - Adjusting for equity investment in an exempted investment.",
+      "number": "5733.058",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.058"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.059 - Allocating sales of electric transmission and distribution services.",
+      "number": "5733.059",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.059"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.0510 - Reducing net income for qualifying assets.",
+      "number": "5733.0510",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.0510"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.0511 - Net income for qualifying telephone company taxpayer.",
+      "number": "5733.0511",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.0511"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.06 - Computing tax.",
+      "number": "5733.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.061 - Credit allowed for investment in property used in refining or manufacturing.",
+      "number": "5733.061",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.061"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.064 - Credit for recycling and litter prevention program donations.",
+      "number": "5733.064",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.064"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.065 - Additional tax on corporations for privilege of manufacturing or selling litter stream products in state.",
+      "number": "5733.065",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.065"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.066 - Surcharge added to rates to fund recycling and litter prevention.",
+      "number": "5733.066",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.066"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.067 - Credit concerning subsidiaries; amended report; additional payment or application for refund.",
+      "number": "5733.067",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.067"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.068 - Credit allowed to member of qualifying affiliated group.",
+      "number": "5733.068",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.068"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.069 - Credit allowed for increase in export sales.",
+      "number": "5733.069",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.069"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.0610 - Credit for Ohio job creation.",
+      "number": "5733.0610",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.0610"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.0611 - Credit relating to tax on qualifying pass-through entities.",
+      "number": "5733.0611",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.0611"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.07 - Powers and duties of tax commissioner.",
+      "number": "5733.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.09 - Exempted companies.",
+      "number": "5733.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.10 - Exemption of municipal corporations.",
+      "number": "5733.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.11 - Failing to file or remit - filing incorrect report.",
+      "number": "5733.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.12 - Crediting of payments to funds - filing of refund application.",
+      "number": "5733.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.121 - Applying refund in partial satisfaction of debt.",
+      "number": "5733.121",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.121"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.13 - Extension of time to file report.",
+      "number": "5733.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.14 - Monthly report by secretary of state - access to records of county auditors.",
+      "number": "5733.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.16 - Organization of domestic and foreign corporations.",
+      "number": "5733.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.17 - Duty to make reports or pay taxes on dissolution or retirement.",
+      "number": "5733.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.20 - Cancellation of articles of incorporation or certificate of authority for failure to report or pay taxes.",
+      "number": "5733.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.21 - Prohibition against doing business after cancellation of articles or certificate.",
+      "number": "5733.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.22 - Reinstatement of corporation.",
+      "number": "5733.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.23 - Petition for judgment for taxes - injunction - procedure - evidence.",
+      "number": "5733.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.24 - Quo warranto proceedings.",
+      "number": "5733.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.26 - Interest on unpaid tax or refund.",
+      "number": "5733.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.261 - Qualifying refund overpayment - liability for interest or penalty.",
+      "number": "5733.261",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.261"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.27 - Affidavit denying unlawful political contributions.",
+      "number": "5733.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.28 - Failing to file complying report or pay tax.",
+      "number": "5733.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.29 - Underpayment of estimated tax.",
+      "number": "5733.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.31 - Credit for purchasing new manufacturing machinery or equipment - 18 month look back.",
+      "number": "5733.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.311 - Credit for purchasing new manufacturing machinery or equipment - 7 month look back.",
+      "number": "5733.311",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.311"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.32 - Credit for grape producing business purchasing qualifying property.",
+      "number": "5733.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.33 - Credit for purchasing new manufacturing machinery or equipment - installation before 12-31-2006.",
+      "number": "5733.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.34 - Credit for economic redevelopment of voluntary environmental clean-up site.",
+      "number": "5733.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.351 - Credit for qualified research expenses.",
+      "number": "5733.351",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.351"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.352 - Nonrefundable credit equal to borrower's qualified research and development loan payments.",
+      "number": "5733.352",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.352"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.36 - Credit for providing child care for children of employees.",
+      "number": "5733.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.37 - Credit for establishing child care center for children of employees.",
+      "number": "5733.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.38 - Credit for reimbursement of employee child care expenses.",
+      "number": "5733.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.39 - Credit for use of Ohio coal in coal-fired electric generating unit.",
+      "number": "5733.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.40 - Qualified pass-through entity definitions.",
+      "number": "5733.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.401 - Investment in pass-through entities.",
+      "number": "5733.401",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.401"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.402 - Exemption for pass-through entity distributing income and gain to investing entity.",
+      "number": "5733.402",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.402"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.41 - Tax on qualifying pass-through entity having at least one qualifying investor that is not individual.",
+      "number": "5733.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.42 - Credit for eligible employee training costs.",
+      "number": "5733.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.45 - Credit concerning qualifying dealer in intangibles.",
+      "number": "5733.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.47 - Refundable franchise tax credit for owner of RC 149.311 certificate.",
+      "number": "5733.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.49 - Issuance of tax credits by Ohio venture capital authority.",
+      "number": "5733.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.55 - Nonrefundable credit equal to amount of eligible nonrecurring 9-1-1 charges.",
+      "number": "5733.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.56 - Nonrefundable credit equal to cost incurred by company for providing telephone service program.",
+      "number": "5733.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.57 - Nonrefundable credit equal to product obtained by multiplying applicable percentage by applicable amount.",
+      "number": "5733.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.58 - Nonrefundable credit financial institution holding a qualified equity investment.",
+      "number": "5733.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.59 - Credit against tax for any corporation that is the certificate owner of a tax credit certificate.",
+      "number": "5733.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.98 - Order of claiming credits.",
+      "number": "5733.98",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.98"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5733.99 - Penalty.",
+      "number": "5733.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5733.99"
+    }
+  ],
+  "scraped": "2026-07-02T20:15:03+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-5733",
+  "title": "Chapter 5733 - Corporation Franchise Tax"
+}

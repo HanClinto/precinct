@@ -1,0 +1,98 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Application\" means a request under the convention by an obligee or obligor, or on behalf of a child, made through a central authority for assistance from another central authority.",
+      "id": "3115.701-application",
+      "normalized": "application",
+      "scope": "As used in sections 3115.701 to 3115.713 of the Revised Code:",
+      "section": "3115.701",
+      "source_title": "Section 3115.701 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3115.701",
+      "term": "Application"
+    },
+    {
+      "definition": "(B) \"Central authority\" means the entity designated by the United States or a foreign country described in division (E)(4) of section 3115.102 of the Revised Code to perform the functions specified in the convention.",
+      "id": "3115.701-central-authority",
+      "normalized": "central authority",
+      "scope": "As used in sections 3115.701 to 3115.713 of the Revised Code:",
+      "section": "3115.701",
+      "source_title": "Section 3115.701 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3115.701",
+      "term": "Central authority"
+    },
+    {
+      "definition": "(C) \"Convention support order\" means a support order of a tribunal of a foreign country described in division (E)(4) of section 3115.102 of the Revised Code.",
+      "id": "3115.701-convention-support-order",
+      "normalized": "convention support order",
+      "scope": "As used in sections 3115.701 to 3115.713 of the Revised Code:",
+      "section": "3115.701",
+      "source_title": "Section 3115.701 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3115.701",
+      "term": "Convention support order"
+    },
+    {
+      "definition": "(D) \"Direct request\" means a petition filed by an individual in a tribunal of this state in a proceeding involving an obligee, obligor, or child residing outside the United States.",
+      "id": "3115.701-direct-request",
+      "normalized": "direct request",
+      "scope": "As used in sections 3115.701 to 3115.713 of the Revised Code:",
+      "section": "3115.701",
+      "source_title": "Section 3115.701 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3115.701",
+      "term": "Direct request"
+    },
+    {
+      "definition": "(E) \"Foreign central authority\" means the entity designated by a foreign country described in division (E)(4) of section 3115.102 of the Revised Code to perform the functions specified in the convention.",
+      "id": "3115.701-foreign-central-authority",
+      "normalized": "foreign central authority",
+      "scope": "As used in sections 3115.701 to 3115.713 of the Revised Code:",
+      "section": "3115.701",
+      "source_title": "Section 3115.701 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3115.701",
+      "term": "Foreign central authority"
+    },
+    {
+      "definition": "(F) \"Foreign support agreement\" means an agreement that meets the following criteria:\n\n(1) It is an agreement for support in a record to which all of the following apply:\n\n(a) It is enforceable as a support order in the country of origin.\n\n(b) One of the following applies:\n\n(i) It has been formally drawn up or registered as an authentic instrument by a foreign tribunal; or\n\n(ii) It has been authenticated by, or concluded, registered, or filed with a foreign tribunal.\n\n(c) It may be reviewed and modified by a foreign tribunal.\n\n(2) It includes a maintenance arrangement or authentic instrument under the convention.",
+      "id": "3115.701-foreign-support-agreement",
+      "normalized": "foreign support agreement",
+      "scope": "As used in sections 3115.701 to 3115.713 of the Revised Code:",
+      "section": "3115.701",
+      "source_title": "Section 3115.701 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3115.701",
+      "term": "Foreign support agreement"
+    },
+    {
+      "definition": "(G) \"United States central authority\" means the secretary of the United States department of health and human services.",
+      "id": "3115.701-united-states-central-authority",
+      "normalized": "united states central authority",
+      "scope": "As used in sections 3115.701 to 3115.713 of the Revised Code:",
+      "section": "3115.701",
+      "source_title": "Section 3115.701 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3115.701",
+      "term": "United States central authority"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3115.701",
+      "number": "3115.701",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.701"
+    },
+    {
+      "kind": "section",
+      "label": "3115.713",
+      "number": "3115.713",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.713"
+    },
+    {
+      "kind": "section",
+      "label": "3115.102",
+      "number": "3115.102",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.102"
+    }
+  ],
+  "scraped": "2026-07-02T19:47:49+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3115.701",
+  "title": "Section 3115.701 - Definitions."
+}

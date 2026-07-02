@@ -1,0 +1,84 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Certified mental health assistant\" means an individual who, under physician supervision, provides mental health care by engaging in any of the activities authorized under section 4772.09 of the Revised Code.",
+      "id": "4772.01-certified-mental-health-assistant",
+      "normalized": "certified mental health assistant",
+      "scope": "As used in this chapter:",
+      "section": "4772.01",
+      "source_title": "Section 4772.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4772.01",
+      "term": "Certified mental health assistant"
+    },
+    {
+      "definition": "(B) \"Controlled substance\" has the same meaning as in section 3719.01 of the Revised Code.",
+      "id": "4772.01-controlled-substance",
+      "normalized": "controlled substance",
+      "scope": "As used in this chapter:",
+      "section": "4772.01",
+      "source_title": "Section 4772.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4772.01",
+      "term": "Controlled substance"
+    },
+    {
+      "definition": "(C) \"Drug database\" means the database established and maintained by the state board of pharmacy pursuant to section 4729.75 of the Revised Code.",
+      "id": "4772.01-drug-database",
+      "normalized": "drug database",
+      "scope": "As used in this chapter:",
+      "section": "4772.01",
+      "source_title": "Section 4772.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4772.01",
+      "term": "Drug database"
+    },
+    {
+      "definition": "(D) \"Medication-assisted treatment\" has the same meaning as in section 340.01 of the Revised Code.",
+      "id": "4772.01-medication-assisted-treatment",
+      "normalized": "medication-assisted treatment",
+      "scope": "As used in this chapter:",
+      "section": "4772.01",
+      "source_title": "Section 4772.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4772.01",
+      "term": "Medication-assisted treatment"
+    },
+    {
+      "definition": "(E) \"Physician\" means an individual authorized under Chapter 4731. of the Revised Code to practice medicine and surgery or osteopathic medicine and surgery.\n\nLast updated April 8, 2025 at 3:52 PM",
+      "id": "4772.01-physician",
+      "normalized": "physician",
+      "scope": "As used in this chapter:",
+      "section": "4772.01",
+      "source_title": "Section 4772.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4772.01",
+      "term": "Physician"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "4772.09",
+      "number": "4772.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4772.09"
+    },
+    {
+      "kind": "section",
+      "label": "3719.01",
+      "number": "3719.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3719.01"
+    },
+    {
+      "kind": "section",
+      "label": "4729.75",
+      "number": "4729.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.75"
+    },
+    {
+      "kind": "section",
+      "label": "340.01",
+      "number": "340.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-340.01"
+    }
+  ],
+  "scraped": "2026-07-02T20:08:19+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4772.01",
+  "title": "Section 4772.01 - Definitions."
+}

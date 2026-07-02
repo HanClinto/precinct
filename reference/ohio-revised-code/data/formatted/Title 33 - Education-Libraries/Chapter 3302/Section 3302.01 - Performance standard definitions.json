@@ -1,0 +1,188 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Performance index score\" means the average of the totals derived from calculations, for each subject area, of the weighted proportion of untested students and students scoring at each level of skill described in division (A)(2) of section 3301.0710 of the Revised Code on the state achievement assessments, as follows:\n\n(1) For the assessments prescribed by division (A)(1) of section 3301.0710 of the Revised Code, the average for each of the subject areas of English language arts, mathematics, and science.\n\n(2) For the assessments prescribed by division (B)(1) of section 3301.0710 and division (B)(2) of section 3301.0712 of the Revised Code, the average for each of the subject areas of English language arts, mathematics, science, American history, and American government. The average also shall include any substitute examinations approved under division (B)(4) of section 3301.0712 of the Revised Code in the subject areas of science, American history, and American government.\n\nThe department of education and workforce shall assign weights such that students who do not take an assessment receive a weight of zero and students who take an assessment receive progressively larger weights dependent upon the level of skill attained on the assessment. The department shall assign additional weights to students who have been permitted to pass over a subject in accordance with a student acceleration policy adopted under section 3324.10 of the Revised Code. If such a student attains the proficient score prescribed under division (A)(2)(c) of section 3301.0710 of the Revised Code or higher on an assessment, the department shall assign the student the weight prescribed for the next higher scoring level. If such a student attains the advanced score, prescribed under division (A)(2)(a) of section 3301.0710 of the Revised Code, on an assessment, the department shall assign to the student an additional proportional weight. For each school year that such a student's score is included in the performance index score and the student attains the proficient score on an assessment, that additional weight shall be assigned to the student on a subject-by-subject basis.\n\nStudents shall be included in the \"performance index score\" in accordance with division (L)(2) of section 3302.03 of the Revised Code.",
+      "id": "3302.01-performance-index-score",
+      "normalized": "performance index score",
+      "scope": "As used in this chapter:",
+      "section": "3302.01",
+      "source_title": "Section 3302.01 - Performance standard definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3302.01",
+      "term": "Performance index score"
+    },
+    {
+      "definition": "(B) \"Subgroup\" means a subset of the entire student population of the state, a school district, or a school building and includes each of the following:\n\n(1) Major racial and ethnic groups;\n\n(2) Students with disabilities;\n\n(3) Economically disadvantaged students;\n\n(4) English learners;\n\n(5) Students identified as gifted in superior cognitive ability and specific academic ability fields under Chapter 3324. of the Revised Code. For students who are gifted in specific academic ability fields, the department shall use data for those students with specific academic ability in math and reading. If any other academic field is assessed, the department shall also include data for students with specific academic ability in that field.",
+      "id": "3302.01-subgroup",
+      "normalized": "subgroup",
+      "scope": "As used in this chapter:",
+      "section": "3302.01",
+      "source_title": "Section 3302.01 - Performance standard definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3302.01",
+      "term": "Subgroup"
+    },
+    {
+      "definition": "(C) \"No Child Left Behind Act of 2001\" includes the statutes codified at 20 U.S.C. 6301 et seq. and any amendments, waivers, or both thereto, rules and regulations promulgated pursuant to those statutes, guidance documents, and any other policy directives regarding implementation of that act issued by the United States department of education.",
+      "id": "3302.01-no-child-left-behind-act-of-2001",
+      "normalized": "no child left behind act of 2001",
+      "scope": "As used in this chapter:",
+      "section": "3302.01",
+      "source_title": "Section 3302.01 - Performance standard definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3302.01",
+      "term": "No Child Left Behind Act of 2001"
+    },
+    {
+      "definition": "(D) \"Adequate yearly progress\" means a measure of annual academic performance as calculated in accordance with the \"No Child Left Behind Act of 2001.\"",
+      "id": "3302.01-adequate-yearly-progress",
+      "normalized": "adequate yearly progress",
+      "scope": "As used in this chapter:",
+      "section": "3302.01",
+      "source_title": "Section 3302.01 - Performance standard definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3302.01",
+      "term": "Adequate yearly progress"
+    },
+    {
+      "definition": "(E) \"Supplemental educational services\" means additional academic assistance, such as tutoring, remediation, or other educational enrichment activities, that is conducted outside of the regular school day by a provider approved by the department in accordance with the \"No Child Left Behind Act of 2001.\"",
+      "id": "3302.01-supplemental-educational-services",
+      "normalized": "supplemental educational services",
+      "scope": "As used in this chapter:",
+      "section": "3302.01",
+      "source_title": "Section 3302.01 - Performance standard definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3302.01",
+      "term": "Supplemental educational services"
+    },
+    {
+      "definition": "(F) \"Value-added progress dimension\" means a measure of academic gain for a student or group of students over a specific period of time that is calculated by applying a statistical methodology to individual student achievement data derived from the achievement assessments prescribed by section 3301.0710 of the Revised Code. The \"value-added progress dimension\" shall be developed and implemented in accordance with section 3302.021 of the Revised Code.",
+      "id": "3302.01-value-added-progress-dimension",
+      "normalized": "value-added progress dimension",
+      "scope": "As used in this chapter:",
+      "section": "3302.01",
+      "source_title": "Section 3302.01 - Performance standard definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3302.01",
+      "term": "Value-added progress dimension"
+    },
+    {
+      "definition": "(G)(1) \"Four-year adjusted cohort graduation rate\" means the number of students who graduate in four years or less with a regular high school diploma divided by the number of students who form the adjusted cohort for the graduating class.",
+      "id": "3302.01-four-year-adjusted-cohort-graduation-rate",
+      "normalized": "four-year adjusted cohort graduation rate",
+      "scope": "As used in this chapter:",
+      "section": "3302.01",
+      "source_title": "Section 3302.01 - Performance standard definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3302.01",
+      "term": "Four-year adjusted cohort graduation rate"
+    },
+    {
+      "definition": "(2) \"Five-year adjusted cohort graduation rate\" means the number of students who graduate in five years with a regular high school diploma divided by the number of students who form the adjusted cohort for the four-year graduation rate.",
+      "id": "3302.01-five-year-adjusted-cohort-graduation-rate",
+      "normalized": "five-year adjusted cohort graduation rate",
+      "scope": "As used in this chapter:",
+      "section": "3302.01",
+      "source_title": "Section 3302.01 - Performance standard definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3302.01",
+      "term": "Five-year adjusted cohort graduation rate"
+    },
+    {
+      "definition": "(H) \"State institution of higher education\" has the same meaning as in section 3345.011 of the Revised Code.",
+      "id": "3302.01-state-institution-of-higher-education",
+      "normalized": "state institution of higher education",
+      "scope": "As used in this chapter:",
+      "section": "3302.01",
+      "source_title": "Section 3302.01 - Performance standard definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3302.01",
+      "term": "State institution of higher education"
+    },
+    {
+      "definition": "(I) \"Annual measurable objectives\" means a measure of student progress determined in accordance with an agreement between the department of education and workforce and the United States department of education.",
+      "id": "3302.01-annual-measurable-objectives",
+      "normalized": "annual measurable objectives",
+      "scope": "As used in this chapter:",
+      "section": "3302.01",
+      "source_title": "Section 3302.01 - Performance standard definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3302.01",
+      "term": "Annual measurable objectives"
+    },
+    {
+      "definition": "(J) \"Community school\" means a community school established under Chapter 3314. of the Revised Code.",
+      "id": "3302.01-community-school",
+      "normalized": "community school",
+      "scope": "As used in this chapter:",
+      "section": "3302.01",
+      "source_title": "Section 3302.01 - Performance standard definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3302.01",
+      "term": "Community school"
+    },
+    {
+      "definition": "(K) \"STEM school\" means a science, technology, engineering, and mathematics school established under Chapter 3326. of the Revised Code.",
+      "id": "3302.01-stem-school",
+      "normalized": "stem school",
+      "scope": "As used in this chapter:",
+      "section": "3302.01",
+      "source_title": "Section 3302.01 - Performance standard definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3302.01",
+      "term": "STEM school"
+    },
+    {
+      "definition": "(L) \"Entitled to attend school in the district\" means entitled to attend school in a school district under section 3313.64 or 3313.65 of the Revised Code.\n\nLast updated August 2, 2023 at 11:42 AM",
+      "id": "3302.01-entitled-to-attend-school-in-the-district",
+      "normalized": "entitled to attend school in the district",
+      "scope": "As used in this chapter:",
+      "section": "3302.01",
+      "source_title": "Section 3302.01 - Performance standard definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3302.01",
+      "term": "Entitled to attend school in the district"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3301.0710",
+      "number": "3301.0710",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3301.0710"
+    },
+    {
+      "kind": "section",
+      "label": "3301.0712",
+      "number": "3301.0712",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3301.0712"
+    },
+    {
+      "kind": "section",
+      "label": "3324.10",
+      "number": "3324.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3324.10"
+    },
+    {
+      "kind": "section",
+      "label": "3302.03",
+      "number": "3302.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3302.03"
+    },
+    {
+      "kind": "section",
+      "label": "3302.021",
+      "number": "3302.021",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3302.021"
+    },
+    {
+      "kind": "section",
+      "label": "3345.011",
+      "number": "3345.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3345.011"
+    },
+    {
+      "kind": "section",
+      "label": "3313.64",
+      "number": "3313.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.64"
+    },
+    {
+      "kind": "section",
+      "label": "3313.65",
+      "number": "3313.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3313.65"
+    }
+  ],
+  "scraped": "2026-07-02T19:48:16+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3302.01",
+  "title": "Section 3302.01 - Performance standard definitions."
+}

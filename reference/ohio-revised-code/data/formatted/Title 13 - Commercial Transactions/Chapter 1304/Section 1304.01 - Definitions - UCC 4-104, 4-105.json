@@ -1,0 +1,356 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Account\" means any deposit or credit account with a bank, including a demand, time, savings, passbook, share draft, or similar account, other than an account evidenced by a certificate of deposit.",
+      "id": "1304.01-account",
+      "normalized": "account",
+      "scope": "(A) As used in sections 1304.01 to 1304.40 of the Revised Code, unless the context requires otherwise:",
+      "section": "1304.01",
+      "source_title": "Section 1304.01 - Definitions - UCC 4-104, 4-105.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1304.01",
+      "term": "Account"
+    },
+    {
+      "definition": "(2) \"Afternoon\" means the period of day between noon and midnight.",
+      "id": "1304.01-afternoon",
+      "normalized": "afternoon",
+      "scope": "(A) As used in sections 1304.01 to 1304.40 of the Revised Code, unless the context requires otherwise:",
+      "section": "1304.01",
+      "source_title": "Section 1304.01 - Definitions - UCC 4-104, 4-105.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1304.01",
+      "term": "Afternoon"
+    },
+    {
+      "definition": "(3) \"Banking day\" means the part of a day on which a bank is open to the public for carrying on substantially all of its banking functions.",
+      "id": "1304.01-banking-day",
+      "normalized": "banking day",
+      "scope": "(A) As used in sections 1304.01 to 1304.40 of the Revised Code, unless the context requires otherwise:",
+      "section": "1304.01",
+      "source_title": "Section 1304.01 - Definitions - UCC 4-104, 4-105.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1304.01",
+      "term": "Banking day"
+    },
+    {
+      "definition": "(4) \"Clearing house\" means an association of banks or other payors regularly clearing items.",
+      "id": "1304.01-clearing-house",
+      "normalized": "clearing house",
+      "scope": "(A) As used in sections 1304.01 to 1304.40 of the Revised Code, unless the context requires otherwise:",
+      "section": "1304.01",
+      "source_title": "Section 1304.01 - Definitions - UCC 4-104, 4-105.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1304.01",
+      "term": "Clearing house"
+    },
+    {
+      "definition": "(5) \"Customer\" means a person having an account with a bank or for whom a bank has agreed to collect items, including a bank that maintains an account at another bank.",
+      "id": "1304.01-customer",
+      "normalized": "customer",
+      "scope": "(A) As used in sections 1304.01 to 1304.40 of the Revised Code, unless the context requires otherwise:",
+      "section": "1304.01",
+      "source_title": "Section 1304.01 - Definitions - UCC 4-104, 4-105.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1304.01",
+      "term": "Customer"
+    },
+    {
+      "definition": "(6) \"Documentary draft\" means a draft to be presented for acceptance or payment if specified documents, certified securities or instructions for uncertificated securities as defined in section 1308.01 of the Revised Code, or other certificates, statements, or similar documents are to be received by the drawee or other payor before acceptance or payment of the draft.",
+      "id": "1304.01-documentary-draft",
+      "normalized": "documentary draft",
+      "scope": "(A) As used in sections 1304.01 to 1304.40 of the Revised Code, unless the context requires otherwise:",
+      "section": "1304.01",
+      "source_title": "Section 1304.01 - Definitions - UCC 4-104, 4-105.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1304.01",
+      "term": "Documentary draft"
+    },
+    {
+      "definition": "(7) \"Draft\" means a draft as defined in section 1303.03 of the Revised Code or an item, other than an instrument, that is an order.",
+      "id": "1304.01-draft",
+      "normalized": "draft",
+      "scope": "(A) As used in sections 1304.01 to 1304.40 of the Revised Code, unless the context requires otherwise:",
+      "section": "1304.01",
+      "source_title": "Section 1304.01 - Definitions - UCC 4-104, 4-105.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1304.01",
+      "term": "Draft"
+    },
+    {
+      "definition": "(8) \"Drawee\" means a person ordered in a draft to make payment.",
+      "id": "1304.01-drawee",
+      "normalized": "drawee",
+      "scope": "(A) As used in sections 1304.01 to 1304.40 of the Revised Code, unless the context requires otherwise:",
+      "section": "1304.01",
+      "source_title": "Section 1304.01 - Definitions - UCC 4-104, 4-105.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1304.01",
+      "term": "Drawee"
+    },
+    {
+      "definition": "(9) \"Item\" means an instrument or a promise or order to pay money handled by a bank for collection or payment. \"Item\" does not include a payment order governed by sections 1304.51 to 1304.85 of the Revised Code, a credit slip, or a debit card slip.\n\n(10) \"Midnight deadline,\" with respect to a bank, is midnight on its next banking day following the banking day on which it receives the relevant item or notice or from which the time for taking action commences to run, whichever is later.",
+      "id": "1304.01-item",
+      "normalized": "item",
+      "scope": "(A) As used in sections 1304.01 to 1304.40 of the Revised Code, unless the context requires otherwise:",
+      "section": "1304.01",
+      "source_title": "Section 1304.01 - Definitions - UCC 4-104, 4-105.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1304.01",
+      "term": "Item"
+    },
+    {
+      "definition": "(11) \"Settle\" means to pay in cash, by clearing house settlement, in a charge or credit or by remittance, or otherwise as agreed. A settlement may be either provisional or final.\n\n(12) \"Suspends payments\" with respect to a bank means that it has been closed by order of the supervisory authorities, that a public officer has been appointed to take it over, or that it ceases or refuses to make payments in the ordinary course of business.\n\n(B) As used in sections 1304.01 to 1304.40 of the Revised Code:",
+      "id": "1304.01-settle",
+      "normalized": "settle",
+      "scope": "(A) As used in sections 1304.01 to 1304.40 of the Revised Code, unless the context requires otherwise:",
+      "section": "1304.01",
+      "source_title": "Section 1304.01 - Definitions - UCC 4-104, 4-105.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1304.01",
+      "term": "Settle"
+    },
+    {
+      "definition": "(1) \"Bank\" means a person engaged in the business of banking, including a savings bank, a savings and loan association, a credit union, or a trust company.",
+      "id": "1304.01-bank",
+      "normalized": "bank",
+      "scope": "(B) As used in sections 1304.01 to 1304.40 of the Revised Code:",
+      "section": "1304.01",
+      "source_title": "Section 1304.01 - Definitions - UCC 4-104, 4-105.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1304.01",
+      "term": "Bank"
+    },
+    {
+      "definition": "(2) \"Depositary bank\" means the first bank to take an item even though it is also the payor bank, unless the item is presented for immediate payment over the counter.",
+      "id": "1304.01-depositary-bank",
+      "normalized": "depositary bank",
+      "scope": "(B) As used in sections 1304.01 to 1304.40 of the Revised Code:",
+      "section": "1304.01",
+      "source_title": "Section 1304.01 - Definitions - UCC 4-104, 4-105.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1304.01",
+      "term": "Depositary bank"
+    },
+    {
+      "definition": "(3) \"Payor bank\" means a bank that is a drawee of a draft.",
+      "id": "1304.01-payor-bank",
+      "normalized": "payor bank",
+      "scope": "(B) As used in sections 1304.01 to 1304.40 of the Revised Code:",
+      "section": "1304.01",
+      "source_title": "Section 1304.01 - Definitions - UCC 4-104, 4-105.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1304.01",
+      "term": "Payor bank"
+    },
+    {
+      "definition": "(4) \"Intermediary bank\" means a bank to which an item is transferred in course of collection except the depositary or payor bank.",
+      "id": "1304.01-intermediary-bank",
+      "normalized": "intermediary bank",
+      "scope": "(B) As used in sections 1304.01 to 1304.40 of the Revised Code:",
+      "section": "1304.01",
+      "source_title": "Section 1304.01 - Definitions - UCC 4-104, 4-105.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1304.01",
+      "term": "Intermediary bank"
+    },
+    {
+      "definition": "(5) \"Collecting bank\" means a bank handling an item for collection except the payor bank.",
+      "id": "1304.01-collecting-bank",
+      "normalized": "collecting bank",
+      "scope": "(B) As used in sections 1304.01 to 1304.40 of the Revised Code:",
+      "section": "1304.01",
+      "source_title": "Section 1304.01 - Definitions - UCC 4-104, 4-105.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1304.01",
+      "term": "Collecting bank"
+    },
+    {
+      "definition": "(6) \"Presenting bank\" means a bank presenting an item except a payor bank.\n\n(C) As used in sections 1304.01 to 1304.40 of the Revised Code:\n\n(1) \"Acceptance\" and \"certified check\" have the same meanings as in section 1303.46 of the Revised Code.",
+      "id": "1304.01-presenting-bank",
+      "normalized": "presenting bank",
+      "scope": "(B) As used in sections 1304.01 to 1304.40 of the Revised Code:",
+      "section": "1304.01",
+      "source_title": "Section 1304.01 - Definitions - UCC 4-104, 4-105.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1304.01",
+      "term": "Presenting bank"
+    },
+    {
+      "definition": "(2) \"Alteration\" has the same meaning as in section 1303.50 of the Revised Code.\n\n(3) \"Cashier's check,\" \"certificate of deposit,\" \"check,\" \"instrument,\" and \"teller's check\" have the same meanings as in section 1303.03 of the Revised Code.",
+      "id": "1304.01-alteration",
+      "normalized": "alteration",
+      "scope": "(C) As used in sections 1304.01 to 1304.40 of the Revised Code:",
+      "section": "1304.01",
+      "source_title": "Section 1304.01 - Definitions - UCC 4-104, 4-105.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1304.01",
+      "term": "Alteration"
+    },
+    {
+      "definition": "(4) \"Control\" has the same meaning as in section 1307.106 of the Revised Code.",
+      "id": "1304.01-control",
+      "normalized": "control",
+      "scope": "(C) As used in sections 1304.01 to 1304.40 of the Revised Code:",
+      "section": "1304.01",
+      "source_title": "Section 1304.01 - Definitions - UCC 4-104, 4-105.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1304.01",
+      "term": "Control"
+    },
+    {
+      "definition": "(5) \"Good faith\" has the same meaning as in section 1301.201 of the Revised Code.\n\n(6) \"Order,\" \"ordinary care,\" \"promise,\" and \"prove\" have the same meanings as in section 1303.01 of the Revised Code.",
+      "id": "1304.01-good-faith",
+      "normalized": "good faith",
+      "scope": "(C) As used in sections 1304.01 to 1304.40 of the Revised Code:",
+      "section": "1304.01",
+      "source_title": "Section 1304.01 - Definitions - UCC 4-104, 4-105.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1304.01",
+      "term": "Good faith"
+    },
+    {
+      "definition": "(7) \"Holder in due course\" has the same meaning as in section 1303.32 of the Revised Code.",
+      "id": "1304.01-holder-in-due-course",
+      "normalized": "holder in due course",
+      "scope": "(C) As used in sections 1304.01 to 1304.40 of the Revised Code:",
+      "section": "1304.01",
+      "source_title": "Section 1304.01 - Definitions - UCC 4-104, 4-105.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1304.01",
+      "term": "Holder in due course"
+    },
+    {
+      "definition": "(8) \"Notice of dishonor\" has the same meaning as in section 1303.63 of the Revised Code.",
+      "id": "1304.01-notice-of-dishonor",
+      "normalized": "notice of dishonor",
+      "scope": "(C) As used in sections 1304.01 to 1304.40 of the Revised Code:",
+      "section": "1304.01",
+      "source_title": "Section 1304.01 - Definitions - UCC 4-104, 4-105.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1304.01",
+      "term": "Notice of dishonor"
+    },
+    {
+      "definition": "(9) \"Person entitled to enforce\" has the same meaning as in section 1303.31 of the Revised Code.",
+      "id": "1304.01-person-entitled-to-enforce",
+      "normalized": "person entitled to enforce",
+      "scope": "(C) As used in sections 1304.01 to 1304.40 of the Revised Code:",
+      "section": "1304.01",
+      "source_title": "Section 1304.01 - Definitions - UCC 4-104, 4-105.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1304.01",
+      "term": "Person entitled to enforce"
+    },
+    {
+      "definition": "(10) \"Presentment\" has the same meaning as in section 1303.61 of the Revised Code.",
+      "id": "1304.01-presentment",
+      "normalized": "presentment",
+      "scope": "(C) As used in sections 1304.01 to 1304.40 of the Revised Code:",
+      "section": "1304.01",
+      "source_title": "Section 1304.01 - Definitions - UCC 4-104, 4-105.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1304.01",
+      "term": "Presentment"
+    },
+    {
+      "definition": "(11) \" Remotely created consumer item\" has the same meaning as in section 1303.01 of the Revised Code.",
+      "id": "1304.01-remotely-created-consumer-item",
+      "normalized": "remotely created consumer item",
+      "scope": "(C) As used in sections 1304.01 to 1304.40 of the Revised Code:",
+      "section": "1304.01",
+      "source_title": "Section 1304.01 - Definitions - UCC 4-104, 4-105.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1304.01",
+      "term": "Remotely created consumer item"
+    },
+    {
+      "definition": "(12) \"Unauthorized signature\" has the same meaning as in section 1303.43 of the Revised Code.\n\n(D) In addition, Chapter 1301. of the Revised Code contains general definitions and principles of construction and interpretation applicable throughout sections 1304.01 to 1304.40 of the Revised Code.",
+      "id": "1304.01-unauthorized-signature",
+      "normalized": "unauthorized signature",
+      "scope": "(C) As used in sections 1304.01 to 1304.40 of the Revised Code:",
+      "section": "1304.01",
+      "source_title": "Section 1304.01 - Definitions - UCC 4-104, 4-105.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1304.01",
+      "term": "Unauthorized signature"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "1304.01",
+      "number": "1304.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1304.01"
+    },
+    {
+      "kind": "section",
+      "label": "1304.40",
+      "number": "1304.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1304.40"
+    },
+    {
+      "kind": "section",
+      "label": "1308.01",
+      "number": "1308.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1308.01"
+    },
+    {
+      "kind": "section",
+      "label": "1303.03",
+      "number": "1303.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1303.03"
+    },
+    {
+      "kind": "section",
+      "label": "1304.51",
+      "number": "1304.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1304.51"
+    },
+    {
+      "kind": "section",
+      "label": "1304.85",
+      "number": "1304.85",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1304.85"
+    },
+    {
+      "kind": "section",
+      "label": "1303.46",
+      "number": "1303.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1303.46"
+    },
+    {
+      "kind": "section",
+      "label": "1303.50",
+      "number": "1303.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1303.50"
+    },
+    {
+      "kind": "section",
+      "label": "1307.106",
+      "number": "1307.106",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1307.106"
+    },
+    {
+      "kind": "section",
+      "label": "1301.201",
+      "number": "1301.201",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1301.201"
+    },
+    {
+      "kind": "section",
+      "label": "1303.01",
+      "number": "1303.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1303.01"
+    },
+    {
+      "kind": "section",
+      "label": "1303.32",
+      "number": "1303.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1303.32"
+    },
+    {
+      "kind": "section",
+      "label": "1303.63",
+      "number": "1303.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1303.63"
+    },
+    {
+      "kind": "section",
+      "label": "1303.31",
+      "number": "1303.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1303.31"
+    },
+    {
+      "kind": "section",
+      "label": "1303.61",
+      "number": "1303.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1303.61"
+    },
+    {
+      "kind": "section",
+      "label": "1303.43",
+      "number": "1303.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1303.43"
+    }
+  ],
+  "scraped": "2026-07-02T19:37:02+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1304.01",
+  "title": "Section 1304.01 - Definitions - UCC 4-104, 4-105."
+}

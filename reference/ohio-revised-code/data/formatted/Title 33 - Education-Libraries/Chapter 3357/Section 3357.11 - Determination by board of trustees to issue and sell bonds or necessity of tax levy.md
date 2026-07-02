@@ -1,0 +1,18 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3357.11
+Scraped: 2026-07-02T19:50:12+00:00
+
+# Section 3357.11 - Determination by board of trustees to issue and sell bonds or necessity of tax levy.
+
+**Effective:** July 2, 2010
+
+**Latest Legislation:** House Bill 48 - 128th General Assembly
+
+For the purposes of purchasing a site or enlargement thereof, and for the erection and equipment of buildings, or for the purpose of enlarging, improving, or rebuilding existing facilities, the board of trustees of a technical college district shall determine the amount of bonds to be issued and such other matters as pertain thereto, and may when authorized by the vote of the electors of the district, issue and sell such bonds as provided in Chapter 133. of the Revised Code. Such board of trustees shall have the same authority and be subject to the same procedure as provided in such chapter in the case where the board of education proposes a bond issue for the purposes noted in this section.
+
+At any time the board of trustees of a technical college district by a vote of two-thirds of all its members may declare by resolution the necessity of a tax outside the ten-mill limitation for a period of years not to exceed ten years, to provide funds for one or more of the following purposes: for operation and maintenance, for purchasing a site or enlargement thereof, for the erection and construction or equipment of buildings, or for the purpose of enlarging or improving or rebuilding thereon. A copy of such resolution shall be certified to the board of elections of the county or counties in which such technical college district is situated, for the purpose of placing the proposal on the ballot at an election to be held at a date designated by such board of trustees, which date shall be consistent with the requirements of section 3501.01 of the Revised Code, but shall not be earlier than ninety days after the adoption and certification of such resolution. If a majority of the electors in such district voting on such question vote in favor of such levy, the resolution shall go into immediate effect. The trustees shall certify their action to the auditors of the county or counties in which such technical college district is situated, who shall annually thereafter place such levy on the tax duplicate in such district in the amount set forth in the proposition approved by the voters.
+
+After the approval of such levy by vote the board of trustees of a technical college district may anticipate a fraction of the proceeds of such levy and from time to time, during the life of such levy, issue anticipation notes in an amount not to exceed seventy-five per cent of the estimated proceeds of such levy to be collected in each year over a period of five years after the date of the issuance of such notes, less an amount equal to the proceeds of such levy previously obligated for each year by the issuance of anticipation notes, provided, that the total amount maturing in any one year shall not exceed seventy-five per cent of the anticipated proceeds of such levy for that year.
+
+Each issue of notes shall be sold as provided in Chapter 133. of the Revised Code and shall mature serially in substantially equal amounts, during each remaining year of the levy, not to exceed five, after their issuance.
+
+All necessary expenses for the operation of such technical college may be paid from any gifts, from grants of the state or federal government, from student fees and tuition collected pursuant to division (G) of section 3357.09 of the Revised Code, or from unencumbered funds from any other source of the technical college income, not prohibited by law.

@@ -1,0 +1,10 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5711.13
+Scraped: 2026-07-02T20:14:29+00:00
+
+# Section 5711.13 - Taxpayer shall make combined return - assessment - certification to treasurer of state.
+
+**Effective:** June 26, 2003
+
+**Latest Legislation:** House Bill 95 - 125th General Assembly
+
+Beginning in tax year 2004, each taxpayer having taxable property with an aggregate taxable value in excess of ten thousand dollars and required to be listed in more than one county shall make a combined return to the tax commissioner listing all its taxable property in this state, in conformity with sections 5711.01 to 5711.36 of the Revised Code, including property exempt under division (C)(3) of section 5709.01 of the Revised Code, but the taxpayer shall not assign property of the kinds mentioned in section 5709.02 of the Revised Code to any particular taxing district or county. The tax commissioner shall assess the personal property of such taxpayer in the several taxing districts in which it is required to be assessed under sections 5711.01 to 5711.36 of the Revised Code, and shall issue assessment certificates therefor to the proper county auditors at the time and in the manner required by section 5711.25 of the Revised Code. All other property of such taxpayer required to be so listed shall be entered on the intangible property tax list in the office of the treasurer of state, and shall be subject to taxation under section 5707.03 of the Revised Code. The commissioner shall assess all other property of each such taxpayer and, on or before the second Monday of August annually, shall certify the total value or amount of each kind thereof to the treasurer of state, who shall enter the value or amount on the intangible property tax list in the treasurer of state's office in the manner provided in sections 5725.01 to 5725.26 of the Revised Code. Sections 5711.01 to 5711.36 of the Revised Code shall apply to and govern such taxpayer, its proper officers and representatives, the commissioner, and the county auditor as to all proceedings in the assessment of the property of such taxpayer.

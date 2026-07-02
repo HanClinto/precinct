@@ -1,0 +1,14 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5534.667
+Scraped: 2026-07-02T20:13:10+00:00
+
+# Section 5534.667 - Army PFC Herbert S. Bechtel Memorial Highway.
+
+**Effective:** March 20, 2025
+
+**Latest Legislation:** House Bill 81 - 135th General Assembly
+
+In addition to any other name prescribed in the Revised Code or otherwise, the northbound and southbound lanes of United States route number sixty-eight between the intersections of township road number two hundred nineteen east and county road number thirty-seven, in Logan county, shall be known as the "Army PFC Herbert S. Bechtel Memorial Highway."
+
+The director of transportation may erect suitable markers along the highway indicating its name.
+
+Last updated February 25, 2025 at 1:19 PM

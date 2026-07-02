@@ -1,0 +1,18 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3722.11
+Scraped: 2026-07-02T19:51:39+00:00
+
+# Section 3722.11 - Reporting - opioid dependent newborns.
+
+**Effective:** September 30, 2021
+
+**Latest Legislation:** House Bill 110 - 134th General Assembly
+
+(A) "Opioid" means opioid analgesic as defined in section 3719.01 of the Revised Code.
+
+(B) Beginning on the date that is three years after the effective date of this section , each hospital licensed under this chapter that operates a maternity unit or newborn care nursery shall report to the director of health the number of newborns born to residents of this state in the unit or nursery during the preceding calendar quarter that were diagnosed as opioid dependent at birth. The reports shall be submitted not later than thirty days after the end of each quarter and shall not include any patient-identifying information. A third-party organization may report as described in this division on behalf of the hospital.
+
+(C) The director shall establish standards and procedures for reporting the information required by this section, including reporting submitted by third-party organizations. The information reported under this section shall not be used for law enforcement purposes or disclosed to law enforcement authorities.
+
+(D) The director shall compile the information submitted under this section and make a summary of that information available to the public not later than ninety days after the end of each calendar year.
+
+Last updated October 20, 2021 at 9:04 AM

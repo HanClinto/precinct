@@ -1,0 +1,453 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 1901.01 - Organization of municipal courts.",
+      "number": "1901.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.011 - Housing divisions - environmental division.",
+      "number": "1901.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.011"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.02 - Jurisdiction of municipal courts.",
+      "number": "1901.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.021 - Court sitting outside corporate limits of municipal corporation.",
+      "number": "1901.021",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.021"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.022 - Jurisdiction to appoint trustees to receive and distribute earnings in executions against property.",
+      "number": "1901.022",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.022"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.023 - Extension of jurisdiction for municipal courts on south shore of Lake Erie.",
+      "number": "1901.023",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.023"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.024 - Costs, fees, receipts of county municipal courts.",
+      "number": "1901.024",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.024"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.025 - Jurisdiction of housing and environmental divisions.",
+      "number": "1901.025",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.025"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.026 - Current operating costs apportioned.",
+      "number": "1901.026",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.026"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.027 - Ohio River jurisdiction.",
+      "number": "1901.027",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.027"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.028 - Temporary location of court in event of emergency.",
+      "number": "1901.028",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.028"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.03 - Municipal court definitions.",
+      "number": "1901.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.031 - Terms include housing or environmental division of municipal court.",
+      "number": "1901.031",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.031"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.04 - Transfer of pending actions.",
+      "number": "1901.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.041 - Assignment and referral of cases to special divisions of court.",
+      "number": "1901.041",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.041"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.051 - Housing and environmental division judges election.",
+      "number": "1901.051",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.051"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.06 - Qualifications and election of judge.",
+      "number": "1901.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.07 - Term of office of judge - nomination, election.",
+      "number": "1901.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.08 - Election of judges.",
+      "number": "1901.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.09 - Presiding and administrative judge.",
+      "number": "1901.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.10 - Oath of office required - vacancy.",
+      "number": "1901.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.11 - Compensation.",
+      "number": "1901.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.111 - Group health care coverage for municipal court judges.",
+      "number": "1901.111",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.111"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.12 - Vacation period of judge.",
+      "number": "1901.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.121 - Appointment of assigned and substitute judges.",
+      "number": "1901.121",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.121"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.122 - Reimbursements and compensation; limitations.",
+      "number": "1901.122",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.122"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.123 - Payment of per diem compensation.",
+      "number": "1901.123",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.123"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.13 - Powers of the court.",
+      "number": "1901.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.131 - Jurisdiction of housing or environmental division.",
+      "number": "1901.131",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.131"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.14 - Additional powers of judges; fees; rules; annual report.",
+      "number": "1901.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.141 - Special constables.",
+      "number": "1901.141",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.141"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.15 - Powers of the presiding municipal judge.",
+      "number": "1901.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.151 - Notice of insufficient caseload.",
+      "number": "1901.151",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.151"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.16 - Powers when more than one judge.",
+      "number": "1901.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.17 - Monetary jurisdiction.",
+      "number": "1901.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.18 - Subject matter jurisdiction.",
+      "number": "1901.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.181 - Exclusive and concurrent jurisdiction of housing or environmental divisions.",
+      "number": "1901.181",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.181"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.182 - Jurisdiction over violations of township resolutions.",
+      "number": "1901.182",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.182"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.183 - Environmental division additional jurisdiction.",
+      "number": "1901.183",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.183"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.184 - Jurisdiction where property not removed at expiration of campsite use agreement.",
+      "number": "1901.184",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.184"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.185 - Jurisdiction to foreclose lien on blighted parcel.",
+      "number": "1901.185",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.185"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.186 - Concurrent jurisdiction of Tiffin-Fostoria and Seneca County courts.",
+      "number": "1901.186",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.186"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.19 - Jurisdictional powers.",
+      "number": "1901.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.20 - Criminal and traffic jurisdiction.",
+      "number": "1901.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.21 - Criminal and civil procedure - bond.",
+      "number": "1901.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.22 - Civil actions.",
+      "number": "1901.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.23 - Issuance of writs and process.",
+      "number": "1901.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.24 - Demand for jury trial - number of jurors - verdict.",
+      "number": "1901.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.25 - Selection and impaneling of jury.",
+      "number": "1901.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.26 - Costs.",
+      "number": "1901.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.261 - Computerizing court of paying cost of computerized legal research.",
+      "number": "1901.261",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.261"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.262 - Rules for procedures for resolution of disputes.",
+      "number": "1901.262",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.262"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.263 - Cancellation of uncollectible debts.",
+      "number": "1901.263",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.263"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.27 - When action is pending.",
+      "number": "1901.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.28 - Bond for appeal.",
+      "number": "1901.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.29 - No term of court.",
+      "number": "1901.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.30 - Appeals.",
+      "number": "1901.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.31 - Clerk of court.",
+      "number": "1901.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.311 - Branch offices - special deputy clerks.",
+      "number": "1901.311",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.311"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.312 - Group health care coverage for clerks and deputy clerks.",
+      "number": "1901.312",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.312"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.313 - Electronic filing.",
+      "number": "1901.313",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.313"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.32 - Bailiffs.",
+      "number": "1901.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.321 - Municipal court contracts for transportation persons between jail and court.",
+      "number": "1901.321",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.321"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.33 - Court employees.",
+      "number": "1901.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.331 - Housing or environmental division officers and employees.",
+      "number": "1901.331",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.331"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.34 - Criminal prosecutions - compensation of prosecuting officers.",
+      "number": "1901.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.35 - Transcript of records.",
+      "number": "1901.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.36 - Accommodations and needs of the court.",
+      "number": "1901.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.37 - Bonds.",
+      "number": "1901.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.38 - Liability coverage for municipal court judges and employees.",
+      "number": "1901.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.381 - Liability coverage for municipal court clerk.",
+      "number": "1901.381",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.381"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.41 - Case files retention and destruction.",
+      "number": "1901.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.43 - Order for accused to appear for fingerprinting.",
+      "number": "1901.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1901.44 - Alternative methods for collecting court costs; notice of balance due.",
+      "number": "1901.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1901.44"
+    }
+  ],
+  "scraped": "2026-07-02T19:40:49+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-1901",
+  "title": "Chapter 1901 - Municipal Court"
+}

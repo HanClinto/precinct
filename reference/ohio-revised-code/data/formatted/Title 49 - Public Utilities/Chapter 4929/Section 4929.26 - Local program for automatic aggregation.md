@@ -1,0 +1,36 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4929.26
+Scraped: 2026-07-02T20:09:29+00:00
+
+# Section 4929.26 - Local program for automatic aggregation.
+
+**Effective:** September 29, 2011
+
+**Latest Legislation:** House Bill 153 - 129th General Assembly
+
+(A)(1) The legislative authority of a municipal corporation may adopt an ordinance, or the board of township trustees of a township or the board of county commissioners of a county may adopt a resolution, under which, in accordance with this section and except as otherwise provided in division (A)(2) of this section, the legislative authority or board may aggregate automatically, subject to the opt-out requirements of division (D) of this section, competitive retail natural gas service for the retail natural gas loads that are located, respectively, within the municipal corporation, township, or unincorporated area of the county and for which there is a choice of supplier of that service as a result of revised schedules approved under division (C) of section 4929.29 of the Revised Code, a rule or order adopted or issued by the commission under Chapter 4905. of the Revised Code, or an exemption granted by the commission under sections 4929.04 to 4929.08 of the Revised Code. An ordinance or a resolution adopted under this section shall expressly state that it is adopted pursuant to the authority conferred by this section. The legislative authority or board also may exercise its authority under this section jointly with any other such legislative authority or board. For the purpose of the aggregation, the legislative authority or board may enter into service agreements to facilitate the sale and purchase of the service for the retail natural gas loads.
+
+(2)(a) No aggregation under an ordinance or resolution adopted under division (A)(1) of this section shall include the retail natural gas load of any person that meets any of the following criteria:
+
+(i) The person is both a distribution service customer and a mercantile customer on the date of commencement of service to the aggregated load, or the person becomes a distribution service customer after that date and also is a mercantile customer.
+
+(ii) The person is supplied with commodity sales service pursuant to a contract with a retail natural gas supplier that is in effect on the effective date of the ordinance or resolution.
+
+(iii) The person is supplied with commodity sales service as part of a retail natural gas load aggregation provided for pursuant to a rule or order adopted or issued by the commission under this chapter or Chapter 4905. of the Revised Code.
+
+(b) Nothing in division (A)(2)(a) of this section precludes a governmental aggregation under this section from permitting the retail natural gas load of a person described in division (A)(2)(a) of this section from being included in the aggregation upon the expiration of any contract or aggregation as described in division (A)(2)(a)(ii) or (iii) of this section or upon the person no longer being a customer as described in division (A)(2)(a)(i) of this section or qualifying to be included in an aggregation described under division (A)(2)(a)(iii) of this section.
+
+(B) An ordinance or resolution adopted under division (A) of this section shall direct the board of elections to submit the question of the authority to aggregate to the electors of the respective municipal corporation, township, or unincorporated area of a county at a special election on the day of the next primary or general election in the municipal corporation, township, or county. The legislative authority or board shall certify a copy of the ordinance or resolution to the board of elections not less than ninety days before the day of the special election. No ordinance or resolution adopted under division (A) of this section that provides for an election under this division shall take effect unless approved by a majority of the electors voting upon the ordinance or resolution at the election held pursuant to this division.
+
+(C) Upon the applicable requisite authority under divisions (A) and (B) of this section, the legislative authority or board shall develop a plan of operation and governance for the aggregation program so authorized. Before adopting a plan under this division, the legislative authority or board shall hold at least two public hearings on the plan. Before the first hearing, the legislative authority or board shall publish notice of the hearings once a week for two consecutive weeks in a newspaper of general circulation in the jurisdiction or as provided in section 7.16 of the Revised Code. The notice shall summarize the plan and state the date, time, and location of each hearing.
+
+(D) No legislative authority or board, pursuant to an ordinance or resolution under divisions (A) and (B) of this section, shall aggregate any retail natural gas load located within its jurisdiction unless it in advance clearly discloses to the person whose retail natural gas load is to be so aggregated that the person will be enrolled automatically in the aggregation and will remain so enrolled unless the person affirmatively elects by a stated procedure not to be so enrolled. The disclosure shall state prominently the rates, charges, and other terms and conditions of enrollment. The stated procedure shall allow any person enrolled in the aggregation the opportunity to opt out of the aggregation every two years, without paying a switching fee. Any such person that opts out of the aggregation pursuant to the stated procedure shall default to the natural gas company providing distribution service for the person's retail natural gas load, until the person chooses an alternative supplier.
+
+(E)(1) With respect to a governmental aggregation for a municipal corporation that is authorized pursuant to divisions (A) to (D) of this section, resolutions may be proposed by initiative or referendum petitions in accordance with sections 731.28 to 731.41 of the Revised Code.
+
+(2) With respect to a governmental aggregation for a township or the unincorporated area of a county, which aggregation is authorized pursuant to divisions (A) to (D) of this section, resolutions may be proposed by initiative or referendum petitions in accordance with sections 731.28 to 731.40 of the Revised Code, except that:
+
+(a) The petitions shall be filed, respectively, with the township fiscal officer or the board of county commissioners, who shall perform those duties imposed under those sections upon the city auditor or village clerk.
+
+(b) The petitions shall contain the signatures of not less than ten per cent of the total number of electors in the township or the unincorporated area of the county, respectively, who voted for the office of governor at the preceding general election for that office in that area.
+
+(F) A governmental aggregator under division (A) of this section is not a public utility engaging in the wholesale purchase and resale of natural gas, and provision of the aggregated service is not a wholesale utility transaction. A governmental aggregator shall be subject to supervision and regulation by the public utilities commission only to the extent of any competitive retail natural gas service it provides and commission authority under this chapter.

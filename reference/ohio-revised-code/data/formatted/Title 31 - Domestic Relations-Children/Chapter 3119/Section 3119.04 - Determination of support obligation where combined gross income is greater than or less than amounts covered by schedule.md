@@ -1,0 +1,10 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3119.04
+Scraped: 2026-07-02T19:47:54+00:00
+
+# Section 3119.04 - Determination of support obligation where combined gross income is greater than or less than amounts covered by schedule.
+
+**Effective:** March 28, 2019
+
+**Latest Legislation:** House Bill 366 - 132nd General Assembly
+
+If the combined annual income of both parents is greater than the maximum annual income listed on the basic child support schedule established pursuant to section 3119.021 of the Revised Code, the court, with respect to a court child support order, or the child support enforcement agency, with respect to an administrative child support order, shall determine the amount of the obligor's child support obligation on a case-by-case basis and shall consider the needs and the standard of living of the children who are the subject of the child support order and of the parents. The court or agency shall compute a basic combined child support obligation that is no less than the obligation that would have been computed under the basic child support schedule and applicable worksheet for a combined annual income equal to the maximum annual income listed on the basic child support schedule established pursuant to section 3119.021 of the Revised Code, unless the court or agency determines that it would be unjust or inappropriate and therefore not in the best interest of the child, obligor, or obligee to order that amount. If the court or agency makes such a determination, it shall enter in the journal the figure, determination, and findings. If the combined annual income of both parents falls below the $8,400 floor of the basic child support schedule in accordance with section 3119.021 of the Revised Code, the court, with respect to a court child support order, or the child support enforcement agency, with respect to an administrative child support order, shall apply the minimum support amount in accordance with section 3119.06 of the Revised Code.

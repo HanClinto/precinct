@@ -1,0 +1,77 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-5501
+Scraped: 2026-07-02T20:12:20+00:00
+
+# Chapter 5501 - Department Of Transportation
+
+## Sections
+
+- Section 5501.01 - Department of transportation definitions.
+- Section 5501.02 - Director of transportation to prescribe rules and appoint employees.
+- Section 5501.03 - Department of transportation - powers and duties.
+- Section 5501.031 - Energy conservation in planning, design, and utilization of transportation facilities.
+- Section 5501.04 - Distribution of duties, powers, and functions of the department; deputy directors.
+- Section 5501.041 - Advanced air mobility division.
+- Section 5501.05 - Prohibiting use of highway funds for non-highway purposes.
+- Section 5501.051 - Transfer of realty to municipality for health care services.
+- Section 5501.06 - Department of transportation succeeds to rights and duties of department of highways.
+- Section 5501.07 - Office of public transportation of division of multi-modal planning and programs.
+- Section 5501.071 - Deposit of public transportation program funds to highway operating fund.
+- Section 5501.08 - Metrics for statewide strategic transportation planning.
+- Section 5501.10 - Classification and prioritization of new construction plans and contracts.
+- Section 5501.11 - Department of transportation with respect to highways.
+- Section 5501.12 - Chief engineer.
+- Section 5501.14 - Division of state into districts - district deputy directors.
+- Section 5501.16 - Chief clerk and secretaries.
+- Section 5501.17 - Assistants to prepare plans and surveys - contracts with planning commissions.
+- Section 5501.20 - Department of transportation business plan.
+- Section 5501.21 - Department seal - records, documents - deposition of director.
+- Section 5501.22 - Actions against director.
+- Section 5501.23 - Lectures by director.
+- Section 5501.24 - Director may call conference.
+- Section 5501.25 - Bond of employees.
+- Section 5501.27 - Increased penalties for traffic violations in construction zone.
+- Section 5501.31 - Director of transportation - powers and duties.
+- Section 5501.311 - Leases or lease-purchase of transportation facilities.
+- Section 5501.312 - Contracts for use or service of transportation facility.
+- Section 5501.32 - Purchase of real property for highway purposes.
+- Section 5501.33 - Accepting donations of real property.
+- Section 5501.331 - Deed for donated property.
+- Section 5501.332 - Deed releasing donated property.
+- Section 5501.34 - Selling real property no longer required for highway purposes.
+- Section 5501.38 - Reusing petroleum contaminated sands, gravel and soils as highway construction materials.
+- Section 5501.39 - Research laboratory.
+- Section 5501.40 - Housing and care of equipment.
+- Section 5501.41 - Removal of snow and ice.
+- Section 5501.42 - Supervision of trees and shrubs.
+- Section 5501.421 - GRASS program.
+- Section 5501.43 - Contracts in name of state.
+- Section 5501.44 - Cooperative agreements for repair of bridges and regional traffic management systems.
+- Section 5501.441 - Toll enforcement agreements.
+- Section 5501.45 - Conveyance of lands not needed for highway or recreation purposes.
+- Section 5501.451 - Leasing state lands for erecting advertising devices.
+- Section 5501.46 - Conveying land to department of transportation by other state agencies and political subdivisions.
+- Section 5501.47 - Bridge inspections.
+- Section 5501.48 - Toll bridge inspection.
+- Section 5501.49 - Lift bridge inspection.
+- Section 5501.50 - Leases of real property not immediately needed for highway purposes for agricultural purposes.
+- Section 5501.51 - Reimbursing utility for facilities relocated by highway project.
+- Section 5501.52 - Annual reports summarizing state and federal money spent on highway projects.
+- Section 5501.521 - Department of transportation expense reports.
+- Section 5501.53 - Private contribution money to support highways and roads used by animal-drawn vehicles.
+- Section 5501.55 - Overseeing safety practices of rail fixed guideway systems.
+- Section 5501.56 - System safety program plan.
+- Section 5501.70 - Definitions for ORC sections 5501.70 to 5501.83.
+- Section 5501.71 - Authority for department of transportation to enter public-private initiative; solicitation and selection.
+- Section 5501.72 - Unsolicited proposals.
+- Section 5501.73 - Public-private agreement.
+- Section 5501.74 - Termination of public-private agreement.
+- Section 5501.75 - Material default by operator.
+- Section 5501.76 - Issuance of obligations.
+- Section 5501.77 - Powers of department.
+- Section 5501.78 - Exemption from ad valorem property taxes and special assessments.
+- Section 5501.79 - Acquisition of property.
+- Section 5501.80 - Law enforcement officers; powers.
+- Section 5501.81 - Crossing or relocation of facility.
+- Section 5501.82 - Sovereign immunity.
+- Section 5501.83 - Adoption of rules.
+- Section 5501.91 - Ohio maritime assistance program.

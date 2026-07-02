@@ -1,0 +1,10 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5309.48
+Scraped: 2026-07-02T20:11:57+00:00
+
+# Section 5309.48 - Mortgage, encumbrance entered - mortgagee's duplicate certificate.
+
+**Effective:** October 1, 1953
+
+**Latest Legislation:** House Bill 1 - 100th General Assembly
+
+When a mortgage, encumbrance, or other instrument intended to create a lien upon or charge against registered land, as provided in section 5309.47 of the Revised Code, is filed in the county recorder's office, and the owner's duplicate certificate of title is produced, and it appears to the recorder that the person intending to create the lien or charge set forth in such instrument, has such right, and that the person in whose favor the same is sought to be created is entitled under sections 5309.02 to 5310.21 , inclusive, of the Revised Code, to have such instrument entered as a memorial upon the register, the recorder shall enter upon the proper folium of the register, where such title is registered, and upon the owner's duplicate certificate of title, a memorial accurately stating the purport and nature of the lien or charge created, the date of filing the instrument, and its file number. The recorder shall note upon the instrument filed with him the volume and folium of the register in which the memorial is entered. The recorder shall at any time after registration of a mortgage, upon the request of the mortgagee and the tender of the proper fee therefor, make and deliver to the mortgagee a duplicate of the owner's registered certificate of title but having indorsed, stamped, or printed thereon in large letters "Mortgagee's Duplicate Certificate" instead of "Owner's Duplicate Certificate." The recorder shall note on the registered certificate of title the fact and date of making and delivering such duplicate and to whom delivered. In case of the loss or destruction of such mortgagee's duplicate certificate, another may be issued to him as provided in section 5309.31 of the Revised Code in reference to the loss or destruction of an owner's duplicate certificate.

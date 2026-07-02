@@ -1,0 +1,72 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Emergency medical services personnel\" has the same meaning as in section 2133.21 of the Revised Code.",
+      "id": "2909.04-emergency-medical-services-personnel",
+      "normalized": "emergency medical services personnel",
+      "scope": "(D) As used in this section:",
+      "section": "2909.04",
+      "source_title": "Section 2909.04 - Disrupting public services.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2909.04",
+      "term": "Emergency medical services personnel"
+    },
+    {
+      "definition": "(2) \"Emergency facility personnel\" means any of the following:\n\n(a) Any of the following individuals who perform services in the ordinary course of their professions in an emergency facility:\n\n(i) Physicians authorized under Chapter 4731. of the Revised Code to practice medicine and surgery or osteopathic medicine and surgery;\n\n(ii) Registered nurses and licensed practical nurses licensed under Chapter 4723. of the Revised Code;\n\n(iii) Physician assistants authorized to practice under Chapter 4730. of the Revised Code;\n\n(iv) Health care workers;\n\n(v) Clerical staffs.\n\n(b) Any individual who is a security officer performing security services in an emergency facility;\n\n(c) Any individual who is present in an emergency facility, who was summoned to the facility by an individual identified in division (D)(2)(a) or (b) of this section.",
+      "id": "2909.04-emergency-facility-personnel",
+      "normalized": "emergency facility personnel",
+      "scope": "(D) As used in this section:",
+      "section": "2909.04",
+      "source_title": "Section 2909.04 - Disrupting public services.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2909.04",
+      "term": "Emergency facility personnel"
+    },
+    {
+      "definition": "(3) \"Emergency facility\" means a hospital emergency department or any other facility that provides emergency medical services.",
+      "id": "2909.04-emergency-facility",
+      "normalized": "emergency facility",
+      "scope": "(D) As used in this section:",
+      "section": "2909.04",
+      "source_title": "Section 2909.04 - Disrupting public services.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2909.04",
+      "term": "Emergency facility"
+    },
+    {
+      "definition": "(4) \"Hospital\" has the same meaning as in section 3727.01 of the Revised Code.",
+      "id": "2909.04-hospital",
+      "normalized": "hospital",
+      "scope": "(D) As used in this section:",
+      "section": "2909.04",
+      "source_title": "Section 2909.04 - Disrupting public services.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2909.04",
+      "term": "Hospital"
+    },
+    {
+      "definition": "(5) \"Health care worker\" means an individual, other than an individual specified in division (D)(2)(a), (b), or (c) of this section, who provides medical or other health-related care or treatment in an emergency facility, including medical technicians, medical assistants, orderlies, aides, or individuals acting in similar capacities.",
+      "id": "2909.04-health-care-worker",
+      "normalized": "health care worker",
+      "scope": "(D) As used in this section:",
+      "section": "2909.04",
+      "source_title": "Section 2909.04 - Disrupting public services.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2909.04",
+      "term": "Health care worker"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2133.21",
+      "number": "2133.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2133.21"
+    },
+    {
+      "kind": "section",
+      "label": "3727.01",
+      "number": "3727.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3727.01"
+    }
+  ],
+  "scraped": "2026-07-02T19:46:06+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2909.04",
+  "title": "Section 2909.04 - Disrupting public services."
+}

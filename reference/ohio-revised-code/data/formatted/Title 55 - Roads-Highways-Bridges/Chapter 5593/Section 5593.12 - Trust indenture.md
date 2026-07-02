@@ -1,0 +1,12 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5593.12
+Scraped: 2026-07-02T20:14:07+00:00
+
+# Section 5593.12 - Trust indenture.
+
+**Effective:** September 4, 1982
+
+**Latest Legislation:** House Bill 98 - 114th General Assembly
+
+In the discretion of the bridge commission of any county or city, any bonds issued under sections 5593.01 to 5593.24 of the Revised Code may be secured by a trust agreement between the commission and a corporate trustee, which trustee may be any trust company or bank having the powers of a trust company within or without the state. Any such trust agreement may pledge or assign the fees and other revenue to be received, but shall not convey or mortgage the bridge involved or any part thereof. Any such trust agreement or any resolution providing for the issuance of such bonds may contain such provisions for protecting and enforcing the rights and remedies of the bondholders as are reasonable and proper and not in violation of law, including covenants setting forth the duties of the commission in relation to the acquisition of property, and the construction, improvement, maintenance, operation, repair, and insurance of the bridge in connection with which such bonds are authorized, the rates of fees to be charged, and the custody, safeguarding, and application of all moneys, and provisions for the employment of consulting engineers in connection with the construction or operation of such bridge. Any bank or trust company incorporated under the laws of this state which may act as depository of the proceeds of bonds or of revenue may furnish such indemnifying bonds or may pledge such securities as are required by the commission. Any such trust agreement may set forth the rights and remedies of the bondholders and of the trustee, and may restrict the individual right of action by bondholders as is customary in trust agreements or trust indentures securing bonds or debentures of corporations.
+
+Such trust agreement may contain such other provisions as the commission determines reasonable and proper for the security of the bondholders. All expenses incurred in carrying out the provisions of any such trust agreement may be treated as a part of the cost of the operation of such bridge. Any such trust agreement may provide the method whereby general administrative overhead expense of the commission shall be allocated among the several bridges constructed or acquired by it as a factor of the operation expense of each such bridge.

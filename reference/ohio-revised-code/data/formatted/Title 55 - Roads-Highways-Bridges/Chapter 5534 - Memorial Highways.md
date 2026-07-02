@@ -1,0 +1,307 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-5534
+Scraped: 2026-07-02T20:13:10+00:00
+
+# Chapter 5534 - Memorial Highways
+
+## Sections
+
+- Section 5534.01 - Sgt. James C. Fekete, SF Memorial Interchange.
+- Section 5534.011 - Staff Sgt. Richard T. Pummill Memorial Highway.
+- Section 5534.012 - U.S. Navy Petty Officer 2nd Class Randall Smith Memorial Highway.
+- Section 5534.013 - CPL David James Amheiser Memorial Highway.
+- Section 5534.014 - SFC Charles E. Carpenter Memorial Highway.
+- Section 5534.02 - FN James C. Baumer, USN Memorial Interchange.
+- Section 5534.03 - U.S. Army Specialist Justin Helton Memorial Highway.
+- Section 5534.04 - Marine Sergeant James Prommersberger and Army Second Lieutenant Charles W. Brown Memorial Highway.
+- Section 5534.05 - Sgt. Terrance R. Mesenburg, USA Memorial Interchange.
+- Section 5534.06 - Sgt. Michael W. Finke, Jr. U.S.M.C. Memorial Walkover.
+- Section 5534.07 - LCpl Josh McDaniels Memorial Highway.
+- Section 5534.08 - Specialist Angel L. Lopez Memorial Highway.
+- Section 5534.09 - Navy Diver 1st Class James E. Reyher Memorial Highway.
+- Section 5534.10 - Cpl. James E. Blevins Memorial Highway.
+- Section 5534.105 - Jackson Township Veterans Memorial Parkway.
+- Section 5534.11 - Army Cpl. Nathan B. Carse Memorial Highway.
+- Section 5534.12 - U.S.M.C. Lance Corporal Dustin R. Fitzgerald "Dusty" Memorial Highway.
+- Section 5534.13 - U.S. Army Private First Class James P. White, Jr. "J.P." Memorial Highway.
+- Section 5534.131 - U.S. Army Private First Class Jerry Bockbrader Memorial Highway.
+- Section 5534.14 - Army Spc. Joseph "Joey" Riley Memorial Highway.
+- Section 5534.15 - Fireman First Class Irving Eugene Peters Memorial Highway.
+- Section 5534.151 - Lt Col Thomas P. Belkofer Memorial Highway.
+- Section 5534.152 - Lance Corporal Michael Stangelo, USMC, Memorial Bridge.
+- Section 5534.153 - First Lieutenant Gerald B. Greendyke Memorial Highway.
+- Section 5534.154 - PFC Richard 'Rick' Wesley McFarland Memorial Highway.
+- Section 5534.16 - Lance Corporal Ryan E. Miller Memorial Highway.
+- Section 5534.161 - Lance Corporal Michael C. Spaulding, USMC, Memorial Highway.
+- Section 5534.162 - SPC Connor Wilson-Reichert Memorial Highway.
+- Section 5534.17 - Lance Cpl. Eric J. Bernholtz Memorial Highway.
+- Section 5534.18 - Army Pfc. Michael Dominic Paonessa Memorial Highway.
+- Section 5534.181 - Army PFC Noah C. Porter Memorial Highway.
+- Section 5534.19 - Lieutenant Stephen Byus Memorial Highway.
+- Section 5534.20 - Sgt. Jesse Balthaser U.S.M.C. Memorial Highway.
+- Section 5534.21 - Army Specialist Gerald R. Jenkins Memorial Highway.
+- Section 5534.22 - Army PFC Kevin C. Ott Memorial Highway.
+- Section 5534.23 - SFC Bobby Lee Estle Memorial Highway.
+- Section 5534.24 - 196th Light Infantry Brigade SP4 Robert L. Fowble, Jr., and PFC Jack E. Beam Memorial Highway.
+- Section 5534.25 - Army Specialist Charles E. Odums II Memorial Highway.
+- Section 5534.26 - Private First Class William "Brent" Turner U.S.M.C. Memorial Highway.
+- Section 5534.27 - Army Chief Warrant Officer Donald V. Clark Memorial Highway.
+- Section 5534.28 - Sergeant Adam L. Knox Memorial Highway.
+- Section 5534.29 - SPC James E. Hall, Jr., Memorial Highway.
+- Section 5534.30 - Lt. Col. Albert L. Allen, Jr., Memorial Highway.
+- Section 5534.301 - American Gold Star Mothers, Inc. Memorial Highway.
+- Section 5534.31 - Corporal William F. Bratt Memorial Highway.
+- Section 5534.32 - Sgt. Donald Russell Long, Medal of Honor Recipient, Memorial Highway.
+- Section 5534.33 - USMC LCpl Stacy (Annie) Dryden Memorial Highway.
+- Section 5534.34 - Oregon Jerusalem Vietnam Veterans Memorial Highway.
+- Section 5534.35 - Army Specialist Dennis Ramon Memorial Highway.
+- Section 5534.36 - Lance Corporal Stanley J. Sliwinski Memorial Highway.
+- Section 5534.37 - PFC Burt "Rusty" Miller Memorial Highway.
+- Section 5534.38 - Lcpl Bret M. Poklar Memorial Highway.
+- Section 5534.39 - Richland County Veterans Memorial Highway.
+- Section 5534.40 - Patrolman Carl "Shorty" Thrush Memorial Highway.
+- Section 5534.401 - Lieutenant Michael J. Lutz Memorial Highway.
+- Section 5534.402 - Deputy Sheriff Robert M. Tanner, Jr. Memorial Highway.
+- Section 5534.403 - Officers Anthony Morelli and Eric Joering Memorial Highway.
+- Section 5534.404 - Firefighter/Paramedic Patrick Wolterman Memorial Highway.
+- Section 5534.405 - Officers Anthony Morelli and Eric Joering Memorial Highway.
+- Section 5534.406 - Officer Thomas Hayes Memorial Highway.
+- Section 5534.407 - Patrolman Mathew Mazany Memorial Highway.
+- Section 5534.408 - Patrolman James A. Fredericka Memorial Highway.
+- Section 5534.409 - Crooksville Firefighters David Theisen and Stephen Carletti Memorial Highway.
+- Section 5534.41 - Officer Justin Winebrenner Memorial Highway.
+- Section 5534.411 - Poland Township Police Officer Charles K. Yates Memorial Highway.
+- Section 5534.412 - Poland Township Police Officer Richard E. Becker Memorial Highway.
+- Section 5534.413 - Michael J. Aselage Memorial Highway.
+- Section 5534.414 - Deputy Bill Brewer Memorial Highway.
+- Section 5534.415 - Officer Kaia L. Grant Memorial Highway.
+- Section 5534.416 - Deputy Sheriff Emil Kleinwaechter Memorial Highway.
+- Section 5534.417 - Ohio State Highway Patrol MCEI Kimra Skelton Memorial Highway.
+- Section 5534.418 - Deputy Sheriff Bill Bender and Trooper Randy Bender Memorial Highway.
+- Section 5534.419 - Officer Anthony Dia Memorial Highway.
+- Section 5534.42 - OSHP Sgt. John F. Best Memorial Highway.
+- Section 5534.421 - Sheriff Gene Fischer Memorial Highway.
+- Section 5534.422 - Firefighter Tommy Rees Memorial Highway.
+- Section 5534.423 - Patrolman James R. Wert Memorial Highway.
+- Section 5534.424 - Patrolman William J. Keller Memorial Highway.
+- Section 5534.425 - Chief Radio Operator Walter Dawson Memorial Highway.
+- Section 5534.426 - Patrolman James P. Gardner Memorial Highway.
+- Section 5534.427 - Lt. James A. Kirkendall Memorial Highway.
+- Section 5534.43 - Detective Corporal J. Phillip Brown Memorial Highway.
+- Section 5534.431 - Officers Dennis Bennington and Robert Seiffert Memorial Highway.
+- Section 5534.432 - Officer Brandon Stalker Memorial Highway.
+- Section 5534.433 - Officer Ciera N. Greene Memorial Highway.
+- Section 5534.434 - Captain "Smokey" Carl Edward Summers Memorial Highway.
+- Section 5534.435 - Sherriff Fredrick J. Abdalla Memorial Highway.
+- Section 5534.436 - Natural Resources Officer Jason Lagore Memorial Highway.
+- Section 5534.437 - Sheriff Sergeant William "Bill" Morris Memorial Highway.
+- Section 5534.438 - Officer Dominic Francis Memorial Highway.
+- Section 5534.439 - Police Chief Cel Rivera Memorial Highway.
+- Section 5534.44 - Hilliard Patrol Officer Sean Johnson Memorial Highway.
+- Section 5534.441 - Police Chief Ronnie Ricketts, Sr. Memorial Highway.
+- Section 5534.442 - Cleveland Firefighter Johnny Tetrick Memorial Highway.
+- Section 5534.45 - Officer David Fahey Jr. Cleveland Police First District Memorial Highway.
+- Section 5534.452 - Sheriff Dale R. Williams Memorial Highway.
+- Section 5534.453 - Dispatcher T.J. D'Apolito Memorial Highway.
+- Section 5534.46 - Trooper Kenny Velez Memorial Highway.
+- Section 5534.47 - Ohio Inspector General David D. Sturtz Memorial Highway.
+- Section 5534.48 - Toledo Firefighters J. Dickman and S. Machcinski Memorial Highway.
+- Section 5534.481 - Patrolman Dane L. Rowe Memorial Highway.
+- Section 5534.483 - Deputy Sheriff Matthew Yates Memorial Highway.
+- Section 5534.484 - Patrolman David L. Cole Memorial Highway.
+- Section 5534.485 - Town and Country Firefighter Lt. Philip M. Wigal Memorial Highway.
+- Section 5534.486 - Firefighter Charles D. Swank Memorial Highway.
+- Section 5534.49 - Officer Thomas W. Cottrell Jr. Memorial Highway.
+- Section 5534.491 - Captain Michael Palumbo Memorial Highway.
+- Section 5534.492 - Officer Sonny L. Kim Memorial Highway.
+- Section 5534.493 - Kirkersville Chief Steven "Eric" DiSario Memorial Highway.
+- Section 5534.494 - Patrolman Jason Gresko Memorial Highway.
+- Section 5534.495 - Patrolman Paul L. McManis Memorial Highway.
+- Section 5534.496 - Patrolman Leroy S. Bedell Memorial Highway.
+- Section 5534.497 - Patrolman Sean VanDenberg Memorial Highway.
+- Section 5534.498 - Captain Charles R. Miner Memorial Bridge.
+- Section 5534.499 - Corporal John E. Ruch Memorial Highway.
+- Section 5534.50 - John W.E. Bowen III Memorial Roadway.
+- Section 5534.501 - Don Manning memorial bridge.
+- Section 5534.503 - Kris Jordan Memorial Highway.
+- Section 5534.51 - Rep. Frederick H. Deering Memorial Highway.
+- Section 5534.512 - Brigid Kelly Norwood Lateral.
+- Section 5534.513 - World War II Veterans Memorial Highway.
+- Section 5534.515 - Gunnery Sergeant James W. Speedy Memorial Interchange.
+- Section 5534.518 - State Representative Andy Thompson Memorial Highway.
+- Section 5534.52 - State Senator C. Stanley Mechem Memorial Highway.
+- Section 5534.53 - Governor Richard F. Celeste.
+- Section 5534.54 - Robert E. Turney Memorial Highway.
+- Section 5534.55 - Congressman Michael G. Oxley Memorial Highway.
+- Section 5534.56 - Carl and Louis Stokes Opportunity Corridor.
+- Section 5534.57 - Harry Meshel Memorial Highway.
+- Section 5534.58 - Ralph Regula Memorial Highway.
+- Section 5534.60 - PFC William Boggs, CPL Sam Boggs, and SGT Robert Boggs Memorial Highway.
+- Section 5534.601 - RDML Alene Duerk Memorial Highway.
+- Section 5534.602 - SFC Charles Gregory Huston Memorial Highway.
+- Section 5534.603 - Army Sergeant Patrick Ryan Carroll Memorial Highway.
+- Section 5534.604 - SSG Kyle R. McKee Memorial Highway.
+- Section 5534.605 - Army Sgt. Vernon R. Judd Memorial Highway.
+- Section 5534.606 - Sgt. Thomas Cole Walker Memorial Bridge.
+- Section 5534.608 - Specialist Ronald Gene Johnson Memorial Overpass.
+- Section 5534.61 - Sergeant Emile DeLeau, Jr. Medal of Honor Recipient Memorial Highway.
+- Section 5534.611 - Cpl. Fred B. McGee Memorial Highway.
+- Section 5534.612 - Veterans Memorial Bridge.
+- Section 5534.613 - Captain David "Hank" Spellacy Memorial Highway.
+- Section 5534.614 - Staff Sgt. Zachary Wobler Memorial Highway.
+- Section 5534.615 - Staff Sergeant George P. Mizik (USMC) Memorial Highway.
+- Section 5534.616 - SSgt Gene F. Morrison Memorial Bridge.
+- Section 5534.618 - Hubbard First Responders Bridge.
+- Section 5534.62 - Sergeant Sylvester Antolak Medal of Honor Recipient Memorial Highway.
+- Section 5534.63 - Sergeant Joseph W. Danison Memorial Highway.
+- Section 5534.631 - Sgt. Jordan Marshall Memorial Highway.
+- Section 5534.64 - Ohio Valley Vietnam Veterans Memorial Highway.
+- Section 5534.641 - Veterans Legacy Highway.
+- Section 5534.642 - PFC Henry "Rick" Hausman, Jr. Memorial Highway.
+- Section 5534.643 - PFC Jerry D. Leak Memorial Highway.
+- Section 5534.644 - Specialist Dennis Alan Combs Memorial Highway.
+- Section 5534.646 - Brigadier General Charles Young Memorial Historical Corridor.
+- Section 5534.648 - Army Lt. Col. Robert R. Melnick Memorial Highway.
+- Section 5534.649 - Sgt. Todd M. Bates Memorial Highway.
+- Section 5534.65 - Sgt. William 'Bill' Endress and Geneva Vietnam War Veterans Memorial Highway.
+- Section 5534.651 - Cpl. Jack O. McClure Memorial Highway.
+- Section 5534.653 - Delaware County Veterans Memorial Highway.
+- Section 5534.655 - Vienna Township Veterans Bridge.
+- Section 5534.656 - Specialist Five Frederick Wayne Taylor Memorial Highway.
+- Section 5534.658 - Cortland Veterans Memorial Bridge.
+- Section 5534.659 - Army Corporal Charles E. Hiltibran Memorial Highway.
+- Section 5534.66 - Marine Gunnery Sgt. Robert L. Gilbert II Memorial Highway.
+- Section 5534.661 - Sgt. Cory M. Endlich Corridor.
+- Section 5534.662 - Lance Corporal Jimmy Rizzo Memorial Highway.
+- Section 5534.663 - Ottawa County Veterans Memorial Highway.
+- Section 5534.664 - Lance Corporal Austin B. Schwenk Memorial Highway.
+- Section 5534.665 - Major David McGue Memorial Highway.
+- Section 5534.667 - Army PFC Herbert S. Bechtel Memorial Highway.
+- Section 5534.669 - Patrolman Frank J. Hossler Memorial Highway.
+- Section 5534.67 - Corporal Nathan R. Anderson Memorial Bridge.
+- Section 5534.671 - Licking County Veterans Memorial Highway.
+- Section 5534.672 - U.S.S. Shenandoah Memorial Highway.
+- Section 5534.673 - CPT Louis John Speidel Memorial Highway.
+- Section 5534.674 - CPL Willard Boston Wallace Memorial Highway.
+- Section 5534.675 - Specialist Lloyd Andrew Sellers Memorial Highway.
+- Section 5534.68 - U.S. Army Specialist Jason N. Cox Memorial Highway.
+- Section 5534.69 - Sergeant James F. Allen III Memorial Highway.
+- Section 5534.70 - Neil Armstrong Memorial Way.
+- Section 5534.701 - Peter and Sarah Fossett Memorial Bridge.
+- Section 5534.702 - Murray Ebner, Holocaust Survivor and Korean War Veteran, Memorial Highway.
+- Section 5534.703 - Pharmacist's Mate Third Class Willard L. Shupe Memorial Highway.
+- Section 5534.704 - LCpl. Timothy Michael Bell, Jr. Memorial Highway.
+- Section 5534.71 - Lt. Col. Ralph D. Cole Memorial Bridge.
+- Section 5534.72 - Air Force Master Sgt. William L. McDaniel II Memorial Highway.
+- Section 5534.73 - Army PFC Neil R. Scott Memorial Highway.
+- Section 5534.74 - Army Corporal Carl H. Bernhart Memorial Highway.
+- Section 5534.75 - Sgt. Bruce R. Jones Memorial Bridge.
+- Section 5534.751 - PFC Oscar F. Nicewander Memorial Highway.
+- Section 5534.752 - Damascus Bridge.
+- Section 5534.76 - Lance Corporal Christopher J. Dyer USMC, Lima Co, 3/25 Marines Memorial Highway.
+- Section 5534.761 - Cpl. David A. Johnston Memorial Highway.
+- Section 5534.77 - Marine Sgt. David R. Christoff Memorial Highway.
+- Section 5534.78 - Army Specialist Danny Raymond King Memorial Highway.
+- Section 5534.79 - Justice Robert Duncan Memorial Highway.
+- Section 5534.80 - Specialist Lawrence George Stapleton Memorial Highway.
+- Section 5534.801 - Staff Sergeant Paul C. Mardis Jr. Memorial Highway.
+- Section 5534.802 - SGT David Sexton Memorial Highway.
+- Section 5534.803 - SGT Glen Millinger Memorial Highway.
+- Section 5534.804 - Army Specialist David Lee Bingamon Memorial Highway.
+- Section 5534.805 - Clermont County Vietnam Veterans Memorial Highway.
+- Section 5534.806 - Brown County Vietnam Veterans Memorial Highway.
+- Section 5534.807 - SFC John E. Conger, Jr. Memorial Highway.
+- Section 5534.808 - Sgt. Herman Zerger Highway.
+- Section 5534.809 - Cpl. Jerry Robert Spitler Memorial Highway.
+- Section 5534.81 - Purple Heart Veterans Memorial Bridge.
+- Section 5534.811 - Henry County Veterans Highway.
+- Section 5534.812 - SGT Alex Drabik Memorial Highway.
+- Section 5534.813 - LCpl Gerald Subler Memorial Highway.
+- Section 5534.814 - Col. Donald Blakeslee Memorial Bridg.
+- Section 5534.815 - Army Cpt. Stephen J. Chaney Memorial Highway.
+- Section 5534.816 - Air Force 2nd Lt. William Vaughan Memorial Bridge.
+- Section 5534.817 - Marine LCpl Jacob Spann Memorial Highway.
+- Section 5534.818 - PFC George Dennis McClelland Memorial Highway.
+- Section 5534.819 - Adams County Vietnam Veterans Memorial Highway.
+- Section 5534.82 - World War I and World War II Veterans Memorial Bridge.
+- Section 5534.821 - Purple Heart Veterans Memorial Bridge.
+- Section 5534.822 - Veterans Suicide Memorial Mile.
+- Section 5534.823 - PFC M. Preston Wheeler Memorial Highway.
+- Section 5534.824 - Master Chief Special Warfare Operator (SEAL) Edward C. Byers, Jr. Medal of Honor Recipient Highway.
+- Section 5534.825 - SGT Arthur A. Mora, Jr. Memorial Highway.
+- Section 5534.826 - Charles C. Nichols Memorial Highway.
+- Section 5534.827 - PFC Ronald J. Puskarcik Memorial Highway.
+- Section 5534.828 - CPL Benjamin C. Dillon, RLTW, Memorial Highway.
+- Section 5534.829 - Cpl. Fredrick Wayne Miller Memorial Highway.
+- Section 5534.83 - Army PFC Walter Earl Duncan, Jr. Memorial Highway.
+- Section 5534.831 - U.S. Navy Corpsman Maxton Soviak Memorial Highway.
+- Section 5534.832 - SPC Christian M. Neff Memorial Highway.
+- Section 5534.833 - Cpl. Andrew D. Brownfield Memorial Highway.
+- Section 5534.834 - LCpl David E. Morton Memorial Highway.
+- Section 5534.835 - TSgt. Grover Lee Swearingen Memorial Highway.
+- Section 5534.836 - Putnam County Veterans Memorial Highway.
+- Section 5534.837 - Lake Township Veterans Memorial Highway.
+- Section 5534.838 - SGT Joseph P. Collette Memorial Highway.
+- Section 5534.839 - Corporal Dustin A. Derga Memorial Highway.
+- Section 5534.84 - Women Veterans Bridge.
+- Section 5534.841 - SFC Ron Rosser Medal of Honor Recipient Memorial Highway.
+- Section 5534.842 - SSG Garren Ray Goudy Memorial Highway.
+- Section 5534.843 - Williams County Veterans Memorial Highway.
+- Section 5534.844 - PFC Edward O'Dell Mullins, Jr. Memorial Bridge.
+- Section 5534.845 - Sgt. Cameron H. Thomas Memorial Way; Sgt. Kevin J. Lannon Memorial Way.
+- Section 5534.846 - Byers Brothers Memorial Highway.
+- Section 5534.847 - Sgt Bradley J. Harper USMC Memorial Highway.
+- Section 5534.848 - Paulding County Purple Heart Memorial Highway.
+- Section 5534.849 - Van Wert County Veteran's Memorial Highway.
+- Section 5534.85 - LCpl Marc L. Cole Memorial Highway.
+- Section 5534.86 - The American Legion Highway.
+- Section 5534.87 - Private First Class Donald E. Byrum Memorial Highway.Private First Class Donald E. Byrum Memorial Highway.
+- Section 5534.871 - SGT Meredith L. Barnett Memorial Highway.
+- Section 5534.872 - U.S. Army Specialist Christian D. Ward Memorial Highway.
+- Section 5534.873 - Lance Corporal James F. Kimple Memorial Highway.
+- Section 5534.874 - Army SSgt. Charles V. Kettler Memorial Highway.
+- Section 5534.875 - Army Sgt. Herbert C. Linville Memorial Highway.
+- Section 5534.876 - Army Sgt. Ronnie Blair Memorial Highway.
+- Section 5534.877 - Sgt. Anthony Kress Vinnedge Memorial Highway.
+- Section 5534.878 - Gold and Blue Star Family Memorial Bridge.
+- Section 5534.879 - POW/MIA Memorial Viaduct.
+- Section 5534.88 - U.S. Air Force Staff Sergeant Yvonne Marie Fair Memorial Highway.
+- Section 5534.881 - Lance Corporal James Sprowl Memorial Highway.
+- Section 5534.882 - CWO3 James E. Groves III Memorial Highway.
+- Section 5534.883 - SGT Michael Keith Hamner Memorial Highway.
+- Section 5534.884 - LTC Kevin Sonnenberg Memorial Highway.
+- Section 5534.885 - Canfield Armed Forces Bridge.
+- Section 5534.886 - Canfield First Responders Bridge.
+- Section 5534.887 - Lewis John Speece, Jr. Memorial Bridge.
+- Section 5534.888 - SGT Theodore Ward Memorial Highway.
+- Section 5534.889 - Teresa Miller-Martin 9/11 Memorial Highway.
+- Section 5534.89 - Catawba Island Township Veterans Memorial Highway.
+- Section 5534.891 - Pvt. David Rhoades Memorial Highway.
+- Section 5534.892 - First Lt. Harry L. Martin Memorial Highway.
+- Section 5534.893 - Army Staff Sgt. Dennis J. Hansen Memorial Highway.
+- Section 5534.894 - Army National Guard Sgt. Jeremy M. Hodge Memorial Highway.
+- Section 5534.895 - Marine Gunnery Sgt. David S. Spicer Memorial Highway.
+- Section 5534.896 - Trucks Bridge.
+- Section 5534.897 - Joseph K. Vrabel "Ohio Veterans Hall of Fame" Memorial Highway.
+- Section 5534.898 - SGT David S. Harris Memorial Highway.
+- Section 5534.899 - PFC Steven D. Smith Memorial Highway.
+- Section 5534.90 - Specialist Jacob A. Ashton Memorial Bridge.
+- Section 5534.902 - Wayne County Gold Star Family Memorial Highway.
+- Section 5534.91 - James H. Hough Memorial Highway.
+- Section 5534.911 - Steve Story Memorial Highway.
+- Section 5534.912 - Steven Lowell Cook Memorial Highway.
+- Section 5534.913 - Ronald H. Barron Memorial Highway.
+- Section 5534.916 - Officer M. Scott Moyer Memorial Highway.
+- Section 5534.917 - Officer Wayne A. Leon Memorial Highway.
+- Section 5534.918 - PFC Dale Marker Memorial Highway.
+- Section 5534.92 - James F. Dicke, Sr. Memorial Highway.
+- Section 5534.923 - SGT Gary Lee McKiddy Memorial Highway.
+- Section 5534.924 - Dr. Steven Takacs Veteran Memorial Highway.
+- Section 5534.925 - Richard "Dick" Mallon Memorial Highway.
+- Section 5534.93 - Officer Bill Johnson Memorial Highway.
+- Section 5534.94 - Virginia E. "Ginny" Kirsch Memorial Highway.
+- Section 5534.95 - Roy Rogers Happy Trails Highway.
+- Section 5534.96 - Football Heritage Corridor.
+- Section 5534.962 - Jesse Owens Memorial Highway.
+- Section 5534.963 - SM1 Cornelius Anthony McCafferty, Jr. Memorial Highway.
+- Section 5534.97 - Frank Watson Memorial Highway.
+- Section 5534.98 - Larry Morgan Memorial Highway.

@@ -1,0 +1,94 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-1347.12
+Scraped: 2026-07-02T19:37:27+00:00
+
+# Section 1347.12 - Agency disclosure of security breach of computerized personal information data.
+
+**Effective:** September 29, 2015
+
+**Latest Legislation:** House Bill 141 - 131st General Assembly
+
+(A) As used in this section:
+
+(1) "Agency of a political subdivision" means each organized body, office, or agency established by a political subdivision for the exercise of any function of the political subdivision, except that "agency of a political subdivision" does not include an agency that is a covered entity as defined in 45 C.F.R. 160.103, as amended.
+
+(2)(a) "Breach of the security of the system" means unauthorized access to and acquisition of computerized data that compromises the security or confidentiality of personal information owned or licensed by a state agency or an agency of a political subdivision and that causes, reasonably is believed to have caused, or reasonably is believed will cause a material risk of identity theft or other fraud to the person or property of a resident of this state.
+
+(b) For purposes of division (A)(2)(a) of this section:
+
+(i) Good faith acquisition of personal information by an employee or agent of the state agency or agency of the political subdivision for the purposes of the agency is not a breach of the security of the system, provided that the personal information is not used for an unlawful purpose or subject to further unauthorized disclosure.
+
+(ii) Acquisition of personal information pursuant to a search warrant, subpoena, or other court order, or pursuant to a subpoena, order, or duty of a regulatory state agency, is not a breach of the security of the system.
+
+(3) "Consumer reporting agency that compiles and maintains files on consumers on a nationwide basis" means a consumer reporting agency that regularly engages in the practice of assembling or evaluating, and maintaining, for the purpose of furnishing consumer reports to third parties bearing on a consumer's creditworthiness, credit standing, or credit capacity, each of the following regarding consumers residing nationwide:
+
+(a) Public record information;
+
+(b) Credit account information from persons who furnish that information regularly and in the ordinary course of business.
+
+(4) "Encryption" means the use of an algorithmic process to transform data into a form in which there is a low probability of assigning meaning without use of a confidential process or key.
+
+(5) "Individual" means a natural person.
+
+(6)(a) "Personal information" means, notwithstanding section 1347.01 of the Revised Code, an individual's name, consisting of the individual's first name or first initial and last name, in combination with and linked to any one or more of the following data elements, when the data elements are not encrypted, redacted, or altered by any method or technology in such a manner that the data elements are unreadable:
+
+(i) Social security number;
+
+(ii) Driver's license number or state identification card number;
+
+(iii) Account number or credit or debit card number, in combination with and linked to any required security code, access code, or password that would permit access to an individual's financial account.
+
+(b) "Personal information" does not include publicly available information that is lawfully made available to the general public from federal, state, or local government records or any of the following media that are widely distributed:
+
+(i) Any news, editorial, or advertising statement published in any bona fide newspaper, journal, or magazine, or broadcast over radio or television;
+
+(ii) Any gathering or furnishing of information or news by any bona fide reporter, correspondent, or news bureau to news media described in division (A)(6)(b)(i) of this section;
+
+(iii) Any publication designed for and distributed to members of any bona fide association or charitable or fraternal nonprofit corporation;
+
+(iv) Any type of media similar in nature to any item, entity, or activity identified in division (A)(6)(b)(i), (ii), or (iii) of this section.
+
+(7) "Political subdivision" has the same meaning as in section 2744.01 of the Revised Code.
+
+(8) "Record" means any information that is stored in an electronic medium and is retrievable in perceivable form. "Record" does not include any publicly available directory containing information an individual voluntarily has consented to have publicly disseminated or listed, such as name, address, or telephone number.
+
+(9) "Redacted" means altered or truncated so that no more than the last four digits of a social security number, driver's license number, state identification card number, account number, or credit or debit card number is accessible as part of the data.
+
+(10) "State agency" has the same meaning as in section 1.60 of the Revised Code, except that "state agency" does not include an agency that is a covered entity as defined in 45 C.F.R. 160.103, as amended.
+
+(11) "System" means, notwithstanding section 1347.01 of the Revised Code, any collection or group of related records that are kept in an organized manner, that are maintained by a state agency or an agency of a political subdivision, and from which personal information is retrieved by the name of the individual or by some identifying number, symbol, or other identifier assigned to the individual. "System" does not include any collected archival records in the custody of or administered under the authority of the Ohio history connection, any published directory, any reference material or newsletter, or any routine information that is maintained for the purpose of internal office administration of the agency, if the use of the directory, material, newsletter, or information would not adversely affect an individual and if there has been no unauthorized external breach of the directory, material, newsletter, or information.
+
+(B)(1) Any state agency or agency of a political subdivision that owns or licenses computerized data that includes personal information shall disclose any breach of the security of the system, following its discovery or notification of the breach of the security of the system, to any resident of this state whose personal information was, or reasonably is believed to have been, accessed and acquired by an unauthorized person if the access and acquisition by the unauthorized person causes or reasonably is believed will cause a material risk of identity theft or other fraud to the resident. The disclosure described in this division may be made pursuant to any provision of a contract entered into by the state agency or agency of a political subdivision with any person or another state agency or agency of a political subdivision prior to the date the breach of the security of the system occurred if that contract does not conflict with any provision of this section. For purposes of this section, a resident of this state is an individual whose principal mailing address as reflected in the records of the state agency or agency of a political subdivision is in this state.
+
+(2) The state agency or agency of a political subdivision shall make the disclosure described in division (B)(1) of this section in the most expedient time possible but not later than forty-five days following its discovery or notification of the breach in the security of the system, subject to the legitimate needs of law enforcement activities described in division (D) of this section and consistent with any measures necessary to determine the scope of the breach, including which residents' personal information was accessed and acquired, and to restore the reasonable integrity of the data system.
+
+(C) Any state agency or agency of a political subdivision that, on behalf of or at the direction of another state agency or agency of a political subdivision, is the custodian of or stores computerized data that includes personal information shall notify that other state agency or agency of a political subdivision of any breach of the security of the system in an expeditious manner, if the personal information was, or reasonably is believed to have been, accessed and acquired by an unauthorized person and if the access and acquisition by the unauthorized person causes or reasonably is believed will cause a material risk of identity theft or other fraud to a resident of this state.
+
+(D) The state agency or agency of a political subdivision may delay the disclosure or notification required by division (B), (C), or (F) of this section if a law enforcement agency determines that the disclosure or notification will impede a criminal investigation or jeopardize homeland or national security, in which case, the state agency or agency of a political subdivision shall make the disclosure or notification after the law enforcement agency determines that disclosure or notification will not compromise the investigation or jeopardize homeland or national security.
+
+(E) For purposes of this section, a state agency or agency of a political subdivision may disclose or make a notification by any of the following methods:
+
+(1) Written notice;
+
+(2) Electronic notice, if the state agency's or agency of a political subdivision's primary method of communication with the resident to whom the disclosure must be made is by electronic means;
+
+(3) Telephone notice;
+
+(4) Substitute notice in accordance with this division, if the state agency or agency of a political subdivision required to disclose demonstrates that the agency does not have sufficient contact information to provide notice in a manner described in division (E)(1), (2), or (3) of this section, or that the cost of providing disclosure or notice to residents to whom disclosure or notification is required would exceed two hundred fifty thousand dollars, or that the affected class of subject residents to whom disclosure or notification is required exceeds five hundred thousand persons. Substitute notice under this division shall consist of all of the following:
+
+(a) Electronic mail notice if the state agency or agency of a political subdivision has an electronic mail address for the resident to whom the disclosure must be made;
+
+(b) Conspicuous posting of the disclosure or notice on the state agency's or agency of a political subdivision's web site, if the agency maintains one;
+
+(c) Notification to major media outlets, to the extent that the cumulative total of the readership, viewing audience, or listening audience of all of the outlets so notified equals or exceeds seventy-five per cent of the population of this state.
+
+(5) Substitute notice in accordance with this division, if the state agency or agency of a political subdivision required to disclose demonstrates that the agency has ten employees or fewer and that the cost of providing the disclosures or notices to residents to whom disclosure or notification is required will exceed ten thousand dollars. Substitute notice under this division shall consist of all of the following:
+
+(a) Notification by a paid advertisement in a local newspaper that is distributed in the geographic area in which the state agency or agency of a political subdivision is located, which advertisement shall be of sufficient size that it covers at least one-quarter of a page in the newspaper and shall be published in the newspaper at least once a week for three consecutive weeks;
+
+(b) Conspicuous posting of the disclosure or notice on the state agency's or agency of a political subdivision's web site, if the agency maintains one;
+
+(c) Notification to major media outlets in the geographic area in which the state agency or agency of a political subdivision is located.
+
+(F) If a state agency or agency of a political subdivision discovers circumstances that require disclosure under this section to more than one thousand residents of this state involved in a single occurrence of a breach of the security of the system, the state agency or agency of a political subdivision shall notify, without unreasonable delay, all consumer reporting agencies that compile and maintain files on consumers on a nationwide basis of the timing, distribution, and content of the disclosure given by the state agency or agency of a political subdivision to the residents of this state. In no case shall a state agency or agency of a political subdivision that is required to make a notification required by this division delay any disclosure or notification required by division (B) or (C) of this section in order to make the notification required by this division.
+
+(G) The attorney general, pursuant to sections 1349.191 and 1349.192 of the Revised Code, may conduct an investigation and bring a civil action upon an alleged failure by a state agency or agency of a political subdivision to comply with the requirements of this section.

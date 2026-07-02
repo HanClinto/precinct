@@ -1,0 +1,50 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3734.48
+Scraped: 2026-07-02T20:00:34+00:00
+
+# Section 3734.48 - Coal combustion residuals.
+
+**Effective:** October 3, 2023
+
+**Latest Legislation:** House Bill 33 - 135th General Assembly
+
+(A) As used in this section:
+
+(1) "Coal combustion residuals" means fly ash, bottom ash, boiler slag, and flue gas desulfurization materials generated from burning coal for the purpose of generating electricity by electric utilities and independent power producers, as defined in 40 C.F.R. Part 257.
+
+(2) "Coal combustion residuals landfill" means an area of land or an excavation that receives coal combustion residuals that is not a coal combustion residuals surface impoundment, an underground injection well, a salt dome formation, a salt bed formation, an underground or surface mine, or a cave. "Coal combustion residuals landfill" includes sand and gravel pits and quarries that receive coal combustion residuals, coal combustion residuals piles, and any practice that does not meet the definition of a beneficial use of coal combustion residuals under 40 C.F.R. Part 257.
+
+(3) "Coal combustion residuals pile" means any noncontainerized accumulation of solid, nonflowing coal combustion residuals that is placed on the land. "Coal combustion residuals pile" does not mean coal combustion residuals that are beneficially used off-site.
+
+(4) "Coal combustion residuals surface impoundment" means a natural topographic depression, manmade excavation, or diked area that is designed to hold an accumulation of coal combustion residuals and liquids and a coal combustion residual unit at which coal combustion residuals are treated, stored, or disposed in accordance with 40 C.F.R. Part 257.
+
+(5) "Coal combustion residuals unit" means any coal combustion residuals landfill, coal combustion residuals surface impoundment, including any lateral expansion of a coal combustion residuals unit, or a combination thereof. "Coal combustion residuals unit" includes both new units and units existing prior to the effective date of this section unless otherwise specified in 40 C.F.R. Part 257.
+
+(B) The director of environmental protection, in accordance with Chapter 119. of the Revised Code, shall adopt rules having uniform application throughout the state governing coal combustion residuals units. The director shall ensure that the rules are equivalent to, but not more stringent than, 40 C.F.R. Part 257. The rules shall address all of the following:
+
+(1) Additional definitions relating to coal combustion residuals;
+
+(2) Siting criteria;
+
+(3) Groundwater monitoring requirements;
+
+(4) Design and construction requirements;
+
+(5) Financial assurance requirements;
+
+(6) Closure and post-closure requirements;
+
+(7) Any other requirement that the director determines is necessary for the administration of this section.
+
+(C) Except as provided in division (D) of this section, a coal combustion residuals unit that is subject to rules adopted under this section or 40 C.F.R. Part 257 is not subject to any of the following:
+
+(1) Any other section of this chapter;
+
+(2) Rules adopted under any other section of this chapter;
+
+(3) Section 6111.04 of the Revised Code.
+
+(D) The director may adopt rules under this section that require a coal combustion residuals unit to obtain a permit-to-install or national pollutant discharge elimination system permit under section 6111.03 of the Revised Code.
+
+(E) The director shall prescribe and furnish any forms necessary to administer and enforce this section. The director may cooperate with and enter into agreements with other state, local, or federal agencies to carry out the purposes of this section.
+
+Last updated September 26, 2023 at 5:43 PM

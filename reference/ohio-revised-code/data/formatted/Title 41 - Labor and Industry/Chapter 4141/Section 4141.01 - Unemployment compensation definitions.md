@@ -1,0 +1,346 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4141.01
+Scraped: 2026-07-02T20:04:31+00:00
+
+# Section 4141.01 - Unemployment compensation definitions.
+
+**Effective:** September 30, 2025
+
+**Latest Legislation:** House Bill 96 - 136th General Assembly
+
+As used in this chapter, unless the context otherwise requires:
+
+(A)(1) "Employer" means any of the following, provided the individual or entity is subject to this chapter under section 4141.011 of the Revised Code: any state, its instrumentalities, its political subdivisions and their instrumentalities, Indian tribes, and any individual or type of organization including any partnership, limited liability company, association, trust, estate, joint-stock company, insurance company, or corporation, whether domestic or foreign, or the receiver, trustee in bankruptcy, trustee, or the successor thereof, or the legal representative of a deceased person.
+
+(2) Each individual employed to perform or to assist in performing the work of any agent or employee of an employer is employed by such employer for all the purposes of this chapter, whether such individual was hired or paid directly by such employer or by such agent or employee, provided the employer had actual or constructive knowledge of the work. All individuals performing services for an employer of any person in this state who maintains two or more establishments within this state are employed by a single employer for the purposes of this chapter.
+
+(B)(1) "Employment" means service performed by an individual for remuneration under any contract of hire, written or oral, express or implied, including service performed in interstate commerce and service performed by an officer of a corporation, without regard to whether such service is executive, managerial, or manual in nature, and without regard to whether such officer is a stockholder or a member of the board of directors of the corporation, unless it is shown to the satisfaction of the director that such individual has been and will continue to be free from direction or control over the performance of such service, both under a contract of service and in fact. The director of job and family services shall adopt rules to define "direction or control."
+
+(2) "Employment" includes:
+
+(a) Service performed after December 31, 1977, by an individual in the employ of the state or any of its instrumentalities, or any political subdivision thereof or any of its instrumentalities or any instrumentality of more than one of the foregoing or any instrumentality of any of the foregoing and one or more other states or political subdivisions and without regard to division (A) of section 4141.011 of the Revised Code, provided that such service is excluded from employment as defined in the "Federal Unemployment Tax Act," 53 Stat. 183, 26 U.S.C.A. 3301, 3306(c)(7) and is not excluded under division (B)(3) of this section; or the services of employees covered by voluntary election, as provided under divisions (H) and (I) of section 4141.011 of the Revised Code;
+
+(b) Service performed after December 31, 1971, by an individual in the employ of a religious, charitable, educational, or other organization which is excluded from the term "employment" as defined in the "Federal Unemployment Tax Act," 84 Stat. 713, 26 U.S.C.A. 3301 to 3311, solely by reason of section 26 U.S.C.A. 3306(c)(8) of that act and is not excluded under division (B)(3) of this section;
+
+(c) Domestic service performed after December 31, 1977, for an employer, as provided in division (C) of section 4141.011 of the Revised Code;
+
+(d) Agricultural labor performed after December 31, 1977, for a farm operator or a crew leader, as provided in division (D) of section 4141.011 of the Revised Code;
+
+(e) Subject to division (B)(2)(m) of this section, service not covered under division (B)(1) of this section which is performed after December 31, 1971:
+
+(i) As an agent-driver or commission-driver engaged in distributing meat products, vegetable products, fruit products, bakery products, beverages other than milk, laundry, or dry-cleaning services, for the individual's employer or principal;
+
+(ii) As a traveling or city salesperson, other than as an agent-driver or commission-driver, engaged on a full-time basis in the solicitation on behalf of and in the transmission to the salesperson's employer or principal except for sideline sales activities on behalf of some other person of orders from wholesalers, retailers, contractors, or operators of hotels, restaurants, or other similar establishments for merchandise for resale, or supplies for use in their business operations, provided that for the purposes of division (B)(2)(e)(ii) of this section, the services shall be deemed employment if the contract of service contemplates that substantially all of the services are to be performed personally by the individual and that the individual does not have a substantial investment in facilities used in connection with the performance of the services other than in facilities for transportation, and the services are not in the nature of a single transaction that is not a part of a continuing relationship with the person for whom the services are performed.
+
+(f) An individual's entire service performed within or both within and without the state if:
+
+(i) The service is localized in this state.
+
+(ii) The service is not localized in any state, but some of the service is performed in this state and either the base of operations, or if there is no base of operations then the place from which such service is directed or controlled, is in this state or the base of operations or place from which such service is directed or controlled is not in any state in which some part of the service is performed but the individual's residence is in this state.
+
+(g) Service not covered under division (B)(2)(f)(ii) of this section and performed entirely without this state, with respect to no part of which contributions are required and paid under an unemployment compensation law of any other state, the Virgin Islands, Canada, or of the United States, if the individual performing such service is a resident of this state and the director approves the election of the employer for whom such services are performed; or, if the individual is not a resident of this state but the place from which the service is directed or controlled is in this state, the entire services of such individual shall be deemed to be employment subject to this chapter, provided service is deemed to be localized within this state if the service is performed entirely within this state or if the service is performed both within and without this state but the service performed without this state is incidental to the individual's service within the state, for example, is temporary or transitory in nature or consists of isolated transactions;
+
+(h) Service of an individual who is a citizen of the United States, performed outside the United States except in Canada after December 31, 1971, or the Virgin Islands, after December 31, 1971, and before the first day of January of the year following that in which the United States secretary of labor approves the Virgin Islands law for the first time, in the employ of an American employer, other than service which is "employment" under divisions (B)(2)(f) and (g) of this section or similar provisions of another state's law, if:
+
+(i) The employer's principal place of business in the United States is located in this state;
+
+(ii) The employer has no place of business in the United States, but the employer is an individual who is a resident of this state; or the employer is a corporation which is organized under the laws of this state, or the employer is a partnership or a trust and the number of partners or trustees who are residents of this state is greater than the number who are residents of any other state; or
+
+(iii) None of the criteria of divisions (B)(2)(f)(i) and (ii) of this section is met but the employer has elected coverage in this state or the employer having failed to elect coverage in any state, the individual has filed a claim for benefits, based on such service, under this chapter.
+
+(i) For the purposes of division (B)(2)(h) of this section, the term "American employer" means an employer who is an individual who is a resident of the United States; or a partnership, if two-thirds or more of the partners are residents of the United States; or a trust, if all of the trustees are residents of the United States; or a corporation organized under the laws of the United States or of any state, provided the term "United States" includes the states, the District of Columbia, the Commonwealth of Puerto Rico, and the Virgin Islands.
+
+(j) Notwithstanding any other provisions of divisions (B)(1) and (2) of this section, service, except for domestic service in a private home not covered under division (C) of section 4141.011 of the Revised Code, with respect to which a tax is required to be paid under any federal law imposing a tax against which credit may be taken for contributions required to be paid into a state unemployment fund, or service, except for domestic service in a private home not covered under division (C) of section 4141.011 of the Revised Code, which, as a condition for full tax credit against the tax imposed by the "Federal Unemployment Tax Act," 84 Stat. 713, 26 U.S.C.A. 3301 to 3311, is required to be covered under this chapter.
+
+(k) Construction services performed by any individual under a construction contract, as defined in section 4141.39 of the Revised Code, if the director determines that the employer for whom services are performed has the right to direct or control the performance of the services and that the individuals who perform the services receive remuneration for the services performed. The director shall presume that the employer for whom services are performed has the right to direct or control the performance of the services if ten or more of the following criteria apply:
+
+(i) The employer directs or controls the manner or method by which instructions are given to the individual performing services;
+
+(ii) The employer requires particular training for the individual performing services;
+
+(iii) Services performed by the individual are integrated into the regular functioning of the employer;
+
+(iv) The employer requires that services be provided by a particular individual;
+
+(v) The employer hires, supervises, or pays the wages of the individual performing services;
+
+(vi) A continuing relationship between the employer and the individual performing services exists which contemplates continuing or recurring work, even if not full-time work;
+
+(vii) The employer requires the individual to perform services during established hours;
+
+(viii) The employer requires that the individual performing services be devoted on a full-time basis to the business of the employer;
+
+(ix) The employer requires the individual to perform services on the employer's premises;
+
+(x) The employer requires the individual performing services to follow the order of work established by the employer;
+
+(xi) The employer requires the individual performing services to make oral or written reports of progress;
+
+(xii) The employer makes payment to the individual for services on a regular basis, such as hourly, weekly, or monthly;
+
+(xiii) The employer pays expenses for the individual performing services;
+
+(xiv) The employer furnishes the tools and materials for use by the individual to perform services;
+
+(xv) The individual performing services has not invested in the facilities used to perform services;
+
+(xvi) The individual performing services does not realize a profit or suffer a loss as a result of the performance of the services;
+
+(xvii) The individual performing services is not performing services for more than two employers simultaneously;
+
+(xviii) The individual performing services does not make the services available to the general public;
+
+(xix) The employer has a right to discharge the individual performing services;
+
+(xx) The individual performing services has the right to end the individual's relationship with the employer without incurring liability pursuant to an employment contract or agreement.
+
+(l) Service performed by an individual in the employ of an Indian tribe as defined by section 4(e) of the "Indian Self-Determination and Education Assistance Act," 88 Stat. 2204 (1975), 25 U.S.C.A. 450b(e), including any subdivision, subsidiary, or business enterprise wholly owned by an Indian tribe provided that the service is excluded from employment as defined in the "Federal Unemployment Tax Act," 53 Stat. 183 (1939), 26 U.S.C.A. 3301 and 3306(c)(7) and is not excluded under division (B)(3) of this section.
+
+(m) Service performed by an individual for or on behalf of a motor carrier transporting property as an operator of a vehicle or vessel, unless all of the following factors apply to the individual and the motor carrier has not elected to consider the individual's service as employment:
+
+(i) The individual owns the vehicle or vessel that is used in performing the services for or on behalf of the carrier, or the individual leases the vehicle or vessel under a bona fide lease agreement that is not a temporary replacement lease agreement. For purposes of this division, a bona fide lease agreement does not include an agreement between the individual and the motor carrier transporting property for which, or on whose behalf, the individual provides services.
+
+(ii) The individual is responsible for supplying the necessary personal services to operate the vehicle or vessel used to provide the service.
+
+(iii) The compensation paid to the individual is based on factors related to work performed, including on a mileage-based rate or a percentage of any schedule of rates, and not solely on the basis of the hours or time expended.
+
+(iv) The individual substantially controls the means and manner of performing the services, in conformance with regulatory requirements and specifications of the shipper.
+
+(v) The individual enters into a written contract with the carrier for whom the individual is performing the services that describes the relationship between the individual and the carrier to be that of an independent contractor and not that of an employee.
+
+(vi) The individual is responsible for substantially all of the principal operating costs of the vehicle or vessel and equipment used to provide the services, including maintenance, fuel, repairs, supplies, vehicle or vessel insurance, and personal expenses, except that the individual may be paid by the carrier the carrier's fuel surcharge and incidental costs, including tolls, permits, and lumper fees.
+
+(vii) The individual is responsible for any economic loss or economic gain from the arrangement with the carrier.
+
+(viii) The individual is not performing services described in 26 U.S.C. 3306(c)(7) or (8).
+
+(3) "Employment" does not include the following services if they are found not subject to the "Federal Unemployment Tax Act," 84 Stat. 713 (1970), 26 U.S.C.A. 3301 to 3311, and if the services are not required to be included under division (B)(2)(j) of this section:
+
+(a) Service performed after December 31, 1977, in agricultural labor, except as provided in division (D) of section 4141.011 of the Revised Code;
+
+(b) Domestic service performed after December 31, 1977, in a private home, local college club, or local chapter of a college fraternity or sorority except as provided in division (C) of section 4141.011 of the Revised Code;
+
+(c) Service performed after December 31, 1977, for this state or a political subdivision as described in division (B)(2)(a) of this section when performed:
+
+(i) As a publicly elected official;
+
+(ii) As a member of a legislative body, or a member of the judiciary;
+
+(iii) As a military member of the Ohio national guard;
+
+(iv) As an employee, not in the classified service as defined in section 124.11 of the Revised Code, serving on a temporary basis in case of fire, storm, snow, earthquake, flood, or similar emergency;
+
+(v) In a position which, under or pursuant to law, is designated as a major nontenured policymaking or advisory position, not in the classified service of the state, or a policymaking or advisory position the performance of the duties of which ordinarily does not require more than eight hours per week.
+
+(d) In the employ of any governmental unit or instrumentality of the United States;
+
+(e) Service performed after December 31, 1971:
+
+(i) Service in the employ of an educational institution or institution of higher education, including those operated by the state or a political subdivision, if such service is performed by a student who is enrolled and is regularly attending classes at the educational institution or institution of higher education; or
+
+(ii) By an individual who is enrolled at a nonprofit or public educational institution which normally maintains a regular faculty and curriculum and normally has a regularly organized body of students in attendance at the place where its educational activities are carried on as a student in a full-time program, taken for credit at the institution, which combines academic instruction with work experience, if the service is an integral part of the program, and the institution has so certified to the employer, provided that this subdivision shall not apply to service performed in a program established for or on behalf of an employer or group of employers.
+
+(f) Service performed by an individual in the employ of the individual's son, daughter, or spouse and service performed by a child under the age of eighteen in the employ of the child's father or mother;
+
+(g) Service performed for one or more principals by an individual who is compensated on a commission basis, who in the performance of the work is master of the individual's own time and efforts, and whose remuneration is wholly dependent on the amount of effort the individual chooses to expend, and which service is not subject to the "Federal Unemployment Tax Act," 53 Stat. 183 (1939), 26 U.S.C.A. 3301 to 3311. Service performed after December 31, 1971:
+
+(i) By an individual for an employer as an insurance agent or as an insurance solicitor, if all this service is performed for remuneration solely by way of commission;
+
+(ii) As a home worker performing work, according to specifications furnished by the employer for whom the services are performed, on materials or goods furnished by such employer which are required to be returned to the employer or to a person designated for that purpose.
+
+(h) Service performed after December 31, 1971:
+
+(i) In the employ of a church or convention or association of churches, or in an organization which is operated primarily for religious purposes and which is operated, supervised, controlled, or principally supported by a church or convention or association of churches;
+
+(ii) By a duly ordained, commissioned, or licensed minister of a church in the exercise of the individual's ministry or by a member of a religious order in the exercise of duties required by such order; or
+
+(iii) In a facility conducted for the purpose of carrying out a program of rehabilitation for individuals whose earning capacity is impaired by age or physical or mental disability or injury, or providing remunerative work for individuals who because of their impaired physical or mental capacity cannot be readily absorbed in the competitive labor market, by an individual receiving such rehabilitation or remunerative work.
+
+(i) Service performed after June 30, 1939, with respect to which unemployment compensation is payable under the "Railroad Unemployment Insurance Act," 52 Stat. 1094 (1938), 45 U.S.C. 351;
+
+(j) Service performed by an individual in the employ of any organization exempt from income tax under section 501 of the "Internal Revenue Code of 1954," if the remuneration for such service does not exceed fifty dollars in any calendar quarter, or if such service is in connection with the collection of dues or premiums for a fraternal beneficial society, order, or association and is performed away from the home office or is ritualistic service in connection with any such society, order, or association;
+
+(k) Casual labor not in the course of an employer's trade or business; incidental service performed by an officer, appraiser, or member of a finance committee of a bank, building and loan association, savings and loan association, or savings association when the remuneration for such incidental service exclusive of the amount paid or allotted for directors' fees does not exceed sixty dollars per calendar quarter is casual labor;
+
+(l) Service performed in the employ of a voluntary employees' beneficial association providing for the payment of life, sickness, accident, or other benefits to the members of such association or their dependents or their designated beneficiaries, if admission to a membership in such association is limited to individuals who are officers or employees of a municipal or public corporation, of a political subdivision of the state, or of the United States and no part of the net earnings of such association inures, other than through such payments, to the benefit of any private shareholder or individual;
+
+(m) Service performed by an individual in the employ of a foreign government, including service as a consular or other officer or employee or of a nondiplomatic representative;
+
+(n) Service performed in the employ of an instrumentality wholly owned by a foreign government if the service is of a character similar to that performed in foreign countries by employees of the United States or of an instrumentality thereof and if the director finds that the secretary of state of the United States has certified to the secretary of the treasury of the United States that the foreign government, with respect to whose instrumentality exemption is claimed, grants an equivalent exemption with respect to similar service performed in the foreign country by employees of the United States and of instrumentalities thereof;
+
+(o) Service with respect to which unemployment compensation is payable under an unemployment compensation system established by an act of congress;
+
+(p) Service performed as a student nurse in the employ of a hospital or a nurses' training school by an individual who is enrolled and is regularly attending classes in a nurses' training school chartered or approved pursuant to state law, and service performed as an intern in the employ of a hospital by an individual who has completed a four years' course in a medical school chartered or approved pursuant to state law;
+
+(q) Service performed by an individual under the age of eighteen in the delivery or distribution of newspapers or shopping news, not including delivery or distribution to any point for subsequent delivery or distribution;
+
+(r) Service performed in the employ of the United States or an instrumentality of the United States immune under the Constitution of the United States from the contributions imposed by this chapter, except that to the extent that congress permits states to require any instrumentalities of the United States to make payments into an unemployment fund under a state unemployment compensation act, this chapter shall be applicable to such instrumentalities and to services performed for such instrumentalities in the same manner, to the same extent, and on the same terms as to all other employers, individuals, and services, provided that if this state is not certified for any year by the proper agency of the United States under section 3304 of the "Internal Revenue Code of 1954," the payments required of such instrumentalities with respect to such year shall be refunded by the director from the fund in the same manner and within the same period as is provided in division (E) of section 4141.09 of the Revised Code with respect to contributions erroneously collected;
+
+(s) Service performed by an individual as a member of a band or orchestra, provided such service does not represent the principal occupation of such individual, and which service is not subject to or required to be covered for full tax credit against the tax imposed by the "Federal Unemployment Tax Act," 53 Stat. 183 (1939), 26 U.S.C.A. 3301 to 3311.
+
+(t) Service performed in the employ of a day camp whose camping season does not exceed twelve weeks in any calendar year, and which service is not subject to the "Federal Unemployment Tax Act," 53 Stat. 183 (1939), 26 U.S.C.A. 3301 to 3311. Service performed after December 31, 1971:
+
+(i) In the employ of a hospital, if the service is performed by a patient of the hospital, as defined in division (W) of this section;
+
+(ii) For a prison or other correctional institution by an inmate of the prison or correctional institution;
+
+(iii) Service performed after December 31, 1977, by an inmate of a custodial institution operated by the state, a political subdivision, or a nonprofit organization.
+
+(u) Service that is performed by a nonresident alien individual for the period the individual temporarily is present in the United States as a nonimmigrant under division (F), (J), (M), or (Q) of section 101(a)(15) of the "Immigration and Nationality Act," 66 Stat. 163, 8 U.S.C.A. 1101, as amended, that is excluded under section 3306(c)(19) of the "Federal Unemployment Tax Act," 53 Stat. 183 (1939), 26 U.S.C.A. 3301 to 3311.
+
+(v) Notwithstanding any other provisions of division (B)(3) of this section, services that are excluded under divisions (B)(3)(g), (j), (k), and (l) of this section shall not be excluded from employment when performed for a nonprofit organization, as defined in division (X) of this section, or for this state or its instrumentalities, or for a political subdivision or its instrumentalities or for Indian tribes;
+
+(w) Service that is performed by an individual working as an election official or election worker if the amount of remuneration received by the individual during the calendar year for services as an election official or election worker is less than one thousand dollars;
+
+(x) Service performed for an elementary or secondary school that is operated primarily for religious purposes, that is described in subsection 501(c)(3) and exempt from federal income taxation under subsection 501(a) of the Internal Revenue Code, 26 U.S.C.A. 501;
+
+(y) Service performed by a person committed to a penal institution.
+
+(z) Service performed for an Indian tribe as described in division (B)(2)(l) of this section when performed in any of the following manners:
+
+(i) As a publicly elected official;
+
+(ii) As a member of an Indian tribal council;
+
+(iii) As a member of a legislative or judiciary body;
+
+(iv) In a position which, pursuant to Indian tribal law, is designated as a major nontenured policymaking or advisory position, or a policymaking or advisory position where the performance of the duties ordinarily does not require more than eight hours of time per week;
+
+(v) As an employee serving on a temporary basis in the case of a fire, storm, snow, earthquake, flood, or similar emergency.
+
+(aa) Service performed after December 31, 1971, for a nonprofit organization, this state or its instrumentalities, a political subdivision or its instrumentalities, or an Indian tribe as part of an unemployment work-relief or work-training program assisted or financed in whole or in part by any federal agency or an agency of a state or political subdivision, thereof, by an individual receiving the work-relief or work-training.
+
+(bb) Participation in a learn to earn program as defined in section 4141.293 of the Revised Code.
+
+(4) If the services performed during one half or more of any pay period by an employee for the person employing that employee constitute employment, all the services of such employee for such period shall be deemed to be employment; but if the services performed during more than one half of any such pay period by an employee for the person employing that employee do not constitute employment, then none of the services of such employee for such period shall be deemed to be employment. As used in division (B)(4) of this section, "pay period" means a period, of not more than thirty-one consecutive days, for which payment of remuneration is ordinarily made to the employee by the person employing that employee. Division (B)(4) of this section does not apply to services performed in a pay period by an employee for the person employing that employee, if any of such service is excepted by division (B)(3)(o) of this section.
+
+(C) "Benefits" means money payments payable to an individual who has established benefit rights, as provided in this chapter, for loss of remuneration due to the individual's unemployment.
+
+(D) "Benefit rights" means the weekly benefit amount and the maximum benefit amount that may become payable to an individual within the individual's benefit year as determined by the director.
+
+(E) "Claim for benefits" means a claim for waiting period or benefits for a designated week.
+
+(F) "Additional claim" means the first claim for benefits filed following any separation from employment during a benefit year; "continued claim" means any claim other than the first claim for benefits and other than an additional claim.
+
+(G) "Wages" means remuneration paid to an employee by each of the employee's employers with respect to employment; except that wages shall not include that part of remuneration paid during any calendar year to an individual by an employer or such employer's predecessor in interest in the same business or enterprise, which in any calendar year is in excess of nine thousand dollars on and after January 1, 1995; nine thousand five hundred dollars on and after January 1, 2018; and nine thousand dollars on and after January 1, 2020. Remuneration in excess of such amounts shall be deemed wages subject to contribution to the same extent that such remuneration is defined as wages under the "Federal Unemployment Tax Act," 84 Stat. 714 (1970), 26 U.S.C.A. 3301 to 3311, as amended. The remuneration paid an employee by an employer with respect to employment in another state, upon which contributions were required and paid by such employer under the unemployment compensation act of such other state, shall be included as a part of remuneration in computing the amount specified in this division.
+
+(H)(1) "Remuneration" means all compensation for personal services, including commissions and bonuses and the cash value of all compensation in any medium other than cash, except that in the case of agricultural or domestic service, "remuneration" includes only cash remuneration. Gratuities customarily received by an individual in the course of the individual's employment from persons other than the individual's employer and which are accounted for by such individual to the individual's employer are taxable wages.
+
+The reasonable cash value of compensation paid in any medium other than cash shall be estimated and determined in accordance with rules prescribed by the director, provided that "remuneration" does not include:
+
+(a) Payments as provided in divisions (b)(2) to (b)(20) of section 3306 of the "Federal Unemployment Tax Act," 84 Stat. 713, 26 U.S.C.A. 3301 to 3311, as amended;
+
+(b) The payment by an employer, without deduction from the remuneration of the individual in the employer's employ, of the tax imposed upon an individual in the employer's employ under section 3101 of the "Internal Revenue Code of 1954," with respect to services performed after October 1, 1941.
+
+(2) "Cash remuneration" means all remuneration paid in cash, including commissions and bonuses, but not including the cash value of all compensation in any medium other than cash.
+
+(I) "Interested party" means the director and any party to whom notice of a determination of an application for benefit rights or a claim for benefits is required to be given under section 4141.28 of the Revised Code.
+
+(J) "Annual payroll" means the total amount of wages subject to contributions during a twelve-month period ending with the last day of the second calendar quarter of any calendar year.
+
+(K) "Average annual payroll" means the average of the last three annual payrolls of an employer, provided that if, as of any computation date, the employer has had less than three annual payrolls in such three-year period, such average shall be based on the annual payrolls which the employer has had as of such date.
+
+(L)(1) "Contributions" means the money payments to the state unemployment compensation fund required of employers by section 4141.25 of the Revised Code and of the state and any of its political subdivisions electing to pay contributions under section 4141.242 of the Revised Code. Employers paying contributions shall be described as "contributory employers."
+
+(2) "Payments in lieu of contributions" means the money payments to the state unemployment compensation fund required of reimbursing employers under sections 4141.241 and 4141.242 of the Revised Code.
+
+(M) An individual is "totally unemployed" in any week during which the individual performs no services and with respect to such week no remuneration is payable to the individual.
+
+(N) An individual is "partially unemployed" in any week if, due to involuntary loss of work, the total remuneration payable to the individual for such week is less than the individual's weekly benefit amount.
+
+(O) "Week" means the calendar week ending at midnight Saturday unless an equivalent week of seven consecutive calendar days is prescribed by the director.
+
+(1) "Qualifying week" means any calendar week in an individual's base period with respect to which the individual earns or is paid remuneration in employment subject to this chapter. A calendar week with respect to which an individual earns remuneration but for which payment was not made within the base period, when necessary to qualify for benefit rights, may be considered to be a qualifying week. The number of qualifying weeks which may be established in a calendar quarter shall not exceed the number of calendar weeks in the quarter.
+
+(2) "Average weekly wage" means the amount obtained by dividing an individual's total remuneration for all qualifying weeks during the base period by the number of such qualifying weeks, provided that if the computation results in an amount that is not a multiple of one dollar, such amount shall be rounded to the next lower multiple of one dollar.
+
+(P) "Weekly benefit amount" means the amount of benefits an individual would be entitled to receive for one week of total unemployment.
+
+(Q)(1) "Base period" means the first four of the last five completed calendar quarters immediately preceding the first day of an individual's benefit year, except as provided in division (Q)(2) of this section.
+
+(2) If an individual does not have sufficient qualifying weeks and wages in the base period to qualify for benefit rights, the individual's base period shall be the four most recently completed calendar quarters preceding the first day of the individual's benefit year. Such base period shall be known as the "alternate base period." If information as to weeks and wages for the most recent quarter of the alternate base period is not available to the director from the regular quarterly reports of wage information, which are systematically accessible, the director may, consistent with the provisions of section 4141.28 of the Revised Code, base the determination of eligibility for benefits on the affidavit of the claimant with respect to weeks and wages for that calendar quarter. The claimant shall furnish payroll documentation, where available, in support of the affidavit. The determination based upon the alternate base period as it relates to the claimant's benefit rights, shall be amended when the quarterly report of wage information from the employer is timely received and that information causes a change in the determination. As provided in division (B) of section 4141.28 of the Revised Code, any benefits paid and charged to an employer's account, based upon a claimant's affidavit, shall be adjusted effective as of the beginning of the claimant's benefit year. No calendar quarter in a base period or alternate base period shall be used to establish a subsequent benefit year.
+
+(3) The "base period" of a combined wage claim, as described in division (H) of section 4141.43 of the Revised Code, shall be the base period prescribed by the law of the state in which the claim is allowed.
+
+(4) For purposes of determining the weeks that comprise a completed calendar quarter under this division, only those weeks ending at midnight Saturday within the calendar quarter shall be utilized.
+
+(R)(1) "Benefit year" with respect to an individual means the fifty-two week period beginning with the first day of that week with respect to which the individual first files a valid application for determination of benefit rights, and thereafter the fifty-two week period beginning with the first day of that week with respect to which the individual next files a valid application for determination of benefit rights after the termination of the individual's last preceding benefit year, except that the application shall not be considered valid unless the individual has had employment in six weeks that is subject to this chapter or the unemployment compensation act of another state, or the United States, and has, since the beginning of the individual's previous benefit year, in the employment earned three times the average weekly wage determined for the previous benefit year. The "benefit year" of a combined wage claim, as described in division (H) of section 4141.43 of the Revised Code, shall be the benefit year prescribed by the law of the state in which the claim is allowed. Any application for determination of benefit rights made in accordance with section 4141.28 of the Revised Code is valid if the individual filing such application is unemployed, has been employed by an employer or employers subject to this chapter in at least twenty qualifying weeks within the individual's base period, and has earned or been paid remuneration at an average weekly wage of not less than twenty-seven and one-half per cent of the statewide average weekly wage for such weeks. For purposes of determining whether an individual has had sufficient employment since the beginning of the individual's previous benefit year to file a valid application, "employment" means the performance of services for which remuneration is payable.
+
+(2) Effective for benefit years beginning on and after December 26, 2004, but before July 1, 2022, any application for determination of benefit rights made in accordance with section 4141.28 of the Revised Code is valid if the individual satisfies the criteria described in division (R)(1) of this section, and if the reason for the individual's separation from employment is not disqualifying pursuant to division (D)(2) of section 4141.29 or section 4141.291 of the Revised Code. A disqualification imposed pursuant to division (D)(2) of section 4141.29 or section 4141.291 of the Revised Code must be removed as provided in those sections as a requirement of establishing a valid application for benefit years beginning on and after December 26, 2004, but before July 1, 2022. Effective for benefit years beginning on and after July 1, 2022, any application for determination of benefit rights made in accordance with section 4141.28 of the Revised Code is valid if the individual satisfies the criteria described in division (R)(1) of this section. A disqualification imposed pursuant to division (D)(2) of section 4141.29 or section 4141.291 of the Revised Code does not affect the validity of an application.
+
+(3) The statewide average weekly wage shall be calculated by the director once a year based on the twelve-month period ending the thirtieth day of June, as set forth in division (B)(3) of section 4141.30 of the Revised Code, rounded down to the nearest dollar. Increases or decreases in the amount of remuneration required to have been earned or paid in order for individuals to have filed valid applications shall become effective on Sunday of the calendar week in which the first day of January occurs that follows the twelve-month period ending the thirtieth day of June upon which the calculation of the statewide average weekly wage was based.
+
+(4) As used in this division, an individual is "unemployed" if, with respect to the calendar week in which such application is filed, the individual is "partially unemployed" or "totally unemployed" as defined in this section or if, prior to filing the application, the individual was separated from the individual's most recent work for any reason which terminated the individual's employee-employer relationship, or was laid off indefinitely or for a definite period of seven or more days.
+
+(S) "Calendar quarter" means the period of three consecutive calendar months ending on the thirty-first day of March, the thirtieth day of June, the thirtieth day of September, and the thirty-first day of December, or the equivalent thereof as the director prescribes by rule.
+
+(T) "Computation date" means the first day of the third calendar quarter of any calendar year.
+
+(U) "Contribution period" means the calendar year beginning on the first day of January of any year.
+
+(V) "Agricultural labor," for the purpose of this division, means any service performed prior to January 1, 1972, which was agricultural labor as defined in this division prior to that date, and service performed after December 31, 1971:
+
+(1) On a farm, in the employ of any person, in connection with cultivating the soil, or in connection with raising or harvesting any agricultural or horticultural commodity, including the raising, shearing, feeding, caring for, training, and management of livestock, bees, poultry, and fur-bearing animals and wildlife;
+
+(2) In the employ of the owner or tenant or other operator of a farm in connection with the operation, management, conservation, improvement, or maintenance of such farm and its tools and equipment, or in salvaging timber or clearing land of brush and other debris left by hurricane, if the major part of such service is performed on a farm;
+
+(3) In connection with the production or harvesting of any commodity defined as an agricultural commodity in section 15 (g) of the "Agricultural Marketing Act," 46 Stat. 1550 (1931), 12 U.S.C. 1141j, as amended, or in connection with the ginning of cotton, or in connection with the operation or maintenance of ditches, canals, reservoirs, or waterways, not owned or operated for profit, used exclusively for supplying and storing water for farming purposes;
+
+(4) In the employ of the operator of a farm in handling, planting, drying, packing, packaging, processing, freezing, grading, storing, or delivering to storage or to market or to a carrier for transportation to market, in its unmanufactured state, any agricultural or horticultural commodity, but only if the operator produced more than one half of the commodity with respect to which such service is performed;
+
+(5) In the employ of a group of operators of farms, or a cooperative organization of which the operators are members, in the performance of service described in division (V)(4) of this section, but only if the operators produced more than one-half of the commodity with respect to which the service is performed;
+
+(6) Divisions (V)(4) and (5) of this section shall not be deemed to be applicable with respect to service performed:
+
+(a) In connection with commercial canning or commercial freezing or in connection with any agricultural or horticultural commodity after its delivery to a terminal market for distribution for consumption; or
+
+(b) On a farm operated for profit if the service is not in the course of the employer's trade or business.
+
+As used in division (V) of this section, "farm" includes stock, dairy, poultry, fruit, fur-bearing animal, and truck farms, plantations, ranches, nurseries, ranges, greenhouses, or other similar structures used primarily for the raising of agricultural or horticultural commodities and orchards.
+
+(W) "Hospital" means an institution which has been registered or licensed by the Ohio department of health as a hospital.
+
+(X) "Nonprofit organization" means an organization, or group of organizations, described in section 501(c)(3) of the "Internal Revenue Code of 1954," and exempt from income tax under section 501(a) of that code.
+
+(Y) "Institution of higher education" means a public or nonprofit educational institution, including an educational institution operated by an Indian tribe, which:
+
+(1) Admits as regular students only individuals having a certificate of graduation from a high school, or the recognized equivalent;
+
+(2) Is legally authorized in this state or by the Indian tribe to provide a program of education beyond high school; and
+
+(3) Provides an educational program for which it awards a bachelor's or higher degree, or provides a program which is acceptable for full credit toward such a degree, a program of post-graduate or post-doctoral studies, or a program of training to prepare students for gainful employment in a recognized occupation.
+
+For the purposes of this division, all colleges and universities in this state are institutions of higher education.
+
+(Z) For the purposes of this chapter, "states" includes the District of Columbia, the Commonwealth of Puerto Rico, and the Virgin Islands.
+
+(AA) "Alien" means, for the purposes of division (D) of section 4141.011 of the Revised Code, an individual who is an alien admitted to the United States to perform service in agricultural labor pursuant to sections 214 (c) and 101 (a)(15)(H) of the "Immigration and Nationality Act," 66 Stat. 163, 8 U.S.C.A. 1101.
+
+(BB)(1) "Crew leader" means an individual who furnishes individuals to perform agricultural labor for any other employer or farm operator, and:
+
+(a) Pays, either on the individual's own behalf or on behalf of the other employer or farm operator, the individuals so furnished by the individual for the service in agricultural labor performed by them;
+
+(b) Has not entered into a written agreement with the other employer or farm operator under which the agricultural worker is designated as in the employ of the other employer or farm operator.
+
+(2) For the purposes of this chapter, any individual who is a member of a crew furnished by a crew leader to perform service in agricultural labor for any other employer or farm operator shall be treated as an employee of the crew leader if:
+
+(a) The crew leader holds a valid certificate of registration under the "Farm Labor Contractor Registration Act of 1963," 90 Stat. 2668, 7 U.S.C. 2041; or
+
+(b) Substantially all the members of the crew operate or maintain tractors, mechanized harvesting or crop-dusting equipment, or any other mechanized equipment, which is provided by the crew leader; and
+
+(c) If the individual is not in the employment of the other employer or farm operator within the meaning of division (B)(1) of this section.
+
+(3) For the purposes of this division, any individual who is furnished by a crew leader to perform service in agricultural labor for any other employer or farm operator and who is not treated as in the employment of the crew leader under division (BB)(2) of this section shall be treated as the employee of the other employer or farm operator and not of the crew leader. The other employer or farm operator shall be treated as having paid cash remuneration to the individual in an amount equal to the amount of cash remuneration paid to the individual by the crew leader, either on the crew leader's own behalf or on behalf of the other employer or farm operator, for the service in agricultural labor performed for the other employer or farm operator.
+
+(CC) "Educational institution" means an institution other than an institution of higher education as defined in division (Y) of this section, including an educational institution operated by an Indian tribe, which:
+
+(1) Offers participants, trainees, or students an organized course of study or training designed to transfer to them knowledge, skills, information, doctrines, attitudes, or abilities from, by, or under the guidance of an instructor or teacher; and
+
+(2) Is approved, chartered, or issued a permit to operate as a school by the director of education and workforce, other government agency, or Indian tribe that is authorized within the state to approve, charter, or issue a permit for the operation of a school.
+
+For the purposes of this division, the courses of study or training which the institution offers may be academic, technical, trade, or preparation for gainful employment in a recognized occupation.
+
+(DD) "Cost savings day" means any unpaid day off from work in which employees continue to accrue employee benefits which have a determinable value including, but not limited to, vacation, pension contribution, sick time, and life and health insurance.
+
+(EE) "Motor carrier" has the same meaning as in section 4923.01 of the Revised Code.
+
+Last updated August 7, 2025 at 3:48 PM

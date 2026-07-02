@@ -1,0 +1,75 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-705
+Scraped: 2026-07-02T19:33:19+00:00
+
+# Chapter 705 - Plans Of Government
+
+## Sections
+
+- Section 705.01 - Petition for submission of question of organizing municipal corporation under a specific plan.
+- Section 705.02 - Effect of petition for submission of question of choosing commission to frame charter on petition to adopt optional plan.
+- Section 705.03 - Form of ballot in submitting question of organizing under plan.
+- Section 705.04 - Adoption of plan.
+- Section 705.05 - Submission of supplementary propositions.
+- Section 705.06 - Board of elections shall file certificate of election results.
+- Section 705.07 - Sections applicable to each plan.
+- Section 705.08 - Treasurer - duties.
+- Section 705.09 - Auditor - duties.
+- Section 705.10 - Clerk - duties.
+- Section 705.11 - Village solicitor or city director of law - duties.
+- Section 705.12 - Qualifications of members of legislative authority.
+- Section 705.13 - Salaries and attendance of members.
+- Section 705.14 - Election of chairman and vice-chairman.
+- Section 705.15 - Powers of legislative authority.
+- Section 705.16 - Publication of ordinances or resolutions.
+- Section 705.17 - Annual tax ordinance.
+- Section 705.18 - Annual appropriation ordinance - supplemental appropriation.
+- Section 705.19 - Limitation on appropriations.
+- Section 705.20 - Payment of claims - procedure.
+- Section 705.21 - Investigations by municipal corporation - production of testimony.
+- Section 705.22 - Annual report of municipal corporation.
+- Section 705.23 - Municipal civil service commission - qualifications, term, and vacancies of members.
+- Section 705.24 - Salaries and duties of commission members.
+- Section 705.25 - Disposition of fees and perquisites.
+- Section 705.26 - Duties of officers and employees of a municipal corporation.
+- Section 705.27 - Bonds.
+- Section 705.28 - Oath of office.
+- Section 705.29 - Transfer of powers and duties of abolished office or department.
+- Section 705.30 - Abandonment of plan - special election.
+- Section 705.31 - Preparation of ballots.
+- Section 705.32 - Determination of elected candidates.
+- Section 705.41 - Commission plan.
+- Section 705.42 - Election - term - vacancies.
+- Section 705.43 - Meetings of commission - legislative and administrative sessions.
+- Section 705.44 - Signing of ordinances under commission plan.
+- Section 705.45 - Powers of commission.
+- Section 705.46 - Administrative officers appointed by commission.
+- Section 705.47 - Creation and discontinuance of offices under commission plan.
+- Section 705.48 - Supervision of departments by commissioners.
+- Section 705.51 - City manager plan.
+- Section 705.52 - Size of council - term of councilmen - vacancies.
+- Section 705.53 - Meetings of council.
+- Section 705.54 - Signing of ordinances under city manager plan.
+- Section 705.55 - Powers exercised by council.
+- Section 705.56 - Administrative officers appointed by council.
+- Section 705.57 - Creation and discontinuance of offices under city manager plan.
+- Section 705.58 - Appointment and term of city manager - vacancy.
+- Section 705.59 - Duties of city manager.
+- Section 705.60 - Salary - oath - bond - seal.
+- Section 705.71 - Federal plan - elective officers.
+- Section 705.72 - Council - number of members - term.
+- Section 705.73 - Division into wards on basis of population.
+- Section 705.74 - Meetings of council - special sessions.
+- Section 705.75 - Mayor's veto.
+- Section 705.76 - Creation and discontinuance of offices under federal plan.
+- Section 705.77 - Executive power.
+- Section 705.78 - Election of mayor - appointment of department heads.
+- Section 705.79 - Powers and duties of mayor.
+- Section 705.80 - Appointment and removal of officers.
+- Section 705.81 - Acting mayor - order of succession.
+- Section 705.82 - Director of public service - duties.
+- Section 705.83 - Director of public safety - duties.
+- Section 705.84 - Powers and duties of board of control.
+- Section 705.85 - Mayor and department heads shall have seats in council.
+- Section 705.86 - Powers under federal plan.
+- Section 705.91 - Initiative and referendum applicable to each plan.
+- Section 705.92 - Procedure for removal of elective officer by recall.

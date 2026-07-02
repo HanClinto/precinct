@@ -1,0 +1,357 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 4703.01 - State board of examiners of architects.",
+      "number": "4703.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4703.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4703.02 - Board organization - examinations.",
+      "number": "4703.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4703.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4703.03 - Enforcement.",
+      "number": "4703.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4703.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4703.04 - Reports.",
+      "number": "4703.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4703.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4703.05 - Quorum of board.",
+      "number": "4703.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4703.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4703.06 - Certificate required - title - intern/emeritus architects.",
+      "number": "4703.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4703.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4703.07 - License qualifications.",
+      "number": "4703.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4703.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4703.071 - Architecture education assistance program.",
+      "number": "4703.071",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4703.071"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4703.08 - Reciprocity.",
+      "number": "4703.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4703.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4703.09 - Examinations.",
+      "number": "4703.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4703.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4703.10 - Certificate of qualification to practice architecture.",
+      "number": "4703.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4703.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4703.11 - Register of certificates.",
+      "number": "4703.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4703.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4703.12 - Term - seal.",
+      "number": "4703.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4703.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4703.13 - Applying for renewal.",
+      "number": "4703.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4703.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4703.14 - Renewal after expiration.",
+      "number": "4703.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4703.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4703.15 - Disciplinary actions - fines.",
+      "number": "4703.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4703.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4703.151 - Disciplinary actions.",
+      "number": "4703.151",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4703.151"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4703.16 - Fees.",
+      "number": "4703.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4703.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4703.17 - Exceptions.",
+      "number": "4703.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4703.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4703.18 - Prohibiting practice without certificate.",
+      "number": "4703.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4703.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4703.181 - Injunctions.",
+      "number": "4703.181",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4703.181"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4703.182 - Unauthorized practice.",
+      "number": "4703.182",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4703.182"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4703.19 - Attorney general duties - complaints.",
+      "number": "4703.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4703.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4703.20 - Architect lien definitions.",
+      "number": "4703.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4703.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4703.201 - Architect lien on commercial real estate.",
+      "number": "4703.201",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4703.201"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4703.202 - Perfection of architect lien.",
+      "number": "4703.202",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4703.202"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4703.203 - Enforcement of architect lien.",
+      "number": "4703.203",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4703.203"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4703.204 - Satisfaction and release of architect lien.",
+      "number": "4703.204",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4703.204"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4703.205 - Architect lien release affidavit.",
+      "number": "4703.205",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4703.205"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4703.206 - Substitution of financial security for architect lien.",
+      "number": "4703.206",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4703.206"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4703.30 - Landscape architect definitions.",
+      "number": "4703.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4703.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4703.31 - Ohio landscape architects board.",
+      "number": "4703.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4703.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4703.32 - Use of titles; unauthorized practice.",
+      "number": "4703.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4703.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4703.33 - Powers and duties of board.",
+      "number": "4703.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4703.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4703.331 - Offering services through authorized business entity.",
+      "number": "4703.331",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4703.331"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4703.332 - Design-build construction contracts.",
+      "number": "4703.332",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4703.332"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4703.34 - Applying for registration.",
+      "number": "4703.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4703.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4703.35 - Reciprocity.",
+      "number": "4703.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4703.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4703.36 - Qualifications for registration.",
+      "number": "4703.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4703.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4703.37 - Fees.",
+      "number": "4703.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4703.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4703.38 - Rules to set fees.",
+      "number": "4703.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4703.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4703.41 - Disciplinary actions.",
+      "number": "4703.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4703.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4703.411 - Prohibited acts.",
+      "number": "4703.411",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4703.411"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4703.44 - Administrative powers.",
+      "number": "4703.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4703.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4703.46 - Violations - injunctions.",
+      "number": "4703.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4703.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4703.49 - Attorney general - prosecutions.",
+      "number": "4703.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4703.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4703.50 - Depositing receipts.",
+      "number": "4703.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4703.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4703.51 - Fees in excess of statutory amounts.",
+      "number": "4703.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4703.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4703.52 - Effect of child support default on certificate or permit.",
+      "number": "4703.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4703.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4703.53 - Compliance with law regarding sanctions for human trafficking.",
+      "number": "4703.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4703.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4703.54 - Landscape architect lien definitions.",
+      "number": "4703.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4703.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4703.541 - Landscape architect lien on commercial real estate.",
+      "number": "4703.541",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4703.541"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4703.542 - Perfection of landscape architect lien.",
+      "number": "4703.542",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4703.542"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4703.543 - Enforcement of landscape architect lien.",
+      "number": "4703.543",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4703.543"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4703.544 - Satisfaction and release of landscape architect lien.",
+      "number": "4703.544",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4703.544"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4703.545 - Landscape architect lien release affidavit.",
+      "number": "4703.545",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4703.545"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4703.546 - Substitution of financial security for landscape architect lien.",
+      "number": "4703.546",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4703.546"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4703.99 - Penalty.",
+      "number": "4703.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4703.99"
+    }
+  ],
+  "scraped": "2026-07-02T20:06:19+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-4703",
+  "title": "Chapter 4703 - Architects"
+}

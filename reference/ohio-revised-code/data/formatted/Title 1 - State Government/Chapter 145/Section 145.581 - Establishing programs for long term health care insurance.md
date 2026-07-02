@@ -1,0 +1,26 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-145.581
+Scraped: 2026-07-02T19:31:54+00:00
+
+# Section 145.581 - Establishing programs for long term health care insurance.
+
+**Effective:** March 23, 2015
+
+**Latest Legislation:** Senate Bill 42 - 130th General Assembly
+
+(A) As used in this section:
+
+(1) "Long-term care insurance" has the same meaning as in section 3923.41 of the Revised Code.
+
+(2) "Retirement systems" means the public employees retirement system, the Ohio police and fire pension fund, the state teachers retirement system, the school employees retirement system, and the state highway patrol retirement system.
+
+(B) The public employees retirement board may establish a long-term care insurance program consisting of the programs authorized by divisions (C) and (D) of this section. Such program may be established independently or jointly with one or more of the other retirement systems. If the program is established jointly, the board shall adopt rules in accordance with section 111.15 of the Revised Code to establish the terms and conditions of such joint participation.
+
+(C) The board may establish a program under which it makes long-term care insurance available to any person who participated in a policy of long-term care insurance for which the state or a political subdivision contracted under section 124.84 or 124.841 of the Revised Code and is the recipient of a pension, benefit, or allowance from the system. To implement the program under this division, the board, subject to division (E) of this section, may enter into an agreement with the insurance company, health insuring corporation, or government agency that provided the insurance. The board shall, under any such agreement, deduct the full premium charged from the person's benefit, pension, or allowance notwithstanding any employer agreement to the contrary.
+
+Any long-term care insurance policy entered into under this division is subject to division (C) of section 124.84 of the Revised Code.
+
+(D)(1) The board, subject to division (E) of this section, may establish a program under which a recipient of a pension, benefit, or allowance from the system who is not eligible for such insurance under division (C) of this section may participate in a contract for long-term care insurance. Participation may include the recipient's dependents and family members.
+
+(2) The board may adopt rules in accordance with section 111.15 of the Revised Code governing the program. Any rules adopted by the board shall establish methods of payment for participation under this section, which may include deduction of the full premium charged from a recipient's pension, benefit, or allowance, or any other method of payment considered appropriate by the board.
+
+(E) Prior to entering into any agreement or contract with an insurance company or health insuring corporation for the purchase of, or participation in, a long-term care insurance policy under this section, the board shall request the superintendent of insurance to certify the financial condition of the company or corporation. The board shall not enter into the agreement or contract if, according to that certification, the company or corporation is insolvent, is determined by the superintendent to be potentially unable to fulfill its contractual obligations, or is placed under an order of rehabilitation or conservation by a court of competent jurisdiction or under an order of supervision by the superintendent.

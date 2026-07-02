@@ -1,0 +1,150 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Institution of higher education\" includes all of the following:\n\n(a) A state institution of higher education, as defined in section 3345.011 of the Revised Code;\n\n(b) A nonprofit institution issued a certificate of authorization under Chapter 1713. of the Revised Code;\n\n(c) A private institution exempt from regulation under Chapter 3332. of the Revised Code, as prescribed in section 3333.046 of the Revised Code;\n\n(d) An institution of higher education with a certificate of registration from the state board of career colleges and schools under Chapter 3332. of the Revised Code.",
+      "id": "3333.38-institution-of-higher-education",
+      "normalized": "institution of higher education",
+      "scope": "(A) As used in this section:",
+      "section": "3333.38",
+      "source_title": "Section 3333.38 - Ineligibility for student financial assistance supported by state funds.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3333.38",
+      "term": "Institution of higher education"
+    },
+    {
+      "definition": "(2) \"Student financial assistance supported by state funds\" includes assistance granted under sections 3315.33 , 3333.122 , 3333.125 , 3333.21 , 3333.26 , 3333.28 , 3333.372 , 3333.391 , 5910.03 , 5910.032 , and 5919.34 of the Revised Code, financed by an award under the choose Ohio first scholarship program established under section 3333.61 of the Revised Code, or financed by an award under the Ohio co-op/internship program established under section 3333.72 of the Revised Code, and any other post-secondary student financial assistance supported by state funds.\n\n(B) An individual who is convicted of, pleads guilty to, or is adjudicated a delinquent child for one of the following violations shall be ineligible to receive any student financial assistance supported by state funds at an institution of higher education for two calendar years from the time the individual applies for assistance of that nature:\n\n(1) A violation of section 2917.02 or 2917.03 of the Revised Code;\n\n(2) A violation of section 2917.04 of the Revised Code that is a misdemeanor of the fourth degree;\n\n(3) A violation of section 2917.13 of the Revised Code that is a misdemeanor of the fourth or first degree and occurs within the proximate area where four or more others are acting in a course of conduct in violation of section 2917.11 of the Revised Code.\n\n(C) If an individual is convicted of, pleads guilty to, or is adjudicated a delinquent child for committing a violation of section 2917.02 or 2917.03 of the Revised Code, and if the individual is enrolled in a state-supported institution of higher education, the institution in which the individual is enrolled shall immediately dismiss the individual. No state-supported institution of higher education shall admit an individual of that nature for one academic year after the individual applies for admission to a state-supported institution of higher education. This division does not limit or affect the ability of a state-supported institution of higher education to suspend or otherwise discipline its students.\n\nLast updated August 2, 2023 at 2:05 PM",
+      "id": "3333.38-student-financial-assistance-supported-by-state-funds",
+      "normalized": "student financial assistance supported by state funds",
+      "scope": "(A) As used in this section:",
+      "section": "3333.38",
+      "source_title": "Section 3333.38 - Ineligibility for student financial assistance supported by state funds.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3333.38",
+      "term": "Student financial assistance supported by state funds"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3345.011",
+      "number": "3345.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3345.011"
+    },
+    {
+      "kind": "section",
+      "label": "3333.046",
+      "number": "3333.046",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.046"
+    },
+    {
+      "kind": "section",
+      "label": "3315.33",
+      "number": "3315.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3315.33"
+    },
+    {
+      "kind": "section",
+      "label": "3333.122",
+      "number": "3333.122",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.122"
+    },
+    {
+      "kind": "section",
+      "label": "3333.125",
+      "number": "3333.125",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.125"
+    },
+    {
+      "kind": "section",
+      "label": "3333.21",
+      "number": "3333.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.21"
+    },
+    {
+      "kind": "section",
+      "label": "3333.26",
+      "number": "3333.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.26"
+    },
+    {
+      "kind": "section",
+      "label": "3333.28",
+      "number": "3333.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.28"
+    },
+    {
+      "kind": "section",
+      "label": "3333.372",
+      "number": "3333.372",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.372"
+    },
+    {
+      "kind": "section",
+      "label": "3333.391",
+      "number": "3333.391",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.391"
+    },
+    {
+      "kind": "section",
+      "label": "5910.03",
+      "number": "5910.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5910.03"
+    },
+    {
+      "kind": "section",
+      "label": "5910.032",
+      "number": "5910.032",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5910.032"
+    },
+    {
+      "kind": "section",
+      "label": "5919.34",
+      "number": "5919.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5919.34"
+    },
+    {
+      "kind": "section",
+      "label": "3333.61",
+      "number": "3333.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.61"
+    },
+    {
+      "kind": "section",
+      "label": "3333.72",
+      "number": "3333.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3333.72"
+    },
+    {
+      "kind": "section",
+      "label": "2917.02",
+      "number": "2917.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2917.02"
+    },
+    {
+      "kind": "section",
+      "label": "2917.03",
+      "number": "2917.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2917.03"
+    },
+    {
+      "kind": "section",
+      "label": "2917.04",
+      "number": "2917.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2917.04"
+    },
+    {
+      "kind": "section",
+      "label": "2917.13",
+      "number": "2917.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2917.13"
+    },
+    {
+      "kind": "section",
+      "label": "2917.11",
+      "number": "2917.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2917.11"
+    }
+  ],
+  "scraped": "2026-07-02T19:49:28+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3333.38",
+  "title": "Section 3333.38 - Ineligibility for student financial assistance supported by state funds."
+}

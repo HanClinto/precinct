@@ -1,0 +1,54 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-1707.09
+Scraped: 2026-07-02T19:39:09+00:00
+
+# Section 1707.09 - Registration by qualification.
+
+**Effective:** September 16, 2003
+
+**Latest Legislation:** House Bill 7 - 125th General Assembly
+
+(A)(1) All securities, except those enumerated in section 1707.02 of the Revised Code and those that are the subject matter of a transaction permitted by section 1707.03 , 1707.04 , or 1707.06 of the Revised Code, shall be qualified in the manner provided by this section before being sold in this state.
+
+(2) Applications for qualification, on forms prescribed by the division of securities, shall be made in writing either by the issuer of the securities or by any licensed dealer desiring to sell them within this state and shall be signed by the applicant, sworn to by any individual having knowledge of the facts stated in the application, and filed in the office of the division.
+
+(3) The individual who executes the application for qualification of securities on behalf of the applicant shall state the individual's relationship to the applicant and certify that: the individual has executed the application on behalf of the applicant; the individual is fully authorized to execute and file the application on behalf of the applicant; the individual is familiar with the applicant's application; and to the best of the individual's knowledge, information, and belief, the statements made in the application are true, and the documents submitted with the application are true copies of the original documents.
+
+(B) The division shall require the applicant for qualification of securities to submit to it the following information:
+
+(1) The names and addresses of the directors or trustees and of the officers of the issuer, if the issuer is a corporation or an unincorporated association; of all the members of the issuer, if the issuer is a limited liability company in which management is reserved to its members; of all the managers of the issuer, if the issuer is a limited liability company in which management is not reserved to its members; of all partners, if the issuer is a general or limited partnership or a partnership association; and the name and address of the issuer, if the issuer is an individual;
+
+(2) The address of the issuer's principal place of business and principal office in this state, if any;
+
+(3) The purposes and general character of the business actually being transacted, or to be transacted, by the issuer, and the purpose of issuing the securities named in the application;
+
+(4) A statement of the capitalization of the issuer; a balance sheet made up as of the most recent practicable date, showing the amount and general character of its assets and liabilities; a description of the security for the qualification of which application is being made; and copies of all circulars, prospectuses, advertisements, or other descriptions of the securities, that are then prepared by or for the issuer, or by or for the applicant if the applicant is not the issuer, or by or for both, to be used for distribution or publication in this state;
+
+(5) A statement of the amount of the issuer's income, expenses, and fixed charges during the last fiscal year or, if the issuer has been in actual business less than one year, for the time that the issuer has been in actual business;
+
+(6) A statement showing the price at which the security is to be offered for sale;
+
+(7) A statement showing the considerations received or to be received by the issuer of the securities purchased or to be purchased from the issuer and an itemized statement of all expenses of financing to be paid from those considerations so as to show the aggregate net amount actually received or to be received by the issuer;
+
+(8) All other information, including an opinion of counsel as to the validity of the securities that are the subject matter of the application, that the division considers necessary to enable it to ascertain whether the securities are entitled to qualification;
+
+(9) If the issuer is a corporation, there shall be filed with the application a certified copy of its articles of incorporation with all amendments to the articles, if the articles or amendments are not already on file in the office of the secretary of state; if the issuer is a limited liability company, there shall be filed with the application a certified copy of its articles of organization with all amendments to the articles, if the articles or amendments are not already on file in the office of the secretary of state; if the issuer is a trust or trustee, there shall be filed with the application a copy of all instruments by which the trust was created; and if the issuer is a partnership or an unincorporated association, or any other form of organization, there shall be filed with the application a copy of its articles of partnership or association and of all other papers pertaining to its organization, if the articles or other papers are not already on file in the office of the secretary of state;
+
+(10) If the application is made with respect to securities to be sold or distributed by or on behalf of the issuer, or by or on behalf of an underwriter, as defined in division (N) of section 1707.03 of the Revised Code, a statement showing that the issuer has received, or will receive at or prior to the delivery of those securities, not less than eighty-five per cent of the aggregate price at which all those securities are sold by or on behalf of the issuer, without deduction for any additional commission, directly or indirectly, and without liability to pay any additional sum as commission;
+
+(11) If the division so permits with respect to a security, an applicant may file with the division, in lieu of the division's prescribed forms, a copy of the registration statement relating to the security, with all amendments to that statement, previously filed with the securities and exchange commission of the United States under the "Securities Act of 1933," as amended, together with all additional data, information, and documents that the division requires.
+
+(C) If the division finds that it is not necessary in the public interest and for the protection of investors to require all the information specified in divisions (B)(1) to (10) of this section, it may permit the filing of applications for qualification that contain the information that it considers necessary and appropriate in the public interest and for the protection of investors, but this provision applies only in the case of applications for qualification of securities previously issued and outstanding that may not be made the subject matter of transactions exempt under division (M) of section 1707.03 of the Revised Code by reason of the fact that those securities within one year were purchased outside this state or within one year were transported into this state.
+
+(D) All the statements, exhibits, and documents required by the division under this section, except properly certified public documents, shall be verified by the oath of the applicant for qualification, of the issuer, or of any individual having knowledge of the facts, and in the manner and form that may be required by the division. Failure or refusal to comply with the requests of the division shall be sufficient reason for a refusal by the division to register securities.
+
+(E) If it appears to the division that substantially the only consideration to be paid for any of the securities to be qualified is to be intangible property of doubtful value, the division may require that the securities be delivered in escrow to a bank in this state under the terms that the division may reasonably prescribe or require to prevent a deceitful misrepresentation or sale of the securities; that the securities be subordinated in favor of those sold for sound value until they have a value bearing a reasonable relation to the value of those sold for sound value; or that a legend of warning specifying the considerations paid or to be paid for the securities be stamped or printed on all advertisements, circulars, pamphlets, or subscription blanks used in connection with the sale of any securities of the same issuer; or it may impose a combination of any two or more of these requirements.
+
+(F) At the time of filing the information prescribed in this section, the applicant shall pay to the division a filing fee of one hundred dollars.
+
+(G)(1) The division, at any time, as a prerequisite to qualification, may make an examination of the issuer of securities sought to be qualified. The applicant for qualification of any securities may be required by the division to advance sufficient funds to pay all or any part of the actual expenses of that examination, an itemized statement of which shall be furnished the applicant.
+
+(2) If the division finds that the business of the issuer is not fraudulently conducted, that the proposed offer or disposal of securities is not on grossly unfair terms, that the plan of issuance and sale of the securities referred to in the proposed offer or disposal would not defraud or deceive, or tend to defraud or deceive, purchasers, and that division (B)(10) of this section applies and has been complied with, the division shall notify the applicant of its findings, and, upon payment of a registration fee of one-tenth of one per cent of the aggregate price at which the securities are to be sold to the public in this state, which fee, however, shall in no case be less than one hundred or more than one thousand dollars, the division shall register the qualification of the securities.
+
+(H) An application for qualification of securities may be amended by the person filing it at any time prior to the division's action on it either in registering the securities for qualification or in refusing to do so. Subsequent to any such action by the division, the person who filed the application may file with the consent of the division one or more amendments to it that shall become effective upon the making by the division of the findings enumerated in division (G) of this section; the giving of notice of those findings to the applicant by the division; and the payment by the applicant of the additional fee that would have been payable had the application, as it previously became effective, contained the amendment.
+
+(I) When any securities have been qualified and the fees for the qualification have been paid as provided in this section, any licensed dealer subsequently may sell the securities under the qualification, so long as the qualification remains in full force, and any dealer of that nature that desires may file with the division a written notice of intention to sell the securities or any designated portion of them. For that filing, no fee need be paid.

@@ -1,0 +1,76 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Online high school\" means a high school that is either:\n\n(a) A school operated by a city, local, or exempted village school district using an online learning model in accordance with section 3302.42 of the Revised Code;\n\n(b) An internet- or computer-based community school, as defined in section 3314.02 of the Revised Code.",
+      "id": "3302.0310-online-high-school",
+      "normalized": "online high school",
+      "scope": "(A) As used in this section:",
+      "section": "3302.0310",
+      "source_title": "Section 3302.0310 - Online high school modified graduation rate performance measure.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3302.0310",
+      "term": "Online high school"
+    },
+    {
+      "definition": "(2) \"Graduation eligible student\" means a student who, when enrolling for the first time in an online high school, is in the twelfth grade and has earned at least fifteen high school credits.",
+      "id": "3302.0310-graduation-eligible-student",
+      "normalized": "graduation eligible student",
+      "scope": "(A) As used in this section:",
+      "section": "3302.0310",
+      "source_title": "Section 3302.0310 - Online high school modified graduation rate performance measure.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3302.0310",
+      "term": "Graduation eligible student"
+    },
+    {
+      "definition": "(3) \"State report card\" means a report card issued under section 3302.03 , 3314.012 , or 3314.017 of the Revised Code.\n\n(B) Notwithstanding anything to the contrary in section 3302.03 of the Revised Code, the department of education and workforce shall include on an online high school's state report card, as a performance measure without an assigned performance rating, a modified graduation rate. The department shall calculate the modified graduation rate in the same manner as the four-year adjusted cohort graduation rate, except that the department only shall include graduation eligible students in the modified graduation rate's calculation. The department shall not include in the modified graduation rate calculation a graduation eligible student who is automatically withdrawn from an online high school pursuant to division (A)(6)(b) of section 3314.03 of the Revised Code and who does not re-enroll in a school.\n\n(C) Except as necessary to comply with federal law, but notwithstanding anything to the contrary in the Revised Code, beginning with the report card for the 2023-2024 school year, the department shall report an online high school's modified graduation rate as data without an assigned performance rating.\n\nLast updated August 31, 2023 at 3:07 PM",
+      "id": "3302.0310-state-report-card",
+      "normalized": "state report card",
+      "scope": "(A) As used in this section:",
+      "section": "3302.0310",
+      "source_title": "Section 3302.0310 - Online high school modified graduation rate performance measure.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3302.0310",
+      "term": "State report card"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3302.42",
+      "number": "3302.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3302.42"
+    },
+    {
+      "kind": "section",
+      "label": "3314.02",
+      "number": "3314.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3314.02"
+    },
+    {
+      "kind": "section",
+      "label": "3302.03",
+      "number": "3302.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3302.03"
+    },
+    {
+      "kind": "section",
+      "label": "3314.012",
+      "number": "3314.012",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3314.012"
+    },
+    {
+      "kind": "section",
+      "label": "3314.017",
+      "number": "3314.017",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3314.017"
+    },
+    {
+      "kind": "section",
+      "label": "3314.03",
+      "number": "3314.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3314.03"
+    }
+  ],
+  "scraped": "2026-07-02T19:48:16+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3302.0310",
+  "title": "Section 3302.0310 - Online high school modified graduation rate performance measure."
+}

@@ -1,0 +1,957 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 4123.01 - Workers' compensation definitions.",
+      "number": "4123.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.02 - Policemen and firemen excepted.",
+      "number": "4123.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.021 - State active duty defined.",
+      "number": "4123.021",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.021"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.022 - Employment status while on active duty.",
+      "number": "4123.022",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.022"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.023 - Benefits for members of organized militia.",
+      "number": "4123.023",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.023"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.024 - Administrative and other costs to be paid from state insurance fund.",
+      "number": "4123.024",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.024"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.025 - Benefits for one killed performing request or order of a duly authorized public official.",
+      "number": "4123.025",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.025"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.026 - Costs of post-exposure medical diagnostic services after peace officer, firefighter, emergency medical worker, or detention facility employees' exposure to blood or other body fluid.",
+      "number": "4123.026",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.026"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.03 - Employees performing special services for the state or a political subdivision.",
+      "number": "4123.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.031 - Emergency management worker definitions.",
+      "number": "4123.031",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.031"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.032 - Benefits for emergency management workers.",
+      "number": "4123.032",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.032"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.033 - Compensation for accidental injury while performing emergency management duties.",
+      "number": "4123.033",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.033"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.034 - Unpaid emergency management workers qualify for maximum benefits.",
+      "number": "4123.034",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.034"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.035 - Finality of decision as to emergency management claimants.",
+      "number": "4123.035",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.035"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.036 - Participation in emergency management benefits.",
+      "number": "4123.036",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.036"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.037 - Loyalty oath for emergency management workers.",
+      "number": "4123.037",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.037"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.038 - Apprentice definitions.",
+      "number": "4123.038",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.038"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.039 - Eligibility for benefits of apprentices.",
+      "number": "4123.039",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.039"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.04 - Application to intrastate, interstate and foreign commerce.",
+      "number": "4123.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.05 - Rules.",
+      "number": "4123.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.06 - Rules regarding fees.",
+      "number": "4123.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.07 - Bureau to prepare and furnish application forms.",
+      "number": "4123.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.08 - Powers of officers in administrative proceedings.",
+      "number": "4123.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.09 - Depositions.",
+      "number": "4123.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.10 - Industrial commission not bound by rules of evidence.",
+      "number": "4123.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.11 - Stenographer's copy received in evidence.",
+      "number": "4123.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.12 - Attachment proceeding to compel obedience.",
+      "number": "4123.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.13 - Fees of officers and witnesses.",
+      "number": "4123.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.15 - Recognized religious sect employer may apply for exemption.",
+      "number": "4123.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.19 - Expenditures to establish rate classes - salaries and compensation paid by warrant.",
+      "number": "4123.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.20 - Publication and distribution of classifications, rates, and rules of procedure.",
+      "number": "4123.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.21 - Injunction shall not issue suspending or restraining actions.",
+      "number": "4123.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.22 - Annual report.",
+      "number": "4123.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.23 - Inspection of books, records, and payrolls.",
+      "number": "4123.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.24 - Payroll to be kept.",
+      "number": "4123.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.25 - Misrepresentation as to amount or classification of payroll or amount of compensation paid.",
+      "number": "4123.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.26 - Annual statement by employer - forfeiture.",
+      "number": "4123.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.27 - Use of and access to information provided by employers.",
+      "number": "4123.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.271 - Administrator may request report of employer payments from tax commissioner.",
+      "number": "4123.271",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.271"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.28 - Record of injuries and occupational diseases - report.",
+      "number": "4123.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.29 - Duties of administrator.",
+      "number": "4123.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.291 - Appeal from adjudicating committee decisions.",
+      "number": "4123.291",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.291"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.292 - Election to obtain other-states' coverage.",
+      "number": "4123.292",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.292"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.30 - Public fund - private fund - contributions - disbursements.",
+      "number": "4123.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.31 - Workers' compensation fund.",
+      "number": "4123.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.311 - Direct deposit of funds by electronic transfer - debit card access.",
+      "number": "4123.311",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.311"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.32 - Rules for administering state insurance fund.",
+      "number": "4123.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.321 - Disposition of insurance fund excess surplus.",
+      "number": "4123.321",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.321"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.322 - Rules for system of prospective payment of workers' compensation premiums.",
+      "number": "4123.322",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.322"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.323 - Payment due dates.",
+      "number": "4123.323",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.323"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.324 - Waiver or reduction of experience transfer.",
+      "number": "4123.324",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.324"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.33 - Certificate of protection for period of less than one year.",
+      "number": "4123.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.34 - Solvency of funds - premium rates.",
+      "number": "4123.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.341 - Contributions toward payment of administrative costs and expenses.",
+      "number": "4123.341",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.341"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.342 - Allocating costs.",
+      "number": "4123.342",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.342"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.343 - Employing and retaining handicapped employees.",
+      "number": "4123.343",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.343"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.344 - Suspension of premium increase pending conclusion of subrogation claims.",
+      "number": "4123.344",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.344"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.345 - [Former Section 3 of S.B. 166, 134th General Assembly, amended and codified as R.C. 4123.345 by H.B. 33, 135th General Assembly] Work-based learning program.",
+      "number": "4123.345",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.345"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.35 - Payment of premiums by employers; self-insurance.",
+      "number": "4123.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.351 - Self-insuring employers' guaranty fund.",
+      "number": "4123.351",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.351"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.352 - Self-insuring employers evaluation board.",
+      "number": "4123.352",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.352"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.353 - Public employer granted self-insuring employer status.",
+      "number": "4123.353",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.353"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.36 - Covering default when account uncollectible.",
+      "number": "4123.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.37 - Failure to pay premiums by amenable employer.",
+      "number": "4123.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.38 - Contributions to public insurance fund.",
+      "number": "4123.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.39 - Contributions by state and subdivisions.",
+      "number": "4123.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.391 - Remedies for learn to earn participants.",
+      "number": "4123.391",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.391"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.40 - Estimating state's contribution.",
+      "number": "4123.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.401 - Estimated number of state employees.",
+      "number": "4123.401",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.401"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.402 - Department of administrative services - powers and duties.",
+      "number": "4123.402",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.402"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.41 - Annual payments by county, taxing district and institution to public insurance fund.",
+      "number": "4123.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.411 - Levying assessments for disabled workers' relief fund.",
+      "number": "4123.411",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.411"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.412 - Disabled workers' relief fund.",
+      "number": "4123.412",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.412"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.413 - Eligibility for participation in fund.",
+      "number": "4123.413",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.413"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.414 - Receiving payments from fund.",
+      "number": "4123.414",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.414"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.415 - Payments made to show source of funds.",
+      "number": "4123.415",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.415"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.416 - List of names and addresses of person receiving compensation.",
+      "number": "4123.416",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.416"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.417 - Investigation and determination of right of persons to participate in disabled workers' relief fund.",
+      "number": "4123.417",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.417"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.418 - Bureau employees.",
+      "number": "4123.418",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.418"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.419 - Establishing assessment rate.",
+      "number": "4123.419",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.419"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.42 - Custodian of state insurance fund.",
+      "number": "4123.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.43 - Deposit of funds not required for immediate use.",
+      "number": "4123.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.44 - Investment of surplus or reserve of state insurance fund.",
+      "number": "4123.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.441 - Chief investment adviser for bureau - duties.",
+      "number": "4123.441",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.441"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.442 - Development of investment policy - duties of committee.",
+      "number": "4123.442",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.442"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.443 - Rental payments for leased buildings.",
+      "number": "4123.443",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.443"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.444 - Duties of administrator regarding investment manager contracts.",
+      "number": "4123.444",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.444"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.445 - Contract with investment manager convicted of financial crime prohibited.",
+      "number": "4123.445",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.445"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.446 - Report regarding minority and women's business enterprises.",
+      "number": "4123.446",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.446"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.45 - Printing or lithographing of bonds - denomination - compliance by taxing authorities.",
+      "number": "4123.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.452 - No compensation for injury sustained in ridesharing arrangement.",
+      "number": "4123.452",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.452"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.46 - Payments from state insurance fund.",
+      "number": "4123.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.47 - Actuarial analysis of fund; audits of effectiveness of administration - retention of actuary.",
+      "number": "4123.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.48 - Individual accounts to be kept by bureau - default in payment.",
+      "number": "4123.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.50 - Failure to comply with law.",
+      "number": "4123.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.51 - Place for filing claims or appeals - required statement.",
+      "number": "4123.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.511 - Notice of receipt of claim.",
+      "number": "4123.511",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.511"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.512 - Appeal to court.",
+      "number": "4123.512",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.512"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.52 - Continuing jurisdiction of commission.",
+      "number": "4123.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.521 - Appeal for purpose of delay or other vexatious reason and without reasonable ground.",
+      "number": "4123.521",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.521"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.522 - Right to receive written notice of action.",
+      "number": "4123.522",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.522"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.53 - Medical examinations - vocational evaluation or questionnaire.",
+      "number": "4123.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.54 - Compensation in case of injury or death - agreement if work performed in another state.",
+      "number": "4123.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.541 - Reduction of benefits in proportion to benefits received under other act or program.",
+      "number": "4123.541",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.541"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.542 - Successful claimant not to file duplicative claim.",
+      "number": "4123.542",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.542"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.55 - No compensation for first week after injury.",
+      "number": "4123.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.56 - Compensation in case of temporary disability.",
+      "number": "4123.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.57 - Partial disability compensation.",
+      "number": "4123.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.571 - Prior claims.",
+      "number": "4123.571",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.571"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.58 - Compensation for permanent total disability.",
+      "number": "4123.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.59 - Benefits in case of death - dependency.",
+      "number": "4123.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.591 - Providing list of person receiving spousal death benefit to tax commissioner.",
+      "number": "4123.591",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.591"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.60 - Persons eligible for death benefits - limitations.",
+      "number": "4123.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.61 - Basis for computation of benefits.",
+      "number": "4123.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.62 - Consideration of expected wage increases.",
+      "number": "4123.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.63 - Service-connected injury.",
+      "number": "4123.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.64 - Commutation to lump sum.",
+      "number": "4123.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.65 - Application for approval of final settlement.",
+      "number": "4123.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.651 - Employer initiating medical examinations.",
+      "number": "4123.651",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.651"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.66 - Making additional payments for medical or funeral expenses.",
+      "number": "4123.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.67 - Compensation exempt from attachment or execution.",
+      "number": "4123.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.67"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.68 - Schedule of compensable occupational diseases.",
+      "number": "4123.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.68"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.69 - Persons entitled to benefits.",
+      "number": "4123.69",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.69"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.70 - Preexisting disease.",
+      "number": "4123.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.71 - Time for report of physician.",
+      "number": "4123.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.73 - Participation by employers of less than three persons.",
+      "number": "4123.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.74 - Immunity of employer.",
+      "number": "4123.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.74"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.741 - Immunity of fellow employees.",
+      "number": "4123.741",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.741"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.75 - Remedy of employee against noncomplying employer.",
+      "number": "4123.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.751 - Service on nonresident employer.",
+      "number": "4123.751",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.751"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.752 - Manner of service.",
+      "number": "4123.752",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.752"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.753 - Service fee.",
+      "number": "4123.753",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.753"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.754 - Continuance.",
+      "number": "4123.754",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.754"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.755 - Applicability to residents who become nonresidents.",
+      "number": "4123.755",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.755"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.756 - Death of employer prior to commencement of civil action.",
+      "number": "4123.756",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.756"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.76 - Claim against noncomplying employer a lien.",
+      "number": "4123.76",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.76"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.77 - Common law defenses denied to noncomplying employers.",
+      "number": "4123.77",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.77"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.78 - Recording of certificate of noncompliance.",
+      "number": "4123.78",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.78"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.79 - Party may enjoin operation of noncomplying employer - construction contractor or subcontractor.",
+      "number": "4123.79",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.79"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.80 - Agreement to waive rights void - exceptions.",
+      "number": "4123.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.80"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.81 - Prohibition against deduction for premium.",
+      "number": "4123.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.82 - Contracts indemnifying or insuring employer void.",
+      "number": "4123.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.82"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.83 - Posting of notice by employer.",
+      "number": "4123.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.83"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.84 - Claims for injury or death barred after one year - exceptions.",
+      "number": "4123.84",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.84"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.85 - Claims for compensation or benefits in cases of occupational diseases.",
+      "number": "4123.85",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.85"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.86 - Report regarding cancer claims.",
+      "number": "4123.86",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.86"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.88 - False representation or solicitation of authority.",
+      "number": "4123.88",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.88"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.89 - Minor is sui juris - additional award for violation.",
+      "number": "4123.89",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.89"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.90 - Retaliation for filing a claim, discrimination against out-of-country dependents prohibited.",
+      "number": "4123.90",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.90"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.91 - Information from consular officials.",
+      "number": "4123.91",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.91"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.92 - Attorney general, prosecuting attorney - prosecution and defense of actions.",
+      "number": "4123.92",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.92"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.93 - Subrogation definitions.",
+      "number": "4123.93",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.93"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.931 - Statutory subrogee subrogated to rights of claimant against third party.",
+      "number": "4123.931",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.931"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.932 - Claims likely to be subrogated by a third party.",
+      "number": "4123.932",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.932"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.94 - Preference of judgments.",
+      "number": "4123.94",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.94"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.95 - Liberal construction of chapter.",
+      "number": "4123.95",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.95"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.96 - Solicitation of claims prohibited.",
+      "number": "4123.96",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.96"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4123.99 - Penalty.",
+      "number": "4123.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4123.99"
+    }
+  ],
+  "scraped": "2026-07-02T20:04:17+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-4123",
+  "title": "Chapter 4123 - Workers' Compensation"
+}

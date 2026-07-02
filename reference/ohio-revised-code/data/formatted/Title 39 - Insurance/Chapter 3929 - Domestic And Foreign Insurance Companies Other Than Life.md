@@ -1,0 +1,84 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-3929
+Scraped: 2026-07-02T20:02:57+00:00
+
+# Chapter 3929 - Domestic And Foreign Insurance Companies Other Than Life
+
+## Sections
+
+- Section 3929.01 - Powers of companies - deposits required of foreign companies.
+- Section 3929.011 - Capitalization requirements.
+- Section 3929.012 - Reserve requirements.
+- Section 3929.02 - Liability incurred on any single risk.
+- Section 3929.03 - Employee subrogated to rights of employer.
+- Section 3929.04 - Rights and remedies pass to personal representatives.
+- Section 3929.05 - Liability of insurance company for bodily injury or death.
+- Section 3929.06 - Satisfying final judgment.
+- Section 3929.07 - Deposit with superintendent of insurance required.
+- Section 3929.08 - Deposits required by other states.
+- Section 3929.09 - Maintenance and withdrawal of securities.
+- Section 3929.10 - Deposit required of guaranty company.
+- Section 3929.11 - Deposit by foreign guaranty company.
+- Section 3929.13 - Estoppel of company executing bond.
+- Section 3929.14 - Sufficiency of bonds executed by guaranty company.
+- Section 3929.141 - Surety for guaranteed arrest bond certificates issued by automobile club or association.
+- Section 3929.15 - Allowance of premium to surety company.
+- Section 3929.16 - Bonds of public officers.
+- Section 3929.17 - Payment of premiums on bonds.
+- Section 3929.18 - Lien of mutual companies for premium notes.
+- Section 3929.19 - Cancellation of policies.
+- Section 3929.20 - Rates of cancellation for cash policies.
+- Section 3929.21 - Rates of cancellation for policies on the mutual plan.
+- Section 3929.22 - Rates of cancellation for policies on installment plan.
+- Section 3929.24 - Enforcement by superintendent.
+- Section 3929.25 - Extent of liability under policy.
+- Section 3929.26 - More than one policy on same property.
+- Section 3929.27 - Solicitor agent of company.
+- Section 3929.28 - Execution of contracts.
+- Section 3929.29 - Restrictions in advertisements - forfeiture.
+- Section 3929.30 - Annual report.
+- Section 3929.302 - Annual claims report by medical malpractice insurers - fine - confidentiality.
+- Section 3929.31 - Special report.
+- Section 3929.32 - Prohibition against failure to make statement.
+- Section 3929.33 - Schedule of experience as to liabilities with annual statement.
+- Section 3929.34 - Distribution of unallocated payments.
+- Section 3929.35 - Determination of indebtedness charged for outstanding losses.
+- Section 3929.36 - Schedule requirements for corporations issuing certain policies.
+- Section 3929.37 - Action by attorney general.
+- Section 3929.41 - Purposes.
+- Section 3929.42 - Urban homeowners insurance definitions.
+- Section 3929.43 - Ohio fair plan underwriting association.
+- Section 3929.44 - Application by person unable to obtain basic property or homeowners insurance.
+- Section 3929.45 - Examination into operation of association.
+- Section 3929.46 - Superintendent may require reports from insurers.
+- Section 3929.47 - Appeals - judicial review.
+- Section 3929.48 - Immunity.
+- Section 3929.481 - Issuing fair plan policies.
+- Section 3929.482 - Contracts to provide administrative and claims adjusting services.
+- Section 3929.49 - Furnishing information to show compliance with law.
+- Section 3929.50 - Mine subsidence insurance definitions.
+- Section 3929.51 - Mine subsidence insurance underwriting association - reinsurance - governing board.
+- Section 3929.52 - Mine subsidence insurance fund.
+- Section 3929.53 - Proposed plan of operation for economical, fair, and nondiscriminatory administration of mine subsidence insurance fund.
+- Section 3929.55 - Auditor of state - annual audit of insurance fund.
+- Section 3929.56 - Mine subsidence coverage for homeowners in designated counties.
+- Section 3929.58 - Reinsurance agreement with Ohio mine subsidence insurance underwriting association.
+- Section 3929.59 - Distribution of premiums collected.
+- Section 3929.60 - Report of amount of mine subsidence insurance premiums.
+- Section 3929.61 - No right of recourse except for fraud.
+- Section 3929.62 - Definitions.
+- Section 3929.63 - Creating medical liability underwriting association.
+- Section 3929.631 - Stabilization reserve fund.
+- Section 3929.632 - Dissolution or suspension.
+- Section 3929.64 - Board of governors.
+- Section 3929.65 - Proposing plan of operation.
+- Section 3929.66 - Application for medical liability insurance.
+- Section 3929.661 - Option of being liable as a co-insurer.
+- Section 3929.67 - Reasons for cancellation.
+- Section 3929.68 - No liability.
+- Section 3929.681 - Appeals.
+- Section 3929.682 - Medical liability fund.
+- Section 3929.69 - Filing statement of transactions and affairs.
+- Section 3929.70 - Exemption from fees and taxes.
+- Section 3929.85 - Limits on assessments by associations.
+- Section 3929.86 - Fire loss claims.
+- Section 3929.87 - Determination as to whether loss caused by arson.

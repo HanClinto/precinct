@@ -1,0 +1,42 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Ambulatory surgical facility\" has the same meaning as in section 3702.30 of the Revised Code.",
+      "id": "4731.911-ambulatory-surgical-facility",
+      "normalized": "ambulatory surgical facility",
+      "scope": "(A) As used in this section:",
+      "section": "4731.911",
+      "source_title": "Section 4731.911 - Physician responsibilities in a non-hospital setting.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4731.911",
+      "term": "Ambulatory surgical facility"
+    },
+    {
+      "definition": "(2) \"Hospital\" means a hospital registered with the department of health under section 3701.07 of the Revised Code.\n\n(B) A physician who performs or attempts an abortion in an ambulatory surgical facility or other location that is not a hospital and in which a child is born alive shall immediately take the following steps upon the child's birth:\n\n(1) Provide post-birth care to the newborn in accordance with prevailing and acceptable standards of care;\n\n(2) Call for assistance from an emergency medical services provider;\n\n(3) Arrange for the transfer of the newborn to a hospital.\n\nLast updated January 13, 2022 at 5:35 PM",
+      "id": "4731.911-hospital",
+      "normalized": "hospital",
+      "scope": "(A) As used in this section:",
+      "section": "4731.911",
+      "source_title": "Section 4731.911 - Physician responsibilities in a non-hospital setting.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4731.911",
+      "term": "Hospital"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3702.30",
+      "number": "3702.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3702.30"
+    },
+    {
+      "kind": "section",
+      "label": "3701.07",
+      "number": "3701.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3701.07"
+    }
+  ],
+  "scraped": "2026-07-02T20:07:04+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4731.911",
+  "title": "Section 4731.911 - Physician responsibilities in a non-hospital setting."
+}

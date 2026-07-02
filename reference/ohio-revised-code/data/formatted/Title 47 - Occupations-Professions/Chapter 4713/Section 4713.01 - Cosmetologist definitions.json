@@ -1,0 +1,448 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Apprentice instructor\" means an individual holding a practicing license issued by the state cosmetology and barber board who is engaged in learning or acquiring knowledge of the occupation of an instructor of a branch of cosmetology at a school.\n\n(B) \"Barber,\" \"barber instructor,\" \"barber shop,\" and \"practice of barbering\" have the same meanings as in section 4709.01 of the Revised Code.",
+      "id": "4713.01-apprentice-instructor",
+      "normalized": "apprentice instructor",
+      "scope": "As used in this chapter:",
+      "section": "4713.01",
+      "source_title": "Section 4713.01 - Cosmetologist definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4713.01",
+      "term": "Apprentice instructor"
+    },
+    {
+      "definition": "(C) \"Beauty salon\" means a salon in which an individual is authorized to engage in all branches of cosmetology.",
+      "id": "4713.01-beauty-salon",
+      "normalized": "beauty salon",
+      "scope": "As used in this chapter:",
+      "section": "4713.01",
+      "source_title": "Section 4713.01 - Cosmetologist definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4713.01",
+      "term": "Beauty salon"
+    },
+    {
+      "definition": "(D) \"Biennial licensing period\" means the two-year period beginning on the first day of February of an odd-numbered year and ending on the last day of January of the next odd-numbered year.",
+      "id": "4713.01-biennial-licensing-period",
+      "normalized": "biennial licensing period",
+      "scope": "As used in this chapter:",
+      "section": "4713.01",
+      "source_title": "Section 4713.01 - Cosmetologist definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4713.01",
+      "term": "Biennial licensing period"
+    },
+    {
+      "definition": "(E) \"Boutique salon\" means a salon in which an individual engages in the practice of boutique services and no other branch of cosmetology.",
+      "id": "4713.01-boutique-salon",
+      "normalized": "boutique salon",
+      "scope": "As used in this chapter:",
+      "section": "4713.01",
+      "source_title": "Section 4713.01 - Cosmetologist definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4713.01",
+      "term": "Boutique salon"
+    },
+    {
+      "definition": "(F) \"Braiding\" means intertwining the hair in a systematic motion to create patterns in a three-dimensional form, including patterns that are inverted, upright, or singled against the scalp that follow along straight or curved partings. \"Braiding\" may include twisting, locking, beading, crocheting, wrapping, or similarly manipulating the hair while adding bulk or length with human hair, synthetic hair, or both, and using simple devices such as clips, combs, crotchet hooks, blunt-tipped needles, and hairpins. \"Braiding\" does not include the use of chemical hair-joining agents such as synthetic tape, keratin bonds, or fusion bonds to weave or fuse individual strands or wefts; applications of dyes, reactive chemicals, or other preparations to alter the color or straighten, curl, or alter the structure of hair; or embellishing or beautifying hair by cutting or singeing, except as needed to finish the ends of synthetic hair used to add bulk to or lengthen hair.",
+      "id": "4713.01-braiding",
+      "normalized": "braiding",
+      "scope": "As used in this chapter:",
+      "section": "4713.01",
+      "source_title": "Section 4713.01 - Cosmetologist definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4713.01",
+      "term": "Braiding"
+    },
+    {
+      "definition": "(G) \"Branch of cosmetology\" means the practice of esthetics, practice of hair design, practice of manicuring, practice of natural hair styling, or practice of boutique services.",
+      "id": "4713.01-branch-of-cosmetology",
+      "normalized": "branch of cosmetology",
+      "scope": "As used in this chapter:",
+      "section": "4713.01",
+      "source_title": "Section 4713.01 - Cosmetologist definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4713.01",
+      "term": "Branch of cosmetology"
+    },
+    {
+      "definition": "(H) \"Cosmetic therapy\" means the permanent removal of hair from the human body through the use of electric modalities and may include the systematic friction, stroking, slapping, and kneading or tapping of the face, neck, scalp, or shoulders.",
+      "id": "4713.01-cosmetic-therapy",
+      "normalized": "cosmetic therapy",
+      "scope": "As used in this chapter:",
+      "section": "4713.01",
+      "source_title": "Section 4713.01 - Cosmetologist definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4713.01",
+      "term": "Cosmetic therapy"
+    },
+    {
+      "definition": "(I) \"Cosmetologist\" means an individual authorized to engage in all branches of cosmetology in a licensed facility.",
+      "id": "4713.01-cosmetologist",
+      "normalized": "cosmetologist",
+      "scope": "As used in this chapter:",
+      "section": "4713.01",
+      "source_title": "Section 4713.01 - Cosmetologist definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4713.01",
+      "term": "Cosmetologist"
+    },
+    {
+      "definition": "(J) \"Cosmetology instructor\" means an individual authorized to teach the theory and practice of all branches of cosmetology at a school.",
+      "id": "4713.01-cosmetology-instructor",
+      "normalized": "cosmetology instructor",
+      "scope": "As used in this chapter:",
+      "section": "4713.01",
+      "source_title": "Section 4713.01 - Cosmetologist definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4713.01",
+      "term": "Cosmetology instructor"
+    },
+    {
+      "definition": "(K) \"Esthetician\" means an individual who engages in the practice of esthetics but no other branch of cosmetology in a licensed facility.",
+      "id": "4713.01-esthetician",
+      "normalized": "esthetician",
+      "scope": "As used in this chapter:",
+      "section": "4713.01",
+      "source_title": "Section 4713.01 - Cosmetologist definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4713.01",
+      "term": "Esthetician"
+    },
+    {
+      "definition": "(L) \"Esthetics instructor\" means an individual who teaches the theory and practice of esthetics, but no other branch of cosmetology, at a school.",
+      "id": "4713.01-esthetics-instructor",
+      "normalized": "esthetics instructor",
+      "scope": "As used in this chapter:",
+      "section": "4713.01",
+      "source_title": "Section 4713.01 - Cosmetologist definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4713.01",
+      "term": "Esthetics instructor"
+    },
+    {
+      "definition": "(M) \"Esthetics salon\" means a salon in which an individual engages in the practice of esthetics but no other branch of cosmetology.",
+      "id": "4713.01-esthetics-salon",
+      "normalized": "esthetics salon",
+      "scope": "As used in this chapter:",
+      "section": "4713.01",
+      "source_title": "Section 4713.01 - Cosmetologist definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4713.01",
+      "term": "Esthetics salon"
+    },
+    {
+      "definition": "(N) \"Eye lash extensions\" include temporary and semi-permanent enhancements designed to add length, thickness, and fullness to natural eyelashes.",
+      "id": "4713.01-eye-lash-extensions",
+      "normalized": "eye lash extensions",
+      "scope": "As used in this chapter:",
+      "section": "4713.01",
+      "source_title": "Section 4713.01 - Cosmetologist definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4713.01",
+      "term": "Eye lash extensions"
+    },
+    {
+      "definition": "(O) \"Hair designer\" means an individual who engages in the practice of hair design but no other branch of cosmetology in a licensed facility.",
+      "id": "4713.01-hair-designer",
+      "normalized": "hair designer",
+      "scope": "As used in this chapter:",
+      "section": "4713.01",
+      "source_title": "Section 4713.01 - Cosmetologist definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4713.01",
+      "term": "Hair designer"
+    },
+    {
+      "definition": "(P) \"Hair design instructor\" means an individual who teaches the theory and practice of hair design, but no other branch of cosmetology, at a school.",
+      "id": "4713.01-hair-design-instructor",
+      "normalized": "hair design instructor",
+      "scope": "As used in this chapter:",
+      "section": "4713.01",
+      "source_title": "Section 4713.01 - Cosmetologist definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4713.01",
+      "term": "Hair design instructor"
+    },
+    {
+      "definition": "(Q) \"Hair design salon\" means a salon in which an individual engages in the practice of hair design but no other branch of cosmetology.",
+      "id": "4713.01-hair-design-salon",
+      "normalized": "hair design salon",
+      "scope": "As used in this chapter:",
+      "section": "4713.01",
+      "source_title": "Section 4713.01 - Cosmetologist definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4713.01",
+      "term": "Hair design salon"
+    },
+    {
+      "definition": "(R) \"Hair removal\" includes tweezing, waxing, sugaring, and threading. \"Hair removal\" does not include electrolysis.",
+      "id": "4713.01-hair-removal",
+      "normalized": "hair removal",
+      "scope": "As used in this chapter:",
+      "section": "4713.01",
+      "source_title": "Section 4713.01 - Cosmetologist definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4713.01",
+      "term": "Hair removal"
+    },
+    {
+      "definition": "(S) \"Independent contractor\" means an individual who is not an employee of a salon but practices a branch of cosmetology within a salon in a licensed facility.",
+      "id": "4713.01-independent-contractor",
+      "normalized": "independent contractor",
+      "scope": "As used in this chapter:",
+      "section": "4713.01",
+      "source_title": "Section 4713.01 - Cosmetologist definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4713.01",
+      "term": "Independent contractor"
+    },
+    {
+      "definition": "(T) \"Infection control\" means the practice of preventing the spread of infections and disease by ensuring that a salon, school, or tanning facility, including all equipment and implements in the salon, school, or tanning facility, are maintained by doing all of the following, as applicable:\n\n(1) Removing surface or visible dirt or debris by cleaning with soap, detergent, or a chemical cleaner, followed by rinsing with clean water;\n\n(2) Using a chemical disinfectant to kill or denature bacteria, fungi, and viruses;\n\n(3) Applying heat or using other procedures to eliminate, remove, or kill all forms of microbial life present on a surface or contained in a fluid.",
+      "id": "4713.01-infection-control",
+      "normalized": "infection control",
+      "scope": "As used in this chapter:",
+      "section": "4713.01",
+      "source_title": "Section 4713.01 - Cosmetologist definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4713.01",
+      "term": "Infection control"
+    },
+    {
+      "definition": "(U) \"Instructor license\" means a license to teach the theory and practice of a branch of cosmetology at a school.",
+      "id": "4713.01-instructor-license",
+      "normalized": "instructor license",
+      "scope": "As used in this chapter:",
+      "section": "4713.01",
+      "source_title": "Section 4713.01 - Cosmetologist definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4713.01",
+      "term": "Instructor license"
+    },
+    {
+      "definition": "(V) \"Licensed facility\" means any premises, building, or part of a building licensed under section 4713.41 of the Revised Code in which the practice of one or more branches of cosmetology are authorized by the state cosmetology and barber board to be performed.",
+      "id": "4713.01-licensed-facility",
+      "normalized": "licensed facility",
+      "scope": "As used in this chapter:",
+      "section": "4713.01",
+      "source_title": "Section 4713.01 - Cosmetologist definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4713.01",
+      "term": "Licensed facility"
+    },
+    {
+      "definition": "(W) \"Advanced license\" means a license issued under section 4713.30 of the Revised Code to work in a salon and practice the branch of cosmetology practiced at the salon.",
+      "id": "4713.01-advanced-license",
+      "normalized": "advanced license",
+      "scope": "As used in this chapter:",
+      "section": "4713.01",
+      "source_title": "Section 4713.01 - Cosmetologist definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4713.01",
+      "term": "Advanced license"
+    },
+    {
+      "definition": "(X) \"Makeup artistry\" means the application of cosmetics for the purpose of skin beautification. \"Makeup artistry\" does not include any other services described in the practice of any other branch of cosmetology.",
+      "id": "4713.01-makeup-artistry",
+      "normalized": "makeup artistry",
+      "scope": "As used in this chapter:",
+      "section": "4713.01",
+      "source_title": "Section 4713.01 - Cosmetologist definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4713.01",
+      "term": "Makeup artistry"
+    },
+    {
+      "definition": "(Y) \"Manicurist\" means an individual who engages in the practice of manicuring but no other branch of cosmetology in a licensed facility.",
+      "id": "4713.01-manicurist",
+      "normalized": "manicurist",
+      "scope": "As used in this chapter:",
+      "section": "4713.01",
+      "source_title": "Section 4713.01 - Cosmetologist definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4713.01",
+      "term": "Manicurist"
+    },
+    {
+      "definition": "(Z) \"Manicurist instructor\" means an individual who teaches the theory and practice of manicuring, but no other branch of cosmetology, at a school.",
+      "id": "4713.01-manicurist-instructor",
+      "normalized": "manicurist instructor",
+      "scope": "As used in this chapter:",
+      "section": "4713.01",
+      "source_title": "Section 4713.01 - Cosmetologist definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4713.01",
+      "term": "Manicurist instructor"
+    },
+    {
+      "definition": "(AA) \"Nail salon\" means a salon in which an individual engages in the practice of manicuring but no other branch of cosmetology.",
+      "id": "4713.01-nail-salon",
+      "normalized": "nail salon",
+      "scope": "As used in this chapter:",
+      "section": "4713.01",
+      "source_title": "Section 4713.01 - Cosmetologist definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4713.01",
+      "term": "Nail salon"
+    },
+    {
+      "definition": "(BB) \"Natural hair stylist\" means an individual who engages in the practice of natural hair styling but no other branch of cosmetology in a licensed facility.",
+      "id": "4713.01-natural-hair-stylist",
+      "normalized": "natural hair stylist",
+      "scope": "As used in this chapter:",
+      "section": "4713.01",
+      "source_title": "Section 4713.01 - Cosmetologist definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4713.01",
+      "term": "Natural hair stylist"
+    },
+    {
+      "definition": "(CC) \"Natural hair style instructor\" means an individual who teaches the theory and practice of natural hair styling, but no other branch of cosmetology, at a school.",
+      "id": "4713.01-natural-hair-style-instructor",
+      "normalized": "natural hair style instructor",
+      "scope": "As used in this chapter:",
+      "section": "4713.01",
+      "source_title": "Section 4713.01 - Cosmetologist definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4713.01",
+      "term": "Natural hair style instructor"
+    },
+    {
+      "definition": "(DD) \"Natural hair style salon\" means a salon in which an individual engages in the practice of natural hair styling but no other branch of cosmetology.",
+      "id": "4713.01-natural-hair-style-salon",
+      "normalized": "natural hair style salon",
+      "scope": "As used in this chapter:",
+      "section": "4713.01",
+      "source_title": "Section 4713.01 - Cosmetologist definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4713.01",
+      "term": "Natural hair style salon"
+    },
+    {
+      "definition": "(EE) \"Practice of boutique services\" means braiding, threading, shampooing, and makeup artistry.",
+      "id": "4713.01-practice-of-boutique-services",
+      "normalized": "practice of boutique services",
+      "scope": "As used in this chapter:",
+      "section": "4713.01",
+      "source_title": "Section 4713.01 - Cosmetologist definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4713.01",
+      "term": "Practice of boutique services"
+    },
+    {
+      "definition": "(FF) \"Practice of cosmetology\" means the practice of all branches of cosmetology.",
+      "id": "4713.01-practice-of-cosmetology",
+      "normalized": "practice of cosmetology",
+      "scope": "As used in this chapter:",
+      "section": "4713.01",
+      "source_title": "Section 4713.01 - Cosmetologist definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4713.01",
+      "term": "Practice of cosmetology"
+    },
+    {
+      "definition": "(GG) \"Practice of esthetics\" means the application of cosmetics, tonics, antiseptics, creams, lotions, or other preparations for the purpose of skin beautification and includes preparation of the skin by manual massage techniques or by use of electrical, mechanical, or other apparatus; enhancement of the skin by skin care, facials, body treatments, hair removal, and other treatments; and eye lash extension services.",
+      "id": "4713.01-practice-of-esthetics",
+      "normalized": "practice of esthetics",
+      "scope": "As used in this chapter:",
+      "section": "4713.01",
+      "source_title": "Section 4713.01 - Cosmetologist definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4713.01",
+      "term": "Practice of esthetics"
+    },
+    {
+      "definition": "(HH) \"Practice of hair design\" means embellishing or beautifying hair, wigs, or hairpieces by arranging, dressing, pressing, curling, waving, permanent waving, cleansing, cutting, singeing, bleaching, coloring, braiding, weaving, bonding and fusion of individual strands or wefts, or similar work. \"Practice of hair design\" includes utilizing techniques performed by hand that result in tension on hair roots such as twisting, wrapping, weaving, extending, locking, or braiding of the hair.",
+      "id": "4713.01-practice-of-hair-design",
+      "normalized": "practice of hair design",
+      "scope": "As used in this chapter:",
+      "section": "4713.01",
+      "source_title": "Section 4713.01 - Cosmetologist definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4713.01",
+      "term": "Practice of hair design"
+    },
+    {
+      "definition": "(II) \"Practice of manicuring\" means cleaning, trimming, shaping the free edge of, or applying polish to the nails of any individual; applying nail enhancements and embellishments to any individual; massaging the hands and lower arms up to the elbow of any individual; massaging the feet and lower legs up to the knee of any individual; using lotions or softeners on the hands and feet of any individual; or any combination of these types of services.",
+      "id": "4713.01-practice-of-manicuring",
+      "normalized": "practice of manicuring",
+      "scope": "As used in this chapter:",
+      "section": "4713.01",
+      "source_title": "Section 4713.01 - Cosmetologist definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4713.01",
+      "term": "Practice of manicuring"
+    },
+    {
+      "definition": "(JJ) \"Practice of natural hair styling\" means embellishing or beautifying hair, wigs, or hairpieces by arranging, dressing, pressing, curling, cleansing, cutting, singeing, braiding, weaving, bonding and fusion of individual strands or wefts, or similar work. \"Practice of natural hair styling\" includes utilizing techniques performed by hand that result in tension on hair roots such as twisting, wrapping, weaving, extending, locking, or braiding of the hair. \"Practice of natural hair styling\" does not include the application of dyes, reactive chemicals, or other preparations to alter the color or to straighten, curl, or alter the structure of the hair.",
+      "id": "4713.01-practice-of-natural-hair-styling",
+      "normalized": "practice of natural hair styling",
+      "scope": "As used in this chapter:",
+      "section": "4713.01",
+      "source_title": "Section 4713.01 - Cosmetologist definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4713.01",
+      "term": "Practice of natural hair styling"
+    },
+    {
+      "definition": "(KK) \"Practicing license\" means a license to practice a branch of cosmetology in a licensed facility.",
+      "id": "4713.01-practicing-license",
+      "normalized": "practicing license",
+      "scope": "As used in this chapter:",
+      "section": "4713.01",
+      "source_title": "Section 4713.01 - Cosmetologist definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4713.01",
+      "term": "Practicing license"
+    },
+    {
+      "definition": "(LL) \"Salon\" means a licensed facility on any premises, building, or part of a building in which an individual engages in the practice of one or more branches of cosmetology. \"Salon\" does not include a barber shop licensed under Chapter 4709. of the Revised Code. \"Salon\" does not mean a tanning facility, although a tanning facility may be located in a salon.",
+      "id": "4713.01-salon",
+      "normalized": "salon",
+      "scope": "As used in this chapter:",
+      "section": "4713.01",
+      "source_title": "Section 4713.01 - Cosmetologist definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4713.01",
+      "term": "Salon"
+    },
+    {
+      "definition": "(MM) \"School\" means any premises, building, or part of a building in which students are instructed in the theories and practices of one or more branches of cosmetology or barbering.",
+      "id": "4713.01-school",
+      "normalized": "school",
+      "scope": "As used in this chapter:",
+      "section": "4713.01",
+      "source_title": "Section 4713.01 - Cosmetologist definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4713.01",
+      "term": "School"
+    },
+    {
+      "definition": "(NN) \"Shampooing\" means the act of cleansing, rinsing, or conditioning an individual's hair.",
+      "id": "4713.01-shampooing",
+      "normalized": "shampooing",
+      "scope": "As used in this chapter:",
+      "section": "4713.01",
+      "source_title": "Section 4713.01 - Cosmetologist definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4713.01",
+      "term": "Shampooing"
+    },
+    {
+      "definition": "(OO) \"Student\" means both of the following:\n\n(1) An individual, other than an apprentice instructor, who is engaged in learning or acquiring knowledge of the practice of a branch of cosmetology at a school;\n\n(2) An individual engaged in learning or acquiring knowledge of the practice of barbering at a school.",
+      "id": "4713.01-student",
+      "normalized": "student",
+      "scope": "As used in this chapter:",
+      "section": "4713.01",
+      "source_title": "Section 4713.01 - Cosmetologist definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4713.01",
+      "term": "Student"
+    },
+    {
+      "definition": "(PP) \"Tanning facility\" means any premises, building, or part of a building that contains one or more rooms or booths with any of the following:\n\n(1) Equipment or beds used for tanning human skin by the use of fluorescent sun lamps using ultraviolet or other artificial radiation;\n\n(2) Equipment or booths that use chemicals applied to human skin, including chemical applications commonly referred to as spray-on, mist-on, or sunless tans;\n\n(3) Equipment or beds that use visible light for cosmetic purposes.",
+      "id": "4713.01-tanning-facility",
+      "normalized": "tanning facility",
+      "scope": "As used in this chapter:",
+      "section": "4713.01",
+      "source_title": "Section 4713.01 - Cosmetologist definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4713.01",
+      "term": "Tanning facility"
+    },
+    {
+      "definition": "(QQ) \"Threading\" includes a service that results in the removal of hair from its follicle from around the eyebrows and from other parts of the face with the use of a single strand of thread and an astringent, if the service does not use chemicals of any kind, wax, or any implements, instruments, or tools to remove hair.\n\nLast updated February 14, 2025 at 7:06 AM",
+      "id": "4713.01-threading",
+      "normalized": "threading",
+      "scope": "As used in this chapter:",
+      "section": "4713.01",
+      "source_title": "Section 4713.01 - Cosmetologist definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4713.01",
+      "term": "Threading"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "4709.01",
+      "number": "4709.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4709.01"
+    },
+    {
+      "kind": "section",
+      "label": "4713.41",
+      "number": "4713.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.41"
+    },
+    {
+      "kind": "section",
+      "label": "4713.30",
+      "number": "4713.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4713.30"
+    }
+  ],
+  "scraped": "2026-07-02T20:06:35+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4713.01",
+  "title": "Section 4713.01 - Cosmetologist definitions."
+}

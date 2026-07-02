@@ -1,0 +1,14 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5303.01
+Scraped: 2026-07-02T20:11:50+00:00
+
+# Section 5303.01 - Action to quiet title.
+
+**Effective:** March 31, 1973
+
+**Latest Legislation:** House Bill 390 - 109th General Assembly
+
+An action may be brought by a person in possession of real property, by himself or tenant, against any person who claims an interest therein adverse to him, for the purpose of determining such adverse interest. Such action may be brought also by a person out of possession, having, or claiming to have, an interest in remainder or reversion in real property, against any person who claims to have an interest therein, adverse to him, for the purpose of determining the interests of the parties therein.
+
+Whenever the state or any agency or political subdivision thereof has, or appears to have, an interest in real property adverse to the person in possession claiming the right thereto, the state or such agency or such political subdivision may be made a party in any action brought under this section.
+
+The clerk of the court shall cause to be recorded in the deed records of each county in which any part of the real property lies, a certified copy of the judgment or decree determining the interests of the parties. The usual fees of the clerk and recorder shall be taxed as part of the costs of the case.

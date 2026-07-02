@@ -1,0 +1,10 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3767.08
+Scraped: 2026-07-02T20:01:21+00:00
+
+# Section 3767.08 - Tax when permanent injunction issues - payment.
+
+**Effective:** January 1, 1974
+
+**Latest Legislation:** House Bill 511 - 109th General Assembly
+
+Whenever a permanent injunction issues against any person for maintaining a nuisance, there shall be imposed upon said nuisance and against the person maintaining the same a tax of three hundred dollars. Such tax may not be imposed upon the personal property or against the owner thereof who has proved innocence as provided in section 3767.06 of the Revised Code, or upon the real property or against the owner thereof who shows to the satisfaction of the court or judge thereof at the time of the granting of the permanent injunction, that he has, in good faith, permanently abated the nuisance complained of. The imposition of said tax shall be made by the court as a part of the proceeding and the clerk of said court shall make and certify a return of the imposition of said tax thereon to the county auditor, who shall enter the same as a tax upon the property and against the persons upon which or whom the lien was imposed as and when other taxes are entered, and the same shall be and remain a perpetual lien upon all property, both personal and real, used for the purpose of maintaining said nuisance except as excepted in this section until fully paid. Any such lien imposed while the tax books are in the hands of the auditor shall be immediately entered therein. The payment of said tax shall not relieve the persons or property from any other taxes. The provisions of the laws relating to the collection of taxes in this state, the delinquency thereof, and sale of property for taxes shall govern in the collection of the tax prescribed in this section in so far as the same are applicable, and the said tax collected shall be applied in payment of any deficiency in the costs of the action and abatement on behalf of the state to the extent of such deficiency after the application thereto of the proceeds of the sale of personal property.

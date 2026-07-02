@@ -1,0 +1,12 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3719.062
+Scraped: 2026-07-02T19:51:34+00:00
+
+# Section 3719.062 - Adoption of rules by health-related licensing board regarding opioid analgesics.
+
+**Effective:** April 6, 2017
+
+**Latest Legislation:** Senate Bill 319 - 131st General Assembly
+
+As used in this section, "health-related licensing board" means a state board authorized to issue a license to engage in the practice of a licensed health professional authorized to prescribe drugs.
+
+A health-related licensing board may adopt rules limiting the amount of an opioid analgesic that may be prescribed pursuant to a single prescription by an individual licensed by the board. The rules shall be adopted in accordance with Chapter 119. of the Revised Code.

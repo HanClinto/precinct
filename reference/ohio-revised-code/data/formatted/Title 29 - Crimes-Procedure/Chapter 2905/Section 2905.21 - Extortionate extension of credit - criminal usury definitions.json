@@ -1,0 +1,92 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"To extend credit\" means to make or renew any loan, or to enter into any agreement, express or implied, for the repayment or satisfaction of any debt or claim, regardless of whether the extension of credit is acknowledged or disputed, valid or invalid, and however arising.",
+      "id": "2905.21-to-extend-credit",
+      "normalized": "to extend credit",
+      "scope": "As used in sections 2905.21 to 2905.24 of the Revised Code:",
+      "section": "2905.21",
+      "source_title": "Section 2905.21 - Extortionate extension of credit - criminal usury definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2905.21",
+      "term": "To extend credit"
+    },
+    {
+      "definition": "(B) \"Creditor\" means any person who extends credit, or any person claiming by, under, or through such a person.",
+      "id": "2905.21-creditor",
+      "normalized": "creditor",
+      "scope": "As used in sections 2905.21 to 2905.24 of the Revised Code:",
+      "section": "2905.21",
+      "source_title": "Section 2905.21 - Extortionate extension of credit - criminal usury definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2905.21",
+      "term": "Creditor"
+    },
+    {
+      "definition": "(C) \"Debtor\" means any person who receives an extension of credit, any person who guarantees the repayment of an extension of credit, or any person who in any manner undertakes to indemnify the creditor against loss resulting from the failure of any recipient to repay an extension of credit.\n\n(D) \"Repayment\" of an extension of credit means the repayment, satisfaction, or discharge in whole or in part of any debt or claim, acknowledged or disputed, valid or invalid, resulting from or in connection with that extension of credit.",
+      "id": "2905.21-debtor",
+      "normalized": "debtor",
+      "scope": "As used in sections 2905.21 to 2905.24 of the Revised Code:",
+      "section": "2905.21",
+      "source_title": "Section 2905.21 - Extortionate extension of credit - criminal usury definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2905.21",
+      "term": "Debtor"
+    },
+    {
+      "definition": "(E) \"Collect an extension of credit\" means an attempt to collect from a debtor all or part of an amount due from the extension of credit.",
+      "id": "2905.21-collect-an-extension-of-credit",
+      "normalized": "collect an extension of credit",
+      "scope": "As used in sections 2905.21 to 2905.24 of the Revised Code:",
+      "section": "2905.21",
+      "source_title": "Section 2905.21 - Extortionate extension of credit - criminal usury definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2905.21",
+      "term": "Collect an extension of credit"
+    },
+    {
+      "definition": "(F) \"Extortionate extension of credit\" means any extension of credit with respect to which it is the understanding of the creditor and the debtor at the time it is made that delay in making repayment or failure to make repayment will result in the use of an extortionate means or if the debtor at a later time learns that failure to make repayment will result in the use of extortionate means.\n\n(G) \"Extortionate means\" is any means that involves the use, or an express or implicit threat of use, of violence or other criminal means to cause harm to the person or property of the debtor or any member of his family.",
+      "id": "2905.21-extortionate-extension-of-credit",
+      "normalized": "extortionate extension of credit",
+      "scope": "As used in sections 2905.21 to 2905.24 of the Revised Code:",
+      "section": "2905.21",
+      "source_title": "Section 2905.21 - Extortionate extension of credit - criminal usury definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2905.21",
+      "term": "Extortionate extension of credit"
+    },
+    {
+      "definition": "(H) \"Criminal usury\" means illegally charging, taking, or receiving any money or other property as interest on an extension of credit at a rate exceeding twenty-five per cent per annum or the equivalent rate for a longer or shorter period, unless either:\n\n(1) The rate of interest is otherwise authorized by law;\n\n(2) The creditor and the debtor, or all the creditors and all the debtors are members of the same immediate family.",
+      "id": "2905.21-criminal-usury",
+      "normalized": "criminal usury",
+      "scope": "As used in sections 2905.21 to 2905.24 of the Revised Code:",
+      "section": "2905.21",
+      "source_title": "Section 2905.21 - Extortionate extension of credit - criminal usury definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2905.21",
+      "term": "Criminal usury"
+    },
+    {
+      "definition": "(I) \"Immediate family\" means a person's spouse residing in the person's household, brothers and sisters of the whole or of the half blood, and children, including adopted children.",
+      "id": "2905.21-immediate-family",
+      "normalized": "immediate family",
+      "scope": "As used in sections 2905.21 to 2905.24 of the Revised Code:",
+      "section": "2905.21",
+      "source_title": "Section 2905.21 - Extortionate extension of credit - criminal usury definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2905.21",
+      "term": "Immediate family"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2905.21",
+      "number": "2905.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2905.21"
+    },
+    {
+      "kind": "section",
+      "label": "2905.24",
+      "number": "2905.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2905.24"
+    }
+  ],
+  "scraped": "2026-07-02T19:46:01+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2905.21",
+  "title": "Section 2905.21 - Extortionate extension of credit - criminal usury definitions."
+}

@@ -1,0 +1,296 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Employee\" means any qualified employee in the uniform division of the state highway patrol, any qualified employee in the radio division hired prior to November 2, 1989, and any state highway patrol cadet attending training school pursuant to section 5503.05 of the Revised Code whose attendance at the school begins on or after June 30, 1991. \"Employee\" includes the superintendent of the state highway patrol. In all cases of doubt, the state highway patrol retirement board shall determine whether any person is an employee as defined in this division, and the decision of the board is final.",
+      "id": "5505.01-employee",
+      "normalized": "employee",
+      "scope": "As used in this chapter:",
+      "section": "5505.01",
+      "source_title": "Section 5505.01 - Highway patrol retirement system definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5505.01",
+      "term": "Employee"
+    },
+    {
+      "definition": "(B) \"Prior service\" means all service rendered as an employee of the state highway patrol prior to September 5, 1941, to the extent credited by the board, provided that in no case shall prior service include service rendered prior to November 15, 1933.",
+      "id": "5505.01-prior-service",
+      "normalized": "prior service",
+      "scope": "As used in this chapter:",
+      "section": "5505.01",
+      "source_title": "Section 5505.01 - Highway patrol retirement system definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5505.01",
+      "term": "Prior service"
+    },
+    {
+      "definition": "(C) \"Total service\" means all service rendered by an employee to the extent credited by the board. Total service includes all of the following:\n\n(1) Contributing service rendered by the employee since last becoming a member of the state highway patrol retirement system;\n\n(2) All prior service credit;\n\n(3) Restored service credit as provided in this chapter;\n\n(4) Military service credit purchased under division (D) of section 5505.16 or section 5505.25 of the Revised Code;\n\n(5) Credit granted under division (C) of section 5505.17 or section 5505.201 , 5505.40 , or 5505.402 of the Revised Code;\n\n(6) Credit for any period, not to exceed three years, during which the member was out of service and receiving benefits under Chapters 4121. and 4123. of the Revised Code.",
+      "id": "5505.01-total-service",
+      "normalized": "total service",
+      "scope": "As used in this chapter:",
+      "section": "5505.01",
+      "source_title": "Section 5505.01 - Highway patrol retirement system definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5505.01",
+      "term": "Total service"
+    },
+    {
+      "definition": "(D) \"Regular interest\" means interest compounded at rates designated from time to time by the retirement board.",
+      "id": "5505.01-regular-interest",
+      "normalized": "regular interest",
+      "scope": "As used in this chapter:",
+      "section": "5505.01",
+      "source_title": "Section 5505.01 - Highway patrol retirement system definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5505.01",
+      "term": "Regular interest"
+    },
+    {
+      "definition": "(E) \"Plan\" means the provisions of this chapter.",
+      "id": "5505.01-plan",
+      "normalized": "plan",
+      "scope": "As used in this chapter:",
+      "section": "5505.01",
+      "source_title": "Section 5505.01 - Highway patrol retirement system definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5505.01",
+      "term": "Plan"
+    },
+    {
+      "definition": "(F) \"Retirement system\" or \"system\" means the state highway patrol retirement system created and established in the plan.",
+      "id": "5505.01-retirement-system",
+      "normalized": "retirement system",
+      "scope": "As used in this chapter:",
+      "section": "5505.01",
+      "source_title": "Section 5505.01 - Highway patrol retirement system definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5505.01",
+      "term": "Retirement system"
+    },
+    {
+      "definition": "(F) \"Retirement system\" or \"system\" means the state highway patrol retirement system created and established in the plan.",
+      "id": "5505.01-system",
+      "normalized": "system",
+      "scope": "As used in this chapter:",
+      "section": "5505.01",
+      "source_title": "Section 5505.01 - Highway patrol retirement system definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5505.01",
+      "term": "system"
+    },
+    {
+      "definition": "(G) \"Contributing service\" means all service rendered by a member since September 4, 1941, for which deductions were made from the member's salary under the plan.",
+      "id": "5505.01-contributing-service",
+      "normalized": "contributing service",
+      "scope": "As used in this chapter:",
+      "section": "5505.01",
+      "source_title": "Section 5505.01 - Highway patrol retirement system definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5505.01",
+      "term": "Contributing service"
+    },
+    {
+      "definition": "(H) \"Retirement board\" or \"board\" means the state highway patrol retirement board provided for in the plan.",
+      "id": "5505.01-retirement-board",
+      "normalized": "retirement board",
+      "scope": "As used in this chapter:",
+      "section": "5505.01",
+      "source_title": "Section 5505.01 - Highway patrol retirement system definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5505.01",
+      "term": "Retirement board"
+    },
+    {
+      "definition": "(H) \"Retirement board\" or \"board\" means the state highway patrol retirement board provided for in the plan.",
+      "id": "5505.01-board",
+      "normalized": "board",
+      "scope": "As used in this chapter:",
+      "section": "5505.01",
+      "source_title": "Section 5505.01 - Highway patrol retirement system definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5505.01",
+      "term": "board"
+    },
+    {
+      "definition": "(I) Except as provided in sections 5505.16 , 5505.162 , and 5505.18 of the Revised Code, \"member\" means any employee included in the membership of the retirement system, whether or not rendering contributing service.",
+      "id": "5505.01-member",
+      "normalized": "member",
+      "scope": "As used in this chapter:",
+      "section": "5505.01",
+      "source_title": "Section 5505.01 - Highway patrol retirement system definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5505.01",
+      "term": "member"
+    },
+    {
+      "definition": "(J) \"Retirant\" means any member who has retired under section 5505.16 or 5505.18 of the Revised Code.",
+      "id": "5505.01-retirant",
+      "normalized": "retirant",
+      "scope": "As used in this chapter:",
+      "section": "5505.01",
+      "source_title": "Section 5505.01 - Highway patrol retirement system definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5505.01",
+      "term": "Retirant"
+    },
+    {
+      "definition": "(K) \"Accumulated contributions\" means the sum of the following credited to a member's individual account in the employees' savings fund:\n\n(1) All amounts deducted from the salary of the member;\n\n(2) All amounts paid by the member to purchase state highway patrol retirement system service credit pursuant to this chapter or other state law.",
+      "id": "5505.01-accumulated-contributions",
+      "normalized": "accumulated contributions",
+      "scope": "As used in this chapter:",
+      "section": "5505.01",
+      "source_title": "Section 5505.01 - Highway patrol retirement system definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5505.01",
+      "term": "Accumulated contributions"
+    },
+    {
+      "definition": "(L)(1) Except as provided in division (L)(2) of this section, \"final average salary\" means the average of the highest salary paid a member during any five consecutive or nonconsecutive years.\n\nIf a member has less than five years of contributing service, the member's final average salary shall be the average of the annual rates of salary paid to the member during the member's total years of contributing service.\n\n(2) If a member is credited with service under division (C)(6) of this section or division (D) of section 5505.16 of the Revised Code, the member's final average salary shall be the average of the highest salary that was paid to the member or would have been paid to the member, had the member been rendering contributing service, during any five consecutive or nonconsecutive years. If that member has less than five years of total service, the member's final average salary shall be the average of the annual rates of salary that were paid to the member or would have been paid to the member during the member's years of total service.",
+      "id": "5505.01-final-average-salary",
+      "normalized": "final average salary",
+      "scope": "As used in this chapter:",
+      "section": "5505.01",
+      "source_title": "Section 5505.01 - Highway patrol retirement system definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5505.01",
+      "term": "final average salary"
+    },
+    {
+      "definition": "(M) \"Pension\" means an annual amount payable by the retirement system throughout the life of a person or as otherwise provided in the plan.",
+      "id": "5505.01-pension",
+      "normalized": "pension",
+      "scope": "As used in this chapter:",
+      "section": "5505.01",
+      "source_title": "Section 5505.01 - Highway patrol retirement system definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5505.01",
+      "term": "Pension"
+    },
+    {
+      "definition": "(N) \"Pension reserve\" means the present value of any pension, or benefit in lieu of any pension, computed upon the basis of mortality and other tables of experience and interest the board shall from time to time adopt.",
+      "id": "5505.01-pension-reserve",
+      "normalized": "pension reserve",
+      "scope": "As used in this chapter:",
+      "section": "5505.01",
+      "source_title": "Section 5505.01 - Highway patrol retirement system definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5505.01",
+      "term": "Pension reserve"
+    },
+    {
+      "definition": "(O) \"Deferred pension\" means a pension for which an eligible member of the system has made application and which is payable as provided in division (A) or (B) of section 5505.16 of the Revised Code.",
+      "id": "5505.01-deferred-pension",
+      "normalized": "deferred pension",
+      "scope": "As used in this chapter:",
+      "section": "5505.01",
+      "source_title": "Section 5505.01 - Highway patrol retirement system definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5505.01",
+      "term": "Deferred pension"
+    },
+    {
+      "definition": "(P) \"Retirement\" means retirement as provided in sections 5505.16 and 5505.18 of the Revised Code.",
+      "id": "5505.01-retirement",
+      "normalized": "retirement",
+      "scope": "As used in this chapter:",
+      "section": "5505.01",
+      "source_title": "Section 5505.01 - Highway patrol retirement system definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5505.01",
+      "term": "Retirement"
+    },
+    {
+      "definition": "(Q) \"Fiduciary\" means any of the following:\n\n(1) A person who exercises any discretionary authority or control with respect to the management of the system, or with respect to the management or disposition of its assets;\n\n(2) A person who renders investment advice for a fee, direct or indirect, with respect to money or property of the system;\n\n(3) A person who has any discretionary authority or responsibility in the administration of the system.",
+      "id": "5505.01-fiduciary",
+      "normalized": "fiduciary",
+      "scope": "As used in this chapter:",
+      "section": "5505.01",
+      "source_title": "Section 5505.01 - Highway patrol retirement system definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5505.01",
+      "term": "Fiduciary"
+    },
+    {
+      "definition": "(R)(1) Except as otherwise provided in this division, \"salary\" means all compensation, wages, and other earnings paid to a member by reason of employment but without regard to whether any of the compensation, wages, or other earnings are treated as deferred income for federal income tax purposes. Salary includes all of the following:\n\n(a) Payments for shift differential, hazard duty, professional achievement, and longevity;\n\n(b) Payments for occupational injury leave, personal leave, sick leave, bereavement leave, administrative leave, and vacation leave used by the member;\n\n(c) Payments made under a disability leave program sponsored by the state for which the state is required by section 5505.151 of the Revised Code to make periodic employer and employee contributions to the retirement system.",
+      "id": "5505.01-salary",
+      "normalized": "salary",
+      "scope": "As used in this chapter:",
+      "section": "5505.01",
+      "source_title": "Section 5505.01 - Highway patrol retirement system definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5505.01",
+      "term": "salary"
+    },
+    {
+      "definition": "(2) \"Salary\" does not include any of the following:\n\n(a) Payments resulting from the conversion of accrued but unused sick leave, personal leave, compensatory time, and vacation leave;\n\n(b) Payments made by the state to provide life insurance, sickness, accident, endowment, health, medical, hospital, dental, or surgical coverage, or other insurance for the member or the member's family, or amounts paid by the state to the member in lieu of providing that insurance;\n\n(c) Payments for overtime work;\n\n(d) Incidental benefits, including lodging, food, laundry, parking, or services furnished by the state, use of property or equipment of the state, and reimbursement for job-related expenses authorized by the state including moving and travel expenses and expenses related to professional development;\n\n(e) Payments made to or on behalf of a member that are in excess of the annual compensation that may be taken into account by the retirement system under division (a)(17) of section 401 of the \"Internal Revenue Code of 1986,\" 100 Stat. 2085, 26 U.S.C.A. 401 (a)(17), as amended;\n\n(f) Payments made under division (B), (C), or (E) of section 5923.05 of the Revised Code, Section 4 of Substitute Senate Bill No. 3 of the 119th general assembly, Section 3 of Amended Substitute Senate Bill No. 164 of the 124th general assembly, or Amended Substitute House Bill No. 405 of the 124th general assembly.\n\n(3) The retirement board shall determine by rule whether any compensation, wages, or earnings not enumerated in this division are salary, and its decision shall be final.",
+      "id": "5505.01-salary",
+      "normalized": "salary",
+      "scope": "As used in this chapter:",
+      "section": "5505.01",
+      "source_title": "Section 5505.01 - Highway patrol retirement system definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5505.01",
+      "term": "Salary"
+    },
+    {
+      "definition": "(S) \"Actuary\" means an individual who satisfies all of the following requirements:\n\n(1) Is a member of the American academy of actuaries;\n\n(2) Is an associate or fellow of the society of actuaries;\n\n(3) Has a minimum of five years' experience in providing actuarial services to public retirement plans.",
+      "id": "5505.01-actuary",
+      "normalized": "actuary",
+      "scope": "As used in this chapter:",
+      "section": "5505.01",
+      "source_title": "Section 5505.01 - Highway patrol retirement system definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5505.01",
+      "term": "Actuary"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "5503.05",
+      "number": "5503.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5503.05"
+    },
+    {
+      "kind": "section",
+      "label": "5505.16",
+      "number": "5505.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5505.16"
+    },
+    {
+      "kind": "section",
+      "label": "5505.25",
+      "number": "5505.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5505.25"
+    },
+    {
+      "kind": "section",
+      "label": "5505.17",
+      "number": "5505.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5505.17"
+    },
+    {
+      "kind": "section",
+      "label": "5505.201",
+      "number": "5505.201",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5505.201"
+    },
+    {
+      "kind": "section",
+      "label": "5505.40",
+      "number": "5505.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5505.40"
+    },
+    {
+      "kind": "section",
+      "label": "5505.402",
+      "number": "5505.402",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5505.402"
+    },
+    {
+      "kind": "section",
+      "label": "5505.162",
+      "number": "5505.162",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5505.162"
+    },
+    {
+      "kind": "section",
+      "label": "5505.18",
+      "number": "5505.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5505.18"
+    },
+    {
+      "kind": "section",
+      "label": "5505.151",
+      "number": "5505.151",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5505.151"
+    },
+    {
+      "kind": "section",
+      "label": "5923.05",
+      "number": "5923.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5923.05"
+    }
+  ],
+  "scraped": "2026-07-02T20:12:28+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5505.01",
+  "title": "Section 5505.01 - Highway patrol retirement system definitions."
+}

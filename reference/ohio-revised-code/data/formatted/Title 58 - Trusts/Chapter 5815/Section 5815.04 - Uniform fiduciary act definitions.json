@@ -1,0 +1,78 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Bank\" includes any person, carrying on the business of banking and any financial institution defined in section 5725.01 of the Revised Code.",
+      "id": "5815.04-bank",
+      "normalized": "bank",
+      "scope": "As used in sections 5815.04 to 5815.11 of the Revised Code:",
+      "section": "5815.04",
+      "source_title": "Section 5815.04 - Uniform fiduciary act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5815.04",
+      "term": "Bank"
+    },
+    {
+      "definition": "(B) \"Fiduciary\" includes a trustee under any trust, expressed, implied, resulting, or constructive, an executor, administrator, guardian, conservator, curator, receiver, trustee in bankruptcy, assignee for the benefit of creditors, partner, agent, officer of a corporation, public or private, public officer, or any other person acting in a fiduciary capacity for any person, trust, or estate.",
+      "id": "5815.04-fiduciary",
+      "normalized": "fiduciary",
+      "scope": "As used in sections 5815.04 to 5815.11 of the Revised Code:",
+      "section": "5815.04",
+      "source_title": "Section 5815.04 - Uniform fiduciary act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5815.04",
+      "term": "Fiduciary"
+    },
+    {
+      "definition": "(C) \"Person\" includes a corporation, partnership, association, or two or more persons having a joint or common interest.",
+      "id": "5815.04-person",
+      "normalized": "person",
+      "scope": "As used in sections 5815.04 to 5815.11 of the Revised Code:",
+      "section": "5815.04",
+      "source_title": "Section 5815.04 - Uniform fiduciary act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5815.04",
+      "term": "Person"
+    },
+    {
+      "definition": "(D) \"Principal\" includes any person to whom a fiduciary as such owes an obligation.",
+      "id": "5815.04-principal",
+      "normalized": "principal",
+      "scope": "As used in sections 5815.04 to 5815.11 of the Revised Code:",
+      "section": "5815.04",
+      "source_title": "Section 5815.04 - Uniform fiduciary act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5815.04",
+      "term": "Principal"
+    },
+    {
+      "definition": "(E) \"Good faith\" includes an act when it is in fact done honestly.",
+      "id": "5815.04-good-faith",
+      "normalized": "good faith",
+      "scope": "As used in sections 5815.04 to 5815.11 of the Revised Code:",
+      "section": "5815.04",
+      "source_title": "Section 5815.04 - Uniform fiduciary act definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5815.04",
+      "term": "Good faith"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "5815.04",
+      "number": "5815.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5815.04"
+    },
+    {
+      "kind": "section",
+      "label": "5815.11",
+      "number": "5815.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5815.11"
+    },
+    {
+      "kind": "section",
+      "label": "5725.01",
+      "number": "5725.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5725.01"
+    }
+  ],
+  "scraped": "2026-07-02T20:16:17+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5815.04",
+  "title": "Section 5815.04 - Uniform fiduciary act definitions."
+}

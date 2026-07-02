@@ -1,0 +1,36 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3345.591
+Scraped: 2026-07-02T19:49:49+00:00
+
+# Section 3345.591 - Interactions with the People's Republic of China.
+
+**Effective:** September 30, 2025
+
+**Latest Legislation:** House Bill 96 - 136th General Assembly
+
+(A) As used in this section:
+
+(1) "People's Republic of China" means the government of China, the Chinese Communist Party, the People's Liberation Army, or any other extension of, or entity affiliated with, the government of China.
+
+(2) "State institution of higher education" has the same meaning as in section 3345.011 of the Revised Code.
+
+(B) No state institution of higher education shall accept gifts, donations, or contributions from the People's Republic of China or any organization the institution reasonably suspects is acting on behalf of the People's Republic of China.
+
+Nothing in this section prohibits a state institution of higher education from accepting payments from Chinese citizens related to instructional fees, general fees, special fees, cost of instruction, or educational expenses or donations from the institution's alumni.
+
+Nothing in this section prohibits a state institution of higher education from receiving philanthropic or unrestricted grants so long as it maintains the structural safeguard requirements provided for in division (E) of this section.
+
+(C) Each state institution shall submit to the chancellor of higher education a copy of the report it submits to the United States department of education pursuant to 20 U.S.C. 1011(f).
+
+(D) Upon request, the chancellor shall make any information reported under division (C) of this section available to any member of the general assembly.
+
+(E) A state institution shall notify the chancellor of any new or renewed academic partnership with an academic or research institution located in China. A state institution shall only enter into a new or renewed academic partnership with an academic or research institution located in China if the state institution maintains sufficient structural safeguards to protect the state institution's intellectual property, the security of the state of Ohio, and the national security interests of the United States. The safeguards shall include, at a minimum, all of the following:
+
+(1) Compliance with all federal requirements, including the requirements of federal research sponsors and federal export control agencies, including regulations regarding international traffic in arms and export administration regulations, and economic and trade sanctions administered by the federal office of foreign assets control;
+
+(2) Annual formal institution-level programs for faculty on conflicts of interest and conflicts of commitment;
+
+(3) A formalized foreign visitor process and uniform visiting scholar agreement.
+
+(F) The auditor of state shall audit the safeguards implemented by state institutions of higher education under division (E) of this section in the course of a normal audit conducted under section 117.11 of the Revised Code.
+
+Last updated July 23, 2025 at 12:42 PM

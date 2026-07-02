@@ -1,0 +1,10 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4747.17
+Scraped: 2026-07-02T20:07:32+00:00
+
+# Section 4747.17 - Compliance with law regarding sanctions for human trafficking.
+
+**Effective:** January 21, 2018
+
+**Latest Legislation:** House Bill 49 - 132nd General Assembly
+
+The state speech and hearing professionals board shall comply with section 4776.20 of the Revised Code.

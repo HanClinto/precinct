@@ -1,0 +1,64 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Applicant\" means any licensed physician, podiatrist, or hospital, as those terms are defined in section 2305.113 of the Revised Code, or any certified nurse-midwife, clinical nurse specialist, or certified nurse practitioner.",
+      "id": "3929.62-applicant",
+      "normalized": "applicant",
+      "scope": "As used in sections 3929.62 to 3929.70 of the Revised Code and any rules adopted pursuant to those sections:",
+      "section": "3929.62",
+      "source_title": "Section 3929.62 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3929.62",
+      "term": "Applicant"
+    },
+    {
+      "definition": "(B) \"Medical liability underwriting association\" means a nonprofit unincorporated underwriting association for medical liability insurance established under section 3929.63 of the Revised Code.",
+      "id": "3929.62-medical-liability-underwriting-association",
+      "normalized": "medical liability underwriting association",
+      "scope": "As used in sections 3929.62 to 3929.70 of the Revised Code and any rules adopted pursuant to those sections:",
+      "section": "3929.62",
+      "source_title": "Section 3929.62 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3929.62",
+      "term": "Medical liability underwriting association"
+    },
+    {
+      "definition": "(C) \"Medical liability insurance\" means insurance coverage against the legal liability of the insured and against loss, damage, or expense incident to a claim arising out of the death, disease, or injury of any person as the result of negligence or malpractice in rendering professional service or related to the credentialing or accreditation of any medical professional or hospital by any licensed physician, podiatrist, or hospital, as those terms are defined in section 2305.113 of the Revised Code, any certified nurse-midwife, clinical nurse specialist, or certified nurse practitioner, or any employee or agent acting within the scope of their duties for a physician, podiatrist, certified nurse-midwife, clinical nurse specialist, certified nurse practitioner, or hospital.\n\nLast updated February 18, 2025 at 5:58 PM",
+      "id": "3929.62-medical-liability-insurance",
+      "normalized": "medical liability insurance",
+      "scope": "As used in sections 3929.62 to 3929.70 of the Revised Code and any rules adopted pursuant to those sections:",
+      "section": "3929.62",
+      "source_title": "Section 3929.62 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3929.62",
+      "term": "Medical liability insurance"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3929.62",
+      "number": "3929.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.62"
+    },
+    {
+      "kind": "section",
+      "label": "3929.70",
+      "number": "3929.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.70"
+    },
+    {
+      "kind": "section",
+      "label": "2305.113",
+      "number": "2305.113",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.113"
+    },
+    {
+      "kind": "section",
+      "label": "3929.63",
+      "number": "3929.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3929.63"
+    }
+  ],
+  "scraped": "2026-07-02T20:02:57+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3929.62",
+  "title": "Section 3929.62 - Definitions."
+}

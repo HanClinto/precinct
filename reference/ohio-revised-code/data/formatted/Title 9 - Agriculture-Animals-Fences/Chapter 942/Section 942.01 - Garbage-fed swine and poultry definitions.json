@@ -1,0 +1,68 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Garbage\" means all waste material derived in whole or in part from the meat of any animal, including fish and poultry, or other animal material, and other refuse of any character that has been associated with such waste material resulting from the handling, preparation, cooking, or consumption of food.",
+      "id": "942.01-garbage",
+      "normalized": "garbage",
+      "scope": "As used in sections 942.01 to 942.05 of the Revised Code:",
+      "section": "942.01",
+      "source_title": "Section 942.01 - Garbage-fed swine and poultry definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-942.01",
+      "term": "Garbage"
+    },
+    {
+      "definition": "(B) \"Person\" means any individual, corporation, partnership, association, society, company, firm, or other legal entity.",
+      "id": "942.01-person",
+      "normalized": "person",
+      "scope": "As used in sections 942.01 to 942.05 of the Revised Code:",
+      "section": "942.01",
+      "source_title": "Section 942.01 - Garbage-fed swine and poultry definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-942.01",
+      "term": "Person"
+    },
+    {
+      "definition": "(C) \"Raw rendering material\" has the same meaning as in section 953.21 of the Revised Code.",
+      "id": "942.01-raw-rendering-material",
+      "normalized": "raw rendering material",
+      "scope": "As used in sections 942.01 to 942.05 of the Revised Code:",
+      "section": "942.01",
+      "source_title": "Section 942.01 - Garbage-fed swine and poultry definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-942.01",
+      "term": "Raw rendering material"
+    },
+    {
+      "definition": "(D) \"Treated garbage\" means any edible garbage for consumption by swine that has been heated at boiling point while being agitated, except in steam cooking equipment, to ensure that the garbage is heated throughout for thirty minutes.\n\nLast updated January 27, 2025 at 9:46 AM",
+      "id": "942.01-treated-garbage",
+      "normalized": "treated garbage",
+      "scope": "As used in sections 942.01 to 942.05 of the Revised Code:",
+      "section": "942.01",
+      "source_title": "Section 942.01 - Garbage-fed swine and poultry definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-942.01",
+      "term": "Treated garbage"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "942.01",
+      "number": "942.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-942.01"
+    },
+    {
+      "kind": "section",
+      "label": "942.05",
+      "number": "942.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-942.05"
+    },
+    {
+      "kind": "section",
+      "label": "953.21",
+      "number": "953.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-953.21"
+    }
+  ],
+  "scraped": "2026-07-02T19:35:28+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-942.01",
+  "title": "Section 942.01 - Garbage-fed swine and poultry definitions."
+}

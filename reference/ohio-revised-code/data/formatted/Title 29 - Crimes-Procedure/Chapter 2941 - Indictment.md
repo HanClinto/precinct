@@ -1,0 +1,94 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-2941
+Scraped: 2026-07-02T19:46:49+00:00
+
+# Chapter 2941 - Indictment
+
+## Sections
+
+- Section 2941.01 - Indictment definitions.
+- Section 2941.02 - Indictment processes apply to informations.
+- Section 2941.021 - Offenses prosecuted by information.
+- Section 2941.03 - Sufficiency of indictment or information.
+- Section 2941.04 - Two or more offenses in one indictment or information.
+- Section 2941.05 - Statement that accused has committed some public offense.
+- Section 2941.06 - Form of indictment.
+- Section 2941.07 - Bill of particulars.
+- Section 2941.08 - Defects which do not affect validity of indictment or information.
+- Section 2941.09 - Identification of group, association, or corporation.
+- Section 2941.10 - Indictment failing to negative any exception, excuse, or proviso contained in statute.
+- Section 2941.11 - Allege prior conviction.
+- Section 2941.12 - Pleading a statute or right derived therefrom.
+- Section 2941.13 - Pleading a judgment or other determination.
+- Section 2941.14 - Indictment for aggravated murder, murder, or voluntary or involuntary manslaughter - specifications.
+- Section 2941.141 - Firearm on or about offender's person or under offender's control specification.
+- Section 2941.142 - Criminal gang participation specification.
+- Section 2941.143 - Offense in school safety zone or towards a person in school safety zone specification.
+- Section 2941.144 - Automatic firearm or firearm muffler or suppressor specification.
+- Section 2941.145 - Firearm displayed, brandished, indicated that offender possessed the firearm, or used it to facilitate offense specification.
+- Section 2941.146 - Firearm discharged from motor vehicle specification.
+- Section 2941.147 - Sexual motivation specification.
+- Section 2941.148 - Sexually violent predator specification.
+- Section 2941.149 - Repeat violent offender specification.
+- Section 2941.1410 - Major drug offender specification.
+- Section 2941.1411 - Offender wore or carried body armor specification.
+- Section 2941.1412 - Discharged firearm at peace officer or corrections officer specification.
+- Section 2941.1413 - Mandatory additional prison term for felony OVI violation precluded unless charging instrument specifies prior convictions.
+- Section 2941.1414 - Peace officer victim of aggravated vehicular homicide specification.
+- Section 2941.1415 - Multiple OVI violations specification.
+- Section 2941.1417 - Property subject to forfeiture - indictment specifications.
+- Section 2941.1418 - Rape - offender age specification.
+- Section 2941.1419 - Rape - victim age specification.
+- Section 2941.1420 - Rape - previous conviction or serious physical harm specification.
+- Section 2941.1421 - School proximity specification for certain sex offenses.
+- Section 2941.1422 - Mandatory prison term - furtherance of human trafficking.
+- Section 2941.1423 - Mandatory prison term - pregnancy known to offender.
+- Section 2941.1424 - Specification of violent career criminal.
+- Section 2941.1425 - Use of accelerant in committing violent felony.
+- Section 2941.1426 - Imposition of mandatory sentence under R.C. 2929.14.
+- Section 2941.15 - Sufficiency of indictment or information for forgery.
+- Section 2941.16 - Description of forgery materials sufficient.
+- Section 2941.17 - Description of writing by usual name or purport.
+- Section 2941.18 - Perjury or falsification allegations.
+- Section 2941.19 - Allegations involving intent to defraud.
+- Section 2941.20 - Allegations involving sale, possession, transportation, buying, or giving intoxicating liquor.
+- Section 2941.21 - Allegations involving property belonging to partners or joint owners.
+- Section 2941.22 - Allegations involving ownership or value of will, codicil, or other testamentary instrument.
+- Section 2941.23 - Allegations involving elections.
+- Section 2941.25 - Allied offenses of similar import - multiple counts.
+- Section 2941.26 - Variance between indictment and evidence.
+- Section 2941.27 - Plea in abatement or other dilatory plea.
+- Section 2941.28 - Misjoinder of parties or offenses not grounds for dismissal.
+- Section 2941.29 - Objection to defect in indictment or information.
+- Section 2941.30 - Amending indictment, information, or bill of particulars.
+- Section 2941.31 - Quashed indictment - nolle prosequi.
+- Section 2941.32 - Two or more indictments pending.
+- Section 2941.33 - Nolle prosequi how entered.
+- Section 2941.34 - Indictment or information mutilated, obliterated, lost, mislaid, or destroyed.
+- Section 2941.35 - Misdemeanor prosecutions.
+- Section 2941.36 - Issuing arrest warrants.
+- Section 2941.37 - Warrant when accused resides out of county.
+- Section 2941.38 - Warrant when accused escapes.
+- Section 2941.39 - Indictment of convict in a state correctional institution.
+- Section 2941.40 - Convicts removed to county for sentence or trial.
+- Section 2941.401 - Request for a final disposition on pending charges by prisoner.
+- Section 2941.41 - Request for a final disposition on pending charges by prisoner - warrant.
+- Section 2941.42 - Request for a final disposition on pending charges by prisoner - confinement.
+- Section 2941.43 - Request for a final disposition on pending charges by prisoner - disposition following trial.
+- Section 2941.44 - Arrest of escaped convict - expense of return.
+- Section 2941.45 - Trial of person serving workhouse sentence.
+- Section 2941.46 - Arrest for violations of conditional pardon or parole.
+- Section 2941.47 - Summons on informations and indictments against corporations.
+- Section 2941.48 - Recognizance of witnesses for appearance at trial.
+- Section 2941.49 - Service of indictments.
+- Section 2941.51 - Counsel for indigents.
+- Section 2941.53 - Methods of excepting an indictment.
+- Section 2941.54 - Motion to quash indictment.
+- Section 2941.55 - Plea in abatement to indictment.
+- Section 2941.56 - Fail to indict in true name.
+- Section 2941.57 - Demurrer.
+- Section 2941.58 - Resubmission to grand jury.
+- Section 2941.59 - Waiver of defects which may be excepted to.
+- Section 2941.60 - Prosecuting attorney may demur to plea in abatement.
+- Section 2941.61 - Overruling demurrer to plea in abatement.
+- Section 2941.62 - Immediate hearing on motions to quash, pleas in abatement, and demurrers.
+- Section 2941.63 - Appointment of counsel to assist prosecutor when public interest requires it.

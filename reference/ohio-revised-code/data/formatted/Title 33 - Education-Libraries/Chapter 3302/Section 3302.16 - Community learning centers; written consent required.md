@@ -1,0 +1,16 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3302.16
+Scraped: 2026-07-02T19:48:16+00:00
+
+# Section 3302.16 - Community learning centers; written consent required.
+
+**Effective:** October 15, 2015
+
+**Latest Legislation:** House Bill 70 - 131st General Assembly
+
+(A)(1) As used in sections 3302.17 and 3302.18 of the Revised Code, "community learning center" means a school operated by a city, exempted village, or local school district or community school established under Chapter 3314. of the Revised Code that participates in a coordinated, community- based effort with community partners to provide comprehensive educational, developmental, family, and health services to students, families, and community members during school hours and hours in which school is not in session.
+
+(2) For purposes of this section and sections 3302.17 and 3302.18 of the Revised Code, "community partner" means a provider to students, families, or community members of health care services, on-site resource coordinators, and any other services or programs determined appropriate by a school action team created under section 3302.18 of the Revised Code.
+
+(B) Prior to providing health services to a student, a community learning center shall obtain the written consent of the student's parent, guardian, or custodian, if the student is less than eighteen years old, or the written consent of the student, if the student is at least eighteen years old.
+
+(C) A community learning center and any employee, contractor, or volunteer of a community learning center shall, in accordance with all applicable state and federal laws, maintain the confidentiality of patient-identifying information obtained in the course of providing health services.

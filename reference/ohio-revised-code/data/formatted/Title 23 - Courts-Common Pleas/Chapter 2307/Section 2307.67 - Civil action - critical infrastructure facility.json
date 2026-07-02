@@ -1,0 +1,64 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Compensation\" means money, thing of value, or financial benefit. \"Compensation\" does not include bail, fines, or court costs.",
+      "id": "2307.67-compensation",
+      "normalized": "compensation",
+      "scope": "(A) As used in this section:",
+      "section": "2307.67",
+      "source_title": "Section 2307.67 - Civil action - critical infrastructure facility.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2307.67",
+      "term": "Compensation"
+    },
+    {
+      "definition": "(2) \"Critical infrastructure facility\" has the same meaning as in section 2911.21 of the Revised Code.",
+      "id": "2307.67-critical-infrastructure-facility",
+      "normalized": "critical infrastructure facility",
+      "scope": "(A) As used in this section:",
+      "section": "2307.67",
+      "source_title": "Section 2307.67 - Civil action - critical infrastructure facility.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2307.67",
+      "term": "Critical infrastructure facility"
+    },
+    {
+      "definition": "(3) \"Organization\" has the same meaning as in section 2901.23 of the Revised Code.\n\n(B) An owner or operator of a critical infrastructure facility may elect to commence a civil action under division (A) of section 2307.60 or section 2307.61 of the Revised Code or under this section against any person who willfully causes damage to the critical infrastructure facility. The plaintiff may recover compensatory damages equal to the replacement value of the property that was damaged. The plaintiff also may recover reasonable attorney's fees, court costs, and other reasonable expenses incurred in maintaining the civil action under this section.\n\n(C) A person or organization may only be held vicariously liable for a judgment the plaintiff obtains against the person who damaged the critical infrastructure facility if the person or organization did either of the following:\n\n(1) Directed, authorized, facilitated, or encouraged the person to cause damage to the critical infrastructure facility;\n\n(2) Provided compensation to the person for damaging the critical infrastructure facility.\n\n(D) In a civil action to recover damages under this section, the trier of fact may determine that the defendant willfully caused damage to the critical infrastructure facility, regardless of whether the defendant has been charged with any related criminal offense, has pleaded guilty to or been convicted of a criminal offense, or has been adjudicated a delinquent child in connection with the property damage.\n\n(E) This section does not affect any criminal prosecution or any action to obtain a delinquent child adjudication in connection with the property damage.",
+      "id": "2307.67-organization",
+      "normalized": "organization",
+      "scope": "(A) As used in this section:",
+      "section": "2307.67",
+      "source_title": "Section 2307.67 - Civil action - critical infrastructure facility.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2307.67",
+      "term": "Organization"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2911.21",
+      "number": "2911.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2911.21"
+    },
+    {
+      "kind": "section",
+      "label": "2901.23",
+      "number": "2901.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2901.23"
+    },
+    {
+      "kind": "section",
+      "label": "2307.60",
+      "number": "2307.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.60"
+    },
+    {
+      "kind": "section",
+      "label": "2307.61",
+      "number": "2307.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.61"
+    }
+  ],
+  "scraped": "2026-07-02T19:43:26+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2307.67",
+  "title": "Section 2307.67 - Civil action - critical infrastructure facility."
+}

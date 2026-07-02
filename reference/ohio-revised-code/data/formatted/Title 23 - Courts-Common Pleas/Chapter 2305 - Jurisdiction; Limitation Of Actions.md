@@ -1,0 +1,86 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-2305
+Scraped: 2026-07-02T19:43:12+00:00
+
+# Chapter 2305 - Jurisdiction; Limitation Of Actions
+
+## Sections
+
+- Section 2305.01 - Jurisdiction in civil cases - trial transfer.
+- Section 2305.011 - Standing of nature or ecosystem.
+- Section 2305.02 - Wrongful imprisonment claim.
+- Section 2305.03 - Lapse of time a bar.
+- Section 2305.04 - Recovery of real estate.
+- Section 2305.041 - Action for breach of oil or gas lease or license.
+- Section 2305.05 - Real estate dedicated to public uses.
+- Section 2305.06 - Contract in writing.
+- Section 2305.07 - Contract not in writing; statutory liability; consumer transactions.
+- Section 2305.08 - Partial payment.
+- Section 2305.09 - Four years - certain torts.
+- Section 2305.091 - Asbestos actions by school districts.
+- Section 2305.10 - Bodily injury or injury to personal property.
+- Section 2305.101 - Limitation of actions against Dalkon Shield claimants trust.
+- Section 2305.11 - Time limitations for bringing certain actions.
+- Section 2305.111 - Assault or battery actions - childhood sexual abuse.
+- Section 2305.112 - Actions based on identity fraud.
+- Section 2305.113 - Medical malpractice actions.
+- Section 2305.114 - Partial birth feticide actions.
+- Section 2305.115 - Assault or battery actions against mental health professional based on sexual conduct or contact.
+- Section 2305.116 - No cause of action for failure to perform abortion.
+- Section 2305.117 - Action upon a legal malpractice claim.
+- Section 2305.118 - Action for an assisted reproduction procedure performed without consent.
+- Section 2305.12 - On official bond.
+- Section 2305.13 - Limitation of actions for recovery of charges by and against carriers - overcharge defined.
+- Section 2305.131 - Ten-year statute of repose for certain premises liability actions.
+- Section 2305.14 - For other relief.
+- Section 2305.15 - Tolling during defendant's absence, concealment or imprisonment.
+- Section 2305.16 - Tolling due to minority or unsound mind.
+- Section 2305.17 - Commencement of action.
+- Section 2305.18 - Summons on corporation in hands of a receiver.
+- Section 2305.19 - Saving in case of reversal.
+- Section 2305.21 - Survival of actions.
+- Section 2305.22 - Exceptions.
+- Section 2305.23 - Liability for emergency care.
+- Section 2305.231 - Immunity of health professionals volunteering services to school athletic program.
+- Section 2305.232 - Immunity of person assisting in clean-up of hazardous material.
+- Section 2305.233 - Immunity of person rendering assistance under reciprocal fire protection agreement.
+- Section 2305.234 - Immunity of volunteer health care professionals and workers and of nonprofit shelters and facilities.
+- Section 2305.235 - Immunity of person involved with providing automated external defibrillation.
+- Section 2305.236 - Immunity concerning domestic violence shelter definitions.
+- Section 2305.237 - Immunity of domestic violence shelter and associated persons concerning torts committed on shelter premises.
+- Section 2305.238 - Immunity where tort committed off domestic violence shelter premises.
+- Section 2305.239 - No new cause of action or substantive legal rights created - effect on other laws.
+- Section 2305.2310 - Civil immunity for architects, contractors, engineers, surveyors, and tradespersons providing volunteer services.
+- Section 2305.2311 - Immunity for care given in disaster.
+- Section 2305.2341 - Medical liability insurance reimbursement program.
+- Section 2305.24 - Information furnished to quality assurance or utilization committee to be confidential.
+- Section 2305.25 - Peer review committee definitions.
+- Section 2305.251 - Peer review committee immunity.
+- Section 2305.252 - Confidentiality of proceedings and records within scope of peer review committee of health care entity.
+- Section 2305.253 - Incident or risk management report not admissible or discoverable.
+- Section 2305.26 - Action to enforce lien - limitations - notice of continuation.
+- Section 2305.28 - Peer or professional standards review committee or counseling and assistance committee of a professional organization not liable for actions taken.
+- Section 2305.29 - No civil liability for breach of a promise to marry, alienation of affections, or criminal conversation.
+- Section 2305.31 - Promisee indemnified against damage liability.
+- Section 2305.32 - Sponsoring employer in ridesharing arrangements not liable.
+- Section 2305.321 - Certain equine activities no liability.
+- Section 2305.33 - Physician reporting to public transportation employer employee's use of a drug of abuse no liability.
+- Section 2305.34 - Hydrant failure of nonprofit corporation or water and sewer district no liability.
+- Section 2305.35 - Donor not liable for injuries to gleaner.
+- Section 2305.36 - Limited immunity for injury due to cumulative consumption, weight gain, or obesity.
+- Section 2305.37 - Person donating perishable food for distribution to needy individuals not liable for harm.
+- Section 2305.38 - Uncompensated volunteers of nonprofit charitable organizations no liability.
+- Section 2305.39 - Non-responsible persons responding to oil spill not liable.
+- Section 2305.40 - Owner, lessee, or renter of real property not liable to trespasser.
+- Section 2305.401 - member of the firearms industry not liable for harm sustained as a result of the operation or discharge of firearm.
+- Section 2305.402 - Duties owed to trespassers.
+- Section 2305.41 - Duties to incapacitated persons - definitions.
+- Section 2305.42 - Identifying devices.
+- Section 2305.43 - Duty of law enforcement officer.
+- Section 2305.44 - Duty to search for identifying device or identification card.
+- Section 2305.45 - Duty of others.
+- Section 2305.46 - False identifying information.
+- Section 2305.47 - Other duties.
+- Section 2305.48 - Uniformity of application.
+- Section 2305.49 - Title and citation.
+- Section 2305.51 - Mental health professional or organization not liable for violent behavior by client or patient.
+- Section 2305.52 - Hold harmless clauses in motor carrier transportation contracts.

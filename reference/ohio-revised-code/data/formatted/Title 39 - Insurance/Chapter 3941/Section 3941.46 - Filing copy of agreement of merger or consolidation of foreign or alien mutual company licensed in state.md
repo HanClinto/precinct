@@ -1,0 +1,10 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3941.46
+Scraped: 2026-07-02T20:03:15+00:00
+
+# Section 3941.46 - Filing copy of agreement of merger or consolidation of foreign or alien mutual company licensed in state.
+
+**Effective:** January 1, 2021
+
+**Latest Legislation:** House Bill 339 - 133rd General Assembly
+
+Any foreign or alien mutual company licensed in this state which is a party to a merger or consolidation shall on or before the effective date thereof file with the superintendent a copy of the agreement. If the surviving company is, at the effective date of the merger or consolidation, licensed as an insurer in this state its license shall continue in effect as though no merger or consolidation had taken place, and on request the superintendent shall transfer to it any additional licenses issued by this state and then held by any nonsurviving insurer which is a party to the merger or consolidation. Revocation or suspension of any of such licenses shall be made only pursuant to the procedures and on the grounds provided in this code, provided, that an additional ground for revocation or suspension of license shall be that the merger or consolidation may have the effect of substantially lessening competition or tending to create a monopoly as to any line of insurance in this state. On receipt of a copy of the agreement of merger or consolidation to which this section applies, the superintendent shall determine whether such revocation or suspension proceedings should be commenced. In making such determination the superintendent may consider any information on file with any agency, division or department of this or any other state, together with any additional relevant information which shall be furnished by the company or companies, pursuant to the superintendent's request. A determination that the merger or consolidation does not violate the additional ground provided in this section shall be conclusively established by the lapse of three months after the effective date of the merger or consolidation without commencement of proceedings to revoke or suspend the license or licenses on that ground.

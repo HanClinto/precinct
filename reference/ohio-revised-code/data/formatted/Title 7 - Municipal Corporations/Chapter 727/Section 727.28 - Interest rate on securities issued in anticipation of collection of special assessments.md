@@ -1,0 +1,14 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-727.28
+Scraped: 2026-07-02T19:33:29+00:00
+
+# Section 727.28 - Interest rate on securities issued in anticipation of collection of special assessments.
+
+**Effective:** November 1, 1991
+
+**Latest Legislation:** House Bill 104 - 119th General Assembly
+
+(A) When securities are issued in anticipation of the collection of special assessments, the interest on the securities shall be treated as part of the cost of the improvement for which the special assessments are made. The unpaid special assessments anticipated by issuance of securities shall bear interest at the same rate or rates of interest and for the same period as the securities issued in anticipation of the special assessments.
+
+(B) When securities are not issued in anticipation of the collection of the special assessments, the legislative authority of the municipal corporation may provide in the assessing ordinance passed pursuant to section 727.25 of the Revised Code for interest on unpaid special assessments which shall be treated as part of the cost of the improvement for which the special assessments are made. The unpaid special assessments shall bear the rate or rates of interest determined by the legislative authority in the assessing ordinance, which rate or rates shall be determined by the legislative authority to be substantially equivalent to the fair market rate or rates that would have been borne by securities issued in anticipation of the collection of the special assessments if such securities had been issued by the municipal corporation.
+
+(C) When the contribution of a municipal corporation, under an agreement pursuant to section 6121.13 of the Revised Code, between the municipal corporation and the Ohio water development authority, for the construction of an improvement for which the municipal corporation can levy assessments as provided in this chapter and sections 6117.41 to 6117.45 of the Revised Code, is to be made over a period of time from the proceeds of the collection of an assessment, the interest accrued and to accrue before the first installment of such assessment is collected, that is payable by such municipal corporation on such contribution under such agreement, shall be treated as part of the cost of the improvement for which such assessment is made, and that portion of such assessments as is collected in installments shall bear interest at the same rate that the municipal corporation is obligated to pay on its contribution under such agreement and for the same period of time as the contribution is to be made under such agreement. If the assessment or any installment thereof is not paid when due, it shall bear interest until the payment thereof at the same rate as such contribution or as the securities issued in anticipation thereof, and the county auditor shall annually place upon the tax list and duplicate the penalty and interest as provided in this chapter.

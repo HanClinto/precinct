@@ -1,0 +1,48 @@
+{
+  "glossary": [
+    {
+      "definition": "(B) \"Plan of health coverage\" means any of the following if the policy, contract, or agreement contains a coordination of benefits provision:\n\n(1) An individual or group sickness and accident insurance policy, which policy provides for hospital, dental, surgical, or medical services;\n\n(2) Any individual or group contract of a health insuring corporation, which contract provides for hospital, dental, surgical, or medical services;\n\n(3) Any other individual or group policy or agreement under which a third-party payer provides for hospital, dental, surgical, or medical services.",
+      "id": "3902.11-plan-of-health-coverage",
+      "normalized": "plan of health coverage",
+      "scope": "As used in sections 3902.11 to 3902.14 of the Revised Code:",
+      "section": "3902.11",
+      "source_title": "Section 3902.11 - Coordination of benefits definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3902.11",
+      "term": "Plan of health coverage"
+    },
+    {
+      "definition": "(C) \"Provider\" means a hospital, nursing home, physician, podiatrist, dentist, pharmacist, chiropractor, or other licensed health care provider entitled to reimbursement by a third-party payer for services rendered to a beneficiary under a benefits contract.",
+      "id": "3902.11-provider",
+      "normalized": "provider",
+      "scope": "As used in sections 3902.11 to 3902.14 of the Revised Code:",
+      "section": "3902.11",
+      "source_title": "Section 3902.11 - Coordination of benefits definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3902.11",
+      "term": "Provider"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3902.11",
+      "number": "3902.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3902.11"
+    },
+    {
+      "kind": "section",
+      "label": "3902.14",
+      "number": "3902.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3902.14"
+    },
+    {
+      "kind": "section",
+      "label": "3901.38",
+      "number": "3901.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.38"
+    }
+  ],
+  "scraped": "2026-07-02T20:02:10+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3902.11",
+  "title": "Section 3902.11 - Coordination of benefits definitions."
+}

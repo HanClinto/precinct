@@ -1,0 +1,18 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-742.3714
+Scraped: 2026-07-02T19:33:36+00:00
+
+# Section 742.3714 - Designating contingent dependent beneficiary.
+
+**Effective:** March 24, 2003
+
+**Latest Legislation:** House Bill 373 - 124th General Assembly
+
+As used in this section, "contingent dependent beneficiary" means a person so designated pursuant to this section by a member or former member of the Ohio police and fire pension fund.
+
+Prior to retiring under section 742.37 of the Revised Code, a member or former member of the fund who is, or within twelve months will be, eligible to retire and receive a pension or benefit under division (C)(1) or (3) of section 742.37 of the Revised Code may designate one dependent, not the member's or former member's spouse, as the contingent dependent beneficiary. The determination of what constitutes a dependent for the purposes of this section shall be made by the board of trustees of the fund in accordance with rules adopted pursuant to this section. The designation shall be made on a form provided by the board and shall be filed with the board. The designation may be changed or withdrawn in accordance with rules adopted by the board pursuant to this section. The designation shall be used only for the purposes of this section and shall cease to have effect if the member or former member retires under section 742.37 of the Revised Code, or dies prior to retirement and is survived by a spouse. The board shall annually inform members and eligible former members of the fund of the right to designate a contingent dependent beneficiary under this section.
+
+In addition to any other pension, allowance, or benefit payable under this chapter, the surviving spouse of a deceased member or former member of the fund who at the time of the member's or former member's death was eligible to retire and receive a pension or benefit under division (C)(1) or (3) of section 742.37 of the Revised Code, but had not retired, shall receive an annual retirement allowance under this section, payable in twelve monthly installments. If on the date of death of the member or former member there is no surviving spouse, the allowance shall be paid to the contingent dependent beneficiary. If on such date there is no surviving spouse and no person designated as a contingent dependent beneficiary who is determined by the board of trustees to be a dependent of the member or former member, no allowance or benefit shall be paid under this section.
+
+Unless at the time of death the member was participating in the deferred retirement option plan established under section 742.43 of the Revised Code, the allowance paid under this section shall be an amount equal to the amount the surviving spouse or contingent dependent beneficiary would have been entitled to receive had the member or former member retired effective the day following the date of death having selected an option 2 plan under division (A)(2) of section 742.3711 of the Revised Code providing for one-half of the member's or former member's lesser retirement allowance to be paid to the surviving spouse or contingent dependent beneficiary. The allowance paid under this section to the surviving spouse or contingent dependent beneficiary of a member who at the time of death was participating in the deferred retirement option plan established under section 742.43 of the Revised Code shall be an amount calculated in accordance with section 742.442 of the Revised Code and rules that shall be adopted by the board of trustees of the Ohio police and fire pension fund.
+
+Payments under this section are payable effective the first day of the first month following the death of the member or former member of the fund.

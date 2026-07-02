@@ -1,0 +1,52 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Annual\" means the period as defined in regulations issued by the United States secretary of health and human services to implement the Deficit Reduction Act of 2005 (P.L. 109-171).",
+      "id": "3119.27-annual",
+      "normalized": "annual",
+      "scope": "(C) As used in this section:",
+      "section": "3119.27",
+      "source_title": "Section 3119.27 - Processing charge for issuing or modifying an order.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3119.27",
+      "term": "Annual"
+    },
+    {
+      "definition": "(2) \"Title IV-A\" has the same meaning as in section 5107.02 of the Revised Code.",
+      "id": "3119.27-title-iv-a",
+      "normalized": "title iv-a",
+      "scope": "(C) As used in this section:",
+      "section": "3119.27",
+      "source_title": "Section 3119.27 - Processing charge for issuing or modifying an order.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3119.27",
+      "term": "Title IV-A"
+    },
+    {
+      "definition": "(3) \"Title IV-D case\" has the same meaning as in section 3125.01 of the Revised Code.",
+      "id": "3119.27-title-iv-d-case",
+      "normalized": "title iv-d case",
+      "scope": "(C) As used in this section:",
+      "section": "3119.27",
+      "source_title": "Section 3119.27 - Processing charge for issuing or modifying an order.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3119.27",
+      "term": "Title IV-D case"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "5107.02",
+      "number": "5107.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5107.02"
+    },
+    {
+      "kind": "section",
+      "label": "3125.01",
+      "number": "3125.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3125.01"
+    }
+  ],
+  "scraped": "2026-07-02T19:47:54+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3119.27",
+  "title": "Section 3119.27 - Processing charge for issuing or modifying an order."
+}

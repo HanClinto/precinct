@@ -1,0 +1,417 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 5727.01 - Public utilities definitions.",
+      "number": "5727.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.02 - Persons excepted.",
+      "number": "5727.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.03 - Combined company to file separate report for each listed activity of company.",
+      "number": "5727.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.031 - Report by entity incidentally supplying electricity.",
+      "number": "5727.031",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.031"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.04 - Public utility or interexchange telecommunications company not exempt.",
+      "number": "5727.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.05 - Exemption of nonprofit and municipal corporations.",
+      "number": "5727.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.06 - Taxable property of public utility or interexchange telecommunications company - assessment by tax commissioner.",
+      "number": "5727.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.08 - Annual report.",
+      "number": "5727.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.10 - Assessment - hearing - correction.",
+      "number": "5727.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.11 - Method of valuation.",
+      "number": "5727.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.111 - Assessing at percentages of true value.",
+      "number": "5727.111",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.111"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.12 - Valuation and assessment of railroad properties.",
+      "number": "5727.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.14 - Apportionment of value of property of interstate railroad.",
+      "number": "5727.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.15 - Apportionment of value of taxable property of public utilities.",
+      "number": "5727.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.23 - Preliminary or amended assessment - petition for reassessment.",
+      "number": "5727.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.24 - Tax on gross receipts of natural gas company or combined electric and gas company.",
+      "number": "5727.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.241 - Credit against tax on natural gas or combined company.",
+      "number": "5727.241",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.241"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.25 - Quarterly or annual returns filed with tax payment - additional charges, penalties, and interest.",
+      "number": "5727.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.26 - Assessment for failure to file return or pay amount due - judgment against company.",
+      "number": "5727.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.27 - Company to keep records - inspection of records.",
+      "number": "5727.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.28 - Refunds.",
+      "number": "5727.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.29 - Refundable credit calculation.",
+      "number": "5727.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.30 - Public utilities subject to annual excise tax.",
+      "number": "5727.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.31 - Annual statement of public utility - reports.",
+      "number": "5727.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.311 - Tax payments by electronic funds transfer.",
+      "number": "5727.311",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.311"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.32 - Contents of statement and reports.",
+      "number": "5727.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.33 - Ascertaining and determining gross receipts of certain companies.",
+      "number": "5727.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.331 - Tax reduction to be reflected in rates.",
+      "number": "5727.331",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.331"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.38 - Excise tax on gross receipts of certain public utilities.",
+      "number": "5727.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.42 - Collection of excise taxes; refunds; failure to pay taxes.",
+      "number": "5727.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.45 - Crediting of taxes and penalties to funds.",
+      "number": "5727.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.47 - Notice of assessment - petition for reassessment.",
+      "number": "5727.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.471 - Assessment for underpayment or overpayment of taxes by public utility.",
+      "number": "5727.471",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.471"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.48 - Extension of time.",
+      "number": "5727.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.49 - Monthly report of secretary of state - information provided by county auditors.",
+      "number": "5727.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.50 - Valuation if no report or erroneous information reported.",
+      "number": "5727.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.51 - Taxes on dissolution or retirement required to be paid.",
+      "number": "5727.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.53 - Action to recover taxes.",
+      "number": "5727.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.54 - Cancellation of articles of incorporation or certificate of authority for failure to report or pay taxes.",
+      "number": "5727.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.55 - Prohibition against doing business after cancellation of articles or certificate.",
+      "number": "5727.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.56 - Reinstatement of public utility - conditions - designation of agent.",
+      "number": "5727.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.57 - Petition for judgment for taxes - injunction - procedure - evidence.",
+      "number": "5727.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.58 - Quo warranto proceedings.",
+      "number": "5727.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.60 - Penalty for failure to make report.",
+      "number": "5727.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.61 - Affidavit denying unlawful political contributions.",
+      "number": "5727.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.62 - Payment of witness fees.",
+      "number": "5727.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.71 - Duty of officials of railroads to testify.",
+      "number": "5727.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.72 - Duty to testify or bring books or papers.",
+      "number": "5727.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.74 - Effect when tax charged invalid.",
+      "number": "5727.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.74"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.75 - Exemption on tangible personal property and real property of certain qualified energy projects.",
+      "number": "5727.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.76 - Exemption for tangible personal property transmitting electricity or natural gas in priority investment area.",
+      "number": "5727.76",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.76"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.80 - Kilowatt-hour tax definitions.",
+      "number": "5727.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.80"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.81 - Excise tax levied on electric distribution company.",
+      "number": "5727.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.811 - Excise tax levied on natural gas distribution company.",
+      "number": "5727.811",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.811"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.82 - Monthly return and payment of tax.",
+      "number": "5727.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.82"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.83 - Payment by electronic funds transfer.",
+      "number": "5727.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.83"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.84 - Crediting money in kilowatt-hour tax receipts fund.",
+      "number": "5727.84",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.84"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.85 - Payments from school district property tax replacement fund.",
+      "number": "5727.85",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.85"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.86 - Payments from local government property tax replacement fund.",
+      "number": "5727.86",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.86"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.88 - Administration of provisions.",
+      "number": "5727.88",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.88"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.89 - Failure to file return or pay tax, interest, or additional charge.",
+      "number": "5727.89",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.89"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.90 - Statute of limitations.",
+      "number": "5727.90",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.90"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.91 - Refunds.",
+      "number": "5727.91",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.91"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.92 - Keeping and preserving records.",
+      "number": "5727.92",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.92"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.93 - Registration.",
+      "number": "5727.93",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.93"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.94 - Tax statement provided to customers.",
+      "number": "5727.94",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.94"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.95 - Prohibited acts.",
+      "number": "5727.95",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.95"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5727.99 - Penalty.",
+      "number": "5727.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.99"
+    }
+  ],
+  "scraped": "2026-07-02T20:14:53+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-5727",
+  "title": "Chapter 5727 - Public Utilities"
+}

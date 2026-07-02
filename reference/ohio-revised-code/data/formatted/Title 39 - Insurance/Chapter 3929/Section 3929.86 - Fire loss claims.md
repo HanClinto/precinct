@@ -1,0 +1,46 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3929.86
+Scraped: 2026-07-02T20:02:57+00:00
+
+# Section 3929.86 - Fire loss claims.
+
+**Effective:** September 29, 2015
+
+**Latest Legislation:** House Bill 64 - 131st General Assembly
+
+(A) No insurance company doing business in this state shall pay a claim of a named insured for fire damage to a structure located within a municipal corporation or township in this state where the amount recoverable for the fire loss to the structure under all policies exceeds five thousand dollars, unless the company is furnished with a certificate pursuant to division (B) of this section, and unless there is compliance with the procedures set forth in divisions (C) and (D) of this section.
+
+(B)(1) The county treasurer, upon the written request of the named insured specifying the tax description of the property and the date agreed upon by the insurance company and the named insured as the date of the receipt of a proof of loss of the claim, shall furnish the named insured, to be supplied by the named insured to the company, either:
+
+(a) A certificate to the effect that, as of the date specified in the request, there are no delinquent taxes, assessments, penalties, or charges against the property and that, as of the date of the treasurer's certificate, no municipal corporation or township has certified to the auditor any amount as total costs incurred by the municipal corporation or township for removal, repair, or securing of buildings or structures on the property pursuant to section 715.261 or 505.86 of the Revised Code;
+
+(b) A certificate and bill showing the amount of delinquent taxes, assessments, penalties, and charges against the property as of the date specified in the request that have not been paid as of the date of the certificate and also showing, as of the date of the treasurer's certificate, the amount of the total costs, if any, incurred by a municipal corporation or township for removal, repair, or securing of buildings or structures on the property that have been certified to the county auditor under section 715.261 or 505.86 of the Revised Code. The county auditor shall, for the purposes of division (B) of this section, certify to the treasurer the total amount, if any, of such costs certified to the auditor by the municipal corporation or township.
+
+(2)(a) Upon the receipt of a certificate pursuant to division (B)(1)(a) of this section, the insurance company shall pay the claim of the named insured in accordance with the policy terms, unless the loss agreed to between the named insured or insureds and the company or companies equals or exceeds sixty per cent of the aggregate limits of liability on all fire policies covering the building or structure. In the case of such a loss, the insurance company, the insured property owner, and the municipal corporation or township shall follow the procedures set forth in divisions (C) and (D) of this section.
+
+(b) Upon the receipt of a certificate and bill pursuant to division (B)(1)(b) of this section, the insurance company shall return the bill to the treasurer and transfer to the county treasurer an amount from the insurance proceeds necessary to pay such taxes, assessments, penalties, charges, and costs as shown on the bill. Notwithstanding section 323.15 of the Revised Code, the treasurer shall receive such amount and apply or credit it to payment of the items shown in the bill.
+
+(C) When the loss agreed to between the named insured or insureds and the company or companies equals or exceeds sixty per cent of the aggregate limits of liability on all fire policies covering the building or structure, the insurance company or companies, in accordance with division (F) of section 715.26 or division (G) of section 505.86 of the Revised Code, shall transfer from the insurance proceeds to the designated officer of the municipal corporation or township in the aggregate two thousand dollars for each fifteen thousand dollars, and each fraction of that amount, of a claim, or, if, at the time of a proof of loss agreed to between the named insured or insureds and the insurance company or companies, the named insured or insureds have submitted a contractor's signed estimate of the costs of removing, repairing, or securing the building or other structure, shall transfer from the insurance proceeds the amount specified in the estimate.
+
+The transfer of proceeds shall be on a pro rata basis by all companies insuring the building or other structure. Policy proceeds remaining after the transfer to the municipal corporation or township shall be disbursed in accordance with the policy terms.
+
+The named insured or insureds may submit a contractor's signed estimate of the costs of removing, repairing, or securing the building or other structure after the transfer, and the designated officer shall return the amount of the fund in excess of the estimate to the named insured or insureds, provided that the municipal corporation or township has not commenced to remove, repair, or secure the building or other structure.
+
+This division only applies to municipal corporations or townships that have adopted a resolution, ordinance, or regulation authorizing the procedure described in divisions (C) and (D) of this section and have filed a certified copy of the resolution, ordinance, or regulation for public record with the superintendent of insurance, and applies only to fire losses that occur after the filing of the certified copy. The resolution, ordinance, or regulation shall designate the officer authorized to carry out the duties of this section.
+
+(D) Upon receipt of proceeds by the municipal corporation or township as authorized by this section, the designated officer shall place the proceeds in a separate fund to be used solely as security against the total cost of removing, repairing, or securing incurred by the municipal corporation or township pursuant to section 715.261 or 505.86 of the Revised Code.
+
+When transferring the funds as required in division (C) of this section, an insurance company shall provide the municipal corporation or township with the name and address of the named insured or insureds, whereupon the municipal corporation or township shall contact the named insured or insureds, certify that the proceeds have been received by the municipal corporation or township, and notify them that the following procedures will be followed:
+
+The fund shall be returned to the named insured or insureds when repairs, removal, or securing of the building or other structure have been completed and the required proof has been received by the designated officer, if the municipal corporation or township has not incurred any costs for the repairs, removal, or securing. However, the fund shall be returned to the named insured or insureds no later than sixty days after the designated officer receives the required proof. If the municipal corporation or township has incurred any costs for repairs, removal, or securing of the building or other structure, the costs shall be paid from the fund, and if excess funds remain, the municipal corporation or township shall transfer, no later than sixty days after all such costs have been paid, the remaining funds to the named insured or insureds. Nothing in this section shall be construed to limit the ability of a municipal corporation or township to recover any deficiency under section 715.261 or 505.86 of the Revised Code.
+
+Nothing in this division shall be construed to prohibit the municipal corporation or township and the named insured or insureds from entering into an agreement that permits the transfer of funds to the named insured or insureds if some other reasonable disposition of the damaged property has been negotiated.
+
+(E) Proof of payment by the company or companies of proceeds under a policy in accordance with division (C) of this section is conclusive evidence of the discharge of its obligation to the insured under the policy to the extent of the payment and of compliance by the company or companies with division (C) of this section.
+
+(F) Nothing in this section shall be construed to make an insurance company liable for any amount in excess of proceeds payable under its insurance policy or for any other act performed pursuant to this section, or to make a municipal corporation, township, or public official an insured under a policy of insurance, or to create an obligation to pay delinquent property taxes or unpaid removal liens or expenses other than as provided in this section.
+
+(G) An insurance company making payment of policy proceeds under this section for delinquent taxes or structure removal liens or removal expenses incurred by a municipal corporation or township shall have the full benefit of such payment including all rights of subrogation and of assignment.
+
+(H) As used in this section and section 3929.87 of the Revised Code, "insurance company" or "insurer" includes the Ohio fair plan underwriting association as established in section 3929.43 of the Revised Code.
+
+(I) This section shall be liberally construed to accomplish its purpose to deter the commission of arson and related crimes, to discourage the abandonment of property, and to prevent urban blight and deterioration.

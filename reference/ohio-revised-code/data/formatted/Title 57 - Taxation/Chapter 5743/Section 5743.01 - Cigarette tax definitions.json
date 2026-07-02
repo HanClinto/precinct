@@ -1,0 +1,290 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Person\" includes individuals, firms, partnerships, associations, joint-stock companies, corporations, combinations of individuals of any form, and the state and any of its political subdivisions.",
+      "id": "5743.01-person",
+      "normalized": "person",
+      "scope": "As used in this chapter:",
+      "section": "5743.01",
+      "source_title": "Section 5743.01 - Cigarette tax definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5743.01",
+      "term": "Person"
+    },
+    {
+      "definition": "(B) \"Wholesale dealer\" includes only those persons:\n\n(1) Who bring in or cause to be brought into this state unstamped cigarettes purchased directly from the manufacturer, producer, or importer of cigarettes for sale in this state but does not include persons who bring in or cause to be brought into this state cigarettes with respect to which no evidence of tax payment is required thereon as provided in section 5743.04 of the Revised Code; or\n\n(2) Who are engaged in the business of selling cigarettes, tobacco products, or vapor products to others for the purpose of resale.",
+      "id": "5743.01-wholesale-dealer",
+      "normalized": "wholesale dealer",
+      "scope": "As used in this chapter:",
+      "section": "5743.01",
+      "source_title": "Section 5743.01 - Cigarette tax definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5743.01",
+      "term": "Wholesale dealer"
+    },
+    {
+      "definition": "\"Wholesale dealer\" does not include any cigarette manufacturer, export warehouse proprietor, or importer with a valid permit under 26 U.S.C. 5713 if that person sells cigarettes in this state only to wholesale dealers holding valid and current licenses under section 5743.15 of the Revised Code or to an export warehouse proprietor or another manufacturer.",
+      "id": "5743.01-wholesale-dealer",
+      "normalized": "wholesale dealer",
+      "scope": "As used in this chapter:",
+      "section": "5743.01",
+      "source_title": "Section 5743.01 - Cigarette tax definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5743.01",
+      "term": "Wholesale dealer"
+    },
+    {
+      "definition": "(C) \"Retail dealer\" includes:\n\n(1) In reference to dealers in cigarettes, every person other than a wholesale dealer engaged in the business of selling cigarettes in this state, regardless of whether the person is located in this state or elsewhere, and regardless of quantity, amount, or number of sales;\n\n(2) In reference to dealers in tobacco products, any person in this state engaged in the business of selling tobacco products to ultimate consumers in this state, regardless of quantity, amount, or number of sales;\n\n(3) In reference to dealers in vapor products, any person in this state engaged in the business of selling vapor products to ultimate consumers in this state, regardless of quantity, amount, or number of sales.",
+      "id": "5743.01-retail-dealer",
+      "normalized": "retail dealer",
+      "scope": "As used in this chapter:",
+      "section": "5743.01",
+      "source_title": "Section 5743.01 - Cigarette tax definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5743.01",
+      "term": "Retail dealer"
+    },
+    {
+      "definition": "(D) \"Sale\" includes exchange, barter, gift, offer for sale, and distribution, and includes transactions in interstate or foreign commerce.",
+      "id": "5743.01-sale",
+      "normalized": "sale",
+      "scope": "As used in this chapter:",
+      "section": "5743.01",
+      "source_title": "Section 5743.01 - Cigarette tax definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5743.01",
+      "term": "Sale"
+    },
+    {
+      "definition": "(E) \"Cigarettes\" includes any roll for smoking made wholly or in part of tobacco, irrespective of size or shape, and whether or not such tobacco is flavored, adulterated, or mixed with any other ingredient, the wrapper or cover of which is made of paper, reconstituted cigarette tobacco, homogenized cigarette tobacco, cigarette tobacco sheet, or any similar materials other than cigar tobacco.",
+      "id": "5743.01-cigarettes",
+      "normalized": "cigarettes",
+      "scope": "As used in this chapter:",
+      "section": "5743.01",
+      "source_title": "Section 5743.01 - Cigarette tax definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5743.01",
+      "term": "Cigarettes"
+    },
+    {
+      "definition": "(F) \"Package\" means the individual package, box, or other container in or from which retail sales of cigarettes are normally made or intended to be made.",
+      "id": "5743.01-package",
+      "normalized": "package",
+      "scope": "As used in this chapter:",
+      "section": "5743.01",
+      "source_title": "Section 5743.01 - Cigarette tax definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5743.01",
+      "term": "Package"
+    },
+    {
+      "definition": "(G) \"Storage\" includes any keeping or retention of cigarettes, tobacco products, or vapor products for use or consumption in this state.",
+      "id": "5743.01-storage",
+      "normalized": "storage",
+      "scope": "As used in this chapter:",
+      "section": "5743.01",
+      "source_title": "Section 5743.01 - Cigarette tax definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5743.01",
+      "term": "Storage"
+    },
+    {
+      "definition": "(H) \"Use\" includes the exercise of any right or power incidental to the ownership of cigarettes, tobacco products, or vapor products.",
+      "id": "5743.01-use",
+      "normalized": "use",
+      "scope": "As used in this chapter:",
+      "section": "5743.01",
+      "source_title": "Section 5743.01 - Cigarette tax definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5743.01",
+      "term": "Use"
+    },
+    {
+      "definition": "(I) \"Tobacco product\" or \"other tobacco product\" means any product made from tobacco, other than cigarettes, that is made for smoking or chewing, or both, and snuff.",
+      "id": "5743.01-tobacco-product",
+      "normalized": "tobacco product",
+      "scope": "As used in this chapter:",
+      "section": "5743.01",
+      "source_title": "Section 5743.01 - Cigarette tax definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5743.01",
+      "term": "Tobacco product"
+    },
+    {
+      "definition": "(I) \"Tobacco product\" or \"other tobacco product\" means any product made from tobacco, other than cigarettes, that is made for smoking or chewing, or both, and snuff.",
+      "id": "5743.01-other-tobacco-product",
+      "normalized": "other tobacco product",
+      "scope": "As used in this chapter:",
+      "section": "5743.01",
+      "source_title": "Section 5743.01 - Cigarette tax definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5743.01",
+      "term": "other tobacco product"
+    },
+    {
+      "definition": "(J) \"Wholesale price\" means the invoice price, including all federal excise taxes, at which the manufacturer of the tobacco product sells the tobacco product to unaffiliated distributors, excluding any discounts based on the method of payment of the invoice or on time of payment of the invoice. If the taxpayer buys from other than a manufacturer, \"wholesale price\" means the invoice price, including all federal excise taxes and excluding any discounts based on the method of payment of the invoice or on time of payment of the invoice.",
+      "id": "5743.01-wholesale-price",
+      "normalized": "wholesale price",
+      "scope": "As used in this chapter:",
+      "section": "5743.01",
+      "source_title": "Section 5743.01 - Cigarette tax definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5743.01",
+      "term": "Wholesale price"
+    },
+    {
+      "definition": "(K) \"Distributor\" means:\n\n(1) Any manufacturer who sells, barters, exchanges, or distributes tobacco products to a retail dealer in the state, except when selling to a retail dealer that has filed with the manufacturer a signed statement agreeing to pay and be liable for the tax imposed by section 5743.51 of the Revised Code;\n\n(2) Any wholesale dealer located in the state who receives tobacco products from a manufacturer, or who receives tobacco products on which the tax imposed by this chapter has not been paid;\n\n(3) Any wholesale dealer located outside the state who sells, barters, exchanges, or distributes tobacco products to a wholesale or retail dealer in the state; or\n\n(4) Any retail dealer who receives tobacco products on which the tax has not or will not be paid by another distributor, including a retail dealer that has filed a signed statement with a manufacturer in which the retail dealer agrees to pay and be liable for the tax that would otherwise be imposed on the manufacturer by section 5743.51 of the Revised Code.",
+      "id": "5743.01-distributor",
+      "normalized": "distributor",
+      "scope": "As used in this chapter:",
+      "section": "5743.01",
+      "source_title": "Section 5743.01 - Cigarette tax definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5743.01",
+      "term": "Distributor"
+    },
+    {
+      "definition": "(L) \"Taxpayer\" means any person liable for the tax imposed by section 5743.51 , 5743.62 , or 5743.63 of the Revised Code.",
+      "id": "5743.01-taxpayer",
+      "normalized": "taxpayer",
+      "scope": "As used in this chapter:",
+      "section": "5743.01",
+      "source_title": "Section 5743.01 - Cigarette tax definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5743.01",
+      "term": "Taxpayer"
+    },
+    {
+      "definition": "(M) \"Seller\" means any person located outside this state engaged in the business of selling tobacco products or vapor products to consumers for storage, use, or other consumption in this state.",
+      "id": "5743.01-seller",
+      "normalized": "seller",
+      "scope": "As used in this chapter:",
+      "section": "5743.01",
+      "source_title": "Section 5743.01 - Cigarette tax definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5743.01",
+      "term": "Seller"
+    },
+    {
+      "definition": "(N) \"Manufacturer\" means any person who manufactures and sells cigarettes, tobacco products, or vapor products.",
+      "id": "5743.01-manufacturer",
+      "normalized": "manufacturer",
+      "scope": "As used in this chapter:",
+      "section": "5743.01",
+      "source_title": "Section 5743.01 - Cigarette tax definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5743.01",
+      "term": "Manufacturer"
+    },
+    {
+      "definition": "(O) \"Importer\" means any person that is authorized, under a valid permit issued under Section 5713 of the Internal Revenue Code, to import finished cigarettes into the United States, either directly or indirectly.",
+      "id": "5743.01-importer",
+      "normalized": "importer",
+      "scope": "As used in this chapter:",
+      "section": "5743.01",
+      "source_title": "Section 5743.01 - Cigarette tax definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5743.01",
+      "term": "Importer"
+    },
+    {
+      "definition": "(P) \"Little cigar\" means any roll for smoking, other than cigarettes, made wholly or in part of tobacco that uses an integrated cellulose acetate filter or other filter and is wrapped in any substance containing tobacco, other than natural leaf tobacco.",
+      "id": "5743.01-little-cigar",
+      "normalized": "little cigar",
+      "scope": "As used in this chapter:",
+      "section": "5743.01",
+      "source_title": "Section 5743.01 - Cigarette tax definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5743.01",
+      "term": "Little cigar"
+    },
+    {
+      "definition": "(Q) \"Premium cigar\" means any roll for smoking, other than cigarettes and little cigars, that is made wholly or in part of tobacco and that has all of the following characteristics:\n\n(1) The binder and wrapper of the roll consist entirely of leaf tobacco.\n\n(2) The roll contains no filter or tip, nor any mouthpiece consisting of a material other than tobacco.\n\n(3) The weight of one thousand such rolls is at least six pounds.",
+      "id": "5743.01-premium-cigar",
+      "normalized": "premium cigar",
+      "scope": "As used in this chapter:",
+      "section": "5743.01",
+      "source_title": "Section 5743.01 - Cigarette tax definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5743.01",
+      "term": "Premium cigar"
+    },
+    {
+      "definition": "(R) \"Maximum tax amount\" means fifty cents plus the tax adjustment factor computed under this division.\n\nIn April of each year beginning in 2018, the tax commissioner shall compute a tax adjustment factor by multiplying fifty cents by the cumulative percentage increase in the consumer price index (all items, all urban consumers) prepared by the bureau of labor statistics of the United States department of labor from January 1, 2017, to the last day of December of the preceding year and rounding the resulting product to the nearest one cent; provided, that the tax adjustment factor for any year shall not be less than that for the immediately preceding year. The maximum tax amount resulting from the computation of the tax adjustment factor applies on and after the ensuing first day of July through the thirtieth day of June thereafter.",
+      "id": "5743.01-maximum-tax-amount",
+      "normalized": "maximum tax amount",
+      "scope": "As used in this chapter:",
+      "section": "5743.01",
+      "source_title": "Section 5743.01 - Cigarette tax definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5743.01",
+      "term": "Maximum tax amount"
+    },
+    {
+      "definition": "(S) \"Secondary manufacturer\" means any person in this state engaged in the business of repackaging, reconstituting, diluting, or reprocessing a vapor product for resale to consumers.",
+      "id": "5743.01-secondary-manufacturer",
+      "normalized": "secondary manufacturer",
+      "scope": "As used in this chapter:",
+      "section": "5743.01",
+      "source_title": "Section 5743.01 - Cigarette tax definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5743.01",
+      "term": "Secondary manufacturer"
+    },
+    {
+      "definition": "(T) \"Vapor product\" means any liquid solution or other substance that (1) contains nicotine and (2) is depleted as it is used in an electronic smoking product. \"Vapor product\" does not include any solution or substance regulated as a drug, device, or combination product under Chapter V of the \"Federal Food, Drug, and Cosmetic Act,\" 21 U.S.C. 301, et seq.",
+      "id": "5743.01-vapor-product",
+      "normalized": "vapor product",
+      "scope": "As used in this chapter:",
+      "section": "5743.01",
+      "source_title": "Section 5743.01 - Cigarette tax definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5743.01",
+      "term": "Vapor product"
+    },
+    {
+      "definition": "(U) \"Electronic smoking product\" means any noncombustible product, other than a cigarette or tobacco product, that (1) contains or is designed to use vapor products and (2) employs a heating element, power source, electronic circuit, or other electronic, chemical, or mechanical means, regardless of shape or size, that can be used to produce vapor from the vapor product. \"Electronic smoking product\" includes, but is not limited to, an electronic cigarette, electronic cigar, electronic cigarillo, electronic pipe, electronic hookah, vape pen, vaporizer, or similar product or device, but does not include any product regulated as a drug, device, or combination product under Chapter V of the \"Federal Food, Drug, and Cosmetic Act,\" 21 U.S.C. 301, et seq.",
+      "id": "5743.01-electronic-smoking-product",
+      "normalized": "electronic smoking product",
+      "scope": "As used in this chapter:",
+      "section": "5743.01",
+      "source_title": "Section 5743.01 - Cigarette tax definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5743.01",
+      "term": "Electronic smoking product"
+    },
+    {
+      "definition": "(V) \"Vapor distributor\" means any person that:\n\n(1) Sells vapor products to a retail dealer;\n\n(2) Is a retail dealer that receives vapor products with respect to which the tax imposed by this chapter has not or will not be paid by another person that is a vapor distributor;\n\n(3) Is a secondary manufacturer;\n\n(4) Is a wholesale dealer located in this state that receives vapor products from a manufacturer, or receives vapor products on which the tax imposed by this chapter has not been paid;\n\n(5) Is a wholesale dealer located outside this state that sells vapor products to a wholesale dealer in this state.",
+      "id": "5743.01-vapor-distributor",
+      "normalized": "vapor distributor",
+      "scope": "As used in this chapter:",
+      "section": "5743.01",
+      "source_title": "Section 5743.01 - Cigarette tax definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5743.01",
+      "term": "Vapor distributor"
+    },
+    {
+      "definition": "(W) \"Vapor volume\" means one of the following, as applicable:\n\n(1) If a vapor product is sold in liquid form, one-tenth of one milliliter of vapor product;\n\n(2) If the vapor product is sold in a nonliquid form, one-tenth of one gram of vapor product.\n\nLast updated September 13, 2023 at 9:47 AM",
+      "id": "5743.01-vapor-volume",
+      "normalized": "vapor volume",
+      "scope": "As used in this chapter:",
+      "section": "5743.01",
+      "source_title": "Section 5743.01 - Cigarette tax definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5743.01",
+      "term": "Vapor volume"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "5743.04",
+      "number": "5743.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5743.04"
+    },
+    {
+      "kind": "section",
+      "label": "5743.15",
+      "number": "5743.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5743.15"
+    },
+    {
+      "kind": "section",
+      "label": "5743.51",
+      "number": "5743.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5743.51"
+    },
+    {
+      "kind": "section",
+      "label": "5743.62",
+      "number": "5743.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5743.62"
+    },
+    {
+      "kind": "section",
+      "label": "5743.63",
+      "number": "5743.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5743.63"
+    }
+  ],
+  "scraped": "2026-07-02T20:15:22+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5743.01",
+  "title": "Section 5743.01 - Cigarette tax definitions."
+}

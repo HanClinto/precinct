@@ -1,0 +1,99 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-101
+Scraped: 2026-07-02T19:31:19+00:00
+
+# Chapter 101 - General Assembly
+
+## Sections
+
+- Section 101.01 - Regular session of the general assembly.
+- Section 101.02 - Election of officers of the senate.
+- Section 101.11 - House called to order - appointment of clerk pro tempore - presentation of certificates - oath of office.
+- Section 101.12 - Presiding officer designated by party caucus.
+- Section 101.13 - Election of officers of the house.
+- Section 101.15 - Public committee meetings.
+- Section 101.21 - Majority required to tenth voting.
+- Section 101.22 - Evidence of membership.
+- Section 101.23 - Oaths.
+- Section 101.24 - Powers of each house compelling attendance.
+- Section 101.25 - Resignation of member.
+- Section 101.26 - Members ineligible to certain appointments and employment.
+- Section 101.27 - Compensation of members.
+- Section 101.271 - Medical insurance for members of general assembly.
+- Section 101.272 - House reimbursement fund - senate reimbursement fund.
+- Section 101.28 - Joint conventions.
+- Section 101.29 - Legislative employees.
+- Section 101.30 - Maintenance of confidential relationship between legislative staff and general assembly members and staff.
+- Section 101.301 - Attorney-client testimonial privilege applies to caucuses.
+- Section 101.31 - Duties of certain officers.
+- Section 101.311 - Sergeant at arms of house and assistants.
+- Section 101.312 - Authority of senate sergeant of arms or assistant senate sergeant of arms.
+- Section 101.32 - Control of assistants - dismissal.
+- Section 101.33 - Temporary officials.
+- Section 101.34 - Joint legislative ethics committee - fund.
+- Section 101.35 - Joint committee on agency rule review.
+- Section 101.351 - Goal of rule watch system.
+- Section 101.352 - Request for appearance before joint committee regarding agency's reliance on principle of law or policy.
+- Section 101.353 - Request for appearance before joint committee regarding agency's failure to adopt rule.
+- Section 101.354 - Agency inventories of regulatory restrictions and report.
+- Section 101.355 - Regulatory restriction database and website.
+- Section 101.36 - General Assembly authority to rescind Department of Health orders or rules.
+- Section 101.41 - Chairman of committee authorized to subpoena witnesses.
+- Section 101.42 - Subpoena.
+- Section 101.43 - Punishment for disobeying subpoena or refusing to answer.
+- Section 101.44 - Testimony before committee not to be used in criminal prosecution of witness - exception.
+- Section 101.45 - Fees of sheriffs and witnesses.
+- Section 101.46 - Chairman or member of committee may administer oaths.
+- Section 101.47 - Deposition on complaint.
+- Section 101.51 - Printing of legislative document definitions.
+- Section 101.52 - Responsibility for printing.
+- Section 101.521 - Internal printing.
+- Section 101.522 - Contracts with private printers.
+- Section 101.523 - Participating in public printing services provided by department of administrative services.
+- Section 101.524 - Director of administrative services to let contract for printing.
+- Section 101.53 - Format for printing bills.
+- Section 101.531 - Printing pamphlet laws and session laws line numbering.
+- Section 101.532 - Separate appropriations bills for industrial commission and bureau of workers' compensation.
+- Section 101.54 - Journals of general assembly.
+- Section 101.541 - Appendix to house and senate journals.
+- Section 101.542 - Index of journals and appendix.
+- Section 101.543 - Printing and binding of daily and final journals.
+- Section 101.55 - Special counsel and intervention.
+- Section 101.60 - General assembly identification cards.
+- Section 101.62 - Expiration date for occupational licensing boards.
+- Section 101.63 - Review hearings regarding occupational licensing boards.
+- Section 101.64 - Testimony from common sense initiative office.
+- Section 101.65 - Report of findings and recommendations.
+- Section 101.68 - Availability of agency reports.
+- Section 101.69 - Senate miscellaneous sales fund - house miscellaneous sales fund.
+- Section 101.691 - Excess or surplus state supplies disposal by director of administrative services.
+- Section 101.70 - Legislative lobbying definitions.
+- Section 101.71 - Prohibited acts.
+- Section 101.711 - Contracts with legislative agents.
+- Section 101.72 - Contents of initial registration statement.
+- Section 101.721 - Disqualification as legislative agent for certain offenses.
+- Section 101.73 - Statements of expenditures.
+- Section 101.74 - Statement of financial transactions.
+- Section 101.75 - Filing complaint with joint legislative ethics committee.
+- Section 101.76 - Efforts excepted from coverage.
+- Section 101.77 - Prohibition against contingent fees.
+- Section 101.78 - Initial registration, statement of expenditures and financial transactions to be public.
+- Section 101.79 - Investigation of violations.
+- Section 101.81 - Contempt of the general assembly.
+- Section 101.82 - Sunset review committee definitions.
+- Section 101.83 - Expiration date of agencies - renewal.
+- Section 101.84 - Sunset review committee.
+- Section 101.85 - Schedule for review of agencies.
+- Section 101.86 - Evaluating usefulness, performance, and effectiveness of agency.
+- Section 101.87 - Report of committee's findings and recommendations; cooperation by other agencies.
+- Section 101.90 - Retirement system lobbyists and employers - definitions.
+- Section 101.91 - Retirement system lobbyists and employers - registration and filing requirements.
+- Section 101.92 - Retirement system lobbyists and employers - registration statements - fee - review.
+- Section 101.921 - Disqualification as retirement system lobbyist for certain offenses.
+- Section 101.93 - Retirement system lobbyists and employers - statement of expenditures - receipts to be retained.
+- Section 101.94 - Retirement system lobbyists and employers - statement of financial transactions with certain board members.
+- Section 101.95 - Retirement system lobbyists and employers - complaint involving dispute with certain board members.
+- Section 101.96 - Retirement system lobbyists and employers - scope of regulations.
+- Section 101.97 - Retirement system lobbyists and employers - conflicts of interest.
+- Section 101.98 - Retirement system lobbyists and employers - statements as public records - list of registrants - form for filings.
+- Section 101.981 - Retirement system lobbyists and employers - attorney general may investigate compliance.
+- Section 101.99 - Penalty.

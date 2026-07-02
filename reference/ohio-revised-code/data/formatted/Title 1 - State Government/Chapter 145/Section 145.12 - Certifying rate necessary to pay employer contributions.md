@@ -1,0 +1,16 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-145.12
+Scraped: 2026-07-02T19:31:54+00:00
+
+# Section 145.12 - Certifying rate necessary to pay employer contributions.
+
+**Effective:** September 21, 2000
+
+**Latest Legislation:** House Bill 628 - 123rd General Assembly
+
+The public employees retirement board shall prepare and submit to the board of county commissioners and county auditor of each county, to the executive head of each municipal corporation, park district, conservancy district, health district, and metropolitan housing authority, to the board of township trustees of each township, and to the board of trustees of each public library, and to each employer, except the state of Ohio, mentioned in division (D) of section 145.01 of the Revised Code, prior to the fifteenth day of July of each year, a certification of the rate necessary to pay the obligation of each county, municipal corporation, park district, conservancy district, health district, township, metropolitan housing authority, or public library accruing during the year beginning the first day of January of the following year, and shall submit to the budget commission of each county a copy of such statement for said county and for each municipal corporation, township, and public library within such county. The rate so certified to each county, township, public library, and municipal corporation shall be a percentage of the earnable salary of all contributors in the employ of such employer, and an amount determined by multiplying the total annual earnable salary of all such contributors employed by the employer by such rate and the amount so determined shall be included in its budget and allowed by the budget commission.
+
+The board of county commissioners of each county, the legislative authority of each municipal corporation, the board of commissioners of any park district, the board of directors of any conservancy district, the members of any metropolitan housing authority, the fiscal officers of any health district, the board of township trustees of each township, and the board of trustees of each public library shall appropriate sufficient funds to provide for such obligations.
+
+The board of county commissioners of each county, the legislative authority of each municipal corporation, the board of commissioners of any park district, the board of directors of any conservancy district, the members of any metropolitan housing authority, the fiscal officers of any health district, the board of township trustees of each township, and the board of trustees of each public library may reimburse the fund from which such appropriation is made by transferring to such fund from any other fund of such subdivision the proportionate amount of such appropriation that should be chargeable to such fund whether such fund is derived from taxation or otherwise.
+
+Such payment may be made directly out of any funds, whether derived from taxation or otherwise, from which the salaries or compensation of public employees, on account of whom such payments are to be made, are payable. Upon certification by the public employees retirement board of the amount due by an employer within any county who is subject to this chapter, such payment shall be made from any fund or funds in the hands of the county auditor for distribution to such employer.

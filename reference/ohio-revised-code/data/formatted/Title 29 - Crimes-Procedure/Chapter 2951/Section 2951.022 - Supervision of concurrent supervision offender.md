@@ -1,0 +1,54 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-2951.022
+Scraped: 2026-07-02T19:47:05+00:00
+
+# Section 2951.022 - Supervision of concurrent supervision offender.
+
+**Effective:** September 28, 2012
+
+**Latest Legislation:** Senate Bill 337 - 129th General Assembly
+
+(A) As used in this section:
+
+(1) "Concurrent supervision offender" means any offender who has been sentenced to community control for one or more misdemeanor violations or has been placed under a community control sanction pursuant to section 2929.16 , 2929.17 , 2929.18 , or 2929.20 of the Revised Code and who is simultaneously subject to supervision by any of the following:
+
+(a) Two or more municipal courts or county courts in this state;
+
+(b) Two or more courts of common pleas in this state;
+
+(c) One or more courts of common pleas in this state and one or more municipal courts or county courts in this state.
+
+"Concurrent supervision offender" does not include a parolee or releasee.
+
+(2) "Parolee" and "releasee" have the same meanings as in section 2967.01 of the Revised Code.
+
+(B)(1) Except as otherwise provided in divisions (B)(2), (3), and (4) of this section, a concurrent supervision offender shall be supervised by the court of conviction that imposed the longest possible sentence of incarceration and shall not be supervised by any other court.
+
+(2) In the case of a concurrent supervision offender subject to supervision by two or more municipal or county courts in the same county, the municipal or county court in the territorial jurisdiction in which the offender resides shall supervise the offender. In the case of a concurrent supervision offender subject to supervision by a municipal court or county court and a court of common pleas for two or more equal possible sentences, the municipal or county court shall supervise the offender. In the case of a concurrent supervision offender subject to supervision by two or more courts of common pleas in separate counties in this state, the court that lies within the same territorial jurisdiction in which the offender resides shall supervise the offender.
+
+(3) Separate courts within the same county may enter into an agreement or adopt local rules of procedure specifying, generally, that concurrent supervision offenders will be supervised in a manner other than that provided for in divisions (B)(1) and (2) of this section. The judges of the various courts of this state having authority to supervise a concurrent supervision offender may by local rule authorize the chief probation officer of that court to manage concurrent supervision offenders under such terms and guidelines as are consistent with division (C) of this section.
+
+(4)(a) The judges of the various courts of this state having jurisdiction over a concurrent supervision offender may agree by journal entry to transfer jurisdiction over a concurrent supervision offender from one court to another court in any manner the courts consider appropriate, if the offender is supervised by only a single supervising authority at all times. An agreement to transfer supervision of an offender under division (B)(4)(a) of this section shall not take effect until approved by every court having authority to supervise the offender and may provide for the transfer of supervision to the offender's jurisdiction of residence whether or not the offender was subject to supervision in that jurisdiction prior to transfer. In the case of a subsequent conviction in a court other than the supervising court, the supervising court may agree to accept a transfer of jurisdiction from the court of conviction prior to sentencing and proceed to sentence the offender according to law.
+
+(b) If the judges of the various courts of this state having authority to supervise a concurrent supervision offender cannot reach agreement with respect to the supervision of the offender, the offender may be subject to concurrent supervision in the interest of justice upon the courts' consideration of the provisions set forth in division (C) of this section.
+
+(C) In determining whether a court maintains authority to supervise an offender or transfers authority to supervise the offender pursuant to division (B)(3) or (4) of this section, the court shall consider all of the following:
+
+(1) The safety of the community;
+
+(2) The risk that the offender might reoffend;
+
+(3) The nature of the offenses committed by the offender;
+
+(4) The likelihood that the offender will remain in the jurisdiction;
+
+(5) The ability of the offender to travel to and from the offender's residence and place of employment or school to the offices of the supervising authority;
+
+(6) The resources for residential and nonresidential sanctions or rehabilitative treatment available to the various courts having supervising authority;
+
+(7) Any other factors consistent with the purposes of sentencing.
+
+(D) The court having sole authority over a concurrent supervision offender pursuant to this section shall have complete authority for enforcement of any financial obligations imposed by any other court, shall set a payment schedule consistent with the offender's ability to pay, and shall cause payments of the offender's financial obligations to be directed to the sentencing court in proportion to the total amounts ordered by all sentencing courts, or as otherwise agreed by the sentencing courts. Financial obligations include financial sanctions imposed pursuant to sections 2929.18 and 2929.28 of the Revised Code, court costs, and any other financial order or fee imposed by a sentencing court. A supervision fee may be charged only by the agency providing supervision of the case.
+
+(E) Unless the local residential sanction is suspended, the offender shall complete any local residential sanction before jurisdiction is transferred in accordance with this section. The supervising court shall respect all conditions of supervision established by a sentencing court, but any conflicting or inconsistent order of the supervising court shall supersede any other order of a sentencing court. In the case of a concurrent supervision offender, the supervising court shall determine when supervision will be terminated but shall not terminate supervision until all financial obligations are paid or otherwise resolved. Any unpaid financial obligation is a judgment in favor of the state or a political subdivision in which the court that imposed the financial sanction is located, and the offender subject to the financial sanction is the judgment debtor pursuant to sections 2929.18 and 2929.28 of the Revised Code.
+
+(F) The adult parole authority and one or more courts may enter into an agreement whereby a releasee or parolee who is simultaneously under the supervision of the adult parole authority and the court or courts is supervised exclusively by either the authority or a court.

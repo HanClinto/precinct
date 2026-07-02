@@ -1,0 +1,116 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-1321
+Scraped: 2026-07-02T19:37:15+00:00
+
+# Chapter 1321 - Various Loans
+
+## Sections
+
+- Section 1321.01 - Small Loan Law definitions; division of financial institutions responsibility.
+- Section 1321.02 - Small loan license requirement; exceptions.
+- Section 1321.03 - Application for small loan license; fee.
+- Section 1321.04 - Small loan license application approval.
+- Section 1321.05 - Contents of small loan license; annual fee and assessment; assets.
+- Section 1321.06 - Additional small loan licenses; change of place of business.
+- Section 1321.07 - Examination of small loan licensee's records; division powers.
+- Section 1321.08 - Suspension or revocation of small loan license.
+- Section 1321.09 - Small loan licensee recordkeeping; annual report.
+- Section 1321.10 - Small Loan Law rules and orders; procedure in case of violation; certified statements.
+- Section 1321.11 - Prohibited statements and representations.
+- Section 1321.12 - Small loan licensee - prohibited acts.
+- Section 1321.13 - Small loan maximum interest rate; computation of interest; precomputed loans; permissible charges; insurance.
+- Section 1321.131 - Small loan alternative interest rate.
+- Section 1321.14 - Duties of small loan licensee; prohibited acts.
+- Section 1321.141 - Small loan requirements and restrictions.
+- Section 1321.15 - Loans designed to circumvent limitations on interest rates, charges, or loan amount.
+- Section 1321.16 - Open-end loans by small loan licensee.
+- Section 1321.17 - Out-of-state small loans.
+- Section 1321.18 - Civil action to reverse, rescind, or modify division order.
+- Section 1321.19 - Cancellation or alteration of small loan license does not impact existing contracts.
+- Section 1321.20 - Fees - licenses, registration under this chapter and for pawnbrokers and precious metals dealers.
+- Section 1321.21 - Consumer finance fund.
+- Section 1321.31 - Assignment of personal earnings - requirements, limitations, priority.
+- Section 1321.32 - Assignment of wages invalid - exception.
+- Section 1321.33 - Wage assignments for support of spouse or children not subject to Small Loan Law or R.C. 1321.31.
+- Section 1321.35 - Short-term Loan Law definitions.
+- Section 1321.36 - Short-term loan license required; telephone and mail loans; exceptions; applicability of Short-term Loan Law.
+- Section 1321.37 - Application for short-term loan license; fee; approval procedure; assets; bond.
+- Section 1321.38 - Contents of short-term loan license; additional licenses; change of place of business.
+- Section 1321.39 - Short-term loan requirements and restrictions.
+- Section 1321.391 - Short-term loans of longer than 90 days.
+- Section 1321.40 - Maximum interest rate; permissible short-term loan fees.
+- Section 1321.401 - Refinancing short-term loans.
+- Section 1321.402 - Prepayment or refinancing prior to short-term loan maturity date.
+- Section 1321.403 - Short-term loan fee cap; exceptions.
+- Section 1321.41 - Short-term loan licensee prohibitions.
+- Section 1321.411 - Short-term loan collection limitations.
+- Section 1321.42 - Enforcement actions relating to short-term loan license.
+- Section 1321.421 - Examination of short-term loan licensee's records.
+- Section 1321.422 - Short-term loan licensee recordkeeping; annual reports.
+- Section 1321.43 - Short-term Loan Law rules and orders.
+- Section 1321.44 - Violations of Short-term Loan Law are unfair or deceptive acts; criminal proceedings.
+- Section 1321.45 - Prohibited short-term loan debt collection practices.
+- Section 1321.46 - Verification of borrower's income before making short-term loan.
+- Section 1321.47 - Duties of short-term loan licensees; civil action by borrower.
+- Section 1321.48 - Reports by superintendent; confidentiality of information.
+- Section 1321.51 - General Loan Law definitions.
+- Section 1321.52 - Registrants may make general loans; choice of law; security; superintendent authority.
+- Section 1321.53 - General loan certificate of registration application, approval, fee; assets; additional certificates; change in place of business; exceptions to General Loan Law.
+- Section 1321.54 - General loan rules; suspension, revocation, or refusal to renew registration; fines; alleged violations.
+- Section 1321.541 - Actions by attorney general, county prosecutor to enforce General Loan Law.
+- Section 1321.55 - General loan registrant recordkeeping; annual report; confidentiality.
+- Section 1321.551 - Evading General Loan Law requirements.
+- Section 1321.56 - Forfeiting general loan interest for interest rate violation.
+- Section 1321.57 - General loan maximum interest rate; computation of interest; precomputed loans; permissible charges; insurance.
+- Section 1321.571 - General loan alternative interest rate.
+- Section 1321.58 - Open-end loans by general loan registrant.
+- Section 1321.59 - General Loan Law registrant - prohibited acts.
+- Section 1321.591 - Compliance with Fair Debt Collection Practices Act.
+- Section 1321.592 - Prohibited general loans by registrants.
+- Section 1321.60 - Advertising for general loans.
+- Section 1321.62 - Consumer Installment Loan Act definitions.
+- Section 1321.63 - Activities for which consumer installment loan license is required.
+- Section 1321.631 - Applicability of Consumer Installment Loan Act.
+- Section 1321.632 - Consumer installment loan licensee authority; prohibited activities.
+- Section 1321.64 - Application for consumer installment loan license; approval procedure.
+- Section 1321.641 - Renewal of consumer installment loan license.
+- Section 1321.642 - Effect of change in ownership of a consumer installment loan licensee; notice.
+- Section 1321.643 - Place of business; additional consumer installment loan licenses; change of place of business or name.
+- Section 1321.644 - Persons selling tangible goods or services.
+- Section 1321.65 - Asset requirements of consumer installment loan licensee.
+- Section 1321.651 - Advertising for consumer installment loans.
+- Section 1321.66 - Consumer installment loan licensee recordkeeping; examination of records.
+- Section 1321.661 - Consumer installment loan licensee call reports.
+- Section 1321.662 - Confidential information.
+- Section 1321.663 - Consumer Installment Loan Act investigations - prohibited acts.
+- Section 1321.664 - Compliance with federal laws and regulations.
+- Section 1321.665 - Preservation of consumer installment loan books and records before ceasing business.
+- Section 1321.666 - Authority of superintendent to enforce Consumer Installment Loan Act.
+- Section 1321.667 - Reimbursement of licensee for costs associated with providing consumer installment loan records.
+- Section 1321.67 - Closing of consumer installment loans; duties of licensee.
+- Section 1321.671 - Repayment of consumer installment loan.
+- Section 1321.672 - Insurance obtained on behalf of consumer installment loan borrower.
+- Section 1321.673 - Evading consumer installment loan requirements.
+- Section 1321.674 - Forfeiting consumer installment loan interest for interest rate violation.
+- Section 1321.68 - Consumer installment loan maximum interest rate; computation of interest; precomputed loans; permissible charges; insurance.
+- Section 1321.681 - Open-end consumer installment loans.
+- Section 1321.69 - Consumer installment loan licensee prohibitions.
+- Section 1321.691 - Employee remote work.
+- Section 1321.70 - Enforcement actions for Consumer Installment Loan Act violations.
+- Section 1321.701 - Action by attorney general, county prosecutor to enforce the Consumer Installment Loan Act.
+- Section 1321.702 - Rules relating to the Consumer Installment Loan Act.
+- Section 1321.71 - Insurance Premium Finance Company Law definitions.
+- Section 1321.72 - Application of Insurance Premium Finance Company Law.
+- Section 1321.73 - Insurance premium finance company license requirement; annual fee; assets.
+- Section 1321.74 - Insurance premium finance company license application, fee, approval; additional licenses; change of place of business.
+- Section 1321.75 - Enforcement actions regarding insurance premium finance company license.
+- Section 1321.76 - Insurance premium finance company licensee recordkeeping; division powers.
+- Section 1321.77 - Insurance premium finance company rules.
+- Section 1321.78 - Premium finance agreement; notice to insurer.
+- Section 1321.79 - Insurance premium finance company finance charge limits.
+- Section 1321.791 - Insurance premium finance company alternative finance charges.
+- Section 1321.80 - Delinquency, cancellation, and check collection charges.
+- Section 1321.81 - Cancellation of insurance contract listed in premium finance agreement.
+- Section 1321.82 - Return to insurance premium finance company of gross unearned premium upon cancellation of insurance contract.
+- Section 1321.83 - Secured transactions filing provisions not applicable to insurance premium finance agreements.
+- Section 1321.84 - Effect of child support default on license, certificate, or permit.
+- Section 1321.99 - Penalty.

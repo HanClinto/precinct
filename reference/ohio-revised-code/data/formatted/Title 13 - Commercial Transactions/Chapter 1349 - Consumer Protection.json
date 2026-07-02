@@ -1,0 +1,375 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 1349.01 - Responsible party fails to obtain health insurance.",
+      "number": "1349.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.02 - Termination of motor vehicle lease by person on active duty.",
+      "number": "1349.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.03 - Termination of cellular phone contract by person on active duty.",
+      "number": "1349.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.04 - Consumer protection of persons on active military duty.",
+      "number": "1349.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.05 - Solicitation of employment by health care practitioner.",
+      "number": "1349.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.06 - Flea market sales record of purchases.",
+      "number": "1349.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.09 - Parental notification by social media operators [applies beginning 1/15/2024 per Section 803.380 of H.B. 33, 135th General Assembly].",
+      "number": "1349.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.10 - Internet age verification - obscenity or matter harmful to juveniles.",
+      "number": "1349.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.101 - Internet age verification - civil action.",
+      "number": "1349.101",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.101"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.11 - Lending institution may not require use or employment of affiliated real estate broker.",
+      "number": "1349.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.17 - Restricting recording credit card, telephone or social security numbers.",
+      "number": "1349.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.18 - Printing credit card number and expiration date on receipt.",
+      "number": "1349.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.19 - Private disclosure of security breach of computerized personal information data.",
+      "number": "1349.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.191 - Investigation of noncompliance with disclosure laws.",
+      "number": "1349.191",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.191"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.192 - Civil action by attorney general for violation of disclosure laws.",
+      "number": "1349.192",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.192"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.20 - Escrow transactions concerning residential realty definitions.",
+      "number": "1349.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.21 - Disbursing from an escrow account.",
+      "number": "1349.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.22 - Advancing funds for incidental fees.",
+      "number": "1349.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.25 - Covered loan definitions.",
+      "number": "1349.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.26 - Disclosures of creditor concerning covered loans.",
+      "number": "1349.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.27 - Creditor or assignee - prohibitions.",
+      "number": "1349.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.271 - Rules for prepurchase counseling.",
+      "number": "1349.271",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.271"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.29 - Right to rescind.",
+      "number": "1349.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.30 - Voluntary adjustments correcting errors.",
+      "number": "1349.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.31 - Criminal proceedings initiated.",
+      "number": "1349.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.32 - Conforming Ohio law to federal law.",
+      "number": "1349.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.33 - Rules adopting similar provisions where federal law is amended or modified.",
+      "number": "1349.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.34 - Examination and investigation of records.",
+      "number": "1349.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.35 - Annual report.",
+      "number": "1349.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.36 - Administrative rules.",
+      "number": "1349.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.37 - Office of consumer affairs.",
+      "number": "1349.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.41 - Prohibited conduct in mortgage loan sale or purchase.",
+      "number": "1349.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.43 - Internet database - violations and enforcement information.",
+      "number": "1349.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.44 - Report on financial institutions division operations.",
+      "number": "1349.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.45 - Misleading or deceptive use of financial institution name or logo prohibited.",
+      "number": "1349.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.51 - Prohibiting disclosure of certain consumer information.",
+      "number": "1349.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.52 - Security freeze on consumer credit report.",
+      "number": "1349.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.521 - Security freeze on consumer credit cards.",
+      "number": "1349.521",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.521"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.53 - Civil action for noncompliance with security freeze.",
+      "number": "1349.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.55 - Non-recourse civil litigation advance contracts.",
+      "number": "1349.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.61 - Sale of gift card expiring within two years of sale prohibited.",
+      "number": "1349.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.65 - High-volume seller definitions.",
+      "number": "1349.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.66 - High-volume seller notification requirements.",
+      "number": "1349.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.67 - High-volume seller disclosure requirements.",
+      "number": "1349.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.67"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.68 - High-volume seller requirement enforcement.",
+      "number": "1349.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.68"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.69 - Security procedures and practices.",
+      "number": "1349.69",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.69"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.70 - High-volume seller duty to disclose certain information.",
+      "number": "1349.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.71 - Partial disclosure.",
+      "number": "1349.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.72 - Product listing disclosure.",
+      "number": "1349.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.73 - Penalty for failing to comply with disclosure requirements.",
+      "number": "1349.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.74 - Unfair or deceptive act under CSPA.",
+      "number": "1349.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.74"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.75 - Severability.",
+      "number": "1349.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.76 - Legislative intent.",
+      "number": "1349.76",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.76"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.78 - [Former R.C. 1349.72, renumbered by H.B. 272, 134th General Assembly, effective 7/6/2022] Written notice to debtor.",
+      "number": "1349.78",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.78"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.80 - Live musical performance definitions.",
+      "number": "1349.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.80"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.81 - Deception respecting relationship of performing and recording group.",
+      "number": "1349.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.82 - Violation of RC 1349.81.",
+      "number": "1349.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.82"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.84 - Firearm privacy definitions.",
+      "number": "1349.84",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.84"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.85 - Prohibit certain records identifying firearm owners and retailers.",
+      "number": "1349.85",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.85"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.86 - Firearm privacy enforcement and penalties.",
+      "number": "1349.86",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.86"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1349.99 - Penalty.",
+      "number": "1349.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1349.99"
+    }
+  ],
+  "scraped": "2026-07-02T19:37:28+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-1349",
+  "title": "Chapter 1349 - Consumer Protection"
+}

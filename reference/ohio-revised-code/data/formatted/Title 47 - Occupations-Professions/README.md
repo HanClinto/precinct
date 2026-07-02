@@ -1,0 +1,73 @@
+Source: https://codes.ohio.gov/ohio-revised-code/title-47
+Scraped: 2026-07-02T20:06:14+00:00
+
+# Title 47 - Occupations-Professions
+
+## Chapters
+
+- Chapter 4701 - Accountancy Board Law
+- Chapter 4703 - Architects
+- Chapter 4705 - Attorneys
+- Chapter 4707 - Auctioneers
+- Chapter 4709 - Barbers
+- Chapter 4710 - Debt Pooling Companies
+- Chapter 4711 - Commission Merchants
+- Chapter 4712 - Ohio Credit Services Organization Act
+- Chapter 4713 - Cosmetologists
+- Chapter 4715 - Dentists; Dental Hygienists
+- Chapter 4717 - Embalmers, Funeral Directors, Crematories
+- Chapter 4719 - Telephone Solicitors
+- Chapter 4721 - Innkeepers
+- Chapter 4722 - Home Construction Service Suppliers
+- Chapter 4723 - Nurses
+- Chapter 4725 - Optometrists; Dispensing Opticians
+- Chapter 4727 - Pawnbrokers
+- Chapter 4728 - Precious Metals Dealers
+- Chapter 4729 - Pharmacists; Dangerous Drugs
+- Chapter 4730 - Physician Assistants
+- Chapter 4731 - Physicians; Limited Practitioners
+- Chapter 4732 - Psychologists
+- Chapter 4733 - Professional Engineers and Professional Surveyors
+- Chapter 4734 - Chiropractors
+- Chapter 4735 - Real Estate Brokers
+- Chapter 4737 - Secondhand Dealers; Junk Yards
+- Chapter 4738 - Motor Vehicle Salvage
+- Chapter 4740 - Construction Industry Licensing Board
+- Chapter 4741 - Veterinarians
+- Chapter 4743 - Occupational Licensing Boards, Commissions, and Agencies Generally
+- Chapter 4744 - Speech And Hearing Professionals Board
+- Chapter 4745 - Standard License Renewal Procedure
+- Chapter 4747 - Hearing Aid Dealers
+- Chapter 4749 - Private Investigators; Security Services
+- Chapter 4751 - Nursing Home Administrators
+- Chapter 4752 - Home Medical Services
+- Chapter 4753 - Speech-language Pathologists and Audiologists
+- Chapter 4755 - Occupational Therapists; Physical Therapists; Athletic Trainers
+- Chapter 4757 - Counselors, Social Workers, Marriage and Family Therapists
+- Chapter 4758 - Chemical Dependency Professionals
+- Chapter 4759 - Dietetics
+- Chapter 4760 - Anesthesiologist Assistants
+- Chapter 4761 - Respiratory Care
+- Chapter 4762 - Acupuncturists and Oriental Medicine Practitioners
+- Chapter 4763 - Real Estate Appraisers
+- Chapter 4764 - Home Inspectors
+- Chapter 4765 - First Responders, Emergency Medical Technicians
+- Chapter 4766 - State Board of Emergency Medical, Fire, and Transportation Services
+- Chapter 4767 - Cemetery Registration
+- Chapter 4768 - Appraisal Management Companies
+- Chapter 4769 - Balance Billing of Medicare Beneficiaries
+- Chapter 4771 - Athlete Agents
+- Chapter 4772 - Certified Mental Health Assistants
+- Chapter 4773 - Radiation Technicians
+- Chapter 4774 - Radiologist Assistants
+- Chapter 4775 - Motor Vehicle Repair and Window Tint Operators
+- Chapter 4776 - Criminal Records Checks
+- Chapter 4777 - Practice of Occupational Safety or Industrial Hygiene
+- Chapter 4778 - Genetic Counselors
+- Chapter 4779 - Orthotists, Prosthetists, Pedorthists
+- Chapter 4781 - Manufactured Homes
+- Chapter 4783 - Behavior Analysts
+- Chapter 4785 - Elevator Contractors and Elevator Mechanics
+- Chapter 4796 - Occupational Licenses for Out-of-State Applicants
+- Chapter 4798 - Occupational Regulations
+- Chapter 4799 - Licensing of Childhood Sexual Abuse Registrants

@@ -1,0 +1,68 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4729.284
+Scraped: 2026-07-02T20:06:59+00:00
+
+# Section 4729.284 - Pharmacist dispensing nicotine replacement therapy.
+
+**Effective:** March 20, 2025
+
+**Latest Legislation:** Senate Bill 196 - 135th General Assembly
+
+(A) As used in this section, "nicotine replacement therapy" means a drug, including a dangerous drug, that delivers small doses of nicotine to an individual for the purpose of aiding in tobacco cessation or smoking cessation.
+
+(B) Subject to division (C) of this section, if use of a protocol that has been developed under this section has been authorized under section 4723.4812 or 4731.90 of the Revised Code, a pharmacist may dispense nicotine replacement therapy in accordance with that protocol to individuals who are eighteen years old or older and seeking to quit using tobacco-containing products.
+
+(C) For a pharmacist to be authorized to dispense nicotine replacement therapy under this section, the pharmacist shall do both of the following:
+
+(1) Successfully complete a course on nicotine replacement therapy that is taught by a provider that is accredited by the accreditation council for pharmacy education, or another provider approved by the state board of pharmacy, and that meets requirements established in rules adopted under this section;
+
+(2) Practice in accordance with a protocol that meets the requirements of division (D) of this section.
+
+(D) All of the following apply with respect to the protocol required by this section:
+
+(1) The protocol shall be established by a physician authorized under Chapter 4731. of the Revised Code to practice medicine and surgery or osteopathic medicine and surgery or a certified nurse-midwife, clinical nurse specialist, or certified nurse practitioner licensed under Chapter 4723. of the Revised Code.
+
+(2) The protocol shall specify a definitive set of treatment guidelines and the locations at which a pharmacist may dispense nicotine replacement therapy under this section.
+
+(3) The protocol shall include provisions for implementation of the following requirements:
+
+(a) Use by the pharmacist of a screening procedure, recommended by the United States centers for disease control and prevention or another organization approved by the board, to determine if an individual is a good candidate to receive nicotine replacement therapy dispensed as authorized by this section;
+
+(b) A requirement that the pharmacist refer high-risk individuals or individuals with contraindications to a primary care provider or, as appropriate, to another type of provider;
+
+(c) A requirement that the pharmacist develop and implement a follow-up care plan in accordance with guidelines specified in rules adopted under this section, including a recommendation by the pharmacist that the individual seek additional assistance with behavior change, including assistance from the Ohio tobacco quit line made available by the department of health.
+
+(4) The protocol shall satisfy any additional requirements established in rules adopted under this section.
+
+(E)(1) Documentation related to screening, dispensing, and follow-up care plans shall be maintained in the records of the pharmacy where the pharmacist practices for at least three years. Dispensing of nicotine replacement therapy may be documented on a prescription form, and the form may be assigned a number for recordkeeping purposes.
+
+(2) Not later than seventy-two hours after a screening is conducted under this section, the pharmacist shall provide notice to the individual's primary care provider, if known, or to the individual if the primary care provider is unknown. The notice shall include results of the screening, and if applicable, the dispensing record and follow-up care plan.
+
+A copy of the documentation identified in division (E)(1) of this section shall also be provided to the individual or the individual's primary care provider on request.
+
+(F) This section does not affect the authority of a pharmacist to do any of the following:
+
+(1) Fill or refill prescriptions for nicotine replacement therapy;
+
+(2) Sell nicotine replacement therapy that does not require a prescription.
+
+(G) No pharmacist shall do either of the following:
+
+(1) Dispense nicotine replacement therapy in accordance with a protocol unless the requirements of division (C) of this section have been met;
+
+(2) Delegate to any person the pharmacist's authority to engage in or supervise the dispensing of nicotine replacement therapy.
+
+(H)(1) The board shall adopt rules to implement this section. The rules shall be adopted in accordance with Chapter 119. of the Revised Code and shall include all of the following:
+
+(a) Provisions specifying the nicotine replacement therapy that may be dispensed in accordance with a protocol;
+
+(b) Requirements for courses on nicotine replacement therapy including requirements that are consistent with any standards established for such courses by the United States centers for disease control and prevention;
+
+(c) Requirements for protocols to be followed by pharmacists in dispensing nicotine replacement therapy;
+
+(d) Guidelines for follow-up care plans.
+
+(2) Prior to adopting rules regarding requirements for protocols to be followed by pharmacists in dispensing of nicotine replacement therapy, the state board of pharmacy shall consult with the state medical board, board of nursing, and department of health.
+
+(I) A physician, certified nurse-midwife, clinical nurse specialist, or certified nurse practitioner who in good faith authorizes a pharmacist to dispense nicotine replacement therapy in accordance with a protocol developed pursuant to rules adopted under division (H) of this section is not liable for or subject to any of the following for any action or omission of the individual to whom the nicotine replacement therapy is dispensed: damages in any civil action, prosecution in any criminal proceeding, or professional disciplinary action.
+
+Last updated February 18, 2025 at 6:19 PM

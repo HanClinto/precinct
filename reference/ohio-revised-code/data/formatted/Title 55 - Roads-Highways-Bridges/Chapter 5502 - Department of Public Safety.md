@@ -1,0 +1,85 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-5502
+Scraped: 2026-07-02T20:12:22+00:00
+
+# Chapter 5502 - Department of Public Safety
+
+## Sections
+
+- Section 5502.01 - General duties of department.
+- Section 5502.011 - Duties of director.
+- Section 5502.02 - Spending to administer and enforce motor vehicle and traffic laws.
+- Section 5502.03 - Division of homeland security.
+- Section 5502.031 - Regulation of amateur radio service communications and structures.
+- Section 5502.05 - Driver's license examination section.
+- Section 5502.06 - Duty of examiners.
+- Section 5502.07 - Training schools for examiners.
+- Section 5502.08 - Database of persons with a communication disability.
+- Section 5502.10 - State registry of habitual OVI/OMWI offenders.
+- Section 5502.11 - Written report of motor vehicle accident.
+- Section 5502.12 - Use of written report of motor vehicle accident.
+- Section 5502.13 - Investigative unit.
+- Section 5502.132 - Ohio investigative unit fund.
+- Section 5502.1321 - Ohio investigative unit contingency fund.
+- Section 5502.14 - Enforcement agent.
+- Section 5502.15 - Using federal funds.
+- Section 5502.16 - Cooperative or contractual arrangements with other governmental entities.
+- Section 5502.17 - Public safety enforcement agents requirements.
+- Section 5502.18 - Enforcement agents may assist state or local law enforcement officers.
+- Section 5502.19 - Department of public safety inspections of retail liquor permit premises.
+- Section 5502.21 - Emergency management definitions.
+- Section 5502.22 - Emergency management agency.
+- Section 5502.24 - Designation of temporary seats of state and local government in event of emergency.
+- Section 5502.25 - Rules for emergency management of state.
+- Section 5502.26 - Countywide emergency management agency.
+- Section 5502.261 - Appropriation from general fund for agency functions.
+- Section 5502.262 - School emergency management plans.
+- Section 5502.263 - Model threat assessment plan, approved threat assessment team training for schools.
+- Section 5502.27 - Regional authority for emergency management.
+- Section 5502.271 - Program for emergency management.
+- Section 5502.28 - Cooperation with governor and executive director.
+- Section 5502.281 - Volunteer database; registration; privacy provisions; liability.
+- Section 5502.29 - Mutual emergency management assistance or aid agreements.
+- Section 5502.291 - Interstate arrangements - coordination of mutual aid plans.
+- Section 5502.30 - Immunity from liability.
+- Section 5502.31 - Appropriations for expenses.
+- Section 5502.32 - Acceptance of private offers of assistance for purposes of emergency management.
+- Section 5502.33 - Political activity prohibited.
+- Section 5502.34 - Disqualification for subversive activities - registration and oath required.
+- Section 5502.35 - Exercising emergency management powers outside jurisdiction.
+- Section 5502.36 - Judicial notice.
+- Section 5502.37 - Emergency management prohibitions.
+- Section 5502.38 - Emergency response provisions not affected by emergency planning provisions.
+- Section 5502.39 - Emergency management agency service and reimbursement fund.
+- Section 5502.40 - Emergency management assistance compact.
+- Section 5502.41 - Intrastate mutual aid compact.
+- Section 5502.411 - Weapons during declared emergency.
+- Section 5502.42 - Civil defense certificate of necessity - application.
+- Section 5502.43 - Notice and hearing prior to issuance of certificate - revocation or modification.
+- Section 5502.44 - Distribution of certificate.
+- Section 5502.45 - Appeal.
+- Section 5502.46 - Revocation due to fraud - taxes and penalties.
+- Section 5502.47 - Exemption from real property tax.
+- Section 5502.48 - Exemption from personal property tax.
+- Section 5502.49 - Exemption from corporate franchise tax.
+- Section 5502.50 - Cost of superior protection from attack does not increase tax value of structure.
+- Section 5502.51 - Rules and standards for issuance of certificates.
+- Section 5502.52 - Statewide emergency alert program - abducted children - false report.
+- Section 5502.521 - AMBER alert advisory committee.
+- Section 5502.522 - Statewide emergency alert program.
+- Section 5502.53 - Statewide blue alert program.
+- Section 5502.54 - Escaped convict alert program.
+- Section 5502.61 - Criminal justice services definitions.
+- Section 5502.62 - Office of criminal justice services - powers and duties.
+- Section 5502.63 - Poster and brochure describing safe firearms practices and information regarding human trafficking.
+- Section 5502.64 - Metropolitan county criminal justice services agency - powers and duties.
+- Section 5502.65 - Metropolitan county criminal justice services agency - funding, supervisory board.
+- Section 5502.66 - Metropolitan county criminal justice services agency - administrative planning district, criminal or juvenile justice coordinating council.
+- Section 5502.67 - Justice program service fund.
+- Section 5502.68 - Drug law enforcement fund.
+- Section 5502.69 - Ohio narcotics intelligence center.
+- Section 5502.70 - Ohio mobile training team.
+- Section 5502.701 - Mobile training team officer qualifications.
+- Section 5502.702 - Mobile training team officer duties.
+- Section 5502.703 - Ohio school safety and crisis center.
+- Section 5502.75 - [Former R.C. 126.65, amended and renumbered by H.B. 184, 136th General Assembly, effective 03/20/2026] State post-traumatic stress fund.
+- Section 5502.99 - Penalty.

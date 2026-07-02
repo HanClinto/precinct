@@ -1,0 +1,270 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Taxes charged and payable\" means taxes charged and payable after the reduction required by section 319.301 of the Revised Code but before the reductions required by sections 319.302 and 323.152 of the Revised Code.",
+      "id": "5709.93-taxes-charged-and-payable",
+      "normalized": "taxes charged and payable",
+      "scope": "(A) As used in this section:",
+      "section": "5709.93",
+      "source_title": "Section 5709.93 - Computation of payments for operating fixed-rate levy losses of local taxing units and public libraries.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5709.93",
+      "term": "Taxes charged and payable"
+    },
+    {
+      "definition": "(2) \"Threshold per cent\" means two per cent for fiscal year 2016; and, for fiscal year 2017 and thereafter, the sum of the prior year's threshold per cent plus two percentage points.",
+      "id": "5709.93-threshold-per-cent",
+      "normalized": "threshold per cent",
+      "scope": "(A) As used in this section:",
+      "section": "5709.93",
+      "source_title": "Section 5709.93 - Computation of payments for operating fixed-rate levy losses of local taxing units and public libraries.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5709.93",
+      "term": "Threshold per cent"
+    },
+    {
+      "definition": "(3) \"Public library\" means a county, municipal, school district, or township public library that receives the proceeds of a tax levied under section 5705.23 of the Revised Code.",
+      "id": "5709.93-public-library",
+      "normalized": "public library",
+      "scope": "(A) As used in this section:",
+      "section": "5709.93",
+      "source_title": "Section 5709.93 - Computation of payments for operating fixed-rate levy losses of local taxing units and public libraries.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5709.93",
+      "term": "Public library"
+    },
+    {
+      "definition": "(4) \"Local taxing unit\" means a subdivision or taxing unit, as defined in section 5705.01 of the Revised Code, a park district created under Chapter 1545. of the Revised Code, or a township park district established under section 511.23 of the Revised Code, but excludes school districts and joint vocational school districts.",
+      "id": "5709.93-local-taxing-unit",
+      "normalized": "local taxing unit",
+      "scope": "(A) As used in this section:",
+      "section": "5709.93",
+      "source_title": "Section 5709.93 - Computation of payments for operating fixed-rate levy losses of local taxing units and public libraries.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5709.93",
+      "term": "Local taxing unit"
+    },
+    {
+      "definition": "(5) \"Municipal current expense allocation\" means the sum of the payments received by a municipal corporation in calendar year 2014 for current expense levy losses under division (A)(1)(e)(ii) of section 5727.86 and division (A)(1)(c)(ii) of section 5751.22 of the Revised Code as they existed at that time.",
+      "id": "5709.93-municipal-current-expense-allocation",
+      "normalized": "municipal current expense allocation",
+      "scope": "(A) As used in this section:",
+      "section": "5709.93",
+      "source_title": "Section 5709.93 - Computation of payments for operating fixed-rate levy losses of local taxing units and public libraries.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5709.93",
+      "term": "Municipal current expense allocation"
+    },
+    {
+      "definition": "(6) \"Current expense allocation\" means the sum of the payments received by a local taxing unit or public library in calendar year 2014 for current expense levy losses under division (A)(1) of section 5727.86 and divisions (A)(1) and (2) of section 5751.22 of the Revised Code as they existed at that time, less any reduction required under division (B)(2) of this section.",
+      "id": "5709.93-current-expense-allocation",
+      "normalized": "current expense allocation",
+      "scope": "(A) As used in this section:",
+      "section": "5709.93",
+      "source_title": "Section 5709.93 - Computation of payments for operating fixed-rate levy losses of local taxing units and public libraries.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5709.93",
+      "term": "Current expense allocation"
+    },
+    {
+      "definition": "(7) \"TPP inside millage debt levy loss\" means payments made to local taxing units in calendar year 2014 under division (A)(3) of section 5751.22 of the Revised Code as that section existed at that time.",
+      "id": "5709.93-tpp-inside-millage-debt-levy-loss",
+      "normalized": "tpp inside millage debt levy loss",
+      "scope": "(A) As used in this section:",
+      "section": "5709.93",
+      "source_title": "Section 5709.93 - Computation of payments for operating fixed-rate levy losses of local taxing units and public libraries.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5709.93",
+      "term": "TPP inside millage debt levy loss"
+    },
+    {
+      "definition": "(8) \"S.B. 3 inside millage debt levy loss\" means payments made to local taxing units in calendar year 2014 under section (A)(4) of section 5727.86 of the Revised Code as that section existed at that time.",
+      "id": "5709.93-s-b-3-inside-millage-debt-levy-loss",
+      "normalized": "s.b. 3 inside millage debt levy loss",
+      "scope": "(A) As used in this section:",
+      "section": "5709.93",
+      "source_title": "Section 5709.93 - Computation of payments for operating fixed-rate levy losses of local taxing units and public libraries.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5709.93",
+      "term": "S.B. 3 inside millage debt levy loss"
+    },
+    {
+      "definition": "(9) \"Qualifying levy\" means a levy for which payment was made in calendar year 2014 under division (A)(1) of section 5727.86 and divisions (A)(1) and (2) of section 5751.22 of the Revised Code as they existed at that time.\n\n(10) \"Total resources,\" in the case of county mental health and disability related functions, means the sum of the amounts in divisions (A)(10)(a) and (b) of this section less any reduction required under division (B)(1) of this section.\n\n(a) The sum of the payments received by the county for mental health and developmental disability related functions in calendar year 2014 under division (A)(1) of section 5727.86 and division (A)(1) of section 5751.22 of the Revised Code as they existed at that time;\n\n(b) With respect to taxes levied by the county for mental health and developmental disability related purposes, the taxes charged and payable for such purposes against all property on the tax list of real and public utility property for tax year 2014.\n\n(11) \"Total resources,\" in the case of county senior services related functions, means the sum of the amounts in divisions (A)(11)(a) and (b) of this section less any reduction required under division (B)(1) of this section.\n\n(a) The sum of the payments received by the county for senior services related functions in calendar year 2014 under division (A)(1) of section 5727.86 and division (A)(1) of section 5751.22 of the Revised Code as they existed at that time;\n\n(b) With respect to taxes levied by the county for senior services related purposes, the taxes charged and payable for such purposes against all property on the tax list of real and public utility property for tax year 2014.\n\n(12) \"Total resources,\" in the case of county children's services related functions, means the sum of the amounts in divisions (A)(12)(a) and (b) of this section less any reduction required under division (B)(1) of this section.\n\n(a) The sum of the payments received by the county for children's services related functions in calendar year 2014 under division (A)(1) of section 5727.86 and division (A)(1) of section 5751.22 of the Revised Code as they existed at that time;\n\n(b) With respect to taxes levied by the county for children's services related purposes, the taxes charged and payable for such purposes against all property on the tax list of real and public utility property for tax year 2014.\n\n(13) \"Total resources,\" in the case of county public health related functions, means the sum of the amounts in divisions (A)(13)(a) and (b) of this section less any reduction required under division (B)(1) of this section.\n\n(a) The sum of the payments received by the county for public health related functions in calendar year 2014 under division (A)(1) of section 5727.86 and division (A)(1) of section 5751.22 of the Revised Code as they existed at that time;\n\n(b) With respect to taxes levied by the county for public health related purposes, the taxes charged and payable for such purposes against all property on the tax list of real and public utility property for tax year 2014.\n\n(14) \"Total resources,\" in the case of all county functions not included in divisions (A)(10) to (13) of this section, means the sum of the amounts in divisions (A)(14)(a) to (e) of this section less any reduction required under division (B)(1) or (2) of this section.\n\n(a) The sum of the payments received by the county for all other purposes in calendar year 2014 under division (A)(1) of section 5727.86 and division (A)(1) of section 5751.22 of the Revised Code as they existed at that time;\n\n(b) The county's percentage share of county undivided local government fund allocations as certified to the tax commissioner for calendar year 2015 by the county auditor under division (J) of section 5747.51 of the Revised Code or division (F) of section 5747.53 of the Revised Code multiplied by the total amount actually distributed in calendar year 2014 from the county undivided local government fund;\n\n(c) With respect to taxes levied by the county for all other purposes, the taxes charged and payable for such purposes against all property on the tax list of real and public utility property for tax year 2014, excluding taxes charged and payable for the purpose of paying debt charges;\n\n(d) The sum of the amounts distributed to the county in calendar year 2014 for the taxes levied pursuant to sections 5739.021 and 5741.021 of the Revised Code;\n\n(e) The sum of amounts distributed to the county from the gross casino revenue county fund from July 2014 through April 2015.\n\n(15) \"Total resources,\" in the case of a municipal corporation, means the sum of the amounts in divisions (A)(15)(a) to (h) of this section less any reduction required under division (B)(1) or (2) of this section.\n\n(a) The sum of the payments received by the municipal corporation in calendar year 2014 for current expense levy losses under division (A)(1) of section 5727.86 and division (A)(1) of section 5751.22 of the Revised Code as they existed at that time;\n\n(b) The municipal corporation's percentage share of county undivided local government fund allocations as certified to the tax commissioner for calendar year 2015 by the county auditor under division (J) of section 5747.51 of the Revised Code or division (F) of section 5747.53 of the Revised Code multiplied by the total amount actually distributed in calendar year 2014 from the county undivided local government fund;\n\n(c) The sum of the amounts distributed to the municipal corporation in calendar year 2014 pursuant to section 5747.50 of the Revised Code;\n\n(d) With respect to taxes levied by the municipal corporation, the taxes charged and payable against all property on the tax list of real and public utility property for municipal current expenses for tax year 2014;\n\n(e) The amount of admissions tax collected by the municipal corporation in calendar year 2013, or if such information has not yet been reported to the tax commissioner, in the most recent year before 2013 for which the municipal corporation has reported data to the commissioner;\n\n(f) The amount of income taxes collected by the municipal corporation in calendar year 2013 as certified to the tax commissioner under section 5747.50 of the Revised Code in 2013, or if such information has not yet been reported to the commissioner, in the most recent year before 2014 for which the municipal corporation has reported such data to the commissioner;\n\n(g) The sum of the amounts distributed to the municipal corporation from the gross casino revenue host city fund from July 2014 through April 2015;\n\n(h) The sum of the amounts distributed to the municipal corporation from the gross casino revenue county fund from July 2014 through April 2015.\n\n(16) \"Total resources,\" in the case of a township, means the sum of the amounts in divisions (A)(16)(a) to (c) of this section less any reduction required under division (B)(1) or (2) of this section.\n\n(a) The sum of the payments received by the township in calendar year 2014 pursuant to division (A)(1) of section 5727.86 of the Revised Code and division (A)(1) of section 5751.22 of the Revised Code as they existed at that time, excluding payments received for debt purposes;\n\n(b) The township's percentage share of county undivided local government fund allocations as certified to the tax commissioner for calendar year 2015 by the county auditor under division (J) of section 5747.51 of the Revised Code or division (F) of section 5747.53 of the Revised Code multiplied by the total amount actually distributed in calendar year 2014 from the county undivided local government fund;\n\n(c) With respect to taxes levied by the township, the taxes charged and payable against all property on the tax list of real and public utility property for tax year 2014 excluding taxes charged and payable for the purpose of paying debt charges or from levies imposed under section 5705.23 of the Revised Code.\n\n(17) \"Total resources,\" in the case of a local taxing unit that is not a county, municipal corporation, township, or public library means the sum of the amounts in divisions (A)(17)(a) to (e) of this section less any reduction required under division (B)(1) of this section.\n\n(a) The sum of the payments received by the local taxing unit in calendar year 2014 pursuant to division (A)(1) of section 5727.86 of the Revised Code and division (A)(1) of section 5751.22 of the Revised Code as they existed at that time;\n\n(b) The local taxing unit's percentage share of county undivided local government fund allocations as certified to the tax commissioner for calendar year 2015 by the county auditor under division (J) of section 5747.51 of the Revised Code or division (F) of section 5747.53 of the Revised Code multiplied by the total amount actually distributed in calendar year 2014 from the county undivided local government fund;\n\n(c) With respect to taxes levied by the local taxing unit, the taxes charged and payable against all property on the tax list of real and public utility property for tax year 2014 excluding taxes charged and payable for the purpose of paying debt charges or from a levy imposed under section 5705.23 of the Revised Code;\n\n(d) The amount received from the tax commissioner during calendar year 2014 for sales or use taxes authorized under sections 5739.023 and 5741.022 of the Revised Code;\n\n(e) For institutions of higher education receiving tax revenue from a local levy, as identified in section 3358.02 of the Revised Code, the final state share of instruction allocation for fiscal year 2014 as calculated by the chancellor of higher education and reported to the state controlling board.\n\n(18) \"Total resources,\" in the case of a county, municipal corporation, school district, or township public library that receives the proceeds of a tax levied under section 5705.23 of the Revised Code, means the sum of the amounts in divisions (A)(18)(a) to (d) of this section less any reduction required under division (B)(1) of this section.\n\n(a) The sum of the payments received by the county, municipal corporation, school district, or township public library in calendar year 2014 pursuant to sections 5727.86 and 5751.22 of the Revised Code, as they existed at that time, for fixed-rate levy losses attributable to a tax levied under section 5705.23 of the Revised Code for the benefit of the public library;\n\n(b) The public library's percentage share of county undivided local government fund allocations as certified to the tax commissioner for calendar year 2015 by the county auditor under division (J) of section 5747.51 of the Revised Code or division (F) of section 5747.53 of the Revised Code multiplied by the total amount actually distributed in calendar year 2014 from the county undivided local government fund;\n\n(c) With respect to a tax levied pursuant to section 5705.23 of the Revised Code for the benefit of the public library, the amount of such tax that is charged and payable against all property on the tax list of real and public utility property for tax year 2014 excluding any tax that is charged and payable for the purpose of paying debt charges;\n\n(d) The sum of the amounts distributed to the library district from the county public library fund in calendar year 2014, as reported to the tax commissioner by the county auditor.",
+      "id": "5709.93-qualifying-levy",
+      "normalized": "qualifying levy",
+      "scope": "(A) As used in this section:",
+      "section": "5709.93",
+      "source_title": "Section 5709.93 - Computation of payments for operating fixed-rate levy losses of local taxing units and public libraries.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5709.93",
+      "term": "Qualifying levy"
+    },
+    {
+      "definition": "(19) \"Municipal current expense property tax levies\" means all property tax levies of a municipality, except those with the following levy names: library; airport resurfacing; bond or any levy name including the word \"bond\"; capital improvement or any levy name including the word \"capital\"; debt or any levy name including the word \"debt\"; equipment or any levy name including the word \"equipment,\" unless the levy is for combined operating and equipment; employee termination fund; fire pension or any levy containing the word \"pension,\" including police pensions; fireman's fund or any practically similar name; sinking fund; road improvements or any levy containing the word \"road\"; fire truck or apparatus; flood or any levy containing the word \"flood\"; conservancy district; county health; note retirement; sewage, or any levy containing the words \"sewage\" or \"sewer\"; park improvement; parkland acquisition; storm drain; street or any levy name containing the word \"street\"; lighting, or any levy name containing the word \"lighting\"; and water.",
+      "id": "5709.93-municipal-current-expense-property-tax-levies",
+      "normalized": "municipal current expense property tax levies",
+      "scope": "(A) As used in this section:",
+      "section": "5709.93",
+      "source_title": "Section 5709.93 - Computation of payments for operating fixed-rate levy losses of local taxing units and public libraries.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5709.93",
+      "term": "Municipal current expense property tax levies"
+    },
+    {
+      "definition": "(20) \"Operating fixed-rate levy loss\" means, in the case of local taxing units other than municipal corporations, fixed-rate levy losses of levies imposed for purposes other than paying debt charges or, in the case of municipal corporations, fixed-rate levy losses of municipal current expense property tax levies.",
+      "id": "5709.93-operating-fixed-rate-levy-loss",
+      "normalized": "operating fixed-rate levy loss",
+      "scope": "(A) As used in this section:",
+      "section": "5709.93",
+      "source_title": "Section 5709.93 - Computation of payments for operating fixed-rate levy losses of local taxing units and public libraries.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5709.93",
+      "term": "Operating fixed-rate levy loss"
+    },
+    {
+      "definition": "(21)(a) \"Qualifying municipal corporation\" means a municipal corporation in the territory of which a qualifying end user is located.",
+      "id": "5709.93-qualifying-municipal-corporation",
+      "normalized": "qualifying municipal corporation",
+      "scope": "(A) As used in this section:",
+      "section": "5709.93",
+      "source_title": "Section 5709.93 - Computation of payments for operating fixed-rate levy losses of local taxing units and public libraries.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5709.93",
+      "term": "Qualifying municipal corporation"
+    },
+    {
+      "definition": "(b) \"Qualifying end user\" means an end user of at least seven million qualifying kilowatt hours of electricity annually.",
+      "id": "5709.93-qualifying-end-user",
+      "normalized": "qualifying end user",
+      "scope": "(A) As used in this section:",
+      "section": "5709.93",
+      "source_title": "Section 5709.93 - Computation of payments for operating fixed-rate levy losses of local taxing units and public libraries.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5709.93",
+      "term": "Qualifying end user"
+    },
+    {
+      "definition": "(c) \"Qualifying kilowatt hours\" means kilowatt hours of electricity generated by a renewable energy resource, as defined in section 5727.01 of the Revised Code, using wind energy and the distribution of which is subject to the tax levied under section 5727.81 of the Revised Code for any measurement period beginning after June 30, 2015.\n\n(22) Any term used in this section has the same meaning as in section 5727.84 or 5751.20 of the Revised Code unless otherwise defined by this section.\n\n(B)(1) \"Total resources\" used to compute payments to be made under division (C) of this section shall be reduced to the extent that payments distributed in calendar year 2014 were attributable to levies no longer charged and payable.\n\n(2) \"Current expense allocation\" used to compute payments to be made under division (C) of this section shall be reduced to the extent that payments distributed in calendar year 2014 were attributable to levies no longer charged and payable.\n\n(C)(1) Except as provided in division (D) of this section, the tax commissioner shall compute payments for operating fixed-rate levy losses of local taxing units and public libraries for fiscal year 2016 and each year thereafter as prescribed in divisions (C)(1)(a) and (b) of this section:\n\n(a) For public libraries and local taxing units other than municipal corporations:\n\n(i) If the ratio of current expense allocation to total resources is equal to or less than the threshold per cent, zero;\n\n(ii) If the ratio of current expense allocation to total resources is greater than the threshold per cent, the current expense allocation minus the product of total resources multiplied by the threshold per cent.\n\n(b) For municipal corporations:\n\n(i) If the ratio of the municipal current expense allocation to total resources is equal to or less than the threshold per cent, zero;\n\n(ii) If the ratio of the municipal current expense allocation to total resources is greater than the threshold per cent, the municipal current expense allocation minus the product of total resources multiplied by the threshold per cent.\n\n(2) For any local taxing unit or public library with operating fixed-rate levy losses greater than zero, the operating fixed-rate levy loss shall be allocated among all qualifying operating fixed-rate levies in proportion to each such levy's share of the payments received in tax year 2014. In fiscal year 2016 and thereafter, if a levy to which operating fixed-rate levy loss is allocated is no longer charged and payable, the payment to the local taxing unit or public library shall be reduced by the amount allocated to the levy that is no longer charged and payable.\n\n(D)(1) Except as provided in division (D)(2) of this section, the tax commissioner shall make payments to local taxing units equal to the sum of TPP inside millage debt levy loss and S.B. 3 inside millage debt levy loss. No payment shall be made if the levy for which the levy loss is computed is not charged and payable for debt purposes in fiscal year 2016 or any year thereafter.\n\n(2) No payment shall be made for TPP inside millage debt levy loss in calendar year 2018 or thereafter. No payment shall be made for S.B.3 inside millage debt levy loss in calendar year 2017 or thereafter.\n\n(E) For a qualifying municipal corporation, the tax commissioner shall compute payments for fiscal year 2016 and each ensuing fiscal year in an amount equal to the amount of tax imposed under section 5727.81 of the Revised Code and paid on the basis of qualifying kilowatt hours of electricity distributed through the meter of a qualifying end user located in the municipal corporation for measurement periods ending in the preceding calendar year. The payment shall be computed regardless of whether the qualifying municipal corporation qualifies for a payment under any other division of this section for the fiscal year in which the payment is computed under this division. For the purposes of this division, the commissioner may require an electric distribution company distributing qualifying kilowatt hours or, if the end user is a self-assessing purchaser, the end user, to report to the commissioner the number of qualifying kilowatt hours distributed through the meter of the qualifying end user.\n\n(F)(1) The payments required to be made under divisions (C), (D), and (H) of this section shall be paid from the general revenue fund to the county undivided income tax fund in the proper county treasury. Beginning in August 2015, one-half of the amount determined under each of those divisions shall be paid on or before the last day of August each year, and one-half shall be paid on or before the last day of February each year. Within thirty days after receipt of such payments, the county treasurer shall distribute amounts determined under this section to the proper local taxing unit or public library as if they had been levied and collected as taxes, and the local taxing unit or public library shall allocate the amounts so received among its funds in the same proportions as if those amounts had been levied and collected as taxes.\n\n(2) On or before the last day of August and of February of each fiscal year that follows a calendar year in which taxes are paid on the basis of qualifying kilowatt hours of electricity distributed through the meter of a qualifying end user located in a qualifying municipal corporation, one-half of the payment computed under division (E) of this section shall be paid from the general revenue fund directly to the qualifying municipal corporation. The municipal corporation shall credit the payments to a special fund created for the purpose of providing grants or other financial assistance to the qualifying end user or to compensate the municipal corporation for municipal income tax or other tax credits or reductions as the legislative authority may grant to the qualifying end user. Such grants or other financial assistance may be provided for by ordinance or resolution of the legislative authority of the qualifying municipal corporation and may continue for as long as is provided by the ordinance or resolution.\n\n(G) If all or a part of the territories of two or more local taxing units are merged, or unincorporated territory of a township is annexed by a municipal corporation, the tax commissioner shall adjust the payments made under this section to each of the local taxing units in proportion to the square mileage of the merged or annexed territory as a percentage of the total square mileage of the jurisdiction from which the territory originated, or as otherwise provided by a written agreement between the legislative authorities of the local taxing units certified to the commissioner not later than the first day of June of the calendar year in which the payment is to be made.\n\n(H) For fiscal years 2022 through 2026, if the total amount to be received under division (C) of this section by a joint fire district that has a nuclear power plant located within its territory is less than the amount the district received under this section in fiscal year 2017, the district shall receive a supplemental payment equal to the difference between the amount to be received under that division for the fiscal year and the amount received under this section in fiscal year 2017.\n\nLast updated July 23, 2025 at 3:59 PM",
+      "id": "5709.93-qualifying-kilowatt-hours",
+      "normalized": "qualifying kilowatt hours",
+      "scope": "(A) As used in this section:",
+      "section": "5709.93",
+      "source_title": "Section 5709.93 - Computation of payments for operating fixed-rate levy losses of local taxing units and public libraries.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5709.93",
+      "term": "Qualifying kilowatt hours"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "319.301",
+      "number": "319.301",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.301"
+    },
+    {
+      "kind": "section",
+      "label": "319.302",
+      "number": "319.302",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-319.302"
+    },
+    {
+      "kind": "section",
+      "label": "323.152",
+      "number": "323.152",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-323.152"
+    },
+    {
+      "kind": "section",
+      "label": "5705.23",
+      "number": "5705.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.23"
+    },
+    {
+      "kind": "section",
+      "label": "5705.01",
+      "number": "5705.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5705.01"
+    },
+    {
+      "kind": "section",
+      "label": "511.23",
+      "number": "511.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-511.23"
+    },
+    {
+      "kind": "section",
+      "label": "5727.86",
+      "number": "5727.86",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.86"
+    },
+    {
+      "kind": "section",
+      "label": "5751.22",
+      "number": "5751.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5751.22"
+    },
+    {
+      "kind": "section",
+      "label": "5747.51",
+      "number": "5747.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.51"
+    },
+    {
+      "kind": "section",
+      "label": "5747.53",
+      "number": "5747.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.53"
+    },
+    {
+      "kind": "section",
+      "label": "5739.021",
+      "number": "5739.021",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.021"
+    },
+    {
+      "kind": "section",
+      "label": "5741.021",
+      "number": "5741.021",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5741.021"
+    },
+    {
+      "kind": "section",
+      "label": "5747.50",
+      "number": "5747.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.50"
+    },
+    {
+      "kind": "section",
+      "label": "5739.023",
+      "number": "5739.023",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.023"
+    },
+    {
+      "kind": "section",
+      "label": "5741.022",
+      "number": "5741.022",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5741.022"
+    },
+    {
+      "kind": "section",
+      "label": "3358.02",
+      "number": "3358.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3358.02"
+    },
+    {
+      "kind": "section",
+      "label": "5727.01",
+      "number": "5727.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.01"
+    },
+    {
+      "kind": "section",
+      "label": "5727.81",
+      "number": "5727.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.81"
+    },
+    {
+      "kind": "section",
+      "label": "5727.84",
+      "number": "5727.84",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5727.84"
+    },
+    {
+      "kind": "section",
+      "label": "5751.20",
+      "number": "5751.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5751.20"
+    }
+  ],
+  "scraped": "2026-07-02T20:14:27+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5709.93",
+  "title": "Section 5709.93 - Computation of payments for operating fixed-rate levy losses of local taxing units and public libraries."
+}

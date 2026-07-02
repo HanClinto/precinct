@@ -1,0 +1,40 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4765.06
+Scraped: 2026-07-02T20:08:05+00:00
+
+# Section 4765.06 - Emergency medical services incidence reporting system - state trauma registry.
+
+**Effective:** March 22, 2019
+
+**Latest Legislation:** Senate Bill 229 - 132nd General Assembly
+
+(A) The state board of emergency medical, fire, and transportation services shall establish an emergency medical services incidence reporting system for the collection of information regarding the delivery of emergency medical services in this state and the frequency at which the services are provided. All emergency medical service organizations shall submit to the board any information that the board determines is necessary for maintaining the incidence reporting system.
+
+(B) The board shall establish a state trauma registry to be used for the collection of information regarding the care of adult and pediatric trauma victims in this state. The registry shall provide for the reporting of adult and pediatric trauma-related deaths, identification of adult and pediatric trauma patients, monitoring of adult and pediatric trauma patient care data, determination of the total amount of uncompensated adult and pediatric trauma care provided annually by each facility that provides care to trauma victims, and collection of any other information specified by the board. All persons designated by the board shall submit to the board any information it determines is necessary for maintaining the state trauma registry. At the request of the board any state agency possessing information regarding adult or pediatric trauma care shall provide the information to the board. The board shall maintain the state trauma registry in accordance with rules adopted under section 4765.11 of the Revised Code.
+
+Rules relating to the state trauma registry adopted under this section and section 4765.11 of the Revised Code shall not prohibit the operation of other trauma registries and may provide for the reporting of information to the state trauma registry by or through other trauma registries in a manner consistent with information otherwise reported to the state trauma registry. Other trauma registries may report aggregate information to the state trauma registry, provided the information can be matched to the person that reported it. Information maintained by another trauma registry and reported to the state trauma registry in lieu of being reported directly to the state trauma registry is a public record and shall be maintained, made available to the public, held in confidence, risk adjusted, and not subject to discovery or introduction into evidence in a civil action as provided in section 149.43 of the Revised Code and this section. Any person who provides, maintains, or risk adjusts such information shall comply with this section and rules adopted under it in performing that function and has the same immunities with respect to that function as a person who performs that function with respect to the state trauma registry.
+
+(C) The board and any employee or contractor of the board or the department of public safety shall not make public information it receives under Chapter 4765. of the Revised Code that identifies or would tend to identify a specific recipient of emergency medical services or adult or pediatric trauma care.
+
+(D) Not later than two years after November 3, 2000, the board shall adopt and implement rules under section 4765.11 of the Revised Code that provide written standards and procedures for risk adjustment of information received by the board under Chapter 4765. of the Revised Code. The rules shall be developed in consultation with appropriate medical, hospital, and emergency medical service organizations and may provide for risk adjustment by a contractor of the board. Except as provided in division (G) or (H) of this section, before risk adjustment standards and procedures are implemented, no member of the board and no employee or contractor of the board or the department of public safety shall make public information received by the board under Chapter 4765. of the Revised Code that identifies or would tend to identify a specific provider of emergency medical services or adult or pediatric trauma care. Except as provided in division (G) or (H) of this section, after risk adjustment standards and procedures are implemented, the board shall make public such information only on a risk adjusted basis.
+
+(E) The board shall adopt rules under section 4765.11 of the Revised Code that specify procedures for ensuring the confidentiality of information that is not to be made public under this section. The rules shall specify the circumstances in which deliberations of the persons performing risk adjustment functions under this section are not open to the public and records of those deliberations are maintained in confidence. Nothing in this section prohibits the board from making public statistical information that does not identify or tend to identify a specific recipient or provider of emergency medical services or adult or pediatric trauma care.
+
+(F) No provider that furnishes information to the board with respect to any patient the provider examined or treated shall, because of this furnishing, be deemed liable in damages to any person or be held to answer for betrayal of a professional confidence in the absence of willful or wanton misconduct. No such information shall be subject to introduction in evidence in any civil action against the provider. No provider that furnishes information to the board shall be liable for the misuse or improper release of the information by the board or any other person.
+
+No person who performs risk adjustment functions under this section shall, because of performing such functions, be held liable in a civil action for betrayal of professional confidence or otherwise in the absence of willful or wanton misconduct.
+
+(G) In the case of data that identifies or tends to identify a specific recipient or provider of emergency medical services care and has not been risk-adjusted from the emergency medical services incident reporting system, the board may transmit the data directly to the national emergency medical services information system or another electronic information system if all of the following conditions are met:
+
+(1) The federal agency or entity administering the information system collects, stores, and organizes data for research and monitoring purposes.
+
+(2) The board transmits the data pursuant to a written contract between the board and federal agency or entity administering the information system.
+
+(3) The contract provides that, to the maximum extent permitted by federal law, the agency or entity shall use the data solely for inclusion in the information system and shall not disclose the data to the public, through legal discovery, a freedom of information request, or otherwise, in a manner that identifies or tends to identify a specific recipient or provider of emergency medical services care.
+
+(H) In the case of data that identifies or tends to identify a specific trauma care recipient or provider and has not been risk-adjusted from the state trauma registry, the board may transmit the data directly to the national trauma data bank or another electronic information system if all of the following conditions are met:
+
+(1) The entity administering the data bank or information system collects, stores, and organizes data for research and monitoring purposes.
+
+(2) The board transmits the data pursuant to a written contract between the board and entity.
+
+(3) The contract provides that, to the maximum extent permitted by federal law, the entity shall use the data solely for inclusion in the data bank or information system and shall not disclose the data to the public, through legal discovery, a freedom of information request, or otherwise, in a manner that identifies or tends to identify a specific trauma care recipient or provider.

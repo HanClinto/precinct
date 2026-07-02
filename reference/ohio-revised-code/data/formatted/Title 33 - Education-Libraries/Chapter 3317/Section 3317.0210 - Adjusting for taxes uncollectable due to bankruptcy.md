@@ -1,0 +1,32 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3317.0210
+Scraped: 2026-07-02T19:48:49+00:00
+
+# Section 3317.0210 - Adjusting for taxes uncollectable due to bankruptcy.
+
+**Effective:** June 30, 2011
+
+**Latest Legislation:** House Bill 153 - 129th General Assembly
+
+(A) As used in this section:
+
+(1) "Bankruptcy Reform Act" means the "Bankruptcy Reform Act of 1978," 92 Stat. 2558, 11 U.S.C. 301, as amended.
+
+(2) "Chapter 11 corporation" means a corporation, company, or other business organization that has filed a petition for reorganization under Chapter 11 of the "Bankruptcy Reform Act," 92 Stat. 2626, 11 U.S.C. 1101, as amended.
+
+(3) "Uncollectable taxes" means property taxes payable in a calendar year by a Chapter 11 corporation on its property that a school district is precluded from collecting by virtue of proceedings under the Bankruptcy Reform Act.
+
+(4) "Basic state aid" means a school district's state education aid.
+
+(5) "Effective value" means the amount obtained by multiplying the total taxable value certified in a calendar year under section 3317.021 of the Revised Code by a fraction, the numerator of which is the total taxes charged and payable in that calendar year exclusive of the uncollectable taxes payable in that year, and the denominator of which is the total taxes charged and payable in that year.
+
+(6) "Total taxes charged and payable" has the same meaning given "taxes charged and payable" in section 3317.02 of the Revised Code.
+
+(B)(1) Between the first day of January and the first day of February of any year, a school district shall notify the department of education if it has uncollectable taxes payable in the preceding calendar year from one Chapter 11 corporation.
+
+(2) The department shall verify whether the district has such uncollectable taxes from such a corporation, and if the district does, shall immediately request the tax commissioner to certify the district's total taxes charged and payable in the preceding calendar year, and the tax commissioner shall certify that information to the department within thirty days after receiving the request. For the purposes of this section, taxes are payable in the calendar year that includes the day prescribed by law for their payment, including any lawful extension thereof.
+
+(C) Upon receiving the certification from the tax commissioner, the department shall determine whether the amount of uncollectable taxes from the corporation equals at least one per cent of the total taxes charged and payable as certified by the tax commissioner. If it does, the department shall compute the district's effective value and shall recompute the basic state aid payable to the district for the current fiscal year using the effective value in lieu of the total taxable value used to compute the basic state aid for the current fiscal year. The difference between the basic state aid amount originally computed for the district for the current fiscal year and the recomputed amount shall be paid to the district from the lottery profits education fund before the end of the current fiscal year.
+
+(D) Except as provided in division (E) of this section, amounts received by a school district under division (C) of this section shall be repaid to the department of education in any future year to the extent the district receives payments of uncollectable taxes in such future year. The district shall notify the department of any amount owed under this division.
+
+(E) If a school district received a grant from the catastrophic expenditures account pursuant to division (C) of section 3316.20 of the Revised Code on the basis of the same circumstances for which a recomputation is made under this section, the amount of the recomputation shall be reduced and transferred in accordance with division (C) of section 3316.20 of the Revised Code.

@@ -1,0 +1,14 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-1533.84
+Scraped: 2026-07-02T19:37:50+00:00
+
+# Section 1533.84 - Shooting range standards.
+
+**Effective:** November 21, 1997
+
+**Latest Legislation:** House Bill 209 - 122nd General Assembly
+
+The chief of the division of wildlife, in accordance with section 1531.10 of the Revised Code, shall adopt rules establishing generally accepted standards for shooting ranges. These rules shall be no more stringent than national rifle association standards, and include standards for the limitation and suppression of noise, standards for the hours of operation of shooting ranges of the various types and at the various locations of ranges, and standards for public safety. The rules may include standards for the reconstruction, enlargement, remodeling, or repair of any structure or facility that is part of a shooting range provided that any local laws creating standards for the reconstruction, enlargement, remodeling, or repair of structures or facilities that apply generally to all structures or facilities and not exclusively or primarily to shooting ranges also shall apply to shooting ranges. Nothing in this section limits the authority of a county or township board of zoning appeals to issue or deny conditional zoning certificates for the reconstruction, enlargement, remodeling, or repair of an existing shooting range pursuant to division (C) of section 303.14 or division (C) of section 519.14 of the Revised Code or the authority of a board of county commissioners or board of township trustees relating to the completion, restoration, reconstruction, extension, or substitution of nonconforming uses pursuant to section 303.19 or 519.19 of the Revised Code. At the time of its establishment, a shooting range shall comply with all existing local ordinances, regulations, or laws.
+
+The chief of the division of wildlife shall consult with a representative sample of persons and organizations that own, operate, or use shooting ranges and persons and organizations that represent counties, townships, municipal corporations, and holders of real property adjoining shooting ranges prior to filing or amending the rules required or authorized under this section in accordance with section 1531.10 of the Revised Code. A draft copy of the chief's proposed rules or any subsequent amendments to the rules shall be submitted to representatives of the above-listed organizations, who shall be given thirty days to review and submit written comments on the draft rules to the chief. The chief shall consider but not be bound by the written comments and, after giving due regard to the public interests, shall file the initial rules in accordance with section 1531.10 of the Revised Code within one hundred eighty days after the effective date of this section.
+
+Last updated April 20, 2021 at 6:00 PM

@@ -1,0 +1,138 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-3734
+Scraped: 2026-07-02T20:00:34+00:00
+
+# Chapter 3734 - Solid and Hazardous Wastes
+
+## Sections
+
+- Section 3734.01 - Solid and hazardous waste definitions.
+- Section 3734.02 - Rules for inspection and licensing of solid waste facilities.
+- Section 3734.021 - Standards for generators and transporters of infectious wastes and owners and operators of treatment facilities.
+- Section 3734.023 - Off-site infectious waste treatment facility definitions.
+- Section 3734.024 - Funding for municipal corporation or township for conducting environmental monitoring programs in connection with off-site infectious waste treatment facilities.
+- Section 3734.025 - Return and remittance of fees by owner or operator.
+- Section 3734.026 - Procedures for remitting fees.
+- Section 3734.027 - Low-level radioactive waste - prohibited activities.
+- Section 3734.028 - Standards of quality for compost products.
+- Section 3734.029 - Application to compost products produced by facility composting dead animals.
+- Section 3734.03 - Open burning or open dumping.
+- Section 3734.04 - Inspection - enforcement.
+- Section 3734.041 - Explosive gas monitoring plan for landfill.
+- Section 3734.042 - Complaint of presence of vectors at scrap tire collection, storage, monocell, monofill, or recovery facility.
+- Section 3734.05 - Licensing requirements.
+- Section 3734.058 - Limiting regulations by local authorities.
+- Section 3734.06 - Annual fee for solid waste facility license - special fund - special infectious waste fund.
+- Section 3734.061 - Waste management fund.
+- Section 3734.07 - Facilities to be inspected - certification - right of entry.
+- Section 3734.08 - Annual survey.
+- Section 3734.09 - Suspension, revocation, denial of license.
+- Section 3734.10 - Injunction.
+- Section 3734.101 - Civil action.
+- Section 3734.11 - Prohibited acts.
+- Section 3734.12 - Director of environmental protection - powers and duties.
+- Section 3734.121 - List of hazardous wastes generated within state.
+- Section 3734.122 - Storage and disposal of polychlorinated biphenyls, substances, equipment, and devices containing or contaminated with polychlorinated biphenyls.
+- Section 3734.123 - Assessment of commercial hazardous waste incinerator capacity in state.
+- Section 3734.124 - Restrictions on incinerators.
+- Section 3734.125 - Rules governing beneficial use of material from a horizontal well.
+- Section 3734.13 - Enforcement and emergency orders.
+- Section 3734.14 - Exchange, use, and recovery of resources from hazardous waste.
+- Section 3734.141 - Disposing of acute hazardous waste.
+- Section 3734.15 - Registration and liability of transporters and acceptors of hazardous waste.
+- Section 3734.16 - Generator's liability for intentional violation.
+- Section 3734.17 - Prohibiting accepting waste after violation by generator.
+- Section 3734.18 - Fees - hazardous waste facility management fund.
+- Section 3734.19 - Request to survey the locations or facilities.
+- Section 3734.20 - Investigations.
+- Section 3734.21 - Paying costs of closing, constructing or restoring facilities.
+- Section 3734.22 - Agreement with owner prior to cleanup.
+- Section 3734.23 - Acquiring facility constituting imminent and substantial threat - restoration contracts.
+- Section 3734.24 - Transferring or selling cleaned up facility.
+- Section 3734.25 - Paying portion of costs of closing facility or abating pollution.
+- Section 3734.26 - Grants to and contracts with owner of facility.
+- Section 3734.27 - Application and survey to precede grant.
+- Section 3734.28 - Hazardous waste clean-up fund.
+- Section 3734.281 - Environmental protection remediation fund.
+- Section 3734.282 - Natural resource damages fund.
+- Section 3734.29 - Claim for personal injuries or real property damage resulting from violation.
+- Section 3734.30 - State's liability for injury or damage.
+- Section 3734.31 - Inspecting and monitoring facilities.
+- Section 3734.35 - Affected community may request compensation agreement.
+- Section 3734.40 - Policy as to off-site treatment, storage and disposal of wastes.
+- Section 3734.41 - Qualifications of licensees and related persons definitions.
+- Section 3734.42 - Disclosure statement.
+- Section 3734.43 - Investigative demand by attorney general.
+- Section 3734.44 - Issuance or renewal of permit or license.
+- Section 3734.45 - Causes for revocation.
+- Section 3734.46 - Effect of disqualification.
+- Section 3734.47 - Investigations and review of applications for permits and licenses.
+- Section 3734.48 - Coal combustion residuals.
+- Section 3734.49 - Materials management advisory council.
+- Section 3734.50 - State solid waste management plan.
+- Section 3734.501 - Annual review of solid waste management in state.
+- Section 3734.52 - Establishing county or joint solid waste management districts.
+- Section 3734.521 - Change in district composition.
+- Section 3734.522 - Withdrawal from a joint solid waste management district.
+- Section 3734.53 - Contents of county or joint solid waste management district plan.
+- Section 3734.531 - Effect of failure of district to add members to policy committee or board of trustees.
+- Section 3734.54 - Preparing and submitting solid waste management plan.
+- Section 3734.55 - Preliminary review of draft plan.
+- Section 3734.551 - Reimbursement of director for expenses of preparing and ordering implementation of plan or amended plan.
+- Section 3734.56 - Submission of amended plan and certification.
+- Section 3734.57 - Fees for waste disposal.
+- Section 3734.571 - Disposal fees where district has no facilities.
+- Section 3734.572 - Disposal fee to defray costs of initial plan of district without disposal facility.
+- Section 3734.573 - Fee for generation of solid wastes within district.
+- Section 3734.574 - Generation and disposal fees.
+- Section 3734.575 - Report of fees and accounts.
+- Section 3734.576 - Exemption of automotive shredder residue from generation fee.
+- Section 3734.577 - Exemption from fees prohibited.
+- Section 3734.578 - Fees inapplicable to solid waste used as alternative daily cover.
+- Section 3734.579 - National priority list remedial support fund.
+- Section 3734.60 - Plastic containers labeled with code for basic material used in bottle or container.
+- Section 3734.61 - Mercury devices definitions.
+- Section 3734.62 - Purchase of mercury-added measuring device for classroom use.
+- Section 3734.63 - Sale of mercury-containing thermometer for promotional purposes.
+- Section 3734.64 - Sale of mercury-added novelty for promotional purposes.
+- Section 3734.65 - Sale or installation of mercury-containing thermostat.
+- Section 3734.70 - Scrap tire collection facilities rules.
+- Section 3734.71 - Scrap tire storage facilities rules.
+- Section 3734.72 - Scrap tire monocell and monofill facilities rules.
+- Section 3734.73 - Scrap tire recovery facilities rules.
+- Section 3734.74 - Scrap tire transportation rules.
+- Section 3734.75 - Submitting to written notice - collection facility.
+- Section 3734.76 - Submitting to written notice - storage facility.
+- Section 3734.77 - Notice of operation by owner or operator of a scrap tire monocell or monofill facility.
+- Section 3734.78 - Submitting to written notice - restoration facility.
+- Section 3734.79 - Permit application fees.
+- Section 3734.80 - Municipal corporation, county, or township regulations.
+- Section 3734.81 - Obtaining license from board of health or director of environmental protection agency.
+- Section 3734.82 - Annual fee for scrap tire recovery facility license - scrap tire management fund.
+- Section 3734.822 - Scrap tire grant fund.
+- Section 3734.83 - Registration of transporters.
+- Section 3734.84 - Notification requirements for persons who beneficially use scrap tires.
+- Section 3734.85 - Enforcement and removal.
+- Section 3734.86 - Disposal of off-road construction and mining equipment tires.
+- Section 3734.87 - Report and recommendations of director of environmental protection.
+- Section 3734.90 - Tire sales fee definitions.
+- Section 3734.901 - Tire fee administrative fund.
+- Section 3734.902 - Tax commissioner administration and enforcement.
+- Section 3734.903 - Liability of wholesale distributor and retail dealer.
+- Section 3734.904 - Filing returns.
+- Section 3734.905 - Refund of fee.
+- Section 3734.906 - Records.
+- Section 3734.907 - Personal liability.
+- Section 3734.908 - Dissolution, termination, or bankruptcy does not discharge personal liability.
+- Section 3734.909 - Limitation on assessment.
+- Section 3734.9010 - Tire fee administrative fund.
+- Section 3734.9011 - Registration of wholesale distributors, retail dealers.
+- Section 3734.9012 - Wholesale distributor to provide statement to customers.
+- Section 3734.9013 - Prohibited acts.
+- Section 3734.9014 - Maintaining list of registered distributors.
+- Section 3734.91 - Definitions - lead acid batteries.
+- Section 3734.911 - Prohibiting commingling of used lead-acid batteries.
+- Section 3734.912 - Duties of retailer.
+- Section 3734.913 - Duties of wholesaler.
+- Section 3734.914 - Required signage.
+- Section 3734.915 - No signage for lead-acid battery cases.
+- Section 3734.99 - Penalty.

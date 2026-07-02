@@ -1,0 +1,26 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3302.121
+Scraped: 2026-07-02T19:48:16+00:00
+
+# Section 3302.121 - School turnaround pilot program.
+
+**Effective:** October 24, 2024
+
+**Latest Legislation:** Senate Bill 168 - 135th General Assembly
+
+(A) As used in this section, a "needs assessment" means a systematic process of identifying and evaluating the specific requirements, challenges, and opportunities within an educational institution.
+
+(B) The department of education and workforce shall establish the school turnaround pilot program. The department shall administer and operate the pilot program for five years beginning with the 2024-2025 school year to address chronic low performance in Ohio's school districts and community schools established under Chapter 3314. of the Revised Code. The duration of a program for any particular school building may be for three to five years.
+
+(C) The department may select up to fifteen per cent of the school buildings on its comprehensive support and improvement schools designation list for the most recent school year available at the time selections are made, or other school buildings operated by the lowest performing school districts as determined by the department, to participate in the program. The department shall select school buildings from at least five state support team regions to ensure geographic diversity and shall include community schools. In selecting school buildings for the program, the department may consider the typology of the school district that operates the school building or in which the school building is located, the grade levels offered in the school building, and the length of time the school building has been on the comprehensive support and improvement designation list.
+
+(D) The department shall approve one or more eligible external service providers with expertise in school improvement to work in partnership with districts, schools, community school sponsors, and school support teams in the area.
+
+(E) Each school district or community school that elects to participate in the program shall choose a single service provider approved by the department to conduct a needs assessment, develop a multi-year improvement plan, and ensure the implementation of evidence-based interventions to improve academic achievement, chronic absenteeism rates, and family and community engagement.
+
+(F) Districts and community schools may receive funding for the pilot program from existing federal funds.
+
+(G) Districts, community schools, and service providers shall regularly report data to the department in a manner prescribed by the department. The department shall conduct an annual evaluation of the program and may contract with a third party for this purpose.
+
+(H) Service providers shall collaborate with school districts and community schools to ensure that services and interventions are aligned to identified needs and to recommend system-wide improvements to the department and to the general assembly.
+
+Last updated September 24, 2024 at 9:03 AM

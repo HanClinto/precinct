@@ -1,0 +1,14 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3307.771
+Scraped: 2026-07-02T19:48:25+00:00
+
+# Section 3307.771 - Purchasing service credit for time spent on pregnancy or adoption.
+
+**Effective:** January 7, 2013
+
+**Latest Legislation:** Senate Bill 342 - 129th General Assembly
+
+As used in this section, "regular employment" means a consistent pattern of employment for twelve or more consecutive weeks by the same employer during the year.
+
+A member of the state teachers retirement system participating in the STRS defined benefit plan who prior to July 1, 1982, was granted a leave of absence for pregnancy or resigned due to pregnancy or adoption of a child may purchase service credit under section 3307.70 of the Revised Code for a period for which the member did not make contributions under section 3307.26 of the Revised Code. The service credit shall not exceed the lesser of two years or the period from the day the leave commenced or the effective date of resignation to the date of the member's return to regular employment as a contributor to the retirement system. A member may purchase credit for more than one period of absence due to pregnancy or adoption, but the total service credit and credit purchased under former section 3307.513 and former section 3307.514 of the Revised Code shall not exceed two years. The member shall submit evidence satisfactory to the retirement board documenting that the leave or resignation was due to pregnancy or adoption of a child.
+
+A member who purchases service credit for an absence or leave described in this section may not purchase credit for that absence or leave under section 3307.77 of the Revised Code. A member who has purchased service credit for an absence or leave under former section 3307.513 or 3307.514 or section 3307.77 of the Revised Code may not purchase credit described in this section for the same period of absence or leave.

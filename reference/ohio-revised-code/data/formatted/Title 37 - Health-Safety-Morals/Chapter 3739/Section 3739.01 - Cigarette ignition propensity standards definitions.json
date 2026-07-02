@@ -1,0 +1,112 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Agent\" means any person licensed by a county auditor or the tax commissioner to purchase and affix adhesive or meter stamps on packages of cigarettes pursuant to Chapter 5743. of the Revised Code.",
+      "id": "3739.01-agent",
+      "normalized": "agent",
+      "scope": "As used in this chapter:",
+      "section": "3739.01",
+      "source_title": "Section 3739.01 - Cigarette ignition propensity standards definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3739.01",
+      "term": "Agent"
+    },
+    {
+      "definition": "(B) \"Brand family\" means all styles of cigarettes sold under the same trademark and differentiated from one another by means of additional modifiers or descriptors, including, but not limited to, \"menthol,\" \"lights,\" \"kings,\" and \"100s.\" \"Brand family\" includes cigarettes sold under a brand name, whether that name is used alone or in conjunction with any other word, trademark, logo, symbol, motto, selling message, recognizable pattern of colors, or other indicia of product identification identical or similar to, or identifiable with, a previous brand of cigarettes.",
+      "id": "3739.01-brand-family",
+      "normalized": "brand family",
+      "scope": "As used in this chapter:",
+      "section": "3739.01",
+      "source_title": "Section 3739.01 - Cigarette ignition propensity standards definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3739.01",
+      "term": "Brand family"
+    },
+    {
+      "definition": "(C) \"Cigarettes\" has the same meaning as in division (D)(1) of section 1346.01 of the Revised Code but does not include \"roll-your-own\" cigarettes as defined in division (D)(2) of that section.",
+      "id": "3739.01-cigarettes",
+      "normalized": "cigarettes",
+      "scope": "As used in this chapter:",
+      "section": "3739.01",
+      "source_title": "Section 3739.01 - Cigarette ignition propensity standards definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3739.01",
+      "term": "Cigarettes"
+    },
+    {
+      "definition": "(D) \"Manufacturer\" means either of the following:\n\n(1) Any entity or the entity's successor that, in any location, manufactures or otherwise produces cigarettes, or causes cigarettes to be manufactured or produced, that the entity intends to be sold in this state, including, but not limited to, cigarettes intended to be sold in the United States through an importer;\n\n(2) Any entity or the entity's successor that meets both of the following criteria:\n\n(a) Purchases cigarettes, in any location, from a second entity that manufactures or otherwise produces cigarettes in any location when that second entity does not intend that the cigarettes it manufactures be sold in the United States;\n\n(b) Intends to resell the cigarettes described in division (D)(2)(a) of this section in the United States.",
+      "id": "3739.01-manufacturer",
+      "normalized": "manufacturer",
+      "scope": "As used in this chapter:",
+      "section": "3739.01",
+      "source_title": "Section 3739.01 - Cigarette ignition propensity standards definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3739.01",
+      "term": "Manufacturer"
+    },
+    {
+      "definition": "(E) \"Repeatability\" means the range of values within which ninety-five per cent of the results of cigarette test trials from a single laboratory will fall.",
+      "id": "3739.01-repeatability",
+      "normalized": "repeatability",
+      "scope": "As used in this chapter:",
+      "section": "3739.01",
+      "source_title": "Section 3739.01 - Cigarette ignition propensity standards definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3739.01",
+      "term": "Repeatability"
+    },
+    {
+      "definition": "(F) \"Retail dealer\" has the same meaning as in division (C)(1) of section 5743.01 of the Revised Code.",
+      "id": "3739.01-retail-dealer",
+      "normalized": "retail dealer",
+      "scope": "As used in this chapter:",
+      "section": "3739.01",
+      "source_title": "Section 3739.01 - Cigarette ignition propensity standards definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3739.01",
+      "term": "Retail dealer"
+    },
+    {
+      "definition": "(G) \"Quality control and quality assurance program\" means the procedures a laboratory implements to ensure both of the following:\n\n(1) Operator bias, systematic and nonsystematic methodological errors, and equipment-related problems do not affect cigarette test results.\n\n(2) Testing repeatability remains within the required repeatability values for all test trials used by the laboratory to certify cigarettes in accordance with this chapter and is not greater than 0.19.",
+      "id": "3739.01-quality-control-and-quality-assurance-program",
+      "normalized": "quality control and quality assurance program",
+      "scope": "As used in this chapter:",
+      "section": "3739.01",
+      "source_title": "Section 3739.01 - Cigarette ignition propensity standards definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3739.01",
+      "term": "Quality control and quality assurance program"
+    },
+    {
+      "definition": "(H) \"Sale\" has the same meaning as in section 5743.01 of the Revised Code.",
+      "id": "3739.01-sale",
+      "normalized": "sale",
+      "scope": "As used in this chapter:",
+      "section": "3739.01",
+      "source_title": "Section 3739.01 - Cigarette ignition propensity standards definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3739.01",
+      "term": "Sale"
+    },
+    {
+      "definition": "(I) \"Wholesale dealer\" means either of the following persons:\n\n(1) A person, other than a manufacturer, who sells cigarettes to retail dealers or other persons for purposes of resale;\n\n(2) A person who owns, operates, or maintains one or more cigarette vending machines upon premises owned or occupied by any other person.",
+      "id": "3739.01-wholesale-dealer",
+      "normalized": "wholesale dealer",
+      "scope": "As used in this chapter:",
+      "section": "3739.01",
+      "source_title": "Section 3739.01 - Cigarette ignition propensity standards definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3739.01",
+      "term": "Wholesale dealer"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "1346.01",
+      "number": "1346.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1346.01"
+    },
+    {
+      "kind": "section",
+      "label": "5743.01",
+      "number": "5743.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5743.01"
+    }
+  ],
+  "scraped": "2026-07-02T20:00:44+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3739.01",
+  "title": "Section 3739.01 - Cigarette ignition propensity standards definitions."
+}

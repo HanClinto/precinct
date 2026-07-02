@@ -1,0 +1,10 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3318.28
+Scraped: 2026-07-02T19:48:52+00:00
+
+# Section 3318.28 - Alternative, supplemental provisions.
+
+**Effective:** June 9, 1994
+
+**Latest Legislation:** House Bill 552 - 120th General Assembly
+
+The authority provided by sections 3318.21 to 3318.29 of the Revised Code is in addition to and provides alternative methods for any other authority provided by law for the same or similar purposes, and are supplemental to and not in derogation of any powers of any governmental agency otherwise conferred including those conferred in Chapter 133. of the Revised Code. In case any provision of sections 3318.21 to 3318.29 of the Revised Code, including any condition or prerequisite to any action or determination, or in case any covenant, stipulation, obligation, resolution, trust agreement, indenture, loan agreement, lease agreement, agreement, act, or action, or part thereof, made, assumed, entered into, or taken under those sections, or any application thereof, is for any reason held to be illegal or invalid, such illegality or invalidity shall not affect the remainder thereof or any other provision of sections 3318.21 to 3318.29 of the Revised Code, including any condition or prerequisite to any action or determination, or any other covenant, stipulation, obligation, resolution, trust agreement, indenture, loan agreement, lease agreement, agreement, act, or action, or part thereof, made, assumed, entered into, or taken under such chapter, which shall be construed and enforced as if such illegal or invalid portion were not contained therein, nor shall such illegality or invalidity or any application thereof affect any legal and valid application thereof, and each such section, provision, covenant, stipulation, obligation, resolution, trust agreement, indenture, loan agreement, lease agreement, agreement, act, or action, or part thereof, shall be deemed to be effective, operative, made, entered into or taken in the manner and to the full extent permitted by law.

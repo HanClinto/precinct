@@ -1,0 +1,20 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3333.043
+Scraped: 2026-07-02T19:49:28+00:00
+
+# Section 3333.043 - Community service programs.
+
+**Effective:** September 29, 2015
+
+**Latest Legislation:** House Bill 64 - 131st General Assembly
+
+(A) As used in this section:
+
+(1) "Institution of higher education" means the state universities listed in section 3345.011 of the Revised Code, municipal educational institutions established under Chapter 3349. of the Revised Code, community colleges established under Chapter 3354. of the Revised Code, university branches established under Chapter 3355. of the Revised Code, technical colleges established under Chapter 3357. of the Revised Code, state community colleges established under Chapter 3358. of the Revised Code, any institution of higher education with a certificate of registration from the state board of career colleges and schools, and any institution for which the chancellor of higher education receives a notice pursuant to division (C) of this section.
+
+(2) "Community service" has the same meaning as in section 3313.605 of the Revised Code.
+
+(B)(1) The board of trustees or other governing entity of each institution of higher education shall encourage and promote participation of students in community service through a program appropriate to the mission, student population, and environment of each institution. The program may include, but not be limited to, providing information about community service opportunities during student orientation or in student publications; providing awards for exemplary community service; encouraging faculty members to incorporate community service into students' academic experiences wherever appropriate to the curriculum; encouraging recognized student organizations to undertake community service projects as part of their purposes; and establishing advisory committees of students, faculty members, and community and business leaders to develop cooperative programs that benefit the community and enhance student experience. The program shall be flexible in design so as to permit participation by the greatest possible number of students, including part-time students and students for whom participation may be difficult due to financial, academic, personal, or other considerations. The program shall emphasize community service opportunities that can most effectively use the skills of students, such as tutoring or literacy programs. The programs shall encourage students to perform services that will not supplant the hiring of, result in the displacement of, or impair any existing employment contracts of any particular employee of any private or governmental entity for which services are performed.
+
+(2) The chancellor of higher education shall encourage all institutions of higher education in the development of community service programs. With the assistance of the Ohio commission on service and volunteerism created in section 121.40 of the Revised Code, the chancellor shall make available information about higher education community service programs to institutions of higher education and to statewide organizations involved with or promoting volunteerism, including information about model community service programs, teacher training courses, and community service curricula and teaching materials for possible use by institutions of higher education in their programs. The chancellor shall encourage institutions of higher education to jointly coordinate higher education community service programs through consortia of institutions or other appropriate means of coordination.
+
+(C) The board of trustees of any nonprofit institution with a certificate of authorization issued pursuant to Chapter 1713. of the Revised Code or the governing authority of a private institution exempt from regulation under Chapter 3332. of the Revised Code as prescribed in section 3333.046 of the Revised Code may notify the chancellor that it is making itself subject to divisions (A) and (B) of this section. Upon receipt of such a notice, these divisions shall apply to that institution.

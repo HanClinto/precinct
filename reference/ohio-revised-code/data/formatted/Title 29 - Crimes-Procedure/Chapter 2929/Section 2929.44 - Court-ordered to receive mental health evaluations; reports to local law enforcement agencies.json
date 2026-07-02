@@ -1,0 +1,52 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Local law enforcement agency\" means the police department of a municipal corporation in which an offense occurred or, if the offense did not occur in a municipal corporation, the sheriff of the county in which the offense occurred.",
+      "id": "2929.44-local-law-enforcement-agency",
+      "normalized": "local law enforcement agency",
+      "scope": "(A) As used in this section:",
+      "section": "2929.44",
+      "source_title": "Section 2929.44 - Court-ordered to receive mental health evaluations; reports to local law enforcement agencies.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2929.44",
+      "term": "Local law enforcement agency"
+    },
+    {
+      "definition": "(2) \"Mental illness\" has the same meaning as in section 5122.01 of the Revised Code.",
+      "id": "2929.44-mental-illness",
+      "normalized": "mental illness",
+      "scope": "(A) As used in this section:",
+      "section": "2929.44",
+      "source_title": "Section 2929.44 - Court-ordered to receive mental health evaluations; reports to local law enforcement agencies.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2929.44",
+      "term": "Mental illness"
+    },
+    {
+      "definition": "(3) \"Offense of violence\" has the same meaning as in section 2901.01 of the Revised Code.\n\n(B) If a court orders a person who pleads guilty to or who is convicted of an offense of violence to receive a mental health evaluation or treatment for a mental illness, the court shall report the conviction and required evaluation or treatment to the local law enforcement agency. The local law enforcement agency shall enter the conviction and required treatment into the national crime information center supervised release file through the law enforcement automated data system. The information reported and entered shall include all of the following:\n\n(1) The name of the court providing the information;\n\n(2) The offense or offenses of violence to which the offender pleaded guilty or of which the offender was convicted;\n\n(3) Any other information required for the entry of information into the national crime information center supervised release file.\n\n(C) Information entered into the national crime information center supervised release file pursuant to this section shall remain in the file until further order of the court.",
+      "id": "2929.44-offense-of-violence",
+      "normalized": "offense of violence",
+      "scope": "(A) As used in this section:",
+      "section": "2929.44",
+      "source_title": "Section 2929.44 - Court-ordered to receive mental health evaluations; reports to local law enforcement agencies.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2929.44",
+      "term": "Offense of violence"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "5122.01",
+      "number": "5122.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5122.01"
+    },
+    {
+      "kind": "section",
+      "label": "2901.01",
+      "number": "2901.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2901.01"
+    }
+  ],
+  "scraped": "2026-07-02T19:46:30+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2929.44",
+  "title": "Section 2929.44 - Court-ordered to receive mental health evaluations; reports to local law enforcement agencies."
+}

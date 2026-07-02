@@ -1,0 +1,429 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 117.01 - Auditor of state definitions.",
+      "number": "117.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.02 - Election - term.",
+      "number": "117.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.03 - Bond.",
+      "number": "117.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.04 - Chief deputy auditor of state.",
+      "number": "117.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.05 - Bond of chief deputy.",
+      "number": "117.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.06 - Powers and duties of chief deputy.",
+      "number": "117.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.07 - Designee of auditor may serve.",
+      "number": "117.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.08 - Records subject to inspection.",
+      "number": "117.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.09 - Auditor of State authority.",
+      "number": "117.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.091 - Appointing investigators.",
+      "number": "117.091",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.091"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.10 - Auditor of state - duties - federal audits.",
+      "number": "117.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.101 - Uniform accounting network - fund.",
+      "number": "117.101",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.101"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.103 - Auditor of state's system for reporting fraud.",
+      "number": "117.103",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.103"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.105 - Notice from auditor.",
+      "number": "117.105",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.105"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.11 - Annual, biennial, and early audits.",
+      "number": "117.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.111 - County office using electronic records and signatures to include security procedure in audit.",
+      "number": "117.111",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.111"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.112 - Audit of buckeye tobacco settlement financing authority.",
+      "number": "117.112",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.112"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.115 - Independent certified public accountant to perform required audit in lieu of auditor of state.",
+      "number": "117.115",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.115"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.116 - Review of warrant under protest.",
+      "number": "117.116",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.116"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.12 - Rules for audit standards, procedures, and guidelines.",
+      "number": "117.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.13 - Recovery of costs of audits of state agencies - public audit expense fund-intrastate - public audit expense fund-local government.",
+      "number": "117.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.131 - Local government audit support fund.",
+      "number": "117.131",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.131"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.14 - Annual audit of office of auditor.",
+      "number": "117.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.15 - Annual audit and inventory of state treasury and custodial funds.",
+      "number": "117.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.16 - Force account project assessment form.",
+      "number": "117.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.161 - Joint force account project limits.",
+      "number": "117.161",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.161"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.17 - Letter of representation by retiring head of state agency.",
+      "number": "117.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.171 - Certificate of transition.",
+      "number": "117.171",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.171"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.18 - Auditor and designated employee - powers.",
+      "number": "117.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.19 - Rules for generally accepted or governmental auditing standards,.",
+      "number": "117.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.191 - Audits of public children services agency, private child placing agency, or private noncustodial agency.",
+      "number": "117.191",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.191"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.20 - Rule making procedure.",
+      "number": "117.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.21 - Retention of audit materials.",
+      "number": "117.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.22 - Request for assistance.",
+      "number": "117.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.23 - Report of public accountant.",
+      "number": "117.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.24 - Analyzing report of public accountant.",
+      "number": "117.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.25 - Incorporating report of public accountant and results of auditor's analysis.",
+      "number": "117.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.26 - Certified copies of completed audit reports.",
+      "number": "117.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.27 - Filing certified copy with legal counsel.",
+      "number": "117.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.28 - Report of audit and actions thereon.",
+      "number": "117.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.29 - Audit report showing malfeasance or gross neglect of duty.",
+      "number": "117.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.30 - Attorney general action.",
+      "number": "117.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.31 - Illegal expenditures in attorney general's office.",
+      "number": "117.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.32 - Surety may be sued in same action.",
+      "number": "117.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.33 - Abating or compromising claims.",
+      "number": "117.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.34 - Cause of action accrues when report filed.",
+      "number": "117.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.35 - Submission of judgment entry to attorney general.",
+      "number": "117.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.36 - Jurisdiction of civil actions.",
+      "number": "117.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.37 - Advancement of causes.",
+      "number": "117.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.38 - Annual reports.",
+      "number": "117.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.39 - Financial reports from any public office.",
+      "number": "117.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.40 - Refusal to keep accounts.",
+      "number": "117.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.41 - Unauditable offices.",
+      "number": "117.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.42 - Enforcement powers of attorney general.",
+      "number": "117.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.43 - Rules for requirements for accounting and financial reporting for public offices other than state agencies.",
+      "number": "117.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.431 - Accounting of public money in possession of private institution.",
+      "number": "117.431",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.431"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.44 - Training programs for township fiscal officers, city auditors and village clerks.",
+      "number": "117.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.45 - Format for sworn affidavit.",
+      "number": "117.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.46 - Performance audits of state agencies.",
+      "number": "117.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.461 - Comment period.",
+      "number": "117.461",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.461"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.462 - Implementation of recommendations.",
+      "number": "117.462",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.462"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.463 - Annual report.",
+      "number": "117.463",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.463"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.47 - Auditor's innovation fund.",
+      "number": "117.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.473 - Feasibility studies to determine efficiency or cost savings realized by sharing services or facilities.",
+      "number": "117.473",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.473"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.48 - Shared equipment service agreement program.",
+      "number": "117.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.52 - Adjusting amount recoverable for wrongful imprisonment.",
+      "number": "117.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.53 - Audit statement regarding adoption of anti-harassment policy.",
+      "number": "117.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.54 - Auditor of state investigation and forfeiture trust fund.",
+      "number": "117.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.55 - State awards for economic development.",
+      "number": "117.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 117.56 - Department of transportation audit.",
+      "number": "117.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.56"
+    }
+  ],
+  "scraped": "2026-07-02T19:31:31+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-117",
+  "title": "Chapter 117 - Auditor of State"
+}

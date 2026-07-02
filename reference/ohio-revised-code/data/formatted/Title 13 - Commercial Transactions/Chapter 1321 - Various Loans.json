@@ -1,0 +1,663 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 1321.01 - Small Loan Law definitions; division of financial institutions responsibility.",
+      "number": "1321.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.02 - Small loan license requirement; exceptions.",
+      "number": "1321.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.03 - Application for small loan license; fee.",
+      "number": "1321.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.04 - Small loan license application approval.",
+      "number": "1321.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.05 - Contents of small loan license; annual fee and assessment; assets.",
+      "number": "1321.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.06 - Additional small loan licenses; change of place of business.",
+      "number": "1321.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.07 - Examination of small loan licensee's records; division powers.",
+      "number": "1321.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.08 - Suspension or revocation of small loan license.",
+      "number": "1321.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.09 - Small loan licensee recordkeeping; annual report.",
+      "number": "1321.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.10 - Small Loan Law rules and orders; procedure in case of violation; certified statements.",
+      "number": "1321.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.11 - Prohibited statements and representations.",
+      "number": "1321.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.12 - Small loan licensee - prohibited acts.",
+      "number": "1321.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.13 - Small loan maximum interest rate; computation of interest; precomputed loans; permissible charges; insurance.",
+      "number": "1321.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.131 - Small loan alternative interest rate.",
+      "number": "1321.131",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.131"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.14 - Duties of small loan licensee; prohibited acts.",
+      "number": "1321.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.141 - Small loan requirements and restrictions.",
+      "number": "1321.141",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.141"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.15 - Loans designed to circumvent limitations on interest rates, charges, or loan amount.",
+      "number": "1321.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.16 - Open-end loans by small loan licensee.",
+      "number": "1321.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.17 - Out-of-state small loans.",
+      "number": "1321.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.18 - Civil action to reverse, rescind, or modify division order.",
+      "number": "1321.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.19 - Cancellation or alteration of small loan license does not impact existing contracts.",
+      "number": "1321.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.20 - Fees - licenses, registration under this chapter and for pawnbrokers and precious metals dealers.",
+      "number": "1321.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.21 - Consumer finance fund.",
+      "number": "1321.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.31 - Assignment of personal earnings - requirements, limitations, priority.",
+      "number": "1321.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.32 - Assignment of wages invalid - exception.",
+      "number": "1321.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.33 - Wage assignments for support of spouse or children not subject to Small Loan Law or R.C. 1321.31.",
+      "number": "1321.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.35 - Short-term Loan Law definitions.",
+      "number": "1321.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.36 - Short-term loan license required; telephone and mail loans; exceptions; applicability of Short-term Loan Law.",
+      "number": "1321.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.37 - Application for short-term loan license; fee; approval procedure; assets; bond.",
+      "number": "1321.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.38 - Contents of short-term loan license; additional licenses; change of place of business.",
+      "number": "1321.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.39 - Short-term loan requirements and restrictions.",
+      "number": "1321.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.391 - Short-term loans of longer than 90 days.",
+      "number": "1321.391",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.391"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.40 - Maximum interest rate; permissible short-term loan fees.",
+      "number": "1321.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.401 - Refinancing short-term loans.",
+      "number": "1321.401",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.401"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.402 - Prepayment or refinancing prior to short-term loan maturity date.",
+      "number": "1321.402",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.402"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.403 - Short-term loan fee cap; exceptions.",
+      "number": "1321.403",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.403"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.41 - Short-term loan licensee prohibitions.",
+      "number": "1321.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.411 - Short-term loan collection limitations.",
+      "number": "1321.411",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.411"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.42 - Enforcement actions relating to short-term loan license.",
+      "number": "1321.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.421 - Examination of short-term loan licensee's records.",
+      "number": "1321.421",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.421"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.422 - Short-term loan licensee recordkeeping; annual reports.",
+      "number": "1321.422",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.422"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.43 - Short-term Loan Law rules and orders.",
+      "number": "1321.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.44 - Violations of Short-term Loan Law are unfair or deceptive acts; criminal proceedings.",
+      "number": "1321.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.45 - Prohibited short-term loan debt collection practices.",
+      "number": "1321.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.46 - Verification of borrower's income before making short-term loan.",
+      "number": "1321.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.47 - Duties of short-term loan licensees; civil action by borrower.",
+      "number": "1321.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.48 - Reports by superintendent; confidentiality of information.",
+      "number": "1321.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.51 - General Loan Law definitions.",
+      "number": "1321.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.52 - Registrants may make general loans; choice of law; security; superintendent authority.",
+      "number": "1321.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.53 - General loan certificate of registration application, approval, fee; assets; additional certificates; change in place of business; exceptions to General Loan Law.",
+      "number": "1321.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.54 - General loan rules; suspension, revocation, or refusal to renew registration; fines; alleged violations.",
+      "number": "1321.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.541 - Actions by attorney general, county prosecutor to enforce General Loan Law.",
+      "number": "1321.541",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.541"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.55 - General loan registrant recordkeeping; annual report; confidentiality.",
+      "number": "1321.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.551 - Evading General Loan Law requirements.",
+      "number": "1321.551",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.551"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.56 - Forfeiting general loan interest for interest rate violation.",
+      "number": "1321.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.57 - General loan maximum interest rate; computation of interest; precomputed loans; permissible charges; insurance.",
+      "number": "1321.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.571 - General loan alternative interest rate.",
+      "number": "1321.571",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.571"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.58 - Open-end loans by general loan registrant.",
+      "number": "1321.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.59 - General Loan Law registrant - prohibited acts.",
+      "number": "1321.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.591 - Compliance with Fair Debt Collection Practices Act.",
+      "number": "1321.591",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.591"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.592 - Prohibited general loans by registrants.",
+      "number": "1321.592",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.592"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.60 - Advertising for general loans.",
+      "number": "1321.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.62 - Consumer Installment Loan Act definitions.",
+      "number": "1321.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.63 - Activities for which consumer installment loan license is required.",
+      "number": "1321.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.631 - Applicability of Consumer Installment Loan Act.",
+      "number": "1321.631",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.631"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.632 - Consumer installment loan licensee authority; prohibited activities.",
+      "number": "1321.632",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.632"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.64 - Application for consumer installment loan license; approval procedure.",
+      "number": "1321.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.641 - Renewal of consumer installment loan license.",
+      "number": "1321.641",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.641"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.642 - Effect of change in ownership of a consumer installment loan licensee; notice.",
+      "number": "1321.642",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.642"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.643 - Place of business; additional consumer installment loan licenses; change of place of business or name.",
+      "number": "1321.643",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.643"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.644 - Persons selling tangible goods or services.",
+      "number": "1321.644",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.644"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.65 - Asset requirements of consumer installment loan licensee.",
+      "number": "1321.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.651 - Advertising for consumer installment loans.",
+      "number": "1321.651",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.651"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.66 - Consumer installment loan licensee recordkeeping; examination of records.",
+      "number": "1321.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.661 - Consumer installment loan licensee call reports.",
+      "number": "1321.661",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.661"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.662 - Confidential information.",
+      "number": "1321.662",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.662"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.663 - Consumer Installment Loan Act investigations - prohibited acts.",
+      "number": "1321.663",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.663"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.664 - Compliance with federal laws and regulations.",
+      "number": "1321.664",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.664"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.665 - Preservation of consumer installment loan books and records before ceasing business.",
+      "number": "1321.665",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.665"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.666 - Authority of superintendent to enforce Consumer Installment Loan Act.",
+      "number": "1321.666",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.666"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.667 - Reimbursement of licensee for costs associated with providing consumer installment loan records.",
+      "number": "1321.667",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.667"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.67 - Closing of consumer installment loans; duties of licensee.",
+      "number": "1321.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.67"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.671 - Repayment of consumer installment loan.",
+      "number": "1321.671",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.671"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.672 - Insurance obtained on behalf of consumer installment loan borrower.",
+      "number": "1321.672",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.672"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.673 - Evading consumer installment loan requirements.",
+      "number": "1321.673",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.673"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.674 - Forfeiting consumer installment loan interest for interest rate violation.",
+      "number": "1321.674",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.674"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.68 - Consumer installment loan maximum interest rate; computation of interest; precomputed loans; permissible charges; insurance.",
+      "number": "1321.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.68"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.681 - Open-end consumer installment loans.",
+      "number": "1321.681",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.681"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.69 - Consumer installment loan licensee prohibitions.",
+      "number": "1321.69",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.69"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.691 - Employee remote work.",
+      "number": "1321.691",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.691"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.70 - Enforcement actions for Consumer Installment Loan Act violations.",
+      "number": "1321.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.701 - Action by attorney general, county prosecutor to enforce the Consumer Installment Loan Act.",
+      "number": "1321.701",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.701"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.702 - Rules relating to the Consumer Installment Loan Act.",
+      "number": "1321.702",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.702"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.71 - Insurance Premium Finance Company Law definitions.",
+      "number": "1321.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.72 - Application of Insurance Premium Finance Company Law.",
+      "number": "1321.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.73 - Insurance premium finance company license requirement; annual fee; assets.",
+      "number": "1321.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.74 - Insurance premium finance company license application, fee, approval; additional licenses; change of place of business.",
+      "number": "1321.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.74"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.75 - Enforcement actions regarding insurance premium finance company license.",
+      "number": "1321.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.76 - Insurance premium finance company licensee recordkeeping; division powers.",
+      "number": "1321.76",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.76"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.77 - Insurance premium finance company rules.",
+      "number": "1321.77",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.77"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.78 - Premium finance agreement; notice to insurer.",
+      "number": "1321.78",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.78"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.79 - Insurance premium finance company finance charge limits.",
+      "number": "1321.79",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.79"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.791 - Insurance premium finance company alternative finance charges.",
+      "number": "1321.791",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.791"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.80 - Delinquency, cancellation, and check collection charges.",
+      "number": "1321.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.80"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.81 - Cancellation of insurance contract listed in premium finance agreement.",
+      "number": "1321.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.82 - Return to insurance premium finance company of gross unearned premium upon cancellation of insurance contract.",
+      "number": "1321.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.82"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.83 - Secured transactions filing provisions not applicable to insurance premium finance agreements.",
+      "number": "1321.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.83"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.84 - Effect of child support default on license, certificate, or permit.",
+      "number": "1321.84",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.84"
+    },
+    {
+      "kind": "section",
+      "label": "Section 1321.99 - Penalty.",
+      "number": "1321.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.99"
+    }
+  ],
+  "scraped": "2026-07-02T19:37:15+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-1321",
+  "title": "Chapter 1321 - Various Loans"
+}

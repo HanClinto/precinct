@@ -1,0 +1,18 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4301.403
+Scraped: 2026-07-02T20:04:59+00:00
+
+# Section 4301.403 - U.S. Christopher Columbus quincentenary jubilee commission exhibition premises exemptions.
+
+**Effective:** March 23, 2022
+
+**Latest Legislation:** Senate Bill 102 - 134th General Assembly
+
+(A) As used in this section, "exhibition premises" means a premises at the site where an exhibition sanctioned by the U.S. Christopher Columbus quincentenary jubilee commission is being or has been held, if the exhibition is or was sponsored by an organization that also is sponsoring or has sponsored an exhibition sanctioned by the international association of horticulture producers.
+
+(B) Sections 4301.32 to 4301.391 and 4305.14 of the Revised Code and the provisions for local option elections and the election on the question of the repeal of Section 9 of Article XV, Ohio Constitution, in section 4303.29 of the Revised Code do not affect or prohibit the sale of beer or intoxicating liquor at an exhibition premises if the permit holder for the premises operates pursuant to the authority of a D liquor permit issued pursuant to Chapter 4303. of the Revised Code.
+
+Permit D-6 shall be issued to the holder of any D permit that authorizes the sale of intoxicating liquor and that is issued for an exhibition premises to allow the sale of intoxicating liquor under the permit at the premises during the hours on Sunday specified in division (N) of section 4303.182 of the Revised Code, whether or not such sale has been authorized in an election held under section 4301.351 of the Revised Code. Notwithstanding section 4301.351 of the Revised Code, the holder of a D permit issued for an exhibition premises may sell beer on Sunday whether or not the sale of intoxicating liquor has been authorized in an election held under that section.
+
+(C) Nothing in section 4303.29 of the Revised Code shall be construed to restrict the issuance of a D permit for an exhibition premises. An application for a D permit for an exhibition premises is exempt from the population quota restrictions contained in section 4303.29 of the Revised Code and from the population quota restrictions contained in any rule of the liquor control commission. The location of a D permit issued for an exhibition premises shall not be transferred. An applicant applying for a D-1, D-2, D-3, D-4, or D-5 permit for an exhibition premises is not subject to section 4303.31 of the Revised Code.
+
+Last updated January 13, 2022 at 12:08 PM

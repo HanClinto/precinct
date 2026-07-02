@@ -1,0 +1,88 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Health care provider-sponsored organization\" means an entity that is sponsored by hospitals, physician groups, other licensed health care providers, or any combination of hospitals, physician groups, or other licensed health care providers that are affiliated through common ownership or control and share financial risk for the purpose of delivering health care services.",
+      "id": "2323.44-health-care-provider-sponsored-organization",
+      "normalized": "health care provider-sponsored organization",
+      "scope": "(A) As used in this section:",
+      "section": "2323.44",
+      "source_title": "Section 2323.44 - Rights of subrogee.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2323.44",
+      "term": "Health care provider-sponsored organization"
+    },
+    {
+      "definition": "(2) \"Injured party\" means any person who claims any injury, death, or loss to person in a tort action or an estate that makes a survivorship claim due to injury, death, or loss to person, but not including a derivative claim, a claim made by a beneficiary in a wrongful death action pursuant to section 2125.02 of the Revised Code, or a claim for punitive damages arising from a person's claim of injury, death, or loss to person.",
+      "id": "2323.44-injured-party",
+      "normalized": "injured party",
+      "scope": "(A) As used in this section:",
+      "section": "2323.44",
+      "source_title": "Section 2323.44 - Rights of subrogee.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2323.44",
+      "term": "Injured party"
+    },
+    {
+      "definition": "(3) \"Recovery\" means the amount obtained from a third party in a tort action or the amount obtained for a claim in connection with uninsured or underinsured motorist coverage.",
+      "id": "2323.44-recovery",
+      "normalized": "recovery",
+      "scope": "(A) As used in this section:",
+      "section": "2323.44",
+      "source_title": "Section 2323.44 - Rights of subrogee.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2323.44",
+      "term": "Recovery"
+    },
+    {
+      "definition": "(4) \"Third party\" means any individual, automobile insurance company, or public or private entity against which a person or estate has a tort action.",
+      "id": "2323.44-third-party",
+      "normalized": "third party",
+      "scope": "(A) As used in this section:",
+      "section": "2323.44",
+      "source_title": "Section 2323.44 - Rights of subrogee.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2323.44",
+      "term": "Third party"
+    },
+    {
+      "definition": "(5) \"Subrogee\" means any of the following:\n\n(a) An insurance company doing business in this state;\n\n(b) A self-funded plan providing health, sickness, or disability benefits;\n\n(c) A health care provider-sponsored organization;\n\n(d) Any person or entity that claims a right of subrogation by contract or common law.",
+      "id": "2323.44-subrogee",
+      "normalized": "subrogee",
+      "scope": "(A) As used in this section:",
+      "section": "2323.44",
+      "source_title": "Section 2323.44 - Rights of subrogee.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2323.44",
+      "term": "Subrogee"
+    },
+    {
+      "definition": "(6) \"Tort action\" means a civil action for injury, death, or loss to person. \"Tort action\" includes any claim for damages for injury, death, or loss to person, whether or not a lawsuit is pending, or a claim in connection with uninsured or underinsured motorist coverage, but does not include a civil action for breach of contract or another agreement between persons.\n\n(B) Notwithstanding any contract or statutory provision to the contrary, the rights of a subrogee or any other person or entity that asserts a contractual, statutory, or common law subrogation claim against a third party or an injured party in a tort action shall be subject to both of the following:\n\n(1) If less than the full value of the tort action is recovered for comparative negligence, diminishment due to a party's liability under sections 2307.22 to 2307.28 of the Revised Code, or by reason of the collectability of the full value of the claim for injury, death, or loss to person resulting from limited liability insurance or any other cause, the subrogee's or other person's or entity's claim shall be diminished in the same proportion as the injured party's interest is diminished.\n\n(2) If a dispute regarding the distribution of the recovery in the tort action arises, either party may file an action under Chapter 2721. of the Revised Code to resolve the issue of the distribution of the recovery.",
+      "id": "2323.44-tort-action",
+      "normalized": "tort action",
+      "scope": "(A) As used in this section:",
+      "section": "2323.44",
+      "source_title": "Section 2323.44 - Rights of subrogee.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2323.44",
+      "term": "Tort action"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2125.02",
+      "number": "2125.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2125.02"
+    },
+    {
+      "kind": "section",
+      "label": "2307.22",
+      "number": "2307.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.22"
+    },
+    {
+      "kind": "section",
+      "label": "2307.28",
+      "number": "2307.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.28"
+    }
+  ],
+  "scraped": "2026-07-02T19:44:12+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2323.44",
+  "title": "Section 2323.44 - Rights of subrogee."
+}

@@ -1,0 +1,126 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Color of office\" means actually, purportedly, or allegedly done under any law, ordinance, resolution, order, or other pretension to official right, power, or authority.",
+      "id": "117.01-color-of-office",
+      "normalized": "color of office",
+      "scope": "As used in this chapter:",
+      "section": "117.01",
+      "source_title": "Section 117.01 - Auditor of state definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-117.01",
+      "term": "Color of office"
+    },
+    {
+      "definition": "(B) \"Public accountant\" means any person who is authorized by Chapter 4701. of the Revised Code to use the designation of certified public accountant or who was registered prior to January 1, 1971, as a public accountant.",
+      "id": "117.01-public-accountant",
+      "normalized": "public accountant",
+      "scope": "As used in this chapter:",
+      "section": "117.01",
+      "source_title": "Section 117.01 - Auditor of state definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-117.01",
+      "term": "Public accountant"
+    },
+    {
+      "definition": "(C) \"Public money\" means any money received, collected by, or due a public official under color of office, as well as any money collected by any individual on behalf of a public office or as a purported representative or agent of the public office.",
+      "id": "117.01-public-money",
+      "normalized": "public money",
+      "scope": "As used in this chapter:",
+      "section": "117.01",
+      "source_title": "Section 117.01 - Auditor of state definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-117.01",
+      "term": "Public money"
+    },
+    {
+      "definition": "\"Public money\" does not include either of the following:\n\n(1) Money or revenue earned by or from a person's ownership, operation, or use of an asset, whether tangible or intangible, that either in whole or in part was sold, was leased, was licensed, was the granting of a franchise, or was otherwise transferred or conveyed by a public office to the person pursuant to an agreement, authorized by law, between the person and the public office in which the public office received consideration from the person for the asset that was sold, leased, licensed, franchised, or otherwise transferred or conveyed;\n\n(2) With respect to the transfer described in Chapter 4313. of the Revised Code and the operation of the enterprise acquisition project, revenues or receipts of or from the enterprise acquisition project in the hands of the nonprofit corporation formed under section 187.01 of the Revised Code or of a nonprofit entity the sole member of which is that nonprofit corporation, but does include any taxes collected on the spirituous liquor sales and then due the department of taxation and amounts then due to the state general revenue fund pursuant to section 4301.12 of the Revised Code. As used in this division, \"enterprise acquisition project\" has the meaning defined in section 4313.01 of the Revised Code.",
+      "id": "117.01-public-money",
+      "normalized": "public money",
+      "scope": "As used in this chapter:",
+      "section": "117.01",
+      "source_title": "Section 117.01 - Auditor of state definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-117.01",
+      "term": "Public money"
+    },
+    {
+      "definition": "(D) \"Public office\" means any state agency, public institution, political subdivision, other organized body, office, agency, institution, or entity established by the laws of this state for the exercise of any function of government. \"Public office\" does not include the nonprofit corporation formed under section 187.01 of the Revised Code.",
+      "id": "117.01-public-office",
+      "normalized": "public office",
+      "scope": "As used in this chapter:",
+      "section": "117.01",
+      "source_title": "Section 117.01 - Auditor of state definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-117.01",
+      "term": "Public office"
+    },
+    {
+      "definition": "(E) \"Public official\" means any officer, employee, or duly authorized representative or agent of a public office.",
+      "id": "117.01-public-official",
+      "normalized": "public official",
+      "scope": "As used in this chapter:",
+      "section": "117.01",
+      "source_title": "Section 117.01 - Auditor of state definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-117.01",
+      "term": "Public official"
+    },
+    {
+      "definition": "(F) \"State agency\" means every organized body, office, agency, institution, or other entity established by the laws of the state for the exercise of any function of state government.",
+      "id": "117.01-state-agency",
+      "normalized": "state agency",
+      "scope": "As used in this chapter:",
+      "section": "117.01",
+      "source_title": "Section 117.01 - Auditor of state definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-117.01",
+      "term": "State agency"
+    },
+    {
+      "definition": "(G) \"Audit\" means any of the following:\n\n(1) Any examination, analysis, or inspection of the state's or a public office's financial statements or reports;\n\n(2) Any examination, analysis, or inspection of records, documents, books, or any other evidence relating to either of the following:\n\n(a) The collection, receipt, accounting, use, or expenditure of public money by a public office or by a private institution, association, board, or corporation;\n\n(b) The determination by the auditor of state, as required by section 117.11 of the Revised Code, of whether a public office has complied with all the laws, rules, ordinances, or orders pertaining to the public office.\n\n(3) Any other type of examination, analysis, or inspection of a public office, or of the specific funds or accounts of a private institution, association, board, or corporation into which public money has been placed or deposited, that is conducted according to generally accepted or governmental auditing standards established by rule pursuant to section 117.19 of the Revised Code.\n\n(H) \"Person\" has the meaning defined in section 1.59 of the Revised Code.",
+      "id": "117.01-audit",
+      "normalized": "audit",
+      "scope": "As used in this chapter:",
+      "section": "117.01",
+      "source_title": "Section 117.01 - Auditor of state definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-117.01",
+      "term": "Audit"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "187.01",
+      "number": "187.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-187.01"
+    },
+    {
+      "kind": "section",
+      "label": "4301.12",
+      "number": "4301.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4301.12"
+    },
+    {
+      "kind": "section",
+      "label": "4313.01",
+      "number": "4313.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4313.01"
+    },
+    {
+      "kind": "section",
+      "label": "117.11",
+      "number": "117.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.11"
+    },
+    {
+      "kind": "section",
+      "label": "117.19",
+      "number": "117.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-117.19"
+    },
+    {
+      "kind": "section",
+      "label": "1.59",
+      "number": "1.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1.59"
+    }
+  ],
+  "scraped": "2026-07-02T19:31:31+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-117.01",
+  "title": "Section 117.01 - Auditor of state definitions."
+}

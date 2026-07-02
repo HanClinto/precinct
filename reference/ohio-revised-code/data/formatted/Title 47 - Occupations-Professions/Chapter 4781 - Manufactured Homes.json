@@ -1,0 +1,345 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 4781.01 - Manufactured homes definitions.",
+      "number": "4781.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4781.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4781.011 - References to department or director.",
+      "number": "4781.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4781.011"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4781.04 - Adoption of rules.",
+      "number": "4781.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4781.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4781.06 - Delegation of powers - contracts.",
+      "number": "4781.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4781.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4781.07 - Certification of local authorities to exercise division authority.",
+      "number": "4781.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4781.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4781.08 - Manufactured housing installer license.",
+      "number": "4781.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4781.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4781.09 - Suspending, revoking, or refusing to renew the license.",
+      "number": "4781.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4781.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4781.10 - Programs and requirements for continuing education.",
+      "number": "4781.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4781.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4781.11 - License required for installation.",
+      "number": "4781.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4781.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4781.12 - Injunctions.",
+      "number": "4781.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4781.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4781.121 - Investigation of violations; hearings; penalties.",
+      "number": "4781.121",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4781.121"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4781.14 - Exclusivity of authority.",
+      "number": "4781.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4781.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4781.15 - Remedies not exclusive.",
+      "number": "4781.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4781.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4781.16 - Display, sale, purchase, or brokerage of manufactured or mobile homes.",
+      "number": "4781.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4781.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4781.17 - Manufactured housing dealer's or broker's licenses.",
+      "number": "4781.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4781.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4781.18 - Cause for license denial.",
+      "number": "4781.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4781.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4781.19 - Issuance and replacement of licenses.",
+      "number": "4781.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4781.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4781.20 - Confidentiality of license applications.",
+      "number": "4781.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4781.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4781.21 - License suspension of revocation.",
+      "number": "4781.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4781.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4781.22 - Prohibited actions.",
+      "number": "4781.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4781.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4781.23 - Notification requirements.",
+      "number": "4781.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4781.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4781.24 - Manufactured or mobile home - sales contracts.",
+      "number": "4781.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4781.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4781.25 - Rules and regulations for manufactured housing brokers.",
+      "number": "4781.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4781.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4781.26 - Rules of uniform application for manufactured home parks; contracts for inspections.",
+      "number": "4781.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4781.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4781.27 - License to operate park.",
+      "number": "4781.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4781.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4781.28 - Fees.",
+      "number": "4781.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4781.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4781.281 - Inspector certification fees.",
+      "number": "4781.281",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4781.281"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4781.29 - License - refusal to grant, suspension, revocation.",
+      "number": "4781.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4781.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4781.30 - Rights of operators.",
+      "number": "4781.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4781.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4781.301 - Fees in lieu of license and inspection fees.",
+      "number": "4781.301",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4781.301"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4781.31 - Submitting development plans to division.",
+      "number": "4781.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4781.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4781.32 - Permit for developing in flood plain.",
+      "number": "4781.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4781.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4781.33 - Notice of flood event affecting manufactured home park.",
+      "number": "4781.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4781.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4781.34 - Owner to repair home substantially damaged.",
+      "number": "4781.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4781.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4781.35 - Prosecuting violations.",
+      "number": "4781.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4781.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4781.36 - Whistleblower protection.",
+      "number": "4781.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4781.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4781.37 - Action for possession of the premises.",
+      "number": "4781.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4781.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4781.38 - Obligations of park operator.",
+      "number": "4781.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4781.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4781.39 - Obligations of resident.",
+      "number": "4781.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4781.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4781.40 - Rental agreement.",
+      "number": "4781.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4781.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4781.41 - Effect of operator's noncompliance with rental agreement or statutes.",
+      "number": "4781.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4781.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4781.42 - Rent deposits.",
+      "number": "4781.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4781.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4781.43 - Applying for release of rent.",
+      "number": "4781.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4781.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4781.44 - Partial release of rent before trial.",
+      "number": "4781.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4781.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4781.45 - Notification of violation of rules to resident.",
+      "number": "4781.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4781.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4781.46 - Recovering damages.",
+      "number": "4781.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4781.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4781.47 - Rental agreement terms.",
+      "number": "4781.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4781.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4781.48 - Unconscionability.",
+      "number": "4781.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4781.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4781.49 - Limits on operator's right to recover possession of premises.",
+      "number": "4781.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4781.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4781.50 - Security deposit.",
+      "number": "4781.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4781.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4781.51 - Information to be contained in rental agreement.",
+      "number": "4781.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4781.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4781.52 - Conflicting ordinances preempted.",
+      "number": "4781.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4781.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4781.54 - Manufactured homes regulatory fund.",
+      "number": "4781.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4781.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4781.56 - Abatement or removal of abandoned homes or vehicles.",
+      "number": "4781.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4781.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4781.57 - Duty of park operator to ensure homes and facilities properly maintained.",
+      "number": "4781.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4781.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4781.99 - Penalties.",
+      "number": "4781.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4781.99"
+    }
+  ],
+  "scraped": "2026-07-02T20:08:37+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-4781",
+  "title": "Chapter 4781 - Manufactured Homes"
+}

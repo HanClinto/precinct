@@ -1,0 +1,36 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3719.81
+Scraped: 2026-07-02T19:51:34+00:00
+
+# Section 3719.81 - Furnishing drug samples.
+
+**Effective:** April 9, 2025
+
+**Latest Legislation:** Senate Bill 95 - 135th General Assembly
+
+(A) As used in this section, "sample drug" has the same meaning as in section 2925.01 of the Revised Code.
+
+(B) A person may furnish another a sample drug, if all of the following apply:
+
+(1) The sample drug is furnished free of charge by a manufacturer, manufacturer's representative, or wholesale dealer in pharmaceuticals to a licensed health professional authorized to prescribe drugs, or is furnished free of charge by such a professional to a patient for use as medication;
+
+(2) The sample drug is in the original container in which it was placed by the manufacturer, and the container is plainly marked as a sample;
+
+(3) Prior to its being furnished, the sample drug has been stored under the proper conditions to prevent its deterioration or contamination;
+
+(4) If the sample drug is of a type which deteriorates with time, the sample container is plainly marked with the date beyond which the sample drug is unsafe to use, and the date has not expired on the sample furnished. Compliance with the labeling requirements of the "Federal Food, Drug, and Cosmetic Act," 52 Stat. 1040 (1938), 21 U.S.C.A. 301, as amended, shall be deemed compliance with this section.
+
+(5) The sample drug is distributed, stored, or discarded in such a way that the sample drug may not be acquired or used by any unauthorized person, or by any person, including a child, for whom it may present a health or safety hazard.
+
+(C) Division (B) of this section does not do any of the following:
+
+(1) Apply to or restrict the furnishing of any sample of a nonnarcotic substance if the substance may, under the "Federal Food, Drug, and Cosmetic Act" and under the laws of this state, otherwise be lawfully sold over the counter without a prescription;
+
+(2) Authorize a licensed health professional authorized to prescribe drugs who is a clinical nurse specialist, certified nurse-midwife, certified nurse practitioner, optometrist, physician assistant, or certified mental health assistant to furnish a sample drug that is not a drug the professional is authorized to prescribe.
+
+(3) Prohibit a licensed health professional authorized to prescribe drugs, manufacturer of dangerous drugs, wholesale distributor of dangerous drugs, or representative of a manufacturer of dangerous drugs from furnishing a sample drug to a charitable pharmacy in accordance with section 3719.811 of the Revised Code.
+
+(4) Prohibit a pharmacist working, whether or not for compensation, in a charitable pharmacy from dispensing a sample drug to a person in accordance with section 3719.811 of the Revised Code.
+
+(D) The state board of pharmacy shall, in accordance with Chapter 119. of the Revised Code, adopt rules as necessary to give effect to this section.
+
+Last updated January 17, 2025 at 3:17 PM

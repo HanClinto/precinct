@@ -1,0 +1,90 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-4513
+Scraped: 2026-07-02T20:05:41+00:00
+
+# Chapter 4513 - Traffic Laws - Equipment; Loads
+
+## Sections
+
+- Section 4513.01 - Traffic laws - equipment - load definitions.
+- Section 4513.02 - Unsafe vehicles.
+- Section 4513.021 - Bumper height - vehicle modifications.
+- Section 4513.022 - Proof of financial responsibility produced at time of issuance of citation.
+- Section 4513.03 - Time for lighted lights on motor vehicles.
+- Section 4513.04 - Headlights.
+- Section 4513.05 - Tail lights and illumination of rear license plate.
+- Section 4513.06 - Red reflectors required.
+- Section 4513.07 - Regulations for safety lighting of commercial vehicles.
+- Section 4513.071 - Stop light.
+- Section 4513.08 - Obscured lights on vehicles.
+- Section 4513.09 - Red light or flag required.
+- Section 4513.10 - Lights on parked vehicles.
+- Section 4513.11 - Definitions.
+- Section 4513.111 - Light and reflector requirements for older model farm machinery and agricultural tractors.
+- Section 4513.112 - Speed and emblem requirements for slow moving vehicles.
+- Section 4513.113 - Emblem and symbol requirements for farm machinery and agricultural tractors.
+- Section 4513.114 - Light, reflector, and emblem requirements for animal-drawn vehicles.
+- Section 4513.115 - Strict liability offenses for farm machinery, SMV, and animal-drawn vehicle violations.
+- Section 4513.12 - Specifications for spotlights and auxiliary driving lights.
+- Section 4513.13 - Cowl, fender, and back-up lights.
+- Section 4513.14 - Two lighted lights to be displayed.
+- Section 4513.15 - Headlight illumination requirements - protection of oncoming drivers - high beam indicator.
+- Section 4513.16 - Lights of less intensity.
+- Section 4513.17 - Limit on number of lights.
+- Section 4513.171 - Lights on coroner's vehicle.
+- Section 4513.18 - Lights on snow removal equipment and oversize vehicles.
+- Section 4513.181 - Standards and specifications applicable to rural mail delivery vehicles, state highway survey vehicles, and funeral escort vehicles.
+- Section 4513.182 - Lights and sign on vehicle transporting preschool children.
+- Section 4513.19 - Regulations for focus, aim, and color of headlights.
+- Section 4513.20 - Brake equipment for vehicles.
+- Section 4513.201 - Brake fluid standards.
+- Section 4513.202 - Brake lining, brake lining material, or brake lining assemblies standards.
+- Section 4513.21 - Horns, sirens, and warning devices.
+- Section 4513.22 - Mufflers.
+- Section 4513.221 - Local regulation of passenger car and motorcycle noise.
+- Section 4513.23 - Rear view mirror.
+- Section 4513.24 - Windshield and windshield wipers.
+- Section 4513.241 - Using tinted glass and other vision obscuring materials.
+- Section 4513.242 - Displaying security decal on side window or sidewing.
+- Section 4513.25 - Solid tire requirements.
+- Section 4513.26 - Safety glass required for new vehicles.
+- Section 4513.261 - Vehicles to be equipped with electrical or mechanical directional signals.
+- Section 4513.262 - Seat safety belt or anchorage units required.
+- Section 4513.263 - Occupant restraining devices.
+- Section 4513.27 - Extra signal equipment required for motor truck, trackless trolley, bus, or commercial tractor.
+- Section 4513.28 - Warning devices displayed on disabled vehicles.
+- Section 4513.29 - Vehicle transporting explosives upon highway.
+- Section 4513.30 - Limitation of load extension on left side of vehicle.
+- Section 4513.31 - Securing loads on vehicles.
+- Section 4513.32 - Vehicle towing requirements.
+- Section 4513.33 - Unlawful vehicle weight.
+- Section 4513.34 - Written permits for oversized vehicles.
+- Section 4513.35 - Disposition of traffic fines.
+- Section 4513.36 - Prohibition against resisting or interfering with official.
+- Section 4513.361 - Furnishing false information to officer issuing traffic ticket.
+- Section 4513.37 - Record of traffic violations.
+- Section 4513.38 - Collector's, historical, or replica motor vehicle equipment exemptions.
+- Section 4513.39 - Making arrests on highways.
+- Section 4513.40 - Warning sign before safety device at street crossing.
+- Section 4513.41 - Collector's, historical, or replica motor vehicle test exemptions.
+- Section 4513.50 - Bus safety definitions.
+- Section 4513.51 - Bus safety inspection decal.
+- Section 4513.52 - Bus safety inspections.
+- Section 4513.53 - Bus safety inspection staff.
+- Section 4513.60 - [Governor's veto not reflected; see H.B. 434 status report] Vehicle left on private residential or private agricultural property without the permission of person having right to possession of property.
+- Section 4513.601 - Private tow-away zones.
+- Section 4513.602 - Dealer or repair facility removal of unclaimed vehicle by towing.
+- Section 4513.603 - Obtaining certificate of title to unclaimed motor vehicle.
+- Section 4513.61 - [Governor's veto not reflected; see H.B. 434 status report] Storing vehicles in possession of law enforcement officers or left on public property.
+- Section 4513.611 - Civil actions against towing service or storage facility.
+- Section 4513.612 - Monetary compensation in exchange for authorization to tow; violation.
+- Section 4513.62 - Disposal of unclaimed vehicles ordered into storage.
+- Section 4513.63 - Photograph and record of information as to abandoned junk vehicles.
+- Section 4513.64 - Willfully leaving abandoned junk motor vehicle.
+- Section 4513.65 - Willfully leaving junk motor vehicle.
+- Section 4513.66 - [Governor's veto not reflected; see H.B. 434 status report] Removal of highway obstruction.
+- Section 4513.67 - Operation of towing service.
+- Section 4513.68 - Estimates of costs before towing.
+- Section 4513.69 - Storage facilities; business hours; notice.
+- Section 4513.70 - Civil action against towing service or storage facility by insurance company.
+- Section 4513.71 - Civil actions involving commercial motor vehicle owner and towing service or storage facility.
+- Section 4513.99 - Penalty.

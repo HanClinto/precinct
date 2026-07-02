@@ -1,0 +1,56 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-149.45
+Scraped: 2026-07-02T19:31:59+00:00
+
+# Section 149.45 - Public office redaction of personal information from internet.
+
+**Effective:** April 9, 2025
+
+**Latest Legislation:** House Bill 265 - 135th General Assembly
+
+(A) As used in this section:
+
+(1) "Personal information" means any of the following:
+
+(a) An individual's social security number;
+
+(b) An individual's state or federal tax identification number;
+
+(c) An individual's driver's license number or state identification number;
+
+(d) An individual's checking account number, savings account number, credit card number, or debit card number;
+
+(e) An individual's demand deposit account number, money market account number, mutual fund account number, or any other financial or medical account number.
+
+(2) "Public record," "designated public service worker," and "designated public service worker residential and familial information" have the meanings defined in section 149.43 of the Revised Code.
+
+(3) "Qualifying former designated public service worker" means a former designated public service worker with a minimum of five years of qualifying service who was an employee in good standing at the completion of such service.
+
+(4) "Truncate" means to redact all but the last four digits of an individual's social security number.
+
+(B)(1) No public office or person responsible for a public office's public records shall make available to the general public on the internet any document that contains an individual's social security number without otherwise redacting, encrypting, or truncating the social security number.
+
+(2) A public office or person responsible for a public office's public records that, prior to October 17, 2011, made available to the general public on the internet any document that contains an individual's social security number shall redact, encrypt, or truncate the social security number from that document.
+
+(3) Divisions (B)(1) and (2) of this section do not apply to documents that are only accessible through the internet with a password.
+
+(C)(1) An individual may request that a public office or a person responsible for a public office's public records redact personal information of that individual from any record made available to the general public on the internet. An individual who makes a request for redaction pursuant to this division shall make the request in writing on a form developed by the attorney general and shall specify the personal information to be redacted and provide any information that identifies the location of that personal information within a document that contains that personal information.
+
+(2) Upon receiving a request for a redaction pursuant to division (C)(1) of this section, a public office or a person responsible for a public office's public records shall act within five business days in accordance with the request to redact the personal information of the individual from any record made available to the general public on the internet, if practicable. If a redaction is not practicable, the public office or person responsible for the public office's public records shall verbally or in writing within five business days after receiving the written request explain to the individual why the redaction is impracticable.
+
+(3) The attorney general shall develop a form to be used by an individual to request a redaction pursuant to division (C)(1) of this section. The form shall include a place to provide any information that identifies the location of the personal information to be redacted.
+
+(D)(1) A designated public service worker and a qualifying former designated public service worker may request that a public office, other than a county auditor, or a person responsible for the public records of a public office, other than a county auditor, redact the requestor's address from any record made available to the general public on the internet that includes designated public service worker residential and familial information of the requestor. A designated public service worker or qualifying former designated public service worker who makes a request for a redaction pursuant to this division shall make the request in writing and on a form developed by the attorney general. A qualifying former designated public service worker shall provide, with the form, a confirmation letter from each employer at which the worker accumulated service confirming the years of service and that the worker departed service in good standing.
+
+(2) Upon receiving a written request for a redaction, and confirmation letter if applicable, pursuant to division (D)(1) of this section, a public office, other than a county auditor, or a person responsible for the public records of a public office, other than a county auditor, shall act within five business days in accordance with the request to redact the address of the requestor from any record made available to the general public on the internet that includes designated public service worker residential and familial information of the requestor, if practicable. If a redaction is not practicable, the public office or person responsible for the public office's public records shall verbally or in writing within five business days after receiving the written request explain to the requestor why the redaction is impracticable.
+
+(3) Except as provided in this section and section 319.28 of the Revised Code, a public office, other than an employer of a designated public service worker or qualifying former designated public service worker, or a person responsible for the public records of the employer, is not required to redact designated public service worker residential and familial information of the designated public service worker or qualifying former designated public service worker from other records maintained by the public office.
+
+(4) The attorney general shall develop a form to be used by a designated public service worker or qualifying former designated public service worker to request a redaction pursuant to division (D)(1) of this section. The form shall include a place to provide any information that identifies the location of the address of the designated public service worker or qualifying former designated public service worker to be redacted.
+
+(E)(1) If a public office or a person responsible for a public office's public records becomes aware that an electronic record of that public office that is made available to the general public on the internet contains an individual's social security number that was mistakenly not redacted, encrypted, or truncated as required by division (B)(1) or (2) of this section, the public office or person responsible for the public office's public records shall redact, encrypt, or truncate the individual's social security number within a reasonable period of time.
+
+(2) A public office or a person responsible for a public office's public records is not liable in damages in a civil action for any harm an individual allegedly sustains as a result of the inclusion of that individual's personal information on any record made available to the general public on the internet or any harm a designated public service worker sustains as a result of the inclusion of the designated public service worker's address on any record made available to the general public on the internet in violation of this section, unless the public office or person responsible for the public office's public records acted with malicious purpose, in bad faith, or in a wanton or reckless manner or unless division (A)(6)(a) or (c) of section 2744.03 of the Revised Code applies.
+
+(F) A form submitted under division (C) or (D) of this section, or a confirmation letter submitted under division (D) of this section, is not a public record under division (A)(1)(vv) of section 149.43 of the Revised Code.
+
+Last updated January 16, 2025 at 4:08 PM

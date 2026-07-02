@@ -1,0 +1,125 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-1701
+Scraped: 2026-07-02T19:39:02+00:00
+
+# Chapter 1701 - General Corporation Law
+
+## Sections
+
+- Section 1701.01 - General corporation law definitions.
+- Section 1701.02 - Computation of time for notice.
+- Section 1701.03 - Purposes of corporation.
+- Section 1701.04 - Articles of incorporation.
+- Section 1701.041 - Exemptions for disaster workers.
+- Section 1701.05 - Corporate name - transfer - reservation.
+- Section 1701.06 - Express terms of shares.
+- Section 1701.07 - Statutory agent - cancellation and reinstatement of articles.
+- Section 1701.08 - Acceptance of articles of incorporation and other certificates - filing not constructive notice of contents.
+- Section 1701.09 - Subscriptions for shares.
+- Section 1701.10 - Initial directors holding organizational meeting.
+- Section 1701.11 - Adopting, amending, and repealing regulations.
+- Section 1701.12 - Liability for non-payment of initial stated capital.
+- Section 1701.13 - Authority of corporation.
+- Section 1701.14 - Issuance of shares and release of obligation of subscriber.
+- Section 1701.15 - Pre-emptive rights.
+- Section 1701.16 - Options to purchase shares.
+- Section 1701.17 - Sale of shares to corporation or subsidiary employees - delegation of authority.
+- Section 1701.18 - Payment for shares and liability of shareholders to corporation.
+- Section 1701.19 - Determination of fair value of property or services.
+- Section 1701.20 - Enforcing payment for shares.
+- Section 1701.21 - Conversion of shares.
+- Section 1701.22 - Conversion rights.
+- Section 1701.23 - Redemption of shares.
+- Section 1701.24 - Certificates for shares - fractional shares - uncertificated shares.
+- Section 1701.25 - Statements on certificate for shares.
+- Section 1701.26 - Transfer agents and registrars.
+- Section 1701.27 - Replacement of lost, stolen or destroyed certificate.
+- Section 1701.28 - Recognizing record ownership of shares or other securities.
+- Section 1701.29 - Organizing and financing expenses.
+- Section 1701.30 - Stated capital.
+- Section 1701.31 - Reduction of stated capital.
+- Section 1701.32 - Surplus.
+- Section 1701.33 - Dividends and distributions.
+- Section 1701.34 - Recovery of unclaimed dividend or distribution.
+- Section 1701.35 - Purchase of own shares.
+- Section 1701.36 - Shares deemed retired.
+- Section 1701.37 - Corporation to keep books and records of account, minutes of proceedings and records of shareholders.
+- Section 1701.38 - Annual report.
+- Section 1701.39 - Annual meeting.
+- Section 1701.40 - Calling meeting of shareholders.
+- Section 1701.41 - Notice of meeting.
+- Section 1701.42 - Waiver of notice.
+- Section 1701.43 - Notice requirements may be dispensed with.
+- Section 1701.44 - Qualifications of voters.
+- Section 1701.45 - Director to fix record date.
+- Section 1701.46 - Voting by fiduciaries and minors.
+- Section 1701.47 - Voting by corporations.
+- Section 1701.48 - Voting by proxy.
+- Section 1701.49 - Voting trusts.
+- Section 1701.50 - Inspectors of elections.
+- Section 1701.51 - Quorum at shareholders' meetings.
+- Section 1701.52 - Vote of shareholders required - proportion.
+- Section 1701.53 - Vote of shareholders required for rescission or revocation.
+- Section 1701.54 - Action by shareholders or directors without a meeting.
+- Section 1701.55 - Election of directors - cumulative voting.
+- Section 1701.56 - Number and qualifications of directors - provisional director.
+- Section 1701.57 - Term and classification of directors.
+- Section 1701.58 - Removal of directors and filling vacancies.
+- Section 1701.59 - Authority of directors - bylaws.
+- Section 1701.591 - Close corporation agreement.
+- Section 1701.60 - Contract, action or transaction not void or voidable.
+- Section 1701.61 - Meetings of directors.
+- Section 1701.62 - Quorum for directors' meeting.
+- Section 1701.63 - Executive and other committees of directors - subcommittees.
+- Section 1701.64 - Officers - authority and removal.
+- Section 1701.641 - Fiduciary duties of officers.
+- Section 1701.65 - Corporate mortgages.
+- Section 1701.66 - Recording of railroad or public utility mortgages.
+- Section 1701.67 - Using facsimile signatures.
+- Section 1701.68 - Usury.
+- Section 1701.69 - Amendments to articles.
+- Section 1701.70 - Procedure for amending articles by directors - incorporators.
+- Section 1701.71 - Shareholders may adopt amendments.
+- Section 1701.72 - Amended articles.
+- Section 1701.73 - Filing and signing of certificate of amendment or amended articles.
+- Section 1701.74 - Dissenting shareholders.
+- Section 1701.75 - Reorganization of corporation.
+- Section 1701.76 - Sale or other disposition of assets of corporation - limitations.
+- Section 1701.77 - Judicial sale of property.
+- Section 1701.78 - Merger or consolidation into domestic corporation.
+- Section 1701.781 - Merger or consolidation into domestic corporation - noncorporate entities.
+- Section 1701.782 - Conversion of another entity into domestic corporation.
+- Section 1701.79 - Merger or consolidation into foreign corporation.
+- Section 1701.791 - Merging or consolidating constituent entities that are not corporations.
+- Section 1701.792 - Conversion of domestic corporation into another entity.
+- Section 1701.80 - Merger into domestic or foreign parent corporation.
+- Section 1701.801 - Merging into domestic subsidiary corporation.
+- Section 1701.802 - Merger converting wholly owned subsidiary into parent corporation.
+- Section 1701.81 - Certificate of merger or consolidation.
+- Section 1701.811 - Filing of certificate of conversion - effective date.
+- Section 1701.82 - Conditions following merger or consolidation.
+- Section 1701.821 - Legal effect of conversion - action to set aside.
+- Section 1701.83 - Effecting a combination or majority share acquisition.
+- Section 1701.831 - Control share acquisitions procedures.
+- Section 1701.832 - State's responsibility as to tender offers.
+- Section 1701.84 - Dissenting shareholders entitled to relief.
+- Section 1701.85 - Dissenting shareholders - compliance with section - fair cash value of shares.
+- Section 1701.86 - Voluntary dissolution.
+- Section 1701.87 - Notice of dissolution to creditors and claimants against corporation.
+- Section 1701.88 - Winding up or obtaining reinstatement - powers and duties of directors.
+- Section 1701.881 - Notice of rejection of claim; offer of security.
+- Section 1701.882 - Satisfaction of obligations; payments.
+- Section 1701.883 - Liability of shareholder of dissolved corporation.
+- Section 1701.89 - Jurisdiction of court over winding up of affairs of voluntarily dissolved corporation.
+- Section 1701.90 - Receiver for winding up affairs of corporation.
+- Section 1701.91 - Judicial dissolution.
+- Section 1701.911 - Provisional director - appointment, duties, qualifications.
+- Section 1701.92 - Certified copies as evidence of incorporation, articles and proceedings.
+- Section 1701.921 - Persons performing services to corporation or shareholders.
+- Section 1701.922 - Restoring rights, privileges and franchises upon reinstatement.
+- Section 1701.93 - False statement or entry.
+- Section 1701.94 - Forfeiture by corporation for failure to comply with certain requirements.
+- Section 1701.95 - Liability for unlawful loans, dividends, distribution of assets.
+- Section 1701.96 - Benefit corporations.
+- Section 1701.97 - Exercise of expired powers.
+- Section 1701.98 - Applicability of chapter.
+- Section 1701.99 - Penalty.

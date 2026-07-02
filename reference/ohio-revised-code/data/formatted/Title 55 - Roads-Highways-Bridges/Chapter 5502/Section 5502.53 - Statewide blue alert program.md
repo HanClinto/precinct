@@ -1,0 +1,28 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5502.53
+Scraped: 2026-07-02T20:12:22+00:00
+
+# Section 5502.53 - Statewide blue alert program.
+
+**Effective:** June 8, 2012
+
+**Latest Legislation:** Senate Bill 258 - 129th General Assembly
+
+(A) As used in this section:
+
+"Cable system" has the meaning defined in section 2913.04 of the Revised Code.
+
+"Law enforcement agency" means an organization or unit made up of law enforcement officers as defined in section 2901.01 of the Revised Code.
+
+(B) There is created the statewide blue alert program that consists of a statewide system for the rapid dissemination of information to speed the apprehension of persons suspected of killing or seriously injuring law enforcement officers and to aid in the location of missing law enforcement officers. The governor shall organize the program as a coordinated effort among the governor's office, the department of public safety, the attorney general, law enforcement agencies, the state's public and commercial television and radio broadcasters, the state's cable systems, and others as considered necessary by the governor.
+
+(C) A statewide blue alert shall be activated if all of the following activation criteria are met:
+
+(1) A local law enforcement agency confirms that a law enforcement officer has been seriously injured or killed, and a suspect has not been apprehended, or that a law enforcement officer is missing while on duty under circumstances warranting concern for the law enforcement officer's safety.
+
+(2) There is sufficient descriptive information about the suspect or the circumstances surrounding a law enforcement officer's injury, death, or disappearance to indicate that activation of the alert may help locate a suspect or a missing law enforcement officer.
+
+Nothing in this division prevents the activation of a local or regional emergency alert program that may impose different criteria for the activation of a local or regional emergency alert.
+
+(D) A radio broadcast station, television broadcast station, or cable system participating in the statewide blue alert program, and a director, officer, employee, or agent of a station or system participating in the program, is immune from liability for damages for any loss allegedly caused by or resulting from the station's or system's broadcast or cablecast of, or failure to broadcast or cablecast, any information pursuant to the statewide blue alert program.
+
+(E) The statewide blue alert program shall be operated in such a manner that it complements and does not conflict with similar federal alert programs.

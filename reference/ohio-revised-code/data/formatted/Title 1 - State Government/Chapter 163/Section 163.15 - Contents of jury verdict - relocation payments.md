@@ -1,0 +1,28 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-163.15
+Scraped: 2026-07-02T19:32:07+00:00
+
+# Section 163.15 - Contents of jury verdict - relocation payments.
+
+**Effective:** September 15, 2014
+
+**Latest Legislation:** House Bill 483 - 130th General Assembly
+
+(A) As soon as the agency pays to the party entitled thereto or deposits with the court the amount of the award and the costs assessed against the agency, it may take possession; provided, that this shall not be construed to limit the right of a public agency to enter and take possession, as provided in section 163.06 of the Revised Code. When the agency is entitled to possession the court shall enter an order to such effect upon the record and, if necessary, process shall be issued to place the agency in possession. Whenever a final journal entry in an appropriation proceeding, granting to this state a fee title or any lesser estate or interest in real property is filed and journalized by the clerk of courts, the clerk of courts shall forthwith transmit to the county auditor a certified copy of said final journal entry who shall transfer the property on the auditor's books and transmit said entry with proper endorsement to the county recorder for recording. The costs of filing such final journal entry with the county auditor and the county recorder shall be taxed as costs in the appropriation proceedings the same as other costs are taxed under section 163.16 of the Revised Code.
+
+(B)(1) Whenever the appropriation of real property requires the owner, a commercial tenant, or a residential tenant identified by the owner in a notice filed with the court to move or relocate, the agency shall make a payment to that person, upon proper application as approved by the agency, for all of the following:
+
+(a) Actual reasonable expenses in moving the person and the person's family, business, farm operation, or other personal property;
+
+(b) Actual direct losses of tangible personal property as a result of moving or discontinuing a business or farm operation, but not to exceed an amount equal to the reasonable expenses that would have been required to relocate such property, as determined by the agency;
+
+(c) Actual reasonable expenses in searching for a replacement business or farm, but not to exceed two thousand five hundred dollars;
+
+(d) Actual and reasonable expenses necessary to reestablish a farm, nonprofit organization, or small business at its new site, but not to exceed twenty-five thousand dollars.
+
+(2) If the agency does not approve a payment for which the owner applied under division (B)(1) of this section, the trier of fact, upon presentation of proof, shall determine whether to award a payment for the expenses described in division (B)(1) of this section and the amount of any award. The owner shall have the burden of proof with respect to those expenses.
+
+(3)(a) In addition to any payments an owner of a business may receive under division (B)(1) of this section, an owner of a business who is required by an appropriation of real property to relocate the business may recover damages for the owner's actual economic loss resulting from the appropriation, as proven by the owner by a preponderance of the evidence. Compensation for actual economic loss under this division shall not include any attorney's fees and shall not duplicate any amount awarded as compensation under this chapter.
+
+(b) The amount of compensation awarded under division (B)(3)(a) of this section shall not exceed twelve months net profit of the business on an annualized basis. Except as otherwise provided in division (B)(3)(c) of this section, if the agency is appropriating property in time of war or other public exigency imperatively requiring its immediate seizure, for the purpose of making or repairing roads that shall be open to the public without charge, for the purpose of implementing rail service under Chapter 4981. of the Revised Code, or under section 307.08 , 504.19 , 6101.181 , 6115.221 , 6117.39 , or 6119.11 of the Revised Code as the result of a public exigency, or the agency is a municipal corporation that is appropriating property as a result of a public exigency, the period for which the net profit of the business is calculated shall be twelve months minus the time period from the date the agency gives the notice required by section 163.04 of the Revised Code to the date the agency deposits the value of the property with the court pursuant to section 163.06 of the Revised Code or pays that amount to the owner, but in no event shall the compensation time period be less than fifteen days. If the period on which the loss is calculated is reduced to fifteen days and the relocation is unusually complex, the owner may request the agency to increase that period by up to fifteen additional days. If the agency fails to pay the compensation as provided under division (B)(3)(a) of this section or denies the request, the owner may seek an award of such compensation pursuant to this section.
+
+(c) In case of an act of God or other public exigency that requires an immediate taking of property to protect public health or safety or in case of a voluntary conveyance, the amount of compensation awarded under division (B)(3)(a) of this section shall not exceed fifteen days net profit of the business on an annualized basis. The owner may request the agency to increase that period by up to fifteen additional days. If the agency fails to pay the compensation as provided under division (B)(3)(a) of this section or denies the request, the owner may seek an award of such compensation pursuant to this section.

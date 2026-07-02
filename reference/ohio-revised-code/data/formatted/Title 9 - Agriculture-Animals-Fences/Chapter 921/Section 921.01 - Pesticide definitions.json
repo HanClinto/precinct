@@ -1,0 +1,568 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Active ingredient\" means any ingredient that will prevent, destroy, kill, repel, control, or mitigate any pest, or that will act as a plant regulator, defoliant, or desiccant.\n\n(B) \"Adulterated\" shall apply to any pesticide if its strength or purity is less than or greater than the professed standard or quality as expressed on its labeling or under which it is sold, if any substance has been substituted wholly or in part for the pesticide, or if any valuable constituent of the pesticide has been wholly or in part abstracted.",
+      "id": "921.01-active-ingredient",
+      "normalized": "active ingredient",
+      "scope": "As used in this chapter:",
+      "section": "921.01",
+      "source_title": "Section 921.01 - Pesticide definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-921.01",
+      "term": "Active ingredient"
+    },
+    {
+      "definition": "(C) \"Agricultural commodity\" means any plant or part thereof or animal or animal product, produced for commercial use by a person, including farmers, ranchers, vineyardists, plant propagators, Christmas tree growers, aquaculturists, floriculturists, orchardists, foresters, or other comparable persons, primarily for the sale, consumption, propagation, or other use, by humans or animals.",
+      "id": "921.01-agricultural-commodity",
+      "normalized": "agricultural commodity",
+      "scope": "As used in this chapter:",
+      "section": "921.01",
+      "source_title": "Section 921.01 - Pesticide definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-921.01",
+      "term": "Agricultural commodity"
+    },
+    {
+      "definition": "(D) \"Aircraft\" means any device used or designed for navigation or flight in the air, except a parachute or other device used primarily as safety equipment.",
+      "id": "921.01-aircraft",
+      "normalized": "aircraft",
+      "scope": "As used in this chapter:",
+      "section": "921.01",
+      "source_title": "Section 921.01 - Pesticide definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-921.01",
+      "term": "Aircraft"
+    },
+    {
+      "definition": "(E) \"Animal\" means all vertebrate and invertebrate species, including, but not limited to, humans and other mammals, birds, fish, and shellfish.",
+      "id": "921.01-animal",
+      "normalized": "animal",
+      "scope": "As used in this chapter:",
+      "section": "921.01",
+      "source_title": "Section 921.01 - Pesticide definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-921.01",
+      "term": "Animal"
+    },
+    {
+      "definition": "(F) \"Authorized diagnostic inspection\" means a diagnostic inspection conducted by a commercial applicator in the pesticide-use category in which the commercial applicator is licensed under this chapter.",
+      "id": "921.01-authorized-diagnostic-inspection",
+      "normalized": "authorized diagnostic inspection",
+      "scope": "As used in this chapter:",
+      "section": "921.01",
+      "source_title": "Section 921.01 - Pesticide definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-921.01",
+      "term": "Authorized diagnostic inspection"
+    },
+    {
+      "definition": "(G) \"Beneficial insects\" means those insects that, during their life cycle, are effective pollinators of plants, are parasites or predators of pests, or are otherwise beneficial.",
+      "id": "921.01-beneficial-insects",
+      "normalized": "beneficial insects",
+      "scope": "As used in this chapter:",
+      "section": "921.01",
+      "source_title": "Section 921.01 - Pesticide definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-921.01",
+      "term": "Beneficial insects"
+    },
+    {
+      "definition": "(H) \"Brand\" means any word, name, symbol, device, or combination thereof, that serves to distinguish the pesticide manufactured or distributed by one person from that manufactured or distributed by any other person.",
+      "id": "921.01-brand",
+      "normalized": "brand",
+      "scope": "As used in this chapter:",
+      "section": "921.01",
+      "source_title": "Section 921.01 - Pesticide definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-921.01",
+      "term": "Brand"
+    },
+    {
+      "definition": "(I) \"Pesticide applicator\" means a commercial applicator or a private applicator.",
+      "id": "921.01-pesticide-applicator",
+      "normalized": "pesticide applicator",
+      "scope": "As used in this chapter:",
+      "section": "921.01",
+      "source_title": "Section 921.01 - Pesticide definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-921.01",
+      "term": "Pesticide applicator"
+    },
+    {
+      "definition": "(J) \"Private applicator\" means an individual who is licensed under section 921.11 of the Revised Code.",
+      "id": "921.01-private-applicator",
+      "normalized": "private applicator",
+      "scope": "As used in this chapter:",
+      "section": "921.01",
+      "source_title": "Section 921.01 - Pesticide definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-921.01",
+      "term": "Private applicator"
+    },
+    {
+      "definition": "(K) \"Commercial applicator\" means an individual who is licensed under section 921.06 of the Revised Code to apply pesticides or to conduct authorized diagnostic inspections.",
+      "id": "921.01-commercial-applicator",
+      "normalized": "commercial applicator",
+      "scope": "As used in this chapter:",
+      "section": "921.01",
+      "source_title": "Section 921.01 - Pesticide definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-921.01",
+      "term": "Commercial applicator"
+    },
+    {
+      "definition": "(L) \"Competent\" means properly qualified as evidenced by passing the general examination and each applicable pesticide-use category examination for the pesticide-use categories in which a person applies pesticides and, in the case of a person who is a commercial applicator, conducts diagnostic inspections and by meeting any other criteria established by rule.",
+      "id": "921.01-competent",
+      "normalized": "competent",
+      "scope": "As used in this chapter:",
+      "section": "921.01",
+      "source_title": "Section 921.01 - Pesticide definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-921.01",
+      "term": "Competent"
+    },
+    {
+      "definition": "(M) \"Federal act\" means the \"Federal Insecticide, Fungicide and Rodenticide Act,\" 61 Stat. 163 (1947), 7 U.S.C.A. 136, as amended.",
+      "id": "921.01-federal-act",
+      "normalized": "federal act",
+      "scope": "As used in this chapter:",
+      "section": "921.01",
+      "source_title": "Section 921.01 - Pesticide definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-921.01",
+      "term": "Federal act"
+    },
+    {
+      "definition": "(N) \"Defoliant\" means any substance or mixture of substances intended for causing the leaves or foliage to drop from a plant, with or without causing abscission.",
+      "id": "921.01-defoliant",
+      "normalized": "defoliant",
+      "scope": "As used in this chapter:",
+      "section": "921.01",
+      "source_title": "Section 921.01 - Pesticide definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-921.01",
+      "term": "Defoliant"
+    },
+    {
+      "definition": "(O) \"Desiccant\" means any substance or mixture of substances intended for artificially accelerating the drying of plant tissue.",
+      "id": "921.01-desiccant",
+      "normalized": "desiccant",
+      "scope": "As used in this chapter:",
+      "section": "921.01",
+      "source_title": "Section 921.01 - Pesticide definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-921.01",
+      "term": "Desiccant"
+    },
+    {
+      "definition": "(P) \"Device\" means any instrument or contrivance, other than a firearm, that is intended for trapping, destroying, repelling, or mitigating any pest or any other form of plant or animal life, other than human beings and other than bacteria, virus, or other microorganism on or in living human beings or other living animals. \"Device\" does not include equipment used for the application of pesticides when sold separately therefrom.",
+      "id": "921.01-device",
+      "normalized": "device",
+      "scope": "As used in this chapter:",
+      "section": "921.01",
+      "source_title": "Section 921.01 - Pesticide definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-921.01",
+      "term": "Device"
+    },
+    {
+      "definition": "(Q) \"Direct supervision\" means any of the following, as applicable:\n\n(1) Unless otherwise prescribed by its labeling, a restricted use pesticide is considered to be applied under the direct supervision of a commercial applicator, if it is applied by a trained serviceperson who is trained in accordance with standards prescribed by the director under section 921.16 of the Revised Code and who is acting under the instructions and control of a commercial applicator.\n\n(2) Unless otherwise prescribed by its labeling, a general use pesticide is considered to be applied under the direct supervision of a commercial applicator, if it is applied by a trained serviceperson acting under the instructions and control of a commercial applicator.\n\n(3) Unless otherwise prescribed by its labeling, a restricted use pesticide is considered to be used under the direct supervision of a private applicator if all of the following apply:\n\n(a) The restricted use pesticide is used by an immediate family member or a subordinate employee of that private applicator.\n\n(b) The immediate family member or a subordinate employee of that private applicator is trained in accordance with standards prescribed by the director of agriculture under section 921.16 of the Revised Code and is acting under the instructions and control of the private applicator.\n\n(c) The private applicator is responsible for the actions of that immediate family member or subordinate employee and is available when needed, even though the private applicator is not physically present at the time and place the restricted use pesticide use is occurring.",
+      "id": "921.01-direct-supervision",
+      "normalized": "direct supervision",
+      "scope": "As used in this chapter:",
+      "section": "921.01",
+      "source_title": "Section 921.01 - Pesticide definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-921.01",
+      "term": "Direct supervision"
+    },
+    {
+      "definition": "(R) \"Directly supervise\" means providing direct supervision under division (Q)(1), (2), or (3) of this section, as applicable.",
+      "id": "921.01-directly-supervise",
+      "normalized": "directly supervise",
+      "scope": "As used in this chapter:",
+      "section": "921.01",
+      "source_title": "Section 921.01 - Pesticide definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-921.01",
+      "term": "Directly supervise"
+    },
+    {
+      "definition": "(S) \"Distribute\" means to offer or hold for sale, sell, barter, ship, deliver for shipment, or receive and, having so received, to deliver or offer to deliver, pesticides in this state. \"Distribute\" does not mean to hold for use, apply, or use pesticides or dilutions of pesticides, except when a pesticide dealer holds for use, applies, or uses pesticides or dilutions of pesticides in the course of business with a commercial applicator who is employed by that pesticide dealer.",
+      "id": "921.01-distribute",
+      "normalized": "distribute",
+      "scope": "As used in this chapter:",
+      "section": "921.01",
+      "source_title": "Section 921.01 - Pesticide definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-921.01",
+      "term": "Distribute"
+    },
+    {
+      "definition": "(T) \"Environment\" includes water, air, land, and all plants and human beings and other animals living therein, and the interrelationships that exist among them.",
+      "id": "921.01-environment",
+      "normalized": "environment",
+      "scope": "As used in this chapter:",
+      "section": "921.01",
+      "source_title": "Section 921.01 - Pesticide definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-921.01",
+      "term": "Environment"
+    },
+    {
+      "definition": "(U) \"Fungus\" means any nonchlorophyll-bearing thallophyte, which is any nonchlorophyll-bearing plant of a lower order than mosses and liverworts, as for example, rust, smut, mildew, mold, yeast, and bacteria, except those on or in living human beings or other animals, or processed food, beverages, or pharmaceuticals.",
+      "id": "921.01-fungus",
+      "normalized": "fungus",
+      "scope": "As used in this chapter:",
+      "section": "921.01",
+      "source_title": "Section 921.01 - Pesticide definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-921.01",
+      "term": "Fungus"
+    },
+    {
+      "definition": "(V) \"General use pesticide\" means a pesticide that is classified for general use under the federal act.",
+      "id": "921.01-general-use-pesticide",
+      "normalized": "general use pesticide",
+      "scope": "As used in this chapter:",
+      "section": "921.01",
+      "source_title": "Section 921.01 - Pesticide definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-921.01",
+      "term": "General use pesticide"
+    },
+    {
+      "definition": "(W) \"Ground equipment\" means any device, other than aircraft, used on land or water to apply pesticides in any form.",
+      "id": "921.01-ground-equipment",
+      "normalized": "ground equipment",
+      "scope": "As used in this chapter:",
+      "section": "921.01",
+      "source_title": "Section 921.01 - Pesticide definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-921.01",
+      "term": "Ground equipment"
+    },
+    {
+      "definition": "(X) \"Incidental use\" or \"incidentally use\" means the application of a general use pesticide on an occasional, isolated, site-specific basis in order to avoid immediate personal harm. \"Incidental use\" or \"incidentally use\" does not mean regular, routine, or maintenance application of a general use pesticide.",
+      "id": "921.01-incidental-use",
+      "normalized": "incidental use",
+      "scope": "As used in this chapter:",
+      "section": "921.01",
+      "source_title": "Section 921.01 - Pesticide definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-921.01",
+      "term": "Incidental use"
+    },
+    {
+      "definition": "(X) \"Incidental use\" or \"incidentally use\" means the application of a general use pesticide on an occasional, isolated, site-specific basis in order to avoid immediate personal harm. \"Incidental use\" or \"incidentally use\" does not mean regular, routine, or maintenance application of a general use pesticide.",
+      "id": "921.01-incidentally-use",
+      "normalized": "incidentally use",
+      "scope": "As used in this chapter:",
+      "section": "921.01",
+      "source_title": "Section 921.01 - Pesticide definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-921.01",
+      "term": "incidentally use"
+    },
+    {
+      "definition": "(Y) \"Inert ingredient\" means an ingredient that is not active.",
+      "id": "921.01-inert-ingredient",
+      "normalized": "inert ingredient",
+      "scope": "As used in this chapter:",
+      "section": "921.01",
+      "source_title": "Section 921.01 - Pesticide definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-921.01",
+      "term": "Inert ingredient"
+    },
+    {
+      "definition": "(Z) \"Ingredient statement\" means a statement of the name and percentage of each active ingredient, together with the total percentage of inert ingredients. When the pesticide contains arsenic in any form, the ingredient statement shall include percentages of total and water soluble arsenic, each calculated as elemental arsenic.",
+      "id": "921.01-ingredient-statement",
+      "normalized": "ingredient statement",
+      "scope": "As used in this chapter:",
+      "section": "921.01",
+      "source_title": "Section 921.01 - Pesticide definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-921.01",
+      "term": "Ingredient statement"
+    },
+    {
+      "definition": "(AA) \"Insect\" means any of the numerous small invertebrate animals generally having the body more or less obviously segmented, for the most part belonging to the class insecta, including, but not limited to, beetles, bugs, bees, and flies, and to other allied classes of arthropods, including, but not limited to, spiders, mites, ticks, centipedes, and wood lice.",
+      "id": "921.01-insect",
+      "normalized": "insect",
+      "scope": "As used in this chapter:",
+      "section": "921.01",
+      "source_title": "Section 921.01 - Pesticide definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-921.01",
+      "term": "Insect"
+    },
+    {
+      "definition": "(BB) \"Integrated pest management\" means a sustainable approach to managing pests by combining biological, cultural, physical, and chemical tools in a way that minimizes economic, health, and environmental risks.",
+      "id": "921.01-integrated-pest-management",
+      "normalized": "integrated pest management",
+      "scope": "As used in this chapter:",
+      "section": "921.01",
+      "source_title": "Section 921.01 - Pesticide definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-921.01",
+      "term": "Integrated pest management"
+    },
+    {
+      "definition": "(CC) \"Label\" means the written, printed, or graphic matter on, or attached to the pesticide or device, or any of its containers or wrappers.",
+      "id": "921.01-label",
+      "normalized": "label",
+      "scope": "As used in this chapter:",
+      "section": "921.01",
+      "source_title": "Section 921.01 - Pesticide definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-921.01",
+      "term": "Label"
+    },
+    {
+      "definition": "(DD) \"Labeling\" means all labels and other written, printed, or graphic matter:\n\n(1) Accompanying the pesticide product or device at any time;\n\n(2) To which reference is made on the label or in literature accompanying the pesticide product or device, except when accurate, nonmisleading reference is made to current official publications of the United States environmental protection agency, the United States department of agriculture or interior, the United States department of health and human services, state experiment stations, state agricultural colleges, or other similar federal or state institutions or official agencies, authorized by law to conduct research in the field of pesticides;\n\n(3) Including all brochures, technical and sales bulletins, and all advertising material.",
+      "id": "921.01-labeling",
+      "normalized": "labeling",
+      "scope": "As used in this chapter:",
+      "section": "921.01",
+      "source_title": "Section 921.01 - Pesticide definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-921.01",
+      "term": "Labeling"
+    },
+    {
+      "definition": "(EE) \"Licensure\" includes certification as used in the federal act.\n\n(FF) \"Misbranded\" applies, if the conditions of either division (FF)(1) or (2) of this section are satisfied as follows:\n\n(1) To any pesticide or device, if at least one of the following occurs:\n\n(a) Its labeling bears any statement, design, or graphic representation relative thereto or to its ingredients that is false or misleading in any particular.\n\n(b) It is an imitation of or is distributed under the name of another pesticide or device.\n\n(c) Any word, statement, or other information required to appear on the label or labeling is not prominently placed thereon with such conspicuousness, as compared with other words, statements, designs, or graphic matter in the labeling, and in such terms as to render it likely to be read and understood by the ordinary individual under customary conditions of purchase and use.\n\n(2) To any pesticide, if at least one of the following occurs:\n\n(a) The labeling of a restricted use pesticide does not contain a statement that it is a restricted use pesticide.\n\n(b) The labeling accompanying it does not contain directions for use that are necessary for effecting the purpose for which the pesticide is intended and, if complied with, together with any requirements imposed by the federal act, that are adequate to protect the environment.\n\n(c) The label does not bear all of the following:\n\n(i) The name, brand, or trademark under which the pesticide is distributed;\n\n(ii) An ingredient statement on the part of the immediate container and on the outside container and wrapper of the retail package, if any, through which the ingredient statement on the immediate container cannot be clearly read, which is presented or displayed under customary conditions of purchase, provided that the ingredient statement may appear prominently on another part of the container as permitted by the amended federal act or by the director;\n\n(iii) A warning or caution statement that may be necessary and that, if complied with together with any requirement imposed under the federal act, would be adequate to protect the environment;\n\n(iv) The net weight or measure of the contents, subject to such reasonable variations as the administrator of the United States environmental protection agency or the director of agriculture may permit;\n\n(v) The name and address of the manufacturer, registrant, or person for whom manufactured;\n\n(vi) The United States environmental protection agency registration number assigned to each establishment in which the pesticide was produced and the agency registration number assigned to it, as required by regulations under the federal act.\n\n(d) The pesticide contains any substance or substances in quantities highly toxic to human beings unless the label bears, in addition to other label requirements, all of the following:\n\n(i) The skull and crossbones;\n\n(ii) The word \"poison\" in red prominently displayed on a background of distinctly contrasting color;\n\n(iii) A statement of an antidote or a practical or emergency medical treatment, first aid or otherwise, in case of poisoning by the pesticide.\n\n(e) It is contained in a package or other container or wrapping that does not conform to the standard established by the administrator of the United States environmental protection agency.",
+      "id": "921.01-licensure",
+      "normalized": "licensure",
+      "scope": "As used in this chapter:",
+      "section": "921.01",
+      "source_title": "Section 921.01 - Pesticide definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-921.01",
+      "term": "Licensure"
+    },
+    {
+      "definition": "(GG) \"Nematodes\" means invertebrate animals of the phylum nemathelminthes and class nematoda, which are unsegmented, round worms with elongated, fusiform, or sac-like bodies covered with cuticle, and that inhabit soil, water, plants, or plant parts and also may be called nema or eel-worms.",
+      "id": "921.01-nematodes",
+      "normalized": "nematodes",
+      "scope": "As used in this chapter:",
+      "section": "921.01",
+      "source_title": "Section 921.01 - Pesticide definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-921.01",
+      "term": "Nematodes"
+    },
+    {
+      "definition": "(HH) \"Pest\" means a harmful, destructive, or nuisance insect, fungus, rodent, nematode, bacterium, bird, snail, weed, or parasitic plant or a harmful or destructive form of plant or animal life or virus, or any plant or animal species that the director declares to be a pest, except viruses, bacteria, or other microorganisms on or in living animals, including human beings.",
+      "id": "921.01-pest",
+      "normalized": "pest",
+      "scope": "As used in this chapter:",
+      "section": "921.01",
+      "source_title": "Section 921.01 - Pesticide definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-921.01",
+      "term": "Pest"
+    },
+    {
+      "definition": "(II) \"Pesticide\" means any substance or mixture of substances intended for either of the following:\n\n(1) Preventing, destroying, repelling, or mitigating any pest;\n\n(2) Use as a plant regulator, defoliant, or desiccant.",
+      "id": "921.01-pesticide",
+      "normalized": "pesticide",
+      "scope": "As used in this chapter:",
+      "section": "921.01",
+      "source_title": "Section 921.01 - Pesticide definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-921.01",
+      "term": "Pesticide"
+    },
+    {
+      "definition": "\"Pesticide\" includes a pest monitoring system designated by rule.",
+      "id": "921.01-pesticide",
+      "normalized": "pesticide",
+      "scope": "As used in this chapter:",
+      "section": "921.01",
+      "source_title": "Section 921.01 - Pesticide definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-921.01",
+      "term": "Pesticide"
+    },
+    {
+      "definition": "(JJ) \"Pesticide dealer\" means any person who distributes restricted use pesticides or pesticides whose uses or distribution are further restricted by the director to the ultimate user or to a commercial applicator who is employed by that pesticide dealer.",
+      "id": "921.01-pesticide-dealer",
+      "normalized": "pesticide dealer",
+      "scope": "As used in this chapter:",
+      "section": "921.01",
+      "source_title": "Section 921.01 - Pesticide definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-921.01",
+      "term": "Pesticide dealer"
+    },
+    {
+      "definition": "(KK) \"Pesticide business\" means a person who performs pesticide business activities.",
+      "id": "921.01-pesticide-business",
+      "normalized": "pesticide business",
+      "scope": "As used in this chapter:",
+      "section": "921.01",
+      "source_title": "Section 921.01 - Pesticide definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-921.01",
+      "term": "Pesticide business"
+    },
+    {
+      "definition": "(LL) \"Pesticide business activities\" means any of the following:\n\n(1) The application of pesticides to the property of another for hire;\n\n(2) The solicitation to apply pesticides;\n\n(3) The conducting of authorized diagnostic inspections.",
+      "id": "921.01-pesticide-business-activities",
+      "normalized": "pesticide business activities",
+      "scope": "As used in this chapter:",
+      "section": "921.01",
+      "source_title": "Section 921.01 - Pesticide definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-921.01",
+      "term": "Pesticide business activities"
+    },
+    {
+      "definition": "(MM) \"Pesticide-use category\" means a specialized field of pesticide application or of diagnostic inspection as defined by rule.",
+      "id": "921.01-pesticide-use-category",
+      "normalized": "pesticide-use category",
+      "scope": "As used in this chapter:",
+      "section": "921.01",
+      "source_title": "Section 921.01 - Pesticide definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-921.01",
+      "term": "Pesticide-use category"
+    },
+    {
+      "definition": "(NN) \"Plant regulator\" means any substance or mixture of substances, intended, through physiological action, for accelerating or retarding the growth or rate of maturation, or for otherwise altering the behavior of plants or the produce thereof, but does not include substances to the extent that they are intended as plant nutrients, trace elements, nutritional chemicals, plant inoculants, or soil amendments.",
+      "id": "921.01-plant-regulator",
+      "normalized": "plant regulator",
+      "scope": "As used in this chapter:",
+      "section": "921.01",
+      "source_title": "Section 921.01 - Pesticide definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-921.01",
+      "term": "Plant regulator"
+    },
+    {
+      "definition": "(OO) \"Product name\" means a coined or specific designation applied to an individual pesticide of a fixed combination and derivation.",
+      "id": "921.01-product-name",
+      "normalized": "product name",
+      "scope": "As used in this chapter:",
+      "section": "921.01",
+      "source_title": "Section 921.01 - Pesticide definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-921.01",
+      "term": "Product name"
+    },
+    {
+      "definition": "(PP) \"Registrant\" means a person who has registered a pesticide under this chapter.",
+      "id": "921.01-registrant",
+      "normalized": "registrant",
+      "scope": "As used in this chapter:",
+      "section": "921.01",
+      "source_title": "Section 921.01 - Pesticide definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-921.01",
+      "term": "Registrant"
+    },
+    {
+      "definition": "(QQ) \"Restricted use pesticide\" means any pesticide or pesticide use classified by the administrator of the United States environmental protection agency for use only by a pesticide applicator or by an individual who is trained in accordance with standards prescribed by the director under section 921.16 of the Revised Code and who is working under the direct supervision of a pesticide applicator.",
+      "id": "921.01-restricted-use-pesticide",
+      "normalized": "restricted use pesticide",
+      "scope": "As used in this chapter:",
+      "section": "921.01",
+      "source_title": "Section 921.01 - Pesticide definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-921.01",
+      "term": "Restricted use pesticide"
+    },
+    {
+      "definition": "(RR) \"Rule\" means a rule adopted under section 921.16 of the Revised Code.",
+      "id": "921.01-rule",
+      "normalized": "rule",
+      "scope": "As used in this chapter:",
+      "section": "921.01",
+      "source_title": "Section 921.01 - Pesticide definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-921.01",
+      "term": "Rule"
+    },
+    {
+      "definition": "(SS) \"Sell or sale\" means exchange of ownership or transfer of custody.",
+      "id": "921.01-sell-or-sale",
+      "normalized": "sell or sale",
+      "scope": "As used in this chapter:",
+      "section": "921.01",
+      "source_title": "Section 921.01 - Pesticide definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-921.01",
+      "term": "Sell or sale"
+    },
+    {
+      "definition": "(TT) \"State restricted use pesticide\" means any pesticide or pesticides classified by the director subsequent to a hearing held in accordance with Chapter 119. of the Revised Code for use only by pesticide applicators or individuals who are trained in accordance with standards prescribed by the director under section 921.16 of the Revised Code and who are working under their direct supervision.",
+      "id": "921.01-state-restricted-use-pesticide",
+      "normalized": "state restricted use pesticide",
+      "scope": "As used in this chapter:",
+      "section": "921.01",
+      "source_title": "Section 921.01 - Pesticide definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-921.01",
+      "term": "State restricted use pesticide"
+    },
+    {
+      "definition": "(UU) \"Unreasonable adverse effects on the environment\" means any unreasonable risk to human beings or the environment taking into account the economic, social, and environmental benefits and costs of the use of any pesticide.",
+      "id": "921.01-unreasonable-adverse-effects-on-the-environment",
+      "normalized": "unreasonable adverse effects on the environment",
+      "scope": "As used in this chapter:",
+      "section": "921.01",
+      "source_title": "Section 921.01 - Pesticide definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-921.01",
+      "term": "Unreasonable adverse effects on the environment"
+    },
+    {
+      "definition": "(VV) \"Trained serviceperson\" means an employee of a pesticide business, other business, agency of the United States government, state agency, or political subdivision who has been trained to do either of the following:\n\n(1) Apply pesticides while under the direct supervision of a commercial applicator;\n\n(2) Use restricted use pesticides after being trained in accordance with standards prescribed by the director under section 921.16 of the Revised Code and while working under the direct supervision of a commercial applicator.",
+      "id": "921.01-trained-serviceperson",
+      "normalized": "trained serviceperson",
+      "scope": "As used in this chapter:",
+      "section": "921.01",
+      "source_title": "Section 921.01 - Pesticide definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-921.01",
+      "term": "Trained serviceperson"
+    },
+    {
+      "definition": "(WW) \"Weed\" means any plant that grows where not wanted.",
+      "id": "921.01-weed",
+      "normalized": "weed",
+      "scope": "As used in this chapter:",
+      "section": "921.01",
+      "source_title": "Section 921.01 - Pesticide definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-921.01",
+      "term": "Weed"
+    },
+    {
+      "definition": "(XX) \"Wildlife\" means all living things that are neither human, domesticated, or pests, including, but not limited to, mammals, birds, and aquatic life.",
+      "id": "921.01-wildlife",
+      "normalized": "wildlife",
+      "scope": "As used in this chapter:",
+      "section": "921.01",
+      "source_title": "Section 921.01 - Pesticide definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-921.01",
+      "term": "Wildlife"
+    },
+    {
+      "definition": "(YY) \"Trade secret\" and \"confidential business information\" mean any formula, plan, pattern, process, tool, mechanism, compound, procedure, production date, or compilation of information that is not patented, that is known only to certain individuals within a commercial concern, and that gives its user an opportunity to obtain a business advantage over competitors who do not know or use it.",
+      "id": "921.01-trade-secret",
+      "normalized": "trade secret",
+      "scope": "As used in this chapter:",
+      "section": "921.01",
+      "source_title": "Section 921.01 - Pesticide definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-921.01",
+      "term": "Trade secret"
+    },
+    {
+      "definition": "(YY) \"Trade secret\" and \"confidential business information\" mean any formula, plan, pattern, process, tool, mechanism, compound, procedure, production date, or compilation of information that is not patented, that is known only to certain individuals within a commercial concern, and that gives its user an opportunity to obtain a business advantage over competitors who do not know or use it.",
+      "id": "921.01-confidential-business-information",
+      "normalized": "confidential business information",
+      "scope": "As used in this chapter:",
+      "section": "921.01",
+      "source_title": "Section 921.01 - Pesticide definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-921.01",
+      "term": "confidential business information"
+    },
+    {
+      "definition": "(ZZ) \"Immediate family\" means familial relationships limited to a person's spouse, parents, stepparents, foster parents, father-in-law, mother-in-law, children, stepchildren, foster children, sons-in-law, daughters-in-law, grandparents, grandchildren, brothers, sisters, brothers-in-law, sisters-in-law, aunts, uncles, nieces, nephews, and first cousins.",
+      "id": "921.01-immediate-family",
+      "normalized": "immediate family",
+      "scope": "As used in this chapter:",
+      "section": "921.01",
+      "source_title": "Section 921.01 - Pesticide definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-921.01",
+      "term": "Immediate family"
+    },
+    {
+      "definition": "(AAA) \"First cousin\" means the child of a parent's sibling.\n\nLast updated January 21, 2026 at 2:38 PM",
+      "id": "921.01-first-cousin",
+      "normalized": "first cousin",
+      "scope": "As used in this chapter:",
+      "section": "921.01",
+      "source_title": "Section 921.01 - Pesticide definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-921.01",
+      "term": "First cousin"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "921.11",
+      "number": "921.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-921.11"
+    },
+    {
+      "kind": "section",
+      "label": "921.06",
+      "number": "921.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-921.06"
+    },
+    {
+      "kind": "section",
+      "label": "921.16",
+      "number": "921.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-921.16"
+    }
+  ],
+  "scraped": "2026-07-02T19:34:20+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-921.01",
+  "title": "Section 921.01 - Pesticide definitions."
+}

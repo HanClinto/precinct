@@ -1,0 +1,12 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-1701.21
+Scraped: 2026-07-02T19:39:02+00:00
+
+# Section 1701.21 - Conversion of shares.
+
+**Effective:** July 30, 1984
+
+**Latest Legislation:** House Bill 250 - 115th General Assembly
+
+(A) By the express terms of shares of any class or series, such shares may be convertible into the same or a different number of shares of any other class or series. Such express terms may contain any statements not repugnant to law for the protection of such conversion rights, including, without limiting the generality of such authority: restrictions upon the authorization or issuance of additional shares; provisions for the adjustment of the conversion price or ratio; provisions concerning rights in the event of reorganization, merger, consolidation, or lease, sale, exchange, transfer or other disposition of all, or substantially all, of the assets of the corporation; provisions for the reservation of authorized but unissued shares to satisfy such conversion rights; and restrictions upon the declaration or payment of dividends or distributions. Such express terms may also include statements, not inconsistent with the provisions of section 1701.30 of the Revised Code, to provide that upon the exercise of conversion rights the stated capital of the corporation shall be created, increased, reduced, or eliminated in the manner, at the rate, or to the extent provided therein.
+
+(B) The corporation shall not issue any shares, with or without par value, which are convertible into shares having an aggregate par value greater than the aggregate stated capital of such convertible shares unless in each case immediately after the issuing of any of the convertible shares the corporation will have a surplus not less in amount than the excess of the aggregate par value of all the shares into which such convertible shares may be converted over the aggregate stated capital of all the outstanding convertible shares; and during the entire period that such conversion rights may be exercised, the corporation shall reserve from its surplus, solely for transfer to stated capital upon the exercise of such conversion rights, an amount equal at the time to the excess of the aggregate par value of all the shares into which the then outstanding convertible shares may be converted over the aggregate stated capital of such convertible shares; provided that the failure or inability of the corporation to maintain such reserve shall not affect the conversion rights of any outstanding convertible shares.

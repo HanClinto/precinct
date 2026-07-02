@@ -1,0 +1,1101 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 145.01 - Public employees retirement system definitions.",
+      "number": "145.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.011 - Certain university and college employees included.",
+      "number": "145.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.011"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.012 - Public employee defined.",
+      "number": "145.012",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.012"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.013 - Fireman electing to remain in system.",
+      "number": "145.013",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.013"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.014 - Regional council of governments employees.",
+      "number": "145.014",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.014"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.015 - County historical society employee electing to remain in system.",
+      "number": "145.015",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.015"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.016 - Credit for contributing service.",
+      "number": "145.016",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.016"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.017 - Calculation of final average salary.",
+      "number": "145.017",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.017"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.018 - Conditions for full year of credit.",
+      "number": "145.018",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.018"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.03 - Public employees retirement system - exemption from compulsory membership.",
+      "number": "145.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.031 - Exemption requests by Hamilton county municipal court employees.",
+      "number": "145.031",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.031"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.032 - Exemption requests by Hamilton county air pollution control employees.",
+      "number": "145.032",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.032"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.033 - Exemption requests by Cincinnati correctional institute employees.",
+      "number": "145.033",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.033"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.034 - Exemption requests by members becoming subject to social security tax.",
+      "number": "145.034",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.034"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.035 - Exemption requests by department of development employees located in foreign countries.",
+      "number": "145.035",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.035"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.036 - Transmission of list of independent contractors; determination of status by board.",
+      "number": "145.036",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.036"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.037 - Request to be classified as public employee.",
+      "number": "145.037",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.037"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.038 - Acknowledgement of independent contractor status.",
+      "number": "145.038",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.038"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.04 - Public employees retirement board.",
+      "number": "145.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.041 - Orientation program required for members - continuing education.",
+      "number": "145.041",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.041"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.042 - Members with excessive travel expenses ineligible for another term.",
+      "number": "145.042",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.042"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.05 - Term of office - election of employee members - eligibility - nomination by petition.",
+      "number": "145.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.051 - Special election where person elected unable to serve.",
+      "number": "145.051",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.051"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.052 - Board member election unnecessary if only one candidate nominated.",
+      "number": "145.052",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.052"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.053 - Candidate campaign finance statements - donor statement of independent expenditures.",
+      "number": "145.053",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.053"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.054 - Filing of statements - prohibited campaign activities.",
+      "number": "145.054",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.054"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.055 - Complaint alleging violation of RC 145.054 - procedure - fine.",
+      "number": "145.055",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.055"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.057 - Disqualification of convicted member - misconduct in office - removal procedure.",
+      "number": "145.057",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.057"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.058 - Adoption of election rules - certification of nominating petitions and election results.",
+      "number": "145.058",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.058"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.06 - Vacancies.",
+      "number": "145.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.07 - Oath of office - quorum - meetings.",
+      "number": "145.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.071 - Video conference meetings.",
+      "number": "145.071",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.071"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.08 - Reimbursing expenses of board members - liability insurance.",
+      "number": "145.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.09 - Election of chairperson and appointment of executive director - powers and duties of board.",
+      "number": "145.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.091 - Administering defined benefit and defined contribution plans.",
+      "number": "145.091",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.091"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.092 - Travel expense policies - bonus policy - budget.",
+      "number": "145.092",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.092"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.093 - Ethics policy - commission approval - ethics training.",
+      "number": "145.093",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.093"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.094 - Chief investment officer - supervision duties - monitoring of securities transactions.",
+      "number": "145.094",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.094"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.095 - Selection of internal auditor.",
+      "number": "145.095",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.095"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.10 - Legal adviser.",
+      "number": "145.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.101 - Venue for court actions.",
+      "number": "145.101",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.101"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.11 - Investment powers and fiduciary duties of board.",
+      "number": "145.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.111 - No board member or employee shall have an interest in board funds.",
+      "number": "145.111",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.111"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.112 - Prohibited business transactions.",
+      "number": "145.112",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.112"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.113 - Restrictions on fiduciaries.",
+      "number": "145.113",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.113"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.114 - Designation of Ohio-qualified agents - selection policy - utilization - annual report.",
+      "number": "145.114",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.114"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.115 - Annual disclosures to Ohio Ethics Commission.",
+      "number": "145.115",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.115"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.116 - Designation of Ohio-qualified investment managers - utilization - annual report.",
+      "number": "145.116",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.116"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.12 - Certifying rate necessary to pay employer contributions.",
+      "number": "145.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.13 - Denomination of bonds.",
+      "number": "145.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.14 - Percentage of funds available for annuities and other payments - deposit.",
+      "number": "145.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.15 - Employee information provided by each department.",
+      "number": "145.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.16 - Statement to be filed by employee member.",
+      "number": "145.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.17 - Department monthly statement.",
+      "number": "145.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.171 - Information to new employees.",
+      "number": "145.171",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.171"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.18 - Records kept by department heads.",
+      "number": "145.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.19 - Electing defined benefit or defined contribution plan.",
+      "number": "145.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.191 - Employee with less than 5 years of service electing to participate in defined contribution plan.",
+      "number": "145.191",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.191"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.192 - Effect of electing defined contribution plan.",
+      "number": "145.192",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.192"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.193 - Election after reemployment.",
+      "number": "145.193",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.193"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.194 - Contributions by law enforcement or public safety officers to defined contribution plan.",
+      "number": "145.194",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.194"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.195 - Participants in both defined benefit and defined contribution plans.",
+      "number": "145.195",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.195"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.196 - Consolidation of combined plan with defined benefit plan.",
+      "number": "145.196",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.196"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.20 - Elective officials may become members of system - credit for prior service.",
+      "number": "145.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.201 - Additional service credit purchased by elected or appointed officials.",
+      "number": "145.201",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.201"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.21 - Individual accounts for each member - mortality tables.",
+      "number": "145.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.22 - Actuarial valuation of pension assets, liabilities, and funding requirements.",
+      "number": "145.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.221 - Amortizing unfunded actuarial accrued pension liability.",
+      "number": "145.221",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.221"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.222 - Study to determine percentage of employee's compensation to be contributed by public institution of higher education.",
+      "number": "145.222",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.222"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.23 - Creation of funds.",
+      "number": "145.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.24 - Inequality of contributions by employer.",
+      "number": "145.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.25 - Each fund is separate legal entity.",
+      "number": "145.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.26 - Treasurer of state custodian of funds.",
+      "number": "145.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.27 - Annual statement of funds.",
+      "number": "145.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.28 - Purchase of service credit for period of self-exemption.",
+      "number": "145.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.29 - Procedure for purchasing credit.",
+      "number": "145.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.291 - Purchasing service credit for time spent on pregnancy or adoption.",
+      "number": "145.291",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.291"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.292 - Credit for prior service.",
+      "number": "145.292",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.292"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.293 - Credit for prior service - comparable public position.",
+      "number": "145.293",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.293"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.294 - Payroll deduction plans.",
+      "number": "145.294",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.294"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.295 - Credit for service in uniform retirement system.",
+      "number": "145.295",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.295"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.296 - Contributions during disability leave.",
+      "number": "145.296",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.296"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.297 - Retirement incentive plan.",
+      "number": "145.297",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.297"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.298 - Retirement incentive plan - closing of or layoff at state institution.",
+      "number": "145.298",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.298"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.299 - Purchasing credit for service as school board member.",
+      "number": "145.299",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.299"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.2910 - Transferring service credit and contributions between PERS and Cincinnati retirement system.",
+      "number": "145.2910",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.2910"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.2911 - Eligibility for credit for service in Cincinnati retirement system.",
+      "number": "145.2911",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.2911"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.2912 - Transferring contributions to Cincinnati retirement system.",
+      "number": "145.2912",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.2912"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.2913 - Transferred service credit from uniform retirement system.",
+      "number": "145.2913",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.2913"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.2914 - Non-law enforcement service as law enforcement service.",
+      "number": "145.2914",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.2914"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.2915 - Credit for work missed while receiving workers' compensation.",
+      "number": "145.2915",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.2915"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.2916 - Credit for salary increases for elected officials.",
+      "number": "145.2916",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.2916"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.30 - Credit for military service.",
+      "number": "145.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.301 - Purchasing military service credit.",
+      "number": "145.301",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.301"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.302 - Purchasing uniformed services credit.",
+      "number": "145.302",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.302"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.31 - Restoring service credit.",
+      "number": "145.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.311 - Payroll deduction plans - restoring SERS or STERS credit.",
+      "number": "145.311",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.311"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.312 - Proceedings on request for restoration of service credit.",
+      "number": "145.312",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.312"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.32 - Age and service retirement.",
+      "number": "145.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.323 - Cost of living increase.",
+      "number": "145.323",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.323"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.33 - Allowance upon age and service retirement.",
+      "number": "145.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.331 - Disability allowance recipient applying for service retirement.",
+      "number": "145.331",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.331"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.332 - Determination of eligibility for age and service retirement.",
+      "number": "145.332",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.332"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.333 - Contribution based benefit cap.",
+      "number": "145.333",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.333"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.334 - Election as PERS law enforcement officer or public safety officer.",
+      "number": "145.334",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.334"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.335 - Age and service retirement for former combined plan members.",
+      "number": "145.335",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.335"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.35 - Providing disability coverage for on-duty illness or injury.",
+      "number": "145.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.351 - Annual report disability retirement experience of each employer.",
+      "number": "145.351",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.351"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.36 - Benefits upon disability retirement.",
+      "number": "145.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.361 - Annual amount of disability allowance.",
+      "number": "145.361",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.361"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.362 - Disability benefit recipient to retain membership status.",
+      "number": "145.362",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.362"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.363 - Social security disability insurance benefits.",
+      "number": "145.363",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.363"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.37 - Coordinating and integrating membership in state retirement systems.",
+      "number": "145.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.38 - Employment of retirant.",
+      "number": "145.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.381 - Re-employing retirant.",
+      "number": "145.381",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.381"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.382 - Employment of certain retirants notwithstanding restrictions.",
+      "number": "145.382",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.382"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.383 - Continuing contributions to state system after retirement.",
+      "number": "145.383",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.383"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.384 - Retirant may apply for monthly annuity or lump sum payment.",
+      "number": "145.384",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.384"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.385 - Reemployed retirant electing to resume retirement allowance.",
+      "number": "145.385",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.385"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.39 - Increasing pension, benefit, or allowance when limits of 26 USC 415 are raised.",
+      "number": "145.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.391 - Establishing and maintaining qualified governmental excess benefit arrangement.",
+      "number": "145.391",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.391"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.40 - Payment to member who ceases to be a public employee.",
+      "number": "145.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.401 - Making additional payment upon death of member or withdrawal of contributions.",
+      "number": "145.401",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.401"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.402 - Payments to members who are members of another state retirement system.",
+      "number": "145.402",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.402"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.41 - Termination of membership - leave of absence.",
+      "number": "145.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.43 - Designation or qualification of beneficiaries.",
+      "number": "145.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.431 - Designation of beneficiary.",
+      "number": "145.431",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.431"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.45 - Beneficiary may substitute other benefits.",
+      "number": "145.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.451 - Payment of death benefit.",
+      "number": "145.451",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.451"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.452 - Continuation of service credit purchase upon death of member.",
+      "number": "145.452",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.452"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.46 - Electing a plan of payment.",
+      "number": "145.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.47 - Per cent of compensation required as contribution - deductions.",
+      "number": "145.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.471 - Crediting of interest to individual accounts of contributors.",
+      "number": "145.471",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.471"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.472 - Crediting of interest on account balances of contributors as of 12-31-98.",
+      "number": "145.472",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.472"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.473 - Interest rates.",
+      "number": "145.473",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.473"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.48 - Rate of employer contribution.",
+      "number": "145.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.483 - Statement of delinquent contributions.",
+      "number": "145.483",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.483"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.49 - Calculations of employee and employer contribution rates separately.",
+      "number": "145.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.51 - Payments into employer's accumulation fund.",
+      "number": "145.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.52 - Transitional liability - installment payments.",
+      "number": "145.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.53 - Amounts credited to employer transitional liability.",
+      "number": "145.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.54 - Annual estimate of amount necessary to defray expenses; transfer of funds.",
+      "number": "145.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.55 - Members deemed to consent to deductions.",
+      "number": "145.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.56 - Tax exemptions.",
+      "number": "145.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.561 - Acquiring vested right in pension when granted.",
+      "number": "145.561",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.561"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.562 - Waiver of rights.",
+      "number": "145.562",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.562"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.563 - Adjustment for and recovery of erroneous payments.",
+      "number": "145.563",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.563"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.564 - Payroll deduction of membership dues and fees of retiree organizations.",
+      "number": "145.564",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.564"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.57 - Restitution order based on theft in office or certain sex offenses.",
+      "number": "145.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.571 - Order for division of marital property.",
+      "number": "145.571",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.571"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.572 - Forfeiture of retirement benefits under RC 2929.192.",
+      "number": "145.572",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.572"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.573 - Benefits subject to termination.",
+      "number": "145.573",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.573"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.574 - Forfeiture.",
+      "number": "145.574",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.574"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.58 - Group health insurance coverage for retired persons and survivors.",
+      "number": "145.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.581 - Establishing programs for long term health care insurance.",
+      "number": "145.581",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.581"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.582 - Providing health care coverage for elected officials given erroneous information.",
+      "number": "145.582",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.582"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.583 - Deposits to fund payments under plan.",
+      "number": "145.583",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.583"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.584 - Benefits equivalent to medicare.",
+      "number": "145.584",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.584"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.62 - Additional deposits in employee savings fund.",
+      "number": "145.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.63 - Refund of additional deposits.",
+      "number": "145.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.64 - Application for benefit where refund not received.",
+      "number": "145.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.65 - Payment of deposits made by deceased contributor.",
+      "number": "145.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.69 - Budgeting amount necessary to pay the state's obligation as employer.",
+      "number": "145.69",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.69"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.70 - Payment of amounts due retirement system from treasury.",
+      "number": "145.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.80 - Rules for defined contribution plans.",
+      "number": "145.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.80"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.81 - Establishment and administration of defined contribution plan.",
+      "number": "145.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.811 - Qualification of plan as governmental plan for federal tax purposes.",
+      "number": "145.811",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.811"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.812 - Qualification of plan as retirement system maintained by a state or local government entity for federal tax purposes.",
+      "number": "145.812",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.812"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.813 - Maintaining individual account for each participant.",
+      "number": "145.813",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.813"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.814 - Electing to participate in different plan.",
+      "number": "145.814",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.814"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.82 - Application of chapter to defined contribution plan.",
+      "number": "145.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.82"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.83 - Accumulating contributions to pay medical and insurance expenses.",
+      "number": "145.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.83"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.85 - Contributions of members.",
+      "number": "145.85",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.85"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.86 - Contributions of employers.",
+      "number": "145.86",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.86"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.87 - Transferring portion of employer contribution to employers' accumulation fund.",
+      "number": "145.87",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.87"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.88 - Withholding.",
+      "number": "145.88",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.88"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.91 - Member rights governed by plan selected.",
+      "number": "145.91",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.91"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.92 - Spousal consent or waiver.",
+      "number": "145.92",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.92"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.95 - Right to payment or benefit vested.",
+      "number": "145.95",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.95"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.97 - Deposits of members.",
+      "number": "145.97",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.97"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.98 - Ceasing contributions.",
+      "number": "145.98",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.98"
+    },
+    {
+      "kind": "section",
+      "label": "Section 145.99 - Penalty.",
+      "number": "145.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-145.99"
+    }
+  ],
+  "scraped": "2026-07-02T19:31:54+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-145",
+  "title": "Chapter 145 - Public Employees Retirement System"
+}

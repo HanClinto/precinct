@@ -1,0 +1,42 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Prosecutor\" has the same meaning as in section 2935.01 of the Revised Code.",
+      "id": "3701.17-prosecutor",
+      "normalized": "prosecutor",
+      "scope": "(A) As used in this section:",
+      "section": "3701.17",
+      "source_title": "Section 3701.17 - Protected health information.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3701.17",
+      "term": "Prosecutor"
+    },
+    {
+      "definition": "(2) \"Protected health information\" means information, in any form, including oral, written, electronic, visual, pictorial, or physical that describes an individual's past, present, or future physical or mental health status or condition, receipt of treatment or care, or purchase of health products, if either of the following applies:\n\n(a) The information reveals the identity of the individual who is the subject of the information.\n\n(b) The information could be used to reveal the identity of the individual who is the subject of the information, either by using the information alone or with other information that is available to predictable recipients of the information.\n\n(B) Protected health information reported to or obtained by the director of health, the department of health, or a board of health of a city or general health district is confidential and shall not be released without the written consent of the individual who is the subject of the information unless the information is released pursuant to division (C) of this section or one of the following applies:\n\n(1) The release of the information is necessary to provide treatment to the individual and the information is released pursuant to a written agreement that requires the recipient of the information to comply with the confidentiality requirements established under this section.\n\n(2) The release of the information is necessary to ensure the accuracy of the information and the information is released pursuant to a written agreement that requires the recipient of the information to comply with the confidentiality requirements established under this section.\n\n(3) The information is released pursuant to a search warrant or subpoena issued by or at the request of a grand jury or prosecutor in connection with a criminal investigation or prosecution.\n\n(4) The director determines the release of the information is necessary, based on an evaluation of relevant information, to avert or mitigate a clear threat to an individual or to the public health. Information may be released pursuant to this division only to those persons or entities necessary to control, prevent, or mitigate disease.\n\n(C) Information that does not identify an individual is not protected health information and may be released in summary, statistical, or aggregate form. Information that is in a summary, statistical, or aggregate form and that does not identify an individual is a public record under section 149.43 of the Revised Code and, upon request, shall be released by the director.\n\n(D) Except for information released pursuant to division (B)(4) of this section, any disclosure pursuant to this section shall be in writing and accompanied by a written statement that includes the following or substantially similar language: \"This information has been disclosed to you from confidential records protected from disclosure by state law. If this information has been released to you in other than a summary, statistical, or aggregate form, you shall make no further disclosure of this information without the specific, written, and informed release of the individual to whom it pertains, or as otherwise permitted by state law. A general authorization for the release of medical or other information is not sufficient for the release of information pursuant to this section.\"",
+      "id": "3701.17-protected-health-information",
+      "normalized": "protected health information",
+      "scope": "(A) As used in this section:",
+      "section": "3701.17",
+      "source_title": "Section 3701.17 - Protected health information.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3701.17",
+      "term": "Protected health information"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2935.01",
+      "number": "2935.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2935.01"
+    },
+    {
+      "kind": "section",
+      "label": "149.43",
+      "number": "149.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.43"
+    }
+  ],
+  "scraped": "2026-07-02T19:50:52+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3701.17",
+  "title": "Section 3701.17 - Protected health information."
+}

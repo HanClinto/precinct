@@ -1,0 +1,28 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-124.824
+Scraped: 2026-07-02T19:31:40+00:00
+
+# Section 124.824 - Elections by death benefit fund recipient.
+
+**Effective:** October 17, 2019
+
+**Latest Legislation:** House Bill 166 - 133rd General Assembly
+
+(A) As used in this section, "death benefit fund recipient" means any recipient of a death benefit paid under section 742.63 of the Revised Code except a parent who receives a death benefit paid under division (E) of that section.
+
+(B)(1) Except as otherwise provided under division (B)(3) of this section, a death benefit fund recipient may elect to participate in any health, medical, hospital, dental, surgical, or vision benefit the department of administrative services contracts for under section 124.82 of the Revised Code or otherwise provides for the benefit of state employees who are paid directly by warrant of the director of budget and management. Receiving benefits under this section does not make the death benefit fund recipient a state employee. A death benefit fund recipient who elects to participate in a benefit under this section shall file the election form developed by the director of administrative services under division (D) of this section with the board of trustees of the Ohio police and fire pension fund, which serves as the trustees of the Ohio public safety officers death benefit fund pursuant to section 742.62 of the Revised Code.
+
+The board of trustees shall forward the election form to the department after the board has approved an application for benefits under section 742.63 of the Revised Code.
+
+(2) A parent, guardian, custodian, or other person responsible for the care of a death benefit fund recipient who is under eighteen years of age or who is a surviving child entitled to extended benefits under division (H)(3) of section 742.63 of the Revised Code due to disability may file the election form required by division (B)(1) of this section on the death benefit fund recipient's behalf.
+
+(3) A death benefit fund recipient is ineligible to participate in a health, medical, hospital, dental, surgical, or vision benefit under division (B)(1) of this section if the recipient is either of the following:
+
+(a) An employee paid directly by warrant of the director of budget and management who is eligible to participate in those benefits pursuant to section 124.82 of the Revised Code;
+
+(b) Eligible to enroll in the medicare program established by Title XVIII of the "Social Security Act," 79 Stat. 291 (1965), 42 U.S.C. 1395c, as amended.
+
+(C) For each death benefit fund recipient who elects to participate in health, medical, hospital, dental, surgical, or vision benefits under division (B) of this section, the department shall notify the board of trustees of the amount of the cost for the applicable benefits that shall be withheld from benefits paid to a death benefit fund recipient under section 742.63 of the Revised Code and forwarded to the department. The amount withheld from the death benefit fund recipient shall be the percentage of the cost of those benefits that would be paid by a state employee. The board of trustees shall pay the department the remaining cost of those benefits plus any applicable administrative costs from appropriations made for that purpose.
+
+(D) The director of administrative services shall prescribe procedures for the administration of benefits for death benefit fund recipients under this section, including the development of required forms for death benefit fund recipients to enroll, disenroll, or re-enroll in benefits under this section. The director shall provide the required election forms developed under this division to the board of trustees and shall notify the board of trustees of a death benefit recipient's enrollment, disenrollment, or re-enrollment in benefits under this section. The director shall notify the board of trustees when the department terminates the benefits a death benefit fund recipient has elected under division (B) of this section.
+
+(E) The board of trustees shall provide any information that the department requires to provide benefits under this section to the department, a designated third-party administrator, or both, including information regarding the identities, ages, and family relationships of death benefit fund recipients.

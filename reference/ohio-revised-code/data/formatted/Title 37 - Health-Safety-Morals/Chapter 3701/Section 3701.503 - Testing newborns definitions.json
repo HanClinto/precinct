@@ -1,0 +1,186 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Parent\" means either parent, unless the parents are separated or divorced or their marriage has been dissolved or annulled, in which case \"parent\" means the parent who is the residential parent and legal custodian.",
+      "id": "3701.503-parent",
+      "normalized": "parent",
+      "scope": "As used in sections 3701.504 to 3701.509 of the Revised Code:",
+      "section": "3701.503",
+      "source_title": "Section 3701.503 - Testing newborns definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3701.503",
+      "term": "Parent"
+    },
+    {
+      "definition": "(B) \"Guardian\" has the same meaning as in section 2111.01 of the Revised Code.",
+      "id": "3701.503-guardian",
+      "normalized": "guardian",
+      "scope": "As used in sections 3701.504 to 3701.509 of the Revised Code:",
+      "section": "3701.503",
+      "source_title": "Section 3701.503 - Testing newborns definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3701.503",
+      "term": "Guardian"
+    },
+    {
+      "definition": "(C) \"Custodian\" means, except as used in division (A) of this section, a government agency or an individual, other than the parent or guardian, with legal or permanent custody of a child as defined in section 2151.011 of the Revised Code.",
+      "id": "3701.503-custodian",
+      "normalized": "custodian",
+      "scope": "As used in sections 3701.504 to 3701.509 of the Revised Code:",
+      "section": "3701.503",
+      "source_title": "Section 3701.503 - Testing newborns definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3701.503",
+      "term": "Custodian"
+    },
+    {
+      "definition": "(D) \"Hearing screening\" means the identification of newborns and infants who may have a hearing impairment, through the use of a physiologic test.",
+      "id": "3701.503-hearing-screening",
+      "normalized": "hearing screening",
+      "scope": "As used in sections 3701.504 to 3701.509 of the Revised Code:",
+      "section": "3701.503",
+      "source_title": "Section 3701.503 - Testing newborns definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3701.503",
+      "term": "Hearing screening"
+    },
+    {
+      "definition": "(E) \"Hearing evaluation\" means evaluation through the use of audiological procedures by an audiologist or physician.",
+      "id": "3701.503-hearing-evaluation",
+      "normalized": "hearing evaluation",
+      "scope": "As used in sections 3701.504 to 3701.509 of the Revised Code:",
+      "section": "3701.503",
+      "source_title": "Section 3701.503 - Testing newborns definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3701.503",
+      "term": "Hearing evaluation"
+    },
+    {
+      "definition": "(F) \"Hearing impairment\" means a loss of hearing in one or both ears in the frequency region important for speech recognition and comprehension.",
+      "id": "3701.503-hearing-impairment",
+      "normalized": "hearing impairment",
+      "scope": "As used in sections 3701.504 to 3701.509 of the Revised Code:",
+      "section": "3701.503",
+      "source_title": "Section 3701.503 - Testing newborns definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3701.503",
+      "term": "Hearing impairment"
+    },
+    {
+      "definition": "(G) \"Newborn\" means a child who is less than thirty days old.",
+      "id": "3701.503-newborn",
+      "normalized": "newborn",
+      "scope": "As used in sections 3701.504 to 3701.509 of the Revised Code:",
+      "section": "3701.503",
+      "source_title": "Section 3701.503 - Testing newborns definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3701.503",
+      "term": "Newborn"
+    },
+    {
+      "definition": "(H) \"Infant\" means a child who is at least thirty days but less than twenty-four months old.",
+      "id": "3701.503-infant",
+      "normalized": "infant",
+      "scope": "As used in sections 3701.504 to 3701.509 of the Revised Code:",
+      "section": "3701.503",
+      "source_title": "Section 3701.503 - Testing newborns definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3701.503",
+      "term": "Infant"
+    },
+    {
+      "definition": "(I) \"Freestanding birthing center\" means any facility in which deliveries routinely occur, regardless of whether the facility is located on the campus of another health care facility.",
+      "id": "3701.503-freestanding-birthing-center",
+      "normalized": "freestanding birthing center",
+      "scope": "As used in sections 3701.504 to 3701.509 of the Revised Code:",
+      "section": "3701.503",
+      "source_title": "Section 3701.503 - Testing newborns definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3701.503",
+      "term": "Freestanding birthing center"
+    },
+    {
+      "definition": "(J) \"Physician\" means an individual authorized under Chapter 4731. of the Revised Code to practice medicine and surgery or osteopathic medicine and surgery.",
+      "id": "3701.503-physician",
+      "normalized": "physician",
+      "scope": "As used in sections 3701.504 to 3701.509 of the Revised Code:",
+      "section": "3701.503",
+      "source_title": "Section 3701.503 - Testing newborns definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3701.503",
+      "term": "Physician"
+    },
+    {
+      "definition": "(K) \"Audiologist\" means an individual authorized under section 4753.07 of the Revised Code to practice audiology.",
+      "id": "3701.503-audiologist",
+      "normalized": "audiologist",
+      "scope": "As used in sections 3701.504 to 3701.509 of the Revised Code:",
+      "section": "3701.503",
+      "source_title": "Section 3701.503 - Testing newborns definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3701.503",
+      "term": "Audiologist"
+    },
+    {
+      "definition": "(L) \"Hospital\" means a hospital that has a maternity unit or newborn nursery.",
+      "id": "3701.503-hospital",
+      "normalized": "hospital",
+      "scope": "As used in sections 3701.504 to 3701.509 of the Revised Code:",
+      "section": "3701.503",
+      "source_title": "Section 3701.503 - Testing newborns definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3701.503",
+      "term": "Hospital"
+    },
+    {
+      "definition": "(M) \"Maternity unit\" means any unit or place in a hospital where women are regularly received and provided care during all or part of the maternity cycle, except that \"maternity unit\" does not include an emergency department or similar place dedicated to providing emergency health care.",
+      "id": "3701.503-maternity-unit",
+      "normalized": "maternity unit",
+      "scope": "As used in sections 3701.504 to 3701.509 of the Revised Code:",
+      "section": "3701.503",
+      "source_title": "Section 3701.503 - Testing newborns definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3701.503",
+      "term": "Maternity unit"
+    },
+    {
+      "definition": "(N) \"Board of health\" means the board of health of a city or general health district or the authority having the duties of a board of health under section 3709.05 of the Revised Code.\n\nLast updated September 30, 2024 at 4:24 AM",
+      "id": "3701.503-board-of-health",
+      "normalized": "board of health",
+      "scope": "As used in sections 3701.504 to 3701.509 of the Revised Code:",
+      "section": "3701.503",
+      "source_title": "Section 3701.503 - Testing newborns definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3701.503",
+      "term": "Board of health"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3701.504",
+      "number": "3701.504",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3701.504"
+    },
+    {
+      "kind": "section",
+      "label": "3701.509",
+      "number": "3701.509",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3701.509"
+    },
+    {
+      "kind": "section",
+      "label": "2111.01",
+      "number": "2111.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2111.01"
+    },
+    {
+      "kind": "section",
+      "label": "2151.011",
+      "number": "2151.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.011"
+    },
+    {
+      "kind": "section",
+      "label": "4753.07",
+      "number": "4753.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4753.07"
+    },
+    {
+      "kind": "section",
+      "label": "3709.05",
+      "number": "3709.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3709.05"
+    }
+  ],
+  "scraped": "2026-07-02T19:50:52+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3701.503",
+  "title": "Section 3701.503 - Testing newborns definitions."
+}

@@ -1,0 +1,16 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-1337.31
+Scraped: 2026-07-02T19:37:22+00:00
+
+# Section 1337.31 - Coagents and successor agents.
+
+**Effective:** March 22, 2012
+
+**Latest Legislation:** Senate Bill 117 - 129th General Assembly
+
+(A) A principal may designate two or more persons to act as coagents. Unless the power of attorney otherwise provides, each coagent may exercise its authority independently.
+
+(B) A principal may designate one or more successor agents to act if an agent resigns, dies, becomes incapacitated, is not qualified to serve, or declines to serve. A principal may grant authority to designate one or more successor agents to an agent or other person designated by name, office, or function. Unless the power of attorney otherwise provides, a successor agent has the same authority as that granted to the original agent and may not act until all predecessor agents have resigned, died, become incapacitated, are no longer qualified to serve, or have declined to serve.
+
+(C) Except as otherwise provided in the power of attorney and division (D) of this section, an agent that does not participate in or conceal a breach of fiduciary duty committed by another agent, including a predecessor agent, is not liable for the actions of the other agent.
+
+(D) An agent that has actual knowledge of a breach or imminent breach of fiduciary duty by another agent shall notify the principal and, if the principal is incapacitated, take any action reasonably appropriate in the circumstances to safeguard the principal's best interest. An agent that fails to notify the principal or take action as required by this division is liable for the reasonably foreseeable damages that could have been avoided if the agent had notified the principal or taken action as required by this division.

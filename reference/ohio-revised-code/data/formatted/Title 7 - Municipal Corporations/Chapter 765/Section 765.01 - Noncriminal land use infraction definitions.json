@@ -1,0 +1,36 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Land use infraction\" means a violation of any municipal zoning code provisions that regulate parking on private property, a motor vehicle service or repair business in residential districts, or signage and other graphics displays, and any municipal ordinance, resolution, or other regulation dealing with the display of house numbers on buildings.",
+      "id": "765.01-land-use-infraction",
+      "normalized": "land use infraction",
+      "scope": "As used in this chapter:",
+      "section": "765.01",
+      "source_title": "Section 765.01 - Noncriminal land use infraction definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-765.01",
+      "term": "Land use infraction"
+    },
+    {
+      "definition": "(B) \"Law enforcement officer\" means a law enforcement officer as defined in section 2901.01 of the Revised Code, code enforcement officer, building inspector, or other officer authorized to enforce any code, ordinance, resolution, or regulation described in division (A) of this section.",
+      "id": "765.01-law-enforcement-officer",
+      "normalized": "law enforcement officer",
+      "scope": "As used in this chapter:",
+      "section": "765.01",
+      "source_title": "Section 765.01 - Noncriminal land use infraction definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-765.01",
+      "term": "Law enforcement officer"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2901.01",
+      "number": "2901.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2901.01"
+    }
+  ],
+  "scraped": "2026-07-02T19:34:10+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-765.01",
+  "title": "Section 765.01 - Noncriminal land use infraction definitions."
+}

@@ -1,0 +1,24 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-1309.707
+Scraped: 2026-07-02T19:37:07+00:00
+
+# Section 1309.707 - Pre-effective-date financing statement - UCC 9-707.
+
+**Effective:** July 1, 2001
+
+**Latest Legislation:** Senate Bill 74 - 124th General Assembly
+
+(A) As used in this section, "pre-effective-date financing statement" means a financing statement filed before July 1, 2001.
+
+(B) On or after July 1, 2001, a person may add or delete collateral covered by, continue or terminate the effectiveness of, or otherwise amend the information provided in, a pre-effective-date financing statement only in accordance with the law of the jurisdiction governing perfection as provided in sections 1309.301 to 1309.342 of the Revised Code, as they exist on July 1, 2001. However, the effectiveness of a pre-effective-date financing statement also may be terminated in accordance with the law of the jurisdiction in which the financing statement is filed.
+
+(C) Except as otherwise provided in division (D) of this section, if the law of this state governs perfection of a security interest, the information in a pre-effective-date financing statement may be amended after July 1, 2001, only if:
+
+(1) The pre-effective-date financing statement and an amendment are filed in the office specified in section 1309.501 of the Revised Code, as it exists on July 1, 2001;
+
+(2) An amendment is filed in the office specified in section 1309.501 of the Revised Code, as it exists on July 1, 2001, concurrently with, or after the filing in that office of, an initial financing statement that satisfies division (C) of section 1309.706 of the Revised Code as it exists on July 1, 2001.
+
+(3) An initial financing statement that provides the information as amended and satisfies division (C) of section 1309.706 of the Revised Code as it exists on July 1, 2001 is filed in the office specified in section 1309.501 of the Revised Code, as it exists on July 1, 2001.
+
+(D) If the law of this state governs perfection of a security interest, the effectiveness of a pre-effective-date financing statement may be continued only under division (D) or (F) of section 1309.705 or section 1309.706 of the Revised Code as it exists on July 1, 2001.
+
+(E) Whether or not the law of this state governs perfection of a security interest, the effectiveness of a pre-effective-date financing statement filed in this state may be terminated after July 1, 2001, by filing a termination statement in the office in which the pre-effective-date financing statement is filed, unless an initial financing statement that satisfies division (C) of section 1309.706 of the Revised Code as it exists on July 1, 2001, has been filed in the office specified by the law of the jurisdiction governing perfection as provided in sections 1309.301 to 1309.342 of the Revised Code, as they exist on July 1, 2001, as the office in which to file a financing statement.

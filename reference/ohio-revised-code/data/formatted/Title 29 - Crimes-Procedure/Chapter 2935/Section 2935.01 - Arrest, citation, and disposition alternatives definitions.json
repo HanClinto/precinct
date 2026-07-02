@@ -1,0 +1,392 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Magistrate\" has the same meaning as in section 2931.01 of the Revised Code.",
+      "id": "2935.01-magistrate",
+      "normalized": "magistrate",
+      "scope": "As used in this chapter:",
+      "section": "2935.01",
+      "source_title": "Section 2935.01 - Arrest, citation, and disposition alternatives definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2935.01",
+      "term": "Magistrate"
+    },
+    {
+      "definition": "(B) \"Peace officer\" includes, except as provided in section 2935.081 of the Revised Code, a sheriff; deputy sheriff; marshal; deputy marshal; member of the organized police department of any municipal corporation, including a member of the organized police department of a municipal corporation in an adjoining state serving in Ohio under a contract pursuant to section 737.04 of the Revised Code; member of a police force employed by a metropolitan housing authority under division (D) of section 3735.31 of the Revised Code; member of a police force employed by a regional transit authority under division (Y) of section 306.35 of the Revised Code; state university law enforcement officer appointed under section 3345.04 of the Revised Code; enforcement agent of the department of public safety designated under section 5502.14 of the Revised Code; employee of the department of taxation to whom investigation powers have been delegated under section 5743.45 of the Revised Code; employee of the department of natural resources who is a natural resources law enforcement staff officer designated pursuant to section 1501.013 of the Revised Code, a forest-fire investigator appointed pursuant to section 1503.09 of the Revised Code, a natural resources officer appointed pursuant to section 1501.24 of the Revised Code, or a wildlife officer designated pursuant to section 1531.13 of the Revised Code; individual designated to perform law enforcement duties under section 511.232 , 1545.13 , or 6101.75 of the Revised Code; veterans' home police officer appointed under section 5907.02 of the Revised Code; special police officer employed by a port authority under section 4582.04 or 4582.28 of the Revised Code; police constable of any township; police officer of a township or joint police district; a special police officer employed by a municipal corporation at a municipal airport, or other municipal air navigation facility, that has scheduled operations, as defined in section 119.3 of Title 14 of the Code of Federal Regulations, 14 C.F.R. 119.3 , as amended, and that is required to be under a security program and is governed by aviation security rules of the transportation security administration of the United States department of transportation as provided in Parts 1542. and 1544. of Title 49 of the Code of Federal Regulations, as amended; the house of representatives sergeant at arms if the house of representatives sergeant at arms has arrest authority pursuant to division (E)(1) of section 101.311 of the Revised Code; an assistant house of representatives sergeant at arms; the senate sergeant at arms; an assistant senate sergeant at arms; officer or employee of the bureau of criminal identification and investigation established pursuant to section 109.51 of the Revised Code who has been awarded a certificate by the executive director of the Ohio peace officer training commission attesting to the officer's or employee's satisfactory completion of an approved state, county, municipal, or department of natural resources peace officer basic training program and who is providing assistance upon request to a law enforcement officer or emergency assistance to a peace officer pursuant to section 109.54 or 109.541 of the Revised Code; a state fire marshal law enforcement officer described in division (A)(23) of section 109.71 of the Revised Code; a gaming agent, as defined in section 3772.01 of the Revised Code; and, for the purpose of arrests within those areas, for the purposes of Chapter 5503. of the Revised Code, and the filing of and service of process relating to those offenses witnessed or investigated by them, the superintendent and troopers of the state highway patrol.",
+      "id": "2935.01-peace-officer",
+      "normalized": "peace officer",
+      "scope": "As used in this chapter:",
+      "section": "2935.01",
+      "source_title": "Section 2935.01 - Arrest, citation, and disposition alternatives definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2935.01",
+      "term": "Peace officer"
+    },
+    {
+      "definition": "(C) \"Prosecutor\" includes the county prosecuting attorney and any assistant prosecutor designated to assist the county prosecuting attorney, and, in the case of courts inferior to courts of common pleas, includes the village solicitor, city director of law, or similar chief legal officer of a municipal corporation, any such officer's assistants, or any attorney designated by the prosecuting attorney of the county to appear for the prosecution of a given case.\n\n(D) \"Offense,\" except where the context specifically indicates otherwise, includes felonies, misdemeanors, and violations of ordinances of municipal corporations and other public bodies authorized by law to adopt penal regulations.",
+      "id": "2935.01-prosecutor",
+      "normalized": "prosecutor",
+      "scope": "As used in this chapter:",
+      "section": "2935.01",
+      "source_title": "Section 2935.01 - Arrest, citation, and disposition alternatives definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2935.01",
+      "term": "Prosecutor"
+    },
+    {
+      "definition": "(E) \"Tier one offense\" means a violation of section 2903.01 , 2903.02 , 2903.03 , 2903.04 , 2903.06 , 2903.11 , 2903.12 , 2903.21 , 2903.211 , 2905.01 , 2905.02 , 2905.32 , 2907.02 , 2907.03 , 2907.04 , 2907.05 , 2907.321 , 2907.322 , 2907.323 , 2909.02 , 2909.03 , 2909.24 , 2911.01 , 2911.02 , 2911.11 , 2919.25 , 2921.34 , 2923.161 , 2950.04 , 2950.041 , 2950.05 , or 2950.06 of the Revised Code.\n\nLast updated March 8, 2023 at 11:34 AM",
+      "id": "2935.01-tier-one-offense",
+      "normalized": "tier one offense",
+      "scope": "As used in this chapter:",
+      "section": "2935.01",
+      "source_title": "Section 2935.01 - Arrest, citation, and disposition alternatives definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2935.01",
+      "term": "Tier one offense"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2931.01",
+      "number": "2931.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2931.01"
+    },
+    {
+      "kind": "section",
+      "label": "2935.081",
+      "number": "2935.081",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2935.081"
+    },
+    {
+      "kind": "section",
+      "label": "737.04",
+      "number": "737.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-737.04"
+    },
+    {
+      "kind": "section",
+      "label": "3735.31",
+      "number": "3735.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3735.31"
+    },
+    {
+      "kind": "section",
+      "label": "306.35",
+      "number": "306.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-306.35"
+    },
+    {
+      "kind": "section",
+      "label": "3345.04",
+      "number": "3345.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3345.04"
+    },
+    {
+      "kind": "section",
+      "label": "5502.14",
+      "number": "5502.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5502.14"
+    },
+    {
+      "kind": "section",
+      "label": "5743.45",
+      "number": "5743.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5743.45"
+    },
+    {
+      "kind": "section",
+      "label": "1501.013",
+      "number": "1501.013",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1501.013"
+    },
+    {
+      "kind": "section",
+      "label": "1503.09",
+      "number": "1503.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1503.09"
+    },
+    {
+      "kind": "section",
+      "label": "1501.24",
+      "number": "1501.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1501.24"
+    },
+    {
+      "kind": "section",
+      "label": "1531.13",
+      "number": "1531.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1531.13"
+    },
+    {
+      "kind": "section",
+      "label": "511.232",
+      "number": "511.232",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-511.232"
+    },
+    {
+      "kind": "section",
+      "label": "1545.13",
+      "number": "1545.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1545.13"
+    },
+    {
+      "kind": "section",
+      "label": "6101.75",
+      "number": "6101.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.75"
+    },
+    {
+      "kind": "section",
+      "label": "5907.02",
+      "number": "5907.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5907.02"
+    },
+    {
+      "kind": "section",
+      "label": "4582.04",
+      "number": "4582.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4582.04"
+    },
+    {
+      "kind": "section",
+      "label": "4582.28",
+      "number": "4582.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4582.28"
+    },
+    {
+      "kind": "section",
+      "label": "119.3",
+      "number": "119.3",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-119.3"
+    },
+    {
+      "kind": "section",
+      "label": "101.311",
+      "number": "101.311",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-101.311"
+    },
+    {
+      "kind": "section",
+      "label": "109.51",
+      "number": "109.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.51"
+    },
+    {
+      "kind": "section",
+      "label": "109.54",
+      "number": "109.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.54"
+    },
+    {
+      "kind": "section",
+      "label": "109.541",
+      "number": "109.541",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.541"
+    },
+    {
+      "kind": "section",
+      "label": "109.71",
+      "number": "109.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.71"
+    },
+    {
+      "kind": "section",
+      "label": "3772.01",
+      "number": "3772.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3772.01"
+    },
+    {
+      "kind": "section",
+      "label": "2903.01",
+      "number": "2903.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2903.01"
+    },
+    {
+      "kind": "section",
+      "label": "2903.02",
+      "number": "2903.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2903.02"
+    },
+    {
+      "kind": "section",
+      "label": "2903.03",
+      "number": "2903.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2903.03"
+    },
+    {
+      "kind": "section",
+      "label": "2903.04",
+      "number": "2903.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2903.04"
+    },
+    {
+      "kind": "section",
+      "label": "2903.06",
+      "number": "2903.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2903.06"
+    },
+    {
+      "kind": "section",
+      "label": "2903.11",
+      "number": "2903.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2903.11"
+    },
+    {
+      "kind": "section",
+      "label": "2903.12",
+      "number": "2903.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2903.12"
+    },
+    {
+      "kind": "section",
+      "label": "2903.21",
+      "number": "2903.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2903.21"
+    },
+    {
+      "kind": "section",
+      "label": "2903.211",
+      "number": "2903.211",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2903.211"
+    },
+    {
+      "kind": "section",
+      "label": "2905.01",
+      "number": "2905.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2905.01"
+    },
+    {
+      "kind": "section",
+      "label": "2905.02",
+      "number": "2905.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2905.02"
+    },
+    {
+      "kind": "section",
+      "label": "2905.32",
+      "number": "2905.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2905.32"
+    },
+    {
+      "kind": "section",
+      "label": "2907.02",
+      "number": "2907.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2907.02"
+    },
+    {
+      "kind": "section",
+      "label": "2907.03",
+      "number": "2907.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2907.03"
+    },
+    {
+      "kind": "section",
+      "label": "2907.04",
+      "number": "2907.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2907.04"
+    },
+    {
+      "kind": "section",
+      "label": "2907.05",
+      "number": "2907.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2907.05"
+    },
+    {
+      "kind": "section",
+      "label": "2907.321",
+      "number": "2907.321",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2907.321"
+    },
+    {
+      "kind": "section",
+      "label": "2907.322",
+      "number": "2907.322",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2907.322"
+    },
+    {
+      "kind": "section",
+      "label": "2907.323",
+      "number": "2907.323",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2907.323"
+    },
+    {
+      "kind": "section",
+      "label": "2909.02",
+      "number": "2909.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2909.02"
+    },
+    {
+      "kind": "section",
+      "label": "2909.03",
+      "number": "2909.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2909.03"
+    },
+    {
+      "kind": "section",
+      "label": "2909.24",
+      "number": "2909.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2909.24"
+    },
+    {
+      "kind": "section",
+      "label": "2911.01",
+      "number": "2911.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2911.01"
+    },
+    {
+      "kind": "section",
+      "label": "2911.02",
+      "number": "2911.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2911.02"
+    },
+    {
+      "kind": "section",
+      "label": "2911.11",
+      "number": "2911.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2911.11"
+    },
+    {
+      "kind": "section",
+      "label": "2919.25",
+      "number": "2919.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2919.25"
+    },
+    {
+      "kind": "section",
+      "label": "2921.34",
+      "number": "2921.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2921.34"
+    },
+    {
+      "kind": "section",
+      "label": "2923.161",
+      "number": "2923.161",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2923.161"
+    },
+    {
+      "kind": "section",
+      "label": "2950.04",
+      "number": "2950.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2950.04"
+    },
+    {
+      "kind": "section",
+      "label": "2950.041",
+      "number": "2950.041",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2950.041"
+    },
+    {
+      "kind": "section",
+      "label": "2950.05",
+      "number": "2950.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2950.05"
+    },
+    {
+      "kind": "section",
+      "label": "2950.06",
+      "number": "2950.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2950.06"
+    }
+  ],
+  "scraped": "2026-07-02T19:46:39+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2935.01",
+  "title": "Section 2935.01 - Arrest, citation, and disposition alternatives definitions."
+}

@@ -1,0 +1,110 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Actuary\" means a person who is a member in good standing of the American academy of actuaries.",
+      "id": "3905.71-actuary",
+      "normalized": "actuary",
+      "scope": "As used in sections 3905.71 to 3905.79 of the Revised Code:",
+      "section": "3905.71",
+      "source_title": "Section 3905.71 - Managing general agent definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3905.71",
+      "term": "Actuary"
+    },
+    {
+      "definition": "(B) \"Insurer\" means any person licensed to do business in this state under Chapter 1751. or 1761. of the Revised Code or Title XXXIX of the Revised Code.",
+      "id": "3905.71-insurer",
+      "normalized": "insurer",
+      "scope": "As used in sections 3905.71 to 3905.79 of the Revised Code:",
+      "section": "3905.71",
+      "source_title": "Section 3905.71 - Managing general agent definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3905.71",
+      "term": "Insurer"
+    },
+    {
+      "definition": "(C) \"Laws of this state relating to insurance\" has the same meaning as in section 3901.04 of the Revised Code.",
+      "id": "3905.71-laws-of-this-state-relating-to-insurance",
+      "normalized": "laws of this state relating to insurance",
+      "scope": "As used in sections 3905.71 to 3905.79 of the Revised Code:",
+      "section": "3905.71",
+      "source_title": "Section 3905.71 - Managing general agent definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3905.71",
+      "term": "Laws of this state relating to insurance"
+    },
+    {
+      "definition": "(D)(1) \"Managing general agent\" means any person that does all of the following:\n\n(a) Manages all or part of the insurance business of an insurer, including the management of a separate division, department, or underwriting office, or negotiates and binds ceding reinsurance contracts on behalf of an insurer;\n\n(b) Acts as an agent for the insurer, whether known as a managing general agent, manager, or other similar term;\n\n(c) With or without the authority of the insurer, separately or together with affiliates, does both of the following:\n\n(i) Produces, directly or indirectly, and underwrites an amount of gross direct written premium equal to or more than five per cent of the policyholder surplus of the insurer as reported in the last annual statement of the insurer in any one year;\n\n(ii) Adjusts or pays claims, or negotiates reinsurance on behalf of the insurer.",
+      "id": "3905.71-managing-general-agent",
+      "normalized": "managing general agent",
+      "scope": "As used in sections 3905.71 to 3905.79 of the Revised Code:",
+      "section": "3905.71",
+      "source_title": "Section 3905.71 - Managing general agent definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3905.71",
+      "term": "Managing general agent"
+    },
+    {
+      "definition": "(2) \"Managing general agent\" does not include any of the following:\n\n(a) An employee of the insurer;\n\n(b) A United States manager of the United States branch of an alien insurer;\n\n(c) An underwriting manager that, pursuant to contract, manages all or a part of the insurance operations of the insurer, is under common control with the insurer, subject to sections 3901.32 to 3901.37 of the Revised Code, and whose compensation is not based on the volume of premiums written;\n\n(d) The attorney authorized by and acting for the subscribers of a reciprocal insurer or inter-insurance exchange under powers of attorney;\n\n(e) An administrator licensed pursuant to Chapter 3959. of the Revised Code whose activities on behalf of an insurer are limited to administrative services involving underwriting or the payment of claims, and do not include the management of all or part of the insurance business of the insurer.",
+      "id": "3905.71-managing-general-agent",
+      "normalized": "managing general agent",
+      "scope": "As used in sections 3905.71 to 3905.79 of the Revised Code:",
+      "section": "3905.71",
+      "source_title": "Section 3905.71 - Managing general agent definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3905.71",
+      "term": "Managing general agent"
+    },
+    {
+      "definition": "(E) \"Underwrite\" or \"underwriting\" means the authority to accept or reject risk on behalf of an insurer.",
+      "id": "3905.71-underwrite",
+      "normalized": "underwrite",
+      "scope": "As used in sections 3905.71 to 3905.79 of the Revised Code:",
+      "section": "3905.71",
+      "source_title": "Section 3905.71 - Managing general agent definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3905.71",
+      "term": "Underwrite"
+    },
+    {
+      "definition": "(E) \"Underwrite\" or \"underwriting\" means the authority to accept or reject risk on behalf of an insurer.",
+      "id": "3905.71-underwriting",
+      "normalized": "underwriting",
+      "scope": "As used in sections 3905.71 to 3905.79 of the Revised Code:",
+      "section": "3905.71",
+      "source_title": "Section 3905.71 - Managing general agent definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3905.71",
+      "term": "underwriting"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3905.71",
+      "number": "3905.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3905.71"
+    },
+    {
+      "kind": "section",
+      "label": "3905.79",
+      "number": "3905.79",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3905.79"
+    },
+    {
+      "kind": "section",
+      "label": "3901.04",
+      "number": "3901.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.04"
+    },
+    {
+      "kind": "section",
+      "label": "3901.32",
+      "number": "3901.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.32"
+    },
+    {
+      "kind": "section",
+      "label": "3901.37",
+      "number": "3901.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.37"
+    }
+  ],
+  "scraped": "2026-07-02T20:02:17+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3905.71",
+  "title": "Section 3905.71 - Managing general agent definitions."
+}

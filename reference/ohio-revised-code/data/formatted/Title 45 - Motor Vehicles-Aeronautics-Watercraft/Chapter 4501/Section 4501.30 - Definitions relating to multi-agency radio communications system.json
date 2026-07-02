@@ -1,0 +1,52 @@
+{
+  "glossary": [
+    {
+      "definition": "\"MARCS\" means the multi-agency radio communications system.",
+      "id": "4501.30-marcs",
+      "normalized": "marcs",
+      "scope": "As used in sections 4501.30 to 4501.303 of the Revised Code:",
+      "section": "4501.30",
+      "source_title": "Section 4501.30 - Definitions relating to multi-agency radio communications system.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4501.30",
+      "term": "MARCS"
+    },
+    {
+      "definition": "\"P25 standards\" means standards for digital radio communications for use by federal, state, provincial, and local public safety agencies in North America to enable communications with other agencies and mutual aid response teams in emergencies. \"P25 standards\" are the standards produced through the joint efforts of the association of public-safety communications officials, the national association of state technology directors, selected federal agencies, and the national communications system.",
+      "id": "4501.30-p25-standards",
+      "normalized": "p25 standards",
+      "scope": "As used in sections 4501.30 to 4501.303 of the Revised Code:",
+      "section": "4501.30",
+      "source_title": "Section 4501.30 - Definitions relating to multi-agency radio communications system.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4501.30",
+      "term": "P25 standards"
+    },
+    {
+      "definition": "\"P25 system\" means a communications system that meets P25 standards and fosters interoperability in mission critical communications.\n\nLast updated August 5, 2025 at 11:54 AM",
+      "id": "4501.30-p25-system",
+      "normalized": "p25 system",
+      "scope": "As used in sections 4501.30 to 4501.303 of the Revised Code:",
+      "section": "4501.30",
+      "source_title": "Section 4501.30 - Definitions relating to multi-agency radio communications system.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4501.30",
+      "term": "P25 system"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "4501.30",
+      "number": "4501.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4501.30"
+    },
+    {
+      "kind": "section",
+      "label": "4501.303",
+      "number": "4501.303",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4501.303"
+    }
+  ],
+  "scraped": "2026-07-02T20:05:16+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4501.30",
+  "title": "Section 4501.30 - Definitions relating to multi-agency radio communications system."
+}

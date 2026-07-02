@@ -1,0 +1,36 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Health care provider\" has the same meaning as in division (B)(5) of section 2317.02 of the Revised Code.",
+      "id": "2323.45-health-care-provider",
+      "normalized": "health care provider",
+      "scope": "(F) As used in this section:",
+      "section": "2323.45",
+      "source_title": "Section 2323.45 - Medical liability action - affidavit of noninvolvement by health care provider - procedure.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2323.45",
+      "term": "Health care provider"
+    },
+    {
+      "definition": "(2) \"Medical claim\" means any claim that is asserted in any civil action against a health care provider and that arises out of the medical diagnosis, care, or treatment of any person. \"Medical claim\" includes derivative claims for relief.",
+      "id": "2323.45-medical-claim",
+      "normalized": "medical claim",
+      "scope": "(F) As used in this section:",
+      "section": "2323.45",
+      "source_title": "Section 2323.45 - Medical liability action - affidavit of noninvolvement by health care provider - procedure.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2323.45",
+      "term": "Medical claim"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2317.02",
+      "number": "2317.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2317.02"
+    }
+  ],
+  "scraped": "2026-07-02T19:44:12+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2323.45",
+  "title": "Section 2323.45 - Medical liability action - affidavit of noninvolvement by health care provider - procedure."
+}

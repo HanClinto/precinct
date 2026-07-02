@@ -1,0 +1,98 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Countable assets\" means all of the following:\n\n(1) Cash;\n\n(2) Bank deposits;\n\n(3) Securities;\n\n(4) Individual retirement accounts;\n\n(5) Qualified employer plans, including 401(k) and Keogh plans;\n\n(6) Annuities;\n\n(7) Funds in a trust created under section 5815.28 of the Revised Code;\n\n(8) Investment property and income;\n\n(9) The cash surrender values of life insurance policies;\n\n(10) Assets acquired by gift, bequest, devise, or inheritance;\n\n(11) Any other asset determined by the department of mental health and addiction services to be equivalent to the assets enumerated in this division.",
+      "id": "5121.30-countable-assets",
+      "normalized": "countable assets",
+      "scope": "As used in sections 5121.30 to 5121.56 of the Revised Code:",
+      "section": "5121.30",
+      "source_title": "Section 5121.30 - Community mental health services definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5121.30",
+      "term": "Countable assets"
+    },
+    {
+      "definition": "(B) \"Federal poverty level\" or \"FPL\" means the income level represented by the poverty guidelines as revised annually by the United States department of health and human services in accordance with section 673(2) of the \"Omnibus Reconciliation Act of 1981,\" 95 Stat. 511, 42 U.S.C. 9902, as amended, for a family size equal to the size of the family of the person whose income is being determined.",
+      "id": "5121.30-federal-poverty-level",
+      "normalized": "federal poverty level",
+      "scope": "As used in sections 5121.30 to 5121.56 of the Revised Code:",
+      "section": "5121.30",
+      "source_title": "Section 5121.30 - Community mental health services definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5121.30",
+      "term": "Federal poverty level"
+    },
+    {
+      "definition": "(B) \"Federal poverty level\" or \"FPL\" means the income level represented by the poverty guidelines as revised annually by the United States department of health and human services in accordance with section 673(2) of the \"Omnibus Reconciliation Act of 1981,\" 95 Stat. 511, 42 U.S.C. 9902, as amended, for a family size equal to the size of the family of the person whose income is being determined.",
+      "id": "5121.30-fpl",
+      "normalized": "fpl",
+      "scope": "As used in sections 5121.30 to 5121.56 of the Revised Code:",
+      "section": "5121.30",
+      "source_title": "Section 5121.30 - Community mental health services definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5121.30",
+      "term": "FPL"
+    },
+    {
+      "definition": "(C) \"Federal poverty guidelines\" means the poverty guidelines as revised annually by the United States department of health and human services in accordance with section 673(2) of the \"Omnibus Budget Reconciliation Act of 1981,\" 95 Stat. 511, 42 U.S.C. 9902, as amended, for a family size equal to the size of the family of the person whose income is being determined.",
+      "id": "5121.30-federal-poverty-guidelines",
+      "normalized": "federal poverty guidelines",
+      "scope": "As used in sections 5121.30 to 5121.56 of the Revised Code:",
+      "section": "5121.30",
+      "source_title": "Section 5121.30 - Community mental health services definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5121.30",
+      "term": "Federal poverty guidelines"
+    },
+    {
+      "definition": "(D) \"Hospital\" means an institution, hospital, or other place established, controlled, or supervised by the department of mental health and addiction services under Chapter 5119. of the Revised Code, except when otherwise described only as a hospital operated by the department.",
+      "id": "5121.30-hospital",
+      "normalized": "hospital",
+      "scope": "As used in sections 5121.30 to 5121.56 of the Revised Code:",
+      "section": "5121.30",
+      "source_title": "Section 5121.30 - Community mental health services definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5121.30",
+      "term": "Hospital"
+    },
+    {
+      "definition": "(E) \"Liable relative\" means all of the following:\n\n(1) A patient's spouse;\n\n(2) A patient's mother or father, or both, if the patient is under eighteen years of age;\n\n(3) A patient's guardian.",
+      "id": "5121.30-liable-relative",
+      "normalized": "liable relative",
+      "scope": "As used in sections 5121.30 to 5121.56 of the Revised Code:",
+      "section": "5121.30",
+      "source_title": "Section 5121.30 - Community mental health services definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5121.30",
+      "term": "Liable relative"
+    },
+    {
+      "definition": "(F) \"Patient\" means a person admitted to a hospital for inpatient care or treatment, including a person transferred to a hospital from a state correctional institution or a person under indictment or conviction who has been transferred to a hospital.\n\nLast updated August 8, 2025 at 11:27 AM",
+      "id": "5121.30-patient",
+      "normalized": "patient",
+      "scope": "As used in sections 5121.30 to 5121.56 of the Revised Code:",
+      "section": "5121.30",
+      "source_title": "Section 5121.30 - Community mental health services definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5121.30",
+      "term": "Patient"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "5121.30",
+      "number": "5121.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5121.30"
+    },
+    {
+      "kind": "section",
+      "label": "5121.56",
+      "number": "5121.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5121.56"
+    },
+    {
+      "kind": "section",
+      "label": "5815.28",
+      "number": "5815.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5815.28"
+    }
+  ],
+  "scraped": "2026-07-02T20:10:47+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5121.30",
+  "title": "Section 5121.30 - Community mental health services definitions."
+}

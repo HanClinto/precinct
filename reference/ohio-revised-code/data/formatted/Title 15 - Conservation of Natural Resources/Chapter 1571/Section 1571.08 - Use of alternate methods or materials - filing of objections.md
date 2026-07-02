@@ -1,0 +1,14 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-1571.08
+Scraped: 2026-07-02T19:39:00+00:00
+
+# Section 1571.08 - Use of alternate methods or materials - filing of objections.
+
+**Effective:** October 3, 2023
+
+**Latest Legislation:** House Bill 33 - 135th General Assembly
+
+(A) Whenever in this chapter, the method or material to be used in discharging any obligations imposed by this chapter is specified, an alternative method or material may be used if approved by the gas storage well inspector or the chief of the division of oil and gas resources management. A person desiring to use such alternative method or material shall file with the division of oil and gas resources management an application for permission to do so. Such application shall describe such alternative method or material in reasonable detail. The gas storage well inspector shall promptly send by certified mail or electronic format notice of the filing of such application to any coal mine operator or reservoir operator whose mine or reservoir may be directly affected thereby. Any such coal mine operator or reservoir operator may within ten days following receipt of such notice, file with the division objections to such application. The gas storage well inspector may also file with the division an objection to such application at any time during which coal mine operators or reservoir operators are permitted to file objections. If no objections are filed within the ten-day period of time, the gas storage well inspector shall thereupon issue a permit approving the use of such alternative method or material. If any such objections are filed by any coal mine operator or reservoir operator, or by the gas storage well inspector, the question as to whether or not the use of such alternative method or material, or a modification thereof is approved, shall be determined by a conference or hearing as provided in section 1571.10 of the Revised Code.
+
+(B) Whenever in this chapter, provision is made for the filing of objections with the division, such objections shall be in writing and shall state as definitely as is reasonably possible the reasons for such objections. Upon the filing of any such objection the gas storage well inspector shall promptly fix the time and place for holding a conference for the purpose of discussing and endeavoring to resolve by mutual agreement the issue raised by such objection. The gas storage well inspector shall send written notice thereof by certified mail or electronic format to each person having a direct interest therein. Thereupon the issue made by such objection shall be determined by a conference or hearing in accordance with the procedures for conferences and hearings as provided in section 1571.10 of the Revised Code.
+
+Last updated August 9, 2023 at 1:34 PM

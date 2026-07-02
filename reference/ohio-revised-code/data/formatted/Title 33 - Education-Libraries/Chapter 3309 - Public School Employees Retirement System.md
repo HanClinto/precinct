@@ -1,0 +1,164 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-3309
+Scraped: 2026-07-02T19:48:28+00:00
+
+# Chapter 3309 - Public School Employees Retirement System
+
+## Sections
+
+- Section 3309.01 - Public school employees retirement system definitions.
+- Section 3309.011 - Exclusions from definition of employee.
+- Section 3309.012 - Board member to elect whether to become member of system.
+- Section 3309.013 - Exclusions from definition of employee under ORC section 3309.01.
+- Section 3309.02 - Credit for military service.
+- Section 3309.021 - Purchasing military service credit.
+- Section 3309.022 - Purchasing uniformed services credit.
+- Section 3309.03 - School employees retirement system - board.
+- Section 3309.031 - System consists of plans established by chapter.
+- Section 3309.04 - General administration and management vested in board.
+- Section 3309.041 - Travel expense policies - bonus policy - budget.
+- Section 3309.042 - Ethics policy - commission approval - ethics training.
+- Section 3309.043 - Chief investment officer - supervision duties - monitoring of securities transactions.
+- Section 3309.044 - Selection of internal auditor.
+- Section 3309.05 - Board membership.
+- Section 3309.051 - Orientation program required for new members - continuing education.
+- Section 3309.052 - Members with excessive travel expenses ineligible for another term.
+- Section 3309.06 - Board elections.
+- Section 3309.061 - Disqualification of convicted member - misconduct in office - removal procedure.
+- Section 3309.07 - Electing employee and retirant members.
+- Section 3309.071 - No election when only one nominee for employee or retirant member.
+- Section 3309.072 - Candidate campaign finance statements - donor statement of independent expenditures.
+- Section 3309.073 - Filing of statements - prohibited campaign activities.
+- Section 3309.074 - Complaint alleging violation of RC 3309.073 - procedure - fine.
+- Section 3309.075 - Adoption of election rules - certification of nominating petitions and election results.
+- Section 3309.08 - Oath of office.
+- Section 3309.09 - Quorum.
+- Section 3309.091 - Video conference meetings.
+- Section 3309.10 - Service on board; reimbursement for employer; expenses; liability insurance.
+- Section 3309.11 - Officers - executive director.
+- Section 3309.12 - Treasurer of state is custodian of funds.
+- Section 3309.13 - Legal adviser.
+- Section 3309.14 - Technical and administrative employees - retirement applications.
+- Section 3309.15 - Investment and fiduciary duties of board.
+- Section 3309.155 - Prohibited business transactions.
+- Section 3309.156 - Restrictions on fiduciaries.
+- Section 3309.157 - Designation of Ohio-qualified agents - selection policy - utilization - annual report.
+- Section 3309.158 - Annual disclosures to Ohio Ethics Commission.
+- Section 3309.159 - Designation of Ohio-qualified investment managers - utilization - annual report.
+- Section 3309.16 - Denomination or consolidation of bonds.
+- Section 3309.17 - Record of proceedings between board and taxing district.
+- Section 3309.18 - Interest credited annually.
+- Section 3309.19 - Trustee or employee of board shall have no interest in profits nor borrow funds.
+- Section 3309.20 - Maintenance of individual account.
+- Section 3309.21 - Actuarial valuation of pension assets, liabilities, and funding requirements.
+- Section 3309.211 - Amortizing unfunded actuarial accrued pension liability.
+- Section 3309.212 - Study to determine percentage of electing employee's compensation to be contributed by public institution of higher education.
+- Section 3309.22 - Annual statement of funds.
+- Section 3309.23 - Contributors to school employees retirement system.
+- Section 3309.24 - Members of local district pension system excluded from membership - membership by petition.
+- Section 3309.25 - Information to new employees.
+- Section 3309.251 - Electing defined benefit or defined contribution plan.
+- Section 3309.252 - Employee with less than 5 years of service electing to participate in defined contribution plan.
+- Section 3309.253 - Effect of electing defined contribution plan.
+- Section 3309.26 - Restoring service credit.
+- Section 3309.261 - Payroll deduction plans - restoring PERS or STERS credit.
+- Section 3309.262 - Proceedings on request for restoration of service credit.
+- Section 3309.27 - Payroll deduction plans.
+- Section 3309.28 - Statement to be filed by employee member.
+- Section 3309.29 - Verifying termination of active service.
+- Section 3309.30 - Service credit.
+- Section 3309.301 - Purchase of service credit for period of self-exemption.
+- Section 3309.31 - Credit for prior service - comparable public position.
+- Section 3309.311 - Purchasing credit for service as school board member.
+- Section 3309.312 - University of Akron law enforcement officers electing transfer to public employees retirement system.
+- Section 3309.32 - Prior service credit.
+- Section 3309.33 - Retirement incentive plan.
+- Section 3309.34 - Eligibility for service retirement.
+- Section 3309.341 - Employment of retirant.
+- Section 3309.343 - Continuing contributions to state system after retirement.
+- Section 3309.344 - Retirant may apply for monthly annuity or lump sum payment.
+- Section 3309.345 - Reemployed superannuate or rehire in position filled by vote of members of board or commission.
+- Section 3309.35 - Coordinating and integrating membership in state retirement systems.
+- Section 3309.353 - Increase in benefits established prior to 2/1/1983.
+- Section 3309.354 - Increase in benefits where eligibility established prior to 9-9-88.
+- Section 3309.36 - Allowances for service retirement.
+- Section 3309.361 - Annual lifetime benefit.
+- Section 3309.362 - Increase in annual amount of benefit effective 7-1-81.
+- Section 3309.363 - Contribution based benefit cap.
+- Section 3309.374 - Cost of living increase.
+- Section 3309.375 - Benefits equivalent to medicare.
+- Section 3309.376 - Additional monthly payment as of 12-31-71.
+- Section 3309.377 - Additional monthly payment where member died prior to 7-1-68.
+- Section 3309.378 - Additional monthly payment as of 12-19-73.
+- Section 3309.379 - Recalculating benefits.
+- Section 3309.3710 - Increase in monthly allowance, pension or benefit effective 7-1-81.
+- Section 3309.3711 - Increasing pension, benefit, or allowance when limits of 26 USC 415 are raised.
+- Section 3309.3712 - Establishing and maintaining qualified governmental excess benefit arrangement.
+- Section 3309.381 - Disability allowance recipient applying for service retirement.
+- Section 3309.39 - Providing disability coverage for on-duty illness or injury.
+- Section 3309.391 - Annual report disability retirement experience of each employer.
+- Section 3309.392 - Social security disability insurance benefits.
+- Section 3309.40 - Benefits upon disability retirement.
+- Section 3309.401 - Annual amount of disability allowance.
+- Section 3309.41 - Disability benefit recipient to retain membership status.
+- Section 3309.42 - Payment to member who ceases to be a public employee.
+- Section 3309.43 - Payments to members who are members of another state retirement system.
+- Section 3309.44 - Designation or qualification of beneficiaries.
+- Section 3309.45 - Beneficiary may substitute other benefits.
+- Section 3309.451 - Service credit purchased upon death of member.
+- Section 3309.46 - Electing a plan of payment.
+- Section 3309.47 - Contribution of contributor.
+- Section 3309.471 - Contributions during disability leave.
+- Section 3309.472 - Purchasing service credit for time spent on pregnancy.
+- Section 3309.473 - Purchasing service credit for time spent on pregnancy or adoption.
+- Section 3309.474 - Purchase of service credits for leaves of absence.
+- Section 3309.48 - Employer failing to deduct employee contribution.
+- Section 3309.49 - Employer contribution.
+- Section 3309.491 - Employer minimum compensation contribution.
+- Section 3309.50 - Payment of death benefit.
+- Section 3309.51 - Payment into employers' trust fund.
+- Section 3309.53 - Written statement to employee of duties and obligations.
+- Section 3309.55 - Notifying board of personnel changes.
+- Section 3309.56 - Deductions; report.
+- Section 3309.57 - Transmission of contributions.
+- Section 3309.571 - Penalties.
+- Section 3309.59 - Levying additional taxes.
+- Section 3309.60 - Creation of funds - trustees.
+- Section 3309.61 - Each fund is separate legal entity.
+- Section 3309.62 - Estimating expenses annually.
+- Section 3309.63 - Merger of local pension system with school employees retirement system - procedure.
+- Section 3309.64 - Payment of accrued liability - interest - rate.
+- Section 3309.65 - Procedure for transfer of moneys and securities in event of merger.
+- Section 3309.66 - Tax exemptions.
+- Section 3309.661 - Acquiring vested right in pension when granted.
+- Section 3309.662 - Waiver of rights.
+- Section 3309.663 - Payroll deduction of membership dues and fees of retiree organizations.
+- Section 3309.67 - Restitution order based on theft in office or certain sex offenses.
+- Section 3309.671 - Order for division of marital property.
+- Section 3309.672 - Forfeiture of retirement benefits under RC 2929.192.
+- Section 3309.673 - Benefits subject to termination.
+- Section 3309.68 - Payment of amounts due retirement system from treasury.
+- Section 3309.69 - Group health care coverage for eligible individuals or dependents.
+- Section 3309.691 - Establishing programs for long term health care insurance.
+- Section 3309.692 - Additional deposits to fund medical expenses.
+- Section 3309.70 - Recovering erroneous payments.
+- Section 3309.73 - Credit for service in uniform retirement system.
+- Section 3309.731 - Transferred service credit from uniform retirement system.
+- Section 3309.74 - Transferring service credit and contributions between SERS and Cincinnati retirement system.
+- Section 3309.75 - Eligibility for credit for service in Cincinnati retirement system.
+- Section 3309.76 - Transferring contributions to Cincinnati retirement system.
+- Section 3309.80 - Rules for defined contribution plans.
+- Section 3309.81 - Establishment and administration of defined contribution plan.
+- Section 3309.811 - Qualification of plan as governmental plan for federal tax purposes.
+- Section 3309.812 - Qualification of plan as retirement system maintained by a state or local government entity for federal tax purposes.
+- Section 3309.813 - Maintaining individual account for each participant.
+- Section 3309.82 - Application of chapter to defined contribution plan.
+- Section 3309.85 - Contributions of members.
+- Section 3309.86 - Contributions of employers.
+- Section 3309.87 - Deposit and crediting of contributions.
+- Section 3309.88 - Transfer of portion of employer contribution to employers' trust fund to mitigate negative financial impact on system.
+- Section 3309.91 - Member rights governed by plan selected.
+- Section 3309.92 - Spousal consent or waiver.
+- Section 3309.95 - Right to payment or benefit vested.
+- Section 3309.97 - Deposits of members.
+- Section 3309.98 - Ceasing contributions.
+- Section 3309.99 - Penalty.

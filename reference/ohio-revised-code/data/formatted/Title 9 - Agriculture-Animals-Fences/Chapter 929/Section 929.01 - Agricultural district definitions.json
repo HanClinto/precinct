@@ -1,0 +1,62 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Agricultural production\" means commercial aquaculture, algaculture meaning the farming of algae, apiculture, animal husbandry, or poultry husbandry; the production for a commercial purpose of timber, field crops, tobacco, fruits, vegetables, nursery stock, ornamental shrubs, ornamental trees, flowers, or sod; the growth of timber for a noncommercial purpose if the land on which the timber is grown is contiguous to or part of a parcel of land under common ownership that is otherwise devoted exclusively to agricultural use; or any combination of such husbandry, production, or growth; and includes the processing, drying, storage, and marketing of agricultural products when those activities are conducted in conjunction with such husbandry, production, or growth.",
+      "id": "929.01-agricultural-production",
+      "normalized": "agricultural production",
+      "scope": "As used in this chapter:",
+      "section": "929.01",
+      "source_title": "Section 929.01 - Agricultural district definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-929.01",
+      "term": "Agricultural production"
+    },
+    {
+      "definition": "\"Agricultural production\" includes conservation practices, provided that the tracts, lots, or parcels of land or portions thereof that are used for conservation practices comprise not more than twenty-five per cent of tracts, lots, or parcels of land that are otherwise devoted exclusively to agricultural use and for which an application is filed under section 929.02 of the Revised Code.",
+      "id": "929.01-agricultural-production",
+      "normalized": "agricultural production",
+      "scope": "As used in this chapter:",
+      "section": "929.01",
+      "source_title": "Section 929.01 - Agricultural district definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-929.01",
+      "term": "Agricultural production"
+    },
+    {
+      "definition": "(B) \"Withdrawal from an agricultural district\" includes the explicit removal of land from an agricultural district, conversion of land in an agricultural district to use for purposes other than agricultural production, and withdrawal of land from a land retirement or conservation program to use for purposes other than agricultural production. Withdrawal from an agricultural district does not include land described in division (A)(3) of section 5713.30 of the Revised Code.",
+      "id": "929.01-withdrawal-from-an-agricultural-district",
+      "normalized": "withdrawal from an agricultural district",
+      "scope": "As used in this chapter:",
+      "section": "929.01",
+      "source_title": "Section 929.01 - Agricultural district definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-929.01",
+      "term": "Withdrawal from an agricultural district"
+    },
+    {
+      "definition": "(C) \"Conservation practice\" has the same meaning as in section 5713.30 of the Revised Code.",
+      "id": "929.01-conservation-practice",
+      "normalized": "conservation practice",
+      "scope": "As used in this chapter:",
+      "section": "929.01",
+      "source_title": "Section 929.01 - Agricultural district definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-929.01",
+      "term": "Conservation practice"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "929.02",
+      "number": "929.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-929.02"
+    },
+    {
+      "kind": "section",
+      "label": "5713.30",
+      "number": "5713.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5713.30"
+    }
+  ],
+  "scraped": "2026-07-02T19:35:24+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-929.01",
+  "title": "Section 929.01 - Agricultural district definitions."
+}

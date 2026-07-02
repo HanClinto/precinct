@@ -1,0 +1,18 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-323.17
+Scraped: 2026-07-02T19:32:49+00:00
+
+# Section 323.17 - Extending time for delivery of tax duplicate.
+
+**Effective:** April 7, 2023
+
+**Latest Legislation:** House Bill 458 - 134th General Assembly
+
+When any taxing authority in the county has certified to the board of elections a resolution that would serve to place upon the ballot at a general election or at any special election held prior to the general election but subsequent to the first Tuesday after the first Monday in May the question of a tax to be levied on the current tax list and duplicate for any purpose, or if the auditor has not received the certified reduction factors as required by division (D)(2) of section 319.301 of the Revised Code, the time for delivery of the tax duplicate of the county treasurer by the county auditor as provided in section 319.28 of the Revised Code shall be extended to the first Monday in December. When delivery of the tax duplicate has been so delayed, the times for payment of taxes as fixed by section 323.12 of the Revised Code may be extended to the thirty-first day of January and the twentieth day of July. In case of emergency the tax commissioner may, by journal entry, extend the times for delivery of the duplicate in any county for an additional fifteen days upon receipt of a written application from the county auditor, in the case of a delay in the delivery of the tax duplicate, or from the treasurer regarding an extension of the time for the billing and collection of taxes.
+
+When a delay in the closing of a tax collection period becomes unavoidable, the tax commissioner, upon application of the county auditor and county treasurer, may extend the time for payment of taxes if the commissioner determines that penalties have accrued or would otherwise accrue for reasons beyond the control of the taxpayers of the county. The order so issued by the commissioner shall prescribe the final extended date for the payment of taxes for that collection period.
+
+"Emergency," as used in this section, includes death or serious illness, any organized work stoppage, mechanical failure of office equipment or machinery, or a delay in complying with section 5715.24 or 5715.26 of the Revised Code which will cause an unavoidable delay in the delivery of duplicates or in the billing or collection of taxes. Such application shall contain a statement describing the emergency that will cause the unavoidable delay. Any application from the county auditor for an extension of time for delivery of the duplicate due to an emergency must be received by the tax commissioner on or before the last day of the month preceding the date required for such delivery. When an extension of time for delivery of the duplicate is so granted, the time for payment of taxes shall be extended for a like period of time.
+
+Whenever taxable real property has been destroyed or damaged by fire, flood, tornado, or otherwise, in an amount not less than twenty-five per cent of the value as listed and assessed for taxation but in no event less than two thousand dollars of taxable value, the county board of revision, by resolution, may extend the time for payment of taxes on such property not more than one year after the time fixed by section 323.12 of the Revised Code. The board shall file a copy of such resolution with the county auditor and county treasurer, stating the name of the owner and description as it appears on the tax list, the taxing district, the type and kind of property destroyed or damaged, and the board's estimate of the amount of such destruction or damage.
+
+Last updated January 24, 2023 at 3:53 PM

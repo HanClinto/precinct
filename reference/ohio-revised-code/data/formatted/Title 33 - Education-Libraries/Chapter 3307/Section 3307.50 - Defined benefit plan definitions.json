@@ -1,0 +1,294 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Prior service\" means all service as a teacher before September 1, 1920, military service credit, all service prior to September 1, 1920, as an employee of any employer who comes within the public employees retirement system, the school employees retirement system, or any other state retirement system established under the laws of Ohio, and similar service in another state, credit for which was procured by a member under former section 3307.33 of the Revised Code, prior to June 25, 1945. Prior service credit shall not be granted to any member for service for which credit or benefits have been received in any other state retirement system in Ohio or for credit that was forfeited by withdrawal of contributions, unless the credit has been restored. If the teacher served as an employee in any two or all of the capacities, \"prior service\" means the total combined service in the capacities prior to September 1, 1920.\n\nIf a teacher who has been granted prior service credit for service rendered prior to September 1, 1920, as an employee of an employer who comes within the public employees retirement system or the school employees retirement system, establishes, subsequent to September 16, 1957, and before retirement, three years of contributing service in the public employees retirement system, or one year in the school employees retirement system, the prior service credit granted shall become, at retirement, the liability of the other system if the prior service or employment was in a capacity covered by that system.",
+      "id": "3307.50-prior-service",
+      "normalized": "prior service",
+      "scope": "As used in sections 3307.50 to 3307.79 of the Revised Code:",
+      "section": "3307.50",
+      "source_title": "Section 3307.50 - Defined benefit plan definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3307.50",
+      "term": "Prior service"
+    },
+    {
+      "definition": "(B) \"Total service,\" \"total service credit,\" except as provided in section 3307.57 of the Revised Code, or \"Ohio service credit\" means all service of a member of the state teachers retirement system since last becoming a member and, in addition thereto, restored service credit under section 3307.71 of the Revised Code, all prior service credit, all military service credit computed as provided in this chapter, and all other service credit established under sections 3307.26 , 3307.53 , 3307.72 , 3307.73 , 3307.74 , 3307.76 , 3307.761 , 3307.763 , 3307.77 , 3307.771 , and 3307.78 and former sections 3307.513 , 3307.514 , and 3307.52 of the Revised Code, and Section 3 of Amended Substitute Senate Bill No. 530 of the 114th general assembly.",
+      "id": "3307.50-ohio-service-credit",
+      "normalized": "ohio service credit",
+      "scope": "As used in sections 3307.50 to 3307.79 of the Revised Code:",
+      "section": "3307.50",
+      "source_title": "Section 3307.50 - Defined benefit plan definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3307.50",
+      "term": "Ohio service credit"
+    },
+    {
+      "definition": "(C)(1) \"Service retirement\" means retirement as provided in section 3307.58 or 3307.59 of the Revised Code.",
+      "id": "3307.50-service-retirement",
+      "normalized": "service retirement",
+      "scope": "As used in sections 3307.50 to 3307.79 of the Revised Code:",
+      "section": "3307.50",
+      "source_title": "Section 3307.50 - Defined benefit plan definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3307.50",
+      "term": "Service retirement"
+    },
+    {
+      "definition": "(2) \"Disability retirement\" means retirement as provided in section 3307.63 of the Revised Code.",
+      "id": "3307.50-disability-retirement",
+      "normalized": "disability retirement",
+      "scope": "As used in sections 3307.50 to 3307.79 of the Revised Code:",
+      "section": "3307.50",
+      "source_title": "Section 3307.50 - Defined benefit plan definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3307.50",
+      "term": "Disability retirement"
+    },
+    {
+      "definition": "(D) \"Accumulated contributions\" means the sum of all amounts credited to a contributor's individual account in the teachers' savings fund, together with interest credited thereon at the rates approved by the state teachers retirement board prior to retirement.",
+      "id": "3307.50-accumulated-contributions",
+      "normalized": "accumulated contributions",
+      "scope": "As used in sections 3307.50 to 3307.79 of the Revised Code:",
+      "section": "3307.50",
+      "source_title": "Section 3307.50 - Defined benefit plan definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3307.50",
+      "term": "Accumulated contributions"
+    },
+    {
+      "definition": "(E) \"Annuity\" means payments for life derived from contributions made by a contributor and paid from the annuity and pension reserve fund. All annuities shall be paid in twelve equal monthly installments.",
+      "id": "3307.50-annuity",
+      "normalized": "annuity",
+      "scope": "As used in sections 3307.50 to 3307.79 of the Revised Code:",
+      "section": "3307.50",
+      "source_title": "Section 3307.50 - Defined benefit plan definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3307.50",
+      "term": "Annuity"
+    },
+    {
+      "definition": "(F) \"Pensions\" means annual payments for life derived from appropriations made by an employer and paid from the annuity and pension reserve fund. All pensions shall be paid in twelve equal monthly installments.",
+      "id": "3307.50-pensions",
+      "normalized": "pensions",
+      "scope": "As used in sections 3307.50 to 3307.79 of the Revised Code:",
+      "section": "3307.50",
+      "source_title": "Section 3307.50 - Defined benefit plan definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3307.50",
+      "term": "Pensions"
+    },
+    {
+      "definition": "(G)(1) \"Allowance\" means the pension plus the annuity, or any other payment under the STRS defined benefit plan, and includes a disability allowance or disability benefit.",
+      "id": "3307.50-allowance",
+      "normalized": "allowance",
+      "scope": "As used in sections 3307.50 to 3307.79 of the Revised Code:",
+      "section": "3307.50",
+      "source_title": "Section 3307.50 - Defined benefit plan definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3307.50",
+      "term": "Allowance"
+    },
+    {
+      "definition": "(2) \"Disability allowance\" means an allowance paid on account of disability under section 3307.631 of the Revised Code.",
+      "id": "3307.50-disability-allowance",
+      "normalized": "disability allowance",
+      "scope": "As used in sections 3307.50 to 3307.79 of the Revised Code:",
+      "section": "3307.50",
+      "source_title": "Section 3307.50 - Defined benefit plan definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3307.50",
+      "term": "Disability allowance"
+    },
+    {
+      "definition": "(3) \"Disability benefit\" means a benefit paid as disability retirement under section 3307.63 of the Revised Code, as a disability allowance under section 3307.631 of the Revised Code, or as a disability benefit under section 3307.57 of the Revised Code.",
+      "id": "3307.50-disability-benefit",
+      "normalized": "disability benefit",
+      "scope": "As used in sections 3307.50 to 3307.79 of the Revised Code:",
+      "section": "3307.50",
+      "source_title": "Section 3307.50 - Defined benefit plan definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3307.50",
+      "term": "Disability benefit"
+    },
+    {
+      "definition": "(H) \"Annuity reserve\" means the present value, computed upon the basis of mortality tables adopted by the state teachers retirement board with interest, of all payments to be made on account of any annuity, or benefit in lieu of any annuity, granted to a member.",
+      "id": "3307.50-annuity-reserve",
+      "normalized": "annuity reserve",
+      "scope": "As used in sections 3307.50 to 3307.79 of the Revised Code:",
+      "section": "3307.50",
+      "source_title": "Section 3307.50 - Defined benefit plan definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3307.50",
+      "term": "Annuity reserve"
+    },
+    {
+      "definition": "(I) \"Pension reserve\" means the present value, computed upon the basis of mortality tables adopted by the state teachers retirement board with interest, of all payments to be made on account of any pension, or benefit in lieu of any pension, granted to a member or to a beneficiary.",
+      "id": "3307.50-pension-reserve",
+      "normalized": "pension reserve",
+      "scope": "As used in sections 3307.50 to 3307.79 of the Revised Code:",
+      "section": "3307.50",
+      "source_title": "Section 3307.50 - Defined benefit plan definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3307.50",
+      "term": "Pension reserve"
+    },
+    {
+      "definition": "(J) \"Retirant\" means any former member who is granted age and service retirement as provided in sections 3307.57 , 3307.58 , 3307.59 , and 3307.60 of the Revised Code.",
+      "id": "3307.50-retirant",
+      "normalized": "retirant",
+      "scope": "As used in sections 3307.50 to 3307.79 of the Revised Code:",
+      "section": "3307.50",
+      "source_title": "Section 3307.50 - Defined benefit plan definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3307.50",
+      "term": "Retirant"
+    },
+    {
+      "definition": "(K) \"Disability benefit recipient\" means a member who is receiving a disability benefit.",
+      "id": "3307.50-disability-benefit-recipient",
+      "normalized": "disability benefit recipient",
+      "scope": "As used in sections 3307.50 to 3307.79 of the Revised Code:",
+      "section": "3307.50",
+      "source_title": "Section 3307.50 - Defined benefit plan definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3307.50",
+      "term": "Disability benefit recipient"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3307.50",
+      "number": "3307.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3307.50"
+    },
+    {
+      "kind": "section",
+      "label": "3307.79",
+      "number": "3307.79",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3307.79"
+    },
+    {
+      "kind": "section",
+      "label": "3307.33",
+      "number": "3307.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3307.33"
+    },
+    {
+      "kind": "section",
+      "label": "3307.57",
+      "number": "3307.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3307.57"
+    },
+    {
+      "kind": "section",
+      "label": "3307.71",
+      "number": "3307.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3307.71"
+    },
+    {
+      "kind": "section",
+      "label": "3307.26",
+      "number": "3307.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3307.26"
+    },
+    {
+      "kind": "section",
+      "label": "3307.53",
+      "number": "3307.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3307.53"
+    },
+    {
+      "kind": "section",
+      "label": "3307.72",
+      "number": "3307.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3307.72"
+    },
+    {
+      "kind": "section",
+      "label": "3307.73",
+      "number": "3307.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3307.73"
+    },
+    {
+      "kind": "section",
+      "label": "3307.74",
+      "number": "3307.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3307.74"
+    },
+    {
+      "kind": "section",
+      "label": "3307.76",
+      "number": "3307.76",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3307.76"
+    },
+    {
+      "kind": "section",
+      "label": "3307.761",
+      "number": "3307.761",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3307.761"
+    },
+    {
+      "kind": "section",
+      "label": "3307.763",
+      "number": "3307.763",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3307.763"
+    },
+    {
+      "kind": "section",
+      "label": "3307.77",
+      "number": "3307.77",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3307.77"
+    },
+    {
+      "kind": "section",
+      "label": "3307.771",
+      "number": "3307.771",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3307.771"
+    },
+    {
+      "kind": "section",
+      "label": "3307.78",
+      "number": "3307.78",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3307.78"
+    },
+    {
+      "kind": "section",
+      "label": "3307.513",
+      "number": "3307.513",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3307.513"
+    },
+    {
+      "kind": "section",
+      "label": "3307.514",
+      "number": "3307.514",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3307.514"
+    },
+    {
+      "kind": "section",
+      "label": "3307.52",
+      "number": "3307.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3307.52"
+    },
+    {
+      "kind": "section",
+      "label": "3307.58",
+      "number": "3307.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3307.58"
+    },
+    {
+      "kind": "section",
+      "label": "3307.59",
+      "number": "3307.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3307.59"
+    },
+    {
+      "kind": "section",
+      "label": "3307.63",
+      "number": "3307.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3307.63"
+    },
+    {
+      "kind": "section",
+      "label": "3307.631",
+      "number": "3307.631",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3307.631"
+    },
+    {
+      "kind": "section",
+      "label": "3307.60",
+      "number": "3307.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3307.60"
+    }
+  ],
+  "scraped": "2026-07-02T19:48:25+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3307.50",
+  "title": "Section 3307.50 - Defined benefit plan definitions."
+}

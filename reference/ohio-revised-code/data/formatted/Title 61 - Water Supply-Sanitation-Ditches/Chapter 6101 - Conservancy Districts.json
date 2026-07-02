@@ -1,0 +1,561 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 6101.01 - Conservancy district definitions.",
+      "number": "6101.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.02 - Conservancy bonds and records.",
+      "number": "6101.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.03 - Evidence and forms.",
+      "number": "6101.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.04 - Purpose and organization of conservancy districts.",
+      "number": "6101.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.05 - Proceedings for establishment of a conservancy district.",
+      "number": "6101.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.06 - Petitioners' bond.",
+      "number": "6101.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.061 - Notice of petition.",
+      "number": "6101.061",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.061"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.07 - Composition of court for hearing on petition.",
+      "number": "6101.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.08 - Hearing on petition.",
+      "number": "6101.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.09 - Findings and decree of court incorporating conservancy district.",
+      "number": "6101.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.10 - Appointment of directors of conservancy district.",
+      "number": "6101.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.11 - Organization, records of conservancy district.",
+      "number": "6101.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.12 - Secretary, employees.",
+      "number": "6101.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.13 - Plan for improvements.",
+      "number": "6101.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.14 - Right of entry.",
+      "number": "6101.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.15 - Powers of board.",
+      "number": "6101.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.151 - Property of district removed from tax duplicate.",
+      "number": "6101.151",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.151"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.16 - Contracts for improvements.",
+      "number": "6101.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.161 - Conservancy district contract requirements.",
+      "number": "6101.161",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.161"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.17 - Dominant right of eminent domain.",
+      "number": "6101.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.18 - Eminent domain.",
+      "number": "6101.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.181 - Appropriation of property for sewer construction to address public health nuisance.",
+      "number": "6101.181",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.181"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.19 - Conservancy district rules and regulations - enforcement - prohibitions.",
+      "number": "6101.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.20 - Plan requiring building, modification, removal, or rebuilding of bridge, grade, or aqueduct.",
+      "number": "6101.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.21 - Passing boat or other equipment through bridge or grade.",
+      "number": "6101.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.22 - Surveys and examinations of rainfall, flood conditions, and stream flow.",
+      "number": "6101.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.23 - Co-operation with United States government or other corporations.",
+      "number": "6101.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.24 - Water rights and uses - rates.",
+      "number": "6101.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.241 - Improvements outside boundary of district.",
+      "number": "6101.241",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.241"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.25 - Recreational facilities upon lands owned or controlled by district.",
+      "number": "6101.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.26 - Taking or damaging cemetery.",
+      "number": "6101.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.27 - Board of appraisers of conservancy district.",
+      "number": "6101.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.28 - Appraising of benefits and damages.",
+      "number": "6101.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.29 - Effect of improvement on land outside district.",
+      "number": "6101.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.30 - Notice of land included or excluded from district.",
+      "number": "6101.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.31 - Conservancy appraisal record.",
+      "number": "6101.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.32 - Notice of filing report on appraisals.",
+      "number": "6101.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.33 - Exceptions to appraisals.",
+      "number": "6101.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.34 - Court order on appraisals.",
+      "number": "6101.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.35 - Appeal from award of compensation or damages.",
+      "number": "6101.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.36 - Possession and title to property.",
+      "number": "6101.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.37 - Certified copy of decree.",
+      "number": "6101.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.38 - Confirmed appraisal of compensation or damages - appointment of magistrate.",
+      "number": "6101.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.39 - Alteration or addition to plan.",
+      "number": "6101.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.40 - Appeals not permitted to interrupt or delay any action.",
+      "number": "6101.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.41 - Land of district exempt from assessment.",
+      "number": "6101.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.42 - Appraising lands not at first included within boundaries of district.",
+      "number": "6101.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.43 - Moneys of district administered through funds.",
+      "number": "6101.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.44 - Moneys of district administered through funds.",
+      "number": "6101.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.441 - Dissolution or disorganization of conservancy district.",
+      "number": "6101.441",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.441"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.45 - Defects not to invalidate proceedings except where denial of justice results.",
+      "number": "6101.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.46 - Directors may borrow money and issue notes.",
+      "number": "6101.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.47 - Conservancy district charitable and social welfare trusts.",
+      "number": "6101.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.48 - Directors to levy assessments.",
+      "number": "6101.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.49 - Paying assessments.",
+      "number": "6101.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.50 - Issuing anticipatory bonds and notes.",
+      "number": "6101.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.501 - Issuing bonds to pay costs of improvement.",
+      "number": "6101.501",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.501"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.51 - Issuing revenue bonds.",
+      "number": "6101.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.52 - Duties of treasurer.",
+      "number": "6101.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.53 - Conservancy maintenance assessment.",
+      "number": "6101.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.54 - Readjustment of appraisal of benefits.",
+      "number": "6101.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.55 - Annual levy.",
+      "number": "6101.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.56 - Borrowing in anticipation of collection of assessments.",
+      "number": "6101.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.57 - Collecting assessments.",
+      "number": "6101.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.58 - County treasurer's bond.",
+      "number": "6101.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.59 - Conservancy district assessment constitutes lien.",
+      "number": "6101.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.60 - Enforcement of conservancy district liens.",
+      "number": "6101.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.61 - Annual levy procedures.",
+      "number": "6101.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.62 - Water department funds used to pay levy or assessment.",
+      "number": "6101.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.63 - Additional rate for water.",
+      "number": "6101.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.64 - Sewer rentals used to pay levy or assessment.",
+      "number": "6101.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.65 - Failure to pay collected assessments.",
+      "number": "6101.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.66 - Annual report of directors.",
+      "number": "6101.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.67 - Compensation and expenses of directors and appraisers.",
+      "number": "6101.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.67"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.68 - Lands included in more than one district.",
+      "number": "6101.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.68"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.69 - Consolidation of districts.",
+      "number": "6101.69",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.69"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.70 - Petition for uniting districts by directors.",
+      "number": "6101.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.71 - Petition for organizing subdistricts.",
+      "number": "6101.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.72 - Annexing or absorbing territory.",
+      "number": "6101.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.73 - Irrigation districts.",
+      "number": "6101.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.74 - Remedies and damages.",
+      "number": "6101.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.74"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.75 - Policing district.",
+      "number": "6101.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.76 - Removals for cause.",
+      "number": "6101.76",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.76"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.77 - Writ of mandamus.",
+      "number": "6101.77",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.77"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.78 - Defective notice.",
+      "number": "6101.78",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.78"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.79 - Questions of validity of organization advanced in courts.",
+      "number": "6101.79",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.79"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.80 - Liberal construction of chapter.",
+      "number": "6101.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.80"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.81 - Destruction, injury, removal of survey marks prohibited.",
+      "number": "6101.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.82 - Liability for damages.",
+      "number": "6101.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.82"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.83 - Unlawful use of moneys.",
+      "number": "6101.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.83"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.84 - Illustrative forms.",
+      "number": "6101.84",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.84"
+    },
+    {
+      "kind": "section",
+      "label": "Section 6101.99 - Penalty.",
+      "number": "6101.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-6101.99"
+    }
+  ],
+  "scraped": "2026-07-02T20:17:05+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-6101",
+  "title": "Chapter 6101 - Conservancy Districts"
+}

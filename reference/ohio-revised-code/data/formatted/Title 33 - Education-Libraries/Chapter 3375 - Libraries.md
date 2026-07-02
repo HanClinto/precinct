@@ -1,0 +1,87 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-3375
+Scraped: 2026-07-02T19:50:30+00:00
+
+# Chapter 3375 - Libraries
+
+## Sections
+
+- Section 3375.01 - State library board.
+- Section 3375.011 - Free photocopy of driver's license or identification card.
+- Section 3375.02 - Appointment of state librarian - duties.
+- Section 3375.04 - Control and management of state library.
+- Section 3375.05 - Application for establishment of library stations, branches, or traveling library service.
+- Section 3375.06 - County free public library - appointment of trustees.
+- Section 3375.07 - Tax levy for maintenance of county free public library.
+- Section 3375.08 - Board of county commissioners may transfer, convey, or lease property for library purposes.
+- Section 3375.09 - Tax levy by board of township trustees for maintenance of library.
+- Section 3375.10 - Township free public library - appointment of trustees.
+- Section 3375.11 - Board of township trustees may transfer, convey, or lease property for library purposes.
+- Section 3375.12 - Municipal free public libraries - appointment of trustees.
+- Section 3375.121 - Municipal library district created.
+- Section 3375.13 - Issuance of bonds - control of property vested in board of library trustees of municipal corporation - agreement with library organization.
+- Section 3375.14 - School libraries.
+- Section 3375.15 - School district free public library - appointment of trustees.
+- Section 3375.151 - Acceptance of bequest, gift, or endowment for school district free public library.
+- Section 3375.16 - Board of education may transfer, convey, or lease property for library purposes.
+- Section 3375.17 - Tax levy by board of education for operation of library.
+- Section 3375.18 - Board of education may provide building or property for public library service.
+- Section 3375.19 - County library district.
+- Section 3375.20 - Resolution by boards of library trustees requesting formation of county library district.
+- Section 3375.201 - Election on creating county district library.
+- Section 3375.21 - Resolution for inclusion of subdivision in county library district.
+- Section 3375.211 - Submission of resolution to electors.
+- Section 3375.212 - Consolidation with another subdivision.
+- Section 3375.213 - Assets, liabilities and levies.
+- Section 3375.22 - County library district - appointment of trustees.
+- Section 3375.23 - Tax levy by board of county commissioners for county library district.
+- Section 3375.24 - Notes and bonds may be issued by board of county commissioners - sale of real property.
+- Section 3375.28 - Creation of regional library district.
+- Section 3375.29 - Resolution by taxing authority for inclusion in regional library district - transfer of title.
+- Section 3375.30 - Appointment, term, and compensation of board of library trustees of a regional library district.
+- Section 3375.31 - Tax levy by board of county commissioners for regional library district.
+- Section 3375.32 - Meeting of boards of library trustees - organization - election of clerk - bond.
+- Section 3375.33 - Boards of library trustees are bodies politic and corporate.
+- Section 3375.34 - Name of board of library trustees.
+- Section 3375.35 - Rules of procedure - annual report.
+- Section 3375.351 - Payment of employees by direct deposit.
+- Section 3375.36 - Treasurer of library funds - deposits of moneys - monthly statement - financial statement.
+- Section 3375.361 - Liability for loss of public funds.
+- Section 3375.37 - Statement filed with county auditor.
+- Section 3375.38 - Compliance with duties relating to moneys credited to board of library trustees.
+- Section 3375.39 - Accounting by clerk - count and certificate.
+- Section 3375.391 - Treasurer to credit earnings on investments.
+- Section 3375.392 - Policies for use of credit card accounts.
+- Section 3375.40 - Board of library trustees - powers and duties.
+- Section 3375.401 - Purchase of liability insurance.
+- Section 3375.402 - Establishment of museums.
+- Section 3375.403 - Contract for public library service.
+- Section 3375.404 - Issuance of notes and anticipation notes.
+- Section 3375.405 - Evaluating library buildings for energy conservation; energy conservation report; implementation.
+- Section 3375.41 - Contracts over threshold to require bidding procedure.
+- Section 3375.411 - Retirement systems for library employees.
+- Section 3375.42 - Contract for library service - tax levy.
+- Section 3375.43 - Submission of question - issuance and sale of bonds by subdivision for library purposes.
+- Section 3375.431 - Board of education may issue bonds for libraries.
+- Section 3375.44 - Payment of interest - retirement of bonds - annual levy.
+- Section 3375.45 - Control and management of sinking or bond retirement fund.
+- Section 3375.46 - Bureau of municipal research and information may be established.
+- Section 3375.481 - Consortium of county law library resources boards.
+- Section 3375.61 - Financial aid to Martha Kinney Cooper Ohioana Library Association.
+- Section 3375.62 - Appointment of trustees.
+- Section 3375.63 - Eligibility for membership on board of public library trustees.
+- Section 3375.64 - Public library information network.
+- Section 3375.65 - Library information network board of trustees.
+- Section 3375.66 - Duties and powers of board of trustees.
+- Section 3375.67 - Dissolution of network.
+- Section 3375.79 - Bill and Melinda Gates foundation grant fund.
+- Section 3375.80 - Libraries designated as resource centers.
+- Section 3375.81 - Essential library services support program.
+- Section 3375.82 - Administration of grants.
+- Section 3375.83 - Interstate library compact.
+- Section 3375.831 - Instrument to identify state agency for whose use and benefit real property is acquired.
+- Section 3375.84 - Interstate library compact definitions.
+- Section 3375.85 - Aid to interstate library district partly within state.
+- Section 3375.90 - Formation of regional library system.
+- Section 3375.91 - Board of trustees of regional library system - powers and duties.
+- Section 3375.92 - Clerk and deputy clerk of board - duties.
+- Section 3375.93 - Dissolution of or withdrawal from regional library system.

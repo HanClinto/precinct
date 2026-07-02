@@ -1,0 +1,88 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Person\" has the same meaning as in division (C) of section 1.59 of the Revised Code and also includes governmental entities.\n\n(2) \"Political subdivision\" and \"employee\" of a political subdivision have the same meanings as in section 2744.01 of the Revised Code.",
+      "id": "1925.02-person",
+      "normalized": "person",
+      "scope": "(E) As used in this section:",
+      "section": "1925.02",
+      "source_title": "Section 1925.02 - Jurisdiction.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1925.02",
+      "term": "Person"
+    },
+    {
+      "definition": "(3) \"State\" has the same meaning as in section 109.36 of the Revised Code.",
+      "id": "1925.02-state",
+      "normalized": "state",
+      "scope": "(E) As used in this section:",
+      "section": "1925.02",
+      "source_title": "Section 1925.02 - Jurisdiction.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1925.02",
+      "term": "State"
+    },
+    {
+      "definition": "(4) \"Officer or employee of the state\" means any person who is serving in an elected or appointed office or position with the state or is employed by the state. \"Officer or employee of the state\" does not include any person elected, appointed, or employed by any political subdivision.\n\n(5) \"Retail installment contract\" and \"security agreement\" have the same meanings as in section 1317.01 of the Revised Code.\n\nLast updated January 22, 2025 at 2:55 PM",
+      "id": "1925.02-officer-or-employee-of-the-state",
+      "normalized": "officer or employee of the state",
+      "scope": "(E) As used in this section:",
+      "section": "1925.02",
+      "source_title": "Section 1925.02 - Jurisdiction.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1925.02",
+      "term": "Officer or employee of the state"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "1925.01",
+      "number": "1925.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1925.01"
+    },
+    {
+      "kind": "section",
+      "label": "1925.18",
+      "number": "1925.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1925.18"
+    },
+    {
+      "kind": "section",
+      "label": "1345.09",
+      "number": "1345.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.09"
+    },
+    {
+      "kind": "section",
+      "label": "1345.48",
+      "number": "1345.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1345.48"
+    },
+    {
+      "kind": "section",
+      "label": "1.59",
+      "number": "1.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1.59"
+    },
+    {
+      "kind": "section",
+      "label": "2744.01",
+      "number": "2744.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2744.01"
+    },
+    {
+      "kind": "section",
+      "label": "109.36",
+      "number": "109.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-109.36"
+    },
+    {
+      "kind": "section",
+      "label": "1317.01",
+      "number": "1317.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1317.01"
+    }
+  ],
+  "scraped": "2026-07-02T19:41:02+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1925.02",
+  "title": "Section 1925.02 - Jurisdiction."
+}

@@ -1,0 +1,321 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 126.02 - Preparation of budget estimates.",
+      "number": "126.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-126.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 126.021 - Medicaid caseload and expenditure forecast report.",
+      "number": "126.021",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-126.021"
+    },
+    {
+      "kind": "section",
+      "label": "Section 126.022 - Estimates of revenues from tobacco master settlement agreement.",
+      "number": "126.022",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-126.022"
+    },
+    {
+      "kind": "section",
+      "label": "Section 126.023 - [Former R.C. 126.021, amended and renumbered by H.B. 33, 135th General Assembly, effective 10/3/2023] Accounting duties of director of budget and management.",
+      "number": "126.023",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-126.023"
+    },
+    {
+      "kind": "section",
+      "label": "Section 126.024 - Medicaid general revenue fund appropriation items.",
+      "number": "126.024",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-126.024"
+    },
+    {
+      "kind": "section",
+      "label": "Section 126.03 - Capital plan - agency recommendations for acquisition of real estate and construction of public improvements.",
+      "number": "126.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-126.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 126.05 - Monthly statements showing condition of general revenue fund.",
+      "number": "126.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-126.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 126.06 - Availability of money in total operating fund.",
+      "number": "126.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-126.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 126.07 - Certification of balance statement in all contracts.",
+      "number": "126.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-126.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 126.071 - Monetary settlement; Consultation with director of budget and management.",
+      "number": "126.071",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-126.071"
+    },
+    {
+      "kind": "section",
+      "label": "Section 126.08 - Director of budget and management - powers and duties.",
+      "number": "126.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-126.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 126.09 - Monthly distribution schedule of subsidies.",
+      "number": "126.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-126.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 126.10 - Effect of federal funds loss on state programs.",
+      "number": "126.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-126.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 126.11 - Coordination and approval of scheduling sales of certain obligations.",
+      "number": "126.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-126.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 126.12 - Recovering statewide indirect costs.",
+      "number": "126.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-126.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 126.13 - Designating program or activity for performance review.",
+      "number": "126.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-126.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 126.14 - Controlling board to approve release of appropriation for purchase of real estate or other capital project.",
+      "number": "126.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-126.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 126.141 - Contingency reserve for capital appropriations.",
+      "number": "126.141",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-126.141"
+    },
+    {
+      "kind": "section",
+      "label": "Section 126.15 - Adjusting capital or operating budgets.",
+      "number": "126.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-126.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 126.16 - Implementing constitutional provision for purposes of issuing direct obligations of state.",
+      "number": "126.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-126.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 126.21 - Accounting duties of director of budget and management.",
+      "number": "126.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-126.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 126.22 - Director - accounting powers.",
+      "number": "126.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-126.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 126.23 - Reports on state funds.",
+      "number": "126.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-126.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 126.24 - OAKS support organization fund.",
+      "number": "126.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-126.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 126.25 - User charges - state accounting fund.",
+      "number": "126.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-126.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 126.26 - Director as chairperson of gubernatorial transition committee - powers and duties.",
+      "number": "126.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-126.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 126.27 - Filing budget estimates with governor-elect.",
+      "number": "126.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-126.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 126.28 - Powers to take testimony and produce evidence.",
+      "number": "126.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-126.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 126.29 - Agency scheduled to terminate operations.",
+      "number": "126.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-126.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 126.30 - Interest on late payments for goods and services.",
+      "number": "126.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-126.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 126.301 - Statute of limitations.",
+      "number": "126.301",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-126.301"
+    },
+    {
+      "kind": "section",
+      "label": "Section 126.31 - Travel and other expenses.",
+      "number": "126.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-126.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 126.32 - Job interview and relocation expenses.",
+      "number": "126.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-126.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 126.35 - Warrants or electronic fund transfers for payments - electronic benefit transfers.",
+      "number": "126.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-126.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 126.36 - Replacement of lost or destroyed warrant.",
+      "number": "126.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-126.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 126.37 - Stale warrants for payment.",
+      "number": "126.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-126.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 126.38 - Furnishing earnings statement with each pay warrant.",
+      "number": "126.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-126.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 126.40 - Forgery recovery fund.",
+      "number": "126.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-126.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 126.41 - Cybersecurity and fraud advisory board.",
+      "number": "126.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-126.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 126.42 - [Former R.C. 125.22, amended and renumbered by H.B. 33, 135th General Assembly, effective 10/3/2023] Support services for boards and commissions.",
+      "number": "126.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-126.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 126.45 - Office of internal audit.",
+      "number": "126.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-126.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 126.46 - State audit committee.",
+      "number": "126.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-126.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 126.47 - Annual internal audit plan.",
+      "number": "126.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-126.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 126.48 - Internal audit report as public record.",
+      "number": "126.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-126.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 126.50 - Definitions.",
+      "number": "126.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-126.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 126.503 - Control of travel expenses.",
+      "number": "126.503",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-126.503"
+    },
+    {
+      "kind": "section",
+      "label": "Section 126.504 - Use of interoffice mailing service; printing, copying, mail preparation and related services.",
+      "number": "126.504",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-126.504"
+    },
+    {
+      "kind": "section",
+      "label": "Section 126.505 - Compliance with standardization and strategic sourcing policy and control-on-equipment directives.",
+      "number": "126.505",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-126.505"
+    },
+    {
+      "kind": "section",
+      "label": "Section 126.506 - Participation in technology consolidation projects.",
+      "number": "126.506",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-126.506"
+    },
+    {
+      "kind": "section",
+      "label": "Section 126.60 - H2Ohio fund.",
+      "number": "126.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-126.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 126.62 - All Ohio future fund.",
+      "number": "126.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-126.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 126.67 - Targeted addiction assistance fund.",
+      "number": "126.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-126.67"
+    }
+  ],
+  "scraped": "2026-07-02T19:31:44+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-126",
+  "title": "Chapter 126 - Office of Budget and Management"
+}

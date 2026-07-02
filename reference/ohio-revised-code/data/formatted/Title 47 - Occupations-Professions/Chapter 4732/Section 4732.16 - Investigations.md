@@ -1,0 +1,22 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4732.16
+Scraped: 2026-07-02T20:07:07+00:00
+
+# Section 4732.16 - Investigations.
+
+**Effective:** March 20, 2014
+
+**Latest Legislation:** House Bill 83 - 130th General Assembly
+
+(A) The state board of psychology shall investigate alleged violations of this chapter or the rules adopted under it. Each investigation shall be assigned by the executive director or designated investigator to one of the members of the board who shall serve as the supervising member of the investigation.
+
+As part of its conduct of investigations, the board may examine witnesses, administer oaths, and issue subpoenas, except that the board may not compel the attendance of the respondent in an investigation. A subpoena for patient record information may be issued only if the supervising member, executive director, secretary, and an attorney from the office of the attorney general determine that there is probable cause to believe that the complaint alleges a violation of this chapter and that the records sought are relevant to the alleged violation and material to the investigation. No member of the board who supervises the investigation or approves the issuance of a subpoena for patient records shall participate in further adjudication of the case. The subpoena may apply only to records that cover a reasonable period of time surrounding the alleged violation. On failure of a person to comply with a subpoena issued by the board and after reasonable notice to that person, the board may move for an order compelling the production of records or persons pursuant to the Rules of Civil Procedure.
+
+A subpoena issued by the board may be served by a sheriff, the sheriff's deputy, or a board employee designated by the board. Service of a subpoena issued by the board may be made by delivering a copy of the subpoena to the person named in the subpoena, reading it to the person, or leaving it at the person's usual place of residence. When the person being served is a person whose practice is authorized by this chapter, service of the subpoena may be made by certified mail, return receipt requested, and the subpoena shall be deemed served on the date delivery is made or the date the person refuses to accept delivery.
+
+A sheriff's deputy who serves a subpoena shall receive the same fees as a sheriff. Each witness who appears before the board in obedience to a subpoena shall receive the fees and mileage provided for witnesses under section 119.094 of the Revised Code.
+
+(B)(1) The board shall conduct all investigations and proceedings in a manner that protects the confidentiality of patients and persons who file complaints with the board. The board shall not make public the names or any other identifying information about patients or complainants unless proper consent is given or, in the case of a patient, the patient privilege has been waived by the patient. Information received by the board pursuant to an investigation is confidential and not subject to discovery in any civil action.
+
+(2) The board may share any information it receives pursuant to an investigation, including patient records and patient record information, with law enforcement agencies, other licensing boards, and other government agencies that are prosecuting, adjudicating, or investigating alleged violations of statutes or administrative rules. An agency or board that receives the information shall comply with the same requirements regarding confidentiality as the board must comply with under division (B)(1) of this section, notwithstanding any conflicting provision of the Revised Code or procedure of the agency or board that applies when it is dealing with other information in its possession.
+
+(3) In a judicial proceeding, any information the board receives pursuant to an investigation may be admitted into evidence only in accordance with the Ohio Rules of Evidence, but the court shall require that appropriate measures be taken to ensure that confidentiality is maintained with respect to any part of the information that contains names or other identifying information about patients or complainants whose confidentiality was protected by the board when the information was in the board's possession. Measures to ensure confidentiality that may be taken by the court include sealing its records or deleting specific information from its records.

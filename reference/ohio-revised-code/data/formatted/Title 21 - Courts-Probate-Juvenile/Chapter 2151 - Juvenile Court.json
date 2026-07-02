@@ -1,0 +1,1245 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 2151.01 - Liberal interpretation and construction.",
+      "number": "2151.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.011 - Juvenile court definitions.",
+      "number": "2151.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.011"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.022 - Unruly child defined.",
+      "number": "2151.022",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.022"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.03 - Neglected child defined - failure to provide medical or surgical care for religious reasons.",
+      "number": "2151.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.031 - Abused child defined.",
+      "number": "2151.031",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.031"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.04 - Dependent child defined.",
+      "number": "2151.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.05 - Child without proper parental care.",
+      "number": "2151.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.06 - Residence or legal settlement.",
+      "number": "2151.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.07 - Powers and jurisdiction of juvenile court.",
+      "number": "2151.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.08 - Juvenile court in Hamilton county.",
+      "number": "2151.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.09 - Separate building and site may be purchased or leased.",
+      "number": "2151.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.10 - County appropriations for expenses of court.",
+      "number": "2151.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.12 - Clerk - bond - judge as clerk.",
+      "number": "2151.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.13 - Employees - compensation - bond.",
+      "number": "2151.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.14 - Duties and powers of probation department - records - command assistance.",
+      "number": "2151.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.141 - Written request for records relating to alleged abused, neglected or dependent child.",
+      "number": "2151.141",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.141"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.142 - Residential addresses of personnel of public children services agency or a private child placing agency to be confidential information.",
+      "number": "2151.142",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.142"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.15 - Powers and duties vested in county department of probation.",
+      "number": "2151.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.151 - Contract for supervisory and other services for children on probation.",
+      "number": "2151.151",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.151"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.152 - Reimbursement of court from department of children and youth.",
+      "number": "2151.152",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.152"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.16 - Referees - powers and duties.",
+      "number": "2151.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.17 - Rules of juvenile court.",
+      "number": "2151.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.18 - Court records - annual report - copies for distribution.",
+      "number": "2151.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.19 - Summons - expense.",
+      "number": "2151.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.20 - Seal of court - dimensions.",
+      "number": "2151.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.21 - Jurisdiction in contempt.",
+      "number": "2151.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.211 - Employer may not penalize employee for being subpoenaed before juvenile court.",
+      "number": "2151.211",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.211"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.22 - Terms of court - sessions.",
+      "number": "2151.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.23 - Jurisdiction of juvenile court.",
+      "number": "2151.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.231 - Order requiring support of child without regard to marital status of child's parents.",
+      "number": "2151.231",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.231"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.232 - Order requiring support of child where acknowledgment of parentage is not yet final.",
+      "number": "2151.232",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.232"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.233 - Jurisdiction of juvenile court.",
+      "number": "2151.233",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.233"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.234 - Construction of R.C. 2151.233.",
+      "number": "2151.234",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.234"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.235 - Transfer of jurisdiction.",
+      "number": "2151.235",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.235"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.236 - Orders affecting child subject to support order by common pleas court.",
+      "number": "2151.236",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.236"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.24 - Separate room for hearings.",
+      "number": "2151.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.25 - Court order to interview and examine a child.",
+      "number": "2151.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.26 - Complaint regarding drug use by expectant mother.",
+      "number": "2151.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.27 - Complaint involving child.",
+      "number": "2151.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.271 - Transfer to juvenile court of child's residence.",
+      "number": "2151.271",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.271"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.272 - Release or transfer of records for child who is alleged or adjudicated an abused, neglected, or dependent child.",
+      "number": "2151.272",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.272"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.28 - Adjudicatory hearing - determining shelter care placement.",
+      "number": "2151.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.281 - Guardian ad litem.",
+      "number": "2151.281",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.281"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.29 - Service of summons, notices, and subpoenas - publication of summons.",
+      "number": "2151.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.30 - Issuance of warrant.",
+      "number": "2151.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.31 - Taking child into custody.",
+      "number": "2151.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.311 - Procedure upon taking child into custody.",
+      "number": "2151.311",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.311"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.312 - Facilities for holding unruly, neglected, abused or dependent child.",
+      "number": "2151.312",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.312"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.313 - Fingerprints, photographs require consent of juvenile judge.",
+      "number": "2151.313",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.313"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.314 - Hearing on detention or shelter care.",
+      "number": "2151.314",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.314"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.315 - Participation in extracurricular, enrichment, and social activities.",
+      "number": "2151.315",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.315"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.316 - Foster youth bill of rights.",
+      "number": "2151.316",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.316"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.32 - Selection of custodian.",
+      "number": "2151.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.33 - Temporary care - emergency medical treatment - reimbursement.",
+      "number": "2151.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.331 - Options for placement of alleged or adjudicated abused, neglected, dependent or unruly child.",
+      "number": "2151.331",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.331"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.34 - Protection order against a minor.",
+      "number": "2151.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.35 - Procedure for hearings in juvenile court.",
+      "number": "2151.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.352 - Right to counsel.",
+      "number": "2151.352",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.352"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.353 - Orders of disposition of abused, neglected or dependent child.",
+      "number": "2151.353",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.353"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.354 - Orders of disposition of unruly child.",
+      "number": "2151.354",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.354"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.355 - Sealing of juvenile court records - definitions.",
+      "number": "2151.355",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.355"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.356 - Sealing of juvenile court records.",
+      "number": "2151.356",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.356"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.357 - Response respecting sealed records - index - limited inspection.",
+      "number": "2151.357",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.357"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.358 - Expungement of sealed records.",
+      "number": "2151.358",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.358"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.359 - Order restraining or controlling conduct of parent, guardian, or custodian.",
+      "number": "2151.359",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.359"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.3510 - Notice to public children services agency of intended commitment order.",
+      "number": "2151.3510",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.3510"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.3514 - Order requiring parent or other caregiver to submit to assessment and treatment from alcohol and drug addiction program.",
+      "number": "2151.3514",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.3514"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.3515 - Desertion of child definitions.",
+      "number": "2151.3515",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.3515"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.3516 - Delivery of child by parent to persons authorized to take possession of deserted child.",
+      "number": "2151.3516",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.3516"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.3517 - Parties taking possession of deserted child.",
+      "number": "2151.3517",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.3517"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.3518 - Duties upon taking possession of deserted child.",
+      "number": "2151.3518",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.3518"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.3519 - Duties of public children services agency upon receiving notice of deserted child.",
+      "number": "2151.3519",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.3519"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.3521 - [Former R.C. 2151.3519, amended and renumbered by S.B. 332, 131st General Assembly, effective 4/6/2017] Emergency hearing to determine whether child is deserted child.",
+      "number": "2151.3521",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.3521"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.3522 - [Former R.C. 2151.3520, renumbered by S.B 332, 131st General Assembly, effective 4/6/2017] Order committing child to temporary custody.",
+      "number": "2151.3522",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.3522"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.3523 - [Former R.C. 2151.3521, amended and renumbered by S.B. 332, 131st General Assembly, effective 4/6/2017] Court to treat deserted child as neglected child.",
+      "number": "2151.3523",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.3523"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.3524 - [Former R.C. 2151.3522, renumbered by S.B. 332, 131st General Assembly, effective 4/6/2017] Agency granted temporary custody to treat deserted child as neglected child.",
+      "number": "2151.3524",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.3524"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.3525 - [Former R.C. 2151.3523, amended and renumbered by S.B. 332, 131st General Assembly, effective 4/6/2017] Immunity of parent and of person or entity taking possession of deserted child.",
+      "number": "2151.3525",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.3525"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.3526 - [Former R.C. 2151.3524, amended and renumbered by S.B. 332, 131st General Assembly, effective 4/6/2017] Parent's absolute right to anonymity.",
+      "number": "2151.3526",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.3526"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.3527 - Medical information forms.",
+      "number": "2151.3527",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.3527"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.3528 - Parent completion of medical information forms.",
+      "number": "2151.3528",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.3528"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.3530 - [Former R.C. 2151.3527, amended and renumbered by S.B. 332, 131st General Assembly, effective 4/6/2017] Activities prohibited to person taking possession of deserted child.",
+      "number": "2151.3530",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.3530"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.3531 - [Former R.C. 2151.3528, renumbered by S.B. 332, 131st General Assembly, effective 4/6/2017] DNA testing of person seeking reunification with deserted child.",
+      "number": "2151.3531",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.3531"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.3532 - Rules governing newborn safety incubators.",
+      "number": "2151.3532",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.3532"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.3533 - Supervision of newborn safety incubators.",
+      "number": "2151.3533",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.3533"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.36 - Support of child.",
+      "number": "2151.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.361 - Order requiring parents to pay support where adopted child is placed into temporary custody or committed.",
+      "number": "2151.361",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.361"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.362 - Determining school district to bear cost of educating child - change of residence.",
+      "number": "2151.362",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.362"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.37 - Institution receiving children required to make report.",
+      "number": "2151.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.38 - Duration of dispositional order.",
+      "number": "2151.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.39 - Placement of children from other states.",
+      "number": "2151.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.40 - Cooperation with court.",
+      "number": "2151.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.411 - Placing siblings together.",
+      "number": "2151.411",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.411"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.412 - Case plans.",
+      "number": "2151.412",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.412"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.413 - Motion requesting permanent custody.",
+      "number": "2151.413",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.413"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.414 - Hearing on motion requesting permanent custody.",
+      "number": "2151.414",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.414"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.415 - Motion for order of disposition upon termination of temporary custody order.",
+      "number": "2151.415",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.415"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.416 - Semiannual administrative review of case plans.",
+      "number": "2151.416",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.416"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.417 - Review of child's placement, custody arrangement or case plan.",
+      "number": "2151.417",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.417"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.419 - Court's determination as to whether agency made reasonable efforts to prevent removal or to return child safely home.",
+      "number": "2151.419",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.419"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.4115 - Definitions regarding locating and engaging kinship caregiver.",
+      "number": "2151.4115",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.4115"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.4116 - Intensive efforts required for locating and engaging kinship caregiver.",
+      "number": "2151.4116",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.4116"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.4117 - Court review of intensive efforts.",
+      "number": "2151.4117",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.4117"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.4118 - Court determination intensive efforts not required.",
+      "number": "2151.4118",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.4118"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.4119 - Findings supporting court determination.",
+      "number": "2151.4119",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.4119"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.4120 - Current caregiver equal to kin regarding permanency.",
+      "number": "2151.4120",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.4120"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.4121 - Disqualifying kin unwilling or not interested in providing permanency.",
+      "number": "2151.4121",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.4121"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.4122 - Continued search to locate and engage kinship caregiver permitted.",
+      "number": "2151.4122",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.4122"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.42 - Best interests of child - order granting legal custody.",
+      "number": "2151.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.421 - Reporting child abuse or neglect.",
+      "number": "2151.421",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.421"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.422 - Child living in domestic violence or homeless shelter.",
+      "number": "2151.422",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.422"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.423 - Disclosure of confidential information to protect children.",
+      "number": "2151.423",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.423"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.424 - Notice and opportunity to present evidence to foster caregiver, relative, or prospective adoptive parent.",
+      "number": "2151.424",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.424"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.425 - Children's advocacy center - definitions.",
+      "number": "2151.425",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.425"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.426 - Children's advocacy center - memorandum of understanding.",
+      "number": "2151.426",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.426"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.427 - Children's advocacy center - multidisciplinary team.",
+      "number": "2151.427",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.427"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.428 - Children's advocacy center - interagency agreement.",
+      "number": "2151.428",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.428"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.429 - Traditional and alternative response pathways.",
+      "number": "2151.429",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.429"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.4210 - Child abuse or neglect investigation relating to armed forces.",
+      "number": "2151.4210",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.4210"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.4220 - [Recodified from R.C. 2151.4210] Memorandum of understanding required; signatories.",
+      "number": "2151.4220",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.4220"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.4221 - [Recodified from R.C. 2151.4211] Memorandum of understanding purpose, content.",
+      "number": "2151.4221",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.4221"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.4222 - [Recodified from R.C. 2151.4212] Memorandum of understanding biennial review and update.",
+      "number": "2151.4222",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.4222"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.4223 - [Recodified from R.C. 2151.4213] Consequences limited for failure to follow memorandum of understanding.",
+      "number": "2151.4223",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.4223"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.4225 - [Recodified from R.C. 2151.4215] Memorandum of understanding biennial review, approval by county commissioners.",
+      "number": "2151.4225",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.4225"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.4226 - [Recodified from R.C. 2151.4216] Deadline for biennial review and resolution.",
+      "number": "2151.4226",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.4226"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.4228 - Model memorandum of understanding.",
+      "number": "2151.4228",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.4228"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.4229 - [Recodified from R.C. 2151.4219] Memorandum of understanding audit.",
+      "number": "2151.4229",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.4229"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.4230 - [Recodified from R.C. 2151.4220] Compliance determination.",
+      "number": "2151.4230",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.4230"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.4231 - [Recodified from R.C. 2151.4221] Compliance assurance plan.",
+      "number": "2151.4231",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.4231"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.4232 - [Recodified from R.C. 2151.4222] Memorandum of understanding effective when determined compliant.",
+      "number": "2151.4232",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.4232"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.4233 - [Recodified from R.C. 2151.4223] Compliant, noncompliant counties on department of job and family services website.",
+      "number": "2151.4233",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.4233"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.4234 - [Recodified from R.C. 2151.4224] Memorandum of understanding publication on county website.",
+      "number": "2151.4234",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.4234"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.43 - Charges against adults; defendant bound over to grand jury.",
+      "number": "2151.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.44 - Complaint after hearing.",
+      "number": "2151.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.45 - Emancipated young adult and representative defined.",
+      "number": "2151.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.451 - Jurisdiction over emancipated young adult.",
+      "number": "2151.451",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.451"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.452 - Duties of juvenile court.",
+      "number": "2151.452",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.452"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.453 - Suspension of payments for foster care.",
+      "number": "2151.453",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.453"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.454 - Supporting documents for court determination.",
+      "number": "2151.454",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.454"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.455 - Representation.",
+      "number": "2151.455",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.455"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.46 - Foster children in residential facilities - definitions.",
+      "number": "2151.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.461 - Hospital visit - notification and response.",
+      "number": "2151.461",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.461"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.462 - Hospital visit - report.",
+      "number": "2151.462",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.462"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.463 - Law enforcement interaction - notification to residential facility and agency.",
+      "number": "2151.463",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.463"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.464 - Law enforcement interaction with police report - notification to DCY.",
+      "number": "2151.464",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.464"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.465 - Rules.",
+      "number": "2151.465",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.465"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.466 - Delinquent child charges - notification.",
+      "number": "2151.466",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.466"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.467 - Monthly agency visit to residential facility.",
+      "number": "2151.467",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.467"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.468 - Mandatory review of child's placement.",
+      "number": "2151.468",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.468"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.469 - Agency 24-hour emergency on-call procedure.",
+      "number": "2151.469",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.469"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.4610 - Community organization services - notification.",
+      "number": "2151.4610",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.4610"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.49 - Suspension of sentence.",
+      "number": "2151.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.50 - Forfeiture of bond.",
+      "number": "2151.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.52 - Appeals on questions of law.",
+      "number": "2151.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.53 - Physical and mental examinations - records of examination - expenses.",
+      "number": "2151.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.54 - Fees and costs.",
+      "number": "2151.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.541 - Computerizing court of paying cost of computerized legal research.",
+      "number": "2151.541",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.541"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.542 - Cancellation of uncollectible debts.",
+      "number": "2151.542",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.542"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.55 - Communicating intended placement to foster caregiver in another county and school district.",
+      "number": "2151.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.551 - Contents of communication to foster caregiver in another county and school district.",
+      "number": "2151.551",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.551"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.552 - Written information to foster caregiver in another county and school district.",
+      "number": "2151.552",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.552"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.553 - School district procedure for receiving information.",
+      "number": "2151.553",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.553"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.554 - Information to juvenile court in county other than county of residence.",
+      "number": "2151.554",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.554"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.56 - Interstate compact for juveniles.",
+      "number": "2151.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.57 - Definitions for R.C. sections 2151.57 to 2151.59.",
+      "number": "2151.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.58 - Appointment of compact administrator.",
+      "number": "2151.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.59 - Administration by department of youth services.",
+      "number": "2151.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.65 - Single-county and joint-county juvenile facilities for training, treatment, and rehabilitation.",
+      "number": "2151.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.651 - Application for state assistance for juvenile facilities.",
+      "number": "2151.651",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.651"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.653 - Program of education for youths admitted to school, forestry camp, or other facility.",
+      "number": "2151.653",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.653"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.654 - Agreement other county.",
+      "number": "2151.654",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.654"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.655 - Issuing general obligation securities - joint district financing agreements.",
+      "number": "2151.655",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.655"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.66 - Assessment of taxes for expense.",
+      "number": "2151.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.67 - Receipt and use of gifts and bequests.",
+      "number": "2151.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.67"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.68 - Appointment of district boards of trustees by joint board of county commissioners.",
+      "number": "2151.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.68"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.69 - Organization of district board of trustees.",
+      "number": "2151.69",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.69"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.70 - Superintendent and other personnel.",
+      "number": "2151.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.71 - Operation of district facilities same as county facilities.",
+      "number": "2151.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.72 - Site selection.",
+      "number": "2151.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.73 - Apportioned representation on board of trustees.",
+      "number": "2151.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.74 - Removing a trustee.",
+      "number": "2151.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.74"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.75 - Delegation of powers and duties to board of trustees.",
+      "number": "2151.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.76 - Joint board of county commissioners has authority for choice, construction and furnishing of facility.",
+      "number": "2151.76",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.76"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.77 - Expenses paid by each county.",
+      "number": "2151.77",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.77"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.78 - County withdrawing from district.",
+      "number": "2151.78",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.78"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.79 - Fiscal officer of district.",
+      "number": "2151.79",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.79"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.80 - Expenses of board members.",
+      "number": "2151.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.80"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.81 - Independent living services definitions.",
+      "number": "2151.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.82 - Services to be based on evaluation of strengths and weaknesses of child.",
+      "number": "2151.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.82"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.83 - Jointly prepared written agreement with young adult to provide independent living services.",
+      "number": "2151.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.83"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.84 - Department of children and youth to establish model agreements.",
+      "number": "2151.84",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.84"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.85 - Unmarried, unemancipated minor may seek abortion without notice to parent, guardian or custodian.",
+      "number": "2151.85",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.85"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.86 - Criminal records check.",
+      "number": "2151.86",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.86"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.87 - Prohibiting child from possessing, using, purchasing or receiving tobacco products.",
+      "number": "2151.87",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.87"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.88 - Immunity from liability for damage resulting from forcible entry of a motor vehicle for purpose of removing a minor.",
+      "number": "2151.88",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.88"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.90 - Definitions for R.C. 2151.90 to 2151.9011.",
+      "number": "2151.90",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.90"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.901 - Alteration by court of host family agreement.",
+      "number": "2151.901",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.901"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.902 - Hosting may not be basis of complaint by agency.",
+      "number": "2151.902",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.902"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.903 - Presumption; rebuttal.",
+      "number": "2151.903",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.903"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.904 - Information provided to qualified organization.",
+      "number": "2151.904",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.904"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.906 - Felony conviction.",
+      "number": "2151.906",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.906"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.907 - Confidentiality of records check.",
+      "number": "2151.907",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.907"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.908 - Policies and procedures for employees.",
+      "number": "2151.908",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.908"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.909 - Policies and procedures for host families; Training.",
+      "number": "2151.909",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.909"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.9010 - Host family not subject to certification or supervision.",
+      "number": "2151.9010",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.9010"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.9011 - Duty to report actual or threatened harm.",
+      "number": "2151.9011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.9011"
+    },
+    {
+      "kind": "section",
+      "label": "Section 2151.99 - Penalty.",
+      "number": "2151.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2151.99"
+    }
+  ],
+  "scraped": "2026-07-02T19:41:58+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-2151",
+  "title": "Chapter 2151 - Juvenile Court"
+}

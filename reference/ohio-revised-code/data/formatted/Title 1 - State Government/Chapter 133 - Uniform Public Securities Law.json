@@ -1,0 +1,363 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 133.01 - Uniform public securities law definitions.",
+      "number": "133.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 133.02 - Public securities are negotiable instruments.",
+      "number": "133.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 133.022 - Issuance of school construction bonds; Allocations of state portions; Factors to be considered.",
+      "number": "133.022",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.022"
+    },
+    {
+      "kind": "section",
+      "label": "Section 133.03 - Public securities are lawful investments.",
+      "number": "133.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 133.04 - Net indebtedness of subdivision - certain securities not considered in calculation.",
+      "number": "133.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 133.05 - Net indebtedness of municipal corporation - certain securities not considered in calculation.",
+      "number": "133.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 133.06 - Net indebtedness of school district.",
+      "number": "133.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 133.061 - Net securities indebtedness of school district.",
+      "number": "133.061",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.061"
+    },
+    {
+      "kind": "section",
+      "label": "Section 133.07 - Net indebtedness of county - certain securities not considered in calculation.",
+      "number": "133.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 133.08 - County revenue securities.",
+      "number": "133.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 133.081 - Issuing sales tax supported bonds of county.",
+      "number": "133.081",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.081"
+    },
+    {
+      "kind": "section",
+      "label": "Section 133.082 - Securities issued in anticipation of taxes collected.",
+      "number": "133.082",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.082"
+    },
+    {
+      "kind": "section",
+      "label": "Section 133.083 - Tourism development district revenue supported bonds.",
+      "number": "133.083",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.083"
+    },
+    {
+      "kind": "section",
+      "label": "Section 133.09 - Net indebtedness of township - certain securities not considered in calculation.",
+      "number": "133.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 133.10 - Anticipation securities.",
+      "number": "133.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 133.11 - Issuing general obligation securities of county.",
+      "number": "133.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 133.12 - Issuing general obligation securities to meet emergencies.",
+      "number": "133.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 133.13 - Issuing securities in anticipation of levy or collection of special assessments to pay costs of lighting, sprinkling, sweeping, cleaning, providing related or similar services.",
+      "number": "133.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 133.14 - Issuance of securities to pay final judgment.",
+      "number": "133.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 133.15 - Issuance of securities to pay for permanent improvements.",
+      "number": "133.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 133.151 - Issuing self-supporting securities.",
+      "number": "133.151",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.151"
+    },
+    {
+      "kind": "section",
+      "label": "Section 133.152 - Issuance of securities to pay for joint county juvenile detention facility improvements.",
+      "number": "133.152",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.152"
+    },
+    {
+      "kind": "section",
+      "label": "Section 133.16 - Capitalized interest may be included in the principal amount of securities.",
+      "number": "133.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 133.17 - Anticipation securities for special assessments.",
+      "number": "133.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 133.18 - Submission of question of issuance of general obligation bonds to electors.",
+      "number": "133.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 133.19 - Fiscal officer of subdivision to certify estimate of maximum maturity.",
+      "number": "133.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 133.20 - Maximum maturity.",
+      "number": "133.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 133.21 - Paying principal amount of securities in installments.",
+      "number": "133.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 133.22 - Authorizing anticipatory securities.",
+      "number": "133.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 133.23 - Legislation authorizing issuance of anticipatory securities.",
+      "number": "133.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 133.24 - Tax anticipation notes anticipating collection of proceeds of voted property tax levy.",
+      "number": "133.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 133.25 - Levying property tax to debt charges on securities payable from property taxes.",
+      "number": "133.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 133.26 - Securities to contain statement of purposes and authorization.",
+      "number": "133.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 133.27 - Signing securities.",
+      "number": "133.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 133.29 - Offering of securities to officers of bond investment fund or treasury investment board.",
+      "number": "133.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 133.30 - Sale of securities.",
+      "number": "133.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 133.31 - Delivering securities.",
+      "number": "133.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 133.32 - Depositing proceeds from sale.",
+      "number": "133.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 133.33 - Furnishing of transcript of proceedings to purchaser.",
+      "number": "133.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 133.34 - Refunding securities.",
+      "number": "133.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 133.35 - Exchange of securities in depositories.",
+      "number": "133.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 133.36 - Refunding of securities under bankruptcy act.",
+      "number": "133.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 133.37 - Refunding special assessment bonds.",
+      "number": "133.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 133.38 - Proceedings when anticipatory securities remain unsold.",
+      "number": "133.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 133.39 - Issuance of duplicate security, check or warrant - alternative.",
+      "number": "133.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 133.40 - Exchange procedures for securities.",
+      "number": "133.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 133.41 - Register of fully registered securities - payment of debt charges - transfers.",
+      "number": "133.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 133.42 - Registration of coupon securities - transfer.",
+      "number": "133.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 133.50 - Delivery of bonds.",
+      "number": "133.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 133.51 - Issuing public obligations for housing purposes.",
+      "number": "133.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 133.52 - Public obligations for conservation/revitalization purposes.",
+      "number": "133.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 133.54 - Refunding serial bonds - reassessment - taxpaying period - rate of interest.",
+      "number": "133.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 133.55 - Notice of reassessment - tax duplicate - objections - hearing.",
+      "number": "133.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 133.56 - Levy - certification - payment and collection of reassessments - exception.",
+      "number": "133.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 133.57 - Pending suits - lien of reassessment to attach to land in hands of purchaser at judicial sale - order of court.",
+      "number": "133.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 133.60 - Issuing bonds to acquire agricultural easements.",
+      "number": "133.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 133.61 - Issuing general obligation bonds to acquire agricultural easements.",
+      "number": "133.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 133.70 - Complaint for validation of authority to issue or enter into securities.",
+      "number": "133.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 133.99 - Penalty.",
+      "number": "133.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-133.99"
+    }
+  ],
+  "scraped": "2026-07-02T19:31:49+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-133",
+  "title": "Chapter 133 - Uniform Public Securities Law"
+}

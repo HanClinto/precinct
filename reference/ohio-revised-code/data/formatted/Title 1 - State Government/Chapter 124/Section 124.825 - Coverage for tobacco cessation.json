@@ -1,0 +1,48 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Cost-sharing requirement\" means any expenditure required by or on behalf of an individual receiving health care benefits provided under section 124.82 of the Revised Code. \"Cost-sharing requirement\" includes deductibles, coinsurance, copayments, or similar charges. \"Cost-sharing requirement\" does not include premiums, balance billing amounts for non-network providers, or spending for noncovered services.",
+      "id": "124.825-cost-sharing-requirement",
+      "normalized": "cost-sharing requirement",
+      "scope": "(A) As used in this section:",
+      "section": "124.825",
+      "source_title": "Section 124.825 - Coverage for tobacco cessation.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-124.825",
+      "term": "Cost-sharing requirement"
+    },
+    {
+      "definition": "(2) \"Step therapy protocol\" has the same meaning as in section 3901.83 of the Revised Code.\n\n(B) Notwithstanding section 3901.71 of the Revised Code or any other provision of the Revised Code, the health care benefits provided under section 124.82 of the Revised Code to state employees shall include coverage of both of the following, subject to division (E) of this section:\n\n(1) All tobacco cessation medications approved by the United States food and drug administration;\n\n(2) All forms of tobacco cessation services recommended by the United States preventive services task force, including individual, group, and telephone counseling and any combination thereof.\n\n(C) None of the following conditions shall be imposed with respect to the coverage required by this section:\n\n(1) Counseling requirements for tobacco cessation medication;\n\n(2) Except as provided in division (C)(4) of this section, limits on the duration of services, including annual or lifetime limits on the number of covered attempts to quit using tobacco;\n\n(3) Cost-sharing requirements;\n\n(4) Prior authorization requirements, step therapy protocols, or any other utilization management requirements, except that prior authorization may be required for either of the following:\n\n(a) Treatment that exceeds the duration recommended in the United States public health service clinical practice guidelines on treating tobacco use and dependence;\n\n(b) Services associated with more than two attempts to quit using tobacco within a twelve-month period.\n\n(D) The health care benefits provided under section 124.82 of the Revised Code may cover tobacco cessation services in addition to the services that must be covered under this section or may exclude coverage of additional tobacco cessation services.\n\n(E) The director of health shall adopt rules in accordance with Chapter 119. of the Revised Code that establish standards and procedures for approving the forms of tobacco cessation medications and services that must be covered under this section. The rules shall also establish standards and procedures for updating the approved forms of tobacco cessation medications and services that must be covered under this section when the approved forms are modified by the United States food and drug administration, United States public health service, or United States preventive services task force.\n\n(F) Each insurance company or health plan providing health care benefits under section 124.82 of the Revised Code to state employees shall do both of the following:\n\n(1) Inform state employees of the coverage required by this section;\n\n(2) Market the coverage required by this section to state employees.",
+      "id": "124.825-step-therapy-protocol",
+      "normalized": "step therapy protocol",
+      "scope": "(A) As used in this section:",
+      "section": "124.825",
+      "source_title": "Section 124.825 - Coverage for tobacco cessation.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-124.825",
+      "term": "Step therapy protocol"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "124.82",
+      "number": "124.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.82"
+    },
+    {
+      "kind": "section",
+      "label": "3901.83",
+      "number": "3901.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.83"
+    },
+    {
+      "kind": "section",
+      "label": "3901.71",
+      "number": "3901.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.71"
+    }
+  ],
+  "scraped": "2026-07-02T19:31:40+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-124.825",
+  "title": "Section 124.825 - Coverage for tobacco cessation."
+}

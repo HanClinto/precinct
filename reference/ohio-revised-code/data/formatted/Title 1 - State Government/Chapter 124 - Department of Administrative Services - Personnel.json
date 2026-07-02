@@ -1,0 +1,783 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 124.01 - Department of administrative services - personnel definitions.",
+      "number": "124.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.011 - City school districts - civil service commissions.",
+      "number": "124.011",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.011"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.02 - Director of administrative services and state personnel board of review to serve as state civil service commission.",
+      "number": "124.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.03 - State personnel board of review - powers and duties.",
+      "number": "124.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.04 - Director of administrative services powers, duties, functions.",
+      "number": "124.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.05 - State personnel board of review organization.",
+      "number": "124.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.06 - Civil service appointments and removals to be made in accordance with chapter.",
+      "number": "124.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.07 - Director of administrative services employees, services and facilities.",
+      "number": "124.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.08 - Director of administrative services offices.",
+      "number": "124.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.09 - Civil service powers of director of administrative services.",
+      "number": "124.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.10 - Garnishment actions against state employees and officers.",
+      "number": "124.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.11 - Unclassified service - classified service.",
+      "number": "124.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.12 - Notice of appointment to unclassified position.",
+      "number": "124.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.13 - Vacation leave.",
+      "number": "124.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.131 - Vacation leave for employees of institution of higher education transferred to state control.",
+      "number": "124.131",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.131"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.132 - Disaster service leave.",
+      "number": "124.132",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.132"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.133 - Experimental leave and benefits program.",
+      "number": "124.133",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.133"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.134 - Vacation leave - employees exempt from collective bargaining.",
+      "number": "124.134",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.134"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.135 - Jury or trial participation leave - charitable advisory panel leave.",
+      "number": "124.135",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.135"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.136 - Parental leave and benefits.",
+      "number": "124.136",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.136"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.137 - Parental leave benefit fund.",
+      "number": "124.137",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.137"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.138 - Paid leave and benefits for eligible full-time fire fighters employed by adjutant general.",
+      "number": "124.138",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.138"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.139 - Organ donor leave.",
+      "number": "124.139",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.139"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.1310 - EMT-basic, EMT-I, first responder, paramedic, or volunteer firefighter leave.",
+      "number": "124.1310",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.1310"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.1311 - Veteran funeral honors detail leave.",
+      "number": "124.1311",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.1311"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.1312 - Caregiver leave.",
+      "number": "124.1312",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.1312"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.14 - Job classification - pay ranges.",
+      "number": "124.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.141 - Appointment incentive program.",
+      "number": "124.141",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.141"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.142 - Compensation of chaplains.",
+      "number": "124.142",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.142"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.15 - Pay ranges and step values.",
+      "number": "124.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.151 - Direct deposit of compensation.",
+      "number": "124.151",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.151"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.152 - Exempt employee salary schedules.",
+      "number": "124.152",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.152"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.17 - Employee awards system.",
+      "number": "124.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.18 - Standard work week - compensatory time - overtime pay - holidays.",
+      "number": "124.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.181 - Pay supplements - shift differentials.",
+      "number": "124.181",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.181"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.182 - Professional development fund.",
+      "number": "124.182",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.182"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.183 - One-time pay supplements.",
+      "number": "124.183",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.183"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.19 - State holidays - university holidays.",
+      "number": "124.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.20 - Classification rules - record keeping.",
+      "number": "124.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.21 - Civil service districts.",
+      "number": "124.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.22 - Educational and citizenship requirements for civil service examinations.",
+      "number": "124.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.23 - Examinations.",
+      "number": "124.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.231 - Special examinations for legally blind or legally deaf persons.",
+      "number": "124.231",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.231"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.24 - Examinations for employees engaged in mineral resource safety.",
+      "number": "124.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.241 - Professional employees and registered service employees of county board of developmental disabilities.",
+      "number": "124.241",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.241"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.25 - Formal application for examination.",
+      "number": "124.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.26 - Eligibility lists; veteran's preference; expiration of list.",
+      "number": "124.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.27 - Appointments from eligible lists - probation.",
+      "number": "124.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.271 - Provisional employees.",
+      "number": "124.271",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.271"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.29 - Authority for temporary furloughs.",
+      "number": "124.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.30 - Filling classified positions in civil service without competition.",
+      "number": "124.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.301 - Waive residency for job and family services employee.",
+      "number": "124.301",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.301"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.31 - Promotions.",
+      "number": "124.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.32 - Transfers - reinstatements.",
+      "number": "124.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.321 - Reduction in work force - layoffs - job abolishment.",
+      "number": "124.321",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.321"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.322 - Layoff procedures.",
+      "number": "124.322",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.322"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.323 - Layoff order.",
+      "number": "124.323",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.323"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.324 - Layoff displacement rights.",
+      "number": "124.324",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.324"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.325 - Retention points for continuous service and efficiency.",
+      "number": "124.325",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.325"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.326 - Layoff jurisdictions.",
+      "number": "124.326",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.326"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.327 - Layoff lists - reinstatement - reemployment.",
+      "number": "124.327",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.327"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.328 - Layoff, displacement appeals.",
+      "number": "124.328",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.328"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.33 - Transfers - appeal - reimbursement of expenses.",
+      "number": "124.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.34 - Reduction in pay or position - suspension - removal.",
+      "number": "124.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.341 - Violation or misuse - whistleblower protection.",
+      "number": "124.341",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.341"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.35 - Refusal to testify constitutes unfitness.",
+      "number": "124.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.36 - Cause for removal - teacher terminations.",
+      "number": "124.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.37 - Police and fire departments reduction in work force - layoffs - job abolishment.",
+      "number": "124.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.38 - Sick leave.",
+      "number": "124.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.381 - Occupational injury leave program.",
+      "number": "124.381",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.381"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.382 - Sick leave credit - misuse of sick leave.",
+      "number": "124.382",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.382"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.383 - Options with respect to sick leave credit remaining at end of year.",
+      "number": "124.383",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.383"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.384 - Accumulated sick leave.",
+      "number": "124.384",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.384"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.385 - Disability leave benefits.",
+      "number": "124.385",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.385"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.386 - Personal leave.",
+      "number": "124.386",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.386"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.387 - Bereavement leave.",
+      "number": "124.387",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.387"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.388 - Administrative leave.",
+      "number": "124.388",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.388"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.389 - Employee exchange program.",
+      "number": "124.389",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.389"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.39 - Unused sick leave.",
+      "number": "124.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.391 - Donation of paid leave program.",
+      "number": "124.391",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.391"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.392 - Exempt employees cost savings program.",
+      "number": "124.392",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.392"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.393 - Mandatory cost savings program applicable to exempt employees.",
+      "number": "124.393",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.393"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.394 - Modified work week schedule program.",
+      "number": "124.394",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.394"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.40 - Civil service commissions in municipalities and townships.",
+      "number": "124.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.41 - Police department qualifications - police cadet program.",
+      "number": "124.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.411 - Police department appointment from annexed territory.",
+      "number": "124.411",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.411"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.42 - Firefighter qualifications.",
+      "number": "124.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.43 - Separate examinations and eligibility lists for police and firemen.",
+      "number": "124.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.44 - Police department promotions.",
+      "number": "124.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.45 - Fire department promotions.",
+      "number": "124.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.46 - Fire department eligibility lists.",
+      "number": "124.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.47 - Fire department special positions.",
+      "number": "124.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.48 - Fire department vacancies.",
+      "number": "124.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.49 - Fire department probationary period.",
+      "number": "124.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.491 - Authorized educational achievement of police officer or firefighter.",
+      "number": "124.491",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.491"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.50 - Reinstatement after separation due to injury or physical disability incurred in the performance of duty.",
+      "number": "124.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.51 - Secretary of police - secretary of fire.",
+      "number": "124.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.52 - Police department traffic control unit head exempt from civil service.",
+      "number": "124.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.53 - Superintendent of buildings - superintendent of fire equipment exempt from civil service.",
+      "number": "124.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.54 - Boards of education to share cost of civil service administration.",
+      "number": "124.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.56 - Investigation of violations.",
+      "number": "124.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.57 - Prohibition against partisan political activity.",
+      "number": "124.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.58 - Fraud or false representation in examinations.",
+      "number": "124.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.59 - Payment for appointment or promotion.",
+      "number": "124.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.60 - Abuse of power for political reasons.",
+      "number": "124.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.61 - Abuse of political authority or influence.",
+      "number": "124.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.62 - Violations of civil service rules or statutes.",
+      "number": "124.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.63 - Taxpayer's suit.",
+      "number": "124.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.64 - Prosecutions for violations of civil service rules or statutes.",
+      "number": "124.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.70 - No residency requirement for higher education employees.",
+      "number": "124.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.71 - Unauthorized operation of motor vehicles.",
+      "number": "124.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.74 - Criminal records check for employees with access to federal tax information.",
+      "number": "124.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.74"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.81 - Insurance benefits.",
+      "number": "124.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.82 - Health insurance benefits.",
+      "number": "124.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.82"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.821 - Health care spending account fund.",
+      "number": "124.821",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.821"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.822 - Dependent care spending account fund.",
+      "number": "124.822",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.822"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.823 - Medical savings account pilot program.",
+      "number": "124.823",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.823"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.824 - Elections by death benefit fund recipient.",
+      "number": "124.824",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.824"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.825 - Coverage for tobacco cessation.",
+      "number": "124.825",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.825"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.83 - Disability and income protection - state employee disability leave benefit fund.",
+      "number": "124.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.83"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.84 - Long-term care insurance - state employees.",
+      "number": "124.84",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.84"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.841 - Long-term care insurance - political subdivision employees.",
+      "number": "124.841",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.841"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.86 - Employee educational development fund.",
+      "number": "124.86",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.86"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.87 - State employee health benefit fund.",
+      "number": "124.87",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.87"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.88 - State employee assistance program.",
+      "number": "124.88",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.88"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.90 - Waiver of federal law concerning discrimination in employment.",
+      "number": "124.90",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.90"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.91 - Annual survey on diversity within agency workforce.",
+      "number": "124.91",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.91"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.93 - Discrimination by health insuring corporation against physician.",
+      "number": "124.93",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.93"
+    },
+    {
+      "kind": "section",
+      "label": "Section 124.99 - Penalty.",
+      "number": "124.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-124.99"
+    }
+  ],
+  "scraped": "2026-07-02T19:31:40+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-124",
+  "title": "Chapter 124 - Department of Administrative Services - Personnel"
+}

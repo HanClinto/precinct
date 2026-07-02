@@ -1,0 +1,107 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-5309
+Scraped: 2026-07-02T20:11:57+00:00
+
+# Chapter 5309 - Registration Of Land Titles
+
+## Sections
+
+- Section 5309.01 - Registration of land title definitions.
+- Section 5309.02 - Jurisdiction of the court of common pleas and the probate court.
+- Section 5309.03 - Powers of the county recorder.
+- Section 5309.031 - Maintain registered land records by use of photographic, magnetic, electronic, or certain other processes means, or displays.
+- Section 5309.04 - Examiners of titles - qualifications, bond, duties.
+- Section 5309.05 - Persons permitted to have title to land registered.
+- Section 5309.06 - Estates or interests which may be registered - procedure.
+- Section 5309.07 - Tax deed entitled to be registered.
+- Section 5309.08 - Application to register title.
+- Section 5309.081 - Death of survivorship tenant transfer of interest.
+- Section 5309.082 - Survivorship tenant medicaid estate recovery form.
+- Section 5309.09 - Contents of application.
+- Section 5309.10 - Assent by spouse.
+- Section 5309.11 - Application by nonresident.
+- Section 5309.12 - Parties.
+- Section 5309.13 - Record and index of applications.
+- Section 5309.14 - Application referred to examiner of titles for investigation - report.
+- Section 5309.15 - Publication of notice of filing and substance of application.
+- Section 5309.16 - Answer day.
+- Section 5309.17 - Guardian ad litem - duties, compensation.
+- Section 5309.18 - Answer or cross-petition in land registration case.
+- Section 5309.19 - Order of default and decree of title and registration - final order.
+- Section 5309.20 - Cause may be referred to examiner of titles for hearing and report.
+- Section 5309.21 - Effect of decree dismissing application.
+- Section 5309.22 - Death of applicant.
+- Section 5309.23 - Decree of confirmation and registration - effect.
+- Section 5309.24 - Contents of decree of registration.
+- Section 5309.25 - Register of titles - duties of county recorder and clerk.
+- Section 5309.26 - Entering original certificate of title.
+- Section 5309.27 - Certificates to owners as tenants in common - duplicate certificates.
+- Section 5309.28 - Holder of certificate of title holds free from encumbrances - exceptions.
+- Section 5309.281 - Restrictive covenants constituting unlawful discriminatory practices.
+- Section 5309.29 - Decree and certificate of title run with the land.
+- Section 5309.30 - Signature and address of owner taken and preserved.
+- Section 5309.31 - Lost or destroyed certificate of title.
+- Section 5309.32 - Records of surveys of registered land.
+- Section 5309.33 - Tract and alphabetical indexes.
+- Section 5309.34 - Transferee of registered land not on notice or inquiry.
+- Section 5309.35 - Record of trusts and exceptional estates in registered land.
+- Section 5309.36 - Certificate notation carried until cancellation.
+- Section 5309.37 - Transfers of registered land - certificate as to taxes and special assessments.
+- Section 5309.38 - Entry book.
+- Section 5309.39 - Instruments shall be filed under proper numbers.
+- Section 5309.40 - Transfer of estate by registered owner in fee.
+- Section 5309.41 - Canceled instruments shall be preserved.
+- Section 5309.42 - Transfer of an estate less than a fee.
+- Section 5309.43 - Questions as to instruments presented for registration referred to court of common pleas or to examiner of titles.
+- Section 5309.44 - New certificate of title issued.
+- Section 5309.45 - Application for registration on the death of registered owner.
+- Section 5309.46 - Title acquired through executor.
+- Section 5309.47 - Encumbrances on registered land.
+- Section 5309.48 - Mortgage, encumbrance entered - mortgagee's duplicate certificate.
+- Section 5309.49 - Filing and notation of instruments affecting registered land.
+- Section 5309.50 - Records in addition to registration.
+- Section 5309.51 - Assignment of lease, encumbrance, or lien upon registered land - registration of waivers of priority of lien.
+- Section 5309.52 - Entry of release or discharge of encumbrance.
+- Section 5309.53 - Decree or order of court a lien upon registered land.
+- Section 5309.54 - Judgment of county court judge, mayor or other officer a lien upon registered land.
+- Section 5309.55 - Lien attaches in proceedings in execution and attachment.
+- Section 5309.56 - Writ issued from county other than where land situated.
+- Section 5309.57 - Accounts of mechanics or laborers constitute lien.
+- Section 5309.58 - Action or proceeding lis pendens.
+- Section 5309.59 - Certificate of sale must be presented to recorder - notation.
+- Section 5309.60 - No registration or certificate of title shall issue upon tax deed except on order of court.
+- Section 5309.61 - Partition and sale confirmed only on report of examiner of titles.
+- Section 5309.62 - Certificates of title issued to allottees in partition.
+- Section 5309.63 - Liens attach to lands set off in partition proceedings.
+- Section 5309.64 - Transfer of title under order of sale.
+- Section 5309.65 - Transfer of title by assignee or trustee - procedure.
+- Section 5309.66 - Optional registration of title to land sold in partition or by assignee or administrator.
+- Section 5309.67 - Nonconformity does not void proceedings.
+- Section 5309.68 - Certificate of title - surrender - withdrawal.
+- Section 5309.69 - Declaring trusts upon registered land - negotiations.
+- Section 5309.70 - Attachment of rights of dower and homestead.
+- Section 5309.71 - Proceedings in eminent domain.
+- Section 5309.72 - Proceedings by adverse claimant.
+- Section 5309.73 - Notice by claimant to registered owner.
+- Section 5309.74 - Power of attorney must be filed with county recorder - revocation.
+- Section 5309.75 - Statements in instrument constituting a person an attorney in fact.
+- Section 5309.76 - Alterations or erasures not permitted - exceptions.
+- Section 5309.77 - Effect of instruments dealing with registered land.
+- Section 5309.78 - Application for continuation and certification of duplicate certificate of title.
+- Section 5309.79 - References required in instruments transferring title or creating or discharging liens.
+- Section 5309.80 - Statements or indorsements contained in instruments presented for registration.
+- Section 5309.81 - Parties to suit or proceeding involving registered land.
+- Section 5309.82 - Notice to registered owner upon the filing of instruments.
+- Section 5309.83 - Notice of appeal - petition, bond, and transcript.
+- Section 5309.84 - Right to appeal on questions of law and fact or on questions of law to court of appeals.
+- Section 5309.85 - Burdens and incidents of registered land.
+- Section 5309.86 - Signature of county recorder on paper and electronic instruments.
+- Section 5309.87 - Mistakes.
+- Section 5309.88 - Death of maker before registration.
+- Section 5309.89 - Title by prescription or adverse possession.
+- Section 5309.91 - Enforcement of charges.
+- Section 5309.92 - Transfers.
+- Section 5309.93 - Effective liens.
+- Section 5309.94 - Serving and waiver of notices.
+- Section 5309.95 - Materials furnished by board of county commissioners.
+- Section 5309.96 - Instruments shall not be taken from office - copies.
+- Section 5309.98 - Rules of practice and procedure.

@@ -1,0 +1,264 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Affiliate\" means any person or entity that has ownership or control of a contracting entity, is owned or controlled by a contracting entity, or is under common ownership or control with a contracting entity.",
+      "id": "3963.01-affiliate",
+      "normalized": "affiliate",
+      "scope": "As used in this chapter:",
+      "section": "3963.01",
+      "source_title": "Section 3963.01 - Health care contracts definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3963.01",
+      "term": "Affiliate"
+    },
+    {
+      "definition": "(B) \"Basic health care services\" has the same meaning as in division (A) of section 1751.01 of the Revised Code, except that it does not include any services listed in that division that are provided by a pharmacist or nursing home.",
+      "id": "3963.01-basic-health-care-services",
+      "normalized": "basic health care services",
+      "scope": "As used in this chapter:",
+      "section": "3963.01",
+      "source_title": "Section 3963.01 - Health care contracts definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3963.01",
+      "term": "Basic health care services"
+    },
+    {
+      "definition": "(C) \"Covered vision services\" means vision care services or vision care materials for which a reimbursement is available under an enrollee's health care contract, or for which a reimbursement would be available but for the application of contractual limitations, such as a deductible, copayment, coinsurance, waiting period, annual or lifetime maximum, frequency limitation, alternative benefit payment, or any other limitation.",
+      "id": "3963.01-covered-vision-services",
+      "normalized": "covered vision services",
+      "scope": "As used in this chapter:",
+      "section": "3963.01",
+      "source_title": "Section 3963.01 - Health care contracts definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3963.01",
+      "term": "Covered vision services"
+    },
+    {
+      "definition": "(D) \"Contracting entity\" means any person that has a primary business purpose of contracting with participating providers for the delivery of health care services.",
+      "id": "3963.01-contracting-entity",
+      "normalized": "contracting entity",
+      "scope": "As used in this chapter:",
+      "section": "3963.01",
+      "source_title": "Section 3963.01 - Health care contracts definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3963.01",
+      "term": "Contracting entity"
+    },
+    {
+      "definition": "(E) \"Covered dental services\" means dental care services for which reimbursement is available under an enrollee's health care contract, or for which a reimbursement would be available but for the application of contractual limitations, such as a deductible, copayment, coinsurance, waiting period, annual or lifetime maximum, frequency limitation, alternative benefit payment, or any other limitation.",
+      "id": "3963.01-covered-dental-services",
+      "normalized": "covered dental services",
+      "scope": "As used in this chapter:",
+      "section": "3963.01",
+      "source_title": "Section 3963.01 - Health care contracts definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3963.01",
+      "term": "Covered dental services"
+    },
+    {
+      "definition": "(F) \"Credentialing\" means the process of assessing and validating the qualifications of a provider applying to be approved by a contracting entity to provide basic health care services, specialty health care services, or supplemental health care services to enrollees.",
+      "id": "3963.01-credentialing",
+      "normalized": "credentialing",
+      "scope": "As used in this chapter:",
+      "section": "3963.01",
+      "source_title": "Section 3963.01 - Health care contracts definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3963.01",
+      "term": "Credentialing"
+    },
+    {
+      "definition": "(G) \"Dental care provider\" means a dentist licensed under Chapter 4715. of the Revised Code. \"Dental care provider\" does not include a dental hygienist licensed under Chapter 4715. of the Revised Code.",
+      "id": "3963.01-dental-care-provider",
+      "normalized": "dental care provider",
+      "scope": "As used in this chapter:",
+      "section": "3963.01",
+      "source_title": "Section 3963.01 - Health care contracts definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3963.01",
+      "term": "Dental care provider"
+    },
+    {
+      "definition": "(H) \"Edit\" means adjusting one or more procedure codes billed by a participating provider on a claim for payment or a practice that results in any of the following:\n\n(1) Payment for some, but not all of the procedure codes originally billed by a participating provider;\n\n(2) Payment for a different procedure code than the procedure code originally billed by a participating provider;\n\n(3) A reduced payment as a result of services provided to an enrollee that are claimed under more than one procedure code on the same service date.",
+      "id": "3963.01-edit",
+      "normalized": "edit",
+      "scope": "As used in this chapter:",
+      "section": "3963.01",
+      "source_title": "Section 3963.01 - Health care contracts definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3963.01",
+      "term": "Edit"
+    },
+    {
+      "definition": "(I) \"Electronic claims transport\" means to accept and digitize claims or to accept claims already digitized, to place those claims into a format that complies with the electronic transaction standards issued by the United States department of health and human services pursuant to the \"Health Insurance Portability and Accountability Act of 1996,\" 110 Stat. 1955, 42 U.S.C. 1320d, et seq., as those electronic standards are applicable to the parties and as those electronic standards are updated from time to time, and to electronically transmit those claims to the appropriate contracting entity, payer, or third-party administrator.",
+      "id": "3963.01-electronic-claims-transport",
+      "normalized": "electronic claims transport",
+      "scope": "As used in this chapter:",
+      "section": "3963.01",
+      "source_title": "Section 3963.01 - Health care contracts definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3963.01",
+      "term": "Electronic claims transport"
+    },
+    {
+      "definition": "(J) \"Enrollee\" means any person eligible for health care benefits under a health benefit plan, including an eligible recipient of medicaid, and includes all of the following terms:\n\n(1) \"Enrollee\" and \"subscriber\" as defined by section 1751.01 of the Revised Code;\n\n(2) \"Member\" as defined by section 1739.01 of the Revised Code;\n\n(3) \"Insured\" and \"plan member\" pursuant to Chapter 3923. of the Revised Code;\n\n(4) \"Beneficiary\" as defined by section 3901.38 of the Revised Code.",
+      "id": "3963.01-enrollee",
+      "normalized": "enrollee",
+      "scope": "As used in this chapter:",
+      "section": "3963.01",
+      "source_title": "Section 3963.01 - Health care contracts definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3963.01",
+      "term": "Enrollee"
+    },
+    {
+      "definition": "(K) \"Health care contract\" means a contract entered into, materially amended, or renewed between a contracting entity and a participating provider for the delivery of basic health care services, specialty health care services, or supplemental health care services to enrollees.",
+      "id": "3963.01-health-care-contract",
+      "normalized": "health care contract",
+      "scope": "As used in this chapter:",
+      "section": "3963.01",
+      "source_title": "Section 3963.01 - Health care contracts definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3963.01",
+      "term": "Health care contract"
+    },
+    {
+      "definition": "(L) \"Health care services\" means basic health care services, specialty health care services, and supplemental health care services.",
+      "id": "3963.01-health-care-services",
+      "normalized": "health care services",
+      "scope": "As used in this chapter:",
+      "section": "3963.01",
+      "source_title": "Section 3963.01 - Health care contracts definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3963.01",
+      "term": "Health care services"
+    },
+    {
+      "definition": "(M) \"Material amendment\" means an amendment to a health care contract that decreases the participating provider's payment or compensation, changes the administrative procedures in a way that may reasonably be expected to significantly increase the provider's administrative expenses, or adds a new product. A material amendment does not include any of the following:\n\n(1) A decrease in payment or compensation resulting solely from a change in a published fee schedule upon which the payment or compensation is based and the date of applicability is clearly identified in the contract;\n\n(2) A decrease in payment or compensation that was anticipated under the terms of the contract, if the amount and date of applicability of the decrease is clearly identified in the contract;\n\n(3) An administrative change that may significantly increase the provider's administrative expense, the specific applicability of which is clearly identified in the contract;\n\n(4) Changes to an existing prior authorization, precertification, notification, or referral program that do not substantially increase the provider's administrative expense;\n\n(5) Changes to an edit program or to specific edits if the participating provider is provided notice of the changes pursuant to division (A)(1) of section 3963.04 of the Revised Code and the notice includes information sufficient for the provider to determine the effect of the change;\n\n(6) Changes to a health care contract described in division (B) of section 3963.04 of the Revised Code.",
+      "id": "3963.01-material-amendment",
+      "normalized": "material amendment",
+      "scope": "As used in this chapter:",
+      "section": "3963.01",
+      "source_title": "Section 3963.01 - Health care contracts definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3963.01",
+      "term": "Material amendment"
+    },
+    {
+      "definition": "(N) \"Participating provider\" means a provider that has a health care contract with a contracting entity and is entitled to reimbursement for health care services rendered to an enrollee under the health care contract.",
+      "id": "3963.01-participating-provider",
+      "normalized": "participating provider",
+      "scope": "As used in this chapter:",
+      "section": "3963.01",
+      "source_title": "Section 3963.01 - Health care contracts definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3963.01",
+      "term": "Participating provider"
+    },
+    {
+      "definition": "(O) \"Payer\" means any person that assumes the financial risk for the payment of claims under a health care contract or the reimbursement for health care services provided to enrollees by participating providers pursuant to a health care contract.",
+      "id": "3963.01-payer",
+      "normalized": "payer",
+      "scope": "As used in this chapter:",
+      "section": "3963.01",
+      "source_title": "Section 3963.01 - Health care contracts definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3963.01",
+      "term": "Payer"
+    },
+    {
+      "definition": "(P) \"Primary enrollee\" means a person who is responsible for making payments for participation in a health care plan or an enrollee whose employment or other status is the basis of eligibility for enrollment in a health care plan.",
+      "id": "3963.01-primary-enrollee",
+      "normalized": "primary enrollee",
+      "scope": "As used in this chapter:",
+      "section": "3963.01",
+      "source_title": "Section 3963.01 - Health care contracts definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3963.01",
+      "term": "Primary enrollee"
+    },
+    {
+      "definition": "(Q) \"Procedure codes\" includes the American medical association's current procedural terminology code, the American dental association's current dental terminology, and the centers for medicare and medicaid services health care common procedure coding system.",
+      "id": "3963.01-procedure-codes",
+      "normalized": "procedure codes",
+      "scope": "As used in this chapter:",
+      "section": "3963.01",
+      "source_title": "Section 3963.01 - Health care contracts definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3963.01",
+      "term": "Procedure codes"
+    },
+    {
+      "definition": "(R) \"Product\" means one of the following types of categories of coverage for which a participating provider may be obligated to provide health care services pursuant to a health care contract:\n\n(1) A health maintenance organization or other product provided by a health insuring corporation;\n\n(2) A preferred provider organization;\n\n(3) Medicare;\n\n(4) Medicaid;\n\n(5) Workers' compensation.",
+      "id": "3963.01-product",
+      "normalized": "product",
+      "scope": "As used in this chapter:",
+      "section": "3963.01",
+      "source_title": "Section 3963.01 - Health care contracts definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3963.01",
+      "term": "Product"
+    },
+    {
+      "definition": "(S) \"Provider\" means a physician, podiatrist, dentist, chiropractor, optometrist, psychologist, physician assistant, advanced practice registered nurse, occupational therapist, massage therapist, physical therapist, licensed professional counselor, licensed professional clinical counselor, hearing aid dealer, orthotist, prosthetist, home health agency, hospice care program, pediatric respite care program, or hospital, or a provider organization or physician-hospital organization that is acting exclusively as an administrator on behalf of a provider to facilitate the provider's participation in health care contracts.\n\n\"Provider\" does not mean either of the following:\n\n(1) A nursing home;\n\n(2) A provider organization or physician-hospital organization that leases the provider organization's or physician-hospital organization's network to a third party or contracts directly with employers or health and welfare funds.",
+      "id": "3963.01-provider",
+      "normalized": "provider",
+      "scope": "As used in this chapter:",
+      "section": "3963.01",
+      "source_title": "Section 3963.01 - Health care contracts definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3963.01",
+      "term": "Provider"
+    },
+    {
+      "definition": "(T) \"Specialty health care services\" has the same meaning as in section 1751.01 of the Revised Code, except that it does not include any services listed in division (B) of section 1751.01 of the Revised Code that are provided by a pharmacist or a nursing home.",
+      "id": "3963.01-specialty-health-care-services",
+      "normalized": "specialty health care services",
+      "scope": "As used in this chapter:",
+      "section": "3963.01",
+      "source_title": "Section 3963.01 - Health care contracts definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3963.01",
+      "term": "Specialty health care services"
+    },
+    {
+      "definition": "(U) \"Supplemental health care services\" has the same meaning as in division (B) of section 1751.01 of the Revised Code, except that it does not include any services listed in that division that are provided by a pharmacist or nursing home.",
+      "id": "3963.01-supplemental-health-care-services",
+      "normalized": "supplemental health care services",
+      "scope": "As used in this chapter:",
+      "section": "3963.01",
+      "source_title": "Section 3963.01 - Health care contracts definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3963.01",
+      "term": "Supplemental health care services"
+    },
+    {
+      "definition": "(V) \"Vision care materials\" includes lenses, devices containing lenses, prisms, lens treatments and coatings, contact lenses, orthopics, vision training, and any prosthetic device necessary to correct, relieve, or treat any defect or abnormal condition of the human eye or its adnexa.",
+      "id": "3963.01-vision-care-materials",
+      "normalized": "vision care materials",
+      "scope": "As used in this chapter:",
+      "section": "3963.01",
+      "source_title": "Section 3963.01 - Health care contracts definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3963.01",
+      "term": "Vision care materials"
+    },
+    {
+      "definition": "(W) \"Vision care provider\" means either of the following:\n\n(1) An optometrist licensed under Chapter 4725. of the Revised Code;\n\n(2) A physician authorized under Chapter 4731. of the Revised Code to practice medicine and surgery or osteopathic medicine and surgery.\n\nLast updated August 22, 2024 at 4:20 PM",
+      "id": "3963.01-vision-care-provider",
+      "normalized": "vision care provider",
+      "scope": "As used in this chapter:",
+      "section": "3963.01",
+      "source_title": "Section 3963.01 - Health care contracts definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3963.01",
+      "term": "Vision care provider"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "1751.01",
+      "number": "1751.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1751.01"
+    },
+    {
+      "kind": "section",
+      "label": "1739.01",
+      "number": "1739.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1739.01"
+    },
+    {
+      "kind": "section",
+      "label": "3901.38",
+      "number": "3901.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3901.38"
+    },
+    {
+      "kind": "section",
+      "label": "3963.04",
+      "number": "3963.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3963.04"
+    }
+  ],
+  "scraped": "2026-07-02T20:03:36+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3963.01",
+  "title": "Section 3963.01 - Health care contracts definitions."
+}

@@ -1,0 +1,74 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-118.05
+Scraped: 2026-07-02T19:31:32+00:00
+
+# Section 118.05 - Financial planning and supervision commission.
+
+**Effective:** November 2, 2018
+
+**Latest Legislation:** House Bill 312 - 132nd General Assembly
+
+(A) Pursuant to the powers of the general assembly and for the purposes of this chapter, upon the occurrence of a fiscal emergency in any municipal corporation, county, or township, as determined pursuant to section 118.04 of the Revised Code, there is established, with respect to that municipal corporation, county, or township, a body both corporate and politic constituting an agency and instrumentality of the state and performing essential governmental functions of the state to be known as the "financial planning and supervision commission for _______________ (name of municipal corporation, county, or township)," which, in that name, may exercise all authority vested in such a commission by this chapter. Except as otherwise provided in division (L) of this section, a separate commission is established with respect to each municipal corporation, county, or township as to which there is a fiscal emergency as determined under this chapter.
+
+(B) A commission shall consist of the following voting members:
+
+(1) Four ex officio members: the treasurer of state; the director of budget and management; in the case of a municipal corporation, the mayor of the municipal corporation and the presiding officer of the legislative authority of the municipal corporation; in the case of a county, a member of the board of county commissioners and the county auditor; in the case of a county that has adopted a charter under Article X, Ohio Constitution, and under that charter has both a county executive and a county fiscal officer, the county executive and the county fiscal officer; and in the case of a township, a member of the board of township trustees and the county auditor.
+
+The treasurer of state may designate a deputy treasurer or director within the office of the treasurer of state or any other appropriate person who is not an employee of the treasurer of state's office; the director of budget and management may designate an individual within the office of budget and management or any other appropriate person who is not an employee of the office of budget and management; the presiding officer of the legislative authority of the municipal corporation may designate any other member of the legislative authority; the board of county commissioners may designate any other member of the board or the fiscal officer of the county; the fiscal officer of a county that has adopted a charter under Article X, Ohio Constitution, may designate an individual within the county fiscal office; the county auditor may designate an individual within the county auditor's office; and the board of township trustees may designate any other member of the board or the fiscal officer of the township to attend the meetings of the commission when the ex officio member is absent or unable for any reason to attend. A designee, when present, shall be counted in determining whether a quorum is present at any meeting of the commission and may vote and participate in all proceedings and actions of the commission. The designations shall be in writing, executed by the ex officio member or entity making the designation, and filed with the secretary of the commission. The designations may be changed from time to time in like manner, but due regard shall be given to the need for continuity.
+
+(2) If a municipal corporation, county, or township has a population of at least one thousand, three additional members appointed not later than fifteen days after the auditor of state determines that a fiscal emergency exists as follows:
+
+For a municipal corporation, the governor shall appoint one member; the mayor shall appoint one member confirmed by the legislative authority of the municipal corporation; and the county auditor of the county in which the largest portion of the territory of the municipal corporation is located shall appoint one member. The county auditor may appoint the county auditor to the commission.
+
+For a county, the governor shall appoint one member and the board of county commissioners shall appoint two members. In the case of a county that has adopted a charter under Article X, Ohio Constitution, and under that charter has both a county executive and a county council, the governor shall appoint one member, the county executive shall appoint one member, and the county council shall appoint one member. A member of the board of county commissioners, a county executive, or a member of the county council is ineligible for appointment to the commission under this paragraph.
+
+For a township, the governor shall appoint one member and the board of township trustees shall appoint two members. A member of the board of township trustees is ineligible for appointment to the commission under this paragraph.
+
+Each of the three appointed members shall serve during the life of the commission, subject to removal by the appointing authority for misfeasance, nonfeasance, or malfeasance in office. In the event of the death, resignation, incapacity, removal, or ineligibility to serve of an appointed member, the appointing authority that appointed the member shall appoint a successor, except as otherwise provided in division (M) of this section.
+
+Each appointed member shall be an individual:
+
+Who has knowledge and experience in financial matters, financial management, or business organization or operations;
+
+Whose residency, office, or principal place of professional or business activity is situated within the municipal corporation, county, or township, except that a county auditor who serves on the commission of a municipal corporation is not required to reside or have an office or principal place of professional or business activity in the municipal corporation;
+
+Who shall not become a candidate for elected public office while serving as a member of the commission, except a county auditor who serves on the commission of a municipal corporation may be a candidate for reelection to the county auditor's office.
+
+(C) Immediately after appointment of the initial appointed members of the commission, the governor shall call the first meeting of the commission and shall cause written notice of the time, date, and place of the first meeting to be given to each member of the commission at least forty-eight hours in advance of the meeting.
+
+(D) The director of budget and management shall serve as chairperson of the commission. The commission shall elect one of its members to serve as vice-chairperson and may appoint a secretary and any other officers, who need not be members of the commission, it considers necessary. The chairperson may remove an appointed member if that member fails to attend three meetings. In that event, the appointing authority shall fill the vacancy in the same manner as the original appointment, except as otherwise provided in division (M) of this section.
+
+(E) The commission may adopt and alter bylaws and rules, which shall not be subject to section 111.15 or Chapter 119. of the Revised Code, for the conduct of its affairs and for the manner, subject to this chapter, in which its powers and functions shall be exercised and embodied.
+
+(F) Four members of a commission established pursuant to divisions (B)(1) and (2) of this section constitute a quorum of the commission. The affirmative vote of a majority of the members of the commission is necessary for any action taken by vote of the commission. No vacancy in the membership of the commission shall impair the rights of a quorum by such vote to exercise all the rights and perform all the duties of the commission. Members of the commission, and their designees, are not disqualified from voting by reason of the functions of the other office they hold and are not disqualified from exercising the functions of the other office with respect to the municipal corporation, county, or township, its officers, or the commission.
+
+(G) The auditor of state shall serve as the "financial supervisor" to the commission unless the auditor of state elects to contract for that service. As used in this chapter, "financial supervisor" means the auditor of state.
+
+(H) At the request of the commission, the auditor of state shall designate employees of the auditor of state's office to assist the commission and the financial supervisor and to coordinate the work of the auditor of state's office and the financial supervisor. Upon the determination of a fiscal emergency in any municipal corporation, county, or township, the municipal corporation, county, or township shall provide the commission with such reasonable office space in the principal building housing city, county, or township government, where feasible, as it determines is necessary to carry out its duties under this chapter.
+
+(I) The financial supervisor, the members of the commission, the auditor of state, and any person authorized to act on behalf of or assist them shall not be personally liable or subject to any suit, judgment, or claim for damages resulting from the exercise of or failure to exercise the powers, duties, and functions granted to them in regard to their functioning under this chapter, but the commission, the financial supervisor, the auditor of state, and those other persons shall be subject to mandamus proceedings to compel performance of their duties under this chapter and with respect to any debt obligations issued pursuant or subject to this chapter.
+
+(J) At the request of the commission, the administrative head of any state agency shall temporarily assign personnel skilled in accounting and budgeting procedures to assist the commission or the financial supervisor in its duties as financial supervisor.
+
+(K) The appointed members of the commission who are members of the board of township trustees or are not elected officials are not subject to section 102.02 of the Revised Code. Each appointed member of the commission shall file with the commission a signed written statement setting forth the general nature of sales of goods, property, or services or of loans to the municipal corporation, county, or township with respect to which that commission is established, in which the appointed member has a pecuniary interest or in which any member of the appointed member's immediate family, as defined in section 102.01 of the Revised Code, or any corporation, partnership, or enterprise of which the appointed member is an officer, director, or partner, or of which the appointed member or a member of the appointed member's immediate family, as so defined, owns more than a five per cent interest, has a pecuniary interest, and of which sale, loan, or interest such member has knowledge. The statement shall be supplemented from time to time to reflect changes in the general nature of any such sales or loans.
+
+(L) A commission is not established with respect to any village or township with a population of less than one thousand as of the most recent federal decennial census. Upon the occurrence of a fiscal emergency in such a village or township, the auditor of state shall serve as the financial supervisor of the village or township and shall have all the powers and responsibilities of a commission, including the powers and responsibilities described in section 118.07 of the Revised Code.
+
+(M)(1) Notwithstanding any contrary provision of division (B)(2) or (D) of this section, if one or more appointed seats on a commission that was established before October 17, 2017, are or become vacant, division (M) of this section applies concerning the commission.
+
+(2) In the case of a commission established with respect to a municipal corporation:
+
+(a) If one such vacancy exists on the commission, the county auditor of the county in which the largest portion of the territory of the municipal corporation is located shall appoint a member to fill the vacancy. The county auditor may appoint the county auditor to the commission. Of the two remaining appointed members of the commission, the mayor shall determine, not later than the fifteenth day after the effective date of this amendment or the fifteenth day after the vacancy occurs, whichever is later, which of those members shall be considered the member appointed by the mayor for purposes of divisions (B)(2) and (D) of this section, and the other appointed member shall be considered the member appointed by the governor for purposes of divisions (B)(2) and (D) of this section.
+
+(b) If two such vacancies exist on the commission, the county auditor of the county in which the largest portion of the territory of the municipal corporation is located shall appoint a member to fill one vacancy, and the mayor shall appoint a member confirmed by the legislative authority of the municipal corporation to fill the other vacancy. The county auditor may appoint the county auditor to the commission. The remaining appointed member of the commission shall be considered the member appointed by the governor for purposes of divisions (B)(2) and (D) of this section.
+
+(c) If three such vacancies exist on the commission, the members shall be appointed in accordance with division (B)(2) of this section.
+
+(3) In the case of a commission established with respect to a township:
+
+(a) If one such vacancy exists on the commission, the board of township trustees shall appoint a member to fill the vacancy, who shall not be a member of the board of township trustees. Of the two remaining appointed members of the commission, the board of township trustees shall determine, not later than the fifteenth day after the effective date of this amendment or the fifteenth day after the vacancy occurs, whichever is later, which of those members shall be considered the member appointed by the board of township trustees for purposes of divisions (B)(2) and (D) of this section, and the other appointed member shall be considered the member appointed by the governor for purposes of divisions (B)(2) and (D) of this section.
+
+(b) If two such vacancies exist on the commission, the board of township trustees shall appoint two members to fill the vacancies, who shall not be members of the board of township trustees. The remaining appointed member of the commission shall be considered the member appointed by the governor for purposes of divisions (B)(2) and (D) of this section.
+
+(c) If three such vacancies exist on the commission, the members shall be appointed in accordance with division (B)(2) of this section.
+
+(4) After one or more vacancies in appointed seats on a commission have been filled under division (M) of this section, any subsequent vacancy or vacancies shall be filled under division (B)(2) or (D) of this section, as applicable.

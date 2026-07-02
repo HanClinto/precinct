@@ -1,0 +1,83 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-3311
+Scraped: 2026-07-02T19:48:34+00:00
+
+# Chapter 3311 - School Districts; County Planning
+
+## Sections
+
+- Section 3311.01 - Styling of school districts.
+- Section 3311.02 - City school district defined.
+- Section 3311.03 - Local school district defined.
+- Section 3311.04 - Exempted village school district defined.
+- Section 3311.05 - Educational service center defined - county school financing district.
+- Section 3311.051 - Performance audit.
+- Section 3311.053 - Joint educational service center.
+- Section 3311.054 - Membership of governing board of joint service center.
+- Section 3311.055 - School board, board of education and school district construed.
+- Section 3311.056 - Plan for adding appointed members to board.
+- Section 3311.057 - Service center board following merger.
+- Section 3311.058 - When merger to achieve minimum average daily membership not required.
+- Section 3311.059 - Severance from one educational service center and annexation to adjacent service center.
+- Section 3311.0510 - Termination of service center agreements; abolishment of educational service center governing board.
+- Section 3311.06 - Territory of district to be contiguous; exceptions; annexation of territory.
+- Section 3311.062 - Forming district from noncontiguous districts.
+- Section 3311.07 - Change of classification upon advancement.
+- Section 3311.08 - School districts that may become exempt from board supervision - census.
+- Section 3311.10 - Change of classification upon reduction of population in village school district - exception.
+- Section 3311.11 - New school district to be approved by general assembly.
+- Section 3311.16 - Plan for joint vocational school district.
+- Section 3311.17 - Copy of plan to be filed with board of each district.
+- Section 3311.18 - Creation of joint vocational school districts.
+- Section 3311.19 - Joint vocational school district board of education.
+- Section 3311.191 - Terms of additional members.
+- Section 3311.20 - Bond issue - annual levy.
+- Section 3311.21 - Tax levy - rate.
+- Section 3311.211 - Tuition - acceptance of funds.
+- Section 3311.212 - Use of buildings.
+- Section 3311.213 - Procedure for district to join existing joint vocational school district.
+- Section 3311.214 - Procedure for merging existing joint vocational school districts.
+- Section 3311.215 - Facilities of joint districts.
+- Section 3311.216 - Funds of joint districts.
+- Section 3311.217 - Dissolution of district.
+- Section 3311.218 - Sharing use of facilities, equipment or funds.
+- Section 3311.22 - Transfer of school district territory.
+- Section 3311.221 - Acquisition of territory due to eligible school district transfer; transition agreement.
+- Section 3311.231 - Transferring local school district territory to adjoining service center or city or exempted village school district.
+- Section 3311.24 - Transfer of city, exempted village or local school district territory to adjoining district.
+- Section 3311.241 - Transfer or school district territory; cancellation of debt to solvency assistance fund.
+- Section 3311.242 - Mandatory school district territory transfer based on poor performance rating.
+- Section 3311.25 - Merger of districts located primarily in same county with population of less than 100,000.
+- Section 3311.26 - New local school district may be created.
+- Section 3311.27 - Report to tax commissioner by board of surviving school district.
+- Section 3311.29 - District public schools to maintain all grade levels - dissolution of district - authorization of exceptions.
+- Section 3311.34 - No exempted village school districts to be created.
+- Section 3311.37 - State board may propose creation of new district.
+- Section 3311.38 - State board may propose transfers of districts.
+- Section 3311.50 - County school financing district.
+- Section 3311.51 - Creation of special education districts - disposition of county school financing district tax levy proceeds.
+- Section 3311.52 - Establishment of cooperative education school district - dissolution of county school financing district.
+- Section 3311.521 - Cooperative education school district for purpose of operating joint high school.
+- Section 3311.53 - Resolution proposing to become part of cooperative education school district.
+- Section 3311.54 - Resolution requesting dissolution of cooperative education district.
+- Section 3311.60 - Creation of position of independent auditors in certain school districts.
+- Section 3311.61 - Affirmation by electors.
+- Section 3311.71 - Members of new municipal school district board to be appointed by mayor - candidates selected by nominating panel.
+- Section 3311.72 - Submission of resignations by current administrators.
+- Section 3311.73 - Election on whether mayor shall continue to appoint board members - election of new board.
+- Section 3311.74 - Goals and accountability standards - plan to measure student academic performance - report - public awareness campaign.
+- Section 3311.741 - Municipal school district performance evaluation.
+- Section 3311.742 - Municipal school district student advisory committees.
+- Section 3311.75 - Funds kept separate - purchases.
+- Section 3311.751 - Disposition of proceeds from sale of real estate by municipal school district.
+- Section 3311.76 - Rule exemptions.
+- Section 3311.77 - Laws governing municipal school districts; teacher contracts.
+- Section 3311.78 - Municipal school districts; adoption of differentiated salary schedules.
+- Section 3311.79 - Applicants for teacher positions in municipal school districts.
+- Section 3311.80 - Municipal school districts; adoption of standards-based teacher evaluation procedures.
+- Section 3311.81 - Municipal school districts; limited teacher contracts.
+- Section 3311.82 - Municipal school districts; termination of teacher contracts; disciplinary proceedings.
+- Section 3311.83 - Municipal school districts; reduction in number of teachers.
+- Section 3311.84 - Municipal school districts; evaluation of principals.
+- Section 3311.85 - Municipal school districts; school calendar.
+- Section 3311.86 - Municipal school district transformation alliance.
+- Section 3311.87 - School sponsorship; assessment of district and community schools.

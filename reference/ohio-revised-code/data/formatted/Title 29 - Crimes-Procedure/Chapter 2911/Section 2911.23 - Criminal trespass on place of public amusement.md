@@ -1,0 +1,26 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-2911.23
+Scraped: 2026-07-02T19:46:08+00:00
+
+# Section 2911.23 - Criminal trespass on place of public amusement.
+
+**Effective:** August 3, 2006
+
+**Latest Legislation:** House Bill 96 - 126th General Assembly
+
+(A) As used in this section, "place of public amusement" means a stadium, theater, or other facility, whether licensed or not, at which a live performance, sporting event, or other activity takes place for entertainment of the public and to which access is made available to the public, regardless of whether admission is charged.
+
+(B) No person, without privilege to do so, shall knowingly enter or remain on any restricted portion of a place of public amusement and, as a result of that conduct, interrupt or cause the delay of the live performance, sporting event, or other activity taking place at the place of public amusement after a printed written notice has been given as provided in division (D)(1) of this section that the general public is restricted from access to that restricted portion of the place of public amusement. A restricted portion of a place of public amusement may include, but is not limited to, a playing field, an athletic surface, or a stage located at the place of public amusement.
+
+(C) An owner or lessee of a place of public amusement, an agent of the owner or lessee, or a performer or participant at a place of public amusement may use reasonable force to restrain and remove a person from a restricted portion of the place of public amusement if the person enters or remains on the restricted portion of the place of public amusement and, as a result of that conduct, interrupts or causes the delay of the live performance, sporting event, or other activity taking place at the place of public amusement. This division does not provide immunity from criminal liability for any use of force beyond reasonable force by an owner or lessee of a place of public amusement, an agent of either the owner or lessee, or a performer or participant at a place of public amusement.
+
+(D)(1) Notice has been given that the general public is restricted from access to a portion of a place of public amusement if a printed written notice of the restricted access has been conspicuously posted or exhibited at the entrance to that portion of the place of public amusement. If a printed written notice is posted or exhibited as described in this division regarding a portion of a place of public amusement, in addition to that posting or exhibition, notice that the general public is restricted from access to that portion of the place of public amusement also may be given, but is not required to be given, by either of the following means:
+
+(a) By notifying the person personally, either orally or in writing, that access to that portion of the place of public amusement is restricted;
+
+(b) By broadcasting over the public address system of the place of public amusement an oral warning that access to that portion of the place of public amusement is restricted.
+
+(2) If notice that the general public is restricted from access to a portion of a place of public amusement is provided by the posting or exhibition of a printed written notice as described in division (D)(1) of this section, the state, in a criminal prosecution for a violation of division (B) of this section, is not required to prove that the defendant received actual notice that the general public is restricted from access to a portion of a place of public amusement.
+
+(E)(1) Whoever violates division (B) of this section is guilty of criminal trespass on a place of public amusement, a misdemeanor of the first degree.
+
+(2) In addition to any jail term, fine, or other sentence, penalty, or sanction it imposes upon the offender pursuant to division (E)(1) of this section, a court may require an offender who violates this section to perform not less than thirty and not more than one hundred twenty hours of supervised community service work.

@@ -1,0 +1,92 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Active tuberculosis\" means tuberculosis that has been demonstrated by clinical, bacteriological, or radiographic evidence to be present in an individual who has not completed an appropriate course of antituberculosis medication, regardless of the stage of communicability of the tuberculosis, and includes both pulmonary and extrapulmonary tuberculosis.",
+      "id": "339.71-active-tuberculosis",
+      "normalized": "active tuberculosis",
+      "scope": "As used in this section and sections 339.72 to 339.89 of the Revised Code:",
+      "section": "339.71",
+      "source_title": "Section 339.71 - Tuberculosis control unit definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-339.71",
+      "term": "Active tuberculosis"
+    },
+    {
+      "definition": "(B) \"Communicable tuberculosis\" means active pulmonary or laryngeal tuberculosis that has been determined, through examination of a culture of specimens obtained from the individual's respiratory tract, to be in a stage at which it can be transmitted to another individual.",
+      "id": "339.71-communicable-tuberculosis",
+      "normalized": "communicable tuberculosis",
+      "scope": "As used in this section and sections 339.72 to 339.89 of the Revised Code:",
+      "section": "339.71",
+      "source_title": "Section 339.71 - Tuberculosis control unit definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-339.71",
+      "term": "Communicable tuberculosis"
+    },
+    {
+      "definition": "(C) \"Extrapulmonary tuberculosis\" means tuberculosis that affects tissues of the body other than the lungs.",
+      "id": "339.71-extrapulmonary-tuberculosis",
+      "normalized": "extrapulmonary tuberculosis",
+      "scope": "As used in this section and sections 339.72 to 339.89 of the Revised Code:",
+      "section": "339.71",
+      "source_title": "Section 339.71 - Tuberculosis control unit definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-339.71",
+      "term": "Extrapulmonary tuberculosis"
+    },
+    {
+      "definition": "(D) \"Laryngeal tuberculosis\" means tuberculosis that affects the larynx.",
+      "id": "339.71-laryngeal-tuberculosis",
+      "normalized": "laryngeal tuberculosis",
+      "scope": "As used in this section and sections 339.72 to 339.89 of the Revised Code:",
+      "section": "339.71",
+      "source_title": "Section 339.71 - Tuberculosis control unit definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-339.71",
+      "term": "Laryngeal tuberculosis"
+    },
+    {
+      "definition": "(E) \"Physician\" means an individual authorized under Chapter 4731. of the Revised Code to practice medicine and surgery or osteopathic medicine and surgery.",
+      "id": "339.71-physician",
+      "normalized": "physician",
+      "scope": "As used in this section and sections 339.72 to 339.89 of the Revised Code:",
+      "section": "339.71",
+      "source_title": "Section 339.71 - Tuberculosis control unit definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-339.71",
+      "term": "Physician"
+    },
+    {
+      "definition": "(F) \"Pulmonary tuberculosis\" means tuberculosis that affects the lungs.",
+      "id": "339.71-pulmonary-tuberculosis",
+      "normalized": "pulmonary tuberculosis",
+      "scope": "As used in this section and sections 339.72 to 339.89 of the Revised Code:",
+      "section": "339.71",
+      "source_title": "Section 339.71 - Tuberculosis control unit definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-339.71",
+      "term": "Pulmonary tuberculosis"
+    },
+    {
+      "definition": "(G) \"Tuberculosis\" means the infectious disease occurring in humans that is caused by one of the following microorganisms:\n\n(1) Mycobacterium tuberculosis;\n\n(2) Mycobacterium bovis;\n\n(3) Mycobacterium africanum.",
+      "id": "339.71-tuberculosis",
+      "normalized": "tuberculosis",
+      "scope": "As used in this section and sections 339.72 to 339.89 of the Revised Code:",
+      "section": "339.71",
+      "source_title": "Section 339.71 - Tuberculosis control unit definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-339.71",
+      "term": "Tuberculosis"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "339.72",
+      "number": "339.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-339.72"
+    },
+    {
+      "kind": "section",
+      "label": "339.89",
+      "number": "339.89",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-339.89"
+    }
+  ],
+  "scraped": "2026-07-02T19:32:54+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-339.71",
+  "title": "Section 339.71 - Tuberculosis control unit definitions."
+}

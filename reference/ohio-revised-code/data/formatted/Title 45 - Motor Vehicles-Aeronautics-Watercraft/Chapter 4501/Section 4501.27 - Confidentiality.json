@@ -1,0 +1,78 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Motor vehicle record\" means a record that pertains to a motor vehicle driver's or commercial driver's license or permit, a motor vehicle certificate of title, a motor vehicle registration or motor vehicle identification license plates, or an identification card issued by the bureau of motor vehicles.",
+      "id": "4501.27-motor-vehicle-record",
+      "normalized": "motor vehicle record",
+      "scope": "(F) As used in this section:",
+      "section": "4501.27",
+      "source_title": "Section 4501.27 - Confidentiality.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4501.27",
+      "term": "Motor vehicle record"
+    },
+    {
+      "definition": "(2) \"Person\" has the same meaning as in section 1.59 of the Revised Code and does not include this state, another state, or an agency of this state or another state.",
+      "id": "4501.27-person",
+      "normalized": "person",
+      "scope": "(F) As used in this section:",
+      "section": "4501.27",
+      "source_title": "Section 4501.27 - Confidentiality.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4501.27",
+      "term": "Person"
+    },
+    {
+      "definition": "(3) \"Personal information\" means information that identifies an individual, including, but not limited to, an individual's photograph or digital image, social security number, driver or driver's license identification number, name, telephone number, or medical or disability information, or an individual's address other than the five-digit zip code number. \"Personal information\" does not include information pertaining to a vehicular accident, driving or traffic violation, or driver's status.",
+      "id": "4501.27-personal-information",
+      "normalized": "personal information",
+      "scope": "(F) As used in this section:",
+      "section": "4501.27",
+      "source_title": "Section 4501.27 - Confidentiality.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4501.27",
+      "term": "Personal information"
+    },
+    {
+      "definition": "(4) \"Specified federal automobile-related act\" means the \" automobile information disclosure act,\" 72 Stat. 325, 15 U.S.C. 1231-1233, the \"Motor Vehicle Information and Cost Saving Act,\" 86 Stat. 947, 15 U.S.C. 1901, et seq., the \"National Traffic and Motor Vehicle Safety Act of 1966,\" 80 Stat. 718, 15 U.S.C. 1381, et seq., the \"Anti-car Theft Act of 1992,\" 106 Stat. 3384, 15 U.S.C. 2021, et seq., and the \"Clean Air Act,\" 69 Stat. 322, 42 U.S.C. 7401, et seq., all as now or hereafter amended.",
+      "id": "4501.27-specified-federal-automobile-related-act",
+      "normalized": "specified federal automobile-related act",
+      "scope": "(F) As used in this section:",
+      "section": "4501.27",
+      "source_title": "Section 4501.27 - Confidentiality.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4501.27",
+      "term": "Specified federal automobile-related act"
+    },
+    {
+      "definition": "(5) \"Sensitive personal information\" means an individual's photograph or digital image, social security number, or medical or disability information.\n\nLast updated September 26, 2024 at 9:22 AM",
+      "id": "4501.27-sensitive-personal-information",
+      "normalized": "sensitive personal information",
+      "scope": "(F) As used in this section:",
+      "section": "4501.27",
+      "source_title": "Section 4501.27 - Confidentiality.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4501.27",
+      "term": "Sensitive personal information"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "4501.15",
+      "number": "4501.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4501.15"
+    },
+    {
+      "kind": "section",
+      "label": "4507.53",
+      "number": "4507.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4507.53"
+    },
+    {
+      "kind": "section",
+      "label": "1.59",
+      "number": "1.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1.59"
+    }
+  ],
+  "scraped": "2026-07-02T20:05:16+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4501.27",
+  "title": "Section 4501.27 - Confidentiality."
+}

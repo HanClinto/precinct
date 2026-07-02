@@ -1,0 +1,46 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Aide services\" means all of the following:\n\n(a) Home health aide services covered by the medicaid program as part of the home health services benefit pursuant to 42 C.F.R. 440.70(b)(2);\n\n(b) Home care attendant services covered by a participating medicaid waiver component, as defined in section 5166.30 of the Revised Code;\n\n(c) Any of the following covered by a home and community-based services medicaid waiver component:\n\n(i) Personal care aide services;\n\n(ii) Homemaker/personal care services;\n\n(iii) Community inclusion services.",
+      "id": "5164.44-aide-services",
+      "normalized": "aide services",
+      "scope": "(A) As used in this section:",
+      "section": "5164.44",
+      "source_title": "Section 5164.44 - Employee status of independent provider.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5164.44",
+      "term": "Aide services"
+    },
+    {
+      "definition": "(2) \"Independent provider\" means an individual who personally provides aide services or nursing services under the medicaid program and is not employed by, under contract with, or affiliated with another entity that provides the services.",
+      "id": "5164.44-independent-provider",
+      "normalized": "independent provider",
+      "scope": "(A) As used in this section:",
+      "section": "5164.44",
+      "source_title": "Section 5164.44 - Employee status of independent provider.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5164.44",
+      "term": "Independent provider"
+    },
+    {
+      "definition": "(3) \"Nursing services\" means all of the following:\n\n(a) Nursing services covered by the medicaid program as part of the home health services benefit pursuant to 42 C.F.R. 440.70(b)(1);\n\n(b) Private duty nursing services, as defined in 42 C.F.R. 440.80, covered by the medicaid program;\n\n(c) Nursing services covered by a home and community-based services medicaid waiver component.\n\n(B) Notwithstanding any provision of the Revised Code to the contrary, an independent provider is not an employee of the state, or any political subdivision of the state, for any purpose under state law due to being an independent provider or any actions taken to become or remain an independent provider.",
+      "id": "5164.44-nursing-services",
+      "normalized": "nursing services",
+      "scope": "(A) As used in this section:",
+      "section": "5164.44",
+      "source_title": "Section 5164.44 - Employee status of independent provider.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5164.44",
+      "term": "Nursing services"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "5166.30",
+      "number": "5166.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5166.30"
+    }
+  ],
+  "scraped": "2026-07-02T20:11:25+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5164.44",
+  "title": "Section 5164.44 - Employee status of independent provider."
+}

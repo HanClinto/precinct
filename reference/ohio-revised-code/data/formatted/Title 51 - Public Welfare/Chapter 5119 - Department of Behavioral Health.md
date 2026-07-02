@@ -1,0 +1,123 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-5119
+Scraped: 2026-07-02T20:10:42+00:00
+
+# Chapter 5119 - Department of Behavioral Health
+
+## Sections
+
+- Section 5119.01 - Definitions.
+- Section 5119.011 - References to department or director.
+- Section 5119.04 - Compliance with standards.
+- Section 5119.05 - Managing officer; duties.
+- Section 5119.051 - Books and accounts; form and method.
+- Section 5119.06 - Records.
+- Section 5119.07 - Businesses located near institutions.
+- Section 5119.08 - Appointing special police officers for institutions.
+- Section 5119.09 - Physician specialists.
+- Section 5119.091 - Attorney general duties.
+- Section 5119.10 - Director of behavioral health powers and duties.
+- Section 5119.11 - Medical director; qualifications; duties.
+- Section 5119.14 - Department of behavioral health powers and duties generally.
+- Section 5119.141 - Authority of department.
+- Section 5119.15 - Investigative powers.
+- Section 5119.161 - Joint state plan to improve accessibility and timeliness of alcohol and drug addiction services.
+- Section 5119.17 - Addicted pregnant women and their children.
+- Section 5119.171 - Youth prevention program.
+- Section 5119.18 - Classified and unclassified appointments.
+- Section 5119.181 - Certain convictions preclude appointments.
+- Section 5119.182 - Fidelity bond.
+- Section 5119.184 - Providing educational grants or tuition reimbursement for employees.
+- Section 5119.185 - Clinician recruitment program.
+- Section 5119.186 - Conduct collaborative training efforts for students.
+- Section 5119.187 - Courses of study for instruction and training of persons in institutions.
+- Section 5119.188 - Education and training program for employees of state correctional and youth services institutions.
+- Section 5119.19 - Psychotropic drug reimbursement program.
+- Section 5119.192 - Provision of overdose reversal drugs to hospitals.
+- Section 5119.20 - Electroencephalogram combined transcranial magnetic stimulation program.
+- Section 5119.201 - Real or personal property transactions.
+- Section 5119.21 - Support of community support system; powers and duties regarding programs and services.
+- Section 5119.211 - State certification of certified community behavioral health clinics.
+- Section 5119.22 - Director of behavioral health duties.
+- Section 5119.221 - Waiver or requirements; authority of director.
+- Section 5119.23 - Allocations of funds for local mental health and addiction services continuums of care.
+- Section 5119.24 - Annual report by boards specifying use of funds.
+- Section 5119.25 - Withholding of funds for failure to comply with statutory or regulatory provisions.
+- Section 5119.26 - Civil rights and liberties of patients.
+- Section 5119.27 - Confidentiality of records pertaining to identity, diagnosis or treatment.
+- Section 5119.28 - Confidentiality of records pertaining to person's mental health condition, assessment, provision of care or treatment, or payment for assessment, care or treatment.
+- Section 5119.29 - Tracking and monitoring after release of persons found not guilty by reason of insanity or persons found incompetent to stand trial.
+- Section 5119.30 - Program providing information and services to courts.
+- Section 5119.31 - Procedure for purchase of supplies.
+- Section 5119.311 - Examining mental and physical condition of confined person.
+- Section 5119.32 - Utilizing federal block grant funds.
+- Section 5119.33 - Inspecting and licensing of hospitals for mentally ill persons.
+- Section 5119.331 - Injunction.
+- Section 5119.332 - Payments and reimbursements to unlicensed hospital.
+- Section 5119.333 - Prohibiting keeping or maintaining unlicensed hospital.
+- Section 5119.334 - Notice of adverse action - hospitals.
+- Section 5119.34 - Inspecting and licensing of residential facilities.
+- Section 5119.341 - Operations as permitted use.
+- Section 5119.342 - Appointing receiver for residential facility.
+- Section 5119.343 - Notice of adverse action - residential facilities.
+- Section 5119.344 - Summary suspension of a class one residential facility serving children.
+- Section 5119.345 - Residential facility directory.
+- Section 5119.35 - Mental health and addiction services requiring certification.
+- Section 5119.36 - Certifying community mental health services or addiction services providers.
+- Section 5119.362 - Duties of community addiction services provider.
+- Section 5119.363 - Adoption of rules for community addiction services providers.
+- Section 5119.364 - Publication of reports.
+- Section 5119.365 - Rules regarding intake and retention procedures.
+- Section 5119.366 - Establishing grievance procedures.
+- Section 5119.367 - Adverse action related to certifiable services and supports.
+- Section 5119.368 - Telehealth services.
+- Section 5119.37 - Requirements to operate opioid addiction treatment programs.
+- Section 5119.371 - Location of opioid treatment programs.
+- Section 5119.38 - Drivers' intervention program.
+- Section 5119.39 - Certification or accreditation of recovery housing residences.
+- Section 5119.391 - Required form for recovery housing residence operator.
+- Section 5119.392 - Prohibition against operation without being certified or accredited.
+- Section 5119.393 - Complaint reporting and investigations.
+- Section 5119.394 - Registry of recovery housing residences.
+- Section 5119.395 - Prohibition against advertising without being certified or accredited.
+- Section 5119.396 - Prohibition against referrals.
+- Section 5119.397 - Rulemaking.
+- Section 5119.40 - Determination of services needed.
+- Section 5119.41 - Residential state supplement program.
+- Section 5119.42 - State aid for community construction programs.
+- Section 5119.421 - Replacement facility projects.
+- Section 5119.43 - Sale or lease of land or facilities.
+- Section 5119.431 - Acquiring real estate.
+- Section 5119.44 - Providing goods and services to certain departments, agencies, and institutions.
+- Section 5119.45 - Sale of goods and services fund.
+- Section 5119.46 - Department of behavioral health trust fund.
+- Section 5119.47 - Problem casino gambling and addictions fund; administration.
+- Section 5119.48 - All roads lead to home program.
+- Section 5119.49 - Director's collaboration in establishment and administration of drug take-back program.
+- Section 5119.50 - Administering funds held in trusts for benefit of institution or mentally ill persons.
+- Section 5119.51 - Services fund for individuals with mental illness.
+- Section 5119.52 - Industrial and entertainment fund; commissary fund.
+- Section 5119.54 - Funds.
+- Section 5119.55 - Payment for personal use of resident eligible for supplemental social security benefits.
+- Section 5119.56 - Money and property of patients.
+- Section 5119.60 - Annual report.
+- Section 5119.61 - Statistics concerning care, treatment and rehabilitation.
+- Section 5119.70 - Interstate compact on mental health.
+- Section 5119.71 - Duties of compact administrators.
+- Section 5119.72 - Supplementary agreements.
+- Section 5119.73 - Financial obligations.
+- Section 5119.81 - 9-8-8 hotline definitions.
+- Section 5119.82 - 9-8-8 hotline administration.
+- Section 5119.83 - 9-8-8 annual report.
+- Section 5119.84 - 9-8-8 fund.
+- Section 5119.85 - 9-8-8 hotline liability exemption.
+- Section 5119.89 - Consumer and payer education on mental health and addiction services insurance parity; hotline.
+- Section 5119.90 - Definitions for sections 5119.90 to 5119.98.
+- Section 5119.91 - Involuntary treatment for alcohol and other drug abuse.
+- Section 5119.92 - Criteria for involuntary treatment.
+- Section 5119.93 - Initiation of proceedings; petition.
+- Section 5119.94 - Examination of petitioner; hearing; notification of respondent; disposition.
+- Section 5119.95 - Seventy-two-hour emergency involuntary treatment.
+- Section 5119.96 - Issuance of summons; failure to attend examination; transportation to hospital.
+- Section 5119.97 - Lists of qualified hospitals and treatment providers.
+- Section 5119.98 - Applicability of R.C. 5119.26, 5119.27 and 5119.61.
+- Section 5119.99 - Penalties.

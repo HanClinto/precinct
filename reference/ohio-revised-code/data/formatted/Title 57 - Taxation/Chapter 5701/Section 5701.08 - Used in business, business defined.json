@@ -1,0 +1,54 @@
+{
+  "glossary": [
+    {
+      "definition": "For the purposes of division (B)(2) of this section, \"airport\" means any airport, as defined in division (C) of section 4561.01 of the Revised Code, which is approved by the department of transportation under section 4561.11 of the Revised Code to be used for commercial purposes, is regularly served by only one air carrier authorized to do so under 14 C.F.R., and is not a public airport as defined in 49 U.S.C. Appx. 2202(a)(17) as existing on July 26, 1991.\n\n(3) For property that may meet the condition for the exception provided in division (B)(2) of this section, if it is not known at the conclusion of a reporting period whether the property yet qualifies for such exception, the owner of such property shall return it for taxation. If it is later determined that the returned property does so qualify, the owner may apply for a final assessment and refund on the property as provided in section 5711.26 of the Revised Code.\n\n(C) Leased property used by the lessee exclusively for agricultural purposes and new or used machinery and equipment and accessories therefor that are designed and built for agricultural use and owned by a merchant as defined in section 5711.15 of the Revised Code are not considered to be \"used\" within the meaning of \"used in business.\"\n\n(D) Moneys, deposits, investments, accounts receivable, and prepaid items, and other taxable intangibles are \"used\" when they or the avails thereof are being applied, or are intended to be applied, in the conduct of the business, whether in this state or elsewhere.",
+      "id": "5701.08-airport",
+      "normalized": "airport",
+      "scope": "As used in Title LVII of the Revised Code:",
+      "section": "5701.08",
+      "source_title": "Section 5701.08 - Used in business, business defined.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5701.08",
+      "term": "airport"
+    },
+    {
+      "definition": "(E) \"Business\" includes all enterprises, except agriculture, conducted for gain, profit, or income and extends to personal service occupations.",
+      "id": "5701.08-business",
+      "normalized": "business",
+      "scope": "As used in Title LVII of the Revised Code:",
+      "section": "5701.08",
+      "source_title": "Section 5701.08 - Used in business, business defined.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5701.08",
+      "term": "Business"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "4561.01",
+      "number": "4561.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4561.01"
+    },
+    {
+      "kind": "section",
+      "label": "4561.11",
+      "number": "4561.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4561.11"
+    },
+    {
+      "kind": "section",
+      "label": "5711.26",
+      "number": "5711.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5711.26"
+    },
+    {
+      "kind": "section",
+      "label": "5711.15",
+      "number": "5711.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5711.15"
+    }
+  ],
+  "scraped": "2026-07-02T20:14:17+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5701.08",
+  "title": "Section 5701.08 - Used in business, business defined."
+}

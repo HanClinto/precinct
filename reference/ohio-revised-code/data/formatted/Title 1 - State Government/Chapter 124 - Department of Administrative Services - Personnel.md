@@ -1,0 +1,136 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-124
+Scraped: 2026-07-02T19:31:40+00:00
+
+# Chapter 124 - Department of Administrative Services - Personnel
+
+## Sections
+
+- Section 124.01 - Department of administrative services - personnel definitions.
+- Section 124.011 - City school districts - civil service commissions.
+- Section 124.02 - Director of administrative services and state personnel board of review to serve as state civil service commission.
+- Section 124.03 - State personnel board of review - powers and duties.
+- Section 124.04 - Director of administrative services powers, duties, functions.
+- Section 124.05 - State personnel board of review organization.
+- Section 124.06 - Civil service appointments and removals to be made in accordance with chapter.
+- Section 124.07 - Director of administrative services employees, services and facilities.
+- Section 124.08 - Director of administrative services offices.
+- Section 124.09 - Civil service powers of director of administrative services.
+- Section 124.10 - Garnishment actions against state employees and officers.
+- Section 124.11 - Unclassified service - classified service.
+- Section 124.12 - Notice of appointment to unclassified position.
+- Section 124.13 - Vacation leave.
+- Section 124.131 - Vacation leave for employees of institution of higher education transferred to state control.
+- Section 124.132 - Disaster service leave.
+- Section 124.133 - Experimental leave and benefits program.
+- Section 124.134 - Vacation leave - employees exempt from collective bargaining.
+- Section 124.135 - Jury or trial participation leave - charitable advisory panel leave.
+- Section 124.136 - Parental leave and benefits.
+- Section 124.137 - Parental leave benefit fund.
+- Section 124.138 - Paid leave and benefits for eligible full-time fire fighters employed by adjutant general.
+- Section 124.139 - Organ donor leave.
+- Section 124.1310 - EMT-basic, EMT-I, first responder, paramedic, or volunteer firefighter leave.
+- Section 124.1311 - Veteran funeral honors detail leave.
+- Section 124.1312 - Caregiver leave.
+- Section 124.14 - Job classification - pay ranges.
+- Section 124.141 - Appointment incentive program.
+- Section 124.142 - Compensation of chaplains.
+- Section 124.15 - Pay ranges and step values.
+- Section 124.151 - Direct deposit of compensation.
+- Section 124.152 - Exempt employee salary schedules.
+- Section 124.17 - Employee awards system.
+- Section 124.18 - Standard work week - compensatory time - overtime pay - holidays.
+- Section 124.181 - Pay supplements - shift differentials.
+- Section 124.182 - Professional development fund.
+- Section 124.183 - One-time pay supplements.
+- Section 124.19 - State holidays - university holidays.
+- Section 124.20 - Classification rules - record keeping.
+- Section 124.21 - Civil service districts.
+- Section 124.22 - Educational and citizenship requirements for civil service examinations.
+- Section 124.23 - Examinations.
+- Section 124.231 - Special examinations for legally blind or legally deaf persons.
+- Section 124.24 - Examinations for employees engaged in mineral resource safety.
+- Section 124.241 - Professional employees and registered service employees of county board of developmental disabilities.
+- Section 124.25 - Formal application for examination.
+- Section 124.26 - Eligibility lists; veteran's preference; expiration of list.
+- Section 124.27 - Appointments from eligible lists - probation.
+- Section 124.271 - Provisional employees.
+- Section 124.29 - Authority for temporary furloughs.
+- Section 124.30 - Filling classified positions in civil service without competition.
+- Section 124.301 - Waive residency for job and family services employee.
+- Section 124.31 - Promotions.
+- Section 124.32 - Transfers - reinstatements.
+- Section 124.321 - Reduction in work force - layoffs - job abolishment.
+- Section 124.322 - Layoff procedures.
+- Section 124.323 - Layoff order.
+- Section 124.324 - Layoff displacement rights.
+- Section 124.325 - Retention points for continuous service and efficiency.
+- Section 124.326 - Layoff jurisdictions.
+- Section 124.327 - Layoff lists - reinstatement - reemployment.
+- Section 124.328 - Layoff, displacement appeals.
+- Section 124.33 - Transfers - appeal - reimbursement of expenses.
+- Section 124.34 - Reduction in pay or position - suspension - removal.
+- Section 124.341 - Violation or misuse - whistleblower protection.
+- Section 124.35 - Refusal to testify constitutes unfitness.
+- Section 124.36 - Cause for removal - teacher terminations.
+- Section 124.37 - Police and fire departments reduction in work force - layoffs - job abolishment.
+- Section 124.38 - Sick leave.
+- Section 124.381 - Occupational injury leave program.
+- Section 124.382 - Sick leave credit - misuse of sick leave.
+- Section 124.383 - Options with respect to sick leave credit remaining at end of year.
+- Section 124.384 - Accumulated sick leave.
+- Section 124.385 - Disability leave benefits.
+- Section 124.386 - Personal leave.
+- Section 124.387 - Bereavement leave.
+- Section 124.388 - Administrative leave.
+- Section 124.389 - Employee exchange program.
+- Section 124.39 - Unused sick leave.
+- Section 124.391 - Donation of paid leave program.
+- Section 124.392 - Exempt employees cost savings program.
+- Section 124.393 - Mandatory cost savings program applicable to exempt employees.
+- Section 124.394 - Modified work week schedule program.
+- Section 124.40 - Civil service commissions in municipalities and townships.
+- Section 124.41 - Police department qualifications - police cadet program.
+- Section 124.411 - Police department appointment from annexed territory.
+- Section 124.42 - Firefighter qualifications.
+- Section 124.43 - Separate examinations and eligibility lists for police and firemen.
+- Section 124.44 - Police department promotions.
+- Section 124.45 - Fire department promotions.
+- Section 124.46 - Fire department eligibility lists.
+- Section 124.47 - Fire department special positions.
+- Section 124.48 - Fire department vacancies.
+- Section 124.49 - Fire department probationary period.
+- Section 124.491 - Authorized educational achievement of police officer or firefighter.
+- Section 124.50 - Reinstatement after separation due to injury or physical disability incurred in the performance of duty.
+- Section 124.51 - Secretary of police - secretary of fire.
+- Section 124.52 - Police department traffic control unit head exempt from civil service.
+- Section 124.53 - Superintendent of buildings - superintendent of fire equipment exempt from civil service.
+- Section 124.54 - Boards of education to share cost of civil service administration.
+- Section 124.56 - Investigation of violations.
+- Section 124.57 - Prohibition against partisan political activity.
+- Section 124.58 - Fraud or false representation in examinations.
+- Section 124.59 - Payment for appointment or promotion.
+- Section 124.60 - Abuse of power for political reasons.
+- Section 124.61 - Abuse of political authority or influence.
+- Section 124.62 - Violations of civil service rules or statutes.
+- Section 124.63 - Taxpayer's suit.
+- Section 124.64 - Prosecutions for violations of civil service rules or statutes.
+- Section 124.70 - No residency requirement for higher education employees.
+- Section 124.71 - Unauthorized operation of motor vehicles.
+- Section 124.74 - Criminal records check for employees with access to federal tax information.
+- Section 124.81 - Insurance benefits.
+- Section 124.82 - Health insurance benefits.
+- Section 124.821 - Health care spending account fund.
+- Section 124.822 - Dependent care spending account fund.
+- Section 124.823 - Medical savings account pilot program.
+- Section 124.824 - Elections by death benefit fund recipient.
+- Section 124.825 - Coverage for tobacco cessation.
+- Section 124.83 - Disability and income protection - state employee disability leave benefit fund.
+- Section 124.84 - Long-term care insurance - state employees.
+- Section 124.841 - Long-term care insurance - political subdivision employees.
+- Section 124.86 - Employee educational development fund.
+- Section 124.87 - State employee health benefit fund.
+- Section 124.88 - State employee assistance program.
+- Section 124.90 - Waiver of federal law concerning discrimination in employment.
+- Section 124.91 - Annual survey on diversity within agency workforce.
+- Section 124.93 - Discrimination by health insuring corporation against physician.
+- Section 124.99 - Penalty.

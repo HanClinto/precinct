@@ -1,0 +1,66 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Health care provider\" means any person or entity against whom a medical claim may be asserted in a civil action.",
+      "id": "2317.45-health-care-provider",
+      "normalized": "health care provider",
+      "scope": "(A) As used in this section:",
+      "section": "2317.45",
+      "source_title": "Section 2317.45 - Admissibility of reimbursement policies or determinations.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2317.45",
+      "term": "Health care provider"
+    },
+    {
+      "definition": "(2) \"Insurer\" means any public or private entity doing or authorized to do any insurance business in this state. \"Insurer\" includes a self-insuring employer and the United States centers for medicare and medicaid services.",
+      "id": "2317.45-insurer",
+      "normalized": "insurer",
+      "scope": "(A) As used in this section:",
+      "section": "2317.45",
+      "source_title": "Section 2317.45 - Admissibility of reimbursement policies or determinations.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2317.45",
+      "term": "Insurer"
+    },
+    {
+      "definition": "(3) \"Medical claim\" has the same meaning as in section 2305.113 of the Revised Code.",
+      "id": "2317.45-medical-claim",
+      "normalized": "medical claim",
+      "scope": "(A) As used in this section:",
+      "section": "2317.45",
+      "source_title": "Section 2317.45 - Admissibility of reimbursement policies or determinations.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2317.45",
+      "term": "Medical claim"
+    },
+    {
+      "definition": "(4) \"Reimbursement determination\" means an insurer's determination of whether the insurer will reimburse a health care provider for health care services and the amount of that reimbursement.",
+      "id": "2317.45-reimbursement-determination",
+      "normalized": "reimbursement determination",
+      "scope": "(A) As used in this section:",
+      "section": "2317.45",
+      "source_title": "Section 2317.45 - Admissibility of reimbursement policies or determinations.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2317.45",
+      "term": "Reimbursement determination"
+    },
+    {
+      "definition": "(5) \"Reimbursement policies\" means an insurer's policies and procedures governing its decisions regarding the reimbursement of a health care provider for health care services and the method of reimbursement.\n\n(B) Any insurer's reimbursement policies or reimbursement determination or regulations issued by the United States centers for medicare and medicaid services or the Ohio department of medicaid regarding the health care services provided to the patient in any civil action based on a medical claim are not admissible as evidence for or against any party in the action and may not be used to establish a standard of care or breach of that standard of care in the action.",
+      "id": "2317.45-reimbursement-policies",
+      "normalized": "reimbursement policies",
+      "scope": "(A) As used in this section:",
+      "section": "2317.45",
+      "source_title": "Section 2317.45 - Admissibility of reimbursement policies or determinations.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2317.45",
+      "term": "Reimbursement policies"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2305.113",
+      "number": "2305.113",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.113"
+    }
+  ],
+  "scraped": "2026-07-02T19:44:05+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2317.45",
+  "title": "Section 2317.45 - Admissibility of reimbursement policies or determinations."
+}

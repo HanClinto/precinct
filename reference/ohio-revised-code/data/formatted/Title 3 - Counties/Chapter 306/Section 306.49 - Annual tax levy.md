@@ -1,0 +1,20 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-306.49
+Scraped: 2026-07-02T19:32:38+00:00
+
+# Section 306.49 - Annual tax levy.
+
+**Effective:** October 30, 1989
+
+**Latest Legislation:** House Bill 230 - 118th General Assembly
+
+(A) Upon the affirmative vote of at least a majority of the qualified electors within the territorial boundaries of the regional transit authority voting on the question at an election held for the purpose of authorizing it, the regional transit authority may levy upon the property within its territorial boundaries a tax, for all purposes other than bond debt charges, not in excess of five mills annually on the total value of all property as listed and assessed for taxation for any period not exceeding ten years. Such election shall be called, held, canvassed, and certified in the same manner as is provided for elections held pursuant to section 5705.191 of the Revised Code. On approval of such a levy, notes may be issued in anticipation of the collection of the proceeds thereof, in the amount and manner and at the times as are provided in section 5705.193 of the Revised Code. The regional transit authority may borrow money in anticipation of the collection of current revenues as provided in section 133.10 of the Revised Code.
+
+(B) Whenever the question of a tax upon property as provided in division (A) of this section has been rejected at an election, the regional transit authority may thereafter submit the question at a subsequent election to the qualified electors of the largest municipal corporation located within the territorial boundaries of the regional transit authority, and to the qualified electors of any other municipal corporation or township located within such boundaries, when its legislative authority or board of trustees has adopted a resolution requesting to be included in such election and has filed a copy thereof with the secretary-treasurer of the regional transit authority not later than ninety days prior to the date of the election.
+
+Upon the affirmative vote of a majority of the qualified electors of the largest municipal corporation voting on the question, the regional transit authority may levy a tax as provided in division (A) of this section upon all property within the municipal corporation, and upon all property within any other municipal corporation or township included in the election when a majority of the qualified electors of such municipal corporation or township have authorized the tax.
+
+Whenever a tax upon property has been authorized pursuant to this division, the legislative authority of any municipal corporation, or the board of trustees of any township, that is not subject to the tax, but is included within the territorial boundaries of the regional transit authority, may adopt a resolution requesting the regional transit authority to hold an election submitting the question of levying the tax to the electors of such municipal corporation or township.
+
+Any election held pursuant to this division shall be called, held, canvassed, and certified in the same manner as provided for elections held pursuant to division (A) of this section, and any tax authorized by an election held under this division shall grant the same authority and be subject to the same requirements with respect to the issuance of notes and the borrowing of money as provided in division (A) of this section.
+
+(C) Any tax authorized by an election held under this section shall be levied annually as provided in section 5705.34 of the Revised Code during the period authorized, and shall be for the purpose of providing funds necessary for the regional transit authority budget, except that any tax authorized under division (B) of this section shall be used for such purpose only in those municipal corporations or townships which have authorized the tax. The collection of such tax levy shall conform in all matters to the provisions of the Revised Code governing the collection of taxes and assessments levied by taxing districts, and the same provisions concerning the nonpayment of taxes shall apply to taxes levied pursuant to this section.

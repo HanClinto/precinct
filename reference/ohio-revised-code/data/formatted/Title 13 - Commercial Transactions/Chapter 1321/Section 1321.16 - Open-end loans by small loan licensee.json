@@ -1,0 +1,32 @@
+{
+  "glossary": [
+    {
+      "definition": "For open-end loans, \"billing cycle\" means the time interval between periodic billing dates. A billing cycle shall be considered monthly if the closing date of the cycle is the same date each month or does not vary by more than four days from such date.\n\n(B) Notwithstanding any other provisions of the Revised Code, a licensee may contract for and receive interest for open-end loans at a rate or rates not exceeding those provided in division (A) of section 1321.13 of the Revised Code and may compute interest in each billing cycle by either of the following methods:\n\n(1) By multiplying the daily rate or rates by the daily unpaid balance of the account, in which case the daily rates are determined by dividing the annual rates by three hundred sixty-five;\n\n(2) By multiplying the monthly rate or rates by the average daily unpaid balance of the account in the billing cycle, in which case the average daily unpaid balance is the sum of all of the daily unpaid balances each day during the cycle divided by the number of days in the cycle. The monthly rates are determined by dividing the annual rates by twelve.\n\nThe billing cycle shall be monthly and the unpaid balance on any day shall be determined by adding to any balance unpaid as of the beginning of that day all advances and permitted interest, charges, and costs and deducting all payments and other credits made or received that day.\n\n(C) In addition to the interest permitted in division (B) of this section, a licensee may charge and receive or add to the unpaid balance any or all of the following:\n\n(1) All charges and costs authorized by divisions (E), (F), (G), (H), and (J) of section 1321.13 of the Revised Code;\n\n(2) An annual credit line charge, for the privilege of maintaining a line of credit, for the first year not exceeding the greater of one per cent of the original credit line or thirty dollars, and for subsequent years not exceeding twenty dollars;\n\n(3) A default charge on any required minimum payment not paid in full within ten days after its due date. For this purpose, all required minimum payments are considered paid in the order in which they become due. The amount of the default charge shall not exceed the greater of five per cent of the required minimum payment or five dollars.\n\n(D) The borrower at any time may pay all or any part of the unpaid balance on the account or, if the account is not in default, the borrower may pay the unpaid balance in installments subject to minimum payment requirements as determined by the licensee and set forth in the open-end loan agreement.\n\n(E) If credit life insurance or credit accident and health insurance is obtained by the licensee and if the insured dies or becomes disabled when there is an outstanding open-end loan indebtedness, the insurance shall be sufficient to pay the unpaid balance on the loan due on the date of the borrower's death in the case of credit life insurance or all minimum payments that become due on the loan during the covered period of disability in the case of credit accident and health insurance. The additional charge for credit life insurance, credit accident and health insurance, or unemployment insurance shall be calculated each billing cycle by applying the current monthly premium rate for the insurance, filed by the insurer with the superintendent of insurance and not disapproved by the superintendent, to the unpaid balances in the borrower's account, using one of the methods specified in division (B) of this section for the calculation of interest. No credit life insurance, credit accident and health insurance, or unemployment insurance written in connection with an open-end loan shall be canceled by the licensee because of delinquency of the borrower in making the required minimum payments on the loan unless one or more such payments is past due for a period of thirty days or more. The licensee shall advance to the insurer the amounts required to keep the insurance in force during such period, which amounts may be debited to the borrower's account.\n\n(F) Whenever there is no unpaid balance in an open-end loan account, the account may be terminated by written notice, by the borrower or the licensee, to the other party. If a licensee has taken a security interest in personal property to secure the open-end loan, the licensee shall release the security interest and terminate any financing statement in accordance with section 1309.513 of the Revised Code.\n\nLast updated November 3, 2021 at 5:44 PM",
+      "id": "1321.16-billing-cycle",
+      "normalized": "billing cycle",
+      "scope": "",
+      "section": "1321.16",
+      "source_title": "Section 1321.16 - Open-end loans by small loan licensee.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1321.16",
+      "term": "billing cycle"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "1321.13",
+      "number": "1321.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1321.13"
+    },
+    {
+      "kind": "section",
+      "label": "1309.513",
+      "number": "1309.513",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1309.513"
+    }
+  ],
+  "scraped": "2026-07-02T19:37:15+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1321.16",
+  "title": "Section 1321.16 - Open-end loans by small loan licensee."
+}

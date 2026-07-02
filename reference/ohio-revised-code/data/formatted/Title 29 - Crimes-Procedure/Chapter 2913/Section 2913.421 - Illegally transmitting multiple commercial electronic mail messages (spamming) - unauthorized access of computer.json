@@ -1,0 +1,168 @@
+{
+  "glossary": [
+    {
+      "definition": "(2) \"Commercial electronic mail message\" means any electronic mail message the primary purpose of which is the commercial advertisement or promotion of a commercial product or service, including content on an internet web site operated for a commercial purpose, but does not include a transactional or relationship message. The inclusion of a reference to a commercial entity or a link to the web site of a commercial entity does not, by itself, cause that message to be treated as a commercial electronic mail message for the purpose of this section, if the contents or circumstances of the message indicate a primary purpose other than commercial advertisement or promotion of a commercial product or service.",
+      "id": "2913.421-commercial-electronic-mail-message",
+      "normalized": "commercial electronic mail message",
+      "scope": "(A) As used in this section:",
+      "section": "2913.421",
+      "source_title": "Section 2913.421 - Illegally transmitting multiple commercial electronic mail messages (spamming) - unauthorized access of computer.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2913.421",
+      "term": "Commercial electronic mail message"
+    },
+    {
+      "definition": "(3) \"Domain name\" means any alphanumeric designation that is registered with or assigned by any domain name registrar, domain name registry, or other domain name registration authority as part of an electronic address on the internet.\n\n(4) \"Electronic mail,\" \"originating address,\" and \"receiving address\" have the same meanings as in section 2307.64 of the Revised Code.",
+      "id": "2913.421-domain-name",
+      "normalized": "domain name",
+      "scope": "(A) As used in this section:",
+      "section": "2913.421",
+      "source_title": "Section 2913.421 - Illegally transmitting multiple commercial electronic mail messages (spamming) - unauthorized access of computer.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2913.421",
+      "term": "Domain name"
+    },
+    {
+      "definition": "(5) \"Electronic mail message\" means each electronic mail addressed to a discrete addressee.",
+      "id": "2913.421-electronic-mail-message",
+      "normalized": "electronic mail message",
+      "scope": "(A) As used in this section:",
+      "section": "2913.421",
+      "source_title": "Section 2913.421 - Illegally transmitting multiple commercial electronic mail messages (spamming) - unauthorized access of computer.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2913.421",
+      "term": "Electronic mail message"
+    },
+    {
+      "definition": "(6) \"Electronic mail service provider\" means any person, including an internet service provider, that is an intermediary in sending and receiving electronic mail and that provides to the public electronic mail accounts or online user accounts from which electronic mail may be sent.",
+      "id": "2913.421-electronic-mail-service-provider",
+      "normalized": "electronic mail service provider",
+      "scope": "(A) As used in this section:",
+      "section": "2913.421",
+      "source_title": "Section 2913.421 - Illegally transmitting multiple commercial electronic mail messages (spamming) - unauthorized access of computer.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2913.421",
+      "term": "Electronic mail service provider"
+    },
+    {
+      "definition": "(7) \"Header information\" means the source, destination, and routing information attached to an electronic mail message, including the originating domain name, the originating address, and technical information that authenticates the sender of an electronic mail message for computer network security or computer network management purposes.",
+      "id": "2913.421-header-information",
+      "normalized": "header information",
+      "scope": "(A) As used in this section:",
+      "section": "2913.421",
+      "source_title": "Section 2913.421 - Illegally transmitting multiple commercial electronic mail messages (spamming) - unauthorized access of computer.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2913.421",
+      "term": "Header information"
+    },
+    {
+      "definition": "(8) \"Initiate the transmission\" or \"initiated\" means to originate or transmit a commercial electronic mail message or to procure the origination or transmission of that message, regardless of whether the message reaches its intended recipients, but does not include actions that constitute routine conveyance of such message.",
+      "id": "2913.421-initiate-the-transmission",
+      "normalized": "initiate the transmission",
+      "scope": "(A) As used in this section:",
+      "section": "2913.421",
+      "source_title": "Section 2913.421 - Illegally transmitting multiple commercial electronic mail messages (spamming) - unauthorized access of computer.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2913.421",
+      "term": "Initiate the transmission"
+    },
+    {
+      "definition": "(8) \"Initiate the transmission\" or \"initiated\" means to originate or transmit a commercial electronic mail message or to procure the origination or transmission of that message, regardless of whether the message reaches its intended recipients, but does not include actions that constitute routine conveyance of such message.",
+      "id": "2913.421-initiated",
+      "normalized": "initiated",
+      "scope": "(A) As used in this section:",
+      "section": "2913.421",
+      "source_title": "Section 2913.421 - Illegally transmitting multiple commercial electronic mail messages (spamming) - unauthorized access of computer.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2913.421",
+      "term": "initiated"
+    },
+    {
+      "definition": "(9) \"Internet\" has the same meaning as in section 341.42 of the Revised Code.",
+      "id": "2913.421-internet",
+      "normalized": "internet",
+      "scope": "(A) As used in this section:",
+      "section": "2913.421",
+      "source_title": "Section 2913.421 - Illegally transmitting multiple commercial electronic mail messages (spamming) - unauthorized access of computer.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2913.421",
+      "term": "Internet"
+    },
+    {
+      "definition": "(10) \"Internet protocol address\" means the string of numbers by which locations on the internet are identified by routers or other computers connected to the internet.",
+      "id": "2913.421-internet-protocol-address",
+      "normalized": "internet protocol address",
+      "scope": "(A) As used in this section:",
+      "section": "2913.421",
+      "source_title": "Section 2913.421 - Illegally transmitting multiple commercial electronic mail messages (spamming) - unauthorized access of computer.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2913.421",
+      "term": "Internet protocol address"
+    },
+    {
+      "definition": "(11) \"Materially falsify\" means to alter or conceal in a manner that would impair the ability of a recipient of an electronic mail message, an electronic mail service provider processing an electronic mail message on behalf of a recipient, a person alleging a violation of this section, or a law enforcement agency to identify, locate, or respond to the person that initiated the electronic mail message or to investigate an alleged violation of this section.",
+      "id": "2913.421-materially-falsify",
+      "normalized": "materially falsify",
+      "scope": "(A) As used in this section:",
+      "section": "2913.421",
+      "source_title": "Section 2913.421 - Illegally transmitting multiple commercial electronic mail messages (spamming) - unauthorized access of computer.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2913.421",
+      "term": "Materially falsify"
+    },
+    {
+      "definition": "(12) \"Multiple\" means more than ten commercial electronic mail messages during a twenty-four-hour period, more than one hundred commercial electronic mail messages during a thirty-day period, or more than one thousand commercial electronic mail messages during a one-year period.",
+      "id": "2913.421-multiple",
+      "normalized": "multiple",
+      "scope": "(A) As used in this section:",
+      "section": "2913.421",
+      "source_title": "Section 2913.421 - Illegally transmitting multiple commercial electronic mail messages (spamming) - unauthorized access of computer.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2913.421",
+      "term": "Multiple"
+    },
+    {
+      "definition": "(13) \"Recipient\" means a person who receives a commercial electronic mail message at any one of the following receiving addresses:\n\n(a) A receiving address furnished by an electronic mail service provider that bills for furnishing and maintaining that receiving address to a mailing address within this state;\n\n(b) A receiving address ordinarily accessed from a computer located within this state or by a person domiciled within this state;\n\n(c) Any other receiving address with respect to which this section can be imposed consistent with the United States Constitution.",
+      "id": "2913.421-recipient",
+      "normalized": "recipient",
+      "scope": "(A) As used in this section:",
+      "section": "2913.421",
+      "source_title": "Section 2913.421 - Illegally transmitting multiple commercial electronic mail messages (spamming) - unauthorized access of computer.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2913.421",
+      "term": "Recipient"
+    },
+    {
+      "definition": "(14) \"Routine conveyance\" means the transmission, routing, relaying, handling, or storing, through an automated technical process, of an electronic mail message for which another person has identified the recipients or provided the recipient addresses.",
+      "id": "2913.421-routine-conveyance",
+      "normalized": "routine conveyance",
+      "scope": "(A) As used in this section:",
+      "section": "2913.421",
+      "source_title": "Section 2913.421 - Illegally transmitting multiple commercial electronic mail messages (spamming) - unauthorized access of computer.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2913.421",
+      "term": "Routine conveyance"
+    },
+    {
+      "definition": "(15) \"Transactional or relationship message\" means an electronic mail message the primary purpose of which is to do any of the following:\n\n(a) Facilitate, complete, or confirm a commercial transaction that the recipient has previously agreed to enter into with the sender;\n\n(b) Provide warranty information, product recall information, or safety or security information with respect to a commercial product or service used or purchased by the recipient;\n\n(c) Provide notification concerning a change in the terms or features of; a change in the recipient's standing or status with respect to; or, at regular periodic intervals, account balance information or other type of account statement with respect to, a subscription, membership, account, loan, or comparable ongoing commercial relationship involving the ongoing purchase or use by the recipient of products or services offered by the sender;\n\n(d) Provide information directly related to an employment relationship or related benefit plan in which the recipient is currently involved, participating, or enrolled;\n\n(e) Deliver goods or services, including product updates or upgrades, that the recipient is entitled to receive under the terms of a transaction that the recipient has previously agreed to enter into with the sender.\n\n(B) No person, with regard to commercial electronic mail messages sent from or to a computer in this state, shall do any of the following:\n\n(1) Knowingly use a computer to relay or retransmit multiple commercial electronic mail messages, with the intent to deceive or mislead recipients or any electronic mail service provider, as to the origin of those messages;\n\n(2) Knowingly and materially falsify header information in multiple commercial electronic mail messages and purposely initiate the transmission of those messages;\n\n(3) Knowingly register, using information that materially falsifies the identity of the actual registrant, for five or more electronic mail accounts or online user accounts or two or more domain names and purposely initiate the transmission of multiple commercial electronic mail messages from one, or any combination, of those accounts or domain names;\n\n(4) Knowingly falsely represent the right to use five or more internet protocol addresses, and purposely initiate the transmission of multiple commercial electronic mail messages from those addresses.\n\n(C)(1) Whoever violates division (B) of this section is guilty of illegally transmitting multiple commercial electronic mail messages. Except as otherwise provided in division (C)(2) or (E) of this section, illegally transmitting multiple commercial electronic mail messages is a felony of the fifth degree.\n\n(2) Illegally transmitting multiple commercial electronic mail messages is a felony of the fourth degree if any of the following apply:\n\n(a) Regarding a violation of division (B)(3) of this section, the offender, using information that materially falsifies the identity of the actual registrant, knowingly registers for twenty or more electronic mail accounts or online user accounts or ten or more domain names, and purposely initiates, or conspires to initiate, the transmission of multiple commercial electronic mail messages from the accounts or domain names.\n\n(b) Regarding any violation of division (B) of this section, the volume of commercial electronic mail messages the offender transmitted in committing the violation exceeds two hundred and fifty during any twenty-four-hour period, two thousand five hundred during any thirty-day period, or twenty-five thousand during any one-year period.\n\n(c) Regarding any violation of division (B) of this section, during any one-year period the aggregate loss to the victim or victims of the violation is one thousand dollars or more, or during any one-year period the aggregate value of the property or services obtained by any offender as a result of the violation is one thousand dollars or more.\n\n(d) Regarding any violation of division (B) of this section, the offender committed the violation with three or more other persons with respect to whom the offender was the organizer or leader of the activity that resulted in the violation.\n\n(e) Regarding any violation of division (B) of this section, the offender knowingly assisted in the violation through the provision or selection of electronic mail addresses to which the commercial electronic mail message was transmitted, if that offender knew that the electronic mail addresses of the recipients were obtained using an automated means from an internet web site or proprietary online service operated by another person, and that web site or online service included, at the time the electronic mail addresses were obtained, a notice stating that the operator of that web site or online service will not transfer addresses maintained by that web site or online service to any other party for the purposes of initiating the transmission of, or enabling others to initiate the transmission of, electronic mail messages.\n\n(f) Regarding any violation of division (B) of this section, the offender knowingly assisted in the violation through the provision or selection of electronic mail addresses of the recipients obtained using an automated means that generates possible electronic mail addresses by combining names, letters, or numbers into numerous permutations.\n\n(D)(1) No person, with regard to commercial electronic mail messages sent from or to a computer in this state, shall knowingly access a computer without authorization and purposely initiate the transmission of multiple commercial electronic mail messages from or through the computer.\n\n(2) Except as otherwise provided in division (E) of this section, whoever violates division (D)(1) of this section is guilty of unauthorized access of a computer, a felony of the fourth degree.\n\n(E) Illegally transmitting multiple commercial electronic mail messages and unauthorized access of a computer in violation of this section are felonies of the third degree if the offender previously has been convicted of a violation of this section, or a violation of a law of another state or the United States regarding the transmission of electronic mail messages or unauthorized access to a computer, or if the offender committed the violation of this section in the furtherance of a felony.\n\n(F)(1) The attorney general or an electronic mail service provider that is injured by a violation of this section may bring a civil action in an appropriate court of common pleas of this state seeking relief from any person whose conduct violated this section. The civil action may be commenced at any time within one year of the date after the act that is the basis of the civil action.\n\n(2) In a civil action brought by the attorney general pursuant to division (F)(1) of this section for a violation of this section, the court may award temporary, preliminary, or permanent injunctive relief. The court also may impose a civil penalty against the offender, as the court considers just, in an amount that is the lesser of: (a) twenty-five thousand dollars for each day a violation occurs, or (b) not less than two dollars but not more than eight dollars for each commercial electronic mail message initiated in violation of this section.\n\n(3) In a civil action brought by an electronic mail service provider pursuant to division (F)(1) of this section for a violation of this section, the court may award temporary, preliminary, or permanent injunctive relief, and also may award damages in an amount equal to the greater of the following:\n\n(a) The sum of the actual damages incurred by the electronic mail service provider as a result of a violation of this section, plus any receipts of the offender that are attributable to a violation of this section and that were not taken into account in computing actual damages;\n\n(b) Statutory damages, as the court considers just, in an amount that is the lesser of: (i) twenty-five thousand dollars for each day a violation occurs, or (ii) not less than two dollars but not more than eight dollars for each commercial electronic mail message initiated in violation of this section.\n\n(4) In assessing damages awarded under division (F)(3) of this section, the court may consider whether the offender has established and implemented, with due care, commercially reasonable practices and procedures designed to effectively prevent the violation, or the violation occurred despite commercially reasonable efforts to maintain the practices and procedures established.\n\n(G) Any equipment, software, or other technology of a person who violates this section that is used or intended to be used in the commission of a violation of this section, and any real or personal property that constitutes or is traceable to the gross proceeds obtained from the commission of a violation of this section, is contraband and is subject to seizure and forfeiture pursuant to Chapter 2981. of the Revised Code.\n\n(H) The attorney general may bring a civil action, pursuant to the \"CAN-SPAM Act of 2003,\" Pub. L. No. 108-187, 117 Stat. 2699, 15 U.S.C. 7701 et seq., on behalf of the residents of the state in a district court of the United States that has jurisdiction for a violation of the CAN-SPAM Act of 2003, but the attorney general shall not bring a civil action under both this division and division (F) of this section. If a federal court dismisses a civil action brought under this division for reasons other than upon the merits, a civil action may be brought under division (F) of this section in the appropriate court of common pleas of this state.\n\n(I) Nothing in this section shall be construed:\n\n(1) To require an electronic mail service provider to block, transmit, route, relay, handle, or store certain types of electronic mail messages;\n\n(2) To prevent or limit, in any way, an electronic mail service provider from adopting a policy regarding electronic mail, including a policy of declining to transmit certain types of electronic mail messages, or from enforcing such policy through technical means, through contract, or pursuant to any remedy available under any other federal, state, or local criminal or civil law;\n\n(3) To render lawful any policy adopted under division (I)(2) of this section that is unlawful under any other law.",
+      "id": "2913.421-transactional-or-relationship-message",
+      "normalized": "transactional or relationship message",
+      "scope": "(A) As used in this section:",
+      "section": "2913.421",
+      "source_title": "Section 2913.421 - Illegally transmitting multiple commercial electronic mail messages (spamming) - unauthorized access of computer.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2913.421",
+      "term": "Transactional or relationship message"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "2913.01",
+      "number": "2913.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2913.01"
+    },
+    {
+      "kind": "section",
+      "label": "2307.64",
+      "number": "2307.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-2307.64"
+    },
+    {
+      "kind": "section",
+      "label": "341.42",
+      "number": "341.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-341.42"
+    }
+  ],
+  "scraped": "2026-07-02T19:46:11+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2913.421",
+  "title": "Section 2913.421 - Illegally transmitting multiple commercial electronic mail messages (spamming) - unauthorized access of computer."
+}

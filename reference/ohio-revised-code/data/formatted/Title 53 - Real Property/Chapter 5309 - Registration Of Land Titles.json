@@ -1,0 +1,609 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 5309.01 - Registration of land title definitions.",
+      "number": "5309.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.02 - Jurisdiction of the court of common pleas and the probate court.",
+      "number": "5309.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.03 - Powers of the county recorder.",
+      "number": "5309.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.031 - Maintain registered land records by use of photographic, magnetic, electronic, or certain other processes means, or displays.",
+      "number": "5309.031",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.031"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.04 - Examiners of titles - qualifications, bond, duties.",
+      "number": "5309.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.05 - Persons permitted to have title to land registered.",
+      "number": "5309.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.06 - Estates or interests which may be registered - procedure.",
+      "number": "5309.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.07 - Tax deed entitled to be registered.",
+      "number": "5309.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.08 - Application to register title.",
+      "number": "5309.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.081 - Death of survivorship tenant transfer of interest.",
+      "number": "5309.081",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.081"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.082 - Survivorship tenant medicaid estate recovery form.",
+      "number": "5309.082",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.082"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.09 - Contents of application.",
+      "number": "5309.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.10 - Assent by spouse.",
+      "number": "5309.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.11 - Application by nonresident.",
+      "number": "5309.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.12 - Parties.",
+      "number": "5309.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.13 - Record and index of applications.",
+      "number": "5309.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.14 - Application referred to examiner of titles for investigation - report.",
+      "number": "5309.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.15 - Publication of notice of filing and substance of application.",
+      "number": "5309.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.16 - Answer day.",
+      "number": "5309.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.17 - Guardian ad litem - duties, compensation.",
+      "number": "5309.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.18 - Answer or cross-petition in land registration case.",
+      "number": "5309.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.19 - Order of default and decree of title and registration - final order.",
+      "number": "5309.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.20 - Cause may be referred to examiner of titles for hearing and report.",
+      "number": "5309.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.21 - Effect of decree dismissing application.",
+      "number": "5309.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.22 - Death of applicant.",
+      "number": "5309.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.23 - Decree of confirmation and registration - effect.",
+      "number": "5309.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.24 - Contents of decree of registration.",
+      "number": "5309.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.25 - Register of titles - duties of county recorder and clerk.",
+      "number": "5309.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.26 - Entering original certificate of title.",
+      "number": "5309.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.27 - Certificates to owners as tenants in common - duplicate certificates.",
+      "number": "5309.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.28 - Holder of certificate of title holds free from encumbrances - exceptions.",
+      "number": "5309.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.281 - Restrictive covenants constituting unlawful discriminatory practices.",
+      "number": "5309.281",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.281"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.29 - Decree and certificate of title run with the land.",
+      "number": "5309.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.30 - Signature and address of owner taken and preserved.",
+      "number": "5309.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.31 - Lost or destroyed certificate of title.",
+      "number": "5309.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.32 - Records of surveys of registered land.",
+      "number": "5309.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.33 - Tract and alphabetical indexes.",
+      "number": "5309.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.34 - Transferee of registered land not on notice or inquiry.",
+      "number": "5309.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.35 - Record of trusts and exceptional estates in registered land.",
+      "number": "5309.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.36 - Certificate notation carried until cancellation.",
+      "number": "5309.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.37 - Transfers of registered land - certificate as to taxes and special assessments.",
+      "number": "5309.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.38 - Entry book.",
+      "number": "5309.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.39 - Instruments shall be filed under proper numbers.",
+      "number": "5309.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.40 - Transfer of estate by registered owner in fee.",
+      "number": "5309.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.41 - Canceled instruments shall be preserved.",
+      "number": "5309.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.42 - Transfer of an estate less than a fee.",
+      "number": "5309.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.43 - Questions as to instruments presented for registration referred to court of common pleas or to examiner of titles.",
+      "number": "5309.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.44 - New certificate of title issued.",
+      "number": "5309.44",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.44"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.45 - Application for registration on the death of registered owner.",
+      "number": "5309.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.46 - Title acquired through executor.",
+      "number": "5309.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.47 - Encumbrances on registered land.",
+      "number": "5309.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.48 - Mortgage, encumbrance entered - mortgagee's duplicate certificate.",
+      "number": "5309.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.49 - Filing and notation of instruments affecting registered land.",
+      "number": "5309.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.50 - Records in addition to registration.",
+      "number": "5309.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.51 - Assignment of lease, encumbrance, or lien upon registered land - registration of waivers of priority of lien.",
+      "number": "5309.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.52 - Entry of release or discharge of encumbrance.",
+      "number": "5309.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.53 - Decree or order of court a lien upon registered land.",
+      "number": "5309.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.54 - Judgment of county court judge, mayor or other officer a lien upon registered land.",
+      "number": "5309.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.55 - Lien attaches in proceedings in execution and attachment.",
+      "number": "5309.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.56 - Writ issued from county other than where land situated.",
+      "number": "5309.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.57 - Accounts of mechanics or laborers constitute lien.",
+      "number": "5309.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.58 - Action or proceeding lis pendens.",
+      "number": "5309.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.59 - Certificate of sale must be presented to recorder - notation.",
+      "number": "5309.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.60 - No registration or certificate of title shall issue upon tax deed except on order of court.",
+      "number": "5309.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.61 - Partition and sale confirmed only on report of examiner of titles.",
+      "number": "5309.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.62 - Certificates of title issued to allottees in partition.",
+      "number": "5309.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.63 - Liens attach to lands set off in partition proceedings.",
+      "number": "5309.63",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.63"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.64 - Transfer of title under order of sale.",
+      "number": "5309.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.65 - Transfer of title by assignee or trustee - procedure.",
+      "number": "5309.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.66 - Optional registration of title to land sold in partition or by assignee or administrator.",
+      "number": "5309.66",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.66"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.67 - Nonconformity does not void proceedings.",
+      "number": "5309.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.67"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.68 - Certificate of title - surrender - withdrawal.",
+      "number": "5309.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.68"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.69 - Declaring trusts upon registered land - negotiations.",
+      "number": "5309.69",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.69"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.70 - Attachment of rights of dower and homestead.",
+      "number": "5309.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.71 - Proceedings in eminent domain.",
+      "number": "5309.71",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.71"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.72 - Proceedings by adverse claimant.",
+      "number": "5309.72",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.72"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.73 - Notice by claimant to registered owner.",
+      "number": "5309.73",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.73"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.74 - Power of attorney must be filed with county recorder - revocation.",
+      "number": "5309.74",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.74"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.75 - Statements in instrument constituting a person an attorney in fact.",
+      "number": "5309.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.76 - Alterations or erasures not permitted - exceptions.",
+      "number": "5309.76",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.76"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.77 - Effect of instruments dealing with registered land.",
+      "number": "5309.77",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.77"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.78 - Application for continuation and certification of duplicate certificate of title.",
+      "number": "5309.78",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.78"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.79 - References required in instruments transferring title or creating or discharging liens.",
+      "number": "5309.79",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.79"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.80 - Statements or indorsements contained in instruments presented for registration.",
+      "number": "5309.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.80"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.81 - Parties to suit or proceeding involving registered land.",
+      "number": "5309.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.82 - Notice to registered owner upon the filing of instruments.",
+      "number": "5309.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.82"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.83 - Notice of appeal - petition, bond, and transcript.",
+      "number": "5309.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.83"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.84 - Right to appeal on questions of law and fact or on questions of law to court of appeals.",
+      "number": "5309.84",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.84"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.85 - Burdens and incidents of registered land.",
+      "number": "5309.85",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.85"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.86 - Signature of county recorder on paper and electronic instruments.",
+      "number": "5309.86",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.86"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.87 - Mistakes.",
+      "number": "5309.87",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.87"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.88 - Death of maker before registration.",
+      "number": "5309.88",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.88"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.89 - Title by prescription or adverse possession.",
+      "number": "5309.89",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.89"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.91 - Enforcement of charges.",
+      "number": "5309.91",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.91"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.92 - Transfers.",
+      "number": "5309.92",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.92"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.93 - Effective liens.",
+      "number": "5309.93",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.93"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.94 - Serving and waiver of notices.",
+      "number": "5309.94",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.94"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.95 - Materials furnished by board of county commissioners.",
+      "number": "5309.95",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.95"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.96 - Instruments shall not be taken from office - copies.",
+      "number": "5309.96",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.96"
+    },
+    {
+      "kind": "section",
+      "label": "Section 5309.98 - Rules of practice and procedure.",
+      "number": "5309.98",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5309.98"
+    }
+  ],
+  "scraped": "2026-07-02T20:11:57+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-5309",
+  "title": "Chapter 5309 - Registration Of Land Titles"
+}

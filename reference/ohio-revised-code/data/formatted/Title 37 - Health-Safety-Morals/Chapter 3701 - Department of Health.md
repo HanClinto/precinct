@@ -1,0 +1,222 @@
+Source: https://codes.ohio.gov/ohio-revised-code/chapter-3701
+Scraped: 2026-07-02T19:50:52+00:00
+
+# Chapter 3701 - Department of Health
+
+## Sections
+
+- Section 3701.01 - Department of health definitions.
+- Section 3701.021 - Director of health to adopt rules.
+- Section 3701.022 - Program for children and youth with special health care needs definitions.
+- Section 3701.023 - Program for children and youth with special health care needs.
+- Section 3701.024 - County's share for program for children and youth with special health care needs.
+- Section 3701.025 - Advisory council.
+- Section 3701.026 - Right of subrogation against liable third party.
+- Section 3701.027 - Grant programs.
+- Section 3701.028 - Confidentiality.
+- Section 3701.029 - Hemophilia program to provide payment of health insurance premiums for Ohio residents.
+- Section 3701.0210 - Hemophilia advisory subcommittee.
+- Section 3701.0211 - Application for federal abstinence education funds.
+- Section 3701.03 - General duties of director of health.
+- Section 3701.031 - federal grants for monitoring, studying and preventing pregnancy losses.
+- Section 3701.033 - Distribution of funds for family planning services.
+- Section 3701.034 - Restrictions regarding use of certain federal funds.
+- Section 3701.04 - Director of health - powers and duties.
+- Section 3701.043 - Medicare initial certification fund - fees.
+- Section 3701.044 - Contract to conduct competency examination or evaluation.
+- Section 3701.045 - Child fatality review boards conducting reviews.
+- Section 3701.046 - Grants for women's health services - application.
+- Section 3701.047 - Agreement to promote federally qualified health centers.
+- Section 3701.048 - Protocols for the administration of drugs in a declared emergency.
+- Section 3701.049 - Fetal-infant mortality review.
+- Section 3701.0410 - Drug overdose fatality review.
+- Section 3701.0411 - Suicide fatality review.
+- Section 3701.0412 - Domestic violence fatality review.
+- Section 3701.05 - Annual report to health officials and public.
+- Section 3701.06 - Right of entry to investigate violations.
+- Section 3701.07 - Residents' rights advocates to register with department.
+- Section 3701.071 - Registering and record keeping for nonprofit shelters and health care facilities.
+- Section 3701.072 - Information regarding free clinics.
+- Section 3701.073 - Department to administer medicare rural hospital flexibility program.
+- Section 3701.08 - Duties of department regarding hospitals and medical facilities.
+- Section 3701.09 - Program for construction and modernization of hospitals and medical facilities.
+- Section 3701.10 - District health commissioner may be required to attend school of instruction.
+- Section 3701.11 - Power to administer oath.
+- Section 3701.12 - Third party payment for department goods and services.
+- Section 3701.13 - Department of health - powers.
+- Section 3701.131 - Director of health - duties regarding sickle cell disease.
+- Section 3701.132 - Special supplemental nutrition program for women, infants and children.
+- Section 3701.133 - Meningococcal meningitis and hepatitis B information.
+- Section 3701.134 - Director of health to provide means of immunization against chicken pox.
+- Section 3701.135 - Autism diagnosis education pilot program.
+- Section 3701.136 - School-based fluoride mouth rinse program.
+- Section 3701.137 - Promotion of complex regional pain syndrome education.
+- Section 3701.138 - Influenza information for older adults.
+- Section 3701.139 - Meetings; report.
+- Section 3701.1310 - Assistance at appointments during declared emergency.
+- Section 3701.14 - Special duties of director of health.
+- Section 3701.141 - Office of women's health initiatives.
+- Section 3701.142 - Rules for community health workers.
+- Section 3701.143 - Analyzing blood, urine, breath or other bodily substance to determine alcohol or drug of abuse content.
+- Section 3701.144 - Ohio breast and cervical cancer project.
+- Section 3701.145 - Director ensure treatment for breast or cervical cancer.
+- Section 3701.146 - Duties and powers regarding tuberculosis.
+- Section 3701.15 - Annual report.
+- Section 3701.16 - Purchase, storage, distribution of pharmaceutical agents or medical supplies for public health emergency.
+- Section 3701.161 - Diphtheria antitoxin.
+- Section 3701.162 - Antitoxin for indigent persons.
+- Section 3701.17 - Protected health information.
+- Section 3701.18 - Testing bacteria level of water adjacent to public swimming beaches.
+- Section 3701.19 - Poison control network definitions.
+- Section 3701.20 - Poison control network - purposes.
+- Section 3701.201 - Rules for reporting bioterrorism, epidemic or pandemic disease, infectious agents, toxins posing risk of human fatality or disability.
+- Section 3701.21 - Save our sight fund.
+- Section 3701.22 - Public health laboratory.
+- Section 3701.221 - Chemical and bacteriological laboratory.
+- Section 3701.23 - Reporting contagious or infectious diseases, illnesses, health conditions, or unusual infectious agents or biological toxins.
+- Section 3701.231 - Laboratory compliance with reporting and confidentiality requirements.
+- Section 3701.232 - Reporting significant changes in medication usage that may be caused by bioterrorism, epidemic or pandemic disease.
+- Section 3701.24 - Report as to contagious or infectious diseases - AIDS and HIV.
+- Section 3701.241 - Director to develop and administer AIDS and HIV related programs.
+- Section 3701.242 - Informed consent to HIV test required.
+- Section 3701.243 - Disclosing of HIV test results or diagnosis.
+- Section 3701.244 - Civil actions.
+- Section 3701.245 - Public agencies may not require HIV results to obtain services.
+- Section 3701.246 - HIV testing of donated body parts or fluids.
+- Section 3701.247 - Order compelling HIV testing.
+- Section 3701.248 - Emergency medical or funeral services worker exposed to contagious or infectious disease may request notice of test results.
+- Section 3701.249 - Immunity of employer.
+- Section 3701.25 - Parkinson's disease registry.
+- Section 3701.251 - Confidentiality.
+- Section 3701.252 - Advisory committee.
+- Section 3701.253 - Annual report.
+- Section 3701.254 - Registry information online.
+- Section 3701.255 - Rulemaking.
+- Section 3701.261 - Ohio cancer incidence surveillance system.
+- Section 3701.262 - Cancer incidence surveillance system rules.
+- Section 3701.28 - Powers of department when local authorities fail to act.
+- Section 3701.29 - Annual conference - expenses.
+- Section 3701.30 - Blood bank for civilian use.
+- Section 3701.31 - Administration of blood bank.
+- Section 3701.32 - Rooms provided.
+- Section 3701.33 - Ohio public health advisory board.
+- Section 3701.34 - Ohio public health advisory board; powers and duties.
+- Section 3701.341 - Rules relating to abortions.
+- Section 3701.342 - Minimum standards and optimum achievable standards for boards of health and local health departments.
+- Section 3701.344 - Rules for private water systems.
+- Section 3701.345 - Applying for variance from rules.
+- Section 3701.347 - Rules to remain in effect until repealed or superseded.
+- Section 3701.351 - Standards, procedures for hospital staff membership.
+- Section 3701.352 - Violations prohibited.
+- Section 3701.353 - Business Fairness Act - operations during pandemic, epidemic, or bioterrorism event.
+- Section 3701.36 - Palliative care and quality of life interdisciplinary council.
+- Section 3701.361 - Palliative care consumer and professional information and education program.
+- Section 3701.362 - Identifying and informing persons who may benefit from palliative care.
+- Section 3701.37 - Construction and modernization program to provide adequate hospital and medical facilities for people in state.
+- Section 3701.38 - Application to surgeon general for federal funds.
+- Section 3701.39 - Submission of state plan to surgeon general - publicity and public hearing of plan.
+- Section 3701.40 - Minimum standards for hospitals receiving federal aid.
+- Section 3701.41 - Priority of construction and modernization.
+- Section 3701.42 - Application for construction or modernization projects.
+- Section 3701.43 - Hearing to be given applicant.
+- Section 3701.44 - Inspection of construction projects - certification to surgeon general.
+- Section 3701.45 - Hospital and medical facilities construction fund - federal grant funds.
+- Section 3701.46 - Statement on certificate.
+- Section 3701.47 - Standard tests for syphilis and gonorrhea.
+- Section 3701.48 - Laboratory report.
+- Section 3701.49 - Duty in case physician is not in attendance.
+- Section 3701.50 - Duty of physician to submit specimens for tests - health commissioner may waive requirements.
+- Section 3701.501 - Newborns screened for genetic, endocrine, and metabolic disorders.
+- Section 3701.502 - Programs of education, detection, and treatment of genetic diseases.
+- Section 3701.503 - Testing newborns definitions.
+- Section 3701.504 - Program to identify newborn and infant hearing impairment.
+- Section 3701.505 - Hospitals and freestanding birthing centers duties concerning hearing screening.
+- Section 3701.506 - Preparing and distributing of information concerning hearing loss.
+- Section 3701.508 - Statewide hearing screening, tracking, and early intervention program rules.
+- Section 3701.509 - Analyzing and interpreting hearing screening information.
+- Section 3701.5010 - Critical congenital heart defects screening.
+- Section 3701.51 - Inflammation of the eyes of the newborn and gonorrheal ophthalmia.
+- Section 3701.511 - Use of program funds to counsel or refer for abortion.
+- Section 3701.52 - Condition to be reported.
+- Section 3701.53 - Duties of health commissioner.
+- Section 3701.54 - Duties of department of health.
+- Section 3701.55 - Use of prophylactic against inflammation - record.
+- Section 3701.56 - Enforcement of rules and regulations.
+- Section 3701.57 - Prosecutions and proceedings - injunctive or other relief.
+- Section 3701.571 - Establishing graduated system of fines.
+- Section 3701.58 - Prosecuting attorney to prosecute violations.
+- Section 3701.59 - Encouragement to seek treatment for drug addiction.
+- Section 3701.60 - Offer of uterine cytologic examination for cancer to every female in-patient.
+- Section 3701.601 - Breast and cervical cancer project income tax contribution fund.
+- Section 3701.602 - Wishes for sick children income tax contribution fund.
+- Section 3701.615 - Grant program to address the provision of prenatal health care services to pregnant women on a group basis.
+- Section 3701.69 - Down syndrome information sheet.
+- Section 3701.70 - Guidelines for a state-level review of deaths of resident children under eighteen years of age.
+- Section 3701.701 - Summary sheet.
+- Section 3701.702 - Immunity.
+- Section 3701.703 - Confidentiality.
+- Section 3701.71 - Minimum standards for voluntary and governmental hospitals.
+- Section 3701.72 - Department to adopt rules and regulations to establish and maintain minimum standards.
+- Section 3701.73 - Exceptions to act.
+- Section 3701.74 - Patient or patient's representative to submit request to examine or obtain copy of medical record.
+- Section 3701.741 - Fees for providing copies of medical records.
+- Section 3701.742 - Consumer price index adjustment to fees for providing medical records.
+- Section 3701.75 - Authenticating health care records.
+- Section 3701.76 - Programs to raise awareness of hazards of nonsteroidal synthetic estrogens - annual report of director.
+- Section 3701.77 - Lupus education and awareness program.
+- Section 3701.771 - Needs assessment regarding lupus.
+- Section 3701.772 - Program to award grants for lupus diagnosis, treatment, and therapeutic decision-making.
+- Section 3701.775 - Lupus education and awareness program fund.
+- Section 3701.78 - Commission on minority health.
+- Section 3701.79 - Physician, hospital, and department abortion reports.
+- Section 3701.791 - Notice to be posted where abortions performed.
+- Section 3701.792 - Child survival form.
+- Section 3701.80 - Cooperation for health and sanitary practices of meal preparation and service for type A family child care homes.
+- Section 3701.81 - Exposing others to contagion.
+- Section 3701.82 - Rules and prohibitions for use of burners or heaters.
+- Section 3701.83 - General operations fund.
+- Section 3701.831 - Director to assess operating funds to pay share of department's administrative costs.
+- Section 3701.832 - Department of health medicaid fund.
+- Section 3701.834 - Public health emergency preparedness fund.
+- Section 3701.84 - Plan for reduction of tobacco use.
+- Section 3701.841 - Tobacco use prevention fund.
+- Section 3701.85 - Automated external defibrillator - requirements for use.
+- Section 3701.851 - Development of model emergency action plan.
+- Section 3701.86 - Anatomical pathology services billing definitions.
+- Section 3701.861 - Laboratory bill for anatomical pathology services.
+- Section 3701.87 - Agreement to review proposed capital expenditures by health care facilities.
+- Section 3701.88 - 340B covered entity reporting requirements.
+- Section 3701.90 - Development of curricula on efficacy-based contraceptives.
+- Section 3701.91 - Toll-free patient safety telephone line.
+- Section 3701.916 - Direct care provided by home health agency classified as targeted sector for survey of in-demand jobs.
+- Section 3701.92 - Definitions relating to patient centered medical home education.
+- Section 3701.921 - Patient centered medical home education program.
+- Section 3701.922 - Implementation by director.
+- Section 3701.923 - Patient centered medical home education pilot project.
+- Section 3701.924 - Patient centered medical home education advisory group.
+- Section 3701.925 - Applications from primary care practices with educational affiliations.
+- Section 3701.926 - Eligibility requirements.
+- Section 3701.927 - Contracts with selected practices; terms and conditions.
+- Section 3701.928 - Development of curricula.
+- Section 3701.929 - Reports.
+- Section 3701.93 - Ohio violent death reporting system.
+- Section 3701.931 - Purpose of system.
+- Section 3701.933 - Data collection model.
+- Section 3701.934 - Specification of type, sources, and methods of collecting data.
+- Section 3701.935 - Collection from existing sources.
+- Section 3701.936 - Provision of data by state agencies.
+- Section 3701.937 - Provision of data by other entities and individuals.
+- Section 3701.938 - Duty to provide information.
+- Section 3701.9310 - Confidential information.
+- Section 3701.9311 - Information not subject to subpoena or discovery.
+- Section 3701.9312 - Standards and procedures for accessing information.
+- Section 3701.9314 - Adoption of rules.
+- Section 3701.94 - Patient centered medical home program.
+- Section 3701.941 - Voluntary patient centered medical home certification program.
+- Section 3701.942 - Reporting requirements for certified patient centered medical homes.
+- Section 3701.943 - Report to governor and general assembly.
+- Section 3701.944 - Rules.
+- Section 3701.96 - Fees for zoonotic disease programs.
+- Section 3701.98 - Standards, policies and procedures.
+- Section 3701.981 - Completion and submission of assessments and plans.
+- Section 3701.99 - Penalty.

@@ -1,0 +1,160 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Applicant\" means any person seeking a permit or license for an off-site facility and any person or business concern operating such a facility for an applicant.",
+      "id": "3734.41-applicant",
+      "normalized": "applicant",
+      "scope": "As used in sections 3734.41 to 3734.47 of the Revised Code:",
+      "section": "3734.41",
+      "source_title": "Section 3734.41 - Qualifications of licensees and related persons definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3734.41",
+      "term": "Applicant"
+    },
+    {
+      "definition": "(B) \"Application\" means the forms and accompanying documents filed in connection with the applicant's request for a permit.",
+      "id": "3734.41-application",
+      "normalized": "application",
+      "scope": "As used in sections 3734.41 to 3734.47 of the Revised Code:",
+      "section": "3734.41",
+      "source_title": "Section 3734.41 - Qualifications of licensees and related persons definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3734.41",
+      "term": "Application"
+    },
+    {
+      "definition": "(C) \"Business concern\" means any corporation, association, firm, partnership, trust, or other form of commercial organization.",
+      "id": "3734.41-business-concern",
+      "normalized": "business concern",
+      "scope": "As used in sections 3734.41 to 3734.47 of the Revised Code:",
+      "section": "3734.41",
+      "source_title": "Section 3734.41 - Qualifications of licensees and related persons definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3734.41",
+      "term": "Business concern"
+    },
+    {
+      "definition": "(D) \"Disclosure statement\" means a statement submitted to the director of environmental protection and the attorney general by an applicant. The statement shall include all of the following:\n\n(1) The full name, business address, and social security number of the applicant or, if the applicant is a business concern, of all officers, directors, partners, or key employees thereof and all individuals or business concerns holding any equity in or debt liability of that business concern or, if the business concern is a publicly traded corporation, all individuals or business concerns holding more than five per cent of the equity in or debt liability of that business concern, except that when the debt liability is held by a chartered lending institution, the applicant need supply only the name and business address of the lending institution;\n\n(2) The full name, business address, and social security number of all officers, directors, or partners of any business concern disclosed in the statement and the names and addresses of all persons holding any equity in or debt liability of any business concern so disclosed or, if the business concern is a publicly traded corporation, all individuals or business concerns holding more than five per cent of the equity in or debt liability of that business concern, except that when the debt liability is held by a chartered lending institution, the applicant need supply only the name and business address of the lending institution;\n\n(3) The full name and business address of any company in which the applicant holds an equity interest and that collects, transfers, transports, treats, stores, or disposes of solid wastes, infectious wastes, or hazardous waste or processes solid wastes that consist of scrap tires;\n\n(4) A description of the experience and credentials, including any past or present permits or licenses, for the collection, transfer, transportation, treatment, storage, or disposal of solid wastes, infectious wastes, or hazardous waste, or the processing of solid wastes that consist of scrap tires, possessed by the applicant or, if the applicant is a business concern, by the officers, directors, partners, or key employees thereof;\n\n(5) A listing and explanation of any civil or criminal prosecution by government agencies, administrative enforcement actions resulting in the imposition of sanctions, or license revocations or denials issued by any state or federal authority in the ten years immediately preceding the filing of the application, that are pending or have resulted in a finding or a settlement of a violation of any law or rule or regulation relating to the collection, transfer, transportation, treatment, storage, or disposal of solid wastes, infectious wastes, or hazardous waste, or the processing of solid wastes that consist of scrap tires, or of any other environmental protection statute, by the applicant or, if the applicant is a business concern, by the business concern or any officer, director, partner, or key employee thereof. For the purposes of division (D)(5) of this section, violations of any law or rule relating to the transportation of solid wastes, infectious wastes, or hazardous waste do not include violations that also apply to the transportation of commodities that are not wastes.\n\n(6) A listing and explanation of any judgment of liability or conviction that was rendered pursuant to any state or federal law or local ordinance resulting in the imposition of a sanction against the applicant or, if the applicant is a business concern, against the business concern or any officer, director, partner, or key employee thereof;\n\n(7) A listing of any agency outside this state that has or has had regulatory responsibility over the applicant in connection with its collection, transfer, transportation, treatment, storage, or disposal of solid wastes, infectious wastes, or hazardous waste or processing of solid wastes that consist of scrap tires.",
+      "id": "3734.41-disclosure-statement",
+      "normalized": "disclosure statement",
+      "scope": "As used in sections 3734.41 to 3734.47 of the Revised Code:",
+      "section": "3734.41",
+      "source_title": "Section 3734.41 - Qualifications of licensees and related persons definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3734.41",
+      "term": "Disclosure statement"
+    },
+    {
+      "definition": "(E) \"Key employee\" means any individual, other than a public official or employee as defined in division (B) of section 102.01 of the Revised Code who is required to file a statement under section 102.02 of the Revised Code, employed by the applicant or the licensee in a supervisory capacity or empowered to make discretionary decisions with respect to the solid waste, infectious waste, or hazardous waste operations of the business concern, but does not include any employee exclusively engaged in the physical or mechanical collection, transfer, transportation, treatment, storage, or disposal of solid wastes, infectious wastes, or hazardous waste or processing of solid wastes that consist of scrap tires. If the applicant or permittee has entered into a contract with another person to operate the facility that is the subject of the permit or license or application for a permit or license, \"key employee\" also includes those employees of the contractor who act in a supervisory capacity, or are empowered to make discretionary decisions, with respect to the operation of the solid, infectious, or hazardous waste facility. An officer or director of a business concern required to file a disclosure statement under section 3734.42 of the Revised Code who meets the definition of \"key employee\" shall be considered a key employee for purposes of the filing and disclosure requirements of sections 3734.42 to 3734.47 of the Revised Code.",
+      "id": "3734.41-key-employee",
+      "normalized": "key employee",
+      "scope": "As used in sections 3734.41 to 3734.47 of the Revised Code:",
+      "section": "3734.41",
+      "source_title": "Section 3734.41 - Qualifications of licensees and related persons definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3734.41",
+      "term": "Key employee"
+    },
+    {
+      "definition": "(F) \"License\" means the annual license required by section 3734.05 of the Revised Code for an off-site solid waste disposal or transfer facility or an off-site infectious waste treatment facility.",
+      "id": "3734.41-license",
+      "normalized": "license",
+      "scope": "As used in sections 3734.41 to 3734.47 of the Revised Code:",
+      "section": "3734.41",
+      "source_title": "Section 3734.41 - Qualifications of licensees and related persons definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3734.41",
+      "term": "License"
+    },
+    {
+      "definition": "(G) \"Off-site facility\" means a facility that is located off the premises where the solid wastes, infectious wastes, or hazardous waste is generated, but does not include any such facility that exclusively disposes of wastes that are generated from the combustion of coal, or from the combustion of primarily coal in combination with scrap tires, that is not combined in any way with garbage or any such facility that is owned and operated by the generator of the waste and that exclusively stores, processes, or disposes of or transfers solid wastes, exclusively treats infectious wastes, or exclusively disposes of hazardous waste, generated at one or more premises owned by the generator.",
+      "id": "3734.41-off-site-facility",
+      "normalized": "off-site facility",
+      "scope": "As used in sections 3734.41 to 3734.47 of the Revised Code:",
+      "section": "3734.41",
+      "source_title": "Section 3734.41 - Qualifications of licensees and related persons definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3734.41",
+      "term": "Off-site facility"
+    },
+    {
+      "definition": "(H) \"Permit\" means a permit to install a new off-site solid waste disposal facility, including an incineration facility, or a new transfer facility issued under section 3734.05 of the Revised Code; a permit to install a new off-site solid waste facility that is a scrap tire storage, monocell, monofill, or recovery facility issued under section 3734.76 , 3734.77 , or 3734.78 of the Revised Code, as applicable; a permit to install a new off-site infectious waste treatment facility issued under section 3734.05 of the Revised Code; and a permit to install and operate a new off-site hazardous waste treatment, storage, or disposal facility issued under section 3734.05 of the Revised Code.",
+      "id": "3734.41-permit",
+      "normalized": "permit",
+      "scope": "As used in sections 3734.41 to 3734.47 of the Revised Code:",
+      "section": "3734.41",
+      "source_title": "Section 3734.41 - Qualifications of licensees and related persons definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3734.41",
+      "term": "Permit"
+    },
+    {
+      "definition": "(I) \"Permittee\" means any person who has received a permit or license for an off-site facility.\n\nThe Legislative Service Commission presents the text of this section as a composite of the section as amended by multiple acts of the General Assembly. This presentation recognizes the principle stated in R.C. 1.52(B) that amendments are to be harmonized if reasonably capable of simultaneous operation.",
+      "id": "3734.41-permittee",
+      "normalized": "permittee",
+      "scope": "As used in sections 3734.41 to 3734.47 of the Revised Code:",
+      "section": "3734.41",
+      "source_title": "Section 3734.41 - Qualifications of licensees and related persons definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3734.41",
+      "term": "Permittee"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3734.41",
+      "number": "3734.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.41"
+    },
+    {
+      "kind": "section",
+      "label": "3734.47",
+      "number": "3734.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.47"
+    },
+    {
+      "kind": "section",
+      "label": "102.01",
+      "number": "102.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-102.01"
+    },
+    {
+      "kind": "section",
+      "label": "102.02",
+      "number": "102.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-102.02"
+    },
+    {
+      "kind": "section",
+      "label": "3734.42",
+      "number": "3734.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.42"
+    },
+    {
+      "kind": "section",
+      "label": "3734.05",
+      "number": "3734.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.05"
+    },
+    {
+      "kind": "section",
+      "label": "3734.76",
+      "number": "3734.76",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.76"
+    },
+    {
+      "kind": "section",
+      "label": "3734.77",
+      "number": "3734.77",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.77"
+    },
+    {
+      "kind": "section",
+      "label": "3734.78",
+      "number": "3734.78",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3734.78"
+    },
+    {
+      "kind": "section",
+      "label": "R.C. 1.52(B)",
+      "number": "1.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1.52"
+    }
+  ],
+  "scraped": "2026-07-02T20:00:34+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3734.41",
+  "title": "Section 3734.41 - Qualifications of licensees and related persons definitions."
+}

@@ -1,0 +1,54 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"Contracting authority\" means an officer, board, or other authority of the state, a county, township, municipal corporation, or school district, or of any other political subdivision of the state, authorized to contract for the construction, demolition, alteration, repair, or reconstruction of a public improvement, and any construction manager at risk as defined in section 9.33 of the Revised Code or design-build firm as defined in section 153.65 of the Revised Code awarding a subcontract, but does not include an officer, board, or other authority of the department of transportation.",
+      "id": "153.80-contracting-authority",
+      "normalized": "contracting authority",
+      "scope": "(C) As used in this section:",
+      "section": "153.80",
+      "source_title": "Section 153.80 - Reducing bond.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-153.80",
+      "term": "Contracting authority"
+    },
+    {
+      "definition": "(2) \"Delay claim\" means a claim that arises due to default on provisions in a contract in regard to the time when the whole or any specified portion of work contemplated in the contract must be completed.",
+      "id": "153.80-delay-claim",
+      "normalized": "delay claim",
+      "scope": "(C) As used in this section:",
+      "section": "153.80",
+      "source_title": "Section 153.80 - Reducing bond.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-153.80",
+      "term": "Delay claim"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "153.12",
+      "number": "153.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.12"
+    },
+    {
+      "kind": "section",
+      "label": "153.14",
+      "number": "153.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.14"
+    },
+    {
+      "kind": "section",
+      "label": "9.33",
+      "number": "9.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-9.33"
+    },
+    {
+      "kind": "section",
+      "label": "153.65",
+      "number": "153.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-153.65"
+    }
+  ],
+  "scraped": "2026-07-02T19:32:02+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-153.80",
+  "title": "Section 153.80 - Reducing bond."
+}

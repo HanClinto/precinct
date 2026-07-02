@@ -1,0 +1,118 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5164.36
+Scraped: 2026-07-02T20:11:25+00:00
+
+# Section 5164.36 - Credible allegation of fraud or disqualifying indictment; suspension of provider agreement.
+
+**Effective:** October 3, 2023
+
+**Latest Legislation:** House Bill 33 - 135th General Assembly
+
+(A) As used in this section:
+
+(1) "Credible allegation of fraud" has the same meaning as in 42 C.F.R. 455.2, except that for purposes of this section any reference in that regulation to the "state" or the "state medicaid agency" means the department of medicaid.
+
+(2) "Disqualifying indictment" means an indictment of a medicaid provider or its officer, authorized agent, associate, manager, employee, or, if the provider is a noninstitutional provider, its owner, if either of the following applies:
+
+(a) The indictment charges the person with committing an act to which both of the following apply:
+
+(i) The act would be a felony or misdemeanor under the laws of this state or the jurisdiction within which the act occurred.
+
+(ii) The act relates to or results from furnishing or billing for medicaid services under the medicaid program or relates to or results from performing management or administrative services relating to furnishing medicaid services under the medicaid program.
+
+(b) The indictment charges the person with committing an act that would constitute a disqualifying offense.
+
+(3) "Disqualifying offense" means any of the offenses listed or described in divisions (A)(3)(a) to (e) of section 109.572 of the Revised Code.
+
+(4) "Noninstitutional medicaid provider" means any person or entity with a provider agreement other than a hospital, nursing facility, or ICF/IID.
+
+(5) "Owner" means any person having at least five per cent ownership in a noninstitutional medicaid provider.
+
+(B)(1) Except as provided in division (C) of this section and in rules authorized by this section, the department of medicaid shall suspend the provider agreement held by a medicaid provider on determining either of the following:
+
+(a) There is a credible allegation of fraud against any of the following for which an investigation is pending under the medicaid program:
+
+(i) The medicaid provider;
+
+(ii) The medicaid provider's owner, officer, authorized agent, associate, manager, or employee.
+
+(b) A disqualifying indictment has been issued against any of the following:
+
+(i) The medicaid provider;
+
+(ii) The medicaid provider's officer, authorized agent, associate, manager, or employee;
+
+(iii) If the medicaid provider is a noninstitutional provider, its owner.
+
+(2) Subject to division (C) of this section, the department shall also suspend all medicaid payments to a medicaid provider for services rendered, regardless of the date that the services are rendered, when the department suspends the provider's provider agreement under this section.
+
+(3) The suspension of a provider agreement shall continue in effect until the latest of the following occurs:
+
+(a) If the suspension is the result of a credible allegation of fraud, the department or a prosecuting authority determines that there is insufficient evidence of fraud by the medicaid provider;
+
+(b) Regardless of whether the suspension is the result of a credible allegation of fraud or a disqualifying indictment, the proceedings in any related criminal case are completed through dismissal of the indictment or through sentencing after conviction or entry of a guilty plea or through finding of not guilty or, if the department commences a process to terminate the suspended provider agreement, the termination process is concluded;
+
+(c) The medicaid provider pays in full all fines and debts due and owing to the department or makes arrangements satisfactory to the department to fulfill those obligations;
+
+(d) A civil action related to a credible allegation of fraud or disqualifying indictment is not pending against the medicaid provider.
+
+(4)(a) When a provider agreement is suspended under this section, none of the following shall take, during the period of the suspension, any of the actions specified in division (B)(4)(b) of this section:
+
+(i) The medicaid provider;
+
+(ii) If the suspension is the result of an action taken by an officer, authorized agent, associate, manager, or employee of the medicaid provider, that person;
+
+(iii) If the medicaid provider is a noninstitutional provider and the suspension is the result of an action taken by the owner of the provider, the owner.
+
+(b) The following are the actions that persons specified in division (B)(4)(a) of this section cannot take during the suspension of a provider agreement:
+
+(i) Own any other medicaid provider or risk contractor;
+
+(ii) Arrange, render, or order services on behalf of any other medicaid provider or risk contractor;
+
+(iii) Arrange or order services for medicaid recipients or render services to medicaid recipients;
+
+(iv) Receive direct payments under the medicaid program or indirect payments of medicaid funds in the form of salary, shared fees, contracts, kickbacks, or rebates from or through any other medicaid provider or risk contractor.
+
+(C) The department shall not suspend a provider agreement or medicaid payments under division (B) of this section if either of the following is the case:
+
+(1) The medicaid provider or, if the provider is a noninstitutional provider, the owner can demonstrate through the submission of written evidence that the provider or owner did not directly or indirectly sanction the action of its authorized agent, associate, manager, or employee that resulted in the credible allegation of fraud or disqualifying indictment.
+
+(2) The medicaid provider or, if the provider is a noninstitutional provider, the owner can demonstrate that good cause exists not to suspend the provider agreement or payments.
+
+With respect to the evidence described in division (C)(1) of this section, the department shall grant, prior to suspension, the provider or owner an opportunity to submit the written evidence to the department.
+
+With respect to a demonstration of good cause described in division (C)(2) of this section, the department shall specify in rules adopted under section 5164.02 of the Revised Code what constitutes good cause and the information, documents, or other evidence that must be submitted to the department as part of the demonstration.
+
+(D) After suspending a provider agreement under division (B) of this section, the department shall send notice of the suspension to the affected medicaid provider or, if the provider is a noninstitutional provider, the owner in accordance with the following time frames:
+
+(1) Not later than five days after the suspension, unless a law enforcement agency makes a written request to temporarily delay the notice;
+
+(2) If a law enforcement agency makes a written request to temporarily delay the notice, not later than thirty days after the suspension occurs subject to the conditions specified in division (E) of this section.
+
+(E) A written request for a temporary delay described in division (D)(2) of this section may be renewed in writing by a law enforcement agency not more than two times except that under no circumstances shall the notice be issued more than ninety days after the suspension occurs.
+
+(F) The notice required by division (D) of this section shall do all of the following:
+
+(1) State that payments are being suspended in accordance with this section and 42 C.F.R. 455.23;
+
+(2) Set forth the general allegations related to the nature of the conduct leading to the suspension, except that it is not necessary to disclose any specific information concerning an ongoing investigation;
+
+(3) State that the suspension continues to be in effect until the latest of the circumstances specified in division (B)(3) of this section occur;
+
+(4) Specify, if applicable, the type or types of medicaid claims or business units of the medicaid provider that are affected by the suspension;
+
+(5) Inform the medicaid provider or owner of the opportunity to submit to the department, not later than thirty days after receiving the notice, a request for reconsideration of the suspension in accordance with division (G) of this section.
+
+(G)(1) Pursuant to the procedure specified in division (G)(2) of this section, a medicaid provider subject to a suspension under this section or, if the provider is a noninstitutional provider, the owner may request a reconsideration of the suspension. The request shall be made not later than thirty days after receipt of a notice required by division (D) of this section. The reconsideration is not subject to an adjudication hearing pursuant to Chapter 119. of the Revised Code.
+
+(2) In requesting a reconsideration, the medicaid provider or owner shall submit written information and documents to the department. The information and documents may pertain to either of the following issues:
+
+(a) Whether the determination to suspend the provider agreement was based on a mistake of fact, other than the validity of an indictment in a related criminal case.
+
+(b) If there has been an indictment in a related criminal case, whether the indictment is a disqualifying indictment.
+
+(H) The department shall review the information and documents submitted in a request made under division (G) of this section for reconsideration of a suspension. After the review, the suspension may be affirmed, reversed, or modified, in whole or in part. The department shall notify the affected provider or owner of the results of the review.
+
+(I) Rules adopted under section 5164.02 of the Revised Code may specify circumstances under which the department would not suspend a provider agreement pursuant to this section.
+
+Last updated October 10, 2023 at 11:43 AM

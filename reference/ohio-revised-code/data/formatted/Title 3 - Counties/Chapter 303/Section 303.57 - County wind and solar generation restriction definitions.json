@@ -1,0 +1,64 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Economically significant wind farm\" has the same meaning as in section 4906.13 of the Revised Code.\n\n(B) \"Large wind farm\" and \"large solar facility\" have the same meanings as in section 4906.01 of the Revised Code.",
+      "id": "303.57-economically-significant-wind-farm",
+      "normalized": "economically significant wind farm",
+      "scope": "As used in this section and sections 303.58 to 303.62 of the Revised Code:",
+      "section": "303.57",
+      "source_title": "Section 303.57 - County wind and solar generation restriction definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-303.57",
+      "term": "Economically significant wind farm"
+    },
+    {
+      "definition": "(C)(1) \"Material amendment\" means an amendment to an existing power siting board certificate for the construction, operation, or maintenance of a utility facility that does any of the following:\n\n(a) For utility facilities:\n\n(i) Changes the facility's generation type from one type of utility facility to another;\n\n(ii) Increases the facility's nameplate capacity;\n\n(iii) Changes the boundaries of the facility, unless the new boundaries of the facility are completely within the previous boundaries of the facility or the facility components outside of the previous boundary are underground.\n\n(b) For large wind farms and economically significant wind farms:\n\n(i) Increases the number of wind turbines;\n\n(ii) Increases the height of a wind turbine.\n\n(2) Material amendments do not include the addition of a battery storage system to a utility facility.",
+      "id": "303.57-material-amendment",
+      "normalized": "material amendment",
+      "scope": "As used in this section and sections 303.58 to 303.62 of the Revised Code:",
+      "section": "303.57",
+      "source_title": "Section 303.57 - County wind and solar generation restriction definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-303.57",
+      "term": "Material amendment"
+    },
+    {
+      "definition": "(D) \"Utility facility\" means an economically significant wind farm, a large wind farm, or a large solar facility.\n\nLast updated July 23, 2021 at 4:42 PM",
+      "id": "303.57-utility-facility",
+      "normalized": "utility facility",
+      "scope": "As used in this section and sections 303.58 to 303.62 of the Revised Code:",
+      "section": "303.57",
+      "source_title": "Section 303.57 - County wind and solar generation restriction definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-303.57",
+      "term": "Utility facility"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "303.58",
+      "number": "303.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.58"
+    },
+    {
+      "kind": "section",
+      "label": "303.62",
+      "number": "303.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-303.62"
+    },
+    {
+      "kind": "section",
+      "label": "4906.13",
+      "number": "4906.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4906.13"
+    },
+    {
+      "kind": "section",
+      "label": "4906.01",
+      "number": "4906.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4906.01"
+    }
+  ],
+  "scraped": "2026-07-02T19:32:36+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-303.57",
+  "title": "Section 303.57 - County wind and solar generation restriction definitions."
+}

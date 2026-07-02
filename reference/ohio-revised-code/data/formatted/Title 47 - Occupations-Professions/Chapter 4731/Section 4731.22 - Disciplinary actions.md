@@ -1,0 +1,278 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-4731.22
+Scraped: 2026-07-02T20:07:04+00:00
+
+# Section 4731.22 - Disciplinary actions.
+
+**Effective:** September 30, 2025
+
+**Latest Legislation:** House Bill 96 - 136th General Assembly
+
+(A) The state medical board, by an affirmative vote of not fewer than six of its members, may limit, revoke, or suspend a license or certificate to practice or certificate to recommend, refuse to grant a license or certificate, refuse to renew a license or certificate, refuse to reinstate a license or certificate, or reprimand or place on probation the holder of a license or certificate if the individual applying for or holding the license or certificate is found by the board to have committed fraud during the administration of the examination for a license or certificate to practice or to have committed fraud, misrepresentation, or deception in applying for, renewing, or securing any license or certificate to practice or certificate to recommend issued by the board.
+
+(B) Except as provided in division (P) of this section, the board, by an affirmative vote of not fewer than six members, shall, to the extent permitted by law, limit, revoke, or suspend a license or certificate to practice or certificate to recommend, refuse to issue a license or certificate, refuse to renew a license or certificate, refuse to reinstate a license or certificate, or reprimand or place on probation the holder of a license or certificate for one or more of the following reasons:
+
+(1) Permitting one's name or one's license or certificate to practice to be used by a person, group, or corporation when the individual concerned is not actually directing the treatment given;
+
+(2) Failure to maintain minimal standards applicable to the selection or administration of drugs, or failure to employ acceptable scientific methods in the selection of drugs or other modalities for treatment of disease;
+
+(3) Except as provided in section 4731.97 of the Revised Code, selling, giving away, personally furnishing, prescribing, or administering drugs for other than legal and legitimate therapeutic purposes or a plea of guilty to, a judicial finding of guilt of, or a judicial finding of eligibility for intervention in lieu of conviction of, a violation of any federal or state law regulating the possession, distribution, or use of any drug;
+
+(4) Willfully betraying a professional confidence.
+
+For purposes of this division, "willfully betraying a professional confidence" does not include providing any information, documents, or reports under sections 307.621 to 307.629 of the Revised Code to a child fatality review board; does not include providing any information, documents, or reports under sections 307.631 to 307.6410 of the Revised Code to a drug overdose fatality review committee, a suicide fatality review committee, or hybrid drug overdose fatality and suicide fatality review committee; does not include providing any information, documents, or reports under sections 307.651 to 307.659 of the Revised Code to a domestic violence fatality review board; does not include providing any information, documents, or reports to the director of health pursuant to guidelines established under section 3701.70 of the Revised Code; does not include written notice to a mental health professional under section 4731.62 of the Revised Code; does not include making a report as described in division (F) of section 2921.22 and section 4731.224 of the Revised Code; and does not include the making of a report of an employee's use of a drug of abuse, or a report of a condition of an employee other than one involving the use of a drug of abuse, to the employer of the employee as described in division (B) of section 2305.33 of the Revised Code. Nothing in this division affects the immunity from civil liability conferred by section 2305.33 or 4731.62 of the Revised Code upon a physician who makes a report in accordance with section 2305.33 or notifies a mental health professional in accordance with section 4731.62 of the Revised Code. As used in this division, "employee," "employer," and "physician" have the same meanings as in section 2305.33 of the Revised Code.
+
+(5) Making a false, fraudulent, deceptive, or misleading statement in the solicitation of or advertising for patients; in relation to the practice of medicine and surgery, osteopathic medicine and surgery, podiatric medicine and surgery, or a limited branch of medicine; or in securing or attempting to secure any license or certificate to practice issued by the board.
+
+As used in this division, "false, fraudulent, deceptive, or misleading statement" means a statement that includes a misrepresentation of fact, is likely to mislead or deceive because of a failure to disclose material facts, is intended or is likely to create false or unjustified expectations of favorable results, or includes representations or implications that in reasonable probability will cause an ordinarily prudent person to misunderstand or be deceived.
+
+(6) A departure from, or the failure to conform to, minimal standards of care of similar practitioners under the same or similar circumstances, whether or not actual injury to a patient is established;
+
+(7) Representing, with the purpose of obtaining compensation or other advantage as personal gain or for any other person, that an incurable disease or injury, or other incurable condition, can be permanently cured;
+
+(8) The obtaining of, or attempting to obtain, money or anything of value by fraudulent misrepresentations in the course of practice;
+
+(9) A plea of guilty to, a judicial finding of guilt of, or a judicial finding of eligibility for intervention in lieu of conviction for, a felony;
+
+(10) Commission of an act that constitutes a felony in this state, regardless of the jurisdiction in which the act was committed;
+
+(11) A plea of guilty to, a judicial finding of guilt of, or a judicial finding of eligibility for intervention in lieu of conviction for, a misdemeanor committed in the course of practice;
+
+(12) Commission of an act in the course of practice that constitutes a misdemeanor in this state, regardless of the jurisdiction in which the act was committed;
+
+(13) A plea of guilty to, a judicial finding of guilt of, or a judicial finding of eligibility for intervention in lieu of conviction for, a misdemeanor involving moral turpitude;
+
+(14) Commission of an act involving moral turpitude that constitutes a misdemeanor in this state, regardless of the jurisdiction in which the act was committed;
+
+(15) Violation of the conditions of limitation placed by the board upon a license or certificate to practice;
+
+(16) Failure to pay license renewal fees specified in this chapter;
+
+(17) Except as authorized in section 4731.31 of the Revised Code, engaging in the division of fees for referral of patients, or the receiving of a thing of value in return for a specific referral of a patient to utilize a particular service or business;
+
+(18) Subject to section 4731.226 of the Revised Code, violation of any provision of a code of ethics of the American medical association, the American osteopathic association, the American podiatric medical association, or any other national professional organizations that the board specifies by rule. The state medical board shall obtain and keep on file current copies of the codes of ethics of the various national professional organizations. The individual whose license or certificate is being suspended or revoked shall not be found to have violated any provision of a code of ethics of an organization not appropriate to the individual's profession.
+
+For purposes of this division, a "provision of a code of ethics of a national professional organization" does not include any provision that would preclude the making of a report by a physician of an employee's use of a drug of abuse, or of a condition of an employee other than one involving the use of a drug of abuse, to the employer of the employee as described in division (B) of section 2305.33 of the Revised Code. Nothing in this division affects the immunity from civil liability conferred by that section upon a physician who makes either type of report in accordance with division (B) of that section. As used in this division, "employee," "employer," and "physician" have the same meanings as in section 2305.33 of the Revised Code.
+
+(19) Inability to practice according to acceptable and prevailing standards of care by reason of mental illness or physical illness, including, but not limited to, physical deterioration that adversely affects cognitive, motor, or perceptive skills.
+
+In enforcing this division, the board, upon a showing of a possible violation, shall refer any individual who is authorized to practice by this chapter or who has submitted an application pursuant to this chapter to the monitoring organization that conducts the confidential monitoring program established under section 4731.25 of the Revised Code. The board also may compel the individual to submit to a mental examination, physical examination, including an HIV test, or both a mental and a physical examination. The expense of the examination is the responsibility of the individual compelled to be examined. Failure to submit to a mental or physical examination or consent to an HIV test ordered by the board constitutes an admission of the allegations against the individual unless the failure is due to circumstances beyond the individual's control, and a default and final order may be entered without the taking of testimony or presentation of evidence. If the board finds an individual unable to practice because of the reasons set forth in this division, the board shall require the individual to submit to care, counseling, or treatment by physicians approved or designated by the board, as a condition for initial, continued, reinstated, or renewed authority to practice. An individual affected under this division shall be afforded an opportunity to demonstrate to the board the ability to resume practice in compliance with acceptable and prevailing standards under the provisions of the individual's license or certificate. For the purpose of this division, any individual who applies for or receives a license or certificate to practice under this chapter accepts the privilege of practicing in this state and, by so doing, shall be deemed to have given consent to submit to a mental or physical examination when directed to do so in writing by the board, and to have waived all objections to the admissibility of testimony or examination reports that constitute a privileged communication.
+
+(20) Except as provided in division (F)(1)(b) of section 4731.282 of the Revised Code or when civil penalties are imposed under section 4731.225 of the Revised Code, and subject to section 4731.226 of the Revised Code, violating or attempting to violate, directly or indirectly, or assisting in or abetting the violation of, or conspiring to violate, any provisions of this chapter or any rule promulgated by the board.
+
+This division does not apply to a violation or attempted violation of, assisting in or abetting the violation of, or a conspiracy to violate, any provision of this chapter or any rule adopted by the board that would preclude the making of a report by a physician of an employee's use of a drug of abuse, or of a condition of an employee other than one involving the use of a drug of abuse, to the employer of the employee as described in division (B) of section 2305.33 of the Revised Code. Nothing in this division affects the immunity from civil liability conferred by that section upon a physician who makes either type of report in accordance with division (B) of that section. As used in this division, "employee," "employer," and "physician" have the same meanings as in section 2305.33 of the Revised Code.
+
+(21) The violation of section 3701.79 of the Revised Code or of any abortion rule adopted by the director of health pursuant to section 3701.341 of the Revised Code;
+
+(22) Any of the following actions taken by an agency responsible for authorizing, certifying, or regulating an individual to practice a health care occupation or provide health care services in this state or another jurisdiction, for any reason other than the nonpayment of fees: the limitation, revocation, or suspension of an individual's license to practice; acceptance of an individual's license surrender; denial of a license; refusal to renew or reinstate a license; imposition of probation; or issuance of an order of censure or other reprimand;
+
+(23) The violation of section 2919.12 of the Revised Code or the performance or inducement of an abortion upon a pregnant woman with actual knowledge that the conditions specified in division (B) of section 2317.56 of the Revised Code have not been satisfied or with a heedless indifference as to whether those conditions have been satisfied, unless an affirmative defense as specified in division (H)(2) of that section would apply in a civil action authorized by division (H)(1) of that section;
+
+(24) The revocation, suspension, restriction, reduction, or termination of clinical privileges by the United States department of defense or department of veterans affairs or the termination or suspension of a certificate of registration to prescribe drugs by the drug enforcement administration of the United States department of justice;
+
+(25) Termination or suspension from participation in the medicare or medicaid programs by the department of health and human services or other responsible agency;
+
+(26) Impairment of ability to practice according to acceptable and prevailing standards of care because of substance use disorder or excessive use or abuse of drugs, alcohol, or other substances that may impair ability to practice.
+
+For the purposes of this division, any individual authorized to practice by this chapter accepts the privilege of practicing in this state subject to supervision by the board. By filing an application for or holding a license or certificate to practice under this chapter, an individual shall be deemed to have given consent to submit to a mental or physical examination when ordered to do so by the board in writing, and to have waived all objections to the admissibility of testimony or examination reports that constitute privileged communications.
+
+If it has reason to believe that any individual authorized to practice by this chapter or any applicant for licensure or certification to practice suffers such impairment, the board shall refer the individual to the monitoring organization that conducts the confidential monitoring program established under section 4731.25 of the Revised Code. The board also may compel the individual to submit to a mental or physical examination, or both. The expense of the examination is the responsibility of the individual compelled to be examined. Any mental or physical examination required under this division shall be undertaken by a treatment provider or physician who is qualified to conduct the examination and who is approved under section 4731.251 of the Revised Code.
+
+Failure to submit to a mental or physical examination ordered by the board constitutes an admission of the allegations against the individual unless the failure is due to circumstances beyond the individual's control, and a default and final order may be entered without the taking of testimony or presentation of evidence. If the board determines that the individual's ability to practice is impaired, the board shall suspend the individual's license or certificate or deny the individual's application and shall require the individual, as a condition for initial, continued, reinstated, or renewed licensure or certification to practice, to submit to treatment.
+
+Before being eligible to apply for reinstatement of a license or certificate suspended under this division, the impaired practitioner shall demonstrate to the board the ability to resume practice in compliance with acceptable and prevailing standards of care under the provisions of the practitioner's license or certificate. The demonstration shall include, but shall not be limited to, the following:
+
+(a) Certification from a treatment provider approved under section 4731.251 of the Revised Code that the individual has successfully completed any required inpatient treatment;
+
+(b) Evidence of continuing full compliance with an aftercare contract or consent agreement;
+
+(c) Two written reports indicating that the individual's ability to practice has been assessed and that the individual has been found capable of practicing according to acceptable and prevailing standards of care. The reports shall be made by individuals or providers approved by the board for making the assessments and shall describe the basis for their determination.
+
+The board may reinstate a license or certificate suspended under this division after that demonstration and after the individual has entered into a written consent agreement.
+
+When the impaired practitioner resumes practice, the board shall require continued monitoring of the individual. The monitoring shall include, but not be limited to, compliance with the written consent agreement entered into before reinstatement or with conditions imposed by board order after a hearing, and, upon termination of the consent agreement, submission to the board for at least two years of annual written progress reports made under penalty of perjury stating whether the individual has maintained sobriety.
+
+(27) A second or subsequent violation of section 4731.66 or 4731.69 of the Revised Code;
+
+(28) Except as provided in division (N) of this section:
+
+(a) Waiving the payment of all or any part of a deductible or copayment that a patient, pursuant to a health insurance or health care policy, contract, or plan that covers the individual's services, otherwise would be required to pay if the waiver is used as an enticement to a patient or group of patients to receive health care services from that individual;
+
+(b) Advertising that the individual will waive the payment of all or any part of a deductible or copayment that a patient, pursuant to a health insurance or health care policy, contract, or plan that covers the individual's services, otherwise would be required to pay.
+
+(29) Failure to use universal blood and body fluid precautions established by rules adopted under section 4731.051 of the Revised Code;
+
+(30) Failure to provide notice to, and receive acknowledgment of the notice from, a patient when required by section 4731.143 of the Revised Code prior to providing nonemergency professional services, or failure to maintain that notice in the patient's medical record;
+
+(31) Failure of a physician supervising a physician assistant to maintain supervision in accordance with the requirements of Chapter 4730. of the Revised Code and the rules adopted under that chapter;
+
+(32) Failure of a physician or podiatrist to enter into a standard care arrangement with a clinical nurse specialist, certified nurse-midwife, or certified nurse practitioner with whom the physician or podiatrist is in collaboration pursuant to section 4731.27 of the Revised Code or failure to fulfill the responsibilities of collaboration after entering into a standard care arrangement;
+
+(33) Failure to comply with the terms of a consult agreement entered into with a pharmacist pursuant to section 4729.39 of the Revised Code;
+
+(34) Failure to cooperate in an investigation conducted by the board under division (F) of this section, including failure to comply with a subpoena or order issued by the board or failure to answer truthfully a question presented by the board in an investigative interview, an investigative office conference, at a deposition, or in written interrogatories, except that failure to cooperate with an investigation shall not constitute grounds for discipline under this section if a court of competent jurisdiction has issued an order that either quashes a subpoena or permits the individual to withhold the testimony or evidence in issue;
+
+(35) Failure to supervise an anesthesiologist assistant in accordance with Chapter 4760. of the Revised Code and the board's rules for supervision of an anesthesiologist assistant;
+
+(36) Assisting suicide, as defined in section 3795.01 of the Revised Code;
+
+(37) Failure to comply with the requirements of section 2317.561 of the Revised Code;
+
+(38) Failure to supervise a radiologist assistant in accordance with Chapter 4774. of the Revised Code and the board's rules for supervision of radiologist assistants;
+
+(39) Performing or inducing an abortion at an office or facility with knowledge that the office or facility fails to post the notice required under section 3701.791 of the Revised Code;
+
+(40) Failure to comply with the standards and procedures established in rules under section 4731.054 of the Revised Code for the operation of or the provision of care at a pain management clinic;
+
+(41) Failure to comply with the standards and procedures established in rules under section 4731.054 of the Revised Code for providing supervision, direction, and control of individuals at a pain management clinic;
+
+(42) Failure to comply with the requirements of section 4729.79 or 4731.055 of the Revised Code, unless the state board of pharmacy no longer maintains a drug database pursuant to section 4729.75 of the Revised Code;
+
+(43) Failure to comply with the requirements of section 2919.171 , 2919.202 , or 2919.203 of the Revised Code or failure to submit to the department of health in accordance with a court order a complete report as described in section 2919.171 or 2919.202 of the Revised Code;
+
+(44) Practicing at a facility that is subject to licensure as a category III terminal distributor of dangerous drugs with a pain management clinic classification unless the person operating the facility has obtained and maintains the license with the classification;
+
+(45) Owning a facility that is subject to licensure as a category III terminal distributor of dangerous drugs with a pain management clinic classification unless the facility is licensed with the classification;
+
+(46) Failure to comply with any of the requirements regarding making or maintaining medical records or documents described in division (A) of section 2919.192 , division (C) of section 2919.193 , division (B) of section 2919.195 , or division (A) of section 2919.196 of the Revised Code;
+
+(47) Failure to comply with the requirements in section 3719.061 of the Revised Code before issuing for a minor a prescription for an opioid analgesic, as defined in section 3719.01 of the Revised Code;
+
+(48) Failure to comply with the requirements of section 4731.30 of the Revised Code or rules adopted under section 4731.301 of the Revised Code when recommending treatment with medical marijuana;
+
+(49) A pattern of continuous or repeated violations of division (E)(2) or (3) of section 3963.02 of the Revised Code;
+
+(50) Failure to fulfill the responsibilities of a collaboration agreement entered into with an athletic trainer as described in section 4755.621 of the Revised Code;
+
+(51) Failure to take the steps specified in section 4731.911 of the Revised Code following an abortion or attempted abortion in an ambulatory surgical facility or other location that is not a hospital when a child is born alive;
+
+(52) Violation of section 4731.77 of the Revised Code;
+
+(53) Failure of a physician supervising a certified mental health assistant to maintain supervision in accordance with the requirements of Chapter 4772. of the Revised Code and the rules adopted under that chapter;
+
+(54) Failure to comply with the requirements of section 3705.16 of the Revised Code when certifying a decedent's cause of death and completing and signing the medical certificate of death.
+
+(C) Disciplinary actions taken by the board under divisions (A) and (B) of this section shall be taken pursuant to an adjudication under Chapter 119. of the Revised Code, except that in lieu of an adjudication, the board may enter into a consent agreement with an individual to resolve an allegation of a violation of this chapter or any rule adopted under it. A consent agreement, when ratified by an affirmative vote of not fewer than six members of the board, shall constitute the findings and order of the board with respect to the matter addressed in the agreement. If the board refuses to ratify a consent agreement, the admissions and findings contained in the consent agreement shall be of no force or effect.
+
+A telephone conference call may be utilized for ratification of a consent agreement that revokes or suspends an individual's license or certificate to practice or certificate to recommend. The telephone conference call shall be considered a special meeting under division (F) of section 121.22 of the Revised Code.
+
+If the board takes disciplinary action against an individual under division (B) of this section for a second or subsequent plea of guilty to, or judicial finding of guilt of, a violation of section 2919.123 or 2919.124 of the Revised Code, the disciplinary action shall consist of a suspension of the individual's license or certificate to practice for a period of at least one year or, if determined appropriate by the board, a more serious sanction involving the individual's license or certificate to practice. Any consent agreement entered into under this division with an individual that pertains to a second or subsequent plea of guilty to, or judicial finding of guilt of, a violation of that section shall provide for a suspension of the individual's license or certificate to practice for a period of at least one year or, if determined appropriate by the board, a more serious sanction involving the individual's license or certificate to practice.
+
+(D) For purposes of divisions (B)(10), (12), and (14) of this section, the commission of the act may be established by a finding by the board, pursuant to an adjudication under Chapter 119. of the Revised Code, that the individual committed the act. The board does not have jurisdiction under those divisions if the trial court renders a final judgment in the individual's favor and that judgment is based upon an adjudication on the merits. The board has jurisdiction under those divisions if the trial court issues an order of dismissal upon technical or procedural grounds.
+
+(E) The sealing or expungement of conviction records by any court shall have no effect upon a prior board order entered under this section or upon the board's jurisdiction to take action under this section if, based upon a plea of guilty, a judicial finding of guilt, or a judicial finding of eligibility for intervention in lieu of conviction, the board issued a notice of opportunity for a hearing prior to the court's order to seal or expunge the records. The board shall not be required to seal, expunge, destroy, redact, or otherwise modify its records to reflect the court's sealing of conviction records.
+
+(F)(1) The board shall investigate evidence that appears to show that a person has violated any provision of this chapter or any rule adopted under it. Any person may report to the board in a signed writing any information that the person may have that appears to show a violation of any provision of this chapter or any rule adopted under it. In the absence of bad faith, any person who reports information of that nature or who testifies before the board in any adjudication conducted under Chapter 119. of the Revised Code shall not be liable in damages in a civil action as a result of the report or testimony. Each complaint or allegation of a violation received by the board shall be assigned a case number and shall be recorded by the board.
+
+(2) Investigations of alleged violations of this chapter or any rule adopted under it shall be supervised by the supervising member elected by the board in accordance with section 4731.02 of the Revised Code and by the secretary as provided in section 4731.39 of the Revised Code. The president may designate another member of the board to supervise the investigation in place of the supervising member. Upon a vote of the majority of the board to authorize the addition of a consumer member in the supervision of any part of any investigation, the president shall designate a consumer member for supervision of investigations as determined by the president. The authorization of consumer member participation in investigation supervision may be rescinded by a majority vote of the board. No member of the board who supervises the investigation of a case shall participate in further adjudication of the case.
+
+(3) In investigating a possible violation of this chapter or any rule adopted under this chapter, or in conducting an inspection under division (E) of section 4731.054 of the Revised Code, the board may question witnesses, conduct interviews, administer oaths, order the taking of depositions, inspect and copy any books, accounts, papers, records, or documents, issue subpoenas, and compel the attendance of witnesses and production of books, accounts, papers, records, documents, and testimony, except that a subpoena for patient record information shall not be issued without consultation with the attorney general's office and approval of the secretary of the board.
+
+(a) Before issuance of a subpoena for patient record information, the secretary shall determine whether there is probable cause to believe that the complaint filed alleges a violation of this chapter or any rule adopted under it and that the records sought are relevant to the alleged violation and material to the investigation. The subpoena may apply only to records that cover a reasonable period of time surrounding the alleged violation.
+
+(b) On failure to comply with any subpoena issued by the board and after reasonable notice to the person being subpoenaed, the board may move for an order compelling the production of persons or records pursuant to the Rules of Civil Procedure.
+
+(c) A subpoena issued by the board may be served by a sheriff, the sheriff's deputy, or a board employee or agent designated by the board. Service of a subpoena issued by the board may be made by delivering a copy of the subpoena to the person named therein, reading it to the person, or leaving it at the person's usual place of residence, usual place of business, or address on file with the board. When serving a subpoena to an applicant for or the holder of a license or certificate issued under this chapter, service of the subpoena may be made by certified mail, return receipt requested, and the subpoena shall be deemed served on the date delivery is made or the date the person refuses to accept delivery. If the person being served refuses to accept the subpoena or is not located, service may be made to an attorney who notifies the board that the attorney is representing the person.
+
+(d) A sheriff's deputy who serves a subpoena shall receive the same fees as a sheriff. Each witness who appears before the board in obedience to a subpoena shall receive the fees and mileage provided for under section 119.094 of the Revised Code.
+
+(4) All hearings, investigations, and inspections of the board shall be considered civil actions for the purposes of section 2305.252 of the Revised Code.
+
+(5) A report required to be submitted to the board under this chapter, a complaint, or information received by the board pursuant to an investigation or pursuant to an inspection under division (E) of section 4731.054 of the Revised Code is confidential and not subject to discovery in any civil action.
+
+The board shall conduct all investigations or inspections and proceedings in a manner that protects the confidentiality of patients and persons who file complaints with the board. The board shall not make public the names or any other identifying information about patients or complainants unless proper consent is given or, in the case of a patient, a waiver of the patient privilege exists under division (B) of section 2317.02 of the Revised Code, except that consent or a waiver of that nature is not required if the board possesses reliable and substantial evidence that no bona fide physician-patient relationship exists.
+
+The board may share any information it receives pursuant to an investigation or inspection, including patient records and patient record information, with law enforcement agencies, other licensing boards, and other governmental agencies that are prosecuting, adjudicating, or investigating alleged violations of statutes or administrative rules. An agency or board that receives the information shall comply with the same requirements regarding confidentiality as those with which the state medical board must comply, notwithstanding any conflicting provision of the Revised Code or procedure of the agency or board that applies when it is dealing with other information in its possession. In a judicial proceeding, the information may be admitted into evidence only in accordance with the Rules of Evidence, but the court shall require that appropriate measures are taken to ensure that confidentiality is maintained with respect to any part of the information that contains names or other identifying information about patients or complainants whose confidentiality was protected by the state medical board when the information was in the board's possession. Measures to ensure confidentiality that may be taken by the court include sealing its records or deleting specific information from its records.
+
+No person shall knowingly access, use, or disclose confidential investigatory information in a manner prohibited by law.
+
+(6) On a quarterly basis, the board shall prepare a report that documents the disposition of all cases during the preceding three months. The report shall contain the following information for each case with which the board has completed its activities:
+
+(a) The case number assigned to the complaint or alleged violation;
+
+(b) The type of license or certificate to practice, if any, held by the individual against whom the complaint is directed;
+
+(c) A description of the allegations contained in the complaint;
+
+(d) Whether witnesses were interviewed;
+
+(e) Whether the individual against whom the complaint is directed is the subject of any pending complaints;
+
+(f) The disposition of the case.
+
+The report shall state how many cases are still pending and shall be prepared in a manner that protects the identity of each person involved in each case. The report shall be a public record under section 149.43 of the Revised Code.
+
+(7) The board may provide a status update regarding an investigation to a complainant on request if the board verifies the complainant's identity.
+
+(G)(1) If either of the following circumstances occur, the secretary and supervising member may recommend that the board suspend an individual's license or certificate to practice or certificate to recommend without a prior hearing:
+
+(a) The secretary and supervising member determine both of the following:
+
+(i) That there is clear and convincing evidence that an individual has violated division (B) of this section;
+
+(ii) That the individual's continued practice presents a danger of immediate and serious harm to the public.
+
+(b) The board receives verifiable information that a licensee has been charged in any state or federal court with a crime classified as a felony under the charging court's law and the conduct constitutes a violation of division (B) of this section.
+
+(2) If a recommendation is made to suspend without a prior hearing pursuant to division (G)(1) of this section, written allegations shall be prepared for consideration by the board. The board, upon review of those allegations and by an affirmative vote of not fewer than six of its members, excluding the secretary and supervising member, may suspend a license or certificate without a prior hearing. A telephone conference call may be utilized for reviewing the allegations and taking the vote on the summary suspension.
+
+The board shall serve a written order of suspension in accordance with sections 119.05 and 119.07 of the Revised Code. If the individual subject to the summary suspension requests an adjudicatory hearing by the board, the date set for the hearing shall be within fifteen days, but not earlier than seven days, after the individual requests the hearing, unless otherwise agreed to by both the board and the individual.
+
+(3) Any summary suspension imposed under division (G)(2) of this section is not a final appealable order and is not an adjudication that may be appealed under section 119.12 of the Revised Code. The summary suspension shall remain in effect until a final adjudicative order issued by the board pursuant to this section and Chapter 119. of the Revised Code becomes effective. Once a final adjudicative order has been issued by the board, any party adversely affected by it may file an appeal in accordance with the requirements of Chapter 119. of the Revised Code.
+
+The board shall issue its final adjudicative order within seventy-five days after completion of its hearing. A failure to issue the order within seventy-five days shall result in dissolution of the summary suspension order but shall not invalidate any subsequent, final adjudicative order.
+
+(H) If the board takes action under division (B)(9), (11), or (13) of this section and the judicial finding of guilt, guilty plea, or judicial finding of eligibility for intervention in lieu of conviction is overturned on appeal, upon exhaustion of the criminal appeal, a petition for reconsideration of the order may be filed with the board along with appropriate court documents. Upon receipt of a petition of that nature and supporting court documents, the board shall reinstate the individual's license or certificate to practice. The board may then hold an adjudication under Chapter 119. of the Revised Code to determine whether the individual committed the act in question. Notice of an opportunity for a hearing shall be given in accordance with Chapter 119. of the Revised Code. If the board finds, pursuant to an adjudication held under this division, that the individual committed the act or if no hearing is requested, the board may order any of the sanctions identified under division (B) of this section.
+
+(I) The license or certificate to practice issued to an individual under this chapter and the individual's practice in this state are automatically suspended as of the date of the individual's second or subsequent plea of guilty to, or judicial finding of guilt of, a violation of section 2919.123 or 2919.124 of the Revised Code. In addition, the license or certificate to practice or certificate to recommend issued to an individual under this chapter and the individual's practice in this state are automatically suspended as of the date the individual pleads guilty to, is found by a judge or jury to be guilty of, or is subject to a judicial finding of eligibility for intervention in lieu of conviction in this state or treatment or intervention in lieu of conviction in another jurisdiction for any of the following criminal offenses in this state or a substantially equivalent criminal offense in another jurisdiction: aggravated murder, murder, voluntary manslaughter, felonious assault, trafficking in persons, kidnapping, rape, sexual battery, gross sexual imposition, aggravated arson, aggravated robbery, or aggravated burglary. Continued practice after suspension shall be considered practicing without a license or certificate.
+
+The board shall notify the individual subject to the suspension in accordance with sections 119.05 and 119.07 of the Revised Code. If an individual whose license or certificate is automatically suspended under this division fails to make a timely request for an adjudication under Chapter 119. of the Revised Code, the board shall do whichever of the following is applicable:
+
+(1) If the automatic suspension under this division is for a second or subsequent plea of guilty to, or judicial finding of guilt of, a violation of section 2919.123 or 2919.124 of the Revised Code, the board shall enter an order suspending the individual's license or certificate to practice for a period of at least one year or, if determined appropriate by the board, imposing a more serious sanction involving the individual's license or certificate to practice.
+
+(2) In all circumstances in which division (I)(1) of this section does not apply, enter a final order permanently revoking the individual's license or certificate to practice.
+
+(J) If the board is required by Chapter 119. of the Revised Code to give notice of an opportunity for a hearing and if the individual subject to the notice does not timely request a hearing in accordance with section 119.07 of the Revised Code, the board is not required to hold a hearing, but may adopt, by an affirmative vote of not fewer than six of its members, a final order that contains the board's findings. In that final order, the board may order any of the sanctions identified under division (A) or (B) of this section.
+
+(K) Any action taken by the board under division (B) of this section resulting in a suspension from practice shall be accompanied by a written statement of the conditions under which the individual's license or certificate to practice may be reinstated. The board shall adopt rules governing conditions to be imposed for reinstatement. Reinstatement of a license or certificate suspended pursuant to division (B) of this section requires an affirmative vote of not fewer than six members of the board.
+
+(L) When the board refuses to grant or issue a license or certificate to practice to an applicant, revokes an individual's license or certificate to practice, refuses to renew an individual's license or certificate to practice, or refuses to reinstate an individual's license or certificate to practice, the board may specify that its action is permanent. An individual subject to a permanent action taken by the board is forever thereafter ineligible to hold a license or certificate to practice and the board shall not accept an application for reinstatement of the license or certificate or for issuance of a new license or certificate.
+
+(M) Notwithstanding any other provision of the Revised Code, all of the following apply:
+
+(1) The surrender of a license or certificate issued under this chapter shall not be effective unless or until accepted by the board. A telephone conference call may be utilized for acceptance of the surrender of an individual's license or certificate to practice. The telephone conference call shall be considered a special meeting under division (F) of section 121.22 of the Revised Code. Reinstatement of a license or certificate surrendered to the board requires an affirmative vote of not fewer than six members of the board.
+
+(2) An application for a license or certificate made under the provisions of this chapter may not be withdrawn without approval of the board.
+
+(3) Failure by an individual to renew a license or certificate to practice in accordance with this chapter or a certificate to recommend in accordance with rules adopted under section 4731.301 of the Revised Code does not remove or limit the board's jurisdiction to take any disciplinary action under this section against the individual.
+
+(4) The placement of an individual's license on retired status, as described in section 4731.283 of the Revised Code, does not remove or limit the board's jurisdiction to take any disciplinary action against the individual with regard to the license as it existed before being placed on retired status.
+
+(5) At the request of the board, a license or certificate holder shall immediately surrender to the board a license or certificate that the board has suspended, revoked, or permanently revoked.
+
+(N) Sanctions shall not be imposed under division (B)(28) of this section against any person who waives deductibles and copayments as follows:
+
+(1) In compliance with the health benefit plan that expressly allows such a practice. Waiver of the deductibles or copayments shall be made only with the full knowledge and consent of the plan purchaser, payer, and third-party administrator. Documentation of the consent shall be made available to the board upon request.
+
+(2) For professional services rendered to any other person authorized to practice pursuant to this chapter, to the extent allowed by this chapter and rules adopted by the board.
+
+(O) Under the board's investigative duties described in this section and subject to division (F) of this section, the board shall develop and implement a quality intervention program designed to improve through remedial education the clinical and communication skills of individuals authorized under this chapter to practice medicine and surgery, osteopathic medicine and surgery, and podiatric medicine and surgery. In developing and implementing the quality intervention program, the board may do all of the following:
+
+(1) Offer in appropriate cases as determined by the board an educational and assessment program pursuant to an investigation the board conducts under this section;
+
+(2) Select providers of educational and assessment services, including a quality intervention program panel of case reviewers;
+
+(3) Make referrals to educational and assessment service providers and approve individual educational programs recommended by those providers. The board shall monitor the progress of each individual undertaking a recommended individual educational program.
+
+(4) Determine what constitutes successful completion of an individual educational program and require further monitoring of the individual who completed the program or other action that the board determines to be appropriate;
+
+(5) Adopt rules in accordance with Chapter 119. of the Revised Code to further implement the quality intervention program.
+
+An individual who participates in an individual educational program pursuant to this division shall pay the financial obligations arising from that educational program.
+
+(P) The board shall not refuse to issue a license to an applicant because of a conviction, plea of guilty, judicial finding of guilt, judicial finding of eligibility for intervention in lieu of conviction, or the commission of an act that constitutes a criminal offense, unless the refusal is in accordance with section 9.79 of the Revised Code.
+
+(Q) A license or certificate to practice or certificate to recommend issued to an individual under this chapter and an individual's practice under this chapter in this state are automatically suspended if the individual's license or certificate to practice a health care occupation or provide health care services is suspended, revoked, or surrendered or relinquished in lieu of discipline by an agency responsible for authorizing, certifying, or regulating an individual to practice a health care occupation or provide health care services in this state or another jurisdiction. The automatic suspension begins immediately upon entry of the order by the agency and lasts for ninety days to permit the board to investigate the basis for the action under this chapter. Continued practice during the automatic suspension shall be considered practicing without a license or certificate.
+
+The board shall notify the individual subject to the automatic suspension by certified mail or in person in accordance with section 119.07 of the Revised Code. If an individual subject to an automatic suspension under this division fails to make a timely request for an adjudication under Chapter 119. of the Revised Code, the board is not required to hold a hearing, but may adopt, by an affirmative vote of not fewer than six of its members, a final order that contains the board's findings. In that final order, the board may order any of the sanctions identified under division (A) or (B) of this section.
+
+Last updated August 4, 2025 at 11:41 AM

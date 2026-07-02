@@ -1,0 +1,68 @@
+{
+  "glossary": [
+    {
+      "definition": "(1) \"License\" means an educator license issued by the state board of education under section 3319.22 of the Revised Code or a certificate issued by the department of developmental disabilities.",
+      "id": "5126.24-license",
+      "normalized": "license",
+      "scope": "(A) As used in this section:",
+      "section": "5126.24",
+      "source_title": "Section 5126.24 - Salary schedules for teaching and nonteaching employees.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5126.24",
+      "term": "License"
+    },
+    {
+      "definition": "(2) \"Teacher\" means a person employed by a county board of developmental disabilities in a position that requires a license.",
+      "id": "5126.24-teacher",
+      "normalized": "teacher",
+      "scope": "(A) As used in this section:",
+      "section": "5126.24",
+      "source_title": "Section 5126.24 - Salary schedules for teaching and nonteaching employees.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5126.24",
+      "term": "Teacher"
+    },
+    {
+      "definition": "(3) \"Nonteaching employee\" means a person employed by a county board of developmental disabilities in a position that does not require a license.",
+      "id": "5126.24-nonteaching-employee",
+      "normalized": "nonteaching employee",
+      "scope": "(A) As used in this section:",
+      "section": "5126.24",
+      "source_title": "Section 5126.24 - Salary schedules for teaching and nonteaching employees.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5126.24",
+      "term": "Nonteaching employee"
+    },
+    {
+      "definition": "(4) \"Years of service\" includes all service described in division (A) of section 3317.13 of the Revised Code.\n\n(B) Subject to rules established by the director of developmental disabilities pursuant to Chapter 119. of the Revised Code, each county board of developmental disabilities shall annually adopt separate salary schedules for teachers and nonteaching employees.\n\n(C) The teachers' salary schedule shall provide for increments based on training and years of service. The board may establish its own service requirements provided no teacher receives less than the salary the teacher would be paid under section 3317.13 of the Revised Code if the teacher were employed by a school district board of education and provided full credit for a minimum of five years of actual teaching and military experience as defined in division (A) of such section is given to each teacher.\n\nEach teacher who has completed training that would qualify the teacher for a higher salary bracket pursuant to this section shall file by the fifteenth day of September with the fiscal officer of the board, satisfactory evidence of the completion of such additional training. The fiscal officer shall then immediately place the teacher, pursuant to this section, in the proper salary bracket in accordance with training and years of service. No teacher shall be paid less than the salary to which the teacher would be entitled under section 3317.13 of the Revised Code if the teacher were employed by a school district board of education.\n\nThe superintendent of each county board, on or before the fifteenth day of October of each year, shall certify to the state board of education and the department of education and workforce the name of each teacher employed, on an annual salary, in each special education program operated pursuant to section 3323.09 of the Revised Code during the first full school week of October. The superintendent further shall certify, for each teacher, the number of years of training completed at a recognized college, the degrees earned from a college recognized by the department of education and workforce, the type of license held, the number of months employed by the board, the annual salary, and other information that the department may request.\n\n(D) The nonteaching employees' salary schedule established by the board shall be based on training, experience, and qualifications with initial salaries no less than salaries in effect on July 1, 1985. Each board shall prepare and may amend from time to time, specifications descriptive of duties, responsibilities, requirements, and desirable qualifications of the classifications of employees required to perform the duties specified in the salary schedule. All nonteaching employees shall be notified of the position classification to which they are assigned and the salary for the classification. The compensation of all nonteaching employees working for a particular board shall be uniform for like positions except as compensation would be affected by salary increments based upon length of service.\n\nOn the fifteenth day of October of each year the nonteaching employees' salary schedule and list of job classifications and salaries in effect on that date shall be filed by each board with the superintendent of public instruction and the department. If such salary schedule and classification plan is not filed, the director of education and workforce shall order the board to file such schedule and list forthwith. If this condition is not corrected within ten days after receipt of the order from the director, no money shall be distributed to the board under Chapter 3317. of the Revised Code until the director has satisfactory evidence of the board's full compliance with such order.\n\nLast updated September 21, 2023 at 9:06 AM",
+      "id": "5126.24-years-of-service",
+      "normalized": "years of service",
+      "scope": "(A) As used in this section:",
+      "section": "5126.24",
+      "source_title": "Section 5126.24 - Salary schedules for teaching and nonteaching employees.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5126.24",
+      "term": "Years of service"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3319.22",
+      "number": "3319.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3319.22"
+    },
+    {
+      "kind": "section",
+      "label": "3317.13",
+      "number": "3317.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3317.13"
+    },
+    {
+      "kind": "section",
+      "label": "3323.09",
+      "number": "3323.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3323.09"
+    }
+  ],
+  "scraped": "2026-07-02T20:10:58+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5126.24",
+  "title": "Section 5126.24 - Salary schedules for teaching and nonteaching employees."
+}

@@ -1,0 +1,150 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-5709.45
+Scraped: 2026-07-02T20:14:27+00:00
+
+# Section 5709.45 - Downtown redevelopment districts.
+
+**Effective:** April 6, 2023
+
+**Latest Legislation:** House Bill 281 - 134th General Assembly
+
+(A) As used in sections 5709.45 to 5709.47 of the Revised Code:
+
+(1) "Downtown redevelopment district" or "district" means an area not more than ten acres enclosed by a continuous boundary in which at least one historic building is being, or will be, rehabilitated.
+
+(2) "Historic building" and "rehabilitation" have the same meanings as in section 149.311 of the Revised Code.
+
+(3) "Public infrastructure improvement" has the same meaning as in section 5709.40 of the Revised Code.
+
+(4) "Improvement" means the increase in the assessed value of real property that would first appear on the tax list after the effective date of an ordinance adopted under this section were it not for the exemption granted by the ordinance.
+
+(5) "Innovation district" means an area located entirely within a downtown redevelopment district, enclosed by a continuous boundary, and equipped with a high-speed broadband network capable of download speeds of at least one hundred gigabits per second.
+
+(6) "Qualified business" means a business primarily engaged, or primarily organized to engage, in a trade or business that involves research and development, technology transfer, bio-technology, information technology, or the application of new technology developed through research and development or acquired through technology transfer.
+
+(7) "Information technology" means the branch of technology devoted to the study and application of data and the processing thereof; the automatic acquisition, storage, manipulation or transformation, management, movement, control, display, switching, interchange, transmission or reception of data, and the development or use of hardware, software, firmware, and procedures associated with this processing. "Information technology" includes matters concerned with the furtherance of computer science and technology, design, development, installation, and implementation of information systems and applications that in turn will be licensed or sold to a specific target market. "Information technology" does not include the creation of a distribution method for existing products and services.
+
+(8) "Research and development" means designing, creating, or formulating new or enhanced products, equipment, or processes, and conducting scientific or technological inquiry and experimentation in the physical sciences with the goal of increasing scientific knowledge that may reveal the bases for new or enhanced products, equipment, or processes.
+
+(9) "Technology transfer" means the transfer of technology from one sector of the economy to another, including the transfer of military technology to civilian applications, civilian technology to military applications, or technology from public or private research laboratories to military or civilian applications.
+
+(B) For the purposes of promoting rehabilitation of historic buildings, creating jobs, and encouraging economic development in commercial and mixed-use commercial and residential areas, and for the purpose of funding transportation improvements that will benefit such areas, the legislative authority of a municipal corporation may adopt an ordinance creating a downtown redevelopment district and declaring improvements to parcels within the district to be a public purpose and exempt from taxation. Downtown redevelopment districts shall not be created in areas used exclusively for residential purposes and shall not be utilized for development or redevelopment of residential areas.
+
+The ordinance shall specify all of the following:
+
+(1) The boundary of the district;
+
+(2) The county treasurer's permanent parcel number associated with each parcel included in the district;
+
+(3) The parcel or parcels within the district that include a historic building that is being or will be rehabilitated;
+
+(4) The proposed life of the district;
+
+(5) An economic development plan for the district that includes all of the following:
+
+(a) A statement describing the principal purposes and goals to be served by creating the district;
+
+(b) An explanation of how the municipal corporation will collaborate with businesses and property owners within the district to develop strategies for achieving such purposes and goals;
+
+(c) A plan for using the service payments provided for in section 5709.46 of the Revised Code to promote economic development and job creation within the district.
+
+Not more than seventy per cent of improvements to parcels within a downtown redevelopment district may be exempted from taxation under this section. A district may not include a parcel that is exempted from taxation under this section or section 5709.40 or 5709.41 of the Revised Code on the effective date of the ordinance. Except as provided in division (F) of this section, the life of a downtown redevelopment district shall not exceed ten years.
+
+A municipal corporation may adopt more than one ordinance under division (B) of this section. A single such ordinance may create more than one downtown redevelopment district.
+
+(C) For the purposes of attracting and facilitating growth of qualified businesses and supporting the economic development efforts of business incubators and accelerators, the legislative authority of a municipal corporation may designate an innovation district within a proposed or existing downtown redevelopment district. The life of the innovation district shall be identical to the downtown redevelopment district in which the innovation district is located. In addition to the requirements in division (B) of this section, an ordinance creating a downtown redevelopment district that includes an innovation district shall specify all of the following:
+
+(1) The boundary of the innovation district;
+
+(2) The permanent parcel number associated with each parcel included in the innovation district;
+
+(3) An economic development plan for the innovation district that meets the criteria prescribed by division (B)(5) of this section.
+
+(D) At least thirty days before adopting an ordinance under division (B) of this section, the legislative authority of the municipal corporation shall conduct a public hearing on the proposed ordinance and the accompanying economic development plan. At least thirty days before the public hearing, the legislative authority shall give notice of the public hearing and the proposed ordinance by first class mail to every real property owner whose property is located within the boundaries of the proposed district that is the subject of the proposed ordinance.
+
+(E) Revenue derived from downtown redevelopment district service payments may be used by the municipal corporation for any of the following purposes:
+
+(1) To finance or support loans, deferred loans, or grants to owners of historic buildings within the downtown redevelopment district. Such loans or grants shall be awarded upon the condition that the loan or grant amount may be used by the owner only to rehabilitate the historic building. A municipal corporation that awards a loan or grant under this division shall develop a plan for tracking the loan or grant recipient's use of the loan or grant and monitoring the progress of the recipient's rehabilitation project.
+
+(2) To make contributions to a special improvement district for use under section 1710.14 of the Revised Code, to a community improvement corporation for use under section 1724.12 of the Revised Code, or to a nonprofit corporation, as defined in section 1702.01 of the Revised Code, the primary purpose of which is redeveloping historic buildings and historic districts for use by the corporation to rehabilitate a historic building within the downtown redevelopment district or to otherwise promote or enhance the district. Amounts contributed under division (E)(2) of this section shall not exceed the property tax revenue that would have been generated by twenty per cent of the assessed value of the exempted improvements within the downtown redevelopment district.
+
+(3) To finance or support loans to owners of one or more buildings located within the district that do not qualify as historic buildings. Such loans shall be awarded upon the condition that the loan amount may be used by the owner only to make repairs and improvements to the building or buildings. A municipal corporation that awards a loan under this division shall develop a plan for tracking the loan recipient's use of the loan and monitoring the progress of the recipient's repairs or improvements.
+
+(4) To finance public infrastructure improvements within the downtown redevelopment district. If revenue generated by the downtown redevelopment district will be used to finance public infrastructure improvements, the economic development plan described by division (B)(5) of this section shall identify specific projects that are being or will be undertaken within the district and describe how such infrastructure improvements will accommodate additional demands on the existing infrastructure within the district. A municipal corporation shall not use service payments derived from a downtown redevelopment district to repair or replace police or fire equipment.
+
+(5) To finance or support loans, deferred loans, or grants to qualified businesses or to incubators and accelerators that provide services and capital to qualified businesses within an innovation district. Such loans or grants shall be awarded upon the condition that the loan or grant shall be used by the recipient to start or develop one or more qualified businesses within the innovation district. A municipal corporation that awards a loan or grant under this division shall develop a plan for tracking the loan or grant recipient's use of the loan or grant and monitoring the establishment and growth of the qualified business.
+
+(F) Notwithstanding division (B) of this section, improvements to parcels located within a downtown redevelopment district may be exempted from taxation under this section for up to thirty years if either of the following apply:
+
+(1) The ordinance creating the redevelopment district specifies that payments in lieu of taxes shall be paid to the city, local, or exempted village, and joint vocational school district or districts in which the redevelopment district is located in the amount of the taxes that would have been payable to the school district or districts if the improvements had not been exempted from taxation.
+
+(2) The municipal corporation creating the district obtains the approval under division (G) of this section of the board of education of each city, local, and exempted village school district within which the district will be located.
+
+(G)(1) The legislative authority of a municipal corporation seeking the approval of a school district for the purpose of division (G)(2) of this section shall send notice of the proposed ordinance to the school district not later than forty-five business days before it intends to adopt the ordinance. The notice shall include a copy of the proposed ordinance and shall indicate the date on which the legislative authority intends to adopt the ordinance. The board of education of the school district, by resolution adopted by a majority of the board, may do any of the following:
+
+(a) Approve the exemption for the number of years specified in the proposed ordinance;
+
+(b) Disapprove the exemption for the number of years in excess of ten;
+
+(c) Approve the exemption on the condition that the legislative authority and the board negotiate an agreement providing for compensation to the school district equal in value to a percentage of the amount of taxes exempted in the eleventh and subsequent years of the exemption period or other mutually agreeable compensation. If an agreement is negotiated under this division, the legislative authority shall compensate all joint vocational school districts within which the downtown redevelopment district is located at the same rate and under the same terms received by the city, local, or exempted village school district.
+
+(2) The board of education shall certify a resolution adopted under division (G)(1) of this section to the legislative authority of the municipal corporation not later than fourteen days before the date the legislative authority intends to adopt the ordinance as indicated in the notice. If the board of education approves the ordinance or negotiates a mutually acceptable compensation agreement with the legislative authority, the legislative authority may enact the ordinance in its current form. If the board disapproves of the ordinance and fails to negotiate a mutually acceptable compensation agreement with the legislative authority, the legislative authority may exempt improvements to parcels within the downtown redevelopment district for not more than ten years. If the board fails to certify a resolution to the legislative authority within the time prescribed by this division, the legislative authority may adopt the ordinance and may exempt improvements to parcels within the downtown redevelopment district for the period of time specified in the notice delivered to the board of education. The legislative authority may adopt the ordinance at any time after the board of education certifies its resolution approving the exemption to the legislative authority or, if the board approves the exemption on the condition that a mutually acceptable compensation agreement be negotiated, at any time after the compensation agreement is agreed to by the board and the legislative authority.
+
+(3) If a board of education has adopted a resolution waiving its right to approve exemptions from taxation under this section and the resolution remains in effect, approval of exemptions by the board is not required under division (G) of this section. If a board of education has adopted a resolution allowing a legislative authority to deliver the notice required under division (G)(1) of this section fewer than forty-five business days before the legislative authority's adoption of the ordinance, the legislative authority shall deliver the notice to the board not later than the number of days before such adoption as prescribed by the board in its resolution. If a board of education adopts a resolution waiving its right to approve agreements or shortening the notification period, the board shall certify a copy of the resolution to the legislative authority. If the board of education rescinds such a resolution, it shall certify notice of the rescission to the legislative authority.
+
+(4) If the legislative authority is not required by division (G) of this section to notify the board of education of the legislative authority's intent to create a downtown redevelopment district, the legislative authority shall comply with the notice requirements imposed under section 5709.83 of the Revised Code, unless the board has adopted a resolution under that section waiving its right to receive such a notice.
+
+(H) Service payments in lieu of taxes that are attributable to any amount by which the effective tax rate of either a renewal levy with an increase or a replacement levy exceeds the effective tax rate of the levy renewed or replaced, or that are attributable to an additional levy, for a levy authorized by the voters for any of the following purposes on or after January 1, 2006, and which are provided pursuant to an ordinance creating a downtown redevelopment district under division (B) of this section shall be distributed to the appropriate taxing authority as required under division (C) of section 5709.46 of the Revised Code in an amount equal to the amount of taxes from that additional levy or from the increase in the effective tax rate of such renewal or replacement levy that would have been payable to that taxing authority from the following levies were it not for the exemption authorized under division (B) of this section:
+
+(1) A tax levied under division (L) of section 5705.19 or section 5705.191 of the Revised Code for community developmental disabilities programs and services pursuant to Chapter 5126. of the Revised Code;
+
+(2) A tax levied under division (Y) of section 5705.19 of the Revised Code for providing or maintaining senior citizens services or facilities;
+
+(3) A tax levied under section 5705.22 of the Revised Code for county hospitals;
+
+(4) A tax levied by a joint-county district or by a county under section 5705.19 , 5705.191 , or 5705.221 of the Revised Code for alcohol, drug addiction, and mental health services or facilities;
+
+(5) A tax levied under section 5705.23 of the Revised Code for library purposes;
+
+(6) A tax levied under section 5705.24 of the Revised Code for the support of children services and the placement and care of children;
+
+(7) A tax levied under division (Z) of section 5705.19 of the Revised Code for the provision and maintenance of zoological park services and facilities under section 307.76 of the Revised Code;
+
+(8) A tax levied under section 511.27 or division (H) of section 5705.19 of the Revised Code for the support of township park districts;
+
+(9) A tax levied under division (A), (F), or (H) of section 5705.19 of the Revised Code for parks and recreational purposes of a joint recreation district organized pursuant to division (B) of section 755.14 of the Revised Code;
+
+(10) A tax levied under section 1545.20 or 1545.21 of the Revised Code for park district purposes;
+
+(11) A tax levied under section 5705.191 of the Revised Code for the purpose of making appropriations for public assistance; human or social services; public relief; public welfare; public health and hospitalization; and support of general hospitals;
+
+(12) A tax levied under section 3709.29 of the Revised Code for a general health district program.
+
+(I) An exemption from taxation granted under this section commences with the tax year specified in the ordinance so long as the year specified in the ordinance commences after the effective date of the ordinance. If the ordinance specifies a year commencing before the effective date of the ordinance or specifies no year whatsoever, the exemption commences with the tax year in which an exempted improvement first appears on the tax list and that commences after the effective date of the ordinance. In lieu of stating a specific year, the ordinance may provide that the exemption commences in the tax year in which the value of an improvement exceeds a specified amount or in which the construction of one or more improvements is completed, provided that such tax year commences after the effective date of the ordinance.
+
+Except as otherwise provided in this division, the exemption ends on the date specified in the ordinance as the date the improvement ceases to be a public purpose or the downtown redevelopment district expires, whichever occurs first. The exemption of an improvement within a downtown redevelopment district may end on a later date, as specified in the ordinance, if the legislative authority and the board of education of the city, local, or exempted village school district within which the parcel or district is located have entered into a compensation agreement under section 5709.82 of the Revised Code with respect to the improvement, and the board of education has approved the term of the exemption under division (G) of this section, but in no case shall the improvement be exempted from taxation for more than thirty years. Exemptions shall be claimed and allowed in the same manner as in the case of other real property exemptions. If an exemption status changes during a year, the procedure for the apportionment of the taxes for that year is the same as in the case of other changes in tax exemption status during the year.
+
+(J) Additional municipal financing of the projects and services described in division (E) of this section may be provided by any methods that the municipal corporation may otherwise use for financing such projects and services. If the municipal corporation issues bonds or notes to finance such projects and services and pledges money from the municipal downtown redevelopment district fund to pay the interest on and principal of the bonds or notes, the bonds or notes are not subject to Chapter 133. of the Revised Code.
+
+(K) The municipal corporation, not later than fifteen days after the adoption of an ordinance under this section, shall submit to the director of development services a copy of the ordinance. On or before the thirty-first day of March of each year, the municipal corporation shall submit a status report to the director of development services. The report shall indicate, in the manner prescribed by the director, the progress of the projects and services during each year that an exemption remains in effect, including a summary of the receipts from service payments in lieu of taxes; expenditures of money from the funds created under section 5709.47 of the Revised Code; a description of the projects and services financed with such expenditures; and a quantitative summary of changes in employment and private investment resulting from each project and service.
+
+(L) Nothing in this section shall be construed to prohibit a legislative authority from declaring to be a public purpose improvements with respect to more than one parcel.
+
+(M)(1) The owner of real property located in a downtown redevelopment district may enter into an agreement with the municipal corporation that created the district to impose a redevelopment charge on the property to cover all or part of the cost of services, facilities, and improvements provided within the district under division (E) of this section. The agreement shall include the following:
+
+(a) The amount of the redevelopment charge. The redevelopment charge may be a fixed dollar amount or an amount determined on the basis of the assessed valuation of the property or all or part of the profits, gross receipts, or other revenues of a business operating on the property, including rentals received from leases of the property. If the property is leased to one or more tenants, the redevelopment charge may be itemized as part of the lease rate.
+
+(b) The termination date of the redevelopment charge. The redevelopment charge shall not be charged after the expiration or termination of the downtown redevelopment district.
+
+(c) The terms by which the municipal corporation shall collect the redevelopment charge.
+
+(d) The purposes for which the redevelopment charge may be used by the municipal corporation. The redevelopment charge shall be used only for those purposes described by division (E) of this section. The agreement may specify any or all of such purposes.
+
+(2) Redevelopment charges collected by a municipal corporation under division (M) of this section shall be deposited to the municipal downtown redevelopment district fund created under section 5709.47 of the Revised Code.
+
+(3) An agreement by a property owner under division (M) of this section is hereby deemed to be a covenant running with the land. The covenant is fully binding on behalf of and enforceable by the municipal corporation against any person acquiring an interest in the land and all of that person's successors and assigns.
+
+(4) No purchase agreement for real estate or any interest in real estate upon which a redevelopment charge is levied shall be enforceable by the seller or binding upon the purchaser unless the purchase agreement specifically refers to the redevelopment charge. If a conveyance of such real estate or interest in such real estate is made pursuant to a purchase agreement that does not make such reference, the redevelopment charge shall continue to be a covenant running with the land fully binding on behalf of and enforceable by the municipal corporation against the person accepting the conveyance pursuant to the purchase agreement.
+
+(5) If a redevelopment charge is not paid when due, the overdue amount shall be collected according to the terms of the agreement. If the agreement does not specify a procedure for collecting overdue redevelopment charges, the municipal corporation may certify the charge to the county auditor. The county auditor shall enter the unpaid charge on the tax list and duplicate of real property opposite the parcel against which it is charged and certify the charge to the county treasurer. The unpaid redevelopment charge is a lien on property against which it is charged from the date the charge is entered on the tax list, and shall be collected in the manner provided for the collection of real property taxes. Once the charge is collected, it shall be paid immediately to the municipal corporation.
+
+Last updated October 21, 2025 at 2:08 PM

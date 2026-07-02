@@ -1,0 +1,765 @@
+{
+  "glossary": [],
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 4729.01 - Pharmacists, dangerous drugs definitions.",
+      "number": "4729.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.02 - State board of pharmacy.",
+      "number": "4729.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.021 - Licensing and registration of home medical assistance services providers.",
+      "number": "4729.021",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.021"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.03 - Organization.",
+      "number": "4729.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.04 - Executive director of board - duties.",
+      "number": "4729.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.041 - Amount of salvia divinorum or salvinorin A required for impaired operation.",
+      "number": "4729.041",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.041"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.05 - Meetings of board.",
+      "number": "4729.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.06 - Records - seals.",
+      "number": "4729.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.07 - License application - examination.",
+      "number": "4729.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.071 - License applicant to comply with RC Chapter 4776.",
+      "number": "4729.071",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.071"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.08 - License qualifications.",
+      "number": "4729.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.09 - Reciprocity.",
+      "number": "4729.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.10 - Rules.",
+      "number": "4729.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.11 - Establishing pharmacy internship program.",
+      "number": "4729.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.12 - Licenses; renewal.",
+      "number": "4729.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.13 - Failure to renew license.",
+      "number": "4729.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.15 - State board of pharmacy - fees.",
+      "number": "4729.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.16 - Disciplinary actions.",
+      "number": "4729.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.161 - Offering services through authorized business entity.",
+      "number": "4729.161",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.161"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.162 - Adoption of rules regarding review of patient information available through drug database.",
+      "number": "4729.162",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.162"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.17 - Single member may hold hearing.",
+      "number": "4729.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.171 - Designation of hearing examiners.",
+      "number": "4729.171",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.171"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.18 - Standards for approving and designating physicians and facilities as treatment providers for pharmacists with substance abuse problems.",
+      "number": "4729.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.19 - Cooperation in investigation.",
+      "number": "4729.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.20 - Dispensing for purposes of medication synchronization.",
+      "number": "4729.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.23 - Confidential information; investigations and inspections.",
+      "number": "4729.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.24 - Authority of board to take depositions, issue subpoenas, etc.",
+      "number": "4729.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.25 - Enforcement.",
+      "number": "4729.25",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.25"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.26 - Administrative rules.",
+      "number": "4729.26",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.26"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.261 - Rules for approving instruments to reduce drug poisoning.",
+      "number": "4729.261",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.261"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.27 - Pharmacist must be in full and actual charge of pharmacy.",
+      "number": "4729.27",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.27"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.28 - Unauthorized practice.",
+      "number": "4729.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.281 - Conditions for refill of prescription.",
+      "number": "4729.281",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.281"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.282 - Dispensing of drugs pursuant to prescriptions made without examination and EPT prescriptions.",
+      "number": "4729.282",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.282"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.283 - Dispensing naltrexone without prescription.",
+      "number": "4729.283",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.283"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.284 - Pharmacist dispensing nicotine replacement therapy.",
+      "number": "4729.284",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.284"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.285 - Telehealth services.",
+      "number": "4729.285",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.285"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.29 - Exemptions.",
+      "number": "4729.29",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.29"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.291 - Drugs personally furnished by prescriber.",
+      "number": "4729.291",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.291"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.292 - On-site inspection of opioid treatment programs.",
+      "number": "4729.292",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.292"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.30 - Sale of Paris green.",
+      "number": "4729.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.31 - Exceptions.",
+      "number": "4729.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.32 - Requirements for sale of denatured or wood alcohol in five gallon lots or more.",
+      "number": "4729.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.33 - Requirements for sale of denatured or wood alcohol in less than five gallon lots.",
+      "number": "4729.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.33"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.34 - Advertising.",
+      "number": "4729.34",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.34"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.35 - Violations deemed public nuisance.",
+      "number": "4729.35",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.35"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.36 - Advertisements.",
+      "number": "4729.36",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.36"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.361 - Disclosing price information.",
+      "number": "4729.361",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.361"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.37 - Filling prescriptions - records.",
+      "number": "4729.37",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.37"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.38 - Selecting generically equivalent drugs or interchangeable biological products.",
+      "number": "4729.38",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.38"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.381 - Licensed pharmacist - immunity.",
+      "number": "4729.381",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.381"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.382 - Pharmacist's authority to dispense an epinephrine autoinjector by substitution.",
+      "number": "4729.382",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.382"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.39 - Consult agreement with physicians.",
+      "number": "4729.39",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.39"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.391 - Adding drug delivery devices to a prescription.",
+      "number": "4729.391",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.391"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.40 - Authority for pharmacists to convert prescriptions authorizing refills under certain circumstances.",
+      "number": "4729.40",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.40"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.41 - Authority to administer immunizations.",
+      "number": "4729.41",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.41"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.42 - Authority to order, administer COVID-19 diagnostic tests.",
+      "number": "4729.42",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.42"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.43 - Delivery of certain non-self-injectable cancer drugs prohibited.",
+      "number": "4729.43",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.43"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.45 - Administration of injections.",
+      "number": "4729.45",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.45"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.46 - Prescriptions for opioid analgesics to be used on an outpatient basis.",
+      "number": "4729.46",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.46"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.47 - Authority to dispense epinephrine without a prescription.",
+      "number": "4729.47",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.47"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.48 - Cost-sharing amount in excess of charge; notice to patient.",
+      "number": "4729.48",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.48"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.49 - Terminal distributor contracts with 340B program participants.",
+      "number": "4729.49",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.49"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.50 - Contracts with private entities to process applications.",
+      "number": "4729.50",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.50"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.51 - Selling, purchasing, distributing, or delivering dangerous or investigational drugs.",
+      "number": "4729.51",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.51"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.511 - Overdose reversal drug distributor; priorities.",
+      "number": "4729.511",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.511"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.513 - Donation of inhalers and epinephrine autoinjectors.",
+      "number": "4729.513",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.513"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.52 - Licenses for wholesale distributors and manufacturers of dangerous drugs, outsourcing facilities, third-party logistics providers, and repackagers; application; issuance; renewal; fees.",
+      "number": "4729.52",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.52"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.53 - Registration requirements.",
+      "number": "4729.53",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.53"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.531 - Limited license to animal shelters for use of drugs for euthanizing animals.",
+      "number": "4729.531",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.531"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.532 - Performing euthanasia by means of lethal injection on animal.",
+      "number": "4729.532",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.532"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.533 - Chemical capture classification to limited license.",
+      "number": "4729.533",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.533"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.534 - Chemical capture - certified officers; curricula; immunity.",
+      "number": "4729.534",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.534"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.535 - Chemical capture - prohibitions.",
+      "number": "4729.535",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.535"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.54 - Terminal distributor licenses.",
+      "number": "4729.54",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.54"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.541 - Exemption from licensure as terminal distributor of dangerous drugs.",
+      "number": "4729.541",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.541"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.542 - Chemical capture classification - possession and use of dangerous drugs.",
+      "number": "4729.542",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.542"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.55 - Terminal distributor license requirements.",
+      "number": "4729.55",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.55"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.552 - License as a category III terminal distributor of dangerous drugs with a pain management clinic classification.",
+      "number": "4729.552",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.552"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.554 - Remote dispensing pharmacies.",
+      "number": "4729.554",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.554"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.56 - Disciplinary actions.",
+      "number": "4729.56",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.56"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.561 - Suspension of license without hearing.",
+      "number": "4729.561",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.561"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.57 - Disciplinary actions - terminal distributor.",
+      "number": "4729.57",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.57"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.571 - Suspension of terminal distributor's license without hearing.",
+      "number": "4729.571",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.571"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.58 - Renewals.",
+      "number": "4729.58",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.58"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.59 - Maintenance of register and roster of licensees.",
+      "number": "4729.59",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.59"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.60 - Verification of license prior to transactions.",
+      "number": "4729.60",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.60"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.61 - False or fraudulent licenses.",
+      "number": "4729.61",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.61"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.62 - Surrendering license.",
+      "number": "4729.62",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.62"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.64 - Injunctions.",
+      "number": "4729.64",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.64"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.65 - Depositing receipts.",
+      "number": "4729.65",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.65"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.67 - Effect of child support default on license or certificate.",
+      "number": "4729.67",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.67"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.68 - Completion of diabetes education program.",
+      "number": "4729.68",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.68"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.69 - Establishment and administration of drug take-back program.",
+      "number": "4729.69",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.69"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.691 - Information regarding drug take-back programs.",
+      "number": "4729.691",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.691"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.70 - Establishing and implementing medical gases safety program.",
+      "number": "4729.70",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.70"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.75 - Drug database may be established by board of pharmacy.",
+      "number": "4729.75",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.75"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.76 - Duties of administrator of drug database.",
+      "number": "4729.76",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.76"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.77 - Drug database information to be supplied by terminal distributors.",
+      "number": "4729.77",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.77"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.771 - Medical marijuana dispensaries.",
+      "number": "4729.771",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.771"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.772 - Information for drug database from other sources.",
+      "number": "4729.772",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.772"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.78 - Drug database information reporting.",
+      "number": "4729.78",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.78"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.79 - Information to be provided by licensees who personally furnish drugs to patients.",
+      "number": "4729.79",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.79"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.80 - Information provided from drug database - record of requests - confidentiality.",
+      "number": "4729.80",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.80"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.81 - Board review of drug database for violations of law.",
+      "number": "4729.81",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.81"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.82 - Retention and purging of drug database information.",
+      "number": "4729.82",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.82"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.83 - No charges to be imposed to establish or maintain drug database; acceptance of grants, gifts, or donations.",
+      "number": "4729.83",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.83"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.84 - Board to adopt drug database rules.",
+      "number": "4729.84",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.84"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.85 - Drug database reports.",
+      "number": "4729.85",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.85"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.86 - Applicable additional provisions regarding drug database.",
+      "number": "4729.86",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.86"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.861 - Restriction of database use; notification of licensor.",
+      "number": "4729.861",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.861"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.87 - Compliance with law regarding sanctions for human trafficking.",
+      "number": "4729.87",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.87"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.88 - Epinephrine autoinjectors.",
+      "number": "4729.88",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.88"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.89 - Investigational drugs.",
+      "number": "4729.89",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.89"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.90 - Applicants for registration as registered pharmacy technician.",
+      "number": "4729.90",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.90"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.901 - Form of application.",
+      "number": "4729.901",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.901"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.902 - Registration renewal.",
+      "number": "4729.902",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.902"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.91 - Permissible activities for registered pharmacy technician.",
+      "number": "4729.91",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.91"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.92 - Applicant for registration as a pharmacy technician trainee.",
+      "number": "4729.92",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.92"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.921 - Registration as a pharmacy technician trainee.",
+      "number": "4729.921",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.921"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.93 - Permissible activities for trainee.",
+      "number": "4729.93",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.93"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.94 - Rules.",
+      "number": "4729.94",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.94"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.95 - Violations.",
+      "number": "4729.95",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.95"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.96 - Sanctions.",
+      "number": "4729.96",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.96"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.99 - Penalty.",
+      "number": "4729.99",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.99"
+    },
+    {
+      "kind": "section",
+      "label": "Section 4729.991 - Penalties - chemical capture violations.",
+      "number": "4729.991",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4729.991"
+    }
+  ],
+  "scraped": "2026-07-02T20:06:59+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-4729",
+  "title": "Chapter 4729 - Pharmacists; Dangerous Drugs"
+}

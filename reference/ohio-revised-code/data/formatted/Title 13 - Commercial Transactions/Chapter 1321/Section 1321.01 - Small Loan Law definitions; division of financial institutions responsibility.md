@@ -1,0 +1,38 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-1321.01
+Scraped: 2026-07-02T19:37:15+00:00
+
+# Section 1321.01 - Small Loan Law definitions; division of financial institutions responsibility.
+
+**Effective:** September 26, 1996
+
+**Latest Legislation:** Senate Bill 293 - 121st General Assembly
+
+(A) As used in sections 1321.01 to 1321.19 of the Revised Code:
+
+(1) "Person" includes individuals, partnerships, associations, trusts, corporations, and all other legal entities.
+
+(2) "License" means a license issued under sections 1321.01 to 1321.19 of the Revised Code to make loans at a single place of business.
+
+(3) "Licensee" means a person to whom one or more licenses have been issued.
+
+(4) "Principal amount" means the amount of cash paid to, or paid or payable for the account of, the borrower.
+
+(5) "Interest" means all charges payable directly or indirectly by a borrower to a licensee as a condition to a loan or an application for a loan, however denominated, but does not include default charges, deferment charges, insurance charges or premiums, court costs, loan origination charges, check collection charges, credit line charges, credit report charges, or other fees and charges specifically authorized by law.
+
+(6) "Interest-bearing loan" means a loan in which the debt is expressed as the principal amount and interest is computed, charged, and collected on unpaid principal balances outstanding from time to time.
+
+(7) "Precomputed loan" means a loan in which the debt is a sum comprising the principal amount and the amount of interest computed in advance on the assumption that all scheduled payments will be made when due.
+
+(8) "Actuarial method" means the method of allocating payments made on a loan between the principal amount and interest whereby a payment is applied first to the accumulated interest and the remainder to the unpaid principal amount.
+
+(9) "Applicable charge" means the amount of interest attributable to each monthly installment period of the loan contract. The applicable charge is computed as if each installment period were one month and any charge for extending the first installment period beyond one month is ignored. In the case of loans originally scheduled to be repaid in sixty-one months or less, the applicable charge for any installment period is that proportion of the total interest contracted for, as the balance scheduled to be outstanding during that period bears to the sum of all of the periodic balances, all determined according to the payment schedule originally contracted for. In all other cases, the applicable charge for any installment period is that which would have been made for such period had the loan been made on an interest-bearing basis at the single rate provided in division (A) of section 1321.13 of the Revised Code, based upon the assumption that all payments were made according to schedule.
+
+(10) "Annual percentage rate" means the ratio of the interest on a loan to the unpaid principal balances on the loan for any period of time, expressed on an annual basis.
+
+(11) "Refinancing" means a loan the proceeds of which are used in whole or in part to pay the unpaid balance of a prior loan made by the same licensee to the same borrower under sections 1321.01 to 1321.19 of the Revised Code.
+
+(12) "Superintendent of financial institutions" includes the deputy superintendent for consumer finance as provided in section 1181.21 of the Revised Code.
+
+(B) The division of financial institutions is responsible for the administration of sections 1321.01 to 1321.19 of the Revised Code. Neither the superintendent of the division, nor any deputy, assistant, clerk, examiner, or other person employed by the division to assist in the administration of such sections shall be interested, directly or indirectly, in the business licensed under the sections and any person so interested or who becomes so interested shall not be eligible to hold or retain any such position.
+
+Last updated November 3, 2021 at 5:34 PM

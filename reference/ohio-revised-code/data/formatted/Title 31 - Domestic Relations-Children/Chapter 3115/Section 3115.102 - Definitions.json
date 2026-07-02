@@ -1,0 +1,318 @@
+{
+  "glossary": [
+    {
+      "definition": "(A) \"Child\" means an individual, whether over or under the age of majority, who is or is alleged to be owed a duty of support by the individual's parent or who is or is alleged to be the beneficiary of a support order directed to the parent.",
+      "id": "3115.102-child",
+      "normalized": "child",
+      "scope": "As used in this chapter:",
+      "section": "3115.102",
+      "source_title": "Section 3115.102 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3115.102",
+      "term": "Child"
+    },
+    {
+      "definition": "(B) \"Child-support order\" means a support order for a child, including a child who has attained the age of majority under the law of the issuing state or foreign country.",
+      "id": "3115.102-child-support-order",
+      "normalized": "child-support order",
+      "scope": "As used in this chapter:",
+      "section": "3115.102",
+      "source_title": "Section 3115.102 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3115.102",
+      "term": "Child-support order"
+    },
+    {
+      "definition": "(C) \"Convention\" means the convention on the international recovery of child support and other forms of family maintenance, concluded at The Hague on November 23, 2007.",
+      "id": "3115.102-convention",
+      "normalized": "convention",
+      "scope": "As used in this chapter:",
+      "section": "3115.102",
+      "source_title": "Section 3115.102 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3115.102",
+      "term": "Convention"
+    },
+    {
+      "definition": "(D) \"Duty of support\" means an obligation imposed or imposable by law to provide support for a child, spouse, or former spouse, including an unsatisfied obligation to provide support.",
+      "id": "3115.102-duty-of-support",
+      "normalized": "duty of support",
+      "scope": "As used in this chapter:",
+      "section": "3115.102",
+      "source_title": "Section 3115.102 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3115.102",
+      "term": "Duty of support"
+    },
+    {
+      "definition": "(E) \"Foreign country\" means a country, including a political subdivision of the country, other than the United States, that authorizes the issuance of support orders to which at least one of the following applies:\n\n(1) It has been declared under the law of the United States to be a foreign reciprocating country;\n\n(2) It has established a reciprocal arrangement for child support with this state as provided in section 3115.308 of the Revised Code;\n\n(3) It has enacted a law or established procedures for the issuance and enforcement of support orders that are substantially similar to the procedures under this chapter;\n\n(4) It is a country in which the convention is in force with respect to the United States.",
+      "id": "3115.102-foreign-country",
+      "normalized": "foreign country",
+      "scope": "As used in this chapter:",
+      "section": "3115.102",
+      "source_title": "Section 3115.102 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3115.102",
+      "term": "Foreign country"
+    },
+    {
+      "definition": "(F) \"Foreign support order\" means a support order of a foreign tribunal.",
+      "id": "3115.102-foreign-support-order",
+      "normalized": "foreign support order",
+      "scope": "As used in this chapter:",
+      "section": "3115.102",
+      "source_title": "Section 3115.102 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3115.102",
+      "term": "Foreign support order"
+    },
+    {
+      "definition": "(G) \"Foreign tribunal\" means a court, administrative agency, or quasi-judicial entity of a foreign country that is authorized to establish, enforce, or modify support orders or to determine parentage of a child. \"Foreign tribunal\" includes a competent authority under the convention.",
+      "id": "3115.102-foreign-tribunal",
+      "normalized": "foreign tribunal",
+      "scope": "As used in this chapter:",
+      "section": "3115.102",
+      "source_title": "Section 3115.102 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3115.102",
+      "term": "Foreign tribunal"
+    },
+    {
+      "definition": "(H) \"Home state\" means the state or foreign country in which a child lived with a parent or a person acting as parent for at least six consecutive months immediately preceding the time of filing of a petition or comparable pleading for support and, if a child is less than six months old, the state or foreign country in which the child lived from birth with any of them. A period of temporary absence of any of them is counted as part of the six-month or other period.",
+      "id": "3115.102-home-state",
+      "normalized": "home state",
+      "scope": "As used in this chapter:",
+      "section": "3115.102",
+      "source_title": "Section 3115.102 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3115.102",
+      "term": "Home state"
+    },
+    {
+      "definition": "(I) \"Income\" includes earnings or other periodic entitlements to money from any source and any other property subject to withholding for support under the law of this state.",
+      "id": "3115.102-income",
+      "normalized": "income",
+      "scope": "As used in this chapter:",
+      "section": "3115.102",
+      "source_title": "Section 3115.102 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3115.102",
+      "term": "Income"
+    },
+    {
+      "definition": "(J) \"Income-withholding order\" means an order or other legal process directed to an obligor's employer or other payor, in accordance with Chapter 3121. of the Revised Code, to withhold support from the income of the obligor.",
+      "id": "3115.102-income-withholding-order",
+      "normalized": "income-withholding order",
+      "scope": "As used in this chapter:",
+      "section": "3115.102",
+      "source_title": "Section 3115.102 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3115.102",
+      "term": "Income-withholding order"
+    },
+    {
+      "definition": "(K) \"Initiating tribunal\" means the tribunal of a state or foreign country from which a petition or comparable pleading is forwarded or in which a petition or comparable pleading is filed for forwarding to another state or foreign country.",
+      "id": "3115.102-initiating-tribunal",
+      "normalized": "initiating tribunal",
+      "scope": "As used in this chapter:",
+      "section": "3115.102",
+      "source_title": "Section 3115.102 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3115.102",
+      "term": "Initiating tribunal"
+    },
+    {
+      "definition": "(L) \"Issuing foreign country\" means the foreign country in which a tribunal issues a support order or a judgment determining parentage of a child.",
+      "id": "3115.102-issuing-foreign-country",
+      "normalized": "issuing foreign country",
+      "scope": "As used in this chapter:",
+      "section": "3115.102",
+      "source_title": "Section 3115.102 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3115.102",
+      "term": "Issuing foreign country"
+    },
+    {
+      "definition": "(M) \"Issuing state\" means the state in which a tribunal issues a support order or a judgment determining parentage of a child.",
+      "id": "3115.102-issuing-state",
+      "normalized": "issuing state",
+      "scope": "As used in this chapter:",
+      "section": "3115.102",
+      "source_title": "Section 3115.102 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3115.102",
+      "term": "Issuing state"
+    },
+    {
+      "definition": "(N) \"Issuing tribunal\" means the tribunal of a state or foreign country that issues a support order or a judgment determining parentage of a child.",
+      "id": "3115.102-issuing-tribunal",
+      "normalized": "issuing tribunal",
+      "scope": "As used in this chapter:",
+      "section": "3115.102",
+      "source_title": "Section 3115.102 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3115.102",
+      "term": "Issuing tribunal"
+    },
+    {
+      "definition": "(O) \"Law\" includes decisional and statutory law and rules and regulations having the force of law.",
+      "id": "3115.102-law",
+      "normalized": "law",
+      "scope": "As used in this chapter:",
+      "section": "3115.102",
+      "source_title": "Section 3115.102 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3115.102",
+      "term": "Law"
+    },
+    {
+      "definition": "(P) \"Obligee\" means any of the following:\n\n(1) An individual to whom a duty of support is or is alleged to be owed or in whose favor a support order or a judgment determining parentage of a child has been issued;\n\n(2) A foreign country, state, or political subdivision of a state to which the rights under a duty of support or support order have been assigned or that has independent claims based on financial assistance provided to an individual obligee in place of child support;\n\n(3) An individual seeking a judgment determining parentage of the individual's child;\n\n(4) A person that is a creditor in a proceeding under sections 3115.701 to 3115.713 of the Revised Code.",
+      "id": "3115.102-obligee",
+      "normalized": "obligee",
+      "scope": "As used in this chapter:",
+      "section": "3115.102",
+      "source_title": "Section 3115.102 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3115.102",
+      "term": "Obligee"
+    },
+    {
+      "definition": "(Q) \"Obligor\" means an individual, or the estate of a decedent, to whom or to which any of the following applies:\n\n(1) The individual or estate owes or is alleged to owe a duty of support.\n\n(2) The individual or decedent is alleged but has not been adjudicated to be a parent of a child.\n\n(3) The individual or estate is liable under a support order.\n\n(4) The individual or estate is a debtor in a proceeding under sections 3115.701 to 3115.713 of the Revised Code.",
+      "id": "3115.102-obligor",
+      "normalized": "obligor",
+      "scope": "As used in this chapter:",
+      "section": "3115.102",
+      "source_title": "Section 3115.102 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3115.102",
+      "term": "Obligor"
+    },
+    {
+      "definition": "(R) \"Outside this state\" means a location in another state or a country other than the United States, whether or not the country is a foreign country.",
+      "id": "3115.102-outside-this-state",
+      "normalized": "outside this state",
+      "scope": "As used in this chapter:",
+      "section": "3115.102",
+      "source_title": "Section 3115.102 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3115.102",
+      "term": "Outside this state"
+    },
+    {
+      "definition": "(S) \"Person\" means an individual, corporation, business trust, estate, trust, partnership, limited liability company, association, joint venture, public corporation, government or governmental subdivision, agency, or instrumentality, or any other legal or commercial entity.",
+      "id": "3115.102-person",
+      "normalized": "person",
+      "scope": "As used in this chapter:",
+      "section": "3115.102",
+      "source_title": "Section 3115.102 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3115.102",
+      "term": "Person"
+    },
+    {
+      "definition": "(T) \"Record\" means information that is inscribed on a tangible medium or that is stored in an electronic or other medium and is retrievable in perceivable form.",
+      "id": "3115.102-record",
+      "normalized": "record",
+      "scope": "As used in this chapter:",
+      "section": "3115.102",
+      "source_title": "Section 3115.102 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3115.102",
+      "term": "Record"
+    },
+    {
+      "definition": "(U) \"Register\" means to file in a tribunal of this state a support order or judgment determining parentage of a child issued in another state or a foreign country.",
+      "id": "3115.102-register",
+      "normalized": "register",
+      "scope": "As used in this chapter:",
+      "section": "3115.102",
+      "source_title": "Section 3115.102 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3115.102",
+      "term": "Register"
+    },
+    {
+      "definition": "(V) \"Registering tribunal\" means a tribunal in which a support order or judgment determining parentage of a child is registered.",
+      "id": "3115.102-registering-tribunal",
+      "normalized": "registering tribunal",
+      "scope": "As used in this chapter:",
+      "section": "3115.102",
+      "source_title": "Section 3115.102 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3115.102",
+      "term": "Registering tribunal"
+    },
+    {
+      "definition": "(W) \"Responding state\" means a state in which a petition or comparable pleading for support or to determine parentage of a child is filed or to which a petition or comparable pleading is forwarded for filing from another state or a foreign country.",
+      "id": "3115.102-responding-state",
+      "normalized": "responding state",
+      "scope": "As used in this chapter:",
+      "section": "3115.102",
+      "source_title": "Section 3115.102 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3115.102",
+      "term": "Responding state"
+    },
+    {
+      "definition": "(X) \"Responding tribunal\" means the authorized tribunal in a responding state or foreign country.",
+      "id": "3115.102-responding-tribunal",
+      "normalized": "responding tribunal",
+      "scope": "As used in this chapter:",
+      "section": "3115.102",
+      "source_title": "Section 3115.102 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3115.102",
+      "term": "Responding tribunal"
+    },
+    {
+      "definition": "(Y) \"Spousal-support order\" means a support order for a spouse or former spouse of the obligor.",
+      "id": "3115.102-spousal-support-order",
+      "normalized": "spousal-support order",
+      "scope": "As used in this chapter:",
+      "section": "3115.102",
+      "source_title": "Section 3115.102 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3115.102",
+      "term": "Spousal-support order"
+    },
+    {
+      "definition": "(Z) \"State\" means a state of the United States, the District of Columbia, Puerto Rico, the United States Virgin Islands, or any territory or insular possession under the jurisdiction of the United States. The term includes an Indian nation or tribe.",
+      "id": "3115.102-state",
+      "normalized": "state",
+      "scope": "As used in this chapter:",
+      "section": "3115.102",
+      "source_title": "Section 3115.102 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3115.102",
+      "term": "State"
+    },
+    {
+      "definition": "(AA) \"Support enforcement agency\" means a public official, governmental entity, or private agency authorized to do any of the following:\n\n(1) Seek enforcement of support orders or laws relating to the duty of support;\n\n(2) Seek establishment or modification of child support;\n\n(3) Request determination of parentage of a child;\n\n(4) Attempt to locate obligors or their assets; or\n\n(5) Request determination of the controlling child-support order.",
+      "id": "3115.102-support-enforcement-agency",
+      "normalized": "support enforcement agency",
+      "scope": "As used in this chapter:",
+      "section": "3115.102",
+      "source_title": "Section 3115.102 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3115.102",
+      "term": "Support enforcement agency"
+    },
+    {
+      "definition": "(BB) \"Support order\" means a judgment, decree, order, decision, or directive, whether temporary, final, or subject to modification, issued in a state or foreign country for the benefit of a child, a spouse, or a former spouse, which provides for monetary support, health care, arrearages, retroactive support, or reimbursement for financial assistance provided to an individual obligee in place of child support. \"Support order\" may include related costs and fees, interest, income withholding, automatic adjustment, reasonable attorney's fees, and other relief.",
+      "id": "3115.102-support-order",
+      "normalized": "support order",
+      "scope": "As used in this chapter:",
+      "section": "3115.102",
+      "source_title": "Section 3115.102 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3115.102",
+      "term": "Support order"
+    },
+    {
+      "definition": "(CC) \"Tribunal\" means a court, administrative agency, or quasi-judicial entity authorized to establish, enforce, or modify support orders or to determine parentage of a child.",
+      "id": "3115.102-tribunal",
+      "normalized": "tribunal",
+      "scope": "As used in this chapter:",
+      "section": "3115.102",
+      "source_title": "Section 3115.102 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3115.102",
+      "term": "Tribunal"
+    }
+  ],
+  "kind": "section",
+  "references": [
+    {
+      "kind": "section",
+      "label": "3115.308",
+      "number": "3115.308",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.308"
+    },
+    {
+      "kind": "section",
+      "label": "3115.701",
+      "number": "3115.701",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.701"
+    },
+    {
+      "kind": "section",
+      "label": "3115.713",
+      "number": "3115.713",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3115.713"
+    }
+  ],
+  "scraped": "2026-07-02T19:47:49+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3115.102",
+  "title": "Section 3115.102 - Definitions."
+}
