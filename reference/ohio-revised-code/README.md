@@ -45,7 +45,8 @@ formatted Markdown file also gets a `.json` sidecar containing structured ORC
 references found in the same body or index content, leaving the Markdown
 readable while preserving reference data for future auto-linking. Section
 sidecars also include extracted glossary definitions, and each completed title
-folder gets a combined `glossary.json` for the GitHub Pages browser.
+manifest embeds a consolidated glossary with precomputed usage references for
+the GitHub Pages browser.
 
 By default, existing raw HTML is reused so interrupted runs can resume without
 hammering the source site. Use `--force` to refresh already-downloaded pages and

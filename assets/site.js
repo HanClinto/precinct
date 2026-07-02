@@ -759,11 +759,7 @@ function sectionForRoute(route) {
 }
 
 async function loadGlossary(manifest) {
-  if (!manifest.glossaryPath) {
-    return [];
-  }
-  const glossary = await fetchJson(manifest.glossaryPath);
-  return glossary.entries || [];
+  return manifest.glossary?.entries || [];
 }
 
 function buildGlossaryLookup(entries) {

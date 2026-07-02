@@ -647,6 +647,7 @@ def write_manifest(title_root: Path) -> Path:
         })
 
     add_glossary_uses(glossary_entries, chapters)
+    glossary_entries = sorted(glossary_entries, key=lambda entry: (entry["normalized"], entry["section"]))
 
     manifest = {
         "collection": "Ohio Revised Code",
@@ -662,14 +663,13 @@ def write_manifest(title_root: Path) -> Path:
         "downloads": {
             "zip": "https://github.com/HanClinto/precinct/releases/download/orc-latest/ohio-revised-code.zip",
         },
+        "glossary": {
+            "entries": glossary_entries,
+        },
         "markdownPath": repo_relative_path(title_root / "README.md"),
         "metadataPath": repo_relative_path(title_root / "README.json"),
-        "glossaryPath": repo_relative_path(title_root / "glossary.json"),
         "chapters": chapters,
     }
-    glossary_path = title_root / "glossary.json"
-    glossary_path.write_text(json.dumps({"entries": sorted(glossary_entries, key=lambda entry: (entry["normalized"], entry["section"]))}, indent=2, sort_keys=True) + "\n", encoding="utf-8")
-    log(f"wrote  {glossary_path.relative_to(ROOT)}")
     path = title_root / "manifest.json"
     path.write_text(json.dumps(manifest, indent=2, sort_keys=True) + "\n", encoding="utf-8")
     log(f"wrote  {path.relative_to(ROOT)}")
