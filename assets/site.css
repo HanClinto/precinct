@@ -212,7 +212,7 @@ input {
 .browser-grid {
   display: grid;
   grid-template-columns: minmax(0, 1fr) 280px;
-  min-height: calc(100vh - 430px);
+  min-height: calc(100vh - var(--glossary-height, 34vh) - 168px);
 }
 
 .chapter-nav,
@@ -339,8 +339,8 @@ input {
 
 .reader {
   min-width: 0;
-  max-height: calc(100vh - 430px);
-  min-height: 420px;
+  max-height: calc(100vh - var(--glossary-height, 34vh) - 168px);
+  min-height: 320px;
   overflow: auto;
   padding: 28px 34px;
   border: 0;
@@ -382,8 +382,8 @@ input {
 }
 
 .references {
-  max-height: calc(100vh - 430px);
-  min-height: 420px;
+  max-height: calc(100vh - var(--glossary-height, 34vh) - 168px);
+  min-height: 320px;
   overflow: auto;
   padding: 16px;
   border-left: 1px solid var(--line);
@@ -403,14 +403,49 @@ input {
 }
 
 .glossary-panel {
-  height: clamp(260px, 34vh, 420px);
+  height: var(--glossary-height, clamp(260px, 34vh, 420px));
   min-height: 180px;
   max-height: 70vh;
   overflow: auto;
-  resize: vertical;
-  padding: 16px;
+  padding: 0 16px 16px;
   background: rgba(255, 255, 255, 0.88);
   border-top: 1px solid var(--line);
+}
+
+.glossary-resize-handle {
+  position: sticky;
+  top: 0;
+  z-index: 5;
+  height: 14px;
+  margin: 0 -16px 12px;
+  background: rgba(242, 245, 238, 0.96);
+  border-bottom: 1px solid var(--line);
+  cursor: ns-resize;
+  touch-action: none;
+}
+
+.glossary-resize-handle::before {
+  content: "";
+  position: absolute;
+  left: 50%;
+  top: 5px;
+  width: 56px;
+  height: 3px;
+  transform: translateX(-50%);
+  background: rgba(47, 111, 82, 0.28);
+  border-radius: 999px;
+}
+
+.glossary-resize-handle:hover,
+.glossary-resize-handle:focus-visible,
+.resizing-glossary .glossary-resize-handle {
+  background: #edf3ee;
+  outline: none;
+}
+
+.resizing-glossary {
+  cursor: ns-resize;
+  user-select: none;
 }
 
 .glossary-panel-header {

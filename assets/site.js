@@ -18,6 +18,8 @@ const els = {
   reader: document.querySelector('#reader'),
   references: document.querySelector('#referenceList'),
   glossary: document.querySelector('#glossaryList'),
+  glossaryPanel: document.querySelector('.glossary-panel'),
+  glossaryResizeHandle: document.querySelector('#glossaryResizeHandle'),
   sectionsToggle: document.querySelector('#sectionsToggle'),
   sectionsClose: document.querySelector('#sectionsClose'),
   sectionsBackdrop: document.querySelector('#sectionsBackdrop'),
@@ -46,6 +48,7 @@ async function init() {
   bindSearch();
   bindSectionsMenu();
   bindGlossaryNavigation();
+  bindGlossaryResize();
 
   const firstSection = manifest.chapters[0]?.sections[0];
   if (firstSection) {
@@ -132,6 +135,35 @@ function openSectionsMenu() {
 function closeSectionsMenu() {
   document.body.classList.remove('sections-open');
   els.sectionsToggle.setAttribute('aria-expanded', 'false');
+}
+
+function bindGlossaryResize() {
+  els.glossaryResizeHandle.addEventListener('pointerdown', (event) => {
+    event.preventDefault();
+    const startY = event.clientY;
+    const startHeight = els.glossaryPanel.getBoundingClientRect().height;
+    const minHeight = 180;
+    const maxHeight = Math.round(window.innerHeight * 0.7);
+
+    els.glossaryResizeHandle.setPointerCapture(event.pointerId);
+    document.body.classList.add('resizing-glossary');
+
+    const resize = (moveEvent) => {
+      const nextHeight = Math.min(maxHeight, Math.max(minHeight, startHeight + startY - moveEvent.clientY));
+      document.documentElement.style.setProperty('--glossary-height', `${Math.round(nextHeight)}px`);
+    };
+
+    const stopResize = () => {
+      document.body.classList.remove('resizing-glossary');
+      els.glossaryResizeHandle.removeEventListener('pointermove', resize);
+      els.glossaryResizeHandle.removeEventListener('pointerup', stopResize);
+      els.glossaryResizeHandle.removeEventListener('pointercancel', stopResize);
+    };
+
+    els.glossaryResizeHandle.addEventListener('pointermove', resize);
+    els.glossaryResizeHandle.addEventListener('pointerup', stopResize);
+    els.glossaryResizeHandle.addEventListener('pointercancel', stopResize);
+  });
 }
 
 async function openSection(sourceUrl) {
