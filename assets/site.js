@@ -11,6 +11,9 @@ const state = {
   glossaryByTerm: new Map(),
   visibleGlossary: [],
   termUses: new Map(),
+  overallTermUses: new Map(),
+  overallUsesStatus: 'idle',
+  overallUsesRequest: 0,
   manifestCache: new Map(),
 };
 
@@ -54,6 +57,7 @@ async function init() {
   bindSectionsMenu();
   bindGlossaryNavigation();
   bindGlossaryResize();
+  bindReaderNavigation();
   bindRouteNavigation();
 }
 
@@ -67,6 +71,8 @@ async function loadTitle(title, options = {}) {
   state.activeSection = null;
   state.visibleGlossary = [];
   state.termUses = new Map();
+  state.overallTermUses = new Map();
+  state.overallUsesStatus = 'idle';
 
   els.browserTitle.textContent = manifest.scope;
   els.collectionScope.textContent = manifest.collection;
@@ -252,6 +258,8 @@ async function openSection(sourceUrl, options = {}) {
   els.reader.focus({ preventScroll: true });
   els.reader.scrollTop = 0;
   renderReferences(match.section.references);
+  state.overallTermUses = buildOverallTermUses(glossaryEntries);
+  state.overallUsesStatus = 'loaded';
   renderGlossary(glossaryEntries);
   if (options.updateUrl !== false) {
     updateRoute(match.section, options.term, { replace: options.replace });
@@ -288,19 +296,32 @@ async function openReference(link) {
     location.href = link.dataset.referenceUrl;
     return;
   }
+  const opened = await openInternalSection(title, link.dataset.referenceUrl, link.dataset.referenceSection);
+  if (!opened) {
+    location.href = link.dataset.referenceUrl;
+  }
+}
 
+async function openInternalSection(title, sourceUrl, sectionNumber = '') {
+  if (!title) {
+    return false;
+  }
   if (title.manifestPath === state.currentTitle?.manifestPath) {
-    await openSection(link.dataset.referenceUrl);
-    return;
+    const section = state.sectionIndex.find((candidate) => candidate.section.sourceUrl === sourceUrl || candidate.section.number === sectionNumber)?.section;
+    if (!section) {
+      return false;
+    }
+    await openSection(section.sourceUrl);
+    return true;
   }
 
   const manifest = await loadManifest(title);
-  const section = findSectionInManifest(manifest, link.dataset.referenceSection, link.dataset.referenceUrl);
+  const section = findSectionInManifest(manifest, sectionNumber, sourceUrl);
   if (!section) {
-    location.href = link.dataset.referenceUrl;
-    return;
+    return false;
   }
   await loadTitle(title, { route: { section: section.number || section.sourceUrl }, replace: false });
+  return true;
 }
 
 function titleForReference(reference) {
@@ -348,6 +369,41 @@ function findSectionInManifest(manifest, sectionNumber, sourceUrl) {
     .find((section) => normalize(section.number) === normalizedNumber || normalize(section.sourceUrl) === normalizedUrl) || null;
 }
 
+function buildOverallTermUses(entries) {
+  return new Map(entries.map((entry) => [entry.normalized, (entry.uses || []).map((use) => ({
+    titlePath: state.currentTitle.manifestPath,
+    sourceUrl: use.source_url,
+    count: use.count || 1,
+    context: `${use.section} - ${use.title}${use.count > 1 ? ` (${use.count} uses)` : ''}${use.context ? `: ${use.context}` : ''}`,
+  }))]));
+}
+
+function glossarySourceAttrs(entry) {
+  const title = titleForSectionNumber(entry.section || entry.source_url) || state.currentTitle;
+  if (!title) {
+    return `href="${escapeHtml(entry.source_url)}" target="_blank" rel="noreferrer"`;
+  }
+  const route = routeForReference({ number: entry.section, url: entry.source_url }, title);
+  return `href="${escapeHtml(route)}" data-glossary-source="${escapeHtml(entry.source_url)}" data-glossary-title="${escapeHtml(title.manifestPath)}"`;
+}
+
+async function openOverallUse(link) {
+  const title = state.titleIndex.find((candidate) => candidate.manifestPath === link.dataset.overallTitle);
+  await openInternalSection(title, link.dataset.overallSource);
+}
+
+async function openGlossarySource(link) {
+  const title = state.titleIndex.find((candidate) => candidate.manifestPath === link.dataset.glossaryTitle);
+  if (!title) {
+    location.href = link.dataset.glossarySource;
+    return;
+  }
+  const opened = await openInternalSection(title, link.dataset.glossarySource);
+  if (!opened) {
+    location.href = link.dataset.glossarySource;
+  }
+}
+
 function renderGlossary(entries, activeTerm = '') {
   state.visibleGlossary = entries;
   if (!entries.length) {
@@ -358,12 +414,14 @@ function renderGlossary(entries, activeTerm = '') {
   els.glossary.innerHTML = entries.map((entry) => {
     const activeClass = entry.normalized === activeTerm ? ' active' : '';
     const uses = state.termUses.get(entry.normalized) || [];
+    const overallUses = state.overallTermUses.get(entry.normalized) || [];
     return `<article class="glossary-entry${activeClass}" id="glossary-${escapeHtml(entry.id)}" data-term="${escapeHtml(entry.normalized)}">
       <h4>${escapeHtml(entry.term)}</h4>
       <p class="glossary-scope">${escapeHtml(entry.scope || entry.source_title)}</p>
       <div class="glossary-definition">${formatGlossaryDefinition(entry, entries)}</div>
       ${formatGlossaryUses(entry, uses)}
-      <a class="glossary-source" href="${escapeHtml(entry.source_url)}" target="_blank" rel="noreferrer">${escapeHtml(entry.source_title)}</a>
+      ${formatOverallGlossaryUses(entry, overallUses)}
+      <a class="glossary-source" ${glossarySourceAttrs(entry)}>${escapeHtml(entry.source_title)}</a>
     </article>`;
   }).join('');
 }
@@ -375,6 +433,21 @@ function formatGlossaryUses(entry, uses) {
   const items = uses.map((use) => `<li><button type="button" data-use-id="${escapeHtml(use.id)}">${escapeHtml(use.context)}</button></li>`).join('');
   return `<div class="glossary-uses">
     <button class="glossary-uses-toggle" type="button" aria-expanded="false">Used ${uses.length} ${uses.length === 1 ? 'time' : 'times'} in this section</button>
+    <ul hidden>${items}</ul>
+  </div>`;
+}
+
+function formatOverallGlossaryUses(entry, uses) {
+  if (state.overallUsesStatus === 'loading') {
+    return '<p class="glossary-uses-empty">Checking overall uses...</p>';
+  }
+  if (!uses.length) {
+    return '<p class="glossary-uses-empty">No other uses detected in the applicable chapters.</p>';
+  }
+  const totalUses = uses.reduce((total, use) => total + (use.count || 1), 0);
+  const items = uses.map((use) => `<li><button type="button" data-overall-title="${escapeHtml(use.titlePath)}" data-overall-source="${escapeHtml(use.sourceUrl)}">${escapeHtml(use.context)}</button></li>`).join('');
+  return `<div class="glossary-uses">
+    <button class="glossary-uses-toggle" type="button" aria-expanded="false">Used ${totalUses} ${totalUses === 1 ? 'time' : 'times'} overall</button>
     <ul hidden>${items}</ul>
   </div>`;
 }
@@ -407,7 +480,7 @@ function glossaryEntriesForMarkdown(markdown, section) {
   const preferred = new Map();
 
   for (const entry of section.glossary || []) {
-    preferred.set(entry.normalized, entry);
+    preferred.set(entry.normalized, enrichedGlossaryEntry(entry));
   }
 
   for (const entry of state.glossaryEntries) {
@@ -425,6 +498,10 @@ function glossaryEntriesForMarkdown(markdown, section) {
     const rightIndex = text.toLowerCase().indexOf(right.term.toLowerCase());
     return normalizedIndex(leftIndex) - normalizedIndex(rightIndex) || left.term.localeCompare(right.term);
   });
+}
+
+function enrichedGlossaryEntry(entry) {
+  return state.glossaryEntries.find((candidate) => candidate.id === entry.id) || entry;
 }
 
 function annotateGlossaryTerms(root, entries) {
@@ -514,12 +591,41 @@ function bindGlossaryNavigation() {
       return;
     }
 
+    const overallUseLink = event.target.closest('[data-overall-source]');
+    if (overallUseLink && els.glossary.contains(overallUseLink)) {
+      event.preventDefault();
+      openOverallUse(overallUseLink);
+      return;
+    }
+
+    const sourceLink = event.target.closest('[data-glossary-source]');
+    if (sourceLink && els.glossary.contains(sourceLink)) {
+      event.preventDefault();
+      openGlossarySource(sourceLink);
+      return;
+    }
+
     const trigger = event.target.closest('[data-term]');
     if (!trigger || (!els.reader.contains(trigger) && !els.glossary.contains(trigger))) {
       return;
     }
     event.preventDefault();
     focusGlossaryTerm(trigger.dataset.term);
+  });
+}
+
+function bindReaderNavigation() {
+  els.reader.addEventListener('click', async (event) => {
+    const link = event.target.closest('[data-inline-section-title]');
+    if (!link || !els.reader.contains(link)) {
+      return;
+    }
+    event.preventDefault();
+    const title = state.titleIndex.find((candidate) => candidate.manifestPath === link.dataset.inlineSectionTitle);
+    const opened = await openInternalSection(title, link.dataset.inlineSectionUrl, link.dataset.inlineSectionNumber);
+    if (!opened) {
+      location.href = link.dataset.inlineSectionUrl;
+    }
   });
 }
 
@@ -662,7 +768,12 @@ function renderMarkdown(markdown, query = '') {
       continue;
     }
 
-    if (line.startsWith('Source:') || line.startsWith('Scraped:')) {
+    if (line.startsWith('Source:')) {
+      body.push(`<p class="source-line">${formatSourceLine(line)}</p>`);
+      continue;
+    }
+
+    if (line.startsWith('Scraped:')) {
       body.push(`<p class="source-line">${formatInline(line)}</p>`);
       continue;
     }
@@ -702,7 +813,28 @@ function renderMarkdown(markdown, query = '') {
 }
 
 function formatInline(text) {
-  return escapeHtml(text).replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+  const formatted = escapeHtml(text).replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+  return linkInlineSections(formatted);
+}
+
+function formatSourceLine(line) {
+  const url = line.slice('Source:'.length).trim();
+  if (!url) {
+    return formatInline(line);
+  }
+  return `Source: <a href="${escapeHtml(url)}" target="_blank" rel="noreferrer">${escapeHtml(url)}</a>`;
+}
+
+function linkInlineSections(html) {
+  return html.replace(/\b(section|sections)\s+(\d+[\w.-]*)/gi, (match, label, number) => {
+    const title = titleForSectionNumber(number);
+    if (!title) {
+      return match;
+    }
+    const sourceUrl = `https://codes.ohio.gov/ohio-revised-code/section-${number}`;
+    const route = routeForReference({ number, url: sourceUrl }, title);
+    return `${label} <a href="${escapeHtml(route)}" data-inline-section-number="${escapeHtml(number)}" data-inline-section-url="${escapeHtml(sourceUrl)}" data-inline-section-title="${escapeHtml(title.manifestPath)}">${escapeHtml(number)}</a>`;
+  });
 }
 
 function highlight(html, query) {

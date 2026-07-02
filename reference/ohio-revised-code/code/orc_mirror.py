@@ -546,6 +546,72 @@ def glossary_id(section_number: str, term: str) -> str:
     return f"{section_number}-{slug}" if section_number else slug
 
 
+def add_glossary_uses(glossary_entries: list[dict[str, object]], chapters: list[dict[str, object]]) -> None:
+    sections = [section for chapter in chapters for section in chapter["sections"]]
+    section_text: dict[str, str] = {}
+    for section in sections:
+        markdown_path = REPO_ROOT / str(section["markdownPath"])
+        section_text[str(section["sourceUrl"])] = searchable_markdown(markdown_path.read_text(encoding="utf-8"))
+
+    for entry in glossary_entries:
+        term = str(entry["term"])
+        pattern = re.compile(rf"\b{re.escape(term)}\b", flags=re.IGNORECASE)
+        uses = []
+        for section in applicable_sections(entry, sections):
+            text = section_text[str(section["sourceUrl"])]
+            matches = list(pattern.finditer(text))
+            if not matches:
+                continue
+            uses.append({
+                "section": section["number"],
+                "title": section["title"],
+                "source_url": section["sourceUrl"],
+                "count": len(matches),
+                "context": context_snippet(text, matches[0].start()),
+            })
+        entry["uses"] = uses
+
+
+def searchable_markdown(markdown: str) -> str:
+    lines = [
+        line for line in markdown.splitlines()
+        if not line.startswith(("Source:", "Scraped:", "# "))
+    ]
+    return normalize_text(" ".join(lines))
+
+
+def applicable_sections(entry: dict[str, object], sections: list[dict[str, object]]) -> list[dict[str, object]]:
+    chapter_range = chapter_range_for_scope(str(entry.get("scope") or ""))
+    if chapter_range:
+        return [section for section in sections if chapter_range[0] <= chapter_number(section) <= chapter_range[1]]
+    return [section for section in sections if section["number"] == entry.get("section")]
+
+
+def chapter_range_for_scope(scope: str) -> tuple[int, int] | None:
+    range_pattern = re.compile(r"Chapters?\s+(\d+)\.?\s+(?:to|through|-)\s+(\d+)\.?")
+    range_match = range_pattern.search(scope)
+    if range_match:
+        return int(range_match.group(1)), int(range_match.group(2))
+    single_pattern = re.compile(r"Chapter\s+(\d+)\.?")
+    single_match = single_pattern.search(scope)
+    if single_match:
+        chapter = int(single_match.group(1))
+        return chapter, chapter
+    return None
+
+
+def chapter_number(section: dict[str, object]) -> int:
+    return int(str(section["number"]).split(".", 1)[0])
+
+
+def context_snippet(text: str, index: int) -> str:
+    start = max(0, index - 70)
+    end = min(len(text), index + 100)
+    prefix = "..." if start else ""
+    suffix = "..." if end < len(text) else ""
+    return f"{prefix}{text[start:end]}{suffix}"
+
+
 def write_manifest(title_root: Path) -> Path:
     title_metadata = json.loads((title_root / "README.json").read_text(encoding="utf-8"))
     chapters = []
@@ -559,6 +625,7 @@ def write_manifest(title_root: Path) -> Path:
         for section_reference in chapter_metadata["references"]:
             section_metadata_path = find_metadata_by_source_url(title_root / f"Chapter {chapter_reference['number']}", section_reference["url"])
             section_metadata = json.loads(section_metadata_path.read_text(encoding="utf-8"))
+            section_glossary = section_metadata.get("glossary", [])
             sections.append({
                 "number": section_reference["number"],
                 "title": section_metadata["title"],
@@ -566,9 +633,9 @@ def write_manifest(title_root: Path) -> Path:
                 "markdownPath": repo_relative_path(section_metadata_path.with_suffix(".md")),
                 "metadataPath": repo_relative_path(section_metadata_path),
                 "references": section_metadata["references"],
-                "glossary": section_metadata.get("glossary", []),
+                "glossary": section_glossary,
             })
-            glossary_entries.extend(section_metadata.get("glossary", []))
+            glossary_entries.extend(dict(entry) for entry in section_glossary)
         section_count += len(sections)
         chapters.append({
             "number": chapter_reference["number"],
@@ -578,6 +645,8 @@ def write_manifest(title_root: Path) -> Path:
             "metadataPath": repo_relative_path(chapter_metadata_path),
             "sections": sections,
         })
+
+    add_glossary_uses(glossary_entries, chapters)
 
     manifest = {
         "collection": "Ohio Revised Code",
