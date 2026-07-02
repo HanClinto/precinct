@@ -1,4 +1,46 @@
 {
+  "glossary": [
+    {
+      "definition": "(A) \"Dependent\" means a person who is recognized as a dependent by one of the uniformed services.",
+      "id": "3511.01-dependent",
+      "normalized": "dependent",
+      "scope": "As used in this chapter:",
+      "section": "3511.01",
+      "source_title": "Section 3511.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3511.01",
+      "term": "Dependent"
+    },
+    {
+      "definition": "(B) \"Overseas voter\" means any of the following:\n\n(1) A person who is outside of the United States and who, before leaving the United States, was last eligible to vote in this state, who may be considered a state resident using the standards for residency established in sections 3503.02 and 3511.011 of the Revised Code, and who otherwise satisfies the requirements to vote in this state;\n\n(2) A person who is outside of the United States and who, before leaving the United States, would have been eligible to vote in this state had the person then been eighteen years of age or older, who may be considered a state resident using the standards for residency established in sections 3503.02 and 3511.011 of the Revised Code, and who otherwise satisfies the requirements to vote in this state;\n\n(3) A person who was born outside of the United States, who may be considered a state resident using the standards for residency established in sections 3503.02 and 3511.011 of the Revised Code, and who otherwise satisfies the requirements to vote in this state, if both of the following apply:\n\n(a) The last place where the person's parent or legal guardian was, or would have been, eligible to vote before leaving the United States is within this state; and\n\n(b) The person has not previously registered to vote in any other state.",
+      "id": "3511.01-overseas-voter",
+      "normalized": "overseas voter",
+      "scope": "As used in this chapter:",
+      "section": "3511.01",
+      "source_title": "Section 3511.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3511.01",
+      "term": "Overseas voter"
+    },
+    {
+      "definition": "(C) \"Uniformed services\" means:\n\n(1) Active and reserve components of the army, navy, air force, marine corps, space force, or coast guard of the United States;\n\n(2) The merchant marine, the commissioned corps of the public health service, or the commissioned corps of the national oceanic and atmospheric administration of the United States;\n\n(3) The national guard and the organized militia.",
+      "id": "3511.01-uniformed-services",
+      "normalized": "uniformed services",
+      "scope": "As used in this chapter:",
+      "section": "3511.01",
+      "source_title": "Section 3511.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3511.01",
+      "term": "Uniformed services"
+    },
+    {
+      "definition": "(D) \"Uniformed services voter\" means an individual who is qualified to vote in this state and who is:\n\n(1) A member of one of the uniformed services described in division (C)(1) or (2) of this section;\n\n(2) A member of one of the uniformed services described in division (C)(3) of this section who is on activated status.\n\n(3) A spouse or dependent of a uniformed services voter.\n\nLast updated January 28, 2025 at 3:46 PM",
+      "id": "3511.01-uniformed-services-voter",
+      "normalized": "uniformed services voter",
+      "scope": "As used in this chapter:",
+      "section": "3511.01",
+      "source_title": "Section 3511.01 - Definitions.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3511.01",
+      "term": "Uniformed services voter"
+    }
+  ],
   "kind": "section",
   "references": [
     {

@@ -1,4 +1,26 @@
 {
+  "glossary": [
+    {
+      "definition": "(F) As used in this section, \"registering a voter\" and \"registering voters\" includes any effort, for compensation, to provide voter registration forms or to assist persons in completing or returning those forms.",
+      "id": "3503.29-registering-a-voter",
+      "normalized": "registering a voter",
+      "scope": "",
+      "section": "3503.29",
+      "source_title": "Section 3503.29 - Training and registration of compensated voter registrants.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3503.29",
+      "term": "registering a voter"
+    },
+    {
+      "definition": "(F) As used in this section, \"registering a voter\" and \"registering voters\" includes any effort, for compensation, to provide voter registration forms or to assist persons in completing or returning those forms.",
+      "id": "3503.29-registering-voters",
+      "normalized": "registering voters",
+      "scope": "",
+      "section": "3503.29",
+      "source_title": "Section 3503.29 - Training and registration of compensated voter registrants.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3503.29",
+      "term": "registering voters"
+    }
+  ],
   "kind": "section",
   "references": [],
   "scraped": "2026-07-02T16:41:45+00:00",

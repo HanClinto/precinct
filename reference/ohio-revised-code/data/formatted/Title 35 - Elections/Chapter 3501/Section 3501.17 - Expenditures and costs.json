@@ -1,4 +1,36 @@
 {
+  "glossary": [
+    {
+      "definition": "(1) \"Political subdivision\" and \"subdivision\" mean any board of county commissioners, board of township trustees, legislative authority of a municipal corporation, board of education, or any other board, commission, district, or authority that is empowered to levy taxes or permitted to receive the proceeds of a tax levy, regardless of whether the entity receives tax settlement moneys as described in division (A) of this section;",
+      "id": "3501.17-political-subdivision",
+      "normalized": "political subdivision",
+      "scope": "(K) As used in this section:",
+      "section": "3501.17",
+      "source_title": "Section 3501.17 - Expenditures and costs.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3501.17",
+      "term": "Political subdivision"
+    },
+    {
+      "definition": "(1) \"Political subdivision\" and \"subdivision\" mean any board of county commissioners, board of township trustees, legislative authority of a municipal corporation, board of education, or any other board, commission, district, or authority that is empowered to levy taxes or permitted to receive the proceeds of a tax levy, regardless of whether the entity receives tax settlement moneys as described in division (A) of this section;",
+      "id": "3501.17-subdivision",
+      "normalized": "subdivision",
+      "scope": "(K) As used in this section:",
+      "section": "3501.17",
+      "source_title": "Section 3501.17 - Expenditures and costs.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3501.17",
+      "term": "subdivision"
+    },
+    {
+      "definition": "(2) \"Statewide ballot issue\" means any ballot issue, whether proposed by the general assembly or by initiative or referendum, that is submitted to the voters throughout the state.\n\nLast updated July 29, 2025 at 3:05 PM",
+      "id": "3501.17-statewide-ballot-issue",
+      "normalized": "statewide ballot issue",
+      "scope": "(K) As used in this section:",
+      "section": "3501.17",
+      "source_title": "Section 3501.17 - Expenditures and costs.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3501.17",
+      "term": "Statewide ballot issue"
+    }
+  ],
   "kind": "section",
   "references": [
     {

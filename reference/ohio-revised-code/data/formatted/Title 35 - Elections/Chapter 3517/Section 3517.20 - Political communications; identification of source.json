@@ -1,4 +1,126 @@
 {
+  "glossary": [
+    {
+      "definition": "(1) \"Political publication for or against a candidate\" means a notice, placard, advertisement, sample ballot, brochure, flyer, direct mailer, or other form of general publication that is designed to promote the nomination, election, or defeat of a candidate.",
+      "id": "3517.20-political-publication-for-or-against-a-candidate",
+      "normalized": "political publication for or against a candidate",
+      "scope": "(A) As used in this section:",
+      "section": "3517.20",
+      "source_title": "Section 3517.20 - Political communications; identification of source.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3517.20",
+      "term": "Political publication for or against a candidate"
+    },
+    {
+      "definition": "(2) \"Political publication for or against an issue\" means a notice, placard, advertisement, sample ballot, brochure, flyer, direct mailer, or other form of general publication that is designed to promote the adoption or defeat of a ballot issue or question or to influence the voters in an election.",
+      "id": "3517.20-political-publication-for-or-against-an-issue",
+      "normalized": "political publication for or against an issue",
+      "scope": "(A) As used in this section:",
+      "section": "3517.20",
+      "source_title": "Section 3517.20 - Political communications; identification of source.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3517.20",
+      "term": "Political publication for or against an issue"
+    },
+    {
+      "definition": "(3) \"Public political advertising\" means newspapers, magazines, outdoor advertising facilities, direct mailings, or other similar types of general public political advertising, or flyers, handbills, or other nonperiodical printed matter.",
+      "id": "3517.20-public-political-advertising",
+      "normalized": "public political advertising",
+      "scope": "(A) As used in this section:",
+      "section": "3517.20",
+      "source_title": "Section 3517.20 - Political communications; identification of source.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3517.20",
+      "term": "Public political advertising"
+    },
+    {
+      "definition": "(4) \"Statewide candidate\" has the same meaning as in section 3517.102 of the Revised Code.",
+      "id": "3517.20-statewide-candidate",
+      "normalized": "statewide candidate",
+      "scope": "(A) As used in this section:",
+      "section": "3517.20",
+      "source_title": "Section 3517.20 - Political communications; identification of source.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3517.20",
+      "term": "Statewide candidate"
+    },
+    {
+      "definition": "(5) \"Legislative candidate\" means a candidate for the office of member of the general assembly.",
+      "id": "3517.20-legislative-candidate",
+      "normalized": "legislative candidate",
+      "scope": "(A) As used in this section:",
+      "section": "3517.20",
+      "source_title": "Section 3517.20 - Political communications; identification of source.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3517.20",
+      "term": "Legislative candidate"
+    },
+    {
+      "definition": "(6) \"Local candidate\" means a candidate for an elective office of a political subdivision of this state.",
+      "id": "3517.20-local-candidate",
+      "normalized": "local candidate",
+      "scope": "(A) As used in this section:",
+      "section": "3517.20",
+      "source_title": "Section 3517.20 - Political communications; identification of source.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3517.20",
+      "term": "Local candidate"
+    },
+    {
+      "definition": "(7) \"Legislative campaign fund\" has the same meaning as in section 3517.01 of the Revised Code.",
+      "id": "3517.20-legislative-campaign-fund",
+      "normalized": "legislative campaign fund",
+      "scope": "(A) As used in this section:",
+      "section": "3517.20",
+      "source_title": "Section 3517.20 - Political communications; identification of source.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3517.20",
+      "term": "Legislative campaign fund"
+    },
+    {
+      "definition": "(8) \"Limited political action committee\" means a political action committee of fewer than ten members.",
+      "id": "3517.20-limited-political-action-committee",
+      "normalized": "limited political action committee",
+      "scope": "(A) As used in this section:",
+      "section": "3517.20",
+      "source_title": "Section 3517.20 - Political communications; identification of source.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3517.20",
+      "term": "Limited political action committee"
+    },
+    {
+      "definition": "(9) \"Limited political contributing entity\" means a political contributing entity of fewer than ten members.",
+      "id": "3517.20-limited-political-contributing-entity",
+      "normalized": "limited political contributing entity",
+      "scope": "(A) As used in this section:",
+      "section": "3517.20",
+      "source_title": "Section 3517.20 - Political communications; identification of source.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3517.20",
+      "term": "Limited political contributing entity"
+    },
+    {
+      "definition": "(10) \"Designated amount\" means one hundred dollars in the case of a local candidate or a local ballot issue, two hundred fifty dollars in the case of a legislative candidate, or five hundred dollars in the case of a statewide candidate or a statewide ballot issue.",
+      "id": "3517.20-designated-amount",
+      "normalized": "designated amount",
+      "scope": "(A) As used in this section:",
+      "section": "3517.20",
+      "source_title": "Section 3517.20 - Political communications; identification of source.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3517.20",
+      "term": "Designated amount"
+    },
+    {
+      "definition": "(11) \"To issue\" includes to print, post, distribute, reproduce for distribution, or cause to be issued, printed, posted, distributed, or reproduced for distribution.",
+      "id": "3517.20-to-issue",
+      "normalized": "to issue",
+      "scope": "(A) As used in this section:",
+      "section": "3517.20",
+      "source_title": "Section 3517.20 - Political communications; identification of source.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3517.20",
+      "term": "To issue"
+    },
+    {
+      "definition": "(12) \"Telephone bank\" means more than five hundred telephone calls of an identical or substantially similar nature within any thirty-day period, whether those telephone calls are made by individual callers or by recording.\n\n(B)(1) Except as otherwise provided in division (B)(2) of this section, no entity shall do any of the following unless the name of the entity appears in a conspicuous place on or is contained or included within the publication, communication, or telephone call:\n\n(a) Issue a form of political publication in support of or opposition to a candidate or a ballot issue or question;\n\n(b) Make an expenditure for the purpose of financing political communications in support of or opposition to a candidate or a ballot issue or question through public political advertising;\n\n(c) Utter or cause to be uttered, over the broadcasting facilities of any radio or television station within this state, any communication in support of or opposition to a candidate or a ballot issue or question or any communication that is designed to influence the voters in an election;\n\n(d) Conduct a telephone bank for the purpose of supporting or opposing a candidate or a ballot issue or question or for the purpose of influencing the voters in an election.\n\n(2) A limited political action committee or limited political contributing entity may do any of the following without including its name in the publication or communication:\n\n(a) Issue a form of political publication in support of or opposition to a candidate or a ballot issue or question that does not cost in excess of the designated amount or that is not issued in cooperation, consultation, or concert with, or at the request or suggestion of, a candidate, a campaign committee, a legislative campaign fund, a political party, a political action committee with ten or more members, a political contributing entity with ten or more members, or a limited political action committee or limited political contributing entity that spends in excess of the designated amount on a related or the same or similar political publication in support of or opposition to a candidate or a ballot issue or question;\n\n(b) Make an expenditure that is not in excess of the designated amount in support of or opposition to a candidate or a ballot issue or question or make an expenditure that is not made in cooperation, consultation, or concert with, or at the request or suggestion of, a candidate, a campaign committee, a legislative campaign fund, a political party, a political action committee with ten or more members, a political contributing entity with ten or more members, or a limited political action committee or limited political contributing entity that spends in excess of the designated amount in support of or opposition to the same candidate or a ballot issue or question, for the purpose of financing political communications in support of or opposition to that candidate or a ballot issue or question through public political advertising.\n\n(C) If more than one piece of printed matter or printed political communications are mailed as a single packet, the requirements of division (B) of this section are met if one of the pieces of printed matter or printed political communications in the packet contains the name of the organization or entity that issues or is responsible for the printed matter or other printed political communications.\n\n(D) This section does not apply to the transmittal of personal correspondence that is not reproduced by machine for general distribution.\n\n(E) The secretary of state, by rule, may exempt from the requirements of this section, printed matter and certain other kinds of printed communications such as campaign buttons, balloons, pencils, or similar items, the size or nature of which makes it unreasonable to add an identification or disclaimer.\n\n(F) The disclaimer or identification described in division (B) of this section, when paid for by a candidate, legislative campaign fund, or campaign committee, shall be identified by the words \"paid for by\" followed by the name of the entity. The identification or disclaimer may use reasonable abbreviations for common terms such as \"committee.\"\n\nThe disclaimer \"paid political advertisement\" is not sufficient to meet the requirements of this section.\n\n(G)(1) No person operating a broadcast station or an organ of printed media shall broadcast or print a paid political communication that does not contain the identification required by this section.\n\n(2) Division (B)(1)(c) of this section does not apply to any communications made on behalf of a radio or television station or network by any employee of such radio or television station or network while acting in the course of the employee's employment.\n\n(H)(1) No candidate or entity shall use or cause to be used a false, fictitious, or fraudulent name or address in the making or issuing of a publication or communication included within the provisions of this section.\n\n(2) No political action committee or political contributing entity shall use or cause to be used, in the making or issuing of a publication or communication included within the provisions of this section, a name or address that would lead a reasonable person to believe that the publication or communication is made by or on behalf of a county political party, unless the political action committee or political contributing entity has obtained a written statement, signed by the chairperson of the county political party's executive committee, granting the political action committee or political contributing entity permission to act on behalf of or represent the county political party.\n\nLast updated July 29, 2025 at 12:24 PM",
+      "id": "3517.20-telephone-bank",
+      "normalized": "telephone bank",
+      "scope": "(A) As used in this section:",
+      "section": "3517.20",
+      "source_title": "Section 3517.20 - Political communications; identification of source.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3517.20",
+      "term": "Telephone bank"
+    }
+  ],
   "kind": "section",
   "references": [
     {

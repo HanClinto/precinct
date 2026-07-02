@@ -34,20 +34,20 @@ input {
 
 .site-header {
   display: flex;
-  align-items: end;
+  align-items: center;
   justify-content: space-between;
   gap: 24px;
-  padding: 28px 36px 20px;
+  padding: 14px 22px;
   border-bottom: 1px solid var(--line);
   background: rgba(251, 250, 246, 0.86);
   backdrop-filter: blur(12px);
 }
 
 .site-header h1 {
-  max-width: 780px;
-  margin: 6px 0 0;
-  font-size: clamp(2rem, 4vw, 4.2rem);
-  line-height: 0.98;
+  max-width: 520px;
+  margin: 3px 0 0;
+  font-size: clamp(1.28rem, 2.2vw, 2.15rem);
+  line-height: 1.02;
   font-weight: 650;
 }
 
@@ -79,9 +79,9 @@ input {
 
 .layout {
   display: grid;
-  grid-template-columns: 280px minmax(0, 1fr);
-  gap: 20px;
-  padding: 20px;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 12px;
+  padding: 14px 20px 20px;
 }
 
 .collection-list,
@@ -96,15 +96,15 @@ input {
 }
 
 .collection-list {
-  align-self: start;
-  position: sticky;
-  top: 20px;
-  padding: 16px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 6px 10px;
 }
 
 .collection-list h2,
 .references h3 {
-  margin: 0 0 12px;
+  margin: 0;
   font-family: "Avenir Next", "Gill Sans", sans-serif;
   font-size: 0.94rem;
   letter-spacing: 0.04em;
@@ -112,11 +112,12 @@ input {
 }
 
 .collection-card {
-  display: grid;
-  width: 100%;
-  gap: 4px;
-  margin: 0 0 10px;
-  padding: 13px;
+  display: flex;
+  align-items: baseline;
+  width: auto;
+  gap: 8px;
+  margin: 0;
+  padding: 7px 10px;
   text-align: left;
   color: var(--ink);
   background: var(--panel);
@@ -137,13 +138,17 @@ input {
   font-size: 0.88rem;
 }
 
+.collection-card span {
+  font-size: 0.78rem;
+}
+
 .collection-card strong {
   font-family: "Avenir Next", "Gill Sans", sans-serif;
   font-size: 1rem;
 }
 
 .collection-card.muted {
-  opacity: 0.7;
+  display: none;
 }
 
 .browser {
@@ -153,16 +158,33 @@ input {
 
 .browser-toolbar {
   display: flex;
-  align-items: end;
+  align-items: center;
   justify-content: space-between;
   gap: 18px;
-  padding: 18px;
+  padding: 14px 16px;
   border-bottom: 1px solid var(--line);
 }
 
 .browser-toolbar h2 {
-  margin: 4px 0 0;
-  font-size: 1.8rem;
+  max-width: 34rem;
+  margin: 2px 0 0;
+  font-size: clamp(1.25rem, 2vw, 1.7rem);
+  line-height: 1.1;
+}
+
+.sections-toggle {
+  display: inline-flex;
+  min-height: 40px;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 12px;
+  color: var(--accent-strong);
+  background: #edf6ef;
+  border: 1px solid rgba(47, 111, 82, 0.28);
+  border-radius: 6px;
+  cursor: pointer;
+  font-family: "Avenir Next", "Gill Sans", sans-serif;
+  font-weight: 800;
 }
 
 .search-box {
@@ -189,8 +211,8 @@ input {
 
 .browser-grid {
   display: grid;
-  grid-template-columns: 290px minmax(0, 1fr) 260px;
-  min-height: calc(100vh - 210px);
+  grid-template-columns: minmax(0, 1fr) 280px;
+  min-height: calc(100vh - 430px);
 }
 
 .chapter-nav,
@@ -201,13 +223,69 @@ input {
 }
 
 .chapter-nav {
-  border-right: 1px solid var(--line);
+  display: none;
+  position: fixed;
+  z-index: 40;
+  top: 86px;
+  left: 20px;
+  width: min(360px, calc(100vw - 40px));
+  max-height: calc(100vh - 108px);
+  background: rgba(255, 255, 255, 0.96);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  box-shadow: var(--shadow);
   overflow: auto;
+}
+
+.sections-open .chapter-nav {
+  display: block;
+}
+
+.sections-backdrop {
+  display: none;
+  position: fixed;
+  inset: 0;
+  z-index: 35;
+  background: rgba(23, 32, 26, 0.22);
+  border: 0;
+  cursor: default;
+}
+
+.sections-open .sections-backdrop {
+  display: block;
+}
+
+.section-nav-header {
+  display: flex;
+  align-items: stretch;
+  justify-content: space-between;
+  border-bottom: 1px solid var(--line);
+}
+
+.section-nav-header .summary {
+  flex: 1;
+  border-bottom: 0;
+}
+
+.sections-close {
+  width: 48px;
+  color: var(--muted);
+  background: transparent;
+  border: 0;
+  border-left: 1px solid var(--line);
+  cursor: pointer;
+  font-family: "Avenir Next", "Gill Sans", sans-serif;
+  font-size: 1.5rem;
+  line-height: 1;
+}
+
+.sections-close:hover {
+  color: var(--ink);
+  background: #edf3ee;
 }
 
 .summary {
   padding: 14px;
-  border-bottom: 1px solid var(--line);
 }
 
 .chapter-list {
@@ -261,7 +339,8 @@ input {
 
 .reader {
   min-width: 0;
-  max-height: calc(100vh - 210px);
+  max-height: calc(100vh - 430px);
+  min-height: 420px;
   overflow: auto;
   padding: 28px 34px;
   border: 0;
@@ -303,7 +382,8 @@ input {
 }
 
 .references {
-  max-height: calc(100vh - 210px);
+  max-height: calc(100vh - 430px);
+  min-height: 420px;
   overflow: auto;
   padding: 16px;
   border-left: 1px solid var(--line);
@@ -320,6 +400,167 @@ input {
   font-family: "Avenir Next", "Gill Sans", sans-serif;
   font-size: 0.9rem;
   text-decoration: none;
+}
+
+.glossary-panel {
+  height: clamp(260px, 34vh, 420px);
+  min-height: 180px;
+  max-height: 70vh;
+  overflow: auto;
+  resize: vertical;
+  padding: 16px;
+  background: rgba(255, 255, 255, 0.88);
+  border-top: 1px solid var(--line);
+}
+
+.glossary-panel-header {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 18px;
+  margin-bottom: 12px;
+}
+
+.glossary-panel h3 {
+  margin: 2px 0 0;
+  font-family: "Avenir Next", "Gill Sans", sans-serif;
+  font-size: 1.15rem;
+}
+
+.glossary-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 12px;
+}
+
+.glossary-entry {
+  padding: 11px;
+  background: #fffdf8;
+  border: 1px solid rgba(184, 135, 46, 0.25);
+  border-radius: 6px;
+}
+
+.glossary-entry.active {
+  border-color: var(--gold);
+  box-shadow: inset 3px 0 0 var(--gold);
+}
+
+.glossary-entry h4 {
+  margin: 0 0 5px;
+  font-family: "Avenir Next", "Gill Sans", sans-serif;
+  font-size: 0.98rem;
+}
+
+.glossary-scope,
+.glossary-source {
+  margin: 0 0 8px;
+  color: var(--muted);
+  font-family: "Avenir Next", "Gill Sans", sans-serif;
+  font-size: 0.78rem;
+  line-height: 1.35;
+}
+
+.glossary-source {
+  display: inline-block;
+  margin-top: 8px;
+  color: var(--accent-strong);
+  text-decoration: none;
+}
+
+.glossary-definition {
+  font-size: 0.9rem;
+  line-height: 1.45;
+}
+
+.glossary-uses,
+.glossary-uses-empty {
+  margin: 10px 0 0;
+  font-family: "Avenir Next", "Gill Sans", sans-serif;
+  font-size: 0.82rem;
+}
+
+.glossary-uses-toggle {
+  padding: 0;
+  color: var(--accent-strong);
+  background: transparent;
+  border: 0;
+  cursor: pointer;
+  font: inherit;
+  font-weight: 700;
+  text-align: left;
+}
+
+.glossary-uses-toggle::before {
+  content: "+";
+  display: inline-block;
+  width: 1em;
+  color: var(--muted);
+}
+
+.glossary-uses-toggle[aria-expanded="true"]::before {
+  content: "-";
+}
+
+.glossary-uses ul {
+  display: grid;
+  gap: 6px;
+  margin: 8px 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.glossary-uses button {
+  width: 100%;
+  padding: 7px 8px;
+  color: #2d3b34;
+  background: #f6f7f2;
+  border: 1px solid var(--line);
+  border-radius: 5px;
+  cursor: pointer;
+  text-align: left;
+  font-size: 0.8rem;
+  line-height: 1.35;
+}
+
+.glossary-uses button:hover {
+  border-color: rgba(47, 111, 82, 0.34);
+  background: #edf6ef;
+}
+
+.glossary-uses-empty {
+  color: var(--muted);
+}
+
+.glossary-term,
+.glossary-inline {
+  display: inline;
+  padding: 0 2px;
+  color: var(--accent-strong);
+  background: rgba(47, 111, 82, 0.10);
+  border: 0;
+  border-bottom: 1px dotted rgba(47, 111, 82, 0.65);
+  border-radius: 0;
+  cursor: pointer;
+  font: inherit;
+}
+
+.glossary-term:hover,
+.glossary-inline:hover {
+  background: rgba(184, 135, 46, 0.18);
+}
+
+.glossary-term-focus {
+  animation: glossary-pulse 1.2s ease-out;
+}
+
+@keyframes glossary-pulse {
+  0%, 100% {
+    background: rgba(47, 111, 82, 0.10);
+  }
+
+  35% {
+    background: rgba(184, 135, 46, 0.36);
+  }
 }
 
 mark {

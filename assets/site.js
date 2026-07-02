@@ -4,6 +4,10 @@ const state = {
   manifest: null,
   activeSection: null,
   sectionIndex: [],
+  glossaryEntries: [],
+  glossaryByTerm: new Map(),
+  visibleGlossary: [],
+  termUses: new Map(),
 };
 
 const els = {
@@ -13,6 +17,11 @@ const els = {
   chapterList: document.querySelector('#chapterList'),
   reader: document.querySelector('#reader'),
   references: document.querySelector('#referenceList'),
+  glossary: document.querySelector('#glossaryList'),
+  sectionsToggle: document.querySelector('#sectionsToggle'),
+  sectionsClose: document.querySelector('#sectionsClose'),
+  sectionsBackdrop: document.querySelector('#sectionsBackdrop'),
+  sectionNav: document.querySelector('#sectionNav'),
   search: document.querySelector('#searchInput'),
   download: document.querySelector('#downloadLink'),
 };
@@ -25,6 +34,8 @@ async function init() {
   const manifest = await fetchJson(manifestPath);
   state.manifest = manifest;
   state.sectionIndex = manifest.chapters.flatMap((chapter) => chapter.sections.map((section) => ({ chapter, section })));
+  state.glossaryEntries = await loadGlossary(manifest);
+  state.glossaryByTerm = buildGlossaryLookup(state.glossaryEntries);
 
   els.browserTitle.textContent = manifest.scope;
   els.collectionScope.textContent = manifest.collection;
@@ -33,6 +44,8 @@ async function init() {
 
   renderNavigation(manifest.chapters);
   bindSearch();
+  bindSectionsMenu();
+  bindGlossaryNavigation();
 
   const firstSection = manifest.chapters[0]?.sections[0];
   if (firstSection) {
@@ -70,7 +83,10 @@ function renderNavigation(chapters, query = '') {
       button.className = `section-button ${state.activeSection === section.sourceUrl ? 'active' : ''}`;
       button.type = 'button';
       button.textContent = section.title;
-      button.addEventListener('click', () => openSection(section.sourceUrl));
+      button.addEventListener('click', () => {
+        closeSectionsMenu();
+        openSection(section.sourceUrl);
+      });
       sectionList.append(button);
     });
     block.append(sectionList);
@@ -85,7 +101,37 @@ function renderNavigation(chapters, query = '') {
 function bindSearch() {
   els.search.addEventListener('input', () => {
     renderNavigation(state.manifest.chapters, els.search.value);
+    openSectionsMenu();
   });
+}
+
+function bindSectionsMenu() {
+  els.sectionsToggle.addEventListener('click', () => {
+    const isOpen = document.body.classList.contains('sections-open');
+    if (isOpen) {
+      closeSectionsMenu();
+    } else {
+      openSectionsMenu();
+    }
+  });
+  els.sectionsClose.addEventListener('click', closeSectionsMenu);
+  els.sectionsBackdrop.addEventListener('click', closeSectionsMenu);
+
+  document.addEventListener('keydown', (event) => {
+    if (event.key === 'Escape') {
+      closeSectionsMenu();
+    }
+  });
+}
+
+function openSectionsMenu() {
+  document.body.classList.add('sections-open');
+  els.sectionsToggle.setAttribute('aria-expanded', 'true');
+}
+
+function closeSectionsMenu() {
+  document.body.classList.remove('sections-open');
+  els.sectionsToggle.setAttribute('aria-expanded', 'false');
 }
 
 async function openSection(sourceUrl) {
@@ -97,10 +143,13 @@ async function openSection(sourceUrl) {
   renderNavigation(state.manifest.chapters, els.search.value);
 
   const markdown = await fetchText(match.section.markdownPath);
+  const glossaryEntries = glossaryEntriesForMarkdown(markdown, match.section);
   els.reader.innerHTML = renderMarkdown(markdown, els.search.value);
+  annotateGlossaryTerms(els.reader, glossaryEntries);
   els.reader.focus({ preventScroll: true });
   els.reader.scrollTop = 0;
   renderReferences(match.section.references);
+  renderGlossary(glossaryEntries);
 }
 
 function renderReferences(references) {
@@ -120,6 +169,236 @@ function renderReferences(references) {
       openSection(link.dataset.source);
     });
   });
+}
+
+function renderGlossary(entries, activeTerm = '') {
+  state.visibleGlossary = entries;
+  if (!entries.length) {
+    els.glossary.innerHTML = '<div class="muted-text">No glossary terms detected in this section.</div>';
+    return;
+  }
+
+  els.glossary.innerHTML = entries.map((entry) => {
+    const activeClass = entry.normalized === activeTerm ? ' active' : '';
+    const uses = state.termUses.get(entry.normalized) || [];
+    return `<article class="glossary-entry${activeClass}" id="glossary-${escapeHtml(entry.id)}" data-term="${escapeHtml(entry.normalized)}">
+      <h4>${escapeHtml(entry.term)}</h4>
+      <p class="glossary-scope">${escapeHtml(entry.scope || entry.source_title)}</p>
+      <div class="glossary-definition">${formatGlossaryDefinition(entry, entries)}</div>
+      ${formatGlossaryUses(entry, uses)}
+      <a class="glossary-source" href="${escapeHtml(entry.source_url)}" target="_blank" rel="noreferrer">${escapeHtml(entry.source_title)}</a>
+    </article>`;
+  }).join('');
+}
+
+function formatGlossaryUses(entry, uses) {
+  if (!uses.length) {
+    return '<p class="glossary-uses-empty">No uses detected in the active section.</p>';
+  }
+  const items = uses.map((use) => `<li><button type="button" data-use-id="${escapeHtml(use.id)}">${escapeHtml(use.context)}</button></li>`).join('');
+  return `<div class="glossary-uses">
+    <button class="glossary-uses-toggle" type="button" aria-expanded="false">Used ${uses.length} ${uses.length === 1 ? 'time' : 'times'} in this section</button>
+    <ul hidden>${items}</ul>
+  </div>`;
+}
+
+function formatGlossaryDefinition(entry, entries) {
+  const relatedEntries = entries
+    .filter((candidate) => candidate.normalized !== entry.normalized && candidate.term.length >= 5)
+    .sort((left, right) => right.term.length - left.term.length);
+  if (!relatedEntries.length) {
+    return escapeHtml(entry.definition).replace(/\n{2,}/g, '<br><br>');
+  }
+  const lookup = new Map(relatedEntries.map((candidate) => [candidate.normalized, candidate]));
+  const pattern = new RegExp(`\\b(${relatedEntries.map((candidate) => escapeRegExp(candidate.term)).join('|')})\\b`, 'gi');
+  return escapeHtml(entry.definition)
+    .replace(pattern, (match) => {
+      const relatedEntry = lookup.get(normalizeGlossaryTerm(match));
+      if (!relatedEntry) {
+        return match;
+      }
+      return `<button class="glossary-inline" type="button" data-term="${escapeHtml(relatedEntry.normalized)}">${match}</button>`;
+    })
+    .replace(/\n{2,}/g, '<br><br>');
+}
+
+function glossaryEntriesForMarkdown(markdown, section) {
+  const text = markdown
+    .split(/\r?\n/)
+    .filter((line) => !line.startsWith('Source:') && !line.startsWith('Scraped:') && !line.startsWith('# '))
+    .join(' ');
+  const preferred = new Map();
+
+  for (const entry of section.glossary || []) {
+    preferred.set(entry.normalized, entry);
+  }
+
+  for (const entry of state.glossaryEntries) {
+    if (entry.term.length < 5 || preferred.has(entry.normalized)) {
+      continue;
+    }
+    const pattern = new RegExp(`\\b${escapeRegExp(entry.term)}\\b`, 'i');
+    if (pattern.test(text)) {
+      preferred.set(entry.normalized, entry);
+    }
+  }
+
+  return [...preferred.values()].sort((left, right) => {
+    const leftIndex = text.toLowerCase().indexOf(left.term.toLowerCase());
+    const rightIndex = text.toLowerCase().indexOf(right.term.toLowerCase());
+    return normalizedIndex(leftIndex) - normalizedIndex(rightIndex) || left.term.localeCompare(right.term);
+  });
+}
+
+function annotateGlossaryTerms(root, entries) {
+  state.termUses = new Map();
+  if (!entries.length) {
+    return;
+  }
+  const terms = entries
+    .filter((entry) => entry.term.length >= 5)
+    .sort((left, right) => right.term.length - left.term.length);
+  if (!terms.length) {
+    return;
+  }
+  const lookup = new Map(terms.map((entry) => [entry.normalized, entry]));
+  const pattern = new RegExp(`\\b(${terms.map((entry) => escapeRegExp(entry.term)).join('|')})\\b`, 'gi');
+  const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT, {
+    acceptNode(node) {
+      pattern.lastIndex = 0;
+      return shouldAnnotateNode(node) && pattern.test(node.nodeValue) ? NodeFilter.FILTER_ACCEPT : NodeFilter.FILTER_REJECT;
+    },
+  });
+  const nodes = [];
+  while (walker.nextNode()) {
+    nodes.push(walker.currentNode);
+  }
+  for (const node of nodes) {
+    pattern.lastIndex = 0;
+    const fragment = document.createDocumentFragment();
+    let lastIndex = 0;
+    const context = contextForNode(node);
+    for (const match of node.nodeValue.matchAll(pattern)) {
+      const entry = lookup.get(normalizeGlossaryTerm(match[0]));
+      if (!entry) {
+        continue;
+      }
+      fragment.append(document.createTextNode(node.nodeValue.slice(lastIndex, match.index)));
+      const button = document.createElement('button');
+      button.className = 'glossary-term';
+      button.type = 'button';
+      button.dataset.term = entry.normalized;
+      button.id = termUseId(entry.normalized);
+      button.textContent = match[0];
+      recordTermUse(entry.normalized, button.id, context);
+      fragment.append(button);
+      lastIndex = match.index + match[0].length;
+    }
+    fragment.append(document.createTextNode(node.nodeValue.slice(lastIndex)));
+    node.replaceWith(fragment);
+  }
+}
+
+function termUseId(term) {
+  const count = (state.termUses.get(term)?.length || 0) + 1;
+  return `use-${term.replace(/[^a-z0-9]+/g, '-')}-${count}`;
+}
+
+function recordTermUse(term, id, context) {
+  const uses = state.termUses.get(term) || [];
+  uses.push({ id, context });
+  state.termUses.set(term, uses);
+}
+
+function contextForNode(node) {
+  const container = node.parentElement?.closest('p, li') || node.parentElement;
+  const text = normalizeText(container?.textContent || node.nodeValue || '');
+  return text.length > 130 ? `${text.slice(0, 127)}...` : text;
+}
+
+function shouldAnnotateNode(node) {
+  const parent = node.parentElement;
+  return parent && !parent.closest('a, button, h1, .source-line');
+}
+
+function bindGlossaryNavigation() {
+  document.addEventListener('click', (event) => {
+    const usageToggle = event.target.closest('.glossary-uses-toggle');
+    if (usageToggle && els.glossary.contains(usageToggle)) {
+      event.preventDefault();
+      toggleGlossaryUses(usageToggle);
+      return;
+    }
+
+    const useLink = event.target.closest('[data-use-id]');
+    if (useLink && els.glossary.contains(useLink)) {
+      event.preventDefault();
+      focusTermUse(useLink.dataset.useId);
+      return;
+    }
+
+    const trigger = event.target.closest('[data-term]');
+    if (!trigger || (!els.reader.contains(trigger) && !els.glossary.contains(trigger))) {
+      return;
+    }
+    event.preventDefault();
+    focusGlossaryTerm(trigger.dataset.term);
+  });
+}
+
+function toggleGlossaryUses(button) {
+  const list = button.nextElementSibling;
+  if (!list) {
+    return;
+  }
+  const isExpanded = button.getAttribute('aria-expanded') === 'true';
+  button.setAttribute('aria-expanded', String(!isExpanded));
+  list.hidden = isExpanded;
+}
+
+function focusGlossaryTerm(term) {
+  const normalizedTerm = normalizeGlossaryTerm(term);
+  let entry = state.visibleGlossary.find((candidate) => candidate.normalized === normalizedTerm);
+  if (!entry) {
+    entry = state.glossaryByTerm.get(normalizedTerm);
+    if (entry) {
+      renderGlossary([...state.visibleGlossary, entry], normalizedTerm);
+    }
+  } else {
+    renderGlossary(state.visibleGlossary, normalizedTerm);
+  }
+  const target = document.querySelector(`#glossary-${CSS.escape(entry?.id || '')}`);
+  if (target) {
+    target.scrollIntoView({ block: 'start', behavior: 'smooth' });
+  }
+}
+
+function focusTermUse(id) {
+  const target = document.getElementById(id);
+  if (!target) {
+    return;
+  }
+  target.scrollIntoView({ block: 'center', behavior: 'smooth' });
+  target.classList.add('glossary-term-focus');
+  window.setTimeout(() => target.classList.remove('glossary-term-focus'), 1200);
+}
+
+async function loadGlossary(manifest) {
+  if (!manifest.glossaryPath) {
+    return [];
+  }
+  const glossary = await fetchJson(manifest.glossaryPath);
+  return glossary.entries || [];
+}
+
+function buildGlossaryLookup(entries) {
+  const lookup = new Map();
+  for (const entry of entries) {
+    if (!lookup.has(entry.normalized)) {
+      lookup.set(entry.normalized, entry);
+    }
+  }
+  return lookup;
 }
 
 function renderMarkdown(markdown, query = '') {
@@ -194,6 +473,22 @@ function searchableText(chapter, section) {
 
 function normalize(value) {
   return String(value || '').toLowerCase();
+}
+
+function normalizeText(value) {
+  return String(value || '').replace(/\s+/g, ' ').trim();
+}
+
+function normalizeGlossaryTerm(value) {
+  return normalize(String(value || '').replace(/\s+/g, ' ').trim());
+}
+
+function normalizedIndex(index) {
+  return index === -1 ? Number.MAX_SAFE_INTEGER : index;
+}
+
+function escapeRegExp(value) {
+  return String(value).replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 }
 
 async function fetchJson(path) {

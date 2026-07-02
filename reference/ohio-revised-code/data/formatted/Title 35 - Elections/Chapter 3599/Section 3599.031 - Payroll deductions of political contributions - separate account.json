@@ -1,4 +1,26 @@
 {
+  "glossary": [
+    {
+      "definition": "(2) \"Public employer\" means an employer that is the state or a state agency, authority, commission, or board, a political subdivision of the state, a school district or state institution of higher learning, a public or special district, or any other public employer.",
+      "id": "3599.031-public-employer",
+      "normalized": "public employer",
+      "scope": "(H) As used in this section:",
+      "section": "3599.031",
+      "source_title": "Section 3599.031 - Payroll deductions of political contributions - separate account.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3599.031",
+      "term": "Public employer"
+    },
+    {
+      "definition": "(3) \"Employee\" includes only an employee who is a resident of or is employed in this state.",
+      "id": "3599.031-employee",
+      "normalized": "employee",
+      "scope": "(H) As used in this section:",
+      "section": "3599.031",
+      "source_title": "Section 3599.031 - Payroll deductions of political contributions - separate account.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3599.031",
+      "term": "Employee"
+    }
+  ],
   "kind": "section",
   "references": [
     {

@@ -1,4 +1,26 @@
 {
+  "glossary": [
+    {
+      "definition": "(1) \"Ballot\" means either a paper ballot or the relevant entry on a voter verified paper audit trail.",
+      "id": "3505.331-ballot",
+      "normalized": "ballot",
+      "scope": "(F) As used in this section:",
+      "section": "3505.331",
+      "source_title": "Section 3505.331 - Audit of election results.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3505.331",
+      "term": "Ballot"
+    },
+    {
+      "definition": "(2) \"Voter verified paper audit trail\" has the same meaning as in section 3506.01 of the Revised Code.\n\nLast updated January 17, 2025 at 11:29 AM",
+      "id": "3505.331-voter-verified-paper-audit-trail",
+      "normalized": "voter verified paper audit trail",
+      "scope": "(F) As used in this section:",
+      "section": "3505.331",
+      "source_title": "Section 3505.331 - Audit of election results.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/section-3505.331",
+      "term": "Voter verified paper audit trail"
+    }
+  ],
   "kind": "section",
   "references": [
     {

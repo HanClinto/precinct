@@ -34,6 +34,10 @@
             <p class="eyebrow" id="collectionScope">Ohio Revised Code</p>
             <h2 id="browserTitle">Title 35 - Elections</h2>
           </div>
+          <button class="sections-toggle" id="sectionsToggle" type="button" aria-controls="sectionNav" aria-expanded="false">
+            <span aria-hidden="true">☰</span>
+            Sections
+          </button>
           <label class="search-box">
             <span>Search</span>
             <input id="searchInput" type="search" placeholder="Search sections, chapters, or text">
@@ -41,8 +45,12 @@
         </div>
 
         <div class="browser-grid">
-          <nav class="chapter-nav" aria-label="Ohio Revised Code chapters">
-            <div id="summary" class="summary">Loading...</div>
+          <button class="sections-backdrop" id="sectionsBackdrop" type="button" aria-label="Close sections menu"></button>
+          <nav class="chapter-nav" id="sectionNav" aria-label="Ohio Revised Code chapters">
+            <div class="section-nav-header">
+              <div id="summary" class="summary">Loading...</div>
+              <button class="sections-close" id="sectionsClose" type="button" aria-label="Close sections menu">×</button>
+            </div>
             <div id="chapterList" class="chapter-list"></div>
           </nav>
 
@@ -50,11 +58,24 @@
             <div class="reader-empty">Loading Ohio Revised Code data...</div>
           </article>
 
-          <aside class="references" aria-label="Cross references">
-            <h3>References</h3>
-            <div id="referenceList" class="reference-list muted-text">Select a section to inspect references.</div>
+          <aside class="references" aria-label="Reference details">
+            <section class="rail-section" aria-labelledby="referencesHeading">
+              <h3 id="referencesHeading">References</h3>
+              <div id="referenceList" class="reference-list muted-text">Select a section to inspect references.</div>
+            </section>
           </aside>
         </div>
+
+        <section class="glossary-panel" aria-labelledby="glossaryHeading">
+          <div class="glossary-panel-header">
+            <div>
+              <p class="eyebrow">Connected Guide</p>
+              <h3 id="glossaryHeading">Glossary</h3>
+            </div>
+            <p class="muted-text">Drag the lower-right corner to resize.</p>
+          </div>
+          <div id="glossaryList" class="glossary-list muted-text">Select a section to inspect glossary terms.</div>
+        </section>
       </section>
     </main>
 

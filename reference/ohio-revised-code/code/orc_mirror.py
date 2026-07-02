@@ -416,6 +416,7 @@ def slug_filename(name: str) -> str:
 def format_page(page: Page) -> Path:
     title = page_title(page.html)
     kind = page_kind(page.url)
+    glossary: list[dict[str, str]] = []
     if kind == "title":
         references = extract_reference_links(page, r"/ohio-revised-code/chapter-35\d+", text_pattern=r"^Chapter\s+35\d+")
         body = index_markdown("Chapters", references)
@@ -427,6 +428,7 @@ def format_page(page: Page) -> Path:
         parser.feed(page.html)
         body = clean_section_markdown(parser.markdown())
         references = parser.references
+        glossary = extract_glossary(body, page.url, title)
     path = formatted_path_for_page(page)
     path.parent.mkdir(parents=True, exist_ok=True)
     content = f"Source: {page.url}\nScraped: {page.fetched_at}\n\n# {title}\n\n{body}\n"
@@ -437,6 +439,7 @@ def format_page(page: Page) -> Path:
         "source_url": page.url,
         "scraped": page.fetched_at,
         "references": references,
+        "glossary": glossary,
     }
     path.with_suffix(".json").write_text(json.dumps(metadata, indent=2, sort_keys=True) + "\n", encoding="utf-8")
     log(f"wrote  {path.relative_to(ROOT)}")
@@ -454,10 +457,67 @@ def clean_section_markdown(markdown: str) -> str:
     return markdown.strip()
 
 
+def extract_glossary(markdown: str, source_url: str, source_title: str) -> list[dict[str, str]]:
+    lines = [line.strip() for line in markdown.splitlines()]
+    definitions: list[tuple[int, list[str], str]] = []
+    current_scope = ""
+    for index, line in enumerate(lines):
+        if not line:
+            continue
+        if "as used" in line.lower() and line.endswith(":"):
+            current_scope = line
+            continue
+        terms = quoted_definition_terms(line)
+        if terms:
+            definitions.append((index, terms, current_scope))
+
+    entries: list[dict[str, str]] = []
+    section_number = section_number_for_url(source_url)
+    for position, (start_index, terms, scope) in enumerate(definitions):
+        end_index = definitions[position + 1][0] if position + 1 < len(definitions) else len(lines)
+        definition = "\n\n".join(line for line in lines[start_index:end_index] if line)
+        for term in terms:
+            entries.append({
+                "id": glossary_id(section_number, term),
+                "term": term,
+                "normalized": normalize_glossary_term(term),
+                "definition": definition,
+                "scope": scope,
+                "source_title": source_title,
+                "source_url": source_url,
+                "section": section_number,
+            })
+    return entries
+
+
+def quoted_definition_terms(line: str) -> list[str]:
+    if "\"" not in line:
+        return []
+    definition_match = re.search(r'((?:"[^"]+"\s*(?:,?\s*(?:or|and)\s*)?)+)\s+(means?|includes?|does not include|has the same meaning|have the same meaning)\b', line, flags=re.IGNORECASE)
+    if not definition_match:
+        return []
+    return [normalize_text(term) for term in re.findall(r'"([^"]+)"', definition_match.group(1))]
+
+
+def section_number_for_url(url: str) -> str:
+    match = re.search(r"/section-(\d+(?:\.\d+)?)", urllib.parse.urlparse(url).path)
+    return match.group(1) if match else ""
+
+
+def normalize_glossary_term(term: str) -> str:
+    return normalize_text(term).lower()
+
+
+def glossary_id(section_number: str, term: str) -> str:
+    slug = re.sub(r"[^a-z0-9]+", "-", normalize_glossary_term(term)).strip("-")
+    return f"{section_number}-{slug}" if section_number else slug
+
+
 def write_manifest() -> Path:
     title_root = FORMATTED_DIR / "Title 35 - Elections"
     title_metadata = json.loads((title_root / "README.json").read_text(encoding="utf-8"))
     chapters = []
+    glossary_entries = []
     section_count = 0
     for chapter_reference in title_metadata["references"]:
         chapter_metadata_path = find_metadata_by_source_url(title_root, chapter_reference["url"])
@@ -474,7 +534,9 @@ def write_manifest() -> Path:
                 "markdownPath": repo_relative_path(section_metadata_path.with_suffix(".md")),
                 "metadataPath": repo_relative_path(section_metadata_path),
                 "references": section_metadata["references"],
+                "glossary": section_metadata.get("glossary", []),
             })
+            glossary_entries.extend(section_metadata.get("glossary", []))
         section_count += len(sections)
         chapters.append({
             "number": chapter_reference["number"],
@@ -494,14 +556,19 @@ def write_manifest() -> Path:
         "counts": {
             "chapters": len(chapters),
             "sections": section_count,
+            "glossaryTerms": len(glossary_entries),
         },
         "downloads": {
             "zip": "https://github.com/HanClinto/precinct/releases/download/orc-title-35-latest/ohio-revised-code-title-35.zip",
         },
         "markdownPath": repo_relative_path(title_root / "README.md"),
         "metadataPath": repo_relative_path(title_root / "README.json"),
+        "glossaryPath": repo_relative_path(title_root / "glossary.json"),
         "chapters": chapters,
     }
+    glossary_path = title_root / "glossary.json"
+    glossary_path.write_text(json.dumps({"entries": sorted(glossary_entries, key=lambda entry: (entry["normalized"], entry["section"]))}, indent=2, sort_keys=True) + "\n", encoding="utf-8")
+    log(f"wrote  {glossary_path.relative_to(ROOT)}")
     path = title_root / "manifest.json"
     path.write_text(json.dumps(manifest, indent=2, sort_keys=True) + "\n", encoding="utf-8")
     log(f"wrote  {path.relative_to(ROOT)}")

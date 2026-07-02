@@ -31,7 +31,9 @@ section URL separately. It writes cleaned Markdown into
 `data/formatted/Title 35 - Elections`, organized by chapter and section. Each
 formatted Markdown file also gets a `.json` sidecar containing structured ORC
 references found in the same body or index content, leaving the Markdown
-readable while preserving reference data for future auto-linking.
+readable while preserving reference data for future auto-linking. Section
+sidecars also include extracted glossary definitions, and the Title 35 folder
+gets a combined `glossary.json` for the GitHub Pages browser.
 
 By default, existing raw HTML is reused so interrupted runs can resume without
 hammering the source site. Use `--force` to refresh already-downloaded pages and
