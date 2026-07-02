@@ -71,7 +71,7 @@ async function loadTitle(title, options = {}) {
   els.collectionScope.textContent = manifest.collection;
   els.summary.textContent = `${manifest.counts.chapters} chapters, ${manifest.counts.sections} sections`;
   els.download.href = manifest.downloads.zip;
-  els.download.textContent = manifest.scope === defaultTitleScope ? 'Download ORC Title 35 ZIP' : 'Download ORC ZIP';
+  els.download.textContent = 'Download ORC ZIP';
   els.titleSelect.value = title.manifestPath;
 
   renderNavigation(manifest.chapters);
