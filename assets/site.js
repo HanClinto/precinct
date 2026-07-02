@@ -616,6 +616,13 @@ function bindGlossaryNavigation() {
 
 function bindReaderNavigation() {
   els.reader.addEventListener('click', async (event) => {
+    const chapterLink = event.target.closest('[data-inline-chapter-number]');
+    if (chapterLink && els.reader.contains(chapterLink)) {
+      event.preventDefault();
+      await openInlineChapter(chapterLink);
+      return;
+    }
+
     const link = event.target.closest('[data-inline-section-title]');
     if (!link || !els.reader.contains(link)) {
       return;
@@ -627,6 +634,21 @@ function bindReaderNavigation() {
       location.href = link.dataset.inlineSectionUrl;
     }
   });
+}
+
+async function openInlineChapter(link) {
+  const title = state.titleIndex.find((candidate) => candidate.manifestPath === link.dataset.inlineSectionTitle);
+  if (!title) {
+    location.href = link.dataset.inlineChapterUrl;
+    return;
+  }
+  const manifest = title.manifestPath === state.currentTitle?.manifestPath ? state.manifest : await loadManifest(title);
+  const section = manifest.chapters.find((chapter) => chapter.number === link.dataset.inlineChapterNumber)?.sections[0];
+  if (!section) {
+    location.href = link.dataset.inlineChapterUrl;
+    return;
+  }
+  await openInternalSection(title, section.sourceUrl, section.number);
 }
 
 function toggleGlossaryUses(button) {
@@ -826,15 +848,72 @@ function formatSourceLine(line) {
 }
 
 function linkInlineSections(html) {
-  return html.replace(/\b(section|sections)\s+(\d+[\w.-]*)/gi, (match, label, number) => {
-    const title = titleForSectionNumber(number);
-    if (!title) {
-      return match;
-    }
-    const sourceUrl = `https://codes.ohio.gov/ohio-revised-code/section-${number}`;
-    const route = routeForReference({ number, url: sourceUrl }, title);
-    return `${label} <a href="${escapeHtml(route)}" data-inline-section-number="${escapeHtml(number)}" data-inline-section-url="${escapeHtml(sourceUrl)}" data-inline-section-title="${escapeHtml(title.manifestPath)}">${escapeHtml(number)}</a>`;
+  const sectionPattern = /\bsections?\s+\d+(?:\.\d+)?\.?(?:(?:\s+(?:or|and|to|through|-)\s+)\d+(?:\.\d+)?\.?){0,3}/gi;
+  const withSections = html.replace(sectionPattern, (match) => linkInlineReferencePhrase(match, 'section'));
+  const chapterPattern = /\bChapters?\s+\d+\.?(?:(?:\s+(?:or|and|to|through|-)\s+)\d+\.?){0,3}/g;
+  return withSections.replace(chapterPattern, (match) => linkInlineReferencePhrase(match, 'chapter'));
+}
+
+function linkInlineReferencePhrase(phrase, kind) {
+  const numberPattern = kind === 'chapter' ? /\d+\.?/g : /\d+(?:\.\d+)?\.?/g;
+  return phrase.replace(numberPattern, (numberWithPunctuation) => {
+    const punctuation = numberWithPunctuation.endsWith('.') ? '.' : '';
+    const number = punctuation ? numberWithPunctuation.slice(0, -1) : numberWithPunctuation;
+    return kind === 'chapter'
+      ? formatInlineChapterNumber(number, punctuation)
+      : formatInlineSectionNumber(number, punctuation);
   });
+}
+
+function formatInlineSectionNumber(number, punctuation = '') {
+  const link = inlineSectionLink(number);
+  return `${link || escapeHtml(number)}${punctuation}`;
+}
+
+function inlineSectionLink(number) {
+  const title = titleForSectionNumber(number);
+  if (!title || isActiveSectionNumber(number)) {
+    return '';
+  }
+  const sourceUrl = `https://codes.ohio.gov/ohio-revised-code/section-${number}`;
+  const route = routeForReference({ number, url: sourceUrl }, title);
+  return `<a href="${escapeHtml(route)}" data-inline-section-number="${escapeHtml(number)}" data-inline-section-url="${escapeHtml(sourceUrl)}" data-inline-section-title="${escapeHtml(title.manifestPath)}">${escapeHtml(number)}</a>`;
+}
+
+function formatInlineChapterNumber(number, punctuation = '') {
+  const title = titleForChapterNumber(number);
+  if (!title) {
+    return `${escapeHtml(number)}${punctuation}`;
+  }
+  const sourceUrl = `https://codes.ohio.gov/ohio-revised-code/chapter-${number}`;
+  const route = routeForChapter(number, title);
+  return `<a href="${escapeHtml(route)}" data-inline-chapter-number="${escapeHtml(number)}" data-inline-chapter-url="${escapeHtml(sourceUrl)}" data-inline-section-title="${escapeHtml(title.manifestPath)}">${escapeHtml(number)}</a>${punctuation}`;
+}
+
+function routeForChapter(number, title) {
+  const firstSection = firstSectionForChapter(number, title);
+  if (!firstSection) {
+    return title.scope === defaultTitleScope ? '#' : `#title=${encodeURIComponent(title.scope).replace(/%20/g, '+')}`;
+  }
+  return routeForReference({ number: firstSection.number, url: firstSection.sourceUrl }, title);
+}
+
+function firstSectionForChapter(number, title) {
+  const manifest = title.manifestPath === state.currentTitle?.manifestPath ? state.manifest : state.manifestCache.get(title.manifestPath);
+  return manifest?.chapters
+    .find((chapter) => chapter.number === number)
+    ?.sections[0] || null;
+}
+
+function titleForChapterNumber(number) {
+  return state.titleIndex
+    .map((title) => ({ title, number: titleNumber(title) }))
+    .filter(({ number: titleNumberValue }) => titleNumberValue && number.startsWith(titleNumberValue))
+    .sort((left, right) => right.number.length - left.number.length)[0]?.title || null;
+}
+
+function isActiveSectionNumber(number) {
+  return activeSection()?.number === number;
 }
 
 function highlight(html, query) {
