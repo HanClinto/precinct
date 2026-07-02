@@ -1,0 +1,20 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3511.011
+Scraped: 2026-07-02T16:43:29+00:00
+
+# Section 3511.011 - Poll list to identify electors requesting absent voter's ballot.
+
+**Effective:** October 27, 2011
+
+**Latest Legislation:** House Bill 224 - 129th General Assembly
+
+Any section of the Revised Code to the contrary notwithstanding, any person who qualifies as a uniformed services voter or an overseas voter who will be eighteen years of age or more on the day of a general or special election and who is a citizen of the United States may vote uniformed services or overseas absent voter's ballots in such general or special election as follows:
+
+(A) If an absent uniformed services member is the voter, the service member may vote only in the precinct in which the service member has a voting residence in the state, and that voting residence shall be that place in the precinct in which the service member resided immediately preceding the commencement of such service, provided that the time during which the service member continuously resided in the state immediately preceding the commencement of such service plus the time subsequent to such commencement and prior to the day of such general, special, or primary election is equal to or exceeds thirty days.
+
+(B) If the spouse or dependent of an absent uniformed services member is the voter, the spouse or dependent may vote only in the precinct in which the spouse or dependent has a voting residence in the state, and that voting residence shall be that place in the precinct in which the spouse or dependent resided immediately preceding the time of leaving the state for the purpose of being with or near the service member, provided that the time during which the spouse or dependent continuously resided in the state immediately preceding the time of leaving the state for the purpose of being with or near the service member plus the time subsequent to such leaving and prior to the day of such general, special, or primary election is equal to or exceeds thirty days.
+
+(C) If an absent uniformed services member or the service member's spouse or dependent establishes a permanent residence in a precinct other than the precinct in which the person resided immediately preceding the commencement of the service member's service, the voting residence of both the service member and the service member's spouse or dependent shall be the precinct of such permanent residence, provided that the time during which the service member continuously resided in the state immediately preceding the commencement of such service plus the time subsequent to such commencement and prior to the day of such general, special, or primary election is equal to or exceeds thirty days.
+
+(D)(1) Except as otherwise provided in division (D)(2) of this section, if an overseas voter who is not an absent uniformed services voter or the spouse or dependent of an absent uniformed services voter is the voter, the overseas voter may vote only in the precinct in which the overseas voter has a voting residence in the state, and that voting residence shall be that place in the precinct in which the overseas voter resided immediately before leaving the United States, provided that the time during which the overseas voter continuously resided in the state immediately preceding such departure and prior to the day of such general, special, or primary election is equal to or exceeds thirty days.
+
+(2) A person who was born outside of the United States and who meets the definition of "overseas voter" under division (B)(3) of section 3511.01 of the Revised Code shall be deemed to have a voting residence in this state at that place in the precinct in which the person's parent or guardian last resided immediately before leaving the United States, provided that the time during which the person's parent or guardian continuously resided in the state immediately preceding such departure and prior to the day of the general, special, or primary election is equal to or exceeds thirty days.

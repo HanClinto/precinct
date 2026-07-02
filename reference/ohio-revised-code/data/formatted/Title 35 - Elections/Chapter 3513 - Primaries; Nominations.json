@@ -1,0 +1,326 @@
+{
+  "kind": "chapter",
+  "references": [
+    {
+      "kind": "section",
+      "label": "Section 3513.01 - Primary elections.",
+      "number": "3513.01",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3513.01"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3513.02 - Certificate of nomination when no primary necessary.",
+      "number": "3513.02",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3513.02"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3513.03 - Election officials for primary elections.",
+      "number": "3513.03",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3513.03"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3513.04 - Filing declaration of candidacy.",
+      "number": "3513.04",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3513.04"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3513.041 - Write-in votes.",
+      "number": "3513.041",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3513.041"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3513.05 - Deadline for filing declaration of candidacy.",
+      "number": "3513.05",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3513.05"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3513.051 - County central committee may determine no need for petition.",
+      "number": "3513.051",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3513.051"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3513.052 - Candidacy for more than one office at a time prohibited.",
+      "number": "3513.052",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3513.052"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3513.06 - Change of name of candidate.",
+      "number": "3513.06",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3513.06"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3513.07 - Form of declaration of candidacy and petition.",
+      "number": "3513.07",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3513.07"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3513.08 - Declaration of candidacy for judicial office.",
+      "number": "3513.08",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3513.08"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3513.09 - Candidate's signature.",
+      "number": "3513.09",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3513.09"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3513.10 - Filing fees.",
+      "number": "3513.10",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3513.10"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3513.11 - State convention of major political parties.",
+      "number": "3513.11",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3513.11"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3513.111 - Nominating candidates for election as presidential electors.",
+      "number": "3513.111",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3513.111"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3513.12 - Delegates to national party convention.",
+      "number": "3513.12",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3513.12"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3513.121 - Delegates to national party convention alternative procedures.",
+      "number": "3513.121",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3513.121"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3513.122 - Electing delegates and alternates to other national conventions or conferences.",
+      "number": "3513.122",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3513.122"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3513.13 - Separate primary election ballots for political parties.",
+      "number": "3513.13",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3513.13"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3513.131 - Candidates with identical surnames.",
+      "number": "3513.131",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3513.131"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3513.14 - Primary election ballot form.",
+      "number": "3513.14",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3513.14"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3513.141 - Ranked choice voting in primaries prohibited.",
+      "number": "3513.141",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3513.141"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3513.15 - Rotating names of candidates on ballot.",
+      "number": "3513.15",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3513.15"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3513.151 - Arrangement of names of candidates for delegate and alternate to national convention of political party.",
+      "number": "3513.151",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3513.151"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3513.16 - Designation of term for judge of court of common pleas on primary ballot.",
+      "number": "3513.16",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3513.16"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3513.17 - Death of candidate before primary election.",
+      "number": "3513.17",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3513.17"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3513.18 - Primary election pollbooks.",
+      "number": "3513.18",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3513.18"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3513.19 - Challenges at primary elections.",
+      "number": "3513.19",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3513.19"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3513.191 - Disqualification of candidate for party primary.",
+      "number": "3513.191",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3513.191"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3513.192 - Forfeiting nomination.",
+      "number": "3513.192",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3513.192"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3513.20 - Effect of challenge to voter at primary.",
+      "number": "3513.20",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3513.20"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3513.21 - Counting and return of ballots.",
+      "number": "3513.21",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3513.21"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3513.22 - Canvass and certification of votes.",
+      "number": "3513.22",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3513.22"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3513.23 - Write-in votes.",
+      "number": "3513.23",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3513.23"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3513.24 - Canvass of votes for members of party committees.",
+      "number": "3513.24",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3513.24"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3513.251 - Nomination for officers of municipal corporation.",
+      "number": "3513.251",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3513.251"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3513.253 - Nomination for officers of township.",
+      "number": "3513.253",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3513.253"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3513.254 - Nomination for members of board of education.",
+      "number": "3513.254",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3513.254"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3513.255 - Petitions for member of governing board of educational service center.",
+      "number": "3513.255",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3513.255"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3513.256 - Procedures for a nonpartisan primary election.",
+      "number": "3513.256",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3513.256"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3513.257 - Independent candidates statements of candidacy and nominating petitions.",
+      "number": "3513.257",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3513.257"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3513.261 - Nominating petition form and fee.",
+      "number": "3513.261",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3513.261"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3513.262 - Filing deadline for nominating petitions.",
+      "number": "3513.262",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3513.262"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3513.263 - Processing nominating petitions.",
+      "number": "3513.263",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3513.263"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3513.271 - Name change within five years immediately preceding filing of statement of candidacy.",
+      "number": "3513.271",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3513.271"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3513.28 - Designation of term.",
+      "number": "3513.28",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3513.28"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3513.30 - Death or withdrawal of candidate before primary election.",
+      "number": "3513.30",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3513.30"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3513.301 - Special election of party candidate for Congress.",
+      "number": "3513.301",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3513.301"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3513.31 - Withdrawal, disqualification, or death of candidate prior to general election.",
+      "number": "3513.31",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3513.31"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3513.311 - Withdrawal, disqualification, or death of governor or lieutenant governor candidate prior to general election.",
+      "number": "3513.311",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3513.311"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3513.312 - Withdrawal, disqualification, or death of Congress candidate prior to general election.",
+      "number": "3513.312",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3513.312"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3513.32 - Primary preceding special election.",
+      "number": "3513.32",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3513.32"
+    },
+    {
+      "kind": "section",
+      "label": "Section 3513.33 - Notice of prohibited campaign practices.",
+      "number": "3513.33",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3513.33"
+    }
+  ],
+  "scraped": "2026-07-02T16:43:49+00:00",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-3513",
+  "title": "Chapter 3513 - Primaries; Nominations"
+}

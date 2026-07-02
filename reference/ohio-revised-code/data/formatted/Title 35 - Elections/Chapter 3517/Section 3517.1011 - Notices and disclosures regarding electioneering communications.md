@@ -1,0 +1,126 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3517.1011
+Scraped: 2026-07-02T16:44:30+00:00
+
+# Section 3517.1011 - Notices and disclosures regarding electioneering communications.
+
+**Effective:** January 1, 2021
+
+**Latest Legislation:** Senate Bill 107 - 133rd General Assembly
+
+(A) As used in this section:
+
+(1) "Address" has the same meaning as in section 3517.10 of the Revised Code.
+
+(2) "Broadcast, cable, or satellite communication" means a communication that is publicly distributed by a television station, radio station, cable television system, or satellite system.
+
+(3) "Candidate" has the same meaning as in section 3501.01 of the Revised Code.
+
+(4) "Contribution" means any loan, gift, deposit, forgiveness of indebtedness, donation, advance, payment, or transfer of funds or of anything of value, including a transfer of funds from an inter vivos or testamentary trust or decedent's estate, and the payment by any person other than the person to whom the services are rendered for the personal services of another person, that is made, received, or used to pay the direct costs of producing or airing electioneering communications.
+
+(5)(a) "Coordinated electioneering communication" means any electioneering communication that is made pursuant to any arrangement, coordination, or direction by a candidate or a candidate's campaign committee, by an officer, agent, employee, or consultant of a candidate or a candidate's campaign committee, or by a former officer, former agent, former employee, or former consultant of a candidate or a candidate's campaign committee prior to the airing, broadcasting, or cablecasting of the communication. An electioneering communication is presumed to be a "coordinated electioneering communication" when it is either of the following:
+
+(i) Based on information about a candidate's plans, projects, or needs provided to the person making the disbursement by the candidate or the candidate's campaign committee, by an officer, agent, employee, or consultant of the candidate or the candidate's campaign committee, or by a former officer, former agent, former employee, or former consultant of the candidate or the candidate's campaign committee, with a view toward having the communication made;
+
+(ii) Made by or through any person who is, or has been, authorized to raise or expend funds on behalf of a candidate or the candidate's campaign committee, who is, or has been, an officer, agent, employee, or consultant of the candidate or of the candidate's campaign committee, or who is, or has been, receiving any form of compensation or reimbursement from the candidate or the candidate's campaign committee or from an officer, agent, employee, or consultant of the candidate or of the candidate's campaign committee.
+
+(b) An electioneering communication shall not be presumed to be a "coordinated electioneering communication" under division (A)(5)(a)(ii) of this section if the communication is made through any person who provides a service that does not affect the content of the communication, such as communications placed through the efforts of a media buyer, unless that person also affects the content of the communication.
+
+(6) "Disclosure date" means both of the following:
+
+(a) The first date during any calendar year by which a person makes disbursements for the direct costs of producing or airing electioneering communications aggregating in excess of ten thousand dollars;
+
+(b) The same day of the week of each remaining week in the same calendar year as the day of the week of the initial disclosure date established under division (A)(6)(a) of this section, if, during that remaining week, the person makes disbursements for the direct costs of producing or airing electioneering communications aggregating in excess of one dollar.
+
+(7)(a) "Electioneering communication" means any broadcast, cable, or satellite communication that refers to a clearly identified candidate and that is made during either of the following periods of time:
+
+(i) If the person becomes a candidate before the day of the primary election at which candidates will be nominated for election to that office, between the date that the person becomes a candidate and the thirtieth day prior to that primary election, and between the date of the primary election and the thirtieth day prior to the general election at which a candidate will be elected to that office;
+
+(ii) If the person becomes a candidate after the day of the primary election at which candidates were nominated for election to that office, between the date of the primary election and the thirtieth day prior to the general election at which a candidate will be elected to that office.
+
+(b) "Electioneering communication" does not include any of the following:
+
+(i) A communication that is publicly disseminated through a means of communication other than a broadcast, cable, or satellite television or radio station. For example, "electioneering communication" does not include communications appearing in print media, including a newspaper or magazine, handbill, brochure, bumper sticker, yard sign, poster, billboard, and other written materials, including mailings; communications over the internet, including electronic mail; or telephone communications.
+
+(ii) A communication that appears in a news story, commentary, public service announcement, bona fide news programming, or editorial distributed through the facilities of any broadcast, cable, or satellite television or radio station, unless those facilities are owned or controlled by any political party, political committee, or candidate;
+
+(iii) A communication that constitutes an expenditure or an independent expenditure under section 3517.01 of the Revised Code;
+
+(iv) A communication that constitutes a candidate debate or forum or that solely promotes a candidate debate or forum and is made by or on behalf of the person sponsoring the debate or forum.
+
+(8) "Filing date" has the same meaning as in section 3517.109 of the Revised Code.
+
+(9) "Immigration and Nationality Act" means the Immigration and Nationality Act, 110 Stat. 309 (1996), 8 U.S.C. 1101 et seq., as amended.
+
+(10) "Person" has the same meaning as in section 1.59 of the Revised Code and includes any political organization considered exempt from income taxation under section 527 of the Internal Revenue Code.
+
+(11) "Political committee" means any of the following:
+
+(a) Any committee, club, association, or other group of persons that receives contributions aggregating in excess of one thousand dollars during a calendar year or that makes expenditures aggregating in excess of one thousand dollars during a calendar year;
+
+(b) Any separate segregated fund;
+
+(c) Any state, county, or local committee of a political party that does any of the following:
+
+(i) Receives contributions aggregating in excess of five thousand dollars during a calendar year;
+
+(ii) Makes payments that do not constitute contributions or expenditures aggregating in excess of five thousand dollars during a calendar year;
+
+(iii) Makes contributions or expenditures aggregating in excess of one thousand dollars during a calendar year.
+
+(12) "Publicly distributed" means aired, broadcast, cablecast, or otherwise disseminated for a fee.
+
+(13) "Refers to a clearly identified candidate" means that the candidate's name, nickname, photograph, or drawing appears, or the identity of the candidate is otherwise apparent through an unambiguous reference to the person such as "the chief justice," "the governor," "member of the Ohio senate," "member of the Ohio house of representatives," "county auditor," "mayor," or "township trustee" or through an unambiguous reference to the person's status as a candidate.
+
+(B) For the purposes of this section, a person shall be considered to have made a disbursement if the person has entered into a contract to make the disbursement.
+
+(C) Any person intending to make a disbursement or disbursements for the direct costs of producing or airing electioneering communications, prior to making the first disbursement for the direct costs of producing or airing an electioneering communication, shall file a notice with the office of the secretary of state that the person is intending to make such disbursements.
+
+(D)(1) Every person that makes a disbursement or disbursements for the direct costs of producing and airing electioneering communications aggregating in excess of ten thousand dollars during any calendar year shall file, within twenty-four hours of each disclosure date, a disclosure of electioneering communications statement containing the following information:
+
+(a) The full name and address of the person making the disbursement, of any person sharing or exercising direction or control over the activities of the person making the disbursement, and of the custodian of the books and accounts of the person making the disbursement;
+
+(b) The principal place of business of the person making the disbursement, if not an individual;
+
+(c) The amount of each disbursement of more than one dollar during the period covered by the statement and the identity of the person to whom the disbursement was made;
+
+(d) The nominations or elections to which the electioneering communications pertain and the names, if known, of the candidates identified or to be identified;
+
+(e) If the disbursements were paid out of a segregated bank account that consists of funds contributed solely by individuals who are United States citizens or nationals or lawfully admitted for permanent residence as defined in section 101(a)(20) of the Immigration and Nationality Act directly to the account for electioneering communications, the information specified in division (D)(2) of this section for all contributors who contributed an aggregate amount of two hundred dollars or more to the segregated bank account and whose contributions were used for making the disbursement or disbursements required to be reported under division (D) of this section during the period covered by the statement. Nothing in this division prohibits or shall be construed to prohibit the use of funds in such a segregated bank account for a purpose other than electioneering communications.
+
+(f) If the disbursements were paid out of funds not described in division (D)(1)(e) of this section, the information specified in division (D)(2) of this section for all contributors who contributed an aggregate amount of two hundred dollars or more to the person making the disbursement and whose contributions were used for making the disbursement or disbursements required to be reported under division (D) of this section during the period covered by the statement.
+
+(2) For each contributor for which information is required to be reported under division (D)(1)(e) or (f) of this section, all of the following shall be reported:
+
+(a) The month, day, and year that the contributor made the contribution or contributions aggregating two hundred dollars or more;
+
+(b)(i) The full name and address of the contributor, and, if the contributor is a political action committee, the registration number assigned to the political action committee under division (D)(1) of section 3517.10 of the Revised Code;
+
+(ii) If the contributor is an individual, the name of the individual's current employer, if any, or, if the individual is self-employed, the individual's occupation and the name of the individual's business, if any;
+
+(iii) If the contribution is transmitted pursuant to section 3599.031 of the Revised Code from amounts deducted from the wages and salaries of two or more employees that exceed in the aggregate one hundred dollars during the period specified in division (D)(1)(e) or (f) of this section, as applicable, the full name of the employees' employer and the full name of the labor organization of which the employees are members, if any.
+
+(c) A description of the contribution, if other than money;
+
+(d) The value in dollars and cents of the contribution.
+
+(3) Subject to the secretary of state having implemented, tested, and verified the successful operation of any system the secretary of state prescribes pursuant to divisions (C)(6)(b) and (D)(6) of section 3517.10 and division (F)(1) of section 3517.106 of the Revised Code for the filing of campaign finance statements by electronic means of transmission, a person shall file the disclosure of electioneering communications statement prescribed under divisions (D)(1) and (2) of this section by electronic means of transmission to the office of the secretary of state.
+
+Within five business days after the secretary of state receives a disclosure of electioneering communications statement under this division, the secretary of state shall make available online to the public through the internet, as provided in division (G) of section 3517.106 of the Revised Code, the contribution and disbursement information in that statement.
+
+If a filed disclosure of electioneering communications statement is found to be incomplete or inaccurate after its examination for completeness and accuracy pursuant to division (B)(3)(a) of section 3517.11 of the Revised Code, the person shall file by electronic means of transmission to the office of the secretary of state any addendum, amendment, or other correction to the statement that provides the information necessary to complete or correct the statement or, if required by the secretary of state under that division, an amended statement.
+
+Within five business days after the secretary of state receives an addendum, amendment, or other correction to a disclosure of electioneering communications statement or an amended statement by electronic means of transmission under this division or division (B)(3)(a) of section 3517.11 of the Revised Code, the secretary of state shall make the contribution and disbursement information in the addendum, amendment, or other correction to the statement or amended statement available online to the public through the internet as provided in division (G) of section 3517.106 of the Revised Code.
+
+(E)(1) Any person who makes a contribution for the purpose of funding the direct costs of producing or airing an electioneering communication under this section shall provide the person's full name and address to the recipient of the contribution at the time the contribution is made.
+
+(2) Any individual who makes a contribution or contributions aggregating two hundred dollars or more for the purpose of funding the direct costs of producing or airing an electioneering communication under this section shall provide the name of the individual's current employer, if any, or, if the individual is self-employed, the individual's occupation and the name of the individual's business, if any, to the recipient of the contribution at the time the contribution is made.
+
+(F) In each electioneering communication, a statement shall appear or be presented in a clear and conspicuous manner that does both of the following:
+
+(1) Clearly indicates that the electioneering communication is not authorized by the candidate or the candidate's campaign committee;
+
+(2) Clearly identifies the person making the disbursement for the electioneering communication in accordance with section 3517.20 of the Revised Code.
+
+(G) Any coordinated electioneering communication is an in-kind contribution, subject to the applicable contribution limits prescribed in section 3517.102 of the Revised Code, to the candidate by the person making disbursements to pay the direct costs of producing or airing the communication.
+
+(H) No person shall make, during the thirty days preceding a primary election or during the thirty days preceding a general election, any broadcast, cable, or satellite communication that refers to a clearly identified candidate using any contributions received from a corporation or labor organization.

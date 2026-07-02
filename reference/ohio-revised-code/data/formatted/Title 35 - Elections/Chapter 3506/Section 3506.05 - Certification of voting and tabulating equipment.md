@@ -1,0 +1,108 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3506.05
+Scraped: 2026-07-02T16:42:47+00:00
+
+# Section 3506.05 - Certification of voting and tabulating equipment.
+
+**Effective:** April 9, 2025
+
+**Latest Legislation:** House Bill 74 - 135th General Assembly
+
+(A) As used in this section:
+
+(1) "Electronic pollbook" means an electronic list of registered voters for a particular precinct or polling location that may be transported to a polling location.
+
+(2) Except when used as part of the phrase "tabulating equipment" or "automatic tabulating equipment," "equipment" means a voting machine, marking device, automatic tabulating equipment, software, an electronic pollbook, a voter registration system, or a ballots on demand voting system.
+
+(3) "Vendor" means the person that owns, manufactures, distributes, or has the legal right to control the use of equipment, or the person's agent.
+
+(B) Except as otherwise provided in division (B) of section 3506.16 and in division (B) of section 3506.20 of the Revised Code, none of the following shall be purchased, leased, put in use, or continued to be used, except for experimental use as provided in division (B) of section 3506.04 of the Revised Code, unless it, a manual of procedures governing its use, and training materials, service, and other support arrangements have been certified by the secretary of state and unless any board of elections that will use the equipment has assured that a demonstration of the use of the equipment has been made available to all interested electors of the county:
+
+(1) A voting machine;
+
+(2) A marking device;
+
+(3) Automatic tabulating equipment;
+
+(4) Software used for the purpose of casting or tabulating votes or for communication among systems involved in the tabulation, storage, or casting of votes;
+
+(5) An electronic pollbook;
+
+(6) A voter registration system;
+
+(7) A ballots on demand voting system.
+
+(C)(1) The secretary of state shall appoint a board of voting systems examiners to examine and approve equipment and its related manuals and support arrangements.
+
+(2)(a) The board shall consist of four voting members, who shall be appointed as follows:
+
+(i) Two members appointed by the secretary of state;
+
+(ii) One member appointed by either the speaker of the house of representatives or the minority leader of the house of representatives, whichever is a member of the opposite political party from the one to which the secretary of state belongs;
+
+(iii) One member appointed by either the president of the senate or the minority leader of the senate, whichever is a member of the opposite political party from the one to which the secretary of state belongs.
+
+(b) The secretary of state also shall appoint a cybersecurity expert, who shall serve as a nonvoting member of the board.
+
+(3) In all cases of a tie vote or a disagreement in the board, if no decision can be arrived at, the board shall submit the matter in controversy to the secretary of state, who shall summarily decide the question, and the secretary of state's decision shall be final. Each member of the board shall be a competent and experienced election officer or a person who is knowledgeable about the operation of voting equipment and shall serve during the secretary of state's term. Any vacancy on the board shall be filled in the same manner as the original appointment. The secretary of state shall provide staffing assistance to the board, at the board's request.
+
+(4) For the member's service, each member of the board shall receive three hundred dollars per day for each combination of equipment examined and reported, but in no event shall a member receive more than six hundred dollars to examine and report on any one item of equipment. Each member of the board shall be reimbursed for expenses the member incurs during an examination or during the performance of any related duties that may be required by the secretary of state. Reimbursement of these expenses shall be made in accordance with, and shall not exceed, the rates provided for under section 126.31 of the Revised Code.
+
+(5) Neither the secretary of state nor the board, nor any public officer who participates in the authorization, examination, testing, or purchase of equipment, shall have any pecuniary interest in the equipment or any affiliation with the vendor.
+
+(D)(1) A vendor who desires to have the secretary of state certify equipment shall first submit the equipment, all current related procedural manuals, and a current description of all related support arrangements to the board of voting systems examiners for examination, testing, and approval. The submission shall be accompanied by a fee of two thousand four hundred dollars and a detailed explanation of the construction and method of operation of the equipment, a full statement of its advantages, and a list of the patents and copyrights used in the crucial operations of the equipment as determined by the board. An additional fee, in an amount to be set by rules promulgated by the board, may be imposed to pay for the costs of alternative testing or testing by persons other than board members, record-keeping, and other extraordinary costs incurred in the examination process. Moneys not used shall be returned to the person or entity submitting the equipment for examination.
+
+(2) Fees collected by the secretary of state under this section shall be deposited into the state treasury to the credit of the board of voting systems examiners fund, which is hereby created. All moneys credited to this fund shall be used solely for the purpose of paying for the services and expenses of each member of the board or for other expenses incurred relating to the examination, testing, reporting, or certification of equipment, the performance of any related duties as required by the secretary of state, or the reimbursement of any person submitting an examination fee as provided in this chapter.
+
+(E) Within sixty days after the submission of the equipment and payment of the fee, or as soon thereafter as is reasonably practicable, but in any event within not more than ninety days after the submission and payment, the board of voting systems examiners shall examine the equipment and file with the secretary of state a written report on the equipment with its recommendations and, if applicable, its determination or condition of approval regarding whether the equipment, manual, and other related materials or arrangements meet the applicable criteria and can be safely used by the voters at elections under the conditions prescribed in Title XXXV of the Revised Code, or a written statement of reasons for which testing requires a longer period. The board may grant temporary approval for the purpose of allowing experimental use of equipment. If the board finds that the equipment meets the applicable criteria, can be used safely and, if applicable, can be depended upon to record and count accurately and continuously the votes of electors, and has the capacity to be warranted, maintained, and serviced, it shall approve the equipment and recommend that the secretary of state certify the equipment. The secretary of state shall notify all boards of elections of any such certification. Equipment of the same model and make, if it operates in an identical manner, may then be adopted for use.
+
+(F) The vendor shall notify the secretary of state, who shall then notify the board of voting systems examiners, of any enhancement and any significant adjustment to the hardware or software that could result in a patent or copyright change or that significantly alters the crucial operations of the equipment as determined by the board. The vendor shall provide the secretary of state with an updated operations manual for the equipment, and the secretary of state shall forward the manual to the board. Upon receiving such a notification and manual, the board may require the vendor to submit the equipment to an examination and test in order for the equipment to remain certified. The board or the secretary of state shall periodically examine, test, and inspect certified equipment to determine continued compliance with all applicable requirements and the initial certification. Any examination, test, or inspection conducted for the purpose of continuing certification of any equipment in which a significant problem has been uncovered or in which a record of continuing problems exists shall be performed pursuant to divisions (D) and (E) of this section, in the same manner as the examination, test, or inspection is performed for initial approval and certification.
+
+(G) If, at any time after the certification of equipment, the board of voting systems examiners or the secretary of state is notified by a board of elections of any significant problem with the equipment or determines that the equipment fails to meet the requirements necessary for approval or continued compliance with all applicable requirements, or if the board of voting systems examiners determines that there are significant enhancements or adjustments to the hardware or software, or if notice of such enhancements or adjustments has not been given as required by division (F) of this section, the secretary of state shall notify the users and vendors of that equipment that certification of the equipment may be withdrawn.
+
+(H)(1) The notice given by the secretary of state under division (G) of this section shall be in writing and shall specify both of the following:
+
+(a) The reasons why the certification may be withdrawn;
+
+(b) The date on which certification will be withdrawn unless the vendor takes satisfactory corrective measures or explains why there are no problems with the equipment or why the enhancements or adjustments to the equipment are not significant.
+
+(2) A vendor who receives a notice under division (G) of this section shall, within thirty days after receiving it, submit to the board of voting systems examiners in writing a description of the corrective measures taken and the date on which they were taken, or the explanation required under division (H)(1)(b) of this section.
+
+(3) Not later than fifteen days after receiving a written description or explanation under division (H)(2) of this section from a vendor, the board shall determine whether the corrective measures taken or the explanation is satisfactory to allow continued certification of the equipment, and the secretary of state shall send the vendor a written notice of the board's determination, specifying the reasons for it. If the board has determined that the measures taken or the explanation given is unsatisfactory, the notice shall include the effective date of withdrawal of the certification. This date may be different from the date originally specified in division (H)(1)(b) of this section.
+
+(4) A vendor who receives a notice under division (H)(3) of this section indicating a decision to withdraw certification may, within thirty days after receiving it, request in writing that the board hold a hearing to reconsider its decision. Any interested party shall be given the opportunity to submit testimony or documentation in support of or in opposition to the board's recommendation to withdraw certification. Failure of the vendor to take appropriate steps as described in division (H)(1)(b) or to comply with division (H)(2) of this section results in a waiver of the vendor's rights under division (H)(4) of this section.
+
+(I)(1) The secretary of state, in consultation with the board of voting systems examiners, shall establish, by rule, guidelines for the approval, certification, and continued certification of the equipment to be used under Title XXXV of the Revised Code. The guidelines shall establish procedures requiring vendors or computer software developers to place in escrow with an independent escrow agent approved by the secretary of state a copy of all source code and related documentation, together with periodic updates as they become known or available. The secretary of state shall require that the documentation include a system configuration and that the source code include all relevant program statements in low- or high-level languages. As used in this division, "source code" does not include variable codes created for specific elections.
+
+(2) Nothing in any rule adopted under division (I) of this section shall be construed to limit the ability of the secretary of state to follow or adopt, or to preclude the secretary of state from following or adopting, any guidelines proposed by the federal election commission, any entity authorized by the federal election commission to propose guidelines, the election assistance commission, or any entity authorized by the election assistance commission to propose guidelines.
+
+(3)(a) Before the initial certification of any direct recording electronic voting machine with a voter verified paper audit trail, and as a condition for the continued certification and use of those machines, the secretary of state shall establish, by rule, standards for the certification of those machines. Those standards shall include, but are not limited to, all of the following:
+
+(i) A definition of a voter verified paper audit trail as a paper record of the voter's choices that is verified by the voter prior to the casting of the voter's ballot and that is securely retained by the board of elections;
+
+(ii) Requirements that the voter verified paper audit trail shall not be retained by any voter and shall not contain individual voter information;
+
+(iii) A prohibition against the production by any direct recording electronic voting machine of anything that legally could be removed by the voter from the polling place, such as a receipt or voter confirmation;
+
+(iv) A requirement that paper used in producing a voter verified paper audit trail be sturdy, clean, and resistant to degradation;
+
+(v) A requirement that the voter verified paper audit trail shall be capable of being optically scanned for the purpose of conducting a recount or other audit of the voting machine and shall be readable in a manner that makes the voter's ballot choices obvious to the voter without the use of computer or electronic codes;
+
+(vi) A requirement, for office-type ballots, that the voter verified paper audit trail include the name of each candidate selected by the voter;
+
+(vii) A requirement, for questions and issues ballots, that the voter verified paper audit trail include the title of the question or issue, the name of the entity that placed the question or issue on the ballot, and the voter's ballot selection on that question or issue, but not the entire text of the question or issue.
+
+(b) The secretary of state, by rule adopted under Chapter 119. of the Revised Code, may waive the requirement under division (I)(3)(a)(v) of this section, if the secretary of state determines that the requirement is cost prohibitive.
+
+(4)(a) Except as otherwise provided in divisions (I)(4)(b) and (c) of this section, any equipment used in this state shall meet, as a condition of continued certification and use, the voting system standards adopted by the federal election commission in 2002 or the voluntary voting system guidelines most recently adopted by the federal election assistance commission. Equipment initially certified or acquired on or after December 1, 2008, also shall have the most recent federal certification number issued by the election assistance commission.
+
+(b) Division (I)(4)(a) of this section does not apply to any equipment that the federal election assistance commission does not certify as part of its testing and certification program.
+
+(c) A county that acquires additional voting machines, marking devices, or automatic tabulating equipment on or after December 1, 2008, shall not be considered to have acquired those machines, devices, or equipment on or after December 1, 2008, for the purpose of division (I)(4)(a) of this section if all of the following apply:
+
+(i) The voting machines, marking devices, or automatic tabulating equipment acquired are the same as the machines, devices, or equipment currently used in that county.
+
+(ii) The acquisition of the voting machines, marking devices, or automatic tabulating equipment does not replace or change the primary voting system used in that county.
+
+(iii) The acquisition of the voting machines, marking devices, or automatic tabulating equipment is for the purpose of replacing inoperable machines, devices, or equipment or for the purpose of providing additional machines, devices, or equipment required to meet the allocation requirements established pursuant to division (I) of section 3501.11 of the Revised Code.
+
+Last updated January 17, 2025 at 11:31 AM

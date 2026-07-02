@@ -1,0 +1,375 @@
+:root {
+  color-scheme: light;
+  --ink: #17201a;
+  --muted: #647069;
+  --line: #d7ddd7;
+  --paper: #fbfaf6;
+  --panel: #ffffff;
+  --panel-soft: #f0f4ef;
+  --accent: #2f6f52;
+  --accent-strong: #1e533d;
+  --gold: #b8872e;
+  --shadow: 0 18px 50px rgba(23, 32, 26, 0.10);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  color: var(--ink);
+  background:
+    linear-gradient(135deg, rgba(47, 111, 82, 0.12), rgba(184, 135, 46, 0.10)),
+    repeating-linear-gradient(0deg, rgba(23, 32, 26, 0.028), rgba(23, 32, 26, 0.028) 1px, transparent 1px, transparent 28px),
+    var(--paper);
+  font-family: Georgia, "Iowan Old Style", "Palatino Linotype", serif;
+}
+
+button,
+input {
+  font: inherit;
+}
+
+.site-header {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 24px;
+  padding: 28px 36px 20px;
+  border-bottom: 1px solid var(--line);
+  background: rgba(251, 250, 246, 0.86);
+  backdrop-filter: blur(12px);
+}
+
+.site-header h1 {
+  max-width: 780px;
+  margin: 6px 0 0;
+  font-size: clamp(2rem, 4vw, 4.2rem);
+  line-height: 0.98;
+  font-weight: 650;
+}
+
+.eyebrow {
+  margin: 0;
+  color: var(--accent-strong);
+  font-family: "Avenir Next", "Gill Sans", sans-serif;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.download-link {
+  display: inline-flex;
+  min-height: 44px;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 16px;
+  color: #fff;
+  background: var(--accent-strong);
+  border: 1px solid var(--accent-strong);
+  border-radius: 6px;
+  font-family: "Avenir Next", "Gill Sans", sans-serif;
+  font-weight: 700;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.layout {
+  display: grid;
+  grid-template-columns: 280px minmax(0, 1fr);
+  gap: 20px;
+  padding: 20px;
+}
+
+.collection-list,
+.browser,
+.chapter-nav,
+.reader,
+.references {
+  background: rgba(255, 255, 255, 0.88);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  box-shadow: var(--shadow);
+}
+
+.collection-list {
+  align-self: start;
+  position: sticky;
+  top: 20px;
+  padding: 16px;
+}
+
+.collection-list h2,
+.references h3 {
+  margin: 0 0 12px;
+  font-family: "Avenir Next", "Gill Sans", sans-serif;
+  font-size: 0.94rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.collection-card {
+  display: grid;
+  width: 100%;
+  gap: 4px;
+  margin: 0 0 10px;
+  padding: 13px;
+  text-align: left;
+  color: var(--ink);
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 6px;
+}
+
+.collection-card.active {
+  border-color: rgba(47, 111, 82, 0.45);
+  background: #eef7f1;
+}
+
+.collection-card span,
+.summary,
+.muted-text {
+  color: var(--muted);
+  font-family: "Avenir Next", "Gill Sans", sans-serif;
+  font-size: 0.88rem;
+}
+
+.collection-card strong {
+  font-family: "Avenir Next", "Gill Sans", sans-serif;
+  font-size: 1rem;
+}
+
+.collection-card.muted {
+  opacity: 0.7;
+}
+
+.browser {
+  min-width: 0;
+  overflow: hidden;
+}
+
+.browser-toolbar {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 18px;
+  padding: 18px;
+  border-bottom: 1px solid var(--line);
+}
+
+.browser-toolbar h2 {
+  margin: 4px 0 0;
+  font-size: 1.8rem;
+}
+
+.search-box {
+  display: grid;
+  width: min(420px, 42vw);
+  gap: 6px;
+  color: var(--muted);
+  font-family: "Avenir Next", "Gill Sans", sans-serif;
+  font-size: 0.82rem;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.search-box input {
+  width: 100%;
+  min-height: 42px;
+  padding: 8px 12px;
+  color: var(--ink);
+  background: var(--panel-soft);
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  outline-color: var(--accent);
+}
+
+.browser-grid {
+  display: grid;
+  grid-template-columns: 290px minmax(0, 1fr) 260px;
+  min-height: calc(100vh - 210px);
+}
+
+.chapter-nav,
+.references {
+  border: 0;
+  border-radius: 0;
+  box-shadow: none;
+}
+
+.chapter-nav {
+  border-right: 1px solid var(--line);
+  overflow: auto;
+}
+
+.summary {
+  padding: 14px;
+  border-bottom: 1px solid var(--line);
+}
+
+.chapter-list {
+  display: grid;
+  gap: 1px;
+}
+
+.chapter-block {
+  border-bottom: 1px solid var(--line);
+}
+
+.chapter-button,
+.section-button {
+  width: 100%;
+  border: 0;
+  border-radius: 0;
+  color: var(--ink);
+  background: transparent;
+  text-align: left;
+  cursor: pointer;
+}
+
+.chapter-button {
+  padding: 13px 14px;
+  font-family: "Avenir Next", "Gill Sans", sans-serif;
+  font-weight: 800;
+}
+
+.section-list {
+  display: none;
+  padding: 0 0 8px;
+}
+
+.chapter-block.open .section-list {
+  display: block;
+}
+
+.section-button {
+  padding: 7px 14px 7px 26px;
+  color: #2d3b34;
+  font-family: "Avenir Next", "Gill Sans", sans-serif;
+  font-size: 0.88rem;
+  line-height: 1.3;
+}
+
+.chapter-button:hover,
+.section-button:hover,
+.section-button.active {
+  background: #edf3ee;
+}
+
+.reader {
+  min-width: 0;
+  max-height: calc(100vh - 210px);
+  overflow: auto;
+  padding: 28px 34px;
+  border: 0;
+  border-radius: 0;
+  box-shadow: none;
+  background: rgba(255, 255, 255, 0.72);
+}
+
+.reader h1 {
+  margin: 0 0 16px;
+  font-size: clamp(1.7rem, 3vw, 2.7rem);
+  line-height: 1.08;
+}
+
+.reader h2 {
+  margin-top: 28px;
+  padding-top: 14px;
+  border-top: 1px solid var(--line);
+  font-size: 1.25rem;
+}
+
+.reader p,
+.reader li {
+  max-width: 84ch;
+  font-size: 1.03rem;
+  line-height: 1.62;
+}
+
+.reader .source-line {
+  margin: 0 0 18px;
+  color: var(--muted);
+  font-family: "Avenir Next", "Gill Sans", sans-serif;
+  font-size: 0.86rem;
+}
+
+.reader-empty {
+  color: var(--muted);
+  font-family: "Avenir Next", "Gill Sans", sans-serif;
+}
+
+.references {
+  max-height: calc(100vh - 210px);
+  overflow: auto;
+  padding: 16px;
+  border-left: 1px solid var(--line);
+}
+
+.reference-pill {
+  display: block;
+  margin: 0 0 8px;
+  padding: 9px 10px;
+  color: var(--accent-strong);
+  background: #edf6ef;
+  border: 1px solid rgba(47, 111, 82, 0.24);
+  border-radius: 6px;
+  font-family: "Avenir Next", "Gill Sans", sans-serif;
+  font-size: 0.9rem;
+  text-decoration: none;
+}
+
+mark {
+  background: rgba(184, 135, 46, 0.24);
+  color: inherit;
+}
+
+@media (max-width: 1060px) {
+  .layout,
+  .browser-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .collection-list {
+    position: static;
+  }
+
+  .browser-toolbar {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
+  .search-box {
+    width: 100%;
+  }
+
+  .chapter-nav,
+  .references {
+    max-height: none;
+    border: 0;
+    border-bottom: 1px solid var(--line);
+  }
+
+  .reader {
+    max-height: none;
+  }
+}
+
+@media (max-width: 680px) {
+  .site-header {
+    align-items: stretch;
+    flex-direction: column;
+    padding: 22px 18px;
+  }
+
+  .layout {
+    padding: 12px;
+  }
+
+  .reader {
+    padding: 22px 18px;
+  }
+}

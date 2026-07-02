@@ -1,0 +1,14 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3515.07
+Scraped: 2026-07-02T16:44:10+00:00
+
+# Section 3515.07 - Charges for recounts.
+
+**Effective:** May 2, 2006
+
+**Latest Legislation:** House Bill 3 - 126th General Assembly
+
+The charges for making a recount of votes of precincts listed in an application for a recount filed with the board of elections shall be fixed by the board and shall include all expenses incurred by the board because of the application other than the regular operating expenses that the board would have incurred if the application had not been filed. The total amount of charges so fixed divided by the number of precincts listed in the application, the votes of which were recounted, shall be the charge per precinct for the recount of the votes of the precincts listed in the application, the votes of which were recounted; provided that the charges per precinct so fixed shall not be more than fifty or less than five dollars for each precinct the votes of which were recounted.
+
+Such charge per precinct shall be deducted by the board from the money deposited with the board by the applicant for the recount at the time of filing the application, and the balance of the money so deposited shall be returned to the applicant; provided that no such charge per precinct shall be deducted by the board from the money deposited for a recount of votes cast for a nomination or for an election to an office or position in any precinct, if the total number of votes cast in such precinct for the applicant, as recorded by the recount, is more than four per cent larger than the number of votes for the applicant in that precinct recorded in the original certified abstract, nor shall any charge per precinct be deducted for a recount of votes cast in any precinct upon a question or issue if the total number of votes in that precinct on the same side of that question or issue as the side represented by the applicant, as recorded by the recount, is more than four per cent larger than the number of votes in that precinct on the same side of that question or issue recorded in the original certified abstract. No such charge per precinct shall be deducted if upon the completion of a recount concerning a nomination or election the applicant is declared nominated or elected, or if upon the completion of a recount concerning a question or issue the result of that election is declared to be opposite to the original declaration of the result of that election.
+
+All moneys deposited with a board by an applicant shall be deposited in a special depository fund with the county treasurer. The expenses of the recount and refunds shall be paid from that fund upon order of the board of elections. Any balance remaining in that fund shall be paid into the general fund of the county.

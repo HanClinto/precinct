@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Precinct Reference Library</title>
+    <link rel="stylesheet" href="assets/site.css">
+  </head>
+  <body>
+    <header class="site-header">
+      <div>
+        <p class="eyebrow">Precinct Reference Library</p>
+        <h1>Public civic references, organized for use.</h1>
+      </div>
+      <a class="download-link" id="downloadLink" href="https://github.com/HanClinto/precinct/releases/download/orc-title-35-latest/ohio-revised-code-title-35.zip">Download ORC Title 35 ZIP</a>
+    </header>
+
+    <main class="layout">
+      <aside class="collection-list" aria-label="Reference collections">
+        <h2>Collections</h2>
+        <button class="collection-card active" type="button" data-collection="orc">
+          <span>Ohio Revised Code</span>
+          <strong>Title 35 - Elections</strong>
+        </button>
+        <div class="collection-card muted">
+          <span>More references</span>
+          <strong>Coming later</strong>
+        </div>
+      </aside>
+
+      <section class="browser" aria-labelledby="browserTitle">
+        <div class="browser-toolbar">
+          <div>
+            <p class="eyebrow" id="collectionScope">Ohio Revised Code</p>
+            <h2 id="browserTitle">Title 35 - Elections</h2>
+          </div>
+          <label class="search-box">
+            <span>Search</span>
+            <input id="searchInput" type="search" placeholder="Search sections, chapters, or text">
+          </label>
+        </div>
+
+        <div class="browser-grid">
+          <nav class="chapter-nav" aria-label="Ohio Revised Code chapters">
+            <div id="summary" class="summary">Loading...</div>
+            <div id="chapterList" class="chapter-list"></div>
+          </nav>
+
+          <article class="reader" id="reader" tabindex="-1">
+            <div class="reader-empty">Loading Ohio Revised Code data...</div>
+          </article>
+
+          <aside class="references" aria-label="Cross references">
+            <h3>References</h3>
+            <div id="referenceList" class="reference-list muted-text">Select a section to inspect references.</div>
+          </aside>
+        </div>
+      </section>
+    </main>
+
+    <script src="assets/site.js"></script>
+  </body>
+</html>

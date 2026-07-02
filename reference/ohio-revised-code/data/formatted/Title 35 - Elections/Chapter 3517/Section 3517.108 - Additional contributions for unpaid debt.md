@@ -1,0 +1,30 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3517.108
+Scraped: 2026-07-02T16:44:30+00:00
+
+# Section 3517.108 - Additional contributions for unpaid debt.
+
+**Effective:** September 30, 2025
+
+**Latest Legislation:** House Bill 96 - 136th General Assembly
+
+(A) As used in divisions (A) and (B) of this section:
+
+(1) "Candidate" has the same meaning as in section 3517.01 of the Revised Code but includes only candidates for the offices of governor, lieutenant governor, secretary of state, auditor of state, treasurer of state, attorney general, member of the general assembly, chief justice of the supreme court, and justice of the supreme court.
+
+(2) A "general election period" begins on the day after the primary election immediately preceding the general election at which a candidate seeks an office specified in division (A)(1) of this section and ends on the thirty-first day of December following that general election.
+
+(3) A "primary election period" begins on the first day of January of the year following the year in which the general election was held for the office that the candidate seeks, including any mid-term election, and ends on the day of the primary election.
+
+(B) Whenever the campaign committee of a candidate has unpaid debt at the end of a primary election period or at the end of a general election period, the committee may accept additional contributions during the immediately following election period up to the applicable limitation prescribed under section 3517.102 of the Revised Code from any individual, political action committee, political contributing entity, or other campaign committee who, during the primary or general election period for which debt remains unpaid, has contributed less than the contribution limitations prescribed under section 3517.102 of the Revised Code applicable to that individual, political action committee, political contributing entity, or other campaign committee. Any additional contribution that a campaign committee accepts under this division shall count toward the applicable limitations prescribed under section 3517.102 of the Revised Code for that primary or general election period at the end of which the debt remains unpaid, and shall not count toward the applicable limitations for any other primary or general election period if all of the following conditions apply:
+
+(1) The campaign committee reports, on the statement required to be filed under division (A)(2) of section 3517.10 of the Revised Code, all debt remaining unpaid at the end of the election period. The committee shall also file a separate statement, on a form prescribed by the secretary of state, at the same time that the committee is required to file a statement of contributions and expenditures under section 3517.10 of the Revised Code. The separate statement shall include the name and address of each contributor who makes an additional contribution under division (B) of this section, how the contribution was applied to pay the unpaid debt as required by division (B)(3) of this section, and the balance of the unpaid debt after each contribution was applied to it.
+
+(2) The additional contributions are accepted only during the primary or general election period, whichever is applicable, immediately following the election period covered in the statement filed under division (B)(1) of this section.
+
+(3) All additional contributions made under division (B) of this section are used by the campaign committee that receives them only to pay the debt of the committee reported under division (B)(1) of this section.
+
+(4) The campaign committee maintains a separate account for all additional contributions made under division (B) of this section and uses moneys in that account only to pay the unpaid debt reported under division (B)(1) of this section and to administer the account.
+
+(5) The campaign committee stops accepting additional contributions after funds sufficient to repay the unpaid debt reported under division (B)(1) of this section have been raised and promptly disposes of any contributions received that exceed the amount of the unpaid debt by returning the excess contributions to the contributors or by giving the excess contributions to an organization that is exempt from federal income taxation under subsection 501(a) and described in subsection 501(c)(3), (4), (8), (10), or (19) of the Internal Revenue Code.
+
+Last updated July 24, 2025 at 2:15 PM

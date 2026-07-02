@@ -1,0 +1,12 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3505.34
+Scraped: 2026-07-02T16:42:26+00:00
+
+# Section 3505.34 - Canvass of abstracts of votes for state executive offices by general assembly.
+
+**Effective:** April 7, 2023
+
+**Latest Legislation:** House Bill 458 - 134th General Assembly
+
+During the first week of the regular session of the general assembly following a regular state election, the president of the senate, in the presence of a majority of the members of each house of the general assembly, shall open, announce, and canvass the abstracts of the votes cast for the offices of governor and lieutenant governor, secretary of state, auditor of state, treasurer of state, and attorney general, as contained in the Form No. 2 sent to the president of the senate as required by section 3505.33 of the Revised Code, and shall determine and declare the results of such election for such offices. The joint candidates for governor and lieutenant governor and the candidate for each other office who received the largest number of votes shall be declared elected to such office. If two or more candidates for election to the same office, or two or more sets of joint candidates for governor and lieutenant governor, receive the largest and an equal number of votes, one of them, or one set of joint candidates for governor and lieutenant governor, shall be declared elected to such office by a majority of the votes of all of the members of the senate and the house of representatives of the general assembly. If said Form No. 2 has not at such time been received by the president of the senate from the board of elections of any county, the secretary of state, upon request of the president of the senate, shall furnish to the president of the senate such copies of said Form No. 2 as have not been received by the president of the senate. When said canvass has been completed and the results of the election declared, the president of the senate shall certify to the secretary of state the names of the persons declared elected together with the title of the office to which each has been elected, and from such certification the secretary of state shall issue a certificate of election to the officials declared elected and so certified to the secretary of state. Thereupon the governor shall forthwith issue a commission to each of the persons elected to such offices.
+
+Last updated January 24, 2023 at 3:59 PM

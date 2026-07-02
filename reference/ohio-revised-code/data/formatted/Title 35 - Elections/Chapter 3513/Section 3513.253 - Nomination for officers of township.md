@@ -1,0 +1,10 @@
+Source: https://codes.ohio.gov/ohio-revised-code/section-3513.253
+Scraped: 2026-07-02T16:43:49+00:00
+
+# Section 3513.253 - Nomination for officers of township.
+
+**Effective:** July 2, 2010
+
+**Latest Legislation:** House Bill 48 - 128th General Assembly
+
+Nominations of candidates for election as officers of a township shall be made only by nominating petitions, unless a majority of the electors of such township have petitioned for a primary election. The nominating petitions of nonpartisan candidates for township trustee and township fiscal officer shall be signed by not less than twenty-five qualified electors of the township. Such petition shall be filed with the board of elections not later than four p.m. of the ninetieth day before the day of the general election, provided that no such nominating petition shall be accepted for filing if it appears to contain signatures aggregating in number more than three times the minimum number of signatures required by this section. A board of elections shall not accept for filing a nominating petition of a person if that person, for the same election, has already filed a declaration of candidacy, a declaration of intent to be a write-in candidate, or a nominating petition, or has become a candidate through party nomination at a primary election or by the filling of a vacancy under section 3513.30 or 3513.31 of the Revised Code for any other township office, or for a municipal office, for member of a city, local, or exempted village board of education, or for member of a governing board of an educational service center. When a petition of a candidate has been accepted for filing by a board of elections, the petition shall not be deemed invalid if, upon verification of signatures contained in the petition, the board of elections finds the number of signatures accepted exceeds three times the minimum number of signatures required. A board of elections may discontinue verifying signatures when the number of verified signatures on a petition equals the minimum required number of qualified signatures.
